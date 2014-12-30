@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wephoneapp.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206183915id_/http%3A//www.wephoneapp.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wephoneapp.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230070628id_/http%3A//www.wephoneapp.com/privacypolicy.html) for the most accurate reproduction.*
 
 # WePhone | WePhone Privacy Policy
 
 WePhone Privacy Policy
 
-(Last updated on Jan 10, 2012)
+(Last updated on Jan 13, 2014)
 
 Innovation Works, Inc. ("WePhone" or "we" or "us" or "our" or other similar pronouns) takes your privacy matters very seriously. Please read the following to learn more about our Privacy Policy ("Policy"). This Policy details how we receive, collect and use information in connection with our website located at WePhoneNow.com (the "Site"), the WePhone VoIP software ("WePhone App"), and other products and services provided on the WePhoneNow.com website (all of the foregoing, collectively, the "Services").
 
