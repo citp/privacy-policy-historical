@@ -1,74 +1,48 @@
-> *The following text is extracted and transformed from the technorati.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083447id_/http%3A//www.technorati.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technorati.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045356id_/http%3A//technorati.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Technorati
 
-[Home](http://technorati.com/) Privacy Policy
+_Version effective: Sept. 3, 2014_
 
-_Version effective: June 13, 2011_
+TechnoratiMedia (“we,” “our” or “us”) offers a digital advertising supply, yield optimization, and value acceleration platform to our publisher and advertiser customers (“Publishers” and “Advertisers” respectively, and “Clients” collectively). We partner with exchanges, demand side platforms, agency trading desks, and other programmatic companies to execute predictive algorithms as well as pricing and path analysis to pair the most valuable ad creative with the most viable ad impression instance. As part of our services, we may engage in activities that determine which ad to present based on various consumer traits and demographics (also known as “targeted advertising”), and otherwise attempt to increase the effectiveness of advertising using various tools and techniques based on the individual consumer’s web-browsing and search patterns (also known as “behavioral targeting” or “behavioral advertising”).
 
-Technorati Media (“we,” “our” or “us”) is an online advertising network _._ Our customers include advertisers and other ad networks (our “Clients”). These Clients buy and sell space on websites, blogs, and other media (“Publishers”), and we provide the technology that displays their ads on the Publisher sites. We may receive the ads directly from the Client and serve them directly on the Publisher site, or there may be other ad networks, agencies or exchanges (each of which may be our Client) situated between the [advertiser](http://technorati.com/glossary/advertiser/ "Glossary: Advertiser") and the Publisher site. As part of our services, we will attempt to find Publishers where the ads from our Clients are most likely to be helpful and appreciated, as well as using information received from Publishers as described below. To do this, we may collect information about the types of people that visit the Publisher site, view the ads, and click on the ads to learn more about the product, service or company. The more we learn about the audience, the better the fit of ads with Publishers, and the more useful the Publisher site is to the audience. That’s where you come in; as part of that audience we are interested in the types of Publishers you visit, and the types of ads you are likely to be interested in. That way we can try to avoid showing you ads for products that are _not_ interesting to you. Your privacy is important to us so we have developed this policy to give you details as to what information about you we will collect when we perform these services, and what choices you have relating to our use of that information.
+### What This Policy Covers
 
-### **What This Policy Covers**
+The privacy of our Clients and of the consumers that see and respond to advertising that we serve (“Users”) is important to us so we have developed this policy to provide details as to what information we will collect in the course of performing services, and what choices Clients and Users have relating to our use of that information. This policy addresses both information that we collect as a function of providing services to Clients and displaying ads on Publisher sites, as well as information and privacy issues relating to the access and use of the TechnoratiMedia website (the “Site”) by both Clients and Users. This policy does not address the collection and use of information on any Advertiser websites except as explicitly stated herein, or on any of the websites owned or controlled by our parent company Technorati, Inc. that provide services other than the ones described here. Privacy on those websites is governed by the individual Advertiser privacy policy on the Advertiser website, and the Technorati, Inc. general privacy policy found at [www.technorati.com/privacy-policy](http://www.technorati.com/privacy-policy), respectively.
 
-This policy only addresses information that we collect as a function of providing services to Clients and displaying ads on Publisher sites. It does not address information and privacy issues relating to the access and use of the Technorati Media website itself, or any of the websites that Technorati Media, or its parent company Technorati, Inc., owns, controls or operates separate from the services we provide to our Clients and Publishers. That uses of information is addressed by Technorati, Inc.’s general privacy policy found at [www.technorati.com/privacy-policy](http://www.technorati.com/privacy-policy).
+### Information Collection & Use
 
-### **Information Collection & Use**
+_Types of Information_
 
-Information can be either Personally Identifiable Information (“PII”) or non-Personally Identifiable Information (“non-PII”). PII is information that directly identifies you, such as your name, address, email address, and telephone number. Non-PII is information that is not specifically associated with your identity, such as context information, records of what you click on while web browsing (such as a hyperlink), click-stream data, demographic and [behavioral data](http://technorati.com/glossary/behavioral-data/ "Glossary: Behavioral Data"), the IP address from which a website or ad is viewed or accessed, the ads displayed on a Publisher site, which ads you click on and how often, and generally other aggregate or statistical information that is not PII.
+Information can be either Personally Identifiable Information (“PII”) or non-Personally Identifiable Information (“non-PII”). PII is information that directly identifies you, such as your name, address, email address, and telephone number. Non-PII is information that is not specifically associated with your identity, such as context information, records of what you click on while web browsing (such as a hyperlink), click-stream data, demographic and behavioral data, the IP address from which a website or ad is viewed or accessed, the ads displayed on a Publisher site, which ads you click on and how often, and generally other aggregate or statistical information that is not PII.
 
-_We do not collect PII as part of our services relating to ads served for Clients on Publisher sites._ If you click on an ad served by us, you may be directed to a third party site, where the advertiser may request PII from you. If so, the collection and use of your PII is governed by the privacy policy for that advertiser’s website, and not this policy.
+_Personally Identifiable Information (PII)_
 
-We use the non-PII collected from Publisher sites and through Client ads to provide our services to you, Clients and Publishers, selecting the ads that you see, so that you are more likely to see ads that are useful to you (also known as “targeting”), internal business operations, planning, evaluation, improvement and enhancement of performance of our services, and external performance reporting. We may add non-PII from other sources (e.g., other ad networks, information provided by Clients) to the non-PII that we collect, again for the above purposes.
+_We do not collect PII as part of our services relating to ads served for Advertisers on Publisher sites._ If you click on an ad served by us, you may be directed to the Advertiser’s site, where the Advertiser may request PII from you. If so, the collection and use of your PII is governed by the privacy policy for that Advertiser’s website, and not this policy. In accordance with the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/) and the [Digital Advertising Alliance (DAA)](http://www.aboutads.info/) Self-Regulatory Principles, we request that all of our Clients have privacy policies, provide Users with conspicuous access to those policies, and disclose what information they collect from Users on their sites. However, we are unable to monitor every transaction tracked by each of our many Clients and confirm that they have such policies and conform to a particular standard on privacy. _You should look for a privacy policy statement on each Advertiser or Publisher site you link to through ads that we serve and review the policy to determine what PII and other information they collect and how they use it._
 
-Information from user-submitted forms on this site may be used for promotional communication. Technorati will provide users with the opportunity to opt out of such communications.
+We do collect PII from Clients in order to provide them with our services, including, without limitation, billing, collection, and payment of fees owed to and from Clients. Such PII is used solely for the purpose of providing them with the services and is never disclosed or sold to a third party for other purposes.
 
-### **Information Sharing**
+We use vendors and service agencies to assist us in operating the Site and providing our services. We will need to share your PII (and data generated by cookies and beacons) with these vendors and service agencies. _The vendors and service agencies do not receive any right to use your PII beyond what is necessary to perform its obligations to provide the services._ Except as provided in this policy, we will not disclose PII to third parties.
 
-We sometimes share aggregated information with our Clients and Publishers, in particular advertisers, to help them improve their ads and offer you a better experience. We do not link this aggregate non-PII with any PII from any source, so you will not be identified as an individual to any Client. We may share aggregated statistics on our services and performance with Clients, Publishers, business partners or outside vendors without permission. As part of our agreements with Clients and Publishers, we require them to use any information they receive from us in accordance with all applicable laws and regulations, and with this Privacy Policy.
+_Non-Personally Identifiable Information (non-PII)_
 
-Sometimes we use other companies and people to perform tasks on our behalf. For example, as noted above, some ads are served through multiple networks, agencies, exchanges and ad servers. We will share your information with these providers only for the purpose of allowing us to supply our services and deliver the ads to the Publishers.
+We use the non-PII collected from Publisher sites and through ads to provide our services to you and our Clients. This includes targeting ads and using behavioral advertising techniques to help select which ads you see so that you are more likely to see ads that are useful to you. We may add non-PII from other sources (e.g., other ad networks, information provided by Clients) to the non-PII that we collect, again for the above purposes. We will not share targeting and behavioral information with our Clients, except in statistical or aggregate form. This type of information is collected and tracked automatically as a function of your browser. If you do not want us to collect targeting or behavioral information you need to consult the documentation for your browser to determine how to turn off those functions. You should also be aware that third party sites and social media often collect and disseminate such information and that you need to confirm with each such site or social media service how to turn off that function.
 
-We also reserve the right to disclose any information we collects if we believe in good faith that its release is necessary to (1) comply with the law; (2) enforce or apply terms and conditions of use and other agreements; (3) or protect the rights, property or safety of our employees, Clients, Publishers, affiliates, and others.
+We also use non-PII to track and analyze how our services and the Site is accessed. This type of non-PII is collected only in statistical form and used only in an aggregate manner; you are never personally identified or tied to such information. This aggregate data may be used by us and third party vendors to assist in the operation of our Site and our services and provided to Clients and other third parties to enable them to better understand the operation of our business, again only in aggregate form that will not contain any PII.
 
-Finally, in the event Technorati Media experiences a business transition such as a merger, [acquisition](http://technorati.com/glossary/acquisition/ "Glossary: Acquisition") by another company, or sale of all or a portion of its assets, any information governed by this policy will be part of the assets transferred. We reserve the right to make such a transfer, and you consent to the transfer and continued use of such information by the acquiring party, but only in accordance with the terms of this policy.
+### Collection Technology and Opt-out
 
-### **Collection Technology and Opt-out**
+We collect information by many means, but all of them are based in some way on technology associated with the ads served on Publisher sites. In particular, we use cookies, pixels, web beacons and other types of collection technology.
 
-We collect non-PII by many means, but all of them are based in some way on technology associated with the ads served on Publisher sites. In particular, we use cookies, pixels, web beacons and other types of collection technology.
+A cookie is a small text file stored on your computer to track session data, identify that your computer has visited a Publisher site or seen an ad before, and perform other useful functions. A cookie takes up only a small amount of space in a folder on your hard drive, and is not an applet or other type of program. A session cookie expires when you exit your browser. A persistent cookie stays on your computer until it is deleted. You can set your browser to reject all cookies, ask your permission before accepting a cookie, or to remove all cookies. Without the cookies, however, you may not be able to experience all of the features of the site or ad.
 
-A [cookie](http://technorati.com/glossary/cookie/ "Glossary: Cookie") is a small text file stored on your computer to track session data, identify that your computer has visited a Publisher site or seen an ad before, and perform other useful functions. A cookie takes up only a small amount of space in a folder on your hard drive, and is not an applet or other type of program. A session cookie expires when you exit your browser. A persistent cookie stays on your computer until it is deleted.
+Pixels and web beacons are a line of code embedded in a website, ad or used by an ad server to track navigation and other activity on a particular webpage (e.g., which ads are clicked).
 
-You can set your browser to reject all cookies, ask your permission before accepting a cookie, or to remove all cookies. Without the cookies, however, you may not be able to experience all of the features of the site or ad.
+Third parties such as our Clients may use cookies or other information collection technology on their sites. We have no access or control over these uses or technology. This policy does not cover the use of cookies or other technology or collection of information by any third parties.
 
-Pixels and web beacons are a line of code embedded in a website, ad or used by an [ad server](http://technorati.com/glossary/ad-server/ "Glossary: Ad Server") to track navigation and other activity on a particular webpage (e.g., which ads are clicked).
+Updating, Correcting and Deleting Information.
 
-Third parties (including, without limitation, Clients and Publishers) may use cookies or other information collection technology on their sites. We have no access or control over these uses or technology. This policy does not cover the use of cookies or other technology or collection of information by any third parties.
-
-### **Opting Out**
-
-You can opt out of our ad optimization in two ways:
-
-1\. Block all cookies by disabling cookie use in your browser. This may cause some sites to work incorrectly.
-
-2\. Use our opt-out tool: [Click here to opt-out](https://portal.technoratimedia.com/optout) by setting a special opt-out cookie that tells our system to ignore you.
-
-If you choose to opt out using our tool, you need to repeat the process for each computer or browser you use, and every time you clear your cookies.
-
-### **Security and Confidentiality**
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect. We review these safeguards regularly and take commercially reasonable steps to ensure they meet current industry standards. You should be aware, however, that no system has perfect security and Technorati Media cannot and does not assume responsibility for the security of information beyond such industry standards and its legal obligations.
-
-### **Collection of Information from Children**
-
-Our services, and the ads we deliver, are not intended for children under fourteen (14) years of age. We do not knowingly develop services or direct ads at children. Furthermore, as noted above, we do not knowingly collect any PII from children or otherwise.
-
-### **Changes to This Policy**
-
-This policy is a living document that will change due to internal and external requirements. We may modify this document as we add new features and new services. Changes in information collection practices and technology may also suggest changes in the policy. Changes in the law may also require us to modify our information collection and use practices, which modifications will be reflected in this policy. Accordingly, Technorati Media reserves the right to modify this policy at any time. Although we will attempt to make you aware of material changes through posts on the [www.technoratimedia.com](http://www.technoratimedia.com/) website and other appropriate places, we are not obliged to do so. You should check the date (shown above) on the version of this policy posted on the website occasionally to remain current.
-
-### **Contact Us**
-
-If you have any questions or suggestions about this Privacy Policy please contact Technorati Media at [www.technorati.com/contact-us](http://www.technorati.com/contact-us), or at:
+Upon request we will allow Users and Clients to review, correct and request the deletion of any of the PII that was entered on our Site or through our services. Remember that we have no control over PII entered on an Advertiser or Publisher site; you need to review the relevant site privacy policy and follow its procedures to review such information. To correct or delete any of your information please contact us by e-mailing our customer support at <<URL>>. We will respond to the request within 30 days. Alternatively, you may send a letter with your requested changes, corrections or deletions to the following address:
 
 Technorati, Inc.
 
@@ -76,4 +50,36 @@ Attention: Privacy Officer
 
 360 Post Street, Suite 1100
 
-San Francisco, CA  94108
+San Francisco, CA 94108
+
+### Security and Confidentiality
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect. We review these safeguards regularly and take commercially reasonable steps to ensure they meet current industry standards. You should be aware, however, that no system has perfect security and TechnoratiMedia cannot and does not assume responsibility for the security of information beyond such industry standards and its legal obligations.
+
+Collection of Information from Children
+
+Our services, and the ads we deliver, are not intended for children under fourteen (14) years of age. We do not knowingly develop services or direct ads at children.
+
+Information Disclosure for Legal and Other Exceptional Reasons
+
+We may also disclose your PII: (a) if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an investigation of a governmental authority, (b) to enforce the Terms of Use on our Site or (c) to protect our rights and the safety of users of our Site and our services. In addition, we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which we are a party or to a purchaser of all or substantially all of our assets or business.
+
+_Server Location and Transfer of Information_
+
+PII collected by us is stored and processed in the United States where we (or our service providers) currently maintain computer systems. Your personal data will be processed in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. Your use of the Site means that you agree to this Privacy Policy and specifically that you consent to the transfer of your information (whether it is PII, or some other type of information under the laws local to your country of origin) to the United States, notwithstanding any local laws to the contrary, as well as to the processing of that information as described in this Privacy Policy. We assume no responsibility for where your information is collected, processed and stored by our Clients. If you have concerns about how an Advertiser or Publisher treats your information in conjunction with local laws you need to consult the relevant privacy policy or address your inquiry to that Advertiser or Publisher.
+
+### Changes to This Policy
+
+This policy is a living document that will change due to internal and external requirements. We may modify this document as we add new features and new services. Changes in information collection practices and technology may also suggest changes in the policy. Changes in the law may also require us to modify our information collection and use practices, which modifications will be reflected in this policy. Accordingly, TechnoratiMedia reserves the right to modify this policy at any time. Although we will attempt to make you aware of material changes through posts on the [www.Technorati.com](http://www.technorati.com/) website and other appropriate places, we are not obliged to do so. You should check the date (shown above) on the version of this policy posted on the website occasionally to remain current.
+
+### Contact Us
+
+If you have any questions or suggestions about this Privacy Policy please contact TechnoratiMedia at [www.technorati.com/contact/](http://www.technorati.com/contact/), or at:
+
+Technorati, Inc.
+
+Attention: Privacy Officer
+
+360 Post Street, Suite 1100
+
+San Francisco, CA 94108
