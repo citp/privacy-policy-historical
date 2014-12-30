@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the c-sharpcorner.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151659id_/http%3A//www.c-sharpcorner.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-sharpcorner.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230091813id_/http%3A//www.c-sharpcorner.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # C# Corner : Privacy Policy
 
-C# Corner (We, Website, Us) is a community of developers, programmers and IT professionals. We recognize our users and members as our biggest asset, strive to provide them a quality service and are committed to respect their personal information and protecting it from any harm.   
-
+C# Corner (We, Website, Us) is a community of developers, programmers and IT professionals. We recognize our users and members as our biggest asset, strive to provide them a quality service and are committed to respect their personal information and protecting it from any harm. 
 
 #####  Information Collection and Use 
 
