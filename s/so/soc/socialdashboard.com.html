@@ -1,0 +1,529 @@
+<!--The following is the downloaded HTML source of the socialdashboard.com privacy policy that was archived on 2014-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230042805id_/https%3A//socialdashboard.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>
+	Privacy Policy | Social Dashboard	</title>
+		<link href="http://socialdashboard.com/assets/images/favicon_icon.png" rel="shortcut icon">
+	<meta itemprop="title" content="">
+	<meta itemprop="image" content="">
+	<meta property="og:title" content="">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="">
+	<meta property="og:image" content="">
+	<meta property="og:image:secure_url" content="">
+	<meta property="og:description" content="">
+	<meta property="og:site_name" content="Social Dashboard">
+	<meta itemprop="description" content="">
+	<link href="http://socialdashboard.com/assets/css/style.css" rel="stylesheet" type="text/css">
+	<!--[if gt IE 7]>
+	<link href="http://socialdashboard.com/assets/css/iestyle.css" rel="stylesheet" type="text/css">
+	<!--<![endif]-->
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script><script type="text/javascript" src="http://socialdashboard.com/assets/js/jquery.validate.min.js"></script><script type="text/javascript" src="http://socialdashboard.com/assets/js/sd_frontend.js"></script><script type="text/javascript" src="http://socialdashboard.com/assets/js/login.js"></script><script type="text/javascript">
+
+jQuery(document).ready(function()
+{
+ 	jQuery("#signup").click(function() {
+        jQuery("#signup").next().slideToggle();
+		jQuery("#signup").toggleClass("newuser");
+		jQuery("#login").next().slideToggle();
+		jQuery("#login").toggleClass("newuser");
+        jQuery("#msg").html("");
+    });
+	
+	jQuery("#login").click(function() {
+		jQuery("#login").next().slideToggle();
+		jQuery("#login").toggleClass("newuser");
+		jQuery("#signup").next().slideToggle();
+		jQuery("#signup").toggleClass("newuser");
+        jQuery("#msg").html("");
+	});
+
+	jQuery("#forgotpassword").click(function() {
+		jQuery("#changepassword_div").slideToggle();
+        jQuery("#msg").html("");
+	});
+
+	jQuery(".lgpop").click(function() {
+		jQuery(".black,.model").fadeIn();
+	});
+
+	jQuery("#close_login").click(function() {
+		jQuery(".black,.model").fadeOut().css();
+	});
+	
+	jQuery(".black").click(function() {
+		jQuery(".black,.model").fadeOut().css();
+	});
+
+	jQuery(document).keydown(function(e) {
+		if (e.keyCode == 27) {
+			jQuery(".black,.model").fadeOut().css();
+		}
+	});
+
+	jQuery('.fcs').focus(
+		function(){ 
+			jQuery(this).css({'background-color' : '#e2e2e2'});    
+		});
+
+	jQuery('.fcs').blur(
+		function(){ 
+			jQuery(this).css({'background-color' : '#f1f1f1'});    
+		});
+});
+/*
+var images = new Array();
+preload = ['https://socialdashboard.com/assets/images/smdashboard_layer.png','			https://socialdashboard.com/assets/images/app_img.png','https://socialdashboard.com/assets/images/apps_menu.png',
+		'https://socialdashboard.com/assets/images/news_world.png','https://socialdashboard.com/assets/images/soapbox.png','https://socialdashboard.com/assets/images/footer_logo.jpg','https://socialdashboard.com/assets/images/home/left.png','https://socialdashboard.com/assets/images/home/right.png'];
+		
+function preload() {
+	for (i = 0; i < preload.arguments.length; i++) {
+		images[i] = new Image()
+		images[i].src = preload.arguments[i]
+	}
+}*/
+</script></head>
+
+
+ 
+ 
+
+
+<body>
+    <!--Header Section-->
+	<div class="black"></div>
+	<div class="model">
+		<input type="hidden" id="base_url" value="http://socialdashboard.com/">
+		<input type="hidden" id="login_url" value="http://socialdashboard.com/user/login">
+		<input type="hidden" id="register_url" value="http://socialdashboard.com/user/register">
+		<input type="hidden" id="forgotpassword_url" value="http://socialdashboard.com/user/forgotpassword">
+		<input type="hidden" id="dashboard_url" value="http://socialdashboard.com/dashboard">
+		<input type="hidden" id="after_registration" value="http://socialdashboard.com/dashboard/after_register">
+		<div class="signup_container">
+			<a id="close_login" href="javascript:void(0);">
+				<img style="border:0" src="http://socialdashboard.com/assets/images/login/close_popup_leave.png" alt="" title="">
+			</a>  
+			<div class="s_lcontainer">
+				<div id="msg"></div>
+				<div id="login" class="signup_heading newuser">Login<span></span></div>
+                <div class="displaynone">
+                    <div>
+						<form name="loginForm" class="lgin_form" method="post" action="" id="loginForm">
+                            <div>
+								<input class="fcs" type="text" name="username" id="username" placeholder="Enter Username Or Email">
+							</div>
+							<div>
+								<input class="fcs" type="password" name="password" placeholder="Password">
+							</div>
+							<div>
+								<input type="submit" value="Log Me In" class="submit button" name="submit" id="log">
+							</div>
+                        </form>
+                        <div class="remember">
+							<div class="checkbox">
+									<!-- <input id="check1" type="checkbox" name="check" value="check1">
+									<label for="check1">Remember Me</label>-->
+								<br>
+							</div>
+                            <a href="javascript:;" id="forgotpassword">Forgot my Password</a>
+							<div class="clearfix"></div>
+							<div id="changepassword_div" class="displaynone">
+								<form name="changepassword" class="lgin_form" method="post" action="" id="changepassword">
+									<div>
+										<input class="fcs" type="email" name="useremail" placeholder="Enter email">
+									</div>
+									<div>
+										<input type="submit" value="Get New Password" class="submit button" name="submit" id="log">
+									</div>
+								</form>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+                        <div class="social_links_login">
+                            <span>Or Connect with:</span>
+                            <a href="http://socialdashboard.com/user/slogin/Facebook">
+								<img style="border:0" title="" alt="" src="http://socialdashboard.com/assets/images/login/fb.png">
+							</a>
+                            <a href="http://socialdashboard.com/user/slogin/Google">
+								<img style="border:0" title="" alt="" src="http://socialdashboard.com/assets/images/login/g+.png">
+							</a>
+                            <a href="http://socialdashboard.com/user/slogin/Twitter">
+								<img style="border:0" title="" alt="" src="http://socialdashboard.com/assets/images/login/twitter.png">
+							</a>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+                <div id="signup" class="signup_heading ">New User Registration<span></span></div>                  
+				<div>
+					<form method="POST" action="" class="lgin_form" id="adduser">
+						<div>
+							<input class="fcs" type="text" placeholder="User Name" name="username">
+						</div>
+						<div>
+							<input class="fcs" type="email" placeholder="Enter Email" name="email">
+						</div>
+						<div>
+							<input class="fcs" type="password" placeholder="Password" id="password" name="password">
+						</div>
+						<div>
+							<input class="fcs" type="password" placeholder="Repeat Password" name="cpassword">
+						</div>
+						<div class="remember">
+							<div class="checkbox">
+								<input id="check1" type="checkbox" name="check" value="check1">
+								<label for="check1">Send me details via mail</label>
+							</div>
+						</div>
+						<div>
+							<input type="submit" value="Register" class="lgin_form" id="addusersub" name="adduser">
+						</div>
+					</form>
+                    <br>
+                    <div class="social_links_login">
+						<span>Or Connect with:</span>
+						<a href="http://socialdashboard.com/user/slogin/Facebook"><img style="border:0" src="http://socialdashboard.com/assets/images/login/fb.png" alt="" title=""></a>
+						<a href="http://socialdashboard.com/user/slogin/Google"><img style="border:0" src="http://socialdashboard.com/assets/images/login/g+.png" alt="" title=""></a>
+						<a href="http://socialdashboard.com/user/slogin/Twitter"><img style="border:0" src="http://socialdashboard.com/assets/images/login/twitter.png" alt="" title=""></a>
+						<div class="clearfix"></div>
+                    </div>
+                </div>    
+            </div>
+
+			<div class="s_lcontainer secondive">
+				<div>
+					<div class="box4">
+						<img style="border:0" src="http://socialdashboard.com/assets/images/login/create.png" alt="" title="">
+						<h2>1.Create 
+							<span>Soapbox</span>
+						</h2>
+					</div>
+					<div class="box4">
+						<img style="border:0" src="http://socialdashboard.com/assets/images/login/sharing.png" alt="" title="">
+						<h2>2.Select 
+							<span>Social Sharing</span>
+						</h2>
+					</div>
+					<div class="box4">
+						<img style="border:0" src="http://socialdashboard.com/assets/images/login/monitor.png" alt="" title="">
+						<h2>3.Monitor  
+							<span>Performance</span>
+						</h2>
+					</div>
+				</div>
+				<img style="border:0" src="http://socialdashboard.com/assets/images/login/manimg.png" alt="" title="">
+			</div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+           
+	<div class="home_header"> 
+		<div class="clearfix"></div>
+		<div class="header inner_pages">
+			<header>
+				<div class="logo"> 
+					<a href="http://socialdashboard.com/">
+						<img src="http://socialdashboard.com/assets/images/logo.png" alt="" title="">
+					</a>
+				</div>
+				<div>
+					<nav>
+						<ul>
+							<li class="">
+								<a href="http://socialdashboard.com/soapbox">Soapbox</a>
+							</li>
+															<li><a href="javascript:void();" class="lgpop">Social Media Dashboard</a></li> 
+															<li class="">
+								<a href="http://socialdashboard.com/news">News</a>
+							</li>
+							<li><a href="http://appstore.socialdashboard.com">Apps</a></li>
+						</ul>
+					</nav>
+				</div>
+				<div class="search">
+					<form method="post" action="http://socialdashboard.com/search">
+						<input type="search" class="srch" id="search" name="search" placeholder="Search here" required="" autofocus="">
+						<input type="submit" name="" value="" class="submit_srch">
+					</form>
+					
+											<a href="javascript:void(0);" class="lgpop">Login</a> 
+						<a href="javascript:void(0);" class="lgpop">Signup</a>             
+										</div>
+				<div class="clearfix"></div>
+			</header>
+		</div>
+        
+		<!--- Home Slider -->
+		<!--
+		<div class="banner" id="home_slider">
+			<ul>
+				<li class="slider_home_1 ptop">
+					<div class="slider_contant">
+						<h1>Content sharing made simple,</br>so your posts have greater reach.</h1>
+						<h6>Manage, Schedule and analyze the performance of your content.</h6>
+						<a href="#"  onclick="jQuery('.black,.model').fadeIn();">SIGN UP FOR FREE</a>
+					</div>
+				</li>
+				<li class="slider_home_2 ptop">
+					<div class="slider_contant">
+						<h1>We manage your social media </br>content.</h1>
+						<h6>Manage, Schedule and analyze the performance of your content.</h6>
+						<a href="#"  onclick="jQuery('.black,.model').fadeIn();">SIGN UP FOR FREE</a>
+					</div>
+				</li>
+				<li class="slider_home_3 ptop">
+					<div class="slider_contant">
+						<h1>Better than blogging.</h1>
+						<h6>Create a free soapbox and share throughtout social media for free.</h6>
+						<a href="#"  onclick="jQuery('.black,.model').fadeIn();">Get Started</a>
+					</div>
+				</li>
+				<li class="slider_home_4 ptop">
+					<div class="slider_contant">
+						<h1>Discover a Mobile App Community </br>Like No Other.</h1>
+						<h6>Visit our App store that offers over 31 categories of andriod apps for </br/>download.</h6>
+						<a href="#" onclick="jQuery('.black,.model').fadeIn();">SIGN UP FOR FREE</a>
+					</div>
+				</li>
+			</ul>
+			<a href="#" class="unslider-arrow prev">
+				<img style="border:0" src="http://socialdashboard.com/assets/images/home/left.png" alt="" />
+			</a>
+			<a href="#" class="unslider-arrow next">
+				<img style="border:0" src="http://socialdashboard.com/assets/images/home/right.png" alt="" />
+			</a> 
+		</div>
+		-->
+		<!--- End of Home Slider --->
+	</div>
+
+<script type="text/javascript" src="http://socialdashboard.com/assets/js/unslider.js"></script> 
+<script>
+jQuery(document).ready(function(){
+	jQuery('.div_sprk').click(toggleDiv);
+	function toggleDiv(){
+		jQuery('#login_links').slideToggle('2000', "swing", function () {
+			// Animation complete.
+		});
+	}
+});
+
+/*
+var unslider = jQuery('.banner').unslider();
+
+jQuery('.unslider-arrow').click(function() {
+	var fn = this.className.split(' ')[1];
+   
+ 
+	unslider.data('unslider')[fn]();
+});
+
+var unslider = jQuery('#home_slider').unslider();
+jQuery('.unslider-arrow').click(function() 
+{
+	var fn = this.className.split(' ')[1];		
+	unslider.data('unslider')[fn]();
+});*/
+</script>
+
+
+<script type="text/javascript">
+jQuery('.submit_srch').click(function(){
+	//alert("xchdfH");
+	jQuery.ajax({
+		async : true,
+		url: "http://socialdashboard.com/home/check_paramaeters/" ,			
+		type:"POST",
+		success: function(response){
+			//alert(response);
+		}	
+	});	  
+});
+
+jQuery('#search').keypress(function (e) {
+	var key = e.which;
+	if(key == 13)  // the enter key code
+	{
+		//alert("xchdfH");
+		jQuery.ajax({
+			async : true,
+			url: "http://socialdashboard.com/home/check_paramaeters/" ,			
+			type:"POST",
+			success: function(response){
+				//alert(response);
+			}	
+		});  
+	}
+}); 
+</script>
+<div class="container">
+	<h1>Privacy Policy</h1>
+	
+	<p>Please take a few minutes to carefully review this Privacy Policy which explains how we collect, use and share your information. Social Dashboard will provide notice of materially significant changes to this privacy policy by posting notice on the Social Dashboard website.</p>
+
+	<p>Social Dashboard provides services that help users quickly and easily connect with each other and manage content and contact information. In order to provide these services to you, we collect and share certain information that helps you manage content and makes connecting with others quicker and easier. When you use the Social Dashboard Website, Plugins or Applications, you consent to our collection, use, and disclosure of your information as described in this Privacy Policy.</p>
+	
+	<h3>INFORMATION WE COLLECT AND USE:</h3>
+	<ul>
+		<li>When you sign up for an account, we collect certain personal information such as your name, email address, telephone number or credit card. We also ask you to create a publically visible profile.</li>
+		<li>Social Dashboard collects and stores the information that you share with Social Dashboard. This includes:
+			<ul>
+				<li>Website links</li>
+				<li>Contacts</li>
+				<li>Saved Content</li>
+				<li>Reviews</li>
+				<li>Etc</li>
+			</ul>
+		</li>
+	</ul>
+	
+	<ul>
+		<li>The Social Dashboard's website, plugins and applications monitor the websites that you visit and the information that you access on those websites. This information can include: o Information from your computer and browser, including your IP address, cookie information, software and hardware attributes, and the pages you request o Transactions, including information about your use of financial products and services o Your geographic location o Etc.</li>
+		<li>Social Dashboard uses your information to: o Help you manage your links, contacts, content, reviews, etc. o Share your publically visible profile with those who we believe you may have an interest in communicating with, along with a general reason why they may want to communicate with you. For example, if you are browsing postings on craigslist, we will share, in real time, your publically visible profile with those persons who posted the ad you are currently reviewing along with a note that you are currently viewing their posted ad. This is done to allow both you and the craigslist poster to determine if you both would like to initiate a real time chat. o Customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. INFORMATION WE SHARE:</li>
+		<li>Your publically visible profile.</li>
+		<li>We will share personal information with companies, organizations or individuals outside of Social Dashboard when we have your consent to do so.</li>
+		<li>If Social Dashboard detects a relationship between you and another user (such as a website operator, company or person) Social Dashboard will provide the option to both you and the other user to connect with each other in a live chat. Only your publically visible profile and the information you are accessing relevant to the other user will be shared with the other user.</li>
+		<li>We allow third parties who provide services relating to advertising to use information about you in connection with the use of Social Dashboard's Website, Plugins and Programs. As a result, they may collect and store the same type of information and use it for the same type of purposes as described above. They may also be able to associate the information they collect with other information they have about you from other sources. We do not necessarily have access to or control over the information they use. You may be able to opt-out of some of their practices by visiting the following links: Network Advertising Initiative, Omniture, Aperture, and PrivacyChoice. Please note that opting out does not prevent you from receiving advertisements.</li>
+		<li>We will share personal information with companies, organizations or individuals outside of Social Dashboard if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary tomeet any applicable law, regulation, legal process or enforceable governmental request. We may also access and share personal information with companies, organizations or individuals outside of Social Dashboard in order to: o Enforce applicable Terms of Service, including investigation of potential violations. o Detect, prevent, or otherwise address fraud, security or technical issues. o Protect against harm to the rights, property or safety of Social Dashboard, our users or the public.</li>
+		<li>We may share aggregated, non-personally identifiable information publicly and with our partners, such as publishers, advertisers or connected sites.</li>
+		<li>If Social Dashboard is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.</li>
+		<li>Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in the Social Dashboard website, plugin or application, sites that may include services related to Social Dashboard, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. CONFIDENTIALITY AND SECURITY:</li>
+		<li>We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.</li>
+		<li>Although no method electronic storage or of transmission over the Internet or via mobile device is completely secure, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. CONTROLLING YOUR PERONAL DATA</li>
+		<li>Other users may be able to identify you, or associate you with your user account if you include personal information in your publically available profile. You can reduce the risk of being personally identified by using a pseudonym.</li>
+		<li>Please also note that the messages you send or receive using Social Dashboard are only private to the extent that you and the sender/recipient keep them private. For example, we do not have any control over whether a recipient of one of your personal messages publicly posts it or its contents. CHILDREN</li>
+		<li>Social Dashboard is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us here. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.</li>
+	</ul>
+</div><!--Testimonials-->
+<!--
+<div class="banner">
+	<ul>
+		<li>
+			<div class="testimonials">
+				<div class="container">
+					<p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id ex tempus, dignissim orci sed, finibus libero. Proin sit amet orci tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra.”</p>
+					<div class="roundimg"> 
+						<img style="border:0" src ="images/soapbox/testimonial.png" alt="" title="" />
+					</div>
+					<h3> JP Lespinasse </h3>
+					<p> Senior Director of Social Media, BET </p>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="testimonials">
+				<div class="container">
+					<p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id ex tempus, dignissim orci sed, finibus libero. Proin sit amet orci tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra.”</p>
+					<div class="roundimg">
+						<img style="border:0" src ="images/soapbox/testimonial.png" alt="" title="" />
+					</div>
+					<h3> JP Lespinasse </h3>
+					<p> Senior Director of Social Media, BET </p>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="testimonials">
+				<div class="container">
+					<p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id ex tempus, dignissim orci sed, finibus libero. Proin sit amet orci tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra.”</p>
+					<div class="roundimg">
+						<img style="border:0" src ="images/soapbox/testimonial.png" alt="" title="" />
+					</div>
+					<h3> JP Lespinasse </h3>
+					<p> Senior Director of Social Media, BET </p>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="testimonials">
+				<div class="container">
+					<p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id ex tempus, dignissim orci sed, finibus libero. Proin sit amet orci tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra.”</p>
+					<div class="roundimg">
+						<img style="border:0" src ="images/soapbox/testimonial.png" alt="" title="" />
+					</div>
+					<h3> JP Lespinasse </h3>
+					<p> Senior Director of Social Media, BET </p>
+				</div>
+			</div>
+		</li>
+	</ul>    
+	<a href="#" class="unslider-arrow prev">Previous slide</a>
+	<a href="#" class="unslider-arrow next">Next slide</a>
+	
+	<script>
+	   // var unslider = jQuery('.banner').unslider();
+		
+		jQuery('.unslider-arrow').click(function() {
+			var fn = this.className.split(' ')[1];
+			
+			//  Either do unslider.data('unslider').next() or .prev() depending on the className
+			unslider.data('unslider')[fn]();
+		});
+	</script>
+</div> -->
+
+<div class="f_container">
+	<a href="http://socialdashboard.com/">
+		<img style="border:0" src="http://socialdashboard.com/assets/images/footer_logo.jpg" alt="Social Dashboard" title="Social Dashboard">
+	</a>
+    	
+	<ul class="f_social_links">
+		<li class="fb"><a href="https://www.facebook.com/socialmedianewsresources" target="_blank"></a> </li>
+		<li class="gplus"><a href="https://plus.google.com/101111492445881790982/posts" target="_blank"></a> </li>
+		<li class="lin"><a href="https://www.linkedin.com/profile/view?id=356635978" target="_blank"></a> </li>
+		<li class="pin"><a href="http://www.pinterest.com/Socialdshboard/" target="_blank"></a> </li>
+		<li class="insta"><a href="http://instagram.com/socialdashboard" target="_blank"></a> </li>
+		<li class="v"><a href="#"></a> </li>
+		<li class="skype"><a href="#"></a> </li>
+		<li class="twitter"><a href="https://twitter.com/Socialdshboard" target="_blank"></a> </li>
+		<li class="ytube"><a href="https://www.youtube.com/channel/UCdCWha3UoP8nIMpdTQiqc1Q" target="_blank"></a> </li>
+	</ul> 
+        
+    <div class="clearfix"></div>
+        
+	<ul class="f_links">
+		<li><a href="http://socialdashboard.com/soapbox">Soapbox </a></li>
+					<li><a href="#" class="lgpop">Social Media Dashboard</a></li> 
+					<li><a href="http://socialdashboard.com/news">News </a></li>
+		<li><a href="http://socialdashboard.com/privacy-policy">Privacy Policy</a></li>
+		<li><a href="http://socialdashboard.com/user-policy">User Policy</a></li>
+	</ul>
+    <p class="copyrite">© 2014 Social Dashboard, Inc. All Rights Reserved.</p>
+</div>
+
+<footer style="display:none">		
+	<div class="footerinner">
+		<div>
+			<ul>
+				<li><a href="#">Soapbox</a></li>
+				<li><a href="#">Social Media Dashboard</a></li>
+				<li><a href="#">News</a></li>
+				<li><a href="#">Privacy Policy</a></li>
+				<li><a href="#">User Policy</a></li>
+				<li>  <div class="copy_right">©2014 . All rights reserved.</div></li>
+			</ul>        	
+        </div>				
+	</div>
+</footer>
+	
+<script src="http://socialdashboard.com/assets/js/jquery.jscrollpane.min.js" type="text/jscript"></script>
+<script>
+/*jQuery('a[href^="#"]').click(function() {
+
+	var target = (jQuery(this).attr('href'));
+	var pos = target.offset(); 
+
+	if(pos) 
+	{
+		jQuery('html, body').animate({
+			scrollTop: pos.top,
+			scrollLeft: pos.left
+		}, 1000);
+	}
+	return false;
+});*/
+</script> 
+
+</body></html>
