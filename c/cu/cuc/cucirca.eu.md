@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cucirca.eu privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624091807id_/http%3A//www.cucirca.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cucirca.eu privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230123243id_/http%3A//www.cucirca.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy »
+# Privacy Policy -
 
 **Cucirca.com Privacy Policy**
 
