@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinejobs.ph privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331195720id_/http%3A//www.onlinejobs.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinejobs.ph privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230161200id_/http%3A//www.onlinejobs.ph/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | OnlineJobs.ph
 
