@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igvault.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210072149id_/http%3A//www.igvault.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igvault.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230184525id_/http%3A//www.igvault.com/policy.html) for the most accurate reproduction.*
 
-# WOW Gold, Diablo 3 Gold, Aion Kinah, GW2 Gold, RS Gold, Silkroad Gold, Metin2 yang,SWTOR Credits, EVE isk - IGVault
+# Fifa coins, Dofus Kamas, Aion Kinah - IGVault
 
 **Privacy Policy**   
 Sailor & Oasis Co.,Limited and its affiliated companies (collectively, the 'Company' respect your privacy rights and recognize the importance of protecting the Personal Information (as defined below) provided by you to us. This Privacy Policy describes how the Company collects, stores, and uses the Personal Information you provide to us through the Company's web sites and through telephone or e-mail communications you may have with us. This Privacy Policy also describes the choices available to you regarding the Company's use of the Personal Information you provide to us, and the actions you can take to access this information and request that the Company correct or delete it. 
