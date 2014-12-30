@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 101greatgoals.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624041248id_/http%3A//www.101greatgoals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101greatgoals.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230061047id_/http%3A//www.101greatgoals.com/privacy-policy) for the most accurate reproduction.*
 
-# 101 Great Goals Privacy and Cookie Policy
+# 101 Great Goals Privacy and Cookie Policy | Football (soccer) highlights, goals, videos & clips | 101 Great Goals
 
 1\. This Privacy and Cookie Policy explains how 101 Great Goals processes information about you both directly and indirectly. Please read this Privacy and Cookie Policy in conjunction with the terms & conditions of the particular service or services you are using.
 
