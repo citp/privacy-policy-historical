@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629034411id_/http%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042612id_/http%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eHow
 
-**Effective Date: September 22, 2011**
+Effective Date: September 22, 2011
 
 eHow.com is owned and operated by Demand Media, Inc. (“eHow” or “We” or “Us”). eHow is strongly committed to protecting your privacy and providing a safe online experience for all our users. This Privacy Policy (the “Policy”) discusses the personally identifying information (“PII”) that we collect about you through eHow's website, which includes all of the eHow.com articles and videos and other services we provide on the website (collectively, the “Site”). Please read the complete Policy below and contact us if you have any questions. This Policy is part of and incorporated into the Terms of Use of the Site.
 
@@ -29,6 +29,8 @@ Our cookies do not collect PII that you provide to us during the registration pr
 **Pixel Tags**. In our emails to you, we may use "pixel tags" to determine if your email software or service can display html-formatted email (this helps us optimize the size of our email messages and conserve bandwidth).
 
 **Collection of Information by Third Parties**. Our Site may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. We do not provide any PII to these advertisers, third-party websites, or other businesses, although on occasion we may mutually share non-personally identifiable (e.g. demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology.
+
+Click here to adjust your advertising preferences
 
 **Promotions, Sweepstakes, and Contests**. From time to time, we may host a promotion, sweepstake, or contest on the Site. You may be asked to provide PII or permit the transfer to a third party of your PII in connection with such promotion, sweepstake or contest. It will be disclosed at the point of collection or transfer who is collecting or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer or collection of PII to a third party.
 
