@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoclick.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630052007id_/https%3A//www.exoclick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoclick.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080805id_/https%3A//www.exoclick.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ExoClick
 
@@ -18,24 +18,24 @@ ExoClick has been awarded TRUSTe’s Privacy Seal signifying that this privacy p
 ### 1\. Collection and Use of Personal Information
 
 We collect the following personal information from you  
-\- Contact Information such as name, email address, mailing address, phone number  
-\- Billing Information such as credit card number, and billing address  
-\- Financial Information such as bank account numbers  
-\- Social Security Number, Company ID number or Passport Number  
-\- Unique Identifiers such as user name, account number, password  
-\- Information about your business such as company name, company size, business type
+– Contact Information such as name, email address, mailing address, phone number  
+– Billing Information such as credit card number, and billing address  
+– Financial Information such as bank account numbers  
+– Social Security Number, Company ID number or Passport Number  
+– Unique Identifiers such as user name, account number, password  
+– Information about your business such as company name, company size, business type
 
 As is true of most websites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We use this information to  
-\- Fulfill your order  
-\- Send you an order confirmation  
-\- Send you requested product or service information  
-\- Send product updates  
-\- Respond to customer service requests  
-\- Administer your account  
-\- Send you a newsletter  
-\- Send you marketing communications  
-\- Respond to your questions and concerns  
-\- Conduct research and analysis
+– Fulfill your order  
+– Send you an order confirmation  
+– Send you requested product or service information  
+– Send product updates  
+– Respond to customer service requests  
+– Administer your account  
+– Send you a newsletter  
+– Send you marketing communications  
+– Respond to your questions and concerns  
+– Conduct research and analysis
 
 **Choice/Opt-Out**  
 You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at privacy@exoclick.com.
@@ -47,10 +47,10 @@ We will share your personal information with third parties only in the ways that
 We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 We may also disclose your personal information  
-\- as required by law such as to comply with a subpoena, or similar legal process  
-\- when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,  
-\- if ExoClick is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,  
-\- to any other third party with your prior consent to do so.
+– as required by law such as to comply with a subpoena, or similar legal process  
+– when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,  
+– if ExoClick is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,  
+– to any other third party with your prior consent to do so.
 
 **PayPal, Payoneer or Paxum**  If you choose to use PayPal, Payoneer or Paxum to finalize and pay for your order, you will provide your credit card number, directly to PayPal/Payoneer/Paxum. PayPal/Payoneer/Paxum’s privacy policy will apply to the information you provide on the PayPal/Payoneer/Paxum Web site.
 
@@ -84,5 +84,5 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us by writing or email us at the address below:
 
-Address: ExoClick S.L. - Marina 16 – 18, Floor 18 – 08005 Barcelona, Spain  
+Address: ExoClick S.L. – Marina 16 – 18, Floor 18 – 08005 Barcelona, Spain  
 Email: privacy@exoclick.com
