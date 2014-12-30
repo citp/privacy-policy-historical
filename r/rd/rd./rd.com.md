@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rd.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160342id_/http%3A//www.rd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rd.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044707id_/http%3A//www.rd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest
 
@@ -42,7 +42,7 @@ Please be aware that when you connect and share your actions, comments, content 
 
 If you do not wish to receive promotional and newsletter emails from Reader’s Digest you may click on the unsubscribe link at the bottom of those emails.
 
-You can also change your promotional and newsletter email preferences by [clicking here to go to the E-Mail Preference Center form](https://web.archive.org/profilecenter/openPreferencePage.do).
+You can also change your promotional and newsletter email preferences by [clicking here to go to the E-Mail Preference Center form](http://pages.email.rd.com/page.aspx?QS=c76003443ff9837dd7351e542c0c9ccb23ce729861533058).
 
 If you opt-out of promotional or newsletter emails from Reader’s Digest, we may continue to send you certain communications such as service announcements and administrative messages, relating to Reader’s Digest and rd.com that are necessary to our relationship with you.
 
