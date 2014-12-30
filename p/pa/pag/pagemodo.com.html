@@ -1,21 +1,21 @@
-<!--The following is the downloaded HTML source of the pagemodo.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625150629id_/http%3A//www.pagemodo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pagemodo.com privacy policy that was archived on 2014-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230104433id_/http%3A//www.pagemodo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://tracker.marinsm.com/tracker/async/2932in917575.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-DPSW"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"e0d3e45992","applicationID":"2377221","transactionName":"cl1XQkQMXQ8HExpbWFVXQRlGEVgVAwJM","queueTime":9,"applicationTime":143,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwECVFJUGwEDU1ZQBQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://tracker.marinsm.com/tracker/async/2932in917575.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-DPSW"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"e0d3e45992","applicationID":"2377221","transactionName":"cl1XQkQMXQ8HExpbWFVXQRlGEVgVAwJM","queueTime":10,"applicationTime":85,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwECVFJUGwEDU1ZQBQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
   <title>Pagemodo.com - Privacy</title>
 
-  <link href="http://d1x1klo9zku3iu.cloudfront.net/assets/external-fab98a444cf18963c1704318e1081cd3.css" media="all" rel="stylesheet" type="text/css">
-    <link href="http://d1x1klo9zku3iu.cloudfront.net/assets/locale/en-a2067295d15d4cc51711d11762448154.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="http://d1x1klo9zku3iu.cloudfront.net/assets/external-2fab93d1ca9912f8b05143ab96214bcd.css" media="all" rel="stylesheet" type="text/css">
+    <link href="http://d1x1klo9zku3iu.cloudfront.net/assets/locale/en-2683a0f23d179e02f0e3a23145c39019.css" media="screen" rel="stylesheet" type="text/css">
 
-	<script src="http://d1x1klo9zku3iu.cloudfront.net/assets/application-8c66f81881d47dde786dfa837e948033.js" type="text/javascript"></script>
+	<script src="http://d1x1klo9zku3iu.cloudfront.net/assets/application-a3bb9ddbf8d7441ace0be4a66ddfc622.js" type="text/javascript"></script>
 	 <meta name="ROBOTS" content="INDEX, FOLLOW, NOODP"> 
 <meta name="Slurp" content="NOYDIR">
 <meta name="description" content="Pagemodo.com Privacy Policy covering Facebook Fan Page tabs customized with our Fan Page builder.">
 
-<link href="http://d1x1klo9zku3iu.cloudfront.net/assets/external-fab98a444cf18963c1704318e1081cd3.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://d1x1klo9zku3iu.cloudfront.net/assets/external/privacy-3c7ca3c7320b6f1e854ffc2f24f0f29c.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://d1x1klo9zku3iu.cloudfront.net/assets/external-2fab93d1ca9912f8b05143ab96214bcd.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://d1x1klo9zku3iu.cloudfront.net/assets/external/privacy-04f3f1ecdbb3286ca2c802c48a4b52f3.css" media="screen" rel="stylesheet" type="text/css">
 
 
   <meta property="og:type" content="website">
@@ -23,7 +23,7 @@
   <meta property="og:site_name" content="Pagemodo">
   
   <meta content="authenticity_token" name="csrf-param">
-<meta content="U5H80c6iJz7tAszMLpMPkKlIsocLmrv7i7l7EbopXK0=" name="csrf-token">
+<meta content="qRdh6p5MJgUGQDdSv/0ia1aS4xxhB1j8Dc6O1eCiUPA=" name="csrf-token">
 
   	<script type="text/javascript">
 		var js_js_application_unable_to_connect = "We were unable to connect to your account, please go to help at the bottom of the page to fix the issue.";
@@ -159,7 +159,7 @@
 		var js_facebook_pages_index_loading = "Loading...";
 		var js_facebook_pages_index_new_tab = "New Tab";
 		var js_facebook_pages_index_new_page = "New Page";
-		var js_facebook_pages_index_new_cover_photo = "My New Cover Photo";
+		var js_facebook_pages_index_new_cover_photo = "New Cover Photo";
 		var js_facebook_pages_index_search_clients = "Search Clients";
 		var js_facebook_pages_index_change_tab_name_to = "What would you like to change the tab name to?";
 		var js_facebook_pages_index_unable_to_rename = "Unable to rename your tab. Please try again.";
@@ -221,11 +221,12 @@
 		var js_js_cover_photo_upgrade_to_publish = "Upgrade to Publish";
 		var js_js_cover_photo_publish_to_my_fan_page = "Publish to My Fanpage";
 		var js_js_cover_photo_publish_to_my_profile = "Publish to My Profile";
-
+		var js_js_cover_photos_select_a_profile = "Select the page you would like to design a cover photo for:";
 
 
 
  		var js_js_post_image_mode_please_wait_while_draft = "Please wait while your draft is being saved.";
+ 		var js_js_post_image_mode_please_wait_while_saving_ad = "Please wait while your ad image is being saved.";
  		var js_js_post_image_mode_we_were_unable_save = "We were unable to save your draft. Please try again.";
 
 		var js_js_color_picker_reset = "Reset";
@@ -241,7 +242,10 @@
 		var js_js_post_image_mode_your_draft_has = "Your draft has been saved.";
 		var js_js_post_image_mode_unsaved_changes_your_design = "Unsaved changes to your design will be lost.";
 		
-
+		var js_js_post_image_text_big_text = "BIG TEXT";
+		var js_js_post_image_text_medium_text = "MEDIUM TEXT";
+		var js_js_post_image_text_small_text = "Small Text";
+		
 		function js_t( key ) {
   		return eval( 'js_' + key.replace( /\./g, '_' ) );
 		}
@@ -275,15 +279,51 @@
 				</script>
       
   
-        <style type="text/css">
-        .sales-promotion { display: none !important; }
-        </style>
-      
+        <script>
+        var diff = 62126;
+        function updatePromotionCountdown() {
+          if (diff > 0) {
+        		diff--;
+        		var countdown = secondsToTime(diff);
+        		$('.sales-promotion-counter-long').text(countdown['long']);
+        		$('.sales-promotion-counter-short').text(countdown['short']);
+        		$('.sales-promotion-counter-discrete .hour').text(countdown['h']);
+        		$('.sales-promotion-counter-discrete .minute').text(countdown['m']);
+        		$('.sales-promotion-counter-discrete .second').text(countdown['s']);
+      		}
+      		else {
+    		    $('.sales-promotion').attr('style', 'display:none !important;');
+      		}
+      	}
 
-  <link href="http://d1x1klo9zku3iu.cloudfront.net/assets/favicon-381c3e1b97a874220d029525c1f8b9fb.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+      	$(function() {
+          var t = setInterval("updatePromotionCountdown()", 1000);
+  		    $('.close-sale-promotion').click(function(event) {
+  		      event.stopPropagation();
+  		      $(this).parents('.sales-promotion').attr('style', 'display: none !important');
+  		      $("#perpetual-sale-top-bar-spacer").attr('style', 'display: none !important');
+  		      $('.top-bar #perpetual-sale-mini-header, .p-top-bar #perpetual-sale-mini-header').attr('style', 'display: block !important');
+  		      $('.top-bar .account-upgrade, .p-top-bar .account-upgrade').hide();
+            if ($(this).hasClass('new_banner')) {
+              $.post("/users/set_setting", {key: "show_sale_top_banner", value: false});
+            } else {
+      			  $.post("/users/set_setting", {key: "show_perpetual_sale_top_banner", value: false});
+            }
+      			return false;
+  		    })
+        });
+        </script>
+        <link href="http://d1x1klo9zku3iu.cloudfront.net/assets/sales-337224c4f437655556cfbade2cf00613.css" media="screen" rel="stylesheet" type="text/css">
+      
+          <style type="text/css">
+          .sales-promotion.perpetual { display: none !important; }
+          </style>
+        
+
+  <link href="http://d1x1klo9zku3iu.cloudfront.net/assets/favicon-c0be89a1f9594fc50d8c9d89a2b61aeb.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 	
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="external other other0  privacy">
+<body class="external other other0 sales-promotion-active privacy">
 <div id="fb-root"></div>
 <script>
 FACEBOOK_APP_ID = '214242525262773'; 
@@ -328,21 +368,34 @@ FACEBOOK_APP_ID = '214242525262773';
 	<div class="top-bar">
 		<div class="width-constrict">
 			<a href="/" class="logo" title="Create a Custom Facebook Page">Pagemodo</a>
+			<div id="sales-promotion-header" class="sales-promotion sales-flag">
+				<a id="sales-promotion-button" href="/pricing">Sale!</a>
+				<span id="time-remaining" class="sales-promotion-counter sales-promotion-counter-long"></span>
+			</div>
+
 			<div id="additional_logo" class="divider">
 				<div id="sub_logo"></div>
 			</div>
 			<div id="top-nav" class="posts">
-				<a href="/welcome/cover-photos" class="cover_photo_lin top-nav-item" title="Pagemodo Fan Cover Photos">Cover Photos</a>
-				<a href="/welcome/custom-tabs" class="page_app_lin top-nav-item" title="Pagemodo Fan Page Apps">Custom Tabs</a>
-				<a href="/contests" class="page_contests_lin top-nav-item" title="Pagemodo Fan Page Posts">Contests</a>
-				<a href="/welcome/posts" class="page_posts_lin top-nav-item" title="Pagemodo Fan Page Posts">Posts</a>
-				<a href="/welcome/social-photo-editor" class="page_post_designer_lin top-nav-item" title="Pagemodo Fan Page Post Designer">Post Designer</a>
-				<a href="/agency" class="agency_link top-nav-item" title="Agencies">Agencies</a>
-				
-				<a href="/pricing" class="pricing_link top-nav-item" title="Business and Agency Plans">Plans</a>
-				
-        <!-- <a href="/blog" class="blog_link top-nav-item" title="Blog">Blog</a> -->
+				<div class="top-nav-links-drop-down">
 
+					<div class="nav-drop-down">
+						<div class="drop-down-title"><span class="title-text">Features</span> <span class="icon-drop-down"></span></div>
+						<div class="drop-down-links">
+							<a href="/welcome/cover-photos" class="cover_photo_lin drop-down-item" title="Pagemodo Fan Page Cover Photos">Cover Photos</a>
+							<a href="/welcome/contests" class="page_contests_lin drop-down-item" title="Pagemodo Contests &amp; Sweepstakes">Contests</a>
+							<a href="/welcome/custom-tabs" class="page_app_lin drop-down-item" title="Pagemodo Fan Custom Tabs">Custom Tabs</a>
+							<a href="/welcome/social-photo-editor" class="page_post_designer_lin drop-down-item" title="Pagemodo Fan Page Post Designer">Post Designer</a>
+
+							<a href="/welcome/posts" class="page_posts_lin drop-down-item" title="Pagemodo Fan Page Contests">Scheduled Posts</a>
+						</div>
+					</div>
+					<a href="/pricing" class="pricing_link top-nav-item" title="Business and Agency Plans">Pricing</a>
+
+					<a href="/agency" class="agency_link top-nav-item" title="Agencies">Agencies</a>
+
+					<a href="http://www.pagemodo.com/blog/" class="blog_link top-nav-item" title="Blog">Blog</a>
+				</div>
 				<div id="signin_nav" class="divider">
           <a href="#" id="signup_link" class="top-nav-item facebook-connect" title="Create a Custom Facebook Page">Sign Up</a>
           <a href="#" id="signInLink" class="top-nav-item facebook-connect" title="Sign In with your Facebook account">Sign In</a>
@@ -356,7 +409,6 @@ FACEBOOK_APP_ID = '214242525262773';
 							<div id="fb-text">Connect with Facebook</div>
 						</div>
 					</div>
-          <a href="http://legacy.pagemodo.com/" class="old-pagemodo" title="Pagemodo Pagebuilder" rel="nofollow">Go to old version of Pagemodo</a>
 	      </div>
 				<div class="clearfix"></div>
 			</div>
@@ -391,6 +443,7 @@ FACEBOOK_APP_ID = '214242525262773';
   <li id="terms_of_service_nav"><a href="/terms-of-service"><span id="icon"></span>Terms of Service</a></li>
   <li id="privacy_nav"><a href="/privacy"><span id="icon"></span>Privacy Policy</a></li>
   <li id="contact_nav"><a href="/contact"><span id="icon"></span>Contact</a></li>
+  <li id="press_center_nav"><a href="/press-center"><span id="icon"></span>Press Center</a></li>
 </ul>
 <script type="text/javascript">
 	$(function() {
@@ -487,18 +540,18 @@ mixpanel.track("Privacy page");
 			<div class="navigations left">
 				<ul class="company-nav">
 					<li>Products</li>
-	        <li><a href="/welcome/cover-photos" class="cover_photos_link" title="Pagemodo Fan Cover Photos">Cover Photos</a></li>
-					<li><a href="/welcome/custom-tabs" class="page_app_link" title="Pagemodo Fan Page Apps">Custom Tabs</a></li>
-					<li class="contests_footer"><a href="/contests" class="contests_link" title="Pagemodo Contests &amp; Sweepstakes">Contests &amp; Sweepstakes</a></li>
-					<li><a href="/welcome/posts" class="posts_link" title="Pagemodo Fan Page Posts">Schedule Posts</a></li>
+	        <li><a href="/welcome/cover-photos" class="cover_photos_link" title="Pagemodo Fan Page Cover Photos">Cover Photos</a></li>
+					<li><a href="/welcome/custom-tabs" class="page_app_link" title="Pagemodo Fan Custom Tabs">Custom Tabs</a></li>
+					<li class="contests_footer"><a href="/welcome/contests" class="contests_link" title="Pagemodo Contests &amp; Sweepstakes">Contests &amp; Sweepstakes</a></li>
+					<li><a href="/welcome/posts" class="posts_link" title="Pagemodo Fan Page Contests">Schedule Posts</a></li>
 					<li><a href="/welcome/social-photo-editor" class="page_post_designer_link" title="Pagemodo Fan Page Post Designer">Post Designer</a></li>
 					<li><a href="/agency" class="agency_link" title="Agencies">Agencies</a></li>
 
-					<li><a href="/examples" class="examples_link" title="Custom Fan Page Examples">Examples</a></li>
+					<li><a href="/examples" class="examples_link" title="Pagemodo Fan Page Posts">Examples</a></li>
 					
 					
 					
-	        <li><a href="/pricing" class="pricing_link" title="Business and Agency Plans">Plans</a></li>
+	        <li><a href="/pricing" class="pricing_link" title="Business and Agency Plans">Pricing</a></li>
 				
 				</ul>
 			
@@ -511,13 +564,15 @@ mixpanel.track("Privacy page");
 					<li><a href="/facebook-page-for-business-use" class="fb_business_page_footer" title="Facebook Page for Business Use">Facebook for Business Use</a></li>
 	        <li><a href="/terms-of-service" title="Pagemodo Terms">Terms of Service</a></li>
 	        <li><a href="/privacy" title="Pagemodo Privacy Policy">Privacy Policy</a></li>
+                   <li><a href="/sitemap" title="Pagemodo Sitemap">Sitemap</a></li>
+		   <li><a href="/press-center" title="Press Center">Press Center</a></li>
 				</ul>
 			
 				<ul class="connect-nav">
 					<li>Connect</li>
 	        <li><a id="connect-facebook" href="http://www.facebook.com/pagemodo" title="Facebook" target="_blank">Facebook</a></li>
 	        <li><a id="connect-twitter" href="http://www.twitter.com/pagemodo" title="Twitter" target="_blank">Twitter</a></li>
-					<li><a href="/blog" id="connect-blog" title="Blog">Blog</a></li>
+					<li><a href="http://www.pagemodo.com/blog/" id="connect-blog" title="Blog">Blog</a></li>
 	        <li><a id="connect-google-plus" href="https://plus.google.com/107269171757601961284" rel="publisher" title="Google +" target="_blank">Google +</a></li>
 	        <li><a id="connect-youtube" href="http://www.youtube.com/pagemodo" title="YouTube" target="_blank">YouTube</a></li>
 					<li><a id="connect-linkedin" href="http://www.linkedin.com/company/pagemodo" title="Linkedin" target="_blank">Linkedin</a></li>
@@ -556,53 +611,53 @@ $(document).ready(function() {
 </script>
 <dl class="locale_dropdown">
   <dt>
-  	<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_en-f4dbedd0ed907c235700a1ebe0a7bff5.png) no-repeat;">&nbsp;</div><div class="locale_dd_arrows"></div>
+  	<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_en-5167a1bdabad70c50aad355cc4364cb9.png) no-repeat;">&nbsp;</div><div class="locale_dd_arrows"></div>
         &nbsp;
   </dt>
   <dd>
       <ul>
           <li data-locale="en">
-	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_en-f4dbedd0ed907c235700a1ebe0a7bff5.png) no-repeat;">&nbsp;</div>
+	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_en-5167a1bdabad70c50aad355cc4364cb9.png) no-repeat;">&nbsp;</div>
             <a href="http://www.pagemodo.com/en/privacy" id="lang_en">English</a>
           </li>
           <li data-locale="fr">
-	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_fr-a780921aad380e63d15391c037cbdefc.png) no-repeat;">&nbsp;</div>
+	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_fr-035d296a70f340c1b942969120611477.png) no-repeat;">&nbsp;</div>
             <a href="http://www.pagemodo.com/fr/privacy" id="lang_fr">Français</a>
           </li>
           <li data-locale="es">
-	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_es-0efd510121ee491a11221bff323ffb37.png) no-repeat;">&nbsp;</div>
+	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_es-225779bb05fe1b8a60986141023e031c.png) no-repeat;">&nbsp;</div>
             <a href="http://www.pagemodo.com/es/privacy" id="lang_es">Español</a>
           </li>
           <li data-locale="da">
-	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_da-48fd286fe302ca396302ece73212f86a.png) no-repeat;">&nbsp;</div>
+	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_da-79d4322c62b1ce096a81046957d0a49d.png) no-repeat;">&nbsp;</div>
             <a href="http://www.pagemodo.com/da/privacy" id="lang_da">Dansk</a>
           </li>
           <li data-locale="de">
-	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_de-252430756cfc0ffa448a19afd8088293.png) no-repeat;">&nbsp;</div>
+	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_de-be81b4b2dae33cc9571e1316354859ba.png) no-repeat;">&nbsp;</div>
             <a href="http://www.pagemodo.com/de/privacy" id="lang_de">Deutsch</a>
           </li>
           <li data-locale="it">
-	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_it-a641fcce928d62cdb064850f32cd9430.png) no-repeat;">&nbsp;</div>
+	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_it-9b833657982a9b62c09ec9ea944b3f29.png) no-repeat;">&nbsp;</div>
             <a href="http://www.pagemodo.com/it/privacy" id="lang_it">Italiano</a>
           </li>
           <li data-locale="ja">
-	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_ja-94d7c20a57770dacfb60aa22955847ef.png) no-repeat;">&nbsp;</div>
+	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_ja-b393e2c70899e7ee623ad4e5faf79a2d.png) no-repeat;">&nbsp;</div>
             <a href="http://www.pagemodo.com/ja/privacy" id="lang_ja">Japanese</a>
           </li>
           <li data-locale="nl">
-	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_nl-b3ea69557aabfc1d017ceed519393ee8.png) no-repeat;">&nbsp;</div>
+	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_nl-a6d1de005da8586367a96e58c51dd980.png) no-repeat;">&nbsp;</div>
             <a href="http://www.pagemodo.com/nl/privacy" id="lang_nl">Nederlands</a>
           </li>
           <li data-locale="no">
-	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_no-544c0fdb34bf81d11fede361e52ca808.png) no-repeat;">&nbsp;</div>
+	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_no-b0673ddbdd813dd8a1e5a8f8da1d8e03.png) no-repeat;">&nbsp;</div>
             <a href="http://www.pagemodo.com/no/privacy" id="lang_no">Norsk</a>
           </li>
           <li data-locale="pt">
-	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_pt-5a3730d78bb55edff70d5d03d34b3231.png) no-repeat;">&nbsp;</div>
+	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_pt-a647bf1a0308cd08a90752aa0a56ea77.png) no-repeat;">&nbsp;</div>
             <a href="http://www.pagemodo.com/pt/privacy" id="lang_pt">Português</a>
           </li>
           <li data-locale="sv">
-	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_sv-c9fd465f0f38f449d05aecae1b31c80a.png) no-repeat;">&nbsp;</div>
+	    			<div class="locale_flag" style="background: transparent url(http://d1x1klo9zku3iu.cloudfront.net/assets/i18n/flag_sv-1bfca8a00c819845337007d595253f5b.png) no-repeat;">&nbsp;</div>
             <a href="http://www.pagemodo.com/sv/privacy" id="lang_sv">Svenska</a>
           </li>
       </ul>
@@ -623,13 +678,32 @@ $(document).ready(function() {
 		</div>
 	</div>
 
+  <div id="decline-popup-overlay" class="decline-popup"></div>
+<div class="decline-popup facebook-connect" href="#">
+  <div style="position: relative;">
+    <h3>As Simple as 1-2-3</h3>
+    <div class="heart icons"></div>
+    <p>Try Pagemodo with no commitment by connecting with Facebook</p>
+    <ul>
+      <li>We do not post without your permission</li>
+      <li>We do not use your friends list</li>
+      <li>We do not have access to your password</li>
+    </ul>
+    <div id="facebook_connect_start_now">
+      <a id="index_facebook_login_button" class="facebook-connect fb-button" title="Create a Custom Facebook Page, Free">
+        <span class="fb-button-inner fb-logo left"></span>
+        <span class="fb-button-inner fb-button-text">Connect with Facebook</span>
+      </a>
+    </div>
+    <a href="" class="close-decline-popup icons"></a>
+  </div>
+</div>
+
 	<div class="brand-footer">
 	<h3>
-		
-			Webs makes small business marketing simple. Explore the Webs online marketing platform below.
-	</h3>
+		Webs makes small business marketing simple. Explore the Webs online marketing platform below.	</h3>
 	<div class="brand webs">
-		<img alt="Webs" class="brand-logo" src="http://d1x1klo9zku3iu.cloudfront.net/assets/external/brand-footer/webs-7ed4ad714f11a1bc52d95f048437d76b.png">
+		<img alt="Webs" class="brand-logo" src="http://d1x1klo9zku3iu.cloudfront.net/assets/external/brand-footer/webs-b2c56db74fda595b41eb0897876a35d2.png">
 		<p class="tagline">
 			Better Websites Made Simple.
 		</p>
@@ -640,7 +714,7 @@ $(document).ready(function() {
 		</a>
 	</div>
 	<div class="brand pagemodo">
-		<img alt="Pagemodo" class="brand-logo" src="http://d1x1klo9zku3iu.cloudfront.net/assets/external/brand-footer/pagemodo-9e32f2ec91d454eb2c6eac26aa1eee76.png">
+		<img alt="Pagemodo" class="brand-logo" src="http://d1x1klo9zku3iu.cloudfront.net/assets/external/brand-footer/pagemodo-05d48dbbef485467fd629da18734b8c6.png">
 		<p class="tagline">
 			Social Marketing Made Simple
 		</p>
@@ -652,7 +726,7 @@ $(document).ready(function() {
 	</div>
 	<div class="brand contactme">
 
-		<img alt="ContactMe" class="brand-logo" src="http://d1x1klo9zku3iu.cloudfront.net/assets/external/brand-footer/contactme-8cd6166238423a8e77c91c2336d9d9c4.png">
+		<img alt="ContactMe" class="brand-logo" src="http://d1x1klo9zku3iu.cloudfront.net/assets/external/brand-footer/contactme-6bc9d23bc041527787350ee9cdb46b47.png">
 		<p class="tagline">
 			Contact Management Made Simple.
 		</p>
@@ -693,4 +767,4 @@ $(document).ready(function() {
 </script>
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
