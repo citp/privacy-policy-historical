@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneypolo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133409id_/http%3A//moneypolo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneypolo.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230191700id_/http%3A//moneypolo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MoneyPolo
+# Privacy Policy | International fast money and cash transfer - MoneyPolo
 
 Faster, more affordable and equally secure, MoneyPolo is the optimal choice for anyone, regardless of income or location. Welcome to the world where you don’t need a bank for financial transfers and services!
 
