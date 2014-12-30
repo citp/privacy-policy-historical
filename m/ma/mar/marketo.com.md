@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630040737id_/http%3A//www.marketo.com/trust/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045341id_/http%3A//www.marketo.com/trust/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Marketo.com
 
@@ -23,7 +23,7 @@ Marketo collects identifying information when you use the Service, when you visi
 
 All financial and billing information that we collect from you is used for the purposes of checking your qualifications as a prospective customer and billing you for the Service. Such billing information is not used by Marketo for marketing or promotional purposes. Marketo may use a third-party intermediary to manage the credit card and billing processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card and billing processing.
 
-Other personal information we collect, as described above, may be used by Marketo to provide the Service to you, to advertise or market our business, promotions, or services, keep and maintain accounts, keep records of transactions, and for financial management of our business and performing the Service Agreement. Thus, for instance, if you provide us with your email address, we may send you emails (which you may unsubscribe from) informing you about Marketo services, products, offers and partnerships. See the Section titled “Email Communications” [below](http://www.marketo.com/trust/legal/privacy/#email-communications), for more information about how and why we may email you.
+Other personal information we collect, as described above, may be used by Marketo to provide the Service to you, to advertise or market our business, promotions, or services, keep and maintain accounts, keep records of transactions, and for financial management of our business and performing the Service Agreement. Thus, for instance, if you provide us with your email address, we may send you emails (which you may unsubscribe from) informing you about Marketo services, products, offers and partnerships. See the Section titled “Email Communications” [below](https://www.marketo.com/trust/legal/privacy/#email-communications), for more information about how and why we may email you.
 
 If you are a registered user of Marketo's subscription-based Service, please note that some information about you may remain in our records after the end of your trial or subscription.
 
@@ -54,7 +54,7 @@ Our site may provide you with opportunities to post comments and identifying inf
 
 A cookie is a small data file that is placed on the hard drive of your computer when you visit a website. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available. A web beacon is a small string of code that represents a clear graphic image, a redirect url or javascript and is used in conjunction with a cookie.
 
-When you visit our Site, we may use both session and persistent cookies. This Marketo-placed cookie may contain information (such as a unique user ID) that is used to track your usage of our Site, and may be used to send you ads or offers when you browse our Site or other websites. Marketo employs cookies to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people, and also in order for our server to recognize a return visitor as a unique user. The cookies placed by the Marketo server are readable only by Marketo, and cookies cannot access, read or modify any other data on a computer. For more information about the cookies we use on our Site, see the table set out [below](http://www.marketo.com/trust/legal/privacy/#cookie-table).
+When you visit our Site, we may use both session and persistent cookies. This Marketo-placed cookie may contain information (such as a unique user ID) that is used to track your usage of our Site, and may be used to send you ads or offers when you browse our Site or other websites. Marketo employs cookies to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people, and also in order for our server to recognize a return visitor as a unique user. The cookies placed by the Marketo server are readable only by Marketo, and cookies cannot access, read or modify any other data on a computer. For more information about the cookies we use on our Site, see the table set out [below](https://www.marketo.com/trust/legal/privacy/#cookie-table).
 
 Marketo uses Web beacons alone or in conjunction with cookies to compile information about your usage of Marketo’s Site and interaction with emails from Marketo. For example, Marketo may place Web beacons in marketing emails that notify Marketo when you click on a link in the email that directs you to Marketo’s Site. Marketo uses Web beacons to operate and improve Marketo’s Site and email communications and to send more customized or relevant emails, ad and offers to users.
 
@@ -93,7 +93,7 @@ Because required cookies are necessary to operate Marketo’s Site and the Servi
 
 If you do not agree to the use of these required cookies, you should not continue to use the Site.  
   
-Performance cookies | These cookies enable the collection of information about how visitors use our Site, including which pages visitors go to most often and if they receive error messages from certain pages. These cookies do not collect information that individually identifies a visitor. All information these cookies collect is aggregated and anonymous. This information is used to measure the traffic on our Site pages and to improve how Marketo’s Site functions and performs. These cookies expire within two years. | To access the information that are collected through these cookies, you can write to [privacypolicy@marketo.com](mailto:privacypolicy@marketo.com). To learn how to opt out of performance cookies using your browser settings click here.  
+Performance cookies | These cookies enable the collection of information about how visitors use our Site, including which pages visitors go to most often and if they receive error messages from certain pages. These cookies do not collect information that individually identifies a visitor. All information these cookies collect is aggregated and anonymous. This information is used to measure the traffic on our Site pages and to improve how Marketo’s Site functions and performs. | To access the information that are collected through these cookies, you can write to [privacypolicy@marketo.com](mailto:privacypolicy@marketo.com). To learn how to opt out of performance cookies using your browser settings click here.  
 Functionality cookies | 
 
 Functionality cookies allow Marketo’s Site to recall information you have entered or choices you have made (such as your username, language, or your region) and are designed to permit enhanced, more personal features. These cookies also enable you to optimize your use of Marketo’s Service after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize.
@@ -148,7 +148,7 @@ Except as set forth above, you will be notified when your personal information m
 
 * **Transfer of Information:**  
 Your personal information may be transferred to our parent company, Marketo, Inc., or among the divisions or subsidiaries of Marketo, Inc., for the purpose of conducting our operations and offering our products and services. Marketo, Inc. adheres to the Safe Harbor Privacy Principles published by US Department of Commerce ("Safe Harbor Principles") with respect to Customer Data that we receive from our customers and other business partners in the European Economic Area. Marketo, Inc. complies with the U.S.-EU and the U.S.-Swiss Safe Harbor Frameworks regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  
-The scope of our Safe Harbor Certification is defined by our Safe Harbor Notice located at <http://www.marketo.com/trust/safe-harbor>
+The scope of our Safe Harbor Certification is defined by our Safe Harbor Notice located at <https://www.marketo.com/trust/safe-harbor>
 
 * **Is Information About Me Secure?**
 
@@ -184,7 +184,7 @@ Marketo may amend this Privacy Policy. Use of information we collect now is subj
 
 * **Compliance with EU Safe Harbor Privacy Framework and Dispute Resolution**
 
-Marketo complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Marketo has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Marketo’s certification, please visit <http://www.export.gov/safe-harbor/> or see our Safe Harbor Notice at <http://www.marketo.com/trust/safe-harbor>.
+Marketo complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Marketo has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Marketo’s certification, please visit <http://www.export.gov/safe-harbor/> or see our Safe Harbor Notice at <https://www.marketo.com/trust/safe-harbor>.
 
 * **Storage of Data in the United States**
 
@@ -192,7 +192,7 @@ Our servers are currently located in the United States, and personal information
 
 * **Email Use and Anti-Spam Policy**
 
-We require our customers using our Services to agree to our Email Use and Anti-Spam Policy, located here: <http://www.marketo.com/trust/legal/email-use-policy>. However, we are not responsible for our customers’ conduct, and we disclaim any acts undertaken by our customers.
+We require our customers using our Services to agree to our Email Use and Anti-Spam Policy, located here: <https://www.marketo.com/trust/legal/email-use-policy>. However, we are not responsible for our customers’ conduct, and we disclaim any acts undertaken by our customers.
 
 * **Questions or Concerns**
 
