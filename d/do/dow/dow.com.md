@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630205330id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230075901id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.*
 
 # The Dow Chemical Company Privacy Statement
 
@@ -6,25 +6,25 @@
 
  **Dow Values Privacy**
 
-Your privacy is important to us. Together with our [global Data Protection/Privacy Policy](http://www.dow.com/homepage/privacy.htm), this Online Privacy Policy explains how The Dow Chemical Company or its affiliate that displays this policy (“Dow,” “we,” “us,” and “our”) protects your privacy when you visit this website and the websites of Dow affiliates that display this Online Privacy Policy. This policy applies to “Personal Information”, information that identifies you personally, either alone or in combination with other information available to us.
+Your privacy is important to us. Together with our global Data Protection/Privacy Policy, this Online Privacy Policy explains how The Dow Chemical Company or its affiliate that displays this policy (“Dow,” “we,” “us,” and “our”) protects your privacy when you visit this website and the websites of Dow affiliates that display this Online Privacy Policy. This policy applies to “Personal Information”, information that identifies you personally, either alone or in combination with other information available to us.
 
-Please take a few minutes to review this Online Privacy Policy. By accessing or using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Online Privacy Policy. Please also take a few minutes to review the [Terms of Use](http://www.dow.com/homepage/term.asp) section of our website. If you do not consent to the collection, use and disclosure of your personal information as set forth in this privacy policy or the Terms of Use, please exit and do not use this website.
+Please take a few minutes to review this Online Privacy Policy. By accessing or using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Online Privacy Policy. Please also take a few minutes to review the [Terms of Use](http://www.dow.com/homepage/term.asp) section of our website. If you do not consent to the collection, use and disclosure of your personal information as set forth in this privacy policy or the Terms of Use, please exit and do not use this website.
 
-This Online Privacy Policy describes what types of information we gather and track when you use our websites, how this information is used and with whom it is shared. If you have any questions about this Online Privacy Policy, please [contact us](http://www.dow.com/homepage/privacy.htm?#Contact_Dow).
+This Online Privacy Policy describes what types of information we gather and track when you use our websites, how this information is used and with whom it is shared. If you have any questions about this Online Privacy Policy, please [contact us](http://www.dow.com/homepage/privacy.htm?#Contact_Dow).
 
 This Online Privacy Policy includes the following:
 
-[What Information We Collect ](http://www.dow.com/homepage/privacy.htm#What_We_Collect)  
-[How We May Use and Share Your Information ](http://www.dow.com/homepage/privacy.htm#How_Dow_Uses)  
-[Location of Information ](http://www.dow.com/homepage/privacy.htm#Location_Info)  
-[Use of Special Features or Areas of Our Website ](http://www.dow.com/homepage/privacy.htm#Use_of_Special_Features)  
-[Children’s Privacy ](http://www.dow.com/homepage/privacy.htm#Childrens_Privacy)  
-[Security ](http://www.dow.com/homepage/privacy.htm#Security)  
-[External Links ](http://www.dow.com/homepage/privacy.htm#External_Links)  
-[Changes to This Online Privacy Policy ](http://www.dow.com/homepage/privacy.htm#Changes_to_This_Online_Privacy)  
-[Your Choices ](http://www.dow.com/homepage/privacy.htm#Your_Choices)  
-[Access, Update or Correct Your Personal Information ](http://www.dow.com/homepage/privacy.htm#Personal_Information)  
-[Contact Dow ](http://www.dow.com/homepage/privacy.htm#Contact_Dow)
+What Information We Collect   
+How We May Use and Share Your Information   
+Location of Information   
+Use of Special Features or Areas of Our Website   
+Children’s Privacy   
+Security   
+External Links   
+Changes to This Online Privacy Policy   
+Your Choices   
+Access, Update or Correct Your Personal Information   
+Contact Dow 
 
 **What Information We Collect**
 
@@ -38,35 +38,36 @@ _Information Sent to Us by Your Web Browser_. We collect information that is sen
 
 _Cookies and Other Technologies_. Dow may use “cookie” technology on this website. A cookie contains information that is sent by a website and stored in your hard drive or temporary memory. You may change your cookie settings on your internet browser or delete our cookies at any time. We may use cookies to save your preferences for our websites or to collect statistics related to the number of visitors to our websites and requests for files, the types of browsers used, and other aggregate data. Dow may also use transparent GIF files to help manage online advertising by collecting information related to which advertisements drive traffic to our websites.
 
-_Google Analytics._ This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).  Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+_Google Analytics_. This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).  Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+_Google AdWords_. This website uses the Google AdWords remarketing service and possibly other services to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry or to previous visitors who have viewed information on our products. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Dow website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can  
+[opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or  
+[permanently using a browser plugin](https://tools.google.com/dlpage/gaoptout).
 
 **How We May Use and Share Your Personal Information**
 
 If permitted by applicable law, we may use the personal information we collect through our website:
 
-·         to provide products, information and services you request;
+  * to provide products, information and services you request;
+  * to provide you with effective customer service;
+  * to improve the content, functionality, performance and usability of our website;
+  * to improve our marketing and promotional efforts;
+  * to provide technical support and troubleshooting; and
+  * for security, credit or fraud prevention purposes;
+  * for any other purpose identified in an applicable privacy statement or other agreement you have with Dow.
 
-·         to provide you with effective customer service;
 
-·         to improve the content, functionality, performance and usability of our website;
-
-·         to improve our marketing and promotional efforts;
-
-·         to provide technical support and troubleshooting; and
-
-·         for security, credit or fraud prevention purposes;
-
-·         for any other purpose identified in an applicable privacy statement or other agreement you have with Dow.
 
 If permitted by applicable law, we may share your information as described below:
 
-·         _Within Dow_. We may share your personal information with Dow affiliates for the purposes set forth in this Online Privacy Policy.
+  * _Within Dow_. We may share your personal information with Dow affiliates for the purposes set forth in this Online Privacy Policy.
+  * _Our Service Providers._ We may share your personal information with companies or organizations, including subsidiaries, affiliates, and other entities that perform services on our behalf, such as website support service providers. In each case, such third parties are required to use adequate privacy protections and may use the information only for the purpose of providing services to Dow.
+  * Business Transactions and Transfers. Dow may buy, sell, form, or otherwise reorganize one or more of its businesses or sell stock or assets, for example, as the result of a sale, merger, reorganization or liquidation. A transaction of this type may involve the disclosure of your information to prospective purchasers or partners who have signed a confidentiality agreement with Dow.
+  * _Compliance with Laws and Protection of Our Rights and the Rights of Others._ We may disclose personal information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose personal information to cooperate with a government investigation; to prevent or investigate a possible crime, such as fraud or identity theft; to enforce or apply our online terms of use or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others.
 
-·         _Our Service Providers._ We may share your personal information with companies or organizations, including subsidiaries, affiliates, and other entities that perform services on our behalf, such as website support service providers. In each case, such third parties are required to use adequate privacy protections and may use the information only for the purpose of providing services to Dow.
 
-·         Business Transactions and Transfers. Dow may buy, sell, form, or otherwise reorganize one or more of its businesses or sell stock or assets, for example, as the result of a sale, merger, reorganization or liquidation. A transaction of this type may involve the disclosure of your information to prospective purchasers or partners who have signed a confidentiality agreement with Dow.
-
-·         _Compliance with Laws and Protection of Our Rights and the Rights of Others._ We may disclose personal information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose personal information to cooperate with a government investigation; to prevent or investigate a possible crime, such as fraud or identity theft; to enforce or apply our online terms of use or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others.
 
 We will not use your personal information to send product or promotional advertising unless you have agreed to receive product or promotional advertising. Other than the purposes described above, Dow does not provide or sell your personal information to third-parties.
 
@@ -98,7 +99,7 @@ Some of our websites may contain links to other websites on the Internet that ar
 
 **Changes to This Online Privacy Policy**
 
-We reserve the right to modify this Online Privacy Policy and related business practices at any time by posting updated text on this site and updated effective date at the top of this page. As we add new features and functionality to our websites or Dow policies or applicable laws evolve, we may need to update or revise this Online Privacy Policy. We reserve the right to do so, at any time and without prior notice, by posting a revised version on our website. These changes will be effective as of the date we post a revised version on our website. Your use of one of our websites following any such change constitutes your consent to the terms of the revised Online Privacy Policy. For this reason, it is important for you to review this Online Privacy Policy regularly.
+We reserve the right to modify this Online Privacy Policy and related business practices at any time by posting updated text on this site and updated effective date at the bottom of this page. As we add new features and functionality to our websites or Dow policies or applicable laws evolve, we may need to update or revise this Online Privacy Policy. We reserve the right to do so, at any time and without prior notice, by posting a revised version on our website. These changes will be effective as of the date we post a revised version on our website. Your use of one of our websites following any such change constitutes your consent to the terms of the revised Online Privacy Policy. For this reason, it is important for you to review this Online Privacy Policy regularly.
 
 **Your Choices**
 
@@ -132,8 +133,8 @@ In Canada:
 Dow Chemical Canada ULC.  
 Privacy Officer  
 2100- 450 1 ST SW Calgary AB T2P 5H1  
-403-267-3559  
-[mbradley@dow.com](mailto:mbradley@dow.com)
+403-267-3527  
+[burt@dow.com](mailto:burt@dow.com)
 
 Dow AgroSciences Canada Inc.  
 Privacy Officer  
@@ -173,4 +174,4 @@ Brazil 04717-903
   
 If you have concerns that someone affiliated with Dow has used your information in a manner that is not consistent with this Online Privacy Policy; would like to seek guidance related to [Dow's Code of Business Conduct](http://www.dow.com/company/aboutdow/code_conduct/ethics_conduct.htm); or report potential unethical business practices or other violations of our Code of Business Conduct, please contact the Dow [EthicsLine.](http://www.dow.com/company/aboutdow/ethics.htm) The Dow EthicsLine can be accessed using a toll-free help line, with multi-lingual capabilities, available 24 hours a day, 7 days a week, worldwide, or the Dow EthicsLine can be accessed using an [online form](https://secure.ethicspoint.com/domain/media/en/gui/23573/index.html) that provides the option of submitting a written report. In addition, you always have the option of contacting the [Office of Ethics and Compliance](http://www.dow.com/company/aboutdow/ethics.htm) at 989-636-2544 or via email [Ethics@Dow.com](mailto:Ethics@dow.com).
 
-Effective Date: June 11, 2014
+Effective Date: December 1, 2014
