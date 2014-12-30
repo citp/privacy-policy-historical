@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generac.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624092708id_/http%3A//www.generac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generac.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230034650id_/http%3A//www.generac.com/privacy-policy) for the most accurate reproduction.*
 
 # Generac Power Systems | Privacy Policy | Generac Power Systems
 
@@ -30,8 +30,8 @@ This Statement is subject to change at the sole discretion of Generac. If we cha
 
   * NYSE
   * GNRC
-  * $48.94
-  * 6/23/2014 4:04 PM EST
+  * $48.00
+  * 12/29/2014 4:05 PM EST
 
 
 
