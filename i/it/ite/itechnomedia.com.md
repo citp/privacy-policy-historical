@@ -1,23 +1,53 @@
-> *The following text is extracted and transformed from the itechnomedia.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501002656id_/http%3A//itechnomedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itechnomedia.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230071256id_/http%3A//itechnomedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iTechnoMedia.Com
+# Privacy Policy - iTechNoMedia.Com
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our onlineinformation practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+What information do we collect?
 
-**Google Adsense and the DoubleClick DART  Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DARTcookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+We collect information from you when you subscribe to our newsletter or News Information.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookiemechanisms are subject to Google’s own privacy policies.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, PakMuZone.Info has no access or control over these cookies that may be used by third party advertisers.
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google?s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-**Collection  of Personal Information**  
-When visiting PakMuZone.Info, the IP address used to access the site will be logged along with the dates andtimes of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addressesare not linked to personally identifiable information.
+What do we use your information for?
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+Any of the information we collect from you may be used in one of the following ways:
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion.
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-If you have any questions regarding the privacy policy of iTechNoMedia..Comthen you may contact us at pakvrfranksmuzone@gmail.com
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+; To send periodic emails
+
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+
+How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+
+Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits.
+
+Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+Your Consent
+
+By using our site, you consent to our?privacy policy.
+
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
