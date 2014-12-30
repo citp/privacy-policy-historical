@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialoomph.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610015532id_/https%3A//www.socialoomph.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialoomph.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042246id_/https%3A//www.socialoomph.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
