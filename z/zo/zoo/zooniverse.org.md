@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooniverse.org privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205191813id_/https%3A//www.zooniverse.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooniverse.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230034215id_/https%3A//www.zooniverse.org/privacy) for the most accurate reproduction.*
 
 # Zooniverse - Zooniverse User Agreement and Privacy Policy
 
