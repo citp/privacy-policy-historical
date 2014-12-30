@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sho.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627031326id_/http%3A//www.sho.com/sho/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sho.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230192710id_/http%3A//www.sho.com/sho/about/privacy) for the most accurate reproduction.*
 
 # Showtime : Privacy
 
@@ -36,11 +36,13 @@ Personal Information will be used (1) to process your requests (e.g., register y
 
 ## Collection and Use of Information Automatically Gathered Through the Site
 
-Some information about our users is collected by the standard operation of the Site's internet servers and through the use of other technologies. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, length of time viewing a particular program, and pixel tags.
+Some information about our users is collected by the standard operation of the Site's internet servers and through the use of other technologies, including pixel tags. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, and length of time viewing a particular program.
 
 Collecting this information helps us understand which parts of the Site are the most popular, where our visitors are coming from and where they are going, how much time they spend on the Site, and the effectiveness of searches customers perform on the Site. We use the information to analyze trends, study traffic patterns, and gather demographic information about our user base, which in turn allows us to make the Site even more rewarding and improve the effectiveness of our customer communications. We also use such information to provide greater convenience and to customize your experience. For example, we may share this information with third-party web analytics companies in order to present you with targeted promotional content on the Site.
 
 We may also allow third-party companies to collect some information on our Site. For more information about how third parties may collect your information through this Site and your choices regarding the collection and use of this information, see "Collection of Information by Third Party Sites," below.
+
+Some Internet browsers include the ability to transmit "Do Not Track" signals. Since uniform standards for "Do Not Track" signals have not been adopted, the Site does not process or respond to "Do Not Track" signals. To learn more about "Do Not Track", please visit ["All About Do Not Track".](http://www.allaboutdnt.com/)
 
 ## Disclosure of Information About You
 
