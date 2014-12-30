@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplyrecipes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030434id_/http%3A//www.simplyrecipes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyrecipes.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230051348id_/http%3A//www.simplyrecipes.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Simply Recipes
+# Privacy Policy | SimplyRecipes.com
 
 Simply Recipes is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on our website and how we use that information. By using the Simply Recipes website, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.
 
