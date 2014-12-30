@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the klip.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071602id_/http%3A//klip.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klip.in privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230192533id_/http%3A//klip.in/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy and Terms of Using Klip.in
 
 We collect information from you when you register on our site, subscribe to our newsletter or Showcase product interest.   
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or Gender and other Personally Non-Identifiable details. You may, however, visit our site anonymously.
