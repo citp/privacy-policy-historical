@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbre.co.th privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604051447id_/http%3A//www.cbre.co.th/en/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbre.co.th privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230151407id_/http%3A//www.cbre.co.th/en/Privacy) for the most accurate reproduction.*
 
 # Phuket Villa Sales, Bangkok Condo sales & Rental. Thailand property & Real Estate Agent
 
