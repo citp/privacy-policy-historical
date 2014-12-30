@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231163725id_/http%3A//www.opinionlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230192416id_/http%3A//www.opinionlab.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy – OpinionLab – Omnichannel Digital Feedback Management – Voice of Customer Feedback Anytime, Anywhere ™
 
@@ -44,6 +44,11 @@ This Privacy Statement may be updated from time to time for any reason. We will 
 
 **Your Consent**  
 By using our website, you consent to the collection, processing and storage of information as described in this Privacy Statement. Processing activities may take place in the United States or Canada. If you reside outside of the United States, your information may be transferred to, and processed and stored in, the United States, Canada or other jurisdictions in accordance with applicable law in that jurisdiction. If you do not agree to these terms, do not use this website or OpinionLab products or services.
+
+**California Online Tracking Disclosure**  
+OpinionLab collects feedback about your consumer experiences provided voluntarily by you through third party websites or apps that use our services. This feedback may include personally identifiable information if you choose to provide it. While OpinionLab does not recognize “do not track” signals, we do not collect personally identifiable information that you choose not to provide.
+
+Other parties do not collect personally identifiable information about your online activities over time and across different Web sites when you use our services.
 
 **Change/Modify**  
 Subscribers who purchase OpinionLab products or services may access, review and/or correct all their personally identifiable information that we collect online by sending an email to info@opinionlab.com.
