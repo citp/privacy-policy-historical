@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgw.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606002503id_/http%3A//www.tgw.com/about/privacy-policy.jsp%3FCP%3DFOOTER%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgw.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230152119id_/http%3A//www.tgw.com/about/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - www.tgw.com
 
@@ -24,21 +24,21 @@ Customer Care
 Wichita, KS 67226 
 
 **Benefits You May Receive by allowing us to keep your personal information on hand include:**   
-• To process and complete your purchase transactions and provide the services you request 
+? To process and complete your purchase transactions and provide the services you request 
 
-• To send you catalogs and other offerings to you via the mail and via e-mail - to identify your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you. 
+? To send you catalogs and other offerings to you via the mail and via e-mail - to identify your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you. 
 
-• To contact you about the status of your orders - you will receive order status updates through e-mail notification, including order and shipping confirmations. You will be able to track the location of your shipment through our online tracking system. 
+? To contact you about the status of your orders - you will receive order status updates through e-mail notification, including order and shipping confirmations. You will be able to track the location of your shipment through our online tracking system. 
 
-• To notify you of product recalls or provide other information concerning products you have purchased 
+? To notify you of product recalls or provide other information concerning products you have purchased 
 
-• To provide a Personal Internet Account- you will be identified every time you log in with your personal customer number so in the future you will save time by not having to submit your information again. 
+? To provide a Personal Internet Account- you will be identified every time you log in with your personal customer number so in the future you will save time by not having to submit your information again. 
 
-• To provide invitations to join our Sweepstakes and giveaways 
+? To provide invitations to join our Sweepstakes and giveaways 
 
-• To provide personalized, knowledgeable customer care - our customer service team will be able to assist you promptly and accurately by identifying you and your preferences 
+? To provide personalized, knowledgeable customer care - our customer service team will be able to assist you promptly and accurately by identifying you and your preferences 
 
-• To improve our merchandise selections, customer service, and overall customer shopping experience 
+? To improve our merchandise selections, customer service, and overall customer shopping experience 
 
 **Can I Opt Out of Receiving Further Communications?**   
 Yes. You may withdraw your personal information and stop receiving catalogs and/or e-mail communications at any time. To withdraw your information, email us at cs@tgw.com, or write us at: 
@@ -58,9 +58,9 @@ It is very secure. We use highly sophisticated technology to ensure that your sh
 PLEASE NOTE THAT NORMAL E-MAIL (SUCH AS USING CONTACT US OR YOUR HOME E-MAIL) IS NOT ENCRYPTED AND THUS IS NOT A SECURE MEANS FOR TRANSMITTING CREDIT CARD INFORMATION OR ANY PERSONAL INFORMATION YOU WISH TO KEEP PRIVATE AND SECURE. 
 
 **Do You Use Cookies?**   
-Yes. We use cookies to enhance your browsing and shopping experience. Cookies are small files or records that we place on your computer’s hard drive to collect information about your activities on our websites. There are absolutely no personally identifiable pieces of information stored anywhere in these files, and they are used solely to enhance your shopping experience, allowing us (i) to speed navigation; (ii) keep track of items in your shopping cart, and provide you with a custom tailored shopping experience; (iii) to monitor the effectiveness of some of our marketing e-mail campaigns; and (iv) to monitor total number of visitors, pages viewed, and the total number of visitors served. 
+Yes. We use cookies to enhance your browsing and shopping experience. Cookies are small files or records that we place on your computer?s hard drive to collect information about your activities on our websites. There are absolutely no personally identifiable pieces of information stored anywhere in these files, and they are used solely to enhance your shopping experience, allowing us (i) to speed navigation; (ii) keep track of items in your shopping cart, and provide you with a custom tailored shopping experience; (iii) to monitor the effectiveness of some of our marketing e-mail campaigns; and (iv) to monitor total number of visitors, pages viewed, and the total number of visitors served. 
 
-We use service providers to help gather and analyze information about our customers (anonymous traffic, and from time to time, individual user activity) on our Site. These service providers’ only role is to help us conduct our business and deliver the most relevant products and services. They are not permitted to use your personally identifiable information for any secondary purpose. 
+We use service providers to help gather and analyze information about our customers (anonymous traffic, and from time to time, individual user activity) on our Site. These service providers? only role is to help us conduct our business and deliver the most relevant products and services. They are not permitted to use your personally identifiable information for any secondary purpose. 
 
 **Effective Date and Policy Changes**   
 We may from time to time make changes to the Privacy Policy to reflect changes in the privacy practices. Accordingly, we reserve the right to revise or modify this Privacy Policy in whole or in part at any time. The updated policy shall replace any prior policies and will be applicable to all current and past users of the Site. This Privacy Policy was last updated on February 26, 2013. 
