@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the woodsmithtips.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616125037id_/http%3A//www.augusthome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodsmithtips.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230052116id_/http%3A//www.augusthome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - August Home Publishing Company
+
+## Privacy Policy
 
 August Home Publishing Company (“August Home”) is committed to respecting your privacy. Please read the following to understand how your personal information will be treated. By using August Home’s web site and other related web sites and services that display or link to this policy (collectively, the “web site”), you are agreeing to the terms of the August Home Privacy Policy. This policy may change from time to time so please check back periodically. This policy will let you know the following: 
 
