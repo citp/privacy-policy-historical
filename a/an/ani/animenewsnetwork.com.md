@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animenewsnetwork.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625164936id_/http%3A//www.animenewsnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animenewsnetwork.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230110256id_/http%3A//www.animenewsnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Anime News Network
 
