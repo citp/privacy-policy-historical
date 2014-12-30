@@ -1,126 +1,178 @@
-> *The following text is extracted and transformed from the ask-tb.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923025403id_/http%3A//www.ask.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask-tb.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230053225id_/http%3A//about.ask.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ask.com
 
-_(Effective August 23, 2013)_
+_(Effective December 18, 2013)_
 
-At Ask.com, we respect your privacy, and we understand the importance of the information you entrust to us. We want to describe our privacy practices concerning the information collected through the Ask.com website and our Ask mobile applications or the Search Application published by APN, LLC or Mindspark Interactive Network, Inc. (the “Services”) in a clear and concise way, unless otherwise provided. Below we generally describe what information we collect when you use the Services, how we protect that information, how long we retain it, whom we share it with, and what your privacy options are.
+**Privacy Policy**
 
-By using our website, Search Application, or our mobile application, you consent to our collection and use of your data as described in this privacy policy. If you install a Search Application that accesses the Ask.com search services, you will be subject to the applicable end user license terms that describe what information is collected when you use the Search Application and how that information may be used.  You can access the applicable end user license terms from a “Help” “Support” or similar link through the Search Application.  If you are installing a version of the Search Application that includes third party features and functionalities or accesses third party content, such third party features, functionalities and content are subject to such third party’s privacy policy. You may find such privacy policy via a link displayed within the Search Application itself, or on the website of the relevant feature, function or content provider. In addition, when you sign up for an account with Ask, we also collect personal information from you. We may combine the information you submit under your account with information we collect from your use of our services in order to provide you with a better experience and to improve the quality of our services.
+**Last Updated On: December 18, 2013  
+**  
+At Ask.com, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by the Ask family of companies consisting of IAC Search & Media, Inc., APN, LLC and Mindspark Interactive Network, Inc.  (“Ask”, “we”, “us”, “our”) through the use of (i) our websites (the “Website”), (ii) our Ask mobile applications and (iii) “Search Applications,”  a search box on an application or site from which you can access our search services, specifically provided by APN, LLC and/or Mindspark Interactive Network, Inc.(collectively the “Services”).
 
-As our privacy practices evolve, we will update this privacy policy. Any material changes in our privacy practices will be posted prominently on this page.  
-If you have any question about our privacy practices, you can contact us via email by clicking [here ](mailto:privacyhelp@ask.com)or write to our Privacy Officer at:
+Below we describe what information we collect when you use our Services, how we protect that information, how long we retain it, with whom we share it, and what your privacy options are.  By using the Services, you consent to our collection and use of your information as described in this Privacy Policy.
+
+We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly.  Please check this page periodically for updates.  If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by email or by means of a notice on our Website.  Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes.
+
+**1.          What information do we collect about you? **
+
+We explain below the main ways that we collect and process information about you.
+
+**Information You Provide To Us** **:**
+
+Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, username, and password.  You may also decide to provide us with some optional demographic information to enhance your profile, such as your country of residence, home address, education, interests, and communications preferences.
+
+You may also provide personal information to us, if you choose to:
+
+  * sign up to receive our “Question of the Day” or any similar service or request to receive certain other communications from us;
+  * submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services;
+  * participate in some of the features accessible via the Services (for example, message boards, chat groups, social networking, games, surveys, polls, promotions, contests, or sweepstakes);
+  * contact us about employment opportunities posted to the Services; or
+  * otherwise use the Services in a manner that you have requested.
+
+
+
+Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, information posted by you on sites accessed via the Services.   Also, if you choose to login to a product or feature accessed through a Search Application via a social networking site, you are granting us permission to access and use information about you provided by the social network.  For example, if you use a social network feature to login to a product accessed through a Search Application, per such social network’s policies, they may provide us access to you and your friends names, pictures, genders, user Ids, connections and any content shared using an “Everyone” or similar privacy setting. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public.  You should be careful about revealing any sensitive details about yourself.  **__**
+
+**Information We Collect When You Use The Services** **:**
+
+When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including:
+
+(1)       IP address of your computer
+
+(2)        Unique mobile device identifier
+
+(3)        Technical information about your computer or mobile device such as type of device, mobile device ID number, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.)
+
+(4)        Your preferences and settings (time zone, language, etc.)
+
+(5)        Internet provider or mobile carrier name
+
+(6)        The URL of the last webpage you visited before visiting the Website
+
+(7)        Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments);
+
+(8)    If you are using a mobile device, your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically).  Please see the section “Mobile Device Location Information” below for further information.
+
+(9)    If you installed a Search Application, we may also collect information about that Search Application (e.g. the specific release date and distribution source of your Search Application, a unique Search Application ID, Search Application partner ID, the ads you click on, and information contained in error log files or cookies, aggregate query or click data and erroneous domain name system requests).
+
+**2.          How do we use the information we collect?**
+
+We use the information we collect from and about you for a variety of purposes, including to:
+
+  * verify your eligibility for our Services;
+  * respond to your queries with the best possible answers and search results;
+  * understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalizing content to your interests and process and complete your transactions;
+  * administer our Services, diagnose technical problems and otherwise manage our business;
+  * distinguish your Search Application for purposes of compensating third parties who distributed the Search Application on our behalf and to analyze retention and usage per distribution partner or channel;
+  * send you communications that you have requested or that may be of interest to you in accordance with your preferences.  Please see the section “Reviewing, changing or deleting information” for further information about how you can control these communications;
+  * send you questions from other users that you may be able to answer if you have registered with our Services;
+  * deliver prizes in connection with contests and sweepstakes or otherwise facilitate the use of our Services;
+  * provide you with customer support;
+  * enable us to show you ads that are more relevant to you; and
+  * perform functions as otherwise described at the time of collection.
+
+
+
+We may also generate, use and disclose aggregated and/or anonymized information and statistics about your use of the Services to third parties for marketing, analytical and strategic purposes. However, no user of our Services will be individually identifiable from the aggregated and/or anonymized information and statistics.
+
+**3.          How do we share the information we collect?**
+
+We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent.  We will share your information in the following ways:
+
+  * **_Our suppliers, subcontractors and business partners (“service providers”):_** We may share your data with our services providers who process your personal information to provide services to us or on our behalf.  We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes.
+  * **_Companies within the IAC Group of Companies:_** __ We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC Corp.  _ _
+  * **_Our Search Application partners:_** __ If you have installed a Search Application, our Search Application partners may collect / receive information about you including the queries you submit via the Services, the Search Application functionality and / or website, the version of your Search Application or your browser settings, the search results and ads you click on, and the address of the web pages you previously visited. **  **
+  * **_Fraud prevention:_** We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
+  * **_Law enforcement purposes:_** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.
+  * **_Sale or merger of our business:_** __ We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+  * **_Advertisers and advertising networks:_**  Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Website and Services.  They also may use cookies and other technologies to collect this information when you visit our site as described below.
+
+
+
+**4.          Cookies and Online Advertising:**
+
+**Cookies.**   We use cookies, pixel tags, web beacons and other such similar technologies to collect and store the information we automatically collect about your computer, device and Service usage. A cookie is a small text file that is stored on your computer and a pixel tag (also called a web beacon or clear GIF) is a tiny graphic with a unique identifier, embedded invisibly on a webpage (or an online ad or email). We use the term “cookies” in this policy to refer to cookies and all such similar technologies.
+
+There are two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, and (2) third party cookies, which are served by a third party on our behalf.  Cookies have a lot of jobs.  For example, our cookies enable us to recognize you (e.g. as a registered user) when you visit our website and to store your preferences and settings.  We use third party cookies for functionality, performance / analytics, advertising and social media purposes.  Cookies from advertising companies, for example, help to ensure that the advertisements you see online are more relevant to you and your interests.  To understand more about cookies and pixel tags, click [here.](http://www.allaboutcookies.org/)
+
+**How To Control Or Delete Cookies** **:  
+_____________________________________________________________________________  
+****NOTICE REGARDING ASK ERASER**
+
+Please note that Ask will discontinue its AskEraser feature on January 15, 2014.  AskEraser is a privacy feature from Ask that when enabled, deletes your search activity from Ask’s servers in most circumstances.  However, even without Ask Eraser, you can use your browser’s support or help settings to disable Ask cookies from collecting this information in the first place. Detailed information about how to disable Ask.com cookies can be found below.
+
+**_____________________________________________________________________________**
+
+Most browsers allow you to change your cookie settings. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones Ask uses to collect search activity information about its users), or block specific cookies.  These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help” option in your browser for more details.
+
+  * [Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)
+  * [Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
+  * [Cookie settings in Chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
+  * [Cookie settings in Safari web](http://support.apple.com/kb/PH5042) and [iOS](http://support.apple.com/kb/HT1677).
+
+
+
+Please note that if you choose to block cookies, this may interfere with certain functionality on our website.  Also, if you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set; however, we will stop using the disabled cookie to collect any further information.
+
+Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices.  We do not control the practices of such partners and their privacy policies govern their interactions with you.  We encourage you to read their privacy policies.
+
+**Online Behavioral Advertising and Mobile.**   Advertisers and advertising networks place ads (including sponsored links in search results) on our website and in our mobile applications. These companies, as well as data analytics companies who service them, may use cookies, pixel tags, mobile device IDs and other similar technologies to collect data about you when you visit our site.  They use the data to enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you.  You may opt-out of receiving targeted online advertising from advertising networks that is delivered on Ask.com and other websites by visiting the following websites:
+
+  * Network Advertising Initiative (<http://www.networkadvertising.org/>)
+  * Digital Advertising Alliance (<http://www.aboutads.info/consumers>)
+
+
+
+Please bear in mind that there are many more companies listed on these sites than those that drop cookies on our website.
+
+If you are using an Ask mobile application, we use your unique mobile device ID number to recognize you when you use the application and to store your preferences and settings. Advertising companies may also use and store your mobile device ID to show ads that they consider relevant to you in various mobile services that you use.
+
+If you are using an iOS device and you do not want to receive tailored in-application ads that relate to your interests, you may opt-out by accessing the following link on your device:  [http://oo.apple.com](http://oo.apple.com/).  If you are using an iOS6 device, you also may limit the delivery of tailored ads by: Open Settings and tap “General” then tap “About”; Scroll to the bottom of About and tap “Advertising”; Flip “Limit Ad Tracking” to ON.  If you are using an Android device and you do not wish to receive tailored in-application ads, you can visit Google’s [Ads Preferences](http://www.google.com/ads/preferences/) page from a browser on your device and make your choices there.  We do not control how the applicable platform operator allows you to control receiving tailored in-application ads; thus, you should contact the platform provider if the above options are no longer available.
+
+**Mobile Device Location Information.**   When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded.  Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you.  We keep this data for no longer than is reasonably necessary for providing our services.  If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling the relevant feature.  If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions:
+
+  * If you are using an Apple device, click on “General,” then “Reset,” then “Reset Location and Privacy.” This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information.
+  * If you are using an Android device, visit device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services.
+  * If your device changes the above methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this information.
+
+
+
+**5.          Reviewing, changing or deleting information**
+
+If you would like to review, change or delete personal information we have collected from you, please contact the Ask Privacy Officer:
 
 Ask.com  
 Attn: Privacy Officer  
 555 12th Street, 11th Floor  
 Oakland, CA 94607
 
-**Information we collect about your computer or mobile device when you use the Services:**
+If you would like to permanently delete your Ask.com account, please access the “Your Account” tab on the Settings page, and follow the instructions there.
 
-(1) IP address of computer  
-(2) Browser type (Internet Explorer 8, etc.)  
-(3) Browser language and country setting  
-(4) Other browser information (e.g. size, connection speed and connection type)  
-(5) Operating system or platform (Mac, Windows XP, etc.)  
-(6) If you install a Search Application, in addition to the information listed herein and as otherwise provided, we also collect information about the specific release date and distribution source of your Search Application, unique Search Application ID, Search Application partner ID, and information contained in error log files or cookies, search queries, including erroneous domain name system requests, if applicable, aggregated query data, aggregated click information, etc.  
-(7) If you install our mobile application, we may collect the ID number of mobile device.
+**Do Not Track.**   Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services.
 
-**Information we collect about your use of the Services:**
+We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the Network Advertising Initiative and the Digital Advertising Alliance opt-out links above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
 
-(1) The URL of the last webpage you visited before visiting Ask.com  
-(2) All of your activity on the Ask.com website, the Search Application and Ask mobile application (your queries, questions, answers, comments, search results selected, clicks, pages viewed, etc.)
+**6.          How do we keep the information we collect secure? **
 
-We use cookies, pixel tags and mobile device IDs to collect and store this information.
+We take the security of your personal information seriously and use appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing and against accidental loss, destruction or damage.  We also limit access to personal information about you to employees who reasonably need access to it to provide products or services to you, or in order to do their jobs.  However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you.
 
-**If you register with Ask or provide information to us to use our Services, we may collect additional information:**
+**7.          How long do we keep the information we collect?**
 
-(1) The username, password and email address that you provide when you register  
-(2) Any optional profile information you provide(3) certain information such as  financial information, name, address, email address, telephone number, information posted and or collected/received from you on sites accessed via the Services,  or any other information you choose to provide
+We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request.  We may also choose to anonymize certain of the information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time.
 
-We use a cookie so you remain signed in to your account for two weeks even if you close your browser. You can sign out at any time, and if you do, the cookie that keeps you signed in will be disabled.
+**8.          Children under 13**
 
-If you have installed a Search Application, we assign a unique identification code to your copy of the Search Application, and such code is written to your computer’s registry.
+ ****The Services are not intended for users under the age of 13.   We do not knowingly collect any personal information from children under 13.  If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible.  You hereby represent that you are at least 13.
 
-If you create an account with Ask, all past and future information collected about your web and mobile activity using the Ask service will become part of your account information. You may prevent certain search activity from being associated with your account by signing out of your account and turning on Ask Eraser, and we will not store your search activity on Ask.com while Ask Eraser is turned on. You will not be able to submit any queries to the Ask community if AskEraser is turned on. AskEraser cannot be turned on from your mobile device. Also, even if you have Ask Eraser enabled, the feature will not work on searches performed through a Search Application.
+**9.          Consent to Transfer of Information **
 
-**Why we collect information:**
+If you are visiting the Services from outside the United States, your data will be transferred to and stored in our servers in the U.S.  By using the Services, you consent to our collection and use of your data as described in this Privacy Policy.
 
-(1) To respond to your queries with the best possible answers and search results  
-(2) To understand our users (their demographics, what they do on our website, what site features they like, how they use them, etc.) and improve our Services, such as by personalizing content and advertisements to your interests; and we may aggregate query and click information for internal reporting purposes and optimization;  
-(3) To administer our Services, process any payments and diagnose technical problems  
-(4) To distinguish your Search Application for purposes of compensating third parties who distributed the Search Application on our behalf and to analyze retention and usage per distribution partner or channel  
-(5) To send you communications that you have requested or may be of interest to you, such as the Ask newsletter, though you can opt out of receiving it if you wish  
-(6) If you register with Ask, to send you questions from other users that you may be able to answer  
-(7) To enable us to show you ads on our website and in our mobile applications that are more relevant to you  
-(8) Verify your eligibility for our Services, and deliver prizes in connection with contests and sweepstakes or otherwise facilitate the use of our Services  
-(9) Provide you with customer support  
-(10) Perform functions as otherwise described at the time of collection  
-(11) Manage our business
+**10.        U.S.-EU Safe Harbor Notice**
 
-**How long we keep data about you:**
+The Ask.com Website and mobile applications are certified under the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from EU member countries and Switzerland.
 
-(1) We anonymize your search queries after 18 months, unless government authorities request otherwise.  
-(2) If you use our service through a Search Application, the information collected is stored in a query log for up to six months.  
-(3) We retain all Ask account profile information and activity other than search queries (e.g. questions to the community and answers to community questions) until you close your account.  
-(4) If you close your account, we retain your username and email address to prevent others from creating a profile using the same information.  
-(5) We retain all your community questions, answers and comments indefinitely. While you remain registered with us, these postings are publicly attributed to you. If you terminate your account, we no longer display your username and avatar or photo with these postings.
+Ask.com has further committed to refer unresolved privacy complaints regarding the Website or mobile applications under the U.S.-EU and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
-**Data collection and sharing involving third parties:**
-
-(1) Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies as well as data analytics companies who service them may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Services. They also may use web technologies such as cookies and pixel tags to collect data about you when you visit our site.  
-(2) If you have installed a Search Application, then our Search Application partners may collect/receive information about you including the queries you submit via the Services, the Search Application functionality and/or website, the version of your Search Application or your browser settings, the search results and ads you click on and the address of the web pages you previously visited.  
-(3) We use outside vendors for a variety of purposes, such as to send you emails and messages on behalf of other Ask community members, push notifications to your mobile device on our behalf, provide voice recognition services to process your spoken queries and questions, and help us analyze use of our services. Some of our products, services and databases are hosted by third party hosting services providers. We also may use vendors for other projects, such as conducting surveys or organizing sweepstakes for us, that involve collection of information from our users. We may also use authorized service providers to process services on our behalf, such as processing service or financial transactions that you have requested.  We may share information about you with these vendors to enable them to perform their services.  
-(4) We have contracts with all of these companies that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes.  
-(5) We will not share information we collected about you with any third party for other purposes (including direct marketing) without first obtaining your consent.  
-(6) We may disclose data we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.  
-(7) We may transfer your information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
-
-**How you can opt out of our collection of information about you:**
-
-(1) You can turn on Ask Eraser and we will not store your search activity on Ask.com while Ask Eraser is turned on. AskEraser cannot be turned on from a mobile device and is not available for searches via Search Applications.  
-(2) If you want to disable the cookies placed on your computer by advertising companies that display ads on our site to prevent them from using information about you for targeting purposes, you can use the opt-out feature at http://www.networkadvertising.org/.
-
-**Reviewing, changing or deleting information:**
-
-If you would like to review, change or delete information we have collected about you, please contact the Ask Privacy Officer [here.](mailto:privacyhelp@ask.com)
-
-**Security of the information we collect:**
-
-We have implemented security measures to prevent unauthorized or unlawful access to and misuse of the information we collect, including technological and physical security measures as well as procedural safeguards. However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you.
-
-**Cookies, pixel tags and mobile device IDs:**
-
-We use cookies, similar files and other technologies to collect and store the information we automatically collect about your computer, device, Service usage, to track traffic flow and patters of travel in connection with our Services.  If you install a Search Application, a unique cookie ID may be recorded for our uses, including internal reporting, optimization and to provide you with personalized content or advertisements and your search queries and interactions with our services may be associated with your unique cookie ID.  A cookie is a small text file that is stored on your computer. Our cookies enable us to recognize you (for example, as a registered user) when you visit our website and to store your preferences and settings. Cookies from advertising companies enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you.
-
-To understand more about cookies, click [here.](http://www.allaboutcookies.org/)
-
-If you are using an Ask mobile application, we use your mobile device ID number to recognize you when you use the application and to store your preferences and settings. Advertising companies may also store your mobile device ID to show ads that they consider relevant to you in various mobile services that you use.
-
-A pixel tag (also called a web beacon or clear GIF) is a tiny graphic with a unique identifier, embedded invisibly on a webpage (or an online ad or email), and is used to count or track things like activity on a webpage or ad impressions or clicks, as well as to access cookies stored on users’ computers.
-
-Ask.com pixel tags are used to measure the popularity of our various pages and services. Advertising company pixel tags are used to measure the number of ad impressions and the performance of ads on our site, and to access the advertising company’s cookies placed on your computer. Data analytics company pixel tags are used to aggregate information about our advertising and your engagement with our site for market research, product improvement, revenue tracking and advertising optimization.
-
-We use outside vendors to help us better understand our user demographics. They use technologies such as cookies and pixel tags in providing their services to us, but do not use them to target ads to you.
-
-Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices.  We do not control the practices of such partners and their privacy policies govern their interactions with you.  We encourage you to read their privacy policies.  
-**  
-Information from children under 13:**
-
-We do not knowingly collect any personally identifiable information from children under 13. If we determine that a user is under 13, we will immediately delete all information pertaining to that user.
-
-**Government authorities and legal rights:**
-
-If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users or modify other practices described in this policy, such as how long and in what form we keep information. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.
-
-**Information collected from users located outside the United States:**
-
-If you are visiting the Ask.com website from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using our website, you consent to our collection and use of your data as described in this privacy policy.
-
-Ask.com complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ask.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement with respect to personal information transferred to us in the U.S. from the following Ask.com EU/EEA properties:
-
-http://uk.ask.com, http://de.ask.com, http://es.ask.com, http://fr.ask.com, http://it.ask.com, http://nl.ask.com, http://se.ask.com, http://no.ask.com, http://at.ask.com, http://pl.ask.com, http://dk.ask.com, http://int.ask.com
-
-Ask.com has further committed to refer unresolved privacy complaints under the US-EU and EU-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by (your business name), please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
-
-To learn more about the Safe Harbor program, and to view Ask.com’s certification, please visit http://www.export.gov/safeharbor/.
+To learn more about the Safe Harbor program, and to view Ask.com’s certification for the Website and mobile applications, please visit <http://www.export.gov/safeharbor/>.
