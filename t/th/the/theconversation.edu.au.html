@@ -1,28 +1,15 @@
-<!--The following is the downloaded HTML source of the theconversation.edu.au privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626060219id_/http%3A//theconversation.com/au/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theconversation.edu.au privacy policy that was archived on 2014-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230220556id_/http%3A//theconversation.com/au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"5b06465c9f","applicationID":"367227","transactionName":"el9cTBRXCl8EFk5aXl9fHUgUURBSAh0+Q19VWVFB","queueTime":4,"applicationTime":19,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcEVlFACwUHVlNV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-  <meta name="refspec" content="a13a6c1">
-  <title>Privacy at The Conversation</title>
   <meta content="authenticity_token" name="csrf-param">
-<meta content="krDuYLdm17nMnCiWD0hNWQnVOZVxiIYLrX3JyJ3f070=" name="csrf-token">
+<meta content="E56Vta3ylX4vbpoo/jgTu3HsADir6NQCUyRNd+yhwGs=" name="csrf-token">
 
-  <link href="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/application-840995834ac23708ab07cd2caad4962b.css" media="screen" rel="stylesheet">
-  
-
-  <!--[if lt IE 9]><script src="/javascripts/vendor/shim.js"></script><![endif]-->
-
-  <!--[if IE 7]><link href="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/ie/ie7-c430ecb3f1d033305c0be37a72c2941d.css" media="screen" rel="stylesheet" /><![endif]-->
-  <!--[if IE 8]><link href="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/ie/ie8-f65ef1977b6cd0405106f67bf51d754c.css" media="screen" rel="stylesheet" /><![endif]-->
-
-  <link href="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/print-e20ffd6dd321e1ae625122e126f6dbe2.css" media="print" rel="stylesheet">
-
-  <link rel="apple-touch-icon-precomposed" href="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/ios-logo-c70c2b3090cf059d9aa4c8c2d0a2a24c.png">
-  <link rel="shortcut icon" href="/favicon.ico">
+  <meta charset="utf-8">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"5b06465c9f","applicationID":"367227","transactionName":"el9cTBRXCl8EFk5aXl9fHUgUURBSAh0+Q19VWVFB","queueTime":2,"applicationTime":30,"agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcEVlFACwUHVlNV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
   <meta property="fb:app_id" content="127105130696839">
-  <script charset="utf-8">
+  <script>
   if (/iPad/.test(navigator.userAgent)) {
     // 972px layout + 20px gutter on left & right.
     document.write('<meta name="viewport" content="width=1012">');
@@ -31,18 +18,40 @@
   }
 </script><meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <link rel="alternate" href="http://theconversation.com/au/privacy-policy" hreflang="en-au">
+  <link rel="alternate" href="http://theconversation.com/us/privacy-policy" hreflang="en-us">
+  <link rel="alternate" href="http://theconversation.com/uk/privacy-policy" hreflang="en-gb">
+  <link rel="alternate" href="http://theconversation.com/privacy-policy" hreflang="x-default">
+
   
   
-<script type="text/javascript">
+  
+
+  <!-- refspec 0f5a644 -->
+  <title>Privacy at The Conversation</title>
+  <link href="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/application-b81db703eaf63dd451512121fa2afc26.css" media="screen" rel="stylesheet">
+
+
+
+<!--[if lt IE 9]><script src="/javascripts/vendor/shim.js"></script><![endif]-->
+
+<!--[if IE 7]><link href="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/ie/ie7-9411a539674b204af72a93f181462583.css" media="screen" rel="stylesheet" /><![endif]-->
+<!--[if IE 8]><link href="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/ie/ie8-159ac67d769f3278aeee5962efe6ac67.css" media="screen" rel="stylesheet" /><![endif]-->
+
+<link href="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/print-dec0e74a6940c2f52c5bc456b6f7a699.css" media="print" rel="stylesheet">
+
+  <link rel="apple-touch-icon-precomposed" href="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/ios-logo-c7605b94efa0370b83a62086f97fce3e.png">
+<link rel="shortcut icon" href="/favicon.ico">
+
+  
+<script>
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', "UA-21436757-1"]);
 
-  _gaq.push(['_setCustomVar', 2, 'CommissioningRegion', 'au', 3]);
+  _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
+_gaq.push(['_setCustomVar', 2, 'CommissioningRegion', 'au', 3]);
 _gaq.push(['_setCustomVar', 5, 'RegionCode', 'au', 3]);
-_gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
 
-
-  _gaq.push(['_deleteCustomVar', 4]);
 
     _gaq.push(['_trackPageview']);
     (function() {
@@ -52,85 +61,78 @@ _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
     })();
 </script>
 
-</head>
-<body class="application region_au info info-privacy_policy info info-privacy_policy">
   
-    <div id="sm-sidebar">
-  <div id="sm-sidebar-content">
-    <h3>Sections <span id="sm-sidebar-close-button" class="icon-delete"></span></h3>
-    <ul>
-        <li class="home-page ">
-          <a class="" href="/au">Home<span class="icon-chevron-right"></span></a>
-        </li>
-        <li class="arts ">
-          <a class="" href="/au/arts">Arts <span><span title="and">+</span> Culture</span><span class="icon-chevron-right"></span></a>
-        </li>
-        <li class="business ">
-          <a class="" href="/au/business">Business <span><span title="and">+</span> Economy</span><span class="icon-chevron-right"></span></a>
-        </li>
-        <li class="education ">
-          <a class="" href="/au/education">Education<span class="icon-chevron-right"></span></a>
-        </li>
-        <li class="environment ">
-          <a class="" href="/au/environment">Environment <span><span title="and">+</span> Energy</span><span class="icon-chevron-right"></span></a>
-        </li>
-        <li class="health ">
-          <a class="" href="/au/health">Health <span><span title="and">+</span> Medicine</span><span class="icon-chevron-right"></span></a>
-        </li>
-        <li class="politics ">
-          <a class="" href="/au/politics">Politics <span><span title="and">+</span> Society</span><span class="icon-chevron-right"></span></a>
-        </li>
-        <li class="technology ">
-          <a class="" href="/au/technology">Science <span><span title="and">+</span> Technology</span><span class="icon-chevron-right"></span></a>
-        </li>
-        <li class="world-cup-2014 last">
-          <a class="" href="/au/world-cup-2014">World Cup<span class="icon-chevron-right"></span></a>
-        </li>
-    </ul>
+</head>
+<body class="region_au info info-privacy_policy ">
+  
+  <div id="sm-sidebar">
+    <div id="sm-sidebar-content">
+      <h3>Sections <span id="sm-sidebar-close-button" class="icon-delete"></span></h3>
+      <ul>
+          <li class="home-page ">
+            <a class="" href="/au">Home<span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="arts ">
+            <a class="" href="/au/arts">Arts <span><span title="and">+</span> Culture</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="business ">
+            <a class="" href="/au/business">Business <span><span title="and">+</span> Economy</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="education ">
+            <a class="" href="/au/education">Education<span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="environment ">
+            <a class="" href="/au/environment">Environment <span><span title="and">+</span> Energy</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="health ">
+            <a class="" href="/au/health">Health <span><span title="and">+</span> Medicine</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="politics ">
+            <a class="" href="/au/politics">Politics <span><span title="and">+</span> Society</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="technology last">
+            <a class="" href="/au/technology">Science <span><span title="and">+</span> Technology</span><span class="icon-chevron-right"></span></a>
+          </li>
+      </ul>
 
-
-    <h3>Services</h3>
-    <ul>
-      <li>
-        <a href="/au/events">
-          Events <span class="icon-chevron-right"></span>
-</a>      </li>
+      <h3>Services</h3>
+      <ul>
+          <li>
+            <a href="/au/events">
+              Events <span class="icon-chevron-right"></span>
+</a>          </li>
+          <li>
+            <a href="https://jobs.theconversation.com/?utm_source=theconversation.com&amp;utm_medium=website&amp;utm_campaign=mobile-sidebar">
+              Job board <span class="icon-chevron-right"></span>
+</a>          </li>
         <li>
-          <a href="http://jobs.theconversation.edu.au/?utm_source=theconversation.com&amp;utm_medium=website&amp;utm_campaign=mobile-sidebar">
-            Job board <span class="icon-chevron-right"></span>
+          <a href="/au/newsletter">
+            Newsletter <span class="icon-chevron-right"></span>
 </a>        </li>
-      <li>
-        <a href="/au/newsletter">
-          Newsletter <span class="icon-chevron-right"></span>
-</a>      </li>
-      <li id="google-currents-link">
-        <a href="http://www.google.com/newsstand/s/editions/CAowro6aAg">Read on Google Play<span class="icon-chevron-right"></span></a>
-      </li>
-    </ul>
+        <li id="google-currents-link">
+          <a href="http://www.google.com/newsstand/s/editions/CAowro6aAg">Read on Google Play<span class="icon-chevron-right"></span></a>
+        </li>
+      </ul>
 
-
-    <h3>Information</h3>
-    <ul>
-      <li><a class="" href="/au/who_we_are">Who we are <span class="icon-chevron-right"></span></a></li>
-      <li><a class="" href="/au/our_charter">Our charter <span class="icon-chevron-right"></span></a></li>
-      <li><a class="" href="/au/our_team">Our team <span class="icon-chevron-right"></span></a></li>
-      <li><a class="" href="/au/our_audience">Our audience <span class="icon-chevron-right"></span></a></li>
-      <li><a class="" href="/au/partners">Partners and funders <span class="icon-chevron-right"></span></a></li>
-      <li><a class="" href="/institutions">Contributing institutions <span class="icon-chevron-right"></span></a></li>
-      <li><a class="" href="/au/contact_us">Contact us <span class="icon-chevron-right"></span></a></li>
-      <li><a class="" href="/au/friends">Friends of The Conversation <span class="icon-chevron-right"></span></a></li>
-      <li><a class="" href="/au/privacy_policy">Privacy policy <span class="icon-chevron-right"></span></a></li>
-      <li><a class="" href="/au/terms_and_conditions">Terms and conditions <span class="icon-chevron-right"></span></a></li>
-      <li><a class="" href="/au/corrections">Corrections <span class="icon-chevron-right"></span></a></li>
-    </ul>
+      <h3>Information</h3>
+      <ul>
+        <li><a class="" href="/au/who-we-are">Who we are <span class="icon-chevron-right"></span></a></li>
+        <li><a class="" href="/au/charter">Our charter <span class="icon-chevron-right"></span></a></li>
+        <li><a class="" href="/au/team">Our team <span class="icon-chevron-right"></span></a></li>
+        <li><a class="" href="/au/audience">Our audience <span class="icon-chevron-right"></span></a></li>
+        <li><a class="" href="/au/partners">Partners and funders <span class="icon-chevron-right"></span></a></li>
+        <li><a class="" href="/institutions">Contributing institutions <span class="icon-chevron-right"></span></a></li>
+        <li><a class="" href="/au/contact-us">Contact us <span class="icon-chevron-right"></span></a></li>
+        <li><a class="" href="/au/friends">Friends of The Conversation <span class="icon-chevron-right"></span></a></li>
+        <li><a class="" href="/au/privacy-policy">Privacy policy <span class="icon-chevron-right"></span></a></li>
+        <li><a class="" href="/au/terms-and-conditions">Terms and conditions <span class="icon-chevron-right"></span></a></li>
+        <li><a class="" href="/au/corrections">Corrections <span class="icon-chevron-right"></span></a></li>
+      </ul>
+    </div>
   </div>
-</div>
 
 
   <div id="page-wrapper">
-
-      <div class="friends-of-the-conversation-call-to-action"></div>
-
     <div id="sm-topbar">
 
   <div>
@@ -146,12 +148,15 @@ _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
       <span class="icon-caret-down"></span>
     </div>
     <select id="sm-region-select-dropdown">
-      <option data-code="AU" value="/au" selected="selected">
-        Australia
-      </option>
-      <option data-code="UK" value="/uk">
-        United Kingdom
-      </option>
+        <option data-code="AU" value="/au" selected="selected">
+          Australia
+        </option>
+        <option data-code="UK" value="/uk">
+          United Kingdom
+        </option>
+        <option data-code="US" value="/us">
+          United States
+        </option>
     </select>
   </div>
 
@@ -175,37 +180,40 @@ _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
 
     <div id="edition-selector">
       <ul>
-        <li><span>Edition:</span></li>
-        <li class="region au active">
-          <a href="/au" title="Australia">
-            AU
-</a>        </li>
-        <li class="region uk">
-          <a href="/uk" title="United Kingdom">
-            UK
-</a>        </li>
+        <li><div>Edition:</div></li>
+          <li class="region au active">
+            <a href="/au" title="Australia">
+              AU
+</a>          </li>
+          <li class="region uk">
+            <a href="/uk" title="United Kingdom">
+              UK
+</a>          </li>
+          <li class="region us">
+            <a href="/us" title="United States">
+              US
+</a>          </li>
       </ul>
     </div>
 
     <nav id="site-nav">
       <ul>
-        <li class="tc-jobs">
-  <a href="http://jobs.theconversation.edu.au/?utm_source=theconversation.com&amp;utm_medium=website&amp;utm_campaign=topbar">Job Board</a>
-</li>
+          <li class="tc-jobs">
+            <a href="https://jobs.theconversation.com/?utm_source=theconversation.com&amp;utm_medium=website&amp;utm_campaign=topbar">Job Board</a>
+          </li>
 
-
-        <li class="tc-events">
-          <a href="/au/events">Events</a>
-        </li>
+          <li class="tc-events">
+            <a href="/au/events">Events</a>
+          </li>
 
         <li class="newsletter">
           <a href="/au/newsletter" title="Sign up to receive our daily email newsletter">Newsletter</a>
         </li>
 
-        <li class="social-media elsewhere">
+        <li class="elsewhere">
           <a href="https://www.facebook.com/ConversationEDU" title="The Conversation on Facebook"><i class="icon-facebook"></i></a>
           <a href="https://twitter.com/ConversationEDU" title="The Conversation on Twitter"><i class="icon-twitter"></i></a>
-          <a class="rss" href="/au/our_feeds" title="The Conversation's Feeds"><i class="icon-rss"></i></a>
+          <a class="rss" href="/au/feeds" title="The Conversation's Feeds"><i class="icon-rss"></i></a>
         </li>
       </ul>
     </nav>
@@ -216,25 +224,24 @@ _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
             <a href="/become-an-author">Become an author</a>
           </li>
           <li>
-            <a href="https://theconversation.com/sign_up?return_to=%2Fau%2Fprivacy_policy">Sign up as a reader</a>
+            <a href="https://theconversation.com/sign_up">Sign up as a reader</a>
           </li>
           <li>
-            <a href="/sign_in?return_to=%2Fau%2Fprivacy_policy">Sign in</a>
+            <a href="/sign_in">Sign in</a>
           </li>
         </ul>
     </nav>
   </div>
 </section>
 
-
-    <div id="outer">
-      
-        <div class="wrapper nocontent">
-          <header id="masthead" class="clearfix">
-  <a href="/au" id="home-link">
-    <img alt="The Conversation" src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/masthead-5dc4625bbed5ed1247affa58ff24bee4.svg">
+    
+  <section id="header">
+    <div class="wrapper nocontent">
+      <header id="masthead" class="clearfix">
+  <a class="masthead-home-link" href="/au">
+    <img alt="The Conversation" src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/carlton/logos/logo-a8ba006910b223e5e8b581e05cb0b7c5.svg">
 </a>
-  <form action="/search" method="get" class="search-form" id="search">
+  <form class="masthead-search" action="/search" method="get">
     <fieldset>
   <legend>Search</legend>
   <div class="row">
@@ -248,16 +255,12 @@ _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
 
   </form>
 
-  <div id="tagline" class="left clear-left">
-    <ul>
-      <li class="active"><span>Academic rigour, journalistic flair</span></li>
-      <li><span>Latest ideas and research</span></li>
-      <li><span>From the curious to the serious</span></li>
-    </ul>
+  <div class="masthead-tagline">
+    Academic rigour, journalistic flair
   </div>
 </header>
 
-          <nav id="primary" class=" nocontent">
+      <nav id="primary-navigation" class=" nocontent">
   <ol>
       <li class="arts ">
         <a class="" href="/au/arts" title="Arts + Culture">Arts <span><span title="and">+</span> Culture</span></a>
@@ -277,141 +280,151 @@ _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
       <li class="politics ">
         <a class="" href="/au/politics" title="Politics + Society">Politics <span><span title="and">+</span> Society</span></a>
       </li>
-      <li class="technology ">
+      <li class="technology last">
         <a class="" href="/au/technology" title="Science + Technology">Science <span><span title="and">+</span> Technology</span></a>
-      </li>
-      <li class="world-cup-2014 last">
-        <a class="" href="/au/world-cup-2014" title="World Cup">World Cup</a>
       </li>
   </ol>
 </nav>
 
-            <section id="hot-topics" class=" clearfix nocontent">
+    </div>
+  </section>
+
+    
+
+    <section id="topics">
+      <div class="wrapper nocontent">
+          <section id="hot-topics" class=" clearfix nocontent">
     <h3>
-      <a href="/topics">Follow Topics</a>
+      <a href="/au/topics">Follow Topics</a>
     </h3>
 
     <ol>
         <li>
-          <a class="nocontent" data-slug="explainer" href="/topics/explainer">Explainer</a>
+          <a class="nocontent" data-slug="2014-the-year-that-was" href="/au/topics/2014-the-year-that-was">2014, the year that was</a>
         </li>
         <li>
-          <a class="nocontent" data-slug="native-advertising" href="/topics/native-advertising">Native advertising</a>
+          <a class="nocontent" data-slug="end-of-year-series" href="/au/topics/end-of-year-series">End of year series</a>
         </li>
         <li>
-          <a class="nocontent" data-slug="youth-in-australia" href="/topics/youth-in-australia">Youth in Australia</a>
+          <a class="nocontent" data-slug="sydney-siege" href="/au/topics/sydney-siege">Sydney siege</a>
         </li>
         <li>
-          <a class="nocontent" data-slug="world-cup-2014" href="/topics/world-cup-2014">World Cup 2014</a>
+          <a class="nocontent" data-slug="renewable-energy-target" href="/au/topics/renewable-energy-target">Renewable Energy Target</a>
         </li>
         <li>
-          <a class="nocontent" data-slug="biology-and-blame" href="/topics/biology-and-blame">Biology and Blame</a>
-        </li>
-        <li>
-          <a class="nocontent" data-slug="health-check" href="/topics/health-check">Health Check</a>
+          <a class="nocontent" data-slug="exo-earth-series" href="/au/topics/exo-earth-series">exo-Earth series</a>
         </li>
     </ol>
   </section>
 
-        </div>
+      </div>
+    </section>
 
+
+    <div id="outer">
       
 
 
-      
       <div id="page" class="wrapper">
         <div id="body" class="clearfix">
           <aside class="grid-four">
   <nav class="sidebar-link-list">
     <h2>Community</h2>
     <ul>
-      <li><a href="/au/community_standards">Community standards</a></li>
-      <li><a href="/au/republishing_guidelines">Republishing guidelines</a></li>
+      <li><a href="/au/community-standards">Community standards</a></li>
+      <li><a href="/au/republishing-guidelines">Republishing guidelines</a></li>
         <li><a href="/au/friends">Friends of The Conversation</a></li>
         <li>
-          <a href="http://jobs.theconversation.edu.au/?utm_source=theconversation.com&amp;utm_medium=website&amp;utm_campaign=footer">
+          <a href="https://jobs.theconversation.com/?utm_source=theconversation.com&amp;utm_medium=website&amp;utm_campaign=footer">
             Job Board
 </a>        </li>
 
       <li><a href="/au/events">Events</a></li>
-      <li><a href="/au/our_feeds">Our feeds</a></li>
+      <li><a href="/au/feeds">Our feeds</a></li>
 
-        <li><a class=" dynamic_donate_link" href="https://donate.theconversation.edu.au?utm_source=theconversation.com&amp;utm_medium=website&amp;utm_campaign=footer">Donate</a></li>
+        <li><a class=" dynamic_donate_link" href="https://donate.theconversation.com?utm_source=theconversation.com&amp;utm_medium=website&amp;utm_campaign=footer">Donate</a></li>
     </ul>
   </nav>
 
   <nav class="sidebar-link-list">
     <h2>Company</h2>
     <ul>
-      <li><a href="/au/who_we_are">Who we are</a></li>
-      <li><a href="/au/our_charter">Our charter</a></li>
-      <li><a href="/au/our_team">Our team</a></li>
-        <li><a href="/au/our_audience">Our audience</a></li>
+      <li><a href="/au/who-we-are">Who we are</a></li>
+      <li><a href="/au/charter">Our charter</a></li>
+      <li><a href="/au/team">Our team</a></li>
+        <li><a href="/au/audience">Our audience</a></li>
       <li><a href="/au/partners">Partners and funders</a></li>
       <li><a href="/institutions">Contributing institutions</a></li>
-      <li><a href="/au/resource_for_media">Resource for media</a></li>
-      <li><a href="/au/contact_us">Contact us</a></li>
+      <li><a href="/au/resources-for-media">Resource for media</a></li>
+      <li><a href="/au/nobel-laureate">Nobel Laureate's message</a></li>
+      <li><a href="/au/10-ways-we-are-different">10 ways we are different</a></li>
+      <li><a href="/au/contact-us">Contact us</a></li>
     </ul>
   </nav>
 
   <nav class="sidebar-link-list">
     <h2>Site</h2>
     <ul>
-      <li><a href="/au/privacy_policy">Privacy policy</a></li>
-      <li><a href="/au/terms_and_conditions">Terms and conditions</a></li>
+      <li><a href="/au/privacy-policy">Privacy policy</a></li>
+      <li><a href="/au/terms-and-conditions">Terms and conditions</a></li>
       <li><a href="/au/corrections">Corrections</a></li>
     </ul>
   </nav>
 </aside>
 
 
-<section class="grid-twelve last">
+<section class="grid-twelve grid-last">
   <h1 class="page-header">Privacy policy</h1>
-  <p><time pubdate="2011-02-21">Last updated: 21 Feb 2011</time></p>
 
-  <ol>
-    <li>
-      <strong>Introduction</strong>
-      <p>The Conversation Media Group Ltd ACN 142 923 653 (TCMG) is committed to protecting the privacy of our contributors and readers. TCMG is bound by the National Privacy Principles set out in the Privacy Act 1988 (Cth) (the Act).</p>
-      <p>TCMG will only collect, use or disclose personal information in accordance with the Act and this Privacy Policy.</p>
-      <p>TCMG may amend this Privacy Policy at any time and for any reason. The updated version will be available at <a href="/au/privacy_policy">/au/privacy_policy</a>. TCMG may highlight changes to this Privacy Policy at <a href="/au/privacy_policy">/au/privacy_policy</a>, but you should check the Privacy Policy regularly for changes.</p>
-      <p>In this Privacy Policy, “personal information” means information or an opinion about a person whose identity is apparent, or can be reasonably ascertained, from the information or opinion.</p>
-    </li>
-    <li>
-      <strong>Collection and use of personal information</strong>
-      <p>TCMG will, from time to time, collect and use personal information. The types of personal information collected and the purposes for which that personal information will be used will depend on the circumstances. For example, TCMG may collect personal information when you:</p>
-      <ul>
-        <li>sign up as a contributor to or create a profile on The Conversation;</li>
-        <li>join a conversation or comment on someone else’s article or contribution to The Conversation;</li>
-        <li>participate in a survey or provide feedback to The Conversation.</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Disclosure of personal information</strong>
-      <p>If you sign up as a contributor to The Conversation, TCMG will publish your contributor profile, which may include personal information, on The Conversation.</p>
-      <p>If you join a conversation or comment on someone else’s article or contribution, TCMG will publish your post, which may include personal information, on The Conversation, such as your name and position.</p>
-      <p>Other than these situations, TCMG will not disclose your personal information to third parties except:</p>
-      <ul>
-        <li>to third parties which assist TCMG to operate The Conversation (in which case TCMG requires these contractors to keep that personal information confidential and not to use or disclose it for any purpose other than the purpose of performing those services);</li>
-        <li>in exceptional circumstances, TCMG may be required or authorised by law to disclose personal information, for example to law enforcement authorities or to prevent a serious threat to public safety; or</li>
-        <li>otherwise with your consent.</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Handling of personal information</strong>
-      <p>TCMG will take all reasonable steps to protect all personal information held by it from misuse and loss and from unauthorised access, modification and disclosure.</p>
-    </li>
-    <li>
-      <strong>Accessing your personal information</strong>
-      <p>Any person may seek access to personal information which TCMG holds about that person and we will provide access to that information in accordance with the Act. There are certain exemptions which may apply to the provision of that information. We may require that the person requesting access provide suitable identification and we may charge an administration fee for granting access to information. Requests to access personal information held by TCMG should be addressed to
-      <a href="mailto:privacy@theconversation.edu.au">privacy@theconversation.edu.au</a>.</p>
-    </li>
-    <li>
-      <strong>Questions</strong>
-      <p>If you have any questions or concerns about TCMG’s collection, use or disclosure of personal information, email TCMG at <a href="mailto:privacy@theconversation.edu.au">privacy@theconversation.edu.au</a>.</p>
-    </li>
-  </ol>
+  <article class="content">
+    <p><time pubdate="2011-02-21">Last updated: 21 Feb 2011</time></p>
+
+<ol>
+  <li>
+    <strong>Introduction</strong>
+    <p>The Conversation Media Group Ltd ACN 142 923 653 (TCMG) is committed to protecting the privacy of our contributors and readers. TCMG is bound by the National Privacy Principles set out in the Privacy Act 1988 (Cth) (the Act).</p>
+    <p>TCMG will only collect, use or disclose personal information in accordance with the Act and this Privacy Policy.</p>
+    <p>TCMG may amend this Privacy Policy at any time and for any reason. The updated version will be available at <a href="/au/privacy-policy">/au/privacy-policy</a>. TCMG may highlight changes to this Privacy Policy at <a href="/au/privacy-policy">/au/privacy-policy</a>, but you should check the Privacy Policy regularly for changes.</p>
+    <p>In this Privacy Policy, “personal information” means information or an opinion about a person whose identity is apparent, or can be reasonably ascertained, from the information or opinion.</p>
+  </li>
+  <li>
+    <strong>Collection and use of personal information</strong>
+    <p>TCMG will, from time to time, collect and use personal information. The types of personal information collected and the purposes for which that personal information will be used will depend on the circumstances. For example, TCMG may collect personal information when you:</p>
+    <ul>
+      <li>sign up as a contributor to or create a profile on The Conversation;</li>
+      <li>join a conversation or comment on someone else’s article or contribution to The Conversation;</li>
+      <li>participate in a survey or provide feedback to The Conversation.</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Disclosure of personal information</strong>
+    <p>If you sign up as a contributor to The Conversation, TCMG will publish your contributor profile, which may include personal information, on The Conversation.</p>
+    <p>If you join a conversation or comment on someone else’s article or contribution, TCMG will publish your post, which may include personal information, on The Conversation, such as your name and position.</p>
+    <p>Other than these situations, TCMG will not disclose your personal information to third parties except:</p>
+    <ul>
+      <li>to third parties which assist TCMG to operate The Conversation (in which case TCMG requires these contractors to keep that personal information confidential and not to use or disclose it for any purpose other than the purpose of performing those services);</li>
+      <li>in exceptional circumstances, TCMG may be required or authorised by law to disclose personal information, for example to law enforcement authorities or to prevent a serious threat to public safety; or</li>
+      <li>otherwise with your consent.</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Handling of personal information</strong>
+    <p>TCMG will take all reasonable steps to protect all personal information held by it from misuse and loss and from unauthorised access, modification and disclosure.</p>
+  </li>
+  <li>
+    <strong>Accessing your personal information</strong>
+    <p>Any person may seek access to personal information which TCMG holds about that person and we will provide access to that information in accordance with the Act. There are certain exemptions which may apply to the provision of that information. We may require that the person requesting access provide suitable identification and we may charge an administration fee for granting access to information. Requests to access personal information held by TCMG should be addressed to
+    <a href="mailto:privacy@theconversation.edu.au">privacy@theconversation.edu.au</a>.</p>
+  </li>
+  <li>
+    <strong>Questions</strong>
+    <p>If you have any questions or concerns about TCMG’s collection, use or disclosure of personal information, email TCMG at <a href="mailto:privacy@theconversation.edu.au">privacy@theconversation.edu.au</a>.</p>
+  </li>
+</ol>
+
+  </article>
 </section>
+
 
         </div>
       </div>
@@ -419,9 +432,9 @@ _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
     </div>
 
     
-      <div id="footers">
-        
-        <section id="sub-footer">
+  <div id="footers">
+    
+    <section id="sub-footer">
   <header>
     <div class="wrapper nocontent">
       <h2>The Conversation</h2>
@@ -433,19 +446,19 @@ _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
       <h6>Community</h6>
       <nav>
         <ul>
-          <li><a href="/au/community_standards">Community standards</a></li>
-          <li><a href="/au/republishing_guidelines">Republishing guidelines</a></li>
+          <li><a href="/au/community-standards">Community standards</a></li>
+          <li><a href="/au/republishing-guidelines">Republishing guidelines</a></li>
             <li><a href="/au/friends">Friends of The Conversation</a></li>
             <li>
-              <a href="http://jobs.theconversation.edu.au/?utm_source=theconversation.com&amp;utm_medium=website&amp;utm_campaign=footer">
+              <a href="https://jobs.theconversation.com/?utm_source=theconversation.com&amp;utm_medium=website&amp;utm_campaign=footer">
                 <i class="icon icon-the-conversation"></i> Job Board
 </a>            </li>
-          <li>
-            <a href="/au/events">
-              <i class="icon icon-the-conversation"></i> Events
-</a>          </li>
-          <li><a href="/au/our_feeds"><i class="icon icon-rss-non-coloured"></i> Our feeds</a></li>
-            <li><a class=" dynamic_donate_link" href="https://donate.theconversation.edu.au?utm_source=theconversation.com&amp;utm_medium=website&amp;utm_campaign=footer"><i class="icon icon-friend-of-tc"></i> Donate</a></li>
+            <li>
+              <a href="/au/events">
+                <i class="icon icon-the-conversation"></i> Events
+</a>            </li>
+          <li><a href="/au/feeds"><i class="icon icon-rss-non-coloured"></i> Our feeds</a></li>
+            <li><a class=" dynamic_donate_link" href="https://donate.theconversation.com?utm_source=theconversation.com&amp;utm_medium=website&amp;utm_campaign=footer"><i class="icon icon-friend-of-tc"></i> Donate</a></li>
         </ul>
       </nav>
     </section>
@@ -454,13 +467,14 @@ _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
       <h6>Company</h6>
       <nav>
         <ul>
-          <li><a href="/au/who_we_are">Who we are</a></li>
-          <li><a href="/au/our_charter">Our charter</a></li>
-          <li><a href="/au/our_team">Our team</a></li>
-            <li><a href="/au/our_audience">Our audience</a></li>
+          <li><a href="/au/who-we-are">Who we are</a></li>
+          <li><a href="/au/charter">Our charter</a></li>
+          <li><a href="/au/team">Our team</a></li>
+            <li><a href="/au/audience">Our audience</a></li>
+          <li><a href="/columns/blog-26">Our blog</a></li>
           <li><a href="/au/partners">Partners and funders</a></li>
           <li><a href="/institutions">Contributing institutions</a></li>
-          <li><a href="/au/contact_us">Contact us</a></li>
+          <li><a href="/au/contact-us">Contact us</a></li>
         </ul>
       </nav>
     </section>
@@ -477,7 +491,7 @@ _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
         <h6>Subscribe to our Newsletters</h6>
         <form action="/subscriptions" method="post" class="subscribe">
   <fieldset>
-    <label for="subscribe_email">
+    <label class="subscribe-email-label" for="subscribe_email">
       Email address
     </label>
 
@@ -485,26 +499,31 @@ _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
       <input class="email" id="subscribe_email" name="subscribe[email]" placeholder="Your email address" spellcheck="false" type="email" value="">
       <i class="success">✔</i>
       <i class="icon-delete failure"></i>
-      <img alt="Spinner" class="spinner" src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/spinner-150e9f66a6e26000d705c16bf2cab073.gif">
+      <img alt="Spinner" class="spinner" src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/spinner-bcad1d4bf4573cc2f43d9a25e8f81ae2.gif">
     </div>
 
     <input id="subscribe_location" name="subscribe[location]" type="hidden" value="footer">
 
-    <fieldset class="regions">
-    <label for="subscribe_au">
-      <input checked="checked" class="checkbox_au" id="subscribe_regions_" name="subscribe[regions][]" type="checkbox" value="au">
-      <span class="full_name">Australia</span>
-      <span class="short_code">au</span>
-    </label>
-    <label for="subscribe_uk">
-      <input class="checkbox_uk" id="subscribe_regions_" name="subscribe[regions][]" type="checkbox" value="uk">
-      <span class="full_name">United Kingdom</span>
-      <span class="short_code">uk</span>
-    </label>
-</fieldset>
+      <fieldset class="regions check-boxes">
+      <label for="subscribe_au">
+        <input checked="checked" class="checkbox_au" id="subscribe_au" name="subscribe[regions][]" type="checkbox" value="au">
+        <span class="full_name">Australia</span>
+        <span class="short_code">au</span>
+      </label>
+      <label for="subscribe_uk">
+        <input class="checkbox_uk" id="subscribe_uk" name="subscribe[regions][]" type="checkbox" value="uk">
+        <span class="full_name">United Kingdom</span>
+        <span class="short_code">uk</span>
+      </label>
+      <label for="subscribe_us">
+        <input class="checkbox_us" id="subscribe_us" name="subscribe[regions][]" type="checkbox" value="us">
+        <span class="full_name">United States</span>
+        <span class="short_code">us</span>
+      </label>
+  </fieldset>
 
 
-    <input class="button subtle" name="subscribe" type="submit" value="Subscribe">
+    <input class="subscribe button subtle" name="subscribe" type="submit" value="Subscribe">
   </fieldset>
 </form>
 
@@ -513,11 +532,11 @@ _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
   </div>
 </section>
 
-        <footer id="footer">
+    <img width="1" height="1" src="https://www.facebook.com/tr?id=1517004835184558&amp;amp;ev=NoScript" style="display: none;"><footer id="footer">
   <div class="wrapper nocontent">
     <nav>
-      <a href="/au/privacy_policy">Privacy policy</a>
-      <a href="/au/terms_and_conditions">Terms and conditions</a>
+      <a href="/au/privacy-policy">Privacy policy</a>
+      <a href="/au/terms-and-conditions">Terms and conditions</a>
       <a href="/au/corrections">Corrections</a>
       
   <script>
@@ -535,33 +554,42 @@ _gaq.push(['_setCustomVar', 1, 'UserType', 'Reader', 2]);
     </div>
   </noscript>
 
+      <script>
+  (function() {
+    var img = document.createElement('img'); img.width = 1; img.height = 1;
+    img.src = 'https://www.facebook.com/tr?id=1517004835184558&amp;ev=NoScript';
+    img.style.display = "none";
+    var s = document.getElementsByTagName('footer')[0]; s.parentNode.insertBefore(img, s);
+  })();
+</script>
+
     </nav>
     <p class="copyright">
-      <span>Copyright © 2010–2014</span><span class="comma">, </span><span><a href="/au/who_we_are">The Conversation Media Group</a></span>
+      <span>Copyright © 2010–2014</span><span class="comma">, </span><span><a href="/au/who-we-are">The Conversation Media Group</a></span>
     </p>
   </div>
 </footer>
 
-      </div>
+  </div>
 
-    <nav id="admin-menu">
+    <nav id="editorial-menu">
   </nav>
 
   </div>
 
-  <script src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/vendored-08e798bb425115f5fa94b99bdbe1ae69.js"></script>
-<script src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/application-983e33dc8d4c09c3ce08c2072bcc6a95.js"></script>
+  <script src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/vendored-0b3075e23c326e41cc513faf38ce136a.js"></script>
+<script src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/assets/application-47d370ff2b1d90b7c00d23465cb011e3.js"></script>
   <script>
 //<![CDATA[
 
-
+    TC.time = new TC.TimeFormatter('en_au')
     TC.currentUser = new TC.User(null);
-    TC.page=new TC.BasePage();
-    
+        TC.page = new TC.InfoPage();
+
 
 //]]>
 </script>
   
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
