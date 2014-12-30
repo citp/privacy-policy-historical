@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadfirefox.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629180430id_/http%3A//www.mozilla.org/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadfirefox.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042247id_/https%3A//www.mozilla.org/privacy) for the most accurate reproduction.*
 
 # Mozilla Privacy
 
@@ -29,7 +29,7 @@ When you give us information, we will use it in the ways for which you've given 
 
   * When we have asked and received your permission to share it.
   * For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla.
-  * When we are fulfilling our [mission of being open](https://web.archive.org/en-US/about/manifesto/). We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
+  * When we are fulfilling our [mission of being open](https://web.archive.org/about/manifesto/). We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
   * When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
   * When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
   * If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
@@ -46,7 +46,7 @@ We also don't want your personal information for any longer than we need it, so 
 
 We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
 
-If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](https://web.archive.org/en-US/privacy/#contact) to have your child's information removed.
+If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](https://web.archive.org/privacy/#contact) to have your child's information removed.
 
 ## What if we change this privacy policy or any of our privacy notices?
 
