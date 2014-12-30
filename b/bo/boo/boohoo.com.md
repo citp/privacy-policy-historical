@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620104632id_/http%3A//www.boohoo.com/restofworld/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230195439id_/http%3A//www.boohoo.com/restofworld/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at boohoo.com
 
@@ -122,3 +122,5 @@ We reserve the right to change this policy at any time. If we change our privacy
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [legal@boohoo.com.](mailto:legal@boohoo.com)
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Boohoo.com UK Limited of 49-51 Dale Street, Manchester M1 2EH. Our nominated representative for the purpose of the Act is Neil Catto, who can be contacted at [legal@boohoo.com.](mailto:legal@boohoo.com)
+
+[](http://www.boohoo.com/partners/pwr/product-reviews/c/index.html)
