@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dealsplus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105728id_/http%3A//dealspl.us/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsplus.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042826id_/http%3A//www.dealsplus.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Here at dealsplus we recognize that your privacy is very important, and to keep you informed about our privacy practices we ask that you please read the guidelines described below. Keep in mind that because dealsplus is a growing website and internet technologies are constantly evolving, these guidelines are subject to change and any said changes will be posted on this page. Any material changes from current practices will be posted on the main page of this website to serve as notice. dealsplus is not responsible for the content or the privacy policies of websites to which it may link.
+Here at DealsPlus we recognize that your privacy is very important, and to keep you informed about our privacy practices we ask that you please read the guidelines described below. Keep in mind that because DealsPlus is a growing website and internet technologies are constantly evolving, these guidelines are subject to change and any said changes will be posted on this page. Any material changes from current practices will be posted on the main page of this website to serve as notice. DealsPlus is not responsible for the content or the privacy policies of websites to which it may link.
 
   
 
@@ -16,7 +16,7 @@ During registration for membership, we may collect personal information such as 
 
 ### Location Information
 
-Use of our mobile application may, at your election, include location-based services. When you use the app, you may transmit information about your location to dealsplus. That information will be used to offer you deals and coupons that are close to your geographic location.
+Use of our mobile application may, at your election, include location-based services. When you use the app, you may transmit information about your location to DealsPlus. That information will be used to offer you deals and coupons that are close to your geographic location.
 
   
 
@@ -37,14 +37,14 @@ A cookie is a piece of data that a website transfers to an individual's hard dri
 
 ### Children
 
-The Children's Online Privacy Protection Act (COPPA) of 1998 provides safeguards to protect children who use the internet by regulating the online collection of personal information from children under the age of 13. Because of these safeguards, children under the age of 13 are not able to access or use all products and services on dealsplus. For more information, see our Children's Policy.
+The Children's Online Privacy Protection Act (COPPA) of 1998 provides safeguards to protect children who use the internet by regulating the online collection of personal information from children under the age of 13. Because of these safeguards, children under the age of 13 are not able to access or use all products and services on DealsPlus. For more information, see our Children's Policy.
 
   
 
 
 ### Use of Aggregate Data
 
-We may collect certain non-personal information to optimize our website for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address, and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our website. dealsplus may use personally identifiable information in aggregate form to improve our goods and services, including our website, and to make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by dealsplus, or provided to others as a summary report for marketing, advertising, or research purposes.
+We may collect certain non-personal information to optimize our website for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address, and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our website. DealsPlus may use personally identifiable information in aggregate form to improve our goods and services, including our website, and to make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by DealsPlus, or provided to others as a summary report for marketing, advertising, or research purposes.
 
   
 
@@ -58,11 +58,11 @@ We limit access to personal information about you to employees for whom we reaso
 
 ### What else you should know about privacy on the Internet
 
-  * Remember to close your browser when you have finished your dealsplus session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place, like a library or internet cafe. You as an individual are responsible for the security of and access to your own computer.
+  * Remember to close your browser when you have finished your DealsPlus session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place, like a library or internet cafe. You as an individual are responsible for the security of and access to your own computer.
   * Whenever you voluntarily disclose personal information over the internet, this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return.
   * Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information.
   * Please be careful and responsible whenever you are using the internet.
 
 
 
-_If you have any questions about our Privacy Policy, or you would like to cancel your account, please contact us at support@dealspl.us_
+_If you have any questions about our Privacy Policy, or you would like to cancel your account, please contact us at support@dealsplus.com_
