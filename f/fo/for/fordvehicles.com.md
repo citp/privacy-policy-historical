@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fordvehicles.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630034522id_/http%3A//www.ford.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fordvehicles.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045910id_/http%3A//www.ford.com/help/privacy) for the most accurate reproduction.*
 
 # Ford Privacy Policy | The Official Site of Ford Vehicles | Ford.com
 
@@ -12,29 +12,33 @@ This Privacy Statement applies to www.ford.com and its related mobile site, and 
 
 The business purpose of this website is to provide visitors: (1) with knowledge of the features and benefits of the complete line of cars, crossovers, SUVs and trucks; (2) with purchasing-related information such as available incentives, services, product inventory and dealership contacts; (3) the ability to save and share certain content that is of interest to you such as your favorite vehicles, technologies, and photos and videos; (4) SYNC product information, including SYNC software and support documentation, and the ability to manage your SYNC and Vehicle Health Report accounts including setting various preferences; (5) the opportunity to enter sweepstakes and purchase items; and (6) the opportunity to share your story regarding a Ford Motor Company product.
 
-On certain portions of this website, you may have the opportunity to request information or a contact from your local dealer through various shopping tools. These shopping tools include Build and Price, Search Dealer Inventory, Incentives and Offers, Request a Local Quote, and Trade-in Value. When you provide your personally identifiable information in those instances, it is collected by FordDirect, an independent company that assists our dealers. If you choose to provide your personally identifiable information to FordDirect, please note that it will be subject to the Privacy Policy of <http://www.forddirectprivacy.com/> .
+On certain portions of this website, you may have the opportunity to request information or a contact from your local dealer through various shopping tools. These shopping tools include Build and Price, Search Dealer Inventory, Incentives and Offers, Request a Local Quote, and Trade-in Value. When you provide your personally identifiable information in those instances, it is collected by FordDirect, an independent company that assists our dealers. If you choose to provide your personally identifiable information to FordDirect, please note that it will be subject to the FordDirect Privacy Policy located at <http://www.forddirectprivacy.com/> .
 
 Certain features that are available on www.ford.com may not be available on the related mobile site and vice versa.
 
-**When you visit this site, other parties such as third-party advertising partners and analytics providers may collect information about your online activity over time and across websites. This information may include identifiers that may permit those parties to serve tailored ads to your device. For more information about third-party advertising partners’ collection and use of such data for interest-based advertising purposes (and opting out of such use), see “Interest-Based Online/Behavioral Advertising” below.**
+### Online Tracking Information
 
-**Because there is not yet a common understanding of how to interpret web browser-based “Do Not Track” (“DNT”) signals other than cookies, Ford Motor Company does not currently respond to undefined “DNT” signals to its US websites.**
+When you visit this site, other parties such as third-party advertising partners and analytics providers may collect information about your online activity over time and across websites. This information may include identifiers that may permit those parties to serve tailored ads to your device. For more information about third-party advertising partners’ collection and use of such data for interest-based advertising purposes (and opting out of such use), see “Interest-Based Online/Behavioral Advertising” below.
 
-**Most browsers can be configured not to accept cookies, however, this may prevent you from having access to some functions or services on our sites.**
+Because there is not yet a common understanding of how to interpret web browser-based “Do Not Track” (“DNT”) signals other than cookies, Ford Motor Company does not currently respond to undefined “DNT” signals to its US websites.
+
+Most browsers can be configured not to accept cookies, however, this may prevent you from having access to some functions or services on our sites.
+
+See Sections 5 and 7 for more information.
 
 ### 3\. Personally Identifiable Information We Collect From You:
 
 When you visit ford.com we will not collect any personally identifiable information about you unless you provide it to us voluntarily. For purposes of this Privacy Statement, ”personally identifiable information” is information that identifies you as an individual, for example your name, street address, telephone number, e-mail address and credit card number. If you opt not to provide us with personally identifiable information you can still access our website, however you may be unable to participate in certain promotions, such as sweepstakes, create login credentials in order to use certain functionalities on the site, activate or use a service, have a purchase order fulfilled or receive product information.
 
+#### Saving Content
+
+Some functionality and services we provide you offer the opportunity to save certain content two ways. You can save it anonymously (in that instance, content will be associated with your computer by placing a session or persistent cookie on it), or by creating login credentials described in the next paragraph.
+
 #### Creating Login Credentials
 
-Certain pages of this website may allow you to create login credentials by typing in your user name/ID and password and other information, or by using Facebook credentials in order to utilize certain functionalities. If you choose to create login credentials using your Facebook account where you allow us to access your Facebook information that is publicly available or that you have made publicly available (e.g., name, user ID, profile picture), and information you “Allow” the website to access. For more information regarding Facebook's privacy practices including connecting with an application on Facebook, see the Facebook privacy policy at www.facebook.com. Ford Motor Company does not own or operate the Facebook platform. If you click “Allow,” this website will have access to the aforementioned information, but will collect and store only your Facebook name, Facebook user ID, and your email address.
+Certain pages of this website may allow you to create login credentials by typing in your user name/ID or email address and password and other information, or by using one of the available social media authentication methods such as Facebook, Google +, and Yahoo. If you choose to create login credentials using your account with one of the available social media authentication tools, you allow us to access your information that is publicly available or that you have made publicly available (e.g., name, user ID, profile picture), and information you “Allow” the website to access. By authenticating through one of the social media options, you allow us to receive your information that is accessible. We encourage you to review the privacy policy and any terms and conditions, for the method you choose to utilize for authentication.
 
 This site may use session and persistent “cookies” to collect personally identifiable information in order to verify login credentials, and it may use a third party to deliver site functionality. An explanation for each of these items and how they work is included in Section 7 – Methods to Collect Information.
-
-#### Preferences
-
-Some functionality and services we provide you offer the opportunity to save certain content two ways. You can save it anonymously (in that instance, content will be associated with your computer by placing a session or persistent cookie on it), or by using one of the available social media authentication methods such as Facebook, Google+ and Yahoo. By authenticating through one of the social media options, you allow us to receive your information that is accessible. We encourage you to review the privacy policy and any terms and conditions for the method you choose to utilize for authentication.
 
 **VEHICLE HEALTH REPORT PRIVACY NOTICE (if equipped, U.S. only): When you run a Vehicle Health Report, Ford Motor Company may collect your cell phone number (to process your report request) and diagnostic information about your vehicle. Certain versions or updates to Vehicle Health Report may also collect additional vehicle information. Ford may use the vehicle information it collects, as well as information regarding individual access to Vehicle Health Reports on this site.com, for any purpose. If you do not want to disclose your cell phone number or vehicle information, do not run the feature or set up your Vehicle Health Report profile on this site. Refer to the[Vehicle Health Report Terms and Conditions](http://www.support.ford.com/tools/account/sync-terms) for more information.**
 
@@ -45,8 +49,6 @@ You may be able to post things, such as reviews or stories, to this site. In doi
 If you are linked to this site upon requesting information by text message and you later reply “STOP,” you agree to receive a confirmation text message to your STOP.
 
 Email addresses collected at the point of the Tell-a-Friend email tools will be used solely for the purpose of forwarding to your intended recipient.
-
-See Section 12 regarding links to third-party sites, including widgets.
 
 ### 4\. How We Use the Personally Identifiable Information We Collect:
 
@@ -75,7 +77,7 @@ If your mobile phone has the capability and the GPS feature on the mobile phone 
 
 Our primary goal in collecting non-personally identifiable information from you is to be able to perform site metrics that allow us to improve the functionality of the website.
 
-We may use session and persistent “cookies,” session logs, spot light ads/web beacons/GIF/pixel tags, banner ads or links, third party networks that serve user-requested emails (e.g., a third party email service provider for Tell-a-Friend user-customized emails), and third-party click tracking analytics tools (such as Adobe, DoubleClick, Efficient Frontier, and Google Analytics) to collect aggregate or other non-personally identifiable information about site visitors. An explanation on collection methods and how they work is included in Section 7 - Methods to Collect Information, below.
+We may use session and persistent “cookies,” session logs, spot light ads/web beacons/GIF/pixel tags, banner ads or links, third party networks that serve user-requested emails (e.g., a third party email service provider for Tell-a-Friend user-customized emails), and third-party click tracking analytics tools (such as Adobe, DoubleClick, Efficient Frontier, and Google Analytics; these companies may also use such tools) to collect aggregate or other non-personally identifiable information about site visitors. An explanation on collection methods and how they work is included in Section 7 - Methods to Collect Information, below.
 
 ### 6\. How We Use the Aggregate or Non-Personally Identifiable Information We Collect:
 
@@ -152,17 +154,13 @@ ford.com will disclose your personally identifiable information, without notice,
 
 To correct or update your personal information you may contact us at:
 
-    UNITED STATES 
-
-Telephone 
+    Telephone 
 
 800-392-3673 
 
 800-232-5952 (TDD for the hearing impaired) 
 
-Available 8:00 am - 5:00 pm EST 
-
-Monday - Friday 
+Available Monday-Friday, 8:00 a.m. - 8:00 p.m. EST and Saturday, 9:00 a.m. - 5:30 p.m. EST 
 
 Mailing Address 
 
@@ -172,7 +170,7 @@ Customer Relationship Center
 
 P.O. Box 6248 
 
-Dearborn, MI 48126
+Dearborn, MI 48126 
 
 You will be asked for name and address so that we may be able to process your changes. ford.com will use reasonable efforts to correct any factual inaccuracies in your information. 
 
@@ -198,8 +196,6 @@ Parts of this site may provide dealer and vehicle locator services which are pro
 
 If you use available mapping functionality on this website, you agree to be bound by the mapping service’s terms and conditions/privacy policy. For example, if you use Bing you agree to be bound by the Microsoft Service Agreement and Microsoft Online Privacy Statement. In addition, if you are on an associated mobile site and the GPS feature on the mobile phone is turned on (if it has such capability), your GPS data may be utilized by the mapping service to determine your location in order to fulfill your request for location services.
 
-If you choose to utilize the ShareThis widget to share content on this website with your friends, please note that ShareThis is an independent third party and is not a vendor, contractor or partner of ford.com. All information (personally identifiable or aggregate) that is collected by the ShareThis widget is collected by ShareThis and is subject to the ShareThis Privacy Policy and not the ford.com Privacy Statement.
-
 ### 13\. Children's Privacy
 
 ford.com does not knowingly intend to collect personally identifiable information from children under 13 years of age. If a child has provided us with personally identifiable information, a parent or guardian of that child may contact us at the phone number or mailing address listed in section 14 if they want this information deleted from our records. We will then make reasonable efforts to delete the child’s information from the database that stores information for ford.com.
@@ -208,17 +204,13 @@ ford.com does not knowingly intend to collect personally identifiable informatio
 
 If you have any questions, comments or concerns about this online privacy statement for ford.com, ford.com privacy practices, or have any questions regarding the contents of this website please contact us at 
 
-    UNITED STATES 
-
-Telephone 
+    Telephone 
 
 800-392-3673 
 
 800-232-5952 (TDD for the hearing impaired) 
 
-Available 8:00 am - 5:00 pm EST 
-
-Monday - Friday 
+Available Monday-Friday, 8:00 a.m. - 8:00 p.m. EST and Saturday, 9:00 a.m. - 5:30 p.m. EST 
 
 Mailing Address 
 
@@ -236,4 +228,4 @@ ford.com is committed to working with consumers to obtain a fair and rapid resol
 
 Occasionally we may update the privacy statement for ford.com in order to reflect any changes to the website or our privacy practices. If we make any updates to this statement, including any updates reflecting material changes to our Online Behavioral/Interest-Based Advertising practices, the new statement will be posted to the website ten (10) days prior to the changes taking effect.
 
-The effective date of this privacy statement is January 1, 2014 
+The effective date of this privacy statement is September 21, 2014
