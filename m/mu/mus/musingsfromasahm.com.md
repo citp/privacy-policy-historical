@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musingsfromasahm.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629022722id_/http%3A//musingssahm.com/disclosureprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musingsfromasahm.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230092829id_/http%3A//musingssahm.com/disclosureprivacypolicy) for the most accurate reproduction.*
 
 # Giveaway Rules, Disclosure & Privacy Policy, & Copyright - Musings From a Stay At Home Mom
 
@@ -6,9 +6,9 @@
 
 If you enter a giveaway here at Musings From a Stay At Home Mom, you are agreeing to abide by these rules:
 
-  * Entry is through Rafflecopter, unless otherwise noted. Commenting does not enter you.
+  * We are no longer using Rafflecopter for giveaways. You can now enter a giveaway by leaving a comment. (Make sure you leave your email address in the form so we can contact you if you win!)
   * Winners are chosen by Random.org and will be emailed. The winner will have 48 hours to respond. If a winner does not, a new winner will be chosen and the first winner will lose the right to their prize.
-  * Winners will be listed on the [Winners ](http://musingsfromasahm.com/winners/)page &/or on the giveaway page on the Rafflecopter form.
+  * Winners will be listed on the post.
   * Please allow up to 6 weeks to receive your prize. If you do not receive your prize after that, let us know and we will check with the sponsor.
   * If a sponsor fails to send a prize, we cannot be held responsible.
   * By entering a contest, you agree to release Musings From a Stay At Home Mom and all associated parties of any liability.
@@ -53,4 +53,4 @@ We do not share personal information with third-parties nor do we store informat
 
 We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.  
 
-If you have any questions regarding these policies, please contact Erika at Musingsfromasahm(at) gmail(dot)com. 
+If you have any questions regarding these policies, please contact Erika at Musingssahm(at) gmail(dot)com. 
