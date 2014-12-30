@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620095225id_/http%3A//www.amplify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230034804id_/http%3A//www.amplify.com/site-privacy) for the most accurate reproduction.*
 
 # Privacy | Amplify
 
 Last Revised: September 26, 2013
+
+Below is the Privacy Policy for the amplify.com website. Visit [this page](http://www.amplify.com/privacy-security) to read about the principles and policy governing student data collected and maintained on behalf of our school customers.
 
 ## 1\. Introduction
 
@@ -12,7 +14,7 @@ This Privacy Policy applies to the collection and use by Amplify of your persona
 
 ### Children
 
-As set forth in our [Terms of Use](https://web.archive.org/terms), the Site is for a general audience, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
+As set forth in our [Website Terms of Use](https://web.archive.org/terms), the Site is for a general audience, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
 
 By providing personal information to us or using the Site, you agree to the terms and conditions of this Privacy Policy. If you do not agree to this Privacy Policy, please discontinue your use of the Site.
 
