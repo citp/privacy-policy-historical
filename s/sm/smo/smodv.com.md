@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smodv.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425001200id_/http%3A//smodv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smodv.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230145456id_/http%3A//resources.smodv.com/p/legal/smod_privacy_policy) for the most accurate reproduction.*
 
-# sMod Privacy Policy
+# sMod Privacy Policy | Legal | Resources
 
 This web site is owned and operated by sMod and will be referred to as "We", "our" and "us" in this Internet Privacy Policy. By using this site, you agree to the Internet Privacy Policy of this web site ("the web site"), which is set out on this web site page. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the web site.
 
@@ -62,4 +62,6 @@ This aggregate, non-personal information is collated and provided to us to assis
 
 16.    If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us.
 
-17.    For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner's web site; <http://www.privacy.gov.au/>.
+17.    For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner's web site; <http://www.privacy.gov.au/>
+
+###### _Last updated 2013-12-16 11:53:09_
