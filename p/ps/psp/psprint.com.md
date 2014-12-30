@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626103602id_/http%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230233756id_/http%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Learn the privacy policy of online printing company PsPrint.
 
@@ -87,4 +87,4 @@ PsPrint has been awarded TRUSTe's Privacy Seal signifying that this privacy poli
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _._ If you have questions or complaints regarding our privacy policy or practices, please contact us at privacyprogramoffice@deluxe.com _._ If you are not satisfied with our response you can contact [ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-Effective Date: 6/26/2014
+Effective Date: 3/15/2014
