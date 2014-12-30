@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourtango.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630233828id_/http%3A//www.yourtango.com/tango-publishing-corporation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtango.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230052915id_/http%3A//www.yourtango.com/tango-publishing-corporation-privacy-policy) for the most accurate reproduction.*
 
 # Tango Publishing Corp Privacy Policy – Updated 2014 | YourTango
 
@@ -40,7 +40,7 @@ You can edit or delete your Tango Account Information at any time by using the l
 
 _Opt-In/Opt-Out_
 
-Upon registration or from time-to-time, you may be asked to indicate whether you are interested in receiving information from us about special offers or [news](https://web.archive.org/news) about our products, services, and advertisers. You may also be provided with the opportunity to opt-in to receive offers directly from select companies other than us. If you do choose to receive these communications by means of an opt-in, we will occasionally send you an e-mail message that matches your request(s). You may, of course, always choose not to receive any of this information from us. We currently provide the following opt-out opportunities:
+Upon registration or from time-to-time, you may be asked to indicate whether you are interested in receiving information from us about special offers or **[news](https://web.archive.org/news)** about our products, services, and advertisers. You may also be provided with the opportunity to opt-in to receive offers directly from select companies other than us. If you do choose to receive these communications by means of an opt-in, we will occasionally send you an e-mail message that matches your request(s). You may, of course, always choose not to receive any of this information from us. We currently provide the following opt-out opportunities:
 
 • Upon registration, you can choose to receive no communications from us other than an initial member welcome message.  
 • At any time, you can follow a link provided in every newsletter or e-mail message to unsubscribe from that mailing list or e-mail service.  
