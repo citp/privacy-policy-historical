@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanofgames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061241id_/http%3A//oceanofgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanofgames.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230211928id_/http%3A//oceanofgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
