@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concrete5.org privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416153022id_/http%3A//www.concrete5.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concrete5.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230064431id_/http%3A//www.concrete5.org/help/legal/concrete5_org_privacy_policy) for the most accurate reproduction.*
 
 # concrete5 :: concrete5.org Privacy Policy
 
@@ -79,5 +79,3 @@ Portland, OR 97209
 USA
 
 Please be specific in your complaint and provide as much detail as possible so that we can promptly address your concerns. We will investigate and respond to all complaints promptly.
-
- 
