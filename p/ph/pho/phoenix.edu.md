@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627143318id_/http%3A//www.phoenix.edu/copyright-legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230104931id_/http%3A//www.phoenix.edu/copyright-legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - University of Phoenix
 
@@ -6,9 +6,9 @@
 
 ## PRIVACY POLICY – SUMMARY
 
-**Updated:  **May 5, 2014
+**Updated:** Nov. 11, 2014
 
-Summarized below are key elements of our Privacy Policy. To read our full Privacy Policy (“Policy“),  **click here**.
+Summarized below are key elements of our Privacy Policy. **To read our full Privacy Policy (“Policy“), click here.**
 
 ### Scope of Privacy Policy
 
@@ -18,13 +18,16 @@ This policy applies to both online and offline collection, storage, processing a
 
 ### Information Collected
 
-We collect various types of Information through our Sites and other websites where you can express interest in our services, through our mobile applications, over the phone and in person where print materials may be used to collect Information from you. Some Information is collected automatically through various web and Internet technologies, including Social Networking tools used by your University to foster communication and collaboration among members of our community. Other Information is collected when you provide it in response to an advertisement, a survey or a request for information; apply for admission or financial aid; register for classes; order educational or other products and services; set up a Social Network or other Site profile; or use one of our career resources, learning assessments or other interactive tools. We may also obtain information from other sources and combine that with Information we collect about you.
+We collect various types of Information through our Sites and other websites where you can express interest in our services, through our mobile applications, via email, over the phone and in person where print materials and digital technology may be used to collect Information from you. Some Information is collected automatically through various web and Internet technologies, including Social Networking tools used by your University to foster communication and collaboration among members of our community. Other Information is collected when you provide it in response to an advertisement, a survey or a request for information; apply for admission or financial aid; register for classes; order educational or other products and services; set up a Social Network or other Site profile; or use one of our career resources, learning assessments or other interactive tools.
+
+We may also obtain information from other sources and combine that with Information we collect about you.
 
 ### Information Uses
 
 We will not sell, rent or lease your Personal Information to others except as provided in this policy. We may collect, use and disclose Personal Information for the following purposes:
 
   * To determine your admissibility and to register you for your selected educational programs
+  * To contact you regarding your status with the University
   * To provide requested products and services
   * To respond to your inquiries and provide customer support
   * To administer promotions in which you have indicated an interest
@@ -44,24 +47,25 @@ We will not sell, rent or lease your Personal Information to others except as pr
   * To analyze risk and business results
   * To obtain payment for services that we provide to you
   * To provide you with information concerning arrangements and other options for the repayment of funds loaned to you for your education
-  * To maintain business records for reasonable periods
-  * To enforce our Terms of Use
+  * To maintain educational and business records for reasonable periods
+  * To enforce our [Terms of Use](https://web.archive.org/copyright-legal/terms_and_conditions.html)
   * To provide to Education Partners, Business Associates or Unrelated Entities in connection with the contemplated or actual reorganization, merger, acquisition, financing, securitization, insuring, sale or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed with such transaction or fulfilling any records or other reporting requirements to such parties. In the event of any actual reorganization, merger or acquisition, such Information may be transferred as part of the transaction to the acquirer
-  * And/or as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit or security requirements applicable to Apollo Education Group, our Education Partners or our Business Associates.
 
 
+
+And/or as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit or security requirements applicable to Apollo Education Group, our Education Partners or our Business Associates.
 
 ### Your Rights and Choices
 
 Marketing Communications
 
-If you do not wish to receive marketing email communications from us, you may express your choice where indicated on the applicable email or other communication, or [ **click here**](https://web.archive.org/about_us/contact_us/unsubscribe.html).
+If you do not wish to receive marketing email communications or direct mail from us, you may express your choice where indicated on the applicable email or other communication, or [ **unsubscribe**](https://web.archive.org/about_us/contact_us/unsubscribe.html).
 
-If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt out by emailing [ **Office.ComplianceUOPX@phoenix.edu**](mailto:Office.ComplianceUOPX@phoenix.edu).
+If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt out by [**emailing the Office of Compliance**](mailto:Office.ComplianceUOPX@phoenix.edu).
 
-Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, we provide California residents the ability to opt out of disclosures to Education Partners for direct marketing purposes. To opt out of these disclosures at no cost, email [ **Office.ComplianceUOPX@phoenix.edu**](mailto:Office.ComplianceUOPX@phoenix.edu).
+Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, we provide California residents the ability to opt out of disclosures to Education Partners for direct marketing purposes. To opt out of these disclosures at no cost, [**email the Office of Compliance**](mailto:Office.ComplianceUOPX@phoenix.edu).
 
-Do Not Track and Online Behavioral Advertising
+Do Not Track (DNT) and Online Behavioral Advertising
 
 University of Phoenix does not itself respond to web browser-based DNT signals.
 
@@ -69,13 +73,13 @@ We or our Business Associates may use data collected on this Site for Online Beh
 
 Other Collection, Use and Disclosure
 
-You may be able to opt out of our collection, use and disclosure of your Personal Information in other situations subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. Note that if you opt out of certain uses of your Personal Information, we may no longer be able to provide certain products or services. For more information on your ability to opt out, email [ **Office.ComplianceUOPX@phoenix.edu**](mailto:Office.ComplianceUOPX@phoenix.edu).
+You may be able to opt out of our collection, use and disclosure of your Personal Information in other situations subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. If you do not wish to receive marketing email communications or direct mail from us, you may express your choice where indicated on the applicable email or other communication, or [**unsubscribe**](https://web.archive.org/about_us/contact_us/unsubscribe.html).
 
 Other Important Information
 
 We will take commercially reasonable measures to secure and store your Information to protect against the loss, misuse and alteration of the Information under our control. We utilize industry-standard security measures when accepting your credit card Information during your registration or other transaction you have initiated with us, as well as whenever we ask you to log in to any of our Sites.
 
-If you become a student, your educational records are subject to the U.S. federal Family Educational Rights and Privacy Act (FERPA), state laws and your University policies. To obtain a copy of the Students' Rights to Privacy and Access to Educational Records policy, [ **click here**](https://web.archive.org/about_us/regulatory/consumer-information.html). You may also contact us via one of the below methods:
+If you become a student, your educational records are subject to the U.S. federal Family Educational Rights and Privacy Act (FERPA), state laws and your University policies. [**To obtain a copy of the Students' Rights to Privacy and Access to Educational Records policy, click here.**](https://web.archive.org/about_us/regulatory/consumer-information.html) You may also contact us via one of the below methods:
 
 University of Phoenix  
 Attn: Registrar's Office  
@@ -90,7 +94,7 @@ University of Phoenix may update this policy or revise it from time to time. If 
 
 ### How to Contact Us or Access Your Information
 
-If you want access to or wish to update any of your Personal Information or have any questions about our privacy practices, please contact our Compliance Officer at [ **Office.ComplianceUOPX@phoenix.edu**](mailto:Office.ComplianceUOPX@phoenix.edu) or
+If you want access to or wish to update any of your Personal Information or have any questions about our privacy practices, please contact our Compliance Office at [ **Office.ComplianceUOPX@phoenix.edu**](mailto:Office.ComplianceUOPX@phoenix.edu) or
 
 University of Phoenix  
 Attn: Office of Compliance  
@@ -102,7 +106,7 @@ Phoenix, AZ 85040
 
 ## PRIVACY POLICY – FULL VERSION
 
-**Updated:** May 5, 2014
+**Updated:** Nov. 11, 2014
 
 ### Scope
 
@@ -114,22 +118,22 @@ University of Phoenix may amend or otherwise modify this Privacy Policy at any t
 
 ### Contents
 
-  1. **Definitions**
-  2. **How We Collect Information**
-  3. **Information Collected Automatically on the Sites**
-  4. **Information You Provide to Us**
-  5. **How We Use and Disclose This Information**
-  6. **Student Educational Records**
-  7. **Location of Information Processing**
-  8. Do Not Track and **Online Behavioral Advertising**
-  9. **OptOut**
-  10. **Your California Privacy Rights**
-  11. **Our Security Measures**
-  12. **Monitoring of Communications**
-  13. **Internet Technologies Used**
-  14. **Site Hosting and Links From Our Sites to Other Websites**
-  15. **Privacy Policy Changes**
-  16. **How to Access Your Information and Contact Us**
+  * 1[ **Definitions**](https://web.archive.org/copyright-legal/privacy_policy.html#definitions)
+  * 2[ **How We Collect Information**](https://web.archive.org/copyright-legal/privacy_policy.html#collect)
+  * 3[ **Information Collected Automatically on the Sites**](https://web.archive.org/copyright-legal/privacy_policy.html#collected)
+  * 4[ **Information You Provide to Us**](https://web.archive.org/copyright-legal/privacy_policy.html#provide)
+  * 5[ **How We Use and Disclose This Information**](https://web.archive.org/copyright-legal/privacy_policy.html#information)
+  * 6[ **Student Educational Records**](https://web.archive.org/copyright-legal/privacy_policy.html#records)
+  * 7[ **Location of Information Processing**](https://web.archive.org/copyright-legal/privacy_policy.html#location)
+  * 8[ **Do Not Track and Online Behavioral Advertising**](https://web.archive.org/copyright-legal/privacy_policy.html#online-advertising)
+  * 9[ **Opt Out**](https://web.archive.org/copyright-legal/privacy_policy.html#opt-out)
+  * 10[ **Your California Privacy Rights**](https://web.archive.org/copyright-legal/privacy_policy.html#rights)
+  * 11[ **Our Security Measures**](https://web.archive.org/copyright-legal/privacy_policy.html#security)
+  * 12[ **Monitoring of Communications**](https://web.archive.org/copyright-legal/privacy_policy.html#monitoring)
+  * 13[ **Internet Technologies Used**](https://web.archive.org/copyright-legal/privacy_policy.html#technologies)
+  * 14[ **Site Hosting and Links From Our Sites to Other Websites**](https://web.archive.org/copyright-legal/privacy_policy.html#links)
+  * 15[ **Privacy Policy Changes**](https://web.archive.org/copyright-legal/privacy_policy.html#changes)
+  * 16[ **How to Access Your Information and Contact Us**](https://web.archive.org/copyright-legal/privacy_policy.html#access)
 
 
 
@@ -137,7 +141,7 @@ University of Phoenix may amend or otherwise modify this Privacy Policy at any t
 
 As used in this Privacy Policy, the following terms have the following meanings:
 
-“Business Associates” means third-party service providers which the University of Phoenix or Apollo Education Group, Inc. may contract with to provide services on our behalf, including but not limited to: Social Networking, hosting, web analytics, Online Behavioral Advertising, lead generation, academic, business, career or financial services.
+“Business Associates” means third-party, service providers which the University of Phoenix or Apollo Education Group, Inc. may contract with to provide services on our behalf, including but not limited to: Social Networking, hosting, web analytics, Online Behavioral Advertising, lead generation, academic, business, career or financial services.
 
 “Do Not Track” or “DNT” means a browser based signal that, when set, signifies an Internet user’s desire not to be tracked online.
 
@@ -161,17 +165,19 @@ As used in this Privacy Policy, the following terms have the following meanings:
 
 “We,” “us” and “our” refer to your University and Apollo Education Group, Inc.
 
-“Unrelated Entities” means third parties that are not Education Partners and who are not providing services as Business Associates.
+“Unrelated Entities” means third-parties that are not Education Partners and who are not providing services as Business Associates.
 
-“Web Analytical Information” means Internet-generated Information we collect when you visit our Sites. This Information may be linked with Personal Information. When linked with other Information identifying you personally, either alone or in combination with other Information, then such Information also will be considered Personal Information.
+“Web Analytical Information” means Internet-generated Information we collect when you visit our Sites or open emails sent by us. This Information may be linked with Personal Information. When linked with other Information identifying you personally, either alone or in combination with other Information, then such Information also will be considered Personal Information.
 
 ### 2\. How We Collect Information
 
-We collect various types of Information from you through our Sites and other websites where you can express interest in our services, through our mobile applications, over the phone, via printed forms and in person. Some Information is collected automatically through various web and Internet technologies including Social Networking tools used by your University. Other Information is collected when you provide it to us voluntarily. We may also obtain Information from Education Partners, Business Associates and Unrelated Entities and combine that with Information we collect about you.
+We collect various types of Information from you through our Sites and other websites where you can express interest in our services, through our mobile applications, via email, over the phone, via printed forms and in person. Some Information is collected automatically through various web and Internet technologies including Social Networking tools used by your University. Other Information is collected when you provide it to us voluntarily.
+
+We may also obtain Information from Education Partners, Business Associates and Unrelated Entities and combine that with Information we collect about you.
 
 ### 3\. Information Collected Automatically on the Sites
 
-Each time you visit one of our Sites, Web Analytical Information is automatically gathered. In general, this Information does not identify you personally. Examples of Web Analytical Information include, but are not limited to:
+Each time you visit one of our Sites, or open one of our emails, Web Analytical Information is automatically gathered. In general, this Information does not identify you personally. Examples of Web Analytical Information include, but are not limited to:
 
   * IP address
   * Collection date
@@ -181,6 +187,8 @@ Each time you visit one of our Sites, Web Analytical Information is automaticall
   * Language settings
   * Country, state, designated market area (DMA), city (relating to IP address, if available)
   * Domain (.com, .net, .mil, .org, .edu, etc.)
+  * Web pages viewed
+  * Email clicks or other actions taken
 
 
 
@@ -208,14 +216,15 @@ In addition to the Web Analytical Information automatically collected when you v
   * Campus (based on postal code list)
   * Education Partner interested in
   * Current degree program of interest
-  * Current modality of interest (online, on-ground or FlexNet)
+  * Current modality of interest (e.g. online or on-ground)
   * Publisher code (Site ID)
   * Citizenship
-  * Number of previous credits
+  * Number of previous credits earned or attempted
   * Military affiliation
   * Credits earned
   * Prior education history
-  * High school diploma
+  * Certificate, licensure or other professional information
+  * High school diploma or GED
   * Lead source
   * Individual Record Number (IRN) or Social Security number
   * Credit card number
@@ -236,6 +245,7 @@ We will not sell, rent or lease your Personal Information to others except in ac
 We may collect, use and disclose Personal Information for the following purposes:
 
   * To determine your admissibility and to register you for your selected educational programs
+  * To contact you regarding your status with the University
   * To provide requested products and services
   * To respond to your inquiries and provide customer support
   * To administer promotions in which you have indicated an interest
@@ -255,8 +265,8 @@ We may collect, use and disclose Personal Information for the following purposes
   * To analyze risk and business results
   * To obtain payment for services that we provide to you
   * To provide you with information concerning arrangements and other options for the repayment of funds loaned to you for your education
-  * To maintain business records for reasonable periods
-  * To enforce our Terms of Use
+  * To maintain educational and business records for reasonable periods
+  * To enforce our [Terms of Use](https://web.archive.org/copyright-legal/terms_and_conditions.html)
   * To provide to Education Partners, Business Associates or Unrelated Entities in connection with the contemplated or actual reorganization, merger, acquisition, financing, securitization, insuring, sale or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed with such transaction or fulfilling any records or other reporting requirements to such parties. In the event of any actual reorganization, merger or acquisition, such Information may be transferred as part of the transaction to the acquirer
   * And/or as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit or security requirements applicable to the University, Apollo Education Group, our Education Partners or our Business Associates
 
@@ -272,7 +282,7 @@ Your Financial Information will be used to provide requested products and servic
 
 ### 6\. Student Educational Records
 
-If you become a student, your educational records are subject to the U.S. federal Family Educational Rights and Privacy Act (FERPA), state laws and your University's policies. Students have the right to limit access to FERPA-defined directory Information about them. To obtain a copy of your University's FERPA policy, [ **click here**](http://www.phoenix.edu/about_us/regulatory/consumer-information.html) **.**  You may also contact us via one of the below methods:
+If you become a student, your educational records are subject to the U.S. federal Family Educational Rights and Privacy Act (FERPA), state laws and your University's policies. Students have the right to limit access to FERPA-defined directory Information about them. [**To obtain a copy of your University's FERPA policy, click here.**](https://web.archive.org/about_us/regulatory/consumer-information.html) You may also contact us via one of the below methods:
 
 University of Phoenix  
 Attn: Registrar's Office  
@@ -291,31 +301,31 @@ We operate or may process information in multiple jurisdictions, and some Educat
 
 Do Not Track (DNT) is a browser based signal that, when set, signifies your desire not to be tracked online. Because there is not yet a consensus on how companies should respond to web browser-based or other DNT mechanisms, University of Phoenix does not itself respond to web browser-based DNT signals.
 
-We use a third-party assurance service to comply with a cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the Digital Advertising Alliance (DAA). As part of this service, our online advertisements and Sites taking part in Online Behavioral Advertising are delivered with an AdChoices icon that helps consumers understand how their data is being used and ** ** provides options to consumers who want more control. Some ads are targeted to your interests and preferences based on your browsing history, which is stored in a cookie on your computer. Your browsing history on the Site may be tracked in these cookies even if ads are not being displayed. By clicking on the AdChoices icon and following the instructions, you may adjust your privacy preferences. If you opt-out using AdChoices, our Sites that participate in the program will no longer collect information about your online activities over time and across third-party websites or online services for behavioral advertising purposes. For more information, or to opt out of this type of information collection, you may also visit [**http://info.evidon.com/pub_info/184?v=1**](http://info.evidon.com/pub_info/184?v=1).
+We use a third-party assurance service to comply with a cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the Digital Advertising Alliance (DAA). As part of this service, our online advertisements and Sites taking part in Online Behavioral Advertising are delivered with an AdChoices icon that helps consumers understand how their data is being used and ** ** provides options to consumers who want more control. Some ads are targeted to your interests and preferences based on your browsing history, which is stored in a cookie on your computer. Your browsing history on the Site may be tracked in these cookies even if ads are not being displayed. By clicking on the AdChoices icon and following the instructions, you may adjust your privacy preferences. If you opt-out using AdChoices, our Sites that participate in the program will no longer collect information about your online activities over time and across third-party websites or online services for behavioral advertising purposes. For more information, or to opt out of this type of information collection, you may also visit [ **http://info.evidon.com/pub_info/184?v=1**](http://info.evidon.com/pub_info/184?v=1).
 
 ### 9\. Opt Out
 
 Marketing Communications
 
-If you do not wish to receive marketing email communications from us, you may express your choice where indicated on the applicable email or other communication or [ **click here**](https://web.archive.org/about_us/contact_us/unsubscribe.html).
+If you do not wish to receive marketing email communications from us, you may express your choice where indicated on the applicable email or other communication or [ **unsubscribe**](https://web.archive.org/about_us/contact_us/unsubscribe.html).
 
-If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt-out by emailing [ **Office.ComplianceUOPX@phoenix.edu**](mailto:Office.ComplianceUOPX@phoenix.edu).
+If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt-out by [**emailing the Office of Compliance**](mailto:Office.ComplianceUOPX@phoenix.edu).
 
 Marketing opt-out requests will only remove you from our list and the list of any Business Associate performing services on our behalf. We are not responsible for the use any other party may make of the Information once it has been transferred in accordance with this Policy, and you will need to contact such entity to have your Information removed from its database.
 
 Student Educational Records and Social Networking Content
 
-Students who desire to prevent release of their directory and educational record Information in accordance with FERPA may place a FERPA Hold on their academic file. [ **Click here**](https://web.archive.org/about_us/regulatory/consumer-information.html) to review your University's FERPA Policy.
+Students who desire to prevent release of their directory and educational record Information in accordance with FERPA may place a FERPA Hold on their academic file. [ **Click here to review your University's FERPA Policy.**](https://web.archive.org/about_us/regulatory/consumer-information.html)
 
 You may change various user settings related to sharing your Personal Information contained in any user profile you set up as part of Social Network activities furnished by us, subject to contractual, academic, legal or technical restrictions and reasonable notice. Note that your withdrawal from Social Network activities might prevent us from providing you with certain products or services.
 
 Other Collection, Use and Disclosure
 
-In any situation not covered by the foregoing, you may be able to opt out of our collection, use and disclosure of your Personal Information subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. Note that if you opt out of certain uses of your Personal Information, we may no longer be able to provide certain products or services. For more information on your ability to opt out, email [ **Office.ComplianceUOPX@phoenix.edu.**](mailto:Office.ComplianceUOPX@phoenix.edu)
+In any situation not covered by the foregoing, you may be able to opt out of our collection, use and disclosure of your Personal Information subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. Note that if you opt out of certain uses of your Personal Information, we may no longer be able to provide certain products or services. For more information on your ability to opt out, [email the Office of Compliance](mailto:Office.ComplianceUOPX@phoenix.edu).
 
 ### 10\. Your California Privacy Rights
 
-Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, we provide California residents the ability to opt out of disclosures to Education Partners for direct marketing purposes. To opt out of these disclosures at no cost, email [ **Office.ComplianceUOPX@phoenix.edu.**](mailto:Office.ComplianceUOPX@phoenix.edu)
+Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, we provide California residents the ability to opt out of disclosures to Education Partners for direct marketing purposes. To opt out of these disclosures at no cost, [**email the Office of Compliance**](mailto:Office.ComplianceUOPX@phoenix.edu).
 
 ### 11\. Our Security Measures
 
@@ -325,11 +335,11 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be co
 
 ### 12\. Monitoring of Communications
 
-We may monitor and retain all incoming and outgoing communications for training of our representatives and for quality assurance purposes. To the extent such communications are selected, they are only retained as long as necessary to adequately discharge these purposes, unless a specific communication needs to be retained for legal reasons. If you prefer that your communications not be retained for any reason, please advise your representative.
+We may monitor and retain all incoming and outgoing communications for training of our representatives and for quality assurance purposes. To the extent such communications are selected, they are only retained as long as necessary to adequately discharge these purposes, unless a specific communication needs to be retained for legal reasons.
 
 ### 13\. Internet Technologies Used
 
-Cookies, web beacons and other relevant Internet technologies are used on our Sites to allow us to accomplish the uses set out above as well as to deliver Sites messaging and to keep track of your Information. These small pieces of program code reside in your computer and browser and can be removed. If you desire to remove such technologies you may do so, but this may render our Sites unusable to you. You can opt out of cookies or the other Internet technologies used by disabling these features in your browser program. Please note that the deletion of certain opt-out cookies may require you to renew your Online Behavioral Advertising opt outs periodically. Consult your browser's Help menu for assistance in changing cookie settings or removing cookie files.
+Cookies, web beacons and other relevant Internet technologies are used in our emails and on our Sites to allow us to accomplish the uses set out above as well as to deliver Sites messaging and to keep track of your Information. These small pieces of program code reside in your computer and browser and can be removed. If you desire to remove such technologies you may do so, but this may render our Sites unusable to you. You can opt out of cookies or the other Internet technologies used by disabling these features in your browser program. Please note that the deletion of certain opt-out cookies may require you to renew your Online Behavioral Advertising opt outs periodically. Consult your browser's Help menu for assistance in changing cookie settings or removing cookie files.
 
 ### 14\. Site Hosting and Links from Our Sites to Other Websites
 
