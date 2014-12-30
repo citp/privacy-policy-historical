@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625003758id_/http%3A//www.ganeshaspeaks.com/privacy-policy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230155240id_/http%3A//www.ganeshaspeaks.com/privacy-policy.action) for the most accurate reproduction.*
 
 # GaneshaSpeaks.com Privacy Policy
 
@@ -54,4 +54,4 @@ If the clients wish to delete their profile on our website, they can do so simpl
 
 **Contacting us**
 
-Should the clients have any doubts or queries regarding our privacy policy or the procedure to deal with us, they can contact us at contact@ganeshaspeaks.com. 
+Should the clients have any doubts or queries regarding our privacy policy or the procedure to deal with us, they can contact us at contact@ganeshaspeaks.com.
