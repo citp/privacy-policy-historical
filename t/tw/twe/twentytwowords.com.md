@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twentytwowords.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629214850id_/http%3A//twentytwowords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twentytwowords.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043115id_/http%3A//twentytwowords.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 22 Words
 
