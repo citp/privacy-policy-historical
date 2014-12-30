@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020449id_/http%3A//teespring.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042433id_/http%3A//teespring.com/about/privacy) for the most accurate reproduction.*
 
 # About Teespring / Privacy Policy | Teespring
 
 This privacy policy describes how Teespring collects and uses the personal information you provide on our website teespring.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Teespring has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, teespring.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [visit our support page](https://web.archive.org/contact) or contact us directly at [support@teespring.com](mailto:support@teespring.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Teespring has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, teespring.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [visit our support page](https://web.archive.org/contact) or [contact support](http://answers.teespring.com/customer/portal/emails/new). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ### Collection and Use of Personal Information
 
@@ -17,15 +17,15 @@ We collect the following personal information from you:
 
 As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-We use this information to:
+We use this information in a number of ways, including:
 
-  1. Fulfill your order
-  2. Send you an order confirmation
-  3. Send you requested product or service information
-  4. Send product updates or warranty information
-  5. Respond to customer service requests
-  6. Administer your account
-  7. Respond to your questions and concerns
+  1. To fulfill your order and send you an order confirmation
+  2. To send product updates or warranty information
+  3. To respond to customer service requests
+  4. To administer your account
+  5. To respond to your questions and concerns
+  6. For marketing and promotional purposes, such as emails regarding discounts or special offers
+  7. For customer service purposes, such as contacting users to follow up on abandoned shopping carts
 
 
 
@@ -92,7 +92,7 @@ Our website includes Social Media Features, such as the Facebook Like button and
 
 ### Testimonials
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@teespring.com](mailto:support@teespring.com).
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can [contact support](http://answers.teespring.com/customer/portal/emails/new).
 
 ### Notification of Privacy Policy Changes
 
@@ -103,7 +103,7 @@ We may update this privacy policy to reflect changes to our information practice
 Teespring  
 3 Davol Square, Suite A350  
 Providence, RI 02903  
-Email: [support@teespring.com](mailto:support@teespring.com)  
+Customer support: [contact here](http://answers.teespring.com/customer/portal/emails/new)  
 Telephone: 1-855-TEESPRING (1-855-833-7774)  
 
 
