@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movies.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623101726id_/http%3A//www.fandango.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movies.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230082825id_/http%3A//www.fandango.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Your Privacy Rights - Fandango
+# Movie Tickets & Movie Times - Fandango.com
 
 ##### FANDANGO PRIVACY POLICY
 
@@ -175,7 +175,7 @@ Social media plug-ins of social networks, which may include but are not limited 
 
 Some online services, including the Fandango Application, may be supported with advertising, and collect data to help the online services serve ads. This helps keep the cost of online services low or free.
 
-We may work with advertisers and third party advertising networks, who may receive information about how you interact with advertising provided in the online service. We may also work with consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you. These third parties may view, edit or set their own tracking technologies/cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They might also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit and other information about you or your device in order to analyze and serve anonymous targeted advertising on the online services and elsewhere. You may opt out of third party advertising networks by going to the Network Advertising Initiative's Website at <http://www.networkadvertising.org/managing/opt_out.asp> and following the directions there.
+We may work with advertisers and third party advertising networks, who may receive information about how you interact with advertising provided in the online service. We may also work with consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you. These third parties may view, edit or set their own tracking technologies/cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They might also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit and other information about you or your device in order to analyze and serve anonymous targeted advertising on the online services and elsewhere. You may opt out of third party advertising networks by going to the Network Advertising Initiative's Website at [Network Advertising.org - Opt Out](http://www.networkadvertising.org/managing/opt_out.asp) and following the directions there.
 
 
 
@@ -269,4 +269,4 @@ Los Angeles, CA 90064 **
 
 
 
-Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: <http://fandango.custhelp.com/app/ask/session/>
+Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: [Fandango Customer Help](http://fandango.custhelp.com/app/ask/session/)
