@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicalecommerce.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624032425id_/http%3A//www.practicalecommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalecommerce.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043953id_/http%3A//www.practicalecommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Practical Ecommerce
 
