@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superpages.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629061929id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superpages.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043648id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
 
 # Superpages.com - Privacy Policy
 
@@ -182,7 +182,7 @@ Users who choose to continually delete cookies and not opt out can have their br
 ### How to Opt-out of Behavioral Tracking Cookies: 
 
 We contract with non-“Dex Media Family” companies, with which we have agreements, which use cookies to collect information when you visit This Website. This non-personally identifiable information, collected through cookies, is typically used by third party advertising networks to serve you with advertisements while on third party sites and other forms of media, and those advertisements are tailored to meet your preferences and likely interests.   
-If you do not wish to participate in this activity, please [click here](http://www.networkadvertising.org/participating-networks) and follow the simple opt-out process.
+If you do not wish to participate in this activity, please [click here](http://www.networkadvertising.org/choices/) and follow the simple opt-out process.
 
 ## Children's Privacy
 
