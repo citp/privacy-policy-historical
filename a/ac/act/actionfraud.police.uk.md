@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the actionfraud.police.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626074910id_/http%3A//actionfraud.police.uk/e-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionfraud.police.uk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230085931id_/http%3A//www.actionfraud.police.uk/e-privacy-policy) for the most accurate reproduction.*
 
 # E-Privacy Policy | Action Fraud
 
-This privacy policy explains what personal information we collect from you whilst visiting our website in compliance with UK and European law.
+**This privacy policy explains what personal information we collect from you whilst visiting our website in compliance with UK and European law.**
 
 ### What information do we collect?
 
@@ -24,7 +24,7 @@ We will always be clear about why we need the details we ask for, and ensure you
 Any of the information we collect from you may be used in the following ways:
 
   * To periodically send emails about Action Fraud updates, news alerts or other information which we think you may find interesting using the email address which you have provided.
-  * Use the information collected by cookies with your consent to improve our website and customer service. 
+  * Use the information collected by cookies with your consent to improve our website and customer service.
 
 
 
@@ -54,9 +54,9 @@ Cookies are not spyware or viruses and they can't read information from a comput
 
 ### A list of all the cookies used on the Website by category is set out below.
 
-**Cookie** | **Name** | **Purpose**  
+ **Cookie**|  **Name**|  **Purpose**  
 ---|---|---  
-Google Analytics | 
+Google Analytics| 
 
 _utma
 
@@ -69,7 +69,7 @@ _unam
 _utmv
 
 | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
-Drupal | 
+Drupal| 
 
 has_js
 
@@ -94,7 +94,7 @@ Doubleclick.net
 
 ASP.NET_SessionId
 
-lu                                
+lu                               
 csm  
 fr  
 c_user  
@@ -102,7 +102,7 @@ s
 xs
 
   
-"v1:134097955797784026"      
+"v1:134097955797784026"     
 _utma  
 _utmz
 
@@ -150,4 +150,4 @@ You should exercise caution and look at the privacy statement applicable to the 
 
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
-This page was last updated on – 22nd November 2013
+This page was last updated on – 24th November 2014
