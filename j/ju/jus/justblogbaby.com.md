@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the justblogbaby.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628051051id_/http%3A//fansided.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justblogbaby.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230062255id_/http%3A//fansided.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FanSided
+# Privacy Policy
 
-  
 FanSided.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
 This Privacy Policy covers FanSided.com’s treatment of personal information that FanSided.com gathers when you are on the FanSided.com website and when you use FanSided.com services. This policy does not apply to the practices of third parties that FanSided.com does not own or control, or to individuals that FanSided.com does not employ or manage.
@@ -63,5 +62,4 @@ If you decide to visit FanSided.com website, your visit and any possible dispute
 
 Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of May 13th, 2009 and last updated May 13th, 2009.  
-
+This Privacy Policy is effective as of May 13th, 2009 and last updated May 13th, 2009.
