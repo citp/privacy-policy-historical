@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportrelief.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627114706id_/http%3A//www.sportrelief.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportrelief.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230122211id_/http%3A//www.sportrelief.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sport Relief
 
