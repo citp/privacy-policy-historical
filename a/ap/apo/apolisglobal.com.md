@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the apolisglobal.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502150348id_/http%3A//www.apolisglobal.com/service/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apolisglobal.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230175643id_/http%3A//www.apolisglobal.com/service/security-privacy) for the most accurate reproduction.*
 
-# Security & Privacy | Apolis
+# Apolis | Security & Privacy
+
+  
+
 
 #### Online Ordering is Secure
 
@@ -8,49 +11,49 @@ At Apolis, we value our customers and want to make shopping online comfortable a
 
 _* SSL encryption ensures that your information is protected and cannot be read by others as it travels over the Internet. The secure mode begins when you begin the checkout process. Your web browser will indicate when you’re on a secure page. You also can verify that your information is encrypted by looking at the URL line of your browser. When visiting a secure server, the first characters of the site address will change from http to https._
 
-#### **Alternate option.**
+##### **Alternate option.**
 
 If you are still concerned about using your credit card over the Internet you can just phone our Customer Service number and we will be glad to take your order.
 
-##### Information We Collect:
+### Information We Collect
 
-#### When placing an order.
+> #### When placing an order.
+> 
+> We ask you for information such as your name, e-mail address, shipping address, billing address and payment information so we can process your order. If necessary, we might use this information to contact you during the processing of your order. We also use your information to personalize your shopping experience (such as a personal greeting).
+> 
+> #### When subscribing to our newsletter.
+> 
+> Our newsletter is an optional service to our customers and the visitors to our site. This newsletter provides product promotions and other special announcements. Your email address is required to receive our newsletter. We will not share your email address with any third-party without your explicit consent. We hope you find our newsletter both enjoyable and, through our special offers, rewarding as well. You may unsubscribe at any time on your account page or by following the instructions at the bottom of each newsletter.
+> 
+> #### Sending us correspondence.
+> 
+> When we receive email, letters, or entries to our contests we may collect and store the information you submit. We only use the information you provide to respond to your communication unless you explicitly opt-in to receive our newsletter.
+> 
+> #### Cookies
+> 
+> Like most other web sites, apolisglobal.com uses cookies to allow you to log-in, to keep items in your shopping basket during your visit and to allow you to proceed through the checkout process. As such, we require cookies to be enabled in your web browser.
 
-We ask you for information such as your name, e-mail address, shipping address, billing address and payment information so we can process your order. If necessary, we might use this information to contact you during the processing of your order. We also use your information to personalize your shopping experience (such as a personal greeting).
-
-#### When subscribing to our newsletter.
-
-Our newsletter is an optional service to our customers and the visitors to our site. This newsletter provides product promotions and other special announcements. Your email address is required to receive our newsletter. We will not share your email address with any third-party without your explicit consent. We hope you find our newsletter both enjoyable and, through our special offers, rewarding as well. You may unsubscribe at any time on your account page or by following the instructions at the bottom of each newsletter.
-
-#### Sending us correspondence.
-
-When we receive email, letters, or entries to our contests we may collect and store the information you submit. We only use the information you provide to respond to your communication unless you explicitly opt-in to receive our newsletter.
-
-#### Cookies
-
-Like most other web sites, apolisglobal.com uses cookies to allow you to log-in, to keep items in your shopping basket during your visit and to allow you to proceed through the checkout process. As such, we require cookies to be enabled in your web browser.
-
-#### About Children/Teens
+### About Children/Teens
 
 Apolis is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request personally identifiable information online from anyone under the age of 13 without prior verifiable parental consent. Our website is a general audience site and is not targeted to or intended for use by children.
 
-#### Other Site’s Policies
+### Other Site’s Policies
 
 You might choose to leave our site via links to other sites. We are not responsible for the privacy, security or content policies of those sites.
 
-#### Disclosure of Information to Third Parties
+### Disclosure of Information to Third Parties
 
-#### Service Providers
+> #### Service Providers
+> 
+> Only the portions of your personal information that are required to process and ship your order are shared with our payment processing provider and our shipping carrier. They will only use this information in the service of fulfilling your order and will never use it for marketing purposes.
+> 
+> #### Anonymous Analytics
+> 
+> This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).  Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  
+>  We may share information with governmental agencies or other companies assisting us in investigation of fraud or prevention of it. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information will not be provided to these agencies or companies for marketing purposes.
+> 
+> ##### _We will NOT give, sell, or lease your personal information to third parties!_
 
-Only the portions of your personal information that are required to process and ship your order are shared with our payment processing provider and our shipping carrier. They will only use this information in the service of fulfilling your order and will never use it for marketing purposes.
+### Accuracy of Information
 
-#### Anonymous Analytics
-
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).  Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  
-We may share information with governmental agencies or other companies assisting us in investigation of fraud or prevention of it. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information will not be provided to these agencies or companies for marketing purposes.
-
-##### _We will NOT give, sell, or lease your personal information to third parties!_
-
-#### Accuracy of Information
-
-It is our utmost goal to provide complete, accurate and current information on this website. However it is possible that this site may contain typographical mistakes, inaccuracies, or omissions, some of which may relate to product description, pricing and availability. In addition, some information may be incomplete or not current. We reserve the right to correct any errors, inaccuracies or omissions at any time without any prior notice, which may occur after an order has been placed. We apologize for any inconvenience this may cause. 
+It is our utmost goal to provide complete, accurate and current information on this website. However it is possible that this site may contain typographical mistakes, inaccuracies, or omissions, some of which may relate to product description, pricing and availability. In addition, some information may be incomplete or not current. We reserve the right to correct any errors, inaccuracies or omissions at any time without any prior notice, which may occur after an order has been placed. We apologize for any inconvenience this may cause.
