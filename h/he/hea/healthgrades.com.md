@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthgrades.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231459id_/http%3A//www.healthgrades.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthgrades.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230201008id_/http%3A//www.healthgrades.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Healthgrades - Privacy Policy
 
-Health Grades, Inc. (" **Healthgrades** ," " **We** ," " **Us** " or " **Our** ") has developed for the benefit of the users of its website (" **You** ," " **Your** " and " **Yourself** ") at [http://www.healthgrades.com](http://www.healthgrades.com/ "Healthgrades") (the "Site") this privacy policy (" **Privacy Policy** ") to demonstrate Our serious commitment to protecting the privacy of the information that We collect through the Site. This Privacy Policy summarizes how Healthgrades handles the personally identifying information that You voluntarily provide when You use the Site and that We may automatically collect when You visit the Site (" **Personal Information** ").   
+Healthgrades Operating Company, Inc. (" **Healthgrades** ," " **We** ," " **Us** " or " **Our** ") has developed for the benefit of the users of its website (" **You** ," " **Your** " and " **Yourself** ") at [http://www.healthgrades.com](http://www.healthgrades.com/ "Healthgrades") (the "Site") this privacy policy (" **Privacy Policy** ") to demonstrate Our serious commitment to protecting the privacy of the information that We collect through the Site. This Privacy Policy summarizes how Healthgrades handles the personally identifying information that You voluntarily provide when You use the Site and that We may automatically collect when You visit the Site (" **Personal Information** ").   
 
 If You are accessing, using or browsing this Site on behalf of an individual other than Yourself, which may be either a natural person or an entity other than Yourself:
 
@@ -19,7 +19,7 @@ Your use of this Site will be deemed conclusively to constitute Your acceptance 
 
 Healthgrades reserves the right, at its sole discretion, to change this Privacy Policy at any time. If We decide to change the Privacy Policy, We will then post the changes in appropriate places on the Site so that You are aware of the changed Privacy Policy. Your continued use of the Site after the Effective Date for any such changes to the Privacy Policy will be deemed conclusively to constitute Your acceptance of and agreement to the changed Privacy Policy; consequently, You should frequently review this Privacy Policy. 
 
-####  What Personal Information does Healthgrades collect? 
+#### What Personal Information does Healthgrades collect?
 
 Healthgrades collects several types of Personal Information:  personally identifying information that cannot be traced back to You; personally identifying information that can be traced back to You; and personally identifying information that can be traced back to You and that includes or is linked or associated with health-related information. 
 
@@ -31,15 +31,15 @@ To access and use Healthgrades On-Line Appointment Request (" **OAR** ") or sche
 
 When You visit the Site, Healthgrades may also automatically collect with Cookies, and similar technology, Personal Information about Your use of the Site. This Personal Information cannot be traced back to You. **Cookies** are small pieces of information that are stored by Your web browser software on Your computer's hard drive or temporarily in Your computer's memory. Healthgrades also automatically collects the location of Your computer on the Internet, known as Your internet protocol address (" **IP Address** "), when You visit the Site.
 
-####  What about the collection of Personal Information from children? 
+#### What about the collection of Personal Information from children? 
 
 You must be 18 years of age or older to use the Site. If Healthgrades learns that it has received any Personal Information from anyone who is not at least age 18, We will delete that information from Healthgrades' database.
 
-####  Why does Healthgrades need Your Personal Information? 
+#### Why does Healthgrades need Your Personal Information?
 
 Healthgrades regularly makes improvements to the Site to provide its many users with a more personalized, relevant and intelligent service. The collection of Personal Information greatly assists Healthgrades in this improvement process by identifying the interests and needs of the many users to this Site. Collection of Personal Information also assists Healthgrades by allowing it and its affiliates to advertise its products and/or services in a more efficient manner. Through the use of Cookies and on-line data entry, survey, product purchase and registration forms, Healthgrades may monitor, in aggregate and individual form, Personal Information. Although Our primary goal in collecting Personal Information is to deliver a customized and personalized service to the users of the Site, Healthgrades may also use Personal Information to:  (i) send users e-mail notification of new features or information available through the Site or that Healthgrades otherwise feels might be of interest to users of this Site; and (ii) allow third party advertisers and retailers, and their affiliates, offering goods or services that Healthgrades thinks might be of interest to users to deliver relevant information and offers to users. Healthgrades collects IP addresses for systems administration and troubleshooting purposes and to report aggregate information to Our advertisers and others.
 
-####  What should You know about Cookies? 
+#### What should You know about Cookies?
 
 Healthgrades may place and store Cookies on a user's computer hard drive. Cookies enable Healthgrades to personalize a user's viewing experience on this Site. When a user revisits this Site, Healthgrades can recognize the user by the Cookie and customize accordingly the user's experience at this Site. For example, Healthgrades uses Cookies to recognize user access privileges to this Site, track Site usage and traffic patterns, add advertisements for goods or services of interest based on the information submitted by, or inferred by the actions of, the user, and estimate this Site's audience size. Healthgrades also uses Cookies to store user names and passwords that are supplied at registration. If Healthgrades utilizes Cookies in connection with the collection of information for third parties (that is, advertisers) the relevant advertiser(s) may receive electronic notification when a user views the advertisement. 
 
@@ -47,7 +47,7 @@ Other than for the Appointment Services, Healthgrades may use third party networ
 
 To learn more about Cookies, please visit [http://allaboutcookies.org/](http://www.allaboutcookies.org/ "All About Cookies").  Although most web browsers are initially set up to accept Cookies, if You prefer, You may decline the placement of a Cookie on Your hard drive by using the appropriate feature(s) of Your web browser software (if available) to delete the Cookie. But You should understand that certain areas within this Site may not function properly if the web browser will not accept Cookies.
 
-####  Does Healthgrades disclose Your Personal Information to third parties? 
+#### Does Healthgrades disclose Your Personal Information to third parties?
 
 Healthgrades may share Your Personal Information: (i) with third parties who have agreements with Us, including marketers, advertisers and other health service providers; (ii) if Healthgrades is required by law to do so, including laws outside Your country of residence; (iii) in the event of a transfer of ownership of Healthgrades, merger or other similar transaction (including one in connection with any bankruptcy or similar proceedings); or (iv) as otherwise set forth in this Privacy Policy, including as set forth below. Note, however, that Healthgrades is not and cannot be responsible for the activities or privacy policies of any third party with whom Your Personal Information is shared.
 
@@ -58,7 +58,7 @@ Healthgrades may share Your Personal Information: (i) with third parties who hav
 
 
 
-####  How does Healthgrades use and disclose Your Protected Health Information? 
+#### How does Healthgrades use and disclose Your Protected Health Information?
 
 Healthgrades' use and disclosure of Your Protected Health Information is governed by HIPAA. 
 
@@ -70,7 +70,7 @@ The descriptions in this Privacy Policy of the HIPAA responsibilities and obliga
 
 As a Business Associate of a particular Healthcare Provider, Healthgrades may be permitted to de-identify Your Protected Health Information created or received by Us for that Healthcare Provider. This **De-Identified Information** must be created according to criteria prescribed by HIPAA so that there is no reasonable basis to believe that this information can be traced back to You. Healthgrades may use and disclose any such De-Identified Information in the same manner as Personal Information under this Privacy Policy. 
 
-####  What does Healthgrades do to keep Your Personal Information and Protected Health Information Secure? 
+#### What does Healthgrades do to keep Your Personal Information and Protected Health Information Secure?
 
 On this Site and within Healthgrades, We seek to use appropriate administrative, technical and physical security measures to reasonably safeguard Your Personal Information and Protected Health Information under Our control from unauthorized use, release or access. For example, Healthgrades grants access to any stored Personal Information and Protected Health Information only to authorized personnel. Moreover, when You register on-line or accesses Your account information through this Site, Healthgrades offers You the ability to use a secure server. The secure server encrypts all information that You input before it is sent to Healthgrades.
 
@@ -78,11 +78,11 @@ Please be advised, however, that although Healthgrades has endeavored to create 
 
 If You have any reason to believe that Your interaction with Healthgrades through this Site is no longer secure, please immediately notify Us of this problem as described in the "Further questions or comments?" section below.
 
-####  What should You know about external web sites? 
+#### What should You know about external web sites?
 
 To the extent hyperlinks are utilized to access other, third party, websites, including links provided as automated search results, You should be aware that these third party web sites are not controlled by Healthgrades and, therefore, are not subject to this Privacy Policy. You should review the applicable terms and policies of each linked site visited before providing any personally identifiable information. In those cases where Healthgrades has entered into agreements with third parties, where useful items and other tools are made available to You, see the "What about information You enter into Third Party Programs included in Healthgrades' Site?" section below.
 
-####  Can You opt-out of Healthgrades' use and disclosure of Your Personal Information? 
+#### Can You opt-out of Healthgrades' use and disclosure of Your Personal Information? 
 
 As described in the "Why does Healthgrades need Your Personal Information?" section above, the collection, use and disclosure of Your Personal Information greatly assist Healthgrades in creating a more personalized, relevant and intelligent service for You. Without Your Personal Information, We could not deliver to You in the most beneficial way Healthgrades' valuable content and services.  
 
@@ -95,7 +95,7 @@ As discussed above in the "What Personal Information does Healthgrades collect?"
 
 Please note that if You opt-out as described above, Healthgrades will not be able to remove Your Personal Information from the databases of Our affiliates or unaffiliated third parties with whom We have already shared Your Personal Information as of the date of Your opt-out request. Please also note that if You do opt-out of receiving marketing-related messages from Us, Healthgrades may still send administrative messages to You. You cannot opt-out from receiving administrative messages from Healthgrades.
 
-####  Do You have the ability to access, change or remove Your Personal Information? 
+#### Do You have the ability to access, change or remove Your Personal Information?
 
 At any time, a You may contact Healthgrades via e-mail to request: 
 
@@ -107,7 +107,7 @@ At any time, a You may contact Healthgrades via e-mail to request: 
 
 You should send Your request to [info@healthgrades.com](mailto:info@healthgrades.com "Info at Healthgrades"). In the event Healthgrades receives such a request, Healthgrades may require You to confirm or verify any change to Your Personal Information.
 
-####  Can You opt-out of Healthgrades' use and disclosure of Your Protected Health Information or access, change or remove Your Protected Health Information? 
+#### Can You opt-out of Healthgrades' use and disclosure of Your Protected Health Information or access, change or remove Your Protected Health Information?
 
 When You use the Appointment Services, You may receive various administrative e-mails automatically sent by Healthgrades. These administrative messages do not contain marketing-related information.  You cannot opt-out from receiving any administrative e-mail sent by Healthgrades.
 
@@ -121,23 +121,21 @@ Upon termination of Our Business Associate Agreement with a particular Healthcar
 
 
 
-####  How to distinguish between Advertisements and Editorial Content? 
+#### How to distinguish between Advertisements and Editorial Content? 
 
-Healthgrades believes that it is important for You to easily differentiate between advertising and independent, editorial content on the Site; thus, Healthgrades has developed an Advertising Policy that explains Healthgrades' approach to ensure that the advertising You see on the Site has no influence on the quality, accuracy or selection of editorial content that Healthgrades provides 
-
-Healthgrades clearly identifies all advertising on the Site. When Healthgrades speaks of "advertising" or "advertisements," it refers to all forms of advertising, sponsorships and promotions for which Healthgrades receives compensation. Healthgrades has established guidelines on how it labels advertising so that You will know what is an advertisement and what is editorial content. Healthgrades uses clear and consistent language and visual cues or descriptors to distinguish advertising from editorial content. 
+Healthgrades believes that it is important for You to easily differentiate between advertising and independent, editorial content on the Site; thus, Healthgrades has developed an Advertising Policy that explains Healthgrades' approach to ensure that the advertising You see on the Site has no influence on the quality, accuracy or selection of editorial content that Healthgrades provides Healthgrades clearly identifies all advertising on the Site. When Healthgrades speaks of "advertising" or "advertisements," it refers to all forms of advertising, sponsorships and promotions for which Healthgrades receives compensation. Healthgrades has established guidelines on how it labels advertising so that You will know what is an advertisement and what is editorial content. Healthgrades uses clear and consistent language and visual cues or descriptors to distinguish advertising from editorial content. 
 
   * The word "Advertisement" or the phrase "Advertise With Us" is used to label the most common form of advertising on the Site. The content of the banner or similar advertisement itself is controlled by the advertiser. An advertisement is labeled with the word "Advertisement" or the phrase "Advertise With Us" along the bottom or bottom right corner of the advertisement. If You click on an advertisement, it will usually link to a website that is operated by the advertiser. As noted in the "What You should know about external web sites?" section above, Healthgrades has no control over the advertiser's website or the policies on that site. You should familiarize Yourself with the terms of use, privacy policies and other policies applicable to those sites before using them. The fact that an advertisement appears on a page has no bearing or influence on the editorial content on the page outside of the labeled advertisement itself. Other content on the Site page is under Healthgrades' editorial control. 
   * The phrases "Provided By" and "Sponsored By" are used to identify content that is created or influenced by an advertiser. Healthgrades identifies advertiser-influenced content as "Provided By" or "Sponsored By" advertising so that You can distinguish such content from editorially independent content for which Healthgrades has sole editorial control. You can recognize advertiser-influenced content on the Site by use of the "Provided By" or "Sponsored By" label and the name of the advertiser that appears in the sponsored content.
 
 
 
-####  What about information You enter into Third Party Programs included in Healthgrades' Site? 
+#### What about information You enter into Third Party Programs included in Healthgrades' Site? 
 
 As an additional service to its users, Healthgrades has included in its Site various programs and tools created and administered by third parties (" **Third Party Programs** ") whereby, as examples, You can receive useful items such as information concerning potential diseases/conditions, information about drug alternatives, and tools whereby You can maintain records relating to Your condition. These Third Party Programs are separate from, and do not include, the Appointment Services. Your use of these Third Party Programs is entirely optional and at Your sole discretion. If You do choose to use them, then some or all of these Third Party Programs may require that You provide certain personally identifying information that can be traced back to You.  This personally identifying information may include, for example, age, current health condition, insurance provider, medical history, prescription history or other health and lifestyle data. If You elect to use one or more of these Third Party Programs, then any personally identifying information that You provide as part of the Third Party Program, as well as Your Registration Information, will be available to the third party administering that Third Party Program. By using any Third Party Program, You acknowledge that any personally identifying information and Registration Information that You provide to the third party does not constitute a violation of Healthgrades' Privacy Policy. Healthgrades will maintain the privacy of Your personally identifying information in Healthgrades' possession in accordance with this Privacy Policy and applicable state and federal privacy laws. Healthgrades cannot guarantee that any third party will maintain the privacy of Your personally identifying information under any circumstance.
 
-####  Further questions or comments? 
+#### Further questions or comments? 
 
 Healthgrades welcomes Your questions and comments about this Privacy Policy or the use of Your Personal Information or Protected Health Information. Please send any questions or comments to Healthgrades to the e-mail address [info@healthgrades.com](mailto:info@healthgrades.com "Info at Healthgrades"). 
 
-Date Last Updated: December 26, 2012
+Date Last Updated: August 12, 2014 
