@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the thegamefanatics.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214211416id_/http%3A//thegamefanatics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamefanatics.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230062123id_/http%3A//thegamefanatics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Disclosure | Game Fanatics
+# Privacy Policy & Disclosure - Game Fanatics
 
 The Game Fanatics strives to bring you the best in independent video game journalism. We are not perfect, do not claim to be perfect, and probably will never be perfect, but we do believe that perfection is something to strive for, no matter how futile our attempts may be. The articles within, though a part of The Game Fanatics, are the expressed opinions of the individual writers. All images displayed are property of their respective owners. Most of the items and games we review are sent to us to be reviewed. We do get paid to promote certain products or services. The Game Fanatics is not owned by any company or agency, and at no time can anyone not listed on the [Staff page](http://thegamefanatics.com/staff/) represent The Game Fanatics.
 
-The Game Fanatics may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
-
-[box_light]
+The Game Fanatics may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 As of December 1, 2009, the [FTC requires bloggers](http://www.boston.com/lifestyle/articles/2009/12/01/were_bloggers____we_get_stuff_for_free/) to provide disclosures whenever there could be hidden interests or unspoken biases related to recommendations. To save ourselves the stress of having to staple a disclaimer to each review and post we write, please assume that, for every recommendation, link, and products that myself and all the writers here on The Game Fanatics review, the following all hold true:
-
-[/box_light]
 
 -The above disclosure, though edited, is borrowed from [The Gadgeteer](http://the-gadgeteer.com/disclosure/). 
 
@@ -28,8 +24,6 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 ## **What do we use your information for?**
 
-[box_dark]
-
 Any of the information we collect from you may be used in one of the following ways:
 
 To personalize your experience  
@@ -45,8 +39,6 @@ To administer a contest, promotion, survey or other site feature
 
 To send periodic emails  
 The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
-
-[/box_dark]
 
 ## How do we protect your information?
 
@@ -88,8 +80,6 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on _**September 4th, 2011.**_
+This policy was last modified on _**September 4th, 2014.**_
 
 If there are any questions regarding this privacy policy you may contact us using the form below.
-
-Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
