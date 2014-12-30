@@ -1,58 +1,100 @@
-> *The following text is extracted and transformed from the appradar.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512114806id_/http%3A//www.appsecinc.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appradar.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042340id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Application Security Inc., Database Activity Monitoring, Vulnerability Assessment, Auditing and Scanning.
+# Legal Agreement
 
-**Application Security, Inc. (AppSecInc) Privacy Statement  
-Effective June 1, 2009 **
+**Go Daddy Respects Your Privacy**
 
-Our Commitment to Privacy   
-Registrations, Emails and Opting Out  
-The Information We Collect and How We Use It  
-Our Commitment to Data Security   
-Information Sharing and Disclosure   
-Children and Minors  
-Links to External Websites  
-How to Contact Us
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**  
-Our Commitment to Privacy**  
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. AppSecInc may at any time change our privacy policy and terms of use. By continuing to use this website, you agree to any updates to this privacy policy. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-In general, when visitors use our websites to request information about our products, we use the individual information as we would use the same information obtained offline. For example, to evaluate your product needs, an AppSecInc representative may contact you regarding additional services you may find useful. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Registrations, Emails and Opting Out**  
-The AppSecInc website includes numerous Registration Pages for visitors to signup for content such as white papers, demos, product evaluations, webinars and more.
+**Information Collection and Use**
 
-By completing these Registration Pages, you will be eligible to receive AppSecInc newsletters, invitations and other group marketing communications. If you wish to remove yourself from these group marketing communications, you may opt-out using the following link.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-[OPT-OUT OF MARKETING COMMUNICATIONS](http://info.appsecinc.com/UnsubscribePage.html)
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-As part of normal communications, an AppSecInc authorized representative may contact you individually to answer any questions you may have on the content you accessed. If you receive one of these communications and wish not to receive future emails, you can simply reply to ask not to receive future emails. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**  
-The Information We Collect and How We Use It**  
-This notice applies to all information collected or submitted on the AppSecInc website.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-• Personal information. We use the information you provide via Registration Pages and other methods to better personalize your experience, conduct research and to better assist you with your database security, risk and compliance needs. This personal information is only collected if you elect to complete the Registration Page.   
-• General information. To gauge the effectiveness of our websites, we do collect some generic information about our visitors. Our web servers automatically recognize a visitor's domain name (such as .com, .edu, etc.), the web page from which a visitor enters our site, which pages a visitor visits on our site, and how much time a visitor spends on each page. We aggregate this information and use it to evaluate and improve our websites. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-AppSecInc also utilizes cookies to better personalize your experience. For example, cookies provide a way for our website to recall a previous page registration so that information does not have to be repeated.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Our Commitment to Data Security**  
-AppSecInc is committed to safeguarding customer privacy on all AppSecInc websites. We require our employees to protect the privacy of information about our customers and have policies in place to safeguard and secure the information we collect online.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Information Sharing and Disclosure  
-**AppSecInc does not rent or sell personal information.  
-AppSecInc may disclose personal information to establish or exercise our legal rights, defend against legal claims or to comply with law enforcement and other government entities.
+**Security**
 
-**Children and Minors** ****  
-The AppSecInc website does not knowingly collect any personal information from children.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**How You Can Correct Your Information  
-**You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+**Updating Your Information**
 
-**Links to External Websites** ****  
-The AppSecInc websites may contain links to other sites. We are not responsible for the content or the privacy practices employed by other sites.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**How to Contact Us** ****  
-Should you have other questions or concerns about these privacy policies, please send us an email at[marketing@appsecinc.com](mailto:marketing@appsecinc.com).
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
