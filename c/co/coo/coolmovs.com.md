@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmovs.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809090107id_/http%3A//www.coolmovs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmovs.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043854id_/http%3A//www.coolmovs.com/privacy.html) for the most accurate reproduction.*
 
 # XXX Sex Movies, Free Porno Tube, Online HD Videos, Streaming Sex Clips and Free Porn Vids
 
@@ -45,4 +45,4 @@ You are entitled to access and correct your Data by doing so directly on the web
 
 CHANGES TO THE PRIVACY POLICY
 
-We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise. 
+We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise.
