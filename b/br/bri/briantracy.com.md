@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113912id_/http%3A//briantracy.com/privacy.aspx%3Flid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045104id_/http%3A//www.briantracy.com/privacy.aspx%3Flid%3Dfooter) for the most accurate reproduction.*
 
 # Achieve Your Personal and Professional Goals Faster - Brian Tracy International
 
