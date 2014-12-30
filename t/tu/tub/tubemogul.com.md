@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tubemogul.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621082547id_/https%3A//www.tubemogul.com/compliance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubemogul.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230104003id_/http%3A//www.tubemogul.com/compliance/privacy-policy) for the most accurate reproduction.*
 
 # TUBEMOGUL PRIVACY & SECURITY POLICY | TubeMogul
 
-TubeMogul provides a platform that is designed to help advertisers place advertisements into videos that you view while online. Our video advertising platform integrates real-time media buying, ad serving, targeting, optimization and brand measurement to help our advertising clients simplify the delivery of video ads and maximizes the impact of those advertisements. If you have any questions about this privacy policy, please contact us at comments@tubemogul.com. TubeMogul is a member of the Network Advertising Initiative (NAI) and complies with the NAI’s Self-Regulatory Principles. 
+TubeMogul provides a platform that is designed to help advertisers place advertisements into videos that you view while online. Our video advertising platform integrates real-time media buying, ad serving, targeting, optimization and brand measurement to help our advertising clients simplify the delivery of video ads and maximizes the impact of those advertisements. If you have any questions about this privacy policy, please contact us at legal@tubemogul.com. TubeMogul is a member of the Network Advertising Initiative (NAI) and complies with the NAI’s Self-Regulatory Principles. 
 
 ### Ad Targeting and Opt-out
 
@@ -44,7 +44,7 @@ TubeMogul’s products and services are designed for those 13 years of age and o
 
 ### Security
 
-We take reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include firewalls and encryption, internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems. All account information is encrypted and stored on our servers in the United States. No method of transmission over the Internet or method of electronic storage is 100% secure; therefore, while the company strives to use commercially acceptable means to protect your information, it cannot guarantee absolute security. If you have any questions about these security practices, please email comments@tubemogul.com. 
+We take reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include firewalls and encryption, internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems. All account information is encrypted and stored on our servers in the United States. No method of transmission over the Internet or method of electronic storage is 100% secure; therefore, while the company strives to use commercially acceptable means to protect your information, it cannot guarantee absolute security. If you have any questions about these security practices, please email legal@tubemogul.com. 
 
 ### Disclosure of Information to Third Parties
 
@@ -62,7 +62,7 @@ This privacy policy is subject to change. If the company plans to make any mater
 
 ### Contact Us
 
-Please contact us to report violations or if you have any questions regarding our Privacy & Security policy. You can reach us at [comments@tubemogul.com](mailto:comments@tubemogul.com). 
+Please contact us to report violations or if you have any questions regarding our Privacy & Security policy. You can reach us at [legal@tubemogul.com](mailto:legal@tubemogul.com). 
 
 Last updated on May 30th, 2014. 
 
