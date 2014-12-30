@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the conduit.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629091030id_/http%3A//conduit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conduit.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230075441id_/http%3A//www.conduit.com/privacy) for the most accurate reproduction.*
 
 # Index | Conduit
 
 ## Website Privacy Policy
 
-The Conduit Website Privacy Policy was updated on April 10, 2014. By accessing and using the Conduit website following such update, you indicate that you have read and agree to the updated terms and conditions of the Conduit Website Privacy Policy.
+The Conduit Website Privacy Policy was updated on September 10, 2014. By accessing and using the Conduit website following such update, you indicate that you have read and agree to the updated terms and conditions of the Conduit Website Privacy Policy.
 
 This is the privacy policy ("Privacy Policy") for conduit.com and/or other web sites owned and operated by Conduit Ltd. ("Website") that applies to your use of the Website and covers how Conduit Ltd. ("Conduit", "we", "us", or "our") treats and uses information that it collects and receives about you via the Website, including the personal information we collect through the Website regarding the various features, programs, services, and software that Conduit provides to you. Some of these offerings are provided by third parties who may provide you with additional information and choices about your privacy. These offerings are subject to the privacy policies of such third parties.
 
@@ -56,20 +56,21 @@ The information collected may be used for the following purposes only:
 
 ### Sharing Collected Information
 
-Personally identifiable information collected through the Website may be shared with others in any of the following instances: 
+Personally identifiable information collected through the Website may be shared with or transferred to others in any of the following instances: 
 
   1. Registration and payment information, information on forms you have filled out and requests you have submitted will all be shared with our service providers, for payment collection and processing purposes;
   2. Contact information you have provided upon registration may be shared with our service providers for the purpose of distributing emails to our registered users and/or app publishers;
   3. Photos and other multimedia or content you have uploaded through the Website’s forums, blog or other public areas will be shared with all other users of such public area as well;
   4. To operate, maintain and enhance the Website and the Conduit Platform, including by using server maintenance, optimization services, management and operation services of a discussion board or other open forum or blog within the Website, provided by third party service providers;
   5. If you have breached the Terms of Use, abused your rights to use the Website, or violated any applicable law, your information may be shared with competent authorities and with any third party, as may be required;
-  6. In any case of dispute or legal proceeding of any kind involving you with respect to the Website; 
-  7. If the operation of the Website is organized within a different framework, or through another legal structure or entity (such as due to a business transition like a merger, acquisition, bankruptcy, or sale of all or a portion of our assets), provided that those entities agree to be bound by the provisions of this Policy, with reasonably necessary changes taken into consideration; and,
-  8. Personally identifiable information may be shared with our subsidiaries, sister-companies and corporate affiliates, but their use of such information must comply with the Policy.
+  6. If we reasonably believe that we are required by law to share or disclose your information; 
+  7. In any case of dispute or legal proceeding of any kind involving you with respect to the Website;
+  8. If the operation of the Website is organized within a different framework, or through another legal structure or entity (such as due to a business transition like a merger, acquisition, bankruptcy, or sale of all or a portion of our assets), provided that those entities agree to be bound by the provisions of this Policy, with reasonably necessary changes taken into consideration; and,
+  9. Personally identifiable information may be shared with our affiliated corporate group entities (entities directly or indirectly controlled by, under common control with, or controlling us), but their use of such information must comply with the Policy.
 
 
 
-In any case other than the above, your personally identifiable information will be shared with others only if you provide your explicit prior consent.
+If our operations are organized within a different framework, or through another legal structure or entity (such as due to a business transition like a merger, acquisition, bankruptcy, or sale of all or a portion of our assets), the information that we collect or obtain, as outlined in the preceding sections, may be shared with or transferred in its entirety to, the other entity, provided that it undertakes to be bound by the provisions of this policy, with reasonably necessary changes taken into consideration. Upon such transfer or sharing, the receiving entity may assume full and exclusive responsibility for all subsequent use and processing it makes of the information and Conduit will be released from any liability to you, regarding the receiving entity’s use and processing of the information. In any case other than the above, your personally identifiable information will be shared with others only if you provide your explicit prior consent.
 
 ### Aggregated or anonymized information
 
@@ -107,16 +108,18 @@ The security of your personal information is important to us, and we implement m
 
 ### Changes to this Privacy Statement
 
-This Policy may be changed from time to time. Substantial changes will take effect thirty (30) days after an initial notification is posted on the Website. Other changes will take effect seven (7) days after their initial posting. However, if the Policy is amended to comply with legal requirements, the amendments will become effective immediately upon their initial posting, or as required. The most up-to-date Policy is accessible on the Website at:<http://www.conduit.com/privacy>.
+This Policy may be changed from time to time. Substantial changes will take effect thirty (30) days after an initial notification is posted on the Website. Other changes will take effect seven (7) days after their initial posting. However, if the Policy is amended to comply with legal requirements, the amendments will become effective immediately upon their initial posting, or as required. The most up-to-date Policy is accessible on the Website at: <http://www.conduit.com/privacy>.
+
+You agree to be bound by any of the changes made to this Policy. Your continued use of the Website after the changes take effect will indicate your acceptance of the amended Policy. If you do not agree with the amended Policy, you must avoid any further use of the Website. 
 
 ### Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us by email to [privacy@conduit.com](mailto:privacy@conduit.com) or write to us at:
+If you have any questions or concerns about this Privacy Policy, please contact us by email at [privacy@conduit.com](mailto:privacy@conduit.com) or write to us at:
 
 Conduit Ltd.  
-5 Golda Meir Street  
-Ness Ziona, Israel 74140   
-Attn: Legal Department, Privacy Policy Issues   
+2 Ilan Ramon Street  
+Ness Ziona, Israel 7403635   
+Attn: Legal Department, Privacy Policy Issues  
 
 
-[Last updated: April 10, 2014]
+[Last updated: September 10, 2014]
