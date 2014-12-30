@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the afreesms.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630221734id_/http%3A//afreesms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreesms.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042909id_/http%3A//afreesms.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Practice
 
-Privacy Policy & Practice   
-**Gathering of your personal information**
+Privacy Policy & Practice **Gathering of your personal information**
 
 aFreeSms.com may collect information about your visit to our web site, including the pages you view, the links you click and other actions taken in connection with the service. We also collect certain standard information that your browser sends to every website or service you visit, such as your IP address, browser type, language and geographical location.
 
