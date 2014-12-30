@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ppc-coach.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530224345id_/http%3A//ppc-coach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppc-coach.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231004518id_/http%3A//ppc-coach.com/privacy-policy) for the most accurate reproduction.*
 
-# PPC Coach :: Privacy Policy | PPC Coach :: #1 PPC Affiliate & Business Marketing Training
+# PPC Coach :: #1 PPC Affiliate & Business Marketing Training » Privacy Policy
 
 Privacy of your information
 
