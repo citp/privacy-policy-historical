@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the eastcoast.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092400id_/http%3A//www.eastcoast.co.uk/-general-links-/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastcoast.co.uk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230014639id_/http%3A//www.eastcoast.co.uk/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy > East Coast
+# Privacy Policy | East Coast
 
-This privacy policy outlines the procedures East Coast Main Line Company Limited has in place regarding the collection and use of any personal information (i.e. information from which you can be identified) that you give us or we collect when you use this website, our mobile site, mobile applications, social media channels and/or the on-board Wi-Fi and Hotspot Wi-Fi service (Wi-Fi access at East Coast stations) or SMS feedback service. We respect your privacy and take care in the storage and use of your personal information. If you have any questions or queries regarding this policy, please contact our Customer Relations Team at [**customers@eastcoast.co.uk**](mailto:customers@eastcoast.co.uk).
+This privacy policy outlines the procedures East Coast Main Line Company Limited has in place regarding the collection and use of any personal information (i.e. information from which you can be identified) that you give us or we collect when you use our  East Coast website, desktop and mobile retail sites, business platform and applications (apps), social media channels and/or the on-board Wi-Fi and Hotspot Wi-Fi service (Wi-Fi access at East Coast stations) or SMS feedback service. We respect your privacy and take care in the storage and use of your personal information. If you have any questions or queries regarding this policy, please contact our Customer Relations Team at [ **customers@eastcoast.co.uk**](mailto:customers@eastcoast.co.uk).
 
   
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. This policy is effective from 26 May 2012.
 
-We consider as private any of your personal information supplied by you or given to us while you use **eastcoast.co.uk** , our mobile website, mobile applications, social media channels, on-board and Hotspot Wi-Fi, or the SMS feedback service and will hold it and process it in accordance with this Privacy Policy and all applicable Data Protection legislation currently in force.
+We consider as private any of your personal information supplied by you or given to us while you use the East Coast website, desktop and mobile retail sites, business platform and applications (apps), social media channels, on-board and Hotspot Wi-Fi, or the SMS feedback service and will hold it and process it in accordance with this Privacy Policy and all applicable Data Protection legislation currently in force.
 
 Information we may collect, may include, by way of example, the following examples:
 
@@ -21,7 +21,7 @@ Information we may collect, may include, by way of example, the following exampl
 
 We will hold and use your personal information on our computer systems and we may pass this personal information to third party service providers for the explicit purposes set out below.
 
-    
+    
 We will use this information for the following reasons:
 
   * to reply to feedback via the SMS feedback service;
@@ -30,7 +30,7 @@ We will use this information for the following reasons:
   * to improve our products and services;
   * to treat your more personally;
   * to tailor how our site can help you;
-  * for analysis about how customers use the website; 
+  * for analysis about how customers use the website;
   * for analysis of our marketing activities;
   * to track usage of particular websites through the on-board and Hotspot W-Fi;
   * to follow up if you have purchased goods or services from our website;
@@ -45,9 +45,9 @@ Payment card data will be stored on the website for 90 days (a period of time to
 
 ## Marketing
 
-We may use your personal information to contact you with offers, promotions and communications in line with the consent you have provided. 
+We may use your personal information to contact you with offers, promotions and communications in line with the consent you have provided. 
 
-In relation to email (as opposed to post or fax), if you are a customer or have previously asked us for information on our products or services, we may send you information on our range of products and services by email, unless you have asked us not to do so.  We may also email you information if you have asked us to send you marketing emails unless you ask us not to in the future.  In relation to receiving marketing and other information from us, you may change your mind at any time by accessing 'My Account' on the East Coast Main Line Company Limited website or by emailing [**customers@eastcoast.co.uk**](mailto:customers@eastcoast.co.uk).
+In relation to email (as opposed to post or fax), if you are a customer or have previously asked us for information on our products or services, we may send you information on our range of products and services by email, unless you have asked us not to do so.  We may also email you information if you have asked us to send you marketing emails unless you ask us not to in the future.  In relation to receiving marketing and other information from us, you may change your mind at any time by accessing 'My Account' on the East Coast Main Line Company Limited website or by emailing [ **customers@eastcoast.co.uk**](mailto:customers@eastcoast.co.uk).
 
 ## Who do we share this information with?
 
@@ -68,7 +68,7 @@ Plymouth
 PL4 6AB
 
   
-If you think any information we have about you is incorrect or incomplete, please write or email us as soon as possible at [**customers@eastcoast.co.uk**](mailto:customers@eastcoast.co.uk). 
+If you think any information we have about you is incorrect or incomplete, please write or email us as soon as possible at [ **customers@eastcoast.co.uk**](mailto:customers@eastcoast.co.uk). 
 
 ### Security
 
@@ -80,4 +80,4 @@ We may link to other websites which are not within our control. Once you have le
 
 ### Cookies
 
-A cookie is a tiny file that is stored on your computer or browser that when you visit certain web pages. eastcoast.co.uk uses cookies to enable you to browse our website and use its features (e.g. for tracking items in your basket whilst making a booking, remembering you when you return to our site and informing us how many visitors we have had to the site and what content is of most interest to you).  This helps us to ensure our site is designed to make finding what you need as quick and easy as possible.  Our cookies don't harm your computer and don't store personally identifiable information.  Our [**Cookies policy**](https://web.archive.org/-general-links-/privacy-policy/all-about-cookies/) can be found by clicking [**About Cookies**](https://web.archive.org/-general-links-/privacy-policy/all-about-cookies/) at the top of pages throughout this site.
+A cookie is a tiny file that is stored on your computer or browser that when you visit certain web pages. eastcoast.co.uk uses cookies to enable you to browse our website and use its features (e.g. for tracking items in your basket whilst making a booking, remembering you when you return to our site and informing us how many visitors we have had to the site and what content is of most interest to you).  This helps us to ensure our site is designed to make finding what you need as quick and easy as possible.  Our cookies don't harm your computer and don't store personally identifiable information.  Our [ **Cookies policy**](https://web.archive.org/support/cookies/) can be found by clicking [ **About Cookies**](https://web.archive.org/support/cookies/) at the top of pages throughout this site.
