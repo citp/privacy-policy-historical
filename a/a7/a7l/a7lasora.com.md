@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a7lasora.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302033611id_/http%3A//a7lasora.com/index.php%3F/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a7lasora.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230083744id_/http%3A//a7lasora.com/index.php%3F/page/privacy_policy) for the most accurate reproduction.*
 
-# Home / Albums | احلى صورة
+# Home / Albums | صوره اجمل
 
   *   *   * [](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fa7lasora.com%2Findex.php%3F%2Fadditional_page "Share on Facebook")
 
