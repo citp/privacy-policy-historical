@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bollywoodlife.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021620id_/http%3A//www.bollywoodlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodlife.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044736id_/http%3A//www.bollywoodlife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Bollywood News & Gossip, Movie Reviews, Trailers & Videos at Bollywoodlife.com
 
 The Company and its subsidiaries respect your privacy. This Privacy Policy lists the manner your data is collected and used by the site/service, and you are requested to read it carefully. By accessing the services provided by the site service india.com, You agree to the collection and use of your data by the site/service india.com in the manner provided in this Privacy Policy.
 
@@ -207,6 +207,6 @@ How you use data from Google’s Interest-based advertising or 3rd-party audienc
 
 India Webportal Private Limited  
 JV [PMC](http://www.pmc.com/) and [Zee Entertainment Enterprises Ltd](http://www.zeetelevision.com/)  
-B/1201 BSEL Tech Park, Near Vashi Rly Station,  
-Navi Mumbai, India 400705  
+8th floor, Vishwaroop IT Park,Opp. Vashi Railway Station, Sector 30A, Vashi,  
+Navi Mumbai-400703, Maharashtra, India  
 Main Vashi Office: +91-22-40130272
