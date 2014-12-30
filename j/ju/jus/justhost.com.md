@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justhost.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606185509id_/https%3A//www.justhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justhost.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230032021id_/http%3A//www.justhost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Just Host
 
@@ -10,12 +10,11 @@ Skip to main content
   * [Guarantees](https://web.archive.org/guarantees)
   * [Contact Us](https://web.archive.org/contact-us)
   * [Help Center](https://my.justhost.com/hosting/help)
-  * [Resellers](https://web.archive.org/reseller)
   * [Login](https://web.archive.org/cplogin)
 
 
 
-> On June 02, 2014 we updated these terms and policies. You may [review the archived version](https://web.archive.org/privacy_policy?old=1).
+> On July 28, 2014 we updated these terms and policies. You may [review the archived version](https://web.archive.org/privacy_policy?old=1).
 
 This Privacy Policy describes the commitment at Just Host ("Just Host") to the privacy of visitors to the Just Host website located at www.Justhost.com and of its customers ("Subscribers"). Except as required by law or as otherwise provided herein, Just Host will take commercially reasonable steps to ensure your right to privacy. Just Host is committed to developing long lasting relationships that are built on trust and would never intentionally violate that trust.
 
@@ -121,19 +120,19 @@ When Just Host is threatened with suit by a third party, or any other legal acti
 
     1. ### Public Forums.
 
-Please remember that any information you may disclose or post in forums or other public areas of Just Host's website or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from Just Host community forums or testimonials, contact Just Host at tos@Justhost.com. In some cases, Just Host may not be able to remove your personal information, in which case Just Host will let you know why it is unable to do so.
+Please remember that any information you may disclose or post in forums or other public areas of Just Host's website or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from Just Host community forums or testimonials, contact Just Host at [tos@justhost.com](mailto:tos@justhost.com). In some cases, Just Host may not be able to remove your personal information, in which case Just Host will let you know why it is unable to do so.
 
     2. ### Unsubscribe/Opt-out.
 
 When you become a Subscriber of Just Host, you are automatically subscribed to receive transactional notices about your account, email newsletters and news of special promotions offered through Just Host and/or in conjunction with Just Host's partners.
 
-To unsubscribe from Just Host newsletters and promotional mailings, please update your preferences in your Just Host control panel or contact Just Host support. You may also unsubscribe through the links provided in promotional email messages sent by Just Host or on Just Host's behalf.
+To unsubscribe from Just Host newsletters and promotional mailings, please update your preferences in your Just Host control panel or contact [Just Host support](https://justhost.com/cgi/info/contact_us). You may also unsubscribe through the links provided in promotional email messages sent by Just Host or on Just Host's behalf.
 
     3. ### How to Access or Modify Your Information.
 
-Just Host allows you to access, update, and correct inaccuracies in your personal information in Just Host's custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information Just Host has in its custody or control by accessing your the control panel or by contacting support via email, phone or online chat. Just Host may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records.
+Just Host allows you to access, update, and correct inaccuracies in your personal information in Just Host's custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information Just Host has in its custody or control by accessing the control panel or by contacting support via email, phone or online chat. Just Host may request certain personal information for the purposes of verifying the identity of the individual seeking access to their records.
 
-To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your control panel. Alternatively, you can contact Just Host support.
+To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your control panel. Alternatively, you can contact [Just Host support](https://justhost.com/cgi/info/contact_us).
 
   6. ### Children Under 13
 
@@ -149,9 +148,12 @@ Just Host reserves the right to revise, amend, or modify this Privacy Policy at 
 
   9. ### Contact Us Regarding This Policy
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact: ATTN: Just Host Legal Department. 560 Timpanogos Pkwy Orem, UT 84097  
+If you have any questions about this Privacy Policy or the practices described herein, you may contact:  
+ATTN: Just Host Legal Department.   
+560 Timpanogos Pkwy   
+Orem, UT 84097  
 Fax: 801-765-1992 or E-mail: legal@justhost.com  
-Last updated: June 02, 2014
+
 
   10. ### Applicable to All Reseller Relationships
 
@@ -168,6 +170,6 @@ Just Host retains personal data it processes on behalf of Just Host's Resellers 
 
 
 
-This file was last modified: June 02, 2014.
+This file was last modified: July 28, 2014.
 
 [Terms Home](https://web.archive.org/terms) [User Agreement](https://web.archive.org/user-agreement) [Acceptable Use Policy](https://web.archive.org/acceptable-use-policy) [HIPAA Disclaimer](https://web.archive.org/acceptable-use-policy#hipaa) [Domain Registration Agreement](https://web.archive.org/domain-registration-agreement) [Anti-Spam Policy](https://web.archive.org/antispam-policy) [Privacy Policy](https://web.archive.org/privacy-policy) [Domain Name Dispute Policy](https://web.archive.org/domain-dispute-policy) [Civil Subpoena Policy](https://web.archive.org/civil-subpoena-policy) [Copyright Claims Policy](https://web.archive.org/copyright-claims-policy) [Ownership Dispute/Change Policy](https://web.archive.org/ownership-change-policy) [Professional Services Agreements](https://web.archive.org/terms-professional) [Affiliate Agreement](https://web.archive.org/affiliate-terms)
