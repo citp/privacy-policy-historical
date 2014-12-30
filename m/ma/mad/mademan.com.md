@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mademan.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623201507id_/http%3A//www.mademan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mademan.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043730id_/http%3A//www.mademan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Made Man
 
