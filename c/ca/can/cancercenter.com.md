@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancercenter.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629185325id_/http%3A//www.cancercenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancercenter.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230013833id_/http%3A//www.cancercenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CTCA
 
@@ -62,8 +62,9 @@ We welcome any questions or comments you have about the Cancercenter.com site.
 
 **Daily Operations:**  
 Cancercenter.com   
-1336 Basswood Rd  
-Schaumburg, IL 60173
+6000 Broken Sound Parkway NW  
+Suite 103  
+Boca Raton, FL 33487
 
 **Managed and Owned By:**  
 Rising Tide  
