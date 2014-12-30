@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629193141id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230055135id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
 
 # Privacy Policy | VerticalResponse
 
 [](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.verticalresponse.com/seal_l "Validate TRUSTe privacy certification")
 
-**Effective Date: 05/01/2013**
+**Effective Date: 01/01/2015**
 
-This privacy statement discloses the privacy practices for [www.verticalresponse.com](http://www.verticalresponse.com/).
+Deluxe Small Business Sales, Inc. doing business as Vertical Response.com (VerticalResponse) discloses the following privacy practices.
 
 ### VerticalResponse has agreed to notify you of:
 
@@ -22,7 +22,7 @@ This privacy statement discloses the privacy practices for [www.verticalresponse
 
 If you have questions or concerns regarding this statement, please contact us by email at [privacy@verticalresponse.com](mailto:privacy@verticalresponse.com).
 
-VerticalResponse has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, aaccountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software or within our applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@verticalresponse.com](mailto:privacy@verticalresponse.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+VerticalResponse has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software or within our applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@verticalresponse.com](mailto:privacy@verticalresponse.com). If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 VerticalResponse complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. VerticalResponse has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view VerticalResponse’s certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
 
@@ -38,7 +38,7 @@ VerticalResponse offers self-service direct marketing solutions for small and mi
 
 No registration is required to view the VerticalResponse website. However, if you choose to register or provide personal information on our newsletter sign-up, free trial, order forms, affiliate, partner and job application pages or other areas of our site, we will ask for information which may include your name, email address, credit card information, company name, and phone number.
 
-#### Orders
+### Orders
 
 If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
@@ -48,7 +48,7 @@ We post customer testimonials on our web site which may contain personally ident
 
 ### Public Forums:
 
-Our website offers publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@vertcalresponse.com](mailto:info@vertcalresponse.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our website offers publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at info@vertcalresponse.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 #### Tell-A-Friend
 
@@ -72,13 +72,13 @@ The use of cookies by third parties is not covered by our privacy statement. We 
 
 ### Clear Gifs (Web Beacons/Web Bugs)
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.” 
 
 #### Advertising
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here (Link to TRUSTe global opt-out: [http://preferences.truste.com](http://preferences.truste.com/)/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here (Link to TRUSTe global opt-out: <http://preferences.truste.com/>). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ### Log Files
 
@@ -106,13 +106,15 @@ When you enter sensitive information (such as a credit card number) on our order
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info!verticalresponse.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every month, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. If an employee were to violate VerticalResponse privacy practices, that employee would be subject to disciplinary action up to and including dismissal.
 
-Finally, the physical servers that we store personally identifiable information on are kept in a secure collocation facility, within locked cages that only VerticalResponse network administrators have access to. This facility provides security 24 hours a day, 365 days a year and guaranties our servers against power outages by using automated backup power systems.
+Finally, the physical servers that we store personally identifiable information on are kept in a secure collocation facility, within locked cages that only VerticalResponse network administrators have access to. This facility provides security 24 hours a day, 365 days a year and guaranties our servers against power outages by using automated backup power systems
 
-If you have any questions about the security at our website, you can send an email to [info@vertcalresponse.com](mailto:info@vertcalresponse.com). 
+. 
+
+If you have any questions about the security at our website, you can send an email to [info@vertcalresponse.com.](mailto:info@vertcalresponse.com)
 
 ### Special Offers
 
-We send all new members a verification email to verify password and username. Established members who have chosen to receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@verticalresponse.com](mailto:support@vertcalresponse.com).
+We send all new members a verification email to verify password and username. Established members who have chosen to receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@verticalresponse.com](mailto:support@verticalresponse.com).
 
 ### Administrative Type Email Communications
 
@@ -120,7 +122,7 @@ You will receive administrative emails such as an order confirmation that are re
 
 ### Correction/Updating Personal Information
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, delete, and update that user's personal data provided to us. This can be done by calling our toll-free telephone number at 1-866-6VERTICAL, by emailing our Customer Support at [support@verticalresponse.com](mailto:support@vertcalresponse.com), or by sending us a letter to VerticalResponse, attn: account updates, 50 Beale St, 10th Floor, San Francisco, CA 94105. You may also go to your account and MyLounge Page on our website. If you would like your account deactivated or deleted please state this in your communications and we will do this. We will respond to access requests within 30 days.
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, delete, and update that user's personal data provided to us. This can be done by calling our toll-free telephone number at 1-866-6VERTICAL, by emailing our Customer Support at [support@verticalresponse.com](mailto:support@verticalresponse.com), or by sending us a letter to VerticalResponse, attn: account updates, 50 Beale St, 10th Floor, San Francisco, CA 94105. You may also go to your account and MyLounge Page on our website. If you would like your account deactivated or deleted please state this in your communications and we will do this. We will respond to access requests within 30 days.
 
 ### Notification of Changes
 
