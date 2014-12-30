@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the golfwrx.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629061826id_/http%3A//www.golfwrx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfwrx.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230210049id_/http%3A//www.golfwrx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GolfWRX
 
 **Privacy Policy**
 
-We gather certain types of information about the visitors to the GolfWRX Network , and we believe our visitors should fully understand how we obtain and use that information. This Privacy Statement discloses what information we gather and how we use it.
+We gather certain types of information about the visitors to the GolfWRX Network, and we believe our visitors should fully understand how we obtain and use that information. This Privacy Statement discloses what information we gather and how we use it.
 
 If you have questions or concerns regarding this Privacy Statement, you should contact us at management@golfwrx.com.
 
@@ -30,7 +30,7 @@ Membership Registration: When you register as a member of the GolfWRX Network, w
 
 Advertisements: Our advertising results in the serving of cookies that facilitate the delivery and administration of such advertising. See “Third-Party Ad Servers” below.
 
-Advertisers: The current Advertising Terms and Conditions for advertisers on the GolfWRX Network provide that advertisers may write cookies to our visitors’ computers solely for advertising campaign tracking and management purposes, but not for advertisement “retargeting” (i.e., for the purpose of targeting advertisements to visitors to an GolfWRX Web site when they subsequently view other (non- GolfWRX) Web sites).
+Advertisers: The current Advertising Terms and Conditions for advertisers on the GolfWRX Network provide that advertisers may write cookies to our visitors’ computers solely for advertising campaign tracking and management purposes, but not for advertisement “retargeting” (i.e., for the purpose of targeting advertisements to visitors to a GolfWRX Web site when they subsequently view other (non- GolfWRX) Web sites).
 
 Please note that we do not link the information we store in cookies to any personally identifiable information you submit while on our Web sites.
 
