@@ -1,88 +1,173 @@
-> *The following text is extracted and transformed from the washingtonexaminer.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628051220id_/http%3A//washingtonexaminer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtonexaminer.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230063425id_/http%3A//washingtonexaminer.com/privacy-policy) for the most accurate reproduction.*
 
 # Washington Examiner Privacy Policy
 
-This Privacy Policy applies to information about you collected through [WashingtonExaminer.com](http://washingtonexaminer.com/) (the “Site”). This Privacy Policy is part of and incorporated into the [Terms of Use](https://web.archive.org/terms) for our Site, and any capitalized terms used in this Privacy Policy which are not defined here will have the same definitions as set forth in our [Terms of Use.](https://web.archive.org/terms)
+#### General Overview
 
-#### Types of Information
+This site or mobile application is one of several sites and mobile applications operated by The Washington Newspaper Publishing Co. LLC d/b/a MediaDC, its subsidiaries, affiliates and related companies (“MediaDC” or “we”). The purpose of this privacy policy (“Privacy Policy”) is to disclose what information we may collect from you, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
-We collect two types of information through our Site. “PII” means “personally identifiable information,” which is information that identifies you personally, either alone or in combination with other information available to us (including without limitation your name, email address, mailing address, or other personal information). “Non-PII” means “non-personally identifiable information” or information which alone does not identify you (however, in some circumstances Non-PII may be combined with PII in order to identify a specific individual). 
+We may collect such information through our sites (including washingtonexaminer.com, weeklystandard.com, redalertpolitics.com, other sites accessible via subdomains, and mobile versions of any of these sites) (collectively, the “Sites”) or our mobile applications (including the Washington Examiner, Red Alert Politics, and the Weekly Standard) (collectively, the “Mobile Applications”). The Mobile Applications and Sites are defined collectively as our “Digital Services.” Terms not otherwise defined here will have the same definitions as set forth in our [Terms of Use.](http://washingtonexaminer.com/terms)
 
-#### Your Consent to This Privacy Policy
+We use the information we collect about you to provide information you request, to process and complete the commercial transactions you request, and to provide you with a more personalized experience when using our Digital Services. We have created this Privacy Policy in order to demonstrate our firm commitment to protecting the privacy of all of our subscribers, customers, and other visitors. 
 
-By using our Site, you are agreeing to the collection, use, and disclosure of your PII and Non-PII as described in this Privacy Policy. If you have any questions or concerns regarding this Privacy Policy or our privacy practices, please email us at [privacy@washingtonexaminer.com](mailto:privacy@washingtonexaminer.com).
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you through our Digital Services. For some services, we may collect and transfer personal information to a service provider, or you may visit other merchants or service providers through third-party links in our Digital Services, who may collect and use your personal information for other purposes. We encourage you to review the privacy policies of these third-party sites before you disclose your personal information to others. 
 
-#### Information We Gather and Track
+Please read the following to learn more about our data collection policies and practices:
 
-In order to access or use certain features of our Site, you may be required to voluntarily register and submit certain PII through our Site. The use of these features is purely optional, so you are not required to submit any PII to us if you do not wish to do so. For example, you may wish to provide PII to comment on articles, subscribe to our online newsletters, or submit feedback to us. This information may include your name, email address, and other information you voluntarily provide. We also collect Non-PII through our Site. The Non-PII collected does not by itself identify you personally. Non-PII collected through our Site includes: information sent to us automatically by your web browser such as the web page you were visiting when you accessed our Site, the operating system and browser you are using, the date and time of your visit, user traffic patterns and content accessed throughout our Site, and other data. This information allows us to better tailor our Content to our readers' needs, to improve our Site, and to help our advertisers and sponsors better understand our audience. We may also allow certain advertising networks or third party service providers (for example, companies providing data services on our Site) to track Non-PII of users who visit our Site. 
-
-#### How Information is Gathered
-
-In order to improve your experience when using our Site, we, our third party service providers or advertisers may place a file called a "cookie" in the browser files of your computer, or may also use “web beacons,” “pixel tags” or similar technologies, which are small pieces of code placed on a web page to monitor behavior and collect certain data regarding the actions of our users online. These cookies and other technologies may be used to track user traffic patterns, to enhance your experience when using our Site, to persist information through your session, to target advertising or content to you as described further below, and to collect Non-PII about you and your visit to our Site for other marketing and business purposes. You can adjust your privacy preferences regarding the use of cookies and similar technologies through your browser. Disabling cookies may result in a less complete experience while using the Site.
-
-#### Third Party Advertising; Targeting of Ads and Content
-
-We use third party companies to serve ads on our Site, to provide us with data collection, ad response measurement, ad or content targeting, and other marketing or related services. We may grant permission to these companies and certain advertisers or customers of these companies to use cookies, web beacons, pixel tags or similar technologies in order to collect Non-PII about our users (subject to their own privacy guidelines) for purposes of generating advertisements and other content targeted to your interests, and for other data collection, response measurement, marketing and related business purposes. 
-
-The Network Advertising Initiative (“NAI”), a cooperative group of ad serving providers that has developed a set of privacy principles to which its members adhere, provides a website offering more information about behavioral advertising practices and your choices about not having certain Non-PII used by certain companies in order to target advertisements to you, as well as information about NAI and third party ad servers in general. You may visit the NAI site at [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp). 
-
-#### Use of Information
-
-Washington Examiner or our third party service providers may use PII or Non-PII collected on our Site:
-
-  * To enhance or personalize your experience using our Site; 
-  * To process or maintain your registration on the Site;
-  * To provide information or services you have requested
-  * To inform you of offers or new features that we believe may be of interest to you;
-  * To facilitate advertisements or sponsorships on our Site;
-  * In connection with various programs or promotions in which you choose to participate;
-  * For targeting of advertising or content, or other advertising or marketing purposes;
-  * To study the use and popularity of various areas of our Site and to improve our Site;
-  * To analyze where we are getting our audience (by reviewing IP addresses);
-  * For other purposes related to our business, and for any other purpose described in this Privacy Policy or any other agreement you may enter with WashingtonExaminer.com, or otherwise as we may disclose to you or to which you consent from time to time.
+  
 
 
+  * Types of information that may be collected
+  
 
-We may create aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their interests. We will not intentionally collect (nor intentionally provide to an advertiser or sponsor) information that a personally-identified user clicked on any particular ad. However, by clicking on, otherwise interacting with or viewing an ad, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad, and this may lead to similar ads being targeted to you on our Site and potentially on other Sites.
+  * How information is collected.
+  
 
-#### Sharing of Information
+  * How we use the information we collect.
+  
 
-We may share your PII with: (i) our current or future affiliates, subsidiaries, parent company, or other related entities ("Related Entities"); (ii) companies and organizations that perform services on our behalf (such as data storage, web hosting, or other services); and (iii) carefully selected third parties for purposes relating to Washington Examiner or third party services or promotions we believe would be of interest to you, marketing activities, ad targeting as described herein, or other purposes relevant to the business of Washington Examiner or our Related Entities. 
+  * With whom the information may be shared.
+  
 
-We may also disclose the PII and Non-PII we collect through our Site when we, in good faith, believe disclosure is appropriate to comply with the law or legal process (including a court order or subpoena); to prevent or investigate a possible crime; to enforce the WashingtonExaminer.com [Terms of Use](https://web.archive.org/terms); to respond to your customer service requests; and to protect the rights, property or safety of Washington Examiner, our users or others. 
+  * The choices you have about the collection and use of your information.
+  
 
-We may share analyses of our server logs, including details regarding Site usage and general information about our audience, with current or potential advertisers or business partners. Such disclosures will refer only to general, aggregate usage data from these analyses - never specific identifying information.
+  * The security precautions are in place to protect against the loss, misuse, or alteration of your information.
+  
 
-Information submitted to our Site is an asset of Washington Examiner and will become part of our normal business records. Your PII may be transferred to another company that acquires the stock or assets of Washington Examiner, for example, as the result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company's use of your PII will still be subject to this Privacy Policy, and any privacy choices you selected in your online profile on our Site.
+  * Chat Rooms, Forums, and Message Boards.
+  
 
-Please be aware that although we may request your consent for some disclosures described in this section, by using our Site you are deemed to have accepted and agreed to the sharing of your information collected through our Site in the manner described in this Privacy Policy, and we will not be required to obtain your consent for any disclosures described in this Privacy Policy. 
+  * <http://washingtonexaminer.com/terms>
+  
 
-#### User Comments and Other PII Posted by You
+  * Links to other Websites.
+  
 
-If you choose to register and post comments on our Site, please be aware that any PII (including photos) you post on our Site or make available via logging in with your other social media accounts (within your profile, comments, or otherwise), will automatically be visible to the general public, and will potentially remain on the Site indefinitely. To the extent you have posted PII in your public user profile, in articles or comments on the Site, or otherwise in a publicly displayed manner on our Site, that information is available to the general public and can be used in connection with distribution and promotion of such content to third parties, for news reporting related to the article or comment in which the PII is located on our Site, or for other similar purposes, due to the fact that the information became public when you posted it on our Site. If you register on our Site using a third party social media account, the comments you post on our Site (and any responses to those comments) may automatically be posted to the applicable third party social media sites in addition to our Site, and any such comments will be subject to those social media websites’ policies.
+  * A special note for parents concerning privacy.
+  
 
-#### Third Party Websites
+  * International Users.
+  
 
-Third party websites, including our partners, advertisers, affiliates and other content providers featured on our Site or accessible through links on our Site, may have their own privacy and data collection policies and practices. You may encounter these third party sites through links in our articles, third party content widgets or excerpts on our Site, advertisements, features, or promotions featured on or accessible via links from our Site. We do not have any control over these third parties’ use of the information you may provide to them. Washington Examiner is not responsible for the actions or policies of such third parties and is not liable to you for any claims that may arise from your interaction with those third parties or their sites. You should exercise caution and check the applicable privacy policies of those third parties when providing PII or another party’s information on a feature or page operated by a third party.
+  * Limitation of Liability.
+  
 
-#### International Users – Transfer of Information
+  * Notification of changes and acceptance of the Privacy Policy.
+  
 
-Washington Examiner is headquartered in the United States, and you understand that any PII collected on the Site will be transferred to Washington Examiner (or its third party partners depending on which element of the Site collected the data) in the United States and may be shared with Examiner Entities and third parties elsewhere as described herein. You hereby consent to the transfer to and processing of any PII by Washington Examiner and any Examiner Entities, any of their future owners, or any of the other parties listed in the above section "Sharing of Information," whether located in the United States or any other countries, for the purposes described in this Privacy Policy, or for any other specific purposes to which you consent. If you are located in a country other than the United States, you should note that, at present, the laws of the United States and certain other countries have not been approved by the European Commission or privacy authorities in certain other countries as providing "adequate protection" for personal information within the meaning of the EU Data Protection Directive or applicable laws of other countries. Please know, however, that no matter where your personal information is collected, used, transferred or stored, if it was collected through the Site, it will be protected by the terms of this Privacy Policy. YOU HEREBY CONSENT TO THE USE AND PROCESSING OF YOUR PERSONAL DATA IN THE UNITED STATES OR IN ANY OTHER COUNTRY IN THE MANNER SET FORTH HEREIN. 
+  * Correcting and updating personal information.
+  
 
-#### Children's Privacy
+  * Contact information for questions or concerns about this Privacy Policy.
 
-Consistent with the Federal Children's Online Privacy Protection Act (COPPA), we will never knowingly request or collect PII from anyone under the age of 13 without requesting parental consent. The Site is not directed at nor targeted to children under the age of 13 and we do not use the Site to knowingly solicit PII from or market to children under the age of 13. If you are under the age of 13, do not provide us with any PII. If we learn that someone under 13 has provided PII to the Site, we will use reasonable efforts to remove such information from our databases.
 
-#### How We Protect Information
 
-Washington Examiner protects data provided by users to the extent we believe necessary based on the information provided. Only authorized individuals have access to the PII provided by our Site’s users.
+#### Types of information that may be collected 
 
-#### Accessing and Modifying Personal Information
+The personally-identifiable information we collect through our Digital Services is used to facilitate the purchase and/or delivery of products, services, or information you may request. In the process of providing these products and/or services, we may ask our users to complete a form which will require the submission of certain personally-identifiable information.  The information required may vary depending on the products or services you request, and the information collected may be subject to change, but may include the following personally-identifiable information (as well as other non-personally identifiable information described further below): 
 
-We respect your right to make choices about the ways we collect, use and disclose your PII. If you have registered on our Site in any manner, you may update or modify your information or change your preferences at any time by contacting us through the Contact Us form on our Site. If you have not registered on our Site or you are having trouble updating your information and you wish to review or modify PII we may have collected about you, please email us through the Contact Us form on our Site. 
+  * In the case of subscriptions to one of our email newsletters, you will be required to submit your email address, and other information included on the subscription form.  If you are subscribing to one of our print publications, we will also require your name, mailing address, telephone number, and if the subscription is a paid product, you will be required to provide the payment information required to complete the purchase transaction, as described below. 
 
-#### This Privacy Policy May Change
 
-We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on the Site. Your use of the Site following any such change constitutes your agreement that all information collected from or about you through the Site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy. You may access the current version of this Privacy Policy at any time by clicking on the link marked "Privacy Policy" at the bottom of each page of our Site. 
+  * The personally-identifiable information that may be collected by our Digital Services (such as if you register to use a Digital Service, in an entry to a sweepstakes or promotion, or otherwise) includes, but may not be limited to: your first name, last name, zip code, phone number, age and email address.  Some additional information, such as your IP address or zip code, may be automatically collected by our Digital Services from your device or otherwise (subject to the settings on your device, and as further described below) in order to better tailor the Digital Services to you.. If the information collected or how it is used may vary for a particular sweepstakes, promotion, or feature, that information will be disclosed in the sweepstakes or promotion rules or feature’s terms of use.
 
-#### This Privacy Policy is effective as of July 20, 2013.
+
+  * In the case of a paid transaction which is completed through our Digital Services,  an online credit card transaction is required in order to complete the purchase. During this process we (or our third party services providers) may collect certain personally-identifiable information including but not limited to: customer’s first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card security code, credit card expiration date, customer’s shipping address, phone number, and email address.
+
+
+  * We may provide subscribers or other users with the option of creating your own personal profile which may include information regarding your interests as well as certain other information about you.  Providing that information is optional.  However, if you create a profile, we may supplement your profile based on other information we may collect about you both online and off- line. 
+
+
+
+#### [How is information collected?](http://www.farmersfield.com/privacy-policy)
+
+We may collect information from you in various ways when you use our Digital Services, including but not limited to those described below:
+
+**_Registration & Subscriptions_**.   
+If you register for a specific feature or service offered within one of our Digital Services, you may be asked to complete a registration form and provide personally-identifiable information. You may also be asked to choose a user ID and password in order to take advantage of certain features the Digital Service may offer, including, but not limited to, newsletters, contests, forums, webcasts or other subscription-based services.  For some features within our Digital Services, you may be able to log in using a third-party social media account rather than completing a separate registration.  If you agree to provide us with optional profile information, this information will typically be collected through a registration form.   
+When you use a Mobile Application to subscribe to a digital edition (such as the iOS edition) of one of our publications, you may provide us your name, email, zip code or other information as part of the subscription purchase.  For example, iTunes, when fulfilling an in-app subscription (whether free or paid), gives you the option to provide us with your email address, name, and zip code. Any information you provide us through iTunes or iOS will be used in accordance with this Privacy Policy.
+
+**_Newsletters, Emails and Mobile Offers_** ** _._**  
+We may offer newsletters and/or other communications in order to share information with you about the Digital Services, about us and our related entities, about our advertisers, sponsors, or other business partners, or relating to topics we believe would be of interest to our readers.  You may receive a newsletter either by registering for a particular newsletter, or in conjunction with a special feature or subscription for which you have registered using our Digital Services. Each of our Digital Services or newsletters may in some cases require separate registrations.  You may cancel your email subscription by following the instructions provided by the Digital Service, in the designated area of the newsletters or emails, or as specified in a communication.  Some of our Digital Services include a preference menu or page where you can manage all of your email registrations for that Digital Service (for example see weeklystandard.com/email/preferences).  Remember, if you consent to receive texts from us, your wireless carrier may impose a charge on incoming texts.  Please check with your wireless carrier for details.
+
+**_Paid Transactions._**  
+Certain transactions within our Digital Services, such as purchasing  a paid subscription for The Weekly Standard (print and/or digital editions), making an in-app purchase in a Mobile Application, or purchasing products in our online stores, may require that you enter your name, email, address, payment information, and other details.  Our magazine subscription services and store transactions are managed by third party service providers, and the information you provide during these paid transactions is submitted directly to the applicable provider, which in turn may share limited information (such as your name and email address, but not payment account details) with MediaDC. 
+
+**_Contests or Sweepstakes_**   
+We may operate contests and sweepstakes through our Digital Services, which may require registration in order to enter. Your personally-identifiable information may be used by us to contact you for winner notification, prize delivery confirmation or other promotional purposes. Your entry in the contest or sweepstakes may also result in your being added to our mailing/texting lists as well as those of our promotional partners associated with the contest or sweepstakes. Acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your information on the Site, such as on a winner’s page, in the event you win a contest or sweepstakes. In some instances, a third-party advertiser or sponsor may operate or host a contest or sweepstakes on the Digital Service, and collect your information. In those cases, where we are not the sponsor, operator or host of the contest or sweepstakes, we may have no control over the information collected and accordingly urge you to review the official rules of the contest/sweepstakes as well as the advertiser’s or sponsor’s privacy policy applicable to the contest or sweepstakes before participating.
+
+**_Surveys or Voting_** **.**   
+From time-to-time we may request personally-identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register if you wish to vote or to take part in a survey.
+
+**_Location; IP Addresses; and Click-stream Data._** ** __**  
+We may collect your mailing address (based on information you enter when you subscribe to some of our print publications or paid Digital Services, or your approximate one-time location (based on the zip code you have defined in your mobile device settings, your IP address, or information you provide to us when you subscribe to our Digital Services), in order to better target our content to your interests, or to serve ads to you which we believe would be of interest based on your location.  We may also collect your IP address and/or click-stream data for purposes of system administration, to improve the Sites and to report aggregate information to our advertisers and sponsors and/or other internal uses related to the Sites. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from a Site, our computers log your IP address.
+
+Click-stream data is information collected by our computers when you request Web pages from a Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. This data helps us analyze how visitors arrive at our Sites, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
+
+**_Cookies_** **.**   
+As with many Websites and applications, our Sites use standard technology called “cookies,” which are small data files that are transferred to your computer when you allow your browser to accept cookies (or we may use similar technologies). Cookies automatically identify your Web browser to the Site whenever you visit the Sites, and make using the Sites easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use the Sites, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Sites are based on data obtained from cookies. Accepting cookies may allow you, among other things, to personalize your experience on the Sites. Cookies may also allow the Sites to display advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Sites may not provide you with a personalized experience if you have disabled the use of cookies.  Our Sites do not currently respond to web browser do-not-track signals.  Our third party advertising networks may issue different cookies, including cookies that may track users across third party sites.  If you wish to take steps to opt-out of tracking by certain online advertisers, you can visit the Digital Advertising Alliance’s opt-out page at <http://www.aboutads.info/choices> or the Network Advertising Initiative at [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp).
+
+**_Digital Service Analytics._.**  
+We may use third party analytics tools (such as Google Analytics or others) to collect information about use of our Sites and Mobile Applications. These analytics programs may collect information such as how often users visit our Digital Services, what pages they visit when they do so, and what other sites they used prior to coming to our Sites. We use the information we get from analytics providers primarily to improve our Sites and Mobile Applications, and to better understand our audience. The analytics providers typically collect only the IP address assigned to you on the date you visit our Digital Services, rather than your name or other identifying information.  Although some analytics providers may plant a permanent cookie on your web browser to identify you as a unique user the next time you visit a particular Digital Service, the cookie cannot be used by anyone but that provider. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html)  and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). Other analytics providers will have their own terms and policies.  You can prevent analytics providers from recognizing you on return visits to this Site by disabling cookies on your browser. 
+
+#### How do we use the information we collect? 
+
+We internally use personally-identifiable information about our customers to improve our marketing and promotional efforts, to statistically analyze Digital Service usage, to improve our content and product offerings and to customize each Digital Service’s content and layout. We believe these uses allow us to improve our Digital Services and provide better service to our visitors. We may use a customer’s email address, mailing address or phone number to contact a customer regarding administrative matters or notices, issues with a transaction, satisfaction with the Digital Services and/or our products and services, and to provide further information regarding additional events, products and/or services we believe the customer would be interested in.  We may use actual or approximate location information such as your zip code to select and display advertisements we believe would be of interest based on your location.  We may also use information we maintain about a subscriber or other customer to resolve disputes and troubleshoot problems.
+
+#### With whom may the information be shared?
+
+Information we collect may be shared with a variety of parties, depending upon the purpose for which the information was provided and the context in which the information was provided. 
+
+If you register with or subscribe to a Digital Service, your information may be aggregated and maintained as part of your profile and may be accessed or used by us, including our current or future affiliated and related companies, to provide you with information or marketing communications regarding products or services we think you will be interested in, whether offered by MediaDC, our affiliated entities, or third parties. In addition, we may occasionally share your information with carefully selected third parties if we believe their information or offers would be of interest to you. Paid subscribers to the print edition of the Weekly Standard should be aware that we may occasionally rent our lists of physical mailing addresses to third parties. You may opt-out of having your information shared with any third parties described in this paragraph by following the instructions below under “What choices do I have about collecting, using, and disclosing my information?” 
+
+In order to process your requests, we may provide your personally-identifiable information to service providers or other companies who work on our behalf. In addition, if you enter into a paid transaction on one of our Digital Services (such as subscribing to the Weekly Standard, making a purchase in our online store on in a Mobile Application), you will be providing your payment information and other details to the third party service providers who handle those transactions on our behalf. We use reasonable efforts to require that these third party providers comply with reasonable information security practices, our privacy policy, and applicable laws and regulations. 
+
+In the event that we go through an existing or potential business transition, such as a merger, acquisition, liquidation or sale of all or a portion of our assets, personal information collected through our Digital Services will, in most instances, be part of the assets transferred during the negotiations of such transaction or after the closing thereof.
+
+We may, without your consent, access and disclose your personal information, any communications sent or received by you, and any other information that we may have about you as may be permitted or as we believe in good faith may be reasonably necessary to comply with any law, regulation, rule or court order; pursuant to supoenas or other requests from governmental, regulatory or administrative agencies or law enforcement authorities; to respond to any claims, or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding suspected fraud, violations of our Terms of Use, or activity that appears to us to be illegal or we believe may expose us to legal liability. Additionally, we may disclose personal information in situations that we believe to be emergencies involving potential threats to the physical safety of any person or property of our users, MediaDC, or others, if we believe that your information in any way relates to that threat.
+
+#### What choices do I have about collecting, using, and disclosing my information?
+
+It is possible for you to use most of our Digital Services without giving us any personally-identifiable information. When you do register with us or give us personally-identifiable information, on some of our Digital Services, you may have an opportunity at the time we collect your information to limit e-mail communications from us or opt-out of receiving emails from third parties.  You can unsubscribe from email newsletters or similar communications by clicking on the unsubscribe link in every email. 
+
+You may opt-out of all information sharing with third parties for marketing purposes by emailing us at [privacy@mediadc.com](mailto:privacy@mediadc.com?subject=Please%20Opt%20Me%20Out%20of%20Third-Party%20information%20sharing) (or to opt out of only one or more of our Sites, please email the following:  for WashingtonExaminer.com, please email [privacy@washingtonexaminer.com](mailto:privacy@washingtonexaminer.com); for WeeklyStandard.com, please email [webmaster@weeklystandard.com](mailto:webmaster@weeklystandard.com); and for RedAlertPolitics.com, please email [policy@mediadc.com](mailto:policy@mediadc.com)).  Subscribers to the print edition of The Weekly Standard can opt out of having their postal mail address shared with third parties by sending an email to [webmaster@weeklystandard.com](mailto:webmaster@weeklystandard.com), or by writing to Circulation Manager, The Weekly Standard, 1150 17th St., NW Suite 505, Washington, DC 20036. 
+
+To obtain a list of the kinds of personal information that MediaDC has disclosed to third parties for direct marketing purposes during the preceding calendar year, and the names and addresses of all third parties that received personal information from MediaDC for direct marketing purposes during the preceding calendar year, please write to: MediaDC, Attn:  Webmaster, 1015 15th St. NW, Suite 500, Washington, DC, 20005. 
+
+#### What security precautions are in place to protect against the loss, misuse, or alteration of your information?
+
+We have implemented reasonable security measures to safeguard the personally-identifiable information you provide us. However, please keep in mind that “perfect security” does not exist on the Internet and mobile environments, and we cannot make any guarantees regarding the security of your information. __
+
+#### Forums, Webcasts and Message Boards.
+
+Our Sites may feature forums, webcasts and message boards for our users. You are not required to provide any personal information when using these areas, but you may choose to do so. We strongly recommend that you DO NOT use your personal information for any publicly available identifier such as your user name, and that you DO NOT post any personally-identifiable information online, since such information will be publicly available.  We cannot ensure the security of any information you choose to make public in a chat room, forum, webcast, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy.  Please exercise caution when deciding to disclose personal information in these areas. __
+
+#### Links to other Websites.
+
+You should be aware that when you use our Digital Services, you could be directed to other sites beyond our control. For example, if you “click” on an advertisement, you will likely leave the Site or Mobile Application and move to a different website that is not operated by us. This includes links from advertisers, sponsors and partners that may use one of our trademarks or brands as part of a co-branding agreement. These other websites may install their own cookies, independently collect data or solicit personal information, and may or may not have their own published privacy policies. If you are linked to a third-party website through one of our Digital Services, you should carefully review that third-party site’s privacy policy before providing any personal information. This Privacy Policy does not apply to any information you submit to third-party websites, including, without limitation, any websites that may be connected to a Digital Service by hypertext link or otherwise. __
+
+#### A special note for parents concerning privacy.
+
+Our Digital Services are not intended for use by children under the age of 13.  We do not knowingly collect personally-identifiable information from children under the age of 13.  If we learn that a child has provided us with personal information, we will delete the child’s personal information (except as may be necessary for legal compliance) and remove the child from any mailing lists. 
+
+#### International Users.
+
+If you are accessing this Digital Service from outside of the United States, you consent to the transfer of your information to the United States, and the processing, use, and sharing of your information in accordance with this Privacy Policy. Regardless of where your information is collected or transferred, the information will be treated in accordance with this Privacy Policy. __
+
+#### Limitation of Liability.
+
+By providing us with any personally-identifiable information, you expressly and unconditionally release and hold harmless MediaDC, its parents, subsidiaries, affiliates, related companies and their respective shareholders, owners, members, directors, officers, employees and agents (collectively, the “Releasees”) from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personally-identifiable information. In addition, while we take reasonable steps to prevent third party companies from making unauthorized use of your personal information, we cannot be held liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personally-identifiable information by those third parties. __
+
+#### Notification of changes and acceptance of the Privacy Policy.
+
+By using any of our Digital Services, you signify your agreement to the terms of our Privacy Policy. We may change this Privacy Policy from time to time. If so, any such changes will be posted on this page, so that the we may keep users informed of its information collection practices. Accordingly, we recommend that you consult this page frequently so that you are aware of our latest policy. Your continued use of any Digital Service shall constitute your acceptance of such revised Privacy Policy. __
+
+#### Correcting and updating personal information.
+
+If your personally-identifiable information changes (such as your zip code), some of our Digital Services may allow you to log-in and make changes to your profile on line, or you may contact us at the address or email below. 
+
+#### Whom do I contact with questions or concerns about this Privacy Policy? 
+
+If you have any questions about this Privacy Policy, the practices of this Digital Service, your experience with this Digital Service, or if you wish to make changes or delete the personal information we have on file for you, please contact:  MediaDC, Attn:  Webmaster, 1015 15th St. NW, Suite 500, Washington, DC, 20005 or email at [legal@mediadc.com](mailto:legal@mediadc.com).   
+**Effective Date of this Privacy Policy:   July 12, 2014**. 
