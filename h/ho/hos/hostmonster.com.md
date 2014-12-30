@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hostmonster.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626091819id_/http%3A//www.hostmonster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmonster.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230060848id_/http%3A//www.hostmonster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HostMonster
 
 Skip to main content
 
-> On June 02, 2014 we updated these terms and policies. You may [review the archived version](https://web.archive.org/privacy_policy?old=1).
+> On July 28, 2014 we updated these terms and policies. You may [review the archived version](https://web.archive.org/privacy_policy?old=1).
 
 This Privacy Policy describes the commitment at Hostmonster ("HostMonster") to the privacy of visitors to the HostMonster website located at www.HostMonster.com and of its customers ("Subscribers"). Except as required by law or as otherwise provided herein, HostMonster will take commercially reasonable steps to ensure your right to privacy. HostMonster is committed to developing long lasting relationships that are built on trust and would never intentionally violate that trust.
 
@@ -110,19 +110,19 @@ When HostMonster is threatened with suit by a third party, or any other legal ac
 
     1. ### Public Forums.
 
-Please remember that any information you may disclose or post in forums or other public areas of HostMonster's website or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from HostMonster community forums or testimonials, contact HostMonster at tos@HostMonster.com. In some cases, HostMonster may not be able to remove your personal information, in which case HostMonster will let you know why it is unable to do so.
+Please remember that any information you may disclose or post in forums or other public areas of HostMonster's website or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from HostMonster community forums or testimonials, contact HostMonster at [tos@hostmonster.com](mailto:tos@hostmonster.com). In some cases, HostMonster may not be able to remove your personal information, in which case HostMonster will let you know why it is unable to do so.
 
     2. ### Unsubscribe/Opt-out.
 
 When you become a Subscriber of HostMonster, you are automatically subscribed to receive transactional notices about your account, email newsletters and news of special promotions offered through HostMonster and/or in conjunction with HostMonster's partners.
 
-To unsubscribe from HostMonster newsletters and promotional mailings, please update your preferences in your HostMonster control panel or contact HostMonster support. You may also unsubscribe through the links provided in promotional email messages sent by HostMonster or on HostMonster's behalf.
+To unsubscribe from HostMonster newsletters and promotional mailings, please update your preferences in your HostMonster control panel or contact [HostMonster support](https://hostmonster.com/cgi/info/contact_us). You may also unsubscribe through the links provided in promotional email messages sent by HostMonster or on HostMonster's behalf.
 
     3. ### How to Access or Modify Your Information.
 
-HostMonster allows you to access, update, and correct inaccuracies in your personal information in HostMonster's custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information HostMonster has in its custody or control by accessing your the control panel or by contacting support via email, phone or online chat. HostMonster may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records.
+HostMonster allows you to access, update, and correct inaccuracies in your personal information in HostMonster's custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information HostMonster has in its custody or control by accessing the control panel or by contacting support via email, phone or online chat. HostMonster may request certain personal information for the purposes of verifying the identity of the individual seeking access to their records.
 
-To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your control panel. Alternatively, you can contact HostMonster support.
+To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your control panel. Alternatively, you can contact [HostMonster support](https://hostmonster.com/cgi/info/contact_us).
 
   6. ### Children Under 13
 
@@ -138,9 +138,12 @@ HostMonster reserves the right to revise, amend, or modify this Privacy Policy a
 
   9. ### Contact Us Regarding This Policy
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact: ATTN: Hostmonster Legal Department. 560 Timpanogos Pkwy Orem, UT 84097  
+If you have any questions about this Privacy Policy or the practices described herein, you may contact:  
+ATTN: Hostmonster Legal Department.   
+560 Timpanogos Pkwy   
+Orem, UT 84097  
 Fax: 801-765-1992 or E-mail: legal@hostmonster.com  
-Last updated: June 02, 2014
+
 
   10. ### Applicable to All Reseller Relationships
 
@@ -157,6 +160,6 @@ HostMonster retains personal data it processes on behalf of HostMonster's Resell
 
 
 
-This file was last modified: June 02, 2014.
+This file was last modified: July 28, 2014.
 
 [Terms Home](https://web.archive.org/terms) [User Agreement](https://web.archive.org/user-agreement) [Acceptable Use Policy](https://web.archive.org/acceptable-use-policy) [HIPAA Disclaimer](https://web.archive.org/acceptable-use-policy#hipaa) [Domain Registration Agreement](https://web.archive.org/domain-registration-agreement) [Anti-Spam Policy](https://web.archive.org/antispam-policy) [Privacy Policy](https://web.archive.org/privacy-policy) [Domain Name Dispute Policy](https://web.archive.org/domain-dispute-policy) [Civil Subpoena Policy](https://web.archive.org/civil-subpoena-policy) [Copyright Claims Policy](https://web.archive.org/copyright-claims-policy) [Ownership Dispute/Change Policy](https://web.archive.org/ownership-change-policy) [Professional Services Agreements](https://web.archive.org/terms-professional) [Affiliate Agreement](https://web.archive.org/affiliate-terms)
