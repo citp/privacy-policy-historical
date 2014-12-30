@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibeatyou.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054245id_/http%3A//photobucket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibeatyou.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230230659id_/http%3A//photobucket.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Photobucket
 
@@ -86,7 +86,7 @@ you can contact us at:
 
   * **URL:** <http://support.photobucket.com/home>
   * **Email:** [support@photobucket.com](mailto:support@photobucket.com)
-  * **Address:** Photobucket.com, Inc. P.O. Box 13003, Denver, CO 80201
+  * **Address:** Photobucket.com, Inc. 2399 Blake St. Suite 160, Denver, CO 80205
 
 
 
