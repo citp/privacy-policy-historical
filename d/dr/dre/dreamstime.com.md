@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamstime.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630211242id_/http%3A//www.dreamstime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamstime.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231005622id_/http%3A//www.dreamstime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dreamstime
 
@@ -60,7 +60,7 @@ Please note that this procedure will not block ads that are displayed on the web
 Our site may contain advertisements, references and links to other web sites and organizations. You should be aware that different rules may apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other web sites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours, and even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information and we encourage you to investigate and ask questions directly of them in this regard.
 
 **Disclosure to Third Parties:**  
-Except as described in this Privacy Policy, Dreamstim uses good faith efforts not to provide third parties with access to your personally identifiable information. We will, however, make your personally identifiable information available to others:
+Except as described in this Privacy Policy, Dreamstime uses good faith efforts not to provide third parties with access to your personally identifiable information. We will, however, make your personally identifiable information available to others:
 
   * As part of your public member profile, where your name and location are displayed unless your profile has been set to confidential (please [contact support](http://www.dreamstime.com/contact) for assistance);
   * When we have retained companies to work with or on behalf of Dreamstime.com to provide Products, goods or services that you have requested;
