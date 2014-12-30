@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestbuy.ca privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628091310id_/http%3A//www.bestbuy.ca/en-CA/help/privacy-policy/hc1139.aspx%3Fpath%3D190119f7bb3221f7ec2b377835be7b8aen06%26HelpTitleId%3DHC1139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbuy.ca privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230142814id_/http%3A//www.bestbuy.ca/en-CA/help/privacy-policy/hc1139.aspx%3Fpath%3D190119f7bb3221f7ec2b377835be7b8aen06%26HelpTitleId%3DHC1139) for the most accurate reproduction.*
 
 # Privacy Policy - Best Buy Canada
 
