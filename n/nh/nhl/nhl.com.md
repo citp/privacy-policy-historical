@@ -1,124 +1,282 @@
-> *The following text is extracted and transformed from the nhl.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628212858id_/http%3A//www.nhl.com/ice/page.htm%3Fid%3D26386) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhl.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080343id_/http%3A//www.nhl.com/ice/page.htm%3Fid%3D26386) for the most accurate reproduction.*
 
 # NHL.com Privacy Policy - NHL.com - NHL Headquarters
 
-Privacy Policy[  
-Version Francaise](http://www.nhl.com/ice/page.htm?id=26413)
+**Privacy Policy**
 
-_  
-Your privacy is important to us. This Privacy Policy governs the practices of NHL Interactive CyberEnterprises, LLC ("NHL ICE", the operator of NHL.com, NHL.tv and NHLNetwork.com) and its affiliates, which include NHL Enterprises, L.P., NHL Enterprises Canada, L.P., NHL Enterprises B.V. and the National Hockey League (collectively, the "NHL Parties", "us", "our" and "we"). The NHL Parties are committed to undertaking reasonable measures to protect the privacy and security of all of the personal information that is provided to us. Please read the following description of our policies and practices regarding your personal information._
+_Last Updated and Effective Date -- August 13, 2014_
 
- **Collection of Personal Information**
+This Privacy Policy explains how NHL Interactive CyberEnterprises, LLC, and its affiliates, including NHL Enterprises, L.P., NHL Enterprises Canada, L.P., NHL Enterprises B.V., and the National Hockey League (collectively, the "NHL," "we," "our," "us") use information in operating our websites, our mobile and other apps, and any other online service that displays or provides an authorized link to this Privacy Policy (collectively, our "Services"). Please note that this Privacy Policy does not apply to the websites, apps, or services of any of the Member Clubs of the National Hockey League ("Member Clubs"), which are governed by the individual privacy policies of the Member Clubs.
 
-  * The NHL Parties and their agents and representatives collect personal information in a number of circumstances. For example, when you visit NHL.com or NHLNetwork.com, we may collect personal information from you such as name, home address, e-mail address, age, favorite NHL team, purchase history, products used or searched for, phone number used to call customer service and credit card information for purposes such as events and contests; registrations for our newsletter, multimedia offerings such as NHL GameCenter LIVE, social media pages, chat rooms, bulletin boards and other public forums such as NHL Connect; shopping in the shopping area at shop.nhl.com (the "Shop"); purchasing items in the  NHL PhotoStore by HP (the "PhotoStore"), bidding on and purchasing items in the auction area at auction.nhl.com (the "Auction Site"); and participation in other promotions and interactive online activities. We may collect personal information with your consent or as required or permitted by law.   
- 
-  * Specifically with respect to the Shop, we may collect personal information, for example, when you register, sign in, search, purchase products, participate in a contest or questionnaire or communicate with customer service. We may also automatically collect certain types of information, including the telephone number used to call customer service and, if you visit our Shop, information collected through "cookies" (see below for more information about how we use cookies). In addition a third party may actually operate the Shop and provide customer service and other functions with respect to the Shop described in this Privacy Policy, and will collect personal information when you visit the Shop and in connection with processing transactions at the Shop. The third party operator of the Shop and not the NHL Parties is responsible for the treatment of your information by the third party operator of the Shop. Information about the privacy practices of the third party operator of the Shop is on the shop.nhl.com website.   
- 
-  * Specifically with respect to the Auction Site, we may collect personal information (including credit card information), for example, when you register, sign in, search, bid on or purchase products, participate in a contest or questionnaire or communicate with customer service. We may also automatically collect certain types of information, including the email addressed used to contact customer service and, if you visit the Auction Site, information collected through "cookies" (see below for more information about how we use cookies). In addition a third party may actually operate the Auction Site and provide customer service and other functions with respect to the Auction Site described in this Privacy Policy, and will collect personal information when you visit the Auction Site and in connection with processing transactions at the Auction Site (which may include providing your personal information (including credit card information) to the vendors of the items you have bid on so that your purchase can be fulfilled).   
- 
-  * Specifically with respect to the PhotoStore, we may collect personal information, for example, when you register, sign in, search, purchase products, participate in a contest or questionnaire or communicate with customer service. We may also automatically collect certain types of information, including the telephone number used to call customer service and, if you visit our PhotoStore, information collected through "cookies" (see below for more information about how we use cookies). In addition a third party may actually operate the PhotoStore and provide customer service and other functions with respect to the PhotoStore described in this Privacy Policy, and will collect personal information when you visit the PhotoStore and in connection with processing transactions at the PhotoStore. The third party operator of the PhotoStore and not the NHL Parties is responsible for the treatment of your information by the third party operator of the PhotoStore. Information about the privacy practices of the third party operator of the PhotoStore is on the [hp.com website](http://welcome.hp.com/country/us/en/privacy.html).  
- 
-  * Additionally, certain third parties (such as companies that run certain fantasy games on the website, and/or companies that run certain public forums like NHL Connect) may collect personal information from you and share some of the personal information with us. On these parts of the website, you will see additional information about the privacy practices of the companies who actually collect the data, including information on how to opt out of having these companies use your personal information for purposes unrelated to providing you the services that you are requesting from the website. These companies and not the NHL Parties are responsible for the treatment of your information by these companies.
-  * Web sites of NHL member teams may also collect personal information from you.  These NHL member team web sites contain privacy polices (sometimes referred to as privacy statements) that you should review to understand how the applicable NHL member teams may use your information.  The NHL member teams and not the NHL Parties are responsible for the treatment of your information by the NHL member teams.  If you choose to register for any NHL member team web sites at the same time as you register for one of our web sites, the terms of the Privacy Policies for such NHL member team web sites are incorporated herein by reference.
+By using our Services, you consent to the practices described in this Privacy Policy. If you have any questions about this Privacy Policy, please contact us at [NHL.com/contact](http://www.nhl.com/ice/feedback.htm?pageRef=/) (and select "Privacy" in the subject line) or as described under Contact Us below.
 
+**1. _Information We Collect and Receive_**
 
+We collect and receive the following types of information:
 
-**Use and Disclosure of Personal Information**
-
-  * We may use your personal information such as your name, home address and e-mail address to send marketing communications to you. We may use other personal information you provide, such as your favorite NHL team, to send you particular communications that we believe will be of interest to you. We may also share personal information amongst the NHL Parties and with the member teams of the National Hockey League for this same purpose. The NHL teams have informed us that they will enable you to opt out of receiving information from them. While most of our fans appreciate receiving marketing communications and having their personal information shared with NHL teams, we respect the right of each fan to control how his or her personal information is used. If you do not want us to provide your personal information to our teams, or if you do not wish to receive marketing communications from us, you can opt out when the personal information is collected.  In addition, if you are receiving marketing communications from us us and wish to unsubscribe, you can do so by following the opt out instructions contained in the marketing communications you receive from us. For example, each of our marketing email messages contains an unsubscribe link that you can use to opt out of receiving marketing communications.  Additionally, you can opt not to receive information from the NHL Parties at any time by logging into your account at NHL.com and adjusting your email preferences by clicking on "MY ACCOUNT" or going to <https://account.nhl.com/registeredfanemailpreferences.htm>; if you do not have an account at NHL.com, you can register at <https://account.nhl.com/registeredfancreateaccount.htm>, and then set your email preferences accordingly.   
- 
-  * We may also use your personal information such as your name, home address and e-mail address to send you offers from our marketing partners and other business partners, and we may share such personal information with certain of these partners so that they may send you offers directly, if you have opted to receive information from such partners. In addition, if you are a customer of our Shop residing in the U.S., and have opted to have us do so, we may furnish your personal information to entities ("Market Researchers") we believe to be trustworthy that may use this information to identify you as a prospect for one or more of the Market Researchers' customers. If they so identify you, they may provide and cross-reference information, including personally identifiable information, to certain of the Market Researchers' customers, who may contact you regarding services or products that may be of interest to you.   
- 
-  * If you have opted not to receive communications from us, we may share that information with third parties who send communications relating to our products or services to ensure that you do not receive those communications.
+  * **Information You Provide Directly**. We receive the information you choose to provide when using our Services.
   
 
-  * Personal information may be used or disclosed among the NHL Parties (which includes organizations outside of Canada) for internal audit, management, billing or administrative purposes.
+  * For example, when you register for our Services, bid on or purchase products on our Services, sign up for NHL GameCenter LIVE™, sign up to receive electronic or other marketing communications, enter a contest or sweepstakes, comment on an article, communicate with customer service, or complete a questionnaire you may be asked to provide information about yourself including:
   
 
-  * We do provide personal information to agents who perform services for us or supply goods (such as fulfillment companies), including companies outside Canada. These agents are contractually prohibited from using the personal information for any purposes other than as directed by the NHL Parties, subject to requirements in relevant jurisdictions, including foreign jurisdictions, applicable to those organizations. For example, we may also share your personal information such as name, address and telephone number with certain third parties such as manufacturers of products you purchase to complete or ship your order or assist manufacturers with your questions concerning products offered by the Shop. Additionally, we employ other companies and individuals to perform functions on our behalf. We may also employ other companies (including Market Researchers) and individuals to perform functions such as fulfilling orders, customizing products, delivering packages, sending postal mail and e-mail, analyzing data, providing marketing assistance, performing credit checks and approvals, detecting fraudulent orders, processing credit card payments, collecting on delinquent accounts and providing customer service, and we may share your personal information with these companies and individuals. In addition, we may use information automatically collected from you, including the telephone number used to call customer service and information collected through cookies, for uses such as customer service and detection of fraudulent orders.
+  * Your first and last name, username, company name, mailing address, phone number, date of birth, email address, mobile phone number, payment information, favorite Member Club and Member Club players, a photograph, and/or your use of our Services.
   
 
-  * We may also use aggregated, non personally identifying information collected from you when shopping at the Shop to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and generally to improve the Shop and better tailor it to meet your needs.
+  * If you use a "share with a friend" or "invite a friend" feature on our Services, we may collect your name and email address, as well as the name and email address of the recipient. We do not use the names or email addresses submitted in these circumstances for any purpose other than sending an email on your behalf, unless we obtain your consent or the recipient's consent.
   
 
-  * Personal information may be used by the NHL Parties and disclosed to parties connected with the contemplated or actual financing, securitization, insuring, sale, assignment or other disposal of all or part of the NHL Parties or our activities or assets, including for the purpose of permitting such parties to determine whether to proceed or continue with such transaction and to fulfill reporting, inspection or audit requirements or obligations to such parties. In the event that all or part of the NHL Parties or our activities or assets is sold, assigned or otherwise disposed of, personal information we have collected will be used and disclosed by such parties for substantially the same purposes as described in this Privacy Policy.
+  * **Information We Collect or Receive When You Use Our Services**. We also may collect or receive information when you use our Services. We collect some of this information using cookies, web beacons, and other technologies. This information that we collect automatically may be combined with information that you provide us directly in order to personalize content and advertising based on your interests. Depending on how you access and use our Services, we may receive:
   
 
-  * We also use personal information for: maintaining records for reasonable periods, and generally managing and administering our activities; meeting legal, regulatory, insurance, security and processing requirements; and otherwise with consent or as permitted or required by law.
+  * _Log information_. This is information we automatically collect and store when you use our Services. It may include, for example:
   
 
-  * The NHL Parties may otherwise disclose personal information as necessary to meet legal, regulatory, insurance, audit and security requirements, with your consent, or as permitted or required by law.
+  * Information about your interactions with our Services, including the content you view, the products you bid on or purchase, the amount of time spent on our Services, the date on which you accessed our Services, and information in cookies and similar technologies.
   
 
-  * If you would like more information on our personal information sharing practices or the choices you have with regard to your data, please email [privacyemails@nhl.com](mailto:privacyemails@nhl.com).
+  * Information about how you access our Services, including your browser or operating system, your Internet Protocol ("IP") address, and the websites you visit before and after visiting our Services.
   
 
-  * Note that a third party may actually operate the Shop and use and disclose your personal information for that purpose among other purposes. The third party operator of the Shop and not the NHL Parties is responsible for the treatment of your information by the third party operator of the Shop. Information about the privacy practices of the third party operator of the Shop is on the shop.nhl.com website.
-  * NHL member teams may use and disclose your personal information in accordance with the privacy policies set forth on their web sites.  You should review the privacy policies for NHL member team web sites to understand how the NHL member teams may use your information.  The applicable NHL member team and not the NHL Parties is responsible for the treatment of your information by such NHL member team.
-
-
-
-**Cookies and Websites**
-
-  * From time to time, we may place a "cookie" on your computer. Our third party service providers and ad servers may use cookies as well. A cookie is a file written to your computer's hard drive that records certain technical information about your Internet usage, such as your IP address, computer and connection information such as browser type and version, operating system and platform and domain name. In addition, if you visit our Shop, we may also use cookies to collect information such as purchase history, Uniform Resource Locators (URLs), clickstream to, through and from the Shop, including date and time, cookie number and products you viewed or searched for, as well as to hold selections in a shopping cart when you leave the Shop without checking out. (Note that a third party may operate the Shop. The third party operator of the Shop and not the NHL Parties is responsible for the treatment of your information by the third party operator of the Shop. Information about the privacy practices of the third party operator of the Shop is on the shop.nhl.com website.) If you submit personal information to our web site (such as your name, interests or preferences), we may use cookies to keep track of such information so that you will not need to reenter this information during subsequent visits. We use cookies to enable features such as our QuickPoll, our Shop, contest administration and for other internal site administration purposes. In addition, our ad servers may use non-personally identifiable information about your visits to this and other web sites to customize delivery of advertisements to this and other web sites. You may elect not to have such information used by our ad servers for such purpose by opting out at the web site located at <http://www.networkadvertising.org/optout_nonppii.asp>. You may also set your Internet browser preferences to notify you when you receive a cookie or decline acceptance of cookies. If you decline acceptance of cookies, however, you may experience less than optimal performance of our web site.
+  * _Device information_. This is information we automatically collect and store concerning the device you use when you access our Services. (Note that by "device," we mean anything you use to access our Services). Device information may include, for example:
   
 
-  * Web servers operated by us, and by third party service providers and advertisers, may automatically collect non-personal information about which pages you visit, as well as your IP address or domain name. We may use this information for various purposes, such as tailoring our web site content, targeting promotional messages, and assessing the amount of traffic to various parts of our web site. We may also provide this information on an aggregated, anonymous basis to our marketing partners and/or advertisers.
+  * The type of device you are using (e.g., your particular brand of phone or tablet);
   
 
-  * We use third party analytics service providers to analyze the user experience on our websites by incorporating tracking pixels, agents or any other visitor identification technology that collects anonymous data. No personally identifiable information is ever collected from these analytics service providers. This analysis is performed using anonymous data collected from our websites.
-
-
-  * Consent may be given by your authorized representative (such as a legal guardian or a person having a power of attorney). When you voluntarily provide us with your personal information, we assume you consent to its collection, use and disclosure in accordance with this Privacy Policy and as described at the time of collection, subject to any uses and disclosures you have opted not to participate in. In some circumstances, we may expressly request your consent to the collection, use or disclosure of your personal information or provide you with an opportunity to opt out of certain uses or disclosures of your personal information. In some limited circumstances where permitted or required by law, we may collect, use or disclose your personal information without your consent, for example, to collect a debt that you owe to us, to comply with a court order or to comply with local or federal regulations or a legally permitted inquiry by a government agency. You may withdraw your consent to our collection, use and disclosure of personal information at any time, subject to contractual and legal restrictions and reasonable notice. Note that if you withdraw your consent to certain uses of your personal information, we may no longer be able to provide certain of our products or services.
-
-
-
-**Security**
-
-  * We have adopted reasonable security measures, appropriate to the sensitivity of the personal information, against unauthorized access, disclosure, loss or destruction of personal information. These measures may include technological, physical and organizational methods of security.
-
-
-
-**Access, Correction and Contacting Us**
-
-  * We maintain a file of the personal information you provide, which is accessible at NHL Interactive CyberEnterprises, LLC, 1185 Avenue of the Americas, 11th Floor, New York, NY 10036. Only authorized employees and agents of the NHL Parties who need access to your personal information in the course of their duties will have access to the information. Upon written request, you have the right to access your file and to challenge or request correction of any erroneous or out-of-date personal information about you that is in our possession or control. In some limited circumstances, we may not be able to grant you access to your information, for example, if doing so would threaten the security of another individual. If you wish to access your personal information in the possession/control of the NHL Parties or make corrections to it, please send an e-mail to [privacyemails@nhl.com](mailto:privacyemails@nhl.com).
+  * Certain device identifiers which may be unique to your device; and
   
 
-  * If you have any comments, complaints or questions about our privacy or security practices or about your information that is in our possession/control, including its accuracy or integrity, or if you wish to change your preferences as to how we use the information, please send an e-mail to Privacy Director at [privacyemails@nhl.com](mailto:privacyemails@nhl.com).
+  * Your Internet service provider.
   
 
-  * Please note that the nhl.com, nhl.tv and nhlnetwork.com websites contains links to websites that are not operated by the NHL Parties. We are not responsible for the privacy practices or the content of such websites, and we recommend that you view the privacy policy posted on each site that you use to confirm that the site's policies are acceptable to you.
+  * _Location information_. This information may include specific location information drawn from your device's GPS or Bluetooth signal and information about nearby WiFi networks and cell towers. We receive this information when you use location-enabled services.
   
 
-  * The nhl.com, nhl.tv and nhlnetwork.com websites are operated by NHL Interactive CyberEnterprises, LLC, for the benefit of the National Hockey League member teams, our affiliates and corporate sponsors. All questions about our policies related to children's personal information and our personal information sharing practices should be directed to NHL ICE at [privacyemails@nhl.com](mailto:privacyemails@nhl.com).
-
-
-
-**Your California Privacy Rights**
-
-  * Pursuant to California law, certain customers who are California residents have a right to prevent disclosure to third parties for their direct marketing purposes of the customer’s personal information that he/she provided to us. Those customers may do so by filling out the form on <http://nhl.ed4.net/enroll/login.cfm> to update their profile, and we extend this right to all other customers as well.
-
-
-
-**Changes to Privacy Policy**
-
-  * The NHL Parties reserve the right to modify this Privacy Policy at any time. If this Privacy Policy is modified, we will post the modified Privacy Policy and the date of the modification on this website. Please review this Privacy Policy from time to time to ensure your familiarity with its terms. Your continued use of the nhl.com, nhl.tv and nhlnetwork.com website constitutes your acceptance of the terms of this Privacy Policy, as amended from time to time. This Privacy Policy relates to all on-line and off-line activities of the NHL Parties. 
-
-
-
-**Children's Privacy Statement (users under 13 years old)**
-
-  * We take our responsibilities to our younger visitors seriously. It is the intention of NHL ICE, the operator of this website, and the other NHL Parties to fully comply with the requirements of the Children's Online Privacy Protection Act and the Guidelines promulgated by the Children's Advertising Review Unit of the Better Business Bureau.
+  * _Information from third-party sources_. We may receive additional information about you from Member Clubs and information about you that is publicly or commercially available, and we may combine that with the information we have collected or received about you in other ways. Also, we receive information about you when you choose to connect with social networking services while using our Services. Learn more about social networking services **here**.
   
 
-  * In general, we do not knowingly collect personal information from children under 13 ("children") via the website, and we use age screening mechanisms to help prevent children from posting personal information on the website, such as in our fan chat rooms. We do not require children to register or to otherwise disclose personal information to participate in the activities in any KIDS section(s) of our website.
+
+
+**2. _How We Use the Information We Collect or Receive_**
+
+We use the information we collect and receive for the following purposes:
+
+  * **To provide our Services**. We use the information we collect or receive to provide you with the Services you use or request. For example, we use this information to:
   
 
-  * From time to time, we may offer children the opportunity to enter promotions or contests. In those cases, the child will be asked only to provide an email address, as well as his or her parent's email address. Upon receipt of the information, we will send an email to the parent indicating that the child has registered, providing information on the program and giving instruction on how the parent can remove the child from the promotion or contest. We will then use the information only to notify the contest winners and their parents that they have won. We require that the winner's parent provide us with all information needed to award the prize. Information collected during the contest will not be used or stored after the contest ends, other than as needed for legal requirements in connection with the promotion. In no event will NHL.com collect any personal information from children in connection with an on-line contest or promotion other than email address and parent's email address. In no event will NHL.com use the personal information other than for purposes of awarding contest prizes.
+  * Create accounts;
   
 
-  * We may also post information on the website about other promotions or contests that are open to children but that require other personal information (such as home address or favorite hockey team) to enter. For these contests, children will be required to print a paper entry form from the website and have their parents sign and mail or fax the form to us. Children are not permitted to independently provide personal information via the website or to enter these contests online.
+  * Process transactions;
+  
+
+  * Provide technical support and respond to user inquiries;
+  
+
+  * Send you electronic and other marketing communications that may be tailored to your preferences and interests;
+  
+
+  * Administer your participation in our contests, sweepstakes, fantasy or interactive games, or other promotions;
+  
+
+  * Notify you about updates to our Services or send other communications that are relevant to your use of our Services; and
+  
+
+  * Enhance our ability to detect and prevent fraud and potentially illegal activities in connection with our Services and otherwise enforce our [Terms of Service](http://www.nhl.com/ice/page.htm?id=26389).
+  
+
+  * **To improve our Services**. We also use the information we collect or receive to provide content you may find relevant and interesting and to maintain and upgrade the operation of our Services. For example, we may use this information to:
+  
+
+  * Solicit input and feedback about our Services;
+  
+
+  * Identify and address technical issues on our Services; and
+  
+
+  * Customize your experiences based on location information or your online activities, including the content you view, the products you bid on or purchase, other Services of ours you use, and other information we collect or receive.
+  
+
+  * **To provide effective advertising and marketing**. We also use the information we collect and receive to provide ads for our Services and certain third-party services and to send you promotional communications. For example, we may use this information:
+  
+
+  * To show you ads (on and off our Services) based on location information or your online activities, including the content you view, the products you bid on or purchase, the other Services of ours that you use, and other information we collect or receive.
+  
+
+  * To send you electronic and other marketing messages about the NHL, Member Clubs, or other third-party business partners that may be tailored to your preferences and interests -- for example, content related to your favorite Member Club. (Please see below for **your choices** in connection with promotional messages).
+  
 
 
 
-Last updated as of March 14, 2010
+**3. _How We Share the Information We Collect or Receive_**
+
+We may share information we collect or receive with third parties when we have your consent or as described below.
+
+We may share information with the following types of third parties:
+
+  * **Our affiliates**. We may share information with "affiliates," a term that includes our parent and subsidiary companies, joint venture partners, or other companies we control, are controlled by, or with which we are under common control. You can view a list of our affiliates [**here**](http://www.nhl.com/ice/page.htm?id=98703).
+  
+
+  * **Our service providers**. We may provide information about you to service providers that perform certain functions or services on our behalf (for example, hosting our Services, storing our data, fulfilling orders, providing products and services, managing databases, performing analyses, processing credit card payments, providing customer service, or sending communications for us). These companies are contractually limited in the ways in which they may use this information.
+  
+
+  * **Our business partners**. With your consent, we may share information about you with select business partners that are not service providers, such as our sponsors, our broadcast partners, and our retail licensees, so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. Business partners are expected to protect the confidentiality, integrity, and security of any information we share with them. However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes. You can view a list of some of our key business partners [**here**](http://www.nhl.com/ice/page.htm?id=98703#partners).
+  
+
+  * **Member Clubs**. We may share information about you with our Member Clubs (including your contact information, demographic information, and information about your interactions with the NHL), and our Member Clubs may use this information for purposes including: providing you with special offers, promotional materials, and other information that may be relevant to you, improving their products and services, and performing internal analysis. Where required by applicable law, we will seek your consent before sharing your information with the Member Clubs for promotional purposes. Please note that Member Clubs' websites and services are not controlled by the NHL and are subject to their own individual privacy policies. We are not responsible for the privacy practices of Member Clubs. You can view a list of our Member Clubs [**here**](http://www.nhl.com/ice/page.htm?id=98703).
+  
+
+  * **Other parties in response to legal process or when necessary to protect us or our Services**. We may disclose your information -- including the contents of your communications -- to other parties when required or permitted by applicable law, such as when we have a good faith belief that:
+  
+
+  * Doing so is necessary to respond to lawful governmental requests or legal process (for example, a court order, search warrant, or subpoena);
+  
+
+  * The information is relevant to a crime that has been or is being committed;
+  
+
+  * An emergency exists that poses a threat to your safety or the safety of another person or persons; or
+  
+
+  * Doing so is necessary to protect our rights or property or to enforce our Terms of Service.
+  
+
+  * **Other parties in connection with certain business transactions**. In the event that the ownership of the NHL (or any portion of our assets) changes as a result of a merger, acquisition, or in the unlikely event of a bankruptcy, your information may be transferred to another entity. If such a transaction occurs, we will notify you in an update to this Privacy Policy or through another appropriate means.
+  
+
+  * **Interactive features**. We may share information with third parties when you post information to a public user profile or a public area of our Services, such as a chat room, forum, blog, or other community tool. If you post information to these interactive features, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure that parties who have access to such information will respect your privacy. Please exercise caution when using these features.
+  
+
+
+
+**4. _Third Parties That Provide Content, Advertising, or Functionality On Our Services_**
+
+Some of the content, advertising, and functionality on our Services may be provided by third parties that are not affiliated with us. Such third parties include, for example:
+
+  * **Content providers** , which may operate contests, sweepstakes, fantasy or interactive games, or public forums on our Services;
+  
+
+  * **Retail companies** (such as those that operate our Shop and Auctions services), which may process transactions, provide customer service, and perform other related functions;
+  
+
+  * **Advertising providers** , which help us and our advertisers provide ads (on our Services or elsewhere online) that are tailored to users' interests and understand users' response to those ads;
+  
+
+  * **Audience-measurement companies** , which help us measure the overall usage of our Services and compare that usage to other online services; and
+  
+
+  * **Social networking services** (such as Facebook, Twitter, and Google+), which enable you to log in to certain of our Services, to comment on content available on our Services, and to share things you find on our Services with your social network.
+  
+
+
+
+These and other third parties may collect or receive information about your use of our Services, including through the use of **cookies, web beacons, and other technologies**, and this information may be collected over time and combined with information collected on different websites and online services. Social networking services may be able to collect information about you, even if you do not click on or interact with their content on our Services or have an account with the social networking service.
+
+Note that some of these companies participate in industry-developed programs designed to provide consumers with choices about whether to receive targeted ads. To learn more and to opt-out of such targeted advertising, please visit the websites of the [**Network Advertising Initiative**](http://www.networkadvertising.org/choices/), the [**Digital Advertising Alliance**](http://www.aboutads.info/), and the [**Digital Advertising Alliance of Canada**](http://youradchoices.ca/).
+
+The third party social networking services with which we partner may notify your friends and other connections, both on our Services and on the social networking services themselves, that you are a user of our Services or about your use of our Services. If you choose to access or make use of third-party social networking services, we may receive information about you that you have made available to those social networking services, including information about your friends and other contacts on those social networking services. We may use the information pursuant to this Privacy Policy, but the main purpose for our use is to enhance your personal and social experience on our Services. For example, we might show you content that is popular among your friends or connections on a social networking service or provide you with a snapshot of the responses of your friends and other connections to that content.
+
+You also may be able to link an account from a social networking service to an account through our Services. This may allow you to use your credentials from the other site or service to sign in to certain features on our Services. If you link your account from a third-party site or service, we may collect information from those third-party accounts, and any information that we collect will be governed by this Privacy Policy.
+
+**5. _Notice to Rogers Communications Subscribers_**
+
+If you access NHL GameCenter LIVE™ (also referred to as GameCentre LIVE) by logging into your account with Rogers Communications Partnership, Rogers Communications Partnership and its affiliates ("Rogers") may receive information from the NHL about your use of NHL GameCenter LIVE™, such as the type of content watched, dates of activity, amount of time spent on NHL GameCenter LIVE™, and type of device used to access NHL GameCenter LIVE™. Rogers will use this information for the purposes of offering and operating NHL GameCenter LIVE™ in Canada, tailoring communications to you, and understanding and improving its products and service offerings. Rogers will use and handle the information it receives in connection with NHL GameCenter LIVE™ in accordance with the Rogers privacy policy available at [http://www.rogers.com/web/content/Privacy-Policy](http://www.rogers.com/web/content/Privacy-Policy) and not with this Privacy Policy. In addition, when you use your MyRogers login to access NHL GameCenter LIVE™ or other NHL content, the NHL will receive certain account-related information from Rogers (such as your name, username, contact information and type of subscription) and will use it in accordance with this privacy policy.
+
+**6. _"Do Not Track" Signals_**
+
+Some web browsers may transmit "do not track" signals to the websites and other online services with which the browser communicates. There is no standard that governs what, if anything, websites and online services should do when they receive these signals. We currently do not take action in response to these signals. If and when a standard for responding is established, we may revisit our policy on responding to these signals.
+
+**7. _Your Choices_**
+
+You have a number of choices about how we handle information we collect or receive about you. Please note that it may take up to ten business days to process your requests.
+
+  * _Email_. You may opt out of receiving future promotional email communications from us by clicking the "Unsubscribe" link in the footer of email communications and updating your preferences. Please note that we may continue to send you transactional or service-related emails regarding your account.
+  
+
+  * _SMS and MMS_. You may opt out of receiving promotional SMS and MMS messages (i.e., text messages) from us by replying "STOP" to any message, which is free of charge. Please note that we may respond to your opt-out request with a free message confirming that you have successfully opted out.
+  
+
+  * _Direct Mail_. You may opt out of receiving direct mail communications from us (for example, Shop catalogs) by completing our direct mail unsubscribe form [**here**](http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef17478b45d50d1f2b5fde96f49ae812dabeb6853331239b78).
+  
+
+  * _Disclosure of Personally Identifiable Information to Third Parties_. You can opt out of having your personally identifiable information shared with third parties for those third parties' direct marketing purposes by filling out the following form: [NHL.com/contact](http://www.nhl.com/ice/feedback.htm?pageRef=/). Please select the "Privacy" option in the subject line and include your first name, last name, and email address in the body of the email. You may also contact us as set out in the Contact Us section below.
+  
+
+  * _Access, Update, or Correct Information_. In accordance with applicable law, you may have the right to access, update, or correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. If you would like to access, review, or update your information, please contact us at [NHL.com/contact](http://www.nhl.com/ice/feedback.htm?pageRef=/). Please select the "Privacy" option in the subject line and include your first name, last name, and email address in the body of the email. You may also contact us as set out in the Contact Us section below.
+  
+
+  * Tailored Advertising. Some of the companies that provide advertising services on our Services may participate in industry-developed programs designed to provide consumers with choices about whether to receive tailored ads that are based on your online activities. To learn more and to opt-out of such targeted advertising, please visit the websites of the [**Network Advertising Initiative**](http://www.networkadvertising.org/choices/), the [**Digital Advertising Alliance**](http://www.aboutads.info/), and the [**Digital Advertising Alliance of Canada**](http://youradchoices.ca/).
+  
+
+
+
+**8. _Security_**
+
+We have adopted physical, technical, and administrative safeguards to help protect against theft, loss, misuse, and unauthorized access to or disclosure of the information we collect and receive. However, please note that no data transmission or storage can be guaranteed to be 100% secure. As a result, while we strive to protect your information and privacy, we cannot and do not guarantee or warrant the security of any information you disclose or transmit to our Services and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information, or any other disclosures out of our control.
+
+Your online access to some of your information may be protected with a password that you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls, or email messages).
+
+**9. _Children's Privacy_**
+
+Our Services do not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by the Children's Online Privacy Protection Act ("COPPA").
+
+**10. _Third Party Links_**
+
+Our Services may contain links to other sites that we do not own or operate. Also, links to our Services may be featured on third party services on which we advertise. Except as described in this Privacy Policy, we will not provide any of your personal information to these third parties without your consent. We provide links to third party services as a convenience to our users. These links are not intended as an endorsement of or referral to the linked services. The linked services should have separate and independent privacy statements, notices, and terms of use, which we recommend you read carefully. We do not have any control over such services, and therefore we have no responsibility or liability for the manner in which the entities that operate such linked services may collect, use, disclose, secure, or otherwise treat your information.
+
+**11. _International Transfers of Personal Information_**
+
+The NHL's headquarters is in the United States, and, regardless of where you use our Services or otherwise provide information to us, your information may be transferred to, maintained, and processed by the NHL, its affiliates, or our service providers in the United States. Please note that U.S. privacy laws, regulations, and standards may not be equivalent to the laws in your country of residence and such information may be subject to lawful access by U.S. courts, law enforcement, and governmental authorities. By using our Services or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to, in, and out of the United States.
+
+**12. _Changes To This Privacy Policy_**
+
+We may update this Privacy Policy from time to time to reflect changes in our privacy practices, so we encourage you to review this Privacy Policy periodically. If we make significant changes to this Privacy Policy, we will provide appropriate notice to you.
+
+**13. _Contact Us_**
+
+If you have any questions about this Privacy Policy or our privacy practices, please contact us at [NHL.com/contact](http://www.nhl.com/ice/feedback.htm?pageRef=/) and select "Privacy" for the subject line or write to us at:
+
+Senior Counsel -- Privacy   
+NHL Enterprises, L.P.  
+1185 Avenue of the Americas  
+New York, NY 10036
+
+* * *
+
+**_Cookies, Web Beacons, and Other Technologies_**
+
+Our Services use online technologies called "cookies" and "web beacons," as well as other local storage technologies. This section explains what these technologies are and how they may be used.
+
+_Cookies and Other Local Storage Technologies_
+
+Generally speaking, "cookies" are text files that are placed in your device's browser, and that can be used to help recognize your browser across different web pages, websites, and browsing sessions.
+
+Cookies are stored on your device or in "local storage." We also use other types of local storage technologies, such as Local Shared Objects (sometimes called "Flash cookies"), in connection with our Services. These technologies are similar to cookies in that they are stored on your device and can be used to maintain information about your activities and preferences.
+
+However, these other local storage technologies may use parts of your device other than your browser, which means you may not be able to control their use using the browser tools and settings you use to control browser cookies. For more information about managing Flash cookies, please visit the [**Adobe Flash Player website**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). Your browser's privacy controls may enable you to manage other types of local storage.
+
+Our Services may use cookies or other local storage technologies in combination with other information about you to enhance and personalize your experience on our Services (or elsewhere online), including:
+
+  * to help authenticate you when you use our Services;
+  
+
+  * to remember your preferences and registration information;
+  
+
+  * to enable a shopping cart;
+  
+
+  * to present and help measure and research the effectiveness of our Service, advertisements, and email communications (by determining which emails you open and act upon); and
+  
+
+  * to customize the content and advertisements provided to you through our Services.
+  
+
+
+
+_Web Beacons_
+
+Web beacons are small pieces of code placed on Web pages, videos, and in emails that can communicate information about your browser and device to a server. Beacons can be used, among other things, to count the users who visit a Web page or read an email, or to deliver a cookie to the browser of a user viewing a Web page or email.
+
+NHL.com is the official web site of the National Hockey League. NHL, the NHL Shield, the word mark and image of the Stanley Cup, Center Ice name and logo, NHL Conference logos and NHL Winter Classic name are registered trademarks and Vintage Hockey word mark and logo, Live Every Shift, Hot Off the Ice, The Game Lives Where You Do, NHL Power Play, NHL Winter Classic logo, NHL Heritage Classic name and logo, NHL Stadium Series name and logo, NHL All-Star Game logo, NHL Face-Off name and logo, NHL GameCenter, NHL GameCenter LIVE, NHL Network name and logo, NHL Mobile name and logo, NHL Radio, NHL Awards name and logo, NHL Draft name and logo, Hockey Fights Cancer, Because It's The Cup, The Biggest Assist Happens Off The Ice, NHL Green name and logo, NHL All-Access Vancouver name and logo, NHL Auctions, NHL Ice Time, Ice Time Any Time, Ice Tracker, NHL Vault, Hockey Is For Everyone, and Questions Will Become Answers are trademarks of the National Hockey League. All NHL logos and marks and NHL team logos and marks depicted herein are the property of the NHL and the respective teams and may not be reproduced without the prior written consent of NHL Enterprises, L.P. © NHL 2014. All Rights Reserved. All NHL team jerseys customized with NHL players' names and numbers are officially licensed by the NHL and the NHLPA. The Zamboni word mark and configuration of the Zamboni ice resurfacing machine are registered trademarks of Frank J. Zamboni & Co., Inc. © Frank J. Zamboni & Co., Inc. 2014. All Rights Reserved. 
