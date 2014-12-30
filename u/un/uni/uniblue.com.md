@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the uniblue.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151452id_/http%3A//www.uniblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniblue.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230104951id_/http%3A//www.uniblue.com/privacy) for the most accurate reproduction.*
 
 # Uniblue Privacy Policy
-
-_Last Updated: 28/06/2013._
 
 Uniblue is committed to safeguard the privacy of its customers and individuals who make use of our online facilities. This policy provides you with information about what data we collect and how this data is processed by us. 
 
@@ -47,7 +45,7 @@ These are advertising networks used to deliver interactive advertising campaigns
 
 While, we will only use this information to improve our products and services, we understand that you may wish to stop sending us usage information. If you would like to opt out from sending Uniblue this information, access the Manage tab in the Uniblue products. This opt-out is available only in those products that collect usage information. 
 
-When you purchase a Uniblue product from this Website, you will be required to provide personal information (including your credit card details) to one of our trusted third party retailers. Information you provide to the retailer will be processed in accordance with its privacy policy and you are therefore advised to review such policy prior to purchase. Uniblue will have access to all details on the purchase, excluding your credit card or other payment details, for authentication of license, statistical, notification and support related services. You may also access your purchase details remotely by submitting a request on our Support Website. 
+When you purchase a Uniblue product from this Website, you will be required to provide personal information (including your credit card details) to one of our trusted third party retailers. Information you provide to the retailer will be processed in accordance with its privacy policy and you are therefore advised to review such policy prior to purchase. The retailer may share your personal information with us, including but not limited to details on the purchase and any other personal information necessary for authentication of license, statistical, notification, as well as support and payment-related services. You may also access your purchase details remotely by submitting a request on our Support Website. 
 
 ### Information sharing
 
