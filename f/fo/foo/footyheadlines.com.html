@@ -1,11 +1,78 @@
-<!--The following is the downloaded HTML source of the footyheadlines.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627213322id_/http%3A//www.footyheadlines.com/p/privace-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footyheadlines.com privacy policy that was archived on 2014-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230202054id_/http%3A//www.footyheadlines.com/p/privace-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><!--6.0;http://2.bp.blogspot.com/-uS_zy1nlbKI/UidDAaTk5iI/AAAAAAAAVSM/clIIzrem-7g/s1600/current_2.jpg;http://www.peseditblog.com/2013/09/peseditcom-2013-patch-60-coming-soon.html?currentnew--><!---4.4;http://1.bp.blogspot.com/-_H-7G2mURHg/U4nr1Skm69I/AAAAAAAAXw4/CgMuta8mfCQ/s1600/current.jpg;http://www.peseditblog.com/2014/05/pesedit-com-2014-patch-4-4-released.html?SelO--><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><!--6.0;http://2.bp.blogspot.com/-uS_zy1nlbKI/UidDAaTk5iI/AAAAAAAAVSM/clIIzrem-7g/s1600/current_2.jpg;http://www.peseditblog.com/2013/09/peseditcom-2013-patch-60-coming-soon.html?currentnew--><!---4.4;http://1.bp.blogspot.com/-_H-7G2mURHg/U4nr1Skm69I/AAAAAAAAXw4/CgMuta8mfCQ/s1600/current.jpg;http://www.peseditblog.com/2014/05/pesedit-com-2014-patch-4-4-released.html?SelO--><!--|84;-;Full PES 2015 Database Launched at PES Master!;http://www.peseditblog.com/2014/11/full-pes-2015-database-launched-at-pes-master.html?selo--><head>
 <meta content="initial-scale = 1, user-scalable = no" name="viewport">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="async" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 //<![CDATA[
+//image size
+function changeImageSize(){
+var width = 748;
+var imagesArray = document.getElementsByTagName("img");
+
+for (var i=0; i<imagesArray.length;i++)
+{
+(function(image){
+if (image.parentNode.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.className.indexOf("post-body") > -1 && image.className != "kitCollToTop")
+{
+image.parentNode.removeAttribute("href");
+
+var tempwidth = image.naturalWidth;
+if (tempwidth != 0)
+{
+var size = image.naturalWidth+10;
+size = (size/width*100).toFixed(3)-1;
+
+if ((image.parentNode.previousElementSibling == null || image.parentNode.previousElementSibling.getElementsByTagName('IMG').length == 0) & (image.parentNode.nextElementSibling == null || image.parentNode.nextElementSibling.getElementsByTagName('IMG').length == 0))
+{
+	if (size > 50)
+		size = 100;
+	else size = 70;
+}
+if (size == 100) {
+	image.style.width = window.innerWidth + "px";
+	image.style.marginLeft = "-5px";
+	image.style.maxWidth = "110%";
+}
+else
+image.style.width = size + "%";
+}
+else
+{
+image.onload=function(e){
+var size=image.naturalWidth+10;
+size=(size/width*100).toFixed(3)-1;
+
+if ((image.parentNode.previousElementSibling == null || image.parentNode.previousElementSibling.getElementsByTagName('IMG').length == 0) & (image.parentNode.nextElementSibling == null || image.parentNode.nextElementSibling.getElementsByTagName('IMG').length == 0))
+{
+	if (size > 50)
+		size = 100;
+	else size = 70;
+}
+if (size == 100) {
+	image.style.width = window.innerWidth + "px";
+	image.style.marginLeft = "-5px";
+	image.style.maxWidth = "110%";
+}
+else
+image.style.width = size + "%";
+}
+}
+
+}
+
+})(imagesArray[i]);
+}
+}
+
+//image comparison
+function moveDivisor() {
+divisor = document.getElementById("divisor");
+slider = document.getElementById("slider");
+divisor.style.width = slider.value+"%";
+twentytwenty.style.left=slider.value+"%";
+}
+
 function bp_thumbnail_resize(image_url,post_title)
 {
 var image_size=90;
@@ -14,11 +81,8 @@ var default_thumbnail="http://2.bp.blogspot.com/-erTXCq61ULM/TmHYAQBZ0GI/AAAAAAA
   image_tag='<img style="width: 738px;" src="'+image_url.replace('/s72-c/','/w738/')+'" class="postthumb" alt="'+post_title+'"/>';
 if(image_url!="") return image_tag; else return "";
 }
-</script>
-<script type="text/javascript">
-//<![CDATA[
 
-function removeHtmlTag(strx,chop){ 
+function removeHtmlTag(strx,chop){
 	if(strx.indexOf("<")!=-1)
 	{
 		var s = strx.split("<"); 
@@ -53,10 +117,6 @@ function createThumbMobile(pID, postThumb, postTitle,isFirst){
   div.innerHTML = bp_thumbnail_resize_mobile(postThumb,postTitle,isFirst); 
 }
 
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
 function addBeforeH2(pID, postUrl){
 	var div = document.getElementById(pID);
 var strx=div.innerHTML;
@@ -93,10 +153,14 @@ strx=strx+'<h2>'+s[i];
     div.innerHTML = strx;
   
 }
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
+
+function trimBr(string) {
+string = string.trim();
+string = string.replace(/^<br>|<br>$/g, "");
+string = string.trim();
+return string.replace(/^<br>|<br>$/g, "");
+}
+
 function mobilePostAds(pID) {
     var div0 = document.getElementById(pID + "_0");
     var div1 = document.getElementById(pID + "_1");
@@ -108,20 +172,30 @@ function mobilePostAds(pID) {
         strx3 = "";
 
     if (strx1.indexOf("<h2>") != -1) {
+		var s0 = strx1.split("<br>");
+		strx0 = s0[0];
+		
+		strx1 = "";
+		for (var i=1; i<s0.length; i++){
+			if (i != 1)
+				strx1 += "<br>";
+			strx1 += s0[i];
+		}
+		
         var s = strx1.split("<h2>");
 		for (var i = 1; i < s.length; i++)
 		{
-			s[i]="<h2>"+s[i];
+			s[i] = "<h2>" + s[i];
 		}
+		
         if (s.length == 2) {
-            strx0 = s[0];
             var s1 = s[1].split("<br>");
 			for (var i=1;i<s1.length;i++)
 			{
 			s1[i]="<br>"+s1[i];
 			}
-			strx1 = "";
-			var half = Math.floor(s1.length * 0.67);
+			strx1 = s[0]; //"";
+			var half = Math.floor(s1.length * 0.5);
             for (var i = 0; i < half; i++) {
                 strx1 = strx1 + s1[i];
             }
@@ -129,20 +203,22 @@ function mobilePostAds(pID) {
                 strx2 = strx2 + s1[half + i];
             }
         } else if (s.length == 3) {
-            strx0 = s[0];
-            strx1 = s[1];
+            strx1 = s[0] + s[1];
             for (var i = 0; i < s.length - 2; i++) {
                 strx2 = strx2 + s[2 + i];
             }
         } else if (s.length > 3) {
-            strx0 = s[0];
-            strx1 = s[1];
+            strx1 = s[0] + s[1];
             strx2 = s[2];
             for (var i = 0; i < s.length - 3; i++) {
                 strx3 = strx3 + s[3 + i];
             }
         }
     } else {}
+	
+	strx1 = trimBr(strx1);
+	strx2 = trimBr(strx2);
+	strx3 = trimBr(strx3);
 
     div0.innerHTML = strx0;
     div1.innerHTML = strx1;
@@ -171,101 +247,71 @@ document.getElementById(pID).title = date.toLocaleString();
 document.getElementById(pID).innerHTML = message;
 }
 
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-function addBeforeH2PC(pID, postUrl){
-	var div = document.getElementById(pID);
-var strx=div.innerHTML;
+function desktopPostAds(pID) {
+var div0 = document.getElementById(pID + "_0");
+var div1 = document.getElementById(pID + "_1");
 
-var content = div.innerHTML;
+var strx0 = div0.innerHTML;
+var strx1 = "";
 
-	if(strx.indexOf("<br>")!=-1)
-	{
-		var s = strx.split("<br>");
-
-var int = Math.round(s.length*0.4);
-if (int > 10)
-{
-int=10;
+var s = strx0.split("<br>");
+for (var i=1; i < s.length; i++) {
+s[i] = "<br>" + s[i];
 }
 
-strx='';
-for (var i = 0; i <= int; i++)
-{
-strx=strx + s[i];
+var half = Math.round(s.length * 0.45);
 
-if (i < int)
-{
-  strx=strx+'<br>';
+if (half < 30) {
+if (half > 9) {half = 9;}
+
+strx0 = "";
+
+/*console.log(s[half - 2]);
+console.log(s[half - 1]);
+console.log(s[half]);
+console.log(s[half + 1]);
+console.log(s[half + 2]);
+console.log(s[half + 3]);*/
+
+if (s[half - 2].indexOf('h2') != -1 && s[half].indexOf('img') != -1) {
+half = half + 2;
+console.log(half);
+}
+else if (s[half - 1].indexOf('h2') != -1 && s[half + 1].indexOf('img') != -1) {
+half = half + 2;
+console.log(half);
+}
+
+for (var i = 0; i < half; i++) {
+strx0 = strx0 + s[i];
+}
+			
+for (var i = 0; i < s.length - half; i++) {
+strx1 = strx1 + s[half + i];
 }
 }
 
-	}
-else
-{
-strx='';
+else {
+s = strx0.split("<h2>");
+strx0 = s[0];
+for (var i=1; i<s.length; i++) {
+strx1 += "<h2>" + s[i];
+}
 }
 
-  var oldString=strx;
-if (oldString.lastIndexOf("<br>")>oldString.length-10)
-{
-  strx = oldString.substring(0,oldString.lastIndexOf("<br>"));
-}	
-    div.innerHTML = strx;
-  
+div0.innerHTML = trimBr(strx0);
+div1.innerHTML = trimBr(strx1);
 }
 
-function addAfterH2PC(pID, p2ID){
-var div2 = document.getElementById(pID);
-var div = document.getElementById(p2ID);
-var strx=div2.innerHTML;
-
-	if(strx.indexOf("<br>")!=-1)
-	{
-		var s = strx.split("<br>");
-
-var int = Math.round(s.length*0.4);
-if (int > 10)
-{
-int=10;
-}
-
-strx='';
-		for(var i=int+1;i<s.length-1;i++){
-          if (i >int+1|s[i]!=' ')
-          {
-strx=strx+s[i]+'<br>';
-          }
-		} 
-
-strx=strx+s[s.length-1];
-
-  }
-	
-  div.innerHTML = strx.replace("<br>","");
-  
-}
-
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
 function bp_thumbnail_resize_mobile(image_url,post_title,isFirst)
 {
 var image_size="s90-c";
 if (isFirst)
-{image_size="w340";}
+{image_size="w400";}
 var show_default_thumbnail=true;
 image_tag='<img src="'+image_url.replace('/s72-c/','/'+image_size+'/')+'" class="postthumb" alt="'+post_title+'"/>';
 if(image_url!="") return image_tag; else return "";
 }
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-window.Socialite=(function(f,g,d){var e=0,a=[],i={},h={},b=/^($|loaded|complete)/,j=f.encodeURIComponent;var c={settings:{},trim:function(k){return k.trim?k.trim():k.replace(/^\s+|\s+$/g,"")},hasClass:function(k,l){return(" "+k.className+" ").indexOf(" "+l+" ")!==-1},addClass:function(k,l){if(!c.hasClass(k,l)){k.className=(k.className==="")?l:k.className+" "+l}},removeClass:function(k,l){k.className=c.trim(" "+k.className+" ".replace(" "+l+" "," "))},extendObject:function(o,n,k){for(var m in n){var l=o[m]!==d;if(l&&typeof n[m]==="object"){c.extendObject(o[m],n[m],k)}else{if(k||!l){o[m]=n[m]}}}},getElements:function(l,p){var k=0,o=[],n=!!l.getElementsByClassName,m=n?l.getElementsByClassName(p):l.getElementsByTagName("*");for(;k<m.length;k++){if(n||c.hasClass(m[k],p)){o.push(m[k])}}return o},getDataAttributes:function(l,s,k){var o=0,q="",n={},p=l.attributes;for(;o<p.length;o++){var r=p[o].name,m=p[o].value;if(m.length&&r.indexOf("data-")===0){if(s){r=r.substring(5)}if(k){n[r]=m}else{q+=j(r)+"="+j(m)+"&"}}}return k?n:q},copyDataAttributes:function(p,o,n,m){var k=c.getDataAttributes(p,n,true);for(var l in k){o.setAttribute(m?l.replace(/-/g,"_"):l,k[l])}},createIframe:function(m,k){var l=g.createElement("iframe");l.style.cssText="overflow: hidden; border: none;";c.extendObject(l,{src:m,allowtransparency:"true",frameborder:"0",scrolling:"no"},true);if(k){l.onload=l.onreadystatechange=function(){if(b.test(l.readyState||"")){l.onload=l.onreadystatechange=null;c.activateInstance(k)}}}return l},networkReady:function(k){return i[k]?i[k].loaded:d},appendNetwork:function(k){if(!k||k.appended){return}if(typeof k.append==="function"&&k.append(k)===false){k.appended=k.loaded=true;c.activateAll(k);return}if(k.script){k.el=g.createElement("script");c.extendObject(k.el,k.script,true);k.el.async=true;k.el.onload=k.el.onreadystatechange=function(){if(b.test(k.el.readyState||"")){k.el.onload=k.el.onreadystatechange=null;k.loaded=true;if(typeof k.onload==="function"&&k.onload(k)===false){return}c.activateAll(k)}};g.body.appendChild(k.el)}k.appended=true},removeNetwork:function(k){if(!c.networkReady(k.name)){return false}if(k.el.parentNode){k.el.parentNode.removeChild(k.el)}return !(k.appended=k.loaded=false)},reloadNetwork:function(k){var l=i[k];if(l&&c.removeNetwork(l)){c.appendNetwork(l)}},createInstance:function(l,n){var m=true,k={el:l,uid:e++,widget:n};a.push(k);if(n.process!==d){m=(typeof n.process==="function")?n.process(k):false}if(m){c.processInstance(k)}k.el.setAttribute("data-socialite",k.uid);k.el.className="socialite "+n.name+" socialite-instance";return k},processInstance:function(k){var m=k.el;k.el=g.createElement("div");k.el.className=m.className;c.copyDataAttributes(m,k.el);if(m.nodeName.toLowerCase()==="a"&&!m.getAttribute("data-default-href")){k.el.setAttribute("data-default-href",m.getAttribute("href"))}var l=m.parentNode;l.insertBefore(k.el,m);l.removeChild(m)},activateInstance:function(k){if(k&&!k.loaded){k.loaded=true;if(typeof k.widget.activate==="function"){k.widget.activate(k)}c.addClass(k.el,"socialite-loaded");return k.onload?k.onload(k.el):null}},activateAll:function(m){if(typeof m==="string"){m=i[m]}for(var l=0;l<a.length;l++){var k=a[l];if(k.init&&k.widget.network===m){c.activateInstance(k)}}},load:function(m,n,s,p,l){m=(m&&typeof m==="object"&&m.nodeType===1)?m:g;if(!n||typeof n!=="object"){c.load(m,c.getElements(m,"socialite"),s,p,l);return}var q;if(/Array/.test(Object.prototype.toString.call(n))){for(q=0;q<n.length;q++){c.load(m,n[q],s,p,l)}return}if(n.nodeType!==1){return}if(!s||!h[s]){s=null;var o=n.className.split(" ");for(q=0;q<o.length;q++){if(h[o[q]]){s=o[q];break}}if(!s){return}}var u,r=h[s],k=parseInt(n.getAttribute("data-socialite"),10);if(!isNaN(k)){for(q=0;q<a.length;q++){if(a[q].uid===k){u=a[q];break}}}else{u=c.createInstance(n,r)}if(l||!u){return}if(!u.init){u.init=true;u.onload=(typeof p==="function")?p:null;r.init(u)}if(!r.network.appended){c.appendNetwork(r.network)}else{if(c.networkReady(r.network.name)){c.activateInstance(u)}}},activate:function(l,k,m){f.Socialite.load(null,l,k,m)},process:function(l,m,k){f.Socialite.load(l,m,k,null,true)},network:function(l,k){i[l]={name:l,el:null,appended:false,loaded:false,widgets:{}};if(k){c.extendObject(i[l],k)}},widget:function(m,k,l){l.name=m+"-"+k;if(!i[m]||h[l.name]){return}l.network=i[m];i[m].widgets[k]=h[l.name]=l},setup:function(k){c.extendObject(c.settings,k,true)}};return c})(window,window.document);(function(g,h,d,c){d.setup({facebook:{lang:"en_GB",appId:null},twitter:{lang:"en"},googleplus:{lang:"en-GB"}});d.network("facebook",{script:{src:"//connect.facebook.net/{{language}}/all.js",id:"facebook-jssdk"},append:function(o){var n=h.createElement("div"),m=d.settings.facebook,l={onlike:"edge.create",onunlike:"edge.remove",onsend:"message.send"};n.id="fb-root";h.body.appendChild(n);o.script.src=o.script.src.replace("{{language}}",m.lang);g.fbAsyncInit=function(){g.FB.init({appId:m.appId,xfbml:true});for(var p in l){if(typeof m[p]==="function"){g.FB.Event.subscribe(l[p],m[p])}}}}});var j=function(l){var m=h.createElement("div");m.className=l.widget.fbtype;d.copyDataAttributes(l.el,m);l.el.appendChild(m);if(g.FB&&g.FB.XFBML){g.FB.XFBML.parse(l.el)}};d.widget("facebook","like",{init:j,fbtype:"fb-like"});d.widget("facebook","share",{init:j,fbtype:"fb-share-button"});d.network("twitter",{script:{src:"//platform.twitter.com/widgets.js",id:"twitter-wjs",charset:"utf-8"},append:function(){var n=(typeof g.twttr!=="object"),m=d.settings.twitter,l=["click","tweet","retweet","favorite","follow"];if(n){g.twttr=(t={_e:[],ready:function(o){t._e.push(o)}})}g.twttr.ready(function(o){for(var p=0;p<l.length;p++){var q=l[p];if(typeof m["on"+q]==="function"){o.events.bind(q,m["on"+q])}}d.activateAll("twitter")});return n}});var f=function(l){var m=h.createElement("a");m.className=l.widget.name+"-button";d.copyDataAttributes(l.el,m);m.setAttribute("href",l.el.getAttribute("data-default-href"));m.setAttribute("data-lang",l.el.getAttribute("data-lang")||d.settings.twitter.lang);l.el.appendChild(m)};var a=function(l){if(g.twttr&&typeof g.twttr.widgets==="object"&&typeof g.twttr.widgets.load==="function"){g.twttr.widgets.load()}};d.widget("twitter","share",{init:f,activate:a});d.widget("twitter","follow",{init:f,activate:a});d.widget("twitter","hashtag",{init:f,activate:a});d.widget("twitter","mention",{init:f,activate:a});d.widget("twitter","embed",{process:function(l){l.innerEl=l.el;if(!l.innerEl.getAttribute("data-lang")){l.innerEl.setAttribute("data-lang",d.settings.twitter.lang)}l.el=h.createElement("div");l.el.className=l.innerEl.className;l.innerEl.className="";l.innerEl.parentNode.insertBefore(l.el,l.innerEl);l.el.appendChild(l.innerEl)},init:function(l){l.innerEl.className="twitter-tweet"},activate:a});d.network("googleplus",{script:{src:"//apis.google.com/js/plusone.js"},append:function(l){if(g.gapi){return false}g.___gcfg={lang:d.settings.googleplus.lang,parsetags:"explicit"}}});var e=function(l){var m=h.createElement("div");m.className="g-"+l.widget.gtype;d.copyDataAttributes(l.el,m);l.el.appendChild(m);l.gplusEl=m};var k=function(l,m){return(typeof m!=="function")?null:function(n){m(l.el,n)}};var b=function(l){var p=l.widget.gtype;if(g.gapi&&g.gapi[p]){var o=d.settings.googleplus,q=d.getDataAttributes(l.el,true,true),n=["onstartinteraction","onendinteraction","callback"];for(var m=0;m<n.length;m++){q[n[m]]=k(l,o[n[m]])}g.gapi[p].render(l.gplusEl,q)}};d.widget("googleplus","one",{init:e,activate:b,gtype:"plusone"});d.widget("googleplus","share",{init:e,activate:b,gtype:"plus"});d.widget("googleplus","badge",{init:e,activate:b,gtype:"plus"});d.network("linkedin",{script:{src:"//platform.linkedin.com/in.js"}});var i=function(l){var m=h.createElement("script");m.type="IN/"+l.widget.intype;d.copyDataAttributes(l.el,m);l.el.appendChild(m);if(typeof g.IN==="object"&&typeof g.IN.parse==="function"){g.IN.parse(l.el);d.activateInstance(l)}};d.widget("linkedin","share",{init:i,intype:"Share"});d.widget("linkedin","recommend",{init:i,intype:"RecommendProduct"});d.widget("linkedin","follow",{init:i,intype:"FollowCompany"})})(window,window.document,window.Socialite);(function(){var c=window._socialite;if(/Array/.test(Object.prototype.toString.call(c))){for(var b=0,a=c.length;b<a;b++){if(typeof c[b]==="function"){c[b]()}}}})();
 
 //]]>
 </script>
@@ -290,13 +336,72 @@ b[f]&&b[f].csi&&(a=Math.floor(b[f].csi().pageT),e&&0<c&&(e[g]("_tbnd",void 0,b[f
 <meta content="@Footy_Headlines" property="twitter:creator">
 <meta content="footyheadlines.com" property="twitter:domain">
 
-<!-- <link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/3841957138-widget_css_bundle.css' />
-<link type='text/css' rel='stylesheet' href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7535398437004525886&zx=27c477d3-663f-4615-a32e-93bee10b4363' />
+<!-- <link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/2435745617-widget_css_bundle.css' />
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7535398437004525886&zx=422fa3cb-4add-4f59-b79b-72fcd8ae7c07' />
 <style type='text/css'></style> -->
 <style id="page-skin-1" type="text/css"><!--
 /*
 <Variable description="secondary site color" name="sitecolor" type="color" default="#ff881f">
 */
+/* ads */
+.mobile-ad {
+margin: 0.8em 0;
+}
+/* load comments button */
+#button-disqus {
+background: #ff881f;
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+padding: 10px;
+color: #fff;
+margin-top: 10px;
+}
+/* nav-message */
+.nav-message-container {
+margin-top: 40px;
+}
+.nav-message-container-2 {
+margin-top: 81px;
+}
+.nav-message-box {
+background: #FFFFFF;
+border-bottom: 4px solid #DFDFDF;
+}
+.nav-message {
+width: 98%;
+max-width: 1130px;
+margin: 0 auto;
+padding: 15px 0;
+font-size: 25px;
+color: #9B9B9B;
+text-transform: uppercase;
+}
+.nav-message-m {
+padding: 7px 10px;
+font-size: 1.2em;
+color: #9B9B9B;
+border-bottom: 2px solid #DFDFDF;
+}
+/* sidebar footer */
+.sidebar-more-links {
+overflow: hidden;
+margin: 0;
+padding: 0;
+}
+.sidebar-more-link {
+float: left;
+margin-right: 10px;
+list-style: none;
+border: none !important;
+}
+.sidebar-more-link a, .sidebar-more-link a:link, .sidebar-more-link a:visited {
+color: #a6a6a6;
+text-decoration: none;
+}
+.sidebar-more-link a:hover {
+text-decoration: underline;
+}
 /* comment + date */
 .i {
 background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAeCAYAAADKO/UvAAAABHNCSVQICAgIfAhkiAAAAB90RVh0U29mdHdhcmUAT1BUUGlYIGlNYWdlU3R1ZGlvIDMuMLF8+2MAAAF1SURBVHic7dRPZ1xRGMfxz9zMKwhdZRtKS6Wb2c+iJIRoNZtUXkBKJMusI3QXojRKdmUIkUUoXd1VqUYJWZQQQgghhCEMkUgW909Or5ybdEZ3/XE59znP8z3Pec45TyNNU/iEOX+vNSw2sdInABbQbaRpetMnoFQyKOA/5B9DugMyugkm0esT0MNEE9/xBq/ziTG08vEWzmsgm/jRzH++5R8s5ZB1vH9MOrHCplh8DCAGOcQ0LgeB9PABv3CFn7JW8SoGaeT9BEawgfGaRTuybZ4Vhna7XWbyFPsVQAerFcgM9jBc3c4QtqsTuY7usY3gYxUyi2eR9I8j9pkw6wRvI45kJxXTbAhp1TjGMhHGJXhS43iB35G5Mi5R/zbgORp4ieXAXh5zE7vuvxstfK7YRoPxbgjZjEBGK0FVdYpBgi84qHGOAb6GkGtMebg2hU4wHxqKa3+AF+56SkxbsgL/sWD4ik8wgXd5qkX1T7Eja6PTgb3ULXJ7SRuJnsOKAAAAAElFTkSuQmCC);
@@ -562,8 +667,11 @@ background: #55ACEE;
 .tw-followbox:hover{
 background: #59b3f7;
 }
-.tw-sidebar, .fb-sidebar{
-background: url(http://4.bp.blogspot.com/-i8QLFsv6wDM/UzNQtNobfyI/AAAAAAAAWrg/6shxwL2n6no/s1600/search_facebook_twitter_fh.png);
+.in-box{
+background: #517fa4;
+}
+.in-box:hover{
+background: #598bb5;
 }
 .fb-sidebar{
 width: 12px;
@@ -583,6 +691,15 @@ background-position: 0 15px;
 top: 6px;
 left: 3px;
 }
+.in-sidebar{
+width: 15px;
+height: 15px;
+display: block;
+position: absolute;
+background-position: 0 74px;
+top: 6px;
+left: 5px;
+}
 /*comments container*/
 .comments {
 width: 738px;
@@ -593,8 +710,15 @@ margin: 29px;
 padding-top: 50px;
 z-index: -1;
 }
+.link-anchor-2{
+padding-top: 90px;
+z-index: -1;
+}
 .mobile .link-anchor{
 padding-top: 0;
+}
+.mobile .link-anchor-2 {
+padding-top: 40px;
 }
 /* lazy facebook */
 .vhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
@@ -602,7 +726,7 @@ padding-top: 0;
 display: block;
 position: relative;
 0 0 no-repeat;
-background: url('http://3.bp.blogspot.com/-G9bzOVLiExY/UzNRQ-LRYwI/AAAAAAAAWro/adc50jToIeo/s1600/fh_like_tweet.png');
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKsAAAAUCAMAAADFqj2LAAACOlBMVEX////k5ORLaLn19fXf39/6+vr+/v7MzMyJj5y7u7s/Wqf39/dJZbU+WaXz8/P4+Pnh4eH8/PxGYrE9V6JHZLT5+fk9WKNAW6f9/f3g4OD39vbj4+M7VqFKZrdHY7Li4uI9V6NKZ7hKZ7c+WKQ7VaA8VqJMabpFYa/q6uozMzNDX60ArO5JZrbo6Ojw8O/s7OxBXKrm5ubh//9BXKjn5+ft7e4Aq+3y8/Pn7vBCXqvy8vFDXqwzM2k8VZ49VqBEYK7X2NnR0dHz///CwsLd3d3u7u5BXaur3u/p6u1Co+dCXdxFYdw1TIzKysoAqOj/5Nzhwq2qaDPxyYes4vQ7U52QlqLz1s5PZ6r///kApOM5TI7v5+kziMrv799oMzOHx/C1t7vL0uafpK4vs+ZgesEAoN0AlM1Xqcjh4+Z8zOuXnKjHhzM8W6/Po6szM4XaqGjf8fPt8ciZydtpq+AAjcOa1ewAmtbw4KuXnaiHMzPfq2nE7OmLz/jw3alEWZI6ve7z9Pvl5u7tx4fw7Of19eMzaKkzM2hFX5ozhsX4zYiJjpzy08DHzuLR2OwllcDI4u1Vw+w+qdIPj8DJ5e/pxoap3Ok2VaRHZKStaTM/XrDM8/mU1fgzM2dop9hSaaxbcKu6w9wPm9E+osl7utKKwNXF3edrudcPrusPqua12ejX3+HX6Oj/49MzZaRph8q4XapHp+v///Hfu5AzaIWFaGn/8+JpaGhqamlpM2pCXc+PVaTMnJjfu4zu79OYGqqUAAAEDElEQVRIx6WXeVcSURiHL5VBIGhATFHRQjUsQcQIwUCESlJGFFqChJrlkqJtti+WZWnZvtu+7/u+fbjee2c6nc5huEHP73DvOy/zx3Muc4cZdLptzLwC0nYaETbtUeRkz6aS8kp5MVTKEKEkXD0hB9URhNpmjSkobYjQvQzlZNme8rBqfDGowuUIE5arUA5U8jCaPrvAIIICSaCQGydOLirGSoSpBtWcstVoful8vWnJEpsQVqsvnZ8/VNeSYpEjzASUG/hCX6pnW/80WtlSff5QXSeVFRm6q0kfQCKH4WMz6U1X01dg1A+lR6+me6D6K/RrQGVU+VRkfPhgu9EH9b+F6qo1af1CfTfJJRHiTFrTCvcqGLVvq1avcDdA9VcQ4aS061igczsez+zo2HH/zPaxg9esmL6xUux+jUfBdX0eV1bLCXXS5jeAK6tlwRVG7VC6B1zZ/vQo2x+LxXqgB0FA2Ya10q4a4PyOzgHNo47GxvZd985qNGWTTgTrJxk1EgwmMngiruNWSruyLMsINcMdxiM0sCuwnKxr/4FU79Ah+Ob9KIvBN6a1G8qkXXlgZ3vHhc7H7V67Nx7V4EZdsJ5vShzbum3v5ut4roN1boE2npoSVuuxrTwvz6sKrrD71ULNMcQY7gbgaoM+cR05lOqF6mcMz7iLUFgBv5O0qxM43xhv37UrbrfbG3knpi4YdTr3BaMHv36JHmzuO9h8QHXiZlScBq9ljHCOPK8quAZsAeK6mHH5mdAAMtsCtlpwhT641rrXVY30BG4gzOoA7lJdl3qWes4+9Xrjca/d7t0IR5AjwehSz7a9LVsy2T6ot1gxLeLUlMjgc6iu/hq/jriqOU59ByFDjb8GXGH0E9fU4dSPmhupXn9/GnoQ6jVgWWBZ4Ol6YifEd8IRBPygmx3O9u0bzmZghethM/2emhLD+BzqNeByuXRCbSbrq4NGrfsl7KUrxLXh2/VP35dXjcQOvHvjwlD3lgXzbCMsKl5Wp4VwKXgZxroPH6O7Pze3WHY337Js2bxfnMAVn0PdWxzDhYQ6FCIjwzG1blw1CK7M8qoGBvZWqpfhcKj3LAdmwcVz5ArwOQQuHb8MI+ys/fjj8MGmOl6/TpyWZa2vXjgc1HuWklGKrotFV2X+UP8LKhZWPO+80IFvAud8FXCE49MchXFgEb8Of/Axjzs+XsMfXVjh1OAe9b9AqVZOO/VnXU/p1Mq8obvKAP5iV1fXzq28rBCorma12TBn8Zo1a0I6A0zTdGpz/lBdp86ALPR4PBYZVAWE6mqYWWCorpHyKUUlIj4Tlkg+E3K6uQXlNiKslXrW7pZVRsYVQ0R8MYhIPWtHUGty2pwCkmwV32G6FTnp3oT+8x0GSb7D/AJUPFcyqVi/zgAAAABJRU5ErkJggg==);
 }
 .facebook-like {
 width: 81px;
@@ -660,6 +784,10 @@ display: none;
 #kitCollHeader{
 padding:0;
 margin:0;
+display: none;
+}
+.mobile #kitCollHeader {
+display: block;
 }
 #kitCollHeader li{
 display: inline-block;
@@ -751,11 +879,12 @@ background: #141414;
 width: 100%;
 height: 40px;
 position: fixed;
-z-index: 9;
+z-index: 10;
+top: 0;
 }
 #headerbarinner{
 width:98%;
-max-width: 1100px;
+max-width: 1130px;
 position: relative;
 margin: 0 auto;
 }
@@ -844,21 +973,26 @@ border-bottom: none;
 text-decoration: underline;
 }
 .nav2-outer{
-display: none;
+max-height: 0;
+overflow: hidden;
 left: 0;
 position: fixed;
 right: 0;
 top: 40px;
 background: #222;
+transition: max-height 0s .2s;
+}
+.tablet .nav2-outer{
+transition: max-height 0 0;
 }
 .nav2-container{
 width: 98%;
-max-width: 1100px;
+max-width: 1130px;
 margin: 0 auto;
 position: relative;
 }
 .normal > li:hover > .nav2-outer {
-display: block;
+max-height: 1000px;
 }
 /* nav teaser */
 .nav-teaser{
@@ -948,12 +1082,16 @@ cursor: pointer;
 position: absolute;
 top: 9px;
 right: 48px;
+background-position: 0 59px;
 }
-#submit_btn:hover {
-background-position: 21px 0;
+.open-search:hover, #submit_btn:hover {
+background-position: -21px 59px;
 }
-.open-search:hover {
-background-position: 21px 0;
+.fb-navbar:hover {
+background-position: -21px 37px;
+}
+.tw-navbar:hover {
+background-position: -21px 15px;
 }
 #search-clear {
 font-weight:bold;
@@ -961,12 +1099,16 @@ cursor:pointer;
 padding:0 2px 0 2px;
 margin:0 5px 0 5px;
 }
-#search-clear:hover{
+#search-clear: hover{
 color: #ff881f;
 }
+#submit_btn{
+background: transparent;
+background-position: 0 59px;
+}
 /* navbar social logos */
-#submit_btn, .open-search, .fb-navbar, .tw-navbar {
-background: transparent url("http://4.bp.blogspot.com/-i8QLFsv6wDM/UzNQtNobfyI/AAAAAAAAWrg/6shxwL2n6no/s1600/search_facebook_twitter_fh.png");
+#submit_btn, .open-search, .fb-navbar, .tw-navbar, .tw-sidebar, .fb-sidebar, .in-sidebar {
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEABAMAAACuXLVVAAAALVBMVEUAAAD/////oVP/iB//////iB//iB//////iB//iB//////////////iB/////nTinlAAAADXRSTlMA2BPZr7BnZzyLHIg/m2rq1wAAAvhJREFUeNrswYEAAAAAgKD9qRepAgAAAAAAAAAAAAAAAAAAALg9O3ZpIwzjOP7rNWpMokQQChXCQaG0lIooLTgEYpcuIkGh0CHQpd0E+w8coeAoiEO3gIPQQQgWHIs4dOoQikdCHB7w4KCg4fkbeu/7JudWMpTnIDyf4bJ+73kfvXBRSimllFJKKaWUUkoppZRSSgVs7QHTZPUgi42ocgPMkbFGkOXuPzcK6KGBf5rIgMXK28AFhDvdT/JHcIcisws4RIukA6KgDFQ+m4DXIfCwV4WsqF0Dtk5MwGoXmLpqQFY0byZgl3DFTOC3eEAu2YHYBbSSHaiLBxQqi5VbF/Ak3CFfPAAvOPZdgNeibcgHwANcAOBDPIAXDPssCNcMwngm5mkIzGzw0jGsj9XwCNJKnLiDcUCJQwgLmBeYa7BnEFapC1kljo9xyrEdwDa8lvQIls3+ocOX8Oz+5akPUUFsF5FrmHb3vtuFqMrt6OMh+QDshyQuw7gYYC6EMUtNSOJaGtAdL2DSJpD5DlwM/wrKmKU6ErshRLV5z13T/wM9iJrhOz+5RObe6chcViBri6NzZr4EpojWG0R9yCqyNQDQIqsJWafMcWBH4CUF7+RHAO8XSm4EeObjwIxAXseMwMqbEcgrMZfhHFCIDHQiH06eVpGB0huM7PsQVdjgR3D2q+EHiAuY/8CaJiL5gAKnAS8zCZhhjn/A2iV634S0IscYalEd8nLmAJzGWAegAf9Z+izGnPyzOA24vQ/wIYyNm/sASGOjnAaEGMskLaEGaIAGaEDmAR4SJ9HZN8AHkG+se7IVy8fue+nA9/rD18VfIKkzAB4w86KfpyZQJQq3IanNm5hn5sfwqNsEJQE+JOWYlwJmPjM7GH4lomuIOmXnDF4rk59Mltm5hEdOH6KK7PjpK6IryArYiJH+alWHrIv0e/FsNi/J2sMdxHAJriGs8N2egPG8msEJoGDOoOYCiKgLYT959IIi36AsXlAUzjnahPW0Qa+aEPYXedsNVOWJ6PUAAAAASUVORK5CYII=);
 }
 .fb-navbar {
 width: 12px;
@@ -976,9 +1118,6 @@ right: 0;
 top: 9px;
 background-position: 0 37px;
 }
-.fb-navbar:hover {
-background-position: 21px 37px;
-}
 .tw-navbar {
 width: 19px;
 height: 15px;
@@ -987,8 +1126,39 @@ right: 16px;
 top: 13px;
 background-position: 0 15px;
 }
-.tw-navbar:hover {
-background-position: 21px 15px;
+/* header bar 2 */
+.headerbar-2-container {
+width: 100%;
+background: #fff;
+position: fixed;
+top: 40px;
+border-bottom: 1px solid #ccc;
+height: 40px;
+z-index: 9;
+}
+.headerbar-2 {
+margin: 0 auto;
+padding: 0;
+width: 98%;
+max-width: 1130px;
+overflow: hidden;
+}
+.headerbar-2 li {
+float: left;
+margin-right: 10px;
+padding: 10px 0;
+padding-right: 10px;
+font-size: 16px;
+border-right: 1px solid #ccc;
+list-style: none;
+height: 20px;
+}
+.headerbar-2 li a {
+text-decoration: none;
+color: #404040;
+}
+.headerbar-2 li a:hover {
+text-decoration: underline;
 }
 body {
 background-color:rgb(240, 240, 240);
@@ -1077,16 +1247,14 @@ position: relative;
 }
 #main-wrap1 {
 width:800px;
-margin-top:40px;
 float:left;
 background:#ffffff ;
-//margin: -4px 0 22px;
 padding: 0 0 10px;
 word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
 overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
 }
 #main-page {
-width: 1100px;
+width: 1130px;
 margin-left: auto;
 margin-right: auto;
 height: 1px;
@@ -1119,14 +1287,12 @@ width: 116px;
 padding: 4px 0;
 }
 #sidebar-wrap {
-width:299px;
-margin-top:40px;
+width:330px;
 float:right;
 //margin: -4px 0 22px;
 padding: 8px 0 0;
 background:#fff;
 line-height:1.5em;
-//border-left: 1px solid rgb(240, 240, 240);
 word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
 overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
 }
@@ -1165,7 +1331,7 @@ min-width: 1116px;
 /*padding:0 0px 0px;
 margin-left: auto;
 margin-right: auto;
-width: 1100px;*/
+width: 1130px;*/
 }
 /* Posts
 ----------------------------------------------- */
@@ -1430,6 +1596,42 @@ bottom: 0;
 width: 240px;
 z-index: 1000;
 }
+/* mobile headerbar 2 */
+.mobile .headerbar-2-container {
+width: 100%;
+background: #fff;
+border-bottom: 1px solid #ccc;
+overflow-x: auto;
+position: initial;
+height: auto;
+}
+.mobile .headerbar-2 {
+margin: 0;
+padding: 0;
+overflow: hidden;
+width: 900px;
+}
+.mobile .headerbar-2 li {
+float: left;
+margin-right: 7px;
+padding: 8px 0 4px 0;
+padding-right: 7px;
+font-size: 14px;
+border-right: 1px solid #ccc;
+}
+.mobile .headerbar-2 li:first-child {
+padding-left: 7px;
+}
+.mobile .headerbar-2 li a {
+text-decoration: none;
+color: #404040;
+}
+.mobile .headerbar-2 li a:hover {
+text-decoration: underline;
+}
+.mobile .headerbar-2-container::-webkit-scrollbar {
+display: none;
+}
 /* mobile menu (navmobile) */
 .navmobile {
 margin: 0;
@@ -1461,6 +1663,9 @@ font-weight: normal;
 }
 .navmobile2 > li{
 padding: 1px 0;
+}
+.mobile .likebox {
+display: block;
 }
 /* header and navbar (mobile site)*/
 .mobile #headerbar{
@@ -1522,7 +1727,7 @@ text-decoration: none;
 }
 /*tablet navbar */
 .tablet-open > .nav2-outer  {
-display: block;
+max-height: 1000px;
 }
 .nav .tablet-open > a {
 background: #222;
@@ -1553,6 +1758,18 @@ width: 24.36%;
 padding: 0.75% 0.25%;
 border-bottom: 1px solid #ccc;
 border-right: 1px solid #ccc;
+}
+.league-table.league-table-2 li {
+width: 33.33%;
+box-sizing: border-box;
+}
+.mobile .league-table.league-table-2 li {
+width: 50%;
+}
+.league-table.league-table-2 img {
+padding: 0;
+margin: 4px 3% 0 3px;
+vertical-align: top;
 }
 .league-table img{
 padding: 0;
@@ -1619,6 +1836,7 @@ transition: background 0.2s;
 }
 .overview-table td{
 padding: 4px;
+min-width: 0;
 }
 .overview-table tr:nth-child(odd){
 background-color: #f0f0f0;
@@ -1631,12 +1849,12 @@ background: #e0e0e0;
 height: 370px;
 }
 /*responsive 1024px*/
-@media (max-width:1120px){
+@media (max-width:1180px){
 #homeButtonNF img{
 width: 62px;
 }
 #sidebar-wrap2 {
-width: 199px !important;
+width: 200px !important;
 }
 #main-page {
 width: 1000px !important;
@@ -1648,9 +1866,6 @@ min-width: 1000px !important;
 #google-search {
 margin-top: -26px !important;
 }
-#header {
-width: 1000px !important;
-}
 #footer-wrap-content {
 width: 980px;
 }
@@ -1659,7 +1874,7 @@ width: 100% !important;
 min-width: 1000px !important;
 }
 #sidebar-wrap {
-width: 199px !important;
+width: 200px !important;
 font-size: 14px !important;
 }
 #Header1_headerimg {
@@ -1806,7 +2021,6 @@ height: 12px;
 display: inline-block;
 padding: 0.4em;
 color: #fff;
-font-family: Arial;
 font-size: 12px;
 text-transform:uppercase;
 text-decoration:none;
@@ -1824,7 +2038,7 @@ width: auto;
 margin: 10px;
 }
 .mobile-index-contents {
-overflow: hidden;
+/* overflow: hidden; */
 padding-bottom: 0.6em;
 }
 .mobile-index-contents .post-body {
@@ -1850,9 +2064,11 @@ border-bottom: 1px solid #ccc;
 text-decoration: none;
 }
 .mobile-first-image {
-max-height: 10.5em;
+max-height: 190px;
 overflow: hidden;
 margin-bottom: 0.5em;
+margin-left: -5px;
+width: 103.5%;
 }
 .mobile .post img {
 margin: 0 1% 0 0;
@@ -1908,7 +2124,7 @@ padding: 0;
 margin: 0;
 }
 .mobile {
-font: 100% Arial, Helvetica !important;
+font: 100% Roboto, Arial, Helvetica !important;
 background-color: #fff !important;
 }
 .mobile .post-footer {
@@ -2003,7 +2219,7 @@ width: 100%;
 margin: 0;
 }
 .mobile #main {
-margin: 10px;
+margin: 5px;
 }
 .mobile #footer-wrap-content {
 width: auto;
@@ -2055,8 +2271,8 @@ float: left;
 margin: -1px .5em 0 0;
 }
 .mobile .postthumb  {
-float: left;
 margin: 0 .5em 0 0;
+width: 100%;
 }
 .mobile .post {
 margin: 0;
@@ -2072,7 +2288,7 @@ color: #ff881f;
 //text-decoration: underline;
 }
 .mobile img {
-max-width: 100% !important;
+/* max-width: 100%; */
 }
 .mobile .date-header {
 font-size:.9em;
@@ -2108,7 +2324,7 @@ margin: 0 0 0 10px;
 <script type="text/javascript">var a="indexOf",b="&m=1",e="(^|&)m=",f="?",g="?m=1";function h(){var c=window.location.href,d=c.split(f);switch(d.length){case 1:return c+g;case 2:return 0<=d[1].search(e)?null:c+b;default:return null}}var k=navigator.userAgent;if(-1!=k[a]("Mobile")&&-1!=k[a]("WebKit")&&-1==k[a]("iPad")||-1!=k[a]("Opera Mini")||-1!=k[a]("IEMobile")){var l=h();l&&window.location.replace(l)};
 </script><script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('headEnd');
-</script><script type="text/javascript" async="" src="http://footyheadlines.disqus.com/blogger_index.js"></script></head>
+</script></head>
 <body class="loading">
 <div id="outer-wrapper">
 <div class="mobile-nav section" id="mobile-nav">
@@ -2118,7 +2334,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="header section" id="header"><div class="widget Header" id="Header1">
 <div id="headerbar">
 <div id="headerbarinner">
-<a href="http://www.footyheadlines.com/" id="siteLogo"><img src="http://1.bp.blogspot.com/-vPhh_ZE2PDI/UzNOuxWtuGI/AAAAAAAAWrM/rSSywuRjqyY/s1600/footy_headlines.png"></a>
+<a href="http://www.footyheadlines.com/" id="siteLogo"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAAAaBAMAAAATV059AAAAKlBMVEUAAAD/iB//iB//iB//iB//iB//iB//iB//iB//iB//iB//iB//iB//iB+O0wt8AAAADXRSTlMAd/0bwaJEZtWIVTPpJ4y32gAAAotJREFUSMed1k1q20AUwPFnUtuxHYNFAt1Ud3A2hS4M6QEM7qJLgTYt9COQCxhygYCh60AuEPAFAll000VAQpI/Ev/vUo00jTX4RaYRWPK8eZ6fx/LojQAwkNNxeiwiByd8HLYA4CcLkT73eRjMu6gPkJp2GYDfx2VncW7ATHzkX9qHcd5tgR7AXOQOeLLAN2ITmO0CB8CwHIcbB7isAG1gM7fACCApPgnvS+A7K8nzb3aBFhBaIHGApAKMwIjgeV7okwXEJuUzHHueiQ7N1wyQKhB73lsxaQzEtALWDvBoAJt2bcZ8tN1X3HRZyWEeuM3VMhqY+WcOEIk5msBETKvNygHWJRA9j1nxhaLLvCzgM+sRK8AbrjiziTjApgKYOGkdMOKyQaIAfXwiFWD4P8ARSZN7BRhxQqIDF1VgLl9/1AEdHvvMFOCcLyw0IGOyBQIm+bkOaLG+I1SAKacsNWBJtAWmLPcAwipPVwCfNrEGJDxtgSOY7wECrjILeJ5v10E+pfGqRaoB0UOcAzatRTEFgOgFYApLCwAGAAYiD9kBGxUIMgPYtClc1AMjSDSAWEAFbqkAbVjWA4dwqQA9ljJmrgEjxlvATCEsft7BC0AHZspN7rIwjxENOMSOUhxtuK+9yS0IFcAsb5+BBnQcwPxTawFzUYBmfpky0YCuCzTJXgO8AeBMA6QCkEoPXgP0AYhUYOwA8jpgBECiAr4CKAWnHjjnk/eOhS04LnBHpeAMu8/dTskcOMBuyfQJpUNsS6YtuhboUymZf7YV1Sn6QxfYKfrXeUaD9bboAwMLNHGLfmLHcLYtsgcYY5ZIWgIXLtDA2bYQ2jGcjdc+4KHYGm3sxssFelQ3Xukv+Qt7XSLRp3VFogAAAABJRU5ErkJggg=="></a>
 <ul class="nav normal">
 <li><a href="/search/label/Balls?max-results=6">Balls</a></li>
 <li><a href="/search/label/Boots?max-results=6">Boots</a>
@@ -2127,40 +2343,42 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <ul class="nav2">
 <li><a href="/search/label/adidas+Boots?max-results=6">Adidas</a>
 <ul class="nav3">
-<li><a href="/search/label/Adipure+adidas+Boots?max-results=4">Adipure</a></li>
-<li><a href="/search/label/AdiZero+adidas+Boots?max-results=4">Adizero</a></li>
+<li><a href="/search/label/Adipure?max-results=4">Adipure</a></li>
+<li><a href="/search/label/Adizero?max-results=4">Adizero</a></li>
 <li><a href="/search/label/Copa%20Mundial?max-results=4">Copa Mundial</a></li>
-<li><a href="/search/label/nitrocharge+adidas+Boots?max-results=4">Nitrocharge</a></li>
-<li><a href="/search/label/Predator+adidas+Boots?max-results=4">Predator</a></li>
+<li><a href="/search/label/nitrocharge?max-results=4">Nitrocharge</a></li>
+<li><a href="/search/label/Predator?max-results=4">Predator</a></li>
 </ul>
 </li>
 <li><a href="/search/label/Nike+Boots?max-results=6">Nike</a>
 <ul class="nav3">
-<li><a href="/search/label/CTR+Nike+Boots?max-results=4">CTR360</a></li>
-<li><a href="/search/label/Hypervenom+Nike+Boots?max-results=4">Hypervenom</a></li>
+<li><a href="/search/label/Hypervenom?max-results=4">Hypervenom</a></li>
 <li><a href="/search/label/Magista?max-results=4">Magista</a></li>
-<li><a href="/search/label/Mercurial Vapor+Nike+Boots?max-results=4">Mercurial Vapor</a></li>
-<li><a href="/search/label/Tiempo+Nike+Boots?max-results=4">Tiempo Legend</a></li>
+<li><a href="/search/label/Mercurial?max-results=4">Mercurial</a></li>
+<li><a href="/search/label/Tiempo?max-results=4">Tiempo</a></li>
+<li><a href="/search/label/FC 247?max-results=4">FC247</a></li>
 </ul>
 </li>
 <li><a href="/search/label/Puma+Boots?max-results=6">Puma</a>
 <ul class="nav3">
-<li><a href="/search/label/EvoSpeed+Boots?max-results=3">evoSPEED</a></li>
+<li><a href="/search/label/evoSPEED?max-results=3">evoSPEED</a></li>
 <li><a href="/search/label/evoPOWER?max-results=3">evoPOWER</a></li>
-<li><a href="/search/label/King+Boots?max-results=3">King</a></li>
+<li><a href="/search/label/King?max-results=3">King</a></li>
 </ul>
 </li>
 <li><span>Others</span>
 <ul class="nav3">
-<li><a href="/search/label/Boots+Mizuno?max-results=6">Mizuno</a></li>
-<li><a href="/search/label/Boots+Umbro?max-results=6">Umbro</a></li>
-<li><a href="/search/label/Boots+Warrior?max-results=6">Warrior</a></li>
+<li><a href="/search/label/Mizuno+Boots?max-results=6">Mizuno</a></li>
+<li><a href="/search/label/Umbro+Boots?max-results=6">Umbro</a></li>
+<li><a href="/search/label/New Balance+Boots?max-results=6">New Balance</a></li>
+<li><a href="/search/label/Warrior+Boots?max-results=6">Warrior</a></li>
+<li><a href="/search/label/Boot Watch?max-results=6">Boot Watch</a></li>
 </ul>
 </li>
 <li class="nav-more"><a href="/search/label/Boots?max-results=6">All football boots</a></li>
 </ul>
 <a href="/2013/01/2013-boot-calender-updated-11-january.html"><div class="nav-teaser">
-<div><img src="http://1.bp.blogspot.com/-Gv_fkDpGUSU/UzA34GXmXfI/AAAAAAAAWqE/3RxgenA_i-0/s1600/2014-2015-Boot-Calendar.jpg"></div>
+<div><img class="load-delay" delayedsrc="http://2.bp.blogspot.com/-TyL24fuc5I4/VEJJR5y6rBI/AAAAAAAAeA8/XlmmbPNkrAg/s1600/2014-2015-Boot-Calendar.jpg"></div>
 <strong>Football Boots Calender</strong>
 <span>All future boot releases</span>
 </div>
@@ -2172,50 +2390,52 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="nav2-outer">
 <div class="nav2-container">
 <ul class="nav2">
-<li><a href="/search/label/Kits+La Liga?max-results=6">La Liga</a>
+<li><a href="/search/label/La Liga+Kits?max-results=6">La Liga</a>
 <ul class="nav3">
 <li><a href="/search/label/Atletico+Kits?max-results=2">Atlético</a></li>
-<li><a href="/search/label/Kits+Barca?max-results=2">FC Barcelona</a></li>
-<li><a href="/search/label/Kits+Real Madrid?max-results=2">Real Madrid</a></li>
-<li><a href="/search/label/Kits+Valencia?max-results=2">Valencia</a></li>
+<li><a href="/search/label/FC Barcelona+Kits?max-results=2">FC Barcelona</a></li>
+<li><a href="/search/label/Real Madrid+Kits?max-results=2">Real Madrid</a></li>
+<li><a href="/search/label/Valencia+Kits?max-results=2">Valencia</a></li>
 </ul>
 </li>
-<li><a href="/search/label/Kits+Premier League?max-results=6">Premier League</a>
+<li><a href="/search/label/Premier League+Kits?max-results=6">Premier League</a>
 <ul class="nav3">
-<li><a href="/search/label/Kits+Arsenal?max-results=2">Arsenal FC</a></li>
-<li><a href="/search/label/Kits+Chelsea?max-results=2">Chelsea FC</a></li>
-<li><a href="/search/label/Kits+Liverpool?max-results=2">Liverpool FC</a></li>
-<li><a href="/search/label/Kits+Manchester City?max-results=2">Manchester City</a></li>
-<li><a href="/search/label/Kits+Manchester United?max-results=2">Manchester United</a></li>
+<li><a href="/search/label/Arsenal+Kits?max-results=2">Arsenal FC</a></li>
+<li><a href="/search/label/Chelsea+Kits?max-results=2">Chelsea FC</a></li>
+<li><a href="/search/label/Liverpool+Kits?max-results=2">Liverpool FC</a></li>
+<li><a href="/search/label/Manchester City+Kits?max-results=2">Manchester City</a></li>
+<li><a href="/search/label/Manchester United+Kits?max-results=2">Manchester United</a></li>
 </ul>
 </li>
-<li><a href="/search/label/Kits+Serie A?max-results=6">Serie A</a>
+<li><a href="/search/label/Serie A+Kits?max-results=6">Serie A</a>
 <ul class="nav3">
-<li><a href="/search/label/Kits+Inter?max-results=2">Inter</a></li>
-<li><a href="/search/label/Kits+Juventus?max-results=2">Juventus</a></li>
-<li><a href="/search/label/Kits+Milan?max-results=2">AC Milan</a></li>
+<li><a href="/search/label/Inter+Kits?max-results=2">Inter</a></li>
+<li><a href="/search/label/Juventus+Kits?max-results=2">Juventus</a></li>
+<li><a href="/search/label/Milan+Kits?max-results=2">AC Milan</a></li>
+<li><a href="/search/label/AS Roma+Kits?max-results=2">AS Roma</a></li>
 </ul>
 </li>
-<li><a href="/search/label/Kits+Bundesliga?max-results=6">Bundesliga</a>
+<li><a href="/search/label/Bundesliga+Kits?max-results=6">Bundesliga</a>
 <ul class="nav3">
-<li><a href="/search/label/Kits+Bayern Munich?max-results=2">Bayern München</a></li>
-<li><a href="/search/label/Kits+Dortmund?max-results=2">Dortmund</a></li>
-<li><a href="/search/label/Kits+Schalke?max-results=2">Schalke 04</a></li>
+<li><a href="/search/label/Bayern Munich+Kits?max-results=2">Bayern München</a></li>
+<li><a href="/search/label/Dortmund+Kits?max-results=2">Dortmund</a></li>
+<li><a href="/search/label/Schalke+Kits?max-results=2">Schalke 04</a></li>
 </ul>
 </li>
 <li><span>Others</span>
 <ul class="nav3">
-<li><a href="/search/label/Kits+Ligue 1?max-results=6">Ligue 1</a></li>
-<li><a href="/search/label/Kits+MLS?max-results=6">MLS</a></li>
-<li><a href="/search/label/Kits+Brasileirão?max-results=6">Brasileirao</a></li>
-<li><a href="/search/label/Kits+Championship?max-results=6">Championship</a></li>
-<li><a href="/search/label/Kits+International?max-results=6"><b>National Teams</b></a></li>
+<li><a href="/search/label/Ligue 1+Kits?max-results=6">Ligue 1</a></li>
+<li><a href="/search/label/MLS+Kits?max-results=6">MLS</a></li>
+<li><a href="/search/label/Brasileirão+Kits?max-results=6">Brasileirao</a></li>
+<li><a href="/search/label/Championship+Kits?max-results=6">Championship</a></li>
+<li><a href="/search/label/International+Kits?max-results=6"><b>National Teams</b></a></li>
+<li><a href="/search/label/Sponsorship?max-results=6">Sponsorship</a></li>
 </ul>
 </li>
 <li class="nav-more"><a href="/search/label/Kits?max-results=6">All kits</a></li>
 </ul>
 <a href="/2014/02/2014-15-kit-overview-leaked-14-15-kits.html"><div class="nav-teaser">
-<div><img src="http://1.bp.blogspot.com/-5cpElsVUHPg/UzNN4X9FgoI/AAAAAAAAWrE/7zlGmrHSWh8/s1600/2014-2015-Kit-Overview.jpg"></div>
+<div><img class="load-delay" delayedsrc="http://1.bp.blogspot.com/-5cpElsVUHPg/UzNN4X9FgoI/AAAAAAAAWrE/7zlGmrHSWh8/s1600/2014-2015-Kit-Overview.jpg"></div>
 <strong>2014-15 Kit Overview</strong>
 <span>All 14-15 Club Kits</span>
 </div>
@@ -2223,19 +2443,20 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </div>
 </div>
 </li>
-<li><a href="/2014/02/2014-15-kit-overview-leaked-14-15-kits.html">2014-15 Kit Overview</a></li>
-<li><a href="/2013/12/2014-world-cup-kits.html">2014 World Cup Kits</a></li>
+<li><a href="/2014/11/2015-copa-america-kits.html">2015 Copa America Kits</a></li>
 <li><a href="/2013/01/2013-boot-calender-updated-11-january.html">Boot Calendar</a></li>
 </ul>
 <div class="open-search" id="open-search"></div>
 <div class="google-search">
 <form action="/search" id="searchthis" method="get">
-<input class="search-box" name="q" type="text"><input name="max-results" type="hidden" value="4"><input name="by-date" type="hidden" value="true"><span id="search-clear">x</span><input id="submit_btn" type="submit" value="">
+<input class="search-box" name="q" type="text"><input name="max-results" type="hidden" value="6"><input name="by-date" type="hidden" value="false"><span id="search-clear">x</span><input id="submit_btn" type="submit" value="">
 </form>
 </div>
 <a href="https://twitter.com/Footy_Headlines" target="_blank"><div class="tw-navbar"></div></a>
 <a href="https://www.facebook.com/FootyHeadlines" target="_blank"><div class="fb-navbar"></div></a>
 </div>
+</div>
+<div class="nav-message-container">
 </div>
 </div>
 </div>
@@ -2310,24 +2531,24 @@ If you have any questions about this Privacy Policy, please feel free to contact
 </span>
 <span class="post-comment-link-container"><i class="comment-icon i"></i>
 <span class="post-comment-link">
-<a class="comment-link" href="http://www.footyheadlines.com/p/privace-policy.html#comments"></a>
+<a class="comment-link" href="http://www.footyheadlines.com/p/privace-policy.html#comments">Comments</a>
 </span>
 </span>
 <script type="text/javascript">adjustDate("timestamp-4687348093633890882");</script>
 </div>
 <div class="post-footer-line post-footer-line-2">
 </div>
+</div>
+</div>
+</div>
 <ad>
-<div style="margin-top: 15px;">
+<div style="margin: 15px 0 0 29px;">
 <ins class="adsbygoogle" data-ad-client="ca-pub-5722789279541063" data-ad-slot="7458359034" style="display:inline-block;width:728px;height:90px"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
 </ad>
-</div>
-</div>
-</div>
 
         </div></div>
       
@@ -2341,45 +2562,42 @@ If you have any questions about this Privacy Policy, please feel free to contact
 </div>
 </div>
 <!--comments (disqus)-->
-<div class="comments" id="comments"></div>
+<div class="comments" id="comments">
+</div>
 </div>
 <div id="sidebar-wrap">
 <div class="sidebar section" id="sidebartop"><div class="widget HTML" id="HTML3">
-<div class="widget-content">
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-5722789279541063";
-google_ad_host = "pub-1556223355139109";
-/* FH side */
-google_ad_slot = "6625171436";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
+<style>
+.fh-sidebar { width: 160px; height: 600px; }
+@media(min-width: 1180px) { .fh-sidebar { width: 300px; height: 600px; } }
+</style>
+<ins class="adsbygoogle fh-sidebar" data-ad-client="ca-pub-5722789279541063" data-ad-slot="3518505838" style="display:inline-block"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div>
 </div><div class="widget PopularPosts" id="PopularPosts1">
 <div class="sidebarHeader">Popular Posts</div>
 <ul>
-<li><a href="http://www.footyheadlines.com/2014/02/2014-15-kit-overview-leaked-14-15-kits.html">2014-15 Kit Overview - All Leaked and Released 14-15 Shirts</a></li>
-<li><a href="http://www.footyheadlines.com/2013/01/2013-boot-calender-updated-11-january.html">2014-2015 Boot Calendar: Updated 24/06/14</a></li>
-<li><a href="http://www.footyheadlines.com/2013/10/arsenal-14-15-2014-15-puma-home-kit.html">Arsenal 14-15 (2014-15) Puma Home, Away, Third Kits Leaked</a></li>
-<li><a href="http://www.footyheadlines.com/2014/06/new-umbro-everton-14-15-kit.html">New Umbro Everton 14-15 Home Kit Released</a></li>
-<li><a href="http://www.footyheadlines.com/2014/05/manchester-united-14-15-kits.html">Manchester United 14-15 Home and Away Kits Leaked</a></li>
-<li><a href="http://www.footyheadlines.com/2014/05/neymar-golden-dream-2014-world-cup.html">Gold Neymar 2014 World Cup Boot</a></li>
+<li><a href="http://www.footyheadlines.com/2013/01/2013-boot-calender-updated-11-january.html">2014-2015 Boot Calendar: Updated 20/12/14</a></li>
+<li><a href="http://www.footyheadlines.com/2014/12/nike-usa-2015-away-kit.html">Nike USA 2015 Away Kit Leaked</a></li>
+<li><a href="http://www.footyheadlines.com/2014/12/volt-nike-hypervenom-2015-boots.html">Volt Nike Hypervenom 2015 Boots Leaked</a></li>
+<li><a href="http://www.footyheadlines.com/2014/11/new-balance-2015-football-boots.html">New Balance 2015 Football Boots Leaked - Tech Info, Release Date, Players</a></li>
+<li><a href="http://www.footyheadlines.com/2014/12/real-madrid-15-16-kits.html">Real Madrid 15-16 Kits Info Leaked</a></li>
 </ul>
-</div><div class="widget Feed" id="Feed3">
+</div><div class="widget HTML" id="HTML11">
 <a class="likebox fb-likebox" href="https://www.facebook.com/FootyHeadlines"><span class="fb-sidebar"></span>Footy Headlines</a>
 <a class="likebox tw-followbox" href="https://twitter.com/Footy_Headlines"><span class="tw-sidebar"></span>@Footy_Headlines</a>
+</div><div class="widget Feed" id="Feed3">
 <div class="sidebarHeader">New Posts</div>
-<div class="widget-content" id="Feed3_feedItemListDisplay">
-<span style="filter: alpha(25); opacity: 0.25;">
-<a href="http://www.footyheadlines.com/feeds/posts/default">Loading...</a>
-</span>
-</div>
+<div class="widget-content" id="Feed2-inner"></div>
+</div><div class="widget HTML" id="HTML12">
+<ul class="sidebar-more-links">
+<li class="sidebar-more-link"><a href="/p/footy-headlines-contact-form.html">Contact</a></li>
+<li class="sidebar-more-link"><a href="/p/privace-policy.html">Privacy Policy</a></li>
+</ul>
 </div><div class="widget HTML" id="HTML9">
 <script type="text/javascript">
-                var disqus_shortname = 'footyheadlines';
+		                  var disqus_shortname = 'footyheadlines';
                 var disqus_blogger_current_url = "http://www.footyheadlines.com/p/privace-policy.html";
 
                 if (!disqus_blogger_current_url.length) {
@@ -2388,130 +2606,78 @@ google_ad_height = 600;
 
                 var disqus_blogger_homepage_url = "http://www.footyheadlines.com/";
                 var disqus_blogger_canonical_homepage_url = "http://www.footyheadlines.com/";
-            </script>
+		  </script>
 <style type="text/css">
-                    .post-comment-link { visibility: hidden; }
+                    /*.post-comment-link { visibility: hidden; }*/
                 </style>
-<script type="text/javascript">
-                (function() {
-                    var bloggerjs = document.createElement('script');
-                    bloggerjs.type = 'text/javascript';
-                    bloggerjs.async = true;
-                    bloggerjs.src = 'http://'+disqus_shortname+'.disqus.com/blogger_index.js';
-                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(bloggerjs);
-                })();
-
-            </script>
 </div></div>
 </div>
 </div>
 <!--above footer <div id='footer-wrap'><div id='footer-wrap-content'> <a expr:href='data:blog.homepageUrl'>Footy Headlines</a> <b:if cond='data:blog.isMobile == &quot;false&quot;'><div style='float: right;'> <a href='http://www.facebook.com/FootyHeadlines' target='_blank'><span class='footerButton' id='fbButton'/></a> <a href='https://twitter.com/Footy_Headlines' target='_blank'><span class='footerButton' id='twButton'/></a> </div></b:if> <b:if cond='data:blog.isMobile'> <br/> <a href='http://footyheadlines.com/?m=0'>Show desktop site</a> <br/> </b:if> <a class='footer-link-2' href='/p/footy-headlines-contact-form.html'>Contact</a> <b:if cond='data:blog.isMobile'><br/></b:if> <a class='footer-link-2' href='/p/privace-policy.html'>Privacy Policy</a> </div></div>-->
 </div></div>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript">
 //<![CDATA[
-function changeImageSize(){
-var width = 748;
-var imagesArray = $(".post-body").find("img");
+//recent posts widget
+function showrecentposts(json) {
+var text = "<ul>";
+  for (var i = 0; i < 5; i++) {
+    var entry = json.responseData.feed.entries[i];
+    var posttitle = entry.title;
+    var posturl = entry.link;
+    posttitle = posttitle.link(posturl);
+	text += "<li>" + posttitle + "</li>";
+}
 
-for (var i=0; i<imagesArray.length;i++)
-{
-(function(image){
-if ($(image).attr("class")!="kitCollToTop" && !($(image).parents("td").length) && $(image).parent().parent().parent().attr("class")!="league-table" && $(image).parent().parent().attr("class")!="league-table" && $(image).parent().parent().parent().parent().parent().attr("class")!="worldcup-table")
-{
-var tempwidth = image.naturalWidth;
-if (tempwidth != 0)
-{
-var size=image.naturalWidth+10;
-size=(size/width*100).toFixed(3)-1;
-if ($(image).parent().next().children("img").length == 0 & $(image).parent().prev().children("img").length == 0 & size > 60)
-	size = 100;
-if ($(image).parent().next().children("img").length == 0 & $(image).parent().prev().children("img").length == 0 & size <= 60)
-	size = 70;
-$(image).width(size+"%");
+var el = document.getElementById("Feed2-inner");
+if (el != null)
+	el.innerHTML = text + "</ul>";
 }
-else
-{
-image.onload=function(e){
-var size=image.naturalWidth+10;
-size=(size/width*100).toFixed(3)-1;
-if (size > 60)
-	size = 100;
-if ($(image).parent().next().children("img").length == 0 & $(image).parent().prev().children("img").length == 0 & size <= 60)
-	size = 70;
-$(image).width(size+"%");
-}
-}
-}
-})(imagesArray[i]);
-}
-}
+
+window.Socialite=(function(f,g,d){var e=0,a=[],i={},h={},b=/^($|loaded|complete)/,j=f.encodeURIComponent;var c={settings:{},trim:function(k){return k.trim?k.trim():k.replace(/^\s+|\s+$/g,"")},hasClass:function(k,l){return(" "+k.className+" ").indexOf(" "+l+" ")!==-1},addClass:function(k,l){if(!c.hasClass(k,l)){k.className=(k.className==="")?l:k.className+" "+l}},removeClass:function(k,l){k.className=c.trim(" "+k.className+" ".replace(" "+l+" "," "))},extendObject:function(o,n,k){for(var m in n){var l=o[m]!==d;if(l&&typeof n[m]==="object"){c.extendObject(o[m],n[m],k)}else{if(k||!l){o[m]=n[m]}}}},getElements:function(l,p){var k=0,o=[],n=!!l.getElementsByClassName,m=n?l.getElementsByClassName(p):l.getElementsByTagName("*");for(;k<m.length;k++){if(n||c.hasClass(m[k],p)){o.push(m[k])}}return o},getDataAttributes:function(l,s,k){var o=0,q="",n={},p=l.attributes;for(;o<p.length;o++){var r=p[o].name,m=p[o].value;if(m.length&&r.indexOf("data-")===0){if(s){r=r.substring(5)}if(k){n[r]=m}else{q+=j(r)+"="+j(m)+"&"}}}return k?n:q},copyDataAttributes:function(p,o,n,m){var k=c.getDataAttributes(p,n,true);for(var l in k){o.setAttribute(m?l.replace(/-/g,"_"):l,k[l])}},createIframe:function(m,k){var l=g.createElement("iframe");l.style.cssText="overflow: hidden; border: none;";c.extendObject(l,{src:m,allowtransparency:"true",frameborder:"0",scrolling:"no"},true);if(k){l.onload=l.onreadystatechange=function(){if(b.test(l.readyState||"")){l.onload=l.onreadystatechange=null;c.activateInstance(k)}}}return l},networkReady:function(k){return i[k]?i[k].loaded:d},appendNetwork:function(k){if(!k||k.appended){return}if(typeof k.append==="function"&&k.append(k)===false){k.appended=k.loaded=true;c.activateAll(k);return}if(k.script){k.el=g.createElement("script");c.extendObject(k.el,k.script,true);k.el.async=true;k.el.onload=k.el.onreadystatechange=function(){if(b.test(k.el.readyState||"")){k.el.onload=k.el.onreadystatechange=null;k.loaded=true;if(typeof k.onload==="function"&&k.onload(k)===false){return}c.activateAll(k)}};g.body.appendChild(k.el)}k.appended=true},removeNetwork:function(k){if(!c.networkReady(k.name)){return false}if(k.el.parentNode){k.el.parentNode.removeChild(k.el)}return !(k.appended=k.loaded=false)},reloadNetwork:function(k){var l=i[k];if(l&&c.removeNetwork(l)){c.appendNetwork(l)}},createInstance:function(l,n){var m=true,k={el:l,uid:e++,widget:n};a.push(k);if(n.process!==d){m=(typeof n.process==="function")?n.process(k):false}if(m){c.processInstance(k)}k.el.setAttribute("data-socialite",k.uid);k.el.className="socialite "+n.name+" socialite-instance";return k},processInstance:function(k){var m=k.el;k.el=g.createElement("div");k.el.className=m.className;c.copyDataAttributes(m,k.el);if(m.nodeName.toLowerCase()==="a"&&!m.getAttribute("data-default-href")){k.el.setAttribute("data-default-href",m.getAttribute("href"))}var l=m.parentNode;l.insertBefore(k.el,m);l.removeChild(m)},activateInstance:function(k){if(k&&!k.loaded){k.loaded=true;if(typeof k.widget.activate==="function"){k.widget.activate(k)}c.addClass(k.el,"socialite-loaded");return k.onload?k.onload(k.el):null}},activateAll:function(m){if(typeof m==="string"){m=i[m]}for(var l=0;l<a.length;l++){var k=a[l];if(k.init&&k.widget.network===m){c.activateInstance(k)}}},load:function(m,n,s,p,l){m=(m&&typeof m==="object"&&m.nodeType===1)?m:g;if(!n||typeof n!=="object"){c.load(m,c.getElements(m,"socialite"),s,p,l);return}var q;if(/Array/.test(Object.prototype.toString.call(n))){for(q=0;q<n.length;q++){c.load(m,n[q],s,p,l)}return}if(n.nodeType!==1){return}if(!s||!h[s]){s=null;var o=n.className.split(" ");for(q=0;q<o.length;q++){if(h[o[q]]){s=o[q];break}}if(!s){return}}var u,r=h[s],k=parseInt(n.getAttribute("data-socialite"),10);if(!isNaN(k)){for(q=0;q<a.length;q++){if(a[q].uid===k){u=a[q];break}}}else{u=c.createInstance(n,r)}if(l||!u){return}if(!u.init){u.init=true;u.onload=(typeof p==="function")?p:null;r.init(u)}if(!r.network.appended){c.appendNetwork(r.network)}else{if(c.networkReady(r.network.name)){c.activateInstance(u)}}},activate:function(l,k,m){f.Socialite.load(null,l,k,m)},process:function(l,m,k){f.Socialite.load(l,m,k,null,true)},network:function(l,k){i[l]={name:l,el:null,appended:false,loaded:false,widgets:{}};if(k){c.extendObject(i[l],k)}},widget:function(m,k,l){l.name=m+"-"+k;if(!i[m]||h[l.name]){return}l.network=i[m];i[m].widgets[k]=h[l.name]=l},setup:function(k){c.extendObject(c.settings,k,true)}};return c})(window,window.document);(function(g,h,d,c){d.setup({facebook:{lang:"en_GB",appId:null},twitter:{lang:"en"},googleplus:{lang:"en-GB"}});d.network("facebook",{script:{src:"//connect.facebook.net/{{language}}/all.js",id:"facebook-jssdk"},append:function(o){var n=h.createElement("div"),m=d.settings.facebook,l={onlike:"edge.create",onunlike:"edge.remove",onsend:"message.send"};n.id="fb-root";h.body.appendChild(n);o.script.src=o.script.src.replace("{{language}}",m.lang);g.fbAsyncInit=function(){g.FB.init({appId:m.appId,xfbml:true});for(var p in l){if(typeof m[p]==="function"){g.FB.Event.subscribe(l[p],m[p])}}}}});var j=function(l){var m=h.createElement("div");m.className=l.widget.fbtype;d.copyDataAttributes(l.el,m);l.el.appendChild(m);if(g.FB&&g.FB.XFBML){g.FB.XFBML.parse(l.el)}};d.widget("facebook","like",{init:j,fbtype:"fb-like"});d.widget("facebook","share",{init:j,fbtype:"fb-share-button"});d.network("twitter",{script:{src:"//platform.twitter.com/widgets.js",id:"twitter-wjs",charset:"utf-8"},append:function(){var n=(typeof g.twttr!=="object"),m=d.settings.twitter,l=["click","tweet","retweet","favorite","follow"];if(n){g.twttr=(t={_e:[],ready:function(o){t._e.push(o)}})}g.twttr.ready(function(o){for(var p=0;p<l.length;p++){var q=l[p];if(typeof m["on"+q]==="function"){o.events.bind(q,m["on"+q])}}d.activateAll("twitter")});return n}});var f=function(l){var m=h.createElement("a");m.className=l.widget.name+"-button";d.copyDataAttributes(l.el,m);m.setAttribute("href",l.el.getAttribute("data-default-href"));m.setAttribute("data-lang",l.el.getAttribute("data-lang")||d.settings.twitter.lang);l.el.appendChild(m)};var a=function(l){if(g.twttr&&typeof g.twttr.widgets==="object"&&typeof g.twttr.widgets.load==="function"){g.twttr.widgets.load()}};d.widget("twitter","share",{init:f,activate:a});d.widget("twitter","follow",{init:f,activate:a});d.widget("twitter","hashtag",{init:f,activate:a});d.widget("twitter","mention",{init:f,activate:a});d.widget("twitter","embed",{process:function(l){l.innerEl=l.el;if(!l.innerEl.getAttribute("data-lang")){l.innerEl.setAttribute("data-lang",d.settings.twitter.lang)}l.el=h.createElement("div");l.el.className=l.innerEl.className;l.innerEl.className="";l.innerEl.parentNode.insertBefore(l.el,l.innerEl);l.el.appendChild(l.innerEl)},init:function(l){l.innerEl.className="twitter-tweet"},activate:a});d.network("googleplus",{script:{src:"//apis.google.com/js/plusone.js"},append:function(l){if(g.gapi){return false}g.___gcfg={lang:d.settings.googleplus.lang,parsetags:"explicit"}}});var e=function(l){var m=h.createElement("div");m.className="g-"+l.widget.gtype;d.copyDataAttributes(l.el,m);l.el.appendChild(m);l.gplusEl=m};var k=function(l,m){return(typeof m!=="function")?null:function(n){m(l.el,n)}};var b=function(l){var p=l.widget.gtype;if(g.gapi&&g.gapi[p]){var o=d.settings.googleplus,q=d.getDataAttributes(l.el,true,true),n=["onstartinteraction","onendinteraction","callback"];for(var m=0;m<n.length;m++){q[n[m]]=k(l,o[n[m]])}g.gapi[p].render(l.gplusEl,q)}};d.widget("googleplus","one",{init:e,activate:b,gtype:"plusone"});d.widget("googleplus","share",{init:e,activate:b,gtype:"plus"});d.widget("googleplus","badge",{init:e,activate:b,gtype:"plus"});d.network("linkedin",{script:{src:"//platform.linkedin.com/in.js"}});var i=function(l){var m=h.createElement("script");m.type="IN/"+l.widget.intype;d.copyDataAttributes(l.el,m);l.el.appendChild(m);if(typeof g.IN==="object"&&typeof g.IN.parse==="function"){g.IN.parse(l.el);d.activateInstance(l)}};d.widget("linkedin","share",{init:i,intype:"Share"});d.widget("linkedin","recommend",{init:i,intype:"RecommendProduct"});d.widget("linkedin","follow",{init:i,intype:"FollowCompany"})})(window,window.document,window.Socialite);(function(){var c=window._socialite;if(/Array/.test(Object.prototype.toString.call(c))){for(var b=0,a=c.length;b<a;b++){if(typeof c[b]==="function"){c[b]()}}}})();
 //]]>
 </script>
 <script type="text/javascript">
 //<![CDATA[
-  divisor = document.getElementById("divisor");
-slider = document.getElementById("slider");
-function moveDivisor() {
-divisor.style.width = slider.value+"%";
-twentytwenty.style.left=slider.value+"%";
-}
+function getScript() {
+        var script = document.createElement('script');
+        script.src = "http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js";
+        var done = false;
+        script.onload = script.onreadystatechange = function () {
+                if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                    done = true;
 
-function comparisonImageResizer() {
-var $width=$(".post-body").width();
-var $curHeight=window.comparisonImageHeight;//$("#comparison").height();
-if ($width<738)
+//script
+
+//load normal site if device isn't mobile
+//is mobile?
+(function(a){(jQuery.browser=jQuery.browser||{}).mobile=/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))})(navigator.userAgent||navigator.vendor||window.opera);
+
+if(document.URL.indexOf("m=1") >= 0){
+
+if(!jQuery.browser.mobile)
 {
-$("#comparison").css({"width":$width+"px","height":$width/738*$curHeight+"px"});
+var url = document.URL.replace("?m=1", "").replace("&m=1", "") 
+
+window.location.replace(url);
 }
 }
 
-window.onload = function() {
-if($("#comparison").length != 0) {
-moveDivisor();
-window.comparisonImageHeight=$("#comparison").height();
-comparisonImageResizer();
-}
-};
-
-$(window).resize(function() {
-if($("#comparison").length != 0) {
-comparisonImageResizer();
-}
+//load social buttons on hover
+$(document).ready(function () {
+    Socialite.setup({
+        facebook: {
+            lang: 'en_US'
+        }
+    });
+    $( ".facebookTop").one( "mouseenter", function () {
+        Socialite.load($(this)[0]);
+    });
 });
-//]]>
-</script>
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-8645263-7']);
-  _gaq.push(['_trackPageview']);
+//related posts widget
+(function(c){c.fn.relatedPostsWidget=function(s){if(!this.size())return this;s=c.extend({},c.fn.relatedPostsWidget.defaults,s);return this.each(function(){var k=c(this),z=0,g=null,p=null,t=0,q=0,l=-1,n=-1,u=-1,r=null,v=0,w=null,A="",b=s,F=function(){if(!((l+1)*b.show_n>=q&&!b.animate_loop))if(!v){c("li",g).eq(n).fadeOut(b.exit_time,B);b.show_n>1&&c("li",g).slice(n+1,u).fadeOut(b.exit_time)}},B=function(){if(g.parent().size()){l++;if(l*b.show_n>=q)l=0;n=l*b.show_n;u=(l+1)*b.show_n;c("li",g).eq(n).animate(r,b.enter_time,"linear",C);b.show_n>1&&c("li",g).slice(n+1,u).animate(r,b.enter_time)}},C=function(){w&&clearTimeout(w);w=setTimeout(F,b.stay_time)},G=function(){r={};r[b.animate]="show";g.bind("mouseenter",function(){v=1}).bind("mouseleave",function(){v=0;C()});B()},x=function(){if(!(t||!g)){b.loading_class&&g.removeClass(b.loading_class);b.max_posts&&b.tags.length&&c("li:gt("+(b.max_posts-1)+")",g).remove();q=c("li",g).size();b.tags.length&&b.timeout&&b.max_posts&&c("img",g).each(function(){var e=c(this);e.attr("rel")&&e.attr("src",e.attr("rel"))});if(b.show_n==0)c("li",g).show();else q&&G();t=1}},E=function(e){if(!t){z++;if(e.feed.entry){if(!g){k.html("");if(b.tags.length==0)b.recent_title&&c("<h2>"+b.recent_title+"</h2>").appendTo(k);else b.related_title&&c("<h2>"+b.related_title+"</h2>").appendTo(k);g=c('<ul class="rpw '+b.loading_class+'"></ul>').appendTo(k)}for(var n=0,r=e.feed.entry.length;n<r;n++){var i=e.feed.entry[n],s;e:{var o=0;for(s=i.link.length;o<s;o++)if(i.link[o].rel=="alternate"){s=i.link[o].href;break e}s=""}o=i.title.$t;i=i.media$thumbnail?i.media$thumbnail.url:b.thumb_default;if(s!=A||b.tags.length==0)e:{var u=s,a=o,f=i;if(b.tags.length>0){i=c("li",g);o=0;for(var l=i.length;o<l;o++){var h=c("a",i.eq(o));s=D(h);if(h.attr("href")==u){u=h;a=++s;u.attr("score",a);b.post_score_class&&u.attr("class",b.post_score_class+a);for(u=o-1;u>=0;u--){a=c("a",i.eq(u));if(D(a)>s){o-u>1&&i.eq(u).after(i.eq(o));break e}}o>0&&i.eq(0).before(i.eq(o));break e}}}i=u;o=a;s=f;if(b.thumb_size!="s72-c")s=s.replace("/s72-c/","/"+b.thumb_size+"/");u=b.tags.length&&b.timeout&&b.max_posts?"rel":"src";g.append('<li style="display:none"><a href="'+i+'">'+(b.thumbs&&s?"<span><img "+u+'="'+s+'" title="'+(b.titles?"":o)+'" border="0"/></span>':"")+(b.titles?"<strong>"+o+"</strong>":"")+"</a></li>")}}}if(z>=b.tags.length){p&&clearTimeout(p);x()}}},D=function(e){e=parseInt(e.attr("score"));return e>0?e:1},J=function(){if(!b.tags){b.tags=[];c('a[rel="tag"]:lt('+b.max_tags+")").each(function(){var e=c.trim(c(this).text().replace(/\n/g,""));if(c.inArray(e,b.tags)==-1)b.tags[b.tags.length]=e})}var e=b.blog_url+"/feeds/posts/summary/";if(b.tags.length==0){if(b.timeout)p=setTimeout(x,b.timeout);c.ajax({url:e,data:{"max-results":b.max_posts,alt:"json-in-script"},success:E,dataType:"jsonp",cache:true})}else{if(b.timeout)p=setTimeout(x,b.timeout*b.tags.length);for(var t=0,n=b.tags.length;t<n;t++)c.ajax({url:e,data:{category:b.tags[t],"max-results":b.posts_per_tag,alt:"json-in-script"},success:E,dataType:"jsonp",cache:true})}};(function(){var d=k.attr("data-options");if(!d){var i=k.html().replace(/\n|\r\n/g,"");if(i)if((i=i.match(/<!--\s*(\{.+\});?\s*--\>/))&&i.length==2)d=i[1]}if(d){if(d.indexOf("{")<0)d="{"+d+"}";try{b=eval("("+d+")")}catch(o){a.html('<b style="color:red">'+o+"</b>");return null}b=c.extend({},c.fn.relatedPostsWidget.defaults,b)}if(b.post_page_only?location.pathname.match(/^\/\d{4}\/\d\d\/[\w\-\_]+\.html/):true){A=location.protocol+"//"+location.host+location.pathname+(b.url_querystring?location.search:"");J()}})()})};c.fn.relatedPostsWidget.defaults={blog_url:"",max_posts:5,max_tags:5,posts_per_tag:5,tags:false,loading_class:"rpw-loading",related_title:"Related Posts",recent_title:"Recent Posts",post_score_class:"",post_page_only:0,thumb_default:"",thumb_size:"s72-c",thumbs:1,titles:1,url_querystring:0,timeout:1500,show_n:0,stay_time:5e3,enter_time:200,exit_time:200,animate:"opacity",animate_loop:1}})(jQuery);jQuery(document).ready(function(){jQuery("div.related-posts-widget").relatedPostsWidget()});
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<script type="text/javascript">
-
-        // Only use jQuery if the website already makes extensive use of it!
-
-            $(document).ready(function()
-            {Socialite.setup({
-    facebook: {
-        lang     : 'en_EN'
-    }
-});
-                $('.facebookTop').one('mouseenter', function()
-                {
-                    Socialite.load($(this)[0]);
-                });
-            });
-
-        </script>
-<script type="text/javascript">//<![CDATA[
+//loading more posts at bottom
 (function (a) {
     function h() {
         g || (g = !0, d ? (b.find("a").hide(), b.find("img").show(), a.ajax(d, {
@@ -2538,7 +2704,7 @@ $.getJSON("https://api.facebook.com/method/fql.query?query=select%20total_count%
 var count = json[0].total_count;
 if (count>1000)
 {
-count=(count/1000).toFixed(1).replace(".",",")+'k';
+count=(Math.floor(count/100)/10).toFixed(1)+'k';
 }
 obj.text(count);
 });
@@ -2604,13 +2770,29 @@ obj.text(count);
         }
     })
 })(jQuery);
-//]]>
-</script>
-<link href="http://fonts.googleapis.com/css?family=Roboto:700" rel="stylesheet" type="text/css">
-<script type="text/javascript">
-(function(a){(jQuery.browser=jQuery.browser||{}).mobile=/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))})(navigator.userAgent||navigator.vendor||window.opera);
-</script>
-<script type="text/javascript">
+
+function comparisonImageResizer() {
+var $width=$(".post-body").width();
+var $curHeight=window.comparisonImageHeight;//$("#comparison").height();
+if ($width<738)
+{
+$("#comparison").css({"width":$width+"px","height":$width/738*$curHeight+"px"});
+}
+}
+
+if($("#comparison").length != 0) {
+moveDivisor();
+window.comparisonImageHeight=$("#comparison").height();
+comparisonImageResizer();
+console.log("Comparison found.");
+}
+
+$(window).resize(function() {
+if($("#comparison").length != 0) {
+comparisonImageResizer();
+}
+});
+
 $(document).ready(function(){
 //desktop
 $("#open-search").click(function () {
@@ -2642,8 +2824,7 @@ $("#cancel-search").removeAttr("style");
 });
 
 });
-</script>
-<script type="text/javascript">
+
 $(document).ready(function(){
 
 $("#mobile-menu").click(function () {
@@ -2651,23 +2832,7 @@ $("#outer-wrapper").toggleClass("visible");
 });
 
 });
-</script>
-<script>
 
-if(document.URL.indexOf("m=1") >= 0){
-
-if(!jQuery.browser.mobile)
-{
-var url = document.URL.replace("?m=1", "").replace("&m=1", "") 
-
-window.location.replace(url);
-}
-}
-
-  
-</script>
-<script type="text/javascript">
-//<![CDATA[
 $(document).ready(function(){
 $( ".facebook-like" ).each(function( index ) {
 var obj = $(this);
@@ -2691,15 +2856,13 @@ if (count>1000)
 {
 count=(Math.floor(count/100)/10).toFixed(1)+'k';
 count=count.replace('.0','');
+//count = String(count).substring(0, 1) + "," + String(count).substring(1, 4);
 }
 obj.text(count);
 });
 });
 });
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
+
 $(document).ready(function(){
 $( ".facebook-like-mobile" ).each(function( index ) {
 var obj = $(this);
@@ -2736,11 +2899,7 @@ $(".show-more").click(function(){
 	$(".show-more").toggle();
 });
 
-//]]>
-</script>
-<script type="text/javascript">
 //function tablet
-
 function is_touch_device() {
  return (('ontouchstart' in window)
       || (navigator.MaxTouchPoints > 0)
@@ -2762,25 +2921,152 @@ if($(this).parent().children().size() > 1) {
 
 }
 });
+
+$(document).ready(function () {
+$('.load-delay').each(function () {
+  $(this).attr('src', $(this).attr('delayedsrc'));
+});
+});
+
+    $(document).ready(function(){
+	if(document.URL.indexOf("m=1") >= 0){
+            if (document.createStyleSheet){
+                document.createStyleSheet('http://fonts.googleapis.com/css?family=Roboto:400,700');
+            }
+            else {
+                $("head").append($("<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Roboto:400,700' type='text/css' media='screen' />"));
+            }
+		}
+    });
+	
+//load feed
+var script2 = document.createElement('script');
+script2.src = "http://ajax.googleapis.com/ajax/services/feed/load?q=http%3A%2F%2Fwww.footyheadlines.com%2Ffeeds%2Fposts%2Fdefault&num=5&output=json&v=1.0&callback=showrecentposts";
+document.body.appendChild(script2);
+
+function isScrolledIntoView(elem)
+{
+    var docViewTop = $(window).scrollTop();
+    var docViewBottom = docViewTop + $(window).height();
+
+    var elemTop = $(elem).offset().top;
+    var elemBottom = elemTop + $(elem).height();
+
+    return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+}
+
+//disqus
+var disqusloaded = false;
+if(document.URL.indexOf(".html") >= 0 & document.URL.indexOf("m=1") < 0){
+$(window).scroll(function(){
+if (isScrolledIntoView(".post-footer-line") && !disqusloaded){
+                        var bloggerjs = document.createElement('script');
+                        bloggerjs.type = 'text/javascript';
+                        bloggerjs.async = true;
+                        bloggerjs.src = 'http://'+disqus_shortname+'.disqus.com/blogger_item.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(bloggerjs);
+						disqusloaded = true;
+						}
+						});
+}
+else if (document.URL.indexOf(".html") < 0) {
+                    var bloggerjs = document.createElement('script');
+                    bloggerjs.type = 'text/javascript';
+                    bloggerjs.async = true;
+                    bloggerjs.src = 'http://'+disqus_shortname+'.disqus.com/blogger_index.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(bloggerjs);
+}
+else {
+/*var obj = document.getElementById("button-disqus");
+$.getJSON("http://footyheadlines.disqus.com/count-data.js?2=" + disqus_blogger_current_url, function(json,$obj) {
+console.log(json);
+var count = json.count;
+obj.text("Load comments");
+});*/
+document.getElementById("button-disqus").onclick=function(){
+document.getElementById("button-disqus").remove();
+                        var bloggerjs = document.createElement('script');
+                        bloggerjs.type = 'text/javascript';
+                        bloggerjs.async = true;
+                        bloggerjs.src = 'http://'+disqus_shortname+'.disqus.com/blogger_item.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(bloggerjs);
+						disqusloaded = true;
+}
+}
+
+script.onload = script.onreadystatechange = null;
+          }
+        };
+        document.body.appendChild(script);
+      }
+if (window.addEventListener)
+window.addEventListener("load", getScript);
+else if (window.attachEvent)
+window.attachEvent("onload", getScript);
+else window.onload = getScript;
+//]]>
+</script>
+<script async="async" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+//google analytics
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8645263-7']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  //]]>
 </script>
 <script type="text/javascript">
+if(document.URL.indexOf("m=1") >= 0){
+window.onscroll = changePos;
+}
+function changePos() {
+    var header = document.getElementById("headerbar-2");
+	var main = document.getElementById("main-wrap1");
+	if (header != null){
+    if (window.pageYOffset > 40) {
+        header.style.position = "fixed";
+        header.style.top = "0px";
+		main.style.marginTop ="40px";
+    } else {
+        header.style.position = "";
+        header.style.top = "";
+		main.style.marginTop ="";
+    }
+	}
+}
+
+if (document.querySelector(".nav-message") != null)
+document.querySelector(".nav-message").innerHTML = document.querySelector(".nav-message").innerHTML.replace("+", " ");
+if (document.querySelector(".nav-message-m") != null)
+document.querySelector(".nav-message-m").innerHTML = document.querySelector(".nav-message-m").innerHTML.replace("+", " ");
+</script>
+
+<!-- <script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
-</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3401484092-widgets.js"></script>
+</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3739804914-widgets.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-<script type="text/javascript">
+<script type='text/javascript'>
 if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '7535398437004525886';BLOG_attachCsiOnload('static_page_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7535398437004525886','//www.footyheadlines.com/p/privace-policy.html','7535398437004525886');
 _WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7535398437004525886', 'bloggerUrl': 'http://www.blogger.com', 'title': 'Footy Headlines', 'pageType': 'static_page', 'pageId': '4687348093633890882', 'url': 'http://www.footyheadlines.com/p/privace-policy.html', 'canonicalUrl': 'http://www.footyheadlines.com/p/privace-policy.html', 'canonicalHomepageUrl': 'http://www.footyheadlines.com/', 'homepageUrl': 'http://www.footyheadlines.com/', 'blogspotFaviconUrl': 'http://www.footyheadlines.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'Privacy Policy', 'pageTitle': 'Footy Headlines: Privacy Policy', 'metaDescription': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Footy Headlines - Atom\42 href\75\42http://www.footyheadlines.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Footy Headlines - RSS\42 href\75\42http://www.footyheadlines.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Footy Headlines - Atom\42 href\75\42http://www.blogger.com/feeds/7535398437004525886/posts/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42chrome\42,g\75\42tick\42,k\75\42jstiming\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[g](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var n\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:n};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[k].srt\75h-c)}if(a){var e\75b[k].load;0\74c\46\46h\76\75c\46\46(e[g](\42_wtsrt\42,void 0,c),e[g](\42wtsrt_\42,\42_wtsrt\42,h),e[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb[f]\46\46b[f].csi\46\46(a\75Math.floor(b[f].csi().pageT),e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b[f].csi().startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b.external.startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[k].pt\75a)}catch(p){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[k].load[g](\42aft\42)};var l\75!1;function m(){l||(l\75!0,b[k].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,m,!1):b.attachEvent(\42onscroll\42,m);\n })();\74/script\076', 'mobileHeadScript': '', 'adsenseClientId': 'ca-pub-5722789279541063', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/76f25a6f2e06af76', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {'sitecolor': '#ff881f'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebartop', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebartop', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_FeedView', new _WidgetInfo('Feed3', 'sidebartop', null, document.getElementById('Feed3'), {'title': 'New Posts', 'showItemDate': false, 'showItemAuthor': false, 'feedUrl': 'http://www.footyheadlines.com/feeds/posts/default', 'numItemsShow': 5, 'loadingMsg': 'Loading...', 'openLinksInNewWindow': false}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'sidebartop', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML66', 'mobile-nav', null, document.getElementById('HTML66'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header2', 'header', null, document.getElementById('Header2'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'main', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1938910137-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/2392111094-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2355179239-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/2392111094-lightbox_bundle.css'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts2', 'main', null, document.getElementById('PopularPosts2'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_FeedView', new _WidgetInfo('Feed1', 'main', null, document.getElementById('Feed1'), {'title': 'New Posts', 'showItemDate': false, 'showItemAuthor': false, 'feedUrl': 'http://www.footyheadlines.com/feeds/posts/default', 'numItemsShow': 5, 'loadingMsg': 'Loading...', 'openLinksInNewWindow': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebartop', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebartop', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'sidebartop', null, document.getElementById('HTML11'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FeedView', new _WidgetInfo('Feed3', 'sidebartop', null, document.getElementById('Feed3'), {'title': 'New Posts', 'showItemDate': false, 'showItemAuthor': false, 'feedUrl': 'http://www.footyheadlines.com/feeds/posts/default', 'numItemsShow': 5, 'loadingMsg': 'Loading...', 'openLinksInNewWindow': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'sidebartop', null, document.getElementById('HTML12'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'sidebartop', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
 </script>
-
-</body></html>
+</body> --> 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script></body></html>
