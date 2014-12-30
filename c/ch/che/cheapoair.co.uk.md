@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapoair.co.uk privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505104631id_/http%3A//www.cheapoair.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.co.uk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230063121id_/http%3A//www.cheapoair.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policies - CheapOair.co.uk
 
@@ -10,13 +10,13 @@ Email Sign Up!
 
 Be the first to know about our best bargains! Get discounted deals in your inbox.
 
-PLUS, get £15** off now!  
+PLUS, get £15◊ off now!  
   
 ---  
   
 |  | 
 
-|  |  |    Privacy Policy  
+|  |  |   
 ---  
 CheapOair.co.uk is strongly committed to protecting your privacy.  
   
@@ -25,11 +25,11 @@ European Safe Harbor certification")
   
 Duke's Court Travel Limited is strongly committed to protecting your privacy and will be the data controller in respect of your personal data. 
 
-This privacy policy ("Privacy Policy") (together with our [Terms and Conditions](http://www.cheapoair.co.uk/terms/)) discloses our information collection and dissemination practices in connection with the website at www.CheapOair.co.uk (the "Site"). By using the Site you signify your acceptance of the terms in this Privacy Policy. If you do not agree to this Privacy Policy, you should not use the Site. All references in the Privacy Policy to "CheapOair", "we", "us" and "our" refer to Duke's Court Travel Limited; and references to "you" and "your" are to you, the user.
+This privacy policy ("Privacy Policy") (together with our [Terms and Conditions](http://www.cheapoair.co.uk/terms/)) discloses our information collection and dissemination practices in connection with the websites at www.CheapOair.co.uk and m.cheapoair.co.uk (the "Sites"). By using the Sites you signify your acceptance of the terms in this Privacy Policy. If you do not agree to this Privacy Policy, you should not use the Sites. All references in the Privacy Policy to "CheapOair", "we", "us" and "our" refer to Duke's Court Travel Limited; and references to "you" and "your" are to you, the user.
 
-Duke's Court Travel Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [cservice@CheapOair.co.uk.](mailto:cservice@CheapOair.co.uk) If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Duke's Court Travel Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program only covers information collected through our sites www.cheapoair.co.uk and m.cheapoair.co.uk and does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [cservice@CheapOair.co.uk.](mailto:cservice@CheapOair.co.uk) If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-Duke's Court Travel Limited complies with Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and on the free movement of such data.
+Duke's Court Travel Limited complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Duke’s Court Travel Limited has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Duke's Court Travel Limited’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 We may amend this Privacy Policy at any time. This Privacy Policy shall apply whilst published on the Site. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of the Site following the posting of changes to this Privacy Policy will mean that you accept those changes. 
 
@@ -57,6 +57,10 @@ To ensure that your credit, debit or charge card is not being used without your 
 
 All information provided by you to us is securely processed in strict accordance with the Data Protection Act of 1998. 
 
+When you use our Services, we automatically collect information on the operating system version you are using and your IP address. We use this information so that we are better able to optimize our mobile site and provide you information. 
+
+We collect your location based information for the purpose of helping you select your destination. We do not use this information for any other purpose and it cannot determine your specific location. If you no longer wish to allow us to use your location information, you may discontinue use of the mobile site or email us at [cservice@CheapOair.co.uk](mailto:cservice@CheapOair.co.uk). 
+
 **Co-Travelers**
 
 When you register for an account we offer you the opportunity to provide personal information about others who may travel with you such as name, email and date of birth. CheapOair stores this information for the sole purpose allowing you to book travel on behalf of others.
@@ -73,7 +77,7 @@ We may from time to time restructure our business operations (for example, by se
 
 CheapOair does not sell, trade, share or rent your personal information to others without your prior consent. 
 
-Except with your consent and/or as permitted or required by applicable law, we will only share your personal information as described in this Privacy Policy. 
+Except with your consent and/or as permitted or required by applicable law, we will only share your personal information as described in this Privacy Policy.
 
 **Transfer outside the UK**
 
@@ -81,7 +85,11 @@ For any of the above purposes, we may need to send your information internationa
 
 **Third party websites**
 
-Other websites accessible through the Site have their own privacy policies and data collection practices. Please consult each website's privacy policy. CheapOair is not responsible for the actions or omissions of third parties.  
+Other websites accessible through the Site have their own privacy policies and data collection practices. Please consult each website's privacy policy. CheapOair is not responsible for the actions or omissions of third parties. 
+
+**Social Media (Features)**
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.  
   
   
 **COOKIES**  
@@ -98,7 +106,15 @@ You can set up your computer to reject cookies although, if you do so, you may n
 **THIRD PARTY TRACKING TECHNOLOGIES**  
 ---  
   
-We use a third party tracking service called Google Analytics that uses tracking technology to track non-personally identifiable information about visitors to our site in the aggregate.  
+We use a third party tracking service called Google Analytics that uses tracking technology to track non-personally identifiable information about visitors to our site in the aggregate. 
+
+**Clear Gifs (Web Beacons/Web Bugs)**
+
+We employ or our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
+
+**Mobile Analytics**
+
+We use mobile analytics software to allow us to better understand the functionality of our mobile site on your phone. This software may record information such as how often you use the mobile site, the events that occur within the site, aggregated usage, performance data, and where the mobile site was accessed from. We do not link the information we store within the analytics software to any personal information you submit within the mobile site.   
   
   
 **SECURITY**  
@@ -123,7 +139,7 @@ Under US law, airlines are required to provide the US Department of Homeland Sec
   
 **ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**  
 ---  
-If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by logging into your account and making the appropriate changes, emailing to our Customer Support at [cservice@CheapOair.co.uk](mailto:cservice@CheapOair.co.uk) or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by logging into your account and making the appropriate changes, emailing to our Customer Support at [cservice@CheapOair.co.uk](mailto:cservice@CheapOair.co.uk) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your access request within 30 days. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.   
   
@@ -143,10 +159,11 @@ If you have any questions about this Privacy Policy please contact our customer 
   
 **Customer Service,  
 CheapOair.co.uk,  
-Mill House, 216 Chiswick High Rd  
+204 King Street  
+Hammersmith  
 London  
-W4 1PD  
-**Ph:** 0203 514 8095  
+W6 0RA  
+**Ph:** +44 (0) 203 104 0055  
 [cservice@CheapOair.co.uk](mailto:cservice@CheapOair.co.uk)**  
    
   
