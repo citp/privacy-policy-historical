@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cxense.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055322id_/http%3A//www.cxense.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cxense.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230174736id_/http%3A//www.cxense.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cxense
 
-Cxense AS (“Cxense”) provides web-based services to other businesses (“Clients”) to improve the overall relevance of their web applications. These services are advertising, analytics, search and personalization. Cxense and its Clients are commonly referred to below as “we” or “us”.
+Cxense ASA (“Cxense”) provides web-based services to other businesses (“Clients”) to improve the overall relevance of their web applications. These services are advertising, analytics, search and personalization. Cxense and its Clients are commonly referred to below as “we” or “us”.
 
 The purpose of this Privacy Policy is to inform you about how Cxense technology collects information, and how this information is processed by our services to give you a better overall web experience. This Privacy Policy applies to all of the products, services, and websites operated by or enabled by Cxense, our subsidiaries, or affiliated companies. From time to time, we may also post product- or service-specific privacy notices or documentation to explain in more detail how Cxense products and services handle information related to privacy.
 
@@ -10,9 +10,9 @@ The US Federal Government and participants in the technology industry have devel
 
 If you have any questions about this Privacy Policy, please feel free to contact Cxense at [privacy@cxense.com](mailto:privacy@cxense.com) or write to us at;
 
-**Cxense AS**  
+**Cxense ASA**  
 Attn.: Privacy Advocate  
-P.O. Box 2920  
+P.O. Box 2920 Solli  
 NO-0230 Oslo  
 Norway
 
