@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622171920id_/http%3A//www.redcross.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230054530id_/http%3A//www.redcross.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Red Cross
 
