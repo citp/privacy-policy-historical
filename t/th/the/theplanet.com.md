@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theplanet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626194524id_/http%3A//www.softlayer.com/privacy-agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theplanet.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043054id_/http%3A//www.softlayer.com/privacy-agreement) for the most accurate reproduction.*
 
 # Privacy Agreement | User Privacy is Paramount
 
@@ -54,6 +54,7 @@ SoftLayer collects data from users for the following purposes:
   * To better respond to requests for service or quotes for product and equipment purchase. SoftLayer will pass contact information to the appropriate SoftLayer sales person, or reseller for follow-up related to SoftLayer products or services.
   * From referral "tell a friend" function. If a User elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and email address. SoftLayer will automatically send the friend a one-time email inviting them to visit the Site and send a copy of said e-mail to the User. The e-mail(s) sent shall clearly identify the sender of such email(s). SoftLayer uses this data for the sole purpose of sending this one-time email. Such e¬mail sent to a friend at User's request will not be stored for additional processing.
   * As a result of your participation in interactive discussions and public forums. There are parts of the Site that permit you to participate in interactive discussions. Some of these are moderated; all are subject to access for technical reasons. SoftLayer does not control the content that Users post and some may serve as public discussion forums. As in any interactive forum open to many Users, you should carefully consider whether you wish to submit data and should tailor any other content submitted accordingly.
+  * SoftLayer affiliates located in the European Union provide SoftLayer Technologies, Inc. with personal information about their prospective customers, prospective vendors, prospective employees; and customers, participants in its channel partner program, vendors and employees; SoftLayer uses this information to assist its affiliates in providing services to those customers, and to assist its affiliates with vendor relations and contract management, human resources management, and their internal financial and other operations.
 
 
 
@@ -66,6 +67,10 @@ SoftLayer has also provided the Customer's master user the ability to manage the
 Please note that some email communications are not subject to general opt-out. These include communications related to downloads; communications about sales transactions; information about software updates, patches and fixes; disclosures to comply with legal requirements; and network upgrades or other related maintenance for Service.
 
 If an individual's PII is to be (a) disclosed to a Third Party who is not an Agent; or (b) used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by the individual, then the individual will be notified prior to such disclosure and may opt-out of having the PII disclosed by responding to the email and/or author of the notification, where such information shall be clearly set forth.
+
+#### Where SoftLayer Acts as a Data Processor for EU/EEA and/or Switzerland Customers
+
+When providing infrastructure as a service (IaaS), SoftLayer Technologies, Inc. may process personal data controlled by its customers or customers of SoftLayer entities located in the European Union; SoftLayer does not determine or have knowledge of the types of data stored by customers and/or how that data is accessed, exchanged, processed or the classification of that data. SoftLayer customers are responsible for compliance with applicable data protection principles. SoftLayer processes data at the direction of its customers in accordance with the terms of the SoftLayer MSA and a data processing agreement in place with each of its entities located in the EU (in accordance with the standards of the EU Data Protection Directive).
 
 #### Security
 
