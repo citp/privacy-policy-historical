@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyanyseat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121614id_/http%3A//buyanyseat.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyanyseat.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230150641id_/http%3A//buyanyseat.com//privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
