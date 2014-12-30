@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the grabbon.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625210845id_/http%3A//www.snapdeal.com/info/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabbon.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230095910id_/http%3A//www.snapdeal.com/info/terms) for the most accurate reproduction.*
 
 # Privacy Policy - Snapdeal.com
 
-**Last updated on April 01, 2013**
+**Last updated on August 5, 2014**
 
 Jasper Infotech Private Limited ("Snapdeal") is concerned about the privacy of its users (hereinafter referred to as "You" "Your" "Yourself") accessing its website located at www.snapdeal.com ("Website") and has provided this Privacy Policy ("Policy") to familiarise You with the manner in which Snapdeal collects, uses and discloses Your information collected through the Website. 
 
@@ -140,7 +140,14 @@ Snapdeal may make changes to this Policy, from time to time at Snapdeal's sole d
 
 If You choose to visit the Website, Your visit and any dispute over privacy is subject to this Policy and the Website's Terms of Use. In addition to the foregoing, any disputes arising under this Policy shall be governed by the laws of India. 
 
-For any query or assistance, feel free to [Contact Us](http://www.snapdeal.com/info/contactus) with subject line-PRIVACY POLICY].
+In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer who can be contacted with respect to any complaints or concerns including those pertaining to breach of Snapdeal’s Terms of Use, Term of Offer For Sale and other polices or questions are published as under:
+
+Grievance Officer Name: Yeshu Bansal   
+email address: yeshu.bansal@snapdeal.com 
+
+(Please include the following subject line in the email – “Attention: Grievance Officer”)   
+Contact telephone number: +91 011 49146666  
+[10:00 AM to 6:30 PM from Monday to Friday except Public Holidays]
 
 Copyright © Jasper Infotech Private Limited  
 All rights reserved.
