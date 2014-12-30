@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapoair.ca privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526231504id_/http%3A//www.cheapoair.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.ca privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230063121id_/http%3A//www.cheapoair.ca/privacy) for the most accurate reproduction.*
 
 # CheapOair.ca - Privacy Policy
 
@@ -8,11 +8,12 @@
 
 | 
 
-Get discounted, email-only deals and coupons right to your inbox. 
-
-PLUS, get C$20 instantly±  
+Get our best flight deals, great savings and get up to C$20◊ off! Sign up for email deals.  
   
 ---  
+  
+  
+Opt-out at anytime.  
   
 |  | 
 
