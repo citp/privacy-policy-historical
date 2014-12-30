@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magisto.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622223625id_/http%3A//www.magisto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magisto.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230211118id_/http%3A//www.magisto.com/privacy) for the most accurate reproduction.*
 
 # Magisto | Privacy
 
@@ -6,11 +6,11 @@ Privacy Policy
 
 Last Updated March 2011 
 
-This privacy statement explains the privacy practices of SightEra for users of the Site. **** If not specifically defined herein, capitalized terms have the meaning given to them in the SightEra Terms of Service, which are available at [http://www.magisto.com/tos](https://web.archive.org/tos)
+This privacy statement explains the privacy practices of Magisto for users of the Site. **** If not specifically defined herein, capitalized terms have the meaning given to them in the Magisto Terms of Service, which are available at [http://www.magisto.com/tos](https://web.archive.org/tos)
 
-## SightEra's Commitment to Privacy
+## Magisto's Commitment to Privacy
 
-SightEra respects your right to privacy. Your ability to make informed choices about the uses of your information is important to us. This privacy statement explains SightEra's policy regarding the collection, use, disclosure and protection of Personal Information. The terms of this privacy policy apply to information collected from you unless different terms are specified as part of a special offer or in another form or contract we provide you.
+Magisto respects your right to privacy. Your ability to make informed choices about the uses of your information is important to us. This privacy statement explains Magisto's policy regarding the collection, use, disclosure and protection of Personal Information. The terms of this privacy policy apply to information collected from you unless different terms are specified as part of a special offer or in another form or contract we provide you.
 
 ## What is Personal Information?
 
@@ -28,7 +28,7 @@ post or submit any content on the Site or Services, including any video or audio
 
 contact us for any reason.
 
-We may automatically collect some information when you use the Site or Services, such as your computer's IP address, operating system, the site from which you linked to us, and the time and date of your visit, and activities. **** We also collect information received from third parties to the extent that they have entered into an agreement with you as a result of your relationship with SightEra. 
+We may automatically collect some information when you use the Site or Services, such as your computer's IP address, operating system, the site from which you linked to us, and the time and date of your visit, and activities. **** We also collect information received from third parties to the extent that they have entered into an agreement with you as a result of your relationship with Magisto. 
 
 ## Use of Personal Information
 
@@ -36,7 +36,7 @@ The Personal Information we collect is used to process your requests or transact
 
 ## Sharing of Personal Information
 
-SightEra does not sell, rent, share, or disclose Personal Information to third parties without your prior consent, except in the limited circumstances described in this statement. 
+Magisto does not sell, rent, share, or disclose Personal Information to third parties without your prior consent, except in the limited circumstances described in this statement. 
 
 Videos
 
@@ -44,21 +44,21 @@ Summaries and edits of video produced by the Site and the Services will be made 
 
 Communities __
 
-If you use any of the features of the Site or Services, please remember that any information disclosed in these venues may be automatically made public, even without your knowledge or authorization. You should exercise caution when disclosing any information, including Personal Information, in such venues, as you do not know who will access or use such information and for what purposes. SightEra is in no way responsible for the accuracy, use or misuse of any information, including Personal Information, which you disclose in such venues.
+If you use any of the features of the Site or Services, please remember that any information disclosed in these venues may be automatically made public, even without your knowledge or authorization. You should exercise caution when disclosing any information, including Personal Information, in such venues, as you do not know who will access or use such information and for what purposes. Magisto is in no way responsible for the accuracy, use or misuse of any information, including Personal Information, which you disclose in such venues.
 
 ## Other Disclosures
 
-In addition, we may disclose Personal Information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal process, respond to any claims, or to protect the rights, property, or personal safety of SightEra, our customers, or the public.  Information about our customers, including Personal Information, may be disclosed as part of, or during negotiations of, any merger, sale of company assets or acquisition.
+In addition, we may disclose Personal Information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal process, respond to any claims, or to protect the rights, property, or personal safety of Magisto, our customers, or the public.  Information about our customers, including Personal Information, may be disclosed as part of, or during negotiations of, any merger, sale of company assets or acquisition.
 
 ## Protection of Personal Information
 
-SightEra has put into place security measures in an effort to protect personal information from loss, misuse or alteration while it is under our control. Personal information we collect is stored electronically and may be combined with other membership information. We use technical, contractual, administrative and physical measures in an effort to protect against unauthorized access.
+Magisto has put into place security measures in an effort to protect personal information from loss, misuse or alteration while it is under our control. Personal information we collect is stored electronically and may be combined with other membership information. We use technical, contractual, administrative and physical measures in an effort to protect against unauthorized access.
 
 Account information is accessible online only through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. If other people have access to your email, they may be able to obtain access to your password and obtain personal information about you (such as your credit card information), or change information about your user profile. You may not want to use an email account operated by an employer because many employers have the legal right to access such email accounts.
 
 ## Choice
 
-By registering you agree to receive promotional messages from SightEra. If at any time you wish to stop receiving promotional information from SightEra, you may opt out by:
+By registering you agree to receive promotional messages from Magisto. If at any time you wish to stop receiving promotional information from Magisto, you may opt out by:
 
 (1) E-Mailing us at [support@magisto.com](mailto:support@magisto.com)
 
@@ -68,7 +68,9 @@ By registering you agree to receive promotional messages from SightEra. If at an
 
 ## Aggregate Information 
 
-SightEra appreciates the importance of safeguarding the privacy of your personal information that may be provided to us. However, SightEra does use and disclose de-identified aggregate information for the purposes of evaluating and improving our services and tailoring our products. SightEra may choose at its sole discretion to transfer, sell, provide or share such information with third parties, including for to SightEra's business partners for commercial purposes, and by providing any information to SightEra you consent to such provision of de-identified aggregate information to any third party.
+Magisto appreciates the importance of safeguarding the privacy of your personal information that may be provided to us. However, Magisto does use and disclose de-identified aggregate information for the purposes of evaluating and improving our services and tailoring our products. Magisto may choose at its sole discretion to transfer, sell, provide or share such information with third parties, including for to Magisto's business partners for commercial purposes, and by providing any information to Magisto you consent to such provision of de-identified aggregate information to any third party.
+
+Magisto uses anonymous identifiers in order to allow Google to collect data in order that we may receive reports from Google with demographic and interest data regarding users of our mobile application, as well as general campaign metrics. Google also allows us to isolate and analyze subsets of sessions and users in such reports. Such reports and analyses are provided to us without the identifying information of specific users. These identifiers are used together with third party SDKs such as Google Analytics in order that we may receive such reports. Magisto does not merge this data with Personal Information. Since we only use these identifiers for users of our mobile application, there is currently no way of opting out from such collection of data. 
 
 ## What Are Cookies and Are You Required to Accept Them?
 
@@ -76,13 +78,13 @@ Cookies are small files that are stored on your computer. We use cookies to help
 
 ## Use of the Site by Children
 
-SightEra does not knowingly collect personally identifiable information from children under the age of 13, and you must be 13 years of age or older in order to establish an account. Parents are able to set up accounts for their children. In this way verifiable parental consent is required in order to register a child under the age of 13 to be enrolled, and any parent setting up an account for his or her hereby represents and warrants that he or she is the parent or legal guardian of such child, and has the authority to provide information and render consents on behalf of such child. In the event you become aware that an individual under the age of 13 has enrolled without parental permission, please advise us immediately. ** __**
+Magisto does not knowingly collect personally identifiable information from children under the age of 13, and you must be 13 years of age or older in order to establish an account. Parents are able to set up accounts for their children. In this way verifiable parental consent is required in order to register a child under the age of 13 to be enrolled, and any parent setting up an account for his or her hereby represents and warrants that he or she is the parent or legal guardian of such child, and has the authority to provide information and render consents on behalf of such child. In the event you become aware that an individual under the age of 13 has enrolled without parental permission, please advise us immediately. ** __**
 
 ## Online Links to Other Sites
 
-SightEra members or users can link to other webs of third parties that provide useful information, or who have agreed to offer goods and services to SightEra members. Any personal information you provide on the linked pages is provided directly to this third-party and is subject to that third party's provider's privacy policy.
+Magisto members or users can link to other webs of third parties that provide useful information, or who have agreed to offer goods and services to Magisto members. Any personal information you provide on the linked pages is provided directly to this third-party and is subject to that third party's provider's privacy policy.
 
-Except as described above, SightEra is not responsible for the content or privacy practices of Web sites to which we link. Links to third party or other sites are provided for your convenience. We encourage you to learn about the privacy practices of each Web site before providing them with personal information.
+Except as described above, Magisto is not responsible for the content or privacy practices of Web sites to which we link. Links to third party or other sites are provided for your convenience. We encourage you to learn about the privacy practices of each Web site before providing them with personal information.
 
 ## Updating, Reviewing or Correcting Personal Information
 
@@ -98,4 +100,4 @@ If you have any questions or concerns about this privacy statement or would like
 
 ## Changes to this Statement
 
-SightEra reserves the right to change this privacy statement at any time, but will alert you that changes have been made by indicating at the top of the privacy statement the date it was last updated. We encourage you to review our privacy statement to make sure you understand how your information will be used. If there is ever a material change to how we use your information and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance.
+Magisto reserves the right to change this privacy statement at any time, but will alert you that changes have been made by indicating at the top of the privacy statement the date it was last updated. We encourage you to review our privacy statement to make sure you understand how your information will be used. If there is ever a material change to how we use your information and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance.
