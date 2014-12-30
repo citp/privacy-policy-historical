@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628050531id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230061358id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # GameFly: Privacy Policy
-
-[ ](https://privacy.truste.com/privacy-seal/GameFly,-Inc-/validation?rid=38537113-18f1-4c81-9663-465f631090a0 "TRUSTe European Safe Harbor certification")
 
   1. Anyone may browse our site, but you must provide personal information in order to register with us and take full advantage of all services that our site has to offer. 
     * Learn more
@@ -41,10 +39,6 @@ By reading this Privacy Policy, you can expect to be informed about the followin
 This Privacy Policy applies to all of the online and mobile websites and interactive and mobile applications operated by GameFly (unless a different policy is provided on a particular site or application, in which case such different policy shall control) (collectively, the “Services”), including, but not limited to, the gamefly.com, gamefly.co.uk and cheatfreak.com websites, including all subpages and successor pages thereto (each, a “Website” and collectively, the "Websites") and the GameFly mobile application and associated services (the "GameFly App," "Application," or "App"). Unless expressly provided for, this Privacy Policy does not extend to any websites, applications or services of any third party companies or organizations to which we link or which link to us. GameFly does not operate or control those websites, applications or services.
 
 * Review the privacy policy of any third party website, application or service linked to or accessible from our site before you submit any personal information to such parties.
-
-GameFly has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at support@gamefly.com. If you are not satisfied with our response you can contact [TRUSTe](http://watchdog.truste.com/pvr.php%3Fpage=complaint).
-
-GameFly complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from individuals located in European Union member countries and Switzerland. GameFly has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view GameFly's certification, please visit <http://www.export.gov/safeharbor/>.
 
 We reserve the right, in our sole and absolute discretion, to make changes from time to time (with or without notice) to this Privacy Policy. As such, you should review this Privacy Policy periodically to check for updates. When we amend this Privacy Policy, we will revise the “last updated” date located at the bottom of this Privacy Policy. For changes to this Privacy Policy that we consider to be material, we will place a notice on the website by revising the link to read substantially as “Updated Privacy Policy” for a reasonable amount of time or contact you by email (sent to the email address listed in your account). If you provide information to us or access or use the Website or the Services in any way after this Privacy Policy has been changed, you will be deemed to have unconditionally consented and agreed to such changes. The most current version of this Privacy Policy will be available on the website and will supersede all previous versions of this Privacy Policy.
 
@@ -236,4 +230,4 @@ Any personal information you provide to the above email or postal mail addresses
 
 If you have any questions, complaints or comments regarding our GameFly Referrals Program, please contact [friends_cs@gamefly.com](mailto:friends_cs@gamefly.com).
 
-Last Updated: May 13, 2013.
+Last Updated: August 1, 2014.
