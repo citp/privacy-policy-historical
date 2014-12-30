@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624040246id_/http%3A//www.millennialmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045358id_/http%3A//www.millennialmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Millennial Media
 
-Millennial Media is committed to protecting consumer privacy and to clearly informing users about the collection and use of information when using our services. As a result, we have put together this Privacy Policy to explain how we collect and use certain information. This Privacy Policy applies to Millennial Media´s mobile advertising products and services, including those of our Jumptap subsidiary (collectively, our “Service”), as well as our company websites located at [www.millennialmedia.com](http://www.millennialmedia.com/), [www.mmedia.com](http://www.mmedia.com/) (“mMedia”), and www.jumptap.com (collectively, our “Websites”).
+Millennial Media is committed to protecting consumer privacy and to clearly informing users about the collection and use of information when using our services. As a result, we have put together this Privacy Policy to explain how we collect and use certain information. This Privacy Policy and the opt-out choices below apply to Millennial Media´s mobile advertising products and services, including those of our Jumptap subsidiary (collectively, our “Service”). This Privacy Policy also applies to our company websites located at [www.millennialmedia.com](http://www.millennialmedia.com/), [www.mmedia.com](http://www.mmedia.com/) (“mMedia”), and www.jumptap.com (collectively, our “Websites”). Our Nexage subsidiary currently operates independently and maintains its own privacy policy that describes its data collection and use practices, which you can review at [www.nexage.com/privacy-policy](http://www.nexage.com/privacy-policy/).
 
 **Our Business**
 
@@ -64,4 +64,4 @@ Phone: (410) 522-8705
 Fax: (410) 522-1784  
 Email: [privacy@millennialmedia.com](mailto:privacy@millennialmedia.com)
 
-**This Privacy Policy was last updated on November 5, 2013.**
+**This Privacy Policy was last updated on December 4, 2013.**
