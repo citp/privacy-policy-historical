@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrents.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011621id_/http%3A//www.torrents.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrents.net privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230105445id_/http%3A//www.torrents.net/privacy.html) for the most accurate reproduction.*
 
 # Torrents.net - Privacy Policy
 
