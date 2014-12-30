@@ -1,79 +1,145 @@
-> *The following text is extracted and transformed from the bellsouth.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202045112id_/http%3A//www.bellsouth.com/privacydoc.html%3Fft%3Dpol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellsouth.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230165328id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
 
-# BellSouth - Legal Notices and Privacy Statement
+# AT&T Privacy Policy
 
-**BellSouth is now part of the new AT &T. As we continue to consolidate and re-brand from BellSouth to AT&T, the BellSouth privacy policy will continue to apply to legacy BellSouth services and to your interactions with BellSouth Web sites. We will be updating our privacy policies to reflect this change.**
+## Our privacy commitments
 
-At BellSouth we are committed to honoring the privacy of our on-line customers and visitors to our Web sites. We recognize the importance to you of maintaining an appropriate level of privacy and security for the personal information we collect from you over the Internet. The following discloses our Web site information gathering and use practices and is limited to the protection and use of personal information collected by us in the online environment. Your access to and use of our site are subject to this policy and any other terms of use or policies posted by us. Please note that this privacy statement applies only to this site and not to the web sites of our advertisers or of other companies or organizations to which we link. All references to “BellSouth” throughout this policy statement include, unless otherwise stated, all BellSouth affiliate companies, successors and assigns. 
+Our privacy commitments are fundamental to the way we do business every day. These apply to everyone who has a relationship with us - including customers (wireless, Internet, digital TV, and telephone) and Web site visitors.
 
-  * **How does BellSouth combat phishing?**
-  * **What Kinds of Information Does BellSouth Collect and Use?**
-  * **Who Has Access to This Information?**
-  * **Cookies**
-  * **E-Mail**
-  * **Children**
-  * **Security**
-  * **Discussion Areas**
-  * **Links to Other Sites**
-  * **Third Party Ad Servers**
-  * **Revisions**
+  * We will protect your privacy and keep your personal information safe. We use encryption and other security safeguards to protect customer data.
+  * We will not sell your personal information to anyone, for any purpose. Period.
+  * We will fully disclose our privacy policy in plain language, and make our policy easily accessible to you.
+  * We will notify you of revisions to our privacy policy, in advance. No surprises.
+  * You have choices about how AT&T uses your information for marketing purposes. Customers are in control.
+  * We want to hear from you. You can send us questions or feedback on our privacy policy.
 
 
 
-**How does BellSouth combat phishing?**
+### Privacy Policy Scope
 
-We do not ask you to disclose sensitive personal information in an email. Before you access your BellSouth account online and are asked to disclose such information to us, you will be asked to enter your login name and password for authentication purposes.
+This Privacy Policy identifies and describes the way AT&T uses and protects the information we collect about Customers and Users. All use of AT&T's products and services, as well as visits to our websites, are subject to this Privacy Policy.
 
-Our normal practice is to send you an email confirming significant changes made to your account online, such as, updates to the email address registered with us, payments on an account, or new services added.
+#### The Information We Collect, How We Collect It, And How We Use It
 
-You can protect yourself by regularly logging into your online account to ensure that all transactions are legitimate. Other tips on how you can protect yourself can be found at <http://www.antiphishing.org/consumer_recs.html>.
+We may collect different types of personal and other information based on your use of our products and services and our business relationship with you. Some examples include:
 
-**What Kinds of Information Does BellSouth Collect and Use?**
+  * _Contact Information_ that allows us to communicate with you -- including your name, address, telephone number, and e-mail address;
+  * _Billing information_ related to your financial relationship with us -- including your payment data, credit history, credit card number, Social Security numbers, security codes, and service history;
+  * _Equipment, Performance, AT &T Website Usage, Viewing and other Technical Information_ about your use of our network, services, products or websites.
 
-The only personally identifiable information we collect about visitors is provided voluntarily. In general, you can visit our Web site without telling us who you are or revealing any personal information about yourself. However, some portions of our Web site may be accessible only to users who have registered with us (and who may be asked to provide certain information as part of the registration or login process). In addition, our Web servers may use “cookies” (described below) to collect information about visitors such as domain names, but not your e-mail addresses. This information may be aggregated to measure such things as the number of visits, average time spent on the site, number of pages viewed, and methods by which our site was found. BellSouth uses such information to evaluate the use of our site and to continuously improve the content and services being provided.
 
-At times we may ask you for contact information or conduct on-line surveys in order to better understand your needs so that we can provide you with a customized experience. If we wish to use this information other than as set forth in this statement, we will let you know at the time of collection. We will take commercially reasonable steps to safeguard this information from unauthorized access.
 
-When you access your account information, order a service or make a payment on-line, request product or service information, send us e-mail, register to receive news or information alerts, establish a “My Yellow Pages,” submit a click wrap agreement or enter a contest that we are sponsoring, we will ask you to provide individually-identifiable information to us. Except as otherwise provided below under the heading “Who Has Access to This Information?”, when you supply information about yourself for a specific purpose, we use the information for that purpose and to manage the internal operations and security of our Web site consistent with the terms of use and policies established from time to time governing this site. Such purpose may involve the disclosure of such information to unaffiliated companies/vendors where necessary to and for the limited purpose of processing your request, processing a transaction authorized by you or providing you with products or services.
+We collect information in three primary ways:
 
-We also want you to be aware that certain information related to telecommunications services provided to you by BellSouth, commonly referred to as “Customer Proprietary Network Information” or “CPNI,” is subject to special Federal laws and regulations, with which we are fully committed to comply, both in the on-line environment and in all other respects. For more information about these special rules and our related policies regarding the use of CPNI, please visit – BellSouth’s Public Policy website at <http://bellsouthcorp.com/policy/>. 
+  * You give it to us when you purchase or interact with us about a product or service we offer or provide;
+  * We collect it automatically when you visit our websites or use our products and services;
+  * We obtain it from other sources, such as credit agencies.
 
-**Who Has Access to This Information?**
 
-Unless we specifically disclose it to you at the time of collection or subsequently obtain your approval, we will not make visitor or customer-specific information that is gathered on our site available to unaffiliated organizations for commercial purposes unrelated to the business of BellSouth. BellSouth and its affiliated companies use this information to help us deliver the services you have requested, or to design or offer specific products or services that we believe will be useful to you. While we may use this information to contact you or to send materials to you for marketing purposes, we will take commercially reasonable steps to safeguard such information from unauthorized access by any other parties. As we strive to meet the needs or our customers, we may disclose personally identifiable information we collect, as described above, to companies and vendors that perform marketing or other services on our behalf or with whom we have joint marketing agreements so that we may provide a full range of products and services to you. Our policy is to prohibit these companies from otherwise selling or disclosing the personal information we provide.
 
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of BellSouth’s Terms of Use, or as otherwise required by law.
+We may use the information we collect in a variety of ways, including to:
 
-Certain federal, state and local laws or government regulations may require us to disclose non-public personal information about you. In these circumstances, we will use reasonable efforts to disclose only the information required by law, subpoena or court order to be disclosed. 
+  * Provide you with the best customer experience possible;
+  * Provide the services you purchase, and to respond to your questions;
+  * Communicate with you regarding service updates, offers, and promotions;
+  * Deliver customized content and advertising that may be of interest to you;
+  * Address network integrity and security issues;
+  * Investigate, prevent or take action regarding illegal activities, violations of our Terms of Service or Acceptable Use Policies; and
+  * Provide local directory and directory assistance.
 
-**Cookies**
 
-Our site may make use of cookies (or a similar technology) to better manage our sites and to assist us in providing you with tailored information and services. A cookie is a tiny element of data that a Web site can send to your browser, which is stored on your hard drive so that we can do things such as better serve you as you navigate through our site or when you return. You may set your browser to notify you or decline the receipt of a cookie; however, certain features of our sites may not function properly or be available if your browser is configured to disable cookies.
 
-**E-Mail**
+#### Location Information
 
-BellSouth’s policy is not to read or disclose private e-mail communications that are transmitted using BellSouth services except to respond, if directed to us, or as required to operate the service, as set forth in the terms of use and policies established from time to time governing the service, or as otherwise required by law.
+  * We monitor, collect and use your wireless location information, as well as other information obtained from our network and your device, to provide you with wireless voice and data services, and to maintain and improve our network;
+  * You can use your wireless device to obtain a wide array of services based on the approximate location of the device, referred to as Location-Based Services, or LBS. The information you receive in connection with your use of LBS may include advertisements related to your request and your location;
+  * When you use AT&T LBS, you will receive prior notice and must give your consent before your location is used or shared. The form of consent will be suited to the type of AT&T LBS you utilize.
+  * When you use non-AT&T LBS, the terms of service and privacy policies of the non-AT&T provider will govern.
 
-**Children**
 
-BellSouth recognizes the importance of children’s safety and privacy on the Internet. For this reason and to comply with certain laws, we do not intentionally collect personal, individually identifiable information from children under the age of 13, nor do we offer content targeted to children under 13.Children should always ask their parents or guardians for permission before disclosing any information online. Several software companies can provide children’s safety software, including some that may have reduced prices or other special offers for certain BellSouth customers. 
 
-**Security**
+#### Online Activity Tracking and Advertising
 
-BellSouth maintains physical, electronic and procedural safeguards designed to protect the confidentiality of personal information provided by you at our Web site. For example, unique passcodes or passwords are required to access a number of our Web site services. In addition to requiring the use of a unique passcode or password, all payments processed through our Web site require personal transactional information provided by you to be sent in a “Secure Session” using Secure Socket Layer encryption technology. This technology encrypts – or scrambles – your financial or credit card account information to help prevent unauthorized parties from reading it. We regularly test and update our technology to help protect your personal information. However, such precautions do not guarantee that our Web site is invulnerable to all security breaches. BellSouth makes no warranty, guarantee, or representation that use of our Web site is protected from all viruses, security threats or other vulnerabilities and that your information will always be secure. When doing business with others, such as advertisers to whom you can link from our site, you should consider the separate security and privacy policies of those other sites.
+  * We collect information about your activity on AT&T websites for a number of purposes using technologies such as cookies, Flash cookies, Web beacons, widgets and server log files.
+  * We and our non-AT&T advertising partners use that information, as well as other information they have or we may have, to help tailor the ads you see on our sites and to help make decisions about ads you see on other sites.
+  * [Opt-out of ad matching by Yahoo!](https://web.archive.org/web/20120629022115/http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html "Opt-out of ad matching by Yahoo!").
+  * [Opt-out of targeting advertising from many other ad networks](https://web.archive.org/web/20120629022115/http://www.networkadvertising.org/ "Opt-out of targeting advertising from many other ad networks").
+  * [Opt out of YP.com's targeted advertising program.](https://web.archive.org/web/20120629022115/http://www.yellowpages.com/about/legal/advertisingchoices "Opt out of YP.com targeted advertising program.")
 
-**Discussion Areas**
 
-This site may provide discussion areas so that customers and visitors can communicate freely and share ideas. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when disclosing such information. These discussion areas may be monitored occasionally in order to enhance the safety and respect for all of our customers and visitors, and off-topic, unlawful or otherwise inappropriate content of materials of which we become aware may or may not be removed from the site during the course of such monitoring. However, BellSouth is not responsible for any information posted or remaining on these discussion areas.
 
-**Links to Other Sites**
+#### Information Sharing
 
-For the convenience of our visitors and customers, this Web site may contain links to other sites. While we generally try to link only to sites that share similar high standards and respect for privacy, we are not responsible for the content, products or services offered or the privacy and security practices employed by these other sites.
+**With AT &T Companies:** Subject to applicable legal restrictions, such as those that exist for [Customer Proprietary Network Information (CPNI)](https://web.archive.org/gen/privacy-policy?pid=2566 "Customer Proprietary Network Information \(CPNI\)"), the AT&T companies may share your Personal Information with each other to make sure your experience is as seamless as possible, and you have the full benefit of what AT&T has to offer.
 
-**Third Party Ad Servers**
+**With Non-AT &T Companies:** We share your Personal Information only with non-AT&T companies that perform services on our behalf, and only as necessary for them to perform those services.
 
-We use a third-party advertising company to serve ads when you visit our Site. This company may use information (not including your name, address, email address or telephone number) about your visits to our and other web sites, in combination non-personally identifiable information about your purchases and interests from other online and offline sources, in order to provide advertisements about goods and services of interest to you. In addition, we share web site usage information about our visitors to our sites with this company for the purpose of managing and targeting advertisements and for market research analysis on our site and other sites. For these purposes, we and our third-party advertising company may note some of the pages you visit on our site through the use of pixel tags (also called clear gifs) or other similar tracking mechanisms. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your computer.
+  * We require those non-AT&T companies to protect any Personal Information they may receive in a manner consistent with this policy.
+  * We do not provide Personal Information to non-AT&T companies for the marketing of their own products and services without your consent.
 
-**Revisions**
 
-Because of the evolving nature of the technologies that we use and the way that we conduct business, we may amend this policy from time to time. We will post any revisions on this site.
+
+**In Other Circumstances:** We may provide Personal Information to non-AT&T companies or other third parties for purposes such as:
+
+  * Responding to 911 calls and other emergencies;
+  * Complying with court orders and other legal process;
+  * To assist with identity verification, and to prevent fraud and identity theft;
+  * Enforcing our agreements and property rights; and
+  * Obtaining payment for products and services that appear on your AT&T billing statements, including the transfer or sale of delinquent accounts to third parties for collection
+
+
+
+#### Anonymous & Aggregate Information
+
+  * We collect some information on an anonymous basis. We also may anonymize the personal information we collect about you.
+  * We obtain aggregate data by combining anonymous data that meet certain criteria into groups.
+  * When we employ non-AT&T companies to anonymize or aggregate data on our behalf, the requirements for sharing Personal Information with non-AT&T companies apply.
+  * We may share aggregate or anonymous information in various formats with trusted non-AT&T entities, and may work with those entities to do research and provide products and services.
+
+
+
+#### Our Online Privacy Policy for Children
+
+  * Our websites are not designed to attract children under the age of 13.
+  * We do not knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from that child's parent or legal guardian.
+  * [View our AT&T Smart Controls parental tools](https://web.archive.org/gen/sites/smartlimits?pid=8950 "View our AT&T Smart Controls parental tools").
+
+
+
+#### Safeguarding Your Information: Our Policy on Data Protection and Security
+
+  * We do not sell your Personal Information to anyone for any purpose. Period.
+  * We maintain information about you in our business records while you are a customer, or until it is no longer needed for business, tax, or legal purposes.
+  * We have implemented encryption or other appropriate security controls to protect Personal Information when stored or transmitted by AT&T.
+  * We require non-AT&T companies acting on our behalf to protect any Personal Information they may receive in a manner consistent with this Policy. We do not allow them to use such information for any other purpose.
+
+
+
+#### Customer Privacy Controls and Choices
+
+  * You can review and correct your Personal Information collected by us.
+  * You can limit certain types of solicitation communications from AT&T, including marketing contacts made via telephone, e-mail and text messaging.
+  * We will provide you with notice of changes to this policy.
+
+
+
+Visit our [Privacy Policy FAQ](https://web.archive.org/gen/privacy-policy?pid=13692) for more information. The Privacy Policy FAQ is an essential part of our Privacy Policy.
+
+  * [Definitions](https://web.archive.org/gen/privacy-policy?pid=13692#definitions "Definitions")
+  * [Scope of this Policy](https://web.archive.org/gen/privacy-policy?pid=13692#scope "Scope of this Policy")
+  * [The Information We Collect, How We Collect It, And How We Use It.](https://web.archive.org/gen/privacy-policy?pid=13692#collect "The Information We Collect, How We Collect It, And How We Use It.")
+  * [Location Information](https://web.archive.org/gen/privacy-policy?pid=13692#location "Location Information")
+  * [Online Activity Tracking and Advertising](https://web.archive.org/gen/privacy-policy?pid=13692#tracking "Online Activity Tracking and Advertising")
+  * [Information Sharing](https://web.archive.org/gen/privacy-policy?pid=13692#sharing "Information Sharing")
+  * [Aggregate and Anonymous Information](https://web.archive.org/gen/privacy-policy?pid=13692#aggregate "Aggregate and Anonymous Information")
+  * [Online Privacy Policy for Children](https://web.archive.org/gen/privacy-policy?pid=13692#children "Online Privacy Policy for Children")
+  * [Data Protection and Security](https://web.archive.org/gen/privacy-policy?pid=13692#protection "Data Protection and Security")
+  * [Customer Controls](https://web.archive.org/gen/privacy-policy?pid=13692#controls "Customer Controls")
+  * [Changes](https://web.archive.org/gen/privacy-policy?pid=13692#changes "Changes")
+  * [How to Contact Us](https://web.archive.org/gen/privacy-policy?pid=13692#contact "How to Contact Us")
+
+
+
+#### Your California Privacy Rights
+
+California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties' direct marketing purposes. As stated in this Privacy Policy, AT&T will not sell or share your Personal Information with non-AT&T companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us at [privacypolicy@ATT.com](mailto:%20privacypolicy@ATT.com), or write to us at AT&T Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036.
