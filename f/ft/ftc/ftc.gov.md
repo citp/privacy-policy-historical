@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftc.gov privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630230915id_/http%3A//www.ftc.gov/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftc.gov privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045403id_/http%3A//www.ftc.gov/site-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Federal Trade Commission
 
