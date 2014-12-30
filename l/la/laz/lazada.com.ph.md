@@ -1,110 +1,122 @@
-> *The following text is extracted and transformed from the lazada.com.ph privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626135143id_/http%3A//www.lazada.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazada.com.ph privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230050843id_/http%3A//www.lazada.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Lazada Philippines | Lazada.com.ph
 
-LAZADA ("Company," "we," "our," "us") understands that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the LAZADA, and any further linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you recognize and accept the practices and policies stated in this Privacy Policy.
+Last Updated: November 25, 2014
 
-**What does LAZADA’s privacy policy cover?**
+We take our customer’s privacy seriously and we will only collect, record, hold, store, disclose, transfer and use your personal information as outlined below. Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you. 
 
-This Privacy Policy covers LAZADA's treatment of personally identifiable information ("Personal Information") that the Company gathers when you access LAZADA's Website and when you use the Company’s services. This policy does not apply to practices of the companies that LAZADA does not own or control, or to individuals that the Company does not employ or manage.
+We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected. 
 
-**What private information does LAZADA collect?**
+You can visit the Platform (as defined in the Terms of Use) and browse without having to provide personal details. During your visit to the Platform you remain anonymous and at no time can we identify you unless you have an account on the Platform and log on with your user name and password. 
 
-The data we gather from clients enables us to personalize and improve our services, and allows users to set up an account and profile to make purchases via the Website.
+If you have any comments, suggestions or complaints, you may contact us (and our Data Protection Officer) at [customer.services@lazada.com.ph](http://www.lazada.com.ph/contact/)
 
-_Personal Information You Provide:_
+### Collection of Personal Information
 
-We obtain and store information you enter on our Website or provide to us in any way. The types of Personal Information procured may include your name, email address, gender, zip code, country, IP address, browser information, and, if you make a purchase through our Website, your credit card number, credit card security code, expiration date, billing address, and shipping address. You can choose not to provide us with certain information, but then you may not be able to benefit of many of our special features, and you may not be able to check out with your purchase through the Website. The Personal Information is used for such purposes as allowing you to purchase items, improving the content of the Website, customizing the advertising and content you see, and communicating with you about specials and the latest features.
+When you create a Lazada account, or otherwise provide us with your personal information through the Platform, the personal information we collect may include your: 
 
-The website’s contents are not directed specifically to children. Users are required to be at least 18 years old, and any user under 18 is considered an unauthorized user. Furthermore, if we learn that a user is under 13 years of age, it is our right to promptly delete any Personal Information we have acquired about the under aged user.
+\- Name   
+\- Delivery Address   
+\- Email Address   
+\- Contact Number   
+\- Mobile Number   
+\- Date of Birth   
+\- Gender 
 
-_Personal Information Collected Automatically:_
+You must only submit to us, our authorized agent or the Platform, information which is accurate and complete and not misleading and you must keep it up to date and inform us of changes (more information below). We reserve the right to request for documentation to verify the information provided by you. 
 
-  * We accept and store certain types of information when you interact with our Website or services. Company automatically receives and registers information on our server logs from your browser including your IP address, cookie information, page requested, and any items you purchase. This information may be used to customize content or to connect with you about specials and new features.
+We will only be able to collect your personal information if you voluntarily submit the information to us. If you choose not to submit your personal information to us or subsequently withdraw your consent to our use of your personal information, we may not be able to provide you with our Services. You may access and update your personal information submitted to us at any time as described below. 
 
-  * Usage information, such as numbers and frequency of visitors to our site and its components may also be used in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of data enable us to figure out how often customers use certain parts of the Website or services so that we can make the Website pleasing to many customers as possible, and improve those services. As part of this use of data, we may provide aggregate information to our partners about how our customers, en masse, use our site. We share this type of statistical information so that our partners also understand how often people use their services and our Website, so that they, too, may deliver an optimal online experience. LAZADA never discloses aggregate information to a partner in a manner that would identify you personally.
+If you provide personal information of any third party to us, we assume that you have obtained the required consent from the relevant third party to share and transfer his/her personal information to us. 
 
-  * The tracking we implemented is based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting) and can collect information such as age, gender, interests and interaction with ads impressions. Using the Ads Settings, visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. Lazada and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website and across the Internet
+If you sign up for Lazada using your social media account or link your Lazada account to your social media account or use certain other Lazada social media features, we may access information about you which you have voluntarily provided under your social media account via that social media provider in accordance with the provider's policies and we will manage your personal data which we have collected in accordance with Lazada’s privacy policy 
 
+### Use and Disclosure of Personal Information
 
+The personal information we collect from you will be used, or shared with third parties (including related companies, third party service providers, and third party sellers), for some or all of the following purposes: 
 
+\- To facilitate your use of the Services (as defined in the Terms of Use) and/or access to the Platform;   
+\- To process orders you submit through the Platform, whether the products are sold by Lazada or a third party seller. Payments that you make through the Platform for products, whether sold by Lazada or a third party seller, will be processed by our agent;   
+\- To deliver the products you have purchased through the Platform, whether sold by Lazada or a third party seller. We may pass your personal information on to a third party in order to make delivery of the product to you (for example to our courier or supplier), whether the product is sold through the Platform by Lazada or a third party seller;   
+\- To update you on the delivery of the products, whether sold through the Platform by Lazada or a third party seller, and for customer support purposes;   
+\- To compare information, and verify with third parties in order to ensure that the information is accurate;   
+\- Further, we will use the information you provide to administer your account (if any) with us; verify and carry out financial transactions in relation to payments you make online; audit the downloading of data from the Platform; improve the layout and/or content of the pages of the Platform and customize them for users; identify visitors on the Platform; carry out research on our users’ demographics and behavior; provide you with information we think you may find useful or which you have requested from us, including information about our or third party sellers’ products and services, provided you have indicated that you have not objected to being contacted for these purposes;   
+\- When you register an account with Lazada or otherwise provide us with your personal information through the Platform, we will also use your personal information to send you marketing and/or promotional materials about our or third party sellers’ products and services from time to time. You can unsubscribe from receiving marketing information at any time by using the unsubscribe function within the electronic marketing material. We may use your contact information to send newsletters from us and from our related companies; and   
+\- In exceptional circumstances Lazada may be required to disclose personal information, such as when there are grounds to believe that the disclosure is necessary to prevent a threat to life or health, for law enforcement purposes, or for fulfillment of legal and regulatory requirements and requests. 
 
-_E-mail Communications:_
+Lazada may share your personal information with third parties and our affiliates for the abovementioned purposes, specifically, completing a transaction with you, managing your account and our relationship with you, marketing and fulfilling any legal or regulatory requirements and requests as deemed necessary by Lazada. In sharing your personal information with them, we endeavor to ensure that the third parties and our affiliates keep your personal information secure from unauthorized access, collection, use, disclosure, or similar risks and retain your personal information only for as long as they need your personal information to achieve the abovementioned purposes. 
 
-We may receive a confirmation when you open an email from LAZADA and the company uses this confirmation to help us make emails more interesting, helpful and to improve our over-all service. If you do not want to receive email or other mail from us, simply indicate your preference by making a modification on your account page, or by using the "Unsubscribe" feature in any email we send to you.
+In disclosing or transferring your personal information to third parties and our affiliates located overseas, Lazada take steps to ensure that the receiving jurisdiction has in place a standard of protection accorded to personal information that is comparable to the protection under or up to the standard of the Philippine Data Privacy Act. 
 
-_What About Cookies?_
+Lazada does not engage into the business of selling customers’ personal information to third parties. 
 
-  * Cookies are alphanumeric identifiers we transfer to your computer's hard drive through your browser to enable our systems to identify your browser and tell us how and when pages in our site are visited and by how many people. Company cookies do not collect Personal Information, and does not combine general information collected through cookies with other Personal Information to tell us who you are or what your screen name and/or email address is.
+### Withdrawal of Consent
 
-  * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as allowing you to approve each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website's most attractive features.
+You may communicate your objection to our continual use and/or disclosure of your personal information for any of the purposes and in the manner as stated above at any time by contacting us at our e-mail address below. 
 
-  * We may use cookies to gather usage or "clickstream" data about you or others who use your computer. This information allows us to deliver targeted content that we believe will be of most interest to potential customers and/or clients.
+Please note that if you communicate your objection to our use and/or disclosure of your personal information for the purposes and in the manner as stated above, depending on the nature of your objection, we may not be in a position to continue to provide our products or services to you or perform on any contract we have with you. Our legal rights and remedies are expressly reserved in such event. 
 
+### Updating Your Personal Information
 
+You can update your personal information anytime by accessing your account on the Lazada Platform. If you do not have an account with us, you can do so by contacting us at our e-mail address below. 
 
+We take steps to share the updates to your personal information with third parties and our affiliates with whom we have shared your personal information if your personal information is still necessary for the above stated purposes. 
 
-**Will LAZADA share any of the personal information received?**
+### Accessing Your Personal Information
 
-The customers’ Personal Information is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We only share Personal Information as described:
+If you would like to view the personal information we have on you or inquire about the ways in which your personal information has been or may have been used or disclosed by Lazada within the past year, please contact us at our e-mail address below. We reserve the right to charge a reasonable administrative fee for retrieving your personal information records. 
 
-_Affiliated Companies We Do Not Control:_
+If you have an account with Lazada, you may access details of your order by logging into your account on the Platform. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details and any newsletter to which you may have subscribed. You undertake to treat your Lazada username, password and order details confidentially and not make it available to unauthorized third parties. We cannot assume any liability for misuse of your Lazada username, password or order details, except as stated in the Terms of Use. 
 
-LAZADA is affiliated with a variety of businesses and work closely with them. In certain situations, these businesses sell items to you through Company's Website. In other circumstances, Company offers services, or sells products jointly with affiliated businesses. You can recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is connected to such transactions with that affiliated business.
+### Security of Your Personal Information
 
-_Agents:_
+Lazada ensures that all information collected will be safely and securely stored. We protect your personal information by: 
 
-We employ other firms and individuals to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, LAZADA's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us.
+\- Restricting access to personal information   
+\- Maintaining technology products to prevent unauthorized computer access   
+\- Securely destroying your personal information when it is no longer needed for any legal or business purpose 
 
-_Employees:_
+Lazada uses 128-bit SSL (secure sockets layer) encryption technology when processing your financial details. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. 
 
-We limit the access to your Personal Information to those personnel who need to know that information to provide products or services to you.
+If you believe that your privacy has been breached by Lazada, please contact us at our e-mail address below. 
 
-_Business Transfers:_
+Your password is the key to your account. Please use unique numbers, letters and special characters, and do not share your Lazada password to anyone. If you do share your password with others, you will be responsible for all actions taken in the name of your account and the consequences. If you lose control of your password, you may lose substantial control over your personal information and other information submitted to Lazada. You could also be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason or if you have grounds to believe that your password has been compromised, you should immediately contact us and change your password. You are reminded to log off of your account and close the browser when finished using a shared computer. 
 
-In certain cases, we may choose to buy or sell assets. In these manners of transactions, customer information is typically one of the business assets that are transferred. Furthermore, if LAZADA, or substantially all of its assets were acquired, or in the unlikely event that the Company goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such handovers may occur, and that any acquirer of the Company may continue to use your Personal Information as set forth in this policy.
+### Minor
 
-_Protection of Company and Others:_
+Lazada does not sell products for purchase by children. If you are under 18 years old, you may use our website only with the involvement of a parent or guardian. 
 
-We may issue Personal Information when we are certain that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of LAZADA, our employees, users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+### Collection of Computer Data
 
-**Is personal information about me secure in LAZADA?**
+Lazada or our authorized service providers may use cookies, web beacons, and other similar technologies for storing information to help provide you with a better, faster, safer and personalized experience when you use the Services and/or access the Platform. 
 
-Your LAZADA account Personal Information is protected by a password for your privacy and security. Prevent unauthorized access to your account and Personal Information by choosing and protecting your password suitably and limiting access to your computer and browser by signing off after you are done accessing your account.
+When you visit Lazada, our company servers will automatically record information that your browser sends whenever you visit a website. This data may include: 
 
-LAZADA's order form asks users to enter Personal Information such as a credit card number, that information is encrypted with industry-standard Secure Socket Layers ("SSL") encryption to keep your online order secure. When the letters "http" in the URL address change to "https", the "s" specifies you are in a secure area employing SSL. LAZADA maintains physical, electronic, and procedural safeguards that comply with guidelines to protect your Personal Information. LAZADA endeavors to protect user data to ensure that user account information is kept private; however, the Company cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user data and other information at any time.
+\- Your computer's IP address   
+\- Browser type   
+\- Webpage you were visiting before you came to our Platform   
+\- The pages within the Platform which you visit   
+\- The time spent on those pages, items and information searched for on the Platform, access times and dates, and other statistics. 
 
-The Website may include links to other sites. LAZADA is not accountable for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs data collected on the Website.
+This information is collected for analysis and evaluation in order to help us improve the Platform and the services and products we provide. 
 
-**What personal information can I access?**
+Cookies are small text files (typically made up of letters and numbers) placed in the memory of your browser or device when you visit a website or view a message. They allow us to recognize a particular device or browser and help us to personalize the content to match your preferred interests more quickly, and to make our Services and Platform more convenient and useful to you. 
 
-LAZADA permits access the following information about you for the purpose of viewing, and in certain circumstances, updating that data. This list may change as our Website grows and additional information may be needed.
+Web beacons are small graphic images that may be included on our Service and the Platform. They allow us to count users who have viewed these pages so that we can better understand your preference and interests. 
 
-  * Name
-  * Date of Birth
-  * Gender
-  * Delivery Address
-  * Mobile Number
-  * Telephone Number
-  * E-mail Address
+### No Spam, Spyware, or Virus
 
+Spam, spyware or virus is not allowed on Platform. Please set and maintain your communication preferences so that we send communications to you as you prefer. You are not licensed or otherwise allowed to add other users (even a user who has purchased an item from you) to your mailing list (email or physical mail) without their express consent. You should not send any messages which contain spam, spyware or virus via the Platform. If you would like to report any suspicious messages, please contact us at our email address below. 
 
+### Changes to the Privacy Policy
 
-**What choices do I have?**
+Lazada shall regularly review the sufficiency of this Privacy Policy. We reserve the right to modify and change the Privacy Policy at any time. Any changes to this policy will be published on the Platform. 
 
-  * As stated, you can always choose not to disclose information to use, though it may be required to take advantage of certain Company features, including the ability to purchase items through the Website.
+### Lazada's Right
 
-  * The ability to add or update certain data, such as those listed in the "What Personal Information Can I Access" section above. When updating information, we may maintain a copy of the information you provided before the revision in our private records.
+YOU ACKNOWLEDGE AND AGREE THAT LAZADA HAS THE RIGHT TO DISCLOSE YOUR PERSONAL INFORMATION TO ANY LEGAL, REGULATORY, GOVERNMENTAL, TAX, LAW ENFORCEMENT OR OTHER AUTHORITIES OR THE RELEVANT RIGHT OWNERS, IF LAZADA HAS REASONABLE GROUNDS TO BELIEVE THAT DISCLOSURE OF YOUR PERSONAL INFORMATION IS NECESSARY FOR THE PURPOSE OF MEETING ANY OBLIGATIONS, REQUIREMENTS OR ARRANGEMENTS, WHETHER VOLUNTARY OR MANDATORY, AS A RESULT OF COOPERATING WITH AN ORDER, AN INVESTIGATION AND/OR A REQUEST OF ANY NATURE BY SUCH PARTIES. TO THE EXTENT PERMISSIBLE BY APPLICABLE LAW, YOU AGREE NOT TO TAKE ANY ACTION AND/OR WAIVE YOUR RIGHTS TO TAKE ANY ACTION AGAINST LAZADA FOR THE DISCLOSURE OF YOUR PERSONAL INFORMATION IN THESE CIRCUMSTANCES. 
 
-  * If you do not wish to receive email or other mail from us, including promotional offers, please specify this preference by changing your account settings, or by informing us by using the "Unsubscribe" feature in any email we send. Note that if you do not want to receive legal notices, such as this Privacy Policy, those legal notices will still govern your use of LAZADA’s Website, and you are responsible for reviewing such legal notices for changes.
+### Contacting Lazada
 
-
-
-
-**Changes to privacy policy**
-
-LAZADA amends to this Privacy Policy from time to time. Use of data we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will let you know by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
-
-**Questions or concerns**
-
-If you have any questions or concerns regarding our Privacy Policy, please contact us at: [service@lazada.com.ph](mailto:service@lazada.com.ph)
+If you wish to withdraw your consent to our use of your personal information, request access and/or correction of your personal information, have any queries, comments or concerns, or require any help on technical or cookie-related matters, please feel free to contact us (and our Data Protection Officer) at [customer.services@lazada.com.ph](http://www.lazada.com.ph/contact/)
