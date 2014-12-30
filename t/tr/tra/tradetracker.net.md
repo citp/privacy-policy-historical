@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradetracker.net privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622024420id_/http%3A//www.tradetracker.com/gb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradetracker.net privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043438id_/http%3A//www.tradetracker.com/gb/privacy) for the most accurate reproduction.*
 
 # TradeTracker privacy statement - TradeTracker UK
 
@@ -6,7 +6,7 @@ At TradeTracker, your privacy is important to us. To better protect your privacy
 
 ### Information we collect
 
-TradeTracker collects many kinds of information in order to operate effectively and provide you the best products, services and experiences we can. We collect information when you register, sign in and use our sites and services. We also may get information from other companies. We collect this information in a variety of ways, including from web forms, technologies like [cookies](http://www.tradetracker.com/gb/privacy/cookie), web logging and software on your computer or other device.
+TradeTracker collects many kinds of information in order to operate effectively and provide you the best products, services and experiences we can. We collect information when you register, sign in and use our sites and services. We also may get information from other companies. We collect this information in a variety of ways, including from web forms, technologies like [cookies](https://www.tradetracker.com/gb/privacy/cookie), web logging and software on your computer or other device.
 
 ### How we use your personal information
 
