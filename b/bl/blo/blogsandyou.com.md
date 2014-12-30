@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogsandyou.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050047id_/http%3A//blogsandyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsandyou.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230140410id_/http%3A//blogsandyou.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blogsandyou
+# Privacy Policy - Blogs and you
 
 This Privacy Policy governs the manner in which blogsandyou collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://blogsandyou.com website (“Site”). This privacy policy applies to the Site and all products and services offered by blogsandyou.
 
@@ -19,11 +19,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 How we use collected information
 
 blogsandyou may collect and use Users personal information for the following purposes:  
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to respond to their inquiries, questions, and/or other requests.  
 How we protect your information
 
