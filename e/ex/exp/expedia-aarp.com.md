@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia-aarp.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423082436id_/http%3A//www.expedia-aarp.com/p/info-other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia-aarp.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230174821id_/http%3A//www.expedia-aarp.com/p/info-other/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AARP Travel Center powered by Expedia
 
