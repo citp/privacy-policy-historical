@@ -1,28 +1,38 @@
-<!--The following is the downloaded HTML source of the groupon.com privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629025159id_/http%3A//www.groupon.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the groupon.com privacy policy that was archived on 2014-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230052302id_/http%3A//www.groupon.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=""><!--<![endif]--><head data-app="unwrap" data-country="US" data-language="en" data-locale="en_US" data-domain=".groupon.com">
+<!DOCTYPE html><html id="ls-html" lang="en"><!--<![endif]--><head data-app="content-pages" data-country="US" data-language="en" data-locale="en_US" data-domain=".groupon.com">
     <title>GROUPON, INC.</title>
     <meta charset="utf-8">
-    <link href="//www.groupon.com/layout/assets/gig-fonts-latin-v2.2.1-f64257dd5e.css" rel="stylesheet" type="text/css" id="ls-fonts">
-    <script>
-      BOOMR = {};
-      BOOMR["t_lstart"] = new Date().getTime();
-      var collectOnload = function(){
-        BOOMR["t_lonload"] = new Date().getTime();
-      }
-      var addListener = function(sType){
-        if(window.addEventListener) {
-          window.addEventListener(sType, collectOnload, false);
-        } else if(window.attachEvent){
-          window.attachEvent("on"+sType, collectOnload);
+    <link href="//www.groupon.com/layout/assets/gig-fonts-latin-v2.2.4-55ee8540c9.css" rel="stylesheet" type="text/css" id="ls-fonts">
+
+      <link href="//www.groupon.com/layout/assets/gig_application_layout-v5.0.10-74a58a61db.css" rel="stylesheet" type="text/css" id="gig-ltr">
+    <link href="/pages-assets/contentstyles-350aa596af.css" rel="stylesheet" type="text/css">
+    <script>(function() {
+      if (window.chrome && navigator.appVersion.indexOf("Win")!=-1 && parseInt(navigator.appVersion.match(/Chrome\/(\d+)\./)[1], 10) == 36){
+        var head = document.head,
+            css = "@font-face{font-family:Groupon;font-style:normal;font-weight:400;src:local('☺'),url(/layout/fonts/Groupon-v2.4.woff) format('woff')}",
+            style = document.createElement('style');
+        style.type="text/css";
+        if (style.styleSheet){
+          style.styleSheet.cssText = css;
+        } else {
+          style.appendChild(document.createTextNode(css));
         }
+        head.appendChild(style);
       }
-      if("onpagehide" in window) {
-        addListener("pageshow");
-      } else {
-        addListener("load");
-      }
+    })();</script>
+    <script>
+      BOOMR = { t_lstart: +new Date() };
+      (function(event) {
+        var collectOnload = function() {
+          BOOMR.t_lonload = +new Date();
+        };
+        if (window.addEventListener)
+          window.addEventListener(event, collectOnload, false);
+        else if (window.attachEvent)
+          window.attachEvent('on'+event, collectOnload);
+      })('onpagehide' in window ? 'pageshow' : 'load');
     
       var applicationConfig =
         
@@ -31,9 +41,9 @@
     </script>
     <script>
       window.Groupon || (window.Groupon = {});
-      Groupon.division = {"areas":[{"lng":-77.0166,"id":"dc-metro","lat":38.9066,"name":"The District"},{"lng":-77.291,"id":"northern-virginia","lat":38.8209,"name":"Northern Virginia"},{"lng":-77.1262,"id":"montgomery-county","lat":39.0772,"name":"Montgomery County"}],"lng":-77.0241,"lat":38.8921,"id":"washington-dc","timezone":"Eastern Time (US & Canada)","name":"Washington DC","timezoneIdentifier":"America/New_York","country":"USA","defaultLocale":"en","state":{"abbreviation":"DC"},"selectCurrentDivision":"selected"};
+      Groupon.division = {"uuid":"4f62c20b-0bdb-4108-bfe2-64fcbbe3c3d1","id":"sacramento","name":"Sacramento","country":"USA","countryCode":"US","areas":[],"timezone":"Pacific Standard Time","timezoneOffsetInSeconds":-28800,"timezoneIdentifier":"America/Los_Angeles","isNowCustomerEnabled":false,"isNowMerchantEnabled":false,"isPresenceEnabled":false,"isReserveEnabled":false,"lat":38.5816,"lng":-121.494,"defaultLocale":"en_US","encoded_name":"otnemarcaS","selectCurrentDivision":"selected"};
       Groupon.Performance = {};
-      Groupon.Performance.boomerangUrl = "//www.groupon.com/layout/assets/boomerang-0.9.3-basic.js";
+      Groupon.Performance.boomerangUrl = "//www.groupon.com/layout/assets/boomerang-0.9.3-basic-custom.js";
       Groupon.CartTranslations = {"cart":{"cart":"Cart","desc":"Your Cart","quantity":"Qty","price":"Price","subtotal":"Subtotal","view_cart":"View Cart","empty_cart":"Your Shopping Cart is Empty!","empty_text":"Time to fill this bad boy with great products like gadgets, electronics, housewares, gifts and other great offerings from","groupon_goods":"Groupon Goods"}};
       Groupon.endpoints =
       { deals: "//api.groupon.com/v2/deals/autocomplete?client_id=65805330B9C8645F78F4FD027925D3C8"
@@ -42,16 +52,14 @@
     </script>
     <script>(function(w) {
     
-    var config = {},
+    var config = {"cookieDomain":".groupon.com","page":{"app":"content-pages","channel":"content_pages"},"user":{"platform":"web"},"tracking":{"secureStorageEnabled":false}},
       page;
     config.page = config.page || {};
     page = config.page;
-    page.division = "washington-dc";
+    page.division = "sacramento";
     page.country = "US";
     page.type = "content_page";
     page.channel = "" || page.channel || "main";
-page.app = "content-pages";
-config.cookieDomain = ".groupon.com" || ".groupon.com";
     w.Optimize = { suiteData:
     { config:       config
     , app:          page.app
@@ -64,11 +72,11 @@ config.cookieDomain = ".groupon.com" || ".groupon.com";
     <script>
       Optimize.finchConfig = (function () {
         var appConfig =
-            {"mygroupons":{"experiments":{"FirstComeFirstServeSocialGifting":{"name":"FirstComeFirstServeSocialGifting","tracking":false,"variants":["gifting"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"api-mobile-all-postpurchasedeals":{"experiments":{"postPurchaseDeals":{"name":"postPurchaseDeals","tracking":false,"variants":["on","on"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"scheduler-book-online-text":{"experiments":{"ShowBookOnlineText":{"name":"ShowBookOnlineText","tracking":false,"variants":["Display"],"guards":[{"name":"on_deal_or_division_page","parameters":null},{"name":"scheduler_deal","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"performance-rollout":{"experiments":{"BoomerangMonitoring":{"name":"BoomerangMonitoring","tracking":false,"variants":["Boomerang"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"RandomDiversion"},"unsubscribe-flow":{"experiments":{"NewModals2":{"name":"NewModals2","tracking":true,"variants":["Feedback"],"guards":[{"name":"on_sub_center_with_division","parameters":null}],"bucket_min":900,"bucket_max":999,"buckets":"900..999"}},"diversion_type":"CookieDiversion"},"now-occurrences":{"experiments":{"Occurrences":{"name":"Occurrences","tracking":false,"variants":["Standard"],"guards":[{"name":"on_now_page","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"api-mobile-all-goods1205":{"experiments":{"goods1205":{"name":"goods1205","tracking":false,"variants":["largeDealCards","largeDealCards","largeDealCards","largeDealCards","largeDealCards","largeDealCards","largeDealCards","largeDealCards","largeDealCards","largeDealCards"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"api-mobile-all-featureddeals1205":{"experiments":{"featuredDeals1205":{"name":"featuredDeals1205","tracking":false,"variants":["largeDealCards","largeDealCards","largeDealCards","largeDealCards","largeDealCards","largeDealCards","largeDealCards","largeDealCards"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"now-search-service":{"experiments":{"NowRelevanceSwitch":{"name":"NowRelevanceSwitch","tracking":true,"variants":["Original","RelevanceService"],"guards":[{"name":"division_is_enabled_for_now","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"transaction-succeeded-email":{"experiments":{"EmailsWithRankedDeals":{"name":"EmailsWithRankedDeals","tracking":true,"variants":["Control","WithRankedDeals"],"bucket_min":0,"bucket_max":99,"buckets":"0..99"}},"diversion_type":"CookieDiversion"},"unsubscribe-channel-flow":{"experiments":{"ChannelNewModals":{"name":"ChannelNewModals","tracking":false,"variants":["ChannelFeedback"],"guards":[{"name":"on_sub_center_with_channel","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"performance-boomerang":{"experiments":{"BoomerangDNS":{"name":"BoomerangDNS","tracking":true,"variants":["Control","Enable_dns"],"bucket_min":0,"bucket_max":9,"buckets":"0..9"},"BoomerangBW":{"name":"BoomerangBW","tracking":true,"variants":["Control","Enable_bandwidth"],"bucket_min":800,"bucket_max":809,"buckets":"800..809"}},"diversion_type":"RandomDiversion"},"local-header":{"experiments":{"ShowCategoriesOnDealPages":{"name":"ShowCategoriesOnDealPages","tracking":false,"variants":["ShowCategories"],"guards":[{"name":"inBrowseExperiment","parameters":null},{"name":"isEligibleForCategoryNav","parameters":null},{"name":"onBrowseOrDealPages","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"new-header-and-all-deals-vs-browse":{"experiments":{"LocalNavHeaderWithBrowseLink":{"name":"LocalNavHeaderWithBrowseLink","tracking":false,"variants":["LocalNavWithBrowseLink"],"guards":[{"name":"division_enabled_for_browse","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"sanity-check":{"experiments":{"SanityCheck":{"name":"SanityCheck","tracking":true,"variants":["SanityCheck"],"bucket_min":0,"bucket_max":19,"buckets":"0..19"}},"diversion_type":"CookieDiversion"},"LimitedDeals":{"experiments":{"LimitedDeals":{"name":"LimitedDeals","tracking":false,"variants":["LimitedDealsVariant"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"browse-as-home-page":{"experiments":{"BrowseAsHomePage":{"name":"BrowseAsHomePage","tracking":false,"variants":["RedirectToBrowse"],"guards":[{"name":"onDivisionPage","parameters":null},{"name":"inBrowseExperiment","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"new-goods-detail-page":{"experiments":{"GoodsDetailPage":{"name":"GoodsDetailPage","tracking":false,"variants":["New"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"GiftingDealMixerWeighting":{"experiments":{"GiftingDealMixerWeighting":{"name":"GiftingDealMixerWeighting","tracking":true,"variants":["NoWeighting","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"keyword-bar-autocomplete":{"experiments":{"KeywordBarAutocomplete":{"name":"KeywordBarAutocomplete","tracking":false,"variants":["Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete"],"guards":[{"name":"inBrowseExperiment","parameters":null},{"name":"onBrowseOrDealPages","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"location-bar-autocomplete":{"experiments":{"LocationBarAutocomplete":{"name":"LocationBarAutocomplete","tracking":false,"variants":["Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete"],"guards":[{"name":"inBrowseExperiment","parameters":null},{"name":"onBrowseOrDealPages","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"gift-wizard":{"experiments":{"GiftWizard":{"name":"GiftWizard","tracking":false,"variants":["TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery"],"guards":[{"name":"on_checkout_or_edit_confirmation_page","parameters":null},{"name":"not_on_ie8","parameters":null},{"name":"not_on_ie7","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"local-header-variants":{"experiments":{"CategoryNavVariants":{"name":"CategoryNavVariants","tracking":false,"variants":["ShowCategoriesAndNewDeals"],"guards":[{"name":"inBrowseExperiment","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"giftable-occasions-pull-ads-position":{"experiments":{"GiftableOccasionsPullAdsPosition":{"name":"GiftableOccasionsPullAdsPosition","tracking":false,"variants":["ShowAfterGiftFinder"],"guards":[{"name":"on_brwose_enabled_division?","parameters":null},{"name":"on_giftable_occasions_page?","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"GsmEmailSubscription":{"experiments":{"GsmEmailSubscriptionExperiment":{"name":"GsmEmailSubscriptionExperiment","tracking":true,"variants":["control","subModalContinue","subModal3Continue","subModal3ContinueSocial"],"guards":[{"name":"on_gsm_platform_page","parameters":null},{"name":"user_has_no_sub_cookie","parameters":null},{"name":"request_from_normal_seo","parameters":null},{"name":"not_explicitly_skip_modal","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"GiftFinderOnGiftableOccasions":{"experiments":{"GiftFinderOnGiftableOccasions":{"name":"GiftFinderOnGiftableOccasions","tracking":false,"variants":["GiftableOccasions"],"guards":[{"name":"on_giftable_occasions_page","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"goods-gift-message":{"experiments":{"GiftMessage":{"name":"GiftMessage","tracking":false,"variants":["GiftMessage"],"guards":[{"name":"onGoodsCheckoutOrDealPages","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"browse-goods-layout":{"experiments":{"DealCardLayout":{"name":"DealCardLayout","tracking":false,"variants":["TwoUp"],"guards":[{"name":"onBrowseGoodsPage","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"hide-reserve-tab":{"experiments":{"HideReserveTabForUsers":{"name":"HideReserveTabForUsers","tracking":false,"variants":["ShowReserveTab"],"guards":[{"name":"division_enabled_for_reserve","parameters":null},{"name":"not_subscription_page","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"CategoriesOnDealPages":{"experiments":{"CategoriesOnGoodsDealPages":{"name":"CategoriesOnGoodsDealPages","tracking":false,"variants":["ShowCategoriesOnGoodsDealPages"],"guards":[{"name":"on_goods_deal","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"VariationSelectorWidget":{"experiments":{"VariationSelectorWidget":{"name":"VariationSelectorWidget","tracking":false,"variants":["NewVariationSelectorWidget"],"guards":[{"name":"on_goods_deal","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"reserve-landing-hero-image":{"experiments":{"ReserveLandingSwitchHeroText":{"name":"ReserveLandingSwitchHeroText","tracking":true,"variants":["ShowVariant2","Control","ShowVariant3"],"guards":[{"name":"division_enabled_for_reserve","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"checkout-itier":{"experiments":{"BookingEngine":{"name":"BookingEngine","tracking":true,"variants":["PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"DealOptionImages":{"experiments":{"DealOptionImages":{"name":"DealOptionImages","tracking":false,"variants":["ShowDealOptionImages"],"guards":[{"name":"on_goods_deal_with_option_images","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"CSHelpWizardReturnability":{"experiments":{"CSReturnability":{"name":"CSReturnability","tracking":false,"variants":["ShowReturnItemButton"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"VariationSelectorWidgetOnGLivePage":{"experiments":{"VariationSelectorWidgetOnGLivePage":{"name":"VariationSelectorWidgetOnGLivePage","tracking":true,"variants":["NewVariationSelectorWidget","OldVariationSelectorWidget"],"bucket_min":830,"bucket_max":929,"buckets":"830..929"}},"diversion_type":"CookieDiversion"},"booking-engine-myreservations":{"experiments":{"BookingEngine-MyReservations":{"name":"BookingEngine-MyReservations","tracking":false,"variants":["MyReservations"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"itier-my-profile":{"experiments":{"ItierMyProfile":{"name":"ItierMyProfile","tracking":false,"variants":["itier"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"PromNight":{"experiments":{"PromNightHeaderV2":{"name":"PromNightHeaderV2","tracking":false,"variants":["showV2"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"touch-deal-ita-redirect":{"experiments":{"mobileRedirect":{"name":"mobileRedirect","tracking":true,"variants":["disable"],"bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"diversion_type":"CookieDiversion"},"itier-seo-pages-subscription":{"experiments":{"itier-seo-pages-subscription-experiment":{"name":"itier-seo-pages-subscription-experiment","tracking":true,"variants":["subscription_modalDialog_8_showContinue_showSocial","subscription_modalDialog_8_showContinue_showSocial","none"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"Iovation":{"experiments":{"IovationBlackbox":{"name":"IovationBlackbox","tracking":false,"variants":["Treatment"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"GoodsBrowsePageLayout":{"experiments":{"GoodsBrowsePageLayout":{"name":"GoodsBrowsePageLayout","tracking":true,"variants":["megaMindHome"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-flow-common":{"experiments":{"subscription-flow-common-experiment":{"name":"subscription-flow-common-experiment","tracking":false,"variants":["subscription_fullScreen_2"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"PromNightGifts":{"experiments":{"PromNightGifts":{"name":"PromNightGifts","tracking":false,"variants":["hide"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"touch-sendAsGift1311INTL":{"experiments":{"sendAsGift1311INTL":{"name":"sendAsGift1311INTL","tracking":true,"variants":["on","on","on","on","on","on","on","on","on","on"],"guards":[{"name":"is_eu_platform?","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"getaways-mrcheckout":{"experiments":{"getaways-mrcheckout":{"name":"getaways-mrcheckout","tracking":true,"variants":["mrcheckout"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"secure-address-book-lite-cart-checkout":{"experiments":{"SecureAddressBookLiteCartCheckout":{"name":"SecureAddressBookLiteCartCheckout","tracking":true,"variants":["Control","Treatment"],"bucket_min":0,"bucket_max":0,"buckets":"0..0"}},"diversion_type":"CookieDiversion"},"homepage-closed-loop":{"experiments":{"ClosedLoopDealTypes":{"name":"ClosedLoopDealTypes","tracking":true,"variants":["ClosedLoopCTA"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"ShowHolidayEmailThemes":{"experiments":{"ShowHolidayEmailThemes":{"name":"ShowHolidayEmailThemes","tracking":false,"variants":["enable"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"api-mobile-ipad-multioptions1307US":{"experiments":{"multioptions1307US":{"name":"multioptions1307US","tracking":true,"variants":["on","Original"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"UGCPostRedemptionSurveyMobile":{"experiments":{"MaybeNextTimeImprovements":{"name":"MaybeNextTimeImprovements","tracking":true,"variants":["LandInTextModal"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"pull-gsm-list-view":{"experiments":{"PullGsmListView":{"name":"PullGsmListView","tracking":true,"variants":["ShowListViewToggle"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-flow-serp":{"experiments":{"subscription-flow-serp-experiment":{"name":"subscription-flow-serp-experiment","tracking":true,"variants":["subscription_modalDialog_7_showClose_showSocial"],"bucket_min":0,"bucket_max":899,"buckets":"0..899"}},"diversion_type":"CookieDiversion"},"pull-gsm-merch-carousel":{"experiments":{"GSMMerchCarousel":{"name":"GSMMerchCarousel","tracking":true,"variants":["Control","ShowMerchCarousel"],"bucket_min":0,"bucket_max":499,"buckets":"0..499"}},"diversion_type":"CookieDiversion"},"subscription-flow-banner":{"experiments":{"subscription-flow-banner-experiment":{"name":"subscription-flow-banner-experiment","tracking":true,"variants":["subscription_banner_0"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"touch-shoppingCart0220USCA":{"experiments":{"shoppingCart0220USCA":{"name":"shoppingCart0220USCA","tracking":true,"variants":["Control","Control","Control","Control","Control","Control","Control","Control","Control","Control","Control","Control","Control","Control","Control","Control","Control","Control","Control","on"],"guards":[{"name":"is_us_platform?","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"touch-shoppingCartDealDetail0220USCA":{"experiments":{"shoppingCartDealDetail0220USCA":{"name":"shoppingCartDealDetail0220USCA","tracking":true,"variants":["Control","on"],"guards":[{"name":"is_us_platform?","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"touch-shoppingCartBuyButton0220USCA":{"experiments":{"shoppingCartBuyButton0220USCA":{"name":"shoppingCartBuyButton0220USCA","tracking":true,"variants":["Control","on"],"guards":[{"name":"is_us_platform?","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-sem-homepage":{"experiments":{"subscription-sem-homepage-experiment":{"name":"subscription-sem-homepage-experiment","tracking":true,"variants":["subscription_fullScreen_2"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-seo-homepage":{"experiments":{"subscription-seo-homepage-experiment":{"name":"subscription-seo-homepage-experiment","tracking":true,"variants":["subscription_fullScreen_2_showContinue"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-flow-serp-division-override":{"experiments":{"subscription-flow-serp-division-override-experiment":{"name":"subscription-flow-serp-division-override-experiment","tracking":true,"variants":["subscription_modalDialog_7_showClose_showSocial"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-flow-common-division-override":{"experiments":{"subscription-flow-common-division-override-experiment":{"name":"subscription-flow-common-division-override-experiment","tracking":true,"variants":["subscription_fullScreen_2"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-flow-sem-homepage-division-override":{"experiments":{"subscription-flow-sem-homepage-division-override-experiment":{"name":"subscription-flow-sem-homepage-division-override-experiment","tracking":true,"variants":["subscription_fullScreen_2"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-flow-seo-division-override":{"experiments":{"subscription-flow-seo-division-override-experiment":{"name":"subscription-flow-seo-division-override-experiment","tracking":true,"variants":["subscription_modalDialog_8_showContinue_showSocial","subscription_modalDialog_8_showContinue_showSocial","none"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-flow-seo-homepage-division-override":{"experiments":{"subscription-flow-seo-homepage-division-override-experiment":{"name":"subscription-flow-seo-homepage-division-override-experiment","tracking":true,"variants":["subscription_fullScreen_2_showContinue"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"OccasionsInAppMessages":{"experiments":{"OccasionsInAppMessages":{"name":"OccasionsInAppMessages","tracking":true,"variants":["disabled","enabled","enabled","enabled","enabled"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"GoodsBasicsDiscount":{"experiments":{"GoodsBasicsDiscount":{"name":"GoodsBasicsDiscount","tracking":true,"variants":["control","show"],"bucket_min":0,"bucket_max":499,"buckets":"0..499"}},"diversion_type":"CookieDiversion"},"GoodsBasicsQuantitySold":{"experiments":{"GoodsBasicsQuantitySold":{"name":"GoodsBasicsQuantitySold","tracking":true,"variants":["control","show"],"bucket_min":0,"bucket_max":399,"buckets":"0..399"}},"diversion_type":"CookieDiversion"},"deal-page-login-modal":{"experiments":{"DealPageLoginModal":{"name":"DealPageLoginModal","tracking":true,"variants":["control","enable"],"bucket_min":0,"bucket_max":499,"buckets":"0..499"}},"diversion_type":"CookieDiversion"},"subscription-flow-sub-save":{"experiments":{"subscription-flow-sub-save-experiment":{"name":"subscription-flow-sub-save-experiment","tracking":true,"variants":["subscription_fullScreen_2_subSave"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-flow-non-sub-save":{"experiments":{"subscription-flow-non-sub-save-experiment":{"name":"subscription-flow-non-sub-save-experiment","tracking":true,"variants":["subscription_fullScreen_2"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"pull-pagination-map":{"experiments":{"PullPaginationMap":{"name":"PullPaginationMap","tracking":true,"variants":["Pagination","PaginationStaticMap"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-resubscribe":{"experiments":{"subscription-resubscribe":{"name":"subscription-resubscribe","tracking":true,"variants":["subscription_fullScreen_2"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"GoodsL2CategoriesPages":{"experiments":{"GoodsL2Categories":{"name":"GoodsL2Categories","tracking":true,"variants":["Control","Treatment"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-flow-geocat":{"experiments":{"subscription-flow-geocat-experiment":{"name":"subscription-flow-geocat-experiment","tracking":true,"variants":["subscription_modalDialog_7_showClose","none"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"}}
+            {"mygroupons":{"experiments":{"FirstComeFirstServeSocialGifting":{"name":"FirstComeFirstServeSocialGifting","tracking":false,"variants":["gifting"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"scheduler-book-online-text":{"experiments":{"ShowBookOnlineText":{"name":"ShowBookOnlineText","tracking":false,"variants":["Display"],"guards":[{"name":"on_deal_or_division_page","parameters":null},{"name":"scheduler_deal","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"performance-rollout":{"experiments":{"BoomerangMonitoring":{"name":"BoomerangMonitoring","tracking":false,"variants":["Boomerang"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"RandomDiversion"},"now-search-service":{"experiments":{"NowRelevanceSwitch":{"name":"NowRelevanceSwitch","tracking":true,"variants":["Original","RelevanceService"],"guards":[{"name":"division_is_enabled_for_now","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"transaction-succeeded-email":{"experiments":{"EmailsWithRankedDeals":{"name":"EmailsWithRankedDeals","tracking":true,"variants":["Control","WithRankedDeals"],"bucket_min":0,"bucket_max":99,"buckets":"0..99"}},"diversion_type":"CookieDiversion"},"performance-boomerang":{"experiments":{"BoomerangDNS":{"name":"BoomerangDNS","tracking":true,"variants":["Control","Enable_dns"],"bucket_min":0,"bucket_max":9,"buckets":"0..9"},"BoomerangBW":{"name":"BoomerangBW","tracking":true,"variants":["Control","Enable_bandwidth"],"bucket_min":800,"bucket_max":809,"buckets":"800..809"}},"diversion_type":"RandomDiversion"},"new-header-and-all-deals-vs-browse":{"experiments":{"LocalNavHeaderWithBrowseLink":{"name":"LocalNavHeaderWithBrowseLink","tracking":false,"variants":["LocalNavWithBrowseLink"],"guards":[{"name":"division_enabled_for_browse","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"sanity-check":{"experiments":{"SanityCheck":{"name":"SanityCheck","tracking":true,"variants":["SanityCheck"],"bucket_min":0,"bucket_max":19,"buckets":"0..19"}},"diversion_type":"CookieDiversion"},"LimitedDeals":{"experiments":{"LimitedDeals":{"name":"LimitedDeals","tracking":false,"variants":["LimitedDealsVariant"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"browse-as-home-page":{"experiments":{"BrowseAsHomePage":{"name":"BrowseAsHomePage","tracking":false,"variants":["RedirectToBrowse"],"guards":[{"name":"onDivisionPage","parameters":null},{"name":"inBrowseExperiment","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"new-goods-detail-page":{"experiments":{"GoodsDetailPage":{"name":"GoodsDetailPage","tracking":false,"variants":["New"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"GiftingDealMixerWeighting":{"experiments":{"GiftingDealMixerWeighting":{"name":"GiftingDealMixerWeighting","tracking":true,"variants":["NoWeighting","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3","Strategy_3"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"keyword-bar-autocomplete":{"experiments":{"KeywordBarAutocomplete":{"name":"KeywordBarAutocomplete","tracking":false,"variants":["Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete"],"guards":[{"name":"inBrowseExperiment","parameters":null},{"name":"onBrowseOrDealPages","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"location-bar-autocomplete":{"experiments":{"LocationBarAutocomplete":{"name":"LocationBarAutocomplete","tracking":false,"variants":["Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete","Autocomplete"],"guards":[{"name":"inBrowseExperiment","parameters":null},{"name":"onBrowseOrDealPages","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"gift-wizard":{"experiments":{"GiftWizard":{"name":"GiftWizard","tracking":false,"variants":["TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery","TwoUpScheduledDelivery"],"guards":[{"name":"on_checkout_or_edit_confirmation_page","parameters":null},{"name":"not_on_ie8","parameters":null},{"name":"not_on_ie7","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"local-header-variants":{"experiments":{"CategoryNavVariants":{"name":"CategoryNavVariants","tracking":false,"variants":["ShowCategoriesAndNewDeals"],"guards":[{"name":"inBrowseExperiment","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"giftable-occasions-pull-ads-position":{"experiments":{"GiftableOccasionsPullAdsPosition":{"name":"GiftableOccasionsPullAdsPosition","tracking":false,"variants":["ShowAfterGiftFinder"],"guards":[{"name":"on_brwose_enabled_division?","parameters":null},{"name":"on_giftable_occasions_page?","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"GsmEmailSubscription":{"experiments":{"GsmEmailSubscriptionExperiment":{"name":"GsmEmailSubscriptionExperiment","tracking":true,"variants":["control","subModalContinue","subModal3Continue","subModal3ContinueSocial"],"guards":[{"name":"on_gsm_platform_page","parameters":null},{"name":"user_has_no_sub_cookie","parameters":null},{"name":"request_from_normal_seo","parameters":null},{"name":"not_explicitly_skip_modal","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"GiftFinderOnGiftableOccasions":{"experiments":{"GiftFinderOnGiftableOccasions":{"name":"GiftFinderOnGiftableOccasions","tracking":false,"variants":["GiftableOccasions"],"guards":[{"name":"on_giftable_occasions_page","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"goods-gift-message":{"experiments":{"GiftMessage":{"name":"GiftMessage","tracking":false,"variants":["GiftMessage"],"guards":[{"name":"onGoodsCheckoutOrDealPages","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"browse-goods-layout":{"experiments":{"DealCardLayout":{"name":"DealCardLayout","tracking":false,"variants":["TwoUp"],"guards":[{"name":"onBrowseGoodsPage","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"hide-reserve-tab":{"experiments":{"HideReserveTabForUsers":{"name":"HideReserveTabForUsers","tracking":false,"variants":["ShowReserveTab"],"guards":[{"name":"division_enabled_for_reserve","parameters":null},{"name":"not_subscription_page","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"CategoriesOnDealPages":{"experiments":{"CategoriesOnGoodsDealPages":{"name":"CategoriesOnGoodsDealPages","tracking":false,"variants":["ShowCategoriesOnGoodsDealPages"],"guards":[{"name":"on_goods_deal","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"VariationSelectorWidget":{"experiments":{"VariationSelectorWidget":{"name":"VariationSelectorWidget","tracking":false,"variants":["NewVariationSelectorWidget"],"guards":[{"name":"on_goods_deal","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"reserve-landing-hero-image":{"experiments":{"ReserveLandingSwitchHeroText":{"name":"ReserveLandingSwitchHeroText","tracking":true,"variants":["ShowVariant2","Control","ShowVariant3"],"guards":[{"name":"division_enabled_for_reserve","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"checkout-itier":{"experiments":{"BookingEngine":{"name":"BookingEngine","tracking":true,"variants":["PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton","PrePurchaseWithBuyButton"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"DealOptionImages":{"experiments":{"DealOptionImages":{"name":"DealOptionImages","tracking":false,"variants":["ShowDealOptionImages"],"guards":[{"name":"on_goods_deal_with_option_images","parameters":null}],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"VariationSelectorWidgetOnGLivePage":{"experiments":{"VariationSelectorWidgetOnGLivePage":{"name":"VariationSelectorWidgetOnGLivePage","tracking":true,"variants":["NewVariationSelectorWidget","OldVariationSelectorWidget"],"bucket_min":830,"bucket_max":929,"buckets":"830..929"}},"diversion_type":"CookieDiversion"},"booking-engine-myreservations":{"experiments":{"BookingEngine-MyReservations":{"name":"BookingEngine-MyReservations","tracking":false,"variants":["MyReservations"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"PromNight":{"experiments":{"PromNightHeaderV2":{"name":"PromNightHeaderV2","tracking":false,"variants":["showV2"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"itier-seo-pages-subscription":{"experiments":{"itier-seo-pages-subscription-experiment":{"name":"itier-seo-pages-subscription-experiment","tracking":true,"variants":["none"],"bucket_min":0,"bucket_max":332,"buckets":"0..332"}},"diversion_type":"CookieDiversion"},"subscription-flow-seo-division-override":{"experiments":{"subscription-flow-seo-division-override-experiment":{"name":"subscription-flow-seo-division-override-experiment","tracking":true,"variants":["none"],"bucket_min":0,"bucket_max":332,"buckets":"0..332"}},"diversion_type":"CookieDiversion"},"OccasionsInAppMessages":{"experiments":{"OccasionsInAppMessages":{"name":"OccasionsInAppMessages","tracking":true,"variants":["disabled","enabled","enabled","enabled","enabled"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-resubscribe":{"experiments":{"subscription-resubscribe":{"name":"subscription-resubscribe","tracking":true,"variants":["subscription_fullScreen_9"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"GoodsL2CategoriesPages":{"experiments":{"GoodsL2Categories":{"name":"GoodsL2Categories","tracking":true,"variants":["Treatment"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-flow-geocat":{"experiments":{"subscription-flow-geocat-experiment":{"name":"subscription-flow-geocat-experiment","tracking":true,"variants":["subscription_modalDialog_7_showClose","none"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"homepage-hero-deal-animation":{"experiments":{"AnimateHeroDeal":{"name":"AnimateHeroDeal","tracking":true,"variants":["control","AnimateHeroDeal"],"bucket_min":0,"bucket_max":399,"buckets":"0..399"}},"diversion_type":"CookieDiversion"},"subscription-flow-expired-deal":{"experiments":{"subscription-flow-expired-deal-experiment":{"name":"subscription-flow-expired-deal-experiment","tracking":true,"variants":["none"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"DisplayInventoryOnSEOPages":{"experiments":{"da-inventory-seo":{"name":"da-inventory-seo","tracking":true,"variants":["control","show"],"bucket_min":0,"bucket_max":199,"buckets":"0..199"}},"diversion_type":"CookieDiversion"},"coupon-merchant-background":{"experiments":{"MerchantBackground":{"name":"MerchantBackground","tracking":true,"variants":["control","forceDefaultMerchantBackground"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"}}
         
 ;
         var layoutConfig =
-          {"itier-seo-pages-subscription":{"experiments":{"itier-seo-pages-subscription-experiment":{"name":"itier-seo-pages-subscription-experiment","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_modalDialog_8_showContinue_showSocial","subscription_modalDialog_8_showContinue_showSocial","none"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-flow-common":{"experiments":{"subscription-flow-common-experiment":{"name":"subscription-flow-common-experiment","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":false,"variants":["subscription_fullScreen_2"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"PromNightGifts":{"experiments":{"PromNightGifts":{"name":"PromNightGifts","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":false,"variants":["hide"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-flow-banner":{"experiments":{"subscription-flow-banner-experiment":{"name":"subscription-flow-banner-experiment","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_banner_0"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-sem-homepage":{"experiments":{"subscription-sem-homepage-experiment":{"name":"subscription-sem-homepage-experiment","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_fullScreen_2"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-seo-homepage":{"experiments":{"subscription-seo-homepage-experiment":{"name":"subscription-seo-homepage-experiment","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_fullScreen_2_showContinue"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-flow-serp-division-override":{"experiments":{"subscription-flow-serp-division-override-experiment":{"name":"subscription-flow-serp-division-override-experiment","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_modalDialog_7_showClose_showSocial"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-flow-common-division-override":{"experiments":{"subscription-flow-common-division-override-experiment":{"name":"subscription-flow-common-division-override-experiment","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_fullScreen_2"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-flow-sem-homepage-division-override":{"experiments":{"subscription-flow-sem-homepage-division-override-experiment":{"name":"subscription-flow-sem-homepage-division-override-experiment","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_fullScreen_2"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-flow-seo-division-override":{"experiments":{"subscription-flow-seo-division-override-experiment":{"name":"subscription-flow-seo-division-override-experiment","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_modalDialog_8_showContinue_showSocial","subscription_modalDialog_8_showContinue_showSocial","none"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-flow-seo-homepage-division-override":{"experiments":{"subscription-flow-seo-homepage-division-override-experiment":{"name":"subscription-flow-seo-homepage-division-override-experiment","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_fullScreen_2_showContinue"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-flow-common-intl":{"experiments":{"subscription-flow-common-experiment-intl":{"name":"subscription-flow-common-experiment-intl","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_modalDialog_4"],"guards":[{"name":"inCountry","parameters":{"countries":["GB","FR","DE","IT","ES","AT","IE","PT","CH","DK","FI","SE","GR","NL","PL","NO"]}}]}},"diversion_type":"CookieDiversion"},"subscription-flow-sub-save":{"experiments":{"subscription-flow-sub-save-experiment":{"name":"subscription-flow-sub-save-experiment","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_fullScreen_2_subSave"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-flow-non-sub-save":{"experiments":{"subscription-flow-non-sub-save-experiment":{"name":"subscription-flow-non-sub-save-experiment","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_fullScreen_2"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-resubscribe":{"experiments":{"subscription-resubscribe":{"name":"subscription-resubscribe","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_fullScreen_2"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-flow-geocat":{"experiments":{"subscription-flow-geocat-experiment":{"name":"subscription-flow-geocat-experiment","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_modalDialog_7_showClose","none"],"guards":[{"name":"inCountry","parameters":{"countries":["US"]}}]}},"diversion_type":"CookieDiversion"},"subscription-flow-serp-intl":{"experiments":{"subscription-flow-serp-experiment-intl":{"name":"subscription-flow-serp-experiment-intl","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_modalDialog_4"],"guards":[{"name":"inCountry","parameters":{"countries":["AT","DK","FI","FR","DE","IE","IT","NO","PT","ES","SE","GB"]}}]}},"diversion_type":"CookieDiversion"},"itier-seo-pages-subscription-intl":{"experiments":{"itier-seo-pages-subscription-experiment-intl":{"name":"itier-seo-pages-subscription-experiment-intl","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_modalDialog_4"],"guards":[{"name":"inCountry","parameters":{"countries":["AT","DK","FI","FR","DE","IE","IT","NO","PT","ES","SE","CH","GB"]}}]}},"diversion_type":"CookieDiversion"},"subscription-seo-homepage-intl":{"experiments":{"subscription-seo-homepage-experiment-intl":{"name":"subscription-seo-homepage-experiment-intl","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_modalDialog_4"],"guards":[{"name":"inCountry","parameters":{"countries":["AT","DK","FI","FR","DE","IE","IT","NO","PT","ES","SE","CH","GB"]}}]}},"diversion_type":"CookieDiversion"},"subscription-sem-homepage-intl":{"experiments":{"subscription-sem-homepage-experiment-intl":{"name":"subscription-sem-homepage-experiment-intl","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_modalDialog_4"],"guards":[{"name":"inCountry","parameters":{"countries":["AT","DK","FI","FR","DE","IE","IT","NO","PT","ES","SE","CH","GB"]}}]}},"diversion_type":"CookieDiversion"},"subscription-flow-banner-intl":{"experiments":{"subscription-flow-banner-experiment-intl":{"name":"subscription-flow-banner-experiment-intl","buckets":"0..999","bucket_min":0,"bucket_max":999,"tracking":true,"variants":["subscription_banner_0"],"guards":[{"name":"inCountry","parameters":{"countries":["AT","BE","CA","DK","FI","FR","DE","IE","IT","NL","NO","PL","PT","ES","SE","CH","GB"]}}]}},"diversion_type":"CookieDiversion"}}
+          {"itier-seo-pages-subscription":{"experiments":{"itier-seo-pages-subscription-experiment":{"name":"itier-seo-pages-subscription-experiment","tracking":true,"variants":["none"],"bucket_min":0,"bucket_max":332,"buckets":"0..332"}},"diversion_type":"CookieDiversion"},"subscription-flow-seo-division-override":{"experiments":{"subscription-flow-seo-division-override-experiment":{"name":"subscription-flow-seo-division-override-experiment","tracking":true,"variants":["none"],"bucket_min":0,"bucket_max":332,"buckets":"0..332"}},"diversion_type":"CookieDiversion"},"subscription-resubscribe":{"experiments":{"subscription-resubscribe":{"name":"subscription-resubscribe","tracking":true,"variants":["subscription_fullScreen_9"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-flow-geocat":{"experiments":{"subscription-flow-geocat-experiment":{"name":"subscription-flow-geocat-experiment","tracking":true,"variants":["subscription_modalDialog_7_showClose","none"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"},"subscription-flow-expired-deal":{"experiments":{"subscription-flow-expired-deal-experiment":{"name":"subscription-flow-expired-deal-experiment","tracking":true,"variants":["none"],"bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"diversion_type":"CookieDiversion"}}
           ;
         for (var key in layoutConfig) {
           if(layoutConfig.hasOwnProperty(key)) {
@@ -78,28 +86,31 @@ config.cookieDomain = ".groupon.com" || ".groupon.com";
         return appConfig;
       }());
     </script>
-    <script src="//www.groupon.com/layout/assets/perflibLoader-v2.4.1-d4df8145aa.js"></script>
+    <script src="//www.groupon.com/layout/assets/perflibLoader-v2.4.3-b2f1a263be.js"></script>
     <link href="//www.groupon.com/layout/assets/gig_application_layout-favicon-5414457d50.ico" rel="shortcut icon">
-    <script src="//www.groupon.com/layout/assets/gig_application_layout-v3.9.8-7a22bf32e1.js"></script>
-      <script>
-        Groupon.Modules.SearchBar.init({"division":{"areas":[{"lng":-77.0166,"id":"dc-metro","lat":38.9066,"name":"The District"},{"lng":-77.291,"id":"northern-virginia","lat":38.8209,"name":"Northern Virginia"},{"lng":-77.1262,"id":"montgomery-county","lat":39.0772,"name":"Montgomery County"}],"lng":-77.0241,"lat":38.8921,"id":"washington-dc","timezone":"Eastern Time (US & Canada)","name":"Washington DC","timezoneIdentifier":"America/New_York","country":"USA","defaultLocale":"en","state":{"abbreviation":"DC"},"selectCurrentDivision":"selected"},"google_geo_url":"//mapproxy.groupon.com/maps/api/js"});
-      </script>
-    <link href="//www.groupon.com/layout/assets/gig_application_layout-v3.9.8-9f365d638c.css" rel="stylesheet" type="text/css">
-    <!--[if lte IE 7]>
-      <link href="//www.groupon.com/layout/assets/gig_ie7-v3.9.8.css" rel="stylesheet" type="text/css" />
-      <script src="//www.groupon.com/layout/js/lte-ie7.js"></script>
-    <![endif]-->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="/pages-assets/contentstyles-350aa596af.css" rel="stylesheet" type="text/css">
-
-
+      <link type="application/opensearchdescription+xml" rel="search" title="Groupon" href="/layout/opensearch.xml?country=US&amp;locale=en_US">
+      <script src="//www.groupon.com/layout/assets/gig_application_layout-v5.0.10-c2d07493f1.js"></script>
+        <script>
+          Groupon.Modules.SearchBar.init({"division":{"uuid":"4f62c20b-0bdb-4108-bfe2-64fcbbe3c3d1","id":"sacramento","name":"Sacramento","country":"USA","countryCode":"US","areas":[],"timezone":"Pacific Standard Time","timezoneOffsetInSeconds":-28800,"timezoneIdentifier":"America/Los_Angeles","isNowCustomerEnabled":false,"isNowMerchantEnabled":false,"isPresenceEnabled":false,"isReserveEnabled":false,"lat":38.5816,"lng":-121.494,"defaultLocale":"en_US","encoded_name":"otnemarcaS","selectCurrentDivision":"selected"},"google_geo_url":"//mapproxy.groupon.com/maps/api/js"});
+        </script>
+    <style>html{background: #222;}</style>
+<meta name="referrer" content="origin">
   </head>
-  <body class="no-js prom-night ltr en_US en_XX  " dir="ltr">
+<body dir="ltr" id="ls-body" class="
+  
+  no-js prom-night 
+    
+    
+    
+    
+    ltr en_US en_XX
+  ">
+
     <div id="ls-google-tag-manager" class="ls-hide-absolute">
       <script>window.dataLayer = (function(gtm) {
         
         
+        gtm.platform = "Desktop";
         return [gtm];
       })({})</script>
     
@@ -116,7 +127,9 @@ config.cookieDomain = ".groupon.com" || ".groupon.com";
       -->
     </div>
 
+    
     <div id="global-container">
+      
         <script>var subscriptionsUI_hideSubscribeDrawer = false;</script>
         <div id="subscribe-drawer" class="subscribe-drawer no-print hide" data-bhw="PushdownSubscriptionForm">
           <div class="row subscribe-drawer-notification notification announcement">
@@ -125,707 +138,572 @@ config.cookieDomain = ".groupon.com" || ".groupon.com";
             </h4>
             <form class="subscribe-drawer-form eight columns">
               <input id="subscribed_from_drawer" type="hidden" value="true">
-              <select id="subscribe-division" name="division_id" data-bhw="DivisionSelector">
-                  <option data-bhc="Division:abbotsford" value="abbotsford">Abbotsford</option>
-          <option data-bhc="Division:abilene" value="abilene">Abilene, TX</option>
-          <option data-bhc="Division:akron-canton" value="akron-canton">Akron / Canton</option>
-          <option data-bhc="Division:albany-capital-region" value="albany-capital-region">Albany / Capital Region</option>
-          <option data-bhc="Division:albuquerque" value="albuquerque">Albuquerque</option>
-          <option data-bhc="Division:allentown-reading" value="allentown-reading">Allentown / Reading</option>
-          <option data-bhc="Division:amarillo" value="amarillo">Amarillo</option>
-          <option data-bhc="Division:anchorage" value="anchorage">Anchorage</option>
-          <option data-bhc="Division:ann-arbor" value="ann-arbor">Ann Arbor</option>
-          <option data-bhc="Division:asheville" value="asheville">Asheville</option>
-          <option data-bhc="Division:athens-ga" value="athens-ga">Athens, GA</option>
-          <option data-bhc="Division:atlanta" value="atlanta">Atlanta</option>
-          <option data-bhc="Division:augusta" value="augusta">Augusta</option>
-          <option data-bhc="Division:austin" value="austin">Austin</option>
-          <option data-bhc="Division:bakersfield" value="bakersfield">Bakersfield</option>
-          <option data-bhc="Division:baltimore" value="baltimore">Baltimore</option>
-          <option data-bhc="Division:barrie" value="barrie">Barrie</option>
-          <option data-bhc="Division:baton-rouge" value="baton-rouge">Baton Rouge</option>
-          <option data-bhc="Division:beaumont" value="beaumont">Beaumont, TX</option>
-          <option data-bhc="Division:billings" value="billings">Billings / Bozeman</option>
-          <option data-bhc="Division:birmingham" value="birmingham">Birmingham</option>
-          <option data-bhc="Division:bloomington-in" value="bloomington-in">Bloomington, IN</option>
-          <option data-bhc="Division:boise" value="boise">Boise</option>
-          <option data-bhc="Division:boston" value="boston">Boston</option>
-          <option data-bhc="Division:buffalo" value="buffalo">Buffalo</option>
-          <option data-bhc="Division:calgary" value="calgary">Calgary</option>
-          <option data-bhc="Division:cape-breton" value="cape-breton">Cape Breton</option>
-          <option data-bhc="Division:cedar-rapids-iowa-city" value="cedar-rapids-iowa-city">Cedar Rapids / Iowa City</option>
-          <option data-bhc="Division:central-jersey" value="central-jersey">Central Jersey</option>
-          <option data-bhc="Division:charleston" value="charleston">Charleston</option>
-          <option data-bhc="Division:charleston-wv" value="charleston-wv">Charleston, WV</option>
-          <option data-bhc="Division:charlotte" value="charlotte">Charlotte</option>
-          <option data-bhc="Division:chattanooga" value="chattanooga">Chattanooga</option>
-          <option data-bhc="Division:chicago" value="chicago">Chicago</option>
-          <option data-bhc="Division:cincinnati" value="cincinnati">Cincinnati</option>
-          <option data-bhc="Division:cleveland" value="cleveland">Cleveland</option>
-          <option data-bhc="Division:colorado-springs" value="colorado-springs">Colorado Springs</option>
-          <option data-bhc="Division:columbia" value="columbia">Columbia</option>
-          <option data-bhc="Division:columbia-mo" value="columbia-mo">Columbia, MO</option>
-          <option data-bhc="Division:columbus" value="columbus">Columbus</option>
-          <option data-bhc="Division:columbus-ga" value="columbus-ga">Columbus GA</option>
-          <option data-bhc="Division:corpus-christi" value="corpus-christi">Corpus Christi</option>
-          <option data-bhc="Division:dallas" value="dallas">Dallas</option>
-          <option data-bhc="Division:dayton" value="dayton">Dayton</option>
-          <option data-bhc="Division:daytona-beach" value="daytona-beach">Daytona Beach</option>
-          <option data-bhc="Division:denver" value="denver">Denver</option>
-          <option data-bhc="Division:des-moines" value="des-moines">Des Moines</option>
-          <option data-bhc="Division:detroit" value="detroit">Detroit</option>
-          <option data-bhc="Division:edmonton" value="edmonton">Edmonton</option>
-          <option data-bhc="Division:el-paso" value="el-paso">El Paso</option>
-          <option data-bhc="Division:erie" value="erie">Erie</option>
-          <option data-bhc="Division:eugene" value="eugene">Eugene</option>
-          <option data-bhc="Division:evansville" value="evansville">Evansville</option>
-          <option data-bhc="Division:fairfield-county" value="fairfield-county">Fairfield County</option>
-          <option data-bhc="Division:fort-lauderdale" value="fort-lauderdale">Fort Lauderdale</option>
-          <option data-bhc="Division:fort-myers-cape-coral" value="fort-myers-cape-coral">Fort Myers / Cape Coral</option>
-          <option data-bhc="Division:fort-wayne" value="fort-wayne">Fort Wayne</option>
-          <option data-bhc="Division:fort-worth" value="fort-worth">Fort Worth</option>
-          <option data-bhc="Division:appleton" value="appleton">Fox Cities</option>
-          <option data-bhc="Division:fresno" value="fresno">Fresno</option>
-          <option data-bhc="Division:gainesville" value="gainesville">Gainesville</option>
-          <option data-bhc="Division:grand-rapids" value="grand-rapids">Grand Rapids</option>
-          <option data-bhc="Division:green-bay" value="green-bay">Green Bay</option>
-          <option data-bhc="Division:greenville" value="greenville">Greenville</option>
-          <option data-bhc="Division:halifax" value="halifax">Halifax</option>
-          <option data-bhc="Division:hampton-roads" value="hampton-roads">Hampton Roads</option>
-          <option data-bhc="Division:harrisburg" value="harrisburg">Harrisburg / Lancaster</option>
-          <option data-bhc="Division:hartford" value="hartford">Hartford</option>
-          <option data-bhc="Division:honolulu" value="honolulu">Honolulu</option>
-          <option data-bhc="Division:houston" value="houston">Houston</option>
-          <option data-bhc="Division:huntsville" value="huntsville">Huntsville</option>
-          <option data-bhc="Division:indianapolis" value="indianapolis">Indianapolis</option>
-          <option data-bhc="Division:inland-empire" value="inland-empire">Inland Empire</option>
-          <option data-bhc="Division:jackson" value="jackson">Jackson</option>
-          <option data-bhc="Division:jacksonville" value="jacksonville">Jacksonville</option>
-          <option data-bhc="Division:kalamazoo" value="kalamazoo">Kalamazoo</option>
-          <option data-bhc="Division:kansas-city" value="kansas-city">Kansas City</option>
-          <option data-bhc="Division:kelowna" value="kelowna">Kelowna</option>
-          <option data-bhc="Division:kingston" value="kingston">Kingston / Belleville</option>
-          <option data-bhc="Division:kitchener-waterloo" value="kitchener-waterloo">Kitchener - Waterloo</option>
-          <option data-bhc="Division:knoxville" value="knoxville">Knoxville</option>
-          <option data-bhc="Division:lakeland" value="lakeland">Lakeland</option>
-          <option data-bhc="Division:lansing" value="lansing">Lansing</option>
-          <option data-bhc="Division:las-vegas" value="las-vegas">Las Vegas</option>
-          <option data-bhc="Division:lexington" value="lexington">Lexington</option>
-          <option data-bhc="Division:lincoln" value="lincoln">Lincoln</option>
-          <option data-bhc="Division:little-rock" value="little-rock">Little Rock</option>
-          <option data-bhc="Division:london" value="london">London, ON</option>
-          <option data-bhc="Division:long-island" value="long-island">Long Island</option>
-          <option data-bhc="Division:los-angeles" value="los-angeles">Los Angeles</option>
-          <option data-bhc="Division:louisville" value="louisville">Louisville</option>
-          <option data-bhc="Division:lubbock" value="lubbock">Lubbock</option>
-          <option data-bhc="Division:macon" value="macon">Macon</option>
-          <option data-bhc="Division:madison" value="madison">Madison</option>
-          <option data-bhc="Division:memphis" value="memphis">Memphis</option>
-          <option data-bhc="Division:miami" value="miami">Miami</option>
-          <option data-bhc="Division:midland-odessa" value="midland-odessa">Midland / Odessa</option>
-          <option data-bhc="Division:milwaukee" value="milwaukee">Milwaukee</option>
-          <option data-bhc="Division:minneapolis-stpaul" value="minneapolis-stpaul">Minneapolis / St Paul</option>
-          <option data-bhc="Division:mobile-baldwin-county" value="mobile-baldwin-county">Mobile / Baldwin County</option>
-          <option data-bhc="Division:modesto" value="modesto">Modesto</option>
-          <option data-bhc="Division:montgomery" value="montgomery">Montgomery</option>
-          <option data-bhc="Division:napa-sonoma" value="napa-sonoma">Napa / Sonoma</option>
-          <option data-bhc="Division:naples" value="naples">Naples</option>
-          <option data-bhc="Division:nashville" value="nashville">Nashville</option>
-          <option data-bhc="Division:new-orleans" value="new-orleans">New Orleans</option>
-          <option data-bhc="Division:new-york" value="new-york">New York City</option>
-          <option data-bhc="Division:north-jersey" value="north-jersey">North Jersey</option>
-          <option data-bhc="Division:ocala" value="ocala">Ocala</option>
-          <option data-bhc="Division:ogden" value="ogden">Ogden</option>
-          <option data-bhc="Division:oklahoma-city" value="oklahoma-city">Oklahoma City</option>
-          <option data-bhc="Division:omaha" value="omaha">Omaha</option>
-          <option data-bhc="Division:orange-county" value="orange-county">Orange County</option>
-          <option data-bhc="Division:orlando" value="orlando">Orlando</option>
-          <option data-bhc="Division:ottawa" value="ottawa">Ottawa</option>
-          <option data-bhc="Division:palm-beach" value="palm-beach">Palm Beach</option>
-          <option data-bhc="Division:pensacola" value="pensacola">Pensacola / Emerald Coast</option>
-          <option data-bhc="Division:philadelphia" value="philadelphia">Philadelphia</option>
-          <option data-bhc="Division:phoenix" value="phoenix">Phoenix</option>
-          <option data-bhc="Division:piedmont-triad" value="piedmont-triad">Piedmont Triad</option>
-          <option data-bhc="Division:pittsburgh" value="pittsburgh">Pittsburgh</option>
-          <option data-bhc="Division:portland" value="portland">Portland</option>
-          <option data-bhc="Division:portland-me" value="portland-me">Portland, ME</option>
-          <option data-bhc="Division:providence" value="providence">Providence</option>
-          <option data-bhc="Division:raleigh-durham" value="raleigh-durham">Raleigh / Durham</option>
-          <option data-bhc="Division:regina" value="regina">Regina</option>
-          <option data-bhc="Division:reno" value="reno">Reno</option>
-          <option data-bhc="Division:richmond" value="richmond">Richmond</option>
-          <option data-bhc="Division:rio-grande-valley" value="rio-grande-valley">Rio Grande Valley</option>
-          <option data-bhc="Division:roanoke" value="roanoke">Roanoke</option>
-          <option data-bhc="Division:rochester" value="rochester">Rochester</option>
-          <option data-bhc="Division:rockford" value="rockford">Rockford</option>
-          <option data-bhc="Division:sacramento" value="sacramento">Sacramento</option>
-          <option data-bhc="Division:salem-or" value="salem-or">Salem OR</option>
-          <option data-bhc="Division:salt-lake-city" value="salt-lake-city">Salt Lake City</option>
-          <option data-bhc="Division:san-angelo" value="san-angelo">San Angelo</option>
-          <option data-bhc="Division:san-antonio" value="san-antonio">San Antonio</option>
-          <option data-bhc="Division:san-diego" value="san-diego">San Diego</option>
-          <option data-bhc="Division:san-francisco" value="san-francisco">San Francisco</option>
-          <option data-bhc="Division:san-jose" value="san-jose">San Jose</option>
-          <option data-bhc="Division:santa-barbara" value="santa-barbara">Santa Barbara</option>
-          <option data-bhc="Division:santa-clarita" value="santa-clarita">Santa Clarita</option>
-          <option data-bhc="Division:santa-cruz" value="santa-cruz">Santa Cruz / Monterey</option>
-          <option data-bhc="Division:saskatoon" value="saskatoon">Saskatoon</option>
-          <option data-bhc="Division:savannah-hilton-head" value="savannah-hilton-head">Savannah / Hilton Head</option>
-          <option data-bhc="Division:seattle" value="seattle">Seattle</option>
-          <option data-bhc="Division:shreveport-bossier" value="shreveport-bossier">Shreveport / Bossier</option>
-          <option data-bhc="Division:sioux-falls" value="sioux-falls">Sioux Falls</option>
-          <option data-bhc="Division:south-bend" value="south-bend">South Bend</option>
-          <option data-bhc="Division:albany-ga" value="albany-ga">Southern Georgia</option>
-          <option data-bhc="Division:spokane-coeur-dalene" value="spokane-coeur-dalene">Spokane / Coeur d'Alene</option>
-          <option data-bhc="Division:springfield-mo" value="springfield-mo">Springfield MO</option>
-          <option data-bhc="Division:springfield-ma" value="springfield-ma">Springfield, MA</option>
-          <option data-bhc="Division:stcatharines-niagara" value="stcatharines-niagara">St Catharines-Niagara</option>
-          <option data-bhc="Division:st-johns" value="st-johns">St John's</option>
-          <option data-bhc="Division:stlouis" value="stlouis">St Louis</option>
-          <option data-bhc="Division:stockton" value="stockton">Stockton</option>
-          <option data-bhc="Division:sudbury" value="sudbury">Sudbury / North Bay</option>
-          <option data-bhc="Division:syracuse" value="syracuse">Syracuse</option>
-          <option data-bhc="Division:tallahassee" value="tallahassee">Tallahassee</option>
-          <option data-bhc="Division:tampa-bay-area" value="tampa-bay-area">Tampa Bay Area</option>
-          <option data-bhc="Division:toledo" value="toledo">Toledo</option>
-          <option data-bhc="Division:topeka-lawrence" value="topeka-lawrence">Topeka / Lawrence</option>
-          <option data-bhc="Division:greater-toronto-area" value="greater-toronto-area">Toronto (GTA)</option>
-          <option data-bhc="Division:tucson" value="tucson">Tucson</option>
-          <option data-bhc="Division:tulsa" value="tulsa">Tulsa</option>
-          <option data-bhc="Division:vancouver" value="vancouver">Vancouver</option>
-          <option data-bhc="Division:ventura-county" value="ventura-county">Ventura County</option>
-          <option data-bhc="Division:victoria" value="victoria">Victoria</option>
-          <option selected="" data-bhc="Division:washington-dc" value="washington-dc">Washington DC</option>
-          <option data-bhc="Division:westchester-county" value="westchester-county">Westchester County</option>
-          <option data-bhc="Division:wichita" value="wichita">Wichita</option>
-          <option data-bhc="Division:wilmington-newark" value="wilmington-newark">Wilmington-Newark</option>
-          <option data-bhc="Division:windsor" value="windsor">Windsor</option>
-          <option data-bhc="Division:winnipeg" value="winnipeg">Winnipeg</option>
-          <option data-bhc="Division:worcester" value="worcester">Worcester</option>
-          <option data-bhc="Division:youngstown" value="youngstown">Youngstown</option>
+              <select id="subscribe-division" name="division_id" data-bhw="DivisionSelector" data-options_decoded="false">
+                  <option data-bhc="Division:abbotsford" value="abbotsford">drofstobbA</option>
+          <option data-bhc="Division:abilene" value="abilene">XT ,enelibA</option>
+          <option data-bhc="Division:akron-canton" value="akron-canton">notnaC / norkA</option>
+          <option data-bhc="Division:albany-capital-region" value="albany-capital-region">noigeR latipaC / ynablA</option>
+          <option data-bhc="Division:albuquerque" value="albuquerque">euqreuqublA</option>
+          <option data-bhc="Division:allentown-reading" value="allentown-reading">gnidaeR / nwotnellA</option>
+          <option data-bhc="Division:amarillo" value="amarillo">olliramA</option>
+          <option data-bhc="Division:anchorage" value="anchorage">egarohcnA</option>
+          <option data-bhc="Division:ann-arbor" value="ann-arbor">robrA nnA</option>
+          <option data-bhc="Division:asheville" value="asheville">ellivehsA</option>
+          <option data-bhc="Division:athens-ga" value="athens-ga">AG ,snehtA</option>
+          <option data-bhc="Division:atlanta" value="atlanta">atnaltA</option>
+          <option data-bhc="Division:augusta" value="augusta">atsuguA</option>
+          <option data-bhc="Division:austin" value="austin">nitsuA</option>
+          <option data-bhc="Division:bakersfield" value="bakersfield">dleifsrekaB</option>
+          <option data-bhc="Division:baltimore" value="baltimore">eromitlaB</option>
+          <option data-bhc="Division:barrie" value="barrie">eirraB</option>
+          <option data-bhc="Division:baton-rouge" value="baton-rouge">eguoR notaB</option>
+          <option data-bhc="Division:billings" value="billings">namezoB / sgnilliB</option>
+          <option data-bhc="Division:birmingham" value="birmingham">mahgnimriB</option>
+          <option data-bhc="Division:boise" value="boise">esioB</option>
+          <option data-bhc="Division:boston" value="boston">notsoB</option>
+          <option data-bhc="Division:buffalo" value="buffalo">olaffuB</option>
+          <option data-bhc="Division:calgary" value="calgary">yraglaC</option>
+          <option data-bhc="Division:cedar-rapids-iowa-city" value="cedar-rapids-iowa-city">ytiC awoI / sdipaR radeC</option>
+          <option data-bhc="Division:central-jersey" value="central-jersey">yesreJ lartneC</option>
+          <option data-bhc="Division:charleston" value="charleston">notselrahC</option>
+          <option data-bhc="Division:charlotte" value="charlotte">ettolrahC</option>
+          <option data-bhc="Division:chattanooga" value="chattanooga">agoonattahC</option>
+          <option data-bhc="Division:chicago" value="chicago">ogacihC</option>
+          <option data-bhc="Division:cincinnati" value="cincinnati">itannicniC</option>
+          <option data-bhc="Division:cleveland" value="cleveland">dnalevelC</option>
+          <option data-bhc="Division:colorado-springs" value="colorado-springs">sgnirpS odaroloC</option>
+          <option data-bhc="Division:columbia" value="columbia">aibmuloC</option>
+          <option data-bhc="Division:columbia-mo" value="columbia-mo">OM ,aibmuloC</option>
+          <option data-bhc="Division:columbus" value="columbus">submuloC</option>
+          <option data-bhc="Division:columbus-ga" value="columbus-ga">AG submuloC</option>
+          <option data-bhc="Division:corpus-christi" value="corpus-christi">itsirhC suproC</option>
+          <option data-bhc="Division:dallas" value="dallas">sallaD</option>
+          <option data-bhc="Division:dayton" value="dayton">notyaD</option>
+          <option data-bhc="Division:daytona-beach" value="daytona-beach">hcaeB anotyaD</option>
+          <option data-bhc="Division:denver" value="denver">revneD</option>
+          <option data-bhc="Division:des-moines" value="des-moines">senioM seD</option>
+          <option data-bhc="Division:detroit" value="detroit">tiorteD</option>
+          <option data-bhc="Division:edmonton" value="edmonton">notnomdE</option>
+          <option data-bhc="Division:el-paso" value="el-paso">osaP lE</option>
+          <option data-bhc="Division:erie" value="erie">eirE</option>
+          <option data-bhc="Division:eugene" value="eugene">eneguE</option>
+          <option data-bhc="Division:evansville" value="evansville">ellivsnavE</option>
+          <option data-bhc="Division:fairfield-county" value="fairfield-county">ytnuoC dleifriaF</option>
+          <option data-bhc="Division:fort-lauderdale" value="fort-lauderdale">eladreduaL troF</option>
+          <option data-bhc="Division:fort-myers-cape-coral" value="fort-myers-cape-coral">laroC epaC / sreyM troF</option>
+          <option data-bhc="Division:fort-wayne" value="fort-wayne">enyaW troF</option>
+          <option data-bhc="Division:fort-worth" value="fort-worth">htroW troF</option>
+          <option data-bhc="Division:appleton" value="appleton">seitiC xoF</option>
+          <option data-bhc="Division:fresno" value="fresno">onserF</option>
+          <option data-bhc="Division:gainesville" value="gainesville">ellivseniaG</option>
+          <option data-bhc="Division:grand-rapids" value="grand-rapids">sdipaR dnarG</option>
+          <option data-bhc="Division:green-bay" value="green-bay">yaB neerG</option>
+          <option data-bhc="Division:greenville" value="greenville">ellivneerG</option>
+          <option data-bhc="Division:halifax" value="halifax">xafilaH</option>
+          <option data-bhc="Division:hampton-roads" value="hampton-roads">sdaoR notpmaH</option>
+          <option data-bhc="Division:harrisburg" value="harrisburg">retsacnaL / grubsirraH</option>
+          <option data-bhc="Division:hartford" value="hartford">droftraH</option>
+          <option data-bhc="Division:honolulu" value="honolulu">ululonoH</option>
+          <option data-bhc="Division:houston" value="houston">notsuoH</option>
+          <option data-bhc="Division:huntsville" value="huntsville">ellivstnuH</option>
+          <option data-bhc="Division:indianapolis" value="indianapolis">silopanaidnI</option>
+          <option data-bhc="Division:inland-empire" value="inland-empire">eripmE dnalnI</option>
+          <option data-bhc="Division:jackson" value="jackson">noskcaJ</option>
+          <option data-bhc="Division:jacksonville" value="jacksonville">ellivnoskcaJ</option>
+          <option data-bhc="Division:kalamazoo" value="kalamazoo">oozamalaK</option>
+          <option data-bhc="Division:kansas-city" value="kansas-city">ytiC sasnaK</option>
+          <option data-bhc="Division:kelowna" value="kelowna">anwoleK</option>
+          <option data-bhc="Division:kingston" value="kingston">ellivelleB / notsgniK</option>
+          <option data-bhc="Division:kitchener-waterloo" value="kitchener-waterloo">oolretaW - renehctiK</option>
+          <option data-bhc="Division:knoxville" value="knoxville">ellivxonK</option>
+          <option data-bhc="Division:lakeland" value="lakeland">dnalekaL</option>
+          <option data-bhc="Division:lansing" value="lansing">gnisnaL</option>
+          <option data-bhc="Division:las-vegas" value="las-vegas">sageV saL</option>
+          <option data-bhc="Division:lexington" value="lexington">notgnixeL</option>
+          <option data-bhc="Division:lincoln" value="lincoln">nlocniL</option>
+          <option data-bhc="Division:little-rock" value="little-rock">kcoR elttiL</option>
+          <option data-bhc="Division:london" value="london">NO ,nodnoL</option>
+          <option data-bhc="Division:long-island" value="long-island">dnalsI gnoL</option>
+          <option data-bhc="Division:los-angeles" value="los-angeles">selegnA soL</option>
+          <option data-bhc="Division:louisville" value="louisville">ellivsiuoL</option>
+          <option data-bhc="Division:lubbock" value="lubbock">kcobbuL</option>
+          <option data-bhc="Division:macon" value="macon">nocaM</option>
+          <option data-bhc="Division:madison" value="madison">nosidaM</option>
+          <option data-bhc="Division:memphis" value="memphis">sihpmeM</option>
+          <option data-bhc="Division:miami" value="miami">imaiM</option>
+          <option data-bhc="Division:midland-odessa" value="midland-odessa">assedO / dnaldiM</option>
+          <option data-bhc="Division:milwaukee" value="milwaukee">eekuawliM</option>
+          <option data-bhc="Division:minneapolis-stpaul" value="minneapolis-stpaul">luaP tS / silopaenniM</option>
+          <option data-bhc="Division:mobile-baldwin-county" value="mobile-baldwin-county">ytnuoC niwdlaB / eliboM</option>
+          <option data-bhc="Division:modesto" value="modesto">otsedoM</option>
+          <option data-bhc="Division:montgomery" value="montgomery">yremogtnoM</option>
+          <option data-bhc="Division:napa-sonoma" value="napa-sonoma">amonoS / apaN</option>
+          <option data-bhc="Division:naples" value="naples">selpaN</option>
+          <option data-bhc="Division:nashville" value="nashville">ellivhsaN</option>
+          <option data-bhc="Division:new-orleans" value="new-orleans">snaelrO weN</option>
+          <option data-bhc="Division:new-york" value="new-york">ytiC kroY weN</option>
+          <option data-bhc="Division:north-jersey" value="north-jersey">yesreJ htroN</option>
+          <option data-bhc="Division:ocala" value="ocala">alacO</option>
+          <option data-bhc="Division:ogden" value="ogden">nedgO</option>
+          <option data-bhc="Division:oklahoma-city" value="oklahoma-city">ytiC amohalkO</option>
+          <option data-bhc="Division:omaha" value="omaha">ahamO</option>
+          <option data-bhc="Division:orange-county" value="orange-county">ytnuoC egnarO</option>
+          <option data-bhc="Division:orlando" value="orlando">odnalrO</option>
+          <option data-bhc="Division:ottawa" value="ottawa">awattO</option>
+          <option data-bhc="Division:palm-beach" value="palm-beach">hcaeB mlaP</option>
+          <option data-bhc="Division:pensacola" value="pensacola">tsaoC dlaremE / alocasneP</option>
+          <option data-bhc="Division:philadelphia" value="philadelphia">aihpledalihP</option>
+          <option data-bhc="Division:phoenix" value="phoenix">xineohP</option>
+          <option data-bhc="Division:piedmont-triad" value="piedmont-triad">dairT tnomdeiP</option>
+          <option data-bhc="Division:pittsburgh" value="pittsburgh">hgrubsttiP</option>
+          <option data-bhc="Division:portland" value="portland">dnaltroP</option>
+          <option data-bhc="Division:portland-me" value="portland-me">EM ,dnaltroP</option>
+          <option data-bhc="Division:providence" value="providence">ecnedivorP</option>
+          <option data-bhc="Division:raleigh-durham" value="raleigh-durham">mahruD / hgielaR</option>
+          <option data-bhc="Division:regina" value="regina">anigeR</option>
+          <option data-bhc="Division:reno" value="reno">oneR</option>
+          <option data-bhc="Division:richmond" value="richmond">dnomhciR</option>
+          <option data-bhc="Division:rio-grande-valley" value="rio-grande-valley">yellaV ednarG oiR</option>
+          <option data-bhc="Division:roanoke" value="roanoke">ekonaoR</option>
+          <option data-bhc="Division:rochester" value="rochester">retsehcoR</option>
+          <option data-bhc="Division:rockford" value="rockford">drofkcoR</option>
+          <option selected="" data-bhc="Division:sacramento" value="sacramento">otnemarcaS</option>
+          <option data-bhc="Division:salem-or" value="salem-or">RO melaS</option>
+          <option data-bhc="Division:salt-lake-city" value="salt-lake-city">ytiC ekaL tlaS</option>
+          <option data-bhc="Division:san-angelo" value="san-angelo">olegnA naS</option>
+          <option data-bhc="Division:san-antonio" value="san-antonio">oinotnA naS</option>
+          <option data-bhc="Division:san-diego" value="san-diego">ogeiD naS</option>
+          <option data-bhc="Division:san-francisco" value="san-francisco">ocsicnarF naS</option>
+          <option data-bhc="Division:san-jose" value="san-jose">esoJ naS</option>
+          <option data-bhc="Division:santa-barbara" value="santa-barbara">arabraB atnaS</option>
+          <option data-bhc="Division:santa-cruz" value="santa-cruz">yeretnoM / zurC atnaS</option>
+          <option data-bhc="Division:saskatoon" value="saskatoon">nootaksaS</option>
+          <option data-bhc="Division:savannah-hilton-head" value="savannah-hilton-head">daeH notliH / hannavaS</option>
+          <option data-bhc="Division:seattle" value="seattle">elttaeS</option>
+          <option data-bhc="Division:shreveport-bossier" value="shreveport-bossier">reissoB / tropeverhS</option>
+          <option data-bhc="Division:sioux-falls" value="sioux-falls">sllaF xuoiS</option>
+          <option data-bhc="Division:south-bend" value="south-bend">dneB htuoS</option>
+          <option data-bhc="Division:spokane-coeur-dalene" value="spokane-coeur-dalene">enelA'd rueoC / enakopS</option>
+          <option data-bhc="Division:springfield-mo" value="springfield-mo">OM dleifgnirpS</option>
+          <option data-bhc="Division:springfield-ma" value="springfield-ma">AM ,dleifgnirpS</option>
+          <option data-bhc="Division:stcatharines-niagara" value="stcatharines-niagara">aragaiN-senirahtaC tS</option>
+          <option data-bhc="Division:st-johns" value="st-johns">s'nhoJ tS</option>
+          <option data-bhc="Division:stlouis" value="stlouis">siuoL tS</option>
+          <option data-bhc="Division:stockton" value="stockton">notkcotS</option>
+          <option data-bhc="Division:sudbury" value="sudbury">yaB htroN / yrubduS</option>
+          <option data-bhc="Division:syracuse" value="syracuse">esucaryS</option>
+          <option data-bhc="Division:tallahassee" value="tallahassee">eessahallaT</option>
+          <option data-bhc="Division:tampa-bay-area" value="tampa-bay-area">aerA yaB apmaT</option>
+          <option data-bhc="Division:toledo" value="toledo">odeloT</option>
+          <option data-bhc="Division:topeka-lawrence" value="topeka-lawrence">ecnerwaL / akepoT</option>
+          <option data-bhc="Division:greater-toronto-area" value="greater-toronto-area">)ATG( otnoroT</option>
+          <option data-bhc="Division:tucson" value="tucson">noscuT</option>
+          <option data-bhc="Division:tulsa" value="tulsa">asluT</option>
+          <option data-bhc="Division:vancouver" value="vancouver">revuocnaV</option>
+          <option data-bhc="Division:ventura-county" value="ventura-county">ytnuoC arutneV</option>
+          <option data-bhc="Division:victoria" value="victoria">airotciV</option>
+          <option data-bhc="Division:washington-dc" value="washington-dc">CD notgnihsaW</option>
+          <option data-bhc="Division:westchester-county" value="westchester-county">ytnuoC retsehctseW</option>
+          <option data-bhc="Division:wichita" value="wichita">atihciW</option>
+          <option data-bhc="Division:wilmington-newark" value="wilmington-newark">kraweN-notgnimliW</option>
+          <option data-bhc="Division:windsor" value="windsor">rosdniW</option>
+          <option data-bhc="Division:winnipeg" value="winnipeg">gepinniW</option>
+          <option data-bhc="Division:worcester" value="worcester">retsecroW</option>
+          <option data-bhc="Division:youngstown" value="youngstown">nwotsgnuoY</option>
       </select>
               <input placeholder="email@address.com" title="Enter your email address" class="subscribe-email text_field prompting_field validate-email required input" data-bhw="PushdownSubscriptionFormEmailInputField" id="email_address" name="email_address" size="36" type="email">
-              <button data-bhw="PushdownSubscriptionFormSubmitSubscriptionButton" class="btn-cta btn-small">Subscribe</button>
+              <button id="ls-subscription-submit" data-bhw="PushdownSubscriptionFormSubmitSubscriptionButton" class="btn-cta btn-small">Subscribe</button>
               <a href="#" id="hide_follow">hide</a>
             </form>
           </div>
         </div>
 
         <script>
+          var subscriptionsUI_country = $('head').data('country');
           Groupon.subscription = new SubscriptionsUI();
           Groupon.subscription.show_default_subscription_ui();
         </script>
 
       <div class="header-v2">
-
-
-            <header class="header" data-bhw="Header" role="banner" id="ls-header">
-              <div class="row" id="ls-header-top-row">
-                <div class="two columns">
-                  <a href="/" class="logo icon-groupon" data-bhw="Logo" data-track="{&quot;event&quot;:&quot;click&quot;,&quot;t&quot;:&quot;logo_click&quot;}"></a>
-                </div>
-                <div class="ten columns ">
-                  <div class="row">
-                    <div class="eight columns search-bar-wrapper">
-                        <form class="search-bar" id="search-bar" data-bhw="SearchBar">
-              <label class="icon-magnifying-glass rounded-input left active-search" for="search">
-                <input type="search" name="search" autocomplete="off" spellcheck="false" placeholder="What are you looking for?" id="search" data-bhw="FreeTextSearchField" data-log="Deal">
+          <header class="header" data-bhw="Header" role="banner" id="ls-header">
+            <div class="row" id="ls-header-top-row">
+              <a id="ls-groupon-logo" href="/" class="two columns logo icon-groupon" data-bhw="Logo"><span class="accessibility-hidden">Groupon</span></a>
+              <div id="ls-header-main" class="ten columns">
+                <div class="row">
+                  <div class="eight columns search-bar-wrapper" id="ls-search-bar-wrapper">
+                      <form class="search-bar" id="search-bar" data-bhw="SearchBar" data-nosearchbarfocus="true" role="search">
+              <label class="icon-magnifying-glass rounded-input left " for="search">
+                <span class="accessibility-hidden">What are you looking for?</span>
+                <input type="search" name="search" autocomplete="off" spellcheck="false" placeholder="What are you looking for?" id="search" data-bhw="FreeTextSearchField" data-log="Deal" data-focus="search">
               </label>
               <label class="rounded-input right icon-marker " for="location" data-error-generic="There was an error" data-error-bad_location="We couldn't understand that location. Try another ZIP/Postal Code, neighborhood or address." data-error-availability="We are experiencing difficulty finding your location. Try again later.">
-                <input type="text" name="location" autocomplete="off" spellcheck="false" placeholder="Enter your location" id="location" data-bhw="LocationBarField" data-log="Location" data-manuallocation="false" data-locationsearch="">
+                <span class="accessibility-hidden">Enter your location</span>
+                <input type="text" name="location" autocomplete="off" spellcheck="false" placeholder="Enter your location" id="location" data-bhw="LocationBarField" data-log="Location" data-manuallocation="false">
               </label>
-              <input type="submit" name="submit_search" value="Go" class="btn-rounded btn-search" data-bhw="LocationBarFindDeals">
+              <button id="ls-header-search-button" type="submit" class="hide" data-bhw="LocationBarFindDeals"></button>
             </form>
           
               <script>
-                Groupon.Modules.SearchBar.SearchOverrides = [{"link":"/occasion/bestofgroupon","terms":["best","best of","best of groupon","top","top rated","best massage","best restaurant","best things to do","best gym","best facial","best nail salon","best car wash","best facial","best spas","best laser hair removal","best indian","best italian","best american","best bar"]},{"link":"/reserve","terms":["reservations","reserve"]},{"link":"http://www.grouponworks.com/get-featured","terms":["sell on groupon","advertise on groupon","run a groupon deal","get featured"]},{"link":"/groupon-promise","terms":["return policy","claim refund","request refund","refund","returns"]},{"link":"/customer_support","terms":["customer support","customer service"]},{"link":"https://merchants.groupon.com","terms":["merchant center"]},{"link":"https://breadcrumb.groupon.com/","terms":["breadcrumb","pos","point of sale"]},{"link":"https://breadcrumb.groupon.com/payments","terms":["payments"]},{"link":"https://grassroots.groupon.com/","terms":["charity","grassroots"]},{"link":"/coupons","terms":["coupons"]},{"link":"/giftcards","terms":["gift card"]},{"link":"/articles/favin-the-maven","terms":["favin","favins faves","favin's faves","favin the maven","Beauty Expert","Resident Expert","Beauty Advice","Beauty Tips","Beauty Tricks"]},{"link":"/browse/?category=food-and-drink","terms":["eat15"]},{"link":"/travel","terms":["hotel","hotels","b&b","motel","hotel deal","hotel deals","hotel rooms","hotel room","rooms","bed and breakfast","travel deals","vacation","resort","getaways","bath spa hotel","spa hotels","spa hotel","spa hotell"]},{"link":"/travel/anaheim/hotels","terms":["disneyland","hotels near disneyland"]},{"link":"/travel/orlando/hotels","terms":["disneyworld"]},{"link":"/travel/las-vegas/hotels","terms":["vegas hotel","vegas hotels","hotel in vegas","hotels in vegas","hotel vegas","hotels vegas","las vegas hotel","las vegas hotels","hotel in las vegas","hotels in las vegas","hotel las vegas","hotels las vegas"]},{"link":"/travel/atlantic-city-nj/hotels","terms":["atlantic city hotel","atlantic city hotels","hotel in atlantic city","hotels in atlantic city","hotel atlantic city","hotels atlantic city"]},{"link":"/travel/orlando/hotels","terms":["orlando hotel","orlando hotels","hotel in orlando","hotels in orlando","hotel orlando","hotels orlando"]},{"link":"/travel/chicago/hotels","terms":["chicago hotel","chicago hotels","hotel in chicago","hotels in chicago","hotel chicago","hotels chicago"]},{"link":"/travel/new-york-city/hotels","terms":["new york city hotel","new york city hotels","hotel in new york city","hotels in new york city","hotel new york city","hotels new york city","nyc hotel","nyc hotels","hotel in nyc","hotels in nyc","hotel nyc","hotels nyc"]},{"link":"/travel/new-york/hotels","terms":["new york hotel","new york hotels","hotel in new york","hotels in new york","hotel new york","hotels new york"]},{"link":"/travel/niagara-falls-ny/hotels","terms":["niagara falls hotel","niagara falls hotels","hotel in niagara falls","hotels in niagara falls","hotel niagara falls","hotels niagara falls"]},{"link":"/travel/miami-beach-fl/hotels","terms":["miami beach hotel","miami beach hotels","hotel in miami beach","hotels in miami beach","hotel miami beach","hotels miami beach"]},{"link":"/travel/seattle/hotels","terms":["seattle hotel","seattle hotels","hotel in seattle","hotels in seattle","hotel seattle","hotels seattle"]},{"link":"/travel/new-orleans/hotels","terms":["new orleans hotel","new orleans hotels","hotel in new orleans","hotels in new orleans","hotel new orleans","hotels new orleans"]},{"link":"/travel/boston/hotels","terms":["boston hotel","boston hotels","hotel in boston","hotels in boston","hotel boston","hotels boston"]},{"link":"/travel/san-diego/hotels","terms":["san diego hotel","san diego hotels","hotel in san diego","hotels in san diego","hotel san diego","hotels san diego"]},{"link":"/travel/san-francisco/hotels","terms":["san francisco hotel","san francisco hotels","hotel in san francisco","hotels in san francisco","hotel san francisco","hotels san francisco"]},{"link":"/travel/washington/hotels","terms":["washington hotel","washington hotels","hotel in washington","hotels in washington","hotel washington","hotels washington"]},{"link":"/travel/miami/hotels","terms":["miami hotel","miami hotels","hotel in miami","hotels in miami","hotel miami","hotels miami"]},{"link":"/travel/san-antonio/hotels","terms":["san antonio hotel","san antonio hotels","hotel in san antonio","hotels in san antonio","hotel san antonio","hotels san antonio"]},{"link":"/travel/toronto/hotels","terms":["toronto hotel","toronto hotels","hotel in toronto","hotels in toronto","hotel toronto","hotels toronto"]},{"link":"/travel/palm-springs-ca/hotels","terms":["palm springs hotel","palm springs hotels","hotel in palm springs","hotels in palm springs","hotel palm springs","hotels palm springs"]},{"link":"/travel/los-angeles/hotels","terms":["los angeles hotel","los angeles hotels","hotel in los angeles","hotels in los angeles","hotel los angeles","hotels los angeles"]},{"link":"/travel/philadelphia/hotels","terms":["philadelphia hotel","philadelphia hotels","hotel in philadelphia","hotels in philadelphia","hotel philadelphia","hotels philadelphia"]},{"link":"/travel/dallas/hotels","terms":["dallas hotel","dallas hotels","hotel in dallas","hotels in dallas","hotel dallas","hotels dallas"]},{"link":"/travel/key-west-fl/hotels","terms":["key west hotel","key west hotels","hotel in key west","hotels in key west","hotel key west","hotels key west"]},{"link":"/travel/atlanta/hotels","terms":["atlanta hotel","atlanta hotels","hotel in atlanta","hotels in atlanta","hotel atlanta","hotels atlanta"]},{"link":"/travel/nashville/hotels","terms":["nashville hotel","nashville hotels","hotel in nashville","hotels in nashville","hotel nashville","hotels nashville"]},{"link":"/travel/washington-dc/hotels","terms":["washington dc hotel","washington dc hotels","hotel in washington dc","hotels in washington dc","hotel washington dc","hotels washington dc"]},{"link":"/occasion/my-chicago-by-giuliana-rancic","terms":["giuliana","giuliana rancic","rancic","guiliana"],"guards":{"experiments":{"LS-211":"1"},"divisions":["chicago"]}}];
+                Groupon.Modules.SearchBar.SearchOverrides = [{"link":"/occasion/bestofgroupon","terms":["best","best american","best bar","best car wash","best facial","best gym","best indian","best italian","best laser hair removal","best massage","best nail salon","best of","best of groupon","best restaurant","best spas","best things to do","top","top rated"]},{"link":"http://www.grouponworks.com/get-featured","terms":["advertise on groupon","get featured","run a groupon deal","sell on groupon"]},{"link":"/groupon-promise","terms":["claim refund","refund","request refund","return policy","returns"]},{"link":"/customer_support","terms":["customer service","customer support"]},{"link":"https://merchants.groupon.com","terms":["merchant center"]},{"link":"https://breadcrumb.groupon.com/","terms":["breadcrumb","point of sale","pos"]},{"link":"https://breadcrumb.groupon.com/payments","terms":["payments"]},{"link":"https://grassroots.groupon.com/","terms":["charity","grassroots"]},{"link":"/coupons","terms":["coupons"]},{"link":"/giftcards","terms":["gift card"]},{"link":"/articles/favin-the-maven","terms":["beauty advice","beauty expert","beauty tips","beauty tricks","favin","favin the maven","favin's faves","favins faves","resident expert"]},{"link":"/browse/?category=food-and-drink","terms":["eat15"]},{"link":"/travel","terms":["b&b","bath spa hotel","bed and breakfast","getaways","hotel","hotel deal","hotel deals","hotel room","hotel rooms","hotels","motel","resort","rooms","spa hotel","spa hotell","spa hotels","travel deals","vacation"]},{"link":"/travel/anaheim/hotels","terms":["disneyland","hotels near disneyland"]},{"link":"/travel/orlando/hotels","terms":["disneyworld"]},{"link":"/travel/las-vegas/hotels","terms":["hotel in las vegas","hotel in vegas","hotel las vegas","hotel vegas","hotels in las vegas","hotels in vegas","hotels las vegas","hotels vegas","las vegas hotel","las vegas hotels","vegas hotel","vegas hotels"]},{"link":"/travel/atlantic-city-nj/hotels","terms":["atlantic city hotel","atlantic city hotels","hotel atlantic city","hotel in atlantic city","hotels atlantic city","hotels in atlantic city"]},{"link":"/travel/orlando/hotels","terms":["hotel in orlando","hotel orlando","hotels in orlando","hotels orlando","orlando hotel","orlando hotels"]},{"link":"/travel/chicago/hotels","terms":["chicago hotel","chicago hotels","hotel chicago","hotel in chicago","hotels chicago","hotels in chicago"]},{"link":"/travel/new-york-city/hotels","terms":["hotel in new york city","hotel in nyc","hotel new york city","hotel nyc","hotels in new york city","hotels in nyc","hotels new york city","hotels nyc","new york city hotel","new york city hotels","nyc hotel","nyc hotels"]},{"link":"/travel/new-york/hotels","terms":["hotel in new york","hotel new york","hotels in new york","hotels new york","new york hotel","new york hotels"]},{"link":"/travel/niagara-falls-ny/hotels","terms":["hotel in niagara falls","hotel niagara falls","hotels in niagara falls","hotels niagara falls","niagara falls hotel","niagara falls hotels"]},{"link":"/travel/miami-beach-fl/hotels","terms":["hotel in miami beach","hotel miami beach","hotels in miami beach","hotels miami beach","miami beach hotel","miami beach hotels"]},{"link":"/travel/seattle/hotels","terms":["hotel in seattle","hotel seattle","hotels in seattle","hotels seattle","seattle hotel","seattle hotels"]},{"link":"/travel/new-orleans/hotels","terms":["hotel in new orleans","hotel new orleans","hotels in new orleans","hotels new orleans","new orleans hotel","new orleans hotels"]},{"link":"/travel/boston/hotels","terms":["boston hotel","boston hotels","hotel boston","hotel in boston","hotels boston","hotels in boston"]},{"link":"/travel/san-diego/hotels","terms":["hotel in san diego","hotel san diego","hotels in san diego","hotels san diego","san diego hotel","san diego hotels"]},{"link":"/travel/san-francisco/hotels","terms":["hotel in san francisco","hotel san francisco","hotels in san francisco","hotels san francisco","san francisco hotel","san francisco hotels"]},{"link":"/travel/washington/hotels","terms":["hotel in washington","hotel washington","hotels in washington","hotels washington","washington hotel","washington hotels"]},{"link":"/travel/miami/hotels","terms":["hotel in miami","hotel miami","hotels in miami","hotels miami","miami hotel","miami hotels"]},{"link":"/travel/san-antonio/hotels","terms":["hotel in san antonio","hotel san antonio","hotels in san antonio","hotels san antonio","san antonio hotel","san antonio hotels"]},{"link":"/travel/toronto/hotels","terms":["hotel in toronto","hotel toronto","hotels in toronto","hotels toronto","toronto hotel","toronto hotels"]},{"link":"/travel/palm-springs-ca/hotels","terms":["hotel in palm springs","hotel palm springs","hotels in palm springs","hotels palm springs","palm springs hotel","palm springs hotels"]},{"link":"/travel/los-angeles/hotels","terms":["hotel in los angeles","hotel los angeles","hotels in los angeles","hotels los angeles","los angeles hotel","los angeles hotels"]},{"link":"/travel/philadelphia/hotels","terms":["hotel in philadelphia","hotel philadelphia","hotels in philadelphia","hotels philadelphia","philadelphia hotel","philadelphia hotels"]},{"link":"/travel/dallas/hotels","terms":["dallas hotel","dallas hotels","hotel dallas","hotel in dallas","hotels dallas","hotels in dallas"]},{"link":"/travel/key-west-fl/hotels","terms":["hotel in key west","hotel key west","hotels in key west","hotels key west","key west hotel","key west hotels"]},{"link":"/travel/atlanta/hotels","terms":["atlanta hotel","atlanta hotels","hotel atlanta","hotel in atlanta","hotels atlanta","hotels in atlanta"]},{"link":"/travel/nashville/hotels","terms":["hotel in nashville","hotel nashville","hotels in nashville","hotels nashville","nashville hotel","nashville hotels"]},{"link":"/travel/washington-dc/hotels","terms":["hotel in washington dc","hotel washington dc","hotels in washington dc","hotels washington dc","washington dc hotel","washington dc hotels"]},{"link":"/goods?category=all&discount=gg-clearance","terms":["clearance"],"guards":{"experiments":{"GoodsSearchOverrides":"1"}}},{"link":"/goods?category=auto-and-home-improvement","terms":["auto","home improvement"],"guards":{"experiments":{"GoodsSearchOverrides":"1"}}},{"link":"/goods?category=baby-kids-and-toys","terms":["baby","kids","toys"],"guards":{"experiments":{"GoodsSearchOverrides":"1"}}},{"link":"/goods?category=basics","terms":["basics","bulk"],"guards":{"experiments":{"GoodsSearchOverrides":"1"}}},{"link":"/goods?category=electronics","terms":["electronics"],"guards":{"experiments":{"GoodsSearchOverrides":"1"}}},{"link":"/goods?category=entertainment-and-media","terms":["entertainment","media"],"guards":{"experiments":{"GoodsSearchOverrides":"1"}}},{"link":"/goods?category=food-and-drink-goods","terms":["food","drink"],"guards":{"experiments":{"GoodsSearchOverrides":"1"}}},{"link":"/goods?category=health-and-beauty","terms":["health","beauty"],"guards":{"experiments":{"GoodsSearchOverrides":"1"}}},{"link":"/goods?category=home-and-garden","terms":["home","garden"],"guards":{"experiments":{"GoodsSearchOverrides":"1"}}},{"link":"/goods?category=men","terms":["men"],"guards":{"experiments":{"GoodsSearchOverrides":"1"}}},{"link":"/goods?category=sports-and-outdoors","terms":["sporting goods","sports","outdoors"],"guards":{"experiments":{"GoodsSearchOverrides":"1"}}},{"link":"/goods?category=women","terms":["women"],"guards":{"experiments":{"GoodsSearchOverrides":"1"}}},{"link":"/occasion/ideel","terms":["ideel"],"guards":{"experiments":{"GoodsSearchOverrides":"1"}}},{"link":"/occasion/black-friday-deals","terms":["black friday","blackfriday","black friday deals"]},{"link":"/occasion/cyber-monday-deals","terms":["cyber monday","cybermonday","cyber monday deals"]}];
               </script>
         </div>
-                    <div class="four columns user-wrapper">
-            
-            
-                        <nav class="user-menu signed-out">
-              <a class="first" href="/login" data-bhw="SignIn">Sign In</a>
-              <a class="last" href="/users/new" data-bhw="SignUp">
+                  <div class="four columns user-wrapper">
+          
+                    
+                    <nav class="user-menu signed-out">
+              <a id="user-help" class="responsive-hide-500 user-menu-item user-help" href="/customer_support" data-bhw="user-help-link">
+                Help
+              </a>
+    <a class="first user-menu-item user-menu-action" id="ls-user-signin" href="/login" data-bhw="SignIn">
+                Sign In
+              </a>
+              <a class="last user-menu-item user-menu-action" id="ls-user-signup" href="/signup" data-bhw="SignUp">
                 Sign Up
               </a>
-            </nav>
+</nav>
 
-                          <div class="cart-widget" data-bhw="CartWidget">
-                            <div class="cart-name">
-                              <a href="/cart" class="btn-secondary btn-small"><span class="icon-goods"></span> Cart</a>
-                            </div>
-                          </div>
-        </div>
                   </div>
                 </div>
               </div>
-              <nav class="primary-nav" role="navigation">
+            </div>
+          
+            <nav id="ls-primary-nav" role="navigation">
     <div class="row">
-      <div class="twelve columns">
-        <ul>
+      <ul class="primary-nav primary-nav-small-font">
   
-            <li id="home-tab" class="primary-nav-tab" data-bhw="NavHome">
-                <a href="/">Home</a>
-          </li>
+        <li id="home-tab" class="primary-nav-tab" data-bhw="NavHome">
+          <a class="icon-home breakout-iconHomeHidden" href="/">
+            <span class="responsive-hide">Home</span>
+          </a>
+        </li>
+  
+          <li id="local-tab" class="primary-nav-tab ls-nowrap" data-bhw="NavLocalDeals">
+            <a href="/browse/sacramento?context=local">Local</a>
+                <a id="ls-restaurants-link" class="breakout-link restaurants" href="/browse/sacramento?category=food-and-drink" data-bhw="BreakoutRestaurants">Restaurants</a>
+              <a id="ls-beauty-and-spas-link" class="breakout-link beauty-and-spas" href="/browse/sacramento?category=beauty-and-spas" data-bhw="BreakoutBeautyAndSpas">Beauty &amp; Spas</a>
+        </li>
 
-            <li id="local-tab" class="primary-nav-tab " data-bhw="NavLocalDeals">
-              <a href="/browse/washington-dc?context=local">Local</a>
+        <li id="goods-tab" class="primary-nav-tab" data-bhw="NavGoods">
+          <a href="/goods">
+            Goods
+          </a>
+        </li>
+  
+        <li id="getaways-tab" class="primary-nav-tab" data-bhw="NavGetaways">
+          <a href="/getaways">
+              Getaways
+        </a>
+        </li>
+  
+            <li id="ls-clearance" class="primary-nav-tab" data-bhw="NavClearance">
+              <a href="/steals">
+                Today's Steals
+              </a>
             </li>
 
-          <li id="goods-tab" class="primary-nav-tab" data-bhw="NavGoods">
-            <a href="/goods">
-              Goods
+  
+  
+          <li id="coupons-tab" class="primary-nav-tab" data-bhw="NavCoupons">
+            <a href="/coupons">Coupons</a>
+          </li>
+
+            <li id="occasion-tab" class="GiftableOccasion Gifts ls-occasion-tab primary-nav-tab last" data-bhw="NavOccasion">
+            <a href="/occasion/new-years-resolutions" class="G_event E-GobalTopNavNH_GrouponOccasion Gifts " data-track="{&quot;event&quot;:&quot;click&quot;,&quot;t&quot;:&quot;occasion_tab_selected&quot;}">
+              
+              New You 2015
             </a>
           </li>
-  
-          <li id="getaways-tab" class="primary-nav-tab" data-bhw="NavGetaways">
-            <a href="/getaways">
-                Getaways
-          </a>
-          </li>
-  
-              <li id="reserve-tab" class="primary-nav-tab reserve-tab hide" data-bhw="NavReserve">
-                <a href="/reserve/washington-dc" class="reserve G_event E-GlobalTopNavNH_GReserve">Reserve</a>
-              </li>
-
-              <li id="coupons-tab" class="primary-nav-tab" data-bhw="NavCoupons">
-                <a href="/coupons">Coupons</a>
-              </li>
-
-  
-            <style>
-            .ls-occasion-tab .ls-occasion-violator {
-              margin: -4px 7px 0;
-              width: 26px;
-              height: 31px;
-              background-image: url("//www.groupon.com/layout/assets/2014-06-25_beachbodies-bcdb0fe7c6.png");
-              background-size: 26px 31px;
-            }
-            @media all and (-webkit-min-device-pixel-ratio: 1.5),(-o-min-device-pixel-ratio:1.5/1),(min-device-pixel-ratio:1.5),(min-resolution:138dpi),(min-resolution:1.5dppx) {
-              .ls-occasion-tab .ls-occasion-violator {
-                background-image: url("//www.groupon.com/layout/assets/2014-06-25_beachbodies@2x-b13e93d5ff.png");
-              }
-            }
-          </style>
-            <li id="occasion-tab" class="GiftableOccasion Gifts ls-occasion-tab primary-nav-tab last" data-bhw="NavOccasion">
-              <a href="/occasions" class="G_event E-GobalTopNavNH_GrouponOccasion Gifts violator" data-track="{&quot;event&quot;:&quot;click&quot;,&quot;t&quot;:&quot;occasion_tab_selected&quot;}">
-                <span class="ls-occasion-violator"></span>
-                Summer Shop
-              </a>
-            </li>
-              </ul>
-      </div>
+    </ul>
     </div>
   </nav>
+
+            <div id="ls-rail" class="ls-rail row"><span id="ls-rail-slide"></span></div>
   <nav class="subnav">
-    <nav class="subnav-flyout goods-tab-flyout row" style="display: none">
-      <div class="categories subnav-categories" data-bhw="CategoryNavigation">
-        <div class="column">
-            <a class="subnav-link subnav-link-count" href="/goods?category=all" data-bhc="category:goods-tab-all-goods" id="all-goods">
-  
-            All Goods
-  
-                <span class="count">3661</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=all&amp;discount=gg-clearance" data-bhc="category:goods-tab-all&amp;discount=gg-clearance" id="all&amp;discount=gg-clearance">
-  
-            Clearance
-  
-                <span class="count">123</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=apparel-and-accessories" data-bhc="category:goods-tab-apparel-and-accessories" id="apparel-and-accessories">
-  
-            Apparel
-  
-                <span class="count">519</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=automotive-goods" data-bhc="category:goods-tab-automotive-goods" id="automotive-goods">
-  
-            Auto
-  
-                <span class="count">49</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=baby-goods" data-bhc="category:goods-tab-baby-goods" id="baby-goods">
-  
-            Baby
-  
-                <span class="count">56</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=basics" data-bhc="category:goods-tab-basics" id="basics">
-  
-            Basics
-  
-              <span class="new-badge">New!</span>
-              <span class="count">169</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=electronics-goods" data-bhc="category:goods-tab-electronics-goods" id="electronics-goods">
-  
-            Electronics
-  
-                <span class="count">628</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=entertainment-and-media" data-bhc="category:goods-tab-entertainment-and-media" id="entertainment-and-media">
-  
-            Entertainment
-  
-                <span class="count">187</span>
-        </a>
-      </div>
-      <div class="column">
-            <a class="subnav-link subnav-link-count" href="/goods?category=food-and-drink-goods" data-bhc="category:goods-tab-food-and-drink-goods" id="food-and-drink-goods">
-  
-            Food &amp; Drink
-  
-                <span class="count">80</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=health-and-beauty-goods" data-bhc="category:goods-tab-health-and-beauty-goods" id="health-and-beauty-goods">
-  
-            Health &amp; Beauty
-  
-                <span class="count">686</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=home-goods" data-bhc="category:goods-tab-home-goods" id="home-goods">
-  
-            Home
-  
-                <span class="count">685</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=jewelry" data-bhc="category:goods-tab-jewelry" id="jewelry">
-  
-            Jewelry &amp; Watches
-  
-                <span class="count">305</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=pets-goods" data-bhc="category:goods-tab-pets-goods" id="pets-goods">
-  
-            Pets
-  
-                <span class="count">93</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=sports-and-outdoors-goods" data-bhc="category:goods-tab-sports-and-outdoors-goods" id="sports-and-outdoors-goods">
-  
-            Sporting Goods
-  
-                <span class="count">254</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=tools-and-diy-goods" data-bhc="category:goods-tab-tools-and-diy-goods" id="tools-and-diy-goods">
-  
-            Tools
-  
-                <span class="count">75</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/goods?category=toys" data-bhc="category:goods-tab-toys" id="toys">
-  
-            Toys
-  
-                <span class="count">81</span>
-        </a>
-      </div>
-    </div>
-    <div class="megamind subnav-megamind">
-            <a class="subnav-megamind-widget" href="https://www.groupon.com/occasion/gg-stock-up-for-summer" data-bhw="Goods_Stock_Up_For_Summer">
-                <img class="ls-lazy" data-original="https://img.grouponcdn.com/deal/fRik76vipNuTYcYcYQqg/pN-440x420" data-bhc="asset:Goods_Stock_Up_For_Summer">
-              </a>
-          <a class="subnav-megamind-widget" href="https://www.groupon.com/occasion/gg-college" data-bhw="Goods_College_Bound">
-                <img class="ls-lazy" data-original="https://img.grouponcdn.com/deal/3evzCdFYSdJELyNV7Sxh/Pc-440x420" data-bhc="asset:Goods_College_Bound">
-              </a>
-    </div>
-    </nav>
-  <nav class="subnav-flyout getaways-tab-flyout row" style="display: none">
-      <div class="categories subnav-categories" data-bhw="CategoryNavigation">
-        <div class="column">
-            <a class="subnav-link" href="/getaways#category/All+Destinations" data-bhc="category:getaways-tab-All Destinations">
-  
-            All Destinations
-  
-          </a>
-          <a class="subnav-link" href="/getaways#category/USA+and+Canada" data-bhc="category:getaways-tab-USA &amp; Canada">
-  
-            USA &amp; Canada
-  
-          </a>
-          <a class="subnav-link" href="/getaways#category/Mexico,+the+Caribbean,+&amp;+Latin+America" data-bhc="category:getaways-tab-Mexico, the Caribbean, &amp; Latin America">
-  
-            Mexico, the Caribbean, &amp; Latin America
-  
-          </a>
-          <a class="subnav-link" href="/getaways#category/Europe,+Asia,+Africa,+&amp;+Oceania" data-bhc="category:getaways-tab-Europe, Asia, Africa, &amp; Oceania">
-  
-            Europe, Asia, Africa, &amp; Oceania
-  
-          </a>
-      </div>
-    </div>
-    <div class="megamind subnav-megamind">
-            <a class="subnav-megamind-widget" href="https://www.groupon.com/occasion/ga-great-wolf-lodge" data-bhw="Great_Wolf">
-                <img class="ls-lazy" data-original="https://img.grouponcdn.com/deal/2Qm9PMrBeG6M23eA5y8E/Mv-440x420" data-bhc="asset:Great_Wolf">
-              </a>
-          <a class="subnav-megamind-widget" href="https://www.groupon.com/occasion/best-hotel-deals" data-bhw="ga_under99">
-                <img class="ls-lazy" data-original="https://img.grouponcdn.com/deal/5CKRbXh3ksaCgViUCL4XrP/getaways_under99-440x420" data-bhc="asset:ga_under99">
-              </a>
-          <a class="subnav-megamind-widget" href="https://www.groupon.com/occasion/summer-vacations" data-bhw="ga_summer_vacations">
-                <img class="ls-lazy" data-original="https://img.grouponcdn.com/deal/29bEc1cY97uVh15hpgEc/DC-440x420" data-bhc="asset:ga_summer_vacations">
-              </a>
-    </div>
-    </nav>
-  <nav class="subnav-flyout reserve-tab-flyout row" style="display: none">
-      <div class="categories subnav-categories" data-bhw="CategoryNavigation">
-        <div class="column">
-            <a class="subnav-link subnav-link-count" href="/reserve/new-york" data-bhc="category:reserve-tab-new-york" id="new-york">
-  
-            New York City
-  
-                <span class="count">337</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/reserve/north-jersey" data-bhc="category:reserve-tab-north-jersey" id="north-jersey">
-  
-            North Jersey
-  
-                <span class="count">27</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/reserve/long-island" data-bhc="category:reserve-tab-long-island" id="long-island">
-  
-            Long Island
-  
-                <span class="count">26</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/reserve/westchester-county" data-bhc="category:reserve-tab-westchester-county" id="westchester-county">
-  
-            Westchester
-  
-                <span class="count">21</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/reserve/chicago" data-bhc="category:reserve-tab-chicago" id="chicago">
-  
-            Chicago
-  
-                <span class="count">69</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/reserve/san-francisco" data-bhc="category:reserve-tab-san-francisco" id="san-francisco">
-  
-            San Francisco
-  
-                <span class="count">37</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/reserve/los-angeles" data-bhc="category:reserve-tab-los-angeles" id="los-angeles">
-  
-            Los Angeles
-  
-                <span class="count">65</span>
-        </a>
-      </div>
-      <div class="column">
-            <a class="subnav-link subnav-link-count" href="/reserve/washington-dc" data-bhc="category:reserve-tab-washington-dc" id="washington-dc">
-  
-            Washington DC
-  
-                <span class="count">54</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/reserve/philadelphia" data-bhc="category:reserve-tab-philadelphia" id="philadelphia">
-  
-            Philadelphia
-  
-                <span class="count">23</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/reserve/atlanta" data-bhc="category:reserve-tab-atlanta" id="atlanta">
-  
-            Atlanta
-  
-                <span class="count">14</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/reserve/boston" data-bhc="category:reserve-tab-boston" id="boston">
-  
-            Boston
-  
-                <span class="count">19</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/reserve/miami" data-bhc="category:reserve-tab-miami" id="miami">
-  
-            Miami
-  
-                <span class="count">38</span>
-        </a>
-          <a class="subnav-link subnav-link-count" href="/reserve/denver" data-bhc="category:reserve-tab-denver" id="denver">
-  
-            Denver
-  
-                <span class="count">20</span>
-        </a>
-      </div>
-    </div>
-    <div class="megamind subnav-megamind">
-            <a class="subnav-megamind-widget" href="https://www.groupon.com/reserve" data-bhw="Reserve2_B">
-                <img class="ls-lazy" data-original="https://img.grouponcdn.com/deal/qJFgdFZbH9DYHwQZ4eAVLi/mu_reserve-value02_jpg-440x420" data-bhc="asset:Reserve2_B">
-              </a>
-          <a class="subnav-megamind-widget" href="https://www.groupon.com/reserve" data-bhw="Reserve2_A">
-                <img class="ls-lazy" data-original="https://img.grouponcdn.com/deal/jZ3vMst3vAKnZVnr7SFdVX/mu_reserve-value01_jpg-440x420" data-bhc="asset:Reserve2_A">
-              </a>
-    </div>
-    </nav>
-  <nav class="subnav-flyout occasion-tab-flyout row" style="display: none">
-      <div class="categories subnav-categories" data-bhw="CategoryNavigation">
-        <div class="column">
-            <a class="subnav-link" href="/occasion/summer-shopping" data-bhc="category:occasion-tab-Summer Shop">
-  
-            Summer Shop
-  
-          </a>
-          <a class="subnav-link" href="/occasion/summer-activities-under-25" data-bhc="category:occasion-tab-Activities Under $25">
-  
-            Activities Under $25
-  
-          </a>
-          <a class="subnav-link" href="/occasion/summer-fitness" data-bhc="category:occasion-tab-Beach Bodies">
-  
-            Beach Bodies
-  
-          </a>
-          <a class="subnav-link" href="/occasion/summer-fun-waterpark" data-bhc="category:occasion-tab-Cool Down">
-  
-            Cool Down
-  
-          </a>
-          <a class="subnav-link" href="/occasion/summer-activities" data-bhc="category:occasion-tab-Epic Adventures">
-  
-            Epic Adventures
-  
-          </a>
-          <a class="subnav-link" href="/occasion/family-activities" data-bhc="category:occasion-tab-Family Fun">
-  
-            Family Fun
-  
-          </a>
-      </div>
-      <div class="column">
-            <a class="subnav-link" href="/occasion/summer-food" data-bhc="category:occasion-tab-Fresh Eats">
-  
-            Fresh Eats
-  
-          </a>
-          <a class="subnav-link" href="/occasion/summer-auto" data-bhc="category:occasion-tab-Home + Auto">
-  
-            Home + Auto
-  
-          </a>
-          <a class="subnav-link" href="/occasion/summer-spa" data-bhc="category:occasion-tab-Pampering">
-  
-            Pampering
-  
-          </a>
-          <a class="subnav-link" href="/occasion/summer-parties" data-bhc="category:occasion-tab-Shindigs">
-  
-            Shindigs
-  
-          </a>
-          <a class="subnav-link" href="/occasion/summer-vacations" data-bhc="category:occasion-tab-Vacations">
-  
-            Vacations
-  
-          </a>
-      </div>
-    </div>
-    <div class="megamind subnav-megamind">
-            <a class="subnav-megamind-widget" href="https://www.groupon.com/occasion/summer-shopping" data-bhw="Summer_Shop_GenSummer">
-                <img class="ls-lazy" data-original="https://img.grouponcdn.com/deal/6r99oYcmZAwfsgXU94Sp/d6-440x420" data-bhc="asset:Summer_Shop_GenSummer">
-              </a>
-          <a class="subnav-megamind-widget" href="https://www.groupon.com/occasion/summer-fitness" data-bhw="Summer_Shop_Beach_Bodies">
-                <img class="ls-lazy" data-original="https://img.grouponcdn.com/deal/m4xZNced7mDj2iPA9v5/Wj-440x420" data-bhc="asset:Summer_Shop_Beach_Bodies">
-              </a>
-    </div>
-    </nav>
-  <nav class="subnav-flyout coupons-tab-flyout row" style="display: none">
-      <div class="categories subnav-categories" data-bhw="CategoryNavigation">
-        <div class="column">
-            <a class="subnav-link" href="/coupons/stores" data-bhc="category:coupons-tab-All Stores">
-  
-            All Stores
-  
-          </a>
-          <a class="subnav-link" href="/coupons/stores/target.com" data-bhc="category:coupons-tab-Target Coupons">
-  
-            Target Coupons
-  
-          </a>
-          <a class="subnav-link" href="/coupons/stores/toysrus.com" data-bhc="category:coupons-tab-Toys R Us Coupons">
-  
-            Toys R Us Coupons
-  
-          </a>
-          <a class="subnav-link" href="/coupons/stores/sephora.com" data-bhc="category:coupons-tab-Sephora Coupons">
-  
-            Sephora Coupons
-  
-          </a>
-          <a class="subnav-link" href="/coupons/stores/nordstrom.com" data-bhc="category:coupons-tab-Nordstrom Coupons">
-  
-            Nordstrom Coupons
-  
-          </a>
-          <a class="subnav-link" href="/coupons/stores/bestbuy.com" data-bhc="category:coupons-tab-Best Buy Coupons">
-  
-            Best Buy Coupons
-  
-          </a>
-          <a class="subnav-link" href="/coupons/stores/macys.com" data-bhc="category:coupons-tab-Macy's Coupons">
-  
-            Macy's Coupons
-  
-          </a>
-      </div>
-      <div class="column">
-            <a class="subnav-link" href="/coupons/stores/ae.com" data-bhc="category:coupons-tab-American Eagle Coupons">
-  
-            American Eagle Coupons
-  
-          </a>
-          <a class="subnav-link" href="/coupons/stores/aeropostale.com" data-bhc="category:coupons-tab-Aeropostale Coupons">
-  
-            Aeropostale Coupons
-  
-          </a>
-          <a class="subnav-link" href="/coupons/stores/finishline.com" data-bhc="category:coupons-tab-Finish Line Coupons">
-  
-            Finish Line Coupons
-  
-          </a>
-          <a class="subnav-link" href="/coupons/stores/walmart.com" data-bhc="category:coupons-tab-Walmart Coupons">
-  
-            Walmart Coupons
-  
-          </a>
-          <a class="subnav-link" href="/coupons/stores/shutterfly.com" data-bhc="category:coupons-tab-Shutterfly Coupons">
-  
-            Shutterfly Coupons
-  
-          </a>
-          <a class="subnav-link" href="/coupons/stores/walgreens.com" data-bhc="category:coupons-tab-Walgreens Coupons">
-  
-            Walgreens Coupons
-  
-          </a>
-          <a class="subnav-link" href="/coupons/stores/thebodyshop.com" data-bhc="category:coupons-tab-The Body Shop Coupons">
-  
-            The Body Shop Coupons
-  
-          </a>
-      </div>
-    </div>
-    <div class="megamind subnav-megamind">
-            <a class="subnav-megamind-widget" href="https://www.groupon.com/coupons" data-bhw="Todays_Best_Coupons">
-                <img class="ls-lazy" data-original="https://img.grouponcdn.com/deal/45m9Y28QFGAVovMwa1cxga/todays-best-col2-440x420" data-bhc="asset:Todays_Best_Coupons">
-              </a>
-          <a class="subnav-megamind-widget" href="https://www.groupon.com/coupons" data-bhw="About_Groupon_Coupons">
-                <img class="ls-lazy" data-original="https://img.grouponcdn.com/deal/eWDYnPScx2yHee4zE3xC3w/freebies-text-col4-440x420" data-bhc="asset:About_Groupon_Coupons">
-              </a>
-    </div>
-    </nav>
+      <nav class="subnav-flyout local-tab-flyout row
+           
+           flyout-v1 hide" data-bhw="SubNav-local-tab" id="subnav-local-tab">
+            <div class="column subnav-categories">
+              <div class="">
+                    <a class="subnav-link subnav-link-count" href="/browse/sacramento?context=local" data-bhc="category:local-tab-all-deals" id="all-deals">
+                      All Deals
+                          <span class="count">1586</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/browse/sacramento?category=automotive" data-bhc="category:local-tab-automotive" id="automotive">
+                      Automotive
+                          <span class="count">58</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/browse/sacramento?category=beauty-and-spas" data-bhc="category:local-tab-beauty-and-spas" id="beauty-and-spas">
+                      Beauty &amp; Spas
+                          <span class="count">408</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/browse/sacramento?category=food-and-drink" data-bhc="category:local-tab-food-and-drink" id="food-and-drink">
+                      Food &amp; Drink
+                          <span class="count">145</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/browse/sacramento?category=health-and-fitness" data-bhc="category:local-tab-health-and-fitness" id="health-and-fitness">
+                      Health &amp; Fitness
+                          <span class="count">435</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/browse/sacramento?category=home-improvement" data-bhc="category:local-tab-home-improvement" id="home-improvement">
+                      Home Services
+                          <span class="count">90</span>
+                  </a>
+            </div>
+            </div>
+          <div class="column subnav-categories">
+              <div class="">
+                    <a class="subnav-link subnav-link-count" href="/browse/sacramento?category=local-services" data-bhc="category:local-tab-local-services" id="local-services">
+                      Local Services
+                          <span class="count">336</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/browse/sacramento?category=shopping" data-bhc="category:local-tab-shopping" id="shopping">
+                      Shopping
+                          <span class="count">127</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/browse/sacramento?category=things-to-do" data-bhc="category:local-tab-things-to-do" id="things-to-do">
+                      Things To Do 
+                          <span class="count">393</span>
+                  </a>
+            </div>
+            </div>
+
+            <a id="ls-widget-local-1" class="column subnav-megamind-widget" href="https://groupon.com/occasion/new-years-resolutions" data-bhw="WidgetLocal1">
+              <img class="ls-lazy" data-original="https://img.grouponcdn.com/sparta/8jRRnoB7xGhcxi2RJrCW/MK-440x420.jpg" data-original-2x="https://img.grouponcdn.com/sparta/8jRRnoB7xGhcxi2RJrCW/MK-440x420.jpg#@2x" alt="" data-bhc="banner:MegamindLocal_NavBar_NewYears" data-bhd="{&quot;campaign&quot;:&quot;us-new-years-resolutions-2015_new-years-resolutions&quot;,&quot;mm_request_id&quot;:&quot;019824576199141157&quot;,&quot;mm_treatment&quot;:&quot;148b169e&quot;,&quot;mm_position&quot;:1}">
+            </a>
+          <a id="ls-widget-local-2" class="column subnav-megamind-widget" href="https://groupon.com/occasion/start-fresh-this-year" data-bhw="WidgetLocal2">
+              <img class="ls-lazy" data-original="https://img.grouponcdn.com/sparta/67MKLg7xtoiVbwkpXZV6/i6-440x420.jpg" data-original-2x="https://img.grouponcdn.com/sparta/67MKLg7xtoiVbwkpXZV6/i6-440x420.jpg#@2x" alt="" data-bhc="banner:MegamindHBW_NavBar_HappyNewYou" data-bhd="{&quot;campaign&quot;:&quot;start-fresh-this-year&quot;,&quot;mm_request_id&quot;:&quot;019824576199141157&quot;,&quot;mm_treatment&quot;:&quot;4e758be4&quot;,&quot;mm_position&quot;:2}">
+            </a>
+
+      </nav>
+    <nav class="subnav-flyout goods-tab-flyout row
+           
+           flyout-v1 hide" data-bhw="SubNav-goods-tab" id="subnav-goods-tab">
+            <div class="column subnav-categories">
+              <div class="">
+                    <a class="subnav-link subnav-link-count" href="/goods?category=all" data-bhc="category:goods-tab-all-goods" id="all-goods">
+                      All Goods
+                          <span class="count">7233</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/goods?category=all&amp;discount=gg-clearance" data-bhc="category:goods-tab-all&amp;discount=gg-clearance" id="all&amp;discount=gg-clearance">
+                      Clearance
+                          <span class="count">506</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/goods?category=auto-and-home-improvement" data-bhc="category:goods-tab-auto-and-home-improvement" id="auto-and-home-improvement">
+                      Auto &amp; Home Improvement
+                          <span class="count">283</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/goods?category=baby-kids-and-toys" data-bhc="category:goods-tab-baby-kids-and-toys" id="baby-kids-and-toys">
+                      Baby, Kids &amp; Toys
+                          <span class="count">468</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/goods?category=basics" data-bhc="category:goods-tab-basics" id="basics">
+                      Basics
+                        <span class="new-badge">New!</span>
+                        <span class="count">241</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/goods?category=electronics" data-bhc="category:goods-tab-electronics" id="electronics">
+                      Electronics
+                          <span class="count">1075</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/goods?category=entertainment-and-media" data-bhc="category:goods-tab-entertainment-and-media" id="entertainment-and-media">
+                      Entertainment
+                          <span class="count">410</span>
+                  </a>
+            </div>
+            </div>
+          <div class="column subnav-categories">
+              <div class="">
+                    <a class="subnav-link subnav-link-count" href="/goods?category=food-and-drink-goods" data-bhc="category:goods-tab-food-and-drink-goods" id="food-and-drink-goods">
+                      Food &amp; Drink
+                          <span class="count">474</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/goods?category=health-and-beauty" data-bhc="category:goods-tab-health-and-beauty" id="health-and-beauty">
+                      Health &amp; Beauty
+                          <span class="count">1457</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/goods?category=home-and-garden" data-bhc="category:goods-tab-home-and-garden" id="home-and-garden">
+                      Home &amp; Garden
+                          <span class="count">1306</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/goods?category=men" data-bhc="category:goods-tab-men" id="men">
+                      Men
+                          <span class="count">293</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/goods?category=sports-and-outdoors" data-bhc="category:goods-tab-sports-and-outdoors" id="sports-and-outdoors">
+                      Sports &amp; Outdoors
+                          <span class="count">712</span>
+                  </a>
+                  <a class="subnav-link subnav-link-count" href="/goods?category=women" data-bhc="category:goods-tab-women" id="women">
+                      Women
+                          <span class="count">1161</span>
+                  </a>
+            </div>
+            </div>
+
+            <a id="ls-widget-goods-1" class="column subnav-megamind-widget" href="https://groupon.com/occasion/ideel" data-bhw="WidgetGoods1">
+              <img class="ls-lazy" data-original="https://img.grouponcdn.com/sparta/8Qb1Loh1CZTWQ18SqiQr/Lt-440x420.jpg" data-original-2x="https://img.grouponcdn.com/sparta/8Qb1Loh1CZTWQ18SqiQr/Lt-440x420.jpg#@2x" alt="" data-bhc="banner:MegamindNavBar" data-bhd="{&quot;campaign&quot;:&quot;us---ideeli_ideel&quot;,&quot;mm_request_id&quot;:&quot;019824576199141157&quot;,&quot;mm_treatment&quot;:&quot;19facd18&quot;,&quot;mm_position&quot;:1}">
+            </a>
+          <span id="ls-widget-fallback-goods-1" class="column subnav-megamind-widget" data-bhw="WidgetFallbackGoods1">
+              <img class="ls-lazy" data-original="//img.grouponcdn.com/test/pnxGdgmkiefUZD4EoKaHVi/mm-fallback-3-220x210" data-original-2x="//img.grouponcdn.com/test/3Bswja1PRrwqvxVAdhhnWH/mm-fallback-3_2x-440x420#@2x" alt="">
+            </span>
+
+      </nav>
+    <nav class="subnav-flyout getaways-tab-flyout row
+           
+           flyout-v1 hide" data-bhw="SubNav-getaways-tab" id="subnav-getaways-tab">
+            <div class="column subnav-categories">
+              <div class="">
+                    <a class="subnav-link" href="/getaways#category/All+Destinations" data-bhc="category:getaways-tab-All Destinations">
+                      All Destinations
+                    </a>
+                  <a class="subnav-link" href="/getaways#category/USA+and+Canada" data-bhc="category:getaways-tab-USA &amp; Canada">
+                      USA &amp; Canada
+                    </a>
+                  <a class="subnav-link" href="/getaways#category/Mexico,+the+Caribbean,+&amp;+Latin+America" data-bhc="category:getaways-tab-Mexico, the Caribbean, &amp; Latin America">
+                      Mexico, the Caribbean, &amp; Latin America
+                    </a>
+                  <a class="subnav-link" href="/getaways#category/Europe,+Asia,+Africa,+&amp;+Oceania" data-bhc="category:getaways-tab-Europe, Asia, Africa, &amp; Oceania">
+                      Europe, Asia, Africa, &amp; Oceania
+                    </a>
+            </div>
+            </div>
+
+            <a id="ls-widget-getaways-1" class="column subnav-megamind-widget" href="https://groupon.com/occasion/travel" data-bhw="WidgetGetaways1">
+              <img class="ls-lazy" data-original="https://img.grouponcdn.com/sparta/6vnQtrMjs3dsN71pKEga/4a-440x420.jpg" data-original-2x="https://img.grouponcdn.com/sparta/6vnQtrMjs3dsN71pKEga/4a-440x420.jpg#@2x" alt="" data-bhc="banner:MegamindGA_travel" data-bhd="{&quot;campaign&quot;:&quot;us-getaways-shop_travel&quot;,&quot;mm_request_id&quot;:&quot;019824576199141157&quot;,&quot;mm_treatment&quot;:&quot;9d58c08&quot;,&quot;mm_position&quot;:1}">
+            </a>
+          <a id="ls-widget-getaways-2" class="column subnav-megamind-widget" href="https://groupon.com/occasion/spring-break" data-bhw="WidgetGetaways2">
+              <img class="ls-lazy" data-original="https://img.grouponcdn.com/sparta/qdtWcn8rLRBk8QqsBths/4L-440x420.jpg" data-original-2x="https://img.grouponcdn.com/sparta/qdtWcn8rLRBk8QqsBths/4L-440x420.jpg#@2x" alt="" data-bhc="banner:MegamindGA_spring-break" data-bhd="{&quot;campaign&quot;:&quot;us-spring-break-shop-2015_spring-break&quot;,&quot;mm_request_id&quot;:&quot;019824576199141157&quot;,&quot;mm_treatment&quot;:&quot;1a9a60ae&quot;,&quot;mm_position&quot;:2}">
+            </a>
+          <a id="ls-widget-getaways-3" class="column subnav-megamind-widget" href="https://groupon.com/occasion/winter-travel" data-bhw="WidgetGetaways3">
+              <img class="ls-lazy" data-original="https://img.grouponcdn.com/sparta/i4c7Btf1H7r49Uq7icjr/fu-440x420.jpg" data-original-2x="https://img.grouponcdn.com/sparta/i4c7Btf1H7r49Uq7icjr/fu-440x420.jpg#@2x" alt="" data-bhc="banner:MegamindGA_winter-travel" data-bhd="{&quot;campaign&quot;:&quot;us-getaways-shop_winter-travel&quot;,&quot;mm_request_id&quot;:&quot;019824576199141157&quot;,&quot;mm_treatment&quot;:&quot;494b6cb2&quot;,&quot;mm_position&quot;:3}">
+            </a>
+
+      </nav>
+    <nav class="subnav-flyout coupons-tab-flyout row
+           
+           flyout-v1 hide" data-bhw="SubNav-coupons-tab" id="subnav-coupons-tab">
+            <div class="column subnav-categories">
+              <div class="">
+                    <a class="subnav-link" href="/coupons/stores" data-bhc="category:coupons-tab-All Stores">
+                      All Stores
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/aeropostale.com" data-bhc="category:coupons-tab-Aeropostale Coupons">
+                      Aeropostale Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/amazon.com" data-bhc="category:coupons-tab-Amazon Coupons">
+                      Amazon Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/ae.com" data-bhc="category:coupons-tab-American Eagle Coupons">
+                      American Eagle Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/bestbuy.com" data-bhc="category:coupons-tab-Best Buy Coupons">
+                      Best Buy Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/finishline.com" data-bhc="category:coupons-tab-Finish Line Coupons">
+                      Finish Line Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/homedepot.com" data-bhc="category:coupons-tab-Home Depot Coupons">
+                      Home Depot Coupons
+                    </a>
+            </div>
+            </div>
+          <div class="column subnav-categories">
+              <div class="">
+                    <a class="subnav-link" href="/coupons/stores/jcpenney.com" data-bhc="category:coupons-tab-JCPenney Coupons">
+                      JCPenney Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/kohls.com" data-bhc="category:coupons-tab-Kohl's Coupons">
+                      Kohl's Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/macys.com" data-bhc="category:coupons-tab-Macy's Coupons">
+                      Macy's Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/nike.com" data-bhc="category:coupons-tab-Nike Coupons">
+                      Nike Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/nordstrom.com" data-bhc="category:coupons-tab-Nordstrom Coupons">
+                      Nordstrom Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/sears.com" data-bhc="category:coupons-tab-Sears Coupons">
+                      Sears Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/sephora.com" data-bhc="category:coupons-tab-Sephora Coupons">
+                      Sephora Coupons
+                    </a>
+            </div>
+            </div>
+          <div class="column subnav-categories">
+              <div class="">
+                    <a class="subnav-link" href="/coupons/stores/shutterfly.com" data-bhc="category:coupons-tab-Shutterfly Coupons">
+                      Shutterfly Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/target.com" data-bhc="category:coupons-tab-Target Coupons">
+                      Target Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/thebodyshop.com" data-bhc="category:coupons-tab-The Body Shop Coupons">
+                      The Body Shop Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/toysrus.com" data-bhc="category:coupons-tab-Toys R Us Coupons">
+                      Toys R Us Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/walgreens.com" data-bhc="category:coupons-tab-Walgreens Coupons">
+                      Walgreens Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/walmart.com" data-bhc="category:coupons-tab-Walmart Coupons">
+                      Walmart Coupons
+                    </a>
+                  <a class="subnav-link" href="/coupons/stores/westernunion.com" data-bhc="category:coupons-tab-Western Union Coupons">
+                      Western Union Coupons
+                    </a>
+            </div>
+            </div>
+
+            <a id="ls-widget-coupons-1" class="column subnav-megamind-widget" href="https://www.groupon.com/coupons" data-bhw="WidgetCoupons1">
+              <img class="ls-lazy" data-original="https://img.grouponcdn.com/deal/45m9Y28QFGAVovMwa1cxga/todays-best-col2-440x420" data-original-2x="https://img.grouponcdn.com/deal/45m9Y28QFGAVovMwa1cxga/todays-best-col2-440x420#@2x" alt="" data-bhc="banner:MegamindNavBar" data-bhd="{&quot;campaign&quot;:&quot;unknown&quot;,&quot;mm_request_id&quot;:&quot;019824576199141157&quot;,&quot;mm_treatment&quot;:&quot;8120f941&quot;,&quot;mm_position&quot;:1}">
+            </a>
+
+      </nav>
+    <nav class="subnav-flyout occasion-tab-flyout row
+           
+           flyout-v1 hide" data-bhw="SubNav-occasion-tab" id="subnav-occasion-tab">
+            <div class="column subnav-categories">
+              <div class="">
+                    <a class="subnav-link" href="/occasions" data-bhc="category:occasion-tab-New You 2015">
+                      New You 2015
+                    </a>
+                  <a class="subnav-link" href="/occasion/new-years-resolutions-look-your-best" data-bhc="category:occasion-tab-Be Fabulous">
+                      Be Fabulous
+                    </a>
+                  <a class="subnav-link" href="/occasion/new-years-resolutions-fitness" data-bhc="category:occasion-tab-Be Fit">
+                      Be Fit
+                    </a>
+                  <a class="subnav-link" href="/occasion/new-years-resolutions-adventures" data-bhc="category:occasion-tab-Be Adventurous">
+                      Be Adventurous
+                    </a>
+                  <a class="subnav-link" href="/occasion/new-years-resolutions-learn-something-new" data-bhc="category:occasion-tab-Be Curious">
+                      Be Curious
+                    </a>
+            </div>
+            </div>
+
+            <a id="ls-widget-occasion-1" class="column subnav-megamind-widget" href="https://groupon.com/occasion/new-years-resolutions" data-bhw="WidgetOccasion1">
+              <img class="ls-lazy" data-original="https://img.grouponcdn.com/sparta/v5fHK29R4VpNZTmFNmBi/xb-440x420.jpg" data-original-2x="https://img.grouponcdn.com/sparta/v5fHK29R4VpNZTmFNmBi/xb-440x420.jpg#@2x" alt="" data-bhc="banner:MegamindNYR_OccasionsNavBar_NYR" data-bhd="{&quot;campaign&quot;:&quot;us-new-years-resolutions-2015_new-years-resolutions&quot;,&quot;mm_request_id&quot;:&quot;019824576199141157&quot;,&quot;mm_treatment&quot;:&quot;cc4daf8d&quot;,&quot;mm_position&quot;:1}">
+            </a>
+          <a id="ls-widget-occasion-2" class="column subnav-megamind-widget" href="https://groupon.com/articles/trends-for-2015" data-bhw="WidgetOccasion2">
+              <img class="ls-lazy" data-original="https://img.grouponcdn.com/sparta/aMVypq6Du8dk9Rgf6b3a/yr-440x420.jpg" data-original-2x="https://img.grouponcdn.com/sparta/aMVypq6Du8dk9Rgf6b3a/yr-440x420.jpg#@2x" alt="" data-bhc="banner:MegamindNYR_OccasionsNavBar_Trends2015" data-bhd="{&quot;campaign&quot;:&quot;us-new-years-resolutions-2015_new-years-resolutions&quot;,&quot;mm_request_id&quot;:&quot;019824576199141157&quot;,&quot;mm_treatment&quot;:&quot;4ff02f1&quot;,&quot;mm_position&quot;:2}">
+            </a>
+          <a id="ls-widget-occasion-3" class="column subnav-megamind-widget" href="https://groupon.com/occasion/new-years-beauty" data-bhw="WidgetOccasion3">
+              <img class="ls-lazy" data-original="https://img.grouponcdn.com/sparta/iNrxPXFfVoZYUPqGcyjk/gz-440x420.jpg" data-original-2x="https://img.grouponcdn.com/sparta/iNrxPXFfVoZYUPqGcyjk/gz-440x420.jpg#@2x" alt="" data-bhc="banner:MegamindNYR_OccasionsNavBar_Beauty" data-bhd="{&quot;campaign&quot;:&quot;new-years-beauty&quot;,&quot;mm_request_id&quot;:&quot;019824576199141157&quot;,&quot;mm_treatment&quot;:&quot;d91603f4&quot;,&quot;mm_position&quot;:3}">
+            </a>
+
+      </nav>
 </nav>
 </header>
         <div id="ls-banners"> 
                   </div>
 
               </div>
+
 
 
       <div class="main row">
@@ -1056,75 +934,72 @@ Chicago, Illinois 60654 USA</b></p>
 
 
       <footer class="footer-i18n">
-      	<div class="row">
-      		<div class="columns nine footer-i18n-payload">
-      			<div class="row footer-i18n-sitemap footer-i18n-flexLinks">
-                  <div class="columns three footer-links">
-                    <h6 class="footer-link-headline">Company</h6>
-                      <a href="/about" title="">About Groupon</a>
-                <a href="http://jobs.groupon.com" title="">Jobs</a>
-                <a href="/blog" title="">Blog</a>
-                <a href="/press" title="">Press</a>
-                <a href="http://investor.groupon.com" title="">Investor Relations</a>
-            </div>
-            <div class="columns three footer-links">
-                    <h6 class="footer-link-headline">Work with Groupon</h6>
-                      <a href="https://www.grouponworks.com/get-featured/" title="">Run a Groupon Deal</a>
-                <a href="http://www.grouponworks.com/merchant-solutions/payments" title="">Accept Groupon Payments</a>
-                <a href="/pages/api" title="">Developers / API</a>
-                <a href="http://www.grouponaffiliate.com/" title="">Affiliate Program</a>
-                <a href="http://grassroots.groupon.com" title="">Help Your Community</a>
-            </div>
-            <div class="columns three footer-links">
-                    <h6 class="footer-link-headline">More</h6>
-                      <a href="/customer_support" title="">Customer Support</a>
-                <a href="/faq" title="">FAQ</a>
-                <a href="/coupons" title="">Coupons</a>
-                <a href="https://www.groupon.com/giftcards" title="">Gift Cards</a>
-                <a href="http://www.ideeli.com/" title="">ideeli</a>
-            </div>
-				<div class="columns three">
+        <div class="row res-fo-wrapper">
+          <div class="columns nine footer-i18n-payload">
+            <div id="ls-footer-sitemap" class="row footer-i18n-sitemap footer-i18n-flexLinks" data-bhw="FooterSitemap">
+                <div class="columns three footer-links">
+                  <h6 class="footer-link-headline">Company</h6>
+        <a id="ls-footer-about" href="/press/about-groupon" data-bhw="FooterLinkAbout">About Groupon</a>
+  <a id="ls-footer-jobs" href="//jobs.groupon.com/" data-bhw="FooterLinkJobs">Jobs</a>
+  <a id="ls-footer-blog" href="/blog" data-bhw="FooterLinkBlog">Blog</a>
+  <a id="ls-footer-press" href="/press" data-bhw="FooterLinkPress">Press</a>
+  <a id="ls-footer-investor_relations" href="http://investor.groupon.com/" data-bhw="FooterLinkInvestorRelations">Investor Relations</a>
+          </div>
+          <div class="columns three footer-links">
+                  <h6 class="footer-link-headline">Work with Groupon</h6>
+        <a id="ls-footer-deal" href="https://www.grouponworks.com/get-featured/" data-bhw="FooterLinkDeal">Run a Groupon Deal</a>
+  <a id="ls-footer-payments" href="https://www.grouponworks.com/merchant-solutions/payments" data-bhw="FooterLinkPayments">Accept Groupon Payments</a>
+  <a id="ls-footer-affiliates" href="http://www.grouponaffiliate.com/" data-bhw="FooterLinkAffiliates">Affiliate Program</a>
+  <a id="ls-footer-community" href="//grassroots.groupon.com/" data-bhw="FooterLinkCommunity">Help Your Community</a>
+          </div>
+          <div class="columns three footer-links">
+                  <h6 class="footer-link-headline">More</h6>
+        <a id="ls-footer-customer_support" href="/customer_support" data-bhw="FooterLinkCustomerSupport">Customer Support</a>
+  <a id="ls-footer-faq" href="/faq" data-bhw="FooterLinkFaq">FAQ</a>
+  <a id="ls-footer-coupons" href="/coupons" data-bhw="FooterLinkCoupons">Coupons</a>
+  <a id="ls-footer-giftcards" href="/giftcards" data-bhw="FooterLinkGiftcards">Gift Cards</a>
+  <a id="ls-footer-ideeli" href="//www.ideel.com/" data-bhw="FooterLinkIdeeli">ideel</a>
+          </div>
+        <div class="columns three">
                 <h6 class="footer-link-headline">Follow Us</h6>
           <div class="follow-us">
-            <a href="http://twitter.com/groupon" title="Twitter" class="icon-twitter"></a>
-            <a href="http://facebook.com/groupon" title="Facebook" class="icon-facebook"></a>
-            <a href="http://feeds.feedburner.com/groupon" title="RSS Feed" class="icon-feed"></a>
+            <a title="Twitter" id="ls-footer-twitter-link" class="icon-twitter" data-bhw="FooterSocialTwitter" href="https://twitter.com/groupon"></a>
+            <a title="Facebook" id="ls-footer-facebook-link" class="icon-facebook" data-bhw="FooterSocialFacebook" href="https://www.facebook.com/groupon"></a>
+            <a title="RSS Feed" id="ls-footer-feed-link" class="icon-feed" data-bhw="FooterSocialFeed" href="//feeds.feedburner.com/groupon"></a>
           </div>
-				</div>
-      			</div>
+        </div>
+            </div>
       
-      			<div class="row">
-      				<div class="columns twelve footer-i18n-seo">
       
-                <h6>Unbeatable Deals for Local&nbsp;Adventures</h6>
-          <p>
-            Groupon is an easy way to get huge discounts while discovering fun activities in your city. Our daily local deals consist of <a href="/local/restaurants">restaurants</a>, <a href="/local/beauty-and-spas">spas</a>, <a href="/local/things-to-do">things to do</a>, <a href="/local/nightlife">nightlife</a>, <a href="/local/massage">massages</a>, <a href="/local/hair-salons">salons</a>, <a href="/getaways">hotels</a>, as well as health and beauty tips from our very own <a href="/articles/favin-the-maven">Favin the Maven</a>.
-          </p>
+            <div id="ls-footer-gsm" class="footer-i18n-gsm" data-bhw="FooterGSM">
+        <h6>Unbeatable Deals for Local&nbsp;Adventures</h6>
+        <p>
+          Groupon is an easy way to get huge discounts while discovering fun activities in your city. Our daily local deals consist of <a id="ls-footer-restaurants-link" data-bhw="FooterSeoUSLinkRestaurants" href="/local/restaurants">restaurants</a>, <a id="ls-footer-spas-link" data-bhw="FooterSeoUSLinkSpas" href="/local/beauty-and-spas">spas</a>, <a id="ls-footer-activities-link" data-bhw="FooterSeoUSLinkActivities" href="/local/things-to-do">things to do</a>, <a id="ls-footer-nightlife-link" data-bhw="FooterSeoUSLinkNightlife" href="/local/nightlife">nightlife</a>, <a id="ls-footer-massages-link" data-bhw="FooterSeoUSLinkMassages" href="/local/massage">massages</a>, <a id="ls-footer-salons-link" data-bhw="FooterSeoUSLinkSalons" href="/local/hair-salons">salons</a>, <a id="ls-footer-hotels-link" data-bhw="FooterSeoUSLinkHotels" href="/getaways">hotels</a>, as well as health and beauty tips from our very own <a id="ls-footer-favin-link" data-bhw="FooterSeoUSLinkFavin" href="/articles/favin-the-maven">Favin the Maven</a>.
+        </p>
+      </div>
 
-      					<div class="footer-copyright">
-      						© 2014 Groupon, Inc.
-                  All Rights Reserved.
-      						<span class="footer-copyright-links">
-      								<a href="/terms" title="">Terms of Use</a>
-								<a href="/privacy" title="">Privacy Policy</a>
-								<a href="/licenses" title="">Licenses</a>
-						</span>
-      					</div>
-      				</div>
-      			</div>
-      		</div>
+            <div id="ls-footer-copyright" class="footer-copyright" data-bhw="FooterLegalDocs">
+              © 2014 Groupon, Inc.
+              All Rights Reserved.
+              <span class="footer-copyright-links">
+                    <a id="ls-footer-terms_of_use" href="/terms" data-bhw="FooterLegalLinkTermsOfUse">Terms of Use</a>
+              <a id="ls-footer-privacy_policy" href="/privacy" data-bhw="FooterLegalLinkPrivacyPolicy">Privacy Policy</a>
+              <a id="ls-footer-licenses" href="/licenses" data-bhw="FooterLegalLinkLicenses">Licenses</a>
+        </span>
+            </div>
+          </div>
       
-      		<div class="columns three footer-i18n-promos">
-      		  <a href="/mobile?utm_source=gp&amp;utm_medium=footer&amp;utm_campaign=mlusers" class="footer-i18n-promo footer-i18n-promo-mobile" title="Groupon for mobile devices">
-      			  <h6 class="footer-cta-headline">Get the Groupon Mobile App&nbsp;<i class="icon-arrow-right-large"></i></h6>
-      			</a>
-            <a href="http://www.grouponworks.com" class="footer-i18n-promo footer-i18n-promo-works" title="Groupon Works">
+          <div id="ls-footer-widgets" class="columns three footer-i18n-promos" data-bhw="FooterWidgets">
+            <a href="/mobile?utm_source=gp&amp;utm_medium=footer&amp;utm_campaign=mlusers" id="ls-footer-mobile-link" class="footer-i18n-promo footer-i18n-widget-mobile" title="Groupon for mobile devices" data-bhw="FooterWidgetMobileApp">
+              <h6 class="footer-cta-headline">Get the Groupon Mobile App&nbsp;<span class="icon-arrow-right-large"></span></h6>
+            </a>
+            <a href="https://www.grouponworks.com/" id="ls-footer-works-link" class="footer-i18n-promo footer-i18n-promo-works" title="Groupon Works" data-bhw="FooterWidgetGrouponWorksApp">
               <span class="icon-groupon footer-i18n-works-logo">Works</span>
-              <h6 class="footer-cta-headline">Get New Customers and Grow Your Business&nbsp;<i class="icon-arrow-right-large"></i></h6>
-      			</a>
-      		</div>
+              <h6 class="footer-cta-headline">Get New Customers and Grow Your Business&nbsp;<span class="icon-arrow-right-large"></span></h6>
+            </a>
+          </div>
       
-      	</div>
+        </div>
       </footer>
       <div class="touch-footer hide">
         <a class="row" href="">
@@ -1133,6 +1008,9 @@ Chicago, Illinois 60654 USA</b></p>
       </div>
 
     </div>
+    <script>
+      window.Groupon.charMapping = {"A":"ÀÁÂÃÄÅ","AE":"Æ","C":"Ç","D":"Ð","E":"ÈÉÊË","I":"ÌÍÎÏ","N":"Ñ","O":"ÒÓÔÕÖŐØ","TH":"Þ","U":"ÙÚÛÜŰ","Y":"Ý","a":"àáâãäå","ae":"æ","c":"ç","d":"ð","e":"èéêë","i":"ìíîï","n":"ñ","o":"òóôõöőø","ss":"ß","th":"þ","u":"ùúûüű","y":"ýÿ"};
+    </script>
     
     
   
