@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonatype.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531162318id_/http%3A//www.sonatype.com/usage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonatype.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230154015id_/http%3A//www.sonatype.com/usage/privacy-policy) for the most accurate reproduction.*
 
 # Usage - Privacy Policy - Sonatype.com
 
