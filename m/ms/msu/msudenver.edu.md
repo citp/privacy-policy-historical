@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msudenver.edu privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630054924id_/http%3A//msudenver.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msudenver.edu privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230200846id_/http%3A//www.msudenver.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Privacy Statement | MSU Denver
 
@@ -15,7 +15,7 @@ The MSU Denver Web site contains links to hundreds of external Web sites. The Un
  **Information Collected**  
 The University Web servers generate temporary logs that contain the following information:
 
-The log data is used by system administrators and web content managers to tune the web site for efficiency and is not ordinarily associated with specific individuals. See Responsible Use of Information Technology Resources Policy for further information (<http://www.msudenver.edu/technology/policies/>﻿)  
+The log data is used by system administrators and web content managers to tune the web site for efficiency and is not ordinarily associated with specific individuals. See Responsible Use of Information Technology Resources Policy for further information ([https://www.msudenver.edu/technology/policies/](http://www.msudenver.edu/technology/policies/ "Policies"))  
 Summary reports produced from the logs help web publishers determine what pages are most popular. For example, the aggregate reports can show each page accessed and how many times it was viewed. The reports can also show what times of the day and what days of the week are most popular and from where the web users are accessing the Internet.
 
  **Personal Information**  
@@ -29,7 +29,7 @@ Various MSU Denver Web servers use cookies in different ways.  The University's
 Some Web servers within the University may also use cookies to retain user preference information. It is against University policy to share this information with external third parties.
 
  **Security and Accuracy of Confidential Information**   
-The University does its best to ensure that the personal information retained about individuals is accurate. Every faculty member, staff member and student has the ability to check and update personal information such as his or her name, address, phone, etc. online at [http://www.msudenver.edu/connectu](https://web.archive.org/connectu/).
+The University does its best to ensure that the personal information retained about individuals is accurate. Every faculty member, staff member and student has the ability to check and update personal information such as his or her name, address, phone, etc. online at [https://www.msudenver.edu/connectu](https://web.archive.org/connectu/).
 
 Although no computer system is 100% secure, MSU Denver has deployed extensive security measures to protect against the loss, misuse, or alteration of the information under University control.
 
@@ -45,6 +45,6 @@ Consistent with FERPA, the University does not release personal student informat
 Except for educational records governed by FERPA, all information collected from the University Web site, including the summary server log information, e-mail sent to the Web site, and information collected from Web-based forms, may be made available to requesting parties if it is subject to the Colorado Open Records Act.
 
  **Comments and Feedback**  
-Send comments to [webmgr@msudenver.edu](mailto:webmgr@msudenver.edu).  When sending comments, include a current mailing address. Do not send attachments with the message. 
+Send comments to [webteam@msudenver.edu](mailto:webteam@msudenver.edu).  When sending comments, include a current mailing address. Do not send attachments with the message. 
 
-NOTE:  DUE TO OUR CONCERN ABOUT COMPUTER VIRUSES AND THE DAMAGE THEY CAUSE, E-MAIL MESSAGES CONTAINING ATTACHMENTS WILL BE DELETED WITHOUT OPENING.﻿
+NOTE:  DUE TO OUR CONCERN ABOUT COMPUTER VIRUSES AND THE DAMAGE THEY CAUSE, E-MAIL MESSAGES CONTAINING ATTACHMENTS WILL BE DELETED WITHOUT OPENING.
