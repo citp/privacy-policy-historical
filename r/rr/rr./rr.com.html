@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rr.com privacy policy that was archived on 2014-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140605085200id_/http%3A//www.twcc.com/privacy/web_privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rr.com privacy policy that was archived on 2014-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230064558id_/http%3A//www.twcc.com/privacy/web_privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache"><head><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82"></script>
  
@@ -59,8 +59,8 @@ CQURLInfo = {
     "selectors": [],
     "extension": 'html',
     "suffix": null,
-    "systemId": '5ca31789-d382-49e5-904e-cb2e4960b3e1',
-    "runModes": 'twcc,publish,02,prod'
+    "systemId": 'b6f9d2d7-0873-444f-8496-14095db87929',
+    "runModes": 'twcc,07,publish,prod'
 };</script>
 <link rel="stylesheet" href="/etc/designs/twccentral/clientlibs/css.css" type="text/css">
 
@@ -91,6 +91,9 @@ if(typeof window.top.adOrd == 'undefined'){
         //Store the variable in the window object so that it is shared between frames
         window.top.adOrd = Math.floor((Math.random()*900000000)+100000000);
     }
+// if(typeof webData == 'undefined'){
+// 	webData={events:[]};
+//}
 </script>
 
 
@@ -123,6 +126,7 @@ if(typeof window.top.adOrd == 'undefined'){
 </script></div>
 
     
+
 
 
 
@@ -484,22 +488,26 @@ playback timings (ms):
 
 
 
-	<script type="text/javascript">
-		var tophatPathTWCC = "/header/master/twcc/_jcr_content/global-tophat.html";
-	    var tophatPathBHN = "/header/master/bhn/_jcr_content/global-tophat.html";
-	    var bhntophat = true;
-	    var twcctophat = true;
-	    var mso = jQuery.cookie('mso') || 'twcc';
-	    var tophatContent = mso == 'twcc' ? tophatPathTWCC : tophatPathBHN;
-	    if (mso == 'twcc' ? twcctophat : bhntophat) {
-	    	if (mso == 'twcc' ? twcctophat : bhntophat) {
-	    		jQuery.ajaxSetup({ cache: true })
-	    		jQuery('#top-hat').load(tophatContent, function(resTxt, txtStatus, XHR) {
-	    		});
-	    		}
-	    }
-	</script>
-	<script type="text/javascript" src="/etc/designs/twccentral/clientlibs/js/site/components/top-hat.js"></script>
+    <script type="text/javascript">
+        var tophatPathTWCC = "/header/master/twcc/_jcr_content/global-tophat.html";
+        var tophatPathBHN = "/header/master/bhn/_jcr_content/global-tophat.html";
+        var bhntophat = true;
+        var twcctophat = true;
+        //var mso = jQuery.cookie('mso') || 'twcc';
+        var msocheck = window.location.hostname;
+        var tophatContent=tophatPathTWCC
+        
+            tophatContent = msocheck.indexOf('rr.com')>=0 ? tophatPathBHN : tophatPathTWCC ;
+        
+        
+            if (msocheck.indexOf('rr.com')==-1 ? twcctophat : bhntophat) {
+                jQuery.ajaxSetup({ cache: true })
+                jQuery('#top-hat').load(tophatContent, function(resTxt, txtStatus, XHR) {
+                });
+                }
+        
+    </script>
+    <script type="text/javascript" src="/etc/designs/twccentral/clientlibs/js/site/components/top-hat.js"></script>
 
 </div>
 
@@ -711,18 +719,24 @@ playback timings (ms):
 <script type="text/javascript"> 
     var headerPathTWCC = "/header/master/twcc/_jcr_content/site-header.home.html";
     var headerPathBHN = "/header/master/bhn/_jcr_content/site-header.home.html";
-    var mso = jQuery.cookie('mso') || 'twcc';
-    var headerContent = mso == 'twcc' ? headerPathTWCC : headerPathBHN;
+   // var mso = jQuery.cookie('mso') || 'twcc';
+    var msocheck = window.location.hostname;
+    var headerContent =headerPathTWCC;
+    
+    	headerContent = msocheck.indexOf('rr.com')>=0 ? headerPathBHN : headerPathTWCC;
+        
+	
     jQuery.ajaxSetup({ cache: true })
     jQuery('#main-site-header').load(headerContent,function(response,status,xhr){
-    	if(status == "success"){
+        if(status == "success"){
             try {
                 if (typeof csIsFocued != 'undefined' && !csIsFocued ) {
                     jQuery('#headerSearchBox input').get(1).focus();
                 }
             }catch(er){}
         }
-    });
+    });    
+    
 </script>
 </div>
 
@@ -1637,8 +1651,12 @@ playback timings (ms):
     <script type="text/javascript"> 
     var twccPath = "/footer/master/twcc/_jcr_content/site-footer.html";
     var bhnPath = "/footer/master/bhn/_jcr_content/site-footer.html";
-    var mso = jQuery.cookie('mso') || 'twcc';
-    var footerContent = mso == 'twcc' ? twccPath : bhnPath;
+    //var mso = jQuery.cookie('mso') || 'twcc';
+    var msocheck = window.location.hostname;
+    var footerContent =twccPath;
+    
+    	 footerContent = msocheck.indexOf('rr.com')>=0 ? bhnPath : twccPath ;
+  	     
     jQuery.ajaxSetup({ cache: true })
     jQuery('#main-site-footer').load(footerContent);
     </script>  
@@ -1697,6 +1715,18 @@ jQuery().ready(function(){
     <!-- begin defferedScripts -->
     
 
+<script> 
+
+    jQuery(document).ready(function() {
+        var msocheck = window.location.hostname;
+       if (msocheck.indexOf('rr.com')>=0) {
+       
+        jQuery('.ad-leaderboard').addClass('bhnDesign');
+        
+        }
+        });
+    
+    </script>
     <div class="servicecomponents cloudservices"><div class="sitecatalyst cloudservice">
 
 
@@ -1761,7 +1791,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 //-->
 </script>
 
-<noscript><img src="http://tr.twcc.com/b/ss/twccportaldev/1/H.25--NS/1401958320467?cdp=2&amp;gn=privacy%3Aweb_privacy_policy" height="1" width="1" border="0" alt=""/></noscript>
+<noscript><img src="http://tr.twcc.com/b/ss/rrglobal/1/H.25--NS/1419921958583?cdp=2&amp;gn=privacy%3Aweb_privacy_policy" height="1" width="1" border="0" alt=""/></noscript>
 
 <!-- send page view and other values if need it -->
 <span record="'pageView', {}"></span></div>
