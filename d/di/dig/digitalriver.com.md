@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalriver.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095750id_/http%3A//www.digitalriver.com/our-company/corporate-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalriver.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230105451id_/http%3A//www.digitalriver.com/company/corporate-policies) for the most accurate reproduction.*
 
 # Corporate Policies - Digital River
 
@@ -329,19 +329,19 @@ Digital River, Inc. reserves the right to review or revise this policy at any ti
 
 Digital River, Inc., as well as all of its subsidiaries and divisions, (hereinafter “Digital River”) require that all of our vendors abide by a code of ethics and performance even if the code is not part of a written contract. Digital River’s continuing use of a vendor will be contingent on the vendor’s satisfactory compliance with this Code. This Code applies equally if the customer is Digital River or a third party. The term Vendor includes suppliers of any product or service, including software contractors and sub-contractors.
 
-**Results**  \- Vendor will strive to finish tasks efficiently in the allotted time and within the allotted budget.
+**Results**  – Vendor will strive to finish tasks efficiently in the allotted time and within the allotted budget.
 
-**Attitude**  \- Vendor will strive to work smoothly with other team members, and help integrate their efforts into the project as a whole. Vendor will maintain a good attitude while waiting for the customer to pay for invoices, for example, and will be easy to do business.
+**Attitude**  – Vendor will strive to work smoothly with other team members, and help integrate their efforts into the project as a whole. Vendor will maintain a good attitude while waiting for the customer to pay for invoices, for example, and will be easy to do business.
 
-**Value**  \- Vendor will strive to deliver work product that is free of defects, adheres to standards, is of a professional quality, and works as expected and agreed upon.
+**Value**  – Vendor will strive to deliver work product that is free of defects, adheres to standards, is of a professional quality, and works as expected and agreed upon.
 
-**Planning**  \- Vendor will plan ahead and solve the business problem first, design before developing, and test before deploying. Vendor will document the work product so others can take over the effort should circumstances require.
+**Planning**  – Vendor will plan ahead and solve the business problem first, design before developing, and test before deploying. Vendor will document the work product so others can take over the effort should circumstances require.
 
-**Communication**  \- Vendor will communicate their status in a timely and regular way on the work product even if it might negatively affect its position. Vendor will notify the relevant parties when a project is outside of its area of expertise or skill level, or if a reasonable person who is fully aware of the situation would understand that Vendor needs help to get back on track.
+**Communication**  – Vendor will communicate their status in a timely and regular way on the work product even if it might negatively affect its position. Vendor will notify the relevant parties when a project is outside of its area of expertise or skill level, or if a reasonable person who is fully aware of the situation would understand that Vendor needs help to get back on track.
 
-**Integrity**  \- Vendor will not knowingly misrepresent facts. Vendor will not knowingly use unlicensed software. Vendor will fully divulge all conflicts of interest prior to contract, or as soon as is reasonably possible after discovery. Vendor will abide by the terms of its contracts and the law. Vendor will not divulge (unless required by law) or make use of confidential or proprietary information belonging to others. Vendor will take care to invoice only for hours actually worked or milestones fully attained.
+**Integrity**  – Vendor will not knowingly misrepresent facts. Vendor will not knowingly use unlicensed software. Vendor will fully divulge all conflicts of interest prior to contract, or as soon as is reasonably possible after discovery. Vendor will abide by the terms of its contracts and the law. Vendor will not divulge (unless required by law) or make use of confidential or proprietary information belonging to others. Vendor will take care to invoice only for hours actually worked or milestones fully attained.
 
-**Commitment**  \- Vendor will demonstrate loyalty to Digital River and not interfere in the relationship of Digital River and any Digital River customer. Vendor will not do anything to disparage the reputation of either himself /herself, Digital River, nor any Digital River customer.
+**Commitment**  – Vendor will demonstrate loyalty to Digital River and not interfere in the relationship of Digital River and any Digital River customer. Vendor will not do anything to disparage the reputation of either himself /herself, Digital River, nor any Digital River customer.
 
 * * *
 
