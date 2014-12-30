@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dern.org.au privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606043627id_/http%3A//dern.org.au/dern/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dern.org.au privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230055324id_/http%3A//dern.org.au/dern/about/privacy-statement) for the most accurate reproduction.*
 
 # DERN
 
