@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628024500id_/http%3A//www.dallasnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230054143id_/http%3A//www.dallasnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Dallas Morning News
 
@@ -128,6 +128,9 @@ We work with third-party advertising companies and data providers to focus and s
 We also engage Omniture, a third party analytics company, to track and analyze usage and browsing patterns of our users to help us improve our Services.  For information about Omniture’s information collection practices and related opt-out choices, click [here](http://www.omniture.com/en/privacy/visualsciences/policy). 
 
 When you visit our mobile websites or use our mobile applications, third-party mobile advertising networks in which we participate may collect certain information, including your unique device ID and information about your wireless carrier, carrier user ID, the make, model, and operating system of your device, cookies stored on your mobile browser, location information, and information about how you navigate within our Services. These networks may collect and track such information over time and combine it with other information collected when you access other mobile websites and applications that participate in the network to display advertising that is customized to your interests.
+
+  
+
 
 **Blogs, Discussion Forums and Community or Social Networking Areas**
 
