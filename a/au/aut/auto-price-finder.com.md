@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auto-price-finder.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022959id_/http%3A//www.auto-price-finder.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auto-price-finder.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230123510id_/http%3A//www.auto-price-finder.com/footer/privacy) for the most accurate reproduction.*
 
 # Auto-Price-Finder.com - Compare Local Dealers to Find the Lowest Price!
 
