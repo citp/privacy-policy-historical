@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailgun.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630190737id_/http%3A//www.mailgun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailgun.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230113951id_/http%3A//www.mailgun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mailgun
 
@@ -76,7 +76,7 @@ by email:
 
 [support@mailgunhq.com](mailto:support%40mailgunhq.com)
 
-Mailgun has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mailgun, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20140630190737id_/http%3A//www.mailgun.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. Please note that the BBB EU SAFE HARBOR can not handle all privacy complaints, but only those related to alleged violations of the Safe Harbor Privacy Principles.
+Mailgun has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mailgun, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. Please note that the BBB EU SAFE HARBOR can not handle all privacy complaints, but only those related to alleged violations of the Safe Harbor Privacy Principles.
 
 ## 7\. Modification
 
