@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the printingblue.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331143652id_/http%3A//www.printingblue.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printingblue.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230145200id_/http%3A//www.printingblue.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[www.printingblue.com](https://web.archive.org/web/20140331143652id_/) is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our clients to any other party except as required to process and ship purchases.
+[Printingblue.com](https://web.archive.org/) is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our clients to any other party except as required to process and ship purchases.
 
 Information Collection
 
@@ -10,7 +10,7 @@ Printingblue is the sole owner of the information collected on http://www.Printi
 
 Registration
 
-In order to use My Printingblue, a user must first complete the registration form. During registration a user is required to give a name and email address. We use this information to contact the user about our services even if they have not placed an order.
+In order to use Printingblue, a user must first complete the registration form. During registration a user is required to give a name and email address. We use this information to contact the user about our services even if they have not placed an order.
 
 Order
 
@@ -80,8 +80,6 @@ If, however, we are going to use users’ personally identifiable information in
 
 If customers have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change.
 
-PrintingBlue is an American printing company providing the printing services to regular clients in USA and Canada. We have free design and free shipment services in all the state and cities of USA and canada including Stamford, Bellevue, Flint, Vallejo, Springfield, Evansville, Inglewood, Abilene, Olathe, Lansing, Lafayette, Provo, Visalia, Ann Arbor, Clarksville, Peoria, Cary, Athensa, Beaumont, Costa Mesa, Denton, Manchester, Independence, Downey, Thornton, Gainesville, Santa Clara, Miramar, Charleston, West Covina, Clearwater, McKinney, Allentown, Waterbury, Roseville, Westminster, Norwalk, South Bend, Fairfield, Arvada, Pompano Beach, Burbank, San Buenaventura, Pueblo, Lowell, Norman, Richmond, Midland, Erie, Killeen, Elgin, Berkeley, Portsmouthd, Cambridge, Daly City, Antioch, Green Bay, West Jordane, Billings, Carson, Lynn, Port St. Lucie, Vacaville, San Angelo, Sandy, Westminster, Quincy, Miami Beach, Waukegan, Duluth, Killeen, Nashua, Westland, High Point, Warwick, Rochester, Alhambra, Sunrise, Parma, Cicero town, Trenton, Bloomington, Citrus Heights, Sioux, Columbia, Orem, Hawthorne, Santa Monica, Newton, Whittier, Tyler, Federal Way, Hammond, Norwalk, Plantation, Thornton, Farmington Hills, West Palm Beach, Youngstown, Decatur, Racine, Reading, Troy, Redding, Canton, Denton, Fort Smith, Lawrence, Roseville, Camden. 
-
 Contact Information
 
 If customers have any questions or suggestions regarding our privacy policy, please contact us at:
@@ -90,5 +88,6 @@ Customer Service
 **[ Printingblue.com](http://printingblue.com/)  
 P.O. BOX 281  
 Streamwood, IL 60107-0281  
-Telephone: 302-356-1432**  
+Telephone: 630-233-8595**
+
 **[support@printingblue.com](mailto:support@printingblue.com)**
