@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halloweencostumes.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611001837id_/http%3A//www.halloweencostumes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweencostumes.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230105552id_/http%3A//www.halloweencostumes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -166,8 +166,8 @@ HalloweenCostumes.com
 2080 Lookout Drive  
 North Mankato, MN 56003
 
-Phone: 507-386-8388 (Monday through Thursday 7am - 7pm CST  
-Friday 9am - 5pm CST.)
+Phone: (507) 386-8388 (Weekdays 7am to 7pm CST  
+Closed New Year's Day.)
 
 [Contact Form](http://www.halloweencostumes.com/contact-us.aspx)
 
