@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futureshop.ca privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628155847id_/http%3A//www.futureshop.ca/en-ca/help/privacy-policy/hc87.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futureshop.ca privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230124056id_/http%3A//www.futureshop.ca/en-ca/help/privacy-policy/hc87.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Future Shop
 
@@ -257,7 +257,7 @@ We will respond to your request or investigate your concern as quickly as we can
 Top­
 
 **Who is Future Shop?  
-**Future Shop, futureshop.ca, ConnectPro, and connectpro.ca are divisions of Burnaby-based Best Buy Canada Ltd., a wholly-owned subsidiary of Best Buy Co., Inc. ** **
+**Future Shop, futureshop.ca, Geek Squad, and geeksquad.ca are divisions of Burnaby-based Best Buy Canada Ltd., a wholly-owned subsidiary of Best Buy Co., Inc. ** **
 
 Top­
 
