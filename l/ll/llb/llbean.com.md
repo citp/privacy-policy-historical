@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232121id_/http%3A//www.llbean.com/customerService/privacy/index.html%3Fnav%3Dftlink) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230054500id_/http%3A//www.llbean.com/customerService/privacy/index.html%3Fnav%3Dftlink) for the most accurate reproduction.*
 
 # L.L.Bean: Your Privacy Rights
 
 Your Privacy Rights
 
-We appreciate the trust you place in L.L.Bean, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on July 1, 2013, describes the information we collect and how we use it.
+We appreciate the trust you place in L.L.Bean, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on October 30, 2014, describes the information we collect and how we use it.
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
@@ -20,10 +20,11 @@ Email: preferences@llbean.com
 
 **Information We Collect**
 
-We may collect information (including name, address, telephone number, email address, transaction information, credit card information and date of birth) when you:
+We may collect information (including name, address, telephone number, email address, device location, transaction information, credit card information and date of birth) when you:
 
   * Place an order from our catalogs or on our Web site
   * Make a purchase at one of our stores (we do not require personal information, such as zip, name, address or email, as a condition of accepting payment by credit or debit card)
+  * Checking and reserving store inventory on our Web site
   * Return an item or make an exchange
   * Inquire about our services
   * Request a catalog
@@ -73,7 +74,7 @@ On rare occasions, we may disclose specific information upon governmental reques
  return to top
 
 **Your Choices about Communication from L.L.Bean**  
-We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or email updates from L.L.Bean or if you prefer to receive them less frequently, please visit the [My Account](https://www.llbean.com/webapp/wcs/stores/servlet/ShowCustPref?storeId=1&nav=gn&langId=-1) section of llbean.com or contact us at the address shown below. You can also unsubscribe from our email updates using the link provided in each edition of the email.
+We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or email updates from L.L.Bean or if you prefer to receive them less frequently, please visit the [My Account](https://web.archive.org/webapp/wcs/stores/servlet/ShowCustPref?storeId=1&nav=gn&langId=-1) section of llbean.com or contact us at the address shown below. You can also unsubscribe from our email updates using the link provided in each edition of the email.
 
 If you do not wish to receive other communications from us, such as surveys, please contact us at:
 
@@ -123,7 +124,7 @@ We may also send promotional emails about products, special offers, services or 
  return to top
 
 **Direct to Business Preferences**  
-Please note that the [My Account](https://www.llbeanbusiness.com/llbean/myaccount/login.jsp?_requestid=280635) section of our Direct to Business Web site, located at llbeanbusiness.com, is not designed to change catalog mailing and email preferences. If you prefer not to receive Direct to Business catalogs or email updates please contact us at:
+Please note that the [My Account](https://www.llbeanbusiness.com/llbean/myaccount/login) section of our Direct to Business Web site, located at llbeanbusiness.com, is not designed to change catalog mailing and email preferences. If you prefer not to receive Direct to Business catalogs or email updates please contact us at:
 
 L.L.Bean, Dept. CFM  
 Freeport, ME 04033  
@@ -165,7 +166,7 @@ To make sure we continue to offer the best service possible, your communication 
  return to top
 
 **Questions or Comments?**  
-For questions, comments or assistance, we invite you to [contact us](http://www.llbean.com/customerService/contactUs/index.html).
+For questions, comments or assistance, we invite you to [contact us](https://web.archive.org/customerService/contactUs/index.html).
 
 We hope to answer any questions to your satisfaction, but should you ever want to contact a third party regarding our privacy practices, you can email the Direct Marketing Association's Committee on Ethical Business Practices at [ethics@the-dma.org](mailto:ethics@the-dma.org). The DMA is the oldest and largest association for consumers and companies with interest in direct marketing.
 
