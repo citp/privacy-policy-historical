@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waitingforsuperman.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626003720id_/http%3A//www.takepart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waitingforsuperman.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230055207id_/http%3A//www.takepart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TakePart
 
@@ -343,7 +343,7 @@ Yes
 
 | 
 
-<http://www.addthis.com/advertising-choices>  
+<http://www.addthis.com/privacy/opt-out>  
   
 Adobe SiteCatalyst
 
@@ -434,24 +434,6 @@ Yes
 | 
 
 <http://www.aggregateknowledge.com/privacy/ak-optout/>  
-  
-Blue State Digital
-
-| 
-
-Email Marketing & Action Data Storage
-
-| 
-
-<http://tools.bluestatedigital.com/>
-
-| 
-
-No
-
-| 
-
-Blue State Digital data is used for internal purposes only and not shared with any third-party.  
   
 Casale Media
 
@@ -561,6 +543,24 @@ Yes
 
 <https://tools.google.com/dlpage/gaoptout>  
   
+Google+
+
+| 
+
+User Authentication
+
+| 
+
+<https://plus.google.com/settings>
+
+| 
+
+Yes
+
+| 
+
+Registering for a TakePart account as a user is an optional feature that a user may use or refrain from using in its sole discretion.   
+  
 Insight Express
 
 | 
@@ -578,6 +578,24 @@ Yes
 | 
 
 <http://www.insightexpress.com/privacy-policy>  
+  
+MaxMind
+
+| 
+
+Geographic Location (country level)
+
+| 
+
+<https://twitter.com/privacy>
+
+| 
+
+No
+
+| 
+
+Some TakePart content is restricted based on the country from which the user is accessing it.  
   
 Optimizely
 
@@ -651,6 +669,24 @@ Yes
 
 <http://www.fullcirclestudies.com/privacy.aspx>  
   
+Quantcast
+
+| 
+
+Audience Measurement
+
+| 
+
+<https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>
+
+| 
+
+Yes
+
+| 
+
+<https://www.quantcast.com/opt-out>  
+  
 Tribal Fusion
 
 | 
@@ -669,15 +705,15 @@ Yes
 
 <http://exponential.com/success/>  
   
-Quantcast
+Twitter
 
 | 
 
-Audience Measurement
+User Authentication
 
 | 
 
-<https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>
+<https://twitter.com/privacy>
 
 | 
 
@@ -685,7 +721,7 @@ Yes
 
 | 
 
-<https://www.quantcast.com/opt-out>  
+Registering for a TakePart account as a user is an optional feature that a user may use or refrain from using in its sole discretion.   
   
 Waterfall Mobile
 
