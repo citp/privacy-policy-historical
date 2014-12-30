@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adroll.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234745id_/http%3A//www.adroll.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adroll.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230083045id_/http%3A//www.adroll.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | AdRoll
 
@@ -57,7 +57,7 @@ We believe in giving you control over which ads you see. You may opt out of havi
 
 [Click here to adjust your advertising preferences](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false)
 
-AdRoll is an approved member of the Network Advertising Initiative (NAI). If you prefer, you may use the [NAI opt out tool](http://www.networkadvertising.org/choices/). We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out via the DAA website at <http://www.aboutads.info/choices/>.
+AdRoll is an approved member of the Network Advertising Initiative (NAI). If you prefer, you may use the [NAI opt out tool](http://www.networkadvertising.org/choices/). We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out via the DAA website at <http://www.aboutads.info/choices/>. We also adhere to the European Interactive Advertising Digital Alliance (EDAA). You may opt out via the [Your Online Choices](http://www.youronlinechoices.com/) website.
 
 We provide opt-out mechanisms through the tools linked above and do not currently respond to browser “Do Not Track” signals.
 
