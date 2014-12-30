@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efergy.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627191822id_/http%3A//efergy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efergy.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230190353id_/http%3A//efergy.com/uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
