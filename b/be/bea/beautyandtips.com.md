@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautyandtips.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609232734id_/http%3A//www.beautyandtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyandtips.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230204046id_/http%3A//www.beautyandtips.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Beauty Tips – Best Beauty Tips – Beauty & Tips Magazine | Beauty And Tips – Web-edition of Magazine about beauty tips, dating, fun, weight loss, health, style, hair beauty tips and best ever beauty tips for ladies!
+# Privacy Policy | Beauty And Tips Magazine | Beauty And Tips Magazine – Best beauty tips and life hacks
 
 Privacy Policy for www.beautyandtips.com
 
@@ -24,7 +24,7 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 www.beautyandtips.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices, as well as for instructions about how to opt-out of certain practices. The [Beauty And TipsOUTFIT OF THE DAY: RED AND PINK TOGETHER. Read more ... »](http://www.beautyandtips.com/style/outfit-of-the-day-red-and-pink-together/) Magazine’s privacy policy does not apply to, and we cannot control the [activities7 VALENTINES DAY IDEAS: HOW TO SURPRISE YOUR PARTNER?. Read more ... »](http://www.beautyandtips.com/dating/7-valentines-day-ideas-how-to-surprise-your-partner/) of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices, as well as for instructions about how to opt-out of certain practices. The Beauty And Tips Magazine’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
