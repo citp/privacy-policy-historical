@@ -1,82 +1,239 @@
-> *The following text is extracted and transformed from the ditto.me privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005213053id_/http%3A//www.ditto.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditto.me privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230052302id_/http%3A//www.groupon.com/privacy) for the most accurate reproduction.*
 
-# Ditto - Privacy Policy
+# GROUPON, INC.
 
-## Pingpin, Inc. Privacy Policy
+#### PRIVACY STATEMENT
 
-Last Updated: March 02, 2011 
+##### Last Updated: September 13, 2012
 
-Pingpin, Inc. ("Pingpin") knows that you take your privacy seriously. We do, too. We are committed to giving you transparency of our privacy practices and control over your data in connection with Pingpin's Service (as defined in Pingpin's Terms of Service). 
+This Privacy Statement (“ **Privacy Statement** ”) explains how Groupon, Inc. (“ **Groupon** ,” “ **us** ,” “ **our** ,” and “ **we** ”) uses your information and applies to all who use our Web site, mobile applications, electronic services, social networking sites, or any individual, business partner-specific, merchant-specific, city-specific, or other area-specific Web sites we offer that link to or reference this Privacy Statement (collectively, the “ **Site** ”) and when you receive electronic communications from us. 
 
-This Privacy Policy covers Pingpin's treatment of personally identifiable information ("Personal Information") and other data that Pingpin gathers when you are accessing Pingpin's Service. The Service is not available to individuals who are younger than 13 years old.
+Please read this Privacy Statement carefully and review it periodically for the latest information about our privacy practices. **By using the Site, you agree to the terms of this Privacy Statement. If you do not agree with the practices described in this Privacy Statement, please do not provide us with your personal information or interact with the Site.**
 
-What Personal Information Does Pingpin Collect?
+We will routinely update this Privacy Statement to clarify our practices and to reflect new or different privacy practices, such as when we add new services, functionality or features to the Site. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of notice on the Site prior to the change becoming effective. You can determine when this Privacy Statement was last revised by referring to the date it was “Last Updated” above. You can review the last version of this Privacy Statement [here](http://www.groupon.com/pages/privacy-201107).
 
-  1. Personal Information You Provide to Us: We receive and store any information you enter on our Service or provide to us in any other way. The types of Personal Information collected may include your name, email address, phone number, Twitter and/or Facebook usernames, use information regarding your use of our Service, and browser information. We automatically receive your location when you use the Service. The Personal Information you provide is used for such purposes as allowing you to set up a user account and profile that can be used to interact with other users through the Service, improving the content of the Service, customizing the advertising and content you see, and communicating with you about specials and new features. We may also draw upon this Personal Information in order to adapt the Services of our community to your needs, to research the effectiveness of our network and Services, and to develop new tools for the community. 
-  2. Information Collected Automatically: When you use the Service, Pingpin automatically receives and records information on our server logs from your browser or mobile platform, including your location, IP address, cookie information, and the page you requested. We treat this data as non-Personal Information, except where we are required to do otherwise under applicable law. Pingpin only uses this data in aggregate form. We may provide aggregate information to our partners about how our customers, collectively, use our site, so that our partners may also understand how often people use their services and our Service. 
+This Privacy Statement is organized as follows: 
 
+  1. **Types of Information We Collect**  
 
+  2. **Your Choices**  
 
-How is My Information Shared? Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. Pingpin may share your Personal Information only as described below.
+  3. **How Groupon Uses Information**  
 
-  1. Friends: Your "friends" can see the location and time of each of your check-ins, first name and last initial, email, phone number, photo, hometown, favorites and trophies, links to your Twitter and Facebook accounts (if you have connected those accounts to your Pingpin account), a list of your friends, comments you write. Individuals reading this information may use it or disclose it to other individuals or entities without our control and without your knowledge. We therefore urge you to think carefully about including any specific information you may deem private in posts, comments or other content (location or otherwise) that you create in the Service. 
-  2. Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Our agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us, and they provide a comparable level of protection for your Personal Information. 
-  3. Information Shared with Everyone: One of the primary reasons people use Pingpin is to share content with others. Information such as your name and photo, your location at the time where you use the service, a list of your friends, and the comments and posts you write is shared by default with the Pingpin community. 
+  4. **When and Why Groupon Discloses Personal Information**  
 
+  5. **How Groupon Collects Information**  
 
+  6. **Security of Personal Information**  
 
-Pingpin Features
+  7. **Accessing and Correcting Personal Information**  
 
-The Pingpin service also has the following features that may allow you to share your information with others. For each of these features, the information available to friends and others, our default user settings, and how to alter the default settings, is available within your user settings within the application. Please remember that if you choose to provide personal information using certain features of the Service, that information may be available to the wider Pingpin community, or may be published on the Pingpin website, which is subject to indexing by third party search engines.
+  8. **Social Networks**  
 
-  1. Connecting to your Twitter, Facebook or Foursquare accounts 
-  2. Searching for friends 
-  3. Inviting others to join Pingpin 
-  4. Writing and posting comments and recommendations 
+  9. **Privacy Practices of Third Parties**  
 
+  10. **EU/EEA Safe Harbor; Notice to Residents of Countries outside the United States of America**  
 
+  11. **Children’s Privacy**  
 
-Sharing with Partners, in connection with business transfers, and for the protection of Pingpin and others:
+  12. **TRUSTe Privacy Program**  
 
-  1. Our Partners: In addition to the data sharing described above, we enter into relationships with a variety of entities and work closely with them. In certain situations, these businesses sell items or provide promotions to you through Pingpin's Service. In other situations, Pingpin provides services, or sells products jointly with these businesses. You can easily recognize when one of these businesses is associated with your transaction, and we will share your Personal Information that is related to such transactions with that business, unless you have elected not to be solicited by marketing partners during the registration process or through the account settings page. 
-  2. Business Transfers: If Pingpin or substantially all of its assets are acquired, or in the unlikely event that Pingpin goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. 
-  3. Protection of Pingpin and Others: We may release Personal Information when we believe in good faith that release is necessary to comply with the law, including laws outside your country of residence; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Pingpin, our employees, our users, or others. This includes exchanging information with other companies and organizations (including outside of your country of residence) for fraud protection and credit risk reduction. 
+  13. **Contact Us; California Privacy Rights and Other Countries**  
 
-
-
-Adding Your Home Address As A Venue: You should be aware that if you or your friends add your home as a new venue in the Service database and that information is published on the Service (for example, via a user checking in to that home venue), that information may be available to others and may be published by third parties without our control. To request removal of a venue from the Pingpin database (including your home address) please email us at privacy@ditto.me
-
-Email Communications: If you do not want to receive commercial email or other mail from us, please indicate your preference during the registration process or by making a modification on your account settings page or through the â€˜settings' tab on our website once you're logged into the service. Please note that if you do not want to receive legal notices from us, such as notices regarding this Privacy Policy, those legal notices will still govern your use of the Pingpin Service, and you are responsible for reviewing such legal notices for changes. We may receive a confirmation when you open an email from Pingpin if your computer supports this type of program. Pingpin uses this confirmation to help us make emails more interesting and helpful and improve our service.
-
-What About Cookies and Similar Technologies? Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Pingpin cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your email address is.
-
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. For more information about cookies and how to refuse them, click [here](http://www.aboutcookies.org/).
-
-Ads appearing on the Service may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Pingpin and its service providers and does not cover the use of cookies by any advertisers. 
-
-Pingpin uses Google Analytics to better understand who is using the Service, and how people are using it. Google Analytics uses cookies to collect and store anonymous information such as time of visit, pages visited, time spent on each page of the website, IP address, and type of operating system used. We use this information to improve the Service and make it appealing to as many users as possible. Google has developed a browser plugin to allow you to opt-out of Google Analytics' tracking software.
-
-Is Personal Information Secure? Your Pingpin account Personal Information is protected by a password for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately, and limiting access to your computer and browser by signing off after you have finished accessing your account.
-
-Pingpin endeavors to safeguard user information to ensure that user account information is kept private. However, Pingpin cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
-
-The Service may contain links to other sites. Pingpin is not responsible for the privacy policies and/or practices on other sites. When linking to another site, you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Service.
-
-International Users
-
-If you are located outside of the United States, please note that this site is hosted on our computer servers in the United States. Therefore, your information may be processed and stored in the United States. As a result, United States federal and state governments, courts, or law enforcement or regulatory agencies may be able to obtain disclosure of your information through laws applicable in the United States. Your use of this site or the Service or your submission of any Personal Information to us will constitute your consent to the transfer of your Personal Information outside of your home country, including the United States, which may provide for different data protection rules than in your country.
-
-What Personal Information Can I Access? Pingpin allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information and ensuring that it is accurate and complete. 
-
-  1. Other User profile information (for example, home city, photo) 
-  2. Usage information (for example, location history) 
+  14. **Glossary of Terms**  
 
 
 
-How Do I Delete My Account? Should you ever decide to delete your Pingpin account, you may do so by clicking on the "delete account" link on your account settings view. If you terminate your account, your profile, including your location history, trophies you've received, your User Submissions (as defined in Pingpin's Terms of Service) and any promotional offers you received, will be removed from the site and deleted from Pingpin's servers. Because of the way we maintain Pingpin, such deletion may not be immediate, and residual copies of your profile information or posts may remain on backup media for up to ninety (90) days.
 
-How Is Information Removed From My Account? Even after you remove information from your account or profile, copies of that information may remain viewable elsewhere, to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings, or it was copied or stored by other users. Removed and deleted information may remain on backup media for up to ninety (90) days prior to being deleted from our servers.
+### 1\. Types of Information We Collect
 
-Will There Be Changes To This Privacy Policy? Pingpin may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes in the way we use Personal Information, we will notify you by posting an announcement on our Service or sending you an email. Users are bound by any changes to the Privacy Policy when they use the Service after such changes have been first posted.
+We will collect information, including Personal Information and Non-Identifying Information, when you interact with us and the Site, for example when you: 
 
-What If I Have Questions Or Concerns? If you have any questions or concerns regarding privacy using the Service, please send a detailed message to: privacy@ditto.me. We will make every effort to resolve your concerns.
+  * access or use the Site; 
+  * register, subscribe, or create an account with Groupon;
+  * open or respond to our e-mails; 
+  * provide information to enroll or participate in programs provided on behalf of, or together with, Business Partners;
+  * visit any page online that displays our ads or content;
+  * purchase products or services on or through the Site; 
+  * connect or link to any Site via social networking sites;
+  * post comments to Online Communities; and
+  * provide information to our Vendors.
+
+This Privacy Statement does not apply to the collection of information in any way other than as listed above. 
+
+
+
+
+### 2\. Your Choices
+
+We think that you benefit from a more personalized experience when we know more about you and what you like. However, you can limit the information you provide to Groupon, and you can limit the communications that Groupon sends to you.
+
+You can manage your email and notice preferences by logging into your account through the Groupon website, entering the “My Stuff” section, and selecting “My Email Subscriptions,” or via the Groupon mobile application, by selecting “Project” in your account options and then selecting “Subscriptions.” You can also manage your subscriptions by following subscription management instructions contained in the commercial e-mails that we send you. You may choose to subscribe to some types of messages, and may choose to unsubscribe from others. You may update your subscription preferences at any time. Please note that even if you unsubscribe from promotional email messages, we may still need to contact you with important transactional information related to your account and your purchases. For example, even if you have unsubscribed from our promotional email messages, we will still send you confirmations when you make purchases on the Site.
+
+You may manage how your browser handles Cookies by adjusting its privacy and security settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available. You can opt-out of being targeted by certain Third-Party Ad-Servers online using the **[National Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp)** , or on TRUSTe’s **[site](http://preferences.truste.com/truste/)**.
+
+You may manage how your mobile device and mobile browser share certain Device Data with Groupon, as well as how your mobile browser handles Cookies by adjusting the privacy and security settings on your mobile device. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your settings. 
+
+You may also manage the sharing of certain Personal Information with us when you connect with us through social networking platforms or applications. Please refer to the privacy policy and settings of the social networking website or application to determine how you may adjust our permissions and manage the interactivity between Groupon and your social networking account or your mobile device.
+
+If you wish to opt out of receiving offers directly from our Business Partners, you can follow the opt-out instructions in the emails that they send you.
+
+### 3\. How Groupon Uses Information
+
+We (or our Vendors on our behalf), use information collected as described in this Privacy Statement to: 
+
+  * Operate, maintain and improve the Site and our services; 
+  * Provide you with personalized ads and offers for products and services from us and participating Business Partners; 
+  * Facilitate and fulfill orders placed on the Site – for example, for Groupon vouchers and other goods and services, including tracking redemption;
+  * Evaluate your eligibility for certain types of offers, products or services that may be of interest to you, and analyze advertising effectiveness; 
+  * Answer your questions and respond to your requests; 
+  * Perform analytics and conduct customer research; 
+  * Communicate and provide additional information that may be of interest to you about Groupon and our Business Partners, sometimes by combining your information with information from Other Sources; 
+  * Send you reminders, technical notices, updates, security alerts, support and administrative messages, service bulletins, marketing messages, and requested information, including on behalf of Business Partners; 
+  * Administer rewards, surveys, sweepstakes, contests, or other promotional activities or events sponsored by us or our Business Partners; 
+  * Manage our everyday business needs, such as administration of the Site, forum management, fulfillment, analytics, fraud prevention, and enforcement of our corporate reporting obligations and [Terms of Use](http://www.groupon.com/terms), or to comply with the law; 
+  * Allow you to apply for a job, post a video or sign up for special offers from merchants, Business Partners, or third parties through the Site, and to
+  * Enhance other information we have about you directly or from Other Sources to help us better understand you and determine your interests.
+
+
+
+We also may use information collected as described in this Privacy Statement with your consent or as otherwise required or permitted by law. 
+
+### 4\. When and Why Groupon Discloses Information
+
+We (or our Vendors on our behalf) may share your Personal Information as required or permitted by law:
+
+  * with any Groupon Affiliate who may only use the Personal Information for the purposes described in this Privacy Statement;
+  * with our Vendors to provide services for us and who are required to protect the Personal Information;
+  * to report or collect on debts owed to us or our Business Partners;
+  * with relevant Business Partners: 
+    * with whom we jointly offer products and services;
+    * to facilitate a direct relationship with you, including in connection with any program we administer on behalf of the Business Partner;
+    * to enable electronic communications with you as part of purchase, a sponsored reward, offer, contest, program, or other activity in which you have elected to participate; 
+    * to the extent you have purchased or redeemed a Groupon voucher, goods or services offered by a Business Partner or participated in an offer, rewards, contest or other activity or program sponsored or offered through Groupon on behalf of that Business Partner;
+  * with a purchaser of Groupon or any of the Groupon Affiliates (or their assets); 
+  * to comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions; 
+  * to combat fraud or criminal activity, and to protect our rights or those of our Affiliates, users, and Business Partners, or as part of legal proceedings affecting Groupon; 
+  * in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts in the United States and other countries where we operate; or 
+  * with your consent.
+
+
+
+We encourage Business Partners to adopt and post privacy policies. However, their use of Personal Information obtained through Groupon is governed by their privacy policies and is not subject to our control.
+
+We may also disclose Non-Identifiable Information:
+
+  * for the same reasons we might share Personal Information;
+  * with Business Partners for their own analysis and research;
+  * to facilitate targeted content and ads; or 
+  * with Third-Party Ad-Servers to place our ads and/or ads of our merchants or Business Partners on the Site and on third-party sites, and to analyze the effectiveness of those ads. 
+
+
+
+We do not share Personal Information with Third-Party Ad-Servers; however, Third-Party Ad-Servers may automatically collect Non-Identifying Information about your visit to the Site and other websites, your device address, your Internet Service Provider and the browser you use to visit the Site. They do this by using Cookies, clear gifs and other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visits to the Site and the other websites tracked by these third parties. This Privacy Statement does not cover the collection methods or use of the information collected by Third-Party Ad-Servers, and Groupon is not responsible for Cookies or clear gifs in third party ads. We encourage you to review the privacy policies or statements of these third party advertising companies to learn more about their use of Cookies and other technologies. If you would like more information about this practice and to know your choices about not having this information used by third party advertisers, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). 
+
+### 5\. How Groupon Collects Information
+
+You provide us with your Personal Information when you register, subscribe, create an account, purchase or redeem Groupon vouchers, or otherwise when you provide us with your Personal Information during your interaction with the Site. We also collect Personal Information when you contact us online for customer service and other support using self-help tools, such as email, text, or by posting to an Online Community. 
+
+We also receive Personal Information and other online and offline information from Other Sources. Groupon will use such information in accordance with applicable laws. Such information, when combined with Personal Information collected as provided in this Privacy Statement, will also be handled in accordance with this Privacy Statement. We also use cookies, tags, web beacons, local shared objects, files, tools and programs to keep records, store your preferences, improve our advertising, and collect Non-Identifying Information, including Device Data and your interaction with the Site and our Business Partners' web sites. 
+
+We use Cookies that contain serial numbers that allow us to connect your Site activity with other information we store about you in your profile or as related to your interactions with the Site. We use session cookies on a temporary basis, such as to manage your view of pages on the Site. We use persistent cookies for a number of purposes, such as retrieving certain information you have previously provided (for example, your user id if you asked to be remembered), and storing your preferences (for example, the cities for which you want to be shown Groupon vouchers). Information from Cookies also tells us about the website you were visiting before you came to the Site and the website you visit after you leave the Site.
+
+When you access these pages or open email messages, we use Pixel Tags and Web Beacons to generate a notice of that action to us, or our Vendors. These tools allow us to measure response to our communications and improve the Site’ pages and promotions.
+
+Device Data may be collected when your device interacts with the Site and Groupon, even if you are not logged into the Site using your device. If you have questions about the security and privacy settings of your mobile device, please refer to instructions from your mobile service provider or the manufacturer of your device to learn how to adjust your settings. 
+
+### 6\. Security of Personal Information
+
+Groupon has implemented an information security program that contains administrative, technical and physical controls that are designed to reasonably safeguard Personal Information. For example, we use industry-standard encryption technology to secure Financial Account Information.
+
+### 7\. Accessing and Correcting Personal Information
+
+You can access, update and delete your , Financial Account Information, and the other information you provided to us in your profile by logging into your account and accessing the “My Account” section of the Site or sending us an email at privacy@groupon.com. Keeping your Personal Information current helps ensure that we, our Affiliates and Business Partners offer you the offers that are most relevant to you.
+
+If you want to close your Groupon account or have other questions or requests, please contact us. While we are ready to assist you in managing your subscriptions, closing your account, and removing your active profile, we cannot always delete records of past interactions and transactions. For example, we are required to retain records relating to previous purchases on the Site for financial reporting and compliance reasons.
+
+We will retain your Personal Information for as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes. If you wish to cancel your account or request that we no longer use your Personal Information to provide you services contact us at [support@groupon.com](mailto:support@groupon.com). We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+### 8\. Social Networks
+
+**Social Community Areas**
+
+The Site may be accessible through or contain connections to areas where you may be able to publicly post information, communicate with others such as discussion boards or blogs, review products and merchants, and submit media content. Prior to posting in these areas, please read our [Terms of Use](http://www.groupon.com/terms) carefully. All the information you post may be accessible to anyone with Internet access, and any Personal Information you include in your posting may be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages from other parties. You should avoid publicly posting Personal Information or identifying information about third parties. 
+
+**Connecting through Social Networks**
+
+Groupon offers social networking users the opportunity to interact with friends and to share on social networks. If you are logged into both Groupon and a social network, when you use the Site’ social networking connection functions, we will link your social network account with your Groupon account if the email addresses match. If the email addresses do not match, we ask you if you want to link them and you must validate that you control the accounts. If you are already logged into Groupon but not logged into your social network site, when you use the Site’ social network connection functions, you will be prompted to enter your social network web site credentials or to sign up for the social network. 
+
+If you are not currently registered as a Groupon user and you use the Site’s social network connection functions, you will first be asked to enter your social network credentials and then be given the option to register and join Groupon. Once you register with Groupon and connect with the social network, you will be able to automatically post recent Groupon activity back to your social network. Please refer to the privacy settings in your social network account to manage the data that is shared through your account. 
+
+By proceeding through any of the above steps, you grant Groupon permission to access all of the elements of your social network profile information that you have made available to be shared and to use it in accordance with the social network’s terms of use and this Privacy Statement. 
+
+### 9\. Privacy Practices of Third Parties
+
+This Privacy Statement only addresses the use and disclosure of information by Groupon through your interaction with the Site. Other websites that may be accessible through links from the Site may have their own privacy statements and personal information collection, use, and disclosure practices. Our Business Partners may also have their own privacy statements. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information or taking advantage of a sponsored offer or promotion. 
+
+### 10\. EU/EEA Safe Harbor; Notice to Residents of Countries outside the United States of America 
+
+Groupon, Inc. is headquartered in the United States of America. We recognize that the European Community has established a data protection regime pursuant to Directive 95/46/EC (the **“Directive”** ). The Directive applies to the European Economic Area ( **“EEA”** ). Switzerland has also established a data protection regime pursuant to the Federal Act on Data Protection ( **“FADP”** ). These regimes restrict companies in the EEA and Switzerland (collectively, **“EEA/CH”** ) from transferring personal data about individuals in the EEA/CH to the United States, unless there is “adequate protection” for such personal data when it is received in the United States. To create such “adequate protection” and allow our Affiliates, Vendors and Business Partners to overcome the restriction on international data transfers established by the Directive and the FADP, we adhere to the Safe Harbor Privacy Principles published by US Department of Commerce ( **“Safe Harbor Principles”** ) with respect to personal data about individuals in the EEA/CH that our subsidiaries and Business Partners in the EEA/CH send to us, ( **“EEA/CH Data”** ). More information on the Safe Harbor Principles and Groupon, Inc.’s scope of participation is available at <http://export.gov/safeharbor/>. Groupon’s policy concerning the processing of EEA/CH Data under its certification can be viewed at <http://www.groupon.com/safe-harbor>.
+
+If you live outside the United States (including in the EEA/CH), and you use the Site or provide us with Personal Information directly via the Site, your information will be handled in accordance with this Privacy Statement. By using the Site or giving us your Personal Information, you are directly transferring your Personal Information and Non-Identifiable Information to us in the United States. The United States may not have the same level of data protection as your jurisdiction. However, you agree and consent to our collection, transfer, and processing of your Personal Information and Non-Identifiable Information in accordance with this Privacy Statement. You are solely responsible for compliance with any data protection or privacy obligations in your jurisdiction when you use the Site or provide us with Personal Information. Regardless of where we transfer your information, we still protect your information in the manner described in this Privacy Statement. 
+
+### 11\. Children’s Privacy
+
+Groupon does not intend that any portion of the Site will be accessed or used by children under the age of thirteen, and such use is prohibited. The Site is designed and intended for adults. By using Groupon, you represent that you are at least eighteen years old and understand that you must be at least eighteen years old in order to create an account and purchase the goods or services advertised through the Site. We will promptly delete information associated with any account be obtain actual knowledge is associated with a registered user who is not at least eighteen years old.
+
+### 12\. Groupon is Proud to Be a TRUSTe Privacy Program Seal Holder
+
+[](https://privacy.truste.com/privacy-seal/Groupon,-Inc-/validation?rid=3db8fae8-606c-4783-bf94-118f3fbe668f "TRUSTe online privacy certification")
+
+Groupon, Inc. has received TRUSTe’s Privacy Seal signifying that this Privacy Statement and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Statement or practices, please contact us at privacy@groupon.com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program only covers information collected on the Web site [www.groupon.com](htttp://www.groupon.com).
+
+### 13\. Contact Us; California Privacy Rights and Other Countries
+
+Please contact us if you have any questions or comments about our privacy practices or this Privacy Statement. You can reach us online at privacy@groupon.com. You can reach us via postal mail at the following address:
+
+**Groupon Inc.  
+Attention: Privacy Office  
+600 West Chicago Avenue  
+Chicago, Illinois 60654 USA**
+
+If you reside in Canada, you may have the right to be provided with access to Personal Information that we have collected about you and written information about our policies and practices with respect to the transfer of your personal information to Vendors outside Canada. E-mail us at privacy@groupon.com with questions.
+
+Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the proceeding calendar year. In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by Groupon pursuant to Section 1798.83 of the California Civil Code, please contact us via the email or address stated above. Please allow 30 days for a response.
+
+### 14\. Glossary of Terms
+
+**Affiliate** means a company owned and/or controlled by Groupon, Inc. 
+
+**Business Partners** means, collectively, third parties with whom we conduct business, such as merchants, co-marketers, distributors, and resellers.
+
+**Cookie** means a small amount of information that a web server sends to your browser that stores information about your account, your preferences, and your use of the Site. Some cookies are temporary, whereas others may be configured to last longer. **“Session cookies”** are temporary cookies used for various reasons, such as to manage page views. Your browser usually erases session cookies once you exit your browser. **“Persistent cookies”** are more permanent cookies that are stored on your computers or mobile devices even beyond when you exit your browser. 
+
+**Device Data** means information concerning a device you use to access, use, or interact with the Site, such as operating system type or mobile device model, browser type, domain, and other system settings, the language your system uses and the country and time zone of your device, geo-location, unique device identifier or other device identifier, mobile phone carrier identification, and device software platform and firmware information.
+
+**Non-Identifying Information** means information that alone cannot identify you, including data from Cookies, Pixel Tags and Web Beacons, and Device Data. Non-Identifying Information may be derived from Personal Information.
+
+**Online Communities** means, collectively, our social networking pages or accounts, forums, bulletin boards, discussion groups, chat rooms or other methods of communication that may be offered on or linked through the Site.
+
+**Other Sources** means sources of information that legally provide Groupon with your information, and which are outside the scope of this Privacy Statement at the time of collection.
+
+**Personal Information** means information about you that specifically identifies you or, when combined with other information we have, can be used to identify you. This includes the following types of information:
+
+  * **Contact Information** : your name, postal addresses, email addresses, social networking website user account names, telephone numbers, or other addresses at which you are able to receive communications. 
+
+  * **Relationship Information** : information you provide that enables us to determine lifestyle, interests, and activities, including location information related to your state/province, city, or neighborhood; areas of interest, the types of deals that interest you, information collected through your interactions with social networks, demographic information (e.g., birth date, age, gender); information about persons for whom you have purchased Groupon vouchers as gifts or who have bought Groupon vouchers as gifts for you; and information about friends who refer you or whom you have referred; 
+
+  * **Transaction Information** : information you provide when you interact with us and the Site, such as the Groupon vouchers you are interested in, purchase and redeem; email and other communications; and how you interact with Business Partners and our Vendors; and
+
+  * **Financial Information** : information collected from you as needed to process payments for Groupon vouchers or other products or services that you buy, or as provided by you to administer your participation in optional services and programs, such as your payment card number, expiration date, and card verification number. 
+
+
+
+
+**Pixel Tags and Web Beacons** means tiny graphic images placed on website pages or in our emails that allow us to determine whether you have performed specific actions. 
+
+**Third-Party Ad-Servers** means Vendors and other third parties that provide the technology to place ads on websites and track ad performance.
+
+**Vendors** means, collectively, third parties that perform business operations on behalf of Groupon, such as transaction processing, billing, mailing, communications services (e-mail, direct mail, etc.), marketing, data processing and analytics, servicing, collections, or ad management.
