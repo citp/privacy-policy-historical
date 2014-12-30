@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yelp.com.sg privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628055357id_/http%3A//www.yelp.com.sg/tos/privacy_en_ie_20130910) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.com.sg privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230050046id_/http%3A//www.yelp.com.sg/tos/privacy_en_ie_20140619) for the most accurate reproduction.*
 
 # Privacy Policy | Yelp
 
-**Last Updated on 10 September 2013.** This Privacy Policy is effective immediately for users registering accounts after that date and will become effective on 12 October 2013 for pre-existing users. To review the previous policy, please click [here](https://web.archive.org/tos/privacy_en_ie_20121127). 
+**Last Updated on 19 June 2014.** This Privacy Policy is effective immediately for users registering accounts after that date and will become effective on 19 June 2014 for pre-existing users. To review the previous policy, please click [here](https://web.archive.org/tos/privacy_en_ie_20130910). 
 
 This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our websites, emails, and mobile applications ( **"Site"** ). The terms **"we"** , **"us"** , and **"Yelp"** refer to Yelp Ireland Ltd., a company incorporated in Ireland. When you use the Site, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.
 
@@ -96,9 +96,9 @@ If you believe that Yelp has not adhered to this Privacy Policy you may contact 
 
 Yelp Ireland Ltd.  
 Attn: Privacy Officer  
-Glandore Business Centre  
-Fitzwilliam Hall, Suite LG001  
-Fitzwilliam Place  
+Styne House  
+First Floor  
+Upper Hatch Street  
 Dublin 2, Ireland  
 [Contact Us](https://web.archive.org/contact?topic=privacy)
 
