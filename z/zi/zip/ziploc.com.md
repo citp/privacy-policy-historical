@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziploc.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509185155id_/http%3A//www.scjbrands.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziploc.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080620id_/http%3A//www.scjbrands.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | SC Johnson
 
