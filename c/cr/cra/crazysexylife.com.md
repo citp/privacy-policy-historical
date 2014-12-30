@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazysexylife.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100907id_/http%3A//kriscarr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazysexylife.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230104138id_/http%3A//kriscarr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KrisCarr.com
 
@@ -58,7 +58,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-#### Online Privacy Policy Only 
+#### Online Privacy Policy Only
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
@@ -78,6 +78,4 @@ If there are any questions regarding this privacy policy, you may contact us usi
 
 http://kriscarr.com
 
-info@kriscarr.com 
-
-This policy is powered by Free Privacy Policy and Rhino Support help desk software.
+sales@kriscarr.com 
