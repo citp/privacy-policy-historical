@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lookfantastic.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203213243id_/http%3A//www.lookfantastic.com/info/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookfantastic.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230201154id_/http%3A//www.lookfantastic.com/info/privacy-policy.list) for the most accurate reproduction.*
 
-# Privacy Policy - FREE UK Delivery
+# Privacy Policy - FREE Delivery
 
 This is a Secure Website:
 
