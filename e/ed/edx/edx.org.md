@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edx.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233856id_/https%3A//www.edx.org/edx-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edx.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230115014id_/https%3A//www.edx.org/edx-privacy-policy) for the most accurate reproduction.*
 
 # edX Privacy Policy | edX
 
@@ -32,10 +32,10 @@ We may log the IP address, operating system, and browser software used by each u
 
 **USE AND DISCLOSURE TO THIRD PARTIES**
 
-Among other things, we and the educational institutions that provide courses through edX (the "Universities") may use the information about you collected through the Site (including your Personal Information) in connection with the following. In cases where we share or disclose your Personal Information: (1) the third party recipients are required to handle the Personal Information in a confidential manner and to maintain adequate security to protect the information from loss, misuse, unauthorized access or disclosure, alteration, and destruction; and (2) we will only disclose and share the Personal Information that is required by the third party to fulfill the purpose stated at the time of collection.
+Among other things, we and the educational institutions and other leading global members that provide courses through edX (the "Members") may use the information about you collected through the Site (including your Personal Information) in connection with the following. In cases where we share or disclose your Personal Information: (1) the third party recipients are required to handle the Personal Information in a confidential manner and to maintain adequate security to protect the information from loss, misuse, unauthorized access or disclosure, alteration, and destruction; and (2) we will only disclose and share the Personal Information that is required by the third party to fulfill the purpose stated at the time of collection.
 
-  * To enable the Universities to provide, administer, and improve the courses.
-  * To help us and the Universities improve edX offerings, both individually (e.g., by course staff when working with a student) and in aggregate, and to individualize the experience and to evaluate the access and use of the Site and the impact of edX on the worldwide educational community.
+  * To enable the Members to provide, administer, and improve the courses.
+  * To help us and the Members improve edX offerings, both individually (e.g., by course staff when working with a student) and in aggregate, and to individualize the experience and to evaluate the access and use of the Site and the impact of edX on the worldwide educational community.
   * For purposes of scientific research, particularly, for example, in the areas of cognitive science and education.
   * For the purpose for which you specifically provided the information, for example, to respond to a specific inquiry or provide you with access to the specific course content and/or services you select.
   * To track both individual and aggregate attendance, progress and completion of an online course, and to analyze statistics on student performance and how students learn.
@@ -51,14 +51,14 @@ Among other things, we and the educational institutions that provide courses thr
 
 
 
-We will share information we collect with the Universities, and we and the Universities may share this information (including Personal Information) with third parties as follows:
+We will share information we collect with the Members, and we and the Members may share this information (including Personal Information) with third parties as follows:
 
-  * With service providers or contractors that perform certain functions on our or the Universities' behalf, including processing information that you provide to us on the Site, processing purchases via third party providers, and other transactions through the Site, operating the Site or portions of it, providing or administering courses, or in connection with other aspects of edX or University services.
+  * With service providers or contractors that perform certain functions on our or the Members' behalf, including processing information that you provide to us on the Site, processing purchases via third party providers, and other transactions through the Site, operating the Site or portions of it, providing or administering courses, or in connection with other aspects of edX or Member services.
   * With other visitors to the Site, to the extent that you submit comments, course work, or other information or content (collectively, "Postings") to a portion of the Site designed for public communications; and with other members of an edX class of which you are a member, to the extent you submit Postings to a portion of the Site designed for viewing by those class members. We may provide your Postings to students who later enroll in the same classes as you, within the context of the forums, the courseware, or otherwise. If we do re-post your Postings originally made to non-public portions of the Site, we will post them without your real name and e-mail (except with your express permission), but we may use your username without your consent.
   * For purposes of scientific research, particularly, for example, in the areas of cognitive science and education. However, we will only share Personal Information about you for this purpose to the extent doing so complies with applicable law and is limited to the Personal Information required to fulfill the purposes stated at the time of collection.
   * To provide opportunities for you to communicate with other users who may have similar interests or educational goals. For instance, we may recommend specific study partners or connect potential student mentees and mentors. In such cases, we may use all information collected about you to determine who might be interested in communicating with you, but we will only provide other users your username, and not disclose your real name or e-mail address to your contact.
   * To respond to subpoenas, court orders, or other legal process; to investigate, or prevent, or take action regarding illegal activities, suspected fraud, or security or technical issues, or to enforce our [Terms of Service](https://web.archive.org/edx-terms-service), our [Honor Code](https://web.archive.org/edx-terms-service), or this Privacy Policy; as otherwise may be required by applicable law; or to protect our rights, property, or safety or those of others.
-  * With affiliates of edX or the Universities, or with successors in the event of a merger, acquisition or reorganization, for their use consistent with this Privacy Policy.
+  * With affiliates of edX or the Members, or with successors in the event of a merger, acquisition or reorganization, for their use consistent with this Privacy Policy.
   * As otherwise described to you at the point of collection or pursuant to your consent.
   * For integration with third party services. For example, videos and other content may be hosted on YouTube and other websites not controlled by edX.
 
@@ -82,12 +82,8 @@ EdX has a program designed to protect Personal Information in its possession or 
 
 Please note that we review and may make changes to this Privacy Policy from time to time. When changes are made, the Privacy Policy link will include a notation "Revised (date)." indicating that you should review the new terms, which will be effective immediately upon posting on this page, with an updated effective date. The notation will be included in the Privacy Policy link for at least seven (7) days after the update has been made. By accessing the Site after any changes have been made, you signify your agreement on a prospective basis to the modified Privacy Policy and any changes contained therein. In case you miss the notification referenced above, be sure to return to this page periodically to ensure familiarity with the most current version of this Privacy Policy.
 
-**MINORS**
-
-Our Site is not intended for use by individuals under the age of 13, and edX does not knowingly collect personal data from those in this age group. If we become aware that someone under the age of 13 has registered, we will expunge any related Personal Information from our records.
-
 **PRIVACY CONCERNS**
 
 If you have privacy concerns, have disclosed data you would prefer to keep private, or would like to access the information we maintain about you, please contact us at [privacy@edx.org](mailto:privacy@edx.org).
 
-**Effective Date:** November 4, 2013
+**Effective Date:** October 22, 2014
