@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paygonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152243id_/http%3A//www.wireless.att.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paygonline.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230165328id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
 
 # AT&T Privacy Policy
 
