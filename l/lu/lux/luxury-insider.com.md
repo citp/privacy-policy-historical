@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxury-insider.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625225350id_/http%3A//www.luxury-insider.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxury-insider.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230185445id_/http%3A//www.luxury-insider.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Luxury-Insider.com
 
@@ -8,11 +8,13 @@ Luxury Insider collects personal information for one reason only: it helps us de
 
 **Your privacy is of paramount concern at Luxury Insider.** We will never sell, rent, or transfer your information in any form to other marketers. 
 
-Luxury Insider is a magazine focused on uber-luxe products and services, and we may come across information which we think may be interesting to you. If you have opted to receive emails from us, we may occasionally send you such information via email, but such emails will be sent _no more than once per fortnight_. Such information is sent purely at your pleasure and you may stop the further sending of such emails at any time by following the instructions given in the email to you. 
+## Mailing Policy
+
+When you accept to receive information about our website, promotions, newsletters, press releases, and/or new offers, we use your email address and any other information you give us to provide you with the information or other services, until you ask us to stop (using the 'unsubscribe' instructions provided with each email communication.) 
+
+We will never use your email address or other information to provide you with any unsolicited messages or information (unless that is part of the service you are requesting), nor will we share it with or sell, rent or lease it to any third party for such use. 
 
 ## When Information Is Collected
-
-Much of the content on our website is viewable only to registered readers. During registration, certain information will be required like your name, your country of residence, your gender, your age group, and a valid email address. 
 
 Like most websites, our website uses cookies to understand viewer preferences, such as which pages are most popular, how much time is spent on each page, etc. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk. 
 
