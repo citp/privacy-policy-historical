@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenuewire.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620105745id_/http%3A//www.revenuewire.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuewire.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230041340id_/http%3A//www.revenuewire.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy | RevenueWire Inc.
 
@@ -14,7 +14,7 @@ When you submit information to open an account to either offer your digital down
 
 When creating an account as an Affiliate or Merchant on our site, if you wish to have payments wired to your bank account, we will ask you to submit Bank Account information to us in order to facilitate these payments. The Bank Account information you submit to us is sensitive information and is therefore protected by us using industry-standard SSL Encryption.
 
-We also give our users the option of receiving useful product information (such as product updates, new product offerings, or other information that may be of interest to you), via opt-in permission based email. You may opt-out of receiving such email communications from us at any time by clicking the Unsubscribe link in the applicable email, or by sending us an email with your request to privacy@revenuewire.com, and including 'UNSUBSCRIBE' in the subject line. We fully ensure your privacy and value your trust. We will never sell, rent, lease, or give your information to a third party unless required to do so by law.
+From time to time, and provided that we have your consent, we may also send you electronic mail containing information about product updates, new product offerings and other information that may interest you. At any time, you may opt-out of receiving email from us, either by clicking the Unsubscribe link in the applicable email, or by sending an email with your request to privacy@revenuewire.com, and including 'UNSUBSCRIBE' in the subject line. We respect your privacy and value your trust. We will never sell, rent, lease, or give your information to a third party unless required to do so by law.
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
