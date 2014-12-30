@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalbank.co.in privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614202803id_/http%3A//www.federalbank.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalbank.co.in privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230224116id_/http%3A//www.federalbank.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Federal Bank
 
@@ -28,7 +28,7 @@ Linked sites are not under the control of Federal Bank, and Federal Bank will no
 
 Federal Bank will, as and when it deems fit to do so, change, alter or modify its Privacy Policy. Users are advised to visit the site continually in order to monitor changes in the policy, as the policy will be binding upon them in relation to their use of Federal Bank 's services.
 
-© Federal bank Limited, 2013
+© Federal bank Limited, 2014
 
   
 
