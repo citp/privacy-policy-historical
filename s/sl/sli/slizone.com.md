@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the slizone.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628044134id_/http%3A//www.geforce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slizone.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230064106id_/http%3A//www.geforce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GeForce
 
-This policy was last updated on April 2, 2014.
+This policy was last updated on July 15, 2014.
 
 NVIDIA ("Nvidia", "we" or "us") is committed to respecting your privacy. This Privacy Policy applies to our world-wide family of NVIDIA-owned websites, mobile apps and products including [www.nvidia.com](http://www.nvidia.com/page/home.html), [www.slizone.com](http://www.slizone.com/), [3DVision Live](http://www.3dvisionlive.com/), [GeForce.com](https://www.geforce.com/), [GTC](http://www.gputechconf.com/page/home.html), [TegraZone.com](http://www.tegrazone.com/), and [shield.nvidia.com](http://shield.nvidia.com/) as well as to our mobile apps and internet-connected devices (collectively, our "Services").
 
