@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radaris.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627044619id_/http%3A//radaris.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radaris.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230050343id_/https%3A//radaris.com/page/privacy) for the most accurate reproduction.*
 
 # Radaris Privacy Policy
 
