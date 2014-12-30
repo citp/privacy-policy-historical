@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626101710id_/http%3A//www.starpulse.com/Company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044432id_/http%3A//www.starpulse.com/Company/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Starpulse.com
 
-Effective Date: **March 31st, 2014**  
 Last Updated Date: **January 30th, 2014**
 
 This Privacy Policy is incorporated by reference into the Starpulse [Terms of Use](https://web.archive.org/Company/TOS.html) the terms “ **Starpulse** ,” “ **we** ,” and “ **us** ” each includes Media Holdings, LLC and our affiliates and subsidiaries. The Privacy Policy explains how Starpulse may:
