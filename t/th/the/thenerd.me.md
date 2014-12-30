@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thenerd.me privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423103404id_/http%3A//www.snacktools.com/en/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenerd.me privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230184507id_/http%3A//www.snacktools.com/en/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # SnackTools | Creative web applications
 
 Last modified: March 19, 2013
 
-Thank you for visiting SnackTools network sites (SnackTools.com, SnackWebsites.com, BannerSnack.com, PhotoSnack.com, PodSnack.com, TubeSnack.com, PollSnack.com, FlipSnack.com, SlideSnack.com, FileSnack.com or "Sites") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Sites unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from SnackTools network sites ("Sites").
+Thank you for visiting SnackTools network sites (Smartketer.com, SnackTools.com, SnackWebsites.com, BannerSnack.com, PhotoSnack.com, PodSnack.com, TubeSnack.com, PollSnack.com, FlipSnack.com, SlideSnack.com or "Sites") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Sites unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from SnackTools network sites ("Sites").
 
 We do not collect nor distribute private data such as credit card numbers at all. Some personal information is recorded for SnackTools account purposes. All passwords are non-reversible encrypted (MD5) before being saved to the data base, to ensure that they (and your personal information) cannot be stolen from us, even in case of a hacking attack. We do not collect any passwords at all for users that are connecting using the Facebook Connect API as well as for those connecting with Twitter, Google and Yahoo APIs.
 
@@ -41,6 +41,12 @@ The Sites does not collect personally identifiable information when you browse t
 In these cases we will know who you are based on the information you previously supplied to us. When you request a page from our Sites, our servers log the information provided in the HTTP request header including the IP number, the time of the request, the URL of your request and other information that is provided in the HTTP header. We collect the HTTP request header information in order to make our Sites function correctly and provide you the functionality that you expect to see. We also use this information to personalize content presented to you, better understand how visitors use our Sites and how we can better tune it, its contents, and functionality to meet your needs.
 
 You can delete cookies from your hard drive at any time. You can set your Internet browser so that it will not allow cookies to be stored on your device. This may reduce functionality of SnackTools network sites and may mean that certain features or content will not be available to you. Further information on how to prevent cookies from being stored on your device can be found on [www.allaboutcookies.org](http://www.allaboutcookies.org/) under the 'manage cookies' section. Alternatively, you can access further information by going to the help menu within your Internet browser. To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
+
+We use multiple Google products (like Google Analytics, Google+, Google Wallet, DoubleClick Ad Exchange, Google AdWords) throughout our sites, iframe embed codes and most of our tools. Therefore we inform you that Google does collect information on it's own. Here is a link to Google's Privacy Policy page: <http://www.google.com/intl/en/policies/privacy/> where you'll also find more information on how to opt out of being tracked by Google.
+
+Also please note that our products connect with Google advertising solutions therefore we collect information about you and your users throughout Google advertising services using cookies. Here is a link to Google Advertising Policy and how to opt out: <http://www.google.com/policies/technologies/ads/>.
+
+We also inform you that you should include the link above in your own privacy policy if you’re using our iframes and banner ads on your website.
 
 ### How is Information Shared?
 
@@ -94,7 +100,7 @@ The materials found on the SnackTools network sites are protected by United Stat
 
 **_Trademarks_**
 
-SnackTools.com, BannerSnack.com, PhotoSnack.com, Podsnack.com, TubeSnack.com, PollSnack.com, FlipSnack.com, SlideSnack.com, FileSnack.com, SanckWebsites.com and Smartketer are trademarks and service marks of Smartketer LLC. For more information, please see the Terms of Service.
+SnackTools.com, BannerSnack.com, PhotoSnack.com, Podsnack.com, TubeSnack.com, PollSnack.com, FlipSnack.com, SlideSnack.com, SanckWebsites.com and Smartketer are trademarks and service marks of Smartketer LLC. For more information, please see the Terms of Service.
 
 ### What Happens When We Update Our Privacy Policy?
 
