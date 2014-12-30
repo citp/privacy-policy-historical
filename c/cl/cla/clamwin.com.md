@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clamwin.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629021108id_/http%3A//www.clamwin.com/content/view/171/107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clamwin.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230182717id_/http%3A//www.clamwin.com/content/view/171/107) for the most accurate reproduction.*
 
 # Our Privacy Statement
 
