@@ -1,1379 +1,956 @@
-<!--The following is the downloaded HTML source of the vodacom4me.co.za privacy policy that was archived on 2013-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131110134838id_/http%3A//www.vodacom.com/com/main/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vodacom4me.co.za privacy policy that was archived on 2014-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230045953id_/http%3A//www.vodacom.co.za/vodacom/terms/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-US"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, user-scalable=YES,initial-scale=1"><script type="text/javascript">
-                  var globalPortalContextPath = "/com";
-                  var globalFrameworkImagePath = globalPortalContextPath + "/framework/skins/vodacom_skins/img/";
-                  var globalFrameworkCSSPath = globalPortalContextPath + "/framework/skins/vodacom_skins/css/";
-            </script><title>About this site - Privacy Policy | Vodacom</title><meta name="Description" content="Vodacom and all its associated companies are committed to respecting the privacy of your personal data."><meta name="keywords" content="about,site,private,policy,privacy,privacy policy,confidential">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>main</title><script src="/com/framework/skeletons/vodacom-skeletons/js/vodacom.0.min.20131023162437.js" type="text/javascript"></script><script src="/com/framework/skeletons/vodacom-skeletons/js/vodacom.1.min.20131023162437.js" type="text/javascript"></script><script src="/com/framework/skeletons/vodacom-skeletons/js/vodacom.2.min.20131023162437.js" type="text/javascript"></script><script src="/com/framework/skeletons/vodacom-skeletons/js/vodacom.0.nonmin.20131023162437.js" type="text/javascript"></script><link rel="shortcut icon" type="image/x-icon" href="/com/framework/skins/vodacom_skins/img/favicon-new.ico"><link rel="stylesheet" type="text/css" href="/com/framework/skins/vodacom_skins/css/vodacom.0.min.20131023162437.css"></head><body><div class="header"><ul class="orientation"><li><a href="#mainContent" id="skipToContent">Skip to content</a></li><li><a href="#" id="switchExtendedLinks">Switch to extended Links</a></li></ul><div></div><div style="display:none">&nbsp;</div>
-    			 
-
-
-
-
-
-
-
-
-
-
-
-	    	<style type="text/css">
-				li.search {
-					width:180px;
-					float:right !important;
-				}
-				.gsa_main_searchHeader{
-					border: medium none !important; 
-				}
-			</style>
-<script language="javascript">
-
-	$(document).ready(function() {
-	
-		
-		
-			$.get(globalPortalContextPath+"/portlets/searchBox_Portal.portlet?_nfpb=true&_portlet.contentOnly=true", function(data) {
-
-				$("li[class='search']").html(data);
-				$("#gsa_main_searchFrm").attr('action', '/com/appmanager/com/main?_nfpb=true&_windowLabel=T189407133631366624418664&_urlType=action&wlpT189407133631366624418664_javax.portlet.action=submitSearchQuery&_pageLabel=searchtest');
-			}, "html");
-		
-	
-		var mappings = {phonesandpackages: 'phones', services: 'services', internet: 'internet', outlets: 'outlets'};
-
-		var mapped = mappings[bookname];
-
-		$("ul[class='menu'] li>a").attr('class', '');
-		$("li[class="+mapped+"]>a").attr('class', 'current');
-	
-	});
-
-	function doMsisdnCheck() {
-		
-		var msisdn1 = $("#currentUserMenu").html();
-		var msisdn2 = $("#servletPrincipal").html();
-		if(msisdn1.indexOf("<") == -1 && msisdn1 != msisdn2) {
-			$.getJSON("http://jsonip.appspot.com/?callback=?", function(ip) {
-				$.ajax("/com/portmenu/LogUserDifferences/"+createUUID(), {timeout: 2000  ,type: "POST", data : "msisdn1="+msisdn1+"&msisdn2="+msisdn2+"&id=unknown&sessionOnCookie=unknown&ip="+ip.ip, complete: function(data) {
-					
-						window.location.href="/com/LogoutServlet?logoutRedirectURL=http://www.vodacom.co.za";
-					
-				}})
-			}).error(function(data) {
-				$.ajax("/com/portmenu/LogUserDifferences/"+createUUID(), {timeout: 2000  ,type: "POST", data : "msisdn1="+msisdn1+"&msisdn2="+msisdn2+"&id=unknown&sessionOnCookie=unknown&ip=", complete: function(data) {
-					
-						window.location.href="/com/LogoutServlet?logoutRedirectURL=http://www.vodacom.co.za";
-					
-				}})
-			});			
-		}
-		
-    }
-
-    function getCookie(c_name)
-    {
-    var i,x,y,ARRcookies=document.cookie.split(";");
-    for (i=0;i<ARRcookies.length;i++)
-    {
-      x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
-      y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
-      x=x.replace(/^\s+|\s+$/g,"");
-      if (x==c_name)
-        {
-        return unescape(y);
-        }
-      }
-    }
-	function toMenuGoToMyAccountPage() {
-		var url = $("#login").attr('accounturl');
-		if(url != undefined && url.length > 0) {
-			window.location.href = url;
-		} else {
-			window.location.href = "/personal/main/login";
-		}
-		
-	}
-	function fixMyAccountMenu() {
-		if($(".myAccount")) {
-			
-			passwordField = $(".myAccount input[type='password']");
-		
-			$(".myAccount input[type='text']").each(function() {
-		
-				passwordField = $("#password");
-				
-				$(this).focus(function(event) {
-				
-					currentInput = $(this);
-					initialValue = currentInput.val();
-					
-					if(currentInput.attr("id") === "passwordtxt") {
-						$(this).hide();
-						passwordField.show().focus();
-					}
-					
-					if(currentInput.val().indexOf("Type") > -1) {
-						currentInput.val("");
-					}			
-				});
-				
-				$(this).blur(function(event) {
-				
-					currentInput = $(this);		
-					
-					if($.trim(currentInput.val()) === "") {
-						currentInput.val(initialValue);		
-					}
-				});
-			});		
-					
-			passwordField.blur(function() {
-			
-				if($.trim($(this).val()) === "") {
-					$(this).hide();
-					$("#passwordtxt").show().val("Type in your password");
-				}			
-			});
-		}	
-	}
-	function gotoPage(pVal){
-		$('#login').attr("action",pVal);
-		$('#login').submit();
-	}
-
-
-
-	
-	function doTopMenuLoginAction(){
-            if (!$("#login").valid()) {
-                $("#login").validate().focusInvalid();
-                return;
-    		}else{
-    			 protocol = "http://";
-    			 if (window.location.host.indexOf(".vodacom.co.za") > -1) {
-    			  	protocol = "https://";
-    			 }
-
-    			 var preamble = protocol + window.location.host;
-    			 
-    			 var postParameters="";    			 
- 			 	
-    			 
- 			 	
-    			
-    				$('#login').attr("action",preamble+$("#login").attr('loginaction')+postParameters);
-    			
-    			
-    			$('#login').submit();
-       		}
-	}
-
-	function createUUID() {
-	    // http://www.ietf.org/rfc/rfc4122.txt
-	    var s = [];
-	    var hexDigits = "0123456789abcdef";
-	    for (var i = 0; i < 36; i++) {
-	        s[i] = hexDigits.substr(Math.floor(Math.random() * 0x10), 1);
-	    }
-	    s[14] = "4";  // bits 12-15 of the time_hi_and_version field to 0010
-	    s[19] = hexDigits.substr((s[19] & 0x3) | 0x8, 1);  // bits 6-7 of the clock_seq_hi_and_reserved to 01
-	    s[8] = s[13] = s[18] = s[23] = "-";
-
-	    var uuid = s.join("");
-	    return uuid;
-	}
-		
-	function doSelectLoginAction(){
-	   $('#login').attr("action", "/com/appmanager/com/press;jsessionid=JyKbS1QHgGWl5Q0gpBbvqPMTMDvV7yCffL8cN0Rcz1B3KZxGnSn2!1436339324?_nfpb=true&_windowLabel=VodacomCozaMenu_1&_urlType=action&wlpVodacomCozaMenu_1_ATTR_ACTION_CLASS_NAME=za.vsp.portlet.coza.actions.SelectAction");
-	   $('#login').submit();
-	}
-
-	function doTopMenuLogOutAction(){
-		 var preamble = window.location.protocol +"//" + window.location.host;
-		 
-		 var postParameters = "";
-		 
-		$('#login').attr("action",preamble+$("#login").attr('logoutaction')+postParameters);
-		 
-		$('#login').submit();
-	}
-
-
-
-	function VodacomCozaMenu_1doMenuSearchAction(){
-	  
-	    
- 		
- 			$('#VodacomCozaMenu_1cozasearchfrm').attr("action",$("#login").attr('searchaction'));
- 		
- 	  
-		$('#VodacomCozaMenu_1cozasearchfrm').submit();
-	}
-
-	jQuery(document).ready(function() {
-
-		$.validator.methods.msisdn27 = function(value, element, param) {
-			if(value.length == 11){
-				if(value.substring(0, "27".length) == "27"){
-					return true;
-				}else{
-					return false;
-				}
-			}
-
-			if(value.substring(0, "27".length) == "27"){
-				if(value.length == 11){
-					return true;
-				}else{
-					return false;
-				}
-			}
-			
-			return true;	
-		};
-		
-		$.validator.methods.msisdnEmail = function(value, element, param) {
-		  var intRegex = /^\d+$/;
-		  var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
-		  if(intRegex.test(value)) {
-					if(value.substring(0,1) == "0"){
-						if(value.length == 10){
-							return true;
-						}else{
-							return false;
-						}
-					}		
-					
-					if(value.length == 11){
-						if(value.substring(0, "27".length) == "27"){
-							return true;
-						}else{
-							return false;
-						}
-					}
-			
-					if(value.substring(0, "27".length) == "27"){
-						if(value.length == 11){
-							return true;
-						}else{
-							return false;
-						}
-					}
-			} else {
-			  if(emailReg.test(value)) {
-			     return true;
-			  }
-			}
-			return false;	
-		};
-
-			jQuery("#mega_coza_gsearch").autocomplete({source:function( request, response ) {
-				$.ajax({
-					url: "http://gsa.vodacom.co.za/suggest?site=coza_collection&client=coza_frontend&access=a",
-					dataType: "jsonp",
-					data: {
-						token: request.term
-					},
-					success: function( data ) {
-						response(data);
-					}
-				});
-			},
-			minLength: 2
-			});
-   	});
-
-
-</script>
-
-	<div class="mastheadWrapper" style="position:relative">
-	<div class="rhombus-box">
-			<div class="rhombus"></div>
-			<div class="rhombus-filler"></div>
-			<img src="/com/framework/skins/vodacom_skins/img/menu/vodacom_logo.png">
-		</div>
-		<ul class="topGlobalNav">
-			
-				<li><a href="http://www.vodacom.co.za/"><span>Personal</span></a></li>
-			
-				<li><a href="http://www.vodacombusiness.co.za/"><span>Corporate</span></a></li>
-			
-				<li><a href="http://www.vodacombusiness.co.za/smme/home/"><span>SMME</span></a></li>
-			
-				<li><a href="http://www.vodacom.com/" class="current"><span>About Us</span></a></li>
-			
-		</ul>
-		
-        <div class="topLinks" id="accountData">
-	        		
-
-		</div>
-	</div>
-
-	<ul class="menu">
-		<li class="logo" style="background-color: rgb(244, 244, 244); border: none;height:60px;margin-top:0px">
-			<a href="/com/main/home" title="Home Page" style="position:relative;z-index:999999;"><img src="/com/framework/skins/vodacom_skins/img/menu/vodacom_logo_word.png" alt="Vodacom Logo"></a>
-		</li>
-		
-		
-		<li class="phones"><a href="#" title=""><span>About Vodacom</span>
-            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-            <!--[if lte IE 6]><table id="wrappermenusectable"><tr><td><iframe frameborder=0 class="four"></iframe><![endif]-->
-			<ul>
-				<li>
-					<div class="subNavWrapper">
-	                       <input type="hidden" name="UCM_CONTENT_RECEIVED_321" id="UCM_CONTENT_RECEIVED_321" value="UCM_CONTENT_RECEIVED_321">
-     	
-         		
-		<div>
-			
-			
-				<p>About us</p>
-			
-									
-						<a href="/com/aboutus/whereweare" title="Where we are">
-							Where we are
-						</a>
-									
-						<a href="/com/aboutus/boardofdirectors" title="Board of directors">
-							Board of directors
-						</a>
-									
-						<a href="/com/aboutus/executivecommittee" title="Executive committee">
-							Executive committee
-						</a>
-									
-						<a href="/com/aboutus/ourstrategy" title="Our strategy">
-							Our strategy
-						</a>
-									
-						<a href="/com/aboutus/ourstories" title="Our stories">
-							Our stories
-						</a>
-									
-						<a href="/com/aboutus/ourvideos" title="Our videos">
-							Our videos
-						</a>
-									
-						<a href="/com/aboutus/ourpolicies" title="Our policies">
-							Our policies
-						</a>
-									
-						<a href="/com/aboutus/studiesandpolicypapers" title="Studies and policy papers">
-							Studies and policy papers
-						</a>
-																																																							    		
-		</div>
-    		<div>
-			
-			
-				<p>What we do</p>
-			
-																																																	
-						<a href="/com/aboutus/consumer" title="Consumer">
-							Consumer
-						</a>
-									
-						<a href="/com/aboutus/enterprise" title="Enterprise">
-							Enterprise
-						</a>
-																																													    		
-		</div>
-    		<div>
-			
-			
-				<p>Governance &amp; risks</p>
-			
-																																																											
-						<a href="/com/aboutus/businessprinciples" title="Business principles">
-							Business principles
-						</a>
-									
-						<a href="/com/aboutus/governance" title="Governance">
-							Governance
-						</a>
-									
-						<a href="/com/aboutus/riskmanagement" title="Risk management">
-							Risk management
-						</a>
-																														    		
-		</div>
-    		<div>
-			
-			
-				<p>Sustainability</p>
-			
-																																																																										
-						<a href="/com/aboutus/sustainability" title="Sustainability">
-							Sustainability
-						</a>
-									
-						<a href="/com/aboutus/mobilesmastsandhealth" title="Mobiles, masts and health">
-							Mobiles, masts and health
-						</a>
-									
-						<a href="/com/aboutus/integratedreports" title="Integrated reports">
-							Integrated reports
-						</a>
-									
-						<a href="/com/aboutus/sustainabilityreports" title="Sustainability reports">
-							Sustainability reports
-						</a>
-									
-						<a href="/com/aboutus/carbondisclosureprojectreports" title="Carbon disclosure project reports">
-							Carbon disclosure project reports
-						</a>
-									
-						<a href="/com/aboutus/additionalreports" title="Additional Reports">
-							Additional Reports
-						</a>
-    		
-		</div>
-            
-
-
-<div>
-    <p>Foundation</p>
-         	
-    	     		
-			<a href="/com/aboutus/foundationsouth" title="Foundation South Africa">Foundation South Africa</a>					
-    				<a href="/com/aboutus/changetheworld" title="Change the World">Change the World</a>					
-    				<a href="/com/aboutus/foundationlesotho" title="Foundation Lesotho">Foundation Lesotho</a>					
-    				<a href="/com/aboutus/foundationmozambique" title="Foundation Mozambique">Foundation Mozambique</a>					
-    				<a href="/com/aboutus/foundationtanzania" title="Foundation Tanzania">Foundation Tanzania</a>					
-    				<a href="/com/aboutus/foundationdrc" title="Foundation DRC">Foundation DRC</a>					
-    	        
-	
-</div>
-					</div>
-				</li>
-			</ul>
-			
-			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-		</li>
-		
-		<li class="services"><a href="#" title=""><span>Investors</span>
-            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-            <!--[if lte IE 6]><table id="wrappermenusectable"><tr><td><iframe frameborder=0 class="four"></iframe><![endif]-->
-			<ul>
-				<li>
-					<div class="subNavWrapper">
-	                       <input type="hidden" name="UCM_CONTENT_RECEIVED_321" id="UCM_CONTENT_RECEIVED_321" value="UCM_CONTENT_RECEIVED_321">
-     	
-         		
-		<div>
-			
-			
-				<p>Stock information</p>
-			
-									
-						<a href="/com/aboutus/shareprice" title="Share price">
-							Share price
-						</a>
-									
-						<a href="/com/aboutus/totalreturncalculator" title="Total return calculator">
-							Total return calculator
-						</a>
-									
-						<a href="/com/aboutus/dividendcalculator" title="Dividend calculator">
-							Dividend calculator
-						</a>
-									
-						<a href="/com/aboutus/analystcoverage" title="Analyst coverage">
-							Analyst coverage
-						</a>
-									
-						<a href="http://www.vodacom.com/com/financials/americandepositaryreceipts" title="American Depositary Receipts">
-							American Depositary Receipts
-						</a>
-									
-						<a href="http://www.vodacom.com/com/financials/adrfaqs" title="American Depositary Receipts FAQ" s'="">
-							American Depositary Receipts FAQ's
-						</a>
-																																								    		
-		</div>
-    		<div>
-			
-			
-				<p>Financial reporting</p>
-			
-																																							
-						<a href="/com/aboutus/annualreports" title="Annual reports">
-							Annual reports
-						</a>
-									
-						<a href="/com/aboutus/annualresults" title="Annual results">
-							Annual results
-						</a>
-									
-						<a href="/com/aboutus/interimresults" title="Interim results">
-							Interim results
-						</a>
-									
-						<a href="/com/aboutus/quarterlyresults" title="Quarterly results">
-							Quarterly results
-						</a>
-									
-						<a href="/com/aboutus/corporatedocuments" title="Corporate documents">
-							Corporate documents
-						</a>
-															    		
-		</div>
-    		<div>
-			
-			
-				<p>Presentations</p>
-			
-																																																																
-						<a href="/com/aboutus/otherpresentations" title="Other presentations">
-							Other presentations
-						</a>
-										    		
-		</div>
-    		<div>
-			
-			
-				<p>News releases</p>
-			
-																																																																					
-						<a href="/com/aboutus/sens" title="SENS">
-							SENS
-						</a>
-									
-						<a href="/com/aboutus/investor" title="Press releases">
-							Press releases
-						</a>
-    		
-		</div>
-            
-
-
-<div>
-    <p>Other</p>
-         	
-    	     		
-			<a href="/com/aboutus/investorrelationscalendar" title="Investor relations calendar">Investor relations calendar</a>					
-    				<a href="/com/aboutus/faqs" title="FAQs">FAQs</a>					
-    				<a href="/com/aboutus/glossarys" title="Glossary">Glossary</a>					
-    				<a href="/com/aboutus/investorrelationscontacts" title="Investor relations contacts">Investor relations contacts</a>					
-    	        
-	
-</div>
-					</div>
-				</li>
-			</ul>
-			
-			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-		</li>
-		
-		<li class="outlets"><a href="#" title=""><span>Press</span>
-            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-            <!--[if lte IE 6]><table id="wrappermenusectable"><tr><td><iframe frameborder=0 class="four"></iframe><![endif]-->
-			<ul>
-				<li>
-					<div class="subNavWrapper">
-	                       <input type="hidden" name="UCM_CONTENT_RECEIVED_321" id="UCM_CONTENT_RECEIVED_321" value="UCM_CONTENT_RECEIVED_321">
-     	
-         		
-		<div>
-			
-			
-				<p>Press releases</p>
-			
-									
-						<a href="/com/press/allpressreleases" title="All press releases">
-							All press releases
-						</a>
-									
-						<a href="/com/press/vodacomgroup" title="Vodacom Group">
-							Vodacom Group
-						</a>
-									
-						<a href="/com/press/investorrelations" title="Investor relations">
-							Investor relations
-						</a>
-									
-						<a href="/com/press/vodacombusiness" title="Vodacom Business">
-							Vodacom Business
-						</a>
-									
-						<a href="/com/aboutus/searchpressreleases" title="Search press releases">
-							Search press releases
-						</a>
-									
-						<a href="/com/aboutus/registerforpressreleases" title="Register for press releases">
-							Register for press releases
-						</a>
-										    		
-		</div>
-    		<div>
-			
-			
-				<p>Presentations</p>
-			
-																																							
-						<a href="/com/press/resultspresentations" title="Results presentations">
-							Results presentations
-						</a>
-					    		
-		</div>
-    		<div>
-			
-			
-				<p>Media contacts</p>
-			
-																																												
-						<a href="/com/press/mediacontactscontactus" title="Contact Us">
-							Contact Us
-						</a>
-    		
-		</div>
-					</div>
-				</li>
-			</ul>
-			
-			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-		</li>
-		
-		<li class="support"><a href="#" title=""><span>Careers</span>
-            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-            <!--[if lte IE 6]><table id="wrappermenusectable"><tr><td><iframe frameborder=0 class="four"></iframe><![endif]-->
-			<ul>
-				<li>
-					<div class="subNavWrapper">
-	                       <input type="hidden" name="UCM_CONTENT_RECEIVED_321" id="UCM_CONTENT_RECEIVED_321" value="UCM_CONTENT_RECEIVED_321">
-     	
-         		
-		<div>
-			
-			
-				<p>Careers</p>
-			
-									
-						<a href="http://www.vodacom.co.za/personal/main/careers/careersatvodacom" title="Careers website">
-							Careers website
-						</a>
-    		
-		</div>
-					</div>
-				</li>
-			</ul>
-			
-			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-		</li>
-		
-		<li class="support"><a href="#" title=""><span>Your country</span>
-            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-            <!--[if lte IE 6]><table id="wrappermenusectable"><tr><td><iframe frameborder=0 class="four"></iframe><![endif]-->
-			<ul>
-				<li>
-					<div class="subNavWrapper">
-	                       <input type="hidden" name="UCM_CONTENT_RECEIVED_321" id="UCM_CONTENT_RECEIVED_321" value="UCM_CONTENT_RECEIVED_321">
-     	
-         		
-		<div>
-			
-			
-				<p>Select your local site for Vodacom products, services and customer support</p>
-			
-									
-						<a href="http://www.vodacom.co.za/personal/main/home/" title="South Africa">
-							South Africa
-						</a>
-									
-						<a href="http://www.vodacom.co.za/personalls/main/home" title="Lesotho">
-							Lesotho
-						</a>
-									
-						<a href="http://www.vm.co.mz/" title="Mozambique">
-							Mozambique
-						</a>
-									
-						<a href="http://www.vodacom.co.tz/" title="Tanzania">
-							Tanzania
-						</a>
-									
-						<a href="http://www.vodacom.cd/" title="DRC">
-							DRC
-						</a>
-									
-						<a href="http://www.vodacom.com.ng" title="Nigeria">
-							Nigeria
-						</a>
-									
-						<a href="" title="">
-							
-						</a>
-    		
-		</div>
-					</div>
-				</li>
-			</ul>
-			
-			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-		</li>
-		
-		
-
-        <li class="search">
-   			<form action="/com/appmanager/com/press;jsessionid=JyKbS1QHgGWl5Q0gpBbvqPMTMDvV7yCffL8cN0Rcz1B3KZxGnSn2!1436339324?_nfpb=true&amp;_windowLabel=VodacomCozaMenu_1&amp;_urlType=action&amp;wlpVodacomCozaMenu_1_ATTR_ACTION_CLASS_NAME=za.vsp.portlet.coza.actions.SearchAction" id="VodacomCozaMenu_1cozasearchfrm" name="VodacomCozaMenu_1cozasearchfrm" method="post">
-				<label for="search">Search</label>
-				<input type="text" class="search" id="mega_coza_gsearch" name="mega_coza_gsearch" value="Search" style="z-index:20">
-				<input type="image" src="/com/framework/skins/vodacom_skins/img/menu/btn_search.gif" class="btnSearch" onclick="VodacomCozaMenu_1doMenuSearchAction()" id="buttonSearch" name="buttonSearch" alt="Search">
-			</form>
-		</li>
-	</ul>
-
-
-
-
-    			 
-
-<div id="currentUserMenu" style="display:none"></div><div id="encryptedId" style="display:none">lyPrS1HCd338QMgxQvvZ0P98Ws2vmwvF1bDvcl0gyJQC1xgTP8GG!1843330068!1384089410808</div><script type="text/javascript">
-        	    var wlp_title_repl_C_t_2282015_elem = document.getElementById('wlp_title_repl_C_t_2282015');
-        	    if (wlp_title_repl_C_t_2282015_elem != null) wlp_title_repl_C_t_2282015_elem.innerHTML = 'VodacomCozaMenu';
-        	</script></div><script type="text/javascript">
-			var bookname = "main";
-		</script><div class="header"><div class="gridNoHeroSpace"><h1>&nbsp;</h1><div class="template14LeftNav twoColumn"><div class="mod2Col" placeholder="placeholder"><div></div><div style="display:none">&nbsp;</div>
-
-
-
-
-
-
-
-
-<!-- Ontime ref #3172, 2013-09-02 -->
+<!DOCTYPE html><html lang="en-US" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36" data-platform="Linux x86_64" class=""><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, user-scalable=YES,initial-scale=1"><script type="text/javascript" src="/dtagent60_xn3_6738.js" data-dtconfig="rid=RID_-971805969|rpid=833431684|tp=500,50,0|domain=vodacom.co.za"></script><style type="text/css">@-ms-viewport{
+		width: device-width;
+	}</style><script>(function(){if("-ms-user-select"in document.documentElement.style&&navigator.userAgent.match(/IEMobile\/10\.0/)){var msViewportStyle=document.createElement("style");msViewportStyle.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}"));document.getElementsByTagName("head")[0].appendChild(msViewportStyle);}})();</script><script type="text/javascript" src="//www.vodacom.co.za/utag/vodafone/za-responsive/prod/utag.sync.js"></script>
+<script type="text/javascript">var globalPortalContextPath="/vodacom";var globalFrameworkImagePath=globalPortalContextPath+"/framework/skins/vodacom_skins/img/";var globalFrameworkCSSPath=globalPortalContextPath+"/framework/skins/vodacom_skins/css/";if(typeof window.console=='undefined'){console=new Object();console.log=function(data){}
+console.error=function(data){}}
+var thisClient=document.documentElement;thisClient.setAttribute('data-useragent',navigator.userAgent);thisClient.setAttribute('data-platform',navigator.platform);thisClient.className+=((!!('ontouchstart'in window)||!!('onmsgesturechange'in window))?' touch':'');</script><meta name="search_channel" content="Personal"><meta name="og:search_channel" content="Personal"><meta name="search_category" content="About Us"><meta name="og:search_category" content="About Us"><meta name="search_master_category" content="Global"><meta name="og:search_master_category" content="Global"><meta name="search_sub_category" content="Other"><meta name="og:search_sub_category" content="Other"><meta name="search_content_type" content="General"><meta name="og:search_content_type" content="General"><meta name="description" content="Privacy Policy"><meta name="og:description" content="Privacy Policy"><title>Privacy Policy - Terms &amp; Conditions | Vodacom</title><meta name="og:title" content="Privacy Policy - Terms &amp; Conditions | Vodacom"><meta name="keywords" content="Privacy Policy"><meta name="og:keywords" content="Privacy Policy"><link rel="canonical" href="http://www.vodacom.co.za/vodacom/terms/privacy-policy">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>desktop-273-16-05-2014</title><script type="text/javascript">var wlp_title_repl_C_t_PORTCozaContentManagementContext_1_elem=document.getElementById('wlp_title_repl_C_t_PORTCozaContentManagementContext_1');if(wlp_title_repl_C_t_PORTCozaContentManagementContext_1_elem!=null)wlp_title_repl_C_t_PORTCozaContentManagementContext_1_elem.innerHTML='PORTCozaContentManagementContext';</script><link rel="stylesheet" href="http://www.vodacom.co.za/vodacom/framework/skins/vodacom_skins/css/A.bootstrap.css.pagespeed.cf.6Jo7_TYJyc.css"><link rel="stylesheet" href="http://www.vodacom.co.za/vodacom/framework/skins/vodacom_skins/css/A.style.css.pagespeed.cf.P_GMA4Sf0T.css"><link rel="stylesheet" href="http://www.vodacom.co.za/vodacom/framework/skins/vodacom_skins/css/A.style2.css.pagespeed.cf.jVwMA0IVqm.css"><script src="http://www.vodacom.co.za/vodacom/framework/skeletons/vodacom-skeletons/js/lib/jquery.js.pagespeed.jm.ZzSiN_5Whq.js"></script><script src="http://www.vodacom.co.za/vodacom/framework/skeletons/vodacom-skeletons/js/lib/jquery-ui.js.pagespeed.jm.ZBL-jJL_yz.js"></script><script src="http://www.vodacom.co.za/vodacom/framework/skeletons/vodacom-skeletons/js/lib,_jquery.ui.touch-punch.js,Mjm.IgBxQOkuWh.js+selectivizr.js,Mjm.MgneI3My5-.js.pagespeed.jc.scL67x_hyy.js"></script><script>eval(mod_pagespeed_4z1quY1BuU);</script><script>eval(mod_pagespeed_bmS_0jfqU2);</script><link rel="shortcut icon" type="image/x-icon" href="/vodacom/framework/skins/vodacom_skins/img/favicon-new.ico"></head><body><div id="tealium_body_mbox_desktop-273-16-05-2014_78d2e67a3d7048c3b1b2c0adabe7a1af">
+<header role="banner"><script>var ctx="/vodacom";var sendOmnitureError=false;var currentWebApp="";if(currentWebApp==""){currentWebApp="vodacom";}</script>
 <!--googleoff: all-->
-
-
-
-
-
-
-<script type="text/javascript">
-	function manageCreditCardDetails() {
-		
-	}
-</script>
-
-<div class="mod2Col">
-		<div class="modHeader">
-  		<h2>About this site</h2>
-		</div>
-		<div class="modBody">
-			<div class="modCopy clearfix">
-				<ul id="subnav">
-		<li class="current selected">
-              <a href="javascript:performAjaxPageNavigation('/com/main/privacypolicy');"> Privacy policy </a>
-		</li>
-		<li>
-              <a href="javascript:performAjaxPageNavigation('/com/main/termsconditions');"> Terms and conditions </a>
-		</li>
-		<li>
-              <a href="javascript:performAjaxPageNavigation('/com/main/sitemap');"> Sitemap </a>
-		</li>
-				</ul>
-			</div>
-		</div>
+<link href="http://www.vodacom.co.za/vodacom/portrespmenuassets/css/A.megamenu_resp.css.pagespeed.cf.W9FxODHcwj.css" rel="stylesheet">
+<div class="container-fluid" role="menubar" style="position:relative" data-issso="">
+<style type="text/css">.rhombus-box{display:block;height:600px;left:-918px;opacity:1;overflow:hidden;position:absolute;top:-11px;width:973px;z-index:500}.rhombus-box_sml{display:none}@media only screen and (max-width:817px){.rhombus-box{display:none}.rhombus-box_sml{display:block;height:100px;left:-927px;opacity:1;overflow:hidden;position:absolute;top:-37px;width:967px;z-index:500}}html[data-useragent*="MSIE 7.0"] .infoTop{margin-top:-20px}html[data-useragent*="MSIE 7.0"] .infoMiddle{margin-top:0px!important}html[data-useragent*="MSIE 7.0"] #cboxClose{width:4px;height:4px}html[data-useragent*="MSIE 7.0"] #LoginForm input[type="checkbox"]{margin-top:0px!important}html[data-useragent*="iPhone"] .currencyField{padding-left:20px;padding-top:8px}html[data-useragent*="iPad"] .currencyField{padding-left:20px;padding-top:8px}html[data-useragent*="iPhone"] .currencySpan{top:31px}html[data-useragent*="iPad"] .currencySpan{top:31px}html[data-useragent*="MSIE 7.0"] .mod-plan-item ul li figure figcaption{left:0px;padding-right:40px!important}html[data-useragent*="MSIE 7.0"] #internet .allBoxes .boxes{float:left}html[data-useragent*="MSIE 7.0"] #insurance .allBoxes .boxes{position:relative!important}html[data-useragent*="MSIE 7.0"] .lifestyleCalc .counterBox{list-style-type:none!important;margin:5px 5px 15px 0px!important}@media only screen and (max-width:817px){html.touch i.imgFadePlanTable{position:absolute;width:51px;height:100%;background:url(http://www.vodacom.co.za/vodacom/img/pricingInformation/shadow-left.png) repeat-y scroll left bottom transparent;right:0;z-index:99!important;top:0}html i.imgFadePlanTable{position:absolute;width:51px;height:100%;background:none;right:0;z-index:99!important;top:0}.max-width-817-hide{display:none}}.breadcrumbs ul{display:inline-block;float:left;line-height:10px}.breadcrumbs ul .breadcrumbsPrefix{color:#e60000;font-weight:700}.breadcrumbs ul li{float:left;padding:5px}.breadcrumbs ul li a{color:#616161;padding:0;text-decoration:underline}.breadcrumbs ul li:last-child a{font-weight:700;text-decoration:none}</style>
+<div class="rhombus-box" id="rhombusBox"><img pagespeed_no_defer="" src="http://www.vodacom.co.za/vodacom/framework/skins/vodacom_skins/img/xrhombus.png.pagespeed.ic.Mf1NS1_Wja.png"></div>
+<div class="rhombus-box_sml" id="rhombusBox"><img pagespeed_no_defer="" src="http://www.vodacom.co.za/vodacom/framework/skins/vodacom_skins/img/xrhombus_sml.png.pagespeed.ic.yY-trcMYy6.png"></div>
+<a href="/" class="m-logo">
+<img pagespeed_no_defer="" src="http://www.vodacom.co.za/vodacom/framework/skins/vodacom_skins/img/xvodacom-logo.png.pagespeed.ic.fKxIH13Hzl.png" alt="Vodacom Logo">
+</a>
+<a href="/" class="logo">
+<img pagespeed_no_defer="" src="http://www.vodacom.co.za/vodacom/framework/skins/vodacom_skins/img/logo_44px_word.png.pagespeed.ce.tKy-5gjnpp.png" alt="Vodacom Logo">
+</a>
+<nav id="main-nav" role="navigation">
+<ul class="nav-bus">
+<li class="a-dbl">
+<div id="loginBtnDiv" style="display:none">
+<a href="/vodacom/log-in">
+Log in
+</a><span class="loginPipe">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+<a href="/vodacom/registration?INITIAL_STATE=INITIAL_STATE">
+Register
+</a>
 </div>
-
-
-<script type="text/javascript">
-	$('li[class=current]').parents('ul').show();
-</script>
-
-
-<!--googleon: all-->
-
-<script type="text/javascript">
-        	    var wlp_title_repl_C_t_1870001_elem = document.getElementById('wlp_title_repl_C_t_1870001');
-        	    if (wlp_title_repl_C_t_1870001_elem != null) wlp_title_repl_C_t_1870001_elem.innerHTML = 'VodacomCozaSideMenu';
-        	</script></div></div><div id="mainContent" class="tenColumn"><div class="mod10Col" placeholder="placeholder"><div></div><div style="display:none">&nbsp;</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<form method="post" id="instance1364496711244ContentForm" name="instance1364496711244ContentForm">
-	<div class="modHeader">
-    <h2 style="line-height: 35px;">Privacy policy</h2>
+<div id="logoutBtnDiv" style="display:none">
+<a id="loggedInHref" name="loggedInHref" href="/personal/foraccount?partialURL=accountsummary" style="color: #CA0000"> </a>,&nbsp;
+<a href="javascript:doTopMenuLogOutAction()">
+Log out
+</a>
 </div>
-<div class="modBody clearfix">
-	<div class="modCopy modHeight680">
-		<p>
-	Vodacom and all its associated companies are committed to respecting the privacy of your personal data. To demonstrate our commitment, Vodacom has created this Security and Privacy Statement in order to communicate its intent to provide effective processes for the appropriate handling of such private information and to comply with applicable legislation that governs the authentication, protection and disclosure of personal information.</p>
-<p>
-	&nbsp;</p>
-<h3 class="heading">
-	What types of information are Vodacom collecting, and how do we do it?</h3>
-<p>
-	&nbsp;</p>
-<p>
-	You will be able to explore the majority of the Services offered on this web site without us collecting any identifiable information from you. For the purpose of business communications, administration and transacting we may collect and use personal information, for example: your name, address, telephone number, e-mail and/or account details. This will enable us to:</p>
-<p>
-	Respond to queries or requests submitted by you;</p>
-<p>
-	Process orders or applications;</p>
-<p>
-	Resolve problems with goods and services previously supplied; and/or</p>
-<p>
-	Create products or services that may meet your future requirements.</p>
-<p>
-	Vodacom will collect, store, process, transmit or otherwise handle private information only with the knowledge and consent of you, our customer. Mostly, this is done by completing an online form.</p>
-<p>
-	&nbsp;</p>
-<h3 class="heading">
-	The use of Cookies</h3>
-<p>
-	&nbsp;</p>
-<p>
-	We may store some information (commonly known as a "cookie") on your computer when you visit our web site. This enables Vodacom to recognise you during subsequent visits. The type of information gathered is non-personal (such as: the IP address of your computer, the date and time of your visit, which pages you browsed and whether the pages have been delivered successfully. Apart from merely establishing basic connectivity and communications, Vodacom may also use this data in aggregate form to develop customised services - tailored to your individual interests and needs. Should you choose to do so, it is possible (depending on the browser you are using), to be prompted before accepting any cookies, or to prevent your browser from accepting any cookies at all. This will however cause certain features of the web site not to be accessible.</p>
-<p>
-	&nbsp;</p>
-<h3 class="heading">
-	What about the security of my personal data?</h3>
-<p>
-	&nbsp;</p>
-<p>
-	Vodacom have implemented technology, policies and processes aimed at protecting the confidentiality, integrity and availability of your personal information. We will update and refine these measures on an ongoing basis. Please note that Vodacom cannot be responsible for the privacy policies and practices of other web sites you may access using links from this website. We recommend that you check the policy of each site you visit and that you contact that specific organisation if you have any concerns or questions. Please be aware that Internet communications are inherently insecure unless they have been encrypted. Your communications may be routed through any number of countries before reaching our web site. Vodacom therefore assumes no responsibility or liability of any nature whatsoever for the interception or loss of personal information beyond our control.</p>
-<p>
-	&nbsp;</p>
-<h3 class="heading">
-	Will Vodacom disclose any of my personal information?</h3>
-<p>
-	&nbsp;</p>
-<p>
-	Vodacom does not distribute any of your personal information to third parties; unless it's required to deliver the products or services requested by you. In addition, Vodacom will not sell your personal information to third parties unless you give us your specific permission to do so. For example, we may disclose your data to a credit card company to obtain payment for a purchase you initiated. It may also be necessary to pass on your data to a supplier who will deliver the product on order. In addition, Vodacom may be obligated to disclose personal information to meet any legal or regulatory requirements of applicable laws.</p>
-<p>
-	&nbsp;</p>
-<h3 class="heading">
-	Amendments to this Security and Privacy Statement</h3>
-<p>
-	&nbsp;</p>
-<p>
-	Vodacom reserves the right to amend or modify this Security and Privacy statement at any time in response to new privacy legislation.</p>
-<p>
-	&nbsp;</p>
-<p>
-	Whilst your name and e-mail address which is supplied to us when registering for the Services will not automatically be made available to the recipient of your SMS, we nevertheless are able to trace the source of an SMS, and such information will be made available to the authorities if required by law.</p>
-<p>
-	&nbsp;</p>
-<p>
-	Monitoring or recording of your calls, e-mails or SMS's may take place for business purposes to the extent permitted by law, such as for example quality control, detecting fraud and training for the purposes of marketing and improving the Services. However, in these situations, we will not disclose information that could be used to personally identify you.</p>
-
-	</div>
-</div>
-
-	
-</form>
-<script type="text/javascript">
-        	    var wlp_title_repl_C_t_1870002_elem = document.getElementById('wlp_title_repl_C_t_1870002');
-        	    if (wlp_title_repl_C_t_1870002_elem != null) wlp_title_repl_C_t_1870002_elem.innerHTML = 'PORTCozaWCM';
-        	</script></div></div></div><script type="text/javascript">
-               		var vcozaCurrentPageLabel = "privacypolicy";
-               </script></div><div class="grid"><div class="footer"><div></div><div style="display:none">&nbsp;</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<form method="post" id="PORTCozaWCMStatic_1ContentForm" name="PORTCozaWCMStatic_1ContentForm">
-	<!-- Ontime ref #3172, 2013-09-02 -->
-<!--googleoff: all-->
-
-
-<!--[if lte IE 8]>
-<style type="text/css">
-.rhombus-box {
-	left: -1002px;
-}
-</style>
-<![endif]-->
-<!--[if IE 7]>
-<style type="text/css">
-.logo_ds img {	
-	position: relative;
-	left: 10px;
-	top: 0px;
-}
-
-.square-btn {
-	line-height
-}
-
-</style>
-<![endif]-->
-<style type="text/css">
-.form-box-body {
-background-color: #fff;
-padding: 0 20px 20px 20px;
-overflow: auto;
-}
-
-
-.form-row {
-width: 100%;
-padding: 2px 0;
-margin-bottom: 16px;
-overflow: auto;
-}
-
-.form-label {
-float: left;
-width: 250px;
-padding: 6px 10px 0 0;
-text-align: right;
-font-weight: bold;
-font-size: 13px;
-}
-
-.form-field {
-background: #f0f0f0;
-background: -webkit-linear-gradient(#f0f0f0,#fff);
-background: -moz-linear-gradient(#f0f0f0,#fff);
-background: -ms-linear-gradient(#f0f0f0,#fff);
-background: linear-gradient(#f0f0f0,#fff);
-border-radius: 2px;
-float: left;
-}
-
-.backPage:hover {
-color: #333;
-}
-
-input.input-field:focus, .form-field select:focus {
-border: 3px solid #a9b400;
-outline: 0;
-padding: 4px;
-}
-
-input.input-field {
-padding: 6px;
-margin: 2px;
-border: 1px solid #b3b3b3;
-width: 320px;
-}
-
-.form-field-radio {
-float: left;
-}
-
-.form-padding {
-margin-left: 260px;
-}
-</style>
-<style type="text/css">
-
-.selectHighlight {
-  background-color: #818181;
-  color: #FFFFFF !important;
-}
-
-.footerHeading {
-    color: #FFFFFF;
-    font-family: Arial,Helvetica,sans-serif;
-    font-size: 16px;
-    font-weight: bold;
-    line-height: 24px;
-}
-
-/* tempfix for css -laubscjo 2013-08-13 */ 
-
-/* right-hand side collapsible/expandable boxes */ 
-.mod3ColSidebar .modBodySidebar {
-  width: 230px;
-}
-
-.mod3ColSidebar .title h2 a {
-  width: 194px;
-}
-
-.collapse, .expand {
-  background-image: url(../img/backgrounds/button_open_close.gif) ;
-  background-repeat: no-repeat;
-  background-position: right 0;
-}
-
-.collapse:hover, .expand:hover,
-.collapse:active, .expand:active,
-.collapse:focus, .expand:focus {
-  background-image: url(../img/backgrounds/button_open_close_hover.gif);
-}
-
-.expand, .expand:hover {
-  background-position: right -65px;
-}
-
-/* carousel navigation positioning */
-.nav a.activeSlide:link, .nav a.activeSlide:visited {
-  background-position: -563px -1260px; 
-}
-
-.nav a:hover, .nav a:focus, .nav a:active,
-.nav a.activeSlide:hover, .nav a.activeSlide:focus, .nav a.activeSlide:active {
-  background-position: -563px -1268px; 
-}
-
-/* herospace controls */
-.herospace {
-  position: relative;
-  padding: 0 0 16px 0;
-  height:275px;
-}
-
-.heroDisplayControl {
-  position: absolute;
-  top: 5px;
-  right: 15px;
-  z-index: 7;
-}
-
-.heroDisplayControl a {
-  display: block;
-}
-
-.herospaceControls {
-  position: absolute;
-  top: 5px;
-  right: 40px;
-  z-index: 7;
-}
-
-.herospaceControls a {
-  display: block;
-  float: right;
-}
-
-.herospaceControls .nav {
-  border-left: 1px solid #e8e8e8;
-    border-top: 1px solid #e8e8e8;
-    border-bottom: 1px solid #e8e8e8;
-    background-color: #fafafa;
-    display: block;
-    float: right;
-    padding: 2px 0 2px 5px;
-  margin: 0px;
-    height: 14px;
-}
-
-.herospaceControls .nav a {
-  float: left;
-}
-
-.controlsInHeader{
-  position:absolute;
-  top:44px;
-  right:6px;
-  height:30px;
-  z-index:998;
-}
-.controlsInHeader .nav {
-  margin:0 6px 0 0;
-}
-.controlsInHeaderSlides{
-  height:295px;
-  overflow:hidden;
-}
-/* Carousel Container content styles */
-.carouselContainer h3 {
-  padding-top:10px;
-}
-.carouselContainer p {
-  padding-bottom:6px;
-}
-
-/* Single characteristic classes */
-.pad10{
-  padding:10px; 
-}
-
-.hybridForm{
-  margin:0px; 
-  width:auto;
-    border:none;
-    padding:0px;
-}
-
-.termsFrame{
-  border: 1px solid lightGrey;
-  width: 100%; 
-}
-
- 
-</style>
-<!-- VB Footer -->
-
-<!--[if lte IE 8]>
-<style type="text/css">
-.rhombus-box {	
-	background-image: url("/cs/groups/public/documents/vodacom.co.za_portal_webassets/rhombus_bg_new.png");
-	height: 667px;
-	background-position-x: 22px;
-	background-position-y: 0px;	 
-}
-
-.rhombus-box img {
-	top: 22px;
-
-}
-</style>
-<script type="text/javascript">
-/*$(document).ready(function() {
-var location = window.location.pathname;
-if ()
-	$(".rhombus-box").css("left","-1002px");
-	$(".rhombus-box img").css("top","22px");
-});*/
-</script>
-<![endif]--> 
-<ul class="first" id="thisfooter">
-                <li>
-                               <h4><a href="#">About Us</a></h4>                         
-                </li>                       
-                 
-                                
-                                <li>
-                                                <a href="/com/aboutus/whereweare" title="Where we are">Where we are</a>
-                                </li>
-                                                  
-                                    <li>
-                                                <a href="/com/aboutus/boardofdirectors" title="Meet the board">Meet the board</a>
-                                </li>
-                                                  
-                                    <li>
-                                                <a href="/com/aboutus/sustainabilityreports" title="Sustainability reports">Sustainability reports</a>
-                                </li>
-                                                  
-                                    <li>
-                                                <a href="/com/press/mediacontactscontactus" title="Contact us">Contact us</a>
-                                </li>
-                                                  
-            
-
-</ul>
- 
-<ul>
-                <li>
-                                <h4><a href="#">Vodacom in your country</a></h4>
-                </li>                       
-                 
-                                
-                                <li>
-                                                <a href="http://www.vodacom.co.za/" title="South Africa">South Africa</a>
-                                </li>
-                                                  
-                                    <li>
-                                                <a href="http://www.vodacom.co.ls/" title="Lesotho">Lesotho</a>
-                                </li>
-                                                  
-                                    <li>
-                                                <a href="http://www.vodacom.com.ng" title="Nigeria">Nigeria</a>
-                                </li>
-                                                  
-                                    <li>
-                                                <a href="http://www.vm.co.mz/" title="Mozambique">Mozambique</a>
-                                </li>
-                                                  
-                                    <li>
-                                                <a href="http://www.vodacom.co.tz/" title="Tanzania">Tanzania</a>
-                                </li>
-                                                  
-                                    <li>
-                                                <a href="http://www.vodacom.cd/" title="DRC">DRC</a>
-                                </li>
-                                                  
-            
-
-</ul>
- 
-<ul>
-                <li>
-                                <h4><a href="#">Press</a></h4>
-                </li>                       
-                 
-                                
-                                <li>
-                                                <a href="/com/press/allpressreleases" title="All press releases">All press releases</a>
-                                </li>
-                                                  
-                                    <li>
-                                                <a href="/com/aboutus/searchpressreleases" title="Search press releases">Search press releases</a>
-                                </li>
-                                                  
-                                    <li>
-                                                <a href="/com/aboutus/registerforpressreleases" title="Register for press releases">Register for press releases</a>
-                                </li>
-                                                  
-                                    <li>
-                                                <a href="/com/press/mediacontactscontactus" title="Media contacts">Media contacts</a>
-                                </li>
-                                                  
-            
-
-</ul>
- 
-<ul>
-                <li>
-                                <h4><a href="#">Investor Relations</a></h4>
-                </li>                       
-                 
-                                
-                                <li>
-                                                <a href="/com/aboutus/shareprice" title="Share price">Share price</a>
-                                </li>
-                                
-                                                  
-                                    <li>
-                                                <a href="/com/aboutus/annualreports" title="Annual reports">Annual reports</a>
-                                </li>
-                                
-                                                  
-                                    <li>
-                                                <a href="/com/aboutus/webcasts" title="Webcasts">Webcasts</a>
-                                </li>
-                                
-                                                  
-            
-
-<li class="networkingLinks">
-                
-                                  
-        
-
+</li>
+<li>
+<a href="/vodacom/shopping/basket">
+<i class="i-bask"></i>
+<span id="menuBasket" class="count">0</span>
+</a>
+</li>
+<li>
+<a href="http://help.vodacom.co.za/personal/contactus/">
+Contact us
+</a>
+</li>
+<li class="n-left a-dbl current">
+<a href="http://www.vodacom.co.za/vodacom/home">
+Personal
+</a> |
+</li>
+<li class="n-left a-dbl">
+<a href="http://www.vodacombusiness.co.za/business/home">
+Business
+</a> |
+</li>
+<li class="n-left a-dbl">
+<a href="http://www.vodacombusiness.co.za/corporate/home">
+Corporate
+</a>
+<br class="clear">
 </li>
 </ul>
- 
-<ul><li class="heading"><a href="#">About this site</a></li>                      
-                 
-                                
-                                <li>
-                                                <a href="/com/main/privacypolicy" title="Privacy policy">Privacy policy</a>
-                                </li>
-                                                  
-                                    <li>
-                                                <a href="/com/main/termsconditions" title="Terms and conditions">Terms and conditions</a>
-                                </li>
-                                                  
-            
-
-</ul>
-                <ul class="last">
-                                <li class="heading">
-                                                <a href="#">Foundation</a>
-                                </li>                       
-                                 
-                                                
-                                                <li>
-                                                                <a href="/com/aboutus/foundationsouth" title="Vodacom foundation SA">Vodacom foundation SA</a>
-                                                </li>
-                                                                  
-                                                                <li>
-                                                                <a href="/com/aboutus/changetheworld" title="Vodacom change the world">Vodacom change the world</a>
-                                                </li>
-                                                                  
-                        
-                
-                </ul>
-<p class="notices">© 2013 Vodacom (Pty) Limited.</p>
-  
+<div class="nav-primary">
+<div id="nav-custom" class="navbar navbar-inverse navbar-fixed-top">
+<div class="container">
+<div class="navbar-header">
+<a class="navbar-toggle btn-navbar menu" data-target="main">
+<span id="menu"><img src="http://www.vodacom.co.za/vodacom/framework/skins/vodacom_skins/img/xiconNavMenuMobile.png.pagespeed.ic.yaiE2QMX4D.png"></span>
+</a>
+<a class="navbar-toggle btn-navbar search" data-target="search">
+<span id="search-mbl-lrg">&nbsp;</span>
+</a>
+<a class="navbar-toggle btn-navbar basket" href="/vodacom/shopping/basket">
+<span id="basket-mbl-lrg"><sup>0</sup></span>
+</a>
+</div>
+<div class="collapse navbar-collapse" data-menu="main">
+<ul id="nav-menu" class="nav navbar-nav">
+<li>
+<style type="text/css">ul#nav-menu div#mdMenuControl>a#mdMenuControlBtn:hover{background:none repeat scroll 0 0 #680f6b!important;color:#fff!important;-moz-border-radius:4px!important;-ms-border-radius:4px!important;-o-border-radius:4px!important;-webkit-border-radius:4px!important;border-radius:4px!important;text-decoration:none!important;box-shadow:0 1px 3px rgba(50,50,50,.75)}ul#nav-menu div#mdMenuControl>a#mdMenuControlBtn{background:none repeat scroll 0 0 #9c2aa0!important;color:#fff!important;margin-left:20px;font-size:18px!important;border-radius:4px!important;box-shadow:0 1px 3px rgba(50,50,50,.75)}</style>
+<!--[if lte IE 8]>
 <style type="text/css">
-  .phoneTitle {
-  
-  	position: relative;
-    width: 164px;
-    height: 244px;
-    padding-left: 2px;
-    padding-right: 2px;
-  }
-  
-  .phoneItem {
-    height: 343px;
-    overflow: hidden;
-  }
 
- 
- 
+#nav-menu a.megamenuOption_ds {	
+	border-right: none !important;
+	font-size: 14px !important;
+	line-height: 4px !important;
+
+}
+
+#nav-menu a.megamenuTitle_ds {
+	border-right: none !important;
+	font-size: 16px !important;
+	line-height: 4px !important;
+}
+
+#nav-menu .megamenuControl_ds a {
+	border-right: none !important;
+}
+
 </style>
-<!-- temp fix for IE 8 for the lightbox iframe that was showing as white block in footer - remove when permanant fix has been deployed-->
+<![endif]-->
+<a class="megamenuBtn_ds mmdClosed cm-content-boundary" data-target="#null" data-for="megamenu1FB4D41C691E77733F4C757C24FF6D87AB6E17AE">
+Shopping
+</a>
+<div class="megamenu_ds hidden_ds" id="megamenu1FB4D41C691E77733F4C757C24FF6D87AB6E17AE" style="display: none;">
+<ul class="megamenuList_ds">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Specials</a></li>
+<li class="megamenuList_item"><a href="/vodacom/shopping/summer?icmp=Internal/MDD/Specials/R1/SummerDeals" class="megamenuOption_ds" tracklinkname="Summer deals">Summer deals</a></li>
+<li class="megamenuList_item"><a href="/vodacom/shopping/holiday-specials?icmp=Internal/MDD/Specials/R2/HolidaySpecials" class="megamenuOption_ds" tracklinkname="Holiday specials">Holiday specials</a></li>
+<li class="megamenuList_item"><a href="/vodacom/shopping/xperia-z3-family?icmp=Internal/MDD/Specials/R3/XperiaZ3Family" class="megamenuOption_ds" tracklinkname="Sony Xperia-Z3-family">Sony Xperia Z3 family</a></li>
+</ul>
+<ul class="megamenuList_ds">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Devices</a></li>
+<li class="megamenuList_item"><a href="/vodacom/shopping/whats-new?icmp=Internal/MDD/Specials/R1/WhatsNew" class="megamenuOption_ds" tracklinkname="What's new">What's new</a></li>
+<li class="megamenuList_item"><a href="/vodacom/shopping/tablets?icmp=Internal/MDD/Specials/R2/Tablets" class="megamenuOption_ds" tracklinkname="Tablet deals">Tablet deals</a></li>
+<li class="megamenuList_item"><a href="/vodacom/shopping/laptops?icmp=Internal/MDD/Specials/R3/Laptops" class="megamenuOption_ds" tracklinkname="Laptop deals">Laptop deals</a></li>
+</ul>
+<ul class="megamenuList_ds">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Voice plans</a></li>
+<li class="megamenuList_item"><a href="/vodacom/shopping/plans/plans?planType=Airtime%20plan&amp;paymentMode=Contract" class="megamenuOption_ds" tracklinkname="Smart &amp; Red Plans">Smart &amp; Red Plans</a></li>
+<li class="megamenuList_item"><a href="/vodacom/shopping/uchoose" class="megamenuOption_ds" tracklinkname="uChoose Flexi &amp; Smart">uChoose Flexi &amp; Smart</a></li>
+<li class="megamenuList_item"><a href="/vodacom/shopping/plans/plans?planType=Airtime%20plan&amp;paymentMode=Prepaid" class="megamenuOption_ds" tracklinkname="Prepaid">Prepaid</a></li>
+</ul>
+<ul class="megamenuList_ds last">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Data plans</a></li>
+<li class="megamenuList_item"><a href="http://www.vodacom.co.za/vodacom/shopping/data/data-for-your-tablet-laptop-router-or-dongle" class="megamenuOption_ds" tracklinkname="Broadband data">Broadband data</a></li>
+<li class="megamenuList_item"><a href="http://www.vodacom.co.za/vodacom/shopping/data/data-for-your-smartphone" class="megamenuOption_ds" tracklinkname="Smartphone data">Smartphone data</a></li>
+<li class="megamenuList_item"><a href="/vodacom/shopping/plans/plans?planType=Data%20plan&amp;paymentMode=Top%20Up" class="megamenuOption_ds" tracklinkname="Prepaid">Prepaid data</a></li>
+</ul>
+<div id="mdMenuControl" class="megamenuControl_ds">
+<a href="/vodacom/shopping/devices" id="mdMenuControlBtn" class="myNuweClass">Start shopping</a>
+</div>
+</div>
+</li>
+<li>
+<style type="text/css">ul#nav-menu div#mdMenuControl>a#mdMenuControlBtn:hover{background:none repeat scroll 0 0 #680f6b!important;color:#fff!important;-moz-border-radius:4px!important;-ms-border-radius:4px!important;-o-border-radius:4px!important;-webkit-border-radius:4px!important;border-radius:4px!important;text-decoration:none!important;box-shadow:0 1px 3px rgba(50,50,50,.75)}ul#nav-menu div#mdMenuControl>a#mdMenuControlBtn{background:none repeat scroll 0 0 #9c2aa0!important;color:#fff!important;margin-left:20px;font-size:18px!important;border-radius:4px!important;box-shadow:0 1px 3px rgba(50,50,50,.75)}</style>
+<!--[if lte IE 8]>
+<style type="text/css">
 
- 
-<!--iframe src='https://myvodacom.secure.vodacom.co.za/personal/updatesessions' frameborder='0' width='0' height='0'>
-</iframe-->
+#nav-menu a.megamenuOption_ds {	
+	border-right: none !important;
+	font-size: 14px !important;
+	line-height: 4px !important;
 
-<script type="text/javascript">
+}
 
-if (typeof console === 'undefined') {
-            console = {
-                  log : function() {                      
-                  }
-            };
-      }
+#nav-menu a.megamenuTitle_ds {
+	border-right: none !important;
+	font-size: 16px !important;
+	line-height: 4px !important;
+}
 
+#nav-menu .megamenuControl_ds a {
+	border-right: none !important;
+}
 
-jQuery(document).ready(function() {
-	$(".logo_ds").attr("href","/personal/main/home");
-	$(".slider-box .ui-slider").css("left","0px");
-	$(".slider-box .ui-slider").css("width","100%");
-	var thisUrl = window.location.pathname;
-	if (thisUrl.indexOf('comparephones') > -1) {
-		$(".warningIcon").hide();
-	}	
-		
-	jQuery("#lightboxDivContent").hide();
-	jQuery("#lowStock").css("display","none");	
-	
-	if($("ul.progressBar>li>a.current>span").length > 0 && $("ul.progressBar>li>a.current>span").text() === 'Personal details') {
-           $("div.fieldBox:eq(4)").hide();
-           $("div.fieldBox:eq(5)").hide();
-     }
-	
-	
-	if ($(".tabRadioBox").children("a").text() === 'Are you eligible for an upgrade? Click here')  {
-      $(".tabRadioBox").children("a").hide();
-    }
-		
-});
+</style>
+<![endif]-->
+<a class="megamenuBtn_ds mmdClosed cm-content-boundary" data-target="#null" data-for="megamenu4F80ABFF489E97BEEFC492D869DE545326F757A8">
+Services
+</a>
+<div class="megamenu_ds hidden_ds" id="megamenu4F80ABFF489E97BEEFC492D869DE545326F757A8" style="display: none;">
+<ul class="megamenuList_ds">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Popular</a></li>
+<li class="megamenuList_item"><a href="/vodacom/rewards/vodacom-talking-points" class="megamenuOption_ds" tracklinkname="vodacomtalkingpoints">Talking Points</a></li>
+<li class="megamenuList_item"><a href="/vodacom/shopping/plans/power-hour" class="megamenuOption_ds" tracklinkname="powerhour">Power Hour</a></li>
+<li class="megamenuList_item"><a href="http://www.vodacom.co.za/vodacom/services/e-school" class="megamenuOption_ds" tracklinkname="Vodacomeschool">Vodacom e-school</a></li>
+</ul>
+<ul class="megamenuList_ds">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Financial Solutions</a></li>
+<li class="megamenuList_item"><a href="/vodacom/services/financial-solutions/insurance/insurance" class="megamenuOption_ds" tracklinkname="Insurance">Insurance</a></li>
+<li class="megamenuList_item"><a href="/vodacom/services/financial-solutions/m-pesa" class="megamenuOption_ds" tracklinkname="m-pesa">m-pesa</a></li>
+</ul>
+<ul class="megamenuList_ds">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Convenience</a></li>
+<li class="megamenuList_item"><a href="/vodacom/coverage-map" class="megamenuOption_ds" tracklinkname="Coverage map">Coverage map</a></li>
+<li class="megamenuList_item"><a href="/vodacom/services/convenience-and-security/calling/vodafone-world" class="megamenuOption_ds" tracklinkname="internationalroaming ">International Roaming</a></li>
+<li class="megamenuList_item"><a href="/vodacom/services/internet/lte" class="megamenuOption_ds" tracklinkname="lte">LTE</a></li>
+</ul>
+<ul class="megamenuList_ds last">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Apps</a></li>
+<li class="megamenuList_item"><a href="/vodacom/services/app-store/my-vodacom-app" class="megamenuOption_ds" tracklinkname="My Vodacom app">My Vodacom app</a></li>
+<li class="megamenuList_item"><a href="/vodacom/services/app-store/vodafone-contacts" class="megamenuOption_ds" tracklinkname="Vodafone Contacts">Vodafone Contacts</a></li>
+</ul>
+<div id="mdMenuControl" class="megamenuControl_ds">
+<a href="/vodacom/services/services" id="mdMenuControlBtn" class="myNuweClass">View services</a>
+</div>
+</div>
+</li>
+<li>
+<style type="text/css">ul#nav-menu div#mdMenuControl>a#mdMenuControlBtn:hover{background:none repeat scroll 0 0 #680f6b!important;color:#fff!important;-moz-border-radius:4px!important;-ms-border-radius:4px!important;-o-border-radius:4px!important;-webkit-border-radius:4px!important;border-radius:4px!important;text-decoration:none!important;box-shadow:0 1px 3px rgba(50,50,50,.75)}ul#nav-menu div#mdMenuControl>a#mdMenuControlBtn{background:none repeat scroll 0 0 #9c2aa0!important;color:#fff!important;margin-left:20px;font-size:18px!important;border-radius:4px!important;box-shadow:0 1px 3px rgba(50,50,50,.75)}</style>
+<!--[if lte IE 8]>
+<style type="text/css">
 
-</script>
-<!--googleon: all-->
+#nav-menu a.megamenuOption_ds {	
+	border-right: none !important;
+	font-size: 14px !important;
+	line-height: 4px !important;
 
-	
+}
+
+#nav-menu a.megamenuTitle_ds {
+	border-right: none !important;
+	font-size: 16px !important;
+	line-height: 4px !important;
+}
+
+#nav-menu .megamenuControl_ds a {
+	border-right: none !important;
+}
+
+</style>
+<![endif]-->
+<a class="megamenuBtn_ds mmdClosed cm-content-boundary" data-target="#null" data-for="megamenuA5A573F94196E24164034E113A6408A79641108B">
+Help me
+</a>
+<div class="megamenu_ds hidden_ds" id="megamenuA5A573F94196E24164034E113A6408A79641108B" style="display: none;">
+<ul class="megamenuList_ds">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Popular</a></li>
+<li class="megamenuList_item"><a href="http://help.vodacom.co.za/personal/topics/1168/-SIM-and-PUK" class="megamenuOption_ds" tracklinkname="SIM and PUK">SIM and PUK</a></li>
+<li class="megamenuList_item"><a href="http://help.vodacom.co.za/personal/faq/224629/How-do-I-link-numbers-to-my-account/1166/53306" class="megamenuOption_ds" tracklinkname="Linking my numbers">Linking my numbers</a></li>
+<li class="megamenuList_item"><a href="http://help.vodacom.co.za/personal/subtopics/1157/-Billing/1158/eBilling" class="megamenuOption_ds" tracklinkname="activateebilling">Activate ebilling</a></li>
+</ul>
+<ul class="megamenuList_ds">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Device Support</a></li>
+<li class="megamenuList_item"><a href="http://help.vodacom.co.za/personal/#!/topics/98595/iPhone-6" class="megamenuOption_ds" tracklinkname="iPhone 5S">iPhone 6</a></li>
+<li class="megamenuList_item"><a href="http://help.vodacom.co.za/personal/topics/122950/Galaxy-Note-4" class="megamenuOption_ds" tracklinkname="Samsung Galaxy Note 4">Samsung Galaxy Note 4</a></li>
+<li class="megamenuList_item"><a href="http://help.vodacom.co.za/personal/topics/147900/Passport" class="megamenuOption_ds" tracklinkname="BlackBerry Passport">BlackBerry Passport</a></li>
+</ul>
+<ul class="megamenuList_ds">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">The basics</a></li>
+<li class="megamenuList_item"><a href="http://help.vodacom.co.za/personal/topics/1166/-Selfservice" class="megamenuOption_ds" tracklinkname="Self-service">Self-service</a></li>
+<li class="megamenuList_item"><a href="http://help.vodacom.co.za/personal/topics/1154/-Perfect-startup" class="megamenuOption_ds" tracklinkname="Perfect start-up">Perfect start-up</a></li>
+<li class="megamenuList_item"><a href="http://help.vodacom.co.za/personal/topics/15728/-Frequently-asked" class="megamenuOption_ds" tracklinkname="FAQs">FAQs</a></li>
+</ul>
+<ul class="megamenuList_ds last">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Get in touch</a></li>
+<li class="megamenuList_item"><a href="/vodacom/contact-us/find-a-store" class="megamenuOption_ds" tracklinkname="Findashop">Find a shop</a></li>
+<li class="megamenuList_item"><a href="http://community.vodacom.co.za" class="megamenuOption_ds" tracklinkname="Vodacom Community">Vodacom Community</a></li>
+<li class="megamenuList_item"><a href="http://help.vodacom.co.za/personal/contactus/" class="megamenuOption_ds" tracklinkname="contactus">Contact us</a></li>
+</ul>
+<div id="mdMenuControl" class="megamenuControl_ds">
+<a href="http://help.vodacom.co.za/personal/home" id="mdMenuControlBtn" class="myNuweClass">Get help</a>
+</div>
+</div>
+</li>
+<li>
+<style type="text/css">ul#nav-menu div#mdMenuControl>a#mdMenuControlBtn:hover{background:none repeat scroll 0 0 #680f6b!important;color:#fff!important;-moz-border-radius:4px!important;-ms-border-radius:4px!important;-o-border-radius:4px!important;-webkit-border-radius:4px!important;border-radius:4px!important;text-decoration:none!important;box-shadow:0 1px 3px rgba(50,50,50,.75)}ul#nav-menu div#mdMenuControl>a#mdMenuControlBtn{background:none repeat scroll 0 0 #9c2aa0!important;color:#fff!important;margin-left:20px;font-size:18px!important;border-radius:4px!important;box-shadow:0 1px 3px rgba(50,50,50,.75)}</style>
+<!--[if lte IE 8]>
+<style type="text/css">
+
+#nav-menu a.megamenuOption_ds {	
+	border-right: none !important;
+	font-size: 14px !important;
+	line-height: 4px !important;
+
+}
+
+#nav-menu a.megamenuTitle_ds {
+	border-right: none !important;
+	font-size: 16px !important;
+	line-height: 4px !important;
+}
+
+#nav-menu .megamenuControl_ds a {
+	border-right: none !important;
+}
+
+</style>
+<![endif]-->
+<a class="megamenuBtn_ds mmdClosed cm-content-boundary" data-target="#null" data-for="megamenu27C94630387144C54BA3D70363D4801DE5ADC8B5">
+My Vodacom
+</a>
+<div class="megamenu_ds hidden_ds" id="megamenu27C94630387144C54BA3D70363D4801DE5ADC8B5" style="display: none;">
+<ul class="megamenuList_ds">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Billing</a></li>
+<li class="megamenuList_item"><a href="https://myvodacom.secure.vodacom.co.za/vodacom/log-in" class="megamenuOption_ds" tracklinkname="My account">My account</a></li>
+<li class="megamenuList_item"><a href="https://myvodacom.secure.vodacom.co.za/personal/myaccount/myreports" class="megamenuOption_ds" tracklinkname="My bill">My bill</a></li>
+<li class="megamenuList_item"><a href="https://myvodacom.secure.vodacom.co.za/personal/myaccount/activeservices?INITIAL_STATE=INITIAL_STATE" class="megamenuOption_ds" tracklinkname="My services">My services</a></li>
+</ul>
+<ul class="megamenuList_ds">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Buy bundles</a></li>
+<li class="megamenuList_item"><a href="https://myvodacom.secure.vodacom.co.za/personal/myaccount/buybundles?INITIAL_STATE=INITIAL_STATE&amp;icmp=Home/Quicklink/BuyAirtime%3C/value" class="megamenuOption_ds" tracklinkname="Buy data">Buy data</a></li>
+<li class="megamenuList_item"><a href="https://myvodacom.secure.vodacom.co.za/personal/myaccount/buybundles?INITIAL_STATE=INITIAL_STATE&amp;icmp=Home/Quicklink/BuyAirtime%3C/value" class="megamenuOption_ds" tracklinkname="Buy airtime">Buy airtime</a></li>
+<li class="megamenuList_item"><a href="https://myvodacom.secure.vodacom.co.za/personal/myaccount/airtimetransfer?INITIAL_STATE=INITIAL_STATE" class="megamenuOption_ds" tracklinkname="Transfer airtime">Transfer airtime</a></li>
+</ul>
+<ul class="megamenuList_ds">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Messaging</a></li>
+<li class="megamenuList_item"><a href="https://myvodacom.secure.vodacom.co.za/personal/myaccount/sendsms?INITIAL_STATE=INITIAL_STATE" class="megamenuOption_ds" tracklinkname="SendFREESMS">Send FREE SMS</a></li>
+<li class="megamenuList_item"><a href="https://vodamail.secure.vodacom.co.za/vodamail_ui/?skipsso=true" class="megamenuOption_ds" tracklinkname="vodacomemail">Vodacom Email</a></li>
+</ul>
+<ul class="megamenuList_ds last">
+<li class="megamenuList_item"><a class="megamenuTitle_ds">Upgrade</a></li>
+<li class="megamenuList_item"><a href="/vodacom/shopping/devices?deviceType=1" class="megamenuOption_ds" tracklinkname="checkupgradestatus">Check upgrade status</a></li>
+</ul>
+<div id="mdMenuControl" class="megamenuControl_ds">
+<a href="https://myvodacom.secure.vodacom.co.za/vodacom/log-in" id="mdMenuControlBtn" class="myNuweClass">Log in to My Vodacom</a>
+</div>
+</div>
+</li>
+<li class="menuLinksMobile">
+<a href="http://www.vodacombusiness.co.za/business/home" data-target="#null">
+Business customer
+</a>
+</li>
+<li class="menuLinksMobile">
+<a href="http://www.vodacombusiness.co.za/corporate/home" data-target="#null">
+Corporate customer
+</a>
+</li>
+<li id="closeBtn">
+<a class="nav-close nav-close-sml only-sml" href="#" data-target="main">
+<div>
+<span>
+Close
+</span>
+<span class="i-arrow-up-grey mrgnTop">&nbsp;</span>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<!--googleoff: all--><div id="gs_psb" class="gs_psb"><form id="gs_psbFrm" name="gs" class="navbar-search dd-search" data-menu="search" method="post" onsubmit="return onSubmit();"><span id="gs_psb_glass" class="gs_search_glass"><img alt="Glass" src="http://www.vodacom.co.za/vodacom/img/xiconSearch.png.pagespeed.ic.9L7g9hfR8y.png"></span><span id="gs_psb_clear" class="gs_hide"><img alt="Clear" src="http://www.vodacom.co.za/vodacom/img/xsearch_clear_header.png.pagespeed.ic.v4iZ1JnO49.png"></span><span id="gs_psb_busy" class="gs_hide"><img src="http://www.vodacom.co.za/vodacom/img/preloader_clear.gif.pagespeed.ce.A849zISvEQ.gif" alt="Busy"></span><input name="q" id="search" class="i-search" placeholder="Search Vodacom" type="text" autocomplete="off"><input name="search-q" id="gs_search_go" type="submit" value="Go" class="btn-search"><div id="gs_psb_sayt_holder"></div><div id="searchCloseBtn"><a href="#" class="nav-close nav-close-sml"><div><span>Close</span><span class="i-arrow-up-grey mrgnBottom">&nbsp;</span></div></a></div></form></div><!--googleon: all-->
+</div>
+</div>
+<br class="clear">
+</div>
+</nav>
+<br class="clear">
+</div>
+<form id="loginNew" name="loginNew" method="post" autocomplete="off" accounturl="" logoutaction="/vodacom/appmanager/vodacom/desktop-273-16-05-2014?_nfpb=true&amp;_windowLabel=PortRespCozaMenu_1&amp;_urlType=action&amp;wlpPortRespCozaMenu_1_ATTR_ACTION_CLASS_NAME=za.vsp.portlet.portrespcozamenu.actions.LogoutAction">
 </form>
-<script type="text/javascript">
-        	    var wlp_title_repl_C_t_2282016_elem = document.getElementById('wlp_title_repl_C_t_2282016');
-        	    if (wlp_title_repl_C_t_2282016_elem != null) wlp_title_repl_C_t_2282016_elem.innerHTML = 'PORTCozaWCMStatic';
-        	</script></div></div><script language="JavaScript" type="text/javascript">	 
-				pageData();
-				$(window).ready(function() {
-					trackOmniture();
-				});
-				AjaxHelper.ready(pageData);
-				AjaxHelper.ready(trackOmniture);
-        </script></body></html>
+<!--googleon: all-->
+<script type="text/javascript">var wlp_title_repl_C_t_3066019_elem=document.getElementById('wlp_title_repl_C_t_3066019');if(wlp_title_repl_C_t_3066019_elem!=null)wlp_title_repl_C_t_3066019_elem.innerHTML='PortRespCozaMenu';</script></header><script type="text/javascript">if(typeof bookname=='undefined'){var bookname="book-273-16-05-2014";}</script><script type="text/javascript">var pageMetaData={"categoryLevel":1,"categoryPath":"/Terms","categoryURLPath":"/terms","currentDesktop":"desktop-273-16-05-2014","pageName":"Privacy Policy","pageURL":"privacy-policy","portalPath":"vodacom","weblogicPageName":"78d2e67a3d7048c3b1b2c0adabe7a1af"}</script><div id="tealium_page_mbox_desktop-273-16-05-2014_78d2e67a3d7048c3b1b2c0adabe7a1af">
+<main><div class="container-fluid padding" role="main"><div class="main-grid-full" placeholder="placeholder">
+<!--googleoff: all-->
+<section class="breadcrumbs">
+<ul aria-label="Breadcrumb Navigation">
+<li class="breadcrumbsPrefix">You are here:</li>
+<li class="max-width-817-hide"><a href="/vodacom/home">Home</a></li>
+<li class="max-width-817-hide">/</li>
+<li>
+Terms
+</li>
+<li>/</li>
+<li>
+<a id="BreadcrumbPageName">Privacy Policy</a>
+</li>
+</ul>
+<br class="clear">
+</section>
+<br class="clear">
+<!--googleon: all-->
+<script type="text/javascript">var wlp_title_repl_C_t_2610046_elem=document.getElementById('wlp_title_repl_C_t_2610046');if(wlp_title_repl_C_t_2610046_elem!=null)wlp_title_repl_C_t_2610046_elem.innerHTML='Breadcrumbs';</script>
+<h1 id="Privacy Policy" class="aloha-customized">Privacy Policy</h1>
+<script type="text/javascript">var wlp_title_repl_C_t_2610047_elem=document.getElementById('wlp_title_repl_C_t_2610047');if(wlp_title_repl_C_t_2610047_elem!=null)wlp_title_repl_C_t_2610047_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610048_elem=document.getElementById('wlp_title_repl_C_t_2610048');if(wlp_title_repl_C_t_2610048_elem!=null)wlp_title_repl_C_t_2610048_elem.innerHTML='Adv Content Management';</script>
+<section class="termsAndConditions description"><div class="pdClose">
+<h3 id="Terms_and_conditions" class="click">Terms &amp; Conditions</h3><div class="slide"><div class="grid"><div class="col w-100"><p><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">Vodacom and all its associated companies are committed to respecting the privacy of your personal data. To demonstrate our commitment, Vodacom has created this Security and Privacy Statement in order to communicate its intent to provide effective processes for the appropriate handling of such private information and to comply with applicable legislation that governs the authentication, protection and disclosure of personal information.</span></p><p><br></p><h4 id="What_types_of_information_are_Vodacom_collecting_and_how_do_we_do_it_"><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">What types of information are Vodacom collecting, and how do we do it?</span></h4><p><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">You will be able to explore the majority of the Services offered on this web site without us collecting any identifiable information from you. For the purpose of business communications, administration and transacting we may collect and use personal information, for example: your name, address, telephone number, e-mail and/or account details. This will enable us to:</span></p><p><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">Respond to queries or requests submitted by you;<br></span><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">Process orders or applications;<br></span><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">Resolve problems with goods and services previously supplied; and/or<br></span><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">Create products or services that may meet your future requirements.<br></span><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">Vodacom will collect, store, process, transmit or otherwise handle private information only with the knowledge and consent of you, our customer. Mostly, this is done by completing an online form.</span></p><p><br></p><h4 id="The_use_of_Cookies"><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">The use of Cookies</span></h4><p><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">We may store some information (commonly known as a "cookie") on your computer when you visit our web site. This enables Vodacom to recognise you during subsequent visits. The type of information gathered is non-personal (such as: the IP address of your computer, the date and time of your visit, which pages you browsed and whether the pages have been delivered successfully. Apart from merely establishing basic connectivity and communications, Vodacom may also use this data in aggregate form to develop customised services - tailored to your individual interests and needs. Should you choose to do so, it is possible (depending on the browser you are using), to be prompted before accepting any cookies, or to prevent your browser from accepting any cookies at all. This will however cause certain features of the web site not to be accessible.</span></p><p><br></p><h4 id="What_about_the_security_of_my_personal_data_"><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">What about the security of my personal data?</span></h4><p><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">Vodacom have implemented technology, policies and processes aimed at protecting the confidentiality, integrity and availability of your personal information. We will update and refine these measures on an ongoing basis. Please note that Vodacom cannot be responsible for the privacy policies and practices of other web sites you may access using links from this website. We recommend that you check the policy of each site you visit and that you contact that specific organisation if you have any concerns or questions. Please be aware that Internet communications are inherently insecure unless they have been encrypted. Your communications may be routed through any number of countries before reaching our web site. Vodacom therefore assumes no responsibility or liability of any nature whatsoever for the interception or loss of personal information beyond our control.</span></p><p><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;"><br></span></p><h4 id="Will_Vodacom_disclose_any_of_my_personal_information_"><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">Will Vodacom disclose any of my personal information?</span></h4><p><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">Vodacom does not distribute any of your personal information to third parties; unless it's required to deliver the products or services requested by you. In addition, Vodacom will not sell your personal information to third parties unless you give us your specific permission to do so. For example, we may disclose your data to a credit card company to obtain payment for a purchase you initiated. It may also be necessary to pass on your data to a supplier who will deliver the product on order. In addition, Vodacom may be obligated to disclose personal information to meet any legal or regulatory requirements of applicable laws.</span></p><p><br></p><h4 id="Amendments_to_this_Security_and_Privacy_Statement"><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">Amendments to this Security and Privacy Statement</span></h4><p><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">Vodacom reserves the right to amend or modify this Security and Privacy statement at any time in response to new privacy legislation.</span></p><p><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">Whilst your name and e-mail address which is supplied to us when registering for the Services will not automatically be made available to the recipient of your SMS, we nevertheless are able to trace the source of an SMS, and such information will be made available to the authorities if required by law.</span></p><p><span style="font-size: 15.555556297302246px; line-height: 25.925928115844727px;">Monitoring or recording of your calls, e-mails or SMS's may take place for business purposes to the extent permitted by law, such as for example quality control, detecting fraud and training for the purposes of marketing and improving the Services. However, in these situations, we will not disclose information that could be used to personally identify you.</span></p></div></div><div class="grid"><div class="col w-100"><ol><li><ol></ol></li></ol>
+</div>
+</div>
+</div>
+</div>
+</section>
+<script>$('.description > div > h3').click(function(event){var div=$(this).parent();if(div.hasClass('pdClose')){div.parent().find('.pdOpen').removeClass('pdOpen').addClass('pdClose');div.removeClass('pdClose').addClass('pdOpen');event.preventDefault();}
+else if(div.hasClass('pdOpen')){div.removeClass('pdOpen').addClass('pdClose');event.preventDefault();}});</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610049_elem=document.getElementById('wlp_title_repl_C_t_2610049');if(wlp_title_repl_C_t_2610049_elem!=null)wlp_title_repl_C_t_2610049_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610050_elem=document.getElementById('wlp_title_repl_C_t_2610050');if(wlp_title_repl_C_t_2610050_elem!=null)wlp_title_repl_C_t_2610050_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610051_elem=document.getElementById('wlp_title_repl_C_t_2610051');if(wlp_title_repl_C_t_2610051_elem!=null)wlp_title_repl_C_t_2610051_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610052_elem=document.getElementById('wlp_title_repl_C_t_2610052');if(wlp_title_repl_C_t_2610052_elem!=null)wlp_title_repl_C_t_2610052_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610053_elem=document.getElementById('wlp_title_repl_C_t_2610053');if(wlp_title_repl_C_t_2610053_elem!=null)wlp_title_repl_C_t_2610053_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610054_elem=document.getElementById('wlp_title_repl_C_t_2610054');if(wlp_title_repl_C_t_2610054_elem!=null)wlp_title_repl_C_t_2610054_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610055_elem=document.getElementById('wlp_title_repl_C_t_2610055');if(wlp_title_repl_C_t_2610055_elem!=null)wlp_title_repl_C_t_2610055_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610056_elem=document.getElementById('wlp_title_repl_C_t_2610056');if(wlp_title_repl_C_t_2610056_elem!=null)wlp_title_repl_C_t_2610056_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610057_elem=document.getElementById('wlp_title_repl_C_t_2610057');if(wlp_title_repl_C_t_2610057_elem!=null)wlp_title_repl_C_t_2610057_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610058_elem=document.getElementById('wlp_title_repl_C_t_2610058');if(wlp_title_repl_C_t_2610058_elem!=null)wlp_title_repl_C_t_2610058_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610059_elem=document.getElementById('wlp_title_repl_C_t_2610059');if(wlp_title_repl_C_t_2610059_elem!=null)wlp_title_repl_C_t_2610059_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610060_elem=document.getElementById('wlp_title_repl_C_t_2610060');if(wlp_title_repl_C_t_2610060_elem!=null)wlp_title_repl_C_t_2610060_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610061_elem=document.getElementById('wlp_title_repl_C_t_2610061');if(wlp_title_repl_C_t_2610061_elem!=null)wlp_title_repl_C_t_2610061_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610062_elem=document.getElementById('wlp_title_repl_C_t_2610062');if(wlp_title_repl_C_t_2610062_elem!=null)wlp_title_repl_C_t_2610062_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610063_elem=document.getElementById('wlp_title_repl_C_t_2610063');if(wlp_title_repl_C_t_2610063_elem!=null)wlp_title_repl_C_t_2610063_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610064_elem=document.getElementById('wlp_title_repl_C_t_2610064');if(wlp_title_repl_C_t_2610064_elem!=null)wlp_title_repl_C_t_2610064_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610065_elem=document.getElementById('wlp_title_repl_C_t_2610065');if(wlp_title_repl_C_t_2610065_elem!=null)wlp_title_repl_C_t_2610065_elem.innerHTML='Adv Content Management';</script>
+<script type="text/javascript">var wlp_title_repl_C_t_2610066_elem=document.getElementById('wlp_title_repl_C_t_2610066');if(wlp_title_repl_C_t_2610066_elem!=null)wlp_title_repl_C_t_2610066_elem.innerHTML='Adv Content Management';</script></div></div></main></div>
+<script type="text/javascript">var vcozaCurrentPageLabel="Privacy Policy";var tealiumPageName="";</script>
+<!--googleoff: all-->
+<style type="text/css">.ddl{position:relative}.ddl .loginDropDown{top:0px;float:right}.ddl .ddm{position:absolute!important;top:10px;right:-5px}.mod-fl-menu{background-position:-64px -1px}.mod-fl-menu ul li a{border-top:0 none}#expandedPanel{height:395px;width:381px}.mod-fl-menu .h4{line-height:1.333;margin:9px 0}.mod-fl-menu ins p{font-size:.94em;margin:0}.mod-fl-menu.collapsed{background-position:-6px -1px}.mod-fl-menu ul.fls{position:relative;height:255px}html[data-useragent*="MSIE 7.0"] .mod-fl-menu ul.fls{height:255px;width:40px;left:-5px}.mod-fl-menu .fl-links li{width:100%!important;padding:6px 0px}.mod-fl-menu ins{border:0px!important}</style>
+<!--[if lte IE 8]>
+
+<style text="css/text">
+	.mod-fl-menu{
+		right: 47.5% !important; 
+	}
+</style>
+<![endif]-->
+<div class="mod-fl-menu collapsed">
+<ul class="fls" id="panel">
+<li>
+<a href="#" data-sideitem="vodacomHelp"><strong>Help Me</strong></a>
+</li>
+<li>
+<a href="#" class="i-fl-help" data-sideitem="vodacomHelp"></a>
+</li>
+<li>
+<a href="#" class="i-fl-chat" data-sideitem="vodacomHelp"></a>
+</li>
+<li>
+<a href="#" class="i-fl-geo" data-sideitem="vodacomHelp"></a>
+</li>
+<li>
+<a href="#" class="i-fl-contact" data-sideitem="vodacomHelp">
+</a>
+</li>
+</ul>
+<div data-sideitem="vodacomHelp" style="display: none;" id="expandedPanel">
+<ins>
+<b class="h4">Sales and upgrades</b>
+<b class="h4">082 17844</b>
+<a href="http://help.vodacom.co.za/system/templates/selfservice/vodacom/#!portal/1000/cust_contact/14670/contactdetails/" target="_blank">Other contact details</a>
+<span class="clearfix"></span>
+<b class="h4">Find your nearest Vodacom shop</b>
+<br>
+<a href="/vodacom/contact-us/find-a-store" class="btn btnPurple">Find store</a>
+</ins>
+<ins>
+<b class="h4">Frequently asked questions</b>
+<ul class="fl-links">
+<li>
+<a href="http://help.vodacom.co.za/system/templates/selfservice/vodacom/#!portal/1000/topic/15730/Software-and-firmware-downloads/false/4/0" target="_blank">Software and firmware downloads</a>
+<a href="http://help.vodacom.co.za/system/templates/selfservice/vodacom/#!portal/1000/faqarticle/88209/I-recently-got-my-new-phonedevice-and-have-a-problem/true/16453" target="_blank">I got my new phone and have a problem?</a>
+<a href="http://help.vodacom.co.za/system/templates/selfservice/vodacom/#!portal/1000/faqarticle/94041/I-sent-an-email-to-Vodacom-why-have-I-not-had-any-feedback/true/17540" target="_blank">I sent an email, and have had no feedback?</a>
+<a href="http://help.vodacom.co.za/system/templates/selfservice/vodacom/#!portal/1000/faqarticle/84319/How-do-I-download-the-latest-My-Vodacom-app/true/15726" target="_blank">How do I download the My Vodacom App?</a>
+</li>
+</ul>
+<span class="clearfix"></span>
+<br>
+<a href="http://help.vodacom.co.za/system/templates/selfservice/vodacom/#!portal/1000" class="btn btnPurple">Visit Help me</a>
+</ins>
+</div>
+<p class="fl-hide" style="display: none;">Hide<span class="fl-close"> </span></p>
+</div>
+<!--googleon: all-->
+<script type="text/javascript">var wlp_title_repl_C_t_PORTCozaContentManagementFloatingMenu_1_elem=document.getElementById('wlp_title_repl_C_t_PORTCozaContentManagementFloatingMenu_1');if(wlp_title_repl_C_t_PORTCozaContentManagementFloatingMenu_1_elem!=null)wlp_title_repl_C_t_PORTCozaContentManagementFloatingMenu_1_elem.innerHTML='PORTCozaContentManagementFloatingMenu';</script><footer class="mod-footer">
+<!--[if lte IE 8]>
+
+<style text="css/text">
+.container-fluid {
+	max-width: 1024px !important;
+}
+
+
+</style>
+<![endif]-->
+<!--[if IE 9]>
+<style>
+#tealium_mbox_T252023836761396903521233 #formSection2 .formFields {
+    float:none !important;
+}
+</style>
+<![endif]-->
+<!--[if IE 8]>
+
+<style>
+
+#CallBackForm textarea#Comments {
+	border: 1px solid #d5d5d5 !important;
+}
+
+div.cover {
+	width: 900px;
+}
+
+div.cover a.viewAllPlans{
+	clear: both;
+	float: left;
+}
+
+
+/* Deals page Business */
+.centralObject .imageBox {
+	max-width: 100% !important;
+
+}
+
+/* Hosted CRM */
+#changeTabs {
+	display:none;
+}
+
+</style>
+<![endif]-->
+<!--googleoff: all-->
+<style type="text/css">
+
+/* Service Categories Mobile view Button Fix - laubscjo 07/17 */ 
+
+@media only screen and (max-width: 639px) {
+	.serviceCategories .scOpen a.btn {
+		width: 100%;
+		padding: 10px 10px 10px 8px !important;
+	}
+}
+
+
+/* heading height fix on description component - laubscjo 07/15 */
+.description .whyShould .boxes h3 {
+	height: 55px;
+}
+
+/* Indentation fix on ul li - laubscjo 07/17 */ 
+.howDo ul li {	
+	list-style-position: outside !important;
+	text-indent: 0em;
+	padding-left: 0em;
+	margin-left: 15px !important; 
+}
+
+/*Fixes - Table of contents css fixes - laubscjo 05/19*/
+
+.container-fluid .main-grid-full li a {
+	padding: none !important !important;
+} 
+
+
+.modShopFor section ul.plans li ul li a {
+	padding: 14px !important;
+	
+}
+
+.modShopFor section ul.devices li a {
+	padding: 16px 0 !important;
+
+}
+
+.modShopFor section ul.plans li ul li h3 {
+	font-size: 1.2em !important;
+	margin: 0 0 0 10px !important;
+	font-weight: bold !important;
+	color: #333333 !important;
+}
+
+select#priceplan {
+	background: none !important;	
+}
+
+select#model {
+	background: none !important;	
+}
+
+html[data-platform='iPad'] input, html[data-platform='iPad'] textarea, html[data-platform='iPad'] select {
+	border: 0 none;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	-moz-box-shadow: 0 1px 3px rgba(50, 50, 50, 0.75) inset;
+	-webkit-box-shadow: 0 1px 3px rgba(50, 50, 50, 0.75) inset;
+	-webkit-appearance: none;
+	box-shadow: 0 1px 3px rgba(50, 50, 50, 0.75) inset;
+	font-size: 14px;
+	padding: 10px;
+	width: 100%;
+
+}
+
+html[data-platform='iPhone'] input, html[data-platform='iPhone'] textarea, html[data-platform='iPhone'] select {
+	border: 0 none;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	-moz-box-shadow: 0 1px 3px rgba(50, 50, 50, 0.75) inset;
+	-webkit-box-shadow: 0 1px 3px rgba(50, 50, 50, 0.75) inset;
+	-webkit-appearance: none;
+	box-shadow: 0 1px 3px rgba(50, 50, 50, 0.75) inset;
+	font-size: 14px;
+	padding: 10px;
+	width: 100%;
+
+}
+
+
+html[data-useragent*='Safari'] #nav-custom {
+	height: 42px;		
+}	
+
+html[data-platform*='iPad'] .navbar-search input {
+	position: relative;
+	top: -4px;		
+}
+
+html[data-platform='iPhone'] #adobe-survey #adobe-survey-context #adobe-survey-browser .adobe-survey-question-container input.adobe-survey-checkbox, html[data-platform='iPhone'] #adobe-survey #adobe-survey-context #adobe-survey-browser .adobe-survey-question-container input.adobe-survey-radio {
+	-webkit-appearance:radio
+}
+
+@media only screen and (max-width: 480px) {
+    /*div.bvRating {
+		margin-left: 75px;
+		position: absolute;
+		top: 0;
+		margin-top:	42%;
+	} */
+	.phonesLi img {
+		height: auto;	
+	}
+}	
+
+.cf-login li.borderBox {
+	height: auto;
+}
+
+/* searchbox GSA fix fo Conner - laubscjo 05/24 */
+html[data-platform='iPad'] #gs_psbFrm #gs_search_go { 
+     position: absolute;  
+     top: -1px; 
+} 
+html[data-platform='iPad'] .gs_psb { 
+     margin-top: -39px; 
+} 
+html[data-platform='iPad'] #gs_psb_clear { 
+     margin-top: 3px;  
+     z-index: 1; 
+} 
+html[data-platform='iPad'] #gs_psb_glass { 
+     margin-top: 3px;  
+     z-index: 1; 
+}  
+html[data-platform='iPad'] #gs_psb_busy  { 
+     margin-top: 3px;  
+     z-index: 1; 
+}   
+
+@media only screen and (max-width: 817px) {
+	.preOrderNavigation li.IQN_seperator {
+	width: 28% !important;
+}
+
+@media only screen and (max-width: 480px) {
+	.preOrderNavigation li.IQN_seperator {
+	width: 25% !important;
+}
+
+
+@media only screen and (max-width: 714px) {
+
+	.preOrderNavigation .active .Step1of3Quote, .preOrderNavigation .active .Step2of3Quote, .preOrderNavigation .active .Step3of3Quote {
+		display:none !important;
+	}
+
+}
+
+@media only screen and (max-width: 370px) {
+
+	.preOrderNavigation li.IQN_seperator {
+		margin-left:-28px !important;
+		margin-right:-14px !important;
+		width: 21% !important;
+	}
+
+}
+
+@media only screen and (max-width: 714px) {
+.preOrderNavSuccess ul li.Step1Quote {
+	margin-left: 0px !important;
+	margin-right: -8px !important;
+	}
+	
+.preOrderNavSuccess ul li.Step2Quote {
+	margin-left: 4px !important;
+	margin-right: -11px !important;
+	}
+	
+.preOrderNavSuccess ul li.Step3Quote {
+	margin-left: 0px !important;
+	
+	}
+	
+}
+
+/*iphone 6 preOrder fixes - 10-16-2014*/
+
+@media only screen and (max-width: 480px) {
+
+.preOrderChoosePlans .preOrderChoosePlans .planItem .planContent .fm-check input{
+
+  		display: none !important;
+	}
+  
+.preOrderChoosePlans .preOrderChoosePlans .planItem .planContent .fm-check label{
+  		display: none !important;
+	}
+
+.preOrderChoosePlans .preOrderChoosePlans .planItem .planContent .fm-check span{
+  		display: none !important;
+	}
+	
+.preOrderChoosePlans .preOrderChoosePlans .planItem .planContent .fm-check span:first-child{
+  		display: block !important;
+	}
+
+ div.vettingComplete {
+		width: 100% !important;
+	
+	} 
+
+
+}
+
+
+
+@media only screen and (max-width: 974px) {
+.preOrderNav .preOrderNavSuccess .IQN_seperator {
+	width: 28% !important;
+}
+
+@media only screen and (max-width: 480px) {
+.preOrderNav .preOrderNavSuccess .IQN_seperator {
+	width: 27% !important;
+}
+
+@media only screen and (max-width: 400px) {
+.preOrderNav .preOrderNavSuccess .IQN_seperator {
+	width: 25% !important;
+}
+
+var strIphone = $(".phoneDetailsBox .phoneDetailsSection .phoneDetailsInfo").text();
+if (strIphone.indexOf("iPhone 6")) {
+    console.log("true");
+}
+
+
+
+/*iphone 6 preOrder fixes*/
+
+
+
+
+</style>
+<div class="container-fluid padding cm-content-boundary" role="main">
+<h2 class="access">Site links</h2>
+<div class="cols4">
+<div class="col active">
+<h3><a href="#">Vodacom South Africa</a></h3>
+<ul>
+<li>
+<a href="/vodacom/shopping/devices?deviceType=1" title="Cellphones">Cellphones</a>
+</li>
+<li>
+<a href="/vodacom/shopping/devices?deviceType=2" title="Tablets">Tablets</a>
+</li>
+<li>
+<a href="/vodacom/shopping/devices?deviceType=3" title="USB dongles/modems">USB dongles/modems</a>
+</li>
+<li>
+<a href="/vodacom/shopping/devices?deviceType=5" title="Routers">Routers</a>
+</li>
+<li>
+<a href="/vodacom/shopping/devices?deviceType=7" title="Sim Cards">Sim Cards</a>
+</li>
+<li>
+<a href="/vodacom/shopping/plans/plans" title="Price plans">Price plans</a>
+</li>
+<li>
+<a href="/vodacom/services/services" title="Services">Services</a>
+</li>
+<li>
+<a href="/vodacom/coverage-map" title="Coverage map">Coverage map</a>
+</li>
+<li>
+<a href="/vodacom/services/specific-needs" title="Specific Needs">Specific Needs</a>
+</li>
+</ul>
+</div>
+<div class="col">
+<h3><a href="#">Help me</a></h3>
+<ul>
+<li>
+<a href="http://help.vodacom.co.za/personal/topics/15728/-Frequently-asked" title="FAQs">FAQs</a>
+</li>
+<li>
+<a href="http://community.vodacom.co.za/" title="Support forums">Support forums</a>
+</li>
+<li>
+<a href="http://help.vodacom.co.za/personal/home" title="Tech support">Tech support</a>
+</li>
+<li>
+<a href="/vodacom/contact-us/find-a-store" title="Find a store">Find a store</a>
+</li>
+<li>
+<a href="/vodacom/terms/deliveries-and-returns-terms-and-conditions" title="Deliveries &amp; returns">Deliveries &amp; returns</a>
+</li>
+</ul>
+</div>
+<div class="col">
+<h3><a href="#">About us</a></h3>
+<ul>
+<li>
+<a href="/vodacom/vodacom-world" title="Vodacom World">Vodacom World</a>
+</li>
+<li>
+<a href="/vodacom/vodacom-millionaires" title="Vodacom Millionaires">Vodacom Millionaires</a>
+</li>
+<li>
+<a href="/vodacom/shopping/lifestyle-calculator" title="Lifestyle calculator">Lifestyle calculator</a>
+</li>
+<li>
+<a href="http://www.vodacom.com/com/aboutus/shareprice" title="Investors">Investors</a>
+</li>
+<li>
+<a href="http://www.vodacom.com/com/press/allpressreleases" title="Media">Media</a>
+</li>
+<li>
+<a href="http://www.vodacom.com/com/aboutus/foundationsouth" title="Corporate responsibility">Corporate responsibility</a>
+</li>
+<li>
+<a href="http://www.vodacom.com/com/main/careers/careersatvodacom" title="Careers">Careers</a>
+</li>
+<li>
+<a href="/vodacom/shopping/vodacom-shop-deals" title="Vodacom Shop deals booklet">Vodacom Shop deals booklet</a>
+</li>
+<li>
+<a href="/vodacom/vodacom-world-events" title="Vodacom World Events">Vodacom World Events</a>
+</li>
+</ul>
+</div>
+<div class="col">
+<h3><a href="#">Contact us</a></h3>
+<ul>
+<li>
+<a href="http://help.vodacom.co.za/personal/contactus/" title="Contact details">Contact details</a>
+</li>
+<li>
+<a href="http://help.vodacom.co.za/personal/reportscam/" title="Report scams &amp; hoaxes">Report scams &amp; hoaxes</a>
+</li>
+<li>
+<ul class="social-media">
+<li>
+<a href="http://www.twitter.com/vodacom" title="twitter">
+<img src="http://www.vodacom.co.za/cs/groups/public/documents/vodacom.co.za_portal_webassets/xtwitter_social_icon.png.pagespeed.ic.1GJ4Saotjf.png" alt="twitter social icon">
+</a>
+</li>
+<li>
+<a href="http://www.facebook.com/Vodacom" title="Facebook">
+<img src="http://www.vodacom.co.za/cs/groups/public/documents/vodacom.co.za_portal_webassets/xfacebook_socialicon.png.pagespeed.ic.KNxiLho_Tu.png" alt="facebook social icon">
+</a>
+</li>
+<li>
+<a href="http://www.youtube.com/user/VODACOMTV" title="You Tube">
+<img src="http://www.vodacom.co.za/cs/groups/public/documents/vodacom.co.za_portal_webassets/xyoutube_socialicon.png.pagespeed.ic.NWzf80y99H.png" alt="youtube social icon">
+</a>
+</li>
+<li>
+<a href="http://www.linkedin.com/company/vodacom" title="linkedin">
+<img src="http://www.vodacom.co.za/cs/groups/public/documents/vodacom.co.za_portal_webassets/xlinkedin_social_icon.png.pagespeed.ic.YhpGO01hPP.png" alt="linkedin social icon">
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="copy">
+<div class="container-fluid padding cm-content-boundary">
+<p class="cm-content-boundary">
+<a href="/vodacom/terms/website-terms-and-conditions">Terms &amp; conditions</a>
+© 2014 Vodacom
+</p>
+<ul>
+<li>| &nbsp;
+<a href="/vodacom/terms/legal-terms-and-conditions">Legal</a>
+</li>
+<li>
+<a href="/vodacom/terms/privacy-policy">Privacy Policy</a>
+</li>
+</ul>
+</div>
+<br class="clear">
+</div>
+<!--googleon: all-->
+<script type="text/javascript">var wlp_title_repl_C_t_3066020_elem=document.getElementById('wlp_title_repl_C_t_3066020');if(wlp_title_repl_C_t_3066020_elem!=null)wlp_title_repl_C_t_3066020_elem.innerHTML='PORTCozaContentManagementFooter';</script><script type="text/javascript">$(document).ready(function(){$('.ddl').unbind('click');$('.loginDropDown').on('click',function(event){event.stopPropagation();$('.ddl ul.ddm').toggle();});});$('html').click(function(){$('.ddl ul.ddm').hide();$('.fl-hide').hide();$('.mod-fl-menu').removeClass("expanded");$('.mod-fl-menu').addClass("collapsed");$('.fl-hide').parent().find($('div[data-sideitem]')).hide(function(){$(this).hide();});});$('.fls li a[data-sideitem]').on('click',function(event){event.preventDefault();$('.mod-fl-menu').toggleClass("collapsed expanded");event.stopPropagation();sideitem=$(this).attr("data-sideitem");$("div[data-sideitem="+sideitem+"]").toggle(function(){$('.fls').animate(900);$('.fl-hide').toggle().click(function(){$('.mod-fl-menu').toggleClass("expanded collapsed");$(this).hide();$(this).parent().find($('div[data-sideitem]')).hide(function(){$(this).hide();});});});});</script><script type="text/javascript">if((globalPortalContextPath=="/business")||(globalPortalContextPath=="/corporate")){$(".navbar-header .btn-navbar.search").attr("data-target","search");$(".navbar-header .btn-navbar.basket").hide();}
+$(document).ready(function(){$("#vettingInitialPage").find("form#checkoutLogin > p:first").text("We use the information below to direct you to the correct check-out process. This is 1 of 4 quick steps and there is no need to register.");$("#vettingInitialPage").find("input#msisdn").next().text("For existing Vodacom customers please note the One Time Pin will be sent to the main account holder.");$("#vettingInitialPage").find("input#msisdn").css("width","200px");if($("#newLeadsDetails h1#sectionHeader").length>0){$("#newLeadsDetails h1#sectionHeader").html("Switch to Vodacom or get a new contract");}
+if($("#termsAndCondtionsFields").length>0){$("#termsAndCondtionsFields").html($("#termsAndCondtionsFields").html().replace("By accepting to these term &amp; conditions I understand that I am initiating a request to switch to a contract number on Vodacom","I confirm that the details entered above are correct"));$("#termsAndCondtionsFields").html($("#termsAndCondtionsFields").html().replace("Our"," "));$("input[name=MNP_PLACE_ORDER]").val(false);if($(".formFields p:contains('Once your application is processed')").length>0){$(".formFields p:contains('Once your application is processed')").parent().hide();}
+if($("#termsAndCondtionsFields a:contains('Privacy policy')").length>0){$("#termsAndCondtionsFields a:contains('Privacy policy')").parent().hide();}}
+if($(".vettingCompleteTable tr td:contains('Status')").length>0){$(".vettingCompleteTable tr td:contains('Status')").parent().hide();}
+$(".bx-viewport").css("height","350px");var thisClient=document.documentElement;thisClient.setAttribute('data-useragent',navigator.userAgent);thisClient.setAttribute('data-platform',navigator.platform);thisClient.className+=((!!('ontouchstart'in window)||!!('onmsgesturechange'in window))?' touch':'');});function showGridView(data){$("#phoneViewer").hide();var position=1;var gridArray=new Array();var productButtonTxt="View details";for(i=0;i<data.baseDeviceRepresentativePage.length;i++){$("#lowerPagination").css("display","inline");var promoSticker=data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.imageUrl;var topSelling=data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.topSelling;var altDesc="";if(topSelling){altDesc="Top Selling Deals at Vodacom";}
+var deviceName=data.baseDeviceRepresentativePage[i].baseDeviceDescription;var imageTitle=deviceName;var elligableForUpgrade=data.eligibleForUpgrade;var noUserLogginIn='true';if(system!="EBU"){listValue="<li>";}else{listValue="<li class=\"smme\">";}
+listValue+="<a onclick=\"showDetailsSeo('"+data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.seoUrl+"', '"+data.cvmCampaign+"')\" href=\"javascript://\">";listValue+="<figure>";listValue+="<img alt=\""+deviceName+"\" src=\" "+contentManagerURL+data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.imageSourceMedium+" \">";if(promoSticker!=null&&promoSticker!=''&&promoSticker!='undefined'){listValue+="<img class=\"deal\" alt=\""+altDesc+" \" src=\" "+contentManagerURL+promoSticker+" \"> ";}
+if(data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.noStock){listValue+=" <figcaption class=\"out\">Out of stock </figcaption> ";}else if(data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.limitedStock){listValue+=" <figcaption class=\"limited\">Limited stock </figcaption> ";}
+listValue+="</figure> </a>";listValue+="<div class=\"deviceDetails\">";listValue+="<h2>"+htmlDecode(deviceName)+"</h2>";if(data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.noStock){listValue+=" <em role=\"status\" class=\"out\">Out of stock</em> ";}else if(data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.limitedStock){listValue+=" <em role=\"status\" class=\"limited\">Limited stock</em> ";}
+listValue+=" <div class=\"infoTop\"> ";listValue+=" <div id='BVRRInlineRating-"+data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.deviceId+"' class='bvRating'></div> ";listValue+=" <ins role=\"note\"> ";listValue+=" From <strong>R "+data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.totalMonthlySubscription+"</strong> per Month ";listValue+=" <br> ";listValue+=" </ins> ";if(data.eligibleForUpgrade&&system!="EBU"){productButtonTxt="Buy or Upgrade";}else if(noUserLogginIn=="true"&&system!="EBU"){}else{}
+listValue+="</div>";if(system!="EBU"){listValue+="<div class=\"infoMiddle\"> <label>";}else{listValue+="<div class=\"infoMiddle smmeMiddle\"> <label>";}
+listValue+="<input type=\"checkbox\" name=\"cb"+data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.dealId+"\" id=\"cb"+data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.dealId+"\" value=\"0\" onclick=\"toggleCompareCheck(this);\" url=\""+contentManagerURL+data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.imageSourceSmall+"\" dealId=\""+data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.dealId+"\" basephoneId=\""+data.baseDeviceRepresentativePage[i].baseDeviceId+"\" phoneId=\""+data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.deviceId+"\" imageTitle=\""+imageTitle+"\"> "+"<span id=\"compareSpan"+data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.dealId+"\"> &nbsp; &nbsp; Add to compare </span> ";listValue+="</label> </div>";if(system!="EBU"){listValue+=" <div class=\"infoBottom\">";}else{listValue+=" <div class=\"infoBottom smmeBottom\">";}
+listValue+=" <input type=\"submit\" role=\"button\" class=\"skipThese btnPurple viewDetails\" onClick=\"showDetailsSeo('"+data.baseDeviceRepresentativePage[i].deviceAndDealRepresentative.seoUrl+"', '"+data.cvmCampaign+"')\" value=\""+productButtonTxt+"\"> </div>";listValue+="</div>";listValue+="</li>";$("#phoneViewer").append(listValue);}
+if(data.baseDeviceRepresentativePage.length==0){$("#phoneViewer").html("");$("#phoneViewer").html("<b>Sorry the filters you have chosen do not match any product at this time. Please check back later as we might have added more products to our catalogue.</b>");$("#lowerPagination").css("display","none");}
+$("#phoneViewer").fadeIn('slow');formJs();if(!done){formJsLoadOnce();}
+if($("h1:contains('iPhone 6')")){$("#buyOnPrepaidForm").hide();}
+if($(".deviceDetails h2:contains('iPhone 6')")){$(".deviceDetails .out").hide();}}
+$(document).ready(function(){window.filterView=function(){if($("#navigation").css('display')=='none'){$("#phoneDetails").hide();$("#navigation").fadeIn();}
+$("#phoneViewer").html("");var value="";var deviceTypeId=selectedDeviceType;var upgrDealMsisdn=$("#upgrDealMsisdn").val();var upgrParamMsisdn=getParam('upgrDealMsisdn');if(upgrBtnPressed&&upgrDealMsisdn!=undefined){value+='&upgrDealMsisdn='+upgrDealMsisdn;}else if(upgrParamMsisdn!=null&&upgrDealMsisdn){value+='&upgrDealMsisdn='+upgrParamMsisdn;$("#upgrInputMsisdn").val(upgrParamMsisdn);$("#upgradeFilterBtn").hide();$("#clearUpgrBtn").show();upgrDealMsisdn=false;}
+console.log("corrected man val if necessary - "+manufacturer);console.log("corrected devid val if necessary - "+deviceTypeId);value+="&featuredDealsSelected="+featuredDealsSelected;console.log("C1");value+="&devicetype="+deviceTypeId;console.log("C2"+value);console.log("value : "+value);var packageFilter="0";value+="&packageId="+packageFilter;for(i=0;i<featuresArray.length;i++){value+="&features"+(i+1)+"="+featuresArray[i];}
+value+="&devicesNum="+devicesArray.length;if(devicesArray.length>0){for(i=0;i<devicesArray.length;i++){value+="&devices"+(i+1)+"="+devicesArray[i];}}
+if(talkPackageId==0&&done){var selectedPackage=$("#priceplan").val();if(selectedPackage!=""&&selectedPackage!="null"&&selectedPackage!=null){talkPackageId=$("#priceplan").val();}}
+if(deviceId==0&&done){deviceId=$("#model").val();}
+var dealType=$("#dealType").val();if(done){value+="&dealType="+dealType;}else if("0"!="0"){value+="&dealType=0";}
+value+="&deviceId="+deviceId;if(!done&&''!=''&&talkPackageId==0){if(''.length<2){talkPackageId='All'+'';}else{talkPackageId='';}}
+if(done){osType=$("#ostype").val();connectivity=$("#connectivity").val();dealPriceType=$("#dealPriceType").val();}
+if(dealPriceType!=""){value+="&dealPriceId="+dealPriceType;}
+if(searchForValidDeal=="true"){value+="&searchForValidDeal=true";}
+if(isCvmCampaign=='true'){value+='&cvmcam=true';}
+var amountVal=$("#amount").val();if(amountVal){value+="&monthly="+amountVal;}else{value+="&monthly=R"+minMonthly+" - R"+maxMonthly;}
+value+="&talkPackageId="+talkPackageId;value+="&system="+system;if(excludeNoStock){value+="&showOnlyInStock=true";}else{value+="&showOnlyInStock=false";}
+value+="&baseDeviceSortingStrategyFilter="+baseDeviceSortingStrategyFilterVal;$("#errorSpan").text("");ajaxBlockUI();$.get(""+globalPortalContextPath+"/ComparePhones/FilterPhonesView","deviceCentric=true&page="+currentPage+value,function(data){ajaxUnblockUI();curData=data;if(data!=null&&data.baseDeviceRepresentativePage!=null){if(!done){populatePackages(data);populateManufacturers(data);populateDeviceTypes(data);setSelected(data);}else{$("#userMessages").css("background","none");$("#userMessages").css("border","none");$("#userMessages").css("padding","0px");$("#userMessages").html("<h4>Upgrading? Find upgrade deals for your number.</h4>");}
+if(data.upgradeMessage!=null){$("#userMessages").css("background","none");$("#userMessages").css("border","none");$("#userMessages").css("padding","0px");var userMessageRenderer=new AjaxUserMessageRenderer($("#userMessages"));userMessageRenderer.clearMessages();userMessageRenderer.showInfoMessage(null,data.upgradeMessage);}
+populateFeatures(data);populateModels(data);var paramDealId='0';if(dealId!=0){showDetails(dealId,0,0,false);dealId=0;return;}else if(campaignId!=0&&paramDealId==0){showDetails(0,campaignId,0,false);campaignId=0;return;}
+var URL=window.document.URL.toString();var parmLocation=URL.indexOf("manufacturerId=");var URLManuFacturer=URL.substring(parmLocation+15);var manOptionVal=$("#manufacturer").val();var manCookieVal=readCookie('manufacturer');showGridView(data);if(devicesArray.length==0&&done){$('#uniform-manuList0 span').addClass("checked");}
+totalPages=data.page.totalPages;if(totalPages<2){$('.sliderRight').removeClass("sliderRight").addClass("sliderRightGreyed");$('.sliderLeft').removeClass("sliderLeft").addClass("sliderLeftGreyed");}else if(data.page.pageNo*6==data.page.totalResults||data.page.pageNo*6>data.page.totalResults){$('.sliderRight').removeClass("sliderRight").addClass("sliderRightGreyed");$('.sliderLeftGreyed').removeClass("sliderLeftGreyed").addClass("sliderLeft");}else{$('.sliderRightGreyed').removeClass("sliderRightGreyed").addClass("sliderRight");$('.sliderLeftGreyed').removeClass("sliderLeftGreyed").addClass("sliderLeft");}
+if(data.page.pageNo==1){$("span[type= 'currentPage']").html('1');}else if(data.page.pageNo-1>0){$("span[type= 'currentPage']").html(((data.page.pageNo-1)*6)+1);}else{$("span[type= 'currentPage']").html('0');}
+if(data.page.pageNo*6>data.page.totalResults){$("span[type= 'totalPages']").html(data.page.totalResults);}else{$("span[type= 'totalPages']").html(data.page.pageNo*6);}
+$("span[type= 'dataSize']").html(data.page.totalResults);checkIfInComparePortlet();loadBVRatingStars();done=true;}else{$('.sliderRight').removeClass("sliderRight").addClass("sliderRightGreyed");$('.sliderLeft').removeClass("sliderLeft").addClass("sliderLeftGreyed");if(data!=null){if(data.upgradeMessage!=null){$("#userMessages").css("background","none");$("#userMessages").css("border","none");$("#userMessages").css("padding","0px");var userMessageRenderer=new AjaxUserMessageRenderer($("#userMessages"));userMessageRenderer.clearMessages();userMessageRenderer.showInfoMessage(null,data.upgradeMessage);}else{$("#userMessages").css("background","none");$("#userMessages").css("border","none");$("#userMessages").css("padding","0px");var userMessageRenderer=new AjaxUserMessageRenderer($("#userMessages"));userMessageRenderer.clearMessages();userMessageRenderer.showErrorMessages(null,data);}
+$("span[type= 'currentPage']").html('0');$("span[type= 'totalPages']").html('0');$("span[type= 'dataSize']").html('0');}}
+if(featuredDealsSelected&&featuredDealsSelected!='false'){var userMessageRenderer1=new AjaxUserMessageRenderer($("#featuredDealsMessage"));userMessageRenderer1.clearMessages();userMessageRenderer1.showSuccessMessage(null,'Only showing special offers. <a onclick=\"clearAllFilters()\" href=\"javascript://\"><span style="text-decoration:underline;">Reset filters</span></a>');}else{$("#featuredDealsMessage").css("background","none");$("#featuredDealsMessage").css("border","none");$("#featuredDealsMessage").css("padding","0px");$("#featuredDealsMessage").html('');}
+if($(".deviceDetails h2:contains('iPhone 6')")){$(".deviceDetails .out").each(function(){$(this).text("Popular phone. Expect delay").css("font-size","13px");});$("#phoneViewer figure figcaption.out").replaceWith("<figcaption class='out'>Popular phone.<br/>Expect delay</figcaption>");$("#phoneViewer figure figcaption.out").css({'font-size':'13px','line-height':'1.5'});}},"json");if(inittracking!=0)
+{setTimeout(function(){TealimTrackFilters()},3000);}
+inittracking=1;}
+if($("h1").text().indexOf("iPhone 6")>=0){$("#buyOnPrepaidForm").hide();$("#stock_indicator").text("Popular phone. Expect delay");}
+setTimeout(function(){if($("h1").text().indexOf("iPhone 6")>=0){$("#buyOnPrepaidForm").hide();$("#stock_indicator").text("Popular phone. Expect delay");}
+if($(".deviceDetails h2:contains('iPhone 6')")){$(".deviceDetails .out").each(function(){$(this).text("Popular phone. Expect delay").css("font-size","13px");});$("#phoneViewer figure figcaption.out").replaceWith("<figcaption class='out'>Popular phone.<br/>Expect delay</figcaption>");$("#phoneViewer figure figcaption.out").css({'font-size':'13px','line-height':'1.5'});}},500);$("#preOrderApplyNow").hide();if(typeof String.prototype.trim!=='function'){String.prototype.trim=function(){return this.replace(/^\s+|\s+$/g,'');};}
+if($(".phoneDetailsBox .phoneDetailsSection .phoneDetailsInfo").length>0){var strIphone=$(".phoneDetailsBox .phoneDetailsSection .phoneDetailsInfo").text();if(strIphone.indexOf("iPhone 6")>0){$(".phoneDetailsBox").hide();}}
+if($(".vettingCompleteTable").length>0){var strVetting=$(".vettingCompleteTable").find("tr:eq(2)").text();if(strVetting.indexOf("excl device")>0){$(".vettingCompleteTable").find("tr:eq(2)").hide();}}
+$("a[data-target]").unbind("click");$("a[data-target]").click(function(){var target=$(this).attr('data-target');$("*[data-menu]").filter("*[data-menu!='"+target+"']").hide();var menu=$("*[data-menu='"+target+"']");if(menu.is(":visible")){menu.slideUp();}else{menu.slideDown();}});if((globalPortalContextPath=="/business")||(globalPortalContextPath=="/corporate")){$('head').append('<link rel="shortcut icon" type="image/x-icon" href="/business/framework/skins/vodacom_skins/img/favicon-new.ico">');}
+if(navigator.userAgent.search("Safari")>=0&&navigator.userAgent.search("Chrome")<0){$("#accountSelectorForm").remove();$('#accountSelector').parent().attr({id:'accountSelectorForm',target:'_blank',method:'GET'});if($('#accountSelectorForm > #goBtn').length==0){$('#accountSelector').after('<input type="submit" style="display: none;margin-top:10px" name="go" value="Select site" id="goBtn" class="btnPurple">');$('#accountSelectorForm > #goBtn').css('display','block');}}
+if($(window).width()<481){$(".mod-tabs-slider ul").children("li[id*='list_tab']").each(function(){var getId=$(this).attr('id');$(this).click(function(){window.location.hash='#'+getId;});});}});</script><script src="http://www.vodacom.co.za/vodacom/framework/skeletons/vodacom-skeletons/js/bootstrap.js,Mjm.v2YnmK3u8W.js+footer.js,Mjm.zvycr2UNrO.js+nav.js,Mjm.NHGX70eoD-.js+vodacom-ui.js,Mjm.2yjtpeyKPI.js.pagespeed.jc.1urhb0t-Ax.js"></script><script>eval(mod_pagespeed_Aeulc_kB2_);</script><script>eval(mod_pagespeed_0bDn4JxvWr);</script><script>eval(mod_pagespeed_HoIYn3$XTk);</script><script>eval(mod_pagespeed_sBmqzIhaet);</script><script type="text/javascript">$(document).ready(function(){resetFacetedSearchCookie();});function resetFacetedSearchCookie(){var letters=["vodacom/shopping/devices","vodacom/shopping/online-credit-check"];var found=false;for(var i=0;i<letters.length;i++){if(document.URL.indexOf(letters[i])>-1){found=true;}}
+if(!found){eraseCookie("manufacturer");eraseCookie("deviceType");}}
+function eraseCookie(name){var value="";var date=new Date();date.setTime(date.getTime()+(-1*24*60*60*1000));var expires="; expires="+date.toGMTString();document.cookie=name+"="+value+expires+"; path=/";}</script><script src="http://www.vodacom.co.za/vodacom/framework/skeletons/vodacom-skeletons/js/gs_psbsayt.js,Mjm.6w0-EbdlEg.js+gs_tracking_tealium.js,Mjm._qNPx99Eou.js+gs_tracking_gsa.js,Mjm.kcbpaBkVWf.js.pagespeed.jc.nq1ok8OGPP.js"></script><script>eval(mod_pagespeed_nRUH_xoix1);</script><script>eval(mod_pagespeed_DudOPrQ6Md);</script><script>eval(mod_pagespeed_nAn70o03Sj);</script><script type="text/javascript">var appContxt="/vodacom";var gsHost="search.vodacom.co.za";var saytSite="coza_portal_col";var saytClient="coza_frontend";var saytCols="coza_phones_collection,coza_general_col,support_col";var saytCategories="Shop,General,Help Me";var saytResultLimit="3";var gsSerpPage="https://search.vodacom.co.za/c/serp/#/vodacom?context=vodacom";</script><script type="text/javascript">$(document).ready(function(){if($(".vettingCompleteTable").length>0){var strVetting=$(".vettingCompleteTable").find("tr:eq(2)").text();if(strVetting.indexOf("excl device")>0){$(".vettingCompleteTable").find("tr:eq(2)").hide();}}});</script><script type="text/javascript">function clearMenu(){var mmOpenmenuCurrent='';$('#nav-menu .megamenuBtn_ds').each(function(){var mmOpenmenu=$(this).data('for');if($(this).hasClass('mmdOpen')){mmOpenmenuCurrent=mmOpenmenu;$('#'+mmOpenmenu).hide();$(this).removeClass('mmdOpen');$(this).addClass('mmdClosed');}});return mmOpenmenuCurrent;}
+function isTablet(){return $(window).width()<=1024;}
+$(document).ready(function(){$("#megamenu76F64C643E60C84DED971DECE441453BB96565A0").find("ul").eq(0).hide();$("#megamenu76F64C643E60C84DED971DECE441453BB96565A0").find("ul").eq(1).hide();;$(".megamenuBtn_ds").unbind("click");$('.megamenuBtn_ds').hover(function(){$(this).addClass('current');var megamenu=$(this).data('for');$('#'+megamenu).show();},function(){$(this).removeClass('current');var megamenu=$(this).data('for');$('#'+megamenu).hide();});$('.megamenu_ds').hover(function(){$(this).prev().addClass('current');var id=$(this).attr('id');$('.megamenuBtn_ds[data-for="'+id+'"]').addClass('current');$(this).show();},function(){var id=$(this).attr('id');$('.megamenuBtn_ds[data-for="'+id+'"]').removeClass('current');$(this).hide();});if(isTablet()){$(".megamenuBtn_ds").unbind("mouseenter mouseleave");$(".megamenu_ds").unbind("mouseenter mouseleave");$(".megamenuBtn_ds").unbind("click");$("#nav-menu .megamenu_ds[id*='megamenu']").each(function(){$(this).css('left','0px');});$('#nav-menu .megamenuBtn_ds').click(function(){var openMenu=clearMenu();if(openMenu!=$(this).data('for')){$(this).toggleClass("mmdClosed mmdOpen");var megamenu=$(this).data('for');$('#'+megamenu).css('left','0px');$('#'+megamenu).toggle();if(!$('#'+megamenu).is(':visible')){$('#nav-menu .megamenuBtn_ds').removeClass('mmdOpen');}}
+$('#nav-menu .megamenuBtn_ds').toggleClass("mmdClosed mmdOpen");});}
+if($('#vop_token').length==1)
+{$(".hiddenMenuItem").remove();$('.megamenuList_ds').each(function(_,megamenuList_ds){var vitem=$(megamenuList_ds);var $columns=vitem.children('li');if($columns.length==1){vitem.remove();}});}});</script><script type="text/javascript">var portvcozamenuFullName='';var cozaMenuAcntSumURL='';$(document).ready(function(){if('false'=='true'){$('#logoutBtnDiv').show();$('#loginBtnDiv').hide();}else{$('#loginBtnDiv').show();$('#logoutBtnDiv').hide();}
+$("#loggedInHref").text(portvcozamenuFullName);});$('.ddl').on('click',function(){$(this).children('ul.ddm').toggle(function(){if($(this).parent().hasClass('ddl-inset')){$(this).parent().removeClass('ddl-inset');}else{$(this).parent().addClass('ddl-inset').show();}});});function doTopMenuLogOutAction(){var preamble=window.location.protocol+"//"+window.location.host;var postParameters="";$('#loginNew').attr("action",$("#loginNew").attr('logoutaction')+postParameters);$('#loginNew').submit();}</script><script type="text/javascript" src="http://www.vodacom.co.za/vodacom/portrespmenuassets/js/megamenu_resp.js.pagespeed.jm.DQZhN8plls.js"></script><script type="text/javascript">$(function(){if($("#BreadcrumbPageName").text()=="Product Details"){$("#BreadcrumbPageName").text($("h1").data("breadcrumb-title"));}});</script>
+<script type="text/javascript">var tealiumAuthData={"visitorLoginStatus":"logged out","visitorType":"","visitorBusinessName":"","visitorSubscriptionType":"","visitorCustomerId":""}</script><script type="text/javascript" src="//www.vodacom.co.za/utag/vodafone/za-responsive/prod/utag.js"></script>
+<script type="text/javascript">$(window).load(function(){if((typeof(TrackingHelper)!=='undefined')&&(TrackingHelper!==null)){TrackingHelper.trackPageView();}});</script></footer></div>
+<script pagespeed_no_defer="">//<![CDATA[
+(function(){var e=encodeURIComponent,f=window,g="length",k="",l="&",n="&cs=",p="&n=",q=",",r="?",s="Content-Type",t="Microsoft.XMLHTTP",u="Msxml2.XMLHTTP",v="POST",w="application/x-www-form-urlencoded",x="load",y="oh=",z="on",A="url=",B=function(a,b,c){if(a.addEventListener)a.addEventListener(b,c,!1);else if(a.attachEvent)a.attachEvent(z+b,c);else{var d=a[z+b];a[z+b]=function(){c.call(this);d&&d.call(this)}}};f.pagespeed=f.pagespeed||{};var C=f.pagespeed,D=function(a,b,c,d,h){this.e=250;this.f=a;this.g=b;this.i=c;this.h=d;this.b=h;this.c=[];this.a=0};D.prototype.j=function(){for(var a=y+this.i+p+this.h,a=a+n,b=0;b<this.c[g];++b){var c=0<b?q:k,c=c+e(this.c[b]);if(131072<a[g]+c[g])break;a+=c}C.criticalCssBeaconData=a;var b=this.f,c=this.g,d;if(f.XMLHttpRequest)d=new XMLHttpRequest;else if(f.ActiveXObject)try{d=new ActiveXObject(u)}catch(h){try{d=new ActiveXObject(t)}catch(m){}}d&&(d.open(v,b+(-1==b.indexOf(r)?r:l)+A+e(c)),d.setRequestHeader(s,w),d.send(a))};D.prototype.d=function(a){for(var b=0;b<this.e&&this.a<this.b[g];++b,++this.a)try{null!=document.querySelector(this.b[this.a])&&this.c.push(this.b[this.a])}catch(c){}this.a<this.b[g]?f.setTimeout(this.d.bind(this),0,a):a()};C.k=function(a,b,c,d,h){if(document.querySelector&&Function.prototype.bind){var m=new D(a,b,c,d,h);B(f,x,function(){f.setTimeout(function(){m.d(function(){m.j()})},0)})}};C.criticalCssBeaconInit=C.k;})();pagespeed.selectors=["#expandedPanel","#nav-menu","#nav-menu .megamenuControl_ds","#nav-menu .megamenuControl_ds a.btn","#nav-menu .megamenuTitle_ds","#nav-menu .megamenu_ds","#nav-menu .menuLinksMobile a","#nav-menu a","#nav-menu a.current","#nav-menu a.megamenuOption_ds","#nav-menu li","#nav-menu li a.megamenuBtn_ds","#nav-menu li a.megamenuBtn_ds.mmdClosed","#nav-menu li a.megamenuBtn_ds.mmdOpen","#nav-menu li a.megamenuOption_ds","#nav-menu li a.megamenuTitle_ds","#nav-menu li#mobileLogoutLi a","#nav-menu ul.megamenuList_ds","#nav-menu ul.megamenuList_ds li","#nav-menu ul.megamenuList_ds li.megamenuList_item","*",".affix",".alert",".alert .alert-link",".alert > p",".alert > p + p",".alert > ul",".alert h4",".alert-danger",".alert-danger .alert-link",".alert-danger hr",".alert-dismissable",".alert-dismissable .close",".alert-info",".alert-info .alert-link",".alert-info hr",".alert-success",".alert-success .alert-link",".alert-success hr",".alert-warning",".alert-warning .alert-link",".alert-warning hr",".badge",".breadcrumb",".breadcrumb > .active",".breadcrumb > li",".breadcrumb > li + li",".breadcrumbs ul",".breadcrumbs ul .breadcrumbsPrefix",".breadcrumbs ul li",".breadcrumbs ul li a",".btn",".btn .badge",".btn .caret",".btn-block",".btn-block + .btn-block",".btn-danger .caret",".btn-default",".btn-default .caret",".btn-group",".btn-group .btn + .btn",".btn-group .btn + .btn-group",".btn-group .btn-group + .btn",".btn-group .btn-group + .btn-group",".btn-group .dropdown-toggle",".btn-group > .btn",".btn-group > .btn + .dropdown-toggle",".btn-group > .btn-group",".btn-group > .btn-group > .btn",".btn-group > .btn-group > .dropdown-toggle",".btn-group > .btn-lg + .dropdown-toggle",".btn-group > .btn.active",".btn-group-justified",".btn-group-justified .btn",".btn-group-lg > .btn",".btn-group-sm > .btn",".btn-group-vertical",".btn-group-vertical > .btn",".btn-group-vertical > .btn + .btn",".btn-group-vertical > .btn + .btn-group",".btn-group-vertical > .btn-group",".btn-group-vertical > .btn-group + .btn",".btn-group-vertical > .btn-group + .btn-group",".btn-group-vertical > .btn-group > .btn",".btn-group-vertical > .btn-group > .dropdown-toggle",".btn-group-vertical > .btn.active",".btn-group-xs > .btn",".btn-group.open .dropdown-toggle",".btn-info .caret",".btn-lg",".btn-lg .caret",".btn-link",".btn-link[disabled]",".btn-primary .caret",".btn-sm",".btn-success .caret",".btn-toolbar",".btn-toolbar .btn-group",".btn-toolbar > .btn + .btn",".btn-toolbar > .btn + .btn-group",".btn-toolbar > .btn-group + .btn",".btn-toolbar > .btn-group + .btn-group",".btn-warning .caret",".btn-xs",".btn.active",".btn.disabled",".btn[disabled]",".caret",".carousel",".carousel-caption",".carousel-caption .btn",".carousel-control",".carousel-control .glyphicon-chevron-left",".carousel-control .glyphicon-chevron-right",".carousel-control .icon-next",".carousel-control .icon-prev",".carousel-control.left",".carousel-control.right",".carousel-indicators",".carousel-indicators .active",".carousel-indicators li",".carousel-inner",".carousel-inner > .active",".carousel-inner > .active.left",".carousel-inner > .active.right",".carousel-inner > .item",".carousel-inner > .item > a > img",".carousel-inner > .item > img",".carousel-inner > .next",".carousel-inner > .next.left",".carousel-inner > .prev",".carousel-inner > .prev.right",".checkbox",".checkbox + .checkbox",".checkbox input[type=\"checkbox\"]",".checkbox label",".checkbox-inline",".checkbox-inline + .checkbox-inline",".checkbox-inline input[type=\"checkbox\"]",".checkbox-inline[disabled]",".checkbox[disabled]",".clearfix",".close",".closeBtn_ds",".closeBtn_ds img",".closeBtn_ds span",".col-lg-1",".col-lg-10",".col-lg-11",".col-lg-12",".col-lg-2",".col-lg-3",".col-lg-4",".col-lg-5",".col-lg-6",".col-lg-7",".col-lg-8",".col-lg-9",".col-lg-offset-0",".col-lg-offset-1",".col-lg-offset-10",".col-lg-offset-11",".col-lg-offset-2",".col-lg-offset-3",".col-lg-offset-4",".col-lg-offset-5",".col-lg-offset-6",".col-lg-offset-7",".col-lg-offset-8",".col-lg-offset-9",".col-lg-pull-0",".col-lg-pull-1",".col-lg-pull-10",".col-lg-pull-11",".col-lg-pull-2",".col-lg-pull-3",".col-lg-pull-4",".col-lg-pull-5",".col-lg-pull-6",".col-lg-pull-7",".col-lg-pull-8",".col-lg-pull-9",".col-lg-push-0",".col-lg-push-1",".col-lg-push-10",".col-lg-push-11",".col-lg-push-2",".col-lg-push-3",".col-lg-push-4",".col-lg-push-5",".col-lg-push-6",".col-lg-push-7",".col-lg-push-8",".col-lg-push-9",".col-md-1",".col-md-10",".col-md-11",".col-md-12",".col-md-2",".col-md-3",".col-md-4",".col-md-5",".col-md-6",".col-md-7",".col-md-8",".col-md-9",".col-md-offset-0",".col-md-offset-1",".col-md-offset-10",".col-md-offset-11",".col-md-offset-2",".col-md-offset-3",".col-md-offset-4",".col-md-offset-5",".col-md-offset-6",".col-md-offset-7",".col-md-offset-8",".col-md-offset-9",".col-md-pull-0",".col-md-pull-1",".col-md-pull-10",".col-md-pull-11",".col-md-pull-2",".col-md-pull-3",".col-md-pull-4",".col-md-pull-5",".col-md-pull-6",".col-md-pull-7",".col-md-pull-8",".col-md-pull-9",".col-md-push-0",".col-md-push-1",".col-md-push-10",".col-md-push-11",".col-md-push-2",".col-md-push-3",".col-md-push-4",".col-md-push-5",".col-md-push-6",".col-md-push-7",".col-md-push-8",".col-md-push-9",".col-sm-1",".col-sm-10",".col-sm-11",".col-sm-12",".col-sm-2",".col-sm-3",".col-sm-4",".col-sm-5",".col-sm-6",".col-sm-7",".col-sm-8",".col-sm-9",".col-sm-offset-1",".col-sm-offset-10",".col-sm-offset-11",".col-sm-offset-2",".col-sm-offset-3",".col-sm-offset-4",".col-sm-offset-5",".col-sm-offset-6",".col-sm-offset-7",".col-sm-offset-8",".col-sm-offset-9",".col-sm-pull-1",".col-sm-pull-10",".col-sm-pull-11",".col-sm-pull-2",".col-sm-pull-3",".col-sm-pull-4",".col-sm-pull-5",".col-sm-pull-6",".col-sm-pull-7",".col-sm-pull-8",".col-sm-pull-9",".col-sm-push-1",".col-sm-push-10",".col-sm-push-11",".col-sm-push-2",".col-sm-push-3",".col-sm-push-4",".col-sm-push-5",".col-sm-push-6",".col-sm-push-7",".col-sm-push-8",".col-sm-push-9",".col-xs-1",".col-xs-10",".col-xs-11",".col-xs-12",".col-xs-2",".col-xs-3",".col-xs-4",".col-xs-5",".col-xs-6",".col-xs-7",".col-xs-8",".col-xs-9",".col3_ds",".col4_ds",".collapse",".collapse.in",".collapsing",".container",".container .jumbotron",".container > .navbar-collapse",".container > .navbar-header",".ddl",".ddl .ddm",".ddl .loginDropDown",".dl-horizontal dd",".dl-horizontal dt",".dropdown",".dropdown-backdrop",".dropdown-header",".dropdown-menu",".dropdown-menu .divider",".dropdown-menu > .active > a",".dropdown-menu > .disabled > a",".dropdown-menu > li > a",".dropdown-menu.pull-right",".dropdown-toggle",".dropup .btn-danger .caret",".dropup .btn-default .caret",".dropup .btn-info .caret",".dropup .btn-lg .caret",".dropup .btn-primary .caret",".dropup .btn-success .caret",".dropup .btn-warning .caret",".dropup .caret",".dropup .dropdown-menu",".fade",".fade.in",".form-control",".form-control-static",".form-control[disabled]",".form-control[readonly]",".form-group",".form-horizontal .checkbox",".form-horizontal .checkbox-inline",".form-horizontal .control-label",".form-horizontal .form-group",".form-horizontal .radio",".form-horizontal .radio-inline",".form-inline .checkbox",".form-inline .checkbox input[type=\"checkbox\"]",".form-inline .form-control",".form-inline .form-group",".form-inline .radio",".form-inline .radio input[type=\"radio\"]",".glyphicon",".glyphicon-adjust",".glyphicon-align-center",".glyphicon-align-justify",".glyphicon-align-left",".glyphicon-align-right",".glyphicon-arrow-down",".glyphicon-arrow-left",".glyphicon-arrow-right",".glyphicon-arrow-up",".glyphicon-asterisk",".glyphicon-backward",".glyphicon-ban-circle",".glyphicon-barcode",".glyphicon-bell",".glyphicon-bold",".glyphicon-book",".glyphicon-bookmark",".glyphicon-briefcase",".glyphicon-bullhorn",".glyphicon-calendar",".glyphicon-camera",".glyphicon-certificate",".glyphicon-check",".glyphicon-chevron-down",".glyphicon-chevron-left",".glyphicon-chevron-right",".glyphicon-chevron-up",".glyphicon-circle-arrow-down",".glyphicon-circle-arrow-left",".glyphicon-circle-arrow-right",".glyphicon-circle-arrow-up",".glyphicon-cloud",".glyphicon-cloud-download",".glyphicon-cloud-upload",".glyphicon-cog",".glyphicon-collapse-down",".glyphicon-collapse-up",".glyphicon-comment",".glyphicon-compressed",".glyphicon-copyright-mark",".glyphicon-credit-card",".glyphicon-cutlery",".glyphicon-dashboard",".glyphicon-download",".glyphicon-download-alt",".glyphicon-earphone",".glyphicon-edit",".glyphicon-eject",".glyphicon-envelope",".glyphicon-euro",".glyphicon-exclamation-sign",".glyphicon-expand",".glyphicon-export",".glyphicon-eye-close",".glyphicon-eye-open",".glyphicon-facetime-video",".glyphicon-fast-backward",".glyphicon-fast-forward",".glyphicon-file",".glyphicon-film",".glyphicon-filter",".glyphicon-fire",".glyphicon-flag",".glyphicon-flash",".glyphicon-floppy-disk",".glyphicon-floppy-open",".glyphicon-floppy-remove",".glyphicon-floppy-save",".glyphicon-floppy-saved",".glyphicon-folder-close",".glyphicon-folder-open",".glyphicon-font",".glyphicon-forward",".glyphicon-fullscreen",".glyphicon-gbp",".glyphicon-gift",".glyphicon-glass",".glyphicon-globe",".glyphicon-hand-down",".glyphicon-hand-left",".glyphicon-hand-right",".glyphicon-hand-up",".glyphicon-hd-video",".glyphicon-hdd",".glyphicon-header",".glyphicon-headphones",".glyphicon-heart",".glyphicon-heart-empty",".glyphicon-home",".glyphicon-import",".glyphicon-inbox",".glyphicon-indent-left",".glyphicon-indent-right",".glyphicon-info-sign",".glyphicon-italic",".glyphicon-leaf",".glyphicon-link",".glyphicon-list",".glyphicon-list-alt",".glyphicon-lock",".glyphicon-log-in",".glyphicon-log-out",".glyphicon-magnet",".glyphicon-map-marker",".glyphicon-minus",".glyphicon-minus-sign",".glyphicon-move",".glyphicon-music",".glyphicon-new-window",".glyphicon-off",".glyphicon-ok",".glyphicon-ok-circle",".glyphicon-ok-sign",".glyphicon-open",".glyphicon-paperclip",".glyphicon-pause",".glyphicon-pencil",".glyphicon-phone",".glyphicon-phone-alt",".glyphicon-picture",".glyphicon-plane",".glyphicon-play",".glyphicon-play-circle",".glyphicon-plus",".glyphicon-plus-sign",".glyphicon-print",".glyphicon-pushpin",".glyphicon-qrcode",".glyphicon-question-sign",".glyphicon-random",".glyphicon-record",".glyphicon-refresh",".glyphicon-registration-mark",".glyphicon-remove",".glyphicon-remove-circle",".glyphicon-remove-sign",".glyphicon-repeat",".glyphicon-resize-full",".glyphicon-resize-horizontal",".glyphicon-resize-small",".glyphicon-resize-vertical",".glyphicon-retweet",".glyphicon-road",".glyphicon-save",".glyphicon-saved",".glyphicon-screenshot",".glyphicon-sd-video",".glyphicon-search",".glyphicon-send",".glyphicon-share",".glyphicon-share-alt",".glyphicon-shopping-cart",".glyphicon-signal",".glyphicon-sort",".glyphicon-sort-by-alphabet",".glyphicon-sort-by-alphabet-alt",".glyphicon-sort-by-attributes",".glyphicon-sort-by-attributes-alt",".glyphicon-sort-by-order",".glyphicon-sort-by-order-alt",".glyphicon-sound-5-1",".glyphicon-sound-6-1",".glyphicon-sound-7-1",".glyphicon-sound-dolby",".glyphicon-sound-stereo",".glyphicon-star",".glyphicon-star-empty",".glyphicon-stats",".glyphicon-step-backward",".glyphicon-step-forward",".glyphicon-stop",".glyphicon-subtitles",".glyphicon-tag",".glyphicon-tags",".glyphicon-tasks",".glyphicon-text-height",".glyphicon-text-width",".glyphicon-th",".glyphicon-th-large",".glyphicon-th-list",".glyphicon-thumbs-down",".glyphicon-thumbs-up",".glyphicon-time",".glyphicon-tint",".glyphicon-tower",".glyphicon-transfer",".glyphicon-trash",".glyphicon-tree-conifer",".glyphicon-tree-deciduous",".glyphicon-unchecked",".glyphicon-upload",".glyphicon-usd",".glyphicon-user",".glyphicon-volume-down",".glyphicon-volume-off",".glyphicon-volume-up",".glyphicon-warning-sign",".glyphicon-wrench",".glyphicon-zoom-in",".glyphicon-zoom-out",".h1",".h1 small",".h2",".h2 small",".h3",".h3 small",".h4",".h4 small",".h5",".h5 small",".h6",".h6 small",".has-error .control-label",".has-error .form-control",".has-error .help-block",".has-error .input-group-addon",".has-success .control-label",".has-success .form-control",".has-success .help-block",".has-success .input-group-addon",".has-warning .control-label",".has-warning .form-control",".has-warning .help-block",".has-warning .input-group-addon",".help-block",".hidden",".hidden-lg",".hidden-lg.hidden-md",".hidden-lg.hidden-sm",".hidden-lg.hidden-xs",".hidden-md",".hidden-md.hidden-lg",".hidden-md.hidden-sm",".hidden-md.hidden-xs",".hidden-sm",".hidden-sm.hidden-lg",".hidden-sm.hidden-md",".hidden-sm.hidden-xs",".hidden-xs",".hidden-xs.hidden-lg",".hidden-xs.hidden-md",".hidden-xs.hidden-sm",".hidden_ds",".hide",".img-circle",".img-responsive",".img-rounded",".img-thumbnail",".input-group",".input-group .form-control",".input-group-addon",".input-group-addon input[type=\"checkbox\"]",".input-group-addon input[type=\"radio\"]",".input-group-addon.input-lg",".input-group-addon.input-sm",".input-group-btn",".input-group-btn > .btn",".input-group-btn > .btn + .btn",".input-group-lg > .form-control",".input-group-lg > .input-group-addon",".input-group-lg > .input-group-btn > .btn",".input-group-sm > .form-control",".input-group-sm > .input-group-addon",".input-group-sm > .input-group-btn > .btn",".input-group.col",".input-lg",".input-sm",".invisible",".jumbotron",".jumbotron h1",".jumbotron p",".label",".label[href]",".lead",".list-group",".list-group-item",".list-group-item > .badge",".list-group-item > .badge + .badge",".list-group-item-heading",".list-group-item-text",".list-group-item.active",".list-inline",".list-inline > li",".list-unstyled",".max-width-817-hide",".media",".media .media",".media > .pull-left",".media > .pull-right",".media-body",".media-heading",".media-list",".media-object",".megamenuControl_ds",".megamenuList_ds.last",".megamenuOption_ds a",".megamenu_ds",".megamenu_ds .primeBtn_ds",".megamenu_ds .secondBtn_ds",".megamenu_ds .strongBtn_ds",".menuOption_ds",".menuOption_ds a",".menuOption_ds a .menuArrow_ds",".menuOption_ds a.current",".menuOption_ds a.current .menuArrow_ds",".menu_ds .primeBtn_ds",".menu_ds .secondBtn_ds",".menu_ds .strongBtn_ds",".mod-fl-menu",".mod-fl-menu .fl-links li",".mod-fl-menu .h4",".mod-fl-menu ins",".mod-fl-menu ins p",".mod-fl-menu ul li a",".mod-fl-menu ul.fls",".mod-fl-menu.collapsed",".modal",".modal-backdrop",".modal-backdrop.fade",".modal-backdrop.in",".modal-body",".modal-content",".modal-dialog",".modal-footer",".modal-footer .btn + .btn",".modal-footer .btn-block + .btn-block",".modal-footer .btn-group .btn + .btn",".modal-header",".modal-header .close",".modal-open",".modal-open .navbar-fixed-bottom",".modal-open .navbar-fixed-top",".modal-title",".modal.fade .modal-dialog",".modal.in .modal-dialog",".nav",".nav .caret",".nav .nav-divider",".nav .open > a",".nav > li",".nav > li > a",".nav > li > a > img",".nav > li.disabled > a",".nav a .caret",".nav-justified",".nav-justified > li",".nav-justified > li > a",".nav-pills > .active > a > .badge",".nav-pills > li",".nav-pills > li + li",".nav-pills > li > a",".nav-pills > li > a > .badge",".nav-pills > li.active > a",".nav-stacked > li",".nav-stacked > li + li",".nav-tabs",".nav-tabs .dropdown-menu",".nav-tabs > li",".nav-tabs > li > a",".nav-tabs > li.active > a",".nav-tabs-justified",".nav-tabs-justified > .active > a",".nav-tabs-justified > li > a",".nav-tabs.nav-justified",".nav-tabs.nav-justified > .active > a",".nav-tabs.nav-justified > li",".nav-tabs.nav-justified > li > a",".navbar",".navbar > .container .navbar-brand",".navbar-brand",".navbar-btn",".navbar-collapse",".navbar-collapse .navbar-nav.navbar-left",".navbar-collapse .navbar-nav.navbar-right",".navbar-collapse .navbar-text",".navbar-collapse.collapse",".navbar-collapse.in",".navbar-fixed-bottom",".navbar-fixed-bottom .dropdown .caret",".navbar-fixed-bottom .dropdown .dropdown-menu",".navbar-fixed-bottom .navbar-nav > li > .dropdown-menu",".navbar-fixed-top",".navbar-form",".navbar-form .checkbox",".navbar-form .checkbox input[type=\"checkbox\"]",".navbar-form .form-control",".navbar-form .form-group",".navbar-form .radio",".navbar-form .radio input[type=\"radio\"]",".navbar-header",".navbar-left",".navbar-nav",".navbar-nav .open .dropdown-menu",".navbar-nav .open .dropdown-menu .dropdown-header",".navbar-nav .open .dropdown-menu > li > a",".navbar-nav > li",".navbar-nav > li > .dropdown-menu",".navbar-nav > li > .dropdown-menu.pull-right",".navbar-nav > li > a",".navbar-nav.pull-right > li > .dropdown-menu",".navbar-right",".navbar-right .dropdown-menu",".navbar-static-top",".navbar-text",".navbar-toggle",".navbar-toggle .icon-bar",".navbar-toggle .icon-bar + .icon-bar",".open > .dropdown-menu",".open > a",".page-header",".pager",".pager .disabled > a",".pager .disabled > span",".pager .next > a",".pager .next > span",".pager .previous > a",".pager .previous > span",".pager li",".pager li > a",".pager li > span",".pagination",".pagination > .active > a",".pagination > .active > span",".pagination > .disabled > a",".pagination > .disabled > span",".pagination > li",".pagination > li > a",".pagination > li > span",".pagination-lg > li > a",".pagination-lg > li > span",".pagination-sm > li > a",".pagination-sm > li > span",".panel",".panel > .list-group",".panel > .list-group .list-group-item",".panel > .panel-body + .table",".panel > .table",".panel-body",".panel-danger",".panel-danger > .panel-footer + .panel-collapse .panel-body",".panel-danger > .panel-heading",".panel-danger > .panel-heading + .panel-collapse .panel-body",".panel-default",".panel-default > .panel-footer + .panel-collapse .panel-body",".panel-default > .panel-heading",".panel-default > .panel-heading + .panel-collapse .panel-body",".panel-footer",".panel-group .panel",".panel-group .panel + .panel",".panel-group .panel-footer",".panel-group .panel-footer + .panel-collapse .panel-body",".panel-group .panel-heading",".panel-group .panel-heading + .panel-collapse .panel-body",".panel-heading",".panel-heading + .list-group .list-group-item",".panel-info",".panel-info > .panel-footer + .panel-collapse .panel-body",".panel-info > .panel-heading",".panel-info > .panel-heading + .panel-collapse .panel-body",".panel-primary",".panel-primary > .panel-footer + .panel-collapse .panel-body",".panel-primary > .panel-heading",".panel-primary > .panel-heading + .panel-collapse .panel-body",".panel-success",".panel-success > .panel-footer + .panel-collapse .panel-body",".panel-success > .panel-heading",".panel-success > .panel-heading + .panel-collapse .panel-body",".panel-title",".panel-title > a",".panel-warning",".panel-warning > .panel-footer + .panel-collapse .panel-body",".panel-warning > .panel-heading",".panel-warning > .panel-heading + .panel-collapse .panel-body",".pill-content > .active",".pill-content > .pill-pane",".popover",".popover .arrow",".popover-content",".popover-title",".popover.bottom",".popover.bottom .arrow",".popover.left",".popover.left .arrow",".popover.right",".popover.right .arrow",".popover.top",".popover.top .arrow",".pre-scrollable",".progress",".progress-bar",".progress-bar-danger",".progress-bar-info",".progress-bar-success",".progress-bar-warning",".progress-striped .progress-bar",".progress-striped .progress-bar-danger",".progress-striped .progress-bar-info",".progress-striped .progress-bar-success",".progress-striped .progress-bar-warning",".progress.active .progress-bar",".pull-left",".pull-right",".pull-right > .dropdown-menu",".radio",".radio + .radio",".radio input[type=\"radio\"]",".radio label",".radio-inline",".radio-inline + .radio-inline",".radio-inline input[type=\"radio\"]",".radio-inline[disabled]",".radio[disabled]",".rhombus-box",".rhombus-box_sml",".row",".show",".sr-only",".tab-content > .active",".tab-content > .tab-pane",".tabbable",".table",".table .table",".table caption + thead tr td",".table caption + thead tr th",".table colgroup + thead tr td",".table colgroup + thead tr th",".table tbody + tbody",".table tbody > tr > td",".table tbody > tr > th",".table tfoot > tr > td",".table tfoot > tr > th",".table thead > tr > td",".table thead > tr > th",".table thead tr td",".table thead tr th",".table-condensed tbody > tr > td",".table-condensed tbody > tr > th",".table-condensed tfoot > tr > td",".table-condensed tfoot > tr > th",".table-condensed thead > tr > td",".table-condensed thead > tr > th",".table-responsive",".table-responsive > .table",".table-responsive > .table > tbody > tr > td",".table-responsive > .table > tbody > tr > th",".table-responsive > .table > tfoot > tr > td",".table-responsive > .table > tfoot > tr > th",".table-responsive > .table > thead > tr > td",".table-responsive > .table > thead > tr > th",".table-responsive > .table-bordered",".table-responsive > .table-bordered > tbody > tr > td",".table-responsive > .table-bordered > tbody > tr > th",".table-responsive > .table-bordered > tfoot > tr > td",".table-responsive > .table-bordered > tfoot > tr > th",".table-responsive > .table-bordered > thead > tr > td",".table-responsive > .table-bordered > thead > tr > th",".text-center",".text-danger",".text-hide",".text-info",".text-left",".text-muted",".text-primary",".text-right",".text-success",".text-warning",".thumbnail",".thumbnail .caption",".thumbnail > img",".tooltip",".tooltip-arrow",".tooltip-inner",".tooltip.bottom",".tooltip.bottom .tooltip-arrow",".tooltip.bottom-left .tooltip-arrow",".tooltip.bottom-right .tooltip-arrow",".tooltip.in",".tooltip.left",".tooltip.left .tooltip-arrow",".tooltip.right",".tooltip.right .tooltip-arrow",".tooltip.top",".tooltip.top .tooltip-arrow",".tooltip.top-left .tooltip-arrow",".tooltip.top-right .tooltip-arrow",".visible-lg",".visible-lg.visible-md",".visible-lg.visible-sm",".visible-lg.visible-xs",".visible-md",".visible-md.visible-lg",".visible-md.visible-sm",".visible-md.visible-xs",".visible-print",".visible-sm",".visible-sm.visible-lg",".visible-sm.visible-md",".visible-sm.visible-xs",".visible-xs",".visible-xs.visible-lg",".visible-xs.visible-md",".visible-xs.visible-sm",".well",".well blockquote",".well-lg",".well-sm","[data-toggle=\"buttons\"] > .btn > input[type=\"checkbox\"]","[data-toggle=\"buttons\"] > .btn > input[type=\"radio\"]","[hidden]","a","a.badge","a.list-group-item","a.list-group-item .list-group-item-heading","a.list-group-item.active > .badge","abbr.initialism","abbr[data-original-title]","abbr[title]","address","article","aside","audio","b","blockquote","blockquote p","blockquote small","blockquote.pull-right","blockquote.pull-right p","blockquote.pull-right small","body","body.modal-open","button","button.close","button[disabled]","canvas","cite","code","dd","details","dfn","dl","dt","fieldset","fieldset[disabled] .btn","fieldset[disabled] .btn-link","fieldset[disabled] .checkbox","fieldset[disabled] .checkbox-inline","fieldset[disabled] .form-control","fieldset[disabled] .radio","fieldset[disabled] .radio-inline","fieldset[disabled] input[type=\"checkbox\"]","fieldset[disabled] input[type=\"radio\"]","figcaption","figure","footer","h1","h1 small","h2","h2 small","h3","h3 small","h4","h4 small","h5","h5 small","h6","h6 small","header","hgroup","hr","html","html i.imgFadePlanTable","html input[disabled]","html input[type=\"button\"]","html.touch i.imgFadePlanTable","html[data-useragent*=\"MSIE 7.0\"] #LoginForm input[type=\"checkbox\"]","html[data-useragent*=\"MSIE 7.0\"] #cboxClose","html[data-useragent*=\"MSIE 7.0\"] #insurance .allBoxes .boxes","html[data-useragent*=\"MSIE 7.0\"] #internet .allBoxes .boxes","html[data-useragent*=\"MSIE 7.0\"] .infoMiddle","html[data-useragent*=\"MSIE 7.0\"] .infoTop","html[data-useragent*=\"MSIE 7.0\"] .lifestyleCalc .counterBox","html[data-useragent*=\"MSIE 7.0\"] .mod-fl-menu ul.fls","html[data-useragent*=\"MSIE 7.0\"] .mod-plan-item ul li figure figcaption","html[data-useragent*=\"Safari\"] #nav-custom","html[data-useragent*=\"iPad\"] .currencyField","html[data-useragent*=\"iPad\"] .currencySpan","html[data-useragent*=\"iPhone\"] .currencyField","html[data-useragent*=\"iPhone\"] .currencySpan","img","input","input[type=\"button\"].btn-block","input[type=\"checkbox\"]","input[type=\"checkbox\"][disabled]","input[type=\"file\"]","input[type=\"number\"]","input[type=\"radio\"]","input[type=\"radio\"][disabled]","input[type=\"reset\"]","input[type=\"reset\"].btn-block","input[type=\"search\"]","input[type=\"submit\"]","input[type=\"submit\"].btn-block","kbd","label","legend","main","mark","nav","ol","ol ol","ol ul","p","pre","pre code","pre.prettyprint","q","samp","section","select","select optgroup","select.input-group-lg > .form-control","select.input-group-lg > .input-group-addon","select.input-group-lg > .input-group-btn > .btn","select.input-group-sm > .form-control","select.input-group-sm > .input-group-addon","select.input-group-sm > .input-group-btn > .btn","select.input-lg","select.input-sm","select[multiple]","select[size]","small","strong","sub","summary","sup","table","table col[class*=\"col-\"]","table td[class*=\"col-\"]","table th[class*=\"col-\"]","td.hidden-lg","td.hidden-lg.hidden-md","td.hidden-lg.hidden-sm","td.hidden-lg.hidden-xs","td.hidden-md","td.hidden-md.hidden-lg","td.hidden-md.hidden-sm","td.hidden-md.hidden-xs","td.hidden-sm","td.hidden-sm.hidden-lg","td.hidden-sm.hidden-md","td.hidden-sm.hidden-xs","td.hidden-xs","td.hidden-xs.hidden-lg","td.hidden-xs.hidden-md","td.hidden-xs.hidden-sm","td.visible-lg","td.visible-lg.visible-md","td.visible-lg.visible-sm","td.visible-lg.visible-xs","td.visible-md","td.visible-md.visible-lg","td.visible-md.visible-sm","td.visible-md.visible-xs","td.visible-print","td.visible-sm","td.visible-sm.visible-lg","td.visible-sm.visible-md","td.visible-sm.visible-xs","td.visible-xs","td.visible-xs.visible-lg","td.visible-xs.visible-md","td.visible-xs.visible-sm","textarea","textarea.form-control","textarea.input-group-lg > .form-control","textarea.input-group-lg > .input-group-addon","textarea.input-group-lg > .input-group-btn > .btn","textarea.input-group-sm > .form-control","textarea.input-group-sm > .input-group-addon","textarea.input-group-sm > .input-group-btn > .btn","textarea.input-lg","textarea.input-sm","th","th.hidden-lg","th.hidden-lg.hidden-md","th.hidden-lg.hidden-sm","th.hidden-lg.hidden-xs","th.hidden-md","th.hidden-md.hidden-lg","th.hidden-md.hidden-sm","th.hidden-md.hidden-xs","th.hidden-sm","th.hidden-sm.hidden-lg","th.hidden-sm.hidden-md","th.hidden-sm.hidden-xs","th.hidden-xs","th.hidden-xs.hidden-lg","th.hidden-xs.hidden-md","th.hidden-xs.hidden-sm","th.visible-lg","th.visible-lg.visible-md","th.visible-lg.visible-sm","th.visible-lg.visible-xs","th.visible-md","th.visible-md.visible-lg","th.visible-md.visible-sm","th.visible-md.visible-xs","th.visible-print","th.visible-sm","th.visible-sm.visible-lg","th.visible-sm.visible-md","th.visible-sm.visible-xs","th.visible-xs","th.visible-xs.visible-lg","th.visible-xs.visible-md","th.visible-xs.visible-sm","tr.hidden-lg","tr.hidden-lg.hidden-md","tr.hidden-lg.hidden-sm","tr.hidden-lg.hidden-xs","tr.hidden-md","tr.hidden-md.hidden-lg","tr.hidden-md.hidden-sm","tr.hidden-md.hidden-xs","tr.hidden-sm","tr.hidden-sm.hidden-lg","tr.hidden-sm.hidden-md","tr.hidden-sm.hidden-xs","tr.hidden-xs","tr.hidden-xs.hidden-lg","tr.hidden-xs.hidden-md","tr.hidden-xs.hidden-sm","tr.visible-lg","tr.visible-lg.visible-md","tr.visible-lg.visible-sm","tr.visible-lg.visible-xs","tr.visible-md","tr.visible-md.visible-lg","tr.visible-md.visible-sm","tr.visible-md.visible-xs","tr.visible-print","tr.visible-sm","tr.visible-sm.visible-lg","tr.visible-sm.visible-md","tr.visible-sm.visible-xs","tr.visible-xs","tr.visible-xs.visible-lg","tr.visible-xs.visible-md","tr.visible-xs.visible-sm","ul","ul ol","ul ul","ul#nav-menu div#mdMenuControl > a#mdMenuControlBtn","ul.megamenuList_ds","ul.menu_ds","video"];pagespeed.criticalCssBeaconInit('/mod_pagespeed_beacon','http://www.vodacom.co.za/vodacom/terms/privacy-policy','xtusgTJKmC','D7YLFnM6YNk',pagespeed.selectors);
+//]]></script></body></html>
