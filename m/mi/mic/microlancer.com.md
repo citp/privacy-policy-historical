@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the microlancer.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327203957id_/http%3A//www.microlancer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microlancer.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230050815id_/http%3A//studio.envato.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Microlancer
+# Privacy Policy - Envato Studio
 
 ## Our policy
 
 1
-     Hi, we’re Envato. Welcome to the privacy policy for Microlancer, Envato’s marketplace for digital services. Your privacy is very important to us so we want to make it clear how we manage it and how you can manage it when you’re giving information to others. 
+     Hi, we’re Envato. Welcome to the privacy policy for Envato Studio, Envato’s marketplace for digital services. Your privacy is very important to us so we want to make it clear how we manage it and how you can manage it when you’re giving information to others. 
 2
-     When we talk about the **site** we’re referring to the Microlancer site. When we mention [Envato](http://envato.com/) it’s because that’s who we are and because we own and run the site. If we say **‘policy’** we’re talking about this privacy policy. If we say **‘user terms’** and **‘service provider additional terms’** we’re talking about the rules for using the site set out in our user terms. 
+     When we talk about the **site** we’re referring to the Envato Studio site. When we mention [Envato](http://envato.com/) it’s because that’s who we are and because we own and run the site. If we say **‘policy’** we’re talking about this privacy policy. If we say **‘user terms’** and **‘service provider additional terms’** we’re talking about the rules for using the site set out in our user terms. 
 
 ### Phew! Now that’s out of the way, let’s get on with the privacy information!
 
@@ -26,7 +26,7 @@
 6
      Other ways you might give us personal information might include subscribing to hear from us, emailing us with a question or posting a comment on our sites. 
 7
-     We collect your personal information so that we can provide our Microlancer platform to you, so you can participate in the community by posting comments or reviews on the sites and so that we can answer questions you ask us. Sometimes we’ll use your personal information for administration or internal business purposes. 
+     We collect your personal information so that we can provide our Envato Studio platform to you, so you can participate in the community by posting comments or reviews on the sites and so that we can answer questions you ask us. Sometimes we’ll use your personal information for administration or internal business purposes. 
 8
      If you choose to buy or provide services on the site, we collect information about your buying and selling behavior. This information is only used for statistical and website development purposes. 
 
@@ -52,7 +52,7 @@
   * The pages which you have accessed;
   * The number of times you access our site within any month;
   * The size of file you look at;
-  * The website which referred you to Microlancer; and
+  * The website which referred you to Envato Studio; and
   * The operating system which your computer uses.
 
 We only use this information for statistical and website development purposes and to improve our services to you. It does not tell us who you are. 
