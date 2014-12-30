@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430090921id_/http%3A//www.machinefinder.com/ww/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230075810id_/http%3A//www.machinefinder.com/ww/en-US/privacy) for the most accurate reproduction.*
 
 # John Deere Privacy and Data US Policies
 
-  * ##  [Policies and Statements](https://web.archive.org/wps/dcom/privacy_and_data/policies_statements/en_US/data_principles/business_data_commitment.page?)
+  * ##  [Policies and Statements](https://web.archive.org/privacy_and_data/policies_statements/en_US/data_principles/business_data_commitment.page?)
 
-  * ###  [Privacy and Data](https://web.archive.org/wps/dcom/privacy_and_data/privacy_and_data_us.page?)
-
-
+  * ###  [Privacy and Data](https://web.archive.org/privacy_and_data/privacy_and_data_us.page?)
 
 
-[Policies and Statements](https://web.archive.org/wps/dcom/privacy_and_data/policies_statements/en_US/data_principles/business_data_commitment.page) / Privacy and Data
+
+
+[Policies and Statements ](https://web.archive.org/privacy_and_data/policies_statements/en_US/data_principles/business_data_commitment.page)
+
+/ Privacy and Data
 
 The Enterprise Privacy Statement tab provides John Deere's global personal information and machine data policy. For a quick overview of this policy, please see the Privacy Summary tab.
 
@@ -275,16 +277,19 @@ Alternatively, you may visit the "Contact Information" tab for the contact infor
 
 ## Additional Privacy Statements
 
-  1. [John Deere Financial United States Privacy Statement](https://web.archive.org/wps/dcom/privacy_and_data/privacy_and_data_us_jdfinancialprivacystatement.page)
+  1. [John Deere Financial United States Privacy Statement](https://web.archive.org/privacy_and_data/privacy_and_data_us_jdfinancialprivacystatement.page)
     * [Privacy Notice - Multi-use Account](https://web.archive.org/privacy_and_data/docs/pdfs/multiuse_privacy.pdf)
     * [Privacy Notice - Revolving Account](https://web.archive.org/privacy_and_data/docs/pdfs/jdfr_privacy.pdf)
     * [Privacy Notice - Installment Account](https://web.archive.org/privacy_and_data/docs/pdfs/installment_privacy.pdf)
     * [Privacy Notice - Budget Billing Account](https://web.archive.org/privacy_and_data/docs/pdfs/budgetbilling_privacy.pdf)
   2. Canadian Privacy Statement 
-    * [English](https://web.archive.org/wps/dcom/privacy_and_data/privacy_and_data_us_canadianprivacystatement.page)
+    * [English](https://web.archive.org/privacy_and_data/privacy_and_data_us_canadianprivacystatement.page)
     * [French  
-](https://web.archive.org/wps/dcom/privacy_and_data/privacy_and_data_us_frenchcanadianprivacystatement.page)
-  3. [John Deere Insurance Company Privacy Statement](https://web.archive.org/wps/dcom/privacy_and_data/privacy_and_data_us_jdfinancialriskprotectionprivacystatement.page)
+](https://web.archive.org/privacy_and_data/privacy_and_data_us_frenchcanadianprivacystatement.page)
+  3. [John Deere Insurance Company Privacy Statement](https://web.archive.org/privacy_and_data/privacy_and_data_us_jdfinancialriskprotectionprivacystatement.page)
+  4. [John Deere Data Services & Subcriptions Data Policy Statement for the United States, Canada, Australia, New Zealand and the Republic of South Africa](http://www.deere.com/privacy_and_data/privacy_and_data_services_subcriptions_policy_us_canada_republic_of_africa.page)
+  5. [John Deere Asia (Singaore) Private Limited Statement](https://web.archive.org/privacy_and_data/john_deere_asia_singapore_private_limited.page)
+  6. [MyJohnDeere Data Privacy Statement for Europe & Russia](https://web.archive.org/privacy_and_data/privacy_and_data_services_subscriptions_data_policy_cis_int.page)
 
 
 
@@ -294,7 +299,7 @@ Alternatively, you may visit the "Contact Information" tab for the contact infor
 
 ## Contact Information
 
-GLOBAL PRIVACY OFFICE:  
+| GLOBAL PRIVACY OFFICE:  
 ---  
        Privacy Manager  
        Office of Corporate Compliance  
@@ -427,4 +432,4 @@ Free call: 1800 800 981 / Phone: +61 7 3802 3222
  **New Zealand** :  
 Free call: 0800 303 100  
   
-**Last Updated:  24 April 2014**
+**Last Updated: 18 November 2014**
