@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixquick.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629065228id_/https%3A//ixquick.com/eng/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixquick.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231151305id_/https%3A//www.ixquick.com/eng/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY - Privacy Policy
 
@@ -48,7 +48,7 @@ As a search engine, and as an advertising publisher, you will find various links
 ## Email addresses
 
 ###  Ixquick will not sell or disclose your contact information to any third parties.  
-When you send comments, questions, suggestions, or feedback to Ixquick via email, and include an email address and/or contact information Ixquick may use this information to respond to you. Ixquick will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding Ixquick company information. This service is opt-in and includes the option to unsubscribe.
+When you send comments, questions, suggestions, or feedback to Ixquick via email or through our support center, and include an email address and/or contact information, Ixquick may use this information to respond to you. By submitting feedback you also allow us to detect which browser and operating system you are using, information that will exclusively be used for helping to better understand and solve any reported issues better. We will store your browser and operating system information for a maximum of 30 days and then delete it. Ixquick will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding Ixquick company information. This service is opt-in and includes the option to unsubscribe.
 
 ## Children Under 13 Years of Age
 
