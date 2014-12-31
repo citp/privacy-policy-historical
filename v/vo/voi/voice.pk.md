@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516210627id_/http%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231162645id_/http%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Voice of Pakistan
 
-This privacy statement discloses the privacy practices for all pages and services offered by **Voice.PK**
+This privacy statement discloses the privacy practices for all pages and services offered by **Voice.PK (Voice of Pakistan)**
 
 **» Personally Provided Information  
 **
 
-You do not have to give us personal information to visit **Voice.PK**. If you choose to provide us with additional information through an e-mail message, inquiry form, comments, etc., we will only maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party.
+You do not have to give us personal information to visit **Voice.PK (Voice of Pakistan)**. If you choose to provide us with additional information through an e-mail message, inquiry form, comments, etc., we will only maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party.
 
 **» Website Traffic Analysis Software  
 **
@@ -22,20 +22,18 @@ If users wish to subscribe to our e-mail newsletters, we ask for contact informa
 
 [Click here to Subscribe to our newsletters for Free](http://feedburner.google.com/fb/a/mailverify?uri=feedburner/voicepk "Free Email Subscription of Daily Updated News")
 
-******»  **Third Party Advertising Partners
+**»  **Third Party Advertising Partners
 
-All users of  **Voice.PK**  must keep this in mind that third parties may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving on **Voice.PK**.
+All users of  **Voice.PK (Voice of Pakistan)**  must keep this in mind that third parties may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving on our website.
 
-For, instance one of our partners, Google uses the [ DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) on **Voice.PK** displaying AdSense for content ads. Similarly, other advertising partners may use their respective cookies to track advertising stats.
+For, instance one of our partners, Google uses the [ DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) on **Voice.PK (Voice of Pakistan)** displaying Google AdSense for content ads. Similarly, other advertising partners may use their respective cookies to track advertising stats.
 
 **» External Links**
 
-Our web sites contain links to other sites.  **Voice.PK** is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personal information.
+Our web sites contain links to other sites.  **Voice.PK (Voice of Pakistan)** is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personal information.
 
 **» Disclaimer:**
 
 Mostly News, Articles and Images are not under our copyrights, these belong to their respective owners. News, Images and Articles have been taken from different sources, If anything is offensive or under your Copyrights then please E-mail us at admin@voice.pk to get it removed.
 
 Note: This Page can get updated any time, without an prior noitce, so keep checking back.
-
-_Last updated: September 12, 2013_
