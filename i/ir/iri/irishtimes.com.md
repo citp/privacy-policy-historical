@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630133909id_/http%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231195927id_/https%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Irish Times
 
