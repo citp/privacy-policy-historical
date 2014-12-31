@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webtrafficwholesale.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024084624id_/http%3A//www.webtrafficwholesale.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrafficwholesale.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231133420id_/http%3A//www.webtrafficwholesale.com/privacy) for the most accurate reproduction.*
 
-# WebTrafficWholesale Privacy Policy
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -52,19 +52,19 @@ This online privacy policy applies only to information collected through our web
 
  **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our online privacy policy.
 
  **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on Dec 23, 2010
+This policy was last modified on Feb 7, 2014
 
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-www.webtrafficwholesale.com  
+WebTrafficWholesale.com  
 Box 462  
 Odessa, Ontario K0H 2H0  
 Canada  
