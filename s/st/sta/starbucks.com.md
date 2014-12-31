@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucks.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021220id_/http%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231022119id_/http%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Starbucks Coffee Company
 
@@ -71,7 +71,7 @@ Starbucks offers choices for you to request to update or change your personal in
 
   * Follow the opt-out instructions in promotional emails we send you.
   * Log in to your Starbucks.com account, if you have one, and visit the profile management section to manage your contact information (SMS text, email and postal address) preferences and to update your personal information.  
-  * Call 1-800-STARBUC. 
+  * Call 800-782-7282. 
 
 
 
@@ -93,4 +93,4 @@ We may update this privacy policy from time to time. When we do so, we will post
 
 We welcome your questions, comments and concerns about privacy.
 
-Starbucks Customer Relations can be contacted online, at (800) 235-2883 or by postal mail at Starbucks Customer Relations, PO Box 3717, Seattle, WA 98124-3717.
+Starbucks Customer Service can be contacted online, at (800) 782-7282 or by postal mail at Starbucks Customer Service, PO Box 6363, Dover, DE 19905-6363.
