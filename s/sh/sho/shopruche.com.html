@@ -1,20 +1,15 @@
-<!--The following is the downloaded HTML source of the shopruche.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626145624id_/http%3A//shopruche.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopruche.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231030835id_/http%3A//shopruche.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--<![endif]--><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="//tags.tiqcdn.com/utag/ruche/main/prod/utag.js" type="text/javascript" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQHUlZXGwEBUVNSBgE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-				<title>Privacy Policy - Terms Of Service | Ruche</title>
-				<meta name="description" content="This is fun stuff here, pretty standard if you ask us. Read on if you are in law school, or you need something to bore you away into sleep. Seriously, it's our Privacy Policy and Terms of Service.">
-				<meta name="keywords" content="">
-				<meta name="robots" content="INDEX,FOLLOW">
-			<meta property="og:title" content="Shop at ShopRuche.com, Vintage Inspired Clothing, Affordable Clothes, Eco friendly Fashion">
-<meta property="og:type" content="website">
-<meta property="og:url" content="http://shopruche.com/privacy.html">
-<meta property="og:locale" content="en_US">
 
-<meta property="twitter:account_id" content="19057001">
-<link rel="icon" href="http://cdn.shopruche.com/skin/frontend/shopruche/default/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://cdn.shopruche.com/skin/frontend/shopruche/default/favicon.ico" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="//tags.tiqcdn.com/utag/ruche/main/prod/utag.js" type="text/javascript" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+<title>Privacy Policy - Terms Of Service | Ruche | Ruche</title>
+<meta name="description" content="This is fun stuff here, pretty standard if you ask us. Read on if you are in law school, or you need something to bore you away into sleep. Seriously, it's our Privacy Policy and Terms of Service.">
+<meta name="keywords" content="cute dresses, vintage inspired clothing, vintage inspired clothes,affordable clothing, cute vintage inspired dresses,women's clothing, womens clothing, affordable online boutique, online boutique, online clothing store">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/favicon.ico" type="image/x-icon">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
@@ -23,39 +18,41 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v2/css/styles.css?v=1.0.17" media="all">
-<link rel="stylesheet" type="text/css" href="http://cdn.shopruche.com/skin/frontend/shopruche/default/css/fancybox20/jquery.fancybox.css?v=1.0.17" media="all">
-<link rel="stylesheet" type="text/css" href="http://cdn.shopruche.com/skin/frontend/shopruche/default/css/widgets.css?v=1.0.17" media="all">
-<link rel="stylesheet" type="text/css" href="http://cdn.shopruche.com/skin/frontend/base/default/css/catalogsale.css?v=1.0.17" media="all">
-<link rel="stylesheet" type="text/css" href="http://cdn.shopruche.com/skin/frontend/shopruche/default/css/print.css?v=1.0.17" media="print">
-<script type="text/javascript" src="http://cdn.shopruche.com/js/prototype/prototype.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/js/lib/ccard.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/js/prototype/validation.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/js/scriptaculous/builder.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/js/scriptaculous/effects.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/js/scriptaculous/dragdrop.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/js/scriptaculous/controls.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/js/scriptaculous/slider.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/js/varien/js.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/js/varien/form.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/js/varien/menu.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/js/mage/translate.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/js/mage/cookies.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/default/js/scripts.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v2/js/main.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v2/js/jquery.min-1.9.1.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v2/js/jquery-migrate-1.1.1.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v2/js/jquery.browser.min.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v2/js/jquery.fancybox.20.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v2/js/min/ruche_float_mdw.min.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/default/js/enterprise/catalogevent.js?v=1.0.7"></script>
-<link href="http://shopruche.com/rss/catalog/new/store_id/1/" title="New Products" rel="alternate" type="application/rss+xml">
-<!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://cdn.shopruche.com/skin/frontend/shopruche/default/css/styles-ie.css?v=1.0.17" media="all" />
-<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/css/styles.css?v=1.0.6" media="all">
+<link rel="stylesheet" type="text/css" href="http://cdn.shopruche.com/skin/frontend/base/default/css/widgets.css?v=1.0.6" media="all">
+<link rel="stylesheet" type="text/css" href="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/css/stylesheets/vendor/cloudzoom.css?v=1.0.6" media="all">
+<link rel="stylesheet" type="text/css" href="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/css/amasty/amshopby.css?v=1.0.6" media="all">
+<link rel="stylesheet" type="text/css" href="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/css/magestore/giftvoucher.css?v=1.0.6" media="all">
+<link rel="stylesheet" type="text/css" href="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/css/print.css?v=1.0.6" media="print">
+<script type="text/javascript" src="http://cdn.shopruche.com/js/prototype/prototype.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/js/lib/ccard.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/js/prototype/validation.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/js/scriptaculous/builder.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/js/scriptaculous/effects.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/js/scriptaculous/dragdrop.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/js/scriptaculous/controls.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/js/scriptaculous/slider.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/js/varien/js.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/js/varien/form.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/js/varien/menu.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/js/mage/translate.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/js/mage/cookies.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/js/vendor/modernizr.min.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/js/vendor/angular.min.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/js/vendor/jquery-1.11.0.min.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/js/vendor/jquery.noConflict.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/js/vendor/jquery-migrate-1.2.1.min.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/js/vendor/jquery.browser.min.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/js/vendor/jquery.fancybox.20.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/js/app/main.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/js/vendor/cloud-zoom/cloudzoom.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/js/magestore/giftvoucher.js?v=1.0.4"></script>
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://cdn.shopruche.com/js/lib/ds-sleight.js?v=1.0.7"></script>
-<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/default/js/iehover-fix.js?v=1.0.7"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/js/lib/ds-sleight.js?v=1.0.4"></script>
+<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/base/default/js/iehover-fix.js?v=1.0.4"></script>
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://cdn.shopruche.com/skin/frontend/base/default/css/styles-ie.css?v=1.0.6" media="all" />
 <![endif]-->
 
 <script type="text/javascript">
@@ -67,372 +64,270 @@ Mage.Cookies.domain   = '.shopruche.com';
 
 <script type="text/javascript">
 //<![CDATA[
-optionalZipCountries = ["HK"];
+optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-<link rel="alternate" type="application/rss+xml" title="Ruche Blog - RSS Feed" href="http://shopruche.com/blog/feed">
-<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script></head>
-<body class=" cms-page-view cms-privacy-html">
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script></head>
+<body class=" cms-page-view cms-privacy-html cms-privacy-html">
 <div class="wrapper wrapper-graphic">
         <noscript>
-        <div class="noscript">
-            <div class="noscript-inner">
-                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
-                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
             </div>
         </div>
     </noscript>
-    <div class="page">
-        
+    
+
 
 <div class="header-container">
     
-    <div class="header-middle header-panel">
+    <div class="header-panel">
         <div class="ruche-col ruche-col-left ruche-logo">
             <a href="/" title="Home">
-                <img src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v2/images/ruche-logo.png" alt="shopruche.com">
+                <img src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/images/ruche-logo.png" alt="shopruche.com">
             </a>
         </div>
 
 
-       <div class="ruche-col ruche-col-right">
+        <div class="ruche-col ruche-col-right">
 
             <div class="header-top header-top-nav">
-                <div class="header-top-block">
-                    
-    <ul class="links">
-        <li class="first"><a href="/customer/account/login/" title="Sign In">SIGN IN</a></li>
-        <li class=" last"> or <a href="/customer/account/create/" title="Register">Register</a></li>
-    </ul>
+                            <div class="header-top-block acct-menu-block">
+            
+                <ul class="links">
+                    <li class="first"><a href="/customer/account/login/" title="Sign In">sign in</a></li>
+                    <li class=" last"> or <a href="#register" id="register_link">register</a></li>
+                </ul>
+
+                                </div>
+
+				
+                                <div class="header-top-block">
+                    <a href="#" class="ruche-shopping-cart">shopping cart (<span class="header-shopping-cart-amt">0</span>)</a>
+                    <div id="minicart" style="display: none;">
+
+    <div class="minicart-section clearfix">
+        <a href="/checkout/cart/" class="ruche-btn-minicart" id="minicart-gotocart">GO TO SHOPPING CART &gt;</a>
+        <p>RECENTLY ADDED ITEMS <span class="ruche-minicart-close" onclick="Minicart.hide();">^</span></p>
+    </div>
+
+
+    <div id="minicart-item-proto" class="minicart-item clearfix" style="display: none;">
+        <div class="product-image-container pull-left">
+            <a href="#"><img class="product-image" width="85px" height="123px"></a>
+        </div>
+        <div class="product-info-container pull-right">
+            <div class="mc-name"><a href="#"><span class="name"></span></a></div>
+            <div class="mc-price-qty-container">
+                <div class="mc-pq-left">
+                    <span>price&nbsp;&nbsp;</span>
+                    <span>qty&nbsp;&nbsp;</span>
+                    <span class="size" style="display: none;">size&nbsp;&nbsp;</span>
+                </div>
+                <div class="mc-pq-right">
+                    <span class="price"></span>
+                    <span class="qty"></span>
+                    <span class="size" style="display: none;"></span>
+                </div>
+            </div>
+            
+            
+            <a class="remove" onclick="">remove</a>
+        </div>
+    </div>
+
+    <div id="minicart-items">
+        NO ITEMS IN CART
+    </div>
 
     
+    <div class="minicart-section clearfix">
+        <div id="minicart-subtotal">CART SUBTOTAL&nbsp;$<span class="price"></span></div>
+
+        <p class="paypal-logo" style="text-align: center;">
+            <a id="ec_shortcut" href="/paypal/express/start/"><img src="https://www.paypal.com/en_US/i/btn/btn_xpressCheckout.gif" alt="Checkout with PayPal" title="Checkout with PayPal"></a>
+        </p>
+        <span style="display: block; margin: 10px auto; text-align:center;">OR</span>
+        <a href="/rcheckout/" class="ruche-btn-minicart purple" id="minicart-gotocheckout">PROCEED TO CHECKOUT &gt;</a>
+    </div>
+
+
+</div>                </div>
+                
+                <div class="header-top-block">
+                    <a id="header-gotocheckout" href="/rcheckout/">checkout</a>
                 </div>
 
-                <div class="header-top-block"><!--{CART_SIDEBAR_78a7ac32b82c75a280574cc4fda17b8c}-->
-<div class="top-cart">
-        <div class="block-title no-items">
-        <span id="cartHeader">Shopping Cart</span>
-    </div>
-    <div id="topCartContent" class="block-content" style="display:none">
-        <div class="inner-wrapper">                            <p class="block-subtitle">
-                <span onclick="Enterprise.TopCart.hideCart()" class="close-btn"></span>
-                Recently added items            </p>
-            <p class="cart-empty">
-                You have no items in your shopping cart.            </p>
-                        </div>
-		<div class="bottom"></div>
-    </div>
-<script type="text/javascript">
-    Enterprise.TopCart.initialize('topCartContent');
-    // Below can be used to show minicart after item added
-    // Enterprise.TopCart.showCart(7);
-</script>
-</div>
-<!--/{CART_SIDEBAR_78a7ac32b82c75a280574cc4fda17b8c}--></div>
-                <div class="header-top-block"><ul class="links">
-                        <li class="first last"><a href="https://shopruche.com/onestepcheckout/" title="checkout" class="top-link-onestepcheckout">checkout</a></li>
-            </ul>
-</div>
-            </div><!--.header-top-nav-->
-
-            
-
+                
 <div class="ruche-search">
-	<script type="text/javascript">
-	jQuery(document).ready(function ($){ 
-		$('#go-button').click(function(){
-			$('#search_mini_form').submit();
-		});
-	});
-	</script>
-
 	<form id="search_mini_form" action="http://shopruche.com/catalogsearch/result/" method="get">
-	<div class="form-search">
-	&nbsp;<label for="search"></label><input id="search" type="text" name="q" value="" class="input-text" size="18">&nbsp;
-	<div id="go-button"></div>
-
-	    <div id="search_autocomplete" class="search-autocomplete"></div>
-	    <script type="text/javascript">
-	    //<![CDATA[
-	        var searchForm = new Varien.searchForm('search_mini_form', 'search', 'ENTER SEARCH HERE');
-	        //searchForm.initAutocomplete('http://shopruche.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
-	    //]]>
-	    </script>
-	</div>
-
+		<div class="form-search">
+			<input id="search" type="text" name="q" value="" class="input-text" size="18">&nbsp;
+			<div id="go-button"></div>
+		    <div id="search_autocomplete" class="search-autocomplete"></div>
+		    <script type="text/javascript">
+		    //<![CDATA[
+		        var searchForm = new Varien.searchForm('search_mini_form', 'search', 'search');
+		    //]]>
+		    </script>
+		</div>
 	</form>
 </div>
 
+
+            </div><!--.header-top-->
+            
             <div class="clear"></div>
+            <hr>
+            <ul class="ruche-nav ruche-nav-main"> 
+    <li id="menu-new-arrivals">
+        <a href="http://shopruche.com/new-arrivals.html"></a>
+        <ul class="menu-sub">
+            <li class="menu-sub-caret"></li>
+            <li><a href="http://shopruche.com/new-arrivals.html">New Arrivals</a></li>
+            <li><a href="http://shopruche.com/back-in-stock.html">Back In Stock</a></li>
+            <li><a href="http://shopruche.com/last-chance.html">Last Chance</a></li>
+            <li class="menu-sub-spacer"></li>
+        </ul>
+    </li>
+    <li id="menu-clothing">
+        <a href="http://shopruche.com/vintage-inspired-clothing.html"></a>
+        <ul class="menu-sub"><li class="menu-sub-caret"></li><li><a href="http://shopruche.com/cute-dresses.html">Dresses</a></li><li><a href="http://shopruche.com/tops.html">Tops</a></li><li><a href="http://shopruche.com/sweaters.html">Sweaters</a></li><li><a href="http://shopruche.com/outerwear.html">Jackets &amp; Coats</a></li><li><a href="http://shopruche.com/pants.html">Pants</a></li><li><a href="http://shopruche.com/shorts.html">Shorts</a></li><li><a href="http://shopruche.com/skirts.html">Skirts</a></li><li><a href="http://shopruche.com/swimsuits.html">Swimwear</a></li><li><a href="http://shopruche.com/plus-size-clothing.html">Curvy Plus</a></li><li class="menu-sub-spacer"></li></ul>    </li>
+    <li id="menu-shoes">
+        <a href="http://shopruche.com/cute-shoes.html"></a>
+        <ul class="menu-sub"><li class="menu-sub-caret"></li><li><a href="http://shopruche.com/boots.html">Boots</a></li><li><a href="http://shopruche.com/heels-wedges.html">Heels &amp; Wedges</a></li><li><a href="http://shopruche.com/flats.html">Flats</a></li><li><a href="http://shopruche.com/sandals.html">Sandals</a></li><li class="menu-sub-spacer"></li></ul>    </li>
+    <li id="menu-accessories">
+        <a href="http://shopruche.com/accessories.html"></a>
+        <ul class="menu-sub"><li class="menu-sub-caret"></li><li><a href="http://shopruche.com/jewelry.html">Jewelry</a></li><li><a href="http://shopruche.com/purses.html">Purses</a></li><li><a href="http://shopruche.com/scarves.html">Scarves</a></li><li><a href="http://shopruche.com/socks-tights.html">Socks &amp; Tights</a></li><li><a href="http://shopruche.com/belts.html">Belts</a></li><li><a href="http://shopruche.com/hair-accessories.html">Hat &amp; Hair</a></li><li><a href="http://shopruche.com/gloves.html">Gloves</a></li><li><a href="http://shopruche.com/eyewear.html">Eyewear</a></li><li><a href="http://shopruche.com/watches.html">Watches</a></li><li><a href="http://shopruche.com/beauty.html">Beauty</a></li><li class="menu-sub-spacer"></li></ul>    </li>
+    <li id="menu-bridal">
+        <a href="http://shopruche.com/bridal.html"></a>
+        <ul class="menu-sub"><li class="menu-sub-caret"></li><li><a href="/bridal.html">Bridal Home</a></li><li><a href="http://shopruche.com/bridal-dresses.html">Bridal Dresses</a></li><li><a href="http://shopruche.com/bridesmaid-dresses.html">Bridesmaid Dresses</a></li><li><a href="http://shopruche.com/vintage-bridal.html">Vintage</a></li><li><a href="http://shopruche.com/bridal-shoes.html">Shoes</a></li><li><a href="http://shopruche.com/bridal-accessories.html">Accessories</a></li><li><a href="http://shopruche.com/wedding-gifts-decor.html">Gifts &amp; Decor</a></li><li class="menu-sub-spacer"></li></ul>    </li>
 
-       </div>
-    </div><!--.header-middle-->
+    <li id="menu-home-office">
+        <a href="http://shopruche.com/home-office.html"></a>
+        <ul class="menu-sub"><li class="menu-sub-caret"></li><li><a href="http://shopruche.com/books.html">Books</a></li><li><a href="http://shopruche.com/home-decor.html">Room Decor</a></li><li><a href="http://shopruche.com/wall-art.html">Wall Art</a></li><li><a href="http://shopruche.com/kitchen.html">Kitchen</a></li><li><a href="http://shopruche.com/desk-accessories.html">Desktop</a></li><li><a href="http://shopruche.com/children.html">Children</a></li><li><a href="http://shopruche.com/pet-accessories.html">Pet</a></li><li class="menu-sub-spacer"></li></ul>    </li>
+        <li id="menu-features">
+        <a href="http://shopruche.com/features.html"></a>
+    </li>
+    <li id="menu-sale">
+        <a href="http://shopruche.com/sale.html"></a>
+        <ul class="menu-sub"><li class="menu-sub-caret"></li><li><a href="http://shopruche.com/sale-dresses.html">Dresses</a></li><li><a href="http://shopruche.com/sale-tops.html">Tops</a></li><li><a href="http://shopruche.com/sale-bottoms.html">Bottoms</a></li><li><a href="http://shopruche.com/sale-outerwear.html">Outerwear</a></li><li><a href="http://shopruche.com/sale-accessories.html">Accessories</a></li><li><a href="http://shopruche.com/sale-shoes.html">Shoes</a></li><li><a href="http://shopruche.com/sale-curvy-plus.html">Curvy Plus</a></li><li><a href="http://shopruche.com/sale-home-office.html">Home &amp; Office</a></li><li><a href="http://shopruche.com/clearance.html">Clearance</a></li><li><a href="http://shopruche.com/sale-bridal.html">Bridal</a></li><li class="menu-sub-spacer"></li></ul>    </li>
+    <li id="menu-blog" class="menu-last">
+        <a href="http://shopruche.com/blog" target="_blank"></a>
+        <ul class="menu-sub menu-sub-right">
+            <li class="menu-sub-caret"></li>
+            <li><a href="http://shopruche.com/blog" target="_blank">Ruche Blog</a></li>
+            <li class="menu-sub-title">Guides</li>
+            <ul class="menu-sub-sub">
+                <li><a href="http://shopruche.com/wedding-planning-checklist.html">Engagement Guide</a></li>
+                <li><a href="http://shopruche.com/vintage-clothing.html">Vintage Clothing Guide</a></li>
+                <li><a href="http://shopruche.com/business-casual-dress-code.html">Business Casual Dress Code</a></li>
+                            </ul>
+            
+        </ul>
+    </li>
+</ul>
 
-       
-    <div class="header-bottom header-main-nav">
-    	<ul class="ruche-nav ruche-nav-main"> 
-        	<li id="menu-new-arrivals">
-            	<a href="/products-new.html"></a>
-                <ul class="menu-sub">
-                    <li class="menu-sub-caret"></li>
-                    <li><a href="/products-new.html">new arrivals</a></li>
-                    <li><a href="/back-in-stock-c-176.html">back in stock</a></li>
-                    <li><a href="/last-chance.html">last chance</a></li>
-                    <!-- <li><a href="/ruchette-1.html">the ruchette outfits</a></li> -->
-                    <li class="menu-sub-spacer"></li>
-                </ul>
-            </li>
-            <li id="menu-clothing">
-                <a href="/vintage-inspired-clothing.html"></a>
-                <ul class="menu-sub">
-                    <li class="menu-sub-caret"></li>
-                    						   <li><a href="http://shopruche.com/cute-dresses.html">Dresses</a></li>
-                        						   <li><a href="http://shopruche.com/tops-c-1.html">Tops</a></li>
-                        						   <li><a href="http://shopruche.com/sweaters.html">Sweaters</a></li>
-                        						   <li><a href="http://shopruche.com/outerwear-c-19.html">Jackets &amp; Coats</a></li>
-                        						   <li><a href="http://shopruche.com/pants.html">Pants</a></li>
-                        						   <li><a href="http://shopruche.com/shorts.html">Shorts</a></li>
-                        						   <li><a href="http://shopruche.com/skirts.html">Skirts</a></li>
-                        						   <li><a href="http://shopruche.com/swimwear.html">Swimwear</a></li>
-                        						   <li><a href="http://shopruche.com/curvy-plus-sizes-c-177.html">Curvy Plus</a></li>
-                                            <li class="menu-sub-spacer"></li>
-                </ul>
-            </li>
-            <li id="menu-shoes">
-                <a href="/shoes-c-9.html"></a>
-				<ul class="menu-sub">
-                    <li class="menu-sub-caret"></li>
-                    						   <li><a href="http://shopruche.com/shoes-c-9/boots.html">Boots</a></li>
-                        						   <li><a href="http://shopruche.com/shoes-c-9/heels-wedges.html">Heels &amp; Wedges</a></li>
-                        						   <li><a href="http://shopruche.com/shoes-c-9/flats.html">Flats</a></li>
-                        						   <li><a href="http://shopruche.com/shoes-c-9/sandals.html">Sandals</a></li>
-                                            <li class="menu-sub-spacer"></li>
-                </ul>
-            </li>
-            <li id="menu-accessories">
-                <a href="/accessories.html"></a>
-                <ul class="menu-sub">
-                    <li class="menu-sub-caret"></li>
-                    						   <li><a href="http://shopruche.com/accessories/jewelry.html">Jewelry</a></li>
-                        						   <li><a href="http://shopruche.com/accessories/purses.html">Purses</a></li>
-                        						   <li><a href="http://shopruche.com/accessories/scarves.html">Scarves</a></li>
-                        						   <li><a href="http://shopruche.com/accessories/socks-tights.html">Socks &amp; Tights</a></li>
-                        						   <li><a href="http://shopruche.com/accessories/belts.html">Belts</a></li>
-                        						   <li><a href="http://shopruche.com/accessories/hat-hair.html">Hat &amp; Hair</a></li>
-                        						   <li><a href="http://shopruche.com/accessories/eyewear.html">Eyewear</a></li>
-                        						   <li><a href="http://shopruche.com/accessories/watches.html">Watches</a></li>
-                        						   <li><a href="http://shopruche.com/accessories/beauty.html">Beauty</a></li>
-                                            <li class="menu-sub-spacer"></li>
-                </ul>
-            </li>
-            <li id="menu-bridal">
-                <a href="/bridal.html"></a>
-                <ul class="menu-sub">
-                    <li class="menu-sub-caret"></li>
-                    <li><a href="/bridal.html">bridal homepage</a></li>
-                                               <li><a href="http://shopruche.com/bridal/dresses.html">Bridal Dresses</a></li>
-                                                   <li><a href="http://shopruche.com/bridal/bridesmaid-dresses.html">Bridesmaid Dresses</a></li>
-                                                   <li><a href="http://shopruche.com/bridal/vintage.html">Vintage</a></li>
-                                                   <li><a href="http://shopruche.com/bridal/shoes.html">Shoes</a></li>
-                                                   <li><a href="http://shopruche.com/bridal/accessories.html">Accessories</a></li>
-                                                   <li><a href="http://shopruche.com/bridal/wedding-gifts-decor.html">Gifts &amp; Decor</a></li>
-                                            <li class="menu-sub-spacer"></li>
-                </ul>
-            </li>
-            <li id="menu-home-office">
-                <a href="/home-office-c-228.html"></a>
-                <ul class="menu-sub">
-                    <li class="menu-sub-caret"></li>
-                                                                        
-                                                                            
-                                                                            
-                                                                            
-                                                                            
-                                                                            
-                                                                            
-                        <li><a href="http://shopruche.com/home-office-c-228/books.html">Books</a></li><li><a href="http://shopruche.com/home-office-c-228/room-decor.html">Room Decor</a></li><li><a href="http://shopruche.com/home-office-c-228/wall-art.html">Wall Art</a></li><li><a href="http://shopruche.com/home-office-c-228/kitchen.html">Kitchen</a></li><li><a href="http://shopruche.com/home-office-c-228/desktop.html">Desktop</a></li><li><a href="/children.html">children</a></li><li><a href="http://shopruche.com/home-office-c-228/pet.html">Pet</a></li><li><a href="http://shopruche.com/home-office-c-228/gifts.html">Gifts</a></li>                    <li class="menu-sub-spacer"></li>
-                </ul>
-            </li>
-                        <li id="menu-features">
-                <a href="/features.html"></a>
-            </li>
-            <li id="menu-sale">
-            	<a href="/specials.html"></a>
-				<ul class="menu-sub">
-                    <li class="menu-sub-caret"></li>
-                    						   <li><a href="http://shopruche.com/specials/sale-dresses.html">Dresses</a></li>
-                        						   <li><a href="http://shopruche.com/specials/sale-tops.html">Tops</a></li>
-                        						   <li><a href="http://shopruche.com/specials/sale-bottoms.html">Bottoms</a></li>
-                        						   <li><a href="http://shopruche.com/specials/sale-outerwear.html">Outerwear</a></li>
-                        						   <li><a href="http://shopruche.com/specials/sale-accessories.html">Accessories</a></li>
-                        						   <li><a href="http://shopruche.com/specials/sale-shoes.html">Shoes</a></li>
-                        						   <li><a href="http://shopruche.com/specials/sale-curvy-plus.html">Curvy Plus</a></li>
-                        						   <li><a href="http://shopruche.com/specials/sale-home-office.html">Home &amp; Office</a></li>
-                        						   <li><a href="http://shopruche.com/specials/sale-children.html">Children</a></li>
-                                            <li class="menu-sub-spacer"></li>
-                </ul>
-            </li>
-            <li id="menu-blog" class="menu-last">
-            	<a href="/blog" target="_blank"></a>
-                <ul class="menu-sub menu-sub-right">
-                    <li class="menu-sub-caret"></li>
-                    <li><a href="/blog" target="_blank">ruche blog</a></li>
-                    <li class="menu-sub-title">Guides</li>
-                    <ul class="menu-sub-sub">
-                        <li><a href="/wedding-planning-checklist.html">engagement guide</a></li>
-                        <li><a href="/vintage-clothing.html">vintage clothing guide</a></li>
-                                            </ul>
-                    
-                </ul>
-            </li>
-    	</ul>
-        <div class="clearfix"></div>
-    </div><!--.header-bottom-->
+
+        </div>
+    </div><!--.header-panel-->
 
 </div><!--.header-container-->
 
 <div class="ruche-promo-container">
+<div class="ruche-promo-inner-container">
 <div class="ruche-promo-col ruche-col-left" style="margin-left: 0px; width: 342px;">
     <div class="ruche-promo-content">
-        <a href="/specials.html">SALE SALE SALE</a>
-        <div class="ruche-promo-sub sand">
-            <a href="/specials.html">
-                <img src="//cdn.shopruche.com/media/shopruche/homepage/2014_06_16/1.jpg" alt="">
-            </a>
-        </div>
+        <a href="https://shopruche.com/customer/account/login/">New to Ruche? <span style="color:#e73527">HERE'S 20% OFF!</span></a>
+        <div class="ruche-promo-sub sand" style="margin-top:-1px;"><a href="https://shopruche.com/customer/account/login/"><img src="//cdn.shopruche.com/media/shopruche/homepage/2014_10_06/promo/1.jpg" alt=""></a></div>
     </div>
 </div>
 <div class="ruche-promo-col ruche-col-mid">
     <div class="ruche-promo-content ruche-col-border">
-        <a href="#" onclick="return false;">FREE SHIPPING over $75</a>
-        <div class="ruche-promo-sub sand">
-            <a href="/shippinginfo.html">
-                <img src="//cdn.shopruche.com/media/shopruche/homepage/2014_01_27/promo/2.jpg" alt="">
-            </a>
-        </div>
+        <a href="http://shopruche.com/shippinginfo.html">Free Shipping over $75</a>
+        <div class="ruche-promo-sub sand"><a href="http://shopruche.com/shippinginfo.html"><img src="//cdn.shopruche.com/media/shopruche/homepage/2014_01_27/promo/2.jpg" alt=""></a></div>
     </div>
 </div>
-<div class="ruche-promo-col ruche-col-right" style="float: none; margin-left: -3px; width: 328px; ">
+<div class="ruche-promo-col ruche-col-right" style="width: 329px;">
     <div class="ruche-promo-content">
-        <a href="/swimwear.html">Dive in! Shop Summer Swimwear! </a>
+        <a href="http://shopruche.com/cute-dresses.html">The Dress Shop</a></div>
     </div>
 </div>
 </div>
-
+</div>
 <script type="text/javascript">// <![CDATA[
 jQuery(document).ready(function(){
 
-    var _now = calcTimePromo(-7);
+    var _now = calcTimePromo(-8);
 
-    var _fdate_promo1 = new Date("June 09, 2014 00:00:01");
-    var _edate_promo1 = new Date("June 16, 2014 00:00:01");
+    var _fdate_promo1 = new Date("Dec 21, 2014 00:00:01");
+    var _edate_promo1 = new Date("Dec 26, 2014 23:59:59");
 
-    var _fdate_promo2 = new Date("June 16, 2014 00:00:02");
-    var _edate_promo2 = new Date("June 21, 2014 00:00:01");
+    var _fdate_promo2 = new Date("Dec 23, 2014 00:00:01");
+    var _edate_promo2 = new Date("Dec 26, 2014 23:59:59");
 
-    var _fdate_promo3 = new Date("June 19, 2014 06:00:02");
-    var _edate_promo3 = new Date("June 21, 2014 00:00:01");
+    var _fdate_promo3 = new Date("Dec 29, 2014 06:00:00");
+    var _edate_promo3 = new Date("Jan 01, 2015 00:00:01");
 
-    var _fdate_promo4 = new Date("June 21, 2014 00:00:02");
-    var _edate_promo4 = new Date("June 21, 2014 06:00:01");
+    var _fdate_promo4 = new Date("Jan 01, 2015 00:00:01");
+    var _edate_promo4 = new Date("Jan 02, 2015 23:59:59");
 
-    var _fdate_promo5 = new Date("June 21, 2014 06:00:02");
-    var _edate_promo5 = new Date("June 30, 2014 06:00:01");
+    var _fdate_promo5 = new Date("Dec 29, 2014 00:00:00");
+    var _edate_promo5 = new Date("Jan 01, 2015 00:00:01");
+
+    
+
 
     if (_now >= _fdate_promo1 && _now <= _edate_promo1) {
-        jQuery('.ruche-promo-container').html('<div class="ruche-promo-col ruche-col-left" style="margin-left: 0px; width: 342px;"><div class="ruche-promo-content" style="margin-top: 0px;"><img src="//cdn.shopruche.com/media/shopruche/homepage/2014_06_09/30off100.jpg" alt="" /></div></div><div class="ruche-promo-col ruche-col-mid"><div class="ruche-promo-content ruche-col-border"><a href="#" onclick="return false;">FREE SHIPPING over $75</a><div class="ruche-promo-sub sand"><a href="/shippinginfo.html"><img src="//cdn.shopruche.com/media/shopruche/homepage/2014_01_27/promo/2.jpg" alt=""></a></div></div></div><div class="ruche-promo-col ruche-col-right" style="float: none; margin-left: -3px; width: 328px; "><div class="ruche-promo-content"><a href="/swimwear.html">Dive in! Shop Summer Swimwear! </a></div></div>');
+        jQuery('.ruche-promo-col.ruche-col-right').html('\
+             <div class="ruche-promo-content"><a href="http://shopruche.com/gift-card.html"><img style="margin-top: -10px;" src="//cdn.shopruche.com/media/shopruche/homepage/2014_12_15/promo/12_21_gift_cards.jpg"></a>\
+             </div>\
+         ');
     }
 
     if (_now >= _fdate_promo2 && _now <= _edate_promo2) {
-        jQuery('.ruche-promo-container').html('\
-            <div class="ruche-promo-col ruche-col-left" style="margin-left: 0px; width: 342px;">\
-                <div class="ruche-promo-content">\
-                    <a href="/products-new.html">THIS WEEK ONLY: Daily New Arrivals! </a>\
+        jQuery('.ruche-promo-col.ruche-col-left').html('\
+             <div class="ruche-promo-content">\
+             <a href="http://shopruche.com/new-arrivals.html"><img style="margin-top: -10px;" src="//cdn.shopruche.com/media/shopruche/homepage/2014_12_22/promo/xmas_sale.jpg"></a>\
+             <div class="ruche-promo-sub sand" style="margin-top:-1px;"><a href="http://shopruche.com/new-arrivals.html"><img src="//cdn.shopruche.com/media/shopruche/homepage/2014_12_22/promo/xmas_sale_dropdown.jpg" alt="" border="0" style="-webkit-user-select: none" /></a>\
                 </div>\
-            </div>\
-            <div class="ruche-promo-col ruche-col-mid">\
-                <div class="ruche-promo-content ruche-col-border">\
-                    <a href="#" onclick="return false;">\
-                        <img style="margin-top: -8px;" src="//cdn.shopruche.com/media/shopruche/homepage/2014_06_16/free_shipping.png">\
-                    </a>\
-                    <div class="ruche-promo-sub sand" style="margin-top: -1px;">\
-                        <a href="/shippinginfo.html">\
-                            <img src="//cdn.shopruche.com/media/shopruche/homepage/2014_06_16/2.jpg" alt="">\
-                        </a>\
-                    </div>\
-                </div>\
-            </div>\
-            <div class="ruche-promo-col ruche-col-right" style="float: none; margin-left: -3px; width: 328px; ">\
-                <div class="ruche-promo-content">\
-                    <a href="/swimwear.html">Dive in! Shop Summer Swimwear! </a>\
-                </div>\
-            </div>');
+             </div>\
+         ');
     }
 
     if (_now >= _fdate_promo3 && _now <= _edate_promo3) {
-        jQuery('.ruche-promo-container').html('\
-            <div class="ruche-promo-col ruche-col-left" style="margin-left: 0px; width: 342px;">\
-                <div class="ruche-promo-content">\
-                    <a href="/products-new.html">THIS WEEK ONLY: Daily New Arrivals! </a>\
-                </div>\
-            </div>\
-            <div class="ruche-promo-col ruche-col-mid">\
-                <div class="ruche-promo-content ruche-col-border">\
-                    <a href="#" onclick="return false;">\
-                        <img style="margin-top: -8px;" src="//cdn.shopruche.com/media/shopruche/homepage/2014_06_16/free_shipping.png">\
-                    </a>\
-                    <div class="ruche-promo-sub sand" style="margin-top: -1px;">\
-                        <a href="/shippinginfo.html">\
-                            <img src="//cdn.shopruche.com/media/shopruche/homepage/2014_06_16/2.jpg" alt="">\
-                        </a>\
-                    </div>\
-                </div>\
-            </div>\
-            <div class="ruche-promo-col ruche-col-right" style="float: none; margin-left: -3px; width: 328px; ">\
-                <div class="ruche-promo-content">\
-                    <a href="http://shopruche.com/specials/sale-tops.html">\
-                        <img style="margin-top: -9px;" src="//cdn.shopruche.com/media/shopruche/homepage/2014_06_19/6_19_sale_tops.jpg">\
-                    </a>\
-                </div>\
-            </div>');
+        jQuery('.ruche-promo-col.ruche-col-right').html('\
+             <div class="ruche-promo-content"><a href="http://shopruche.com/winter-sale.html"><img style="margin-top: -10px;" src="//cdn.shopruche.com/media/shopruche/homepage/2014_12_29/promo/winter_sale.gif"></a>\
+                <div class="ruche-promo-sub sand" style="margin-top:-1px;"><a href="http://shopruche.com/winter-sale.html"><img src="//cdn.shopruche.com/media/shopruche/homepage/2014_12_29/promo/winter_sale_dropdown.jpg" alt="" border="0" style="-webkit-user-select: none" /></a>\
+             </div>\
+             </div>\
+         ');
     }
 
     if (_now >= _fdate_promo4 && _now <= _edate_promo4) {
-        jQuery('.ruche-promo-container').html('\
-            <div class="ruche-promo-col ruche-col-left" style="margin-left: 0px; width: 342px;">\
-                <div class="ruche-promo-content">\
-                    <a href="/products-new.html">THIS WEEK ONLY: Daily New Arrivals! </a>\
+        jQuery('.ruche-promo-col.ruche-col-left').html('\
+             <div class="ruche-promo-content">\
+             <a href="http://shopruche.com/new-arrivals.html"><img style="margin-top: -10px;" src="//cdn.shopruche.com/media/shopruche/homepage/2014_12_29/promo/ny_sale.gif"></a>\
+             <div class="ruche-promo-sub sand" style="margin-top:-1px;"><a href="http://shopruche.com/new-arrivals.html"><img src="//cdn.shopruche.com/media/shopruche/homepage/2014_12_29/promo/ny_sale_dropdown.jpg" alt="" border="0" style="-webkit-user-select: none" /></a>\
                 </div>\
-            </div>\
-            <div class="ruche-promo-col ruche-col-mid">\
-                <div class="ruche-promo-content ruche-col-border">\
-                    <a href="#" onclick="return false;">FREE SHIPPING over $75</a>\
-                    <div class="ruche-promo-sub sand">\
-                        <a href="/shippinginfo.html">\
-                            <img src="//cdn.shopruche.com/media/shopruche/homepage/2014_01_27/promo/2.jpg" alt="">\
-                        </a>\
-                    </div>\
-                </div>\
-            </div>\
-            <div class="ruche-promo-col ruche-col-right" style="float: none; margin-left: -3px; width: 328px; ">\
-                <div class="ruche-promo-content">\
-                    <a href="http://shopruche.com/specials/sale-tops.html">\
-                        <img style="margin-top: -9px;" src="//cdn.shopruche.com/media/shopruche/homepage/2014_06_19/6_19_sale_tops.jpg">\
-                    </a>\
-                </div>\
-            </div>');
+             </div>\
+         ');
     }
 
     if (_now >= _fdate_promo5 && _now <= _edate_promo5) {
-        jQuery('.ruche-promo-container').html('\
-            <div class="ruche-promo-col ruche-col-mid" style="width: 100%;">\
-                <div class="ruche-promo-content">\
-                    <a href="http://shopruche.com/specials.html">\
-                        <img style="margin-top: -9px; margin-left: 4px;" src="//cdn.shopruche.com/media/shopruche/homepage/2014_06_19/6_21_summer_sale.jpg" alt="">\
-                    </a>\
-                </div>\
-            </div>');
+        jQuery('.ruche-promo-col.ruche-col-left').html('\
+             <div class="ruche-promo-content">\
+             <a href="http://shopruche.com/new-arrivals.html"><img src="//cdn.shopruche.com/media/shopruche/homepage/2014_12_29/promo/bliss_sale.gif" alt="" /></a>\
+             </div>\
+         ');
+        jQuery('.ruche-promo-col.ruche-col-left').css("margin-top","-9px");
     }
+
 
 
     function calcTimePromo(offset) {
@@ -441,83 +336,29 @@ jQuery(document).ready(function(){
         nd = new Date(utc + (3600000*offset));
         return nd;
     }
+
+
 });
-// ]]></script>        <!--{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}--><!--/{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}-->
+// ]]></script>
+
+<script type="text/javascript">
+var customer_logged_in = 0;
+</script>        <div class="page">
+
         <div class="main col2-left-layout">
             <div class="col-main">
-                                <div class="std"><p>&nbsp;</p>
-<h2>Privacy Policy</h2>
-<p><span style="font-family: arial,helvetica,sans-serif; font-size: small;"> </span>Ruche, Inc. ("Ruche" or "We" or "we" or “Us” or “us” or “Our” or “our”) is committed to protecting your privacy and providing a safe online experience for all of our subscribers and users. We strive to offer our highest service to all of our users. This Privacy Policy discloses information we gather, how we may use it, to whom we may disclose personal and other information you have provided, and how you may change or correct personal information that you have provided to us. This Privacy Policy applies to Ruche, Inc., subsidiaries, and affiliates, including specifically Ruche, Inc. We strongly suggest you to read the complete Privacy Policy and Terms and Conditions of Use set forth below, and contact us at info@shopruche.com for any questions or concerns.</p>
-<p>I.    WHAT INFORMATION WE COLLECT ABOUT YOU AND WHAT WE DO WITH IT</p>
-<p>Personal Information. We collect personally identifiable data, such as names, mailing addresses, e-mail addresses, demographic information, and similar data in a variety of situations, including but not limited to the following: (i) when you register at one of our web sites in connection with the purchase of a product or (ii) when you enter personal information on one of our web sites as a condition of participating in contests, promotions, or sweepstakes offered via these web sites. Our sites may collect credit card and related financial information if you wish to purchase a product or service offered via these sites. Automatically Collected Information. Our web sites collect certain data automatically, such as your browser type, IP address, referring website address, domain name, and access times. This data is used to improve your online experience at our web sites. See Sections IV and V of this Privacy Policy for more details on web beacons, cookies, and other data collected automatically by our web sites.</p>
-<p>We use the personal information you provide to allow you to make product purchases, to fulfill your requests, improve our products and services, to send you promotional offers related to Ruche, Inc or our business partners, and to operate our business. A user may, at any time, opt out of receiving promotional offers by e-mail. We also use information collected to administer and evaluate our services and products, respond to any issues that may arise, such as difficulties in accessing certain features or navigating our sites, as well as to gauge user trends to determine what services and products are most popular with users, and to put you in contact with fulfillment partners who can provide services that we are unable to. We enable users of our website to send links by e-mail to other parties who may have interest in them. We do not retain or share any e-mail addresses of either the sender or recipient of links after they are sent, and do not share "send a friend" e-mail addresses with third parties.</p>
-<p>II.    HOW IS YOUR PERSONAL INFORMATION SHARED BY US?</p>
-<p>Your personal information is shared by us only as described below. Sharing Within the Ruche, Inc Family. We may share your personal information with any parent company, subsidiary, or affiliate in the Ruche, Inc family. All entities within the Ruche, Inc family may have access to your personal information. All entities with the Ruche, Inc family may have access to other data such as anonymous, aggregate demographic data. Lead Purchasers. Ruche, Inc may decide to share your personal data with third parties who purchase leads from Ruche, Inc such as fashion related dealers or vendors. Ruche, Inc’s Service Providers. Ruche, Inc may decide to share your personal information with companies that work on behalf of or with Ruche, Inc. These companies may use your personal information to inform you about Ruche, Inc’s products and services, to provide you with information about other services or products, or otherwise to assist Ruche, Inc in providing services to its customers, understanding its consumer market, or creating marketing strategies to reach a larger customer base.</p>
-<p>Participating Vendors. Some of our sites offer the ability to make online purchases from promotional participating vendors. On sites with opportunities to purchase online for services and products, we will also give participating vendors pertinent order information and authorization for the merchant bank. Any time an order is placed from a participating vendor, that vendor will automatically have all the pertinent information related to that order. Participating vendors may use the information to suggest you of other products and services that they provide. Third Party Payment Services; Credit Card Companies; Third Party Promotional Sites. With most transactions, your credit card company will have all pertinent order information about the vendor, item(s) and quantities purchased, detailed invoice of cost, and date. Ruche, Inc will not otherwise provide any personal data to your credit card company. In some cases, we use well known third party transaction and payment services to facilitate your transactions and process your orders. In such cases, we will share your personal and credit card information with the third party payment services solely for the purpose of completing the transaction or processing your order. In some cases, we will share your personal information and credit card information with third parties who may offer you a gift or promotional offer as a result of your purchase to a Ruche, Inc product or service.</p>
-<p>Order Fulfillment Partners. Some of our web sites may facilitate transactions between a third party and you. To facilitate this, we share and collect additional pertinent personal information, such as credit information, so such third parties can provide the service or product you request. As our order fulfillment partners may use and keep your information whether or not you purchase their products or use their services, your personal information and other data will be subject to the third party privacy policies.</p>
-<p>Third Parties. We may share your personal information with third parties, such as advertisers, sponsors, or other business and promotional partners, only when you have not opted out of receiving communications from other third parties. To opt-out of receiving communications from third parties, you may exercise your right by following the opt-out procedures in any e-mail or written communication Ruche, Inc sends to you or by following the procedures set forth contained in Section VII of this Privacy Policy.</p>
-<p>Public Postings and Information. If you voluntarily disclose any information, personal or otherwise, online in any community area (either through Ruche, Inc’s web sites or any other service available online other than Ruche, Inc’s), that information can be used and collected by others. You should use caution when sharing any personal or other information in any community area (either through Ruche, Inc’s web sites or any other service available online other than Ruche, Inc’s). Required Disclosures of Data and Information. We reserve the right to use or disclose any data or information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of quality complaints or potential breaches of law; to fulfill your requests; or to cooperate in any legal investigation or process; to protect the security, quality, and integrity of our sites and our property and assure adherence to our terms of use; to protect the safety of our visitors or others.</p>
-<p>Corporate Structure Changes. In developing our business, we may sell the company, certain assets, or parts of it, may be transferred, merged or sold. In such transactions or transfers, user data and information, whether personally identifiable or otherwise, may be of the transferred assets.</p>
-<p>III.    HOW ARE COOKIES USED BY Ruche, Inc?</p>
-<p>Most web browsers offer "cookies" which, if you allow their use, store small amounts of information on your computer when you visit a web site. Cookies are unable to identify you personally because they do not contain any personally identifiable information about you. Cookies assist us in monitoring and tracking which of our features, promotions, or otherwise, you like best, and also enable us to tailor and customize our content according to your preferences. You are able to accept or decline cookies by adjusting your browser and our websites are viewable even if you completely disable the cookie function on your browser. However, if you disable cookies, some advanced and tailored features or offerings on our site will not be available to you. In addition to collecting cookies, Ruche, Inc may sell, distribute, and/or transfer such cookies to other third parties with whom Ruche, Inc has a business or commercial relationship. If you wish to opt out of sharing cookies to be used in this manner, you can adjust your browser to disable the collection of cookies. Additionally, we may use third-party companies or proprietary systems to collect non-personally identifiable data and information (such as: the pages you visit, and where you click, and which links you click, which ads you see and click on, and the categories of search keywords and terms you enter) when you visit any of our web sites. Some of these third-party companies collect data when providing ads on our sites, while others collect data without providing ads on our sites. These companies may use the data and information outlined above (which does not include your personal information such as name, address, email address or telephone number) about your visits to our sites in order to provide targeted advertisements about goods and services of interest to you. These companies often use a third party web beacon or cookie to collect this data and information. If you would like more detailed information about this practice and to know your rights about not having this information used by these companies, please visit http://networkadvertising.org.</p>
-<p>IV.    HOW DO WE UTILIZE WEB ANALYTICS, WEB BEACONS, COOKIES, AND OTHER BEHAVIORAL MARKETING TECHNOLOGIES?</p>
-<p>A number of technologies exist to monitor and analyze consumer behavior both on and off line. Ruche, Inc employs a wide array of these technologies, including web beacons, web analytics techniques, and other behavior analysis and marketing technologies, to analyze consumer behavior and to understand how we can improve our customer experience. Many of these technologies are provided to Ruche, Inc via third party partners specializing in consumer behavioral marketing. In the process of using these behavioral marketing technologies, we automatically collect non-personal data and information from you, including but not limited to the following types of data and information: Internet protocol (IP) address used to connect your computer to the Internet; e-mail address, login; computer and internet connection information such as browser type and related browser data, data speed, Operating System; content viewed; and purchase order history, which may be combined and assembled with other data for analytic purposes.</p>
-<p>Our web pages, promotional e-mail messages, blog images, social media platform images, and/or newsletters may contain electronic images known as web beacons, which are also known as single-pixel gif images. Web beacons are not used to access your personally identifiable information. Rather, they are a tool we use to compile and analyze statistics about the behavioral usage of our web sites and to track and analyze behavioral use of our promotional e-mail messages. Web beacons collect only a limited set of information including the time and date of a page view, a brief description of the page on which the web beacon resides, and a cookie number.</p>
-<p>V.    WHAT ABOUT OTHER THIRD PARTY ADVERTISERS?</p>
-<p>Some of the banner advertisements displayed in our web sites are supplied by third parties. These ads may contain cookies and web beacons. Unlike cookies and web beacons used by Ruche, Inc in content it controls on its web sites, we do not have access to information collected by cookies or web beacons received with banner ads. We may use third parties to provide some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your browsing behavior such as visits to our sites and other sites to assist in providing tailored advertisements to you. Third party companies may employ cookies, web beacons, and action tags to assess the effectiveness of advertising. They may share anonymous information such as date/time of the banner ad shown, the specific ad shown, the IP address, or any other collected cookie data.</p>
-<p>VI.    THIRD PARTIES AND LINKS</p>
-<p>In any instance you provide personal information to any third party via any Ruche, Inc Web site or any promotion or offer made available to you by Ruche, Inc, you understand that Ruche, Inc is not responsible in the event of such third parties' use or misuse of your personal information. You should review the privacy, data, and information sharing policies of any third parties. Additionally, Ruche, Inc may offer links to or from web sites operated by third parties as well as to other sites within the Ruche, Inc family. We may provide links to third party sites so that you can efficiently locate other content likely to be of interest or visit our vendors and advertisers. We are not responsible for the content, policies, or practices of other sites operated by third parties and suggest you to carefully inquire about them to understand them before providing any personal information that is identifiable to you.</p>
-<p>VII.    HOW DO YOU CONTROL YOUR PERSONAL INFORMATION?</p>
-<p>We believe your preference in how and when you are contacted is key to your satisfaction when visiting Ruche, Inc’s web sites. We offer several avenues for you to update your preferences, contact information, or options of receiving communications.</p>
-<ul>
-<li> 1.    If you have an online account at one of our websites, you may be able to log on and change or update your account or contact information. Check the site for further information or use the Contact Us form on the site for any further requests.<br><br></li>
-<li> 2.    You may unsubscribe to any of our online e-mail promotions, updates, or newsletters by following the unsubscribe instructions in the body of any e-mail message. Or you may log into your account online and change or update your email subscription preference.<br><br> </li>
-<li> 3.    If you do not wish to have your personal information shared with third parties or with other entities in the Ruche, Inc family, please send us your opt out subscription request us by visiting our website and clicking Contact Us.<br><br> </li>
-<li> 4.    You also may write to us directly if you wish to: (a) ask that we not share your personal information with third parties; (b) update your contact or personal information; or (c) request that we cease sending you promotional or other information via mail or e-mail. Such written requests should be sent to Ruche, Inc., 131 N Gilbert St Fullerton, CA 92832, attn: General Counsel. In those instances, we will retain your information in a "do not promote" file in our database, and you will receive no further communications from us.<br><br> </li>
-<li> 5.    You may also contact us at info@shopruche.com for any questions, concerns, or requests regarding our privacy policy or the handling of your personal information. We will implement your email opt-out request within 10 business days of receiving the opt-out request. If you requested to opt out of our emails by regular mail, we will implement your opt-out request within a commercially reasonable time. </li>
-</ul>
-<p>VIII.    HOW WE CONTROL PERSONAL INFORMATION SECURITY</p>
-<p>We utilize industry standard Secure Socket Layer (SSL) technology to encrypt important billing information, such as your credit card data, in an effort to prevent unauthorized access to this data during transmission of your orders over the Internet. We utilize standard industry practices suitable to the degree of sensitivity of the data and information involved to maintain the security of your personal information and to avoid its unwarranted disclosure except as described in this privacy policy. Your personal information may also be protected by the password you created when you registered at one of our websites. The confidentiality of any of your passwords is yours to protect. You may change your password anytime by logging in to your account and following the instructions to edit your profile at the website where you registered. Although we do our best to assure that your information remains secure when maintained by us, security within any system or during any transmission cannot be assured. Ruche, Inc employees are made aware of its privacy policies and practices through routine training and communication. We limit access to personal information only to those Ruche, Inc employees or agents with a specific need to access or view your personal information. We may store pertinent information on multiple service systems, in controlled, secure environments. However, we cannot guarantee the security of your personal information. We are not responsible for the privacy or security practices of any third party.</p>
-<p>IX.    CHILDREN'S PRIVACY</p>
-<p>We strive to provide ethical, family oriented websites. Some web sites or publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children younger than the age of 13. Ruche, Inc is committed to protecting the privacy and safety of children who visit our Web sites. We never knowingly collect personal information online from children under the age of 13. Our Web sites may include chat rooms, bulletin boards and other features that we believe may be unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children's use of the Internet.</p>
-<p>X.    CALIFORNIA PRIVACY RIGHTS</p>
-<p>Under California Law SB 27, once per year, California residents have the right to receive information about third parties with whom we have shared information about your family and yourself and a description of the categories therein, for their marketing purposes during the previous calendar year. To process such a request, kindly send an email to info@shopruche.com and be sure to include the phrase "California Privacy Request" in the subject line, and in the body of the email provide us with your name, address and email address. We will respond to your California Privacy Request within thirty days of receiving such a request.</p>
-<p>XI.    INTERNATIONAL VISITORS AND SUBSCRIBERS LOCATED OUTSIDE THE UNITED STATES OF AMERICA</p>
-<p>All matters, issues, and concerns relating to these sites are governed by the laws of the State of California in the United States of America. Any information or data you provide in registering or subscribing to one of our publications or registering or ordering at one of our web sites will be transferred to the United States of America. By visiting our sites and transferring data and information, you authorize this transfer, processing and use.</p>
-<p>XII.    CHANGES TO OUR PRIVACY POLICY; ACCEPTANCE OF OUR PRIVACY POLICY</p>
-<p>We will continue to update or revise this Privacy Policy as required to protect our users and ourselves and to comply with a changing environment. We suggest that you read the posted Privacy Policy when you visit any of Ruche, Inc Web sites to be sure you understand our most recent privacy policy. Your continued use of the respective Web site means you accept and acknowledge the revised and updated Privacy Policy.</p>
-<p>By transferring information or using any of our sites and providing us with your personal information, you agree and acknowledge to the terms of this Privacy Policy. If you do not agree to this Privacy Policy, you should cease to use, store personal information, or access any of our sites. Additionally, this Privacy Policy incorporates all of the terms, conditions, and provisions of the Ruche, Inc Terms of Use, which are posted on our sites. If you do not agree with the Ruche, Inc Terms of Use, you should cease to use, store personal information, or access any of our sites.</p>
-<p>XIII.    CONTACT US</p>
-<p>If you have any questions, concerns, or clever anecdotes about this Privacy Policy or our privacy practices, please e-mail us at info@shopruche.com. Please include the URL of the Web site and/or name of the publication, blog, or other social media platform involved in your request. Requests under California Law SB 27 should be directed to info@shopruche.com and include the information noted in Your California Privacy Rights.</p>
-<p>Or you can contact us by mail at: <br><br> Ruche, Inc.<br> 131 N Gilbert St<br> Fullerton, CA 92833<br> Attn: General Counsel <br> Last Update July 1, 2011</p></div>            </div><!-- END COL-MAIN -->
+                                                <div class="std"><p>&nbsp;</p><h2>Privacy Policy</h2><p><span style="font-family: arial,helvetica,sans-serif; font-size: small;"> </span>Ruche, Inc. ("Ruche" or "We" or "we" or “Us” or “us” or “Our” or “our”) is committed to protecting your privacy and providing a safe online experience for all of our subscribers and users. We strive to offer our highest service to all of our users. This Privacy Policy discloses information we gather, how we may use it, to whom we may disclose personal and other information you have provided, and how you may change or correct personal information that you have provided to us. This Privacy Policy applies to Ruche, Inc., subsidiaries, and affiliates, including specifically Ruche, Inc. We strongly suggest you to read the complete Privacy Policy and Terms and Conditions of Use set forth below, and contact us at info@shopruche.com for any questions or concerns.</p><p>I.    WHAT INFORMATION WE COLLECT ABOUT YOU AND WHAT WE DO WITH IT</p><p>Personal Information. We collect personally identifiable data, such as names, mailing addresses, e-mail addresses, demographic information, and similar data in a variety of situations, including but not limited to the following: (i) when you register at one of our web sites in connection with the purchase of a product or (ii) when you enter personal information on one of our web sites as a condition of participating in contests, promotions, or sweepstakes offered via these web sites. Our sites may collect credit card and related financial information if you wish to purchase a product or service offered via these sites. Automatically Collected Information. Our web sites collect certain data automatically, such as your browser type, IP address, referring website address, domain name, and access times. This data is used to improve your online experience at our web sites. See Sections IV and V of this Privacy Policy for more details on web beacons, cookies, and other data collected automatically by our web sites.</p><p>We use the personal information you provide to allow you to make product purchases, to fulfill your requests, improve our products and services, to send you promotional offers related to Ruche, Inc or our business partners, and to operate our business. A user may, at any time, opt out of receiving promotional offers by e-mail. We also use information collected to administer and evaluate our services and products, respond to any issues that may arise, such as difficulties in accessing certain features or navigating our sites, as well as to gauge user trends to determine what services and products are most popular with users, and to put you in contact with fulfillment partners who can provide services that we are unable to. We enable users of our website to send links by e-mail to other parties who may have interest in them. We do not retain or share any e-mail addresses of either the sender or recipient of links after they are sent, and do not share "send a friend" e-mail addresses with third parties.</p><p>II.    HOW IS YOUR PERSONAL INFORMATION SHARED BY US?</p><p>Your personal information is shared by us only as described below. Sharing Within the Ruche, Inc Family. We may share your personal information with any parent company, subsidiary, or affiliate in the Ruche, Inc family. All entities within the Ruche, Inc family may have access to your personal information. All entities with the Ruche, Inc family may have access to other data such as anonymous, aggregate demographic data. Lead Purchasers. Ruche, Inc may decide to share your personal data with third parties who purchase leads from Ruche, Inc such as fashion related dealers or vendors. Ruche, Inc’s Service Providers. Ruche, Inc may decide to share your personal information with companies that work on behalf of or with Ruche, Inc. These companies may use your personal information to inform you about Ruche, Inc’s products and services, to provide you with information about other services or products, or otherwise to assist Ruche, Inc in providing services to its customers, understanding its consumer market, or creating marketing strategies to reach a larger customer base.</p><p>Participating Vendors. Some of our sites offer the ability to make online purchases from promotional participating vendors. On sites with opportunities to purchase online for services and products, we will also give participating vendors pertinent order information and authorization for the merchant bank. Any time an order is placed from a participating vendor, that vendor will automatically have all the pertinent information related to that order. Participating vendors may use the information to suggest you of other products and services that they provide. Third Party Payment Services; Credit Card Companies; Third Party Promotional Sites. With most transactions, your credit card company will have all pertinent order information about the vendor, item(s) and quantities purchased, detailed invoice of cost, and date. Ruche, Inc will not otherwise provide any personal data to your credit card company. In some cases, we use well known third party transaction and payment services to facilitate your transactions and process your orders. In such cases, we will share your personal and credit card information with the third party payment services solely for the purpose of completing the transaction or processing your order. In some cases, we will share your personal information and credit card information with third parties who may offer you a gift or promotional offer as a result of your purchase to a Ruche, Inc product or service.</p><p>Order Fulfillment Partners. Some of our web sites may facilitate transactions between a third party and you. To facilitate this, we share and collect additional pertinent personal information, such as credit information, so such third parties can provide the service or product you request. As our order fulfillment partners may use and keep your information whether or not you purchase their products or use their services, your personal information and other data will be subject to the third party privacy policies.</p><p>Third Parties. We may share your personal information with third parties, such as advertisers, sponsors, or other business and promotional partners, only when you have not opted out of receiving communications from other third parties. To opt-out of receiving communications from third parties, you may exercise your right by following the opt-out procedures in any e-mail or written communication Ruche, Inc sends to you or by following the procedures set forth contained in Section VII of this Privacy Policy.</p><p>Public Postings and Information. If you voluntarily disclose any information, personal or otherwise, online in any community area (either through Ruche, Inc’s web sites or any other service available online other than Ruche, Inc’s), that information can be used and collected by others. You should use caution when sharing any personal or other information in any community area (either through Ruche, Inc’s web sites or any other service available online other than Ruche, Inc’s). Required Disclosures of Data and Information. We reserve the right to use or disclose any data or information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of quality complaints or potential breaches of law; to fulfill your requests; or to cooperate in any legal investigation or process; to protect the security, quality, and integrity of our sites and our property and assure adherence to our terms of use; to protect the safety of our visitors or others.</p><p>Corporate Structure Changes. In developing our business, we may sell the company, certain assets, or parts of it, may be transferred, merged or sold. In such transactions or transfers, user data and information, whether personally identifiable or otherwise, may be of the transferred assets.</p><p>III.    HOW ARE COOKIES USED BY Ruche, Inc?</p><p>Most web browsers offer "cookies" which, if you allow their use, store small amounts of information on your computer when you visit a web site. Cookies are unable to identify you personally because they do not contain any personally identifiable information about you. Cookies assist us in monitoring and tracking which of our features, promotions, or otherwise, you like best, and also enable us to tailor and customize our content according to your preferences. You are able to accept or decline cookies by adjusting your browser and our websites are viewable even if you completely disable the cookie function on your browser. However, if you disable cookies, some advanced and tailored features or offerings on our site will not be available to you. In addition to collecting cookies, Ruche, Inc may sell, distribute, and/or transfer such cookies to other third parties with whom Ruche, Inc has a business or commercial relationship. If you wish to opt out of sharing cookies to be used in this manner, you can adjust your browser to disable the collection of cookies. Additionally, we may use third-party companies or proprietary systems to collect non-personally identifiable data and information (such as: the pages you visit, and where you click, and which links you click, which ads you see and click on, and the categories of search keywords and terms you enter) when you visit any of our web sites. Some of these third-party companies collect data when providing ads on our sites, while others collect data without providing ads on our sites. These companies may use the data and information outlined above (which does not include your personal information such as name, address, email address or telephone number) about your visits to our sites in order to provide targeted advertisements about goods and services of interest to you. These companies often use a third party web beacon or cookie to collect this data and information. If you would like more detailed information about this practice and to know your rights about not having this information used by these companies, please visit http://networkadvertising.org.</p><p>IV.    HOW DO WE UTILIZE WEB ANALYTICS, WEB BEACONS, COOKIES, AND OTHER BEHAVIORAL MARKETING TECHNOLOGIES?</p><p>A number of technologies exist to monitor and analyze consumer behavior both on and off line. Ruche, Inc employs a wide array of these technologies, including web beacons, web analytics techniques, and other behavior analysis and marketing technologies, to analyze consumer behavior and to understand how we can improve our customer experience. Many of these technologies are provided to Ruche, Inc via third party partners specializing in consumer behavioral marketing. In the process of using these behavioral marketing technologies, we automatically collect non-personal data and information from you, including but not limited to the following types of data and information: Internet protocol (IP) address used to connect your computer to the Internet; e-mail address, login; computer and internet connection information such as browser type and related browser data, data speed, Operating System; content viewed; and purchase order history, which may be combined and assembled with other data for analytic purposes.</p><p>Our web pages, promotional e-mail messages, blog images, social media platform images, and/or newsletters may contain electronic images known as web beacons, which are also known as single-pixel gif images. Web beacons are not used to access your personally identifiable information. Rather, they are a tool we use to compile and analyze statistics about the behavioral usage of our web sites and to track and analyze behavioral use of our promotional e-mail messages. Web beacons collect only a limited set of information including the time and date of a page view, a brief description of the page on which the web beacon resides, and a cookie number.</p><p>V.    WHAT ABOUT OTHER THIRD PARTY ADVERTISERS?</p><p>Some of the banner advertisements displayed in our web sites are supplied by third parties. These ads may contain cookies and web beacons. Unlike cookies and web beacons used by Ruche, Inc in content it controls on its web sites, we do not have access to information collected by cookies or web beacons received with banner ads. We may use third parties to provide some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your browsing behavior such as visits to our sites and other sites to assist in providing tailored advertisements to you. Third party companies may employ cookies, web beacons, and action tags to assess the effectiveness of advertising. They may share anonymous information such as date/time of the banner ad shown, the specific ad shown, the IP address, or any other collected cookie data.</p><p>VI.    THIRD PARTIES AND LINKS</p><p>In any instance you provide personal information to any third party via any Ruche, Inc Web site or any promotion or offer made available to you by Ruche, Inc, you understand that Ruche, Inc is not responsible in the event of such third parties' use or misuse of your personal information. You should review the privacy, data, and information sharing policies of any third parties. Additionally, Ruche, Inc may offer links to or from web sites operated by third parties as well as to other sites within the Ruche, Inc family. We may provide links to third party sites so that you can efficiently locate other content likely to be of interest or visit our vendors and advertisers. We are not responsible for the content, policies, or practices of other sites operated by third parties and suggest you to carefully inquire about them to understand them before providing any personal information that is identifiable to you.</p><p>VII.    HOW DO YOU CONTROL YOUR PERSONAL INFORMATION?</p><p>We believe your preference in how and when you are contacted is key to your satisfaction when visiting Ruche, Inc’s web sites. We offer several avenues for you to update your preferences, contact information, or options of receiving communications.</p><ul><li> 1.    If you have an online account at one of our websites, you may be able to log on and change or update your account or contact information. Check the site for further information or use the Contact Us form on the site for any further requests.<br><br></li><li> 2.    You may unsubscribe to any of our online e-mail promotions, updates, or newsletters by following the unsubscribe instructions in the body of any e-mail message. Or you may log into your account online and change or update your email subscription preference.<br><br> </li><li> 3.    If you do not wish to have your personal information shared with third parties or with other entities in the Ruche, Inc family, please send us your opt out subscription request us by visiting our website and clicking Contact Us.<br><br> </li><li> 4.    You also may write to us directly if you wish to: (a) ask that we not share your personal information with third parties; (b) update your contact or personal information; or (c) request that we cease sending you promotional or other information via mail or e-mail. Such written requests should be sent to Ruche, Inc., 131 N Gilbert St Fullerton, CA 92832, attn: General Counsel. In those instances, we will retain your information in a "do not promote" file in our database, and you will receive no further communications from us.<br><br> </li><li> 5.    You may also contact us at info@shopruche.com for any questions, concerns, or requests regarding our privacy policy or the handling of your personal information. We will implement your email opt-out request within 10 business days of receiving the opt-out request. If you requested to opt out of our emails by regular mail, we will implement your opt-out request within a commercially reasonable time. </li></ul><p>VIII.    HOW WE CONTROL PERSONAL INFORMATION SECURITY</p><p>We utilize industry standard Secure Socket Layer (SSL) technology to encrypt important billing information, such as your credit card data, in an effort to prevent unauthorized access to this data during transmission of your orders over the Internet. We utilize standard industry practices suitable to the degree of sensitivity of the data and information involved to maintain the security of your personal information and to avoid its unwarranted disclosure except as described in this privacy policy. Your personal information may also be protected by the password you created when you registered at one of our websites. The confidentiality of any of your passwords is yours to protect. You may change your password anytime by logging in to your account and following the instructions to edit your profile at the website where you registered. Although we do our best to assure that your information remains secure when maintained by us, security within any system or during any transmission cannot be assured. Ruche, Inc employees are made aware of its privacy policies and practices through routine training and communication. We limit access to personal information only to those Ruche, Inc employees or agents with a specific need to access or view your personal information. We may store pertinent information on multiple service systems, in controlled, secure environments. However, we cannot guarantee the security of your personal information. We are not responsible for the privacy or security practices of any third party.</p><p>IX.    CHILDREN'S PRIVACY</p><p>We strive to provide ethical, family oriented websites. Some web sites or publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children younger than the age of 13. Ruche, Inc is committed to protecting the privacy and safety of children who visit our Web sites. We never knowingly collect personal information online from children under the age of 13. Our Web sites may include chat rooms, bulletin boards and other features that we believe may be unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children's use of the Internet.</p><p>X.    CALIFORNIA PRIVACY RIGHTS</p><p>Under California Law SB 27, once per year, California residents have the right to receive information about third parties with whom we have shared information about your family and yourself and a description of the categories therein, for their marketing purposes during the previous calendar year. To process such a request, kindly send an email to info@shopruche.com and be sure to include the phrase "California Privacy Request" in the subject line, and in the body of the email provide us with your name, address and email address. We will respond to your California Privacy Request within thirty days of receiving such a request.</p><p>XI.    INTERNATIONAL VISITORS AND SUBSCRIBERS LOCATED OUTSIDE THE UNITED STATES OF AMERICA</p><p>All matters, issues, and concerns relating to these sites are governed by the laws of the State of California in the United States of America. Any information or data you provide in registering or subscribing to one of our publications or registering or ordering at one of our web sites will be transferred to the United States of America. By visiting our sites and transferring data and information, you authorize this transfer, processing and use.</p><p>XII.    CHANGES TO OUR PRIVACY POLICY; ACCEPTANCE OF OUR PRIVACY POLICY</p><p>We will continue to update or revise this Privacy Policy as required to protect our users and ourselves and to comply with a changing environment. We suggest that you read the posted Privacy Policy when you visit any of Ruche, Inc Web sites to be sure you understand our most recent privacy policy. Your continued use of the respective Web site means you accept and acknowledge the revised and updated Privacy Policy.</p><p>By transferring information or using any of our sites and providing us with your personal information, you agree and acknowledge to the terms of this Privacy Policy. If you do not agree to this Privacy Policy, you should cease to use, store personal information, or access any of our sites. Additionally, this Privacy Policy incorporates all of the terms, conditions, and provisions of the Ruche, Inc Terms of Use, which are posted on our sites. If you do not agree with the Ruche, Inc Terms of Use, you should cease to use, store personal information, or access any of our sites.</p><p>XIII.    CONTACT US</p><p>If you have any questions, concerns, or clever anecdotes about this Privacy Policy or our privacy practices, please e-mail us at info@shopruche.com. Please include the URL of the Web site and/or name of the publication, blog, or other social media platform involved in your request. Requests under California Law SB 27 should be directed to info@shopruche.com and include the information noted in Your California Privacy Rights.</p><p>Or you can contact us by mail at: <br><br> Ruche, Inc.<br> 131 N Gilbert St<br> Fullerton, CA 92833<br> Attn: General Counsel <br> Last Update July 1, 2011</p></div>            </div><!-- END COL-MAIN -->
             <div class="col-left sidebar">
-
-
 
 <div class="vertnav-container">
 
-<div class="shopleftnav">
-	<img class="ruche-sprite-category ruche-sprite-bulletin" src="http://cdn.shopruche.com/skin/frontend/shopruche/default/images/trans.gif" title="Bulletin Board" alt="Bulletin Board">
-
-
-	<ul class="vertnav">
-				<li class="level0-inactive level0 inactive"> <span class="vertnav-cat"> <a href="/shop-lets-get-lost.html"> Let's Get Lost</a> </span> </li>
-<li class="level0-inactive level0 inactive"> <span class="vertnav-cat"> <a href="/making-outfits.html"> The Outfit Maker</a> </span> </li>
-<li class="level0-inactive level0 inactive"> <span class="vertnav-cat"> <a href="/parisian-style.html"> Meet Me in Paris</a> </span> </li>
-<li class="level0-inactive level0 inactive"> <span class="vertnav-cat"> <a href="/neutrals.html"> Stay Neutral</a> </span> </li>
-<li class="level0-inactive level0 inactive"> <span class="vertnav-cat"> <a href="/back-in-stock-c-176.html"> Back in Stock </a> </span> </li>
-		
-	</ul>
-</div>
-
-
-<div id="shopleftnav-wrap">
-	<div class="shopleftnav">
-		<h4 class="no-display">Category Navigation:</h4>
-		<img class="ruche-sprite-category ruche-sprite-collection" src="http://cdn.shopruche.com/skin/frontend/shopruche/default/images/trans.gif" title="Shop Collection" alt="Shop Collection">
+	<div id="shopleftnav-wrap">
 		<ul class="vertnav">
+			<h3>SHOP</h3>
+			<hr>
+
 			  <li class="level0-inactive level0 inactive new-arrivals">
-    <span class="vertnav-cat"><a href="http://shopruche.com/products-new.html"><span>New Arrivals</span></a></span>
+    <span class="vertnav-cat"><a href="http://shopruche.com/new-arrivals.html"><span>New Arrivals</span></a></span>
 
   </li>
   <li class="level0-inactive level0 inactive clothing">
@@ -529,7 +370,7 @@ jQuery(document).ready(function(){
 
   </li>
   <li class="level0-inactive level0 inactive shoes">
-    <span class="vertnav-cat"><a href="http://shopruche.com/shoes-c-9.html"><span>Shoes</span></a></span>
+    <span class="vertnav-cat"><a href="http://shopruche.com/cute-shoes.html"><span>Shoes</span></a></span>
 
   </li>
   <li class="level0-inactive level0 inactive bridal">
@@ -537,52 +378,53 @@ jQuery(document).ready(function(){
 
   </li>
   <li class="level0-inactive level0 inactive home-office">
-    <span class="vertnav-cat"><a href="http://shopruche.com/home-office-c-228.html"><span>Home &amp; Office</span></a></span>
-
-  </li>
-  <li class="level0-inactive level0 inactive children">
-    <span class="vertnav-cat"><a href="http://shopruche.com/children.html"><span>Children</span></a></span>
-
-  </li>
-  <li class="level0-inactive level0 inactive gift-cards">
-    <span class="vertnav-cat"><a href="http://shopruche.com/gift-certificates-c-36.html"><span>Gift Cards</span></a></span>
-
-  </li>
-  <li class="level0-inactive level0 inactive indie">
-    <span class="vertnav-cat"><a href="http://shopruche.com/indie-c-37.html"><span>Indie</span></a></span>
-
-  </li>
-  <li class="level0-inactive level0 inactive eco-friendly">
-    <span class="vertnav-cat"><a href="http://shopruche.com/ecofriendly-c-20.html"><span>Eco-Friendly</span></a></span>
+    <span class="vertnav-cat"><a href="http://shopruche.com/home-office.html"><span>Home &amp; Office</span></a></span>
 
   </li>
   <li class="level0-inactive level0 inactive sale">
-    <span class="vertnav-cat"><a href="http://shopruche.com/specials.html"><span>Sale</span></a></span>
+    <span class="vertnav-cat"><a href="http://shopruche.com/sale.html"><span>Sale</span></a></span>
 
   </li>
-			<li class="level0-inactive level0 inactive sale">
-    		<span class="vertnav-cat"><a href="/last-chance.html"><span>Last Chance</span></a></span>
-    		</li>
 		</ul>
-	</div>
-
-	<div class="search-by-size">
-		<h2>Search by Size</h2>
-		<ul>
-			<li><a href="/ruchesearch/shopby/apparel/size/xsmall" rel="noindex,nofollow" title="Size X-Small"><span></span>extra small</a></li>
-			<li><a href="/ruchesearch/shopby/apparel/size/small" rel="noindex,nofollow" title="Size Small"><span></span>small</a></li>
-			<li><a href="/ruchesearch/shopby/apparel/size/medium" rel="noindex,nofollow" title="Size Medium"><span></span>medium</a></li>
-			<li><a href="/ruchesearch/shopby/apparel/size/large" rel="noindex,nofollow" title="Size Large"><span></span>large</a></li>
-			<li><a href="/ruchesearch/shopby/apparel/size/xlarge" rel="noindex,nofollow" title="Size X-Large"><span></span>extra large</a></li>
-			<li><a href="/ruchesearch/shopby/apparel/size/curvyplus" rel="noindex,nofollow" title="Plus Sizes"><span></span>curvy plus</a></li>
+		
+		<ul class="vertnav-more">
+			<li class="">
+				<span class=""><a href="/back-in-stock.html"><span>Back in Stock</span></a></span>
+			</li>
+			<li class="">
+				<span class=""><a href="/last-chance.html"><span>Last Chance</span></a></span>
+			</li>
+			<li class="">
+				<span class=""><a href="/indie-clothing-accessories.html"><span>Indie</span></a></span>
+			</li>
+			<li class="">
+				<span class=""><a href="/gift-certificates.html"><span>Gift Cards</span></a></span>
+			</li>
 		</ul>
-	</div>
-	
-	
-</div><!--#shopleftnav-wrap-->
 
-</div><!--.vertnav-container--></div>
-			<!-- <div id="myclearfooter"></div> -->
+		<ul class="vertnav-features">
+			<h3>FEATURES</h3>
+			<hr>
+						<ul>
+<li class="level0-inactive level0 inactive"><span class="vertnav-cat"> <a href="/holiday-in-the-city.html"> Holiday in the City</a> </span></li>
+<li class="level0-inactive level0 inactive"><span class="vertnav-cat"> <a href="/dressy-casual.html"> Classy to Casual</a> </span></li>
+<li class="level0-inactive level0 inactive"><span class="vertnav-cat"> <a href="/textures.html"> Keep in Touch </a> </span></li>
+<li class="level0-inactive level0 inactive"><span class="vertnav-cat"> <a href="/quirky-preppy.html"> New Girl  </a> </span></li>
+</ul>
+		</ul>
+
+		<ul class="vertnav-features-more">
+			<li><a href="http://shopruche.com/features.html">view more</a></li>
+		</ul>
+		
+
+
+
+	</div><!--#shopleftnav-wrap-->
+
+</div><!--.vertnav-container-->
+
+</div>
         </div>
                 <div class="clearfix"></div>
 <div class="ruche-footer">
@@ -624,50 +466,99 @@ jQuery(document).ready(function(){
     <div class="ruche-col ruche-footer-col2">
         <h2>Something Special</h2>
         <ul>
-            <li><a href="/wallpapers.html" title="Wallpapers">wallpapers</a></li>
-            <li><a href="/ecards.html" title="E-Cards">e-cards</a></li>
-            <li><a href="/gift-certificates-c-36.html" title="Gift Cards">gift cards</a></li>
+            <li><a href="http://shopruche.com/wallpapers.html" title="Wallpapers">wallpapers</a></li>
+            <li><a href="http://shopruche.com/ecards.html" title="E-Cards">e-cards</a></li>
+            <li><a href="http://shopruche.com/gift-certificates.html" title="Gift Cards">gift cards</a></li>
         </ul>
         
     </div>
     <div class="ruche-col ruche-footer-col3">
         <h2>Have a Question?</h2>
         <ul>
-            <li><a href="/customer_care.html" title="Customer Care">customer care</a></li>
-            <li><a href="/contact_us.html" title="Contact">contact us</a></li>
+            <li><a href="http://shopruche.com/customer_care.html" title="Customer Care">customer care</a></li>
+            <li><a href="https://shopruche.com/contact_us.html" title="Contact">contact us</a></li>
         </ul>
         
     </div>
     <div class="ruche-col ruche-footer-col4">
         <h2>The Ruche Family</h2>
         <ul>
-            <li><a href="/about_us.html" title="About Us">about us</a></li>
-            <li><a href="/careers.html" title="Join Our Team">join our team</a></li>
-            <li><a href="/affiliate.html" title="Affiliate Program">affiliate program</a></li>
-            <li><a href="/warehouse-pickup-perks.html" title="Local Perks">local perks</a></li>
+            <li><a href="http://shopruche.com/about_us.html" title="About Us">about us</a></li>
+            <li><a href="http://shopruche.com/careers.html" title="Join Our Team">join our team</a></li>
+            <li><a href="http://shopruche.com/affiliate.html" title="Affiliate Program">affiliate program</a></li>
+            <li><a href="http://shopruche.com/warehouse-pickup-perks.html" title="Local Perks">local perks</a></li>
         </ul>
     </div>
 
 </div><!--.ruche-footer-->
+
 <div class="ruche-copyright">
-	<div class="ruche-verisign">
-		<table id="verisign_container" width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign Trust Seal to promote trust online with consumers.">
-			<tbody><tr>
-				<td width="135" align="center" valign="top">
-					<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=shopruche.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
-				</td>
-			</tr>
-		</tbody></table>
+	<div class="ruche-seal">
+		<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=4UYqXRHKilWA4xk4RU7Q5kwhWWOECC6eOKoOPI77oX27VzsC0XVzg"></script></span>
 	</div>
+
 	<address class="copyright">
 		© 2014 <a href="http://shopruche.com">RUCHE INC</a>. RUCHE is a registered trademark.    ALL RIGHTS RESERVED. 	</address>
 	<span>
-    		<a href="/privacy.html" title="PRIVACY POLICY">PRIVACY POLICY</a>
+    		<a href="http://shopruche.com/privacy.html" title="PRIVACY POLICY">PRIVACY POLICY</a>
 		&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="/conditions.html" title="TERMS">TERMS</a>
+		<a href="http://shopruche.com/conditions.html" title="TERMS">TERMS</a>
 		    </span>
     <div class="clearfix"></div>
 </div><!--.ruche-copyright-->
+
+
+
+
+
+
+
+<div style="display:none" id="register" class="ruche-register-modal">
+    <h2 style="padding-bottom: 0px">Create an Account &amp; Join our Newsletter</h2>
+    <p style="font-size: 12px; text-align: center; margin: 10px 0 20px 0;">Your <span style="color:#f07c77;font-family:Georgia,Times,'Times New Roman',serif;letter-spacing: 0;">20% off</span> code will be delivered to your inbox</p>
+    <form action="#">
+        <h3>Personal Information</h3>
+        <div class="required"><span>*</span> required fields</div>
+        
+        <div class="ruche-register-col pull-left">
+            <label for="firstname"><span>*</span> FIRST NAME</label>
+            <input id="firstname-popup" type="text" name="firstname" placeholder="First name">
+        </div>
+        
+        <div class="ruche-register-col pull-right">
+            <label for="lastname"><span>*</span> LAST NAME</label>
+            <input id="lastname-popup" type="text" name="lastname" placeholder="Last name">
+        </div>
+        
+        <div class="padding clearfix">
+            <label for="email"><span>*</span> EMAIL ADDRESS</label>
+            <input id="email-popup" type="text" name="email" placeholder="Email">
+        </div>
+
+        <input class="newsletter" type="hidden" id="is_subscribed" name="is_subscribed" value="1" title="Subscribe to our newsletter">
+        <!-- <label for="is_subscribed"> subscribe to our newsletter</label> -->
+        
+        <div id="register_msg"></div>
+
+        <div class="ruche-dots-register clearfix"></div>
+        
+        <h3>Login Information</h3>
+        <div class="required"><span>*</span> required fields</div>
+        
+        <label for="password"><span>*</span> PASSWORD</label>
+        <input type="password" name="password" placeholder="Password">
+        
+        <div class="padding">
+            <label for="confirmation"><span>*</span> CONFIRM PASSWORD</label>
+            <input type="password" name="confirmation" placeholder="Confirm">
+        </div>
+
+        <!-- <input type="checkbox" name="persistent_remember_me" checked="checked" value="1" title="Remember Me"/> -->
+        <input type="hidden" name="ajax" value="1">
+        <input type="hidden" name="route" value="account/register">
+        <button type="button" title="Create an Account" class="button"><div class="ruche-sprite-account ruche-sprite-create-an-account"></div></button>
+    </form>
+</div>
 
 
 <script type="text/javascript">
@@ -675,231 +566,16 @@ jQuery(document).ready(function(){
     $$('#social_map area').each(function(el) { el.target = '_blank';}); 
 //]]>
 </script>
-<script type="text/javascript">
-//<![CDATA[
-jQuery(window).load(function(){
-    jQuery('#mc-footer-embedded-subscribe, #mc-embedded-subscribe').click(function(e) {
-        processData();
-        e.preventDefault();
-    });
-});
 
-function processData(popup) {
-    var $email_address = false;
-
-    var opt_in_source = jQuery('#ruche-ml-opt-in').val();
-    if (typeof popup == 'undefined')
-    {
-
-        var $email_address = jQuery("#ruche-ml-email");
-    }
-    else
-    {
-        var $email_address = jQuery("#nsp_form_email");
-        opt_in_source = 'wall';
-    }
-
-    if (!$email_address)
-        return false;
-    
-    var email_address = $email_address.val();
-    var ri = jQuery('#ruche-ml-id').val();
-
-    var dataString = "EMAIL_ADDRESS_=" + email_address + "&OPT_IN_SOURCE=" + opt_in_source + "&_ri_=" + ri;
-    
-    // Validation   
-    var errorCount = 0;
-    var email_regex = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-
-    if(!email_regex.test(email_address)) {
-        $email_address.css({'border': '1px solid #f00'});
-        $email_address.focus();
-        alert('Sorry, not a valid email address');
-        errorCount += 1;
-    }
-    if (email_address === "" || email_address === "enter your email" || email_address === "sign up for our newsletter") {
-        $email_address.css({'border': '1px solid #f00'});
-        $email_address.focus();
-        alert('Sorry, please enter an email address');
-        errorCount += 1;
-    }
-
-    if (errorCount === 0){
-        $email_address.val('sending...');
-        submitEmail(dataString);
-        if (typeof popup != 'undefined')
-            parent.jQuery.fancybox.close();
-    }
-}
-
-function submitEmail(dataString) {
-    var $email_address = jQuery("#ruche-ml-email");
-    jQuery.ajax({
-        data: dataString,
-        dataType: 'jsonp',
-        type: 'POST',
-        url: 'https://email.rucheinc.com/pub/rf',
-        success: function(response) {
-            $email_address.val('thanks for signing up!');
-        },
-        complete: function () {
-            $email_address.val('').attr('placeholder', 'enter your email');
-        },
-        error: function(){
-            alert('Thanks for signing up!');
-            $email_address.css('border','none');
-        }
-    });
-}
-//]]>
-</script>
-
-    <div href="#newsletter_popup" id="open_newsletter" style="display: none;"></div>
-    <div id="newsletter_popup">
-        <div id="newsletter_popup_form">
-            <input type="text" name="nsp_form_email" id="nsp_form_email">
-            <p><img src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v2/images/newsletter_popup/newsletter_button_subscribe.png" onclick="processData(1);"></p>
-        </div>
-    </div>
-	<div href="#local_popup" id="open_localpromo" style="display: none;"></div>
-    <div id="local_popup"></div>
-    <style>
-    #newsletter_popup {
-        background-image: url(http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v2/images/newsletter_popup/newsletter_popup_bg.jpg);
-        background-repeat: no-repeat;
-        display: none;
-        position: relative;
-        height: 366px;
-        width: 464px;
-        overflow: hidden;
-    }
-    #newsletter_popup_form {
-        position: absolute;
-        left: 0;
-        top: 250px;
-        width: 100%;
-        text-align: center;
-    }
-    #newsletter_popup_form input {
-        border: 1px solid #CCC;
-        text-align: center;
-        width: 70%;
-        padding: 8px;
-    }
-    #newsletter_popup_form img {
-        cursor: pointer;
-        text-align: center;
-    }
-	#local_popup {
-        background-image: url(http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v2/images/popup/local-pick-up.jpg);
-        background-repeat: no-repeat;
-        display: none;
-        position: relative;
-        height: 368px;
-        width: 464px;
-        overflow: hidden;
-    }
-    </style>
-    <script type="text/javascript">
-    /* COOKIES */
-/* ========================================= */
-function getCookie(c_name) {
-    var c_value = document.cookie;
-    var c_start = c_value.indexOf(" " + c_name + "=");
-    
-    if (c_start == -1) {
-        c_start = c_value.indexOf(c_name + "=");
-    }
-    
-    if (c_start == -1) {
-        c_value = null;
-    } else {
-        c_start = c_value.indexOf("=", c_start) + 1;
-        var c_end = c_value.indexOf(";", c_start);
-        if (c_end == -1) {
-            c_end = c_value.length;
-        }
-        c_value = unescape(c_value.substring(c_start, c_end));
-    }
-
-    return c_value;
-}
-
-function setCookie(c_name, value, exdays) {
-    var exdate = new Date();
-    exdate.setDate(exdate.getDate() + exdays);
-    var c_value = escape(value) + ((exdays==null) ? "" : "; expires=" + exdate.toUTCString());
-    document.cookie = c_name + "=" + c_value;
-}
-
-function isSecure()
-{
-    return window.location.protocol == 'https:';
-}
-
-
-/* Newsletter Signup POPUP
-/* ========================================= */
-function openNewsletterSignup() {
-   if (getCookie('newsletterSignupPopup') == null && !isSecure()) {
-        setCookie('newsletterSignupPopup', 1, 30);
-        jQuery("#open_newsletter").fancybox({
-            maxWidth    : 464,
-            maxHeight   : 368,
-            width       : '70%',
-            height      : '70%',
-            autoSize    : false,
-            padding     : 0,
-            margin      : 0,
-            scrolling   : 'hidden'
-        }).trigger('click');
-    }
-}
-
-/* Local Promo POPUP
-/* ========================================= */
-function openLocalPromo() {
-   if (getCookie('LocalPromoPopup') == null && !isSecure()) {
-        setCookie('LocalPromoPopup', 1, 14);
-        jQuery("#open_localpromo").fancybox({
-            maxWidth    : 464,
-            maxHeight   : 368,
-            width       : '70%',
-            height      : '70%',
-            autoSize    : false,
-            padding     : 0,
-            margin      : 0,
-            scrolling   : 'hidden'
-        }).trigger('click');
-		return true;
-    }
-	return false;
-}
-</script>
+<script type="text/javascript" src="http://cdn.shopruche.com/skin/frontend/shopruche/shopruche_v3/js/app/footer.js"></script>
 	
-<script type="text/javascript">
-jQuery(function($) {
-
-$.ajax({url:"/js/misc/geo-local.js",success:function(result){
-		if(parseInt(result)){
-			var openBox = openLocalPromo();
-			if(!openBox) openNewsletterSignup();
-		}else {
-			openNewsletterSignup();
-		}
-	}});
-
-});
-</script>
-
-
 <script>
-!function(a,b,c){function d(){if(!a.TURBOBYTESstarted){a.TURBOBYTESstarted=!0;var d=b.createElement(c),e=b.getElementsByTagName(c)[0];d.async=d.src="http://s2.cdnplanet.com/static/rum/rum.js",e.parentNode.insertBefore(d,e)}}"https:"!=a.location.protocol&&(a.TURBOBYTESsnippet||(a.TURBOBYTESsnippet=!0,a.addEventListener&&(b.readyState&&"complete"!==b.readyState?(a.addEventListener("load",d,!1),setTimeout(d,15e3)):d())))}(window,document,"script");
+// !function(a,b,c){function d(){if(!a.TURBOBYTESstarted){a.TURBOBYTESstarted=!0;var d=b.createElement(c),e=b.getElementsByTagName(c)[0];d.async=d.src="http://s2.cdnplanet.com/static/rum/rum.js",e.parentNode.insertBefore(d,e)}}"https:"!=a.location.protocol&&(a.TURBOBYTESsnippet||(a.TURBOBYTESsnippet=!0,a.addEventListener&&(b.readyState&&"complete"!==b.readyState?(a.addEventListener("load",d,!1),setTimeout(d,15e3)):d())))}(window,document,"script");
 </script>
 
 
 <script type="text/javascript">
-var utag_data = JSON.parse(JSON.stringify({"page_name":"Privacy Policy - Terms Of Service | Ruche","page_type":"landing"}));
+var utag_data = JSON.parse(JSON.stringify({"page_name":"privacy.html","page_type":"landing"}));
 (function(a,b,c,d){
       a='//tags.tiqcdn.com/utag/ruche/main/prod/utag.js';
       b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.
@@ -908,8 +584,13 @@ var utag_data = JSON.parse(JSON.stringify({"page_name":"Privacy Policy - Terms O
     })();
 </script>
 
-            </div>
-</div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"1e894a8890","applicationID":"2152010","transactionName":"bgMBMBFZC0NXURBbW1dJIgcXUQpeGVEJQRtJBwQBTE4MVUE=","queueTime":0,"applicationTime":2629,"ttGuid":"","agentToken":"","atts":"QkQCRllDGE0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+    </div>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<div id="quickbuyPopupContainer">
+    <div class="quickbuyWrapper">
+        <div id="quickbuyPopup"></div>
+    </div>
+</div>
+<script type="text/javascript">Quickbuy.init();</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"1e894a8890","applicationID":"4493156","transactionName":"bgMBMBFZC0NXURBbW1dJIgcXUQpeGVEJQRtJBwQBTE4MVUE=","queueTime":0,"applicationTime":99,"atts":"QkQCRllDGE0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
