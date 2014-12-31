@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marthastewart.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628093233id_/http%3A//www.marthastewart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marthastewart.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231203726id_/http%3A//www.marthastewart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Martha Stewart
 
 **Privacy Policy**
 
-Last Updated **APRIL 29, 2014**
+Last Updated **AUGUST 11, 2014**
 
 This Privacy Policy (the “Policy”) describes your privacy rights in connection with information collected, used, stored, or shared by Martha Stewart Living Omnimedia, Inc. ("MSO," "us," "our," or "we") and our related sites, applications, services, and/or tools, whether accessed via Internet, mobile, or other device or through applications and sites affiliated with MSO products (collectively, the “Online Services”). By using the Online Services or registering for an account, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Policy.
 
@@ -80,7 +80,7 @@ We may collect and analyze Aggregate Information to determine how many visitors 
 
           **4\. Third Parties**
 
-Occasionally, we share Aggregate Information with third parties, such as our advertisers and business partners, for marketing and promotional purposes. 
+Occasionally, we share Aggregate Information with third parties, such as our advertisers and business partners, for marketing, statistical analysis and promotional purposes. 
 
 We may supplement Aggregate Information with similar information obtained from our affiliates, companies with whom we have marketing or other business relationships, and other third party sources, such as your linked social media provider. For more information on how and why MSO may share your information with third parties, please see “Does MSO share information with other companies?”
 
