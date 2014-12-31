@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysitemyway.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065900id_/http%3A//mysitemyway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysitemyway.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231013732id_/http%3A//mysitemyway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Mysitemyway
 
