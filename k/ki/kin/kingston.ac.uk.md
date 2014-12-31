@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the kingston.ac.uk privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530130939id_/http%3A//www.kingston.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingston.ac.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231160512id_/http%3A//www.kingston.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Kingston University London
 
-## Privacy policy
-
-### Data protection
+## Data protection
 
 Kingston University endeavours to comply fully with the Data Protection Act 1998 in its handling of personal data. We aim to keep your data safely and securely and to use them only for stated purposes. Details of the University's Notification to the Information Commissioner setting out brief details of how we use your data can be found by clicking on the following link and entering "Kingston University" in the Name field: [www.ico.gov.uk/ESDWebPages/search.asp](http://www.ico.gov.uk/ESDWebPages/search.asp).
 
@@ -55,14 +53,14 @@ You may find the following links of use:
 
 
 
-### Analytics
+## Analytics
 
 When you use the website, information about the IP address and browser that your computer is using will be made known to us. We may use such information to monitor how our websites are used, which pages are visited and how often visits are made.
 
-### Electronic payments
+## Electronic payments
 
 Where our website provides facilities for electronic payments the data collected through these pages will be securely encrypted for your protection. You need to take care when entering details such as credit card data to ensure that your details cannot be seen by others standing near to you. You should be particularly careful if using a computer in a public place such as a library or internet cafe. When you make electronic payments your data will be transferred to the appropriate finance company for verification and in order for the payment to be made to us. When you have finished the transaction ensure that you have signed off from our site so that another user cannot return to your details.
 
-### Links to other websites
+## Links to other websites
 
 This privacy policy only covers pages within the Kingston University website. It does not extend to sites to which a link is provided from the University site. Nor does it necessarily apply to subsidiary companies of the University unless their own site states that this is the case.
