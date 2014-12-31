@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huffingtonpost.ca privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628084329id_/http%3A//www.huffingtonpost.com/p/huffingtonpostca-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huffingtonpost.ca privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231142502id_/http%3A//www.huffingtonpost.com/p/huffingtonpostca-privacy-policy.html) for the most accurate reproduction.*
 
 # Huffingtonpost.CA Privacy Policy
 
