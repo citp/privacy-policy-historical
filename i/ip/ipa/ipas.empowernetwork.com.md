@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipas.empowernetwork.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231220603id_/http%3A//www.empowernetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipas.empowernetwork.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231055751id_/http%3A//www.empowernetwork.com/privacy) for the most accurate reproduction.*
 
-# Empower Network: Privacy Policy
+# EmpowerNetwork.com Privacy Policy for the website
 
 This site (the "Site") is owned by Empower Network, LLC, a Florida limited liability company ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. 
 
@@ -39,5 +39,3 @@ This site is owned and operated by **Empower Network, LLC**
 St. Petersburg, Florida 33701  
 Suite 201  
 Effective Date: November 7, 2011 
-
-[Continue to signup page](https://web.archive.org/join?id=admin)
