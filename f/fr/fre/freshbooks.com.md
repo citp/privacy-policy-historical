@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628014848id_/http%3A//www.freshbooks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231163301id_/http%3A//www.freshbooks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy For FreshBooks Apps, Services and Web Site
 
 ## Privacy Policy
 
-#### Last Updated: April 25, 2014
+#### Last Updated: July 21, 2014
 
 This is the Privacy Policy of the FreshBooks website (the “Site”), operated by 2NDSITE Inc. (together with our affiliates and subsidiaries, “FreshBooks”, “we”, “us”, “our” and terms of similar meaning) and our related products and services. It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose this information.
 
@@ -46,7 +46,7 @@ We will share your personal information with third parties only in the ways that
 
 Subscribers and Customers, Etc. In the normal operation of the Site Subscriber timesheets (including information entered by “staff” members) and invoices are disclosed to the applicable Customers, and Customer information is disclosed to the applicable Subscriber. In general, information you enter on the Site is available to the other persons – whether they are Customers, Subscribers, staff members or others – to whom you give access to your account or to whom you give access to the information through the normal operation of the Site.
 
-Payment Information. We use credit card and other payment information (such as PayPal email addresses) you submit to us on the Site, and other information that we collect, as required, to process payments you make through the Site. We do not store credit card or other payment method information unless the Subscriber or their Customers choose to enter credit card information for use in the FreshBooks recurring profiles module; in all other cases financial institutions (like PayPal, Authorize.net and PSiGate) have the sole and complete responsibility for the storage of credit card and payment information.
+Payment Information. We use credit card and other personally identifiable information (such as PayPal email addresses) you submit to us on the Site, and other information that we collect, as required, to process payments you make through the Site through our payment processor intermediaries. We do not store credit card or other payment method information unless the Subscriber or their Customers choose to enter credit card information for use in the FreshBooks recurring profiles module; in all other cases our payment processors have the sole and complete responsibility for the storage of credit card and payment information. We may also share personally identifiable information with our payment processor intermediaries for risk management and fraud prevention.
 
 Anonymized Aggregated Data. We aggregate and anonymize sales information including (but not limited to) industry type, number of invoices sent, average invoice size, method of sending invoices, percentage paid online, sales amounts and average sale per customer, and disclose such information in a non-personally identifiable manner to Subscribers. However, in these situations, we do not disclose any information that could be used to identify you personally.
 
@@ -111,7 +111,7 @@ We may update this privacy statement to reflect changes to our information pract
 It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please email our privacy officer at:  
 FreshBooks  
 privacy@freshbooks.com  
-35 Golden Ave, Suite 105  
+1655 Dupont St, Suite 250  
 Toronto, ON  
-M6R 2J5 Canada  
+M6P 3T1 Canada  
 
