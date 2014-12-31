@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mas.gov.sg privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020616id_/http%3A//www.mas.gov.sg/en/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mas.gov.sg privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231083423id_/http%3A//www.mas.gov.sg/en/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # MAS Internet Privacy Policy Statement
 
