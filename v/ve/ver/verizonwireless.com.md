@@ -1,77 +1,127 @@
-> *The following text is extracted and transformed from the verizonwireless.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413015440id_/http%3A//www.verizonwireless.com/b2c/globalText%3FcontentType%3DglobalContent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verizonwireless.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231080456id_/http%3A//www.verizon.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Verizon | About You - Privacy Policy
 
-### Customer Proprietary Network Information Consent Form (for Arizona Business Customers Only):
+###  Verizon is Committed to Protecting Your Privacy
 
-[ English](https://web.archive.org/pdfs/AZ_CPNI_Consent.pdf)
+At Verizon, we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options about certain uses of information. Key elements of our [full privacy policy](https://web.archive.org/about/privacy/policy/) are summarized below.
 
-[ Spanish](https://web.archive.org/pdfs/AZ_CPNI_Consent_Spanish.pdf)
+Verizon's privacy policy applies to customers of the Verizon family of companies in the United States and to visitors to Verizon websites. It does not apply to Verizon Business customers outside the United States.  
+[Read more](https://web.archive.org/about/privacy/policy/)
 
-### Internet Privacy
+###  Information We Collect and How We Use It
 
-Effective Date: This policy was last updated on 01/31/2007.
+Verizon collects and uses information about our customers and website visitors when you interact with us, when you use our products and services, and when you visit our websites.
 
-Verizon Wireless strives to maintain high standards for the protection of privacy over the Internet. The purpose of this statement is to explain to our visitors the type of information Verizon Wireless obtains about visitors to our websites, how we gather it, how we use it, how long we retain it, and how visitors can restrict the use or disclosure of personally identifiable information.
+This information is used to deliver, provide, and repair products or services; establish and maintain customer accounts and billing records; contact you about our products and services and direct offers or promotions to you; monitor website statistics; and manage and protect our networks. Information may also be aggregated or anonymized for business and marketing uses by us or by third parties.
 
-[ ](http://www.truste.org/ivalidate.php?url=www.verizonwireless.com)
+We may also obtain consumer information (such as demographic and interest data) from outside companies who provide such data. We use this data and combine it with other information we have to help us predict customer preferences and direct marketing offers.  
+[Read more](https://web.archive.org/about/privacy/policy/#info)
 
-### Verizon Wireless as a licensee of the TRUSTe privacy program
+###  Information Provided to or Used by Third-Party Advertisers
 
-The TRUSTe seal confirms that Verizon Wireless is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/b2c/footer/privacypolicypopup.jsp). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
+You may see third-party advertisements on some Verizon websites, services, or devices. In some instances, advertisers seek to provide advertising that may be more relevant to your interests. They do this, for example, by placing cookies on your browser and using them to collect information about your visit on our websites . They may combine this information with similar information obtained from other websites. We also may provide third-party advertisers with the ability to target their ads using geographic or demographic information about customers. This information does not identify you individually. You have choices and may limit the use of your information.  
+[Read more](https://web.archive.org/about/privacy/policy/#3rdparty)
 
-### Information we collect
+###  Information We Share
 
-The personal information Verizon Wireless obtains about individual visitors to our websites is information the visitor supplies voluntarily. This means that you can visit our websites without telling us who you are or revealing any information about yourself. To gauge the effectiveness of our websites, we do collect some generic information about our visitors. Our web servers automatically recognize a visitor's domain name (such as .com, .edu, etc.), the point of entry from which a visitor enters our site including web pages, User Guide CDs or banner ads, which pages a visitor visits on our site, and how much time a visitor spends on each page. This information is not linked to any personally identifiable information about the visitor. We or our contractors use web beacons (i.e., "cookies") to track use of our sites and to track what sites users came from, but do not collect personally identifiable information via these web beacons. We aggregate this information and use it to evaluate and improve our websites. We do not track user activity on sites outside of Verizon Wireless.
-
-Verizon Wireless may collect personally identifiable information (such as name, email address, postal address) and/or third party personally identifiable information through this website. In some situations, such as when you order a product or service online or register for online billing, Verizon Wireless will collect billing information, such as your credit card number and billing address, and we may share this information with our third parties contractors (such as your credit card company solely for the purpose of processing the transaction you have requested). You may choose to provide individual information to Verizon Wireless in a number of ways through our websites such as by:
-
-  * Ordering a product or service from us; 
-  * Sending us email; 
-  * Registering to receive news, public policy updates, or information about our products or services; 
-  * Applying for a job or a grant; or 
-  * Entering a contest. 
+  
 
 
+####  Within the Verizon Family of Companies:
 
-When visitors supply information about themselves for a specific purpose, Verizon Wireless uses the information for that purpose (such as to provide the information the visitor has requested or to consider a visitor for a particular job). When visitors use our websites to order products or services, or to request information about them, we may use the individual information as we would use the same information obtained offline - for example, to evaluate your service needs and contact you regarding additional services you may find useful. You have the right to choose not to receive this information by notifying us of your preference.
+Verizon shares customer information within our family of companies. You can limit our sharing of certain types of customer information, known as Customer Proprietary Network Information, for marketing purposes.  
+[Read more](https://web.archive.org/about/privacy/policy/#insideVz)
 
-When a user wants to set up an account with Verizon Wireless, in order to determine the user's credit worthiness, we use their name, date of birth, and social security number to request a credit report from a credit-reporting agency. Once we determine a user's credit-worthiness, this document is destroyed.
+####  Outside the Verizon Family of Companies:
 
-We do not sell individual information obtained online about our visitors. And, we will not disclose the individual information provided to us online to anyone outside of Verizon Wireless or our contractors unless you specifically authorize it (by purchasing a product or service using a credit card, for example, you authorize us to provide information regarding the purchase to your credit card company), it is required by law, or disclosure is necessary to protect the safety of customers, employees or property. If you provide individual information to us in the context of an event Verizon Wireless sponsors with another company, such as a contest, or if you register on a co-sponsored site or feature, you may also be providing the information to the co-sponsor. In those circumstances, the co-sponsor's privacy policy will control, so review their information carefully. Verizon Wireless from time to time uses third party contractors to perform services such as website management, site design, site hosting and special promotions but does not use user information for other purposes beyond providing specific services on Verizon Wireless website.
+Except in circumstances explained in our Privacy Policy, in privacy policies for specific services, or in agreements with our customers, Verizon does not sell, license or share information that individually identifies our customers with others outside of Verizon for non-Verizon purposes without your consent. We may share information with our vendors and partners for business purposes and when necessary for them to perform work on our behalf. Verizon may also share certain non-personal identifiable information with outside companies to assist with the delivery of advertising campaigns or preparing and sharing aggregate business and marketing reports.  
+[Read more](https://web.archive.org/about/privacy/policy/#outsideVz)
 
-### Email
+###  How to Limit the Sharing and Use of Your Information
 
-Verizon Wireless does not send unsolicited "junk" email (spam). We may use email to communicate with our customers, to respond to visitors' emails, to confirm orders placed online, and to send information that a visitor has requested. If you receive an unwanted email from us, you can simply reply to ask not to receive future emails.
+  
 
-Verizon Wireless provides an unsubscribe function in its email campaigns in order for subscribers to opt out of further email communications from us.
 
-### Use of cookies
+####  Your Choices
 
-Verizon Wireless websites also use "cookies", which may be sent by contractors that we use to track how our websites are used. They allow us to serve you better. When you use our sites, we or our contractors send information, a cookie, to your computer and it is stored there. When you return to our sites, your computer sends the cookie back to us or our contractor. This allows our server to recognize your computer and any settings you created on our sites. It restores those settings so you don't have to enter the same information every time you visit. For example, if you entered your zip code on a visit to our site, when you return you will see information for that zip code without typing it in again. It also allows us to track non-personally identifiable information about how our websites are used and how to improve them. The fact that our server recognizes your computer when it retrieves the cookies does not mean that Verizon Wireless is actually acquiring information about you. You can set your browser to delete cookies or to tell you before you accept one. Look in your browser's Options or Preferences menu.
+  * ####  Customer Information:
 
-### Security
+You may choose to opt out of the sharing of specific customer information, within the Verizon family of companies for certain marketing purposes.  
+[Read more](https://web.archive.org/about/privacy/policy/#cpni)
 
-Verizon Wireless uses Secure Socket Layer technology with encryption for the transmission of sensitive data such as credit card information and Social Security Number.
+  * ####  Telemarketing:
 
-Verizon Wireless is committed to safeguarding customer privacy on all our websites. We require our employees to protect the privacy of information about our customers and expect our partners and suppliers to do so as well. You can feel confident that your individual information will be protected when you access your account or order products or services from our websites. We employ security measures to safeguard your transactions with us.
+You may request to be removed from the Verizon telemarketing lists at any time.  
+[Read more](https://web.archive.org/about/privacy/policy/#telemktg)
 
-### Compliance with laws
+  * ####  Marketing Email, Postal Mail and Door-to-Door Calls:
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our websites.
+You may opt out of receiving marketing-related emails, text messages, or postal mailings or prevent door-to-door marketing.  
+[Read more](https://web.archive.org/about/privacy/policy/#emailmktg)
 
-### Links to other websites
+  * ####  Information Used for Online Advertising:
 
-The Verizon Wireless websites contain links to other sites. We are not responsible for the content or the privacy practices employed by other sites. To improve the services it can offer you, Verizon Wireless may opt to expand its capabilities for obtaining information about users in the future. Verizon Wireless will update this privacy statement continually to ensure that you are aware of developments in this area.
+You have choices about whether certain information collected on websites, including Verizon's, is used to customize advertising based on predictions generated from your visits over time and across different websites.  
+[Read more](https://web.archive.org/about/privacy/policy/#infoadv)
 
-### Updating your information
+  * ####  Wireless Location Services:
 
-Users may access, correct, and update information they have provided to Verizon Wireless by visiting our websites and utilize our Customer Service application. The Contact Us area of the site contains email links by which users can send in information updates.
+Verizon Wireless services that use mobile device location data provide you with notice about the collection and use of this data as well as choices about whether specific location-tracking features available on your phone are turned on.  
+[Read more](https://web.archive.org/about/privacy/policy/#wireinfo)
 
-### Notice of changes
+  * ####  FiOS TV Services:
 
-Verizon Wireless will provide 30 days notice on our web site of any material changes to the privacy statement and in the use of personally identifiable information.
+Specific privacy protections apply to Verizon's FiOS and other fiber-to-the-premises services.  
+[Read more](https://web.archive.org/about/privacy/fiosprivacy/)
 
-### Contacting us
+  * ####  Relevant Advertising:
 
-For inquiries regarding our privacy statement, [contact us](https://web.archive.org/b2c/footer/privacypolicypopup.jsp).
+Customers may opt-out of participating in relevant advertising programs on their Internet access services or their FiOS television service.  
+[Read more](https://web.archive.org/about/privacy/policy/#relad)
+
+  * ####  Business and Marketing Reports:
+
+Verizon Wireless customers may opt-out of allowing Verizon Wireless to use their information to create aggregated business and marketing reports.  
+[Read more](https://web.archive.org/about/privacy/policy/#inforeport)
+
+  * ####  Parental Controls:
+
+Age-based content controls are available for parents of Verizon's Internet, Wireless and TV services.  
+[Read more](https://web.archive.org/about/privacy/policy/#parental)
+
+
+
+
+###  Information Security
+
+Verizon has technical, administrative and physical safeguards in place to help protect against unauthorized access to, use or disclosure of customer information we maintain.  
+[Read more](https://web.archive.org/about/privacy/policy/#infosecurity)
+
+###  Contact Information
+
+If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, you may contact us at:
+
+Verizon Privacy Office  
+1300 I Street, NW  
+Suite 400 West  
+Washington, DC 20005  
+Fax: 202-789-1432  
+Email: [privacyoffice@verizon.com ](mailto:privacyoffice@verizon.com)
+
+###  Accessing and Updating Your Information
+
+You may correct inaccuracies in your information by calling a customer service representative or by accessing your online account and updating your information.  
+[Read more](https://web.archive.org/about/privacy/policy/#infoupdate)
+
+###  Changes to the Privacy Policy
+
+If Verizon elects to use or disclose information that identifies you as an individual in a manner that is materially different from that stated in our policy at the time we collected that information from you, we will give you a choice regarding such use or disclosure by appropriate means, which may include use of an opt-out mechanism.  
+[Read more](https://web.archive.org/about/privacy/policy/#infochange)
+
+Verizon is a licensee of the TRUSTe Privacy Program.  
+[Read more](https://web.archive.org/about/privacy/policy/#truste)
+
+Updated November 2013
+
+© 2009, 2011-2013 Verizon. All Rights Reserved.
