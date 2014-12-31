@@ -1,32 +1,30 @@
-<!--The following is the downloaded HTML source of the codecademy.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626054416id_/http%3A//www.codecademy.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the codecademy.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231165258id_/http%3A//www.codecademy.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en" dir="ltr"><head>
-  <title>Privacy Policy | Codecademy</title>
-  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-  <link href="/blog.rss" rel="alternate" title="Codecademy Blog" type="application/rss+xml">
-  
-
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"8502746af5","applicationID":"2210607","transactionName":"c1hZF0tfVQkEExoVC0RSGBNWXFAGGA==","queueTime":7,"applicationTime":108,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwYAVVFXGwECVVFUBwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-  <meta name="description" content="Codecademy is the easiest way to learn how to code. It's interactive, fun, and you can do it with your friends.">
-  <meta name="keywords" content="codecademy,coding,code,programming,">
-  
+    <title>Privacy Policy | Codecademy</title>
+    <link href="http://cdn-production.codecademy.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    
+    <link href="/blog.rss" rel="alternate" title="Codecademy Blog" type="application/rss+xml">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"8502746af5","applicationID":"2210607","transactionName":"c1hZF0tfVQkEExoVC0RSGBNWXFAGGA==","queueTime":1,"applicationTime":99,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwYAVVFXGwECVVFUBwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="authenticity_token" name="csrf-param">
+<meta content="07cTUejzBP1SnFDZZnAWHqblOuv4CTAiepPxp6DVn5s=" name="csrf-token">
+    <meta name="description" content="Codecademy is the easiest way to learn how to code. It's interactive, fun, and you can do it with your friends.">
+    <meta name="keywords" content="codecademy,coding,code,programming">
+    
   <meta property="fb:app_id" content="212500508799908">
   <meta property="og:url" content="http://www.codecademy.com/policy">
   <meta property="og:site_name" content="Codecademy">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Privacy Policy">
   <meta property="og:description" content="Codecademy is the easiest way to learn how to code. It's interactive, fun, and you can do it with your friends.">
-
-  <meta content="authenticity_token" name="csrf-param">
-<meta content="LYGB9E4hmie1BEdPS8EuitFV3gJUsU8S+TKiYfpnc1k=" name="csrf-token">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-
-    <!-- GA -->
+    <link href="http://cdn-production.codecademy.com/assets/rebrand/core-6e8bd27e20bd5662cac223f751ac1fde.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="http://cdn-production.codecademy.com/assets/rebrand/controllers/site/policy-898dbcc47b69bde6b4d2bec22f7ccdcc.css" media="screen" rel="stylesheet" type="text/css">
+      <!-- GA -->
   <script type="text/javascript">
 //<![CDATA[
 
@@ -39,83 +37,63 @@
 
 //]]>
 </script>
-  <!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+    <!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
 for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
 mixpanel.init("cae5cbbe77db18d216b3995c711c4077");</script><!-- end Mixpanel -->
 
 
-  <!-- Common: data -->
+    
+    
+  </head>
 
-<script type="text/javascript">
+  <body browser="other">
+    <script type="text/javascript">
 //<![CDATA[
-
-window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_host":"cdn-production.codecademy.com","assets_compiled":true,"available_locales":"en|ko|fa|ru|es-AR|ja|fr|zh|fr-FR|pt-BR|de|ky-KG|es|pt|ar","API_HOST":"/api","rebrand":true,"secureSandboxIndexPath":"http://cdn-production.codecademy.com/assets/secure/index-c5bf1319f62cb07c26239e761a9ed5c9.html","pollForNotifications":false};
-
+var CCDATA = CCDATA || {};
 //]]>
 </script>
 
-  <link href="http://cdn-production.codecademy.com/assets/rebrand/reset-67d20cb821debf43577ad19cfca9674c.css" media="screen" rel="stylesheet" type="text/css">
-  <link href="http://cdn-production.codecademy.com/assets/rebrand/layouts/layouts-3c08a4e43c7d9d476ebffdbaf79d510c.css" media="screen" rel="stylesheet" type="text/css">
+      <header id="header">
   
-</head>
-<body>
+  <article class="fit-fixed" id="header__nav-container">
+    <div id="header__nav" class="grid-col-12 grid-row grid-col--no-spacing">
+      <div id="header__mobile-dropdown-button-container" class="grid-col-1 grid-col--no-padding grid-col--no-margin grid-col--float-right" exclude="tablet desktop">
+        <a id="header__mobile-dropdown-button" class="js-toggle-profile-dropdown header__nav__link">
+          <div class="header__nav__link__label">
+            <h5>☰</h5>
+          </div>
+        </a>
+      </div>
 
-<header id="header">
-  <article class="fit-fixed">
-    <article class="fit-fixed" id="header__nav-container">
-      <div id="header__nav" class="grid-col-12 grid-row grid-col--no-spacing">
 
-        <div id="header__mobile-dropdown-button-container" class="grid-col-1 grid-col--no-padding grid-col--no-margin grid-col--float-right" exclude="tablet desktop desktop-large">
-          <a id="header__mobile-dropdown-button" class="js-toggle-profile-dropdown header__nav__link">
-            <div class="header__nav__link__label">
-              <h5>☰</h5>
+        <div class="grid-col-2 grid-col--float-right grid-col--no-padding grid-col--no-margin" exclude="phone">
+          <a href="/register/sign_up" class="header__nav__link js-sign-up" id="header__sign-up">
+            <div class="header__nav__link__button">
+              <button class="button button--primary button--small button--all-caps button--fill-space">
+                Sign up
+              </button>
             </div>
-          </a>
-        </div>
+</a>        </div>
+
+        <div class="grid-col-2 grid-col--float-right grid-col--no-padding grid-col--no-margin" exclude="phone">
+          <a href="/sign_in" class="header__nav__link js-sign-in" id="header__sign-in">
+            <div class="header__nav__link__button">
+              <button class="button button--white button--small button--all-caps button--fill-space">
+                Login
+              </button>
+            </div>
+</a>        </div>
 
 
-          <div class="grid-col-2 grid-col--float-right grid-col--no-padding grid-col--no-margin" exclude="phone">
-            <a href="/register/sign_up" class="header__nav__link js-sign-up" id="header__sign-up">
-              <div class="header__nav__link__button">
-                <button class="button button--primary button--small button--all-caps button--fill-space">
-                  <span class="translation_missing" title="translation missing: en.views.navigation.sign_up">Sign Up</span>
-                </button>
-              </div>
-</a>          </div>
-
-          <div class="grid-col-2 grid-col--float-right grid-col--no-padding grid-col--no-margin" exclude="phone">
-            <a href="/sign_in" class="header__nav__link js-sign-in" id="header__sign-in">
-              <div class="header__nav__link__button">
-                <button class="button button--white button--small button--all-caps button--fill-space">
-                  Login
-                </button>
-              </div>
-</a>          </div>
+      </div>
 
 
-          <div class="header__dynamic-width-col" exclude="phone">
-            <a href="/teach" class="header__nav__link">
-              <h5 class="header__nav__link__label">
-                Teach
-              </h5>
-</a>          </div>
-
-          <div class="header__dynamic-width-col" exclude="phone">
-            <a href="/learn" class="header__nav__link">
-              <h5 class="header__nav__link__label">
-                Learn
-              </h5>
-</a>          </div>
-        </div>
+    <div id="header__logo">
+      <a href="/" id="header__logo__link">
+        <img alt="Codecademy" class="logo__image--full no-rescale" src="http://cdn-production.codecademy.com/assets/logo/logo--dark-blue-bf11002ce1caecdfb9fec8d3286b8a8d.svg">
+</a>    </div>
 
 
-      <div id="header__logo">
-        <a href="/" id="header__logo__link">
-          <img alt="Codecademy" class="logo__image--full no-rescale" src="http://cdn-production.codecademy.com/assets/logo/logo--dark-blue-bf11002ce1caecdfb9fec8d3286b8a8d.svg">
-</a>      </div>
-
-
-    </article>
   </article>
   <div id="notices" exclude="phone"></div>
 </header>
@@ -128,22 +106,30 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
                   panel color-scheme--darkgrey">
           <a href="/sign_in" class="no-underline">
             <li class="js-sign-in panel__item">
-              <h5>Sign in</h5>
+              <div class="panel__item__text">
+                <h5>Sign in</h5>
+              </div>
             </li>
 </a>
           <a href="/register/sign_up" class="no-underline">
             <li class="js-sign-up panel__item">
-              <h5>Sign up</h5>
+              <div class="panel__item__text">
+                <h5>Sign up</h5>
+              </div>
             </li>
 </a>
-        <a href="/learn" class="no-underline" exclude="tablet desktop desktop-large">
+        <a href="/learn" class="no-underline" exclude="tablet desktop">
           <li class="panel__item">
-            <h5>Learn</h5>
+            <div class="panel__item__text">
+              <h5>Learn</h5>
+            </div>
           </li>
 </a>
-        <a href="/teach" class="no-underline" exclude="tablet desktop desktop-large">
+        <a href="/teach" class="no-underline" exclude="tablet desktop">
           <li class="panel__item">
-            <h5>Teach</h5>
+            <div class="panel__item__text">
+              <h5>Teach</h5>
+            </div>
           </li>
 </a>
 
@@ -151,7 +137,9 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
 
         <a href="/help" class="no-underline">
           <li class="panel__item">
-            <h5>Help</h5>
+            <div class="panel__item__text">
+              <h5>Help</h5>
+            </div>
           </li>
 </a>
       </div>
@@ -161,61 +149,190 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
 
 
 
-<main>
-
-
-
-
+    <main class="site policy ">
+      
+      
 <div class="fit-fixed">
   <div class="grid-row">
-    <article class="grid-col-8 grid-col--center padding-bottom--5">
+    <article class="grid-col-12 grid-col--center padding-bottom--5 privacy">
 
       <h1 class="padding-top--3 padding-bottom--3">Privacy Policy</h1>
 
-      <h3 class="margin-top--2 margin-bottom--1">Website Visitors</h3>
-
       <p>
-        Like most website operators, Codecademy collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Codecademy’s purpose in collecting non-personally identifying information is to better understand how Codecademy’s visitors use its website. From time to time, Codecademy may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
-      </p>
-      <p>
-        Codecademy also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Codecademy does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+        Codecademy, Inc. (“Codecademy,” “we,” or “us”) is committed to protecting your privacy. Our Privacy Policy explains how we collect, use, disclose, and protect information about you or associated with you (“personal information”), and your choices about the collection and use of your information. This Privacy Policy applies to the online services offered by Codecademy at <a href="www.codecademy.com">www.codecademy.com</a>.
       </p>
 
-      <h3 class="margin-top--2 margin-bottom--1">Gathering of Personally-Identifying Information</h3>
+      <p>Click on the links below to jump to each section:</p>
+
+      <nav>
+        <ol>
+          <li> <a href="#how-we-collect">How We Collect and Use Information</a></li>
+          <li> <a href="#sharing">Sharing of Your Information</a></li>
+          <li> <a href="#your-choices">Your Choices about Your Information</a></li>
+          <li> <a href="#how-we-store">How We Store and Protect Your Information</a></li>
+          <li> <a href="#childrens-privacy">Children's Privacy</a></li>
+          <li> <a href="#school-privacy">School Privacy</a></li>
+          <li> <a href="#links-to-other">Links to Other Websites and Services</a></li>
+          <li> <a href="#how-to-contact">How to Contact Us</a></li>
+          <li> <a href="#changes-to-our">Changes to Our Privacy Policy</a></li>
+        </ol>
+      </nav>
+
+      <h3 class="margin-top--2 margin-bottom--1" id="how-we-collect">How We Collect and Use Information</h3>
 
       <p>
-        Certain visitors to Codecademy’s websites choose to interact with Codecademy in ways that require Codecademy to gather personally-identifying information. The amount and type of information that Codecademy gathers depends on the nature of the interaction. For example, we ask visitors who use our forums to provide a username and email address. In each case, Codecademy collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Codecademy. Codecademy does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+        Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our <a href="/terms"><span class="translation_missing" title="translation missing: en.Terms of Use">Terms Of Use</span></a>
       </p>
 
-      <h3 class="margin-top--2 margin-bottom--1">Aggregated Statistics</h3>
-
       <p>
-        Codecademy may collect statistics about the behavior of visitors to its websites. For instance, Codecademy may reveal how many downloads a particular version got, or say which plugins are most popular based on checks from api. Codecademy, a web service used by Codecademy installations to check for new versions of Codecademy and plugins. However, Codecademy does not disclose personally-identifying information other than as described below.
+      We collect the following types of information about you:
       </p>
 
-      <h3 class="margin-top--2 margin-bottom--1">Protection of Certain Personally-Identifying Information</h3>
+      <h4>Information We Collect From You Directly</h4>
+      <p>
+      </p><ul>
+        <li>
+          <strong>Account information:</strong> You can browse our site without providing personal information, but you must register in order to access most of the features of Service. We ask for certain information such as your username, email address and password when you create a Codecademy account, or if you correspond with us.
+        </li>
+        <li>
+          <strong>Data collected through the use of the service:</strong> After you set up your account, Codecademy members may also chose to provide additional information which may be shared through public profiles, such as your name, location, website, links to your social media profiles, and other information. You control how much personally identifying information you wish to provide in your public profile.
+        </li>
+        <li>
+          <strong>Messages and User Content:</strong> We may retain any messages you send through theService, and may collect information you provide in User Content you post to the Service.
+        </li>
+      </ul>
+      <p></p>
 
       <p>
-        Codecademy discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on Codecademy’s behalf or to provide services available at Codecademy’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Codecademy’s websites, you consent to the transfer of such information to them. Codecademy will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, Codecademy discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Codecademy believes in good faith that disclosure is reasonably necessary to protect the property or rights of Codecademy, third parties, or the public at large. If you are a registered user of a Codecademy website and have supplied your email address, Codecademy may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Codecademy and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Codecademy takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
+        We use this information to operate, maintain, and provide to you the features and functionality of the Service, as well as to communicate directly with you, such as to send you email messages. You can control your receipt of email messages by visiting “Settings” within “Edit Account Settings” page on our website. We may also send you Service-related emails (e.g., account verification, change or updates to features of the Service, technical and security notices). You may not opt-out of Service-related e-mails. For more information about your communication preferences, see “Your Choices Regarding Your Information” below.
       </p>
 
-      <h3 class="margin-top--2 margin-bottom--1">Cookies</h3>
+      <h4>Information We May Receive From Social Networking Sites</h4>
 
       <p>
-        A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Codecademy uses cookies to help Codecademy identify and track visitors, their usage of Codecademy website, and their website access preferences. Codecademy visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Codecademy’s websites, with the drawback that certain features of Codecademy’s websites may not function properly without the aid of cookies.
+        If you create an account on our website through a third-party connection or log-in, for example through Facebook, Google+ or Twitter, or by “following,” or “liking” Codecademy on a third party social media site, etc., that third party may pass certain information about your use of its service to Codecademy. This information could include the user ID associated with your account (for example, your Facebook UID), an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that service. If you allow us access to your friends list, your friends’ user IDs, and your connection to those friends, maybe used and stored to make your experience more social, and to allow you to invite your friends to use our Service as well as provide you with updates if and when your friends join Codecademy. The data we receive is dependent upon your privacy settings with the social network. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the Codecademy Service.
       </p>
 
-      <h3 class="margin-top--2 margin-bottom--1">Privacy Policy Changes</h3>
+      <h4>Information Automatically Collected</h4>
 
       <p>
-        Although most changes are likely to be minor, Codecademy may change its Privacy Policy from time to time, and in Codecademy’s sole discretion. Codecademy encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+        We automatically collect certain types of usage information when you visit our website or use our Service. When you visit the Site, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information from your browser or mobile device each time you access the Service. Log file information may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, information about your mobile device, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that
+        assists us in analyzing and improving the Service.
+      </p>
+      <p>
+        When you access our Services by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device (“Device ID”), mobile carrier, device type and manufacturer, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
+      </p>
+      <p>
+        We use or may use the data collected through cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Service; (e) diagnose or fix technology problems; and (f) otherwise to plan for and enhance our service. We may associate information we automatically collect with your other information.
+      </p>
+
+      <h3 class="margin-top--2 margin-bottom--1" id="sharing">How We Share Your Information With Others</h3>
+
+      <p>
+        We may share your personal information in the instances described below. For further information on your choices regarding your information, see the “Your Choices Regarding Your Information” section below.
+      </p>
+
+      <p>
+        We may share your personal information with:
+        </p><p>
+        </p><ul>
+          <li>
+            Other companies owned by or under common ownership as Codecademy, which includes our subsidiaries (i.e., any organization we own or control) or our ultimate holding company (i.e., any organization that owns or controls us) and any subsidiaries it owns. These companies will use your personal information in the same way as we can under this Policy;
+          </li>
+          <li>
+            Third party vendors, consultants, contractors and other service providers that perform services on our behalf, in order to carry out their work for us, which may include content or service fulfillment, accounting, or providing analytics services;
+          </li>
+          <li>
+            Third parties at your request. Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public and/or to other Codecademy members, as controlled by any applicable privacy settings. Additionally, you may have the option to share your activities on our Services with your friends through social media. Codecademy does not have control over your information shared with third party social networks and you should review the policies of those networks before consenting to share information;
+          </li>
+          <li>
+            Other parties in connection with any company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or the acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy or related or similar proceedings. Your information, such as user names and email addresses, User Content and other user information may be among the items sold or otherwise transferred in these types of transactions; and
+          </li>
+          <li>
+            Third parties as reasonably necessary to (i) satisfy any applicable law, regulation, subpoena/court order, legal process or other government request, (ii) enforce our Terms of Use Agreement, including the investigation of potential violations thereof, and/or (iii) investigate and defend ourselves against any third party claims or allegations, (iv) to exercise or protect the rights, property, or personal safety of Codecademy, our Users or others.
+          </li>
+        </ul>
+        <p></p>
+
+        We may also share information with others in an aggregated and anonymous form that does not reasonably identify you directly as an individual.
+      <p></p>
+
+      <h3 class="margin-top--2 margin-bottom--1" id="your-choices">Your Choices About Your Information</h3>
+
+      <p>
+        <strong>Profile data.</strong> You can change your profile settings by visiting “Edit Account” to control whether your profile can be seen by Codecademy members or by the general public.
+      </p>
+
+      <p>
+        <strong>Communications.</strong> You can control your communication preferences by visiting "Settings” in the “Edit Account” section of our website. You can also click the “unsubscribe” button on promotional email communications. Note that you are not permitted to unsubscribe or opt-out of non-promotional messages regarding your account, such as account verification, password requests, change or updates to features of the Service, or technical and security notices.
+      </p>
+
+      <p>
+        <strong>Data Retention.</strong> We will retain your information for as long as your account is active or as needed to provide you services. If your account becomes inactive, we will maintain your personal information in the event you wish to re-engage in our Service. You may delete your account by visiting the “Settings” page.
+      </p>
+
+      <p>
+        If you have any questions about reviewing or modifying your account information, you can contact us directly at <a href="mailto:legal@codecademy.com">legal@codecademy.com</a>.
+      </p>
+
+      <h3 class="margin-top--2 margin-bottom--1" id="how-we-store">How We Store And Protect Your Information</h3>
+
+      <p>
+        <strong>Storage and Processing:</strong> Your information collected through the Service may be stored and processed in the United States or any other country in which Codecademy or its subsidiaries, affiliates or service providers maintain facilities. Codecademy may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Codecademy or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+      </p>
+
+      <p>
+        <strong>Keeping your information safe:</strong> Codecademy cares about the security of your information and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations. Your privacy settings may also be affected by changes to the functionality of third party sites and services that you add to the Codecademy Service, such as social networks. Codecademy is not responsible for the functionality or security measures of any third party.
+      </p>
+
+      <h3 class="margin-top--2 margin-bottom--1" id="childrens-privacy">Children's Privacy</h3>
+
+      <p>
+        Our Service is not directed at children under the age of 13 and we do not knowingly collect or solicit information from anyone under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information collected from a child under 13, please contact us at <a href="mailto:legal@codecademy.com">legal@codecademy.com</a>.
+      </p>
+
+      <h3 class="margin-top--2 margin-bottom--1" id="school-privacy">Schools Privacy</h3>
+
+      <p>
+        In some circumstances, we may permit a School to register Students to our service for the purpose of providing educational services. Because Codecademy provides the Service to School to benefit and enhance the School’s curriculum, Codecademy relies on the school to obtain and provide appropriate consent, if needed, to collect personal information of students.
+      </p>
+
+      <h3 class="margin-top--2 margin-bottom--1" id="links-to-other">Links to Other Websites and Services</h3>
+
+      <p>
+        The Services may, from time to time, contain links to and from third party websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. Please check the individual policies before you submit any information to those websites.
+      </p>
+
+      <h3 class="margin-top--2 margin-bottom--1" id="how-to-contact">How to Contact Us</h3>
+
+      <p>
+        If you have any questions about this Privacy Policy or the Service, please contact us at <a href="mailto:legal@codecademy.com">legal@codecademy.com</a>.
+      </p>
+
+      <p>
+        Codecademy, Inc.
+        <br>
+        49 W 27th Street, 4th Floor
+        <br>
+        New York City, NY 10001
+      </p>
+
+      <h3 class="margin-top--2 margin-bottom--1" id="changes-to-our">Changes to Our Privacy Policy</h3>
+
+      <p>
+        Codecademy may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page.
+      </p>
+
+      <p>
+        This privacy policy was last modified on August 15th, 2014.
       </p>
     </article>
   </div>
 </div>
 
-</main>
-<footer id="footer" class="color-scheme--darkgrey">
+    </main>
+
+        <footer id="footer" class="color-scheme--darkgrey">
   <div id="footer__main">
     <article class="fit-fixed">
 
@@ -228,33 +345,43 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
 
           <div id="footer__company__links">
             <a href="/about">About Us</a>
-            <a href="/jobs">We're hiring</a>
+            <a href="/about/jobs">We're hiring</a>
             <a href="/blog">Blog</a>
           </div>
         </div>
 
         <div class="grid-col-6 grid-row grid-col--no-margin">
-          <div class="grid-col-4 grid-col--no-padding">
+          <div class="grid-col-6 grid-col--no-padding">
             <h5><strong>Learn To Code</strong></h5>
-            <div><a href="/tracks/web">HTML/CSS</a></div>
-            <div><a href="/tracks/javascript">Javascript</a></div>
-            <div><a href="/tracks/jquery">jQuery</a></div>
-            <div><a href="/tracks/python">Python</a></div>
-            <div><a href="/tracks/ruby">Ruby</a></div>
-            <div><a href="/tracks/php">PHP</a></div>
-            <div><a href="/tracks/apis">APIs</a></div>
+            <ul>
+              <li><a href="/skills/make-a-website">Make a Website</a></li>
+              <li><a href="/skills/make-an-interactive-website">Make an Interactive Website</a></li>
+                <li><a href="/learn/make-a-rails-app/resume">Make a Rails Application</a></li>
+            </ul>
+
+            <ul class="margin-top--1">
+              <li><a href="/tracks/web">HTML &amp; CSS</a></li>
+              <li><a href="/tracks/javascript">Javascript</a></li>
+              <li><a href="/tracks/jquery">jQuery</a></li>
+              <li><a href="/tracks/python">Python</a></li>
+              <li><a href="/tracks/ruby">Ruby</a></li>
+              <li><a href="/tracks/php">PHP</a></li>
+            </ul>
           </div>
-          <div class="grid-col-4 grid-col--no-padding">
+          <div class="grid-col-6 grid-col--no-padding">
             <h5><strong>Other Programs</strong></h5>
-            <div><a href="/schools">Schools</a></div>
-            <!--<div><a href="/enterprise">Enterprise</a></div>-->
-            <div><a href="/stories">Stories</a></div>
-          </div>
-          <div class="grid-col-4 grid-col--no-padding">
-            <h5><strong>Follow us</strong></h5>
-            <div><a href="http://www.twitter.com/codecademy">Twitter</a></div>
-            <div><a href="http://www.facebook.com/codecademy">Facebook</a></div>
-            <div><a href="/blog">Blog</a></div>
+            <ul>
+              <li><a href="/schools">Schools</a></li>
+              <li><a href="/stories">Stories</a></li>
+            </ul>
+
+            <h5 class="margin-top--1"><strong>Follow us</strong></h5>
+            <ul>
+              <li><a href="http://www.twitter.com/codecademy">Twitter</a></li>
+              <li><a href="http://www.facebook.com/codecademy">Facebook</a></li>
+              <li><a href="https://plus.google.com/+codecademy/posts">Google+</a></li>
+              <li><a href="/blog">Blog</a></li>
+            </ul>
           </div>
         </div>
       </div>
@@ -284,7 +411,7 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
 
         <div id="footer__locale" class="grid-col-5 grid-col--no-spacing margin-top-bottom--none grid-col--align-right">
           <div class="field field--select field-select--small field-select--transparent">
-  <select class="locales">
+  <select class="locales" id="">
           <option value="/policy?locale_code=en" selected="selected">
             English
           </option>
@@ -313,13 +440,13 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
         </div>
 
       </div>
-    </div></article>
-  
+    </div>
+  </article>
 </footer>
 
 
-  <div id="modal">
-    <article class="fit-fixed">
+    <div id="modal">
+        <article class="fit-fixed">
   <div class="grid-row">
     <div class="modal grid-col-10 grid-col--center" id="registration-modal">
       <div class="grid-row grid-row--no-collapse color-scheme--white" exclude="phone">
@@ -341,7 +468,7 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
   <div class="grid-col-6">
 
       <h5 class="js-oauth-title">Sign up with:</h5>
-      <div exclude="tablet desktop desktop-large">
+      <div exclude="tablet desktop">
               <a href="/auth/facebook?signin=false" class="button button--facebook button--blue button--large button--alternate button--icon-only button--oauth button--left-align button--with-icon " data-confirm="null" id="">
         <span class="new-cc-icon icon--">facebook</span>
 
@@ -376,7 +503,7 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
 </div>
 
 
-    <form accept-charset="UTF-8" action="/register" class="new_user" id="new-user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="LYGB9E4hmie1BEdPS8EuitFV3gJUsU8S+TKiYfpnc1k="></div>
+    <form accept-charset="UTF-8" action="/register" autocomplete="off" class="new_user" id="new-user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="07cTUejzBP1SnFDZZnAWHqblOuv4CTAiepPxp6DVn5s="></div>
       <div class="field field--text">
     <input id="user_email" name="user[email]" placeholder="Email" required="required" size="30" tabindex="1" type="text">
   <div class="field__status-icon"></div>
@@ -388,18 +515,18 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
 </div>
 
       <div class="field field--text false">
-    <input class_name="false" id="user_website" name="user[website]" size="30" tabindex="9" type="text">
+    <input autocomplete="off" class_name="false" id="user_website" name="user[website]" size="30" tabindex="9" type="text">
   <div class="field__status-icon"></div>
 </div>
 
-      <div class="field field--text">
-    <input id="user_password" name="user[password]" placeholder="Password" required="required" size="30" tabindex="3" type="password">
+      <div class="field field--text ">
+    <input autocomplete="off" id="user_password" name="user[password]" placeholder="Password" required="required" size="30" tabindex="3" type="password">
   <div class="field__status-icon"></div>
 </div>
 
 
       <div class="grid-row">
-          <input class="button button--fill-space button--large " id="" name="commit" type="submit" value="Get started!">
+          <input class="button button--fill-space button--large " id="submit" name="commit" type="submit" value="Get started!">
 
 
         <div class="grid-col-12 grid-col--no-padding grid-col--extra-margin-bottom">
@@ -417,8 +544,7 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
   </div>
 </article>
 
-
-    <article class="fit-fixed">
+        <article class="fit-fixed">
   <div class="grid-row">
     <div class="modal grid-col-10 grid-col--center" id="session-modal">
       <div class="grid-row grid-row--no-collapse color-scheme--white" exclude="phone">
@@ -456,7 +582,7 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
       Twitter
 </a>
     </div>
-    <div exclude="tablet desktop desktop-large">
+    <div exclude="tablet desktop">
             <a href="/auth/facebook?signin=true" class="button button--facebook button--blue button--large button--alternate button--icon-only button--oauth button--left-align button--with-icon " data-confirm="null" id="">
         <span class="new-cc-icon icon--">facebook</span>
 
@@ -476,20 +602,20 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
   </div>
 
   <div class="grid-col-6">
-    <h5><span class="translation_missing" title="translation missing: en.views.users.sessions.login_with_email">Login With Email</span>:</h5>
+    <h5>Sign in with email:</h5>
 
     
     <div id="flash_messages">
 </div>
 
 
-    <form accept-charset="UTF-8" action="/sign_in" class="new_user" id="new-session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="LYGB9E4hmie1BEdPS8EuitFV3gJUsU8S+TKiYfpnc1k="></div>
+    <form accept-charset="UTF-8" action="/sign_in" class="new_user" id="new-session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="07cTUejzBP1SnFDZZnAWHqblOuv4CTAiepPxp6DVn5s="></div>
       <div class="field field--text">
     <input id="user_login" name="user[login]" placeholder="Email or username" required="required" size="30" tabindex="1" type="text">
   <div class="field__status-icon"></div>
 </div>
 
-      <div class="field field--text">
+      <div class="field field--text ">
     <input id="user_password" name="user[password]" placeholder="Password" required="required" size="30" tabindex="2" type="password">
   <div class="field__status-icon"></div>
 </div>
@@ -498,7 +624,7 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
       <div class="grid-row">
         <div class="grid-col-12 grid-col--no-padding grid-col--extra-margin-bottom">
             <small>
-            <div class="field field--checkbox">
+            <div class="field field--checkbox ">
     <input name="user[remember_me]" type="hidden" value="0"><input class="" id="user_remember_me" name="user[remember_me]" type="checkbox" value="1">
     <label class="" for="user_remember_me">Remember me</label>
 </div>
@@ -515,35 +641,46 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
         </div>
       </div>
 
+        <input class="" id="user_reset_password_token" name="redirect" type="hidden" value="/policy">
+
 
 </form>  </div>
 </div>
 
     </div>
   </div>
-</article></div>
+</article>
 
+      
+    </div>
 
-  
+    <script src="http://cdn-production.codecademy.com/assets/templates/common-en-5a124e9b2651d428ee27697d23768447.js" type="text/javascript"></script>
+    <script type="text/javascript">
+//<![CDATA[
+var CCDATA = CCDATA || {};  CCDATA['env'] = "production"; CCDATA['request_host'] = "www.codecademy.com"; CCDATA['asset_host'] = "cdn-production.codecademy.com"; CCDATA['assets_compiled'] = true; CCDATA['pollForNotifications'] = true; CCDATA['API_HOST'] = "/api"; CCDATA['secureSandboxIndexPath'] = "http://cdn-production.codecademy.com/assets/secure/index-c5bf1319f62cb07c26239e761a9ed5c9.html"; CCDATA['available_locales'] = "en|ko|fa|ru|es-AR|ja|fr|et-EE|zh|fr-FR|pt-BR|de|ky-KG|es|pt|ar";
+//]]>
+</script>
 
-
-<script src="http://cdn-production.codecademy.com/assets/templates/common-en-e9e653be7215c84704beb770449e942f.js" type="text/javascript"></script>
-
-    <script src="http://cdn-production.codecademy.com/assets/dist/common-bacba78e5a709626ad163ef6b5d5385c.js" type="text/javascript"></script>
+    
+    <script src="http://cdn-production.codecademy.com/assets/dist/common-5c197cbfe5c3675fd158ee531dc183fb.js" type="text/javascript"></script>
+    <script src="http://cdn-production.codecademy.com/assets/dist/controllers/registration_modal_controller-b84ac3ba5bfe20b87d935f7f5389a56b.js" type="text/javascript"></script>
+    <script src="http://cdn-production.codecademy.com/assets/dist/controllers/session_modal_controller-cffad80bc0d6f43fe84d439b136cfd0b.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 //<![CDATA[
 
-  require(["common"], function(common) {
-      if (common) { common.init(); }
+  require(["common","controllers/registration_modal_controller","controllers/session_modal_controller"], function(common,registration_modal_controller,session_modal_controller) {
+        if (common) { common.init(); }
+        if (registration_modal_controller) { registration_modal_controller.init(); }
+        if (session_modal_controller) { session_modal_controller.init(); }
     
   });
-  CCDATA.authenticity_token = 'LYGB9E4hmie1BEdPS8EuitFV3gJUsU8S+TKiYfpnc1k=';
+  CCDATA.authenticity_token = '07cTUejzBP1SnFDZZnAWHqblOuv4CTAiepPxp6DVn5s=';
 
 //]]>
 </script>
-
-  <script type="text/javascript">
+    
+      <script type="text/javascript">
 //<![CDATA[
 
     var _sf_startpt=(new Date()).getTime();
@@ -566,7 +703,7 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
 
 //]]>
 </script>
-  <div id="fb-root"></div>
+      <div id="fb-root"></div>
   <script type="text/javascript">
 //<![CDATA[
 
@@ -593,19 +730,7 @@ window.CCDATA = {"env":"production","request_host":"www.codecademy.com","asset_h
 
 //]]>
 </script>
-  <script src="http://cdn-production.codecademy.com/assets/dist/controllers/registration_modal_controller-f1c637a3c625ca61887ed7906c7688cc.js" type="text/javascript"></script>
-  <script type="text/javascript">
-    require(["controllers/registration_modal_controller"], function (controller) {
-      controller.initialize();
-    });
-  </script>
-  <script src="http://cdn-production.codecademy.com/assets/dist/controllers/session_modal_controller-943bbe2991f81141dde3490bca355066.js" type="text/javascript"></script>
-  <script type="text/javascript">
-    require(["controllers/session_modal_controller"], function (controller) {
-      controller.initialize();
-    });
-  </script>
+    
+  
 
-
-
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
