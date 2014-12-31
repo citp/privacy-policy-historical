@@ -1,14 +1,22 @@
-> *The following text is extracted and transformed from the econsultancy.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013319id_/https%3A//econsultancy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econsultancy.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231164809id_/https%3A//econsultancy.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Econsultancy
 
-## Overview
+Enter a search term such as “mobile analytics” or browse our content using the filters above. 
+
+That’s not only a poor Scrabble score but we also couldn’t find any results matching “”.  
+Check your spelling or try broadening your search. 
+
+Sorry about this, there is a problem with our search at the moment.  
+Please try again later. 
+
+### Overview
 
 **Effective: 16 May 2014**
 
 This privacy policy applies to http://econsultancy.com owned and operated by E-consultancy.com Limited (“Econsultancy”). This privacy policy describes how Econsultancy collects and uses the personal information you provide on our web site: [https://econsultancy.com](https://econsultancy.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-[](https://privacy.truste.com/privacy-seal/E-consultancy-com-Limited/validation?rid=94f370c5-0fd4-48fa-8cce-5d3a466c5014 "TRUSTe online privacy certification")
+[ ](https://privacy.truste.com/privacy-seal/E-consultancy-com-Limited/validation?rid=94f370c5-0fd4-48fa-8cce-5d3a466c5014 "TRUSTe online privacy certification")
 
 Econsultancy has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](https://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, econsultancy.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us on +44 (0)20 7269 1450. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
@@ -24,9 +32,9 @@ This document discloses the data protection and privacy practices for Econsultan
 
 
 
-Questions regarding this privacy policy should be directed to Econsultancy via our [contact form](https://web.archive.org/contact).
+Questions regarding this privacy policy should be directed to Econsultancy via our [contact form](https://web.archive.org/contact/).
 
-## Table of Contents
+### Table of Contents
 
   1. Under 18s
   2. Information We Collect
@@ -43,11 +51,11 @@ Questions regarding this privacy policy should be directed to Econsultancy via o
 
 
 
-## 1\. Under 18s
+### 1\. Under 18s
 
 Children are not eligible to use our services and we ask that minors (under 18 years of age) do not submit any personal information to us.
 
-## 2\. Information We Collect
+### 2\. Information We Collect
 
 Our primary goal in collecting personal information from you is to provide you with a smooth, efficient, and personalised experience while using our services. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience easier and quicker.
 
@@ -59,7 +67,7 @@ We use a web analytics tool to analyse site usage, how our users arrive at our s
 
 The following tables describe the cookies we use on this site and what we use them for. Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete Econsultancy cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.) 
 
-"Session" Cookies  
+Session Cookies  
 ---  
 We use a **session cookie** to remember your log-in for you and what you’ve put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken. | More information on session cookies and what they are used for at <http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>  
 Persistent Cookies for Site Analytics and Performance  
@@ -88,21 +96,21 @@ We use some **persistent cookies** to enhance the relevancy of information displ
 
 **Payment Processing.** In order to process payments online we require the billing address for the credit card used and our external payment provider, [DataCash](http://www.datacash.com/), requires your credit card details. For details of how this information is used, please see Section 3 below.
 
-**Supplier Profile.** We have a [Supplier Directory](https://web.archive.org/directories/suppliers) which contains profiles of suppliers, agencies, vendors, consultancies and freelancers offering service or products related to digital marketing and ecommerce. If you represent such a Supplier you can set up a basic profile for free when you join Econsultancy. The information we collect for the Supplier Profile comes from two sources. Firstly, it is the information that you give when you join as a Member, or the information you subsequently update via the "[Your Profile](https://web.archive.org/account/profile/edit)" section in "[Your Account](https://web.archive.org/account)". We require a minimum amount of information for each supplier profile so that it is useful for users of the directory. We also offer a "Full Profile" which allows you to add further information but this is a paid-for service. Secondly, we store details of contributions to the site made by individual registered users belonging to a subscription that has a supplier profile. For example, blog comments, press releases posted, presentations at events, and we link to these, where relevant, from the supplier profile, except where the individual user has chosen to contribute anonymously.
+**Supplier Profile.** We have a [Supplier Directory](https://web.archive.org/directories/suppliers/) which contains profiles of suppliers, agencies, vendors, consultancies and freelancers offering service or products related to digital marketing and ecommerce. If you represent such a Supplier you can set up a basic profile for free when you join Econsultancy. The information we collect for the Supplier Profile comes from two sources. Firstly, it is the information that you give when you join as a Member, or the information you subsequently update via the "[Your Profile](https://web.archive.org/account/edit/)" section in "[Your Account](https://web.archive.org/account/)". We require a minimum amount of information for each supplier profile so that it is useful for users of the directory. We also offer a "Full Profile" which allows you to add further information but this is a paid-for service. Secondly, we store details of contributions to the site made by individual registered users belonging to a subscription that has a supplier profile. For example, blog comments, press releases posted, presentations at events, and we link to these, where relevant, from the supplier profile, except where the individual user has chosen to contribute anonymously.
 
-**Blog Comments.** In order to leave a comment in our [Blog](https://web.archive.org/blog) you either have to be a logged in Member or you have to give us at least your Name and Email address. You can choose whether to post as yourself, or anonymously. We require name and email address even for anonymous posts for quality control purposes.
+**Blog Comments.** In order to leave a comment in our [Blog](https://web.archive.org/blog/) you either have to be a logged in Member or you have to give us at least your Name and Email address. You can choose whether to post as yourself, or anonymously. We require name and email address even for anonymous posts for quality control purposes.
+
+### 3\. Our Use of Your Information
 
 **Testimonials.** We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. 
 
 **Links to 3rd Party Sites.** Our Site includes links to other Web sites whose privacy practices may differ from those of Econsultancy. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
 
-## 3\. Our Use of Your Information
-
 We use personally identifiable information about you to improve our marketing and promotional efforts, to statistically analyse site usage, to improve our content and product offerings and to customize our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs.
 
 We use your email address to send you newsletters or other communications (for example, content notifications) that you have requested from the Site. Out of respect for our users we offer an opt-out (see Section 4 below).
 
-We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve any disputes, troubleshoot problems and enforce our [Terms & Conditions](https://web.archive.org/about/terms). At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or aliases.
+We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve any disputes, troubleshoot problems and enforce our [Terms & Conditions](https://web.archive.org/about/terms/). At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or aliases.
 
 **Payment Processing.** We take online payments for our services (compulsory for payments below £395 excluding VAT). We use [DataCash](http://www.datacash.com/) as our external payment provider. In addition to the information outlined above, we require the billing address of the credit card you use so that we can pass this to DataCash who check the address against the cardholder's details for security purposes. We don't store the credit card details on our server but we do store the billing details and a unique reference to your card details on the DataCash server so that we can process renewals or so you can pay again with the same card more easily. We also use the billing details in case we need to contact you regarding payments e.g. for an outstanding invoice or failed transaction. DataCash requires that you provide your credit card details to process the transaction. This is done on a secure DataCash server and data passing between Econsultancy servers and DataCash are encrypted using SSL (Secure Sockets Layer). We only store reference details of the most recent card that you have used to purchase on our site, not multiple card details.
 
@@ -110,13 +118,13 @@ Your Personal Information is stored in our databases. Please note that the infor
 
 Econsultancy complies with the UK Data Protection Act 1998 and is registered with the Data Protection Registrar number Z4942204.
 
-**Supplier Directory.** Our [Supplier Directory](https://web.archive.org/directories/suppliers) is to help users find a suitable digital marketing or ecommerce agency, vendor, consultancy, supplier or freelancer. We use your supplier profile details, and the contributions to the site of the individuals on any subscription which has a supplier profile, to build a supplier profile which we publish in our Supplier Directory as described in more detail in Section 5 below.
+**Supplier Directory.** Our [Supplier Directory](https://web.archive.org/directories/suppliers/) is to help users find a suitable digital marketing or ecommerce agency, vendor, consultancy, supplier or freelancer. We use your supplier profile details, and the contributions to the site of the individuals on any subscription which has a supplier profile, to build a supplier profile which we publish in our Supplier Directory as described in more detail in Section 5 below.
 
-## 4\. Email Communications
+### 4\. Email Communications
 
-As part of the registration process for joining as an Econsultancy user you have the opportunity to opt in or out of various email communications. If at any stage you wish no longer to receive any emails that you receive from the site you can stop them coming by changing your preferences in the "[Contact Settings](https://web.archive.org/account/contact)" section under "[Your Account](https://web.archive.org/account)". You can define what emails you receive from the site (if any) and save your settings.
+As part of the registration process for joining as an Econsultancy user you have the opportunity to opt in or out of various email communications. If at any stage you wish no longer to receive any emails that you receive from the site you can stop them coming by changing your preferences in the "[Contact Settings](https://web.archive.org/account/contact/)" section under "[Your Account](https://web.archive.org/account/)". You can define what emails you receive from the site (if any) and save your settings.
 
-## 5\. Our Disclosure of Your Information
+### 5\. Our Disclosure of Your Information
 
 We do not sell or rent any personally identifiable information about you to any third party.
 
@@ -128,9 +136,9 @@ By way of example (without limiting the foregoing), we may be forced to disclose
 
 **Visibility of your information on the Site.** Following are details of how your information is visible across the site depending on the site section and what you are doing:
 
-  * **Blog Comments.** If you post a comment to our [Blog](https://web.archive.org/blog) then, by default, your name (first name, last name) will be published against your post as well as your job position and company name, based on your profile information. Your name will also then be a link to your full Member Profile. If you have chosen not to publish your profile in our User Directory then there will be no such link. At the point of posting you can choose to "Post as Anonymous" in which case your contribution will appear as "Anonymous" and there will be no link to your profile.
+  * **Blog Comments.** If you post a comment to our [Blog](https://web.archive.org/blog/) then, by default, your name (first name, last name) will be published against your post as well as your job position and company name, based on your profile information. Your name will also then be a link to your full Member Profile. If you have chosen not to publish your profile in our User Directory then there will be no such link. At the point of posting you can choose to "Post as Anonymous" in which case your contribution will appear as "Anonymous" and there will be no link to your profile.
   * **Press Releases, Event and Training bookings.** The details published to the site are those included in the press release itself. We record and keep the details of who has posted what and show these against the individual's profile (see Member and Supplier Directory sections below for details) and for administration purposes. We do not publish personal details of users who have booked particular events or training. However, as non-personally identifiable information, we do occasionally publish job titles and company names of those booked to attend a particular event.
-  * **Supplier Directory Profile.** The information that is shown on your supplier profile comes from two sources. Firstly, it is the information that you give when you join and, via the "[Your Profile](https://web.archive.org/account/profile/edit)" section in "[Your Account](https://web.archive.org/account)", you can edit and update these details. We require a minimum amount of information for each supplier profile so that it is useful for users of the [Supplier Directory](https://web.archive.org/directories/suppliers). We also offer a "Full Profile" which allows you to add further information but this is a paid for service. Unlike the user profile, which can be disabled, a supplier profile is automatically enabled if you give the required information. You cannot then disable your supplier profile completely except by contacting Econsultancy. You should be aware that any information you publish on your supplier profile is visible to everyone and anyone, not just other Econsultancy Members, and may appear in search engines and elsewhere on the internet. For example, we cannot prevent others trying to contact you if you publish contact information. Furthermore, you should be aware that, once published, just because you subsequently update your supplier profile information it does not mean that it will be updated everywhere across the internet, as it may already exist elsewhere, for example in the cache of search engines. Secondly, we store details of contributions to the site made by individual registered users belonging to a subscription that has a supplier profile. For example, blog comments, press releases posted, presentations at events, and we link to these, where relevant, from the supplier profile, except where the individual user chose to contribute anonymously. These links are generated automatically and cannot be edited or removed by you. If you do not want them to show then you should not create a supplier profile.
+  * **Supplier Directory Profile.** The information that is shown on your supplier profile comes from two sources. Firstly, it is the information that you give when you join and, via the "[Your Profile](https://web.archive.org/account/edit/)" section in "[Your Account](https://web.archive.org/account/)", you can edit and update these details. We require a minimum amount of information for each supplier profile so that it is useful for users of the [Supplier Directory](https://web.archive.org/directories/suppliers/). We also offer a "Full Profile" which allows you to add further information but this is a paid for service. Unlike the user profile, which can be disabled, a supplier profile is automatically enabled if you give the required information. You cannot then disable your supplier profile completely except by contacting Econsultancy. You should be aware that any information you publish on your supplier profile is visible to everyone and anyone, not just other Econsultancy Members, and may appear in search engines and elsewhere on the internet. For example, we cannot prevent others trying to contact you if you publish contact information. Furthermore, you should be aware that, once published, just because you subsequently update your supplier profile information it does not mean that it will be updated everywhere across the internet, as it may already exist elsewhere, for example in the cache of search engines. Secondly, we store details of contributions to the site made by individual registered users belonging to a subscription that has a supplier profile. For example, blog comments, press releases posted, presentations at events, and we link to these, where relevant, from the supplier profile, except where the individual user chose to contribute anonymously. These links are generated automatically and cannot be edited or removed by you. If you do not want them to show then you should not create a supplier profile.
 
 
 
@@ -142,39 +150,39 @@ By way of example (without limiting the foregoing), we may be forced to disclose
 
 **Suppliers and Other Service Providers.** From time to time we use third party Suppliers and Service Providers to facilitate our services. Where any Service Provider collects information directly from you (such as the situation where we ask a Service Provider to conduct a survey for us) you will be notified of the involvement of the Supplier or Service Provider, and all information disclosures you make will be strictly optional.
 
-## 6\. Control of Your Password
+### 6\. Control of Your Password
 
-Except as specifically permitted by this section, you may not disclose your Econsultancy password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the "[Your Profile](https://web.archive.org/account/profile/edit)" section in "[Your Account](https://web.archive.org/account)".
+Except as specifically permitted by this section, you may not disclose your Econsultancy password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the "[Your Profile](https://web.archive.org/account/edit/)" section in "[Your Account](https://web.archive.org/account/)".
 
 You may, however, disclose your password to certain third parties with whom Econsultancy has entered into specific contractual and technical arrangements designed to safeguard your password, in order to enjoy the benefits of those third parties' services in relation to the Econsultancy services.
 
-If you wish to change your password you can do so at any time through the "[Your Profile](https://web.archive.org/account/profile/edit)" section within the "[Your Account](https://web.archive.org/account)" section of the site.
+If you wish to change your password you can do so at any time through the "[Your Profile](https://web.archive.org/account/edit/)" section within the "[Your Account](https://web.archive.org/account/)" section of the site.
 
-## 7\. Reviewing and Changing Your Personally Identifiable Information
+### 7\. Reviewing and Changing Your Personally Identifiable Information
 
-You can at any time review, delete or change the information you submitted during registration by visiting the "[Your Profile](https://web.archive.org/account/profile/edit)" section within the "[Your Account](https://web.archive.org/account)" section of the site.
+You can at any time review, delete or change the information you submitted during registration by visiting the "[Your Profile](https://web.archive.org/account/edit/)" section within the "[Your Account](https://web.archive.org/account/)" section of the site.
 
 You must promptly update your information if it changes. Once posted, you cannot change or remove any public postings made in our message areas or the feedback area.
 
-You can at any time ask to see and have removed any information that we have stored on you, though we reserve the right to charge for this service. Please contact Econsultancy if you would like your personal information removed. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our [Terms & Conditions](https://web.archive.org/about/terms). Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests that it be removed.
+You can at any time ask to see and have removed any information that we have stored on you, though we reserve the right to charge for this service. Please contact Econsultancy if you would like your personal information removed. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our [Terms & Conditions](https://web.archive.org/about/terms/). Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests that it be removed.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## 8\. Other Information Collectors
+### 8\. Other Information Collectors
 
 Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other registered users of the Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them.
 
-## 9\. Security
+### 9\. Security
 
 In order to process and help protect your credit card details, we use SSL (Secure Sockets Layer) to communicate with [DataCash](http://www.datacash.com/), our payment provider.
 
 On the Econsultancy site we use best endeavour to safeguard the confidentiality of your personally identifiable information and we do use encryption (such as SSL) and firewalls to further protect the information as it travels across the Internet. This is because we believe that, apart from the credit card information processed by DataCash, the personal information we currently collect warrants such measures and the accompanying loss of speed experienced. You should be aware that "perfect security" does not exist on the Internet.
 
-## 10\. Changes to Privacy Policy
+### 10\. Changes to Privacy Policy
 
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will make any changes to this Privacy Policy and post them to our site prior to the change becoming effective. It is up to you whether you then continue to use the site and Econsultancy's services following such changes. However, it is assumed that you accept such changes if you continue to use the site and services. If you do not accept such changes then you should stop using Econsultancy's site and services and contact us, as per Section 7 above, should you wish to have any of your details removed.
 
-## 11\. Downloadable Software Disclaimer
+### 11\. Downloadable Software Disclaimer
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
