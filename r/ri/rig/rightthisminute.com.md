@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightthisminute.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625185607id_/http%3A//www.rightthisminute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightthisminute.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231141436id_/http%3A//www.rightthisminute.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RTM - RightThisMinute
 
@@ -26,7 +26,7 @@ Our web servers automatically collect limited information about your computer co
 
 **Data Collected in Connection with Ad Serving and Targeting**.
 
-We use third-party Service Providers, such as ad networks, to serve advertising to you when you visit our Site. These Service Providers may use information about your activities while you navigate through this Site and other web sites and that they collect through cookies to provide you with advertisements about products and services that they think may be of interest to you. The information used by these Service Providers for these purposes generally does not identify you personally (in other words, the Service Providers are not using your name, address, email address, or phone number for these purposes) but it may include the IP address of your computer. Instead, it only relates to your behavior while on this site and other websites: what ads you clicked on, what content you viewed, etc.
+We use third-party Service Providers, such as ad networks, to serve advertising to you when you visit our Site. These Service Providers may use information about your activities while you navigate through this Site and other web sites and that they collect through cookies to provide you with advertisements about products and services that they think may be of interest to you. The information used by these Service Providers for these purposes generally does not identify you personally (in other words, the Service Providers are not using your name, address, email address, or phone number for these purposes) but it may include the IP address of your computer, browser information and time & date of visit. Data collected relates to your behavior while on this site and other websites: what ads you clicked on, what content you viewed, etc. Third parties may also gather user data and our privacy policy may not describe the privacy practices of those parties.
 
 **Linked Sites**
 
