@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thezimbabwean.co privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630035725id_/http%3A//www.thezimbabwean.co/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezimbabwean.co privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231175215id_/http%3A//www.thezimbabwean.co/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Zimbabwean | Zimbabwe News
+# Privacy Policy
 
-At **thezimbabwean.co.uk** we collect different types of information about our users for the following reasons:
+At **thezimbabwean.co** we collect different types of information about our users for the following reasons:
 
   * To help us to monitor and improve the services we offer  
 
@@ -20,7 +20,7 @@ We are absolutely committed to protecting your privacy. We will not share your i
 
 We will continue to invest in high-quality security and do our utmost to protect user privacy through the appropriate use of the latest security technology.
 
-We will respect your email privacy. You will not receive unsolicited marketing emails from **thezimbabwean.co.uk** and/or from third parties screened by us unless you have agreed to this. We will, however, email you occasionally with information or queries about your registration, your subscription account or postings, for example, with reminders, warnings or copyright requests.
+We will respect your email privacy. You will not receive unsolicited marketing emails from **thezimbabwean.co** and/or from third parties screened by us unless you have agreed to this. We will, however, email you occasionally with information or queries about your registration, your subscription account or postings, for example, with reminders, warnings or copyright requests.
 
 We will not pass on any individual user details (including your email address) for third party use unless we have your prior consent.
 
@@ -44,7 +44,7 @@ We offer a 'Settings' page, where you can update your personal information at an
 
 We collect information on our users as follows: through cookies, through registration and where you choose to disclose data in postings. 
 
-The information we gather when user register with **thezimbabwean.co.uk** helps us gain a clearer understanding of our users and their interests. It also helps us to sell appropriate advertising space and so keep the site free. It also helps us to personalise services for our users. We do not share this information with third parties unless you have specifically consented to this.
+The information we gather when user register with **thezimbabwean.co** helps us gain a clearer understanding of our users and their interests. It also helps us to sell appropriate advertising space and so keep the site free. It also helps us to personalise services for our users. We do not share this information with third parties unless you have specifically consented to this.
 
 ## How do we protect customer information?
 
@@ -64,11 +64,11 @@ Any data processors with access to your data in providing services on our behalf
 
 ## Advertising and affiliate links
 
-The editorial content of **thezimbabwean.co.uk** is not influenced by advertisers or affiliates, nor is it produced for the purpose of promoting goods or services, except where clearly branded as a 'sponsored feature'. We do use affiliate link services on **thezimbabwean.co.uk** from which we may earn revenue.
+The editorial content of **thezimbabwean.co** is not influenced by advertisers or affiliates, nor is it produced for the purpose of promoting goods or services, except where clearly branded as a 'sponsored feature'. We do use affiliate link services on **thezimbabwean.co** from which we may earn revenue.
 
 ## Legal information under the Data Protection Act 1998
 
-For the purposes of the Data Protection Act 1998, the Data Controller for **thezimbabwean.co.uk** is PO BOX 248 , Hythe, SO45 4WX, Hampshire, UK. Any queries regarding the use of data and data policies should be addressed to the Head of Customer Relationship Management.
+For the purposes of the Data Protection Act 1998, the Data Controller for **thezimbabwean.co** is PO BOX 248 , Hythe, SO45 4WX, Hampshire, UK. Any queries regarding the use of data and data policies should be addressed to the Head of Customer Relationship Management.
 
 ## Data Protection Act:
 
