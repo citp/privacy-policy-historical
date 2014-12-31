@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tizenhub.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421221540id_/http%3A//www.tizenus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tizenhub.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231173958id_/http%3A//www.tizentech.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Tizenus.com
+# Privacy Policy - Tizentech.com
 
 **What information do we collect?**
 
@@ -75,7 +75,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://link.safelinkconverter.com/?id=aHR0cDovL3d3dy5mcikpcHJfdiFjeXAobF9jeS5jKG0v&c=1&user=11095).
+By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
 
  **Changes to our Privacy Policy**
 
@@ -89,4 +89,4 @@ http://badahub.com/
 
 badahub@gmail.com
 
-This policy is powered by Trust Guard [PCI compliance](http://link.safelinkconverter.com/?id=aHR0cDovL3d3dy50cipzdC1nKiFyZC5jKG0vUENJLUMobXBsXyFuYyktcy82NS5odG0=&c=1&user=11095) scans.
+This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
