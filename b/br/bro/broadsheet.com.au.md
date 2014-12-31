@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the broadsheet.com.au privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214054212id_/http%3A//broadsheet.com.au/melbourne/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadsheet.com.au privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231015359id_/http%3A//www.broadsheet.com.au/sydney/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - Broadsheet Melbourne
+# Broadsheet
+
+Privacy Statement 
 
 **Broadsheet Media Pty Ltd**  
 ACN 131 593 201  
 (Broadsheet Media)  
 
 
-**General**
+ **General**
 
   1. This Privacy Statement details Broadsheet Media's policy regarding any personal information you might supply to us via the Broadsheet Media website at www.broadsheet.com.au (Website), and how the information may be used.
   2. This Privacy Statement applies to and should be read in conjunction with the Terms and Conditions of Use which are available on the Website. By viewing and using the Website you will be deemed to have agreed to the matters described in this Privacy Statement.
@@ -15,7 +17,7 @@ ACN 131 593 201
 
 
 
-**Collection of personal information**
+ **Collection of personal information**
 
   1. Broadsheet Media only collects information about you when you provide it to us.
 
@@ -24,7 +26,7 @@ ACN 131 593 201
 
 
 
-**Use and disclosure of personal information**
+ **Use and disclosure of personal information**
 
   1. Your personal information may be used to:
 
@@ -57,7 +59,7 @@ ACN 131 593 201
 
 
 
-**Use of Cookies**
+ **Use of Cookies**
 
   1. Broadsheet Media may store some information on your computer such as cookies when you visit the Website. Cookies are pieces of information that a website transfers to the hard drive of a visitor's computer for record-keeping purposes. This information facilitates your use of the Website. You can erase or choose to block this information from your computer if you want to. Erasing or blocking such information may limit the range of features available to you on the Website.
 
@@ -73,19 +75,19 @@ ACN 131 593 201
 
 
 
-**Links to other sites**
+ **Links to other sites**
 
   1. You may be able to access other sites external to the Website by clicking on links that have been provided throughout the Website. Broadsheet Media is not responsible for the privacy policies and practices of other websites. As these sites are not part of Broadsheet Media, you will need to contact the organisation/institution that administers the site directly to obtain information about their privacy statement.
 
 
 
-**Contacting us**
+ **Contacting us**
 
   1. You have the right to access personal information we hold about you subject to the restrictions provided by law. We aim to keep our information about you as accurate as possible. If you are concerned about our use of your personal information, or if you would like to review or change the information you have supplied us with, please contact us at info@broadsheet.com.au with the subject line, "Privacy". We reserve the right to charge a reasonable fee for access to this information.
 
 
 
-**Further Information on Privacy**
+ **Further Information on Privacy**
 
   1. You may obtain further information regarding privacy issues in Australia by visiting the Australian Federal Privacy Commissioner's website at www.privacy.gov.au.
 
