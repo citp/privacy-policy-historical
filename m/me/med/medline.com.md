@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medline.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503031948id_/http%3A//www.medline.com/pages/privacy/medline-safe-harbor-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medline.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231160449id_/http%3A//www.medline.com/pages/privacy/medline-safe-harbor-privacy-policy) for the most accurate reproduction.*
 
 # Medline | Medical Supplies | Hospital, Nursing Products
 
