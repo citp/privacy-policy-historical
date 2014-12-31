@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightidea.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040852id_/http%3A//www.brightidea.com/privacy.bix) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightidea.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231050315id_/http%3A//www.brightidea.com/privacy.bix) for the most accurate reproduction.*
 
 # Innovation Management, Idea Management, Crowdsourcing. Ideation. Brightidea, Inc., The Global Leader Cloud-Based Enterprise Innovation Management
 
