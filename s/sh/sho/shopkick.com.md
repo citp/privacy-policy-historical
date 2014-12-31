@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopkick.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528070908id_/http%3A//shopkick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkick.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231082448id_/http%3A//shopkick.com/privacy-policy) for the most accurate reproduction.*
 
 # shopkick | privacy policy
 
