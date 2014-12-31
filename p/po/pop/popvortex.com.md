@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popvortex.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626101517id_/http%3A//www.popvortex.com/info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popvortex.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231203649id_/http%3A//www.popvortex.com/info/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy at PopVortex
 
@@ -22,7 +22,7 @@ www.popvortex.com does use cookies to store information about visitors preferenc
 
 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
   * Google Adsense
   * Linkshare
