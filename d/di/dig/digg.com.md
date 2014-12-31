@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630080101id_/http%3A//digg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231163927id_/http%3A//digg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Digg
-
-## News.me Privacy Policy
 
 Digg knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. 
 
@@ -41,6 +39,8 @@ We collect information about accesses of content curated through Digg, as well a
 _Information Collected From Third Party Services:_
 
 Some features of Digg allow you to share your Digg curated content and Digg Reader content through Third Party Services, as well as your content from Third Party Services through Digg. If you choose to connect Digg to such Third Party Services, we may collect information related to your use of those Third Party Services, such as authentication tokens that allow us to connect to your Third Party Service accounts. We may otherwise collect information about how you are using Digg to interact with those connected Third Party Services. Note that Third Party Services may have the ability to restrict the information that is provided to us. 
+
+Digg uses Google Analytics, an analytics service provided by Google, Inc. We use Google Analytics Demographics and Interest Reporting which gives us access to approximate demographic and interest information of visitors to digg.com. This information is used to improve the features of digg.com. You can manage your settings for Google Analytics and opt-out of this feature by visiting [Google.com Ad Settings](http://www.google.com/settings/ads) or [Google Analytics' opt-out tools](https://tools.google.com/dlpage/gaoptout/). 
 
 _IP Address Information and Other Information Collected Automatically:_
 
@@ -140,4 +140,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 If you have any questions or concerns regarding privacy using Digg, please send us a detailed message to: support@digg.com. We will make every effort to resolve your concerns. 
 
-Effective Date: June 25, 2013
+Effective Date: November 13, 2014 (added section re: Google Analytics)
