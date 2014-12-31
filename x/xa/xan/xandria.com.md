@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xandria.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060803id_/http%3A//www.xandria.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xandria.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231230856id_/http%3A//www.xandria.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for The Xandria Collection
 
