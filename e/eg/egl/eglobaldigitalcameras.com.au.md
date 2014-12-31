@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglobaldigitalcameras.com.au privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616153145id_/http%3A//www.eglobaldigitalcameras.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobaldigitalcameras.com.au privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231171343id_/http%3A//www.eglobaldigitalcameras.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - eGlobaL Store Co.
 
@@ -56,15 +56,13 @@ You should check this page occasionally to ensure you are familiar with any chan
 
 [http://www.eglobaldigitalcameras.com.au](http://www.eglobaldigitalcameras.com.au/)
 
-Privacy Policy Supervisor
+Privacy Policy Supervisor, eGlobal Digital Cameras
 
-eGlobaL Store Co P.O. Box 80800
-
-Cheung Sha Wan Post Office
-
-Hong Kong
+Unit F, 24/F Golden Sun Centre, 59-67 Bonham Strand West, Sheung Wan, Hong Kong
 
 e-mail: [privacy@eglobaldigitalcameras.com.au](mailto:privacy@eglobaldigitalcameras.com.au)
+
+Contact Number: +442071932736 
 
 **To Unsubscribe**
 
