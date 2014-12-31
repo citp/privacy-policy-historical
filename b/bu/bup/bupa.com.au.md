@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bupa.com.au privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427104117id_/http%3A//www.bupa.com.au/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bupa.com.au privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231145750id_/http%3A//www.bupa.com.au/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security - Bupa
 
 ## Privacy
 
-Your privacy is important to us. Below is a summary of how Bupa handles personal information. For full details about our Information Handling Practices, please refer to our [Information Handling Policy](https://web.archive.org/staticfiles/BupaP3/pdfs/BUPA_Info_Handling_Policy.pdf) (PDF, 89.7Kb).
+Your privacy is important to us. Below is a summary of how Bupa handles personal information. For full details about our Information Handling Practices, please refer to our [Information Handling Policy](https://web.archive.org/staticfiles/BupaP3/pdfs/BUPA_Info_Handling_Policy.pdf "Open in new window") (PDF, 89.7Kb).
 
 We collect personal information (including information about your health) in various ways to enable us to provide you with our products and services.
 
