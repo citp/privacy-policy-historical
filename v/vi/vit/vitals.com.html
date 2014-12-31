@@ -1,135 +1,118 @@
-<!--The following is the downloaded HTML source of the vitals.com privacy policy that was archived on 2014-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140624024416id_/http%3A//www.vitals.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitals.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231031213id_/http%3A//www.vitals.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W55B"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4AVl5ACQMFXFRVAg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>		<meta charset="utf-8">
-		<meta http-equiv="content-language" content="en-us">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
-		<meta name="format-detection" content="telephone=no">
-		<meta name="MYVITALS_URL" content="https://my.vitals.com">
+<!DOCTYPE html><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" prefix="og: http://ogp.me/ns#"><head>
 
-		
-	<link rel="stylesheet" type="text/css" href="/css/legacy-main.min.css">
+<!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W55B"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4AVl5ACQMFXFRVAg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
 
 
-		<!--[if lt IE 9]>
-		
-		<link rel="stylesheet" type="text/css" href="http://static3.vitals.mdxdata.com/css/compiled/ie.manifest.b3571330.css" />		<script src="/js/libs/vendor/IE9.js" type="text/javascript"></script>
-		<script src="/js/libs/vendor/respond.min.js" type="text/javascript"></script>
-		<![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 
-		<script type="text/javascript" src="http://vitals.tracking.mdxdata.com/vitals/pl.info.php?page_type_id=127&amp;site_id=4"></script>
-		
-		
-			<meta name="description" content="Vitals recognizes that Your privacy and the protection of Your Personal Information is important to You.">
-			<meta name="robots" content="noindex,follow">
-	
 	
 
+<!--Shortcut icon-->
 
-		<title>Vitals - Privacy Policy</title>
 
-		<!-- Grab Google CDNs jQuery, with a protocol relative URL; fall back to local if offline -->
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-		<script>window.jQuery || document.write('<script src="/js/libs/vendor/jquery-1.7.2.js" type="text/javascript"><\/script>')</script><script src="/js/libs/vendor/jquery-1.7.2.js" type="text/javascript"></script>
+<title> Privacy - Vitals </title>
 
-		
-	<link rel="canonical" href="http://www.vitals.com/privacy">
 
-		
-		
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.vitals.com/privacy">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy - Vitals">
+<meta property="og:description" content="Vitals Privacy Policy The Vitals.com website and the Vitals mobile application (collectively, the “Site”) is provided to You by MDx Medical, Inc., including any of its related, affiliated and/or subsidiary...">
+<meta property="og:url" content="http://www.vitals.com/privacy">
+<meta property="og:site_name" content="Vitals">
+<!-- / Yoast WordPress SEO plugin. -->
 
-		<link href="https://plus.google.com/109757812976729713284" rel="publisher">
+<link rel="alternate" type="application/rss+xml" title="Vitals » Feed" href="/about/feed">
+<link rel="alternate" type="application/rss+xml" title="Vitals » Comments Feed" href="/about/comments/feed">
+<link rel="alternate" type="application/rss+xml" title="Vitals » Privacy Comments Feed" href="/about/privacy/feed">
+<link rel="stylesheet" id="output-css" href="http://vitalschoice.vitals.wpengine.com/wp-content/plugins/addthis/css/output.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://vitalschoice.vitals.wpengine.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="rgs-css" href="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/css/rgs.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/css/font-awesome.min.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="steadysets-css" href="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/css/steadysets.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="linecon-css" href="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/css/linecon.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="main-styles-css" href="http://vitalschoice.vitals.wpengine.com/wp-content/themes/vitalschoice-child/style.css?ver=4.0" type="text/css" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='nectar-ie8-css'  href='http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/css/ie8.css?ver=4.0.1' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="responsive-css" href="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/css/responsive.css?ver=4.0" type="text/css" media="all">
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/js/modernizr.js?ver=2.6.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://vitalschoice.vitals.wpengine.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://vitalschoice.vitals.wpengine.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="/about/?p=24969">
+<meta name="robots" content="index, follow">
+<style type="text/css"> body a{color:#3e1051;}header#top nav ul li a:hover,header#top nav .sf-menu li.sfHover > a,header#top nav .sf-menu li.current-menu-item > a,header#top nav .sf-menu li.current_page_item > a .sf-sub-indicator i,header#top nav .sf-menu li.current_page_ancestor > a .sf-sub-indicator i,header#top nav ul li a:hover,header#top nav .sf-menu li.sfHover > a,header#top nav .sf-menu li.current_page_ancestor > a,header#top nav .sf-menu li.current-menu-ancestor > a,header#top nav .sf-menu li.current_page_item > a,body header#top nav .sf-menu li.current_page_item > a .sf-sub-indicator [class^="icon-"],header#top nav .sf-menu li.current_page_ancestor > a .sf-sub-indicator [class^="icon-"],header#top nav .sf-menu li.current-menu-ancestor > a,header#top nav .sf-menu li.current_page_item > a,.sf-menu li ul li.sfHover > a .sf-sub-indicator [class^="icon-"],ul.sf-menu > li > a:hover > .sf-sub-indicator i,ul.sf-menu > li > a:active > .sf-sub-indicator i,ul.sf-menu > li.sfHover > a > .sf-sub-indicator i,.sf-menu ul li.current_page_item > a,.sf-menu ul li.current-menu-ancestor > a,.sf-menu ul li.current_page_ancestor > a,.sf-menu ul a:focus,.sf-menu ul a:hover,.sf-menu ul a:active,.sf-menu ul li:hover > a,.sf-menu ul li.sfHover > a,.sf-menu li ul li a:hover,.sf-menu li ul li.sfHover > a,#footer-outer a:hover,.recent-posts .post-header a:hover,article.post .post-header a:hover,article.result a:hover,article.post .post-header h2 a,.single article.post .post-meta a:hover,.comment-list .comment-meta a:hover,label span,.wpcf7-form p span,.icon-3x[class^="icon-"],.icon-3x[class*=" icon-"],.icon-tiny[class^="icon-"],.circle-border,article.result .title a,.home .blog-recent .span_3 .post-header a:hover,.home .blog-recent .span_3 .post-header h3 a,#single-below-header a:hover,header#top #logo:hover,.sf-menu > li.current_page_ancestor > a > .sf-sub-indicator [class^="icon-"],.sf-menu > li.current-menu-ancestor > a > .sf-sub-indicator [class^="icon-"],body #mobile-menu li.open > a [class^="icon-"],.pricing-column h3,.comment-author a:hover,.project-attrs li i,#footer-outer #copyright li a i:hover,.col:hover > [class^="icon-"].icon-3x.accent-color.alt-style,.col:hover > [class*=" icon-"].icon-3x.accent-color.alt-style,#header-outer .widget_shopping_cart .cart_list a,.woocommerce .star-rating,.woocommerce-page table.cart a.remove,.woocommerce form .form-row .required,.woocommerce-page form .form-row .required,body #header-secondary-outer #social a:hover i,.woocommerce ul.products li.product .price,.woocommerce-page ul.products li.product .price,.nectar-milestone .number.accent-color,header#top nav > ul > li.megamenu > ul > li > a:hover,header#top nav > ul > li.megamenu > ul > li.sfHover > a,body #portfolio-nav a:hover i,span.accent-color,.nectar-love:hover i,.nectar-love.loved i,.portfolio-items .nectar-love:hover i,.portfolio-items .nectar-love.loved i,body .hovered .nectar-love i,header#top nav ul #search-btn a span:hover,#search-outer #search #close a span:hover,.carousel-wrap[data-full-width="true"] .carousel-heading a:hover i,#search-outer .ui-widget-content li:hover a .title,#search-outer .ui-widget-content .ui-state-hover .title,#search-outer .ui-widget-content .ui-state-focus .title,#portfolio-filters-inline .container ul li a.active,body [class^="icon-"].icon-default-style,.team-member a.accent-color:hover{color:#3e1051!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.accent-color.alt-style,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.accent-color.alt-style{color:#3e1051!important;}.orbit-wrapper div.slider-nav span.right,.orbit-wrapper div.slider-nav span.left,.flex-direction-nav a,.jp-play-bar,.jp-volume-bar-value,.jcarousel-prev:hover,.jcarousel-next:hover,.portfolio-items .col[data-default-color="true"] .work-info-bg,.portfolio-items .col[data-default-color="true"] .bottom-meta,#portfolio-filters a,#portfolio-filters #sort-portfolio,.project-attrs li span,.progress li span,.nectar-progress-bar span,#footer-outer #footer-widgets .col .tagcloud a:hover,#sidebar .widget .tagcloud a:hover,article.post .more-link span:hover,article.post.quote .post-content .quote-inner,article.post.link .post-content .link-inner,#pagination .next a:hover,#pagination .prev a:hover,.comment-list .reply a:hover,input[type=submit]:hover,#footer-outer #copyright li a.vimeo:hover,#footer-outer #copyright li a.behance:hover,.toggle.open h3 a,.tabbed > ul li a.active-tab,[class*=" icon-"],.icon-normal,.bar_graph li span,.nectar-button[data-color-override="false"],#footer-outer #footer-widgets .col input[type="submit"],.carousel-prev:hover,.carousel-next:hover,.blog-recent .more-link span:hover,.post-tags a:hover,.pricing-column.highlight h3,#to-top:hover,#to-top.dark:hover,#pagination a.page-numbers:hover,#pagination span.page-numbers.current,.single-portfolio .facebook-share a:hover,.single-portfolio .twitter-share a:hover,.single-portfolio .pinterest-share a:hover,.single-post .facebook-share a:hover,.single-post .twitter-share a:hover,.single-post .pinterest-share a:hover,.mejs-controls .mejs-time-rail .mejs-time-current,.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-current,.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,article.post.quote .post-content .quote-inner,article.post.link .post-content .link-inner,article.format-status .post-content .status-inner,article.post.format-aside .aside-inner,body #header-secondary-outer #social li a.behance:hover,body #header-secondary-outer #social li a.vimeo:hover,#sidebar .widget:hover [class^="icon-"].icon-3x,article.post.quote .content-inner .quote-inner .whole-link,body [class^="icon-"].icon-3x.alt-style.accent-color,body [class*=" icon-"].icon-3x.alt-style.accent-color,#header-outer .widget_shopping_cart a.button,#header-outer a.cart-contents span,.swiper-slide .button.solid_color a,#portfolio-filters,button[type=submit]:hover,#buddypress button:hover,#buddypress a.button:hover,#buddypress ul.button-nav li.current a,#buddypress a.button:focus{background-color:#3e1051!important;}.col:hover > [class^="icon-"].icon-3x:not(.alt-style).accent-color,.col:hover > [class*=" icon-"].icon-3x:not(.alt-style).accent-color,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x:not(.alt-style).accent-color,.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x:not(.alt-style).accent-color{background-color:#3e1051!important;}.tabbed > ul li a.active-tab,body .recent_projects_widget a:hover img,.recent_projects_widget a:hover img,#sidebar #flickr a:hover img,#footer-outer #flickr a:hover img,#featured article .post-title a:hover,body #featured article .post-title a:hover{border-color:#3e1051!important;}#header-outer a.cart-contents span:before{border-color:transparent #3e1051;}.col:not(#post-area):not(.span_12):not(#sidebar):hover .circle-border,#sidebar .widget:hover .circle-border{border-color:#3e1051;}.gallery a:hover img{border-color:#3e1051!important;}@media only screen and (min-width :1px) and (max-width :1000px){body #featured article .post-title > a{background-color:#3e1051;}body #featured article .post-title > a{border-color:#3e1051;}}.nectar-button.extra-color-1{background-color:#5f456d!important;}.icon-3x[class^="icon-"].extra-color-1:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-1,.icon-3x[class*=" icon-"].extra-color-1:not(.alt-style),.icon-3x[class*=" icon-"].extra-color-1:not(.alt-style) .circle-border,.woocommerce-page table.cart a.remove,.nectar-milestone .number.extra-color-1,span.extra-color-1,.team-member ul.social.extra-color-1 li a,.stock.out-of-stock,body [class^="icon-"].icon-default-style.extra-color-1,.team-member a.extra-color-1:hover{color:#5f456d!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-1:not(.alt-style),.col:hover > [class*=" icon-"].icon-3x.extra-color-1:not(.alt-style),body .col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-1:not(.alt-style),body .col:not(#post-area):not(#sidebar):not(.span_12):hover a [class*=" icon-"].icon-3x.extra-color-1:not(.alt-style),#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-1:not(.alt-style){background-color:#5f456d!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-1,body [class*=" icon-"].icon-3x.alt-style.extra-color-1,[class*=" icon-"].extra-color-1.icon-normal,.extra-color-1.icon-normal,.bar_graph li span.extra-color-1,.nectar-progress-bar span.extra-color-1,#header-outer .widget_shopping_cart a.button,.woocommerce ul.products li.product .onsale,.woocommerce-page ul.products li.product .onsale,.woocommerce span.onsale,.woocommerce-page span.onsale,.woocommerce-page table.cart a.remove:hover,.swiper-slide .button.solid_color a.extra-color-1,.toggle.open.extra-color-1 h3 a{background-color:#5f456d!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-1.alt-style,.col:hover > [class*=" icon-"].icon-3x.extra-color-1.alt-style,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-1.alt-style,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-1.alt-style{color:#5f456d!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-1 .circle-border,.woocommerce-page table.cart a.remove,#sidebar .widget:hover .extra-color-1 .circle-border,.woocommerce-page table.cart a.remove{border-color:#5f456d;}.pricing-column.highlight.extra-color-1 h3{background-color:#5f456d!important;}.nectar-button.extra-color-2{background-color:#0081c0!important;}.icon-3x[class^="icon-"].extra-color-2:not(.alt-style),.icon-3x[class*=" icon-"].extra-color-2:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-2,.icon-3x[class*=" icon-"].extra-color-2 .circle-border,.nectar-milestone .number.extra-color-2,span.extra-color-2,.team-member ul.social.extra-color-2 li a,body [class^="icon-"].icon-default-style.extra-color-2,.team-member a.extra-color-2:hover{color:#0081c0!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-2:not(.alt-style),.col:hover > [class*=" icon-"].icon-3x.extra-color-2:not(.alt-style),.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-2:not(.alt-style),.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-2:not(.alt-style),#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-2:not(.alt-style){background-color:#0081c0!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-2,body [class*=" icon-"].icon-3x.alt-style.extra-color-2,[class*=" icon-"].extra-color-2.icon-normal,.extra-color-2.icon-normal,.bar_graph li span.extra-color-2,.nectar-progress-bar span.extra-color-2,.woocommerce .product-wrap .add_to_cart_button.added,.woocommerce-message,.woocommerce-error,.woocommerce-info,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,.swiper-slide .button.solid_color a.extra-color-2,.toggle.open.extra-color-2 h3 a{background-color:#0081c0!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-2.alt-style,.col:hover > [class*=" icon-"].icon-3x.extra-color-2.alt-style,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-2.alt-style,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-2.alt-style{color:#0081c0!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-2 .circle-border,#sidebar .widget:hover .extra-color-2 .circle-border{border-color:#0081c0;}.pricing-column.highlight.extra-color-2 h3{background-color:#0081c0!important;}.nectar-button.extra-color-3{background-color:#efefef!important;}.icon-3x[class^="icon-"].extra-color-3:not(.alt-style),.icon-3x[class*=" icon-"].extra-color-3:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-3,.icon-3x[class*=" icon-"].extra-color-3 .circle-border,.nectar-milestone .number.extra-color-3,span.extra-color-3,.team-member ul.social.extra-color-3 li a,body [class^="icon-"].icon-default-style.extra-color-3,.team-member a.extra-color-3:hover{color:#efefef!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-3:not(.alt-style),.col:hover > [class*=" icon-"].icon-3x.extra-color-3:not(.alt-style),.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-3:not(.alt-style),.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-3:not(.alt-style),#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-3:not(.alt-style){background-color:#efefef!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-3,body [class*=" icon-"].icon-3x.alt-style.extra-color-3,.extra-color-3.icon-normal,[class*=" icon-"].extra-color-3.icon-normal,.bar_graph li span.extra-color-3,.nectar-progress-bar span.extra-color-3,.swiper-slide .button.solid_color a.extra-color-3,.toggle.open.extra-color-3 h3 a{background-color:#efefef!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-3.alt-style,.col:hover > [class*=" icon-"].icon-3x.extra-color-3.alt-style,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-3.alt-style,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-3.alt-style{color:#efefef!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-3 .circle-border,#sidebar .widget:hover .extra-color-3 .circle-border{border-color:#efefef;}.pricing-column.highlight.extra-color-3 h3{background-color:#efefef!important;}#header-outer,#search-outer{background-color:#ffffff!important;}header#top nav > ul > li > a,header#top #logo,.sf-sub-indicator [class^="icon-"],.sf-sub-indicator [class*=" icon-"],header#top nav ul #search-btn a span,header#top #toggle-nav i,header#top #toggle-nav i,header#top #mobile-cart-link i,#header-outer .cart-menu .cart-icon-wrap .icon-salient-cart,#search-outer #search input[type="text"],#search-outer #search #close a span{color:#3e1051!important;}body header#top nav > ul > li > a:hover,header#top #logo:hover,body header#top nav .sf-menu > li.sfHover > a,body header#top nav .sf-menu > li.current-menu-item > a,body header#top nav .sf-menu > li.current_page_item > a .sf-sub-indicator i,body header#top nav .sf-menu > li.current_page_ancestor > a .sf-sub-indicator i,body header#top nav .sf-menu > li.sfHover > a,body header#top nav .sf-menu > li.current_page_ancestor > a,body header#top nav .sf-menu > li.current-menu-ancestor > a,body header#top nav .sf-menu > li.current-menu-ancestor > a i,body header#top nav .sf-menu > li.current_page_item > a,body header#top nav .sf-menu > li.current_page_item > a .sf-sub-indicator [class^="icon-"],body header#top nav .sf-menu > li.current_page_ancestor > a .sf-sub-indicator [class^="icon-"],body header#top nav .sf-menu > li.current-menu-ancestor > a,body .sf-menu > li.sfHover > a .sf-sub-indicator [class^="icon-"],body .sf-menu > li:hover > a .sf-sub-indicator [class^="icon-"],body .sf-menu > li:hover > a,header#top nav ul #search-btn a span:hover,#search-outer #search #close a span:hover{color:#0083C0!important;}#search-outer .ui-widget-content,header#top .sf-menu li ul li a,header#top nav > ul > li.megamenu > ul.sub-menu,body header#top nav > ul > li.megamenu > ul.sub-menu > li > a,#header-outer .widget_shopping_cart .cart_list a,#header-secondary-outer ul ul li a,#header-outer .widget_shopping_cart .cart_list li,.woocommerce .cart-notification,#header-outer .widget_shopping_cart_content{background-color:#1F1F1F!important;}header#top .sf-menu li ul li a:hover,body header#top nav .sf-menu ul li.sfHover > a,header#top .sf-menu li ul li.current-menu-item > a,header#top .sf-menu li ul li.current-menu-ancestor > a,header#top nav > ul > li.megamenu > ul ul li a:hover,header#top nav > ul > li.megamenu > ul ul li.current-menu-item a,#header-secondary-outer ul ul li a:hover,body #header-secondary-outer .sf-menu ul li.sfHover > a,#header-outer .widget_shopping_cart .cart_list li:hover,#header-outer .widget_shopping_cart .cart_list li:hover a,#search-outer .ui-widget-content li:hover,.ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state-focus{background-color:#313233!important;}#search-outer .ui-widget-content li a,#search-outer .ui-widget-content i,header#top .sf-menu li ul li a,body #header-outer .widget_shopping_cart .cart_list a,#header-secondary-outer ul ul li a,.woocommerce .cart-notification .item-name,.cart-outer .cart-notification,.sf-menu li ul .sf-sub-indicator [class^="icon-"],.sf-menu li ul .sf-sub-indicator [class*=" icon-"],#header-outer .widget_shopping_cart .quantity{color:#CCCCCC!important;}#search-outer .ui-widget-content li:hover a .title,#search-outer .ui-widget-content .ui-state-hover .title,#search-outer .ui-widget-content .ui-state-focus .title,#search-outer .ui-widget-content li:hover a,#search-outer .ui-widget-content li:hover i,#search-outer .ui-widget-content .ui-state-hover a,#search-outer .ui-widget-content .ui-state-focus a,#search-outer .ui-widget-content .ui-state-hover i,#search-outer .ui-widget-content .ui-state-focus i,#search-outer .ui-widget-content .ui-state-hover span,#search-outer .ui-widget-content .ui-state-focus span,body header#top nav .sf-menu ul li.sfHover > a,header#top nav > ul > li.megamenu > ul ul li.current-menu-item a,body #header-outer .widget_shopping_cart .cart_list li:hover a,#header-secondary-outer ul ul li:hover > a,body #header-secondary-outer ul ul li:hover > a i,body header#top nav .sf-menu ul li.sfHover > a .sf-sub-indicator i,#header-outer .widget_shopping_cart li:hover .quantity,body header#top nav .sf-menu ul li:hover > a .sf-sub-indicator i,body header#top nav .sf-menu ul li:hover > a,header#top nav > ul > li.megamenu > ul > li > a:hover,header#top nav > ul > li.megamenu > ul > li.sfHover > a,body header#top nav .sf-menu ul li.current-menu-item > a,body header#top nav .sf-menu ul li.current_page_item > a .sf-sub-indicator i,body header#top nav .sf-menu ul li.current_page_ancestor > a .sf-sub-indicator i,body header#top nav .sf-menu ul li.sfHover > a,#header-secondary-outer ul li.sfHover > a,body header#top nav .sf-menu ul li.current_page_ancestor > a,body header#top nav .sf-menu ul li.current-menu-ancestor > a,body header#top nav .sf-menu ul li.current_page_item > a,body header#top nav .sf-menu ul li.current_page_item > a .sf-sub-indicator [class^="icon-"],body header#top nav .sf-menu ul li.current_page_ancestor > a .sf-sub-indicator [class^="icon-"],body header#top nav .sf-menu ul li.current-menu-ancestor > a,body header#top nav .sf-menu ul li.current_page_item > a,body .sf-menu ul li ul li.sfHover > a .sf-sub-indicator [class^="icon-"],body ul.sf-menu > li > a:active > .sf-sub-indicator i,body ul.sf-menu > li.sfHover > a > .sf-sub-indicator i,body .sf-menu ul li.current_page_item > a,body .sf-menu ul li.current-menu-ancestor > a,body .sf-menu ul li.current_page_ancestor > a,body .sf-menu ul a:focus,body .sf-menu ul a:hover,body .sf-menu ul a:active,body .sf-menu ul li:hover > a,body .sf-menu ul li.sfHover > a,.body sf-menu li ul li a:hover,body .sf-menu li ul li.sfHover > a,body header#top nav > ul > li.megamenu ul li:hover > a{color:#27CCC0!important;}#header-secondary-outer{background-color:#3e1051!important;}#header-secondary-outer nav > ul > li > a,body #header-secondary-outer nav > ul > li > a span.sf-sub-indicator [class^="icon-"],#header-secondary-outer #social li a i{color:#ffffff!important;}#header-secondary-outer #social li a:hover i,#header-secondary-outer nav > ul > li:hover > a,#header-secondary-outer nav > ul > li.current-menu-item > a,#header-secondary-outer nav > ul > li.sfHover > a,#header-secondary-outer nav > ul > li.sfHover > a span.sf-sub-indicator [class^="icon-"],#header-secondary-outer nav > ul > li.current-menu-item > a span.sf-sub-indicator [class^="icon-"],#header-secondary-outer nav > ul > li.current-menu-ancestor > a,#header-secondary-outer nav > ul > li.current-menu-ancestor > a span.sf-sub-indicator [class^="icon-"],body #header-secondary-outer nav > ul > li:hover > a span.sf-sub-indicator [class^="icon-"]{color:#49cffc!important;}#call-to-action{background-color:#ECEBE9!important;}#call-to-action span{color:#4B4F52!important;}#page-header-bg h1,#page-header-bg .subheader,#portfolio-nav a i,#portfolio-nav a i,page-header-bg #portfolio-nav a i,#page-header-bg span{color:!important;}body #page-header-bg a.pinterest-share i,body #page-header-bg a.facebook-share i,body #page-header-bg .twitter-share i,body #page-header-bg .google-plus-share i,body #page-header-bg .icon-salient-heart,body #page-header-bg .icon-salient-heart-2{color:;}</style><style type="text/css"> #header-outer{padding-top:10px;}#header-outer #logo img{height:100px;}header#top nav > ul > li > a{padding-bottom:46px;padding-top:36px;}header#top nav > ul li#search-btn{padding-bottom:39px;padding-top:40px;}header#top .sf-menu > li.sfHover > ul{top:28px;}.sf-sub-indicator{height:19px;}#header-space{height:154px;}body[data-smooth-scrolling="1"] #full_width_portfolio .project-title.parallax-effect{top:154px;}body.single-product div.product .product_title{padding-right:0;}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:45px!important;line-height:51px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:12.75px!important;line-height:22.1px!important;}}@media only screen and (min-width :690px) and (max-width :1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:33px!important;line-height:39px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:9.35px!important;line-height:17px!important;}}@media only screen and (max-width :690px){.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content h2,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content h2{font-size:15px!important;line-height:21px!important;}.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content p,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content p{font-size:5.44px!important;line-height:12.41px!important;}}</style><style type="text/css">#header-secondary-outer nav > ul > li > a {
+font-size: 16px!important;
+}
 
-		<script type="text/javascript">
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') +
-'//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
-</script>
+select {border:1px sollid #eeeeee!important;}
 
-<script type="text/javascript">
-googletag.cmd.push(function() {
-googletag.defineSlot('/8905/vitals/patient_education', [[728, 90],[880, 150],[970, 250],[970, 90]], 'leaderboard_top').addService(googletag.pubads()).setCollapseEmptyDiv(true).setTargeting('pos', '1')
-googletag.defineSlot('/8905/vitals/patient_education', [[300, 250],[300, 600],[300, 1050]], 'rectangle').addService(googletag.pubads()).setCollapseEmptyDiv(true).setTargeting('pos', '1')
+textarea {height: 100px;}
 
-googletag.pubads().setTargeting("kw", "pg_");
+.team-member p.description {
+padding: 15px 0px;
+margin: 15px 0px;
+border-bottom: 0px solid #ddd;
+border-top: 1px solid #ddd;
+}
 
-googletag.pubads().setTargeting("spec", "derm;spec");
+ul li#search-btn, #mobile-search {
+    display:none;
+}
 
-			function getCookie(name) {
-				var value = '; ' + document.cookie;
-				var parts = value.split('; ' + name + '=');
-				if (parts.length == 2) return parts.pop().split(';').shift();
-			}
-			function getRetargetingFromCookie(name) {
-				var retarget = getCookie('retarget');
-				if(retarget) {
-					retarget = JSON.parse(unescape(retarget));
-					return retarget[name] || [];
-				}
-				return [];
-			}
-			googletag.pubads().setTargeting("rspec",getRetargetingFromCookie("spec"));
-			googletag.pubads().setTargeting("rspex",getRetargetingFromCookie("spex"));
-			googletag.pubads().setTargeting("rpspec",getRetargetingFromCookie("pspec"));
-			googletag.pubads().setTargeting("rmid",getRetargetingFromCookie("mid"));
-			googletag.pubads().enableSingleRequest();
-			googletag.enableServices();
-			});
-			</script>
+.row .col .section-title {
+margin: 0 0 0 0 ;
+padding: 0 0 36px 0 ;
+border-bottom: 0 solid #ddd;
+}
 
-		<link rel="icon" href="/img/favicon.png" type="image/png">
-		<link rel="apple-touch-icon" href="/img/apple-touch-icon-57x57.png">
-		<link rel="apple-touch-icon" sizes="72x72" href="/img/apple-touch-icon-72x72.png">
-		<link rel="apple-touch-icon" sizes="114x114" href="/img/apple-touch-icon-114x114.png">
-		<meta name="msapplication-TileImage" content="/img/metro-tile.png">
-		<meta name="msapplication-TileColor" content="#3d194f">
+.nectar-lite-text { 
+background: none repeat scroll 0 0 rgba(255, 255, 255, 0.4); 
+color: black; 
+padding: 0 5px; 
+font-size: 1.2em; 
+}
 
-		
-
-<script type="text/javascript">
-
-	var _gaq = _gaq || [];
-	_gaq.push(['main._setAccount','UA-2543312-1']); 
-_gaq.push(['_setAccount','UA-2543312-17']); 
-_gaq.push(['main._trackPageview']); 
-_gaq.push(['_trackPageview']); 
-
-	(function(){
-		var ga=document.createElement('script'); ga.type='text/javascript'; ga.async=true;
-		ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);
-	})();
+.fb_w_100 {
+	width:100%;
+	}
+.fb_w_name {
+	width: 12%;
+	}
+.fb_w_spc {
+	width: 15%;
+	}
+.fb_stats_ctr {
+	text-align: center;
+	width:13%;
+}
+.fb_hdr_bold {
+	font-weight: bold;
+}
+.fb_link_wht {
+	color: #007cc5;
+	text-decoration:underline
+}
+.fb_hgt_15px {
+	height:15px;
+	}
 	
-</script>
+/**Hide Portfolio Nav**/
+#portfolio-nav {display:none;}
+
+.ie-purple {background-color:#3e1051}</style><style type="text/css"> body,.toggle h3 a,body .ui-widget,.bar_graph li span strong,#search-results .result .title span,.woocommerce ul.products li.product h3,.woocommerce-page ul.products li.product h3,body .nectar-love span,body .nectar-social .nectar-love .nectar-love-count,body .carousel-heading h2{font-size:14px;line-height:25.2px;}.nectar-fancy-ul ul li .icon-default-style[class^="icon-"]{line-height:25.2px!important;}header#top nav > ul > li > a{font-size:20px;line-height:28px;}header#top .sf-menu li ul li a,#header-secondary-outer nav > ul > li > a,#header-secondary-outer ul ul li a,#header-outer .widget_shopping_cart .cart_list a{font-size:14px;line-height:24px;}@media only screen and (min-width :1px) and (max-width :1000px){header#top .sf-menu a{font-family:-!important;font-size:14px!important;}}#page-header-bg h1,body h1,body .row .col.section-title h1{}@media only screen and (min-width:1000px) and (max-width:1300px){#page-header-bg .span_6 h1,body .row .col.section-title h1{font-size:;line-height:;}}#page-header-bg h2,body h2,article.post .post-header h2,article.post.quote .post-content h2,article.post.link .post-content h2,article.post.format-status .post-content h2,#call-to-action span{}body h3,.row .col h3,.toggle h3 a{}body h4,.row .col h4,.portfolio-items .work-meta h4,#respond h3,h3#comments{}body h5,.row .col h5{}#page-header-bg .subheader{font-family:;text-transform:;letter-spacing:;font-size:;}.swiper-slide .content h2{}#featured article .post-title h2 span,blockquote,.swiper-slide .content p,.testimonial_slider blockquote,.testimonial_slider blockquote span,#portfolio-filters-inline #current-category,body .vc_text_separator div{font-size:17px;line-height:36px!important;}.swiper-slide .content p.transparent-bg span{line-height:42px;}#footer-outer .widget h4,#sidebar h4,#call-to-action .container a,.uppercase,.nectar-button,body .widget_calendar table th,body #footer-outer #footer-widgets .col .widget_calendar table th,.swiper-slide .button a,header#top nav > ul > li.megamenu > ul > li > a,.carousel-heading h2,body .gform_wrapper .top_label .gfield_label,body .vc_pie_chart .wpb_pie_chart_heading{}.team-member h4,.row .col.section-title p,.row .col.section-title span,#page-header-bg .subheader,.nectar-milestone .subject{}-6px!important;}</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+
+</head>
 
 
-<!-- Begin comScore Tag -->
-<script>
-  var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: "6746476" });
-  (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-  })();
-</script>
-<!-- End comScore Tag -->
-
-	</head>
-
-		<body class="privacy" itemscope="" itemtype="http://schema.org/WebPage">
-		
+<body class="page page-id-24969 page-template-default wpb-js-composer js-comp-ver-3.7.3 vc_responsive" data-bg-header="false" data-ext-responsive="false" data-header-resize="1" data-header-color="custom" data-transparent-header="false" data-smooth-scrolling="1" data-responsive="1">
 <!-- Google Tag Manager -->
 <noscript>
 	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-W55B" height="0" width="0" style="display:none;visibility:hidden"></iframe>
@@ -150,408 +133,311 @@ _gaq.push(['_trackPageview']);
 </script>
 <!-- End Google Tag Manager -->
 
+
+
+
+	<div id="header-secondary-outer" data-full-width="false">
+		<div class="container">
+			<nav>
+								
+									<ul class="sf-menu">	
+				   	   <li id="menu-item-23873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23873"><a href="/about/">About Us</a></li>
+<li id="menu-item-24547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24547"><a href="/about/vitals-team">Team</a></li>
+<li id="menu-item-23881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23881"><a href="/about/press">News</a></li>
+<li id="menu-item-23880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23880"><a href="/about/resources">Resources</a></li>
+<li id="menu-item-1899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1899"><a href="/about/doctor-awards">Awards</a></li>
+<li id="menu-item-24880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24880"><a href="/about/careers">Careers</a></li>
+<li id="menu-item-23894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23894"><a href="/about/contact">Contact</a></li>
+				    </ul>
+								
+			</nav>
+		</div>
+	</div>
+
+
+<div id="header-space"></div>
+
+
+<div id="header-outer" data-full-width="false" data-using-secondary="1" data-using-logo="1" data-logo-height="100" data-padding="10" data-header-resize="1">
+	
+	
+<div id="search-outer">
+		
+	<div id="search">
+	  	 
+		<div class="container">
+		  	 	
+		     <div id="search-box">
+		     	
+		     	<div class="col span_12">
+			      	<form action="http://vitalschoice.vitals.wpengine.com" method="GET">
+			      		<input type="text" name="s" id="s" value="Start Typing..." data-placeholder="Start Typing...">
+			      	</form>
+		        </div><!--/span_12-->
+			      
+		     </div><!--/search-box-->
+		     
+		     <div id="close"><a href=""><span class="icon-salient-x" aria-hidden="true"></span></a></div>
+		     
+		 </div><!--/container-->
+	    
+	</div><!--/search-->
+	  
+</div><!--/search-outer-->	
+	<header id="top">
+		
+		<div class="container">
 			
-				<header>
-<form action="/search" class="search" id="search-header" accept-charset="UTF-8" method="get">
-<input type="hidden" name="utf8" id="utf8" value="✓"><input type="hidden" name="type" id="type" value="name">
- <input data-ignore="" type="hidden" name="provider_type" id="provider_type" value="1">
-<input type="hidden" name="specialist_id" id="specialist_id" value="">
-<input type="hidden" name="field_specialty_id" id="field_specialty_id" value="">
-<input type="hidden" name="disorder_id" id="disorder_id" value="">
+			<div class="row">
+				  
+				<div class="col span_3">
+					
+					<a id="logo" href="http://www.vitals.com">
+						
+						<img class="default-logo" alt="Vitals" src="http://vitalschoice.vitals.wpengine.com/files/2014/02/Corporate_5-pane.png"><img class="retina-logo" alt="Vitals" src="http://vitalschoice.vitals.wpengine.com/files/2014/02/Corporate_5-pane.png"> 
+					</a>
 
-<div class="masthead-container">
+				</div><!--/span_3-->
+				
+				<div class="col span_9 col_last">
+					
+					<a href="#" id="toggle-nav"><i class="icon-reorder"></i></a>
+					
+										
+					<nav>
+						<ul class="sf-menu">	
+							<li id="menu-item-23960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23960"><a href="/about/patients">For Consumers</a></li>
+<li id="menu-item-23838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23838"><a href="/about/healthplans">For Health Plans</a></li>
+<li id="menu-item-23840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23840"><a href="/about/providers">For Providers</a></li>
+<li id="menu-item-23837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23837"><a href="/about/advertisers">For Advertisers</a></li>
+							<li id="search-btn"><div><a href=""><span class="icon-salient-search" aria-hidden="true"></span></a></div></li>
+						</ul>
+					</nav>
+					
+				</div><!--/span_9-->
+			
+			</div><!--/row-->
+			
+		</div><!--/container-->
+		
+	</header>
+	
+	
+			
+	
 
-<!-- review-search -->
-<!-- review-searchresults -->
-<!-- patient-education -->
+</div><!--/header-outer-->
 
 
-<!-- top nav -->
-<div class="top-nav">
-  <ul class="unstyled session-info">
-
-    <li class="label">
-      <span class="label-new">NEW</span>
-      <a href="/urgent-care" data-category="Masthead - Eyebrow">Urgent care centers</a>
-    </li>
-    <li class="myvitals when-signed-out tracking-registration">
-      <a href="https://my.vitals.com" class="sign-up">Sign up</a>      <span>or</span>
-      <a href="https://my.vitals.com/users/sign_in" class="sign-in">Log in</a>    </li>
-    <li class="when-signed-in tracking-registration">
-      <a class="email" href="#"><span>email@email.com</span></a>
-      <ul class="options">
-          <li><a class="edit-profile" href="#" data-label="EditProfile_email@email.com">Edit Profile</a></li>
-          <li><a class="sign-out" href="#" data-method="delete">Log out</a></li>
-      </ul>
-    </li>
-
-  </ul>
+<div id="mobile-menu">
+	
+	<div class="container">
+		<ul>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23960"><a href="/about/patients">For Consumers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23838"><a href="/about/healthplans">For Health Plans</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23840"><a href="/about/providers">For Providers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23837"><a href="/about/advertisers">For Advertisers</a></li>
+<li id="mobile-search">  
+					<form action="http://vitalschoice.vitals.wpengine.com" method="GET">
+			      		<input type="text" name="s" value="" placeholder="Search..">
+					</form> 
+					</li>		
+		</ul>
+	</div>
+	
 </div>
-<div class="clear"></div>
-<!-- top nav -->
 
-<div class="main-header">
-  <div class="masthead-logo main">
-    <a href="/" class="logo-masthead" data-label="Home_Logo" data-category="Masthead - Main Nav"></a>
-    <div class="arrow"></div>
-  </div>
-  <ul class="main-nav">
-    <li id="doctor-tab">
-      <a class="nav-tab find-magnifying-glass active" href="#" data-category="Masthead - Main Nav">
-        Find a doctor or facility
-      </a>
-       <ul class="sub-nav">
-        <li class="find doctor">
-          <ul>
-            <li class="type-select">
-              <span>Find</span>
-              <a href="#" class="mini-selector select-value">Doctors</a><a class="mini-selector fa fa-chevron-down"></a>
-              <ul class="dropdown-menu">
-                <li><a href="#" data-type="1">Doctors</a></li>
-                <li><a href="#" data-type="4">Dentists</a></li>
-                <li><a href="#" data-type="10">Urgent Care</a></li>
-              </ul>
-            </li>
-            <li class="form">
-              <input type="text" name="q" id="q" autocomplete="off" tabindex="1" placeholder="by specialty, condition, topic or name" role="textbox" aria-autocomplete="list" aria-haspopup="true" value="">
-            </li>
-            <li class="location">
-              <span>near</span>
-              <a class="location-textbox mini-selector min-location" href="#"></a><a class="mini-selector location-arrow fa fa-chevron-down"></a>
-              <div class="form location-form">
-                <input type="text" value="" autocomplete="off" tabindex="1" placeholder="enter location" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-                <div class="header_location_search"></div>
-              </div>
-            </li>
-            <li class="insurance">
-              <div class="insurance_copy"><span></span></div>
-              <span>who accept</span>
-              <a class="mini-selector my-any-insurance" href="#">any insurance</a><a class="mini-selector fa fa-chevron-down"></a>
-              <div class="insurance_box_wrap" style="display:none">
-                <div class="insurance_box">
-                  <div>
-                    <label for="ic0000">Insurance Company</label>
-                    <div class="select"><input type="text" class="insurance_company" id="ic0000" value="" autocomplete="off" placeholder="Select an Insurance Company" tabindex="5"></div>
-                    <label for="ip0000">Insurance Plan</label>
-                    <div class="select"><input type="text" id="ip0000" class="insurance_plan" value="" disabled="disabled" autocomplete="off" placeholder="All" tabindex="6"></div>
-                    <div class="insurance_buttons">
-                      <a class="clear_insurance" tabindex="7">Clear</a>
-                      <a class="cancel_insurance" tabindex="8">Cancel</a>
-                      <a class="save_insurance blueButton" tabindex="9">Save</a>
-                    </div>
-                  </div>
-                  <div class="autocomplete-results"></div>
-                  <input type="hidden" class="insurance_plan_id">
-                  <input type="hidden" name="insurance" class="insurance" id="insurance" value="">
-              </div>
-            </div>
-            </li>
-            <li class="go-button">
-              <button id="provider-go"><span class="fa fa-search"></span><span class="go-text">Go</span></button>
-            </li>
-          </ul>
-          <div class="clear"></div>
-        </li>
-      </ul>
-    </li>
-    <!--end doctor tab-->
-    <li id="review-tab">
-      <a class="nav-tab write-review" href="/review" data-category="Masthead - Main Nav">
-        Write a review
-      </a>
-      <ul class="sub-nav">
-        <li class="find review" style="display:none">
-          <ul>
-            <li class="doctors"><span>Choose a doctor or facility to review:</span></li>
-            <li class="form">
-              <input type="text" id="review_q" name="name" value="" autocomplete="off" tabindex="1" placeholder="doctor or facility name" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-            </li>
-            <li class="location">
-              <span>near</span>
-              <a class="location-textbox mini-selector min-location" href="#"></a>
-              <div class="form location-form">
-                <input type="text" value="" autocomplete="off" tabindex="1" placeholder="enter location" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-                <div class="header_location_search"></div>
-              </div>
-            </li>
-            <li class="go-button">
-              <button id="review-go"><span class="fa fa-search"></span><span class="go-text">Go</span></button>
-            </li>
-          </ul>
-        </li>
-        <div class="clear"></div>
-      </ul>
-    </li>
-    <!-- end review tab -->
-    <li id="info-tab">
-      <a class="nav-tab get-info" href="/topics" data-category="Masthead - Main Nav">
-        Get informed
-      </a>
-      <ul class="sub-nav">
-        <li class="find info" style="display:none">
-          <ul>
-            <li class="browse"><a href="http://www.vitals.com/specialties">Browse specialties</a><span>|</span></li>
-            <li class="patient-education">
-              <p>Patient education: <a href="http://www.vitals.com/patient-education/ulcerative-colitis">Ulcerative Colitis</a>&nbsp;<span style="color: #ccc;">|</span> <a href="http://www.vitals.com/patient-education/diabetic-nerve-pain">Diabetic Nerve Pain</a>&nbsp;<span style="color: #ccc;">|</span>&nbsp;<a href="http://www.vitals.com/patient-education/atrial-fibrillation">Atrial Fibrillation</a>&nbsp;<span style="color: #ccc;">|</span>&nbsp;<a href="http://www.vitals.com/patient-education/chronic-obstructive-pulmonary-disease">COPD</a>&nbsp;<span style="color: #ccc;">|</span>&nbsp;<a href="http://www.vitals.com/patient-education">See all</a></p>
-            </li>
-            <div class="clear"></div>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <!-- end info-tab -->
-  </ul>
-  <div class="clear"></div>
-  <div class="underline"></div>
- </div>
-  <div class="clear"></div>
-</div>
-<div id="autosuggest-dropdown" class="autocomplete-results"></div>
-</form>
-</header>
 
-		<div class="main-content">
+<div class="container-wrap">
+	
+	<div class="container main-content">
+		
+		<div class="row">
 			
-	<div role="main" class="container cms">
-		<div class="content">
-			
-	<div class="breadcrumbs">
-	<span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.vitals.com" title="Home" class=" trail" itemprop="url"><span itemprop="title">Home</span></a> &gt; </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.vitals.com/privacy" title="Privacy" class=" trail current" itemprop="url"><span itemprop="title">Privacy</span></a></span>	</div>
-
-	<section class="modular ribbons none privacy">
-		<div id="content">
-		<h1>Vitals Privacy Policy</h1>
-<p>The Vitals.com website and the Vitals mobile application (collectively, the “Site”) is provided to You by MDx Medical, Inc., including any of its related, affiliated and/or subsidiary companies (individually and collectively, “MDx,” “Vitals,” “We” or “Us”). The following Privacy Policy applies to the Site and all of the products and services offered by MDx on, through, or in connection with the Site (collectively, the “Products and Services”). For convenience, the words “User,” “You” and “Your” as used in this Privacy Policy refer to all users of the Site, including, without limitation, anyone that accesses or visits the Site; individuals seeking to utilize the Products and Services; and physicians, long-term care facilities, hospitals, insurers and other providers of healthcare services and persons working on their behalves who input or post or edit profiles and other content, materials and information related to them (collectivelyte and the Vitals mobile app, “Healthcare Providers”).</p>
+						
+							
+				<h1 style="color: #000000;">Vitals Privacy Policy</h1>
+<p>The Vitals.com website and the Vitals mobile application (collectively, the “Site”) is provided to You by MDx Medical, Inc., including any of its related, affiliated and/or subsidiary companies (individually and collectively, “MDx,” “Vitals,” “We” or “Us”). The following Privacy Policy applies to the Site and all of the products and services offered by MDx on, through, or in connection with the Site (collectively, the “Products and Services”). For convenience, the words “User,” “You” and “Your” as used in this Privacy Policy refer to all users of the Site, including, without limitation, anyone that accesses or visits the Site; individuals seeking to utilize the Products and Services; and physicians, long-term care facilities, hospitals, insurers and other providers of healthcare services and persons working on their behalves who input or post or edit profiles and other content, materials and information related to them (collectively “Healthcare Providers”).</p>
 <p>Vitals recognizes that Your privacy and the protection of Your Personal Information (as defined below) is important to You, and, therefore, has adopted this Privacy Policy. This Privacy Policy describes Vitals’ privacy practices and how Vitals treats the Personal Information that is provided by You when You use the Site or the Products and Services, including any Personal Information You provide if and when You register on or through the Site or create Your Vitals account. This Privacy Policy applies to the Site and all of the Products and Services.</p>
 <p>For the purposes of this Privacy Policy, “Personal Information” is information that (i) You voluntarily provide to Vitals, and (ii) that personally identifies You. Personal Information includes, but is not limited to, Your name, email or other address, billing and payment information and other data that can be used to personally identify or contact You. If You decide to utilize any of the Products and Services, including, for example and where available, scheduling an appointment with a Healthcare Provider through our website or mobile application, Your Personal Information may also contain sensitive personal information, including any confidential medical information (such as your reason for scheduling the provider appointment) that You voluntarily provide, as well as information collected by Vitals as a result of Your queries, searches, clickstreams and other website or mobile application navigation activities.</p>
 <p>“Aggregated Non-Personal Information” is information about some or all of the Users of the Products and Services, but unlike Personal Information, does not reflect or reference an individually identifiable User. Aggregated Non-Personal Information may be formed from Personal Information, but any of the Personal Information used to form the Aggregated Non-Personal Information has been processed to no longer reflect or reference an individually identifiable User.</p>
-<h2>HOW WE OBTAIN THE PERSONAL INFORMATION</h2>
+<h2 style="color: #000000;">HOW WE OBTAIN THE PERSONAL INFORMATION</h2>
 <p>Vitals may obtain, collect, retain, store or otherwise maintain Your Personal Information from the following sources:</p>
 <ul>
-<li>Your Vitals Account&nbsp;. This information may include, for example, information You provide to Vitals through Your creation, registration and maintenance of an account on Vitals.com and/or the Vitals mobile application.</li>
-<li>Purchase of Products and Services&nbsp;: To the extent that We offer Products and Services for purchase on the Site, we may request that You provide Personal Information, a credit card account number and/or or other payment account information in order for You to access or purchase those Products and Services.</li>
-<li>Other Information You Provide to Vitals&nbsp;: Some of the Products and Services allow You to store Personal Information, such as Your Healthcare Providers, pharmacies, insurance information, emergency contact information, personal health information and related information. Personal Information that You may store through the mobile application by means of taking a photograph with Your mobile device (for example, taking a photograph of Your health insurance card) is stored exclusively on Your mobile device and is not stored or collected by Vitals. Accordingly, the safety, security and privacy of Your mobile device and the information and photographs that You store on it are Your responsibility and not the responsibility of Vitals.</li>
-<li>Interactive Products and Services&nbsp;: Some of the Products and Services allow You to interact with Healthcare Providers through the Site. These interactive Products and Services include, but are not limited to, scheduling appointments with Healthcare Providers. Per Your request to utilize these interactive Products and Services, We may obtain Personal Information (such as the medical reasons for You scheduling the appointment) that You voluntarily provide in connection with utilizing these interactive Products and Services. You understand and agree that Vitals may use and/or disclose such Personal Information to Healthcare Providers that You have selected in connection with providing You with the requested interactive Products and Services.</li>
-<li>Your Responses to Communications from Vitals&nbsp;: From time to time, Vitals may communicate with You through postal mail, email or other forms of electronic communications regarding Your Vitals account on the Site, inquiries you may make to Vitals customer service, the Products and Services and new Products and Services. If You respond to these communications, Your responses may contain Personal Information.</li>
+<li style="font-weight: inherit; font-style: inherit; color: inherit;">Your Vitals Account&nbsp;. This information may include, for example, information You provide to Vitals through Your creation, registration and maintenance of an account on Vitals.com and/or the Vitals mobile application.</li>
+<li style="font-weight: inherit; font-style: inherit; color: inherit;">Purchase of Products and Services&nbsp;: To the extent that We offer Products and Services for purchase on the Site, we may request that You provide Personal Information, a credit card account number and/or or other payment account information in order for You to access or purchase those Products and Services.</li>
+<li style="font-weight: inherit; font-style: inherit; color: inherit;">Other Information You Provide to Vitals&nbsp;: Some of the Products and Services allow You to store Personal Information, such as Your Healthcare Providers, pharmacies, insurance information, emergency contact information, personal health information and related information. Personal Information that You may store through the mobile application by means of taking a photograph with Your mobile device (for example, taking a photograph of Your health insurance card) is stored exclusively on Your mobile device and is not stored or collected by Vitals. Accordingly, the safety, security and privacy of Your mobile device and the information and photographs that You store on it are Your responsibility and not the responsibility of Vitals.</li>
+<li style="font-weight: inherit; font-style: inherit; color: inherit;">Interactive Products and Services&nbsp;: Some of the Products and Services allow You to interact with Healthcare Providers through the Site. These interactive Products and Services include, but are not limited to, scheduling appointments with Healthcare Providers. Per Your request to utilize these interactive Products and Services, We may obtain Personal Information (such as the medical reasons for You scheduling the appointment) that You voluntarily provide in connection with utilizing these interactive Products and Services. You understand and agree that Vitals may use and/or disclose such Personal Information to Healthcare Providers that You have selected in connection with providing You with the requested interactive Products and Services.</li>
+<li style="font-weight: inherit; font-style: inherit; color: inherit;">Your Responses to Communications from Vitals&nbsp;: From time to time, Vitals may communicate with You through postal mail, email or other forms of electronic communications regarding Your Vitals account on the Site, inquiries you may make to Vitals customer service, the Products and Services and new Products and Services. If You respond to these communications, Your responses may contain Personal Information.</li>
 </ul>
 <p>You can decline to provide Your Personal Information to Us by not engaging in the activities described above, such as by not registering or creating a Vitals account on the Site. If you decline to submit Personal Information, Vitals may not be able to or may choose not to provide to You some or all of its Products and Services.</p>
 <p>Vitals also collects non-personally identifiable server-log information relating to its users. This information may include, but is not limited to, (i) Your Vitals account activity, including storage usage, number of log-ins, data displayed or selected, including user interface elements, links, etc, and (ii) Your web or mobile application request, Internet Protocol address (“IP address”), browser type, browser language, browser programming language, computer or mobile device type, the date and time of your request, date and time of access, and one or more cookies that may uniquely identify your browser and referrer Uniform Resource Locator (“URL”). None of this information alone enables Vitals to personally identify or contact You.</p>
-<h2>HOW VITALS USES PERSONAL INFORMATION</h2>
+<h2 style="color: #000000;">HOW VITALS USES PERSONAL INFORMATION</h2>
 <p>Vitals only uses Personal Information for the purposes and in the manner described in this Privacy Policy. Specifically, Vitals only uses Your Personal Information for:</p>
 <ul>
-<li>Providing the Products and Services to You, including but not limited to, the processing, formatting and displaying of Personal Information, customized content and the delivery of customized Products and Services to You;</li>
-<li>Auditing, research and analysis in order to maintain, protect and improve the Products and Services and the Site;</li>
-<li>Ensuring the technical functioning of Vitals’ network and the Site, including creating and maintaining backups or other archival copies of Personal Information and other related data; and/or</li>
-<li>Developing new Products and Services, which may include use of Personal Information by Vitals in connection with developing and offering to You customized Products and Services (e.g., postal mail, e-mail or other forms of electronic communications, such as “newsletters,” regarding specific health conditions, health education and/or disease prevention), which Products and Services may be supported by third-party advertising from Healthcare Providers and manufacturers, retailers and/or other service providers within the healthcare industry (e.g., pharmaceutical and/or medical device manufacturers, suppliers, or retailers).</li>
+<li style="font-weight: inherit; font-style: inherit; color: inherit;">Providing the Products and Services to You, including but not limited to, the processing, formatting and displaying of Personal Information, customized content and the delivery of customized Products and Services to You;</li>
+<li style="font-weight: inherit; font-style: inherit; color: inherit;">Auditing, research and analysis in order to maintain, protect and improve the Products and Services and the Site;</li>
+<li style="font-weight: inherit; font-style: inherit; color: inherit;">Ensuring the technical functioning of Vitals’ network and the Site, including creating and maintaining backups or other archival copies of Personal Information and other related data; and/or</li>
+<li style="font-weight: inherit; font-style: inherit; color: inherit;">Developing new Products and Services, which may include use of Personal Information by Vitals in connection with developing and offering to You customized Products and Services (e.g., postal mail, e-mail or other forms of electronic communications, such as “newsletters,” regarding specific health conditions, health education and/or disease prevention), which Products and Services may be supported by third-party advertising from Healthcare Providers and manufacturers, retailers and/or other service providers within the healthcare industry (e.g., pharmaceutical and/or medical device manufacturers, suppliers, or retailers).</li>
 </ul>
 <p>Vitals restricts access to Personal Information to those employees, contractors and agents of Vitals who need to access Personal Information for the purposes specified above. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination, if they fail to meet these obligations.</p>
 <p>Except as otherwise set forth herein, Vitals does not share Your Personal Information with third parties without Your consent, except when We believe that it is reasonably necessary to do so in order to comply with a subpoena or other judicial order or process, as otherwise required by law or in order to enforce Vitals’ Terms of Use (also known as a User Agreement) for the Vitals website and mobile application (“Terms of Use”). In such circumstances, Your Personal Information may also be disclosed to Vitals’ attorneys.</p>
 <p>Aggregated Non-Personal Information provided to or collected by Vitals may be provided to, shared with and used by third parties including third-party content providers, paid advertisers and licensees of the Products and Services. Vitals permits third-party advertising companies and networks to place paid advertisements that may be visible when You visit, use or access the Site. These companies and networks include, among others, third party ad servers, ad agencies, advertising networks, advertising technology vendors, and research firms. These companies and networks may use information (not including your Personal Information) relating to Your visits to, use or access of the Site in order to provide advertisements about goods and services that may be of interest to You. In the course of serving advertisements to the Site, these companies and networks may place or recognize a unique “cookie” on your browser or within the code of the mobile application or use a “web beacon”.</p>
-<p>An example of such third-party ad networks are Google and DoubleClick. These third parties collect Aggregated Non-Personal Information about the Site’s users and provide auditing, research and reporting services and information for Vitals’ advertisers and other partners. If you would like more information about this practice and to know your choices about not having this information used by Google and/or DoubleClick, please visit&nbsp;<a href="http://www.google.com/policies/privacy/ads/">http://www.google.com/policies/privacy/ads/</a>.</p>
-<p>If you would like more information about not having this information used by other companies, please visit<a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank" rel="nofollow">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+<p>An example of such third-party ad networks are Google and DoubleClick. These third parties collect Aggregated Non-Personal Information about the Site’s users and provide auditing, research and reporting services and information for Vitals’ advertisers and other partners. If you would like more information about this practice and to know your choices about not having this information used by Google and/or DoubleClick, please visit&nbsp;<a style="font-weight: inherit; font-style: inherit; color: #1b8be0;" href="http://www.google.com/policies/privacy/ads/">http://www.google.com/policies/privacy/ads/</a>.<br>
+<a name="adchoices"></a><br>
+If you would like more information about not having this information used by other companies, please visit&nbsp;<a style="font-weight: inherit; font-style: inherit; color: #1b8be0;" href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank" rel="nofollow">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
 <p>You may also visit these sites from links included in the Privacy Policy posted on the Vitals.com website.</p>
-<p>If Vitals desires to use or share Your Personal Information for any purpose other than those described in this Privacy Policy (as it may be amended from time to time), Vitals will request Your consent prior to such use and offer You an effective way to opt out of the use of Personal Information for those other purposes. If you opt out or otherwise decline to submit Personal Information in response to such a request, Vitals may not be able to provide to You all of its Products and Services or may have to terminate Your Vitals account, if maintenance of Your account is inconsistent with a use of Your Personal Information to which You are unwilling to consent.<br>
-<a name="adchoices"></a></p>
-<h2>Your Ad Choices and Tracking by Third-Parties</h2>
+<p>If Vitals desires to use or share Your Personal Information for any purpose other than those described in this Privacy Policy (as it may be amended from time to time), Vitals will request Your consent prior to such use and offer You an effective way to opt out of the use of Personal Information for those other purposes. If you opt out or otherwise decline to submit Personal Information in response to such a request, Vitals may not be able to provide to You all of its Products and Services or may have to terminate Your Vitals account, if maintenance of Your account is inconsistent with a use of Your Personal Information to which You are unwilling to consent.</p>
+<h2 style="color: #000000;">Your Ad Choices and Tracking by Third-Parties</h2>
 <p>Vitals.com uses DoubleClick, Google, and other third-party Ad Servers to serve and display Advertisements on Vitals.com. Vitals.com does not provide personally identifiable information to Ad Servers. These Ad Servers and Advertisers may use cookies, pixel trackers, or other internet technology to improve the effectiveness and targeting of Advertisements to you within Vitals.com and any other place where that third-party is serving Advertisements. Vitals.com does not have access to, nor control over, advertisers’ or ad service providers’ cookies or how they may be used or how they were collected. In many cases, this information could be used to show you ads based on your interests on other Web sites.</p>
 <p>You have options and choices about the collection and use of information by third-parties on our site:</p>
-<p>For more information about these third-party Ad Networks and opting out of tracking, see:<br>
-<a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></p>
-<p>For more information about interest-based information tracking and opting out, see:<br>
-<a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a></p>
-<p>For information about disabling and controlling third-party cookies in your browser, see:<br>
-<a href="http://www.aboutcookies.org/Default.aspx?page=1">http://www.aboutcookies.org/Default.aspx?page=1</a></p>
-<h2>COOKIES PLACED BY VITALS</h2>
+<p>For more information about these third-party Ad Networks and opting out of tracking, see:&nbsp;<a style="font-weight: inherit; font-style: inherit; color: #1b8be0;" href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></p>
+<p>For more information about interest-based information tracking and opting out, see:&nbsp;<a style="font-weight: inherit; font-style: inherit; color: #1b8be0;" href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a></p>
+<p>For information about disabling and controlling third-party cookies in your browser, see:&nbsp;<a style="font-weight: inherit; font-style: inherit; color: #1b8be0;" href="http://www.aboutcookies.org/Default.aspx?page=1">http://www.aboutcookies.org/Default.aspx?page=1</a></p>
+<h2 style="color: #000000;">COOKIES PLACED BY VITALS</h2>
 <p>When You visit the Vitals.com website, We send to Your computer, and when You use the Vitals mobile application on Your mobile device (such as a smartphone), We send to the code of the mobile application, one or more cookies, which are small files containing a string of characters. A cookie, among other things, uniquely identifies Your browser or Your mobile device, as applicable, and allows Vitals to “remember” Your mobile device and/or Your activities on the Vitals website. Vitals uses cookies to uniquely and anonymously identify computers and mobile devices of users of the Site. No Personal Information is collected or stored in these cookies. These cookies cannot damage a user’s files, and cannot read information from a user’s hard drive or mobile device. Vitals uses cookies to improve the quality of the Products and Services. Most browsers and mobile devices are initially set up to accept cookies but You can reset Your browser or the settings on Your mobile device to refuse all cookies. Some browsers also can be set to indicate when a cookie is being sent. Please note that some features of the Products and Services may not function properly, if at all, if Your computer or mobile device is set to refuse all cookies.</p>
-<h2>HIPAA</h2>
+<h2 style="color: #000000;">HIPAA</h2>
 <p>Vitals is not a “covered entity” under the Health Insurance Portability and Accountability Act of 1996, the Health Information Technology for Economic and Clinical Health Act (“HITECH”) and the regulations promulgated thereunder, in effect or as amended (collectively, “HIPAA”). Although Vitals is not covered by HIPAA, We are committed to user privacy and have in place strict data security policies and measures, and ensure that users control access to their information. We let users know in this Privacy Policy what information we collect when they use the Site, how We use it, and how We keep it safe.</p>
 <p>On occasion, Vitals may act as a “Business Associate” of one or more Covered Entities (e.g., Healthcare Providers, such as doctors, hospitals or health plans) as defined by HIPAA. In those instances, to the extent required by law, Vitals will both comply with the obligations imposed upon Business Associates and abide by the privacy policies of the Covered Entities.</p>
-<h2>LINKS:</h2>
+<h2 style="color: #000000;">LINKS:</h2>
 <p>This Privacy Policy only addresses the Site and the Products and Services. This Privacy Policy does not apply to any other websites or mobile applications, including those that may link to or from any part of the Site or those from which you may be able to download or launch the Vitals mobile application. These other websites and/or mobile applications may have their own privacy policies and terms of use, which We encourage You to read. You should contact these websites or mobile application or service providers directly if You have any questions about their use of Your information. Vitals is not responsible for any use of Your information, including Your Personal Information, when You use or visit such third party websites, mobile applications and services.</p>
 <p>INFORMATION SHARING AND ONWARD TRANSFER</p>
 <p>Vitals reserves the right to sell, rent or otherwise share some or all of Your Personal Information with other companies or individuals outside of Vitals if:</p>
 <ul>
-<li>You have consented to such sale, rental or sharing; and/or</li>
-<li>Vitals becomes involved in a merger, acquisition, or any form of sale of all of its assets. In such circumstances, Vitals will provide notice before Personal Information is transferred and becomes subject to a different privacy policy.</li>
+<li style="font-weight: inherit; font-style: inherit; color: inherit;">You have consented to such sale, rental or sharing; and/or</li>
+<li style="font-weight: inherit; font-style: inherit; color: inherit;">Vitals becomes involved in a merger, acquisition, or any form of sale of all of its assets. In such circumstances, Vitals will provide notice before Personal Information is transferred and becomes subject to a different privacy policy.</li>
 </ul>
 <p>Vitals reserves the right to disclose Aggregated Non-Personal Information to third parties without prior notice to You.</p>
 <p>Your Personal Information may reside or be stored on third-party servers that are leased or rented by Vitals but this information is not otherwise shared with these third-party server providers or with any other third parties, except as otherwise provided in this Privacy Policy.</p>
-<h2>INFORMATION SECURITY</h2>
+<h2 style="color: #000000;">INFORMATION SECURITY</h2>
 <p>Vitals takes reasonable and appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of its data, including Personal Information stored or maintained on its servers and other systems. These measures include internal reviews of Vitals’ data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to servers and systems where Vitals stores personal data.</p>
-<h2>DATA INTEGRITY</h2>
+<h2 style="color: #000000;">DATA INTEGRITY</h2>
 <p>Vitals processes Personal Information only for the purposes for which it was collected and in accordance with this Privacy Policy. Vitals though, must depend on You and our other users to provide, accurate, complete and current Personal Information and to update or correct their Personal Information whenever necessary. Vitals does not and cannot monitor or pre-screen the Personal Information that You provide for accuracy and completeness but takes reasonable steps to ensure that We accurately process and maintain the Personal Information that You provide.</p>
-<h2>ACCESSING AND UPDATING PERSONAL INFORMATION</h2>
+<h2 style="color: #000000;">ACCESSING AND UPDATING PERSONAL INFORMATION</h2>
 <p>Information You Provide When Registering For a Vitals Account</p>
-<p>You may change or update the e-mail address and password that You provided when You registered for Your Vitals account via the “settings” or “account settings” section of such account. If You registered separately for an account on both the Vitals website and the Vitals mobile application, changes or updates to registration information should be made separately on each account. You may terminate Your Vitals account by sending an e-mail with your account termination request to support@vitals.com.</p>
+<p>You may change or update the e-mail address and password that You provided when You registered for Your Vitals account via the “settings” or “account settings” section of such account. If You registered separately for an account on both the Vitals website and the Vitals mobile application, changes or updates to registration information should be made separately on each account. You may terminate Your Vitals account by sending an e-mail with your account termination request to &nbsp;<a style="font-weight: inherit; font-style: inherit; color: #1b8be0;" href="mailto:support@vitals.com">support@vitals.com</a>.</p>
 <p>Information You Store or Access When Using the Products and Services</p>
-<p>When you use the Products and Services, Vitals makes good faith efforts to provide you with access to Your Personal Information. You may organize or delete or change certain of the information that is entered or uploaded into Your account (such as for patients, the names of Your Healthcare Providers, pharmacies, insurance information, emergency contact information, personal health information and related information, and such as for physicians, the address where Your practice is located, Your photograph and Your practice specialty) via the section of Your account where the information is located. Where applicable, Vitals asks individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and Vitals may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case, where Vitals provides information access and correction, Vitals provides this service free of charge, except if doing so would require a disproportionate effort. If you have any questions or want more information about accessing or updating Your Personal Information, please contact Vitals by e-mail to&nbsp;<a href="mailto:support@vitals.com">support@vitals.com</a>&nbsp;or by telephone to (201) 842-0760.</p>
+<p>When you use the Products and Services, Vitals makes good faith efforts to provide you with access to Your Personal Information. You may organize or delete or change certain of the information that is entered or uploaded into Your account (such as for patients, the names of Your Healthcare Providers, pharmacies, insurance information, emergency contact information, personal health information and related information, and such as for physicians, the address where Your practice is located, Your photograph and Your practice specialty) via the section of Your account where the information is located. Where applicable, Vitals asks individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and Vitals may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case, where Vitals provides information access and correction, Vitals provides this service free of charge, except if doing so would require a disproportionate effort. If you have any questions or want more information about accessing or updating Your Personal Information, please contact Vitals by e-mail to&nbsp;<a style="font-weight: inherit; font-style: inherit; color: #1b8be0;" href="mailto:support@vitals.com">support@vitals.com</a>&nbsp;or by telephone to (201) 842-0760.</p>
 <p>All deletions, changes or updates that you make to Your Personal Information will take immediate effect. Account terminations will also take immediate effect after Vitals receives and processes Your e-mail termination request. Except for deleted information that was stored exclusively on Your mobile device, residual copies of the deleted information, including terminated account information, may take up to sixty (60) days to be deleted from active servers and may remain in perpetuity in backup systems.</p>
 <p>Deleting the Vitals mobile application from Your mobile device will not terminate Your Vitals account but will delete any information that You stored through the mobile application by means of taking a photograph with Your mobile device (“Stored Photographic Information”). Terminating Your Vitals account will not delete Stored Photographic Information unless You also delete the Vitals mobile application from Your mobile device.</p>
 <p>Please note though that according to the Terms of Use, Your Submissions to Vitals should not include any “personally identifiable information (other than the name of the Healthcare Providers being reviewed).” This Privacy Policy does not apply to any Personal Information that You may nevertheless include in your Submissions and You may not be able to change or update any such Personal Information included in Your Submissions.</p>
-<h2>ENFORCEMENT</h2>
+<h2 style="color: #000000;">ENFORCEMENT</h2>
 <p>Please direct any questions or concerns regarding this Privacy Policy or Vitals’ treatment of Personal Information by contacting Vitals at the address below. When Vitals receives formal written complaints at this address, its policy is to contact the complaining user regarding his or her concerns. Vitals will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of Personal Information that cannot be resolved between an individual and Vitals.</p>
-<h2>GENERALLY</h2>
+<h2 style="color: #000000;">GENERALLY</h2>
 <p>Please note that this Privacy Policy may change from time to time. Vitals will post any changes on this page and if You have an account on the Vitals mobile application, You will be sent an update notice to Your mobile device. Vitals encourages You to check back and review this policy periodically so that You will always know what information we collect, how we use it, and to whom we disclose it.</p>
 <p>If you have any additional questions or concerns about this Policy, please contact us at:</p>
-<h2>Vitals</h2>
+<h2 style="color: #000000;">Vitals</h2>
 <p>Attn: Legal Department</p>
 <p>210 Clay Avenue, Suite 140</p>
 <p>Lyndhurst, NJ 07071</p>
-<p>Email address&nbsp;<a href="mailto:support@vitals.com">support@vitals.com</a></p>
-<h2>CALIFORNIA PRIVACY RIGHTS</h2>
-<p>California Civil Code Section 1798.83 allows users who are California residents to request certain information about the disclosure of their Personal Information to third parties for direct marketing purposes. To make such a request, please contact us at&nbsp;<a href="mailto:support@vitals.com">support@vitals.com</a>.</p>
-<h2>MORE INFORMATION</h2>
+<p>Email address&nbsp;<a style="font-weight: inherit; font-style: inherit; color: #1b8be0;" href="mailto:support@vitals.com">support@vitals.com</a></p>
+<h2 style="color: #000000;">CALIFORNIA PRIVACY RIGHTS</h2>
+<p>California Civil Code Section 1798.83 allows users who are California residents to request certain information about the disclosure of their Personal Information to third parties for direct marketing purposes. To make such a request, please contact us at&nbsp;<a style="font-weight: inherit; font-style: inherit; color: #1b8be0;" href="mailto:support@vitals.com">support@vitals.com</a>.</p>
+<h2 style="color: #000000;">MORE INFORMATION</h2>
 <p>Vitals adheres to the United States of America safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. For more information about the Safe Harbor framework, please visit the U.S. Department of Commerce’s website or http://export.gov/safeharbor.</p>
-<h2>SEVERABILITY</h2>
+<h2 style="color: #000000;">SEVERABILITY</h2>
 <p>If any provision of this Privacy Policy is found to be illegal, void, or unenforceable, that provision will be deemed severed from the balance of the agreement and will not affect the validity and enforceability of the remaining provisions, which will continue in full force and effect.</p>
-<p>This Privacy Policy was lasted updated on&nbsp;<strong>June 6th, 2012</strong>.</p>
+<p>This Privacy Policy was lasted updated on&nbsp;<strong style="font-style: inherit; color: inherit;">June 6th, 2012</strong>.</p>
 <p>Copyright © 2012 MDx Medical, Inc. All Rights Reserved. Material cannot be reproduced without the express written permission of MDx.</p>
-		</div>
-	</section>
+	
+							
+	
+		</div><!--/row-->
+		
+	</div><!--/container-->
+	
+</div>
 
-		</div>
-	</div>
-
+<div id="footer-outer">
+	
 			
-		</div>
-
+		<div class="row" id="copyright">
+			
+			<div class="container">
+				
+				<div class="col span_5">
+					
+											<p>Copyright © 2006 - 2014 Vitals.com &amp; MDx Medical, Inc. All Rights Reserved. </p>	
+										
+				</div><!--/span_5-->
+				
+				<div class="col span_7 col_last">
+					<ul id="social">
+						 <li><a target="_blank" href="https://twitter.com/Vitals"><i class="icon-twitter"></i> </a></li> 						 <li><a target="_blank" href="https://www.facebook.com/Vitals"><i class="icon-facebook"></i> </a></li> 																		 <li><a target="_blank" href="http://linkedin.com/company/vitals.com"><i class="icon-linkedin"></i> </a></li> 																																										 <li><a target="_blank" href="https://plus.google.com/109757812976729713284"><i class="icon-google-plus"></i> </a></li> 																							</ul>
+				</div><!--/span_7-->
+			
+			</div><!--/container-->
+			
+		</div><!--/row-->
 		
-	<footer>
-		<div id="top-specialties">
-	<div class="find-by-nav">
-		<div class="contain">
-			<span>Find Doctors By:</span>
-			<a href="http://www.vitals.com/doctors#spec_state_city" class="toggle-specialties">Specialty</a> |
-			<a href="http://www.vitals.com/doctors#name">Name</a> |
-			<a href="http://www.vitals.com/group-practice">Group Practice</a>		</div>
-	</div>
-
-	<div class="specialty-list">
-		<a href="#Close" class="close">Close</a>
-
-		<div class="contain">
-			<dl>
-				<dt>Doctors by Specialist Type</dt>
-				<dd><a href="http://www.vitals.com/specialists/allergists">Allergists &amp; Immunologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/anesthesiologists">Anesthesiologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/cardiologists">Cardiologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/critical-care-practitioners">Critical Care Practitioners</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/dentists">Dentists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/dermatologists">Dermatologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/emergency-physicians">Emergency Physicians</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/endocrinologists">Endocrinologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/gastroenterologists">Gastroenterologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/geriatric-doctors">Geriatric Doctors</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/hematologists">Hematologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/infectious-disease-doctors">Infectious Disease Doctors</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/nephrologists">Nephrologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/neurologists">Neurologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/oncologists">Oncologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/ophthalmologists">Ophthalmologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/otolaryngologists">Otolaryngologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/pain-management-doctors">Pain Management Doctors</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/pathologists">Pathologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/physiatrists">Physiatrists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/pulmonologists">Pulmonologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/psychiatrists">Psychiatrists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/radiation-oncologists">Radiation Oncologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/radiologists">Radiologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/rheumatologists">Rheumatologists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/sleep-medicine-doctors">Sleep Medicine Doctors</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/sports-medicine-doctors">Sports Medicine Doctors</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/urologists">Urologists</a></dd>
-
-				<dt>Children's Doctors</dt>
-				<dd><a href="http://www.vitals.com/specialists/adolescent-specialists">Adolescent Specialists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/child-psychiatrists">Pediatric &amp; Adolescent Psychiatrists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/pediatric-specialists">Pediatric Specialists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/pediatricians">Pediatricians</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/pediatric-surgeons">Pediatric Surgeons</a></dd>
-
-				<dt>Primary Care Doctors</dt>
-				<dd><a href="http://www.vitals.com/specialists/family-physicians">Family Physicians</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/internists">Internists</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/general-practitioners">General Practitioners</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/obstetricians-gynecologists">Obstetricians &amp; Gynecologists</a></dd>
-
-				<dt>Surgeons</dt>
-				<dd><a href="http://www.vitals.com/specialists/cardiothoracic-surgeons">Cardiothoracic Surgeons</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/colorectal-surgeons">Colorectal Surgeons</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/neurological-surgeons">Neurological Surgeons</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/oral-maxillofacial-surgeons">Oral &amp; Maxillofacial Surgeons</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/orthopedic-surgeons">Orthopedic Surgeons</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/plastic-surgeons">Plastic Surgeons</a></dd>
-				<dd><a href="http://www.vitals.com/specialists/surgeons">Surgeons</a></dd>
-			</dl>
-
-			<div class="see-all"><a href="http://www.vitals.com/specialists">See All Specialists</a></div>
-		</div>
-	</div>
-</div>
-		<div class="contain">
-			<p class="brief">Let us help you find and review doctors, make an appointment and prepare for your doctor visit.</p>
-<div class="sitemap">
-	<div class="contain">
-			<a href="http://www.vitals.com/about">About</a> |
-			<a href="http://www.vitals.com/about/contact">Contact Us</a> |
-			<a href="http://www.vitals.com/about/advertise">Advertise With Us</a> |
-			<a href="http://www.vitals.com/about/providers">For Hospitals &amp; Doctors</a> |
-			<a href="http://www.vitals.com/about/healthplans">For Health Plans</a> |
-			<a href="http://www.vitals.com/about/contact">Partner With Us</a> |
-			<a href="http://spotlight.vitals.com">Blog</a> |
-			<a href="http://www.vitals.com/privacy" class=" current">Privacy Policy</a> |
-			<a href="http://www.vitals.com/terms-of-use">Terms Of Use</a>			<p id="footer_improve_text" class="brief">Is something missing or incorrect? </p>
-			<a href="http://www.vitals.com/about/contact">Help Us Improve</a>	</div>
-	<div class="extras small">
-		<div class="newsletter-signup">
-			<div class="newsletter-origin">
-	<form action="/newsletter/subscribe" method="post" id="newsletter-form">
-		<p class="brief">Get the Vitals Newsletter</p>
-		<input name="email" placeholder="Enter your e-mail address" id="email-field">
-		<div class="newsletter-button">
-			<input type="submit" name="submit" id="newsletter-submit" value="Sign Up">
-		</div>
-		<div id="newsletter-tagline">Sign up for the latest Health News, Updates, and More</div>
-		<div id="newsletter-error"></div>
-	</form>
-</div>
-<div class="newsletter-success">
-	<div id="success-banner">
-		Thank You!
-	</div>
-	<div id="success-data">
-		<strong><span class="useremailarea"></span></strong> has successfully been added to our mailing list. You'll begin receiving the latest news from Vitals.com shortly.
-	</div>
-</div>
-
-		</div>
-
-		<div class="social">
-			<p class="brief"><span id="footer_follow_text">Follow Us&nbsp;&nbsp;</span>
-				<a href="https://www.facebook.com/Vitals" target="_blank" class="facebook">Follow us on Facebook</a>
-				<a href="https://twitter.com/Vitals" target="_blank" class="twitter">Follow us on Twitter</a>
-				<a href="https://plus.google.com/109757812976729713284" target="_blank" class="google">Follow us on Google+</a>
-				<a href="http://pinterest.com/VitalsCom" target="_blank" class="pinterest">Follow us on Pinterest</a>
-			</p>
-		</div>
-	</div>
-	<div class="adChoice pull-right"><a href="http://www.vitals.com/privacy#adchoices">Your AdChoices</a><span></span></div>
-</div>			<hr>
-			<div class="final">
-				<p>Copyright © 2006 - 2014 Vitals.com &amp; MDx Medical, Inc. All Rights Reserved.</p>
-				<p><a href="http://www.vitals.com/terms-of-use" data-category="TermsLinks"><img src="http://static2.vitals.mdxdata.com/img/template/tos.png" width="954" height="62" data-label="footer_TOU" alt=""></a></p>
-			</div>
-		</div>
-	</footer>
+	
+</div><!--/footer-outer-->
 
 
-		<div class="modal" id="modal"></div>
+	<a id="to-top"><i class="icon-angle-up"></i></a>
 
-		<!-- Global Scripts -->
-		<script type="text/javascript" src="http://static2.vitals.mdxdata.com/js/compiled/global.manifest.b3571330.js"></script>
-		<!-- Page Specific Scripts -->
-		
+<script type="text/javascript">
 
-		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"435186637e","applicationID":"1058575","transactionName":"NlQGbEZRXBcFU0ZeDA8eJ01HRF0JS2BTUAYSHhJRUUdRCRc=","queueTime":0,"applicationTime":566,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>					
+var _gaq = _gaq || [];
+_gaq.push(['main._setAccount','UA-2543312-1']); 
+_gaq.push(['_setAccount','UA-2543312-17']); 
+_gaq.push(['main._trackPageview']); 
+_gaq.push(['_trackPageview']); 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+(function(){
+var ga=document.createElement('script'); ga.type='text/javascript'; ga.async=true;
+ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);
+})();
+
+</script> 
+
+<script type="text/javascript">
+
+var addthis_config = {"data_track_clickback":true,"data_track_addressbar":false,"data_track_textcopy":true,"ui_atversion":"300"};
+var addthis_product = 'wpp-3.5.9';
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-503d4124709d2f7c"></script><script type="text/javascript">addthis.layers({});</script><script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-includes/js/jquery/ui/jquery.ui.menu.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-includes/js/jquery/ui/jquery.ui.autocomplete.min.js?ver=1.10.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var MyAcSearch = {"url":"http:\/\/vitalschoice.vitals.wpengine.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/nectar/assets/functions/ajax-search/wpss-search-suggest.js"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/vitalschoice.vitals.wpengine.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/js/superfish.js?ver=1.4.8"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/js/easing.js?ver=1.3"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/js/respond.js?ver=1.1"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/js/swipe.min.js?ver=1.6"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/js/nicescroll.js?ver=3.5.4"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/js/sticky.js?ver=1.0"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/js/prettyPhoto.js?ver=4.0"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/wpbakery/js_composer/assets/lib/flexslider/jquery.flexslider-min.js?ver=3.7.3"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/wpbakery/js_composer/assets/lib/isotope/jquery.isotope.min.js?ver=3.7.3"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/js/imagesLoaded.min.js?ver=3.1.1"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/js/carouFredSel.min.js?ver=6.2"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/js/appear.js?ver=1.0"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/js/init.js?ver=4.0"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/js/blog-masonry.js?ver=3.15"></script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-includes/js/comment-reply.min.js?ver=4.0.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var nectarLove = {"ajaxurl":"http:\/\/vitalschoice.vitals.wpengine.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://vitalschoice.vitals.wpengine.com/wp-content/themes/salient/nectar/love/js/nectar-love.js?ver=1.0"></script>
+<!--wp_footer-->	
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"435186637e","applicationID":"1058575","transactionName":"NlQGbEZRXBcFU0ZeDA8eJ01HRF0JS2ddRQcxQwFLR2BACxxJHV4NBVQc","queueTime":0,"applicationTime":51,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
