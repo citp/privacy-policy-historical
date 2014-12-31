@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickrover.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114503id_/http%3A//www.clickrover.com/index.php/categoryblog/62-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickrover.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231041008id_/http%3A//www.clickrover.com/index.php/categoryblog/62-privacy-policy) for the most accurate reproduction.*
 
 # Click Rover affiliate network privacy policy.
 
