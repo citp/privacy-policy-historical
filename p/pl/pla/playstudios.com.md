@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the playstudios.com privacy policy that was archived on 2014-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140324054814id_/http%3A//playstudios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstudios.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231060111id_/http%3A//playstudios.com/privacy) for the most accurate reproduction.*
 
 # PLAYSTUDIOS Privacy Policy | MyVegas
-
-**YOU ARE PARTICIPATING IN A BETA TRIAL OF THE MYVEGAS MOBILE APPLICATION. THIS BETA TRIAL IS FOR TESTING PURPOSES ONLY, AND NOT ALL FEATURES AND FUNCTIONALITIES DESCRIBED HEREIN ARE AVAILABLE AT THIS TIME. WE WILL RETAIN ANY INFORMATION, INCLUDING PERSONAL INFORMATION, THAT WE COLLECT FROM YOU DURING THE BETA TRIAL. PLEASE CHECK BACK TO VIEW THE MOST UP-TO-DATE VERSION OF THIS POLICY.**
 
 PLAYSTUDIOS, Inc. (“PLAYSTUDIOS”,” “we,” “us” or “our”) values your privacy. We offer a variety of games through various means, including our mobile application and our Facebook application (collectively, our “Applications”). On our website [www.myVEGAS.com](http://www.myvegas.com/) (the “Site”), we provide information about our products and services, including those games, and how you may redeem certain points that you earn through the Applications. In this Privacy Policy (“Policy”), we describe how we collect, use, and disclose information that we obtain about visitors to our Site and our Applications, and the services offered on each (collectively, “Services”).
 
