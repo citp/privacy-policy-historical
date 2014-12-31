@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the d5creation.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090323id_/http%3A//d5creation.com/about/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d5creation.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231165950id_/http%3A//d5creation.com/pp) for the most accurate reproduction.*
 
-# Privacy Policy » D5 Creation
+# Privacy Policy | D5 Creation
 
 D5 Creation has created this Privacy Policy in order to demonstrate our commitment to the privacy and protection of your information. As part of the normal operation of services, we collect and, in some instances, disclose information about you. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
