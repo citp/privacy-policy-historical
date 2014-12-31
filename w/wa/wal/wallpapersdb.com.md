@@ -1,67 +1,145 @@
-> *The following text is extracted and transformed from the wallpapersdb.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216025104id_/http%3A//wallpapersdb.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapersdb.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231060445id_/http%3A//themeforest.net/legal/privacy) for the most accurate reproduction.*
 
-# Privacy policy - http://wallpapersdb.com/
+# Privacy Policy | ThemeForest
 
-### Privacy Policy
+Envato Pty Ltd ( **Envato** ) has developed this Privacy Policy (“Policy”) to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming an Envato Market member and/or using the Envato Market sites ( **Sites** ), included but not limited to
 
-This Privacy Policy governs the manner in which http://wallpapersdb.com/ collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://http://wallpapersdb.com/](http://http//wallpapersdb.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by http://wallpapersdb.com/.
+Site Name: | Accessible at:  
+---|---  
+ActiveDen | [www.activeden.net](http://www.activeden.net/)  
+AudioJungle | [www.audiojungle.net](http://www.audiojungle.net/)  
+CodeCanyon | [www.codecanyon.net](http://www.codecanyon.net/)  
+GraphicRiver | [www.graphicriver.net](http://www.graphicriver.net/)  
+ThemeForest | [www.themeforest.net](http://www.themeforest.net/)  
+VideoHive | [www.videohive.net](http://www.videohive.net/)  
+3DOcean | [www.3docean.net](http://www.3docean.net/)  
+PhotoDune | [www.photodune.net](http://photodune.net/)  
+  
+This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the Envato Market Terms Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the Site. 
 
-**Personal identification information**
+## Information About Children
 
-We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Children (persons under the age of 18 years) are not eligible to use our services unsupervised and we ask that children not submit any personal information to us. If you are under the age of 18 years, you can browse the Site only in conjunction with and under the supervision of your parents or guardians. If you are under 18 years of age you cannot use the Membership Section of the Site.
 
-**Non-personal identification information**
+It is the responsibility of parents to monitor their children’s use of our Site.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+## Information Collection
 
-**Web browser cookies**
+### PART A – The Public Generally
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our primary purpose in collecting personal information is to provide you with a safer trading experience and encourage commerce between buyers and sellers using the Site as a venue. We only collect personal information about you that we consider necessary for this purpose and to achieve this goal.
 
-**How we use collected information**
+You are under no obligation to provide us with this information and can access many aspects of the Site without providing us any personal information.
 
-http://wallpapersdb.com/ may collect and use Users personal information for the following purposes:
+When you visit this website, we can record certain information in relation to your visit such as:
 
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To send periodic emails_  
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * Your IP or proxy server IP;
+  * Basic domain information;
+  * Your Internet service provider is sometimes captured depending on the configuration of your ISP connection;
+  * The date and time of your visit to the website;
+  * The length of your session;
+  * The pages which you have accessed;
+  * The number of times you access our site within any month;
+  * The size of file you look at;
+  * The website which referred you to our website; and
+  * The operating system which your computer uses.
 
 
 
-**How we protect your information**
+This information is only used for statistical and website development purposes.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+Various pages on this Site invite you to provide us your name and contact details, for example, to go onto our mailing list for our newsletter, enter competitions, or to enable us to provide you with web site related services such as notifications.
 
-**Sharing your personal information**
+If you use our Site’s feedback and support forms, you are asked to provide your name, organisation, title, address, email address and telephone number. Envato will not otherwise collect information from you through this Site unless you knowingly provide it to us.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us.
 
-**Third party websites**
+The Site uses session cookies, which are used only during a browsing session, and expire when you quit your browser. Upon closing your browser, the session cookie set by this Site is destroyed and no personal information is maintained which might identify you should you visit our Site at a later date.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+If you choose to buy or sell on our Site, we collect information about your buying and selling behaviour. This information is only used for statistical and website development purposes.
 
-**Advertising**
+Please note that when you voluntarily disclose information on the bulletin boards or in the forums or in the chat areas of the Site or in member profile pages, your personal and other information disclosed in your communication shall become public information and can be collected and used by other parties. We cannot control what third parties in the bulletin board, forums, chat room or member profile pages do with your personal information.
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+### PART B – Members
 
-**Google Adsense**
+We collect information from people who use the Membership Section of our Site (“Members”). This information may be used:
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+  1. to send news, information about our activities and general promotional material which we believe may be useful to you or us; 
+  2. to monitor who is accessing the membership section of the Site or using services offered on the Site; and
+  3. to profile the type of people accessing the Site.
 
-**Changes to this privacy policy**
 
-http://wallpapersdb.com/ has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**Your acceptance of these terms**
+If you choose to buy or sell on our Site we collect information about your buying and selling behaviour.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+If you use a payment facilitator on the Site, we collect additional necessary information, including but not limited to billing address, credit card number and credit card expiry date.
 
-**Contacting us**
+#### USE OF INFORMATION AND DISCLOSURE
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[http://wallpapersdb.com/](http://http//wallpapersdb.com/)  
-[http://http://wallpapersdb.com/](http://http//wallpapersdb.com/)  
-info@http://wallpapersdb.com/
+Envato will only use the information it collects through the Site for the following purposes:
 
-This document was last updated on March 21, 2013
+  1. Forwarding important information relating to Envato activities and other requested information;
+  2. Contacting you in response to your feedback or query to discuss our services;
+  3. Monitoring Site performance;
+  4. Improving our Site and services to you;
+  5. Internal administration; and
+  6. Other purposes that are in accordance with your instructions.
+
+
+
+Envato will not give, sell, trade or otherwise disclose any personal information about you to a third party unless:
+
+  * You have provided us with your consent; or
+  * We are required to do so by law.
+
+
+
+#### COOKIES AND ADVERTISING
+
+Occasionally, we may use third party advertising companies to serve ads based on prior visits to the Site. These advertising companies use cookies to anonymously collect data.
+
+No personally identifiable information is collected by these cookies. The anonymous data they collect is kept separate from the personal information in your Member account.
+
+You can opt out of third party advertising cookies at any time by visiting this page: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+We (and authors who sell items on any of our Envato Market sites) use third party analytics services that use cookies to record general site usage information - like page visits and the way users move between pages on the Site. This general site analytics information is not matched to your user account.
+
+Other cookies are used to enhance your use of the Site, such as remembering that you are logged in. You are able to minimise or block cookies using the privacy settings in your internet browser, but this may restrict your use of the Site. For general information on cookies, see <http://www.allaboutcookies.org/>.
+
+#### ACCESS AND / OR CORRECTION OF YOUR DETAILS
+
+You may request access to your personal information and can ask us to correct your personal information.
+
+You can do this by emailing [legal@envato.com](mailto:legal@envato.com)
+
+#### DISCLAIMER
+
+This Site contains links to other sites. Envato is not responsible for the privacy practices of linked sites. Underlined words and phrases are click-through links or hyperlinks to pages and websites. Envato strongly recommends that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you
+
+#### SECURITY
+
+This Site has security measures in place to protect the loss or misuse of, or alteration or unauthorised access to, information under our control. However, if you send information from this Site, it will not be encrypted unless we expressly tell you it is.
+
+#### AMENDMENTS TO THE PRIVACY POLICY
+
+We may change this Policy. Such changes will be effective when a notice of the change is made available on the Site. We will provide you with thirty (30) days notice to allow you the opportunity to notify Envato if you do not agree to such changes.
+
+#### OPT – OUT PROVISION
+
+To protect you from unwanted email communications, Envato adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by [contacting support](https://help.market.envato.com/) or follow the instructions in the “Opt-Out” section of the email you have received.
+
+If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:
+
+  1. we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure; 
+  2. we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for governmental or public security in the performance of their functions; or 
+  3. we are required by law to disclose the information.
+
+
+
+#### INTERNATIONAL TRANSFER OF INFORMATION
+
+Our servers and information processing equipment are located in a number of countries around the world, thus the information collected from you will be stored in these countries. By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us, including the transfer to another jurisdiction other than Australia.
+
+#### FURTHER INFORMATION
+
+For further information about Envato’s privacy policy, please [contact support](https://help.market.envato.com/).
