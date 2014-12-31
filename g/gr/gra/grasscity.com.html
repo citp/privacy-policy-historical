@@ -1,14 +1,25 @@
-<!--The following is the downloaded HTML source of the grasscity.com privacy policy that was archived on 2014-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622222508id_/http%3A//www.grasscity.com/us_en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grasscity.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231162951id_/http%3A//www.grasscity.com/us_en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://cdn.ywxi.net/js/1.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/QvyKdIYGxFLZGZtXyT4lH8aosganVDjxarcO6FAK/widget.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMEUl9bGwAIV1dUBQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/7297.js?439021" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdn.ywxi.net/js/1.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/QvyKdIYGxFLZGZtXyT4lH8aosganVDjxarcO6FAK/widget.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMEUl9bGwAIV1dUBQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <title>Privacy Policy - Grasscity.com</title>
-<meta name="description" content="Bongs, waterpipes, glass pipes, smoking accessories">
-<meta name="keywords" content="Bongs, waterpipes, glass pipes, glass pipe bong, herb grinders, grasscity, headshop, rolling accessories, smoking accessorries, water pipes, rolling papers, rolling paper, herbal highs, smartshop, color changing glass">
+<meta name="description" content="Bongs, bong,  waterpipes, glass pipes, smoking accessories, concentrate tools, headshop">
+<meta name="keywords" content="Bongs, bong, waterpipes, glass pipes, glass pipe bong, herb grinders, grasscity, headshop, rolling accessories, smoking accessories, water pipes, rolling papers, rolling paper, herbal highs, smart shop, color changing glass">
 <meta name="robots" content="INDEX,FOLLOW">
 <link rel="icon" href="http://st.grscty.com/skin/frontend/enterprise/grasscity/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://st.grscty.com/skin/frontend/enterprise/grasscity/favicon.ico" type="image/x-icon">
+
+<link rel="alternate" href="http://www.grasscity.com/int_en/" hreflang="en-int">
+<link rel="alternate" href="http://www.grasscity.com/uk_en/" hreflang="en-uk">
+<link rel="alternate" href="http://www.grasscity.com/eu_en/" hreflang="en-eu">
+<link rel="alternate" href="http://www.grasscity.com/eu_fr/" hreflang="fr">
+<link rel="alternate" href="http://www.grasscity.com/eu_it/" hreflang="it">
+<link rel="alternate" href="http://www.grasscity.com/int_es/" hreflang="es-int">
+<link rel="alternate" href="http://www.grasscity.com/eu_es/" hreflang="es-eu">
+<link rel="alternate" href="http://www.grasscity.com/eu_de/" hreflang="de">
+<link rel="alternate" href="http://www.grasscity.com/eu_nl/" hreflang="nl">
+
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
@@ -18,18 +29,17 @@
 </script>
 <![endif]-->
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://st.grscty.com/media/po_compressor/4/css/merged_handles/5098c2288e910d5e90259aa953914d6f/if/a595c2e6c4c7d8e883a2a4dcb70d0cd3.css"/>
+<link rel="stylesheet" type="text/css" href="http://st.grscty.com/media/po_compressor/2/css/prepared/common/if/67a552d973fcc29915ca073b9e6fb69c.css"/>
 <![endif]-->
-<link rel="stylesheet" media="print" type="text/css" href="http://st.grscty.com/media/po_compressor/4/css/merged_handles/5098c2288e910d5e90259aa953914d6f/params/4dd4ddad1fcc9a9e21c8105803d8c687.css">
-<link rel="stylesheet" media="all" type="text/css" href="http://st.grscty.com/media/po_compressor/4/css/merged_handles/5098c2288e910d5e90259aa953914d6f/params/b5d57e7b9d2a4c1bf6807aa12beb4d2b.css">
+<link rel="stylesheet" media="all" type="text/css" href="http://st.grscty.com/media/po_compressor/2/css/prepared/common/params/1200b4adaa2ac2d724a230aa975c0fc2.css">
+<link rel="stylesheet" media="print" type="text/css" href="http://st.grscty.com/media/po_compressor/2/css/prepared/common/params/a10a72972e4fc9b99e05b816b6427aed.css">
 <link href="http://www.grasscity.com/us_en/rss/catalog/new/store_id/4/" title="New Products" rel="alternate" type="application/rss+xml">
 <link href="http://www.grasscity.com/us_en/rss/catalog/special/store_id/4/cid/0/" title="Special Products" rel="alternate" type="application/rss+xml">
 <link href="http://www.grasscity.com/us_en/rss/catalog/salesrule/store_id/4/cid/0/" title="Coupons/Discounts" rel="alternate" type="application/rss+xml">
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://st.grscty.com/media/po_compressor/4/js/prepared/common/if/b137cb3e1add7823406f3076309f314d.js"></script>
+<script type="text/javascript" src="http://st.grscty.com/media/po_compressor/2/js/merged_handles/27c1f7c9cff2ab2a23c70a8e685e7eb3/if/49242bec5afcf8adda2a7692cf0acf00.js"></script>
 <![endif]-->
-<script type="text/javascript" src="http://st.grscty.com/media/po_compressor/4/js/prepared/common/common/2b3e7e25a377b6190dfd8e8f8209e4e5.js"></script>
-<script type="text/javascript" src="http://st.grscty.com/media/po_compressor/4/js/prepared/default/common/c56caf1933fbfc9189350dadaa2c15c8.js"></script>
+<script type="text/javascript" src="http://st.grscty.com/media/po_compressor/2/js/merged_handles/27c1f7c9cff2ab2a23c70a8e685e7eb3/common/80ca1638fdea53b7902e5d4454af8fcf.js"></script>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -43,13 +53,13 @@ Mage.Cookies.domain   = '.grasscity.com';
 optionalZipCountries = [];
 //]]>
 </script>
+
+
+<!-- Nosto Tagging Script -->
 <script type="text/javascript">
 //<![CDATA[
-var ips = new IPS(jQuery, {"url":"http:\/\/api-eu1.predictiveintent.com\/ips","code":"grasscity","cred":"grasscity","id":"164","permid":"personalmerchant","referrer_code":""});
-jQuery(document).ready(function($) {
-ips.handleReferringSearch("refer", {"lang":"4"});
-ips.handleNotification("browse", {"data":"PAGE:6","cname":"Privacy Policy","suggestible":"N","contentType":"cmspage","cbtt":null,"lang":"4","contentOrigin":"magento-store"});
-});
+window.embedjs=function(c,g){function h(){window.hasLoaded=!0}function i(a){return["<he","ad></he","ad><bo","dy onload=\"var d=document;d.getElementsByTagName('he","ad')[0].appendChild(d.createElement('scr","ipt')).src='",a,"'\"></bo","dy>"].join("")}window.addEventListener?window.addEventListener("load",h,!1):window.attachEvent("onload",h);var d=document.body;if(!d)return setTimeout(function(){embedjs(c,g)},100);var b=document.location.protocol;b=(b=="https:"?b:"http:")+"//"+c+g;var e=document.createElement("div"),k=e.appendChild(document.createElement("div")),a=document.createElement("iframe");e.style.display="none";d.insertBefore(e,d.firstChild).id="embedjs-"+c;a.frameBorder="0";a.id="embedjs-frame-"+c;/MSIE[ ]+6/.test(navigator.userAgent)&&(a.src="javascript:false");a.allowTransparency="true";k.appendChild(a);var f;try{a.contentWindow.document.open()}catch(l){f="javascript:var d=document.open();d.domain='"+document.domain+"';",a.src=f+"void(0);"}try{var j=a.contentWindow.document;j.write(i(b));j.close()}catch(m){a.src=f+'d.write("'+i(b).replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}};
+embedjs('connect.nosto.com', '/include/vrdehhtg');
 //]]>
 </script><script type="text/javascript">
 (function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/QvyKdIYGxFLZGZtXyT4lH8aosganVDjxarcO6FAK/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
@@ -58,25 +68,11 @@ ips.handleNotification("browse", {"data":"PAGE:6","cname":"Privacy Policy","sugg
         //]]></script><script language="javascript" type="text/javascript"> 
 var sliJsHost = (("https:" == document.location.protocol) ? "https://" : "http://"); 
 document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'assets.resultspage.com/js/rac/sli-rac.0.4.css" /%3E')); 
-document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'grasscity.resultslist.com/rac/sli-rac.css?rev=100160" /%3E')); 
-</script><link rel="stylesheet" type="text/css" href="https://assets.resultspage.com/js/rac/sli-rac.0.4.css"><link rel="stylesheet" type="text/css" href="https://grasscity.resultslist.com/rac/sli-rac.css?rev=100160">
+document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'grasscity.resultspage.com/rac/sli-rac.css?rev=100160" /%3E')); 
+</script><link rel="stylesheet" type="text/css" href="https://assets.resultspage.com/js/rac/sli-rac.0.4.css"><link rel="stylesheet" type="text/css" href="https://grasscity.resultspage.com/rac/sli-rac.css?rev=100160">
 
-<meta name="google-site-verification" content="wdcInaVWOB3AYYHZ5OiMUnZpKwn08GxWlooRXfeU2-M">
-
-
-
-<script type="text/javascript">
-var clicky_site_ids = clicky_site_ids || [];
-clicky_site_ids.push(100678819);
-(function() {
-  var s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.async = true;
-  s.src = '//static.getclicky.com/js';
-  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-})();
-</script><script type="text/javascript" async="" src="//static.getclicky.com/js"></script><script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '1bd595c6ff389d4f97c1a50387a240f1')</script></head>
-<body class=" cms-page-view cms-privacy-policy">
+<meta name="google-site-verification" content="wdcInaVWOB3AYYHZ5OiMUnZpKwn08GxWlooRXfeU2-M"><script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '1bd595c6ff389d4f97c1a50387a240f1')</script></head>
+<body class=" cms-page-view cms-privacy-policy"><div id="embedjs-connect.nosto.com" style="display: none;"><div><iframe frameborder="0" id="embedjs-frame-connect.nosto.com"></iframe></div></div>
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
 //<![CDATA[
@@ -87,13 +83,2384 @@ _gaq.push(['_trackPageview']);
     
     (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 
 //]]>
 </script>
 <!-- END GOOGLE ANALYTICS CODE -->
+
+
+<!-- Nosto Cart Tagging -->
+<div class="nosto_cart" style="display:none">
+        <div class="line_item">
+        <span class="product_id">3663</span>
+        <span class="quantity">1</span>
+        <span class="name">Bamboo bong with leaf</span>
+        <span class="unit_price">27.65</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7977</span>
+        <span class="quantity">5</span>
+        <span class="name">Black Leaf - 3-arm Perc Tube with Ash Catcher - Green</span>
+        <span class="unit_price">76.19</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7610</span>
+        <span class="quantity">2</span>
+        <span class="name">Black Leaf - 3-arm Tree Perc Glass Tube</span>
+        <span class="unit_price">62.08</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">11382</span>
+        <span class="quantity">2</span>
+        <span class="name">Black Leaf - Inline Perc Teardrop Precooler With Adapter</span>
+        <span class="unit_price">50.23</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">11212</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - Saxo Glass Tube with Inline Perc and 8-arm Perc</span>
+        <span class="unit_price">224.61</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4608</span>
+        <span class="quantity">2</span>
+        <span class="name">Glass pipe</span>
+        <span class="unit_price">13.54</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4213</span>
+        <span class="quantity">4</span>
+        <span class="name">Liquid Freezer Vaporizing Glass Handpipe</span>
+        <span class="unit_price">25.40</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5620</span>
+        <span class="quantity">1</span>
+        <span class="name">Papa Joy Glass Bong</span>
+        <span class="unit_price">53.61</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6064</span>
+        <span class="quantity">1</span>
+        <span class="name">Small Glass Bong</span>
+        <span class="unit_price">14.39</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9215</span>
+        <span class="quantity">2</span>
+        <span class="name">Beaker Based Bong -  The Lotus - Teal &amp; Red</span>
+        <span class="unit_price">667.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">11571</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - 8-arm Tree Perc Precooler - Recessed Joint - 90 Degree Joint</span>
+        <span class="unit_price">73.84</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">11381</span>
+        <span class="quantity">2</span>
+        <span class="name">Black Leaf - Triple Perc Precooler With Adapter</span>
+        <span class="unit_price">111.74</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">11153</span>
+        <span class="quantity">2</span>
+        <span class="name">Blaze Glass - Shower Perc Downstem Precooler With Adapter - Clear</span>
+        <span class="unit_price">95.49</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">11020</span>
+        <span class="quantity">1</span>
+        <span class="name">Weed Star - 8-arm Tree Perc Precooler 18.8mm</span>
+        <span class="unit_price">39.50</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10981</span>
+        <span class="quantity">1</span>
+        <span class="name">Weed Star - Circ Perc Precooler 18.8mm</span>
+        <span class="unit_price">31.04</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7963</span>
+        <span class="quantity">1</span>
+        <span class="name">Weed Star Bubble II Precooler - 14.5 mm</span>
+        <span class="unit_price">20.46</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7647</span>
+        <span class="quantity">1</span>
+        <span class="name">Weed Star inline precooler</span>
+        <span class="unit_price">44.02</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3467</span>
+        <span class="quantity">1</span>
+        <span class="name">Acryl bong colored</span>
+        <span class="unit_price">20.03</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3625</span>
+        <span class="quantity">1</span>
+        <span class="name">Anodized aluminium pipe</span>
+        <span class="unit_price">13.27</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7976</span>
+        <span class="quantity">6</span>
+        <span class="name">Black Leaf - 3-arm Perc Tube with Ash Catcher - Blue</span>
+        <span class="unit_price">76.19</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4619</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass shabong</span>
+        <span class="unit_price">21.95</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9029</span>
+        <span class="quantity">2</span>
+        <span class="name">Weed Star - Smellchecker Stemless Glass Tube with Inline Perc</span>
+        <span class="unit_price">134.88</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6666</span>
+        <span class="quantity">1</span>
+        <span class="name">Wood Pure Pipe</span>
+        <span class="unit_price">11.23</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3474</span>
+        <span class="quantity">1</span>
+        <span class="name">Acryl bong double colored</span>
+        <span class="unit_price">39.50</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3554</span>
+        <span class="quantity">2</span>
+        <span class="name">Acrylic pipe</span>
+        <span class="unit_price">20.88</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3589</span>
+        <span class="quantity">3</span>
+        <span class="name">Amber glass bong with curl</span>
+        <span class="unit_price">44.87</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">11192</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - 8-arm Perc Recessed Joint Precooler With Adapter</span>
+        <span class="unit_price">44.58</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">14302</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - ELITE Beaker Base 6-arm Perc Tube - Carb Hole - Blue</span>
+        <span class="unit_price">111.74</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9678</span>
+        <span class="quantity">2</span>
+        <span class="name">Black Leaf - ELITE Cylinder 6-arm Perc Tube - No Carb Hole</span>
+        <span class="unit_price">101.58</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">11648</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - Saxo Inline Perc Beaker Base Glass Tube</span>
+        <span class="unit_price">66.59</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">15415</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - Whirlwind Stemless Turbine Perc Glass Tube - 45cm</span>
+        <span class="unit_price">66.59</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">8412</span>
+        <span class="quantity">2</span>
+        <span class="name">Colored Slide</span>
+        <span class="unit_price">40.35</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4241</span>
+        <span class="quantity">2</span>
+        <span class="name">Double Percolator Bubbler Pipe</span>
+        <span class="unit_price">201.76</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10213</span>
+        <span class="quantity">2</span>
+        <span class="name">G-Spot Glass Spoon Pipe - Black with Rasta Stripes</span>
+        <span class="unit_price">45.43</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7513</span>
+        <span class="quantity">2</span>
+        <span class="name">G-Spot Steamroller Pipe</span>
+        <span class="unit_price">33.30</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4382</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Bubble Base Mini Tube - Fumed Cobalt Blue Glass</span>
+        <span class="unit_price">52.77</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6874</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Spoon Pipe - Heavy Gold Fume with Small Heart</span>
+        <span class="unit_price">31.04</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4578</span>
+        <span class="quantity">2</span>
+        <span class="name">Glass Waterpipe - You Beauty</span>
+        <span class="unit_price">87.47</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">14802</span>
+        <span class="quantity">1</span>
+        <span class="name">Grace Glass - 18-arm Perc Cylinder 7mm Glass Tube with 6-arm Diffuser Downstem - Blue</span>
+        <span class="unit_price">177.21</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10113</span>
+        <span class="quantity">1</span>
+        <span class="name">ROOR - Stash Jar - Small</span>
+        <span class="unit_price">23.36</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3464</span>
+        <span class="quantity">1</span>
+        <span class="name">Acryl bong colored</span>
+        <span class="unit_price">29.35</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3463</span>
+        <span class="quantity">1</span>
+        <span class="name">Acryl bong colored</span>
+        <span class="unit_price">14.11</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">14073</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - HoneyComb Perc Stemless Glass Tube With Dome Perc - 45cm</span>
+        <span class="unit_price">157.45</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">11383</span>
+        <span class="quantity">2</span>
+        <span class="name">Black Leaf - Sunny Afternoon Inline Perc Glass Bubbler</span>
+        <span class="unit_price">107.23</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">11010</span>
+        <span class="quantity">1</span>
+        <span class="name">Blaze Glass - Climax-b 2-Piece Fixed Stem Percolator Ice Bong</span>
+        <span class="unit_price">563.22</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9017</span>
+        <span class="quantity">4</span>
+        <span class="name">Blaze Glass - Premium Double Spiral Perc Beaker Base Ice Bong - Gold Fumed</span>
+        <span class="unit_price">158.02</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16392</span>
+        <span class="quantity">1</span>
+        <span class="name">Blaze Glass Bubbler with Showerhead &amp; Keg Diffuser</span>
+        <span class="unit_price">84.65</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3976</span>
+        <span class="quantity">1</span>
+        <span class="name">Ceramic Chillum</span>
+        <span class="unit_price">12.70</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3987</span>
+        <span class="quantity">2</span>
+        <span class="name">Ceramic Pipe Kneeling Woman</span>
+        <span class="unit_price">72.80</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4012</span>
+        <span class="quantity">1</span>
+        <span class="name">Ceramic Waterpipe</span>
+        <span class="unit_price">39.50</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4123</span>
+        <span class="quantity">1</span>
+        <span class="name">Colored Sherlock</span>
+        <span class="unit_price">180.03</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12547</span>
+        <span class="quantity">2</span>
+        <span class="name">Dude Layback Glass Bong Set in Aluminum Case - Small</span>
+        <span class="unit_price">49.89</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7627</span>
+        <span class="quantity">2</span>
+        <span class="name">Flaming Skull - Dome Perc Ice Bong - Blue</span>
+        <span class="unit_price">84.65</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7276</span>
+        <span class="quantity">2</span>
+        <span class="name">G-Spot Glass - Classic Cylinder Bong - No Ice - Carb Hole</span>
+        <span class="unit_price">143.64</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4101</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Hammer Bubbler - Silver and Gold Fume - Colored Glass and Magnifiers</span>
+        <span class="unit_price">232.79</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4611</span>
+        <span class="quantity">2</span>
+        <span class="name">Glass pipe</span>
+        <span class="unit_price">14.11</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4603</span>
+        <span class="quantity">2</span>
+        <span class="name">Glass pipe</span>
+        <span class="unit_price">26.76</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4625</span>
+        <span class="quantity">1</span>
+        <span class="name">Glasspipe Traveller 2</span>
+        <span class="unit_price">21.61</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">11349</span>
+        <span class="quantity">1</span>
+        <span class="name">Aluminum Herb Grinder 55mm - 2-part</span>
+        <span class="unit_price">12.98</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">11340</span>
+        <span class="quantity">2</span>
+        <span class="name">Aluminum Herb Grinder with Pollen Screen 56mm - 4-part</span>
+        <span class="unit_price">26.52</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4182</span>
+        <span class="quantity">1</span>
+        <span class="name">Aluminum Herb Grinder with Pollen Screen 56mm - 4-part - Various Colors</span>
+        <span class="unit_price">50.28</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5737</span>
+        <span class="quantity">2</span>
+        <span class="name">Pollinator &amp; Pollen Press Tower</span>
+        <span class="unit_price">58.69</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7379</span>
+        <span class="quantity">1</span>
+        <span class="name">Pollinator Poker Grinder - Wholesale Display</span>
+        <span class="unit_price">93.12</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">15523</span>
+        <span class="quantity">1</span>
+        <span class="name">Acryl bong colored</span>
+        <span class="unit_price">8.47</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3549</span>
+        <span class="quantity">1</span>
+        <span class="name">Acrylic ice bong colored sticks</span>
+        <span class="unit_price">40.63</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3442</span>
+        <span class="quantity">1</span>
+        <span class="name">Acrylic Water Pipe Colored</span>
+        <span class="unit_price">15.24</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4593</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass bong handmodel</span>
+        <span class="unit_price">22.01</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4472</span>
+        <span class="quantity">2</span>
+        <span class="name">Glass Ice Bong</span>
+        <span class="unit_price">53.61</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4601</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass icebong</span>
+        <span class="unit_price">67.16</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7875</span>
+        <span class="quantity">1</span>
+        <span class="name">Weed Star - Little Bitch</span>
+        <span class="unit_price">73.37</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13437</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - OiL 3-Piece Set - Vapor Dome - Concentrate Nail - 45 Degree Adapter</span>
+        <span class="unit_price">39.50</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4059</span>
+        <span class="quantity">2</span>
+        <span class="name">Cigarette tube - single tube</span>
+        <span class="unit_price">2.20</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4108</span>
+        <span class="quantity">1</span>
+        <span class="name">Colored Cigarette Tube - single tube</span>
+        <span class="unit_price">1.98</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12879</span>
+        <span class="quantity">1</span>
+        <span class="name">Grav Labs - Expansion Glass Joint Adapter - 14.5mm &gt; 18.8mm</span>
+        <span class="unit_price">21.16</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5836</span>
+        <span class="quantity">2</span>
+        <span class="name">RAW Natural Regular Size Rolling Papers - Box of 24 Packs</span>
+        <span class="unit_price">38.20</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6140</span>
+        <span class="quantity">2</span>
+        <span class="name">Smoking - King Size Rolling Machine</span>
+        <span class="unit_price">16.88</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4907</span>
+        <span class="quantity">1</span>
+        <span class="name">Juicy Jay's Blueberry Regular Size Rolling Papers - Single Pack</span>
+        <span class="unit_price">2.61</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5175</span>
+        <span class="quantity">1</span>
+        <span class="name">Mantra Regular Size Strawberry Flavored Rolling Papers - Single Pack</span>
+        <span class="unit_price">2.99</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5837</span>
+        <span class="quantity">1</span>
+        <span class="name">RAW Natural Regular Size Rolling Papers - Single Pack</span>
+        <span class="unit_price">2.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10108</span>
+        <span class="quantity">1</span>
+        <span class="name">ROOR - Regular Size Ultra Thin Premium Rolling Papers </span>
+        <span class="unit_price">0.92</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5004</span>
+        <span class="quantity">1</span>
+        <span class="name">Snail Amsterdam King Size Slim Rolling Papers - Single Pack</span>
+        <span class="unit_price">2.77</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7979</span>
+        <span class="quantity">2</span>
+        <span class="name">Black Leaf - 3-arm Perc Tube with Ash Catcher - Black</span>
+        <span class="unit_price">81.83</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9384</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - The Nautilus Inline Perc Glass Layback Tube</span>
+        <span class="unit_price">84.65</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9019</span>
+        <span class="quantity">1</span>
+        <span class="name">Blaze Glass - Premium Double Spiral Perc Beaker Base Ice Bong - Blue</span>
+        <span class="unit_price">187.14</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9020</span>
+        <span class="quantity">1</span>
+        <span class="name">Blaze Glass - Premium Double Spiral Perc Beaker Base Ice Bong - Clear</span>
+        <span class="unit_price">155.20</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4577</span>
+        <span class="quantity">2</span>
+        <span class="name">Glass Waterpipe - Tar Catcher</span>
+        <span class="unit_price">76.19</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7978</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - 3-arm Perc Tube with Ash Catcher - Pink</span>
+        <span class="unit_price">76.19</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">8674</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - Doublefilter Bowl Cool B</span>
+        <span class="unit_price">28.87</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7609</span>
+        <span class="quantity">1</span>
+        <span class="name">Percolater Bong</span>
+        <span class="unit_price">84.65</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3433</span>
+        <span class="quantity">1</span>
+        <span class="name">Acryl Key Chain Pipe</span>
+        <span class="unit_price">10.72</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3510</span>
+        <span class="quantity">2</span>
+        <span class="name">Acryl keychain pipe</span>
+        <span class="unit_price">10.72</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3652</span>
+        <span class="quantity">3</span>
+        <span class="name">Ballpoint Pen Stealth Pipe</span>
+        <span class="unit_price">10.16</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7519</span>
+        <span class="quantity">3</span>
+        <span class="name">Black Glass Mini Bong Deluxe Gift Set</span>
+        <span class="unit_price">43.17</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3764</span>
+        <span class="quantity">3</span>
+        <span class="name">Bracelet Pipe</span>
+        <span class="unit_price">16.93</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3767</span>
+        <span class="quantity">1</span>
+        <span class="name">Brass pipe De luxe</span>
+        <span class="unit_price">39.50</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6396</span>
+        <span class="quantity">1</span>
+        <span class="name">Bud Bomb Original - Metal Hand Pipe - Chrome</span>
+        <span class="unit_price">55.87</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4151</span>
+        <span class="quantity">1</span>
+        <span class="name">Colored and Fumed Spoon - Red</span>
+        <span class="unit_price">33.86</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4267</span>
+        <span class="quantity">2</span>
+        <span class="name">Eagle Bill's Shake &amp; Vap pipe</span>
+        <span class="unit_price">35.55</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">14030</span>
+        <span class="quantity">1</span>
+        <span class="name">EZ Pipe - All-In-One Pipe - Tiger</span>
+        <span class="unit_price">16.92</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6862</span>
+        <span class="quantity">1</span>
+        <span class="name">Frog critter pipe</span>
+        <span class="unit_price">37.25</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4180</span>
+        <span class="quantity">2</span>
+        <span class="name">Glass Spoon Pipe - Double Layer Fume on Cobalt Glass with Clear Marbles</span>
+        <span class="unit_price">99.33</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10957</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Spoon Pipe - Eyeball with Fume and White Frit</span>
+        <span class="unit_price">64.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4700</span>
+        <span class="quantity">1</span>
+        <span class="name">Hammer - Inside Out</span>
+        <span class="unit_price">111.74</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5263</span>
+        <span class="quantity">1</span>
+        <span class="name">Metal &amp; Acrylic Pipe</span>
+        <span class="unit_price">14.11</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5321</span>
+        <span class="quantity">3</span>
+        <span class="name">Metal Pipe with Pack of Screens</span>
+        <span class="unit_price">10.72</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3988</span>
+        <span class="quantity">1</span>
+        <span class="name">Ceramic Waterpipe</span>
+        <span class="unit_price">29.35</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12406</span>
+        <span class="quantity">2</span>
+        <span class="name">Easyleaf - Key Pipe - Metal Stealth Pipe</span>
+        <span class="unit_price">22.01</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7626</span>
+        <span class="quantity">1</span>
+        <span class="name">Flaming Skull - Beaker Base Dome Perc Ice Bong with Ashcatcher - Blue</span>
+        <span class="unit_price">95.94</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5207</span>
+        <span class="quantity">2</span>
+        <span class="name">Medium Coloured Glass Pipe Dragon</span>
+        <span class="unit_price">26.39</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">14422</span>
+        <span class="quantity">1</span>
+        <span class="name">SmoCAN Smoking System - Lavender</span>
+        <span class="unit_price">79.00</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6633</span>
+        <span class="quantity">1</span>
+        <span class="name">Wood &amp; Metal Pipe</span>
+        <span class="unit_price">8.47</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6678</span>
+        <span class="quantity">1</span>
+        <span class="name">Wood Pure Pipe</span>
+        <span class="unit_price">14.11</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3560</span>
+        <span class="quantity">1</span>
+        <span class="name">Acrylic waterpipe - American little train</span>
+        <span class="unit_price">42.33</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7673</span>
+        <span class="quantity">1</span>
+        <span class="name">Messias Illusion 7mm</span>
+        <span class="unit_price">73.37</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5528</span>
+        <span class="quantity">1</span>
+        <span class="name">Mug Pinokkio</span>
+        <span class="unit_price">4.74</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">15924</span>
+        <span class="quantity">1</span>
+        <span class="name">Original Monkey Pipe - Black</span>
+        <span class="unit_price">24.83</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4554</span>
+        <span class="quantity">2</span>
+        <span class="name">Glass Sand Blasted  Shabong</span>
+        <span class="unit_price">18.06</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">14237</span>
+        <span class="quantity">1</span>
+        <span class="name">RAW - Hemp Plastic King Size Rolling Machine - 110mm</span>
+        <span class="unit_price">4.80</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5855</span>
+        <span class="quantity">1</span>
+        <span class="name">Regular Plastic Roller</span>
+        <span class="unit_price">5.47</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5881</span>
+        <span class="quantity">1</span>
+        <span class="name">Rollmate (TM) Silver</span>
+        <span class="unit_price">14.90</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3409</span>
+        <span class="quantity">1</span>
+        <span class="name">20 pipe screens steel</span>
+        <span class="unit_price">3.94</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3480</span>
+        <span class="quantity">1</span>
+        <span class="name">Acryl bong fluorescent</span>
+        <span class="unit_price">24.27</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5314</span>
+        <span class="quantity">1</span>
+        <span class="name">Metal Chamber Pipe</span>
+        <span class="unit_price">11.29</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7877</span>
+        <span class="quantity">1</span>
+        <span class="name">Weed Star - Baby Bitch</span>
+        <span class="unit_price">67.16</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3408</span>
+        <span class="quantity">1</span>
+        <span class="name">20 pipe screens brass</span>
+        <span class="unit_price">3.94</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">3437</span>
+        <span class="quantity">1</span>
+        <span class="name">Acryl bong clear</span>
+        <span class="unit_price">16.37</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5955</span>
+        <span class="quantity">1</span>
+        <span class="name">Share The Pipe aka Share II Metal Handpipe - Black</span>
+        <span class="unit_price">55.87</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7964</span>
+        <span class="quantity">1</span>
+        <span class="name">Weed Star - Three Arm Precooler - 18.8</span>
+        <span class="unit_price">35.42</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6584</span>
+        <span class="quantity">1</span>
+        <span class="name">Water Pipe- Metal and Acrylic</span>
+        <span class="unit_price">14.07</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12420</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Ice Bong 1000ml - 29.2mm - Acapulco Logo</span>
+        <span class="unit_price">141.09</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12421</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Ice Bong 1000ml - 29.2mm - Cozumel Logo</span>
+        <span class="unit_price">141.09</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12423</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Ice Bong 1000ml - 29.2mm - Cenote Logo</span>
+        <span class="unit_price">157.45</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12424</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Ice Bong 1000ml - 18.8mm - Acapulco Logo</span>
+        <span class="unit_price">111.74</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12427</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Ice Bong 1000ml - 18.8mm - Cozumel Logo</span>
+        <span class="unit_price">111.74</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12428</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Ice Bong 1000ml - 18.8mm - Cenote Logo</span>
+        <span class="unit_price">111.74</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12429</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Ice Bong 500ml - 18.8mm - Acapulco Logo</span>
+        <span class="unit_price">89.17</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12430</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Ice Bong 500ml - 18.8mm - Cozumel Logo</span>
+        <span class="unit_price">89.17</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12432</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Ice Bong 500ml - 18.8mm - Cenote Logo</span>
+        <span class="unit_price">89.17</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12435</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Bong 1000ml - 18.8mm - Acapulco Logo</span>
+        <span class="unit_price">95.94</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12436</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Bong 1000ml - 18.8mm - Cozumel Logo</span>
+        <span class="unit_price">95.94</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12437</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Bong 1000ml - 18.8mm - Cenote Logo</span>
+        <span class="unit_price">84.65</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12438</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Bong 500ml - 18.8mm - Acapulco Logo</span>
+        <span class="unit_price">84.65</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12439</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Bong 500ml - 18.8mm - Cozumel Logo</span>
+        <span class="unit_price">84.65</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12440</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Bong 500ml - 18.8mm - Cenote Logo</span>
+        <span class="unit_price">77.88</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12443</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Mexico Straight Cylinder Bong 250ml - 14.5mm - Cenote Logo</span>
+        <span class="unit_price">55.31</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12454</span>
+        <span class="quantity">1</span>
+        <span class="name">Amsterdam Straight Cylinder Glass Bong - 74cm</span>
+        <span class="unit_price">68.58</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12464</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - 3-arm Perc Tube with Ash Catcher - Emerald Green</span>
+        <span class="unit_price">84.09</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12540</span>
+        <span class="quantity">1</span>
+        <span class="name">Dude Bubble Base Glass Bong Set in Aluminum Case</span>
+        <span class="unit_price">68.64</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12541</span>
+        <span class="quantity">1</span>
+        <span class="name">Dude Straight Cylinder Glass Ice Bong Set in Aluminum Case</span>
+        <span class="unit_price">68.64</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12542</span>
+        <span class="quantity">1</span>
+        <span class="name">Dude Straight Cylinder Glass Bong Set in Aluminum Case</span>
+        <span class="unit_price">68.64</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12543</span>
+        <span class="quantity">1</span>
+        <span class="name">Dude Layback Glass Ice Bong Set in Aluminum Case</span>
+        <span class="unit_price">76.19</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12544</span>
+        <span class="quantity">1</span>
+        <span class="name">Dude Layback Glass Bong Set in Aluminum Case</span>
+        <span class="unit_price">68.64</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12545</span>
+        <span class="quantity">1</span>
+        <span class="name">Dude Straight Cylinder Glass Bong Set in Aluminum Case - Small</span>
+        <span class="unit_price">46.82</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12699</span>
+        <span class="quantity">1</span>
+        <span class="name">G-Spot Glass - Beaker Bong - Flame Polished Logo - 45cm - Ice - Solid Tank Joint - No Carb</span>
+        <span class="unit_price">375.42</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9938</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Steamroller Pipe - Extra Large - Red logo w/black outline</span>
+        <span class="unit_price">30.39</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9940</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Steamroller Pipe - Medium</span>
+        <span class="unit_price">19.75</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9942</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Steamroller Pipe - Extra Large - White logo w/green outline</span>
+        <span class="unit_price">30.39</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9943</span>
+        <span class="quantity">1</span>
+        <span class="name">EHLE. Glass - Steamroller Pipe - Extra Large - Green logo w/orange outline</span>
+        <span class="unit_price">30.39</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10033</span>
+        <span class="quantity">1</span>
+        <span class="name">ROOR - Steamroller Pipe - Mini</span>
+        <span class="unit_price">19.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10034</span>
+        <span class="quantity">1</span>
+        <span class="name">ROOR - Steamroller Pipe - Small</span>
+        <span class="unit_price">21.45</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10035</span>
+        <span class="quantity">1</span>
+        <span class="name">ROOR - Steamroller Pipe - Medium</span>
+        <span class="unit_price">25.94</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10036</span>
+        <span class="quantity">1</span>
+        <span class="name">ROOR - Steamroller Pipe - Large</span>
+        <span class="unit_price">39.03</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10212</span>
+        <span class="quantity">1</span>
+        <span class="name">G-Spot Glass Spoon Pipe - White Rasta</span>
+        <span class="unit_price">42.04</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10214</span>
+        <span class="quantity">1</span>
+        <span class="name">G-Spot Glass Spoon Pipe - Black and White Stripes</span>
+        <span class="unit_price">44.87</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10217</span>
+        <span class="quantity">1</span>
+        <span class="name">G-Spot Glass Spoon Pipe - White Frit with Blue Stripe</span>
+        <span class="unit_price">47.69</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10218</span>
+        <span class="quantity">1</span>
+        <span class="name">G-Spot Glass Spoon Pipe - Gold with Blue and Green</span>
+        <span class="unit_price">43.74</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10220</span>
+        <span class="quantity">1</span>
+        <span class="name">G-Spot Glass Spoon Pipe - Twisted Ribbon Cane - Multi Colors</span>
+        <span class="unit_price">42.04</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10221</span>
+        <span class="quantity">1</span>
+        <span class="name">G-Spot Glass Spoon Pipe - Dark Blue with Yellow Artwork</span>
+        <span class="unit_price">42.04</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10222</span>
+        <span class="quantity">1</span>
+        <span class="name">G-Spot Glass Spoon Pipe - Dark Blue with Green Artwork</span>
+        <span class="unit_price">42.04</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10224</span>
+        <span class="quantity">1</span>
+        <span class="name">G-Spot Glass Spoon Pipe - Blue with Red, Black and White Hurricane Bowl</span>
+        <span class="unit_price">40.35</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10225</span>
+        <span class="quantity">1</span>
+        <span class="name">G-Spot Glass Spoon Pipe - Blue with Green, Orange and Yellow Hurricane Bowl</span>
+        <span class="unit_price">40.35</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10226</span>
+        <span class="quantity">1</span>
+        <span class="name">G-Spot Glass Spoon Pipe - Blue with Green, Orange and White Hurricane Bowl</span>
+        <span class="unit_price">40.35</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">10227</span>
+        <span class="quantity">1</span>
+        <span class="name">G-Spot Glass Hammer Bubbler Pipe - Clear with Red and Black Color Work</span>
+        <span class="unit_price">121.45</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12369</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Sherlock Handpipe - White on Cobalt Glass with Appendage</span>
+        <span class="unit_price">77.60</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12370</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Sherlock Handpipe - White on Cobalt Glass with Appendages</span>
+        <span class="unit_price">108.64</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12371</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Sherlock Handpipe - Color on Fumed Glass with Appendage</span>
+        <span class="unit_price">77.60</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12477</span>
+        <span class="quantity">1</span>
+        <span class="name">Ceramic Hand Pipe - Mini Skull</span>
+        <span class="unit_price">15.24</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12478</span>
+        <span class="quantity">1</span>
+        <span class="name">Ceramic Hand Pipe - Small Face</span>
+        <span class="unit_price">16.65</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12479</span>
+        <span class="quantity">1</span>
+        <span class="name">Ceramic Hand Pipe - Medium Skull</span>
+        <span class="unit_price">18.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12480</span>
+        <span class="quantity">1</span>
+        <span class="name">Ceramic Hand Pipe - Mushroom Skull</span>
+        <span class="unit_price">22.01</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12481</span>
+        <span class="quantity">1</span>
+        <span class="name">Ceramic Hand Pipe - Four Tooth</span>
+        <span class="unit_price">22.01</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12482</span>
+        <span class="quantity">1</span>
+        <span class="name">Ceramic Hand Pipe - Small Skull</span>
+        <span class="unit_price">16.65</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12642</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Taster Pipe - Fumed with Color Stripes and Marbles</span>
+        <span class="unit_price">31.04</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12350</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Ice Bong - Fixed Stem - Inline Perc - Fully Color Worked With 3-D Marble</span>
+        <span class="unit_price">761.87</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12348</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Ice Bong - Fully Color Worked With 3-D Marble</span>
+        <span class="unit_price">450.07</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12654</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Taster Pipe - Heavy Gold Fume with Marbles</span>
+        <span class="unit_price">31.04</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">14295</span>
+        <span class="quantity">1</span>
+        <span class="name">Blaze Glass - Removable Double Coil Spiral Percolator 18.8mm</span>
+        <span class="unit_price">30.76</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13748</span>
+        <span class="quantity">1</span>
+        <span class="name">Blaze Glass - Beaker Base 5mm Glass Tube - Black</span>
+        <span class="unit_price">197.52</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9707</span>
+        <span class="quantity">1</span>
+        <span class="name">Blaze Glass - Beaker Base 5mm Glass Bong - Cobalt Blue</span>
+        <span class="unit_price">107.23</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">11858</span>
+        <span class="quantity">1</span>
+        <span class="name">Weed Star - Pushgrinder - Aluminum Herb Grinder</span>
+        <span class="unit_price">11.29</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12581</span>
+        <span class="quantity">1</span>
+        <span class="name">Magno Mix Lasered Aluminum Herb Grinder 40mm - 2-part</span>
+        <span class="unit_price">12.16</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13540</span>
+        <span class="quantity">1</span>
+        <span class="name">Soapstone Herb Grinder - Smooth Lid - 2-part</span>
+        <span class="unit_price">28.22</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13542</span>
+        <span class="quantity">1</span>
+        <span class="name">Soapstone Herb Grinder - Carved Om Symbol Lid - 2-part</span>
+        <span class="unit_price">28.22</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13543</span>
+        <span class="quantity">1</span>
+        <span class="name">Soapstone Herb Grinder - Carved Pot Leaf Lid - 2-part</span>
+        <span class="unit_price">28.22</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">14823</span>
+        <span class="quantity">1</span>
+        <span class="name">Santa Cruz Shredder Pollen Press - Small</span>
+        <span class="unit_price">124.10</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12580</span>
+        <span class="quantity">1</span>
+        <span class="name">Magno Mix Lasered Aluminum Herb Grinder 50mm - 2-part</span>
+        <span class="unit_price">13.75</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12175</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - Aluminum Herb Grinder - 2-part - 50mm - Black</span>
+        <span class="unit_price">20.26</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12549</span>
+        <span class="quantity">1</span>
+        <span class="name">V Syndicate Grinder Card - Classic V</span>
+        <span class="unit_price">11.28</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12550</span>
+        <span class="quantity">1</span>
+        <span class="name">V Syndicate Grinder Card - Chunky V</span>
+        <span class="unit_price">11.28</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12552</span>
+        <span class="quantity">1</span>
+        <span class="name">V Syndicate Grinder Card - Dragon</span>
+        <span class="unit_price">11.28</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12554</span>
+        <span class="quantity">1</span>
+        <span class="name">V Syndicate Grinder Card - Amsterdam Triple X</span>
+        <span class="unit_price">13.53</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12555</span>
+        <span class="quantity">1</span>
+        <span class="name">V Syndicate Grinder Card - Rasta Lion</span>
+        <span class="unit_price">13.53</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12556</span>
+        <span class="quantity">1</span>
+        <span class="name">V Syndicate Grinder Card - Cheech and Chong Light Up</span>
+        <span class="unit_price">15.79</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12578</span>
+        <span class="quantity">1</span>
+        <span class="name">Magno Mix Lasered Aluminum Herb Grinder 50mm - 4-part</span>
+        <span class="unit_price">22.52</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">15583</span>
+        <span class="quantity">1</span>
+        <span class="name">Super Herbal Pollen Press - Medium</span>
+        <span class="unit_price">55.31</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">15584</span>
+        <span class="quantity">1</span>
+        <span class="name">Super Herbal Pollen Press - Large</span>
+        <span class="unit_price">62.08</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16517</span>
+        <span class="quantity">1</span>
+        <span class="name">Aluminum Grinder – Black - 40mm - 5-part - Double Screen</span>
+        <span class="unit_price">31.49</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16521</span>
+        <span class="quantity">2</span>
+        <span class="name">Black Leaf  - Wooden Chopping Drawer with Curved Knife</span>
+        <span class="unit_price">30.46</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16899</span>
+        <span class="quantity">1</span>
+        <span class="name">The Shredder - 4-part Aluminum Grinder</span>
+        <span class="unit_price">67.72</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">17073</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf – THC Metal Herb Grinder - 2-part - 50mm - Green</span>
+        <span class="unit_price">20.87</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">17125</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - Anodized Aluminum Herb Grinder - 4-part - 55mm - Chrome</span>
+        <span class="unit_price">45.14</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6143</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Silver King Size Extra-Slim Rolling Papers - Box of 50 Packs</span>
+        <span class="unit_price">49.32</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6144</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Gold Rolls - Rolling Paper - Box of 24 Rolls</span>
+        <span class="unit_price">51.29</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6145</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Black DeLuxe Rolls - Slim Rolling Paper - Box of 24 Rolls</span>
+        <span class="unit_price">51.29</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6147</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking DeLuxe - King Size Pre-rolled Cones - Pack of 3</span>
+        <span class="unit_price">3.95</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6415</span>
+        <span class="quantity">1</span>
+        <span class="name">The Bulldog Amsterdam - Short Rolling Papers - Single Pack</span>
+        <span class="unit_price">1.53</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6783</span>
+        <span class="quantity">1</span>
+        <span class="name">RIPS Silver Xtra-Thin Regular Size Rolling Paper - Single Pack</span>
+        <span class="unit_price">2.46</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6784</span>
+        <span class="quantity">1</span>
+        <span class="name">RIPS Silver Xtra-Thin Regular Size Rolling Paper - Box of 24 Rolls</span>
+        <span class="unit_price">45.13</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7088</span>
+        <span class="quantity">1</span>
+        <span class="name">Fly Deluxe Extra Large Paper Filter Tips - Single Pack</span>
+        <span class="unit_price">3.29</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4930</span>
+        <span class="quantity">1</span>
+        <span class="name">Juicy Jay's Very Cherry Regular Size Rolling Papers - Box of 24 Packs</span>
+        <span class="unit_price">58.69</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7092</span>
+        <span class="quantity">1</span>
+        <span class="name">Tattoo Movie Tips - Paper Filter Tips - Box of 20 Packs</span>
+        <span class="unit_price">44.14</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6142</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Silver King Size Extra-Slim Rolling Papers - Single Pack</span>
+        <span class="unit_price">1.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6139</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Black King Size Slim Rolling Papers - Single Pack</span>
+        <span class="unit_price">1.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6138</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Green King Size Hemp Rolling Papers - Single Pack</span>
+        <span class="unit_price">1.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5865</span>
+        <span class="quantity">1</span>
+        <span class="name">RIPS Red Regular Size Rolling Paper - Box of 24 Rolls</span>
+        <span class="unit_price">41.54</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5873</span>
+        <span class="quantity">1</span>
+        <span class="name">Rizla Silver King Size Slim Rolling Papers - Box of 50 Packs</span>
+        <span class="unit_price">57.16</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5877</span>
+        <span class="quantity">1</span>
+        <span class="name">Rolling Card Regular Size Slim Rolling Papers - Box of 50 Packs</span>
+        <span class="unit_price">68.37</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5878</span>
+        <span class="quantity">1</span>
+        <span class="name">Rolling Card Regular Size Slim Rolling Papers - Single Pack</span>
+        <span class="unit_price">2.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6119</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Gold King Size Slim Rolling Papers - Box of 50 Packs</span>
+        <span class="unit_price">50.86</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6120</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Gold King Size Slim Rolling Papers - Single Pack</span>
+        <span class="unit_price">1.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6122</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Blue King Size Rolling Papers - Single Pack</span>
+        <span class="unit_price">1.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6131</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Black Regular Size Rolling Papers - Box of 25 Packs</span>
+        <span class="unit_price">29.22</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6132</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Black King Size Slim Rolling Papers - Box of 50 Packs</span>
+        <span class="unit_price">50.86</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6133</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Eco King Size Slim Hemp Rolling Papers - Box of 50 Packs</span>
+        <span class="unit_price">50.86</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6134</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Eco King Size Slim Hemp Rolling Papers - Single Pack</span>
+        <span class="unit_price">1.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6137</span>
+        <span class="quantity">1</span>
+        <span class="name">Smoking Green King Size Hemp Rolling Papers - Box of 50 Packs</span>
+        <span class="unit_price">50.86</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">7449</span>
+        <span class="quantity">1</span>
+        <span class="name">The Bulldog Amsterdam - King Size Rolling Papers - Box of 50 Packs</span>
+        <span class="unit_price">61.12</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">8071</span>
+        <span class="quantity">1</span>
+        <span class="name">Holy Rollers Regular Size Rolling Papers  - Box of 24 Packs</span>
+        <span class="unit_price">50.14</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">8072</span>
+        <span class="quantity">1</span>
+        <span class="name">Holy Rollers Regular Size Rolling Papers  - Single Pack</span>
+        <span class="unit_price">2.85</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9377</span>
+        <span class="quantity">1</span>
+        <span class="name">OCB King Size Organic Hemp Slim Rolling Papers - Box of 50 Packs</span>
+        <span class="unit_price">64.47</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">9379</span>
+        <span class="quantity">1</span>
+        <span class="name">OCB King Size Premium Slim Rolling Papers with Filter Tips - Box of 32 Packs</span>
+        <span class="unit_price">61.89</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16271</span>
+        <span class="quantity">1</span>
+        <span class="name">Nexxus V2 Essential Oil Vaporizer - Red</span>
+        <span class="unit_price">33.85</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16272</span>
+        <span class="quantity">1</span>
+        <span class="name">Nexxus V2 Essential Oil Vaporizer - White</span>
+        <span class="unit_price">33.85</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16276</span>
+        <span class="quantity">1</span>
+        <span class="name">iTaste Cool Fire 2 Vaporizer - Camouflage Green</span>
+        <span class="unit_price">90.30</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16277</span>
+        <span class="quantity">1</span>
+        <span class="name">iTaste VTR Portable Vaporizer -Silver</span>
+        <span class="unit_price">121.90</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16278</span>
+        <span class="quantity">1</span>
+        <span class="name">iTaste VTR Portable Vaporizer - Camouflage Green</span>
+        <span class="unit_price">121.90</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16281</span>
+        <span class="quantity">1</span>
+        <span class="name">Battery Charging Kit for Vaporizers with 18650 Battery</span>
+        <span class="unit_price">28.21</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16269</span>
+        <span class="quantity">1</span>
+        <span class="name">Nexxus V2 Essential Oil Vaporizer - Green</span>
+        <span class="unit_price">33.85</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16268</span>
+        <span class="quantity">1</span>
+        <span class="name">Nexxus V2 Essential Oil Vaporizer - Blue</span>
+        <span class="unit_price">33.85</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">14937</span>
+        <span class="quantity">1</span>
+        <span class="name">DabR Leather Pouch Necklace for DabR Pen Vape</span>
+        <span class="unit_price">14.11</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16261</span>
+        <span class="quantity">1</span>
+        <span class="name">Sutra Concentrate Pen Vaporizer - Single Pack - Cheetah</span>
+        <span class="unit_price">67.71</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16264</span>
+        <span class="quantity">1</span>
+        <span class="name">Marquee Essential Oil Vaporizer- Silver</span>
+        <span class="unit_price">79.00</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16266</span>
+        <span class="quantity">1</span>
+        <span class="name">Zema Portable Vaporizer Pen- Silver</span>
+        <span class="unit_price">101.57</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16531</span>
+        <span class="quantity">1</span>
+        <span class="name">Medicali Dub Vaporizer Pen Set</span>
+        <span class="unit_price">101.53</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16553</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - OiL Glass Vaporizer Pipe - 11.5 cm</span>
+        <span class="unit_price">14.11</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">17060</span>
+        <span class="quantity">1</span>
+        <span class="name">Sutra Concentrate Pen Vaporizer - Single Pack - Walking Dabs</span>
+        <span class="unit_price">67.71</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16497</span>
+        <span class="quantity">1</span>
+        <span class="name">Medicali Earl Vaporizer Pen Set</span>
+        <span class="unit_price">101.53</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16472</span>
+        <span class="quantity">1</span>
+        <span class="name">VaporBLUNT Portable Vaporizer - Black and Red</span>
+        <span class="unit_price">191.87</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16352</span>
+        <span class="quantity">1</span>
+        <span class="name">Case for Project X Premium Portable Vaporizer</span>
+        <span class="unit_price">16.93</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16294</span>
+        <span class="quantity">1</span>
+        <span class="name">Life Saber Vaporizer - Purple</span>
+        <span class="unit_price">395.05</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16295</span>
+        <span class="quantity">1</span>
+        <span class="name">Life Saber Vaporizer - Red</span>
+        <span class="unit_price">395.05</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16296</span>
+        <span class="quantity">1</span>
+        <span class="name">Life Saber Vaporizer - Silver</span>
+        <span class="unit_price">395.05</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16292</span>
+        <span class="quantity">1</span>
+        <span class="name">Life Saber Vaporizer - Black</span>
+        <span class="unit_price">395.05</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16293</span>
+        <span class="quantity">1</span>
+        <span class="name">Life Saber Vaporizer - Blue</span>
+        <span class="unit_price">395.05</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">6550</span>
+        <span class="quantity">1</span>
+        <span class="name">Vapir Herb Disk -  10 pack</span>
+        <span class="unit_price">44.97</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">15935</span>
+        <span class="quantity">1</span>
+        <span class="name">Pinnacle Pro Portable Concentrate Vaporizer</span>
+        <span class="unit_price">269.76</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16071</span>
+        <span class="quantity">1</span>
+        <span class="name">Trippy Stix Concentrate Vaporizer - Silver</span>
+        <span class="unit_price">135.43</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16263</span>
+        <span class="quantity">1</span>
+        <span class="name">Marquee Essential Oil Vaporizer- Pearl White</span>
+        <span class="unit_price">79.00</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16473</span>
+        <span class="quantity">1</span>
+        <span class="name">Trippy Stix Concentrate Vaporizer - Athletic Green</span>
+        <span class="unit_price">135.43</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16803</span>
+        <span class="quantity">1</span>
+        <span class="name">Ski Mask x Hitman – Sundae Cup Collab with Brilliance Perc &amp; Turbine Disc – 14.5mm</span>
+        <span class="unit_price">1240.44</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16786</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf – Glass Ice Bong with Double Turbine Disc Perc – 38cm</span>
+        <span class="unit_price">129.80</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16794</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf – Glass Ice Bong with Double HoneyComb Disc Perc – 38cm</span>
+        <span class="unit_price">118.50</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16801</span>
+        <span class="quantity">1</span>
+        <span class="name">Eyce – Ice Bong Kit with Mold and Accessories</span>
+        <span class="unit_price">100.45</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16802</span>
+        <span class="quantity">1</span>
+        <span class="name">Slum Gold x Hitman - Double Barrel Recycler Collab with 14.5mm Dome</span>
+        <span class="unit_price">1240.44</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16642</span>
+        <span class="quantity">1</span>
+        <span class="name">Medicali Glass - Slyme Mini Showerhead Perc Beaker Bong - Green &amp; Black Script Label</span>
+        <span class="unit_price">327.32</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16549</span>
+        <span class="quantity">1</span>
+        <span class="name">SeedleSs Clothing &amp; Grasscity.com collaboration iPhone 4 Case - Black</span>
+        <span class="unit_price">11.81</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16519</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Black Leaf Bong with Reinforced Slot Diffuser</span>
+        <span class="unit_price">84.64</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16520</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf silicone concentrate tray – Bright Green</span>
+        <span class="unit_price">12.40</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16522</span>
+        <span class="quantity">1</span>
+        <span class="name">Royal Oil Pan Domeless Titanium Concentrate Nail</span>
+        <span class="unit_price">81.27</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16523</span>
+        <span class="quantity">1</span>
+        <span class="name">Token Pipe by Savorette- Silver</span>
+        <span class="unit_price">86.12</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16857</span>
+        <span class="quantity">1</span>
+        <span class="name">Blaze Glass – Mini Donut Oil Bong with Inline Diffuser &amp; Reinforced Downstem – Straight Mouthpiece</span>
+        <span class="unit_price">73.37</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16855</span>
+        <span class="quantity">1</span>
+        <span class="name">Blaze Glass – Mini Donut Oil Bong with Inline Diffuser &amp; Worked Reinforced Downstem – Straight Mouthpiece</span>
+        <span class="unit_price">73.37</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16853</span>
+        <span class="quantity">1</span>
+        <span class="name">Blaze Glass - Quartz Concentrate Nail - 10mm</span>
+        <span class="unit_price">22.00</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16863</span>
+        <span class="quantity">1</span>
+        <span class="name">Medicali Glass - 12-Arm Tree Perc Vapor Bubbler - Blue Label</span>
+        <span class="unit_price">451.48</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16864</span>
+        <span class="quantity">1</span>
+        <span class="name">Medicali Glass - 12-Arm Tree Perc Vapor Bubbler - Red &amp; Black Script Label</span>
+        <span class="unit_price">451.48</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16865</span>
+        <span class="quantity">1</span>
+        <span class="name">Medicali Glass - 12-Arm Tree Perc Vapor Bubbler - Black &amp; Gold Script Label</span>
+        <span class="unit_price">451.48</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16866</span>
+        <span class="quantity">1</span>
+        <span class="name">Medicali Glass - 12-Arm Tree Perc Vapor Bubbler - Green &amp; Black Script Label</span>
+        <span class="unit_price">451.48</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16867</span>
+        <span class="quantity">1</span>
+        <span class="name">Medicali Glass - 12-Arm Tree Perc Vapor Bubbler - Rasta Script Label</span>
+        <span class="unit_price">451.48</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16869</span>
+        <span class="quantity">1</span>
+        <span class="name">Mama P’s – Li’l P Pollen Press</span>
+        <span class="unit_price">169.29</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16852</span>
+        <span class="quantity">1</span>
+        <span class="name">1 Hit- Glass Bowl with Five 20mm Screens  - 18.8mm</span>
+        <span class="unit_price">15.79</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16851</span>
+        <span class="quantity">1</span>
+        <span class="name">1 Hit- Glass Bowl with Five 25mm Screens - 18.8mm</span>
+        <span class="unit_price">10.72</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">16850</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf – Precooler with  HoneyComb Disc &amp; Showerhead Diffuser – 45 Degree Joint - 18.8mm</span>
+        <span class="unit_price">56.42</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12614</span>
+        <span class="quantity">1</span>
+        <span class="name">Jamaica Metal Pipe Gift Set with Magno Mix Aluminum Grinder</span>
+        <span class="unit_price">30.47</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12616</span>
+        <span class="quantity">1</span>
+        <span class="name">Amsterdam Metal Pipe Gift Set with Aluminum Grinder - Red</span>
+        <span class="unit_price">30.47</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12617</span>
+        <span class="quantity">2</span>
+        <span class="name">Tattoo Metal Pipe Gift Set with Magno Mix Aluminum Grinder</span>
+        <span class="unit_price">21.45</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12619</span>
+        <span class="quantity">1</span>
+        <span class="name">Amsterdam Mini Glass Steamroller Pipe Gift Set with Aluminum Grinder</span>
+        <span class="unit_price">30.47</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12621</span>
+        <span class="quantity">1</span>
+        <span class="name">Dutch Mini Glass Steamroller Pipe Gift Set with Magno Mix Aluminum Grinder</span>
+        <span class="unit_price">30.47</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">8926</span>
+        <span class="quantity">1</span>
+        <span class="name">Snail Deluxe Far East Collection - King Size Slim Rolling Papers with Filter Tips - Box of 4 Packs</span>
+        <span class="unit_price">14.59</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12613</span>
+        <span class="quantity">1</span>
+        <span class="name">Rasta Metal Pipe Gift Set with Magno Mix Aluminum Grinder</span>
+        <span class="unit_price">30.47</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12234</span>
+        <span class="quantity">1</span>
+        <span class="name">Ziggi for Boys - King Size Slim Rolling Papers Plus Filter Tips - Box of 7 Packs</span>
+        <span class="unit_price">21.94</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12232</span>
+        <span class="quantity">1</span>
+        <span class="name">Ziggi for Girls - King Size Slim Rolling Papers Plus Filter Tips - Box of 7 Packs</span>
+        <span class="unit_price">21.94</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">8932</span>
+        <span class="quantity">1</span>
+        <span class="name">Snail Deluxe 666 Collection - King Size Slim Rolling Papers with Filter Tips - Box of 4 Packs</span>
+        <span class="unit_price">14.59</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">8931</span>
+        <span class="quantity">1</span>
+        <span class="name">Snail Deluxe Skulls Collection - King Size Slim Rolling Papers with Filter Tips - Box of 4 Packs</span>
+        <span class="unit_price">14.59</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13577</span>
+        <span class="quantity">1</span>
+        <span class="name">Aluminum Herb Grinder and Pollen Presser Gift Set - 4-part</span>
+        <span class="unit_price">62.08</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">12615</span>
+        <span class="quantity">1</span>
+        <span class="name">Amsterdam Metal Pipe Gift Set with Aluminum Grinder - Black</span>
+        <span class="unit_price">30.47</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">17190</span>
+        <span class="quantity">1</span>
+        <span class="name">Kaya Shisha – Hookah Pipe – Curvy Clear Glass Base in Metal Case</span>
+        <span class="unit_price">190.75</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">14639</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - Anodized Aluminum Herb Grinder in Gift Box - 4-part - 50mm - Blue</span>
+        <span class="unit_price">31.60</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">14301</span>
+        <span class="quantity">1</span>
+        <span class="name">Aluminum Herb Grinder and Pollen Presser Gift Set - 3-part</span>
+        <span class="unit_price">53.61</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13942</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Hammer Bubbler - Clear Glass with White Frit and Christmas Design</span>
+        <span class="unit_price">118.51</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13941</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Spoon Pipe - White Glass Candy Cane with Red Marbles</span>
+        <span class="unit_price">50.79</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13940</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Taster Pipe - White Glass Candy Cane </span>
+        <span class="unit_price">45.71</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">17192</span>
+        <span class="quantity">1</span>
+        <span class="name">Kaya Shisha – Hookah Pipe – La Coppa Cone Bowl with Case</span>
+        <span class="unit_price">304.74</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13945</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Spoon Pipe - Fumed with Color Marbles, Holly Leaves and Candy Canes</span>
+        <span class="unit_price">64.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13944</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Spoon Pipe - Fumed with Red and White Marbles and Large Candy Cane</span>
+        <span class="unit_price">64.34</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13943</span>
+        <span class="quantity">1</span>
+        <span class="name">Glass Spoon Pipe - Fumed with Red and White Marbles and Small Candy Canes</span>
+        <span class="unit_price">50.79</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">5828</span>
+        <span class="quantity">1</span>
+        <span class="name">Rasta Leaf Set</span>
+        <span class="unit_price">12.98</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4417</span>
+        <span class="quantity">1</span>
+        <span class="name">Futurola Rolling Gift Box</span>
+        <span class="unit_price">56.44</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">4961</span>
+        <span class="quantity">1</span>
+        <span class="name">The Bulldog Amsterdam - Bulldog Logo Kids' T-shirt - Pink</span>
+        <span class="unit_price">13.54</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13559</span>
+        <span class="quantity">1</span>
+        <span class="name">Stemless Inline Perc Glass Tube With 8-arm Tree Perc</span>
+        <span class="unit_price">111.74</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13560</span>
+        <span class="quantity">1</span>
+        <span class="name">Stemless 9mm Glass Tube With Black Fan Perc </span>
+        <span class="unit_price">111.74</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13562</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - HoneyComb Perc Stemless Glass Tube With UFO Perc - 40cm</span>
+        <span class="unit_price">174.95</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13563</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - HoneyComb Perc Stemless Glass Tube With UFO Perc - 50cm</span>
+        <span class="unit_price">186.24</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13564</span>
+        <span class="quantity">1</span>
+        <span class="name">Flaming Skull - Beaker Base 7mm Glass Tube with Color Diffusion Chamber and 6-arm Perc - Amber</span>
+        <span class="unit_price">197.52</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13565</span>
+        <span class="quantity">1</span>
+        <span class="name">Flaming Skull - 7mm Glass Tube with Color Diffusion Chamber and 6-arm Perc - Blue</span>
+        <span class="unit_price">197.52</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13570</span>
+        <span class="quantity">1</span>
+        <span class="name">Homegrown Glass - Stemless Mini Tube with 8-arm Perc and Vapor Dome</span>
+        <span class="unit_price">111.74</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13571</span>
+        <span class="quantity">1</span>
+        <span class="name">Homegrown Glass - Stemless Double Perc Tube with 10-arm Perc</span>
+        <span class="unit_price">169.31</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13557</span>
+        <span class="quantity">1</span>
+        <span class="name">00 Box - Pocket Box Mini Humidor - Spanish Cedar Wood Box</span>
+        <span class="unit_price">39.50</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13228</span>
+        <span class="quantity">1</span>
+        <span class="name">Crystal Straight Cylinder 5mm Glass Tube With Rasta Grip</span>
+        <span class="unit_price">101.58</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13405</span>
+        <span class="quantity">1</span>
+        <span class="name">Canouflage Gear - Military Cap</span>
+        <span class="unit_price">11.29</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13407</span>
+        <span class="quantity">1</span>
+        <span class="name">Canouflage Gear - Zippered Cushion Cover</span>
+        <span class="unit_price">11.29</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13443</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - OiL Glass Spoon Concentrate Dish</span>
+        <span class="unit_price">14.11</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13497</span>
+        <span class="quantity">1</span>
+        <span class="name">Elevate Glass Slide Bowl - Various Colors</span>
+        <span class="unit_price">22.01</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13578</span>
+        <span class="quantity">1</span>
+        <span class="name">Elevate Slyme Drip Glass Vapor Dome Set with Stand and Dabber</span>
+        <span class="unit_price">111.74</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13766</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - 3-arm Perc Tube with One-Hitter Bowl Diffuser Downstem - Pink</span>
+        <span class="unit_price">55.31</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13815</span>
+        <span class="quantity">1</span>
+        <span class="name">Black Leaf - Dome Perc and 6-arm Perc Glass Ice Tube - Blue and Black</span>
+        <span class="unit_price">107.23</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13852</span>
+        <span class="quantity">1</span>
+        <span class="name">Weed Star - Jackson 4 Fixed Stem Showerhead Perc Tube with Cup Perc</span>
+        <span class="unit_price">156.89</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13857</span>
+        <span class="quantity">1</span>
+        <span class="name">Weed Star - The Beast - Quadruple 12-arm Perc Tube</span>
+        <span class="unit_price">450.35</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+        <div class="line_item">
+        <span class="product_id">13734</span>
+        <span class="quantity">1</span>
+        <span class="name">Weed Star - Mentalist Glass Bubbler - Recessed Joint - 8-arm Perc</span>
+        <span class="unit_price">95.94</span>
+        <span class="price_currency_code">CAD</span>
+    </div>
+    </div>
 <div class="wrapper">
         <noscript>
         <div class="global-site-notice noscript">
@@ -115,9 +2482,9 @@ _gaq.push(['_trackPageview']);
     </div>
     <div class="block-content">
             <div class="summary">
-                            <p class="amount">There are <a href="http://www.grasscity.com/us_en/checkout/cart/">441 items</a> in your cart.</p>
+                            <p class="amount">There are <a href="http://www.grasscity.com/us_en/checkout/cart/">400 items</a> in your cart.</p>
                         <p class="subtotal">
-                                    <span class="label">Cart Subtotal:</span> <span class="price">CA$33,598.96</span>                                                </p>
+                                    <span class="label">Cart Subtotal:</span> <span class="price">CA$32,886.89</span>                                                </p>
         </div>
             <div class="actions">
                 <button type="button" title="Checkout" class="button" onclick="setLocation('https://www.grasscity.com/us_en/checkout/onepage/')"><span><span>Checkout</span></span></button>
@@ -125,18 +2492,18 @@ _gaq.push(['_trackPageview']);
                     <p class="block-subtitle">Recently added item(s)</p>
         <ol id="cart-sidebar" class="mini-products-list">
                     <li class="item">
-            <a href="http://www.grasscity.com/us_en/cannaline-glass-stash-jar-top-strains-chocolope.html" title="Cannaline Glass Stash Jar - Top Strains - Chocolope" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/9/0/90ml-chocolope-w.jpg" alt="Cannaline Glass Stash Jar - Top Strains - Chocolope"></a>
+            <a href="http://www.grasscity.com/us_en/weed-star-mentalist-scientific-glass-bubbler-recessed-dewar-joint-8-arm-tree-perc.html" title="Weed Star - Mentalist Glass Bubbler - Recessed Joint - 8-arm Perc" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/w/s/ws-42703-a.jpg" alt="Weed Star - Mentalist Glass Bubbler - Recessed Joint - 8-arm Perc"></a>
     
     <div class="product-details">
         <p class="product-name">
-                            <a href="http://www.grasscity.com/us_en/cannaline-glass-stash-jar-top-strains-chocolope.html">Cannaline Glass Stash Jar - Top Strains - Chocolope</a>
+                            <a href="http://www.grasscity.com/us_en/weed-star-mentalist-scientific-glass-bubbler-recessed-dewar-joint-8-arm-tree-perc.html">Weed Star - Mentalist Glass Bubbler - Recessed Joint - 8-arm Perc</a>
                     </p>
         <table cellpadding="0">
 
         
                     <tbody><tr>
                             <th>Price</th>
-                                        <td><span class="price">CA$10.53</span></td>
+                                        <td><span class="price">CA$95.94</span></td>
                         </tr>
 
                     
@@ -148,24 +2515,24 @@ _gaq.push(['_trackPageview']);
                 <td>1</td>
             </tr>
         </tbody></table>
-                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/448078/" title="Edit item" class="btn-edit">Edit item</a>
+                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/1202527/" title="Edit item" class="btn-edit">Edit item</a>
         |
-                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/448078/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
+                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/1202527/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
     </div>
 </li>
                     <li class="item">
-            <a href="http://www.grasscity.com/us_en/black-leaf-saxo-glass-bubbler-recessed-joint-two-shower-percs.html" title="Black Leaf - Saxo Glass Bubbler - Recessed Joint - Two Shower Percs" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/u/s/us_454.jpg" alt="Black Leaf - Saxo Glass Bubbler - Recessed Joint - Two Shower Percs"></a>
+            <a href="http://www.grasscity.com/us_en/weed-star-the-beast-quardruple-perc-four-12-arm-tree-perc-glass-ice-tube.html" title="Weed Star - The Beast - Quadruple 12-arm Perc Tube" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/w/s/ws-42692-a.jpg" alt="Weed Star - The Beast - Quadruple 12-arm Perc Tube"></a>
     
     <div class="product-details">
         <p class="product-name">
-                            <a href="http://www.grasscity.com/us_en/black-leaf-saxo-glass-bubbler-recessed-joint-two-shower-percs.html">Black Leaf - Saxo Glass Bubbler - Recessed Joint - Two Shower Percs</a>
+                            <a href="http://www.grasscity.com/us_en/weed-star-the-beast-quardruple-perc-four-12-arm-tree-perc-glass-ice-tube.html">Weed Star - The Beast - Quadruple 12-arm Perc Tube</a>
                     </p>
         <table cellpadding="0">
 
         
                     <tbody><tr>
                             <th>Price</th>
-                                        <td><span class="price">CA$165.08</span></td>
+                                        <td><span class="price">CA$450.35</span></td>
                         </tr>
 
                     
@@ -177,24 +2544,24 @@ _gaq.push(['_trackPageview']);
                 <td>1</td>
             </tr>
         </tbody></table>
-                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/448075/" title="Edit item" class="btn-edit">Edit item</a>
+                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/1202525/" title="Edit item" class="btn-edit">Edit item</a>
         |
-                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/448075/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
+                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/1202525/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
     </div>
 </li>
                     <li class="item">
-            <a href="http://www.grasscity.com/us_en/black-leaf-saxo-glass-bubbler-recessed-joint-shower-perc.html" title="Black Leaf - Saxo Glass Bubbler - Recessed Joint - Shower Perc" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/u/s/us_444.jpg" alt="Black Leaf - Saxo Glass Bubbler - Recessed Joint - Shower Perc"></a>
+            <a href="http://www.grasscity.com/us_en/weed-star-jackson-4-fixed-stem-showerhead-cup-perc-glass-tube.html" title="Weed Star - Jackson 4 Fixed Stem Showerhead Perc Tube with Cup Perc" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/w/s/ws-72507-a.jpg" alt="Weed Star - Jackson 4 Fixed Stem Showerhead Perc Tube with Cup Perc"></a>
     
     <div class="product-details">
         <p class="product-name">
-                            <a href="http://www.grasscity.com/us_en/black-leaf-saxo-glass-bubbler-recessed-joint-shower-perc.html">Black Leaf - Saxo Glass Bubbler - Recessed Joint - Shower Perc</a>
+                            <a href="http://www.grasscity.com/us_en/weed-star-jackson-4-fixed-stem-showerhead-cup-perc-glass-tube.html">Weed Star - Jackson 4 Fixed Stem Showerhead Perc Tube with Cup Perc</a>
                     </p>
         <table cellpadding="0">
 
         
                     <tbody><tr>
                             <th>Price</th>
-                                        <td><span class="price">CA$109.68</span></td>
+                                        <td><span class="price">CA$156.89</span></td>
                         </tr>
 
                     
@@ -206,24 +2573,24 @@ _gaq.push(['_trackPageview']);
                 <td>1</td>
             </tr>
         </tbody></table>
-                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/448074/" title="Edit item" class="btn-edit">Edit item</a>
+                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/1202524/" title="Edit item" class="btn-edit">Edit item</a>
         |
-                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/448074/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
+                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/1202524/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
     </div>
 </li>
                     <li class="item">
-            <a href="http://www.grasscity.com/us_en/black-leaf-saxo-glass-bubbler-recessed-joint-8-arm-tree-perc.html" title="Black Leaf - Saxo Glass Bubbler - Recessed Joint - 8-arm Perc" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/u/s/us_443.jpg" alt="Black Leaf - Saxo Glass Bubbler - Recessed Joint - 8-arm Perc"></a>
+            <a href="http://www.grasscity.com/us_en/black-leaf-6-arm-perc-dome-perc-glass-ice-tube-blue-and-black.html" title="Black Leaf - Dome Perc and 6-arm Perc Glass Ice Tube - Blue and Black" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/g/p/gper_028-col_1.jpg" alt="Black Leaf - Dome Perc and 6-arm Perc Glass Ice Tube - Blue and Black"></a>
     
     <div class="product-details">
         <p class="product-name">
-                            <a href="http://www.grasscity.com/us_en/black-leaf-saxo-glass-bubbler-recessed-joint-8-arm-tree-perc.html">Black Leaf - Saxo Glass Bubbler - Recessed Joint - 8-arm Perc</a>
+                            <a href="http://www.grasscity.com/us_en/black-leaf-6-arm-perc-dome-perc-glass-ice-tube-blue-and-black.html">Black Leaf - Dome Perc and 6-arm Perc Glass Ice Tube - Blue and Black</a>
                     </p>
         <table cellpadding="0">
 
         
                     <tbody><tr>
                             <th>Price</th>
-                                        <td><span class="price">CA$127.41</span></td>
+                                        <td><span class="price">CA$107.23</span></td>
                         </tr>
 
                     
@@ -235,24 +2602,24 @@ _gaq.push(['_trackPageview']);
                 <td>1</td>
             </tr>
         </tbody></table>
-                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/448072/" title="Edit item" class="btn-edit">Edit item</a>
+                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/1202523/" title="Edit item" class="btn-edit">Edit item</a>
         |
-                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/448072/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
+                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/1202523/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
     </div>
 </li>
                     <li class="item">
-            <a href="http://www.grasscity.com/us_en/bulldog-amsterdam-kids-centre-chest-pink.html" title="The Bulldog Amsterdam - Bulldog Logo Kids' T-shirt - Pink" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/bdkidtpink.jpg" alt="The Bulldog Amsterdam - Bulldog Logo Kids' T-shirt - Pink"></a>
+            <a href="http://www.grasscity.com/us_en/black-leaf-3-arm-tree-percolator-ice-tube-one-hitter-diffuser-downstem-pink.html" title="Black Leaf - 3-arm Perc Tube with One-Hitter Bowl Diffuser Downstem - Pink" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/s/a/sa_631-34new.jpg" alt="Black Leaf - 3-arm Perc Tube with One-Hitter Bowl Diffuser Downstem - Pink"></a>
     
     <div class="product-details">
         <p class="product-name">
-                            <a href="http://www.grasscity.com/us_en/bulldog-amsterdam-kids-centre-chest-pink.html">The Bulldog Amsterdam - Bulldog Logo Kids' T-shirt - Pink</a>
+                            <a href="http://www.grasscity.com/us_en/black-leaf-3-arm-tree-percolator-ice-tube-one-hitter-diffuser-downstem-pink.html">Black Leaf - 3-arm Perc Tube with One-Hitter Bowl Diffuser Downstem - Pink</a>
                     </p>
         <table cellpadding="0">
 
         
                     <tbody><tr>
                             <th>Price</th>
-                                        <td><span class="price">CA$13.29</span></td>
+                                        <td><span class="price">CA$55.31</span></td>
                         </tr>
 
                     
@@ -264,9 +2631,9 @@ _gaq.push(['_trackPageview']);
                 <td>1</td>
             </tr>
         </tbody></table>
-                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/448071/" title="Edit item" class="btn-edit">Edit item</a>
+                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/1202521/" title="Edit item" class="btn-edit">Edit item</a>
         |
-                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/448071/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
+                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/1202521/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
     </div>
 </li>
                 </ol>
@@ -283,19 +2650,19 @@ _gaq.push(['_trackPageview']);
     <div class="block-content">
         <ol id="recently-viewed-items">
                     <li class="item">
-                <p class="product-name"><a href="http://www.grasscity.com/us_en/meshugga-clear-and-frosted-glass-bubble-o-bong.html">Meshugga - Clear and Frosted Glass Bubble-O Bong</a></p>
+                <p class="product-name"><a href="http://www.grasscity.com/us_en/hops-glass-inline-perc-ashcatcher-with-flower-bowl-1.html">Hops Glass - Inline Perc Ash Catcher with Flower Bowl</a></p>
             </li>
                     <li class="item">
-                <p class="product-name"><a href="http://www.grasscity.com/us_en/meshugga-clear-and-frosted-glass-easy-rider-cylinder-bong.html">Meshugga - Clear and Frosted Glass Easy Rider Bong</a></p>
+                <p class="product-name"><a href="http://www.grasscity.com/us_en/pyp-tek-prometheus-titan-pipe.html">Pyp Tek - Prometheus Titan Pipe - Choice of 5 colors</a></p>
             </li>
                     <li class="item">
-                <p class="product-name"><a href="http://www.grasscity.com/us_en/meshugga-clear-and-frosted-glass-cool-rider-cylinder-ice-bong.html">Meshugga - Clear and Frosted Glass Cool Rider Ice Bong</a></p>
+                <p class="product-name"><a href="http://www.grasscity.com/us_en/black-leaf-oil-titanium-concentrate-nail.html">Black Leaf - OiL Titanium Concentrate Nail</a></p>
             </li>
                     <li class="item">
-                <p class="product-name"><a href="http://www.grasscity.com/us_en/meshugga-clear-and-frosted-glass-blow-off-bong.html">Meshugga - Clear and Frosted Glass Blow-Off Bong</a></p>
+                <p class="product-name"><a href="http://www.grasscity.com/us_en/paranoia-glass-dog-house-vapor-swing-frosted-glass-45-degree-right-load-peace-sign.html">Paranoia Glass - Dog House Vapor Swing - Frosted Glass 45 Degree Right Load - Peace Sign</a></p>
             </li>
                     <li class="item">
-                <p class="product-name"><a href="http://www.grasscity.com/us_en/meshugga-clear-and-frosted-glass-flashover-bong.html">Meshugga - Clear and Frosted Glass Flashover Bong</a></p>
+                <p class="product-name"><a href="http://www.grasscity.com/us_en/paranoia-glass-dog-house-vapor-swing-clear-glass-45-degree-right-load.html">Paranoia Glass - Dog House Vapor Swing - Clear Glass 45 Degree Right Load</a></p>
             </li>
                 </ol>
         <script type="text/javascript">decorateList('recently-viewed-items');</script>
@@ -333,26 +2700,26 @@ _gaq.push(['_trackPageview']);
             </div>
     <div class="block-content">
         <ul class="tags-list">
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/2151/" style="font-size:75%;">18.8</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/760/" style="font-size:85.980392156863%;">Leaf</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/2096/" style="font-size:79.117647058824%;">Precooler</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/968/" style="font-size:76.372549019608%;">amazing</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/654/" style="font-size:75%;">big</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/3572/" style="font-size:105.19607843137%;">bowl</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/670/" style="font-size:75%;">catcher</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1203/" style="font-size:75%;">cheap</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/760/" style="font-size:83.75%;">Leaf</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/2096/" style="font-size:79.375%;">Precooler</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/654/" style="font-size:76.458333333333%;">big</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/3572/" style="font-size:115.83333333333%;">bowl</a></li>
                             <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/482/" style="font-size:145%;">glass</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/669/" style="font-size:88.725490196078%;">ice</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/655/" style="font-size:79.117647058824%;">joint</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/2759/" style="font-size:77.745098039216%;">perc</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/569/" style="font-size:75%;">grinder</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/669/" style="font-size:89.583333333333%;">ice</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/655/" style="font-size:83.75%;">joint</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/2166/" style="font-size:75%;">papers</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/2759/" style="font-size:77.916666666667%;">perc</a></li>
                             <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1581/" style="font-size:75%;">percolator</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/402/" style="font-size:129.90196078431%;">pipe</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1005/" style="font-size:83.235294117647%;">pipes</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/2/" style="font-size:75%;">roller</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1142/" style="font-size:75%;">screen</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1116/" style="font-size:76.372549019608%;">smoke</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1003/" style="font-size:81.862745098039%;">stealth</a></li>
-                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/4162/" style="font-size:75%;">thick</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/402/" style="font-size:124.58333333333%;">pipe</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1005/" style="font-size:83.75%;">pipes</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/807/" style="font-size:76.458333333333%;">red</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/2/" style="font-size:79.375%;">roller</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1142/" style="font-size:79.375%;">screen</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/2118/" style="font-size:75%;">screens</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1116/" style="font-size:75%;">smoke</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1003/" style="font-size:80.833333333333%;">stealth</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/425/" style="font-size:75%;">steamroller</a></li>
                     </ul>
         <div class="actions">
             <a rel="nofollow" href="http://www.grasscity.com/us_en/tag/list/">View All Tags</a>
@@ -494,7 +2861,7 @@ function changeWebsite(code) {
 
 <div class="header-container">
     <div class="header">
-                    <a href="http://www.grasscity.com/us_en/" title="Grasscity" class="logo"><strong>Grasscity</strong><img src="http://st.grscty.com/skin/frontend/enterprise/grasscity/images/GC_us.png" alt="Grasscity"></a>
+                    <a href="http://www.grasscity.com/us_en/" title="Grasscity" class="logo"><strong>Grasscity</strong><img src="http://st.grscty.com/skin/frontend/enterprise/grasscity/images/GC_int_christmas.png" alt="Grasscity"></a>
                 <div class="secure-seal"><!-- McAfee Secure Trustmark for www.grasscity.com -->
                 <a target="_blank" href="https://www2.mcafeesecure.com/verify?host=www.grasscity.com"><img class="mfes-trustmark" width="70" height="32" border="0" src="http://cdn.ywxi.net/meter/www.grasscity.com/101.gif" title="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
                 <!-- End McAfee Secure Trustmark --></div>
@@ -502,13 +2869,20 @@ function changeWebsite(code) {
             <div class="panel-inner">
             <!--search box starts here -->
 
-<form name="searchform" action="http://find.grasscity.com/search" method="get">
+<form name="searchform" action="http://find.grasscity.com/search" method="get" onsubmit="return searchsubmit(this)">
       <div class="form-search">
 		<input type="hidden" name="view" value="grid">
 		<label for="search">Search site:</label><input type="text" name="w" value="" class="input-text" onfocus="this.value=''" id="sli_search_1" autocomplete="off">&nbsp;<button type="submit" title="Search" class="button"><span><span>Search</span></span></button><a href="http://www.grasscity.com/us_en/catalogsearch/advanced/">Advanced Search</a>
 		<div id="search_autocomplete" class="search-autocomplete"></div>
 	  </div>
 	</form>
+<script type="text/javascript">
+function searchsubmit(form){
+var search = encodeURIComponent(form.w.value);
+window.location="http://find.grasscity.com/search?w="+search
+return false;
+}
+</script> 
 
 
 <!--search box ends here -->
@@ -526,7 +2900,7 @@ function changeWebsite(code) {
                 <ul class="links">
             <li class="first"><a href="https://www.grasscity.com/us_en/customer/account/" title="My Account" rel="nofollow">My Account</a></li>
             <li><a href="http://www.grasscity.com/us_en/" title="" rel="nofollow"></a></li>
-            <li><a href="http://www.grasscity.com/us_en/checkout/cart/" title="My Cart (441)" class="top-link-cart" rel="nofollow">My Cart (441)</a></li>
+            <li><a href="http://www.grasscity.com/us_en/checkout/cart/" title="My Cart (400)" class="top-link-cart" rel="nofollow">My Cart (400)</a></li>
             <li><a href="https://www.grasscity.com/us_en/checkout/" title="Checkout" class="top-link-checkout" rel="nofollow">Checkout</a></li>
             <li class=" last"><a href="https://www.grasscity.com/us_en/customer/account/login/referer/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5P19fX1NJRD1V/" title="Log In" rel="nofollow">Log In</a></li>
     </ul>
@@ -684,13 +3058,20 @@ function changeWebsite(code) {
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sa, s);
   })();
 
+</script>
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/7297.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script><script language="javascript" type="text/javascript">
     var currency = 'CAD';
     var site = 'us_en';
     var sliJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-    document.write(unescape('%3Cscript src="' + sliJsHost + 'grasscity.resultslist.com/rac/sli-rac.config.js?rev=100160" type="text/javascript"%3E%3C/script%3E'));
-</script><script src="https://grasscity.resultslist.com/rac/sli-rac.config.js?rev=100160" type="text/javascript"></script>
+    document.write(unescape('%3Cscript src="' + sliJsHost + 'grasscity.resultspage.com/rac/sli-rac.config.js?rev=100160" type="text/javascript"%3E%3C/script%3E'));
+</script><script src="https://grasscity.resultspage.com/rac/sli-rac.config.js?rev=100160" type="text/javascript"></script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"bc3bb22837","applicationID":"3836627","transactionName":"ZlQGZ0tWXBBXU0xeCl8eJVBNXl0NGVNVREpBUANWFkFbBkE=","queueTime":0,"applicationTime":4409,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"bc3bb22837","applicationID":"3836627","transactionName":"ZlQGZ0tWXBBXU0xeCl8eJVBNXl0NGVNVREpBUANWFkFbBkE=","queueTime":0,"applicationTime":3538,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
