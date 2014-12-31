@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcamax.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626212403id_/http%3A//arcamax.com/reference/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcamax.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231174949id_/http%3A//www.arcamax.com/reference/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Reference | ArcaMax Publishing
 
