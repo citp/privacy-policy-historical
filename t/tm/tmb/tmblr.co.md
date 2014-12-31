@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmblr.co privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531113014id_/https%3A//www.tumblr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmblr.co privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231100129id_/https%3A//www.tumblr.com/privacy_policy) for the most accurate reproduction.*
 
 # Tumblr
 
@@ -18,7 +18,7 @@ Also: This Privacy Policy doesn’t govern what our users do on their Tumblr blo
 
 You can keep yourself fairly anonymous on Tumblr, but remember that your posts, blogs, pages, and username are all visible to the public by default. People that know your email address can also find your blogs. If you’d rather be unlisted, head over to your [Account Settings](https://web.archive.org/settings/account).
 
- **Email Communications with Us:** As part of the Services, you may occasionally receive email and other communications from us. Administrative communications relating to your Account (e.g., for purposes of Account recovery or password reset) are considered part of the Services and your Account, which you may not be able to opt-out from receiving. We also may send you other kinds of emails, which you can opt-out of either from your Account Settings page or by using the “Opt-Out” link in the emails themselves. **Note that we will _never_ email you to ask for your password or other Account Information; if you receive such an email, please forward it to us.**
+ **Email Communications with Us:** As part of the Services, you may occasionally receive email and other communications from us. Administrative communications relating to your Account (e.g., for purposes of Account recovery or password reset) are considered part of the Services and your Account, which you may not be able to opt-out from receiving. We also may send you other kinds of emails, which you can opt-out of either from your Account Settings page or by using the “Opt-Out” link in the emails themselves. **Note that we will _never_ email you to ask for your password or other Account Information; if you receive such an email, please [forward it to us](https://web.archive.org/support).**
 
 We send two kinds of email: ones about fun stuff happening on Tumblr, and ones with important information about your account. You can opt out of the former, but not the latter.
 
@@ -72,7 +72,7 @@ Yahoo owns us and we share.
 
  **Information Shared with the Public Through the Services:** As noted in “User Content” and “Native Actions,” above, by default, content published through the Services and many actions you take on the Services are shared with the public. Because this kind of information can be seen by anyone and may be indexed by search engines (like Google Search, or the far superior Yahoo Search), you should be careful about what you choose to disclose publicly and make sure it’s information you want to share with everyone. 
 
-The content you create on Tumblr is, by default, public. This means that anyone can see it, and that search engines can index it. If these things bother you, take a look at some of the additional [privacy features](https://web.archive.org/docs/en/blog_management#password) we offer.
+The content you create on Tumblr is, by default, public. This means that anyone can see it, and that search engines can index it. If these things bother you, take a look at some of the additional [privacy features](https://web.archive.org/docs/blog_management#password) we offer.
 
  **Information Shared Between the Services:** We may, if possible, aggregate information about your use of multiple Services and use that consolidated information to enhance and improve the Services, and to develop new Services. 
 
@@ -86,7 +86,7 @@ You can automatically publish the posts you make on Tumblr to other sites (like 
 
 Should we happen to get acquired (again!) or go out of business (no way), the transfer of assets from us to our buyer may very well include user information. They are allowed to use it only in the ways outlined here, in the Privacy Policy you are reading right now.
 
- **Information Disclosed for Our Protection and the Protection of Others:** We believe in freedom of expression, and, to the extent reasonable, we try to protect our community from baseless legal demands. That said, we also reserve the right to access, preserve, and disclose any information as we reasonably believe is necessary, in our sole discretion, to (i) satisfy any law, regulation, legal process, governmental request, or governmental order, (ii) enforce this Privacy Policy and our [Terms of Service](https://web.archive.org/policy/drafts/terms-of-service), including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security, trust and safety, or technical issues (including exchanging information with other companies and organizations for the purposes of improving security and preventing fraud, spam, and malware), (iv) respond to user support requests, or (v) protect the rights, property, health or safety of us, our users, any third parties or the public in general, including but not limited to situations involving possible violence, suicide, or self-harm. 
+ **Information Disclosed for Our Protection and the Protection of Others:** We believe in freedom of expression, and, to the extent reasonable, we try to protect our community from baseless legal demands. That said, we also reserve the right to access, preserve, and disclose any information as we reasonably believe is necessary, in our sole discretion, to (i) satisfy any law, regulation, legal process, governmental request, or governmental order, (ii) enforce this Privacy Policy and our [Terms of Service](https://web.archive.org/policy/terms-of-service), including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security, trust and safety, or technical issues (including exchanging information with other companies and organizations for the purposes of improving security and preventing fraud, spam, and malware), (iv) respond to user support requests, or (v) protect the rights, property, health or safety of us, our users, any third parties or the public in general, including but not limited to situations involving possible violence, suicide, or self-harm. 
 
 Don’t make us narc on you. We don’t want to. But we do need to protect everyone who uses Tumblr from harming us, each other, or themselves. We work hard to balance privacy and community, and we’re sure you can appreciate the challenges in that, and the seriousness with which we take those challenges.
 
@@ -108,7 +108,7 @@ If you are a registered user, you can access most information associated with yo
 
 ## How to Delete Your Account and What Happens When You Delete Your Account
 
-If you want to delete your Account, you can do so from your [Account Settings](https://web.archive.org/settings/account) page or by emailing us and providing proof of authority over the Account. What constitutes "proof of authority" will vary depending on the circumstances, but generally will require sufficient identifying information so that we can be confident you are the Account owner. Deleting your Account may not fully remove the content you have published from our systems, as caching of, backups of, copies of, or references to your Account Information may not be immediately removed. In addition, given the nature of sharing on the Services, some of the public activity on your Account prior to deletion (such as reblogs of your blog posts) may remain stored on our servers and accessible to the public. 
+If you want to delete your Account, you can do so from your [Account Settings](https://web.archive.org/settings/account) page or by [emailing us](https://web.archive.org/support) and providing proof of authority over the Account. What constitutes "proof of authority" will vary depending on the circumstances, but generally will require sufficient identifying information so that we can be confident you are the Account owner. Deleting your Account may not fully remove the content you have published from our systems, as caching of, backups of, copies of, or references to your Account Information may not be immediately removed. In addition, given the nature of sharing on the Services, some of the public activity on your Account prior to deletion (such as reblogs of your blog posts) may remain stored on our servers and accessible to the public. 
 
 You’ll do great things on Tumblr, surely, but if it ever comes time to say goodbye, then you’re free to delete your account at any time and for any reason. The deletion will be effective immediately, for the most part, but it might take a little while to scrub everything from our archives and backups. 
 
@@ -116,11 +116,11 @@ What won’t get scrubbed are Reblogs of your posts. Those will remain on whatev
 
 ## Changes to This Privacy Policy
 
-We may amend this Privacy Policy from time to time, using the process for modifications set forth in our [Terms of Service](https://web.archive.org/policy/drafts/terms-of-service). Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected. 
+We may amend this Privacy Policy from time to time, using the process for modifications set forth in our [Terms of Service](https://web.archive.org/policy/terms-of-service). Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected. 
 
 ## Where to Direct Questions or Concerns
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message. 
+If you have any questions or concerns regarding privacy using the Services, [please send us a detailed message](https://web.archive.org/support). 
 
 ## Link to Prior Versions
 
