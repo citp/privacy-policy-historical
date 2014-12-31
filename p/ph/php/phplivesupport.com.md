@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phplivesupport.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127065357id_/http%3A//www.osicodesinc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phplivesupport.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231024113id_/http%3A//www.osicodesinc.com/privacy.php) for the most accurate reproduction.*
 
 # OSI Codes Inc. - Privacy Policy
 
@@ -46,21 +46,11 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone by calling (800)-337-2798 or (917)-338-7663. 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. 
 
 Third Party
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. However, please note that we may release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. 
-
-California Online Privacy Protection Act Compliance
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into the Client area and going to the 'Profile' page. 
-
-Childrens Online Privacy Protection Act Compliance
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all catered to people who are at least 13 years old or older. 
 
 Your Consent
 
@@ -70,11 +60,10 @@ Changes to our Privacy Policy
 
 If changes to our privacy policy is made, we will update the Privacy Policy modification date below. 
 
-Privacy policy last updated on February 13, 2013
+Privacy policy last updated on December 22, 2013
 
 Contacting Us
 
-If there are any questions regarding this privacy policy, please contact us at:  
+For questions regarding this privacy policy, please contact us at:  
 [info@osicodesinc.com](mailto:info@osicodesinc.com)  
-Phone: (800)-337-2798  
-Phone: (917)-338-7663 
+
