@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directvnow.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021629id_/http%3A//www.directv.com/DTVAPP/content/legal/guest_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directvnow.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231022253id_/http%3A//www.directv.com/DTVAPP/content/legal/guest_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ This Policy explains our practices in the following areas:
 7.              How you may access and correct your personally identifiable information.  
 8.              Changes to this Policy.
 
-If you have questions about this Policy, you may contact us 24 hours a day, any day of the year, by phone (1-800-531-5000), e-mail ([www.directv.com/email](https://support.directv.com/app/ask)), or mail:
+If you have questions about this Policy, you may contact us 24 hours a day, any day of the year, by phone (1-800-531-5000), e-mail ([www.directv.com/email](http://www.directv.com/email)), or mail:
 
 **DIRECTV Privacy Policy**  
 **P.O. Box 6550**  
@@ -107,7 +107,7 @@ Your use of a DIRECTV website or other Authorized Application constitutes your e
 You may request that certain uses and disclosures of your information be restricted as described below:  
 
 
-**Communications from DIRECTV.**  We may, from time to time, use your information to contact you by mail, e-mail or telephone to tell you about products or services that we or third parties may offer.  If you do not wish to receive such calls or promotional materials from DIRECTV, call (1-800-531-5000), e-mail ([www.directv.com/email](https://support.directv.com/app/ask)) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550).  If you make these choices, you understand that we will not be able to inform you about any upcoming features, improvements, or promotions regarding DIRECTV products or services.  
+**Communications from DIRECTV.**  We may, from time to time, use your information to contact you by mail, e-mail or telephone to tell you about products or services that we or third parties may offer.  If you do not wish to receive such calls or promotional materials from DIRECTV, call (1-800-531-5000), e-mail ([www.directv.com/email](http://www.directv.com/email)) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550).  If you make these choices, you understand that we will not be able to inform you about any upcoming features, improvements, or promotions regarding DIRECTV products or services.  
 
 
 **Advertisements in our products and services.**  You may request not to receive advertisements in our video services selected for you based on your personally identifiable information by calling 1-800-DIRECTV.  However, you may still continue to receive advertisements that are related to the content on a web page you are visiting or in a service you are using or based on other non-personally identifiable information.  Your request to not receive advertisements applies only to DIRECTV advertising services and does not affect interest-based advertising from commerce partners with whom your information has been shared as provided above, or from other parties (such as advertising networks) that may have access to your information through other services available on an Authorized Application.  To the extent a third party advertisement displayed through an Authorized Application contains third party cookies or other technologies, such third party may be able to collect personally identifiable information about your online activities over time or across third party websites or online services.  This Policy does not apply to a third party's collection and use of your information under such circumstances, and we recommend that you read the privacy policy provided by any such third party.  
@@ -128,13 +128,13 @@ We have implemented reasonable administrative, technical, and physical safeguard
 **VII.  How you may access and correct your personally identifiable information.**  
 
 
-You may obtain access to your personally identifiable information and correct any errors in such information by accessing your DIRECTV online account or contacting us anytime by phone (1-800-531-5000), e-mail ([www.directv.com/email](https://support.directv.com/app/ask)) or mail (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550).  
+You may obtain access to your personally identifiable information and correct any errors in such information by accessing your DIRECTV online account or contacting us anytime by phone (1-800-531-5000), e-mail ([www.directv.com/email](http://www.directv.com/email)) or mail (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550).  
 
 
 **VIII.  Changes to this Policy.**  
 
 
-We reserve the right to change this Policy at any time.  If we make a material change with regard to our collection or use of personally identifiable information, we will note on the main page of our website that this Policy has been updated and may take additional reasonable steps to notify you about the new or revised policy.  To comment on or ask about this Policy, call (1-800-531-5000), e-mail ([www.directv.com/email](https://support.directv.com/app/ask)) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550).  
+We reserve the right to change this Policy at any time.  If we make a material change with regard to our collection or use of personally identifiable information, we will note on the main page of our website that this Policy has been updated and may take additional reasonable steps to notify you about the new or revised policy.  To comment on or ask about this Policy, call (1-800-531-5000), e-mail ([www.directv.com/email](http://www.directv.com/email)) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550).  
 
 
 ©2013 DIRECTV.  DIRECTV and the Cyclone Design logo are trademarks of DIRECTV, LLC.  All other trademarks and service marks are the property of their respective owners.
