@@ -1,0 +1,1100 @@
+<!--The following is the downloaded HTML source of the migrationideas.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231035400id_/http%3A//www.migrationideas.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title></title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="og:image" value="http://www.migrationideas.com/images/logo.png">
+<link href="http://www.migrationideas.com/stylesheets/stylesheet.css" rel="stylesheet" type="text/css">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<link rel="shortcut icon" href="http://www.migrationideas.com/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.migrationideas.com/images/favicon.ico" type="image/vnd.microsoft.icon">
+<link href="http://www.migrationideas.com/SpryAssets/SpryAccordion.css" rel="stylesheet" type="text/css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.migrationideas.com/scripts/iepngfix_tilebg.js"></script>
+<script type="text/javascript" src="http://www.migrationideas.com/js/function.js"></script>
+<script type="text/javascript" src="http://www.migrationideas.com/SpryAssets/SpryAccordion.js"></script>
+<script type="text/javascript" src="http://www.migrationideas.com/js/jquery.als-1.3.min.js"></script>
+<script type="text/javascript" src="http://www.migrationideas.com/js/flux.min.js"></script>
+<script type="text/javascript" src="http://cdn.jsdelivr.net/jquery.imgliquid/0.9.944/imgLiquid-min.js"></script>
+
+<link rel="stylesheet" href="http://www.migrationideas.com/css/validationEngine.jquery.css" type="text/css">
+<link rel="stylesheet" href="http://www.migrationideas.com/css/jquery.mCustomScrollbar.css" type="text/css">
+<script type="text/javascript" src="http://www.migrationideas.com/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="http://www.migrationideas.com/js/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.migrationideas.com/js/jquery.validationEngine.js" type="text/javascript" charset="utf-8"></script>
+
+
+
+<script type="text/javascript">
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+   ga('create', 'UA-49977984-1', 'migrationideas.com');
+   ga('send', 'pageview');
+  
+$(document).ready(function() {
+
+	$("#lista1").als({
+		visible_items: 4,
+		scrolling_items: 2,
+		orientation: "vertical",
+		circular: "no",
+		autoscroll: "no",
+		interval: 2000,
+		speed: 700,
+		easing: "linear",
+		direction: "left",
+		start_from: 5
+	});
+	
+    $("#red ul li").hover(function(){
+        $(this).children("ul").clearQueue().slideToggle(800);   
+    });
+	
+	window.myFlux = new flux.slider('#slider', {
+        autoplay: true,
+        pagination: false,
+		controls: false,
+		transitions: [ 'dissolve' ],
+		delay:5000
+    })
+});
+</script>
+<script type="text/javascript">
+	function showValidationError($ele,msg,wid,heig){
+		var eleId=$ele.attr('id');
+		var errorId=eleId+"-error";
+		var $off=$ele.offset();
+		if($("#"+errorId).length>0)
+			$("#"+errorId).remove();
+		$ele.parent().append("<div id='"+errorId+"' class='validation-error-msg'>"+msg+"</div>");
+		var $error=$("#"+errorId);
+		$error.css({left:$off.left,top:$off.top});
+		if(wid=='')
+			$error.css({width:($ele.width()-20)+'px'});
+		else
+			$error.css({width:(parseInt(wid)-20)+'px'});
+			
+		if(heig!='')
+			$error.css({height:($ele.height()-10)+'px'});
+		else
+			$error.css({height:(parseInt(heig)-10)+'px'});
+		
+		$ele.bind("click",function(){
+			var errorId=$(this).attr('id')+"-error";
+			var $error=$("#"+errorId);
+			$error.remove();
+			$(this).focus();
+		});
+		$error.bind("click",function(){
+			var parentId_arr=$(this).attr("id").split('-');
+			parentId_arr.pop();
+			var parentId=parentId_arr.join('-');
+			var $parent=$("#"+parentId);
+			$parent.focus();
+			$(this).remove();
+		});
+		$error.show('slow');
+	}
+</script>
+</head>
+	<body>
+<div id="wrapper">
+  <ul class="call-appontment">
+    <li class="resume">
+      <p><a href="http://www.migrationideas.com/eligibility/">Check Your <strong>Eligibility</strong></a></p>
+    </li>
+    <li class="telephone">
+      <p><a href="http://www.migrationideas.com/contactus/">Get in<br><strong>Touch</strong></a></p>
+    </li>
+    <li class="appointment">
+      <p><a href="http://www.migrationideas.com/schedule-appoinment/"><strong>Schedule</strong><br>Appointment</a></p>
+    </li>
+  </ul>
+  
+
+
+
+
+
+
+
+
+
+<!--Top Section-->
+  
+  
+<div class="top_section clearfix">
+    <div class="center-pos ">
+      <div class="logo-section"><a href="http://www.migrationideas.com/"><img src="http://www.migrationideas.com/images/logo.png" alt=""></a></div>
+      <!--<div style="display:inline-block;font-size:24px;position:relative;top:-6px;left:146px;font-weight: 600;color: #F30;"><img src="http://www.migrationideas.com/images/migration-ideas-careers.png" /></div>-->
+      <div class="top-right">
+        <div class="flag-section"> 
+               
+               <div class="clearfix"></div>
+        <div class="phone">1800-102-5766</div>
+          <div class="search_form">
+        <input type="text" id="query" name="query" class="search_item" value="Search" onkeyup="AllowonlyAlphabet(this)" placeholder="Search" onfocus="if(this.value=='Search') this.value='';" onkeydown="if (event.keyCode == 13) window.open(&quot;http://www.migrationideas.com/search/&quot;+this.value+&quot;/&quot;,&quot;_self&quot;); ">
+        <button type="button" value="" class="btn_top_search" onclick="SearchForm()"></button>
+        </div><script type="text/javascript">
+					function SearchForm(){
+						var query = $("#query").val();
+						if(query!=""){
+							window.open("http://www.migrationideas.com/search/"+query+"/","_self");
+						} else {
+							showValidationError($("#query"),"Please enter a query to search",'','');
+							return false;
+						}
+					}
+		</script><div class="social"> 
+			<a href="https://www.facebook.com/pages/Migrationideas/595370880549632" class="icon-facebook" title="Facebook" target="_blank"></a> 
+			<a href="https://twitter.com/Migrationideas" class="icon-twitter" title="Twitter" target="_blank"></a> 
+			<a href="https://plus.google.com/b/102160584119171675911/102160584119171675911/posts" class="icon-googleplus" title="Google +" target="_blank"></a> 
+			<a href="http://www.linkedin.com/company/migrationideas" class="icon-linkedin" title="LinkedIn" target="_blank"></a> 
+		</div>
+			</div>
+      </div>
+    </div>
+  </div>
+  
+ <style type="text/css">
+.column h3 a { padding:0 0 0 5px; }
+</style>
+<script type="text/javascript">
+$(function() {
+       $(".nav-middle li").hover(function() {
+          $(this).find("#megamenu").stop().slideToggle("fast");
+       });
+});
+</script>
+
+<div class="clearfix">
+  <div class="center-pos">
+    <div class="navigation">
+      <div class="nav-left"><a href="http://www.migrationideas.com/"><img src="http://www.migrationideas.com/images/home.gif" alt=""></a></div>
+      <ul class="nav-middle">
+        <li class=""><a href="http://www.migrationideas.com/aboutus/">about us</a></li>
+        
+        <li id="dropdownmenu1" class=""><a href="#">Products</a>
+          <div id="megamenu" class="megamenu">
+          <!----- to get top 5 countries ----------------->
+                       <div class="column">
+                          <h3><a href="http://www.migrationideas.com/visas/Australia/">Australia </a></h3>
+              <span><a href="http://www.migrationideas.com/visas/Australia/">view all</a></span>
+              <ul>
+                              <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Australia/australia-skill-select/" title="Australia Skill Select ">  Skill Select </a></li>
+              
+                               <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Australia/australia-skilled-recognized-graduate-subclass-476/" title="Australia Skilled Recognized Graduate Subclass 476">  Skilled Recognized Graduate Subclass 476</a></li>
+              
+                               <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Australia/australia-skilled-independent-visa-subclass-189/" title="Australia Skilled Independent Visa - Subclass 189">  Skilled Independent Visa - Subclass 189</a></li>
+              
+                               <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Australia/australia-skilled-nominated-visa-subclass-190/" title="Australia Skilled Nominated Visa - Subclass 190">  Skilled Nominated Visa - Subclass 190</a></li>
+              
+                               <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Australia/employer-nomination-scheme/" title="Employer Nomination Scheme">Employer Nomination Scheme</a></li>
+              
+                             </ul>
+              
+            </div>
+                        <div class="column">
+                          <h3><a href="http://www.migrationideas.com/visas/Canada/">Canada </a></h3>
+              <span><a href="http://www.migrationideas.com/visas/Canada/">view all</a></span>
+              <ul>
+                              <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Canada/canada-express-entry/" title="Canada Express Entry">  Express Entry</a></li>
+              
+                               <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Canada/federal-skilled-worker-program/" title="Federal Skilled Worker Program">Federal Skilled Worker Program</a></li>
+              
+                               <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Canada/quebec-skilled-worker-visa/" title="Quebec Skilled Worker Visa">Quebec Skilled Worker Visa</a></li>
+              
+                               <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Canada/nova-scotia-nomination-program/" title="Nova Scotia Nomination Program">Nova Scotia Nomination Program</a></li>
+              
+                               <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Canada/saskatchewan-nomination-program/" title="Saskatchewan Nomination Program">Saskatchewan Nomination Program</a></li>
+              
+                             </ul>
+              
+            </div>
+                        <div class="column">
+                          <h3><a href="http://www.migrationideas.com/visas/United-Kingdom/">UK </a></h3>
+              <span><a href="http://www.migrationideas.com/visas/United-Kingdom/">view all</a></span>
+              <ul>
+                              <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/United-Kingdom/dependency-visa/" title="Dependency Visa">Dependency Visa</a></li>
+              
+                             </ul>
+              
+            </div>
+            <br style="clear: left">            <div class="column">
+                          <h3><a href="http://www.migrationideas.com/visas/Denmark/">Denmark </a></h3>
+              <span><a href="http://www.migrationideas.com/visas/Denmark/">view all</a></span>
+              <ul>
+                              <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Denmark/danish-green-card/" title="Danish Green Card">Danish Green Card</a></li>
+              
+                             </ul>
+              
+            </div>
+                        <div class="column">
+                          <h3><a href="http://www.migrationideas.com/visas/South-Africa/">South-Africa </a></h3>
+              <span><a href="http://www.migrationideas.com/visas/South-Africa/">view all</a></span>
+              <ul>
+                              <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/South-Africa/critical-skills-visa/" title="Critical Skills Visa">Critical Skills Visa</a></li>
+              
+                             </ul>
+              
+            </div>
+                        <div class="column">
+                          <h3><a href="http://www.migrationideas.com/visas/Germany/">Germany </a></h3>
+              <span><a href="http://www.migrationideas.com/visas/Germany/">view all</a></span>
+              <ul>
+                              <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Germany/germany-job-seeker-visa/" title="Germany Job Seeker Visa">  Job Seeker Visa</a></li>
+              
+                             </ul>
+              
+            </div>
+                        <div class="column">
+                          <h3><a href="http://www.migrationideas.com/visas/USA/">USA </a></h3>
+              <span><a href="http://www.migrationideas.com/visas/USA/">view all</a></span>
+              <ul>
+                              <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/USA/work-study-program/" title="Work Study Program">Work Study Program</a></li>
+              
+                               <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/USA/eb-5-visa/" title="EB-5 Visa">EB-5 Visa</a></li>
+              
+                             </ul>
+              
+            </div>
+                        <div class="column">
+                          <h3><a href="http://www.migrationideas.com/visas/Austria/">Austria </a></h3>
+              <span><a href="http://www.migrationideas.com/visas/Austria/">view all</a></span>
+              <ul>
+                              <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Austria/austria-red-white-red-card/" title="Austria Red White Red Card">  Red White Red Card</a></li>
+              
+                             </ul>
+              
+            </div>
+                        <div class="column">
+                          <h3><a href="http://www.migrationideas.com/visas/Hong-Kong/">Hong-Kong </a></h3>
+              <span><a href="http://www.migrationideas.com/visas/Hong-Kong/">view all</a></span>
+              <ul>
+                              <li><a style="overflow: hidden;width: 90%;text-overflow: ellipsis;height: 30px;white-space: nowrap;padding: 0px 10px;" href="http://www.migrationideas.com/visas/Hong-Kong/hong-kong-quality-migrant-admission-scheme/" title="Hong Kong Quality Migrant Admission Scheme">  Quality Migrant Admission Scheme</a></li>
+              
+                             </ul>
+              
+            </div>
+                       
+          </div>
+        </li>
+        <li class=""><a href="http://www.migrationideas.com/testimonials/">testimonials</a></li>
+        <li class=""><a href="http://www.migrationideas.com/news/">news</a></li>
+        <li class=""><a href="http://www.migrationideas.com/articles/">Articles</a></li>
+        <!--<li><a href="#">articles</a></li>-->
+        <li class=""><a href="http://www.blog.migrationideas.com/" target="blank">blog</a></li>
+        <li class=""><a href="http://www.migrationideas.com/faqs/">FAQs</a></li>
+        <li class=""><a href="http://www.migrationideas.com/contactus/">contact us</a></li>
+      </ul>
+      <div class="nav-right"></div>
+    </div>
+  </div>
+</div>
+<div class="latest-news clearfix">
+  <div class="popular-product">
+        <ul>
+            <li><a href="http://www.migrationideas.com/visas/Australia/"><i class="country-flag-australia"></i>
+        Australia        </a></li>
+            <li><a href="http://www.migrationideas.com/visas/Canada/"><i class="country-flag-canada"></i>
+        Canada        </a></li>
+            <li><a href="http://www.migrationideas.com/visas/United-Kingdom/"><i class="country-flag-uk"></i>
+        UK        </a></li>
+            <li><a href="http://www.migrationideas.com/visas/Denmark/"><i class="country-flag-denmark"></i>
+        Denmark        </a></li>
+            <li><a href="http://www.migrationideas.com/visas/South-Africa/"><i class="country-flag-southafrica"></i>
+        South Africa        </a></li>
+          </ul>
+  </div>
+  <noscript>
+                <div class="disabled">
+                    <img width="16" height="16" alt="javascript disabled" src="http://www.migrationideas.com/images/no.gif">
+                      <span style="position:relative; top:-3px; left:3px; font-size:13px;">Javascript is disabled in your web browser. Kindly enable the same to enjoy the features.</span></div>
+  </noscript>
+</div>
+
+     <div class="center-pos content-inner-page">
+ 
+ 
+ <div class="left-section">
+
+    <div class="ideas">
+     
+       <div class="box-cntnr">
+       <div class="col_1000">
+	<div>
+	    <ul class="breadcrumb">
+	    	<li><a href="http://www.migrationideas.com/"><i class="fa fa-home"></i></a><span>&nbsp;&nbsp;<i class="fa fa-caret-right"></i></span></li>
+	        <li><span class="pagename">	Privacy-policy</span></li>
+	    </ul>
+    </div>
+ </div>
+       <h1><i class="icon-heading"></i>Privacy Policy</h1>
+       
+       
+       <p align="\&quot;center\&quot;" style="\&quot;text-align:center\&quot;"><b><u>PRIVACY POLICY</u></b></p>  <p><b><u>YOUR &nbsp;PRIVACY AT WWW.MIGRATIONIDEAS.COM</u></b></p>  <p style="\&quot;text-align:justify;text-justify:inter-ideograph\&quot;">When registering you do not need to provide any information except the bare minimum that we need for your account: a username, email and a password. Unlike many other sites we will never share your email and password with third parties in any manner unless required/demanded by lawful authority.&nbsp; We collect no personal information about you when you visit our website. If you have any suggestions on how we can improve, please don't hesitate to contact us.<s></s></p>  <p><b><u>WHAT WE COLLECT AND STORE AUTOMATICALLY</u></b></p>  <p style="\&quot;text-align:justify;text-justify:inter-ideograph\&quot;">If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. Rather, Information is kept in the aggregate. We automatically collect and store only the information about your visit. We use the information we collect to understand the traffic to our site (for example it is important to know how much bandwidth the site uses so that we can purchase more if needed, if the "hits" to our site increase we need to pay more money for better hosting), and to help us to make our site more useful to visitors like you.</p>  <p><b><u>IF YOU SEND US EMAIL: </u></b></p>  <p style="\&quot;text-align:justify;text-justify:inter-ideograph\&quot;">You may choose to provide us with personal information, as in email with a comment or question. We use the information to improve our services to you or to respond to your requests. Except for authorized law enforcement Investigations/enquiries, we do not share our email with any other outside organizations.</p>  <p><b><u>COOKIES:</u>&nbsp;&nbsp;&nbsp;&nbsp; </b></p>  <p style="\&quot;text-align:justify;text-justify:inter-ideograph\&quot;">A)&nbsp; VISITING THE SITE - if all you do is visit and surf the site, no cookies are used.</p>  <p style="\&quot;text-align:justify;text-justify:inter-ideograph\&quot;">B)&nbsp; LOGGING IN - if you decide to use a cookie (this is done by checking the box that logs you in automatically) to save you logging in every time you visit www.migrationideas.com. Cookies help us create a speedy web experience by remembering<b> </b>your user name and email information, so you don't have to re type it when signing in. Cookies do not store personal information and we do not use them to track your movements through our site and you do not need cookies to use this site (you will simply have to log in at every visit) it's your choice.</p>  <p style="\&quot;text-align:justify;text-justify:inter-ideograph\&quot;">C)&nbsp; SPELL CHECK -The spell check has the ability to learn from you. That means that if a word is consistently marked as a misspelled word (a member's name that is not in the dictionary for example )you can click the button "learn" in the spell checker and this word will be saved to a cookie so that it will not be marked as a misspelled word in the future. If you do not use this feature the spell checker does not use any cookies.</p>  <p style="\&quot;text-align:justify;text-justify:inter-ideograph\&quot;">If at any time we add anything else that uses a cookie the privacy policy will be updated. If you find a cookie from our site that you think does not fall under one of those categories please contact us.</p>  <p>D)&nbsp; Google as a third party vendor, uses cookies to serve advertisements on our site.</p>  <p>Google's use of the DART cookie enables it to serve ads to users based on their visit to other sites on the internet.</p>  <p>Users may opt out of the use of the DART cookie by visiting the <u>Google ad and content network privacy policy.</u></p>  <p><b><u>POSTING TO THE SITE:</u></b></p>  <p style="\&quot;text-align:justify;text-justify:inter-ideograph\&quot;">If you post a message on the site it is stored in a database. The pages then display information from the database so that others can read your post on the forums. This is how any dynamic site works, the text has to be stored somewhere so that it can be displayed.</p>  <p><b><u>LINKS TO OTHER SITES:&nbsp; </u></b></p>  <p style="\&quot;text-align:justify;text-justify:inter-ideograph\&quot;">Our website has links to partners and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.</p>  <p><b><u>RESTRICTION OF LIABILITY:&nbsp;&nbsp;&nbsp; </u></b></p>  <p style="\&quot;text-align:justify;text-justify:inter-ideograph\&quot;"><b>www.migrationideas.com</b> makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.</p>  <p style="\&quot;text-align:justify;text-justify:inter-ideograph\&quot;">No warranty of any kind, implied, expressed or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this website or its hyperlinks to other Internet resources.</p>  <p style="\&quot;text-align:justify;text-justify:inter-ideograph\&quot;">Reference in this website to any specific commercial products, processes or services, or the use of any trade, firm or corporation name is for the information and convenience of the public only, and does not constitute endorsement, recommendation, or favoring by visiting&nbsp; this site i.e.<b>www.migrationideas.com</b> in any manner.</p>  <p style="\&quot;text-align:justify;text-justify:inter-ideograph\&quot;">Advertisements are subject to the privacy policy of those concerned advertising sites. <b>www.migrationideas.com</b> has no liability for such use/misuse of such sites and any information collected on <a href="http://www.migrationideas.com"><b>www.migrationideas.com</b></a><b> </b>&nbsp;websites is not shared except to comply with Law if required.</p>  <p>&nbsp;</p>         
+      
+            </div>
+    </div>
+</div><style>
+.btn-subscribe { float:right;display:none; }
+</style>
+<style>
+.sbmt-btn1 { float:right;}
+.sbmt-btn2 { float:right;display:block; }
+.overflow-scroll { margin:40px 40px 40px 0; padding:20px; overflow:auto; height:160px; }
+.overflow-scroll p:nth-child(even) { color:#999; }
+.overflow-scroll p:nth-child(3n+0) { color:#c96; }
+.content-inner-page h3 { width:100%; }
+.hideButt { float:right;display:none; }
+.box-cntnr.immigration-news.testimonial-box { width: 99.5%; }
+.box-cntnr.immigration-news { width: 99.5%; }
+p.blog_title { max-height:19px; overflow:hidden; }
+ul.image-list p { font-size:12px !important; }
+.blog_date { color: #777; font-size: 6px !important; line-height: 22px !important; }
+a .blog_content { color:#555; line-height:15px !important; } 
+.testimonial-box a li { color:#222 !important; }
+</style>
+<script type="text/javascript">
+$(window).load(function(){
+		$(".imgLiquidFill").imgLiquid({
+			fill: true,
+			horizontalAlign: "center",
+			verticalAlign: "30%"
+		});
+		
+		$(".imgLiquidNoFill").imgLiquid({
+			fill: false,
+			horizontalAlign: "center",
+			verticalAlign: "50%"
+		});
+	});
+</script>
+<div class="right-section">
+  <div class="enquiry">
+    <div class="enqry-form">
+      <div class="enquiry-head">quick enquiry</div>
+      <form action="http://www.migrationideas.com/save_enquiry.php" method="post" class="enqryForm" name="enquiryform" id="enquiryform" onsubmit="return ValidateQuickEnquiry()">
+        <input type="text" name="first_name" id="first_name" style="width:1px; padding:0; visibility:hidden; height:0;">
+        <input name="txtname" id="txtname" type="text" placeholder="Enter Your Name" onkeyup="AllowonlyAlphabet(this)">
+        <input name="txtemail" id="txtemail" type="text" placeholder="Enter Your Email">
+        <input name="txtphone" id="txtphone" type="text" maxlength="10" placeholder="Enter Mobile No." onkeypress="return NumbersOnly(this, event)">
+        <select name="cmbcountry_to" id="cmbcountry_to">
+                    <option value="">Select Preferred Country</option>
+                    <option value="220"> Afghanistan</option>
+         
+                    <option value="221"> Albania</option>
+         
+                    <option value="222"> Algeria</option>
+         
+                    <option value="223"> American Samoa</option>
+         
+                    <option value="224"> Angola</option>
+         
+                    <option value="225"> Anguilla</option>
+         
+                    <option value="226"> Antigua &amp; Barbuda</option>
+         
+                    <option value="10"> Argentina</option>
+         
+                    <option value="11"> Armenia</option>
+         
+                    <option value="12"> Aruba</option>
+         
+                    <option value="4"> Australia</option>
+         
+                    <option value="14"> Austria</option>
+         
+                    <option value="15"> Azerbaijan</option>
+         
+                    <option value="16"> Bahrain</option>
+         
+                    <option value="17"> Bangladesh</option>
+         
+                    <option value="18"> Barbados</option>
+         
+                    <option value="19"> Belarus</option>
+         
+                    <option value="20"> Belgium</option>
+         
+                    <option value="21"> Belize</option>
+         
+                    <option value="22"> Benin</option>
+         
+                    <option value="23"> Bermuda</option>
+         
+                    <option value="24"> Bhutan</option>
+         
+                    <option value="25"> Bolivia</option>
+         
+                    <option value="26"> Bosnia</option>
+         
+                    <option value="27"> Botswana</option>
+         
+                    <option value="28"> Brazil</option>
+         
+                    <option value="29"> British Virgin Islands</option>
+         
+                    <option value="30"> Brunei</option>
+         
+                    <option value="31"> Bulgaria</option>
+         
+                    <option value="32"> Burma</option>
+         
+                    <option value="33"> Burundi</option>
+         
+                    <option value="34"> C A R</option>
+         
+                    <option value="35"> Cambodia</option>
+         
+                    <option value="36"> Cameroon</option>
+         
+                    <option value="5"> Canada</option>
+         
+                    <option value="38"> Cape Verde</option>
+         
+                    <option value="39"> Cayman Islands</option>
+         
+                    <option value="40"> Chad</option>
+         
+                    <option value="41"> Chile</option>
+         
+                    <option value="42"> China</option>
+         
+                    <option value="43"> Colombia</option>
+         
+                    <option value="44"> Comoros</option>
+         
+                    <option value="45"> Congo</option>
+         
+                    <option value="46"> Cook Islands</option>
+         
+                    <option value="47"> Costa Rica</option>
+         
+                    <option value="48"> Cote dIvoire</option>
+         
+                    <option value="49"> Croatia</option>
+         
+                    <option value="50"> Cuba</option>
+         
+                    <option value="51"> Cyprus</option>
+         
+                    <option value="52"> Czech Republic</option>
+         
+                    <option value="6"> Denmark</option>
+         
+                    <option value="54"> Djibouti</option>
+         
+                    <option value="55"> Dominica</option>
+         
+                    <option value="56"> Dominican Republic</option>
+         
+                    <option value="57"> East Timor</option>
+         
+                    <option value="58"> Ecuador</option>
+         
+                    <option value="59"> Egypt</option>
+         
+                    <option value="60"> EI Salvador</option>
+         
+                    <option value="228"> England</option>
+         
+                    <option value="61"> Equatorial Guinea</option>
+         
+                    <option value="62"> Eritrea</option>
+         
+                    <option value="63"> Estonia</option>
+         
+                    <option value="64"> Ethiopia</option>
+         
+                    <option value="65"> Falkland Islands</option>
+         
+                    <option value="66"> Fiji</option>
+         
+                    <option value="67"> Finland</option>
+         
+                    <option value="7"> France</option>
+         
+                    <option value="69"> French Guiana</option>
+         
+                    <option value="70"> French Polynesia</option>
+         
+                    <option value="71"> FS Micronesia</option>
+         
+                    <option value="72"> Gabon</option>
+         
+                    <option value="73"> Georgia</option>
+         
+                    <option value="74"> Germany</option>
+         
+                    <option value="75"> Ghana</option>
+         
+                    <option value="76"> Greece</option>
+         
+                    <option value="77"> Greenland</option>
+         
+                    <option value="78"> Grenada</option>
+         
+                    <option value="79"> Guadeloupe</option>
+         
+                    <option value="80"> Guam</option>
+         
+                    <option value="81"> Guatemala</option>
+         
+                    <option value="82"> Guinea</option>
+         
+                    <option value="83"> Guinea-Bissau</option>
+         
+                    <option value="84"> Guyana</option>
+         
+                    <option value="85"> Haiti</option>
+         
+                    <option value="86"> Honduras</option>
+         
+                    <option value="87"> Hong Kong</option>
+         
+                    <option value="88"> Hungary</option>
+         
+                    <option value="89"> Iceland</option>
+         
+                    <option value="90"> Independent state of Samoa</option>
+         
+                    <option value="91"> Indonesia</option>
+         
+                    <option value="92"> Iran</option>
+         
+                    <option value="93"> Iraq</option>
+         
+                    <option value="94"> Ireland</option>
+         
+                    <option value="95"> Israel</option>
+         
+                    <option value="96"> Italy</option>
+         
+                    <option value="97"> Jamaica</option>
+         
+                    <option value="98"> Japan</option>
+         
+                    <option value="99"> Jordan</option>
+         
+                    <option value="100"> Kazakhstan</option>
+         
+                    <option value="101"> Kenya</option>
+         
+                    <option value="102"> Kiribati</option>
+         
+                    <option value="103"> Kuwait</option>
+         
+                    <option value="104"> Kyrgyzstan</option>
+         
+                    <option value="105"> Laos</option>
+         
+                    <option value="106"> Latvia</option>
+         
+                    <option value="107"> Lebanon</option>
+         
+                    <option value="108"> Lesotho</option>
+         
+                    <option value="109"> Liberia</option>
+         
+                    <option value="110"> Libya</option>
+         
+                    <option value="111"> Lithuania</option>
+         
+                    <option value="112"> Luxembourg</option>
+         
+                    <option value="113"> Macau</option>
+         
+                    <option value="114"> Macedonia</option>
+         
+                    <option value="115"> Madagascar</option>
+         
+                    <option value="116"> Malawi</option>
+         
+                    <option value="9"> Malaysia</option>
+         
+                    <option value="118"> Maldives</option>
+         
+                    <option value="119"> Mali</option>
+         
+                    <option value="120"> Malta</option>
+         
+                    <option value="121"> Marshall Islands</option>
+         
+                    <option value="122"> Martinique</option>
+         
+                    <option value="123"> Mauritania</option>
+         
+                    <option value="124"> Mauritius</option>
+         
+                    <option value="125"> Mayotte</option>
+         
+                    <option value="126"> Mexico</option>
+         
+                    <option value="127"> Moldova</option>
+         
+                    <option value="128"> Mongolia</option>
+         
+                    <option value="129"> Montenegro</option>
+         
+                    <option value="130"> Montserrat</option>
+         
+                    <option value="131"> Morocco</option>
+         
+                    <option value="132"> Mozambique</option>
+         
+                    <option value="133"> Namibia</option>
+         
+                    <option value="134"> Nauru</option>
+         
+                    <option value="135"> Nepal</option>
+         
+                    <option value="13"> Netherlands</option>
+         
+                    <option value="136"> Netherlands Antilles</option>
+         
+                    <option value="137"> New Caledonia</option>
+         
+                    <option value="138"> New Zealand</option>
+         
+                    <option value="139"> Nicaragua</option>
+         
+                    <option value="140"> Niger</option>
+         
+                    <option value="141"> Nigeria</option>
+         
+                    <option value="142"> Niue</option>
+         
+                    <option value="227"> North Africa</option>
+         
+                    <option value="143"> North Korea</option>
+         
+                    <option value="144"> Northern Mariana Islands</option>
+         
+                    <option value="145"> Norway</option>
+         
+                    <option value="146"> Oman</option>
+         
+                    <option value="147"> Pakistan</option>
+         
+                    <option value="148"> Palau</option>
+         
+                    <option value="149"> Panama</option>
+         
+                    <option value="150"> Papua New Guinea</option>
+         
+                    <option value="151"> Paraguay</option>
+         
+                    <option value="152"> Peru</option>
+         
+                    <option value="153"> Philippines</option>
+         
+                    <option value="154"> Poland</option>
+         
+                    <option value="155"> Portugal</option>
+         
+                    <option value="156"> Puerto Rico</option>
+         
+                    <option value="157"> Qatar</option>
+         
+                    <option value="158"> Republic of Congo</option>
+         
+                    <option value="159"> Reunion</option>
+         
+                    <option value="160"> Romania</option>
+         
+                    <option value="161"> Russia</option>
+         
+                    <option value="162"> Rwanda</option>
+         
+                    <option value="163"> Saint Helena</option>
+         
+                    <option value="164"> Sao Tome and Principe</option>
+         
+                    <option value="165"> Saudi Arabia</option>
+         
+                    <option value="166"> Senegal</option>
+         
+                    <option value="167"> Serbia</option>
+         
+                    <option value="168"> Seychelles</option>
+         
+                    <option value="169"> Sierra Leone</option>
+         
+                    <option value="8"> Singapore</option>
+         
+                    <option value="171"> Slovakia</option>
+         
+                    <option value="172"> Slovenia</option>
+         
+                    <option value="173"> Solomon Islands</option>
+         
+                    <option value="174"> Somalia</option>
+         
+                    <option value="175"> South Africa</option>
+         
+                    <option value="176"> South Korea</option>
+         
+                    <option value="177"> Spain</option>
+         
+                    <option value="178"> Sri Lanka</option>
+         
+                    <option value="179"> St.Kitts &amp; Nevis</option>
+         
+                    <option value="180"> St.Lucia</option>
+         
+                    <option value="181"> St.Pierre &amp; Miquelon</option>
+         
+                    <option value="182"> St.Vincent &amp; The Grenadines</option>
+         
+                    <option value="183"> Sudan</option>
+         
+                    <option value="184"> Suriname</option>
+         
+                    <option value="185"> Swaziland</option>
+         
+                    <option value="186"> Sweden</option>
+         
+                    <option value="187"> Switzerland</option>
+         
+                    <option value="188"> Syria</option>
+         
+                    <option value="189"> Taiwan</option>
+         
+                    <option value="190"> Tajikistan</option>
+         
+                    <option value="191"> Tanzania</option>
+         
+                    <option value="192"> Thailand</option>
+         
+                    <option value="193"> The Bahamas</option>
+         
+                    <option value="194"> The Gambia</option>
+         
+                    <option value="195"> Togo</option>
+         
+                    <option value="196"> Tonga</option>
+         
+                    <option value="197"> Trinidad &amp; Tobago</option>
+         
+                    <option value="198"> Tunisia</option>
+         
+                    <option value="199"> Turkey</option>
+         
+                    <option value="200"> Turkmenistan</option>
+         
+                    <option value="201"> Turks &amp; Caicos Islands</option>
+         
+                    <option value="202"> Tuvalu</option>
+         
+                    <option value="204"> U.S.Virgin Islands</option>
+         
+                    <option value="203"> UAE</option>
+         
+                    <option value="205"> Uganda</option>
+         
+                    <option value="206"> Ukraine</option>
+         
+                    <option value="2"> UK</option>
+         
+                    <option value="208"> Uruguay</option>
+         
+                    <option value="3"> USA</option>
+         
+                    <option value="210"> Uzbekistan</option>
+         
+                    <option value="211"> Vanuatu</option>
+         
+                    <option value="229"> ve</option>
+         
+                    <option value="212"> Venezuela</option>
+         
+                    <option value="213"> Vietnam</option>
+         
+                    <option value="214"> Wallis and Futuna</option>
+         
+                    <option value="215"> Western Sahara</option>
+         
+                    <option value="216"> Yemen</option>
+         
+                    <option value="217"> Zambia</option>
+         
+                    <option value="218"> Zimbabwe</option>
+         
+                  </select>
+        <textarea name="txtenq" id="txtenq" cols="" rows="" placeholder="Message"></textarea>
+        <div class="subscribe">
+          <input name="subscribe_alerts" type="checkbox" value="1" checked="" id="subscribe_alerts" style="position:relative; top:2px;">
+          <label for="send-a-copy">Subscribe to Newsletter</label>
+        </div>
+        <input type="hidden" name="action" value="AddEnquiry">
+        <input type="hidden" name="source" id="source" value="web">
+			<input name="btnsubmit" id="btnsubmit" type="button" value="Submit" class="sbmt-btn orange-gradiant hideButt" onclick="return ValidateQuickEnquiry();">
+		<script type="text/javascript">$('.hideButt').show();</script>
+      </form>
+    </div>
+  </div>
+    <h3 style="margin:0 0 0 10px"><i class="icon-destinations"></i>Top Destinations</h3>
+  <div class="box-cntnr immigration-news clearfix trending-visas" style="width:313px; float:left; margin-left:7px">
+    <ul class="overflow-scroll" id="content_1">
+            <li><a href="http://www.migrationideas.com/visas/Hong-Kong/" title="Hong Kong">
+      Hong Kong        
+        </a></li>
+            <li><a href="http://www.migrationideas.com/visas/Austria/" title="Austria">
+      Austria        
+        </a></li>
+            <li><a href="http://www.migrationideas.com/visas/USA/" title="USA">
+      USA        
+        </a></li>
+            <li><a href="http://www.migrationideas.com/visas/Germany/" title="Germany">
+      Germany        
+        </a></li>
+            <li><a href="http://www.migrationideas.com/visas/South-Africa/" title="South Africa">
+      South Africa        
+        </a></li>
+          </ul>
+  </div>
+  <script>
+		(function($){
+			$(window).load(function(){
+				$(".overflow-scroll").mCustomScrollbar({
+					scrollButtons:{
+						enable:true
+					}
+				});
+			});
+		})(jQuery);
+	</script>
+    <div class="sidebar"> 
+    <!------------- FOR TESTIMONIALS ------------------------------------->
+    <div>
+            <h3 style="margin-top:2px; margin-bottom:1px;"><i class="icon-testimonial"></i>Testimonials <a href="http://www.migrationideas.com/testimonials/">View all »</a></h3>
+      <div class="box-cntnr immigration-news testimonial-box">
+                <ul>
+                   <a href="http://www.migrationideas.com/testimonials/">
+          <li>
+                        <img src="http://www.migrationideas.com/images/avtar.png" alt="" title="" class="left" width="117" height="135">
+                        <p><strong>
+              </strong></p><p><strong>I had only dreamt of going to Canada and reside there permanently. Migration Ideas translated thi...              </strong><br>
+              <em>by <span>
+                            </span>,
+              09 May 2014               </em><br>
+            </p>
+          </li>
+          </a>
+                   <a href="http://www.migrationideas.com/testimonials/">
+          <li>
+                        <img src="http://www.migrationideas.com/images/avtar.png" alt="" title="" class="left" width="117" height="135">
+                        <p><strong>
+              </strong></p><p><strong>Family-based immigration is one of the tougher routes to take/adopt to move to the US, but with t...              </strong><br>
+              <em>by <span>
+                            </span>,
+              03 April 2014               </em><br>
+            </p>
+          </li>
+          </a>
+                   <a href="http://www.migrationideas.com/testimonials/">
+          <li>
+                        <img src="http://www.migrationideas.com/images/avtar.png" alt="" title="" class="left" width="117" height="135">
+                        <p><strong>
+              </strong></p><p><strong>UK is still one of the world's best places to live in and language spoken there is English. I wan...              </strong><br>
+              <em>by <span>
+                            </span>,
+              01 March 2014               </em><br>
+            </p>
+          </li>
+          </a>
+                  </ul>
+      </div>
+          </div>
+    
+    <!------------- for news --------------------------------------------->
+         <h3 style="margin-bottom:0px;"><i class="icon-migation-news"></i>Immigration News<a href="http://www.migrationideas.com/news/">View all »</a></h3>
+    <div class="box-cntnr immigration-news">
+             <ul>
+                <a href="http://www.migrationideas.com/news/canada-extends-application-intake-for-quebec-investor-program/356/"><li>
+                    <div class="imgLiquid imgLiquidFill imgLiquid_bgSize imgLiquid_ready imgleft"><img src="http://www.migrationideas.com/media-library/QuebecInvestorProgram.jpg" alt="" title="" width="53" height="53" style="cursor:pointer"></div>
+                    <p class="max-height-news"><strong>
+            Canada Extends Application Intake for Quebec Investor Program            
+            </strong>
+            </p>
+            <p>
+            <em>
+            30 December 2014             </em> </p>
+        </li></a>
+                <a href="http://www.migrationideas.com/news/melbourne-holds-second-place-in-the-world-for-foreign-students/352/"><li>
+                    <div class="imgLiquid imgLiquidFill imgLiquid_bgSize imgLiquid_ready imgleft"><img src="http://www.migrationideas.com/media-library/ForeignstudentsinAustralia.jpg" alt="" title="" width="53" height="53" style="cursor:pointer"></div>
+                    <p class="max-height-news"><strong>
+            Melbourne Holds Second Place in the World for Foreign Students            
+            </strong>
+            </p>
+            <p>
+            <em>
+            29 December 2014             </em> </p>
+        </li></a>
+                <a href="http://www.migrationideas.com/news/permanent-residency-status-sought-for-foreign-students-by-iccc/350/"><li>
+                    <div class="imgLiquid imgLiquidFill imgLiquid_bgSize imgLiquid_ready imgleft"><img src="http://www.migrationideas.com/media-library/ICCC.jpg" alt="" title="" width="53" height="53" style="cursor:pointer"></div>
+                    <p class="max-height-news"><strong>
+            Permanent Residency Status Sought For Foreign Students by ICCC            
+            </strong>
+            </p>
+            <p>
+            <em>
+            26 December 2014             </em> </p>
+        </li></a>
+              </ul>
+    </div>
+       
+   
+   <!----
+       --> 
+   
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+        $(document).ready(function() {
+            $ ('ul.image-list li:even').addClass('even');
+            $ ('ul.image-list li:odd').addClass('odd');
+        });
+		
+		
+</script>
+
+
+
+<div class="footer-wrapper clearfix">
+  <div class="center-pos">
+    <div class="footer-nav">
+      <ul style="width:16%;">
+               <h2>Country</h2>
+               <li><a href="http://www.migrationideas.com/visas/Hong-Kong/">Hong Kong</a></li>
+                <li><a href="http://www.migrationideas.com/visas/Austria/">Austria</a></li>
+                <li><a href="http://www.migrationideas.com/visas/USA/">USA</a></li>
+                <li><a href="http://www.migrationideas.com/visas/Germany/">Germany</a></li>
+                <li><a href="http://www.migrationideas.com/visas/South-Africa/">South Africa</a></li>
+              </ul>
+      <ul>
+             <h2>Top Products</h2>
+         					<li>
+                    	<a href="http://www.migrationideas.com/visas/Canada/canada-experience-class/" title="Canada Experience Class">Canada Experience ...</a>
+                    </li>
+		
+									<li>
+                    	<a href="http://www.migrationideas.com/visas/Canada/federal-skilled-worker-program/" title="Federal Skilled Worker Program">Federal Skilled Wo...</a>
+                    </li>
+		
+									<li>
+                    	<a href="http://www.migrationideas.com/visas/Canada/canada-federal-trade-worker-class/" title="Canada Federal Trade Worker Class">Canada Federal Tra...</a>
+                    </li>
+		
+									<li>
+                    	<a href="http://www.migrationideas.com/visas/Canada/canada-manitoba-provincial-nomination-program/" title="Canada Manitoba Provincial Nomination Program">Canada Manitoba Pr...</a>
+                    </li>
+		
+									<li>
+                    	<a href="http://www.migrationideas.com/visas/Australia/temporary-graduate-visa/" title="Temporary Graduate Visa">Temporary Graduate...</a>
+                    </li>
+		
+									<li>
+                    	<a href="http://www.migrationideas.com/visas/Germany/germany-job-seeker-visa/" title="Germany Job Seeker Visa">Germany Job Seeker...</a>
+                    </li>
+		
+				        
+      </ul>
+      <ul>
+        <h2>Why Us ?</h2>
+        <li><a href="http://www.migrationideas.com/why-migration/">Why Migration </a></li>
+        <li><a href="http://www.migrationideas.com/why-migration-ideas/">Why Migration Ideas </a></li>
+        <li><a href="http://www.migrationideas.com/why-visa-consultants/">Why Visa Consultants </a></li>
+        <li><a href="http://www.migrationideas.com/visas/Canada/federal-skilled-worker-program/">Canada FSW Occupation List</a></li>
+      </ul>
+      <ul>
+        <h2>Quick Links</h2>
+        	<li><a href="http://www.migrationideas.com/eligibility/">Eligibility</a></li>
+            <li><a href="http://www.migrationideas.com/contactus/">Get in Touch</a></li>
+            <li><a href="http://www.migrationideas.com/schedule-appoinment/">Appointment</a></li>
+            <li><a href="http://www.migrationideas.com/quick-enquiry/">Quick Enquiry</a></li>
+      </ul>
+      
+      <ul>
+        <h2>Our Offices</h2>
+        	<li><a href="http://www.migrationideas.com/contactus/">Hyderabad </a></li>
+            <h2>Email Newsletter</h2>
+            <li>
+            	<div class="subscribe_form">
+                    <form action="http://www.migrationideas.com/save_subsription.php" name="frmnewsletter" id="frmnewsletter" method="POST">
+                        <input type="text" id="email" name="email" class="search_item" placeholder="Subscribe for Newsletter" onsubmit="return ValidateSubscription()">
+                        <input type="hidden" name="action" value="Addnewsletter">
+                        <button type="submit" name="btnsubscribe" id="btnsubscribe" class="btn-subscribe" onclick="return ValidateSubscription();">Subscribe Now</button>
+                     <script type="text/javascript">$('.btn-subscribe').show();</script>   
+                    </form>
+                 </div>
+           </li>
+      </ul>
+      
+    </div>
+  </div>
+</div>
+<div class="sitemap_navigation"><div class="center-pos clearfix"><ul>
+  <li><a href="http://www.migrationideas.com/terms-conditions/">Terms &amp; Conditions </a></li>
+  <li><a href="http://www.migrationideas.com/privacy-policy/">Privacy Policy </a></li>
+  <li><a href="http://www.migrationideas.com/disclaimer/">Disclaimer </a></li>
+  <li><a href="http://www.migrationideas.com/contactus/">Contact Us </a></li>
+  <li><a href="http://www.migrationideas.com/refund-and-cancellation/">Refund and cancellation </a></li>
+  <li><a href="http://www.migrationideas.com/sitemap.xml">XML Site Map </a></li>
+  <li><a href="#">HTML Site Map</a></li>
+</ul>
+
+</div>
+</div>
+<div class="copyright">
+  <div class="center-pos clearfix">
+    <p>© 2014. Migration Ideas </p>
+  </div>
+</div>
+</div>
+<script type="text/javascript">
+   $(document).ready(function(){
+		
+	var mid_left=$(".left-section").height();
+	var mid_right=$(".right-section").height();
+	var disp_in=''
+	//document.getElementById("mid_left").value=mid_left;
+	//document.getElementById("mid_right").value=mid_right;
+							if(mid_right>mid_left){
+							     var bal_height1=mid_right-mid_left;
+								  var height =bal_height1;
+								  disp_in='left';
+								                                   // document.getElementById("bal_height1").value=bal_height1;
+							}else if(mid_left>mid_right){
+							     var bal_height2=mid_left-mid_right;
+								 var height =bal_height2;
+								 disp_in='right';                  // document.getElementById("bal_height2").value=bal_height2;
+							}
+							
+           test="test";
+ 							  $.ajax({
+                                          type:"POST",
+                                          url:"http://www.migrationideas.com/dynamic_widgets.php",
+										 data: {height:height,disp_in:disp_in}, 
+										  success: function(resp) {
+											 if(disp_in=='left')
+											 $( ".left-section" ).append(resp);
+											 else
+											 $( ".right-section" ).append(resp);
+                                           }
+										});
+										//return false;
+});
+</script>
+
+</body></html>
