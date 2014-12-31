@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gameinformer.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624110304id_/http%3A//www.gameinformer.com/p/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameinformer.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231221826id_/http%3A//www.gameinformer.com/p/privacy.aspx) for the most accurate reproduction.*
 
 # GameInformer.com Privacy Policy
 
 PRIVACY POLICY
 
-Last Updated: July 2, 2013 
+Last Updated: December 30, 2014 
 
 Welcome to Game Informer Online, the Web destination for readers of Game Informer magazine. 
 
@@ -155,9 +155,11 @@ c/o Game Informer Magazine
 4th Floor  
 Minneapolis, MN 55401  
 Phone: (612) 486-6100  
-Fax: (612) 486-6101
+Fax: (612) 486-6101  
+By email: [customerservice@gameinformer.com](mailto:customerservice@gameinformer.com)
 
-By email: customerservice@gameinformer.com 
+**Right to Remove Posted Information—California Minors**  
+If you are under 18 years of age, reside in California, and have a registered account on the Site, you have the right to request removal of unwanted information that you publicly post on Site. To request removal of such information, you can contact Game Informer at the phone number or postal address above. Upon receiving such a request, Game Informer will make sure that the information is not publicly available on our Site, but the information may not be completely or comprehensively removed from Game Informer systems. 
 
   
 
