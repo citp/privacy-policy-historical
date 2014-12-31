@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hilton.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125520id_/http%3A//hhonors3.hilton.com/en/promotions/privacy-policy/english.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hilton.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231230502id_/http%3A//hhonors3.hilton.com/en/promotions/privacy-policy/english.html) for the most accurate reproduction.*
 
 # Hilton Worldwide, Inc. Global Privacy Policy
 
