@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629163635id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231193555id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.*
 
 # Real Estate, Homes for Sale, Apartments for Rent, Local data - Trulia - Privacy Policy
 
@@ -120,7 +120,7 @@ _Privacy Policy Changes_ : We may update this Privacy Policy from time to time t
 
 _Contacting Us_ : If you have any questions or suggestions regarding our Privacy Policy, please contact us at: 
 
-Trulia, Inc. 116 New Montgomery Street, Suite 300, San Francisco, California 94105  
+Trulia, Inc. 535 Mission Street, Suite 700, San Francisco, California 94105  
 [customerservice@trulia.com](mailto:customerservice@trulia.com). 
 
 _TRUSTe_ : 
