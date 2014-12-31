@@ -1,26 +1,8 @@
-> *The following text is extracted and transformed from the hostgator.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630162201id_/http%3A//hostgator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostgator.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231131807id_/http%3A//hostgator.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HostGator
 
 ## Privacy Policy
-
-#### Our Privacy Policy has changed! Starting February 14, 2014
-
-In the Privacy Policy below you will find the additions made on February 14, 2014:
-
-  * **Information Collected:** We collect the following types of information from you to provide you with the products and services you purchased and for the purposes described below. We may collect any or all of the information via both automated means such as communications profiles or cookies.
-  * **Information Use:** The information we collect is used for billing and to provide service and support to our customers. We may study this information to determine our customers’ needs and to promote certain products and services or additional support. We may also generate non-identifying and aggregate profiles from information that our customers provide during registration (such as the total number of customers in a given category). This aggregated and non-identifying information may be used to promote advertisements that appear on our website and in connection with our services.
-  * **Disclosing Information:** Some of our products or services are offered or promoted to our customers in conjunction with a partner or sponsor, or another brand or company within our corporate family. We may share your information with these parties to offer the product or service or to facilitate your use of additional amenities included with your hosting account. For example, one of our partners may provide services to you based on links that you access from your control panel. 
-  * **Your Options:** If a customer's information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer's personal data in our records. In most cases, this can be achieved via our billing system at https://www.hostgator.com/billing or by emailing us at privacy@hostgator.com. 
-  * **Data Security:** HostGator uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. HostGator uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. All sensitive information is collected on a secure server. When we ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology. 
-  * **Children:** This website is not directed towards children and we do not seek to collect any personal information from children. If we become aware that personal information from a child under the age of 13 has been collected, we will use all reasonable efforts to delete such information from our database.
-  * **Reseller Relationships:** In addition to all of the terms and conditions set forth above, the following terms apply to Reseller relationships only.
-  * **Changes to this Policy:** We reserve the right to revise, amend, or modify this Privacy Policy at any time and in any manner. However, if we plan to materially change how we plan to use previously collected personal information, we will provide you with advance notice prior to the change becoming effective and an opportunity to opt-out of such differing uses. We encourage you to periodically review this page for the latest information on our privacy practices.
-  * **Contacting Us:** HostGator encourages individuals covered by this Privacy Policy to raise any concerns about our processing of personal information by contacting HostGator at the address below.
-
-
-
-You can also find the previous version of our Privacy Policy [here](https://web.archive.org/privacy-archived "Archived Privacy Policy").
 
 ## Last updated: February 14, 2014
 
