@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinylinks.co privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629043359id_/http%3A//www.linkbucks.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinylinks.co privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231024627id_/https%3A//www.linkbucks.com/policy) for the most accurate reproduction.*
 
 # Linkbucks.com - Make money when people leave your website!
 
