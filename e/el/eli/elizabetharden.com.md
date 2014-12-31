@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elizabetharden.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427021127id_/http%3A//www.elizabetharden.com/Privacy-Policy/privacy-and-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elizabetharden.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231201419id_/http%3A//www.elizabetharden.com/Privacy-Policy/privacy-and-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Elizabeth Arden Official Site Privacy Policy
 
@@ -34,7 +34,7 @@ PI submitted to us is used to deliver the products or services you request, to k
 
 In addition to the uses of PI explained above, by giving Elizabeth Arden your telephone and/or mobile telephone number, you expressly authorize Elizabeth Arden to contact you by telephone. . If the number you provide is for a mobile telephone, please be aware that your wireless carrier may charge you for the receipt of such messages, and other charges may apply. If you do not want to receive such messages, you should not provide us with your telephone or mobile telephone number. 
 
-We may conduct joint promotions with other companies. We may share with our promotional partners (and their service providers) certain PI as necessary to conduct the promotion. We will not share this information with our promotional partners for any other purpose unless you provide us with your consent to do so. We do not sell or rent your PI to other marketers.
+We may conduct joint promotions and/or joint advertising with other companies. We may share with our promotional and advertising partners (and their service providers) certain PI as necessary to conduct the promotion and/or advertising. We will not share this information with our promotional/advertising partners for any other purpose unless you provide us with your consent to do so. We do not sell or rent your PI to other marketers.
 
 We may combine the information we collect about you at the Site with information available to us from other sources. For example, you may provide PI to us at other Elizabeth Arden websites, or our co-promoter or sponsors may provide us with information, including PI, about users who choose to participate in a promotional opportunity the co-promoter or sponsor is offering in connection with Elizabeth Arden.
 
@@ -53,6 +53,12 @@ We use a third-party service provider to serve ads on our behalf across the Inte
 The Site may use browser "cookies." Cookies are pieces of information that may be placed on your computer by a website for the purpose of facilitating and enhancing your communication and interaction with a particular website. We may use cookies to customize your visit to the Site and for other purposes to make your visit more convenient or to enable us to enhance our service. For example,we may use cookies when we conduct polls or contests to limit multiple responses and registrations, or we may use cookies to track usage patterns on the Site or to analyze web activity. You may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences. If you do so, you may still use the Site, but it may interfere with some of its functionality. We do not use cookies to automatically retrieve PI from your computer without your knowledge.
 
 In addition to cookies, the Site uses a variety of technical methods for tracking purposes,including web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. Elizabeth Arden also uses these technical methods to analyze the traffic patterns on the www.elizabetharden.com website, such as the frequency with which our users visit various parts of the Site.
+
+4\. California Do Not Track Notice
+
+Under California law, website and online service operators are required to disclose how they respond to web browser “do not track” signals or similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information about a consumer’s online activities over time and across third party websites, to the extent the operator engages in that collection. At this time, we do not track our customer’s personal information over time and across third-party websites and therefore this requirement does not apply to us.
+
+California law also requires website and online service operators to disclose whether third parties may collect personal information about their users’ online activities over time and across different sites when the users use the operator’s website or service. Third parties that have content or services on our site, such as an analytics service or an advertising network partner, may obtain information about your browsing or usage habits but this information does not include personal information. We do not knowingly permit such third parties to collect any personal information from our site unless you directly provide it to us and we provide it to them with your consent.
 
 **COREMETRICS**
 
