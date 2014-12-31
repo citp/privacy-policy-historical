@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xtgem.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064331id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtgem.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231153223id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
 
-# Política de Privacidad - XtGem.com — Herramienta de construcción de sitios móviles visuales
+# Privacy Policy - XtGem.com — Visual mobile site building tool
 
 XTGEM Service Provider aims to ensure the protection of XTGEM website visitors’ and service users’ privacy. This privacy policy is applied only to XTGEM website.
 
