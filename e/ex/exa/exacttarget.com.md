@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exacttarget.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628105513id_/http%3A//www.exacttarget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exacttarget.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231153301id_/http%3A//www.exacttarget.com/privacy-policy) for the most accurate reproduction.*
 
 # ExactTarget Privacy Policy | ExactTarget
 
@@ -6,6 +6,8 @@
   2. Privacy Policy
 
 
+
+[](https://privacy.truste.com/privacy-seal/salesforce-com,-inc-/validation?rid=89c5f057-7f71-4e69-9b74-43994ce03f69 "TRUSTe European Safe Harbor certification")
 
 Salesforce.com Inc. and its affiliates (“salesforce.com” or the “Company,”) are committed to responsible information-handling practices in relation to its Marketing Cloud business.
 
