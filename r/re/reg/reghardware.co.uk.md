@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reghardware.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062308id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghardware.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231170938id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register • The Register
 
@@ -94,9 +94,9 @@ If you wish to contact Situation Publishing Limited regarding any aspect of the 
 ### By Post
 
 The Data Controller   
-Situation Publishing Limited   
-36 Union Street   
-Southport PR9 0QE
+Situation Publishing Limited Unit 1 Portland Street Trading Estate   
+14 Portland Street   
+Southport PR8 1LJ
 
 ### By Email
 
