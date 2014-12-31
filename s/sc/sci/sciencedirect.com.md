@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencedirect.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502114940id_/http%3A//www.elsevier.com/privacypolicy%3Futm_source%3Dsciencedirect%26utm_medium%3Dlink%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencedirect.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231160535id_/http%3A//www.elsevier.com/privacypolicy%3Futm_source%3Dsciencedirect%26utm_medium%3Dlink%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
 
 # None
 
