@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopcade.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618184144id_/http%3A//www.shopcade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopcade.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231162943id_/http%3A//www.shopcade.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Shopcade: Your Personal Shopping App
 
