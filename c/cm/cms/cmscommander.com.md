@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cmscommander.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626173104id_/http%3A//cmscommander.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmscommander.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231185454id_/http%3A//cmscommander.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CMS Commander
+# Privacy Policy - CMS Commander
 
 This Privacy Policy governs the manner in which CMS Commander collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://cmscommander.com](http://cmscommander.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by CMS Commander.
 
@@ -63,3 +63,8 @@ Germany
 [**Click to Contact Us**](http://cmscommander.com/contact)
 
 This document was last updated on September 23, 2012
+
+#### Join Over 3,000 Other Commanders!
+
+Sign up now to **start managing all your blogs** immediately.  
+Always free for up to 5 blogs, includes 14 day premium trial.
