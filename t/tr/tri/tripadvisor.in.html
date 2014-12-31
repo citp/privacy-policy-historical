@@ -1,27 +1,35 @@
-<!--The following is the downloaded HTML source of the tripadvisor.in privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630225813id_/http%3A//www.tripadvisor.in/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripadvisor.in privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231223801id_/http%3A//www.tripadvisor.in/pages/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <link rel="icon" href="http://c1.tacdn.com/favicon.ico" type="image/x-icon">
 <script type="text/javascript">
 window.onerror = function onErrorFunc(msg, url, line, colno, error) {
-if(!ta.has('ta.js_error_array.processed')) {
+if(!window.ta || !ta.has('ta.js_error_array.processed')) {
 if(typeof js_error_array == 'undefined') {
 js_error_array = [];
 }
 var err = error;
-js_error_array[js_error_array.length] = {'msg': msg, 'error_script': url, 'line': line, 'column': colno, 'error': err};
+js_error_array[js_error_array.length] = {'msg': msg, 'error_script': url, 'line': line, 'column': colno, 'error': err, 'ready_state': document.readyState};
 return true;
 }
 else {
 if(window.ta && ta.util && ta.util.error && ta.util.error.record) {
-ta.util.error.record(error, 'error post load:: ' + msg, null, {'error_script': url, 'line': line, 'column': colno});
+ta.util.error.record(error, 'error post load:: ' + msg, null, {'error_script': url, 'line': line, 'column': colno, 'ready_state': document.readyState});
 }
 }
 };
 </script>
 <script type="text/javascript">
+var performancePingbackInit = {
+enabled: true,
+start: new Number( new Date() ),
+uid: "D76AD085086A1AE48D0E5FB6A9D7C445|2875|www.tripadvisor.com|v1",
+servlet: "StaticVelocityXmlPage",
+loadTimeSet : false,
+domreadyTimeSet : false,
+isTaReferrer : true    }
 </script>
 <meta http-equiv="imagetoolbar" content="no">
 <title>Privacy policy - TripAdvisor</title>
@@ -44,6 +52,7 @@ ta.util.error.record(error, 'error post load:: ' + msg, null, {'error_script': u
 <link rel="alternate" hreflang="es-MX" href="http://www.tripadvisor.com.mx/pages/privacy.html">
 <link rel="alternate" hreflang="en-IE" href="http://www.tripadvisor.ie/pages/privacy.html">
 <link rel="alternate" hreflang="ar" href="http://www.tripadvisor.com.eg/pages/privacy.html">
+<link rel="alternate" hreflang="cs" href="http://www.tripadvisor.cz/pages/privacy.html">
 <link rel="alternate" hreflang="de-AT" href="http://www.tripadvisor.at/pages/privacy.html">
 <link rel="alternate" hreflang="el" href="http://www.tripadvisor.com.gr/pages/privacy.html">
 <link rel="alternate" hreflang="en-AU" href="http://www.tripadvisor.com.au/pages/privacy.html">
@@ -65,11 +74,13 @@ ta.util.error.record(error, 'error post load:: ' + msg, null, {'error_script': u
 <link rel="alternate" hreflang="no" href="http://no.tripadvisor.com/pages/privacy.html">
 <link rel="alternate" hreflang="pl" href="http://pl.tripadvisor.com/pages/privacy.html">
 <link rel="alternate" hreflang="ru" href="http://www.tripadvisor.ru/pages/privacy.html">
+<link rel="alternate" hreflang="sk" href="http://www.tripadvisor.sk/pages/privacy.html">
+<link rel="alternate" hreflang="sr" href="http://www.tripadvisor.rs/pages/privacy.html">
 <link rel="alternate" hreflang="th" href="http://th.tripadvisor.com/pages/privacy.html">
 <link rel="alternate" hreflang="vi" href="http://www.tripadvisor.com.vn/pages/privacy.html">
 <link rel="alternate" hreflang="zh-Hant" href="http://www.tripadvisor.com.tw/pages/privacy.html">
 <script type="text/javascript">
-(function () { /* ensure that console.log is a valid function */
+(function () {
 if (typeof console == "undefined") console = {};
 var funcs = ["log", "error", "warn"];
 for (var i = 0; i < funcs.length; i++) {
@@ -91,6 +102,7 @@ var sInvalidDates = "The dates you entered are invalid. Please correct your date
 var sSelectDeparture = "Please select a departure airport.";
 var DATE_FORMAT_MMM_YYYY = "MMM YYYY";
 var DATE_PICKER_CLASSIC_FORMAT = "dd/MM/yyyy";
+var DATE_PICKER_SHORT_FORMAT = "dd/MM";
 var DATE_PICKER_META_FORMAT = "EEE, d MMM";
 var jsGlobalDayOffset = 2 - 1;
 var DATE_FORMAT = { pattern: /(\d{1,2})\/(\d{1,2})\/(\d{2,4})/, month: 2, date: 1, year: 3 };
@@ -258,6 +270,7 @@ currencySymbol["KPW"] = new Array("KPW", false);
 currencySymbol["MMK"] = new Array("MMK", false);
 currencySymbol["SDG"] = new Array("SDG", false);
 currencySymbol["SYP"] = new Array("SYP", false);
+currencySymbol["ZWD"] = new Array("", false);
 var groupingSize = 3;
 var groupingSeparator = ",";
 var JS_location_not_found = "Your location not found.";
@@ -322,7 +335,7 @@ overlayLightbox = true;
 }
 var isTakeOver = false;
 var overlayOptions = "";
-var overlayBackupLoc = "";
+var overlayBackupLoc = "649142";
 var gmapDomain = "maps.google.com";
 var mapChannel = "ta.desktop";
 var bingMapsLang = "en".toLowerCase();
@@ -330,29 +343,35 @@ var bingMapsCountry = "IN".toLowerCase();
 var bingMapsBaseUrl = "http://www.bing.com/maps/default.aspx?";
 var googleMapsBaseUrl = "http://maps.google.co.in/?";
 var yandexMapsBaseUrl = "http://maps.yandex.com";
-var serverPool = "X";
+var serverPool = "B";
 var reg_overhaul = true;
 var posLocale = "en_IN";
-var cssPhotoViewerAsset = "http://c1.tacdn.com/css2/photos_with_inline_review-v13216464372a.css";
-var cssAlbumViewerAsset = "http://c1.tacdn.com/css2/photo_albums-v151846328a.css";
-var jsPhotoViewerAsset = 'http://c1.tacdn.com/js3/src/ta/photos/Viewer-v12431145327a.js';
-var jsAlbumViewerAsset = 'http://c1.tacdn.com/js3/src/ta/photos/albumViewer-v12997299121a.js';
-var jsScrollingTabsAsset = 'http://c1.tacdn.com/js3/src/ta/widgets/ScrollingTabs-v12995788147a.js';
-var jsPhotoViewerTALSOAsset = 'http://c1.tacdn.com/js3/src/TALSO-v112862410a.js';
-var jsJWPlayerHelperAsset = 'http://c1.tacdn.com/js3/src/ta/media/jwplayerHelper-v1950123900a.js';
+var cssPhotoViewerAsset = "http://c1.tacdn.com/css2/photos_with_inline_review-v22143280985a.css";
+var cssAlbumViewerAsset = "http://c1.tacdn.com/css2/photo_albums-v23712388374a.css";
+var jsPhotoViewerAsset = 'http://c1.tacdn.com/js3/src/ta/photos/Viewer-v2458056087a.js';
+var jsAlbumViewerAsset = 'http://c1.tacdn.com/js3/album_viewer-c-v2677125924a.js';
+var jsScrollingTabsAsset = 'http://c1.tacdn.com/js3/src/ta/widgets/ScrollingTabs-v21807044525a.js';
+var jsPhotoViewerTALSOAsset = 'http://c1.tacdn.com/js3/src/TALSO-v212862410a.js';
+var jsJWPlayerHelperAsset = 'http://c1.tacdn.com/js3/src/ta/media/player/JwPlayer-v22188177280a.js';
+var taJwplayerVersion6 = true;
+var hasRequiredFlashPlayer = function() {
+return ta.media.JWPlayer.hasRequiredFlashPlayer();
+};
 </script>
 <script type="text/javascript">
 var IS_DEBUG = false;
 var CDNHOST = "http://c1.tacdn.com";
+var cdnHost = CDNHOST;
 var MEDIA_HTTP_BASE = "http://media-cdn.tripadvisor.com/media/";
 var POINT_OF_SALE = "en_IN";
 </script>
 <script type="text/javascript">
 var VERSION_MAP = {
-"ta-widgets-typeahead.js": "http://c1.tacdn.com/js3/ta-widgets-typeahead-c-v1524289991a.js",
-"ta-media.js": "http://c1.tacdn.com/js3/ta-media-c-v1249854080a.js",
-"ta-mapsv2.js": "http://c1.tacdn.com/js3/ta-mapsv2-google-c-v13973783545a.js"
-}
+"ta-widgets-typeahead.js": "http://c1.tacdn.com/js3/ta-widgets-typeahead-c-v2527536231a.js",
+"ta-media.js": "http://c1.tacdn.com/js3/ta-media-c-v2249854080a.js",
+"ta-overlays.js" : "http://c1.tacdn.com/js3/ta-overlays-c-v21273432102a.js",
+"ta-mapsv2.js": "http://c1.tacdn.com/js3/ta-mapsv2-google-c-v2658871587a.js"
+};
 </script>
 <script type="text/javascript">
 var cookieDomain = ".tripadvisor.in";
@@ -360,7 +379,6 @@ var modelLocaleCountry = "IN";
 var ipCountryId = "191";
 var pageServlet = "StaticVelocityXmlPage";
 var crPageServlet = "StaticVelocityXmlPage";
-var cdnHost = "http://c1.tacdn.com";
 var arrowLeft     = "http://c1.tacdn.com/img/saves/saveIconArrowLeft.gif";
 var arrow         = "http://c1.tacdn.com/img/saves/saveIconArrow.gif";
 var example       = "http://c1.tacdn.com/img/saves/saveButtonExample.gif";
@@ -370,12 +388,11 @@ var closedFolder  = "http://c1.tacdn.com/img/saves/closedFolder.gif";
 var openFolder    = "http://c1.tacdn.com/img/saves/openFolder.gif";
 var add           = "http://c1.tacdn.com/img/saves/addFolder.gif";
 var userLoggedIn = false;
-var currentCurrency = 'USD';
 </script>
 <script type="text/javascript">
 var migrationMember = false;
 var savesEnable = true;
-var savesJS = 'http://c1.tacdn.com/js3/src/saves-v11445131811a.js';
+var savesJS = 'http://c1.tacdn.com/js3/src/saves-v21445131811a.js';
 var flagsUrl = '/pages/privacy.html';
 var noPopClass = "no_cpu";
 var flagsSettings = [
@@ -391,38 +408,40 @@ var footerFlagFormat = "";
 var modelLocId = "";
 var gClient = 'gme-tripadvisorinc';
 var gKey = '';
-var gLang = '';
-var mapsJs = 'http://c1.tacdn.com/js3/ta-maps-bing-c-v13784217133a.js';
-var mapsJsLite = 'http://c1.tacdn.com/js3/lib/TAMap-v12716202300a.js';
-var memoverlayCSS = 'http://c1.tacdn.com/css2/pages/memberoverlay-v13754600100a.css';
-var flagsFlyoutCSS = 'http://c1.tacdn.com/css2/overlays/flags/flags_flyout-v13958638978a.css';
-var globalCurrencyPickerCSS = 'http://c1.tacdn.com/css2/overlays/global_currency_picker-v13493039252a.css';
-var emailHotelCSS = 'http://c1.tacdn.com/css2/t4b/emailhotel-v11656377253a.css';
-var passportStampsCSS = 'http://c1.tacdn.com/css2/modules/passport_stamps-v11996473260a.css';
-var autocompleteCss = "http://c1.tacdn.com/css2/modules/autocomplete-v12296357173a.css";
-var globalTypeAheadCss = "http://c1.tacdn.com/css2/src/widgets/global_typeahead-v13746939368a.css";
+var gLang = '&language=en_IN';
+var mapsJs = 'http://c1.tacdn.com/js3/ta-maps-bing-c-v21628867485a.js';
+var mapsJsLite = 'http://c1.tacdn.com/js3/lib/TAMap-v22716202300a.js';
+var memoverlayCSS = 'http://c1.tacdn.com/css2/pages/memberoverlay-v23754600100a.css';
+var flagsFlyoutCSS = 'http://c1.tacdn.com/css2/overlays/flags/flags_flyout-v22881239891a.css';
+var globalCurrencyPickerCSS = 'http://c1.tacdn.com/css2/overlays/global_currency_picker-v23493039252a.css';
+var emailHotelCSS = 'http://c1.tacdn.com/css2/t4b/emailhotel-v21656377253a.css';
+var passportStampsCSS = 'http://c1.tacdn.com/css2/modules/passport_stamps-v21996473260a.css';
+var autocompleteCss = "http://c1.tacdn.com/css2/modules/autocomplete-v22296357173a.css";
+var globalTypeAheadCss = "http://c1.tacdn.com/css2/global_typeahead-v21080230938a.css";
 var wiFriHasMember =  false  ;
-var JS_SECURITY_TOKEN = "AAABRu8AAS980I1L3wpHTXLEV1xqeNlJ8bLOjQ==";
+var JS_SECURITY_TOKEN = "AAABSqJ/pGi3CpmMEuUN/k96081AZB+TOqXYsw==";
 var addOverlayCloseClass = "";
 var isOverlayServlet = "";
 var IS_OVERLAY_DEBUG = "false";
-var IS_MTPU_ENABLED = true;
-var MTPU_RULE = 734;
 var cpu_enabled = true;
 </script>
 <script type="text/javascript">
 var freshVSTrackingCookie = true;         </script>
-<script type="text/javascript" crossorigin="anonymous" src="http://c1.tacdn.com/js3/tripadvisor-c-v11477366132a.js"></script>
-<script type="text/javascript">var taSecureToken = "AAABRu8AAS980I1L3wpHTXLEV1xqeNlJ8bLOjQ=="</script>
+<script type="text/javascript" crossorigin="anonymous" src="http://c1.tacdn.com/js3/tripadvisor-c-v2921265417a.js"></script>
+<script type="text/javascript">var taSecureToken = "AAABSqJ/pGi3CpmMEuUN/k96081AZB+TOqXYsw==";</script>
+<script type="text/javascript">
+if(window.ta && ta.store) {
+ta.store('photo.viewer.localization.videoError', 'We\'re sorry, video player could not load');     }
+</script>
 <script type="text/javascript">
 var geoParam = "&geo=";
 </script>
-<link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/universal_new-en_IN-v1848226459a.css">
+<link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/universal_new-en_IN-v24029487874a.css">
 <!--[if IE 6]>
-    <link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/winIE6-v12820092551a.css" />
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/winIE6-v2505479179a.css" />
         <![endif]-->
 <!--[if IE 7]>
-    <link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/winIE7-v12702072199a.css" />
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/winIE7-v2966741195a.css" />
         <![endif]-->
 <style type="text/css">
 body{}
@@ -459,658 +478,13 @@ width:100px; font-weight: normal; }
 .lvcitiesmodule .smallbox .citydtlname { top:96px; }
 .lvcitiesmodule .sizedThumb { width:170px; overflow:hidden; }
 .lvcitiesmodule .photo_image { vertical-align: top; }
-/* Fall UI Refresh - specific overwrites
-NOTE: All of the rtl-specific items (unless otherwise noted) can be removed when this
-file is merged back into the standard css in /css2/
------------------------------------------------------------------------------------------ */
-body.fall_2013_masthead_refresh {
-/* Ensure that the gradient nav bars look right when there's a scrollbar. */
-min-width:989px;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh { margin: 0 !important; padding: 0; z-index: 204; }
-.fall_2013_masthead_refresh #HEAD.header_refresh .masthead {
-padding: 0;
-width: auto;
-}
-.fall_2013_masthead_refresh.fluid #HEAD.header_refresh .masthead {
-margin: 0; /* Overrides ".fluid #HEAD .masthead" */
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .container { position: relative; width: 983px; margin:0 auto; min-height: 41px; }
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabsBar {
-height: 37px;
-width: auto;
-/* The parent of the <ul> must be static, or the "more" menu won't be able to extend outside the navbar in IE 7. */
-position: static;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabsBar { margin-left: -8px; }
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabsBar .tabs { margin: 0 auto; width: 994px;}
-.fall_2013_masthead_refresh #HEAD.header_refresh .topLogo,
-.fall_2013_masthead_refresh.domn_ko #HEAD.header_refresh .topLogo {
-width: 197px;
-height: 35px;
-margin: 0px 0px 0px 0;
-padding: 0;
-/* This CSS trick, combined with .brandArea:before, vertically centers the text. */
-display: inline-block;
-vertical-align: middle;
-float: none;
-/* IE 7 */ zoom: 1; display:inline !ie;
-}
-.fall_2013_masthead_refresh.domn_en_US .sprite-taLogo_refresh {
-/* Compensate for a misaligned logo sprite in ENG-US*/
-margin-left:-4px;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .brandArea {
-position: absolute;
-bottom: 0;
-width: 100%;
-z-index: 1;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .header,
-.fall_2013_masthead_refresh.domn_ja.globalNav2011_reset #HEAD.header_refresh .header {
-color: #656565;
-margin: 4px 0 0 -15px;
-overflow: hidden;
-/* This CSS trick, combined with .brandArea:before, vertically centers the text. */
-display: inline-block;
-vertical-align: middle;
-float: none;
-/* IE 7 */ zoom: 1; display:inline !ie;
-}
-.fall_2013_masthead_refresh.domn_ko #HEAD.header_refresh .header {margin-left:0;} /* Because the logo is incorrectly right-aligned in this language. */
-/* This CSS trick, combined with .header styles, vertically centers the contained h1.header element. */
-.fall_2013_masthead_refresh #HEAD.header_refresh .brandArea:before {
-content: '';
-display: inline-block;
-height: 42px;
-vertical-align: middle;
-/* IE 7 */ zoom: 1; display:inline !ie;
-}
-/* Done base this on #HEAD, because that will prevent it from applying to business listings (/ManagementCenter) */
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS { color: #656565; overflow: hidden; z-index:2; }
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS ul { font-size: 0.9165em; margin: 2px 0; }
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS li { float: left; }
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link {
-cursor: pointer;
-line-height: 15px;
-margin-top: 8px !important;
-padding: 4px 10px;
-font-size: 1.0835em;
-}
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link.noninteractive {
-cursor: default;
-}
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link { float: left; border-right: 1px solid #EAEAEA; }
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link.greeting { padding-left: 4px; }
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link a {
-color: #656565;
-}
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link.greeting b {
-max-width: 135px;
-overflow: hidden;
-text-overflow: ellipsis;
-white-space: nowrap;
-display: inline-block;
-}
-.fall_2013_masthead_refresh .header_refresh .unregistered.user {
-/* These styles match #USER_PREFS li .link, for unlinked items like "Your TripAdvisor." */
-margin-top: 8px;
-padding: 4px 0px 4px 10px;
-}
-.fall_2013_masthead_refresh .header_refresh .unregistered.user.sprite-member_grn {
-padding-left: 15px;
-margin-left: 10px;
-}
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .sprite-facebook15x15 { height: 15px; padding: 0; width: 15px; }
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS .circularAvWrap {
-border: 1px solid #EDEDED;
-border-radius: 100%;
-float: left;
-padding: 2px;
-position: relative;
-}
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS .circularAvWrap .circularAvatar {
-border-radius: 100%;
-}
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS .circularAvWrap.smallCircularAvWrap {
-height: 30px;
-width: 30px;
-}
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS .circularAvWrap .facebookIcon { position: absolute; bottom: 0; left: 0; width: 12px; height: 12px; }
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS #INTLPOP .link { border-right: 0; padding-right: 0;}
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS .sprite-arrow_dropdown_gry { margin-top: 2px;}
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link .newMessages {
-display: inline-block;
-color: #FFF;
-background: #DC7B00;
-width: 1.275em;
-height: 1.275em;
-line-height: 1.5em;
-text-align: center;
-position: relative;
-top: -0.625em;
-font-size: 0.8335em;
-padding: 0 0 0.1em 0.1em;
-margin-left: 2px;
-/* IE 7 */ zoom: 1; display:inline !ie;
-}
-.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link .newMessages:hover {
-text-decoration: none;
-}
-.fall_2013_masthead_refresh .fall_2013_masthead_refresh #IP_WELCOME { margin: 0 auto; text-align: right; width: 983px; }
-.fall_2013_masthead_refresh .fall_2013_masthead_refresh #IP_WELCOME .ipWelcomeMsg { color: #656565; display: inline-block; margin: 6px 0 0; }
-.fall_2013_masthead_refresh .fall_2013_masthead_refresh #IP_WELCOME .pipe { color: #EAEAEA; margin: 0 4px; }
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem,
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItemNoLink { margin: 1px 0 0; display:block; position:relative; border-left:none; border-right:none; float:left; height:36px;}
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem.last,
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItemNoLink.last { border-right:none;}
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem .tabLink,
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItemNoLink .tabNoLink {
-padding: 1px 10px;
-height:34px;
-font-weight:normal;
-line-height:34px;
--webkit-font-smoothing:antialiased;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem .tabLink a { color:#fff; line-height:34px;}
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem a:active { background-color: transparent; }
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem:hover,
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItemShown { background-color:#589442;
--webkit-box-shadow:inset 8px 0 8px -8px rgba(75,126,55,.75), inset -8px 0 8px -8px rgba(75,126,55,.75);
--moz-box-shadow:inset 8px 0 8px -8px rgba(75,126,55,.75), inset -8px 0 8px -8px rgba(75,126,55,.75);
-box-shadow:inset 8px 0 8px -8px rgba(75,126,55,.75), inset -8px 0 8px -8px rgba(75,126,55,.75); text-decoration:none;}
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem:hover .tabLink,
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem .tabLinkShown { padding:1px 10px; border:none; color:#fff;}
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem .tabLinkShown a,
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem:hover .tabLink a { color:#fff; -webkit-font-smoothing:antialiased;}
-.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem .sprite-facebook15x15 {
-margin: 0;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .dropDown:hover .subNav { top:36px;}
-.fall_2013_masthead_refresh #HEAD.header_refresh .dropDown .subNav { padding: 5px 0; box-shadow:0 5px 5px 0 rgba(0,0,0,.5);}
-.fall_2013_masthead_refresh #HEAD.header_refresh .dropMenu,
-.fall_2013_masthead_refresh #HEAD.header_refresh .dropMenu .inner,
-.fall_2013_masthead_refresh #HEAD.header_refresh .dropDown .subNav { margin-top:0; border-width:1px 2px 2px; border-style:solid; border-color:#68b04d #589442 #589442; background-color:#fff;}
-.fall_2013_masthead_refresh #HEAD.header_refresh .dropMenu .inner { background-image:none; border:0; padding:0 !important;}
-.fall_2013_masthead_refresh #HEAD.header_refresh .subItem .subLink,
-.fall_2013_masthead_refresh #HEAD.header_refresh .subItemNoLink .subNoLink {
-color: #656565;
-padding: 6px 9px;
-text-shadow: none;
--webkit-font-smoothing: antialiased;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .expandSubItem .expandSubLink {
-color: #656565;
-padding:4px 25px 4px 9px;
-text-shadow: none;
--webkit-font-smoothing: antialiased;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .subItem .subLink:hover,
-.fall_2013_masthead_refresh #HEAD.header_refresh .subItemNoLink .subNoLink:hover,
-.fall_2013_masthead_refresh #HEAD.header_refresh .expandSubItem .expandSubLink:hover {
-background-color: #589442 !important;
-color: #FFF;
-text-shadow: none;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh,
-.fall_2013_masthead_refresh .dropMenu_refresh,
-.fall_2013_masthead_refresh #HEAD.header_refresh .dropDown .expandSubItem .secondSubNav {
-border-width:1px 2px 2px;
-border-style:solid;
-border-color:#68b04d #589442 #589442;
-background-color:#fff;
-box-shadow:0 5px 5px 0 rgba(0,0,0,.5);
-}
-.fall_2013_masthead_refresh .dropMenu_refresh .inner ul {
-background-color: #FFF;
-padding: 7px 1px;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh .inner .subNav {
-background-color: #FFF;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh .inner .subLink,
-.fall_2013_masthead_refresh .dropMenu_refresh .inner .subItemNoLink .subNoLink,
-.fall_2013_masthead_refresh .dropMenu_refresh .inner .subLink {
-padding: 6px 9px;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh .inner .subLink,
-.fall_2013_masthead_refresh .dropMenu_refresh .inner .subItemNoLink .subNoLink,
-.fall_2013_masthead_refresh .dropMenu_refresh .inner .taLnk a {
-color: #656565;
-margin: 1px;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh .inner .subLink,
-.fall_2013_masthead_refresh .dropMenu_refresh .inner .taLnk a {
-cursor: pointer;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh .inner .subLink:hover,
-.fall_2013_masthead_refresh .dropMenu_refresh .inner .taLnk:hover a {
-background-color: #589442 !important;
-color: #FFF;
-text-shadow: none;
--webkit-font-smoothing: antialiased;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh.accountMenuFlyout,
-.fall_2013_masthead_refresh .dropMenu_refresh.bizListingsMenuFlyout {
-min-width: 150px;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh.accountMenuFlyout {
-margin-top: 3px;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh .subItem .subLink {
-padding: 8px 10px;
-display: block;
-margin: 0;
-line-height: 1.2em;
-font-size: 1.1em;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh .subLink.multiple:after,
-.fall_2013_masthead_refresh #HEAD.header_refresh .expandSubItem .expandSubLink:after  {
-content:'>';
-position:absolute;
-right:10px;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh #ogMastheadHistory b,
-.fall_2013_masthead_refresh .dropMenu_refresh #ogMastheadSharingOnOff,
-.fall_2013_masthead_refresh .dropMenu_refresh .ogMastheadRadioText {
-font-weight: normal;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh .ogMastheadRadioText {
-top: -2px;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh .signOutLink {
-border-top: 1px solid #589442;
-margin-top: 7px !important;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh #SIGNOUT_LINK {
-font-weight: bold;
-margin-top: 7px !important;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh .taLnk a {color:#006699; text-decoration:none;}
-.fall_2013_masthead_refresh .secondaryNavBar .searchSpacer {
-float: right;
-height: 23px;
-width: 220px;
-}
-.fall_2013_masthead_refresh .secondaryNavBar .globalSearch {
-position: absolute;
-right: 0;
-top: 5px;
-}
-.fall_2013_masthead_refresh .secondaryNavBar .fader {
-background: transparent;
-background: -moz-linear-gradient(left, rgba(75, 126, 55, 0) 0%, rgba(75, 126, 55, 1) 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left, right, color-stop(0%, rgba(75, 126, 55, 0)), color-stop(100%, rgba(75, 126, 55, 1))); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(left, rgba(75, 126, 55, 0) 0%, rgba(75, 126, 55, 1) 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(left, rgba(75, 126, 55, 0) 0%, rgba(75, 126, 55, 1) 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(left, rgba(75, 126, 55, 0) 0%, rgba(75, 126, 55, 1) 100%); /* IE10+ */
-background: linear-gradient(left right, rgba(75, 126, 55, 0) 0%, rgba(75, 126, 55, 1) 100%); /* W3C */
-float: left;
-height: 23px;
-width: 20px;
-}
-.fall_2013_masthead_refresh .secondaryNavBar .navSrch {
-background: #FFF;
-border: 0;
-border-radius: 3px;
-box-shadow: inset 2px 2px 3px 0 #CCC;
-float: left;
-height: 23px;
-width: auto;
-}
-.fall_2013_masthead_refresh .secondaryNavBar .navSrch .text {
-border: 0;
-outline: 0;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .navSrch .text,
-.fall_2013_masthead_refresh .secondaryNavBar .navSrch .text {
-background-color: transparent;
-border: 0;
-color: #686868;
-float: left;
-font: inherit;
-margin: 4px 8px;
-padding: 0;
-vertical-align: baseline;
-width: 175px;
-}
-.fall_2013_masthead_refresh .secondaryNavBar .navSrchLang .text {
-margin: 4px 2px 4px 8px;
-}
-.fall_2013_masthead_refresh .secondaryNavBar .sprite-search_mag_glass {
-float: left;
-margin: 3px;
-padding: 0;
-width: 20px;
-}
-.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECT {
-background-color: transparent;
-float: left;
-height: 23px;
-line-height: 24px;
-}
-.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECT .sprite-arrow_dropdown_gry_refresh {
-height: 6px;
-margin: 4px 0 0 0;
-width: 10px;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .prfs .sprite-arrow_dropdown_gry_refresh {
-margin: 3px 0 0 5px;
-vertical-align: top; /*Needed by IE. No effect in webkit.*/
-}
-.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECTED {
-height: 23px;
-margin: 0;
-padding: 0 5px;
-border: 0;
-}
-.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECT_POPUP {
-background-color: #FFF;
-border: 2px solid #589442;
-border-top: 1px solid #68B04D;
-box-shadow: 0 5px 5px 0 rgba(0, 0, 0, .5);
-top: 23px;
-width: 295px;
-left: -277px;
-padding: 5px 0;
-}
-.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECT_POPUP .langSelectOption {
-color: #656565;
-cursor: pointer;
-display: block;
-line-height: 16px;
-margin: 1px;
-padding: 4px 9px 4px 23px; /* The 23 pixels is to offset the checkbox from the "selected" style */
-}
-.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECT_POPUP .selected {
-background-image: url(/img2/home/icon_checkmark.png);
-background-repeat: no-repeat;
-background-position: 5px 7px;
-}
-.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECT_POPUP .langSelectOption:hover {
-background-color: #589442;
-color: #FFF;
-text-shadow: none;
-}
-.fall_2013_masthead_refresh .secondaryNavBar {
-background: #4B7E37;
-box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, .25);
-clear: both;
-font-size: 1.083em;
-line-height: 17px;
-min-height: 33px;
-position: relative;
-z-index: 203;
--webkit-font-smoothing: antialiased;
-}
-.fall_2013_masthead_refresh .secondaryNavBar .crumbs {
-font-family: Arial, Tahoma, "Bitstream Vera Sans", sans-serif;
-margin: 0 auto;
-padding-top: 7px;
-padding-bottom: 5px;
-position: relative;
-width: 983px;
-}
-.fall_2013_masthead_refresh.domn_ja .secondaryNavBar .crumbs {
-font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,Osaka,"ＭＳ Ｐゴシック","MS PGothic",sans-serif;
-}
-.fall_2013_masthead_refresh .secondaryNavBar .crumbs .breadcrumbs {
-overflow: hidden;
-/* Without this, the breadcrumbs don't display correctly in most browsers */
-display: inline;
-}
-/* For some reason, Korean layout is messed up if this element doesn't have a fixed width.
-Since Korean's a very concise language, it's not likely that breadcrumbs will wrap anyway. */
-.fall_2013_masthead_refresh .lang_ko .secondaryNavBar .crumbs .breadcrumbs {width:600px;}
-.fall_2013_masthead_refresh .secondaryNavBar .crumbs .breadcrumbs li {
-color: #b4c5ae;
-cursor: default;
-}
-.fall_2013_masthead_refresh .secondaryNavBar .crumbs .breadcrumbs a {
-/* !important overrides strange override in quickreview_thanks_new.css. */
-color: #FFF!important;
-text-decoration: none;
-}
-.fall_2013_masthead_refresh .secondaryNavBar .crumbs .breadcrumbs a:hover {
-text-decoration: underline;
-}
-.fall_2013_masthead_refresh .secondaryNavBar .crumbs .breadcrumbs li {
-display: inline-block;
-/* IE 7 */ zoom: 1; display:inline !ie;
-}
-.fall_2013_masthead_refresh .secondaryNavBar .crumbs .breadcrumbs .divider {
-margin: 5px 9px 3px 10px;
-width: 4px; /* Needed to override vacation rentals override. */
-/* These styles are to override Vacation Rental-specific overrides in vr-universal.css
-Those overrides can probably be removed once this refresh is made final. */
-border-top:none;
-float:none;
-top:auto;
-}
-.fall_2013_masthead_refresh .secondaryNavBar .warLink .tabLink,
-.fall_2013_masthead_refresh .secondaryNavBar .warLink .pen_wht,
-.fall_2013_masthead_refresh .header_refresh#HEAD .tabItem .tabLink,
-.fall_2013_masthead_refresh .header_refresh#HEAD .tabItemNoLink .tabNoLink
-{
-text-shadow: none;
-}
-.fall_2013_masthead_refresh .header_refresh.parentForumLink {
-position:relative;
-z-index:1;
-width:987px;
-text-align:right;
-margin:0 auto;
-float:none;
-padding: 10px 35px 10px 0;
-}
-.fall_2013_masthead_refresh .header_refresh.parentForumLink {
-text-align:left;
-padding: 10px 0 10px 35px;
-}
-.fall_2013_masthead_refresh .header_refresh.vrHeadingGroup {
-margin-top:10px;
-}
-/* neg margin needed for wider size */
-.fall_2013_masthead_refresh .header_refresh.ad.iab_leaBoa {
-margin:16px -8px;
-}
-/* Business listings */
-.fall_2013_masthead_refresh .header_refresh .headerright {
-position:absolute;
-right:0;
-bottom:12px;
-}
-.fall_2013_masthead_refresh .header_refresh.t4bheader {
-position:relative;
-bottom:14px;
-}
-.fall_2013_masthead_refresh .header_refresh.t4bheader #USER_PREFS {
-top:10px;
-margin-top:10px;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .arrow_text,
-.fall_2013_masthead_refresh #HEAD.header_refresh .pen_wht {
-display: inline-block;
-/* IE 7 */ zoom: 1; display:inline !ie;
-}
-/* fix member center spacing below nav */
-.fall_2013_masthead_refresh .modules-membercenter-persistent-header {
-top: auto;
-}
-/* fix spacing below nav */
-.fall_2013_masthead_refresh #vrWideOverview,
-.fall_2013_masthead_refresh .SmartDeals,
-.fall_2013_masthead_refresh #MAIN.GoListDetail {
-padding-top: 14px !important;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .dropDown .arrow_dropdown_wht,
-.fall_2013_masthead_refresh #HEAD.header_refresh .dropDownJS .arrow_dropdown_wht,
-.fall_2013_masthead_refresh #HEAD.header_refresh .pen_wht {
-margin-left:4px;
-}
-/* Remove custom styling for Russian */
-.fall_2013_masthead_refresh.domn_ru #HEAD.header_refresh .tabItem .tabLink,
-.fall_2013_masthead_refresh.domn_ru #HEAD.header_refresh .tabItemNoLink .tabNoLink,
-.fall_2013_masthead_refresh.domn_ru #HEAD.header_refresh .tabItem .submit {
-padding: 1px 8px;
-}
-.fall_2013_masthead_refresh.domn_pt #HEAD.header_refresh .tabItem .tabLink,
-.fall_2013_masthead_refresh.domn_pt #HEAD.header_refresh .tabItemNoLink .tabNoLink,
-.fall_2013_masthead_refresh.domn_pt #HEAD.header_refresh .tabItem .submit {
-padding: 1px 7px;
-}
-/* EU IP welcome bar */
-.fall_2013_masthead_refresh #TAIPWELCOMEBAR {
-background: transparent;
-height: auto;
-margin: 0 auto;
-padding: 0;
-text-align: right;
-width: 983px;
-}
-.fall_2013_masthead_refresh #TAIPWELCOMEBAR .bar_text {
-background: #FFFFE4;
-color: #656565;
-display: inline-block;
-font-size: 1em;
-margin: 0;
-padding: 6px;
-}
-.fall_2013_masthead_refresh #TAIPWELCOMEBAR .learnmore {
-font-size: 1em;
-}
-.fall_2013_masthead_refresh #TAIPWELCOMEBAR .learnmore a,
-.fall_2013_masthead_refresh #TAIPWELCOMEBAR .learnmore .taLnk {
-color: #069;
-}
-.fall_2013_masthead_refresh #TAIPWELCOMEBAR img,
-.fall_2013_masthead_refresh #TAIPWELCOMEBAR .circularAvWrap {
-display: none;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .container,
-.fall_2013_masthead_refresh .header_refresh.crumbs {
-width: 983px;
-left: 50%;
-margin-left: -491px;
-}
-.fall_2013_masthead_refresh #HEAD.header_refresh .brandArea {
-bottom: auto;
-}
-.fall_2013_masthead_refresh .secondaryNavBar {
-width: 100%;
-}
-/* These two elements define the green gradient bar. */
-.fall_2013_masthead_refresh .header_refresh#HEAD .tabsBar {
-background: #589442;
-background: -moz-linear-gradient(top, #68b14e 0%, #589442 100%); /* FF3.6+ */
-background: -webkit-linear-gradient(top, #68b14e 0%,#589442 100%); /* Chrome10+,Safari5.1+ */
-background: -webkit-gradient(linear, top, bottom, color-stop(0%, #68b14e), color-stop(100%, #589442)); /* Chrome,Safari4+ */
-background: -o-linear-gradient(top, #68b14e 0%,#589442 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(top, #68b14e 0%,#589442 100%); /* IE10+ */
-background: linear-gradient(to bottom, #68b14e 0%,#589442 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#68b14e', endColorstr='#589442',GradientType=0 ); /* IE6-9 */
-border-bottom: 1px solid #68B04D;
-}
-.fall_2013_masthead_refresh .header_refresh#HEAD .tabsBar:before {
-content: '';
-border-top: 1px solid #68B04D;
-background-color: #86C171;
-line-height: 1px;
-height: 1px;
-position: absolute;
-width: 100%;
-}
-.fall_2013_masthead_refresh .hotelsDD .popDests,
-.fall_2013_masthead_refresh .dropMenu_refresh.overlay .inner {
-padding: 0;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh.overlay.relative {
-margin: 1px 3px;
-}
-.fall_2013_masthead_refresh .dropMenu_refresh .inner .subNav.hotelsDD {
-background: #FFF;
-}
-.fall_2013_masthead_refresh .hotelsDD .allHotels {
-font-weight: normal;
-border-bottom: 1px solid #589442;
-padding: 12px;
-}
-.fall_2013_masthead_refresh .hotelsDD a {
-color: #656565;
-display: block;
-}
-.fall_2013_masthead_refresh .hotelsDD .popDestsTitle {
-color: #589442;
-font-weight: normal;
-font-size: 1.333em;
-padding: 12px;
-border-bottom: 1px solid #EBEBEB;
-}
-.fall_2013_masthead_refresh .hotelsDD .popDestsLeft,
-.fall_2013_masthead_refresh .hotelsDD .popDestsRight {
-padding: 5px 0;
-white-space: nowrap;
-display: inline-block;
-float: none;
-min-width: 135px;
-}
-.fall_2013_masthead_refresh .hotelsDD .popDestsLeft {
-border-right: 1px solid #EBEBEB;
-}
-.fall_2013_masthead_refresh .hotelsDD .popDestsRight {
-}
-.fall_2013_masthead_refresh .hotelsDD .popDestsLink a {
-margin: 0 1px;
-padding: 6px 12px;
-}
-.fall_2013_masthead_refresh .hotelsDD .popDestsLink a:hover {
-background-color: #589442;
-color: #FFF;
-text-decoration: none;
--webkit-font-smoothing: antialiased;
-}
-.fall_2013_masthead_refresh .tchNavPromoLink {
-text-decoration: none;
-width: auto;
-}
-.fall_2013_masthead_refresh .tchNavPromo {
-border-top: 1px solid #EBEBEB;
-min-width: 272px;
-text-align: center;
-}
-.fall_2013_masthead_refresh .restaurantsDD {
-padding: 14px 12px;
-}
-.fall_2013_masthead_refresh .restaurantsDD .text {
-color: #686868;
-height: 18px;
-width: 194px;
-}
-.fall_2013_masthead_refresh .restaurantsDD select {
-display: block;
-margin: 12px 0;
-}
-.fall_2013_masthead_refresh .semauto-choices {
-width: 348px;
-}
-.fall_2013_masthead_refresh .semauto-choices.fixed {
-position: fixed;
-top: 70px !important;
-}
-.fall_2013_masthead_refresh .semauto-choices li div.choice-entry {
-padding-right: 10px;
-}
-.fall_2013_masthead_refresh #FLAGS_FLY,
-.fall_2013_masthead_refresh #ogSharingMenu {
-margin: 10px;
-}
 </style>
-<!-- web152a.a.tripadvisor.com -->
+<!-- web631a.a.tripadvisor.com -->
 <!-- PRODUCTION -->
 <!-- PRODUCTION -->
-<script type="text/javascript" src="http://c1.tacdn.com/js3/src/trsupp-v13958736710a.js"></script>
+<script type="text/javascript" src="http://c1.tacdn.com/js3/src/trsupp-v24291363200a.js"></script>
 </head>
-<body class="ltr domn_en_IN lang_en globalNav2011_reset fall_2013_masthead_refresh">
+<body class="ltr domn_en_IN lang_en globalNav2011_reset" data-navarea-metatype="QC_Meta_Mini" data-navarea-placement="Unknown">
 <div id="fb-root"></div>
 <script type="text/javascript">
 function initSaves()
@@ -1140,21 +514,22 @@ SV_IS_POPUP = 0;
 </div>
 <div id="iframediv"></div>
 <div id="PAGE" class=" non_hotels_like desktop">
-<div id="HEAD" class="header_refresh">
+<div id="HEAD" class="">
 <div class="masthead">
 <div class="container">
-<div class="brandArea"><span class="topLogo fl">
-<a class="logoWrap" onclick="setPID(5045);" href="/"><img class="sprite-taLogo_refresh" src="http://c1.tacdn.com/img2/x.gif" width="197" height="35" alt="Reviews of Hotels, Flights and Holiday Rentals"></a>
+<div class="brandArea">
+<span class="topLogo">
+<a class="logoWrap" onclick="setPID(5045);ta.setEvtCookie('TopNav', 'click', 'TAlogo', 0, this.href);" href="/"><img class="svg-taLogo" src="http://c1.tacdn.com/img2/langs/en_IN/branding/trip_logo.svg" width="197" height="35" alt="Reviews of Hotels, Flights and Holiday Rentals"></a>
 </span>
 <h1 class="header   "></h1>
 </div>
 <div id="USER_PREFS" class="prfs">
 <ul>
-<li id="register" onclick="ta.util.cookie.setPIDCookie(427);ta.store('registration.ga_module', 'Masthead');  return ta.registration.register({product: 'MASTHEAD', action: 'SIGNUP', data: function () { return { pid: 427 }; } } ); "><span class="link">JOIN</span></li>
-<li class="login" onclick="ta.util.cookie.setPIDCookie(429);ta.store('registration.ga_module', 'Masthead'); return ta.registration.register({product: 'MASTHEAD', data: function () { return { pid: 429 }; } } ); "><span class="link">LOG IN</span></li>
+<li id="register" onclick="ta.setEvtCookie('TopNav', 'open', 'Join', 0, '/Register');ta.util.cookie.setPIDCookie(427);ta.store('registration.ga_module', 'Masthead');  return ta.registration.register({product: 'MASTHEAD', action: 'SIGNUP', data: function () { return { pid: 427 }; } } ); "><span class="link">JOIN</span></li>
+<li class="login" onclick="ta.setEvtCookie('TopNav', 'open', 'Login', 0, '/Register');ta.util.cookie.setPIDCookie(429);ta.store('registration.ga_module', 'Masthead'); return ta.registration.register({product: 'MASTHEAD', data: function () { return { pid: 429 }; } } ); "><span class="link">LOG IN</span></li>
 <li>
 <span class="link">
-<div class="sprite-facebook15x15 taLnk hvrIE6  no_cpu " onclick=" ta.store('facebook.trackingpid',1882);  ta.call('ta.support.Facebook.loginButton', event, this);">&nbsp;</div>
+<div class="sprite-facebook15x15 taLnk hvrIE6  no_cpu " style="" onclick=" ta.store('facebook.trackingpid',1882);  ta.call('ta.support.Facebook.loginButton', event, this);">&nbsp;</div>
 </span>
 </li>
 <li id="CURRENCYPOP" class="optitem link" onclick="ta.call('ta.overlays.Factory.currencyPickerPopup', event, this, 'Unknown')">
@@ -1174,21 +549,20 @@ USD
 </ul> </div>
 </div>
 <div class="tabsBar">
-<ul class="tabs">
-<li class="tabItem dropDownJS  hvrIE6"><span class="tabLink arwLink" onmouseover="ta.call('ta.common.header.createDrop', event, this)"><a onclick="ta.setEvtCookie('TopNav', 'click', 'Hotels', 0, this.href)" href="/Hotels" class="arrow_text  pid2972">
+<ul class="tabs" onclick="">
+<li class="tabItem dropDownJS jsNavMenu  hvrIE6"><span class="tabLink arwLink"><a onclick="ta.setEvtCookie('TopNav', 'click', 'Hotels', 0, this.href)" href="/Hotels" class="arrow_text  pid2972">
 Hotels
 </a><img class="arrow_dropdown_wht sprite-arrow_dropdown_wht_refresh" src="http://c1.tacdn.com/img2/x.gif" alt="" width="9" height="7"></span>
-<span class="hidden">
 <div class="subNav hotelsDD">
 <div class="allHotels"><a href="/Hotels" alt="Search All Hotels">Search All Hotels</a></div> <div class="popDests"><div class="popDestsTitle">Popular destinations</div> <div class="popDestsLeft">
-<div class="popDestsLink"><a href="/Hotels-g297628-Bangalore_Karnataka-Hotels.html">Hotels in Bangalore</a></div>
+<div class="popDestsLink"><a href="/Hotels-g297628-Bengaluru_Bangalore_Karnataka-Hotels.html">Hotels in Bangalore</a></div>
 <div class="popDestsLink"><a href="/Hotels-g304552-Shimla_Himachal_Pradesh-Hotels.html">Hotels in Shimla</a></div>
 <div class="popDestsLink"><a href="/Hotels-g304555-Jaipur_Rajasthan-Hotels.html">Hotels in Jaipur</a></div>
 <div class="popDestsLink"><a href="/Hotels-g635749-Mahabaleshwar_Maharashtra-Hotels.html">Hotels in Mahabaleshwar</a></div>
-<div class="popDestsLink"><a href="/Hotels-g297586-Hyderabad_Andhra_Pradesh-Hotels.html">Hotels in Hyderabad</a></div>
+<div class="popDestsLink"><a href="/Hotels-g297586-Hyderabad_Telangana-Hotels.html">Hotels in Hyderabad</a></div>
 <div class="popDestsLink"><a href="/Hotels-g297679-Ooty_Tamil_Nadu-Hotels.html">Hotels in Ooty</a></div>
 <div class="popDestsLink"><a href="/Hotels-g297618-Manali_Himachal_Pradesh-Hotels.html">Hotels in Manali</a></div>
-<div class="popDestsLink"><a href="/Hotels-g503703-Puri_Orissa-Hotels.html">Hotels in Puri</a></div>
+<div class="popDestsLink"><a href="/Hotels-g503703-Puri_Odisha-Hotels.html">Hotels in Puri</a></div>
 <div class="popDestsLink"><a href="/Hotels-g297654-Pune_Maharashtra-Hotels.html">Hotels in Pune</a></div>
 <div class="popDestsLink"><a href="/Hotels-g660548-Nainital_Uttarakhand-Hotels.html">Hotels in Nainital</a></div>
 </div><div class="popDestsRight"> <div class="popDestsLink"><a href="/Hotels-g679021-Shirdi_Maharashtra-Hotels.html">Hotels in Shirdi</a></div>
@@ -1206,156 +580,19 @@ Hotels
 <img src="http://c1.tacdn.com/img2/tc/2014/TCH-Hotels-dropdown_LL_TM.gif" alt="Travellers' Choice Hotel Awards"> <p>The world's best hotels. <span class="taLnk">Get the list</span>.</p> </div>
 </a>
 </div>
-</span></li>
+</li>
 <li class="tabItem  hvrIE6"><a onclick="ta.setEvtCookie('TopNav', 'click', 'Flights', 0, this.href);setPID(1940)" href="/CheapFlightsHome" class="tabLink  pid18957">
 Flights
 </a>
 </li>
 <li class="tabItem  hvrIE6"><a onclick="ta.setEvtCookie('TopNav', 'click', 'VacationRentals', 0, this.href)" href="/Rentals" class="tabLink  pid4968">
-Holiday Rentals
+Holiday homes
 </a>
 </li>
-<li class="tabItem dropDownJS  hvrIE6"><span class="tabLink arwLink" onmouseover="ta.call('ta.common.header.createDrop', event, this)"><a onclick="ta.setEvtCookie('TopNav', 'click', 'Restaurants', 0, this.href)" href="/Restaurants" class="arrow_text  pid2973">
+<li class="tabItem  hvrIE6"><a onclick="ta.setEvtCookie('TopNav', 'click', 'Restaurants', 0, this.href)" href="/Restaurants" class="tabLink  pid2973">
 Restaurants
-</a><img class="arrow_dropdown_wht sprite-arrow_dropdown_wht_refresh" src="http://c1.tacdn.com/img2/x.gif" alt="" width="9" height="7"></span>
-<span class="hidden">
-<form action="/RestaurantSearch" method="get" class="subNav">
-<fieldset class="restaurantsDD">
-<span class="eatInputs">
-<div class="fldSet">
-<input id="restaurantCityDropUrl" type="hidden" name="geo">
-<input id="restaurantCityDrop" class="text" type="text" name="q" autocomplete="off" value="" placeholder="City" onblur="return ta.call('ta.common.search.defaultOnBlur',event)" onfocus="ta.call('ta.widgets.typeahead.factory.standard', event, this, 'RESTGEO', 'ta.widgets.typeahead.events.dropEateryOnSelect', {minLength: 3}); return ta.call('ta.common.search.clearOnFocus',event)">
-</div>
-<select id="dropCuisine" name="cat" class="dropSelect">
-<option selected="selected" value="">
-All Cuisines </option>
-<option value="1" onclick="event.stopPropagation()">
-African
-</option>
-<option value="2" onclick="event.stopPropagation()">
-American
-</option>
-<option value="3" onclick="event.stopPropagation()">
-Asian
-</option>
-<option value="5" onclick="event.stopPropagation()">
-Bakery
-</option>
-<option value="6" onclick="event.stopPropagation()">
-Barbecue
-</option>
-<option value="7" onclick="event.stopPropagation()">
-British
-</option>
-<option value="8" onclick="event.stopPropagation()">
-Café
-</option>
-<option value="9" onclick="event.stopPropagation()">
-Cajun &amp; Creole
-</option>
-<option value="10" onclick="event.stopPropagation()">
-Caribbean
-</option>
-<option value="11" onclick="event.stopPropagation()">
-Chinese
-</option>
-<option value="12" onclick="event.stopPropagation()">
-Continental
-</option>
-<option value="13" onclick="event.stopPropagation()">
-Delicatessen
-</option>
-<option value="14" onclick="event.stopPropagation()">
-Dessert
-</option>
-<option value="16" onclick="event.stopPropagation()">
-Eastern European
-</option>
-<option value="17" onclick="event.stopPropagation()">
-Fusion
-</option>
-<option value="18" onclick="event.stopPropagation()">
-European
-</option>
-<option value="20" onclick="event.stopPropagation()">
-French
-</option>
-<option value="21" onclick="event.stopPropagation()">
-German
-</option>
-<option value="22" onclick="event.stopPropagation()">
-Global/International
-</option>
-<option value="23" onclick="event.stopPropagation()">
-Greek
-</option>
-<option value="24" onclick="event.stopPropagation()">
-Indian
-</option>
-<option value="25" onclick="event.stopPropagation()">
-Irish
-</option>
-<option value="26" onclick="event.stopPropagation()">
-Italian
-</option>
-<option value="27" onclick="event.stopPropagation()">
-Japanese
-</option>
-<option value="28" onclick="event.stopPropagation()">
-Mediterranean
-</option>
-<option value="29" onclick="event.stopPropagation()">
-Mexican/Southwestern
-</option>
-<option value="30" onclick="event.stopPropagation()">
-Middle Eastern
-</option>
-<option value="31" onclick="event.stopPropagation()">
-Pizza
-</option>
-<option value="32" onclick="event.stopPropagation()">
-Pub
-</option>
-<option value="33" onclick="event.stopPropagation()">
-Seafood
-</option>
-<option value="34" onclick="event.stopPropagation()">
-Soups
-</option>
-<option value="35" onclick="event.stopPropagation()">
-South American
-</option>
-<option value="36" onclick="event.stopPropagation()">
-Spanish
-</option>
-<option value="37" onclick="event.stopPropagation()">
-Steakhouse
-</option>
-<option value="38" onclick="event.stopPropagation()">
-Sushi
-</option>
-<option value="39" onclick="event.stopPropagation()">
-Thai
-</option>
-<option value="40" onclick="event.stopPropagation()">
-Vegetarian
-</option>
-<option value="41" onclick="event.stopPropagation()">
-Vietnamese
-</option>
-</select>
-<select name="pid" id="dropEatPrice" class="dropSelect"> <option selected="selected" value="">
-Any Price
-</option>
-<option value="1" onclick="event.stopPropagation()">₹</option>
-<option value="2" onclick="event.stopPropagation()">₹₹</option>
-<option value="4" onclick="event.stopPropagation()">₹₹₹</option>
-<option value="8" onclick="event.stopPropagation()">₹₹₹₹</option>
-</select>
-</span>
-<div class="rndBtn rndBtnGreen rndBtnLarge" onclick="ta.trackEventOnPage('TopNav', 'click', 'Restaurants'); ta.call('ta.common.header.submitAndSetPid', event, this, 5277)">Find Restaurants</div> </fieldset>
-</form>
-</span></li>
+</a>
+</li>
 <li class="tabItem  hvrIE6"><a onclick="ta.setEvtCookie('TopNav', 'click', 'TravelersChoice', 0, this.href)" href="/TravelersChoice" class="tabLink  pid5087">
 Best of 2014
 </a>
@@ -1365,8 +602,9 @@ Your Friends <span id="FBL" class="sprite-facebook15x15"></span>
 </a>
 <div class="overlayContents"><div class="inner2"><div class="help"><div class="hdr">Travel is better with friends.</div><div class="ttbody">Get inspired by your friends and share your travel plans. <a href="/Friends-rnauth" onclick="return ta.call('ta.common.header.adjustFriendsLink', event, this);">Learn more</a></div></div></div></div>
 </li>
-<li class="tabItem dropDown hvrIE6 " onmouseenter="ta.call('ta.overlays.Factory.createEmptyOverlay', event, this, false)">
-<span class="tabLink arwLink"><span class="arrow_text">More</span><img class="arrow_dropdown_wht sprite-arrow_dropdown_wht_refresh" src="http://c1.tacdn.com/img2/x.gif" alt="" width="9" height="7"></span> <ul class="subNav">
+<li class="tabItem dropDown jsNavMenu hvrIE6 ">
+<span class="tabLink arwLink"><span class="arrow_text">More</span><img class="arrow_dropdown_wht sprite-arrow_dropdown_wht_refresh" src="http://c1.tacdn.com/img2/x.gif" alt="" width="9" height="7"></span>
+<ul class="subNav">
 <li class="subItem ">
 <a href="/ForumHome" onclick="ta.setEvtCookie('TopNav', 'click', 'Travel Forum', 0, this.href)" class="subLink pid34623">Travel Forum
 </a>
@@ -1379,43 +617,86 @@ Your Friends <span id="FBL" class="sprite-facebook15x15"></span>
 <a href="/GreenLeaders" onclick="ta.setEvtCookie('TopNav', 'click', 'GreenLeaders', 0, this.href)" class="subLink pid34563">GreenLeaders
 </a>
 </li>
-</ul>
-</li>
-<li class="tabItem altItem warLink hvrIE6" onmouseover="if(!ta.retrieve('GLOBAL_NAV_WAR_HOVER')){new Request({url: '/ActionRecord?action=GLOBAL_NAV_WAR_HOVER'}).send(); ta.store('GLOBAL_NAV_WAR_HOVER',true);return false;}">
-<a href="https://www.tripadvisor.in/UserReview-ehttp%3A__2F____2F__www__2E__tripadvisor__2E__in__2F__pages__2F__privacy__2E__html" class="writeReview taLnk hvrIE6 tabLink pid1434" onclick="ta.setEvtCookie('TopNav', 'click', 'WriteAReview', 0, '/UserReviewRedesign')">
-<span class="arrow_text">Write a Review</span> <span class="pen_wht sprite-pen_wht"></span>
+<li class="subItem ">
+<a href="#" onclick="ta.call('ta.overlays.Factory.helpCenterLB', event)" class="subLink ">Help&nbsp;Centre
 </a>
 </li>
+</ul>
+</li>
+<li class="tabItem altItem dropDown warLink">
+<span class="tabLink arwLink">
+<span class="arrow_text">
+Write a Review <div id="WAR_NOTIFICATION_FLAG" class="lsJewelCounter">
+1+
+</div>
+</span>
+<img class="arrow_dropdown_wht sprite-arrow_dropdown_wht_refresh" src="http://c1.tacdn.com/img2/x.gif" alt="" width="9" height="7">
+</span>
+<div class="subNav">
+<div id="WAR_TO_DO_LIST">
+<div id="WAR_ANOTHER_POI" class="warAnotherPOI">
+<div class="warLoc subItem" onclick="ta.setEvtCookie('WAR', 'WAR_PROJECT_GLOBAL_NAV_DROP_DOWN', 'PICK_ANOTHER_POI', '', '/UserReviewRedesign');location.href='https://www.tripadvisor.in/UserReview-ehttp%3A__2F____2F__www__2E__tripadvisor__2E__in__2F__pages__2F__privacy__2E__html'">
+<div class="warLocImg">
+<div class="nophoto thumbNail">
+<img id="lazyload_1450799222_0" class="lodge">
+</div>
+</div>
+<div class="warLocDetail">
+<span>
+Review a place you’ve visited </span>
+</div>
+</div>
+</div>
+<div id="WAR_TODO_LOADING">
+<img src="http://c1.tacdn.com/img2/spinner.gif">
+</div>
+</div>
+</div>
+</li>
+<script>ta.common.header.createNavMenu(ta.find('.warLink'), { initFn: function() { ta.run('ta.overlays.Factory.createWARToDoListOverlay'); }});</script>
 </ul> </div>
+<script>ta.common.header.createNavMenu(ta.select('.jsNavMenu'));</script>
 </div> </div>
-<div class="secondaryNavBar">
-<div class="crumbs">
-<div class="searchSpacer"></div>
+<div id="SECONDARY_NAV_BAR" class="secondaryNavBar ">
+<div class="crumbs dark">
+<script type="text/javascript">
+ta.store('typeahead_closed_label', 'CLOSED'); // CLOSED
+</script>
+<div class="searchSpacer searchSpacerWide"></div>
 <div class="globalSearch">
 <div class="fader"></div>
-<div class="navSrch   no_cpu ">
+<div class="navSrch  no_cpu ">
 <form method="get" action="/Search" onsubmit="return ta.call('ta.common.search.recordAndValidate', event)" id="global_nav_search_form">
-<input id="mainSearch" type="text" name="q" class="text    focusClear" autocomplete="off" onfocus="if (ta &amp;&amp; ta.common) { 
-               ta.call('ta.common.header.expand', event, this);
-                                                            
-                                                            ta.call('ta.common.header.createTypeAhead', event, this, 'API', '', {showHistory:true, showHistoryOnCreation:true}); 
-                               ta.call('ta.common.search.clearOnFocus', event) }" onblur="if (ta &amp;&amp; ta.common) { ta.call('ta.common.header.contract', event, this);
-                ta.call('ta.common.search.defaultOnBlur', event); }" onkeyup="if (ta &amp;&amp; (event.keyCode || event.which) === 13) ta.trackEventOnPage('Masthead_Search', 'click', 'Enter', 0)" value="Search for a city, hotel, etc." data-ghosttext="Search for a city, hotel, etc.">
-<input class="sprite-search_mag_glass" type="image" src="http://c1.tacdn.com/img2/x.gif" onclick="ta.trackEventOnPage('Masthead_Search', 'click', 'Button', 0); if (event.clientY) { ta.id('global_nav_search_form').elements['pid'].value=3825; }" name="sub-search">
-<input type="hidden" name="geo" value="">
+<span id="MAIN_SEARCH_CONTAINER" class="mainSearchContainer">
+<input id="mainSearch" type="text" name="q" class="text searchInputWide  focusClear" autocomplete="off" onblur="if(this.value.trim() == ''){
+                            this.addClass('focusClear');
+                         }" onfocus="if (ta &amp;&amp; ta.common) {
+                 this.removeClass('focusClear');
+                                                       ta.trackEventOnPage('TopNav_search', 'focus', '');
+
+                                      
+                                      
+                                        ta.call('ta.common.header.createTypeAhead', event, this, '', {showHistory:true, integrateHistory:true,
+                                                                                                 focusAction:'history', doExpansion: false,
+                                                                                                 minChars:3, defaultValue:'Search for a city, hotel, etc.'});
+                                                     }" onkeydown="if (ta &amp;&amp; (event.keyCode || event.which) === 13){ta.setEvtCookie('TopNav_Search', 'Action', 'Hit_Enter_toSRP', 0, '/Search');}" value="Search for a city, hotel, etc.">
+</span>
+<input class="sprite-search_mag_glass" type="image" src="http://c1.tacdn.com/img2/x.gif" onclick=" if (event.clientY) { ta.id('global_nav_search_form').elements['pid'].value=3825; };ta.setEvtCookie('TopNav_Search', 'Action', 'Selected_magnifying_glass_toSRP', 0, '/Search');" name="sub-search">
+<input id="TYPEAHEAD_GEO_ID" type="hidden" name="geo" value="">
 <input type="hidden" name="pid" value="3826">
 <input type="hidden" name="returnTo" value="http%3A__2F____2F__www__2E__tripadvisor__2E__in__2F__pages__2F__privacy__2E__html">
 </form>
 </div>
 </div>
-<ul class="breadcrumbs">
+<ul class="breadcrumbs" id="BREADCRUMBS">
 </ul>
 </div>
 <div class="easyClear"></div>
 </div>
 <div id="MAINWRAP">
 <div id="MAIN" class="StaticVelocityXmlPage
-         header_refresh " rel="v:itemreviewed">
+             prodp13n_jfy_beta_ribbon_overflow_visible
+        " rel="v:itemreviewed">
 <div id="LEFTNAV" class="col">
 <div class="lhnHigh onShow">
 <ul>
@@ -1486,7 +767,7 @@ Travel Advisories</a>
 </ul>
 </div>
 </div>
-<div id="BODYCON" class="col poolX adjust_padding new_meta_chevron_v2" typeof="v:Organization">
+<div id="BODYCON" class="col poolB adjust_padding new_meta_chevron_v2" typeof="v:Organization">
 <div class="wrpHeader">
 </div>
 <style type="text/css">
@@ -1730,6 +1011,21 @@ Newton, MA 02464, USA<br><br>
 <p style="padding-top:4px; border-top:2px solid #589442; color:#9f9f9f; font-style:italic; text-align:right;">
 This Privacy Policy is effective as of July 1, 2011
 </p>
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: '2', c2: '6036461', c3: '', c4: '' });
+var _csload = function() {
+var s = document.createElement('script'), el = document.getElementsByTagName('script')[0]; s.async = true;
+s.src = (document.location.protocol == 'https:' ? 'https://sb' : 'http://b') + '.scorecardresearch.com/beacon.js';
+el.parentNode.insertBefore(s, el);
+};
+ta.queueForLoad(_csload, 5, 'comscore');
+</script>
+<noscript>
+<img class='tracking' height='1px' width='1px' src='http://b.scorecardresearch.com/p?c1=2&c2=6036461&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1'/>
+</noscript>
+</div>
+<div id="hotels_one_col_bottom">
 </div>
 <div id="LVC_POPULAR_CITIES" class="lvcitiesmodule">
 <h2 class="title">Travelling to a popular city? </h2> <div class="textabove">Know before you go. Get traveller reviews &amp; opinions on hotels in top cities. Plus, compare prices and check availability. Find the hotel information you need on TripAdvisor to plan the perfect stay!</div>
@@ -1741,11 +1037,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Manali Hotels</div>
 </a>
 <a href="/Hotels-g297618-Manali_Himachal_Pradesh-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_0" height="112" style="height: 127px; width: 170px;" alt="Manali" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_1" height="112" style="height: 127px; width: 170px;" alt="Manali" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">15,452 reviews</div>
+<div class="citydtlreviews">19,281 reviews</div>
 </div>
 </a>
 </div>
@@ -1756,11 +1052,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Goa Hotels</div>
 </a>
 <a href="/Hotels-g297604-Goa-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 111px; width: 170px">
-<img id="lazyload_480941636_1" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Goa" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 111px; width: 170px; ">
+<img id="lazyload_1450799222_2" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Goa" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">112,415 reviews</div>
+<div class="citydtlreviews">138,052 reviews</div>
 </div>
 </a>
 </div>
@@ -1770,11 +1066,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Mussoorie Hotels</div>
 </a>
 <a href="/Hotels-g297689-Mussoorie_Uttarakhand-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 244px; width: 360px">
-<img id="lazyload_480941636_2" height="244" style="height: 269px; width: 360px;" alt="Mussoorie" width="360" class="photo_image">
+<div class="sizedThumb  " style="height: 244px; width: 360px; ">
+<img id="lazyload_1450799222_3" height="244" style="height: 269px; width: 360px;" alt="Mussoorie" width="360" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">6,647 reviews</div>
+<div class="citydtlreviews">8,466 reviews</div>
 </div>
 </a>
 </div>
@@ -1784,11 +1080,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Mahabaleshwar Hotels</div>
 </a>
 <a href="/Hotels-g635749-Mahabaleshwar_Maharashtra-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_3" height="112" style="height: 127px; width: 170px;" alt="Mahabaleshwar" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_4" height="112" style="height: 127px; width: 170px;" alt="Mahabaleshwar" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">5,945 reviews</div>
+<div class="citydtlreviews">7,595 reviews</div>
 </div>
 </a>
 </div>
@@ -1797,11 +1093,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Amritsar Hotels</div>
 </a>
 <a href="/Hotels-g303884-Amritsar_Punjab-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_4" height="112" style="height: 127px; width: 170px;" alt="Amritsar" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_5" height="112" style="height: 127px; width: 170px;" alt="Amritsar" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">11,479 reviews</div>
+<div class="citydtlreviews">15,463 reviews</div>
 </div>
 </a>
 </div>
@@ -1812,11 +1108,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Shimla Hotels</div>
 </a>
 <a href="/Hotels-g304552-Shimla_Himachal_Pradesh-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_5" height="112" style="height: 127px; width: 170px;" alt="Shimla" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_6" height="112" style="height: 127px; width: 170px;" alt="Shimla" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">12,991 reviews</div>
+<div class="citydtlreviews">16,076 reviews</div>
 </div>
 </a>
 </div>
@@ -1825,27 +1121,27 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Nainital Hotels</div>
 </a>
 <a href="/Hotels-g660548-Nainital_Uttarakhand-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_6" height="112" style="height: 127px; width: 170px;" alt="Nainital" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_7" height="112" style="height: 127px; width: 170px;" alt="Nainital" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">6,507 reviews</div>
+<div class="citydtlreviews">8,147 reviews</div>
 </div>
 </a>
 </div>
 </div>
 </div> <div class="rightcolm">
-<div class="singlecol_l">
+<div class="singlecol_l singlecol_m">
 <div class="smallbox">
 <a href="/Hotels-g304553-Mysore_Karnataka-Hotels.html" class="city_link">
 <div class="citydtlname">Mysore Hotels</div>
 </a>
 <a href="/Hotels-g304553-Mysore_Karnataka-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_7" height="112" style="height: 127px; width: 170px;" alt="Mysore" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_8" height="112" style="height: 127px; width: 170px;" alt="Mysore" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">14,701 reviews</div>
+<div class="citydtlreviews">18,746 reviews</div>
 </div>
 </a>
 </div>
@@ -1854,11 +1150,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Kodaikanal Hotels</div>
 </a>
 <a href="/Hotels-g303890-Kodaikanal_Tamil_Nadu-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_8" height="112" style="height: 121px; width: 170px;" alt="Kodaikanal" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_9" height="112" style="height: 121px; width: 170px;" alt="Kodaikanal" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">8,109 reviews</div>
+<div class="citydtlreviews">10,122 reviews</div>
 </div>
 </a>
 </div>
@@ -1867,11 +1163,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Pune Hotels</div>
 </a>
 <a href="/Hotels-g297654-Pune_Maharashtra-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_9" height="112" style="height: 127px; width: 170px;" alt="Pune" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_10" height="112" style="height: 127px; width: 170px;" alt="Pune" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">25,149 reviews</div>
+<div class="citydtlreviews">31,270 reviews</div>
 </div>
 </a>
 </div>
@@ -1880,11 +1176,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Shirdi Hotels</div>
 </a>
 <a href="/Hotels-g679021-Shirdi_Maharashtra-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_10" height="112" style="height: 127px; width: 170px;" alt="Shirdi" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_11" height="112" style="height: 127px; width: 170px;" alt="Shirdi" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">4,433 reviews</div>
+<div class="citydtlreviews">5,814 reviews</div>
 </div>
 </a>
 </div>
@@ -1893,11 +1189,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Jaipur Hotels</div>
 </a>
 <a href="/Hotels-g304555-Jaipur_Rajasthan-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 111px; width: 170px">
-<img id="lazyload_480941636_11" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Jaipur" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 111px; width: 170px; ">
+<img id="lazyload_1450799222_12" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Jaipur" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">62,139 reviews</div>
+<div class="citydtlreviews">77,532 reviews</div>
 </div>
 </a>
 </div>
@@ -1909,39 +1205,39 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Agra Hotels</div>
 </a>
 <a href="/Hotels-g297683-Agra_Uttar_Pradesh-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_12" height="112" style="height: 127px; width: 170px;" alt="Agra" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_13" height="112" style="height: 127px; width: 170px;" alt="Agra" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">36,716 reviews</div>
+<div class="citydtlreviews">45,805 reviews</div>
 </div>
 </a>
 </div>
 <div class="smallbox">
-<a href="/Hotels-g297628-Bangalore_Karnataka-Hotels.html" class="city_link">
-<div class="citydtlname">Bangalore Hotels</div>
+<a href="/Hotels-g297628-Bengaluru_Bangalore_Karnataka-Hotels.html" class="city_link">
+<div class="citydtlname">Bengaluru (Bangalore) Hotels</div>
 </a>
-<a href="/Hotels-g297628-Bangalore_Karnataka-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 111px; width: 170px">
-<img id="lazyload_480941636_13" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Bangalore" width="170" class="photo_image">
+<a href="/Hotels-g297628-Bengaluru_Bangalore_Karnataka-Hotels.html" class="photo_link">
+<div class="sizedThumb  " style="height: 111px; width: 170px; ">
+<img id="lazyload_1450799222_14" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Bengaluru (Bangalore)" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">62,848 reviews</div>
+<div class="citydtlreviews">79,658 reviews</div>
 </div>
 </a>
 </div>
 </div>
 <div class="singlecol_r">
 <div class="smallbox">
-<a href="/Hotels-g297586-Hyderabad_Andhra_Pradesh-Hotels.html" class="city_link">
+<a href="/Hotels-g297586-Hyderabad_Telangana-Hotels.html" class="city_link">
 <div class="citydtlname">Hyderabad Hotels</div>
 </a>
-<a href="/Hotels-g297586-Hyderabad_Andhra_Pradesh-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_14" height="112" style="height: 127px; width: 170px;" alt="Hyderabad" width="170" class="photo_image">
+<a href="/Hotels-g297586-Hyderabad_Telangana-Hotels.html" class="photo_link">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_15" height="112" style="height: 127px; width: 170px;" alt="Hyderabad" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">26,331 reviews</div>
+<div class="citydtlreviews">33,527 reviews</div>
 </div>
 </a>
 </div>
@@ -1950,11 +1246,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Udaipur Hotels</div>
 </a>
 <a href="/Hotels-g297672-Udaipur_Rajasthan-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_15" height="112" style="height: 127px; width: 170px;" alt="Udaipur" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_16" height="112" style="height: 127px; width: 170px;" alt="Udaipur" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">35,440 reviews</div>
+<div class="citydtlreviews">44,606 reviews</div>
 </div>
 </a>
 </div>
@@ -1964,11 +1260,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Munnar Hotels</div>
 </a>
 <a href="/Hotels-g303881-Munnar_Kerala-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 244px; width: 360px">
-<img id="lazyload_480941636_16" height="244" style="height: 269px; width: 360px;" alt="Munnar" width="360" class="photo_image">
+<div class="sizedThumb  " style="height: 244px; width: 360px; ">
+<img id="lazyload_1450799222_17" height="244" style="height: 269px; width: 360px;" alt="Munnar" width="360" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">18,280 reviews</div>
+<div class="citydtlreviews">22,194 reviews</div>
 </div>
 </a>
 </div>
@@ -1978,31 +1274,31 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Mount Abu Hotels</div>
 </a>
 <a href="/Hotels-g679012-Mount_Abu_Rajasthan-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_17" height="112" style="height: 127px; width: 170px;" alt="Mount Abu" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_18" height="112" style="height: 127px; width: 170px;" alt="Mount Abu" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">4,143 reviews</div>
+<div class="citydtlreviews">5,369 reviews</div>
 </div>
 </a>
 </div>
 </div>
 <div class="singlecol_r">
 <div class="smallbox">
-<a href="/Hotels-g503703-Puri_Orissa-Hotels.html" class="city_link">
+<a href="/Hotels-g503703-Puri_Odisha-Hotels.html" class="city_link">
 <div class="citydtlname">Puri Hotels</div>
 </a>
-<a href="/Hotels-g503703-Puri_Orissa-Hotels.html" class="photo_link">
-<div class="sizedThumb  " style="height: 112px; width: 170px">
-<img id="lazyload_480941636_18" height="112" style="height: 127px; width: 170px;" alt="Puri" width="170" class="photo_image">
+<a href="/Hotels-g503703-Puri_Odisha-Hotels.html" class="photo_link">
+<div class="sizedThumb  " style="height: 112px; width: 170px; ">
+<img id="lazyload_1450799222_19" height="112" style="height: 127px; width: 170px;" alt="Puri" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">4,867 reviews</div>
+<div class="citydtlreviews">6,167 reviews</div>
 </div>
 </a>
 </div>
 </div>
-</div> </div> </div> <div class="textbelow">Plan and have the perfect trip! TripAdvisor is the world’s largest travel site with more than 150 million reviews and opinions by travellers around the world, you’ll find the best places to eat, sleep, and play, wherever you go!</div>
+</div> </div> </div> <div class="textbelow">Plan and have the perfect trip! TripAdvisor is the world’s largest travel site with more than 200 million reviews and opinions by travellers around the world, you’ll find the best places to eat, sleep, and play, wherever you go!</div>
 </div>
 </div> </div>
 <div id="FOOT_CONTAINER">
@@ -2012,16 +1308,16 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="block">
 <dl class="sep brand">
 <dt>
-<img id="lazyload_480941636_19" height="20" alt="TripAdvisor" width="132">
+<img id="lazyload_1450799222_20" height="20" alt="TripAdvisor" width="132">
 </dt>
 <dd class="meta">
 Reviews and advice on hotels, resorts, flights, restaurants, holiday packages, and lots more!
 </dd>
 </dl>
 <div class="sep internal">
-<span><a class="taLnk" href="/PressCenter-c6-About_Us.html">About Us</a></span> | <span class="taLnk" onclick="return ta.call('ta.overlays.Factory.helpCenterLB', event);">Help&nbsp;Centre</span>
+<span><a class="taLnk" href="/PressCenter-c6-About_Us.html">About Us</a></span>
 | <span><a class="taLnk" href="/AllLocations-g1-c1-Hotels-World.html">Site Map</a></span>
-</div>
+| <span class="taLnk" onclick="return ta.call('ta.overlays.Factory.helpCenterLB', event);">Help&nbsp;Centre <img id="lazyload_1450799222_21" height="10" alt="" width="14"></span> </div>
 <div class="sep legal">
 <div class="copyright">
 © 2014 TripAdvisor LLC All rights reserved. TripAdvisor <a href="/pages/terms.html">Terms of Use</a> and <a href="/pages/privacy.html">Privacy Policy</a>.
@@ -2045,16 +1341,27 @@ Reviews and advice on hotels, resorts, flights, restaurants, holiday packages, a
 </div> </div>
 </div>
 <script type="text/javascript">
+ta.queueForLoad( function() {
+ta.localStorage && ta.localStorage.updateSessionKey('D76AD085086A1AE48D0E5FB6A9D7C445');
+}, "reset localStorage session id");
+</script>
+<script type="text/javascript">
 ta.store('ta.commerce.suppress_commerce_impressions.enabled', true);
 </script>
 <script type="text/javascript">
 ta.store('typeahead.typeahead2_mixed_ui', true);
 ta.store('typeahead.elasticsearch_include_geo_pages', true);
 ta.store('typeahead.typeahead2_geo_segmented_ui', true);
+ta.store('typeahead.integrate_recently_viewed', true);
 ta.store('typeahead.destination_icons', "http://c1.tacdn.com/img2/icons/typeahead/destination_icons.png");
-ta.store('typeahead.geoArea', ' area');       ta.store('typeahead.worldwide', 'Worldwide');       ta.store('typeahead.noResultsFound', 'No results found.');       ta.store('typeahead.searchForPrompt', "Search for");       ta.store('typeahead.searchMore', 'Find more results for "%"');
+ta.store('typeahead.geoArea', ' area');       ta.store('typeahead.worldwide', 'Worldwide');       ta.store('typeahead.noResultsFound', 'No results found.');       ta.store('typeahead.searchForPrompt', "Search for");
+ta.store('typeahead.location', "Location");                  ta.store('typeahead.restaurant', "Restaurant");           ta.store('typeahead.attraction', "Attraction");           ta.store('typeahead.hotel', "Hotel");
+ta.store('typeahead.restaurant_list', "Restaurants");         ta.store('typeahead.attraction_list', "Attractions");         ta.store('typeahead.hotel_list', "Hotels");                   ta.store('typeahead.vacation_rental_list', "Holiday Rentals")
+ta.store('typeahead.scoped.search_in', "Search in");       ta.store('typeahead.scoped.for', "for");       ta.store('typeahead.scoped.geo_scope_default', "Please type in a location");       ta.store('typeahead.scoped.static_local_label', '% area');
+ta.store('typeahead.scoped.all_of_trip', "All of TripAdvisor");       ta.store('typeahead.scoped.poi_overview_geo', "% Overview");       ta.store('typeahead.scoped.poi_hotels_geo', "% Hotels");       ta.store('typeahead.scoped.poi_vr_geo', "% Holiday Rentals");       ta.store('typeahead.scoped.poi_attractions_geo', "% Attractions");       ta.store('typeahead.scoped.poi_eat_geo', "% Restaurants");
+ta.store('typeahead.searchMore', 'Find more results for "%"');
 ta.store('typeahead.history', "Recently viewed");
-ta.store('typeahead.recentHistoryList', []);
+ta.store('typeahead.recentHistoryList', [{"title":"Destinations","scope":"global","coords":"16.44555,102.83766","details":{"grandparent_name":"World","name":"Thailand","parent_name":"Asia","rac_enabled":false,"geo_name":"Asia"},"urls":[{"url_type":"geo","name":"Thailand Tourism","type":"GEO","url":"\/Tourism-g293915-Thailand-Vacations.html"},{"url_type":null,"name":"Thailand Holiday Rentals","type":"VACATION_RENTAL","url":"\/VacationRentals-g293915-Reviews-Thailand-Vacation_Rentals.html"},{"url_type":"eat","name":"Thailand Restaurants","type":"EATERY","url":"\/Restaurants-g293915-Thailand.html"},{"url_type":"attr","name":"Thailand Attractions","type":"ATTRACTION","url":"\/Attractions-g293915-Activities-Thailand.html"},{"url_type":"hotel","name":"Thailand Hotels","type":"HOTEL","url":"\/Hotels-g293915-Thailand-Hotels.html"}],"name":"Thailand, Asia","is_vr":true,"value":293915,"closed":false,"type":"GEO","normalized_name":"thailand","url":"\/Tourism-g293915-Thailand-Vacations.html","is_broad":true},{"title":"Destinations","scope":"global","coords":"46.75308,8.473175","details":{"grandparent_name":"World","name":"Switzerland","parent_name":"Europe","rac_enabled":true,"geo_name":"Europe"},"urls":[{"url_type":"geo","name":"Switzerland Tourism","type":"GEO","url":"\/Tourism-g188045-Switzerland-Vacations.html"},{"url_type":null,"name":"Switzerland Holiday Rentals","type":"VACATION_RENTAL","url":"\/VacationRentals-g188045-Reviews-Switzerland-Vacation_Rentals.html"},{"url_type":"eat","name":"Switzerland Restaurants","type":"EATERY","url":"\/Restaurants-g188045-Switzerland.html"},{"url_type":"attr","name":"Switzerland Attractions","type":"ATTRACTION","url":"\/Attractions-g188045-Activities-Switzerland.html"},{"url_type":"hotel","name":"Switzerland Hotels","type":"HOTEL","url":"\/Hotels-g188045-Switzerland-Hotels.html"}],"name":"Switzerland, Europe","is_vr":true,"value":188045,"closed":false,"type":"GEO","normalized_name":"switzerland","url":"\/Tourism-g188045-Switzerland-Vacations.html","is_broad":true},{"title":"Attractions","scope":"global","details":{"grandparent_name":"Singapore","name":"Singapore Botanic Gardens","parent_name":"Singapore","geo_name":"Singapore, Singapore"},"urls":[{"url_type":"attr","name":"Singapore Botanic Gardens, Singapore, Singapore","type":"ATTRACTION","url":"\/Attraction_Review-g294265-d310900-Reviews-Singapore_Botanic_Gardens-Singapore.html"}],"name":"Singapore Botanic Gardens, Singapore, Singapore","is_vr":false,"value":310900,"closed":false,"type":"ATTRACTION","normalized_name":"singapore botanic gardens","url":"\/Attraction_Review-g294265-d310900-Reviews-Singapore_Botanic_Gardens-Singapore.html","is_broad":false},{"title":"Attractions","scope":"global","details":{"grandparent_name":"Singapore","name":"Cloud Forest","parent_name":"Singapore","geo_name":"Singapore, Singapore"},"urls":[{"url_type":"attr","name":"Cloud Forest, Singapore, Singapore","type":"ATTRACTION","url":"\/Attraction_Review-g294265-d4400781-Reviews-Cloud_Forest-Singapore.html"}],"name":"Cloud Forest, Singapore, Singapore","is_vr":false,"value":4400781,"closed":false,"type":"ATTRACTION","normalized_name":"cloud forest","url":"\/Attraction_Review-g294265-d4400781-Reviews-Cloud_Forest-Singapore.html","is_broad":false},{"title":"Attractions","scope":"global","details":{"grandparent_name":"Singapore","name":"National Orchid Garden","parent_name":"Singapore","geo_name":"Singapore, Singapore"},"urls":[{"url_type":"attr","name":"National Orchid Garden, Singapore, Singapore","type":"ATTRACTION","url":"\/Attraction_Review-g294265-d317453-Reviews-National_Orchid_Garden-Singapore.html"}],"name":"National Orchid Garden, Singapore, Singapore","is_vr":false,"value":317453,"closed":false,"type":"ATTRACTION","normalized_name":"national orchid garden","url":"\/Attraction_Review-g294265-d317453-Reviews-National_Orchid_Garden-Singapore.html","is_broad":false},{"title":"Restaurants","scope":"global","details":{"grandparent_name":"Singapore","name":"Carousel Buffet, Royal Plaza on Scotts","parent_name":"Singapore","geo_name":"Singapore, Singapore"},"urls":[{"url_type":"eat","name":"Carousel Buffet, Royal Plaza on Scotts, Singapore, Singapore","type":"EATERY","url":"\/Restaurant_Review-g294265-d794086-Reviews-Carousel_Buffet_Royal_Plaza_on_Scotts-Singapore.html"}],"name":"Carousel Buffet, Royal Plaza on Scotts, Singapore, Singapore","is_vr":false,"value":794086,"closed":false,"type":"EATERY","normalized_name":"carousel buffet, royal plaza on scotts","url":"\/Restaurant_Review-g294265-d794086-Reviews-Carousel_Buffet_Royal_Plaza_on_Scotts-Singapore.html","is_broad":false},{"title":"Restaurants","scope":"global","details":{"grandparent_name":"Singapore","name":"Bitters & Love","parent_name":"Singapore","geo_name":"Singapore, Singapore"},"urls":[{"url_type":"eat","name":"Bitters & Love, Singapore, Singapore","type":"EATERY","url":"\/Restaurant_Review-g294265-d4156535-Reviews-Bitters_Love-Singapore.html"}],"name":"Bitters & Love, Singapore, Singapore","is_vr":false,"value":4156535,"closed":false,"type":"EATERY","normalized_name":"bitters & love","url":"\/Restaurant_Review-g294265-d4156535-Reviews-Bitters_Love-Singapore.html","is_broad":false},{"title":"Restaurants","scope":"global","details":{"grandparent_name":"Singapore","name":"Ristorante Amarone","parent_name":"Singapore","geo_name":"Singapore, Singapore"},"urls":[{"url_type":"eat","name":"Ristorante Amarone, Singapore, Singapore","type":"EATERY","url":"\/Restaurant_Review-g294265-d3351111-Reviews-Ristorante_Amarone-Singapore.html"}],"name":"Ristorante Amarone, Singapore, Singapore","is_vr":false,"value":3351111,"closed":false,"type":"EATERY","normalized_name":"ristorante amarone","url":"\/Restaurant_Review-g294265-d3351111-Reviews-Ristorante_Amarone-Singapore.html","is_broad":false},{"title":"Destinations","scope":"global","coords":"1.285801,103.85111","details":{"grandparent_name":"Asia","name":"Singapore","parent_name":"Singapore","rac_enabled":false,"geo_name":"Singapore, Asia"},"urls":[{"url_type":"geo","name":"Singapore Tourism","type":"GEO","url":"\/Tourism-g294265-Singapore-Vacations.html"},{"url_type":null,"name":"Singapore Holiday Rentals","type":"VACATION_RENTAL","url":"\/VacationRentals-g294265-Reviews-Singapore-Vacation_Rentals.html"},{"url_type":"eat","name":"Singapore Restaurants","type":"EATERY","url":"\/Restaurants-g294265-Singapore.html"},{"url_type":"attr","name":"Singapore Attractions","type":"ATTRACTION","url":"\/Attractions-g294265-Activities-Singapore.html"},{"url_type":"hotel","name":"Singapore Hotels","type":"HOTEL","url":"\/Hotels-g294265-Singapore-Hotels.html"}],"name":"Singapore, Singapore, Asia","is_vr":true,"value":294265,"closed":false,"type":"GEO","normalized_name":"singapore","url":"\/Tourism-g294265-Singapore-Vacations.html","is_broad":false},{"title":"Attractions","scope":"global","details":{"grandparent_name":"Mauritius","name":"The Crown Lodge","parent_name":"Port Louis","geo_name":"Port Louis, Mauritius"},"urls":[{"url_type":"attr","name":"The Crown Lodge, Port Louis, Mauritius","type":"ATTRACTION","url":"\/Attraction_Review-g293817-d2501064-Reviews-The_Crown_Lodge-Port_Louis.html"}],"name":"The Crown Lodge, Port Louis, Mauritius","is_vr":false,"value":2501064,"closed":false,"type":"ATTRACTION","normalized_name":"the crown lodge","url":"\/Attraction_Review-g293817-d2501064-Reviews-The_Crown_Lodge-Port_Louis.html","is_broad":false},{"title":"Attractions","scope":"global","details":{"grandparent_name":"Mauritius","name":"Divers'Ocean","parent_name":"Trou aux Biches","geo_name":"Trou aux Biches, Mauritius"},"urls":[{"url_type":"attr","name":"Divers'Ocean, Trou aux Biches, Mauritius","type":"ATTRACTION","url":"\/Attraction_Review-g488106-d1907400-Reviews-Divers_Ocean-Trou_aux_Biches.html"}],"name":"Divers'Ocean, Trou aux Biches, Mauritius","is_vr":false,"value":1907400,"closed":false,"type":"ATTRACTION","normalized_name":"divers'ocean","url":"\/Attraction_Review-g488106-d1907400-Reviews-Divers_Ocean-Trou_aux_Biches.html","is_broad":false},{"title":"Attractions","scope":"global","details":{"grandparent_name":"Mauritius","name":"Centre Equestre De Riambel","parent_name":"Riambel","geo_name":"Riambel, Mauritius"},"urls":[{"url_type":"attr","name":"Centre Equestre De Riambel, Riambel, Mauritius","type":"ATTRACTION","url":"\/Attraction_Review-g1905499-d2357967-Reviews-Centre_Equestre_De_Riambel-Riambel.html"}],"name":"Centre Equestre De Riambel, Riambel, Mauritius","is_vr":false,"value":2357967,"closed":false,"type":"ATTRACTION","normalized_name":"centre equestre de riambel","url":"\/Attraction_Review-g1905499-d2357967-Reviews-Centre_Equestre_De_Riambel-Riambel.html","is_broad":false},{"title":"Restaurants","scope":"global","details":{"grandparent_name":"Africa","name":"La Table du Chateau","parent_name":"Mauritius","geo_name":"Mauritius, Africa"},"urls":[{"url_type":"eat","name":"La Table du Chateau, Mauritius, Africa","type":"EATERY","url":"\/Restaurant_Review-g293816-d2346648-Reviews-La_Table_du_Chateau-Mauritius.html"}],"name":"La Table du Chateau, Mauritius, Africa","is_vr":false,"value":2346648,"closed":false,"type":"EATERY","normalized_name":"la table du chateau","url":"\/Restaurant_Review-g293816-d2346648-Reviews-La_Table_du_Chateau-Mauritius.html","is_broad":false},{"title":"Restaurants","scope":"global","details":{"grandparent_name":"Mauritius","name":"Escale Creole","parent_name":"Moka","geo_name":"Moka, Mauritius"},"urls":[{"url_type":"eat","name":"Escale Creole, Moka, Mauritius","type":"EATERY","url":"\/Restaurant_Review-g1370031-d3961202-Reviews-Escale_Creole-Moka.html"}],"name":"Escale Creole, Moka, Mauritius","is_vr":false,"value":3961202,"closed":false,"type":"EATERY","normalized_name":"escale creole","url":"\/Restaurant_Review-g1370031-d3961202-Reviews-Escale_Creole-Moka.html","is_broad":false},{"title":"Restaurants","scope":"global","details":{"grandparent_name":"Mauritius","name":"Le Cafe des Arts","parent_name":"Trou d'eau Douce","geo_name":"Trou d'eau Douce, Mauritius"},"urls":[{"url_type":"eat","name":"Le Cafe des Arts, Trou d'eau Douce, Mauritius","type":"EATERY","url":"\/Restaurant_Review-g488107-d1493455-Reviews-Le_Cafe_des_Arts-Trou_d_eau_Douce.html"}],"name":"Le Cafe des Arts, Trou d'eau Douce, Mauritius","is_vr":false,"value":1493455,"closed":false,"type":"EATERY","normalized_name":"le cafe des arts","url":"\/Restaurant_Review-g488107-d1493455-Reviews-Le_Cafe_des_Arts-Trou_d_eau_Douce.html","is_broad":false}]);
 </script>
 <script type="text/javascript">
 ta.store('metaCheckRatesUpdateDivInline', 'PROVIDER_BLOCK_INLINE');
@@ -2068,27 +1375,20 @@ ta.store('checkrates.meta_ui_sk_box_v3', true)
 ta.store('checkrates.one_second_xsell', true);
 </script>
 <script>
-ta.store("meta_ui_lightbox_chevron.enabled", true);
 ta.store("lightbox_improvements", true);
 ta.store("checkrates.hr_bc_see_all_click.lb", true);
 </script>
-<script>
-ta.store("marketing_text_in_lightbox.enabled", true);
+<script type="text/javascript">
 </script>
 <script type="text/javascript">
-var metaCheckRatesCSS = 'http://c1.tacdn.com/css2/meta_ui_sk_box_chevron-v13614343272a.css';
+var metaCheckRatesCSS = 'http://c1.tacdn.com/css2/meta_ui_sk_box_chevron-v23791830316a.css';
 ta.store('metaCheckRatesFeatureEnabled', true);
 </script>
 <script type="text/javascript">
 ta.store('mapProviderFeature.maps_api','ta-maps-bing');
 </script>
 <script type="text/javascript">
-ta.store('meta.dropdownMiniMetaHotels', true);
-var dropdownMetaCSS = "http://c1.tacdn.com/css2/meta_drop_down_overlay-en_IN-v12339660242a.css";
-</script>
-<script type="text/javascript">
-ta.store('meta.dropdownMiniMeta', true);
-var dropdownMetaCSS = "http://c1.tacdn.com/css2/meta_drop_down_overlay-en_IN-v12339660242a.css";
+var dropdownMetaCSS = "http://c1.tacdn.com/css2/meta_drop_down_overlay-en_IN-v22189007955a.css";
 </script>
 <script type="text/javascript">
 ta.store('metaDatePickerEnabled', true);
@@ -2110,8 +1410,9 @@ ta.store('multiDP.checkIn', "dd/mm/yyyy");             ta.store('multiDP.checkOu
 (function(window,ta,undefined){
 try {
 ta = window.ta = window.ta || {};
-ta.uid = 'U7HrhQokHE4AADrwrcEAAAAc';
+ta.uid = 'VKR6yQokLjIAAGy@O6gAAAAY';
 ta.userLoggedIn = false;
+ta.userSecurelyLoggedIn = false;
 if (ta.prerender && ta.prerender._init){
 ta.prerender._init(true);
 }
@@ -2127,15 +1428,15 @@ _gaq.push(['_addIgnoredRef','tripadvisor']);
 _gaq.push(['_addIgnoredRef','daodao']);
 _gaq.push(['_setCustomVar',2,'Member','-',3]);
 _gaq.push(['_setCustomVar',5,'EntryServlet','Home',3]);
-_gaq.push(['_setCustomVar',6,'Pool','X',3]);
-_gaq.push(['_setCustomVar',7,'Slice','2585',3]);
-_gaq.push(['_setCustomVar',18,'MCID','TripAdvisor-0',3]);
+_gaq.push(['_setCustomVar',6,'Pool','B',3]);
+_gaq.push(['_setCustomVar',7,'Slice','2495',3]);
+_gaq.push(['_setCustomVar',18,'MCID','OtherReferrer-13091',3]);
 _gaq.push(['_setCustomVar',21,'PageType','Desktop Page',3]);
 _gaq.push(['_setCustomVar',22,'DeviceType','Desktop',3]);
 _gaq.push(['_setCustomVar',23,'IPGeo','San Francisco-60713',3]);
 _gaq.push(['_setCustomVar',24,'ProductType','Browser',3]);
-_gaq.push(['_setCustomVar',48,'WebServer','web152a',3]);
-pageData=ta.analytics._JSON_parse('{\"cv\":[[\"_deleteCustomVar\",1],[\"_deleteCustomVar\",47],[\"_setCustomVar\",20,\"PP\",\"-287-277-251-274-\",3],[\"_deleteCustomVar\",12],[\"_deleteCustomVar\",14],[\"_deleteCustomVar\",13],[\"_deleteCustomVar\",25],[\"_deleteCustomVar\",11],[\"_deleteCustomVar\",10],[\"_deleteCustomVar\",8],[\"_deleteCustomVar\",19]],\"url\":\"/StaticVelocityXmlPage?xml=privacy.xml\"}');
+_gaq.push(['_setCustomVar',48,'WebServer','web631a',3]);
+pageData=ta.analytics._JSON_parse('{\"cv\":[[\"_deleteCustomVar\",1],[\"_deleteCustomVar\",47],[\"_setCustomVar\",20,\"PP\",\"-287-277-251-274-\",3],[\"_deleteCustomVar\",10],[\"_deleteCustomVar\",19],[\"_deleteCustomVar\",12],[\"_deleteCustomVar\",11],[\"_deleteCustomVar\",25],[\"_deleteCustomVar\",13],[\"_deleteCustomVar\",8],[\"_deleteCustomVar\",14]],\"url\":\"/StaticVelocityXmlPage?xml=privacy.xml\"}');
 pageDataStack.push(pageData);
 if(ta.keep){
 ta.keep("partials.pageProperties","287-277-251-274");
@@ -2162,26 +1463,28 @@ ta.util.error.record(e,'global_ga.vm');
 </script>
 <script type="text/javascript">
 var lazyImgs = [
-{"id":"lazyload_480941636_0","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/8b/19/39/morning-sunlight-in-manali.jpg"}
-,   {"id":"lazyload_480941636_1","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/86/goa.jpg"}
-,   {"id":"lazyload_480941636_2","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-s/01/1d/34/99/natural-beauty.jpg"}
-,   {"id":"lazyload_480941636_3","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/22/d8/14/view-from-needle-point.jpg"}
-,   {"id":"lazyload_480941636_4","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/9f/f5/4f/golden-temple-hari-mandir.jpg"}
-,   {"id":"lazyload_480941636_5","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/2e/34/90/sunset-in-shimla.jpg"}
-,   {"id":"lazyload_480941636_6","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/48/45/49/fall.jpg"}
-,   {"id":"lazyload_480941636_7","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/cd/0e/2f/facade-of-palace.jpg"}
-,   {"id":"lazyload_480941636_8","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/35/20/73/hill-side-view.jpg"}
-,   {"id":"lazyload_480941636_9","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/02/78/fc/8c/filename-dscn3023-jpg.jpg"}
-,   {"id":"lazyload_480941636_10","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/1e/b7/59/an-elephant-on-the-road.jpg"}
-,   {"id":"lazyload_480941636_11","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/a1/jaipur.jpg"}
-,   {"id":"lazyload_480941636_12","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/2a/bd/33/the-taj.jpg"}
-,   {"id":"lazyload_480941636_13","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/3a/bangalore.jpg"}
-,   {"id":"lazyload_480941636_14","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/1f/e3/a7/golkonda-fort.jpg"}
-,   {"id":"lazyload_480941636_15","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/26/8d/aa/udaipur.jpg"}
-,   {"id":"lazyload_480941636_16","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-s/01/48/5a/86/munnar.jpg"}
-,   {"id":"lazyload_480941636_17","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/58/37/e0/nakki-lake.jpg"}
-,   {"id":"lazyload_480941636_18","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/8d/15/bd/puri.jpg"}
-,   {"id":"lazyload_480941636_19","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/branding/identityFOOT_2014.png"}
+{"id":"lazyload_1450799222_0","tagType":"img","scroll":false,"priority":100,"logerror":false,"data":"http://c1.tacdn.com/img2/generic/site/pencil.png"}
+,   {"id":"lazyload_1450799222_1","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/8b/19/39/morning-sunlight-in-manali.jpg"}
+,   {"id":"lazyload_1450799222_2","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/86/goa.jpg"}
+,   {"id":"lazyload_1450799222_3","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-s/01/1d/34/99/natural-beauty.jpg"}
+,   {"id":"lazyload_1450799222_4","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/22/d8/14/view-from-needle-point.jpg"}
+,   {"id":"lazyload_1450799222_5","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/9f/f5/4f/golden-temple-hari-mandir.jpg"}
+,   {"id":"lazyload_1450799222_6","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/2e/34/90/sunset-in-shimla.jpg"}
+,   {"id":"lazyload_1450799222_7","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/48/45/49/fall.jpg"}
+,   {"id":"lazyload_1450799222_8","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/cd/0e/2f/facade-of-palace.jpg"}
+,   {"id":"lazyload_1450799222_9","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/35/20/73/hill-side-view.jpg"}
+,   {"id":"lazyload_1450799222_10","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/02/78/fc/8c/filename-dscn3023-jpg.jpg"}
+,   {"id":"lazyload_1450799222_11","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/1e/b7/59/an-elephant-on-the-road.jpg"}
+,   {"id":"lazyload_1450799222_12","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/a1/jaipur.jpg"}
+,   {"id":"lazyload_1450799222_13","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/2a/bd/33/the-taj.jpg"}
+,   {"id":"lazyload_1450799222_14","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/3a/bangalore.jpg"}
+,   {"id":"lazyload_1450799222_15","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/1f/e3/a7/golkonda-fort.jpg"}
+,   {"id":"lazyload_1450799222_16","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/26/8d/aa/udaipur.jpg"}
+,   {"id":"lazyload_1450799222_17","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-s/01/48/5a/86/munnar.jpg"}
+,   {"id":"lazyload_1450799222_18","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/58/37/e0/nakki-lake.jpg"}
+,   {"id":"lazyload_1450799222_19","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/8d/15/bd/puri.jpg"}
+,   {"id":"lazyload_1450799222_20","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://c1.tacdn.com/img2/branding/identityFOOT_2014.png"}
+,   {"id":"lazyload_1450799222_21","tagType":"img","scroll":true,"priority":100,"logerror":false,"data":"http://c1.tacdn.com/img2/icons/bell.png"}
 ];
 var lazyHtml = [
 ];
@@ -2190,8 +1493,7 @@ window.setupLazyLoad();
 }, 'lazy load images');
 </script>
 <script type="text/javascript">
-ta.store('abMarkerSet', 't657_p13n_big_photo_on_hotels|t566_p13n_persistent_control|t640_mobileapp_persistent_test_4');
-ta.store('facebook.hasPublishActions', "");
+ta.store('abMarkerSet', 't1280_revops_hr_no_confirmed_availability_cross_sell_flyout');
 ta.keep('startOffset', '');
 ta.store('page.geo', "");
 ta.store('page.location', "");
@@ -2200,12 +1502,13 @@ ta.store('facebook.disableLogin', false);
 ta.store('facebook.apiKey', "f1e687a58f0cdac60b7af2317a5febb3");
 ta.store('facebook.appId', "162729813767876");
 ta.store('facebook.appName', "tripadvisor");
-ta.store('facebook.taServerTime', "1404169093");
+ta.store('facebook.taServerTime', "1420065481");
 ta.store('facebook.skip.session.check',"false");
+ta.store('facebook.apiVersion', "v1.0");
 ta.store("facebook.invalidFBCreds", true);
 window.fbAsyncInit = ta.support.Facebook.init;
 ta.queueForLoad(function(){
-new Asset.javascript("//connect.facebook.net/en_GB/all.js");
+new Asset.javascript("//connect.facebook.net/en_US/all.js");
 }, 0, 'LoadFBJS');
 function ip_adjustHeader() {
 // check for overlap
@@ -2231,7 +1534,7 @@ node.parentNode.removeChild(node);
 }
 });
 ta.queueForLoad( function() { Cookie.writeSession('FBH', sniffFacebook() ? 1 : 2); }, 'SniffFB' );
-ta.store('scrollAd.enableScroll', false );
+ta.store('ads.deferEnabled', true);
 if( ta.common && ta.common.ads ) {
 ta.store('scrollAd.enableScroll',  false  );
 ta.store('scrollAd.sbElem', document.getElement('.gridA>.sidebar') || document.getElement('.gridR>.sidebar'));
@@ -2259,10 +1562,16 @@ window.addEvent('scroll', window.ta_handleAdDefer );
 }
 })();
 }
-var avlb_hero_photos = "http://c1.tacdn.com/css2/modules/avlb_hero_photos-v1672090301a.css";
-var floatingMapCSS = "http://c1.tacdn.com/css2/modules/floating_map-v12419345840a.css";
-var t4bSlideshowCSS = "http://c1.tacdn.com/css2/modules/t4b_slideshow-v14112077699a.css";
-var dhtml_cr_redesign_png24 = "http://c1.tacdn.com/css2/overlays/cr_flyout-v12544950678a.css";
+if(ta.sales && ta.sales.metaImpressionTag) {
+ta.sales.metaImpressionTag.setProviderName("BookingCom");
+ta.sales.metaImpressionTag.setTrackingPixel("http://b.scorecardresearch.com/p?c1=3&c2=6036461&c3=ALbook2&c4=1meta1&c5=1meta01&c6=&c10=1&c11=%esid!&c13=%psz=!;&c16=dfp&cj=1&ax_fwd=1&rn=");
+ta.sales.metaImpressionTag.setVendorName("Booking.com");
+ta.sales.metaImpressionTag.registerEvents();
+}
+var avlb_hero_photos = "http://c1.tacdn.com/css2/modules/avlb_hero_photos-v23950307902a.css";
+var floatingMapCSS = "http://c1.tacdn.com/css2/modules/floating_map-v22419345840a.css";
+var t4bSlideshowCSS = "http://c1.tacdn.com/css2/modules/t4b_slideshow-v24112077699a.css";
+var dhtml_cr_redesign_png24 = "http://c1.tacdn.com/css2/overlays/cr_flyout-v22544950678a.css";
 ta.store('checkrates.check_more_re',true);
 ta.store('checkrates.check_more_re_center_large_hero_photos',true);
 ta.store('checkrates.check_more_hero_photos',true);
@@ -2270,15 +1579,16 @@ ta.store('checkrates.center_overlay',true);
 ta.store('popunder.similar_hotels', true);
 ta.store('popunder.similar_hotels_new_rules', true);
 ta.store('popunder.suppress_half_day', true);
-ta.store('metaUI.disablePriceTabAutoToggle', true );
-ta.store('checkrates.micro_meta_above_fold',true);
 ta.store('p13n_client_tracking_tree',true);
 ta.store('useHotelsFilterState', true);
 ta.store('unavail_maybe_v1', true);
 ta.store('similar_hotels_exit_window_chevron', true);
 ta.store('fall_2013_masthead_refresh', true);
 ta.store( 'hotel_highlight_sd_style_disclaimer', true);
-ta.queueForLoad(ta.meta.linkTracking.setup, 'setup meta link tracking event');
+ta.store('desktop_maps_v2_detail_view', true);
+ta.queueForLoad(function() { ta.meta.linkTracking.setup(); }, 'setup meta link tracking event');
+ta.store('sem_provider_availability_sort', true);
+ta.store('sem_provider_availability_sort_respects_autobroadening', true);
 ta.queueForLoad(function() {
 if(typeof js_error_array != "undefined") {
 Array.each(js_error_array, function onErrorFuncPost(js_error) {
@@ -2290,7 +1600,11 @@ if(js_error.error) {
 jsErr = js_error.error;
 delete js_error['error'];
 }
-if(jsMsg.indexOf('ta is not defined') == -1) {
+var isTaNotDefinedError =
+jsMsg &&
+typeof jsMsg === 'string' &&
+jsMsg.indexOf('ta is not defined') >= 0;
+if(!isTaNotDefinedError) {
 ta.util.error.record(jsErr, "window.onerror:: " + jsMsg, null, js_error);
 }
 }
@@ -2300,32 +1614,35 @@ ta.store('ta.onload.errors', true);
 ta.store('ta.js_error_array.processed', true);
 }, 'record onload errors');
 try {
-if (window.ta && ta.store) {
-if(document.location.protocol != "https:") {
-ta.store("ta.common.dmpFeatures.dmpEnabled", true);
-ta.store("ta.common.dmpFeatures.dmpBlueKaiEnabled", true);
-ta.store("ta.common.dmpFeatures.dmpPerfLoggingEnabled", false);
-ta.store("ta.common.dmpFeatures.dmpConsoleDebugEnabled", false);
+if(document.location.protocol != "https:" || false) {
+if (window.ta && ta.common && ta.common.dmp && ta.common.dmp.store) {
+ta.common.dmp.store.storeValue("dmpEnabled", true);
+ta.common.dmp.store.storeValue("dmpBlueKaiEnabled", true);
+ta.common.dmp.store.storeValue("dmpPerfLoggingEnabled", false);
+ta.common.dmp.store.storeValue("dmpConsoleDebugEnabled", false);
+ta.common.dmp.store.storeValue("dmpMetaExposedEnabled", false);
 if (ta.common && ta.common.dmp && ta.common.dmp.bluekai) {
-ta.store("ta.common.dmpFeatures.activeDMP", ta.common.dmp.bluekai);
+ta.common.dmp.store.setActiveDMP( ta.common.dmp.bluekai);
 }
 else if (ta && ta.util && ta.util.error && ta.util.error.record) {
 ta.util.error.record.apply(this, [null, "DMP JavaScript not found"]);
 }
-ta.store("ta.common.dmp.taUUID", "YYnUaj5Tg7TW3c8byNgVGsab0yT9k2MiS5PKhcGtnztkSEDOtOcJqA==");
-ta.store("ta.common.dmpBehaviors", {
+ta.common.dmp.store.storeValue("taUUID", "82J2LSDuEw44HYzGXJwWu1a9IqrCZLOv/vm+dXtWbBg+dtITqMZruA==");
+ta.common.dmp.store.setBehaviors({
 "ServletName" : [
 "StaticVelocityXmlPage"
 ]
+,  "POS" : [
+"com"
+]
+});
 }
-);
-if (ta.queueForLoad && ta.common && ta.common.dmp) {
+if (ta.queueForLoad) {
 ta.queueForLoad(function() {
+if (ta.common && ta.common.dmp) {
 ta.common.dmp.init();
-},
-"initialize DMP framework"
-);
 }
+},"initialize DMP framework");
 }
 }
 }
@@ -2337,8 +1654,7 @@ ta.util.error.record.apply(this, [e, "generic exception in ads_dmp_js.vm"]);
 ;
 ta.store('access_control_headers', true);
 ta.store('secure_registration.enabled',true);
-ta.store( 'meta.collapseDisclaimer', true );
-ta.store( 'meta.disclaimerLinkText', 'Disclaimer' )
+ta.store( 'meta.disclaimerLinkText', 'Disclaimer' );
 ta.store('restaurant_reserve_ui',true);
 </script>
 <script class="allowAbsoluteUrls" type="text/javascript">
@@ -2352,24 +1668,43 @@ var emDiv = document.getElementById('em-script');
 if(emDiv) emDiv.appendChild(em);
 }, 100000, 'effective_measures_script');
 </script>
+<noscript>
+<img alt="" style="position:absolute; left:-5px;" src="//sg.effectivemeasure.net/em_image"/>
+</noscript>
 <div id="em-script"></div>
 <script type="text/javascript">
-ta.store('remarketing.pixelList', "");
-</script>
-<script type="text/javascript">
 ta.store('ta.isIE11orHigher', false);
-</script>
-<script type="text/javascript">
-ta.store('ta.enable_desktop_js_cors', true);
 </script>
 <script type="text/javascript">
 ta.store('meta.meta_chevron_module_2014', true);
 </script>
 <script type="text/javascript">
-ta.store('hr_to_hh_redirect_on_date_change.enabled', true);
+ta.store('assisted_booking_desktop_entry', false);
+ta.store('ibdm_impression_tracking', true);
+ta.store('assisted_booking_desktop_entry.logTreePoll', true);
+</script>
+<script type="text/javascript">
+ta.queueForLoad(function() {
+ta.common.header.getWARNotificationFlag();
+}, 'load notification flag if needed');
+</script>
+<script type="text/javascript">
+try {
+if(window.localStorage) {
+localStorage.setItem('latestPageServlet', 'StaticVelocityXmlPage');
+}
+}
+catch(e) {}
+</script>
+<script type="text/javascript">
+ta.queueForLoad(function() {
+if(!ta.overlays || !ta.overlays.Factory) {
+ta.load('ta-overlays');
+}
+}, 'preload ta-overlays');
 </script>
 <div id="IP_IFRAME_HOLDER"></div>
 
-<!-- st: 29 dc: 0 sc: 1 -->
-<!-- uid: U7HrhQokHE4AADrwrcEAAAAc -->
+<!-- st: 30 dc: 0 sc: 1 -->
+<!-- uid: VKR6yQokLjIAAGy@O6gAAAAY -->
 </body></html>
