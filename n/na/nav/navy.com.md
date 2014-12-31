@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the navy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062844id_/http%3A//navy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navy.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231190736id_/http%3A//www.navy.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy: Navy.com
+# Privacy Policy : Navy.com
 
 This is an Official U.S. Navy Web site. The U.S. Navy Recruiting Command World Wide Web site is provided as a public service by Commander, Navy Recruiting Command.
+
+* * *
 
 ## Our Commitment to Privacy
 
 The United States Navy is committed to protecting your privacy. This Privacy Policy applies to all information submitted by you on this Web site, and it explains the type of information we may collect and how we may use it.
+
+* * *
 
 ## Information Collection and Use
 
@@ -14,11 +18,11 @@ For site management, visitor information is collected for statistical purposes. 
 
 For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic that identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with [National Archives and Records Administration General Schedule 20](http://www.archives.gov/records-mgmt/grs/grs20.html "archives.gov | General Records Schedules").
+Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with [National Archives and Records Administration General Schedule 20](http://www.archives.gov/records-mgmt/grs/grs20.html).
 
-The information requested on this Web site is collected in accordance with [Section 503 of Title 10, United States Code](http://uscode.house.gov/uscode-cgi/fastweb.exe?getdoc+uscview+t09t12+259+1++\(\)%20%20AND%20\(\(10\)%20ADJ%20USC\)%3ACITE%20AND%20\(USC%20w%2F10%20\(503\)\)%3ACITE "uscode.house.gov | U.S. Code"), and may only be used to identify and process individuals interested in applying for enlistment or commissions in the United States Navy or Navy Reserve.
+The information requested on this Web site is collected in accordance with [Section 503 of Title 10, United States Code](http://uscode.house.gov/browse/&edition=prelim), and may only be used to identify and process individuals interested in applying for enlistment or commissions in the United States Navy or Navy Reserve.
 
-Disclosure is voluntary. Declining to provide the information may result in not being contacted by a recruiter, although you may receive recruiting materials in the future. Any information provided is protected from unauthorized disclosure by the [Privacy Act of 1974](http://www.justice.gov/opcl/privacyact1974.htm "justice.gov | The Privacy Act of 1974").
+Disclosure is voluntary. Declining to provide the information may result in not being contacted by a recruiter, although you may receive recruiting materials in the future. Any information provided is protected from unauthorized disclosure by the [Privacy Act of 1974](http://www.justice.gov/opcl/privacyact1974.htm).
 
 ### Cookies
 
@@ -32,11 +36,11 @@ Participation in the Navy Chat and any other communication with navy.com is gove
 
 Any information and/or personal data you supply via Navy Chat, Membership Account, or email is totally voluntary. You have no obligation to provide information of any type.
 
-Information the United States Navy collects about you from Navy Chat, Membership Account activity sessions or email messages will be used for the purpose of recruiting Enlisted personnel and Officers into the United States Navy and Navy Reserve. Authority for gathering information is granted under [Title 10, United States Code, Section 503](http://uscode.house.gov/uscode-cgi/fastweb.exe?getdoc+uscview+t09t12+259+1++\(\)%20%20AND%20\(\(10\)%20ADJ%20USC\)%3ACITE%20AND%20\(USC%20w%2F10%20\(503\)\)%3ACITE "uscode.house.gov | U.S. Code").
+Information the United States Navy collects about you from Navy Chat, Membership Account activity sessions or email messages will be used for the purpose of recruiting Enlisted personnel and Officers into the United States Navy and Navy Reserve. Authority for gathering information is granted under [Title 10, United States Code, Section 503](http://uscode.house.gov/browse/&edition=prelim).
 
 If you provide any personal history, medical history, contact data or any other information, the United States Navy is bound by federal law to use the information for recruiting purposes only. Federal law further states that the United States Navy will not release any information offered by you to any person or organization outside the Department of Defense.
 
-The United States Navy and Navy Reserve reserve the right to record all activity that takes place in Navy Chat. The raw information obtained may be used by the Navy to provide information services to the public. Raw data logs are used exclusively for this effort and will be destroyed on a regular basis in accordance with [National Archives and Records Administration General Schedule 20](http://www.archives.gov/records-mgmt/grs/grs20.html "archives.gov | General Records Schedules").
+The United States Navy and Navy Reserve reserve the right to record all activity that takes place in Navy Chat. The raw information obtained may be used by the Navy to provide information services to the public. Raw data logs are used exclusively for this effort and will be destroyed on a regular basis in accordance with [National Archives and Records Administration General Schedule 20](http://www.archives.gov/records-mgmt/grs/grs20.html).
 
 ## Security Precautions
 
@@ -46,9 +50,13 @@ Unauthorized attempts to upload information or change information on this Web si
 
 If you have any questions or comments about this site, please send them to the Webmaster.
 
+* * *
+
 ## Freedom of Information Act
 
-The U.S. [Freedom of Information Act (FOIA)](http://foia.navy.mil/ "foia.navy.mil | Department of the Navy, Freedom of Information Act") is a law ensuring public access to U.S. government records. FOIA carries a presumption of disclosure; the burden is on the government - not the public - to substantiate why information may not be released. Upon written request, agencies of the United States government are required to disclose those records, unless they can be lawfully withheld from disclosure under one of nine specific exemptions in the FOIA. This right of access is ultimately enforceable in federal court.
+The U.S. [Freedom of Information Act (FOIA)](http://www.foia.gov/) is a law ensuring public access to U.S. government records. FOIA carries a presumption of disclosure; the burden is on the government - not the public - to substantiate why information may not be released. Upon written request, agencies of the United States government are required to disclose those records, unless they can be lawfully withheld from disclosure under one of nine specific exemptions in the FOIA. This right of access is ultimately enforceable in federal court.
+
+* * *
 
 ## Short Message Service (SMS) “text message”
 
@@ -60,6 +68,16 @@ You acknowledge and agree that the SMS Service is provided via wireless systems 
 
 You can opt-out of our text message program at anytime by replying STOP to any message to opt out.
 
-Our text messaging service supports the following carriers: Alltel, AT&T, Cincinnati Bell Wireless, Nextel, nTelos, Sprint, T-Mobile, US Cellular and Verizon Wireless. For help or more information about our text message (SMS) service please contact our customer support team at 1-800-USA-NAVY or email: [webadmin@cnrc.navy.mil](mailto:webadmin@cnrc.navy.mil).
+Our text messaging service supports the following carriers: Alltel, AT&T, Cincinnati Bell Wireless, Nextel, nTelos, Sprint, T-Mobile, US Cellular and Verizon Wireless. For help or more information about our text message (SMS) service please contact our customer support team at 1-800-USA-NAVY or email: [webadmin@cnrc.navy.mil](mailto:webadmin@cnrc.navy.mil).
+
+* * *
 
 ## Contact
+
+### United States Navy
+
+**Commander, Navy Recruiting Command, Code N923C**  
+5722 Integrity Drive, Building 784, Millington, TN 38054 USA
+
+Work: 901.874.9198  
+Email: cnrcweb@cnrc.navy.mil
