@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630225823id_/http%3A//www.tripadvisor.com.au/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com.au privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231202040id_/http%3A//www.tripadvisor.com.au/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - TripAdvisor
 
