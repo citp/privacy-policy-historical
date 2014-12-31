@@ -1,16 +1,11 @@
-> *The following text is extracted and transformed from the thefreedictionary.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630023800id_/http%3A//www.thefreedictionary.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreedictionary.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231012447id_/http%3A//www.thefreedictionary.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
-
-| 
 
 **Farlex, Inc.  
 ****Version 3.0  
 ****Effective date: December 2004**
 
-|   
----|---  
-  
 Farlex is a privately owned corporation operating in Pennsylvania, USA. Farlex is committed to providing you with excellent service for all of our products. We respect your right to privacy, and have developed this Privacy Statement to inform you about our privacy practices for the entire Farlex Web site and all its entities (which includes the farlex.com, thefreedictionary.com, thefreelibrary.com, tfd.com, and spellingcenter.com domains).
 
 ### Overview
