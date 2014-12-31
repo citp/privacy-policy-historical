@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100201id_/http%3A//www.independent.co.uk/service/privacy-policy-759574.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231040251id_/http%3A//www.independent.co.uk/service/privacy-policy-759574.html) for the most accurate reproduction.*
 
 # Privacy policy - Service - The Independent
 
@@ -9,7 +9,7 @@ Before using the Website – [www.independent.co.uk](http://www.independent.co.u
 [User Policies](http://www.independent.co.uk/service/user-policies-759573.html)   
 [Cookie policy](http://www.independent.co.uk/service/cookie-policy-7785164.html)   
 [Community Guidelines](http://www.independent.co.uk/service/community-guidelines-9487166.html)   
-[Code of Conduct and Complaints](http://www.independent.co.uk/service/code-of-conduct-and-complaints-6280644.html)   
+[Code of conduct and complaints](http://www.independent.co.uk/service/code-of-conduct-and-complaints-6280644.html)   
 [Competition terms and conditions](http://www.independent.co.uk/service/competition-terms-and-conditions-759575.html)   
 [Advertising terms and conditions](http://www.independent.co.uk/service/advertising-terms-and-conditions-1673234.html)   
 [External contributors: Terms & conditions for freelancers, bloggers and contributors of user-generated content](http://www.independent.co.uk/service/external-contributors-terms--conditions-for-freelancers-bloggers-and-contributors-of-usergenerated-content-7905982.html)   
@@ -127,7 +127,7 @@ You should be aware that by using the Website and those of our partners or any W
 
 You may not wish us to share personal details about you with third parties outside Independent.co.uk, or to use your information in the other ways we have described in this privacy policy.
 
-You can email _webteam@independent.co.uk_ at any time to let us know of any objections you may have as to how we use or disclose your data in the ways set out in this privacy policy.
+You can email _[customerservices@independent.co.uk](mailto:customerservices@independent.co.uk)_ at any time to let us know of any objections you may have as to how we use or disclose your data in the ways set out in this privacy policy.
 
  **Message boards, blogs and other public forums**
 
@@ -143,4 +143,4 @@ The Website may, from time to time, contain links to and from the Websites of ad
 
  **Further information**
 
-If you want further information, or wish to communicate with us about this privacy policy and your wishes about your personal information, please email us at _webteam@independent.co.uk_.
+If you want further information, or wish to communicate with us about this privacy policy and your wishes about your personal information, please email us at _[customerservices@independent.co.uk](mailto:customerservices@independent.co.uk)_.
