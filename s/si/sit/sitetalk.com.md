@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sitetalk.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523211255id_/http%3A//sitetalk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitetalk.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231162031id_/https%3A//sitetalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SiteTalk
 
 _In the event of any conflict between the English and other language versions, the English version shall prevail._
 
-These websites are hosted from SiteTalk Communities Ltd. Scotia Centre, 4th Floor, PO Box 2804, George Town, Grand Cayman KY1-1112, Cayman Islands
+These websites are hosted from SiteTalk Community Inc. Floor 4, Willow House, Cricket Square, PO Box 2804, Grand Cayman KY1-1112, Cayman Islands
 
 SiteTalk undertakes everything possible to maintain that the information is protected on the highest level.
 
