@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diyready.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071321id_/http%3A//www.diyready.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyready.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231220153id_/http%3A//diyready.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy DIY Ready | DIY Projects | Crafts - DIY Ready | DIY Projects | Crafts
+# Privacy Policy DIY Projects & Creative Crafts – How To Make Everything Homemade - DIY Projects & Creative Crafts – How To Make Everything Homemade
 
 **Privacy Policy**
 
@@ -82,7 +82,7 @@ To ensure compliance with the Can-Spam Act, DIYready.com has implemented the fol
 
   1. All emails sent to you by DIY Ready will clearly identify DIY Ready as the sender. FROM / SENDER: someone@DIYReady.com  (NOTE: The actual sender will alter from department to department, but all from addresses will end with @DIYready.com ).
   2. The Subject Line of any email you receive will always accurately describe the subject matter of the email.
-  3. Any email from Survival Life will include the ability to unsubscribe from future email messages.
+  3. Any email from DIYReady.com will include the ability to unsubscribe from future email messages.
   4. Unsubscribing will ensure the customer is removed from ALL lists at DIY Ready; this excludes customer service emails regarding the processing and status of a current product.
   5. All emails sent to you directly by DIY Ready include valid postal address information in the footer.
   6. All third party marketing partners are required to comply with the Can-Spam Act.
@@ -92,7 +92,7 @@ To ensure compliance with the Can-Spam Act, DIYready.com has implemented the fol
 
 **Section 10: Information for ISPs**
 
-Web site: SurvivalLife.com
+Web site: DIYReady.com
 
 Email Address: supportATDIYreadyDOTcom
 
@@ -104,7 +104,7 @@ From time to time, DIY Ready will enter into an arrangement with a third party 
 
   1. that the data was collected voluntarily from individuals on website registrations and co-registrations,
   2. that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and
-  3. that Survival Life has the right to send marketing offers to the individuals.
+  3. that DIY Ready has the right to send marketing offers to the individuals.
 
 
 
