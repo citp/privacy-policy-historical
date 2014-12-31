@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630101502id_/http%3A//www.investopedia.com/corp/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231032038id_/http%3A//www.investopedia.com/corp/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Investopedia
 
@@ -48,7 +48,7 @@ Investopedia web and ad servers log information about a site user's IP address, 
 
 **Widgets**
 
-Widgets are small content modules that users can embed on their own sites. We offer widgets that are hosted on Investopedia, like our embeddable video player, as well as widgets that are powered by 3rd party vendors. Use of the Investopedia widgets is subject to the Investopedia [terms of use](http://www.investopedia.com/corp/termsofuse.aspx), but downloading or embedding these widgets on other websites is not covered by this privacy statement.
+Widgets are small content modules that users can embed on their own sites. We offer widgets that are hosted on Investopedia, like our embeddable video player, as well as widgets that are powered by 3rd party vendors. Use of the Investopedia widgets is subject to the Investopedia [terms of use](https://web.archive.org/corp/termsofuse.aspx), but downloading or embedding these widgets on other websites is not covered by this privacy statement.
 
 **Use of Information**  
 Our primary goal in collecting user information is to enhance your experience on our website.
@@ -97,22 +97,8 @@ Investopedia may disclose your personal information if required to do so by law 
 **Security**  
 Your information is stored on Investopedia's servers located in the United States. We use industry standard procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, "firewalls" and the Secure Sockets Layer (SSL). We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet and you acknowledge and agree to assume this risk when communicating with us.
 
-Data Processing/Safe Harbor
+**Privacy of Children**
 
-FOR EUROPEAN UNION AND SWISS CITIZENS.  
-The European Union ("EU") maintains strict privacy laws. These rules differ significantly from U.S. laws. To reconcile these differences, the U.S. and the EU have created a safe harbor (“U.S.-EU Safe Harbor Framework”) that defines mutually acceptable privacy operations. The U.S. and Switzerland have created a similar safe harbor (“U.S.-Swiss Safe Harbor Framework”). For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
-
-Investopedia complies with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit 
-
-[http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
-
-In compliance with the U.S.-EU and U.S.-Swiss Safe Harbor Privacy Principles, Investopedia commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Investopedia at 
-
-[suggestion@investopedia.com](mailto:suggestion@investopedia.com)
-
-Investopedia has further committed to refer unresolved privacy complaints under the U.S.-EU and U.S.-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Investopedia please visit the BBB EU SAFE HARBOR website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
-
-**Privacy of Children**  
 Kids under 13: Do not send any information about yourself to us, including information such as your name, address, or e-mail address. We do not knowingly collect personal information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
 
 **How to Contact Us**  
