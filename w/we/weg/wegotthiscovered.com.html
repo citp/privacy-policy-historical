@@ -1,52 +1,66 @@
-<!--The following is the downloaded HTML source of the wegotthiscovered.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625044706id_/http%3A//wegotthiscovered.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wegotthiscovered.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231185653id_/http%3A//wegotthiscovered.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width">
-	<meta property="article:author" content="Matt Joseph"> 
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="lockerdome-wjs" async="" src="//cdn2.lockerdome.com/_js/embed.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcOUVZaGwAAV1BVDwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="http://wegotthiscovered.com/xmlrpc.php">
-<!--[if lt IE 9]>
-<script src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc/js/html5.js"></script>
-<![endif]-->
+	<!-- Meta Facebook OG -->
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="">
+		<meta property="og:site_name" content="We Got This Covered">
+	<meta property="og:description" content="">
+	<meta property="og:image" content="http://cdn.wegotthiscovered.com/wp-content/uploads/privacy-policy.jpg">
 
+	<!-- Meta -->
+	<meta name="keywords" content="">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="shortcut icon" href="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc_v2/favicon.png?v=1.0">
 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.8 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>Privacy Policy | This is the web site of We Got This Covered. Our postal address is: Thornhill, Ontario L4J 8K8 We can be reached via e-mail at mattwegotthiscovered.com For</title>
-<meta name="description" content="This is the web site of We Got This Covered. Our postal address is: Thornhill, Ontario L4J 8K8 We can be reached via e-mail at mattwegotthiscovered.com For">
+	<meta name="viewport" content="width=1050,initial-scale=-0.5">
+
+	<meta name="google-site-verification" content="fTeBNvSiYN1gOwOeA_mSPFw4rQAOC-XWQXoo3UQ8XFs">
+
+	<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Oswald:400,300" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet" type="text/css">
+	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+		<script> var ADTECH; </script>
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Privacy Policy | This is the web site of&nbsp;We Got This Covered. Our postal address is: Thornhill, Ontario L4J 8K8 We can be reached via e-mail at mattwegotthiscovered.com For</title>
+<meta name="description" content="This is the web site of&nbsp;We Got This Covered. Our postal address is: Thornhill, Ontario L4J 8K8 We can be reached via e-mail at mattwegotthiscovered.com For">
 <link rel="canonical" href="http://wegotthiscovered.com/privacy-policy/">
-<link rel="author" href="https://plus.google.com/112126588930557965927">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy | This is the web site of We Got This Covered. Our postal address is: Thornhill, Ontario L4J 8K8 We can be reached via e-mail at mattwegotthiscovered.com For">
-<meta property="og:description" content="This is the web site of We Got This Covered. Our postal address is: Thornhill, Ontario L4J 8K8 We can be reached via e-mail at mattwegotthiscovered.com For">
+<meta property="og:title" content="Privacy Policy | This is the web site of&nbsp;We Got This Covered. Our postal address is: Thornhill, Ontario L4J 8K8 We can be reached via e-mail at mattwegotthiscovered.com For">
+<meta property="og:description" content="This is the web site of&nbsp;We Got This Covered. Our postal address is: Thornhill, Ontario L4J 8K8 We can be reached via e-mail at mattwegotthiscovered.com For">
 <meta property="og:url" content="http://wegotthiscovered.com/privacy-policy/">
 <meta property="og:site_name" content="We Got This Covered">
 <meta property="article:author" content="wegotthiscovered">
-<meta property="article:published_time" content="2011-06-09T19:48:27+00:00">
-<meta property="article:modified_time" content="2012-11-30T13:28:38+00:00">
-<meta property="og:updated_time" content="2012-11-30T13:28:38+00:00">
 <meta property="og:image" content="http://cdn.wegotthiscovered.com/wp-content/uploads/privacy-policy.jpg">
 <!-- / Yoast WordPress SEO plugin. -->
 
-<link rel="stylesheet" id="nivoslider-css" href="http://wegotthiscovered.com/wp-content/plugins/nivo-slider/scripts/nivo-slider/nivo-slider.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="wordpress-popular-posts-css" href="http://wegotthiscovered.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=2.3.7" type="text/css" media="all">
-<link rel="stylesheet" id="wpt-twitter-feed-css" href="http://wegotthiscovered.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="tag-styles-css" href="http://wegotthiscovered.com/wp-content/themes/wgtc/tag-styles.css?ver=2.3" type="text/css" media="all">
-<link rel="stylesheet" id="style-css" href="http://wegotthiscovered.com/wp-content/themes/wgtc/style.css?ver=4.1.3" type="text/css" media="all">
-<link rel="stylesheet" id="cleaner-gallery-css" href="http://wegotthiscovered.com/wp-content/plugins/cleaner-gallery/css/gallery.min.css?ver=20130526" type="text/css" media="all">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="http://www.zergnet.com/zerg.js?id=16867"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js?ver=1.0.0"></script>
-<script type="text/javascript" src="http://wegotthiscovered.com/wp-content/plugins/reviews/js/support.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc/js/waypoints.min.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc/js/waypoints-sticky.min.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc/js/scripts.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc/js/custom.js?ver=1.0.6"></script>
-<script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc/js/ads-lazyload.js?ver=1.0.8"></script>
+<link rel="stylesheet" id="face3_social_icons-css" href="http://wegotthiscovered.com/wp-content/themes/wgtc_v2/css/ml-social-buttons-colorful.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="face3_social_fonts-css" href="http://wegotthiscovered.com/wp-content/themes/wgtc_v2/font/font.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-css" href="http://fonts.googleapis.com/css?family=Archivo+Narrow%3A400%2C400italic%2C700%2C700italic&amp;ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="wpt-twitter-feed-css" href="http://wegotthiscovered.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="tag-styles-css" href="http://wegotthiscovered.com/wp-content/themes/wgtc_v2/tag-styles.css?ver=2.3" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="http://wegotthiscovered.com/wp-content/themes/wgtc_v2/style.css?ver=4.2.28" type="text/css" media="all">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://wegotthiscovered.com/wp-content/plugins/face3-infinite-scroll-plugin/inc/libs/imagesloaded.pkgd.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://wegotthiscovered.com/wp-content/plugins/face3-infinite-scroll-plugin/inc/libs/jquery-ias.js?ver=4.0.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var infiniteScroll = {"url":"http:\/\/wegotthiscovered.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://wegotthiscovered.com/wp-content/plugins/face3-infinite-scroll-plugin/inc/js/face3-infinite-scroll.functions.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://wegotthiscovered.com/wp-content/plugins/reviews/js/support.js?ver=4.0.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wegotthiscovered.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wegotthiscovered.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 3.9.1">
+<meta name="generator" content="WordPress 4.0.1">
 <!-- Start Alexa Certify Javascript -->
 <script type="text/javascript">
 _atrk_opts = { atrk_acct:"9nztj1agkg00G/", domain:"wegotthiscovered.com",dynamic: true};
@@ -54,25 +68,7 @@ _atrk_opts = { atrk_acct:"9nztj1agkg00G/", domain:"wegotthiscovered.com",dynamic
 </script>
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=9nztj1agkg00G/" style="display:none" height="1" width="1" alt="" /></noscript>
 <!-- End Alexa Certify Javascript -->
-
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-
-    <!-- cmnUNT | Begin head script -->
-    <script data-cfasync="false" type="text/javascript">
-        cmnunt_site     = 'cmn_wegotthiscovered'; //set in admin
-        cmnunt_silo     = 's_pop'; //set in admin
-        cmnunt_subsilo  = '';
-        cmnunt_tier     = 'to,t2,subhome';
-        cmnunt_zone     = 'page';
-        cmnunt_kw       = '';
-        cmnunt_exclude  = '';
-        cmn_tb_theme    = 'dark';
-    </script>
-    <script data-cfasync="false" type="text/javascript" src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script>
-    
-    <!-- cmnUNT | Header Unit Centering Styles -->
-    <link rel="stylesheet" type="text/css" href="http://wegotthiscovered.com/wp-content/plugins/cm-ad-map/dist/css/cmn_styles.css">
-    <link rel="author" href="https://plus.google.com/112126588930557965927">
+<link rel="author" href="https://plus.google.com/112126588930557965927">
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-17178859-1']);
@@ -83,144 +79,1103 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #e8e8e8; background-image: url('http://cdn.wegotthiscovered.com/wp-content/uploads/wgtc-bg00.jpg'); background-repeat: no-repeat; background-position: top center; background-attachment: fixed; }
+</style>
 
 	<!-- This site is optimized with the Author hReview Pro Plugin 1.0.1.6 by http://authorhreview.com -->
 
 
-<script type="text/javascript">
-        cmnTB();
-        cmnUNT('tover', tile_num++);
-</script>
+	<!--[if lt IE 9]>
+	<link rel="stylesheet" href="http://wegotthiscovered.com/wp-content/themes/wgtc_v2/style-ie.css"/>
+	<![endif]-->
 
-<script async="" type="text/javascript" src="//disqus.com/forums/wegotthiscovered/count.js"></script></head>
 
-<body class="page page-id-48476 page-template-default">
+	<!--[if gte IE 9]>
+	  <style type="text/css">
+	   .slider-home .text{filter: none;}
+	   .prev-next-article .button.prev .text{filter: none;}
+	   .prev-next-article .button.next .text{filter: none;}
+	  </style>
+	<![endif]-->
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
+	<script type="text/javascript">
+	var mobile_timer = false;
+	if(navigator.userAgent.match(/iPhone/i)) {
+		$('#viewport').attr('content','width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0');
+		$(window).bind('gesturestart',function () {
+			clearTimeout(mobile_timer);
+			$('#viewport').attr('content','width=device-width,minimum-scale=1.0,maximum-scale=10.0');
+		}).bind('touchend',function () {
+			clearTimeout(mobile_timer);
+			mobile_timer = setTimeout(function () {
+				$('#viewport').attr('content','width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0');
+			},1000);
+		});
+	}
+	</script>
 
-<div id="cmn_ad_tag_head" class="fw_wegotthiscovered">
-<script>cmnUNT('3x3', tile_num++, 1);</script>
+	<script type="text/javascript">var switchTo5x=true;</script>
+
+
+	<script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
+
+			<script src="//cdnjs.cloudflare.com/ajax/libs/postscribe/1.1.2/postscribe.min.js"></script>
+	
+	
+<script async="" type="text/javascript" src="//wegotthiscovered.disqus.com/count.js"></script></head>
+<body id="WeGotThisCovered" class="custom-background page_privacypolicy section_privacypolicy lang_en  ">	
+
+<div class="top-menu">
+	<div class="inner">
+		
+		<ul id="menu-top-menu" class="menu"><li id="menu-item-42158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-42158"><a href="http://wegotthiscovered.com/">Home</a></li>
+<li id="menu-item-123793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123793"><a href="http://wegotthiscovered.com/about/">About &amp; Advertising</a></li>
+<li id="menu-item-126068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126068"><a href="http://wegotthiscovered.com/staff-2/">Staff</a></li>
+<li id="menu-item-123794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123794"><a href="http://wegotthiscovered.com/contact-2/">Contact</a></li>
+<li id="menu-item-125947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125947"><a href="http://wegotthiscovered.com/write/">Write For Us</a></li>
+</ul>	</div>
 </div>
 
+<div class="advertWrap">
+	<div class="advert">
+	    <div class="skin_ad">
+	<div id="3254600"><noscript><a href="http://ads.intergi.com/adlink|3.0|5205.1|3254600|0|16|ADTECH;loc=300;key=key1+key2+key3+key4;alias=" target="_blank"><img src="http://ads.intergi.com/adserv|3.0|5205.1|3254600|0|16|ADTECH;loc=300;key=key1+key2+key3+key4;alias=" border="0" width="1" height="1"></a></noscript></div>
+<script>
+			jQuery(document).ready(function(){
+		skin_ad(3254600, 454758);
+});
+</script></div>	<div id="1987693"><noscript><a href="http://ads.intergi.com/adlink|3.0|5205.1|1987693|0|225|ADTECH;loc=300;key=key1+key2+key3+key4;alias=" target="_blank"><img src="http://ads.intergi.com/adserv|3.0|5205.1|1987693|0|225|ADTECH;loc=300;key=key1+key2+key3+key4;alias=" border="0" width="728" height="90"></a></noscript></div>
+	<script>
+			jQuery(document).ready(function(){
+		leaderboard_ad(1987693, 454758);
+});
+</script>	</div>
+</div>
+<div class="push"></div>
 
-
-
-<div id="cmn_wrap">
-
-
-
-
-
-		<header id="headercontainer" class="my-sticky-element">
-		<div id="header">
-
-		<div id="topadcontainer">
-
-					<!-- BEGINNING OF TOP AD -->
-
-
-					<!-- END OF TOP AD -->
-		</div>
-
-		<div id="logocontainer">
-			<a class="logo" href="http://wegotthiscovered.com/" rel="home"><img height="68" width="126" alt="We Got This Covered" src="/wegotthiscovered.png"></a>
-		</div>
-		<div id="menuwrap">
-			<div id="menu-left"></div>
-			<div id="menu">
-				<nav role="navigation">
-					<ul class="sfmenu">
-						<li>
-							<a href="/movies/">Movies</a>
-						</li>
-						<li>
-							<a href="/gaming/">Gaming</a>
-						</li>
-						<li>
-							<a href="/blu-ray/">Blu-Ray</a>
-						</li>
-						<li>
-							<a href="/tv/">TV</a>
-						</li>
-						<li>
-							<a href="/videos/">Videos</a>
-						</li>
-						<li>
-							<a href="/gallery/">Galleries</a>
-						</li>
+<!--HEADER START-->
+<div id="mainHeader" class="header">
+<div class="header-bg">
+	<div class="inner">
+		<div class="main-menu-wrap">
+			<div class="logo">
+								<a href="http://wegotthiscovered.com" title="We Got This Covered"><img src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc_v2/img/logo.png" alt="We Got This Covered"></a>
+			</div>		
+						<div class="latest-dd clearfix">
+				<div class="latest-dd-wrap">
+					<ul>
+						<li id="text-125" class="widget widget_text">			<div class="textwidget"><span>Trending:</span><a href="http://wegotthiscovered.com/tag/awards-season">Awards Season</a> | <a href="http://wegotthiscovered.com/tag/best-of-2014">Best/Worst of 2014</a> | <a href="http://wegotthiscovered.com/tag/the-interview">The Interview</a> </div>
+		</li>
 					</ul>
-				</nav>
-				<div id="search">
-					
-<div id="cse-search-form" style="width: 100%;"></div>
-<script src="http://www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript"> 
-  google.load('search', '1', {language : 'en', style : google.loader.themes.V2_DEFAULT});
-  google.setOnLoadCallback(function() {
-    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
-      '011038393874203676948:k3_fnn9qn0a', customSearchOptions);
-    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-    var options = new google.search.DrawOptions();
-    options.enableSearchboxOnly("http://wegotthiscovered.com", "s");
-    customSearchControl.draw('cse-search-form', options);
-  }, true);
-</script>
-
 				</div>
-			</div>
-			<div id="menu-right"></div>
-		</div>
-		<div class="largeheader-ad">
-		</div>
-		</div>
-	</header><!-- #headercontainer -->
+				<div class="social">
+					<a href="https://www.facebook.com/WeGotThisCovered" class="icon fb"></a>					
+					<a href="https://twitter.com/wgtc_site" class="icon tw"></a>
+					<a href="https://plus.google.com/+Wegotthiscovered/" class="icon gp"></a>
+					<a href="http://www.youtube.com/user/wgtcsite" class="icon yt"></a>
+					<a href="http://instagram.com/wgtcinsta" target="_blank" class="icon insta"></a>
+				</div>
+			</div>		
+			<nav class="the-menu clearfix">			
+				<ul id="menu-main-menu" class="menu">
 
-<div id="sitewrap">
-	<section id="topwrap">
+				<li class="menu-item-has-children js-hover-load" data-loaded="false">
+					<a href="http://wegotthiscovered.com/movies/">Movies</a>
+					<div class="menu-dropdown border-box movies">			
+						<ul class="featured-sub">
+																						<li>
+									<a href="http://wegotthiscovered.com/movies/abandoned-toy-story-3-storyboards-reveal-a-very-different-journey-for-woody-and-the-gang/">
+																
+										 
 
-		<div id="trendingwrap">
-			<div id="trending-left"></div>
-			<div id="trending">
-				<span id="trendingspan">Trending Topics:</span>
-				<div class="menu-trending-container"><ul id="menu-trending" class="menu"><li id="menu-item-308521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308521"><a href="http://wegotthiscovered.com/write/">Write For Us</a></li>
-<li id="menu-item-325518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-325518"><a href="http://wegotthiscovered.com/tag/podcast">Podcasts</a></li>
-<li id="menu-item-350821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-350821"><a href="http://wegotthiscovered.com/tag/featured-content">Exclusive Features</a></li>
-<li id="menu-item-350532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-350532"><a href="http://wegotthiscovered.com/tag/transformers-age-of-extinction">Transformers: Age of Extinction</a></li>
-<li id="menu-item-354876" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-354876"><a href="http://wegotthiscovered.com/tag/deliver-us-from-evil">Deliver Us From Evil</a></li>
-<li id="menu-item-357376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-357376"><a href="http://wegotthiscovered.com/tag/e3-2014">E3 2014</a></li>
-</ul></div>			</div>
-			<div id="trending-right"></div>
-		</div>
-		
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/TS3-opening-action-scene-2-550x360-400x360.jpg" alt="Abandoned Toy Story 3 Storyboards Reveal A Very Different Journey For Woody And The Gang" title="Abandoned Toy Story 3 Storyboards Reveal A Very Different Journey For Woody And The Gang">
+										</div>
+										<div class="text"><p>Abandoned Toy Story 3 Storyboards Reveal A Very Different Journey For Woody And The Gang</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/movies/stunning-concept-art-cancelled-bioshock-movie-hint/">
+																
+										 
 
-	</section>
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/PowerStation13_view8-400x276.jpg" alt="Stunning Concept Art For Cancelled BioShock Movie Hints At What Could Have Been " title="Stunning Concept Art For Cancelled BioShock Movie Hints At What Could Have Been ">
+										</div>
+										<div class="text"><p>Stunning Concept Art For Cancelled BioShock Movie Hints At What Could Have Been </p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/movies/director-sam-raimi-talks-candidly-about-spider-man-3-claims-he-messed-up/">
+																
+										 
 
-	<section id="contentwrap">
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Spider-Man-3-2007-400x366.jpg" alt="Director Sam Raimi Talks Candidly About Spider-Man 3, Claims He " messed="" up""="" title="Director Sam Raimi Talks Candidly About Spider-Man 3, Claims He ">
+										</div>
+										<div class="text"><p>Director Sam Raimi Talks Candidly About Spider-Man 3, Claims He "Messed Up"</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/movies/christopher-nolan-dissects-interstellar-landing-scene-practical-effects-featurette/">
+																
+										 
 
-		<div id="primary">
-			<div id="content" class="site-content" role="main">
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/christopher-nolan-interstellar-600x400-400x400.jpg" alt="Christopher Nolan Dissects Interstellar Landing Scene And Practical Effects In New Featurette" title="Christopher Nolan Dissects Interstellar Landing Scene And Practical Effects In New Featurette">
+										</div>
+										<div class="text"><p>Christopher Nolan Dissects Interstellar Landing Scene And Practical Effects In New Featurette</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/movies/100000-copies-interview-balloon-dropped-north-korea/">
+																
+										 
 
-				
-					
-<article id="post-48476" class="single">
-	<header class="entry-header">
-		
-		<div class="entry-title">
-			<h1>Privacy Policy</h1>
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/the-interview-poster-400x400.jpg" alt="100,000 Copies Of The Interview Will Be Balloon Dropped Into North Korea" title="100,000 Copies Of The Interview Will Be Balloon Dropped Into North Korea">
+										</div>
+										<div class="text"><p>100,000 Copies Of The Interview Will Be Balloon Dropped Into North Korea</p></div>
+									</a>
+								</li>
+																		
+						</ul>
+						<div class="columns-sub clearfix">
+							<div class="sub-menu-link"><a href="http://wegotthiscovered.com/movies/" class="viewall-header-link">View All News</a></div>
+														
+							<div class="column border-box">
+								<a href="http://wegotthiscovered.com/moviereviews" class="viewall-header-link">Movie Reviews</a>
+								<ul>
+																												<li>
+											<a href="http://wegotthiscovered.com/movies/american-sniper-review/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/B5OFUQCIMAAq03M-100x100.jpg" alt="American Sniper Review" title="American Sniper Review">
+												</div>
+												<div class="text"><p>American Sniper Review</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/movies/rec-4-apocalypse-review/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/32E2dWc-100x100.jpg" alt="[REC] 4: Apocalypse Review" title="[REC] 4: Apocalypse Review">
+												</div>
+												<div class="text"><p>[REC] 4: Apocalypse Review</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/movies/a-most-violent-year-review/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/A-MOST-VIOLENT-YEAR-poster-100x100.jpg" alt="A Most Violent Year Review" title="A Most Violent Year Review">
+												</div>
+												<div class="text"><p>A Most Violent Year Review</p></div>
+											</a>
+										</li>
+																		
+								</ul>
+															</div>
+						</div>
+					</div>				
+				</li>
+
+				<li class="menu-item-has-children js-hover-load" data-loaded="false">
+					<a href="http://wegotthiscovered.com/gaming/">Gaming</a>
+					<div class="menu-dropdown border-box gaming">			
+						<ul class="featured-sub">
+																						<li>
+									<a href="http://wegotthiscovered.com/gaming/sony-to-extend-playstation-store-sale-in-the-wake-of-psn-problems/">
+																
+										 
+
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/PlayStation-Store-400x400.jpg" alt="Sony To Extend PlayStation Store Sale In The Wake Of PSN Problems " title="Sony To Extend PlayStation Store Sale In The Wake Of PSN Problems ">
+										</div>
+										<div class="text"><p>Sony To Extend PlayStation Store Sale In The Wake Of PSN Problems </p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/gaming/snake-dons-a-chicken-hat-in-new-images-for-metal-gear-solid-v-the-phantom-pain/">
+																
+										 
+
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/metal_gear_solid_5_the_phantom_pain-400x400.jpg" alt="Snake Dons A Chicken Hat In New Images For Metal Gear Solid V: The Phantom Pain" title="Snake Dons A Chicken Hat In New Images For Metal Gear Solid V: The Phantom Pain">
+										</div>
+										<div class="text"><p>Snake Dons A Chicken Hat In New Images For Metal Gear Solid V: The Phantom Pain</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/gaming/we-got-this-covereds-top-10-video-games-of-2014/">
+																
+										 
+
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/GotY_2-400x366.jpg" alt="We Got This Covered's Top 10 Video Games Of 2014" title="We Got This Covered's Top 10 Video Games Of 2014">
+										</div>
+										<div class="text"><p>We Got This Covered's Top 10 Video Games Of 2014</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/gaming/halo-5-guardians-limited-edition-detailed-as-multiplayer-beta-goes-live/">
+																
+										 
+
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Halo-5-Guardians-Multiplayer-Beta-Truth-Mantle-Up2-400x400.jpg" alt="Halo 5: Guardians Limited Edition Detailed As Multiplayer Beta Goes Live" title="Halo 5: Guardians Limited Edition Detailed As Multiplayer Beta Goes Live">
+										</div>
+										<div class="text"><p>Halo 5: Guardians Limited Edition Detailed As Multiplayer Beta Goes Live</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/gaming/halo-5-guardians-preview/">
+																
+										 
+
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/halo-5-400x337.jpg" alt="Halo 5: Guardians Hands-On Preview" title="Halo 5: Guardians Hands-On Preview">
+										</div>
+										<div class="text"><p>Halo 5: Guardians Hands-On Preview</p></div>
+									</a>
+								</li>
+								
+						</ul>
+						<div class="columns-sub">
+							<div class="sub-menu-link"><a href="http://wegotthiscovered.com/gaming/" class="viewall-header-link">View All News</a></div>
+							<div class="column border-box">
+								<a href="http://wegotthiscovered.com/gamingreviews/" class="viewall-header-link">Gaming Reviews</a>
+								<ul>
+																												<li>
+											<a href="http://wegotthiscovered.com/gaming/sunset-overdrive-mystery-mooil-rig-dlc-review/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Mooil_text1-w800-h600-100x100.jpg" alt="Sunset Overdrive And The Mystery Of The Mooil Rig! DLC Review" title="Sunset Overdrive And The Mystery Of The Mooil Rig! DLC Review">
+												</div>
+												<div class="text"><p>Sunset Overdrive And The Mystery Of The Mooil Rig! DLC Review</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/gaming/kalimba-review/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Project-Totem-Is-Now-Kalimba-Out-in-December-for-Xbox-One-January-for-PC-465359-2-w800-h600-100x100.jpg" alt="Kalimba Review" title="Kalimba Review">
+												</div>
+												<div class="text"><p>Kalimba Review</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/gaming/gas-review/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/gas-logo-100x100.png" alt="Gas Review" title="Gas Review">
+												</div>
+												<div class="text"><p>Gas Review</p></div>
+											</a>
+										</li>
+																	</ul>					
+							</div>
+						</div>
 					</div>
- 	</header><!-- .entry-header -->
+				</li>
+				
+				<li class="menu-item-has-children js-hover-load" data-loaded="false">
+					<a href="http://wegotthiscovered.com/tv/">TV</a>
+					<div class="menu-dropdown border-box tv">			
+						<ul class="featured-sub">
+																						<li>
+									<a href="http://wegotthiscovered.com/tv/intense-penny-dreadful-season-2-teaser-curse-blessing/">
+																
+										 
 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/zap-penny-dreadful-season-1-episode-4-demimond-031-400x400.jpeg" alt="Intense Penny Dreadful Season 2 Teaser Is " a="" curse="" and="" blessing""="" title="Intense Penny Dreadful Season 2 Teaser Is ">
+										</div>
+										<div class="text"><p>Intense Penny Dreadful Season 2 Teaser Is "A Curse And A Blessing"</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/tv/jenna-coleman-staying-doctor/">
+																
+										 
 
-	<div class="entry-content-page">
-		<p><img class="aligncenter size-full wp-image-48771" title="privacy-policy" src="http://cdn.wegotthiscovered.com/wp-content/uploads/privacy-policy.jpg" alt="privacy policy Privacy Policy" width="550"></p>
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Jenna-Coleman-leaving-Doctor-Who-400x400.jpg" alt="Jenna Coleman Staying On Doctor Who" title="Jenna Coleman Staying On Doctor Who">
+										</div>
+										<div class="text"><p>Jenna Coleman Staying On Doctor Who</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/tv/the-walking-dead-companion-series-enlists-gone-girl-actress-as-female-lead/">
+																
+										 
+
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Kim-Dickens_article_600x348-400x348.jpg" alt="The Walking Dead Companion Series Enlists Gone Girl Actress As Female Lead" title="The Walking Dead Companion Series Enlists Gone Girl Actress As Female Lead">
+										</div>
+										<div class="text"><p>The Walking Dead Companion Series Enlists Gone Girl Actress As Female Lead</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/tv/better-call-saul-teaser-includes-footage-show/">
+																
+										 
+
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/better-call-saul1-469x3601-400x360.jpg" alt="New Better Call Saul Teaser Includes First Look At Footage From The Show" title="New Better Call Saul Teaser Includes First Look At Footage From The Show">
+										</div>
+										<div class="text"><p>New Better Call Saul Teaser Includes First Look At Footage From The Show</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/tv/androids-packin-heat-image-jonathan-nolans-hbo-series-westworld/">
+																
+										 
+
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Westworld1-400x380.jpg" alt="The Androids Are Packin' Heat In First Image From Jonathan Nolan's HBO Series Westworld" title="The Androids Are Packin' Heat In First Image From Jonathan Nolan's HBO Series Westworld">
+										</div>
+										<div class="text"><p>The Androids Are Packin' Heat In First Image From Jonathan Nolan's HBO Series Westworld</p></div>
+									</a>
+								</li>
+													</ul>
+						<div class="columns-sub">
+							<div class="sub-menu-link"><a href="http://wegotthiscovered.com/tv/" class="viewall-header-link">View All News</a></div>						
+							<div class="column border-box">
+								<a href="http://wegotthiscovered.com/tvseriesreviews" class="viewall-header-link">TV Reviews</a>
+								<ul>
+																												<li>
+											<a href="http://wegotthiscovered.com/tv/doctor-review-last-christmas/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/doctor-who_qAD9Il-100x100.jpg" alt="Doctor Who Review: " last="" christmas""="" title="Doctor Who Review: ">
+												</div>
+												<div class="text"><p>Doctor Who Review: "Last Christmas"</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/tv/scorpion-review-dominoes-season-1-episode-12/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/scorpion1.12-100x100.jpg" alt="Scorpion Review: " dominoes"="" (season="" 1,="" episode="" 12)"="" title="Scorpion Review: ">
+												</div>
+												<div class="text"><p>Scorpion Review: "Dominoes" (Season 1, Episode 12)</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/tv/homeland-review-krieg-nicht-lieb-season-4-episode-11/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Homeland-KriegNichtLieb-Quinn-100x100.jpg" alt="Homeland Review: “Krieg Nicht Lieb” (Season 4, Episode 11)" title="Homeland Review: “Krieg Nicht Lieb” (Season 4, Episode 11)">
+												</div>
+												<div class="text"><p>Homeland Review: “Krieg Nicht Lieb” (Season 4, Episode 11)</p></div>
+											</a>
+										</li>
+																	</ul>					
+							</div>
+						</div>
+					</div>
+				</li>
+
+				<li class="menu-item-has-children js-hover-load" data-loaded="false">
+					<a href="http://wegotthiscovered.com/blu-ray/">Blu-Ray</a>
+					<div class="menu-dropdown border-box blu-ray">			
+						<ul class="featured-sub">
+																						<li>
+									<a href="http://wegotthiscovered.com/blu-ray/sons-anarchy-season-sons-anarchy-complete-series-blurays-set-february/">
+																
+										 
+
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/sons-of-anarchy-season-7-poster-441x600-400x400.jpg" alt="Sons Of Anarchy: Season Seven And Sons Of Anarchy: The Complete Series Blu-Rays Set For February" title="Sons Of Anarchy: Season Seven And Sons Of Anarchy: The Complete Series Blu-Rays Set For February">
+										</div>
+										<div class="text"><p>Sons Of Anarchy: Season Seven And Sons Of Anarchy: The Complete Series Blu-Rays Set For February</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/blu-ray/contest-win-black-sails-season-bluray-prize-pack/">
+																
+										 
+
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Black-Sails-new-640x427-400x400.jpg" alt="CONTEST: Win A Black Sails: Season One Blu-Ray Prize Pack!" title="CONTEST: Win A Black Sails: Season One Blu-Ray Prize Pack!">
+										</div>
+										<div class="text"><p>CONTEST: Win A Black Sails: Season One Blu-Ray Prize Pack!</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/blu-ray/exclusive-bonus-feature-clip-americans-season-2-bluray/">
+																
+										 
+
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/the_americans-400x367.jpg" alt="Exclusive Bonus Feature Clip From The Americans Season 2 Blu-Ray" title="Exclusive Bonus Feature Clip From The Americans Season 2 Blu-Ray">
+										</div>
+										<div class="text"><p>Exclusive Bonus Feature Clip From The Americans Season 2 Blu-Ray</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/blu-ray/girl-stun-bluray-january/">
+																
+										 
+
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/gone-girl3-400x400.jpg" alt="Gone Girl Will Stun You On Blu-Ray This January" title="Gone Girl Will Stun You On Blu-Ray This January">
+										</div>
+										<div class="text"><p>Gone Girl Will Stun You On Blu-Ray This January</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/blu-ray/judge-arrive-bluray-january/">
+																
+										 
+
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/the-judge-poster1-405x600-400x400.jpg" alt="The Judge Will Arrive On Blu-Ray In January" title="The Judge Will Arrive On Blu-Ray In January">
+										</div>
+										<div class="text"><p>The Judge Will Arrive On Blu-Ray In January</p></div>
+									</a>
+								</li>
+													</ul>
+						<div class="columns-sub">
+							<div class="sub-menu-link"><a href="http://wegotthiscovered.com/blu-ray/" class="viewall-header-link">View All News</a></div>
+							<div class="column border-box">
+								<a href="http://wegotthiscovered.com/blurayreviews/" class="viewall-header-link">Blu-Ray Reviews</a>
+								<ul>
+																												<li>
+											<a href="http://wegotthiscovered.com/blu-ray/horns-bluray-review/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/114378_front-1-100x100.jpg" alt="Horns Blu-Ray Review" title="Horns Blu-Ray Review">
+												</div>
+												<div class="text"><p>Horns Blu-Ray Review</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/blu-ray/guest-bluray-review/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/3001-100x100.png" alt="The Guest Blu-Ray Review" title="The Guest Blu-Ray Review">
+												</div>
+												<div class="text"><p>The Guest Blu-Ray Review</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/blu-ray/good-deed-bluray-review/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/91lPX5T3HvL._SX425_-100x100.jpg" alt="No Good Deed Blu-Ray Review" title="No Good Deed Blu-Ray Review">
+												</div>
+												<div class="text"><p>No Good Deed Blu-Ray Review</p></div>
+											</a>
+										</li>
+																	</ul>					
+							</div>
+						</div>
+					</div>
+				</li>
+
+				<li class="menu-item-has-children js-hover-load" data-loaded="false">
+					<a href="http://wegotthiscovered.com/music/">Music</a>
+					<div class="menu-dropdown border-box music">			
+						<ul class="featured-sub">
+														
+															<li>
+									<a href="http://wegotthiscovered.com/music/ultra-music-festival-2015-lineup-leaks/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/10454448_10203605233507124_5588801464101215324_n_zpsdb55bb03-400x400.jpg" alt="Ultra Music Festival 2015 Lineup Leaks" title="Ultra Music Festival 2015 Lineup Leaks">
+										</div>
+										<div class="text"><p>Ultra Music Festival 2015 Lineup Leaks</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/music/showtek-90s-track/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/unnamed_0-400x400.jpg" alt="Showtek Take Us Back To The 90s For Their New Track" title="Showtek Take Us Back To The 90s For Their New Track">
+										</div>
+										<div class="text"><p>Showtek Take Us Back To The 90s For Their New Track</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/music/taste-spinnin-records-2015/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/artworks-000101116488-ra2csu-t500x500-64pitt5st3gjeszh3853ns9g3d1oy03ma9g65qil5pe-400x400.jpg" alt="Here's A Taste Of What's To Come From Spinnin' Records In 2015" title="Here's A Taste Of What's To Come From Spinnin' Records In 2015">
+										</div>
+										<div class="text"><p>Here's A Taste Of What's To Come From Spinnin' Records In 2015</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/music/hardwell-closes-2014-year-mix/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/mza_3923547534366918698.600x600-75-400x400.jpg" alt="Hardwell Closes Out 2014 With A Year End Mix" title="Hardwell Closes Out 2014 With A Year End Mix">
+										</div>
+										<div class="text"><p>Hardwell Closes Out 2014 With A Year End Mix</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/music/part-2-martin-garrix-show-online/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/martin-garrix-400x400.jpg" alt="Part 2 Of The Martin Garrix Show Is Now Online" title="Part 2 Of The Martin Garrix Show Is Now Online">
+										</div>
+										<div class="text"><p>Part 2 Of The Martin Garrix Show Is Now Online</p></div>
+									</a>
+								</li>
+														
+						</ul>
+						<div class="columns-sub">
+							<div class="sub-menu-link"><a href="http://wegotthiscovered.com/music/" class="viewall-header-link">View All News</a>	</div>
+							<div class="column border-box">
+								<a href="http://wegotthiscovered.com/musicreviews/" class="viewall-header-link">Music Reviews</a>
+								<ul>
+																												<li>
+											<a href="http://wegotthiscovered.com/music/gareth-emery-epic-5-hour-set-hollywood-palladium/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Gareth-Emery-Palladium-48-100x100.jpg" alt="Gareth Emery Gives It His All In Epic 5 Hour Set At The Hollywood Palladium" title="Gareth Emery Gives It His All In Epic 5 Hour Set At The Hollywood Palladium">
+												</div>
+												<div class="text"><p>Gareth Emery Gives It His All In Epic 5 Hour Set At The Hollywood Palladium</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/music/alesso-delivers-shrine-auditorium-los-angeles/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/DSC_4365-100x100.jpg" alt="Alesso Delivers Once Again At Shrine Auditorium In Los Angeles" title="Alesso Delivers Once Again At Shrine Auditorium In Los Angeles">
+												</div>
+												<div class="text"><p>Alesso Delivers Once Again At Shrine Auditorium In Los Angeles</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/music/david-guetta-listen-review/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/david-guetta-listen-100x100.jpg" alt="David Guetta - Listen Review" title="David Guetta - Listen Review">
+												</div>
+												<div class="text"><p>David Guetta - Listen Review</p></div>
+											</a>
+										</li>
+																	</ul>					
+							</div>
+						</div>
+					</div>
+				</li>
+
+				<li class="menu-item-has-children js-hover-load" data-loaded="false">
+					<a href="http://wegotthiscovered.com/videos/">Videos</a>
+					<div class="menu-dropdown border-box music">			
+						<ul class="featured-sub">
+														
+															<li>
+									<a href="http://wegotthiscovered.com/movies/exclusive-video-interview-david-oyelowo-ava-duvernay-selma/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/vlcsnap-2014-12-21-16h20m58s70-400x400.jpg" alt="Exclusive Video Interview With David Oyelowo And Ava DuVernay On Selma" title="Exclusive Video Interview With David Oyelowo And Ava DuVernay On Selma">
+										</div>
+										<div class="text"><p>Exclusive Video Interview With David Oyelowo And Ava DuVernay On Selma</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/movies/exclusive-video-interview-jc-chandor-violent-year/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/vlcsnap-2014-12-18-12h53m49s195-400x400.jpg" alt="Exclusive Video Interview With J.C. Chandor On A Most Violent Year" title="Exclusive Video Interview With J.C. Chandor On A Most Violent Year">
+										</div>
+										<div class="text"><p>Exclusive Video Interview With J.C. Chandor On A Most Violent Year</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/tv/talking-cast-marco-polo-nyc-premiere/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/vlcsnap-2014-12-17-13h29m05s113-400x400.jpg" alt="Talking To The Cast Of Marco Polo At The NYC Premiere" title="Talking To The Cast Of Marco Polo At The NYC Premiere">
+										</div>
+										<div class="text"><p>Talking To The Cast Of Marco Polo At The NYC Premiere</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/movies/exclusive-video-interview-rupert-wyatt-gambler-mark-wahlberg/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/vlcsnap-2014-12-15-21h54m41s108-400x400.jpg" alt="Exclusive Video Interview With Rupert Wyatt On The Gambler" title="Exclusive Video Interview With Rupert Wyatt On The Gambler">
+										</div>
+										<div class="text"><p>Exclusive Video Interview With Rupert Wyatt On The Gambler</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/movies/exclusive-video-interview-atom-egoyan-scott-speedman-captive/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/vlcsnap-2014-12-13-16h49m42s157-400x400.jpg" alt="Exclusive Video Interview With Atom Egoyan And Scott Speedman On The Captive" title="Exclusive Video Interview With Atom Egoyan And Scott Speedman On The Captive">
+										</div>
+										<div class="text"><p>Exclusive Video Interview With Atom Egoyan And Scott Speedman On The Captive</p></div>
+									</a>
+								</li>
+														
+						</ul>
+						<div class="columns-sub">
+							<div class="sub-menu-link"><a href="http://wegotthiscovered.com/videos/" class="viewall-header-link">View All Videos</a></div>
+							<div class="column border-box">
+								<ul class="four-col">
+																												<li>
+											<a href="http://wegotthiscovered.com/tv/exclusive-video-interview-cast-marco-polo/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/vlcsnap-2014-12-12-14h55m48s169-100x100.jpg" alt="Exclusive Video Interview With The Cast Of Marco Polo" title="Exclusive Video Interview With The Cast Of Marco Polo">
+												</div>
+												<div class="text"><p>Exclusive Video Interview With The Cast Of Marco Polo</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/music/exclusive-video-interview-dillon-francis/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/varwwwclientsclient1web2tmpphp7LBi99-100x100.jpg" alt="Exclusive Video Interview With Dillon Francis" title="Exclusive Video Interview With Dillon Francis">
+												</div>
+												<div class="text"><p>Exclusive Video Interview With Dillon Francis</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/music/exclusive-video-interview-tritonal/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/vlcsnap-2014-11-25-21h08m52s10-100x100.jpg" alt="Exclusive Video Interview With Tritonal" title="Exclusive Video Interview With Tritonal">
+												</div>
+												<div class="text"><p>Exclusive Video Interview With Tritonal</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/movies/exclusive-video-interview-leighton-meester-gillian-jacobs-life-partners/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/vlcsnap-2014-11-25-13h43m46s211-100x100.jpg" alt="Exclusive Video Interview With Leighton Meester And Gillian Jacobs On Life Partners" title="Exclusive Video Interview With Leighton Meester And Gillian Jacobs On Life Partners">
+												</div>
+												<div class="text"><p>Exclusive Video Interview With Leighton Meester And Gillian Jacobs On Life Partners</p></div>
+											</a>
+										</li>
+																	</ul>					
+							</div>
+						</div>
+					</div>
+				</li>
+				
+				<li class="menu-item-has-children js-hover-load" data-loaded="false">
+					<a href="http://wegotthiscovered.com/reviews/">Reviews</a>
+					<div class="menu-dropdown border-box music">			
+						<ul class="featured-sub">
+														
+															<li>
+									<a href="http://wegotthiscovered.com/movies/american-sniper-review/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/B5OFUQCIMAAq03M-400x400.jpg" alt="American Sniper Review" title="American Sniper Review">
+										</div>
+										<div class="text"><p>American Sniper Review</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/blu-ray/horns-bluray-review/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/114378_front-1-400x400.jpg" alt="Horns Blu-Ray Review" title="Horns Blu-Ray Review">
+										</div>
+										<div class="text"><p>Horns Blu-Ray Review</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/movies/rec-4-apocalypse-review/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/32E2dWc-400x400.jpg" alt="[REC] 4: Apocalypse Review" title="[REC] 4: Apocalypse Review">
+										</div>
+										<div class="text"><p>[REC] 4: Apocalypse Review</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/movies/a-most-violent-year-review/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/A-MOST-VIOLENT-YEAR-poster-400x400.jpg" alt="A Most Violent Year Review" title="A Most Violent Year Review">
+										</div>
+										<div class="text"><p>A Most Violent Year Review</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/movies/woman-black-2-angel-death-review/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/The_Woman_in_Black_2-_Angel_of_Death_1-400x400.jpg" alt="The Woman In Black 2: Angel Of Death Review" title="The Woman In Black 2: Angel Of Death Review">
+										</div>
+										<div class="text"><p>The Woman In Black 2: Angel Of Death Review</p></div>
+									</a>
+								</li>
+														
+						</ul>
+						<div class="columns-sub">
+							<div class="sub-menu-link"><a href="http://wegotthiscovered.com/reviews/" class="viewall-header-link">View All Reviews</a>	</div>
+							<div class="column border-box">
+								<ul class="four-col">
+																												<li>
+											<a href="http://wegotthiscovered.com/tv/doctor-review-last-christmas/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/doctor-who_qAD9Il-100x100.jpg" alt="Doctor Who Review: " last="" christmas""="" title="Doctor Who Review: ">
+												</div>
+												<div class="text"><p>Doctor Who Review: "Last Christmas"</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/gaming/sunset-overdrive-mystery-mooil-rig-dlc-review/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Mooil_text1-w800-h600-100x100.jpg" alt="Sunset Overdrive And The Mystery Of The Mooil Rig! DLC Review" title="Sunset Overdrive And The Mystery Of The Mooil Rig! DLC Review">
+												</div>
+												<div class="text"><p>Sunset Overdrive And The Mystery Of The Mooil Rig! DLC Review</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/blu-ray/guest-bluray-review/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/3001-100x100.png" alt="The Guest Blu-Ray Review" title="The Guest Blu-Ray Review">
+												</div>
+												<div class="text"><p>The Guest Blu-Ray Review</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/movies/the-interview-review-sony/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/the-interview-2014-poster-636-long_5-100x100.jpg" alt="The Interview Review" title="The Interview Review">
+												</div>
+												<div class="text"><p>The Interview Review</p></div>
+											</a>
+										</li>
+																	</ul>					
+							</div>
+						</div>
+					</div>
+				</li>
+
+				<li class="menu-item-has-children js-hover-load" data-loaded="false">
+					<a href="http://wegotthiscovered.com/tag/featured-content/">Featured</a>
+					<div class="menu-dropdown border-box music">			
+						<ul class="featured-sub">
+														
+															<li>
+									<a href="http://wegotthiscovered.com/movies/top-10-movie-trailers-of-2014/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/inherent-vice-400x400.jpg" alt="The Top 10 Movie Trailers Of 2014" title="The Top 10 Movie Trailers Of 2014">
+										</div>
+										<div class="text"><p>The Top 10 Movie Trailers Of 2014</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/movies/matt-donatos-top-20-films-of-2014/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Top202014-400x400.jpg" alt="Hooked On A Feeling: Matt Donato's Top 20 Films Of 2014" title="Hooked On A Feeling: Matt Donato's Top 20 Films Of 2014">
+										</div>
+										<div class="text"><p>Hooked On A Feeling: Matt Donato's Top 20 Films Of 2014</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/gaming/we-got-this-covereds-top-10-video-games-of-2014/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/GotY_2-400x366.jpg" alt="We Got This Covered's Top 10 Video Games Of 2014" title="We Got This Covered's Top 10 Video Games Of 2014">
+										</div>
+										<div class="text"><p>We Got This Covered's Top 10 Video Games Of 2014</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/movies/biggest-surprises-cinema-2014/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/the-interview-poster-400x400.jpg" alt="10 Things That Surprised Us At The Movies In 2014" title="10 Things That Surprised Us At The Movies In 2014">
+										</div>
+										<div class="text"><p>10 Things That Surprised Us At The Movies In 2014</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/movies/5-movies-coming-2015-genuinely-excited/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/chapp-400x400.jpg" alt="5 Must-See Movies That Are Releasing In 2015" title="5 Must-See Movies That Are Releasing In 2015">
+										</div>
+										<div class="text"><p>5 Must-See Movies That Are Releasing In 2015</p></div>
+									</a>
+								</li>
+														
+						</ul>
+						<div class="columns-sub">
+							<div class="sub-menu-link"><a href="http://wegotthiscovered.com/tag/featured-content/" class="viewall-header-link">View All Features</a>	</div>
+							<div class="column border-box">
+								
+								<ul class="four-col">
+																												<li>
+											<a href="http://wegotthiscovered.com/movies/nazis-thrills-wolves-the-13-best-horror-movies-of-2014/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Top13Horror2014-100x100.jpg" alt="Nazis, Cheap Thrills, And Big Bad Wolves: The 13 Best Horror Movies Of 2014" title="Nazis, Cheap Thrills, And Big Bad Wolves: The 13 Best Horror Movies Of 2014">
+												</div>
+												<div class="text"><p>Nazis, Cheap Thrills, And Big Bad Wolves: The 13 Best Horror Movies Of 2014</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/gaming/11-disappointing-games-2014/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/WGTC-Most-Disappointing-Games-100x100.jpg" alt="We Got This Covered's 11 Most Disappointing Games Of 2014" title="We Got This Covered's 11 Most Disappointing Games Of 2014">
+												</div>
+												<div class="text"><p>We Got This Covered's 11 Most Disappointing Games Of 2014</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/movies/10-pg-13-movies-rated/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/poltergeist-clown-3-100x100.jpg" alt="10 PG-13 Movies That Should Have Been Rated R " title="10 PG-13 Movies That Should Have Been Rated R ">
+												</div>
+												<div class="text"><p>10 PG-13 Movies That Should Have Been Rated R </p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/movies/isaac-feldbergs-15-worst-movies-2014/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/godzilla-11-100x100.jpg" alt="Isaac Feldberg's 15 Worst Movies Of 2014" title="Isaac Feldberg's 15 Worst Movies Of 2014">
+												</div>
+												<div class="text"><p>Isaac Feldberg's 15 Worst Movies Of 2014</p></div>
+											</a>
+										</li>
+																	</ul>					
+							</div>
+						</div>
+					</div>
+				</li>
+
+				<li class="menu-item-has-children js-hover-load" data-loaded="false">
+					<a href="http://wegotthiscovered.com/gallery/">Galleries</a>
+					<div class="menu-dropdown border-box music">			
+						<ul class="featured-sub">
+														
+															<li>
+									<a href="http://wegotthiscovered.com/gallery/gallery-8-surprising-good-films-2014/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/x-men-days-of-future-past-x-men-dofp-gets-detailed-post-credits-scene-description-400x356.jpeg" alt="Gallery: 8 Surprisingly Good Movies From 2014" title="Gallery: 8 Surprisingly Good Movies From 2014">
+										</div>
+										<div class="text"><p>Gallery: 8 Surprisingly Good Movies From 2014</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/gallery/inherent-vice-gallery/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/inherentvice-400x400.jpg" alt="Inherent Vice Gallery" title="Inherent Vice Gallery">
+										</div>
+										<div class="text"><p>Inherent Vice Gallery</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/gallery/bud-light-sensation-wild-november-29th-2014-gallery/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/IMG_9094-6-400x400.jpg" alt="Bud Light Sensation: Into The Wild (November 29th, 2014) Photo Gallery" title="Bud Light Sensation: Into The Wild (November 29th, 2014) Photo Gallery">
+										</div>
+										<div class="text"><p>Bud Light Sensation: Into The Wild (November 29th, 2014) Photo Gallery</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/gallery/chainsmokers-pacha-nyc-november-28th-2014-photo-gallery/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/IMG_0156-400x400.jpg" alt="The Chainsmokers At Pacha NYC (November 28th, 2014) Photo Gallery" title="The Chainsmokers At Pacha NYC (November 28th, 2014) Photo Gallery">
+										</div>
+										<div class="text"><p>The Chainsmokers At Pacha NYC (November 28th, 2014) Photo Gallery</p></div>
+									</a>
+								</li>
+															<li>
+									<a href="http://wegotthiscovered.com/gallery/witcher-iii-wild-hunt-gallery/">																
+										 
+										<div class="img-wrap">
+											<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/2673734-geralt_sword-size_1920x1200-400x400.jpg" alt="The Witcher III: Wild Hunt Gallery" title="The Witcher III: Wild Hunt Gallery">
+										</div>
+										<div class="text"><p>The Witcher III: Wild Hunt Gallery</p></div>
+									</a>
+								</li>
+														
+						</ul>
+						<div class="columns-sub">
+							<div class="sub-menu-link"><a href="http://wegotthiscovered.com/gallery/" class="viewall-header-link">View All Galleries</a>	</div>
+							<div class="column border-box">
+								
+								<ul class="four-col">
+																												<li>
+											<a href="http://wegotthiscovered.com/gallery/alesso-shrine-auditorium-november-22nd-2014-gallery/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/DSC_4006-100x100.jpg" alt="Alesso At Shrine Auditorium (November 22nd, 2014) Photo Gallery" title="Alesso At Shrine Auditorium (November 22nd, 2014) Photo Gallery">
+												</div>
+												<div class="text"><p>Alesso At Shrine Auditorium (November 22nd, 2014) Photo Gallery</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/gallery/gareth-emery-hollywood-palladium-november-22nd-2014-photo-gallery/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/Gareth-Emery-Palladium-15-100x100.jpg" alt="Gareth Emery At The Hollywood Palladium (November 22nd, 2014) Photo Gallery" title="Gareth Emery At The Hollywood Palladium (November 22nd, 2014) Photo Gallery">
+												</div>
+												<div class="text"><p>Gareth Emery At The Hollywood Palladium (November 22nd, 2014) Photo Gallery</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/gallery/crew-gallery/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/The-Crew-2014-100x100.jpg" alt="The Crew Gallery" title="The Crew Gallery">
+												</div>
+												<div class="text"><p>The Crew Gallery</p></div>
+											</a>
+										</li>
+																			<li>
+											<a href="http://wegotthiscovered.com/gallery/edc-orlando-2014-day-2-photo-gallery/">
+									
+												 
+
+												<div class="img-wrap">
+													<img data-hover-load-src="http://cdn.wegotthiscovered.com/wp-content/uploads/DSC_6406-100x100.jpg" alt="EDC Orlando 2014 - Day 2 Photo Gallery" title="EDC Orlando 2014 - Day 2 Photo Gallery">
+												</div>
+												<div class="text"><p>EDC Orlando 2014 - Day 2 Photo Gallery</p></div>
+											</a>
+										</li>
+																	</ul>					
+							</div>
+						</div>
+					</div>
+				</li>
+
+				</ul>		
+				<div class="search clearfix">
+					<p>Search</p>
+					<div class="form-wrap">
+						<form method="get" id="searchform" action="http://wegotthiscovered.com/">
+							<input type="text" class="field" name="s" id="s" placeholder="Search">
+							<input type="submit" class="submit" name="submit" id="searchsubmit" value="">
+						</form>
+					</div>				
+				</div>	
+				
+				<div class="sticky-social">
+					<div class="social">
+						<a href="https://www.facebook.com/WeGotThisCovered" target="_blank" class="icon fb"></a>					
+						<a href="https://twitter.com/wgtc_site" target="_blank" class="icon tw"></a>
+						<a href="https://plus.google.com/+Wegotthiscovered/" target="_blank" class="icon gp"></a>
+						<a href="http://www.youtube.com/user/wgtcsite" target="_blank" class="icon yt"></a>
+						<a href="http://instagram.com/wgtcinsta" target="_blank" class="icon insta"></a>
+					</div>
+				</div>
+			</nav>		
+		</div>			
+	</div>
+</div>
+</div>
+<!--HEADER END-->
+<script>
+	jQuery(document).ready(function ($) {
+	    $('.js-hover-load').mouseover(function () {
+	        console.log('=================== hover ===================');
+	        var $this = $(this);
+	        var loaded = $this.attr('data-loaded');
+	        if (loaded != 'true') {
+
+	            $this.find('img[data-hover-load-src]').each(function(index, el) {
+	            	var $el = $(el)
+	                $el.attr('src', $el.attr('data-hover-load-src'));
+	            });
+
+	            $this.attr('data-loaded', 'true');
+	        }
+	    });
+	});
+</script>
+<div class="body-content static-page">
+	<div class="inner">		
+		<div class="main-column border-box">
+			<div class="static-page-wrap">
+				<div class="post">					
+									
+																			<div class="title">
+								<h1 class="c-orange">Privacy Policy</h1>
+							</div>
+							<div class="content"><p><img class="aligncenter size-full wp-image-48771" title="privacy-policy" src="http://cdn.wegotthiscovered.com/wp-content/uploads/privacy-policy.jpg" alt="privacy policy Privacy Policy" width="550"></p>
 <p>This is the web site of&nbsp;<em>We Got This Covered</em>.</p>
 <p>Our postal address is:</p>
 <p>Thornhill, Ontario L4J 8K8</p>
@@ -237,224 +1192,262 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <p>Readers can access this information by e-mail us at the above address.</p>
 <p>Readers can have this information corrected by sending us e-mail at the above address.</p>
 <p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at&nbsp;<a href="http://www.ftc.gov/ftc/complaint.htm">http://www.ftc.gov/ftc/complaint.htm</a>.</p>
+</div>	
+										
+									</div>	
+			</div>
+		</div>
+		<div class="sidebar-column">
+	<div class="the-sidebar">
+	
+	<div class="ad top">
+
+		<div id="1987694"><noscript><a href="http://ads.intergi.com/adlink|3.0|5205.1|1987694|0|170|ADTECH;loc=300;key=key1+key2+key3+key4;alias=" target="_blank"><img src="http://ads.intergi.com/adserv|3.0|5205.1|1987694|0|170|ADTECH;loc=300;key=key1+key2+key3+key4;alias=" border="0" width="300" height="250"></a></noscript></div>
+	<script>
+			jQuery(document).ready(function(){
+		lazyload_ad(1987694, 454758);
+});
+</script>	</div>
+	
+
+		<div class="podcast sidegal">
+			<div class="widget-title">Latest Gallery</div>
+						<a href="http://wegotthiscovered.com/gallery/gallery-8-surprising-good-films-2014/" class="content clearfix">
+				<div class="img-wrap gal-img-wrap">
 				
-	</div><!-- .entry-content -->
-</article><!-- #post-48476 -->
+				 
+					<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/x-men-days-of-future-past-x-men-dofp-gets-detailed-post-credits-scene-description-325x190.jpeg" alt="Gallery: 8 Surprisingly Good Movies From 2014" title="Gallery: 8 Surprisingly Good Movies From 2014">
+
+
+				</div>
+				<div class="text">
+					<h4>Gallery: 8 Surprisingly Good Movies From 2014</h4>
+				</div>
+			</a>
+			<a href="/gallery/" class="subscribe">
+				<p><span class="c-orange">Browse</span> our galleries</p>
+			</a>
+		</div>
+			
+				
+	
+		
+		
+		 <div class="newsletter">
+			<div class="widget-title"><a href="#" onclick="window.open('http://feedburner.google.com/fb/a/mailverify?uri=wgtcsite', 'popupwindow', 'scrollbars=yes,width=530,height=520');return true"><span>Sign up</span> for our Newsletter</a></div>
+		</div>
+		
+
+		<!-- <div style="margin: 10px 0; max-width: 550px;"><a data-width="100%" data-height="auto" id="ld-8064-590" href="http://lockerdome.com/6169491277094977/7257553361051674">We Got You Covered for the Holiday Season! Just complete the action items below for your chance t...</a><span id="ld-8064-590-equiv"> in <a href="http://lockerdome.com/6169491277094977">We Got This Covered&#x27;s Hangs</a> on <a href="http://lockerdome.com">LockerDome</a></span><script>(function(d,s,id,elid) {window.ldInit = window.ldInit || []; ldInit.push(elid);if (d.getElementById(id)) return;var js, fjs = d.getElementsByTagName(s)[0];js=d.createElement(s);js.id=id;js.async=true;js.src="//cdn2.lockerdome.com/_js/embed.js";fjs.parentNode.insertBefore(js,fjs);}(document, "script", "lockerdome-wjs", "ld-8064-590"));</script></div> -->
+		<div style="margin: 10px 0; max-width: 550px;"><a data-width="100%" data-height="auto" id="ld-5041-2547" href="http://lockerdome.com/6387957472968769">Check out Polls on LockerDome</a><span id="ld-5041-2547-equiv"> on <a href="http://lockerdome.com">LockerDome</a></span><script>(function(d,s,id,elid) {window.ldInit = window.ldInit || []; ldInit.push(elid);if (d.getElementById(id)) return;var js, fjs = d.getElementsByTagName(s)[0];js=d.createElement(s); js.id=id;js.async=true;js.src="//cdn2.lockerdome.com/_js/embed.js";fjs.parentNode.insertBefore(js,fjs);}(document, "script", "lockerdome-wjs", "ld-5041-2547"));</script></div>
+		
+				
+		<div class="secondary widget-area up sidebar-position-1" role="complementary">
+							<div id="sidebar">		<div class="widget-wrap">
+			<h2 class="widget-title">Hot Articles</h2>
+			<ul class="news current">
 
 				
-			</div><!-- #content .site-content -->
-		</div><!-- #primary .content-area -->
-
-		<div id="secondary" class="widget-area" role="complementary">
-
-			<!-- Multipage is 0 --><div id="ad_num_1" class="ads"></div>
-			<!-- ###General Sidebar Top### -->
-			<div id="socialbar" class="cf">
-<!-- 				<span class="cf">Follow us on our Social Networks!</span>
- -->
- 				<a rel="nofollow" target="_blank" class="rss-icon" href="http://feeds.feedburner.com/wgtcsite"></a>
- 				<a rel="nofollow" target="_blank" class="facebook-icon" href="http://facebook.com/WeGotThisCovered"></a>
-				<a rel="nofollow" target="_blank" class="twitter-icon" href="http://twitter.com/wgtc_site"></a>
-				<a rel="nofollow" target="_blank" class="googleplus-icon" href="https://plus.google.com/+Wegotthiscovered/"></a>
-				<a rel="nofollow" target="_blank" class="youtube-icon" href="http://www.youtube.com/user/Wgtcsite?sub_confirmation=1"></a>
-&nbsp;
-&nbsp;
-&nbsp;
-<h2 class="clearfix">Subscribe To Our Newsletter</h2>
-          <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=wgtcsite', 'popupwindow', 'scrollbars=yes,width=530,height=520');return true">
-            <div class="newsletter-form-wrapper cf">
-            <input class="input-newsletter-email" type="text" name="email" placeholder="Enter Your Email Address">
-            <input class="newsletter-submit" type="submit" value="Go"></div><input type="hidden" value="wgtcsite" name="uri" class="hidden"><input type="hidden" name="loc" value="en_US" class="hidden">
-          </form>
-			</div>
-
-			<div id="newsletter">
-
-			</div>
-
-			<!-- ###Homepage Sidebar### -->
-			
-
-			<div id="popular-posts" class="cf">
-				<h2>Today's Popular Posts</h2>
-				<!-- Wordpress Popular Posts Plugin v2.3.7 [SC] [daily] [views] [custom] -->
-<ul class="wpp-list">
-<li><a href="http://wegotthiscovered.com/movies/movies-completely-changed-one-scene/" title="13 Movies That Completely Changed In One Scene" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/Inglourious-Basterds2-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/movies/movies-completely-changed-one-scene/" title="13 Movies That Completely Changed In One Scene">13 Movies That Completely Changed In One Scene</a> </li>
-<li><a href="http://wegotthiscovered.com/movies/confusing-movies-huh/" title="11 Movies That Will Make You Go " huh?""="" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/The-Fountain-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/movies/confusing-movies-huh/" title="11 Movies That Will Make You Go " huh?""="">11 Movies That Will Make You Go "Huh?"</a> </li>
-<li><a href="http://wegotthiscovered.com/movies/nato-remys-stand-4/" title="Nato And Remy's Last Stand: Ten 2014 Horror Films To Look Forward To!" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/446671504_640-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/movies/nato-remys-stand-4/" title="Nato And Remy's Last Stand: Ten 2014 Horror Films To Look Forward To!">Nato And Remy's Last Stand: Ten 2014 Horror Films To Look Forward To!</a> </li>
-<li><a href="http://wegotthiscovered.com/movies/7-disappointing-movies-great/" title="8 Disappointing Movies That Should Have Been Great" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/prometheus-blog-47x47.jpeg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/movies/7-disappointing-movies-great/" title="8 Disappointing Movies That Should Have Been Great">8 Disappointing Movies That Should Have Been Great</a> </li>
-<li><a href="http://wegotthiscovered.com/movies/man-10-superheroes-films/" title="10 Superheroes Who Still Need Their Own Films" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/man-of-steel-box-office-opening-feature-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/movies/man-10-superheroes-films/" title="10 Superheroes Who Still Need Their Own Films">10 Superheroes Who Still Need Their Own Films</a> </li>
-<li><a href="http://wegotthiscovered.com/movies/5-movies-undeniably-hard-to-watch/" title="7 Movies That Are Incredibly Hard To Watch" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/A-Clockwork-Orange-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/movies/5-movies-undeniably-hard-to-watch/" title="7 Movies That Are Incredibly Hard To Watch">7 Movies That Are Incredibly Hard To Watch</a> </li>
-<li><a href="http://wegotthiscovered.com/movies/worst-comic-book-movies/" title="7 Comic Book Movies That Clearly Didn't Read Their Source Material" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/x-men_origins_wolverine_movie_image_hugh_jackman-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/movies/worst-comic-book-movies/" title="7 Comic Book Movies That Clearly Didn't Read Their Source Material">7 Comic Book Movies That Clearly Didn't Read Their Source Material</a> </li>
-<li><a href="http://wegotthiscovered.com/movies/10-good-films-ruined-terrible-twists/" title="11 Great Films Ruined By Terrible Plot Twists" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/2012_dark_knight_rises_0011-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/movies/10-good-films-ruined-terrible-twists/" title="11 Great Films Ruined By Terrible Plot Twists">11 Great Films Ruined By Terrible Plot Twists</a> </li>
-</ul>
-<!-- End Wordpress Popular Posts Plugin v2.3.7 -->
-			</div>
-
-			<div id="popular-video-posts" class="cf">
-				<h2>Today's Popular Videos</h2>
-				<!-- Wordpress Popular Posts Plugin v2.3.7 [SC] [daily] [views] [custom] -->
-<ul class="wpp-list">
-<li><a href="http://wegotthiscovered.com/movies/exclusive-video-interview-jack-reynor-nicola-peltz-transformers-age-extinction/" title="Exclusive Video Interview With Jack Reynor And Nicola Peltz On Transformers: Age Of Extinction" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/vlcsnap-2014-06-17-01h41m26s64-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/movies/exclusive-video-interview-jack-reynor-nicola-peltz-transformers-age-extinction/" title="Exclusive Video Interview With Jack Reynor And Nicola Peltz On Transformers: Age Of Extinction">Exclusive Video Interview With Jack Reynor And Nicola Peltz On Transformers: Age Of Extinction</a> </li>
-<li><a href="http://wegotthiscovered.com/movies/22-jump-street-interview-channing-tatum-jonah-hill-phil-lord-chris-miller/" title="Exclusive Video Interview With The Directors And Cast Of 22 Jump Street" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/vlcsnap-2014-06-10-19h55m38s194-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/movies/22-jump-street-interview-channing-tatum-jonah-hill-phil-lord-chris-miller/" title="Exclusive Video Interview With The Directors And Cast Of 22 Jump Street">Exclusive Video Interview With The Directors And Cast Of 22 Jump Street</a> </li>
-<li><a href="http://wegotthiscovered.com/movies/exclusive-video-interview-robert-pattinson-guy-pearce-david-michd-rover/" title="Exclusive Video Interview With Robert Pattinson, Guy Pearce And David Michôd On The Rover" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/vlcsnap-2014-06-14-17h14m12s106-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/movies/exclusive-video-interview-robert-pattinson-guy-pearce-david-michd-rover/" title="Exclusive Video Interview With Robert Pattinson, Guy Pearce And David Michôd On The Rover">Exclusive Video Interview With Robert Pattinson, Guy Pearce And David Michôd On The Rover</a> </li>
-<li><a href="http://wegotthiscovered.com/movies/exclusive-video-interview-brenton-thwaites-signal/" title="Exclusive Video Interview With Brenton Thwaites On The Signal" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/vlcsnap-2014-06-13-08h43m54s68-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/movies/exclusive-video-interview-brenton-thwaites-signal/" title="Exclusive Video Interview With Brenton Thwaites On The Signal">Exclusive Video Interview With Brenton Thwaites On The Signal</a> </li>
-<li><a href="http://wegotthiscovered.com/movies/exclusive-video-interview-georgie-henley-stanley-brooks-perfect-sisters/" title="Exclusive Video Interview With Georgie Henley And Stanley M. Brooks On Perfect Sisters" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/vlcsnap-2014-04-10-23h08m20s95_2-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/movies/exclusive-video-interview-georgie-henley-stanley-brooks-perfect-sisters/" title="Exclusive Video Interview With Georgie Henley And Stanley M. Brooks On Perfect Sisters">Exclusive Video Interview With Georgie Henley And Stanley M. Brooks On Perfect Sisters</a> </li>
-</ul>
-<!-- End Wordpress Popular Posts Plugin v2.3.7 -->
-			</div>
-			
-			<!-- Multipage is 0 --><div id="ad_num_2" class="ads"></div>
-	<div id="popular-video-posts" class="cf">
-				<h2>Today's Popular Galleries</h2>
-				<!-- Wordpress Popular Posts Plugin v2.3.7 [SC] [daily] [views] [custom] -->
-<ul class="wpp-list">
-<li><a href="http://wegotthiscovered.com/gallery/wolf-wall-street-gallery/" title="The Wolf Of Wall Street Gallery" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/wolf-of-wall-street04-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/gallery/wolf-wall-street-gallery/" title="The Wolf Of Wall Street Gallery">The Wolf Of Wall Street Gallery</a> </li>
-<li><a href="http://wegotthiscovered.com/gallery/watch-dogs-gallery/" title="Watch Dogs Gallery" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/Watch-Dogs-Game-Wallpaper-1280x720-620x348-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/gallery/watch-dogs-gallery/" title="Watch Dogs Gallery">Watch Dogs Gallery</a> </li>
-<li><a href="http://wegotthiscovered.com/gallery/xmen-days-future-gallery/" title="X-Men: Days Of Future Past Gallery" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/x-men-days-of-future-past-michael-fassbender3-600x399-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/gallery/xmen-days-future-gallery/" title="X-Men: Days Of Future Past Gallery">X-Men: Days Of Future Past Gallery</a> </li>
-<li><a href="http://wegotthiscovered.com/gallery/edge-tomorrow-gallery/" title="Edge Of Tomorrow Gallery" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/edge-of-tomorrow-8-600x379-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/gallery/edge-tomorrow-gallery/" title="Edge Of Tomorrow Gallery">Edge Of Tomorrow Gallery</a> </li>
-<li><a href="http://wegotthiscovered.com/gallery/killzone-shadow-fall-gallery/" title="Killzone: Shadow Fall Gallery" target="_self"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/killzone_shadow_fall-1-639x3601-47x47.jpg" alt="" border="0" width="47" height="47" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a> <a href="http://wegotthiscovered.com/gallery/killzone-shadow-fall-gallery/" title="Killzone: Shadow Fall Gallery">Killzone: Shadow Fall Gallery</a> </li>
-</ul>
-<!-- End Wordpress Popular Posts Plugin v2.3.7 -->
-			</div>
-
-			<!-- ###News Category Sidebar### -->
-			
-
-
-
-			<!-- ###General Sidebar Bottom### -->
-
-			<div id="facebookheader">
-				<span>Find Us On Facebook</span>
-			</div>
-			<div id="facebookbox">
-				<div class="fb-like-box" data-href="http://www.facebook.com/wegotthiscovered" data-height="190" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>
-			</div>
-
-												
-			<!-- Multipage is 0 --><div id="ad_num_3" class="ads"></div>
-
-<div id="popular-posts" class="cf">
-<span>Hot Stories From Around The Web</span><div id="zergnet-widget-16867" style="text-align:center;">
-	<a href="http://www.zergnet.com/?w=16867" target="_blank"><b>ZergNet</b></a>
+										<li class="new gaming">
+						<a href="http://wegotthiscovered.com/gaming/11-disappointing-games-2014/">		
+							<div class="img-wrap">
+							<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/WGTC-Most-Disappointing-Games-100x100.jpg" alt="We Got This Covered’s 11 Most Disappointing Games Of 2014" title="We Got This Covered’s 11 Most Disappointing Games Of 2014">
+							</div>					
+							<div class="text">									
+								<h4 class="title">We Got This Covered’s 11 Most Disappointing Games Of 2014</h4>
+							</div>
+						</a>
+					</li>
+				
+										<li class="new movies">
+						<a href="http://wegotthiscovered.com/movies/covereds-movie-moments-2014/">		
+							<div class="img-wrap">
+							<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/Birdman-100x100.jpg" alt="The 19 Best Movie Moments Of 2014" title="The 19 Best Movie Moments Of 2014">
+							</div>					
+							<div class="text">									
+								<h4 class="title">The 19 Best Movie Moments Of 2014</h4>
+							</div>
+						</a>
+					</li>
+				
+										<li class="new movies">
+						<a href="http://wegotthiscovered.com/movies/nazis-thrills-wolves-the-13-best-horror-movies-of-2014/">		
+							<div class="img-wrap">
+							<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/Top13Horror2014-100x100.jpg" alt="Nazis, Cheap Thrills, And Big Bad Wolves: The 13 Best Horror Movies Of 2014" title="Nazis, Cheap Thrills, And Big Bad Wolves: The 13 Best Horror Movies Of 2014">
+							</div>					
+							<div class="text">									
+								<h4 class="title">Nazis, Cheap Thrills, And Big Bad Wolves: The 13 Best Horror Movies Of 2014</h4>
+							</div>
+						</a>
+					</li>
+				
+										<li class="new movies">
+						<a href="http://wegotthiscovered.com/movies/top-10-movie-trailers-of-2014/">		
+							<div class="img-wrap">
+							<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/inherent-vice-100x100.jpg" alt="The Top 10 Movie Trailers Of 2014" title="The Top 10 Movie Trailers Of 2014">
+							</div>					
+							<div class="text">									
+								<h4 class="title">The Top 10 Movie Trailers Of 2014</h4>
+							</div>
+						</a>
+					</li>
+				
+										<li class="new gaming">
+						<a href="http://wegotthiscovered.com/gaming/we-got-this-covereds-top-10-video-games-of-2014/">		
+							<div class="img-wrap">
+							<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/GotY_2-100x100.jpg" alt="We Got This Covered’s Top 10 Video Games Of 2014" title="We Got This Covered’s Top 10 Video Games Of 2014">
+							</div>					
+							<div class="text">									
+								<h4 class="title">We Got This Covered’s Top 10 Video Games Of 2014</h4>
+							</div>
+						</a>
+					</li>
+				
+										<li class="new movies">
+						<a href="http://wegotthiscovered.com/movies/biggest-surprises-cinema-2014/">		
+							<div class="img-wrap">
+							<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/the-interview-poster-100x100.jpg" alt="10 Things That Surprised Us At The Movies In 2014" title="10 Things That Surprised Us At The Movies In 2014">
+							</div>					
+							<div class="text">									
+								<h4 class="title">10 Things That Surprised Us At The Movies In 2014</h4>
+							</div>
+						</a>
+					</li>
+				
+										<li class="new movies">
+						<a href="http://wegotthiscovered.com/movies/isaac-feldbergs-15-worst-movies-2014/">		
+							<div class="img-wrap">
+							<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/godzilla-11-100x100.jpg" alt="Isaac Feldberg’s 15 Worst Movies Of 2014" title="Isaac Feldberg’s 15 Worst Movies Of 2014">
+							</div>					
+							<div class="text">									
+								<h4 class="title">Isaac Feldberg’s 15 Worst Movies Of 2014</h4>
+							</div>
+						</a>
+					</li>
+				
+										<li class="new movies">
+						<a href="http://wegotthiscovered.com/movies/matt-donatos-top-20-films-of-2014/">		
+							<div class="img-wrap">
+							<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/Top202014-100x100.jpg" alt="Hooked On A Feeling: Matt Donato’s Top 20 Films Of 2014" title="Hooked On A Feeling: Matt Donato’s Top 20 Films Of 2014">
+							</div>					
+							<div class="text">									
+								<h4 class="title">Hooked On A Feeling: Matt Donato’s Top 20 Films Of 2014</h4>
+							</div>
+						</a>
+					</li>
+				
+			</ul>
+		</div>
+		
+		</div>
+					</div>
+		<div class="ad bottom">
+				<div id="3254574"><noscript><a href="http://ads.intergi.com/adlink|3.0|5205.1|3254574|0|170|ADTECH;loc=300;key=key1+key2+key3+key4;alias=" target="_blank"><img src="http://ads.intergi.com/adserv|3.0|5205.1|3254574|0|170|ADTECH;loc=300;key=key1+key2+key3+key4;alias=" border="0" width="300" height="250"></a></noscript></div>
+	<script>
+			jQuery(document).ready(function(){
+		lazyload_ad(3254574, 700077);
+});
+</script>		</div>
+		<div class="secondary widget-area down" role="complementary">
+							<div id="sidebar">		<div class="widget-wrap">
+			<h2 class="widget-title">Upcoming Releases</h2>
+			<ul class="news current">
+				<!-- --><li class="new taken 3">  <a href="/tag/Taken-3">		
+										<div class="img-wrap">
+											<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/Taken_3_67384-100x100.jpg" alt="Taken 3" title="Taken 3">
+										</div>					
+										<div class="text">									
+											<h4 class="title">Taken 3</h4><span class="widget-release-date">January 9th, 2015</span>						
+										</div>
+									</a></li><li><!-- --></li><li class="new paddington">  <a href="/tag/Paddington">		
+										<div class="img-wrap">
+											<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/paddington-teaser-poster-100x100.jpg" alt="Paddington" title="Paddington">
+										</div>					
+										<div class="text">									
+											<h4 class="title">Paddington</h4><span class="widget-release-date">January 16th, 2015</span>						
+										</div>
+									</a></li><li><!-- --></li><li class="new the wedding ringer">  <a href="/tag/The-Wedding-Ringer">		
+										<div class="img-wrap">
+											<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/weddingringer-100x100.jpg" alt="The Wedding Ringer" title="The Wedding Ringer">
+										</div>					
+										<div class="text">									
+											<h4 class="title">The Wedding Ringer</h4><span class="widget-release-date">January 16th, 2015</span>						
+										</div>
+									</a></li><li><!-- --></li><li class="new mortdecai">  <a href="/tag/Mortdecai">		
+										<div class="img-wrap">
+											<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/mortdecai-johnny-depp-01-636-380-100x100.jpg" alt="Mortdecai" title="Mortdecai">
+										</div>					
+										<div class="text">									
+											<h4 class="title">Mortdecai</h4><span class="widget-release-date">January 23rd, 2015</span>						
+										</div>
+									</a></li><li><!-- --></li><li class="new dying light">  <a href="/tag/Dying-Light">		
+										<div class="img-wrap">
+											<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/dyinglightdockets-100x100.jpg" alt="Dying Light" title="Dying Light">
+										</div>					
+										<div class="text">									
+											<h4 class="title">Dying Light</h4><span class="widget-release-date">January 30th, 2015</span>						
+										</div>
+									</a></li><li><!-- --></li><li class="new evolve">  <a href="/tag/Evolve">		
+										<div class="img-wrap">
+											<img src="http://cdn.wegotthiscovered.com/wp-content/uploads/Evolve3-100x100.jpg" alt="Evolve" title="Evolve">
+										</div>					
+										<div class="text">									
+											<h4 class="title">Evolve</h4><span class="widget-release-date">February 10th, 2015</span>						
+										</div>
+									</a></li><li>			</li></ul>
+		</div>
+		
+		</div>
+					</div>		
+		
+					
+		
+	</div>
+	<div id="sidebar-reached-end"></div>
 </div>
 
-<script language="javascript" type="text/javascript">
-	(function() {
-		var zergnet = document.createElement('script'); 
-		zergnet.type = 'text/javascript'; zergnet.async = true;
-		zergnet.src = 'http://www.zergnet.com/zerg.js?id=16867';
-		var znscr = document.getElementsByTagName('script')[0]; 
-		znscr.parentNode.insertBefore(zergnet, znscr);
-	})();
-</script></div>
-			
 
+	</div>
+</div>
+<div class="clear"></div>
 
-		</div><!-- #secondary .widget-area -->
-  </section><!-- #contentwrap -->
-
-  <footer id="colophon" role="contentinfo">
-    <div id="mbp">
-      <p>Copyright <span class="copyright">©</span> 2014 WeGotThisCovered. All rights reserved.</p>
-    </div>
-    <!-- <ul id="footer-menu">
-      <li><a href="#">About &amp; Advertising</a></li>
-      <li><a href="#">Contact Us</a></li>
-      <li><a href="#">Write for Us</a></li>
-      <li><a href="#">Privacy Policy</a></li>
-      <li><a href="#">Report A Bug</a></li>
-      <li class="nob"><a href="#">Links</a></li>
-    </ul> -->
-
-    <ul><li class="page_item page-item-2"><a href="http://wegotthiscovered.com/about/">About &amp; Advertising</a></li>
-<li class="page_item page-item-9617"><a href="http://wegotthiscovered.com/contact-2/">Contact</a></li>
-<li class="page_item page-item-48476 current_page_item"><a href="http://wegotthiscovered.com/privacy-policy/">Privacy Policy</a></li>
-<li class="page_item page-item-125944"><a href="http://wegotthiscovered.com/write/">Want To Write For Us?</a></li>
-<li class="page_item page-item-321271"><a href="http://wegotthiscovered.com/report-bug/">Report A Bug</a></li>
-</ul>
-  </footer><!-- #colophon .site-footer -->
-</div><!-- #sitewrap -->
-
-</div> <!-- Close cmn_wrap -->
-<script>
-$(function () {
-  $('#post-pagination a').click(function(){
-    $(this).closest("iframe").remove();
-  });
+<div class="footer-ad">
+	<div class="inner">
+		<div class="advertWrap">
+			<div class="advert">	
+					<div id="3254575"><noscript><a href="http://ads.intergi.com/adlink|3.0|5205.1|3254575|0|170|ADTECH;loc=300;key=key1+key2+key3+key4;alias=" target="_blank"><img src="http://ads.intergi.com/adserv|3.0|5205.1|3254575|0|170|ADTECH;loc=300;key=key1+key2+key3+key4;alias=" border="0" width="300" height="250"></a></noscript></div>
+	<script>
+			jQuery(document).ready(function(){
+		leaderboard_ad(3254575, 454758);
 });
-</script>
-
+</script>			</div>
+		</div>	
+	</div>
+</div>
+<!--FOOTER START-->
+<div class="footer">	
+	<div class="inner">
+    </div>
+</div>
+<!--FOOTER END-->
 
 
 <!-- Begin comScore Tag -->
-<script>document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
 <script>
-  COMSCORE.beacon({
-    c1:2,
-    c2:6685975,
-    c3:"",
-    c4:"wegotthiscovered.com/privacy-policy/",
-    c5:"",
-    c6:"",
-    c15:""
-  });
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6035334" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
 </script>
-<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6685975&c3=&c4=&c5=&c6=&c15=&cj=1" /></noscript>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035334&cv=2.0&cj=1" />
+</noscript>
 <!-- End comScore Tag -->
 
-<script type="text/javascript">
-  var _qevents = _qevents || [];
-
-  (function() {
-   var elem = document.createElement('script');
-
-   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-   elem.async = true;
-   elem.type = "text/javascript";
-   var scpt = document.getElementsByTagName('script')[0];
-   scpt.parentNode.insertBefore(elem, scpt);
-  })();
-</script>
-
-<script type="text/javascript">
-_qevents.push( { qacct:"p-a0gOdUACucKCE"} );
-</script>
-
-<noscript>
-<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-a0gOdUACucKCE.gif" height="1" width="1" alt="Quantcast"/></div>
-</noscript>
-
-<!-- AddThis Pro BEGIN -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=mattjo"></script>
-<!-- AddThis Pro END -->
-
-
-		<!-- /// LOAD CHARTBEAT /// -->
-		<script type="text/javascript">
-		var _sf_async_config={};
-		_sf_async_config.uid = 66858;
-		_sf_async_config.useCanonical = true;
-					_sf_async_config.domain = 'wegotthiscovered.com';
-			
-		(function(){
-		  function loadChartbeat() {
-			window._sf_endpt=(new Date()).getTime();
-			var e = document.createElement('script');
-			e.setAttribute('language', 'javascript');
-			e.setAttribute('type', 'text/javascript');
-			e.setAttribute('src',
-			   (("https:" == document.location.protocol) ? "https://" : "http://") +
-			   "static.chartbeat.com/js/chartbeat.js");
-			document.body.appendChild(e);
-		  }
-		  var oldonload = window.onload;
-		  window.onload = (typeof window.onload != 'function') ?
-			 loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
-		})();
-		</script>
-		    <script type="text/javascript">
+    <script type="text/javascript">
     // <![CDATA[
         var disqus_shortname = 'wegotthiscovered';
         (function () {
@@ -470,20 +1463,106 @@ _qevents.push( { qacct:"p-a0gOdUACucKCE"} );
             }
             var s = document.createElement('script'); s.async = true;
             s.type = 'text/javascript';
-            s.src = '//' + 'disqus.com/forums/' + disqus_shortname + '/count.js';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
             (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
         }());
     //]]>
     </script>
+<script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc_v2/js/wgtc-gallery.js?ver=0.1.8"></script>
+<script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc_v2/js/jquery.ba-hashchange.min.js?ver=1.3"></script>
+<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js?ver=4.0.1"></script>
 <script type="text/javascript" src="http://wegotthiscovered.com/wp-content/plugins/wgtc-galleries/js/softload.min.js?ver=1.0.0"></script>
+    <script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc_v2/js/jquery/jquery.cookie.js"></script>
+    <script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc_v2/js/jquery/jquery.tweet.js"></script>
+    <script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc_v2/js/jquery/jquery.localscroll.js"></script>
+    <!-- Include al jQuery effects: //jquery.face3.js -->
+   
+    <link rel="stylesheet" href="http://wegotthiscovered.com/wp-content/themes/wgtc_v2/js/bxslider/jquery.bxslider.css" type="text/css" media="all">
+    <link rel="stylesheet" href="http://wegotthiscovered.com/wp-content/themes/wgtc_v2/responsive.css">
+    <script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc_v2/js/jquery/jquery.bxslider.js"></script>
+    <script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc_v2/js/lazyload/lazyload.min.js"></script>
+  	<script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc_v2/js/jquery/jquery.jcarousel-core.min.js"></script>
+  	<script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc_v2/js/jquery/jquery.viewport.js"></script>
+    <script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc_v2/js/face3.functions.js"></script>
+	<script type="text/javascript" src="http://cdn.wegotthiscovered.com/wp-content/themes/wgtc_v2/js/face3.js?v=4.67"></script>
+    <script type="text/javascript" src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/1.7/modernizr-1.7.min.js"></script>
+	<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '9F2BB38562494FEA';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+	<script>
+		jQuery(document).ready(function($){
+			
+			setTimeout(function() {									// set time delay on container loading
+	   		
+	   			if(jQuery('#flash_banner').length > 0) { 
+		   			jQuery("#mainHeader").css("margin-top", "-112px");
+		   		}
+					
+	   		}, 3000);												// defines time delay at 2s
+
+		});
+	</script>
+<script>
+	(function() {
+
+		/**
+		 * loadAd
+		 * @param el mixed DOMElement, selector string or jQuery Element of ad container
+		 * @param id int Ad identifier
+		 * @param format string '728x90', '300x250' or 'skin', calls <theme>/ads/generic-<format>.php
+		 */
+		var loadAd = function(el, id, format) {
+			if (typeof postscribe !== 'undefined') {
+				var dimensions;
+				format = typeof format === 'string' ? format : 'leaderboard';
+				if (format === '728x90') {
+					dimensions = '225';
+				}
+				else if (format === '300x250') {
+					dimensions = '170';
+				}
+				else {
+					dimensions = '16';
+				}
+
+				var $el = jQuery(el);
+				if ($el.length > 0) {
+					// clean up custom CSS if refreshing leaderboard ad
+					if (format === '728x90') {
+						jQuery('body,#mainHeader').removeAttr('style');
+					}
+					$el.children().hide();
+					postscribe(jQuery('<div>').appendTo($el), '<scr'+'ipt src="http://ads.intergi.com/addyn/3.0/5205/' + id + '/0/' + dimensions + '/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=123;misc=' + new Date().getTime() +'"></scr'+'ipt>', {
+						error: function(e) {console.log(e);}
+					});
+				}
+			}
+		};
 
 
+
+		window.WGTC = window.WGTC || {};
+		window.WGTC.loadAd = loadAd;
+	})();
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"e49df62dab","applicationID":"3031783","transactionName":"M1xUNkECXkBQAEAPXwoWdwFHCl9dHhNVAVU=","queueTime":0,"applicationTime":477,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using disk: enhanced
-Database Caching 1/50 queries in 0.439 seconds using disk
-Object Caching 1989/2000 objects using disk
+Database Caching 227/323 queries in 0.048 seconds using disk
+Object Caching 6462/6475 objects using disk
 Content Delivery Network via cdn.wegotthiscovered.com
 
- Served from: wegotthiscovered.com @ 2014-06-24 22:15:20 by W3 Total Cache --><script language="javascript" type="text/javascript" src="https://static.chartbeat.com/js/chartbeat.js"></script></body></html>
+ Served from: wegotthiscovered.com @ 2014-12-31 13:56:52 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
