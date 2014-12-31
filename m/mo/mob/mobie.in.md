@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobie.in privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223112104id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobie.in privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231153223id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XtGem.com — Visual mobile site building tool
 
@@ -21,4 +21,4 @@ XTGEM service user understands and agrees that the risks related to the submissi
 
 Also the log in name of an XTGEM service user may be shown to other XTGEM service users when the user sends or uploads information on XTGEM website and so other service users who receive this information may contact the user by writing messages or using XTGEM services.
 
-© 2013 xtgem.com 
+© 2014 xtgem.com 
