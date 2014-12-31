@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversdownloadhub.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218105545id_/http%3A//www.driversdownloadhub.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversdownloadhub.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231145339id_/http%3A//www.driversdownloadhub.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,9 +34,3 @@ Links to other sites may appear on this website. If you are directed outside of 
 Agreement**
 
 If you are a customer of our products, have engaged in a free download on this website or have participated in anything else under this domain you have accepted our actions conducive to this privacy policy. Your personal information will be protected and used as described above.
-
-[ ](http://driversdownloadhub.com/driversd1.php?2 "Free Download!")
-
-[Download DriverCure Absolutely FREE!](http://driversdownloadhub.com/driversd1.php?2)
-
-**Download DriverCure for free and upgrade all your drivers automatically!**
