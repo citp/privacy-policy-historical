@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626150006id_/http%3A//about.abc.net.au/abc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231193740id_/http%3A//about.abc.net.au/abc-privacy-policy) for the most accurate reproduction.*
 
 # ABC Privacy Policy | About the ABC
 
@@ -32,7 +32,7 @@ The APPs do not apply to acts done, or practices engaged in, by the ABC in relat
 
 This policy applies only to the ABC. It does not apply to any other company or organisation, including those whose digital services have links to ABC content or services. Third party services which have links to ABC content or services will govern the use of personal information you submit to them, which may also be collected by cookies when you visit or use them. We do not accept any responsibility or liability for the privacy practices of such third party digital services.
 
-This policy applies to ABC Shops. The ABC Shop is a multichannel retailer with stores Australia-wide, and includes online shopping at [www.abcshop.com.au](http://www.abcshop.com.au/).
+This policy applies to ABC Shops. The ABC Shop is a multichannel retailer with stores Australia-wide, and includes online shopping at <https://shop.abc.net.au/>.
 
 The ABC will review this policy regularly, and may update it from time to time. If we make changes, we will post those changes on the privacy page of the ABC’s website.
 
