@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110741id_/http%3A//www.forbes.com/fdc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231094016id_/http%3A//www.forbes.com/fdc/privacy.html) for the most accurate reproduction.*
 
 # Forbes.com Privacy Statement
 
 ### FORBES.COM PRIVACY STATEMENT
 
-_Revised and posted as of: July 17, 2013_
+_Revised and posted as of: September 11, 2014_
 
 Forbes.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Forbes.com website and services. The Forbes.com website is owned and operated by Forbes.com LLC.
 
@@ -100,7 +100,7 @@ We offer widgets that are hosted on Forbes.com, like our embeddable video player
 
 Forbes.com derives the majority of its revenue from advertising and sharing information is essential to keeping our services affordable to users. In order to attract and retain advertisers we use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. We do not disclose personally identifying information about our users to these parties.
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/), or if located in the European Union [clicking here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 #### As Necessary to Provide Services to You
 
@@ -116,11 +116,11 @@ Forbes.com may disclose your personal information if required to do so by law or
 
 #### _Security_
 
-Your information is stored on Forbes.com's servers located in the United States. We use industry standard procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, "firewalls" and the Secure Sockets Layer (SSL). We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet.
+Your information is stored on Forbes.com's servers located in the United States. We use industry standard procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy. We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet.
 
 #### _Privacy of Children_
 
-Kids under 13: Do not send any information about yourself to us--including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
+Kids under 13: Do not send any information about yourself to us--including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 we will delete that information from our database as quickly as possible.
 
 #### _How to Contact Us_
 
