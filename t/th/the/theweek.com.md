@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theweek.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630073231id_/http%3A//theweek.com/home/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweek.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231172352id_/http%3A//theweek.com/home/info/privacy) for the most accurate reproduction.*
 
 # The Week Magazine - News reviews and opinion, arts, entertainment & political cartoons
 
