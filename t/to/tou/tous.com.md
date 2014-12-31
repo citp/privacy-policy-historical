@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tous.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514061234id_/http%3A//www.tous.com/info/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tous.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231060106id_/http%3A//www.tous.com/info/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy policy
 
