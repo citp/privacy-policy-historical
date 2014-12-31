@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoeskitchen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074109id_/http%3A//zoeskitchen.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoeskitchen.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231233947id_/http%3A//zoeskitchen.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Zoes Kitchen - privacy policy
 
