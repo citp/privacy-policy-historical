@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acnestudios.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024133id_/http%3A//www.acnestudios.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnestudios.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231154023id_/http%3A//www.acnestudios.com/legal-privacy) for the most accurate reproduction.*
 
 # Acne Studios - Privacy Policy Shop Ready to Wear, Accessories, Shoes and Denim for Men and Women
 
@@ -25,7 +25,7 @@ Acne Studios uses appropriate security measures to protect the information you p
 ## Accuracy and retention
 
 You are entitled to request access to and correction of all personal data you provide us, or to remove your name from Acne Studios ’s marketing list at any time by contacting our customer service at +46 8 551 194 00 or by contacting us by email shop@acnestudios.com or mailing address listed below. If you are registered with Acne Studios on our website and would like us to remove you from our marketing list, please login to you private account and click on this unsubscribe link.  
-[Login to your account](http://www.acnestudios.com/customer/account/login/)
+[Login to your account](https://www.acnestudios.com/customer/account/login/)
 
 ## About cookies
 
