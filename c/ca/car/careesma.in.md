@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careesma.in privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021543id_/http%3A//www.careesma.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careesma.in privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231170038id_/http%3A//www.careesma.in/privacy) for the most accurate reproduction.*
 
 # Careesma.in - Finding a job has never been so easy!
 
@@ -41,7 +41,8 @@ Go to Top
 ### Legal Addresses
 
 INTERCOM WORLD WIDE S.L.  
-08190 Sant Cugat del Vallés, Spain  
+Av. Alcalde Barnils 64-68, Ed. D  
+08174 Sant Cugat del Vallès (Barcelona)  
 T. 37561, F.107, H.B 303877.   
 VAT: ES-B63.809.503  
 Registered on 2005, 24th May
