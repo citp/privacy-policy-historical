@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the activebuilding.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111647id_/http%3A//www.realpage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activebuilding.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231052831id_/http%3A//www.realpage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
 ### RealPage, Inc. Corporate Privacy Policy
 
-Last updated February 14, 2014
+Last updated August 5, 2014
 
 RealPage, Inc. (“RealPage”) is committed to providing our product and service users with clear and concise information regarding our privacy policy and practices. This Privacy Policy describes in detail our policy and practices regarding the collection, use, and disclosure of user information by the [RealPage family of companies, products, and services](http://www.realpage.com/company/). By accessing our websites or utilizing our products and services, you consent to the information collection and handling practices outlined in this policy.
 
@@ -38,7 +38,7 @@ Certain RealPage products, services, and websites are aligned with the senior ma
 
 When you access our websites, products, and services, RealPage servers may place small text files (“cookies”) on your computer for recordkeeping purposes. Among other things, cookies enable RealPage to gather information about your activity on our websites, products, and services for the purposes of improving your online experience, remembering your preferences and settings, delivering advertising to match your preferences and interests, and for other similar customization purposes.
 
-In addition to cookies, RealPage may utilize web beacons, clear gifs, or other technologies built into our websites, products and services to gather information on how users interact with and utilize various features. These technologies can help personalize your RealPage usage experience and help associate your interactions with our products and services to other information within your account. For example, these technologies can identify popular pages, viewing patterns, click-through, conversion rates, and other information that can be used to improve, monitor, and operate our websites, products, and services.
+In addition to cookies, RealPage may utilize web beacons, clear gifs, or other technologies built into our websites, products and services to gather information on how users interact with and utilize various features. These technologies can help personalize your RealPage usage experience and help associate your interactions with our products and services to other information within your account. For example, these technologies can identify popular pages, viewing patterns, click-through, conversion rates, and other information that can be used to improve, monitor, and operate our websites, products, and services. For greater detail on how these technologies function and how your activity records are used, please review the Google Analytics privacy disclosures at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/).
 
 Most internet browsers provide controls that allow users to manage or disable the placement and usage of cookies on their computer. Please note that disabling cookies may deactivate or otherwise restrict certain features on RealPage websites, products, and services. To opt out of any behavioral advertising and tracking cookies, please go to <http://www.aboutads.info/choices> to submit your do not track request.
 
