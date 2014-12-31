@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdbank.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628023533id_/http%3A//www.tdbank.com/bank/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdbank.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231025244id_/http%3A//www.tdbank.com/bank/privacy_and_security.html) for the most accurate reproduction.*
 
 # Protecting Your Privacy
 
