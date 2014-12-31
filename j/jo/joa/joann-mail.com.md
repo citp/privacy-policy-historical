@@ -1,84 +1,242 @@
-> *The following text is extracted and transformed from the joann-mail.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004055337id_/http%3A//joann-mail.com/MSC_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joann-mail.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231161726id_/https%3A//www.joann.com/privacy-policy.html) for the most accurate reproduction.*
 
-# MSC - Privacy Policy
+# Privacy Policy
 
-## The Marketing Software Company Privacy Commitment
+### Privacy Policy
 
-Marketing Software Company (MSC) is a direct marketing leader in traditional and interactive direct marketing data processing. As a service bureau, MSC provides end-to-end customer-centric solutions for select direct marketing clients who, themselves, compile or rent lists in order to market goods and services to consumers (BTC-marketing) and businesses (BTB-marketing).
+At Jo-Ann Fabric and Craft Stores™, your trust and satisfaction is our top priority. We know your privacy is very important, and that is why we take special care to safeguard the confidentiality and security of your information. This Privacy Policy is intended to inform you of our policies and practices regarding our use and disclosure of the information that you submit to us and that we collect from you through our web site and mobile applications.
 
-MSC is committed to the security and privacy of individuals and businesses whose data is provided to us, personally or through data comptrollers. We respect the rights of those who wish to remain anonymous while searching this web site. We understand and support the rights of individuals to have control of how their personal information is collected and used.
+Whenever we use the words "we" or "us" or "Jo-Ann," we are referring to Jo-Ann Stores LLC (doing business as Jo-Ann Fabric and Craft Stores™), and to Joann.com LLC, which is a wholly owned subsidiary of Jo-Ann Stores LLC. Whenever we use the words "our web site," we are referring to [http://www.joann.com](http://www.joann.com/).
 
-## Our national headquarters are located at:
+This Privacy Policy is divided into the following sections:
 
-          Marketing Software Company (MSC)  
-          6200 Canoga Ave #102  
-          Woodland Hills CA 91367-2429  
-          USA
+  1. Definitions
+  2. Consent
+  3. How and Why We Collect Personal Information
+  4. How We Use Personal Information
+  5. Our Disclosure of Your Personal Information
+  6. Advertising
+  7. Social Network Widgets
+  8. Mobile Applications
+  9. How You Can Stop Receiving Communications
+  10. Information From Children Under 13
+  11. Links to Other Web Sites
+  12. Security
+  13. Your California Privacy Rights
+  14. How You Can Reach Us
+  15. How to Request Access to, or the Correction of, Your Personal Information
+  16. Revisions to the Privacy Policy
 
-We can be reached via e-mail at info@mscnet.com or you can reach us by telephone at (818) 346-1600.
 
-## Compliance with U.S. Industry Standards
 
-MSC voluntarily complies with and supports the Online Privacy Principles and Guidelines of the U.S. Direct Marketing Association (www.the-dma.org). MSC adheres to The DMA Privacy Promise to the American Consumer.
+* * *
 
-## Information Provided to MSC for MSC Use
+## **1\. Definitions**
 
-We have constructed the MSC Web site so that you may visit the site without identifying yourself or revealing any personal information. It is not necessary to enter personal information or register to browse the MSC Web site.
+"De-identified Information" means information that is no longer associated with you, or linked to your Personal Information (as defined below). De-identified Information does not reference the identities of individual persons.
 
-However, if you wish to view a demo, request a white paper or submit a question to MSC, you may be required to provide your name, business name and/or personal information for follow-up. MSC collects personal, visitor information from our Web site that is consistent with fulfilling the marketing information requested. If you provide MSC with personal information through this Web site, we may use the information to contact you regarding our products and services.
+"Cookies" are small pieces of information that a web site, including our web site, sends to your computer or to your mobile device while you are viewing a web site. We use both session Cookies (which expire after you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personalized and interactive experience on our web site. Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to disable Cookies, some areas of our web site may not work properly.
 
-## Information Provided to MSC for Client Use
+An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. In some cases, your IP Address stays the same from browser session to browser session, but if you use a consumer internet service provider, your IP Address probably varies from session to session. We track IP Addresses in conjunction with session cookies to analyze our web page traffic flow.
 
-From time to time, MSC clients or list comptrollers in cooperation with MSC clients, may provide MSC with copies of their data or their files for marketing purposes. Manipulation of the data provided to MSC shall not relieve our clients or list comptrollers, who partner with our clients, of their privacy responsibilities as data owners or list compilers. This responsibility is not transferred to MSC because MSC has prepared their data for marketing media.
+"Personal Information" is information about you that is linked to you as an individual, such as your name, postal address, email address, phone number, credit card number and expiration date, gift recipients, as well as other non-public information that is associated with that information. Personal Information does not include technical information such as unique device identifiers, randomly assigned unique identifiers in cookies, mobile device name, or IP addresses. We and our business partners obtain and often keep Personal Information when you send us an email, purchase product, sign up for our Preferred Customer program, supply information to our Career Center, or communicate with our Customer Service department.
 
-Personal information that is collected on behalf of our clients remains the property of our clients. Privacy information collected from client web sites or landing pages, which are maintained on MSC servers, remains the property of MSC clients. Privacy information collected as a result of re-directing promotion responses remains client property.
+Back to top
 
-Client data consigned to MSC for processing and response information, generated by client promotions and collected on MSC servers, remains the client property. MSC assumes no ownership, or ownership responsibilities, for data provided by or collected for its clients. Information will be returned to clients, erased or destroyed, at the completion of processing as directed by our clients. 
+* * *
 
-## How MSC and Client Information Is Used
+## **2\. Consent**
 
-Except as may be required by law, personal information given directly to MSC by an individual will only be used to fulfill the expressed objective of that individual. An individual may also be added to a list of other individuals targeted to receive correspondence pertaining to the same type of information. Personal information collected by MSC, for its own use, will not be sold, transferred or traded to any third party by MSC for unsolicited marketing purposes.
+Our web site is maintained in the state of Ohio in the United States, and by submitting your Personal Information to us, either through our web site or by other means, you are agreeing to the collection and storage of your Personal Information in the United States.
 
-Personal information, provided to MSC by its clients, or list comptrollers acting in partnership with our clients, or collected by MSC for our clients, will remain the property of the client or the list comptroller acting in cooperation with MSC clients. Personal information will only be disclosed, delivered to or destroyed as directed by our clients in accordance with their privacy policy or project instructions. Information provided by our clients or gathered for our clients will only be used as directed by our clients.
+When you submit Personal Information and De-identified Information to us, either through our web site or by other means, it means that you have agreed to this Privacy Policy, and that you expressly consent to the use of your Personal Information in the United States, according to this Privacy Policy.
 
-## Security
+Please note that your Personal Information may be used by Jo-Ann in the country where it was collected, as well as in the United States, where laws regarding the use of Personal Information may be less strict than the laws in your country.
 
-MSC uses industry-standard encryption technologies when transferring and receiving client data or comptroller data being sent in cooperation with MSC clients. MSC has security measures in place, in our facility, to protect against the loss, misuse, or alteration of information that we have collected. Additionally, MSC has security measures in place to protect against the loss, misuse, or alteration of information that has been consigned to MSC for specific marketing purposes by our clients or data comptrollers, acting in cooperation with our clients.
+Back to top
 
-## International Privacy Compliance
+* * *
 
-MSC is a Safe Harbor company and complies with the privacy principles set forth by the U.S. Department of Commerce regarding collection, use, and retention of personal data from the European Union. The U.S. Direct Marketing Association (DMA) serves as MSCs third-party dispute resolution liaison.
+## **3\. How and Why We Collect Personal Information**
 
-If you feel that MSC is not in compliance with Safe Harbor principles, first contact our company by mail, e-mail, or telephone at:
+The Personal Information that we gather from you helps us learn about our customers, the visitors to our web site, and our potential customers. We use this Personal Information to better tailor the features, performance and support of our products, services and web site, and to offer you additional information, if you have consented to receive it.
 
-          Bruce Morgan  
-          Marketing Software Company  
-          6200 Canoga Ave #102  
-          Woodland Hills CA 91367-2429  
-          (t) 818-346-1600  
-          (e) privacy@mscnet.com
+We collect Personal Information that you submit to us voluntarily to our web site, through our mobile apps, or through third party websites or emails, in the following ways:
 
-If, after contacting MSC directly, MSC is not able to satisfactorily address your concerns you should then contact the DMA Safe Harbor Dispute Resolution Program. The DMA serves as a liaison to MSC to resolve your concerns. You can reach the DMA Safe Harbor Program at safeharbor@the-dma.org
+  * When you register and set up an account on our web site, we collect your name, postal address, and telephone number (both for billing and for shipping purposes), your account username, password, email address, and credit card information (number, type of card [Visa, MasterCard, etc.] and expiration date).
+  * When you sign up to receive emails, or when you sign up for our Preferred Customer program (in our stores, on our web site, on third-party web sites, or in response to email advertisements), we collect your email address and your postal address to send you advertisements. We also ask for additional voluntary information, such as hobbies and interests, to better provide you with relevant offerings.
+  * When you purchase a gift card on our web site, we collect the name of the recipient (including yourself, if you are buying the card for yourself), and either the email address and your personalized email message to the recipient, or the postal address of the recipient, depending on whether you send an electronic gift card or a physical gift card.
+  * When you sign up to become an advertiser, we collect your name, company name, email address and comments you have.
+  * When you contact us by email, we collect your name, email address, and any other information contained in the email that you send us.
+  * When you enter a sweepstakes, we collect your name, postal address, country and email address.
+  * When you use our Career Center (which is operated by a third party service provider) and create a profile to search for a job, we collect and keep the following information: (a) your name, telephone number, postal address, and any licensing, certification or other credentials you may have; (b) information about your education and qualifications, (c) your salary expectations, (d) your availability; and (e) other information relevant to your possible employment, as well as any other information you choose to submit. This information is made available only to our employees involved in the recruitment process, and it is used only for recruitment purposes. Employees of our third party service provider have access to your Personal Information, but they are subject to the same privacy protection requirements as our employees, and they may use the information only for the purpose of providing us with technical support. (This paragraph is not applicable in Canada as currently, there are no Jo-Ann retail stores in Canada).
+  * When you sign up to receive text messages, we collect your mobile telephone number, in order to send you the text messages. We also collect your name and zip code if you choose to provide it. For more information about text messages from Jo-Ann and how to stop them, go to this link: [www.joann.com/SMS](https://web.archive.org/SMS)
+  * When we receive Personal Information from other sources like postal mail, telephone or fax, we will add this information to the information we have already collected from you.
 
-## The DMA Safe Harbor Dispute Resolution Program can also be contacted by mail at:
 
-          Safe Harbor Line  
-          Direct Marketing Association  
-          1111 19th Street, NW - Suite 1100  
-          Washington, DC 20036  
-          fax: 202-955-0085  
-          phone: 202-861-2410
 
-## Disclaimer
+On our web site, we also collect other information from you automatically, through the use of technology, without you taking steps to submit that information, whenever you use our website for any purpose (shopping, submitting a request to customer service, searching the career center, etc.), in the following ways:
 
-This site and all contents of this site are provided on an "AS IS" basis without warranties of any kind, either express or implied. You acknowledge, by your use of this site, that you assume full responsibility for all costs associated with all necessary servicing or repairs of any equipment you use in connection with your use of this site and that we shall not be liable for any damages of any kind related to your use of this site.
+  * As you navigate our web site, we collect information including your IP address, browser type, domain names, access times, and operating system.
+  * We also use Cookies (described in Section 1, Definitions) and navigational data like Uniform Resource Locators (URL) to collect information regarding the date and time of your visit, the products for which you searched and viewed, and the other resources on our web site that you used or visited.
+  * When you access our web site from mobile devices (such as smart phones or tablets), we collect information including access times, the operating system, the products for which you searched and viewed, and the other resources on our web site that you used or visited.
 
-Third-party sites to which we link or are linked to ours are not under the control of MSC. MSC is not responsible for the contents of any linked site(s). Links contained on our site are provided as a convenience to the site user and do not imply endorsement of the link, content or the respective company.
 
-You agree to defend, indemnify and hold harmless MSC from and against any and all claims, damages, costs and expenses, including attorneys' fees, arising from or related to your use of this site.
 
-## Accountability
+Back to top
 
-If you have any questions or concerns regarding this privacy statement, please send an eMail to privacy@mscnet.com. If you feel that MSC is not living up to its stated information policy, you may contact us at privacy@mscnet.com or call us at 818.346.1600.
+* * *
 
-MSC. "Marketing.Strategic.Customized.Database Solutions."     Call MSC to find out how we can help with your data needs (818)346-1600
+## **4\. How We Use Personal Information**
+
+We use your Personal Information to respond to requests that you make, to help us serve you better, and to provide you with a personalized web site experience. If you have signed up to receive email from us, we also use your Personal Information to provide you with promotional emails for our products, and for other marketing and advertising purposes.
+
+For example, based on your shopping habits when you visit our web site (what items you browse, what items you place in your shopping cart, and what items you purchase), we (or our marketing partner, on our behalf) may send you personalized advertisements that identify products we think you may be interested in (See the section titled “Advertising” below). We may also use your shopping habits to send you personalized email product alerts.
+
+We limit our employees' access to Personal Information to those employees with a business reason for knowing such information, and those employees will use the information only for appropriate business reasons.
+
+We may create De-identified Information from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may use this De-identified Information to analyze request patterns and usage patterns so that we may enhance our products and services. As this De-identified Information does not identify you, we use and disclose De-identified Information to third parties at our discretion.
+
+If you provide feedback on any of our products and services, we may use your feedback for any purpose. We will collect any information contained in your communication and will treat the Personal Information in the communication in accordance with this Privacy Policy.
+
+Back to top
+
+* * *
+
+## **5\. Our Disclosure of Your Personal Information**
+
+Except as otherwise stated in this Privacy Policy, we do not sell, rent, or share your Personal Information with third parties. When you purchase a product or a service from our web site, or when you special order a product or service from our stores, we will share select Personal Information, such as your shipping address and billing address, with third party fulfillment companies in the United States, in order to deliver the product or service to you. We also share your Personal Information with third party service providers in the United States that provide advertising and marketing services for us, including distribution of postal mail, electronic alerts, email and mobile text messages to our customers and potential customers. These third party service providers are required not to use your Personal Information, except to provide the services requested by us, and they are bound by confidentiality agreements for their use of your Personal Information. You expressly consent to the sharing of your Personal Information with our third party service providers in the United States.
+
+We reserve the right to share some or all of your Personal Information with our subsidiaries, joint ventures, and other companies in the United States under the common control of Jo-Ann (collectively, "Affiliates"), for the purposes described in this policy. We will require our Affiliates to honor this Privacy Policy.
+
+Regardless of any choices you make regarding your Personal Information, we may disclose your Personal Information if we believe in good faith that disclosure is necessary to (a) comply with laws or to respond to subpoenas or other judicial orders served on us, or (b) to protect and defend the rights or property of Jo-Ann or third parties.
+
+To provide offers that are of interest to you, we may allow other companies to place advertisements on our web site. As a result of your visit to our web site, advertisement server companies may collect information such as your domain type, your IP address, and clickstream information.
+
+We may also use and disclose Personal Information in connection with a contemplated reorganization or an actual reorganization of our business, in connection with financing, a sale or other transaction involving the disposal of all or part of our business or assets, including for the purpose of permitting the due diligence required to decide whether to proceed with a transaction. If the sale occurs, the purchaser will be entitled to use and disclose the Personal Information collected by us, and the purchaser will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
+
+Back to top
+
+* * *
+
+## **6\. Advertising**
+
+We use "interest-based" advertisements also known as "online behavioral advertising." Online behavioral advertising is advertising that is directed to you based, at least in part, on your Internet browsing behavior across the World Wide Web. Although we do not share Personal Information with the third parties that conduct advertising operations on our behalf, these third parties and their affiliates do collect certain information as a result of their "tags" being on our website. The information that they collect includes the name (URL) of the web pages you view while on our site, your IP address, time of visit, information about your browser software, information about your device, and randomly-assigned identifiers stored in Cookies, which they use to target and serve advertising.
+
+Some third parties involved in advertising operations may maintain their own proprietary consumer databases that allow them to personally identify or track website visitors. Other third parties have proprietary technologies to determine what additional devices you may use, on which it can display relevant advertisements.
+
+Do-Not-Track is a public-private initiative that has developed a “flag” or signal that an internet user may activate in the user’s browser software to notify websites that the user does not wish to be “tracked” by third parties as defined by the initiative. For more information, visit <http://www.w3.org/2011/tracking-protection/>.
+
+The Do-Not-Track initiative has not agreed on the actions that should be taken by the web sites that receive the “do not track” signal, and therefore Do-Not-Track is not yet standardized. As required by Section 22575 of the California Business and Professions Code, the following disclosure is made to California residents and to residents of other states: Our web site does not alter its behavior or change its services when it receives a “do-not-track” flag or signal from your browser. As described in Section 3, we use Cookies and other tools to collect information about you when you visit our web site to better tailor the features, performance and support of our products, services and web site. After you leave our web site, we do not track your online activity on other web sites, but third parties (and their affiliates) may track your online activity to offer you advertisements. This tracking is anonymous and is not linked to your Personal Information.
+
+You can make decisions about your privacy and the ads you receive. You can control whether companies serve you on-line behavioral advertising by visiting the Digital Advertising Alliance website and using its opt-out: <http://www.aboutads.info/choices/>. The DAA opt-out requires that cookies not be blocked in your browser.
+
+As an alternative to the DAA opt–out, you can also elect to block all Cookies from first parties (such as those from our website) and Cookies from third parties (such as advertisers) by using the cookie blocking options built into your browser software. For example, in Internet Explorer 9, you can block both first–party and third-party cookies by selecting those options at Tools/Internet Options/Privacy/Settings-Advanced/Override Automatic Cookie Handling. Also, if you are using Firefox 25, you can "uncheck" Accept All Cookies under Firefox Preferences/Privacy-Use Custom Settings For History/Accept Cookies from Sites. If you block Cookies, some parts of our website may not function correctly.
+
+We use a third party service provider to manage our product review system. When you submit product reviews on our website, our third party service provider may place Cookies on your browser and offer advertising to you. For more information on how this provider uses your information, please visit this link: <http://go.bazaarvoice.com/848PGD1740001EG001ipQ00>
+
+Back to top
+
+* * *
+
+## **7\. Social Network Widgets**
+
+Our website may include social network or other third–party plug–ins and widgets that may provide information to their associated social networks or third-parties about your interactions with our web pages that you visit, even if you do not click on or otherwise interact with the plug-in or widget. Information is transmitted from your browser and may include an identifier assigned by the social network or third party, information about your browser type, operating system, device type, IP address, and the URL of the web page where the plug-in or widget appears. If you use social network tools or visit social networking sites, you should read their privacy disclosures, to learn what information they collect, use, and share.
+
+Back to top
+
+* * *
+
+## **8\. Mobile Applications**
+
+In order to improve your shopping experience and to make shopping with coupons and locating our stores easier, we make mobile applications available, including applications for the iPhone, iPad, and Android devices. In addition to collecting and sharing information as described in this Privacy Policy, we also collect certain information you provide through the mobile app when you log in, such as your email address. We also collect information regarding the type of mobile device, operating system version, IP address, geo-location, device name, and unique device identifiers.
+
+Back to top
+
+* * *
+
+## **9\. How You Can Stop Receiving Communications**
+
+When you receive sales flyers, advertisements, direct mail, and other promotional communications from us, including email, you will have the opportunity to "opt-out" by following the "unsubscribe" instructions in the email you receive, or by contacting us directly. Once you have submitted your email address to "unsubscribe," please note that you may continue to receive emails for a time while our system updates your request. You also may use the "Contact Us"page on our website to inform the Customer Service Department of your selection, or follow the instructions in Section 11.
+
+On our web site, you may change any of the Personal Information in your account by editing your My Account information.
+
+If you need any additional assistance please contact us.
+
+Jo-Ann Fabric and Craft Stores  
+Attn: Manager of Customer Service  
+5555 Darrow Road  
+Hudson, OH 44236  
+Phone: 1-888-739-4120
+
+customer.service@joann.com
+
+Back to top
+
+* * *
+
+## **10\. Information from Children Under 13**
+
+On our web site, we do not intentionally gather Personal Information about visitors to our web site who are under the age of 13, except as follows. When an adult registers a child for an educational class in one of our retail stores, then we will ask for information about the child. If you learn that your child under 13 has provided our web site with his/her Personal Information, please contact us and we will disable that information.
+
+In our stores, we collect information about children under age 13 when an adult registers that child for an educational class.
+
+Back to top
+
+* * *
+
+## **11\. Links to Other Web Sites**
+
+Our web site may provide a link to another web site or Internet location. We provide these links merely for your convenience, and we do not endorse the other web site or location, its contents, or any goods or services available through that web site. We have no control over, do not review, and are not responsible for these other web sites, their content, or any goods or services available through the web sites. Our Privacy Policy does not apply to these other web sites. The privacy policies of the operators of the web sites will be applicable when you access their web sites through the links provided on our web site.
+
+Back to top
+
+* * *
+
+## **12\. Security**
+
+Our web site has implemented electronic means of protecting your Personal Information. Even though we have taken steps to ensure that your Personal Information is not accessed, used, or disclosed by unauthorized persons, you should know that we cannot fully eliminate security risks associated with Personal Information. Please click [here](http://www.joann.com/safe-shopping.html) to see information about safe shopping on our web site.
+
+Back to top
+
+* * *
+
+## **13\. Your California Privacy Rights**
+
+Under Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for those third parties' direct marketing purposes, and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by emailing us at customer.service@joann.com with "Request for California Privacy Information" on the subject line and in the body of your message. Be sure to provide in the request sufficient information to properly identify you and/or the members of your family
+
+Back to top
+
+* * *
+
+## **14\. How You Can Reach Us**
+
+If you have any questions regarding this Privacy Policy, or to opt-out of receiving information as permitted under this Privacy Policy, please contact us at:
+
+Jo-Ann Fabric and Craft Stores  
+Attn: Manager of Customer Service  
+5555 Darrow Road  
+Hudson, OH 44236  
+Phone: 1-888-739-4120
+
+customer.service@joann.com
+
+Back to top
+
+* * *
+
+## **15\. How to Request Access to, or the Correction of, Your Personal Information**
+
+Except in limited circumstances governed by law, you may obtain access to and have your Personal Information in our records corrected. A request for access or correction must be made in writing to the address provided in Section 14.
+
+Back to top
+
+* * *
+
+## **16\. Privacy Policy Updates**
+
+This Privacy Policy is subject to revision and changes. If you object to any changes, you must stop doing business with us, including business on our web site. Your continued use of our web site, or your continued business with us at our retail stores, will indicate your acknowledgment of the changes and agreement to be bound by the terms and conditions of the Privacy Policy, as revised.
+
+This policy was last updated in July, 2014.
+
+Back to top
