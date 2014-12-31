@@ -1,211 +1,271 @@
-<!--The following is the downloaded HTML source of the lacartes.com privacy policy that was archived on 2014-07-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140713060053id_/http%3A//www.lacartes.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lacartes.com privacy policy that was archived on 2015-01-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150101004334id_/http%3A//www.lacartes.com/legal-stuff/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-  <title>Privacy Policy | Lacartes</title>
+  <title>Privacy Policy</title>
   <meta name="y_key" content="33aef49e552f67b6">
   <meta name="msvalidate.01" content="B21D36E9CD44E453115C622E6F8F57A1">
   <meta name="verify-v1" content="TYAOnZJgJVDjPIo9SjkZ0mrkxIPJLDoJLfao0bwDnRU=">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="title" content="Privacy Policy | Lacartes">
+  <meta name="title" content="Privacy Policy">
   <meta name="description" content="">
-  <meta name="keywords" content="">
-
-  <link href="http://www.lacartes.com/include/css/global-min-va17.css" rel="stylesheet" type="text/css">	
+  <meta name="keywords" content="">  
+    
+  <link href="http://www.lacartes.com/include/css/global_vajk_min_va07.css" rel="stylesheet" type="text/css">	
   <link href="http://www.lacartes.com/include/css/ui_buttons_va3.css" rel="stylesheet" type="text/css">	
-  <link href="http://www.lacartes.com/include/css/jqmodal.css" rel="stylesheet" type="text/css">	
   <link href="http://www.lacartes.com/include/css/shares-comments-va3.css" rel="stylesheet" type="text/css">	
-  <link href="http://www.lacartes.com/include/css/jq-fileuploader/jquery.fileupload-ui.css" rel="stylesheet" type="text/css">	
-  <link href="http://www.lacartes.com/include/css/ui-theme/style-min.css" rel="stylesheet" type="text/css">	
 <link rel="stylesheet" href="http://www.lacartes.com/public/libs/jalerts/jquery.alerts.css">
-    <link href="http://www.lacartes.com/include/css/info.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://www.lacartes.com/public/libs/jui/jquery-ui.min.css">
+
+    <link href="http://www.lacartes.com/include/css/help-articles.css" rel="stylesheet" type="text/css">
   
 <script type="text/javascript">
   baseUrl = 'http://www.lacartes.com/';  </script>
    
-  <script src="http://www.lacartes.com/include/js/jquery.js" type="application/javascript"></script>
-  <script src="http://www.lacartes.com/include/js/global-min-va4.js" type="application/javascript"></script>
-  <script src="http://www.lacartes.com/include/js/jquery-ui.min.js" type="application/javascript"></script>
-  <script src="http://www.lacartes.com/include/js/liveqry.js" type="application/javascript"></script>
-  <script src="http://www.lacartes.com/include/js/jquery_ui/jqmodal.js" type="application/javascript"></script>
-  <script src="http://www.lacartes.com/include/js/jq-fileuploader/jquery.iframe-transport.js" type="application/javascript"></script>
-  <script src="http://www.lacartes.com/include/js/jq-fileuploader/jquery.fileupload.js" type="application/javascript"></script>
-  <script src="http://www.lacartes.com/include/js/jq-fileuploader/jquery.fileupload-ui.js" type="application/javascript"></script>
-  <script src="http://www.lacartes.com/include/js/jquery-lazyload.js" type="application/javascript"></script>
-<script src="http://www.lacartes.com/public/libs/jalerts/jquery.alerts.js" type="application/javascript"></script>
-    <script src="http://www.lacartes.com/include/js/listings_change.js" type="text/javascript"></script>
-  
+  <script src="http://www.lacartes.com/include/js/global-unified-va4.js" type="application/javascript"></script>
+<script src="http://www.lacartes.com/public/libs/jalerts/jquery.alerts-va2.js" type="application/javascript"></script>
+<script src="http://www.lacartes.com/public/libs/jui/jquery-ui.min.js" type="application/javascript"></script>
+
+
+    
+
+<style type="text/css">
+    #header.vajk .headerBar { 
+        position:absolute\9; /* for IE 9 */ 
+        width:100%\9;
+    }
+    
+</style>
+
+<script type="text/javascript">
+    $(function() { 
+        
+        var $headerStickyBar   = $('#headerStickyBar');
+        
+        /* clone quicksearchbox and create logo icon. this avoids redundant html contents */
+        if($headerStickyBar.find('.quickSearchBox').length == 0) { 
+            $('#header').find('.quickSearchBox').clone().prependTo($headerStickyBar.find('.navigationBar')).addClass('cloned'); 
+            $('<a class="logoIcon" title="Lacartes.com" href="'+baseUrl+'"><img style="height:40px;" src="/images/logo-icon.png" /></a>').prependTo($headerStickyBar.find('.navigationBar'));
+         }
+                    
+        if($headerStickyBar.length > 0) {
+            $(window).scroll(function(e){ // scroll event
+                var windowTop = $(window).scrollTop(); // returns number 
+                                
+                if (windowTop >= 71){                     
+                    $headerStickyBar.addClass('activeSticky');
+                } else {
+                    $headerStickyBar.removeClass('activeSticky');
+                }
+
+            });
+        }
+        
+        $('.navMenus').find('li.hasSubmenu').hover(function() { 
+              var $subNavMenu = $(this).find('.subNavMenus');              
+              if($subNavMenu.hasClass('empty')) {                  
+                 var menuItem = $(this).attr('menuItem');                 
+                 $.get(
+                         '/ajax_utils/header-lazy-loading.php',
+                         { do : 'load_menu', item : menuItem },
+                         function(o) { 
+                            $subNavMenu.html(o);
+                            $subNavMenu.removeClass('empty');
+                         }    
+                    );                                  
+              }
+        });    
+    })
+</script>
+
 </head>
 
 <body>
 
-<div id="header" class="va4 sticky">
-	<div id="headline-bar">
-            <div class="content-wrapper" style="position:relative;">
-              <div class="nav-link-box" style="left:0px;top:-1px;">
-                  <div class="menu-page-links">
-	<a href="http://www.lacartes.com/" class="menu">Home</a>
-        <span class="sep">|</span>
-	<a href="http://www.lacartes.com/business" id="business-tab" class="menu">Businesses</a>
-        <span class="sep">|</span>
-        <a href="http://www.lacartes.com/marketplace" id="marketplace-tab" class="menu">Marketplace</a>
-        <span class="sep">|</span>
-	<a href="http://www.lacartes.com/jobs" id="job-tab" class="menu">Jobs</a>
-        <span class="sep">|</span>
-	<a href="http://www.lacartes.com/recipes" class="menu">Recipes</a>
-        <span class="sep">|</span>
-        <a href="http://www.lacartes.com/community" id="community-tab" class="menu">Members</a>
-        <span class="sep">|</span>
-        <a href="http://www.lacartes.com/photos" id="community-tab" class="menu">Photos</a>
-        <span class="sep">|</span>
-        <a href="http://www.lacartes.com/videos" id="community-tab" class="menu">Videos</a>
-</div>              </div>
-              
-                        
-                    <div id="quick-login-box" style="top:7px;right:0px;position: absolute;">
-                        
-<div style="font-size:11px;">
-    <a href="http://www.lacartes.com/join">login</a>&nbsp;&nbsp;<span class="vbar" style="color:#dbdbdb;">|</span>&nbsp;&nbsp;<a href="http://www.lacartes.com/join">sign up</a>
-</div>        
-                    </div>
-                                     
-            </div>   
-	</div>
-	<div id="header-bar">
-		<div id="headline" class="content-wrapper clearfix">				
-                        <div id="logo-wrapper">
-                            <a href="http://www.lacartes.com/" title="lacartes.com" alt="lacartes.com"><img src="http://www.lacartes.com/images/lacartes-logo.png" title="lacartes.com" alt="lacartes.com"></a>
-			</div>
-                        <div class="quick-search-box" style="left:170px;top:0px;"> 
-                              
-        
-
-<div class="search-box">
-    <form method="get" action="http://www.lacartes.com/search"> 
-        <input type="hidden" name="what" value="business">
-        <div class="search_field_options_wrapper inline-block">
-            
+<div id="header" class="vajk">
+	<div class="headLine">
+            <div class="content-wrapper clearfix">                
+                <div class="logo"><a href="http://www.lacartes.com/"><img src="http://www.lacartes.com/images/lacartes-logo-vajk.png" title="Lacartes.com" alt="Lacartes.com"></a></div>    
+                <div class="quickSearchBox">               
+                    
+    
     
          
-    <input type="hidden" name="distance" value="20000">
-     <div class="input_field_wrap" style="margin-left:0px">       
-        <span class="field_options ui-autocomplete-search-field" style="display:inline-block;margin-top:4px;line-height: 0">           
-            <span class="inline-field"><input class="ui_search_input_text ui-autocomplete-field input_text ui_input_search" type="text" placeholder="Search..." name="q" value=""></span>
-            <img class="loading" style="top:6px;left:93%" src="http://www.lacartes.com/images/ajax-loader.gif">
-        </span>   
-        <span class="ui_btn_search"><input type="submit" class="btn-search" value=""></span>
-     </div>                    
-            </div>             
-    </form>	
-</div>
-			</div>
-		</div>               
+
+<form class="quickSearchForm ui-autocomplete-search-field" action="/search">
+    <input type="hidden" name="what" value="business">
+        <input type="hidden" name="d" value="national">
+        
+    <input class="quickSearchText ui-autocomplete-field" type="text" placeholder="I'm looking for..." name="q" value="">
+    <button class="btnQuickSearchSubmit standard" type="submit"><img alt="Search" src="/images/search_glass.png"></button>
+    <img class="quickSearchLoading" style="right:11%" src="http://www.lacartes.com/images/ajax-loader.gif">    
+</form>                </div>    
+            </div>
+	</div>
+	<div id="headerStickyBar" class="headerBar">
+            <div class="content-wrapper">
+                <div class="navigationBar">
+                    <div id="navigation">
+                        <ul class="navMenus">
+    <li><a href="http://www.lacartes.com/"><em>Home</em></a></li>
+    <li class="hasSubmenu" menuitem="marketplace">
+        <a href="/marketplace"><em>Marketplace</em><span class="arrow"></span></a>
+        <div class="submenu">
+            <div class="subNavMenus _2col empty">
+                <div class="loadingMenuWrapper"><img src="http://www.lacartes.com/images/ajax-loader.gif"></div>
+            </div>
+        </div>
+    </li>
+    <li class="hasSubmenu" menuitem="business">
+        <a href="/business"><em>Businesses</em><span class="arrow"></span></a>
+        <div class="submenu">
+            <div class="subNavMenus empty">
+                <div class="loadingMenuWrapper"><img src="http://www.lacartes.com/images/ajax-loader.gif"></div>
+            </div>
+        </div>        
+    </li>
+    <li class="hasSubmenu" menuitem="jobs">
+        <a href="/jobs"><em>Jobs</em><span class="arrow"></span></a>
+        <div class="submenu">
+            <div class="subNavMenus _2col empty">
+                <div class="loadingMenuWrapper"><img src="http://www.lacartes.com/images/ajax-loader.gif"></div>
+            </div>
+        </div>
+    </li>                                                            
+</ul>                    </div>
+                    
+                     
+                        <div id="userInfoNavigation">
+                            <div class="userLoginLine"><a href="/join">Login</a>&nbsp;&nbsp;<span>|</span>&nbsp;&nbsp;<a href="/join">Sign up</a></div>
+                        </div>
+                        
+                </div>
+                
+            </div>
 	</div>
 </div>	
-<div id="headerSpacer"></div>    
 <div id="page-body">
 <div id="main" class="">
 
 
-  
     
-    <div class="clearfix content-wrapper"> 
-    
-        <div id="main-content-column">
-<style type="text/css">
-p, li {font-size:14px;}
-h3 {font-size:20px;margin:5px 0;}
-</style>
+    <div id="page-wide">
+                    
+            <div class="HelpInfoPage page_content footer-pad">
 
-
-
-
-<div style="padding:10px">
-    <div class="breadcrumb bold" style="margin:10px 0">  <a href="http://www.lacartes.com/">Home</a><span class="sep">&nbsp;&gt;</span>
-  <a href="http://www.lacartes.com/info/information">Information</a><span class="sep">&nbsp;&gt;</span>
+    <div class="content-wrapper clearfix">
+        
+        <div class="pagelet_left_sidebar menu-left-block">
+            
+            <div class="box-content">
+                <div class="menu-nav-wrapper">
+                    <div class="menu-header">LEGAL STUFFS</div>
+                    <ul class="menu-navs">
+                        
+                        <li class="menu selected"><a class="block-link" href="http://www.lacartes.com/legal-stuff/privacy-policy"><span class="menu_icon"><span class="label">Privacy Policy</span></span></a></li>                    
+                        
+                        <li class="menu"><a class="block-link" href="http://www.lacartes.com/legal-stuff/terms-conditions"><span class="menu_icon"><span class="label">Terms &amp; Conditions</span></span></a></li>                    
+                                                 
+                    </ul>
+                </div>
+            </div>
+            
+        </div>
+        
+        <div class="content-block">
+            
+            <div class="content-box pad-content">
+                <div>  <a href="http://www.lacartes.com/">Home</a><span class="sep">&nbsp;&nbsp;&gt;&nbsp;</span>
+  <a href="http://www.lacartes.com/legal-stuff">Legal Stuff</a><span class="sep">&nbsp;&nbsp;&gt;&nbsp;</span>
 <span class="last-trail">Privacy Policy</span>
 </div>
+
+                            <h1 style="margin-top:20px;">Privacy Policy</h1>
+                
+                <div style="margin-top:10px">
+                    At LACARTES we are committed to ensuring and protecting your privacy at any time you are on our website or communicate electronically with our personnel.<br>
+<br>
+Information We Collect from You<br>
+We collect traffic data, weblogs, location data, and any other communication can be collected. These details come from your visit to our site and any resource tools you use while on the site.<br>
+<br>
+We may gather information about you to help provide appropriate services or products to you. The data gathered is solely statistical data, no identifying information will be shared about our visitors and how they made use of our site. No personal details will ever be shared.<br>
+<br>
+Use of Your Information<br>
+Information stored and collected about you allows us to improve our services or products for you. Added to this parameter, we may use your information for the following purposes:<br>
+<br>
+Notification re- changes or improvements may be sent to you in regards to product or service changes that could affect our service to you.<br>
+<br>
+Existing members can be contacted on the topic of goods or services, if we feel you might be interested in these additional topics.<br>
+<br>
+Identifiable data, which could be used to disclose who you are, is never shared. We only provide statistical related data about our visitors to third parties like advertisers to ensure your privacy.<br>
+<br>
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.<br>
+<br>
+We do not store or maintain any credit card information.<br>
+<br>
+Storing Your Personal Data<br>
+We take all reasonable processes to ensure your data is secure and in agreement with our Privacy Policy as outlined here.<br>
+<br>
+Secured servers are used by our company to ensure proper data storage.<br>
+<br>
+Transmission of data on the internet can never be ultimately secure. We do not and cannot guarantee security of information collected electronically or transmitted; however, we take all necessary steps to provide the best security available. As a result of our inability to guarantee safety, you are submitting information to us at your own risk. Where needed a password may be necessary to access areas of our site. You are responsible for the safety and confidentiality of the password you generate.<br>
+<br>
+Disclosing Your Information<br>
+Legal requirements may mean a sharing of your information.<br>
+<br>
+Third Party Links<br>
+Links might be discovered on our site that belongs to third parties. Any third party website on our site has a privacy policy. You should check their terms. We do not accept liability or responsibility for their privacy policies, based on our lack of control over these third party links.
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
     
-    <div class="info-header-bar" style="margin:10px 0"><h2 style="font-size:18px;text-align:center">Privacy Policy</h2></div>
- 
- <div style="padding:0 40px">
-     
-    <h3>PRIVACY POLICY for www.lacartes.com</h3>
-    
-	<p>At LACARTES we are committed to ensuring and protecting your privacy at any time you are on our website or communicate electronically with our personnel.</p>
-	
-	
-			<h3>Information We Collect from You</h3>
-			<p>
-				We collect traffic data, weblogs, location data, and any other communication can be collected. These details come from your visit to our site and any resource tools you use while on the site.
-			</p>
-			<p>
-				We may gather information about you to help provide appropriate services or products to you. The data gathered is solely statistical data, no identifying information will be shared about our visitors and how they made use of our site. No personal details will ever be shared.
-			</p>
-			<h3>Use of Your Information</h3>
-			<p>
-				Information stored and collected about you allows us to improve our services or products for you. Added to this parameter, we may use your information for the following purposes:
-			</p>
-			<p>
-				Notification re- changes or improvements may be sent to you in regards to product or service changes that could affect our service to you.
-			</p>
-			<p>
-				Existing members can be contacted on the topic of goods or services, if we feel you might be interested in these additional topics.
-			</p>
-			<p>
-				Identifiable data, which could be used to disclose who you are, is never shared. We only provide statistical related data about our visitors to third parties like advertisers to ensure your privacy.
-			</p>
-			<p>
-				We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
-			</p>
-			<h3>Storing Your Personal Data</h3>
-			<p>We take all reasonable processes to ensure your data is secure and in agreement with our Privacy Policy as outlined here.</p>
-			<p>Secured servers are used by our company to ensure proper data storage.</p>
-			<p>Transmission of data on the internet can never be ultimately secure. We do not and cannot guarantee security of information collected electronically or transmitted; however, we take all necessary steps to provide the best security available. As a result of our inability to guarantee safety, you are submitting information to us at your own risk. Where needed a password may be necessary to access areas of our site. You are responsible for the safety and confidentiality of the password you generate.</p>
-			<h3>Disclosing Your Information</h3>
-			<p>
-				Legal requirements may mean a sharing of your information.
-			</p>			
-			<h3>Third Party Links</h3>
-			<p>
-				Links might be discovered on our site that belongs to third parties. Any third party website on our site has a privacy policy. You should check their terms. We do not accept liability or responsibility for their privacy policies, based on our lack of control over these third party links.
-			</p>
-		
-   </div>                     
-</div></div>
-        </div> 
+</div>            
+            
+    </div>
 
 
 </div></div> 
 
 <div id="footer">
 	<div class="content-wrapper">
-                
-                <style type="text/css">
+                                
+		<div style="position:relative;min-height: 35px;">	
                     
-                    #google_translate_element a {
-                            text-decoration:none;
-                    }
+                    <style type="text/css">
+                        
+                        .pref-currency-location .ui_btn_filter_location{ display:inline-block; padding-left:19px; }
+                        .pref-currency-location .ui_btn_filter_location.icon_filter_location{
+                            background:url(/include/css/img/icon_globe_16.png) no-repeat left top;
+                        }
 
-                    #google_translate_element .goog-te-gadget-simple {line-height:1.9!important;}
-                    #google_translate_element .goog-te-menu-value span { color:#000!important;}
+                        .pref-currency-location .ui_btn_filter_location.icon_filter_currency{
+                            background:url(/include/css/img/icon-dollar-16.png) no-repeat left 1px;
+                            padding-left:16px;
+                        }
+                        
+                        #footer .pref-currency-location .ui_btn_filter_location .lbl, #footer .pref-currency-location .ui_btn_filter_location { line-height:1.6; }
+                    </style>
                     
-                </style>
-                
-		<div>				
-                    <div style="position:relative;"><div id="google_translate_element"></div></div>				
+                    
+                    <div class="pref-currency-location" style="position:absolute;left:26px;">
+                        <a class="ui_btn_filter_location icon_filter_location" onclick="openLocCurDialog();"><span class="lbl">United States</span></a>
+                        &nbsp;&nbsp;&nbsp;
+                        <a class="ui_btn_filter_location icon_filter_currency" onclick="openLocCurDialog();"><span class="lbl">US$ US Dollar</span></a>
+                    </div>
+                    
 		</div>
 			
                 <div class="">
                     
 <div class="links_block">
     <div class="l">
-        <a class="bold" href="http://www.lacartes.com/home/about" title="About Lacartes" rel="nofollow">About Lacartes</a>
+        <a class="bold" href="/about" title="About Lacartes">About Lacartes</a>
         <br>
-        <a class="bold" href="http://www.lacartes.com/home/how-it-works" title="Discover New Products &amp; Services" rel="nofollow">How It Works</a>
-        <br>
-        <a class="bold" href="http://www.lacartes.com/home/lacartes-business-pages" title="See How Lacartes Can Increase Your Online Exposure &amp; Sales" rel="nofollow">For Your Business</a>
+        <a class="bold" href="/business-solutions" title="Business Solutions">Business Solutions</a>
         <br>
         <a class="bold" href="http://www.lacartes.com/contact-us">Contact Us</a>            
     </div>
@@ -215,7 +275,7 @@ h3 {font-size:20px;margin:5px 0;}
         <br>
         <a href="http://www.lacartes.com/business-locations" title="Browse Businesses by Location">Browse Locations</a>
         <br>
-        <a class="bold" href="http://www.lacartes.com/business/add" title="Create A Free Business Page For Your Company">Add Your Business Free</a>                        
+        <a class="bold" href="http://www.lacartes.com/post/business" title="Create A Free Business Page For Your Company">Add Your Business Free</a>                        
     </div>
     
     <div class="l">
@@ -227,11 +287,6 @@ h3 {font-size:20px;margin:5px 0;}
         <br>    
     </div>
 	
-	<div class="l">
-        <a class="bold" href="http://www.lacartes.com/people_directory" title="See All Lacartes Members">Members</a>
-        <br>
-    </div>
-	
     <div class="l">
         <a href="http://www.lacartes.com/terms" target="_blank" rel="nofollow">Term of Use</a>
         <br>
@@ -241,18 +296,7 @@ h3 {font-size:20px;margin:5px 0;}
     </div>    
 </div>                </div>
                 
-                
-                <script type="text/javascript">
-                        function googleTranslateElementInit() {
-                            new google.translate.TranslateElement({
-                                pageLanguage: 'en',
-                                layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-                            }, 'google_translate_element');
-                        }
-                </script>
-                <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
-                
-            
+                            
 						
 		<div class="footer-banner">
 		
@@ -271,9 +315,205 @@ h3 {font-size:20px;margin:5px 0;}
 </div>
 
 
+
+<style>
+    
+    /* marketplace popup filter location */
+    #uiDialogLocationCurrencyFilter { }
+    #uiDialogLocationCurrencyFilter .ui-tabs{ 
+        border:0px none; 
+        border-radius:0; 
+        margin: 0;
+        padding: 0;
+        position:relative;
+    }
+    #uiDialogLocationCurrencyFilter .ui-tabs .ui-tabs-nav{ 
+        border:0px none;
+        border-radius: 0;
+        background: inherit;
+    }
+
+    #uiDialogLocationCurrencyFilter .ht { font-size:14px;margin-bottom:7px; }
+
+    #uiDialogLocationCurrencyFilter .list li {  margin-bottom:3px; }
+    #uiDialogLocationCurrencyFilter ul.list.countries { }
+    #uiDialogLocationCurrencyFilter .list.countries li { line-height: 1.5; }
+    #uiDialogLocationCurrencyFilter .list.countries .col { width:130px; }
+    #uiDialogLocationCurrencyFilter .list.currencies li { 
+        margin-bottom: 15px;
+        width: 187px;
+    }
+    #uiDialogLocationCurrencyFilter ul.list.currencies .cs { display:inline-block; font-weight:bold; width:35px; }
+    #uiDialogLocationCurrencyFilter ul.list.currencies .l { display:inline-block;}
+
+    #uiDialogLocationCurrencyFilter ul.list a {
+        display: inline-block;
+        padding: 2px 7px;        
+        border-radius: 3px;
+    }
+
+    #uiDialogLocationCurrencyFilter ul.list a.selected, #uiDialogLocationCurrencyFilter ul.list a.selected:hover { 
+        background:#888;
+        color:white;
+        font-weight:bold;
+    }
+    #uiDialogLocationCurrencyFilter ul.list a:hover {
+        background: #F2F2F2;
+        text-decoration:none;
+    }
+
+    #uiDialogLocationCurrencyFilter .resultFilterFooter {
+        border-top:1px solid #dbdbdb;
+        padding:10px 20px;
+        background:#f2f2f2;
+    }
+    /* marketplace popup filter location end */
+
+    .uiTabLocationCurrencyFilter { }
+    .uiTabLocationCurrencyFilter.ui-tabs-nav li { 
+        margin: 0px 0px -1px -1px;
+        border: 1px solid #DBDBDB;
+        border-bottom: 0px none;
+        box-sizing: content-box;
+        border-radius: 1px;
+        padding:0;
+    }
+    
+    .uiTabLocationCurrencyFilter.ui-tabs-nav li:focus, .uiTabLocationCurrencyFilter.ui-tabs-nav li.ui-tabs-active.ui-state-active:focus, .uiTabLocationCurrencyFilter.ui-tabs-nav li a { 
+        box-shadow:none!important;
+        outline:none!important;
+    }
+    .uiTabLocationCurrencyFilter.ui-tabs-nav li a.ui-tabs-anchor{ 
+        font-weight: bold;
+        padding: 8px 25px;
+        font-size: 12px;
+    }
+    
+    .uiTabLocationCurrencyFilter.ui-tabs-nav li.ui-tabs-active { padding-bottom: 0px; }
+    .uiTabLocationCurrencyFilter.ui-tabs-nav li.ui-tabs-active a.ui-tabs-anchor {
+        color:#D65800!important;
+    }
+</style>
+
+
+<div id="uiDialogLocationCurrencyFilter" style="display: none;z-index:99999999">                
+    <div class="generic-popup-box" style="width:850px;">
+        <div class="content empty" style="padding:0;">
+
+            <div id="tabs">
+                <div class="top-header">
+                    <span style="top:8px;" class="close-button" onclick="$('#uiDialogLocationCurrencyFilter').dialog('close');"><i class="x">X</i></span>
+                    <ul class="uiTabLocationCurrencyFilter" style="margin-bottom:-9px;">
+                      <li><a href="#tabs-location">Location</a></li>
+                      <li><a href="#tabs-currency">Currency</a></li>
+                    </ul>
+                </div>
+                <div id="tabs-location">
+                    <div class="tab-content-panel" style="overflow-y:scroll;overflow-x:hidden;height:400px;">
+                        <div style="width:300px;margin:auto;text-align:center;margin-top:20%;">
+                            <img src="http://www.lacartes.com/images/ajax-loader.gif">
+                            <br>
+                            <span class="g b">Wait... Loading contents...</span>
+                        </div>
+                    </div>
+                </div>
+                <div id="tabs-currency">
+                    <div class="tab-content-panel">
+                        <div style="width:300px;margin:auto;padding:30px 0;text-align:center;">
+                            <img src="http://www.lacartes.com/images/ajax-loader.gif">
+                            <br>
+                            <span class="g b">Wait... Loading contents...</span>
+                        </div>
+                    </div>
+                </div>
+              </div>
+              <div class="resultFilterFooter">
+              <form id="formCLC" method="post" action="/members/loccur">
+                  <input type="hidden" name="do" value="changeLocationCurrency">                  
+                  <input type="hidden" name="cur" value="USD">
+                  <input type="hidden" name="co" value="US">
+                  <div class="clearfix pref-currency-location">
+                      <div class="float-left filter-option-box" style="padding-top:8px;"><span class="ui_btn_filter_location icon_filter_location"><span class="uiCurrentCountryLabel">United States</span> / <span class="uiCurrentCurrencyLabel">US$ US Dollar</span></span></div>
+                      <div class="float-right">
+                          <input type="submit" class="uig-button btn-green" value="Submit">
+                      </div>
+                  </div>
+              </form>        
+              </div>       
+       </div>
+    </div>
+</div> 
+
+<script type="text/javascript">
+    
+    $(function() { 
+        
+        $('#tabs').tabs();
+        
+        $('#uiDialogLocationCurrencyFilter').dialog( { 
+            width : 870,
+            modal : true,
+            autoOpen: false,
+            dialogClass : 'uiNoHeaderDialog',
+            position: { my : "center top", at : "center top+7%", of : 'body' },
+        } ) 
+    
+    
+        //$('.list.currencies li').find('a').click(function() { 
+        $('body').on('click', '.list.currencies li a', function(e) { 
+        
+            var currencyLabel = $(this).attr('itemcurrencylabel');
+            var currencyCode = $(this).attr('itemcurrencycode');
+            
+            $('.uiCurrentCurrencyLabel').text(currencyLabel);
+            
+            $('.list.currencies').find('li a.selected').removeClass('selected');
+            $(this).addClass('selected');
+            
+            $('#formCLC').find('[name="cur"]').val(currencyCode);
+        });
+        
+        //$('.list.countries li').find('a').click(function() { 
+        
+        $('body').on('click', '.list.countries li a', function(e) { 
+            var countryLabel   = $(this).attr('itemCountryLabel');
+            var countryCode    = $(this).attr('itemCountryCode');
+            
+            $('.uiCurrentCountryLabel').text(countryLabel);
+            
+            $('.list.countries').find('li a.selected').removeClass('selected');
+            $(this).addClass('selected');
+            
+            $('#formCLC').find('[name="co"]').val(countryCode);
+        });
+    
+    })
+    
+    function openLocCurDialog() { 
+        $('#uiDialogLocationCurrencyFilter').dialog('open');
+        
+        var $dialog = $('#uiDialogLocationCurrencyFilter');
+        
+        if($dialog.find('.content').hasClass('empty')) { 
+            
+            $.getJSON(
+                    '/members/loccur',
+                    { do : 'load' },
+                    function(o) { 
+                        $dialog.find('.content').removeClass('empty');
+                        
+                        $('#tabs-location').find('.tab-content-panel').html(o.locations);
+                        $('#tabs-currency').find('.tab-content-panel').html(o.currencies);
+                    }
+            );            
+        }
+    }
+
+</script>                       
+
 <script type="text/javascript">
     var DEFER = { };
-        DEFER.srcs = ["http:\/\/www.lacartes.com\/include\/js\/jquery_ui\/jquery.autoresize.js","http:\/\/www.lacartes.com\/include\/js\/jquery_ui\/ui.autocomplete.js","http:\/\/www.lacartes.com\/include\/js\/init_va8.js","http:\/\/www.lacartes.com\/include\/js\/member-post.js","http:\/\/www.lacartes.com\/include\/js\/search-suggestion.js","http:\/\/www.lacartes.com\/include\/js\/privacy-opts.js","http:\/\/www.lacartes.com\/include\/js\/invite-friends.js","http:\/\/www.lacartes.com\/include\/js\/user_share.js"];
+        DEFER.srcs = ["http:\/\/www.lacartes.com\/include\/js\/member-post.js","http:\/\/www.lacartes.com\/include\/js\/search-suggestion-va9.js","http:\/\/www.lacartes.com\/include\/js\/privacy-opts.js","http:\/\/www.lacartes.com\/include\/js\/user_share.js"];
     
     $(function() {
         for(var i in DEFER.srcs) {
