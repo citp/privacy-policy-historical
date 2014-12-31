@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the drjays.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626004446id_/http%3A//www.drjays.com/content/customerservice/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drjays.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231014509id_/http%3A//www.drjays.com/content/customerservice/privacy_policy.html) for the most accurate reproduction.*
 
 # DrJays.com - Customer Service - Privacy
+
+  * Collecting Information
+  * Cookies
+  * Special Policies for Children 13 and Under
+  * Links
+  * Security
+  * Accepting Terms
+  * Contact Us
+
+
 
 It is important for you to understand that we use third party contractors to help us operate our business, such as operating the server for the Site, performing delivery and shipping services, and sending postal mail and email, and may share your information with these contractors for those limited purposes. We generally require that contractors do not disclose personally identifiable information or use it other than as necessary to perform services for us.
 
@@ -36,5 +46,4 @@ By using the Site, you indicate your agreement with the terms and conditions of 
 
 ## Contact Us
 
-Please contact us with any questions or comments regarding our privacy policy: Phone Number: 1-888-4-DRJAYS  
-
+Please [contact us](https://web.archive.org/content/customerservice/contact_us.html) with any questions or comments regarding our privacy policy. You can call us at **1-888-4-DRJAYS** or email us at [Service@DrJays.com](mailto:service@drjays.com).
