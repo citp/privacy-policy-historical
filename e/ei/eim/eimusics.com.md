@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eimusics.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613052129id_/http%3A//eimusics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eimusics.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231023618id_/http%3A//eimusics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | eimusics.com
+# Privacy Policy - Eimusics.com
 
 **Your Privacy**  
 Eimusic.com is committed to protecting your privacy. Eimusic.com does not sell trade or rent your personal information to other companies. Data collected only for internal log to improved site performance.
