@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaymaletube.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520120429id_/http%3A//www.gaymaletube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaymaletube.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231033311id_/http%3A//www.gaymaletube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
