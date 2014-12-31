@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630120753id_/http%3A//livelinkcafe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231110453id_/http%3A//livelinkcafe.com/privacy.php) for the most accurate reproduction.*
 
-# LiveLinkCafe.com - Free Traffic Exchange | Unique Link Surfing System
+# LiveLinkCafe.com - NO Email Safelist Advertising | Unique Link Surfing Safelist
 
 |  |  |  | 
 
@@ -12,7 +12,7 @@
   
 ---|---  
   
-Members: [ **4279** ]  
+Members: [ **5468** ]  
   
 * * *  
   
