@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the activebeat.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221084245id_/http%3A//www.activebeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activebeat.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231103350id_/http%3A//www.activebeat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ActiveBeat
 
-At Activebeat ([www.Activebeat.com](http://www.activebeat.com/)), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+At Activebeat ([www.activebeat.com](http://www.activebeat.com/)), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
 This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
 
@@ -31,4 +31,4 @@ If you wish to disable cookies you may do so through your web browser options. I
 
 Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from Activebeat.com. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@activebeat.com](mailto:admin@foodbeat.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@activebeat.com](mailto:admin@activebeat.com).
