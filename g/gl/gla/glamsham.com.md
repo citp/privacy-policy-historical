@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glamsham.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627055308id_/http%3A//www.glamsham.com/legal/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamsham.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231192428id_/http%3A//www.glamsham.com/legal/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy@glamsham.com
 
@@ -50,31 +50,24 @@ If you have any questions about this privacy policy, the practices of this site,
 |  |  |   
 ---  
   
-  * Movie Review
-  * Music Review
-  * Preview
+Movie Reviews
 
-
-
-[**Humshakals** \- movie review  
-Sajid Khan's HUMSHAKALS has kindergarten humour at its best. Riteish Deskmukh stands out with his co...](https://web.archive.org/movies/reviews/humshakals-movie-review.asp "Humshakals Movie Review")  
+[**Ugly** \- movie review  
+The best part about UGLY is that every character is made to stand out, regardless of the length of h...](https://web.archive.org/movies/reviews/ugly-movie-review.asp "Ugly Movie Review")  
   
-[**Machhli Jal Ki Rani Hai** \- movie review  
-So, in a hurry to quicken the pace, the director felt it apt to push her foot on the accelerator. Wh...](https://web.archive.org/movies/reviews/machhli-jal-ki-rani-hai-movie-review.asp "Machhli Jal Ki Rani Hai Movie Review")  
+[**PK** \- movie review  
+PK is a simple film with a strong message-of love, peace and humanity. That is what every religion t...](https://web.archive.org/movies/reviews/pk-movie-review.asp "PK Movie Review")  
 
 
 [ **more...**](https://web.archive.org/movies/reviews/ "More Movie Reviews")  
   
-  * Celeb Wallpapers
-  * Movie Wallpapers
-
-
+Celeb Wallpapers
 
 [  
-Kriti Sanon](https://web.archive.org/download/wallpaper/11/1920/0/kriti-sanon-wallpapers.htm "Kriti Sanon")
+Mishti](https://web.archive.org/download/wallpaper/11/2119/0/mishti-wallpapers.htm "Mishti")
 
 [  
-Shraddha Kapoor](https://web.archive.org/download/wallpaper/11/1234/0/shraddha-kapoor-wallpapers.htm "Shraddha Kapoor")
+Sophie Choudry](https://web.archive.org/download/wallpaper/11/613/0/sophie-choudry-wallpapers.htm "Sophie Choudry")
 
 [**more...**](https://web.archive.org/download/wallpaper/ "More Celeb Wallpapers")  
   
@@ -85,26 +78,23 @@ Shraddha Kapoor](https://web.archive.org/download/wallpaper/11/1234/0/shraddha-k
 
 
 [  
-Humpty Sharma Ki Dulhania](https://web.archive.org/download/poster/humpty-sharma-ki-dulhania-posters/2407/1.htm "Humpty Sharma Ki Dulhania")
+Tevar](https://web.archive.org/download/poster/tevar-posters/2423/1.htm "Tevar")
 
 [  
-Mardaani](https://web.archive.org/download/poster/mardaani-posters/2397/1.htm "Mardaani")
+I](https://web.archive.org/download/poster/i-posters/2832/1.htm "I")
 
 [**more...**](https://web.archive.org/download/poster/ "More Poster")  
   
-  * Events Gallery
-  * Celeb Gallery
-
-
+Event Gallery
 
 [  
-Shahrukh Khan set to take a ride at Bandra](https://web.archive.org/picture-gallery/shahrukh-khan-set-to-take-a-ride-at-bandra-gallery/14025/0/event.htm "Shahrukh Khan set to take a ride at Bandra")
+Vidya Balan-Siddharth Roy Kapur snapped at Olive r...](https://web.archive.org/picture-gallery/vidya-balan-siddharth-roy-kapur-snapped-at-olive-restaurant-gallery/15484/0/event.htm "Vidya Balan-Siddharth Roy Kapur snapped at Olive restaurant")
 
 [  
-Amitabh Bachchan dubs at Empire studio](https://web.archive.org/picture-gallery/amitabh-bachchan-dubs-at-empire-studio-gallery/14026/0/event.htm "Amitabh Bachchan dubs at Empire studio")
+Rituparna Sengupta & others at EXTRAORDINAARI musi...](https://web.archive.org/picture-gallery/rituparna-sengupta-others-at-extraordinaari-music-launch-gallery/15485/0/event.htm "Rituparna Sengupta & others at EXTRAORDINAARI music launch")
 
 [**more...**](https://web.archive.org/picture-gallery/events-n-parties.htm "More Events Gallery")  
   
 ### Tags
 
-[Rakul Preet Singh](https://web.archive.org/celebrity/Rakul-Preet-Singh "Rakul Preet Singh") [Hard Kaur](https://web.archive.org/celebrity/Hard-Kaur "Hard Kaur") [Amrita Puri](https://web.archive.org/celebrity/Amrita-Puri "Amrita Puri") [Monali Thakur](https://web.archive.org/celebrity/Monali-Thakur "Monali Thakur") [Mugdha Godse](https://web.archive.org/celebrity/Mugdha-Godse "Mugdha Godse") [Aamir Khan](https://web.archive.org/celebrity/Aamir-Khan "Aamir Khan") [Shilpa Shetty](https://web.archive.org/celebrity/Shilpa-Shetty "Shilpa Shetty") [Manisha Kelkar](https://web.archive.org/celebrity/Manisha-Kelkar "Manisha Kelkar") [Neha Sharma](https://web.archive.org/celebrity/Neha-Sharma "Neha Sharma") [Dia Mirza](https://web.archive.org/celebrity/Dia-Mirza "Dia Mirza") [Nushrat Bharucha](https://web.archive.org/celebrity/Nushrat-Bharucha "Nushrat Bharucha") [Deepika Padukone](https://web.archive.org/celebrity/Deepika-Padukone "Deepika Padukone") [Tiger Shroff](https://web.archive.org/celebrity/Tiger-Shroff "Tiger Shroff") [Uday Chopra](https://web.archive.org/celebrity/Uday-Chopra "Uday Chopra") [Sandeepa Dhar](https://web.archive.org/celebrity/Sandeepa-Dhar "Sandeepa Dhar") [Complete List](https://web.archive.org/people/)
+[Zareen Khan](https://web.archive.org/celebrity/Zareen-Khan "Zareen Khan") [Elli Avram](https://web.archive.org/celebrity/Elli-Avram "Elli Avram") [Karan Singh Grover](https://web.archive.org/celebrity/Karan-Singh-Grover "Karan Singh Grover") [Harshvardhan Deo](https://web.archive.org/celebrity/Harshvardhan-Deo "Harshvardhan Deo") [Tusshar Kapoor](https://web.archive.org/celebrity/Tusshar-Kapoor "Tusshar Kapoor") [Tia Bajpai](https://web.archive.org/celebrity/Tia-Bajpai "Tia Bajpai") [Pallavi Sharda](https://web.archive.org/celebrity/Pallavi-Sharda "Pallavi Sharda") [Govinda](https://web.archive.org/celebrity/Govinda "Govinda") [Amrita Rao](https://web.archive.org/celebrity/Amrita-Rao "Amrita Rao") [Pooja Misrra](https://web.archive.org/celebrity/Pooja-Misrra "Pooja Misrra") [Vidya Balan](https://web.archive.org/celebrity/Vidya-Balan "Vidya Balan") [Zayed Khan](https://web.archive.org/celebrity/Zayed-Khan "Zayed Khan") [Bruna Abdulah](https://web.archive.org/celebrity/Bruna-Abdulah "Bruna Abdulah") [Parineeti Chopra](https://web.archive.org/celebrity/Parineeti-Chopra "Parineeti Chopra") [Aditya Roy Kapur](https://web.archive.org/celebrity/Aditya-Roy-Kapur "Aditya Roy Kapur") [Complete List](https://web.archive.org/people/)
