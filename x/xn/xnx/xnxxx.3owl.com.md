@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xnxxx.3owl.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208185352id_/http%3A//freehosting.zendesk.com/entries/22526216) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xnxxx.3owl.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231220234id_/http%3A//freehosting.zendesk.com/entries/22526216) for the most accurate reproduction.*
 
 # Privacy Policy : Web Hosting Help Desk
 
