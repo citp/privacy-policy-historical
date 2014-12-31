@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamefront.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628092451id_/http%3A//www.gamefront.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefront.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231053708id_/http%3A//www.gamefront.com/privacy) for the most accurate reproduction.*
 
-# GAMEFRONT MEDIA PRIVACY POLICY - page 1 | Game Front
+# GAMEFRONT MEDIA PRIVACY POLICY - page 1 | GameFront
 
 Thank you for visiting a Defy Media, LLC website (the “Site”)!  The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information.
 
