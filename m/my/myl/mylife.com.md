@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylife.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601172533id_/http%3A//www.mylife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylife.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231022015id_/http%3A//www.mylife.com/privacy-policy) for the most accurate reproduction.*
 
 # MyLife | Connecting everyone. All in one place.
 
@@ -174,6 +174,77 @@ We may, in our sole discretion, make changes to this Policy from time to time in
 
 Any changes to this Policy will become effective thirty (30) days after the posted revision date of the Privacy Policy. By continuing to use the Services following such changes, you are agreeing to accept the terms of the revised Policy
 
+## Mobile Privacy Policy
+
+ 
+
+This privacy policy (“Privacy Policy”) governs your use of the software application “MyLife” (“Application”) for mobile devices that was created by MyLife.com, Inc. (“MyLife”) The Application is a mobile application that allows you to view newsfeeds of major social networks, your e-mail accounts, and the ability to send and receive e-mail messages, social posts, and comments. The Application also allows you to monitor your identity, search for people, see who is searching for you, and send and receive messages directly to other MyLife members. .
+
+  Notwithstanding, the Mobile App is subject to the terms and conditions contained in [Apple’s Minimum Terms of Developer’s End-User License Agreement](http://www.apple.com/legal/internet-services/itunes/appstore/dev/minterms/) and the [Android Market Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html), and to the extent any term or condition in this Agreement contradicts the aforementioned developer agreements, the terms and conditions of the developer agreements shall govern. Any information that is provided to Apple Inc. or Google Inc. will not be deemed confidential by Apple Inc. or Google Inc. This Privacy Policy shall also be subject to the terms and conditions contained in Apple Inc.’s App Store or Google’s Android Market.
+
+  **User Provided Information**
+
+  The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
+
+  When you register with us and use the Application, you generally provide the following:  
+• First and last name  
+• Email  
+• Zip code (location)  
+• Birthdate (age)
+
+  We may also use the information you provided us to contact you from time to time to provide you with important information, required notices and marketing promotions.
+
+  Personal information shared via other social network services (e.g. Facebook, Linkedin, etc.) may share with MyLife the personal information you have provided to that social network service. The social network service should give you the right to opt-out of this sharing.
+
+  If you use the Facebook Connect function to import information or to create your Member Profile, we will collect the following: your full name, gender and date of birth; email address; employment and education; certain Facebook profile details; relationships; photos/videos; and live stream feeds. Facebook profile information will not be imported into your Member Profile without your consent. We will share this information in the manner specified in this privacy policy. You can edit and/or update this information on the Application whenever you choose by going to the Edit section of your profile and adjusting the information as you wish.
+
+  Please note that if you choose to provide us with personal information relating to other people, you represent that you have the authority to do so and to permit us to use the information in accordance with the terms and conditions set forth in this Policy. You should also be aware that any personal information you submit through public areas of the MyLife’s services (e.g., blogs, forums, people search pages, etc.) (“Services”) can be viewed, collected, and possibly used by others, both on the Services (e.g., to send you unsolicited messages) and potentially on third-party services to the extent permissible under this Policy. We encourage Members and non-Members to refrain from disclosing personal information within such public areas of the Services that they do not wish to share. If you would like additional details regarding the areas of the Services that may be publicly accessible, please do not hesitate to contact Customer Care toll-free at (888) 704-1900 Mon-Fri 6am-9pm PST or visit the [HELP](http://www.mylife.com/help) section of the Application.  
+You can sign into your account to see or delete any personally identifiable information we have stored, such as your name, address, email or phone number. You can also contact us by email to request to see or delete this information. Without your request to delete such information, we may keep the data indefinitely.
+
+  **Automatically Collected Information**
+
+  We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from services like Facebook.
+
+  Our systems may associate this personal information with your activities in the course of providing service to you (such as pages you view or things you click on or search for).
+
+  We do not knowingly contact or collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can promptly remove the information.
+
+  **We may disclose User Provided and Automatically Collected Information:**  
+• As required by law, such as to comply with a subpoena, or similar legal process;  
+• When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;  
+• With our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.  
+• If MyLife.com, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+
+  **Opt-Out Rights**
+
+  You can sign into your account to see or delete any personally identifiable information we have stored, such as your name, address, email or phone number. You can also contact us by email to request to see or delete this information.
+
+  You can stop future collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at [privacy@mylife.com](mailto:privacy@mylife.com). Please allow sufficient time for us to process your request.
+
+  **Data Analytics**
+
+  Analytics companies may access data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user.
+
+  **Data Retention Policy, Managing Your Information**
+
+  We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at privacy@mylife.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+
+  **Security**
+
+  MyLife is committed to maintaining the security of information under our control. We have taken security measures, consistent with best industry practices, to protect your personal information. To prevent unauthorized access, maintain data accuracy and ensure correct use of information, we have put in place industry-accepted physical, technical and administrative practices to safeguard and secure the information we collect.
+
+  **Changes**
+
+  MyLife may revise and update the Privacy Policy at any time. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy with the last revised date and providing an alert upon opening the Application. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+
+  **Your Consent**
+
+  By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. “Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States’ privacy standards.
+
+  **Other Terms and Conditions**
+
+  Please review the [User Agreement](http://www.mylife.com/user-agreement/), which sets out other important terms of your use of the Application.
+
 **CONTACT US**
 
 If you have any questions or concerns about this Policy or our privacy practices on the Services, please write to us at:
@@ -182,9 +253,10 @@ MyLife.com, Inc.
 Attn: Privacy  
 914 Westwood Blvd. (#517)  
 Los Angeles, CA 90024-2905  
-You can also contact us via e-mail at [privacy@mylife.com](mailto:privacy@mylife.com), or by calling our Customer Care team at (888) 704-1900. Please note that e-mail communications are not always secure; accordingly, we request that you do not include credit card details or other sensitive information in your e-mails to us.  
-Last updated: October 1, 2013
+You can also contact us via e-mail at [privacy@mylife.com](mailto:privacy@mylife.com), or by calling our Customer Care team at (888) 704-1900. Please note that e-mail communications are not always secure; accordingly, we request that you do not include credit card details or other sensitive information in your e-mails to us.
 
-Effective Date: October 31, 2013
+  Last updated: September 17, 2014
 
-© Copyright 2013, Pioneer. Created by [Themeapt](https://web.archive.org/web/20140601172533id_/http://www.mylife.com/privacy-policy/themeapt.com).
+  Effective Date: October 17, 2014
+
+© Copyright 2013, Pioneer. Created by [Themeapt](https://web.archive.org/web/20141231022015id_/http%3A//www.mylife.com/themeapt.com).
