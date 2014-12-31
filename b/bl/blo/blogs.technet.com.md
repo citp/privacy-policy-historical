@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blogs.technet.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624154611id_/http%3A//go.microsoft.com/fwlink/%3Flinkid%3D248681) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogs.technet.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231033849id_/http%3A//go.microsoft.com/fwlink/%3Flinkid%3D248681) for the most accurate reproduction.*
 
 # Microsoft Privacy Statement
 
-Last Updated: June 2014
+Last Updated: October 2014
 
 Microsoft.com Privacy Statement 
 
@@ -90,6 +90,7 @@ As described in more detail below, many websites and online services from Micros
   * Coremetrics: <http://www.coremetrics.com/company/privacy.php#optout>
   * Visible Measures: <http://corp.visiblemeasures.com/viewer-settings>
   * Google Analytics: <http://tools.google.com/dlpage/gaoptout> (requires you to install a browser add-on) 
+  * Kissmetrics: <https://www.kissmetrics.com/user-privacy>
 
 
 
@@ -383,7 +384,7 @@ Payment Data is the information that you provide when you make online purchases.
 
 Payment Data is used to complete your transaction, as well as for the detection and prevention of fraud. In support of these uses, Microsoft may share your Payment Data with banks and other entities that process payment transactions or other financial services, and for fraud prevention and credit risk reduction.
 
-When you provide Payment Data while logged in with your Microsoft or organizational account we will store that data to help you complete future transactions. 
+When you provide Payment Data while logged in with your Microsoft or organizational account we will store some of that data to help you complete future transactions. 
 
 You may update or remove the payment instrument information associated with your Microsoft account by logging in at [https://commerce.microsoft.com](https://commerce.microsoft.com/ "https://commerce.microsoft.com/"). You may remove the payment instrument information associated with your organizational account by contacting [Customer Support](http://go.microsoft.com/fwlink/?LinkId=266728 "Customer Support"). After you close your account or remove a payment instrument, however, Microsoft may retain your payment instrument data for as long as reasonably necessary to complete your existing transaction, to comply with Microsoft’s legal and reporting requirements, and for the detection and prevention of fraud. 
 
@@ -457,7 +458,14 @@ Summary
   * If you have a Microsoft account password question, please visit [Microsoft account support.](http://go.microsoft.com/FWLink/p/?LinkID=320207)
   * If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our [Web form](http://go.microsoft.com/fwlink/?LinkId=321116 "Web form"). 
     * By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA 
-    * By Phone: 425-882-8080 
+    * By Phone: 425-882-8080
+  * Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland. The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address:
+
+> Microsoft Ireland Operations, Ltd.  
+>  Attn: Data Protection  
+>  Carmenhall Road  
+>  Sandyford, Dublin 18, Ireland
+
   * To find the Microsoft subsidiary in your country or region, see <http://www.microsoft.com/worldwide/>. 
 
 
@@ -485,8 +493,6 @@ If a password is used to help protect your accounts and personal information, it
 
 Personal information collected on Microsoft sites and services may be stored and processed in the United States or any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities. Microsoft abides by the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Economic Area and Switzerland. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>. 
 
-As part of Microsoft’s participation in the Safe Harbor program, we use TRUSTe, an independent third party, to resolve disputes you have with us in connection with our policies and practices. If you would like to contact TRUSTe, please visit <https://feedback-form.truste.com/watchdog/request>. 
-
 Microsoft may retain your personal information for a variety of reasons, such as to comply with our legal obligations, resolve disputes, enforce our agreements, and as long as necessary to provide services. To learn how to access your personal information, visit [Accessing Your Information](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspAccessingInformationModule&view=Description). 
 
 **Changes to Our Privacy Statements**
@@ -499,7 +505,7 @@ We will occasionally update our privacy statements to reflect customer feedback 
   * If you have a Microsoft account password question, please visit [Microsoft account support.](http://go.microsoft.com/FWLink/p/?LinkID=320207)
   * If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our [Web form](http://go.microsoft.com/fwlink/?LinkId=321116 "Web form"). 
     * By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA 
-    * By Phone: 425-882-8080 
+    * By Phone: 425-882-8080
   * To find the Microsoft subsidiary in your country or region, see <http://www.microsoft.com/worldwide/>. 
 
 
