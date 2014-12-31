@@ -1,6 +1,49 @@
-> *The following text is extracted and transformed from the rotogrinders.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123635id_/http%3A//rotogrinders.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotogrinders.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231012442id_/https%3A//rotogrinders.com/static/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# RotoGrinders: The Daily Fantasy Sports Authority
+
+[Rotogrinders.com | Daily Fantasy Games Advice, Community, and Rankings](https://rotogrinders.com/)
+
+  * Menu
+  * [Rotogrinders.com | Daily Fantasy Games Advice, Community, and Rankings](https://rotogrinders.com/)
+  *   * Sign In or Sign Up
+  * Daily Research
+  * Search
+  *     * FanDuel 
+    * DraftKings 
+    * Articles 
+    * Reviews 
+    * [GrindersU](https://web.archive.org/lessons/GrindersU_Introduction_Daily_Fantasy_Lessons-177082)
+    * [ GrindersLive ](https://rotogrinders.com/live)
+    * [Sign Up](https://rotogrinders.com/sign-up)
+    * [Sign In](https://rotogrinders.com/sign-in?from=https%3A%2F%2Frotogrinders.com%2Fstatic%2Fprivacy-policy)
+  *     * [FanDuel Review](https://rotogrinders.com/reviews/FanDuel_Promocode-115)
+    * [FanDuel Research Tools](https://rotogrinders.com/offers/fanduel/nfl)
+    * [Getting Started](https://rotogrinders.com/articles/FanDuel_Strategy-239679)
+    * [FanDuel NFL Strategy](https://rotogrinders.com/articles/FanDuel_NFL_Strategy-239686)
+    * [FanDuel NBA Strategy](https://rotogrinders.com/articles/FanDuel_NBA_Strategy-239702)
+    * [FanDuel MLB Strategy](https://rotogrinders.com/articles/FanDuel_MLB_Strategy-239696)
+  *     * [News](https://rotogrinders.com/articles/category/news)
+    * By Sport 
+    * [Promotions & Industry](https://rotogrinders.com/articles/category/industry)
+    * [Strategy](https://rotogrinders.com/articles/category/strategy)
+    * [Championship Coverage](https://rotogrinders.com/pages/RotoGrinders_Championship_Coverage-100358)
+    * [Interviews](https://rotogrinders.com/articles/category/interviews)
+  *     * [ NFL](https://rotogrinders.com/articles/category/nfl)
+    * [ MLB](https://rotogrinders.com/articles/category/mlb)
+    * [ NBA](https://rotogrinders.com/articles/category/nba)
+    * [ NHL](https://rotogrinders.com/articles/category/nhl)
+    * [ CFB](https://rotogrinders.com/articles/category/cfb)
+    * [ CBB](https://rotogrinders.com/articles/category/cbb)
+  *     * Daily Research 
+    * [Main Forum](https://rotogrinders.com/threads/category/main)
+    * [All Forums](https://rotogrinders.com/forums)
+    * Rankings 
+    * [Lineups](https://rotogrinders.com/lineups)
+    * [Incentives](https://rotogrinders.com/incentives)
+    * Search 
+
+
 
 RotoGrinders understands your desire to have your personal information protected. We respect your concerns about privacy and describe below the types of information we collect, how we may use it, and with whom we may share it. Please contact us at support@rotogrinders.com with any questions you may have.
 
@@ -30,7 +73,7 @@ Please consult the Privacy Policies of third parties we work with, such as ad ne
 
 ## Legal Information
 
-In certain extreme instances, it may be necessary for RotoGrinders to disclose your personal information to government officials or as otherwise required by law. No personally identifiable information may be disclosed to any law enforcement agency or governmental agency except in response to a subpoena, warrant, or other process issued by a court of competent jurisdiction; a legal process having the same consequence as a court-issued request for information; or where such disclosure is necessary for us to enforce our legal rights.
+Rotogrinders respects your privacy and, under ordinary circumstances, will not disclose the personal or personally identifiable information you provide to us to third parties. There may be circumstances, however, when such disclosure is necessary and therefore will occur. For instance, Rotogrinders may be required by law to disclose this information to government officials and judicial/law enforcement officers, such as in response to a subpoena, warrant, court demand, or other properly issued legal process. Additionally, such disclosure may be necessary for us to protect and enforce our legal rights. Consistent with this, we reserve the right to disclose personal or personally identifiable information to third parties where necessary – in our sole discretion – to protect the integrity of the site or where other pressing business need presents itself.
 
 ## Links to External Websites
 
