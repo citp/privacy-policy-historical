@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rachaelrayshow.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630100847id_/https%3A//cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy%3Fcategories%3DCBS_Interactive%253AmPrivacy%26template%3Dtemplate_mobilePrivacy%26referer%3Dmobileprivacy.com%26data%3D%26cfs%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachaelrayshow.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231024853id_/https%3A//cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy%3Fcategories%3DCBS_Interactive%253AmPrivacy%26template%3Dtemplate_mobilePrivacy%26referer%3Dmobileprivacy.com%26data%3D%26cfs%3Ddefault) for the most accurate reproduction.*
 
 # CBSi Privacy Policy
 
-_Effective Date: January 2nd, 2014_  
+_Effective Date: August 15, 2014_  
  **Note:** The CBS Interactive Privacy Policy has been updated. Please review the updated privacy policy carefully before using the CBS Interactive Web Sites. By using any of the CBS Interactive Web Sites, you consent to the terms of the updated privacy policy.
 
 [Click here](https://cbsi.secure.force.com/CBSi/articles/FAQ/mPrivacy-Policy-FAQ?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default) for more information about the updates
@@ -77,7 +77,7 @@ __Information we collect automatically on CBS Interactive Websites__. CBS Intera
 • Information about your interactions with audio and video content, such as the type of content listened to and viewed, and information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded;  
  
 
-• Upon request, your bandwidth speed and information about the software programs installed on your computer; and  
+• Upon request, your bandwidth speed and information about the software programs installed on your computer including registry key information; and  
  
 
 • Standard server log information.  
@@ -91,7 +91,7 @@ __Information we obtain from other sources__. Where permitted by applicable law,
 • Demographic data, such as age, gender, and income level;  
  
 
-• If you access third-party services (such as Facebook, Google or Twitter) through a CBS Interactive Web Site, or if you access a CBS Interactive Web Site via a third-party service, your username and password for those services and other information available about or collected from you on those services, as described in our overview of [third-party social networking services](https://cbsi.secure.force.com/CBSi/articles/FAQ/mThird-Party-Social-Networking-Services?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default)  
+• If you access third-party services (such as Facebook, Google or Twitter) through a CBS Interactive Web Site, or if you access a CBS Interactive Web Site via a third-party service, your username and password for those services and other information available about or collected from you on those services, as described in our overview of [Video Services and Social Networking Policy](https://cbsi.secure.force.com/CBSi/articles/FAQ/mThird-Party-Social-Networking-Services?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default)  
  
 
 • Your interests and purchase behavior;  
@@ -138,7 +138,7 @@ We generally use other information we collect about you to:
 
 CBS Interactive is committed to maintaining your trust and we want you to understand when and with whom we may share information collected about you.
 
-• __With your consent.__ With your consent, we may share your contact information with third-party business partners. For example, CBS Interactive Web Sites such as ZDNet.com and BNET.com offer free access to relevant services (e.g., webcasts and white papers) if you agree to have your information shared with third parties so they can contact you about related products and services.  
+• __With your consent.__ With your consent, we may share your contact information with third-party marketing partners. For example, CBS Interactive Web Sites such as ZDNet.com and TechRepublic.com offer free access to relevant services (e.g., webcasts and white papers) if you agree to have your information shared with third parties so they can contact you by email, telephone, postal mail or other common methods of communication about their products or services.  
  
 
 • __Authorized third-party service providers.__ We share your information with third-party vendors who help us with specialized services, including customer support, email and text message deployment, business analytics, marketing, and data processing. These third parties are allowed to use your information to help us provide our services and not for any other purpose.  
@@ -150,7 +150,7 @@ CBS Interactive is committed to maintaining your trust and we want you to unders
 • __Co-Branded Partners.__ Co-Branded Partners are third parties with whom a CBS Interactive Web Site may jointly offer a service or feature. You can tell when you are accessing a service offered by a Co-Branded Partner because the Co-Branded Partner's name will be featured prominently. You may be asked to provide information about yourself to register for a service offered by a Co-Branded Partner. In doing so, you may be providing your information to both us and the Co-Branded Partner, or we may share your information with the Co-Branded Partner. Please note that the Co-Branded Partner's privacy policy may apply to its use of your information.  
  
 
-• __CBS Interactive Web Sites and other CBS businesses.__ The CBS Interactive family continues to grow to include innovative [CBS Interactive Web Sites](http://www.cbsinteractive.com/our_brands.php) that offer rich and deep interactive experiences. Where permitted by law, we may share information we collect about you within the [family of CBS Interactive Web Sites and with CBS](http://www.cbscorporation.com/portfolio.php) Corporation, our parent company, and other CBS-affiliated companies, so we can provide you with information about products and services that might interest you.  
+• __CBS Interactive Web Sites and other CBS businesses.__ The CBS Interactive family continues to grow to include innovative [CBS Interactive Web Sites](http://www.cbsinteractive.com/brands/) that offer rich and deep interactive experiences. Where permitted by law, we may share information we collect about you within the [family of CBS Interactive Web Sites](http://www.cbsinteractive.com/brands/) and with [CBS Corporation](http://www.cbscorporation.com/), our parent company, and other [CBS-affiliated companies](http://www.cbscorporation.com/portfolio.php), so we can provide you with information about products and services that might interest you.  
  
 
 • __Business transfers.__ We may share your information in connection with a substantial corporate transaction, such as the sale of a CBS Interactive Web Site, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.  
@@ -162,7 +162,7 @@ CBS Interactive is committed to maintaining your trust and we want you to unders
 • __Protect our Web Sites and users.__ We may disclose information to protect and defend the legal rights, interests, and safety of CBS Interactive Web Sites, other CBS companies, and their employees, agents, and contractors (including enforcing our agreements); to protect the safety and security of users of the Web Sites and members of the public; and as otherwise disclosed in our [Terms of Use](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSInteractive-Terms-of-Use?template=template_touzd&referer=touzd.com).  
  
 
-Please note that we may share information with advertisers as described in our overview of [CBS Interactive online advertising](https://cbsi.secure.force.com/CBSi/articles/FAQ/mOnline-Advertising?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default). We also may share aggregated or anonymized information with third parties, including to help us develop content and services we hope you will find of interest or to help these third parties develop their own products and service offerings. This sharing of anonymized or aggregated information will not include information that could be used to individually identify you.
+Please note that we may share information with advertisers as described in our overview of [CBS Interactive Online Advertising](https://cbsi.secure.force.com/CBSi/articles/FAQ/mOnline-Advertising?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default). In addition, information collected about your interactions with audio and video content may be shared with third party social networking services, including Facebook, and video measurement and subscription services, including Nielsen TV Rating, as described in our Video Services and Social Networking Policy. We also may share aggregated or anonymized information with third parties, including to help us develop content and services we hope will interest you or to help these third parties develop their own products and service offerings including targeted marketing as described in our overview of [Third Party Online Advertising](https://cbsi.secure.force.com/CBSi/articles/FAQ/mThird-Party-Online-Advertising?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default).
 
 5\. Your Choices
 
