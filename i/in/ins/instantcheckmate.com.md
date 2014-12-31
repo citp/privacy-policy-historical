@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013313id_/http%3A//www.instantcheckmate.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231162302id_/http%3A//www.instantcheckmate.com/privacy_policy) for the most accurate reproduction.*
 
 # Instant Checkmate Privacy Policy - The internet's #1 source for Background Checks
 
@@ -91,4 +91,6 @@ Las Vegas, NV 89103-4052
 
 #### Get Started Now: Search for Someone You Know...
 
-1403919193
+##### Search Our Index of Common Last Names
+
+1420042982
