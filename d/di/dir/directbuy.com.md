@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directbuy.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523123659id_/http%3A//www.directbuy.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directbuy.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231070308id_/http%3A//www.directbuy.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DirectBuy
 
@@ -10,13 +10,13 @@ By using the Website on which this Policy is found, you consent to the collectio
 
 ####  **Information Collection  **
 
-We collect personal information aboutusers over time and across different websites when you use this website orservice. We may also have third parties that collect personal information thisway. When you visit this Website, we may request that you provide us withcertain personally identifiable information, such as name, address, e-mailaddress, phone and fax number, and other information. If you are a DirectBuymember placing an order, we may request credit card or other payment informationnecessary to complete your order. In addition, we may collect certainnon-personally identifiable information when you visit many of our web pagessuch as the type of browser you are using (e.g., Firefox, Internet Explorer),the type of operating system you are using, (e.g., Windows XP or Mac OS) andthe domain name of your Internet service provider (e.g., AT&T, Yahoo).
+We collect personal information about users over time and across different websites when you use this website or service. We may also have third parties that collect personal information this way. When you visit this Website, we may request that you provide us with certain personally identifiable information, such as name, address, e-mail address, phone and fax number, and other information. If you are a DirectBuy member placing an order, we may request credit card or other payment information necessary to complete your order. In addition, we may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Firefox, Internet Explorer),the type of operating system you are using, (e.g., Windows XP or Mac OS) and the domain name of your Internet service provider (e.g., AT&T, Yahoo).
 
 ####   
  **Use of Personal Information**  
 
 
-We use the personal information you provide about yourself to operate thisWebsite, keep you posted on the benefits of your membership, to fulfill your requests for products, programs, and services (e.g., membership, merchandise,or information on our events), to communicate with you about DirectBuy, our offerings, events and promotions, to respond to your inquiries about our offerings; to prevent or respond to prohibited or illegal activities; to enforce the terms of use of this Website, this privacy policy, the MembershipAgreement, or the Membership Guide; to customize, measure, and improve the performance of our Websites and advertising; and to compare information for accuracy and verify it with third parties. We also use this information to communicate with you, such as to contact you about your membership or account with us.
+We use the personal information you provide about yourself to operate this Website, keep you posted on the benefits of your membership, to fulfill your requests for products, programs, and services (e.g., membership, merchandise,or information on our events), to communicate with you about DirectBuy, our offerings, events and promotions, to respond to your inquiries about our offerings; to prevent or respond to prohibited or illegal activities; to enforce the terms of use of this Website, this privacy policy, the Membership Agreement, or the Membership Guide; to customize, measure, and improve the performance of our Websites and advertising; and to compare information for accuracy and verify it with third parties. We also use this information to communicate with you, such as to contact you about your membership or account with us.
 
 We may also use personal information for internal functions such as research, data analysis, and auditing to develop DirectBuy’s products, services, and communications with members and non-members. This information may also be used if you enter into a contest, sweepstakes, or other similar promotion. We may use your personal information to administer these programs.  
 
@@ -53,7 +53,7 @@ We offer certain features that are available only through the use of cookies. Yo
 
 Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
 
-As is the common practice of most websites, we may gather some information automatically and store it in log files. This information may include things like Internet Protocol (IP) addresses, browser type and language, computer device type, internet services provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data.
+As is the common practice of most websites, we may gather some information automatically and store it in log files. This information may include things like Internet Protocol (IP) addresses, browser type and language, computer device type, internet services provider (ISP), referring and exit pages, operating system, date/time stamp, and click stream data.
 
 This information may be used to examine and identify trends, to manage the site, to learn about user activity on the site, and to gather demographic information about our Members or visitors. DirectBuy may use this information to tailor our marketing and advertising services.
 
