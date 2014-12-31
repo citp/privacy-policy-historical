@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the keycaresolutions.co.uk privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507130907id_/http%3A//www.keycaresolutions.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keycaresolutions.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231031959id_/http%3A//www.keycaresolutions.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At Key Care Solutions we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you when you are on this site.  
+At Key Care Solutions, we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you when you are on this site.  
 We do update this Policy from time to time so please do return and review this Policy regularly.  
-For the purpose of the Data Protection Act 1998 our data controller is Peter Cullen.  
+For the purpose of the Data Protection Act 1998, our data controller is Peter Cullen.  
 (Reg No: Z2430923)
 
 ##  Information We Collect 
 
-In operating our website we may collect and process the following data about you:
+In operating our website, we may collect and process the following data about you:
 
   * Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
 
@@ -31,13 +31,13 @@ We may on occasion gather information regarding your computer whilst you are on 
   * This enables us to improve our services and to provide statistical information regarding the use of our website to our advertisers where appropriate.
 
 
-  * Such information will not identify you personally it is statistical data about our visitors and their use of our site. 
+  * Such information will not identify you personally, it is statistical data about our visitors and their use of our site. 
 
 
   * Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you.
 
 
-  * All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
+  * All computers have the ability to decline cookies. This can be done by activating the setting on your browser that enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
 
 
   * Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
@@ -54,13 +54,13 @@ The information that we collect and store relating to you is primarily used to e
   * To estimate our audience size and usage pattern.
 
 
-  * To provide information on other products which we feel may be of interest to you, where you have consented to receive such information.
+  * To provide information on other products, which we feel, may be of interest to you, where you have consented to receive such information.
 
 
   * To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service.
 
 
-  * If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you.
+  * If you are an existing customer, we may contact you with information about goods and services similar to those, which were the subject of a previous sale to you.
 
 
   * To speed up your searches.
@@ -101,7 +101,7 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ##  Access to Information
 
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.  
+The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10, which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.  
 Key Care Solutions Ltd, 5 Newton Court, Bampton, Devon EX16 9LG.
 
 ##  Contact Us
