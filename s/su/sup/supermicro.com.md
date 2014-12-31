@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermicro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130916id_/http%3A//www.supermicro.com/about/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermicro.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231055603id_/http%3A//www.supermicro.com/about/policies/privacy.cfm) for the most accurate reproduction.*
 
 # Super Micro Computer, Inc. - About Supermicro | Privacy
 
