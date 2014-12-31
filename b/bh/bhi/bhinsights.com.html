@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bhinsights.com privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630170047id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bhinsights.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231175847id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> <base href="http://static.bhphoto.com">
 <!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> -->
@@ -11,13 +11,13 @@
 
 <!-- In order: reset -> fonts -> layout -> widgets -> page css -->
 
-<link href="http://static.bhphoto.com/FrameWork/css/min/reset-fonts-layout.css?v=20140602" rel="stylesheet" type="text/css" media="all">
-<link href="http://static.bhphoto.com/FrameWork/css/base.css?v=20140602" rel="stylesheet" type="text/css" media="all"> 
-<link href="http://static.bhphoto.com/FrameWork/css/widgets.css?v=20140602" rel="stylesheet" type="text/css" media="all"> 
+<link href="http://static.bhphoto.com/FrameWork/css/min/reset-fonts-layout.css?v=20141130a" rel="stylesheet" type="text/css" media="all">
+<link href="http://static.bhphoto.com/FrameWork/css/base.css?v=20141130a" rel="stylesheet" type="text/css" media="all"> 
+<link href="http://static.bhphoto.com/FrameWork/css/widgets.css?v=20141130a" rel="stylesheet" type="text/css" media="all"> 
 <!--<link href="http://static.bhphoto.com/FrameWork/css/min/header-footer.css" rel="stylesheet" type="text/css" media="all" /> -->
-<link href="http://static.bhphoto.com/FrameWork/css/bhLayer.css?v=20140602" rel="stylesheet" type="text/css" media="all">  
-<link href="http://static.bhphoto.com/FrameWork/css/ajaxLayer.css?v=20140602" rel="stylesheet" type="text/css" media="all"> 
-<!--[if IE]><link href="http://static.bhphoto.com/FrameWork/css/ie-only.css?v=20140602" rel="stylesheet" type="text/css"><![endif]-->
+<link href="http://static.bhphoto.com/FrameWork/css/bhLayer.css?v=20141130a" rel="stylesheet" type="text/css" media="all">  
+<link href="http://static.bhphoto.com/FrameWork/css/ajaxLayer.css?v=20141130a" rel="stylesheet" type="text/css" media="all"> 
+<!--[if IE]><link href="http://static.bhphoto.com/FrameWork/css/ie-only.css?v=20141130a" rel="stylesheet" type="text/css"><![endif]-->
 
 
 
@@ -48,11 +48,79 @@
 
 
 
+	<script>var lazyLoad = {
+		js : function(url,cb){
+			var h=document.getElementsByTagName("head")[0],d=false,s=document.createElement("script");
+			s.src=url;
+			s.onload=s.onreadystatechange=function(){
+				if(!d&&(!this.readyState||this.readyState=="loaded"||this.readyState=="complete")){
+					d=true;
+					if(typeof cb==='function'){
+						cb();
+					}
+				}
+			};
+			h.appendChild(s);
+		},
+		css : function(url){
+			var link = document.createElement("link");
+			link.href=url;
+			link.rel="stylesheet";link.type="text/css";
+			var a = document.getElementsByTagName("link")[0];
+			a.parentNode.insertBefore(link,a);
+		},
+		onLoad : function(cb){
+			if(window.addEventListener)window.addEventListener("load",cb,false);
+			else window.attachEvent("onload",cb);
+		},
+		lazyJs : function(url,cb){
+			if(document.readyState == "complete"){
+				lazyLoad.js(url,cb);
+			}else{
+				lazyLoad.onLoad(function(){
+					lazyLoad.js(url,cb);
+				})
+			}
+		},
+		lazyCss : function(url){
+			if(document.readyState == "complete"){
+				lazyLoad.css(url);
+			}else{
+				lazyLoad.onLoad(function(){
+					lazyLoad.css(url);
+				})
+			}	
+		},
+		lazyRunJs : function(func){
+			if(document.readyState == "complete"){
+				func();
+			}else{
+				lazyLoad.onLoad(function(){
+					func();
+				})
+			}
+		},
+		prefetch : function(urls){
+			if(!urls || !urls.length)return;
+			if(typeof urls === "string")urls = [urls];
+			var xhr = new XMLHttpRequest();
+			xhr.onreadystatechange = function(){
+				if(xhr.readyState === 4){
+					loader.prefetch(urls);
+				}
+			}
+			xhr.open("GET",urls.splice(0,1),true);
+			xhr.send();
+		}
+}</script>
 
-	<link rel="stylesheet" type="text/css" href="http://www.bhphotovideo.com/find/stylesheet.jsp?print=Y&amp;currPage=oldPage&amp;lang=en&amp;site=reg&amp;v=20140602a">
 
+	
+	
+		<link rel="stylesheet" type="text/css" href="http://www.bhphotovideo.com/find/stylesheet.jsp?currPage=oldPage&amp;holiday=Y&amp;lang=en&amp;site=reg&amp;v=20141130a">
+	
 
-<link href="http://static.bhphoto.com/FrameWork/css/sprites.css?v=20140602" rel="stylesheet" type="text/css">
+<link href="http://static.bhphoto.com/FrameWork/css/sprites.css?v=20141130a" rel="stylesheet" type="text/css">
   
 
 
@@ -63,7 +131,7 @@
 
 
 
-<script type="text/javascript" async="" src="http://www.bhphotovideo.com/find/javascripts.jsp?files=tealeaf/tealeaf.min.js&amp;v=20140602"></script><script type="text/javascript" src="http://www.bhphotovideo.com/FrameWork/dwr/v2/interface/DWRHelper.js?v=20140602"></script>
+<script type="text/javascript" src="http://www.bhphotovideo.com/FrameWork/dwr/v2/interface/DWRHelper.js?v=20141130a"></script>
 <script type="text/javascript" src="http://www.bhphotovideo.com/FrameWork/dwr/v2/engine.js"></script>
 <script type="text/javascript" src="http://www.bhphotovideo.com/FrameWork/dwr/v2/util.js"></script>
 
@@ -76,13 +144,25 @@
 
 
 
-	<script type="text/javascript" src="http://www.bhphotovideo.com/find/javascripts.jsp?print=Y&amp;currPage=oldPage&amp;lang=en&amp;v=20140602"></script>
+
+	
+		<script>
+			var BH = BH || {};
+			BH.constants = BH.constants || {};
+			BH.constants.jsessionid = "";
+		</script>
+	
+	
+	
+		<script type="text/javascript" src="http://www.bhphotovideo.com/find/javascripts.jsp?currPage=oldPage&amp;holiday=Y&amp;lang=en&amp;v=20141130a"></script>
+		
+	
 	
 
-<script type="text/javascript" src="http://static.bhphoto.com/FrameWork/js/common.js?v=20140602"></script>
-<script type="text/javascript" src="http://static.bhphoto.com/FrameWork/js/ajaxLayer.js?v=20140602c"></script>
+<script type="text/javascript" src="http://static.bhphoto.com/FrameWork/js/common.js?v=20141130a"></script>
+<script type="text/javascript" src="http://static.bhphoto.com/FrameWork/js/ajaxLayer.js?v=20141130ac"></script>
  <!--Includes latest jQuery -->
-<link href="/FrameWork/css/newHelpCenter.css?v=20140602" rel="stylesheet" type="text/css" media="all">
+<link href="/FrameWork/css/newHelpCenter.css?v=20141130a" rel="stylesheet" type="text/css" media="all">
 <script>
 $(document).ready(function(){
 	$("h3.policies").siblings().show("fast");
@@ -93,7 +173,7 @@ $(document).ready(function(){
 	});
 });
 </script>
-</head>
+<script src="http://www.bhphotovideo.com/find/javascripts.jsp?files=tealeaf/tealeaf.min.js&amp;v=20141130a"></script><script src="//nexus.ensighten.com/bhfoto/Bootstrap.js"></script></head>
 <body>
 <div id="doc1">
 <div id="tHeader">
@@ -102,9 +182,6 @@ $(document).ready(function(){
 
 
 
-
-
-	<script type="text/javascript" src="/FrameWork/js/tsedge_instr-min.js?v=20140602"></script>
 
 
 
@@ -158,6 +235,65 @@ $(document).ready(function(){
 	
 	
 	
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<div class="stripedBanner full-width swStripedBanner">
+		<div class="page-width interact-cont yearEnd">
+			<div>
+				
+				<div class="swExpBnr">
+					<a class="noUnderline" href="http://www.bhphotovideo.com/find/HelpCenter/Shipping.jsp#shippingOptions" manual_cm_sp="Shipping-_-SiteWide-_-YearEndHoliday2014-2">
+						<p class="left">
+							<span class="c17 fs16 bold upper">expedited shipping</span><br>
+							<span class="c18 fs11">on Orders Over $49</span>
+						</p>
+					</a>
+				</div>
+				
+			</div>
+			<div>
+				<a class="swPromoLink noUnderline" href="http://www.bhphotovideo.com/c/buy/year-end-savings/ci/22144/N/4019732813" alt="B&amp;H Holiday Gifts &amp; Deals" manual_cm_sp="HolidayDeals-_-SiteWide-_-YearEndHoliday2014-2">
+					<div class="bh fs9 c18">B&amp;H</div>
+					<div class="shopHol noWrap">
+						
+						<span class="c1">Shop Year End Deals <span class="orArrow">›</span></span>
+						
+					</div>
+					<div class="year c18">2014</div>
+				</a>
+			</div>
+			<div>
+				<div class="helpLinks left bhBinCandy">
+					<div class=""><a class="bannerLink noUnderline c18 fs11" href="http://www.bhphotovideo.com/find/giftCard.jsp" manual_cm_sp="GiftCard-_-SiteWide-_-YearEndHoliday2014-2">Gift Cards</a></div>
+					<div class=""><a class="bannerLink noUnderline c18 fs11" href="http://www.bhphotovideo.com/find/HelpCenter/ReturnExchange.jsp" manual_cm_sp="Return-_-SiteWide-_-YearEndHoliday2014-2">Extended Returns</a></div>
+					
+					<div class=""><a class="bannerLink noUnderline c18 fs11" href="http://www.bhphotovideo.com/find/HelpCenter/HoursOfOperation.jsp" manual_cm_sp="CUTOFFS-_-SiteWide-_-YearEndHoliday2014-2">Shipping Schedule</a></div>
+					
+				</div>
+				
+			</div>
+		</div>
+	</div>
+	
+
+		
+	
+	
 	<div class="site-user-links full-width elevn" data-selenium="siteUserLinks">
 		<div class="page-width clearfix">
 			<ul class="left site-links" data-selenium="siteLinks">
@@ -172,11 +308,11 @@ $(document).ready(function(){
 					</li>
 						
 					<li class="">
-						<a href="http://www.bhphotovideo.com/find/federal-gsa-contracts-gov-corporate-edu-sales.jsp" data-selenium="govEduLink">Government, Education &amp; Corporate</a>
+						<a href="http://www.bhphotovideo.com/find/federal-gsa-contracts-gov-corporate-edu-sales.jsp/removeMode/all" data-selenium="govEduLink">Government, Education &amp; Corporate</a>
 					</li>
 					
 					<li class="last ">
-						<a href="http://www.bhphotovideo.com/find/eduRootPage.jsp" data-selenium="eduRootLink">Students/Educators</a>
+						<a href="http://www.bhphotovideo.com/find/eduAdvantage.jsp" data-selenium="eduRootLink">Students/Educators</a>
 					</li>
         		 
         		
@@ -220,7 +356,7 @@ $(document).ready(function(){
 			
 				
 				
-					<span class="phone js-phone twelve c4">800.606.6969&nbsp;/&nbsp;212.444.6615</span>
+					<span id="js-phonenum" class="phone js-phone twelve c4">800.606.6969&nbsp;/&nbsp;212.444.6615</span>
 				
 			
 		</div>
@@ -232,20 +368,29 @@ $(document).ready(function(){
 		
 		
 		
-		<div class="superstore left" data-selenium="superStore">
-			<img usemap="#Map" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEUAAAALAAAAAABAAEAAAICRAEAOw==" hidefocus="true" alt="Visit Our NYC SuperStore, Explore Where Technology Lives" class="store-img" width="404" height="102">
-			<map name="Map" id="Map">
-				<area shape="poly" coords="35,96,40,38,161,1,215,5,217,50,228,99" href="http://www.bhphotovideo.com/find/HelpCenter/NYSuperStore08.jsp" alt="B&amp;H Super Store">
-				<area shape="poly" coords="401,87,393,50,216,51,225,87" href="http://www.bhphotovideo.com/find/HelpCenter/NYSuperStore08.jsp" alt="B&amp;H Super Store">
-			</map>
-		</div>
+			
+			<div class="deal-zone-in-header js-deal-zone-in-header left">
+				<a href="http://www.bhphotovideo.com/find/dealZone.jsp" manual_cm_sp="Banners-_-Header-_-DealZone">
+					<span class="dz-deal-item">
+						<span class="dz-logo">DealZone</span>
+						<span class="dz-img-container js-dz-img-container"></span>
+						<span class="dz-discount"></span>
+						<span class="dz-remaining">
+							<span class="dz-countdown-container js-dz-countdown"></span>
+						</span>
+					</span>
+					<span class="dz-placeholder">
+						<span class="dz-details-link c9 fs10 upper bold"><span class="dz-logo">DealZone</span> Details &gt;</span>
+					</span>
+				</a>
+			</div>
 		
 			
 		
 			
 		<div class="user right elevn c9">
 			
-				<div class="js-login login" data-selenium="login">
+				<div id="js-login" class="js-login login" data-selenium="login">
 					
 
 
@@ -256,23 +401,24 @@ $(document).ready(function(){
 
 <span class="">Welcome,</span>
 <span class="bold name js-name loggedInRel" data-selenium="loggedIn">
-	<a href="https://secure.bhphotovideo.com/find/MyAccount.jsp">Login/Register</a>
+	<a href="https://secure.bhphotovideo.com/find/MyAccount.jsp" id="js-loginname">Login/Register</a>
 </span>
 
-<a class="signout loggedInRel" href="http://www.bhphotovideo.com/bnh/controller/home?O=getpage.jsp&amp;A=LogMeOut&amp;Q=" data-selenium="logMeOut" target="_self">Sign Out</a>
-<a href="http://www.bhphotovideo.com/bnh/controller/home?O=PrivacySecurity.jsp&amp;A=getpage&amp;Q=Login.jsp" data-selenium="login" class="bold logInRel openInOnePopupLayer" rel="noLayerCache">
+<a class="signout loggedInRel" href="https://secure.bhphotovideo.com/bnh/controller/home?O=getpage.jsp&amp;A=LogMeOut&amp;Q=" data-selenium="logMeOut" target="_self">Sign Out</a>
+<a href="https://secure.bhphotovideo.com/bnh/controller/home?O=PrivacySecurity.jsp&amp;A=getpage&amp;Q=Login.jsp&amp;isLoginOnly=Y" data-selenium="loginLink" class="bold logInRel openInOnePopupLayer" rel="noLayerCache">
 	Login/Register
 </a>
+
 				</div>
 			
 
 			
 				<div class="topNavCart js-topNavCart" data-selenium="topNavCart">
 					<a class="cart js-cart fs16" href="http://www.bhphotovideo.com/find/cart.jsp" data-selenium="cartLink">
-						<span class="js-items items fs12 bold" data-selenium="cart-Items">0</span>
+						<span class="js-items items fs12 bold" id="js-ttlitm" data-selenium="cart-Items">0</span>
 						
 							<span class="ttl js-ttl bold" data-selenium="cart-total">
-								$<span class="number js-number" data-selenium="cart-total-number">0.00</span>
+								$<span class="number js-number" id="js-ttldlr" data-selenium="cart-total-number">0.00</span>
 							</span>
 						
 					</a>
@@ -285,9 +431,14 @@ $(document).ready(function(){
 								<h3 class="c2 fs16 bold" data-selenium="mini-cart-Header">
 									You have <span class="js-totalItems" data-selenium="mini-cart-Total-Items">0</span> items in your cart
 								</h3>
+								<span class="qtyItem" style="display:none">Qty:</span>
 								<div class="js-miniCartItems miniCartItems" data-selenium="miniCartItems"></div>
 								<a class="miniCartLink" href="http://www.bhphotovideo.com/find/cart.jsp" manual_cm_sp="MiniCart-_-ViewCart-_-Checkout" data-selenium="miniCartLink">
-									View Cart &amp; Begin Checkout
+									
+										
+											View Cart &amp; Begin Checkout
+										
+									
 								</a>
 							</div>
 						</div>
@@ -300,6 +451,7 @@ $(document).ready(function(){
 					<a name="Header-Wishlist" href="https://secure.bhphotovideo.com/bnh/controller/home?O=getpage.jsp&amp;A=WishList&amp;Q=showWishList" data-selenium="wishlist" target="_self">Wish List</a>
 					&nbsp; | &nbsp;
 					
+					
 					<a href="https://secure.bhphotovideo.com/bnh/controller/home?O=myAccount&amp;A=orderHistory&amp;Q=orderHistory" data-selenium="orderhistory">
 						Track Order
 					</a>
@@ -308,6 +460,45 @@ $(document).ready(function(){
 			
 		</div>
 	</div><!-- end brand-user -->
+	<script>
+		//this file holds scripts that are important for the initial view of the header
+//top bar cart ** chanegd to be included in html
+(function(){
+	var getCookie = function(cookie){
+		if(document.cookieObj)return document.cookieObj[cookie];
+		var parts = document.cookie.split(";"), i, parts, part, name, val;
+		document.cookieObj = {}
+		for(i=0;i<parts.length;i++){
+			part = parts[i].split("=");
+			name = part.shift().trim();
+			val = part.join("=").trim();
+			document.cookieObj[name] = val;
+		}
+		return getCookie(cookie);
+	};
+	var uui = getCookie("uui"),
+		topBarCart = getCookie("TopBarCart"),
+		ttldlr = document.getElementById("js-ttldlr"),
+		ttlitm = document.getElementById("js-ttlitm"),
+		jslogin = document.getElementById("js-login"),
+		loginame = document.getElementById("js-loginname"),
+		phonenum = document.getElementById("js-phonenum");
+	
+	if(topBarCart && ttldlr){
+		topBarCart = topBarCart.split("|");
+		ttlitm.textContent = ttlitm.innerText = topBarCart[0];
+		ttldlr.textContent = ttldlr.innerText = topBarCart[1];
+	}
+	if(jslogin && uui){
+		uui = uui.split("|");
+		phonenum.textContent = phonenum.innerText = decodeURIComponent(uui[0]);
+		if(uui[1]){
+			loginame.textContent = loginame.innerText = decodeURIComponent(uui[1]);
+			jslogin.className +=" js-loggedIn";
+		}
+	}
+}());
+	</script>
 	
 	<div class="nav-tabs page-width reg-site" data-selenium="nav-tabs">
 		<div class="tabs-search">
@@ -319,7 +510,7 @@ $(document).ready(function(){
 
 
 
-<form class="left search" name="searchForm" method="get" target="_self" action="http://www.bhphotovideo.com/c/search">
+<form class="left search typeAhead" name="searchForm" method="get" target="_self" action="http://www.bhphotovideo.com/c/search">
 	<p class="searchContainer">
 		<input type="text" class="twelve js-placeholder js-topsearch" name="Ntt" autocomplete="off" placeholder="Search by Keyword or Item #" value="">
 		<input type="hidden" name="N" value="0">
@@ -333,6 +524,7 @@ $(document).ready(function(){
 	</p>	
 </form>
 			
+             
 			<div class="tabs clearfix sixteen" data-selenium="tabs">
 				<ul class="right">
 					<li class="active first shop"><a data-selenium="rootPageLink" href="http://www.bhphotovideo.com"><strong>Shop</strong></a></li>
@@ -405,6 +597,214 @@ $(document).ready(function(){
 	
 	
 		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- plan ahead -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--OPEN THE 24th -->
+
+
+<!--OPEN THE 31th -->
+
+
+<!-- end Holiday Notes -->
+<!-- NEW YEAR -->
+
+<!--end New Year -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<noscript>
+
+<style>
+	div.darkBg, 
+	div.bigNote .okBtn,
+	div.holNotes .closeBtn{
+		display:none;
+	}
+</style>
+
+</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	
 	
 	
 	
@@ -529,6 +929,7 @@ $(document).ready(function(){
 				<h3 class="menuTitle shipDel">Shipping &amp; Delivery</h3>
 				<ul class="hcMenuLinks">
                     <li><a href="http://www.bhphotovideo.com/find/HelpCenter/Shipping.jsp#shippingOptions">Shipping Options</a></li>
+                    <li><a name="Left HelpCenter_Shipping &amp; Delivery_Shipping Fees" href="http://www.bhphotovideo.com/find/HelpCenter/Shipping.jsp#storePickup">Store Pickup</a></li>
                     <li><a href="http://www.bhphotovideo.com/find/HelpCenter/Shipping.jsp#shippingDest">Shipping Destinations</a></li>
                     <li><a href="http://www.bhphotovideo.com/find/HelpCenter/Shipping.jsp#delTimes">Shipping Delivery Times</a></li>
                 </ul>
@@ -566,7 +967,7 @@ $(document).ready(function(){
                 	<li><a href="http://www.bhphotovideo.com/find/HelpCenter/Payments.jsp#creditCards">Credit Cards</a></li>
                     <li><a href="http://www.bhphotovideo.com/find/HelpCenter/Payments.jsp#paypal">Paypal</a></li>
                     <li><a href="http://www.bhphotovideo.com/find/HelpCenter/Payments.jsp#googleWallet">Google Wallet</a></li>
-                    <li><a href="http://www.bhphotovideo.com/find/HelpCenter/Payments.jsp#billMeLater">Bill Me Later</a></li>
+                    <li><a href="http://www.bhphotovideo.com/find/HelpCenter/Payments.jsp#billMeLater">PayPal Credit</a></li>
                     <li><a href="http://www.bhphotovideo.com/find/HelpCenter/Payments.jsp#wireTransfer">Wire Transfers</a></li>
                     <li><a href="http://www.bhphotovideo.com/find/HelpCenter/Payments.jsp#cod">Check &amp; Collect On Delivery</a></li>
                     <li><a href="http://www.bhphotovideo.com/find/HelpCenter/Payments.jsp#giftCard">The B&amp;H Gift Card</a></li>
@@ -676,7 +1077,7 @@ $(document).ready(function(){
                         <div class="hcContentContainerTop"><img src="/images/helpCenter/contentTopBG.jpg"></div>
                         <div class="hcContentContainerMain">
                         <span class="subTitle">Mobile</span>
-                        <br> <strong>Terms &amp; Conditions </strong><p>The short code 22634 is used by B&amp;H Photo to promote News Alerts. You may opt-in by submitting the keyword "BHphoto" to 22634. 4 msgs/mo. Message &amp; Data rates may apply.<br>For additional information, text  "HELP"  to short code 22634. You may opt-out at anytime by sending STOP to short code 22634. Contact us at 1-877-291-1751 or <a href="mailto:cs@bhphotovideo.com" class="c5">cs@bhphotovideo.com</a><br>Supported carriers are AT&amp;T, U.S. Cellular, Verizon Wireless, Sprint, Cricket, Boost and T-Mobile.</p><strong>Privacy Policy</strong><br><p>B&amp;H Photo respects your privacy. We will not share or use your mobile number for any other purpose. We will only use information you provide to transmit your text message. Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with the Service, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate or incomplete, we may refuse you access to the Service and pursue any appropriate legal remedies.</p>
+                        <br> <strong>Terms &amp; Conditions </strong><p>The short code 22634 is used by B&amp;H Photo to promote News Alerts. You may opt-in by submitting the keyword "BHphoto" to 22634. 4 msgs/mo. Message &amp; Data rates may apply.<br>For additional information, text  "HELP"  to short code 22634. You may opt-out at anytime by sending STOP to short code 22634. Contact us at <a href="mailto:cs@bhphotovideo.com" class="c5">cs@bhphotovideo.com</a><br>Supported carriers are AT&amp;T, U.S. Cellular, Verizon Wireless, Sprint, Cricket, Boost and T-Mobile.</p><strong>Privacy Policy</strong><br><p>B&amp;H Photo respects your privacy. We will not share or use your mobile number for any other purpose. We will only use information you provide to transmit your text message. Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with the Service, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate or incomplete, we may refuse you access to the Service and pursue any appropriate legal remedies.</p>
                         </div>
                 <div class="hcContentContainerBottm"><img src="/images/helpCenter/contentbottomBG.jpg"></div>
         		</div>
@@ -708,6 +1109,7 @@ $(document).ready(function(){
 <li><a name="Right HelpCenter_Popular Topics_Hours of Operation" href="http://www.bhphotovideo.com/find/HelpCenter/HoursOfOperation.jsp#hours">
 	Hours of Operation:</a></li>
 <li><a name="Right HelpCenter_Popular Topics_Holiday Closing Schedule" href="http://www.bhphotovideo.com/find/HelpCenter/HoursOfOperation.jsp#closing">Holiday Closing Schedule</a></li>
+<li><a name="Right HelpCenter_Popular Topics_Shipping Fees" href="http://www.bhphotovideo.com/find/HelpCenter/Shipping.jsp#storePickup">Store Pickup</a></li>
 <li><a name="Right HelpCenter_Popular Topics_Shipping Fees" href="http://www.bhphotovideo.com/find/HelpCenter/Shipping.jsp#shippingFees">Shipping Fees</a></li>
 <li><a name="Right HelpCenter_Popular Topics_Shipping Destinations" href="http://www.bhphotovideo.com/find/HelpCenter/Shipping.jsp#shippingDest">Shipping Destinations</a></li>
 <li><a name="Right HelpCenter_Popular Topics_Shipping Options" href="http://www.bhphotovideo.com/find/HelpCenter/Shipping.jsp#shippingOptions">Shipping Options</a></li>
@@ -767,10 +1169,6 @@ $(document).ready(function(){
 	</div>
 	<div class="footer-inner page-width" data-selenium="footer-inner">
 		<div class="why-shop">
-			<style>
-				.footer:hover .square a{background-image: url(http://static.bhphoto.com/images/en/footSliderColor.jpg);}
-				.footer .square .img{background-image: url(http://static.bhphoto.com/images/en/footSliderGray.jpg);}
-			</style>
 			<h3 class="full-width eighteen bold c1">WHY SHOP AT B&amp;H</h3>
 			<div class="image-slider clearfix">
 				<div class="slider elevn c2">
@@ -799,7 +1197,7 @@ $(document).ready(function(){
 						</div>
 					</div>
 					<div class="square right">
-						<a href="http://www.bhphotovideo.com/c/promotion/10504/mobile-page.html" manual_cm_sp="Footer-_-WhatsNew-_-ShopMobile" data-selenium="shopMobile" target="_blank" style="background-position: 0 -369px;">
+						<a href="http://www.bhphotovideo.com/find/mobile-apps.jsp" manual_cm_sp="Footer-_-WhatsNew-_-ShopMobile" data-selenium="shopMobile" target="_blank" style="background-position: 0 -369px;">
 							<div class="img" style="background-position: 0 -369px;"></div>
 						</a>
 						<div class="msg">
@@ -815,7 +1213,7 @@ $(document).ready(function(){
 						</div>
 					</div>
 					<div class="square">
-						<a name="Footer-Why-Great Prices" target="greatprices" href="https://secure.bhphotovideo.com/bnh/controller/home/?O=LeftNavBar&amp;A=signUp&amp;Q" data-selenium="signUpLink" style="background-position: 0 -602px;">
+						<a name="Footer-Why-Great Prices" target="greatprices" href="http://www.bhphotovideo.com/c/browse/Rebates-Promotions/ac/rebates/N/4090209567/promotionPage" data-selenium="signUpLink" style="background-position: 0 -602px;">
 							<div class="img" style="background-position: 0 -602px;"></div>
 						</a>
 						<div class="msg">
@@ -838,13 +1236,19 @@ $(document).ready(function(){
 		<div class="email-signup clearfix" data-selenium="email-signup">
 			<form method="post" action="http://www.bhphotovideo.com/find/emailSignup.jsp" manual_cm_sp="Footer-_-SignUp-_-Sign`Up" class="left leftSide">
 				<label>
-					<strong class="submitted-rel fourteen">Thank you for joining the B&amp;H email list!</strong>
+					<strong class="submitted-rel fourteen yesAccount">Thank you for joining the B&amp;H email list!</strong>
+					<strong class="submitted-rel fourteen no-account-rel">Thank you for joining the B&amp;H email list!</strong>
 					<strong class="to-submit-rel fourteen">Sign up for B&amp;H news and special offers</strong>
 					<input type="text" name="email" size="20" maxlength="100" placeholder="email address" class="js-placeholder to-submit-rel" data-selenium="email">
 					<button class="to-submit-rel" data-selenium="submitSignup">Sign Up</button><br>
 					<span class="no-account-rel" data-selenium="no-account">Speed up future orders, see order history, create wish lists, and more.</span>
 					<span class="error ten c7">The email address you entered was an invalid email.</span>
 				</label>
+				<div class="ten email-signup-options to-submit-rel">
+					<label class="checked"><input type="checkbox" name="emailSignup" class="js-email-type" checked=""> DealZone Alerts</label>
+					
+					<label class="checked"><input type="checkbox" name="dealZoneEmailSignup" class="js-email-type" checked=""> Weekly B&amp;H Newsletter</label>
+				</div>
 			</form>
 			<form method="post" id="createAccount-email" action="http://www.bhphotovideo.com/find/createAccount.jsp">
 				<label>
@@ -1027,7 +1431,7 @@ $(document).ready(function(){
 					
 						<li class="footGiftLink imaged-link"><a name="Footer-Resources-Gift Card" data-selenium="resourceGiftCard" href="http://www.bhphotovideo.com/find/giftCard.jsp" manual_cm_sp="Footer-_-BH`Resrces-_-BH`GiftCrd" target="_self">B&amp;H Gift Card</a></li>
 				    
-					<li class="footCatalogLink  imaged-link"><a name="Footer-Resources-Interactive Catalog" data-selenium="interactiveCatalog" href="http://www.bhphotovideo.com/find/Catalog_frameset.jsp" manual_cm_sp="Footer-_-BH`Resrces-_-IntractvCatlg" title="Interactive Catalog">Browse our Summer 2014 Interactive Catalog</a></li>
+					<li class="footCatalogLink  imaged-link"><a name="Footer-Resources-Interactive Catalog" data-selenium="interactiveCatalog" href="http://www.bhphotovideo.com/find/Catalog_frameset.jsp" manual_cm_sp="Footer-_-BH`Resrces-_-IntractvCatlg" title="Interactive Catalog">Browse our Winter 2015 Interactive Catalog</a></li>
 					<li class="footFeedbackLink  imaged-link">
 						
 							
@@ -1057,7 +1461,7 @@ $(document).ready(function(){
 					<a rel="nofollow" href="http://www.scanalert.com/RatingVerify?ref=www.bhphotovideo.com" target="_blank" data-selenium="hackerSafeList" class="hackerSafeLink" name="Footer-McAfee Secure">McAfee Secure - Tested Daily</a>
 				</li>
 				<li>
-					<a rel="nofollow" target="_blank" href="http://secure.globalsign.net/en/find/sealct.cfm?id=49947127" data-selenium="cyberTrustLink" class="cyberTrustLink" name="Footer-Cybertrust">Cybertrust - Secured Website</a>
+					<a rel="nofollow" onclick="window.open('https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=secure.bhphotovideo.com&amp;lang=en','verisign','height=500,width=560'); return false;" target="_blank" href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=secure.bhphotovideo.com&amp;lang=en" data-selenium="verisignSymantecLink" class="verisignSymantecLink" name="Footer-verisign Symantec">Norton Secured - Powered by Symantec</a>
 				</li>
 				<li>
 					<a rel="nofollow" target="_blank" href="http://www.bbb.org/new-york-city/business-reviews/photographic-equipment-and-supplies-retail/b-h-photo-video-pro-audio-in-new-york-ny-429/#bbbonlineclick" data-selenium="accreditedBusiness" class="bbbOnlineLink" name="Footer-BBB">BBB - Accredited Business</a>
@@ -1148,11 +1552,11 @@ $(document).ready(function(){
 	
 
 
-		
+<script type="text/javascript">	
+	
 	    
 
 
-<script type="text/javascript">
 
 
 function cormetricsRunScripts(cb){	
@@ -1164,21 +1568,31 @@ function cormetricsRunScripts(cb){
     
       
 	cb? cb():"";
-} 
-</script>
+}
+
 	
-		<script type="text/javascript">
+		
 			cormetricsRunScripts();
 			
-				var pageId='MAIN:Static:PrivacySecurity.jsp';var categoryId='MAIN:Static'; cmCreatePageviewTag(pageId,categoryId,null,null,null,'[---][---][---][---][---][---]','[---][---][---][---][---][---][---][---]','[Static~NAV][E][B&H-Regular][---][---][---][---][---][---]','[50546827731404122756968][ll1LTxXff1xvRwJS]',null,null);
+		           	var pageId='MAIN:Static:PrivacySecurity.jsp';var categoryId='MAIN:Static'; cmCreatePageviewTag(pageId,categoryId,null,null,null,'[---][---][---][---][---][---][---][---]','[---][---][---][---][---][---][---][---]','[Static~NAV][E][B&H-Regular][---][---][---][---][---][---][---]','[59730189271420047613034][nN11Jk5XD7Jbd7T9]',null,null);
+                    function delete_cookie(name)
+                    {
+	                  document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; domain=.bhphotovideo.com; path=/';
+                    }
+                    delete_cookie('ci');
+
 			
 			
-		</script>
+			
+		
 		
 		
 				
 		
 
+
+
+</script>
 
 
 
@@ -1195,20 +1609,19 @@ function cormetricsRunScripts(cb){
 
 
 
+
 	
 	
-		<script>
-			(function(){
-				var s = document.createElement("script"),
-					fs = document.getElementsByTagName("script")[0];
-				s.type="text/javascript";
-				s.async = true;
-				s.src = 'http://www.bhphotovideo.com/find/javascripts.jsp?files=tealeaf/tealeaf.min.js&v=20140602';
-				fs.parentNode.insertBefore(s, fs);
-			}());
-		</script>
+		
+			<script>
+				lazyLoad.lazyJs('http://www.bhphotovideo.com/find/javascripts.jsp?files=tealeaf/tealeaf.min.js&v=20141130a');
+			</script>			
+		
 	
 
+		<script>
+		lazyLoad.lazyJs("//nexus.ensighten.com/bhfoto/Bootstrap.js");
+		</script>
 	
 </div><!--end tFooter -->
 </div>
