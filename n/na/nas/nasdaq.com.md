@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626135232id_/http%3A//www.nasdaq.com/sitespecific/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231173901id_/http%3A//www.nasdaq.com/sitespecific/privacy.aspx) for the most accurate reproduction.*
 
 # NASDAQ OMX Privacy Statement
 
@@ -152,7 +152,7 @@ Website: <http://www.emi.nasdaq.com/>
 User Profile update: [http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo](http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo)  
 Email: [emi@nasdaq.com](mailto:emi@nasdaq.com)
 
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20140626135232id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20141231173901id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
 Email: [enastraq@nastraq.com](mailto:enastraq@nastraq.com)
 
 **Mailing address:**  
@@ -160,16 +160,3 @@ The NASDAQ Stock Market
 4 Times Square  
 43rd and Broadway  
 New York, NY 10036 
-
-NASDAQ OMX is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This privacy statement covers the following NASDAQ websites: 
-
-Website: <http://www.emi.nasdaq.com/>  
-Website: <http://www.nasdaqinsurance.com/>  
-Website: <http://www.nasdaqtrader.com/>  
-Website: [https://www.nasdaq.net](https://www.nasdaq.net/)  
-Website: <http://www.nasdaq.com/>  
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20140626135232id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
-
-Because NASDAQ wants to demonstrate its commitment to your privacy, we has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact the appropriate contact from the list above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.nasdaq.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.nasdaq.com). TRUSTe will then serve as a liaison with us to resolve your concerns. 
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. 
