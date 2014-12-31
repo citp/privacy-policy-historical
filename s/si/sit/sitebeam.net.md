@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitebeam.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235352id_/http%3A//silktide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitebeam.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231013312id_/http%3A//silktide.com/privacy-policy) for the most accurate reproduction.*
 
 # Silktide's privacy policy | Silktide
 
@@ -77,6 +77,10 @@ Silktide take many precautions to prevent the loss, misuse or alteration of your
 Whilst we take great care to ensure any confidential information remains protected we cannot guarantee the security of data sent over the Internet.
 
 Of course you are responsible for keeping your password and user details confidential. Nobody at Silktide will ever ask you for your password, so please don’t trust anybody asking you for it.
+
+## Data finding
+
+Silktide makes use of various 3rd party APIs to collect information about websites in Nibbler and Sitebeam reports. For example we use the Google Maps API to gather local presence information ([see Google Map’s privacy policy](http://www.google.com/privacy.html)).
 
 ## Updates to this policy
 
