@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guessfactory.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605175247id_/http%3A//guess.ca/en/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guessfactory.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231013520id_/http%3A//guess.ca/en/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -202,11 +202,11 @@ Los Angeles, CA 90021
 
 Call Toll Free Monday through Friday 6:00 a.m. - 5:00 p.m., Saturday 7 a.m. - 4 p.m. (PT):
 
-GUESS or GUESS KIDS: | 1-877-44-GUESS (48377).  
+GUESS or GUESS KIDS: | 1-877-44-GUESS (1-877-444-8377).  
 ---|---  
-MARCIANO: | 1-866-44-MARCIANO (62724).  
-G BY GUESS: | 1-877-GbyGUESS (429-4837).  
-GUESS FACTORY: | 1-877-GUESSFactory (483-7732)  
+MARCIANO: | 1-866-44-MARCIANO (1-866-446-2724).  
+G BY GUESS: | 1-877-GbyGUESS (1-877-429-4837).  
+GUESS FACTORY: | 1-877-GUESSFactory (1-877-483-7732)  
   
 **By e-mail:**
 
