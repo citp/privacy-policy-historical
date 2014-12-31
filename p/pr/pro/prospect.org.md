@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospect.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040243id_/http%3A//prospect.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospect.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231150844id_/http%3A//prospect.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,8 +64,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 The American Prospect  
 [http://prospect.org](http://prospect.org/)  
-1710 Rhode Island Ave. NW, 12th Floor  
-Washington, D.C. 20036
+1333 H Street NW  
+Washington, D.C. 20005
 
 202-776-0730  
 [support@prospect.org](mailto:support@prospect.org)
