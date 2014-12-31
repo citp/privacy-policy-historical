@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diettogo.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130205642id_/http%3A//diettogo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diettogo.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231133713id_/http%3A//diettogo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Diettogo® Privacy Policy
 
 ##### Privacy Policy
 
@@ -15,7 +15,7 @@ Use of Collected Information
 
 IP address or domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information solely to measure the use of our site and to improve the content of our site.
 
-When other information is collected from you, such as your name and e-mail address, we generally let you know at the time of collection how we will use the personal information. We use the personal information you provide only to respond to your inquiry or to process your order. This information may be shared only if necessary to fulfill your order request or for related purposes. We do not share, sell, or lease personal information about you to any third-parties for their marketing use. We will release information about you only if you direct us to do so, if we are required by law to do so, or in other legally limited circumstances (for example, to protect your account from fraud).
+When other information is collected from you, such as your name and e-mail address, we generally let you know at the time of collection how we will use the personal information. We use the personal information you provide only to respond to your inquiry or to process your order. This information may be shared only if necessary to fulfill your order request or for related purposes. We do not sell, or lease personal information about you to any third-parties for their marketing use. So that you may receive their offers and discounts, we may share your name and email with our partners/distribution locations. Otherwise, we will release information about you only if you direct us to do so, if we are required by law to do so, or in other legally limited circumstances (for example, to protect your account from fraud).
 
 ##### Link to Other sites
 
@@ -41,6 +41,6 @@ If you have any questions about this privacy policy, please use the Contact Us p
 
 Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.
 
-[](https://web.archive.org/web/20111130205642id_/http%3A//diettogo.com/create)
+[](http://diettogo.com/pricing)
 
-[](https://web.archive.org/web/20111130205642id_/http%3A//diettogo.com/guarantee)
+[](https://web.archive.org/web/20141231133713id_/http%3A//diettogo.com/guarantee)
