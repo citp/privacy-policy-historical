@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manh.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612223238id_/http%3A//www.manh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manh.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231191825id_/http%3A//www.manh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Manhattan Associates
 
