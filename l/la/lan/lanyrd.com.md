@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanyrd.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093746id_/http%3A//lanyrd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanyrd.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231231702id_/http%3A//lanyrd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lanyrd
 
