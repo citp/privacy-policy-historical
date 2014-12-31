@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the malomaat.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526111112id_/http%3A//malomaat.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malomaat.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231204922id_/http%3A//malomaat.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Malomaat
+# Privacy Policy - MALOMAAT.com
 
 This Privacy Policy governs the manner in which Viki Gossip collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://malomaat.com](http://malomaat.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Viki Gossip.
 
@@ -52,5 +52,3 @@ Viki Gossip has the discretion to update this privacy policy at any time. When w
 **Your acceptance of these terms**
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-### Share this information
