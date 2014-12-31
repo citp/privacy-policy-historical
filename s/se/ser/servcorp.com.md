@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servcorp.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629064839id_/http%3A//www.servcorp.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servcorp.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231053710id_/http%3A//www.servcorp.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Data Security | Servcorp
 
@@ -143,3 +143,5 @@ Website: [http://www.servcorp.com](http://www.servcorp.com/)
 
 
 Servcorp will respond to your query or complaint as soon as possible. Servcorp reserves the right to change this Privacy Policy at any time.
+
+**Servcorp has an average rating of  4.9 out of 5 stars.  The rating is based on 476 reviews on trustpilot.com**
