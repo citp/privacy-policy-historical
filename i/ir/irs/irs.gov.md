@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627133624id_/http%3A//www.irs.gov/uac/IRS-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231034306id_/http%3A//www.irs.gov/uac/IRS-Privacy-Policy) for the most accurate reproduction.*
 
 # IRS Privacy Policy
 
