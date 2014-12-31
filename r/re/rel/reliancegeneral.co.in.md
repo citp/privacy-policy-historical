@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliancegeneral.co.in privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326220726id_/https%3A//www.reliancegeneral.co.in/insurance/terms-and-conditions/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliancegeneral.co.in privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231082719id_/https%3A//www.reliancegeneral.co.in/insurance/terms-and-conditions/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
