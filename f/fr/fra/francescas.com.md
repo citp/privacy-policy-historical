@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the francescas.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226174423id_/http%3A//www.francescas.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the francescas.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231140935id_/http%3A//www.francescas.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Privacy and Security - Francescas
+# Privacy and Security francesca's
 
 Revision Date: January 8, 2014
 
@@ -24,7 +24,7 @@ You can set your browser to notify you when you receive a cookie, giving you the
 
 ### Your Communication Preferences
 
-francesca's® offers those who sign up for our e-mail list advanced notice of sales, new merchandise, boutique openings, and other francesca's® news. E-mail addresses collected on this website are used internally and by our business partners. If you wish to unsubscribe from our e-mail list, you may use the link provided at the bottom of each francesca's® e-mail. Alternatively, you may make changes to your communication preferences through your account online or contact [Customer Service](http://www.francescas.com/category/customer+service/contact+us.do%22). In the event you choose to unsubscribe, we will promptly remove your e-mail address from our mailing list. Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by e-mail. We may also need to contact you via telephone, e-mail or postal mail with questions or information regarding your order.
+francesca's® offers those who sign up for our e-mail list advanced notice of sales, new merchandise, boutique openings, and other francesca's® news. E-mail addresses collected on this website are used internally and by our business partners. If you wish to unsubscribe from our e-mail list, you may use the link provided at the bottom of each francesca's® e-mail. Alternatively, you may make changes to your communication preferences through your account online or contact [Customer Service](http://www.francescas.com/category/customer+service/contact+us.do). In the event you choose to unsubscribe, we will promptly remove your e-mail address from our mailing list. Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by e-mail. We may also need to contact you via telephone, e-mail or postal mail with questions or information regarding your order.
 
 ### Secure Shopping
 
@@ -46,4 +46,4 @@ francesca's® may periodically update this Privacy & Security Policy and will po
 
 ### Contact Us
 
-If you have any questions regarding our Privacy & Security Policy, please feel free to contact our [Customer Service](http://www.francescas.com/category/customer+service/contact+us.do%22) department. 
+If you have any questions regarding our Privacy & Security Policy, please feel free to contact our [Customer Service](http://www.francescas.com/category/customer+service/contact+us.do) department. 
