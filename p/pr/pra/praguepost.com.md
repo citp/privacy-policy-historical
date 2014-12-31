@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the praguepost.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630143332id_/http%3A//praguepost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the praguepost.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231180215id_/http%3A//praguepost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PRAGUE POST | The Voice of Prague
 
