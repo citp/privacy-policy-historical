@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendingtopicsnow.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926131752id_/http%3A//www.trendingtopicsnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendingtopicsnow.com privacy policy that was archived on 2015-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150101004633id_/http%3A//www.trendingtopicsnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trending Topics Now
 
