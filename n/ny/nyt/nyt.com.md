@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nyt.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630200038id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyt.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231221741id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The New York Times
 
-_Last Updated on April 14, 2014_
+_Last Updated on December 15, 2014_
 
 This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including international.nytimes.com, the online edition of The International New York Times), [The New York Times Home Delivery](http://homedelivery.nytimes.com/HDS/HDSHome.do?mode=HDSHome) website, [The New York Times Neediest Cases Fund](http://nytneediestcases.com/), Times Skimmer, [The New York Times Store](http://www.nytstore.com/ "Welcome to The New York Times Store  - Rare and Newsworthy Items"), Times Journeys and [The New York Times Learning Network](http://learning.blogs.nytimes.com/ "The Learning Network - The Learning Network Blog - NYTimes.com") websites and other applications (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
@@ -52,9 +52,9 @@ _**Personal Information That You Give Us**_
 
 Registration for the NYT Services may require that you supply certain personal information, including a unique email address and demographic information (ZIP code, age, sex, household income, job industry and job title) to register.
 
-You may choose to log in, create an account or enhance your profile at NYTimes.com through the Facebook Connect feature on NYTimes.com. By doing this, you are asking Facebook to send us certain information from your Facebook profile, and you authorize us to collect, store, and use in accordance with this Privacy Policy any and all information available to us through the Facebook interface. After you have connected, Facebook also sends us additional information from your profile that allows us to display a Facebook module on the pages you view.
+You may choose to associate a Facebook or Google account with your NYT registration by signing in to NYT Services using your Facebook or Google credentials. By associating your accounts, you are giving these third parties permission to send us certain information from your profile there. What information they send us depends on your privacy settings with those third parties, or their privacy policies. Once the accounts are associated, they may send us additional information from your profile over time. We will use the information they share with us in accordance with this Privacy Policy.
 
-To disassociate your NYTimes.com registration from third party accounts, including Facebook, please see our [Social Media FAQ](http://www.nytimes.com/content/help/site/socialmedia/social-media.html#social-fb-howto-disconnect).
+You can disassociate your NYTimes.com registration from third-party accounts any time. For more detail, please see our [Social Media FAQ](http://www.nytimes.com/content/help/site/socialmedia/social-media.html#social-fb-howto-disconnect).
 
 **Billing and Credit Card Information**
 
@@ -66,7 +66,7 @@ We offer you opportunities to engage in public activities on NYTimes.com and oth
 
 If you have registered for a NYTimes.com account, we will track and aggregate your public activities on NYTimes.com. By choosing to participate in public activities, you are electing to share and display such public activities via NYTimes.com. Also, public activities may be included in RSS feeds, APIs and made available to other websites via other formats. As a result, your public activities may appear on other websites, blogs, or feeds. Keep in mind that we are not responsible for any personal information you choose to make public via your public activities, and you agree that such sharing will be deemed to have been done by you, not The New York Times. Please see our [Comments FAQ](http://www.nytimes.com/content/help/site/usercontent/usercontent.html) for additional information.
 
-When you share or recommend (with or without adding your own comments) any NYTimes.com articles or content to your Facebook profile, that action is governed by the Facebook Privacy Policy. We do not record those comments.
+When you share or recommend links to content on a third-party platform (such as Facebook, Google+ and Twitter), that action and any information you share will be covered by their privacy policy.
 
 **Contests, Sweepstakes and Special Offers**
 
