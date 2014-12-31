@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotref.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330223713id_/http%3A//www.hotref.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotref.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231190324id_/http%3A//www.hotref.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
