@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kshowonline.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628004145id_/http%3A//www.kshowonline.com/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kshowonline.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231092017id_/http%3A//www.kshowonline.com/%23privacy) for the most accurate reproduction.*
 
 # KShowOnline.Com || Watch Korean Shows Online with English Subtitles
 
