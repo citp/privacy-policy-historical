@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digikey.in privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209114415id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.in privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231153141id_/http%3A//www.digikey.com/en/help/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | DigiKey
+# Privacy Statement | DigiKey Electronics
 
-We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the protection of your personal information is handled with great regard. The following text will inform you on how we use and manage the information collected at Digi-Key.
+> We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the protection of your personal information is handled with great regard. The following text will inform you on how we use and manage the information collected at Digi-Key.
 
 ## Web Site Visits
 
@@ -54,7 +54,7 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 > 
 > Browsers that support the SSL encryption technology are called _secure browsers_. **Online orders to Digi-Key must be placed from a secure browser.** Your browser will automatically enter the secure mode when you make purchases.
 > 
-> If you **do not** have a _secure browser_ and would like to place orders, please review [How To Order](http://dkc1.digikey.com/us/en/mkt/Order.html) for alternative ordering methods. Digi-Key is not liable or responsible for any loss or damage resulting from the use of a browser that is not secure.
+> If you **do not** have a _secure browser_ and would like to place orders, please review [How To Order](https://web.archive.org/en/help/ordering-faqs) for alternative ordering methods. Digi-Key is not liable or responsible for any loss or damage resulting from the use of a browser that is not secure.
 > 
 > When accessing our online order entry system using a secure browser, one can feel secure transmitting credit card or other confidential information sent over the Internet.
 
@@ -86,10 +86,8 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 > 
 > **Spotlight tags:**   Information about Web site usage and visitors to our Web site is shared with a reputable third-party for the purpose of targeting our Internet advertisements in other sites. To do this, we use clear GIFs, or pixel tags, on this site, which allow us to recognize a browser's cookie when a browser visits this site. The information we collect and share through this technology is not personally identifiable. For more information about our third-party advertiser or for your choices about not having this anonymous information used, please [click here](http://www.doubleclick.net/us/corporation/privacy).
 
-## Contact Information
-
 > Please contact us if you have any questions, concerns or comments.  
->  Use the [Communications Center](http://www.digikey.com/us/en/info/contact-us.html) (forms based method of communicating with Digi-Key), or by contacting us at:
+>  Use the [Communications Center](https://web.archive.org/us/en/info/contact-us.html) (forms based method of communicating with Digi-Key), or by contacting us at:
 >
 >> Digi-Key Corporation  
 >  701 Brooks Avenue South  
