@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squarespace.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628180845id_/https%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squarespace.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231025101id_/http%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
 
 # Squarespace Privacy Policy — Squarespace
 
@@ -33,9 +33,7 @@ If you choose to continue service with Squarespace via a paid account, Squarespa
 Squarespace uses third party payment processors to assist it in processing your personally identifiable payment information securely. Such third party processors’ use of your personal information is governed by their respective privacy policies which may or may not contain privacy protections as protective as this privacy policy. Payments are currently processed and managed using the third party vendors below. We will inform you which payment processors are used when processing your payments. 
 
   * Authorize.net - [privacy policy](http://www.authorize.net/company/privacy/)
-  * NewTek - [privacy policy](http://www.litle.com/about-us/privacy-policy)
-  * Litle - [privacy policy](http://www.litle.com/about-us/privacy-policy)
-  * Zuora - [privacy policy](http://www.zuora.com/company/privacy.html)
+  * NewTek - [privacy policy](http://newtek.com/privacy-policy.html)
   * Stripe - [privacy policy](https://stripe.com/us/privacy)
 
 
