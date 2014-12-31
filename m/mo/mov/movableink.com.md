@@ -1,81 +1,79 @@
-> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628073852id_/https%3A//movableink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231181121id_/https%3A//movableink.com/privacy) for the most accurate reproduction.*
 
 # Movable Ink | Agile Email Marketing
 
-##### Privacy Policy
+### Privacy Policy
 
-**Effective Date: January 8, 2013**
+**Effective Date: September 8, 2014**
 
-This Privacy Policy is incorporated by reference into the Movable Ink Terms of Service (“ **TOS** ”). The term “Movable Ink,” “we,” and “us” includes Movable, Inc. and our affiliates. The Privacy Policy explains how we may collect, use and disclose information we obtain through the Movable Ink website and email distribution service (both, the “ **Service** ”).
+This Privacy Policy is incorporated by reference into the Movable Ink Terms of Service (“ **TOS** ”). The term “ **Movable Ink** ,” “ **our** ,” “ **we** ,” and “ **us** ” includes Movable, Inc. and our affiliates. The Privacy Policy explains how we may collect, use and disclose information we obtain through the Site in connection with the provision of our services.
 
-**Policy Scope.** This Privacy Policy covers how we treat personal information (“Personal Information”) and other information that we collect through the Service.
+The “Site” means any website, mobile application, or Internet service under the control of Movable, Inc., whether partial or otherwise.
 
-**Use and Acceptance.** By using the Service and accepting the TOS, you also agree to this Privacy Policy. If you do not accept this Privacy Policy, you must not use the Service.
+**Policy Scope.** This Privacy Policy covers how we treat personal information (“ **Personal Information** ”) and other information that we collect when you use the Site.
+
+**Use and Acceptance.** By using the Site and accepting the TOS, you also agree to this Privacy Policy. If you do not accept this Privacy Policy, you must not use the Site.
 
 **Personal Information Defined.** We consider “Personal Information” to include information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
 
-**THE SERVICE COLLECTS YOUR INFORMATION**
+**INFORMATION COLLECTION**
 
-We collect Personal Information when:
+We collect information, which may include Personal Information, when:
 
-  * You visit the Service;
-  * You register and use the Service;
+  * You visit the Site;
+  * You register and use the Site;
   * You communicate with us; and
   * You receive an email from one of our clients.
 
 
 
-We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service.
+We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Site.
 
-**Personal Information Collection.** When you use the Service, we may collect the information that is transmitted into or out of the Service. That information may contain Personal Information. We may also collect Personal Information when you sign up for our email list or register as a client.
+**Registration.** When you register to use the Site, you will need to provide information that may contain Person Information, such as your username and password. You may also provide other Personal Information, such as your email address, street address, name and telephone number, which we will combine with your Personal Information and treat similarly.
 
-**Making Payments.** When you make payments through the Site, you may need to provide Personal Information to our third-party service providers, such as your credit card number.
+**Using Our Services.** When you use the Site, we may collect the information that is transmitted into or out of the Site in connection with the provision of our services. That information may contain Personal Information. We may also collect Personal Information when you sign up for our email list or register as a client.
 
-**Customer Support.** We may collect Personal Information through your communications with our customer-support team.
+**Making Payments.** When you make payments to us for our services, you may need to provide Personal Information to our third-party service providers, such as your credit card number.
 
-**Email Tracking Information.** We may collect information when you receive an email from one of our clients, such as the type of device or computer you open the email on, your IP address, approximate location and the amount of time it took to read the email.
+**User Support.** We may collect Personal Information through your communications with our customer-support team.
 
-**Campaign Information.** If you use the Service in connection with an email campaign, we may collect information about your email distribution lists or other elements of your campaign.
+**Campaign Information.** If you use the Site in connection with an email campaign, we may collect information about your email distribution lists or other elements of your campaign.
 
-**Location Information.** We may collect and store your location information. Collection of this information may improve the provision of the Service.
+**Cookies, Automatic Data Collection, and Related Technologies.** The Site collects and stores information that is generated automatically as you use it, including your preferences and anonymous usage statistics.
 
-**Cookies, Automatic Data Collection, and Related Technologies.** The Service collects and stores information that is generated automatically as you use it, including your preferences and anonymous usage statistics.
+When you visit the Site, we and our third party service providers receive and record information on our server logs from your browser, including your IP address, and from cookies and similar technology. Cookies are small text files placed in visitors’ computer browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the Site may not work properly.
 
-When you use the Service, we receive and record information on our server logs from your browser, including your IP address, and from cookies and similar technology. Cookies are small text files placed in visitors’ computer browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the Service may not work properly.
-
-By using the Service, you are authorizing us to gather, parse, and retain data related to the provision of the Service.
+By using the Site, you are authorizing us to gather, parse, and retain data related to the provision of the Site.
 
 **HOW MOVABLE INK USES YOUR INFORMATION**
 
 We may use your information to:
 
-  * facilitate and improve the Service; and
+  * facilitate and improve the Site and our services; and
   * communicate with you.
 
 
 
-We may use aggregate information for any purpose, including marketing purposes.
+**Internal and Site-Related Usage.** We use information, including Personal Information, for internal and service-related purposes only and may provide it to third parties to allow us to facilitate the Site. We may use and retain any data we collect to provide and improve our services.
 
-**Internal and Service-Related Usage.** We use Personal Information for internal and service-related purposes only. For example, we use information passed into the Service, including possibly Personal Information, to offer, improve and fine tune the Service.
+**Communications.** We may use your Personal Information to respond to customer service requests and other inquiries you make to us. We may also use Personal Information to send you messages regarding system changes, including outages and updates.
 
-Communications. We may use your Personal Information to respond to customer service requests and other inquiries you make to us. We may also use Personal Information to send you messages regarding system changes, including outages and updates.
+**Marketing.** We may use your Personal Information to send you promotional materials that you elect to receive. **You may opt out of these at any time via the “unsubscribe” link in the message.**
 
-Marketing. We may use your Personal Information to send you promotional materials that you elect to receive. **You may opt out of these at any time via the “unsubscribe” link in the message.**
-
-Improve Service. We may retain any data you provide to:
+**Improve Services.** We may retain any data you provide to:
 
   * Provide customer support;
   * Track the types of questions we receive;
   * Analyze usage trends; and
-  * Otherwise enhance the Service.
+  * Otherwise enhance the Site.
 
 
 
-**Aggregate Data.** We may anonymize and aggregate data collected through the Service and use it for any purpose.
+**Aggregate Data.** We may anonymize and aggregate data collected through the Site and use it for any purpose, including for marketing purposes.
 
 ##### MOVABLE INK MAY DISCLOSE YOUR INFORMATION
 
-We may share information we collect:
+We may share information we collect, which may include Personal Information:
 
   * with your permission;
   * with our vendors and service providers;
@@ -85,9 +83,9 @@ We may share information we collect:
 
 
 
-**We Use Vendors and Service Providers.** We may share any information we receive with vendors and service providers retained in connection with providing the Service.
+**We Use Vendors and Service Providers.** We may share any information we receive with vendors and service providers retained in connection with provision of the Site and our services.
 
-As Required By Law and Similar Disclosures. We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required by law or if those actions are reasonably necessary to:
+**As Required By Law and Similar Disclosures.** We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required by law or if those actions are reasonably necessary to:
 
   * comply with legal process, such as a court order or subpoena;
   * enforce this Privacy Policy or our TOS;
@@ -98,19 +96,17 @@ As Required By Law and Similar Disclosures. We may access, preserve, and disclos
 
 
 
-**Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We may allow access to other data collected by the Site to enable the delivery of online advertising through the Service or otherwise facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you.
+**Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We may allow access to other data collected by the Site to enable the delivery of online advertising through the Site or otherwise facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you.
 
-As Required By Law and Similar Disclosures. We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect yours’, ours’ or others’ rights, property, or safety.
-
-Merger, Sale, or Other Asset Transfers. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, your information may be sold or transferred as part of that transaction. We do not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this Privacy Policy.
-
-We may also disclose your Personal Information with your permission.
+**Merger, Sale, or Other Asset Transfers.** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, your information may be sold or transferred as part of that transaction. We do not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this Privacy Policy.
 
 ##### SECURITY OF YOUR INFORMATION
 
-We take steps to ensure that your information and distribution lists are treated securely and in accordance with this Privacy Policy. We do not sell, rent, steal or market to your distribution lists. We do not share your distribution lists with anyone, except as required by law or in response to a complaint from an individual on one of your lists. Only authorized people may access your distribution lists.
+We take steps to ensure that your information, including Personal Information, and your email distribution lists provided to us are treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
 
-By using the Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Service or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at support@movableink.com.
+We do not sell, rent, steal or market to your email distribution lists. We do not share your email distribution lists with anyone, except as required by law or in response to a complaint from an individual on one of your email distribution lists. Only authorized people may access your email distribution lists.
+
+By using the Site or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Site or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at [support@movableink.com](mailto:support@movableink.com).
 
 ##### EMAIL CAMPAIGNS
 
@@ -128,15 +124,15 @@ By using the Site, you will transfer data to the United States.
 
 By choosing to visit the Site or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the state of New York and the adjudication of any disputes arising in connection with Company or the Site will be in accordance with the [Terms of Service](https://web.archive.org/terms_of_service).
 
-**If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.**
+If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.
 
 ##### UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
 
-If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to [support@movableink.com](mailto:support@movableink.com).
+If you would like to update or correct any information that you have provided to us through your use of the Site or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to [support@movableink.com](mailto:support@movableink.com).
 
 ##### CHANGES TO OUR PRIVACY POLICY AND PRACTICES
 
-We may revise this Privacy Policy, so review it periodically.
+We may revise this Privacy Policy, so review it periodically. It can be found online at <https://movableink.com/privacy>
 
 Posting of Revised Privacy Policy. We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.
 
@@ -146,13 +142,13 @@ New Uses of Personal Information and Other Information. From time to time, we ma
 
 Movable Ink complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Movable Ink has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Movable Ink has chosen The Direct Marketing Association as our organizations independent recourse mechanism. To learn more about the Safe Harbor program, and to view Movable Ink certification, please visit <http://www.export.gov/safeharbor/>.
 
-Should you have any questions on Movable, Inc.'s EU Safe Harbor policies please contact us at: 
+Should you have any questions on Movable, Inc.'s EU Safe Harbor policies please contact us at:
 
 ##### Contact Info ([support@movableink.com](mailto:support@movableink.com))
 
 Movable, Inc.  
 636 Avenue of the Americas 5th Floor  
-New York, NY 10011 
+New York, NY 10011
 
 If your inquiry or complaint is not resolved to your satisfaction, then you may contact the Direct Marketing Association for assistance:
 
