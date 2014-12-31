@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwestsportsfans.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628083917id_/http%3A//www.midwestsportsfans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestsportsfans.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231081011id_/http%3A//www.midwestsportsfans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
