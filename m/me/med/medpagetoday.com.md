@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the medpagetoday.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609203234id_/http%3A//www.medpagetoday.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpagetoday.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231211230id_/http%3A//www.medpagetoday.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Monday, June 09, 2014 
+Wednesday, December 31, 2014 
 
 **MedPage Today Privacy Policy**
 
-This Policy was last changed on January 10, 2014. 
+This Policy was last changed on July 24, 2014. 
 
 MedPage Today, LLC operates this website (the "Site"), and the services related to or offered on the Site (the "Services"). These Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars and downloadable mobile applications related to the Site or provided through the Site. MedPageToday.com also contains advertisements, promotions and sponsored areas that are sold directly by Everyday Health Media, LLC ("EHM"), a sister company of MedPage Today, LLC. 
 
 We provide you this privacy policy (the "Policy") to help you understand the kinds of information we may gather about you when you visit the Site or use any of our Services, how we may use and disclose the information, and how you can control, correct and/or update the information. 
 
-To be clear about the terminology we are using, when we use the phrase "Personal Information" in this Policy, we mean information that can be used to identify or contact a person, like a person's full name, address, e-mail address or phone number. When we use the phrase "Anonymous Information" in this Policy, we mean information that cannot reasonably be used to identify individual persons. 
+To be clear about the terminology we are using, when we use the phrase "Personal Information" in this Policy, we mean information that can be used to identify or contact a person, like a person's full name, address, email address or phone number. When we use the phrase "Anonymous Information" in this Policy, we mean information that cannot reasonably be used to identify individual persons. 
 
 By visiting this Site or using the Services, you are accepting the policies and practices described in this Policy. Each time you visit the Site or use the Services, you agree and expressly consent to our collection, use and disclosure of the information that you provide as described in this Policy. 
 
@@ -22,20 +22,21 @@ Your Personal Information will be processed by us in the United States.
 
 We receive information about you in the following ways:
 
-    1.  **Information you voluntarily provide us**
+    1.  **Information You Voluntarily Provide Us**
 
 We collect and maintain information that you voluntarily submit to us during your use of the Site and Services. For example:
 
       * when you register for a Site or participate in CME activities, you may provide us certain information including your name, email address, password, demographic information, State of Licensure or AMA ME Number and practice area; 
       * to engage a Site's social networking function, you may add to your profile by providing information about your interests; 
       * if you sign-up to receive a newsletter, or participate in social networking activities, you may provide us contact information (e.g., email or physical address); and 
-      * you may provide us with Personal Information in the course of email, customer support interactions and surveys.   
-You can choose not to provide us with certain information, but this may stop you from gaining access to a Service or limit the features that you can use. For more information, please see the How We Use Your Information section below. 
-    2. **Information we collect through your use of the Site**
+      * when you participate in sponsored or unsponsored market research surveys you may be asked to provide personal information in addition to providing your responses to the survey questions; and 
+      * you may provide us with Personal Information in the course of email, or customer support interactions.   
+You may choose not to provide us with certain information, but this may stop you from gaining access to a Service or limit the features that you can use. For more information, please see the How We Use Your Information section below. 
+    2. **Information We Collect Through Your Use of the Site.**
 
-As you use the Site and Services, certain information may also be passively collected. Through cookies, pixels, beacons, log files and other technologies, information may be collected about how you use the Site and the Services. For example your IP address may indicate that your computer or device is located in New York City and this information may be used to deliver advertisements promoting New York City based-businesses. The information allows for the delivery of more helpful information, programs, tools and advertisements. Please see the Cookies and Targeted Advertising sections below for more information. 
+As you use the Site and Services, certain information may also be passively collected. Through cookies, pixels, web beacons, log files and other technologies, information may be collected about how you use the Site and the Services. For example your IP address may indicate that your computer or device is located in New York City and this information may be used to deliver advertisements promoting New York City based-businesses. The information allows for the delivery of more helpful information, programs, tools and advertisements. Please see the Cookies and Targeted Advertising sections below for more information. 
 
-    3. **Information received from third parties**
+    3. **Information Received From Third Parties.**
 
 Online and/or offline information received from third parties may be combined with the information already collected from you via the Site and Services. The third party information is used for a variety of purposes including to verify other information about you (e.g., verify your mailing address to send you requested products or services) and to enhance the content and advertising provided to you. Information from third parties may also be used to verify and update registration information and confirm licensure status. 
 
@@ -71,11 +72,11 @@ Cookies can be removed by following your Internet browser's directions within th
 
 Cookies, pixels, web beacons (which are usually small, transparent graphic images), operating system and device information and navigational data like Uniform Resource Locators (URL) may be used to gather information regarding the date and time of your visit, the features and information for which you searched and viewed, the email you opened or on which advertisements you clicked. This type of information is collected to make the Site and Services more useful to you and to tailor the experience with us to meet your special interests and needs. 
 
-An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. We, or our service providers, may use your IP Address when you access the Site or Services or use other means to assist with delivering geographically targeted content and advertisements. 
+An "Internet Protocol Address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. We, or our service providers, may use your IP Address when you access the Site or Services or use other means to assist with delivering geographically targeted content and advertisements. 
 
     2. **Targeted Advertising**
 
-EHM and other companies that MedPage works with may use cookies for purposes including understanding Web usage patterns of users who see advertisements on the Site, controlling the sequence of advertisements you see, making sure you don't see the same advertisement too many times, determining your interests and tailoring advertisements and promotions based on those interests. For example, if you read an article about a particular health condition on the Site, cookies from a vendor may be used to later serve you an advertisement for a product related to the viewed article. These third party vendors may connect information about pages you visit on our Site with information about pages you visit on other websites and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of the Site or any other website on the Internet if the website also has a relationship with our vendor.
+EHM and other companies that we work with may use cookies for purposes including understanding web usage patterns of users who see advertisements on the Site, controlling the sequence of advertisements you see, making sure you don't see the same advertisement too many times, determining your interests and tailoring advertisements and promotions based on those interests. For example, if you read an article about a particular health condition on the Site, cookies from a vendor may be used to later serve you an advertisement for a product related to the viewed article. These third party vendors may connect information about pages you visit on our Site with information about pages you visit on other websites and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of the Site or any other website on the Internet if the website also has a relationship with our vendor.
 
 You can choose to limit Behavioral Advertising on the Sites by clicking [here](http://www.aboutads.info/choices/) and opting-out of cookies placed by those vendors listed. After you opt-out, you will still see advertisements but the advertising may not be as relevant to your interests. If you change your computer, change your browser, or delete your cookies, you will need to renew your opt-out. The Site currently is not setup to process or respond to “Do Not Track” settings or signals from web browsers.
 
@@ -95,9 +96,9 @@ Personal Information of participants in CME programs on this Site may be disclos
 
     2.  **Sharing of Information with Advertisers:**
 
-When you are exposed to an advertisement on the Services (whether on the Site or in a newsletter, app or another Service) or visit an advertiser supported area on the Services, EHM may provide your name, specialty, ME or NPI number and country of residence to the advertiser and/or such advertiser’s agents. We will not provide these third parties with your personal contact information such as email or postal address. We are not responsible for how these third parties use your information. When you choose to engage in a program on the Site, you may also be asked to provide additional personally identifiable information which may be used to supplement the information that you provided during registration. The personally identifiable information that you provide when you engage in an advertising program will be used to provide the services you have requested, respond to your questions and to send you emails about new programs and information from our advertisers. 
+When you are exposed to an advertisement on the Services (whether on the Site or in a newsletter, app or another Service) or visit an advertiser supported area on the Services, EHM may provide your personal information (such as name, specialty, NPI number, and country of residence) and information about your engagement with the Services (e.g., whether you viewed, interacted with or requested information about promotional content) to advertisers and/or such advertisers’ agents as well as to potential advertisers and their agents. While engaging with a promotional program on the Site, you may also be asked to provide additional Personal Information which may be used to supplement the information that you provided during registration. We will not provide these third parties with your personal contact information such as email or postal address without your consent. We are not responsible for how these third parties use your information. 
 
-    3. **Disclosure for legal reasons.**
+    3. **Disclosure for Legal Reasons.**
 
 We may disclose and release your Personal Information to third parties: (a) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (b) in special cases, such as a physical threat to you or others, a threat to homeland security, a threat to our system or network, or in any cases in which we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse, illegal conduct or a violation or alleged violation of this Policy or other agreement we may have with you. 
 
@@ -107,19 +108,17 @@ We may provide your Personal Information to service providers who work on our be
 
     5. **Aggregated, Anonymous Information.**
 
-We may share aggregated Anonymous Information about you with third parties. Aggregated information is your Anonymous Information that is combined with the Anonymous Information of other users. 
+We may share Aggregated Anonymous Information about you with third parties. “Aggregated Anonymous Information” is your Anonymous Information that is combined with the Anonymous Information of other users. 
 
-    6. **Contests, sweepstakes and polls.**
+    6. **Contests, Sweepstakes and Promotions.**
 
-Some or all of the information collected during promotions, contests, polls or sweepstakes ("Promotions") may be disclosed publicly. It may also be shared with other third parties as disclosed at the time of collection or in the Promotion rules. These third parties may include a provider of prizes in order to update you of your status of you prize or other fulfillment needs or a co-sponsor who may use your Personal Information to administer the Promotion or for their marketing purposes, but only in conformance with their privacy policy as made available to you at the time of collection. Everyday Health is not responsible for their privacy policy or practices. 
+Some or all of the information collected during promotions, contests or sweepstakes ("Promotions") may be disclosed publicly. It may also be shared with other third parties as disclosed at the time of collection or in the Promotion rules. These third parties may include a provider of prizes in order to update you of your status of you prize or other fulfillment needs or a co-sponsor who may use your Personal Information to administer the Promotion or for their marketing purposes, but only in conformance with their privacy policy as made available to you at the time of collection. Everyday Health is not responsible for such third party’s privacy policy or practices. When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional information about the specific privacy practices associated with the Promotion.
 
-When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional information about the specific privacy practices associated with the Promotion. 
+    7.  **Research,Sponsors and Ways That You Approve at the Time of Collection.**
 
-    7. **Sponsors - and other ways that you approve at the time of collection.**
+We may collect Personal Information about you and share it with third parties to the extent that you give us permission at the time of collection. We sometimes gather Personal Information on behalf of a sponsor in association with an offer or promotion. When participating in a survey, in addition to providing your responses to the survey questions, you may provide Personal Information that may be combined with information that you have already provided at registration or that we have received from third party sources. We may provide this information to third parties including the survey sponsor or the promotion sponsor. In such a case, we will provide you clear notice at the time of collection that the information is being collected on the sponsor's behalf.
 
-We may collect Personal Information about you and share it with third parties to the extent that you give us permission at the time of collection. For example, we sometimes gather Personal Information on behalf of a sponsor in association with a promotion. In such a case, we will provide you clear notice at the time of collection that the information is being collected on the sponsor's behalf. 
-
-    8. **Within our Company; Changes to our Company.**
+    8.  **Within Our Company; Changes to Our Company.**
 
 We may share your Personal Information with any of our subsidiaries, joint ventures or other companies under common control. Additionally, in the event we go through a business transition such as a merger, acquisition by another company or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Policy. 
 
@@ -133,7 +132,7 @@ The Site and Services are not directed or intended for children under 13 years o
 
   7. **Updating and Control of Your Personal Information**
 
-We offer you choices regarding the collection, use and sharing of your Personal Information. When you receive promotional communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail or newsletter you receive or by editing your preference to receive these communications within the "Manage My Email" or similar feature on the Site. 
+We offer you choices regarding the collection, use and sharing of your Personal Information. When you receive promotional communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional email or newsletter you receive or by editing your preference to receive these communications within the "Manage My Email" or similar feature on the Site.
 
 If your Personal Information changes or if you no longer desire to use or access the Site or Services, we encourage you to correct, update or remove the Personal Information from your profile. This can be done at the "My Profile" section on the Site. If you would like assistance disabling your account please call 1-866-348-9885. Customer services hours of operation are 8 AM to 6 PM ET, Monday through Friday. 
 
@@ -141,7 +140,7 @@ Keep in mind, however, that even if you delete information from your profile, we
 
   8. **Co-branded Sections of the Site**
 
-Certain portions of the Site may be co-branded with a business partner and subject to a different privacy policy that is the partner's privacy policy (the "Co-branded Policy"). The partner's collection, use and dissemination practices regarding any data or Personal Information provided by, or obtained from users of these Co-branded portions of the Site will be governed by the Co-branded Policy. Please read the Co-branded Policy for each Co-branded Site before providing any Personal Information. 
+Certain portions of the Site may be co-branded with a business partner and subject to a different privacy policy that is the partner's privacy policy (the "Co-branded Policy"). The partner's collection, use and dissemination practices regarding any data or Personal Information provided by, or obtained from users of these co-branded portions of the Site will be governed by the Co-branded Policy. Please read the Co-branded Policy for each co-branded site before providing any Personal Information. 
 
   9. **Third Party Links**
 
@@ -163,7 +162,7 @@ Legal Department
 345 Hudson Street, 16th Floor   
 New York, NY 10014 
 
-For questions regarding Continuing Medical Education, please contact Perelman School of Medicine at the University of Pennsylvania, Office of CME via e-mail at [penncme@mail.med.upenn.edu](mailto:penncme@mail.med.upenn.edu) or by mail at: 
+For questions regarding Continuing Medical Education, please contact Perelman School of Medicine at the University of Pennsylvania, Office of CME via email at [penncme@mail.med.upenn.edu](mailto:penncme@mail.med.upenn.edu) or by mail at: 
 
 Office of Continuing Medical Education   
 Perelman School of Medicine at the University of Pennsylvania   
@@ -172,7 +171,7 @@ Philadelphia, PA 19104-6021
 
   12. **Privacy Policy Changes**
 
-We reserve the right to change, modify, add or remove portions of this Policy at any time and without prior notice, and any changes will become effective immediately upon being posted unless we advise you otherwise. Your continued use of the Site or Services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly. 
+We reserve the right to change, modify, add or remove portions of this Policy at any time and without prior notice, and any changes will become effective immediately upon being posted unless we advise you otherwise. Your continued use of the Site or Services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this webpage and review this Policy regularly. 
 
 
 
