@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camplace.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630061701id_/http%3A//camplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camplace.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231185404id_/http%3A//www.camplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Camplace - The Best Live Cam Site For Amateur Girls
 
@@ -20,7 +20,7 @@ By using Camplace you are accepting the privacy policy and its changes from time
 
   * ● Personal information 
 
-Camplace may collect personal information in order to operate the website. this information may include, but is not limited to, email address, username, age, registration, purchase information, browsing history, search history, browser type, operating system, communication with other members within Camplace, gender, zip code, postal code, city and country. Purchase details, browser type, operating system, browsing history and communications in the website are not disclosed anywhere. Other details may be disclosed on the website and reachable to other members in order to operate the website. Please note that we do not collect knowingly any personal information from users that are under the age of 18, as we require that all users represent upon registration that they are at least 18 years old. 
+Camplace may collect personal information in order to operate the website. This information may include, but is not limited to, email address, username, age, registration, purchase information, browsing history, search history, browser type, operating system, communication with other members within Camplace, gender, zip code, postal code, city and country. Purchase details, browser type, operating system, browsing history and communications in the website are not disclosed anywhere. Other details may be disclosed on the website and reachable to other members in order to operate the website. Please note that we do not collect knowingly any personal information from users that are under the age of 18, as we require that all users represent upon registration that they are at least 18 years old. 
   * ● Cookies 
 
 Cookies are small piece of data sent from a website and stored in a user's web browser while a user is browsing a website Camplace may use cookies to keep track of your activity in the website. Cookies help us improve your experience on the website and give you the most optimized options, while protecting your account. Please note that if you choose to disable cookies tracking by changing the settings of your browser, this may restrict you from using some sections of the website. 
