@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armorblog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080342id_/http%3A//armorgames.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armorblog.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231174852id_/http%3A//armorgames.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Armor Games
 
