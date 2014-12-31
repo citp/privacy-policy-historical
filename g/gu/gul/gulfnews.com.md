@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gulfnews.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618050930id_/http%3A//gulfnews.com/about-gulf-news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfnews.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231200012id_/http%3A//gulfnews.com/about-gulf-news/privacy-policy) for the most accurate reproduction.*
 
 # Gulfnews.com | about-gulf-news |privacy-policy | Dubai, Abu Dhabi, Sharjah, Gulf, GCC and Middle East News, Latest Breaking News, News, Analysis, and Opinion
 
 _**Introduction**_
 
-The Privacy Policy details how [www.gulfnews.com](http://www.gulfnews.com/) (the "Site") collects, uses and shares your online information. Additionally, it discusses the use of "cookies" and user access to third-party websites. By registering as a user, and agreeing to the registration terms and conditions of the Site (the "Terms and Conditions") or by browsing or using the Site, you expressly agree to be bound by the Privacy Policy, and you consent to our collection, usage and sharing of your personal information, as well as any additional information discussed within this Privacy Policy. 
+The Privacy Policy details how [www.gulfnews.com](http://www.gulfnews.com/) (the "Site") collects, uses and shares your online information. Additionally, it discusses the use of "cookies" and user access to third-party websites. By registering as a user, and agreeing to the registration terms and conditions of the Site (the "Terms and Conditions") or by browsing or using the Site, you expressly agree to be bound by the Privacy Policy, and you consent to our collection, usage and sharing of your personal information, as well as any additional information discussed within this Privacy Policy.
 
 [www.gulfnews.com](http://www.gulfnews.com/) is a trade name of Al Nisr Publishing LLC (the "Owner"). The Owner reserves the right to amend, update and change the Privacy Policy at any time. Please review the Privacy Policy on a regular basis to ensure that you are aware of current Site policies and practices.
 
@@ -49,6 +49,10 @@ The Owner may access a registered user's Personal Information and disclose such 
 _**Use of Cookies**_
 
 The Site uses "cookies" which refers to a small text file sent from a server to your hard disk by a website browser. Cookies contain a unique identification number that identifies your browser, but not you, to our computers each time you visit the Site. Cookies allow the Site to authenticate users, customize the Site experience, track user preferences, and receive information on the volume and characteristics of website traffic. Certain Site services are only available through the use of cookies. Some browsers may allow you to decline cookies; doing so, however, will interfere with the functionality of the Site.
+
+To deliver our services, we use Lotame Crowd Control tags to collect, organize, and use non-personal information reflecting your interactions with our websites. This information includes items such as the date and time you visited our websites, your browser information, your IP address, your browsing behaviour, your age and gender, and interests you express or imply at social networking sites or other websites you visit. Lotame Crowd Control recognizes your computer over time by setting a unique browser cookie, which your browser relays to our servers when you visit our websites that are affiliated with our partners or clients. To understand more about our data collection please visit [http://lotame.com](http://lotame.com/).
+
+Opting Out or Customizing Your Experience:  You have the option to opt-out by deleting your browser cookies. In event of any difficulty in opting-out you can refer to your web browser’s documentation to get more information on how to block or delete cookies directly through your browser settings.
 
 _**Log Files**_
 
