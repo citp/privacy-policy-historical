@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the no-ip.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020659id_/http%3A//www.noip.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no-ip.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231021239id_/http%3A//www.noip.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - No-IP
 
@@ -87,4 +87,4 @@ No-IP.com allows you to change or modify your personal Information by sending e-
 
 This site contains links to other sites. No-IP.com is not responsible for the content or privacy practices of these sites.
 
-Please [contact us](https://web.archive.org/web/20140628020659id_/http%3A//www.noip.com/legal/%7B$URL.COMPANY_CONTACT%7D) if you have any questions about our privacy policy.
+Please [contact us](http://www.noip.com/contact) if you have any questions about our privacy policy.
