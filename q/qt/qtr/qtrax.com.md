@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qtrax.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513101038id_/http%3A//www.qtrax.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qtrax.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231080522id_/http%3A//www.qtrax.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - 100% Legal and Free Music- Qtrax
 
