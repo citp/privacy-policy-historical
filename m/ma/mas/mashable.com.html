@@ -1,17 +1,16 @@
-<!--The following is the downloaded HTML source of the mashable.com privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629043313id_/http%3A//mashable.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mashable.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231010940id_/http%3A//mashable.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html data-env="production" lang="en" xml:lang="en"><head>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"faaaef6476","applicationID":"1135420","transactionName":"cAkNR0ENXQpXF0tJA1QDEBxACl4R","queueTime":0,"applicationTime":26,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwYHUF9ACQIDUVVQBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <script>
   window.__o = {"channel":"home","content_type":"Homepage"};
   window._gaq = window._gaq || [];
   window._gaq.push(['_setAccount', 'UA-92124-1']);
+  window._geo = "US"
 </script>
 <title>Mashable</title>
-<link href="http://rack.3.mshcdn.com/assets/app-27e708684e20cec27e4ec2f879533a63.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://rack.0.mshcdn.com/assets/pages-e1c54be409cf33a2d2714a07fa59af45.css" media="all" rel="stylesheet" type="text/css">
+<link href="http://rack.3.mshcdn.com/assets/app-2f8741e5f4acf61fa3e16a90c5c98f56.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://rack.1.mshcdn.com/assets/pages-8838d56f1865bb3d61ed77e4bca68e7d.css" media="all" rel="stylesheet" type="text/css">
 <!--[if lte IE 8]>
 <link href="http://rack.3.mshcdn.com/assets/iehax-957092b11e263c6b850533d06d5aaa2c.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
@@ -19,16 +18,19 @@
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <link href="https://plus.google.com/113493854651753327245" rel="publisher">
 <link href="http://feeds.mashable.com/Mashable" rel="alternate" title="Mashable" type="application/rss+xml">
-<link href="http://rack.1.mshcdn.com/assets/favicon-007eef4a606e98f0934d0af984b76203.png" rel="icon" type="image/png">
+<link href="http://rack.0.mshcdn.com/assets/favicon-f4f209c501a0902a12e1a674354bb356.png" rel="icon" type="image/png">
 <meta content="mid:12105681" name="linkedin:owner">
 <meta content="122071082108" property="fb:app_id">
 <meta content="18807449704" property="fb:page_id">
 <meta content="nYmtX7H2sSCkK8gHpQGxr7Es2526DgUaqb6PGYSX" name="readability-verification">
-<link href="http://rack.2.mshcdn.com/assets/mashable.touchicon-e352d67245bfc87a994db28c16cf732f.png" rel="apple-touch-icon-precomposed">
+<meta content="app-id=910775754" name="apple-itunes-app">
+<link href="http://rack.3.mshcdn.com/assets/mashable.touchicon-4b641ab8741e4f02da5817297fdaa9b8.png" rel="apple-touch-icon-precomposed">
 
-<link data-page-subject="true" href="http://mashable.com/privacy/" rel="canonical"><meta content="http://mashable.com/privacy/" data-page-subject="true" property="og:url"><meta content="Mashable" data-page-subject="true" property="og:title"><meta content="website" data-page-subject="true" property="og:type"><meta content="Mashable" data-page-subject="true" property="og:site_name"><meta content="Mashable covers the top social media news on topics like Facebook, YouTube, Gmail, Twitter, Amazon, Pinterest and More." data-page-subject="true" property="og:description"><meta content="Mashable covers the top social media news on topics like Facebook, YouTube, Gmail, Twitter, Amazon, Pinterest and More." data-page-subject="true" name="description"><meta content="Social Networking, Social Media, News, Web, Technology, Web 2.0, Tech, Information, Blog, Facebook, YouTube, Google, Top" data-page-subject="true" name="keywords">
+<link data-page-subject="true" href="http://mashable.com/privacy/" rel="canonical"><meta content="http://mashable.com/privacy/" data-page-subject="true" property="og:url"><meta content="Mashable" data-page-subject="true" property="og:title"><meta content="website" data-page-subject="true" property="og:type"><meta content="Mashable" data-page-subject="true" property="og:site_name"><meta content="Mashable is a leading source for news, information &amp; resources for the Connected Generation." data-page-subject="true" property="og:description"><meta content="Mashable is a leading source for news, information &amp; resources for the Connected Generation." data-page-subject="true" name="description"><meta content="Social Networking, Social Media, News, Web, Technology, Web 2.0, Tech, Information, Blog, Facebook, YouTube, Google, Top" data-page-subject="true" name="keywords">
 
-<script src="http://rack.2.mshcdn.com/assets/app-5762275e527bfe597d6d92c73b55ae0a.js" type="text/javascript"></script>
+<script src="//cdn.optimizely.com/js/58011369.js"></script>
+<script async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+<script src="http://rack.1.mshcdn.com/assets/app-c512ef5bbf666887dd03a9c91a556c61.js" type="text/javascript"></script>
 <!--[if lte IE 8]>
 <script src="http://rack.2.mshcdn.com/assets/polyfill-6620db93ad92c8f787391361dfe3f23c.js" type="text/javascript"></script>
 <![endif]-->
@@ -38,11 +40,23 @@
 <header id="flyout-container"></header>
 <div id="peek">
 <div id="sticky">
+<div class="cookie-notice">
+<div class="wrap">
+We're using cookies to improve your experience.
+<a href="/cookie-policy/" class="cta">Click Here to find out more.</a>
+<div class="dismiss"></div>
+</div>
+</div>
+
 
 <header id="site-header"><div class="navbar">
-<div class="navbar-inner"><ul class="main-menu nav inline">
+<div class="navbar-inner"><ul class="inline main-menu nav us">
 <li class="menu"><a class="icon-reorder" href="#"></a></li>
-<li class="logo"><a class="brand" data-turbo-target="body-container" href="/"><span>Mashable</span><img alt="Header_logo.v2" src="http://rack.1.mshcdn.com/assets/header_logo.v2-30574d105ad07318345ec8f1a85a3efa.png"></a></li>
+<li class="logo us"><a class="brand" data-turbo-target="body-container" href="/"><span>Mashable</span><img alt="Header_logo.v2.us" class="light" src="http://rack.3.mshcdn.com/assets/header_logo.v2.us-30574d105ad07318345ec8f1a85a3efa.png"><img alt="Header_logo.v2.us.dark" class="dark" src="http://rack.3.mshcdn.com/assets/header_logo.v2.us.dark-5d78b91550b870c7ed82c3497f34947e.png"></a>
+<div class="geos-content">
+<a class="geo" href="?geo=AU" onclick="$.cookie(&quot;geo&quot;,&quot;AU&quot;)">Mashable Australia</a>
+<a class="geo" href="?geo=GB" onclick="$.cookie(&quot;geo&quot;,&quot;GB&quot;)">Mashable UK</a>
+</div></li>
 <li class="submenu collapsable pull-right" id="sign-in"><a href="/login/"><span>Sign in</span></a></li>
 <li class="follow submenu pull-right"><a class="follow-trigger" href="/2011/11/18/follow-mashable/"><span class="fb"></span>
 <span class="tw"></span>
@@ -75,30 +89,30 @@ Follow @mashable
 </div>
 </div>
 </div></li>
-<li class="collapsable" data-tags=""><a href="/category/world-cup">World Cup</a></li>
+<li class="collapsable" data-tags=""><a href="/category/must-reads">Must Reads</a></li>
 <li class="collapsable channel submenu" data-tags="how-to,facebook,twitter,youtube,google-plus"><a href="/social-media/">Social Media</a><div class="submenu-content"></div></li>
 <li class="collapsable channel submenu" data-tags="apps-software,dev-design,gadgets,mobile"><a href="/tech/">Tech</a><div class="submenu-content"></div></li>
 <li class="collapsable channel submenu" data-tags="advertising,marketing,media,small-business,startups,jobs"><a href="/business/">Business</a><div class="submenu-content"></div></li>
-<li class="collapsable channel submenu" data-tags="film,gaming,music,sports,television"><a href="/entertainment/">Entertainment</a><div class="submenu-content"></div></li>
-<li class="collapsable channel submenu" data-tags="us,world,climate,space,politics,social-good"><a href="/us-world/">US &amp; World</a><div class="submenu-content"></div></li>
+<li class="collapsable channel submenu" data-tags="film,gaming,music,sports,television,travel"><a href="/entertainment/">Entertainment</a><div class="submenu-content"></div></li>
+<li class="collapsable channel submenu" data-tags="us,climate,retronaut,space,australia,uk,social-good"><a href="/world/">World</a><div class="submenu-content"></div></li>
 <li class="collapsable channel submenu" data-tags="pics,memes,comics,conversations,videos-watercooler"><a href="/watercooler/">Watercooler</a><div class="submenu-content"></div></li>
 <li class="submenu more"><a href="#"><!-- %span=t "header.nav.more" -->
 <span>More</span></a>
 <div class="submenu-content">
 <div class="page-container">
 <ul class="columns"><li><ul class="column-list"><li class="header">Channels</li>
-<li><a href="/category/world-cup">World Cup</a></li>
+<li><a href="/category/must-reads">Must Reads</a></li>
 <li><a href="/social-media/">Social Media</a></li>
 <li><a href="/tech/">Tech</a></li>
 <li><a href="/business/">Business</a></li>
 <li><a href="/entertainment/">Entertainment</a></li>
-<li><a href="/us-world/">US &amp; World</a></li>
+<li><a href="/world/">World</a></li>
 <li><a href="/watercooler/">Watercooler</a></li></ul></li><li><ul class="column-list">
-<li class="header">Company</li><li><a href="/about/">About Us</a></li><li><a href="http://www.wrightsmedia.com/sites/mashable/">Licensing &amp; Reprints</a></li><li><a href="http://mashable.com/2013/">Archive</a></li><li><a href="http://mashable.theresumator.com/">Mashable Careers</a></li></ul></li><li><ul class="column-list">
+<li class="header">Company</li><li><a href="/about/">About Us</a></li><li><a href="http://www.wrightsmedia.com/sites/mashable/">Licensing &amp; Reprints</a></li><li><a href="http://mashable.com/2014/">Archive</a></li><li><a href="http://mashable.theresumator.com/">Mashable Careers</a></li></ul></li><li><ul class="column-list">
 <li class="header">Contact</li><li><a href="/contact-us/">Contact Us</a></li><li><a href="/submit/">Submit News</a></li></ul></li><li><ul class="column-list">
 <li class="header">Advertise</li><li><a href="/advertise/">Advertise</a></li></ul></li><li><ul class="column-list">
-<li class="header">Legal</li><li><a href="/privacy/">Privacy Policy</a></li><li><a href="/terms/">Terms of Use</a></li></ul></li><li><ul class="column-list">
-<li class="header">Apps</li><li><a href="http://itunes.apple.com/us/app/mashable/id356202138?mt=8">iPhone App</a></li><li><a href="http://itunes.apple.com/us/app/mashable-for-ipad/id370097986?mt=8">iPad App</a></li><li><a href="https://play.google.com/store/apps/details?id=com.mashable.android.phoenix">Android App</a></li></ul></li><li><ul class="column-list">
+<li class="header">Legal</li><li><a href="/privacy/">Privacy Policy</a></li><li><a href="/terms/">Terms of Use</a></li><li><a href="/cookie-policy/">Cookie Policy</a></li></ul></li><li><ul class="column-list">
+<li class="header">Apps</li><li><a href="https://itunes.apple.com/us/app/mashable/id910775754?mt=8">iPhone / iPad</a></li><li><a href="https://play.google.com/store/apps/details?id=com.mashable.android.phoenix">Android</a></li></ul></li><li><ul class="column-list">
 <li class="header">Resources</li><li><a href="/2011/11/18/follow-mashable/">Subscriptions</a></li></ul></li><li><ul class="column-list">
 <li class="header">Sites</li><li><a href="http://findjobs.mashable.com">Jobs</a></li><li><a href="http://events.mashable.com/">Events</a></li><li><a href="http://mashable.com/sgs/">Social Good Summit</a></li><li><a href="http://mashable.com/media-summit/">Media Summit</a></li></ul></li></ul>
 </div>
@@ -107,8 +121,8 @@ Follow @mashable
 </div></header>
 </div>
 <div id="scrollable"><div class="loader"></div>
-<div class="ad_container"><span class="ad" data-height="0" data-src="/tripleclick.html#type=survey&amp;adnum=1&amp;posts=&amp;tile=1" data-width="0"></span></div><header class="box970">
-<div class="page-container"><center class="visible-desktop"><div class="ad_container"><span class="ad" data-height="50" data-src="/tripleclick.html#type=banner&amp;adnum=2&amp;posts=&amp;tile=2" data-width="300"></span></div></center></div>
+<div class="ad_container"><span class="ad" data-params="{&quot;tile&quot;:1,&quot;adnum&quot;:1,&quot;posts&quot;:&quot;&quot;,&quot;type&quot;:&quot;survey&quot;}"></span></div><header class="box970">
+<div class="page-container"><center class="visible-desktop"><div class="ad_container"><span class="ad" data-params="{&quot;tile&quot;:2,&quot;adnum&quot;:2,&quot;posts&quot;:&quot;&quot;,&quot;type&quot;:&quot;banner&quot;}"></span></div></center></div>
 </header>
 <div class="pages show" id="body-container"><div id="main">
 <div class="page-container">
@@ -116,77 +130,111 @@ Follow @mashable
 <div id="body"><div class="flex-box">
 <div class="box-cell page">
 <hgroup class="page-header">
-<h2>Company</h2>
+<h2>Privacy Policy</h2>
 </hgroup>
 <div class="page-content">
-
-<h1>Mashable, Inc. Privacy Policy</h1>
-
-<p>We take your privacy very seriously and are committed to being transparent with how we use your information.  This website and any of our services and sites directing you to this Privacy Policy are controlled by Mashable, Inc. (collectively "we" or "us").</p>
+<p><strong>Mashable. Privacy Policy</strong></p>
+<p>This Privacy Policy was last updated on October 27, 2014.</p>
+<p>We take your privacy very seriously and are committed to being transparent with how we use your information. This website (<a href="http://www.mashable.com">www.mashable.com</a>), mobile application and any of our services and sites directing you to this Privacy Policy are controlled by Mashable, Inc (collectively "we" or "us"). This Privacy Policy also incorporates the terms contained in the Terms of Use http://mashable.com/terms/; and Cookies Policy http://mashable.com/cookie-policy</p>
 <p>Our Privacy Policy explains:</p>
 <ul>
-<li>What information we collect and why we collect it. </li>
-<li>How we use that information. </li>
-<li>The choices we offer, including how to access and update information. </li>
+<li><p>What information we collect and why we collect it.</p></li>
+<li><p>How we use that information.</p></li>
+<li><p>The notice to you and choices we offer, including how to access and update information.</p></li>
 </ul>
-<p>If you have any questions about this Privacy Policy, please contact us at: terms@mashable.com.</p>
-<h2>Information we collect</h2>
+<p>By using our website, mobile application and services you consent to our collection and use of your personal data described in this Privacy Policy. If you have any questions about this Privacy Policy or would like to know more about what information we collect and store, please contact us at: <a href="mailto:privacy@mashable.com">privacy@mashable.com</a>.</p>
+<p>Mashable has received <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's Privacy Seal signifying</a> that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.</p>
+<p>The TRUSTe program covers only information that is collected through this website, <a href="http://www.mashable.com">www.mashable.com</a>, behind the log in on our website and mobile application.</p>
+<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">https://feedback-form.truste.com/watchdog/request</a>.</p>
+<p><em>For users located in the EU and the US: </em>Mashable complies with the U.S. &amp; E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.
+<br>Mashable has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.<br> To learn more about the Safe Harbor program, and to view Mashable's certification, please visit http://www.export.gov/safeharbor/</p>
+<p><strong>Information we collect</strong></p>
 <p>We collect information to provide better services to our users and improve our business.</p>
 <p>We collect information in two ways:</p>
 <ul>
-<li><strong>Information you give us or information provided through a social network. </strong> For example, some of our services require you to sign up for an account, provide information for a contest or award, or link an account through a social network. We work with social networks including, but not limited to Facebook, Twitter, Google Plus, and LinkedIn.  We have access to information you directly provide and information through those social networking services based on your privacy settings on those networks.    
-</li><li><strong>Information we get from your use of our services. </strong> We may collect information about the services that you use and how you use them, like when you visit different parts of our site or applications and what selections you make on the services. We may also automatically collect certain technical information such as:
-<ul>
-<li><strong>Device information</strong>
-We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile information if you use a mobile device to access the site). </li>
-<li><strong>Log information</strong>
-When you use our services or view content provided by us, we may automatically collect and store certain information in server logs.  This information may include: </li>
-<ul>
-<li>details of how you used our service, such as your navigation paths and search queries. </li>
-<li>mobile related information if you access our website using your mobile device.</li>
-<li>internet protocol address. </li>
-<li>device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. </li>
-<li>cookies that may uniquely identify your browser, mobile device, or your account.</li>
-<li>Browser type, operating system, and other technical information.</li>
+<li><p><strong>Information you give us or information provided through a social network. </strong>For example, some of our services require you to sign up for an account, provide information for a contest or award, or link an account through a social network. Examples of the information we collect may include email, name or phone number.<br><br>
+We work with social networks including, but not limited to Facebook, Twitter, Google Plus, and LinkedIn. We have access to information you directly provide and information through those social networking services based on your privacy settings on those networks.</p></li>
+<li><p><strong>Information we get from your use of our services. </strong>We may collect usage information when you visit different parts of our site or use our applications. We may also automatically collect certain technical information such as device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile information if you use a mobile device to access the site).</p></li>
 </ul>
-</ul>
-<h2>How we use information we collect</h2>
-<p>We use the information we collect from all of our services to provide, maintain, protect and improve our services, to develop new services and offerings and to protect our us and our users. We also use this information to offer you tailored content like giving you more relevant search results and ads.</p>
+<p><strong>How we use information we collect</strong></p>
+<p>We use the information we collect from all of our services and from third parties to provide, maintain, protect and improve our services, to develop new services and offerings and to protect us and our users. We may also use this aggregated and demographic information to offer you tailored content like giving you more relevant search results and ads.</p>
 <p>When you contact us, we may keep a record of your communication as well as the other information in this Privacy Policy to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.</p>
-<p>We use aggregated and demographic information to support our advertising needs so we can continue to provide many services for free.  Your personally identifiable information is never disclosed to these parties, unless you consent.</p>
-<p>We, or our advertising networks may also use cookie, tag, beacon, or other similar technology to serve you relevant advertisements and alert you to our content, even on other sites and services.  This technology can also be used to collect and analyze aggregated information about our users.  The National Advertising Initiative has more information and an opt-out site maintained here:  http://www.networkadvertising.org/choices/</p>
-<p>Please keep in mind that comments sections, forums, and other similar areas of our services are public.  Any information posted in those areas is viewable and usable by anyone that has access.</p>
-<p>We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.  </p>
-<h2>Choice</h2>
-<p>If we provide you with any mailings or other communication, you can always opt out of that communication.  </p>
-<p>You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it's important to remember that many of our services may not function properly if your cookies are disabled.</p>
-<p>You have the right to remove your personal information from our databases.  To do this, please delete your Mashable account.  If you have any problems or questions, please let us know by contacting us here support@mashable.com and we will assist you with the process of deleting your account.  For security purposes will not process any deletion requests via email.  Deleting your Mashable account personally allows us to verify your identity. </p>
-<h2>Accessing and updating your personal information</h2>
-<p>Whenever you use our services, we aim to provide you with access to your personal information in your account. If that information is wrong, we strive to give you ways to update it quickly or to delete it unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.</p>
-<h2>Information we share</h2>
+<p>Please keep in mind that comments sections, forums, and other similar areas of our services are public. Any information posted in those areas is viewable and usable by anyone that has access.</p>
+<p>We will contact you to ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.</p>
+<p><strong>Tracking Technologies</strong></p>
+<p><strong>Cookies</strong></p>
+<p>Technologies such as: cookies, beacons, tags and scripts are used by Mashable and our advertising / marketing partners, affiliates, or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.</p>
+<p>We use cookies to remember users' settings (e.g. geographic location) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.</p>
+<p>The use of cookies on our website is governed by our Cookie Policy <br> http://mashable.com/cookie-policy</p>
+<p><strong>Behavioral Targeting/Re-Targeting</strong></p>
+<p>We and our service providers may use advertising cookies to deliver ads that we believe are more relevant to you and your interests. For example, we may use targeting or advertising cookies to customize the advertising and content you receive on our Site, to limit the number of times you see the same ad on our Site and to help measure the effectiveness of our advertising campaigns. These cookies remember what you have looked at on the Site and other sites, and may be combined with other information acquired from third parties, and we may share this information with other organizations, such as advertisers.</p>
+<p>For more information about targeting and advertising cookies and how you can opt out, visit:</p>
+<p>- Network Advertising Initiative: http://www.networkadvertising.org/choices/</p>
+<p>- European Interactive Digital Advertising Alliance: http://www.youronlinechoices.eu/</p>
+<p>- http://www.youronlinechoices.com/uk/your-ad-choices</p>
+<p><strong>Local Storage - HTML5/Flash Cookies</strong></p>
+<p>We may use Local Storage Objects (LSOs) such as HTML5 or Flash to store user preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity may also use LSOs such as HTML 5 or Flash to collect and store information.</p>
+<p>To manage Flash LSOs please click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" target="_blank">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</a></p>
+<p><strong>Log information</strong></p>
+<p>When you use our services or view content provided by us, we may automatically collect and store certain information in server logs. This information may include:</p>
+<ul><ul><ul>
+<li><p>Details of how you used our service, such as your navigation paths and search queries.</p></li>
+<li><p>Mobile related information if you access our website using your mobile device.</p></li>
+<li><p>Internet protocol address.</p></li>
+<li><p>Device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.</p></li>
+<li><p>Cookies that may uniquely identify your browser, mobile device, or your account.</p></li>
+<li><p>Browser type, operating system, and other technical information.</p></li>
+</ul></ul></ul>
+<p>We may combine this automatically collected log information with other information we collect about you. We do this to improve marketing, analytics, and the products and services we offer you.</p>
+<p><strong>MOBILE ANALYTICS</strong></p>
+<p>We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.</p>
+<p><strong>Push Notifications</strong><br>We send you push notifications from time-to-time in order to update you about any content, events or promotions that may interest you. If you no longer wish to receive these types of communications, you may turn them off at the app or OS level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user/device identification information.</p>
+<p><strong>Geo-Locations</strong></p>
+<p>We collect your location based information for the purpose of locating a place that you may be searching for in your area. <br>If you no longer wish to allow us to track your geo-location information in the Mobile App you may turn this off at the device level.</p>
+<p><br><strong>Access and Choice</strong></p>
+<p>You have the right to remove your personal information from our databases. To do this, please delete your Mashable account. If you have any problems or questions, please let us know by contacting us here support@mashable.com and we will assist you. We will respond to your request to access within 30 calendar days. To otherwise access or correct your personal information on our databases, log into Mashable.com, and visit <a href="http://mashable.com/me/edit">http://mashable.com/me/edit</a> to view and modify your information.</p>
+<p>Where you have provided us with the appropriate permissions, or where we are legally entitled to do so, we will provide you with marketing materials by email.<br> You can opt out of receiving these emails at any time by clicking the unsubscribe link in the marketing email, accessing the email preferences in your account settings page or by contacting us at support@mashable.com.</p>
+<p>We will retain your information for as long as your account is active or as needed to provide you services.<br>We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p><strong>Information we share</strong></p>
 <p>We do not share personal information with companies, outside organizations and individuals unless one of the following circumstances apply:</p>
-<ul>
-<li><strong>With your consent</strong>. We will share personal information with companies, outside organizations or individuals if we have your consent to do so. </li>
-<li><strong>For external processing. </strong> We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. </li>
-<li><strong>For legal reasons. </strong> We will share personal information with companies, outside organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process or enforceable governmental request, detect, prevent, or otherwise address fraud, security or technical issues or protect against harm to the rights, property or safety of our users or the public as required or permitted by law. </li>
-<li><strong>In case of a sale or asset transfer.</strong> If we become involved in a merger, acquisition or other transaction involving the sale of some or all of our assets, user information, including personal information collected from you through your use of our Services, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Services. </li>
-<li><strong>In aggregated form for business purposes.</strong> We may share aggregated, non-personally identifiable information publicly and with our partners such as business with have a relationship with, advertisers or connected sites. For example, we may share information to show trends about the general use of our services. </li>
-</ul>
-<h2>Information security</h2>
-<p>We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold however not website is entirely secure.  You should protect the account information in your possession as well.</p>
-<h2>Third-Party Sites</h2>
-<p>Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you on this site.  We also do not control the privacy policies and your privacy settings on third-party sites, including social networks. </p>
-<h2>Enforcement</h2>
-<p>We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. </p>
-<h2>Children Under 13</h2>
-<p>Our site is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13.  If you are the parent of a child under the age of 13 and have a concern regarding your childâ€™s information on our site, please contact us at support@mashable.com</p><p>
-</p><h2>Our Services are Located in the United States</h2>
-<p>Our website and associated services are hosted in the United States.  If you are outside of the United States, your information will be processed and stored in the United States and you are consenting to such processing and storage.</p>
-<h2>Changes</h2>
-<p>Our Privacy Policy may change from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes).</p>
-<p>This Privacy Policy was last updated on September 27, 2013. </p>
+<ul><ul>
+<li><p><strong>With your consent</strong>. We will share personal information with companies, outside organizations or individuals if we have your consent to do so. By continuing to use our website and providing personal information through our website, you consent to us sharing your personal information with third parties for the purposes specified in this Privacy Policy. We may also seek your additional consent for purposes subsequently notified to you.</p></li>
+<li><p><strong>For external processing. </strong>We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.<br> These companies are authorized to use your personal information <em>only as necessary to provide </em>these services to us.</p></li>
+<li><p><strong>For legal reasons. </strong>We will share personal information with companies, outside organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process or enforceable governmental request, detect, prevent, or otherwise address fraud, security or technical issues or protect against harm to the rights, property or safety of our users or the public as required or permitted by law.</p></li>
+<li><p><strong>In case of a sale or asset transfer.</strong> If we become involved in a merger, acquisition or other transaction involving the sale of some or all of our assets, user information, including personal information collected from you through your use of our services, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on our website.</p></li>
+<li><p><strong>In anonymous form for business purposes.</strong> We may share anonymous, non-personally identifiable information publicly and with our partners such as businesses which we have a relationship with, advertisers or connected sites. For example, we may share information to show trends about the general use of our services.</p></li>
+</ul></ul>
+<p>Please note that third party recipients of your personal information may be located in United States, United Kingdom, Australia.</p>
+<p><strong>Frames</strong></p>
+<p>Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you may be providing your personal information to these third parties and not to www.mashable.com.</p>
+<p><strong>Comments Section / Forum</strong></p>
+<p>Our website offers publicly accessible comments section or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. <em>To request removal of your personal information from our comments section or community forum, contact us at </em><a href="mailto:privacy@mashable.com">privacy@mashable.com</a> .<br> In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<p><strong>Links to 3<sup>rd</sup> Party Sites</strong></p>
+<p>Our website includes links to other websites whose privacy practices may differ from those of Mashable. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.</p>
+<p><strong>Social Media Widgets</strong></p>
+<p>Our website includes social media features, such as the Facebook Like button and Widgets, such as the Share this button. These features may collect your IP address, which page you are visiting on our site, andmay set a cookie to enable the feature to function properly. social media features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policies of the companies providing them.</p>
+<p><strong>Single Sign-On</strong></p>
+<p>You can log in to our site using such sign-in services such as but not limited to: Facebook , Google, Linkedin, and Twitter. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate your profile.<br><br>Services like Facebook Connect give you the option to post information about what you are reading on this Web site to your profile page to share with others within your network.</p>
+<p><strong>Information security</strong></p>
+<p>We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold however no website is entirely secure. You should protect the account information in your possession as well.</p>
+<p><strong>Third-Party Sites</strong></p>
+<p>Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you on this site. We also do not control the privacy policies and your privacy settings on third-party sites, including social networks.</p>
+<p>You should be aware that when you leave our website, whether via a link on our website or otherwise, and enter a third party website, you do so subject to that websiteâ€™s terms and conditions and privacy policy. We strongly advise you to read the terms and conditions and privacy policies of these third party websites. We will not be held responsible for the practices or the content of such other websites or services and we exclude all liability for any loss or damage suffered by you as a result of your use of the links on our website and/or your access of third party websites.</p>
+<p><strong>Children Under 13</strong></p>
+<p>Our website is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your childâ€™s information on our website, please contact us at <a href="mailto:support@mashable.com">privacy@mashable.com</a>.</p>
+<p><strong>Our Services are Located in the United States</strong></p>
+<p>Our website and associated services are hosted in the United States. If you are outside of the United States, your information will be processed and stored in the United States and by using our website or providing us with personal information, you consent to such processing and storage.</p>
+<p><strong>Enforcement and Dispute Resolution</strong></p>
+<p>We regularly review our compliance with our Privacy Policy. When we receive formal written complaints at privacy@mashable.com, we will contact the person who made the complaint to follow up.</p>
+<p><strong>Changes</strong></p>
+<p>We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+<p>&nbsp;</p>
+<p>Mashable, Inc</p>
+<p>114 5th Avenue</p>
+<p>New York NY 10011</p>
+<p><a href="mailto:privacy@mashable.com">privacy@mashable.com</a></p>
 
-</li></ul></div>
+</div>
 </div>
 </div>
 </div>
@@ -208,7 +256,7 @@ When you use our services or view content provided by us, we may automatically c
 <a class="brand" href="/">
 Mashable
 </a>
-<span class="blurb">is a leading source for news, information and resources for the Connected Generation. Mashable reports on the importance of digital innovation and how it empowers and inspires people around the world. Mashable's record 34 million unique visitors worldwide and 15 million social media followers are one of the most influential and engaged online communities. Founded in 2005, Mashable is headquartered in New York City with an office in San Francisco.</span>
+<span class="blurb">is a leading source for news, information and resources for the Connected Generation. Mashable reports on the importance of digital innovation and how it empowers and inspires people around the world. Mashable's record 40 million unique visitors worldwide and 20 million social media followers are one of the most influential and engaged online communities. Founded in 2005, Mashable is headquartered in New York City with an office in San Francisco.</span>
 </div>
 <ul class="copyright-and-legal">
 <li>
@@ -231,4 +279,4 @@ Designed in collaboration with <a rel="nofollow" href="http://www.codeandtheory.
 </div>
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
