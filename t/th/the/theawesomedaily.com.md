@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theawesomedaily.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630051341id_/http%3A//theawesomedaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theawesomedaily.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231091502id_/http%3A//theawesomedaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Awesome Daily - Your daily dose of awesome
 
