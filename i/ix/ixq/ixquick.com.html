@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the ixquick.com privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629065228id_/https%3A//ixquick.com/eng/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ixquick.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231151305id_/https%3A//www.ixquick.com/eng/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>                                                                                                                                                                                                      
     <title> PRIVACY - Privacy Policy</title>
     <link rel="shortcut icon" href="/favicon.ico">
     <link href="/css/typography.css" type="text/css" media="all" rel="StyleSheet">
     <link href="/css/reset.css" rel="stylesheet" type="text/css" media="all">
-    <link href="/css/about_pages_style.css" type="text/css" media="all" rel="StyleSheet">
+    <link href="/css/about_pages_style.css?r=5" type="text/css" media="all" rel="StyleSheet">
     <link href="/css/additional.css" type="text/css" media="all" rel="StyleSheet">
 <!--[if IE 6]>
     <link href='/css/lt7.css' type='text/css' media="all"  rel='StyleSheet' />
@@ -306,6 +306,10 @@ var BrowserDetect = {
         versionSearch: 'OPR'
     }, {
         string: navigator.userAgent,
+        subString: 'CriOS',
+        identity: 'Chrome'
+    }, {
+        string: navigator.userAgent,
         subString: 'Chrome',
         identity: 'Chrome'
     }, {
@@ -417,6 +421,76 @@ $(document).ready(function() {
 
 });
 
+        jQuery(document).ready(function(){cpt_js_prgtr();});
+        function cpt_js_prgtr() {
+            var urlParams;
+            (window.onpopstate = function () {
+                var match,
+                pl     = /\+/g,
+                search = /([^&=]+)=?([^&]*)/g,
+                decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+                query  = window.location.search.substring(1);
+
+                urlParams = {};
+                while (match = search.exec(query)) {
+                    urlParams[decode(match[1])] = decode(match[2]);
+                }
+            })();
+            var params = new Array ('vf', 'vft', 'fm', 'fmt');
+            var cpt_prms = '';
+            var cpt_h = '';
+            jQuery.each(params, function(index, elem) {
+                if (urlParams[elem] != undefined) {
+                    cpt_h += '<input value="'+urlParams[elem]+'" name="'+elem+'" type="hidden">';
+                    cpt_prms += elem+'='+urlParams[elem]+'&';
+                }
+            });
+
+            if (cpt_prms) {
+                if (jQuery('.cpt_prgtr').length) {
+                    jQuery('.cpt_prgtr').each(function() {
+                        var search_box_params = jQuery(this).html();
+                        var pttrn = new RegExp('name=('+params.join('|')+')');
+                        if(!(pttrn.test(search_box_params))) {
+                            jQuery(this).prepend(cpt_h);
+                        }
+                    });
+                }
+            }
+           
+            var base_url = "http://ixquick.com";
+            base_url = base_url.replace('<!--KEEPTEL-->','');
+            if (base_url != '') {
+                base_url = base_url.match(/^https?:\/\/[^/]+/)[0];
+            }
+            base_url_regexp = '^('+base_url+'.+?|\\/\\w.+?)(#.*)?$';
+            var jump_to_tag_regexp = new RegExp(base_url_regexp, 'g');
+	    
+            jQuery("a").each(function() {
+                if (jQuery(this).hasClass('no-cpt-prgpt')) {
+                    return;
+                } else {
+                    var href = jQuery(this).attr("href");
+                    var pttrn = new RegExp('('+params.join('|')+')=');
+
+                    if(href != undefined && !(pttrn.test(href)) && href.match(jump_to_tag_regexp)) {
+                        var append_char = (href.match(/\?/)) ? "&" : "?";
+                        var jump_to_tag = '';
+                        var p_matches;
+                        if (p_matches = jump_to_tag_regexp.exec(href)) {
+                            href = p_matches[1];
+                            jump_to_tag  = p_matches[p_matches.length - 1];
+                        }
+                        if (!jump_to_tag) {
+                            jump_to_tag = '';
+                        }
+                        href += append_char + cpt_prms + jump_to_tag;
+                        jQuery(this).attr("href", href);
+                    }
+                }
+            });
+        }
+    
     
     
     function highlight () {                                                                                                                                                                                       
@@ -494,13 +568,13 @@ highlight();
 .btn_submit{ padding-top:1px;}
 <![endif]-->
 </style>
-<p id="input_p"><input type="hidden" value="web" name="cat"><input type="hidden" value="process_search" name="cmd"><input type="hidden" value="english" name="language"><input type="hidden" value="v1all" name="engine0"><input type="text" id="query_top" name="query" style="width:100%;" autocomplete="ON"><script>function setFocus() { document.getElementById("query_top").focus(); }</script></p></td><td width="49" nowrap="nowrap" style="text-align:right"><p class="btn_submit" style="padding-left:14px; *padding-top:1px"><input type="image" style="width:35px;height:34px;" id="submit" class="search_top" src="/graphics/stp_search.gif" title="Ixquick Web Search"></p></td></tr></tbody></table>
+<p id="input_p" class="cpt_prgtr"><input type="hidden" value="web" name="cat"><input type="hidden" value="process_search" name="cmd"><input type="hidden" value="english" name="language"><input type="hidden" value="v1all" name="engine0"><input type="text" id="query_top" name="query" style="width:100%;" autocomplete="ON"><script>function setFocus() { document.getElementById("query_top").focus(); }</script></p></td><td width="49" nowrap="nowrap" style="text-align:right"><p class="btn_submit" style="padding-left:14px; *padding-top:1px"><input type="image" style="width:35px;height:34px;" id="submit" class="search_top" src="/graphics/stp_search.gif" title="Ixquick Web Search"></p></td></tr></tbody></table>
 </form>
 </div>
 <div class="top_links">
 	<ul><li><a href="/eng/advanced-search.html" class="addsettings">Advanced</a></li>
 	<li><a href="/do/preferences.pl?language_ui=english" class="addsettings">Settings</a></li>
-    <li><a href="https://support.ixquick.com/index.php?/Knowledgebase/List" target="_blank" class="addsettings">Support</a></li>
+    <li><a href="/index.php?/Knowledgebase/List" target="_blank" class="addsettings">Support</a></li>
 	<li><a href="/do/preferences.pl?language_ui=english" onmouseout="hideLang();" onmouseover="showLang();" id="lang" class="addsettings">Language</a></li></ul>
 </div>
 <div class="clear"></div></td></tr></tbody></table>
@@ -582,7 +656,7 @@ function verifyChecked (form_obj) {
 	<div class="main_left">
     <div class="leftContent">
     <div class="sidebar">
-<ul id="left_menu" style="width:200px;"><li><a class="head" href="/eng/protect-privacy.html" onclick="return false;">PRIVACY</a><div class="content" style="display: block;"><ul class="submenu_list"><li><a href="/eng/protect-privacy.html" class="addsettings">How we protect you</a></li><li><a href="/eng/protect-privacy-qa.html" class="addsettings">Q&amp;A</a></li><li class="selected"><a href="/eng/privacy-policy.html" class="addsettings">Our privacy policy</a><span class="menubg_right"></span></li></ul></div></li><li><a class="head" href="/do/preferences.pl?language_ui=english" onclick="return false;">TOOLS</a><div class="content"><ul class="submenu_list"><li><a href="/do/preferences.pl?language_ui=english" class="addsettings">Settings</a></li><li><a href="/eng/power-search-techniques.html" class="addsettings">Search tips</a></li><li><a href="/eng/download-ixquick-plugin.html" class="addsettings">Add to Browser</a></li><li><a href="/eng/make-ixquick-your-homepage.html" class="addsettings">Make homepage</a></li><li><a href="/eng/link-instructions.html" class="addsettings">On your website</a></li><li><a href="/eng/mobile-app-qa.html" class="addsettings">Mobile apps</a></li><li><a href="/eng/download-ixquick-toolbar.html" class="addsettings">Ixquick toolbar</a></li><li><a href="/do/ipd_optout.pl?lui=english" class="addsettings">IPD opt-out</a></li></ul></div></li><li><a style="color:#1371B1; cursor:pointer; text-decoration:none;" href="https://support.ixquick.com/index.php?/Knowledgebase/List">SUPPORT</a></li><li><a class="head" href="http://www.facebook.com/ixquick" onclick="return false;">COMMUNITY</a><div class="content"><ul class="submenu_list"><li><a href="http://www.facebook.com/ixquick" class="addsettings">Facebook</a></li><li><a href="http://twitter.com/#!/ixquick" class="addsettings">Twitter</a></li><li><a href="https://plus.google.com/116971032219110493575" class="addsettings">Google+</a></li><li><a href="/eng/spread-the-word.html" class="addsettings">Spread the word</a></li></ul></div></li><li><a class="head" href="/eng/what-makes-ixquick-special.html" onclick="return false;">ABOUT US</a><div class="content"><ul class="submenu_list"><li><a href="/eng/what-makes-ixquick-special.html" class="addsettings">How we're different</a></li><li><a href="/eng/company-background.html" class="addsettings">Our history</a></li><li><a href="/eng/company-management-bio.html" class="addsettings">Our people</a></li><li><a href="/eng/company.html" class="addsettings">Company</a></li><li><a href="/press/" class="addsettings">Press center</a></li></ul></div></li></ul></div><br><br><br><br><br><br>
+<ul id="left_menu" style="width:200px;"><li><a class="head" href="/eng/protect-privacy.html" onclick="return false;">PRIVACY</a><div class="content" style="display: block;"><ul class="submenu_list"><li><a href="/eng/protect-privacy.html" class="addsettings">How we protect you</a></li><li><a href="/eng/protect-privacy-qa.html" class="addsettings">Q&amp;A</a></li><li class="selected"><a href="/eng/privacy-policy.html" class="addsettings">Our privacy policy</a><span class="menubg_right"></span></li></ul></div></li><li><a class="head" href="/do/preferences.pl?language_ui=english" onclick="return false;">TOOLS</a><div class="content"><ul class="submenu_list"><li><a href="/do/preferences.pl?language_ui=english" class="addsettings">Settings</a></li><li><a href="/eng/power-search-techniques.html" class="addsettings">Search tips</a></li><li><a href="/eng/download-ixquick-plugin.html" class="addsettings">Add to Browser</a></li><li><a href="/eng/make-ixquick-your-homepage.html" class="addsettings">Make homepage</a></li><li><a href="/eng/link-instructions.html" class="addsettings">On your website</a></li><li><a href="/eng/mobile-app-qa.html" class="addsettings">Mobile apps</a></li><li><a href="/eng/download-ixquick-toolbar.html" class="addsettings">Ixquick toolbar</a></li></ul></div></li><li><a style="color:#1371B1; cursor:pointer; text-decoration:none;" href="/index.php?/Knowledgebase/List">SUPPORT</a></li><li><a class="head" href="https://blog.startpage.com" onclick="return false;">COMMUNITY</a><div class="content"><ul class="submenu_list"><li><a href="https://blog.startpage.com" class="addsettings">Blog</a></li><li><a href="http://www.facebook.com/ixquick" class="addsettings">Facebook</a></li><li><a href="http://twitter.com/#!/ixquick" class="addsettings">Twitter</a></li><li><a href="https://plus.google.com/116971032219110493575" class="addsettings">Google+</a></li><li><a href="/eng/spread-the-word.html" class="addsettings">Spread the word</a></li></ul></div></li><li><a class="head" href="/eng/what-makes-ixquick-special.html" onclick="return false;">ABOUT US</a><div class="content"><ul class="submenu_list"><li><a href="/eng/what-makes-ixquick-special.html" class="addsettings">How we're different</a></li><li><a href="/eng/company-background.html" class="addsettings">Our history</a></li><li><a href="/eng/company-management-bio.html" class="addsettings">Our people</a></li><li><a href="/eng/company.html" class="addsettings">Company</a></li><li><a href="/press/" class="addsettings">Press center</a></li></ul></div></li></ul></div><br><br><br><br><br><br>
     </div></div>
 	<div class="main_right">
     <div id="borderLR">&nbsp;</div>
@@ -601,7 +675,7 @@ function verifyChecked (form_obj) {
             </tr>
         </tbody>
     </table></h3><div class="pad_t30"><h2>IP Addresses</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">The IP address that is associated with your search will NOT be recorded.</span><br>The only exception is for “abusive” (automated) queriers that rapidly submit many queries to Ixquick in a very short time.</h3><br><br><h2>Data Collection</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">We don't collect any personal information on our visitors. Nada. Zilch. Zero.</span><br>When you use Ixquick, we do not record your IP address, we do not record which browser you are using (Internet Explorer, Safari, Firefox, Chrome etc.), we do not record your computer platform (Windows, Mac, Linux, etc.), and we do not record your search words or phrases. In fact, the only information we do record is an aggregate total of how many searches are performed on our website each day (a measure of overall traffic), and those overall traffic numbers broken down by language, and statistics on a purely aggregate level.<br><br><br><div class="pri_data" style="background:url('/graphics/img_privacy_policy_s.jpg') no-repeat right;width:100%;*width:728px;height:108px;"><div class="div1">Zero data collection policy.</div><div class="div2">IP</div><div class="div3">BROWSER</div><div class="div4">OS</div><div class="div5">SEARCHES</div></div><br><br>This zero data collection policy protects your privacy, since your IP address, browser, and platform information can be combined with other data to <a class="blue_link" href="https://panopticlick.eff.org" target="_blank">uniquely identify</a> your computer, your location, or you. It is also important not to record search terms, since they can convey personal information as well. (Think of someone entering their own name and/or social security number.)</h3><h2 class="pad_t30">Cookies</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">Ixquick does not use identifying cookies.</span><br><div class="pri_preferences"><div class="pre_cont">Preferences</div></div>Cookies are small pieces of data that are sent and saved to your computer's hard drive when visiting sites. Ixquick uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after 90 days.<br><br>You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Ixquick.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only.<br><br>You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.<br><br>To promote a cookie-free internet, Ixquick has a <a class="blue_link" href="/eng/urlgenerator-details.html" target="_blank" onclick="window.open('/eng/urlgenerator-details.html','','directories=no,location=no,scrollbars=yes,status=no,toolbar=no,menubar=no,height=500,width=1003'); return false;">URL generator</a> which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the <a class="blue_link" href="/do/preferences.pl?language=english" target="_blank">SETTINGS</a> page.</h3><h2 class="pad_t30">External Links</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">Ixquick offers a proxy function that allows the users to see the information on external sites without disclosing their IP address to these sites.</span><br>As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which Ixquick has no control, and who are not covered by this privacy policy. Ixquick is not liable or responsible for the content of these sites, or their collection of information and its use. Please note that this privacy policy applies only to the Ixquick.com website. Ixquick offers a proxy function that allows the users to see the information on external sites without disclosing their IP address to these sites.  Further information on this great privacy tool can be found <a class="blue_link" href="/proxy/eng/help.html" target="blank">here</a>. </h3><h2 class="pad_t30">Email addresses</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">
-                          Ixquick will not sell or disclose your contact information to any third parties.</span><br>When you send comments, questions, suggestions, or feedback to Ixquick via email, and include an email address and/or contact information Ixquick may use this information to respond to you. Ixquick will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding Ixquick company information. This service is opt-in and includes the option to unsubscribe.</h3><h2 class="pad_t30">Children Under 13 Years of Age</h2><h3 class="cont"><span style="display:inline-block;" class="txt_green txt_i mar_b10">Note that we do not collect any personal data at all.</span><br>As a consequence Ixquick does not knowingly request, collect, or share personally identifiable information from users under the age of 13 either. We feel protecting children's privacy online is very important.</h3><h2 class="pad_t30">Information Sharing</h2><h3 class="cont"><span style="display:inline-block;" class="txt_green txt_i mar_b10">Ixquick has no personal information to share.</span><br>Ixquick does not share personal information with any third party search engine or the provider of its sponsored results. Click <a class="blue_link" href="/eng/information-sharing.html" target="_blank" onclick="window.open('/eng/information-sharing.html','','scrollbars=auto,width=500,height=400,toolbars=0,resizable=yes');return false;">here</a> for details.</h3><h2 class="pad_t30">Governmental requests</h2><h3 class="cont">Ixquick is headquartered in The Netherlands, Europe. Any request or demand from any government (including the US) to deliver user data, will be thoroughly checked by our lawyers, and we will not comply unless the law which actually applies to us would undeniably require it from us. And even in that hypothetical situation, we would refer to the fact we have no personal user data to share. In the fourteen years we've been in business, we have never received such a request.<br><br>The only legitimate way that we see to make us start collecting personal information, is if there is a valid warrant or court order, obliging us to do so in relation to a specific user because that person is suspected to have committed a crime which is serious enough to warrant such a restriction of privacy.</h3><h2 class="pad_t30">Your privacy, our future</h2><h3 class="cont">We strongly believe that we have the legal right to safeguard the privacy of our users by encrypting and not collecting their personal information, and to keep doing so.<br><br>Given the strong protection of the right to privacy in Europe, European governments cannot just start forcing service providers like us to implement a blanket spying program on their users. If that ever changed, we would fight this to the end.</h3><br><br style="clear:both;"></div></div><div class="quote_txt txt_center">Privacy<br>It's not just our Policy - it's our Mission!</div><br><br><h2>Operator</h2><h3 class="cont">Ixquick.com is owned and operated by Surfboard Holding BV, Postbus 1079,  3700 BB Zeist The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. <br>(<img src="/graphics/startpage_robert_email_black.gif">)</h3></div></div><div id="toPopup"><div class="close"></div><div id="popup_content"><div id="sm-video" style="position: relative; display: block; width: 639px; height: 360px;">Jwplayer Loading<div style="display: none;" id="sm-video_aspect"></div><div id="sm-video_jwpsrv" style="position: absolute; top: 0px; z-index: 10;"></div></div></div></div>
+                         Ixquick will not sell or disclose your contact information to any third parties.</span><br>When you send comments, questions, suggestions, or feedback to Ixquick via email or through our support center, and include an email address and/or contact information, Ixquick may use this information to respond to you. By submitting feedback you also allow us to detect which browser and operating system you are using, information that will exclusively be used for helping to better understand and solve any reported issues better. We will store your browser and operating system information for a maximum of 30 days and then delete it.   Ixquick will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding Ixquick company information. This service is opt-in and includes the option to unsubscribe.</h3><h2 class="pad_t30">Children Under 13 Years of Age</h2><h3 class="cont"><span style="display:inline-block;" class="txt_green txt_i mar_b10">Note that we do not collect any personal data at all.</span><br>As a consequence Ixquick does not knowingly request, collect, or share personally identifiable information from users under the age of 13 either. We feel protecting children's privacy online is very important.</h3><h2 class="pad_t30">Information Sharing</h2><h3 class="cont"><span style="display:inline-block;" class="txt_green txt_i mar_b10">Ixquick has no personal information to share.</span><br>Ixquick does not share personal information with any third party search engine or the provider of its sponsored results. Click <a class="blue_link" href="/eng/information-sharing.html" target="_blank" onclick="window.open('/eng/information-sharing.html','','scrollbars=auto,width=500,height=400,toolbars=0,resizable=yes');return false;">here</a> for details.</h3><h2 class="pad_t30">Governmental requests</h2><h3 class="cont">Ixquick is headquartered in The Netherlands, Europe. Any request or demand from any government (including the US) to deliver user data, will be thoroughly checked by our lawyers, and we will not comply unless the law which actually applies to us would undeniably require it from us. And even in that hypothetical situation, we would refer to the fact we have no personal user data to share. In the fourteen years we've been in business, we have never received such a request.<br><br>The only legitimate way that we see to make us start collecting personal information, is if there is a valid warrant or court order, obliging us to do so in relation to a specific user because that person is suspected to have committed a crime which is serious enough to warrant such a restriction of privacy.</h3><h2 class="pad_t30">Your privacy, our future</h2><h3 class="cont">We strongly believe that we have the legal right to safeguard the privacy of our users by encrypting and not collecting their personal information, and to keep doing so.<br><br>Given the strong protection of the right to privacy in Europe, European governments cannot just start forcing service providers like us to implement a blanket spying program on their users. If that ever changed, we would fight this to the end.</h3><br><br style="clear:both;"></div></div><div class="quote_txt txt_center">Privacy<br>It's not just our Policy - it's our Mission!</div><br><br><h2>Operator</h2><h3 class="cont">Ixquick.com is owned and operated by Surfboard Holding BV, Postbus 1079,  3700 BB Zeist The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. <br>(<img src="/graphics/startpage_robert_email_black.gif">)</h3></div></div><div id="toPopup"><div class="close"></div><div id="popup_content"><div id="sm-video" style="position: relative; display: block; width: 639px; height: 360px;">Jwplayer Loading<div style="display: none;" id="sm-video_aspect"></div><div id="sm-video_jwpsrv" style="position: absolute; top: 0px; z-index: 10;"></div></div></div></div>
     </div></div>
     <div class="clear"></div>
     <!-- /div -->
@@ -609,11 +683,44 @@ function verifyChecked (form_obj) {
      
     <br style="clear:both;">
 <div class="footer">
+<script>
+function dis(idname){
+setTimeout(function(){
+document.getElementById(idname).style.display = 'none';
+    },3000);
+}
+function myFunction(iname){
+document.getElementById(iname).style.display = 'block';
+$('.tooltipme').remove();
+dis(iname);
+}
+</script>
+
 <table align="center" cellpadding="0" cellspacing="0" border="0" style="padding-top:20px;margin-top:20px;margin-right:auto;margin-left:auto;">
-<tbody><tr><td id="twitter_iframe" align="center"><a href="#" onclick="updateTwitter(); return false;"><img src="/graphics/icon_twitter.png" alt="Twitter" border="0" width="67" height="20"></a></td>
-<td id="fb_iframe_footer" align="center"><a href="#" onclick="updateFacebook(); return false;"><img src="/graphics/icon_fb.png" alt="Facebook" border="0" width="67" height="20"></a></td>
-</tr>
-</tbody></table><br><span class="footer_copy">© 2014 Ixquick</span></div>
+<tbody><tr>
+<td id="twitter_iframe" align="right" style="width:200px;text-align:right"><a href="javascript:void(0)" onmouseover="$('<div class=tw_tooltipme style=margin-top:-32px;margin-left:-150px/>' ).html('Ixquick uses a <u> unique 2-step process</u> to prevent Twitter from spying on you.').prependTo('#twitter_iframe');return false;" onmouseout="$('.tw_tooltipme').remove()" onclick="updateTwitter(); myFunction(&quot;ovalthought2&quot;); return false;">
+<img src="/graphics/icon_twitter.png" alt="Twitter" border="0" width="67" height="20">
+</a>
+</td>
+<td>
+<blockquote id="ovalthought2" class="oval-thought" style="display:none; position:absolute; margin: -79px 0 0 -262px">
+<p></p><span style="position:absolute;z-index:100;width:200px; text-align:center;vertical-align:middle;margin:13px 10px 20px;display:inline-block">Ixquick uses a <a class="blue_link" href="/index.php?/Knowledgebase/Article/View/1169/0/does-ixquickcom-use-the-facebook-and-twitter-social-widgets" target="_blank"><u>unique 2-step process</u></a> to prevent Twitter from spying on you.</span>
+<p></p>
+</blockquote>
+</td>
+
+    <td id="fb_iframe_footer" align="left" style="width:200px"><a href="javascript:void(0)" onmouseover="$('<div class=tooltipme/>').html('Ixquick uses a <u> unique 2-step process</u> to prevent Facebook from spying on you.').prependTo('#fb_iframe_footer');return false;" onmouseout="$('.tooltipme').remove()" onclick="updateFacebook(); myFunction(&quot;ovalthought&quot;); return false;"><img src="/graphics/icon_like_fb.png" alt="Facebook" border="0" width="67" height="20"></a>
+</td>
+<td>
+<blockquote id="ovalthought" class="oval-thought" style="display:none; position:absolute; margin: -79px 0 0 -212px">
+<p></p>
+<span style="position:absolute;z-index:100;width:200px; text-align:center;vertical-align:middle;margin:13px 10px 20px;display:inline-block">Ixquick uses a <a class="blue_link" href="/index.php?/Knowledgebase/Article/View/1169/0/does-ixquickcom-use-the-facebook-and-twitter-social-widgets" target="_blank"><u>unique 2-step process</u></a> to prevent Facebook from spying on you.</span>
+<p></p>
+</blockquote>
+</td>
+</tr></tbody></table>
+<br>
+<span class="footer_copy">© 2014 Ixquick</span> 
 <script type="text/javascript" src="/js/jquery.autocomplete.js"></script>
 
 <script type="text/javascript" src="/js/jquery.hammer.min.js"></script>
@@ -621,7 +728,7 @@ function verifyChecked (form_obj) {
 <script language="javascript" type="text/javascript">
 
   function updateFacebook() {
-     document.getElementById('fb_iframe_footer').innerHTML = '<iframe src="//www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fixquick&amp;width=450&amp;height=80&amp;colorscheme=light&amp;layout=standard&amp;show_faces=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:25px;" allowTransparency="true"></iframe>';
+     document.getElementById('fb_iframe_footer').innerHTML = '<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fixquick&amp;width=86&amp;height=80&amp;colorscheme=light&amp;layout=button_count&amp;show_faces=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:25px;width:86px;" allowTransparency="true"></iframe>';
   }
   function updateTwitter() {
      document.getElementById('twitter_iframe').innerHTML = '<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=ixquick&lang=en"  style="width:265px; height:20px;"></iframe>';
@@ -729,4 +836,4 @@ function verifyChecked (form_obj) {
     <script type="text/javascript" charset="utf-8"> $(function() { $('body').hide().show(); });</script>
     
     
-</body></html>
+</div></body></html>
