@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the absolutvision.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629032602id_/http%3A//www.absolutvision.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutvision.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231150728id_/http%3A//www.absolutvision.com/privacy.policy.php) for the most accurate reproduction.*
 
-# AbsolutVision Royalty Free Stock Photo Gallery
-
-### [Privacy policy](https://web.archive.org/web/20140629032602id_/http%3A//www.absolutvision.com/privacy_policy.php)
-
-* * *
+# AbsolutVision Stock Photo Gallery
 
 The following forms are provided without warranty of any kind, express or implied, and the author and publisher specifically disclaim any and all such warranties, including but not limited to the implied warranties of merchantability and fitness for a particular purpose, where permissible, and any and all liability arising directly or indirectly from any use whatsoever of the form agreement. As with any form, these forms cannot appropriately be applied to a specific transaction without first being substantively revised; therefore, it should not be used as a replacement for professional legal, tax, financial, and technical advice in any transaction.
 
@@ -37,13 +33,16 @@ Our Web site provides users the opportunity to opt-out of receiving communicatio
 
 #### CHANGE IN CONTROL
 
-If we experience a ''change in control'' (defined below), we may amend our information practices as described in this privacy statement. We will post on our Web site's home page a notice or a link to a notice which will describe how we will amend our privacy statement. If you do not agree to our amended privacy statement, you may contact us as described in this privacy statement and we will allow you to opt out of the proposed amendments to our privacy statement with respect to the information that we have previously collected from you. ''Change in control'' means any of the following events:  
-\- we undergo a reorganization, merger, consolidation, acquisition or other restructuring involving all or substantially all of our voting securities and/or assets, by operation of law or otherwise;  
-\- we become insolvent;  
-\- we make a general assignment for the benefit of creditors;  
-\- we suffer or permit an appointment of a receiver for our business or assets;  
-\- we becomes subject to any proceedings under any bankruptcy or insolvency law, whether domestic or foreign; or  
-\- we are liquidated, voluntarily or otherwise.
+If we experience a ''change in control'' (defined below), we may amend our information practices as described in this privacy statement. We will post on our Web site's home page a notice or a link to a notice which will describe how we will amend our privacy statement. If you do not agree to our amended privacy statement, you may contact us as described in this privacy statement and we will allow you to opt out of the proposed amendments to our privacy statement with respect to the information that we have previously collected from you. ''Change in control'' means any of the following events: 
+
+  * we undergo a reorganization, merger, consolidation, acquisition or other restructuring involving all or substantially all of our voting securities and/or assets, by operation of law or otherwise;
+  * we become insolvent;
+  * we make a general assignment for the benefit of creditors;
+  * we suffer or permit an appointment of a receiver for our business or assets;
+  * we becomes subject to any proceedings under any bankruptcy or insolvency law, whether domestic or foreign;
+  * we are liquidated, voluntarily or otherwise.
+
+
 
 #### CONTACTING THE WEB SITE
 
