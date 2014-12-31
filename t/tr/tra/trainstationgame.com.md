@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainstationgame.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326103516id_/https%3A//portal.pixelfederation.com/privacy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainstationgame.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231103132id_/http%3A//www.trainstationgame.com/privacy-en.html) for the most accurate reproduction.*
 
 # PIXELFEDERATION EULA
 
