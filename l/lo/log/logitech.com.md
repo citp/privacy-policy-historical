@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logitech.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025106id_/http%3A//www.logitech.com/en-us/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logitech.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231165404id_/http%3A//www.logitech.com/en-us/footer/privacy) for the most accurate reproduction.*
 
 # YOUR PRIVACY & SECURITY
 
@@ -10,7 +10,8 @@ COLLECTION OF INFORMATION
 HOW WE USE YOUR INFORMATION   
 CONTROL & REVIEW OF YOUR PERSONAL INFORMATION  
 PROTECTION OF INFORMATION  
-CHANGES TO THIS STATEMENT
+CHANGES TO THIS STATEMENT  
+COOKIES
 
   
 
@@ -119,5 +120,9 @@ Logitech encourages you to periodically review this Statement to be informed of 
 Thank you for your interest in Logitech and our products.
 
 Revised October 15, 2013
+
+[](https://web.archive.org/en-us/promotions/cookie-compliance)
+
+#### Cookies
 
 Our site uses "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive. Click [here](https://web.archive.org/en-us/promotions/cookie-compliance) to learn more.
