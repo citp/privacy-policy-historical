@@ -1,1356 +1,123 @@
-<!--The following is the downloaded HTML source of the r29.com privacy policy that was archived on 2013-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510212943id_/http%3A//www.refinery29.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the r29.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231022040id_/http%3A//www.refinery29.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" class="no-js"><head>
-          
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head><script type="text/javascript" async="" src="https://d1gp8joe0evc8s.cloudfront.net/horizon/v1.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgYFV15ACwAHUFhbDw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
     
-    
-          <!-- Optimizely beacon -->
-      <script type="text/javascript" async="" src="https://assets.pinterest.com/js/pinit.js"></script><script src="//d15qhc0lu1ghnk.cloudfront.net/beacon.js" async=""></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/28f434ced31b13b1e72933456b631d3ed1aa6cd3.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script src="//cdn.optimizely.com/js/159817189.js"></script>
-      <!-- /Optimizely beacon -->
-    
-    
-          <!-- KISSMetrics -->
-<script type="text/javascript">
-  var _kmq = _kmq || [];  
-  var _kmk = _kmk || '28f434ced31b13b1e72933456b631d3ed1aa6cd3';
+  
+  <script type="text/javascript">var _dc_ts = _sf_startpt = (new Date()).getTime();</script>
 
-  function _kms(u){
-    setTimeout(function(){
-      var d = document, f = d.getElementsByTagName('script')[0],
-      s = d.createElement('script');
-      s.type = 'text/javascript'; s.async = true; s.src = u;
-      f.parentNode.insertBefore(s, f);
-    }, 1);
+    
+
+  <title itemprop="name">R29's Privacy Policy - Your Information Is Protected on Refinery29</title>
+
+  
+
+  <!-- Meta -->
+  
+  <meta name="description" content="We take your privacy extremely seriously. Here we describes how we treat and use the information we collect when you use Refinery29 or sign-up for our newsletters." itemprop="description"> 
+  <meta property="og:type" content="website">
+
+
+  <meta property="fb:app_id" content="155023867867753">
+  <meta property="article:publisher" content="https://www.facebook.com/refinery29">
+  <meta name="twitter:site" content="@refinery29">
+  <link href="https://plus.google.com/101601649207969071719" rel="publisher">
+
+  <meta name="application-name" content="Refinery29">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="http://s1.r29static.com/blog/lyzncu/images/misc/r29_circle_144.png">
+
+    <!--CSS-->
+  <link rel="stylesheet" href="http://s2.r29static.com/blog/h5zepy/assets/css/refinery29.css">
+  
+
+  <!--Rich Pins on pinterest-->
+  <link rel="rich-pin-icon" href="http://s2.r29static.com/blog/4dbw7m/assets/images/retina_favicon_144.ico">
+  <!--head JS-->
+      
+  
+
+  <script src="http://s2.r29static.com/blog/4oo95m/assets/js/lib/modernizr.js"></script>
+  
+  
+  
+  <!--[if lte IE 8]>
+  <script src="http://s3.r29static.com/blog/9pgxi4/assets/js/lib/respond.js"></script>
+  <script type="text/javascript">
+    var ie8browser = true;
+  </script>
+  <![endif]-->
+
+  <!--[if lte IE 7]>
+  <script src="http://s3.r29static.com/blog/bmd4rl/assets/js/lib/lte-ie7.js"></script>
+  <![endif]-->
+
+  <script type="text/javascript">
+  // a few settings that tell us what we're working with
+  if( typeof environment === 'undefined' )
+  {
+    var environment = { };
   }
-  _kms('//i.kissmetrics.com/i.js');
-  _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
-</script>
-<script type="text/javascript">
-      
-  
-  (function(){
-  
-    var sailthru_cookie = document.cookie.match(/sailthru_hid=([^;]+)/);
-    
-    if (!!sailthru_cookie) {
-      _kmq.push(['set', { 'sailthru_hid': sailthru_cookie[1]}]);
-    }
-  })();
-</script>
-<!-- /KISSMetrics -->
-    
-    
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-    <script type="text/javascript">var _dc_tile = 1;var _dc_ts=_sf_startpt=(new Date()).getTime();WRInitTime=(new Date()).getTime();</script>
-    <link rel="stylesheet" href="http://static3.refinery29.com/blog/2e9db0/css/compiled/style.css" media="print, screen">
-    <link rel="alternate" type="application/rss+xml" title="Refinery29" href="http://www.refinery29.com/index.xml">
+  environment.entry_id = "";
+  environment.collection_id = "";
+  environment.hub_id = "";
+  environment.gaTracker = 'UA-315022-1';
+  environment.categoryPath = '';
+  environment.topCategoryId = 1 ;
+  environment.enableOptimizely = true;
+  environment.overlays = [{"trigger_type":"entry","frequency":"30","type":"aggr_email","op":"exclusion","sources":["yahoo","visualrevenue"],"categories":[],"exclude_hubs":[],"exclude_collections":[],"exclude_entries":[]},{"trigger_type":"entry","frequency":"30","type":"email","op":"exclusion","sources":["yahoo","bookvibe.com","bookvibe","visualrevenue"],"categories":[],"exclude_hubs":[],"exclude_collections":[],"exclude_entries":["59420","59519"],"background_img":"\/\/s2.r29static.com\/bin\/public\/4fb\/x,80\/1287407\/image.jpg"},{"trigger_type":"entry","frequency":"30","type":"email-loyal","op":"exclusion","sources":["visualrevenue","yahoo"],"categories":[],"exclude_hubs":[],"exclude_collections":[],"exclude_entries":[]},{"trigger_type":"entry","frequency":"30","type":"facebook","op":"exclusion","sources":["yahoo","facebook","bookvibe","bookvibe.com"],"categories":[],"exclude_hubs":[],"exclude_collections":[],"exclude_entries":["59420","59519"]},{"trigger_type":"second article","frequency":"30","type":"facebook-loyal","op":"inclusion","sources":[],"categories":[],"exclude_hubs":["6"],"exclude_collections":[],"exclude_entries":["59420","23323"]},{"trigger_type":"second article","frequency":"30","type":"facebook-beauty","op":"exclusion","sources":["yahoo"],"categories":[],"exclude_hubs":[],"exclude_collections":[],"exclude_entries":["59420","59519"]},{"trigger_type":"second article","frequency":"30","type":"facebook-fashion","op":"inclusion","sources":["outbrain","taboola"],"categories":[],"exclude_hubs":[],"exclude_collections":[],"exclude_entries":["59420","59519"]}];
 
-  	<!--[if lt IE 9]>
-  		<link rel="stylesheet" type="text/css" href="http://static2.refinery29.com/blog/2e9db0/css/compiled/ie.css" />
-      <script src="http://static3.refinery29.com/blog/2e9db0/js/html5.js"></script>
-    <![endif]-->
-      <script type="text/javascript" src="http://static2.refinery29.com/blog/2e9db0/require/compiled/main.js"></script>
+  environment.facebookAppID = '155023867867753';
 
-
-          <script type="text/javascript" src="http://static3.refinery29.com/blog/2e9db0/js/socket.io/socket.io.js"></script>
-    
-
-    <title itemprop="name">R29's Privacy Policy - Your Information Is Protected on Refinery29</title>
-
-    <!-- Meta -->
-    
-      <meta name="description" content="We take your privacy extremely seriously. Here we describes how we treat and use the information we collect when you use Refinery29 or sign-up for our newsletters." itemprop="description"> 
-
-
-
-        
-
-    <meta property="fb:app_id" content="155023867867753">
-    <meta property="og:type" content="website">
-    <meta name="twitter:site" content="@refinery29">
-    <link href="https://plus.google.com/101601649207969071719" rel="publisher">
-
-
-    <meta name="application-name" content="Refinery29">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="http://static3.refinery29.com/blog/2e9db0/images/misc/r29_circle_144.png">
-
-  <script type="text/javascript" async="" src="http://disqus.com/forums/refinery/count.js?q=1&amp;0=2,http%3A%2F%2Fwww.refinery29.com%2Fsummer-body&amp;1=2,http%3A%2F%2Fwww.refinery29.com%2Fwardrobe-essentials&amp;2=2,http%3A%2F%2Fwww.refinery29.com%2Fbright-makeup&amp;3=2,http%3A%2F%2Fwww.refinery29.com%2Fspring-colors&amp;4=2,http%3A%2F%2Fwww.refinery29.com%2Fcheap-decorating-ideas"></script></head>
-
-
-
-  <body class="index">
-    <div id="container">
-			        
-
-<header id="main" class="">
+  environment.is_preview = false;
   
 
-  <nav>
-  
-          <div class="container ad-frame-wrap">
-          <!-- Ad -->
-        <div class="ad-frame">
-      
-            	
-      
-      
-              
-<div class="ad ad-728x90" iframe-code="http://ad.doubleclick.net/adi/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=1;dcopt=ist;sz=728x90, 970x66;" iframe-size="728x90, 970x66">
-  <script type="text/javascript">document.write(unescape("%3Cscript src='http://ad.doubleclick.net/adj/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=1;dcopt=ist;sz=728x90, 970x66;ord="+_dc_ts+"?'%3E%3C/script%3E"));</script><script src="http://ad.doubleclick.net/adj/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=1;dcopt=ist;sz=728x90, 970x66;ord=1580519186297?"></script>
-  <noscript><a href="http://ad.doubleclick.net/jump/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=1;dcopt=ist;sz=728x90, 970x66;ord=12345678?" target="_blank"><img src="http://ad.doubleclick.net/ad/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=1;dcopt=ist;sz=728x90, 970x66;ord=12345678?" border="0" alt=""/></a></noscript>
-</div>
-      
-    </div>
-  
+  environment.page_type = 'static';
 
-      </div>
-    
-    
-    <div class="container">
-      
-        <h1><a href="http://www.refinery29.com">Refinery29</a></h1>
-      
-      
-              
-      
-      
-      <ul class="features">
-        <li><a href="http://www.refinery29.com" class="read">Read</a></li>
-          <li><div>&nbsp;</div></li>
-        <li><a href="http://www.refinery29.com/video" class="watch">Watch</a></li>
-          <li><div>&nbsp;</div></li>
-        <li><a href="http://www.refinery29.com/shops/?from=header" class="shop">Shop</a></li> 
-
-      </ul>
-      
-      <ul class="user">
-                  <li class="user-login"><a href="https://welcome.refinery29.com/login" class="user-login r29-login">Login</a></li>
-          <li class="user-login"><a href="https://welcome.refinery29.com/register" class="user-login r29-register">Register</a></li>
-          <li class="shopping"><a href="https://www.refinery29.com/shops/checkout/cart/">0</a></li>
-        
-        <li class="search">
-          <a href="javascript:void(0);" class="trigger">Search</a>
-          <div id="search" class="display_none">
-            <div class="search" id="search-box">
-  <form method="get" action="/search">
-    <input type="text" name="q" value="" placeholder="Search" data-placeholder="Search" autocomplete="off">
-    
-    
-  </form>
-  <div class="flap"></div>
-</div>
-
-          </div>
-        </li>
-        
-      </ul>
-      
-      <div class="clear"></div>
-      
-    </div>      
-  </nav>
-  
-  
-    <ul class="categories">
-      <div class="container">
-    
-        <li class="cities" data-cat="cities">
-          <a href="javascript:void(0);">Cities</a>
-          <ul class="display_none" data-cat="cities">
-                          <li>
-                <a href="http://www.refinery29.com/new-york">New York</a>
-              </li>
-                          <li>
-                <a href="http://www.refinery29.com/los-angeles">Los Angeles</a>
-              </li>
-                          <li>
-                <a href="http://www.refinery29.com/san-francisco">San Francisco</a>
-              </li>
-                          <li>
-                <a href="http://www.refinery29.com/london">London</a>
-              </li>
-                          <li>
-                <a href="http://www.refinery29.com/chicago">Chicago</a>
-              </li>
-                          <li>
-                <a href="http://www.refinery29.com/washington-dc">Washington, D.C.</a>
-              </li>
-            
-          </ul>
-        </li>
-              
-                  <li class="global" data-cat="fashion">
-              <a href="http://www.refinery29.com/fashion"><span>Fashion</span></a>
-          </li>
-                  <li class="global" data-cat="beauty">
-              <a href="http://www.refinery29.com/beauty"><span>Beauty</span></a>
-          </li>
-                  <li class="global" data-cat="living">
-              <a href="http://www.refinery29.com/living"><span>Living</span></a>
-          </li>
-                  <li class="global" data-cat="entertainment">
-              <a href="http://www.refinery29.com/entertainment"><span>Entertainment</span></a>
-          </li>
-                  <li class="global" data-cat="how-to">
-              <a href="http://www.refinery29.com/how-to"><span>How To</span></a>
-          </li>
-                  <li class="global" data-cat="news">
-              <a href="http://www.refinery29.com/news"><span>News</span></a>
-          </li>
-        
-      </div>
-    </ul> 
-      
-    <div class="container">
-      <div class="subcat-content">
-
-                  <div class="display_none" data-cat="fashion">
-                          <ul class="subcats">
-                                  <li data-subcat="shopping">
-                    <a href="http://www.refinery29.com/fashion/shopping">
-                      Shopping
-                    </a>
-                  </li>
-                                  <li data-subcat="designers">
-                    <a href="http://www.refinery29.com/fashion/designers">
-                      Designers
-                    </a>
-                  </li>
-                                  <li data-subcat="street-style">
-                    <a href="http://www.refinery29.com/fashion/street-style">
-                      Street Style
-                    </a>
-                  </li>
-                                  <li data-subcat="stores">
-                    <a href="http://www.refinery29.com/fashion/stores">
-                      Stores
-                    </a>
-                  </li>
-                                  <li data-subcat="trends">
-                    <a href="http://www.refinery29.com/fashion/trends">
-                      Trends
-                    </a>
-                  </li>
-                                  <li data-subcat="college">
-                    <a href="http://www.refinery29.com/fashion/college">
-                      College
-                    </a>
-                  </li>
-                                  <li data-subcat="mens">
-                    <a href="http://www.refinery29.com/fashion/mens">
-                      Men's
-                    </a>
-                  </li>
-                                  <li data-subcat="events">
-                    <a href="http://www.refinery29.com/fashion/events">
-                      Events
-                    </a>
-                  </li>
-                
-                
-                
-                                  <li data-subcat="mystylist">
-                    <a href="http://www.refinery29.com/mystylist">
-                      My Stylist
-                    </a>
-                  </li>
-                
-              </ul>
-              
-              <ul class="popular-trending">
-                <img src="http://static1.refinery29.com/blog/2e9db0/static/images/menu-loader-24.gif" class="loading">
-              </ul>
-
-            
-          </div>
-                  <div class="display_none" data-cat="beauty">
-                          <ul class="subcats">
-                                  <li data-subcat="hair">
-                    <a href="http://www.refinery29.com/beauty/hair">
-                      Hair
-                    </a>
-                  </li>
-                                  <li data-subcat="nails">
-                    <a href="http://www.refinery29.com/beauty/nails">
-                      Nails
-                    </a>
-                  </li>
-                                  <li data-subcat="makeup">
-                    <a href="http://www.refinery29.com/beauty/makeup">
-                      Makeup
-                    </a>
-                  </li>
-                                  <li data-subcat="skin-care">
-                    <a href="http://www.refinery29.com/beauty/skin-care">
-                      Skin Care
-                    </a>
-                  </li>
-                                  <li data-subcat="wellness">
-                    <a href="http://www.refinery29.com/beauty/wellness">
-                      Wellness
-                    </a>
-                  </li>
-                                  <li data-subcat="fitness">
-                    <a href="http://www.refinery29.com/beauty/fitness">
-                      Fitness
-                    </a>
-                  </li>
-                
-                
-                                  <li data-subcat="beauty-nation">
-                    <a href="http://www.refinery29.com/beauty-nation">
-                      Beauty Nation
-                    </a>
-                  </li>
-                
-                
-              </ul>
-              
-              <ul class="popular-trending">
-                <img src="http://static1.refinery29.com/blog/2e9db0/static/images/menu-loader-24.gif" class="loading">
-              </ul>
-
-            
-          </div>
-                  <div class="display_none" data-cat="living">
-                          <ul class="subcats">
-                                  <li data-subcat="home">
-                    <a href="http://www.refinery29.com/living/home">
-                      Home
-                    </a>
-                  </li>
-                                  <li data-subcat="entertaining">
-                    <a href="http://www.refinery29.com/living/entertaining">
-                      Entertaining
-                    </a>
-                  </li>
-                                  <li data-subcat="food-and-drink">
-                    <a href="http://www.refinery29.com/living/food-and-drink">
-                      Food And Drink
-                    </a>
-                  </li>
-                                  <li data-subcat="travel">
-                    <a href="http://www.refinery29.com/living/travel">
-                      Travel
-                    </a>
-                  </li>
-                                  <li data-subcat="gadgets">
-                    <a href="http://www.refinery29.com/living/gadgets">
-                      Gadgets
-                    </a>
-                  </li>
-                
-                
-                
-                
-              </ul>
-              
-              <ul class="popular-trending">
-                <img src="http://static1.refinery29.com/blog/2e9db0/static/images/menu-loader-24.gif" class="loading">
-              </ul>
-
-            
-          </div>
-                  <div class="display_none" data-cat="entertainment">
-                          <ul class="subcats">
-                                  <li data-subcat="music">
-                    <a href="http://www.refinery29.com/entertainment/music">
-                      Music
-                    </a>
-                  </li>
-                                  <li data-subcat="humor">
-                    <a href="http://www.refinery29.com/entertainment/humor">
-                      Humor
-                    </a>
-                  </li>
-                                  <li data-subcat="art">
-                    <a href="http://www.refinery29.com/entertainment/art">
-                      Art
-                    </a>
-                  </li>
-                                  <li data-subcat="celebrities">
-                    <a href="http://www.refinery29.com/entertainment/celebrities">
-                      Celebrities
-                    </a>
-                  </li>
-                                  <li data-subcat="influencers">
-                    <a href="http://www.refinery29.com/entertainment/influencers">
-                      Influencers
-                    </a>
-                  </li>
-                
-                
-                
-                
-              </ul>
-              
-              <ul class="popular-trending">
-                <img src="http://static1.refinery29.com/blog/2e9db0/static/images/menu-loader-24.gif" class="loading">
-              </ul>
-
-            
-          </div>
-                  <div class="display_none" data-cat="how-to">
-                          <ul class="subcats">
-                                  <li data-subcat="i-diy">
-                    <a href="http://www.refinery29.com/how-to/i-diy">
-                      I Diy
-                    </a>
-                  </li>
-                                  <li data-subcat="styling-tips">
-                    <a href="http://www.refinery29.com/how-to/styling-tips">
-                      Styling Tips
-                    </a>
-                  </li>
-                                  <li data-subcat="what-to-wear">
-                    <a href="http://www.refinery29.com/how-to/what-to-wear">
-                      What To Wear
-                    </a>
-                  </li>
-                
-                
-                
-                
-              </ul>
-              
-              <ul class="popular-trending">
-                <img src="http://static1.refinery29.com/blog/2e9db0/static/images/menu-loader-24.gif" class="loading">
-              </ul>
-
-            
-          </div>
-                  <div class="display_none" data-cat="news">
-                          <ul class="subcats">
-                                  <li data-subcat="fashion">
-                    <a href="http://www.refinery29.com/news/fashion">
-                      Fashion
-                    </a>
-                  </li>
-                                  <li data-subcat="beauty">
-                    <a href="http://www.refinery29.com/news/beauty">
-                      Beauty
-                    </a>
-                  </li>
-                                  <li data-subcat="celebrities">
-                    <a href="http://www.refinery29.com/news/celebrities">
-                      Celebrities
-                    </a>
-                  </li>
-                
-                
-                
-                
-              </ul>
-              
-              <ul class="popular-trending">
-                <img src="http://static1.refinery29.com/blog/2e9db0/static/images/menu-loader-24.gif" class="loading">
-              </ul>
-
-            
-          </div>
-        
-        
-
-      </div> 
-      
-    </div> 
-
-    
-    
-    
-              <div class="container">
-          
-          
-          
-                          <ul class="trending root">
-                <li>Trending</li>
-                
-                
-                
-                
-                
-                                  <li data-category="Header" data-click="Trending" data-label="Array">
-                      
-                      <a href="http://www.refinery29.com/superfoods">Surprising Superfoods</a>
-                  </li>
-                                  <li data-category="Header" data-click="Trending" data-label="http://www.refinery29.com/superfoods">
-                      
-                      <a href="http://www.refinery29.com/2013/05/46383/baz-luhrmann-great-gatsby-review">Gatsby! </a>
-                  </li>
-                                  <li data-category="Header" data-click="Trending" data-label="http://www.refinery29.com/2013/05/46383/baz-luhrmann-great-gatsby-review">
-                      
-                      <a href="http://www.refinery29.com/mothers-day-gifts">Mother's Day</a>
-                  </li>
-                                  <li data-category="Header" data-click="Trending" data-label="http://www.refinery29.com/mothers-day-gifts">
-                      
-                      <a href="http://www.refinery29.com/floral-print">Spring Florals</a>
-                  </li>
-                
-    
-              </ul>
-            
-          
-          <div class="clear"></div>
-        </div>
-       
-      
-     
-
-   
-  
-  
-    
-</header>
-
-			
-
-      <!-- Background Skinz -->
-      <div id="skin"></div>
-
-      <div class="inner">
-
-				
-  				
-
-				
-
-        <div id="content" class="body-content ">
-
-          					<!-- LEFT -->
-					<div class="col_2">
-						
-
-  <div class="static">
-    <h2>Privacy Policy</h2>
-    <p>Refinery29 takes privacy extremely seriously. This Privacy Policy describes how we treat and use the information we collect when you use Refinery29.com or sign-up for our newsletters.</p>
-
-    <h3>Personal Information</h3>
-    <p>In order to supply you with Refinery29’s daily emails, we need your email address. Refinery29 doesn't collect any information except that expressly provided by you. We will not disclose your personal information to any third party without your consent, except as required to provide you with Refinery29 material. Refinery29 will never sell, rent, or share your personal information, including your email to any third parties for marketing purposes without your explicit consent.</p>
-
-    <h3>Other Information</h3>
-    <p>Refinery29 may also request additional information such as age, buying preferences, annual income, or other demographic or profile information. We use this information to better tailor our content and improve the experience on our site. We may also share this information with third parties, such as advertisers, but only in aggregate, anonymous form. No third party will receive information from us that personally identifies you or anyone else in any way.</p>
-
-    <h3>Usage Information</h3>
-    <p>In addition to collecting other personal and non-personal information, Refinery29 may gather other information on how our site is used. This information is not personally identifiable and will be used to determine how our website is being used. Examples of such information is: How much time do users spend on our site? What pages do they view? What sites did they come from? What sites do they go to? All of this information is collected to help us create a better, faster, more efficient website and provide you with better content.</p>
-
-    <h3>Review and Access</h3>
-    <p>Upon request, Refinery29 will provide you with a summary of the information we've collected about you, and the opportunity to correct, update or modify this information.</p>
-
-    <h3>How to Opt Out</h3>
-    <p>You can unsubscribe from receiving Refinery29 emails at any time. You can unsubscribe by clicking on the "Unsubscribe" link in the footer of any Refinery29 email and following the instructions.</p>
-
-    <h3>Third-Party Advertising</h3>
-    <p>The ads appearing on this Web site are delivered to you by Adjuggler, our Web advertising partner. View Adjuggler's privacy policy at <script type="text/javascript">
-<!--
-document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,104,116,116,112,58,47,47,119,119,119,46,97,100,106,117,103,103,108,101,114,46,99,111,109,47,112,114,105,118,97,99,121,45,112,111,108,105,99,121,46,112,104,112,34,32,62,104,116,116,112,58,47,47,119,119,119,46,97,100,106,117,103,103,108,101,114,46,99,111,109,47,112,114,105,118,97,99,121,45,112,111,108,105,99,121,46,112,104,112,60,47,97,62));
--->
-</script><a href="mailto:http://www.adjuggler.com/privacy-policy.php">http://www.adjuggler.com/privacy-policy.php</a> Occasionally, you'll get an email marked "Dedicated Email" in the subject line and in the email header. These emails are not necessarily reflective of the opinions of our editorial staff. They are content paid for by our sponsors (allies), and allow us to provide you with the FREE content you love.</p>
-
-    <h3>Tracking</h3>
-    <p>Like most other websites in the universe, Refinery29 might place or recognize cookies, small text files, on your browser in order to help us retrieve information vital to providing the best possible service. Our cookies allow us to recognize you and simplify your user experience. Refinery29 will never use cookies to obtain any information from your computer not related to our site.</p>
-
-    <h3>Third Party Cookies</h3>
-    <p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.</p>
-    
-    <h3>Links to Other Sites</h3>
-    <p>As a curator of the best possible information, Refinery29 often links out to other sites. We are not responsible for any content that appears on these sites, nor do we endorse them. For questions about these sites, please consult their individual privacy policies.</p>
-
-    <h3>Security</h3>
-    All of the information described above is recorded restricted database servers.<p></p>
-
-    <h3>Modifications</h3>
-    <p>Refinery29 may make changes to this policy at any point. If and when we do, we'll be sure to inform you here so be sure to check back often if you are interested.</p>
-
-    <h3>Contact Us</h3>
-    <p>If you have questions about this policy, or about the site, please <a href="http://www.refinery29.com/about.php#contact">contact us</a> or you could also review our <a href="http://www.refinery29.com/about.php">About page</a>.</p>
-  </div>
-
-					</div>
-
-          <div class="col beta sidebar">
-            <!-- RIGHT -->
-            
-              <!-- CACHE e2fb2 - ttl: 600 -->
-                        				  <!-- Signup -->
-<div class="widget referred smooth subscription" unless="email">
-   
-     
-  
-  
-  <a href="/signup/everywhere?source=sitearrow&amp;medium=organic" class="signup everywhere" alt="Sign Up Now!" data-click="Sign Up Now! Sidebar CTA"></a>
-
-
-</div>
-
-                
-
-      				  
-  
-
+  environment.ad_vars = {
+    category_path:        '',
+    adminid:              '',
+    pageid:               '',
+    sponsor:              '',
+    disable_dcopt:        'ist',
+    pagetype:             'static',
+    zone1:                'home',
+    zone2:                'index',
+    tags:                 '',
+    test:                 '',
+    site_name:            'r29.oao',
+    is_sensitive_content: 'false'
+  }
 
   
 
-
+      environment.relatedStoriesEnable = true;
+    environment.relatedStoriesWeight = 50;
   
 
+  environment.use_maki = false;
+  
 
-<div class="social-networks">
-  <div class="main-header"></div>
-
-  <div class="social-plugins">
-    <ul class="icons">
-      <li class="fb-icon"></li>
-      <li class="pi-icon"></li>
-      <li class="tw-icon"></li>
-      <li class="in-icon"></li>
-    </ul>
-
-    <ul class="expansions">
-      <li id="facebook-expanded">
-        <div class="arrow-down"></div>
-        <div class="social-header"><p>Find us on Facebook</p></div>
-        <div class="social-content">
-          <div data-ref="SocialWidgetFB" data-category="Social Acquisition" data-click="Facebook" data-label="Social Widget Button">
-            <fb:like-box href="http://www.facebook.com/refinery29" width="298" height="190" show_faces="true" border_color="white" stream="false" header="false" ref="SocialWidgetFB"></fb:like-box>
-          </div>
-        </div>
-      </li>
-
-      <li id="pinterest-expanded">
-        <div class="arrow-down"></div>
-        <div class="social-header"><p>Find us on Pinterest</p></div>
-        <div class="social-content">
-          <div class="logo"></div>
-          <p class="right">A flood of visual inspiration -- straight from our feed to yours.</p>
-          <div class="clear"></div>
-          <div class="right">
-            <a href="http://pinterest.com/refinery29/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social Acquisition', 'Pinterest', 'Social Widget Button', null, true]);">
-              <img src="http://passets-lt.pinterest.com/images/about/buttons/pinterest-button.png" width="80" height="28" alt="Follow Me on Pinterest">
-            </a>
-          </div>
-          <p class="small left">Follow our profile: <a href="http://www.pinterest.com/refinery29" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social Acquisition', 'Pinterest', 'Social Widget Profile Link', null, true]);">pinterest.com/refinery29</a></p>
-        </div>
-      </li>
-
-      <li id="twitter-expanded">
-        <div class="arrow-down"></div>
-        <div class="social-header"><p>Find us on Twitter</p></div>
-        <div class="social-content">
-          <div class="logo"></div>
-          <p id="latest-tweet" class="right">Follow our profile: <a href="http://www.twitter.com/refinery29" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social Acquisition', 'Twitter', 'Social Widget Button', null, true]);">twitter.com/refinery29</a></p>
-          <div class="clear"></div>
-          <span id="tweet-timestamp" class="left"></span>
-         	<div class="right" data-category="Social Acquisition" data-click="Twitter" data-label="Social Widget Button">
-            <a href="https://twitter.com/refinery29" class="twitter-follow-button" data-show-count="false" data-lang="en" data-size="large" data-show-screen-name="false">Follow @refinery29</a>
-          </div>
-        </div>
-        <div class="clear"></div>
-      </li>
-
-      <li id="instagram-expanded">
-        <div class="arrow-down"></div>
-        <div class="social-header"><p>Find us on Instagram</p></div>
-        <div class="social-content">
-          <ul id="instagram-images">
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ul>
-          <p class="small">Follow our profile: <a href="http://www.instagram.com/refinery29" target="_blank" onclick="_gaq.push(['_trackEvent', 'User Click Tracking', 'Social Networks Widget', 'Instagram - Text', null, true]);">instagram.com/refinery29</a></p>
-        </div>
-      </li>
-    </ul>
-  </div>
-</div>
-
-<script type="text/javascript">
-  require(['r29', 'api', 'domReady!'], function(R29) {
-    // TWITTER
-
-    // Using our API endpoint with cached tweet
-    R29.api._get('/twitter', { account:'refinery29', count: 1, include_rts: 1 }, function(d) {
-      if (!d.result) {
-        return;
-      }
-
-      var tweet = d.result[0];
-
-      var text  = tweet.text;
-
-      
-        text = text.replace(
-          /((https?\:\/\/)|(www\.))(\S+)(\w{2,4})(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/gi,
-          function(url){
-              var full_url = url;
-              if (!full_url.match('^https?:\/\/')) {
-                  full_url = 'http://' + full_url;
-              }
-              return '<a target="_blank" href="' + full_url + '">' + url + '</a>';
-          }
-        );
-      
-
-      $("#latest-tweet").html(text);
-      $("#tweet-timestamp").html((new Date(tweet.created_at)).ago());
-    });
-
-    // Change height of all social-content divs to match the greatest one.
-    $('ul.expansions').css({ 'overflow' : 'hidden', 'height' : '0' });
-    $('#twitter-expanded').show();
-
-    var social_height = 10 + $('#twitter-expanded .social-content').height(); // to account for the "follow" button that didn't load yet
-    $('.social-content').css('height', social_height);
-    $('#twitter-expanded').hide();
-    $('ul.expansions').removeAttr('style');
-
-    // INSTAGRAM
-    (function () {
-      
-      var urls = [
-        'http://static1.refinery29.com/blog/2e9db0/images/social-net-widget/instagram-thumb-11.png',
-        'http://static3.refinery29.com/blog/2e9db0/images/social-net-widget/instagram-thumb-12.png',
-        'http://static3.refinery29.com/blog/2e9db0/images/social-net-widget/instagram-thumb-13.png',
-        'http://static1.refinery29.com/blog/2e9db0/images/social-net-widget/instagram-thumb-14.png'
-      ];
-      var i = 0;
-      $("#instagram-images li").each( function() {
-        $(this).html("<a href=\"http://www.instagram.com/refinery29\" target=\"_blank\" onclick=\"_gaq.push(['_trackEvent', 'User Click Tracking', 'Social Networks Widget', 'Instagram - Images', null, true]);\"><img src=\"" + urls[i] + "\"></a>");
-        i++;
-      });
-    })();
-
-    // HOVERS AND EXPANSIONS
-    $('.social-plugins').hover (
-      function () {
-        clearTimeout($(".social-plugins").data('timeoutId'));
-      },
-      function() {
-        var timeoutId = setTimeout(function() {
-          // Remove hovers from all icons.
-          $('.fb-icon').attr('class','fb-icon');
-          $('.in-icon').attr('class','in-icon');
-          $('.tw-icon').attr('class','tw-icon');
-          $('.pi-icon').attr('class','pi-icon');
-          $('ul.expansions').children().hide();
-        }, 200);
-        $(".social-plugins").data('timeoutId', timeoutId);
-      }
-    );
-
-    // Icon hovers and expansions.
-    $('.fb-icon').hover (
-      function () {
-        $('ul.expansions').children().hide();
-        // Hide the other icon hovers.
-        $('.in-icon').attr('class','in-icon');
-        $('.tw-icon').attr('class','tw-icon');
-        $('.pi-icon').attr('class','pi-icon');
-        if (!$('.fb-icon').hasClass('fb-hovered')) $('.fb-icon').toggleClass('fb-hovered');
-        $('#facebook-expanded').show();
-      },
-      function() {
-      }
-    );
-
-    $('.in-icon').hover (
-      function () {
-        $('ul.expansions').children().hide();
-        $('.fb-icon').attr('class','fb-icon');
-        $('.tw-icon').attr('class','tw-icon');
-        $('.pi-icon').attr('class','pi-icon');
-        if (!$('.in-icon').hasClass('in-hovered')) $('.in-icon').toggleClass('in-hovered');
-        $('#instagram-expanded').show();
-      },
-      function() {
-      }
-    );
-
-    $('.tw-icon').hover (
-      function () {
-        $('ul.expansions').children().hide();
-        $('.fb-icon').attr('class','fb-icon');
-        $('.in-icon').attr('class','in-icon');
-        $('.pi-icon').attr('class','pi-icon');
-        if (!$('.tw-icon').hasClass('tw-hovered')) $('.tw-icon').toggleClass('tw-hovered');
-        $('#twitter-expanded').show();
-      },
-      function() {
-      }
-    );
-
-    $('.pi-icon').hover (
-      function () {
-        $('ul.expansions').children().hide();
-        $('.fb-icon').attr('class','fb-icon');
-        $('.in-icon').attr('class','in-icon');
-        $('.tw-icon').attr('class','tw-icon');
-        if (!$('.pi-icon').hasClass('pi-hovered')) $('.pi-icon').toggleClass('pi-hovered');
-        $('#pinterest-expanded').show();
-      },
-      function() {
-      }
-    );
-
-  });
 </script>
 
-      				        				        				    
-<div class="ad ad-sidebar-border" iframe-code="http://ad.doubleclick.net/adi/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=2;dcopt=;sz=300x250,300x600,300x1050;" iframe-size="300x250,300x600,300x1050">
-  <script type="text/javascript">document.write(unescape("%3Cscript src='http://ad.doubleclick.net/adj/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=2;dcopt=;sz=300x250,300x600,300x1050;ord="+_dc_ts+"?'%3E%3C/script%3E"));</script><script src="http://ad.doubleclick.net/adj/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=2;dcopt=;sz=300x250,300x600,300x1050;ord=1580519186297?"></script>
-  <noscript><a href="http://ad.doubleclick.net/jump/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=2;dcopt=;sz=300x250,300x600,300x1050;ord=12345678?" target="_blank"><img src="http://ad.doubleclick.net/ad/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=2;dcopt=;sz=300x250,300x600,300x1050;ord=12345678?" border="0" alt=""/></a></noscript>
-</div>
-      				  
 
-
-                                  <div class="m-o-widget party-girls-2013">
-  <a href="http://www.refinery29.com/it-girls"><h3 class="headline">Month of Party Girls</h3></a>
-      <div>
-      
-      <a href="/sandflower"><img src="http://static3.refinery29.com/bin/entry/78e/280x335/1031318/10sandflower-017-r2.jpg" alt="10sandflower_017_R2" title="Sandflower Dishes On Late-Night Style And How To Rock A Fanny Pack" width="280" height="335"></a>
-    </div>
-    <a class="button" href="/sandflower">Check it out</a>
-  
-        
-</div>
-                
-
-
-
-                
-
-              <!-- /CACHE e2fb2 - ttl: 600 -->
-
-              
-
-              
-
-
-              <!-- Editor's Picks -->
-              <!-- CACHE c1ba9 - ttl: 600 -->
-<!-- Top 5 Editor's Picks -->
-<div class="top-picks"> 
-    <div class="editors"></div> 
-    <ul class="editors">
-                
-        <li>
-            <a href="/theory" class="title">
-                <span><img src="http://static1.refinery29.com/bin/entry/93c/60x70/1032343/opener2.jpg" alt="opener2" title="Style HQ: Inside Theory's Slick NYC Offices" width="60" height="70"></span>
-                Style HQ: Inside Theory's Slick NYC Offices
-            </a>
-            <span data-category="Facebook Right Rail Widgets" data-click="Like: Editors Pick" data-ref="sidebar-editor-1">
-                <fb:like layout="button_count" href="http://www.refinery29.com/theory" width="90" ref="sidebar-editor-1"></fb:like>
-            </span>
-        </li>
-                
-        <li>
-            <a href="/fashion-secrets" class="title">
-                <span><img src="http://static2.refinery29.com/bin/entry/a5a/60x70/1022166/fashionissuesopener1.jpg" alt="FashionIssuesOpener1" title="We Talk 8 Taboo Topics In Fashion" width="60" height="70"></span>
-                We Talk 8 Taboo Topics In Fashion
-            </a>
-            <span data-category="Facebook Right Rail Widgets" data-click="Like: Editors Pick" data-ref="sidebar-editor-2">
-                <fb:like layout="button_count" href="http://www.refinery29.com/fashion-secrets" width="90" ref="sidebar-editor-2"></fb:like>
-            </span>
-        </li>
-                
-        <li>
-            <a href="/stylish-office-accessories" class="title">
-                <span><img src="http://static1.refinery29.com/bin/public/e26/60x70/1019966/opener-1.jpg" alt="Opener (1)" title="Cheap Challenge: $50 Desk Makeovers!" width="60" height="70"></span>
-                Cheap Challenge: $50 Desk Makeovers!
-            </a>
-            <span data-category="Facebook Right Rail Widgets" data-click="Like: Editors Pick" data-ref="sidebar-editor-3">
-                <fb:like layout="button_count" href="http://www.refinery29.com/stylish-office-accessories" width="90" ref="sidebar-editor-3"></fb:like>
-            </span>
-        </li>
-                
-        <li>
-            <a href="/wedding-tips" class="title">
-                <span><img src="http://static2.refinery29.com/bin/entry/c1c/60x70/1019741/opener.jpg" alt="opener" title="Wedding Dos &amp; Don'ts From 22 Real Couples" width="60" height="70"></span>
-                Wedding Dos &amp; Don'ts From 22 Real Couples
-            </a>
-            <span data-category="Facebook Right Rail Widgets" data-click="Like: Editors Pick" data-ref="sidebar-editor-4">
-                <fb:like layout="button_count" href="http://www.refinery29.com/wedding-tips" width="90" ref="sidebar-editor-4"></fb:like>
-            </span>
-        </li>
-                
-        <li>
-            <a href="/history-of-braids" class="title">
-                <span><img src="http://static1.refinery29.com/bin/entry/f77/60x70/1019267/braids-opener.jpg" alt="braids_opener" title="The Wild, Amazing, True History Of Braids" width="60" height="70"></span>
-                The Wild, Amazing, True History Of Braids
-            </a>
-            <span data-category="Facebook Right Rail Widgets" data-click="Like: Editors Pick" data-ref="sidebar-editor-5">
-                <fb:like layout="button_count" href="http://www.refinery29.com/history-of-braids" width="90" ref="sidebar-editor-5"></fb:like>
-            </span>
-        </li>
-        
-    </ul>
-</div>
-<!-- /CACHE c1ba9 - ttl: 600 -->
-
-              <!-- R29 TV -->
-                              <div class="r29tv">
-  <a href="http://www.refinery29.com/video"><img src="http://static3.refinery29.com/blog/2e9db0/images/widgets/r29tv-header.jpg" style="margin: 0pt auto; display: block;" alt="Refinery29 TV"></a>               
-  
-  <div style="display:none"></div>
-  
-  <!--  Videos populated by 
-        Homepage & Index Page Right Rail Playlist in Brightcove Admin
-        Video Player with Horizontal Video List -->
-  
-  <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
-  
-  <object id="myExperience" class="BrightcoveExperience">
-    <param name="bgcolor" value="#FFFFFF">
-    <param name="width" value="300">
-    <param name="height" value="340">
-    <param name="playerID" value="1223625514001">
-    <param name="playerKey" value="AQ~~,AAAAjP0iSQE~,RJXHfxnZT2gNv3dZGdjsA7BIfR73CLPe">
-    <param name="isVid" value="true">
-    <param name="isUI" value="true">
-    <param name="dynamicStreaming" value="true">
-    <param name="wmode" value="transparent">
-  </object>
-  
-  <!-- 
-  This script tag will cause the Brightcove Players defined above it to be created as soon
-  as the line is read by the browser. If you wish to have the player instantiated only after
-  the rest of the HTML is processed and the page load is complete, remove the line.
-  -->
-  <script type="text/javascript">brightcove.createExperiences();</script>
-</div>
-              
-
-              <!-- Series Widget -->
-              
-
-              <!-- Popular -->
-              <!-- Top 5 Popular -->
-<div class="top-picks">
-  <div class="popular">
-          
-<div class="ad ad-top5" iframe-code="http://ad.doubleclick.net/adi/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=6;dcopt=;sz=75x30;" iframe-size="75x30">
-  <script type="text/javascript">document.write(unescape("%3Cscript src='http://ad.doubleclick.net/adj/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=6;dcopt=;sz=75x30;ord="+_dc_ts+"?'%3E%3C/script%3E"));</script><script src="http://ad.doubleclick.net/adj/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=6;dcopt=;sz=75x30;ord=1580519186297?"></script>
-  <noscript><a href="http://ad.doubleclick.net/jump/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=6;dcopt=;sz=75x30;ord=12345678?" target="_blank"><img src="http://ad.doubleclick.net/ad/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=top;tile=6;dcopt=;sz=75x30;ord=12345678?" border="0" alt=""/></a></noscript>
-</div>
+  <script type="text/javascript">
     
-  </div>
-  <ul>
-    <!-- CACHE 39eec - ttl: 600 -->  
-              <li>
-        	<a href="/how-to-save-money" class="title">
-	          <span><img src="http://static3.refinery29.com/bin/entry/ccc/60x70/1012316/savemoney-opener.jpg" alt="SaveMoney_opener" title="The Lazy Girl's Guide To Saving Money" width="60" height="70"></span>
-	          The Lazy Girl's Guide To Saving Money
-          </a>
-          <span data-category="Facebook Right Rail Widgets" data-click="Like: Most Popular" data-ref="sidebar-popular-0">
-            <fb:like layout="button_count" href="http://www.refinery29.com/how-to-save-money" width="90" ref="sidebar-popular-0"></fb:like>
-          </span>
-        </li>
-              <li>
-        	<a href="/2013/03/43862/jessica-chastain-ombre-hair" class="title">
-	          <span><img src="http://static2.refinery29.com/bin/entry/c33/60x70/1013255/jessica-chastain-opener.jpg" alt="jessica-chastain-opener" title="Headscratcher: Why Is Jessica Chastain Channeling Avril Lavigne?" width="60" height="70"></span>
-	          Headscratcher: Why Is Jessica Chastain Channeling Avril Lavigne?
-          </a>
-          <span data-category="Facebook Right Rail Widgets" data-click="Like: Most Popular" data-ref="sidebar-popular-1">
-            <fb:like layout="button_count" href="http://www.refinery29.com/2013/03/43862/jessica-chastain-ombre-hair" width="90" ref="sidebar-popular-1"></fb:like>
-          </span>
-        </li>
-              <li>
-        	<a href="/good-skin" class="title">
-	          <span><img src="http://static3.refinery29.com/bin/public/1c4/60x70/1012904/betterskin-opener-1.jpg" alt="BetterSkin_opener_1" title="Get The Best Skin Of Your Life (And Keep It)" width="60" height="70"></span>
-	          Get The Best Skin Of Your Life (And Keep It)
-          </a>
-          <span data-category="Facebook Right Rail Widgets" data-click="Like: Most Popular" data-ref="sidebar-popular-2">
-            <fb:like layout="button_count" href="http://www.refinery29.com/good-skin" width="90" ref="sidebar-popular-2"></fb:like>
-          </span>
-        </li>
-              <li>
-        	<a href="/2013/03/43839/girls-season-2-episode-8" class="title">
-	          <span><img src="http://static3.refinery29.com/bin/entry/d12/60x70/1013065/girls-season-2-episode-8-op.jpg" alt="girls-season-2-episode-8-op" title="Last Night On Girls: Neurosis, The Number 8, &amp; Yet Another Missed Opportunity For Diversity" width="60" height="70"></span>
-	          Last Night On <em>Girls</em>: Neurosis, The Number 8, &amp; Yet Another Missed Opportunity For Diversity
-          </a>
-          <span data-category="Facebook Right Rail Widgets" data-click="Like: Most Popular" data-ref="sidebar-popular-3">
-            <fb:like layout="button_count" href="http://www.refinery29.com/2013/03/43839/girls-season-2-episode-8" width="90" ref="sidebar-popular-3"></fb:like>
-          </span>
-        </li>
-              <li>
-        	<a href="/kate-imbach" class="title">
-	          <span><img src="http://static1.refinery29.com/bin/public/3b2/60x70/1012763/opener.jpg" alt="opener" title="A Local Tech Babe Shows Off Her Swoon-Worthy Sonoma Abode" width="60" height="70"></span>
-	          A Local Tech Babe Shows Off Her Swoon-Worthy Sonoma Abode
-          </a>
-          <span data-category="Facebook Right Rail Widgets" data-click="Like: Most Popular" data-ref="sidebar-popular-4">
-            <fb:like layout="button_count" href="http://www.refinery29.com/kate-imbach" width="90" ref="sidebar-popular-4"></fb:like>
-          </span>
-        </li>
-      
-    <!-- /CACHE 39eec - ttl: 600 -->
-  </ul>
-</div>
-
-              <!-- CACHE 207f8 - ttl: 600 -->                <!-- Ad Editorial Module -->
-                
-
-                <!-- Street Style Widget -->
-<div class="street-fashion-widget">
-  <a href="/fashion/street-style/" class="header">Street Fashion</a>
-      <a href="/katherine-ross">
-	    <span class="italic">My City, My Style: A Day At The Museum With Katherine Ross </span>
-	    <span class="polaroid">
-	      <img src="http://static1.refinery29.com/bin/public/d80/158x190/1036761/opener.jpg" alt="opener" title="My City, My Style: A Day At The Museum With Katherine Ross" width="158" height="190">
-	    </span>
-    </a>  
-  
-        
-</div>
-              <!-- /CACHE 207f8 - ttl: 600 -->
-              
-                              
-<div class="ad ad-sidebar" iframe-code="http://ad.doubleclick.net/adi/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=middle1;tile=7;dcopt=;sz=300x100;" iframe-size="300x100">
-  <script type="text/javascript">document.write(unescape("%3Cscript src='http://ad.doubleclick.net/adj/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=middle1;tile=7;dcopt=;sz=300x100;ord="+_dc_ts+"?'%3E%3C/script%3E"));</script><script src="http://ad.doubleclick.net/adj/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=middle1;tile=7;dcopt=;sz=300x100;ord=1580519186297?"></script>
-  <noscript><a href="http://ad.doubleclick.net/jump/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=middle1;tile=7;dcopt=;sz=300x100;ord=12345678?" target="_blank"><img src="http://ad.doubleclick.net/ad/r29.oao/home/index;s1=home;s2=index;sponsorship=;pagetype=static;test=;pageid=;tags=;pos=middle1;tile=7;dcopt=;sz=300x100;ord=12345678?" border="0" alt=""/></a></noscript>
-</div>
-              
-
-            
-          </div>
-
-          <div class="clear"></div>
-
-            
-
-            <!-- CACHE 2391e - ttl: 300 -->              
-  <!-- Footer @More Stories -->
-  <div class="footer-boxes">
-    <div class="hot-dimple">More Style At Your Fingertips</div>
-  	<ul>
-      
-      <li>
-        <div>
-          <a href="/festival-tracker" onclick="return R29.tracking.link(this, ['_trackEvent', 'More Style Module', 'Position 1', this.href])">
-          	<img src="http://static1.refinery29.com/blog/2e9db0/images/collections/footer/festival-tracker-2013.jpg" width="120" height="143">
-          	<span class="more_h2 footer_h2">From Coachella To Glastonbury, Here's Your Ultimate Guide To Festival Season</span>
-          </a>
-  				<div>
-  					<a href="/festival-tracker" class="category" onclick="return R29.tracking.link(this, ['_trackEvent', 'More Style Module', 'Category 1', this.href])">Festival Tracker</a>
-  				</div>
-        </div>
-        
-      </li>
-  		  			<li>
-  				<div> 
-    				<a href="/summer-body" onclick="return R29.tracking.link(this, ['_trackEvent', 'More Style Module', 'Position 2', this.href])">
-    					<img src="http://static2.refinery29.com/bin/entry/b86/120x143/1036096/opener1.jpg" alt="Opener1" width="120" height="143">
-    					<span class="more_h2 footer_h2">Spring Clean Your Body —&nbsp;Inside And Out</span>
-    				</a> 
-  					<div>
-  						<!-- Comment Count -->
-<div class="comment-count" itemprop="interactionCount">
-      <a href="/summer-body#disqus_thread" data-url="http://www.refinery29.com/summer-body" class="comments"><span class="comment-count">0</span></a>
-  
-</div>
-
-  						  							<a href="/beauty/fitness" class="category" onclick="return R29.tracking.link(this, ['_trackEvent', 'More Style Module', 'Category 2', this.href])">Fitness</a>
-  						
-  					</div>
-  				</div>
-          
-  			</li> 
-  		
-      			<li>
-  				<div> 
-    				<a href="/wardrobe-essentials" onclick="return R29.tracking.link(this, ['_trackEvent', 'More Style Module', 'Position 3', this.href])">
-    					<img src="http://static2.refinery29.com/bin/entry/cac/120x143/1029552/opener.jpg" alt="Opener" width="120" height="143">
-    					<span class="more_h2 footer_h2">Collect All 30 Spring Wardrobe Essentials</span>
-    				</a> 
-  					<div>
-  						<!-- Comment Count -->
-<div class="comment-count" itemprop="interactionCount">
-      <a href="/wardrobe-essentials#disqus_thread" data-url="http://www.refinery29.com/wardrobe-essentials" class="comments"><span class="comment-count">0</span></a>
-  
-</div>
-
-  						  							<a href="/fashion/shopping" class="category" onclick="return R29.tracking.link(this, ['_trackEvent', 'More Style Module', 'Category 3', this.href])">Shopping</a>
-  						
-  					</div>
-  				</div>
-          
-  			</li> 
-  		
-      			<li>
-  				<div> 
-    				<a href="/bright-makeup" onclick="return R29.tracking.link(this, ['_trackEvent', 'More Style Module', 'Position 4', this.href])">
-    					<img src="http://static2.refinery29.com/bin/entry/dab/120x143/1026215/bright-makeup-opener.jpg" alt="bright-makeup-opener" width="120" height="143">
-    					<span class="more_h2 footer_h2">6 Bright Makeup Looks You Can Actually Wear</span>
-    				</a> 
-  					<div>
-  						<!-- Comment Count -->
-<div class="comment-count" itemprop="interactionCount">
-      <a href="/bright-makeup#disqus_thread" data-url="http://www.refinery29.com/bright-makeup" class="comments"><span class="comment-count">0</span></a>
-  
-</div>
-
-  						  							<a href="/beauty/makeup" class="category" onclick="return R29.tracking.link(this, ['_trackEvent', 'More Style Module', 'Category 4', this.href])">Makeup</a>
-  						
-  					</div>
-  				</div>
-          
-  			</li> 
-  		
-      			<li>
-  				<div> 
-    				<a href="/spring-colors" onclick="return R29.tracking.link(this, ['_trackEvent', 'More Style Module', 'Position 5', this.href])">
-    					<img src="http://static2.refinery29.com/bin/public/097/120x143/1026024/opener-1.jpg" alt="opener-1" width="120" height="143">
-    					<span class="more_h2 footer_h2">8 New Color Trends Better Than Oxblood</span>
-    				</a> 
-  					<div>
-  						<!-- Comment Count -->
-<div class="comment-count" itemprop="interactionCount">
-      <a href="/spring-colors#disqus_thread" data-url="http://www.refinery29.com/spring-colors" class="comments"><span class="comment-count">0</span></a>
-  
-</div>
-
-  						  							<a href="/fashion/trends" class="category" onclick="return R29.tracking.link(this, ['_trackEvent', 'More Style Module', 'Category 5', this.href])">Trends</a>
-  						
-  					</div>
-  				</div>
-          
-  			</li> 
-  		
-      			<li>
-  				<div> 
-    				<a href="/cheap-decorating-ideas" onclick="return R29.tracking.link(this, ['_trackEvent', 'More Style Module', 'Position 6', this.href])">
-    					<img src="http://static3.refinery29.com/bin/public/810/120x143/1024601/opener2.jpg" alt="opener2" width="120" height="143">
-    					<span class="more_h2 footer_h2">11 Creative Ways To Spruce Up Your Casa On The Cheap</span>
-    				</a> 
-  					<div>
-  						<!-- Comment Count -->
-<div class="comment-count" itemprop="interactionCount">
-      <a href="/cheap-decorating-ideas#disqus_thread" data-url="http://www.refinery29.com/cheap-decorating-ideas" class="comments"><span class="comment-count">0</span></a>
-  
-</div>
-
-  						  							<a href="/living/home" class="category" onclick="return R29.tracking.link(this, ['_trackEvent', 'More Style Module', 'Category 6', this.href])">Home</a>
-  						
-  					</div>
-  				</div>
-          
-  			</li> 
-  		
-        
-  	</ul> 
-  </div>
-
-            <!-- /CACHE 2391e - ttl: 300 -->
-
-          
-
-        </div> <!-- /Content -->
-
-      </div> <!-- /Inner -->
-      
-			<!-- Footer -->
-<div id="footer">
-  <div class="footer_wrap">
-    <div class="col_3 first">
-      <dl>
-        <dt>Browse</dt>
-        <dd class="first">
-          <a href="http://www.refinery29.com">Read</a> /
-        </dd>
-        <dd>
-          <a href="http://www.refinery29.com/video">Watch</a> /
-        </dd>
-        <dd>
-          <a href="https://www.refinery29.com/shops">Shop</a>
-        </dd>
-      </dl>
-      <dl>
-        <dt>Refinery29</dt>
-        <dd class="first">
-          <a href="http://www.refinery29.com/corporate">About</a> /
-        </dd>
-        <dd>
-          <a href="http://www.refinery29.com/corporate#/press">News</a> /
-        </dd>
-        <dd>
-          <a href="http://www.refinery29.com/corporate#/advertising">Advertising</a> /
-        </dd>
-        <dd>
-          <a href="mailto:feedback@refinery29.com">Feedback</a> /
-        </dd>
-        <dd>
-          <a class="scream" href="http://www.refinery29.com/corporate#/careers">We're Hiring!</a>
-        </dd>
-      </dl>
-    </div> <!-- end .col_3 -->
-  	  <div class="col_3">
-      <dl>
-        <dt id="shops_header">R29 Shops</dt>
-        <dd class="first">
-          <a href="https://www.refinery29.com/shops/help-me">Help</a> /
-        </dd>
-        <dd>
-          <a href="https://www.refinery29.com/shops/about-r29-shops">About</a>
-        </dd>
-      </dl>
-      <dl>
-        <dt id="labs_header">R29 Labs</dt>
-        <dd class="first">
-          <a href="http://the-rig.refinery29.com">The Rig</a> /
-        </dd>
-        <dd>
-          Pipeline <span class="emphasis">(coming soon)</span>
-        </dd>
-      </dl>
-    </div> <!-- end .col_3 -->
-    <div class="col_3">
-      
-      <h3>Connect with R29</h3>
-      <ul class="footer_social">
-        <li>
-          <a href="https://www.facebook.com/refinery29"><img src="http://static2.refinery29.com/blog/2e9db0/images/footer/fb.png" alt="Facebook"></a>
-        </li>
-        <li>
-          <a href="http://twitter.com/#!/refinery29"><img src="http://static1.refinery29.com/blog/2e9db0/images/footer/twitter.png" alt="Twitter"></a>
-        </li>
-        <li>
-          <a href="http://pinterest.com/refinery29/"><img src="http://static2.refinery29.com/blog/2e9db0/images/footer/pinterest.png" alt="Pinterest"></a>
-        </li>
-        <li>
-          <a href="http://web.stagram.com/n/refinery29/"><img src="http://static1.refinery29.com/blog/2e9db0/images/footer/insta.png" alt="Instagram"></a>
-        </li>
-        <li>
-          <a href="http://www.refinery29.com/index.xml"><img src="http://static1.refinery29.com/blog/2e9db0/images/footer/rss.png" alt="RSS"></a>
-        </li>
-        <li>
-          <a href="http://open.spotify.com/user/refinery29/playlist/1Zl7ytzACYt1xVq7UmzJYU"><img src="http://static3.refinery29.com/blog/2e9db0/images/footer/spotify.png" alt="Spotify"></a>
-        </li>
-      </ul>
-    </div> <!-- end .col_3 -->
-  	<div id="mobile-link"><a href="/?mobile=true">Refinery29 Mobile</a></div>
-  </div> <!-- end .footer_wrap -->
-  <div class="thick_divide">&nbsp;</div>
-  <div class="footer_wrap">
-  	<a href="javascript:void(0);" id="footer_feedback">Feedback</a>
-  	<p id="footer_copyright">©2013 Refinery29</p>
-    <ul class="global_links">
-      <li>
-        <a id="r29_home" href="http://www.refinery29.com">R29</a>
-      </li>
-      <li>
-        <a href="http://www.refinery29.com/terms-and-conditions">Terms</a>
-      </li>
-      <li>
-        <a href="http://www.refinery29.com/privacy">Privacy</a>
-      </li>
-      <li>
-        <p>Made with <img class="zelda" src="http://static2.refinery29.com/blog/2e9db0/images/footer/zelda_heart.png" alt="love"> in NYC</p>
-      </li>
-    </ul>
-  </div> <!-- end .footer_wrap -->
-  <!-- To make sure these fonts load! -->
-  <div class="font-loader">
-    <span class="proximanovaregular">A</span>
-    <span class="proximanovabold">B</span>
-    <span class="opensansbold">C</span>
-    <span class="opensansitalic">D</span>
-    <span class="opensanslight">E</span>
-    <span class="opensansregular">F</span>
-    <span class="opensanssemibold">G</span>
-    <span class="opensanssemibolditalic">H</span>
-    <span class="raleway">I</span>
-  </div>
-</div> <!-- end #footer -->
-
-			
-		  
-			
-    </div> <!-- /Container -->
-
-    
-
-  <!-- Google Analytics -->
-<script type="text/javascript">
-  require(['r29', 'domReady!'], function (R29) {
-    R29.tracking.outbound();
-  });
-
-  var _gaq = _gaq || [];
-
-  // break up host into app, subdomain and tld
-  var tmp = /^([^\.]+\.)([\w\.]+)?(refinery29|rf29)\.(\w+)(:\d+)?$/.exec(window.location.host.toLowerCase()),
-    
-      // application
-      app = tmp[1] ? tmp[1] : 'www',
-      
-      // subdomain
-      sub = tmp[2] ? tmp[2] : '',
-      
-      // domain
-      dom = tmp[3] ? tmp[3] : 'refinery29',
-
-      // top level domain
-      tld = tmp[4] ? tmp[4] : 'com';
-  
-  _gaq.push(['_setAccount', 'UA-315022-1']);
-  
-  _gaq.push(['_setDomainName', '.' + dom + '.' + tld]);
-  
-  _gaq.push(['_setCustomVar',
-    1,                   // This custom var is set to slot #1.  Required parameter.
-    'Category',     // The name acts as a kind of category for the user activity.  Required parameter.
-    'refinery29', // This value of the custom variable.  Required parameter.
-    3                    // Sets the scope to page-level.  Optional parameter.
-  ]);
-   
+  </script>
 
   
-  _gaq.push(['_setCustomVar', //USE THIS  R29.cookie.get('R29_UID');
-    5,                   // This custom var is set to slot #5.  Required parameter.
-    'Log-in Status',     // The name acts as a kind of category for the user activity.  Required parameter.
-    'Not Logged In', // This value of the custom variable.  Required parameter.
-    2                    // Sets the scope to page-level.  Optional parameter.
-  ]);
-
-
-
-
-
-  // Adding back in data-click tracking -JS, 6.26.12
-  // Content > Events in Google Analytics
-  $('[data-click]').live('click', function() {
-    if ($(this).attr('data-click') == "Pinterest Article Images") {
-      
-    }
-    else {
-      _gaq.push(['_trackEvent',
-        ($(this).attr('data-category') !== undefined) ? $(this).attr('data-category') : 'User Click Tracking', // Category (required)
-        $(this).attr('data-click'), // Action (required)
-        ($(this).attr('data-label') !== undefined)    ? $(this).attr('data-label')    : 'refinery29', // Label (optional); Default: current category
-        null, // Value (optional, integer) - empty
-        true // Non-interaction (optional, boolean) - event hit will not be used in bounce-rate calculation
-      ]);
-    }
-    if ($(this).attr('data-track-secondary')){
-      tracking_vars = $(this).attr('data-track-secondary').split(',');
-      _gaq.push(['_trackEvent', tracking_vars[0], tracking_vars[1], tracking_vars[2]]);
-    }
-  });
   
-  _gaq.push(['_trackPageview']);
-   
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<!-- /Google Analytics -->
+  <script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+  
+<script type="text/javascript" language="JavaScript">
+  var cb = new Date().getTime();
+  var asiPqTag = false;
+  try { 
+  document.write("<sc" + "ript type='text/javascript' language='JavaScript' src='//pq-direct.revsci.net/pql?placementIdList=nqx5kz,d5WRLd,XvaTUT&cb=" + cb + "'></sc" + "ript>");  
+  } catch(err) { }
+</script><script type="text/javascript" language="JavaScript" src="//pq-direct.revsci.net/pql?placementIdList=nqx5kz,d5WRLd,XvaTUT&amp;cb=1580519191941"></script>
 
-
-
-<!-- Comscore -->
+            <!-- Comscore -->
 <script type="text/javascript">
   var r29cookie = document.cookie;
   var val;
@@ -1374,442 +141,71 @@ document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108
       document.cookie = 'r29comstore=' + val + '; expires=' + date.toGMTString() + '; path=/';
   }
   
-  var currentUrl = self.location.url;
-  document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+  var currentUrl = self.location.href;
 
-</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
-<script type="text/javascript"> 
-  COMSCORE.beacon({ c1:2, c2:"7395029",c3:"www.refinery29.com", c4:currentUrl, c5:"", c6:"", c15: val });
+  var _comscore = _comscore || [];
+  _comscore.push({ c1:2, c2:"7395029",c3:"www.refinery29.com", c4:currentUrl, c5:"", c6:"", c15: val });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el);
+  })();
 </script>
 <noscript>
   <img src = "http://b.scorecardresearch.com/p?c1=2&amp;c2=7395029&amp;c3=www.refinery29.com&amp;c4=http://www.refinery29.com/&amp;c5=&amp;c6=&amp;c15=C67BD3C1&amp;cj=1" alt="Comscore" />
 </noscript>
 <!-- /Comscore -->
-<!-- Quantcast -->
-<script type="text/javascript">
-_qoptions={ qacct:"p-fesXMHo90Ka_A" };
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-  <img src="http://pixel.quantserve.com/pixel/p-fesXMHo90Ka_A.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- /Quantcast -->
-<!-- START Parse.ly Include: Standard -->
-<div id="parsely-root" style="display: none">
-  <a id="parsely-cfg" data-parsely-site="refinery29.com" href="http://parsely.com" style="display:none;">Powered by the Parse.ly Publisher Platform (P3).</a>
-<script id="parsely-script" async="" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script></div>
-<script>
-(function(s, p, d) {
-  var h=d.location.protocol, i=p+"-"+s,
-      e=d.getElementById(i), r=d.getElementById(p+"-root"),
-      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
-      :"static."+p+".com";
-  if (e) return;
-  e = d.createElement(s); e.id = i; e.async = true;
-  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
-})("script", "parsely", document);
-</script>
-<!-- END Parse.ly Include: Standard -->
-
-<!-- Start of Woopra Code -->
-<script type="text/javascript">
-function woopraReady(tracker) {
-  tracker.setDomain('refinery29.com');
-  tracker.setIdleTimeout(300000);
-  tracker.trackPageview({ type:'pageview',url:window.location.pathname+window.location.search,title:document.title});
-  return false;
-}
-(function() {
-  var wsc = document.createElement('script');
-  wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
-  wsc.type = 'text/javascript';
-  wsc.async = true;
-  var ssc = document.getElementsByTagName('script')[0];
-  ssc.parentNode.insertBefore(wsc, ssc);
-})();
-</script>
-<!-- End of Woopra Code -->
-<script type="text/javascript">
-  var _errs=["50cf5eded4e7c6d6270000f0"];(function(a,b){ a.onerror=function(){ _errs.push(arguments)};
-  var d=function(){ var a=b.createElement("script"),c=b.getElementsByTagName("script")[0];
-  a.src="//d15qhc0lu1ghnk.cloudfront.net/beacon.js";a.async=!0;
-  c.parentNode.insertBefore(a,c)};a.addEventListener?a.addEventListener("load",d,!1):
-  a.attachEvent("onload",d)})(window,document);
-</script>
-    <div id="js-cont"></div>
-
-<!-- Facebook -->
-<div id="fb-root"></div> 
+      <!-- Google Analytics -->
 <script type="text/javascript">
 
-  window.fbAsyncInit = function() {
-    require(['r29', 'domReady!'], function (R29) {
+  var _gaq = _gaq || [];
 
-      FB.init({ appId: '155023867867753', status: true, cookie: true, xfbml: false});
-      
-      /* Check if the user is NOT logged into R29, but IS logged into Facebook.  Fix it */
-      if (R29.url.param.getVar('fb') && !R29.user.token() && FB.getSession()) { //We have some sort of session, we *may* be logged in.
-        FB.getLoginStatus(function(response) {
-          if(response.status == 'connected') {
-            return document.location = 'https://welcome.refinery29.com/connect/facebook?from=http%3A%2F%2Fwww.refinery29.com%2Fprivacy%3Flogin%3D1&amp;sig=0572b&amp;app=blog&amp;fb=1';
-          }    
-        });      
-      }
-          
-      //FACEBOOK LOGIN
-      $('a.fb_button').live('click', function() {
-        R29.FBLoginPopup();
-        return false;
-      });
-      
-      if (typeof window.fbAsyncOnInit == "function") {
-        window.fbAsyncOnInit();
-      }
-      if (typeof window.fangate_close == "function") {
-        window.fangate_close();
-      }
-      
-      /* GOOGLE ANALYTICS */
-      FB.Event.subscribe('edge.create', function(targetUrl, fb_ref) {
-      	if (fb_ref._attr.ref == "homepage"){
-      		_gaq.push(['_trackEvent', 'FacebookIndex', 'like']);
-      	}
-      	
-      	else if (fb_ref._attr.ref && $("'[data-ref='" + fb_ref._attr.ref + "']")) {
-          if (fb_ref._attr.ref == $("'[data-ref='" + fb_ref._attr.ref + "']").attr('data-ref')) {
-            $("'[data-ref='" + fb_ref._attr.ref + "']").click();
-          }
-      	}
-      	else if ($(fb_ref.dom).prop('tagName') == "FB:LIKE-BOX" && ("'[data-ref='" +  $(fb_ref.dom).attr('ref') + "']")) {
-          if ($(fb_ref.dom).attr('ref') == $("'[data-ref='" + $(fb_ref.dom).attr('ref') + "']").attr('data-ref')) {
-            $("'[data-ref='" + $(fb_ref.dom).attr('ref') + "']").click();
-          }
-      	}
-        _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
-      });
-      
-      FB.Event.subscribe('edge.remove', function(targetUrl) {
-        _gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);
-      });
-      
-      FB.Event.subscribe('message.send', function(targetUrl) {
-        _gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);
-      });
+  // break up host into app, subdomain and tld
+  var tmp = /^([^\.]+\.)([\w\.]+)?(refinery29|rf29)\.(\w+)(:\d+)?$/.exec(window.location.host.toLowerCase()),
     
-    });
-  };
-  require(['r29'], function (R29) {
-    R29.FBLoginPopup = function () {
-      FB.login(function(response) {
+      // application
+      app = tmp[1] ? tmp[1] : 'www',
       
-        if (response.session) {
-          //They *may* have given us perms, but who knows.
-          return document.location = 'https://welcome.refinery29.com/connect/facebook?from=http%3A%2F%2Fwww.refinery29.com%2Fprivacy%3Flogin%3D1&amp;sig=0572b&amp;app=blog&amp;fb=1';
-        } else {
-          //Oh well, something is wrong, let's try the normal login
-          return document.location = 'https://welcome.refinery29.com/connect/facebook?from=http%3A%2F%2Fwww.refinery29.com%2Fprivacy%3Flogin%3D1&amp;sig=0572b&amp;app=blog&amp;fb=1';
-        }
-        
-       },{ scope: 'email' } );
-    }
-
-  });
-  
-</script>
-
-<script type="text/javascript">
-  //
-  
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-<!-- /Facebook -->
-
-<!-- Twitter -->
-<script type="text/javascript">
-    window.twttr = (function (d,s,id) {
-      var t, js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
-      js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
-      return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
-    }(document, "script", "twitter-wjs"));
-
-
-  //START GOOGLE ANALYTICS TWITTER TRACKING
-  function trackTwitter(intent_event) {
-    if (intent_event) {
-      var opt_pagePath;
-      if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
-            opt_target = extractParamFromUri(intent_event.target.src, 'url');
-      }
-      _gaq.push(['_trackSocial', 'twitter', 'tweet', opt_pagePath]);
+      // subdomain
+      sub = tmp[2] ? tmp[2] : '',
       
-      if ($(intent_event.target.parentNode).attr('data-click')) {
-        $(intent_event.target.parentNode).click(); // Trigger click event for GA to track.
-      }
-    }
-  }
+      // domain
+      dom = tmp[3] ? tmp[3] : 'refinery29',
 
-  function trackFollow (intent_event) {
-    if (intent_event && $(intent_event.target.parentNode).attr('data-click')) {
-      $(intent_event.target.parentNode).click(); // Trigger click event for GA to track.
-    }
-  }
+      // top level domain
+      tld = tmp[4] ? tmp[4] : 'com';
+  
+  _gaq.push(['_setAccount', 'UA-315022-1']);
+  _gaq.push(['_setDomainName', '.' + dom + '.' + tld]);
 
-  //Wrap event bindings - Wait for async js to load
-  twttr.ready(function (twttr) {
-    //event bindings
-    twttr.events.bind('tweet', trackTwitter);
-    twttr.events.bind('follow', trackFollow);
-  });
+      _gaq.push(['_setCustomVar', 1, 'Category', '', 3]);
+  
+  _gaq.push(['_setCustomVar', 4, 'Entry Type', '', 3]);
+  _gaq.push(['_trackPageview']);
 
-	function extractParamFromUri(uri, paramName) {
-	  if (!uri) {
-	    return;
-	  }
-	  var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
-	  var params = regex.exec(uri);
-	  if (params != null) {
-	    return unescape(params[1]);
-	  }
-	  return;
-	}
-	//END GOOGLE ANALYTICS TWITTER TRACKING
-
-</script>
-<!-- /Twitter -->
-
-<!-- Pinterest -->
-    <script type="text/javascript">
-    // static
   (function() {
-      window.PinIt = window.PinIt || { loaded:false };
-      if (window.PinIt.loaded) return;
-      window.PinIt.loaded = true;
-      function async_load(){
-        var s = document.createElement("script");
-        s.type = "text/javascript";
-        s.async = true;
-        if (window.location.protocol == "https:")
-            s.src = "https://assets.pinterest.com/js/pinit.js";
-        else
-            s.src = "http://assets.pinterest.com/js/pinit.js";
-        var x = document.getElementsByTagName("script")[0];
-        x.parentNode.insertBefore(s, x);
-      }
-      if (window.attachEvent) {
-        window.attachEvent("onload", async_load);
-      }
-      else {
-        window.addEventListener("load", async_load, false);
-        window.addEventListener("hashchange", async_load, false);
-      }
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-  </script>
-  
-<!-- /Pinterest -->
-
-
-<!-- Disqus -->
-
-<script type="text/javascript">
-  var disqus_shortname = 'refinery';
-  
-  
-
-var DISQUSWIDGETS;
-var disqus_domain;
-var disqus_shortname;
-if (typeof DISQUSWIDGETS == "undefined") {
-    DISQUSWIDGETS = (function () {
-        var d = {},
-            a = (document.getElementsByTagName("HEAD")[0] || document.getElementsByTagName("BODY")[0]),
-            c = 0,
-            f = {},
-            e = {
-                identifier: 1,
-                url: 2,
-                slug: 3
-            };
-
-        function b(i) {
-            var h, k;
-
-            function j(l) {
-                return i.hasAttribute ? i.hasAttribute(l) : i.getAttribute(l) !== null
-            }
-
-            if (j("data-disqus-identifier")) {
-                h = e.identifier;
-                k = i.getAttribute("data-disqus-identifier")
-            } else {
-
-                if (j("data-url")) {
-                    h = e.url;
-                    k = i.getAttribute("data-url")
-                } else if (j("data-disqus-slug")) {
-                    h = e.slug;
-                    k = i.getAttribute("data-disqus-slug")
-                } else {
-                    h = e.url;
-                    k = i.href.replace("#disqus_thread", "")
-                }
-
-            }
-            f[c++] = {
-                element: i,
-                type: h,
-                value: k
-            }
-        }
-        function g(k) {
-            var j = document.getElementsByTagName("A");
-            for (var h = 0; h < j.length; h++) {
-                if (j[h].href.indexOf("#disqus_thread") >= 0) {
-                    k(j[h])
-                }
-            }
-        }
-        d.domain = "disqus.com";
-        d.forum = "";
-        d.getCount = function () {
-            var m, h, k, j;
-            var l = [],
-                o = 0,
-                i = 10;
-
-            function n(q, p) {
-                return encodeURIComponent(q) + "=" + encodeURIComponent(p.type) + "," + encodeURIComponent(p.value)
-            }
-            g(b);
-            for (m in f) {
-                if (f.hasOwnProperty(m)) {
-                    l.push(n(m, f[m]))
-                }
-            }
-            k = l.slice(o, i);
-            while (k.length > 0) {
-                j = document.createElement("script");
-                j.type = "text/javascript";
-                j.async = true;
-                j.src = "http://" + d.domain + "/" + "forums/" + d.forum + "/" + "count.js?q=1&" + k.join("&");  // no, googlebot, this url is NOT for you!!
-                a.appendChild(j);
-                o += 10;
-                i += 10;
-                k = l.slice(o, i)
-            }
-        };
-        d.displayCount = function (j) {
-            var m, h, n, l;
-            for (var k = 0; k < j.counts.length; k++) {
-                m = j.counts[k];
-                h = f[m.uid];
-                if (h) {
-                    if (m.comments === 0) {
-                        n = j.text.comments.zero
-                    } else {
-                        if (m.comments == 1) {
-                            n = j.text.comments.one
-                        } else {
-                            n = j.text.comments.multiple
-                        }
-                    }
-                    l = n.replace("{num}", m.comments);
-                    if (j.showReactions) {
-                        n = "";
-                        if (m.reactions === 0) {
-                            n = j.text.reactions.zero
-                        } else {
-                            if (m.reactions == 1) {
-                                n = j.text.reactions.one
-                            } else {
-                                n = j.text.reactions.multiple
-                            }
-                        }
-                        if (n !== "") {
-                            l += " " + j.text.and + " " + n.replace("{num}", m.reactions)
-                        }
-                    }
-                    h.element.innerHTML = l
-                }
-            }
-        };
-        return d
-    }())
-}(function () {
-    if (typeof disqus_domain != "undefined") {
-        DISQUSWIDGETS.domain = disqus_domain
-    }
-    DISQUSWIDGETS.forum = disqus_shortname;
-    DISQUSWIDGETS.getCount()
-}());
-
-
-
 </script>
-<!-- /Disqus -->
+<!-- /Google Analytics -->
 
-<script type="text/javascript">
-
-  require(['r29', 'domReady!'], function (R29) {
-
-	  // Variables
-	  var tabs = $('div.top-five > ul > li');
-	  var top5 = $('div.top-five > div');
-
-	  // On Click
-	  $(tabs).click(function() {
-
-	    $(tabs).removeClass("active");
-	    $(this).addClass("active");
-
-	    $(top5).hide();
-	    var activeTab = $(this).find("a").attr("href");
-	    $(activeTab).show();
-
-	    return false;
-	  });
-
-
-    // Hot Carousel
-    $("#hot-carousel li").show();
-
-    if ($("#hot-carousel .slides").length > 0) {
-      $('#hot-carousel').carousel({ autoplay:true, timer:6, nav:true, endless: true });
-    }
-
-
-    // Hot Category Carousel
-    $("#category-hot-carousel li").show();
-    
-    if ($("#category-hot-carousel .slides").length > 0) {
-      $('#category-hot-carousel').carousel({ autoplay:true, timer:6, nav:true, endless: true });
-    }
-	
-	
-  
-    R29.referrer = new Referrer(document);
-
-	});
-</script>
-
-<!-- Pinterest Hover Buttons -->
-
-
-    <script type="text/javascript">
+      <script type="text/javascript">
     var _sf_async_config={ }; 
     /** CONFIGURATION START **/
     _sf_async_config.uid = 3552;
     _sf_async_config.domain = 'refinery29.com';
     _sf_async_config.sections = "Refinery 29";
     
+    
+    _sf_async_config.zone = 'home' + '/' + 'index';
+    
+    
+
     _sf_async_config.useCanonical = true;
+    
+
     /** CONFIGURATION END **/
     (function(){
       function loadChartbeat() {
@@ -1819,7 +215,7 @@ if (typeof DISQUSWIDGETS == "undefined") {
         e.setAttribute('type', 'text/javascript');
         e.setAttribute('src',
            (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
-           'js/chartbeat.js');
+           'js/chartbeat_pub.js');
         document.body.appendChild(e);
       }
       var oldonload = window.onload;
@@ -1828,31 +224,712 @@ if (typeof DISQUSWIDGETS == "undefined") {
     })();
 </script>
 
-          <!-- Crazy Egg -->
-<script type="text/javascript" src="//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/5055.js"></script>
-<!-- /Crazy Egg -->
     
-    
+  
 
-    <!-- Internal Stats -->
-<script type="text/javascript">
-  require(['r29', 'domReady!'], function (R29) {
-          R29_STAT_DATA = $.extend({ app:'blog' },R29.url.param.getUTM());
-    
+<script async="" type="text/javascript" src="https://apis.google.com/js/platform.js"></script></head>
+<body>
 
-    try {
-      R29.stats.send([['user_page_load',R29_STAT_DATA, ((new Date()).getTime() - _sf_startpt)]]);
-    } catch (e) { };
-  });
+  <div id="message_ie8">
+  <p>Please upgrade your browser for the best Refinery29 experience.  <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank">Read more</a>.</p>
+</div>
+
+     
+  
+
+
+  <div class="is-hidden">
+      <ul role="menu">
+          <li role="menuitem"><a href="#header">Jump to header</a></li>
+          <li role="menuitem"><a href="#nav">Jump to navigation</a></li>
+          <li role="menuitem"><a href="#footer">Jump to footer</a></li>
+      </ul>
+  </div><!--/.is-hidden-->
+
+      <section class="ad-container">
+      <div id="div-id-for-top-728x90" class="ad " data-cb-ad-id="Top Unit" data-ad-size="728x90,970x66,970x90,970x250,980x66,980x90,1240x90,970x250" data-sponsor="" data-pos="top"></div>
+
+
+    </section>
+  
+
+      <header id="main-nav" role="banner">
+  <div class="main-nav-container">
+    <div class="main-nav-book-preorder-upsell">
+      <a href="http://www.stylestalking.r29.com/buy?utm_source=Refinery29Header" target="_blank">
+        <img height="72" width="374" src="http://s3.r29static.com/blog/3pvhj9/assets/images/main-navigation/stylestalkingbook.jpg">
+      </a>
+    </div>
+    <a href="/" class="main-nav-logo">
+      <img src="http://s2.r29static.com/blog/q91dog/assets/images/logos/big_logo.png" width="130" height="84" alt="Refinery29 Logo">
+      
+    </a>
+
+    <div class="main-nav-top">
+
+      <div id="main-nav-user-menu" class="left-ruler"></div>
+<link rel="stylesheet" type="text/css" href="/login/assets/v0.99.11/r29-monorail.min.css">
+
+
+      <ul id="main-nav-social-menu" class="main-nav-social-menu">
+        <li class="main-nav-social-menu-item email right-ruler">
+          <span class="main-nav-social-menu-item-button icon-mailbox"></span>
+          
+          <div class="signup main-nav-email-dropdown right-ruler">
+            <input id="main-nav-email-dropdown-input" type="email" placeholder="Enter Email For Daily Inspiration" message="Please enter your email">
+
+            <button class="main-nav-email-submit button ga-trackable" data-category="Email Acquisition" data-label="Header" data-action="On-site Email Signup">Sign Up</button>
+            
+            <form class="main-nav-email-form" id="social-email">
+              <header class="main-nav-email-dropdown-header">
+                <h3>Choose Your Editions</h3>
+              </header>
+  
+              <section class="main-nav-email-dropdown-newsletter-options">
+                <input type="hidden" name="interest_category" value="fashion">
+                <input type="hidden" name="interest_subcategory" value="">
+                  <ul class="main-nav-email-dropdown-list col-left">
+
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[r29_reserve]" class="main-nav-email-dropdown-list-checkbox" id="email-r29_reserve">
+      <label for="email-reserve" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox"></span>
+        Shopping
+      </label>
+    </div>
+  </li>
+
+
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[main_london]" class="main-nav-email-dropdown-list-checkbox" id="email-main_london">
+      <label for="email-london" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox"></span>
+        London
+      </label>
+    </div>
+  </li>
+
+
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[main_new_york]" class="main-nav-email-dropdown-list-checkbox" id="email-main_new_york">
+      <label for="email-new-york" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox"></span>
+        New York
+      </label>
+    </div>
+  </li>
+
+
+
+</ul>
+<ul class="main-nav-email-dropdown-list col-left">
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[main_everywhere]" class="main-nav-email-dropdown-list-checkbox" id="email-main_everywhere" checked="">
+      <label for="email-everywhere" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox"></span>
+        Everywhere
+      </label>
+    </div>
+  </li>
+
+
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[main_chicago]" class="main-nav-email-dropdown-list-checkbox" id="email-main_chicago">
+      <label for="email-chicago" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox"></span>
+        Chicago
+      </label>
+    </div>
+  </li>
+
+
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[main_los_angeles]" class="main-nav-email-dropdown-list-checkbox" id="email-main_los_angeles">
+      <label for="email-los-angeles" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox"></span>
+        Los Angeles
+      </label>
+    </div>
+  </li>
+
+
+  <li>
+    <div class="main-nav-email-dropdown-list-item">
+      <input type="checkbox" name="email_list[main_san_francisco]" class="main-nav-email-dropdown-list-checkbox" id="email-main_san_francisco">
+      <label for="email-san-francisco" class="main-nav-email-dropdown-list-label">
+        <span class="main-nav-email-dropdown-label-checkbox"></span>
+        San Francisco
+      </label>
+    </div>
+  </li>
+
+
+</ul>
+
+              </section>
+              <div class="main-nav-email-error">
+                <div class="icon-triangle-up"></div>
+                <div class="main-nav-email-error-message">Oops! That's not a real email address.</div>
+              </div>
+            </form>
+          </div>
+          
+          <div class="thanks main-nav-email-dropdown" id="social-email-thanks" hidden="">
+            <header class="main-nav-email-dropdown-header">
+              <span class="icon-close"></span>
+              <h3>Now we're email buddies!</h3>
+            </header>
+            <section class="main-nav-email-message">
+              <p class="main-nav-email-message-text">You have chosen to receive our <strong>#NAMED_LISTS#</strong> newsletters at #EMAIL_ADDRESS#. You will receive an e-mail shortly confirming your subscription. So excited to have you!</p>
+              <p class="main-nav-email-message-text">xoxo, <br> Refinery 29</p> 
+            </section>
+          </div>
+        </li>
+
+        <li class="main-nav-social-menu-item facebook">
+          <span class="main-nav-social-menu-item-button icon-facebook ga-trackable" data-category="Facebook Acquisition" data-action="Main Facebook Page" data-label="Social Widget Button"></span>
+          <div class="main-nav-social-share" id="social-facebook">
+            <div class="fb-like" data-href="http://facebook.com/refinery29" ref="social-widget-button" data-width="450" data-layout="button_count" data-show-faces="false" data-send="false"></div>
+          </div>
+        </li>
+        
+        <li class="main-nav-social-menu-item pinterest">
+          <span class="main-nav-social-menu-item-button icon-pinterest"></span>
+          <div class="main-nav-social-share ga-trackable" id="social-pinterest" data-category="Pinterest Acquisition" data-action="Main Pinterest Page" data-label="Social Widget Button">
+            <a data-pin-do="buttonFollow" href="http://pinterest.com/follow/refinery29/">Refinery29</a>
+          </div>
+        </li>
+      
+        <li class="main-nav-social-menu-item twitter">
+          <span class="main-nav-social-menu-item-button icon-twitter ga-trackable" data-category="Twitter Acquisition" data-action="Main Twitter Handle" data-label="Social Widget Button"></span>
+          <div class="main-nav-social-share" id="social-twitter">
+            <a href="https://twitter.com/refinery29" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @refinery29</a>
+          </div>
+        </li>
+
+        <li class="main-nav-social-menu-item instagram">
+          <span class="main-nav-social-menu-item-button icon-instagram"></span>
+          <div class="main-nav-social-share ga-trackable" id="social-instagram" data-category="Instagram Acquisition" data-action="Main Instagram Page" data-label="Social Widget Button">
+            <a class=" instagram-link icons-instagram-follow" href="http://www.instagram.com/refinery29" target="_blank"></a>
+          </div>
+        </li>
+        
+        <li class="main-nav-social-menu-item tumblr">
+          <span class="main-nav-social-menu-item-button icon-tumblr ga-trackable" data-category="Tumblr Acquisition" data-action="Main Tumblr Page" data-label="Social Widget Button"></span>
+          <div class="main-nav-social-share ga-trackable" id="social-tumblr">
+            <iframe class="btn" frameborder="0" border="0" scrolling="no" allowtransparency="true" height="25" width="116" src="http://platform.tumblr.com/v1/follow_button.html?button_type=2&amp;tumblelog=refinery29&amp;color_scheme=dark"></iframe>
+          </div>
+        </li>
+        
+        <li class="main-nav-social-menu-item youtube">
+          <span class="main-nav-social-menu-item-button icon-youtube ga-trackable" data-category="Youtube Acquisition" data-action="Main Youtube Channel" data-label="Social Widget Button"></span>
+          <div class="main-nav-social-share" id="social-youtube">
+            <div class="g-ytsubscribe" data-channel="Refinery29TV" data-count="hidden"></div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <!-- end of main-nav-top-->
+    
+    <div class="main-nav-bottom">
+      <span class="main-nav-search-button icon-search active"></span>
+      <form class="main-nav-search-form" action="/search" method="get" role="search">
+        <label for="search" class="main-nav-search-label is-hidden">Search</label>
+        <input class="main-nav-search-input" id="main-nav-search-input" type="search" name="q" data-default="90" placeholder="SEARCH"> 
+        <button type="submit" class="main-nav-search-submit">
+          <span class="icon-search"></span><span class="is-hidden">search</span></button>
+        <span class="main-nav-search-close">x</span>
+      </form>
+
+      <nav class="main-nav-menus offset-top-1">
+  <ul class="main-nav-categories">
+        <li class="col-left" data-slug="Fashion">
+            <a href="//www.refinery29.com/fashion" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Fashion">Fashion</a>
+      
+    </li>
+        <li class="col-left" data-slug="Beauty">
+            <a href="//www.refinery29.com/beauty" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Beauty">Beauty</a>
+      
+    </li>
+        <li class="col-left" data-slug="Living">
+            <a href="//www.refinery29.com/living" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Living">Living</a>
+      
+    </li>
+        <li class="col-left" data-slug="Wellness">
+            <a href="//www.refinery29.com/health" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Wellness">Wellness</a>
+      
+    </li>
+        <li class="col-left" data-slug="Entertainment">
+            <a href="//www.refinery29.com/entertainment" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Entertainment">Entertainment</a>
+      
+    </li>
+        <li class="col-left" data-slug="Local">
+            Local
+      
+    </li>
+        <li class="col-left" data-slug="Shopping">
+            <a href="//www.refinery29.com/shops" class="ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Shopping">Shopping</a>
+      
+    </li>
+    
+    <li class="col-left" data-slug="Holiday">
+      <a href="//www.refinery29.com/holiday" class="holiday-nav ga-trackable" data-category="Navigation" data-action="Desktop" data-label="Holiday" sl-processed="1">Holiday</a>
+    </li>
+  </ul>
+  <div class="main-nav-submenus">
+    <aside class="main-nav-submenu main-nav-submenu-group-0" data-parent="Fashion">
+    <ul class="main-nav-submenu-list">
+          <li>
+            <a href="//www.refinery29.com/shopping" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Fashion - Shopping">Shopping</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/styling-tips" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Fashion - Styling Tips">Styling Tips</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/designers" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Fashion - Designers">Designers</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/street-style" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Fashion - Street Style">Street Style</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/trends" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Fashion - Trends">Trends</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/style-stars" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Fashion - Celebs &amp; Influencers">Celebs &amp; Influencers</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/back-to-school" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Fashion - College">College</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/fashion-inspiration" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Fashion - The List">The List</a>
+      
+      </li>
+    
+    </ul>
+  </aside>
+    <aside class="main-nav-submenu main-nav-submenu-group-1" data-parent="Beauty">
+    <ul class="main-nav-submenu-list">
+          <li>
+            <a href="//www.refinery29.com/hair" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Beauty - Hair">Hair</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/nails" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Beauty - Nails">Nails</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/makeup" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Beauty - Makeup">Makeup</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/skin-care" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Beauty - Skin Care">Skin Care</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/fragrance" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Beauty - Fragrance">Fragrance</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/celeb-beauty" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Beauty - Celebs &amp; Influencers">Celebs &amp; Influencers</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/beauty-prep-school" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Beauty - Beauty Prep School">Beauty Prep School</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/beauty-nation" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Beauty - Beauty Nation">Beauty Nation</a>
+      
+      </li>
+    
+    </ul>
+  </aside>
+    <aside class="main-nav-submenu main-nav-submenu-group-2" data-parent="Living">
+    <ul class="main-nav-submenu-list">
+          <li>
+            <a href="//www.refinery29.com/travel" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Living - Travel">Travel</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/home" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Living - Home">Home</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/food-and-drink" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Living - Food &amp; Drinks">Food &amp; Drinks</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/tech" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Living - Tech">Tech</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/work-and-money" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Living - Work &amp; Money">Work &amp; Money</a>
+      
+      </li>
+          <li>
+            
+      </li>
+          <li>
+            <a href="//www.refinery29.com/weekend-ideas" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Living - Weekender">Weekender</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/weddings" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Living - Weddings">Weddings</a>
+      
+      </li>
+    
+    </ul>
+  </aside>
+    <aside class="main-nav-submenu main-nav-submenu-group-3" data-parent="Wellness">
+    <ul class="main-nav-submenu-list">
+          <li>
+            <a href="//www.refinery29.com/health-trends" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Wellness - Trends">Trends</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/diet-and-nutrition" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Wellness - Diet &amp; Nutrition">Diet &amp; Nutrition</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/fitness" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Wellness - Fitness">Fitness</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/sex" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Wellness - Sex">Sex</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/spirit" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Wellness - Spirit">Spirit</a>
+      
+      </li>
+    
+    </ul>
+  </aside>
+    <aside class="main-nav-submenu main-nav-submenu-group-4" data-parent="Entertainment">
+    <ul class="main-nav-submenu-list">
+          <li>
+            <a href="//www.refinery29.com/movies-and-tv-shows" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Entertainment - Movies &amp; Tv">Movies &amp; Tv</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/music" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Entertainment - Music">Music</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/art" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Entertainment - Art &amp; Books">Art &amp; Books</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/celebrities" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Entertainment - Celebrities">Celebrities</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/trends-in-entertainment" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Entertainment - Trends">Trends</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/red-carpet-looks" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Entertainment - Red Carpet">Red Carpet</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/festival-tracker" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Entertainment - Festival Tracker">Festival Tracker</a>
+      
+      </li>
+    
+    </ul>
+  </aside>
+    <aside class="main-nav-submenu main-nav-submenu-group-5" data-parent="Local">
+    <ul class="main-nav-submenu-list">
+          <li>
+            <a href="//www.refinery29.com/new-york" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Local - New York">New York</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/los-angeles" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Local - Los Angeles">Los Angeles</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/san-francisco" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Local - San Francisco">San Francisco</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/london" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Local - London">London</a>
+      
+      </li>
+          <li>
+            <a href="//www.refinery29.com/chicago" class="main-nav-submenu-item ga-trackable" data-category="Subnavigation" data-action="Desktop" data-label="Local - Chicago">Chicago</a>
+      
+      </li>
+    
+    </ul>
+  </aside>
+  
+</div>
+
+</nav>
+
+    </div>
+
+
+          
+    
+  </div>
+</header>
+<div class="main-nav-container-placeholder"></div>
+
+  
+
+
+
+
+
+      
+  <div class="content block">
+    <div>
+      <main>
+        <aside>
+          <div id="ad-hero" class="ad sliding" data-ad-size="300x600" data-sponsor="" data-pos="right"></div>
+
+
+          <div id="ad-small" class="ad " data-ad-size="300x45" data-sponsor="" data-pos="top"></div>
+
+
+        </aside>
+
+        <div class="static two-of-three module-article">
+          <h2>Privacy Policy</h2>
+          <p>Refinery29 takes privacy extremely seriously. This Privacy Policy describes how we treat and use the information we collect when you use Refinery29.com or sign-up for our newsletters.</p>
+
+          <h3>Personal Information</h3>
+          <p>In order to supply you with Refinery29’s daily emails, we need your email address. Refinery29 doesn't collect any information except that expressly provided by you. We will not disclose your personal information to any third party without your consent, except as required to provide you with Refinery29 material. Refinery29 will never sell, rent, or share your personal information, including your email to any third parties for marketing purposes without your explicit consent.</p>
+
+          <h3>Other Information</h3>
+          <p>Refinery29 may also request additional information such as age, buying preferences, annual income, or other demographic or profile information. We use this information to better tailor our content and improve the experience on our site. We may also share this information with third parties, such as advertisers, but only in aggregate, anonymous form. No third party will receive information from us that personally identifies you or anyone else in any way.</p>
+
+          <h3>Usage Information</h3>
+          <p>In addition to collecting other personal and non-personal information, Refinery29 may gather other information on how our site is used. This information is not personally identifiable and will be used to determine how our website is being used. Examples of such information is: How much time do users spend on our site? What pages do they view? What sites did they come from? What sites do they go to? All of this information is collected to help us create a better, faster, more efficient website and provide you with better content.</p>
+
+          <h3>Review and Access</h3>
+          <p>Upon request, Refinery29 will provide you with a summary of the information we've collected about you, and the opportunity to correct, update or modify this information.</p>
+
+          <h3>How to Opt Out</h3>
+          <p>You can unsubscribe from receiving Refinery29 emails at any time. You can unsubscribe by clicking on the "Unsubscribe" link in the footer of any Refinery29 email and following the instructions.</p>
+
+          <h3>Third-Party Advertising</h3>
+          <p>The ads appearing on this Web site are delivered to you by Adjuggler, our Web advertising partner. View Adjuggler's privacy policy at <script type="text/javascript">
+<!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,104,116,116,112,58,47,47,119,119,119,46,97,100,106,117,103,103,108,101,114,46,99,111,109,47,112,114,105,118,97,99,121,45,112,111,108,105,99,121,46,112,104,112,34,32,62,104,116,116,112,58,47,47,119,119,119,46,97,100,106,117,103,103,108,101,114,46,99,111,109,47,112,114,105,118,97,99,121,45,112,111,108,105,99,121,46,112,104,112,60,47,97,62));
+-->
+</script><a href="mailto:http://www.adjuggler.com/privacy-policy.php">http://www.adjuggler.com/privacy-policy.php</a>. Occasionally, you'll get an email marked "Dedicated Email" in the subject line and in the email header. These emails are not necessarily reflective of the opinions of our editorial staff. They are content paid for by our sponsors (allies), and allow us to provide you with the FREE content you love.</p>
+
+          <h3>Tracking</h3>
+          <p>Like most other websites in the universe, Refinery29 might place or recognize cookies, small text files, on your browser in order to help us retrieve information vital to providing the best possible service. Our cookies allow us to recognize you and simplify your user experience. Refinery29 will never use cookies to obtain any information from your computer not related to our site. We are also collecting information on your behavior and activity on Refinery29: to help make improvements to our site, to deliver display advertisements for you on Google Adwords and to provide reporting to third parties on an aggregated (non-identifiable) manner, including with respect to Google Analytics. To opt-out of participating in Google Analytics data follow the instructions: https://tools.google.com/dlpage/gaoptout/</p>
+
+          <h3>Third Party Cookies</h3>
+          <p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser, which may be used to deliver ads to you on our site or other sites.</p>
+          
+          <h3>Links to Other Sites</h3>
+          <p>As a curator of the best possible information, Refinery29 often links out to other sites. We are not responsible for any content that appears on these sites, nor do we endorse them. For questions about these sites, please consult their individual privacy policies.</p>
+
+          <h3>Security</h3>
+          <p>All of the information described above is recorded restricted database servers.</p>
+
+          <h3>Modifications</h3>
+          <p>Refinery29 may make changes to this policy at any point. If and when we do, we'll be sure to inform you here so be sure to check back often if you are interested.</p>
+
+          <h3>Contact Us</h3>
+          <p>If you have questions about this policy, or about the site, please <a href="http://www.corporate.r29.com/contact">contact us</a> or you could also review our <a href="http://www.corporate.r29.com/about/">About page</a>.</p>
+        </div>
+      </main>
+    </div>
+  </div>
+
+
+
+
+
+  
+  
+  
+      <footer class="block" role="contentinfo" id="footer">
+  <div>
+    <nav class="company">
+    <section>
+      <h2>Company</h2>
+      <ul>
+        <li>
+          <a href="//www.corporate.r29.com">
+            About
+          </a>
+        </li>
+        <li>
+          <a href="//www.corporate.r29.com/press">
+            Press
+          </a>
+        </li>
+        <li>
+          <a href="//www.corporate.r29.com/advertising">
+            Advertising
+          </a>
+        </li>
+        <li>
+          <a href="mailto:feedback@refinery29.com" data-uv-trigger="" data-uv-height="180px">
+            Feedback
+          </a>
+        </li>
+        <li class="hiring">
+          <a href="//www.corporate.r29.com/careers">
+            We're hiring
+          </a>
+        </li>
+        <li>
+          <a href="/news">
+            R29 News
+          </a>
+        </li>
+        <li>
+          <a href="/archives">
+            Sitemap
+          </a>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <a href="#" id="view-mobile-site">
+            View Mobile Site
+          </a>
+        </li>
+        
+      </ul>
+    </section>
+    </nav>
+    <section class="social">
+      <h2>Connect with R29</h2>
+      <ul>
+        <li class="footer-social-facebook">
+          <a href="http://facebook.com/refinery29" target="_blank">
+            <span class="icon-facebook"></span>
+            <span class="is-hidden">Facebook</span>
+          </a>
+        </li>
+        <li class="footer-social-pinterest">
+          <a href="http://pinterest.com/refinery29" target="_blank">
+            <span class="icon-pinterest"></span>
+            <span class="is-hidden">Pinterest</span>
+          </a>
+        </li>
+        <li class="footer-social-twitter">
+          <a href="http://twitter.com/refinery29" target="_blank">
+            <span class="icon-twitter"></span>
+            <span class="is-hidden">Twitter</span>
+          </a>
+        </li>
+        <li class="footer-social-instagram">
+          <a href="http://www.instagram.com/refinery29" target="_blank">
+            <span class="icon-instagram"></span>
+            <span class="is-hidden">Instagram</span>
+          </a>
+        </li>
+        <li class="footer-social-tumblr">
+          <a href="http://www.refinery29.tumblr.com" target="_blank">
+            <span class="icon-tumblr"></span>
+            <span class="is-hidden">Tumblr</span>
+          </a>
+        </li>
+        <li class="footer-social-youtube">
+          <a href="http://www.youtube.com/refinery29" target="_blank">
+            <span class="icon-youtube"></span>
+            <span class="is-hidden">Youtube</span>
+          </a>
+        </li>
+        <li class="footer-social-spotify">
+          <a href="http://open.spotify.com/user/refinery29/playlist/1Zl7ytzACYt1xVq7UmzJYU" target="_blank">
+            <span class="icon-spotify"></span>
+            <span class="is-hidden">Spotify</span>
+          </a>
+        </li>
+        <li class="footer-social-rss">
+          <a href="http://www.refinery29.com/rss.xml" target="_blank">
+            <span class="icon-rss"></span>
+            <span class="is-hidden">RSS</span>
+          </a>
+        </li>
+      </ul>
+    </section><!--/.social-->
+  </div>
+    <div class="site-info">
+        <ul>
+            <li class="copyright"> <a href="http://www.corporate.r29.com">© 2014 Refinery29</a></li>
+            <li><a href="/terms-and-conditions">Terms</a></li>
+            <li><a href="/privacy">Privacy</a></li>
+        </ul>
+
+        <p>Made with <span class="love">love</span> in NYC</p>
+
+        <!--take this HTML out if it only serves a presentational purpose-->
+        <ul class="colors">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div><!--/.site-info-->
+</footer>
+
+  
+  
+
+  <div id="fb-root"></div>
+
+<script>
+  if (location.search.indexOf('debug') > -1)
+    document.body.className += ' debug'
 </script>
-<!-- /Internal Stats -->
 
-    
+<!-- Ad - iPad Mopub 728x90 -->
 
-          <script type="text/javascript" src="http://s.skimresources.com/js/30283X879131.skimlinks.js"></script>
-    
-    
-          <!-- Compete CrossPoint Tag for refinery29.com -->
+
+
+
+<!-- Load Libraries from CDN -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+
+  <script type="text/javascript" data-main="http://s3.r29static.com/blog/cf33it/assets/js/main" src="http://s3.r29static.com/blog/1xq15z/assets/js/compiled/main.js"></script>
+
+
+<script type="text/javascript" id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+<!-- Shared javascript -->
+
+
+<!-- Custom javascript -->
+
+
+<div class="is-hidden">
+    <ul role="menu">
+        <li role="menuitem"><a href="#header">Back to header</a></li>
+        <li role="menuitem"><a href="#nav">Back to navigation</a></li>
+        <li role="menuitem"><a href="#footer">Back to footer</a></li>
+    </ul>
+</div><!--/.is-hidden-->
+
+            <!-- Compete CrossPoint Tag for refinery29.com -->
 <script type="text/javascript">
 __compete_code = 'c6ecf41f2ae1b0e7908f2c73fb2b9e10';
 /* Set control variables below this line. */ 
@@ -1863,10 +940,79 @@ __compete_code = 'c6ecf41f2ae1b0e7908f2c73fb2b9e10';
 </noscript>
     
 
-	
+          <script type="text/javascript" src="//s.skimresources.com/js/30283X879131.skimlinks.js" async="true"></script>
     
-  
-<!-- Served in 4006ms by web01.prod.rf29.net at Fri, 10 May 2013 17:29:43 -0400 -->
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","9aa3407800","1764365","b1cHZBcEW0dZVRZbXVYdMEIMSkNVShkQV1RRXABCHFcMG1lGEl5bW1MRWQoLGlVIRhEdUFRdAh8NEVFbW0VNW1xcVx0eFQ1F",0,4005,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+    <!-- Buzzfeed Tracking -->
+<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="https://ct.buzzfeed.com/wd/UserWidget?u=refinery29&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1580519192153"></script></div>
+<script type="text/javascript">
+  (function( ){
+    BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
+    BF_WIDGET_SRC= window.location.protocol + "//ct.buzzfeed.com/wd/UserWidget?u=refinery29&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();
+    setTimeout(function() { document.getElementById("BF_WIDGET_1").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC },1);
+  })();
+</script>
+    <!-- Quantcast -->
+<script type="text/javascript">
+_qoptions={ qacct:"p-fesXMHo90Ka_A" };
+</script>
+<script type="text/javascript" src="//edge.quantserve.com/quant.js"></script>
+<noscript>
+  <img src="//pixel.quantserve.com/pixel/p-fesXMHo90Ka_A.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- /Quantcast -->
+    <!-- Sailthru Horizon -->
+<script type="text/javascript">
+  (function() {
+    var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+    if (s.readyState){  //IE
+      s.onreadystatechange = function(){
+        if (s.readyState == "loaded" ||
+          s.readyState == "complete"){
+          s.onreadystatechange = null;
+          Sailthru.setup({
+            domain: 'horizon.refinery29.com',
+            tags: '',
+            cookieDomain: '.refinery29.com'
+          });
+        }
+      };
+    } else {  //Others
+      s.onload = function(){
+        Sailthru.setup({
+          domain: 'horizon.refinery29.com',
+          tags: '',
+          cookieDomain: '.refinery29.com'
+        });
+      };
+    }
+    s.src = ('https:'==location.protocol?'https://d1gp8joe0evc8s.cloudfront.net':'http://cdn.sail-horizon.com')+'/horizon/v1.js';
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+  })();
+</script>
+    
+
+<script src="//cdn.optimizely.com/js/159817189.js"></script>
+
+
+    <script src="//tags.crwdcntrl.net/c/5283/cc_af.js"></script>
+    <!-- youtube button iframe -->
+<script type="text/javascript">
+ (function(){
+	"use strict";
+	var s;
+  s = document.createElement('script');
+  s.async = true;
+  s.type = 'text/javascript';
+  s.src = document.location.protocol + '//apis.google.com/js/platform.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+ })();
+</script>
+
+  
+<div id="ad-interstitial"></div>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"9aa3407800","applicationID":"3374998","transactionName":"b1cHZBcEW0dZVRZbXVYdJkUWEVpZF3UNXEZKXQlcABdqdlRZBW17VlYASEoEVkBRWQxtQUxTEVkGSkNdXUFYQUZZRgxTShVHXU5XAUscUEYIXA==","queueTime":0,"applicationTime":213,"ttGuid":"","agentToken":"","atts":"QxAEEl8eSEk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat_pub.js"></script></body></html>
