@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gtanet.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627230822id_/http%3A//www.gtanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtanet.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231184307id_/http%3A//www.gtanet.com/privacy) for the most accurate reproduction.*
 
-# GTANet.com - Now With Added Vitamins! : Privacy Policy
+# GTANet.com - Now With Added Vitamins! : Cookies and Privacy Policy
 
   |    
 
@@ -47,7 +47,17 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 ## Sovrn / Lijit Cookies and Privacy
 
-One of the ad networks and companies The GTA Network utilizes is Lijit Networks Inc. Lijit's privacy policy can be viewed at <http://www.lijit.com/company/privacy-policy>. Lijit collects only anonymous information unless a reader chooses to submit personal information to Lijit. Lijit permits readers to opt out of the collection of this anonymous site visit data through the Lijit opt-out tool at <http://www.lijit.com/choices>. 
+One of the ad networks and companies The GTA Network utilizes is Lijit Networks Inc. Lijit's privacy policy can be viewed at <http://www.lijit.com/company/privacy-policy>. Lijit collects only anonymous information unless a reader chooses to submit personal information to Lijit. Lijit permits readers to opt out of the collection of this anonymous site visit data through the Lijit opt-out tool at <http://www.lijit.com/choices>.
+
+  
+
+
+## Game Advertising Online ("GAO") Cookies and Privacy
+
+One of the ad networks and companies The GTA Network utilizes is Game Advertising Online. GAO's privacy policy can be viewed at [https://www.game-advertising-online.com/?section=doc&action=privacy](https://www.game-advertising-online.com/?section=doc&action=privacy).
+
+  
+
 
 ## Links and External Resources
 
