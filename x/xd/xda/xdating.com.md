@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xdating.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020911id_/http%3A//www.xdating.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xdating.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231021618id_/http%3A//www.xdating.com/site/privacy) for the most accurate reproduction.*
 
 # XDating.com - Free online Dating Sites & Service for casual dates
 
