@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214023636id_/http%3A//www.bps.org.uk/privacy-policy/privacy-policy-ml-dev-do-not-publish) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231100245id_/http%3A//www.bps.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | BPS
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+We are committed to safeguarding the privacy of our members and website visitors; this policy sets out how we will treat your personal information that we may collect via our website(s) or other operational processes.
 
 **(1)  What information do we collect?**
 
-We may collect, store and use the following kinds of personal information:
+We may collect, store and process the following kinds of personal information:
 
 (a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation);
 
@@ -16,7 +16,9 @@ We may collect, store and use the following kinds of personal information:
 
 (d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters;
 
-(e) any other information that you choose to send to us;
+(e) any information that you provide through present or future membership, education or other services, whether accessed electronically or via manual processes;
+
+(f) any other information that you choose to send to us.
 
 **(2)  Cookies**
 
@@ -26,13 +28,13 @@ We may use both “session” cookies and “persistent” cookies on the websit
 
 Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information. More information is available at [Google's privacy policy.](http://www.google.com/privacypolicy.htm)
+We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information. More information is available at [Google's privacy policy.](http://www.google.com/policies/privacy/)
 
 Our advertisers/payment services providers may also send you cookies.
 
 Our advertising services providers may send you cookies for the purpose of enabling the service of advertisements based on your previous visits to our website.
 
-We may publish Google Adsense interest-based advertisements on our website.  These are tailored by Google to reflect your interests.  To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie.  You can view, delete or add interest categories associated with your browser using [Google's Ads Preference Manager](http://www.google.com/ads/preferences/)[](http://www.google.com/ads/preferences/).  You can opt-out of the [Adsense partner network cookie](http://www.google.com/privacy/ads/) or use the  [Network Advertising Initiative's (NAI) multi-cookie opt-out mechanism](http://www.networkadvertising.org/managing/opt_out.asp)[](http://www.networkadvertising.org/managing/opt_out.asp). However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the [Google browser plug-in](http://www.google.com/ads/preferences/plugin.). [](http://www.google.com/ads/preferences/plugin)
+We may publish Google Adsense interest-based advertisements on our website.  These are tailored by Google to reflect your interests.  To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie.  You can view, delete or add interest categories associated with your browser using [Google's Ads Preference Manager](http://www.google.com/ads/preferences/).  You can opt-out of the [Adsense partner network cookie](http://www.google.com/privacy/ads/) or use the  [Network Advertising Initiative's (NAI) multi-cookie opt-out mechanism](http://www.networkadvertising.org/managing/opt_out.asp). However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the [Google browser plug-in](http://www.google.com/ads/preferences/plugin.). 
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.  For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.  Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
@@ -40,7 +42,7 @@ Most browsers allow you to reject all cookies, whilst some browsers allow you to
 
 **(3)  Using your personal information**
 
-Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+Personal information submitted to us will be used for the purposes specified in this privacy policy or in relevant parts of the website(s) and other Society services.
 
 We may use your personal information to:
 
@@ -62,13 +64,15 @@ We may use your personal information to:
 
 (i) provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
 
-(j) deal with enquiries and complaints made by or about you relating to the website;
+(j) deal with enquiries and complaints made by or about you;
 
-(k) to update central Society member database systems where provided by the user; and
+(k) to update central Society member database systems where provided by the user;
 
-(l) maintain and display Society membership directories and registers in public and secure areas of the website as prescribed and authorised by the governance policies and rules of the Society and only where Society member users have consented or subscribed in advance.
+(l) maintain and display Society membership directories and registers in public and secure areas of the website as prescribed and authorised by the governance policies and rules of the Society and only where Society member users have consented or subscribed in advance; and
 
-Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
+(m) administer and support members of the Society as required from time to time.
+
+Where you submit personal information for publication on our website or any other Society managed media, we will publish and otherwise use that information in accordance with the licence you grant to us.
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
@@ -94,7 +98,7 @@ In addition, we may disclose your personal information:
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
-**(6)  Security of your personal information**
+**(5)  Security of your personal information**
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -102,15 +106,15 @@ We will store all the personal information you provide on our secure (password- 
 
 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
-You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
+You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website or any other Society owned online service).
 
-**(7)  Policy amendments**
+**(6)  Policy amendments**
 
 We may update this privacy policy from time-to-time by posting a new version on our website.  You should check this page occasionally to ensure you are happy with any changes. 
 
 We may also notify you of changes to our privacy policy by email.
 
-**(8)  Your rights**
+**(7)  Your rights**
 
 You may instruct us to provide you with any personal information we hold about you – Subject Access Rights.  Provision of such information will be subject to:
 
@@ -122,22 +126,22 @@ We may withhold such personal information to the extent permitted by law.
 
 You may instruct us not to process your personal information for marketing purposes. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-in to the use of your personal information for marketing purposes.
 
-**(9)  Third party websites**
+**(8)  Third party websites**
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
-**(10)  Updating information**
+**(9)  Updating information**
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
-**(11)  Contact**
+**(10)  Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal information, write to us by [email](mailto:enquiry@bps.org.uk) [](mailto:enquiry@bps.org.uk)or  post to: The British Psychological Society, St. Andrews House, 48 Princess Road East, Leicester, LE1 7DR.
+If you have any questions about this privacy policy or our treatment of your personal information, write to us by [email](mailto:enquiry@bps.org.uk) or post to: The British Psychological Society, St. Andrews House, 48 Princess Road East, Leicester, LE1 7DR.
 
-**(12)  Data controller**
+**(11)  Data controller**
 
-The data controller responsible in respect of the information collected on this website is The British Psychological Society. 
+The data controller responsible in respect of information collected by all Society services (electronic or manual) is The British Psychological Society. 
 
 Our data protection registration number is Z5958155.
 
-Document date: February 2012
+Document date: August 2014
