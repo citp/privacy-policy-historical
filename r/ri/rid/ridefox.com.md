@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ridefox.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063021id_/http%3A//www.ridefox.com/tos.php%3Fp%3Dprivacy%26ref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridefox.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231103446id_/http%3A//www.ridefox.com/tos.php%3Fp%3Dprivacy%26ref%3Dfooter) for the most accurate reproduction.*
 
 # FOX Privacy policy
 
