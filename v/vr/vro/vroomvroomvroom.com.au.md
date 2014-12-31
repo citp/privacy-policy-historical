@@ -1,82 +1,119 @@
-> *The following text is extracted and transformed from the vroomvroomvroom.com.au privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617085902id_/http%3A//www.vroomvroomvroom.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vroomvroomvroom.com.au privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231101608id_/http%3A//www.vroomvroomvroom.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Cheap Car Hire Australia > Avis,Budget,Europcar,Hertz,Thrifty.
 
-## TERMS AND CONDITIONS OF BOOKINGS
+Vroom Vroom Vroom Pty Ltd ACN 050 417 037 (“we”, “our” or “us”) is committed to the protection of personal privacy within the scope of applicable law. This Privacy Policy covers our treatment of personal information that we collect, use and disclose.
 
-**VroomVroomVroom** acts as a broker between you (the client) and the car hire companies. **Your rental is subject to the rental terms and conditions of the car hire company with whom the reservation is made**. For example: bookings made with Avis will be subject to the Avis terms and conditions at the time of renting.
+We may update this Privacy Policy from time to time. The most current version will be located on our website, and is also available by contacting our Privacy Officer by email or at the address detailed below.
 
-**"Fun Deals" and value specials:**  
-VroomVroomVroom has negotiated VroomVroomVroom Deals and specials for you that result in real value that we pass on to you. To receive the benefits from Avis, Hertz, Europcar and Thrifty all bookings must be initiated via the VroomVroomVroom.com.au site. This will ensure that the VroomVroomVroom.com.au value code is inserted into the reservation form for each company. Any reservation not made via the VroomVroomVroom.com.au site will not insert the VroomVroomVroom.com.au value code and therefore not receive the applicable VroomVroomVroom Deal.
+By using our website, or by providing any personal information to us, you consent to the collection, use and disclosure of your personal information as set out in this Privacy Policy.
 
-**Multiple reservations:**  
-If after placing a reservation you need to repeat the reservation process (eg. if a second reservation is required) from VroomVroomVroom.com.au, start at the GET A QUOTE link to ensure the discounted rates are applied again.
+### Types of personal information collected
 
-**Optional Insurance:**  
-Renters incur a standard damage excess fee when a vehicle is damaged or in an accident. This amount will be advised during the reservation process. The damage excess fee can be reduced to a lower amount by paying an optional excess reduction fee upon vehicle pickup.
+The types of personal information that we collect and hold will vary depending on your dealings with us. This information may include any or all of the following:
 
-**Payment:**  
-The rental amount is **_payable upon vehicle pickup directly to the car hire company_**. All major credit cards are accepted. Credit card details may be required to secure the reservation at the time of booking however the payable amount will not be debited until you collect the vehicle and sign the rental contract.
+•   name, address(es), telephone number(s) and other contact details;   
+•   electronic address(es);   
+•   payment information, including credit card type;   
+•   other personal information required to provide our services, including age and residency status; and  
+•   transaction details relating to your use of our products, services or benefits.
 
-**Changes and Cancellations:**  
-Once the reservation is made, **_amendments and/or cancellations are to be made via the car hire company with whom the reservation is made._** See the " **Make Changes** " page for direct access to the respective car hire company amendment pages. You will need your Booking Number.
+We will not collect sensitive information from you or any third party.
 
-## PRIVACY STATEMENT
+  From time to time, you may provide us, and we may collect from you, personal information of a third party (for example, for delivery purposes). Where you provide the personal information of a third party, it is your responsibility to ensure that those persons are aware of this Privacy Policy, understand it and agree to accept it.
 
-At VroomVroomVroom, we know what it is like to receive unwanted emails (SPAM). We hate it! And that is why we are committed to respecting your privacy to the highest degree.
+You do not have to provide us with any personal information, however if you do not do so we may not be able to provide you with the products, services or benefits you have requested.
 
-**Our Privacy Statement covers the following issues:**
+### How we collect personal information
 
-**How is your information collected:**  
-We will only collect your name and email address and information relevant to your reservation via the VroomVroomVroom.com.au site. Your information may be necessary for us to provide you with goods and services you have requested, information necessary to protect or enforce our legal rights or interests, or is required by law.
+Generally, we collect personal information directly from you, such as:
 
-VroomVroomVroom provides the option for customers to submit feedback and comments about their booking experience. We will collect personal identification information from customers only if they voluntarily submit such information to us. Users can choose not to supply feedback or any personal identification information. Any feedback entered into the form may be published on VroomVroomVroom's websites along with the name (if supplied), date and comments.
+•   when you submit information through our website;  
+•   when you use the 'Live Chat' function to speak with one of our customer service agents;  
+•   in person;  
+•   in the course of us providing you with a requested product, service or benefit; or  
+•   when you have other dealings with us.
 
-Wherever possible we will collect your personal information directly from you. If your personal information is collected from a third party we will take reasonable steps to ensure that you are aware that this has been done.
+We collect personal information through:
 
-**How is your information used:**  
-After making a reservation via VroomVroomVroom.com.au we will contact you for:
+•   our related bodies corporate;  
+•   our business partners; and  
+•   third parties who supply services to us. 
 
-  * An email for the inital reservation
-  * A booking reminder email 3 days before the rental is due to be picked up
-  * An SMS text including the rental reservation number (OPT IN only)
-  * If you OPT into our deals list you can expect monthly email blasts. You can opt out anytime using the unsubsribe link within each blast
+### Why we collect, use and disclose personal information
 
+We will use the personal information we collect for the purpose disclosed at the time of collection, or otherwise as set out in this Privacy Policy.  We will not use your personal information for any other purpose without first seeking your consent, or where authorised or required by law.
 
+We will collect personal information for the following purposes:
 
-The information you provide may also be used to fulfil our legal requirements (for example disclosure to law enforcement agencies). You can notify us at anytime to be removed from our client database if you do not wish offers in the future. You can make such a request by email to  
-helpVroomVroomVroom.com.au
+•   to establish and maintain your relationship with us;  
+•   to provide the products or services you have requested from us;  or  
+•   to answer any inquiry you make.
 
-**When is your information disclosed:**  
-We respect the privacy of your personal information and we will take all reasonable steps to keep it confidential. We will not sell or otherwise provide your personal information to a third party, or make any other use of your personal information, for any purpose which is not incidental to the primary purpose of collection, being for the provision of goods or services requested by you. For removal of doubt, personal information will not be used for any purpose which a reasonable person in your position would not expect.
+We may also disclose your personal information to third parties who work with us in our business to provide, promote or improve the products or services you have requested or are interested in, such as:
 
-Otherwise, we will only disclose your personal information without your consent if this is:
+•   suppliers of third party products and services (such as car rental and insurance companies);  
+•   marketing consultants and promotions companies; website hosts; and  
+•   consultants and professional advisers. 
 
-  * Necessary to provide you with the goods and services you have requested.
-  * Necessary to protect or enforce our legal rights or interests or to defend any claims made against us by any person (including you).
-  * Necessary to lessen a serious threat to a persons health or safety or If required by law.
+### Direct marketing
 
+We will also use and disclose your personal information to send direct marketing to you from 
 
+•   us; and  
+•   our related bodies corporate.
 
-We protect your personal information with up to date techniques and processes, which meet current industry standards to ensure that your personal information is kept secure and confidential.
+The direct marketing may relate to: 
 
-Only employees who perform services on our behalf, and are authorised to handle your information, will have access to your personal information.
+•   our products and services;  
+•   the products and services of other parties (such as car rental and insurance companies);  
+•   new developments we believe may be of interest to you.
 
-We will not retain any of your personal information for any longer that it is required by us, except to fulfill our legal obligations.
+You may opt-out of receiving this direct marketing through the unsubscribe function that will be made available to you with each direct marketing communication.
 
-With your help we will take all reasonable steps to make sure that the personal information is kept complete and up to date.
+### How we store and protect personal information
 
-**How to access and update your information:**  
-You may ask us to give you access to the personal information that we hold about you at any time. This access is subject to some exceptions for example, you may not obtain access to information relating to existing or anticipated legal proceedings.
+We store personal information in a combination of computer storage facilities, paper-based files and other records. In so doing, we have taken numerous steps to protect your personal information from misuse, interference and loss, and unauthorised access, modification or disclosure.
 
-You can request access to your information by (web page or email). You will be asked to specify the information that you want access to, and you will need to verify your identity before we are able to provide the information. This is a free service unless the information you request requires us to access archived material or spend significant time in preparation or research. If this occurs we will advise the likely cost in advance and can help refine your request if necessary.
+Additionally, we take reasonable steps to destroy or permanently de-identify personal information when we no longer need it.  
+The internet is not a secure method of transmitting information. Accordingly, other than where we use secure socket layer technology (SSL) to ensure information is securely transmitted and processed, we cannot and do not accept responsibility for the security of information you send to or receive from us over the internet, or for any unauthorised access or use of that information.
 
-We are committed to ensuring the information we hold on you is up to date and accurate. If you do find inaccurate information let us know and we will take all reasonable steps to correct the information. If you believe the personal information that we hold on you is in-accurate or incomplete and VroomVroomVroom.com.au does not agree with you, we will provide a statement expressing your disagreement with the information where that information is kept.
+### Do we send personal information overseas?
 
-**What if you believe we haven't lived up to our commitments:**  
-VroomVroomVroom.com.au is committed to protecting your privacy, and our policies and procedures have been developed with this intent. However sometimes human errors do occur. If you think that we have not lived up to our commitment please contact us by email:  
-infoVroomVroomVroom.com.
+We are likely to disclose some of your personal information, for the purposes described above, to organisations in New Zealand, United Kingdom, USA, Hong Kong, the Philippines and Ireland.
 
-We will respond to any complaint within 2 working days. Where we have done the wrong thing we will apologise and take all reasonable steps to ensure that it does not happen again.
+Some of these countries may not have the same or substantially similar privacy laws as those set out in this privacy policy and the Australian Privacy Principles.  We may not require organisations to which we disclose personal information in those countries to comply with similar privacy laws, and accordingly your personal information may not receive the same protections that it would in Australia. 
 
-VroomVroomVroom is bound by the National Privacy Principles for the handling of personal information. The Australian Federal Commissioners website provides useful information regarding privacy and protection in New Zealand. [www.privacy.gov.au](http://www.privacy.gov.au/)
+By providing your personal information to us, you consent to our disclosure of your personal information to organisations in those countries even though it may not receive the same protections that it would in Australia.  You may request us not to transfer your personal information to the countries listed above, but if you do so we may not be able to provide the services or products you have requested from us. 
+
+### How you can access your personal information
+
+We will take reasonable steps to make sure that the personal information we collect, use or disclose is accurate, complete and up to date. If your personal details change, such as your address or phone number, please contact our Privacy Officer by email or at the address detailed below.
+
+At your request, we will provide you with a copy of any personal information which we hold about you, unless an exception under the Privacy Act 1988 applies. We may charge a fee for retrieving this information, in which case we will inform you of the fee and obtain your agreement to that fee before providing the information.
+
+We will promptly acknowledge and investigate any complaint about the way we manage personal information.
+
+### Cookies
+
+Our website use cookies to track user traffic patterns and to better serve you when you revisit a website. A cookie is a small data file that a website may write to your hard drive when you visit it. A cookie file can contain information, such as a user ID which the website uses to track the pages you have visited. You can refuse all cookies by turning them off in your browser. However, full functionality for our websites requires the use of cookies.
+
+Information is also generated whenever a page is accessed on our website that records information such as the time, date and specific page. We collect such information for statistical and maintenance purposes that enables us to continually evaluate our website performance.
+
+Our website also collects cookies for use by analytics services, such as Google Analytics. These services use cookies and scripts to collect and store information, including how users interact with our website, errors users encounter when using our website, device identifiers, how often users visit the website, what pages they visit, and what other sites they used prior to coming to the website. We use the information we get from Google Analytics only to improve our website and our services. Please see the following links for more information about Google Analytics:
+
+•   <http://www.google.com/privacy_ads.html;>  
+•   <http://www.google.com/privacy.html;> and  
+•   <http://www.google.com/analytics/tos.html.>
+
+We do not tie the information gathered using third party analytics to your personal information.
+
+### How to contact us or make a complaint
+
+If you have any questions about this Privacy Policy, if you wish to update information we hold about you or if you wish to make a complaint about our collection, use or disclosure of your personal information under this Privacy Policy, please contact:  
+The Privacy Officer  
+24 Corrie Street, Chermside, Brisbane, Q4032  
+E-mail: privacy@vroomvroomvroom.com.au  
+We will take reasonable steps to remedy any issues resulting from our failure to comply with our privacy obligations.
+
+Last updated July 2014.
