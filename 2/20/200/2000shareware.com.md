@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2000shareware.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502120303id_/http%3A//www.2000shareware.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2000shareware.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231170556id_/http%3A//www.2000shareware.com/privacypolicy) for the most accurate reproduction.*
 
 # The Internet resource for Windows software - 2000shareware.com
 
