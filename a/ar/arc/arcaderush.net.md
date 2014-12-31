@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcaderush.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045821id_/http%3A//www.arcaderush.net/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcaderush.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231153213id_/http%3A//www.arcaderush.net/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arcade rush
 
