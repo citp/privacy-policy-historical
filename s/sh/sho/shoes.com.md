@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624030322id_/http%3A//www.shoes.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231032836id_/http%3A//www.shoes.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Shoes.com
 
 ### Privacy Policy: Our Commitment to Privacy
 
-This privacy statement discloses the privacy practices for the websites of Brown Shoe Company, Inc., which include but are not limited to the websites of Naturalizer, LifeStride, Franco Sarto, Dr. Scholl’s, Via Spiga, Carlos by Carlos Santana, and Shoes.com. This policy has been updated as of 4/14/2008.
+This privacy statement discloses the privacy practices for the websites Shoes.com, Inc. This policy has been updated as of 4/14/2008.
 
-Brown Shoe Company, Inc. is the sole owner of the information collected on this site. This information will not be shared with, sold or rented to others in ways different from what is disclosed in this statement.
+Shoes.com, Inc. is the sole owner of the information collected on this site. This information will not be shared with, sold or rented to others in ways different from what is disclosed in this statement.
 
 This privacy statement will notify you of:
 
@@ -21,7 +21,7 @@ This privacy statement will notify you of:
 
 Information is collected from users at several different points on this website, including registration and order forms. We may use this information in the following ways:
 
-When you provide your information to one of Brown Shoe Company, Inc.’s websites, we may share that information with one or more of our other websites.
+When you provide your information to one of Shoes.com, Inc. websites, we may share that information with one or more of our other websites.
 
 In order to streamline your shopping experience, we recommend that you complete our registration form. During registration you are required to give personal contact information (such as name and email address). By registering your account information, you are able to take advantage of special offers and e-mails about new promotions, fashion trends, site and service announcement updates, etc. It is also more convenient for a registered customer to make purchases online. We do not share your registration information with outside parties.
 
@@ -29,7 +29,7 @@ On the order form, you must provide contact information (such as name, billing a
 
 If you elect to refer a friend to our website, we ask you for your name and email address and your friend's name and email address. We will automatically send the friend an email inviting him or her to view your selected items on the website. We use this information for the sole purpose of sending this email.
 
-The personal information you provide may be combined with other personally identifiable information (such as demographic information and past purchase information) available from Brown Shoe Company, Inc., records and other sources. This information will be used to make our future marketing efforts more efficient. 
+The personal information you provide may be combined with other personally identifiable information (such as demographic information and past purchase information) available from Shoes.com, Inc. records and other sources. This information will be used to make our future marketing efforts more efficient.
 
 From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code and age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. We may share this information with our service providers who perform services such as gathering survey data or facilitating contests on our behalf, but we do not authorize these providers to disclose or use your information for any other purpose. 
 
@@ -68,7 +68,7 @@ From time to time, this site may contain links to other websites. We are not res
 
 ### Legal Process
 
-We reserve the right to disclose information about you when we believe disclosure is appropriate to comply with the law, or if we believe disclosure is necessary to protect the rights, property and interests of Brown Shoe Company, Inc.
+We reserve the right to disclose information about you when we believe disclosure is appropriate to comply with the law, or if we believe disclosure is necessary to protect the rights, property and interests of Shoes.com, Inc.
 
 ### Correcting or Updating Personal Information
 
