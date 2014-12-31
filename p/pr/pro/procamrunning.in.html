@@ -1,304 +1,403 @@
-<!--The following is the downloaded HTML source of the procamrunning.in privacy policy that was archived on 2014-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140409125039id_/http%3A//procamrunning.in/PRIVACY-POLICY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the procamrunning.in privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231233403id_/http%3A//procamrunning.in/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-		<title>Procamrunning Official Site - Privacy Policy</title>
-		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<meta name="description" content="">
-		<meta name="keywords" content="Procam,procamrunning,running,marathon,running marathon,race,sports,charity,SCMM,ADHM,TCS10k,tcsworld10k,JCH10K,Jamba,Cloud,10k,privacy,policy,privacy policy">
-		<meta name="author" content="Reactmedia.com">
-		<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
-		<link rel="stylesheet" href="http://procamrunning.in/css/mlpstyle.css" type="text/css">
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://procamrunning.in/js/common.js"></script>
-		<script type="text/javascript" src="http://procamrunning.in/js/dragdrop.js"></script>
-		<script type="text/javascript" src="http://procamrunning.in/js/validations_new.js"></script>
-		<script src="http://procamrunning.in/jquery/js/jquery_1.js" type="text/javascript" charset="utf-8"></script>
-		<script src="http://procamrunning.in/jquery/js/jquery_2.js" type="text/javascript" charset="utf-8"></script>
-		<script src="http://procamrunning.in/js/ddaccordion.js"></script>
-		<script>
-			function MM_findObj(n, d) { //v4.01
-				var p,i,x;
-				if(!d)
-					d=document;
-				if((p=n.indexOf("?"))>0&&parent.frames.length) {
-					d=parent.frames[n.substring(p+1)].document;
-					n=n.substring(0,p);
-				}
-				if(!(x=d[n])&&d.all)
-					x=d.all[n];
-				for (i=0;!x&&i<d.forms.length;i++)
-					x=d.forms[i][n];
-				for(i=0;!x&&d.layers&&i<d.layers.length;i++)
-					x=MM_findObj(n,d.layers[i].document);
-				if(!x && d.getElementById)
-					x=d.getElementById(n);
-				return x;
-			}
-			ddaccordion.init({ 
-				headerclass: "adSpecifications", //Shared CSS class name of headers group
-				contentclass: "adContent", //Shared CSS class name of contents group
-				revealtype: "click", //Reveal content when user clicks or onmouseover the header? Valid value: "click" or "mouseover"
-				collapseprev: false, //Collapse previous content (so only one open at any time)? true/false
-				defaultexpanded: [], //index of content(s) open by default [index1, index2, etc]. [] denotes no content.
-				animatedefault: false, //Should contents open by default be animated into view?
-				persiststate: false, //persist state of opened contents within browser session?
-				toggleclass: ["closedlanguage", "openlanguage"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
-				togglehtml: ["postfix", "<img src='minus.jpg' style='width:13px; height:13px' /> ", "<img src='plus.gif' style='width:13px; height:13px' /> "], //Additional HTML added to the header when it's collapsed and expanded, respectively ["position", "html1", "html2"] (see docs)
-				animatespeed: "fast", //speed of animation: "fast", "normal", or "slow"
-				oninit:function(expandedindices){ //custom code to run when headers have initalized
-				//do nothing
-				},
-				onopenclose:function(header, index, state, isuseractivated){ //custom code to run whenever a header is opened or closed
-				//do nothing
-				}
-			})
-		</script>		
-	</head>
-	<body class="inside">
-		<div class="page">
-			<script type="text/javascript">
-	$(document).keyup(function(e){
-		if(e.keyCode === 27){
-			$("#loginerror").html('');
-		}
-	});
-	var strStart = '';
-	var strEnd = '';
-	strStart += '<div id="bgBox" class="backgroundBox"></div>';
-	strStart += '<div id="LightBox1" class="box_content1">';
-	strStart += '<div onclick="displayHideBox(); return false;" class="close right">X</div>';
-	strEnd ='</div>';
-	function validateTopLoginForm(form){
-		try{
-			trimAllFields(form);
-			var ck_email = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i 
-			var email = form.elements['email'].value;
-			if (!ck_email.test(email)){
-				var strHtml = '';
-				strHtml += '<div id="bgBox" class="backgroundBox"></div><div id="LightBox1" class="box_content1">';
-				strHtml += '<div onclick="displayHideBox(); return false;"  class="close right">X</div>';
-				strHtml += '<div class=\"error\">Invalid Email Id</div></div>';
-				document.getElementById('loginerror').innerHTML = strHtml;
-				return false;
-			}
-			return true;
-		} catch (e) {
-			alert(e.message);
-			return false;
-		}
-	}
-	function displayShowBox(){
-		hideAllWindows();
-		var popWindow = new PopupWindow("popUpBox", ' ', 450, 380, "/inc/_search_friends.php", true);
-		popWindow.show();
-	}
-	function displayHideBox(){
-		document.getElementById('LightBox1').innerHTML = '';
-		document.getElementById('bgBox').className = '';
-		document.getElementById('LightBox1').className = '';
-		document.getElementById('loginerror').innerHTML = '';
-	}
-	function changeStyle(id){
-		document.getElementById(id).style.borderColor="#424A4E";
-	}
-</script>
-<a href="http://procamrunning.in">
-	<div class="procambox left">
-		<p>procam<br><span>running</span></p>
-	</div>
-</a>
-<div class="headerleft">
-	<div class="loginBox right">
-				<form enctype="multipart/form-data" method="post" name="login" action="http://procamrunning.in/submit.php" onsubmit="return validateTopLoginForm(this);">
-				<table class="formBox" width="100%" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-						<td>
-							<input type="text" name="email" id="username" oninput="javascript:changeStyle(this.id);" onfocus="this.style.color='#000000';if(this.value == 'Enter your UserName' || this.value == 'EnteryourUserName')this.value=''" onblur=" if(this.value.length <= 0 ) this.value = 'Enter your UserName';this.style.color='#ACACAC';" value="Enter your UserName" style="color:#ACACAC;margin-right:5px;">
-						</td>
-						<td>
-							<input type="password" name="password" id="password" oninput="javascript:changeStyle(this.id);" onfocus="this.style.color='#000000';if(this.value == 'password')this.value=''" onblur=" if(this.value.length <= 0 ) this.value = 'password';this.style.color='#ACACAC';" value="password" style="color:#ACACAC;margin-right:5px;">
-						</td>
-						<td>
-							<input type="image" src="/img/login.gif">
-							<input type="hidden" name="action" value="LOGIN">
-							<input type="hidden" name="page" value="/PRIVACY-POLICY">
-						</td>
-					</tr>
-				</tbody></table>
-			</form>
-		<div class="clear"></div>
-		<div class="siteSearch right">
-			<form class="form" method="get" action="http://procamrunning.in/results.php" onsubmit="site_search('[http://procamrunning.in]', q.value);return false;">
-				<input type="text" name="q" id="query" value="Search" onfocus="this.style.color='#000000';if(this.value == 'Search')this.value=''" onblur=" if(this.value.length <= 0 ) this.value = 'Search';this.style.color='#ACACAC';">
-			</form>
-		</div>
-	</div>
-	<div class="clear"></div>
-	<div class="navigation left">
-<ul style="overflow:hidden;" id="navbar" class="left"><li class="" id="mlp_navigation_1"><a href="http://www.procamrunning.in/ABOUT-US">about us</a></li><li class="" id="mlp_navigation_3"><a href="http://www.procamrunning.in/RUNNING-EVENTS">running events</a></li><li class="" id="mlp_navigation_4"><a href="http://www.procamrunning.in/TRAINING-PLAN">training</a><ul><li><a href="http://www.procamrunning.in/PACE-CALCULATOR">pace calculator</a></li><li><a href="http://www.procamrunning.in/PACE-WRISTBAND-CREATOR">pace wristband creator</a></li><li><a href="http://www.procamrunning.in/MARATHON-TRAINING-PLAN">marathon training plan</a></li><li><a href="http://www.procamrunning.in/HM-TRAINING-PLAN">half marathon training plan</a></li><li class="rmBottomBdr"><a href="http://www.procamrunning.in/10K-TRAINING-PLAN">10k run training plan</a></li></ul></li><li class="" id="mlp_navigation_6"><a href="http://www.procamrunning.in/Articles-Section">articles</a></li><li class="" id="mlp_navigation_7"><a href="http://www.procamrunning.in/forum/Community">communities</a></li><li class=" nobdr" id="mlp_navigation_8"><a href="http://www.procamrunning.in/Photogallery">gallery</a></li></ul>
-</div>
-
-<!-- <ul style="overflow:hidden;" id="navbar" class="left"><li class="" id="mlp_navigation_1"><a href="http://www.procamrunning.in/ABOUT-US">about us</a></li><li class="" id="mlp_navigation_2"><a href="http://www.procamrunning.in/ASSOCIATION-OPPORTUNITIES">association opportunities</a></li><li class="" id="mlp_navigation_3"><a href="http://www.procamrunning.in/RUNNING-EVENTS">running events</a></li><li class="" id="mlp_navigation_4"><a href="http://www.procamrunning.in/TRAINING-PLAN">training</a><ul><li><a href="http://www.procamrunning.in/PACE-CALCULATOR">pace calculator</a></li><li><a href="http://www.procamrunning.in/PACE-WRISTBAND-CREATOR">pace wristband creator</a></li><li><a href="http://www.procamrunning.in/MARATHON-TRAINING-PLAN">marathon training plan</a></li><li><a href="http://www.procamrunning.in/HM-TRAINING-PLAN">half marathon training plan</a></li><li class="rmBottomBdr"><a href="http://www.procamrunning.in/10K-TRAINING-PLAN">10k run training plan</a></li></ul></li><li class="" id="mlp_navigation_6"><a href="http://www.procamrunning.in/Articles-Section">articles</a></li><li class="" id="mlp_navigation_7"><a href="http://www.procamrunning.in/forum/Community">communities</a></li><li class=" nobdr" id="mlp_navigation_8"><a href="http://www.procamrunning.in/Photogallery">gallery</a></li></ul>
-</div>  --></div>
-<div id="loginerror">
-</div>	
-<div class="clear"></div>
-			<div class="events">
-												<a href="http://tcsworld10k.procamrunning.in">
-		<img alt="MLP WORLD10K logo" src="http://procamrunning.in/ugc/upload/tcsw10k-2014.jpg" class="topMargin marginRt"></a>								<a href="http://scmm.procamrunning.in">
-		<img alt="MLP SCMM Logo" src="http://procamrunning.in/ugc/upload//2735e06c2b65dd5ca595c577343a1e91.gif" class="topMargin marginRt"></a>								<a href="http://www.procamrunning.in/adhm/">
-		<img alt="adhm dated logo" src="http://procamrunning.in/ugc/upload//53e9e4f6c22324c474df7db7946672e9.gif" class="topMargin right"></a>			</div>
-			<div class="leftPane" id="insideLeft">
-				<h1 id="MyAnchor">Privacy Policy</h1><div class="contentBox"><p>Procam International Ltd. ("Procam") recognizes that its visitors, users, and others who use <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong> value their privacy. This Privacy Notice details important information regarding the use and disclosure of user information collected on via the <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong> website. It provides this Privacy Notice to help you make an informed decision about whether to use or continue using <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong></p>
-
- <p>Your use of <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong> and any personal information you provide on <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong> remains subject to the terms of this Privacy Notice and our Terms &amp; Conditions elsewhere on this site. </p>
-
- <p>Procam is the owner of www.procamrunning.in ("Website"). Procam can be contacted by mail at "Procam International Ltd., 14, St. James Court, Marine Drive, Mumbai 400 020", by phone at +91-22-2202 0284, or by e-mail at <strong style="text-decoration:underline;"><a href="mailto://info@procam.in">info@procam.in</a></strong>. This online privacy policy discloses Procam's information practices for this Website and Services (as defined below) including the type of information being collected, method of such information collection, use of such information and with sharing of such information with third parties. "Services" herein shall refer to services provided by Procam or indirectly on behalf of Procam's licensee's / marketing affiliates which encompasses the games and networking services of <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong> being made available over the Website, cellular phones or any other similar electronic devices and IPTV accessed through any form or medium whatsoever, including but not limited to, internet, short message services and data networks. </p>
-
- <p><strong>PLEASE READ THE FOLLOWING TERMS OF OUR PRIVACY POLICY</strong></p>
- <p><strong>PERSONAL INFORMATION THAT MAY BE COLLECTED </strong></p>	
- 
- <strong> * Identifying information</strong>
- <p>In order to take advantage of certain features the Website may choose to offer including, but not limited to, quizzes, newsletters, public forums, you may be asked to complete a registration form which will provide us with personally identifiable information such as your name, email address, telephone number, physical address, gender, zip code or other information may be collected via online forms you submit to the Website. You may also be asked to choose a user ID and password in order to identify yourself during future visits to the Website.</p>
- <strong> * Information from children</strong>
- <p>Procam does not use personally identifying information collected from children for marketing or promotional purposes, and does not disclose such information to any third party for any purpose whatsoever. Procam will not collect or post information from a child under the age of 18 without the involvement of a parent or guardian.</p>
- <strong> * Blogs, chat rooms, forums and bulletin boards</strong>
- <p>If you participate in any Blog activities, Website chat room, discussion forum or post messages on the Website's bulletin board, you should be aware that the information disclosed and shared will be broadly available to other persons, both inside and/or outside of Procam, who have access to the chat rooms, forums or bulletin board. Some chat rooms, forums or bulletin boards have additional rules and conditions regarding participation. Participant's expressed opinion is his or her own and should not be considered as reflecting the opinion of Procam.</p>
- <strong> * Surveys &amp; Voting</strong>
- <p>From time to time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey.</p>
- <strong>* Links to other web sites</strong>
- <p>This Website may contain links to other web sites. Procam is not responsible for the privacy practices or the content of those other web sites.</p>
- <strong>* Cookies Information</strong>
- <p>When you visit the Website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. The Website uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Website may not function properly if the ability to accept cookies is disabled.</p>
- <strong>* Log File Information</strong>
- <p>When you use the Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.</p><div class="divider"></div><a href="javascript:history.back(-1);"><img src="http://procamrunning.in/img/back.gif" class="right"></a><div class="clear"></div></div>			</div>
-			<div class="rightPane">
-										<span class="bannerImages floatingUnhide" id="MLP_Right0">
-							<a href="http://www.procamrunning.in/Asics">							<img alt="MLP Right" src="http://procamrunning.in/ugc/upload//0ca27e81cb24d3425a0d376e7881f775.jpg" class="topMargin"></a>						</span>
-						<span class="bannerImages floatingHide" id="MLP_Right1">
-							<a href="http://www.procamrunning.in/tcsworld10k/video-interview.php">							<img alt="MLP Right" src="http://procamrunning.in/ugc/upload//209d8fbdcadbb3bd68f32b03a625eddf.jpg" class="topMargin"></a>						</span>
-						<script type="text/javascript">
-							var Timer = function()
-							{
-								var banner_imgs = new Array();
-								var banner_timer = 0;
-								var currBannerTabIndex = 0;
-																	banner_imgs[0]="MLP_Right0"
-																	banner_imgs[1]="MLP_Right1"
-																var previousSelectedBanner = banner_imgs[0];
-							    this.Start = function()
-							    {
-							    	banner_timer = self.setInterval(this.play, 9000);
-							    };
-							    this.play = function() {
-									if(currBannerTabIndex == (banner_imgs.length-1)) {
-										currBannerTabIndex = 0;
-									} else {
-										currBannerTabIndex++;
-									}
-									var maxBannerTab = banner_imgs.length;		
-									if(maxBannerTab <= 0){
-										clearInterval(banner_timer);
-								    	banner_timer = setInterval(Timer, 3000);
-									}else{
-										MM_findObj(previousSelectedBanner).className = 'bannerImages floatingHide';
-										MM_findObj(banner_imgs[currBannerTabIndex]).className = 'bannerImages floatingUnhide';
-										previousSelectedBanner = banner_imgs[currBannerTabIndex];
-									}
-								}
-							};
-							
-						var obj = new Timer();
-						obj.Start();
-						</script>
-						<span class="bannerImages floatingUnhide" id="MLP_Race_Calendar0">
-							<a href="http://www.procamrunning.in/RUNNING-EVENTS">							<img alt="MLP Race Calendar" src="http://procamrunning.in/ugc/upload//2817f754a3f2e72bc84d67e1782c51dd.gif" class="topMargin"></a>						</span>
-						<span class="bannerImages floatingHide" id="MLP_Race_Calendar1">
-							<a onclick="recordOutboundLink(this, 'Outbound Links', 'http://aimsworldrunning.org/Calendar.htm#current');return false;" href="http://aimsworldrunning.org/Calendar.htm#current" target="_blank">							<img alt="MLP Race Calendar" src="http://procamrunning.in/ugc/upload//9ab4a7069cef925e89ba7af8d9c6a1d7.jpg" class="topMargin"></a>						</span>
-						<script type="text/javascript">
-							var Timer = function()
-							{
-								var banner_imgs = new Array();
-								var banner_timer = 0;
-								var currBannerTabIndex = 0;
-																	banner_imgs[0]="MLP_Race_Calendar0"
-																	banner_imgs[1]="MLP_Race_Calendar1"
-																var previousSelectedBanner = banner_imgs[0];
-							    this.Start = function()
-							    {
-							    	banner_timer = self.setInterval(this.play, 9000);
-							    };
-							    this.play = function() {
-									if(currBannerTabIndex == (banner_imgs.length-1)) {
-										currBannerTabIndex = 0;
-									} else {
-										currBannerTabIndex++;
-									}
-									var maxBannerTab = banner_imgs.length;		
-									if(maxBannerTab <= 0){
-										clearInterval(banner_timer);
-								    	banner_timer = setInterval(Timer, 3000);
-									}else{
-										MM_findObj(previousSelectedBanner).className = 'bannerImages floatingHide';
-										MM_findObj(banner_imgs[currBannerTabIndex]).className = 'bannerImages floatingUnhide';
-										previousSelectedBanner = banner_imgs[currBannerTabIndex];
-									}
-								}
-							};
-							
-						var obj = new Timer();
-						obj.Start();
-						</script>
-			</div>
-		</div>
-		<div class="clear"></div><br><br>
-<div class="footerBody">
-<br>
-<div class="footerpage">
-	<span class="left">
-	<p>Copyright © Procam International All Rights Reserved</p>
-	</span>
-	<span class="right">
-	<p>
-	<a href="http://procamrunning.in/CONTACT-US">Contact Us</a>
-	| <a href="http://procamrunning.in/DISCLAIMER">Disclaimer</a>
-	| <a href="http://procamrunning.in/PRIVACY-POLICY">Privacy Policy</a>
-	| <a href="http://procamrunning.in/TERMS-OF-USE">Terms of Use</a>
-	| <a href="http://procamrunning.in/Sitemap">Sitemap</a>
-	|&nbsp;Visit Us At:
-	<a href="https://www.facebook.com/procamrunning" target="_blank">
-		<img alt="facebook icon" src="http://procamrunning.in/ugc/upload/3b26af87b285c522542bef3f136c1f3c.png" style="margin-right:5px;margin-bottom:-5px;">
-	</a>
-	<a href="http://twitter.com/#!/procamrunning" target="_blank">
-		<img alt="twitter icon" src="http://procamrunning.in/ugc/upload/cc6f725ef979b93f59fa1f895da9426b.png" style="margin-bottom:-5px;">
-	</a>
-	<a href="https://www.youtube.com/user/procamrunning" target="_blank">
-		<img alt="youtube icon" src="http://procamrunning.in/ugc/upload/745a55ac4db53e0a2985dc7fbfd5b852.png" style="margin-right:5px;margin-bottom:-4px;">
-	</a>
-	</p>
-	</span>
-	<div class="clear"></div>
-</div>
-</div>
+<!DOCTYPE html><html lang="en"><head>
+		  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="http://procamrunning.in/misc/favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="http://procamrunning.in/privacy-policy">
+<link rel="shortlink" href="http://procamrunning.in/node/31">
+<meta property="og:site_name" content="Procamrunning">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://procamrunning.in/privacy-policy">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="http://procamrunning.in/privacy-policy">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="dcterms.title" content="Privacy Policy">
+<meta name="dcterms.creator" content="superadmin">
+<meta name="dcterms.date" content="2014-04-18T14:15+05:30">
+<meta name="dcterms.type" content="Text">
+<meta name="dcterms.format" content="text/html">
+<meta name="dcterms.identifier" content="http://procamrunning.in/privacy-policy">
+<meta name="dcterms.language" content="und">
+		  <title>Privacy Policy | Procamrunning</title>
+		  <link type="text/css" rel="stylesheet" href="http://procamrunning.in/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://procamrunning.in/sites/default/files/css/css_f02iBiR-Osu90q4ehcVLvJSsEgZrNJU8ej4-_2GErCU.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://procamrunning.in/sites/default/files/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://procamrunning.in/sites/default/files/css/css_K7G41c1G3yMdYuhouDhKSRIm6qveOclMzCqw6ErAHR4.css" media="all">
+		  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://procamrunning.in/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="http://procamrunning.in/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="http://procamrunning.in/sites/default/files/js/js__IcoQ9F6ifX3glQE3dtvV4JVbMZPnbgCs0nBN8aYnCU.js"></script>
 <script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-17583543-1']);
-_gaq.push(['_trackPageview']);
-(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-function recordOutboundLink(link, category, action) {
-	  try {
-		var pageTracker=_gat._getTracker("UA-17583543-1");
-		pageTracker._trackEvent(category, action);
-		if (link.target == '_blank') {
-			window.open(link.href);
-		} else {
-			setTimeout('document.location = "' + link.href + '"', 100)
-		}
-	  }catch(err){}
-}
-</script>	
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-17583543-1", "auto");ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://procamrunning.in/sites/default/files/js/js_Iu231mfdeiEoaLXCWaLUWEw3lvVKe8tL-KJCcJMguXo.js"></script>
+<script type="text/javascript" src="http://procamrunning.in/sites/default/files/js/js_xv3AWBygghTwhJbD7MUwwzEflWXZyuplIQwKs4tirVQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"procamrunningvone","theme_token":"lLH2u2JlDDRe4PZaDMHz3GeLJ9P5R9CNrV7ruyT495k","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"http:\/\/stg.procamrunning.in\/sites\/all\/themes\/procamrunningvone\/scripts\/jquery-latest.js":1,"sites\/all\/themes\/procamrunningvone\/scripts\/bootstrap.min.js":1,"sites\/all\/themes\/procamrunningvone\/scripts\/jquery-plugins.js":1,"sites\/all\/themes\/procamrunningvone\/scripts\/modernizr.custom.js":1,"sites\/all\/themes\/procamrunningvone\/scripts\/jquery.dlmenu.js":1,"sites\/all\/themes\/procamrunningvone\/scripts\/jquery-plugins-activate.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/procamrunningvone\/styles\/bootstrap.min.css":1,"sites\/all\/themes\/procamrunningvone\/styles\/styles.css":1,"sites\/all\/themes\/procamrunningvone\/styles\/custom-responsive-styles.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+		  <!--[if lt IE 9]>
+			<script src="/sites/all/themes/positionsquarevone/scripts/html5shiv.js"></script>
+		  <![endif]-->
+		</head>
+		<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-31 node-type-page">
+			  <div id="skip-link">
+				<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+			  </div>
+			  			  <!-- Header Begin -->
+    <div id="mobile-dl-menu" class="visible-xs">
+        <div class="region region-mobile-menu">
+    <div id="block-block-18" class="block block-block">
+
+    
+  <div class="content">
+    <div class="dl-menuwrapper visible-xs" id="dl-menu"><button class="dl-trigger">Open Menu</button><br><ul class="dl-menu"><li><a href="/">Home</a></li>
+<li><a href="/content/runners-calendar">Race Calendar</a></li>
+<li><a href="/forum">Forum</a></li>
+<li><a class="arrow-cta" href="/content/expert-speak" target="_blank">Before You Run</a><br><ul class="dl-submenu"><li><a class="arrow-cta" href="/content/expert-speak">Expert Speak</a><br><ul class="dl-submenu"><li><a href="/content/expert-speak">Videos</a></li>
+<li><a href="/content/obino-runfit-series">Obino</a></li>
+</ul></li>
+<li><a href="/content/training-plans">Training Plans</a></li>
+</ul></li>
+<li><a href="http://www.jabong.com/men/shoes/sports-shoes/Asics/" target="_blank">Shop</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+    </div> 
+    <header id="Header" class="container-fluid navbar-fixed-top">
+        <div class="container top-section">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">  
+                        <div class="socialandsearch pull-right">
+                            <div class="small-logo">
+                                <a href="/"><img src="/sites/all/themes/procamrunningvone/images/logo-small.png" alt="Procam Running"></a>
+                            </div>
+                            <div class="top-link pull-left">
+                                                              <a href="/user/login">LOGIN</a>&nbsp;|&nbsp;<a href="/user/register">REGISTER</a>
+                                                       </div>
+                            <div class="social-icons pull-left">
+                                <ul>
+                                    <li><a href="https://www.facebook.com/procamrunning" class="facebook-ico">facebook</a>
+                                    </li>
+                                    <li><a href="http://twitter.com/#!/procamrunning" class="twitter-ico">twitter</a>
+                                    </li>
+                                    <li><a href="https://www.youtube.com/user/procamrunning" class="youtube-ico">youtube</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="google-search pull-left hidden-xs">
+                               <div class="form"> 
+                                <div class="form-group input-group">
+                                 <!-- <input type="text" class="form-control" placeholder="Search"> -->
+								  <div class="region region-searchform">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value=='Search'){ alert('Please enter a search'); return false; }" action="/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}" class="form-control form-text" placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="25" maxlength="128">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="form-submit-top-menu form-submit" type="image" id="edit-submit" name="submit" src="/sites/all/themes/procamrunningvone/images/search-cta-mirror.png"></div><input type="hidden" name="form_build_id" value="form-li6FM5cFfLOmEpoScCnwfS9JM1jpRid8BMzscxQw8c4">
+<input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form>  </div>
+</div>
+  </div>
+                              <!--    <span class="input-group-btn">
+                                    <button type="button" class="btn btn-default"><i class="fa fa-search"></i>             </button> 
+                                      </span> -->
+                                  </div>
+                                </div>  
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </header>
+<!-- Header End -->
+<!-- Navigation, Banner and Captions Begin -->
+    <div id="NavigtionBannerWrapper">
+        <div class="container-fluid navigation">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-7 col-sm-3 col-md-2 col-lg-3 logo">
+                        <a href="index.html" class="region-logo">
+                              </a><div class="region region-logo"><a href="index.html" class="region-logo">
+    </a><div id="block-block-1" class="block block-block"><a href="index.html" class="region-logo">
+
+    
+  </a><div class="content"><a href="index.html" class="region-logo">
+    </a><p><a href="index.html" class="region-logo"></a><a href="/"><img alt="Procam Running" src="/sites/default/files/logo.png"></a></p>
+  </div>
+</div>
+  </div>
+                        
+                    </div>
+                    <div class="col-xs-9 col-sm-9 col-md-10 col-lg-9 main-menu hidden-xs">
+                        <div class="content">
+                              <div class="region region-main-menu">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="sf-menu menu navbar-right" id="MainMenu"><li class="first leaf menu-mlid-1079"><a href="/race-calendar" class="runners-calendar-ico">Race Calendar</a></li>
+<li class="leaf menu-mlid-550"><a href="/forum" id="node-35" class="forum-ico">Forum</a></li>
+<li class="expanded menu-mlid-553"><a href="/content/expert-speak" class="expert-speak-ico">Before You Run</a><ul class="sf-menu menu navbar-right" id="MainMenu"><li class="first expanded menu-mlid-916"><a href="/content/expert-speak">Expert speak</a><ul class="sf-menu menu navbar-right" id="MainMenu"><li class="first leaf menu-mlid-981"><a href="/content/expert-speak-videos">Videos</a></li>
+<li class="last leaf menu-mlid-982"><a href="/content/obino-runfit-series">ObiNo Runfit Series</a></li>
+</ul></li>
+<li class="last leaf menu-mlid-917"><a href="/content/training-plans">Training Plans</a></li>
+</ul></li>
+<li class="leaf menu-mlid-979"><a href="http://www.endurunz.procamrunning.in/" class="endurunz-ico" target="_blank">Endurunz Club</a></li>
+<li class="last leaf menu-mlid-555"><a href="http://www.jabong.com/men/shoes/sports-shoes/Asics/" name="node/40" class="shop-ico" target="_blank">Shop</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="InsideTopAd" class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                      <div class="region region-inside-top-ad">
+    <div id="block-block-9" class="block block-block">
+
+    
+  <div class="content">
+    <p style="text-align: center;"><a href="http://tsk25.procamrunning.in/race-results" target="_blank"><img alt="TSK25 2014" height="90px;" src="http://procamrunning.in/sites/default/files/tsk25-race-results-innerpage-banner-728-X-90.jpg" width="728px;"></a></p>
+<!--<p style="text-align: center;"><p><a href="http://ifinish.in/live" target="_blank"><img alt="ADHM 2014 RACE RESULTS" src="/sites/default/files/adhm2014-race-results-728px-x-90px.jpg" height="90px;" width="728px;"></a></p>
+<p style="text-align: center;"><a href="http://www.timingindia.com/beta/result.html" target="_blank"><img alt="ADHM 2014" height="90px;" src="http://procamrunning.in/sites/default/files/adhm2014-race-results-728px-x-90px.jpg" width="728px;"></a></p>
+<p>-->
+  </div>
+</div>
+  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- Banner End -->
+<!-- MainContentArea Begin -->
+    <div id="InsideMainContentArea" class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <!-- MainContentArea > LHS-InnerPages Begin -->
+                <div id="InsidePageContent" class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+				<div class="simple">
+                    <!-- Home Page Content Area Wrapper Begin -->
+                                                                <div class="tabs"></div>
+                                                                                 
+                    <h1>Privacy Policy</h1>
+					 <div class="outer-shadow">
+					   <div class="shadow-white-bg">
+						  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-31" class="node node-page clearfix">
+
+  
+      
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 top-margin-header">
+<p>Procam International Ltd. ("Procam") recognizes that its visitors, users, and others who use <a href="http://www.procamrunning.in" target="_blank">www.procamrunning.in</a> value their privacy. This Privacy Notice details important information regarding the use and disclosure of user information collected on via the <a href="http://www.procamrunning.in" target="_blank">www.procamrunning.in</a> website. It provides this Privacy Notice to help you make an informed decision about whether to use or continue using <a href="http://www.procamrunning.in" target="_blank">www.procamrunning.in</a></p>
+<p>Your use of <a href="http://www.procamrunning.in" target="_blank">www.procamrunning.in</a> and any personal information you provide on <a href="http://www.procamrunning.in" target="_blank">www.procamrunning.in</a> remains subject to the terms of this Privacy Notice and our Terms &amp; Conditions elsewhere on this site.</p>
+<p>Procam is the owner of <a href="http://www.procamrunning.in">www.procamrunning.in</a> ("Website"). Procam can be contacted by mail at "Procam International Ltd., 14, St. James Court, Marine Drive, Mumbai 400 020", by phone at +91-22-2202 0284, or by e-mail at <a href="mailto://info@procam.in" target="_blank">info@procam.in</a>. This online privacy policy discloses Procam's information practices for this Website and Services (as defined below) including the type of information being collected, method of such information collection, use of such information and with sharing of such information with third parties. "Services" herein shall refer to services provided by Procam or indirectly on behalf of Procam's licensee's / marketing affiliates which encompasses the games and networking services of <a href="http://www.procamrunning.in" target="_blank">www.procamrunning.in</a> being made available over the Website, cellular phones or any other similar electronic devices and IPTV accessed through any form or medium whatsoever, including but not limited to, internet, short message services and data networks.</p>
+<h2>PLEASE READ THE FOLLOWING TERMS OF OUR PRIVACY POLICY</h2>
+<h2 class="non-top-margin">PERSONAL INFORMATION THAT MAY BE COLLECTED</h2>
+<h3>* Identifying information</h3>
+<p>In order to take advantage of certain features the Website may choose to offer including, but not limited to, quizzes, newsletters, public forums, you may be asked to complete a registration form which will provide us with personally identifiable information such as your name, email address, telephone number, physical address, gender, zip code or other information may be collected via online forms you submit to the Website. You may also be asked to choose a user ID and password in order to identify yourself during future visits to the Website.</p>
+<h3>* Information from children</h3>
+<p>Procam does not use personally identifying information collected from children for marketing or promotional purposes, and does not disclose such information to any third party for any purpose whatsoever. Procam will not collect or post information from a child under the age of 18 without the involvement of a parent or guardian.</p>
+<h3>* Blogs, chat rooms, forums and bulletin boards</h3>
+<p>If you participate in any Blog activities, Website chat room, discussion forum or post messages on the Website's bulletin board, you should be aware that the information disclosed and shared will be broadly available to other persons, both inside and/or outside of Procam, who have access to the chat rooms, forums or bulletin board. Some chat rooms, forums or bulletin boards have additional rules and conditions regarding participation. Participant's expressed opinion is his or her own and should not be considered as reflecting the opinion of Procam.</p>
+<h3>* Surveys &amp; Voting</h3>
+<p>From time to time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey.</p>
+<h3>* Links to other web sites</h3>
+<p>This Website may contain links to other web sites. Procam is not responsible for the privacy practices or the content of those other web sites.</p>
+<h3>* Cookies Information</h3>
+<p>When you visit the Website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. The Website uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Website may not function properly if the ability to accept cookies is disabled.</p>
+<h3>* Log File Information</h3>
+<p>When you use the Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.</p>
+</div>
+</div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+						</div>
+					</div>
+                                        <!-- Home Page Content Area Wrapper End -->
+					</div>
+			   </div>
+                <!-- MainContentArea > LHS-InnerPages Begin -->
+
+                <!-- MainContentArea > RHS-InnerPages Begin -->
+                <div id="RHS-InnerPages" class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<div class="white-greay-bg ad">
+                              <div class="region region-side-bar">
+    <div id="block-block-13" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="http://www.asicsindia.in/" target="_blank"><img alt="asics" class="sidebar-mob-center" src="/sites/default/files/innerpage-ad.jpg" title="asics"></a></p>
+  </div>
+</div>
+<div id="block-block-17" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="http://procamrunning.in/dare-to-run/" target="_blank"><img alt="Dare to run With Amit Sheth" class="green-border ad" src="/sites/default/files/dare-to-run-banner.jpg" width="300"></a></p>
+  </div>
+</div>
+<div id="block-block-15" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href=" http://www.jabong.com/shoes/running-shoes/?sort=price&amp;dir=desc" target="_blank"><img alt="jabong" class="ad" src="/sites/default/files/jabong-300x250.gif"></a></p>
+  </div>
+</div>
+  </div>
+						</div>	
+                        </div>
+                    </div>
+                </div>
+                <!-- Main Content Area > RHS-InnerPages End -->
+            </div>
+        </div>
+    </div>
+<!-- Main Content Area End -->
+<!-- Marthon and Subscribe Modules Begin -->
+    <div id="MarthonSubscribe" class="container-fluid top-border">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+                      <div class="region region-home-marthon-links">
+    <div id="block-block-6" class="block block-block">
+
+    
+  <div class="content">
+    <div class="row client-logos">
+<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 vertical-border-right"><a href="http://scmm.procamrunning.in/" target="_blank"><img alt="STANDARD CHARTERED MUMBAI MARATHON JAN 19, 2014" class="img-responsive" src="/sites/default/files/standard-chartered-mumbai-marathon-logo.png"></a></div>
+<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 vertical-border-right"><a href="http://adhm.procamrunning.in/" target="_blank"><img alt="AIRTEL DELHI HALF MARATHON 15 DECEMBER 2013" class="img-responsive" src="/sites/default/files/airtel-delhi-half-marathon-logo.png"></a></div>
+<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 vertical-border-right"><a href="http://tcsworld10k.procamrunning.in/" target="_blank"><img alt="TATA CONSULTANCY SERVICES WORLD 10K BANGALORE 2014" class="img-responsive" src="/sites/default/files/tata-consultancy-services-img.png"></a></div>
+<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3"><a href="http://tsk25.procamrunning.in/" target="_blank"><img alt="TATA STEEL KOLKATA 25k" class="img-responsive" src="/sites/default/files/tsk25-logo.png"></a></div>
+</div>
+  </div>
+</div>
+  </div>
+                </div>
+                <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						 						   <div class="white-greay-bg ad">
+                              <div class="region region-side-bar">
+      <div class="region region-side-bar">
+    <div id="block-block-13" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="http://www.asicsindia.in/" target="_blank"><img alt="asics" class="sidebar-mob-center" src="/sites/default/files/innerpage-ad.jpg" title="asics"></a></p>
+  </div>
+</div>
+<div id="block-block-17" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="http://procamrunning.in/dare-to-run/" target="_blank"><img alt="Dare to run With Amit Sheth" class="green-border ad" src="/sites/default/files/dare-to-run-banner.jpg" width="300"></a></p>
+  </div>
+</div>
+<div id="block-block-15" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href=" http://www.jabong.com/shoes/running-shoes/?sort=price&amp;dir=desc" target="_blank"><img alt="jabong" class="ad" src="/sites/default/files/jabong-300x250.gif"></a></p>
+  </div>
+</div>
+  </div>
+  </div>
+						   </div>
+							
+                        </div>
+					</div>	
+				   <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						 	
+                        </div>
+					</div>	
+					<div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <div class="white-greay-bg ad">
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- Marthon and Subscribe Modules End -->
+<!-- Footer Begin -->
+    <div id="Footer" class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-7 col-lg-7">
+                      <div class="region region-footer-copyright">
+    <div id="block-block-7" class="block block-block">
+
+    
+  <div class="content">
+    <p><span class="copyright">Copyright © Procam International All Rights Reserved</span></p>
+  </div>
+</div>
+  </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-5 col-lg-5">
+                    <div class="pull-right footer-link">
+                          <div class="region region-footer-links">
+    <div id="block-block-8" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="/contact-us">Contact Us</a> | <a href="/disclaimer">Disclaimer</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-use">Terms of Use</a> | <a href="/sitemap">Sitemap</a></p>
+  </div>
+</div>
+  </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- Footer End -->
+			  		<div id="social-sharing">
+			<span class="st_facebook_large" displaytext="Facebook"></span>
+			<span class="st_twitter_large" displaytext="Tweet"></span>
+			<span class="st_sharethis_large" displaytext="ShareThis"></span>
+			<span class="st_email_large" displaytext="Email"></span>
+		</div>  
+		<script type="text/javascript">var switchTo5x=true;</script>
+		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+		<script type="text/javascript">stLight.options({publisher: "a53fb944-0d30-4ea7-8bb6-f34f8bf0c252", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
+
 </body></html>
