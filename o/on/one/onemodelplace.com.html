@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onemodelplace.com privacy policy that was archived on 2014-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330172613id_/http%3A//www.onemodelplace.com/content/omp-privacy-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onemodelplace.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231030943id_/http%3A//www.onemodelplace.com/content/omp-privacy-statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="https://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# onemodelplace_dev:
                   http://ogp.me/ns/apps/onemodelplace_dev#">
@@ -34,8 +34,8 @@
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css">
 <!--[if lt IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/css/ie_style.css" /><![endif]-->
 <!--[if gte IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/css/ie8_style.css" /><![endif]-->
-<link rel="stylesheet" type="text/css" media="screen" href="http://cdn8.onemodelplace.com/uploads/all.min.css?ver=20140312">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn8.onemodelplace.com/uploads/all.min.js?ver=20140312"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="http://cdn8.onemodelplace.com/uploads/all.min.css?ver=20141210">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn8.onemodelplace.com/uploads/all.min.js?ver=20141210"></script>
 
 <style type="text/css">
   .error_border { border: 1px solid red;}
@@ -46,6 +46,13 @@
 </style>
 
 <script type="text/javascript">
+  $(function(){
+    $(document).on('dragstart', 'img', function(e) { e.preventDefault(); return false; });
+    $('iframe#popup_img_iframe').on('load', function(){
+        $(this).contents().find('img').on('dragstart', function(e) { e.preventDefault(); return false; });
+    });
+  });
+
   var preListData = false;
   var preListPromoIds = [];
   var preListPromoData = [];
@@ -122,6 +129,10 @@
   
 
   $(".country_region_pair").live('change',function() {
+
+   // fix: prevent double load regions when 'ajax load calendar' - by tab change - fix number: 111
+   $(".country_region_pair").addClass('js-prepare-ready');
+
     var val=$(this).val();
     if($(this).find('option:selected').attr('data-id')) val=$(this).find('option:selected').attr('data-id');
     var tg=$(this).attr('data-target');
@@ -203,8 +214,8 @@
 				  <div class='info'>
 					  <p class='ic _isquare isquare  on_memb'>${square}</p>
 					  <p class='ic iok _iok   on_memb'>${likeCount}</p>
-					  <p class='ic r ifav h prof ${selected}'></p>
-				  </div>
+					  				  </div>
+                  <div class="clickToUnlock" style="z-index:99;width:px;height:40px;position:absolute;top:56px;left:50px;width:60px;"></div>
 			  </div>
 		  </li>
 	  </script>
@@ -284,15 +295,13 @@
 
 
 <div id="contact_popup" class="contact_popup">
-	<div class="fav_top"></div>		
+	<div class="fav_top"></div>
 	<a class="fav_close" href="#"></a>
 	<div class="fav_in">
 		<iframe allowtransparency="true"></iframe>
-	</div>		
-	<div class="fav_bottom"></div>		
+	</div>
+	<div class="fav_bottom"></div>
 </div>
-
-
 
 <div id="new_list_popup">
 	<div class="nlp_girl"></div>
@@ -319,7 +328,7 @@
 
 
 <div id="only_member_popup" class="om_popup">
-	<div class="fav_top"></div>		
+	<div class="fav_top"></div>
 	<a class="fav_close" href="#"></a>
 	<div class="fav_in">
 		<h6>Become a member</h6>
@@ -334,22 +343,22 @@
 		</div>
 		<a href="#" class="no">THANKS, NOT NOW</a>
 		<a href="/user/register" class="reg">JOIN NOW</a>
-	</div>		
-	<div class="fav_bottom"></div>		
+	</div>
+	<div class="fav_bottom"></div>
 </div>
 
 <div id="only_adult_popup" class="om_popup">
-	<div class="fav_top"></div>		
+	<div class="fav_top"></div>
 	<a class="fav_close" href="#"></a>
 	<div class="fav_in">
-		<h6>You are too young!</h6>
+		<h6>Sorry, this image contains mature content and can only be viewed by members over the age of 18.</h6>
 
 		<div class="fav_text">
-			
+
 		</div>
-		<a href="#" class="no">Ok</a>		
-	</div>		
-	<div class="fav_bottom"></div>		
+		<a href="#" class="no">Ok</a>
+	</div>
+	<div class="fav_bottom"></div>
 </div>
 
 <div id="fav_popup" class="fav_popup">
@@ -371,7 +380,7 @@
 	<a class="fav_close" href="#"></a>
 
 	<div class="fav_in">
-		<h6>Tagged</h6>
+		<h6><div style="text-transform:none !important;font-weight:normal;width:120px;margin-left:-10px;margin-top:-7px;font-size:11px;">Credits other members involved in creating this image. Tag yourself to receive credit and a link to your portfolio.</div></h6>
 				<div class="fav_list">
 			<ul>
 				<li>
@@ -398,12 +407,12 @@
 -->
 
 <div id="fav_tooltip" class="tipA">
-	<div class="fav_text"></div>		
+	<div class="fav_text"></div>
 	<span></span>
 </div>
 
 <div id="selectarea">
-   <ul></ul> 
+   <ul></ul>
 </div>
 
 
@@ -485,8 +494,60 @@
 <div class="modal_popup_background">
 </div>
 
-  <iframe style="width: 1px; height: 1px; visibility: hidden; display: none" src="/user/session"></iframe>
+<script id="temp_rRated" type="text/x-jquery-tmpl">
+    <div class="fav_popup ldings" id="rRatedModal">
+        <div class="fav_top"></div>
+        <a href="#" class="fav_close"></a>
+        <div class="fav_in">
+            <h6>To see adult images you have to be registered user.</h6>
+            <a class="priv" href="#">Cancel</a>
+            <a class="publ" href="#">REGISTER</a>
+            <div class="fav_text">
+                Do you want to register now?            </div>
+        </div>
+        <div class="fav_bottom"></div>
+    </div>
+</script>
+<script>
+function rRatedInfo(button, event) {
+    temp = $.trim($('#temp_rRated').html());
 
+    $modal = $(temp).appendTo($('body'))
+      .css({
+        position: 'absolute', left: 0, top: 0,display: 'block','z-index': 3100
+      });
+
+    $modal.find('.priv').on('click', function (e) {
+      e.preventDefault();
+      $modal.remove();
+    });
+    $modal.find('.publ').on('click', function (e) {
+      window.location.href = '/user/register'
+      $modal.remove();
+    });
+
+    var btn = $(button);
+    off = btn.offset();
+    off.left -= 48;
+
+    if( $(button).hasClass('img_model') && event ){
+        console.log(event.pageX, event.pageY);
+        var top = event.pageY - 70;
+        off.left = event.pageX - 170;
+    } else {
+        var top = off.top - $modal.outerHeight();
+    }
+
+    $modal.css({
+      left: off.left,
+      top: top
+    })
+    //
+  }
+</script>
+
+
+  
 <div id="popup_body">
   <div class="left_pane">
     <a href="#" class="popup_arrow_left"></a>
@@ -516,7 +577,7 @@
 			<!-- TOP -->
 			<div id="top" class="clearfix">
 				<div id="logo"><a href="/"><img width="229" height="52" src="http://cdn9.onemodelplace.com/images/logo.png"></a></div>
-				<a id="choised" class="sprite_choised" href="/user/showFavorites" style="right: 460px; top: 0px; ">0</a>
+
 
 				<script type="text/javascript">
 					config.searchFile='/search_context';
@@ -542,19 +603,21 @@
 					<div class="search_bottom"></div>
 				</div>
 
-				<div id="snav" class="mytab sprite_smenu_bg" data-mytab="snav">
+
+                
+                <div id="snav" class="mytab sprite_smenu_bg" data-mytab="snav">
 
 					<ul class="ul">
-													<li class="sign ">
-								<span class="left_bg"></span>
-								<a class="thisisnottab" href="/user/register"><span class="s">SIGN UP<span class="s2"></span></span></a>
-							</li>
-							<li><a class="sprite_snav_li_bg"></a><a data-tab="4" href="#" class="login hideonclick"><span class="s">Login<span class="s2"></span></span></a></li>
-																			<li class="lang"><a class="sprite_snav_li_bg"></a><a data-tab="3" class=""><span class="s">English<span class="s2 right"></span></span></a></li>
-																	</ul>
+						<li class="sign ">
+							<span class="left_bg"></span>
+							<a class="thisisnottab" href="/user/register"><span class="s">SIGN UP<span class="s2"></span></span></a>
+						</li>
+						<li><a class="sprite_snav_li_bg"></a><a data-tab="4" href="#" class="login hideonclick"><span class="s">Login<span class="s2"></span></span></a></li>
+                        <li class="lang"><a class="sprite_snav_li_bg"></a><a data-tab="3" class=""><span class="s">English<span class="s2 right"></span></span></a></li>
+					</ul>
 				</div>
 
-
+                
 				<div class="mytab_content" data-mytab="snav">
 
 
@@ -642,8 +705,9 @@
 
 				<div id="mnav" class="mytab" data-mytab="home">
 					<ul>
-							<li><a href="/" class="thisisnottab">Home</a></li>
-              <li>
+                        <li><a href="/" class="thisisnottab">Home</a></li>
+													<li><a href="/content/membership-models.html" class="thisisnottab">Membership</a></li>
+						              <li>
                 <a href="/browse?slug=models" id="search_menu_element" class="thisisnottab ">
                   Search                </a>
                 <ul class="submenu">
@@ -682,10 +746,10 @@
 						<li><a href="/contests" class="thisisnottab">CONTESTS</a></li>
 						<li><a href="/casting-calls" class="thisisnottab">CASTING CALLS</a></li>
 						<li><a target="_blank" class="thisisnottab" href="http://blog.onemodelplace.com">Blog</a></li>
-
-
+                        
 					</ul>
-				</div>
+
+                    				</div>
 
 			</div>
 			<!-- TOP -->
@@ -835,7 +899,7 @@ practice or to opt-out of this type of advertising, you can visit* *<br>
       if (document.context) document.write ("&context=" + escape(document.context));
       if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
       document.write ("'><\/scr"+"ipt>");
-      //]]>--></script><script type="text/javascript" src="https://marketing.onemodelplace.com/openx-2.8.10/www/delivery/ajs.php?zoneid=4&amp;cb=96026114446&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20140330172613id_/http%253A//www.onemodelplace.com/content/omp-privacy-statement.html"></script><noscript><a rel="nofollow" href='http://marketing.onemodelplace.com/openx-2.8.10/www/delivery/ck.php?n=a2ed0dc0&amp;cb=876879296' target='_blank'><img src='http://marketing.onemodelplace.com/openx-2.8.10/www/delivery/avw.php?zoneid=4&amp;cb=876879296&amp;n=a2ed0dc0' border='0' alt='' /></a></noscript>
+      //]]>--></script><script type="text/javascript" src="https://marketing.onemodelplace.com/openx-2.8.10/www/delivery/ajs.php?zoneid=4&amp;cb=54625305718&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141231030943id_/http%253A//www.onemodelplace.com/content/omp-privacy-statement.html"></script><noscript><a rel="nofollow" href='http://marketing.onemodelplace.com/openx-2.8.10/www/delivery/ck.php?n=a2ed0dc0&amp;cb=1677884868' target='_blank'><img src='http://marketing.onemodelplace.com/openx-2.8.10/www/delivery/avw.php?zoneid=4&amp;cb=1677884868&amp;n=a2ed0dc0' border='0' alt='' /></a></noscript>
 							
 					</div>
 				
@@ -912,21 +976,6 @@ practice or to opt-out of this type of advertising, you can visit* *<br>
 															<li>
 								<a href="/content/membership-fan.html" target="_self">Fan Member Plans</a>		
 		</li>
-															<li>
-								<a href="https://onemodelplace.wufoo.com/forms/apply-for-a-free-fashion-designer-account/" target="_blank" rel="nofollow">Apply for a Free Fashion Designer Account</a>		
-		</li>
-															<li>
-								<a href="https://onemodelplace.wufoo.com/forms/apply-for-a-free-photographer-account-at-omp/" target="_blank" rel="nofollow">Apply for a Free Photography Account</a>		
-		</li>
-															<li>
-								<a href="https://onemodelplace.wufoo.com/forms/apply-for-a-free-hair-stylist-account/" target="_blank" rel="nofollow">Apply for a Free Hair Stylist Account</a>		
-		</li>
-															<li>
-								<a href="https://onemodelplace.wufoo.com/forms/apply-for-a-free-makeup-artist-account/" target="_blank" rel="nofollow">Apply for a Free Makeup Artist Account</a>		
-		</li>
-															<li>
-								<a href="https://onemodelplace.wufoo.com/forms/apply-for-a-free-advertiser-account/" target="_self" rel="nofollow">Apply for a Free Advertiser Account</a>		
-		</li>
 																		</ul>
 					<ul class="ulbox">
 													<li><h6>Contact</h6></li>
@@ -938,9 +987,6 @@ practice or to opt-out of this type of advertising, you can visit* *<br>
 		</li>
 															<li>
 								<a href="#" class="contact_show" data-href="/contact">FAQ</a>
-		</li>
-															<li>
-								<a href="/images/pdf/Media_Kit_of_OMP2012.pdf" target="_blank">Advertisement</a>		
 		</li>
 																		</ul>
 					<ul class="ulbox smaller">
@@ -980,8 +1026,8 @@ practice or to opt-out of this type of advertising, you can visit* *<br>
 		<div class="cbottom">
 			<!-- BOTTOM -->
 			<div class="bottom clearfix">
-					<p class="binfo">OneModelPlace.com™ Ltd. (OMP) is a Portfolio Hosting Site. The images and materials, claims and statements, expressed, implied or guaranteed by members and non-members on this site, are the sole responsibility of those individuals. All information accuracy, copyright credits, image copyrights and usage, and other forms of information are the sole responsibility of each member or poster. OneModelPlace.com™ Ltd. (OMP) does not guarantee, warrant, or confirm information posted to profile display pages or to the messages boards.</p>
-					<p class="binfo">© 1996-2014 - OneModelPlace.com™ Ltd. (OMP) - All Rights Reserved - Reproduction in part or whole without written permission is prohibited.</p>
+                <p class="binfo">OneModelPlace.com™ Ltd. (OMP) is a Portfolio Hosting Site. The images and materials, claims and statements, expressed, implied or guaranteed by members and non-members on this site, are the sole responsibility of those individuals. All information accuracy, copyright credits, image copyrights and usage, and other forms of information are the sole responsibility of each member or poster. OneModelPlace.com™ Ltd. (OMP) does not guarantee, warrant, or confirm information posted to profile display pages or to the messages boards.</p>
+                <p class="binfo">© 1996-2014 - OneModelPlace.com™ Ltd. (OMP) - All Rights Reserved - Reproduction in part or whole without written permission is prohibited. <a href="/sitemap.html">Sitemap</a></p>
 			</div>
 			<!-- BOTTOM -->
 		</div>
