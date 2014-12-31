@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627191330id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231230124id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # CB2 - Privacy Policy
 
@@ -28,11 +28,11 @@ When you shop at a CB2 store, order from our catalogs or visit us online, it is 
 
 In order to serve you better, we may at times contract with other companies (“Service Providers”) to help us process information. For instance, their assistance can help us better fulfill customer orders, manage, store and enhance customer data, and comply with postal regulations. For your security, these companies are bound by our nondisclosure agreements or other contractual arrangements to provide privacy protection for your information.
 
-We use a Service Provider to send emails that you have agreed to receive. Web cookies are used in those email messages and at our Websites to help us measure the effectiveness of those emails and for other analytical purposes. You can "opt out" of this email cookie at any time by deleting your name from the CB2 email mailing list, as detailed below.
+We use a Service Provider to send emails that you have agreed to receive. Web cookies are used in those email messages and at our Websites to help us measure the effectiveness of those emails and for other analytical purposes. You can "opt out" of this email cookie at any time by deleting your name from the Crate and Barrel email mailing list, as detailed below.
 
 We also contract with a Service Provider to help us assess visitation to our Websites. To do this, we place small pixel tags and cookies on our Websites. While these do allow our Service Provider to track your visits, the data retrieved cannot be used for any reason without our authorization. Although our Service Provider logs the information about your visit, we control how that data may and may not be used. You can opt out of this Website analysis tool by clicking here. 
 
-We contract with Service Providers to place our banner advertising on other websites. These Service Providers may collect information from us about your visits to our Websites and stores, and your interaction with our products and services. They also may use this information to tailor banner advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry-standard technology used by most major websites. Notwithstanding anything to the contrary in this Privacy Policy, personally identifiable information may be shared with our Service Provider and its service providers, including, without limitation, your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline in order to deliver banner advertisements and other advertising tailored to your interests when you visit certain websites. Our trusted Service Provider will keep this data anonymous and will not share any personally identifiable information with any other third parties. Please visit the Network Advertising Initiative (<http://www.networkadvertising.org/managing/opt_out.asp>) to learn more about the use of this information by our Service Provider or to choose limited use of this information by opting out of interest-based online advertising.
+Please visit the Network Advertising Initiative (<http://www.networkadvertising.org/managing/opt_out.asp>) or the Digital Advertising Alliance (<http://www.aboutads.info/choices/>) to learn more about the use of this information by our Service Provider or to choose limited use of this information by opting out of interest-based online advertising.
 
 ## information sharing
 
@@ -96,7 +96,7 @@ You are responsible for maintaining the confidentiality of your account and pass
 
 ## a privacy promise
 
-We support and adhere to the guidelines and practices adopted by the Direct Marketing Association’s “Privacy Promise. ” In so doing, we agree to comply with a customer ’s requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone or email.
+We support and adhere to the guidelines and practices adopted by the Direct Marketing Association's Privacy Promise and the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising. In doing so, we agree to comply with a customer's requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone, email or through online behavioral advertising.
 
 If at any time, as a customer, you believe CB2 is not committed to its Privacy Policy, please contact us. You also may contact the DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org.](mailto:mgoldberger@the-dma.org)
 
