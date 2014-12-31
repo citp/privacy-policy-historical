@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the udthemes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050347id_/http%3A//udthemes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udthemes.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231092438id_/http%3A//udthemes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - UDTHEMES
+
+This website uses cookies to log traffic and to help us provide you with a better website. By continuing to use the site you are agreeing to its use of cookies. [Read more.](http://udthemes.com/privacy/#cookies "Privacy") Close
 
 policy
 
