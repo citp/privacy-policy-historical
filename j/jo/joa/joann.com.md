@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joann.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622222956id_/http%3A//www.joann.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joann.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231161726id_/http%3A//www.joann.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,10 +61,10 @@ Back to top
 
 The Personal Information that we gather from you helps us learn about our customers, the visitors to our web site, and our potential customers. We use this Personal Information to better tailor the features, performance and support of our products, services and web site, and to offer you additional information, if you have consented to receive it.
 
-We collect Personal Information that you submit to us voluntarily to our web site or through our mobile apps in the following ways:
+We collect Personal Information that you submit to us voluntarily to our web site, through our mobile apps, or through third party websites or emails, in the following ways:
 
   * When you register and set up an account on our web site, we collect your name, postal address, and telephone number (both for billing and for shipping purposes), your account username, password, email address, and credit card information (number, type of card [Visa, MasterCard, etc.] and expiration date).
-  * When you sign up for our Preferred Customer program (either in our stores, or on our web site), we collect your email address and your postal address to send you advertisements. We also ask for additional voluntary information, such as hobbies and interests, to better provide you with relevant offerings.
+  * When you sign up to receive emails, or when you sign up for our Preferred Customer program (in our stores, on our web site, on third-party web sites, or in response to email advertisements), we collect your email address and your postal address to send you advertisements. We also ask for additional voluntary information, such as hobbies and interests, to better provide you with relevant offerings.
   * When you purchase a gift card on our web site, we collect the name of the recipient (including yourself, if you are buying the card for yourself), and either the email address and your personalized email message to the recipient, or the postal address of the recipient, depending on whether you send an electronic gift card or a physical gift card.
   * When you sign up to become an advertiser, we collect your name, company name, email address and comments you have.
   * When you contact us by email, we collect your name, email address, and any other information contained in the email that you send us.
@@ -237,6 +237,6 @@ Back to top
 
 This Privacy Policy is subject to revision and changes. If you object to any changes, you must stop doing business with us, including business on our web site. Your continued use of our web site, or your continued business with us at our retail stores, will indicate your acknowledgment of the changes and agreement to be bound by the terms and conditions of the Privacy Policy, as revised.
 
-This policy was last updated in February, 2014.
+This policy was last updated in July, 2014.
 
 Back to top
