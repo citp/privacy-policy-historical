@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624080540id_/http%3A//www.liveperson.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231195056id_/http%3A//www.liveperson.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LivePerson
+
+company
 
 Welcome to the Liveperson.com Privacy Policy. This Privacy Policy applies to you if you are a visitor of LivePerson’s corporate website at [www.liveperson.com ](http://www.liveperson.com/). This Privacy Policy also applies to you when you visit LivePerson’s social media web pages located on third-party social media websites (“LivePerson-branded social media pages”). Visitors to LivePerson’s Website and visitors to LivePerson-branded web pages on social media websites are referred to in this policy as “you” or a “LivePerson Visitor”. “You” and “LivePerson Visitor” also refers to users who communicate with LivePerson directly using LivePerson’s communication technology or other engagement technology or services (“LivePerson’s engagement technology”). This Privacy Policy applies regardless of whether you are using a computer, a mobile device or other device.
 
@@ -96,6 +98,6 @@ We recommend that you review this policy periodically, as we may update it from 
 
 **_Web browser  _**is a software program that allows a user to access, retrieve and view information on the World Wide Web. Examples of browsers include Internet Explorer, FireFox, Google Chrome and Safari.
 
-## CallOut G.3 - B - Expert Privacy Policy
+## LP Chat Block 2014
 
-## CallOut_G.3-C_customer-website-privacy
+[](https://base.liveperson.net/hc/84421077/?cmd=file&file=visitorWantsToChat&site=84421077&byhref=1&SV!skill=sales-english&SV!Origin=website)
