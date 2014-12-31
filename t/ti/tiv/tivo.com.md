@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tivo.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421054654id_/https%3A//www.tivo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tivo.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231222128id_/http%3A//www.tivo.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TiVo
+# TiVo Privacy Policy | Legal Policy
 
 Our goal is to give TiVo users the best TV-watching experience possible, and we have updated this policy so that TiVo users can better understand our treatment of their personal information.
 
