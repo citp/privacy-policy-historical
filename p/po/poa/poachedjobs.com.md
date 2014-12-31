@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poachedjobs.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627093024id_/http%3A//poachedjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poachedjobs.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231094620id_/http%3A//poachedjobs.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Restaurant Jobs - Poached Jobs
+# Privacy | Restaurant Jobs – Poached Jobs
 
 Poached (“Poached”) operates a website, Austin.PoachedJobs.com. It is Poached’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
