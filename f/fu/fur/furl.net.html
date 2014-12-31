@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the furl.net privacy policy that was archived on 2014-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140621015343id_/https%3A//www.diigo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the furl.net privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231021255id_/https%3A//www.diigo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,9 +8,13 @@
   <meta name="keywords" content="">
   <title>Diigo.com Privacy Policy</title>
   <link rel="search" type="application/opensearchdescription+xml" title="Diigo Search" href="https://www.diigo.com/search/open_search">
-  <link href="/stylesheets/v6/dist/common.css?1403021512" media="screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/v6/dist/common.css?1419961551" media="screen" rel="stylesheet" type="text/css">
   
-      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/javascripts/lib/prototype.diigo.min.js?1403021512" type="text/javascript"></script>
+      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/javascripts/lib/lib.js?1419961551" type="text/javascript"></script>
+
+      <script type="text/javascript">
+          jQuery.noConflict();
+      </script>
   
   <script type="text/javascript">
       var _GLOBAL_VAR = {};
@@ -44,7 +48,7 @@
   </script>
   
   <!--[if lt IE 8]>
-    <link href="/stylesheets/iepatch.css?1403021512" media="screen" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/iepatch.css?1419961551" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 </head>
 <body>
@@ -101,6 +105,16 @@
 
   </div><!--headerInner-->
 </div><!--header-->
+
+<div id="promptedNews" style="margin-top:5px;margin-bottom:20px;" onclick="cloasPomptedNews()">
+  <div id="promptedNewsInner" style="font-size:14px">
+    <p class="h1"> <a style="font-style:italic;color:green;font-weight: bold" target="_blank" href="http://blog.diigo.com/2014/12/04/meet-diigo-outliner-the-best-way-to-structurally-organize-your-information-and-thoughts/"><span style="color:red">New!</span> Meet Diigo Outliner – the best way to structurally organize your information and thoughts! »</a></p>
+  </div>
+</div>
+
+
+
+
 
   
   
@@ -265,6 +279,11 @@
     var _GLOBAL_VAR = _GLOBAL_VAR || {};
     _GLOBAL_VAR['my_name'] = "";
     _GLOBAL_VAR['ispremium'] = "false";
+    
+    _GLOBAL_VAR['user_permission'] = {};
+    _GLOBAL_VAR['user_permission']['pdf'] = "false"
+    _GLOBAL_VAR['user_permission']['image'] = "false"
+    
     var D_DOMAIN = ".diigo.com";
     var BOOKMARK_HOST = "https://www.diigo.com";
     var GROUP_HOST = "https://groups.diigo.com";
@@ -274,7 +293,7 @@
     var DIIGO_SECURE = "https://www.diigo.com";
     var USER_AVATAR_URI = RESOURCE_HOST+"/images/avatar/user";
 </script>
-<script src="/javascripts/v6/dist/main.min.js?1403021512" type="text/javascript"></script>
+<script src="/javascripts/v6/dist/main.min.js?1419961551" type="text/javascript"></script>
 
 <script type="text/javascript">
     function initDiigo() {
@@ -291,6 +310,20 @@
 </script>
 
 
+
+<script type="text/javascript">
+	function cloasPomptedNews(){
+		jQuery('#promptedNews').remove();
+		jQuery.ajax({
+			url:'/setting/close_notification',
+			type:'POST',
+			data: {'name':'close_diigo_outliner_news'},
+			success: function(data){
+				
+			}
+		})
+	}
+</script>
 
             <script type="text/javascript">
                 window.onscroll = function(e){
