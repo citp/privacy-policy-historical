@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630100503id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231031747id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
 
 # Ticketmaster Privacy Policy
 
@@ -78,7 +78,7 @@ To exercise your rights, you can [email us](mailto:privacy@livenation.com) or wr
 
 Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us [here](mailto:privacy@livenation.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
 
-Parents, you can also learn more about how to protect children's privacy online [here](http://business.ftc.gov/privacy-and-security/children%E2%80%99s-privacy "opens in a new window").
+Learn more about COPPA [here](http://www.business.ftc.gov/privacy-and-security/children's-privacy "opens in a new window").
 
 ## We use standard security measures.
 
