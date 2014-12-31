@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitchenwaredirect.com.au privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328004417id_/http%3A//www.kitchenwaredirect.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenwaredirect.com.au privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231214202id_/http%3A//www.kitchenwaredirect.com.au/Privacy-Policy) for the most accurate reproduction.*
 
 # Kitchenware Direct Australia - Privacy & Security Policy
 
@@ -6,13 +6,13 @@ Click to see advice about **Smart online shopping** by the [Australian Governmen
 
 Keeping your information private is something that Kitchenware Direct is absolutely committed to. We want you to visit our site regularly, with complete confidence and without any unanswered questions. We want to share our privacy policy with you so that you know _exactly_ how we gather information and what we do (and don't do) with that information. This just seems like common courtesy to us.
 
-Before we get into it, and as you probably know already, we've got a few links to other sites; that's just part and parcel of operating on the web. At any rate, Kitchenware Direct isn't responsible for the privacy practices or the content of these other web sites. The chances are excellent that you'll have no issues with them, but we can't be at all places at all times to guarantee it.
+Before we get into it, and as you probably know already, we've got a few links to other sites; that's just part and parcel of operating on the web. Kitchenware Direct isn't responsible for the privacy practices or the content of these other web sites. The chances are excellent that you'll have no issues with them, but we can't be at all places at all times to guarantee it.
 
 ## Server Logging & Web Site Cookies
 
 Each customer's computer uses an IP (Internet Protocol) address when they are online, which is logged by our server. We use your IP address to identify your web site use, assist in the ordering process, help diagnose any problems with your order and our server in general, and to gather broad demographic information such as visitor numbers.
 
-Our web site also uses cookies. Cookies are small text files a web site stores on your computer and which are used to recognise repeat customers and enhance their experience when they return to the web site, storing information about you and your preferences. Only the information that you provide, or the choices you make whilst visiting the web site can be stored in a cookie. For example, a cookie cannot determine your e-mail address unless you choose to enter it in to the appropriate field.
+Our web site also uses cookies. Cookies are small text files a web site stores on your computer and which are used to recognise repeat customers and enhance their experience when they return to the web site, storing information about you and your preferences. Only the information that you provide, or the choices you make whilst visiting the web site can be stored in a cookie. For example, a cookie cannot determine your e-mail address unless you choose to enter it into the appropriate field.
 
 Allowing a web site to create a cookie does not give the Kitchenware Direct web site or any other web site access to the rest of your computer, and only the web site that created the cookie can read it. Cookies allow you to take advantage of the best features offered by web sites. For instance we use cookies to save your login details so you don't have to re-enter it each time you visit our site. If you prefer, you can set your web browser (such as Internet Explorer) to notify you when a site is using a cookie and/or to refuse it. [Click here](http://www.cookiecentral.com/faq/) to find out more about cookies, which are a standard feature of many web sites.
 
