@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the videohive.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628033141id_/http%3A//videohive.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videohive.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231171807id_/http%3A//videohive.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | VideoHive
 
-Envato Pty Ltd ( **Envato** ) has developed this Privacy Policy (“Policy”) to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming an Envato Marketplace member and/or using the Envato Marketplace web sites ( **Sites** ), included but not limited to
+Envato Pty Ltd ( **Envato** ) has developed this Privacy Policy (“Policy”) to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming an Envato Market member and/or using the Envato Market sites ( **Sites** ), included but not limited to
 
 Site Name: | Accessible at:  
 ---|---  
@@ -15,7 +15,7 @@ VideoHive | [www.videohive.net](http://www.videohive.net/)
 3DOcean | [www.3docean.net](http://www.3docean.net/)  
 PhotoDune | [www.photodune.net](http://photodune.net/)  
   
-This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the Marketplace Terms Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the Site. 
+This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the Envato Market Terms Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the Site. 
 
 ## Information About Children
 
@@ -64,7 +64,7 @@ Please note that when you voluntarily disclose information on the bulletin board
 
 We collect information from people who use the Membership Section of our Site (“Members”). This information may be used:
 
-  1. to send news, information about our activities and general promotional material which we believe may be useful to you or us;
+  1. to send news, information about our activities and general promotional material which we believe may be useful to you or us; 
   2. to monitor who is accessing the membership section of the Site or using services offered on the Site; and
   3. to profile the type of people accessing the Site.
 
@@ -78,12 +78,12 @@ If you use a payment facilitator on the Site, we collect additional necessary in
 
 Envato will only use the information it collects through the Site for the following purposes:
 
-  * Forwarding important information relating to Envato activities and other requested information;
-  * Contacting you in response to your feedback or query to discuss our services;
-  * Monitoring Site performance;
-  * Improving our Site and services to you;
-  * Internal administration; and
-  * Other purposes that are in accordance with your instructions.
+  1. Forwarding important information relating to Envato activities and other requested information;
+  2. Contacting you in response to your feedback or query to discuss our services;
+  3. Monitoring Site performance;
+  4. Improving our Site and services to you;
+  5. Internal administration; and
+  6. Other purposes that are in accordance with your instructions.
 
 
 
@@ -102,7 +102,7 @@ No personally identifiable information is collected by these cookies. The anonym
 
 You can opt out of third party advertising cookies at any time by visiting this page: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-We (and authors who sell items on our marketplaces) use third party analytics services that use cookies to record general site usage information - like page visits and the way users move between pages on the Site. This general site analytics information is not matched to your user account.
+We (and authors who sell items on any of our Envato Market sites) use third party analytics services that use cookies to record general site usage information - like page visits and the way users move between pages on the Site. This general site analytics information is not matched to your user account.
 
 Other cookies are used to enhance your use of the Site, such as remembering that you are logged in. You are able to minimise or block cookies using the privacy settings in your internet browser, but this may restrict your use of the Site. For general information on cookies, see <http://www.allaboutcookies.org/>.
 
@@ -126,12 +126,12 @@ We may change this Policy. Such changes will be effective when a notice of the c
 
 #### OPT – OUT PROVISION
 
-To protect you from unwanted email communications, Envato adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by [contacting support](http://support.envato.com/) or follow the instructions in the “Opt-Out” section of the email you have received.
+To protect you from unwanted email communications, Envato adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by [contacting support](https://help.market.envato.com/) or follow the instructions in the “Opt-Out” section of the email you have received.
 
 If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:
 
-  1. we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;
-  2. we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for governmental or public security in the performance of their functions; or
+  1. we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure; 
+  2. we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for governmental or public security in the performance of their functions; or 
   3. we are required by law to disclose the information.
 
 
@@ -142,4 +142,4 @@ Our servers and information processing equipment are located in a number of coun
 
 #### FURTHER INFORMATION
 
-For further information about Envato’s privacy policy, please [contact support](http://support.envato.com/).
+For further information about Envato’s privacy policy, please [contact support](https://help.market.envato.com/).
