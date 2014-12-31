@@ -1,237 +1,120 @@
-<!--The following is the downloaded HTML source of the academia.edu privacy policy that was archived on 2014-01-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140115070738id_/http%3A//www.academia.edu/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the academia.edu privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231095650id_/http%3A//www.academia.edu/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" class="wf-loading"><!--
-                            /\ \                     __                        /\ \              Hand coded
-     __      ___     __     \_\ \     __    ___ ___ /\_\     __           __   \_\ \  __  __     in
-   /'__`\   /'___\ /'__`\   /'_` \  /'__`\/' __` __`\/\ \  /'__`\       /'__`\ /'_` \/\ \/\ \    the
-  /\ \_\.\_/\ \__//\ \_\.\_/\ \_\ \/\  __//\ \/\ \/\ \ \ \/\ \_\.\_  __/\  __//\ \_\ \ \ \_\ \   FiDi,
-  \ \__/.\_\ \____\ \__/.\_\ \___,_\ \____\ \_\ \_\ \_\ \_\ \__/.\_\/\_\ \____\ \___,_\ \____/   San
-   \/__/\/_/\/____/\/__/\/_/\/__,_ /\/____/\/_/\/_/\/_/\/_/\/__/\/_/\/_/\/____/\/__,_ /\/___/    Francisco,
-                                                                                                 California
-            We're hiring! See http://academia.edu/hiring or email ben@academia.edu.
---><head prefix="og: http://ogp.me/ns#
+<!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" class="wf-loading"><head prefix="og: http://ogp.me/ns#
                 fb: http://ogp.me/ns/fb#
                 academia: http://ogp.me/ns/fb/academia#">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<script id="google-jssdk" async="" src="https://apis.google.com/js/client.js?onload=loadGoogle"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a){a("./uncaught-error");try{throw new Error}catch(b){"stack"in b&&(a("./wrap-timer.js"),a("./wrap-xhr.js"),Object.defineProperty&&a("./wrap-events.js"))}},{"./uncaught-error":2,"./wrap-events.js":3,"./wrap-timer.js":5,"./wrap-xhr.js":6}],2:[function(a,b){function c(){h+=1}function d(){h>0&&(h-=1)}function e(a,b,c){return h?h-=1:f("err",[new UncaughtException(a,b,c)]),"function"==typeof i?i.apply(this,g(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var f=a("handle"),g=a("lodash._slice"),h=0;b.exports={skipNextUncaught:c,didNotThrow:d};var i=window.onerror;window.onerror=e},{handle:"4O2Y62","lodash._slice":13}],3:[function(a){function b(a){var b=a.addEventListener,f=a.removeEventListener;a.addEventListener=function(a,f,g){var h=e.apply(arguments);if(!f)return b.apply(this,h);var i=a+!!g+d(this);return f.hasOwnProperty("__nr_listened")||(f.__nr_listened={}),f.__nr_listened.hasOwnProperty(i)?void 0:(f.__nr_listened[i]=h[1]="function"==typeof f?c(f):c(f.handleEvent),b.apply(this,h))},a.removeEventListener=function(a,b,c){var d=e.apply(arguments);if(!b)return f.call(this,a,b,c);var g=0;if(this.__nr&&(g=this.__nr),!b.hasOwnProperty("__nr_listened")||!this.hasOwnProperty("__nr")&&this!==window)return f.apply(this,d);var h=a+!!c+g;return b.__nr_listened.hasOwnProperty(h)?(d[1]=b.__nr_listened[h],delete b.__nr_listened[h],f.apply(this,d)):f.apply(this,d)}}var c=a("./wrap-fn"),d=a("id"),e=Array.prototype.slice;if("addEventListener"in window&&b(window),Object.hasOwnProperty("getPrototypeOf")){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f)}},{"./wrap-fn":4,id:"SvQ0B+"}],4:[function(a,b){function c(a){function errorWrapper(){var b=!1;try{return d.skipNextUncaught(),a.apply(this,arguments)}catch(c){throw b=!0,e("err",[c,(new Date).getTime()]),c}finally{b||d.didNotThrow()}}return"function"!=typeof a?a:a._wrapped?a:(errorWrapper._wrapped=!0,errorWrapper)}var d=a("./uncaught-error"),e=a("handle");b.exports=c},{"./uncaught-error":2,handle:"4O2Y62"}],5:[function(a){function b(a){function b(a){var b=c(arguments);return"string"==typeof a&&(a=new Function(a)),b[0]=d(a),e.apply(this,b)}var e=this[a];"function"==typeof e&&(e._wrapped||(this[a]=b,b._wrapped=!0))}var c=a("lodash._slice"),d=a("./wrap-fn");b("setTimeout"),b("setInterval"),b("setImmediate")},{"./wrap-fn":4,"lodash._slice":13}],6:[function(a){function b(){var a,b,d;for(d=0;f>d;d++)a=e[d],b=this[a],b&&b.apply&&!b._wrapped&&(this[a]=c(b))}var c=a("./wrap-fn"),d=window.XMLHttpRequest,e=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"],f=e.length;window.XMLHttpRequest=function(a){var c=new d(a);return c.addEventListener("readystatechange",b,!1),c},window.XMLHttpRequest.prototype=d.prototype},{"./wrap-fn":4}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),e[a].push(b),void 0)}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],id:[function(a,b){b.exports=a("SvQ0B+")},{}],"SvQ0B+":[function(a,b){function c(a){if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!1,configurable:!1,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info,b=m.proto="http"+(a.sslForHttp?"s":"s"==l[4]?"s":"")+"://";if(a&&a.agent&&a.licenseKey&&a.applicationID){f("mark",["onload",e()]);var c=h.createElement("script");c.src=b+a.agent,h.body.appendChild(c)}}function d(){"complete"===h.readyState&&f("mark",["domContent",e()])}function e(){return(new Date).getTime()}var f=a("handle"),g=window,h=g.document,i="readystatechange",j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:e(),origin:l};h[j]?(h[j](i,d,!1),g[j]("load",c,!1)):(h[k]("on"+i,d),g[k]("onload",c)),f("mark",["firstbyte",e()])},{handle:"4O2Y62"}],13:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}]},{},["YLUGVp",1]);</script>
+    <meta charset="utf-8">
     <title>Academia.edu | Privacy</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta http-equiv="Set-Cookie" content="auvid2=ef51edeab26c9cb68be3af4dd2122e9c81b65974; domain=.academia.edu; path=/; expires=Wed, 15-Jan-2014 07:37:39 GMT">
-    <link href="//0.academia-assets.com" rel="dns-prefetch">
-    <link href="//1.academia-assets.com" rel="dns-prefetch">
-    <link href="//2.academia-assets.com" rel="dns-prefetch">
-    <link href="//3.academia-assets.com" rel="dns-prefetch">
-    <link href="//4.academia-assets.com" rel="dns-prefetch">
-    <link href="//5.academia-assets.com" rel="dns-prefetch">
-    <link href="//0.academia-assets.com/images/apple-touch-icon.png?55258192631467754d5750c6e1974484" rel="apple-touch-icon">
-    <link href="//1.academia-assets.com/images/favicon-production.ico?93a1795cbb9782fcdf11d64be7e2846d" rel="shortcut icon" type="image/vnd.microsoft.icon" %="">
+
+    <!--                 _                _                 _
+                        | |              (_)               | |
+      __ _  ___ __ _  __| | ___ _ __ ___  _  __ _   ___  __| |_   _
+     / _` |/ __/ _` |/ _` |/ _ \ '_ ` _ \| |/ _` | / _ \/ _` | | | |
+    | (_| | (_| (_| | (_| |  __/ | | | | | | (_| ||  __/ (_| | |_| |
+     \__,_|\___\__,_|\__,_|\___|_| |_| |_|_|\__,_(_)___|\__,_|\__,_|
+
+    We're hiring! See http://academia.edu/hiring or email ben@academia.edu. -->
+
     
-  <meta content="Academia.edu helps academics follow the latest research." name="description">
-<meta content="academics, universities, academia, research, Computer Science, Law, Economics, Medicine, Physics, Math, Philosophy, History, Biology, Political Science, Chemistry, English, Psychology, Geography, Religion, Earth Sciences" name="keywords">
-<meta content="bKJMBZA7E43xhDOopFZkssMMkBRjvYERV-NaN4R6mrs" name="google-site-verification">
-<meta content="internal_trackable_click=null; domain=academia.edu; path=/; expires=Thu, 01-Jan-1970 00:00:00 UTC" http-equiv="Set-Cookie">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap.js"></script><script id="google-jssdk" async="" src="https://apis.google.com/js/client.js?onload=loadGoogle"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"d6de116fa7","applicationID":"217711","transactionName":"cl5dFUEJW11QQE1GRlBFWgIcFkVYQ1MBTA==","queueTime":0,"applicationTime":624,"agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMPWEVRCQQHVVA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
 
-  <script src="//2.academia-assets.com/javascripts/require-underscore.js?c8e23b68429caf7fb4fe40e282ee008a" type="text/javascript"></script>
+    <script>$request_id = (document.cookie.match('(^|; )request_id=([^;]*)')||0)[2]</script>
+    <link href="//a.academia-assets.com/images/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="//a.academia-assets.com/images/favicon-production.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" %="">
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(
+            ['_setAccount', 'UA-2111171-1'],
+            ['_setDomainName', 'academia.edu'],
+            ['_setCustomVar', 1, 'Controller', "static", 3],
+            ['_setCustomVar', 2, 'Action', "privacy", 3],
+            ['_setCustomVar', 5, 'edge', 'unknown', 2]
+        );
+    </script>
+    <meta content="authenticity_token" name="csrf-param">
+<meta content="xsKg2GSDlYIsmXmmIEzDfwp4+xz0NytDbsEfcwP/ADI=" name="csrf-token">
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-  <script type="text/javascript">
-    window.jQuery || document.write('<script src="//3.academia-assets.com/javascripts/jquery.js?0a9b368bbdea8b756ba610b3d07a8dc7">\x3C/script>');
-  </script><script src="//3.academia-assets.com/javascripts/jquery.js?0a9b368bbdea8b756ba610b3d07a8dc7"></script>
+    
+  <meta content="Academia.edu is a place to share and follow research." name="description">
 
-  <script type="text/javascript">
+  <script>
+
       document.domain = 'academia.edu';
-      $no_document_domain = false;
-    var $rails_env = 'production';
-    var $app_rev = 'bdb311ba97e6267cdba0f447e24af26b1a3a59d5';
-    var $domain = 'academia.edu';
-    var $app_host = "academia.edu";
+      var $no_document_domain = false;
+    var $rails_env  = 'production';
+    var $app_rev    = '1b5fe9d172f03dbbfbd340c68ca6b725226d1b4e';
+    var $domain     = 'academia.edu';
+    var $app_host   = "academia.edu";
     var $asset_host = "academia-assets.com";
     var $start_time = new Date().getTime();
-    var $make_live_connection = false;
-    var $login_protocol = $.support.cors ? "https" : window.location.protocol.replace(':', '');
+
+    if (("undefined" != typeof XMLHttpRequest) && 'withCredentials' in new XMLHttpRequest()) {
+      var $login_protocol = "https";
+    } else {
+      var $login_protocol = window.location.protocol.replace(':', '');
+    }
+  </script>
+  <script>
+window.AcademiaRequire = { };
+
+window.AcademiaRequire.assetManifest = {"files":{"admin-c220267400d2d53c42fdf74e0f7a7977.js":{"logical_path":"admin.js","mtime":"2014-12-11T10:51:05-08:00","size":4072,"digest":"c220267400d2d53c42fdf74e0f7a7977"},"admin_actions-2f03a668cbc9f490cb058491beffaa72.js":{"logical_path":"admin_actions.js","mtime":"2014-12-11T18:06:59-08:00","size":4301,"digest":"2f03a668cbc9f490cb058491beffaa72"},"affiliation-8d9bab2070be5535d816b884447d4b5c.js":{"logical_path":"affiliation.js","mtime":"2014-12-04T17:18:24-08:00","size":19114,"digest":"8d9bab2070be5535d816b884447d4b5c"},"affiliation_adder_modal-d418d3f0c2d791869c22d5b91d025947.js":{"logical_path":"affiliation_adder_modal.js","mtime":"2014-12-04T17:18:24-08:00","size":359,"digest":"d418d3f0c2d791869c22d5b91d025947"},"affix-268fa474632743c587577448f8be76b1.js":{"logical_path":"affix.js","mtime":"2014-08-22T13:54:13-07:00","size":2120,"digest":"268fa474632743c587577448f8be76b1"},"analytics_dashboard-09792032b62f099b9bdac2557fe22d5d.js":{"logical_path":"analytics_dashboard.js","mtime":"2014-12-04T18:10:38-08:00","size":634125,"digest":"09792032b62f099b9bdac2557fe22d5d"},"application-742ca00a0e19e2d9137940a89f338c89.js":{"logical_path":"application.js","mtime":"2014-12-23T12:00:22-08:00","size":578940,"digest":"742ca00a0e19e2d9137940a89f338c89"},"bookmarks_list-12fff74c14aa1cdf1e3eec36e02247c5.js":{"logical_path":"bookmarks_list.js","mtime":"2014-08-11T19:05:47-07:00","size":727,"digest":"12fff74c14aa1cdf1e3eec36e02247c5"},"clamp-d2b91272d5f7e7ee7cb8051c7c6f7801.js":{"logical_path":"clamp.js","mtime":"2014-11-24T17:57:15-08:00","size":2433,"digest":"d2b91272d5f7e7ee7cb8051c7c6f7801"},"collapse-ff7a35c453969ab867a6a6964595680f.js":{"logical_path":"collapse.js","mtime":"2014-11-07T17:43:05-08:00","size":3457,"digest":"ff7a35c453969ab867a6a6964595680f"},"confirmation_banner-17cb7b9c89d719639242a354db3485fd.js":{"logical_path":"confirmation_banner.js","mtime":"2014-09-10T14:42:59-07:00","size":2192,"digest":"17cb7b9c89d719639242a354db3485fd"},"discussions-9173c6243bdb61352284c1935fcdc813.js":{"logical_path":"discussions.js","mtime":"2014-12-15T17:10:57-08:00","size":27170,"digest":"9173c6243bdb61352284c1935fcdc813"},"enter_email_form_controller-4bc5112f9a0f9874d0fd1ca2b23a3030.js":{"logical_path":"enter_email_form_controller.js","mtime":"2014-08-11T19:05:47-07:00","size":3795,"digest":"4bc5112f9a0f9874d0fd1ca2b23a3030"},"facebook_contacts-ed59e37a313ff84ada2124f3795d6f57.js":{"logical_path":"facebook_contacts.js","mtime":"2014-11-25T15:33:53-08:00","size":1708,"digest":"ed59e37a313ff84ada2124f3795d6f57"},"facebook_friend_finder_modal-2a8e74c9f58610887dee19bbc3c7f22d.js":{"logical_path":"facebook_friend_finder_modal.js","mtime":"2014-11-05T12:49:51-08:00","size":370,"digest":"2a8e74c9f58610887dee19bbc3c7f22d"},"field_counter_controller-f66ee2691855e6fbe9ffbc669fde79f9.js":{"logical_path":"field_counter_controller.js","mtime":"2014-08-11T19:05:47-07:00","size":439,"digest":"f66ee2691855e6fbe9ffbc669fde79f9"},"follow_facepile-4e2de38f0c5d907a049396d65a050d71.js":{"logical_path":"follow_facepile.js","mtime":"2014-11-18T11:27:42-08:00","size":2928,"digest":"4e2de38f0c5d907a049396d65a050d71"},"following_progress-3fbe054ad073115f0e320dd4d3af2670.js":{"logical_path":"following_progress.js","mtime":"2014-08-11T19:05:47-07:00","size":1417,"digest":"3fbe054ad073115f0e320dd4d3af2670"},"google_scholar-c12e1f37a670d03e9e43619917ff424d.js":{"logical_path":"google_scholar.js","mtime":"2014-11-10T10:41:37-08:00","size":2316,"digest":"c12e1f37a670d03e9e43619917ff424d"},"home-d5333c6a85b83b18b18f0f91994f334e.js":{"logical_path":"home.js","mtime":"2014-08-11T19:05:47-07:00","size":607,"digest":"d5333c6a85b83b18b18f0f91994f334e"},"invitation-ba528c3330c3426b3ab25ecc98f72729.js":{"logical_path":"invitation.js","mtime":"2014-08-11T19:05:47-07:00","size":1333,"digest":"ba528c3330c3426b3ab25ecc98f72729"},"invoices-20b11bfc38a089ab7f27ebcfc8a8a1e5.js":{"logical_path":"invoices.js","mtime":"2014-08-11T19:05:47-07:00","size":4162,"digest":"20b11bfc38a089ab7f27ebcfc8a8a1e5"},"job_coupon_invite-c3e2924a0e28702a9d0792209e245117.js":{"logical_path":"job_coupon_invite.js","mtime":"2014-08-11T19:05:47-07:00","size":940,"digest":"c3e2924a0e28702a9d0792209e245117"},"job_stats-1ca310dc49cb032b0047cc35376fb2e9.js":{"logical_path":"job_stats.js","mtime":"2014-08-11T19:05:47-07:00","size":554,"digest":"1ca310dc49cb032b0047cc35376fb2e9"},"jobs-d629b1d08af59a55bb5dafbcb15e3c8a.js":{"logical_path":"jobs.js","mtime":"2014-08-11T19:05:47-07:00","size":5211,"digest":"d629b1d08af59a55bb5dafbcb15e3c8a"},"journal_followings-89a14a3bd779d50b6979c1f04bfbf18d.js":{"logical_path":"journal_followings.js","mtime":"2014-08-11T19:05:47-07:00","size":6284,"digest":"89a14a3bd779d50b6979c1f04bfbf18d"},"journals-3281b3d260ed6dabc5f06e3ec37289f9.js":{"logical_path":"journals.js","mtime":"2014-12-04T17:18:24-08:00","size":487,"digest":"3281b3d260ed6dabc5f06e3ec37289f9"},"jquery.dataTables-101cba190fe7b5d68807ca40aacadbf7.js":{"logical_path":"jquery.dataTables.js","mtime":"2014-08-22T13:54:13-07:00","size":79712,"digest":"101cba190fe7b5d68807ca40aacadbf7"},"jquery.fileupload-67ae868be0af2cd48afafb3a47f4a45e.js":{"logical_path":"jquery.fileupload.js","mtime":"2014-08-11T19:05:47-07:00","size":17767,"digest":"67ae868be0af2cd48afafb3a47f4a45e"},"linkify-9b6cd16568dc8b0e7fc8997853fa6cc9.js":{"logical_path":"linkify.js","mtime":"2014-11-25T15:33:53-08:00","size":2499,"digest":"9b6cd16568dc8b0e7fc8997853fa6cc9"},"masonry-9134f284410936f211f126e9a7333b02.js":{"logical_path":"masonry.js","mtime":"2014-08-11T19:05:47-07:00","size":5268,"digest":"9134f284410936f211f126e9a7333b02"},"mini_registration-3f5dc10ec9ec12c60ae41329a8c0ca52.js":{"logical_path":"mini_registration.js","mtime":"2014-08-11T19:05:47-07:00","size":1101,"digest":"3f5dc10ec9ec12c60ae41329a8c0ca52"},"modal-10b3cf73aa413ac2ef2a3785172b0214.js":{"logical_path":"modal.js","mtime":"2014-08-11T19:05:47-07:00","size":4694,"digest":"10b3cf73aa413ac2ef2a3785172b0214"},"moderation_requests-1812014bbd5533d49b079dde48548845.js":{"logical_path":"moderation_requests.js","mtime":"2014-12-04T17:18:24-08:00","size":1771,"digest":"1812014bbd5533d49b079dde48548845"},"new_profile-2c35e8037f4d3a12ace3812394911f79.js":{"logical_path":"new_profile.js","mtime":"2014-12-29T12:36:21-08:00","size":67080,"digest":"2c35e8037f4d3a12ace3812394911f79"},"new_profile_about_box-05adcc74aad1baaea2d0c9a83d7850c3.js":{"logical_path":"new_profile_about_box.js","mtime":"2014-08-25T14:20:11-07:00","size":19301,"digest":"05adcc74aad1baaea2d0c9a83d7850c3"},"news-51040a51b67cdd69808677698f94c8d8.js":{"logical_path":"news.js","mtime":"2014-12-23T12:00:22-08:00","size":75283,"digest":"51040a51b67cdd69808677698f94c8d8"},"panel-07f940bc6f8dfc720a613bae0e18c8f7.js":{"logical_path":"panel.js","mtime":"2014-08-11T19:05:47-07:00","size":1288,"digest":"07f940bc6f8dfc720a613bae0e18c8f7"},"payment_coupons-f7c98d884323e1dac0e2f6e7e44b9fc3.js":{"logical_path":"payment_coupons.js","mtime":"2014-08-11T19:05:47-07:00","size":3399,"digest":"f7c98d884323e1dac0e2f6e7e44b9fc3"},"popup_affiliation-6595bc350bdd3d82d78ee75ca7a9138c.js":{"logical_path":"popup_affiliation.js","mtime":"2014-08-11T19:05:47-07:00","size":1173,"digest":"6595bc350bdd3d82d78ee75ca7a9138c"},"preferences-66caeb7066fa938221f53d610bebd516.js":{"logical_path":"preferences.js","mtime":"2014-12-29T12:36:21-08:00","size":3592,"digest":"66caeb7066fa938221f53d610bebd516"},"profile_view_counts-97ad8f6d365040cb88ee3023880ccb44.js":{"logical_path":"profile_view_counts.js","mtime":"2014-11-07T17:43:05-08:00","size":1140,"digest":"97ad8f6d365040cb88ee3023880ccb44"},"publisher_box-ce2d87a3fa1876afdc19651835510479.js":{"logical_path":"publisher_box.js","mtime":"2014-08-11T19:05:47-07:00","size":2256,"digest":"ce2d87a3fa1876afdc19651835510479"},"reader-36913b3b5fdfb63673cc14b88b8952f2.js":{"logical_path":"reader.js","mtime":"2014-08-11T19:05:47-07:00","size":1753,"digest":"36913b3b5fdfb63673cc14b88b8952f2"},"recent_activity-9644cb9b9dea7ee43675ac0a6128f8a9.js":{"logical_path":"recent_activity.js","mtime":"2014-11-07T17:43:05-08:00","size":2202,"digest":"9644cb9b9dea7ee43675ac0a6128f8a9"},"registration_uploader-467c222fd1eef0a02a891d62a6685d62.js":{"logical_path":"registration_uploader.js","mtime":"2014-12-17T21:26:47-08:00","size":12857,"digest":"467c222fd1eef0a02a891d62a6685d62"},"repo-8958b9aac9cf71a45eae4f9955badfb0.js":{"logical_path":"repo.js","mtime":"2014-08-11T19:05:47-07:00","size":25745,"digest":"8958b9aac9cf71a45eae4f9955badfb0"},"reports_controller-9928c7d04c215514ab87df06b12f662c.js":{"logical_path":"reports_controller.js","mtime":"2014-12-11T18:06:59-08:00","size":1200,"digest":"9928c7d04c215514ab87df06b12f662c"},"request_upload-528bf7aa85790c4ca9ca591c0ec275d7.js":{"logical_path":"request_upload.js","mtime":"2014-12-04T17:18:24-08:00","size":3278,"digest":"528bf7aa85790c4ca9ca591c0ec275d7"},"scribd-b07b44caea575501f97db92ff9bf2911.js":{"logical_path":"scribd.js","mtime":"2014-11-10T15:48:29-08:00","size":3979,"digest":"b07b44caea575501f97db92ff9bf2911"},"scrollspy-a7c9bc505a3fd75c407f90449954216c.js":{"logical_path":"scrollspy.js","mtime":"2014-11-07T17:43:05-08:00","size":2363,"digest":"a7c9bc505a3fd75c407f90449954216c"},"search-80dcb61ab646793e34666cb2146173a3.js":{"logical_path":"search.js","mtime":"2014-12-11T13:18:45-08:00","size":4364,"digest":"80dcb61ab646793e34666cb2146173a3"},"select2-8a17b61383a12628586e559f6f81e3e3.js":{"logical_path":"select2.js","mtime":"2014-08-11T19:05:47-07:00","size":47516,"digest":"8a17b61383a12628586e559f6f81e3e3"},"session_modal-366a0010d5f85b5895fb8cb671310693.js":{"logical_path":"session_modal.js","mtime":"2014-12-11T13:18:45-08:00","size":4900,"digest":"366a0010d5f85b5895fb8cb671310693"},"single_work-e53c72d5f635c96589ddcd707e71e58e.js":{"logical_path":"single_work.js","mtime":"2014-12-23T12:00:22-08:00","size":27329,"digest":"e53c72d5f635c96589ddcd707e71e58e"},"social-756efc96eba00dd336dec9211f97d764.js":{"logical_path":"social.js","mtime":"2014-08-28T19:04:48-07:00","size":609,"digest":"756efc96eba00dd336dec9211f97d764"},"standalone_research_interests-7d30a94cad6248af495a27f3cd5b8dcb.js":{"logical_path":"standalone_research_interests.js","mtime":"2014-08-11T19:05:47-07:00","size":2257,"digest":"7d30a94cad6248af495a27f3cd5b8dcb"},"tab-6049570724a1710e71d79a0717022913.js":{"logical_path":"tab.js","mtime":"2014-12-03T18:55:18-08:00","size":1369,"digest":"6049570724a1710e71d79a0717022913"},"tags-9858b6e188e1f828f350b71b6720d464.js":{"logical_path":"tags.js","mtime":"2014-11-17T17:20:15-08:00","size":10672,"digest":"9858b6e188e1f828f350b71b6720d464"},"twitter-cf1307982b295d0b5a5720695632f488.js":{"logical_path":"twitter.js","mtime":"2014-08-11T19:05:47-07:00","size":572,"digest":"cf1307982b295d0b5a5720695632f488"},"work_creator-fe365afc1abe885b15edbfee48abfc20.js":{"logical_path":"work_creator.js","mtime":"2014-12-29T12:37:39-08:00","size":63916,"digest":"fe365afc1abe885b15edbfee48abfc20"},"works-48b086553bd7f791f46c3b1282848044.js":{"logical_path":"works.js","mtime":"2014-12-23T12:00:22-08:00","size":97978,"digest":"48b086553bd7f791f46c3b1282848044"},"world_paper_search-fe4debd762237ca0d7d4156985649170.js":{"logical_path":"world_paper_search.js","mtime":"2014-12-17T21:26:47-08:00","size":7140,"digest":"fe4debd762237ca0d7d4156985649170"},"wysihtml5-e7cd27ec3b14fe2d5b8bc287cb31f9f3.js":{"logical_path":"wysihtml5.js","mtime":"2014-08-11T19:05:47-07:00","size":118315,"digest":"e7cd27ec3b14fe2d5b8bc287cb31f9f3"},"academia_buttons-c2ca22f0a00d1bc984b487706272e751.css":{"logical_path":"academia_buttons.css","mtime":"2014-11-07T17:43:05-08:00","size":454,"digest":"c2ca22f0a00d1bc984b487706272e751"},"admin_content-84db94486832327ca38094604167f36f.css":{"logical_path":"admin_content.css","mtime":"2014-12-23T12:00:22-08:00","size":23905,"digest":"84db94486832327ca38094604167f36f"},"analytics_dashboard-10991c592425054540ecc54a8083c9f1.css":{"logical_path":"analytics_dashboard.css","mtime":"2014-12-10T18:10:00-08:00","size":19090,"digest":"10991c592425054540ecc54a8083c9f1"},"application-560b9e9115df80db5ac2c2629092b01f.css":{"logical_path":"application.css","mtime":"2014-12-29T12:37:39-08:00","size":230461,"digest":"560b9e9115df80db5ac2c2629092b01f"},"application_v2-a5897277b866386532f5193f925dbfe0.css":{"logical_path":"application_v2.css","mtime":"2014-12-29T12:36:21-08:00","size":216906,"digest":"a5897277b866386532f5193f925dbfe0"},"base-13713295facb93d1d91ac29f62e2e914.css":{"logical_path":"base.css","mtime":"2014-12-29T12:36:21-08:00","size":153029,"digest":"13713295facb93d1d91ac29f62e2e914"},"documents-27552abe1cb9d0098a47c6433714540c.css":{"logical_path":"documents.css","mtime":"2014-12-29T12:36:21-08:00","size":8606,"digest":"27552abe1cb9d0098a47c6433714540c"},"email_preview-188b0abfd23f264f8fcfb3cf3042aff8.css":{"logical_path":"email_preview.css","mtime":"2014-12-23T12:00:22-08:00","size":19407,"digest":"188b0abfd23f264f8fcfb3cf3042aff8"},"mailer-495b29916206a9159175e645005c619b.css":{"logical_path":"mailer.css","mtime":"2014-12-23T12:00:22-08:00","size":4913,"digest":"495b29916206a9159175e645005c619b"},"new_mailer-def495ad23b2c27e0579315fc3c04f8b.css":{"logical_path":"new_mailer.css","mtime":"2014-12-23T12:00:22-08:00","size":3090,"digest":"def495ad23b2c27e0579315fc3c04f8b"},"reader-198b998da3f46e8d6d4887fd7aed17aa.css":{"logical_path":"reader.css","mtime":"2014-11-07T17:43:05-08:00","size":3282,"digest":"198b998da3f46e8d6d4887fd7aed17aa"},"reports-188b0abfd23f264f8fcfb3cf3042aff8.css":{"logical_path":"reports.css","mtime":"2014-12-23T12:00:22-08:00","size":19407,"digest":"188b0abfd23f264f8fcfb3cf3042aff8"},"static-e9bd1dd6e8375e08a727c29e5f5e6f44.css":{"logical_path":"static.css","mtime":"2014-12-29T12:36:21-08:00","size":3621,"digest":"e9bd1dd6e8375e08a727c29e5f5e6f44"},"stories-df6382c1908aa59f12729179b14935a7.css":{"logical_path":"stories.css","mtime":"2014-12-10T18:10:00-08:00","size":2858,"digest":"df6382c1908aa59f12729179b14935a7"},"ui_kit-4833859fc316bafc8b4e032418f3f733.css":{"logical_path":"ui_kit.css","mtime":"2014-12-29T12:36:21-08:00","size":218168,"digest":"4833859fc316bafc8b4e032418f3f733"},"user_admin-0d1b3b222430f072f0c58c6fdd1ddc80.css":{"logical_path":"user_admin.css","mtime":"2014-11-18T11:27:42-08:00","size":391,"digest":"0d1b3b222430f072f0c58c6fdd1ddc80"},"zurb_ink-a948c9d5dd90708fc7ebd2bafaf92ef5.css":{"logical_path":"zurb_ink.css","mtime":"2014-08-22T13:54:13-07:00","size":11092,"digest":"a948c9d5dd90708fc7ebd2bafaf92ef5"},"bootstrap/glyphicons-halflings-regular-bc8170c310c2275efe889869ca0c783c.eot":{"logical_path":"bootstrap/glyphicons-halflings-regular.eot","mtime":"2014-08-12T13:44:42-07:00","size":20335,"digest":"bc8170c310c2275efe889869ca0c783c"},"bootstrap/glyphicons-halflings-regular-dc4aaf68a9da615a31dfa47b0c6c3d39.svg":{"logical_path":"bootstrap/glyphicons-halflings-regular.svg","mtime":"2014-08-12T13:44:42-07:00","size":62927,"digest":"dc4aaf68a9da615a31dfa47b0c6c3d39"},"bootstrap/glyphicons-halflings-regular-2c7f862dbc822190219c5b876cc828cb.ttf":{"logical_path":"bootstrap/glyphicons-halflings-regular.ttf","mtime":"2014-08-12T13:44:42-07:00","size":41280,"digest":"2c7f862dbc822190219c5b876cc828cb"},"bootstrap/glyphicons-halflings-regular-f02bec45eb818c5a45d50ac39de01803.woff":{"logical_path":"bootstrap/glyphicons-halflings-regular.woff","mtime":"2014-08-12T13:44:42-07:00","size":23320,"digest":"f02bec45eb818c5a45d50ac39de01803"},"work_creator-45c326c6f6d774904b3a7e44df29cd59.js":{"logical_path":"work_creator.js","mtime":"2014-12-29T12:40:03-08:00","size":63913,"digest":"45c326c6f6d774904b3a7e44df29cd59"},"work_creator-9824a9fe09007b9cdaf93e06734c3fbc.js":{"logical_path":"work_creator.js","mtime":"2014-12-29T14:40:46-08:00","size":63978,"digest":"9824a9fe09007b9cdaf93e06734c3fbc"}},"assets":{"admin.js":"admin-c220267400d2d53c42fdf74e0f7a7977.js","admin_actions.js":"admin_actions-2f03a668cbc9f490cb058491beffaa72.js","affiliation.js":"affiliation-8d9bab2070be5535d816b884447d4b5c.js","affiliation_adder_modal.js":"affiliation_adder_modal-d418d3f0c2d791869c22d5b91d025947.js","affix.js":"affix-268fa474632743c587577448f8be76b1.js","analytics_dashboard.js":"analytics_dashboard-09792032b62f099b9bdac2557fe22d5d.js","application.js":"application-742ca00a0e19e2d9137940a89f338c89.js","bookmarks_list.js":"bookmarks_list-12fff74c14aa1cdf1e3eec36e02247c5.js","clamp.js":"clamp-d2b91272d5f7e7ee7cb8051c7c6f7801.js","collapse.js":"collapse-ff7a35c453969ab867a6a6964595680f.js","confirmation_banner.js":"confirmation_banner-17cb7b9c89d719639242a354db3485fd.js","discussions.js":"discussions-9173c6243bdb61352284c1935fcdc813.js","enter_email_form_controller.js":"enter_email_form_controller-4bc5112f9a0f9874d0fd1ca2b23a3030.js","facebook_contacts.js":"facebook_contacts-ed59e37a313ff84ada2124f3795d6f57.js","facebook_friend_finder_modal.js":"facebook_friend_finder_modal-2a8e74c9f58610887dee19bbc3c7f22d.js","field_counter_controller.js":"field_counter_controller-f66ee2691855e6fbe9ffbc669fde79f9.js","follow_facepile.js":"follow_facepile-4e2de38f0c5d907a049396d65a050d71.js","following_progress.js":"following_progress-3fbe054ad073115f0e320dd4d3af2670.js","google_scholar.js":"google_scholar-c12e1f37a670d03e9e43619917ff424d.js","home.js":"home-d5333c6a85b83b18b18f0f91994f334e.js","invitation.js":"invitation-ba528c3330c3426b3ab25ecc98f72729.js","invoices.js":"invoices-20b11bfc38a089ab7f27ebcfc8a8a1e5.js","job_coupon_invite.js":"job_coupon_invite-c3e2924a0e28702a9d0792209e245117.js","job_stats.js":"job_stats-1ca310dc49cb032b0047cc35376fb2e9.js","jobs.js":"jobs-d629b1d08af59a55bb5dafbcb15e3c8a.js","journal_followings.js":"journal_followings-89a14a3bd779d50b6979c1f04bfbf18d.js","journals.js":"journals-3281b3d260ed6dabc5f06e3ec37289f9.js","jquery.dataTables.js":"jquery.dataTables-101cba190fe7b5d68807ca40aacadbf7.js","jquery.fileupload.js":"jquery.fileupload-67ae868be0af2cd48afafb3a47f4a45e.js","linkify.js":"linkify-9b6cd16568dc8b0e7fc8997853fa6cc9.js","masonry.js":"masonry-9134f284410936f211f126e9a7333b02.js","mini_registration.js":"mini_registration-3f5dc10ec9ec12c60ae41329a8c0ca52.js","modal.js":"modal-10b3cf73aa413ac2ef2a3785172b0214.js","moderation_requests.js":"moderation_requests-1812014bbd5533d49b079dde48548845.js","new_profile.js":"new_profile-2c35e8037f4d3a12ace3812394911f79.js","new_profile_about_box.js":"new_profile_about_box-05adcc74aad1baaea2d0c9a83d7850c3.js","news.js":"news-51040a51b67cdd69808677698f94c8d8.js","panel.js":"panel-07f940bc6f8dfc720a613bae0e18c8f7.js","payment_coupons.js":"payment_coupons-f7c98d884323e1dac0e2f6e7e44b9fc3.js","popup_affiliation.js":"popup_affiliation-6595bc350bdd3d82d78ee75ca7a9138c.js","preferences.js":"preferences-66caeb7066fa938221f53d610bebd516.js","profile_view_counts.js":"profile_view_counts-97ad8f6d365040cb88ee3023880ccb44.js","publisher_box.js":"publisher_box-ce2d87a3fa1876afdc19651835510479.js","reader.js":"reader-36913b3b5fdfb63673cc14b88b8952f2.js","recent_activity.js":"recent_activity-9644cb9b9dea7ee43675ac0a6128f8a9.js","registration_uploader.js":"registration_uploader-467c222fd1eef0a02a891d62a6685d62.js","repo.js":"repo-8958b9aac9cf71a45eae4f9955badfb0.js","reports_controller.js":"reports_controller-9928c7d04c215514ab87df06b12f662c.js","request_upload.js":"request_upload-528bf7aa85790c4ca9ca591c0ec275d7.js","scribd.js":"scribd-b07b44caea575501f97db92ff9bf2911.js","scrollspy.js":"scrollspy-a7c9bc505a3fd75c407f90449954216c.js","search.js":"search-80dcb61ab646793e34666cb2146173a3.js","select2.js":"select2-8a17b61383a12628586e559f6f81e3e3.js","session_modal.js":"session_modal-366a0010d5f85b5895fb8cb671310693.js","single_work.js":"single_work-e53c72d5f635c96589ddcd707e71e58e.js","social.js":"social-756efc96eba00dd336dec9211f97d764.js","standalone_research_interests.js":"standalone_research_interests-7d30a94cad6248af495a27f3cd5b8dcb.js","tab.js":"tab-6049570724a1710e71d79a0717022913.js","tags.js":"tags-9858b6e188e1f828f350b71b6720d464.js","twitter.js":"twitter-cf1307982b295d0b5a5720695632f488.js","work_creator.js":"work_creator-9824a9fe09007b9cdaf93e06734c3fbc.js","works.js":"works-48b086553bd7f791f46c3b1282848044.js","world_paper_search.js":"world_paper_search-fe4debd762237ca0d7d4156985649170.js","wysihtml5.js":"wysihtml5-e7cd27ec3b14fe2d5b8bc287cb31f9f3.js","academia_buttons.css":"academia_buttons-c2ca22f0a00d1bc984b487706272e751.css","admin_content.css":"admin_content-84db94486832327ca38094604167f36f.css","analytics_dashboard.css":"analytics_dashboard-10991c592425054540ecc54a8083c9f1.css","application.css":"application-560b9e9115df80db5ac2c2629092b01f.css","application_v2.css":"application_v2-a5897277b866386532f5193f925dbfe0.css","base.css":"base-13713295facb93d1d91ac29f62e2e914.css","documents.css":"documents-27552abe1cb9d0098a47c6433714540c.css","email_preview.css":"email_preview-188b0abfd23f264f8fcfb3cf3042aff8.css","mailer.css":"mailer-495b29916206a9159175e645005c619b.css","new_mailer.css":"new_mailer-def495ad23b2c27e0579315fc3c04f8b.css","reader.css":"reader-198b998da3f46e8d6d4887fd7aed17aa.css","reports.css":"reports-188b0abfd23f264f8fcfb3cf3042aff8.css","static.css":"static-e9bd1dd6e8375e08a727c29e5f5e6f44.css","stories.css":"stories-df6382c1908aa59f12729179b14935a7.css","ui_kit.css":"ui_kit-4833859fc316bafc8b4e032418f3f733.css","user_admin.css":"user_admin-0d1b3b222430f072f0c58c6fdd1ddc80.css","zurb_ink.css":"zurb_ink-a948c9d5dd90708fc7ebd2bafaf92ef5.css","bootstrap/glyphicons-halflings-regular.eot":"bootstrap/glyphicons-halflings-regular-bc8170c310c2275efe889869ca0c783c.eot","bootstrap/glyphicons-halflings-regular.svg":"bootstrap/glyphicons-halflings-regular-dc4aaf68a9da615a31dfa47b0c6c3d39.svg","bootstrap/glyphicons-halflings-regular.ttf":"bootstrap/glyphicons-halflings-regular-2c7f862dbc822190219c5b876cc828cb.ttf","bootstrap/glyphicons-halflings-regular.woff":"bootstrap/glyphicons-halflings-regular-f02bec45eb818c5a45d50ac39de01803.woff"}};
+
+window.AcademiaRequire.reqIgnoredScripts = [];
+</script>
+
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <![endif]-->
+
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,400italic,700">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//a.academia-assets.com/assets/application_v2-a5897277b866386532f5193f925dbfe0.css" media="all" rel="stylesheet">
+  <script src="//a.academia-assets.com/assets/application-742ca00a0e19e2d9137940a89f338c89.js"></script>
+
+    <script src="//cdn.ravenjs.com/1.1.15/jquery,native/raven.min.js"></script>
+
+    <script>
+      if ("undefined" != typeof Raven) {
+        Raven.config('https://530c6d33a0de4ebfb124b47975ef405c@app.getsentry.com/27953', {
+          whitelistUrls: ['academia.edu','academia-assets.com']
+        }).install();
+
+        if (("undefined" != typeof $current_user) && $current_user.id) {
+          Raven.setUser({ id: $current_user.id });
+        }
+      }
+    </script>
+  <script>
+    _gaq.push(['_setCustomVar', 3, 'logged_in', "" + ("undefined" != typeof $current_user), 2]);
     window.Sizzle = $.find;
+
+    jade.split = Academia.split;
+    jade.helpers = window.$h;
   </script>
 
-
-  <link href="//1.academia-assets.com/stylesheets/core.css?9d17568bfa8a460a921eb4f6d3528ac1" media="all" rel="stylesheet" type="text/css">
-<link href="//2.academia-assets.com/stylesheets/documents.css?177603f40e732b46f0b42e057430fe4e" media="all" rel="stylesheet" type="text/css">
-<link href="//0.academia-assets.com/stylesheets/base.css?0a87a4283ce777a1bc1e57e708e4023c" media="all" rel="stylesheet" type="text/css"><link href="//2.academia-assets.com/stylesheets/static.css?2069e42edf9eba4ec6b878e3078192a6" media="screen" rel="stylesheet" type="text/css">
-
-  <script src="//0.academia-assets.com/javascripts/core.js?5c602b088db0bc6d977fa75f57efbea4" type="text/javascript"></script>
-
-  <script type="text/javascript">
-    function loadTypekit() {
-      var config = {
-    kitId: 'tpo8fgy',
-    scriptTimeout: 3000
-};
-var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
-
-    }
-
-    if ($a.is_logged_in() || !false) {
-        loadTypekit();
-    }
-  </script>
-
-  <script type="text/javascript">
-    (function () {
-        var digest_map = 
-{
-"/javascripts/academia_sharing.js":"//1.academia-assets.com/javascripts/academia_sharing.js?964f4b28ad44e5895ef1b938e8294a9d",
-"/javascripts/admin.js":"//3.academia-assets.com/javascripts/admin.js?d4c3a62a6fddef74424ad88368577357",
-"/javascripts/admin_actions.js":"//3.academia-assets.com/javascripts/admin_actions.js?7db58eb93c7e19f5db3fb0f927a0997f",
-"/javascripts/affiliation.js":"//1.academia-assets.com/javascripts/affiliation.js?b10a60fe3f16f860a6c7704268258191",
-"/javascripts/analytics.js":"//2.academia-assets.com/javascripts/analytics.js?ae64061ed5b8428b36f9c289a1f40472",
-"/javascripts/backbone.js":"//3.academia-assets.com/javascripts/backbone.js?8c079265eb8ee1b5082ad917ff0203ab",
-"/javascripts/complete_department.js":"//3.academia-assets.com/javascripts/complete_department.js?600ccf96b2c060df45c13f1c0b881a8f",
-"/javascripts/core.js":"//0.academia-assets.com/javascripts/core.js?5c602b088db0bc6d977fa75f57efbea4",
-"/javascripts/d3.js":"//3.academia-assets.com/javascripts/d3.js?3d9462e26cf0d0d54173cac85cb16b6f",
-"/javascripts/d3_stats.js":"//2.academia-assets.com/javascripts/d3_stats.js?6f02b9da28df65d12ab73f6eaabf3ad6",
-"/javascripts/enter_email_form_controller.js":"//3.academia-assets.com/javascripts/enter_email_form_controller.js?0073929478cd56c55c3b8b2b4d1567bf",
-"/javascripts/field_counter_controller.js":"//0.academia-assets.com/javascripts/field_counter_controller.js?501c1d39096249bcc3ed0fde3b708b0c",
-"/javascripts/follow_facepile.js":"//3.academia-assets.com/javascripts/follow_facepile.js?63bc6ed357ccb30a0798c57d6c280797",
-"/javascripts/google_scholar.js":"//2.academia-assets.com/javascripts/google_scholar.js?cf9adfaaca6272066d197a2fbdcc9096",
-"/javascripts/graphael.js":"//3.academia-assets.com/javascripts/graphael.js?9f4720286da713e3a721fe3356000bfb",
-"/javascripts/highcharts-2.1.9.js":"//3.academia-assets.com/javascripts/highcharts-2.1.9.js?996356197b6515e06d824d1dd5e3d883",
-"/javascripts/highcharts.js":"//3.academia-assets.com/javascripts/highcharts.js?1be0eb6b81e51dd4535969385eaed73f",
-"/javascripts/home.js":"//0.academia-assets.com/javascripts/home.js?d1c3d9fcec4a51ddeccef46a43526518",
-"/javascripts/invitation.js":"//2.academia-assets.com/javascripts/invitation.js?a19b6ad21ec9b20151aced16019624e6",
-"/javascripts/invoices.js":"//1.academia-assets.com/javascripts/invoices.js?885a03678d215b042d0cc1c1fc8d9905",
-"/javascripts/job_coupon_invite.js":"//1.academia-assets.com/javascripts/job_coupon_invite.js?806d382a791d01e014753e80fc37c1e9",
-"/javascripts/job_stats.js":"//1.academia-assets.com/javascripts/job_stats.js?af420031ca7a7efaf7164a07c800f099",
-"/javascripts/jobs.js":"//1.academia-assets.com/javascripts/jobs.js?f3596ac5d2179860aa639240ada23dd1",
-"/javascripts/journal_followings.js":"//0.academia-assets.com/javascripts/journal_followings.js?bfb7ead5589d6054426a39bc8079b6a8",
-"/javascripts/journals.js":"//0.academia-assets.com/javascripts/journals.js?cb0b4552d7bf8c90d0fbcf3a3c12ea74",
-"/javascripts/jquery.dataTables.js":"//2.academia-assets.com/javascripts/jquery.dataTables.js?dba560e8698f3f735c6f1c0e13907942",
-"/javascripts/jquery.fileupload.js":"//2.academia-assets.com/javascripts/jquery.fileupload.js?33729452d03e179f4cc0911ff4ffa8b2",
-"/javascripts/jquery.js":"//3.academia-assets.com/javascripts/jquery.js?0a9b368bbdea8b756ba610b3d07a8dc7",
-"/javascripts/jquery.pjax.js":"//1.academia-assets.com/javascripts/jquery.pjax.js?3d5f4802e6f491d5caded2ea1deda745",
-"/javascripts/jquery.ui.js":"//0.academia-assets.com/javascripts/jquery.ui.js?d14a1915795f23caf64475a2db6d11d0",
-"/javascripts/jquery.vector-map.js":"//2.academia-assets.com/javascripts/jquery.vector-map.js?ce5351172d5a8a65eb9e46045c93b542",
-"/javascripts/like.js":"//0.academia-assets.com/javascripts/like.js?3f060cc0e3bc092aa6a2518e436f7098",
-"/javascripts/masonry.js":"//2.academia-assets.com/javascripts/masonry.js?a016f1daf23fc4e7ed940dd616c70e06",
-"/javascripts/messages.js":"//0.academia-assets.com/javascripts/messages.js?c36f0cf5543c01ebc5446cc0c2c59314",
-"/javascripts/mini_registration.js":"//0.academia-assets.com/javascripts/mini_registration.js?7ba979f8e43db86c97fd7f7a339a3ec8",
-"/javascripts/multi_uploader.js":"//2.academia-assets.com/javascripts/multi_uploader.js?2cb31f8e37b62f7fea682c373e9ce19e",
-"/javascripts/new_profile.js":"//1.academia-assets.com/javascripts/new_profile.js?81ba92c832d8095d33471e91d8764ce9",
-"/javascripts/new_profile_about_box.js":"//2.academia-assets.com/javascripts/new_profile_about_box.js?ed1df27513b0a68b521f615877feb8fa",
-"/javascripts/news.js":"//2.academia-assets.com/javascripts/news.js?b19ceea0581352baba2b93c5b01a0736",
-"/javascripts/panel.js":"//0.academia-assets.com/javascripts/panel.js?db9a4fe559eaa273e00af41215058de4",
-"/javascripts/panels.js":"//2.academia-assets.com/javascripts/panels.js?b81265ead03872538ab2090e8ef92ede",
-"/javascripts/payment_coupons.js":"//1.academia-assets.com/javascripts/payment_coupons.js?ca42f42c3d4f2fda74ac80308f418509",
-"/javascripts/popup_affiliation.js":"//1.academia-assets.com/javascripts/popup_affiliation.js?c1d3e8d682959aaa273318e6955616c9",
-"/javascripts/presence.js":"//2.academia-assets.com/javascripts/presence.js?7379a37bfbecac6b5b76416bcdab1bba",
-"/javascripts/publisher_box.js":"//1.academia-assets.com/javascripts/publisher_box.js?43be00b2f0ef1d83ffe503d06b2707cd",
-"/javascripts/questions.js":"//0.academia-assets.com/javascripts/questions.js?f5c479164eeb59907ea162b560154c24",
-"/javascripts/questions_controller.js":"//3.academia-assets.com/javascripts/questions_controller.js?a144b409a2835e639a770b7337405e5b",
-"/javascripts/qunit.js":"//1.academia-assets.com/javascripts/qunit.js?08b8676950eabd36ae0f19083eeff745",
-"/javascripts/raphael.js":"//3.academia-assets.com/javascripts/raphael.js?555acfa103b2daf3eff53500607c7397",
-"/javascripts/reader.js":"//3.academia-assets.com/javascripts/reader.js?defb58b406159b7844d61f2cc27796b7",
-"/javascripts/repo.js":"//3.academia-assets.com/javascripts/repo.js?9ae06c31c5e5b6f16329fe4fbdc37463",
-"/javascripts/reports.js":"//2.academia-assets.com/javascripts/reports.js?63d9b2cee38df28c2f747783a862b39e",
-"/javascripts/reports_controller.js":"//1.academia-assets.com/javascripts/reports_controller.js?1cb8e7faa6378823d5a38753b5935c45",
-"/javascripts/request_upload.js":"//0.academia-assets.com/javascripts/request_upload.js?4a76814ed6cf62fd2df5a202e4057d38",
-"/javascripts/require-underscore.js":"//2.academia-assets.com/javascripts/require-underscore.js?c8e23b68429caf7fb4fe40e282ee008a",
-"/javascripts/scribd.js":"//0.academia-assets.com/javascripts/scribd.js?4d2589a0eb8c7b15ae946d63991df7e4",
-"/javascripts/select2.js":"//2.academia-assets.com/javascripts/select2.js?84148fa2dfb0cc71e6de1b979ff7009e",
-"/javascripts/shared/form_builder.js":"//1.academia-assets.com/javascripts/shared/form_builder.js?21561140a9788e03ff2a331c95b302bd",
-"/javascripts/shared/popover_widget.js":"//0.academia-assets.com/javascripts/shared/popover_widget.js?59fe4716412a3d288355b9144d3c3b80",
-"/javascripts/shared/uploader.js":"//1.academia-assets.com/javascripts/shared/uploader.js?d6a3acde57ee4d82fddc7052f95d11a5",
-"/javascripts/single_work.js":"//0.academia-assets.com/javascripts/single_work.js?70c039772360412d31512b336c0b6e54",
-"/javascripts/social.js":"//2.academia-assets.com/javascripts/social.js?d0e52a0d8a46972d5d3f1485150276f6",
-"/javascripts/standalone_research_interests.js":"//3.academia-assets.com/javascripts/standalone_research_interests.js?bc70954efff7022bda325e5b77bf4ed3",
-"/javascripts/suggested_users.js":"//2.academia-assets.com/javascripts/suggested_users.js?5908cf364ffacd2581c375ec2e55f466",
-"/javascripts/tags.js":"//1.academia-assets.com/javascripts/tags.js?81f3a88b9aa9a54c954432b2a229aa19",
-"/javascripts/tests.js":"//0.academia-assets.com/javascripts/tests.js?cfe588727345fec0c42232456ef4b090",
-"/javascripts/tooltip.js":"//0.academia-assets.com/javascripts/tooltip.js?34098f08e1a3abe606b8159f65390240",
-"/javascripts/twitter.js":"//3.academia-assets.com/javascripts/twitter.js?c29ab227eb755a397f957350951e922b",
-"/javascripts/uikit.js":"//3.academia-assets.com/javascripts/uikit.js?1602f47e58e4dfb4236adcf563c60fe7",
-"/javascripts/works.js":"//3.academia-assets.com/javascripts/works.js?9b16f1c5375ece5047d2e38cb478b0e7",
-"/javascripts/world_paper_search.js":"//0.academia-assets.com/javascripts/world_paper_search.js?59346352987a13d259a5aaeb6d444740",
-"/javascripts/wysihtml5.js":"//1.academia-assets.com/javascripts/wysihtml5.js?e44d75867435d6ab1b0e6c9545bf97b1"
-}
-;
-
-        if ($rails_env == 'development') {
-            var query_string     = null,
-                subdomain_number = '0';
-        } else {
-            var query_string     = $app_rev,
-                subdomain_number = parseInt($app_rev.substring(0, 10), 16) % 6;
-        }
-
-        var convert_to_asset_url = function (asset_name) {
-            if (asset_name.match(/^(https?:)?\/\//)) {
-                return asset_name;
-            }
-
-            var name = "";
-            if (asset_name[0] == "/") {
-                name = asset_name;
-            } else {
-                name = "/javascripts/" + asset_name + ".js";
-            }
-
-            if ($rails_env != 'development' && digest_map[name]) {
-                return digest_map[name];
-            } else {
-                return ('//' + subdomain_number + '.' +
-                    $asset_host + name + '?' + query_string);
-            }
-        }
-
-        window.req = function (deps, cb) {
-            if (!_.isArray(deps)) { deps = [deps] };
-
-            deps = _.reject(deps, function (str) {
-                return _.include(req.ignored, str);
-            });
-
-            require(_.map(deps, convert_to_asset_url), cb);
-        };
-
-        window.req.ignored = [];
-
-        window.req_and_ready = function (deps, cb) {
-            req(deps, function () { $(cb); });
-        };
-    })();
-  </script>
+  
 
   </head>
 <!--[if lt IE 7 ]>
-  <body class='ie ie6 c-static a-privacy'>
+  <body class='ie ie6 c-static a-privacy logged_out white'>
 <![endif]-->
 <!--[if IE 7 ]>
-  <body class='ie ie7 c-static a-privacy'>
-  <link rel="stylesheet" href="//0.academia-assets.com/stylesheets/font-awesome-ie7.css">
+  <body class='ie ie7 c-static a-privacy logged_out white'>
+  <link rel="stylesheet" href="//a.academia-assets.com/stylesheets/font-awesome-ie7.css">
 <![endif]-->
 <!--[if IE 8 ]>
-  <body class='ie ie8 c-static a-privacy'>
+  <body class='ie ie8 c-static a-privacy logged_out white'>
 <![endif]-->
 <!--[if gte IE 9 ]>
-  <body class='ie ie9 c-static a-privacy'>
+  <body class='ie ie9 c-static a-privacy logged_out white'>
 <![endif]-->
 <!--[if !(IE) ]><!-->
-  <body class="c-static a-privacy">
+  <body class="c-static a-privacy logged_out white"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 <!--<![endif]-->
 
-      <script>
-    // This doesn't wait for document.ready to avoid pop-in.
-    if ($a.is_logged_in())
-      $("body").addClass("logged_in");
-    else
-      $("body").addClass("logged_out");
-
-    $(function(){
-      $("head").append('<link href="'+window.location.protocol+'//2.academia-assets.com/stylesheets/icons.css?1c7f451c71bfa8075c6c9010caa9dbce" media="screen" rel="stylesheet" type="text/css" />');
-      if (!$a.is_logged_in() && false)
-        loadTypekit();
-    });
-  </script>
-  
+      
 
     
 <div id="fb-root"></div>
@@ -323,238 +206,241 @@ if (!window.defer_google) {
 
 
 
-  
+    <!--[if lte IE 8]><div id="upgrade_ie_banner"><div id="update_prompt"><a href="http://www.academia.edu/what_browser"><div class="button dark-grey upgrade_browser">Upgrade Now</div></a><p>You're using an out of date version of Internet Explorer.</p><p class="small">To <a href="http://www.academia.edu/what_browser">browse Academia.edu and the wider internet faster and more securely</a>, please take a few seconds to <a href="http://www.academia.edu/what_browser">upgrade your browser</a>.</p></div></div><![endif]-->
 
-
-  <div id="site" class="fixed">
-
-        <div id="header">
-
-  <div id="logo">
-    <a href="http://www.academia.edu/"><img alt="" class="2x" src="//3.academia-assets.com/images/academia-logo.gif?e52a522c1699692ebb7025faa9f5e183"></a>
-  </div>
-
-  <div id="navigation">
-      <ul id="logged_out_nav"><li><a href="http://www.academia.edu/" id="nav_home">Home</a></li><li><a href="http://www.academia.edu/login" id="nav_log_in">Log In</a></li><li><a href="http://www.academia.edu/signup" id="nav_sign_up">Sign Up</a></li></ul>
-  </div>
-
-  
-
-  <form accept-charset="UTF-8" action="http://www.academia.edu/people/search" id="new_search_box_form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>    <input type="text" name="q" value="Search People, Research Interests and Universities" id="new_search_field" class="magic-default">
-    <div id="top_search_loader">
-      <span class="tip">Type to search for People, Research Interests and Universities</span>
-
-      <div id="top_search_loader_gif"><img alt="" src="//1.academia-assets.com/images/loaders/search-spinner.gif?55e4403df983f33e19cd512103a11e71"><br>Searching...</div>
+  <div id="header_container">
+        
+  <div class="main-header white-header bootstrap">
+  <div class="container">
+    <a class="brand-logo pull-left" href="http://www.academia.edu/">
+        <img alt="Black academia logo" src="//a.academia-assets.com/images/black-academia-logo.png">
+</a>
+    <div class="nav-wrapper">
+      <ul class="nav-links pull-right list-unstyled">
+          <li><a class="light" href="http://www.academia.edu/login" id="nav_log_in">Log In</a></li>
+          <li><a class="light" href="http://www.academia.edu/signup">Sign Up</a></li>
+      </ul>
+      <div class="nav-search-wrapper">
+        <form accept-charset="UTF-8" action="http://www.academia.edu/people/search" class="nav-search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>          <span class="nav-search-input-wrapper">
+            <input type="text" name="q" placeholder="Search..." class="nav-search-input search-box"><i class="fa fa-search"></i>
+          </span>
+</form>
+        <div class="nav-search-prompt">
+          <span class="tip">Type to search for People, Research Interests and Universities</span>
+          <div class="nav-search-loader"><img alt="Search spinner" src="//a.academia-assets.com/images/loaders/search-spinner.gif"><br>Searching...</div>
+        </div>
+      </div>
     </div>
-</form></div>
+  </div>
+</div>
 
+<script type="text/javascript">
 
-    <div id="content" class="clearfix">
-          
+  window.navigation = new NavigationController({
+    elements: {
+    navigation_container: '.nav-links',
+    normal_container: '#normal_notifications',
+    notification_container: '.nav-links .notification_container',
+    notification_counter: '.nav-links .notification_counter',
+    account_link: '.nav-links .my_account',
+    account_menu: '.nav-links #my_account_menu'
+    },
+    ios: false,
+    nav_open: false  });
 
+  window.autocomplete_search = new AutocompleteSearch();
+  window.autocomplete_search.bind();
+</script>
 
+  </div>
 
-  <div id="page_header">
+  <div id="site">
+    <div id="content">
+        <div id="page_header" class="static-page-header-background">
   <h1>Privacy Policy</h1>
 </div>
 
-<div id="topic_top_nav">
-  &nbsp;
-</div>
+<div class="bootstrap">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="static-page-padded-content no-reset">
 
-<div class="padded_content no-reset">
+        <p>Academia, Inc. (“<strong>Academia.edu</strong>” or “<strong>we</strong>”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of  <a href="http://www.academia.edu">academia.edu</a> (this “<strong>Site</strong>”).  This Privacy Policy applies only to information that you provide to us through this Site.  This Privacy Policy may be updated from time to time.&nbsp; We will notify you of any material changes by posting the new Privacy Policy on the Site.  You are advised to consult this policy regularly for any changes.  Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our  <a href="http://www.academia.edu/terms">Terms of Use</a>.</p>
+        <p>As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.</p>
 
-  <p>Academia, Inc. (“<strong>Academia.edu</strong>” or “<strong>we</strong>”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of  <a href="http://www.academia.edu">academia.edu</a> (this “<strong>Site</strong>”).  This Privacy Policy applies only to information that you provide to us through this Site.  This Privacy Policy may be updated from time to time.&nbsp; We will notify you of any material changes by posting the new Privacy Policy on the Site.  You are advised to consult this policy regularly for any changes.  Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our  <a href="http://www.academia.edu/terms">Terms of Use</a>.</p>
-  <p>As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.</p>
+        <br>
+        <p><strong>Information Collection and Use by Academia.edu</strong></p>
+        <p>Our primary goals in collecting information are to provide and improve our Site, services, features and content, to administer your membership (together, the “<strong>Academia.edu Service</strong>”)  and to enable users to enjoy and easily navigate the Site.</p>
 
-  <br>
-  <p><strong>Information Collection and Use by Academia.edu</strong></p>
-  <p>Our primary goals in collecting information are to provide and improve our Site, services, features and content, to administer your membership (together, the “<strong>Academia.edu Service</strong>”)  and to enable users to enjoy and easily navigate the Site.</p>
+        <p><u>Personally Identifiable Information</u></p>
+        <ul>
+          <li>When you register with us through the Site to become an Academia.edu Member or when you choose to create your own profile webpage we will ask you for personally identifiable information.  This refers to information about you that can be used to contact or identify you (“<strong>Personal Information</strong>”).  Personal Information may include, but is not limited to, your name, email address, telephone number, home and business postal addresses, age, research interests, gender, education and occupation.  We use your Personal Information to provide the Academia.edu Service and administer your inquiries.</li>
+          <li>Academia.edu also collects other information that you provide as part of registration and the administration and personalization of your profile webpage (e.g., without limitation, zip code (on its own) and individual preferences) (“<strong>Non-Identifying Information</strong>”).</li>
+          <li>We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Academia.edu Service, complete your transactions and administer your inquiries.</li>
+          <li>Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example,&nbsp;combining your zip code with your street address)&nbsp;in a way that enables you to be identified.  But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example,&nbsp;your viewing preferences).  We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Academia.edu Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Academia.edu Service and to analyze and understand how our Site and Academia.edu Service are used.   We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.</li>
+          <li>We also use your Personal Information to contact you with Academia.edu updates, newsletters, marketing or promotional materials and other information that may be of interest to you.  If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “user preferences” information. (See “<strong>Changing or Deleting Information,</strong>” below.)</li>
+        </ul>
 
-  <p><u>Personally Identifiable Information</u></p>
-  <ul>
-    <li>When you register with us through the Site to become an Academia.edu Member or when you choose to create your own profile webpage we will ask you for personally identifiable information.  This refers to information about you that can be used to contact or identify you (“<strong>Personal Information</strong>”).  Personal Information may include, but is not limited to, your name, email address, telephone number, home and business postal addresses, age, research interests, gender, education and occupation.  We use your Personal Information to provide the Academia.edu Service and administer your inquiries.</li>
-    <li>Academia.edu also collects other information that you provide as part of registration and the administration and personalization of your profile webpage (e.g., without limitation, zip code (on its own) and individual preferences) (“<strong>Non-Identifying Information</strong>”).</li>
-    <li>We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Academia.edu Service, complete your transactions and administer your inquiries.</li>
-    <li>Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example,&nbsp;combining your zip code with your street address)&nbsp;in a way that enables you to be identified.  But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example,&nbsp;your viewing preferences).  We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Academia.edu Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Academia.edu Service and to analyze and understand how our Site and Academia.edu Service are used.   We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.</li>
-    <li>We also use your Personal Information to contact you with Academia.edu updates, newsletters, marketing or promotional materials and other information that may be of interest to you.  If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “user preferences” information. (See “<strong>Changing or Deleting Information,</strong>” below.)</li>
-  </ul>
+        <br>
+        <p><u>Log Data.</u> When you visit the Site, whether as an Academia.edu Member or a non-registered user just browsing (any of these, an “Academia.edu User”), our servers automatically record information that your browser sends whenever you visit a website (“Log Data”).  This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics.  We use this information to monitor and analyze use of the Site and the Academia.edu Service and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs.  For example, some of this information is collected so that when you visit the Site again, it will recognize you and serve advertisements and other information appropriate to your interests.  We also use this information to verify that visitors to the Site meet the criteria required to process their requests.  We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.</p>
 
-  <br>
-  <p><u>Log Data.</u> When you visit the Site, whether as an Academia.edu Member or a non-registered user just browsing (any of these, an “Academia.edu User”), our servers automatically record information that your browser sends whenever you visit a website (“Log Data”).  This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics.  We use this information to monitor and analyze use of the Site and the Academia.edu Service and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs.  For example, some of this information is collected so that when you visit the Site again, it will recognize you and serve advertisements and other information appropriate to your interests.  We also use this information to verify that visitors to the Site meet the criteria required to process their requests.  We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.</p>
-
-  <br>
-  <p><strong>Invitations Via an Academia.edu Account</strong></p>
-  <p>As part of the Academia.edu Service, Academia.edu Members can invite non-registered friends to join the Academia.edu Service by sending invitation emails through use of their Accounts via our automated invitation system. Academia.edu stores the email addresses that Members provide only for the purposes of sending the invitations, adding respondents to the colleagues list of the Member who sent the invitation, and sending reminders of the invitations (up to three (3) per email address).  Recipients of invitations from Academia.edu Members may contact Academia.edu at  <script type="text/javascript">
+        <br>
+        <p><strong>Invitations Via an Academia.edu Account</strong></p>
+        <p>As part of the Academia.edu Service, Academia.edu Members can invite non-registered friends to join the Academia.edu Service by sending invitation emails through use of their Accounts via our automated invitation system. Academia.edu stores the email addresses that Members provide only for the purposes of sending the invitations, adding respondents to the colleagues list of the Member who sent the invitation, and sending reminders of the invitations (up to three (3) per email address).  Recipients of invitations from Academia.edu Members may contact Academia.edu at  <script type="text/javascript">
 /* <![CDATA[ */
 (function (){var kode=
-"kode=\"nrgh@%rnhg_%@@{ghnr,\\u0000+fghFrduFkrpiuj1lqwu@V{.;>45.@,f?3+fli6>"+
-",0+lDwghFrdufkh1rg@n~f.,l.k>jwhq1oghnrl?3>l@u+ir*>@*>{_%__/A--/@37zntmrkk4"+
-"uj.qGzgxink4ujEqzntmrkk4ujBq.o~1kCuj3q33x3____o/z.xGng4ijkqu/117.oGzgxink4"+
-"ujCq~1/\\u0001C8o1/A37zntmrkk4uj.qoB6AoCx.lu-AC-A~C(j~qk/u3333__x.__jiIkgu"+
-"Ixunlsmxo4ztCx~Y>17A18/CBi.6oi9l/A.3GojzIkguixknu4Cj\\u0001q1io/n1mAkz4tjr"+
-"qkou6BoAxCl.-uCAA-D~b(200C2:6q}pwnu7nmxt1}J{jql7nmxtHq}pwnu7nmxtEr14\\u000"+
-"1Fnmxt6666bbr{}2{1qJ7jmltn2x441:Jrj}l{nqx7Fm\\u0001t243433__xF__r;246D}:wq"+
-"upnnx71mrt9ErD{Fo10xFDD0D\\u0001e+j+E2mG78r~nnjjjvIm3:x3____jlrIyl+\\u007F"+
-"G{een~jevmm7lrInlj\\u007Fj:I33__x{__Cj}rryvxeu+joe{e)FnbqEj1+e}n{r7\\u0000"+
-"w}vnl~mx+Fnmxt(Cjbqk(ukCuj__q@_%ghnr>_%rnhgn@gr1hsvlo+w**1,huhyvu+h1,rmql*"+
-"+,*%>{@**>iru+l@3>l?+nrgh1ohqjwk04,>l.@5,~{.@nrgh1fkduDw+l.4,.nrgh1fkduDw+"+
-"l,\\u0000nrgh@{.+l?nrgh1ohqjwkBnrgh1fkduDw+nrgh1ohqjwk04,=**,>\";x='';for("+
-"i=0;i<kode.length;i++){c=kode.charCodeAt(i)-3;if(c<0)c+=128;x+=String.from"+
-"CharCode(c)}kode=x"
+"kode=\";)'':)1-htgnel.edok(tArahc.edok?htgnel.edok<i(+x=edok})i(tArahc.edo"+
+"k+)1+i(tArahc.edok=+x{)2=+i;)1-htgnel.edok(<i;0=i(rof;''=x;\\\";'):'1)h-gt"+
+"en.ldekot(rAha.cdekoh?gten.ldekoi<+(=xdeko)}(iAtarche.od+k1)i+t(rAha.cdeko"+
+"+={x2)+=;i1)h-gten.ldeko<(;i=0(ior;f''x=\\\"\\\\;)''(nioj.)(esrever.)''(ti"+
+"lps.edok=edok\\\\\\\\\\\"\\\\o;ek\\\"\\\\d=\\\\\\\\\\\\\\\\ou\\\\\\\\edtcw"+
+"mine.\\\\\\\\rt\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\(<\\\\\\\\ "+
+"arhfe\\\\\\\\=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\"+
+"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\m\\\\\\\\iatl:orpvica@"+
+"ycadameaie.\\\\\\\\d\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\>\\\\"+
+"\\\\\\\\\\\\u\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\p\\\\\\\\irav"+
+"yca@acedim.ade<ua/\\\\\\\\>)\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\"+
+"\\;\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\x\\\\\\\\';;=o'(f=r;i<0kid(.oeeglhn1t;-"+
+"+)2i{=+)kxd=.oherctaiA1(++o)ekcda.Ah(r)tkid}=o+eixk(d<.oeeglhnktd?.ohercta"+
+"kAd(.oeeglhn1t:-');'=)\\\\\\\\\\\"\\\\edok=\\\"\\\\deko\\\"=edok\";kode=ko"+
+"de.split('').reverse().join('')"
 ;var i,c,x;while(eval(kode));})();
 /* ]]> */
 </script><a href="mailto:privacy@academia.edu">privacy@academia.edu</a> to request the removal of their email address from our database.</p>
 
-  <br>
-  <p><strong>Use of Cookies</strong></p>
-  <p>Like many websites, Academia.edu uses “cookies” to collect information.  A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes.  We use cookies for two purposes.  First, we utilize persistent cookies to save your registration ID and login password for future logins to the Site.  Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Academia.edu Users and web traffic routing on the Site.  Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Academia.edu Service and then close your browser.</p>
-  <p>We do not link the information we store in cookies to any Personal Information. You may be able to instruct your browser, by changing its options, to accept or reject all or some cookies, or to prompt you before accepting a cookie from the websites you visit.  Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.  If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.  Please note that third party advertisers on the Site may also place or read cookies on your browser.</p>
+        <br>
+        <p><strong>Use of Cookies</strong></p>
+        <p>Like many websites, Academia.edu uses “cookies” to collect information.  A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes.  We use cookies for two purposes.  First, we utilize persistent cookies to save your registration ID and login password for future logins to the Site.  Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Academia.edu Users and web traffic routing on the Site.  Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Academia.edu Service and then close your browser.</p>
+        <p>We do not link the information we store in cookies to any Personal Information. You may be able to instruct your browser, by changing its options, to accept or reject all or some cookies, or to prompt you before accepting a cookie from the websites you visit.  Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.  If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.  Please note that third party advertisers on the Site may also place or read cookies on your browser.</p>
 
-  <br>
-  <p><strong>Phishing</strong></p>
-  <p>Identity theft and the practice currently known as “phishing” are of great concern to Academia.edu.  Safeguarding information to help protect you from identity theft is a top priority.  We do not and will not, at any time, request your credit card information, your account ID, login password or national identification numbers in a non-secure or unsolicited e-mail or telephone communication For more information about phishing, visit the Federal Trade Commission’s website.</p>
+        <br>
+        <p><strong>Phishing</strong></p>
+        <p>Identity theft and the practice currently known as “phishing” are of great concern to Academia.edu.  Safeguarding information to help protect you from identity theft is a top priority.  We do not and will not, at any time, request your credit card information, your account ID, login password or national identification numbers in a non-secure or unsolicited e-mail or telephone communication For more information about phishing, visit the Federal Trade Commission’s website.</p>
 
-  <br>
-  <p><strong>Information Sharing and Disclosure</strong></p>
+        <br>
+        <p><strong>Information Sharing and Disclosure</strong></p>
 
-  <p>Academia.edu Members.  We will display your Personal Information in your profile page which may be publicly available on the Site and elsewhere on the Site according to the preferences you set in your account.  Any information you choose to provide should reflect how much you want other Academia.edu Users to know about you.  We recommend that you guard your anonymity and sensitive information and we encourage Academia.edu Members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time. Please be aware that whenever you voluntarily post information to journals, weblogs, message boards, classifieds or any other public online forums that information can be accessed by the public and can then be used to send you unsolicited communications.
+        <p>Academia.edu Members.  We will display your Personal Information in your profile page which may be publicly available on the Site and elsewhere on the Site according to the preferences you set in your account.  Any information you choose to provide should reflect how much you want other Academia.edu Users to know about you.  We recommend that you guard your anonymity and sensitive information and we encourage Academia.edu Members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time. Please be aware that whenever you voluntarily post information to journals, weblogs, message boards, classifieds or any other public online forums that information can be accessed by the public and can then be used to send you unsolicited communications.
 
-  </p><p><u>Aggregate Information and Non-Identifying Information.</u></p>
+        </p><p><u>Aggregate Information and Non-Identifying Information.</u></p>
 
-  <p>We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.</p>
+        <p>We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.</p>
 
-  <p><u>Service Providers.</u> We may employ third party companies and individuals to facilitate our Academia.edu Service, to provide the Academia.edu Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and Academia.edu Service are used.  These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
+        <p><u>Service Providers.</u> We may employ third party companies and individuals to facilitate our Academia.edu Service, to provide the Academia.edu Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and Academia.edu Service are used.  These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
 
-  <p><u>Compliance with Laws and Law Enforcement.</u> Academia.edu cooperates with government and law enforcement officials and private parties to enforce and comply with the law.  We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Academia.edu or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.</p>
+        <p><u>Compliance with Laws and Law Enforcement.</u> Academia.edu cooperates with government and law enforcement officials and private parties to enforce and comply with the law.  We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Academia.edu or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.</p>
 
-  <p><u>Business Transfers.</u> Academia.edu may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.</p>
+        <p><u>Business Transfers.</u> Academia.edu may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.</p>
 
-  <p>Academia.edu will notify you before transferring your information to a new entity as part of a merger, acquisition, reorganization or sale of some or all of its assets&nbsp;if the new entity's processing&nbsp;of your information will materially differ from that set forth in this Privacy Policy.</p>
+        <p>Academia.edu will notify you before transferring your information to a new entity as part of a merger, acquisition, reorganization or sale of some or all of its assets&nbsp;if the new entity's processing&nbsp;of your information will materially differ from that set forth in this Privacy Policy.</p>
 
-  <br>
-  <p><strong>Links to Other Sites</strong></p>
-  <p>Academia.edu contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website.  The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices.  We do not exercise control over third party websites.  These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you.  Other sites follow different rules regarding the use or disclosure of the personal information you submit to them.  We encourage you to read the privacy policies or statements of the other websites you visit.  Our privacy policy only governs information collected on Academia.edu.</p>
+        <br>
+        <p><strong>Links to Other Sites</strong></p>
+        <p>Academia.edu contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website.  The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices.  We do not exercise control over third party websites.  These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you.  Other sites follow different rules regarding the use or disclosure of the personal information you submit to them.  We encourage you to read the privacy policies or statements of the other websites you visit.  Our privacy policy only governs information collected on Academia.edu.</p>
 
-  <br>
-  <p><strong>Correcting/Updating or Removing Information</strong></p>
-  <p>All Academia.edu Members may review, update, modify or remove any of their Personal Information in their profile page at any time by logging into their Account and accessing features such as Edit Profile and Account Info.   If you completely delete all such information, then your Account may become deactivated.  If you would like us to delete your record in our system, please contact us at <script type="text/javascript">
-/* <![CDATA[ */
-(function (){var kode=
-"kode=\";)'':)1-htgnel.edok(tArahc.edok?htgnel.edok<i(+x=edok})i(tArahc.edo"+
-"k+)1+i(tArahc.edok=+x{)2=+i;)1-htgnel.edok(<i;0=i(rof;''=x;\\\")''n(oi.j()"+
-"seerev.r')('itpl.sdekoe=od;kk\\\"\\\\do=e\\\\\\\\\\\"\\\\rnhg%@nrgh%_u@kq("+
-"jxC~mnl}v\\\\\\\\wu\\\\\\\\0000r7n{+}j1qEn)F{+ojeuvxry}rCj{\\\\\\\\\\\\\\"+
-"\\0u70_Fl_x33:IIjljmnvrj7nm~e+Gy{r\\\\\\\\ju\\\\\\\\00F7__3l:xI3lImjvjjnnr"+
-"~78mGE2j(+~D-AACu-.lCxAoB6uokqrjt4zkAm1n/oi1\\\\\\\\\\\\\\\\0u00q1jC4unkxi"+
-"ugkIzjoG3.A/l9io6.iBC/81A71>Y~xCtz4oxmslnuxIugkIij_./_x3333qujkC%_{~*>>@r*"+
-"+i@u>l?3rlhnogq1wh>j.k,lf.n~g@1rkhufrdhFwglD0+>,i6fl3+f?@,5.>4.;V{u@qw1luj"+
-"pikruFrdhFfg\\\\\\\\+u\\\\\\\\0000r,hn{g%@{>*@>*ri+u@l>3?ln+gr1hhojqkw40>,"+
-".l5@~,.{n@gr1hkfudwDl+4..,rnhgf1dkDu+w,l\\\\\\\\\\\\\\\\0u00n0gr@h.{l+n?gr"+
-"1hhojqkwnBgr1hkfudwDn+gr1hhojqkw40=,**>,\\\\\\\\\\\"\\\\x;'=;'of(r=i;0<iok"+
-"edl.netg;h+i)+c{k=do.ehcraoCedtAi(-);3fic(0<c)=+21;8+xS=rtni.grfmohCraoCed"+
-"c(})okedx==\\\"\\\\deko\\\"=edok\";kode=kode.split('').reverse().join('')"
-;var i,c,x;while(eval(kode));})();
-/* ]]> */
-</script><a href="mailto:privacy@academia.edu">privacy@academia.edu</a> a request that we delete your Personal Information from our database.  We will use commercially reasonable efforts to honor your request.  We may retain an archived copy of your records as required by law or for legitimate business purposes.</p>
-
-  <br>
-  <p><strong>Security</strong></p>
-  <p>Academia.edu is very concerned with safeguarding your information.  We use reasonable physical, technological, and administrative security measures to protect Member information and attempt to ensure they are applicable under the circumstances.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.&nbsp; Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.</p>
-  <p>We will make any legally required disclosures of any  breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.  For additional information about the security measures we use on Academia.edu, please contact us at  <script type="text/javascript">
+        <br>
+        <p><strong>Correcting/Updating or Removing Information</strong></p>
+        <p>All Academia.edu Members may review, update, modify or remove any of their Personal Information in their profile page at any time by logging into their Account and accessing features such as Edit Profile and Account Info.   If you completely delete all such information, then your Account may become deactivated.  If you would like us to delete your record in our system, please contact us at <script type="text/javascript">
 /* <![CDATA[ */
 (function (){var kode=
 "kode=\"oked\\\"=rnhg%@uqkj(C/A--/@37zntmrkk4uj.qGzgxink4ujEqzntmrkk4ujBq.o"+
 "~1kCuj_q3x33/3.oGzgxink4uj1q7/o1z.xGng4ijkqu1C\\\\~0u00/1C8o1/A37zntmrkk4u"+
-"j.qoB6AoCx.lu-AC-A~(b-/t-u.4o.py/kkkx4|-x./o-vz4rjyqkkuuCAjqq(bbbujkCbbbb("+
-"bbbA/bbbbbbbbbbbb(bbbDg5B{jk4goskjgigu\\\\00F7gFoiv|bxbbDb(bbbbbbbbbbbbbbb"+
-"bbbbbbbbb{bbkbgjs4joikFgigu\\\\00F7g|oxv@uzrogsbbbbbbbbbbbb(bbbbbbbbbbbbbb"+
-"bbbbbClkxn&gBbbbbbbbbbbbb(bbb.kzox}4ztks{iu(bbbAjbbbbqujkCqujk4yvroz.--/4x"+
-"k|kxyk./4puot.--/bCb(jbqkbuC(jkquA(uqkjqCju4kvyor.z--4/kxk|yx.k4/upto-./->"+
-"%@{**i>url+3@l>n?gr1hhojqkwl>..~,@frnhgf1dkFugrDh+w,l60l>+i?f,3.f4@;5{>@.w"+
-"Vlujqi1ruFpdkFugr+h,fu\\\\0000rnhg{@;\\\"=x''f;roi(0=i;k<do.eelgnhti;++{)="+
-"cokedc.ahCrdoAe(t)i3-i;(f<c)0+c1=82x;=+tSirgnf.orCmahCrdo(e)ck}do=ex\";x='"+
-"';for(i=0;i<(kode.length-1);i+=2){x+=kode.charAt(i+1)+kode.charAt(i)}kode="+
-"x+(i<kode.length?kode.charAt(kode.length-1):'');"
+"j.qoB6AoCx.lu-AC-A~(bA/--@/73nzmtkr4kjuq.zGxgni4kjuqEnzmtkr4kjuqBo.1~Ckjux"+
+"_3333oqz/x.nG4gjiqk/u11.7Gogzixknu4Cj~q/1u\\\\00108C1oA/73nzmtkr4kjuq.BoA6"+
+"Co.xulA--C~Ab/b(-b.-otpu/4k.xy|kxk/4--z.royvk4ujCqjkqubAb(jbbibbsbtu4{xkzz"+
+".}bobbkb(bbbbbbbbgbbnbkB&_xCbbbbblbbbbbbbbbbbbbbbbb(bbbbgbbbbbsrouzv@oxgu"+
+"\\\\00F7g|gikFoi4jjsbgbbkbb{bbbbbbbbb(bbbbbbbbbbbbDbbxbb|bivFoigu\\\\00F7g"+
+"jgskgok4{j5BDbbbbbgb(bbbbAbbbbb/Cbbbb(bbbjkqubCb(jbqkbuC(jkquA(uqkjqCju4kv"+
+"yor.z--4/kxk|yx.k4/upto-./->%@{**i>url+3@l>n?gr1hhojqkwl>..~,@frnhgf1dkFug"+
+"rDh+w,l60l>+i?f,3.f4@;5{>@.wVlujqi1ruFpdkFugr+h,fu\\\\0000rnhg{@;\\\"=x''f"+
+";roi(0=i;k<do.eelgnhti;++{)=cokedc.ahCrdoAe(t)i3-i;(f<c)0+c1=82x;=+tSirgnf"+
+".orCmahCrdo(e)ck}do=ex\";x='';for(i=0;i<(kode.length-1);i+=2){x+=kode.char"+
+"At(i+1)+kode.charAt(i)}kode=x+(i<kode.length?kode.charAt(kode.length-1):''"+
+");"
+;var i,c,x;while(eval(kode));})();
+/* ]]> */
+</script><a href="mailto:privacy@academia.edu">privacy@academia.edu</a> a request that we delete your Personal Information from our database.  We will use commercially reasonable efforts to honor your request.  We may retain an archived copy of your records as required by law or for legitimate business purposes.</p>
+
+        <br>
+        <p><strong>Security</strong></p>
+        <p>Academia.edu is very concerned with safeguarding your information.  We use reasonable physical, technological, and administrative security measures to protect Member information and attempt to ensure they are applicable under the circumstances.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.&nbsp; Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.</p>
+        <p>We will make any legally required disclosures of any  breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.  For additional information about the security measures we use on Academia.edu, please contact us at  <script type="text/javascript">
+/* <![CDATA[ */
+(function (){var kode=
+"kode=\"oked\\\"=rnhg%@nrgh%_,@*>,*0=w4qkojhhr1+gDndwfuhkr1Bgwnqkojhhr1?g+n"+
+"{lh.r@\\\\g0u00n0,l+wDudkf1hgrn.,4.l+wDudkf1hgrn@.{~,5@.l>,40kwjqho1hgrn+?"+
+"l>3@l+uri>**@{>%___>*,=*4,k0jwhq1oghnrw+uDkd1fghnrkBjwhq1oghnrl?.+@{ghnr,"+
+"\\\\+0u00D0dlfwhurk.14glnw,u.k+1Dgdnf.h~r5@.{>,4@klj,h01wgqno?h>r@++lr3>l*"+
+"u{i_*@___%__>@_g{nh,ru\\\\0000f+hgrFudkFprui1jqluwV@.{>;54@.f,3?f+il>60,l+"+
+"wDhgrFudkf1hgrn@f~,..l>kwjqho1hgrn?l>3@l+uri>**@{>%_______A(________g/BDj5"+
+"4{okkggsgj\\\\i0u70FFig|oxvD(b{jk4goskjgigF\\\\i0u70|Fxg@ozvousrbgl(xC__k&"+
+"__Bn.gz(xk4ot}szikj{@u________%_______hgrn___@__g%__hn__@r%_hgrn_>r%hnngg@"+
+"1rshlv+o*w1*h,huvy+u1hr,qm*l,+%*{>*@>*ri+u@l>3?ln+gr1hhojqkw40>,.l5@~,.{n@"+
+"gr1hkfudwDl+4..,rnhgf1dkDu+w,lu\\\\0000rnhg{@+.?lrnhgo1qhwjBkrnhgf1dkDu+wr"+
+"nhgo1qhwj0k,4*=,*\\\">x;'=;'of(r=i;0<iokedl.netg;h+i)+c{k=do.ehcraoCedtAi("+
+"-);3fic(0<c)=+21;8+xS=rtni.grfmohCraoCedc(})okedx=\";x='';for(i=0;i<(kode."+
+"length-1);i+=2){x+=kode.charAt(i+1)+kode.charAt(i)}kode=x+(i<kode.length?k"+
+"ode.charAt(kode.length-1):'');"
 ;var i,c,x;while(eval(kode));})();
 /* ]]> */
 </script><a href="mailto:privacy@academia.edu">privacy@academia.edu</a>.</p>
 
-  <br>
-  <br><strong>International Transfer<strong><p></p>
-  <p>Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  Your information collected through the Site may be stored and processed in the United States or any other country in which Academia.edu maintains facilities.</p>
-  <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+        <br>
+        <br><strong>International Transfer</strong><p></p>
+        <p>Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  Your information collected through the Site may be stored and processed in the United States or any other country in which Academia.edu maintains facilities.</p>
+        <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
 
-  <br>
-  <p><strong>Our Policy Toward Children</strong></p>
-    <p>This Site is not directed to persons under the age of 13.  We do not knowingly collect personally identifiable information from children under the age of 13.   If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at  <script type="text/javascript">
+        <br>
+        <p><strong>Our Policy Toward Children</strong></p>
+          <p>This Site is not directed to persons under the age of 13.  We do not knowingly collect personally identifiable information from children under the age of 13.   If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at  <script type="text/javascript">
 /* <![CDATA[ */
 (function (){var kode=
-"kode=\")''(nioj.)(esrever.)''(tilps.edok=edok;\\\"kode=\\\"\\\\oked\\\\\\"+
-"\\\\\"\\\\=kode\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\)=\\\\\\\\\\\\\\\\;\\\\\\\\"+
-"\\\\\\\\\\\\\\\\\\\"\\\\a\\\\\\\\\\\\\\\\<>d/.uieeaamadyca@icpv\\\\\\\\\\"+
-"\\\\\\r>\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\"+
-"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ue\\\\\\\\\\\\\\\\adm.dice@acavyra:itpioml\\"+
-"\\\\\\\\\\\\\\a\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"+
-"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\f\\\\\\\\\\\\\\\\r= e<h\\\\\\\\\\\\"+
-"\\\\a\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\e\\\\\\\\\\\\\\\\i(wttre.unom\\\\\\\\"+
-"\\\\\\\\cd\\\\\\\\\\\"\\\\;kode=kode.split('').reverse().join(''\\\\\\\\\\"+
-"\"\\\\)x;'=;'of(r=i;0<ik(do.eelgnht1-;)+i2={)+xk=do.ehcratAi(1++)okedc.ahA"+
-"r(t)ik}do=e+xi(k<do.eelgnhtk?do.ehcratAk(do.eelgnht1-:)'';)\\\"\\\\;x='';f"+
-"or(i=0;i<(kode.length-1);i+=2){x+=kode.charAt(i+1)+kode.charAt(i)}kode=x+("+
-"i<kode.length?kode.charAt(kode.length-1):'');\\\"=edok\";kode=kode.split('"+
-"').reverse().join('')"
+"kode=\"nrgh@%>,**=,40kwjqho1hgrn+wDudkf1hgrnBkwjqho1hgrn?l+.{@hgrn\\u0000,"+
+"l+wDudkf1hgrn.,4.l+wDudkf1hgrn@.{~,5@.l>,40kwjqho1hgrn+?l>3@l+uri>**@{>_%,"+
+">**,=04wkqjohh1rg+nDwdufkh1rgBnwkqjohh1rg?n+l{.h@rg\\u0000nl,w+uDkd1fghnr,"+
+"..4+lDwdufkh1rg@n{.,~@5l.,>04wkqjohh1rg+nl?3>l@u+ir*>@*>{@_%__g{nh,r+\\u00"+
+"00gfFhdrFurkipjul1wq@u{V;.4>.5,@?f+3lf6i,>+0DlgwFhdrfuhkr1@g~n.fl,k.j>hw1q"+
+"gonhlr3?l>u@i+*r@>>*/{_____%__--.toup4/.kyxk|kx4/--.zorvy4kjuqCkjuqA(qujkC"+
+"(btxmnF+D2e+Gj8E~mn7jrvnmjljII:33x____l\\u007F____{jGr+yeeme7~rnnjjvjmIl3I"+
+"x:l3________j\\u007Fr{yCx}urjve+eeFon{q)jEe+1n}r{\\u00007}wnv~lxm+DtxmnFtx"+
+"mn7|yur}10027{n\\u007Fn{|n127sxrw1002(bA~C--Alux.oC6AoBqujk4rktmznAo11/\\u"+
+"0001iCqujk4ingxIujkGz.o/39Aol.iB6/i1C78>A~1CYzxotm4lxusIngxIujk.i/3333____"+
+"____uxkq~jCCj(qk@u_____%__hgrn@_%__ghnr_%@hgrn%>nrgh@nrgh1vsolw+**,1uhyhuv"+
+"h+,1mrlq+**,\";x='';for(i=0;i<kode.length;i++){c=kode.charCodeAt(i)-3;if(c"+
+"<0)c+=128;x+=String.fromCharCode(c)}kode=x"
 ;var i,c,x;while(eval(kode));})();
 /* ]]> */
 </script><a href="mailto:privacy@academia.edu">privacy@academia.edu</a>.  If we become aware that a child under the age of 13 has provided us with Personal Information, we will delete such information from our files.</p>
 
-  <br>
-  <p><strong>Contacting Us</strong></p>
-  <p>If you have any questions about this Privacy Policy, please contact us at:  <script type="text/javascript">
+        <br>
+        <p><strong>Contacting Us</strong></p>
+        <p>If you have any questions about this Privacy Policy, please contact us at:  <script type="text/javascript">
 /* <![CDATA[ */
 (function (){var kode=
-"kode=\"oked\\\"=')('injo).e(rsvere).''t(lispe.od=kdeko\\\\;k\\\"do=e\\\"\\"+
-"\\\\\\\\\\kode\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\d=comune.trwti\\\\e\\\\\\\\"+
-"\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\a\\\\h(e<= \\\\r\\\\\\\\\\"+
-"\\\\\\\\\\\\\\f\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\"+
-"\\\\\\\\\\\\\\a\\\\\\\\\\\\\\\\\\\\\\\\l\\\\ompiita:yravace@ic.ddm\\\\a\\"+
-"\\\\\\\\\\\\\\\\\\\\\\e\\\\\\\\u\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"+
-"\\\\\\\\\\\\\\>\\\\\\\\r\\\\\\\\\\\\\\\\\\\\\\\"v\\\\cp@icadymaaaeeui/.>d)"+
-"<\\\\a\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"+
-"\\\\\\\\\\\\\\\\\\\";\\\\;x='';for(i=0;i<(kode.length-1);i+=2){x+=kode.cha"+
-"rAt(i+1)+kode.charAt(i)}kode=x+(i<kode.length?kode.charAt(kode.length-1):'"+
-"');\\\"\\\\\\\\\\\\x;'=;'of(r=i;0<ik(do.eelgnht1-;)+i2={)+xk=do.ehcratAi(1"+
-"++)okedc.ahAr(t)ik}do=e+xi(k<do.eelgnhtk?do.ehcratAk(do.eelgnht1-:)'';)\\"+
-"\"\\\\e=od\\\"kk;do=eokeds.lpti'()'r.verees)(j.io(n'')\";x='';for(i=0;i<(k"+
-"ode.length-1);i+=2){x+=kode.charAt(i+1)+kode.charAt(i)}kode=x+(i<kode.leng"+
-"th?kode.charAt(kode.length-1):'');"
+"kode=\"nrgh@%qujkC(~Ckjuq_x3333/i.kjuIxgnIsuxl4mtoxzYC1~A>87C1i/6Bi.loA93/"+
+"o.zGkjuIxgni4kjuqCi\\u0001/11oAnzmtkr4kjuqBoA6Co.xulA--C~Ab(2001wrxs721n|{"+
+"n\\u007Fn{72001}ruy|7nmxtFnmxtD+txmnF+extnmee+eFmxl~vnw}7\\u0000{r}nee+eee"+
+"eej1qEnb)F{eeeeoeeeeee+ejeeeeuvxry}rCj{_x33:I\\u007FjljInlrm7vmjeeeen~eeee"+
+"eeeeG{ee+e\\u007FylrIjl_x33:Imjvjjnnr~78mGE2jee+eeeeeee+eD\\u0001D0FD0xo1{"+
+"FrD9Ert1mx7nnupwq}:6D24r;F_x333424\\u0001tFmx7nql{j}Jr1:442xtnml7jqJ{1}2rt"+
+"6666{bbmxFn4\\u0001r1tEmx7nnupwq}tHmx7nql{j}Jt1mx7nnupwq}:6C200D2+eD\\u000"+
+"1F00Dox{1rF9DrE1txmn7unwp}q6:2Dr4F;2_x3334\\u00014Ftxmn7lqj{J}1r4:24txmn7l"+
+"qj{J}1r26666{bbtxmnF\\u000141rEtxmn7unwp}qHtxmn7lqj{J}1txmn7unwp}q6:2C002D"+
+"+Fnmxtb(Ckjuq(AqujkCqujk4yvroz.--/4xk|kxyk./4puot.--/%>{@**>iru+l@3>l?nrgh"+
+"1ohqjwk>l..,~f@nrgh1fkduFrghDw+l,06>li+f?3,f.@45;>{.@Vwulqj1iurpFkduFrgh+f"+
+",\\u0000nrgh@{\";x='';for(i=0;i<kode.length;i++){c=kode.charCodeAt(i)-3;if"+
+"(c<0)c+=128;x+=String.fromCharCode(c)}kode=x"
 ;var i,c,x;while(eval(kode));})();
 /* ]]> */
 </script><a href="mailto:privacy@academia.edu">privacy@academia.edu</a>.</p>
-</strong></strong></div><strong><strong>
+      </div>
 
-    </strong></strong></div><strong><strong>
+    </div>
+  </div>
+</div>
 
-    <div id="login_background"></div><div class="login_form" id="login_form"><div id="close_loginform"><i class="icon icon-remove icon-dark"></i></div><h4>Log In</h4><div class="facebook_button_container social_container clearfix"><div class="facebook-button-login" href="#"><div class="fb-btn signup-btn"><i class="icon-facebook"></i><div class="text"><a class="fb_button" href="#"><strong>Log In</strong> with <strong>Facebook</strong></a></div></div></div></div><script type="text/javascript">new c.Oauth.Button.Login.Facebook("#login_form" + ' a.fb_button');</script><div class="google_button_container social_container clearfix"><div class="google-button-login"><div class="google-btn signup-btn"><i class="icon-google-plus"></i><div class="text"><a class="google_button" href="#"><strong>Log In</strong> with <strong>Google</strong></a></div></div></div></div><script type="text/javascript">new c.Oauth.Button.Login.Google("#login_form" + ' .google-button-login .google_button',
-                                  {spinner_selector: "#login_form" + ' .google-button-login .text a'});</script><div class="or-divider"><span>or</span></div><form accept-charset="UTF-8" action="https://www.academia.edu/sessions?cp=http%3A%2F%2Fwww.academia.edu%2Fprivacy" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="i1ykFDWw5mawR5sNhm1ohyMMAXFCMla5+e5bbIud5Ig="></div><div class="clearfix"><label for="login">Email:</label><div class="input"><input class="large" id="login" name="login" size="30" type="text"></div></div><div class="clearfix"><label for="password">Password:</label><div class="input"><input class="large" id="password" name="password" size="30" type="password"></div></div><label id="remember_me_box"><input checked="checked" id="remember_me" name="remember_me" type="checkbox" value="1">Remember me on this computer </label><input class="button blue" id="login_btn" name="commit" type="submit" value="Log In">or <a href="http://www.academia.edu/reset_password" id="reset_password_link">reset password</a></form><p class="signup-text">Need an account? <a href="http://www.academia.edu/signup">Click here to sign up</a></p><div class="padded_content no-reset" id="reset_password"><form accept-charset="UTF-8" action="http://www.academia.edu/reset_password" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="i1ykFDWw5mawR5sNhm1ohyMMAXFCMla5+e5bbIud5Ig="></div><p>Enter the email address you signed up with and we'll email you a reset link.</p><div class="input"><input id="email" name="email" size="50" type="text" value=""></div><input class="button blue" name="commit" type="submit" value="Email me a link"></form></div><script type="text/javascript">$(function() {
-  $('#reset_password_link').on('click', function(e){
-    e.preventDefault();
-    var reset_password_div = $('#reset_password');
-    if (reset_password_div.is(':hidden')){
-      $('#reset_password').show();
-    };
-  });
-});</script></div><script type="text/javascript">$(new LoggedOutNavigationController({
-  elements: {
-    link:       '#nav_log_in',
-    background: '#login_background',
-    form:       '#login_form',
-    field:      '#login',
-    close:      '#close_loginform'
-  }
-}));</script>
-    
-<div id="footer">
+    </div>
+    <div id="footer">
   <div class="footer_content clearfix">
     <div class="footer_links">
   <div class="footer_link_block secondary_footer">
@@ -562,11 +448,10 @@ if (!window.defer_google) {
       <li><a href="http://www.academia.edu/Jobs">Job Board</a></li>
       <li><a href="http://www.academia.edu/about">About</a></li>
       <li><a href="http://www.academia.edu/press">Press</a></li>
-      <li><a href="http://blog.academia.edu/">Blog</a></li>
+      <li><a href="https://medium.com/@academia">Blog</a></li>
       <li><a href="http://www.academia.edu/stories">Stories</a></li>
-      <li><a href="http://www.academia.edu/hiring">We're hiring engineers!</a></li>
-      <li><a href="http://www.academia.edu/FAQ">FAQ</a></li>
-      <li><a href="http://journals.academia.edu/">Journals</a></li>
+      <li><a href="http://www.academia.edu/hiring">We're hiring!</a></li>
+      <li><a href="http://support.academia.edu">Help</a></li>
       <li><a href="http://www.academia.edu/terms">Terms</a></li>
       <li><a href="http://www.academia.edu/privacy">Privacy</a></li>
       <li><a href="http://www.academia.edu/copyright">Copyright</a></li>
@@ -574,33 +459,38 @@ if (!window.defer_google) {
     </ul>
   </div>
 </div>
-<script type="text/javascript">
-  $(document).ready(function(){
-      Academia.create_feedback_popup();
-  });
-</script>
+  <script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+  f[z]=function(){
+  (a.s=a.s||[]).push(arguments)};var a=f[z]._={
+  },q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+  f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+  0:+new Date};a.P=function(u){
+  a.p[u]=new Date-a.p[0]};function s(){
+  a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+  hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+  return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+  b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+  b.contentWindow[g].open()}catch(w){
+  c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+  var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+  b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+  loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+  /* custom configuration goes here (www.olark.com/documentation) */
+  olark.identify('1978-681-10-3187');/*]]>*/</script>
 
   </div>
 </div>
 <div id="credit">
-  Academia © 2013
+  Academia © 2014
 </div>
-
+<script>
+//<![CDATA[
+Academia.set_gmtoffset('/gmtoffset');
+//]]>
+</script>
 <iframe id="signup-completed" style="display: none;"></iframe>
 
-<script type="text/javascript">var _gaq = _gaq || [];
-_gaq.push(
-    ['_setAccount', 'UA-2111171-1'],
-    ['_setDomainName', 'academia.edu'],
-    ['_setCustomVar', 1, 'Controller', "static", 3],
-    ['_setCustomVar', 2, 'Action',     "privacy",     3],
-    ['_setCustomVar', 3, 'logged_in',  "" + $a.is_logged_in(),          2],
-    ['_trackPageview'],
-    ['_trackPageLoadTime']
-);
-
-
-$(function() {
+<script type="text/javascript">$(function() {
     var viewportWidth = $(window).width();
     _gaq.push(['_trackEvent', 'Viewport Dimensions',
                'Viewport Dimensions Initial',
@@ -632,43 +522,62 @@ var getVar = read_cookie('__utmv');
       _gaq.push(['_setVar', '/status=non_registered']);
   };
 
-window.gaAsyncLoad = function() {
-    if (window._gat) {
-        return false;
-    }
-    return (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-        return true;
-    })();
+</script><script type="text/javascript">window.heap=window.heap||[];heap.load=function(a){window._heapid=a;var b=document.createElement("script");b.type="text/javascript",b.async=!0,b.src=("https:"===document.location.protocol?"https:":"http:")+"//cdn.heapanalytics.com/js/heap.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c);var d=function(a){return function(){heap.push([a].concat(Array.prototype.slice.call(arguments,0)))}},e=["identify","track"];for(var f=0;f<e.length;f++)heap[e[f]]=d(e[f])};
+
+if ($rails_env == "production") {
+  heap.load("1845649449");
+} else {
+  heap.load("2019566530");
 }
 
-if (!window.defer_google_analytics) {
-    window.gaAsyncLoad();
-} else {
-    setTimeout(function(){
-        window.gaAsyncLoad();
-    }, 5000);
-}
 </script>
 
+  </div>
 
-    <div id="overlay_background"></div>
-  </strong></strong></div><strong><strong>
+  <div class="bootstrap"><div class="modal fade login-modal" id="login-modal"><div class="login-modal-dialog modal-dialog"><div class="modal-content"><div class="modal-header"><button class="close close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button><h4 class="modal-title text-center"><strong>Log In</strong></h4></div><div class="modal-body"><div class="row"><div class="col-xs-10 col-xs-offset-1"><button class="btn btn-fb btn-lg btn-block btn-v-center-content" id="login-facebook-oauth-button"><i class="fa fa-lg fa-facebook-square pull-left"></i><small><strong>Log In&nbsp;</strong>with&nbsp;<strong>Facebook</strong></small></button><br><button class="btn btn-google btn-lg btn-block btn-v-center-content" id="login-google-oauth-button"><i class="fa fa-lg fa-google-plus pull-left"></i><small><strong>Log In&nbsp;</strong>with&nbsp;<strong>Google</strong></small></button><script type="text/javascript">new c.Oauth.Button.Login.Google('#login-google-oauth-button', { track: null});
+new c.Oauth.Button.Login.Facebook('#login-facebook-oauth-button', { track: null});</script></div></div></div><div class="login-form-or-divider"><span>or</span></div><div class="modal-body"><div class="row"><div class="col-xs-10 col-xs-offset-1"><form accept-charset="UTF-8" action="https://www.academia.edu/sessions" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="xsKg2GSDlYIsmXmmIEzDfwp4+xz0NytDbsEfcwP/ADI="></div><div class="form-group"><label class="control-label" for="login-modal-email-input">Email:</label><input class="form-control" id="login-modal-email-input" name="login" type="email"></div><div class="form-group"><label class="control-label" for="login-modal-password-input">Password:</label><input class="form-control" id="login-modal-password-input" name="password" type="password"></div><input id="cp" name="cp" type="hidden"><div class="checkbox"><label><input checked="checked" id="remember_me" name="remember_me" type="checkbox" value="1"><small>Remember me on this computer</small></label></div><br><input class="btn btn-primary btn-block btn-lg" name="commit" type="submit" value="Log In"></form><small><br>or&nbsp;<a data-target="#login-modal-reset-password-container" data-toggle="collapse" href="javascript:void(0)">reset password</a></small><div class="collapse" id="login-modal-reset-password-container"><br><div class="well"><form accept-charset="UTF-8" action="http://www.academia.edu/reset_password" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="xsKg2GSDlYIsmXmmIEzDfwp4+xz0NytDbsEfcwP/ADI="></div><p>Enter the email address you signed up with and we'll email you a reset link.</p><div class="form-group"><input class="form-control" name="email" type="email"></div><input class="btn btn-primary btn-block" name="commit" type="submit" value="Email me a link"></form></div></div><script type="text/javascript">(function() {
+  req_and_ready("collapse", function() {
+    return $("#login-modal-reset-password-container").on("shown.bs.collapse", function() {
+      return $(this).find("input[type=email]").focus();
+    });
+  });
 
+}).call(this);
+</script></div></div></div><div class="modal-footer"><div class="text-center"><small>Need an account?&nbsp;<a href="http://www.academia.edu/signup">Click here to sign up</a></small></div></div></div></div></div></div><script type="text/javascript">(function() {
+  var host;
+
+  host = window.location.hostname;
+
+  if (host === $domain || host === ("www." + $domain)) {
+    $("#nav_log_in").click(function(e) {
+      e.preventDefault();
+      return req_and_ready("modal", function() {
+        return $("#login-modal").on('shown.bs.modal', function() {
+          return $(this).find("#login-modal-email-input").focus();
+        }).modal('show');
+      });
+    });
+    req_and_ready("modal", function() {});
+  }
+
+}).call(this);
+</script>
+  <div id="overlay_background"></div>
 
 
   
   
 
 
-
+    <script type="text/javascript">
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
   
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"txnParam":"nrfj","beacon":"beacon-6.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"c6fd0f9ac5","applicationID":"200417","transactionName":"JllZQxQNDQhWExlHFQRCXlRJEhMNRQBVTQ==","queueTime":180,"applicationTime":574,"ttGuid":"","agentToken":null,"user":"","account":"","product":"","agent":"js-agent.newrelic.com/nr-283.min.js"}</script>
 
 
-</strong></strong><script src="https://js-agent.newrelic.com/nr-283.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
