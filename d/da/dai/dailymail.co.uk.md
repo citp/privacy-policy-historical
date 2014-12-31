@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailymail.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630091905id_/http%3A//www.dailymail.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymail.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231172829id_/http%3A//www.dailymail.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy and Cookies | Mail Online
+# Privacy Policy and Cookies | Daily Mail Online
 
 Please note, this privacy policy applies to this website or our mobile applications (for example our iPhone, android and iPad apps) (a “Site”). If you do not accept this privacy policy and cookies notice, do not use this Site. 
 
