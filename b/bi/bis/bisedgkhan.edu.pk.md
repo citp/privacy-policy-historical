@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bisedgkhan.edu.pk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075034id_/http%3A//www.bisedgkhan.edu.pk/index.php%3Ffilename%3Dprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bisedgkhan.edu.pk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231154741id_/http%3A//www.bisedgkhan.edu.pk/index.php%3Ffilename%3Dprivacy.php) for the most accurate reproduction.*
 
 # :: BISE DGKHAN ::
 
-[ ](https://web.archive.org/web/20140625075034id_/http%3A//www.bisedgkhan.edu.pk/index.php)
+[ ](https://web.archive.org/web/20141231154741id_/http%3A//www.bisedgkhan.edu.pk/index.php)
 
 +92 64 2023004 
 
@@ -20,6 +20,8 @@ EVENTS IN BOARD
 
 
 ' 
+
+[For Registration Branch](https://web.archive.org/web/20141231154741id_/http%3A//www.bisedgkhan.edu.pk/cp6_reg_branch.php)
 
 [](http://www.website-hit-counters.com/)  
 ---  
