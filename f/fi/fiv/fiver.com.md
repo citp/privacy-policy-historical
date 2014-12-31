@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the fiver.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630170104id_/http%3A//www.fiverr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiver.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231010556id_/https%3A//www.fiverr.com/privacy-policy) for the most accurate reproduction.*
 
 # Fiverr's Privacy Policy
+
+  * privacy
+  * [Intellectual Property](https://web.archive.org/intellectual-property)
+
+
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use Fiverr.com ("Site"). By accessing or using this Site, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
