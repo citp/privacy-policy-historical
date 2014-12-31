@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogoverflow.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204110736id_/http%3A//stackexchange.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogoverflow.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231055600id_/https%3A//stackexchange.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stack Exchange
 
