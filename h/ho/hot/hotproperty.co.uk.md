@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotproperty.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628042438id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotproperty.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231051822id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
 
 # Zoopla Privacy policy - Zoopla
 
