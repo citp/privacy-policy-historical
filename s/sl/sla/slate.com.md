@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slate.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630143318id_/http%3A//www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slate.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231123515id_/http%3A//www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html) for the most accurate reproduction.*
 
 # Slate's privacy policy.
 
@@ -115,3 +115,57 @@ You may choose to receive promotional emails, newsletters, and similar communica
 **12.   ** **Contact Us**
 
 If you have any questions about this Privacy Policy, you may contact us at:
+
+[](http://www.slate.com/articles/news_and_politics/politics/2014/12/kenny_knight_and_barbara_noble_claim_steve_scalise_never_spoke_to_euro_did.html) Politics
+
+Dec. 30 2014 6:49 PM
+
+White Noise Did House Majority Whip Steve Scalise admit to speaking at a white supremacist event he never attended?
+
+[](http://www.slate.com/articles/business/moneybox/2014/12/uber_spent_2014_expanding_aggressively_and_pissing_off_just_about_everyone.html) Moneybox
+
+Dec. 30 2014 10:30 PM
+
+The Year in Uber The world’s brashest startup spent 2014 expanding aggressively and infuriating just about everyone. Alison Griswold
+
+[](http://www.slate.com/blogs/quora/2014/12/31/how_did_france_and_england_influence_views_about_spain_s_south_american.html) Quora
+
+Dec. 31 2014 7:07 AM
+
+How Did France and England Influence Views About Spain’s South American Colonies? Quora Contributor
+
+[](http://www.slate.com/blogs/xx_factor/2014/12/30/_2014_was_a_good_year_for_feminism_what_s_going_to_happen_in_2015.html) The XX Factor
+
+Dec. 30 2014 2:11 PM
+
+2014 Was a Great Year for Feminism. Is a Backlash Coming? Amanda Marcotte
+
+[](http://www.slate.com/articles/arts/behind_the_scenes/2014/12/slate_film_critic_dana_stevens_top_10_movies_of_2014_interview.html?wpsrc=sp_all_native_by-section) Behind the Scenes
+
+Dec. 29 2014 11:01 AM
+
+“I Really Do Find the Process Mildly Traumatic” A look into how **_Slate_** ’s movie critic puts together her end-of-year list. Dana Stevens and Jennifer Lai
+
+[](http://www.slate.com/blogs/browbeat/2014/12/30/jay_from_serial_interview_part_2_sarah_koenig_demonized_me_wilds_says_even.html) Brow Beat
+
+Dec. 30 2014 7:00 PM
+
+In the Second Part of His First Interview, Jay Wilds Says _Serial_ “Demonized” Him Katy Waldman
+
+Future Tense
+
+Dec. 30 2014 4:38 PM
+
+Pretty Much Every Smart Home Device You Can Think of Has Been Hacked Lily Hay Newman
+
+[](http://www.slate.com/blogs/wild_things/2014/12/30/is_it_crazy_to_say_you_love_your_dog_the_same_as_you_love_a_child.html) Wild Things
+
+Dec. 30 2014 3:35 PM
+
+What I Learned About Dogs and Love While Crossing the Country With My Lab Benoit Denizet-Lewis
+
+[](http://www.slate.com/articles/sports/sports_nut/2014/12/j_j_watt_box_jump_is_the_internet_s_favorite_exercise_a_worthwhile_training.html) Sports Nut
+
+Dec. 30 2014 7:08 AM
+
+The Internet’s Favorite Exercise Is the box jump a worthwhile training technique or just a fancy party trick? Alan Siegel
