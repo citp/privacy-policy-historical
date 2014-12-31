@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalspy.ie privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021104id_/http%3A//www.digitalspy.co.uk/about/sitenews/a560389/data-protection-privacy-policy-for-use-on-websites.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalspy.ie privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231165424id_/http%3A//www.digitalspy.co.uk/about/sitenews/a560389/data-protection-privacy-policy-for-use-on-websites.html) for the most accurate reproduction.*
 
 # Data protection: Privacy Policy for use on websites - About Us Site News / Contact Us - Digital Spy
 
