@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxykat.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629225358id_/http%3A//www.proxykat.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxykat.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231090724id_/http%3A//proxykat.eu/privacy) for the most accurate reproduction.*
 
 # Privacy policy - KickassTorrents Proxy
 
