@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofengland.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052554id_/http%3A//www.bankofengland.co.uk/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofengland.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231015753id_/http%3A//www.bankofengland.co.uk/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Bank of England | Privacy and Cookie Policy
 
@@ -16,7 +16,7 @@ In any instance where you provide personal information to us, we will only use i
 Our websites do not automatically capture or store personal information about users, other than IP addresses and limited session information such as the duration of visits and type of browser used. This information is anonymised and used to produce statistical reports to allow us to evaluate how our websites are used.
 
 **How do I make a request for my personal information (Subject Access Request) under the Data Protection Act 1998?**  
-The Data Protection Act 1998 provides individuals with the right to ask any organisation, including the Bank and PRA, for a copy of the personal data processed about them.To make a request for the personal information we hold about you, please contact:The Information Compliance Team (HO-M)
+The Data Protection Act 1998 provides individuals with the right to ask any organisation, including the Bank and PRA, for a copy of the personal data processed about them.To make a request for the personal information we hold about you, please contact:The Information Compliance Team (TS-Mz)
 
 Bank of England
 
@@ -51,6 +51,22 @@ JSessionIDOAFM
 | ​These cookies help us to balance the workload by, for example, recording which server a user’s browsing session has been allocated to in order to ensure they only deal with a single server for the duration of their session.  These are deleted once the browsing session ends.  
 ​BoE Careers | ​$ {Instance Name} (default value)Oracle.uix | ​These cookies identify whether the user is currently logged-in or is a ‘guest’ user, expiring once the user’s session ends. They also remember time zone and accessibility preferences that users have applied.  
 ​YouTube | ​ | ​We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos.Read more at [YouTube’s embedding videos information page](http://www.google.com/support/youtube/bin/answer.py?hl=en-GB&answer=171780 "External link").  
+​Website analytics | 
+
+​ACOOKIE  
+WT_FPC
+
+| 
+
+​We use a web analytics service to analyse how visitors use our website. 
+
+These cookies are used for visitor identification and recording interaction with our website. 
+
+  * ACOOKIE - is a persisted third party cookie. 
+  * WT_FPC \- is set by the Javascript. It is a persisted first party cookie.  
+
+
+Both cookies expire 2 years from creation.   
  
 
 You can find more information about cookies, including how to control the use of these through your browser settings, at: 
