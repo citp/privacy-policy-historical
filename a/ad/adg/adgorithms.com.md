@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the adgorithms.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064906id_/http%3A//adgorithms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgorithms.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231110700id_/http%3A//adgorithms.com/privacy-policy) for the most accurate reproduction.*
 
 # Adgorithms | Privacy Policy
-
-**[](http://adgorithms.com/)**
-
-###  Privacy Policy 
 
 We understand how important it is to keep your private information confidential as you interact with out network. This Privacy policy was created to inform you what information we collect when you visit Adgorithms.com as well as our customer’s websites (referred to as ‘advertisers’), and then how that information is collected and used by companies that display advertisements (referred to as ‘partners’).
 
@@ -49,25 +45,3 @@ Adgorithms’s services are intended for a general audience. Children under the 
 #### ADDITIONAL INFORMATION AND CONTACT US
 
 Adgorithms may update this Privacy Policy from time to time, and so you should review this policy periodically. If you have any questions regarding this Privacy Policy, you may contact our customer service at [customerservise@adgorithms.com](mailto:customerservise@adgorithms.com) .
-
-Israel (Headquarters)
-
-14 Hasharon Street. Tel Aviv, Israel
-
-+972.3.5377137
-
-Advertisers Department  
-
-
-Advertisers@adgorithms.com  
-
-
-Bizdev@adgorithms.com
-
-Publishers Department
-
-Publishers@adgorithms.com
-
-© 2014 Adgorithms. All Rights Reserved.
-
-
