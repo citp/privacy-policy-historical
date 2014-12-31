@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingplz.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626221815id_/http%3A//www.weddingplz.com/cms/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingplz.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231163627id_/http%3A//www.weddingplz.com/cms/privacypolicy) for the most accurate reproduction.*
 
-# WeddingPlz.com - Search Anything For Your Marriage
+# Privacy Policy | WeddingPlz
 
 Virtual Space InfoTech (P) LTD. has created this Privacy Policy in order to demonstrate our firm commitment to your privacy and the protection of your information. As part of the normal operation of services, we collect and, in some instances, disclose information about you. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
