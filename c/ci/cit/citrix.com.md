@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the citrix.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234819id_/http%3A//www.citrix.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citrix.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231014931id_/http%3A//www.citrix.com/about/legal/privacy.html%3Fposit%3Dglnav) for the most accurate reproduction.*
 
 # Privacy Policy - Citrix
+
+#### Last Updated: December 13, 2013
 
 Citrix respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy describes how Citrix collects and uses your personal information to provide products, services and information that you request or when you choose to provide us with your personal information.
 
