@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the pics.livejournal.com privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630072221id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pics.livejournal.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231094948id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="no-js" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>LiveJournal Privacy Policy </title>
 
-<meta name="viewport" content="width=650">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="theme-color" content="#004359">
 
 <link rel="home" title="Home" href="http://www.livejournal.com/">
 <link rel="contents" title="Site Map" href="http://www.livejournal.com/site/">
@@ -21,13 +23,92 @@
 
     
 
-    <link rel="stylesheet" type="text/css" href="http://l-stat.livejournal.net/??proximanova-opentype.css,schemius/normalize.css,schemius/layout.css,lj-basestrap.css,lj-basestrap-app.css,legal-text.css,widgets/login.css?v=1403878804">
-<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="http://l-stat.livejournal.net/??lj_base-ie.css,schemius/ie.css?v=1403878804" ><![endif]-->
+    <link rel="stylesheet" type="text/css" href="http://l-stat.livejournal.net/??schemius/normalize.css,schemius/layout.css,lj-basestrap.css,lj-basestrap-app.css,legal-text.css,widgets/login.css?v=1419946128">
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="http://l-stat.livejournal.net/??lj_base-ie.css,proximanova-opentype-ie.css?v=1419946128" ><![endif]-->
+<link rel="stylesheet" type="text/css" href="http://l-stat.livejournal.net/??proximanova-opentype.css?v=1419946128">
 
-                <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+    <!--[if lt IE 9]><script type="text/javascript" src="http://l-stat.livejournal.net/js/??lib/html5shiv.js?v=1419946128"></script><![endif]-->
+<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://st.top100.ru/top100/top100.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">function AdFox_SetLayerVis(spritename,state){
+   document.getElementById(spritename).style.visibility=state;
+}
+
+function AdFox_Open(AF_id){
+   AdFox_SetLayerVis('AdFox_DivBaseFlash_'+AF_id, "hidden");
+   AdFox_SetLayerVis('AdFox_DivOverFlash_'+AF_id, "visible");
+}
+
+function AdFox_Close(AF_id){
+   AdFox_SetLayerVis('AdFox_DivOverFlash_'+AF_id, "hidden");
+   AdFox_SetLayerVis('AdFox_DivBaseFlash_'+AF_id, "visible");
+}
+
+function AdFox_getCodeScript(AF_n,AF_id,AF_src){
+   var AF_doc;
+   if(AF_n<10){
+      try{
+         if(document.all && !window.opera){
+            AF_doc = window.frames['AdFox_iframe_'+AF_id].document;
+            }else if(document.getElementById){
+                     AF_doc = document.getElementById('AdFox_iframe_'+AF_id).contentDocument;
+                     }
+         }catch(e){}
+    if(AF_doc){
+       AF_doc.write('<scr'+'ipt type="text/javascript" src="'+AF_src+'"></scr'+'ipt><script type="text/javascript">setTimeout(function(){document.close();}, 10);</scr'+'ipt>');
+       }else{
+          setTimeout('AdFox_getCodeScript('+(++AF_n)+','+AF_id+',"'+AF_src+'");', 100);
+          }
+          }
+}
+
+function adfoxSdvigContent(banID, flashWidth, flashHeight){
+    var obj = document.getElementById('adfoxBanner'+banID).style;
+    if (flashWidth == '100%') obj.width = flashWidth;
+        else obj.width = flashWidth + "px";
+    if (flashHeight == '100%') obj.height = flashHeight;
+        else obj.height = flashHeight + "px";
+}
+
+function adfoxVisibilityFlash(banName, flashWidth, flashHeight){
+        var obj = document.getElementById(banName).style;
+    if (flashWidth == '100%') obj.width = flashWidth;
+        else obj.width = flashWidth + "px";
+    if (flashHeight == '100%') obj.height = flashHeight;
+        else obj.height = flashHeight + "px";
+}
+
+function adfoxStart(banID, FirShowFlNum, constVisFlashFir, sdvigContent, flash1Width, flash1Height, flash2Width, flash2Height){
+    if (FirShowFlNum == 1) adfoxVisibilityFlash('adfoxFlash1'+banID, flash1Width, flash1Height);
+        else if (FirShowFlNum == 2) {
+            adfoxVisibilityFlash('adfoxFlash2'+banID, flash2Width, flash2Height);
+            if (constVisFlashFir == 'yes') adfoxVisibilityFlash('adfoxFlash1'+banID, flash1Width, flash1Height);
+            if (sdvigContent == 'yes') adfoxSdvigContent(banID, flash2Width, flash2Height);
+                else adfoxSdvigContent(banID, flash1Width, flash1Height);
+    }
+}
+
+function adfoxOpen(banID, constVisFlashFir, sdvigContent, flash2Width, flash2Height){
+    var aEventOpenClose = new Image();
+    var obj = document.getElementById("aEventOpen"+banID);
+    if (obj) aEventOpenClose.src =  obj.title+'&rand='+Math.random()*1000000+'&prb='+Math.random()*1000000;
+    adfoxVisibilityFlash('adfoxFlash2'+banID, flash2Width, flash2Height);
+    if (constVisFlashFir != 'yes') adfoxVisibilityFlash('adfoxFlash1'+banID, 1, 1);
+    if (sdvigContent == 'yes') adfoxSdvigContent(banID, flash2Width, flash2Height);
+}
+
+
+function adfoxClose(banID, constVisFlashFir, sdvigContent, flash1Width, flash1Height){
+    var aEventOpenClose = new Image();
+    var obj = document.getElementById("aEventClose"+banID);
+    if (obj) aEventOpenClose.src =  obj.title+'&rand='+Math.random()*1000000+'&prb='+Math.random()*1000000;
+    adfoxVisibilityFlash('adfoxFlash2'+banID, 1, 1);
+    if (constVisFlashFir != 'yes') adfoxVisibilityFlash('adfoxFlash1'+banID, flash1Width, flash1Height);
+    if (sdvigContent == 'yes') adfoxSdvigContent(banID, flash1Width, flash1Height);
+}
+</script>
+                <script type="text/javascript">
                 Site = window.Site || {};
-                Site.ml_text = {"widget.worldcup.nomatches":"No matches within the next 24 hours","widget.worldcup.live":"Live","widget.worldcup.full":"full timetable","widget.worldcup.msk":"All times shown in Msk","component.messages.close":"Close","widget.worldcup.title":"Forthcoming WC-2014 matches","widget.worldcup.translation":"WC-2014 video feeds"};
-                Site.page = {"scheme":"schemius","D":{}};
+                Site.ml_text = {"sharing.service.digg":"Digg","sharing.service.facebook":"Facebook","component.messages.close":"Close","widget.worldcup.nomatches":"No matches within the next 24 hours","/userinfo.bml.editalias.title":"Edit Note","sharing.service.email":"E-mail","widget.worldcup.live":"Live","sharing.service.twitter":"Twitter","sharing.service.stumbleupon":"StumbleUpon","widget.worldcup.title":"Forthcoming WC-2014 matches","sharing.service.vkontakte":"VKontakte","widget.worldcup.full":"full timetable","sharing.service.odnoklassniki":"Odnoklassniki","widget.worldcup.msk":"All times shown in Msk","sharing.service.livejournal":"LiveJournal","widget.worldcup.translation":"WC-2014 video feeds","sharing.service.moimir":"Moi mir","sharing.service.tumblr":"Tumblr","/userinfo.bml.addalias.title":"Add Note","sharing.popup.title":"Share"};
+                Site.page = {"D":{},"scheme":"schemius"};
                 Site.page.template = {};
                 Site.page.ljlive = {"is_enabled":false};
                 Site.timer = +(new Date());
@@ -35,46 +116,60 @@
                 Site.journal = null;
                 Site.entry = null;
                 (function(){
-                    var p = {"remote_is_identity":null,"remote_is_maintainer":0,"auth_token":"sessionless:1404111600:/__api/::e373909e7d3b3476459a9ce07b2e9de99d8200f1","locale":"en_US","remoteUser":null,"remote_is_sup":0,"remoteJournalBase":null,"statprefix":"http://l-stat.livejournal.net","vk_api_id":"2244371","ctx_popup":1,"jsonrpcprefix":"http://l-api.livejournal.com","siteroot":"http://www.livejournal.com","templates_update_time":900,"media_embed_enabled":1,"v":1403878804,"currentEntryRecommendations":0,"server_time":1404112941,"logprefix":"","counterprefix":"http://xc3.services.livejournal.com/ljcounter/","currentJournalBase":"","ljold":"","country":"US","inbox_update_poll":0,"flags":{"homepage_v3":true,"friendsfeed_v3":true,"new_friends_and_subscriptions":false,"discovery":true},"rpc":{"public":["discovery.get_item","discovery.suggest","discovery.today","discovery.get_categories","discovery.get_feed","homepage.get_rating","homepage.get_categories","latest.get_entries","sitemessage.get_message","comment.get_thread"]},"has_remote":0,"remoteLocale":"en_US","picsUploadDomain":"up.pics.livejournal.com","remote_is_suspended":0,"imgprefix":"http://l-stat.livejournal.net/img","esn_async":1,"remote_can_track_threads":null,"currentJournal":"","pics_production":"","currentEntry":""}, i;
+                    var p = {"remote_is_identity":null,"remote_is_maintainer":0,"auth_token":"sessionless:1420016400:/__api/::25c3d30750c6d55508ff94b9a00b777f0fd1e1f2","locale":"en_US","remoteUser":null,"remote_is_sup":0,"remoteJournalBase":null,"statprefix":"http://l-stat.livejournal.net","vk_api_id":"2244371","ctx_popup":1,"jsonrpcprefix":"http://l-api.livejournal.com","siteroot":"http://www.livejournal.com","templates_update_time":900,"media_embed_enabled":1,"v":1419946128,"currentEntryRecommendations":0,"currentLanguage":"en_LJ","server_time":1420019392,"logprefix":"","counterprefix":"http://xc3.services.livejournal.com/ljcounter/","currentJournalBase":"","ljold":"","country":"US","writers_block_community":"http://writersblock.livejournal.com/","inbox_update_poll":0,"flags":{"commercial_promo_noc":true,"selfpromo_noc":true,"journal_v3":true,"writers_block":true,"photo_v4":false,"friendsfeed_v3_settings":true,"ga_universal":true,"friendsfeed_v3":true,"friendsfeed_tour":true,"recaptcha":true,"shopius":false,"new_friends_and_subscriptions":false,"ljwelcomevideo":true,"regionalrating_tour":false,"video_update_tour":false,"discovery":true,"add_friend_page_redesign":true,"homepage_v3":true,"solve_media_captcha":true,"regional_ratings":true},"rpc":{"public":{"browse.get_categories":"300","writers_block.get_list":"60","discovery.author_posts":"300","comment.get_thread":"900","latest.get_entries":"180","browse.get_posts":"300","discovery.get_feed":"300","discovery.today":"300","discovery.get_item":"300","homepage.get_categories":"3600","discovery.suggest":"300","sitemessage.get_message":"3600","discovery.get_categories":"300","browse.get_communities":"300","homepage.get_rating":"300"}},"has_remote":0,"picsUploadDomain":"up.pics.livejournal.com","remoteLocale":"en_US","remote_is_suspended":0,"imgprefix":"http://l-stat.livejournal.net/img","remote_can_track_threads":null,"currentJournal":"","esn_async":1,"currentEntry":"","pics_production":""}, i;
                     for (i in p) Site[i] = p[i];
                 })();
                 Site.current_journal = {};
-                Site.version = '116.6';
+                Site.version = '123.1';
            </script>
-<script type="text/javascript" src="http://l-stat.livejournal.net/js/??.ljlib.js?v=1403878804"></script>
-<script type="text/javascript" src="http://l-stat.livejournal.net/js/??scheme/schemius.js?v=1403878804"></script>
-<!--[if lt IE 9]><script type="text/javascript" src="http://l-stat.livejournal.net/js/??lib/html5shiv.js?v=1403878804"></script><![endif]-->
-<!--[if gte IE 9]><script type="text/javascript" src="http://l-stat.livejournal.net/js/??ie9pinned.js?v=1403878804"></script><![endif]-->
+<script type="text/javascript" src="http://l-stat.livejournal.net/js/??.ljlib.js?v=1419946128"></script>
+<script type="text/javascript" src="http://l-stat.livejournal.net/js/??scheme/schemius.js?v=1419946128"></script>
+<!--[if gte IE 9]><script type="text/javascript" src="http://l-stat.livejournal.net/js/??ie9pinned.js?v=1419946128"></script><![endif]-->
 
-    
-    <meta property="og:description" content="LiveJournal"><meta property="og:image" content="http://l-stat.livejournal.net/img/schemius/logo-meta.png"><meta property="og:title" content="LiveJournal Privacy Policy "><meta property="og:type" content="website"><meta property="og:url" content="http://www.livejournal.com/legal/privacy.bml">
 
-    
+    <meta name="description" content=""><meta property="og:description" content="LiveJournal"><meta property="og:image" content="http://l-stat.livejournal.net/img/schemius/logo-meta.png"><meta property="og:title" content="LiveJournal Privacy Policy "><meta property="og:type" content="website"><meta property="og:url" content="http://www.livejournal.com/legal/privacy.bml">
+
+    <!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-24823174-1', 'auto');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
 
 </head>
 
 <body class="s-schemius logged-out  world-cup ">
+
+    
+
     <input type="checkbox" id="s-nav-body-common" name="s-nav-body-common">
-        
+
+    
         <input type="checkbox" id="s-nav-body-login" name="s-nav-body-login">
     
 
     <div class="s-layout s-logged-out">
+
         
+
         
-        
-        
-        
+
         <header class="s-header" role="banner">
             <div class="s-header-in">
-                 
+
                  <div class="s-logo">
                     <a href="http://www.livejournal.com">
                         <span>LiveJournal</span>
                     </a>
-                    <sup title=""><a href="http://www.livejournal.com/betatest.bml"></a></sup>
+                    
                 </div>
-                 
+
 
                 
                     <nav class="s-nav" role="navigation">
@@ -83,23 +178,26 @@
                             <h3></h3>
                         </header>
 
-    
+
                         <!-- The First Control -->
 
                         <label class="s-nav-control s-nav-control-common" for="s-nav-body-common">
                             <span class="i-iconus i-iconus-menu"></span>
                         </label>
-                        
+
                         <ul class="s-nav-body s-nav-body-common">
                             <li class="s-nav-item s-nav-item-read">
                                 <header>
                                     
-                                        <a class="s-nav-rootlink s-nav-rootlink-browse" href="http://www.livejournal.com/browse/">Communities</a>
-                                        
-                                </header>
+                                        <a class="s-nav-rootlink s-nav-rootlink-browse" href="http://www.livejournal.com/browse/" data-tour="friendsfeed" data-tour-start-page="^/feed" data-tour-step="1" data-tour-remote="true" data-tour-bubble="{
+                                            &quot;alwaysBottom&quot;: true,
+                                            &quot;alwaysRight&quot;: true
+                                           }" data-tour-title="tour.friendsfeed.title" data-tour-text="tour.friendsfeed.step1.communities.tip">Communities</a>
                                     
-                            </li>
+                                </header>
                                 
+                            </li>
+                            
                             <li class="s-nav-item s-nav-item-sub s-drop-master s-nav-item-shop">
                                 <header>
                                     <a class="s-nav-rootlink s-nav-rootlink-shop" href="http://www.livejournal.com/shop/">Shop</a>
@@ -107,13 +205,16 @@
                                 <ul class="s-nav-sub s-drop">
                                     <li class="s-nav-item-mobile s-nav-rootlink-shop"><a href="http://www.livejournal.com/shop/">Shop</a></li>
                                     <li class="s-nav-item-paid-account"><a href="http://www.livejournal.com/shop/paidaccount.bml">Paid</a></li>
+
                                     
                                     
                                     
                                     
+
                                     
-                                    
-                                    
+
+                                    <li class="s-nav-item-promo"><a href="http://www.livejournal.com/shop/selfpromo.bml">Promo</a></li>
+
                                     
                                     <li class="s-nav-item-tokens"><a href="http://www.livejournal.com/shop/tokens.bml">Tokens</a></li>
                                 </ul>
@@ -126,17 +227,15 @@
                                     <li class="s-nav-item-mobile s-nav-rootlink-support"><a href="http://www.livejournal.com/support/">Help</a></li>
                                     <li class="s-nav-item-about"><a href="http://www.livejournal.com/about/">About</a></li>
                                     <li class="s-nav-item-faq"><a href="http://www.livejournal.com/support/faq.bml">FAQ</a></li>
+
                                     
-                                    
-                                    
+
                                     <li class="s-nav-item-legal"><a href="http://www.livejournal.com/legal/tos.bml">Terms of Service</a></li>
-                                    <li class="s-nav-item-privacy"><a href="http://www.livejournal.com/legal/privacy.bml ">Privacy Policy</a></li>
+                                    <li class="s-nav-item-privacy"><a href="http://www.livejournal.com/legal/privacy.bml">Privacy Policy</a></li>
                                     <li class="s-nav-item-dmca"><a href="http://www.livejournal.com/legal/dmca.bml ">DMCA</a></li>
 
-                                    <li class="s-nav-item-mobile s-nav-item-search">
-                                        <form action="http://www.livejournal.com/search/" method="get" role="search">
-                                            <input type="search" placeholder="Search for..." results="5" autosave="some_unique_value" size="12" name="q" id="SearchText">
-                                        </form>
+                                    <li class="s-nav-item-search">
+                                        <a href="http://www.livejournal.com/gsearch">Search</a>
                                     </li>
                                 </ul>
                             </li>
@@ -150,24 +249,31 @@
                                 <span class="i-iconus i-iconus-login">Login</span>
                             </label>
                         
-                         
-                        
+
+
                         <ul class="s-nav-body s-nav-body-user">
                             
                                 <li class="s-nav-item s-nav-item-login">
-                                    <header> 
+                                    <header>
                                         <a class="s-nav-rootlink" href="http://www.livejournal.com/login.bml">Login</a>
                                     </header>
                                 </li>
+                                <li class="s-nav-item s-nav-item-signup">
+                                    <a class="
+                                        b-flatbutton
+                                        b-flatbutton-simple
+                                        " href="http://www.livejournal.com/create">Join</a>
+                                </li>
                             
                         </ul>
-                    </nav>    
+                    </nav>
 
 
 
 
 
                     <nav role="presentation">
+
                         <ul class="s-do">
 
                             
@@ -175,48 +281,27 @@
                                     <header>
                                         <a href="http://www.livejournal.com/support/submit">
                                             <span class="i-iconus i-iconus-feedback"></span>
-                                        </a>    
+                                        </a>
                                     </header>
-                                </li> 
+                                </li>
+
+
 
                             
-                                                         
-                             
 
-                              
+                            
 
 
-                              
-
-                            <li class="s-do-item s-do-item-search">
-                                <header>
-                                    <a href="http://www.livejournal.com/search">
-                                        <span class="i-iconus i-iconus-search"></span>
-                                    </a>
-                                </header>
-                                <div class="s-search">
-                                    <form action="http://www.livejournal.com/search/" method="get" role="search">
-                                        <input type="search" placeholder="Search for..." results="5" autosave="some_unique_value" size="12" name="q" id="SearchText">
-                                    </form>
-                                    <!--form action="http://www.livejournal.com/search/" method="get">
-                                        <input type="text" value="Find"
-                                            size="12" name="q" id='SearchText'
-                                            onfocus="if(this.value=='Find')this.value='';"
-                                            onblur="if(this.value=='')this.value='Find';" />
-                                        <input type="submit" value="" />
-                                    </form -->
-                                </div>
-                            </li>
+                            
                         </ul>
-
                     </nav>
 
-                    
+
                     
                         <div class="s-nav">
-                            <ul class="s-nav-body s-nav-body-lang">                                
+                            <ul class="s-nav-body s-nav-body-lang">
                                 <li class="s-nav-item s-nav-item-sub s-drop-master s-nav-item-lang">
-                                    <header> 
+                                    <header>
                                         
                                             <a class="s-nav-rootlink s-nav-rootlink-lang" href="http://www.livejournal.com/manage/settings/?cat=display">English&nbsp;(en)</a>
                                         
@@ -249,24 +334,32 @@
                                         
                                             <li data-lang="be" class="s-nav-item-mobile"><a href="">Беларуская&nbsp;(be)</a></li>
                                             <li data-lang="be"><a href="">Беларуская&nbsp;(be)</a></li>
-                                                                             
-                                    </ul>            
-                                </li> 
+                                        
+                                    </ul>
+                                </li>
                             </ul>
                         </div>
                     
+
+                    <div class="s-inline-search-container">
+                        <form class="s-inline-search" action="http://www.livejournal.com/gsearch/" method="get" role="search" target="_blank">
+                            <input class="s-inline-search-input" type="search" placeholder="Search" results="5" autosave="some_unique_value" size="12" name="q" id="SearchText" data-tour="friendsfeed" data-tour-step="2" data-tour-remote="true" data-tour-text="tour.friendsfeed.step2.search.tip" data-tour-title="tour.friendsfeed.title" data-tour-bubble="{
+                                       &quot;alwaysBottom&quot;: true,
+                                       &quot;alwaysLeft&quot;: true
+                                   }">
+                        </form>
+                    </div>
+
                     
-                    
-                    
+
                 
-                
+
                 
             </div>
         </header>
+
         
-    
-        <div class="b-fader b-fader-login"></div>
-            <div class="b-loginform s-loginform">
+                <div class="b-loginform s-loginform">
         <header class="b-loginform-header">
             <h2>Log in</h2>
             <span class="i-iconus b-loginform-close" tabindex="17"></span>
@@ -277,25 +370,22 @@
                     <span class="b-ljform-label b-loginform-external-label">Or connect using: </span>
                     <ul class="b-loginform-social">
                         <li class="b-loginform-social-item b-loginform-social-fb">
-                            <a class="b-loginform-social-link" title="Login with Facebook" href="http://www.livejournal.com/identity/login.bml?type=facebook" tabindex="16">
-                            </a>
+                            <a class="b-loginform-social-link" title="Login with Facebook" href="http://www.livejournal.com/identity/login.bml?type=facebook" tabindex="16">Facebook</a>
                         </li>
                         <li class="b-loginform-social-item b-loginform-social-tw">
-                            <a class="b-loginform-social-link" title="Login with Twitter" href="http://www.livejournal.com/identity/login.bml?type=twitter" tabindex="16">
-                            </a>
+                            <a class="b-loginform-social-link" title="Login with Twitter" href="http://www.livejournal.com/identity/login.bml?type=twitter" tabindex="16">Twitter</a>
                         </li>
                         <li class="b-loginform-social-item b-loginform-social-vk">
-                            <a class="b-loginform-social-link" title="VKontakte" href="http://www.livejournal.com/identity/login.bml?type=vkontakte" tabindex="16"></a>
+                            <a class="b-loginform-social-link" title="VKontakte" href="http://www.livejournal.com/identity/login.bml?type=vkontakte" tabindex="16">VK</a>
                         </li>
                         <li class="b-loginform-social-item b-loginform-social-google">
-                            <a class="b-loginform-social-link" title="Google" href="http://www.livejournal.com/identity/login.bml?type=google" tabindex="16"></a>
+                            <a class="b-loginform-social-link" title="Google" href="http://www.livejournal.com/identity/login.bml?type=google" tabindex="16">Google+</a>
                         </li>
                         <li class="b-loginform-social-item b-loginform-social-mail">
-                            <a class="b-loginform-social-link" title="Login with Mail.ru" href="http://www.livejournal.com/identity/login.bml?type=mailru" tabindex="16"></a>
+                            <a class="b-loginform-social-link" title="Login with Mail.ru" href="http://www.livejournal.com/identity/login.bml?type=mailru" tabindex="16">Mail.ru</a>
                         </li>
                         <li class="b-loginform-social-item b-loginform-social-openid">
-                            <a class="b-loginform-social-link" title="Login with OpenID" href="http://www.livejournal.com/identity/login.bml?type=openid" tabindex="16">
-                            </a>
+                            <a class="b-loginform-social-link" title="Login with OpenID" href="http://www.livejournal.com/identity/login.bml?type=openid" tabindex="16">OpenID</a>
                         </li>
                     </ul>
                 </div>
@@ -382,39 +472,50 @@
         </div>
     </div>
 
-           
         
+
         
+
         
 
 
         <div class="s-body">
-        
-   
-            
- 
-             
 
             
 
             
-            <div class="s-main b-service">
-                <header class="b-service-header">
-                    <h1 class="b-service-title">LiveJournal Privacy Policy </h1>
-                </header>
-				
-					<div class="b-service-body b-service-body-inner b-text">
+
             
 
-                     <!-- Content -->
-                     <div class="b-legaltext">
+            
+
+                <div class="s-main b-service">
+
+                    <header class="b-service-header">
+                        <h1 class="b-service-title">LiveJournal Privacy Policy </h1>
+                    </header>
+
+                    <div class="
+                            b-service-body
+                            
+                                b-service-body-inner
+                            
+                            
+                                b-text
+                            
+                            ">
+
+            
+
+                        <!-- Content -->
+                        <div class="b-legaltext">
 	<p>LiveJournal Inc. takes your privacy seriously. We are committed to making best efforts to protect your personal information and to give you as much control as possible over the privacy of the content you post on the Service. This Privacy Policy (“Policy”) applies to the LiveJournal Service worldwide (the “Service”), but may not cover the content you share with third party advertisers, web developers, or service providers that may appear on the Service, or support LiveJournal products or services, which are subject to their respective privacy policies.</p>
 	<p><strong>Safe Harbor Principles:</strong> LiveJournal is a social media platform that hosts user-generated content. LiveJournal does not control, condone, endorse, or assume responsibility for any of the content posted by our users. LiveJournal complies with the <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a> U.S. Department of Commerce’s Safe Harbor Program, and is committed to resolving complaints about your privacy and our collection or use of your personal information.&nbsp; European Union citizens with inquiries or complaints regarding this privacy policy should first contact LiveJournal at:</p>
 	<ul class="list-nomarkers">
 		<li>LiveJournal, Inc.</li>
-		<li>Attn: Safe Harbor Compliance Unit</li>
-		<li>28 2nd St. Third Floor</li>
-		<li>San Francisco, CA 94104</li>
+		<li>430 Main Street</li>
+		<li>San Francisco</li>
+		<li>CA 94105</li>
 	</ul>
 	<div id="s1">
 		<h2>Account and Profile Information</h2>
@@ -444,7 +545,7 @@
 	</div>
 	<div id="s5">
 		<h2>Information You Share</h2>
-		<p><strong>LiveJournal:</strong> Whenever you post and/or provide personal information through use of this Service, you understand that you are sharing your information with LiveJournal, organizations that may hold an interest in LiveJournal, their divisions and/or subsidiaries, and any of LiveJournal’s divisions and/or subsidiaries, and/or assigns. Their use of your personal information is subject to this Policy, but may be modified anytime by posting an updated Policy at this URL. It is your responsibility to check this Policy on a regular basis. Use of the Service constitutes your consent to the terms described herein.</p>
+		<p><strong>LiveJournal:</strong> Whenever you post and/or provide personal information through use of this Service, you understand that you are sharing your information with LiveJournal, organizations that may hold an interest in LiveJournal, their divisions and/or subsidiaries, and any of LiveJournal’s divisions and/or subsidiaries, and/or assigns. Their use of your personal information is subject to this Policy and/or applicable law, but may be modified anytime by posting an updated Policy at this URL. It is your responsibility to check this Policy on a regular basis. Use of the Service constitutes your consent to the terms described herein.</p>
 		<p><strong>No Resale of Identifiable Personal Information:</strong> We will not share or resell your identifiable personal information to third parties for direct marketing purposes. LiveJournal may display relevant ads based on non-identifiable personal information, such as browser type, region detected on the basis of information located in the Network field of the Internet Address, and your use of, and interaction with, any part of the Service.</p>
 		<p><strong>Billing:</strong> LiveJournal may use your personal information in order to investigate or complete a transaction (such as processing a payment for a service you ordered). </p>
 		<p><strong>Email:</strong> LiveJournal may use your email address to contact you regarding important Account or Service updates. We will do our best to offer an opportunity to opt-out of non-essential communications.</p>
@@ -482,20 +583,22 @@
 		<h2>Contacting LiveJournal</h2>
 		<p>If you have a question about this policy or have an outstanding issue regarding privacy on LiveJournal, you can submit a customer support request at <a href="http://www.livejournal.com/support/submit.bml">http://www.livejournal.com/support/submit.bml</a>. If you have a pressing issue that requires prompt assistance, please email us directly at <a href="mailto:privacy@livejournal.com" <="" a="">privacy@livejournal.com</a>. Please note that we will respond as quickly as possible, but it may take a few days for us to respond to your request.</p>
 	</div>
-	<p><em>Effective Date:  December 12, 2010</em></p>
+	<p><em>Effective Date:  December 16, 2014</em></p>
 </div>
 
 
 
             
-                </div> <!-- End of b-service-body -->
-             </div>
+
+                    </div> <!-- End of b-service-body -->
+
+                </div>
+
             
 
-         </div><!-- end of .s-body  -->
-         
-     </div>
+        </div><!-- end of .s-body  -->
 
+    </div>
 
     <footer class="s-footer cf">
         <div class="s-footer-in">
@@ -503,7 +606,7 @@
             <div class="s-options">
                 <dl class="s-option">
                     <dt>Follow us: </dt>
-                    <dd>    
+                    <dd>
                         <ul class="s-social">
                             <li class="s-social-item s-social-item-f">
                                 <a class="lj-track" href="http://www.facebook.com/livejournal" target="_blank" title="Follow us on Facebook"><span>Follow us on Facebook</span></a>
@@ -511,11 +614,11 @@
                             <li class="s-social-item s-social-item-tw">
                                 <a class="lj-track" href="https://twitter.com/LiveJournal" target="_blank" title="Follow us on Twitter"><span>Follow us on Twitter</span></a>
                             </li>
-                                
+                            
                             <li class="s-social-item s-social-item-gp">
                                 <a class="lj-track" href="https://plus.google.com/101832729589721830518/posts" target="_blank" title="Follow us on Google+"><span>Follow us on Google+</span></a>
-                            </li>                    
-                        </ul>    
+                            </li>
+                        </ul>
                     </dd>
                 </dl>
 
@@ -556,14 +659,14 @@
 <option value="nn">Norsk nynorsk</option>
 </select></dd>
                 </dl>
-                            
-                 
+
+                
                     <dl class="s-option s-version">
-                        <dt>Current version</dt>                
-                        <dd><a href="http://www.livejournal.com/betatest.bml">v.116.6</a></dd>
+                        <dt>Current version</dt>
+                        <dd><a href="http://www.livejournal.com/betatest.bml">v.123.1</a></dd>
                     </dl>
-                    
-                    
+                
+
             </div>
 
             <nav class="s-footer-nav">
@@ -585,7 +688,7 @@
 
 
     <!-- welcome popup fader -->
-    <div class="b-fader b-fader-feedback"></div>
+    <div class="b-fader"></div>
 
 
 
@@ -677,7 +780,7 @@
 
 
 
-    <input type="hidden" name="lj_form_auth" value="c0:1404111600:1341:86400:ooFktY3Auk-0-:e4efb879ca82032ba59039e578d4654a">
+    <input type="hidden" name="lj_form_auth" value="c0:1420016400:2992:86400:DbckfjIhlK-0-:5b9edb21a6460b2a28ef7d5b45f31e74">
 
 
 
@@ -812,7 +915,7 @@
                             --></option>
                         
                             <option value="4"><!--
-                                -->Troubleshooting<!--
+                                -->Web Interface<!--
                             --></option>
                         
                             <option value="29"><!--
@@ -899,10 +1002,8 @@
             </span>
         </dt>
 
-        <dd class="b-formset-field-body">
-            <span class="b-formset-input-wrapper">
-                <textarea name="message" id="message" rows="15" cols="70" tabindex="50" autocomplete="off" class="b-formset-textarea" placeholder="Brief description"></textarea>
-            </span>
+        <dd class="b-formset-field-body b-supportpage-request-field">
+            <textarea name="message" id="message" tabindex="50" autocomplete="off" class="b-formset-textarea" placeholder="Brief description"></textarea>
             <p class="b-formset-field-desc"><!--
                 --><!--
                     -->Do not include any sensitive information, such as your password or phone number. No HTML allowed.<!--
@@ -971,43 +1072,72 @@
 
 
 
+    <!-- lj video -->
+    
+
+        <div class="s-ljvideo">
+
+            <header class="s-ljvideo-header">
+
+                <!-- head -->
+                <h3 class="s-ljvideo-head"><!--
+                    Welcome to Livejournal
+                    -->Welcome to LiveJournal<!--
+                --></h3>
+
+                <!-- close button -->
+                <span tabindex="50" class="i-iconus s-ljvideo-close"></span>
+
+            </header>
+
+            <div class="s-ljvideo-movie">
+                <div id="s-ljvideo-player"></div>
+            </div>
+
+            <div class="s-ljvideo-action">
+                <a href="http://www.livejournal.com/create" target="_blank" class="
+                        b-flatbutton
+                        b-flatbutton-shining
+                        s-ljvideo-button
+                        ">Create an account</a>
+            </div>
+
+        </div>
+
+    <!-- /lj video -->
+
+
+
     
 
     <div id="hello-world" style="text-align: left; font-size:0; line-height:0; height:0; overflow:hidden;"><!-- begin of Top100 code -->
-<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1111412"></script>
+<script> 
+var _top100q = _top100q || []; 
+_top100q.push(['setAccount', '1111412']); 
+_top100q.push(['trackPageview']); 
+
+(function(){ 
+  var top100 = document.createElement("script"); top100.type = "text/javascript"; top100.async = true; 
+  top100.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//st.top100.ru/top100/top100.js"; 
+  var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(top100, s); 
+})(); 
+</script> 
 <noscript>
-    <img src="http://counter.rambler.ru/top100.cnt?1111412" alt="" width="1" height="1" border="0" />
+    <img src="//counter.rambler.ru/top100.cnt?1111412" alt="" width="1" height="1" border="0" />
 </noscript>
 <!-- end of Top100 code -->
 <!-- begin Rambler Ad code -->
-<div id="rambler_ad_counter_140411294148"></div>
+<div id="rambler_ad_counter_142001939273"></div>
 <script>
     ;(function () {
         LJ.injectScript('//ad.rambler.ru/static/green2.min.js')
             .done(function () {
-                _green.defineSlot('8990', [1, 1], 'rambler_ad_counter_140411294148');
-                _green.display('rambler_ad_counter_140411294148');
+                _green.defineSlot('8983', [1, 1], 'rambler_ad_counter_142001939273');
+                _green.display('rambler_ad_counter_142001939273');
             });
     }());
 </script>
 <!-- end Rambler Ad code -->
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-24823174-1']);
-  _gaq.push(['_setDomainName', '.livejournal.com']);
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
 <!-- tns-counter.ru --> 
 <script language="JavaScript" type="text/javascript"> 
 var img = new Image();
@@ -1018,19 +1148,8 @@ img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/
 </noscript>
 <!--/ tns-counter.ru -->
 <!-- LiveJournal COUNTER -->
-<img src="http://xc3.services.livejournal.com/ljcounter/?d=srv:bil1-botws03,r:0,j:0,uri:%22%2Flegal%2Fprivacy.bml%22,ref:%22http:%2F%2Fwww.livejournal.com%2F%22,vig:0,extra:" alt="">
+<img src="http://xc3.services.livejournal.com/ljcounter/?d=srv:bil1-botws05,r:0,j:0,uri:%22%2Flegal%2Fprivacy.bml%22,ref:%22http:%2F%2Fwww.livejournal.com%2F%22,vig:0,extra:" alt="">
 <!-- /COUNTER -->
-<!-- begin of yandex code --> 
-<script language="JavaScript">
-<!--
-    var seed=Math.round(Math.random()*65535);
-    document.write("<img src=http://awaps.yandex.ru/0/9999/001001.gif?0-0-"+seed+"-0-&" + "timestamp=" + seed + "&awcode=6&" + "subsection=0 width=1 height=1 border=0>");
-//-->
-</script><img src="http://awaps.yandex.ru/0/9999/001001.gif?0-0-21076-0-&amp;timestamp=21076&amp;awcode=6&amp;subsection=0" width="1" height="1" border="0">
-<noscript>
-    <img src=http://awaps.yandex.ru/0/9999/001001.gif?subsection=0 width=1 height=1 border=0>
-</noscript> 
-<!-- end of yandex code -->
 <!-- begin of Begun code -->
 <script>
     (new Image).src = [
@@ -1074,7 +1193,7 @@ LJ.ATI.params = {
     x8:  '0',
     x9:  '0',
     x10: '0',
-    x11: '1',
+    x11: '2',
     x12: '0',
     x13: '0',
     x14: '[undef]',
@@ -1082,6 +1201,7 @@ LJ.ATI.params = {
     x16: '2',
     x17: '[undef]',
     x18: '9',
+    x19: '0',
 
     f1: '',
     f2: '',
@@ -1096,51 +1216,71 @@ LJ.ATI.queryString = '&' + LiveJournal.constructUrl('', LJ.ATI.params).replace('
 if (window.xtparam != null) {
     window.xtparam += LJ.ATI.queryString;
 } else{
-    window.xtparam  = LJ.ATI.queryString + '&ati=PUB-[livejournal]-[demand_media]--[160x600]';
+    window.xtparam  = LJ.ATI.queryString + '&ati=';
 };
 
 LJ.injectScript('http://l-stat.livejournal.net/js/ads/xtcore.js');
 </script>
 <noscript>
-<img width="1" height="1" alt="" src="http://logc400.xiti.com/hit.xiti?s=528851&s2=3&p=service::undef::undef::www.livejournal.com%2Flegal%2Fprivacy.bml&di=&an=&ac=&x2=undef&x3=2&x4=0&x5=schemius&x6=0&x7=undef&x8=0&x9=0&x10=0&x11=1&x12=0&x13=0&x14=undef&x15=0&x16=2&x17=undef&x18=9&tag=&ptype=0-0-0&f1=&f2=&f3=&f4=&xtpage=service::undef::undef::www.livejournal.com%2Flegal%2Fprivacy.bml&xtn2=3&ati=PUB-[livejournal]-[demand_media]--[160x600]" >
+<img width="1" height="1" alt="" src="http://logc400.xiti.com/hit.xiti?s=528851&s2=3&p=service::undef::undef::www.livejournal.com%2Flegal%2Fprivacy.bml&di=&an=&ac=&x2=undef&x3=2&x4=0&x5=schemius&x6=0&x7=undef&x8=0&x9=0&x10=0&x11=2&x12=0&x13=0&x14=undef&x15=0&x16=2&x17=undef&x18=9&x19=0&tag=&ptype=0-0-0&f1=&f2=&f3=&f4=&xtpage=service::undef::undef::www.livejournal.com%2Flegal%2Fprivacy.bml&xtn2=3&ati=" >
 </noscript>
 <!-- End ATI Basic Tracking Code -->
+<!-- Yandex.Metrika counter -->
+
+<script type="text/javascript">
+
+(function (d, w, c) {
+
+    (w[c] = w[c] || []).push(function() {
+
+        try {
+
+            w.yaCounter27737346 = new Ya.Metrika({id:27737346,
+
+                    webvisor:true,
+
+                    clickmap:true,
+
+                    trackLinks:true,
+
+                    accurateTrackBounce:true});
+
+        } catch(e) { }
+
+    });
+
+
+
+    var n = d.getElementsByTagName("script")[0],
+
+        s = d.createElement("script"),
+
+        f = function () { n.parentNode.insertBefore(s, n); };
+
+    s.type = "text/javascript";
+
+    s.async = true;
+
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+
+
+    if (w.opera == "[object Opera]") {
+
+        d.addEventListener("DOMContentLoaded", f, false);
+
+    } else { f(); }
+
+})(document, window, "yandex_metrika_callbacks");
+
+</script>
+
+<noscript><div><img src="//mc.yandex.ru/watch/27737346" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<!-- /Yandex.Metrika counter -->
 </div>
     
-    <!--AdFox START-->
-<!--sup-com-->
-<!-- LJSUP-17777 -->
-<!-- ________________________AdFox Asynchronous code START__________________________ -->
-<script type="text/javascript">
-<!--
-if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
-if (typeof(document.referrer) != 'undefined') {
-  if (typeof(afReferrer) == 'undefined') {
-    afReferrer = escape(document.referrer);
-  }
-} else {
-  afReferrer = '';
-}
-var addate = new Date();
-var scrheight = '', scrwidth = '';
-if (self.screen) {
-scrwidth = screen.width;
-scrheight = screen.height;
-} else if (self.java) {
-var jkit = java.awt.Toolkit.getDefaultToolkit();
-var scrsize = jkit.getScreenSize();
-scrwidth = scrsize.width;
-scrheight = scrsize.height;
-}
-var dl = escape(document.location);
-var pr1 = Math.floor(Math.random() * 1000000);
-document.write('<div id="AdFox_banner_'+pr1+'"></div>');
-document.write('<div style="visibility:hidden;position:absolute;top:0;right:0;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0></iframe></div>');
-AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/171817/prepareCode?p1=bnjgf&amp;p2=exqv&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=&amp;puid2=&amp;puid3=&amp;puid4=&amp;puid5=&amp;puid6=&amp;puid7=&amp;puid8=&amp;puid9=&amp;puid10=&amp;puid11=&amp;puid12=&amp;puid13=&amp;puid14=&amp;puid15=&amp;puid16=&amp;puid17=&amp;puid18=&amp;puid19=&amp;puid20=&amp;puid21=&amp;puid22=&amp;puid23=&amp;puid24=&amp;puid25=&amp;puid26=&amp;puid27=&amp;puid28=&amp;puid29=&amp;puid30=&amp;puid31=&amp;puid32=&amp;puid33=&amp;puid34=&amp;puid35=&amp;pdw=' + scrwidth + '&amp;pdh=' + scrheight + '&amp;dl='+dl+'&amp;pr1='+pr1);
-// -->
-</script><div id="AdFox_banner_651005"></div><div style="visibility:hidden;position:absolute;top:0;right:0;"><iframe id="AdFox_iframe_651005" width="1" height="1" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe></div>
-<!-- _________________________AdFox Asynchronous code END___________________________ -->
-
+    
 
 
 
