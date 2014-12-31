@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630225107id_/http%3A//www.taboola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231021458id_/http%3A//www.taboola.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Taboola - Content you may like
 
@@ -50,7 +50,7 @@ If we provide you with any mailings or other communication, you can always opt o
 
 You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled.
 
-You can also opt out of having us track and collect your personal information by clicking on the button below.  By opting out you give us permission to clear all the cookies we previously stored regarding your account and to set a new cookie that tells us that we should no longer track and collect your personal information.  WARNING – IF YOU CLEAR ALL COOKIES FROM YOUR BROWSER AFTER YOU OPT OUT YOU WILL ALSO BE CLEARING THE COOKIE THAT TELLS US THAT YOU HAVE OPTED OUT SO YOU WILL NEED TO RE-ENROLL IN OUR OPT-OUT.
+You can also opt out of having us track by clicking on the button below.  By opting out you give us permission to clear all the cookies we previously stored regarding your account and to set a new cookie that tells us that we should no longer track.  WARNING – IF YOU CLEAR ALL COOKIES FROM YOUR BROWSER AFTER YOU OPT OUT YOU WILL ALSO BE CLEARING THE COOKIE THAT TELLS US THAT YOU HAVE OPTED OUT SO YOU WILL NEED TO RE-ENROLL IN OUR OPT-OUT.
 
 **Accessing and updating your personal information**
 
