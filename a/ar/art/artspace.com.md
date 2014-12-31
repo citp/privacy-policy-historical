@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artspace.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213091824id_/http%3A//www.artspace.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artspace.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231173525id_/http%3A//www.artspace.com/privacy_policy) for the most accurate reproduction.*
 
 # Artspace - Privacy Policy
 
@@ -91,5 +91,5 @@ Artspace may amend or change this Privacy Policy from time to time at our sole d
 
 This site is owned and operated by Artspace.com Markets, Inc. If you have any questions or suggestions with respect to this policy, or if you wish to ask us to delete, correct, or show you your information as provided above, please email us at privacy@artandculture.com or write to us at our corporate address:
 
-75 Broad Street, 26th Floor  
-New York, NY 10004
+65 Bleeker Street, 8th Floor  
+New York, NY 10012
