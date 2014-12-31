@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528165601id_/http%3A//www.vodafone.co.uk/about-this-site/our-privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231074519id_/http%3A//www.vodafone.co.uk/about-this-site/our-privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy policy - Vodafone
 
@@ -23,7 +23,7 @@ We can get your personal information when you:
 
 
 
-We may also collect information about you from other organisations, if this is appropriate. These include fraud-prevention agencies, business directories and credit reference agencies.
+We may also collect information about you from other organisations, if this is appropriate. These include fraud-prevention agencies, business directories and credit reference agencies. We may also collect information about you from other companies, our business, or joint venture partners.
 
 
 
@@ -69,15 +69,15 @@ We may use and analyse your information to:
 
   * Carry out a credit check if you’re applying for a contract for airtime services and to assess your application. See more details about our [credit-checking process](https://web.archive.org/about-this-site/our-privacy-policy/credit-checking/index.htm "credit-checking process")
   * Process the goods and services you’ve bought from us, and keep you updated with your order progress
-  * Keep you informed generally about new products and services (unless you don’t want to receive our marketing messages)
+  * Keep you informed generally about new products and services (unless you choose not to receive our marketing messages)
   * Provide the relevant service or product to you. This includes other services not included in your agreement with us, and services that use information about where you are when using your mobile equipment (location information) and to contact you with messages about changes to the service or product
-  * Contact you with offers or promotions based on how you use our products and services. These include your calling and messaging activities, location information and browsing information (unless you’ve asked us not to contact you – see Section 2 on ‘Collecting your personal information’ for more details)
+  * Contact you with offers or promotions based on how you use our products and services. These include your calling and messaging activities, location information and browsing information (unless you choose not to receive these messages – see Section 2 on ‘Collecting your personal information’ for more details)
   * Bill you for using our products or services, or to take the appropriate amount of credit from you
   * Respond to any questions or concerns you may have about using our network, products or services
-  * Let you know about other companies' products and services (including offers and discounts we’ve specially negotiated for our customers) we think may interest you, if you’ve chosen to receive this information
+  * Let you know about other companies' products and services we think may interest you (including offers and discounts we’ve specially negotiated for our customers)
   * Protect our network and manage the volume of calls, texts and other use of our network. For example, we identify peak periods of use so we can try and ensure the network can handle the volume at those times
   * Understand how you use our network, products and services. That way, we can develop more interesting and relevant products and services, as well as personalising the products and services we offer you
-  * Carry out research and statistical analysis to monitor how customers use our network, products and services on an anonymous or personal basis
+  * Carry out research and statistical analysis including to monitor how customers use our network, products and services on an anonymous or personal basis
   * Prevent and detect fraud or other crimes, recover debts or trace those who owe us money
 
 
@@ -95,6 +95,7 @@ We may share information about you with:
 
   * Companies in the Vodafone Group (Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital)
   * Partners or agents involved in delivering the products and services you’ve ordered or used
+  * Companies who are engaged to perform services for, on behalf of Vodafone Limited, or the Vodafone Group
   * Credit reference, fraud prevention or business scoring agencies, or other credit scoring agencies
   * Debt collection agencies or other debt recovery organisations
   * Law enforcement agencies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law
@@ -108,16 +109,16 @@ If we’re reorganised or sold to another organisation, we may transfer any pers
 
 We may need to transfer your information to other group companies or service providers in countries outside the EEA (European Economic Area). This may happen if our servers or suppliers and service providers are based outside the EEA, or if you use our services and products while visiting countries outside this area.
 
-We may also share your information with partner organisations we’ve chosen carefully, so they can contact you about their products and services if you’ve agreed to this.
+We may also share your information with partner organisations we’ve chosen carefully, so they can contact you about their products and services.
 
 
 
 
 ### Keeping your personal information secure
 
-We have specialised security teams who constantly review and improve our measures to protect your personal information from unauthorised access, accidental loss or destruction.
+We have specialised security teams who constantly review and improve our measures to protect your personal information from unauthorised access, accidental loss, disclosure or destruction.
 
-If we have a contract with another organisation to provide a service on our behalf, we’ll make sure they have appropriate security measures and only process your information in the way we’ve authorised. These organisations won’t be entitled to use your personal information for their own purposes. If necessary, our security teams will check them to make sure they meet the security requirements we’ve set.
+If we have a contract with another organisation to provide us with services or a service on our behalf to process your personal information, we’ll make sure they have appropriate security measures and only process your information in the way we’ve authorised them to. These organisations won’t be entitled to use your personal information for their own purposes. If necessary, our security teams will check them to make sure they meet the security requirements we’ve set.
 
 Communications over the internet (such as emails) aren’t secure unless they’ve been encrypted. Your communications may go through a number of countries before being delivered – as this is the nature of the internet. We can’t accept responsibility for any unauthorised access or loss of personal information that’s beyond our control.
 
