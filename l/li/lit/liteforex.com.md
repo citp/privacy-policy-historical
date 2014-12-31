@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617115741id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231041911id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LiteForex
 
 [](http://www.liteforex.com/)
 
   * [Client's Profile](https://secure.liteforex.com/en/)
-  * [Live Chat](http://www.livehelpnow.net/products/live-chat-system)
-
+  * 
 
 
 [](http://www.liteforex.com/company/awards/100-world-finance/)
