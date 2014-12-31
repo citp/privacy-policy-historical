@@ -1,65 +1,76 @@
-<!--The following is the downloaded HTML source of the programmableweb.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626075753id_/http%3A//www.programmableweb.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the programmableweb.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231025544id_/http%3A//www.programmableweb.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head profile="http://www.w3.org/1999/xhtml/vocab">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4FUFNbGwcBVFhVDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<meta name="twitter:site:id" content="17413602">
-<meta name="twitter:site" content="@programmableweb">
-<meta property="og:url" content="http://www.programmableweb.com/privacy">
-<meta name="twitter:url" content="http://www.programmableweb.com/privacy">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://i62.tinypic.com/sqo181.png">
-<meta name="msvalidate.01" content="A831B864E788CA09524699B47E05A41D">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="http://www.programmableweb.com/sites/default/files/pwfav.png" type="image/png">
-<meta name="twitter:image:height" content="65">
-<meta name="twitter:image:width" content="65">
+<meta name="msvalidate.01" content="A831B864E788CA09524699B47E05A41D">
+<meta name="description" content="Personal Information You have complete control over your personal information. In general, you can use our Website without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you access to our Website or to assist us in providing support or services to you. This information may include registration data (your name, company, address, email address, phone number, title, etc.), information request data and response data (“User Information”).">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="http://www.programmableweb.com/privacy">
+<link rel="shortlink" href="http://www.programmableweb.com/node/52519">
+<link rel="author" href="http://plus.google.com/">
+<meta property="og:site_name" content="ProgrammableWeb">
+<meta property="og:type" content="article">
+<meta property="og:title" content="ProgrammableWeb: Privacy Policy">
+<meta property="og:url" content="http://www.programmableweb.com/privacy">
+<meta property="og:description" content="Personal Information You have complete control over your personal information. In general, you can use our Website without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you access to our Website or to assist us in providing support or services to you. This information may include registration data (your name, company, address, email address, phone number, title, etc.), information request data and response data (“User Information”).">
 <meta property="og:image" content="http://i61.tinypic.com/25a5ajc.png">
 <meta property="og:image" content="http://i62.tinypic.com/2q9w7py.png">
 <meta property="og:image" content="http://i62.tinypic.com/2ennaft.png">
 <meta property="og:image" content="http://i57.tinypic.com/14jce90.png">
-<meta property="og:site_name" content="ProgrammableWeb">
-<meta property="og:description" content="Personal Information You have complete control over your personal information. In general, you can use our Website without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you access to our Website or to assist us in providing support or services to you. This information may include registration data (your name, company, address, email address, phone number, title, etc.), information request data and response data (“User Information”).">
-<meta property="og:title" content="ProgrammableWeb: Privacy Policy">
-<link rel="author" href="http://plus.google.com/">
-<meta name="description" content="Personal Information You have complete control over your personal information. In general, you can use our Website without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you access to our Website or to assist us in providing support or services to you. This information may include registration data (your name, company, address, email address, phone number, title, etc.), information request data and response data (“User Information”).">
-<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@programmableweb">
+<meta name="twitter:site:id" content="17413602">
 <meta name="twitter:title" content="ProgrammableWeb: Privacy Policy">
-<link rel="canonical" href="http://www.programmableweb.com/privacy">
-<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<meta name="twitter:url" content="http://www.programmableweb.com/privacy">
 <meta name="twitter:description" content="Personal Information You have complete control over your personal information. In general, you can use our Website without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you access to our Website or to assist us in providing support or services to you. This information may include registration data (your name, company, address, email address, phone number, title, etc.), information request data and response data (“User Information”).">
-<link rel="shortlink" href="http://www.programmableweb.com/node/52519">
+<meta name="twitter:image:src" content="http://i62.tinypic.com/sqo181.png">
+<meta name="twitter:image:width" content="65">
+<meta name="twitter:image:height" content="65">
   <title>ProgrammableWeb: Privacy Policy | ProgrammableWeb</title>
-  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700" rel="stylesheet" type="text/css">
-  <link type="text/css" rel="stylesheet" href="http://www.programmableweb.com/sites/default/files/advagg_css/css__eFIdtnvx9e_p71WqDVlhtYntzwjBnSbpqAvU4_Gy7H0__JvSPKonJ2uYc13ACG__kjBRnf1SEdF9W4-as9mZ-M_M__UZM0jwdhHj_OiF62JHVfvNHObfnOr9YHacp5WvCP3M8.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.programmableweb.com/sites/default/files/advagg_css/css__Z8z0wFR69oeDT974tFv1vjPfDtB2FbAsewf3c0Q2BmM__E7DRUzuJh9dMNBOaKfm8fBOyZYMQYhnGSbAV0MDIb0Q__UZM0jwdhHj_OiF62JHVfvNHObfnOr9YHacp5WvCP3M8.css" media="all">
-  <script src="http://www.programmableweb.com/sites/all/modules/contrib/respondjs/lib/respond.min.js?n7qljk"></script>
-<script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__FE9_1gIo_ikHYsrUuB9Rjzeyzyq_Md8wOPuhfBrRNSQ__Qy5fVtc3rGa4Cq2Ad7vac_9baB52MESrjvOcURy_Dq4__UZM0jwdhHj_OiF62JHVfvNHObfnOr9YHacp5WvCP3M8.js"></script>
-<script src="http://www.programmableweb.com/sites/all/modules/contrib/lightbox2/js/lightbox.js?1403769473"></script>
-<script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__KaZp60twaRFpB7IdN57N22C_sjMQDY1aEnvERtknlIg___KHE_ycJQlLu1n-eVWq17gjl6CWYE0yZWSlV3NS5vHA__UZM0jwdhHj_OiF62JHVfvNHObfnOr9YHacp5WvCP3M8.js"></script>
-<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-208396-1"]);_gaq.push(['_setCustomVar', 2, "content-type", "Page", 3]);_gaq.push(['_setCustomVar', 3, "publish-date", "Wednesday, January 29, 2014 - 17:22", 3]);_gaq.push(['_setCustomVar', 4, "author", "David Berlind", 3]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
-<script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__0Nxd1WKRBVf3q93ivNOKH-RqWIyB6bm6f_bOJmyUePA__mEZ3lFDQpWVohMClXQkGigbXV-mmR9GL_5uf4Kuta78__UZM0jwdhHj_OiF62JHVfvNHObfnOr9YHacp5WvCP3M8.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"pw_bootstrap","theme_token":"uZZyGCvkXHyhTAdgHBAeh7LLB5s-6QAYz85EzjcKC4w","css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/sharebar\/css\/sharebar.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/style\/default.css":1,"sites\/all\/themes\/pw_bootstrap\/less\/style.less":1},"js":{"sites\/all\/modules\/contrib\/respondjs\/lib\/respond.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/contrib\/superfish\/superfish.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/jquery.infinitescroll.min.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/manual-trigger.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/viewsinfinitescroll.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/jquery.mousewheel.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/perfect-scrollbar.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/custom.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/transition.js":1}},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0},"flexslider":{"optionsets":{"flexslider_pw_research_center":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":"15000","directionNav":true,"controlNav":false,"prevText":"\/Pre","nextText":"\/Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"visualization":"flexslider_pw_research_center"}},"extlink":{"extTarget":"_blank","extTargetValue":"_blank","extClass":0,"extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Top Menu"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}},"adzerkVarSet":{"primary_audience":"","primary_channel":"","primary_category":"","secondary_category":"","related_companies":"","related_languages":"","products":""},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700" rel="stylesheet" type="text/css">
+  <link type="text/css" rel="stylesheet" href="http://www.programmableweb.com/sites/default/files/advagg_css/css__cvY7eUUngXcN29mg_IqKJezzI-RH-a-gpeD6M1BToeQ__IEGxsz1w71SS3xAnohvokpwIwcNMAQr-rFWi2FwVCyI__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.programmableweb.com/sites/default/files/advagg_css/css__TOufhj8X_LaMT-qVUB3Xp1DKIXrBOC7fZSDihbM9InU__xEKUxODRj5kBwtY42iIoFG2RZhUla3MyjfXau4cqXQE__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.programmableweb.com/sites/default/files/advagg_css/css__ie3-XHqsSNJcZS4eBU_7090jw6n2gsPuY0d1seduRVY__ylg5pjXlxSDMOpj8ttxnat1d-0SOuPdJ0C96lMoF-Ck__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.programmableweb.com/sites/default/files/advagg_css/css__Ns_0wBXnz4uLUjqRWdD99OV0dyZOsZHMazGhWZ42zjk__xXXxmgAvlHYsbPTcewZTQitP2BleTW9P-RSNQJzAITM__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.css" media="all">
+  <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N2BDGD"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.programmableweb.com/sites/all/modules/contrib/respondjs/lib/respond.min.js?nhdtgy"></script>
+<script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__w9pt3RRQxWCeCEHhbwTbHvJpTe18MSPwBZxyHWFv9zw__sHU1wST9IW4Mn-0t0b1J3s-hMXEic4asHER6Yx4JWfE__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.js"></script>
+<script src="http://www.programmableweb.com/sites/all/modules/contrib/lightbox2/js/lightbox.js?1419994544"></script>
+<script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__KaZp60twaRFpB7IdN57N22C_sjMQDY1aEnvERtknlIg__5qq3s3XVaPx3paRWM-3oW4WOohcwFE6OeeuVasYeXh8__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-208396-5", "auto");ga("set", "dimension2", "Page");ga("set", "dimension3", "Wednesday, January 29, 2014 - 17:22");ga("set", "dimension4", "David Berlind");_gaq.push(['_setSiteSpeedSampleRate', 100]);ga("send", "pageview");</script>
+<script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__hoSjUEnzvgxL-W29l0GUDzraemr9NJ0Xy0D4sDc_oF4__iUjetdNvhY_rm-XTEkM-nsFFA-VLO97RfoptEwbT9gA__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"pw_bootstrap","theme_token":"THwSv_90fXnLAKoZlgyirSCdqX3FDfqgbeuD5XWQoVE","js":{"sites\/all\/modules\/contrib\/respondjs\/lib\/respond.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/custom\/contrib\/visualization\/js\/visualization.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/contrib\/ajaxblocks\/ajaxblocks.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/contrib\/superfish\/superfish.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/jquery.infinitescroll.min.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/manual-trigger.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/viewsinfinitescroll.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/jquery.mousewheel.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/perfect-scrollbar.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/custom.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/pw_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/modules\/contrib\/picture\/picturefill\/matchmedia.js":1,"sites\/all\/modules\/contrib\/picture\/picturefill\/picturefill.js":1,"sites\/all\/modules\/contrib\/picture\/picture.js":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/modules\/custom\/pw_ad\/js\/pw_adzerk.js":1,"sites\/all\/modules\/custom\/pw_ad\/js\/pw_adzerk_native_api_ads.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/bootstrap-tabcollapse.js":1,"sites\/all\/themes\/pw_bootstrap\/js\/pw_tabs.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"sites\/all\/modules\/contrib\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/custom\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/sharebar\/css\/sharebar.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/style\/default.css":1,"sites\/all\/themes\/pw_bootstrap\/less\/style.less":1}},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0},"flexslider":{"optionsets":{"flexslider_pw_research_center":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":"15000","directionNav":true,"controlNav":false,"prevText":"\/Pre","nextText":"\/Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"visualization":"flexslider_pw_research_center"}},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Top Menu"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}},"adzerkVarSet":{"primary_audience":"","primary_channel":"","primary_category":"","secondary_category":"","related_companies":"","related_languages":"","products":""},"ajaxblocks":"blocks=pw_homepage-usermenus\u0026path=node\/52519","bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-52519 node-type-page">
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
   </div>
-  <script>if(document.location.protocol=='http:'){
-			 var Tynt=Tynt||[];
-			 Tynt.push('autWDk3qir4Ou1acwqm_6r');
-			 (function(){
-				 var s=document.createElement('script');
-				 s.async='async';
-				 s.type='text/javascript';
-				 s.src='http://tcr.tynt.com/ti.js';
-				 var h=document.getElementsByTagName('script')[0];
-				 h.parentNode.insertBefore(s,h);
-				})();
-			}</script><script>
+  <script>
+// Klaviyo script
+if (Drupal.settings.user !== undefined) {
+  var _learnq = _learnq || [];
+  _learnq.push(['account', 'gmh6f2']);
+  _learnq.push(['identify', {
+    '$id' : Drupal.settings.user.uid,
+    '$email' : Drupal.settings.user.email,
+    '$first_name' : Drupal.settings.user.first_name,
+    '$last_name' : Drupal.settings.user.last_name,
+    'Created At' : Drupal.settings.user.created
+  }]);
+}
+(function () {
+  var b = document.createElement('script'); b.type = 'text/javascript'; b.async = true;
+  b.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'a.klaviyo.com/media/js/analytics/analytics.js';
+  var a = document.getElementsByTagName('script')[0]; a.parentNode.insertBefore(b, a);
+})();
+
+// GTM script
 if (Drupal.settings.common !== undefined && Drupal.settings.common.pageCategory !== undefined) {
   dataLayer = [{
+    'event':'pageload',
     'pageCategory': Drupal.settings.common.pageCategory
   }];
   var google_tag_params = {
@@ -68,15 +79,15 @@ if (Drupal.settings.common !== undefined && Drupal.settings.common.pageCategory 
     membertype: ' '
   };
   if (Drupal.settings.common.contentType !== undefined) {
-    dataLayer.push('contentType', Drupal.settings.common.contentType);
+    dataLayer.push({'contentType': Drupal.settings.common.contentType});
     google_tag_params.contenttype = Drupal.settings.common.contentType;
   }
   if (Drupal.settings.common.publishDate !== undefined) {
-    dataLayer.push('publishDate', Drupal.settings.common.publishDate);
+    dataLayer.push({'publishDate': Drupal.settings.common.publishDate});
     google_tag_params.publishdate = Drupal.settings.common.publishDate;
   }
   if (Drupal.settings.common.author !== undefined) {
-    dataLayer.push('author', Drupal.settings.common.author);
+    dataLayer.push({'author': Drupal.settings.common.author});
     google_tag_params.author = Drupal.settings.common.author;
   }
 }
@@ -88,7 +99,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 
-})(window,document,'script','dataLayer','GTM-5T6CSN');</script>  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5T6CSN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+})(window,document,'script','dataLayer','GTM-5T6CSN');</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N2BDGD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N2BDGD');</script>
+<!-- End Google Tag Manager -->  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5T6CSN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="fb-root"></div>
 <div class="header">
 	<div class="header-top-most hidden-xs hidden-sm visible-md visible-lg">
@@ -128,13 +149,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="block-pw-homepage-usermenus" class="block block-pw-homepage pull-right col-md-2 signup clearfix">
 
       
-  <div class="usermenus">
+  <div id="block-pw_homepage-usermenus-ajax-content" class="ajaxblocks-wrapper"><script type="text/javascript"></script><noscript><div class="usermenus">
   <ul class="menu">
 		    <li class="first leaf active"><a href="/user/register?destination=node/52519">Sign In/Sign Up</a></li>
       </ul>
 </div>
 
-
+</noscript></div>
 </section> <!-- /.block -->
   </div>
 			 				</div>
@@ -320,13 +341,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div id="search_block" class="panel-collapse collapse in">
       <div class="panel-body">
         <div class="container-inline"><form action="/privacy" method="post" id="pw-search-small-form" accept-charset="UTF-8"><div><div id="edit-search-text-top" class="form-type-item form-item form-group">
- <span>Search over 11,507 APIs updated daily</span>
+ <span>Search over 12,629 APIs updated daily</span>
 </div>
 <div class="input-group"><div class="form-type-textfield form-item-term form-item form-group">
  <input placeholder="Search APIs, mashups, developers" class="form-control form-text" type="text" id="edit-term" name="term" value="" size="60" maxlength="128">
 </div>
 </div><button class="btn btn-primary form-submit" id="edit-submit" name="op" value="search" type="submit">search</button>
-<span class="input-group-btn"><button type="submit" class="btn btn-default"><i class="icon glyphicon glyphicon-search" aria-hidden="true"></i></button></span><input type="hidden" name="form_build_id" value="form-igq1Tv-U5xzL2C_b4QXhUHbKWez6DI1UM5_gnop9GPo">
+<span class="input-group-btn"><button type="submit" class="btn btn-default"><i class="icon glyphicon glyphicon-search" aria-hidden="true"></i></button></span><input type="hidden" name="form_build_id" value="form-2mONxiYlTL4lCX2XHE_q7tGONNavKXShJlY9kImwdzU">
 <input type="hidden" name="form_id" value="pw_search_small_form">
 </div></form></div>      </div>
     </div>
@@ -341,39 +362,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div id="browsebycat" class="panel-collapse collapse">
       <div class="panel-body">
-        <div class="view view-by-category view-id-by_category view-display-id-block view-dom-id-5f4500d7d97a003e2593e8773b498ef8">
+        <div class="view view-by-category view-id-by_category view-display-id-block view-dom-id-f8aec7931627d506e3c72177ea107f4f">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
-  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/mapping">Mapping (4,211)</a></span>  </div>  </div>
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/travel">Travel (1,040)</a></span>  </div>  </div>
   <div class="views-row views-row-2 views-row-even">
       
-  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/project-management">Project Management (259)</a></span>  </div>  </div>
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/financial">Financial (1,356)</a></span>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd">
       
-  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/augmented-reality">Augmented Reality (11)</a></span>  </div>  </div>
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/mapping">Mapping (4,331)</a></span>  </div>  </div>
   <div class="views-row views-row-4 views-row-even">
       
-  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/bluetooth">Bluetooth (2)</a></span>  </div>  </div>
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/music">Music (1,055)</a></span>  </div>  </div>
   <div class="views-row views-row-5 views-row-odd">
       
-  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/brazilian">Brazilian (25)</a></span>  </div>  </div>
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/sports">Sports (584)</a></span>  </div>  </div>
   <div class="views-row views-row-6 views-row-even">
       
-  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/captcha">Captcha (28)</a></span>  </div>  </div>
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/food">Food (330)</a></span>  </div>  </div>
   <div class="views-row views-row-7 views-row-odd">
       
-  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/earthquakes">Earthquakes (27)</a></span>  </div>  </div>
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/gambling">Gambling (47)</a></span>  </div>  </div>
   <div class="views-row views-row-8 views-row-even views-row-last">
       
-  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/fantasy-sports">Fantasy Sports (9)</a></span>  </div>  </div>
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/weather">Weather (335)</a></span>  </div>  </div>
     </div>
   
   
   
+      
+<div class="more-link">
+  <a href="/category">
+    Browse all categories  </a>
+</div>
   
   
   
@@ -390,39 +416,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div id="newestapi" class="panel-collapse collapse">
       <div class="panel-body">
-        <div class="view view-browse-our-directory-of-apis-and-apps view-id-browse_our_directory_of_apis_and_apps view-display-id-block view-dom-id-f24b0c65d74ad4f8a02551ce4a7e44c2">
+        <div class="view view-browse-our-directory-of-apis-and-apps view-id-browse_our_directory_of_apis_and_apps view-display-id-block view-dom-id-af201733717a356afd442cd711ec8f45">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/autodesk-recap">Autodesk  ReCap</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/open-new-york-health-facility-general-information">Open New York Health Facility General Information</a></span>  </div>  </div>
   <div class="views-row views-row-2 views-row-even">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/betarigs">Betarigs</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/open-new-york-health-facility-certification-information">Open New York Health Facility Certification Information</a></span>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/retain.cc">Retain.cc</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/sightcall">SightCall</a></span>  </div>  </div>
   <div class="views-row views-row-4 views-row-even">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/mapi-us">MAPI US</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/zilpy-rent-estimate">Zilpy Rent Estimate</a></span>  </div>  </div>
   <div class="views-row views-row-5 views-row-odd">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/team-popong-poodl">Team POPONG POODL</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/odoo">Odoo</a></span>  </div>  </div>
   <div class="views-row views-row-6 views-row-even">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/sochain-blockchain">SoChain Blockchain</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/bitcore">Bitcore</a></span>  </div>  </div>
   <div class="views-row views-row-7 views-row-odd">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/cryptonator">Cryptonator</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/data.gov-domains">Data.Gov Domains</a></span>  </div>  </div>
   <div class="views-row views-row-8 views-row-even views-row-last">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/rate-checker">Rate Checker</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/api/google-play-game-services-publishing">Google Play Game Services Publishing</a></span>  </div>  </div>
     </div>
   
   
   
+      
+<div class="more-link">
+  <a href="/category/all/apis">
+    See more...  </a>
+</div>
   
   
   
@@ -440,39 +471,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div id="latestmashups" class="panel-collapse collapse">
       <div class="panel-body">
-        <div class="view view-browse-our-directory-of-apis-and-apps view-id-browse_our_directory_of_apis_and_apps view-display-id-block_1 view-dom-id-874beda109e13c4e48c6357ae3766229">
+        <div class="view view-browse-our-directory-of-apis-and-apps view-id-browse_our_directory_of_apis_and_apps view-display-id-block_1 view-dom-id-212322e54bbe73f6569816a2d1a669bf">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/mymeetingtime.com">myMeetingTime.com</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/feelter">Feelter</a></span>  </div>  </div>
   <div class="views-row views-row-2 views-row-even">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/usf-map">USF Map</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/xnspy">XNSPY</a></span>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/starterpad">StarterPad</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/webservicespros-customized-integration-solution-americommerce">WebServicesPros Customized Integration Solution for Americommerce</a></span>  </div>  </div>
   <div class="views-row views-row-4 views-row-even">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/reviewing.net">Reviewing.net</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/gp-hub">GP Hub</a></span>  </div>  </div>
   <div class="views-row views-row-5 views-row-odd">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/particle-reviews">Particle Reviews</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/dimensions-weather-and-news">Dimensions Weather and News</a></span>  </div>  </div>
   <div class="views-row views-row-6 views-row-even">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/etrigg.com">etrigg.com</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/convert-cat">Convert Cat</a></span>  </div>  </div>
   <div class="views-row views-row-7 views-row-odd">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/pixaquote">Pixaquote</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/skyvia">Skyvia</a></span>  </div>  </div>
   <div class="views-row views-row-8 views-row-even views-row-last">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/startup-watch">Startup Watch</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mashup/doob.fm">doob.fm</a></span>  </div>  </div>
     </div>
   
   
   
+      
+<div class="more-link">
+  <a href="/category/all/mashups">
+    See more...  </a>
+</div>
   
   
   
@@ -493,7 +529,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <div class="block-title"><span>PW Research Center</span></div>
     
-  <div class="view view-visualization view-id-visualization view-display-id-block view-dom-id-a35a003e9a67f34153c481e90fbffb2e">
+  <div class="view view-visualization view-id-visualization view-display-id-block view-dom-id-4638db061761a302fc3e65019f089595">
             <div class="view-header">
        <p>Our data. Your PowerPoints. Use our API research for your next presentation.  <a href="/api-research">See all</a></p>
      </div>
@@ -502,12 +538,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
       <div class="view-content">
       <div id="visualization" class="flexslider">
-  <ul class="slides"><li>  
-  <div class="views-field views-field-field-visualization-image">        <div class="field-content"><a href="/api-research"><img src="http://www.programmableweb.com/sites/default/files/styles/visualization/public/Resource%20Center%20PPT-3-Thumbnail-12-small.png?itok=_LekRnLs" width="301" height="131" alt=""></a></div>  </div></li>
-<li>  
-  <div class="views-field views-field-field-visualization-image">        <div class="field-content"><a href="/api-research"><img src="http://www.programmableweb.com/sites/default/files/styles/visualization/public/Resource%20Center%20PPT-2-Thumbnail-08.png?itok=7Ep8vzkz" width="301" height="131" alt=""></a></div>  </div></li>
-<li>  
-  <div class="views-field views-field-field-visualization-image">        <div class="field-content"><a href="/api-research"><img src="http://www.programmableweb.com/sites/default/files/styles/visualization/public/Resource%20Center%20PPT-1-Thumbnail-04.png?itok=7I_dOnAr" width="301" height="131" alt=""></a></div>  </div></li>
+  <ul class="slides"><li id="flexslider_pw_research_center_slider_1">  
+  <div class="views-field views-field-field-visualization-image">        <div class="field-content"><a href="/api-research"><img src="/sites/default/files/styles/visualization/public/Resource%20Center%20PPT-3-Thumbnail-12-small.png?itok=cIndZ2Br" width="301" height="131" alt=""></a></div>  </div></li>
+<li id="flexslider_pw_research_center_slider_2">  
+  <div class="views-field views-field-field-visualization-image">        <div class="field-content"><a href="/api-research"><img src="/sites/default/files/styles/visualization/public/Resource%20Center%20PPT-2-Thumbnail-08.png?itok=R0OcIiSs" width="301" height="131" alt=""></a></div>  </div></li>
+<li id="flexslider_pw_research_center_slider_3">  
+  <div class="views-field views-field-field-visualization-image">        <div class="field-content"><a href="/api-research"><img src="/sites/default/files/styles/visualization/public/Resource%20Center%20PPT-1-Thumbnail-04.png?itok=xCHLfIn8" width="301" height="131" alt=""></a></div>  </div></li>
 </ul></div>
     </div>
   
@@ -595,7 +631,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
       
    <div class="block-title">About ProgrammableWeb</div>
-<!--<a href="/">Programmableweb is more than a directory and community, it's programmable. Our "API for APIs" gives you a simple and structured way to access the powerful registration and repository capabilities of PW. Use your favorite language to search and review APIs, mashups, and other data from our catalog. </a>--><p>As the the world's leading source of news and information about Internet-based application programming interfaces (APIs), ProgrammableWeb.com is known as the Web's defacto journal of the API economy. Since it was founded in 2005, ProgrammableWeb has been chronicling the daily evolution of the global API economy while amassing the Web's most relied-on directory when it comes to discovering and searching for APIs to use in Web and mobile applications.</p>
+<p><a href="http://www.programmableweb.com/about">As the the world's leading source of news and information about Internet-based application programming interfaces (APIs), ProgrammableWeb.com is known as the Web's defacto journal of the API economy. Since it was founded in 2005, ProgrammableWeb has been chronicling the daily evolution of the global API economy while amassing the Web's most relied-on directory when it comes to discovering and searching for APIs to use in Web and mobile applications.</a></p>
  
 </section> <!-- /.block -->
 <section id="block-menu-menu-footer-five" class="block block-menu clearfix">
@@ -673,8 +709,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div>
 </footer>
 
-  <script src="http://www.linkstant.com/linkstant.js"></script><script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__UYVJVTwfrT4Ty4otpSkMY3UBysvqOnP0oH9GIQPdg10__tCLX04eTsDRZkwJDvBKGL7d2ntjm-HZtJtA309883To__UZM0jwdhHj_OiF62JHVfvNHObfnOr9YHacp5WvCP3M8.js"></script>
-<script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__DpASpTst1_mjxFtC4t5UOGn7XmTXK6NPGdhgHgcnQN8__s5NDOJuDGG_jnqdLkujZrxkJKhTDHQKoOs9m6HcDVFI__UZM0jwdhHj_OiF62JHVfvNHObfnOr9YHacp5WvCP3M8.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"c016c145dc","applicationID":"4109787","transactionName":"blFXMBZZWxcHAkUMWlcbdAcQUVoKSQ9eAVBmRFQDAWdDDQMW","queueTime":0,"applicationTime":760,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+  <script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__8oopF1LsZMOipvNRdmqMGd9F1uJc410ePEz-8YQJj38__tofWCRo9EstSHqoc3_PkzULPYnY3J0XlHcENfxp_9Ww__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.js"></script>
+<script src="http://www.programmableweb.com/sites/default/files/advagg_js/js__xCvZCEMWH8-v6i-1zwYaXLZ2cxbfSoUrvImkMFSRtCw__11qxSlKkGf2jui2fuSOLlLdhC6a6mesan0YZdZfT-t0__mDnY7aZ96t74LEHhiJ8HIVQpP9JwPkvlUZROP-fXibQ.js"></script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+
+</body></html>
