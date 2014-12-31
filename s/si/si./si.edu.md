@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the si.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625181725id_/http%3A//www.si.edu/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the si.edu privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231213945id_/http%3A//www.si.edu/Privacy) for the most accurate reproduction.*
 
 # Privacy Smithsonian
 
@@ -13,7 +13,7 @@ This Privacy Statement applies to the online activities of the Smithsonian Insti
 When you visit our Websites, we automatically gather and store the following information about your visit so that we can track the use of our Websites in order to make improvements. This information is stored and used in the aggregate only, and is not used to contact you personally:
 
   * The IP address from which you access our Websites;
-  * The name of the domain from which you access the Internet (for example, google.com, if you are connecting from an America Online account);
+  * The name of the domain from which you access the Internet (for example, gmail.com, if you are connecting from a Google account);
   * The type of browser and operating system used to access our Websites;
   * The date and time you access our sites;
   * The pages, files, documents and links that you visit; and 
