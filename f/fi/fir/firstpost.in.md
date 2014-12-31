@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the firstpost.in privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630102106id_/http%3A//www.firstpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstpost.in privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231045045id_/http%3A//www.firstpost.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Firstpost
+# Privacy - Firstpost
 
-[ ](http://xads.zedo.com/ads2/c?a=1986938;g=0;c=1656001122;i=0;x=24320;n=1656;s=8;k=http://www.firstpost.com/photos/nautica-get-to-the-water-3-1574953.html "#GetToTheWater in New England, USA with Nautica")
-
-[ ](http://firstbiz.firstpost.com/startup/heres-why-function-space-is-the-science-geeks-answer-to-facebook-87706.html "Function Space is the science geek’s answer to Facebook")
+[ ](http://www.firstpost.com/sports/dhoni-has-struggled-as-test-captain-for-a-while-sourav-ganguly-2018951.html "Dhoni has struggled as Test captain for a while: Sourav Ganguly")
 
 **Our Commitment**  
 firstpost.com is strongly committed to your right to privacy and to keeping your personal information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information.
@@ -18,11 +16,11 @@ firstpost.com may also carefully select other companies to send you information 
 
 firstpost.com may disclose personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (i) conform to the edicts of the law or comply with legal process served on the site or its owners; (ii) protect and defend the rights or property of the site-owners, the site or the users of firstpost.com, and (iii) act under exigent circumstances to protect the personal safety of users of firstpost.com, the site, its owners, or the public.
 
-**User/member interaction features**  
+ **User/member interaction features**  
 firstpost.com has many features that provide for users/members to disclose their identities and communicate with other users/members. Your use of such features and disclosure of any personal details (e.g. e-mail address) by you through these features are at your sole risk and firstpost.com accepts no responsibility for the same. However, if your privacy has been intruded as a result of participating in such features, you could notify us by e-mail at privacy@firstpost.com.
 
-**Other Websites**  
+ **Other Websites**  
 The firstpost.com site contains links to other websites. firstpost.com is not responsible for the privacy practices or the content of such websites.
 
-**Notify Us**  
+ **Notify Us**  
 If at any time you believe that firstpost.com or its users/members have not adhered to these principles, please notify firstpost.com by e-mail at privacy@firstpost.com and we will use all commercially reasonable efforts to promptly determine and correct the problem.
