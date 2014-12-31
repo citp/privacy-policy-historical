@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620082557id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231075015id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
 
 # FRB: Privacy
 
@@ -138,6 +138,8 @@ The Board complies with the E-Government Act of 2002. The Act requires an agency
 
 [Electronic Governors' Systems (PDF)](https://web.archive.org/files/pia_egovsystems.pdf)
 
+[Home Mortgage Disclosure Act Data Processing System (PDF)](https://web.archive.org/files/pia_hmda.pdf)
+
 [Fair Lending Tool (PDF)](https://web.archive.org/files/pia_fairlendingtool.pdf)
 
 [Federal Reserve Application Name Check System (PDF)](https://web.archive.org/files/pia_francsys.pdf)
@@ -146,7 +148,7 @@ The Board complies with the E-Government Act of 2002. The Act requires an agency
 
 [Nationwide Mortgage Licensing System and Registry (PDF)](https://web.archive.org/files/pia-nmlsr.pdf)
 
-[Office of Inspector General Information Technology Infrastructure Systems (PDF)](https://web.archive.org/files/pia_oig_it.pdf)
+[Office of Inspector General Information Technology Infrastructure Systems (PDF)](https://web.archive.org/files/pia_oig_itis.pdf)
 
 [Office of the Secretary Correspondence Control System (PDF)](https://web.archive.org/files/pia_osec_ccs.pdf)
 
