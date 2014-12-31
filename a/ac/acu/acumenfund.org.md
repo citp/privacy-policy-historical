@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acumenfund.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630102317id_/http%3A//acumen.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acumenfund.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231071000id_/http%3A//acumen.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Acumen
+# Privacy Policy - Acumen
 
 ### We Care About Your Privacy
 
