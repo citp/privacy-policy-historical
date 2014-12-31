@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betshoot.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616012815id_/http%3A//www.betshoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betshoot.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231184226id_/http%3A//www.betshoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy of Betshoot.com
 
@@ -12,13 +12,13 @@ When registering on our site, as appropriate, you may be asked to enter your: e-
 
 Any of the information we collect from you may be used in one of the following ways:
 
-\- To personalize your experience  
+– To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-\- To improve our website  
+– To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-\- To send periodic emails
+– To send periodic emails
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
