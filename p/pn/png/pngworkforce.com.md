@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pngworkforce.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609013648id_/http%3A//www.pngworkforce.com/index.php%3Fpage%3Den_Privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pngworkforce.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231150820id_/http%3A//pngworkforce.com/page/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Find a job or career in Papua New Guinea (PNG) with PNGWorkForce.com
+# Privacy Policy
 
-## Job Search
-
-**Privacy Policy**
+### Privacy Policy
 
 This Website collects Personal Data from its Users. The Personal Data is either collected automatically or provided voluntarily. Failure to provide the Personal Data may affect the use of the Site or the services offered. The purpose and methods of processing are set out below.
 
@@ -24,7 +22,7 @@ Port Moresby, N.C.D
 
 Papua New Guinea
 
-query@pngworkforce.com
+query@PNGworkForce.com
 
 **2\. Data collected during navigation**
 
