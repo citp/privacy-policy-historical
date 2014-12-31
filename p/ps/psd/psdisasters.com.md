@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psdisasters.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228000443id_/http%3A//www.psdisasters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdisasters.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231061423id_/http%3A//www.psdisasters.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PSD : Photoshop Disasters
+# Privacy Policy - PSD : Photoshop Disasters
 
 **What information do we collect?**
 
