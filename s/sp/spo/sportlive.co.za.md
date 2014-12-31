@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sportlive.co.za privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601214557id_/http%3A//www.sportlive.co.za/%3Ffilter%3DprivacyAndPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportlive.co.za privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231215437id_/http%3A//www.timeslive.co.za/%3Ffilter%3DprivacyAndPolicy) for the most accurate reproduction.*
 
-# Privacy and Policy - Sport LIVE
+# Privacy and Policy - Times LIVE
 
-Please read the [Privacy Policy](http://www.sportlive.co.za/?filter=privacyAndPolicy) and our notices regarding [Terms of Use](http://www.sportlive.co.za/?filter=termsandconditions) and Forums. By continuing to use the Sport LIVE, you agree to abide by the terms of these documents. 
+Please read the [Privacy Policy](http://www.timeslive.co.za/?filter=privacyAndPolicy) and our notices regarding [Terms of Use](http://www.timeslive.co.za/?filter=termsandconditions) and Forums. By continuing to use the Times LIVE, you agree to abide by the terms of these documents. 
 
 1\. Introduction
 
@@ -92,4 +92,4 @@ The Owner may periodically send e-mails to You about services, products or promo
 
 10\. Policies for Individuals Under 13 years of Age
 
-Sport LIVE encourages parents, teachers and guardians to spend time online with their children and to participate in the activities offered on the Web Site. No information (including personal information) should be submitted to or posted on the Web Site by any person under 13 years of age without the consent of their parent, teacher or guardian.
+Times LIVE encourages parents, teachers and guardians to spend time online with their children and to participate in the activities offered on the Web Site. No information (including personal information) should be submitted to or posted on the Web Site by any person under 13 years of age without the consent of their parent, teacher or guardian.
