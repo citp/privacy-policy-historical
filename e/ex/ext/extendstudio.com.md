@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extendstudio.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113254id_/http%3A//www.extendstudio.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendstudio.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231103544id_/http%3A//www.extendstudio.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Extendstudio.com | Privacy Policy | Flash & Dreamweaver Extensions | Professional Flash and Dreamweaver Components | Cost-effective | Site Design and Development
+# Privacy Policy | Company | ExtendStudio
 
 Thank you for visiting the Extend Studio site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Extend Studio site.
 
