@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxel.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630164917id_/http%3A//www.internap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxel.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231031451id_/http%3A//www.internap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internap
 
@@ -67,8 +67,8 @@ Internap complies with the U.S. – EU Safe Harbor Framework and the U.S. – Sw
 
 In compliance with the Safe Harbor Principles, Internap commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Internap at:
 
-Jay Halsted  
-Manager of Internal Audit  
+Stacy Gensler  
+VP of Internal Audit  
 Internap Network Services Corp.  
 One Ravinia Drive, Suite 1300  
 Atlanta, GA 30346  
