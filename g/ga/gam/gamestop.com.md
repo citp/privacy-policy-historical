@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamestop.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628112022id_/http%3A//www.gamestop.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestop.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231180456id_/http%3A//www.gamestop.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Help Center | GameStop
 
-Last updated: February 20th, 2013
+Last updated: December 31, 2014
 
 GameStop knows that you care about your privacy and the use of your personal information. This notice describes our Privacy Policy. This Privacy Policy applies to information we collect about you from any source – through our Websites, in our retail stores, through our Power-Up Rewards™ Program, in any contest or promotion, or any other way. 
 
@@ -108,6 +108,10 @@ Gamestop.com Customer Service
 
 Grapevine, TX 76051
 
+**Right to Remove Posted Information - (California Minors)**
+
+If you are under 18 years of age, reside in California, and have a registered account with GameStop or the PowerUp Rewards™ Program, you have the right to request removal of unwanted information that you publicly post on the GameStop Websites. To request removal of such information, you can contact GameStop at [GSContentRequests@gamestop.com](mailto:GSContentRequests@gamestop.com). Upon receiving such a request, GameStop will make sure that the information is not publicly available on our Websites, but the information may not be completely or comprehensively removed from GameStop systems. 
+
 **Right to Choose (Opt-Out)**
 
 You always may choose not to provide information and most Internet browsers allow you to control the automatic collection of information from your computer. Obviously, if you choose not to provide necessary information, we may not be able to process your orders or inquiries. If we permit you to update any information that we store about you, we may keep a copy of the previous information for our records.
@@ -154,4 +158,4 @@ Whether or not you have viewed our terms and conditions of use of our Websites, 
 
 Conditions of Website Use may be found by [clicking here.](http://www.gamestop.com/gs/help/disclaimer.aspx)
 
-[► Return to Help Center](https://web.archive.org/web/20140628112022id_/http%3A//www.gamestop.com/gs/help/default.aspx)
+[► Return to Help Center](https://web.archive.org/web/20141231180456id_/http%3A//www.gamestop.com/gs/help/default.aspx)
