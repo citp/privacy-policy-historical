@@ -1,29 +1,70 @@
-> *The following text is extracted and transformed from the hardsextube.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305094521id_/http%3A//www.hardsextube.com/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardsextube.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231061324id_/http%3A//www.hardsextube.com/privacy-policy) for the most accurate reproduction.*
 
-# HardSexTube - Upload your porn - Sex Tube
+# Hot porn videos for every fan of free porn - Hardsextube.com
 
-What Information HARDSEXTUBE Collects:
+* General 
 
-Personal Information: In certain situations such as when signing up for an account at HARDSEXTUBE.com, you will be asked to provide certain information which is considered personal. This may include name, email, birth date or mailing address. You will need to provide this information in order to use certain features or take part in certain activities at HARDSEXTUBE.com such as uploading videos, posting content, accessing forums, entering contests, subscribing to mailing lists or receiving promotions.
+  1. The operative parties referred to in this policy are COMPANY and you, the user of this site. 
+    1. COMPANY is the publisher and operator of the websites listed at the beginning of this policy. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to COMPANY. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to the websites listed at the beginning of this policy. 
+    2. You, the User – As the user of this SITE, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the site shall be referred to in applicable second-person pronouns. 
+  2. This Privacy Policy describes how we use information received about you when you visit our SITE or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the SITE.
 
-Non-Personal Information: Whenever you access or use the HARDSEXTUBE site, your web browser creates a record on our web servers about your time spent at the site. This information may include what pages you visited, how much time you spent at a page, your web request, Internet Protocol address, browser language, what pages you visited, number of clicks as well as other information which is considered non-personal. While at HARDSEXTUBE.com, you may also be sent cookies. Cookies are text files that are sent to your computer in order to identify your browser. HARDSEXTUBE may use persistent cookies which remain even after you have closed your browser. You may remove persistent cookies from your web browser. You may also create browser settings to refuse or disable all cookies but this may interfere with some of the features at HARDSEXTUBE.com.
 
-How HARDSEXTUBE May Use Your Information:
+* Revisions to this Policy 
 
-All Personal information that is submitted voluntarily to public areas such as in discussion boards, forums, chat rooms, user profiles or messages is considered public. This information may be displayed to and used by all other HARDSEXTUBE users. When you post user content or any message through HARDSEXTUBE.com, your account name may be used in correlation with that content but your email address will NOT be used. Any content that is submitted to HARDSEXTUBE may be used or redistributed through other channels including internet and other media. We encourage you to use discretion when posting information in the public areas.
+We reserve the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “last modified” date remains unchanged after you have clicked the “refresh” button on your browser, you may presume that no changes have been made since the last reading of the policy. A changed “last modified” dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting. 
 
-The personal information which HARDSEXTUBE requires in order to create a user account will not be made public. This includes your name, email address, address or any other personal information which is not provided voluntarily in public areas. Your personal information will not be used for commercial or marketing messaging unless you have given your consent or in relation to certain features or programs. In these events, you will have the opportunity to opt out of the messaging. HARDSEXTUBE may use your email address in order to send messages about the HARDSEXTUBE site or for reasons related to customer service.
+* Personal information that we collect 
 
-Non-personal information is used in order to make improvements to the HARDSEXTUBE site design and quality. In some cases, we may use your personal information to improve the site but this personal information will not be made public or distributed to third-party sites. Personal and non-personal information may be used to create new features, promotions, services or for tracking visitors to the site.
+  1. **Members** \- Members are those users who subscribe to our services or interact with our services in a way which requires registration, such as by uploading content to the SITE. Members will be prompted to provide their e-mail address in the process of registering a username and password. Should you choose to utilize any of our membership upgrade features, you will be required to provide valid credit card information. Please note that any requested payment information is collected by our third party billing agent.
+  2. **Browsers** \- Browsers are visitors to the site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devices (explained below).
 
-Cookies and log file information are used to a) remember your information for the next time you visit the site; b) customize the site and its content to your browser; c) keep track of marketing and the effectiveness of campaigns; d) keep track of aggregate metrics; e) keep track of all your submissions, entries, statuses in contests and other promotions.
 
-When HARDSEXTUBE May Disclose Information
+* How we collect information from you 
 
-All non-personal information may be disclosed at any time to any third party without notice or consent from the user. Personal information may be disclosed to subsidiaries, affiliates or other companies or persons when it is necessary to process a request for HARDSEXTUBE . In the event that your personal information is shared with a third party, that third party must adhere to the terms and conditions as stated in the HARDSEXTUBE Privacy Policy. All efforts will be made to make sure that your private information stays private and confidential through secure measures.
+  1. **Passive Collection** – We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address, your browser information, your geographic location and other session data.
+  2. **Active Collection** – We collect information from you when you complete your registration with the SITE and/or access any of our membership upgrade features. Locations for such collection are registration pages or user account pages, but we reserve the right to add additional information collection portals.
 
-Your personal information will not be shared with third parties for use in their marketing or commercial purposes unless you have given consent prior or as part of a certain program or feature. In this case, you will have the option to opt-in or opt-out of the program/feature.
 
-Under certain extreme circumstances, such as a court order or subpoena, HARDSEXTUBE may be required to release your personal or non-personal information. HARDSEXTUBE may also release any of your information in the event of an actual, impending or possible lawsuit.
+* How we use your information 
 
-HARDSEXTUBE may also release personal or non-personal information if, in good faith, HARDSEXTUBE believes that it is necessary in order to uphold the Terms of Use, protect against any liability, aid law enforcement agencies, protect the rights of HARDSEXTUBE.com or its users, or to protect the integrity of the web site. 
+The primary use for your information is to provide you with services you have requested and/or paid for. We also use your information to deliver customized services to you, such as automatic log-in capabilities and storage of preferences. Member login information and e-mail addresses may be disclosed to third parties for the purpose of providing certain features and/or membership upgrades as requested by the user. We are not responsible for how third parties use your information, and You should become familiar with such third parties’ privacy policies prior to requesting their services. Non-personal and aggregate information, such as that collected passively is used in order to customize our marketing efforts or to customize the use of our site for an aggregate group of customers. We additionally may use the personal information of users whose membership has expired or have been cancelled in order to market our services to these individuals in the future. 
+
+We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription of services and/or membership upgrades. We also use your information for market research purposes – in order to increase your (and other users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes. 
+
+* Special Cases 
+
+It is our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about Browsers or Members, or information regarding your use of the Services or Sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: 
+
+  1. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;
+  2. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or other user policies;
+  3. To operate our Services properly;
+  4. To protect ourselves, our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+  5. We will always cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+  6. We may provide members of the media with summarized User statistics upon request, but we will not provide individual User information.
+
+
+* Transmittals from Us 
+
+We may send you periodic announcements and/or e-mail communications including, but not limited to notifications addressing the details of our existing and new programs and promotional offers. You may opt out of these announcements by disabling the notifications on your User profile page. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account. 
+
+If you provide your information to us, use the SITE, or subscribe to any of our services, you will have created a commercial relationship with us. In having done so, you understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law. Therefore, You consent to receipt of e-mails pertaining to the Site and Services, including any form of advertising, marketing, or other solicitation that We deem appropriate. 
+
+* User Forums and Other Public Areas: 
+
+We currently offer Users the option to comment in public forums, to send private messages to other Users, and to comment on other User’s profiles, and we reserve the right to offer other interactive features in the future. We also provide services that allow Members to post messages or comments to the public. Any and all information posted to the SITE, whether as a comment to a video or any other post, should immediately be considered to be public information and accessible by anyone, unless otherwise stated. We do not, cannot, and will not act to maintain the privacy of any information that You provide in any such forum or medium of communication. 
+
+* Our Commitment to Data Security. 
+
+We take measures to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures. 
+
+* How to Access or Modify Your Information. 
+
+We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at [hardsextube@hardsextube.com](mailto:hardsextube@hardsextube.com). 
+
+* Where to Direct Questions About Our Privacy Policy. 
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [hardsextube@hardsextube.com](https://web.archive.org/web/20141231061324id_/http%3A//www.hardsextube.com/hardsextube@hardsextube.com). 
+
+_This document prepared by Walters Law Group,[www.FirstAmendment.com](http://www.firstamendment.com/) (© 2013).  
+All rights reserved._
