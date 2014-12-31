@@ -1,105 +1,146 @@
-> *The following text is extracted and transformed from the sitescout.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620140635id_/http%3A//www.sitescout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitescout.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231061405id_/http%3A//www.sitescout.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | SiteScout
+# SiteScout Privacy Policy | SiteScout
 
-_If you have seen an advertisement on another website, it may have been delivered to you by the ad serving software, SiteScout AdServer._
+**Introduction**
 
- _
+This is SiteScout’s* privacy policy, and applies to our websites, and any services that we provide to you through our website (including the SiteScout DSP, and the SiteScout Ad Server). It is effective as of September 16, 2014 (“ _Effective Date_ “). 
 
-You can view the privacy policy for the SiteScout AdServer [here](https://web.archive.org/privacy/adserver).
+This policy is incorporated into, and subject to, SiteScout’s [Terms of Service](http://www.sitescout.com/legal/sitescout_terms_of_use/). 
 
-You can view the privacy policy for the SiteScout RTB [here](https://web.archive.org/privacy/rtb).
+By using the SiteScout site, or any product or service offered by SiteScout, (collectively, the ‘ _Services”_ ), you acknowledge that you have read, and agree to, this policy. 
 
-_
+_* Actually, Centro Canada Acquisition Company Inc., operating as SiteScout. SiteScout is a subsidiary of Centro, Inc._
 
-The following is the privacy policy for the website located at <http://www.sitescout.com/>.
+**What Information does SiteScout collect, and how does it use it?**
 
-**  
-What information do we collect?**
+_Registration_  
+In order to use the Services, you must first complete the registration form, and choose a password. During registration, you must provide contact information, such as your name, phone number, company name and website. We use this information to create your account, and to contact you in regards to the Services.
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+_Orders_  
+If you wish to fund your account, you must provide your address and financial information (e.g. credit card number; expiry date; etc). We use this information for billing purposes, and to process your order. If we have trouble processing an order, we will use the information we collected to contact you.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+_Surveys or Contests_  
+From time to time, we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we may request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary, and you therefore have a choice whether or not to disclose this information. We use this information to notify contest winners and award prizes, and to process and analyze survey results.
 
-**  
-What do we use your information for?**
+We use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users’ personally identifiable information for any other purpose. 
 
-Any of the information we collect from you may be used in one of the following ways: 
+_Other Sources_  
+We collect usage data about you whenever you interact with our Services. This may include which of our pages you visit, what you click on, when you performed those actions, and so on. Additionally, like most websites today, our web servers keep log files that record data each time a device accesses those servers. The log files contain data about the nature of each access, including originating IP addresses.
 
-  * To improve customer service
+We collect data from the device and application you use to access our services, such as your IP address and browser type. We may also infer your geographic location based on your IP address.
 
-(your information helps us to more effectively respond to your customer service requests and support needs)
+If you arrive at our website from an external source (such as a link on another website or in an email), we record information about the source that referred you to us.
 
-  * To process transactions
+We use third party tracking services that employ cookies and page tags (also known as [web beacons](http://en.wikipedia.org/wiki/Web_bug)) to collect aggregated and anonymized data about visitors to our websites. This data includes usage and user statistics, but not personally identifiable information.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+_Uses of Information_  
+In addition to the above-noted reasons, we use the information we collect to provide you with the Services. This includes providing you with customer support, which requires us to access your information to assist you (such as with campaign creation or technical troubleshooting).
 
-  * To send periodic emails
+We also use your information for the following purposes:
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+  * To monitor and improve our services and features. We internally perform statistical and other analysis on information we collect (including usage data, device data, referral data, and information from page tags) to analyze and measure user behavior and trends, to understand how people use our services, and to monitor, troubleshoot and improve our Services.
+  * To assist the enforcement of our Terms of Service.
+  * To prevent potentially illegal activities.
+  * To screen for undesirable or abusive activity. 
+  * To create new services, features or content. We may use any information you provide us (e.g. via email or through our ticketing system) to create and provide new services, features or content. For example, we may publish interesting observations from the surveys for informational or marketing purposes. When we do this, we will not personally identify you, unless we first receive your permission.
+  * To contact you about your service or account. We occasionally send you communications of a transactional nature (e.g. service-related announcements, billing-related matters, changes to our services or policies, welcome emails when you first register, etc). You can’t opt out of these communications, since they are necessary in order for us to effectively provide our services to you.
+  * To contact you for marketing purposes (if you opt-in on our registration page). We will only do this if you have given us your express permission to contact you for this purpose. 
+  * To respond to legal requests and prevent harm. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.
 
-If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
+**What communications can I expect from SiteScout?**
 
+_Special Offers and Updates_  
+We will occasionally send you information on products, services, special deals, and promotions (if you opt-in on our registration page). If you no longer wish to receive this type of communication, you can opt-out through the link in the email communication.
 
-**  
-How do we protect your information?**
+_Newsletters_  
+SiteScout publishes a number of newsletters (including the RTB Zeitgeist). If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. If you no longer wish to receive this type of communication, you can opt-out through the link in the email communication.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+_Service-related Announcements_  
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is undergoing temporary maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+_Customer Service_  
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password, as well as a number of on-boarding emails intended to familiarize you with SiteScout. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you through our ticketing system, via email, and by phone. 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+_Supplementation of Information_
 
-**  
-Do we use cookies?**
+In order to provide certain services to you, we may supplement the personal information you submit to us with information from third party sources, including in respect of credit worthiness and verification of any information provided.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+**Does SiteScout share my information?**
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+_Aggregate Information (non-personally identifiable)_  
+We share aggregate information about our users for marketing purposes. We also share aggregate information with third party providers, in order to provide the services (as noted above).
 
-**  
-Do we disclose any information to outside parties?**
+We do not link aggregate user data with personally identifiable information. 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+_Personally identifiable information_  
+We share personally identifiable information (PII) with certain third parties, in order to provide you with the Services. For example, we use a credit card processing company to bill you for the Services, and share PII with them in order to do so. They do not retain, share, store or use PII for any other purpose. In certain instances, we may share PII with our suppliers (data and inventory exchanges). Finally, we share PII with our parent company and subsidiaries, for record-keeping purposes, billing purposes, and for general business purposes. 
 
-**  
-California Online Privacy Protection Act Compliance**
+_Legal Disclaimer_
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+We reserve the right to disclose your PII as required by law, and when we believe that disclosure is necessary to protect our rights and/or to comply with any applicable judicial proceeding, court order, or legal process.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+**How do unsubscribe from SiteScout’s newsletter and communications?**
 
-**  
-Children’s Online Privacy Protection Act Compliance**
+If you no longer wish to receive our newsletter and promotional communications, you may unsubscribe by following the instructions included in each newsletter or communication or by emailing us at [team@sitescout.com](mailto:team@sitescout.com).
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+**Does SiteScout use cookies?**
 
-**  
-Terms and Conditions**
+Yes. “Cookies” are pieces of information (actually, alphanumeric identifiers) generated by web servers, and stored on your web browser for future access. Cookies cannot view or retrieve data from other cookies, nor can they capture files or data stored on your computer. We do not link the information that we store in cookies to any PII that you submit while on our site.
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.sitescout.com/legal>
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your web browser’s “help” file. 
 
-**  
-Your Consent**
+We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
-By using our site, you consent to our online privacy policy.
+If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited. 
 
-**  
-Changes to our Privacy Policy**
+**Want to stop seeing ads delivered through SiteScout?**
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+There is more than one way to opt out of cookies: manually delete your cookies by following the instructions contained in the “Help” section of your browser; or, go to our [Opt Out page](https://web.archive.org/opting-out/). We will no longer deliver ads targeted to your preferences and usage patterns.
 
-This policy was last modified on June 6, 2011
+In order to opt-out you must have cookies enabled: In order for the opt-out process to work correctly on your computer, the browser must be set to accept third party cookies. If you use a different computer, change web browsers or delete this cookie, you will need to opt-out again.
 
-**  
-Contacting Us**
+**Does SiteScout use web beacons (aka clear GIFs or web bugs)?**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+Yes. “Web beacons” are small images (generally a single transparent pixel) with a unique identifier, served to you as part of a web page or other document. Web beacons may be used in parts of our Services for purposes such as site traffic reporting, unique visitor counts, advertising auditing and reporting, and personalization. In certain instances, we may tie the information gathered by web beacons to PII.
 
-http://www.sitescout.com  
-579 Richmond St. W, Suite 100  
-Toronto, Ontario, M5V 1Y6  
-Canada  
-legal@sitescout.com
+Through our partners, we use web beacons in our HTML-based emails to let us know which emails recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
+
+**Does the SiteScout privacy apply to other sites?**
+
+This sites contains links to other sites that are not owned or controlled by SiteScout. We are not responsible for the privacy practices of such other sites. 
+
+We encourage you to be aware when you leave our site, and to read the privacy statements of each and every site that collects personally identifiable information. 
+
+This privacy statement applies only to information collected by SiteScout.
+
+**How do I access my PII?**
+
+You have the right to access, update, and correct inaccuracies in your PII in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in the personal information we have in our custody or control by emailing us at [privacy@sitescout.com.](mailto:privacy@sitescout.com) We may request certain personal information for the purposes of verifying your identity when requesting access to or correction of your personal information records.
+
+If your personally identifiable information changes, or if you no longer desire our Service, you may correct, update, delete or deactivate it by emailing us at [privacy@sitescout.com.](mailto:privacy@sitescout.com)
+
+**Is my information secure?**
+
+Yes, the portions of our website (and our other Services) that handle sensitive confidential information are secure. We are committed to maintaining the security of your information and have measures in place to protect against the loss, misuse, and alteration of the information under our control. We employ industry-standard techniques to protect our systems from intrusion by unauthorized individuals. Our data center utilizes state-of-the-art physical security measures to prevent unauthorized access to the facility. In addition, all information is stored in a secure location behind firewalls and other sophisticated security systems with limited (need-to-know) administrative access. All SiteScout employees who have access to, or are associated with, the processing of personal information are contractually obligated to respect the confidentiality of your information and abide by the privacy standards we have established. 
+
+Please be aware that no security measures are perfect or impenetrable. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+**Will my information be transferred?**
+
+In the event that SiteScout (or its parent or subsidiary companies) goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our site for 30 days of any such change in ownership or control of your personal information.
+
+**What if SiteScout changes this privacy policy?**
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change our privacy policy, we will post the updated version, together with an updated Effective Date, on this page. We encourage you to check this page periodically for any changes.
+
+**Contact Us**  
+If you have any questions or suggestions regarding our privacy policy, please contact us:
+
+**SiteScout**  
+Attn: Privacy Officer  
+579 Richmond St. W., Suite 100  
+Toronto, ON M5V 1Y6 Canada  
+[privacy@sitescout.com](mailto:privacy@sitescout.com)
