@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624030803id_/http%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231013540id_/http%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CaringBridge
 
@@ -6,7 +6,7 @@
 
 CaringBridge is committed to providing the information you need to make informed choices about the ways you use our Service. This Privacy Policy describes the personal information we collect when you use our Service. It also describes how we use the personal information you share with us and some of the steps we take to protect your privacy.
 
-CaringBridge has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@caringbridge.org. If you are not satisfied with our response you can contact TRUSTe by [clicking here](http://www.truste.com/about-TRUSTe/contact-us).
+CaringBridge has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this [Web site](https://web.archive.org/), as well as information that may be collected through our mobile applications.
 
 ##  Personal Information and Privacy Settings 
 
@@ -44,7 +44,7 @@ If you do not wish to receive cookies, you may set your browser to reject cookie
 
 The use of cookies by our partners, tracking utility company, service providers is not covered by our privacy statement. In some instances we have access or control over these cookies. Our partners, tracking utility company, service providers use session ID cookies to track site visitor data and facilitate our partnerships.
 
-Our third party tracking-utility partner uses a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Sites by informing us what content is effective on our website. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
+Our third party tracking-utility and ad network partner uses a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Sites by informing us what content is effective on our website. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
 ##  How Do We Use the Personal Information We Collect Through the Site? 
 
@@ -75,27 +75,37 @@ Notifications from the Mobile Application. When using our mobile application we 
 
 CaringBridge does not share, sell or disclose personal information collected through the Services, except as specifically disclosed in this Privacy Policy.
 
-Site Creators. If you engage with a particular Site, we may share your name and email address with the creator of the site. For example, we provide your name and email address to the creator of a Site on which you post content or on which you choose to receive notifications. We will also provide your name and email address to the creator of any Site that requires visitors to log in. Likewise, unless you choose to remain anonymous, we share your name and email address with the creator of a Site to which you dedicate a donation.
+_Site Creators._ If you engage with a particular Site, we may share your name and email address with the creator of the site. For example, we provide your name and email address to the creator of a Site on which you post content or on which you choose to receive notifications. We will also provide your name and email address to the creator of any Site that requires visitors to log in. Likewise, unless you choose to remain anonymous, we share your name and email address with the creator of a Site to which you dedicate a donation.
 
-Invite Others. If you choose to use our referral service to tell a friend about our Service or share a Site through our website or mobile application, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. CaringBridge does not store this information, and collects this information for the sole purpose of sending this one-time email.
+_Invite Others._ If you choose to use our referral service to tell a friend about our Service or share a Site through our website or mobile application, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. CaringBridge does not store this information, and collects this information for the sole purpose of sending this one-time email.
 
-Third-Party Vendors. CaringBridge shares personal information collected through our Service with third-party service providers such as our customer support vendor which utilizes live chat software who act for or on behalf of CaringBridge. These third-party service providers may need information about you in order to perform their functions. These companies are required by contract to keep your personal information confidential and may use it only to provide services on our behalf.
+_Third-Party Vendors._ CaringBridge shares personal information collected through our Service with third-party service providers such as our customer support vendor which utilizes live chat software who act for or on behalf of CaringBridge. These third-party service providers may need information about you in order to perform their functions. These companies are required by contract to keep your personal information confidential and may use it only to provide services on our behalf.
 
-Donors. If you donate to CaringBridge, we will not sell, trade or share a donor's personal information with other organizations, nor send donor mailings on behalf of other organizations.
+_Donors._ If you donate to CaringBridge, we will not sell, trade or share a donor's personal information with other organizations, nor send donor mailings on behalf of other organizations.
 
-Business Transfers. Your personal information may be transferred to a successor organization if, for example, we transfer the ownership or operation of our Service to another organization or if we merge with another organization. If such a transfer occurs, the successor organization's use of your personal information will still be subject to this Privacy Policy and the privacy preferences you have expressed to us.
+_Business Transfers._ Your personal information may be transferred to a successor organization if, for example, we transfer the ownership or operation of our Service to another organization or if we merge with another organization. If such a transfer occurs, the successor organization's use of your personal information will still be subject to this Privacy Policy and the privacy preferences you have expressed to us.
 
-Compliance with Laws and Protection of Our Rights and the Rights of Others. We may disclose your personal information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose your personal information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of our Service; to enforce or apply our online Terms of Use or other agreements; or to protect our own rights or property or the rights, property or safety of our Users or others.
+_Compliance with Laws and Protection of Our Rights and the Rights of Others._ We may disclose your personal information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose your personal information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of our Service; to enforce or apply our online Terms of Use or other agreements; or to protect our own rights or property or the rights, property or safety of our Users or others.
 
-Statistics. CaringBridge shares statistical information about the use of our Service with our donors, sponsors and partners. This information does not identify any individual personally.
+_Statistics._ CaringBridge shares statistical information about the use of our Service with our donors, sponsors and partners. This information does not identify any individual personally.
+
+_Import Contacts._ You can import contacts from your email account address book to invite them to become members of our site. We collect the username for the email account you wish to import your contacts from and will only use it for that purpose.
+
+_Social Media Widgets._ Our Web site includes Social Media Features, such as the Facebook button [and Widgets, such as the Twitter button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+_Single Sign-On._ You can log in to our site using sign-in services such as Facebook or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+_Testimonial._ We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org).
+
+_Blog/Forum_ Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at customercare@caringbridge.org . In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ##  Data Retention 
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@caringbridge.org. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-##  Updating/Accessing/Amending/Correcting Personally Identifiable Information 
+##  Updating/Accessing/Amending/Correcting/Deleting or Removing Your Personally Identifiable Information 
 
-If your personally identifiable information changes, you may correct, update or amend it by making the change in your account, or by contacting us at customercarecaringbridge.org. If you no longer desire our service, you may deactivate your account by contacting us at customercarecaringbridge.org.
+If your personally identifiable information changes, you may correct, update or amend it by making the change in your account, or by contacting us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org). If you no longer desire our service, you may ask us to delete it by contacting us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org).
 
 ##  What Steps Does CaringBridge Take to Safeguard Personal Information? 
 
