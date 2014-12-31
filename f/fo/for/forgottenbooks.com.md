@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forgottenbooks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113655id_/http%3A//www.forgottenbooks.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forgottenbooks.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231202911id_/http%3A//www.forgottenbooks.com/privacypolicy) for the most accurate reproduction.*
 
 # Forgotten Books' Privacy Policy
 
