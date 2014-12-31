@@ -1,54 +1,154 @@
-> *The following text is extracted and transformed from the activism.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311005300id_/http%3A//www.activism.com/en_US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activism.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231134258id_/http%3A//www.activism.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Activism - Online Petition
+# Privacy
 
-**[Activism.com](http://www.activism.com/ "Activism.com")** recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. This privacy policy forms part or our Terms of Use (TOU) and is subject to and should be read with our TOU.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-Your email address will NEVER be displayed on this website.
+##### What information do we collect?
 
-We will not email you anything unrelated to **[Activism.com](http://www.activism.com/ "Activism.com")**. If your email address is supplied, it will be stored securely.
+When ordering or registering on our site, as appropriate, you may be asked to enter your Name, Email address, Mailing address, Phone number or other details to help you with your experience
 
-If you are signing a petition, you may be sent a signature receipt by email that confirms that you have signed the petition. The receipt is for your records and provides information about how to edit and manage your signature. Your email address may be used for signature verification by **[Activism.com](http://www.activism.com/ "Activism.com")** when we conduct quality control of a signature list. This is important to maintain high standards of signature list integrity. Quality signature lists promote quality petitions and successful campaigns.
+##### When do we collect information?
 
-## Your information
+We collect information from you when you register on our site or enter information on our site.
 
-**[Activism.com](http://www.activism.com/ "Activism.com")** will not give or sell your information to any third party. If signing a petition, your information can be accessed by the petition's author. Petition authors agree to use signatures responsibly, legally and in compliance with our Terms and this Privacy Policy. This may involve the author contacting you about the campaign you have supported at **[Activism.com](http://www.activism.com/ "Activism.com")**. Authors also have permission to forward petition signatures to the relevant petition's target, so petition targets may also ultimately view signature details. Authors agree not to republish petition signatures on any other website or public media forum.
+##### How do we use your information?
 
-## Signature and Signature Comment Display and Search Engine Access to Signature Lists and Signature Comments
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-If you are signing a petition your signature (and signature comment) may be publicly displayed in a signature list (and signature comment page). Each petition at **[Activism.com](http://www.activism.com/ "Activism.com")** has a public signature list that publicly displays at **[Activism.com](http://www.activism.com/ "Activism.com")** all those who sign each petition. Our public lists do not include email or street addresses, but may include your town/city. Comments made with a signature can appear on a dedicated signature comment page.
+To improve our website in order to better serve you.
 
-The public lists and comments give weight to each petition and confidence to other signers. Each author has the option to NOT display their list publicly. But you should assume that the author may display their list. If you choose our "Anonymous" designation feature, then your name will be cloaked publicly and will only be viewable to the author and target. You may also elect to hide your signature comment from public view if you only want the author or target to view your comment.
+To allow us to better service you in responding to your customer service requests.
 
-Please note that search engines such as Google and Yahoo may be able to view your signature and signature comment and may index your signature and signature comment (if made). You may prevent indexing by cloaking your signature with an "Anonymous" designation and by "hiding" your comment. **[Activism.com](http://www.activism.com/ "Activism.com")** members may now edit their signatures (including comments) to encourage or hide from search engine exposure. For information about how to edit your signature please read our FAQ.
+To administer a contest, promotion, survey or other site feature.
 
-## Facebook comments
+To send periodic emails regarding your order or other products and services.
 
-If you use the facebook comment facility on any petition then your name and facebook photo may appear on the **[Activism.com](http://www.activism.com/ "Activism.com")** site. **[Activism.com](http://www.activism.com/ "Activism.com")** uses a facebook plugin for the facebook comment facility. **[Activism.com](http://www.activism.com/ "Activism.com")** does not guarenatee that attempts to edit facebook comments by users of this facility will result in the desired editorial results. Any use of the facebook comment facility is at the user's own risk.
+##### How do we protect visitor information?
 
-## Advertisements on **[Activism.com](http://www.activism.com/ "Activism.com")**
+We do not use vulnerability scanning and/or scanning to PCI standards. We use an SSL certificate
 
-**[Activism.com](http://www.activism.com/ "Activism.com")** uses the services of Google and Simply Advertising.
+##### We implement security measures when a user:
 
-* Google, as a third-party vendor, uses cookies to serve ads on this site. Specifically Google uses the DoubleClick DART cookie.  
-* Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
-* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+enters, submits, or accesses their information. Yes, however such information can only be accessed by those authorized with special access rights
 
-## Cookies
+Not to be kept for more than 60 days.
 
-See info above. We also use some cookies to remember who you are. In addition, **[Activism.com](http://www.activism.com/ "Activism.com")** uses cookies and scripting for several site functions. This information is used to enhance customer experience of our software.
+##### Do we use 'cookies'?
 
-## Signature Details and Personal Information
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Signatures will include the signer's IP address which will be available to the author and **[Activism.com](http://www.activism.com/ "Activism.com")** administrators for security reasons. Other information provided to **[Activism.com](http://www.activism.com/ "Activism.com")** in the signature process will be treated according to international standards.
+Understand and save user's preferences for future visits.
 
-**[Activism.com](http://www.activism.com/ "Activism.com")** provides personal data access rights to all signers and others who leave personal information on the **[Activism.com](http://www.activism.com/ "Activism.com")** website. **[Activism.com](http://www.activism.com/ "Activism.com")** respects the data access rights of those who entrust information to the **[Activism.com](http://www.activism.com/ "Activism.com")** website. **[Activism.com](http://www.activism.com/ "Activism.com")** complies with International protocols in this regard. International standards allow for small administrative fees to be applied in some cases where records are requested or edits requested in relation to personal records.
+Keep track of advertisements.
 
-## Business Transfers
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
 
-By subscribing to or using the Services, User acknowledges and agrees that **[Activism.com](http://www.activism.com/ "Activism.com")** is entitled to transfer User’s personal data to third parties.  
-If **[Activism.com](http://www.activism.com/ "Activism.com")** , or substantially all of its assets were acquired, or in the unlikely event that **[Activism.com](http://www.activism.com/ "Activism.com")** goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of **[Activism.com](http://www.activism.com/ "Activism.com")** may continue to use your personal information as set forth in this policy and that there may be changes to the policy.
+If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
 
-## Email contact from **[Activism.com](http://www.activism.com/ "Activism.com")**
+However, you can still place orders.
 
-If you are signing a petition, you may be sent a signature receipt by email that confirms that you have signed the petition. The receipt is for your records and provides information about how to edit and manage your signature. You may also be sent an update about the petition you have signed. On an occasional basis, you may be sent infomation about related petitions and site updates. If you have joined during or after the signature process you may sent email that is relevant to your **[Activism.com](http://www.activism.com/ "Activism.com")** account.
+##### Third Party Disclosure
+
+We may transfer your non-identifiable information to third parties. We may also transfer your identifiable information, but only to trusted third parties.
+
+##### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+##### Google
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en" We use Google AdSense Advertising on our website.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+##### We have implemented the following:
+
+Remarketing with Google AdSense
+
+Google Display Network Impression Reporting
+
+Demographics and Interests Reporting
+
+DoubleClick Platform Integration
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+##### California Online Privacy Protection Act
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+##### According to CalOPPA we agree to the following:
+
+Users can visit our site anonymously. Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website. Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+By logging in to their account
+
+##### How does our site handle do not track signals?
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+##### Does our site allow third party behavioral tracking?
+
+It's also important to note that we allow third party behavioral tracking
+
+##### COPPA (Children Online Privacy Protection Act)
+
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the national's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online. We do not specifically market to children under 13.
+
+##### Fair Information Practices
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+Within 7 business days
+
+We will notify the users via in site notification
+
+Within 7 business days
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+##### CAN SPAM Act
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. **We collect your email address in order to:**
+
+##### To be accordance with CANSPAM we agree to the following:
+
+NOT use false, or misleading subjects or email addresses
+
+Identify the message as an advertisement in some reasonable way
+
+Include the physical address of our business or site headquarters
+
+Monitor third party email marketing services for compliance, if one is used.
+
+Honor opt-out/unsubscribe requests quickly
+
+Allow users to unsubscribe by using the link at the bottom of each email
+
+##### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Website: [www.activism.com](http://activism.com/www.activism)
+
+Key Biscayne
+
+Florida
+
+201 Crandon Boulevard #1100
+
+USA
+
+33149
+
+[info@activism.com](mailtoo:info@activism.com)
