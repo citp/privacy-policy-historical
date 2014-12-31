@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainside.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328213401id_/http%3A//www.mountainside.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainside.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231174358id_/http%3A//www.mountainside.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mountainside
 
