@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unity3d.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044857id_/http%3A//unity3d.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unity3d.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231180135id_/http%3A//unity3d.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Unity - Privacy Policy
 
@@ -6,7 +6,7 @@ Last updated: May 16, 2013
 
 Unity Technologies ApS (“Unity”, “our”, “us” or “we”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information we receive from users of:
 
-  * <http://unity3d.com/> (“the Site”)
+  * [http://unity3d.com/](https://web.archive.org/) (“the Site”)
   * the Unity Editor game development software; the Unity Player runtime software included or downloaded with any content created with the Unity Editor; the Unity Union game distribution and publication service; and the Unity Asset Store (collectively the “Services”), including users who access and use the Services through a mobile device.
 
 
