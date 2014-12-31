@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalhub.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075010id_/http%3A//www.universalhub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalhub.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231012842id_/http%3A//www.universalhub.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for Universal Hub, Boston Online and the Wicked Good Conference | Universal Hub
 
