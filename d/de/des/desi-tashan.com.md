@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desi-tashan.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020441id_/http%3A//www.desi-tashan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desi-tashan.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231164509id_/http%3A//www.desi-tashan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Desi Tashan
 
