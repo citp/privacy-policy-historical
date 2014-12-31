@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misssixty.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008012407id_/http%3A//www.misssixty.com/USA/en-GB/CustomerCare/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misssixty.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231162007id_/http%3A//www.misssixty.com/en-gb/customercare/docs/privacy) for the most accurate reproduction.*
 
 # MissSixty
 
@@ -47,7 +47,7 @@ By accessing your account on the Website, you have at any time the possibility t
 Your personal information will be controlled by E-volve Service Sagl. If you have any questions regarding our Privacy Policy, the handling of your personal data or would like to exercise your information rights, please contact:
 
   
-E-volve Service Sagl – Via Cantonale 2b – 6928 Manno - CH 
+E-volve Service Sagl - Via Cantonale 2b - 6928 Manno - CH 
 
 We take your concerns seriously and we will try to resolve any issue relating your personal information for you as soon as possible.
 
