@@ -1,104 +1,106 @@
-> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405012724id_/http%3A//www.attn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231094040id_/http%3A//www.attn.com/privacy) for the most accurate reproduction.*
 
-# Cybergold | Privacy Policy
+# Privacy Policy - attn:
 
-PRIVACY POLICY AND PROMISE
+attn: wants to make media authentic and relevant to you, and so we have a very simple policy when it comes to your information.  We use your information only to provide you with information that we think may be relevant to you.  Most of the time, we generate that content ourselves.  But we also team up with others, and we can share with our affiliates, allies and media partners.  If we get it wrong and share your information in a way that you do not want, just tell us and we will not share your information or, if you choose, we will delete your information from our system.  It is your choice.  
 
-**CYBERGOLD'S SECURITY AND PRIVACY PROMISE:** At Cybergold, which used in this context, comprises Cybergold, Inc., and companies entirely owned by Cybergold, we make our members' concerns about security and privacy on the Internet our top priority. In consideration of these concerns, Cybergold makes the following promises to you: 
+Our Privacy Policy is organized around the following basic ideas: 
 
-  * We will never release your personal information to any other party without your express permission except for the purposes of data verification and supplementation. 
-  * When we give information to Cybergold clients, it is in the form of group statistics based on members' information. Cybergold's systems are designed so that it is impossible for outside companies to extract personal information without your consent. 
-
-
-
-_Security Guarantee_
-
-Your credit card and purchase information are secure for all Cybergold transactions. If your credit card is ever compromised when making credit card purchases, you'll be reimbursed for the amount of any fraudulent charges not covered by your credit card company. 
-
-Cybergold is a licensee of the TRUSTe Privacy Program. 
-
-The Cybergold Program and Web site are owned and operated by: 
-
-Cybergold, Inc.  
-1330 Broadway, 13th Floor  
-Oakland, CA 94612  
-
-
-If you have any further questions about privacy and security at Cybergold, contact us at [privacy@cybergold.com](mailto:privacy@cybergold.com)
-
-**INFORMATION PRACTICES**  
-Association Membership  
-How We Gather Your Information  
-Basic Member Information  
-Transferring Cybergold Account Funds Information  
-Information to Third Parties  
-Cookies  
-Email: Opt In/Opt Out  
-Changing, Correcting and Updating Information  
-
-
-_Association Membership_
-
-To demonstrate Cybergold's commitment to online privacy and security, Cybergold is a member of the following organizations: 
-
-_TRUSTe_ : Cybergold is a licensee of TRUSTe, which is an independent, non-profit privacy organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Cybergold wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-_Better Business Bureau:_ Cybergold is a proud member of the Better Business Bureau whose mission is "to promote and foster the highest ethical relationship between businesses and the public…" 
-
-_How We Gather Your Information_
-
-We gather your information through enrollment forms and surveys. We collect names, addresses, email addresses, demographic information and other personal information from visitors who voluntarily enroll in Cybergold and provide this information. 
-
-_Basic Membership Information_
-
-The first piece of information we request is your email address, which will function as your login ID at the Cybergold site. It will also be used to contact you with account updates such as confirming when you have completed an offer or transferred account funds. Cybergold will also email you exclusive offers available to members only, if you opted in to receive them. (See Below: "Emails: Opt In/Opt Out.") 
-
-You may provide optional additional information about yourself such as occupation, age, etc. Providing such information is not a requirement of membership. If you do choose to provide such information, it will be used only to present you with offers and promotions that are tailored to your interests. 
-
-_Transferring Cybergold Account Funds Information_
-
-As you know, Cybergold gives you cash for completing offers. This is cash for you to spend any way you like. As a member you have several options for utilizing this cash, and depending upon which you choose, different levels of information are required to enable the cash transfer. 
-
-**a) Spend Section/Non-Profit:** One of your options is to spend your Cybergold account cash in the Cybergold "Spend" section or to donate it to non-profit charities. If you choose these options, you need only provide your email address. No additional information is required. 
-
-**b) Transfer to Checking or Savings Accounts:** You can also transfer your Cybergold account cash directly to your checking account or savings account. To do this, you'll need to provide your name, address and phone number for verification purposes. You'll also need to provide your checking or savings account information-it's the same information that appears on a check. This information is secure and protected (See Below: "How We Protect Your Information.") and, of course, is never shared. 
-
-**c) Transfer to Visa:** You can also transfer your Cybergold funds to your Visa account. If you do this, you'll need to give us your name, address and phone number for verification purposes. You'll also you will need to provide us with your Visa account information. This information is secure and protected (See Below: "How We Protect Your Information,") and is, of course, never shared. 
-
-_Information to Third Parties_
-
-We provide only general group statistics about our membership base to Cybergold partners and affiliates. Your name and any other identifying information will never be a part of this information. We will never sell or distribute your personal information to a third party without your explicit permission. 
-
-_Cookies_
-
-The Cybergold Web servers use cookies to automatically fill in your email address when you log in. Cookies are also used to track your movement within a single session, so that you do not always have to re-enter your email address. When you log in, the Web servers recognize: 
-
-  * the host origin of request (your IP address) 
-  * the referrer (where you came from) 
-  * the requested document (the page you're looking at) 
-  * browser type (e.g., Netscape 4.0) 
-  * platform-dependent information (e.g., Win95) 
+  * **Transparency:** We will make our privacy commitments easy to find and easy to read
+  * **Notice:** We will notify you of how we are using your information  
+  * **Freedom:** We respect the law, but we will not participate in law enforcement requests for your information that we view as unreasonable or as unconstitutional of your First Amendment and other rights
+  * **Choice:** You have choices about what information you provide to us and we will respect your choices about the sharing of your information with others
+  * **Respect:** We will listen to your feedback and answer your questions about how we use your information
+  * **Security:** We will use physical, technical and organizational safeguards to protect your information
+  * **Growth:**  Our plans and alliances are still growing, and we hope to interact with you in new and evolving ways.  We will keep you informed about these changes through our updated policies, and let you see our plans before they take effect.
 
 
 
-_How We Protect Your Information_
+For those of you who want to read the fuller legal policy, here it is:  
 
-Cybergold safeguards the confidentiality of your personal information by using cutting edge digital technology along with industry standard efforts, such as firewalls or secure socket layers where appropriate. 
+Welcome to the website of attn: an Our Time Media company (the “Site”).  We are an independent media company born out of Our Time.  Our Time and attn: are separate legal entities, and this policy relates only to attn: (“we”).    
 
-If your credit card is ever compromised as a result of storing its information on our system, we will reimburse you for the amount of any fraudulent charges not covered by your credit card company. 
+This Privacy Policy tells you about our practices regarding collection, use, and disclosure of information that you may provide via the Site.  Please read this entire Privacy Policy before submitting information to the Site. Use of the Site constitutes your agreement to this Privacy Policy.
 
-Your personal information will NEVER be released to third parties outside of Cybergold without your express permission except for the sole purpose of data verification and supplementation. 
+**Consent  **
 
-_Cybergold Merchants' Privacy Policies_
+By using the Site or any interactive or mobile features or our apps, you signify your consent to our collection, use, and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree with the practices described in this Privacy Policy, please do not use the Site or its services.
 
-Cybergold merchants may require you to provide personal information to act on their offers. You are not required to act on any Cybergold offers. However, if you choose to act on an offer, and provide a merchant with personal information, you will be providing personal information to that merchant on a voluntary basis. In doing this, please recognize that Cybergold merchants may have privacy policies that differ from Cybergold's and that Cybergold is not responsible for the privacy policies of its merchant sites. Please be sure to check these merchants' privacy policies. 
+We ask you to choose to submit personally identifiable information in order for you to join our community, let us know what issues are relevant to you, read content, purchase products, resolve inquiries, and participate in events.  You may be able to do many of these things on the Site without submitting information about information, but we urge you to decide to trust us with your information.
 
-_Emails Opt In/Opt Out_
+**Information Use**
 
-Cybergold sends emails to alert members of special promotions and cash offers. These emails are sent only to members who have opted in to receive them. You can opt out from receiving these emails at any time. All you have to do is click on the "unsubscribe" link contained in each and every promotional email Cybergold sends. If you do choose to opt out from receiving emails, you'll still be a Cybergold member and will be able to take advantage of our promotions and cash offers on the Cybergold Web site. 
+We may use information collected via the Site to 
 
-_Changing, Correcting and Updating Information_
+  * customize the Site and your experience of it
+  * improve the Site and attn:
+  * communicate with you
+  * understand, connect with and market to our audience
+  * further our legitimate business purposes 
+  * create new data by combing information we collect with other information we collect
+  * comply with applicable law and investigate and advance our legal interest and for any other purposes allowed by law. 
 
-Members may change, correct or update their personal information at any time. Visit "My Account" via your individual login and password at <https://www1.cybergold.com/popup?teller_req>. 
 
-If you have any further questions about privacy and security at Cybergold, please contact us at [privacy@cybergold.com](mailto:privacy@cybergold.com)
+
+We may disclose personally identifiable information you provide via the Site to our affiliates, allies, and media partners that agree to use it for limited purposes. We will not transfer your personally identifiable information to third parties for their marketing purposes that are not relevant to attn:  
+
+We may disclose personally identifiable information you provide via the Site to our affiliates, allies, media partners, and other third parties we use to support our civic engagement, in connection with mergers, acquisitions, reorganizations, or other changes in our corporate organization.
+
+We may also collect technical, non-personal information about people using our Site or create anonymous data sets that can be shared more broadly by removing personally identifiable information.
+
+**Law Enforcement Requests  **
+
+attn: believes in the freedom to read, think, and discuss without governmental oversight or intervention, especially when ideas may be disfavored by the political majority.  In certain circumstances, such as a search warrant, we could be required to respond to law enforcement demands for information, and we could need to use or share information in connection with legal rights or legal proceedings.  That being said, if attn: believes that law enforcement has gone too far, we reserve our rights to fight such requests.  And we will give you notice if we are legally able to do so that you can assert your rights and fight for your privacy as you see fit.  
+
+**Cookies and Other Passive Information Collection**
+
+As you navigate through the Site and read and interact with attn: content, we may collect certain information passively using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection. Your Internet browser automatically transmits to the Site some of this information, such as the URL of the Web site you just came from and the Internet Protocol address and the browser version your computer is currently using.  
+
+Your browser may allow you to block cookies altogether, but certain features of the Site might not work without cookies. Our Site may contain third-party cookies from advertising partners and other third parties.  To opt-out of these advertising cookies, visit the Network Advertising Initiative (NAI) website by clicking here.  
+
+Several different Do-Not-Track protocols have been proposed, but we do not think they are uniform enough to function well for an interactive media company.  Accordingly, we not respond to “Do Not Track” signals from browsers, and our technologies will continue to operate as described in this Privacy Policy regardless of any Do-Not-Track signals.  
+
+**Your California Privacy Rights**
+
+California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes. As stated in this Privacy Policy, attn: does not sell or share your Personal Information with companies for their direct marketing purposes without your consent.  California customers who wish to request further information about our compliance with this law, or would like information about which entities have received information about them, or have questions or concerns about our privacy practices and policies may contact attn using the contact information listed below:
+
+**For International Users**
+
+Please do not access this Site if it is illegal to do so in your country. The collection, use, and disclosure of information contemplated in this Privacy Policy involves a transfer of the information to the United States, and the European Union has determined that the United States does not offer adequate privacy protection. Because this is a US website, your use of it is taken as your consent to the transfer of your data into countries, such as the United States, that do not have what the European Union has deemed to be adequate privacy laws. 
+
+**Security**
+
+We take reasonable steps to protect personally identifiable information as you transmit it to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction, although nothing on the Internet is completely secure or error-free.
+
+**Links to Other Web Sites**
+
+This site may contain links or references to other Web sites to which this Privacy Policy does not apply. We encourage you to read the Privacy Policy of every Web site you visit.
+
+**Children**
+
+This Site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via the Site from visitors in this age group.  If we become aware that we have inadvertently done so, we will promptly delete it.
+
+**How to Contact Us / Dispute Resolution**
+
+We respect your rights to:
+
+  * review, modify, or request the removal of personal information we collect about you, except information we must retain to satisfy legal obligations.
+  * ask us to explain our policies and actions.
+  * choose to limit the types and frequency of marketing communications from attn:
+  * end your relationship with attn:
+
+
+
+If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of the Site, or if you would like to opt out of future communications, please contact us as follows:
+
+Phone:     202-660-1333
+
+Email:     info@attn.com
+
+Mail:      1720 i St NW, 7th Floor, Washington, DC 20006
+
+**Changes to This Privacy Policy  **
+
+If we change this Privacy Policy, the revised policy will be posted on the Site. Please check back periodically, and especially before you provide any personally identifiable information.
+
+This Privacy Policy is effective as of September 1, 2014.
