@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bicyclestore.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055147id_/http%3A//www.bicyclestore.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bicyclestore.com.au privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231210244id_/http%3A//www.bicyclestore.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -6,14 +6,9 @@
 
 The foremost thing on people's minds when purchasing online is Security, Trust and Privacy. The Bicycle Store is always striving to improve, adapt and deliver to it's customers the best possible service and to this end, we have recognised the need to provide the level of security which customers worldwide have grown to Trust.
 
-### Extended Validation (EV SSL)
+### Secure Sockets Layer (SSL Certificate)
 
-All transactions on The Bicycle Store are now secured by the GoDaddy with EV (Premium SSL) which delivers up to 256 bit encryption on transactions and provides customers with the Trust that is provided with the EV level of security. Extended Validation Certificates (recognised by the Green bar in the URL) provides customers with the assurance that The Bicycle Store is the owner of the website [www.bicyclestore.com.au](http://www.bicyclestore.com.au/) and is an authenticated registered business.
-
-|   
----|---  
-  
-Whenever you shop the Extended Validation (Green Bar) at checkout ensures added security and that you are doing business with an authenticated registered business.
+All transactions on The Bicycle Store are secured by GoDaddy Deluxe SSL Certificate which delivers a high level of encryption on transactions, you can shop with the confidence that your personal and card data is protected every step of the way through the transaction process.
 
 ### Malware & Vulnerabilities Checks
 
@@ -21,7 +16,7 @@ The Bicycle Store undergoes daily malware and vulnerability checks which are rep
 
 ### PCI Compliance
 
-The Bicycle Store is powered by BigCommerce which is PCI compliant, the Payment Card Industry Data Security Standard designed to help payment card processors prevent credit card fraud through increased controls, a Visa-approved PCI scanning vendor verifies that the BigCommerce application and hosting environment is PCI compliant.
+The Bicycle Store is PCI compliant, the Payment Card Industry Data Security Standard designed to help payment card processors prevent credit card fraud through increased controls.
 
 ### Privacy Policy
 
