@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ice.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626184250id_/http%3A//www.ice.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231063353id_/http%3A//www.ice.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Ice Privacy Policy - Committed to Protect Your Privacy Online
 
@@ -55,7 +55,7 @@ Finally, notwithstanding any other provision of this privacy policy to the contr
 
   * by law;
   * to comply with legal process or governmental requests;
-  * to enforce our [ Terms of Use ](https://web.archive.org/ice-store/store/ice/customer-service/terms-maintenance.do) and other agreements, including for billing and collection purposes;
+  * to enforce our [ Terms of Use ](https://web.archive.org/customer-service/terms-and-conditions/) and other agreements, including for billing and collection purposes;
   * to protect our operations or those of any affiliated entities;
   * to protect the rights, privacy, safety or property of Ice.com, any affiliated entities, you or others (This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.);
   * to permit us to pursue available remedies or limit the damages that we may sustain.
