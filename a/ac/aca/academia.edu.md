@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academia.edu privacy policy that was archived on 2014-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140115070738id_/http%3A//www.academia.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academia.edu privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231095650id_/http%3A//www.academia.edu/privacy) for the most accurate reproduction.*
 
 # Academia.edu | Privacy
 
@@ -66,7 +66,7 @@ Academia.edu is very concerned with safeguarding your information. We use reason
 
 We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. For additional information about the security measures we use on Academia.edu, please contact us at [privacy@academia.edu](mailto:privacy@academia.edu).
 
-**International Transfer **
+**International Transfer**
 
 Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Your information collected through the Site may be stored and processed in the United States or any other country in which Academia.edu maintains facilities.
 
@@ -79,5 +79,3 @@ This Site is not directed to persons under the age of 13. We do not knowingly co
 **Contacting Us**
 
 If you have any questions about this Privacy Policy, please contact us at: [privacy@academia.edu](mailto:privacy@academia.edu).
-
-****
