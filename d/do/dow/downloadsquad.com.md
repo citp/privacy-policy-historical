@@ -1,230 +1,144 @@
-> *The following text is extracted and transformed from the downloadsquad.com privacy policy that was archived on 2014-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140318072131id_/http%3A//www.huffingtonpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadsquad.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231174757id_/http%3A//privacy.aol.com/faq) for the most accurate reproduction.*
 
-# Privacy Policy
+# AOL Privacy
 
-The Huffington Post, a wholly-owned subsidiary of AOL Inc., which owns and operates the website [www.huffingtonpost.com](http://www.huffingtonpost.com/) (the "Site"), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our privacy team at [privacy@huffingtonpost.com](mailto:privacy@huffingtonpost.com).   
+Print
 
+## Frequently Asked Questions Regarding Our Recent Changes
 
-  1. **Scope**
+Effective September 15, 2014, the AOL Terms of Service and Privacy Policy were updated. We hope you'll read the full Updated [Privacy Policy](http://privacy.aol.com/updated_policy) and [Terms of Service](http://legal.aol.com/updated_tos). Los [términos de servicio](http://legal.aol.com/updated_terminos) y [política de privacidad](http://privacy.aol.com/updated_privacidad) actualizados también están disponibles en español.
 
+## Questions Related to our Privacy Policy Updates
 
+Why is AOL updating its privacy policy? Why is AOL updating its privacy policy?
 
-This privacy policy applies only to the Site. This policy does not apply to information collected through any other website or to the practices of companies that the Huffington Post does not control. Please note that the Site may contain links to other websites. For example, if you click on an advertisement on the Site and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit.   
+  * The updates to our privacy policy are designed to provide more details about our practices and to improve the overall readability of the policy. A lot has changed about AOL in the last few years. We're still among the world's best-known email and instant-messaging providers, but we're also now the owner of some of the world's best known content brands, including The Huffington Post and TechCrunch. In addition, our industry-leading advertising services also have continued to grow, and we've acquired companies such as Adap.tv to help provide more effective ads on and off AOL's websites and apps. The updates to the privacy policy are mainly meant to reflect AOL's business in 2014. That's why one of the key updates is the examples we provide that reference our different offerings.
 
 
-  2. **What information the Site collects**
 
+What are the privacy updates users should be aware of? What are the privacy updates users should be aware of?
 
+  * As noted above, our updates to the Privacy Policy are designed to provide more details about our practices and to improve the overall readability of the policy. Key updates include: Definitions of important terms, such as "personal information" and "non-personally identifiable" information. As always, we do not rent or sell your personal information to third parties for marketing purposes. But we may share non-personally identifiable information with business partners, who may use that information for their own purposes.
+  * As noted above, AOL is made up of some of the world's most popular online services, including AOL.com, The Huffington Post, TechCrunch, and Mapquest. We also operate some of the industry's best-known advertising services, including Adap.tv and Advertising.com. The revised Privacy Policy explains how information may be shared among AOL's businesses and provides details about those businesses.
+  * Advertising is a core part of AOL's business. Many of our free services are supported by the ads we display on those services, and we also provide a variety of online advertising services to other companies that want to place ads on our services and elsewhere. The revised Privacy Policy includes more information about advertising on AOL, such as how we use cookies, beacons and other technologies to provide relevant ads, the other businesses that help us provide ads, and the way we measure the effectiveness of advertising.
+  * We also have added information required by a recently amended California law. This information includes how AOL treats so-called "do not track" signals.
+  * We've also revised the Privacy Policy so that it covers certain AOL services that previously had their own privacy policies. These include services, such as The Huffington Post, that have become part of AOL in the last few years, as well as a number of AOL's advertising services. The new Policy will replace the privacy policies on those services.
 
-**Information you provide directly to us:**   
 
-
-You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including:   
-
-
-  * contact information, such as name, email address, postal address, phone number, and mobile number; 
-  * username and password;
-  * information posted in community discussions and other interactive online features; 
-  * search queries conducted on the Site; and
-  * correspondence you send to us.
-
-
-
-**Information automatically collected when you visit and interact with the Site:**
-
-When you visit and interact with the Site, certain information may be collected automatically, including:   
-
-
-  * your computer's Internet Protocol (IP) address;
-  * your browser type and operating system;
-  * the web pages you were visiting immediately before and after you came to the Site;
-  * activities within community discussions;
-  * web pages and advertisements that you view, and links that you click on, within the Site;
-  * your bandwidth speed and information about the software programs that are installed on your computer;
-  * aggregated data about email click-through rates and user video viewing;
-  * standard server log information; and
-  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of [cookies and other technologies](https://web.archive.org/web/20140318072131id_/http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html).
-
-
-
-**Information we collect from other sources:**
-
-We may access information about you from third-party sources and platforms (such as social networking sites, databases, online marketing firms, and ad targeting firms), including:   
-
-
-  * if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services;
-  * demographic data, such as age range, gender, and interests;
-  * advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and
-  * unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.
-
-
-
-Please note that the Site may combine the information that we collect with information we obtain from third-party sources.   
-
-
-  3. **How we use the information that we collect**
-
-
-
-**Email Communications:**
-
-We may use the information that we collect to send you e-mail communications, such as editorial updates, information about your account or changes to the Site, and promotional messages about our own or our marketing partners' products and services. If you signed up for one of our email newsletters, we also will send you the newsletter that you requested.   
-
-
-**Mobile Communications:**
-
-With your consent, we may use your mobile number to send you promotions, notifications, or other services.   
-
-
-**Advertising:**
-
-In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other technologies](https://web.archive.org/web/20140318072131id_/http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html).   
-
-
-Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on [third party advertising](https://web.archive.org/web/20140318072131id_/http://www.huffingtonpost.com/privacy/third-party-online-advertising.html). Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy.  
-
-
-**User Accounts:**
-
-To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we keep track of the ratio of how many flagged comments are eventually deleted in order to award badges to our most effective comment moderators. For more information on this process, please see our [FAQ section](http://www.huffingtonpost.com/faq/) about comment moderation guidelines.   
-
-
-**Request Fulfillment:**
-
-We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer service requests or to enable you to participate in features on the Site such as surveys, polls, sweepstakes, and message boards.   
-
-
-**Statistical Analysis:**
-
-In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site's functionality, and to better tailor our content and design to suit our visitors' needs.   
-
-
-**Enforcement:**
-
-We may use the information that we collect to prevent illegal activities, to enforce the Site's [Terms and Conditions](http://www.huffingtonpost.com/terms.html), and to otherwise protect our rights and the rights of our users.   
-
-
-In addition to the uses identified above, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.   
-
-
-  4. **Information sharing**
-
-
-
-The Huffington Post values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:   
-
-
-  * We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site. 
-  * We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
-  * If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal **** information in public activities or submissions. 
-  * We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place. However, the Site will notify you by placing a prominent notice on our site or sending a notice to the primary email address specified in your account before your information is transferred and becomes subject to a different privacy policy. 
-  * We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site's [Terms and Conditions](http://www.huffingtonpost.com/terms.html), or as otherwise required by law.
-  * We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims. 
-  * In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
-
-
-
-Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on [cookies and other technologies](https://web.archive.org/web/20140318072131id_/http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html) and [third party advertising](https://web.archive.org/web/20140318072131id_/http://www.huffingtonpost.com/privacy/third-party-online-advertising.html).   
-
-
-  5. **Third-party services**
-
-
-
-To customize your experience on the Site and to simplify the Site's registration process, we provide you with the opportunity to access or interact with third-party services, such as Facebook and Twitter. When you connect to the Site through these third-party services, we may share information about you with these third-party service providers and they may share data about you with us.   
-
-
-When you allow us to access your data through a third-party service to create a Site profile, we may use this data for several purposes, including:   
-
-
-  * _Creating relationships automatically within our system_. For example, if you connect to us via a service with a public friend list, like Twitter, we may check to see if any people you follow on Twitter are also Site members. If we find a match, we will replicate your Twitter relationship with those members, setting them to be fans, followers, or friends on our Site. 
-  * _Suggesting relationships_. For example, if you connect via a service that has a private contact list (like Google and Yahoo!), we check for people in your contacts who are Site members and suggest that you become a fan of these users. This process is not automatic; you must affirmatively choose to become a fan of these suggested users. 
-  * _Populating a list of potential friends to whom you can send emails._ When users share content with their friends using, for example, the forward-to-a-friend feature on the Site, we may use friend lists from third-party services to create a list of contacts to whom you may choose to send the email message. 
-  * _Populating a list of potential friends to whom you can send service-specific messages._ For example, we may use friend lists from a third-party service to create a list of contacts to whom you may choose to send an invitation to view an interactive slideshow.
-  * _To enhance and personalize your experience on the Site_. When you are connected via a third-party service, we may access certain account information, such as your profile picture, what stories are popular in your network, and what your friends are saying about certain articles or blog posts, in order to enhance and personalize your experience on the Site. 
-
-
-
-In addition, if you connect to a Facebook account, your experience on the Site may be personalized. For example, you may automatically see what stories are popular in your network, and what your friends are saying about particular stories.   
-
-
-Please note that you may disconnect third party accounts at any time. [Click here](http://www.huffingtonpost.com/users/social-preferences/) for a link to your social profile, where you may set your privacy preferences or disconnect all of your third-party service accounts. You also may be able to modify your privacy settings directly with the third-party service. To modify your Facebook privacy settings, click [here](http://www.facebook.com/settings/?tab=privacy). To modify your Twitter privacy settings, click [here](https://twitter.com/account/settings).   
-
-
-Please remember that we do not control the privacy practices of these third-party services. We encourage you to read the privacy policies of all third-party service providers.   
-
-
-  6. **Your choices**
-
-
-
-**Deactivating your account**
-
-You can deactivate your account at any time by visiting the [preferences page](http://www.huffingtonpost.com/users/preferences/) for your profile. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our [Terms and Conditions](http://www.huffingtonpost.com/terms.html).   
-
-
-**Cookies and other technologies**
-
-As discussed in the sections on [cookies and other technologies](https://web.archive.org/web/20140318072131id_/http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html) and [third party advertising](https://web.archive.org/web/20140318072131id_/http://www.huffingtonpost.com/privacy/third-party-online-advertising.html), some information is collected about you automatically through cookies and other technologies. 
-
-  * _Cookies._ You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. In addition, many third-party advertising networks are members of the Network Advertising Initiative ("NAI"). To opt out of having information collected by NAI member companies used for behavioral advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp).
 
   
 
 
-  * _Flash Cookies_. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/6623) to automatically delete your Flash cookies every time you close your browser. 
+What does this privacy policy cover? What does this privacy policy cover?
+
+  * This privacy policy covers the collection and use of information from any device used to access or connect to AOL branded websites, services, and software, as well as many websites owned by or affiliated with AOL and operating under different names. This policy does not apply to information about you collected by third party websites and offerings linked to or otherwise accessible from AOL, which is subject to their own privacy policies.
 
 
 
-If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests.   
+  
 
 
-Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third party advertising](https://web.archive.org/web/20140318072131id_/http://www.huffingtonpost.com/privacy/third-party-online-advertising.html) and visit the [NAI's website](http://www.networkadvertising.org/managing/opt_out.asp).   
+Does AOL share my personal information? Does AOL share my personal information?
 
-
-  7. **Access**
-
-
-
-If you choose to share contact information with us, you may update or amend this information by contacting us at [privacy@huffingtonpost.com](mailto:privacy@huffingtonpost.com).   
-
-
-  8. **Confidentiality and security**
+  * AOL may share your personal information in limited circumstances, including when we have your consent to do so or when sharing is necessary to protect AOL or comply with the law. Our agents and contractors may have access to your information, but only to perform services for AOL. We do not sell or rent your personal information to third parties.
 
 
 
-We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration.   
+  
 
 
-Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us.   
+How do you use information to target ads and content? How do you use information to target ads and content?
 
-
-  9. **Visitors from outside the United States**
-
-
-
-The Site's offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States. European Union Residents: AOL adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program.   
-
-
-  10. **Children under 13**
+  * AOL uses information to operate and improve our services, fulfill your requests, and communicate with you, conduct research, and personalize content and ads provided to you. Often, an ad you see online is customized based on the content of the site. For example, you may see sports-related ads on a sports site. We may also select an ad based on our knowledge of the audience we think may be looking at that page. This is often done with publicly available and/or aggregated demographic information, or it may be done with analysis of the aggregated traffic on a particular website, or by using the registration data or other household data you have provided or that we have acquired from other companies.
 
 
 
-We do not knowingly collect personal information from children under 13. If we learn that we have collected any personal information from a child under the age of 13 without verifiable parental consent, we will delete that information from our database as quickly as possible. If you believe that we may have collected information from a child under 13, please contact us at [privacy@huffingtonpost.com](mailto:privacy@huffingtonpost.com). 
-
-  11. **Changes to the privacy policy**
+  
 
 
+What is behavioral advertising and its impact on my privacy? What is behavioral advertising and its impact on my privacy?
 
-We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the "Effective Date." We will notify you of any material changes in the way we treat your information by placing a prominent notice on our site or sending a notice to the primary email address specified in your account.   
-
-
-  12. **Questions and suggestions**
+  * In addition to customizing advertisements for you based on the subject matter of the page you are visiting, demographic data, or information you have already provided to AOL, some ads may be targeted based on your activity on sites in the AOL Advertising Network. When you visit these sites, you may receive a "cookie" that helps us note, in an anonymized way, that your browser visited that site. AOL Advertising may use information about your activity on the AOL Advertising Network to display ads that are more relevant. Note that the information shared with the advertising network is always with a unique identifier, not personally identifiable information, such as your name or email address. Our [AdVisibility Profile Viewer](http://advertising.aol.com/advisibility) allows you to see how the information we collect about your visits within the AOL Advertising Network are categorized into the interest segments used to select the ads displayed. You can also [opt out](http://aboutads.info/choices) of targeted ads. Please note that you will still receive ads; however, they will no longer be tailored based on your activities.
 
 
 
-If you have questions about this privacy policy, please contact our privacy team at [privacy@huffingtonpost.com](mailto:privacy@huffingtonpost.com).   
+  
 
 
-_Effective Date: May 15, 2012_   
+What choices does AOL offer to control my information? What choices does AOL offer to control my information?
+
+  * AOL provides you with access to your registration information, any billing or shipping information, the ability to edit your information at [My Account](http://about.aol.com/aolnetwork/my_account), as well as the ability to cancel AOL fee-based services. Visit [AOL Marketing Preferences](http://marketingpreferences.aol.com/) to make choices about how your information may be used to provide marketing offers to you. Please note that these preferences do not apply to communications that are directly related to your registration with AOL or the fulfillment of a specific transaction you have requested (for example, a service advisory from AOL or an acknowledgment of a purchase). Visit [AOL Advertising and Privacy](http://privacy.aol.com/updated_advertising) to learn more about online advertising and your related choices. Some AOL services ([AOL Search](http://search.aol.com/aol/settings), for example) may offer you the ability to control what information is collected or used specific to these services.
+
+
+
+  
+
+
+How do the AOL brands respond to "Do Not Track" browser signals? How do the AOL brands respond to "Do Not Track" browser signals?
+
+  * Some web browsers may transmit "Do Not Track" signals to the websites and other online services with which the browser communicates. Currently, there is no standard that governs what, if anything, websites should do when they receive these signals and AOL currently does not take action in response to these signals.
+  * Previously, Gravity provided users with the ability to use the browser "Do Not Track" signal to opt out of certain personalization. AOL has consolidated and simplified many of the preferences and opt-outs we offer, and as a result, "Do Not Track" browser signals will no longer be recognized. You can still opt-out of Gravity personalization using the cookie-based opt-out available on the [Gravity website](http://www.gravity.com/consumers/) and this opt-out is also now part of the AOL Advertising opt-out available on various industry opt-out pages, such as [The Network Advertising Initiative](http://www.networkadvertising.org/choices/) and [The Digital Advertising Alliance](http://www.aboutads.info/choices/). Effective September 15, 2014, Gravity will only disable personalization in response to these opt-out cookies. If and when a standard for responding to browser "Do Not Track" signals is established, we may revisit our policy on responding to these signals.
+
+
+
+  
+  
+  
+  
+
+
+Who can I contact with questions about my privacy? Who can I contact with questions about my privacy?
+
+  * If you have any questions, please [email us](mailto:PrivacyQuestions@aol.com). For immediate assistance with AOL products and services or your AOL account, please visit AOL Help, where you can find answers to many common questions. Here, you can find assistance with error messages, connection problems, billing, or using AOL products and services. Users on qualified plans can chat live with a Member Services consultant by clicking the "Contact AOL" link at the bottom of the page.
+
+
+
+  
+
+
+## Questions Related to our Terms of Service Updates
+
+  
+  
+
+
+What is arbitration? What is arbitration?
+
+  * Arbitration is a more informal way of resolving legal disputes than going to court. Cases are decided by an impartial, independent arbitrator, who can award individual damages just as a court could. Arbitration is typically faster and more efficient than court. Arbitrations with AOL will be administered by the American Arbitration Association.
+
+
+
+  
+  
+  
+
+
+What is a Notice of Dispute? What is a Notice of Dispute?
+
+  * A "Notice of Dispute" is a form on which you provide your contact information, your AOL user ID, the facts regarding your Dispute, and the relief you are requesting from us. You can get a Notice of Dispute form by clicking [here](http://legal.aol.com/notice_of_dispute). We will respond to a Notice of Dispute in writing within 60 days after we receive it. If, after 60 days, the dispute has not been resolved to your satisfaction, you may initiate arbitration.
+
+
+
+  
+
+
+How do I start the arbitration process? How do I start the arbitration process?
+
+  * To start the arbitration process, you must first file a Notice of Dispute with us. If, after 60 days, the dispute has not been resolved to your satisfaction, you may initiate arbitration by completing a Demand for Arbitration form, available by clicking [here](http://legal.aol.com/arbitration). The completed form should be returned directly to the AAA. The AAA will assign someone to manage the case and will contact you with instructions for continuing the arbitration process.
+
+
+
+  
+
+
+How much does arbitration cost? How much does arbitration cost?
+
+  * In most cases, there will be no cost to you. If your claim in arbitration is $75,000 or less, we will pay your filing fees, as well as other AAA and arbitrator's fees and expenses. If you initiate an arbitration involving more than $75,000, the AAA rules will govern payment of filing fees and the AAA's and arbitrator's fees and expenses. If AOL initiates arbitration, we will pay all filing, AAA, and arbitrator's fees and expenses.
+
+
+
+  
+  
+  
+  
 
