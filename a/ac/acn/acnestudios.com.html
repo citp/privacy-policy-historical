@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the acnestudios.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626024133id_/http%3A//www.acnestudios.com/legal-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acnestudios.com privacy policy that was archived on 2014-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231154023id_/http%3A//www.acnestudios.com/legal-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgIPWFNQGwIDVVNRBwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <title>Acne Studios -  Privacy Policy Shop Ready to Wear, Accessories, Shoes and Denim for Men and Women</title>
 <meta name="description" content="Shop and view the latest Womenswear, Menswear, Shoes and Accessories Collection from the official Acne website. Worldwide Shipping. ">
 <meta name="keywords" content="Acne, acne clothing, acne jeans, acne clothes, new collection Swedish designer, clothing, local acne store, shop online, jeans, shoes, boots, skinny jeans, sun glasses, jewelry, ready to wear, bag, designer, collections, pistol short, acne cardigan, acne blazer, acne skirt, limit, max, kex, roc, accessories, shop, hand bag, purse, wallet, mens designer jeans, swedish fashion, jonny johansson, mikael schiller, acne paper">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://www.acnestudios.com/skin/frontend/enterprise/acne-millennium/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.acnestudios.com/skin/frontend/enterprise/acne-millennium/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/favicon.ico?v=1ac64" type="image/x-icon">
+<link rel="shortcut icon" href="http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/favicon.ico?v=1ac64" type="image/x-icon">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
@@ -17,25 +17,23 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.acnestudios.com/skin/frontend/enterprise/acne-millennium/css/styles.css?v=16b2e" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.acnestudios.com/skin/frontend/enterprise/default/css/print.css?v=16b2e" media="print">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.acnestudios.com/js/acne-millennium/core.min.js"></script>
-<script type="text/javascript" src="http://www.acnestudios.com/skin/frontend/enterprise/acne-millennium/js/scripts.min.js?v=16b2e"></script>
+<link rel="stylesheet" type="text/css" href="http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/css/styles.css?v=1ac64" media="all">
+<link rel="stylesheet" type="text/css" href="http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/default/css/print.css?v=1ac64" media="print">
+<script type="text/javascript" src="http://www.acnestudios.com/js/acne-millennium/core.min.js?v=1ac64"></script>
+<script type="text/javascript" src="http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/js/scripts.min.js?v=1ac64"></script>
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.acnestudios.com/skin/frontend/enterprise/default/css/styles-ie.css?v=16b2e" media="all" />
+<link rel="stylesheet" type="text/css" href="http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/default/css/styles-ie.css?v=1ac64" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.acnestudios.com/js/lib/ds-sleight.js"></script>
-<script type="text/javascript" src="http://www.acnestudios.com/skin/frontend/enterprise/default/js/iehover-fix.js?v=16b2e"></script>
+<script type="text/javascript" src="http://www.acnestudios.com/js/lib/ds-sleight.js?v=1ac64"></script>
+<script type="text/javascript" src="http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/default/js/iehover-fix.js?v=1ac64"></script>
 <![endif]-->
-
 <script type="text/javascript">
 //<![CDATA[
 Mage.Cookies.path     = '/';
 Mage.Cookies.domain   = '.www.acnestudios.com';
 //]]>
 </script>
-
 <script type="text/javascript">
 //<![CDATA[
 optionalZipCountries = ["AF","AX","AL","DZ","AS","AD","AO","AI","AQ","AG","AR","AM","AW","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BV","BR","IO","VG","BN","BG","BF","BI","KH","CM","CA","CV","KY","CF","TD","CL","CN","CX","CC","CO","KM","CG","CD","CK","CR","CI","HR","CU","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FK","FO","FJ","FI","FR","GF","PF","TF","GA","GM","GE","DE","GH","GI","GR","GL","GD","GP","GU","GT","GG","GN","GW","GY","HT","HM","HN","HK","HU","IS","IN","ID","IR","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MY","MV","ML","MT","MH","MQ","MR","MU","YT","MX","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","AN","NC","NZ","NI","NE","NG","NU","NF","MP","KP","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PN","PL","PT","PR","QA","RE","RO","RU","RW","BL","SH","KN","LC","MF","PM","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","GS","ES","LK","SD","SR","SJ","SZ","SE","CH","SY","TW","TJ","TZ","TH","TL","TG","TK","TO","TT","TN","TR","TM","TC","TV","UG","UA","AE","GB","US","UY","UM","VI","UZ","VU","VA","VE","VN","WF","EH","YE","ZM","ZW"];
@@ -47,7 +45,38 @@ optionalZipCountries = ["AF","AX","AL","DZ","AS","AD","AO","AI","AQ","AG","AR","
 var countryCode = 'US';
 //]]>
 </script>
-<script type="text/javascript">//<![CDATA[
+<style type="text/css" media="all">
+    @font-face {
+        font-family: 'acne-regular';
+        src: url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleRegular.eot?v=1ac64');
+        src: url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleRegular.eot?v=1ac64#iefix') format('embedded-opentype'), url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleRegular.woff?v=1ac64') format('woff'), url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleRegular.ttf?v=1ac64') format('truetype'), url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleRegular.svg?v=1ac64#AcneStudiosCircleRegular') format('svg');
+        font-style: normal;
+        font-weight: normal;
+    }
+
+    @font-face {
+        font-family: 'acne';
+        src: url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBook.eot?v=1ac64');
+        src: url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBook.eot?v=1ac64#iefix') format('embedded-opentype'), url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBook.woff?v=1ac64') format('woff'), url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBook.ttf?v=1ac64') format('truetype'), url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBook.svg?v=1ac64#AcneStudiosCircleBook') format('svg');
+        font-style: normal;
+        font-weight: normal;
+    }
+
+    @font-face {
+        font-family: 'acne-bold';
+        src: url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBold.eot?v=1ac64');
+        src: url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBold.eot?v=1ac64#iefix') format('embedded-opentype'), url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBold.woff?v=1ac64') format('woff'), url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBold.ttf?v=1ac64') format('truetype'), url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBold.svg?v=1ac64#AcneStudiosCircleBold') format('svg');
+        font-style: normal;
+        font-weight: normal;
+    }
+    @font-face {
+        font-family: 'acne-bold-neg';
+        src: url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBoldNeg.eot?v=1ac64');
+        src: url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBoldNeg.eot?v=1ac64#iefix') format('embedded-opentype'), url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBoldNeg.woff?v=1ac64') format('woff'), url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBoldNeg.ttf?v=1ac64') format('truetype'), url('http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/fonts/AcneStudiosCircleBoldNeg.svg?v=1ac64#AcneStudiosCircleBoldNeg') format('svg');
+        font-style: normal;
+        font-weight: normal;
+    }
+</style><script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
         //]]></script>    </head>
     <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
@@ -94,11 +123,11 @@ _gaq.push(['_trackPageview']);
             <a href="#myaccount" data-toggle="tab">My account</a>
         </li>
         <li class="tab-toggle">
-            <a href="#wishlist" data-toggle="tab">Wishlist <span class="wishlist-count">0</span></a>
-        </li>
+            <!--{TOP_NAVIGATION_WISHLIST_a6fc01aaa40599a0f7a52285bd1d1378}--><a href="#wishlist" data-toggle="tab">Wishlist: <span class="wishlist-count">0</span></a>
+<!--/{TOP_NAVIGATION_WISHLIST_a6fc01aaa40599a0f7a52285bd1d1378}-->        </li>
         <li class="bag-label tab-toggle">
-            
-    <a href="#bag" data-toggle="tab">Bag: <span class="bag-count">0</span></a>        </li>
+            <!--{CART_SIDEBAR_983dea7e2182126afd282b35d1b14e1c}-->
+    <a href="#bag" data-toggle="tab">Bag: <span class="bag-count">0</span></a><!--/{CART_SIDEBAR_983dea7e2182126afd282b35d1b14e1c}-->        </li>
         <!-- ... -->
         <li class="stretch"></li>
     </ul>
@@ -113,7 +142,7 @@ _gaq.push(['_trackPageview']);
     </form>            </div>
             <div class="tab-pane" id="help">
                 <div class="contact-async-content">
-                    <span class="text-muted">Customer care: <span class="hours">Mon to Fri 8am—11pm CET</span></span>
+                    Customer care: <span class="hours">Mon to Fri 8am—11pm CET</span>
                     <ul>
                         <li>Live chat, <a href="http://www.acnestudios.com/shopping-help/live-chat" class="text-black shopping-help-link chat-link">available now</a></li>
                         <li>Email <a href="mailto:customercare@acnestudios.com" class="mail">customercare@acnestudios.com</a></li>
@@ -124,53 +153,73 @@ _gaq.push(['_trackPageview']);
                 <p>
                     Shipping to: United States                     <a href="http://www.acnestudios.com/shipping-destination/" class="text-muted marg-left">Change</a>
                     </p>
-                    <p class=" text-muted onehalf">
-                        Express shipping 15 Usd <br>
-Free express shipping on orders above 200 Usd                    </p>
+                    <p class="onehalf">
+                        </p><p>Express shipping 15 Usd <br> Free express shipping on orders above 200 Usd<br> Free returns and exchanges on all US orders</p>                    <p></p>
                     <div class="bdt">
                         <a class="btn btn-block btn-pale btn-lg shopping-help-link" id="shopping-help-link" href="http://www.acnestudios.com/shopping-help/shopping-help"><span>More information</span></a>
                     </div>
                 </div>
                 <div class="tab-pane" id="myaccount">
-                        <ul class="account-menu">
-        <li class="dashboard"><a href="http://www.acnestudios.com/customer/account/">My account</a></li>
-        <li><a href="http://www.acnestudios.com/sales/order/history/">My orders</a></li>
+                    <!--{TOP_NAVIGATION_CUSTOMER_eb3ae2e9573326d0b9c67c66dc99cb1d}-->    <ul class="account-menu">
+        <li class="dashboard"><a href="https://www.acnestudios.com/customer/account/">My account</a></li>
+        <li><a href="https://www.acnestudios.com/sales/order/history/">My orders</a></li>
 
              </ul>
 
     <div class="btn-group bdt">
-            <a href="http://www.acnestudios.com/customer/account/login/" class="btn-pale btn btn-lg col-md-6"><span>Sign in</span></a>
-            <a href="http://www.acnestudios.com/customer/account/create/" class="btn-pale btn btn-lg col-md-6"><span>Register</span></a>
+            <a href="https://www.acnestudios.com/customer/account/login/" class="btn-pale btn btn-lg col-md-6"><span>Sign in</span></a>
+            <a href="https://www.acnestudios.com/customer/account/create/" class="btn-pale btn btn-lg col-md-6"><span>Register</span></a>
     </div>
 
-                </div>
+<!--/{TOP_NAVIGATION_CUSTOMER_eb3ae2e9573326d0b9c67c66dc99cb1d}-->                </div>
                 <div class="tab-pane wishlist-label" id="wishlist">
-                    <div class="tab-pane-content clearfix">
+                    <!--{TOP_NAVIGATION_WISHLIST_ec989b028c8a948da13299b698876d76}--><div class="tab-pane-content clearfix">
             <p class="text-center text-muted">You need to be logged in to create or edit your wishlist</p>
         <div class="btn-group bdt">
-            <a href="http://www.acnestudios.com/customer/account/login/" class="btn-pale btn btn-lg col-md-6"><span>Sign in</span></a>
-            <a href="http://www.acnestudios.com/customer/account/create/" class="btn-pale btn btn-lg col-md-6"><span>Register</span></a>
+            <a href="https://www.acnestudios.com/customer/account/login/" class="btn-pale btn btn-lg col-md-6"><span>Sign in</span></a>
+            <a href="https://www.acnestudios.com/customer/account/create/" class="btn-pale btn btn-lg col-md-6"><span>Register</span></a>
         </div>
     </div>
-                </div>
+<!--/{TOP_NAVIGATION_WISHLIST_ec989b028c8a948da13299b698876d76}-->                </div>
                 <div class="tab-pane" id="bag">
-                    
+                    <!--{CART_SIDEBAR_2becc4c1611a482b6f316eaa56c403f8}-->
 <div id="topCartContent" class="top-cart">
         <ol id="mini-cart" class="mini-products-list text-half">
                     <li class="cart-empty text-center text-muted ">
                 You have no items in your shopping bag.            </li>
             </ol>
-    </div>                </div>
+    </div>
+<!--/{CART_SIDEBAR_2becc4c1611a482b6f316eaa56c403f8}-->                </div>
             </div>
         </div>
     </nav>
         </header>
-                                <div class="main col2-left-layout">
+                <!--{GLOBAL_MESSAGES_bfdf076937e3cf92d61b58322b361b27}--><!--/{GLOBAL_MESSAGES_bfdf076937e3cf92d61b58322b361b27}-->                <div class="main col2-left-layout">
+                    <div class="col-left sidebar"><nav id="main-nav" class="main-nav posf nav">
+    <a href="http://www.acnestudios.com/" class="logo"><img src="http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/images/Logotype.svg?v=1ac64" data-fallback="http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/images/Logotype.png?v=1ac64" alt="Acne Studios"></a>
+    <ul id="menuitems" role="navigation">
+        <li class="women top-level">
+            <a href="http://www.acnestudios.com/shop-women/" rel="">Shop woman</a>
+                    </li>
+        <li class="men top-level">
+            <a href="http://www.acnestudios.com/shop-men/" rel="">Shop man</a>
+                    </li>
+
+        
+        
+        <li class="collections top-level">
+            <a href="http://www.acnestudios.com/collections/">Collections</a>
+                    </li>
+        <li class="stores top-level">
+            <a href="http://www.acnestudios.com/stores/">Stores</a>
+                    </li>
+    </ul>
+</nav></div>
                     <div class="col-main" role="main">
                             <div class="page-title">
         <h1>Privacy policy</h1>
     </div>
-<div class="std"><div class="row">
+<div class="std"><!--{MESSAGES_2b2269ae313ed7f0fd48ec279cfeeedb}--><!--/{MESSAGES_2b2269ae313ed7f0fd48ec279cfeeedb}--><div class="row">
 	<div class="col-md-6">
 		<h2>General privacy policy</h2>
 		<p>This website is managed by Acne Studios Corp. (hereinafter referred to as Acne Studios or we). Acne Corp. is a subsidiary of Acne Studios, registered in Stockholm Sweden. Acne Studios recognizes the importance of protecting the privacy of personal and financial information. We have instituted strict policies and security measures to protect the information you provide us. When you register online with Acne Studios, use our online store or choose to fill out and submit one of our customer information cards when visiting an Acne Studios store, you give us your consent to process and use such submitted personal data in accordance with this privacy policy. This privacy policy applies to all protected personal information collected, maintained or used by Acne Studios.</p>
@@ -189,7 +238,7 @@ Free express shipping on orders above 200 Usd                    </p>
 		<p>Acne Studios uses appropriate security measures to protect the information you provide to us. However, while we take all reasonable steps to protect your personal information from unauthorized access, use or disclosure, you accept that no internet data transmission can be guaranteed to be secure from access by unintended recipients and will not hold us responsible for any breach of security unless this is due to our negligence.</p>
 
 		<h2>Accuracy and retention</h2>
-		<p>You are entitled to request access to and correction of all personal data you provide us, or to remove your name from Acne Studios ’s marketing list at any time by contacting our customer service at +46 8 551 194 00 or by contacting us by email shop@acnestudios.com or mailing address listed below. If you are registered with Acne Studios on our website and would like us to remove you from our marketing list, please login to you private account and click on this unsubscribe link.<br><a href="http://www.acnestudios.com/customer/account/login/">Login to your account</a></p>
+		<p>You are entitled to request access to and correction of all personal data you provide us, or to remove your name from Acne Studios ’s marketing list at any time by contacting our customer service at +46 8 551 194 00 or by contacting us by email shop@acnestudios.com or mailing address listed below. If you are registered with Acne Studios on our website and would like us to remove you from our marketing list, please login to you private account and click on this unsubscribe link.<br><a href="https://www.acnestudios.com/customer/account/login/">Login to your account</a></p>
 
 		<h2>About cookies</h2>
 		<p>Cookies are pieces of information a web site can send to your computer’s browser for record-keeping purposes. We use cookies to ascertain which web pages are visited and how often, to make our web site more user friendly, and to give you a better experience when you return to the website. For example, cookies allow us to save your password so you do not have to re-enter it every time you visit our site. Most web browsers automatically accept cookies, but you do not have to accept them. To disable cookies, you should access the “help” tab on your browser or read the information that came with your browser software. However, your visit to our website will be significantly enhanced if cookies are not disabled. If you do not disable your cookies, you accept our collection and storage of any of your personal information such cookies contain.</p>
@@ -229,43 +278,17 @@ Free express shipping on orders above 200 Usd                    </p>
 		</div>
 	</div>
 </div></div>                    </div>
-                    <div class="col-left sidebar"><nav id="main-nav" class="main-nav posf nav">
-    <a href="http://www.acnestudios.com/" class="logo"><img src="http://www.acnestudios.com/skin/frontend/enterprise/acne-millennium/images/Logotype.svg" data-fallback="http://www.acnestudios.com/skin/frontend/enterprise/acne-millennium/images/Logotype.png" alt="Acne Studios"></a>
-    <ul id="menuitems" role="navigation">
-        <li class="women top-level">
-            <a href="http://www.acnestudios.com/shop-women/" rel="">Shop woman</a>
-                    </li>
-        <li class="men top-level">
-            <a href="http://www.acnestudios.com/shop-men/" rel="">Shop man</a>
-                    </li>
-
-                <li class="sale top-level">
-            <a href="/sale-women/" rel="">Sale woman</a>
-                    </li>
-        
-                <li class="sale top-level">
-            <a href="/sale-men/" rel="">Sale man</a>
-                    </li>
-        
-        <li class="collections top-level">
-            <a href="http://www.acnestudios.com/collections/">Collections</a>
-                    </li>
-        <li class="stores top-level">
-            <a href="http://www.acnestudios.com/stores/">Stores</a>
-                    </li>
-    </ul>
-</nav></div>
                 </div>
                                 <footer class="footer">
 	<div class="row">
 		<nav class="nav">
 			<ul id="footer-menu">
+				<li>Country: <a href="/shipping-destination/?refererUrl=" id="footer-shipping">United States </a></li>
 				    <li><a href="http://www.acnestudios.com/shopping-help/delivery-information" class="shopping-help-link">Shipping info</a></li>
     <li><a href="http://press.acnestudios.com">Press</a></li>
     <li><a href="http://www.acnestudios.com/about">About</a></li>
     <li><a href="http://www.acnestudios.com/job-vacancies">Careers</a></li>
-    <li><a href="http://www.acnestudios.com/contact/online-store">Contact</a></li>				<li>Shipping to: <a href="http://www.acnestudios.com/shipping-destination/" id="footer-shipping">United States </a></li>
-				<li class="tab-toggle"><a class="footer-newsletter-subscription tab-toggle" href="#footer-newsletter-subscription" data-toggle="tab">Subscribe to newsletter</a></li>
+    <li><a href="http://www.acnestudios.com/contact/online-store">Contact</a></li>				<li class="tab-toggle"><a class="footer-newsletter-subscription tab-toggle" href="#footer-newsletter-subscription" data-toggle="tab">Subscribe to newsletter</a></li>
 				<li><a href="http://www.facebook.com/acnestudios" target="_blank" class="icon icon-facebook"></a></li>
 				<li><a href="http://twitter.com/#!/acnestudios" target="_blank" class="icon icon-twitter"></a></li>
 				<li><a href="http://instagram.com/acnestudios" target="_blank" class="icon icon-instagram"></a></li>
@@ -282,30 +305,28 @@ Free express shipping on orders above 200 Usd                    </p>
 			<div class="tab-pane" id="footer-newsletter-subscription">
 				<button data-target="#footer-newsletter-subscription" type="button" class="close" data-dismiss="dropdown" aria-hidden="true" data-toggle="tab">×</button>
 				
-<form action="http://www.acnestudios.com/newsletter/subscriber/newAjax/" method="post" id="newsletter-validate-detail" role="form" class="form-horizontal">
+<form action="https://www.acnestudios.com/newsletter/subscriber/newAjax/" method="post" id="newsletter-validate-detail" role="form" class="form-horizontal">
 	<div class="form-subscribe">
 
-		<p class="no-marg strong">Subscribe to newsletter </p><div> Receive news about Acne Studios' collections, events and sales.</div><p></p>
-		<div class="form-group half">
-			<label class="control-label" for="firstname">First name</label>
-			<input name="firstname" required="" type="text" id="firstname" class="form-control">
+		<p class="text-center">Sign up to receive news about Acne Studios collections, events and sales.</p>
+	<div class="row">
+		<div class="form-group newsletter-margin col-lg-6 firstname">
+			<input name="firstname" required="" type="text" id="firstname" class="newsletter-input form-control" placeholder="First name">
 		</div>
 
-		<div class="form-group half">
-			<label class="control-label" for="lastname">Last name</label>
-			<input name="lastname" required="" type="text" id="lastname" class="form-control">
+		<div class="form-group newsletter-margin col-lg-6 lastname">
+			<input name="lastname" required="" type="text" id="lastname" class="newsletter-input form-control" placeholder="Last name">
+		</div>
+	</div>
+
+		<div class="form-group newsletter-margin">
+			<input name="email" type="text" required="" id="email" class="newsletter-input form-control" placeholder="Email">
 		</div>
 
-		<div class="form-group half">
-			<label class="control-label" for="email">E-Mail</label>
-			<input name="email" type="text" required="" id="email" class="form-control">
-		</div>
-
-		<div class="form-group">
-			<label class="control-label" for="location">Choose your shipping country</label>
-			<div class="posr ">
+		<div class="form-group newsletter-margin">
+			<div class="posr">
 				<div class="input-box input-select input-country">
-					<select name="location" id="location" class="validate-select" title="Country">
+					<select name="location" id="location" class="newsletter-input validate-select" title="Country">
 																																											<option>Afghanistan </option>
 																							<option>Aland Islands </option>
 																							<option>Albania </option>
@@ -557,25 +578,25 @@ Free express shipping on orders above 200 Usd                    </p>
 			</div>
 		</div>
 
-					<div class="clearfix form-group">
+					<div class="clearfix form-group newsletter-margin">
 				<span class="pull-left ">Gender</span>
 <div class="pull-right">
                                             <span class="radio">
             <input class="radio validate-radio" id="Male" required="" type="radio" name="gender" value="519">
                 <label for="Male">
-                    <span class="input-radio"></span>Male                </label>
+                    Male                </label>
             </span>
                                 <span class="radio">
             <input class="radio validate-radio" id="Female" required="" type="radio" name="gender" value="520">
                 <label for="Female">
-                    <span class="input-radio"></span>Female                </label>
+                    Female                </label>
             </span>
             </div>			</div>
 				<ul class="messages" id="newsletter-validate-errors"></ul>
 
 		<div class="bdt">
 			<button type="submit" class="btn btn-block btn-pale btn-lg btn-loader" title="Subscribe">
-				<span class="loader"><img src="http://www.acnestudios.com/skin/frontend/enterprise/acne-millennium/images/loader-white.gif" alt=""></span>
+				<span class="loader"><img src="http://d3pfrs3be80x9y.cloudfront.net/skin/frontend/enterprise/acne-millennium/images/loader-white.gif?v=1ac64" alt=""></span>
 				<span class="text">Subscribe</span>
 			</button>
 		</div>
@@ -585,7 +606,8 @@ Free express shipping on orders above 200 Usd                    </p>
 
 		</div>
 	</div>
-	</footer>                <script type="text/javascript">
+	</footer>
+                <script type="text/javascript">
 //<![CDATA[
     if (typeof MX_V == 'undefined') {
         MX_V = {}
@@ -596,8 +618,8 @@ Free express shipping on orders above 200 Usd                    </p>
     MX_V.id = 'undefined';
     MX_V.category = 'undefined';
 //]]>
-</script>            </div>
+</script><!--{WISHLISTS_5def2e501ceaacdc8626c277e8617dbf}--><!--/{WISHLISTS_5def2e501ceaacdc8626c277e8617dbf}-->            </div>
         </div>
-            
+                    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"4e8b9edcdd","applicationID":"1312305","transactionName":"Yl1QZxFYVhEEBkxdXFsXc1AXUFcMSgZVRxxFWVVWTE9RBxI=","queueTime":0,"applicationTime":478,"atts":"ThpTEVlCRR8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
