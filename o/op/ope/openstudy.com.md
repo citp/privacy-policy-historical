@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the openstudy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112612id_/http%3A//openstudy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openstudy.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231072943id_/http%3A//openstudy.com/privacy-policy) for the most accurate reproduction.*
 
 # OpenStudy: Study Together
-
-## Sign Up For Free
-
-### 188 helpers are online right now
-
-75% of questions are answered within 5 minutes.
 
 ##### Forgot Your Password?
 
@@ -17,6 +11,7 @@
   * [Terms](https://web.archive.org/terms-and-conditions)
   * [Privacy](https://web.archive.org/privacy-policy)
   * [Code of Conduct](https://web.archive.org/code-of-conduct)
+  * [Teachers](https://web.archive.org/teachers)
 
 
 
