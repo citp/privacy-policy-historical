@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209061611id_/http%3A//www.aspca.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231031552id_/http%3A//www.aspca.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ASPCA
 
@@ -67,4 +67,4 @@ Via email: 
 Via Fax:   
 (212) 860-3560
 
- _Last Revised: September   30, 2011 _
+ _Last Revised: September 30, 2011  _
