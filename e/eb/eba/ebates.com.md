@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the ebates.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626141118id_/http%3A//www.ebates.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebates.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231165604id_/http%3A//www.ebates.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Ebates Privacy Agreement
 
 Ebates was founded by two former Deputy District Attorneys who take privacy and security very seriously. We at Ebates know that these issues are essential to making this site a success for us and our members. Rest assured that privacy, security and integrity are first and foremost at Ebates.
 
-[](http://www.truste.org/ivalidate.php?url=www.ebates.com&sealid=101)
+[](https://privacy.truste.com/privacy-seal/Ebates-com-Inc-/validation?rid=4bd94602-e53f-4f91-95f8-2ad9e0e97fe9 "TRUSTe online privacy certification")
+
+  
+
 
   * What data we collect and why
   * Who sees your personal information
@@ -31,11 +34,15 @@ back to top
 
 ####  Who sees your personal information
 
-Only a very limited number of Ebates employees ever have access to your personal information. This information is used to track and send the cash back payments you earn.
+We will share your personal information with third parties only in the ways that are described in this privacy notice. We do not sell your personal information to third parties.
 
-We may use contractors or vendors to help us provide some of the services at our site. If we need to disclose personal information for them to provide the services, it is with the requirement that the information is kept confidential and is used only for those services.
+Only a very limited number of our employees ever have access to your personal information. We may use third-party contractors or vendors to help us provide some of our services. If we need to disclose personal information for them to provide the services, it is with the requirement that the information will be kept confidential and used only to provide those services. In addition, our affiliates, subsidiaries, service providers, and other entities may collect personal information about your browsing habits over time and across different Web sites when you use our website.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site or to protect Ebates and its members from losses.
+We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on us or to protect us and our members from losses.
+
+While browsers allow you to disable the usage of cookies, we do not change our practices in response to a “Do Not Track” signal in the http header from your browser or mobile application.
+
+If we (or one of our affiliated companies) are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or a prominent notice this website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 back to top
 
@@ -87,6 +94,8 @@ It is the member's responsibility to update and maintain accurate contact inform
 
 We will post all changes to this Privacy Agreement here at our site. You are responsible for checking periodically on policy updates.
 
+Please feel free to contact us if you have any questions about our Privacy Policy or our information practices. You may contact us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com)
+
 back to top
 
 ####  Integrity
@@ -110,3 +119,5 @@ San Francisco CA, 94105
 (415-908-2200)
 
 back to top
+
+Effective Date: September 5, 2014 
