@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyteam.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630062641id_/http%3A//www.skyteam.com/en/General-information/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyteam.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231044837id_/http%3A//www.skyteam.com/en/General-information/Privacy-Policy) for the most accurate reproduction.*
 
 # SkyTeam - Privacy Policy
 
@@ -20,17 +20,21 @@ This website belongs to SkyTeam Airline Alliance Management Coöperatie U.A. (�
 
 3.1         SkyTeam uses appropriate security measures to protect your personal data against unauthorized access, loss, deletion, disclosure and improper use, and to maintain the accuracy and integrity of your data. These measures are reviewed regularly. Although we use our best efforts to protect your personal information, we cannot guarantee this to be 100% secure. Consequently we cannot ensure or warrant the security of any information you transmit to us or from our website.
 
-4               **How to exercise your rights?**
+4               **How do we comply with the Childern’s Online Privacy Protection Act?**
 
-4.1         If you have any query about our processing of your personal data, or if you would like to review, correct, change or delete any of your personal data processed by us, please contact us by using the contact details mentioned below. If you receive mailings from us, and you no longer want to, you can deregister by sending a request to deregister to that same e-mail address or by using the deregister link in the relevant mailing. If you have a personal account for our website, you can update your user information and preferences via the relevant profile and preferences section in your account.
+SkyTeam does not knowingly collect personal identifiable data from children under the age of 13. If a child under 13 has provided SkyTeam with personal information without parental or guardian consent, the parent or guardian may e-mail us, and we will remove the information and unsubscribe the child from any promotional contact opportunities.
 
-**5                ****Cookies**
+5               **How to exercise your rights?**
 
-5.1         Please consult our [cookie policy](https://web.archive.org/General-information/Cookie-policy/) for information on SkyTeam's use of cookies, tags and similar technologies.
+5.1         If you have any query about our processing of your personal data, or if you would like to review, correct, change or delete any of your personal data processed by us, please contact us by using the contact details mentioned below. If you receive mailings from us, and you no longer want to, you can deregister by sending a request to deregister to that same e-mail address or by using the deregister link in the relevant mailing. If you have a personal account for our website, you can update your user information and preferences via the relevant profile and preferences section in your account.
 
-6               **Links to other websites**
+6               **Cookies**
 
-6.1         This website may contain links to other websites. Please be aware that SkyTeam is not responsible for the content or privacy practices of those websites. We encourage you to consult the privacy statements of each website that you visit.
+6.1         Please consult our [cookie policy](https://web.archive.org/General-information/Cookie-policy/)  for information on SkyTeam's use of cookies, tags and similar technologies.
+
+7               **Links to other websites**
+
+7.1         This website may contain links to other websites. Please be aware that SkyTeam is not responsible for the content or privacy practices of those websites. We encourage you to consult the privacy statements of each website that you visit.
 
 **Contact**
 
@@ -46,4 +50,4 @@ The Netherlands
 
 e-mail: [website@skyteam.com](mailto:website@skyteam.com)
 
-Version: April 2013
+Version: June 2014
