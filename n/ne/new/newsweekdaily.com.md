@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsweekdaily.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630073455id_/http%3A//www.newsweek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsweekdaily.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231171559id_/http%3A//www.newsweek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -122,4 +122,4 @@ IBT Media Inc
 New York, NY 10004  
 E-mail: i.maytal@ibtimes.com
 
-We are further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Company, please visit the BBB EU SAFE HARBOR web site at [ _www.bbb.org/us/safe-harbor-complaints_](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+We are further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Company, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
