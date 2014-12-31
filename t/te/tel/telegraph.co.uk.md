@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the telegraph.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630152825id_/http%3A//www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegraph.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231230943id_/http%3A//www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Telegraph
 
-Telegraph Media Group comprises Telegraph Media Group Limited, VOS Media Limited and QP Magazine Limited. When we collect your information we may share it across our group companies. 
+"Telegraph Media Group” includes Telegraph Media Group Limited, Telegraph Events Limited (previously VOS Media Limited) and QP Magazine Limited. When we collect your information we may share it across our group companies. 
 
 This Privacy and Cookie Policy explains how Telegraph Media Group uses personal information we collect and how you can limit our use of that personal data. 
 
@@ -84,7 +84,9 @@ http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/
 
 http://www.audiencescience.com/privacy 
 
-7.5 You can also visit the trade body representing these advertising companies for more information on how to opt out of these cookies: http://youronlinechoices.com/ 
+7.5 You can also visit the trade body representing these advertising companies for more information on how to opt out of these cookies: 
+
+http://www.youronlinechoices.com 
 
 **8\. Security**
 
@@ -112,4 +114,4 @@ http://www.audiencescience.com/privacy
 
 12.1 If you believe that we have not adhered to this Policy, please notify us by email at data.protection@telegraph.co.uk and we will try to solve the problem promptly. 
 
-_This Policy was last updated on 22nd November, 2013._
+_This Policy was last updated on 18th August, 2014._
