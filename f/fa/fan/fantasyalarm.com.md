@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the fantasyalarm.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102222527id_/http%3A//www.fantasyalarm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyalarm.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231055822id_/https%3A//www.fantasyalarm.com/privacy.php%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy » Fantasy Alarm
+# Fantasy Alarm Privacy Policy
 
-FantasyAlarm.com, LLC Privacy Policy
+## FA Media, LLC Privacy Policy
 
-FantasyAlarm.com, LLC. ("FA") operates, and FantasyAlarm.com owns, the Internet Web site located at www.FantasyAlarm.com (the "FA Web Site" or the "Site"). FA has implemented those Principles in this Privacy Policy, which describes how we collect, use and share identifiable personal information ("INFO"-- your full name, email address, mailing address, telephone number or credit card number) we obtain from users of our Site. This Privacy Policy applies to the services offered by FA, including the FA Web site, the FA mobile services, and any other features, content, or applications offered from time to time by FA in connection with the FA Web site (collectively, the "Services").
+FA Media, LLC. ("FA") operates, and FantasyAlarm.com owns, the Internet Web site located at www.FantasyAlarm.com (the "FA Web Site" or the "Site"). FA has implemented those Principles in this Privacy Policy, which describes how we collect, use and share identifiable personal information ("INFO"-- your full name, email address, mailing address, telephone number or credit card number) we obtain from users of our Site. This Privacy Policy applies to the services offered by FA, including the FA Web site, the FA mobile services, and any other features, content, or applications offered from time to time by FA in connection with the FA Web site (collectively, the "Services").
 
 **The FA Web Site is a general audience site, and FA does not knowingly collect INFO from children under 13 years of age**.  From time to time FA may revise this Privacy Policy to reflect industry initiatives or changes in the law, our INFO collection and use practices, the features of the Services, or technology. Your continued use of the Services after FA posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If FA materially changes its practices regarding collection or use of your INFO, your INFO will continue to be governed by the Policy under which it was collected unless you have been provided notice of and have not objected to the change.
 
 FA makes forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-  **HOW FA USE THE INFORMATION IT COLLECTS?**
+###   **HOW FA USE THE INFORMATION IT COLLECTS?**
 
-_E-mail & Text Notification_
+#### E-mail & Text Notification
 
 We may use the information we collect to occasionally notify you about new services,  recommended services, special offers we think you'll find valuable and important functionality changes to the web site. If you would rather not receive this information, or would like to opt-out of any other information request or distribution, simply submit such a request to us at [info@fantasyalarm.com](mailto:info@fantasyalarm.com). Members may also receive electronic newsletters from FA and or its partners or paid advertisers.  If you would rather not receive any of these newsletters, you may click on the link at the end of the newsletter, or notify us at [info@fantasyalarm.com](mailto:info@fantasyalarm.com).  **FA will never  sell the email addresses or phone numbers of its users to third parties.**
 
- _Disclosure to Third Parties_
+#### Disclosure to Third Parties
 
 Subject to your express opt-in approval, we may share your personally identifiable information with third parties, including telemarketers and e-commerce partners, who assist FA. by providing services to users of FA.  We also may share your personally identifiable information at any time if compelled to do so in order to comply with any applicable law or valid legal process. 
 
 Should you change your mind about the information you've provided to us or should your information change, we have provided a way for you to correct, update or remove the personal information you gave us. You can do this simply by contacting us at [info@fantasyalarm.com](mailto:info@fantasyalarm.com)
 
-COLLECTION OF INFO BY FA.
+#### Collection of INFO by FA.
 
 General. When FA collects INFO from you it is because you are voluntarily submitting the INFO to us in order to register for the FA Web site. FA may also collect INFO from you if you choose to participate in FA's activities like sweepstakes, contests, games, and surveys, or because you want us to furnish you with products, services, newsletters, or information or in connection with content or suggestions you submit to FA for review. Required registration INFO includes first name, last name, email address, screen name, country, zip and date of birth. Phone number and mailing address are optional _ **.**_ **** We may also obtain INFO from reputable third parties. 
 
@@ -32,7 +32,7 @@ Cookies. Cookies are small bits of information that FA places on your computer. 
 
 Third party advertisements displayed on the Services may also contain cookies set by Internet advertising companies or advertisers. FA does not control these cookies and users of the Services should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. See the "Notice" section below for more information on third party advertising. FA may use cookies and similar tools to relate your use of our Site to INFO obtained from you or a reputable third party. For example, if you've asked us to provide you information about our upcoming products or promotions, cookie and/or click stream data about your activities on the FA Web site may allow us to limit the materials we provide you to items we think you will find interesting, based on your prior online activities and preferences. However, if FA wishes to combine your personal and cookie or click stream information in this manner, we will obtain your express affirmative consent You can program your computer to warn you each time a cookie is being sent, block third party cookies, or block all cookies. However, by blocking all cookies you may not have access to certain features on the Services.
 
-FA WILL PROVIDE YOU WITH NOTICE ABOUT ITS INFO COLLECTION PRACTICES
+#### FA will provide you with notice about it's info collection practices
 
 When you voluntarily provide INFO to FA, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses FA will make of the information. At the time you provide your INFO, FA will notify you of your options regarding our use of your INFO. (See "Choice" below). Except as described in this Privacy Policy, FA will not share your INFO with third parties unless you have given FA permission to do so. (See "Use" below).
 
@@ -42,11 +42,11 @@ Some of the advertisements that appear on the Site are delivered to you by third
 
 <http://www.networkadvertising.org/managing/opt_out.asp>
 
-FA WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR INFO
+#### FA will provide you with choices about the use of your INFO
 
 Except as described in this Privacy Policy, FA will not use the INFO you provide to us for purposes different from the purpose for which it was submitted, or share your INFO with third parties that are not affiliated with FA (i.e., not part of the News America Group) without your permission.
 
-FA'S USE OF INFO
+#### FA'S use of INFO
 
 FA will only use the INFO you provide in a manner that is consistent with this Privacy Policy. If FA obtains INFO from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy.
 
@@ -60,11 +60,11 @@ FA may aggregate INFO and use it anonymously. Anonymous click stream, number of 
 
 There may be instances when FA may access or disclose INFO or non-INFO without providing you with a choice in order to: (i) protect or defend the legal rights of FA, other companies within the News America Group or their employees, agents and contractors (including enforcement of our agreements); (ii) to protect the safety and security of users of the Services or members of the public, including acting in urgent circumstances; (iii) to protect against fraud or for risk management purposes; or (iv) to comply with the law or legal process. In addition, if FA sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, FA may transfer your INFO to a third party as part of that transaction.
 
-FA PROTECTS THE SECURITY OF INFO
+#### FA protects your security of INFO
 
 FA uses commercially reasonable administrative, technical, personnel and physical measures to safeguard INFO in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, FA uses reasonable methods to make sure that INFO is accurate, up-to-date and appropriately complete.
 
-ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENCES REGARDING YOUR INFO AND HOW TO CONTACT FA ABOUT PRIVACY CONCERNS
+#### Access, Remedies and Compliance: How to access, Correct or Change your preferences regarding your INFO and how to contact FA about privacy concerns
 
  Whenever possible, FA Members (people who have registered with FA) may review the INFO that they have provided to us. We will take reasonable steps to correct any INFO a Member informs us is incorrect. If you are a Member, you can view your INFO and Member preferences and profile by accessing www.FantasyAlarm.com (must be logged in).
 
