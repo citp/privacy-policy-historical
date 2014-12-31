@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gtaforums.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627060418id_/http%3A//gtaforums.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtaforums.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231231740id_/http%3A//gtaforums.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - GTA Forums
+# Cookies and Privacy Policy - GTAForums
 
 At GTANet, we recognize that the privacy of your personal information is important. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
@@ -40,7 +40,10 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 **Sovrn / Lijit Cookies and Privacy**  
 One of the ad networks and companies The GTA Network utilizes is Lijit Networks Inc. Lijit's privacy policy can be viewed at <http://www.lijit.com/company/privacy-policy>. Lijit collects only anonymous information unless a reader chooses to submit personal information to Lijit. Lijit permits readers to opt out of the collection of this anonymous site visit data through the Lijit opt-out tool at <http://www.lijit.com/choices>.
 
-**Links and External Resources**
+    **Game Advertising Online ("GAO") Cookies and Privacy**  
+One of the ad networks and companies The GTA Network utilizes is Game Advertising Online. GAO's privacy policy can be viewed at [https://www.game-advertising-online.com/?section=doc&action=privacy](https://www.game-advertising-online.com/?section=doc&action=privacy)
+
+    **Links and External Resources**
 
 This Web site contains links to other web sites and resources. Please be aware that The GTA Network is not responsible for the privacy practices of other web sites and resources. The GTA Network encourages you, when you leave our web sites, to read the privacy policy (or privacy statement) of each and every web site you visit, as this particular privacy policy applies solely to our web sites and  
 applications.
