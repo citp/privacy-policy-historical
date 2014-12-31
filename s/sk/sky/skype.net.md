@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skype.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063921id_/http%3A//www.skype.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skype.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231073012id_/http%3A//www.skype.com/en/legal/privacy) for the most accurate reproduction.*
 
 # Skype Privacy Policy
 
@@ -202,7 +202,7 @@ Skype software browser cookies can be disabled by: accessing the File menu from 
 
 #### **4.5.2 Local Shared Objects (Flash Cookies)**
 
-You can manage the usage of flash cookies via <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>.
+You can manage the usage of flash cookies via [http://www.macromedia.com/support/documentation/](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
 
 You may also manage flash cookies through your browser depending on how recent the version of Internet Explorer (or other browser) and media player you are using. Please also visit the Adobe website at <http://kb2.adobe.com/cps/526/52697ee8.html>
 
