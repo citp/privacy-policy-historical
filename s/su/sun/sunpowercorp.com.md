@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the sunpowercorp.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502114243id_/http%3A//us.sunpower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunpowercorp.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231092419id_/http%3A//us.sunpower.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SunPower
 
-This Privacy Policy is effective as of and was last updated on April 1, 2014
-
-**1\. General.**
+* **General.**
 
 This privacy policy (this " **Privacy Policy** ") is designed to inform you about the type of information that SunPower Corporation (" **we** ," " **us** ," or " **our** ") may gather or collect from you in connection with your use of this site (this "Site"). It also explains the conditions under which we use and disclose that information, and your rights in relation to that information.
 
 The procedures for modifying or changing this Privacy Policy in the future are discussed in Section 6 of this document.
 
-**2\. Children.**
+* **Children.**
 
 This Site is not intended for children under 18 years of age. We do not knowingly collect personal information from children under 18.
 
-**3\. Gathering, Use and Disclosure of Non-Personally-Identifying Information.**
+* **Gathering, Use and Disclosure of Non-Personally-Identifying Information.**
 
 We collect both Non-Personally-Identifying Information and Personally-Identifying Information from you. " **Non–Personally–Identifying Information** " is information that, without the aid of additional information, cannot be directly associated with a specific person or entity. " **Personally–Identifying Information,** " by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person or entity.
 
@@ -46,8 +44,7 @@ From time to time, we may also release the Non–Personally–Identifying Inform
 
 
 
-
-**4\. Collection, Use and Disclosure of Personally–Identifying Information.**
+* **Collection, Use and Disclosure of Personally–Identifying Information.**
 
 As defined above, Personally-Identifying Information is information that can be directly associated with a specific person or entity. We will only collect Personally-Identifying Information that you knowingly submit to us. We will not disclose your Personally-Identifying Information to third parties unless we obtain your permission to do so at the time we collect it, except as set forth below:
 
@@ -111,12 +108,11 @@ We may email you about products and services that we believe may be of interest 
 
 
 
-
-**5\. Collection and Use of Information by Third Parties.**
+* **Collection and Use of Information by Third Parties.**
 
 Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves. We do not control the third-party sites that may be accessible through this Site. Thus, this Privacy Policy does not apply to information provided to third-party sites or gathered by the third parties that operate them. Before visiting a third-party site, whether by means of a link on this Site or otherwise, and before providing any Personally-Identifying Information to any third party, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that site, and should take those steps necessary to your discretion, to protect your privacy.
 
-**6\. Tailored Messages.**
+* **Tailored Messages.**
 
   * **Do Not Track Policy.**
 
@@ -132,18 +128,17 @@ We do not do not share with these third parties any information that would readi
 
 
 
-
-**7\. Privacy Policy Changes.**
+* **Privacy Policy Changes.**
 
 Because of changes in technology and the growth and development of our business, or for other business reasons, we may need to modify this Privacy Policy from time to time. We will alert you by email if this policy is revised (if you have given us your email address), and will post a copy of the new policy with its effective date on this Site. It is therefore important that you register with the site and notify us if you change your email address. If you do not provide us with a current email address, you should regularly review this policy to ensure that you are informed of any changes.
 
 Unless we obtain your express consent, any revised Privacy Policy will apply only to information collected after the time it takes effect, and not to information collected under any earlier Privacy Policy.
 
-**8\. Access to Information.**
+* **Access to Information.**
 
 You have a right to contact us in order to access or update any personal information that we may store about you.
 
-**9\. Contact Us.**
+* Contact Us. 
 
 If you wish to contact us, please contact us at the following addresses and include your name, address and email address in your correspondence to us:
 
@@ -154,7 +149,7 @@ San Jose, CA 95134
 Telephone: 800-786-7693  
 Email: [customercare@sunpower.com](mailto:customercare@sunpower.com)
 
-**Residential Users **  
+**Residential Users**  
 SunPower Customer Service  
 77 Rio Robles  
 San Jose, CA 95134  
