@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the sexorc.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629230738id_/http%3A//www.sexorc.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexorc.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231071917id_/http%3A//www.sexorc.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 for [www.sexorc.com](http://www.sexorc.com/)  
-Effective Date: June 29, 2014  
+Effective Date: December 31, 2014  
 Last Modified: October 4, 2013 
 
 Pursuant to our [Terms of Use](http://www.sexorc.com/info/i.php?action=terms), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
