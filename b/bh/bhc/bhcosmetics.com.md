@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bhcosmetics.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213233553id_/http%3A//www.bhcosmetics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhcosmetics.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231020101id_/http%3A//www.bhcosmetics.com/privacy-policy) for the most accurate reproduction.*
 
-# BH Cosmetics' Privacy Policy- We Protect Our Customers!
+# Privacy Policy - We Protect Our Customers! | BH Cosmetics!
 
 [www.BHCosmetics.com](http://www.bhcosmetics.com/) (the “Site”) is brought to you by BHCosmetics, Inc. (“we”). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.
 
