@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderglee.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219180618id_/http%3A//www.iminent.com/Corporate/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderglee.com privacy policy that was archived on 2015-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150101233910id_/http%3A//www.iminent.com/Corporate/Privacy) for the most accurate reproduction.*
 
 # Iminent -Free download: Smileys, Emoticons & Games for Facebook, Messengers & Emails!
 
