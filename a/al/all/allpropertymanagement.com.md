@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the allpropertymanagement.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325083124id_/http%3A//www.allpropertymanagement.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpropertymanagement.com privacy policy that was archived on 2015-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150102134929id_/http%3A//www.allpropertymanagement.com/terms) for the most accurate reproduction.*
 
 # AllPropertyManagement.com - Rental and Association Management Companies
 
-## Effective Date: 12/16/2011
+## Privacy Policy
+
+### Effective Date: 7/31/2014
 
 * * *
 
-Seamus Co., LLC d/b/a All Property Management ("All Property Management", "company", "we", "us", "our") is committed to protecting our user's ("visitor", "user", "you", "your") privacy. We want you to know what information is collected when you visit our website, how we use that information, and how you can update it. All Property Management reserves the right to append or otherwise modify this privacy statement at any time in our sole discretion, so please re-visit this page occasionally to check for updates.
+Seamus Co., LLC d/b/a All Property Management ("All Property Management", "company", "we", "us", "our") wants you ("visitor", "user", "you", "your") to know what information is collected when you visit our website, how we use that information, and how you can update it. All Property Management reserves the right to append or otherwise modify this privacy statement at any time in our sole discretion, so please re-visit this page occasionally to check for updates.
 
 ### Information We Collect
 
@@ -28,7 +30,7 @@ This information lets us see how users are finding our sites and tells us which 
 
 ### Information You Provide to Us
 
-In addition to information automatically collected from your browser, we also collect information that you provide when you join our email list, send us inquiries, or submit a request to be contacted by a company listed in our directory service. Our inquiry submission process will request personal information such as name, street address, phone number, email address, as well as certain property information that may be required to assist you in effectively transmitting your expression of interest through our service. The personal information you provide as part of the inquiry process will only be shared with the property manager(s) or other service providers, if any, you have expressed an interest in hearing from or as disclosure may otherwise be required by law or compelled by legal process.
+In addition to information automatically collected from your browser, we also collect information that you provide when you join our email list, send us inquiries, or submit a request to be contacted by a company listed in our directory service. Our inquiry submission process will request personal information such as name, street address, phone number, email address, as well as certain property information that may be required to assist you in effectively transmitting your expression of interest through our service. The personal information you provide as part of the inquiry process will be shared with the property manager(s) or other service providers, if any, you have expressed an interest in hearing from or as disclosure may otherwise be required by law or compelled by legal process.
 
 ### How We Use This Information
 
@@ -36,9 +38,9 @@ We use the information collected from you to help us better plan and manage our 
 
 ### Your Rights, Our Obligations
 
-All Property Management does not sell or rent any personal data submitted by visitors to our site to any third parties. The company respects the privacy of the users visiting our site and will abide by all applicable laws concerning the management and release of personal information. On occasion, we may use certain information that we have collected to send you information about products and services or updates and other information we think may be of interest to you. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please visit us at <http://www.allpropertymanagement.com/email/> to request your email address be removed from our list. After completing the form you will receive a confirmation that you have been removed.
+The company abides by all applicable laws concerning the management and release of personal information. On occasion, we may use certain information that we have collected to send you information about products and services or updates and other information we think may be of interest to you. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please visit us at <http://www.allpropertymanagement.com/email/> to request your email address be removed from our list. After completing the form you will receive a confirmation that you have been removed.
 
-Data you provide to us will be held in strict confidence by the company and will be used for company purposes only, except that we will share your personal information with the entities and individuals from whom you have requested information through our service. In addition, we may share elements of your information with third party vendors and hosting partners that support the necessary hardware, software, networking, storage, and related technology required to run All Property Management. And finally, we may share aggregate information about our users with advertisers, business partners or as may be required by law.
+Data you provide to us will be held in strict confidence by the company and will be used for company purposes only, except that we will share your personal information with the entities and individuals from whom you have requested information through our service. Except as described below, we will not sell or rent to other third parties any of the personal information that you provide us online. We may share your information with our affiliates and/or lenders to and/or investors in our Company for the primary purpose of responding to your specific request or to obtain their advice on how to improve our business. We may also include offerings from third parties in e-mails that we send to you. In addition, we may share elements of your information with third party vendors and hosting partners that provide support services, including services to support the necessary hardware, software, networking, storage, and related technology required to run All Property Management. We may share aggregate information about our users with advertisers and/or business partners, and we may disclose user information if we believe that disclosure is required by law, necessary to enforce our agreements or policies, or the disclosure will help us protect our Company’s rights, property, or the safety of employees. In addition, in connection with a potential merger or another transaction involving the transfer or sale of some or all of our business or assets, we may disclose and transfer your personal information to those involved in such a transfer or sale of business or assets.
 
 ### Children
 
@@ -46,7 +48,7 @@ Our service is not intended for children under 13, and we do not knowingly colle
 
 ### Our Security Measures
 
-All Property Management has industry standard security measures in place to protect against the loss, misuse, and alteration of the information under our control. We employee SSL encryption with all data you include on the inquiry forms that you submit through our service.
+All Property Management uses a variety of security measures to protect against the loss, misuse, and alteration of the information under our control. We employ SSL encryption with all data you include on the inquiry forms that you submit through our service.
 
 ### Why We Use "Cookies"
 
