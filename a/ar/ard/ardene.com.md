@@ -1,73 +1,111 @@
-> *The following text is extracted and transformed from the ardene.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701114748id_/http%3A//www.ardene.com/en/privacy-policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ardene.com privacy policy that was archived on 2015-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150103050705id_/http%3A//www.ardene.com/en/privacy-policy1) for the most accurate reproduction.*
 
 # Privacy Policy - EN | Ardene Official Online Store
 
-**What information do we collect?**
+By visiting www.ardene.com (the “Site”), using the services of Arden Holdings Inc. and/or its affiliates (collectively, “Ardene”, “us” or “we”), purchasing products on the Site, posting on our message boards or chat rooms and making other submissions to the Site, or providing us with Personal Information (as described below), you acknowledge that you accept the principles and practices outlined in this privacy policy (the “Privacy Policy”), and you consent to the collection, storage, use and disclosure of your Personal Information in accordance with this Privacy Policy. By contacting us at the coordinates provided in the **[Contact Us](http://www.ardene.com/en/customer-service/contact-us)** section below, you may change or withdraw your consent at any time, on reasonable notice, subject to legal or contractual restrictions. We will inform you of the implications of doing so.
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, or fill out a form. 
+We reserve the right to update this Privacy Policy at any time in order to accommodate changes in our products, services or processes, changes in technology, legal developments or for any other reason. Accordingly, you should note the date this Privacy Policy was last updated and review any changes since the last version you reviewed. If at any time you do not agree with this Privacy Policy, please do not provide us with Personal Information or use our Site.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address, phone number, or credit card information. You may however visit our site anonymously.
+**Children**
 
-**What do we use your information for?**
+We encourage parents and guardians to supervise their children’s use of the internet, including our Site.
 
-Any of the information we collect from you may be used in one of the following ways: 
+We do not knowingly collect any Personal Information from children under the age of 13. Children under the age of 13 should not use this Site or provide us with any Personal Information without the consent and supervision of their authorized guardian.
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
+**Personal Information**
 
- -To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Personal information is any information that refers to an individual and is recorded in any form and includes such things as age, income, date of birth, e-mail and mailing addresses, telephone numbers, financial information, credit and debit card information, as well as demographic information, preferences, settings and order history (collectively, “Personal Information”).
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+Personal Information does not include aggregate information (i.e., information that is anonymous or used in a collective manner, where no single person can be identified).
 
-\- To process transactions
+**Purposes for collection of Personal Information**
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+We use Personal Information in an effort to improve your shopping experience, to communicate with you about our products, promotions or contests, to protect you and us from error and fraud, to process your submissions, to keep track of transactions and to comply with legal and governmental requirements. We may also use Personal Information to make offers to you, to help us target specific products to you, and to help us develop and improve our Site and tailor it to your interests. Finally, we may use Personal Information to conduct surveys and analyses for research, statistical and product design and development purposes, or to achieve any other purposes as may be permitted by law from time to time.
 
-The email address you provide for order processing may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+**Collection of Personal Information**
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We collect information from you when you visit our Site, sign up for an account on our Site, create a Wishlist, join our VIP Club, make a purchase or place an order, sign up to receive our emails, respond to a survey, fill out a form, contact us, enter contests or other promotional opportunities, as well as other lawful means. We may also collect your Personal Information from third parties to whom you have provided same, such as financial institutions and social networking websites or applications.
 
-**How do we protect your information?**
+The collection of Personal Information by Ardene will be limited to what is necessary for the purposes identified in this Privacy Policy.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+**Use of Personal Information**
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+The Personal Information we collect from you may be used in any of the following ways: 
 
-After a transaction, your private information will not be stored on our servers.
+###### -      to personalize your experience on our Site: your information helps us to better respond to your individual needs;
 
-**Do we use cookies?**
+###### -      to improve our Site: we continually strive to improve our Site offerings based on the information and feedback we receive from visitors like you;
 
-Yes (cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information).
+###### -       to improve customer service: Personal Information helps us to more effectively respond to customer service requests and support needs;
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+###### -      to process transactions;
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+###### -      to administer contests, promotions, surveys or other Site features;
 
-**Do we disclose any information to outside parties?**
+###### -      to send periodic emails;
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect others or our rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+###### -      to create aggregate information; and
 
-**Online Privacy Policy Only**
+###### -      as otherwise described in this Privacy Policy.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+Except as permitted by law, Personal Information will be retained only as long as necessary for these purposes and Personal Information will not be used or disclosed for purposes other than those for which it was collected.
 
-**Your Consent**
+**Disclosure of Personal Information**
 
-By using our site, you consent to our online privacy policy. 
+We do not sell, trade, or otherwise share or transfer your Personal Information to third parties. However, aggregate information may be provided to third parties for marketing, advertising, or other purposes.
 
-**Changes to our Privacy Policy**
+We may contract with third-party service providers to assist us in operating our Site, conducting our business, better understanding our Site visitors or otherwise provide services to Site visitors, including performing such functions as fulfilling orders, delivering packages, processing credit card payments or providing customer service. These third-party service providers are not permitted to use the Personal Information except for the purposes described in this Privacy Policy.
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+When we use third-party service providers, contractual provisions and other safeguards are used to ensure compliance by such third-party service providers with this Privacy Policy and all applicable privacy laws. Contractual provisions and other safeguards are also used to ensure that, where your Personal Information is transferred, processed or stored outside Canada, it is given protection similar to the protection set forth in this Privacy Policy. You agree that persons or entities outside of Canada to which Personal Information is transferred may be required to disclose your Personal Information to governmental authorities, courts or law enforcement or regulatory agencies, pursuant to the laws of their jurisdiction.
 
-**Contacting Us**
+We may disclose Personal Information when we believe release is required to comply with the law, enforce our Site policies, or protect the rights, property, or safety of Ardene or others.
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+Ardene will remain responsible at all times for Personal Information under its control.
 
-www.ardene.com  
-2527 Boul. Pitfield  
+**Protecting Personal information**
+
+Ardene protects Personal Information by implementing a variety of security safeguards appropriate to the sensitivity of the information, including through the use of the following measures: physical security measures, such as appropriate disposal of Personal Information; electronic security measures, such as password protection and firewalls; and organizational processes such as limiting access to Personal Information to a selected group of persons on a “need to know” basis. ** **
+
+No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Information, Ardene cannot ensure or warrant the security of any information you transmit to us over the internet. Any such transmission is done at your own risk.
+
+Ardene cannot be responsible for any Personal Information that you share or post on our message boards, chat rooms or by way of other submissions to the public spaces of our Site. These are public areas and may be consulted or viewed by anyone visiting these sections of our Site.
+
+**Accuracy of Personal information**
+
+We will keep your Personal Information as accurate, complete and up-to-date as necessary for the purposes for which it is to be used. You may request access to your Personal Information in order to review and amend the information, as appropriate.  You have the right to challenge the accuracy and completeness of your Personal Information. In circumstances where your Personal Information has been provided by a third party, we will refer you to that party.
+
+To access your Personal Information, refer to the **[Contact Us](http://www.ardene.com/en/customer-service/contact-us)** section below.
+
+**Links**
+
+Our Site may contain links to websites other than our own. Those websites may have their own privacy policy, or no privacy policy at all. We are not responsible for those websites, and we provide these links solely for the convenience of visitors like you. These other websites may send their own cookies to you and may collect Personal Information and use it in a way inconsistent with this Privacy Policy. We encourage you to review the privacy policies and terms and conditions of use of any third-party websites or services before providing any of them with any of your Personal Information. Ardene does not control the content that appears on third-party websites and does not endorse or recommend such websites or their products or services. Accordingly, Ardene does not take any responsibility for their content.
+
+**Assignment**
+
+You consent to the transfer of your Personal Information to any third party that acquires all or substantially all of Ardene’s business or its online commerce operations.
+
+**Cookies**
+
+Cookies are small text files which embed themselves on your hard drive from some of the Site’s pages.  Cookies are harmless in the sense that they cannot extract any information from your hard drive, over which you have complete control. We use cookies to determine Site traffic, convey useful information about your interests, and to personalize any future visits you make to the Site.  Cookies do not systematically provide us with any Personal Information about you, and you can opt to stop receiving cookies at any time by modifying your internet browser’s configuration.
+
+**Pixels**
+
+We also use tracking pixels, which are small strings of code that are placed in a website page or in an e-mail message. When you visit a particular website, pixels notify us of your visit. Since pixels are used in combination with cookies, if you disable cookies as described above, then pixels will only detect an anonymous Site visit. When used in an e-mail, pixels enable us to know whether you have received the e-mail.
+
+**Contact Us**
+
+If you have any questions or complaints regarding this Privacy Policy you may contact us using the information below. 
+
+Email: websupport@ardene.com
+
+Telephone: 1.866.322.4442
+
+Mail:     Arden Holdings Inc. (dba Ardene)
+
+2575 Boul. Pitfield  
 Montreal, Quebec H4S 1W8  
 Canada  
-websupport@ardene.com  
-1.866.322.4442
+Attention: Privacy Officer
+
+  
+Last updated December 3, 2014.
