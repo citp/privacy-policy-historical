@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stingervideos.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017075601id_/http%3A//www.stingervideos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stingervideos.com privacy policy that was archived on 2015-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150104105435id_/http%3A//www.stingervideos.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Easy video marketing and video submissions - Stinger Videos
 
