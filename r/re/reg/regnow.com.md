@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230105109id_/http%3A//www.mycommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2015-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150104085923id_/http%3A//www.mycommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
