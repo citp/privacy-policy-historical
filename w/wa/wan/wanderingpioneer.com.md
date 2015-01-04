@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wanderingpioneer.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105085042id_/http%3A//wanderingpioneer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderingpioneer.com privacy policy that was archived on 2015-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150104135642id_/http%3A//wanderingpioneer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wandering Pioneer
 
