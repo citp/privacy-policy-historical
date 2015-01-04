@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zolahost.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001646id_/https%3A//zolahost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zolahost.com privacy policy that was archived on 2015-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150104143851id_/https%3A//zolahost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which ZolaHost collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://zolahost.com Website (“Site”). This privacy policy applies to the Site and all products and services offered by ZolaHost.com.
+This Privacy Policy governs the manner in which ZolaHost collects, uses, maintains and discloses information collected from users (each, a “User”) of the zolahost.com Website (“Site”). This privacy policy applies to the Site and all products and services offered by ZolaHost.com.
 
 **Personal identification information**
 
@@ -24,9 +24,9 @@ Our Site may use ”cookies” to enhance User experience. User web browser plac
 
 We may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
-\- To personalize user experience  
-\- To process order
+– To improve customer service  
+– To personalize user experience  
+– To process order
 
 **How we protect your information**
 
@@ -53,7 +53,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 <http://zolahost.com/contact>
 
 Z Hosting Technologies  
-264/135D, Kovai Road,  
+264, Kovai Road, Kundadam  
 Dharapuram,Tirupur,  
 Tamil Nadu-638702,  
 india.  
