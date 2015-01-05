@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stirlingfreepower.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929112013id_/http%3A//www.mysecretguides.com/stirling/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stirlingfreepower.com privacy policy that was archived on 2015-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150105030309id_/http%3A//www.mysecretguides.com/stirling/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,6 +27,6 @@ We may disclose and use personally identifiable information in special circumsta
 
 **5\. CHANGES TO THIS POLICY** : **www.mysecretguides.com**  may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy.
 
-**6\. CONTACT INFORMATION** : For questions regarding this Privacy Policy please [Contact us](https://web.archive.org/web/20140929112013id_/http%3A//www.mysecretguides.com/stirling/contact.html).
+**6\. CONTACT INFORMATION** : For questions regarding this Privacy Policy please [Contact us](https://web.archive.org/web/20150105030309id_/http%3A//www.mysecretguides.com/stirling/contact.html).
 
 |  | 
