@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbc.org privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105195356id_/http%3A//rbc.org/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbc.org privacy policy that was archived on 2015-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150105071346id_/http%3A//rbc.org/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RBC Ministries
 
