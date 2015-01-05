@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the taulia.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021233817id_/http%3A//www.taulia.com/privacy-policy%3Fcookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taulia.com privacy policy that was archived on 2015-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150105130352id_/http%3A//taulia.com/privacy-policy%3Fcookies) for the most accurate reproduction.*
 
 # Taulia - Privacy Policy
 
 Taulia Inc. ("Taulia", "we" or "us") is committed to protecting our users' privacy. We believe it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web Sites (taulia.com, supplier.taulia.com, supplierpay.com). Please read our Privacy Policy carefully to understand how we will use and protect your personal information.
 
 This Privacy Policy covers our collection, use and disclosure of information we collect through our Web Sites.
-
-## TRUSTe
-
-[](http://privacy.truste.com/privacy-seal/Taulia-Inc-/validation?rid=91bc62ac-f552-402f-a7c0-0efa7b502c45)
-
-Taulia has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@taulia.com](mailto:privacy@taulia.com). If you are not satisfied with our response, you can contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ## Safe Harbor Program
 
@@ -104,7 +98,7 @@ Our integrated third party service providers use clear gifs in our HTML-based em
 
 ### Log Files
 
-As is true of most web sites, we use third party tracking-utility partners to gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. 
+As is true of most web sites, we use third party tracking-utility partners to gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data.
 
 We use this information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
@@ -158,7 +152,7 @@ San Francisco, CA 94105 USA
 [privacy@taulia.com](mailto:privacy@taulia.com)  
 (415) 376 8280
 
-If contacting us does not resolve your concern or complaint, you may raise your complaint with TRUSTe online at [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint), by mail at WatchDog Complaints ([click here for address](http://www.truste.com/about_TRUSTe/contact_us.html)), by phone at 415-520-3400, or by fax at 415-520-3420. If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+Please contact Taulia as specified above to address any complaints regarding Taulia’s handling of Personal Information. Taulia will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor Privacy Principles. If the complaint cannot be resolved through Taulia’s internal processes, it will be referred to Judicial Arbitration and Mediation Services, Inc., (JAMS) under the JAMS International Mediation Rules, which are accessible on the JAMS website at [www.jamsadr.com/rules-international-rules](http://www.taulia.com/www.jamsadr.com/rules-international-rules). JAMS mediation may also be commenced as provided for in the JAMS International Mediation Rules.
 
 ## Privacy Policy Customer Pledge
 
@@ -172,4 +166,4 @@ We pledge to you, our customer, that we have made a dedicated effort to bring ou
 
 
 
-This policy was last modified on August 26, 2014.
+This policy was last modified on December 10, 2014.
