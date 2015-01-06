@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbusiness.wa.gov.au privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106132720id_/http%3A//www.smallbusiness.wa.gov.au/legal-information/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusiness.wa.gov.au privacy policy that was archived on 2015-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150106115934id_/http%3A//www.smallbusiness.wa.gov.au/legal-information/%23privacy) for the most accurate reproduction.*
 
 # Legal Information
 
