@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the css4me.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105204000id_/http%3A//www.css4me.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the css4me.com privacy policy that was archived on 2015-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150106050358id_/http%3A//www.css4me.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : CSS4Me
 
