@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadiandriver.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626182406id_/http%3A//www.autos.ca/privacy-policy-autos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadiandriver.com privacy policy that was archived on 2015-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150106062104id_/http%3A//www.canadiandriver.com/privacy-policy-autos) for the most accurate reproduction.*
 
 # Privacy Policy - Autos.ca
 
