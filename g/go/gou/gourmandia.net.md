@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gourmandia.net privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731112327id_/http%3A//www.gourmandia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmandia.net privacy policy that was archived on 2015-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150107150432id_/http%3A//www.gourmandia.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthy Recipes, Video Recipes, Easy Recipes, Cooking Techniques, Diet Choices
 
