@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveplenty.in privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227001606id_/http%3A//www.liveplenty.in/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveplenty.in privacy policy that was archived on 2015-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150107181241id_/http%3A//liveplenty.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
