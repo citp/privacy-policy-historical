@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personcar.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207173217id_/http%3A//www.personcar.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personcar.com privacy policy that was archived on 2015-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150107093256id_/http%3A//www.personcar.com/sample-page) for the most accurate reproduction.*
 
 # Personcar.com » Privacy Policy
 
