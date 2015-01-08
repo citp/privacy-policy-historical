@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcz.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208200718id_/http%3A//bczdn.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcz.com privacy policy that was archived on 2015-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150108180523id_/http%3A//bczdn.com/privacypolicy.html) for the most accurate reproduction.*
 
 # BCZ.com | eCommerce Software, Online Store, Free Website, Sell Online
 
