@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackfriday.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228221042id_/https%3A//blackfriday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackfriday.com privacy policy that was archived on 2015-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150108021044id_/https%3A//blackfriday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Black Friday 2014
 
