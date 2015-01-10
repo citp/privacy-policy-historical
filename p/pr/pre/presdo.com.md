@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007210402id_/http%3A//match.presdo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2015-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150110021405id_/http%3A//match.presdo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
