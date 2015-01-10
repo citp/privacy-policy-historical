@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sibcycline.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003442id_/http%3A//www.sibcycline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sibcycline.com privacy policy that was archived on 2015-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150110062321id_/http%3A//www.sibcycline.com/privacy) for the most accurate reproduction.*
 
 # Sibcy Cline Realtors® Privacy Policy
 
