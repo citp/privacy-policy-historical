@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time4tv.net privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910215707id_/http%3A//www.time4tv.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4tv.net privacy policy that was archived on 2015-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150110010528id_/http%3A//www.time4tv.net/privacy_policy) for the most accurate reproduction.*
 
 # time4tv.net - Privacy Policy
 
