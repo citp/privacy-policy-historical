@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenshots.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008100506id_/http%3A//www.domaintools.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenshots.com privacy policy that was archived on 2015-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150111132323id_/http%3A//www.domaintools.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DomainTools
 
