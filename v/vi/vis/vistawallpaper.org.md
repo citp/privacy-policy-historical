@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistawallpaper.org privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113023331id_/http%3A//www.vistawallpaper.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistawallpaper.org privacy policy that was archived on 2015-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150112215352id_/http%3A//www.vistawallpaper.org/privacy-policy) for the most accurate reproduction.*
 
 # Windows Vista WallpaperPrivacy Policy
 
