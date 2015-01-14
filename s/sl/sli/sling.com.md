@@ -1,78 +1,233 @@
-> *The following text is extracted and transformed from the sling.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070841id_/http%3A//sling.com/get/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sling.com privacy policy that was archived on 2015-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150114211556id_/https%3A//www.sling.com/privacy) for the most accurate reproduction.*
 
-# Slingbox.com - Privacy Policy
+# Sling TV - Take Back TV
 
-**Introduction:  
-**
+**Effective January 5, 2015**
 
-Sling Media, Inc. (“Sling”) respects your privacy. This Privacy Statement applies to all of our web sites and our other products and services (collectively, “Sling Products”). This Privacy Statement explains what information we collect through the Sling Products, how we use that information, and what choices you have.
+This Privacy Policy provides information and serves as notice to you of Sling TV L.L.C.'s and its affiliates (collectively referred to in this Privacy Policy as "we," "us," "our" or "Sling Television Group") policies and practices regarding the collection, use, storage, disclosure and transfer of certain information, including your personal information, in connection with our websites ("Websites") and our applications ("Apps") (such Websites and Apps together with any other "Sling Television" branded products and services are collectively referred to in this Privacy Policy as "Services"). You, other visitors to our Websites and Apps, and other end users of our Services are collectively referred to in this Privacy Policy as "you," "your" and "Users".
 
-The Sling Products may contain links to other web sites. This Privacy Statement does not apply to the practices of any company or individual that Sling does not control, or any web sites or services that you link to from the Sling Products. You should use caution and review the privacy policies of any web sites or services that you visit from ours to learn more about their information practices.
+Your access to and use of any of our Services demonstrates your agreement and acceptance of the terms and conditions contained in this Privacy Policy and your consent to the information practices described herein. Capitalized terms used in this Privacy Policy but not defined herein have the meanings given to such terms in the Terms of Use
 
-Please take a few moments to read this Privacy Statement. By accessing the Sling Products, you agree to accept the terms and conditions of this Privacy Statement and are aware that our policies may evolve in the future as indicated below. In the event of a conflict between this Privacy Statement and our Terms of Use, our Terms of Use will control.
+Use of the term "personal information" in this Privacy Policy refers to information that can be used to uniquely identify or contact you, and information coupled with such identifying information. Information that is not personal information (referred to in this Privacy Policy as non-personal information) is information that does not allow for direct association with your identity.
 
-**What information we collect:  
-**
+_Please note that this Privacy Policy includes embedded hyperlinks that may only be accessed through our websitewww.sling.com/privacy, and if you are reviewing this Privacy Policy through device applications or platforms, then you may need to visit www.sling.com/privacy in your browser in order to review any hyperlinked terms incorporated herein._
 
-In various places in connection with Sling Products, we collect “Personally Identifiable Information,” such as your name, postal address, telephone number, email address, or other information that can be used to identify you or contact you. For example, we collect this information when you sign up for our email newsletter, purchase or register a Slingbox product, register for a “Sling Account”, enter a sweepstakes or participate in promotions and give-aways. From time to time in the future we may offer additional features, services and promotional opportunities that would require you to submit Personally Identifiable Information to participate.
+BY ACCESSING AND/OR USING OUR SERVICES YOU AND SLING TELEVISION ACKNOWLEDGE YOUR UNDERSTANDING OF, AND HEREBY CONFIRM YOUR AGREEMENT TO BINDING ARBITRATION AND WAIVING THE RIGHT TO A TRIAL BY JURY AND THE RIGHT TO PARTICIPATE IN ANY CLASS ACTION IN CONNECTION WITH ANY DISPUTE WILL BE DETERMINED IN ACCORDANCE WITH THE "DISPUTE RESOLUTION, BINDING ARBITRATION AND CLASS ACTION WAIVER" PROVISIONS SET FORTH IN SECTION 11 OF THE TERMS OF USE.
 
-We also collect “Anonymous Information” such as your IP address, your ZIP code, your Media Access Control (MAC) address, your SlingFinder ID, the name you assigned to your Slingbox, the hardware and firmware version of your Slingbox, the type of browser you use, the pages on our websites that you visit, the identity of your broadcast television provider, the search terms that you enter, the advertisements that you click and the number and frequency of users of Sling Products. Anonymous Information will not be associated with Personally Identifiable Information.
+* * *
 
-Like many Internet sites, we also use “cookies” to collect information when you visit our website. A cookie is a small data file that we transfer to your computer and is stored on your hard drive. When you visit our websites the cookie identifies your computer to us so that you do not have to re-register each time you visit. We also use cookies to measure the traffic to our site and its different services and features, and other miscellaneous uses.
+####  Privacy Policy: Table of Contents
 
-We do not intend that children will use the Sling Products. We do not solicit or knowingly collect information from children under 13 years old, nor will we knowingly accept registration from them.
+* * *
 
-**How we use the information we collect:  
-**
-
-We use Personally Identifiable Information that you provide us for such purposes as responding to your requests for information, products or services, customizing the advertising and content you see, and communicating with you about our offerings. For example, if you sign up for our email newsletter, we will send the newsletter to the email address you provided. If you so choose, we will also use Personally Identifiable Information to send you information about products and services that may be of interest to you. Later on in this Privacy Statement, we provide you with more information on what choices you have.
-
-We use Anonymous Information to determine how people use the Sling Products. For example this data tells us information including how often users click on our advertisements, which files are downloaded most frequently, and which components or areas of Sling Products are the most popular. Analyzing this data allows us to improve the offerings on and performance of Sling Products.
-
-**How we share information:  
-**
-
-We sometimes use third parties to help with some aspects of the Sling Products, such as delivering content, processing payments and providing marketing assistance. When we supply Personally Identifiable Information to these third parties, we require them to use it only for the function they are helping us with.
-
-We aggregate the Anonymous Information that we collect and exchange it with advertisers and other partners who are interested in the use and performance of the Sling Products.  We share this type of data so that our partners also may provide you with an optimal user experience and better understand how users access the Sling Products.
-
-We will disclose Personally Identifiable Information as required by law, or if in our judgment it is necessary to protect Sling or our employees or users from harm, loss or liability. If we merge with or are acquired by another company or we sell substantially all of our assets, the acquiror or resulting company will receive and may continue to use the information you have provided as described in this policy. In the unlikely event we cease operation or enter bankruptcy, your information may be transferred to and used by another company that acquires our assets or offers similar or related products or services.  You acknowledge that such transfers may occur, and that any such acquiror or successor may continue to use your information as set forth in this policy.
-
-Personally Identifiable Information you can access:   
-
-
-We allow you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as Sling Products change. You may currently access the following information:   
-
-
-  * user profile, and
-  * user preferences.  
+  * Collection of Information
+  * Use of Information
+  * Disclosure of Information
+  * Children
+  * Security
+  * Third Party Websites, Platforms and Applications
+  * Your Rights
+  * Social Networking and Our Social Terms
+  * Cookies, Web Beacons, Tags, Other Technologies and Online Tracking
+  * Third Party Advertising on Our Services
+  * Changes, Arbitration & Other Information
+  * Contact Us
 
 
 
+* * *
 
-**What choices you have:  
-**
+### Collection of Information
 
-When you register for the Sling Products, you have the option of checking a box to tell us that you do not want us to send you any information about our products and services, or that you do not want to receive information from our partners and others about products and services that might interest you. We will keep track of your decision in our database. Even if you choose not to receive information from us, we reserve the right to communicate with you on matters we consider especially important.  Further, please note that if you do not want to receive legal notices from us, such as this Privacy Statement, those legal notices will still govern your use of the Sling Products, and you are responsible for reviewing such legal notices for changes.
+##### What Information is Collected About You and Your Activities, and Your Use of Our Services?
 
-You are able to add or update certain information on pages, such as those listed in the “Personally Identifiable Information you can access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
+Generally speaking, we may collect, transmit and maintain information, including personal information about you when you access our Websites or Apps, or otherwise access or use our Services. In many cases we use service providers to enable collection of information by us or on our behalf for our use and our business purposes, such as billing services, security or monitoring services, validation and authentication services, and other services that comprise, enhance, maintain, enable or otherwise support our Services. Information is gathered in a number of ways described in this Privacy Policy, such as when directly provided by you on our Websites or in our Apps to create or update your Membership Account, in connection with purchase and use of our Services, and through the use of cookies, web beacons, tags and other technologies below.
 
-You delete your account by calling Sling’s customer support line at (877) 467.5464.  Please note that some information may remain in our records after deletion of your account.
+Information we gather may change from time to time and will include both personal information and non-personal information, including the following categories and examples: 
 
-**Postings:  
-**
-
-If you use our bulletin boards, post user comments regarding content available through the Sling Products, or engage in similar activity, please remember that anything you post is publicly available. Portions of your user profile will also be available to other users of our websites.
-
-**Security:  
-**
-
-During sessions in which you give us information such as credit card numbers, we encrypt your transmissions using SSL (“Secure Sockets Layer”), and other security technology. This guards against interception of the information while it is on the Internet. We keep the Personally Identifiable Information you provide on servers that are protected by firewalls and other technological means against intrusion or unauthorized access. They are located in a physically secure facility, however, there is no such thing as “perfect security” on the Internet. We rely on you to select passwords that cannot be guessed easily and to safeguard those passwords from disclosure. Please contact us if you have any information regarding unauthorized use of the Sling Products.
-
-Changes to this Privacy Statement:   
+  * Personal information and non-personal information, including your name, email address, date of birth, service address, phone number, username, password, security question answers and responses, account preferences, and other similar or related information;
+  * Billing information including a credit or debit card number, its expiration date, security code, associated name, billing address, your account purchase and payment history, and any other information you, your credit/debit card issuer or our payment processors provide or make available to us related to billing;
+  * Information automatically collected and associated with your account when you use our Services, such as records of usage and interaction with our Services, viewing choices and habits, location, device information, operating system information, Internet Protocol ("IP") address, wireless network, persistent identifiers including your AD-ID, and the number of concurrent streams accessed by your account;
+  * Information related to your communication with us, such as complaints, questions, suggestions, and other information communicated to customer service agents or similar individuals or computer applications, regardless of whether communicated by phone, e-mail, chat, entry on any of our Websites, into any of our Apps, or by any other means available at the time;
+  * Information automatically collected and transmitted when you visit any of our Websites or Apps, such as information contained in cookies, web beacons, tags and other technologies related to your online behavioral activities (for example, pages visited, searches requested and other browser related information and activity), and any other information collected using such or similar technologies as further described below;
+  * Information obtained from third parties such as business partners and affiliates, consumer reporting agencies and other service providers (for example, video programming providers, advertising networks, advertising technology companies, and other service providers that perform advertising-related services for us and our business partners); and
+  * Records of research concerning your and other User's satisfaction and viewing habits, which may be obtained from any voluntary surveys, interviews and other questionnaires or methods.
 
 
-We may make changes to this Privacy Statement from time to time for any reason. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used (though you always have the option to delete your account as described above). If we make changes in the way we use Personally Identifiable Information, we will notify you via e-mail or by posting an announcement on our website. The latest version will be available at http://www.slingbox.com/get/privacy-policy. You will be bound by any changes to the Privacy Statement when you use Sling Products after receiving notice of such changes.
 
-Effective Date:  The Effective Date of this Privacy Statement is December 17, 2007  
+#####  Are Third Parties Collecting My Information?
 
+Our Services may be provided through Internet websites or other platforms operated by other companies. For example, you can access many of our Services from our Websites and Apps and by using certain Internet-connected devices and other similar platforms that are not operated or maintained by us. As further described below, we are not responsible for the information, security or privacy practices of such third parties or any third-party platforms. If you are using our Services on a third-party operated platform, you should check the privacy policy of the applicable third party to determine how it handles any information it collects from or about you.
+
+From time to time, we may allow you to use our Services with social networking services and connect your Membership Account with accounts that you have with third parties including with certain third-party social networks ("Third-Party Accounts"). If you choose to share information about your activities with Third-Party Accounts, then Sling Television Group may send information about you to such third parties. For more information about how Sling Television Group works with Third-Party Accounts including social networks, please review our Social Terms below.
+
+Sling Television Group places advertisements on our Services and on third-party platforms, and also places advertisements from third-party advertisers on our Services, often with the ability to click through to websites or properties run by these other third parties. Advertisers, advertising technology companies and service providers that perform advertising-related services for us and our business partners may use cookies, web beacons, tags and other technologies, to collect information from or about you in order to tailor advertisements, measure advertising effectiveness, and enable other enhancements as further described below.
+
+Sling Television Group may also permit third parties to collect certain information related to your usage of our Services, such as viewer measurement and other data related to your activities for market research, ratings, viewer measurement and other analytical and reporting purposes. Additional information about the types of information and certain methods related to our sharing are further described below. 
+
+* * *
+
+###  Use of Information
+
+#####  How We Use the Information We Collect?
+
+We use the types of information described in this Privacy Policy primarily to conduct business activities related to providing you with our Services, to develop and improve our Services and to manage and detect unauthorized use of our Services. Generally speaking, we use information that we collect in connection with business purposes related to improving and developing our Services, billing and collections, administration, surveys, marketing, communication regarding changes or updates to our Services, and about new services or products, service delivery, advertising, customization, maintenance, fraud prevention, and other legitimate business purposes that may arise from time to time. We may also use personal information, non-personal information (such as certain persistent identifiers and aggregated information) about you to deliver targeted or other customized advertising, offers and other services. We also use personal information to, among other things: 
+
+  * Operate, provide, develop, improve, update, extend, and maintain our Services;
+  * Confirm that you are receiving the level(s) or package(s) of service requested and are properly billed;
+  * Identify when changes are made to our Services or your Membership Account;
+  * Inform you of products, programming, offers, or other services offered by us or by third parties that may be of interest to you;
+  * Make programming or other content recommendations;
+  * Understand the use of, and identify improvements to, our Services;
+  * Detect and prevent unauthorized reception of or use of our Services; 
+  * Determine whether applicable policies and terms of use are being violated;
+  * Configure our Service-related devices;
+  * Comply with applicable laws;
+  * Scrub or correct our data, or append additional information to the information we collect; 
+  * Enable the development, publication, and sale of aggregated and de-identified information related to our Services and its business partners;
+  * Facilitate advertising and advertising-related services, including targeted and other customized advertising, and the sale of related advertising and advertising-related products and services; and 
+  * As otherwise deemed necessary by us to develop, improve or otherwise provide our Services and/or for any other legitimate business purposes.
+
+
+
+* * *
+
+###  Disclosure of Information
+
+#####  What Information Do We Share with Others?
+
+**Service Providers and Business Partners:** We engage with third-party business partners and employ third-party service providers to perform various functions on our behalf. Some of the services provided include: processing credit card or debit card payments; performing payment card fraud scoring and fraud prevention modeling; removing repetitive information from customer lists; anonymizing, appending and analyzing data; validating, authenticating, and monitoring streams; developing, hosting, and maintaining our Services, databases and data processing systems; creating third-party products and services, including market research, and ratings products and services; sending, storing, receiving e-mail, and other communications; and customer service operations. These service providers and business partners may have access to the information we collect about you, may be allowed by us to collect information about you, and may receive information about you authorized to be shared with them by us as reasonably necessary to enable the provision of the Services and our engagement in such business partnerships. **Other Parties In Connection With a Transfer of Assets, Equity, or other Corporate Reorganization:** If Sling Television Group or its assets are acquired by, merged with, or otherwise transferred to another company, then information we collect about you may be disclosed to the surviving or acquiring company to allow it to fulfill your order or provide the products, services, or information that Sling Television Group would otherwise provide to you and generally to carry on Sling Television Group's business operations. In addition, and for further clarity, we may use and disclose information we collect about you to parties connected with the contemplated or actual financing, insuring, sale, assignment, or other disposal of all or part of our business or assets, including, for the purposes of determining whether to proceed or continue with such transaction or business relationship and for fulfilling any records or other reporting requirements to such parties. We will require such parties to treat your personal information in accordance with this Privacy Policy and to use and disclose it only for the purposes for which it was collected, as described herein. **Social Sharing:** Sling Television Group may enable social features that offer the opportunity to share information, such as what you watch on our Services or what you "like" or otherwise recommend. This information may be shared within Sling Television Group as well as on other third-party websites and platforms and in other communications. You may elect to enable use of our social features by connecting one or more third-party accounts to your Membership Account. Your election to connect your Sling Television Group account to a third-party accounts and your use of any sharing or other social features offered by any of our Services is subject to your acceptance and agreement to our Social Terms below. Please review the Social Terms for details regarding our social features, such as the information we collect, use and disclose, and how to disconnect or otherwise exercise your choices regarding your use of these features. **Public Reviews, Recommendations, and Statements:** If you disclose your personal information in a manner that will be posted publicly, such as in a product review or on social media, your posting will be seen by others. Also, Sling Television Group may make it possible for certain third-party websites to be accessed directly from our Websites and Apps and for certain information about you to be provided to these third-party websites if you are also a user of such third-party websites. If a third-party website allows other Users to view information about you (e.g., through posting to a publicly-available profile page), the information provided by Sling Television Group will be visible to other Users of such third-party website. **Social Plug-ins:** In addition to our sharing and social features, some of our Websites and Apps may contain social plug-ins, such as those offered by social networks, to allow you to share information on those third parties' platforms. Social plug-ins are operated by the applicable social network or other third parties, and are subject to their terms of use and privacy policies, as further described below. Sling Television Group does not control how the applicable third party operates its plug-ins. You should review their terms of use and privacy policies before you use them. **Other Parties When Required By Law or When Necessary to Protect Your Rights or Ours:** There may be instances when we disclose your information without providing you with the ability to choose to opt out, in order to protect the legal rights of Sling Television Group, its investors, directors, officers, employees, agents, and suppliers; to protect the safety and security of Users of our Services or to enforce our Terms of Use; to protect against fraud or for risk management purposes; to comply with or respond to the law or legal process; or to comply with or respond to a request for cooperation by a government entity, whether or not legally required. If you notify us that you believe your legal rights have been violated by Sling Television Group or another User of our Services, we may provide the information that you provide to us to others to the extent that we believe it is necessary to evaluate and respond to your complaint. For instance, if you submit a notice of copyright infringement to us, we may send a copy to the person or entity that uploaded, stored, or transmitted the material addressed by the communication. **Other Parties with Your Consent:** In addition to the sharing described in this Privacy Policy, we may from time to time request your consent to share personal information about you with other parties; and such consent may be requested for one-time sharing or for the ability to repeatedly share in the future, and, if you have concerns with sharing, it is suggested that you carefully read the request before agreeing to such sharing.
+
+* * *
+
+###  Children
+
+#####  How Do We Handle Information from Children?
+
+As is required by our Terms of Use, you must be over the age of 18 to purchase our Services; and you must be over the age of 13 and have obtained permission from your parent or your other legal guardian to create an account or otherwise access or use our Services. Please note that Sling Television Group does not knowingly, and has no intention of, collecting personal information from individuals under the age of 13 ("children"). Nonetheless, we are committed to protecting children's privacy on the Internet. If you are a parent, other concerned adult, or legal guardian that is aware that any child has provided us with personal information, then we ask that you or any other legal guardian of the child contact us immediately by sending an email to: [privacy@sling.com](mailto:privacy@sling.com). Sling Television Group encourages parents to be involved in the media viewing and Internet usage of their children and anyone under the age of 18.
+
+* * *
+
+###  Security
+
+#####  How Do We Protect Your Information?
+
+We take reasonable commercial measures designed to protect the personal information and certain non-personal information Sling Television collects, uses, stores, shares, and transfers. We have implemented physical, technological and organizational procedures designed to protect the integrity and security, and to ensure the appropriate use of your personal information. We endeavor to ensure that our business partners, service providers and any other third party to whom we provide access to your personal information provides a level of security at least as protective as ours. These procedures are tailored to the nature, sensitivity, and format of the information accessed, collected, used, stored, shared, or transferred by Sling Television Group.
+
+We periodically summarize, anonymize, aggregate, and/or remove certain data elements from data sets that can be used to uniquely identify you, and employ other similar methods designed to inhibit direct association with your identity. As further described in this Privacy Policy below, aggregated and de-identified data may be published by Sling Television Group, its business partners, and/or its service providers for use by other third parties.
+
+* * *
+
+###  Third Party Websites, Platforms and Applications
+
+#####  What about Links to Third Party Websites?
+
+This Privacy Policy applies solely to information collected by, or on behalf of, Sling Television Group; provided, however, that this Privacy Policy and our Services, such as our Websites and Apps, contain links to other websites owned, operated or otherwise controlled, or managed by third parties and not by Sling Television Group. The third parties who operate those websites may implement policies related to their collection, use, disclosure, storage and transfer of personal information and non-personal information differently than we do. This could be the case even for those websites that advertise or offer our Services for sale or otherwise use our trademarks or logos or identify us as being a client, customer or as having any other similar relationship to such third party or third-party website or other platform.
+
+Please be aware that Sling Television Group is not responsible for the data collection, use, disclosure and storage practices (or any action or omission) of companies or organizations to which our website may provide links. Some links are provided by us in connection with our efforts to provide you with comprehensive information on our Services and the information practices described herein. We encourage our Users to be aware when they leave our Websites and Apps, and to read the privacy policies of any third party website or other platform that requests or collects personal information from you.
+
+* * *
+
+###  Your Rights
+
+#####  How Can I Access or Correct My Personal Information?
+
+We endeavor to provide you with access to, and the ability to update, add to, correct, or otherwise modify, a variety of information associated with your Membership Account, including your preferred contact information. You must be signed in to your Membership Account on our Website to access, update, add to, correct, or otherwise modify the information associated with your Membership Account. Please be aware that in most cases, we will retain the previously entered information for some period of time as necessary for our business purposes and/or to comply with legal requirements. If you have trouble accessing or correcting personal information or are experiencing issues related to our billing service provider, please contact us at: [support@sling.com](mailto:support@sling.com) or by calling us at: [1 (877) 811-4788](tel:1 \(877\) 811-4788).
+
+#####  What Are My Privacy Rights if I'm a Resident of the State of California?
+
+If you are a resident of the State of California and a User of our Services, then California Civil Code Section 1798.83, known as the "Shine the Light" law, permits you to submit a written request to opt-out from the sharing of your personal information with third parties for direct marketing purposes. To opt-out in accordance with the "Shine the Light" laws (a "Request") write to us at the following address: Sling TV L.L.C., 9601 South Meridian Boulevard, Englewood, Colorado 80112, U.S.A. Attn: Office of the General Counsel – Sling Television Privacy Matters – California Shine the Light Request to Opt-Out. In order to ensure that we have the information necessary to fulfill your Request, at minimum, the Request must include your name, your complete physical address, email address(es), and a telephone number to reach you for questions related to the Request. If you do not provide all of the aforementioned information necessary to identify the address(es) for which you are requesting to opt-out of third-party direct marketing efforts, then we may not be able to fulfill your request unless and until you provide such information. Please allow up to thirty (30) days for any Request to be processed by us. Please be aware that you may still receive direct marketing from other parties to whom you have provided personal information even if you opt-out as provided in this Privacy Policy.
+
+* * *
+
+###  Social Networking and Our Social Terms
+
+#####  Do We Enable Social Sharing?
+
+From time to time, we may offer you the choice to connect your Membership Account to Third-Party Accounts. Please review these social sharing terms ("Social Terms") carefully before deciding to connect your Membership Account to any Third-Party Account, or before using any social features available to you. If you decide that you are not comfortable with the sharing involved, then do not connect your Membership Account to any Third-Party Account(s) or use the particular social feature available.
+
+Choosing to connect to any Third-Party Account may allow you to take advantage of a variety of other social features, including, sending recommendations to your "friends" or other connected users, and sharing what you watch with them automatically. Please be aware that by choosing to connect your Membership Account to any Third-Party Account, you are agreeing to these Social Terms and are consenting to the collection, use, and sharing of information about you (which in some cases may include sharing what you watch) with us and others as explained herein. If you use "Like" or similar recommendation and sharing buttons while using certain of our Websites or Apps, then you will post what you are watching to your timeline, feed, or other applicable profile. **By agreeing to these Social Terms, you confirm that you understand and have consented to the following:**
+
+#####  Can I Connect My Membership Account to Third-Party Accounts?
+
+If we provide an option for you to sign up for our Services using your Third-Party Account, or subsequently connect your Membership Account to your Third-Party Account, then we may collect certain information from the applicable Third-Party Account provider and use, retain, and disclose such information to develop and improve our Services, to improve your experience with our Services, for any other legitimate business purposes concerning Sling Television Group, our Services, or for other reasons explained in this Privacy Policy. Shared information may include: your list of friends, their contacts, and other information; your use of Third-Party Accounts, including, your "Likes," "Interests," name, profile picture, and other personal information; and it may also include your e-mail address, physical address, age, gender, as well as other demographics and information available in your Third-Party Account. 
+
+We may combine information we collect from any connected Third-Party Account and/or any other source, with information we collect in connection with the Services, as further explained in this Privacy Policy. The information we collect may change from time to time. For example, we may use information from your Third-Party Account to personalize and improve your experience, our Services and marketing efforts, such as disclosing your name and profile picture to your friends and/or other connected Users to encourage them to connect. If you connect your Membership Account to a Third-Party Account as part of signing up for our Services, then we will also obtain certain personal and non-personal information from such Third-Party Account provider that we deem necessary and/or desirable to create your Membership Account.
+
+If you have connected a Third-Party Account to your Membership Account, you can disconnect by visiting the settings in your account through our Websites; provided, however, that you may be required to provide additional (or confirm existing) information necessary to maintain your Membership Account, if any, upon such disconnection. For clarity, you may not be able to disconnect from your Third-Party Account(s) through the settings available in our Apps. You may also be able to disconnect your Membership Account by accessing the settings and preferences in such Third-Party Account, which is controlled by the applicable Third-Party Account provider.
+
+* * *
+
+###  Cookies, Web Beacons, Tags, Other Technologies and Online Tracking
+
+#####  What About Cookies, Web Beacons, Tags, Other Technologies, and Online Tracking?
+
+We use cookies, web beacons, tags, and other technologies to make your use of our Services more convenient and to support and improve our business, marketing, and advertising activities: these technologies expand our and third parties' abilities to collect data and other information. A cookie is a piece of information that is transferred to a User's hard drive or other system memory for record-keeping purposes. For example, Sling Television Group may use cookies to remember your e-mail address so that you will not have to re-enter this information each time you visit any of our Websites. We may also use cookies to help track referrals from third-party websites. Most browsers are initially set up to accept cookies, but you can set up your browser to alert you every time a cookie is offered, letting you decide whether or not to accept it. You can access and use our Services even when you've disabled certain cookies, but you may not be automatically recognized by our Services upon re-visiting. We believe that cookies allow you to take full advantage of some of our Services' best features, so we recommend that you leave them turned on.
+
+Some of our Websites and HTML-formatted e-mails and e-newsletters use web beacons to compile statistics about our Website usage. A web beacon is a technology used in the transmission of information. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the web beacon is placed. You may be able to disable some web beacons by rejecting their associated cookies.
+
+We also collect information in log files that include data such as IP addresses, browser type, device type, Internet Service Provider, referring/exit pages, platform type, date/time stamp, and number of clicks. Sling Television Group, our business partners, and our service providers use this information to analyze trends, administer our Services, track usage and Users' movement in the aggregate, as well as to gather broad demographic information and for the other purposes described above.
+
+We may use cookies, web beacons, tags and other technologies to track, transmit, and analyze usage information and to compile statistical information about our Users in order to improve the quality and performance of our Services and for the other purposes described above. Sling Television Group reserves the right to publish non-personal information regarding our Services' Users for promotional purposes and as a representative audience. Sling Television Group does not recognize "Do Not Track" requests from Internet browsers.
+
+#####  Is Information Used for Market Research, Ratings, Viewer Measurement, and Other Related Business, Analytics, and Reporting Purposes?
+
+Sling Television Group may also permit third parties to collect certain information related to your usage of our Services, such as viewer measurement and other data related to your activities for use by us, our business partners and certain service providers in connection with market research, ratings, viewer measurement and other related business, analytical and reporting purposes. Information collected and used by these companies is described in further detail above. Our agreements with business partners and service providers that collect information limit the types and use of information shared with these companies.
+
+Some of our Services, such as the video players accessed on our Websites and through our Apps, feature and use certain third-party proprietary software that allows you to participate in market research and related programs, like Nielsen's TV Ratings. To learn more about third-party practices and technologies, please review some of the choices available [here](https://web.archive.org/privacy/opt-out).
+
+* * *
+
+###  Third Party Advertising on Our Services
+
+Sling Television Group carries advertisements from other companies, often with the ability to click through to websites or properties run by these other companies.
+
+#####  What Happens If I Click On or View an Ad in Our Services?
+
+When you click on or view an advertisement, the advertiser, advertising technology companies, and service providers that perform advertising-related services for us and our business partners may collect information from or about you. The information practices of these advertisers, advertising technology companies, and service providers that perform advertising-related services are governed by their own privacy policies and are not covered by this Privacy Policy. Please be aware that we do not warn you when you are leaving our Website or Apps, or when you have chosen to click through to another website or property while using our Services. We recommend that you familiarize yourself with the privacy policies of such websites or properties to determine how they handle any information they separately collect from you.
+
+#####  What Should I Know About Use of Cookies, Web Beacons and Other Technologies in Third-Party Advertising?
+
+Advertisers, advertising technology companies, and service providers that perform advertising-related services for us and our business partners may use cookies, web beacons, tags, and other technologies to collect information from or about you in order to tailor advertisements, measure advertising effectiveness, and enable other enhancements. This information includes your use of our Services, websites you visited, advertisements delivered and your other activities online.
+
+#####  Is Information About Me Shared with these Third Parties for Advertising Purposes?
+
+We may share the information collected from or about you with advertisers, advertising technology companies, and service providers that perform advertising-related services for us and our business partners in order to tailor advertisements, measure advertising effectiveness, and enable other enhancements, among other reasons related to such third parties' legitimate business purposes. This information includes your use of our Services, websites you visited, advertisements delivered, and other activities online. Our agreements with advertisers, advertising technology companies, and service providers that perform advertising-related services for us are designed to limit the types of information shared with these companies and how they may use it.
+
+#####  Can I Opt-Out of Third-Party Online Behavioral Advertising?
+
+Some of these advertisers, advertising technology companies, and service providers that perform advertising-related services for us and our business partners provide additional information related to their products and services, and certain choices you have related thereto, including downloadable cookies and other technologies designed to limit tracking and/or targeted advertising described below.
+
+#####  Choices
+
+#####  How Can I Limit Third Parties From Tracking My Information or Targeting Me With Advertising?
+
+In connection with certain advertisers, advertising technology products, and service providers that perform advertising-related services for us and our business partners and their related cookies, web beacons, tags, and related information collection technologies, each as described above, and policies related to their use of information, such third parties have provided additional information for you to learn more about their products, services and practices, and your choices in regard to them. Please click [here](https://web.archive.org/privacy/opt-out) for more information provided by some of our service providers and business partners. 
+
+As further described above, please be aware that Sling Television Group is not responsible for any third-party information collection technologies or the choices made available by them, including the accuracy of any information or effectiveness of any opt-outs (e.g., ad-blocking cookies) offered by such third parties or other mechanisms designed to limit tracking or targeted advertising. For clarity, you are not able to opt-out of being served advertising, or to limit the number of advertisements delivered to you in connection with our Services. Please be aware that even if you choose to opt-out of certain information tracking technologies and/or targeted advertising, you will continue to receive advertisements in the Services. We suggest that you review third-party privacy policies, and your choices with respect to those, in detail before electing any opt-in or opt-out made available to you.
+
+* * *
+
+###  Changes, Arbitration & Other Information
+
+#####  Does this Privacy Policy Change?
+
+We may change this Privacy Policy from time to time, and at any time, and such changes will be effective immediately; provided, however, that such changes will only apply to existing members 30 days following the effective date of such revised Privacy Policy unless stated otherwise therein. If Sling Television Group makes a change to this Privacy Policy, then we will make such revised Privacy Policy available for your review at www.sling.com/privacy. Sling Television Group may provide a summary and/or notice of updates to this Privacy Policy at www.sling.com/privacy and/or via email: you hereby consent to receiving emails containing any such summary and/or notices related to updates to this Privacy Policy. If you provide false, inaccurate, or otherwise erroneous or incomplete information to us, then our ability to provide you notices may be limited. It is your responsibility to ensure that the information provided by you and associated with your Membership Account is accurate, current, and complete at all times that you access or use the Services.
+
+#####  How are Disputes Handled?
+
+BY ACCESSING AND/OR USING OUR SERVICES YOU AND SLING TELEVISION ACKNOWLEDGE YOUR UNDERSTANDING OF, AND HEREBY CONFIRM YOUR AGREEMENT TO BINDING ARBITRATION AND WAIVING THE RIGHT TO A TRIAL BY JURY AND THE RIGHT TO PARTICIPATE IN ANY CLASS ACTION IN CONNECTION WITH ANY DISPUTE (INCLUDING, FOR CLARITY, ANY DISPUTE RELATED TO THIS PRIVACY POLICY) WILL BE DETERMINED IN ACCORDANCE WITH THE "DISPUTE RESOLUTION, BINDING ARBITRATION AND CLASS ACTION WAIVER" PROVISIONS SET FORTH IN SECTION 11 OF THE TERMS OF USE.
+
+#####  Where is Information Transferred?
+
+The Internet is a global environment used by Sling Television Group and others to collect and process information that necessarily involves the transmission of data on an international/worldwide basis. In connection with your use of our Services, you understand and agree to the transfer of your information outside of your country of residence, to any country worldwide where we have facilities or business partners or engage service providers. You understand that the countries to which we may transfer information may not have data protection regulations or protection mechanisms that are as comprehensive and/or sophisticated as those in your country, however, Sling Television Group's policies, practices, and standards with respect to your personal information will continue to be the same as described in this Privacy Policy.
+
+* * *
+
+###  Contact Us
+
+##### Who Do I Contact Regarding My Membership Account, Services, or this Privacy Policy?
+
+For any questions concerning your account, please contact us via email at: [support@sling.com](mailto:support@sling.com) or by calling us at: [1 (877) 811-4788](tel:1 \(877\) 811-4788). Alternatively, if you have any questions specifically regarding this Privacy Policy and the practices described herein, please contact us via email at: [privacy@sling.com](mailto:privacy@sling.com); or you may write to us at the following address: Sling TV L.L.C., 9601 South Meridian Boulevard, Englewood, Colorado 80112, U.S.A. Attn: Office of the General Counsel – Sling Television Privacy Matters.
+
+**Version 1.12.29.2014A**
