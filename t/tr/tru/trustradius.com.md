@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trustradius.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701123136id_/https%3A//www.trustradius.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustradius.com privacy policy that was archived on 2015-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150118234133id_/https%3A//www.trustradius.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrustRadius
-
-**YOU ARE USING A BETA VERSION OF OUR WEBSITE. WE WILL RETAIN ANY INFORMATION THAT WE COLLECT ABOUT YOU DURING THE BETA PERIOD. WE MAY CHANGE OUR PRIVACY POLICY BEFORE OUR FINAL LAUNCH.**
 
 TrustRadius (“TrustRadius” or “we”) values your privacy. At our website, https://secure.trustradius.com (the “Site”), we provide a social information sharing network for business professionals. In this Privacy Policy (“Policy”), we describe how we collect, use, and disclose information that we obtain from you when you visit our Site and use our products and services (“Services”).
 
@@ -51,7 +49,7 @@ How We Use Your Information
   * To better understand how users access and use our Site and Services, both on an aggregated and individualized basis, to improve our Site and Services and respond to user desires and preferences, and for other research and analytical purposes
 
 
-    We do not share your personal information with third parties for their own marketing purposes. We may share the information that we collect about you, including personally identifiable information (collectively, “information”), as follows:
+    We do not share your personal information with third parties for their own marketing purposes without your consent. We may share the information that we collect about you, including personally identifiable information (collectively, “information”), as follows:
 
   * TrustRadius Users. Registered users may control certain privacy settings on our Site. As a default, your full profile will be available to all of your LinkedIn 1st Degree Connections. You may change this setting to provide more or less visibility by logging into your account and choosing your preferred privacy setting. All visitors to our Site will be able to see the size and industry of your company and your job type and department (should you choose to provide this information).
   * Service Providers. We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf. These entities assist us with maintaining our Site and our Services, our marketing efforts, and for other purposes.
