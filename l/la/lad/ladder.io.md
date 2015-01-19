@@ -1,77 +1,52 @@
-> *The following text is extracted and transformed from the ladder.io privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911174611id_/http%3A//ladder.io/index.php/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladder.io privacy policy that was archived on 2015-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150119033616id_/http%3A//ladder.io/pages/privacy) for the most accurate reproduction.*
 
-# ladder.io - Privacy Policy
+# Ladder Digital | Privacy Policy
 
-What is this Privacy Policy for?
+## Privacy Policy
 
-This privacy policy is for this website [www.websitename.co.uk] and served by [### COMPANY NAME ###] and governs the privacy of its users who choose to use it.
+This Privacy Policy governs the manner in which the website collects, uses, maintains and discloses information collected from users (each, a 'User') of the website ('Site'). This privacy policy applies to the Site and all products and services offered by company.
 
-The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
+ **Personal identification information**
 
-The Website
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-This website and it's owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website comply's to all UK national laws and requirements for user privacy.
+ **Non-personal identification information**
 
-Use of Cookies
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for website's to obtain explicit consent from users before leaving behind or reading files such as cookies on a users computer / device.
+ **Web browser cookies**
 
-Cookies are small files saved to the users computers hard drive that track, save and store information about the users interactions and usage of the website. This allows the website, through it's server to provide the users with a tailored experience within this website.  
-Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it's external serving vendors.
+Our Site may use 'cookies' to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-This website uses tracking software to monitor it's visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ http://www.google.com/privacy.html ].  
-Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
+ **How we use collected information**
 
-Contact & Communication
+Company may collect and use Users personal information for the following purposes:
 
-Users contacting this website and/or it's owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.  
-This website and it's owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
+  *  _\- To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  *  _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  *  _\- To send periodic emails_  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-Email Newsletter
 
-This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
 
-Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
+ **How we protect your information**
 
-Email marketing campaigns published by this website or it's owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].  
-This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
+ **Sharing your personal information**
 
-External Links
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-Although this website only looks to include quality, safe and relevant external links users should always adopt a policy of caution before clicking any external web links mentioned throughout this website.
+ **Third party websites**
 
-The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and it's owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-Adverts and Sponsored Links
+ **Changes to this privacy policy**
 
-This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
+Company has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will tracks the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and it's owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+ **Your acceptance of these terms**
 
-Social Media Platforms
-
-Communication, engagement and actions taken through external social media platforms that this website and it's owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
-
-Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor it's owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
-
-This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
-
-Shortened Links in Social Media
-
-This website and it's owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url's [web addresses] (this is an example: http://bit.ly/zyVUBo).   
-Users are advised to take caution and good judgement before clicking any shortened url's published on social media platforms by this website and it's owners. Despite the best efforts to ensure only genuine url's are published many social media platforms are prone to spam and hacking and therefore this website and it's owners cannot be held liable for any damages or implications caused by visiting any shortened links.
-
-Resources & Further Information
-
-Data Protection Act 1998  
-Privacy and Electronic Communications Regulations 2003  
-Privacy and Electronic Communications Regulations 2003 - The Guide  
-Twitter Privacy Policy  
-Facebook Privacy Policy  
-Google Privacy Policy  
-Linkedin Privacy Policy  
-Mailchimp Privacy Policy  
-Free Website Privacy Policy written by Jamie King Media - Website Design in Pembrokeshire © 2013 - v.2.0 April 2013|  
-Edited & customised by: ### BUSINESS NAME AND FULL ADDRESS WITH POST CODE ###
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
