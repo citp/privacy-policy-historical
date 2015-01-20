@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyliked.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219094551id_/http%3A//www.dailyliked.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyliked.com privacy policy that was archived on 2015-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150120225929id_/http%3A//www.dailyliked.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Liked - Trending Stuff From All Around The Web
 
