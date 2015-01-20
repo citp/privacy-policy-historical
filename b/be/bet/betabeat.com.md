@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betabeat.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204351id_/http%3A//betabeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betabeat.com privacy policy that was archived on 2015-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150120172047id_/http%3A//betabeat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Betabeat
 
