@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the learnlakenona.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217013829id_/http%3A//learnlakenona.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnlakenona.com privacy policy that was archived on 2015-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150121050606id_/http%3A//learnlakenona.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Lake Nona | Lake Nona
 
-  * [Home](http://learnlakenona.com/)
-  * [Privacy Policy](http://learnlakenona.com/privacy-policy/)
+  * [Home](http://www.lakenona.com/)
+  * [Privacy Policy](http://www.lakenona.com/privacy-policy/)
 
 
 
