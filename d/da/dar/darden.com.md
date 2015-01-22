@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darden.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120931id_/http%3A//www.darden.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darden.com privacy policy that was archived on 2015-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150122180943id_/http%3A//www.darden.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Notice - Darden Restaurants
 
@@ -9,7 +9,7 @@
   
 Text Size 
 
-|  Effective Date: April 25, 2014   
+|  Effective Date: August 20, 2014   
 ---  
   
 We at Darden Corporation, along with our affiliates (collectively, "Darden"), respect your concerns about privacy. This Privacy Notice applies to personal information we collect on the Darden websites on which we have posted this Privacy Notice (collectively, the "Sites"). 
@@ -128,7 +128,7 @@ Back to Top
 If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at [privacy@darden.com](mailto:privacy@darden.com) or by phone at 407-245-5397, ext. 7. You also may write to us at:
 
 Darden Restaurants, Inc.  
-Attention: Privacy Department  
+Attention: Elizabeth Yost, Privacy Department  
 c/o Compliance and Ethics Office  
 1000 Darden Center Drive  
 Orlando, FL 32837 
