@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1by-day.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123092949id_/http%3A//1by-day.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1by-day.com privacy policy that was archived on 2015-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150124002104id_/http%3A//1by-day.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 1by Day - Privacy Policy
 
