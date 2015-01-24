@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicspoiler.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224102537id_/http%3A//www.magicspoiler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicspoiler.com privacy policy that was archived on 2015-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150124212200id_/http%3A//www.magicspoiler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MTG Visual Spoiler
 
