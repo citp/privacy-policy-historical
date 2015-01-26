@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the armgardtdesign.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121095724id_/http%3A//www.armgardtdesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armgardtdesign.com privacy policy that was archived on 2015-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150126110659id_/http%3A//www.armgardtdesign.com/privacy-policy) for the most accurate reproduction.*
 
-# Denver Branding and Graphic Design Agency | Armgardt Design
+# Denver Branding and Graphic Design Agency | Armgardt DesignArmgardt Design
 
 Our Privacy Policy was last updated and posted on October 8, 2013. It governs the privacy terms of our Website, located at http://www.armgardtdesign.com.
 
