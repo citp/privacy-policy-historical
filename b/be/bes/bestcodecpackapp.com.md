@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestcodecpackapp.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226122956id_/http%3A//www.bestcodecpackapp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcodecpackapp.com privacy policy that was archived on 2015-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150126180716id_/http%3A//www.bestcodecpackapp.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
