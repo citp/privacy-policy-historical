@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holasearch.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225092056id_/http%3A//info.holasearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holasearch.com privacy policy that was archived on 2015-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150126034029id_/http%3A//info.holasearch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
