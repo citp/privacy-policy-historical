@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sweetim.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118132128id_/http%3A//www.perion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetim.com privacy policy that was archived on 2015-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150127005753id_/http%3A//www.perion.com/privacy-policy) for the most accurate reproduction.*
 
-# Perion Privacy Policy | Perion
+# Privacy Policy | Perion
 
 **Perion Network Ltd. Privacy Policy**
 
