@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modmomsclub.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129054353id_/http%3A//www.modbee.com/site-services/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modmomsclub.com privacy policy that was archived on 2015-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150127080149id_/http%3A//www.modbee.com/site-services/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
-# Privacy Policy | Modesto Bee & ModBee.com
+# Privacy Policy | Modesto Bee & ModBee.com The Modesto Bee
 
 **Effective Date: March 2014**
 
