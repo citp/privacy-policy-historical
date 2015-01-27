@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leducationew.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127001328id_/http%3A//www.leducationew.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leducationew.com privacy policy that was archived on 2015-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150127184951id_/http%3A//www.leducationew.com/sample-page) for the most accurate reproduction.*
 
 # Education home » Privacy Policy
 
