@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingvox.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009121945id_/http%3A//www.marketingvox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingvox.com privacy policy that was archived on 2015-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150127013754id_/http%3A//www.marketingvox.com/privacy) for the most accurate reproduction.*
 
 # Privacy - MarketingVOX
 
