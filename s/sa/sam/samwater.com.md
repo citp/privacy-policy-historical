@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samwater.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228014204id_/http%3A//www.sbobet-info.com/article/AA-00273) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samwater.com privacy policy that was archived on 2015-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150128080357id_/http%3A//www.sbobet-info.com/article/AA-00273) for the most accurate reproduction.*
 
 # Privacy Policy | SBOBET Information Center
 
