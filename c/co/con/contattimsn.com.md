@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contattimsn.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021164010id_/http%3A//go.microsoft.com/fwlink/%3FLinkId%3D248688) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contattimsn.com privacy policy that was archived on 2015-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150129164937id_/http%3A//go.microsoft.com/fwlink/%3FLinkId%3D248688) for the most accurate reproduction.*
 
 # Bing and MSN Privacy Statement
 
@@ -30,7 +30,7 @@ Microsoft uses the information we collect to operate, improve and personalize th
 
 For Bing services, we use this information to provide you with relevant search results. We also use the information we collect to maintain and improve the quality, security and integrity of our services. For example we may use this information for research purposes and to improve the relevancy of Bing search results. This information is also necessary in order to detect and protect against security threats such as botnet attacks, click fraud, worms, and other threats. For Microsoft Services that are powered by Bing, we may also use this information to personalize your experience. Please see the [Microsoft Services Powered by Bing ](http://www.microsoft.com/privacystatement/EN-US/Bing/default.aspx?componentid=pspBingBarModule&view=Description)section for more information.
 
-Finally, as described in the [Display of Advertising](https://web.archive.org/web/20141021164016id_/http://www.microsoft.com/privacystatement/en-us/BingandMSN/default.aspx?ComponentId=pspBingAdvertisingModule&View=Summary) section of this document, we may use search query data for the purpose of personalizing the ads we display to you as you use our services or those of our advertising partners.
+Finally, as described in the [Display of Advertising](https://web.archive.org/web/20150129164946id_/http://www.microsoft.com/privacystatement/en-us/BingandMSN/default.aspx?ComponentId=pspBingAdvertisingModule&View=Summary) section of this document, we may use search query data for the purpose of personalizing the ads we display to you as you use our services or those of our advertising partners.
 
 Reasons We Share Your Personal InformationSharing Your Information
 
