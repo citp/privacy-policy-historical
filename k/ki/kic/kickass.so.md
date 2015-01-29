@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickass.so privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229164731id_/http%3A//kickass.so/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickass.so privacy policy that was archived on 2015-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150129131803id_/http%3A//kickass.so/privacy) for the most accurate reproduction.*
 
 # Privacy policy - KickassTorrents
 
