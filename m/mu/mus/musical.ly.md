@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musical.ly privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204013919id_/http%3A//www.musical.ly/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musical.ly privacy policy that was archived on 2015-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150131223838id_/http%3A//www.musical.ly/privacy.html) for the most accurate reproduction.*
 
 # musically
 
