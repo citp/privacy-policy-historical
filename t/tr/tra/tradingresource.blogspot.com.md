@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingresource.blogspot.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603203903id_/http%3A//tradingresourceprivacypolicy.blogspot.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingresource.blogspot.com privacy policy that was archived on 2015-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150131131808id_/http%3A//tradingresourceprivacypolicy.blogspot.com) for the most accurate reproduction.*
 
 # Trading Resource privacy policy
 
