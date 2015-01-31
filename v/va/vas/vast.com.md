@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vast.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701233130id_/http%3A//www.vast.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vast.com privacy policy that was archived on 2015-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150131141931id_/http%3A//www.vast.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Vast
 
@@ -14,7 +14,7 @@ This privacy policy addresses our data collection and use practices.  By contin
 
 Some of our site’s functionality may be operated by third party service providers, and in the course of providing this functionality, these service providers may obtain some of your personal data from you directly or transferred from us to facilitate your usage of this service.  Usually we require these providers to use and disclose your personal data only as necessary to perform their services.
 
-We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit<http://www.networkadvertising.org/optout_nonppii.asp>.
+We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
 
 **Our “Corporate Family.”** We may share your data with any parent company, subsidiaries, joint ventures, other entities under a common control or third party acquirers. We expect these other entities will honor this policy.  Also, we may allow a potential acquirer or merger partner to review our databases, although we would restrict their use and disclosure of this data during the diligence phase.
 
