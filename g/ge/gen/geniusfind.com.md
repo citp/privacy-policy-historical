@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geniusfind.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119205004id_/http%3A//www.buy.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniusfind.com privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201204838id_/http%3A//www.geniusfind.com/privacy) for the most accurate reproduction.*
 
 # Check Prices Online : Privacy
 
