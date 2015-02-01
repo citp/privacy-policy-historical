@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the officialares.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823225203id_/http%3A//www.officialares.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialares.com privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201081346id_/http%3A//www.officialares.com/privacy-policy) for the most accurate reproduction.*
 
 # Official Ares Download - Ares Free Music Downloads | OfficialAres.com
+
+  
+  
+
 
 Privacy Policy for **http://www.officialares.com**
 
@@ -21,7 +25,15 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 **GD Star Rating**  
- _loading..._
+ _a WordPress rating system_
 
  **GD Star Rating**  
- _loading..._
+ _a WordPress rating system_
+
+Privacy Policy, 8.5 out of 10 based on 2 ratings 
+
+Related Articles
+
+ [ **Del.Icio.Us this!**](http://del.icio.us/post?url=http://www.officialares.com/privacy-policy/&title=Privacy%20Policy) | [ **Digg this!**](http://digg.com/submit?phase=2&url=http://www.officialares.com/privacy-policy/) | [ **Reddit this!**](http://reddit.com/submit?url=http://www.officialares.com/privacy-policy/&title=Privacy%20Policy) | [ **Stumble this!**](http://www.stumbleupon.com/submit?url=http://www.officialares.com/privacy-policy/&title=Privacy%20Policy)
+
+[](http://feeds.feedburner.com/AresFreeMusicDownload) [Enjoyed this? Subscribe to the feed.](http://feeds.feedburner.com/AresFreeMusicDownload)
