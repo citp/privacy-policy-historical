@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717023337id_/http%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201203213id_/http%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : All Poetry
 
@@ -14,7 +14,7 @@ When you register and use the site, we collect information, including your:
 
 The above information is used to customize the content and advertising you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting. 
 
-In addition, your ip address, cookie information, and what pages you request is automatically saved to our server access logs. This is used to generate statistics about how many people are using our site, etc. 
+In addition, your ip address, cookie information, and what pages you request is automatically saved. This is used to generate statistics about how many people are using our site, etc. 
 
 ## Your email address
 
