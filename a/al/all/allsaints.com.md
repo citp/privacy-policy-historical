@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allsaints.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629182221id_/http%3A//www.allsaints.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsaints.com privacy policy that was archived on 2015-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150202001333id_/http%3A//www.allsaints.com/privacy_policy) for the most accurate reproduction.*
 
 # Customer Information | Privacy Policy | AllSaints
 
@@ -19,7 +19,7 @@ a) **Information you give us.** You may give us information about you when you u
 b) **Information we collect about you.** With regard to each of your visits to our Sites we may automatically collect the following information:
 
 * Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; 
-* Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer experience number. 
+* Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our Customer Experience Team. 
 
 c) **Information we receive from other sources.** We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
@@ -35,6 +35,7 @@ a) **Information you give to us.** We will use this information:
 * to notify you about changes to our services or if there is a problem with your delivery;
 * to ensure that content from our Sites is presented in the most effective manner for you and for your computer;
 * to investigate the validity of a transaction, in the event that we have a reasonable suspicion of fraud (we conduct routine online fraud prevention measures);
+* for customer service purposes, to contact you if you have not checked out, to follow up on abandoned shopping carts or to see if there was a problem with your use of the Sites.
 
 b) **Information we collect about you.** We will use this information:
 
@@ -43,15 +44,15 @@ b) **Information we collect about you.** We will use this information:
 * to allow you to participate in any interactive features of our Services, when you choose to do so;
 * as part of our efforts to keep our Sites safe and secure;
 * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
-* to make suggestions and recommendations to you and other users of our Sites about goods or services that may interest you or them.
+* to make suggestions and recommendations to you and other users of our Sites about goods or services that may interest you or them, or to contact you if you have not checked out or to follow up on abandoned shopping carts or to see if there was a problem with your use of the Sites.
 
-c) **Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).
+c) **Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
 ###  COOKIES AND OTHER WEB TECHNOLOGIES AND FURTHER INFORMATION COLLECTED 
 
-Our Services use cookies "beacons" and other web technologies (collectively, "Web Technologies"). When you visit or interact with our Services we may use Web Technologies to collect information about your usage and device including, without limitation, location based data, device identifier numbers, browsing history, domain name, Internet Protocol (IP) address, browser type, date and time of each visit, the pages you visit, and other information. We may use this information to improve and personalize your experience while using our Services, or while visiting our stores, based on areas we believe may be of interest to you. For example, when you are using our App, we may use location information and unique device identifiers so that we may offer you tailored information about our products while you are physically present in our stores. Information collected from you, including via Web Technologies, may also be used to facilitate, support and improve the technical performance and functioning of the Services.
+Our Services use cookies, "beacons" and other web technologies (collectively, "Web Technologies"). When you visit or interact with our Services we may use Web Technologies to collect information about your usage and device including, without limitation, location based data, device identifier numbers, browsing history, domain name, Internet Protocol (IP) address, browser type, date and time of each visit, the pages you visit, and other information. We may use this information to improve and personalise your experience while using our Services, or while visiting our stores, based on areas we believe may be of interest to you. For example, when you are using our App, we may use location information and unique device identifiers so that we may offer you tailored information about our products while you are physically present in our stores. Information collected from you, including via Web Technologies, may also be used to facilitate, support and improve the technical performance and functioning of the Services.
 
-If you use our Services, you are consenting to the use of Web Technologies (including cookies) in accordance with our Cookie Policy. For more information about the types of cookies our Services use, please [_click here_](http://www.allsaints.com/cookie-policy) for our Cookie Policy. For more information about cookies generally, for example, how to control and delete cookies, please visit www.allaboutcookies.org. 
+If you use our Services, you are consenting to the use of Web Technologies (including cookies) in accordance with our Cookie Policy. For more information about the types of cookies our Services use, please [_click here_](http://www.allsaints.com/cookie-policy) for our Cookie Policy. For more information about cookies generally, for example, how to control and delete cookies, please visit [_www.allaboutcookies.org._](http://www.allaboutcookies.com/)
 
 In addition, we may offer you additional choices with respect to the use of these Web Technologies. Some of our Web Technologies will only be employed on your device on an opt-in basis, i.e. where you actively choose to receive them. For example, when using the App in a store where the service has been rolled out, you will be prompted to confirm whether you agree to your location data being used so we can make you aware of any special in-store items or promotions. You can withdraw consent at any time by turning off the location services sharing settings for the App on your Device, or by deleting the App.
 
@@ -63,6 +64,8 @@ Our policy is to not share the information described above with third parties ou
 * (a) we pass your delivery address and telephone number to our partner courier companies in case they need to contact you directly if there is a problem with your delivery;
 * (b) we pass certain personal information to third party payment management companies to enable them to verify your credit or debit card details;
 * (c) we may pass your details to service providers who help us deliver the App; 
+* (d) we pass certain purchasing information and use of discounts to business partners who facilitate such discount schemes, provided you have previously registered with them.
+* (e) we pass your personal information to business partners who provide us with and assist us in operating customer service management software, designed to improve and manage our interaction with customers and your customer service experience. 
 * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.
 * Analytics and search engine providers that assist us in the improvement and optimisation of our Sites and Services.
 * Service providers whom we may employ to assist us in carrying out and then analysing the results of customer surveys or questionnaires.
@@ -72,7 +75,7 @@ We may disclose your personal information to third parties:
 
 * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 * If we plan to merge with or be acquired by that third party or in connection with a partial or total sale of assets, bankruptcy, or another corporate change.
-* If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, subpoena or court order or in order to enforce or apply our [_Terms and Conditions of Website Use_](http://www.allsaints.com/terms_and_conditions#use) or our [_Terms and Conditions of Supply_](http://www.allsaints.com/terms_and_conditions) and other agreements; 
+* If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, subpoena or court order or in order to enforce or apply our [_Terms and Conditions of Website Use_](http://www.allsaints.com/terms_and_conditions#use) or our [_Terms and Conditions of Supply_](http://www.allsaints.com/terms_and_conditions) and other agreements. 
 * If we believe in good faith that the disclosure of information is necessary to: prevent imminent physical harm or financial loss to us; prevent or report suspected illegal activity; protect anyone's rights, property, or safety. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 * If you otherwise consent or direct us to share your information with third parties.
 
@@ -90,7 +93,7 @@ The data that we collect from you may be transferred to, and stored at, a destin
 
 ###  INFORMATION SECURITY 
 
-We use commercially reasonable methods to prevent the unauthorized use, access, or disclosure of your personal information. For example, all information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology and card data you save within your account for future purchases is stored securely within level 1 PCI compliant data centres. 
+We use commercially reasonable methods to prevent the unauthorised use, access, or disclosure of your personal information. For example, all information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology and card data you save within your account for future purchases is stored securely within level 1 PCI compliant data centres. 
 
 While we strive to protect your personal information, no system can ever be 100% secure and we cannot guarantee the absolute security of your personal information; any transmission is at your own risk. You can help protect your online personal data by following these safety tips:
 
@@ -99,7 +102,7 @@ While we strive to protect your personal information, no system can ever be 100%
 * When creating a password, a combination of letters and numbers is best. Do not use dictionary words, your name, email address, or other personal information that can be easily obtained. It is also recommended that you frequently change your password.
 * Avoid using the same password for multiple online accounts.
 * You should use your own virus protection software and keep it up to date.
-* If there has been (or you suspect) an unauthorized use of your password or account, please notify us immediately.
+* If there has been (or you suspect) an unauthorised use of your password or account, please notify us immediately.
 
 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Sites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
@@ -122,7 +125,7 @@ For the attention of the Data Protection Manager. We reserve the right to charge
 
 ###  CHANGES TO OUR PRIVACY POLICY 
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy. 
+Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our Privacy Policy. 
 
 ###  CALIFORNIA PRIVACY RIGHTS 
 
