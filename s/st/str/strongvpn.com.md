@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongvpn.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528211954id_/http%3A//privacy-policy.truste.com/verified-policy/www.strongvpn.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongvpn.com privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201182202id_/http%3A//privacy-policy.truste.com/verified-policy/www.strongvpn.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.strongvpn.com
 
