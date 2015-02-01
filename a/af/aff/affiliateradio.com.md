@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliateradio.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204021446id_/http%3A//www.affiliateradio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateradio.com privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201043256id_/http%3A//www.affiliateradio.com/privacy.html) for the most accurate reproduction.*
 
 # This Privacy Policy governs this website known as Meditation Classes and You, The User.
 
