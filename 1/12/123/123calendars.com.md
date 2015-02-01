@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123calendars.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209201205id_/http%3A//www.123calendars.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123calendars.com privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201184603id_/http%3A//www.123calendars.com/privacy.htm) for the most accurate reproduction.*
 
 # 123Posters.com Privacy Policy
 
