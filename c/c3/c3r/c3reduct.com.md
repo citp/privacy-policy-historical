@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the c3reduct.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002202042id_/http%3A//www.c3reduct.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c3reduct.com privacy policy that was archived on 2015-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150202174653id_/http%3A//c3reduct.com/privacy) for the most accurate reproduction.*
 
-# About C3 Reduct - C3 Reduct
+# Privacy Policy - C3 Reduct
+
+You are here: [Home](https://web.archive.org/)  >  Privacy Policy
 
 We, Sabinsa Corporation, consider your privacy as very important to us. Our Privacy Policy has stipulated guidelines to ensure your privacy is protected. The following guidelines ensure that the information we collect about you are not misused.
 
@@ -28,6 +30,3 @@ If you have any questions about this privacy statement, the practices of this si
 ## Sabinsa Corporation
 
 [info@sabinsa.com](mailto:info@sabinsa.com)
-
-  
-
