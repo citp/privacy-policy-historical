@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allcaribbeanjobs.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816193736id_/http%3A//www.allcaribbeanjobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcaribbeanjobs.com privacy policy that was archived on 2015-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150202014708id_/http%3A//www.allcaribbeanjobs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - All Caribbean Jobs, Seasonal and Permanent Jobs in the Caribbean
 
