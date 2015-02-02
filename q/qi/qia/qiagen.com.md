@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qiagen.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203142259id_/http%3A//www.qiagen.com/trademarks-and-disclaimers/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qiagen.com privacy policy that was archived on 2015-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150202163659id_/https%3A//www.qiagen.com/trademarks-and-disclaimers/privacy-policy) for the most accurate reproduction.*
 
 # QIAGEN - Privacy Policy
 
