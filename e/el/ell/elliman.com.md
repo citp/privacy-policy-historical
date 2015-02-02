@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elliman.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701160814id_/http%3A//www.elliman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliman.com privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203005820id_/http%3A//www.elliman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Douglas Elliman
 
