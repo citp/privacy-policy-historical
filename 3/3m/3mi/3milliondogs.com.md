@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3milliondogs.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803043154id_/http%3A//3milliondogs.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3milliondogs.com privacy policy that was archived on 2015-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150202045652id_/http%3A//3milliondogs.com/privacy-terms) for the most accurate reproduction.*
 
 # Three Million Dogs
 
