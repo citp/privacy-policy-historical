@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetesreversed.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716191129id_/http%3A//bartonpublishing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesreversed.com privacy policy that was archived on 2015-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150202162512id_/http%3A//bartonpublishing.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Barton Publishing Natural Home Remedies
 
@@ -27,9 +27,13 @@ Personally Identifiable Information about Authorized Customers may be shared wit
 
 Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or any other third party company by responding as instructed.
 
+If you are a California resident you have the right to request information regarding the manner in which we share certain categories of your personal information with third parties. You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you. Please contact support@bartonpublishing.com for this request. 
+
 ## Are Cookies Used on the Sites?
 
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers.
+
+We do not acknowledge do-not-track cookies or technology 
 
 ## What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Sites?
 
@@ -51,6 +55,10 @@ We provide Visitors and Authorized Customers with a mechanism to delete/deactiva
 ## Opt-out or Termination of Communication?
 
 If users opt out of email communication(s) from Barton Publishing, Inc. and/or its subsidiary sites, we will not contact such users again, nor will their personal information ever be used in any manner, and will never be rented, sold, or shared with any third party. To opt out of further email communications please follow the unsubscribe link provided at the bottom of any email received from Barton Publishing, Inc. Barton Publishing, Inc. and its subsidiary sites are committed to permission-based email communication practices, and comply with all CAN-SPAM policies, practices and rules.
+
+## Information Security
+
+We have industry standard security measures in place to protect against the loss, misuse or alternation of personal information under our control. Although we take technological precautions to protect your information, no data transmitted over the Internet can be guaranteed to be 100% secure. We cannot and do not warrant that your information will be absolutely secure. Any transmission of data at or though the website is at your own risk. 
 
 ## What happens if the Privacy Policy Changes?
 
