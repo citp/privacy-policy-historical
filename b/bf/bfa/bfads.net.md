@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bfads.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629225737id_/http%3A//bfads.net/Legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfads.net privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203055222id_/http%3A//bfads.net/Legal) for the most accurate reproduction.*
 
 # Black Friday Ads - Legal Information and Privacy Policy
 
@@ -35,10 +35,26 @@ This site does not intentionally send unsolicited e-mail messages that could leg
 
 **COPPA**
 
-This site complies with the Children's Online Privacy Protection Act of 1998. This site is not specifically directed to children under 18. If this site has been informed or unintentionally collected or received information from a child under 18, we will immediately delete such information from our databases. This site shall not knowingly distribute any personally identifiable information erroneously collected from children under 18. 
+This site complies with the Children's Online Privacy Protection Act of 1998. This site is not specifically directed to children under 13. If this site has been informed or unintentionally collected or received information from a child under 13, we will immediately delete such information from our databases. This site shall not knowingly distribute any personally identifiable information erroneously collected from children under 13. 
+
+## Who sees your personal information
+
+We will share your personal information with third parties only in the ways that are described in this privacy notice. We do not sell your personal information to third parties. 
+
+Only a very limited number of our employees ever have access to your personal information. We may use third-party contractors or vendors to help us provide some of our services. If we need to disclose personal information for them to provide the services, it is with the requirement that the information will be kept confidential and used only to provide those services. In addition, our affiliates, subsidiaries, service providers, and other entities may collect personal information about your browsing habits over time and across different Web sites when you use our website. 
+
+We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on us or to protect us and our members from losses. 
+
+While browsers allow you to disable the usage of cookies, we do not change our practices in response to a “Do Not Track” signal in the http header from your browser or mobile application. 
+
+If we (or one of our affiliated companies) are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or a prominent notice this website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
 ## Policy Changes
 
 With or without prior notification, we may find it necessary or be legally obligated to update this Privacy Policy from time to time. All changes will be posted at this site. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by us prior to the effective date of the policy change.
+
+If you would like to update or change information you have provided us, please visit the “My Profile” link above, or contact us at the email address below. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20inquiry%20regarding%20BFAds.net)
+
+Policy Updated: September 5, 2014 
 
 [](https://privacy.truste.com/privacy-seal/Ebates-com-Inc-/validation?rid=61b0d8f1-b47a-447b-9909-7caeac20726a "TRUSTe online privacy certification")
