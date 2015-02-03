@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awem.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715081258id_/http%3A//www.awem.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awem.com privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203065210id_/http%3A//awem.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Awem Games
 
