@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adperio.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814232933id_/http%3A//adperio.com/content/legal/Adperio%2520Privacy%2520Statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adperio.com privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203050509id_/http%3A//adperio.com/content/legal/Adperio%2520Privacy%2520Statement.pdf) for the most accurate reproduction.*
 
 # Adperio Privacy Statement
 
