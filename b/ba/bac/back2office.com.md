@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the back2office.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729192959id_/http%3A//www.back2office.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the back2office.com privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203101856id_/http%3A//www.back2office.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
@@ -18,8 +18,8 @@ We are committed to conducting our business in accordance with these principles 
 
 ### Contact Us
 
-Need assistance? Have a question that isn't answered in our [help](http://www.back2office.com/index.php?a=28&b=141) sections? You can contact support by visiting our [contact us](http://www.back2office.com/index.php?a=28&b=136) page.
+Need assistance? Have a question that isn't answered in our [help](http://back2office.com/index.php?a=28&b=141) sections? You can contact support by visiting our [contact us](http://back2office.com/index.php?a=28&b=136) page.
 
-#### Copyright © 2014 BACK2OFFICE. All Rights Reserved.
+#### Copyright © 2015 BACK2OFFICE. All Rights Reserved.
 
-Use of this Web site constitutes acceptance of the [User Agreement](http://www.back2office.com/index.php?a=28&b=140) and [Privacy Policy](http://www.back2office.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
+Use of this Web site constitutes acceptance of the [User Agreement](http://back2office.com/index.php?a=28&b=140) and [Privacy Policy](http://back2office.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
