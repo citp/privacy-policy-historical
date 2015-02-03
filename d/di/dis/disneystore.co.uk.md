@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneystore.co.uk privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805091423id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneystore.co.uk privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203222957id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue%26) for the most accurate reproduction.*
 
 # Disney Account
 
