@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolpdfreader.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229053747id_/http%3A//www.coolpdfreader.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolpdfreader.com privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203030530id_/http%3A//www.coolpdfreader.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
