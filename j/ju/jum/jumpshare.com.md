@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpshare.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917174728id_/https%3A//jumpshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpshare.com privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203225103id_/https%3A//jumpshare.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Jumpshare
 
