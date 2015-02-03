@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the highmark.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208000910id_/https%3A//www.highmark.com/hmk2/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highmark.com privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203201356id_/https%3A//www.highmark.com/hmk2/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy
 
 Highmark's Online Privacy Policy
 
 [View Notice of Privacy Practices](https://web.archive.org/hmk2/pdf/noticeofprivacy.pdf)  
-[View Policy Protecting Competitively Sensitive Information](https://web.archive.org/hmk2/pdf/Highmark_Inc_CSI_Policy.pdf)
+[View Policy Protecting Competitively Sensitive Information](https://web.archive.org/hmk2/pdf/Highmark_Inc_CSI_Policy.pdf)  
+[Tapestry HIESM Opt Out Form](https://web.archive.org/hmk2/pdf/tapestryHIEform.pdf)
 
 At Highmark Inc. we take the issue of privacy very seriously. We want to assure Users of our websites (meaning any individual, including site visitors as well as those individuals who provide personal information via this website, herein referred to as "User(s)") that their information is secure and maintained in confidence, consistent with applicable state and federal laws. Please read through the following pages, which describe our online privacy policy.
 
-## I. Information Collected Online
+### I. Information Collected Online
 
 **A. General**  
 How you use the Highmark website will determine whether or not we need to collect information from you and how much information we collect. For many features, we do not require any information on who you are or ask questions about you. For some of our features, we need to either verify your identity through a login process, or collect sufficient information from you to provide the service of that feature.
@@ -28,7 +29,7 @@ Cookies can contain a variety of information, including the name of the website 
 
 Highmark's website, and certain sites it provides links to, use cookies to facilitate easier navigation within the sites and to provide a higher level of convenience for Users, and for internal reporting and statistical purposes. The use of cookies by the linked site is subject to the company's own privacy policies and in some circumstances is subject to contractual obligations between Highmark and the company.
 
-## II. Use of Information Collected Online
+### II. Use of Information Collected Online
 
 Highmark does not sell your non-public personal information to anyone.
 
@@ -40,7 +41,7 @@ If you receive e-mail updates, news, announcements and/or special notices from H
 
 Information may also be "cleansed" by Highmark (stripped of any information which could identify you personally, such as your name or e-mail address), aggregated with other data, and used for general research, classification purposes, marketing, or other purposes without permission, but only in non-individually identifiable forms.
 
-## III. Access to Information Collected Online
+### III. Access to Information Collected Online
 
 **A. Employees**  
 Certain Highmark employees may be provided with information regarding Users in order to respond to the individual's needs and provide requested information regarding specific products or services. Certain employees will also be provided with information regarding Users in order to administer their or their group's benefit programs and to monitor the effectiveness of the online services. Highmark employees are required, by written confidentiality statements, corporate policies, and state or federal laws or regulations to maintain the confidentiality of personal information and to use strict standards of care in handling the information. Employees who do not conform to these confidentiality requirements are subject to disciplinary sanctions that may include dismissal.
@@ -56,7 +57,7 @@ Other than as set forth above, Highmark does not transmit any personal informati
 **D. Online communication services**  
 Highmark has access to messages sent by or to members who choose to use any online communications services (e.g. Blues On Call). Highmark will not release the content of specific messages to any third party without the member's consent, unless permissible or required under applicable state or federal law.
 
-## IV. Compliance Assurance
+### IV. Compliance Assurance
 
 **A. Security**  
 Highmark uses commercially reasonable computer security technology selected and implemented to provide adherence to the security and privacy policies described in this online posting. Although we make reasonable efforts to protect your information from unauthorized use or alteration, you should be aware there is always some risk in sending information over the Internet.
@@ -70,7 +71,7 @@ Highmark maintains an internal privacy compliance program to ensure compliance w
 **D. Questions and concerns**  
 If you have questions about this online privacy policy, or concerns regarding your personal information, please send us your question by clicking Contact Us from the bottom of any of our Web pages.
 
-## V. Changes to Online Privacy Policy
+### V. Changes to Online Privacy Policy
 
 Highmark reserves the right to change, modify or update this online privacy policy at any time without notice. Highmark will post changes, modifications and updates to this location. Please review this online privacy policy on a periodic basis.
 
