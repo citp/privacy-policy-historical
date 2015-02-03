@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinatownmart.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715105359id_/http%3A//chinatownmart.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatownmart.com privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203112238id_/http%3A//chinatownmart.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Thubten Lekshey Ling - Online Privacy Policy
 
