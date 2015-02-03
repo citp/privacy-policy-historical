@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the jumpshare.com privacy policy that was archived on 2014-09-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140917174728id_/https%3A//jumpshare.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jumpshare.com privacy policy that was archived on 2015-02-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150203225103id_/https%3A//jumpshare.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="windows 7 chrome js flexbox flexboxlegacy canvas canvastext hashchange draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio applicationcache" style="" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36" data-platform="Linux x86_64"><head>
+<!DOCTYPE html><html class="unknown platform mozilla js flexbox flexboxlegacy canvas canvastext hashchange draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio applicationcache" style="" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36" data-platform="Linux x86_64"><head>
     <meta name="google-site-verification" content="K6QBzjeajrYEZSpyv8nbyb-FCOhI-zEDE4vRsYrRLn4">
     	<title>Privacy - Jumpshare</title>
 
@@ -29,7 +29,7 @@
   font-weight: 600;
   font-style: "normal";
 }
-</style><link href="https://df93jn2oarhia.cloudfront.net/res/cssm/jumpshare_1410852117.css" rel="stylesheet" type="text/css" media="screen, projection">
+</style><link href="https://df93jn2oarhia.cloudfront.net/res/cssm/jumpshare_1422450567.css" rel="stylesheet" type="text/css" media="screen, projection">
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="/res/css/modernizr.js"></script>
 
 	<script type="text/javascript">
@@ -52,8 +52,9 @@
 	</script>
     	    		
 
-		<script type="text/javascript" src="/res/jsm/js0_1410869426.js?state=/"></script>
-		<script type="text/javascript">
+
+		<script type="text/javascript" src="/res/jsm/js0_1422620114.js?state=/"></script>
+				<script type="text/javascript">
 			Jmp.Helpers.update_iur("false");
 		</script>
 
@@ -66,6 +67,8 @@
 		token_name:  "jsactnk",
 		token_value: $.cookie("_jsactnk")
 	};
+	
+
 </script>		  </head>
 <body id="uploads-page" class="">
 
@@ -92,6 +95,7 @@
 					<button type="button" id="viewer_share" class="btn btn-default pull-left">Share</button>
 					<button type="button" id="viewer_import" class="btn btn-default pull-left hide">Save</button>
 					<button type="button" id="viewer_download" class="btn btn-blue pull-left">Download</button>
+					<a id="viewer_visit_original" href="" data-link="" target="_blank" rel="nofollow"><button type="button" class="btn btn-blue pull-left">Visit Link</button></a>
 				</span>
 				<button type="button" id="viewer_close" class="btn btn-link pull-left"><span class="icn-viewer-close"></span></button>
 			</div>
@@ -128,7 +132,7 @@
 						</div>
 						<div id="video_wrapper" class="video-player-wrapper ab-center">
 							<div class="video-player">
-								<video id="video_player" width="716" height="400" poster="" controls="controls" class="mejs-light">
+								<video id="video_player" width="714" height="400" poster="" controls="controls" class="mejs-light">
 									<!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 -->
 									<source type="video/mp4" src="">
 									<!-- Flash fallback for non-HTML5 browsers without JavaScript -->
@@ -136,7 +140,7 @@
 										<param name="movie" value="/res/swf/flashmediaelement.swf">
 										<param name="flashvars" value="controls=true">
 										<!-- Image as a last resort -->
-										<img src="" width="716" height="400" title="No video playback capabilities">
+										<img src="" width="714" height="400" title="No video playback capabilities">
 									</object>
 								</video>
 							</div>
@@ -210,7 +214,8 @@
 				<div id="download_file_icon" class="main-icon-wrapper icn-thumb-file"></div>
 				<div id="download_file_name" class="file-name"></div>
 				<div id="download_file_meta" class="file-meta"></div>
-				<a id="download_file_link" class="btn btn-blue" href="#"> Download </a>
+				<div id="download_file_link" class="btn btn-blue hide"> Download </div>
+				<a id="download_visit_original" class="hide" href="" data-link="" target="_blank" rel="nofollow"><div class="btn btn-blue"> Visit Link </div></a>
 			</div>
 
 			<div class="upload-outer">
@@ -245,6 +250,13 @@
         <h2>File Not Found</h2>
         <p>The file you are looking for does not exist. It may have been removed.<br>To learn more, please visit our <a href="/help">Help Center</a>.</p>
       </div>
+
+      <div class="embed-outer">
+				<div class="embed-wrapper">
+					<iframe id="embed_iframe_odd" src="" frameborder="0"></iframe>
+					<iframe id="embed_iframe_even" src="" frameborder="0"></iframe>
+				</div>
+			</div>
 
 		</div>
 
@@ -284,14 +296,16 @@
 		        				<aside>
 					<ul id="navbar-example2" class="nav nav-pills nav-stacked nav-static-pages">
 						<div class="heading">Quick Links</div>
-			      <li><a href="/about">About Us</a></li>
 			      <li><a href="/file-formats">Supported Formats</a></li>
+			      <li><a href="/content-providers">Content Providers</a></li>
 			      <li><a href="/help">Help Center</a></li>
 			      <li><a href="/terms">Terms of Service</a></li>
 			      <li class="active"><a href="/privacy">Privacy Policy</a></li>
 			      <li><a href="/contact">Contact Us</a></li>
 			      <li class="divider"></li>
 			      <li><a href="/">Home</a></li>
+			      <li><a href="/tour">Tour</a></li>
+			      <li><a href="/plus">Jumpshare Plus</a></li>
 			      <li><a href="http://blog.jumpshare.com" target="_blank">Blog</a></li>
 			    </ul>
 				</aside>
@@ -385,7 +399,8 @@
 <div id="fb-root"></div>
 <script>
   
-  
+    var is_loggedin_user = "false";
+
   (function(d, debug){
      var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
      if (d.getElementById(id)) {return;}
