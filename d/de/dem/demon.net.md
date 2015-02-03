@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demon.net privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605131329id_/http%3A//sme.vodafone.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demon.net privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203144657id_/http%3A//sme.vodafone.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Vodafone
 
@@ -94,7 +94,7 @@ London
 
 EC1Y 8LZ
 
-If you are a subscriber to any of Vodafone Limited’s Demon-branded internet services and wish to change any of your personal details then please email customerservice@demon.net or call 0845 272 2666.
+If you are a subscriber to any of Vodafone Limited’s Demon-branded internet services and wish to change any of your personal details then please email customerservice@demon.net or call 0345 272 2666.
 
 ### 16\. Who can I contact about this privacy policy?
 
