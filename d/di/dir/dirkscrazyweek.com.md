@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirkscrazyweek.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829153304id_/http%3A//www.dirkscrazyweek.com/legal/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirkscrazyweek.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204031341id_/http%3A//www.dirkscrazyweek.com/legal/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
