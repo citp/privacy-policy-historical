@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddlstart.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908155405id_/http%3A//www.ddlstart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddlstart.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204171633id_/http%3A//www.ddlstart.com/privacy) for the most accurate reproduction.*
 
 # ZugoSearch Start - Privacy Policy
 
