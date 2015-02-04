@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpainstruments.com privacy policy that was archived on 2012-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120111063423id_/http%3A//cpainstruments.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpainstruments.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204160937id_/http%3A//cpainstruments.com/privacy.html) for the most accurate reproduction.*
 
-# CPA Instruments: Privacy Policy
+# CPA Instruments: Website Terms
 
 We believe it is important that you know how we treat information about you which we receive via the Internet. Our commitment to personal privacy is paramount.
 
@@ -24,4 +24,4 @@ By using our Web site, you consent to the collection and use of this information
 We are committed to protecting your privacy. We use the information we collect on the site so that the promised bonuses/information/products reach you safely and to enhance your overall experience. We do not sell, trade or rent your personal information to others.
 
 CPAInstruments.com reserves the right to change this policy at any time by providing notice of such modification on this site.  
-Copyright © 2010 All Rights Reserved. MarkAce Marketing Pvt. Ltd. 
+Copyright © 2012 All Rights Reserved. MarkAce Marketing Pvt. Ltd. 
