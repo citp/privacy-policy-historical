@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksellers.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718091727id_/http%3A//www.booksellers.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksellers.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204133736id_/http%3A//booksellers.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
