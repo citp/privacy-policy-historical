@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ayurtimes.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114172355id_/http%3A//www.ayurtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayurtimes.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204211141id_/https%3A//www.ayurtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ayur Times
 
-The Privacy Policy is lastly updated on October 5, 2014
+The Privacy Policy is lastly updated on January 9, 2015
 
-[Ayur Times](http://www.ayurtimes.com/ "Ayur Times") & [Health Diet Medicine](http://healthdietmedicine.com/ "Health Diet Medicine") websites are operated under the supervision of medical board and senior editors comprising Dr. Jagdev Singh and Dr. Anu Saini.
+[Ayur Times](http://www.ayurtimes.com/ "Ayur Times") website is operated under the supervision of medical board and senior editors comprising Dr. Jagdev Singh and Dr. Anu Saini.
 
 We provide the privacy policy to help you understanding the nature and kinds of the information gathered by the website or third party when you visit the website. We also explain in this policy how we may use or disclose the information, how you can correct, control or update the information.
 
-**Personal Information**
+ **Personal Information**
 
 The phrase “Personal Information” is used for the information about your full name, email ID, address, phone number etc.
 
