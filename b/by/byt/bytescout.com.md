@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bytescout.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903093103id_/http%3A//bytescout.com/misc/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytescout.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204202745id_/http%3A//bytescout.com/misc/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | ByteScout
 
@@ -15,7 +15,7 @@ All such information is gathered globally not individually and no such informati
 Our site uses cookies to track the aggregate information about our visitors. This information is not linked to individual visitors.
 
 **Order Forms**  
-ByteScout has partnered with [BlueSnap, Regnow](http://www.bluesnap.com/) and [Share-It](http://www.shareit.com/) e-commerce providers to accept your orders. Both [BlueSnap, Regnow](http://www.bluesnap.com/) and [Share-It](http://www.shareit.com/) provide secure order forms for you to buy our products. When you place an order, [BlueSnap, Regnow](http://www.bluesnap.com/) or [Share-It](http://www.shareit.com/) collects contact information (like your email address), and financial information (like your credit card number). Contact information from the order forms is used **only** to get in touch with you when necessary. This includes sending you the product(s) you ordered, notifying you about new versions of the product(s) you ordered, and contacting you if there is a problem with your order. Financial information that is collected is used to bill you for the order.
+ByteScout has partnered with [BlueSnap](http://www.bluesnap.com/) and [MyCommerce](http://www.mycommerce.com/) e-commerce providers to accept your orders. Both [BlueSnap](http://www.bluesnap.com/) and [MyCommerce](http://www.mycommerce.com/) provide secure order forms for you to buy our products. When you place an order, [BlueSnap or MyCommerce](http://www.mycommerce.com/) collects contact information (like your email address), and financial information (like your credit card number). Contact information from the order forms is used **only** to get in touch with you when necessary. This includes sending you the product(s) you ordered, notifying you about new versions of the product(s) you ordered, and contacting you if there is a problem with your order. Financial information that is collected is used to bill you for the order.
 
 **Newsletter**  
 We allow our visitors to sign up for our free newsletter(s) by providing an email address. The email address you provide is used only to send you the the newsletter(s).
