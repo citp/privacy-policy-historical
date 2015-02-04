@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allindiaforums.com privacy policy that was archived on 2014-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140830070459id_/http%3A//allindiaforums.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindiaforums.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204101007id_/http%3A//allindiaforums.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy for allindiaforums.com
 
@@ -59,4 +59,4 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 
 * * *
 
-To edit / delete anything, email to admin at allindiaforums.com [Privacy Policy](http://allindiaforums.com/privacy-policy.php) Powered by Yahoo! Answers
+To edit / delete anything, email to admin at allindiaforums.com [Privacy Policy](http://allindiaforums.com/privacy-policy.php)
