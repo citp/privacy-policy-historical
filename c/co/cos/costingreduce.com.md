@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costingreduce.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907022153id_/http%3A//www.costingreduce.com/infos-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costingreduce.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204111154id_/http%3A//costingreduce.com/infos-privacy.html) for the most accurate reproduction.*
 
 # privacy
 
