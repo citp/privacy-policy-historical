@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dearjanedoe.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917060926id_/http%3A//www.dearjanedoe.com/infopage.php%3Fpage%3Dprivacy%26a%3DDearJaneDoe) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dearjanedoe.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204085213id_/http%3A//www.dearjanedoe.com/infopage.php%3Fpage%3Dprivacy%26a%3DDearJaneDoe) for the most accurate reproduction.*
 
 # Dear Jane Doe - The SexToy Place for Lubes
 
