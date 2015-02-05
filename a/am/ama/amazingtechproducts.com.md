@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingtechproducts.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202205153id_/http%3A//amazingtechproducts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingtechproducts.com privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205084132id_/http%3A//amazingtechproducts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Amazingtechproducts.com - Amazing Tech in Action
 
