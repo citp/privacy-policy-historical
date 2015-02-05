@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momcentralcanada.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723105146id_/http%3A//www.momcentralcanada.com/www.momcentralcanada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momcentralcanada.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206003059id_/http%3A//www.momcentralcanada.com/www.momcentralcanada.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mom Central Canada
 
@@ -104,7 +104,3 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at: 141 Bathurst St. Suite 201,Toronto, ON 416.775.1099  
 [www.momcentralcanada.com](http://www.momcentralcanada.com/), email: [information@momcentral.com](mailto:information@momcentral.com)
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.momcentralcanada.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)[  
-  
-](https://www.linksalpha.com/social/mobile)
