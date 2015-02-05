@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dalidecals.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824104228id_/http%3A//dalidecals.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dalidecals.com privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205121945id_/http%3A//dalidecals.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # :: Dali Wall Decals
 
