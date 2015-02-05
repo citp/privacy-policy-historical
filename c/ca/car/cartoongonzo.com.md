@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoongonzo.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916104949id_/http%3A//cartoongonzo.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoongonzo.com privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205145934id_/http%3A//cartoongonzo.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
