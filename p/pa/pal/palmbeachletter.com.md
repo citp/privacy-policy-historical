@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palmbeachletter.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111154446id_/http%3A//palmbeachletter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachletter.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206004806id_/http%3A//palmbeachletter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Palm Beach Letter
 
