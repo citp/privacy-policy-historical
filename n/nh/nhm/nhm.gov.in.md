@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nhm.gov.in privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111203339id_/http%3A//nhm.gov.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhm.gov.in privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205093530id_/http%3A//www.nhm.gov.in/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - National Health Mission
+# Privacy Policy - Governnment of India
 
 ##  Privacy Policy 
 
