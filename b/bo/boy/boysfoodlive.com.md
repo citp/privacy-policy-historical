@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boysfoodlive.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223080039id_/http%3A//www.boysfoodlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boysfoodlive.com privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205165115id_/http%3A//www.boysfoodlive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # BoysFoodLive - Privacy Policy
 
