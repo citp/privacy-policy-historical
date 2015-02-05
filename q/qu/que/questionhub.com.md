@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questionhub.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512091906id_/http%3A//www.questionhub.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questionhub.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206003529id_/http%3A//www.questionhub.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # QuestionHub.com - Privacy Policy
 
