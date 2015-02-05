@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financefoward.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229200239id_/http%3A//www.financefoward.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financefoward.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206003915id_/http%3A//www.financefoward.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # Finance and Economy world news.The best for you. » Privacy Policy
 
