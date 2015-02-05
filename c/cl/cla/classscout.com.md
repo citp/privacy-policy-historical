@@ -1,117 +1,43 @@
-> *The following text is extracted and transformed from the classscout.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915061721id_/http%3A//classscout.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classscout.com privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205144417id_/http%3A//www.classscout.com/privacy.asp) for the most accurate reproduction.*
 
 # ClassScout
 
-#### YOUR PRIVACY IS OUR MAJOR CONCERN. 
+#### Class Scout, Inc
 
-The following policy details how we gather information, how that information is shared, and what practices ClassScout.com implements to ensure your information is safe and protected. 
+ClassScout.com, shares your concern about personal privacy. ClassScout.com recognizes that its customers, visitors, users, and others (collectively or individually, the "Users") who use the [http://ClassScout.com](http://classscout.com/) website (the "Website") value their privacy. This Privacy Policy outlines important information regarding the use and disclosure of User information collected via the Website. ClassScout.com provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website.
 
-Use of the site indicates agreement with the Privacy Policy. 
+#### General
 
-#### What information does ClassScout.com gather? 
+Your use of the Website and any personal information you provide via the Website or through other official ClassScout.com contact remains subject to this Privacy Policy, and/or other governing ClassScout.com policies.
 
-ClassScout.com gathers information in order to bring business-to-business services to consumers, free of charge. ClassScout.com considers business-specific information to include contact names, addresses, phone/fax numbers, e-mail/website addresses, and credit card numbers. Additionally, we create vendor profiles that may contain proprietary information. 
+#### Collected Information
 
-#### Use of Information:
+ClassScout.com may collect personal information and data including, but not limited to, application and Website usage data, file transfer and viewing data, email and personal contact information, and other identifiable information. ClassScout.com may use technological means for tagging and tracking data including, but not limited to, harmless cookies, clear .GIFs, and other technologies to track and correlate data.
 
-ClassScout.com gathers information in an attempt to introduce business-to-business vendors to consumers in order to satisfy their professional needs. 
+#### Specifically, but not limited to, the following information is collected:
 
-Registration: 
+a. User Provided Data: Users may provide personally identifiable information (such as a name, address, telephone, and an email address) to ClassScout.com when choosing to participate in the services and activities available on the Website (collectively, the "Services").  b. Cookies: Cookies, a harmless small text file containing a string of alphanumeric characters, are deployed to your computer so as to uniquely identify your presence and use. ClassScout.com may use session cookies and persistent cookies for the purpose of tracking various important data. Use of these cookies can also help to speed your access to the Website as they serve as 'reminders' as to who you are to our programming. While we recommend that you allow these cookies to perform their tasks, you may adjust your computer's settings to restrict or refuse them. However, some features or sections of the Website may not function properly, or not all, if the ability to accept cookies is disabled.  c. Clear .GIFs: ClassScout.com may choose to utilize "clear .GIFs" to track the online usage patterns of our Users in a non-personally identifiable manner. Additionally, ClassScout.com may also use clear .GIFs in HTML-based emails dispatched to Users so as to track which emails are being opened by the recipients. This act helps ClassScout.com to determine active and inactive email addresses.  d. Log File Data: When Users log-in to their ClassScout.com account, our servers will automatically record and archive certain information that web-browsers send whenever visiting a website. These server logs may include information vital to validating the User's authorization to access the account. Information, such as a Web request, Internet Protocol (the "IP") address, browser type, browser language, referring pages, exit pages and visited URLs, platform type, click counts, pages viewed and in what order, time spent, the date and time of the request, and other important data is necessary to validate and authorize a User's entry and activity on the Website.
 
-Registration to obtain general information is not required; however vendors and those seeking vendor services are required to register on www.ClassScout.com 
+#### Information Uses
 
-While visiting www.ClassScout.com individuals can view pages and need not worry about revealing personal information. ClassScout.com collects information via industry standard web log files that include a URL address, where you presently are located, browser information and IP address. ClassScout.com may also use “cookies.” 
+a. Personally identifiable information submitted by a User is used to operate, maintain, and provide features, general and unique, of the Website for the User's use and pleasure.  b. ClassScout.com does use your personally identifiable and certain non-personally identifiable information, such as but not limited to, anonymous User usage data, browser type, cookies, IP addresses, clickstream data, and the like, to improve the quality and use designs of the Website through analysis of this data and trends.
 
-ClassScout.com is the sole owner of the information collected on ClassScout.com. ClassScout.com collects personally identifiable information from our users at several different points on our Web site. 
+#### Disclosure of Information
 
-Cookies: 
+a. ClassScout.com provides personally identifiable and non-personally identifiable information on Users to subsidiaries, affiliated companies, and other businesses or persons for the purpose of processing such information on behalf of ClassScout.com. At all times, these parties are required to agree to process such information in compliance with this Privacy Policy, and we deploy reasonable efforts to limit their use of such information.  b. ClassScout.com reserves the right to disclose personally identifiable and/or non-personally identifiable information that is believed, in good faith, to be appropriate or necessary for the purpose of enforcing the ClassScout.com Privacy Policy, or other governing ClassScout.com policies. Other causes of release of data may be due to, but not limited to: (i) taking precautions against liability issues; (ii) to assist government enforcement agencies; (iii) to investigate and defend ClassScout.com against third party claims or allegations; (iv) to protect the security or integrity of the Website and/or Services;(v) to protect the rights, property, or personal safety of ClassScout.com, Users of the Website, or others. c. ClassScout.com does not share your personally identifiable information with other non-affiliated third party companies for their commercial use or marketing use without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out.  d. ClassScout.com does share non-personally identifiable information, such as anonymous User data and traffic data, with interested third parties to assist them in understanding the usage patterns and trends analysis for certain content, advertisements, promotions, services, and/or functionality of the Website.  e. ClassScout.com may release any information available if required to do so by law, or in the good faith belief that such action is necessary to comply with law or the powers of government enforcement agencies. Other causes for release of information could be for needs to comply with copyright laws or to respond to a court order, subpoena, and/or search warrant.
 
-A cookie is a small text file that is stored on a user's computer for record keeping
+#### Decline to Accept
 
-purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+You may, of course, decline to submit or allow the submission of personally identifiable information through the Website, in which case ClassScout.com may not be able to provide certain Services to you, if any at all.
 
-We use persistent cookies.  A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+#### Links and Third Party Advertisers
 
-Cookies are stored only if you select to save your password on the login screen.  A cookie is created so that we are able to retrieve your settings. We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+ClassScout.com allows other companies, also referred to as Third Party Advertisers, Ad Servers, or Ad Networks (collectively, the "Advertisers") to serve advertisements via the Website. These Advertisers may use technology to send directly to your Web browser advertisements and links that appear on the Website. This technology may capture certain non-personally identifiable data, such as your IP address, etc. This technology may also measure the effectiveness of their advertisements and to personalize the advertising content you may view on the Website. ClassScout.com does not provide any personally identifiable information to these Advertisers without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out. However, should you click on an Advertiser offering or choose to visit an Advertiser's website, ClassScout.com highly recommends that you consult the respective privacy policy of the Advertiser for more information on their practices and for instructions on how to opt-out of certain programs and practices of the Advertiser. ClassScout.com's Privacy Policy does not apply to, nor can ClassScout.com control, the activities of other websites or Advertisers.
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. 
+#### Children's Privacy
 
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. 
+ClassScout.com complies with the Children's Online Privacy Protection Act of 1998 (COPPA) and does recognize the responsibility to protect the privacy of young children at all times and to the best of everyone's ability. For that reason, ClassScout.com does not knowingly collect or maintain any information via the Website from persons under the age of thirteen (13), and no part of our Website is directed to persons under the age of thirteen (13). If an underage person provides such information and ClassScout.com has unknowingly collected said information, then ClassScout.com will take the appropriate steps to delete this information.
 
-This privacy statement covers the use of cookies by www.ClassScout.com only and does not cover the use of cookies by any advertisers. You may disable cookies if your browser permits. Please be advised that this may prevent you from accessing certain features of ClassScout.com. Having trouble while cookies is disabled? Call our Customer Service department at 1-866.905.3637. 
+#### Transfer of Rights
 
-Log Files: 
-
-As is true of most Web sites, we gather certain information automatically and store it in log files.  This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
-
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. 
-
-We do not link this automatically collected data to personally identifiable information. 
-
-We use a third-party tracking service through Google and Overture that uses cookies [log files] to track non-personally identifiable information about visitors to our site. 
-
-Links to other sites: 
-
-This Web site contains links to other sites that are not owned or controlled 
-
-by ClassScout.com. Please be aware that ClassScout.com, is not responsible for the privacy practices of such other sites. 
-
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
-
-This privacy statement applies only to information collected by this Web site. 
-
-Security: 
-
-The security of your personal information is important to us.  When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
-
-If you have any questions about security on our Web site, you can send email us at custserv@ClassScout.com 
-
-Information on circulation: 
-
-Once signed up with ClassScout.com, you may receive additional publications such as newsletters and e-mails that contain content regarding the website, content changes and special promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see, “Choice and Opt-Out 
-
-Ordering services:
-
-In order for ClassScout.com to service you properly, you will need to provide us with company-specific information. Both vendors and those submitting requests are required to complete an online form which requests specific data. This includes contact information, demographics and information designed to assist you with searching for specific vendor/request-related inquiries. Various departments at ClassScout.com may review your company's information. Credit card information is stored securely through encryption and SSL connection. We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
-
-Surveys & Contests : 
-
-Occasionally and in order to heighten your experience with ClassScout.com, we may ask you to complete a survey, or suggest you enter a contest. Any information obtained via a survey or contest is held in the strictest of confidence. Information regarding contest winners may be communicated through a corporate news publication, however each contest will display a disclaimer saying so. Participation in these surveys or contests is completely voluntary, and you therefore have a choice whether or not to disclose this information. 
-
-Information sharing policy- Aggregate Information (non-personally identifiable): 
-
-We share aggregated demographic information about our user base with our customers. This information does not identify individual users. ClassScout.com will refer business related information in leads to interested parties. ClassScout.com never sells or releases company information to other parties unless it is directly related to a sales lead. 
-
-#### Agents: 
-
-We use an outside credit card processing company to bill you for goods and services. This company does not retain, share, store or use personally identifiable information for any other purposes. 
-
-Access – changing information: 
-
-Vendors with ClassScout.com can change profile information at any time by accessing their profiles with the appropriate sign-in name and password. Individuals who place requests can update, change or remove information by contacting custserv@ClassScout.com . 
-
-Service Providers: 
-
-ClassScout.com is considered a “third-party referral service.” We use other third parties [or vendors] to provide business related services on our site. When you sign up to ClassScout.com we will share business related (non-proprietary) information as necessary for the third party to provide that service. 
-
-Choice/Opt Out:
-
-Receiving additional information such as newsletters, updates and other publications is strictly voluntary. 
-
-We provide you the opportunity to ‘opt-out' of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
-
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by e-mailing us at custserv@ClassScout.com . 
-
-Legal disclaimer: 
-
-ClassScout.com reserves the right to disclose identifiable information as required by law, and when we believe that disclosure is necessary to protect our rights and to comply with judicial proceedings, court order or legal processes served on website. 
-
-Business Transitions: 
-
-In the event ClassScout.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via a prominent notice on our website for 30 days of any such change in ownership or control of your personal information. 
-
-Changes in privacy statement: 
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you her, by a notice on our homepage. 
+Should ClassScout.com be acquired, merged, or endeavor to become closed for business, ClassScout.com reserves the right, in any of these circumstances, to transfer or assign the information collected, during the due course of business, from Users of the Website. This information may be held as part of any such acquisition, merger, sale, or other change of control or business entity status. In the unlikely event of a bankruptcy, assignment for the benefit of creditors, insolvency, receivership, reorganization, or the application of laws or legally recognized enforcements and/or actions, ClassScout.com may not be able to control how Users' personal information is accessed, treated, transferred, and/or used. In any of these circumstances, you hold harmless and indemnify ClassScout.com owner(s), officers, directors, employees, agents, and assignees from and against any claims of responsibility, damages, costs, debts, losses, liabilities, obligations, fees and/or expenses.
