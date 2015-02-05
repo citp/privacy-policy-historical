@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whodeletedmeonfb.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045825id_/http%3A//www.whodeletedmeonfb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whodeletedmeonfb.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206001055id_/http%3A//www.whodeletedmeonfb.com/privacy.php) for the most accurate reproduction.*
 
 # Who Deleted Me Privacy Policy
 
