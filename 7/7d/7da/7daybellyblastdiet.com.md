@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7daybellyblastdiet.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812012341id_/http%3A//privacy-policy.truste.com/verified-policy/www.bellyfatfree.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7daybellyblastdiet.com privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205045604id_/http%3A//privacy-policy.truste.com/verified-policy/www.bellyfatfree.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.bellyfatfree.com
 
