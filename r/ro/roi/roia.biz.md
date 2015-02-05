@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roia.biz privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011090457id_/http%3A//trackingsoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roia.biz privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206004102id_/http%3A//trackingsoft.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TrackingSoft
 
