@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmsteachings.com privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919031840id_/http%3A//cmsteachings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmsteachings.com privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205223138id_/http%3A//cmsteachings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CMSTeachings
 
