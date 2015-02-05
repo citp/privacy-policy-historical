@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrismerriman.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826051014id_/http%3A//chrismerriman.com/privacy-other-info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrismerriman.com privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205154310id_/http%3A//chrismerriman.com/privacy-other-info) for the most accurate reproduction.*
 
 # Privacy | ChrisMerriman.com
 
