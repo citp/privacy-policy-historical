@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europac.net privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123023111id_/http%3A//www.europac.net/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europac.net privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206124923id_/http%3A//www.europac.net/footer/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Euro Pacific Capital
 
@@ -55,7 +55,7 @@ We remind you to always review all documents that Euro Pacific Capital sends you
 
 **Opting-out of Euro Pacific Capital’s Information Sharing**
 
-Federal law gives customers the right to limit some but not all customer information sharing, andapplicable state laws may provide further limitations.If you live in certain states (i.e., an “opt-out” state) and do not want your representative/firm to share your information, you have the right to opt-out of such disclosure.  Requests by individuals holding joint accounts will apply to all customers named in that account and each customer will be considered to have optedout.If you wish to opt-outof information disclosure, now or at any time in the future, please contact our Compliance Department at 800-727-7922.You may also contact us by mail at Euro Pacific Capital, Attention: Compliance, 88 Post Road West, 3rd Floor, Westport, CT 06880.
+Federal law gives customers the right to limit some but not all customer information sharing, andapplicable state laws may provide further limitations.If you live in certain states (i.e., an “opt-out” state) and do not want your representative/firm to share your information, you have the right to opt-out of such disclosure.  Requests by individuals holding joint accounts will apply to all customers named in that account and each customer will be considered to have optedout.If you wish to opt-outof information disclosure, now or at any time in the future, please contact our Compliance Department at 800-727-7922.You may also contact us by mail at Euro Pacific Capital, Attention: Compliance, 88 Post Road West, 2nd Floor, Westport, CT 06880.
 
 Euro Pacific Capital reserves the right to change or amend this Privacy Policy.  The examples contained within this Privacy Policy are illustrations and not intended to be exclusive.  This notice complies withrecent federal legislation and SEC regulations regarding privacy.
 
