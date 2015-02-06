@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bazaardesigns.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227210735id_/http%3A//www.bazaardesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bazaardesigns.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206084126id_/http%3A//www.bazaardesigns.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
 **Cookies & 3rd Party Advertisements**
 
