@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the anilinkz.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213215513id_/http%3A//anilinkz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anilinkz.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206091741id_/http%3A//anilinkz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AniLinkz
-
-### Privacy Policy
-
-  
-
 
 This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
@@ -26,4 +21,4 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 
 By e-mail: anilinkz [at] gmail [dot] com
 
-We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
