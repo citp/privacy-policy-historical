@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classbrain.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019043243id_/http%3A//www.classbrain.net/classbrain-corporate/classbrain-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classbrain.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206050916id_/http%3A//www.classbrain.net/classbrain-corporate/classbrain-privacy-policy) for the most accurate reproduction.*
 
 # ClassBrain Privacy Policy | ClassBrain Latest News
 
