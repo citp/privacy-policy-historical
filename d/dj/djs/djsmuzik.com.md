@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djsmuzik.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050256id_/http%3A//www.djsmuzik.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djsmuzik.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206142243id_/http%3A//www.djsmuzik.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Deejays Muzik
 
