@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniden.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217043527id_/http%3A//www.uniden.com/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniden.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206065912id_/https%3A//www.uniden.com/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Uniden Privacy Policy
 
