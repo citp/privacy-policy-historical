@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the booker.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216122934id_/http%3A//www.booker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booker.com privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207001101id_/http%3A//www.booker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Booker Privacy Statement**  
 Booker has created this privacy statement (“Statement”) in order to demonstrate our commitment to customer privacy, and as a means to communicate our information gathering and dissemination practices for the information we obtain from individuals interacting with Booker and its services, and applications. We reserve the right to change this Statement from time to time and will always have available the most up-to-date version of this Statement. As defined herein, Customer or customer (“customer”) is any business subscriber or user of the Booker Service.
 
-**Collection and Use of Information.**  
+ **Collection and Use of Information.**  
 On the Site you can do many things which involves your information; for example, you can request information, schedule a demo, get access to case studies, information on the Service, marketing or support materials, order services, apply for a job, register to become a partner. Booker will collect and use personal information from you to provide the Booker Service as well as for these purposes.
 
 We require customers who register to use the Booker services offered on our Site (collectively, the “Service”) to give us contact information, such as their name, company name, mailing address, phone number, and e-mail address, and, if applicable, financial qualification and billing information, such as billing name and address, and credit card number. We may also ask for additional personal information, such as title, department name, fax number, or additional company information. Customers can update or remove their personal information at any time by contacting [support@booker.com](mailto:support@booker.com).
@@ -20,43 +20,43 @@ Customers of the Service use the Site to host data and information (“Data”).
 
 Booker may also collect and use certain information from visitors to and customers of the Site, such as IP addresses, the number of visits, along with information on what pages are viewed. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information about our visitors and customers and provide such information to third parties.
 
-**Legal Process; Investigations.**  
+ **Legal Process; Investigations.**  
 We may also need to access and or disclose your personal information to comply with the law or legal process, to exercise our legal rights, or defend against claims. It is possible we may also share certain personal and other information in order to investigate, and or take action in cases of suspected illegal activities, suspected fraud, and situations involving potential threats to the physical safety of any person, or as otherwise required by law.
 
-**Cookies.**  
+ **Cookies.**  
 When you interact with the Booker Website we strive to make that experience easy and meaningful. When you come to our Web site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer’s hard drive and are used to tell us whether customers and visitors have visited the Site previously.
 
 Standing alone, cookies do not identify you personally. They merely recognize your browser. Unless you choose to identify yourself to Booker, for example by responding to a promotional offer, or opening an account, you remain anonymous to Booker. Cookies come in two flavors: session and persistent-based. Session cookies exist only during an online session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you have closed your browser or turned off your computer. They include such information as a unique identifier for your browser.
 
-Booker uses session cookies containing encrypted information to allow the system to uniquely identify you while you are logged in to the Site to use the Service. This information allows Booker to process your online transactions and requests. Session cookies help us make sure you are who you say you are after you’ve logged in and are required in order to use the Booker Service. Booker takes precautions in its use of persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. Please note that if you disable your Web browsers’ ability to accept cookies you will be able to browse the Booker Site you will not be able to successfully use our Service. 
+Booker uses session cookies containing encrypted information to allow the system to uniquely identify you while you are logged in to the Site to use the Service. This information allows Booker to process your online transactions and requests. Session cookies help us make sure you are who you say you are after you’ve logged in and are required in order to use the Booker Service. Booker takes precautions in its use of persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. Please note that if you disable your Web browsers’ ability to accept cookies you will be able to browse the Booker Site you will not be able to successfully use our Service.
 
-Many browsers contain features that allow you to block or delete cookies from your system. To learn more about your ability to manage cookies and web beacons, please consult the privacy features in your particular web browser. 
+Many browsers contain features that allow you to block or delete cookies from your system. To learn more about your ability to manage cookies and web beacons, please consult the privacy features in your particular web browser.
 
-**Third Party Cookies.**  
+ **Third Party Cookies.**  
 We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our website to help us administer our website and improve its quality and usability. Such third parties may use cookies and other technology to help track visitor behavior. Third party Cookies will not be used by Booker to associate individual website visitors to any personally identifiable information you may provide to Booker. All data collected by such third parties on behalf of Booker is used only to provide Booker with information on site usage, performance monitoring and the like, and is not shared with any other third parties.
 
-**Third-Party Sites.**  
+ **Third-Party Sites.**  
 The Site may contain links to other web sites including social media sites such as Facebook, LinkedIn, Twitter and others. Booker is not responsible for the privacy practices or the content of these other web sites. If you choose to share information from the Booker website through these services, you will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is your responsibility to keep information you share in this manner private and confidential.
 
-**Security.**  
+ **Security.**  
 Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using FireFox version 2.0 or higher, or Microsoft Internet Explorer versions 10.0 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. Booker also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Site in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, Booker provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data.
 
-**Opt-Out Policy.**  
-Booker offers its visitors and customers a means to choose how Booker may use information provided. If, at any time after registering with Booker to receive information or ordering the Service, or otherwise providing information to Booker, you change your mind about receiving information from us or about sharing your information with third parties, send us a request specifying your new choice. Simply send your request to [support@booker.com](mailto:support@booker.com). Please note that if you are a Customer, Booker must retain certain basic information about you in order to continue to provide the Service. 
+ **Opt-Out Policy.**  
+Booker offers its visitors and customers a means to choose how Booker may use information provided. If, at any time after registering with Booker to receive information or ordering the Service, or otherwise providing information to Booker, you change your mind about receiving information from us or about sharing your information with third parties, send us a request specifying your new choice. Simply send your request to [support@booker.com](mailto:support@booker.com). Please note that if you are a Customer, Booker must retain certain basic information about you in order to continue to provide the Service.
 
-**Safe Harbor Statement.**  
+ **Safe Harbor Statement.**  
 Booker complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Booker has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Booker’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-**Correcting & Updating Your Information.**  
+ **Correcting & Updating Your Information.**  
 If customers need to update or change registration information they may do so by requesting Booker to edit the user or organization record. To update information, please email Booker at [support@booker.com](mailto:support@booker.com). To discontinue the Service and to have your data returned, email [support@booker.com](mailto:support@booker.com). Booker will respond to your correction or update request within 30 days from the date of your request.
 
-**Additional Information, How to Contact Booker.**  
+ **Additional Information, How to Contact Booker.**  
 Questions regarding this Privacy Statement or the privacy related practices of this Site should be directed by sending an email to [support@booker.com](mailto:support@booker.com) or by regular mail addressed to Booker Software, Inc., Attn: Administrator, 22 Cortlandt Street, Floor 18, New York, New York 10007.
 
-**Business Changes.**  
+ **Business Changes.**  
 Should we undergo any sort of corporate reorganization, merger or acquisition in the future, we may provide your information to the resulting or acquiring entity as part of the transfer or disposition of assets, in which case we will follow these procedures. You will be notified via email and/or information on the Site of any change in ownership.
 
-**Changes and Updates to this Statement.**  
+ **Changes and Updates to this Statement.**  
 We will review and update this Statement periodically. If we make material changes to this Statement, we will notify you either by prominently posting a notice of such changes prior to implementing the changes or by directly sending you a notification. Please review this Privacy Statement frequently to remain informed of Booker’s information practices.
 
 Effective Date: This Privacy Statement is effective as of Mar 27, 2014.
