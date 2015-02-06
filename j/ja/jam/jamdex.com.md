@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamdex.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224155653id_/http%3A//www.jamdex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamdex.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206042101id_/http%3A//www.jamdex.com/privacy.php) for the most accurate reproduction.*
 
 # Jamdex - The Hip Hop Search Engine
 
