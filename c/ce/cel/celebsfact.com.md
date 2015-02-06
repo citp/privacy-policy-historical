@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the celebsfact.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201062100id_/http%3A//www.celebsfact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebsfact.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206090741id_/http%3A//www.celebsfact.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CelebsFact
+
+**Warning! -** CelebsFact will be posting Celebrity leaked personal photos. Nude, non nude, scandal and even hacked photos. **Stop visiting CelebsFact.com if you are not 18+ and don't want to get embarrassed.**.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://www.celebsfact.com/contact/](mailto:admin@celebsfact.com).
 
