@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortmilltimes.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204013514id_/http%3A//www.fortmilltimes.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortmilltimes.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206085441id_/http%3A//www.fortmilltimes.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Fort Mill Times Fort Mill, SC
 
