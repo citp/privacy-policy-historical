@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the mail2world.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021200356id_/http%3A//www.mail2world.com/s/m2wpublic/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mail2world.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206123552id_/http%3A//www.mail2world.com/s/m2wpublic/policies/privacy.asp) for the most accurate reproduction.*
 
 # Mail2World Privacy Policy
 
   
-**[Conduct Policy](https://web.archive.org/web/20141021200356id_/http%3A//www.mail2world.com/s/m2wpublic/policies/conduct.asp)** **[Spam Policy](https://web.archive.org/web/20141021200356id_/http%3A//www.mail2world.com/s/m2wpublic/policies/spam.asp)**
+**[Conduct Policy](https://web.archive.org/web/20150206123552id_/http%3A//www.mail2world.com/s/m2wpublic/policies/conduct.asp)** **[Spam Policy](https://web.archive.org/web/20150206123552id_/http%3A//www.mail2world.com/s/m2wpublic/policies/spam.asp)**
 
-**[Fraud Policy](https://web.archive.org/web/20141021200356id_/http%3A//www.mail2world.com/s/m2wpublic/policies/fraud.asp)**
+**[Fraud Policy](https://web.archive.org/web/20150206123552id_/http%3A//www.mail2world.com/s/m2wpublic/policies/fraud.asp)**
 
-**[Privacy Policy](https://web.archive.org/web/20141021200356id_/http%3A//www.mail2world.com/s/m2wpublic/policies/privacy.asp)**
+**[Privacy Policy](https://web.archive.org/web/20150206123552id_/http%3A//www.mail2world.com/s/m2wpublic/policies/privacy.asp)**
 
-**[Terms of Service](https://web.archive.org/web/20141021200356id_/http%3A//www.mail2world.com/s/m2wpublic/policies/tos.asp)**
+**[Terms of Service](https://web.archive.org/web/20150206123552id_/http%3A//www.mail2world.com/s/m2wpublic/policies/tos.asp)**
 
 **[COPPA](http://www.cdt.org/legislation/105th/privacy/coppa.html)**
 
@@ -110,7 +110,7 @@ You may update this information at any time from within your Mail2World account 
 
 **Is my Personal Information secure from others using the Mail2World site?**
 
-The security of your Personal Information is important to us. When you enter sensitive information, such as a credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this [link](https://web.archive.org/web/20141021200356id_/http%3A//www.mail2world.com/s/m2wpublic/policies/ssl.asp). 
+The security of your Personal Information is important to us. When you enter sensitive information, such as a credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this [link](https://web.archive.org/web/20150206123552id_/http%3A//www.mail2world.com/s/m2wpublic/policies/ssl.asp). 
 
 Mail2World follows generally accepted industry standards to protect the Personally Identifiable Information and email addresses you submit to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100-percent secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
