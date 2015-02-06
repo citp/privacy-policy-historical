@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topblogformula.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004184546id_/http%3A//www.topblogformula.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topblogformula.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206061226id_/http%3A//www.topblogformula.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top Blog Formula
 
