@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702045319id_/http%3A//www.jackpot.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206055749id_/http%3A//www.jackpot.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Jackpot.com Privacy Policy
 
 **I. Privacy**
 
   1. ProgressPlay Limited (the "Company") is committed to protecting Your privacy and Your personally identifiable information (“Personal Information”). 
-  2. The Company has created this Privacy Policy to let You know what information The Company (or others on its behalf) collect from You when You use the Company's services via its online or mobile offerings (the “Services”), how is this information collected and how is it used. 
+  2. The Company has created this Privacy Policy to let You know what information The Company (or others on its behalf) collect from You when You use the Company's services via its online or mobile offerings (the “Services”), how this information is collected and how is it used. 
   3. This Privacy Policy is part of and should be read in conjunction with the [Terms and Conditions](https://web.archive.org/terms-and-conditions.asp). When You access or use the Company's offering and/or Services, You agree that the Company (or others on its behalf) may collect, use and disclose Your information (including Personal Information) in accordance with the terms of this Privacy Policy. 
 
 
@@ -13,22 +13,23 @@
 **II. Collection of Information**
 
   4. The Company (or others on its behalf) collects Personal Information from You, including without limitation, Your name, date of birth, credit card information, home or other physical address, email address, phone number and other contact information. The Company (or others on its behalf) also collects an activity log unique to You that collects certain administrative and traffic information including without limitation source IP address, time of access, date of access, web and mobile page(s) visited, language use, software crash reports and type of browser used. 
-  5. The Company (or others on its behalf) collects the aforesaid information when You use the Services and when You provide it to the Company, and also in Your communications with the Company. 
-  6. You are responsible for ensuring the accuracy of Your Personal Information and all other information You submit to The Company (or others on its behalf). Inaccurate information will affect the information You receive when using the Services and the Company's ability to contact You as contemplated in this Privacy Policy. You may update Your Personal Information by logging into Your Account and update Your personal information or by e-mailing customer support at **customersupport@instantgamesupport.com**. 
+  5. The Company (or others on its behalf) collects the aforesaid information when You use the Services or when You provide it to the Company, and also in Your communications with the Company. 
+  6. You are responsible for ensuring the accuracy of Your Personal Information and all other information You submit to the Company (or others on its behalf). Inaccurate information will affect the information You receive when using the Services and the Company's ability to contact You as contemplated in this Privacy Policy. You may update Your Personal Information by logging into Your Account and update Your personal information or by e-mailing customer support at **customersupport@instantgamesupport.com**. 
 
 
 
 **III. Use of Information**
 
-  7. The Company uses the Personal Information and other information the Company (or others on its behalf) collect from or about You to deliver the Services, to provide customer support, to undertake necessary security and identity verification checks, to process any of Your online or mobile transactions, meet certain business requirements and for any other purpose related to the operation of the Services. The Company may disclose Your Personal Information (and any other information) to any third parties that provide services to the Company in order to allow, enable or improve the provision of the Services to You. Without derogating from the above, Your Personal Information will be disclosed to employees and staff members of the Company for the purpose of providing support services, credit management services and fraud prevention services, to the Company's accountants and auditors accounting and auditing purposes and to the Company's partners for the purpose of payment processing, Your Personal Information may also be used by the Company to provide You with promotional offers and information regarding the Services as well as products and services from third parties carefully selected by the Company, and in order for us to improve the Company's offering of a range of products and services and improved customer support; provided, however, that no Personal Information will be provided to third parties without You Opting to have such information provided. The Company may also use the aforesaid information to track Your use of the Services and for other internal purposes, such as evaluating, providing, and improving the Services. 
-  8. The Company may disclose Your Personal Information and other information the Company (or others on its behalf) collect from or about You if required to do so by law, or if the Company believes in good faith that such action is necessary to comply with a current judicial proceeding, a court order or legal process, or to protect and defend the Company's rights or property, the personal safety of users of the Services or the public. The Company reserves the right to share the aforesaid information with other online gaming sites, banks, credit card companies, and appropriate agencies, if the Company determines in its sole discretion that You have cheated or attempted to defraud the Company, or if the Company suspects You of committing any fraudulent activity (including of fraudulent payment), or any other prohibited transaction. 
+  7. The Company uses the Personal Information and other information the Company (or others on its behalf) collect from or about You to deliver the Services, to provide customer support, to undertake necessary security and identity verification checks, to process any of Your online or mobile transactions, meet certain business and/or regulatory requirements and for any other purpose related to the operation of the Services. The Company may disclose Your Personal Information (and any other information) to any third parties that provide services to the Company in order to allow, enable or improve the provision of the Services to You. Without derogating from the above, Your Personal Information will be disclosed to employees and staff members of the Company for the purpose of providing support services, credit management services and fraud prevention services, to the Company's accountants and auditors for accounting and auditing purposes and to the Company's partners for the purpose of payment processing, Your Personal Information may also be used by the Company to provide You with promotional offers and information regarding the Services as well as products and services from third parties carefully selected by the Company, and in order for us to improve the Company's offering of a range of products and services and improved customer support; provided, however, that the Personal Information will be provided to such third parties(providing information about their products and services) solely on Your opt-in basis. The Company may also use the aforesaid information to track Your use of the Services and for other internal purposes, such as evaluating, providing, and improving the Services. 
+  8. The Company may disclose Your Personal Information and other information the Company (or others on its behalf) collect from or about You if required to do so by law, or if the Company believes in good faith that such action is necessary to comply with a current judicial proceeding, a court order or legal process, or to protect and defend the Company's rights or property, the personal safety of users of the Services or the public. The Company reserves the right to share the aforesaid information with other online gaming sites, banks, credit card companies, and appropriate agencies and/or regulators, if the Company determines in its sole discretion that You have cheated or attempted to defraud the Company, or if the Company suspects You of committing any fraudulent activity (including of fraudulent payment), or any other prohibited transaction. 
   9. The Company may transfer any information (including Personal Information) outside Your country of residence and outside the European Union and store it in other countries; the data protection and other laws of these countries may not be as comprehensive as those in the European Union - in these instances the Company will take steps to ensure that a sufficient level of protection is given to Your Personal Information. 
 
 
 
 **IV. Retention of Information**
 
-  10. The Company will retain all of Your Personal Information for the time set by applicable legislation and the directives of the Lotteries and Gaming Authority. While You may request from the Company to erase any and all of Your Personal Information, the request will be answered only as long as it is compliant with applicable legislation and the directives of the Lotteries and Gaming Authority. 
+  10. The Company will retain all of Your Personal Information for the time set by applicable legislation and the directives of Malta Gaming Authority and/or of the UK Gambling Commission, as applicable. While You may request from the Company to erase any and all of Your Personal Information, the request will be answered only as long as it is compliant with applicable legislation and the directives of Malta Gaming Authority and/or of the UK Gambling Commission, as applicable.
+
 
 
 
@@ -58,13 +59,13 @@
 
 **IX. Transfer**
 
-  15. In the event that the Company sells, assigns or transfers some or all of its business or assets to a successor or acquirer, or if the Company is acquired by or merge with a third party, or if the Company files for bankruptcy or become insolvent, the Company may sell, assign or transfer all of Your Personal Information and other information provided by You or about You, regardless of Your opt status, to such successor or acquirer. 
+  15. In the event that the Company sells, assigns or transfers some or all of its business or assets to a successor or acquirer, or if the Company is acquired by or merge with a third party, or if the Company files for bankruptcy or become insolvent, the Company may sell, assign or transfer all of Your Personal Information and other information provided by You or about You, regardless of Your opt status, to such successor or acquirer, provided the Company obtains Your consent.
 
 
 
 **X. Disclaimer**
 
-  16. The Services operate “AS-IS” and “AS-AVAILABLE”, without liability of any kind. The Company is not responsible for events beyond its direct control. The Company cannot guarantee nor does it represent that there will be error-free performance regarding the privacy of Your Personal Information, and the Company (including its directors, officers, shareholders, suppliers, advisors, contractors and affiliates) will not be liable for any indirect, incidental, consequential or punitive damages relating to the use or release of Personal Information. 
+  16. The transmission of information via the internet is not completely secure.  Although the Company does its best to protect Your Personal Information, the Company cannot guarantee the security of the data transmitted to the Company's website, mobile site and/or mobile application; transmission is at Your own risk. Accordingly, the Company (including its directors, officers, shareholders, suppliers, advisors, contractors and affiliates) will not be liable for any indirect, incidental, consequential or punitive damages relating to the use or release of Personal Information resulting from events outside of our control. 
 
 
 
@@ -74,4 +75,10 @@
 
 
 
-Version 1.0 - 5/2/13, Valid until further notice
+**XII.  ** **General**
+
+  18. You have the right to see personal data (as defined in the Data Protection Act 1998) that the Company keeps about you, upon receipt of a written request and payment of a £10 fee.  If You are concerned that any of the information we hold about You is incorrect please contact our customer support team at [customersupport@instantgamesupport.com](mailto:customersupport@instantgamesupport.com)
+
+
+
+Version 1.1.2 – 23/9/14, Valid until further notice
