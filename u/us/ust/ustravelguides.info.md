@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustravelguides.info privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222174016id_/http%3A//ustravelguides.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustravelguides.info privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206070609id_/http%3A//ustravelguides.info/privacy-policy) for the most accurate reproduction.*
 
 # ustravelguides.info » Privacy Policy
 
