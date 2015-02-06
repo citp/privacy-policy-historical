@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobclix.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202075351id_/http%3A//axonix.com/privacy-and-cookies.html%23cookie) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobclix.com privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207005121id_/http%3A//axonix.com/privacy-and-cookies.html%23cookie) for the most accurate reproduction.*
 
 # Axonix | Privacy & Cookies Policy
 
@@ -96,6 +96,6 @@ If you wish to opt out of being tracked by Google Analytics across all websites 
 
 ### Your consent and feedback
 
-By using our website without disabling cookies you are consenting to our use of cookies and web beacons as described in this policy. If you have any questions of feeback concerning this Cookies Policy please drop us an email on [legal@axonix.com](https://web.archive.org/web/20141202075351id_/http%3A//axonix.com/legal@axonix.com "legal@axonix.com").
+By using our website without disabling cookies you are consenting to our use of cookies and web beacons as described in this policy. If you have any questions of feeback concerning this Cookies Policy please drop us an email on [legal@axonix.com](https://web.archive.org/web/20150207005121id_/http%3A//axonix.com/legal@axonix.com "legal@axonix.com").
 
 Last updated: 30 April 2014
