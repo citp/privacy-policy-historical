@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sextoyfun.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226212938id_/http%3A//www.sextoyfun.com/infopage.php%3Fpage%3Dprivacy%26a%3Dsextoyfun) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextoyfun.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206143714id_/http%3A//www.sextoyfun.com/infopage.php%3Fpage%3Dprivacy%26a%3Dsextoyfun) for the most accurate reproduction.*
 
 # The Worlds Largest Adult Products Store
 
