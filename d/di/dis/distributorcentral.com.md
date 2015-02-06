@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distributorcentral.com privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821134548id_/http%3A//www.distributorcentral.com/resources/agreements/DistributorCentral_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distributorcentral.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206105619id_/http%3A//www.distributorcentral.com/resources/agreements/DistributorCentral_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
@@ -26,23 +26,23 @@ identify the User should they visit the Site again. While not all of the informa
 is personally identifiable, it may be associated with personally identifiable information that Users provide us
 through the Site.
 How We Use Information
-DistributorCentral will not share any User’s personally identifiable information with any third party, with
-any other User or with any affiliate or business partner of DistributorCentral, without such User’s prior
-consent. We may, however, use a User’s personally identifiable information collected through the Site to
-contact such User from time to time via email, mail and/or telephone regarding the Site and the Services.
-Additionally, each User agrees that we may disclose personally identifiable information to any third party in
-the good faith belief that such action is reasonably necessary: (a) to comply with any applicable law, rule,
-regulation or legal process; (b) to enforce any term of this Privacy Policy or the Terms of Use of the Site;
-(c) to respond to claims that the User is engaged in activities that violate the rights of third parties; or (d) to
-protect the rights or interests of DistributorCentral or any third party; provided, however, that nothing in this
-Privacy Policy shall impose a duty on DistributorCentral to make any such disclosures. User further
-acknowledges and agrees that technical processing of certain personally identifiable information is and may
-be required: (a) to provide the Services to such User; or (b) to conform to the technical requirements of
-connecting networks or other similar technical requirements. User also acknowledges and agrees that we
-may access User’s information as necessary to identify or resolve technical problems or respond to
-complaints about the Site or the Services. We may also use or disclose to potential partners any aggregate,
-anonymous data based on information collected from Users. Finally, we may transfer information collected
-from Users in connection with a sale of our business or assets to any third party.
+DistributorCentral will not resell any User’s personally identifiable information to any third party, to any
+other User or to any affiliate or business partner of DistributorCentral, without such User’s prior consent.
+We may, however, use a User’s personally identifiable information collected through the Site to contact such
+User from time to time via email, mail and/or telephone regarding the Site and the Services. Additionally,
+each User agrees that we may disclose personally identifiable information to any third party in the good faith
+belief that such action is reasonably necessary: (a) to comply with any applicable law, rule, regulation or
+legal process; (b) to enforce any term of this Privacy Policy or the Terms of Use of the Site; (c) to respond to
+claims that the User is engaged in activities that violate the rights of third parties; or (d) to protect the rights
+or interests of DistributorCentral or any third party; provided, however, that nothing in this Privacy Policy
+shall impose a duty on DistributorCentral to make any such disclosures. User further acknowledges and
+agrees that technical processing of certain personally identifiable information is and may be required: (a) to
+provide the Services to such User; or (b) to conform to the technical requirements of connecting networks or
+other similar technical requirements. User also acknowledges and agrees that we may access User’s
+information as necessary to identify or resolve technical problems or respond to complaints about the Site or
+the Services. We may also use or disclose to potential partners any aggregate, anonymous data based on
+information collected from Users. Finally, we may transfer information collected from Users in connection
+with a sale of our business or assets to any third party.
 Maintenance of Information
 Information about Users that is maintained on our system is protected using industry standard
 security measures. However, we cannot guarantee that any User’s information submitted to,
