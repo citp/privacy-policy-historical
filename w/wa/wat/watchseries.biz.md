@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchseries.biz privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217110759id_/http%3A//watchseries.biz/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchseries.biz privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206180030id_/http%3A//watchseries.biz/privacy-policy.html) for the most accurate reproduction.*
 
 # WS PRIVACY POLICY
 
