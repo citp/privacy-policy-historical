@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggergeeze.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909081917id_/http%3A//www.bloggergeeze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggergeeze.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206121618id_/http%3A//www.bloggergeeze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bloggergeeze | Bloggergeeze
 
