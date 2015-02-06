@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reelmarketinginsider.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228074339id_/http%3A//www.reelmarketinginsider.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reelmarketinginsider.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206075924id_/http%3A//www.reelmarketinginsider.com/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy and Terms | Reel Marketing Insider
 
