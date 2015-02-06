@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creme-magazine.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926210304id_/http%3A//creme-magazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creme-magazine.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206141352id_/http%3A//creme-magazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Crème Magazine
 
