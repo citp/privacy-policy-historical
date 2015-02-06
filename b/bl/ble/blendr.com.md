@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blendr.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812191618id_/http%3A//blendr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendr.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206082634id_/https%3A//blendr.com/privacy) for the most accurate reproduction.*
 
 # Badoo's Privacy Policy
 
@@ -51,7 +51,7 @@ No. We don’t collect any personal information about visitors to our site. If y
 
 ### If I put other information about me on the site, what does Badoo do with it?
 
-Badoo is designed to make it easy for you to find, connect and interact with other members of Badoo by posting information about yourself. You can also use our electronic messaging system, which allows you to communicate with other users. We recommend and encourage you (and all our members) to think carefully about the information they disclose about themselves, and suggest you follow our [Guidelines and Safety Tips](http://blendr.com/guidelines/). We also do not recommend that you put email addresses, URLs, instant messaging details, phone numbers, full names or addresses, credit card details, national identity numbers, drivers’ licence details and other sensitive information in your Profile which is open to abuse and misuse.
+Badoo is designed to make it easy for you to find, connect and interact with other members of Badoo by posting information about yourself. When using the App you should assume that anything you post or submit will be publicly viewable and accessible, both by Users of the App and non-Users of the App. For example, to make it easier to find other Badooers and connect with them, we have allowed you to share other users' profiles on Facebook. This feature can be turned off in your settings at any time. You can also use our electronic messaging system, which allows you to communicate with other users. We recommend and encourage you (and all our members) to think carefully about the information they disclose about themselves, and suggest you follow our [Guidelines and Safety Tips](http://blendr.com/guidelines/). We also do not recommend that you put email addresses, URLs, instant messaging details, phone numbers, full names or addresses, credit card details, national identity numbers, drivers’ licence details and other sensitive information in your Profile which is open to abuse and misuse.
 
 Please be careful about posting sensitive details about yourself on you Profile such as your religious denomination and health details. While you may voluntarily provide this information to us when you create your Profile, including your sexual preferences and ethnic background, there is no requirement to do so. Please remember that photographs or any video clips that you post on Badoo may reveal these kinds of sensitive personal data. Where you do upload and choose to tell us sensitive information about yourself, you are explicitly consenting to our processing your information and making this public to other users.
 
@@ -166,9 +166,9 @@ Use it to meet new friends and make new contacts! Beware that you may not use ot
 
 ### What information does Badoo collect about my friends and contacts?
 
-You can choose to invite your friends to join Badoo to make sure that they also get the benefits of meeting new people. To make it easier to search and find friends and acquaintances on Badoo, users may search for other members by email address. If you want to invite your friends and contacts to Badoo, we will send an email or an SMS (if you've used our Android or iPhone app) invitation from Badoo in your name to your friends and contacts encouraging them to sign up to Badoo. If any of the individuals you have invited do not register within a few days, Badoo may occasionally send reminder emails or SMS on your behalf to those individuals. You can choose to invite all your friends or only a select few by simply unticking the names of those friends you do not wish to invite, but please remember you must not invite any children to join. You are responsible for ensuring that your friend has agreed to receiving a Badoo invite.
+You can choose to invite your friends to join Badoo to make sure that they also get the benefits of meeting new people. To make it easier to search and find friends and acquaintances on Badoo, users may search for other members by email address. If you want to invite your friends and contacts to Badoo, we will send an email invitation from Badoo in your name or you can send an SMS (if you use our Android or iPhone app) to your friends and contacts encouraging them to sign up to Badoo. If any of the individuals you have invited do not register within a few days, Badoo may occasionally send reminder emails on your behalf to those individuals. You can choose to invite all your friends or only a select few by simply unticking the names of those friends you do not wish to invite, but please remember you must not invite any children to join. You are responsible for ensuring that your friend has agreed to receiving a Badoo invite.
 
-When we send an email or sms invite to your friend or contact, we store their name and email address or their mobile number, if we've sent an SMS on your behalf so that we can automatically connect you and your friend. Badoo does not sell these email addresses or mobile numbers or use them to send any other communication besides invitations. The friend may contact Badoo to request the removal of their information from our database by visiting Feedback page. Any such request will only apply to addresses or mobile numbers we have at the time of the request and not to any addresses that the member/user provides to us later.
+When you import your contacts, we store their name and email address or their mobile number so that we can automatically connect you and your friend. Badoo does not sell these email addresses or mobile numbers or use them to send any other communication besides email invitations. The friend may contact Badoo to request the removal of their information from our database by visiting Feedback page. Any such request will only apply to addresses or mobile numbers we have at the time of the request and not to any addresses that the member/user provides to us later.
 
 ## 3\. Third parties
 
@@ -246,6 +246,8 @@ Removed and deleted information may persist in backup copies for up to 30 days t
 
 If you have not signed in to Badoo for three months, we may remove your Profile as part of our data cleansing process.
 
+Your Badoo account is non-transferable and any rights to your profile or contents within your account will be canceled upon your death.
+
 If you have questions about our Privacy Policy or how we collect and use information, drop us a line via [Feedback page](http://blendr.com/feedback/).
 
-This Privacy Policy was last updated on 23 January 2014.
+This Privacy Policy was last updated on 7 November 2014.
