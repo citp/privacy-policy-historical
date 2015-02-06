@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobgold.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630062505id_/http%3A//www.mobgold.com/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobgold.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206043436id_/http%3A//www.mobgold.com/web/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MobGold
 
