@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverica.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224115241id_/http%3A//www.discoverica.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverica.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206083356id_/http%3A//www.discoverica.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -30,6 +30,6 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 ### Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20141224115241id_/http%3A//www.discoverica.com/contact.aspx).
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20150206083356id_/http%3A//www.discoverica.com/contact.aspx).
 
 **Effective Date: Privacy Notice last modified February 11, 2011.**
