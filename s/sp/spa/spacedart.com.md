@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacedart.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205225554id_/http%3A//www.spacedart.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacedart.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206051111id_/http%3A//www.spacedart.com/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy| www.spacedart.com
 
