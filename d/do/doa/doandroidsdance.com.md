@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doandroidsdance.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202412id_/http%3A//doandroidsdance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doandroidsdance.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206185906id_/http%3A//doandroidsdance.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Do Androids Dance | Do Androids Dance
 
