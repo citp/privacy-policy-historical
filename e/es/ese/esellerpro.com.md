@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esellerpro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625212641id_/http%3A//www.esellerpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esellerpro.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206085612id_/http%3A//www.esellerpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eSellerPro
 
@@ -22,7 +22,7 @@
 
 2.6 Sandbourne may also want to provide you with related information from third parties which it thinks may be of interest to you. 
 
-2.7 If you do not wish Sandbourne to send you any information set out in Clauses 2.3 to 2.6 above, please send an e-mail to [jfrankish@seecoymarketing.com](mailto:jfrankish@seecoymarketing.com)
+2.7 If you do not wish Sandbourne to send you any information set out in Clauses 2.3 to 2.6 above, please send an e-mail to [marketing@esellerpro.com](mailto:marketing@esellerpro.com)
 
 2.8 If you contact Sandbourne, Sandbourne may keep record of that correspondence.
 
@@ -54,7 +54,7 @@
 
 ####  6\. UPDATING YOUR DETAILS
 
-6.1 If any of the information that you have provided to Sandbourne changes, for example if you change your e-mail address, name or payment details or if you wish to cancel your order, please let Sandbourne know the correct details by sending an e-mail to [jfrankish@seecoymarketing.com](mailto:jfrankish@seecoymarketing.com)
+6.1 If any of the information that you have provided to Sandbourne changes, for example if you change your e-mail address, name or payment details or if you wish to cancel your order, please let Sandbourne know the correct details by sending an e-mail to [marketing@esellerpro.com](mailto:marketing@esellerpro.com)
 
 ####  7\. OTHER TERMS
 
@@ -66,4 +66,4 @@
 
 7.4 You have the right at any time to ask Sandbourne not to process your personal data for marketing purposes.
 
-7.5 Sandbourne welcomes your views about the Website and its privacy policy.  If you would like to contact Sandbourne with any queries or comments please send an e-mail to [jfrankish@seecoymarketing.com](mailto:jfrankish@seecoymarketing.com)
+7.5 Sandbourne welcomes your views about the Website and its privacy policy.  If you would like to contact Sandbourne with any queries or comments please send an e-mail to [marketing@esellerpro.com](mailto:marketing@esellerpro.com)
