@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullhornstaffing.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910010310id_/http%3A//bullhornstaffing.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullhornstaffing.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206094552id_/https%3A//bullhornstaffing.com/privacy.htm) for the most accurate reproduction.*
 
 # Bullhorn, Inc. Privacy Statement
 
@@ -6,7 +6,7 @@
 
 ## Bullhorn Privacy Statement
 
-Because customers entrust Bullhorn with important information/data, we have established this Statement as a means to communicate our information gathering and dissemination practices.
+Because customers entrust Bullhorn Inc. ("Bullhorn") with important information/data, we have established this Statement as a means to communicate our information gathering and dissemination practices.
 
 ### TRUSTe
 
@@ -18,23 +18,23 @@ Bullhorn Inc. complies with the EU Safe Harbor framework as set forth by the Dep
 
 The bullhornstaffing.com site collects personal third party information on certain forms throughout the site such as name, email address, social security number, tax id number and various types of demographic information such as education level. Sensitive information is protected by SSL encryption.
 
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. 
+
 Customer email addresses and any personal or third party customer information will not be distributed or shared with any third parties for promotional purposes. We may also email information regarding updates to the Service. Except as we explicitly state at the time we request information, or as provided for in the Bullhorn Terms of Use, we do not disclose to any third-party the information provided.
 
 Other third parties, such as content providers, may provide content on the Web Site but they are not permitted to collect any information nor does Bullhorn share any user information with these parties. Customers will be using the service to host data and information ("Data"). Bullhorn will not review, share, distribute, print, or reference any such Data except as provided in the Bullhorn Terms of Use, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Terms of Use, or as may be required by law, warrant, subpoena, legal process or court order. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
+If Bullhorn is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+
 Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password. Users may opt-out of receiving secondary communications from our website by selecting the opt-out link located in the message body of all our electronic communications. Users may also email [privacy@bullhorn.com](mailto:privacy@bullhorn.com) directly with a request to be removed from such communications. Bullhorn will not disclose the collected information to third parties without the permission of the visitor. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
 
-### Cookies
+### Tracking Technologies
 
-When you interact with Bullhorn we strive to make that experience easy and meaningful. When you log on to Bullhorn, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer's hard drive and are used to tell us whether customers have used the Service previously. Standing alone, cookies do not identify you personally. They merely recognize your browser.
+Technologies such as: tags and scripts are used by Bullhorn and our marketplace partners, affiliates, or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-There are two types of Cookies: session and persistent-based. Session cookies exist only during an online session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you've closed your browser or turned off your computer. They include such information as a unique identifier for your browser.
-
-Bullhorn uses session cookies containing encrypted information to allow the system to uniquely identify you while you are logged in. This information allows Bullhorn to process your transactions and requests. Session cookies help us make sure you are who you say you are after you've logged in and are required in order to use the Bullhorn application. Bullhorn uses persistent cookies that only Bullhorn can read and use, to identify the fact that you are a Bullhorn customer or a visitor, who has registered for the Bullhorn Community or to receive certain types of content. We are especially careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. Users or visitors who disable their Web browsers' ability to accept cookies will be unable to use all aspects of our service or the Community.
-
-### Import Contacts
-
-We utilize an import contacts feature to help you keep in touch with your contacts and employees. We make it easy for you to invite people from your email address books or Microsoft Outlook account to join you on our Site. At your request we will search your email address book to help you import your contacts to our site. Once your contacts have been uploaded to the Bullhorn application, it is up to the user to select which contacts will be sent an email. This feature is to send contacts an email correspondence or to keep their information as a contact in the Bullhorn Staffing application.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We do link this automatically-collected data to personally identifiable information.
 
 ### Access to Personally Identifiable Information
 
@@ -46,7 +46,7 @@ We will retain your information for as long as your account is active or as need
 
 ### Security
 
-Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using Microsoft Internet Explorer versions 5.0 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. Bullhorn also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Site in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, Bullhorn provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data.
+Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using Microsoft Internet Explorer versions 5.0 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. Bullhorn also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Site in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, Bullhorn provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@bullhorn.com.
 
 ### Links to 3rd Party Sites
 
@@ -86,4 +86,4 @@ Bullhorn, Inc.
 Boston, MA 02210  
 Main Number: 1-617-478-9100
 
-Effective date: 09/12/2013
+Effective date: 09/29/2014
