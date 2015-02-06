@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadsetup.net privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923074952id_/http%3A//downloadsetup.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadsetup.net privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206224656id_/http%3A//downloadsetup.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | iLivid.com
 
