@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbclothing.co.uk privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229064721id_/http%3A//www.bbclothing.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbclothing.co.uk privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206083017id_/http%3A//www.bbclothing.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Brown Bag Clothing Privacy Policy
 
@@ -91,7 +91,11 @@ AddThis use cookies to record when you have interacted with their widget. When y
 Struq places anonymous cookies which collect details of pages and products you viewed. This information is then used to better direct advertisements shown to you on 3rd party websites to make sure that those adverts include products that are of interest to you.
 
 **Yieldify**  
-Yieldify's unique technology monitors user behaviour patterns and detects when you about to leave our site. Once detected, a personalised overlay message invites you to leave your contact information. Yieldify uses cookies to anonymously identify you and record the frequency of visits to our site.   
+Yieldify's unique technology monitors user behaviour patterns and detects when you about to leave our site. Once detected, a personalised overlay message invites you to leave your contact information. Yieldify uses cookies to anonymously identify you and record the frequency of visits to our site.
+
+**VisualDNA**  
+We use a tag of a third-party service provider, VisualDNA, to anonymously collect information about users' browsing activity on our website (this does not include names, addresses or any other personal information). This information is linked to a cookie that VisualDNA sets in your browser. This information allows us and VisualDNA to build a profile so that your online experience can be made more relevant to your specific interests. You have the right to opt out from VisualDNA's service by clicking [here](http://my.visualdna.com/) and choosing the 'Cookie Settings' option.  
+VisualDNA does not store or share personally identifiable information with any third party, other than in anonymised, aggregated form. To learn more, visit VisualDNA's privacy policy at [http://www.visualdna.com/privacy-policy](http://www.visualdna.com/privacy-policy/) and VisualDNA's cookie policy at [http://www.visualdna.com/cookie-policy](http://www.visualdna.com/cookie-policy/).   
   
 If you want to manage your cookies then you can do this via your browser or alternatively please visit [**www.aboutcookies.org**](http://www.aboutcookies.org/) for up to date information about cookie management. All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, see the 'Help' option in your browser for more details.
 
