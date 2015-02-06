@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my1stop.com.my privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401214840id_/http%3A//www.my1stop.com.my/about/terms/%3Fdoc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my1stop.com.my privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206121022id_/http%3A//www.my1stop.com.my/about/terms/%3Fdoc%3Dprivacy) for the most accurate reproduction.*
 
 # My1STOP.com.my - We Grow Online Businesses (since 2006)
 
@@ -112,10 +112,9 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 We may amend this Privacy Policy at any time by posting the amended terms on the website. All amended terms automatically take effect 30 days after they are initially posted on the website. If you have any queries regarding this Privacy Policy, you may write to us at: 
 
-Auditorium 1, 3C Complex, Jalan PJS 11/2,  
-Sunway City,   
-46150 Petaling Jaya,   
-Selangor,   
+Tower 3, Avenue 5, The Horizon,  
+Bangsar South, No 8, Jln Kerinchi,  
+59200, Kuala Lumpur,  
 Malaysia.
 
 Or email us at <http://www.my1stop.com.my/about/my1stop/?p=contact>
