@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aytm.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812093243id_/http%3A//aytm.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aytm.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206042038id_/http%3A//aytm.com/pages/privacy) for the most accurate reproduction.*
 
 # Online Market Research | AYTM Market Research
 
