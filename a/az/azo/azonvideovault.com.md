@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the azonvideovault.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114040931id_/http%3A//azonvideovault.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azonvideovault.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206063928id_/http%3A//azonvideovault.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Azon Video Vault - Product Review Just Got Easy!
-
-## Privacy Policy
+# Privacy Policy | Azon Video Vault – Product Review Just Got Easy!
 
 Privacy Policy
 
@@ -72,7 +70,7 @@ b. information about your visit, including the full Uniform Resource Locators (U
 
 4.1.1 Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
 
-4.1.2 Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. [We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience].
+4.1.2 Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. [We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience].
 
 4.1.3 Analytics and search engine providers that assist us in the improvement and optimisation of our site.
 
@@ -84,7 +82,7 @@ b. information about your visit, including the full Uniform Resource Locators (U
 
 4.2.2 If Compliance Bar or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-4.2.3 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [INSERT AS LINK TO WEBSITE'S TERMS OF USE] or terms and conditions of supply [INSERT AS LINK TO WEBSITE'S TERMS AND CONDITIONS OF SUPPLY OF GOODS AND/OR SERVICES]] and other agreements; or to protect the rights, property, or safety of Compliance Bar, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+4.2.3 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [INSERT AS LINK TO WEBSITE’S TERMS OF USE] or terms and conditions of supply [INSERT AS LINK TO WEBSITE’S TERMS AND CONDITIONS OF SUPPLY OF GOODS AND/OR SERVICES]] and other agreements; or to protect the rights, property, or safety of Compliance Bar, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 4.3 We implement a variety of security measures to maintain the safety of your personal information. We will not sell, provide, or transfer you email address to others.
 
@@ -124,4 +122,4 @@ Lower Hutt OR [Support Email].
 11  **CONTACT**
 
 11.1 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to PO Box 31105  
-Lower Hutt OR [[Support Email]](https://web.archive.org/web/20141114040931id_/http://azonvideovault.com/privacy-policy/support@globalreachalliance.com).
+Lower Hutt OR support@globalreachalliance.com
