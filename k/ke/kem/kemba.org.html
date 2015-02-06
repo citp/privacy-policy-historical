@@ -1,19 +1,18 @@
-<!--The following is the downloaded HTML source of the kemba.org privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625175259id_/https%3A//www.kemba.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kemba.org privacy policy that was archived on 2015-02-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150206054101id_/https%3A//kemba.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>KEMBA Privacy Policy | Central Ohio | KEMBA Financial Credit Union</title>
 <meta name="AUTHOR" content="E Space Communications, Inc. - http://www.espacecommunications.com/">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" value="Our Privacy Notice is an important part of our commitment.  At KEMBA, we are committed to providing our members with quality financial products and exceptional service, serving seven counties in Central Ohio.">
-<meta name="keywords" value="privacy policy central ohio kemba financial credit union">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="description" content="Our Privacy Notice is an important part of our commitment.  At KEMBA, we are committed to providing our members with quality financial products and exceptional service, serving seven counties in Central Ohio.">
+<meta name="keywords" content="privacy policy central ohio kemba financial credit union">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _1=new Date();</script>
-<link rel="stylesheet" type="text/css" id="stylesheet" href="/jslib/css.php?version=1400249030&amp;files=/misc/style.pcss">
-<script type="text/javascript">var _1=new Date();</script>
-<link rel="stylesheet" type="text/css" id="stylesheet" href="/jslib/css.php?version=1366645600&amp;files=/misc/mobile_style.pcss">
-<script type="text/javascript" src="/jslib/js.php?version=1403124594&amp;files=espace+calendar+prototype.1.7.0.0+scriptaculous.1.9.0+alert+sorttable+slideshow+/misc/common3"></script>
+<link rel="stylesheet" type="text/css" id="stylesheet" href="/jslib/css.php?version=1418146354&amp;files=/misc/style.pcss">
+<script type="text/javascript" src="/jslib/js.php?version=1422040879&amp;files=espace+calendar+prototype.1.7.0.0+scriptaculous.1.9.0+alert+sorttable+slideshow+/misc/common"></script>
 <script>document.createElement('header');document.createElement('nav');document.createElement('section');document.createElement('article');document.createElement('aside');document.createElement('footer');</script>
-<link rel="alternate" type="application/rss+xml" title="KEMBA Credit Union" href="http://www.kemba.org/rss.php">
+<link rel="alternate" type="application/rss+xml" title="KEMBA Credit Union" href="http://kemba.org/rss.php">
 <link rel="shortcut icon" href="/images/favicon.ico">
 </head>
 
@@ -32,43 +31,6 @@
 <a href="/business_mobile.html">Business Solutions</a>
 </div>
 
-<script>
-function ask_for_position() {
-	if (navigator.geolocation) {
-		navigator.geolocation.getCurrentPosition(got_position, position_denied);
-		return(false);
-	}
-
-	return(true);
-}
-
-function got_position(position) {
-	document.location.href = 'http://www.kemba.org/finder.html?lat=' + position.coords.latitude + '&lon=' + position.coords.longitude;
-}
-
-function position_denied(error) {
-	document.location.href = 'http://www.kemba.org/finder.html';
-	/*
-  switch(error.code) {
-    case error.PERMISSION_DENIED:
-      msg = "User denied the request for Geolocation."
-		break;
-    case error.POSITION_UNAVAILABLE:
-      msg = "Location information is unavailable."
-		break;
-    case error.TIMEOUT:
-      msg = "The request to get user location timed out."
-		break;
-    case error.UNKNOWN_ERROR:
-      msg = "An unknown error occurred."
-		break;
-  }
-
-	alert(msg);
-	*/
-}
-</script>
-
 <div id="header-nav">
 <a href="/locations.html">Branch Locations</a> 
 <a href="/rates.html">Rates</a> 
@@ -82,21 +44,42 @@ function position_denied(error) {
 <input name="q" id="q" alt="Q" type="text" value="" class="_text" style="color: rgb(170, 170, 170);"><input name="command" id="Go" type="submit" value="Go" class="_submit">
 </form>
 </div><!-- header-top -->
+
+<div id="green-area">
+
 <form id="login" method="post" action="https://online.kemba.org/User/AccessSignin/Start" onsubmit="if ($F('UsernameField') == '' || $F('UsernameField') == 'Online Banking username') { $('UsernameField').focus(); return alert('Your Online Banking username is required to log in.') }">
 Log in to KEMBA's Online Banking<br>
 <input name="UsernameField" id="UsernameField" alt="Usernamefield" type="text" value="" class="_text" style="color: rgb(170, 170, 170);"><input type="hidden" name="SubmitNext" id="SubmitNext" value="Sign In" class="_hidden"><input name="command" id="Enter" type="submit" value="Enter" class="_submit">
 <div id="login-help">
-<a href="https://online.kemba.org/User/AccessSigninResetUsername/Reset">Forgot username?</a>
-<a href="https://online.kemba.org/User/AccessSigninResetPassword/Start">Forgot password?</a>
+<a href="https://online.kemba.org/User/AccessSigninResetUsername/Reset">Forgot username?</a> |
+<a href="https://online.kemba.org/User/AccessSigninResetPassword/Start">Forgot password?</a> |
 <a href="https://online.kemba.org/User/AccessSignup/Start">Register</a>
 </div>
 </form>
 
-<a class="nav-box" href="/personal_banking.html">Personal Banking</a>
-<a class="nav-box" href="/business_solutions.html">Business Solutions</a>
-<a class="nav-box" href="/credit_cards_loans.html">Credit Cards<br>&amp; Loans</a>
+</div>
+<div id="nav-boxes">
+<a class="nav-box" href="/personal_banking.html" onmouseover="hideDropdown()">Personal Banking</a>
+<a class="nav-box" href="/business_solutions.html" onmouseover="hideDropdown()">Business Solutions</a>
+<a class="nav-box" href="/credit_cards_loans.html" onmouseover="hideDropdown()">Credit Cards<br>&amp; Loans</a>
+<a id="join-box" class="nav-box" href="" onmouseover="showDropdown()" onclick="return showDropdown()">Apply &amp; Join<br>Today!</a>
+</div>
 
-<a class="nav-box right-corner" href="/join.html">Become a<br>Member</a>
+<div id="dropdown" style="display: none">
+<a href="/join.html">Become a Member</a>
+<div class="hr"></div>
+<a href="/apply/loanapp_ccvar_start.html">Platinum Rewards Credit Card</a>
+<a href="/apply/loanapp_auto_start.html">Auto Loan</a>
+<a href="/mtgappstart.html">Mortgage</a>
+<a href="/apply/loanapp_heloc_start.html">Home Equity Line-of-Credit</a>
+<a href="/apply/loanapp_signature_start.html">Personal/Signature Loan</a>
+<a href="/apply/loanapp_ssl_start.html">Share Secured Loan</a>
+<a href="/apply/loanapp_rv_start.html">Recreational Vehicle Loan</a>
+<a href="/studentchoice.html">Student Loans</a>
+<div class="hr"></div>
+<a href="/apply/loanapp_bizcc_start.html">Business Credit Card</a>
+</div>
+
 
 </header>
 
@@ -214,7 +197,7 @@ have instructed us to do so in writing.<br><br>
 
  	Information about KEMBA member accounts may be reported to credit 
 bureaus. Late payments, missed payments, or other defaults on your 
-accounts may be reflected in your credit report.<br><br><strong>Email Communications</strong><br>When you choose to identify yourself to KEMBA and provide an email 
+accounts may be reflected in your credit report.<br><br><strong>Notice Regarding Children's Information</strong><br>We respect the privacy of children and comply with the practices under the Children's Online Privacy Protection Act.&nbsp; We do not knowingly collect or retain personally identifiable information from children.<br><br><strong>Email Communications</strong><br>When you choose to identify yourself to KEMBA and provide an email 
 address as an accepted communication channel, you are consenting to 
 KEMBA using the information you provide, including personally 
 identifying information, in accordance with this notice, unless you 
@@ -263,13 +246,15 @@ built into procedures</article>
 <a href="http://www.kembafcu.appone.com/">Careers</a> 
 <a href="/site_map.html">Site Map</a> 
 <a href="/contact_us.html">Contact</a></span></span><br><span class="full-display-only"> 
-<a href="https://www.surveymonkey.com/s/2014Consumer-Survey"> <img src="/images/survey120x60.gif" alt="Help us serve you! Please take the online survey." border="0" height="60" width="120"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="http://www.lovemycreditunion.org/client/love_my_cu/banner/?bid=234&amp;campid=23&amp;clientid=61623&amp;sid=1" target="_blank"><img src="https://www.lovemycreditunion.org/client/love_my_cu/banner_push/?bid=234&amp;campid=23&amp;clientid=61623&amp;sid=1" alt="" border="0" height="90" width="120"></a>&nbsp;&nbsp;&nbsp;
 <a href="http://www.lovemycreditunion.org/client/love_my_cu/banner/?bid=15&amp;campid=4&amp;clientid=61623&amp;sid=1" target="_blank"><img src="https://lovemycu.secure.cu-village.com/client/love_my_cu/banner_push/?bid=15&amp;campid=4&amp;clientid=61623&amp;sid=1" alt="Member Cellular Discounts with Sprint" title="Member Cellular Discounts with Sprint" border="0" height="60" width="468"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a target="_blank" href="#" onclick="return livelook()"><img alt="Get remote assistance on your computer" title="Get remote assistance on your computer" src="/images/LiveLook_icon.png"></a> </span><br><br><strong>Routing number: 244077556</strong><br><span class="yui-style-footer-fine-print">555 Officenter Pl. | P.O. Box 307370 | Gahanna, OH | 43230 | Phone: 614.235.2395 | 800.282.6420 | Fax: 614.324.8360 | email: 
 <a href="mailto:service@kemba.org">service@kemba.org</a></span><br><span class="yui-style-footer-fine-print">KEMBA Financial Credit Union is an Equal Opportunity Employer.</span><br><span class="yui-style-footer-links"> <span> 
 <a href="/resources.html#privacy">Important Privacy and Account Information</a></span> 
 <a href="/privacy.html">Privacy Policy</a> <span class="mobile-display-only"> 
-<a href="/privacy.html?fullsite=yes">Full Site</a></span> </span><br><br><img alt="NCUA logo" title="NCUA logo" src="/pics/NCUAlogo_web-1.gif">&nbsp;&nbsp; <img alt="EHL logo" title="EHL logo" src="/pics/EHL_Logo_web.jpg">&nbsp; <img alt="esi logo" title="esi logo" src="/images/esi.gif"><br><span class="yui-style-footer-fine-print">Federally insured by the National Credit Union Administration</span><br></center><br></footer>
+<a href="/privacy.html?fullsite=yes">Full Site</a></span> </span><br><br><a href="/images/NCUA_webLG.jpg" target="_blank"><img alt="NCUA logo" title="NCUA logo" src="/pics/NCUAlogo_web-1.gif" border="0"></a>&nbsp;&nbsp; 
+<a href="/images/EHL_webLG.jpg" target="_blank"><img alt="EHL logo" title="EHL logo" src="/pics/EHL_Logo_web.jpg" border="0"></a>&nbsp;&nbsp; 
+<a href="/images/ESI_webLG.jpg" target="_blank"><img alt="esi logo" title="esi logo" src="/images/esi.gif" border="0"></a><br>Federally insured by the National Credit Union Administration<br></center><br></footer>
 </div>
 
 
