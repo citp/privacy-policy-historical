@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115072523id_/http%3A//www.lookingyourbest.com/info/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206124934id_/http%3A//www.lookingyourbest.com/info/privacystatement.php) for the most accurate reproduction.*
 
 # LookingYourBest.com - Your Plastic Surgery Resource
 
