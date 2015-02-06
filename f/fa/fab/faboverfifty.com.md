@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faboverfifty.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922104437id_/http%3A//www.faboverfifty.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faboverfifty.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206063759id_/http%3A//www.faboverfifty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fab Over Fifty
+# Privacy Policy - FabOverFifty.com
 
 ## **PRIVACY**
 
@@ -24,7 +24,7 @@ We may collect the following information: 
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-. To improve [the](https://web.archive.org/web/20140922104437id_/http%3A//) Site, including content, public user profiles, usability, offers
+. To improve [the](https://web.archive.org/web/20150206063759id_/http://) Site, including content, public user profiles, usability, offers
 
 . To notify you about products, services and exclusive offers which we think will interest you. To contact you for surveys about subjects of great interest to you  
 
@@ -33,8 +33,8 @@ We may also use the information to customize the Site according to your interest
 We may also share your personal information with certain third parties without notice to you, as set forth below:
 
   * **_Agents, Consultants and Related Third Parties_**.  We, like many businesses, sometimes hire other companies to perform certain business-related functions.  Examples include mailing information, maintaining databases, hosting services, and processing payments.  When we employ another company to perform a function of this nature, we provide them with the information that they need to perform their specific function.  We require such third parties to maintain the confidentiality of such information and to use such information only as necessary to provide us with designated services.
-  *  ** _Legal Requirements.   _** We may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend the rights or property of Brinsights LLC, (c) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (d) protect against legal liability.
-  *  ** _Business Transfers_**.  As we develop our business, we might sell or buy businesses or assets.  In the event of a corporate sale, merger, reorganization, dissolution or similar event, your personal information may be part of the transferred assets. 
+  * **_Legal Requirements.   _** We may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend the rights or property of Brinsights LLC, (c) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (d) protect against legal liability.
+  * **_Business Transfers_**.  As we develop our business, we might sell or buy businesses or assets.  In the event of a corporate sale, merger, reorganization, dissolution or similar event, your personal information may be part of the transferred assets. 
   * **_Advertisers.   _** We may aggregate your personal information with personal information of other users, and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing and promotional purposes.  In these situations, we will not disclose to these third parties any information that could be used to indentify you personally.
 
 
@@ -65,7 +65,7 @@ The Site may contain links to Third Party Sites.  However, once you have used t
 
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
-  * When you are asked to fill in a registration form on the Site, you are provided with a User Account containing many options for controlling your information. Some information (specifically the Username you choose, your age and your home town) is made public on the user profiles for social network services: the user should consider this carefully before creating a User Account. The user is solely responsible for maintaining her User Account, choosing settings and account preferences to ensure they are up to date and to the user's satisfaction. 
+  * When you are asked to fill in a registration form on the Site, you are provided with a User Account containing many options for controlling your information. Some information (specifically the Username you choose, your age and your home town) is made public on the user profiles for social network services: the user should consider this carefully before creating a User Account. The user is solely responsible for maintaining her User Account, choosing settings and account preferences to ensure they are up to date and to the user’s satisfaction. 
   * If you have previously agreed to let us use your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@faboverfifty.com](mailto:info@faboverfifty.com). 
   * If you had a User Account created for you by a Brinsights LLC staff member, you are responsible for checking and verifying the account information entered on your behalf for accuracy, which includes checking or unchecking box that states you do not want the information to be used by anyone for direct marketing purposes.  We do not guarantee the completeness or accuracy of any account information or content submitted or services used on your behalf. 
 
