@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performancehorizon.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726053954id_/http%3A//www.performancehorizon.com/docs/phg_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performancehorizon.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206092838id_/http%3A//performancehorizon.com/docs/phg_privacy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY 1. Introduction and General Terms
 
