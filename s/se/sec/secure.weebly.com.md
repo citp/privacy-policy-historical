@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the secure.weebly.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103901id_/http%3A//secure.weebly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure.weebly.com privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207000140id_/http%3A//secure.weebly.com/privacy) for the most accurate reproduction.*
 
-# Politique de confidentialité
+# Privacy Policy
 
 ### What This Privacy Policy Covers
 
@@ -55,7 +55,7 @@ Third Parties, with whom we partner to provide certain features on our site or t
     * Keep track of preferences you specify while you are using the Weebly Sites, Products and Services.
     * Estimate and report our total audience size and traffic.
     * Conduct research to improve the content and services provided on the Weebly Sites, Products and Services.
-    * We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted weebly.com advertising during your visits to other websites. To opt-out of weebly.com data collection for targeted advertising on other sites, click here: [Opt Out Now](http://teffect.weebly.com/optout.html).
+    * We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted weebly.com advertising during your visits to other websites. To opt-out of weebly.com data collection for targeted advertising on other sites, click here: [Opt Out Now](http://www.aboutads.info/choices/).
 
 
 
@@ -128,8 +128,8 @@ If Weebly learns of a security systems breach we may attempt to notify you elect
 If you have a privacy concern regarding Weebly, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a support request at [www.weebly.com/support/](https://web.archive.org/support/) or you can write to us by email at [support@weebly.com](mailto:support@weebly.com) or by mail at:
 
 Weebly, Inc.  
-564 Pacific Ave  
-San Francisco, CA 94133 
+460 Bryant Street #100  
+San Francisco, CA 94107 
 
 ### TRUSTe
 
@@ -137,4 +137,4 @@ Weebly, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@weebly.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-**Last updated on June 25th 2014.**
+**Last updated on February 6th 2015.**
