@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpli.fi privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206225522id_/http%3A//www.simpli.fi/site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpli.fi privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206073149id_/https%3A//www.simpli.fi/site-privacy-policy) for the most accurate reproduction.*
 
 # Unstructured Data DSP | Simpli.fi | Site Privacy Policy
 
