@@ -1,36 +1,296 @@
-> *The following text is extracted and transformed from the ubotstudio.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221053513id_/http%3A//www.botsoftware.org/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubotstudio.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206093220id_/http%3A//www.ubotstudio.com/system/resources/W1siZiIsIjIwMTQvMDEvMjIvMDlfNDVfMzJfOTIxX1VCb3RfUHJpdmFjeV9Qb2xpY3kucGRmIl1d/UBot%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
-# Download Bot Software - Automation Software Tools from Ubot
+# UBot Studio Privacy PolicyEffective Date: May 2013Seth Turin Media, Inc. and UBot Studio (“UBot”) value your privacy and desire to ensure your experience with UBot Studio and its subsidiaries and related companies (collectively “UBot”, “we,” “our” or “us”) and all of our websites, related subdomains (the “Sites”), products, mobile applications, software, blogs, and forums (collectively with the Sites, the “Services”) are as satisfying and safe as possible. In that regard, we have established for the Sites and/or Services the following privacy policy to explain and describe what personal information UBot collects on our Sites and/or Services, how UBot uses it and your options regarding information UBot may collect about you.By accepting this Privacy Policy, you expressly consent to the information handling practices described in this Policy. This Privacy Policy is a part of and incorporated into UBot’s Terms of Service, Terms of Use and End user License Agreements associated with its Sites and/or Services. In addition, by accepting this Privacy Policy you expressly represent: (a) that you are over the age of 18 and/or not considered a minor in the jurisdiction for which you reside; or (b) that you are a parent or guardian of a minor child and you who have expressly consented to handling of the minor’s personal information as described in this Policy; or (c) that you are a school, district and/or teacher which has contracted with UBot to collect Personal Information of your students. Your continued use of our Sites and/or Services or any other content, products or other services covered by this Policy constitutes your acceptance and agreement to this Policy and any updates.Contacting UsIf you have questions about this policy, please feel free to contact us at:UBot Studio P.O Box 352132Westminster, CO 80035 1. Information We CollectIn describing our collection, use, and sharing of information in this Policy, we refer to our collection and use of "Personal Information." "Personal Information," as used in this Policy, is personally identifiable information, which is information that directly identifies an individual, such as first and last name, mailing address, email address, billing information, IP addresses, demographics, passwords or other online contact information, or telephone number. We collect Personal Information, as well as non-personally identifiable information on UBot Sites and/or Services.We collect Personal Information in two ways. First, we collect information you provide to us in optional, voluntary submissions, such as in registration forms, order forms, user profiles, promotional signups, sweepstakes/contest entries, requests for customer service, software and mobile applications downloads and curriculum vitae submissions. Second, some Personal Information may be collected automatically. This is described below in "Passive Data Collection."
 
-##  privacy policy
+                                        UBot Studio Privacy Policy
+Effective Date: May 2013
+Seth Turin Media, Inc. and UBot Studio (“UBot”) value your privacy and desire to ensure your
+experience with UBot Studio and its subsidiaries and related companies (collectively “UBot”, “we,”
+“our” or “us”) and all of our websites, related subdomains (the “Sites”), products, mobile applications,
+software, blogs, and forums (collectively with the Sites, the “Services”) are as satisfying and safe as
+possible.
+In that regard, we have established for the Sites and/or Services the following privacy policy to explain
+and describe what personal information UBot collects on our Sites and/or Services, how UBot uses it
+and your options regarding information UBot may collect about you.
+By accepting this Privacy Policy, you expressly consent to the information handling practices described
+in this Policy. This Privacy Policy is a part of and incorporated into UBot’s Terms of Service, Terms of
+Use and End user License Agreements associated with its Sites and/or Services. In addition, by
+accepting this Privacy Policy you expressly represent: (a) that you are over the age of 18 and/or not
+considered a minor in the jurisdiction for which you reside; or (b) that you are a parent or guardian of a
+minor child and you who have expressly consented to handling of the minor’s personal information as
+described in this Policy; or (c) that you are a school, district and/or teacher which has contracted with
+UBot to collect Personal Information of your students. Your continued use of our Sites and/or Services
+or any other content, products or other services covered by this Policy constitutes your acceptance and
+agreement to this Policy and any updates.
+Contacting Us
+If you have questions about this policy, please feel free to contact us at:
+UBot Studio
+P.O Box 352132
+Westminster, CO 80035
+1. Information We Collect
+In describing our collection, use, and sharing of information in this Policy, we refer to our collection
+and use of "Personal Information." "Personal Information," as used in this Policy, is personally
+identifiable information, which is information that directly identifies an individual, such as first and last
+name, mailing address, email address, billing information, IP addresses, demographics, passwords or
+other online contact information, or telephone number. We collect Personal Information, as well as non-
+personally identifiable information on UBot Sites and/or Services.
+We collect Personal Information in two ways. First, we collect information you provide to us in
+optional, voluntary submissions, such as in registration forms, order forms, user profiles, promotional
+signups, sweepstakes/contest entries, requests for customer service, software and mobile applications
+downloads and curriculum vitae submissions. Second, some Personal Information may be collected
+automatically. This is described below in "Passive Data Collection."
 
-This is the web site of **UBot**.
 
-Our postal address is   
-**P.O. Box 352132  
-Westminster, CO 80035**
+We may also obtain information, including Personal Information, from third party sources. If we
+directly combine information from third parties with Personal Information that we have collected, we
+will treat the combined information as Personal Information and handle it in accordance with this
+Policy. In addition, please note that we may solicit third parties to collect Personal Information on our
+behalf and in such cases we instruct those third parties to comply with this Policy and all applicable
+data protection laws.
+You are under no obligation to provide, and can decline to provide, any requested information at any
+time. However, if you decline to provide personal information that is reasonably necessary to
+participate in certain activities, you may not be able to participate in those activities on certain Sites
+and/or Services.
+Passive Data Collection
+We may receive passively-collected information through a variety of methods including but not limited
+to:
+Cookies
+We may use a variety of methods, including "cookies" to collect information.
+What is a cookie?
+Cookies are text files containing small amounts of information which are downloaded to your device
+when you visit a website. Cookies are then sent back to the originating website on each subsequent
+visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website
+to recognize a user’s device.
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your
+preferences, and generally improve the user experience. They can also help to ensure that
+advertisements you see online are more relevant to you and your interests.
+Functionality and Necessary Cookies
+UBot does not require that you accept cookies and/or you may withdraw your consent to our use of
+cookies at any time by adjusting your browser's privacy settings, however, some functionality on our
+Sites (e.g. “functionality cookies”), our product or service check-out process, and Services may be
+disabled if you decline to accept cookies ( e.g. “necessary cookies”).
+Opting Out of Cookies
+You can set your browser to notify you when you receive a cookie, giving you the chance to decide
+whether or not to accept it. You may also change your cookie settings through preference options in our
+Sites and/or Services, where applicable. We will indicate that upon selecting your preferences, that we
+will use a cookie to remember your preferences.
+UBot never gives away information about our users. If you choose to provide Personal Information
+about yourself, UBot will use this information only to communicate directly with you. UBot will not
+sell, rent or otherwise disclose that information to third parties unless such disclosure is necessary for
+the purposes set forth in this Policy, by law or a policy or notice contained or associated with a specific
 
-We can be reached via e-mail at [ubotdev@gmail.com](mailto:ubotdev@gmail.com)  
-or you can reach us by telephone at 303-731-6129
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+Site(s) and/or Service(s).
+Analytics Tools
+We use analytics tools and other third party technologies, such as Google Analytics, to collect non-
+personal information in the form of various usage and user metrics when you use our online Sites
+and/or Services. These tools and technologies collect and analyze certain types of information,
+including cookies, IP addresses, device and software identifiers, referring and exit URLs, onsite
+behavior and usage information, feature use metrics and statistics, usage and purchase history, MAC
+Address, mobile unique device ID, and other similar information.
+The third party analytics companies who collect information on our Sites and/or Services and other
+online products and/or services may combine the information collected with other information they
+have independently collected from other websites and/or other online or mobile products and services
+relating to your activities across their network of websites as well as online and/or mobile products and
+services. Many of these companies collect and use information under their own privacy policies.
+You may opt out of Google Analytics by visiting the Google Analytics opt-out page.
+2. How We Use Information
+Generally, we use Personal Information to establish and enhance our relationship with our users
+through four main categories: (1) Communication; (2) Optimization; (3) Advertising; and (4) Sharing
+Features. Below, we provide some specific examples of how we use the Personal Information and other
+information we collect.
+Communication and Responding to Requests
+We use your information, including Personal Information to provide you with customer support,
+process transactions, respond to users' requests, send newsletters and updates, send special offers and
+advertisements, seek your opinions and feedback, and connect users to UBot Sites and/or Services, and
+to products and services of our partners and licensees.
+Optimization
+We use user information, including Personal Information, behavioral metrics, and other non-personally
+identifiable information to operate, provide, improve, and maintain our Sites and Services, to develop
+new products and services, to prevent abuse and fraud, to personalize and display advertisements and
+other content for you, and for other administrative and internal business purposes.
+Advertising
+We use user information, including Personal Information, behavioral metrics, geo-location data,
+demographic data and marketing preferences to personalize and display advertisements and other
+content for you.
+Sharing Features
+We use your information, including Personal Information and any other information you submit
 
-We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit.
 
-The information we collect is used to improve the content of our Web page, , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
+directly or through passive means to provide you with various ways to connect and share content (e.g.,
+web content , user generated videos, text, drawings, and screen and lecture captures, and quizzing
+features, media, tools, services and other products) with third parties. For example, we may provide
+you with the opportunity to email a link to certain content to another person. To use this feature, we
+may require you to provide certain Personal Information including your email address and the email
+address of each person to whom you send the link.
+We also may allow you to share links to content with users of various third party services (e.g., social
+networking, search and sharing services). When sharing links using one of these third party services, if
+you are not already logged in to the third party service, you will need to supply login credentials for it.
+If you are not a registered user of the third party service, you will need to sign up for it. You are
+supplying the registration information or login credentials for the third party service directly to that
+third party, and not to us. By using any of these third party services to share links to content, you permit
+us to access, use and disclose any information relating to your account on each such third party service
+(such as your user name and profile information) that is available to us through the third party service,
+including through its application programming interface (API) pursuant to this Policy.
+3. When We Disclose Personal Information
+We do not share Personal Information with third parties except in the limited circumstances described
+in this Policy.
+Service Providers
+We may provide Personal Information to third parties for their use in performing internal business
+functions (e.g., payment processing, customer service, maintenance, security, data analysis, email
+transmission, beta testing, or data hosting) on our behalf. Additionally, some third party service
+providers may collect information, including Personal Information, on our behalf. Whenever possible,
+we require such third-parties to only collect and use Personal Information in accordance with this
+Policy, to maintain the confidentiality, security, and integrity of such Personal Information, and for no
+purpose other than providing us with our requested services.
+Partners
+When you visit or use a part of any website, mobile application, or other consumer product that is co-
+branded or that is a part of a joint promotion involving UBot and one or more third parties (each a "Co-
+Branded Party"), you are providing and consenting to provide and are transmitting your Personal
+Information and other information provided to, or collected, or obtained by UBot and any Co-Branded
+Parties involved, to UBot and each of the Co-Branded Parties without any other notice or further
+consent. Please note that we do not control any Co-Branded Parties' use or treatment of information
+you provide to them and you should consult each of their privacy policies or any separate Co-Branded
+privacy policy posted on or linked from the Co-Branded site to determine your rights with respect to
+their use and treatment of your information. You will need to communicate with us and each Co-
+Branded Party directly, as applicable, if you decide you no longer wish to receive communications or if
+you wish to change any information you have supplied.
+Legal Requirements
+We may disclose Personal Information if we have a good-faith belief that doing so is required by a
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+subpoena, warrant, or other judicial or administrative order or otherwise required by law. Additionally,
+we may disclose Personal Information where we, in good faith, deem it appropriate or necessary to
+prevent violation of our Terms of Use or End User License Agreements, or our other agreements; take
+precautions against liability; protect our rights, property, or safety, or those of a partner, any individual
+or the general public; maintain and protect the security and integrity of our Sites and/or Services or
+infrastructure; protect ourselves and our Sites and/or Services from fraudulent, abusive, or unlawful
+uses; investigate and defend ourselves against third party claims or allegations; or assist government
+regulatory agencies.
+Change of Ownership
+Information about our users, including Personal Information, may be disclosed as part of any
+bankruptcy, merger, sale, transfer of company assets, acquisition, or similar transaction. In the event of
+such a transaction in which your Personal Information would be transferred to a third party, we will
+make reasonable efforts to notify you. For example, we will post a notice of the transfer of Personal
+Information on our Sites and/or Services and, if we have your email address, we will send notice of the
+transfer of Personal Information to that email address.
+Interactive Features
+If you use a forum, blog, channel, bulletin board, chat room, user commenting features, or other
+interactive sharing or social features that may be offered through any of our Sites and/or Services, you
+should be aware that any Personal Information you submit, display, or publish there is considered
+publicly available and can be read, collected, used, and disclosed by other users of those features, by
+us, and other third parties without restriction, except to the extent limited access features are available,
+if any. To request removal of your personal information from our blog, sharing service or community
+forum, for example, contact us at the information provided in this Policy. In some cases, we may not be
+able to remove your Personal Information, in which case we will let you know if we are unable to do so
+and why.
+4. Children Under 13
+We do not explicitly or knowingly seek or collect Personal Information from users under the age of 13.
+(See the [U.S.] Children’s Online Privacy Protection Act.) Children under 13 years old are not allowed
+to create an account without a parent’s or guardian's express consent. We recommend that minors over
+the age of 13 ask their parents for permission before sending any information about themselves to
+anyone over the Internet.
+Continued use of the Site and/or Service by users under 13 years of age will be considered by UBot as
+confirmation that your parent or guardian has expressly consented to the handling of your personal
+information as described in this Policy as further indicated in the opening paragraph of this Policy.
+5. Your Choices
+Submitting Personal Information
+If you do not want to submit Personal Information that is necessary to provide or use our Sites and/or
+Services or to fulfill your request, you will not be able to access and/or participate in certain UBot Sites
+and/or Services. For example, you will not be able to register for an account with us or participate in
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
+certain promotions, or access and/or use certain UBot product features or online services. In addition,
+your refusal to submit Personal Information may limit our ability to respond to your customer support
+inquiry in a timely fashion.
+Editing Personal Information
+You may, at any time, update, correct, or delete certain Personal Information that you have provided to
+us by updating your preferences on the Account Settings page or by contacting us at the mailing or
+email address provided set forth in this Policy.
+Marketing Choices
+If you want to remove yourself from individual communications, please email us directly at:
+support@ubotstudio.com.
+You also acknowledge and agree that there may be instances where we may elect to notify you about
+administrative notices regarding your account with us, such as to inform you about changes to our
+terms, conditions, and policies, that your account may be expiring, or to provide you with other
+relevant administrative information about your account. Because this information is important to your
+interaction with us, you may not opt out of receiving these communications.
+Account Deletion
+If you submit Personal Information, you may delete your account with us at any time. If you delete
+your account, your Personal Information and any and all other account related information including,
+but not limited to, user profile data, purchasing history, sharing data and any other data, credits, or
+content specifically associated with your account are also permanently deleted. Deletion of your data
+may take up to 30 days from accessible systems and up to 90 days from backup systems. If you choose
+to have an account with us in the future, you will have to sign up for a new account as none of the
+information you previously provided or saved within your account will have been saved.
+6. Security
+We take reasonable measures, including the implementation and maintenance of physical, electronic,
+and managerial procedures, in an effort to assure the security, integrity, and accuracy of all Personal
+Information that we collect. Our efforts include procedures designed to avoid unauthorized access,
+alteration, misuse or disclosure of Personal Information.
+If we learn of a security systems breach, we may attempt to notify you electronically so that you can
+take appropriate protective steps. By using the UBot Sites and/or Services covered by this Policy and
+providing Personal Information to us, you agree that we can communicate with you electronically
+regarding security, privacy and administrative issues relating to your account information and usage.
+7. Data Integrity and Data Retention
+We collect and use Personal Information in accordance with this Policy and only for the purposes stated
+in this Policy and/or at the time we request such Personal Information from our users, or for such
+purposes to which a user may otherwise consent. We do not use or share our users' Personal
+Information in a way that is incompatible with the purposes for which such Personal Information was
 
-Consumers can access this information by e-mail us at the above address.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site.
+requested and authorized for use by us. We retain Personal Information for no longer than is
+commercially useful to carry out our business purposes, or as we believe may be legally required.
+When Personal Information is deleted or updated by you, it may take up to 30 days from accessible
+systems, and up to 90 days from backup systems, for us to delete such Personal Information.
+8. Access to Personal Information
+You may view, correct, or delete the Personal Information UBot stores about you. Most of your
+Personal Information may be accessed and corrected by simply logging into your account and
+accessing your profile. If you wish to obtain a report of the Personal Information UBot has about you,
+please send us a written request at the address set forth in this Policy.
+9. Third Party Services and Links
+UBot’s content, including forums contests, products, services, newsletters and communications that we
+send to our users, may contain links to content provided by third-parties.
+10. California Privacy Rights
+In addition to the rights set forth in this Privacy Policy, California Civil Code Section 1798.83 permits
+California residents who are individual consumers or users of UBot Sites and/or Services or services to
+request certain information regarding its disclosure of personal information to third parties for their
+direct marketing purposes. To make such a request, please contact us via mail or email at the address
+identified in the "Contacting Us" section.
+11. International Users & U.S.-EU Switzerland Safe Harbor
+UBot Sites and/or Services are hosted in the United States. If you utilize our Sites and/or Services from
+the European Union or Switzerland, or any other region with laws governing data collection and use
+that may differ from U.S. law, please note that you are transferring your personal data outside of those
+jurisdictions to the United States. The United States does not have the same data protection laws as the
+European Union, Switzerland and other regions. By providing Personal Information under this Policy,
+you consent to the use of your Personal Information in accordance with this Policy and the transfer of
+your Personal Information to the United States.
+The Personal Information practices set out in this Privacy Policy apply to all UBot Sites and/or
+Services, and customers worldwide. You have a right of access and to correct such data and/or Personal
+Information. To exercise these rights, or for other data privacy questions, please contact/send an email
+to support@UBotstudio.com.
+12. Changes and Updates to This Policy
+We may update this Policy from time to time. If we do, we will update the "effective date" at the top of
+the Policy. If we make material changes to how we use Personal Information, we will attempt to notify
+you of the change and to give you the opportunity to exercise choice as to how your Personal
+Information is used. We will post the updated Policy on the affected Sites and/or Service, and if we
+have your email address, we will send notice of the update to that email address.
+We encourage you to review this Policy periodically to stay informed about our collection, use and
 
-Consumers can have this information corrected by sending us e-mail at the above address.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+disclosure of Personal Information. Your continued use of our Sites and/or Services or any other
+content, products or other services covered by this Policy constitutes your agreement to this Policy and
+any updates.
+13. Enforcement
+UBot regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions
+or concerns regarding this Policy or UBot's treatment of Personal Information by contacting us through
+this Site at support@UBotstudio.com. When UBot receives a formal written complaint, it is UBot's
+policy to contact the complaining party regarding his or her concerns. UBot will cooperate with the
+appropriate regulatory authorities, including local data protection authorities, to resolve any complaints
+regarding the transfer of personal data that cannot be resolved by UBot and an individual.
+14. No Error Free Performance
+UBot Studio does not guarantee error-free performance under this Privacy Policy. UBot will use
+reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when
+UBot learns of any failure to comply with our Privacy Policy. UBot shall not be liable for any
+incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall
+be governed by the laws of the State of Colorado and the United States, to the extent applicable.
