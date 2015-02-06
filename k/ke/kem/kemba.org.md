@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625175259id_/https%3A//www.kemba.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206054101id_/https%3A//kemba.org/privacy.html) for the most accurate reproduction.*
 
 # KEMBA Privacy Policy | Central Ohio | KEMBA Financial Credit Union
 
@@ -36,6 +36,9 @@ Information we collect, as described above, may also be shared with companies th
 KEMBA does not disclose any non-public personal information about you to any other third parties except as permitted or required by law. We do not share medical or health insurance information, nor will we disclose medical information to unaffiliated third parties unless you have instructed us to do so in writing.
 
 Information about KEMBA member accounts may be reported to credit bureaus. Late payments, missed payments, or other defaults on your accounts may be reflected in your credit report.
+
+ **Notice Regarding Children's Information**  
+We respect the privacy of children and comply with the practices under the Children's Online Privacy Protection Act.  We do not knowingly collect or retain personally identifiable information from children.
 
  **Email Communications**  
 When you choose to identify yourself to KEMBA and provide an email address as an accepted communication channel, you are consenting to KEMBA using the information you provide, including personally identifying information, in accordance with this notice, unless you expressly state in the email your objection to any use(s). This may include the transmission of service communications such as welcome letters, billing reminders, technical service information and security announcements. Since general email is not secure and may be intercepted or viewed by others, you should refrain from sending confidential or private information via email.
