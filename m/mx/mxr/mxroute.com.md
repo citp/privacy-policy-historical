@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxroute.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031205413id_/http%3A//mxroute.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxroute.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206030147id_/https%3A//mxroute.com/privacy.html) for the most accurate reproduction.*
 
 # MXroute >> E-mail Hosting
 
