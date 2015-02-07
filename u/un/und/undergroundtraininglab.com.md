@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undergroundtraininglab.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630214913id_/http%3A//www.undergroundtraininglab.com/legal/terms_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergroundtraininglab.com privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207092416id_/http%3A//www.undergroundtraininglab.com/legal/terms_privacy.pdf) for the most accurate reproduction.*
 
 # 
 
