@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celtnet.org.uk privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818020121id_/http%3A//www.celtnet.org.uk/privacy/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celtnet.org.uk privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207024600id_/http%3A//www.celtnet.org.uk/privacy/terms.html) for the most accurate reproduction.*
 
 # Celtnet eZine
 
