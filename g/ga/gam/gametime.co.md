@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gametime.co privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002143345id_/http%3A//gametime.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametime.co privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207194558id_/http%3A//gametime.co/privacy) for the most accurate reproduction.*
 
 # Gametime - Privacy
 
-**GAMETIME UNITED, INC.**
+### GAMETIME UNITED, INC.
 
 **Privacy Policy**
 
