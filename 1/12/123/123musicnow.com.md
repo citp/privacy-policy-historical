@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 123musicnow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120125id_/http%3A//123musicnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123musicnow.com privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207053131id_/http%3A//123musicnow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 123 Music Now VideoZine
+# Privacy Policy - The Video Room
 
 Welcome to our website (the “Site”).
 
@@ -10,7 +10,7 @@ This statement governs our privacy policies with respect to those users of the S
 
 “Personally Identifiable Information” refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
-What Personally Identifiable Information is collected? We may collect basic user profile information (facebook, google, tumblr) from all of our registered users. 
+What Personally Identifiable Information is collected? We may collect basic user profile information (facebook, google, tumblr) from all of our registered users.
 
 What organizations are collecting the information? In addition to our direct collection of information, our third party service vendors (such as amazon, e-music, itunes etc) may collect information from customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
@@ -26,7 +26,7 @@ Personally Identifiable Information collected by 123musicnow.com is securely sto
 What choices are available to Visitors regarding collection, use and distribution of the information?  
 Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed.
 
-Are Cookies Used on the Site?  
+Are **Cookies** Used on the Site?  
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
 How does 123musicnow.com use login information?  
@@ -47,7 +47,9 @@ Visitors and Authorized Customers can change their details in their account, and
 What happens if the Privacy Policy Changes?  
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
-Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+**Links** : This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+
+_Our website may contain affiliate marketing links, which means we may get paid commission on sales of those products or services we write about. Unless stated otherwise, our editorial content is not influenced by advertisers or affiliate partnerships. This disclosure is provided in accordance with the Federal Trade Commission’s 16 CFR § 255.5:[Guides Concerning the Use of Endorsements and Testimonials in Advertising](http://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf)_
 
 Copyright 123musicnow.com , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
