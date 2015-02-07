@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemax.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921105647id_/http%3A//www.cinemax.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemax.com privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207045500id_/http%3A//www.cinemax.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Cinemax Privacy Policy
 
@@ -10,7 +10,7 @@ Your privacy is important to us. To better protect your privacy, we provide this
 
 HBO reserves the right to modify the terms and conditions of this Privacy Policy or to change, modify or otherwise alter any feature of the Service, at any time in its sole discretion. Changes may be communicated to you by making the revised Privacy Policy available for your review. If we make changes to this Privacy Policy that materially modify our rights to use your previously-collected personally identifiable information, we will notify you to obtain your consent either through an email or a prominent posting on this Service. Your continued use of the Service after the revised version is made available constitutes your agreement to the revision.
 
-In addition, please review the Service's [Terms of Use](https://web.archive.org/web/20140921105647id_/http%3A//www.cinemax.com/terms-of-use.html), which governs your use of the Service. BY USING OUR SERVICE, YOU CONSENT TO OUR PRIVACY POLICY AND TERMS OF USE AND OUR COLLECTION, USE AND SHARING OF YOUR INFORMATION AND DATA, AND OTHER ACTIVITIES, AS DESCRIBED BELOW.
+In addition, please review the Service's [Terms of Use](https://web.archive.org/web/20150207045500id_/http%3A//www.cinemax.com/terms-of-use.html), which governs your use of the Service. BY USING OUR SERVICE, YOU CONSENT TO OUR PRIVACY POLICY AND TERMS OF USE AND OUR COLLECTION, USE AND SHARING OF YOUR INFORMATION AND DATA, AND OTHER ACTIVITIES, AS DESCRIBED BELOW.
 
 1\. **The Information We Collect**
 
@@ -130,3 +130,5 @@ The resolution of any dispute, claim or controversy arising out of or relating t
 The registration features of these Services are intended for US residents. Although many of our sites can be viewed internationally, many of our computer systems are currently based in the United States. Therefore, please note that all personally identifiable information will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. 
 
 Effective Date: July 1, 2014
+
+© 2020 Home Box Office, Inc. All Rights Reserved. This website may contain mature content.   [PRIVACY POLICY](https://web.archive.org/privacy-policy.html)   [TERMS OF USE](https://web.archive.org/terms-of-use.html)
