@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupstyle.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821113554id_/http%3A//www.dressupstyle.com/help-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupstyle.com privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207050456id_/http%3A//www.dressupstyle.com/help-privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
