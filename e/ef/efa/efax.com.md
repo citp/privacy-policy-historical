@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efax.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223003027id_/http%3A//www.efax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efax.com privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207104033id_/http%3A//www2.efax.com/privacy) for the most accurate reproduction.*
 
 # eFax - Privacy Policy
 
