@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ubisoft.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020170536id_/http%3A//www.ubi.com/US/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubisoft.com privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207215427id_/https%3A//www.ubisoft.com/en-US/privacy-policy.html) for the most accurate reproduction.*
 
 # Ubisoft - Privacy Policy
 
 PRIVACY STATEMENT
-
-[](http://www.esrb.org/confirm/ubisoft-confirmation.jsp)
 
 Last updated July 10, 2013
 
@@ -14,7 +12,7 @@ Ubisoft Inc. and its subsidiaries (collectively, "Ubisoft" or "we"), respects th
 
 We reserve the right to change the provisions of the Policy at any time.  We will alert you that changes have been made by indicating on the Policy the date it was revised.  We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.  Your continued use of the Services following the posting of changes to these terms will mean you accept those changes.       
 
-This Policy and the certification seal shown on the Site confirm that Ubisoft is a member in good standing of ESRB's Privacy Certified Program . ESRB's Privacy Certified Program is designed to ensure that the Site's information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and this Site has been reviewed and certified by ESRB Privacy Certified to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB. 
+This Policy and the certification seal shown on the Site confirm that Ubisoft is a member in good standing of ESRB's Privacy Online Program . ESRB's Privacy Online Program is designed to ensure that the Site's information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and this Site has been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB. 
 
 **_TABLE OF CONTENTS_**
 
@@ -34,8 +32,6 @@ This Policy and the certification seal shown on the Site confirm that Ubisoft is
 
 A1.  As used herein, the term "personal information" means information that specifically identifies any individual (such as a name, address, telephone number, mobile number, e-mail address, or credit card number), or information about that individual that is directly linked to personally identifiable information.  Personal information does not include "aggregate information", which is data we collect about the use of the Services or about a group or category of services or users, from which individual identities or other personal information has been removed.  This Policy in no way restricts or limits our collection and use of aggregate information.  Personal information also does not include a Device Identifier (as defined below) that is not connected to personal information. 
 
-BACK TO TOP
-
 **Q2.   What types of personally identifiable information do we collect about our guests?  **
 
 A2.  We collect several types of personal information about our guests in a number of ways when you visit or use the Services:
@@ -44,7 +40,7 @@ A2.  We collect several types of personal information about our guests in a num
 
 We collect certain information from you when you voluntarily provide it, such as if you:
 
-  * Create a [Ubi.com]() account; 
+  * Create a [Ubi.com](http://www.ubi.com/) account; 
   * Apply for a beta tester position; 
   * Subscribe to one of our newsletters; 
   * Email-a-friend; 
@@ -83,8 +79,6 @@ We also may obtain certain non-personal information about you from third parties
 
 We also may supplement the information we collect about you through the Services with our information from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you.  We may combine the information we receive from these third parties with information we collect through the Services.  In those cases, we will apply this Policy to any personal information received, unless we have disclosed otherwise. 
 
-BACK TO TOP
-
 **Q3.   How is your personally identifiable information used and shared?  **
 
 A3.  We don't sell or rent your personal information to third parties without your consent. We don't require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website. 
@@ -92,7 +86,7 @@ A3.  We don't sell or rent your personal information to third parties without y
 We use personal information we collect through the Site for the purposes described in this Policy or elsewhere on the Site.  For example, we may use personal and other information we collect:
 
   * To provide the services, products or information you request and to process and complete any transactions in connection therewith; 
-  * To request feedback and to otherwise contact you about your account or your use of the Services.  For instance, if you create a [Ubi.com]() and your account is later cancelled (e.g., due to lack of activity), we may subsequently contact you to let you know that we've reactivated your account for a short period of time.  We may also use your personal information for other purposes such as "Operational Uses." For example, we may use your information to send you administrative communications either about your account with us or about features of our websites, including any future changes to this Privacy Policy;
+  * To request feedback and to otherwise contact you about your account or your use of the Services.  For instance, if you create a [Ubi.com](http://www.ubi.com/) and your account is later cancelled (e.g., due to lack of activity), we may subsequently contact you to let you know that we've reactivated your account for a short period of time.  We may also use your personal information for other purposes such as "Operational Uses." For example, we may use your information to send you administrative communications either about your account with us or about features of our websites, including any future changes to this Privacy Policy;
   * To communicate with you and respond to your emails, submissions, questions, inquiries, comments, requests, and complaints and to provide customer service.  For instance, we may use your email address to send you service announcements that tell you about updates to our Policy, changing in pricing, changes to our online service or customer support policies, and other related service changes.;
   * To personalize and improve the Site and users' experiences, to increase the functionality and user friendliness of the Site, to deliver advertisements, content, or features that match user profiles or interests, and to provide recommendations as to other advertisements, content or features that may be of interest to users; 
   * To monitor and analyze the Site usage and trends and otherwise measure the effectiveness of the Site; 
@@ -136,15 +130,11 @@ You understand that when you use the Services, any information you post in any i
 
 We are not responsible for the actions of third party service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to any such parties.  Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent. 
 
-BACK TO TOP
-
 **Q4.   What choices do you have about the collection, use, and sharing of your personally identifiable information?  **
 
 A4.  As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so by visiting your profile section or contacting us at [support.ubi.com](http://support.ubi.com/) or at [support@ubisoft.com](mailto:support@ubisoft.com). If you contact us by email, please include the name of the website you used to register and the email address you used to register with us so we can verify your request. 
 
 **_Your California Privacy Rights_** :  The following applies solely to California residents who have an established business relationship with Ubisoft.  If we collect personal information from you, we may make the personal information available to third parties for their marketing and promotional purposes.  If you decide that you do not want us to share your personal information with these companies for their marketing and promotional purposes, please send an e-mail to [support@ubisoft.com](mailto:support@ubisoft.com). In this email, state that you would like Ubisoft to not share your personal information with third parties for their marketing purposes.  You opt out request will be processed within thirty (30) days of the date of which we receive it. 
-
-BACK TO TOP
 
 **Q5.   Do we collect information for children under the age of 13?**
 
@@ -163,7 +153,11 @@ More specifically, when a Child under the age of 13 registers, (s)he must supply
 
 Certain Services are specifically designed for Children and enable Children under the age of 13 to create their own free accounts for which Ubisoft collects their username, password, date of birth (or age), country, and parent or guardian's e-mail address.  ****
 
+**
+
 Such services sometimes offer the possibility of paying for a subscription or certain game functions which enable Children to participate in more activies on the Services by making a payment.  The subscription services may also allow parents or guardians to manage their Child's account and create their own player accounts.  ****
+
+**
 
 Certain services enable Children to create personalized avatars which they can use in numerous activies in the services, including mini-games and virtual worlds.  Children may also use other functions of the Services such as "Recommend to a friend" to invite a friend to find out about the servies.  The "Recommend to a friend" functions enable Children to send their friends a single message inviting them to visit the related service.  Ubisoft will collect the first name and e-mail address of your Child (or, failing that, the e-mail address of the parent or guardian) and the e-mail address of his/her friend for the sole purpose of sending a single message.  This information is neither stored nor used for any other purpose and we do not reveal your child's e-mail address to the recipient. 
 
@@ -173,13 +167,9 @@ In all cases, use of the Services by Children must take place under the responsi
 
 IF YOU ARE A PARENT OR LEGAL GUARDIAN AND YOU GIVE YOUR PERMISSION FOR YOUR CHILD TO REGISTER FOR ONE OR OTHER OF THE SERVICES, YOU THEREBY AGREE TO THE TERMS RELATING TO USE OF THE SERVICES BY YOUR CHILD. 
 
-BACK TO TOP
-
 **Q6.   Does this privacy policy apply to other websites linked to this Site?**
 
 A6.  The services may contain links to other websites.  For instance, purchases of Virtual Currency or Virtual Items for Ubisoft Services may be transacted on a third party processors site.  Any personal information you provide on linked pages or applications is provided directly to that third party and is subject to that third party's privacy policy.  This Privacy Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to or from the Services.  We encourage you to learn about their privacy and security practices and policies before providing them with personal information. 
-
-BACK TO TOP
 
 **Q7.   What kinds of security measures do we take to safeguard your personally identifiable information?  **
 
@@ -188,8 +178,6 @@ A7.  The security and confidentiality of your personal information is extremely
 To protect the confidentiality of personal information maintained in your account, you must keep your password confidential and not disclose it to any other person.  You are responsible for all uses of the Services by any person using your password.  Please advise us immediately if you believe your password has been misused. 
 
  DESPITE OUR EFFORTS TO KEEP YOUR PERSONAL INFORMATION SECURE, NO COMPANY CAN GUARANTY THE SECURITY AND PRIVACY OF ITS SERVICES, INFORMATION AND OTHER DATA.  ACCORDINGLY, UBISOFT DISCLAIMS AND DOES NOT REPRESENT AND WARRANT THAT IT WILL BE ABLE TO MAINTAIN YOUR PRIVACY OR THE SECURITY OF ITS DATA IN REGARD TO YOUR PERSONAL INFORMATION.  OUR PRIVACY POLICIES AND PROCEDURES ARE "AS IS" AND UBISOFT MAKES NO REPRESENTATIONS AS TO THE FITNESS FOR A PARTICULAR PURPOSE OR MERCHANTABILITY. 
-
-BACK TO TOP
 
 **Q8.   How can you update your personal information and profile?  **
 
@@ -201,8 +189,6 @@ If you do not wish to receive promotional e-mails, texts, or other communication
 
 2.         When you receive an e-mail, text, or other communications from us, it will contain a link or other instruction that allows you to stop the delivery of such messages from us.  If you decide to use this opt-out method, you will no longer receive special offers, valuable coupons, new product introductions or e-newsletters from Ubisoft; however, you will continue to receive non-promotional communications from us, such as order confirmations. 
 
-BACK TO TOP
-
 **Q9.   How can you ask questions, or send us comments, about this Privacy Policy?  **
 
 A9.  If you have questions or wish to send us comments about this Privacy Policy, please send an e-mail with your questions or comments to [privacy@ubisoft.com](mailto:privacy@ubisoft.com) or write us: 
@@ -212,17 +198,15 @@ Ubisoft, Inc.Attn: Privacy Rights Administrator
 
 Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it. 
 
-Ubisoft is a licensee of the ESRB's Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>. 
+Ubisoft is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>. 
 
 ESRB
 
-Attn.: Privacy Certified Program  
+Attn.: Privacy Online Program  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
-[privacy@esrb.org](https://web.archive.org/web/20141020170536id_/http%3A//www.ubi.com/US/Info/privacy@esrb.org)
+[privacy@esrb.org](https://web.archive.org/web/20150207215427id_/https%3A//www.ubisoft.com/en-US/privacy@esrb.org)
 
 Last updated July 10, 2013
 
-BACK TO TOP
-
-Print friendly version 
+Back To Top  ****
