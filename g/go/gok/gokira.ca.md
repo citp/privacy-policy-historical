@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gokira.ca privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009093849id_/http%3A//www.gokira.ca/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gokira.ca privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207175519id_/http%3A//www.gokira.ca/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Privacy Policy- Gokira Free Classified Read Privacy Policy / Buy and Sell online for Free
 
