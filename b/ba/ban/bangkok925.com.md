@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangkok925.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209012522id_/http%3A//bangkok925.com/privacy-policy-jewelry-wholesale-information-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangkok925.com privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207032224id_/http%3A//bangkok925.com/privacy-policy-jewelry-wholesale-information-2.html) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Policy
 
