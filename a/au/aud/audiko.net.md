@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the audiko.net privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031161326id_/http%3A//audiko.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiko.net privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207164115id_/http%3A//audiko.net/privacy.html) for the most accurate reproduction.*
 
-# Terms of use Audiko
+# Privacy Policy - Free Ringtone Maker Audiko
 
 Date of Last Revision: February 14, 2014
 
