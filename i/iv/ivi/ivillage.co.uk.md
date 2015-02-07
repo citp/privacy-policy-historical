@@ -1,135 +1,181 @@
-> *The following text is extracted and transformed from the ivillage.co.uk privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203110508id_/http%3A//www.ivillage.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivillage.co.uk privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207103355id_/http%3A//www.nbcuni.com/privacy/full-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iVillage UK
+# Full Privacy Policy | NBCUniversal
 
-At iVillage Limited ("iVillage"), we take your privacy seriously. This Privacy Policy describes our privacy practices and policy regarding the collection and use of information (including personally identifiable information) made available to us through the [www.ivillage.co.uk](http://www.ivillage.co.uk/ "www.ivillage.co.uk") website (the "iVillage Site").
+This Privacy Policy describes the privacy practices of NBCUniversal Media LLC including our affiliate companies (“NBCUniversal”, “we”, “our” or “us”). You can find information about NBCUniversal, including our affiliates,[ here](https://web.archive.org/corporate/about-us/).
 
-You are, of course, free to use the majority of the iVillage Site without providing any information to us. However, to the extent that you or other users do provide or make available any information to us, that information can generally be categorized as either anonymous or personally identifiable. Anonymous information is information that cannot be traced back to a specific individual. Personally identifiable information is information from which you or another individual can be identified. This information can include your name, email, address, postcode, age, etc.
+This Privacy Policy explains how we collect, use, disclose and transfer the information you provide when you interact with us including (but not limited to) via our websites, downloadable applications, such as games, interactive TV and Mobile Apps (as defined below) that link to this policy (“online services”). This policy only applies to those online services that link to this policy. This policy also tells you how we use tracking technologies, cookies and browsing data we collect from your use of the online services, the measures we take to protect the security of the information you provide to us through the online services, and how you can contact us if you have any questions regarding the online services (including if you want to unsubscribe from our services or update your contact details).
 
-Opt In  
-When you register as a member of iVillage.co.uk or sign up for any of the services that we offer to members or other users on a subscription basis, for example, newsletters and/or email communications about news and events ("Services") you will be asked to 'opt in' to our Privacy Policy i.e. to confirm that you agree to our use of any personally identifiable information that we may collect from you or be provided with by you in connection with your use of the iVillage.co.uk Site. By 'opting-in' you agree to our use of your information in accordance with the terms of this Privacy Policy. If you do not provide your consent, you will not be able to become a member of iVillage.co.uk and/or use the Services. If you do subscribe to any of our Services you may also unsubscribe from the relevant distribution list(s) at any time. You may also withdraw your consent to our use of any other personally identifiable information that we hold on you at any time. If you wish to unsubscribe from our Services or withdraw any consent that you have previously provided to our use of your personally identifiable information, please see paragraph 12 below (Unsubscribing, Correction and Deletion of Personally Identifiable Information).
+  1. ## SCOPE AND CONSENT
 
-Our privacy policy is simple.
+When you use the online services, you are contracting with NBCUniversal. If you reside outside of the United States, NBCUniversal is your data controller. By using the online services, you expressly consent to our collection, use, disclosure, and retention of your [personal information](https://web.archive.org/privacy/full-privacy-policy/#types_of_information_do_we_collect) as described in this Privacy Policy.
 
-1\. Collection of Personally Identifiable Information  
-iVillage collects the details provided by you when you register as a member of iVillage.co.uk or sign up for any of our Services together with any personally identifiable information we learn about you through your use of the Services. For example, we may collect additional personally identifiable information through your participation in any promotions and competitions offered by us.
+  2. ## TYPES OF INFORMATION WE COLLECT
 
-We will notify our members when we make any material changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make new use of any personally identifiable information which iVillage gathered from individual members or users prior to any such change in our Privacy Policy without first obtaining the member's or user's consent for any new uses.
+Our goal is to collect and use information to deliver effective and personalized services which take your interests and preferences into account, as well as for our legitimate business needs and interests.
 
-2\. Security  
-The security of your personally identifiable information is a priority to us. Unfortunately, no security system, or system of transmitting data over the internet, can be guaranteed to be 100 per cent secure. As a result, while we strive to protect your personally identifiable information, we cannot guarantee the security of our servers, the means by which information is transmitted between your computer and our servers, or any information provided to us or to any third party through or in connection with the iVillage Site. You provide all such information at your own risk.
+There are two main types of information we collect about users of our online services that include (but are not limited to) the following:
 
-3\. Newsletter and Email Communications Subscribers  
-If you decide not to become a member of iVillage.co.uk but wish to subscribe to one or more of our newsletters or email communications services, we will need to collect your email address in order to send our newsletters and/or email communications to you. We will not use your email address for any purpose except in connection with sending you the newsletters and/or emails you have requested, maintaining our subscription and unsubscription lists, communicating with you in the event of a change in the ownership of iVillage or its business, or notifying you of changes to the iVillage Site, business practices, Terms of Service or Privacy Policy, unless (i) we are required to do so by applicable law or pursuant to a court or similar order; (ii) as deemed necessary, in iVillage's discretion, to protect the legal rights or the property of iVillage, a member or third party, or to prevent personal injury; or (iii) you have provided your consent for us to do so.
+    * **_Information that identifies you_** **:** This is commonly referred to as “personal information” and includes, for example, information that you provide to us such as your name, home address, age, gender, telephone number, e-mail address, payment information (including your credit card number), and/or photos or video footage of you; and **  
+**
+    * **_Information that relates to you, but on its own does not identify you_** _:_ Such as information about your Internet connection, the equipment you use to access our online services and information relating to your usage of those services.
 
-4\. Sensitive Personally Identifiable Information  
-It is possible that the selections you make or information that you provide when using our Services may indicate information about you that is sensitive such as the state of your health or your sexual orientation. As with all of the personally identifiable information you provide to us, you can be assured that any sensitive information you choose to supply to us will be used only in accordance with this Privacy Policy and/or applicable law.
+There are six main categories of information we collect about users of our online services users that include (but are not limited to) the following:
 
-5\. How we use the Personally Identifiable Information you provide  
-We use the personally identifiable information we collect to supply our Services to you. We may also use your contact details to communicate with you (including without limitation in the event of a change in ownership of iVillage or its business, our business practices, or our Terms of Service or Privacy Policy). Except where you have asked us not to, we may contact you by email, post, text message or telephone. We may also use your personally identifiable information to send you information, special offers, promotions, coupons and free samples whether on behalf of ourselves or our group companies or on behalf of carefully selected third parties.
+    * **_Contact/Registration information:_** for example, your telephone number or e-mail address, where you have subscribed to a service such as program updates; name, age, gender or interests when you register for an account on one of our online services; delivery address where you are buying a product or service through an online service; or your age, location or delivery address if you choose to enter a competition or sweepstake offered through the online services.
+    * **_Transaction information:_** when you order products or services through the online services, you may provide information such as your credit / debit card details and other personal information related to that transaction.
+    * **_Information that you provide on message boards and other user forums:_** including your username, images or videos. Please use caution when posting to messages boards or other forums, as information posted to these portions of the online services is public information.
+    * **_Information about your equipment:_** for example, the type and version of your device’s operating system or web browser, your device ID, and in some instances, your device’s location.
+    * **_Information about your interactions with the online services:_** for example, your Internet protocol or (IP) address, pages that you visit within the online services, gameplay data or other information collected through [Cookies and Tracking Technologies](https://web.archive.org/privacy/cookies/).
+    * **_Information that is collected from social networks and publicly available data:_** if you visit our online services on a device through which you also interact with social networks or if you interact with us through a social media function such as a plug-in (for example, a Facebook “like” button) then you may be permitting us to have on-going access to some information from your social network profile (such as your name, email address, your friend list, photos, age, gender, location, birthday, social networking ID, current city, the people/sites you follow, and so forth). If you don’t want a social network to collect the information about you as described above, or you don’t want to a social network to share it with us and other third parties, please review the privacy settings and instructions of the applicable social network before you visit and use our online services.
 
-6\. Disclosure of your Personally Identifiable Information  
-Your personally identifiable information may be passed to and used by our group companies including our parent company in the United States and to our third party partners and service providers in connection with providing services to you over the iVillage Site, delivering or making the Services available to you and/or in association with our operation of the iVillage Site. Please note that some of our group companies and third party partners and service providers may be located overseas in countries which do not have as extensive data protection laws as in the United Kingdom.
+We may also receive other information (e.g., content viewed and information about the advertisements within the content you have been shown or may have clicked on, etc.) from your interaction with the online services. You agree that we may share your video viewing with, or obtain information about your video viewing from, analytics providers and advertising partners and third-party social media sites for two years or until you withdraw your consent. The information we have access to from the third-party services varies by service and is controlled by your privacy settings on that service and by your consent. Information that may be passed to analytics providers and advertising partners may be via cookies and tracking technologies. Please see our [Cookies and Tracking Technologies](https://web.archive.org/privacy/cookies/) page for information, including your choices in relation to these technologies. By associating an account managed by a third party with your NBCUniversal account and authorizing us to have access to this information, you agree that we may collect, use, and store information from third-party services in accordance with this Privacy Policy.
 
-We may also disclose your personally identifiable information in the following instances: (i) if we are required to do so by applicable law or pursuant to a court or similar order; (ii) as deemed necessary, in iVillage's discretion, to protect the legal rights or the property of iVillage, a member or third party, or to prevent personal injury; and/or (iii) in connection with a sale, merger, assignment, joint venture or other transfer or disposition of a portion or all of the assets or stock of iVillage or its affiliated entities (including, without limitation, in connection with any bankruptcy or similar proceedings). In addition, iVillage reserves the right to allow access to its systems to third parties providing necessary technical services when such access is required in order to provide those services and to provide your personally identifiable information to third parties who provide services on behalf of iVillage, provided that such third parties are bound by iVillage's Privacy Policy.
+  3. ## HOW WE COLLECT YOUR INFORMATION
 
-7\. Other Web Sites  
-Where we provide links to third party web sites (whether or not they are affiliated with iVillage and even if iVillage branding appears on these sites), such sites are not controlled by us and are not covered by this Privacy Policy. These links are provided for your convenience only. If you access these sites by using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy. Although where possible we endeavour to ensure that the site operators abide by our Privacy Policy, we cannot guarantee that they will and you are advised to check the privacy policy of such third parties before providing information to them.
+We collect your information when you use our online services in three main ways:
 
-8\. Cookies  
-Use of Cookies on our Site  
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the 'lifetime' of the cookie, and a value, usually a randomly generated unique number. Two types of cookies are used on this website:
+    * **_Directly from you, when you provide it to u_** ** _ **s** :_** for example, when you request products or services from us, when you register with us, respond to surveys, contact us or otherwise interact with us. Please remember that if others use devices into which you remain logged in, they may share information with us as if they were you, and they may have access to information that you have previously provided us. To protect your privacy, please log out from the online services you use from shared devices.
+    * **_Automatically, when you use our online services_** ** _ **:** _**we collect information through the use of Cookies and Other Technologies and when you download our Mobile Apps. Please see our [Cookies and Tracking Technologies](https://web.archive.org/privacy/cookies/), and [Mobile Apps](https://web.archive.org/privacy/mobile-apps/) pages for further information, including your choices in relation to the use of these technologies.
+    * **_From third parties including social networks, other online services, from publicly available records, and from our trusted business partners._** ** _ **  
+**_**
 
-session cookies - temporary cookies that remain in the cookie file of your browser until you leave the site;
+  4. ## HOW WE USE YOUR INFORMATION
 
-persistent cookies - these remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).
+We use information to:
 
-Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies.  
-Find out more about [cookies](http://redirectingat.com/?id=569X928&xs=1&url=http%3A%2F%2Fwww.allaboutcookies.org%2Fcookies%2F&sref=http%3A%2F%2Fwww.ivillage.co.uk%2Fivillageuk%2Fnetwork%2Farticles%2F0%2C%2C165080_165191-2%2C00.html)
+    * provide the services you have requested, including sweepstakes, contests or promotions;
+    * create an online services account if you have requested one;
+    * personalize the services offered by us or our affiliates, including providing personalized advertising on some online services (see options for opting-out of personalized advertising [here](https://web.archive.org/privacy/cookies/));
+    * respond to your inquiries, requests, and comments;
+    * allow you to participate in the interactive features of our online services, where you choose to do so;
+    * provide technical support for the online services;
+    * prevent fraud or potentially illegal activities (including copyright infringement) on the online services;
+    * protect the safety of users and others on the online services;
+    * enforce our online services’ terms of service;
+    * understand how online services are used so that we can continuously improve them, and the services we provide to you;
+    * send you service-related communications, including announcements and administrative messages;
+    * send you newsletters and information about products, services and promotions relating to us and/or our business partners or other organizations that we work with, in accordance with your communication preferences. Subject to legal restrictions (including consent where necessary) we may also use technology (such as Facebook Custom Audiences) to deliver advertising to you on other sites based on the email address or other personal information you provided to us or through the use of information we received from third parties. Please see [Your Rights and Choices ](http://www.nbcuni.com/privacy/full-privacy-policy/#your_rights_and_choices)for further information about how you can control these updates;
+    * if you use an NBCUniversal e-commerce website to send gifts, we may use the email addresses that you provide to send your gifts, provide other communications relating to such transaction, as well as any further communications as may be authorized by the recipients;
+    * implement social networking features you have activated; and
+    * we may combine all the information we collect or receive about you for any of the foregoing purposes.
 
-How we use cookies on our website and what information we collect
+  5. ## HOW WE SHARE YOUR INFORMATION
 
-Session cookies:
+_Information shared among NBCUniversal affiliates._
 
-    * To allow you to carry information across pages of our site and avoid having to log-in many times.  
-    * Within registration to allow you to access stored information.
+    * **_When you choose to register for an account on any NBCUniversal online service_** **:** the information you provide may be shared with NBCUniversal affiliates and used to help us better tailor our services, products and advertising to you. Note that you may be registered for different accounts with different NBCUniversal group companies or in different areas of our business. Please visit the account settings page of the applicable online service if you wish you “de-register” from your account or for more information, or e-mail [privacy@nbcuni.com](mailto:privacy@nbcuni.com).
+    * **_Information collected automatically:_** this information collected from your interaction with the online services via [Cookies and Tracking Technologies](https://web.archive.org/privacy/cookies/), which may or may not include personal information, may be shared with NBCUniversal affiliates for the purposes of research, analysis, marketing and ad-serving. For information about this and your choices see [Cookies and Tracking Technologies](https://web.archive.org/privacy/cookies/). _  
+_
 
-Persistent cookies:
+_Information shared with trusted third parties:_
 
-    * To help us recognise you as a unique visitor (just a number) when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly.  
-    * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.  
-    * Within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so.  
-    * To store registration information so that if you are a member you only have to re-enter your password (instead of all your registration information) each time you visit the site, and so that the site can recognise you as a member. We do not pass any personally identifiable information obtained by cookie use to third party advertising companies.
+    * **_Service providers or ** _business partners that_** we have retained to perform certain business-related functions on our behalf: _**Such as for research and analytics, hosting websites, fulfilling transactions, maintaining databases, administering contests, providing technology services and platforms, and processing payments. These parties are provided only with the personal information or other information they need to perform their functions and can only use and disclose that information as is necessary to perform the services on our behalf, or to comply with legal requirements. We take steps to ensure that third-party service providers will take appropriate steps to protect your personal information.
+    * **_Social Networks_** : You may interact with certain features of the online services that cause information to be published to your social networks. For example, you may click on a Facebook “like” button, which publishes to your Facebook account that you “like” one of our TV shows or movies. On pages of the online services that contain social network functionality, the social network providing the functionality may be able to collect information about you, even if you don’t use that functionality. For example, if a page within the online services contains a Facebook “like” button, Facebook may be able to collect data about your visit to that page, even if you don’t click on the “like” button. To control this sharing of information, please review the privacy policy of the relevant social network and/or log out of it before you use the online services.
+    * **_For Mobile Apps:_** In addition, in relation to [Mobile Apps](https://web.archive.org/privacy/mobile-apps/) we may share your usage and personal information with operating system, platforms providers, carriers and/or other mobile apps either operated by us or third parties. Please see our Mobile Apps section for additional detail. 
 
-Third Party Advertising  
-We use third-party advertising companies and networks to serve advertisements. These third-party advertising network providers may use web beacons (more fully described below) and cookies to help present, better target and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of web pages to determine or predict the characteristics and preferences of their audience. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, click here: <http://networkadvertising.org/consumer/opt_out.asp.>
+_Information we share with advertisers (including Targeted Advertising)_
 
-Third-party cookies:  
-Third parties serve cookies via this site. These are used for the following purposes:
+Some online services, including Mobile Apps, may be supported with advertising, and collect data to help the online services serve ads. This helps keep the cost of online services low or free.
 
-    * To serve advertisements on our site and track whether these advertisements are clicked on by users.  
-    * To control how often you are shown a particular advertisement.  
-    * To tailor content to your preferences.  
-    * To count the number of anonymous users of our site.  
-    * To aggregate anonymised information for marketing purposes.
+We may work with advertisers and third-party advertising networks, who may receive information about how you interact with advertising provided in the online service. We may also work with consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you. These third parties may view, edit or set their own tracking technologies/cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They might also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit and other information about you or your device in order to analyze and serve anonymous targeted advertising on the online services and elsewhere. For information about your choices relating to these activities, see [Cookies and Tracking Technologies](https://web.archive.org/privacy/cookies/).
 
-Use of web beacons  
-Some of our web pages may contain electronic images known as web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third-party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign. Find out more about web beacons.
+_Information shared with other parties_
 
-Disabling or enabling cookies  
-You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled.
+In addition, we may disclose your personal information collected through the online services to law enforcement agencies, government/regulatory bodies, and content protection organizations to:
 
-What can I do to manage cookies stored on my computer?  
-There are a number of ways to manage cookies. If you use different computers in different locations you will need to ensure that each browser is adjusted to suit your cookie preferences.
+    * Protect our legal rights, privacy or safety, and those of our subsidiaries, affiliates, employees, agents and contractors or other individuals;
+    * Protect the safety and security of visitors to our online services or other properties;
+    * Protect against fraud or other illegal activity or for risk management purposes;
+    * Respond to inquiries or requests from government, regulatory, law enforcement or public authorities;
+    * Permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages that we may sustain;
+    * Comply with the law including with subpoenas, search warrants, court orders, and other legal process; or
+    * Enforce applicable terms of service
 
-You can easily delete any cookies that have been installed in the cookie folder of your browser. For example, if you are using Microsoft Windows Explorer:
+_Sale or transfer of all or part of our business or assets_
 
-    * Open 'Windows Explorer'  
-    * Click on the 'Search' button on the tool bar  
-    * Type 'cookie' into the search box for 'Folders and Files'  
-    * Select 'My Computer' in the 'Look In' box  
-    * Click 'Search Now'  
-    * Double click on the folders that are found  
-    * 'Select' any cookie file  
-    * Hit the 'Delete' button on your keyboard
+We reserve the right to transfer your usage information and personal information in the event we sell or transfer all or a part of our business or assets so that the buyer can continue to offer you the online services. We will make commercially reasonable efforts to provide you with reasonable notice of such transfer, or as otherwise required by law. If you do not want your personal information to be processed following such a transfer, you should contact the subsequent owner of the business.
 
-If you are not using Microsoft Windows Explorer, then you should select 'cookies' in the 'Help' function for information on where to find your cookie folder.
+  6. ## CHILDREN
 
-What can I do to stop cookies being installed on my browser?
+    * Except where otherwise indicated we do not knowingly collect or store any personal information from children under the age of 13. We use an age-gate to make certain features unavailable for use by children under 13, and we do not knowingly collect personal information from children under 13 in connection with those features. Where required, we will provide notice to and obtain verifiable consent from parents or guardians for the collection of personal information from children under 13, and provide parents or guardians the ability to request access to personal information we have collected from their children. We encourage parents and guardians to spend time with their children online and to be fully familiar with the online services used by their children. If a parent or guardian becomes aware that his or her child under 13 has provided us with information without his or her consent, he or she should contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com). As required by law, we will delete such information from our files within a reasonable time.
+    * For certain websites covered by this Privacy Policy and involved in e-commerce (for example, [www.fandango.com](http://www.fandango.com/)), you may only be able to use that site and any related services if you are 18 years of age or older, or the age of majority in your jurisdiction of residence, whichever is older. If you are under the age of 18 or the age of majority in your jurisdiction of residence, you may only use that site and any related services with the involvement of a parent or legal guardian.
 
-All web browsers enable you to set your cookie preferences before you start surfing.  
-Netscape Navigator 3.0  
-Internet Explorer 3.0  
-Netscape 4.0+  
-Internet Explorer 4.0  
-Internet Explorer 5.0+  
-Netscape 6.0+
+California minors under 18 years old may request the removal of any information that they posted to NBCUniversal sites by contacting [privacy@nbcuni.com](mailto:privacy@nbcuni.com). Upon such request, NBCUniversal will anonymize or remove from public view any content posted by a minor to one of its websites, unless required by law to retain such content or information.
 
-Some modern browsers have a feature that will analyse website privacy policies and allow a user to control their privacy needs. These are known as 'P3P' features (Privacy Preferences Platform). Find further information on P3P. If your browser is P3P enabled or you use any similar browser technology, it is possible to set it so that you can choose which cookies to accept or reject. However, P3P and similar technologies may also generate 'compact' or summary privacy policies in machine readable form (for your browser) and/or human readable form (for you). Since, by definition, a summary cannot be comprehensive you should note that our Privacy Policy is the sole authorized statement of our practices with respect to the online collection of personally identifiable information and the use of such information. Any summaries of this policy generated by third party software (such as P3P) or otherwise shall have no legal effect, are in no way binding upon us, neither supersede nor modify this Privacy Policy and shall not be relied upon in substitute for this Privacy Policy.
+  7. ## HOW WE PROTECT YOUR INFORMATION
 
-9\. Bulletin Boards, Chat Rooms and Other Public Forums  
-Please note that our bulletin boards, chat rooms and other public forums are open to the public and if you choose to disclose personally identifiable information in these areas you are consenting to its unrestricted distribution in a public forum throughout iVillage.co.uk and to and by other iVillage.co.uk members. We therefore cannot be responsible for the protection or security of such information, regardless of its sensitivity. You disclose all such information on our bulletin boards or in our chat rooms or other public forums entirely at your own risk.
+We maintain procedural, technical and physical safeguards for our online services to help protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the personal information you provide via our online services. We also ask the service providers that help us deliver our online services to so the same. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our online services. Unfortunately, no transmission of data is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. Therefore, any transmission of personal information to us is made at your own risk. If you believe that your interaction with us is no longer secure, please notify us using the contact details below.
 
-10\. Third Party Personally Identifiable Information  
-You must not disclose personally identifiable information relating to any third party on our bulletin boards or in our chat rooms or other public forums or in conjunction with any Service (for example, when using our postcard service) unless you have their express consent to do so.
+_Usernames & Passwords_
 
-11\. General  
-Your personally identifiable information will be held and used by us in accordance with this Privacy Policy and UK data protection legislation. You have a right to access the personally identifiable information that is held about you. To obtain a copy of the personally identifiable information iVillage holds about you please write to the address below enclosing your name, address, and a cheque for £10 payable to iVillage Limited - Access Right.
+It is important that you protect and maintain the security of any account and that you notify us immediately of any unauthorized use of any NBCUniversal account. Do not disclose your password to anyone else.
 
-By using the iVillage Site, you confirm your agreement to the terms and conditions of this Privacy Policy and our Terms of Service, incorporated herein by this reference. If you do not agree to this Privacy Policy, please do not use the iVillage Site and do not register for any of the Services. Subject to the provisions above regarding material changes to this Privacy Policy, which we will notify you of, we may change this Privacy Policy from time to time without notice (including, without limitation, on the introduction of new services to our users which affect our privacy practices). Any such change will take effect once the revised privacy policy is available on the iVillage.co.uk home page. You will be bound by any such changes to the Privacy Policy. Therefore, we ask that you bookmark and periodically review this page to ensure your continuing familiarity with the most current version of our Privacy Policy. Your continued use of the iVillage Site following such changes to this Privacy Policy means you accept those changes. You can determine when this policy was last revised by checking the "Last Revised" legend at the top of this Privacy Policy.
+  8. ## YOUR RIGHTS AND CHOICES
 
-12\. Unsubscribing, Correction and Deletion of Personally Identifiable Information  
-If you would like to have your personally identifiable information on our database amended or deleted, please contact us at <http://www.ivillage.co.uk/feedback>, and we will use commercially reasonable efforts to comply with your request in accordance with the provisions of this Privacy Policy. (We may need to contact you or verify who you are in order to be sure that we are deleting or changing the appropriate information).
+_Communication Preferences and Opt-outs_
 
-To unsubscribe from Newsletters click here
+If you have subscribed to one or more of our email newsletters or are receiving them from us and you don’t want them anymore, you can unsubscribe. Select the “unsubscribe” link at the bottom of any message, by other means provided to unsubscribe, or using the contact details below, to unsubscribe from marketing and promotional e-mails and associated marketing delivered to you on third party services based on your subscription data. However, you cannot unsubscribe from some service related messages.
 
-To unsubscribe from email marketing communications click here
+_Mobile Apps_
 
-To unsubscribe altogether from our database, please contact [ukcustomerservice@mail.ivillage.com](mailto:ukcustomerservice@mail.ivillage.com)
+For additional information about your choices in relation to Mobile Apps including information on how to opt out of targeted advertising see the [Mobile Apps policy](https://web.archive.org/privacy/mobile-apps/).
 
-When requesting that personally identifiable information be amended or deleted, please keep in mind that there will be residual information that will remain within our databases, access logs and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes. However, we may use that information, from time to time, to recontact former members or visitors to the iVillage Site in certain limited circumstances - for instance, if required to do so by law.
+_Advertising/Cookies and Similar Technologies_
 
-13\. Queries If you have any queries about this privacy policy, please write to us at [www.ivillage.co.uk/feedback](http://www.ivillage.co.uk/feedback "www.ivillage.co.uk/feedback") or write to us at iVillage Ltd., Prospect House, 80-110 New Oxford Street, London WC1A 1HB..
+For more information about your choices for cookies and similar technology (“Cookies and Tracking Technology”) including where such technology is used to provide targeted or other advertising on our online services please see our [Cookies and Tracking Technologies](https://web.archive.org/privacy/cookies/) policy.
 
-Please see the full text of our [Terms of Service](https://web.archive.org/terms-service/74063)  
- 
+_Access and Correction_
+
+In addition to the functionality provided to you via the online services (such as using “account settings” for registered users), where legally required we provide online visitors with access to their personal information and the ability to review, update and correct it.
+
+Some access requests may be subject to a small fee. To help your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to your personal information. Please contact [privacy@nbcuni.com](mailto:privacy@nbcuni.com) for more information about exercising these rights.
+
+_Data Retention and Deletion_
+
+We will retain your data for as long as you use the online services and for a reasonable time thereafter. If you’d like to delete, modify or update the data that you provided via the online services please use the settings on the online services or contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com) and we will respond in a reasonable time. Please note that some or all of this data may be required in order for the online services to function properly, and we may be required to retain certain information by law.
+
+  9. ## WHERE YOUR INFORMATION WILL BE USED
+
+NBCUniversal is based in the United States and may from time to time transfer your personal information to other countries and make it accessible to any of our affiliates and third-party service providers internationally. Where the transfer of information is to a country which does not provide an adequate level of information protection, NBCUniversal has taken steps to ensure that your personal information receives an appropriate level of protection.
+
+If you are located outside of the United States, please be aware that information we collect, including personal information, may be transferred to, and processed, stored and used in the United States. Under United States law, your personal information may be subject to access requests from governments, courts, or law enforcement in the United States.
+
+By using our online services and providing your personal information to us you understand and agree that your personal information may be sent to other countries including those which do not provide an equivalent level of information protection as the European Economic Area (EEA).
+
+  10. ## COOKIES AND OTHER TECHNOLOGIES 
+
+For more information about the use of cookies and other technology on our online services (including your opt-out choices) please see the [Cookies and Tracking Technologies](https://web.archive.org/privacy/cookies/) policy. Through our Cookies and Tracking Technologies policy, we provide opt-out choices. The effect of an opt-out will be to stop targeted advertising, but it will still allow the collection of usage data for certain purposes (e.g., research, analytics and internal online services operation purposes).
+
+  11. ## MOBILE APPS
+
+For more information about our information collection and use practices with respect to online services that are mobile applications (“Mobile Apps”) see the [Mobile Apps](https://web.archive.org/privacy/mobile-apps/) policy.
+
+  12. ## IMPORTANT INFORMATION
+
+**_Notice to California Residents:_**
+
+Residents of the State of California may request a list of all third parties to which our online service has disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and want such a list, please contact us at Chief Privacy Officer, 100 Universal City Plaza, 1280, Universal City, California, 91608-1002, US. For all requests, you must put the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide enough information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how NBCUniversal responds to “Do Not Track” browser settings. NBCUniversal does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+**_Links to Other Websites:_**
+
+The online services may contain links to third-party websites for your convenience and / or information (for example, to sites which are provided by our third-party vendors). If you access other websites using the links provided, you may leave NBCUniversal’s online services. When you access these other sites, even ones that may contain the NBCUniversal logo, please understand that the operators of these websites may collect information from you which will be used by them in accordance with their Privacy Policy and Terms of Use, which may differ from ours and we do not endorse or control the policies or practices of that website.
+
+You should always read the Privacy Policy of any website you access carefully in order to understand their specific privacy and information usage practices.
+
+  13. ## UPDATES TO OUR PRIVACY POLICY
+
+From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make material revisions to the way we collect or use your personal information so that we are using it for purposes or sharing data with third parties that you have not consented to, we will provide you with notice of those changes and may do so by either: (1) announcing the change on the home page of our website or (2) taking other actions as we deem appropriate under the circumstances, including without limitation, posting the revised version of this Privacy Policy online. You agree that we may notify you about material changes in the way we treat personal information by placing a notice on our online services. You should check our online services frequently for updates.
+
+You can determine when this Privacy Policy was last revised by referring to the “Last Updated” or similar legend at the top of this page. Any changes to this Privacy Policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through this site. By continuing to use this online service following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using our online services.
+
+  14. ## CONTACT US
+
+For any queries in relation to this Privacy Policy please contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com) or Chief Privacy Officer, NBCUniversal Compliance Department, 100 Universal City Plaza, 1280, Universal City, California, 91608-1002, US.
+
+For enquiries from outside of the US please contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com) or Chief Privacy Officer, Central Saint Giles, St Giles High Street, London, WC2H 8NU, UK.
+
+
+
