@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shrta.com privacy policy that was archived on 2014-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140117044145id_/http%3A//shrta.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrta.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208190439id_/http%3A//shrta.com/privacy.php) for the most accurate reproduction.*
 
-# Free File Hosting with Shrta - About Us
+# CalaBox.Com - muliupload files to muliple hosts - About Us
 
  
 
@@ -8,7 +8,7 @@
 
 **Privacy Policy for shrta.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at: shrta.com [at] gmail.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at: ygnnb [at] yahoo.com. 
 
 At shrta.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by shrta.com and how it is used.
 
@@ -35,7 +35,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://shrta.com 
 
-shrta.com@gmail.com  
+ygnnb [at] yahoo.com  
 
 
   
