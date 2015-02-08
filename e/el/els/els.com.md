@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the els.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606040847id_/http%3A//www.els.edu/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the els.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208145834id_/http%3A//www.els.edu/PrivacyPolicy) for the most accurate reproduction.*
 
 # ELS | ELS Privacy Policy
 
