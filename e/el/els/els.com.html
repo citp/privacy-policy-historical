@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the els.com privacy policy that was archived on 2014-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140606040847id_/http%3A//www.els.edu/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the els.com privacy policy that was archived on 2015-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150208145834id_/http%3A//www.els.edu/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -34,6 +34,9 @@
     <!-- Global Includes End-->
 
     
+    <script type="text/javascript" src="/assets/js/tasks.js"></script>
+    
+    
 		<meta name="viewport" id="viewport" content="width=1060, initial-scale=1, maximum-scale=1">
     
     
@@ -54,59 +57,18 @@
 </head>
 <body id="interior" class="contact">
     
+    <div id="promo"></div>
+    
+   
 
-	<script type="text/javascript">
-	    $(function () {
-	        var hidePromo = navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(Android)/i);
-	        if (hidePromo) {
-	            $('#promo').css('display', 'none');
-	        }
-	        else {
-	            $promo = $('#promo');
-	            $promo.find('.control').click(function () {
-	                if ($promo.hasClass('opened')) {
-	                    $promo.removeClass('opened').animate({ 'height': '72px' }).find('.opened').hide().prev('.closed').fadeIn(400);
 
-	                } else {
-	                    $promo.addClass('opened').animate({ 'height': '272px' }).find('.closed').hide().next('.opened').fadeIn(400);
-	                }
-	            });
-	            var $ramdomArr = $('#promo .closed h2'),
-				ramdomArrLength = $ramdomArr.length,
-				randNum = Math.floor(Math.random() * ramdomArrLength + 1);
-	            $ramdomArr.eq(randNum - 1).show();
-	        }
-	    });
-	</script>
-	<div id="promo">
-        <div class="closed">
-            <div class="container">
-                <div class="control"></div>
-                <h2>Start your journey with English Idioms of the Day</h2>
-                <h2>Save and share program details</h2>
-                <h2>ELS Counselors help you attain your English and academic goals</h2>
-                <h2>Start your plan for success with our online application</h2>
-                <h2>Your pathway to English language university study</h2>
-                <h2>Find the best destination for you, your interests and your goals</h2>
-            </div>
-        </div><!-- .closed-->
-        <div class="opened">
-            <div class="container">
-                <div class="control"></div>
-                <h2>Get the MyELS Mobile App today!</h2>
-                
-                <a href="https://itunes.apple.com/us/app/myels-tools-to-study-abroad/id596899286?mt=8" class="download itunes" target="_blank"></a>
-                <a href="https://play.google.com/store/apps/details?id=com.els.myels" class="download google" target="_blank"></a>
-                <a href="/en/Apps" class="download website"></a>
-            </div>
-        </div><!-- .opened-->
-	</div>
+    
     <div id="container">
         
         <div id="header">
             
-
 <a href="/en"><img id="logo" src="/assets/img/global/els-logo-white.png" alt="ELS Educational Services, Inc." title="ELS Educational Services, Inc."></a>
+
 <img id="logo-print" src="/assets/img/global/els-logo-print.png" alt="ELS Educational Services, Inc." title="ELS Educational Services, Inc.">
 
 
@@ -361,7 +323,7 @@ Princeton, NJ 08540-6306</p>
             <li><a href="/en/EnglishPrograms/TestPrep">Take an ELS Prep Course</a></li>
             <li><a href="/en/EnglishPrograms/PAT">Take an ELS Pre-Arrival Test</a></li>
             <li><a href="/en/ELSCenters/International">Learn English Outside the US</a></li>
-            <li><a href="/en/EnglishPrograms/Program?prgm=CEL-TeacherTraining-Celta">Teacher Training</a></li>
+            <li><a href="/en/EnglishPrograms/TeacherTraining">Teacher Training</a></li>
         </ul>
 
         <ul class="language">
@@ -398,11 +360,12 @@ Princeton, NJ 08540-6306</p>
         <img src="/assets/img/accreditation/CANADA.png" alt="Languages Canada" border="0">&nbsp;&nbsp;&nbsp;
         <img src="/assets/img/accreditation/NAFSA.png" alt="NAFSA - Association of International Educators" border="0">&nbsp;&nbsp;&nbsp;
         <!--<img src="/assets/img/accreditation/TESOL.png" alt="TESOL - Teachers of English to Speakers of Other Languges" border="0" /></a></p>-->
-        <div style="margin-left:345px;"><img src="/assets/img/accreditation/AIRC2.png" alt="AIRC - American International Recruitment Council" border="0"></div>
+        <div style="margin-left:345px;"><img src="/assets/img/accreditation/AIRC2.png" alt="AIRC - American International Recruitment Council" border="0"></div></a>
         <div style="font-size:14px;">Universal Education Centre Pty. Ltd. CRICOS Code: 00053J</div><br>
         <div style="font-size:14px; margin-top:-15px;">ELS Educational Services Australia Pty. Ltd. CRICOS 03357B</div><br>
         
-        </a><p><a href="/AboutELS/#accreditation" target="_self">© Copyright 2014 ELS Educational Services, Inc., a </a><a href="http://www.berlitz.com" target="_blank">Berlitz company</a></p>
+            <p>© Copyright 2015 ELS Educational Services, Inc., a <a href="http://www.berlitz.com" target="_blank">Berlitz company</a></p>
+        
 	</div>
 </div><!--end footer-->
 <div id="fb-root"></div>
@@ -451,6 +414,21 @@ Princeton, NJ 08540-6306</p>
         })(window, document, 'script', 'dataLayer', 'GTM-KTNC8G');</script>
     <!-- End Google Tag Manager -->
 
+    <!-- Google Code for Remarketing Tag -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1026443864;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1026443864/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript>
 
 	<script type="text/javascript">
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -459,6 +437,7 @@ Princeton, NJ 08540-6306</p>
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
       ga('create', 'UA-1623609-1', 'els.edu');
+      ga('require', 'displayfeatures');
       ga('send', 'pageview');
 </script>
 
@@ -512,34 +491,7 @@ Princeton, NJ 08540-6306</p>
 <noscript><div><img src="//mc.yandex.ru/watch/20731999" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-<form action="/en/ContactUs/SendShare" id="share-page" method="post"> 
-<input type="hidden" id="url" name="url">
-<div id="email" class="modal small">
-	<div class="top">
-        <a class="close"></a>
-        <h3>Email this Page</h3>
-    </div><!-- .top-->
-    <div class="content selfclear">
-    <p>Enter your email address and your friend's email address, then click the Send button. No personal information including e-mail addresses about you or the recipient will be collected from this email notification.</p>
-    <div class="form-item">
-        <input id="remail" name="remail" type="text" value="Recipient’s Email" class="text" onfocus="if (this.value=='Recipient’s Email') this.value='';" onblur="if (this.value=='') this.value='Recipient’s Email';">
-        <span style="display:none; color: #CC0000;" id="remail-validate">Please enter a valid email address</span>
-    </div>
-    <div class="form-item">
-    <input id="yemail" name="yemail" type="text" value="Your Email" class="text" onfocus="if (this.value=='Your Email') this.value='';" onblur="if (this.value=='') this.value='Your Email';">
-    <span style="display:none; color: #CC0000;" id="yemail-validate">Please enter a valid email address</span>
-    </div>
-    <div class="form-item">
-    	<p>Message:</p>
-    	<textarea id="comments" name="comments" cols="" rows=""></textarea>
-    </div>
-    <div class="section bottom selfclear"> 
-        <div class="button alignright"><input type="submit" class="buttons" value="Send Message" name="send"></div>
-        <div id="share-loading"><img alt="Sending" src="/assets/img/locations/loader.gif"></div>
-    </div>
-    </div><!-- .content-->
-</div><!-- #email-->
-</form>
+
     
     <div id="background">       
         <img src="http://wp.els.edu/wp-content/uploads/2011/04/els-edu-background.jpg" alt="">
