@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heritageweb.net privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104230038id_/http%3A//heritageweb.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritageweb.net privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208105414id_/http%3A//heritageweb.net/privacy.php) for the most accurate reproduction.*
 
 # HERITAGEWEB.NET Lets Play Online Game - Privacy
 
