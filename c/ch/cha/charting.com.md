@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charting.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910220741id_/http%3A//charting.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charting.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208053921id_/http%3A//www.charting.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - charting.com
 
