@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotvmail.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025015414id_/http%3A//grasshopper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotvmail.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208203812id_/http%3A//grasshopper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Grasshopper
 
@@ -21,6 +21,8 @@ We store information that we collect through cookies, log files, clear gifs, and
 ### Cookies
 
 A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use cookies on this site.
+
+Grasshopper does not use technology that recognizes "Do Not Track" signals from your browser. You can block cookies by modifying the settings in your web browser.
 
 ### Log Files
 
@@ -53,6 +55,14 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 ### Third Party Advertisers
 
 Grasshopper DOES NOT share, sell, rent or trade Web site usage information about users. Grasshopper may share non identifiable aggregate information (but never call records or usage statistics) to partners who have signed a non-disclosure agreement for the sole purpose of establishing a partnership agreement. This data may include customer name and address.
+
+### Our Use of Banner Ads
+
+We may use third-party advertising companies to place advertisements about Grasshopper products and services on other websites. These advertising companies may use cookies, web beacons, or other technologies to measure the effectiveness of our ads. The advertising companies may use anonymous information about your visits to our and other websites in order to measure advertising effectiveness and offer selective ad content. But they use an anonymous identifier, such as a number, to identify you. They do not link to or collect any personally identifying information. The use of such cookies, web beacons, and other technologies is subject to the advertising companies' privacy policies, not the [Policy](https://web.archive.org/privacy-policy/) of Grasshopper. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by blocking cookies using your web browser settings. Please note this does not opt you out of being served advertising; you will continue to receive generic ads.
+
+### Social Media Features
+
+Our website includes Social Media Features, such as the Facebook or Twitter button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the third party company providing them.
 
 ### Service Providers
 
@@ -114,4 +124,4 @@ If users have any questions or suggestions regarding our privacy policy, please 
 Needham, MA 02494  
 [http://grasshopper.com](http://grasshopper.com/)
 
-This Privacy Policy was last updated on 1/7/10
+This Privacy Policy was last updated on 1/7/15
