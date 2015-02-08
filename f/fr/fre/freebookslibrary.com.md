@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebookslibrary.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012183050id_/http%3A//www.freebookslibrary.com/index.php%3Fmain_page%3Dpage%26id%3D18%26chapter%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebookslibrary.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208055333id_/http%3A//www.freebookslibrary.com/index.php%3Fmain_page%3Dpage%26id%3D18%26chapter%3D0) for the most accurate reproduction.*
 
 # Privacy Policy : The eBooks Library Store
 
