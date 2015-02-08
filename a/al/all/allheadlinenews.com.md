@@ -1,96 +1,114 @@
-> *The following text is extracted and transformed from the allheadlinenews.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426022849id_/http%3A//www.allheadlinenews.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allheadlinenews.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208143006id_/https%3A//www.feedsyndicate.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# AHN | FeedSyndicate | Privacy Policy
+# Privacy Policy - FeedSyndicate
 
-**Privacy and Security Policy**
+FeedSyndicate is committed to maintaining your confidence and trust with respect to the privacy of the personal information we collect from you.  Please read this privacy policy carefully to understand our practices about how we collect, use and share your personal information.
 
-Your online privacy and security is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we provide a link to it on every page of our website.
+**About our Privacy Policy**
 
-This privacy notice discloses the privacy practices of this website only.  AHN provides links to many other websites that are beyond our control.  Websites that we link to may have privacy and security policies that differ from ours. Please understand that we are not responsible, in any manner, for the privacy, security practices, or content of such websites. 
+This privacy policy describes how the personal information that is collected when you visit the FeedSyndicate website, application or product that posts a link to this privacy policy (“Service”) will be used by the  company that owns the Service (“FeedSyndicate,” “we,” “us” or “our”).  This policy may be supplemented by additional privacy terms or notices set forth on certain areas of the Service.
 
-* * *
+**Information We Collect**
 
-  **Privacy Notice Table Of Contents:**
+The Service collects information from you in two ways: directly from your input and automatically through the Service’s technologies.
 
-  * [ The Information We Collect & How We Use It](http://www.allheadlinenews.com/legal/privacypolicy.shtml#1)
-  * [ Specific Information About AHN Services](http://www.allheadlinenews.com/legal/privacypolicy.shtml#2)
-  * [ With Whom Does AHN Share Information](http://www.allheadlinenews.com/legal/privacypolicy.shtml#3)
-  * [ Notification of Changes To The Privacy Policy](http://www.allheadlinenews.com/legal/privacypolicy.shtml#4)
-  * [ Choice / Opt-Out Of Promotional and Marketing Communications](http://www.allheadlinenews.com/legal/privacypolicy.shtml#5)
-  * [ Our Commitment to Data Security](http://www.allheadlinenews.com/legal/privacypolicy.shtml#6)
-  * [ How You Can Access Or Correct Your Information](http://www.allheadlinenews.com/legal/privacypolicy.shtml#7)
-  * [ How To Contact Us](http://www.allheadlinenews.com/legal/privacypolicy.shtml#8)
+_Information You Provide_
+
+The types of personal information that the Service collects directly from you may include:
+
+  * Contact details, such as your name, email address, postal address and telephone number;
+  * Educational and professional background information;
+  * Usernames and passwords;
+  * Payment information, such as a credit or debit card number;
+  * Comments, feedback, posts and other content you submit to the Service; and
+  * Interests and communication preferences.
 
 
 
-**The Types of Information We Collect And How We Use It:**
+In order to access certain content and to make use of additional functionality and features of the Service, we ask you to register for an account by completing and submitting a registration form, which may request additional information.
 
-    **IP Addresses    
-**We use IP Addresses for statistical and system administration purposes. IP addresses are anonymously logged to track a users session. We do not link IP addresses with any personally identifiable information. This means that a users session will be logged but that user will remain anonymous to us. We can and will us IP address to identify a user when necessary to enforce our terms of service or protect our site, network, advertisers or users.
-      
-**Cookies  
-**AHN uses session cookies. This cookie does not contain any personally identifiable information about users.
-    _AHN does not **require** casual  users to accept or use browser cookies. Most web browsers will allow you the option to reject cookies or to choose which cookies to accept.  Parts of the website may not operate properly if cookies are disabled_
-      
-**Contact Information  
-**We collect contact information (like your name, address, telephone number, email address and URL) through various registration forms.  This information is used to provide you with services that you requested, contact you when necessary regarding the services, or to send you additional information regarding AHN.  You private contact information will never be sold or given to an unrelated third party without your consent.
-    **  
-Demographic Information  
-**We may occasionally collect demographic information (like your zip code, level of education..etc).
+If you choose to register and sign in by using a third party account (such as your Facebook account), the authentication of your login is handled by the third party and the Service will collect your name, email address and any other information about your third-party account that you agree to share with us at the time you give permission for your account on the Service to be linked to your third party account.
 
-> We use this information to learn more about the users and visitors of our website as well as to tailor our site to provide a positive experience for our users.
-> 
-> **Unique Identifying Information  
->  **We require users of certain services (like our newsfeeds) to select or use unique usernames and passwords for use with those services.
-> 
-> We use this information for security purposes and to prevent unauthorized use, access, alteration or misuse of your accounts and services.
-> 
-> **Financial Information  
->  **We collect financial information (like credit card and banking information) from users who order goods, products or services from us
-> 
-> We will use this information to bill and collect for the goods, products and/or services that you order. We will also use this information to confirm your registration qualifications where appropriate.
+_Information Collected Automatically_
 
-**Specific Information About AHN ****Services:**
+The Service also automatically collects, through our servers and the use of cookies (small text files sent to your computer), web beacons (also known as clear or single pixel .gifs) and other technologies, information that tells us how you use the Service, such as:
 
-> **News By Email Newswire  
->  **A user must submit their email address to receive daily news and headline updates. We use your email address to send you you the daily email newswire and to contact you regarding changes and updates to the service
-> 
-> **Newsfeed Generator / RSS XML Newsfeeds** **  
-> ** The newsfeed services allows website owners to display news headlines on their website. Users are required to complete an application that includes their names, email address, website URL.  We use this information to administer the service that we provide you.
+  * Internet Protocol (“IP”) address used to connect your computer to the Internet;
+  * Computer, device and connection information, such as browser type and version, operating system, mobile platform and unique device identifier (“UDID”) and other technical identifiers;
+  * Uniform Resource Locator (“URL”) click stream data, including date and time stamp, referring and exit URLs, search terms you used, and pages you visited or searched for on the Service; and
+  * For location-aware services, the physical location of your device in order to provide you with more relevant content for where you are in the world.
 
-**With Whom DoesAHN** **Share Information:**
 
-> AHN will not sell, share or rent your personally identifiable information to anyone, except as expressly described below:
-> 
->   * We have your express consent to share your information
->   * We need to share your information to provide you the product or service that you requested. Only you can initiate this sharing by choosing to fill-out one of our online order forms (which are clearly labeled)
->   * We believe in good faith that any applicable law, regulation, or legal process requires it.
->   * When the disclosure is necessary to protect or enforce our rights or the rights of another user.
-> 
 
-> 
-> We may share generic, aggregate and anonymous information with advertisers and affiliates
-> 
-> AHN does not control the practices of our advertisers. If you have questions about how one of our advertisers uses information about you when you click their ad and go to their content, please contact them directly. (AHN will divulge information only as necessary to comply with state and federal laws.)
+We may use and disclose information that does not reveal your identity or permit direct association with any specific individual, such as browser and device information, anonymous usage data and aggregated information, for any purpose, except where we are restricted by law.  If we combine non-personal information with personal information, the combined information will be treated as personal information for as long as it remains combined.
 
-**Notification of Changes To The Privacy Policy:**
+You can control cookies through your browser’s settings and other tools.  However, if you block certain cookies, you may not be able to register, login to the Service, access certain parts of the Service or make full use of the Service.
 
-> If at some point in the future, AHN changes the usage practices that affect any of your personally identifiable information, We will notify you by email of the changes. At the time of that message you will be able to opt-out of this information usage by sending an email message using our [ online contact form](http://www.allheadlinenews.com/corp/contact/).
+**Use of Your Information**
 
-**Our Commitment To Data Security::**
+We may use your personal information to:
 
-    To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and administrative procedures to safeguard and secure the information we collect online.
+  * Provide the Service to you, such as allow access to or delivery of our products or services, process or fulfill an order or transaction, or administer surveys or promotional programs;
+  * Respond to your requests, inquiries, comments or concerns;
+  * Provide technical, product and other support and help keep the Service working, safe and secure;
+  * Offer you customized content and individualized personalization of the Service to make it more relevant to your interests and needs;
+  * Enhance, evaluate and improve the Service, its advertisements and promotional campaigns and our products and services and to develop new products and services;
+  * Identify and analyze usage trends, including for the purposes of research, audits, reporting and paying royalties and license fees to third-party content providers;
+  * Notify you about changes or updates to the Service and our products and services; and
+  * Provide you special offers, promotions, surveys and other information about the Service as well as products, events and services of ours, our affiliates and non-affiliated third parties such as societies and sponsors.
 
-> Whenever we need to collect sensitive personal information such as credit card information that information will be encrypted and protected with the best encryption technology in the industry - Secure Sockets Layer (SSL).
-> 
-> If you have any questions about the security at AHN please use our [ online contact form](http://www.allheadlinenews.com/corp/contact/).
 
-**How You Can Access Or Correct Your Information:**
 
-    You can access all your personally identifiable information that we collect by editing your account information directly using the appropriate control panel on our website.
+We may on occasion also match or combine the personal information that you provide with information that we obtain from other sources or that is already in our records, whether collected online or offline or by predecessor or affiliated group companies, for the purposes described above.
 
-To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making changes or corrections to any of your personally identifiable information.
+**Disclosure of Your Information**
 
-**How To Contact Us:**
+We may share your personal information with:
 
-> If you have any questions about the AHN privacy commitment, the practices of this site, or your dealings with us please contact using our [ online contact form](http://www.allheadlinenews.com/corp/contact/).
+  * Relevant agents, representatives, joint venturers, and entities for which we are acting as an agent, licensee or publisher, such as societies and sponsors;
+  * Applicable suppliers and service providers, including editors, reviewers, credit card processors, customer support, email service providers, mailing houses and shipping agents, and IT service providers; and
+  * All of our affiliates, trading names and divisions within the FeedSyndicate group of companies worldwide,
+
+
+
+to assist us with producing and delivering our products and services, developing and operating our businesses, systems and applications, processing payments, customer support, marketing, promotion and communications and for other purposes set forth in this privacy policy.
+
+We also may share your personal information with our affiliated group companies worldwide and with societies, sponsors and other non-affiliated third parties that wish to send you information about their products and services that may be of interest to you as determined by your choices in managing your communications preferences following the process described below.
+
+If the Service offers a content database or learning service (“Subscription Service”) and you access the Subscription Service through an institution-sponsored subscription, your personal information and certain usage data gathered through the Subscription Service, such as the number of items you downloaded, any non-subscribed items you accessed, and test scores, may be shared with your institution for the purposes of usage analysis, subscription management, course management and testing and remediation.  If your institution is a corporation or other business entity, additional usage data, such as the types of records you viewed and the number of searches you ran, also may be shared for the purposes of cost attribution and departmental budgeting.
+
+We also may need to disclose your personal information:
+
+  * to respond to or comply with any law, regulation, subpoena, court order or other legal obligation;
+  * to enforce and protect our rights and properties;
+  * to detect, investigate and help prevent security threats, fraud or other malicious activity;
+  * to protect the rights, property or safety of our users, employees or others; and
+  * if FeedSyndicate, the Service or a related asset or line of business is acquired by, transferred to or merged with another company.
+
+
+
+The Service may let you post and share personal information, comments, materials and other content.  Any information you disclose publicly may be collected and used by others, may be indexable by search engines, and might not be able to be removed.  Please be careful when disclosing personal information in these public areas.
+
+**Your Choices and Communications Preferences**
+
+You can manage your communications preferences when you register with the Service, by updating your account preferences, by using the “opt-out” or unsubscribe mechanism or other means provided within the communications that you receive from us or by contacting us.  We reserve the right to notify you of changes or updates to the Service whenever necessary.
+
+**Access to and Accuracy of Your Information**
+
+The Service may allow registered users to access their account information and make corrections or updates upon log in at any time.  The accuracy of such information is solely the responsibility of the user.  You may also request access to other personal information about you that may be held in the Service.  If you request to deactivate your account or delete your personal information, we will endeavor to fulfill your request but some personal information may persist in backup copies for a certain period of time and may be retained as necessary for legitimate business purposes or to comply with our legal obligations.
+
+**Data Security**
+
+FeedSyndicate takes precautions to safeguard your personal information against loss, theft and misuse and unauthorized access, disclosure, alteration and destruction through the use of appropriate administrative, physical and technical security measures.
+
+**Cross-Border Transfer of Your Information**
+
+Your personal information may be transferred to other countries for processing.  By using the Service you consent to the transfer of information to countries outside of your country of residence, which may have different personal data protection rules than in your country.
+
+**Changes to Our Privacy Policy**
+
+We may change this privacy policy from time to time.  Any changes will be posted on this page with an updated revision date.
+
+**Contact**
+
+If you have any questions, comments or requests regarding this privacy policy or our processing of your information, please contact: privacy@feedsyndicate.com
