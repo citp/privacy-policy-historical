@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entainmentworld.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912160700id_/http%3A//entainmentworld.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entainmentworld.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208195936id_/http%3A//entainmentworld.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
