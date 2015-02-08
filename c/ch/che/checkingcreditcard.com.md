@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkingcreditcard.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208230628id_/http%3A//checkingcreditcard.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkingcreditcard.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208013008id_/http%3A//checkingcreditcard.com/private-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Checking Credit Card
 
