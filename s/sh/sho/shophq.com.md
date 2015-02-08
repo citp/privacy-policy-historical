@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shophq.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125194221id_/http%3A//www.shophq.com/p/help/shophq/privacy.aspx%3Fcm_re%3Dgft-_-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shophq.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209000523id_/http%3A//www.shophq.com/p/help/shophq/privacy.aspx%3Fcm_re%3Dgft-_-privacy) for the most accurate reproduction.*
 
 # ShopHQ Privacy Statement
 
