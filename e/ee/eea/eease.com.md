@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eease.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911102404id_/http%3A//eease.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eease.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210005304id_/http%3A//eease.com/about/privacy.php) for the most accurate reproduction.*
 
 # Your Privacy
 
