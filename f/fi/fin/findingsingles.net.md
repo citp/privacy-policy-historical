@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findingsingles.net privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031032644id_/http%3A//www.findingsingles.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findingsingles.net privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210001551id_/http%3A//findingsingles.net/privacy) for the most accurate reproduction.*
 
 # Finding Singles
 
