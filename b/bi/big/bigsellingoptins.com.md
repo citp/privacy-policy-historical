@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigsellingoptins.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123003935id_/http%3A//bigsellingoptins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigsellingoptins.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209025138id_/http%3A//bigsellingoptins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internet Marketing & SEO
 
