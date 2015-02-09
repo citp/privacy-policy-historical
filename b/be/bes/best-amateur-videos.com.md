@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-amateur-videos.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103093644id_/http%3A//www.ccbill.com/cs/policies/PP-consumer-english.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-amateur-videos.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209134142id_/http%3A//www.ccbill.com/cs/policies/PP-consumer-english.html) for the most accurate reproduction.*
 
 # CCBill Consumer Privacy Policy
 
