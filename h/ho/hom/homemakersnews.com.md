@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemakersnews.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030034502id_/http%3A//homemakersnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemakersnews.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209203527id_/http%3A//homemakersnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | HomemakersNews.com
 
