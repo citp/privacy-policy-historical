@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyflightgames.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120135444id_/http%3A//www.fantasyflightgames.com/edge_privacidad.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyflightgames.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210004832id_/http%3A//www.fantasyflightgames.com/edge_privacidad.asp) for the most accurate reproduction.*
 
 # Fantasy Flight Games [Privacy Policy] - Leading publisher of board, card, and roleplaying games.
 
