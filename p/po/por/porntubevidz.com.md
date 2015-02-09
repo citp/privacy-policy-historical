@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porntubevidz.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094946id_/http%3A//www.porntubevidz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntubevidz.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209221308id_/http%3A//www.porntubevidz.com/privacy.php) for the most accurate reproduction.*
 
 # Porn Tube Vidz - Privacy Policy
 
