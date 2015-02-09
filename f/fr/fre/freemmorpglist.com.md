@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemmorpglist.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703131408id_/http%3A//www.mmognet.com/privacy.php%3Fdomini%3DRlJFRU1NT1JQR0xpc3QuQ29t) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemmorpglist.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209181647id_/http%3A//www.mmognet.com/privacy.php%3Fdomini%3DRlJFRU1NT1JQR0xpc3QuQ29t) for the most accurate reproduction.*
 
 # Privacy.
 
@@ -68,7 +68,7 @@ In isolated cases we employ subsidiary companies parent companies or third parti
 
 Right of revocation and data deletion 
 
-If you have given us your consent for the processing of your personal data you may revoke it at any time. Bigpoint deletes your personal data as far as these are no longer needed or if you have requested it. Note that data can not be deleted when there are duties of conservation or even when we need them for the collection of our services. 
+If you have given us your consent for the processing of your personal data you may revoke it at any time. Online Ocigrup SL deletes your personal data as far as these are no longer needed or if you have requested it. Note that data can not be deleted when there are duties of conservation or even when we need them for the collection of our services. 
 
 Information, data verification and elimination 
 
