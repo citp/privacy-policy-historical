@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogvacay.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914174834id_/http%3A//dogvacay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogvacay.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209095900id_/http%3A//dogvacay.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | DogVacay
 
@@ -6,7 +6,7 @@
 
 **_Privacy Policy_**
 
-Dog Vacay, Inc. (hereafter referred to as "DogVacay" or "DogVacay.com") respects your privacy. Because we gather important information from our users, visitors, subscribers and customers (collectively "you" or "your"), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. By accessing or using Dogvacay.com (the "Site") or any of our mobile applications or services (the Site, and such applications and services, collectively, "Services"), you acknowledge and agree to this Privacy Policy and also agree to the Terms of Service located at [www.dogvacay.com/terms](https://web.archive.org/web/20140914174834id_/http%3A//dogvacay.com/www.dogvacay.com/terms). We may share information with or among our affiliates or sites that we own or control, but such sharing of information is always governed under the terms of this Privacy Policy. 
+Dog Vacay, Inc. (hereafter referred to as "DogVacay" or "DogVacay.com") respects your privacy. Because we gather important information from our users, visitors, subscribers and customers (collectively "you" or "your"), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. By accessing or using Dogvacay.com (the "Site") or any of our mobile applications or services (the Site, and such applications and services, collectively, "Services"), you acknowledge and agree to this Privacy Policy and also agree to the Terms of Service located at [www.dogvacay.com/terms](https://www.dogvacay.com/terms). We may share information with or among our affiliates or sites that we own or control, but such sharing of information is always governed under the terms of this Privacy Policy. 
 
 Our primary goals in collecting information are to provide and improve our Services, and to enable users to enjoy the Services. When you create an account we will set up a DogVacay profile for you. The profile will generally contain your first name, last name initial, location and pet details, and may include other content or information that you provide for purposes of your profile. These profiles will be made available publicly throughout the Site. 
 
