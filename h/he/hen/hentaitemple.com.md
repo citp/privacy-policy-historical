@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaitemple.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123035219id_/http%3A//www.hentaitemple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaitemple.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209213324id_/http%3A//www.hentaitemple.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
