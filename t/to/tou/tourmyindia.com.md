@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourmyindia.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701105506id_/https%3A//www.tourmyindia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourmyindia.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209185245id_/https%3A//www.tourmyindia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Tour My India
 
@@ -10,7 +10,7 @@ TourMyIndia.com respects your privacy and recognizes the need to protect the per
 
 Some of our web pages use "cookies" so that we can better serve you with customized information when you return to our site. Cookies are identifiers which a web site can send to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the option to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you. 
 
-There are times when we may collect personal information from you such as name, physical address or telephone number. It is our intent to inform you before we do that and to tell you what we intend to do with the information. Generally, you will have the option not to provide the information, and in the future you will be able to "opt out" of certain uses of the information. If you choose not to provide the information we request, you can still visit our website [**http://www.tourmyindia.com**](http://www.tourmyindia.com/), but you may be unable to access certain options, offers and services.
+There are times when we may collect personal information from you such as name, physical address or telephone number. It is our intent to inform you before we do that and to tell you what we intend to do with the information. Generally, you will have the option not to provide the information, and in the future you will be able to "opt out" of certain uses of the information. If you choose not to provide the information we request, you can still visit our website [**https://www.tourmyindia.com**](https://www.tourmyindia.com/), but you may be unable to access certain options, offers and services.
 
 TourMyIndia.com will not sell, trade or disclose to third parties any information derived from the registration for, or use of, any online service (including names and addresses) without the consent of the user or customer (except as required by subpoena, search warrant, or other legal process or in the case of imminent physical harm to the user or others). Tour MY India will allow suppliers to access the information for purposes of confirming your registration and providing you with benefits you are entitled to.
 
@@ -18,6 +18,6 @@ TourMyIndia.com will take appropriate steps to protect the information you share
 
 If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. Please reference the privacy policy in your subject line. TourMyIndia.com will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
 
-Thank you for using [**http://www.tourmyindia.com/**](http://www.tourmyindia.com/)
+Thank you for using [**https://www.tourmyindia.com/**](https://www.tourmyindia.com/)
 
 . 
