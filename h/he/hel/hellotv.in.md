@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hellotv.in privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228112218id_/http%3A//hellotv.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellotv.in privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209014755id_/http%3A//hellotv.in/privacy) for the most accurate reproduction.*
 
-# Hello TV: FREE Live TV Channels Online | Videos | Movies | Mobile TV | Latest TV News Online
+# Latest News | Latest Videos | TV Channels | Free Popular Movies | South Special - HelloTV
 
 ##### HelloTV is deeply committed to protecting the privacy of Internet users
 
