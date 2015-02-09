@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freezvon.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112107id_/http%3A//freezvon.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freezvon.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209150534id_/http%3A//freezvon.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy – Policies & Principles – freezvon.com
 
@@ -39,15 +39,15 @@ However, to the extent allowed by law and any applicable standards and regulatio
 
 ### How to buy a phone number in another country?
 
-You can buy online a virtual local phone number (DID number), virtual sms number, fax number or other virtual phone service from us [HERE](http://cp.freezvon.com/shop.php).
+You can buy online a virtual local phone number (DID number), virtual sms number, fax number or other virtual phone service from us [HERE](http://cp.freezvon.com/shop.php). You can order the best VOIP DID virtual numbers services for your home and company needs, forward it to SIP and get the cheapest and the highest quality of connection right now.
 
 **We accept online payment methods** \- Paypal, Perfect Money,Visa/Master cards, Wire transfer and others payment methods.
 
 [ ](http://passport.webmoney.ru/asp/certview.asp?wmid=332418993169) [ ](http://www.interkassa.com/ "INTERKASSA") [](http://www.megastock.ru/)
 
-### Contact us
+### Contact us - Online help
 
-Call us or send us an email [**here**](http://freezvon.com/contact.html) ****
+Call us or send us an email [**here**](http://freezvon.com/contact.html). We have 24-hours support, so, you may apply to us anytime. We will be always glad to help you in choosing the best virtual number considering to your needs and are always ready to answer any of your questions.
 
 **Moscow** +7 495 22 ­ 32 622
 
