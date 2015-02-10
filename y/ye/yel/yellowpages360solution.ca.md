@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpages360solution.ca privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124164900id_/http%3A//businesscentre.yp.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages360solution.ca privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210233919id_/http%3A//businesscentre.yp.ca/privacy-policy) for the most accurate reproduction.*
 
 # Yellow Pages 360 Solution Privacy Policy
 
