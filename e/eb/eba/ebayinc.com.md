@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebayinc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075057id_/http%3A//www.ebayinc.com/content/privacy-policy%3Fprintable%3Dtrue%26notAuto%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebayinc.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210192819id_/http%3A//www.ebayinc.com/content/privacy-policy%3Fprintable%3Dtrue%26notAuto%3Dtrue) for the most accurate reproduction.*
 
-# Privacy Policy | ebay inc
+# Privacy Policy | eBay Inc.
 
 ebayinc.com is owned and operated by eBay Inc. This privacy policy describes how we handle your personal information. By using ebayinc.com (the "Site") you consent to the storage, processing, transfer and disclosure of your personal information as described in this privacy policy. This policy is effective as of October 9, 2009.
 
