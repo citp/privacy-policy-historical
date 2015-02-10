@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickuplink.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927121639id_/http%3A//clickuplink.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickuplink.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210110909id_/http%3A//clickuplink.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Click Up Link | Privacy Policy
 
