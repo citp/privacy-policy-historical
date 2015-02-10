@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancewp.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227171916id_/http%3A//freelancewp.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancewp.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210132618id_/http%3A//freelancewp.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | FreelanceWP
 
