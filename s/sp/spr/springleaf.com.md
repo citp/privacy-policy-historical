@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springleaf.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085211id_/http%3A//www.springleaffinancial.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springleaf.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210010557id_/https%3A//www.springleaf.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -66,9 +66,9 @@ _**Am I protected when linking to other sites?**_
 
 _**Online Tracking**_
 
-  * Site Sponsor does not track its customers over time and across third party websites in order to provide targeted advertising and therefore does not respond to Do Not Track (DNT) signals. However, some third party sites do keep track of your browsing activities when they serve your content, which enables them to tailor what they present to you. If you are visiting such sites, most popular browsers (Firefox, Safari, Google Chrome, etc) allow you to set the DNT signal on your browser so that third parties (particularly advertisers) know you do not want to be tracked. You should consult each sites privacy policy to determine how that siteâ€™s operator responds to DNT signals.
+  * Site Sponsor does not track its customers over time and across third party websites in order to provide targeted advertising and therefore does not respond to Do Not Track (DNT) signals. However, some third party sites do keep track of your browsing activities when they serve your content, which enables them to tailor what they present to you. If you are visiting such sites, most popular browsers (Firefox, Safari, Google Chrome, etc) allow you to set the DNT signal on your browser so that third parties (particularly advertisers) know you do not want to be tracked. You should consult each sites privacy policy to determine how that site's operator responds to DNT signals.
 
-  * Third parties that have content embedded on Site Sponsor's websites may set cookies on a user's browser and/or obtain information about the fact that a web browser visited a specific Site Sponsor website from a certain IP address. Third parties cannot collect any other personally identifiable information from Site Sponsorâ€™s websites unless you provide it to them directly.
+  * Third parties that have content embedded on Site Sponsor's websites may set cookies on a user's browser and/or obtain information about the fact that a web browser visited a specific Site Sponsor website from a certain IP address. Third parties cannot collect any other personally identifiable information from Site Sponsor's websites unless you provide it to them directly.
 
 
 
