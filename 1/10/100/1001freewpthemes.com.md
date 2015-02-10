@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001freewpthemes.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121042852id_/http%3A//www.1001freewpthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001freewpthemes.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210052408id_/http%3A//www.1001freewpthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 1001 Free WordPress Themes
 
