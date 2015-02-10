@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootballstarters.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108035950id_/http%3A//privacy-policy.truste.com/verified-policy/www.fantasyfootballstarters.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballstarters.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210194459id_/http%3A//privacy-policy.truste.com/verified-policy/www.fantasyfootballstarters.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.fantasyfootballstarters.com
 
