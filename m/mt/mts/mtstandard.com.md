@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtstandard.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205230218id_/http%3A//mtstandard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtstandard.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210071625id_/http%3A//mtstandard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
