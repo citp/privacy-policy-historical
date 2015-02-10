@@ -1,31 +1,70 @@
-> *The following text is extracted and transformed from the geekzone.co.nz privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217120355id_/http%3A//www.geekzone.co.nz/content.asp%3Fcontentid%3D105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekzone.co.nz privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210165252id_/http%3A//www.geekzone.co.nz/content.asp%3Fcontentid%3D105) for the most accurate reproduction.*
 
-# Geekzone Privacy Policy
+# Geekzone Privacy Statement
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
-We use your IP address to help diagnose problems with our server, and to administer our web site. Your IP address is not used to identify you. However, all posts in our forums and comments to articles have an associated IP address recorded. This IP address is never shown to other users and it is only collected in order to help us to prevent unsolicited posting to our forums (spam) or other breaches of our [**Forum Usage Guidelines (FUG)**](http://www.geekzone.co.nz/content.asp?contentid=1046).
+  * IP addresses
+  * Personal information
+  * Cookies
+  * Emails
+  * Spammers
+  * Advertisements
+  * External links
+  * Privacy Act 1993
+  * Amazon affiliate disclosure
+  * MightyApe affiliate disclosure
+  * Viglink affiliate disclosure
+  * Skimlinks affiliate disclosure
 
-All users have their user name, country and date of inclusion listed in our [**User List**](https://web.archive.org/web/20141217120355id_/http%3A//www.geekzone.co.nz/users.asp). This list is only visible to other registered users. The _email_ icon allows users to send private messages between them, but neither the sender's or recipient's email addresses are disclosed. If the user requires privacy, an option is available on your [**user profile page**](https://web.archive.org/web/20141217120355id_/http%3A//www.geekzone.co.nz/user_profile.asp) to hide the user name from this list and prevent other users from contacting via those private messages. 
 
-You user profile page will be indexed by search engines. If you don't want your name and/or location showing up in search engine results, by all means leave those fields empty.
 
-Our site uses cookies to keep track of your login. Cookies are simple data files that store information. We do not install any program on your computer while visiting our site. The information stored in the cookie file is used to store the login information if the user decides to use our auto login feature. 
+ _ **IP addresses**_  
+We use your IP address to help diagnose problems with our server and to administer our web site. Your IP address is not used to identify you. However, all posts in our forums and comments to articles have an associated IP address recorded. This IP address is never shown to other users and it is only collected in order to help us to prevent unsolicited posting to our forums (see Spammers below) or other breaches of our [Forum Usage Guidelines (FUG)](https://web.archive.org/web/20150210165252id_/http%3A//www.geekzone.co.nz/content.asp?contentid=1046).
 
-Our site's registration form requires users to give us contact information (like their name and email address) and optional demographic information (like city and country). If the user opts in, we use the contact information (email address) from the registration form to send any important information regarding its registration with Geekzone. Users may opt-out of receiving future contacts at any time. Please update your [**user profile page**](https://web.archive.org/web/20141217120355id_/http%3A//www.geekzone.co.nz/user_profile.asp) to change this option or simply [**contact us**](https://web.archive.org/web/20141217120355id_/http%3A//www.geekzone.co.nz/contact.asp).
+ _ **Personal information**_  
+All users have their user name, country and date of inclusion listed in our [User List](https://web.archive.org/web/20150210165252id_/http%3A//www.geekzone.co.nz/users.asp). This list is only visible to other registered users. The _email_ icon allows users to send private messages between them, but neither the sender's or recipient's email addresses are disclosed. If the user requires privacy, an option is available on your [user settings page](https://web.archive.org/web/20150210165252id_/http%3A//www.geekzone.co.nz/upd_user.asp) to hide the user name from this list and prevent other users from contacting via those private messages. 
 
-The [**Geekzone Software Store**](http://store.geekzone.co.nz/) is managed by Mobihand, and it also uses cookies. The information stored in that cookie file is used to manage your shopping cart while the user is selecting software from the on-line store.
+Our site's registration form requires users to give us contact information (such as their email address) and optional personal and demographic information (such as name, city and country).
 
-In the course of serving advertisements to this site, our third-party advertiser server may place or recognize a unique cookie file.
+You [public user profile](https://web.archive.org/web/20150210165252id_/http%3A//www.geekzone.co.nz/user_public.asp) page will be indexed by search engines. If you don't want your name and/or location showing up in search engine results, leave those fields empty. 
 
-We use Google DFP For Small Business to serve ads when you visit our Web site. Ads can be hosted by Google DoubleClick, Tribal Fusion, and other networks. These companies may use information (but not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+_**Cookies**_  
+Our site uses cookies to keep track of your login. Cookies are simple data files that store information. We do not install any program on your computer while visiting our site. The information stored in the cookie file is used to store the login information if the user decides to use our auto login feature. We also store a randomly generated value that allows our site to prevent hijacking of forms and controls.
 
-More specifically Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the [**DART cookie**](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [**Google ad and content network privacy policy**](http://www.google.com/privacy_ads.html). 
+ _ **Emails**_  
+We use the user's email address to send forum notifications such as replies to their posts. Users can opt-out of these notifications at any time by clicking a link in those emails. Users can set a profile option to default to subscribe to these forum notifications or not. Users can also opt-in or opt-out of individual discussions when posting a reply. Users can also subscribe to subforums and receive notifications when a new discussion is posted.
 
-If you want to know more about behavioral online advertising click the icon: 
+Users have access to a [page to stop all those forum notifications](https://web.archive.org/web/20150210165252id_/http%3A//www.geekzone.co.nz/forumclear.asp) and can use this at any time.
 
-[AdChoices](https://quantcast.com/adchoices-pub?pub=tQnZwZB52uz9S5gCNC97zg)
+If the user opts in, we use the contact information (email address) from the registration form to send any important information regarding its registration with Geekzone. 
 
-This site contains links to other sites. Geekzone is not responsible for the privacy practices or the content of such web sites.
+Our [daily email updates](https://web.archive.org/web/20150210165252id_/http%3A//www.geekzone.co.nz/newsletter.asp) are managed by Google Feedburner. We do not supply email address to this service. The user has to actively subscribe to the service directly with Google, through our page.
 
-We are also bound by the New Zealand legislation to make sure your personal information is not disclosed to third parties. 
+ _ **Spammers**_  
+If spam is found in our forums the associated account is banned and certain information (username, email address and IP address) is submitted to [Stop Forum Spam](http://www.stopforumspam.com/), a third party database service tracking such activities. We do no submit any other information and we do not submit information if a user account is banned for other reasons than spam.
+
+We use this service to identify potential spammers and deny registration or access to our forums.
+
+ _ **Advertisement**_  
+In the course of serving advertisements to this site, our third-party advertiser server may place or recognize a unique cookie file. We use Google DFP For Small Business to serve ads when you visit our Web site. Ads can be hosted by Google DoubleClick, Tribal Fusion, and other networks. These companies may use information (but not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+
+More specifically Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of DART cookies enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Read [Google's Privacy Terms for more information](http://www.google.com/policies/technologies/ads/).
+
+ _ **External links**_  
+This site contains links to other sites. Geekzone is not responsible for the privacy practices or the content of such web sites. 
+
+_**Privacy Act 1993**_  
+We are also bound by the [New Zealand Privacy Act 1993](http://www.legislation.govt.nz/act/public/1993/0028/latest/DLM296639.html) to make sure your personal information is not disclosed to third parties. More information can be obtained from the [Office of the Privacy Commissioner](https://www.privacy.org.nz/).
+
+ _ **Amazon Affiliate disclosure**_  
+Geekzone is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
+ _ **MightyApe Affiliate disclosure**_  
+Geekzone is a participant in the MightyApe Affiliate Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to mightyape.co.nz.
+
+ _ **Viglink Affiliate disclosure**_  
+Geekzone is a participant in the Viglink Affiliate Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising by automatically hyperlinking some keywords to affiliates. You can opt-out of this programme at any time by visiting the [Viglink Opt-Out page](http://www.viglink.com/opt-out).
+
+ _ **Skimlinks Affiliate disclosure**_  
+Geekzone is a participant in the Skimlinks Affiliate Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising by automatically hyperlinking some keywords to affiliates. You can opt-out of this programme at any time by visiting the [Skimlinks Opt-Out page](http://optout.skimlinks.com/?tested=1). 
