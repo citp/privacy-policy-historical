@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameim.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126153343id_/http%3A//gameim.com/Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameim.com privacy policy that was archived on 2015-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150212004953id_/http%3A//www.gameim.com/Policy.html) for the most accurate reproduction.*
 
 # Wildstar Gold, Buy ArcheAge Gold, Cheap Aion Gold for Sale
 
