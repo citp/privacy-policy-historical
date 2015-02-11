@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploreangle.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215232id_/http%3A//exploreangle.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploreangle.com privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211072733id_/http%3A//exploreangle.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Exploreangle.com | Privacy Policy
 
