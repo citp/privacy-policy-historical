@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthji.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122153342id_/http%3A//www.healthji.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthji.com privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211195829id_/http%3A//healthji.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Health & Wellness Programs, Corporate Health Programs, Health Products, Sports Nutrition, Employee Health & Wellness Programs | Healthji
 
