@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbwebinars.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105140655id_/https%3A//www.fbwebinars.com/privacy.php%3Flang%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbwebinars.com privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211072633id_/https%3A//www.fbwebinars.com/privacy.php%3Flang%3DUS) for the most accurate reproduction.*
 
 # fbWebinars
 
