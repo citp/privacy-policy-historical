@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigaimg.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231232416id_/http%3A//gigaimg.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigaimg.com privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211020916id_/http%3A//gigaimg.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # gigaimg image hosting » More Information » Privacy Policy
 
