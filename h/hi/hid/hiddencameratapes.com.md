@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiddencameratapes.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114132319id_/http%3A//www.hiddencameratapes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiddencameratapes.com privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211063450id_/http%3A//www.hiddencameratapes.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
