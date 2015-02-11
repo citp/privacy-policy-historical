@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foureuro.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115021805id_/http%3A//www.foureuro.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foureuro.com privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211104235id_/http%3A//www.foureuro.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Four Euro
 
