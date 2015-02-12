@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the findchips.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401174617id_/http%3A//www.supplyframe.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findchips.com privacy policy that was archived on 2015-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150212154426id_/http%3A//www.supplyframe.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy was last updated on November 9, 2012.
+This Privacy Policy was last updated on April 15, 2013.
 
 SupplyFrame, Inc. (“ **SupplyFrame** ,” “ **we** ,” or “ **us** ”) takes the privacy and protection of personal information very seriously. By visiting and using the SupplyFrame Offerings or registering for the SupplyFrame Offerings and creating an Account, you acknowledge that you accept the practices and policies outlined in this privacy policy (“ **Privacy Policy** ”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the Frame-It Terms of Service that you can find at Frame-It Terms of Service and which incorporate this Privacy Policy by reference.
 
@@ -25,19 +25,52 @@ YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED
 We collect the following Personal Information that you submit to us voluntarily:
 
   * If you register for the SupplyFrame Offerings and create an Account, we collect a username, your e-mail address, and a password for your Account.
+  
+
   * When you register for the SupplyFrame Offerings we collect, on an optional basis, certain information to complete your profile, including your name, gender, birthday, phone number, address, city, state, country, and website.
+  
+
   * If you participate in one of our surveys, we will collect any Personal Information contained in your responses to such survey and any additional profile information you provide. When you contact us by sending us an e-mail, we will collect any information that is contained in (and/or attached to) your e-mail.
+  
+
   * If you make a posting or comment on a posting on the SupplyFrame Offerings, we will collect any Personal Information contained in such posting.
+  
+
   * If you sign up for a feature of the SupplyFrame Offerings for which we charge a fee, we will collect your first and last name, billing address, credit card or payment account number and any other information needed to complete the transaction.
+  
+
   * We may also collect Personal Information, such as demographic information from you via the SupplyFrame Offerings or at other points in the Sites that state that Personal Information is being collected.
 
 
 
 ### Personal Information Collected Via Technology
 
-As you use the SupplyFrame Offerings, certain information may also be collected passively, including your Internet protocol (IP) address and the browser that you use to visit the Sites. We may use a “reverse IP lookup” to determine the company associated with your IP address. SupplyFrame also stores a small text file called a “ **Cookie** ” on your computer to store your login information (if any) and your personal preferences for the SupplyFrame Offerings. SupplyFrame may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). While you will still be able to use the SupplyFrame Offerings if you disable Cookies in your browser, certain parts of the SupplyFrame Offerings may not function as effectively. Notwithstanding any settings you may make in your browser, you expressly consent to our use of Cookies in connection with the SupplyFrame Offerings as set forth above.
+As you use the Supply Frame Offerings, certain information may also be collected passively, including your Internet protocol (IP) address and the browser that you use to visit the Sites. We may use Cookies to improve your experience and a “reverse IP lookup” to determine the company associated with your IP address. 
 
-Since the foregoing information may be collected when you are signed into the SupplyFrame Offerings or after you click on a link contained in an email sent by us, this information may be associated by us with Personal Information that we have collected from you.
+Since the foregoing information may be collected when you are signed into the Supply Frame Offerings or after you click on a link contained in an email sent by us, this information may be associated by us with Personal Information that we have collected from you.
+
+_Cookies_
+
+Supply Frame stores small text files called **“Cookies”** on your computer to make your experience on our website better. We use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). In order to provide the Supply Frame Offerings and other services, we use a variety of Cookies that perform different functions.We use the following types of cookies:
+
+  * _Strictly Necessary Cookies_  
+Strictly necessary cookies are cookies which are essential to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies, services you have asked for cannot be provided.
+  
+
+  * _Performance Cookies_  
+Performance cookies collect anonymized information about how you use our website. For example, these cookies may tell us which pages you go to most often and if you receive error messages from our webpages. We use this information to improve how our sites work. By using our web site, you agree we can place these cookies on your device.
+  
+
+  * _Functionality Cookies_  
+Functionality Cookies allow our website to remember the choices you make, such as your login information (if any), preferred language or region you are in, and can provide enhanced, more personal features. These cookies can also be used to remember changes you made to text size, fonts and other parts of web pages you can customize. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites. By using our web site, you agree we can place these cookies on your device.
+  
+
+  * _Advertising Cookies_  
+These cookies collect information to deliver you more relevant advertising. They may be placed by us, by third parties acting on our behalf, or by advertising networks with our permission. They remember other websites you have visited, and advertising networks may share this information with others including advertisers. By using our web site, you agree we can place these cookies on your device.
+
+
+
+While you will still be able to use the Supply Frame Offerings if you disable Cookies in your browser, certain parts of the Supply Frame Offerings may not function as effectively. You can find more information on Cookies and how they may affect you by visiting: [www.youronlinechoices.org](https://web.archive.org/web/20150212154426id_/http://www.supplyframe.com/company/privacy/www.youronlinechoices.org)
 
 ### Personal Information From Other Sources
 
@@ -85,7 +118,7 @@ The SupplyFrame Offerings may contain links to other web sites that are not owne
 
 ### Privacy of Minors
 
-We do not intentionally collect or maintain information from persons under the age of 13.
+We do not intentionally collect or maintain information from persons under the age of 18.
 
 ### Security and Confidentiality
 
