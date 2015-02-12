@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbpathy.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124012804id_/http%3A//herbpathy.com/staticpages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbpathy.com privacy policy that was archived on 2015-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150212184250id_/http%3A//herbpathy.com/staticpages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Herbpathy
 
