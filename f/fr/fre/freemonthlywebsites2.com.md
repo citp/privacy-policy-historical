@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemonthlywebsites2.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125232644id_/http%3A//www.freemonthlywebsites2.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemonthlywebsites2.com privacy policy that was archived on 2015-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150212064506id_/http%3A//www.freemonthlywebsites2.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Free Monthly Websites
 
