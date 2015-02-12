@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empflixhd.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921145711id_/http%3A//empflixhd.com/legal.php%3Fs%3D6114%7C32613%7C2595%7C15%7Cwide%7C0%26lg%3Dus%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empflixhd.com privacy policy that was archived on 2015-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150212035130id_/http%3A//www.empflixhd.com/legal.php%3Fs%3D6114%7C32613%7C2595%7C15%7Cwide%7C0%26lg%3Dus%26pg%3Dprivacy) for the most accurate reproduction.*
 
 # EmpFlix HD
 
