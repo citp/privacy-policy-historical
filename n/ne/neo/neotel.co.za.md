@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the neotel.co.za privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922033637id_/http%3A//www.neotel.co.za/wps/portal/%21ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYwNDI_2CbEdFAJh0M08%21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neotel.co.za privacy policy that was archived on 2015-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150212022437id_/http%3A//neotel.co.za/wps/portal/%21ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDAgxMPDzdDbwtnC1NDRydDVxDHM29DC0CzIAKIoEKDHAARwNC-sP1o8BKTPydTTycgg28Dcx9gfqCjU0N_N28jA0MDaEK8FhRkBthkOmoqAgA0Et_3Q%21%21/dl5/d5/L2dJQSEvUUt3QS80SmlFL1o2XzRPQzRIQlMwS0c1MDgwQVNKSTUzSkoyU0E2) for the most accurate reproduction.*
 
-# Neotel | Privacy Policy
+# None
+
+  
+
 
 "Personal identifiable information" is information that can be used uniquely to identify you, such as your name, mailing address, e-mail address, telephone numbers and credit card number. In order to provide you with service in this website, we may require that you provide us with personal identifiable information. Neotel may have to share your personal identifiable information with other companies or entities (third parties) with which we have a business relationship in order to provide the service you have requested. Neotel will only share your personal identifiable information in compliance with the provisions of the Electronic Communications and Transactions Act 25 of 2002. The third parties Neotel shares your personal identifiable information with may not use the personal information we share with them beyond what is necessary to deliver your requested service.
 
@@ -12,5 +15,6 @@ Notwithstanding any such preference not to receive promotional information by yo
 
 Neotel further reserves the right to perform statistical analyses of user behaviour and characteristics in order to measure interest in and use of the various areas of this website and the Services and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners if applicable. We may disclose your information to other affiliated companies of Neotel, including the shareholders in Neotel, their respective partners, agents and sub-contractors, for any of the above purposes. In addition, we may disclose your information where we are legally obliged to do so in terms of the laws of the Republic of South Africa.
 
-Neotel may sometimes permit third parties to offer subscription and/or registration based services through the Neotel website. Neotel is not responsible for any actions or policies of such third parties and users should check the applicable privacy policy of such party when providing personally identifiable information to them.  
-Should you have any questions regarding any of our services, licences or policies, please do not hesitate to [contact us](https://web.archive.org/wps/portal/neotel_contact_us)
+Neotel may sometimes permit third parties to offer subscription and/or registration based services through the Neotel website. Neotel is not responsible for any actions or policies of such third parties and users should check the applicable privacy policy of such party when providing personally identifiable information to them.
+
+Should you have any questions regarding any of our services, licences or policies, please do not hesitate to contact us.
