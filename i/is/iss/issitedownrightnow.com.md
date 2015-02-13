@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the issitedownrightnow.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226160453id_/http%3A//www.issitedownrightnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the issitedownrightnow.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213075906id_/http%3A//www.issitedownrightnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
