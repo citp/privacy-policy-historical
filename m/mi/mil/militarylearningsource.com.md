@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the militarylearningsource.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208015114id_/http%3A//militarylearningsource.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militarylearningsource.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213191943id_/http%3A//militarylearningsource.com/privacy.aspx) for the most accurate reproduction.*
 
 # Military Learning Source
 
