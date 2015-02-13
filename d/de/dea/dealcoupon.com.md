@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealcoupon.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112080348id_/http%3A//dealnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealcoupon.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213072542id_/http%3A//dealnews.com/privacy.html) for the most accurate reproduction.*
 
 # dealnews.com, Inc., Privacy Policy
 
