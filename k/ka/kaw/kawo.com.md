@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kawo.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527192608id_/http%3A//kawo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kawo.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213022726id_/http%3A//kawo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # KAWO | Privacy Policy
+
+[](https://web.archive.org/ "KAWO.com")
 
 ## What information do we collect?
 
@@ -59,7 +61,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Your Consent
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our privacy policy.
 
 ## Changes to our Privacy Policy
 
