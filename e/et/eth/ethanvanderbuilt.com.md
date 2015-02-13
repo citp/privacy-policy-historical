@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethanvanderbuilt.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013840id_/http%3A//ethanvanderbuilt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethanvanderbuilt.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213120355id_/http%3A//ethanvanderbuilt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ethan Vanderbuilt
 
