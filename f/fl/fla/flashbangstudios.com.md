@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashbangstudios.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119045635id_/http%3A//www.flashbangstudios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashbangstudios.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213024325id_/http%3A//www.flashbangstudios.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Flashbang Studios
 
