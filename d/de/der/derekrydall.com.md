@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derekrydall.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906083858id_/http%3A//derekrydall.com/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derekrydall.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213031026id_/http%3A//derekrydall.com/main/privacy-policy) for the most accurate reproduction.*
 
 # Derek Rydall » Privacy Policy
 
