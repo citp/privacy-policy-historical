@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2co.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328062311id_/https%3A//www.2checkout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2co.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213094135id_/https%3A//www.2checkout.com/privacy) for the most accurate reproduction.*
 
-# Policies - 2Checkout
+# Privacy Policy | Policies | 2Checkout
 
 2CO collects personal information to set up and manage accounts for our ecommerce services and to handle orders of goods and services from 2CO.
 
