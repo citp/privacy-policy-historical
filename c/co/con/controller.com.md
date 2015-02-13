@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the controller.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812192835id_/http%3A//www.controller.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the controller.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213114314id_/http%3A//www.controller.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Sandhills Publishing Privacy Policy at Controller.com
 
