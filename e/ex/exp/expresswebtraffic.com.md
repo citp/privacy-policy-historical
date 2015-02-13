@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expresswebtraffic.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118125438id_/http%3A//expresswebtraffic.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expresswebtraffic.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213201426id_/http%3A//expresswebtraffic.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Express Web Traffic
 
