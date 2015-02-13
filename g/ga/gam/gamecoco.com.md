@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamecoco.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126164219id_/http%3A//gamecoco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecoco.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213021732id_/http%3A//gamecoco.com/privacy-policy) for the most accurate reproduction.*
 
 # GameCoco.com: Privacy Policy
 
