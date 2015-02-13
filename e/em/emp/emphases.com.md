@@ -1,65 +1,32 @@
-> *The following text is extracted and transformed from the emphases.com privacy policy that was archived on 2003-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031007230020id_/http%3A//emphases.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emphases.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213032539id_/http%3A//emphases.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy — Emphases
 
-**SearchPort Privacy Statement**
+Our team here at Emphases is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
-_**POLICY OVERVIEW**_
+General  
+Our users are free to visit and enjoy our content at no personal obligation; users can exit the site whenever they so choose and do not need to reveal any personal information about themselves. There are some services offered that users may want to take advantage of, and it’s possible they will be required to disclose some personal information, including but not limited to, their first and last name, home address, email address, telephone numbers and birthday. It is also possible that other information will be collected on other applicable pages within our sites. If any users do choose to submit information to us directly or to a third party via our site, they can be assured that we will never sell or lease their personal information except;
 
-Welcome to SearchPort’s privacy policy. We at NetVisibilty view the protection of individual privacy as critically important, and we are committed to maintaining the highest standards in the industry. It is our fundamental goal at NetVisibilty to remain a leader in internet-enabled marketing and advertising, while maintaining our commitment to these standards.
+1\. for special promotions which may be offered on occasion on our sites in conjunction with a third party service provider in order to fullfill any deals or promotions that the user signed up for
 
-The following is SearchPort’s overall company policy related to privacy, as well as a summary of your choice to Opt-Out of our information collection practices. This policy is open to comment and is meant to provide an evolving framework from which we at NetVisibilty can address any concerns of the Internet community.
+2\. to third party service providers we have partnered with so we may provide services our users requested
 
-For more information, or if you have questions or concerns regarding SearchPort’s Privacy Statement, please send us an e-mail at info@netvisibility.com or you can send correspondence to the following address:
+3\. following a notice posted on a relevant page on our site that collects personal information following a transaction that notifies the user and discloses the purchase
 
-Privacy  
-SearchPort.  
-7700 Irvine Center Drive  
-Suite 800  
-Irvine CA 92618
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
-_**COMPANY PRACTICES**_
+Cookies  
+To make our content and site as a whole as relevant as possible, we will collect information that identifies your browser type, user agent, IP address or other information. We will never track and store any personally identifiable information. We are able to do this by placing small files or cookies on your computer when you browser through our sites. Cookies are simply small pieces of data that include an anonymous unique identifier that travels to your browser and is stored on your hard drive. Users have the ability to delete and/or clear cookies whenever they so choose, and cookies in no way cause any damage to a computer. They simply enable a more efficient, relevant browsing experience.
 
-The following statement describes the overall company practices of Searchport.com, including advertising on our network of websites, as well as across other internal sites, and products and services that are offered by Searchport.com.
+Disclosure of User Information for Legal Purposes  
+Federal and state laws requires that from time to time we may be obligated to share personal user information (review Cookies section) that are pursuant to judicial subpoenas or warrants. We also reserve the right to use and share personal information we collect in order to investigate and prevent any activity deemed illegal, fraudulent or may cause physical harm to another person.
 
-**INFORMATION COLLECTED BY SEARCHPORT**
+External Links  
+Our site’s pages will contain links to third party websites that be be unrelated to the content we have created and own. Please understand that we are not responsible for the privacy practices of any and all third party companies and websites. It is always recommended to review the privacy policies of all websites you enter to ensure you are fully protected under the law.
 
-**_Non-Personally Identifiable Consumer Data_**
+Children  
+Federal law mandates that we cannot collect any personally identifiable information that originates from a child under the age of thirteen without full consent from that child’s parent of guardian. Therefore we will never collect any information if we know or deem the user to be under the age of thirteen.
 
-At SearchPort we collect what is known as "Click Stream Data." Click Stream Data is anonymous, and includes information such as a web surfer's IP address, web pages which have been viewed by a web surfer, date and time, domain type, and responses by a web surfer to an advertisement delivered by us.
+Advertising
 
-As a part of the registration process, we may request and collect additional non-personally identifiable information about the visitor. Examples of the non-personally identifiable data that may be requested include age, gender, and interests. None of the foregoing information (collectively referred to as "non-personally identifiable data"), by itself, or together, can by its nature be tracked to a specific individual. Web surfers may elect not to provide Click Stream Data by following the Cookie Opt-Out procedures set forth below. In addition, web surfers who have provided registration data may elect to have their data deleted from our files, or kept from being used for purposes other than for the service requested.
-
-**_Personally-Identifiable Consumer Data_**
-
-SearchPort will on occasion ask people to register to receive additional information or so that we may contact the individual for follow up. This information is never sold to any other agency or individual for any other use. Examples of personally-identifiable data that may be requested include name, address, and e-mail address.
-
-**HOW COLLECTED INFORMATION IS USED**
-
-The non-personally identifiable data that SearchPort collects is used for marketing and sales efforts to better target advertisements and other content to individuals in an effort to create a personally relevant experience for each person. The data is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals.
-
-If a consumer elects to provide SearchPort with personally-identifiable data, we may utilize such data for marketing purposes. In addition, that data may be combined with information collected from other sources to assist with targeting ads to that consumer's preferences and behaviors.
-
-**SHARING WITH THIRD-PARTIES**
-
-All personally-identifiable data provided by individuals is maintained in strict confidence by SearchPort and will be treated with the same level of respect and care that SearchPort treats its other proprietary information and trade secrets.
-
-In the event that NetVisibilty or part(s) of the company, may one day be purchased by, or merged with, another company. If that's the case, the acquiring (or merging) company will have access to your information.
-
-Finally, SearchPort may share information on individuals as it deems necessary to comply and cooperate with government and law enforcement officials.
-
-**CONSUMER CHOICE**
-
-**_Changes To Our Privacy Policy_**
-
-The issue of privacy is an evolving one. NetVisibilty is committed to the constant monitoring and examination of its privacy practices, and may, from time to time, institute changes to its privacy policy. In the event that any material changes are made to the company's privacy practices, we will promptly make changes to this privacy policy that discloses the changes.
-
-**_Contacting Us_**
-
-For more information, or if you have questions or concerns regarding SearchPort’s privacy practices, please send us an e-mail at [info@netvisibilty.com](mailto:info@netvisibilty.com), or you can send correspondence to the following address:
-
-Privacy  
-SearchPort.  
-7700 Irvine Center Drive  
-Suite 800  
-Irvine CA 92618
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp
