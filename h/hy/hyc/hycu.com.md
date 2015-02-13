@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hycu.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006164059id_/http%3A//hycu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hycu.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213040551id_/http%3A//hycu.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
