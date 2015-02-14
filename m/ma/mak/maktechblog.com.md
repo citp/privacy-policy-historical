@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maktechblog.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123130054id_/http%3A//maktechblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maktechblog.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214135520id_/http%3A//maktechblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MakTechBlog
+# Privacy Policy
 
 This Privacy Policy governs the manner in which MakTechBlog collects, uses, maintains and discloses information collected from users (each, a “User”) of the Maktechblog.com website (“Site”). This privacy policy applies to the Site and all products and services offered by MakTechBlog.
 
