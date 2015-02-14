@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the puaforums.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225101157id_/http%3A//www.puaforums.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puaforums.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214164850id_/http%3A//www.puaforums.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - PUAForums.com
+# Privacy | PUA Forum
 
 **What information do we collect?**  
 We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.   
@@ -46,5 +46,4 @@ PUAForums
 PO Box 111  
 Litchfield Park, AZ 85340  
 USA  
-bill@puaforums.com  
-
+bill@puaforums.com
