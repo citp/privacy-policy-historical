@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buyusa.gov privacy policy that was archived on 2014-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141022185438id_/http%3A//www.export.gov/about/eg_main_016803.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buyusa.gov privacy policy that was archived on 2015-02-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150214051829id_/http%3A//www.export.gov/about/eg_main_016803.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
    var _U = "undefined";
@@ -359,7 +359,10 @@
 <!--SS_BEGIN_SNIPPET(fragment19,Includes)-->				<script src="../build/fragments/fl_eg_google_advsearch/generateurl.js" language="javascript"></script> 
 			<!--SS_END_SNIPPET(fragment19,Includes)-->
 
-<!--SS_BEGIN_SNIPPET(fragment21,Presentation)-->				<script src="../build/fragments/fl_eg_outsidelinks/emailSpam.js" language="javascript"></script> 
+<!--SS_BEGIN_SNIPPET(fragment21,Presentation)-->				<link rel="stylesheet" href="../build/fragments/fl_eg_outsidelinks/colorbox.css" type="text/css">
+<script src="../build/fragments/fl_eg_outsidelinks/colorbox-min.js" language="javascript"></script> 
+<script src="../build/fragments/fl_eg_outsidelinks/emailSpam.js" language="javascript"></script> 
+
 <script type="text/javascript">
 function initPage() {
   var lnk = document.links;
@@ -368,27 +371,70 @@ function initPage() {
        var urldns = window.location.hostname;
        var buyusaIndx = urldns.indexOf("buyusa");
        if (buyusaIndx == -1){
-       lnk[i].href = "javascript:redirect('"+lnk[i].href+"')";
-       }else {
-       lnk[i].href = "javascript:redirectBuyusa('"+lnk[i].href+"')";
-       }
+       		//alert(lnk[i].href);
+       		$(lnk[i]).click(function(){
+       			
+       			$("#outsideLink").attr("href", $(this).attr("href"));
+       			$("#outsideLink").text($(this).attr("href"));       			
+       			
+       			$.colorbox({href:"#outside_disclaimer", inline:true, width:"50%"});
+       			return false;  //prevent automatice redirect
+       		});       		       		
+       	}
+       	else {
+       		$(lnk[i]).click(function(){
+       			
+       			$("#buyusa_outsideLink").attr("href", $(this).attr("href"));
+       			$("#buyusa_outsideLink").text($(this).attr("href"));
+       			
+       			
+       			$.colorbox({href:"#buyusa_outside_disclaimer", inline:true, width:"50%"});
+       			return false;  //prevent automatice redirect
+       		});
+       			 
+      	}      
+       
     }
   }
 }
 
-function redirect(URL){
-  var newWin=window.open("/build/fragments/fl_eg_outsidelinks/redirectu.asp?URL="+escape(URL),"newWin","left=300,top=200,width=790,height=600,toolbar=yes,titlebar=yes,scrollbars=yes,resizable=yes,menubar=yes,directories=yes,location=yes");
-}
-
-function redirectBuyusa(URL){
-  var newWin=window.open("/build/fragments/fl_eg_outsidelinks/redirectBuyusa.asp?URL="+escape(URL),"newWin","left=300,top=200,width=790,height=600,toolbar=yes,titlebar=yes,scrollbars=yes,resizable=yes,menubar=yes,directories=yes,location=yes");
-}
-
+/**
+           * Colorbox timeout functionality
+           */
+          jQuery(function($) {
+ 
+            var timer;
+            var timeout = 5; // seconds
+ 
+            // When displaying a colorbox, set a timer
+            // to close it after a set amount of time
+            $(document).bind('cbox_open', function() {
+              timer = setTimeout(function() {
+                console.log('timeout');
+                $.colorbox.close();
+                 var urldns = window.location.hostname;
+       			var buyusaIndx = urldns.indexOf("buyusa");
+       			if (buyusaIndx == -1){
+                	window.location.href = $("#outsideLink").attr("href");
+                }
+                else{
+                	window.location.href = $("#buyusa_outsideLink").attr("href");
+                }
+              }, timeout * 1000 /* ms per second */);
+            });
+ 
+            // If the colorbox is closed before the timeout,
+            // clear the timeout so it never fires
+            $(document).bind('cbox_closed', function() {
+              clearTimeout(timer);
+            });
+ 
+          });
+          
 if (window.addEventListener) window.addEventListener('load', initPage, false);
 else if (window.attachEvent) window.attachEvent('onload', initPage);
 
 </script>
-
 <script type="text/javascript">
 if (typeof jQuery != 'undefined') {
      jQuery(document).ready(function($) {
@@ -444,7 +490,7 @@ setTimeout("_gaq.push(['_trackEvent', '10_seconds', 'read'])",10000);
   })();
 
 </script>
-<script type="text/javascript" src="http://www.export.gov/foresee/foresee-trigger.js"></script>
+
 <script type="text/javascript" src="../build/fragments/fl_eg_outsidelinks/federated-analytics.js">
 </script>
 
@@ -717,7 +763,7 @@ setTimeout("_gaq.push(['_trackEvent', '10_seconds', 'read'])",10000);
 
 <li class="List-1" style="margin-top: 0in; margin-bottom: 0in"><span style="font-family: 'Verdana'; font-size: 12px; color: Black"> ITA websites may set persistent cookies to measure website metrics, such as which pages are popular and how often people visit the website. These cookies do not collect personal identifying information.&nbsp; Under the framework of OMB M-10-22, this qualifies as a Tier 2 use. </span></li></ul></div>
 
-<p class="DefaultParagraph-1">The International Trade Administration uses a third-party analytics provider (currently Google Analytics) to analyze the data collected through the session and persistent metrics cookies.&nbsp; The third-party analytics provider does not receive personally identifiable information through these cookies and does not combine, match, or cross-reference ITA information with any other information.&nbsp; Please review the third-party analytics provider’s <!-- TRANSIT - HYPERLINK --><!-- .http://www.google.com/intl/en/analytics/privacyoverview.html. --><a href="javascript:redirect('http://www.google.com/intl/en/analytics/privacyoverview.html')" target="_top">privacy policy</a> for additional information.</p>
+<p class="DefaultParagraph-1">The International Trade Administration uses a third-party analytics provider (currently Google Analytics) to analyze the data collected through the session and persistent metrics cookies.&nbsp; The third-party analytics provider does not receive personally identifiable information through these cookies and does not combine, match, or cross-reference ITA information with any other information.&nbsp; Please review the third-party analytics provider’s <!-- TRANSIT - HYPERLINK --><!-- .http://www.google.com/intl/en/analytics/privacyoverview.html. --><a href="http://www.google.com/intl/en/analytics/privacyoverview.html" target="_top">privacy policy</a> for additional information.</p>
 
 <p class="DefaultParagraph-1">These cookies collect information similar to that automatically received and stored on the servers hosting ITA websites; they do not collect personal indentifying information. &nbsp;The International Trade Administration generally does not access or store the raw information collected through these cookies.&nbsp; We do view aggregate statistical analyses prepared by our third-party analytics provider, but these analyses do not include any personally identifiable information.&nbsp; We do not sell, rent, exchange, or otherwise disclose this information to persons or organizations outside the Department of Commerce.&nbsp; In some cases, we may share information with other federal agencies in response to lawful law enforcement requests or to protect ITA websites from security threats.&nbsp; </p>
 
@@ -894,7 +940,7 @@ setTimeout("_gaq.push(['_trackEvent', '10_seconds', 'read'])",10000);
 				    |
 				    <a href="../articles/eg_main_016980.asp">Site Map</a>
 				    |
-               		<a href="javascript:redirect('http://get.adobe.com/reader/')">Download Adobe PDF Reader</a></li>
+               		<a href="http://get.adobe.com/reader/">Download Adobe PDF Reader</a></li>
 			</ul></div>
 		</div>
 
@@ -904,8 +950,29 @@ setTimeout("_gaq.push(['_trackEvent', '10_seconds', 'read'])",10000);
     </div>
   </div>
 <!--SS_BEGIN_SNIPPET(fragment21,Script)-->
+				<div style="display:none">
+			<div id="outside_disclaimer" style="padding:10px; background:#fff;">
+			<p><b>&nbsp; Notice to Visitors! </b></p>
+			<br>
+<p><b>&nbsp; The link you have chosen will take you to a non-U.S. Government website.</b> </p>
+<p>&nbsp; If the page <b>does not</b> appear in 5 seconds, please click this: <a href="../about/eg_main_016803.asp#" id="outsideLink">outside web site</a></p>
+<p>&nbsp; Export.gov is managed by the International Trade Administration and
+external links are covered by its website &nbsp;<a href="http://trade.gov/endorse.asp">disclaimer statement</a>.</p>
+<br>
+			</div>
+			
+			<div id="buyusa_outside_disclaimer" style="padding:10px; background:#fff;">
+			<p><b>&nbsp; Notice to Visitors! </b></p>
+			<br>
+<p><b>&nbsp; The link you have chosen will take you to a non-U.S. Government website.</b> </p>
+<p>&nbsp; If the page <b>does not</b> appear in 5 seconds, please click this: <a href="../about/eg_main_016803.asp#" id="buyusa_outsideLink">outside web site</a></p>
+<p>&nbsp; BuyUSA.gov is managed by the International Trade Administration and
+external links are covered by its website <a href="http://trade.gov/endorse.asp">disclaimer statement</a>.</p>
+<br>
+			</div>
+		</div>
 			<!--SS_END_SNIPPET(fragment21,Script)-->
 
 
 
-</body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
