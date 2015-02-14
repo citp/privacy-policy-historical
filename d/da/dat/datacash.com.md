@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datacash.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702121045id_/http%3A//www.datacash.com/mcdatacash/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datacash.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214053923id_/https%3A//www.datacash.com/mcdatacash/privacy/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
