@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyusa.gov privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022185438id_/http%3A//www.export.gov/about/eg_main_016803.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyusa.gov privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214051829id_/http%3A//www.export.gov/about/eg_main_016803.asp) for the most accurate reproduction.*
 
 # Export.gov - Privacy Policy
 
@@ -53,7 +53,7 @@ ITA websites use the following web measurement and customization technologies (d
 
 
 
-The International Trade Administration uses a third-party analytics provider (currently Google Analytics) to analyze the data collected through the session and persistent metrics cookies.  The third-party analytics provider does not receive personally identifiable information through these cookies and does not combine, match, or cross-reference ITA information with any other information.  Please review the third-party analytics provider’s privacy policy for additional information.
+The International Trade Administration uses a third-party analytics provider (currently Google Analytics) to analyze the data collected through the session and persistent metrics cookies.  The third-party analytics provider does not receive personally identifiable information through these cookies and does not combine, match, or cross-reference ITA information with any other information.  Please review the third-party analytics provider’s [privacy policy](http://www.google.com/intl/en/analytics/privacyoverview.html) for additional information.
 
 These cookies collect information similar to that automatically received and stored on the servers hosting ITA websites; they do not collect personal indentifying information.  The International Trade Administration generally does not access or store the raw information collected through these cookies.  We do view aggregate statistical analyses prepared by our third-party analytics provider, but these analyses do not include any personally identifiable information.  We do not sell, rent, exchange, or otherwise disclose this information to persons or organizations outside the Department of Commerce.  In some cases, we may share information with other federal agencies in response to lawful law enforcement requests or to protect ITA websites from security threats. 
 
