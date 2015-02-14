@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regalbuyer.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228003314id_/http%3A//regalbuyer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regalbuyer.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214051435id_/http%3A//regalbuyer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
