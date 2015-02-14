@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backstagepassprofits.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818092301id_/http%3A//backstagepassprofits.com/pages/PRIVACY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backstagepassprofits.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214144815id_/http%3A//backstagepassprofits.com/pages/PRIVACY.html) for the most accurate reproduction.*
 
 # Backstage Pass Profits with Mick Moore and Bill McRea - PRIVACY
 
