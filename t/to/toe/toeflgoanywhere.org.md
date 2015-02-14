@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toeflgoanywhere.org privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922000525id_/https%3A//www.ets.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toeflgoanywhere.org privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214015606id_/https%3A//www.ets.org/legal/privacy) for the most accurate reproduction.*
 
 # ETS Legal: Privacy and Security
 
@@ -11,7 +11,7 @@ Within this Policy you will find:
   * Children
   * Information We Collect
     * Personal Information
-    * Non-personal Information
+    * Nonpersonal Information
     * Cookies
     * Third-party Advertisers
   * How We Use Your Personal Information
@@ -43,11 +43,11 @@ If you register for a test, create an online account, or request one of our othe
 
 Back to Top
 
-### Non-personal Information
+### Nonpersonal Information
 
 When you visit any page on our Website, we use a program that monitors and evaluates the Website's traffic. It automatically records every visitor's host, domain name, pages visited, length of user session, browser type and/or IP address. This information does not contain Personal Information. We use this information to find out how many people visit the Website to determine the areas of greatest interest on our Website, and to make improvements to the Website. 
 
-When you visit and interact with our Website, ETS and third parties with whom ETS has contracted to provide services to ETS may collect non-personal information (for example, a catalog of the site pages you visit, or your IP address).
+When you visit and interact with our Website, ETS and third parties with whom ETS has contracted to provide services to ETS may collect nonpersonal information (for example, a catalog of the site pages you visit, or your IP address).
 
 Back to Top
 
@@ -55,13 +55,13 @@ Back to Top
 
 Generally, as an enterprise, our systems do not support "Do Not Track" capabilities.
 
-As with many other sites, our Website may use "cookies" or other technologies to help us deliver content specific to your interests, to process your reservations or requests, and/or to analyze your visiting patterns. We may collect the following types of information about your visit including: the domain from which you access the Internet; IP address; operating system and information about the device or browser used when visiting the site; date and time of your visit; content you visited or downloaded; and website (such as google.com or bing.com) and website referral source (email notice or social media site) that connected you to the website. ETS uses third party measurement software to collect the information listed above.
+As with many other sites, our Website may use "cookies" or other technologies to help us deliver content specific to your interests, to process your reservations or requests, and/or to analyze your visiting patterns. We may collect the following types of information about your visit including: the domain from which you access the Internet; IP address; operating system and information about the device or browser used when visiting the site; date and time of your visit; content you visited or downloaded; and website (such as google.com or bing.com) and website referral source (email notice or social media site) that connected you to the website. ETS uses third-party measurement software to collect the information listed above.
 
 There are two types of cookies: single-session (temporary) and multi-session (persistent). Temporary cookies last only as long as your Web browser is open, and are used for technical purposes such as enabling better navigation through our site. Once you close your browser, the cookie disappears. Persistent cookies are stored on your computer for longer periods and are used for purposes including tracking the number of unique visitors to our site and information such as the number of views a page gets, how much time a user spends on a page, and other pertinent web statistics.
 
 Cookies, by themselves, will not be used by ETS to disclose your individual identity. This information identifies your browser, but not you, to our servers when you visit the Website. If you want to disable the use of cookies or remove them at any time from your computer, you can disable or delete them using your browser (consult your browser's "Help" menu to learn how to delete cookies); however, you must enable cookies to access certain information on our Website. Note that in limited instances, such as when you register for a test or create an online account, cookies may contain and be associated with the Personal Information we collect.
 
-We may also collect data by using "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "pixel tags") that allow us to know when you visit our Website. Through pixel tags, we obtain non-personal information or aggregate information (i.e., your IP address, the areas of the Website you visit, your operating system, your browser version and the URL you came from) which can be used to enhance your online experience and understand traffic patterns.
+We may also collect data by using "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "pixel tags") that allow us to know when you visit our Website. Through pixel tags, we obtain nonpersonal information or aggregate information (i.e., your IP address, the areas of the Website you visit, your operating system, your browser version and the URL you came from) which can be used to enhance your online experience and understand traffic patterns.
 
 Back to Top
 
@@ -101,7 +101,7 @@ We may also disclose Personal Information collected on the Website, in accordanc
 
 If you have consented to our doing so, we may also share your personal data with third parties in order that they may offer you information about their goods and services.
 
-Because non-personal information does not personally identify you, we may use or disclose such information for any purpose. In some instances, we may combine non-personal information with Personal Information (such as embedding email addresses in cookies).  If we do combine any non-personal information with Personal Information, the combined information will be treated by us as Personal Information in accordance with this Policy.
+Because nonpersonal information does not personally identify you, we may use or disclose such information for any purpose. In some instances, we may combine nonpersonal information with Personal Information (such as embedding email addresses in cookies). If we do combine any nonpersonal information with Personal Information, the combined information will be treated by us as Personal Information in accordance with this Policy.
 
 Based upon your specific relationship(s) with ETS, we may disclose your Personal Information in ways described in more detail in one or more Other Agreements. 
 
@@ -109,7 +109,7 @@ Back to Top
 
 ## Choice to Opt Out and Access to Your Information
 
-When you register for a test online or create an account, you will have the ability to opt out of receiving certain communications from ETS, including voicemail or email. If you do not opt out at registration, but later decide that you would prefer not to receive email communications from ETS, please contact that particular testing program through www.ets.org. Remember, however, that ETS may still send email or call you in order to provide a product or service that you request.
+When you register for a test online or create an account, you will have the ability to opt out of receiving certain communications from ETS, including voicemail or email. If you do not opt out at registration, but later decide that you would prefer not to receive email communications from ETS, please contact that particular testing program through [www.ets.org](https://web.archive.org/). Remember, however, that ETS may still send email or call you in order to provide a product or service that you request.
 
 Except as otherwise specified in an Other Agreement, you can also access your Personal Information to update or correct factual errors in your Personal Information by sending us an email at [etsinfo@ets.org](mailto:etsinfo@ets.org). To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
