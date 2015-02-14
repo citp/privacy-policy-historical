@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibid2save.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128130849id_/http%3A//www.ibid2save.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibid2save.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214100247id_/http%3A//ibid2save.com/privacy.php) for the most accurate reproduction.*
 
 # ibid2SAVE Privacy Policy
 
