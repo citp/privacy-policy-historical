@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gulahmedshop.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209053500id_/http%3A//www.gulahmedshop.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulahmedshop.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214075328id_/http%3A//gulahmedshop.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Gul Ahmed Shop, Pakistan
+
+## Privacy Policy
 
 | 
 
@@ -66,4 +68,5 @@ H/7 LANDHI INDUSTRIAL AREA
 KARACHI PAKISTAN  
 74600  
 111 486 486 Ext 6521 / 6536 / 6530  
-[mediamarketing@gulahmed.com](mailto:mediamarketing@gulahmed.com)
+[mediamarketing@gulahmed.com](mailto:mediamarketing@gulahmed.com)  
+ 
