@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hellporno.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113143126id_/http%3A//hellporno.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellporno.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214082229id_/http%3A//hellporno.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
-Effective date: 13, November, 2014.   
+Effective date: 13, February, 2015.   
 Last modified: 16 December, 2011. 
 
 #### I. General 
