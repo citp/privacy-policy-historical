@@ -1,35 +1,47 @@
-> *The following text is extracted and transformed from the dugout.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095432id_/http%3A//dugout.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dugout.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214060402id_/http%3A//dugout.com/privacy.php) for the most accurate reproduction.*
 
-# dugout.com
+# Privacy Policy - Dugout.com
 
-Collection of Information
+This privacy policy identifies and describes how "Dugout.com" uses and protects any information that we collect or that you give to "Dugout.com" when you use this website.
 
-Adhering to and accepting the provisions of this privacy policy is a requirement for people who wish to visit and use our site. Here you can learn about our policies on gathering information, as well as how we use aggragete information we collect. We do not collect personally identifiable information except for when the user is taking a specific action such as providing contact information or requesting services such as a product or a newsletter. No personal information is secretly taken from users. All information can only be taken with the user's expressed consent.
+"Dugout.com" is committed to ensuring that your privacy is protected. If we ask you to provide certain information by which you can be identified when using this website then you can be assured that it will only be used in accordance with the current privacy policy. "Dugout.com" may change this policy at any time and without notice. You may view the most updated privacy policy by clicking on the ìPrivacy Policyî hyperlink at the bottom of the page.
 
-We do not use information from our users to track their movements on the Internet, and any user can request that their information be removed from our servers by following the instructions of our opt out provision below.
+**We may collect the following information:**
 
-Cookies
+  * Contact information that allows us to communicate with you. This may include your name, address, telephone number, and e-mail address.
+  * Demographic information will be collected. It will be utilized by us to better improve the userís experience on this Web site. This may include information such as age, gender, nationality, postal code, preferences, and interests
 
-We use cookies to learn more about how users interact with our site, which helps us to improve our site's overall user experience. Cookies are small files placed by your Web browser onto the hard drive of your computer. Data from cookies presents us with aggragate information that can help us to optimize content displays, improve the functionality of our design and deliver broad, demographic data to advertisers and business partners. We do not use information from cookies to track users or draw more information from them.
 
-Visitors to our site may set their Web browsers to reject cookies, but some features of our site may not work as intended unless cookies are enable. We are not responsible for how our site works when cookies are disabled in the browser.
 
-Third Party Links
+**We collect the information in two primary ways:**
 
-Our site may sometimes host advertisement and links posted here by outside entities including advertisers and business partners. These entities have their own privacy policies governing what they do with information gathered from their Web sites and landing pages.
+  * You provide the information when you purchase or interact with a product on the Web site.
+  * The information is collected automatically when you visit the Website or use our products and services.
 
-Information to Third Parties
 
-We do not disburse information from our users to third-party entities, regardless of whether they are advertisers or business partners. Our only exception to this policy occurs when giving your information is being done in accordance with the law, or at the request of legal authorities. We are obligated to work with the law to resolve legal matters and protect our users.
 
-Our Security
+**We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:**
 
-We take Web security very seriously and protect our users with powerful anti virus and encryption software. Our goal is to allow our users to be safe and satisfied when using our site.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional email about new products, special offers or other - information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+  * We may use the information to customize the website according to your interests.
 
-Changes to our Privacy Policy
 
-Changes to our privacy policy will be prominently displayed on this page.
 
-Opting Out
+### Your personal information
 
-Visitors and customers who opt out of services will no longer receive communications, services or products from us. We destroy all personally identifiable information from people who choose to opt out from our services. To opt out, please send us an email with "OPT OUT" in the subject line to optout@dugout.com.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
+
+### Security
+
+We are committed to ensuring that your information is safe and secure. Measures are taken to insure the safety of your information as well as the unauthorized access of that information. Safeguards to protect the information we collect online include, but are not limited to, organizational, administrative, and technical (SSL, firewalls, etc.) means.
+
+### How we use cookies
+
+Cookies are small files that ask permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to customize your individual web experience. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes. The data is then removed from the system. Overall, cookies help us provide you with a better overall user experience, by enabling us to monitor which pages you find useful and which you do not. A cookie does not gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies in the settings of your web browser. However, this may prevent you from taking full advantage of the website.
+
+### Links to other websites
+
+Our website may contain links to enable you to visit other third party websites. However, once you have used these links to leave our site, you should note that we do not have any control over that third party website and you will be subject to their privacy policy. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. 
