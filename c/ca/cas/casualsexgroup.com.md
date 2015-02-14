@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casualsexgroup.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917105345id_/http%3A//www.casualsexgroup.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casualsexgroup.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214071733id_/http%3A//www.casualsexgroup.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Casual Sex Group: Join Right Now for FREE. Search through thousands of LOCAL PROFILES on CasualSexGroup.com
 
