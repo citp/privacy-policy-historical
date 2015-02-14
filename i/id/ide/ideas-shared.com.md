@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideas-shared.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928055502id_/http%3A//ideas-shared.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideas-shared.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214034712id_/http%3A//ideas-shared.com/privacy-policy) for the most accurate reproduction.*
 
 # Ideas-Shared | Easy Idea Sharing Community
 
