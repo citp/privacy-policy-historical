@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the infobip.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606204938id_/http%3A//policies.infobip.com/privacy/general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobip.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215105630id_/http%3A//policies.infobip.com/privacy/general) for the most accurate reproduction.*
 
 # Infobip Policies
 
-Last change: Mon, 17 Jun 13
+Last change: Fri, 12 Sep 14
 
 ##  Privacy policy
 
-This privacy policy sets out how INFOBIP Limited (registered number: 122767C) whose registered office is at 6th Floor, Clinch's House, Lord Street, Douglas, Isle of Man IM99 1RZ ("Us" "We" "Our") uses and protects any information that You give Us when You use this website (referred to as the "Website").
+This privacy policy sets out how INFOBIP Limited, registered in the United Kingdom and whose registered office is situated at 5th Floor, 86 Jermyn Street, London SW1Y 6AW ("Us" "We" "Our"), uses and protects any information that You give Us when You use the Infobip services over this website (referred to as the "Website").
 
 We are committed to ensuring that Your privacy is protected. Should We ask You to provide certain information by which You can be identified when using this website, then You can be assured that it will only be used in accordance with this privacy statement.
 
@@ -18,9 +18,9 @@ We may collect the following information:
 
     * name and job title
     * contact information including email address
-    * credit or debit card information
     * mobile telephone number and network details
     * other information relevant to customer surveys and/or offers
+    * billing address
   2. What we do with the information
 
 We gather We require this information to understand Your needs and provide You with a better service, and in particular for the following reasons:
@@ -31,7 +31,7 @@ We gather We require this information to understand Your needs and provide You w
     * In particular, We may use the information to contact You for Your views on Our services and to notify You occasionally about important changes or developments to the Website or Our services.
     * We may periodically send promotional emails about new products, special offers or other information which We think You may find interesting using the email address which You have provided.
     * From time to time, We may also use Your information to contact You for market research purposes. We may contact You by email, phone, fax or mail. We may use the information to customize the Website according to Your interests.
-    * Internal record keeping
+    * Internal record keeping of all data needed for the performance of services.
   3. Security
 
 We are committed to ensuring that Your information is secure. In order to prevent unauthorised access or disclosure, We have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information We collect online. We will retain Your information for a reasonable period or as long as the law requires.
@@ -61,20 +61,7 @@ You may choose to restrict the collection or use of Your personal information in
 
   7. Accessing and updating
 
-You are entitled to see the information held about You and You may ask Us to make any necessary changes to ensure that it is accurate and kept up to date. You may request details of personal information which We hold about You under the Data Protection Act 1998. A small fee will be payable.
-
-  8. Contact
-
-All comments, queries and requests relating to Our use of Your information are welcomed and should be addressed to:
-
-> The Data Controller  
->  INFOBIP Ltd.  
->  6th Floor, Clinch's House  
->  Lord Street  
->  Douglas  
->  Isle of Man IM99 1RZ   
->  Email: [support@infobip.com](mailto:customer.support@infobip.com)  
->  Phone no: +44 (20) 3286 4235
+You are entitled to see the information held about You and You may ask Us to make any necessary changes to ensure that it is accurate and kept up to date. You may request details of personal information which We hold about You. A small fee will be payable.
 
 
 
