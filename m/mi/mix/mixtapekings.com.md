@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mixtapekings.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729070947id_/http%3A//www.mixtapekings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixtapekings.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215143438id_/http%3A//www.mixtapekings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | mixtapekings.com
+# Privacy Policy - mixtapekings.com
 
 Mixtapekings.com is committed to protecting your privacy. This Mixtapekings.com Privacy Policy (the “Policy”) applies to all information we learn about or obtain from you when you visit the Mixtapekings.com website (the “Site”). By visiting or accessing the Site, you accept the provisions of this Policy and the provisions of our [Terms of Use](https://web.archive.org/terms-conditions/ "Terms & Conditions").
 
