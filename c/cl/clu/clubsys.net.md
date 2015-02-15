@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clubsys.net privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005092758id_/http%3A//www.clubsys.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubsys.net privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215010234id_/http%3A//clubsys.net/privacy-policy) for the most accurate reproduction.*
 
-# ClubSys - Club Management Software - Privacy Policy
+# Privacy Policy - ClubSys - Club Management Software
 
 ##  Privacy Statement 
 
