@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youraffiliatesuccessformula.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004012934id_/http%3A//extremewealthpotentials.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youraffiliatesuccessformula.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215103840id_/http%3A//extremewealthpotentials.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
