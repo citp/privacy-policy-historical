@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229061517id_/http%3A//www.plazahotelcasino.com/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215091901id_/http%3A//www.plazahotelcasino.com/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Downtown Las Vegas Hotel & Casino - plazahotelcasino.com ::Privacy Policy
 
