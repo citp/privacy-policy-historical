@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wanktube.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123164359id_/http%3A//www.wanktube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanktube.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215102451id_/http%3A//www.wanktube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
