@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcent.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602104552id_/http%3A//mcent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcent.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215101406id_/http%3A//mcent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - mCent
 
@@ -6,7 +6,7 @@
 
 Effective September 3, 2010
 
-This privacy statement describes how Jana Mobile, inc. collects and uses the personal information you provide on our Web sites: www.mcent.com & www.txteagle.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Jana Mobile, inc. collects and uses the personal information you provide on our Web site: www.mcent.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
   * Collection and Use of Personal Information
   * Choice/Opt-Out
@@ -53,7 +53,7 @@ We use this information to:
 
 ### Choice/Opt-Out
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at info@txteagle.com
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you may unsubscribe on your account [settings](https://web.archive.org/account/settings/).
 
 We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
 
@@ -100,7 +100,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can contact us at info@txteagle.com
+If you have any questions about security on our Web site, you can contact us [here](https://web.archive.org/support/other_issue).
 
 ### Additional Policy Information
 
@@ -108,7 +108,7 @@ You can log in to our site using sign-in services such as Facebook Connect or an
 
 ### Correcting and Updating Your Personal Information
 
-To review and update your personal information to ensure it is accurate, contact us at info@txteagle.com.
+To review and update your personal information to ensure it is accurate, please check your account [settings](https://web.archive.org/account/settings/).
 
 ### Notification of Privacy Statement Changes
 
@@ -118,9 +118,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-Jana Mobile, inc.  
-883 Boylston Street  
-Boston, MA, United States 02116  
+Jana Mobile, Inc.  
+141 Tremont St. #4  
+Boston, MA, United States 02111  
 
-
-Email: info@txteagle.com
