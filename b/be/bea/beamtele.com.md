@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beamtele.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224020727id_/http%3A//www.beamtele.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beamtele.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215063044id_/http%3A//www.beamtele.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Beam Fiber Privacy Policy | Beam Information sharing disclosure
 
