@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostamazingplanet.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023090448id_/http%3A//mostamazingplanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostamazingplanet.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215103106id_/http%3A//mostamazingplanet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Most Amazing Planet
 
