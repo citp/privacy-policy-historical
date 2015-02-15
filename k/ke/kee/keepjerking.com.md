@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keepjerking.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820012841id_/http%3A//www.keepjerking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepjerking.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215113246id_/http%3A//keepjerking.com/privacy.html) for the most accurate reproduction.*
 
-# CUSTODIAN OF RECORDS - U
+# PRIVACY POLICY
 
 **PRIVACY POLICY**
 
