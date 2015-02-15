@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housingjapan.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102151725id_/http%3A//housingjapan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housingjapan.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215144531id_/http%3A//housingjapan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Housing Japan
 
