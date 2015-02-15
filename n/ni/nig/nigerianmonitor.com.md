@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigerianmonitor.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008101407id_/http%3A//iconwaymedia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigerianmonitor.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215095141id_/http%3A//iconwaymedia.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Iconway Media
 
@@ -65,4 +65,4 @@ We may update this Privacy Policy from time to time. If under any such update we
 
 **12\. Questions.**
 
-If you have any questions about this Privacy Policy, please feel free to contact us by email at info@iconwaymedia.com. 
+If you have any questions about this Privacy Policy, please feel free to contact us by email at info@iconwaymedia.com.
