@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the7kteamsystem.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002204023id_/http%3A//the7kteamsystem.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the7kteamsystem.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215183905id_/http%3A//the7kteamsystem.com/privacy.php) for the most accurate reproduction.*
 
 # The 7K Team System
 
