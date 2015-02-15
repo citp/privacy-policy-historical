@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kutenda.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627223634id_/http%3A//kutenda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kutenda.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215070512id_/http%3A//kutenda.com/privacy-policy) for the most accurate reproduction.*
 
-# Kutenda's Privacy Policy
+# Privacy Policy | Kutenda
 
 KUTENDA, LLC, a Colorado limited liability company (“Kutenda”) has adopted this Privacy Policy (“Privacy Policy”) to ensure respect for, and protect the privacy of, Kutenda’s customers, users and visitors to which each User shall adhere in connection with Accessing the Site (as each term is hereinafter defined). Capitalized terms used but not otherwise defined herein shall have the meanings ascribed to such terms in Kutenda’s Terms of Use (“Terms of Use”).
 
