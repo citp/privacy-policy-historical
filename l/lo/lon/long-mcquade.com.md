@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the long-mcquade.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807160622id_/https%3A//www.long-mcquade.com/content/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the long-mcquade.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216101857id_/https%3A//www.long-mcquade.com/content/7) for the most accurate reproduction.*
 
 # Content - Long & McQuade Musical Instruments
 
