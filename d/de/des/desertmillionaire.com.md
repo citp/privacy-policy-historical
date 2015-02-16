@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desertmillionaire.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205195701id_/http%3A//desertmillionaire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertmillionaire.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216021843id_/http%3A//desertmillionaire.com/privacy.html) for the most accurate reproduction.*
 
 # Desert Millionaire
 
