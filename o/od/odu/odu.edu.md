@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the odu.edu privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708132242id_/http%3A//www.odu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odu.edu privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216230956id_/http%3A//www.odu.edu/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Statement - Old Dominion University
 
-  * [ODU Home](https://web.archive.org/)
-  * Internet Privacy Statement
+Due to winter weather forecasted for the Hampton Roads region, Old Dominion University will close today, Feb. 16, at 4 p.m.
 
+All classes that begin at 4 p.m., or later, are cancelled. Classes that are in session and scheduled to meet until after 4 p.m. will end at 4 p.m. 
 
+All activities and events scheduled after 4 p.m. are cancelled.
+
+Essential personnel should report for duty as normal. Questions should be addressed to your supervisor.
 
 We reserve the right to amend our Internet Privacy Policy and Internet Privacy Policy Statement at any time without notice.
 
