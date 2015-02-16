@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myenglishlab.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207132255id_/http%3A//www.pearsonelt.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myenglishlab.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216204356id_/http%3A//www.pearsonelt.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy – Pearson ELT
 
@@ -29,8 +29,8 @@ Through your use of this site, you consent to the above policy regarding use and
 This Website is hosted on a server in the EU or the US. If you have any questions in relation to the above, please do not hesitate to contact us at
 
 Pearson Education,  
-Edinburgh Gate,  
-Harlow, Essex,   
-CM20 2JE
-
+80 Strand,  
+London,   
+WC2R 0RL,  
+United Kingdom  
 marked for the attention of the Webmaster.
