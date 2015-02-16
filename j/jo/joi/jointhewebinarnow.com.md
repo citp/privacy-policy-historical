@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jointhewebinarnow.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103224146id_/http%3A//jointhewebinarnow.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointhewebinarnow.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216202627id_/http%3A//www.jointhewebinarnow.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
