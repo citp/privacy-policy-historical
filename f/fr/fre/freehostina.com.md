@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehostina.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113155703id_/http%3A//www.freehostina.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehostina.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216042319id_/http%3A//www.freehostina.com/privacy.html) for the most accurate reproduction.*
 
 # FreeHostina.com - Unlimited File Hosting!
 
