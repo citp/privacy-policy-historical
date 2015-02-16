@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sklz.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212103524id_/http%3A//www.sklz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sklz.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216163830id_/http%3A//www.sklz.com/privacy-policy) for the most accurate reproduction.*
 
-# SKLZ - Privacy Policy
+# Privacy Policy - SKLZ
 
 ## SECURITY AND PRIVACY
 
