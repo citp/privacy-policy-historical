@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnewsonline.net privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007091720id_/http%3A//sunnewsonline.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnewsonline.net privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216015213id_/http%3A//sunnewsonline.net/privacy.html) for the most accurate reproduction.*
 
 # 
 
