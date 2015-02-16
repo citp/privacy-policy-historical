@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orkutfans.in privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802141207id_/http%3A//www.orkutfans.in/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkutfans.in privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216125926id_/http%3A//www.orkutfans.in/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -18,4 +18,4 @@ We also use third party advertisements on www.orkutfans.com to support our site.
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-[HOME](https://web.archive.org/web/20140802141207id_/http%3A//www.orkutfans.in/)
+[HOME](https://web.archive.org/web/20150216125926id_/http%3A//www.orkutfans.in/)
