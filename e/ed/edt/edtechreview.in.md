@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edtechreview.in privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003021812id_/http%3A//edtechreview.in/downloads/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edtechreview.in privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216083634id_/http%3A//cdnedtechreview.a.cdnify.io/downloads/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
