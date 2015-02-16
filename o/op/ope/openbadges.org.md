@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openbadges.org privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008081411id_/http%3A//beta.openbadges.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openbadges.org privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216062410id_/http%3A//beta.openbadges.org/privacy.html) for the most accurate reproduction.*
 
 # None
 
@@ -14,7 +14,7 @@ This section is a summary of our privacy practices about the Mozilla Badge Backp
 
 ### April 4, 2012
 
-This policy describes how Mozilla handles the information we collect about you when you use the Mozilla Badge Backpack. We have separate privacy policies for our other products and services, please [see here](http://www.mozilla.org/about/policies/privacy-policy.html) for more. 
+This policy describes how Mozilla handles the information we collect about you when you use the Mozilla Badge Backpack. We have separate privacy policies for our other products and services, please [see here](http://www.mozilla.org/privacy/websites/) for more. 
 
 Some words we use in this policy that you should know: 
 
@@ -130,8 +130,8 @@ Mozilla Corporation
 
 Attn: Legal Notices—Privacy
 
-650 Castro Street, Suite 300
+331 E. Evelyn Ave.
 
-Mountain View, CA 94041-2072
+Mountain View, CA 94041
 
 Phone: +1-650-903-0800 
