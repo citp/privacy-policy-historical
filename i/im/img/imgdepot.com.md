@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgdepot.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105185050id_/http%3A//imgdepot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgdepot.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216072110id_/http%3A//imgdepot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - imgDepot.com
 
