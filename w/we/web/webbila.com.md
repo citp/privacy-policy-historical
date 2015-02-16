@@ -1,73 +1,66 @@
-> *The following text is extracted and transformed from the webbila.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209075239id_/http%3A//www.webbila.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbila.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216043622id_/http%3A//www.webbila.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « WebBila- Domain, Shared, VPS & Dedicated Hosting, SEO Services
+# Privacy Policy
 
-### Our Policy
+At WebBila we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us.
 
-This Privacy Policy governs the manner in which WebBila collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.webbila.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by WebBila.
+### Collection of Information
 
-### Personal identification information
+We collect various information when you register with Company, during your usage of our products and services, when you visit pages of our partners. We may combine information about you that we have with information we obtain from other partners or other companies in order to provide you a better experience or to improve the quality of our services. When you sign in to our services, you are not anonymous to us. We automatically receive and record information from your computer and browser, including your IP address, our cookie information, software and hardware attributes, the page you request and other standard browser parameters.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+When you use our services, we send one or more cookies – a small file containing a string of characters – to your device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends, and providing you with a better experience. We may set one or more cookies in your browser when you use our services or one of our partner’s services. When you send messages, publish content, post material, transmit information or email through our services, we may retain the same in order to process your inquiries, respond to your requests and improve our services.
 
-### Non-personal identification information
+Our infrastructure consists of servers deployed at multiple datacenters that are owned and operated by us or our partners. All information collected within our services resides on this network of servers.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+### Use of Information
 
-### Web browser cookies
+We only use and process personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include:
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+  * Communicating with you
+  * Making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information
+  * Providing our services
+  * Auditing, research and analysis in order to maintain, protect and improve our services
+  * Ensuring the technical functioning of our network
+  * Protecting our rights or property and that of our users
+  * Developing new services
+  * As described in the respective terms of service of each of our services and in the WebBila Inc. Customer Master Agreement
 
-### How we use collected information
 
-WebBila may collect and use Users personal information for the following purposes:
 
-**\- To improve customer service**  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-****
+### No-Spam Policy
 
-**\- To personalize user experience**  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-****
+We have a strict No-Spam Policy prohibiting the use of any data collected to send spam. We will not sell any contact information to third parties.
 
-**\- To improve our Site**  
-We may use feedback you provide to improve our products and services.  
-****
+### Choices for Personal Information
 
-**\- To process payments**  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose defined herein and in the terms of the services offered then we will ask for your consent prior to such use. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our features and services may not function properly if your cookies are disabled. You can decline to submit personal information to any of our services, in which case we may not be able to provide those services to you.
 
-**\- To run a promotion, contest, survey or other Site feature**  
-To send Users information they agreed to receive about topics we think will be of interest to them.
+### Information Sharing
 
-**\- To send periodic emails**  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc.
+We only share personal information with other companies or individuals in the following limited circumstances:
 
-**How we protect your information**
+  * We have your consent
+  * Sharing the information with our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to:  
+(a) satisfy any applicable law, regulation, legal process or enforceable governmental request,  
+(b) enforce applicable Terms of Service, including investigation of potential violations thereof,  
+(c) detect, prevent, or otherwise address fraud, security or technical issues, or  
+(d) protect against harm to rights, property or safety, of our users, us or the public as required or permitted by law.
+  * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users by demographic. Such information does not identify you individually.
+  * As permitted and described in the respective terms of service of each of our services and in the WebBila Inc. Customer Master Agreement
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-**Sharing your personal information**
+### Information Security
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-**Changes to this privacy policy**
+We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-WebBila has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+### Accessing and Updating Personal Information
 
-**Your acceptance of these terms**
+When you use our services, we make good faith efforts to provide you with access to your personal information and to correct this data if it is inaccurate.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+### Changes to this Privacy Policy
 
-### Contacting us
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
-
-http://www.webbila.com/
-
-WebBila Inc.  
-SCF 2, Phase 11, Mohali, Chandigarh  
-+919041020104  
-info@webbila.com
+Please note that this Privacy Policy may change from time to time.
