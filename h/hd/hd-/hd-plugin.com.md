@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hd-plugin.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123165041id_/https%3A//www.hdvidcodec.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hd-plugin.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216221556id_/https%3A//www.hdvidcodec.com/privacy_policy.php) for the most accurate reproduction.*
 
 # HDvidCodec
 
