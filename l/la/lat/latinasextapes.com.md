@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinasextapes.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330232914id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dlst) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinasextapes.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217000039id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dpup) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -76,4 +76,4 @@ Each subscriber should carefully read each of the terms and conditions of member
 
 ### Terms and Conditions:
 
-[LatinaSexTapes.com](http://www.latinasextapes.com/tour/ "LatinaSexTapes.com")
+[PublicPickUps.com](http://www.publicpickups.com/tour/ "PublicPickUps.com")
