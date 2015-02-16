@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the installspeed.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205070946id_/http%3A//installspeed.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installspeed.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216045539id_/http%3A//installspeed.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | iLivid.com
 
