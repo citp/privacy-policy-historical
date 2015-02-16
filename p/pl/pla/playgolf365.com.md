@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playgolf365.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623145824id_/http%3A//playgolf365.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgolf365.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216015200id_/http%3A//playgolf365.com/privacy) for the most accurate reproduction.*
 
-# Privacy » Play Golf 365
+# Privacy - Play Golf 365
 
 **Privacy**
 
