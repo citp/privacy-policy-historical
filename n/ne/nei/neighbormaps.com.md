@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neighbormaps.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006162122id_/http%3A//www.neighbormaps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighbormaps.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217004533id_/http%3A//www.neighbormaps.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NeighborMaps
 
