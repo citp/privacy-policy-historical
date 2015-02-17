@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bodyrock.tv privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131157id_/http%3A//www.bodyrock.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyrock.tv privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217080459id_/http%3A//www.bodyrock.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy 1 BodyRock.Tv
+# Privacy Policy - BodyRock.Tv
 
 Illuminata Entertainment Corp. Privacy Policy  
 The following privacy statement covers all of the Illuminata Entertainment Corp’s websites. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, please contact us.
