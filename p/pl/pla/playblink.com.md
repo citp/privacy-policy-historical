@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playblink.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055304id_/http%3A//www.playblink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playblink.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217024152id_/http%3A//www.playblink.com/privacy.html) for the most accurate reproduction.*
 
 # Playblink - Privacy Policy
 
@@ -6,10 +6,9 @@ We do not sell, distribute or otherwise disseminate any information collected to
 
 **Privacy Statement**
 
-PlayBlink.com only lists the information provided by Steam and our users. We do not store any delicate information. We store the following information: 
+PlayBlink.com only lists the information provided by Steam OpenID and our users. We do not store any delicate information. We store the following information: 
 
 \- Username  
-\- Password  
 \- IP Address  
 \- Email Address  
 \- Steam Information (Provided by Steam, e.g. SteamID, Steam Avatar, Steam Profile State, Steam Profile Url) 
@@ -18,7 +17,7 @@ We are not responsibility for any loss or anything that occurs. Please be carefu
 
 **Cookies**
 
-Our website stores a cookie on your computer, if allowed by your browser's privacy settings. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences. The cookies are kept for 7 days. 
+Our website stores a cookie on your computer, if allowed by your browser's privacy settings. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences. The cookies are kept for 90 days. 
 
 **Advertisers**
 
