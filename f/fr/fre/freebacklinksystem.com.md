@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebacklinksystem.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208102633id_/http%3A//www.freebacklinksystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebacklinksystem.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217070017id_/http%3A//www.freebacklinksystem.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
