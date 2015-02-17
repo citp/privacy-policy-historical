@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfoxy.com privacy policy that was archived on 2014-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140110174843id_/http%3A//pdfoxy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfoxy.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217145325id_/http%3A//pdfoxy.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | PDFoxy
 
