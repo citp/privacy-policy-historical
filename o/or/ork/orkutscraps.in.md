@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orkutscraps.in privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714221209id_/http%3A//www.orkutscraps.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkutscraps.in privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217223316id_/http%3A//www.orkutscraps.in/privacy-policy.php) for the most accurate reproduction.*
 
 # orkut scraps,funny facebook photos,new year 2013,orkut scraps birthday,christmas 2012 greetings scraps
 
