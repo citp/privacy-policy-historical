@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crn.in privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207044856id_/http%3A//www.crn.in/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crn.in privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217024522id_/http%3A//www.crn.in/static/privacy-policy) for the most accurate reproduction.*
 
 # CRN India Privacy Policy
 
