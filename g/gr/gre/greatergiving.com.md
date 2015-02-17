@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the greatergiving.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520061418id_/http%3A//greatergiving.com/Portals/0/docs/Security-Privacy-FinancialTransactions.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatergiving.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217212206id_/http%3A//www.greatergiving.com/Portals/0/docs/Security-Privacy-FinancialTransactions.pdf) for the most accurate reproduction.*
 
 # 
 
 Security, Privacy and Financial Transactions
 Greater Giving Products and Services
-October 2012
+May 2014
 Greater Giving                                   www.greatergiving.com
 1920 NW Amberglen Pkwy Security, Privacy, and Financial Transactions, Page 1
 Suite 140
@@ -78,30 +78,29 @@ certificates. Cardholder Information is only stored for processing and then the 
 reduced to the first and last four digits of the card number. Card Security Codes are never stored and
 are only used during the transaction and track 3 data from credit cards is not read.
 Access and Sharing of Cardholder Information
-Greater Giving Online Payments will forward the Cardholder Information only to the credit card
+Greater Giving’s Online Applications will forward the Cardholder Information only to the credit card
 processing network. The only other access to the cardholder information is by select Greater Giving
 employees who require the information for legitimate business purposes, such as the resolution of
 cardholder disputes or to apply authorized recurring charges. This may involve sharing cardholder
 information with Greater Giving’s credit card processor but there is no other sharing of the
 information.
 Physical Access Control
-The servers running Greater Giving Online Payments and managing its data are in a hosted data
+The servers running Greater Giving’s Online Applications and managing its data are in a hosted data
 center with physical access control in order to prevent theft of the equipment holding cardholder
 information. Only authorized personnel are allowed to enter the data center.
 Electronic Security Control
-The servers running Greater Giving Online Payments and managing its underlying data are secured
-using industry standard practices. A firewall enforcing restrictions to the minimum number of ports
-open to the public Internet is maintained at all times by certified personnel. Server software is kept
-up-to-date with the latest security patches. Electronic monitoring tools send an alert on a 24x7 basis
-in case of non-responsiveness, high load conditions or other indications of penetration attacks.
+The servers running Greater Giving’s Online Applications and managing its underlying data are
+secured using industry standard practices. A firewall enforcing restrictions to the minimum number
+of ports open to the public Internet is maintained at all times by certified personnel. Server software
+is kept up-to-date with the latest security patches. Electronic monitoring tools send an alert on a 24x7
+basis in case of non-responsiveness, high load conditions or other indications of penetration attacks.
 Administrative access to the servers is restricted to very few select personnel who have been screened
 for security concerns.
 Data Archiving
 Greater Giving performs continuous backups of the production data for recovery purposes. Any data
-backups of the Online Payments Cardholder Information are stored in a secure facility and are
-completely erased when they expire. The data on the archives maintain the encryption as defined
-above and are not allowing decryption from the backup media because it requires a separate security
-certificate.
+backups of cardholder information are stored in a secure facility and are completely erased when they
+expire. The data on the archives maintain the encryption as defined above and are not allowing
+decryption from the backup media because it requires a separate security certificate.
 Greater Giving                                                             www.greatergiving.com
 1920 NW Amberglen Pkwy                           Security, Privacy, and Financial Transactions, Page 4
 Suite 140
@@ -129,9 +128,9 @@ Greater Giving uses certain heuristics developed specifically for Greater Giving
 detect fraudulent use. If suspicious transactions are detected, the client will be notified and further
 investigation will determine next steps.
 Data Protection
-Several of Greater Giving’s products provide Websites with attached databases to manage data for
-our clients. Protecting this data from loss because of server failures is part of the backup procedures
-and the business continuity policies.
+Several of Greater Giving’s products provide websites with attached databases to manage data for our
+clients. Protecting this data from loss because of server failures is part of the backup procedures and
+the business continuity policy.
 Greater Giving runs redundant hardware in its data centers. This starts at the server level, where
 servers are equipped with hot-swappable redundant arrays of disk drives (RAID), multiple power
 supplies and multiple CPUs. Each critical server is accompanied with a stand-by server of the same
@@ -140,10 +139,8 @@ cannot recover from. The data center has backup power from generators and multip
 connections from different providers so that it is isolated from power failures and Internet
 connectivity interruption by a single vendor.
 Greater Giving maintains two data centers and subscribes to a commercial backup storage service in
-order to protect the data. The production databases run a full back up once every night that is then
-transferred to a separate server in the same data center and to the second data center as well.
-Incremental backups are then run every 10 minutes and also shipped to these different locations.
-Furthermore, on a rotating basis, backup tapes are pulled once a day and stored in the secure
+order to protect the data. Incremental backups are run every 10 minutes and shipped to a secondary
+location. Furthermore, on a rotating basis, backup tapes are pulled once a day and stored in the secure
 commercial backup storage facility.
 Greater Giving                                                             www.greatergiving.com
 1920 NW Amberglen Pkwy                           Security, Privacy, and Financial Transactions, Page 5
@@ -153,7 +150,7 @@ Beaverton, OR 97006
 
 Financial Transaction Handling
 Greater Giving processes credit card charges from supporters for its clients either using credit card
-terminals at events or using online web sites. The following describes the handling of those charges
+terminals at events or using online websites. The following describes the handling of those charges
 and their deposit into client bank accounts.
 Greater Giving creates a unique merchant account with its processing partner for each client to ensure
 that each client's payment transactions are handled correctly. A few days after the credit card charges
@@ -166,7 +163,7 @@ the agreement for payment services, Greater Giving transfers the funds, less the
 the client directly into the client's bank account or by check.
 Accurate and timely processing of the transactions are of paramount importance to Greater Giving’s
 operations. Greater Giving selects its banking partners and payment processors based on their
-financial stability and maturity of their processing operations Greater Giving’s payment processors
+financial stability and maturity of their processing operations. Greater Giving’s payment processors
 for credit card terminal and online transactions process millions of transactions per year on a
 worldwide basis and do so with high reliability and security. Greater Giving’s banking partners are
 nation-wide public financial institutions with tens of billions of assets and operations well equipped
@@ -177,7 +174,7 @@ client, subtracts its specified fees, issues the fund transfer for the client, a
 statement. Separately, clients receive transaction reports from their settlements either from the credit
 card terminal or through the reporting available in Greater Giving Online Payments. This allows
 clients to verify their summary statements of funds received.
-Greater Giving has processed in excess of $2.5 Billion for more than 11,000 client organizations. Its
+Greater Giving has processed in excess of $3 Billion for more than 11,000 client organizations. Its
 system has handled more than 6,000,000 individual credit card transactions with no outstanding
 reconciliations.
 Greater Giving                                                              www.greatergiving.com
@@ -187,17 +184,17 @@ Beaverton, OR 97006
 
 
 Privacy Statement
-The following defines Greater Giving’s policies for Websites that it maintains either for its own
+The following defines Greater Giving’s policies for websites that it maintains either for its own
 purposes or on behalf of its clients.
          It is our policy that no information of any kind or from any source about visitors to this site,
          our clients or our clients' customers, is sold or released to anyone without the prior consent
          of the visitor, client or client's customer, or without a court order. This includes email
-         registration to mailing lists, contact forms, and browsing logs. Reports of Website visitor
+         registration to mailing lists, contact forms, and browsing logs. Reports of website visitor
          behavior are generated by our system. These reports contain personally identifiable
          information only if you choose to identify yourself to us.
 Non-personally-identifiable Information Collected by Our Site
 We collect the following types of non-personally-identifiable information about users who visit our
-Website: your IP address (a unique number assigned to every computer on the Internet); domain type
+website: your IP address (a unique number assigned to every computer on the Internet); domain type
 (i.e., .com, .net, or .edu.); and standard information included with every communication sent on the
 Internet. Information which we can infer from this standard information includes: your browser
 version and type (e.g., Netscape or Internet Explorer); operating system (e.g., Windows or DOS);
