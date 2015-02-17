@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceobject.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224234742id_/http%3A//www.raceobject.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceobject.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217191838id_/http%3A//www.raceobject.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
