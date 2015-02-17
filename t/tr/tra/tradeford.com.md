@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeford.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202221708id_/http%3A//www.tradeford.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeford.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217011724id_/http%3A//www.tradeford.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # TradeFord.com Privacy Policy - B2B Trade Platform for International Trade
 
