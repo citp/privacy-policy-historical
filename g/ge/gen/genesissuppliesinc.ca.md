@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genesissuppliesinc.ca privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417181852id_/http%3A//www.genesissuppliesinc.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genesissuppliesinc.ca privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217043708id_/http%3A//www.genesissuppliesinc.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
