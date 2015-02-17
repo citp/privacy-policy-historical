@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcgus.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817154953id_/http%3A//www.publicconsultinggroup.com/privacy-terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcgus.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217085224id_/http%3A//www.publicconsultinggroup.com/privacy-terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PCG : Public Consulting Group
 
