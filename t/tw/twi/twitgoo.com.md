@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitgoo.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228103047id_/http%3A//twitgoo.com/a/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitgoo.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217070832id_/http%3A//twitgoo.com/a/privacy) for the most accurate reproduction.*
 
 # Twitgoo - Privacy Policy
 
