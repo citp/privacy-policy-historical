@@ -1,85 +1,85 @@
-> *The following text is extracted and transformed from the kashoo.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724103134id_/https%3A//www.kashoo.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kashoo.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217224531id_/https%3A//www.kashoo.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Kashoo Online Accounting
+# Kashoo | Simple Cloud Accounting - Privacy Policy
 
-**Privacy Statement Effective as of March 15, 2010**
+## 1\. Scope
 
-Kashoo is a (Software As A Service) SAAS company. We are developers and distributors of easy-to-use financial software for small businesses and self employed professionals. Using the cloud accounting model, Kashoo allows clients to access their accounting records over the internet. Accountants and Book keepers can also access client financial records through a secure access system over the internet.
+* * *
 
-Kashoo, Inc. (“or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes Kashoo’s information practices.  
-If you have any questions about this Privacy Statement, please contact Kashoo at [answers@kashoo.com](mailto:answers@kashoo.com) or by calling 888 520-5274.
+Kashoo Cloud Accounting Inc. (Kashoo, we or us) takes your privacy seriously. This [Privacy Policy](http://kashoo.com/privacypolicy.html), which forms part of Kashoo’s [Terms of Service](http://kashoo.com/termsofservice.html), explains how Kashoo collects, uses and protects personal and private information submitted and collected as part of our online software service and generally on our website or mobile applications (together, the Service).
 
-**1\. Web Sites Covered**  
-This Privacy Statement covers the information practices of www.kashoo.com  
-Kashoo web sites may contain links to other web sites. Kashoo is not responsible for the information practices or the content of such other web sites. The Company encourages you to review the privacy statements of other web sites to understand their information practices.
+a. Information means information that determines the identity of an individual or business. Most of the Information we collect is considered personal, private and sensitive, such as the financial information you give us. Some Information is not. We take the collection and storage of Information, especially personal, private and sensitive information very seriously.
 
-**2\. Personal Information Collected**  
-Kashoo offers a variety of services that are collectively referred to as the “Service.” Kashoo collects information from individuals who visit the Company’s Web sites (“Visitors”) and individuals who register to use the Service (“Customers”).
+## 2\. Collection and Storage
 
-When expressing an interest in obtaining additional information about the Service or registering to use the Service, Kashoo requires you to provide the Company with contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Service, Kashoo requires you to provide the Company with financial qualification and billing information, such as billing name and address, and credit card number (“Billing Information”). Kashoo may also ask you to provide additional information, such as company annual revenues, number of employees, or industry (“Optional Information”). Required Contact Information, Billing Information, and Optional Information are referred to collectively as “Data About Kashoo Customers.”
+* * *
 
-As you navigate Kashoo.com, Kashoo may also collect information through the use of commonly-used information gathering tools, such as cookies and web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s web sites (such as the web pages viewed and the links clicked).
+a. Registration Data: When registering for our Service you will provide Information that is necessary so you can use the Service, including, but not limited to, company name, individual name, address, phone number and email address.
 
-**3\. Use of Information Collected**  
-The Company uses Data about Kashoo Customers to perform the services requested. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Service.
+b. Other Information: Some of the other Information we collect while you use the Service, our website or our other services include, but are not limited to, your financial data, your customer / vendor lists, and your bank transactions. Some of this Information can be considered personal and private under the law, and this is the type of Information we are required to keep confidential and private.
 
-The Company may also use data about Kashoo Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in Kashoo.com, the Service, and to send you information regarding the Company and its partners, such as information about promotions or events.
+c. Updating Your Information: It is important that your Information is up-to-date and accurate. Please login to your account to make any changes or email us at [answers@kashoo.com](mailto:answers@kashoo.com).
 
-Kashoo uses credit card information solely to check the financial qualifications of prospective Customers and to collect payment for the Service.
+d. Using Kashoo: When you use the Service, you may input some private information, such as customer lists, vendor lists, bank transactions, on-line banking credentials and financial information about your business.
 
-Kashoo uses Web Site Navigational Information to operate and improve the Company’s Web sites. The Company may also use Web Site Navigational Information in combination with Data about Kashoo Customers to provide personalized information about the Company.
+e. Cookies: Our servers may retain Information in cookies about your session when you enter and use our service. You can refuse to accept any cookies, but then you may not be able to use our Service.
 
-**4\. Web Site Navigational Information**  
-Kashoo uses commonly-used information gathering tools, such as cookies and web beacons, to collect information as you navigate the Company’s Web sites (“Web Site Navigational Information”) . This section describes the types of Web Site Navigational Information the Company may collect and how the Company may use this information.
+f. Credit Card and Banking Information: Kashoo does NOT store any of your credit card or online banking credentials. Those are stored securely with our partners that provide these services on our behalf.
 
-**Cookies**  
-Kashoo uses cookies to make interactions with the Company’s Web sites easy and meaningful. When you visit one of the Company’s Web sites, Kashoo’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your web browser. Unless you choose to identify yourself to Kashoo, either by responding to a promotional offer, opening an account, or filling out a web form (such as a “Contact Me” or a “30 Day Free Trial” Web form), you remain anonymous to the Company.  
-There are two types of cookies: session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer.
+g. Security: Kashoo makes securing your Information a priority. We use appropriate levels of encryption when transferring all data. Information transferred to and from our servers is encrypted. Kashoo has both hardware and software firewalls in place to protect itself from unauthorized access. We have also created a series of policies designed to protect your Information.
 
-If you have chosen to identify yourself to Kashoo, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Service, a session cookie containing an encrypted, unique identifier that is tied to your account is placed in your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Service and to process your online transactions and requests. Session cookies are required to use the Service.  
-Kashoo uses persistent cookies that only the Company can read and use to identify browsers that have previously visited the Company’s Web sites. When you purchase the Service or provide the Company with personal information, a unique identifier is assigned you. This unique identifier is associated with a persistent cookie that the Company places on your web browser. The Company is especially careful about the security and confidentiality of the information stored in persistent cookies. For example, the Company does not store account numbers or passwords in persistent cookies. If you disable your web browser’s ability to accept cookies, you will be able to navigate the Company’s web sites, but you will not be able to successfully use the Service.
+h. Your Disclosure of Others Personal Information: By inputting any personal and private Information that belongs to someone else into our service, you have all necessary consents and rights to collect, use and disclose that information as described in this Privacy Policy from time to time, and you agree that the indemnity you give to us in the Terms of Service applies to any non-compliance by you with the foregoing.
 
-Kashoo may use information from session and persistent cookies in combination with Data About Kashoo Customers to provide you with information about the Company and the Service.
+## 3\. Uses
 
-**Web Beacons**  
-Kashoo uses web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Company’s web sites and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular web site tied to the web beacon, and a description of a web site tied to the web beacon. For example, Kashoo may place web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company’s Web sites. Kashoo uses web beacons to operate and improve the Company’s web sites and email communications. Kashoo may use information from web beacons in combination with Data About Kashoo Customers to provide you with information about the Company and the Service.
+* * *
 
-**IP Addresses**  
-When you visit Kashoo’s web sites, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personally identifiable information. For example, Kashoo uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web sites.  
-Kashoo also collects IP addresses from Customers whey they log into the Service as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
+a. Use of Information: We will use Information to provide the Service, provide support, and to improve our Service, including our website.
 
-**Third Party Cookies**  
-From time-to-time, Kashoo engages third parties to track and analyze non-personally identifiable usage and volume statistical information from individuals who visit the Company’s Web sites. Kashoo may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it. This Privacy Statement does not cover the use of third party cookies.
+b. Cookies: We use cookies and other collected information to improve and further develop our website, to keep your session active and to customize your experience. The cookies are stored on your computer. You can delete them or reject them, but if you do you cannot use our service.
 
-**5\. Public Forums, Refer a Friend, and Customer Testimonials**  
-Kashoo may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personally identifiable information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Kashoo is not responsible for the personally identifiable information you choose to submit in these forums.  
-Customers and Visitors may elect to use the Company’s referral service to inform friends about the Company’s Web sites. When using the referral service, the Company requests the friend’s name and email address. Kashoo will automatically send the friend a one-time email inviting him or her to visit the Company’s Web sites. Kashoo does not store this information.
+c. Aggregate Non-Identifiable Information: We use aggregate non-identifiable information to improve our Services, including making information more clear and the types of marketing messages we may send you.
 
-Kashoo posts a list of Customers and testimonials on the Company’s Web sites that contain information such as Customer names and titles. Kashoo obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
+d. Server Logs: Our server logs record system information when you view our website, apps, and use the Service.
 
-**6\. Sharing of Information Collected**  
-Kashoo may share Data About Kashoo Customers with the Company’s agents so that these agents can contact Customers and Visitors who have provided contact information on our behalf. Kashoo may also share Data About Kashoo Customers with the Company’s agents to ensure the quality of information provided. Kashoo does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes.
+e. Email Marketing: Kashoo may have products or services that may be of interest to you. Or our partners may have products and services that may be of interest to you. You may receive marketing emails from us. You can always ‘unsubscribe‘ or ‘opt-out’ of those marketing emails within the body of the email. We will not disclose or sell your Information to third-parties for marketing or other purposes.
 
-Kashoo uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
+f. Service Providers: We do not disclose Information to third parties, except to certain service providers who have appropriate policies in place to protect your Information. Some of the Information we disclose is because Kashoo needs our partners help to provide the Service.
 
-Kashoo reserves the right to disclose personally identifiable information of the Company’s Customers or Visitors if required by law or if the Company reasonably believes that disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
+## 4\. Disclosure and Sharing
 
-**7\. Communications Preferences**  
-Kashoo offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “ unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to answers@Kashoo.com. Customers cannot opt out of receiving transactional emails related to their account with Kashoo or the Service.
+* * *
 
-**8\. Correcting and Updating Your Information**  
-Customers may update or change their registration information by editing their user or organization record. To update a user or business profile, please login to http://www.Kashoo.com with your Kashoo username and password and click “Setup.” To update Billing Information or have your registration information deleted, please email answers@Kashoo.com or call 888 520-5274. To discontinue your account, please email answers@kashoo.com or call 888 520-5274.
+a. Providing Our Services: Some of the services we provide to you, including, but not limited to, invoicing your customers, connecting our Service to your bank accounts, or integrating your payroll or other functions with our Service may require us to disclose your Information. Please be aware that if you do not want your Information disclosed, you may not be able to use those parts of our Service that require such disclosure.
 
-**9\. Customer Data**  
-Kashoo Customers use the Service to host data and information (“Customer Data”). Kashoo will not review, share, distribute, or reference any such Customer Data except as provided in the Kashoo Master Terms Agreement, or as may be required by law. Individual records of Customer Data may be viewed or accessed only for the purpose of resolving a problem, support issues, or suspected violation of the Kashoo Master Terms Agreement, or as may be required by law. Customers are responsible for maintaining the security and confidentiality of their Kashoo user names and passwords.
+b. Legal Requirements: We may be required by law to disclose your Information, and we will try to take steps to limit any such disclosure.
 
-**10\. Security**  
-Kashoo uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. When the Service is accessed using Internet Explorer version 6.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer (“SSL”) technology protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. Kashoo also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its web sites in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. Kashoo also offers enhanced security features within the Service that permit Customers to configure security settings to the level they deem necessary.
+c. Change of Ownership: If we are acquired or otherwise sell our business, we will transfer all of the Information to the successor entity. We may try to notify you of any change in ownership or sale by either posting it on our website or by emailing you (at the email address in the system).
 
-Because the Company uses the Service to maintain Data About Kashoo Customers, this information is secured in the same manner as described above for Customer Data.
+## 5\. Other Terms
 
- **11\. Changes to this Privacy Statement**  
-Kashoo reserves the right to change this Privacy Statement. Kashoo will provide notification of the material changes to this Privacy Statement through the Company’s Web sites at least thirty (30) business days prior to the change taking effect.
+* * *
 
- **12\. Contacting Us**  
-Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to [answers@kashoo.com](mailto:answers@kashoo.com) or by writing Kashoo at 423 – 119 W Pender St, Vancouver, BC, V6B 1S5.
+a. Application of this Policy: By registering for our Service, you agree to comply with the terms of this Privacy Policy and that we may process your Information.
+
+b. Integration with Other Applications: You can integrate Kashoo with other applications. Any information you provide to those applications is subject to their terms of use and privacy policies. Our Privacy Policy only deals with information we collect from you.
+
+c. Industry Standard Security: While we use industry standard security measures to protect against the loss, misuse and alteration of the information under our control, there is no guaranty that our services cannot be compromised. Please visit Our Terms of Service for more information.
+
+d. No Under Age 13: We do not intentionally gather Information about visitors who are under the age of 13.
+
+e. Privacy Complaints 
+
+  * Contact Us First (please): If you have a dispute or complaint about privacy practices, please first contact us regarding the issue. We will do our best to resolve it!
+  * Contact: 1.888.520.5274 or answers@kashoo.com
+  * Physical Address: #302 - 343 Railway Street, Vancouver, BC V6A 1A4
+
+
+
+f. Links to Third Party Sites: Our websites or mobile applications may contain links to other sites and services, which are owned and controlled by others. These websites have their own policies regarding privacy, and you should review those policies.
+
+g. Revisions to this Policy: We may change this policy at any time. Notice of any significant revision will be called out on our website for a period of time.
+
+### Rev. September 1, 2013
+
+* * *
