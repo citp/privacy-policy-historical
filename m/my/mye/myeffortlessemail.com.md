@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myeffortlessemail.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729154120id_/http%3A//myeffortlessemail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeffortlessemail.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218074002id_/http%3A//myeffortlessemail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Effortless Email
 
