@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacy.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003005204id_/http%3A//www.privacy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacy.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218075802id_/http%3A//www.privacy.com/privacy.html) for the most accurate reproduction.*
 
 # Brierley+Partners
 
