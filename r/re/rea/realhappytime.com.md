@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realhappytime.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208195136id_/http%3A//realhappytime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realhappytime.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218052706id_/http%3A//realhappytime.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy - realhappytime.com
+# realhappytime - best jokes and funny pictures, comics, images, video, humor, gif animation
 
 Privacy Policy for the HORSE HEAD HUFFER network
 
