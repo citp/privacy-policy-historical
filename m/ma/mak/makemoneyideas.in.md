@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makemoneyideas.in privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116094635id_/http%3A//makemoneyideas.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneyideas.in privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218113906id_/http%3A//makemoneyideas.in/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy - how to make money online
 
