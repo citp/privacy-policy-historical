@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romancecompass.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027164511id_/http%3A//romancecompass.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancecompass.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218094144id_/http%3A//romancecompass.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
