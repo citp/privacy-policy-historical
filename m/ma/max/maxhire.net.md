@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxhire.net privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215033308id_/http%3A//www.maxhire.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxhire.net privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218145347id_/http%3A//www.maxhire.net/privacy.asp) for the most accurate reproduction.*
 
 # MaxHire :: Privacy Policy
 
