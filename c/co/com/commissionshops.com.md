@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionshops.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201221105id_/http%3A//www.commissionshops.com/term/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionshops.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218042238id_/http%3A//commissionshops.com/term/privacy.html) for the most accurate reproduction.*
 
 # Commission Shops - Your Eternal Commission Sources Start Now...
 
