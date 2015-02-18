@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicbuildings.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520005351id_/http%3A//musicbuildings.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D198%26Itemid%3D236) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicbuildings.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218181857id_/http%3A//www.musicbuildings.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D198%26Itemid%3D236) for the most accurate reproduction.*
 
 # Privacy Policy
 
