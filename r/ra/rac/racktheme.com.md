@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the racktheme.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031725id_/http%3A//www.racktheme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racktheme.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218045745id_/http%3A//www.racktheme.com/privacy) for the most accurate reproduction.*
 
-# Premium wordpress euro themes | Privacy
+# Premium wordpress themes | Privacy
 
-This website/blog uses third-party advertising companies to serve ads when visiting this site. These third parties may collect and use information (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit [Google’s Advertising and Privacy](http://www.google.com/privacy_ads.html) page.
+This website/blog uses third-party advertising companies to serve ads when visiting this site. These third parties may collect and use information (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit [best canadian pharmacy for viagra](http://www.narrowcast.co.uk/best-canadian-pharmacy-for-viagra/) page.
 
-Google uses the Doubleclick DART cookie to serve ads across it’s Adsense network and you can get further information regarding the DART cookie at [Doubleclick](http://www.doubleclick.com/privacy/faq.aspx) as well as opt out options at [Google’s Privacy Center](http://www.google.com/privacy_ads.html).
+Google uses the Doubleclick DART cookie to serve ads across it’s Adsense network and you can get further information regarding the DART cookie at [celebrex coumadin](https://web.archive.org/celebrex-coumadin/) as well as opt out options at [viagra online australia](https://web.archive.org/viagra-online-australia/).
 
 **Privacy**
 
