@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renewalcoupon2014.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029155421id_/http%3A//renewalcoupon2014.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renewalcoupon2014.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218140723id_/http%3A//renewalcoupon2014.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GoDaddy Coupon
 
