@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingwarrior.co privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005957id_/http%3A//kingwarrior.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingwarrior.co privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218093851id_/http%3A//kingwarrior.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KingWarrior.CO - Special Discount IM Tools & Software Superstore
 
