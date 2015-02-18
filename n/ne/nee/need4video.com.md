@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the need4video.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420002706id_/http%3A//need4video.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the need4video.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218011456id_/http%3A//need4video.com/privacy.html) for the most accurate reproduction.*
 
 # Need4Video Privacy Policy | Need4Video
 
 |   
-[](https://web.archive.org/web/20140420002706id_/http%3A//need4video.com/index.html) |   
+[](https://web.archive.org/web/20150218011456id_/http%3A//need4video.com/index.html) |   
 |   
 |  | 
 
