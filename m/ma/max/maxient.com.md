@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxient.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016003055id_/http%3A//www.maxient.com%3Fpage_id%3D193) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxient.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219214715id_/http%3A//www.maxient.com%3Fpage_id%3D193) for the most accurate reproduction.*
 
 # Privacy Policy « Maxient
 
@@ -18,8 +18,8 @@ E-mail: [info@maxient.com](mailto:info@maxient.com)
 
 ## In their words….
 
-"The software is user friendly, easy to customize, and the staff provides excellent support. We would recommend the Maxient System to any University or College that is looking to improve their student conduct operations by going paperless!"
+“I have nothing but positive things to say about the company and the product! From the first day I spoke to a representative about their product until now, I have been impressed by their knowledge of student conduct processes, our need to track data for Clery reporting, and their responsiveness to the client. I couldn’t imagine a better partner for us than Maxient!”
 
-_Kristina Honore  
-Residence Life/Student Conduct Graduate Assistant  
-Embry-Riddle Aeronautical University_
+_Dr. Kevin W. Bailey  
+Assoc. Vice President for Student Affairs  
+Tulane University_
