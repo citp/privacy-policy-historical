@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plunder.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208003707id_/http%3A//www.plunder.com/x/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plunder.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219160556id_/http%3A//www.plunder.com/x/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
