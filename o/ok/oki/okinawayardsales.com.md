@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the okinawayardsales.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126084803id_/http%3A//www.okinawayardsales.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okinawayardsales.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219072155id_/http%3A//okinawayardsales.com/privacy.jsp) for the most accurate reproduction.*
 
-# Okinawa bookoo - yard sales and classifieds in Okinawa, Japan
+# Okinawa bookoo - Buy and sell with your neighbors!
 
 ## Privacy Policy Statement
 
