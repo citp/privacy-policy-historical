@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ravetheweb.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227095252id_/http%3A//ravetheweb.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravetheweb.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219084417id_/http%3A//ravetheweb.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Directory
 
