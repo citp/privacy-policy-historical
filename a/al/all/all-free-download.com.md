@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-free-download.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022133823id_/http%3A//all-free-download.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-free-download.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219092233id_/http%3A//all-free-download.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Free Vector graphic art, free photos, free icons, free website templates, psd graphic, photoshop brush, font, free download
 
