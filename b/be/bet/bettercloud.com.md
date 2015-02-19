@@ -1,28 +1,24 @@
-> *The following text is extracted and transformed from the bettercloud.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328201130id_/http%3A//bettercloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettercloud.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219184729id_/https%3A//www.bettercloud.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BetterCloud
+
+X Welcome to the new BetterCloud! Learn about how we've expanded our vision as a company and improved our product for our customers. [ Read more »](http://blog.bettercloud.com/the-new-bettercloud)
 
 **BetterCloud TM**
 
 **Privacy Policy**
 
-**Effective Date: 2/17/2014**
+This privacy policy describes how BetterCloud, Inc. a Delaware Corporation, doing business under the trade name BetterCloudTM (“we” or “us”), collects and uses the personal information you provide on our web site [www.bettercloud.com](http://www.bettercloud.com/) and BetterCloud service. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our BetterCloud service shall be limited to the purpose of providing the service for which the Client has engaged BetterCloud.
 
-[](http://privacy.truste.com/privacy-seal/BetterCloud,-Inc-/validation?rid=1c583fca-7679-420f-9370-8c7738d9498d "Validate TRUSTe privacy certification")
+BetterCloud, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site [www.bettercloud.com](http://www.bettercloud.com/) and BetterCloud app.
 
-This privacy policy describes how BetterCloud, Inc. a Delaware Corporation, doing business under the trade name BetterCloudTM (“we” or “us”), collects and uses the personal information you provide on our web site [www.bettercloud.com](http://www.bettercloud.com/) and FlashPanel service. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our FlashPanel service shall be limited to the purpose of providing the service for which the Client has engaged BetterCloud.
-
-BetterCloud, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site [www.bettercloud.com](http://www.bettercloud.com/) and FlashPanel app.
-
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@bettercloud.com](mailto:privacy@bettercloud.com).  If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@bettercloud.com](mailto:privacy@bettercloud.com).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 BetterCloud, Inc. complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.  BetterCloud, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view BetterCloud, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 **What We Collect and How We Use It**. BetterCloud will collect and analyze, when you use our services (the  “Service”), certain non-personally-identifiable information such as meta-data generated and stored on your computer systems and collected through the Google App Engine, the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as your browser type and version, operating system, and platform; and Service usage patterns and trends. Customers of the Service may be offered a “cookie”, which can be described as a small text file containing information that is transferred to a visiting computer’s hard drive for record-keeping purposes during a visit. The use of cookies enables us to analyze Service usage and traffic patterns. A cookie will not give us access to data stored on your computer or to any information other than what is voluntarily provided to us. Most web browsers will automatically accept cookies. There are many methods and applications available for disabling a browser’s handling of cookies, or restricting the exchange of data.
 
 The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
-
-Our third party partners also employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do [not] tie the information gathered to our Customers’ or Users’ personal information.
 
 We will use proprietary and third-party products and certain software tools to measure, collect, and analyze the foregoing collected data. We do this in order to analyze the use and performance of the Service and to better understand the needs of our customers. Additionally, we may use non-personally identifiable information for marketing, survey purposes, and Service utilization analyses.  You agree that we act as a “data processor” as provided for in the EU Data Protection Directive (Directive 95/46/EC).
 
@@ -34,7 +30,7 @@ The information that is collected using the foregoing data and tools is never so
 
 We take precautions to insure that our customer’s Personal Information and the data that is processed by our service is secured.  We use a variety of industry-standard technical, contractual, administrative and physical security measures and procedures to help protect your Personal Information from unauthorized access, use, alteration or disclosure.  When you enter sensitive information, such as a credit card number, on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). Unless otherwise provided for herein, we restrict access to Personal Information to those employees who need access to perform their essential job functions.  Please note that despite our best efforts, no one can guarantee the security of customer Personal Information.  Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of Personal Information at any time. If you have questions about our security measures in place, please contact us.
 
-**Information Related to Data Collected through the FlashPanel service**
+**Information Related to Data Collected through the BetterCloud service**
 
 BetterCloud collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes.
 
@@ -44,7 +40,7 @@ BetterCloud collects information under the direction of its Clients, and has no 
 
 **Access to Data Controlled by our Clients**.  BetterCloud has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the BetterCloud’s Client (the data controller). If the Client requests BetterCloud to remove the data, we will respond to their request within 30 business days.
 
-**FlashPanel Data Retention**.  BetterCloud will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. BetterCloud will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+**BetterCloud Data Retention**.  BetterCloud will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. BetterCloud will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Protecting the Privacy of Minors**. Minors under the age of thirteen (13) are prohibited from using the Service.  Minors under the age of eighteen (18) are not permitted to use or purchase the Service without the permission and involvement of a parent or legal guardian. We do not intentionally collect or maintain Personal Information from individuals who are under thirteen (13) years old.  Protecting the privacy of minors is very important to us.  Thus, if we obtain actual knowledge that a user is under thirteen (13) years of age, we will take steps to remove that user’s Personal Information permanently from our databases and Internet servers.
 
@@ -70,10 +66,10 @@ We will retain your information for as long as your account is active or as need
 
 BetterCloud, Inc.
 
-299 Broadway
+330 7th Avenue
 
-Suite 1310
+14th Floor
 
-New York, NY 10007
+New York, NY 10001
 
 Phone: 888-999-0805
