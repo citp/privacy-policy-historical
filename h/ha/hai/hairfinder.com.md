@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairfinder.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220033625id_/http%3A//hairfinder.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairfinder.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219111409id_/http%3A//www.hairfinder.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,4 +17,4 @@ Third party advertising companies may also collect information about other sites
   **Contact**  
 We can be reached via e-mail at webmaster-AT-hairfinder.com 
 
-  **[Home](https://web.archive.org/web/20140220033625id_/http%3A//hairfinder.com/index.htm)**
+  **[Home](https://web.archive.org/web/20150219111409id_/http%3A//www.hairfinder.com/index.htm)**
