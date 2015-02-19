@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayautomation.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220204414id_/http%3A//paydayautomation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayautomation.net privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219072651id_/http%3A//paydayautomation.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PayDay Automation - Privacy Policy
 
