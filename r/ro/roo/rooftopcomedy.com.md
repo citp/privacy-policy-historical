@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rooftopcomedy.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626201443id_/http%3A//www.rooftopcomedy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rooftopcomedy.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219044842id_/https%3A//www.rooftopcomedy.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Rooftop Comedy
 
 #### Rooftop Media, Inc. Privacy Statement
 
-This Privacy Statement sets forth Rooftop Media, Inc.'s (Rooftop) policies regarding the collection and use of information relating to Rooftop's web site located at http://www.rooftopcomedy.com (Site). Certain areas of our Site are only accessible by registered users (each an Authorized User or you), however, our Site is generally accessible by all others who may visit from time to time (Visitors or you). By checking "I Agree" or by using the Site after having been afforded an opportunity to review the following Privacy Statement, you are indicating that you agree to follow and be bound by the Privacy Statement, as may be modified from time to time.
+This Privacy Statement sets forth Rooftop Media, Inc.'s (Rooftop) policies regarding the collection and use of information relating to Rooftop's web site located at https://www.rooftopcomedy.com (Site). Certain areas of our Site are only accessible by registered users (each an Authorized User or you), however, our Site is generally accessible by all others who may visit from time to time (Visitors or you). By checking "I Agree" or by using the Site after having been afforded an opportunity to review the following Privacy Statement, you are indicating that you agree to follow and be bound by the Privacy Statement, as may be modified from time to time.
 
 #### Information Collection and Use
 
