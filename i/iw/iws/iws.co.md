@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iws.co privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119150949id_/http%3A//www.iws.co/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iws.co privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219042310id_/http%3A//www.iws.co/privacy.php) for the most accurate reproduction.*
 
 # IWS Networks Limited :: Privacy Policy
 
