@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcc.ca privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712074727id_/http%3A//www.gnb.ca/include/root/include/privacy-e.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcc.ca privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219075537id_/http%3A//www.gnb.ca/include/root/include/privacy-e.asp) for the most accurate reproduction.*
 
 # Government of New Brunswick - Privacy Statement
 
