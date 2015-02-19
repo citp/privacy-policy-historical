@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voidcan.in privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127210639id_/http%3A//www.voidcan.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voidcan.in privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219103134id_/http%3A//www.voidcan.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Voidcan Style Transformers
 
