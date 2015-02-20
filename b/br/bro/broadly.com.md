@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadly.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804024428id_/https%3A//broadly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadly.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220044931id_/https%3A//broadly.com/privacy) for the most accurate reproduction.*
 
 # Broadly – Get better online reviews
 
