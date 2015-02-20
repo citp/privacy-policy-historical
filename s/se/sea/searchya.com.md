@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchya.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006190354id_/http%3A//home.searchya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchya.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220224957id_/http%3A//home.searchya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Searchya
 
