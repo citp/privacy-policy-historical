@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-education-portal.info privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925094528id_/http%3A//us-education-portal.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-education-portal.info privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221004830id_/http%3A//us-education-portal.info/privacy-policy) for the most accurate reproduction.*
 
 # us-education-portal.info: Privacy Policy
 
