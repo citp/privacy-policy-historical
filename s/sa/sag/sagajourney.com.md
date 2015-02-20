@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sagajourney.com privacy policy that was archived on 2014-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140913091521id_/http%3A//sagajourney.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sagajourney.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220034857id_/http%3A//sagajourney.com/privacy) for the most accurate reproduction.*
 
 # sagajourney.com: Privacy
 
@@ -42,4 +42,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Rating: 0.0/ **10** (0 votes cast)
 
-109 queries. 1.156 seconds.
+102 queries. 1.460 seconds.
