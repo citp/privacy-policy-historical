@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popstarsplus.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110163312id_/http%3A//popstarsplus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popstarsplus.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220091447id_/http%3A//popstarsplus.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
