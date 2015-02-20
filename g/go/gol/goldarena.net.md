@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldarena.net privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903225558id_/http%3A//goldarena.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldarena.net privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220064912id_/http%3A//www.goldarena.net/privacy.php) for the most accurate reproduction.*
 
 # GoldArena.net - Privacy Policy
 
