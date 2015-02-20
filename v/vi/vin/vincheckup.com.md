@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vincheckup.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210173052id_/http%3A//vincheckup.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vincheckup.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220033447id_/http%3A//www.vincheckup.com/privacypolicy.php) for the most accurate reproduction.*
 
 # VinCheckUp | Privacy Policy
 
@@ -25,7 +25,7 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 
 ## Information Use and Disclosure
 
-If you choose to purchase Services, we will send you a welcome email including information about the Services along with your purchase details. Unless you elect otherwise, we will periodically send you emails notifying you about new or upcoming products or services, information about changing or updating your registration or payment information, changes to our Terms of Service and Privacy Policy, and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties. Out of respect for your privacy, if you no longer wish to receive these emails, you may opt-out of receiving them by [Contacting Us](https://web.archive.org/web/20131210173052id_/http%3A//vincheckup.com/contactus.php).
+If you choose to purchase Services, we will send you a welcome email including information about the Services along with your purchase details. Unless you elect otherwise, we will periodically send you emails notifying you about new or upcoming products or services, information about changing or updating your registration or payment information, changes to our Terms of Service and Privacy Policy, and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties. Out of respect for your privacy, if you no longer wish to receive these emails, you may opt-out of receiving them by [Contacting Us](https://web.archive.org/web/20150220033447id_/http%3A//www.vincheckup.com/contactus.php).
 
 ### Disclosure
 
