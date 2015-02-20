@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landingi.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523012710id_/http%3A//landingi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landingi.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220215323id_/http%3A//landingi.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Landingi
 
@@ -10,7 +10,7 @@ The data administrator is Landingi Sp. z o.o. based in Krakow, ul. Ludwinowska 7
 
 **II. Cookies**
 
-The www.landingi.com site uses cookies. They are small text files sent by a web server and stored by computer browser software. When the browser reconnects to the site, the site recognizes the type of device used by the user for connecting. Parameters allow to read the information contained in the cookies only to the server that created them. Therefore cookies make it easier to use the previously visited sites.
+The www.landingi.com site uses cookies. They are 16 text files sent by a web server and stored by computer browser software. When the browser reconnects to the site, the site recognizes the type of device used by the user for connecting. Parameters allow to read the information contained in the cookies only to the server that created them. Therefore cookies make it easier to use the previously visited sites.
 
 The information collected relate to the IP address, the type of browser used, language, operating system type, internet service provider, information about the time and date, location, and information sent to the site via a contact form.
 
