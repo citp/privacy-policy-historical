@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nudity.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016174256id_/http%3A//nudity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nudity.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220064400id_/http%3A//www.nudity.com/privacy.php) for the most accurate reproduction.*
 
-# ::: NUDITY.COM ::: Privacy Policy
+# Nudity.com - Privacy Policy
 
   
 **PRIVACY POLICY**
