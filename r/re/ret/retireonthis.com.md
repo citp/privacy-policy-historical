@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the retireonthis.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708203642id_/http%3A//retireonthis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retireonthis.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220183718id_/http%3A//retireonthis.com/privacy.php) for the most accurate reproduction.*
 
 # RetireOnThis
 
 **Recommended**  
-[](http://retireonthis.com/proclick.php?id=42)
+[](http://retireonthis.com/bannerclick.php?id=2)
 
 RetireOnThis Privacy Policy
 
