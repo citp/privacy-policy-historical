@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecelltalk.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105014017id_/http%3A//freecelltalk.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecelltalk.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220033145id_/http%3A//freecelltalk.com/Privacy_Policy) for the most accurate reproduction.*
 
 # My Cell Phone Pays My Mortgage | MLM Secrets
 
@@ -23,4 +23,4 @@ Contact us at the address below if you want us to change or delete any informati
 
 Copyright © 2011 Licensed for use by the owner of this website at Delaughter.org. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
 
-[Legal Disclaimers](https://web.archive.org/web/20141105014017id_/http://Income%20Disclaimer/)  -  [Privacy Policy](https://web.archive.org/web/20141105014017id_/http://Privacy%20Policy/)
+[Legal Disclaimers](https://web.archive.org/web/20150220033145id_/http://Income%20Disclaimer/)  -  [Privacy Policy](https://web.archive.org/web/20150220033145id_/http://Privacy%20Policy/)
