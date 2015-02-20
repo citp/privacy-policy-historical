@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rorotoko.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029043457id_/http%3A//rorotoko.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rorotoko.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220031156id_/http%3A//rorotoko.com/info/privacy) for the most accurate reproduction.*
 
 # ROROTOKO :: Cutting-Edge Intellectual Interviews
 
