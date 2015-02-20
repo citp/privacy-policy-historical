@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the green-label.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133003id_/http%3A//green-label.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the green-label.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220035328id_/http%3A//green-label.com/privacy) for the most accurate reproduction.*
 
 # Green Label | A Mountain Dew venture featuring emerging trends in skate, music, art, gaming and more
 
