@@ -1,91 +1,56 @@
-> *The following text is extracted and transformed from the realdealcommunity.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514195104id_/http%3A//www.realdealcommunity.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realdealcommunity.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220093449id_/http%3A//realdealcommunity.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy - Real Deal REInvestor Network
+# Real Deal Community - Privacy Policy - Real Deal Community
 
-[ ](http://www.realdealcommunity.com/ "Real Deal REInvestor Network Home")
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at .
 
-### Privacy Policy
+At http://realdealcommunity.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://realdealcommunity.com/ and how we use it.
 
-Date of Last Revision: February 5, 2009
+**Log Files**  
+Like many other Web sites, http://realdealcommunity.com/ makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-This privacy policy governs the collection, storage and use of personal data collected by us, HIS-REI. It provides you with details about the personal data we collect from you, how we use your personal data and your rights to control personal data we hold about you. Please read this privacy policy carefully – by accessing or browsing this website and network (the " **Services** "), you confirm that you have read, understood and agree to this privacy policy in its entirety. If you do not agree to this privacy policy in its entirety, you must not use the Services. 
+**Cookies and Web Beacons**  
+http://realdealcommunity.com/ uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-This privacy policy was last updated on February 5, 2009. Please check back regularly to keep informed of updates to this privacy policy. 
+**DoubleClick DART Cookie**
 
-#### Who we are
+→ Google, as a third party vendor, uses cookies to serve ads on http://realdealcommunity.com/.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://realdealcommunity.com/ and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-This social networking website is made available to you by HIS-REI. We respect your right to privacy and will only process personal data you provide to us in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other applicable privacy laws. 
+**Our Advertising Partners**
 
-If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please [click here](https://web.archive.org/report/feedback?ref=L3Rlcm1zL3Rlcm1zX2FuZF9jb25kaXRpb25zLmh0bWw%3D "Contact Network Owner") to contact us. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-#### An important note about children
-
-We do not and will not knowingly collect information from any unsupervised child under the age of 13. If you are under the age of 13, you may not use the Services unless you have the consent of, and are supervised by, a parent or guardian. 
-
-#### The personal data we collect about you
-
-When you access and browse the Services (including when you submit personal data to us through data entry fields on the Services), we may collect the following information from you: 
-
-  1. Your name; 
-  2. Your age, date of birth and sex; 
-  3. Your postal address; 
-  4. Your phone and e-mail details; 
-  5. Your employment details (these are optional); 
-  6. Your payment details if you choose to subscribe to or otherwise access paid-for content; and 
-  7. Any other personal data that you choose to upload to or post on the Services, including blogs, photographs, messages, hobbies and interests and other personal details. 
+  * Google
+  * Commission Junction
+  * Amazon
+  * Linkshare
 
 
 
-In addition, we may collect anonymised details about visitors to our Services for the purposes of aggregate statistics or reporting purposes. However, no single individual will be identifiable from the anonymised details that we collect for these purposes. 
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of http://realdealcommunity.com/._
 
-#### How we may store and use your information
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://realdealcommunity.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-We (or third party data processors acting on our behalf) may collect, store and use your personal data listed above for the following purposes: 
+http://realdealcommunity.com/ has no access to or control over these cookies that are used by third-party advertisers.
 
-  1. to make the Services available to you and to provide you with content which is tailored to your individual tastes; 
-  2. to complete any purchases you make through the Services and to provide you with services that you request; 
-  3. to further develop and improve the Services; 
-  4. to maintain and support any customer account that you have with us; 
-  5. to include (or to permit the inclusion of) advertising within the Services of our own and third party products, services and promotions that we or they think may interest you; 
-  6. where you have given us your consent, to contact you (including by SMS and e-mail) with products, services and promotions which we think may interest you; and 
-  7. where you have given us your consent, to disclose your personal data to carefully chosen third parties so that they may contact you (including by SMS and e-mail) with products, services and promotions which they think may interest you. 
+**Third Party Privacy Policies**
 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://realdealcommunity.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-Other than as set out in this privacy policy, we will not disclose, sell or rent your personal data to any third party unless you have consented to this. If you do consent but later change your mind, you may contact us and we will cease any such activity. 
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://realdealcommunity.com/ does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://realdealcommunity.com/ has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-However, if a third party acquires all (or substantially all) of our business and/or assets, we may disclose your personal data to that third party in connection with the acquisition. 
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-We may also disclose your personal data where we are required to do so by applicable law, by order of a court, by a governmental body or by a law enforcement agency. We may also disclose your personal data in the context of investigating or reporting any issue arising in connection with activity by you or content supplied or purporting to be supplied by you, to you or on your behalf that we reasonably believe could be unlawful or otherwise in breach of our terms of service. 
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-#### Technology Licensor disclosures
-
-We may also disclose your personal data to the business that provides us with technology infrastructure and hosting services for the Service (the " **Technology Licensor** "). The Technology Licensor will use your personal data in order to check that you are using the Services in a way that complies with applicable law, does not infringe the rights of any third party, to maintain and improve the infrastructure and hosting services that it provides to us, to serve advertising within the Services of third party products, services and promotions that it thinks may interest you and otherwise in accordance with its privacy policy. 
-
-#### International transfers
-
-We may transfer personal data that we collect from you to third parties (including the Technology Licensor) located in countries that are outside of the European Economic Area where necessary to exercise, or in connection with, the uses of your data described above. Please be aware that countries which are outside the European Economic Area may not offer the same level of data protection as the United Kingdom, although our collection, storage and use of your personal data will continue to be governed by this privacy policy. 
-
-#### Cookies
-
-This website uses cookies to collect information about you. Cookies are small data files which are placed on your computer by this website and which collect certain personal data about you. This enables us to tailor our service offering (including the website) to provide you with products and services which are more relevant to your individual tastes. However, you may change your website browser settings to reject cookies, although please note that if you do this it may impair the functionality of the Services. As each website browser is different, please visit your browser's "Help" menu to learn how to change your cookie preferences. 
-
-#### Security
-
-Whilst we take appropriate technical and organisational measures to safeguard the personal data that you provide to us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal data that you transfer over the Internet to us. 
-
-#### Your rights
-
-You have the following rights: 
-
-  1. the right to ask us to provide you with copies of personal data that we hold about you at any time, subject to a fee specified by law (currently £10); 
-  2. the right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge; and 
-  3. the right to opt out of any marketing communications that we may send you. 
-
-
-
-If you wish to exercise any of the above rights, please e-mail us at the address specified above. 
-
-#### Third party sites
-
-This website also contains links to other third party websites over which we have no control. Please note that this privacy policy applies only to the personal data that we collect through this website and we cannot be responsible for personal data that third parties may collect, store and use through their independent websites. You should always read the privacy policy of each website you visit carefully. 
+**Update**  
+This Privacy Policy was last updated on: Sunday, December 14th, 2014.  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
