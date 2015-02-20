@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rototimes.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227200416id_/http%3A//www.rototimes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rototimes.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220191313id_/http%3A//www.rototimes.com/privacy.php) for the most accurate reproduction.*
 
 # Fantasy Sports - The Roto Times ® - www.rototimes.com
 
