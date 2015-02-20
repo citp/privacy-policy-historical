@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gonzagames.eu privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106135138id_/http%3A//www.gonzagames.eu/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonzagames.eu privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220035921id_/http%3A//www.gonzagames.eu/policy.php) for the most accurate reproduction.*
 
 # Política de privacidad
 
