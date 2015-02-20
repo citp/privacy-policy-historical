@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segpay.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227191314id_/https%3A//secure2.segpay.com/client/files/get.cgi%3Fid%3D0-templates-SegpayPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segpay.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220140040id_/https%3A//secure2.segpay.com/client/files/get.cgi%3Fid%3D0-templates-SegpayPrivacyPolicy.html) for the most accurate reproduction.*
 
 # In order to provide you with interactive computer billing services, SegPay collects, uses, and shares certain information abou
 
@@ -42,6 +42,6 @@ In order to provide you with interactive computer billing services, SegPay colle
 
 8.       Opt-In: Other than detailed herein, SegPay will contact you and request your permission prior to sharing your data with third parties. SegPay will either contact you at the location provided by you at enrollment when we desire to share your information with a third party, or, SegPay will present you with a “check-box” requesting that you opt-in to any third party mailing lists.
 
-If you have questions or concerns regarding this policy or regarding the information SegPay has stored about you, you should contact us by emailing us at [privacy@SegPay.com](https://web.archive.org/web/20131227191314id_/https%3A//secure2.segpay.com/client/files/privacy@SegPay.com) or writing to us at SegPay, Inc., Attn: Privacy Department, 3111 N. University Drive, Suite 1000, Coral Springs, FL 33065
+If you have questions or concerns regarding this policy or regarding the information SegPay has stored about you, you should contact us by emailing us at [privacy@SegPay.com](https://web.archive.org/web/20150220140040id_/https%3A//secure2.segpay.com/client/files/privacy@SegPay.com) or writing to us at SegPay, Inc., Attn: Privacy Department, 3111 N. University Drive, Suite 1000, Coral Springs, FL 33065
 
 SegPay reserves the right to modify this policy at any time.
