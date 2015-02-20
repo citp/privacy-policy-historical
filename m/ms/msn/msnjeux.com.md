@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msnjeux.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128180538id_/http%3A//www.iplay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msnjeux.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221000725id_/http%3A//www.iplay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Iplay
 
