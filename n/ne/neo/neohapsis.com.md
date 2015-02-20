@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neohapsis.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120002617id_/http%3A//neohapsis.com/pages/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neohapsis.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220013529id_/http%3A//neohapsis.com/pages/index/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy of Neohapsis Inc.
 
 Neohapsis, Inc. is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Neohapsis, Inc. Web site and governs data collection and usage. By using the Neohapsis, Inc. website, you consent to the data practices described in this statement.
 
