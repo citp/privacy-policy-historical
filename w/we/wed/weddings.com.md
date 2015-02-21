@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddings.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626093435id_/http%3A//www.theknotinc.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddings.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221202453id_/http%3A//www.theknotinc.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
