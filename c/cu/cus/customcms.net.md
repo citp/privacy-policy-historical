@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customcms.net privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903065037id_/http%3A//www.customcms.net/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customcms.net privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221103157id_/http%3A//www.customcms.net/company/privacy-policy) for the most accurate reproduction.*
 
 # Couch Gamers by Custom CMS (CCMS)
 
