@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the carfromjapan.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104055456id_/http%3A//carfromjapan.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carfromjapan.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221231225id_/http%3A//business.carfromjapan.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Car From Japan
+# Privacy Policy | Car From Japan
 
-Welcome to [Car From Japan](http://carfromjapan.com/ "Car From Japan").  
-[Car From Japan](http://carfromjapan.com/ "Car From Japan") knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting [CarFromJapan.com](http://carfromjapan.com/ "Car From Japan"), you are accepting the practices described in this Privacy Policy. 
+Welcome to **Car From Japan**.  
+**Car From Japan** knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting [CarFromJapan.com](http://carfromjapan.com/ "Car From Japan"), you are accepting the practices described in this Privacy Policy.
 
-Updated on： 2014/09/26 
+Updated on： 2014/09/26
 
 #### Table of Contents
 
   * Controllers of Personal Information
-  * What personal information about customers does [Car From Japan](http://carfromjapan.com/ "Car From Japan") gather and for what purpose is the information used?
+  * What personal information about customers does **Car From Japan** gather and for what purpose is the information used?
   * What about cookies?
-  * Does [Car From Japan](http://carfromjapan.com/ "Car From Japan") share the information it receives?
+  * Does **Car From Japan** share the information it receives?
   * How Secure is Information about Me?
   * What about Third-Party Advertisers and Links to Other Websites?
   * Which Information Can I Access?
   * What Choices Do I Have?
-  * Are children allowed to use [Car From Japan](http://carfromjapan.com/ "Car From Japan")?
+  * Are children allowed to use **Car From Japan**?
   * Conditions of Use, Notices, and Revisions
   * Examples of Information Collected
 
@@ -25,47 +25,49 @@ Updated on： 2014/09/26
 
 #### Controllers of Personal Information
 
-Any personal information provided to or gathered by [Car From Japan](http://carfromjapan.com/ "Car From Japan") is controlled by [Car From Japan](http://carfromjapan.com/ "Car From Japan") Co., Ltd.
+Any personal information provided to or gathered by **Car From Japan** is controlled by **Car From Japan** Co., Ltd.
 
-#### What personal information about customers does [Car From Japan](http://carfromjapan.com/ "Car From Japan") gather and for what purpose is the information used?
+#### What personal information about customers does **Car From Japan** gather and for what purpose is the information used?
 
-The information we learn from customers helps us personalize and continually improve shopping experience at [Car From Japan](http://carfromjapan.com/ "Car From Japan") and provide customers with opportunities for products and services such as stores, platforms, apps and search engines that [Car From Japan](http://carfromjapan.com/ "Car From Japan"), [Car From Japan](http://carfromjapan.com/ "Car From Japan") Co., Ltd. and/or their affiliates (together, "[Car From Japan](http://carfromjapan.com/ "Car From Japan")") offer, both online and offline. We use the information to respond to your requests, handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, develop new product & services for you, update our records and generally maintain your accounts with us, display content such as Liked Products and customer reviews and recommend products and services that might be of interest to you. We also use this information to improve our service, store and platform, to enable you to enjoy more variety of services provided, prevent or detect fraud, abuses of our website or any other illegal activities when using our services and enable third parties to carry out technical, logistical or other functions on our behalf.
+The information we learn from customers helps us personalize and continually improve shopping experience at **Car From Japan** and provide customers with opportunities for products and services such as stores, platforms, apps and search engines that **Car From Japan** , **Car From Japan** Co., Ltd. and/or their affiliates (together, “ **Car From Japan** “) offer, both online and offline. We use the information to respond to your requests, handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, develop new product & services for you, update our records and generally maintain your accounts with us, display content such as Liked Products and customer reviews and recommend products and services that might be of interest to you. We also use this information to improve our service, store and platform, to enable you to enjoy more variety of services provided, prevent or detect fraud, abuses of our website or any other illegal activities when using our services and enable third parties to carry out technical, logistical or other functions on our behalf.
 
 ### Here are the types of information we gather:
 
 ##### Information You Give Us:
 
-We receive and store any information you enter on our website or give us in any other way. See "Information You Give Us" under the "Examples of Information Collected" section further down the page for examples. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features.
+We receive and store any information you enter on our website or give us in any other way. See **“Information You Give Us”** under the **“Examples of Information Collected”** section further down the page for examples. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features.
 
 ##### Automatic Information:
 
-We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies", and we obtain certain types of information when your web browser accesses [Car From Japan](http://carfromjapan.com/ "Car From Japan") or advertisements and other content served by or on behalf of [Car From Japan](http://carfromjapan.com/ "Car From Japan") on other websites. See "Automatic Information" under the "Examples of Information Collected" section further down the page for examples.
+We receive and store certain types of information whenever you interact with us. For example, like many websites, we use “cookies”, and we obtain certain types of information when your web browser accesses **Car From Japan** or advertisements and other content served by or on behalf of **Car From Japan** on other websites. See **“Automatic Information”** under the **“Examples of Information Collected”** section further down the page for examples.
 
 ##### Mobile:
 
-When you download or use apps created by [Car From Japan](http://carfromjapan.com/ "Car From Japan"), we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as popular products, advertising, search results, and other personalized content. For more information about how to do this, see the "Mobile" section further down the page.
+When you download or use apps created by **Car From Japan** , we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as popular products, advertising, search results, and other personalized content. For more information about how to do this, see the “Mobile” section further down the page.
 
 ##### E-mail Communications:
 
-To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from [Car From Japan](http://carfromjapan.com/ "Car From Japan") if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Car From Japan](http://carfromjapan.com/ "Car From Japan") Contact method preference.
+To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from **Car From Japan** if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your **Car From Japan** **Contact method preference.**
 
 ##### Information from Other Sources:
 
-We might receive information about you from other sources and add it to our account information. See "Information from Other Sources" under the "Examples of Information Collected" section further down the page for examples.
+We might receive information about you from other sources and add it to our account information. See “Information from Other Sources” under the “Examples of Information Collected” section further down the page for examples.
 
 ### What about cookies?
 
-Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as easy purchasing, recommendations, and personalized advertisements on other Web sites (e.g., [Car From Japan](http://carfromjapan.com/ "Car From Japan") Associates with content served by [Car From Japan](http://carfromjapan.com/ "Car From Japan")).
+Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as easy purchasing, recommendations, and personalized advertisements on other Web sites (e.g., **Car From Japan** Associates with content served by **Car From Japan** ).
 
-The help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as flash cookies, by changing the add-on’s settings or visiting the website of its manufacturer. Because cookies allow you to take advantage of some of [Car From Japan](http://carfromjapan.com/ "Car From Japan")’s essential features, we recommend that you leave them enabled. For instance, if you block or otherwise reject our cookies, you will not be able to send inquiry, process a purchase, or use any of [Car From Japan](http://carfromjapan.com/ "Car From Japan")’s products and services that require you to sign in.
+The help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as flash cookies, by changing the add-on’s settings or visiting the website of its manufacturer. Because cookies allow you to take advantage of some of **Car From Japan** ’s essential features, we recommend that you leave them enabled. For instance, if you block or otherwise reject our cookies, you will not be able to send inquiry, process a purchase, or use any of **Car From Japan** ’s products and services that require you to sign in.
 
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share (i.e. jointly use) customer information, for such purposes as aforementioned, with [Car From Japan](http://carfromjapan.com/ "Car From Japan") Co., Ltd., and its affiliates, that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
+#### Does **Car From Japan** share the information it receives?
 
-#### Affiliated Businesses that We Do Not Control: 
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share (i.e. jointly use) customer information, for such purposes as aforementioned, with **Car From Japan** Co., Ltd., and its affiliates, that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
 
-We work closely with affiliated businesses. In some cases, these businesses operate stores at [Car From Japan](http://carfromjapan.com/ "Car From Japan") or sell offerings to you at [Car From Japan](http://carfromjapan.com/ "Car From Japan"). In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share (i.e. jointly use) or transfer customer information related to those transactions with or to that third-party pursuant to the requirements of Japanese laws.
+#### Affiliated Businesses that We Do Not Control:
 
-#### Third-Party Service Providers: 
+We work closely with affiliated businesses. In some cases, these businesses operate stores at **Car From Japan** or sell offerings to you at **Car From Japan**. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share (i.e. jointly use) or transfer customer information related to those transactions with or to that third-party pursuant to the requirements of Japanese laws.
+
+#### Third-Party Service Providers:
 
 We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, shipping, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
@@ -75,11 +77,11 @@ Sometimes, we send offers to selected groups of customers on behalf of other bus
 
 #### Business Transfers:
 
-As we continue to develop our business, [Car From Japan](http://carfromjapan.com/ "Car From Japan") might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that [Car From Japan](http://carfromjapan.com/ "Car From Japan") or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+As we continue to develop our business, **Car From Japan** might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that **Car From Japan** or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
 
-#### Protection of [Car From Japan](http://carfromjapan.com/ "Car From Japan") and Others:
+#### Protection of **Car From Japan** and Others:
 
-We release account and other personal information subject to the requirements by applicable law when we determine release is appropriate to comply with the requirements of laws or public institutions; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of [Car From Japan](http://carfromjapan.com/ "Car From Japan"), our users, or others. This includes exchanging information with other companies and organizations for fraud protection, piracy protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy.
+We release account and other personal information subject to the requirements by applicable law when we determine release is appropriate to comply with the requirements of laws or public institutions; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of **Car From Japan** , our users, or others. This includes exchanging information with other companies and organizations for fraud protection, piracy protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy.
 
 #### With Your Consent:
 
@@ -91,7 +93,7 @@ Your personal information is contained behind secured networks and is only acces
 
 We implement a variety of security measures when a user places an order, enters, submits, or accesses their information.
 
-It is important for you to protect against unauthorized access to your password and to your computer. Be e to sign off when finished using a shared computer. 
+It is important for you to protect against unauthorized access to your password and to your computer. Be e to sign off when finished using a shared computer.
 
 #### What about Third-Party Advertisers and Links to Other Websites?
 
@@ -99,31 +101,33 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 #### Which Information Can I Access?
 
-[Car From Japan](http://carfromjapan.com/ "Car From Japan") gives you access to a broad range of information about your account and your interactions with [Car From Japan](http://carfromjapan.com/ "Car From Japan") for the limited purpose of viewing and, in certain cases, updating that information. See "Information You Can Access" further down the page for examples, the list of which will change as our website evolves. 
+**Car From Japan** gives you access to a broad range of information about your account and your interactions with **Car From Japan** for the limited purpose of viewing and, in certain cases, updating that information. See “Information You Can Access” further down the page for examples, the list of which will change as our website evolves.
 
 #### What Choices Do I Have?
 
-As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such [Car From Japan](http://carfromjapan.com/ "Car From Japan") features as Your "Profile", "Liked Products", and "Customer Reviews".
+As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such **Car From Japan** features as Your “Profile”, “Liked Products”, and “Customer Reviews”.
 
 You can add or update certain information on pages such as those referenced in the “What Information Can I Access?” section on this page. When you update information, we usually keep a copy of the prior version for our records.
 
-If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Policy, those notices will still govern your use of [Car From Japan](http://carfromjapan.com/ "Car From Japan"), and it is your responsibility to review them for changes.)
+If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Policy, those notices will still govern your use of **Car From Japan** , and it is your responsibility to review them for changes.)
 
-The help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as flash cookies, by changing the add-on’s settings or visiting the website of its manufacturer. Because cookies allow you to take advantage of some of [Car From Japan](http://carfromjapan.com/ "Car From Japan")’s essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to send inquiry, process a purchase, or use any of [Car From Japan](http://carfromjapan.com/ "Car From Japan")’s products and services that require you to sign in.
+The help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as flash cookies, by changing the add-on’s settings or visiting the website of its manufacturer. Because cookies allow you to take advantage of some of **Car From Japan** ’s essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to send inquiry, process a purchase, or use any of **Car From Japan** ’s products and services that require you to sign in.
 
-If you are under 20 years old, you may use [Car From Japan](http://carfromjapan.com/ "Car From Japan") only with authorization from a parent or legal guardian.
+#### Are children allowed to use **Car From Japan**?
+
+If you are under 20 years old, you may use **Car From Japan** only with authorization from a parent or legal guardian.
 
 #### Conditions of Use, Notices, and Revisions
 
-If you choose to visit [Car From Japan](http://carfromjapan.com/ "Car From Japan"), your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the laws of Japan. If you have any concern or request about privacy at [Car From Japan](http://carfromjapan.com/ "Car From Japan"), please contact us with a thorough description, and we will try to solve it.
+If you choose to visit **Car From Japan** , your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the laws of Japan. If you have any concern or request about privacy at **Car From Japan** , please contact us with a thorough description, and we will try to solve it.
 
-Our business changes constantly, and our Privacy Policy and the Conditions of Use will change also. [Car From Japan](http://carfromjapan.com/ "Car From Japan") may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current [Car From Japan](http://carfromjapan.com/ "Car From Japan") Privacy Policy applies to all information that we have about you and your account. 
+Our business changes constantly, and our Privacy Policy and the Conditions of Use will change also. **Car From Japan** may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current **Car From Japan** Privacy Policy applies to all information that we have about you and your account.
 
 #### Examples of Information Collected
 
 #### Information You Give Us
 
-You provide most such information when you search, type, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through [Car From Japan](http://carfromjapan.com/ "Car From Japan") or to one of our third-party sellers; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us) or Your Profile; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; compile Liked Products or other gift registries; participate in Discussion Boards or other community features; provide and rate Customer Reviews; specify a Special Occasion Reminder and employ other Personal Notification Services, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, phone number; credit card information; bank account details; people to whom purchases have been shipped, including address and phone number; people (with addresses and phone numbers) listed in your account settings; content of reviews and e-mails to us; personal description and photographs, and financial information.
+You provide most such information when you search, type, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through **Car From Japan** or to one of our third-party sellers; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us) or Your Profile; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; compile Liked Products or other gift registries; participate in Discussion Boards or other community features; provide and rate Customer Reviews; specify a Special Occasion Reminder and employ other Personal Notification Services, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, phone number; credit card information; bank account details; people to whom purchases have been shipped, including address and phone number; people (with addresses and phone numbers) listed in your account settings; content of reviews and e-mails to us; personal description and photographs, and financial information.
 
 #### Automatic Information
 
@@ -143,9 +147,4 @@ We work with other businesses such as credit card companies to offer other payme
 
 #### Information You Can Access
 
-Examples of information you can access easily on [Car From Japan](http://carfromjapan.com/ "Car From Japan") include up-to-date information regarding recent orders, personally identifiable information (including name, e-mail, password, preferences, address book), payment settings (including bank account information, Points and promotional coupons), e-mail notification settings (including Alerts, Available to Order notifications, notifications related to product purchase), recommendations (including recent product view history, prior order history), Your Profile (including your product Reviews, Requests, Recommendations, Reminders and personal profile).
-
-#### Related Practices and Information
-
-[Conditions of Use](https://web.archive.org/en/conditions)  
-[FAQs](https://web.archive.org/en/faq)
+Examples of information you can access easily on **Car From Japan** include up-to-date information regarding recent orders, personally identifiable information (including name, e-mail, password, preferences, address book), payment settings (including bank account information, Points and promotional coupons), e-mail notification settings (including Alerts, Available to Order notifications, notifications related to product purchase), recommendations (including recent product view history, prior order history), Your Profile (including your product Reviews, Requests, Recommendations, Reminders and personal profile).
