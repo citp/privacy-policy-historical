@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208192651id_/http%3A//www.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221211932id_/https%3A//www.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ If you have registered on the Universal Class service as a Universal Class membe
 
 **Release of Student Records**
 
-Once you have completed an online course, your student records are available for up to 5 years from the date of completion in the form of an online certificate (if you purchased the certificate option), and available under the "My Transcripts" area. You personally control and are responsible for any release of this information to other parties. You can set whether or not your certificate is available to other people using the 'Share My Award' feature located on the online version of your certificate. For example, you can select whether or not it is private (viewable only by you) or public (viewable to anyone) and/or whether it is password protected (viewable only to people who have the password). 
+Once you have completed an online course, your student records are available for up to 7 years from the date of completion in the form of an online certificate (if you purchased the certificate option), and available under the "My Transcripts" area. You personally control and are responsible for any release of this information to other parties. You can set whether or not your certificate is available to other people using the 'Share My Award' feature located on the online version of your certificate. For example, you can select whether or not it is private (viewable only by you) or public (viewable to anyone) and/or whether it is password protected (viewable only to people who have the password). 
 
 **Our Commitment to Data Security**
 
