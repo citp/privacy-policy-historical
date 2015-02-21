@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooltimegames.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216162923id_/http%3A//www.schooltimegames.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooltimegames.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221101715id_/http%3A//www.schooltimegames.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
