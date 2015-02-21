@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npci.org.in privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225171344id_/http%3A//www.npci.org.in/documents/Privacy_And_Security_Policy_NPCI_v1.0.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npci.org.in privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221033934id_/http%3A//www.npci.org.in/documents/Privacy_And_Security_Policy_NPCI_v1.0.pdf) for the most accurate reproduction.*
 
 # PRIVACY AND SECURITY POLICY OF NATIONAL PAYMENTS CORPORATION OF INDIA
 
