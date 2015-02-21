@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712085514id_/https%3A//epoch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221094727id_/https%3A//epoch.com/privacy.html) for the most accurate reproduction.*
 
 # Epoch - Credit Card Processing and Customer Billing Support - Privacy Policy
 
@@ -74,7 +74,11 @@ To the extent that you do provide us with Personal Information, Epoch wishes to 
 
 ##### COOKIES
 
-Epoch uses "cookie" technologies on some portions of Epoch's Website. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our Website. Please note that the use of cookies is optional and setting your browser to block cookies will not affect your ability to purchase a product or service online using our Services or to retain Epoch's Services for your websites.
+Epoch uses "cookie" technologies on some portions of Epoch's Website. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our Website. Epoch does not collect any personally identifiable information about your online activities over time and across third-party websites or online services.
+
+Some of our third party service providers may use cookies to collect personally identifiable information about your online activities over time and across third-party websites. Please visit webcookies.info and each third party service providers' privacy policy for more information.
+
+We have no access to third parties' cookies and third parties have no access to ours.
 
 ##### THIRD PARTIES
 
@@ -83,7 +87,7 @@ Any websites displayed to you by our Website as Internet search results or linke
 ##### DATA PROTECTION SAFE HARBOR PROGRAM *
 
 [We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)  
-[](http://www.export.gov/safeharbor)
+[](https://safeharbor.export.gov/list.aspx)
 
 Epoch is a participant in the Safe Harbor program for Data Protection developed by the U.S. Department of Commerce, the European Union, and Switzerland and is listed by the U.S. Department of Commerce. Epoch has certified that we adhere to the Safe Harbor Privacy Principles. Epoch uses the self assessment method of verification of compliance. Individuals who believe their privacy may have been violated based on the Safe Harbor privacy principles should contact us at [ legal@epoch.com](mailto:legal@epoch.com). For more information about the Safe Harbor program and to view our certification, please visit the [U.S. Department of Commerce's Safe Harbor website](https://safeharbor.export.gov/list.aspx).
 
@@ -102,7 +106,3 @@ We will make reasonable efforts to maintain an up to date and effective privacy 
 We are committed to privacy and support current industry initiatives to preserve individual privacy rights. Protecting your privacy is an evolving area, and Epoch's privacy practices are constantly evolving to meet these demands.
 
 If you have any comments or questions regarding our Privacy Policy, please contact us at [legal@epoch.com](mailto:legal@epoch.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities and as soon as possible.
-
-EFFECTIVE DATE:
-
-This page was last updated on 2011-10-31. We may change this statement from time to time, so please check periodically.
