@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidhere.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216092339id_/http%3A//www.bidhere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidhere.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221032805id_/http%3A//www.bidhere.com/privacy) for the most accurate reproduction.*
 
 # Privacy – BidHere
 
