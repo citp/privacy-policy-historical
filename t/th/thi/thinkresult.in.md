@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkresult.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120134009id_/http%3A//thinkresult.in/forms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkresult.in privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221021954id_/http%3A//thinkresult.in/forms/privacy.aspx) for the most accurate reproduction.*
 
 # Think Result - Fast Growing Digital Media Network - CPM, CPC, CPL, Video, Mobile
 
