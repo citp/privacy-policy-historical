@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebizzare.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018150842id_/http%3A//thebizzare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebizzare.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221151734id_/http%3A//thebizzare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bizarre stuff, Photos, News and More...
 
