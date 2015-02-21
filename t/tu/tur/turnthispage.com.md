@@ -1,81 +1,81 @@
-> *The following text is extracted and transformed from the turnthispage.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018085816id_/http%3A//www.positiveelevation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnthispage.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221222948id_/http%3A//www.turnthispage.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Positive Elevation
+# Turn This Page
 
-**Privacy Policy**
+* * *
 
-**This Privacy Policy** governs the manner in which Video plus collects, uses, maintains and discloses information collected from users (each, a “User”) of the PositiveElevation.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Video plus.
+If users have questions or concerns regarding this statement, they should contact turnthispage.com via the contact information provided at page end.
 
-Personal identification information
+## Information Collection
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+turnthispage.com is the sole owner of the information collected from the website.
 
-Non-personal identification information
+## Profile
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We store information that we collect via browser cookies, log files, and/or third parties to create a profile of our users. A profile is stored information that we maintain for individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and to improve the content of the web site for the user. This profile is used to tailor users' visits to our web site, and to direct pertinent marketing promotions to them. We do not share user profiles with third parties.
 
-Web browser cookies
+## Browser Cookies
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+A browser cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file instructions. Advertising cookies may be placed to enable our display advertising partner to present you with retargeting advertising on other sites based on your previous interaction with our website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. 
 
-How we use collected information
+## Third-Party Advertising
 
-Video plus may collect and use Users personal information for the following purposes:
+turnthispage.com is not responsible for third-party advertising on its web site.
 
-\- To improve customer service
+## Log Files
 
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
+Like most standard web site servers, we maintain log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user movement in the aggregate, and gather broad, aggregate demographic information.
 
-\- To personalize user experience
+## Legal Disclaimer
 
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or a legal process served on our web site.
 
-\- To improve our Site
+## Security
 
-We may use feedback you provide to improve our products and services.
+turnthispage.com takes every precaution to protect our client's information. When users submit sensitive information via the web site, their information is protected both on- and off- line.
 
-\- To process payments
+All of our users' information, not just the sensitive information mentioned above, is restricted within our offices. Only employees who need the information to perform a specific job, for example, our customer service representatives, are granted access to personally identifiable information.
 
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+## Notification of Changes
 
-\- To run a promotion, contest, survey or other Site feature
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
-To send Users information they agreed to receive about topics we think will be of interest to them.
+Privacy Policy
 
-\- To send periodic emails
+* * *
 
-We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+If users have questions or concerns regarding this statement, they should contact turnthispage.com via the contact information provided at page end.
 
-How we protect your information
+## Information Collection
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+turnthispage.com is the sole owner of the information collected from the website.
 
-Sharing your personal information
+## Profile
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We store information that we collect via browser cookies, log files, and/or third parties to create a profile of our users. A profile is stored information that we maintain for individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and to improve the content of the web site for the user. This profile is used to tailor users' visits to our web site, and to direct pertinent marketing promotions to them. We do not share user profiles with third parties.
 
-Third party websites
+## Browser Cookies
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+A browser cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file instructions. Advertising cookies may be placed to enable our display advertising partner to present you with retargeting advertising on other sites based on your previous interaction with our website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. 
 
-Advertising
+## Third-Party Advertising
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+turnthispage.com is not responsible for third-party advertising on its web site.
 
-Google Adsense
+## Log Files
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+Like most standard web site servers, we maintain log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user movement in the aggregate, and gather broad, aggregate demographic information.
 
-Changes to this privacy policy
+## Legal Disclaimer
 
-Video plus has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or a legal process served on our web site.
 
-Your acceptance of these terms
+## Security
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+turnthispage.com takes every precaution to protect our client's information. When users submit sensitive information via the web site, their information is protected both on- and off- line.
 
-Contacting us
+All of our users' information, not just the sensitive information mentioned above, is restricted within our offices. Only employees who need the information to perform a specific job, for example, our customer service representatives, are granted access to personally identifiable information.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+## Notification of Changes
 
-This document was last updated on January 24, 2013
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
