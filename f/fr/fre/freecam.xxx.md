@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecam.xxx privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112061442id_/http%3A//www.freecam.xxx/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecam.xxx privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221155153id_/http%3A//www.freecam.xxx/privacy.html%3F) for the most accurate reproduction.*
 
 # FreeCam.xxx - Privacy Policy
 
