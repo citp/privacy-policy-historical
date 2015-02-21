@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatesocialplugin.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020190304id_/http%3A//gazmat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatesocialplugin.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221203051id_/http%3A//gazmat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GazMat
 
