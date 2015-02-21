@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magento-mall.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120235713id_/http%3A//community.user.magentotrial.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magento-mall.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221035015id_/http%3A//community.user.magentotrial.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy - Magento Commerce Demo Store
 
