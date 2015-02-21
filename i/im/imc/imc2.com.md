@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imc2.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016204719id_/http%3A//www.meplusyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imc2.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221213756id_/http%3A//www.meplusyou.com/privacy-policy) for the most accurate reproduction.*
 
 # MEplusYOU Privacy Policy
 
