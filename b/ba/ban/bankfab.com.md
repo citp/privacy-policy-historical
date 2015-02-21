@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankfab.com privacy policy that was archived on 2012-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120816075620id_/http%3A//www.bankfab.com/storage/pdfs/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankfab.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221013838id_/http%3A//bankfab.com/storage/pdfs/privacy_policy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
