@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rzminc.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625082231id_/https%3A//rzminc.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rzminc.com privacy policy that was archived on 2015-02-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150221204314id_/https%3A//rzminc.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <link rel="”shortcut" icon”="" href="https://rzminc.com/wp-content/uploads/2012/06/favicon.ico"> 
@@ -19,8 +19,9 @@
 <script type="text/javascript" src="https://rzminc.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
 <script type="text/javascript" src="https://rzminc.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <script type="text/javascript" src="https://rzminc.com/wp-includes/js/swfobject.js?ver=2.2-20120417"></script>
-<script type="text/javascript" src="https://rzminc.com/wp-content/plugins/a10-imaio/js/jsfiles.php?ver=3.9.1"></script>
-<script type="text/javascript" src="https://rzminc.com/wp-content/plugins/iframe-wrapper/iframe-wrapper.js?ver=3.9.1"></script>
+<script type="text/javascript" src="https://rzminc.com/wp-content/plugins/a10-imaio/js/jsfiles220006.php?ver=3.9.3"></script>
+<script type="text/javascript" src="https://rzminc.com/wp-content/plugins/a10-imaio/js/jquery_colorbox-min.js?ver=3.9.3"></script>
+<script type="text/javascript" src="https://rzminc.com/wp-content/plugins/iframe-wrapper/iframe-wrapper.js?ver=3.9.3"></script>
 <script type="text/javascript" src="https://rzminc.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.3.4"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rzminc.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://rzminc.com/wp-includes/wlwmanifest.xml"> 
@@ -59,8 +60,72 @@
             };
             jQuery.post('/wp-admin/admin-ajax.php', data, function(){svphidehtml(vidNum, vidPageId);});
         }
+        
+    function fanbuzzGrAddName(name, email, webform_id, vidNum, vidPageId, thankyouurl, embed)
+        {
+//            alert("name="+name+"\nemail="+email+"\nwebform_id="+webform_id);
+            var data = 
+            {
+                    action : 'fanbuzzGrAddName',
+                    name : name,
+                    email: email,
+                    webform_id : webform_id
+            };
+            
+           if (thankyouurl != '')
+           {
+               jQuery.post('/wp-admin/admin-ajax.php', data, function(){svphidehtml(vidNum, vidPageId, '', embed); window.location.replace(thankyouurl);});
+           }
+           else
+           {
+               jQuery.post('/wp-admin/admin-ajax.php', data, function(){svphidehtml(vidNum, vidPageId, '', embed);});
+           }
+           //jQuery.post('https://app.getresponse.com/add_contact_webform.html?u=Lix', data, function(){svphidehtml(vidNum, vidPageId, '', embed);});
+           //jQuery.post('https://app.getresponse.com/add_subscriber.html', data, function(){svphidehtml(vidNum, vidPageId, '', embed);});
+        }
+        
+        
+    function fanbuzzGrGtwAddName(fname, lname, email, webinar_id, webform_id, vidNum, vidPageId, thankyouurl, embed)
+        {
+//            alert("name="+name+"\nemail="+email+"\nwebform_id="+webform_id);
+            var data = 
+            {
+                    action : 'fanbuzzGrGtwAddName',
+                    name : fname,
+                    email: email,
+                    webform_id : webform_id,
+                    firstName : fname,
+                    lastName: lname,
+                    webinar_id : webinar_id
+            };
+           
+           if (thankyouurl != '')
+           {
+               jQuery.post('/wp-admin/admin-ajax.php', data, function(){svphidehtml(vidNum, vidPageId, '', embed); window.location.replace(thankyouurl);});
+           }
+           else
+           {
+               jQuery.post('/wp-admin/admin-ajax.php', data, function(){svphidehtml(vidNum, vidPageId, '', embed);});
+           }
+        }
+        
+        
+    function fanbuzzGtwAddName(fname, lname, email, webinar_id, vidNum, vidPageId, thankyouurl, embed)
+        {
+//            alert("name="+name+"\nemail="+email+"\nwebform_id="+webform_id);
+            var data = 
+            {
+                    action : 'fanbuzzGtwAddName',
+                    firstName : fname,
+                    lastName: lname,
+                    email : email,
+                    webinar_id : webinar_id
+            };
+           jQuery.post('/wp-admin/admin-ajax.php', data);
+        }
+        
     </script>
-    <link rel="stylesheet" href="//rzminc.com/wp-content/plugins/a10-imaio/styles/globalStyles.css" type="text/css" media="all"><script type="text/javascript">
+    <link rel="stylesheet" href="//rzminc.com/wp-content/plugins/a10-imaio/styles/globalStyles220006.css" type="text/css" media="all"><link rel="stylesheet" href="//rzminc.com/wp-content/plugins/a10-imaio/js/styles/colorbox.css" type="text/css" media="all"><script type="text/javascript">
               function ScName()
               {
                   return "sendhttpsrzminccomprivacypolicy";
@@ -76,7 +141,7 @@
 function VrName(vidNum) 
             {
                 var vidNo = 1;
-                if (vidNum != undefined) { vidNo = vidNum; }
+                if (typeof vidNum != undefined && vidNum != null) { vidNo = vidNum; }
                 switch (vidNo)
                 {case 1 : return "videorevealhttpsrzminccomprivacypolicy1"; break;case 2 : return "videorevealhttpsrzminccomprivacypolicy2"; break;case 3 : return "videorevealhttpsrzminccomprivacypolicy3"; break;case 4 : return "videorevealhttpsrzminccomprivacypolicy4"; break;case 5 : return "videorevealhttpsrzminccomprivacypolicy5"; break;case 6 : return "videorevealhttpsrzminccomprivacypolicy6"; break;case 7 : return "videorevealhttpsrzminccomprivacypolicy7"; break;case 8 : return "videorevealhttpsrzminccomprivacypolicy8"; break;case 9 : return "videorevealhttpsrzminccomprivacypolicy9"; break;case 10 : return "videorevealhttpsrzminccomprivacypolicy10"; break;}
             }function CcName()
@@ -287,7 +352,7 @@ function VrName(vidNum)
 © Copyright Red Zebra Media Inc. 2011 - all rights reserved.&nbsp;&nbsp;&nbsp;<a href=""></a></p>
 </div>
 
-<!-- 27 queries. 0.161 seconds. -->
+<!-- 27 queries. 0.157 seconds. -->
 <div><script type="text/javascript" src="https://rzminc.com/wp-content/plugins/contact-form-7/jquery.form.js?ver=3.08"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
