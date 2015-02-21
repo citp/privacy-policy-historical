@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineclock.net privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127114331id_/http%3A//onlineclock.net/about/privacy.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineclock.net privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221025920id_/http%3A//onlineclock.net/about/privacy.html%23privacy) for the most accurate reproduction.*
 
 # OnlineClock.net Contact, Imprint & Privacy Policy
 
