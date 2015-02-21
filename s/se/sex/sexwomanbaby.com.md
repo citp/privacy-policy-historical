@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexwomanbaby.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728052229id_/http%3A//sexwomanbaby.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D62%26Itemid%3D78) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexwomanbaby.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221042209id_/http%3A//sexwomanbaby.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D62%26Itemid%3D78) for the most accurate reproduction.*
 
 # Privacy Policy
 
