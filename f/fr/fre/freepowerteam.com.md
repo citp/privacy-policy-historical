@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepowerteam.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206223817id_/http%3A//www.freepowerteam.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepowerteam.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222042459id_/http%3A//freepowerteam.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
