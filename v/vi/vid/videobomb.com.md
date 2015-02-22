@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videobomb.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214093330id_/http%3A//pculture.org/pcf/websites-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videobomb.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222100307id_/http%3A//pculture.org/pcf/websites-privacy) for the most accurate reproduction.*
 
 # Participatory Culture Foundation - PCF - Open-source video tools for a better world.
 
