@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoteltrip.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702015731id_/http%3A//www.hoteltrip.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoteltrip.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222085623id_/http%3A//www.hoteltrip.com/policy.html) for the most accurate reproduction.*
 
 # HotelTrip.com: Southeast Asia Hotels Best Booking Deals and Travel Guides Site
 
