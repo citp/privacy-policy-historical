@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rxconsultant.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008194827id_/http%3A//rxconsultant.com/index.cfm%3Ffuseaction%3Dhome.privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rxconsultant.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222132212id_/http%3A//rxconsultant.com/index.cfm%3Ffuseaction%3Dhome.privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - The Rx Consultant
 
