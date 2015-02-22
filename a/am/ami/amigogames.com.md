@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amigogames.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014083040id_/http%3A//www.amigogames.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amigogames.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222024757id_/http%3A//amigogames.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Amigo Games :: Privacy Policy
 
