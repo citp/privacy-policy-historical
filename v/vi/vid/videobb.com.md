@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videobb.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210231718id_/http%3A//www.videobb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videobb.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222140002id_/http%3A//www.videobb.com/privacy.php) for the most accurate reproduction.*
 
 # videobb - Free Video Hosting - Your #1 Video Site
 
