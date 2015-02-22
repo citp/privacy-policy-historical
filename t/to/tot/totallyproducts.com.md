@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallyproducts.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719065139id_/http%3A//totallyproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyproducts.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222204810id_/http%3A//totallyproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # Totally Products » Privacy Policy
 
