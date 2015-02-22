@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pervsonpatrol.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119111324id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dpop) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pervsonpatrol.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222055935id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dpop) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
