@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spybot.info privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022201621id_/http%3A//www.safer-networking.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spybot.info privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222030710id_/http%3A//www.safer-networking.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spybot © ™ – Search & Destroy
 
