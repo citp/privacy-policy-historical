@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the text-enhance.com privacy policy that was archived on 2014-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140607225241id_/http%3A//text-enhance.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the text-enhance.com privacy policy that was archived on 2015-02-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150222235355id_/http%3A//text-enhance.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -51,7 +51,6 @@ $(document).ready(function(){
 	$("#content .wrapper a.heatmap").click(function(){
 		return false;
 	});
-
 	(function($) {
 	  var cache = [];
 	  // Arguments are image paths relative to the current page.
@@ -81,6 +80,16 @@ $(document).ready(function(){
 		'/img/footerPop.png',
 	]);
 
+	$.validator.addMethod("math", function(value) {
+		return value == "4";
+	}, 'Your security answer is incorrect.');
+
+	$.validator.addMethod("hp", function(value) {
+		return value == "";
+	}, 'Form error.');
+
+	$("input#tehp").hide();
+
 	$("#content .wrapper form#advertiser_signup").validate(
 		{
 		rules: {
@@ -92,7 +101,9 @@ $(document).ready(function(){
 			city: "required",
 			state: "required",
 			postalcode: "required",
-			url: {required: true, url: true}
+			url: {required: true, url: true},
+			security: "math",
+			tehp: "hp"
 			},
 		debug: true,
 		submitHandler: function(label){
@@ -102,8 +113,8 @@ $(document).ready(function(){
 			}); 
 		}
 	});
-	
-	
+
+
 
 	$("#content .wrapper form#pub_signup").validate(
 		{
@@ -116,7 +127,9 @@ $(document).ready(function(){
 			city: "required",
 			state: "required",
 			postalcode: "required",
-			url: {required: true, url: true}
+			url: {required: true, url: true},
+			security: "math",
+			tehp: "hp"
 			},
 		debug: true,
 		submitHandler: function(label){
@@ -398,7 +411,7 @@ function openWin() {
 		</ul>
 		<a href="#" class="logo"></a>
 		<ul id="legal">
-			<li>Copyright 2014 \ </li>
+			<li>Copyright 2015 \ </li>
 			<li><a href="privacy.php" class="">Privacy Policy</a> \ </li>
 			<li><a href="terms.php" class="terms">Terms</a> \ </li>
 			<li><a href="optout.php">Opt-Out</a></li>
