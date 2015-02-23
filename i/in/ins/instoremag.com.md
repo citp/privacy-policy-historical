@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instoremag.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113074641id_/http%3A//smartworkmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instoremag.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223020825id_/http%3A//smartworkmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « SmartWork Media SmartWork Media
 
@@ -6,7 +6,7 @@
 
 _Updated MARCH 1, 2013_
 
-The following statement details the manner in which SmartWork Media treats the information you provide while using [www.instoremag.com](http://instoremag.com/index.php),[ www.smartjewelryshow.com](http://smartjewelryshow.com/), [www.smartworkmedia.com](http://smartworkmedia.com/) or any other SmartWork Media™ site.
+The following statement details the manner in which SmartWork Media treats the information you provide while using [www.instoremag.com](http://instoremag.com/index.php),[ www.smartjewelryshow.com](http://smartjewelryshow.com/), [www.smartworkmedia.com](http://smartworkmedia.com/), [www.invisionmag.com](http://invisionmag.com/) or any other SmartWork Media™ site.
 
 Please read this Privacy Statement carefully. Your use of, accessing, and/or registration on any aspect of our sites will constitute your agreement to this Privacy Statement. If you do not agree to these terms, you should not use our services and sites. If you have any questions regarding our privacy statement, contact us by e-mail at [ privacy@smartworkmedia.com](mailto:privacy@smartworkmedia.com).
 
