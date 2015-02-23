@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxgay.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102233313id_/http%3A//info.foxgay.com/legal/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxgay.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223090705id_/http%3A//info.foxgay.com/legal/Privacy_policy.html) for the most accurate reproduction.*
 
 # Foxgay.com Privacy Policy
 
