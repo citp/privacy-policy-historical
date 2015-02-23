@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ithinkapps.com privacy policy that was archived on 2012-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120116115316id_/http%3A//www.ithinkapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ithinkapps.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224004505id_/http%3A//www.ithinkapps.com/privacy-policy) for the most accurate reproduction.*
 
 # iThinkApps | mp3TrueEdit - Privacy Policy
 
@@ -16,7 +16,7 @@ The FastSpring online store collects personally identifiable information when yo
 
 The FastSpring Online Store uses Secure Sockets Layer (SSL) encryption on all web pages where personally identifiable information is required. To make purchases from the FastSpring Online Store, you must use an SSL-enabled browser. Doing so protects the confidentiality of your personal and credit card information while it's transmitted over the Internet.
 
-### 2\. ﻿﻿﻿Information collected by Apple App Store (our online reseller for [www.inthinkapps.com](http://www.inthinkapps.com/))
+### 2\. ﻿﻿﻿Information collected by Apple App Store (our online reseller for [www.ithinkapps.com](http://www.ithinkapps.com/))
 
 We also offer our products through the Mac App Store. The Mac App Store is governed by Apple's privacy policy (<http://www.apple.com/privacy>). We receive no personal information from Apple when our products are purchased via the App Store.
 
@@ -45,7 +45,7 @@ Also, we require this information to understand your needs and provide you with 
 
   * We may use the information to improve our products and services.
 
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * We may occasionally send a promotional e-mail about new products, special offers or other information which we think you may find interesting using the email address which you have provided. Should you decide that you no longer wish to receive any e-mail newsletters from us you can cancel at any time by following the instructions on the e-mail footer.
 
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
