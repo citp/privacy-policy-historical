@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosender.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215233559id_/http%3A//prosender.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosender.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223122751id_/http%3A//prosender.com/privacy-policy) for the most accurate reproduction.*
 
 # Email Marketing: Privacy Policy
 
