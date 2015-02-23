@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the untweeps.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219043050id_/http%3A//untweeps.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untweeps.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223121823id_/http%3A//www.untweeps.com/privacy.cfm) for the most accurate reproduction.*
 
 # UnTweeps - Privacy Policy
 
