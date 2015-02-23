@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the moviemakeronline.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022165504id_/http%3A//moviemakeronline.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviemakeronline.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223064714id_/http%3A//moviemakeronline.com/policy) for the most accurate reproduction.*
 
 # User policy « Movie Maker Online.com
 
-You use our service for your own risk. We do not guaratee anytning. We collect the following types of information from our users:
+You use our service for your own risk. We do not guaratee anytning.
+
+We collect the following types of information from our users:
 
 #### Personal Information You Provide to Us
 
