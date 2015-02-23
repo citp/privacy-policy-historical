@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webpagetopdf.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209204622id_/http%3A//www.webpagetopdf.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpagetopdf.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223074005id_/http%3A//webpagetopdf.com/privacy.php) for the most accurate reproduction.*
 
 # Free Convert Webpage to PDF | Url to PDF | Website to PDF | Privacy Policy - Webpagetopdf.com
 
