@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinechance.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001095827id_/http%3A//www.cinechance.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinechance.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223095614id_/http%3A//www.cinechance.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
