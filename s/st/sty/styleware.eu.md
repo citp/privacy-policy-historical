@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the styleware.eu privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617042348id_/http%3A//styleware.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleware.eu privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223073116id_/http%3A//styleware.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ StyleWare ](http://styleware.eu/component/content/section/2) \-  [ Legal ](http://styleware.eu/legal)  
 Written by Grigor Mihov      
-Wednesday, 07 April 2010 11:56   
+Wednesday, 07 April 2010 13:56   
   
 Privacy Policy of StyleWare is used in order to protect its customers privacy and security of information stored and shared with us through the web site www.styleware.eu. This policy explains clearly how we collect , use and maintain your personal information. By registering and using our site you give consent automatically to use and disclose information if required by law or by state authorities. Unless you agree with any terms below, **you should not use** products or services offered by StyleWare.
 
