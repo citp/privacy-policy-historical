@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3redlightfix.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108062409id_/http%3A//3redlightfix.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3redlightfix.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223143457id_/http%3A//3redlightfix.com/Privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
