@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliate.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010160625id_/http%3A//www.affiliate.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliate.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223104757id_/https%3A//www.affiliate.com/privacy_policy.php) for the most accurate reproduction.*
 
 # affiliate.com
 
