@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsxite.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031001451id_/http%3A//www.smsxite.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsxite.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223011708id_/http%3A//www.smsxite.com/disclaimer.php) for the most accurate reproduction.*
 
 # Copyrights/Privacy Policy
 
