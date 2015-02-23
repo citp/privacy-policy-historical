@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the procontentsite.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206121253id_/http%3A//www.procontentsite.com/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the procontentsite.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223024246id_/http%3A//www.procontentsite.com/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
