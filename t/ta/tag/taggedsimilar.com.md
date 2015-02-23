@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taggedsimilar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130810id_/http%3A//taggedsimilar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taggedsimilar.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223082229id_/http%3A//taggedsimilar.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
