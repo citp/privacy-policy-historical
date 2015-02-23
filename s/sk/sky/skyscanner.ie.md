@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscanner.ie privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227062506id_/http%3A//www.skyscanner.ie/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.ie privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223094447id_/http%3A//www.skyscanner.ie/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Skyscanner Ireland
 
@@ -88,4 +88,4 @@ Where you are a user of our sign-in service, you can manage some of your informa
 
  **Contacting Us**
 
-If you have any questions about this policy, please contact us by [email](http://www.skyscanner.net/contactus.aspx) marked for the attention of the Skyscanner Legal Team. 
+If you have any questions about this policy, please [contact us](https://help.skyscanner.net/hc/en-gb/requests/new?ticket_form_id=11631). If you wish to submit a subject access request, please contact Skyscanner legal at legal@skyscanner.net.
