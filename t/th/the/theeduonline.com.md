@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeduonline.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302100751id_/http%3A//theeduonline.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeduonline.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223013250id_/http%3A//theeduonline.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # None
 
