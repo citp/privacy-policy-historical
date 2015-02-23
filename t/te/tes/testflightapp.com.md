@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testflightapp.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205130459id_/http%3A//www.burstly.com/privacy%23testflight) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testflightapp.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223093732id_/http%3A//www.burstly.com/privacy%23testflight) for the most accurate reproduction.*
 
 # Burstly » Privacy Policy
 
