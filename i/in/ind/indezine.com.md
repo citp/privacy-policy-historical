@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indezine.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914014036id_/http%3A//www.indezine.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indezine.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223044036id_/http%3A//www.indezine.com/info/privacy.html) for the most accurate reproduction.*
 
 # Indezine.com - Privacy Policy
 
