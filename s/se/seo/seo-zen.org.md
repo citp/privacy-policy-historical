@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-zen.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060857id_/http%3A//seo-zen.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-zen.org privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223065926id_/http%3A//seo-zen.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sharing My Honest Product Review & Special Offer
 
