@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlimitedtraffic.net privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928105404id_/http%3A//www.unlimitedtraffic.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlimitedtraffic.net privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223202647id_/http%3A//www.unlimitedtraffic.net/privacy.html) for the most accurate reproduction.*
 
 # UnlimitedTraffic.net Website Submission and Promotion
 
