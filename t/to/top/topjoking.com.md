@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topjoking.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819132436id_/http%3A//topjoking.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topjoking.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223012626id_/http%3A//topjoking.com/privacy.php) for the most accurate reproduction.*
 
 # TopJoking.com! - Funny Pictures, Epic Fails, Funny Shots, iPhone Autocorrects, Awkward Texts, LOL Photos, TopJoking.com!, Hilarious, Animal LOLs, Troll Comics, Gags, Cartoon
 
