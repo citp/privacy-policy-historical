@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infiniteevolutioncenter.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105170354id_/http%3A//infiniteevolutioncenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infiniteevolutioncenter.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223164813id_/http%3A//infiniteevolutioncenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Infinite Evolution Center
 
