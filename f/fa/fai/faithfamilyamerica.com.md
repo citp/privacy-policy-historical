@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithfamilyamerica.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120073440id_/http%3A//www.faithfamilyamerica.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithfamilyamerica.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223064717id_/http%3A//www.faithfamilyamerica.com/privacy.php) for the most accurate reproduction.*
 
 # Faith Family America
 
@@ -54,7 +54,7 @@ FaithFamilyAmerica will occasionally update this Statement of Privacy to reflect
 
 ### Copyright Policy
 
-Our [Copyright Policy](https://web.archive.org/web/20141120073440id_/http%3A//www.faithfamilyamerica.com/copyright).
+Our [Copyright Policy](https://web.archive.org/web/20150223064717id_/http%3A//www.faithfamilyamerica.com/copyright).
 
 ### Contact Information
 
