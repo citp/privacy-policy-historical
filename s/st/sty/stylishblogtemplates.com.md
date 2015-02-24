@@ -1,41 +1,30 @@
-> *The following text is extracted and transformed from the stylishblogtemplates.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116155713id_/http%3A//www.stylishblogtemplates.com/2012/06/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylishblogtemplates.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224033232id_/http%3A//www.stylishblogtemplates.com/Privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy |Blogger Templates 2013
+# PRIVACY POLICY
 
-Privacy Policy for www.stylishblogtemplates.com 
+##  1\. Acknowledgement and Acceptance of Terms.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at Contact us. 
+DNBIZ Ltd., the affiliate of Hangzhou 365 Internet Ltd., is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-At www.stylishblogtemplates.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.stylishblogtemplates.com and how it is used. 
+* * *
 
-Log Files
+##  2\. What Information Do We Collect? 
 
-Like many other Web sites, www.stylishblogtemplates.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable. 
+DNBIZ may request that an entity applying for an account provides us with certain personal information (such as its name, email address, etc.) relevant to our provision of the various services offered on our site. We do not collect any personal information other than that which is specifically and knowingly provided to us. When we request information, we explain how it may be used and give you an opportunity to request that the information not be used for those purposes. We also give you an opportunity to opt out of future communications from us. 
 
-Cookies and Web Beacons 
+* * *
 
-www.stylishblogtemplates.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+##  3\. With Whom Do We Share Information? 
 
-DoubleClick DART Cookie 
+DNBIZ may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. Such non-personally identifiable information may include your IP address, sites(s) you visited and keyword searches you conducted on our site(s). This information may allow such third parties to provide you customized advertising.   
+In addition, we may partner with other parties in connection with the various services offered on our site, such as credit card processors or email delivery services. In such instances, we may share limited personal information that is necessary for the third party to provide its services. These companies are prohibited from using this information for any other purpose.
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.stylishblogtemplates.com.
+* * *
 
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.stylishblogtemplates.com and other sites on the Internet. 
+##  4\. Cookies , web Beacons and Other Monitoring Technologies? 
 
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+Like most sites, for account management purposes, DNBIZ may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about site users. Cookies are data files stored on your computer that identify you as a unique user. In limited instances, we may allow third party business partners to monitor our sites for the purpose of reporting user traffic, statistics, advertisements, “click-throughs” and/or other activities and to set their cookies on your computer, subject to agreement between such business partner and us and subject to such business partner’s privacy policy. Cookies and related monitoring technologies enable us to track user trends, preferences and patterns. We may also receive and record information from your computer and browser, including your IP address, site(s) you visited and keyword searches you conducted on our site(s). The information helps us provide improved services, including customized advertising. You can visit our site without using cookies. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include....
+* * *
 
-All Type Advertising Partners
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.stylishblogtemplates.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
-
-www.stylishblogtemplates.com has no access to or control over these cookies that are used by third-party advertisers. 
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.stylishblogtemplates.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
-
-Contact Us
-
-Email: stylishblogtemplates@gmail.com
+This document was last updated on December 28, 2010.
