@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the sftimes.co privacy policy that was archived on 2014-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141023142958id_/http%3A//sftimes.co/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sftimes.co privacy policy that was archived on 2015-02-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150224163420id_/http%3A//sftimes.co/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>  <title>SF Globe - Everything Worth Seeing On the Internet</title>
-  <meta name="application-name" content="SF Globe - Everything Worth Seeing On the Internet">
-	<meta name="description" content="The best source for interesting stories and videos."><meta http-equiv="Content-type" content="text/html" charset="UTF-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>  <title>Privacy Policy</title><meta http-equiv="Content-type" content="text/html" charset="UTF-8">
 
 <link rel="shortcut icon" href="http://sfglobe.com/img/favicon.ico?v=2">
+	<meta name="wot-verification" content="3c555cc48db4d466466e">
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=229925160521517"></script><script type="text/javascript">
 Translations = {
   translations: {},
@@ -43,7 +42,8 @@ Translations = {
     return output;
   }
 }
-</script>  <meta property="fb:admins" content="601901"><meta http-equiv="Content-type" content="text/html" charset="UTF-8">
+</script>  <meta property="fb:admins" content="601901">  <link rel="canonical" href="http://sfglobe.com/privacy.php">
+  <link rel="alternate" href="http://sfglobe.com/privacy.php" hreflang="en"><meta http-equiv="Content-type" content="text/html" charset="UTF-8">
 
 </head>
 <body style="margin: 0px; padding: 0px;" lang="EN-US" link="blue" vlink="purple">
@@ -52,7 +52,7 @@ if(!window.parent || window.parent == window) {
   document.body.style.overflow = '';
 }
 </script>
-<script type="text/javascript" src="http://sfglobe.com/js/fb_wrapper.js"></script>
+<script type="text/javascript" src="http://sfglobe.com/js/fb_wrapper.js?1420235566"></script>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   //return;
@@ -1131,6 +1131,7 @@ a:hover {
 	color: #2b86cd;
 	text-decoration: underline; 
 }
+
 
 .tooltip .close {
   position:absolute;
@@ -2693,7 +2694,7 @@ function showSharePrompt(details, do_share){
   if (do_share) {
     hasShared = true;
   }
-	var user_source = "seed";
+	var user_source = "bottomxpromo";
 	if (user_source.search("twt_")!=-1) {
 		if (do_share){
 			shareArticleOnTwitter(details);
@@ -2922,7 +2923,7 @@ function showSharePrompt_Web(details, do_share){
   if (do_share) {
     hasShared = true;
   }
-	var user_source = "seed";
+	var user_source = "bottomxpromo";
 	if (user_source.search("twt_")!=-1) {
 		if (do_share){
 			shareArticleOnTwitter(details);
@@ -2942,7 +2943,7 @@ function showSharePrompt_Mobile(details, do_share){
   if (do_share) {
     hasShared = true;
   }
-	var user_source = "seed";
+	var user_source = "bottomxpromo";
 	if (user_source.search("twt_")!=-1) {
 		if (do_share){
 			shareArticleOnTwitter(details);
@@ -3322,25 +3323,49 @@ function app_open(article_id) {
 
 function openInApp(article_id,tag) {
   if (article_id) {
-    Page.trackAction('openinapp');
+    if (!tag) {
+      tag = 'none';
+    }
+    Page.trackAction('openinapp',tag);
     var appurl = "sfglobe://sfglobe.com/?id="+article_id;
+    if(tag) {
+      appurl += '&src='+encodeURIComponent(tag);
+    }
     var data = JSON.encode({
         "article_id":article_id,
-        "tag":tag
+        "src":tag
       });
     if (Utils.determine_device() == Utils.DEVICE_ANDROID) {
       // go to app store
-  	  launchandroid(appurl,function() {
+      if (true) {
         //DeviceLinker.link(data,function(response){
-          window.location.href = "https://play.google.com/store/apps/details?id=com.sfglobe.sfg";
+          //window.location.href = "https://play.google.com/store/apps/details?id=com.sfglobe.sfgmobile";
         //});
-      });
+        DeviceLinker.link(data,function(response){
+    	    launchandroid(appurl,function() {
+          
+            //window.location.href = "https://play.google.com/store/apps/details?id=com.sfglobe.sfg";
+            window.location.href = "https://play.google.com/store/apps/details?id=com.sfglobe.sfgmobile";
+            
+          });
+        });
+      }
+      else {
+        DeviceLinker.link(data,function(response){
+          //window.location.href = "https://play.google.com/store/apps/details?id=com.sfglobe.sfg";
+          window.location.href = "https://play.google.com/store/apps/details?id=com.sfglobe.sfgmobile";
+          
+        });
+      }
     }
     else {
       setTimeout(function(){
       	window.location.href = appurl;
       	setTimeout(function(){
-      	  window.location.href = "itms://itunes.apple.com/us/app/sf-globe/id886101349?mt=8&uo=4";
+      	  //window.location.href = "itms://itunes.apple.com/us/app/sf-globe/id886101349?mt=8&uo=4";
+      	  DeviceLinker.link(data,function(response){
+        	  window.location.href = "itms://itunes.apple.com/us/app/sf-globe/id886101349?mt=8&uo=4";
+          });
       	},100);
       },10);
       //DeviceLinker.link(data,function(response){
@@ -3487,7 +3512,335 @@ Account = {
       Account.state_change_listeners.splice(idx,1);
     }
   },
-  promptLogin: function(callback) {
+  getOverlayDialog: function() {
+    
+    var dlg = new DialogWrapper();
+    dlg.className = 'sfg_dialog';
+    dlg.size = 'sfg_new';
+    dlg.viewTop = 60;
+    return dlg;
+  },
+  promptProfile: function() {
+    if(Account.state) {
+      var dlg = Account.getOverlayDialog();
+      
+      var content = "<div class='profile_settings'><div style='padding:40px;'>\
+        <div class='stat'>\
+          Following\
+          <div class='number' id='profile_following'>0</div>\
+        </div>\
+        <input id='profile_picture_input' type=hidden value='"+(Account.state.picture ? Account.state.picture : '')+"' />\
+        <div id='profile_picture' class='pic'>\
+        <span id='profile_picture_text'></span>\
+        </div>\
+        <div class='stat'>\
+          Followers\
+          <div class='number' id='profile_followers'>0</div>\
+        </div>\
+      </div>\
+      <div><span class='label'>Name</span> <input id='profile_first_name' style='width:86px;margin-right:10px;' class='input_text' type='text' placeholder='First Name' value=''><input id='profile_last_name' style='width:86px;' type='text' class='input_text' placeholder='Last Name' value=''></div>\
+      <div id='name_error'></div>\
+      <div><span class='label'>Username</span> <input id='profile_username' class='input_text' type='text' placeholder='Username' value=''></div>\
+      <div id='username_error'></div>\
+      </div>\
+      ";
+      
+      dlg.showChoice(Translations.translate("%1's Profile",['<span id=profile_name></span>']),content,Translations.translate("Save"),Translations.translate("Cancel"));
+      
+      var saveButton = dlg.dom.dialog_button_ok;
+      var saving = false;
+      dlg.onconfirm = function() {
+        if(saving) {
+          return false;
+        }
+        saving = true;
+        saveButton.value = 'Saving...';
+        var updates = {
+          'first_name':document.getElementById('profile_first_name').value,
+          'last_name':document.getElementById('profile_last_name').value,
+          'username':document.getElementById('profile_username').value,
+          'picture':document.getElementById('profile_picture_input').value
+        };    
+        document.getElementById('name_error').textContent = '';
+        document.getElementById('username_error').textContent = '';
+        Account.updateProfile(updates,function(response) {
+          if(response && response.success) {
+            saveButton.value = 'Saved';
+            update();
+            dlg.hide();
+          }
+          else {
+            if(response.invalid_fields) {
+              if(response.invalid_fields.indexOf("first_name") != -1 || response.invalid_fields.indexOf("last_name") != -1) {
+                document.getElementById('name_error').textContent = Translations.translate("You're missing a first or last name!");
+              }
+              if (response.invalid_fields.indexOf("username") != -1) {
+                document.getElementById('username_error').textContent = Translations.translate("Username must be between 6-30 characters and contain letters, numbers, and underscores only.");
+              }
+            }
+            if(response.username_exists) {
+              document.getElementById('username_error').textContent = Translations.translate("Username already taken");
+            }
+            saveButton.value = 'Save';
+          }
+          saving = false;
+        });
+        return false;
+      };
+      var picDom = document.getElementById('profile_picture');
+      picDom.onclick = function() {
+        Account.promptPicture(function(response) {
+          if(response && response.url && response.key) {
+            document.getElementById('profile_picture_input').value = response.key;
+            saveButton.value = 'Save';
+            picDom.style.backgroundImage = "url("+response.url+")";
+            document.getElementById('profile_picture_text').textContent = '';
+          }
+        },function(progress) {
+          picDom.style.backgroundImage = '';
+          document.getElementById('profile_picture_text').textContent = Translations.translate("Uploading...");
+        },true);
+      };
+      document.getElementById('profile_first_name').onchange = document.getElementById('profile_last_name').onchange = document.getElementById('profile_username').onchange = function() {
+        saveButton.value = 'Save';
+      }
+      var update = function() {
+        if(Account.state) {
+          document.getElementById('profile_name').textContent = Account.state.name;
+          if(Account.state.picture_url) {
+            picDom.style.backgroundImage = "url("+Account.state.picture_url+")";
+            document.getElementById('profile_picture_text').textContent = '';
+            if(Account.state.picture) {
+              document.getElementById('profile_picture_input').value = Account.state.picture;
+            }
+          }
+          else {
+            picDom.style.backgroundImage = "";
+            document.getElementById('profile_picture_text').textContent = Translations.translate("Upload Picture");
+            document.getElementById('profile_picture_input').value = '';
+          }
+          document.getElementById('profile_first_name').value = Account.state.first_name;
+          document.getElementById('profile_last_name').value = Account.state.last_name;
+          document.getElementById('profile_username').value = Account.state.username ? Account.state.username : '';
+          document.getElementById('profile_following').innerHTML = Account.state.followed;
+          document.getElementById('profile_followers').innerHTML = Account.state.followers;
+        }
+        else {
+          dlg.hide();
+        }
+      }
+      update();
+    }
+  },
+  promptPicture: function(callback,uploadCallback,uploadOnly) {
+    if(Account.state) {
+      var maxWidth = 1200;
+      var maxHeight = 1200;
+      var finp = document.createElement('input');
+      finp.type = 'file';
+      finp.style.width = '1px';
+      finp.style.height = '1px';
+      finp.style.position = 'absolute';
+      finp.style.left = '-10px';
+      finp.accept = 'image/*';
+      document.body.appendChild(finp);
+      var ondone = function(retVal) {
+        if(typeof callback == 'function') {
+          callback(retVal);
+        }
+        if(finp.parentNode) {
+          finp.parentNode.removeChild(finp);
+        }
+      }
+      var upProgress = function(progress) {
+        if(typeof uploadCallback == 'function') {
+          uploadCallback(progress);
+        }
+      }
+      finp.onchange = function(fEvent) {
+        if(fEvent.target && fEvent.target.files && fEvent.target.files.length > 0) {
+          var file = fEvent.target.files[0];
+          if(file.type && file.type.match(/^image\/.*/)) {
+            if(window.FileReader) {
+              var reader = new FileReader();
+              reader.onload = function(result) {
+                if(reader.result) {  
+                  var noFileReader = function() {
+                    ondone(false);
+                  }                        
+                  var noCanvas = function() {
+                    //if no canvas support, upload full image
+                    var data = reader.result.replace(/^data:image\/[^\;]+;base64,/,'');
+                    uploadData(data);
+                  }
+                  
+                  var uploadData = function(data) {
+                    upProgress(0);
+                    var ajax = new Ajax();
+                    ajax.responseType = Ajax.JSON;
+                    ajax.ondone = function(response) {
+                      if(response && response.url) {
+                        Account.state.picture_url = response.url;
+                      }
+                      upProgress(1);
+                      ondone(response);
+                    }
+                    ajax.post(AppConfig.HOMEURL+'/ajax/picture.php',{'data':data,'save':uploadOnly?0:1});
+                  }
+                  
+                  var img = document.createElement('img');
+                  img.src = reader.result;
+                  var calcImage = function() {
+                    var width = img.naturalWidth;
+                    var height = img.naturalHeight;
+                    var xWidth = maxWidth/width;
+                    var xHeight = maxHeight/height;
+                    if(xWidth < 1 || xHeight < 1) {
+                      var factor = (xWidth < xHeight) ? xWidth : xHeight;
+                      width = Math.round(width*factor);
+                      height = Math.round(height*factor);
+                    }
+                    img.width = width;
+                    img.height = height;
+                    
+                    var canvas = document.createElement('canvas');
+                    canvas.width = width;
+                    canvas.height = height;
+                    if(canvas.getContext && canvas.toDataURL) {
+                      setTimeout(function() {
+                        canvas.getContext("2d").drawImage(img,0,0,width,height);
+                        var data = canvas.toDataURL('data/png');
+                        if(data) {
+                          data = data.replace(/^data:image\/[^\;]+;base64,/,'');
+                          uploadData(data);
+                        }
+                        else {
+                          noCanvas();
+                        }
+                      },1);
+                    }
+                    else {
+                      noCanvas();
+                    }
+                  }
+                  if(img.complete) {
+                    setTimeout(calcImage,1);
+                  }
+                  else {
+                    img.onload = calcImage;
+                  }
+                }
+              }
+              reader.readAsDataURL(file);
+            }
+            else {
+              noFileReader();
+            }
+          }
+          else {
+            ondone(false);
+          }
+        }
+        else {
+          ondone(false);
+        }
+      }
+      finp.click();
+    }
+  },
+  promptNewSignup: function(callback,src) {
+    var dlg = Account.getOverlayDialog();
+    var content = "\
+    <div class='signup_overlay'>\
+    <div style=\"font-family:'Playfair Display SC', serif;color:black;font-size:26px;padding:0px;padding-bottom:10px;\">The San Francisco Globe</div>\
+      <div style='padding-right:25px;padding-left:25px;'>\
+        Not an SFG Reader?  Sign up, get free access to exclusive content, follow authors and topics, and connect with other SFG Readers.\
+      </div>\
+      <span style=''><div id='signup_fb' style='margin-top:15px;display:inline-block;cursor:pointer;'><div style='background-color:#3b579d;width:32px;height:32px;display:inline-block;border-top-left-radius:2px;border-bottom-left-radius:2px;border-right:1px #324b89 solid;'><img style='width:32px;height:32px;' src='/img/fblogo144.png'></div><div style='vertical-align:top;color:white;background-color:#3b579d;font-weight:bold;font-size:16px;display:inline-block;height:32px;line-height:32px;font-family:Arial;padding-left:10px;padding-right:15px;border-top-right-radius:2px;border-bottom-right-radius:2px;'>Continue with Facebook</div></div>\
+      <div>or</div></span>\
+      <div style='padding-top:10px;margin-bottom:60px;'>\
+        <form id='signup_form' method=POST action='"+AppConfig.HOMEURL.replace(/^http\:\/\//,'https://')+"/signup.php?step=form&next="+encodeURIComponent(window.location.href)+((window.Page && Page.trackgroup) ? '&tag='+encodeURIComponent(Page.trackgroup) : '')+"'>\
+          <input type=hidden name=signup value=1 />\
+          <input type=hidden name=wait value=1 />\
+          <input type=hidden id='signup_did_fb' name='fb' value='0' />\
+          <input type=hidden id='signup_access_token' name='access_token' value='' />\
+          <input type=hidden id='signup_birthday' name='birthday' value='' />\
+          <input type=hidden id='signup_picture_url' name='picture_url' value='' />\
+          <div><input style='width:99px;margin-right:10px;' id='signup_first_name' class='input_text' type='text' name='first_name' placeholder='First Name'><input style='width:98px;' id='signup_last_name' class='input_text' type='text' name='last_name' placeholder='Last Name'></div>\
+          <div><input id='signup_email' class='input_text' type='email' name='email' placeholder='Email'></div>\
+          <div><input id='signup_password' class='input_text' type='password' name='password' placeholder='Password'></div>\
+          <div style='padding-top:10px;'><input class='button_action green' type='submit' value='Sign Up'></div>\
+        </form>\
+      </div>\
+      <div class='footer'>Already a member?  <a id='signup_login' onclick='return false;' href='#'>Login</a></div>\
+      </div>\
+    ";
+    dlg.showMessage(Translations.translate('Sign up for %1',["<span style=\"font-family:'Playfair Display SC', serif;color:#484848;\">SFG</span>"]),content,"x");
+    Utils.addEventListener(dlg.dom.overlay,'click',function() {
+      dlg.cancel();
+    });
+    /*document.getElementById('signup_skip').onclick = function() {
+      dlg.cancel();
+      if(window.Page && Page.trackAction) {
+        Page.trackAction('signup_close','overlay_skip');
+      }
+      return false;
+    }*/
+    document.getElementById('signup_login').onclick = function() {
+      dlg.hide();
+      Account.promptLogin(callback,src,function() {
+        Account.promptNewSignup(callback,src);
+      });
+      if(window.Page && Page.trackAction) {
+        Page.trackAction('login','overlay');
+      }
+      return false;
+    }
+    document.getElementById('signup_fb').onclick = function() {
+      if(window.FB && window.FB.login) {
+        FB.login(function(lResponse) {
+            if(lResponse && lResponse.authResponse) {
+              FB.api("/me",{fields:'name,first_name,last_name,gender,email,birthday,picture.width(1200).height(1200)'},function(meInfo) {
+                if(meInfo) {
+                  for(var k in meInfo) {
+                    var inp = document.getElementById('signup_'+k);
+                    if(inp && meInfo[k]) {
+                      inp.value = meInfo[k];
+                    }
+                  }
+                  if(meInfo.picture && meInfo.picture.data && meInfo.picture.data.url) {
+                    document.getElementById('signup_picture_url').value = meInfo.picture.data.url;
+                  }
+                  document.getElementById('signup_did_fb').value=1;
+                  document.getElementById('signup_form').submit();
+                }
+              });
+              if(lResponse.authResponse.accessToken) {
+                document.getElementById('signup_access_token').value = lResponse.authResponse.accessToken;
+              }
+            }
+        },{scope:'email,user_birthday'});
+      }
+    }
+    dlg.onconfirm = dlg.oncancel = function() {
+      if(typeof callback == 'function') {
+        callback(false);
+      }
+      if(window.Page && Page.trackAction) {
+        Page.trackAction('signup_close','overlay');
+      }
+    }
+    if(!((navigator.appName == 'Microsoft Internet Explorer') || ((navigator.appName == 'Netscape') && (new RegExp("Trident/.*rv:([0-9]{1,}[\.0-9]{0,})").exec(navigator.userAgent) != null)))) {
+      document.getElementById('signup_first_name').focus();
+    }
+    dlg.dom.dialog_button_ok.style.color = 'gray';
+  },
+  promptLogin: function(callback,src,signupCallback) {
+    if(typeof signupCallback != 'function') {
+      signupCallback = function() {
+        Account.promptSignup(callback,src);
+      }
+    }
     var content = '<div id=login_prompt></div>';
     var dlg = new DialogWrapper().showChoice(Translations.translate("Login"),content);
     Utils.addClass(dlg.dom.dialog,"login");
@@ -3567,7 +3920,7 @@ Account = {
     signup.href = '#';
     signup.onclick = function() {
       dlg.hide();
-      Account.promptSignup(callback);
+      signupCallback();
       return false;
     }
     signup.appendChild(document.createTextNode(Translations.translate("New User?  Sign Up!")));
@@ -3984,16 +4337,96 @@ Account = {
     }
     ajax.post(AppConfig.HOMEURL+"/ajax/reset_password.php",{email:email});
   },
-  sendConfirmationEmail: function() {
+  sendConfirmationEmail: function(callback,params) {
+    var ondone = function(retVal) {
+      if(typeof callback == 'function') {
+        callback(retVal);
+      }
+    }
     if(Account.state && !Account.state.confirmed) {
+      if(!params) {
+        params = {};
+      }
       var ajax = new Ajax();
       ajax.responseType = Ajax.JSON;
       ajax.ondone = function(response) {
         if(response && response.success) {
-          var dlg = new DialogWrapper().showMessage(Translations.translate('Confirmation Sent!'),Translations.translate('Check your email inbox for instructions on confirming your account.'),Translations.translate('Ok'));
+          if(callback) {
+            ondone(true);
+          }
+          else {
+            var dlg = new DialogWrapper().showMessage(Translations.translate('Confirmation Sent!'),Translations.translate('Check your email inbox for instructions on confirming your account.'),Translations.translate('Ok'));
+          }
+        }
+        else {
+          ondone(false);
         }
       }
-      ajax.post(AppConfig.HOMEURL+"/ajax/send_confirmation_email.php");
+      ajax.post(AppConfig.HOMEURL+"/ajax/send_confirmation_email.php",params);
+    }
+    else {
+      ondone(false);
+    }
+  },
+  follow: function(targets,callback) {
+    Account.follow_api('follow',[targets],callback);
+  },
+  unfollow: function(targets,callback) {
+    Account.follow_api('unfollow',[targets],callback);
+  },
+  set_followed: function(targets,for_type,callback) {
+    Account.follow_api('set_followed',[targets,for_type],callback);
+  },
+  follow_api: function(m,a,c) {
+    var ondone = function(result) {
+      if(typeof c == 'function') {
+        c(result);
+      }
+    }
+    if(Account.state) {
+      var params = {
+        'method' : m,
+        'arguments': JSON.encode(a)
+      };
+      
+      var ajax = new Ajax();
+      ajax.responseType = Ajax.JSON;
+      ajax.timeout = 10000;
+      ajax.ondone = ajax.ontimeout = ajax.onerror = function(response) {
+        if(response) {
+          ondone(response);
+        }
+        else {
+          ondone(false);
+        }
+      }
+      ajax.post(AppConfig.HOMEURL+"/ajax/followed.php",params);
+    }
+    else {
+      ondone(false);
+    }
+  },
+  updateProfile: function(params,callback) {
+    var ondone = function(result) {
+      if(typeof callback == 'function') {
+        callback(result);
+      }
+    }
+    if(Account.state && params) {
+      var ajax = new Ajax();
+      ajax.responseType = Ajax.JSON;
+      ajax.ondone = function(response) {
+        if(response && response.success) {
+          if(response.account) {
+            Account.setState(response.account);
+          }
+        }
+        ondone(response);
+      }
+      ajax.post(AppConfig.HOMEURL+"/ajax/profile.php",params);
+    }
+    else {
+      ondone(false);
     }
   }
 }
@@ -4882,7 +5315,12 @@ Account.Notifications = {
             var comment_id = notification.reply.id;
             url = '#c'+comment_id;
             if(!document.getElementById('comment_'+comment_id)) {
-              url = AppConfig.HOMEURL+'/?id='+notification.reply.object+'&src=notif'+'&notifs='+notif_ids.join(',')+url;
+              var cpath = AppConfig.HOMEURL+'/?id='+notification.reply.object;
+              if(notification.reply.object_path) {
+                cpath = AppConfig.HOMEURL+'/'+notification.reply.object_path;
+              }
+              
+              url = cpath+(cpath.indexOf('?')==-1?'?':'&')+'src=notif'+'&notifs='+notif_ids.join(',')+url;
             }
           }
           break;
@@ -4891,7 +5329,11 @@ Account.Notifications = {
             var comment_id = notification.comment.id;
             url = '#c'+comment_id;
             if(!document.getElementById('comment_'+comment_id)) {
-              url = AppConfig.HOMEURL+'/?id='+notification.comment.object+'&src=notif'+'&notifs='+notif_ids.join(',')+url;
+              var cpath = AppConfig.HOMEURL+'/?id='+notification.comment.object;
+              if(notification.comment.object_path) {
+                cpath = AppConfig.HOMEURL+'/'+notification.comment.object_path;
+              }
+              url = cpath+(cpath.indexOf('?')==-1?'?':'&')+'src=notif'+'&notifs='+notif_ids.join(',')+url;
             }
           }
           break;
@@ -5390,6 +5832,8 @@ function clickTrack(actionname,url) {
     Humor
   </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Home');" class="category_name Home" style="display:block;margin-top:5px;position:relative;">
     Home
+  </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Health');" class="category_name Health" style="display:block;margin-top:5px;position:relative;">
+    Health
   </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Technology');" class="category_name Technology" style="display:block;margin-top:5px;position:relative;">
     Technology
   </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Science');" class="category_name Science" style="display:block;margin-top:5px;position:relative;">
@@ -5941,13 +6385,12 @@ information to us or anyone else over the Internet.</p>
 
 
 
-</div></div><div class="footer_wrapper" style="z-index:1000;background-color:white;position:relative;padding-bottom:30px;">
+</div><div class="footer_wrapper" style="z-index:1000;background-color:white;position:relative;padding-bottom:30px;">
 <div class="footer_header" style="margin-bottom:0px;">	<span style="margin-right:20px">© 2014 &nbsp;&nbsp; SFG</span> 	<span class="footer_category"><a href="http://sfglobe.com/about.php" target="_blank">About Us</a></span>
 	<span class="footer_category"><a href="http://sfglobe.com/terms.php" target="_blank">Terms</a></span>
 	<span class="footer_category"><a href="http://sfglobe.com/privacy.php" target="_blank">Privacy</a></span>
-	<span class="footer_category" style="border:0px"><a href="http://sfglobe.com/contact.php" target="_blank">Contact</a></span>
-	<span class="footer_category" style="border:0px;font-size:10px;">#5157630520074517076</span></div>
-</div><script type="text/javascript">
+	<span class="footer_category" style="border:0px;font-size:10px;">#523963718471347478</span></div>
+</div></div><script type="text/javascript">
   if(typeof FB != 'undefined' && FB.Canvas && FB.Canvas.setAutoGrow) {
     FB.Canvas.setAutoGrow();
   }
