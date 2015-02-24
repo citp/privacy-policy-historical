@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mr-funny.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017031315id_/http%3A//www.mr-funny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mr-funny.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224215335id_/http%3A//www.mr-funny.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Funny pictures and images, Daily latest photos updated.
 
