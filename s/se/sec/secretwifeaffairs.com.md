@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretwifeaffairs.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126090839id_/http%3A//www.secretwifeaffairs.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretwifeaffairs.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224094655id_/http%3A//www.secretwifeaffairs.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Secret Wife Affairs - Free Adult Dating Personals
 
