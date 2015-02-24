@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleseostuff.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519103333id_/http%3A//simpleseostuff.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleseostuff.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224175414id_/http%3A//simpleseostuff.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,4 +30,4 @@ Please note that we do not collect any personal, confidential or financial infor
 
 **Contact Information:**
 
-If you have any questions or suggestions regarding our privacy policy, please send us an email by using our Contact Form. 
+If you have any questions or suggestions regarding our privacy policy, please send an email to contact [@] simpleseostuff . com 
