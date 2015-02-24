@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographymasterclass.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055437id_/http%3A//www.photographymasterclass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographymasterclass.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224011835id_/http%3A//www.photographymasterclass.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Photography Masterclass by Evan Sharboneau
 
@@ -14,6 +14,8 @@
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
 We may use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+
+Your e-mail address will be put on our e-mail list so we can send you information regarding the product (log-in information, product updates, etc.). E-mail broadcasts sent to this list are very rare (a few times a year, if even that).
 
 **Our Commitment To Data Security  
 **To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, all payments securely go through ClickBank.com and PayPal.com.
