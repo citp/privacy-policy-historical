@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicofmakingup.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115419id_/http%3A//magicofmakingup.com/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicofmakingup.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224083208id_/http%3A//magicofmakingup.com/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Magic Of Making Up | How To Get Your Ex Back | Relationship Advice | Break Up Advice-Privacy Statement
 
