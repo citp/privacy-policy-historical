@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mydailyflog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043615id_/http%3A//www.mydailyflog.com/go/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailyflog.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224190359id_/http%3A//www.mydailyflog.com/go/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to MyDailyFlog! | MyDailyFlog
 
-This Privacy Policy applies to your use of the MyDailyFlog website at MyDailyFlog.com. The website is owned by Refriendz Ltd (UK)
+This Privacy Policy applies to your use of the MyDailyFlog website at MyDailyFlog.com. The website is owned by Refriendz Ltd
 
 At MyDailyFlog your privacy is of paramount importance. As the custodians of your personal information, we have developed this policy to ensure that your privacy is always protected while you are using the MyDailyFlog network.
 
