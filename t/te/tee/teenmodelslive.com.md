@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenmodelslive.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130090916id_/http%3A//www.teenmodelslive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenmodelslive.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224055832id_/http%3A//www.teenmodelslive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # teenmodelslive.com - Privacy Policy
 
