@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superprofs.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206113046id_/http%3A//superprofs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superprofs.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224234915id_/http%3A//superprofs.com/privacy) for the most accurate reproduction.*
 
 # Online Classes - From India's Best Professors | Privacy Policy
 
