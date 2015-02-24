@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the superprofs.com privacy policy that was archived on 2014-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141206113046id_/http%3A//superprofs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superprofs.com privacy policy that was archived on 2015-02-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150224234915id_/http%3A//superprofs.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta charset="UTF-8">
@@ -9,18 +9,30 @@
 <link href="/assets/f22c5a5f/css/font-awesome.min.css" rel="stylesheet">
 <link href="/js/fancybox/source/jquery.fancybox.css?v=2.1.6" rel="stylesheet">
 <link href="/js/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.6" rel="stylesheet">
-<link href="/css/site.css?v=1.0.15" rel="stylesheet">
+<link href="/css/site.css?v=1.0.18" rel="stylesheet">
 <link href="/css/normalize.css" rel="stylesheet">
 <link href="/css/static_pages.css?v=1.0.10" rel="stylesheet">
-<link href="/css/bootstrap-select.min.css?v=1.0.4" rel="stylesheet">    </head>
+<link href="/css/bootstrap-select.min.css?v=1.0.4" rel="stylesheet">
+    <script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/a7bgrldflt/analytics.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M6TRGJ"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-45087071-3', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <script type="text/javascript" src="https://web.mxradon.com/t/Tracker.js"></script></head>
     <!-- Google Tag Manager -->
     <body><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M6TRGJ"
                       height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/a7bgrldflt/analytics.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M6TRGJ"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
             new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
             j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-M6TRGJ');</script>
+
     <!-- End Google Tag Manager -->
 
 <nav id="nav-top-2" class="navbar-inverse navbar-fixed-top navbar" role="navigation"><div class="container"><div class="navbar-header"><button class="navbar-toggle" data-toggle="collapse" data-target="#nav-top-2-collapse"><span class="sr-only">Toggle navigation</span>
@@ -29,10 +41,36 @@
 <span class="icon-bar"></span></button><a class="navbar-brand" href="/"></a></div><div id="nav-top-2-collapse" class="collapse navbar-collapse">
 
 <!--LeadSquared Tracking Code Start-->
-<script type="text/javascript" src="https://web.mxradon.com/t/Tracker.js"></script>
 <script type="text/javascript">
-    pidTracker('2765');
+    function loadScript( url, callback ) {
+        var script = document.createElement( "script" )
+        script.type = "text/javascript";
+        if(script.readyState) {  //IE
+            script.onreadystatechange = function() {
+                if ( script.readyState === "loaded" || script.readyState === "complete" ) {
+                    script.onreadystatechange = null;
+                    callback();
+                }
+            };
+        } else {  //Others
+            script.onload = function() {
+                callback();
+            };
+        }
+
+        script.src = url;
+        document.getElementsByTagName( "head" )[0].appendChild( script );
+    }
+
+
+    // call the function...
+    loadScript("https://web.mxradon.com/t/Tracker.js", function() {
+        pidTracker('2765');
+    });
 </script>
+
+
+
 <!--LeadSquared Tracking Code End-->
 
 <script type="text/javascript">
@@ -59,7 +97,7 @@
 <!---TODO--->
 
 
-<div id="exams" style="position: fixed;top: 10px; left:29%;width:42%; z-index: 5000;">
+<div id="exams" style="position: fixed;top: 10px; left:27%;width:21%; z-index: 5000;">
 
     <div id="examselect">
         <div id="select-box">
@@ -68,31 +106,26 @@
 
                 <form id="exam-form" action="/catalog-item/" method="get">
                         <div id="select-exam" class="select-div">
-                            <p id="select-title-exam">Select the exam you are preparing for</p>
-                            <input type="hidden" placeholder="Select the exam you are preparing for" name="exam_id" value="" class="select-inp" readonly="readonly">
+                            <p id="select-title-exam">- Select your exam -</p>
+                            <input type="hidden" placeholder="- Select your exam -" name="exam_id" value="" class="select-inp" readonly="readonly">
                         </div>
-                        <div id="select-child-1" hidden="true" class="select-div">
+                        <div id="select-child-1" hidden="true" class="select-div" style="display: none;">
                             <div class="select-icon-exam"></div>
                             <p id="select-title-child-1">-Select-</p>
                             <input type="hidden" placeholder="Select Attempt" name="Course[exam_attempt_id]" class="select-inp" readonly="readonly">
                         </div>
-                                                                <div id="select-child-2" hidden="true" class="select-div">
+                                                                <div id="select-child-2" hidden="true" class="select-div" style="display: none;">
                             <div class="select-icon-exam"></div>
                             <div id="select-icon-child"></div>
-                            <p id="select-title-child-2">-Select Exam Attempt-</p>
+                            <p style="display: none" id="select-title-child-2">-Select Exam Attempt-</p>
                             <input type="hidden" placeholder="Select Attempt" class="select-inp" readonly="readonly">
                         </div>
                     
-
-
-                    <div id="search-btn">
-                        <i class="fa fa-arrow-right"></i>
-                    </div>
                 </form>
             </div>
 
 
-            <div id="select-dropdown-exams" class="select-dropdown">
+            <div id="select-dropdown-exams" class="select-dropdown" style="display: none;">
                 <ul>
                                             <li class="parent-exam" data-id="16" data-label="">CA</li>
                                             <li class="parent-exam" data-id="17" data-label="">CMA</li>
@@ -100,11 +133,10 @@
                                             <li class="parent-exam" data-id="19" data-label="">GATE</li>
                                             <li class="parent-exam" data-id="21" data-label="">IIT-JEE</li>
                                             <li class="parent-exam" data-id="33" data-label="">NCFM</li>
-                                            <li class="parent-exam" data-id="51" data-label="">Medical/NEET</li>
                                     </ul>
             </div>
 
-                            <div id="select-dropdown-child-1" class="select-dropdown">
+                            <div id="select-dropdown-child-1" class="select-dropdown" style="display: none;">
                     <ul>
             <li style="display: block" class="child-exam" data-parent="16" data-id="1" data-label="">CPT</li>
             <li style="display: block" class="child-exam" data-parent="16" data-id="2" data-label="">IPCC</li>
@@ -129,26 +161,23 @@
             <li style="display: block" class="child-exam" data-parent="42" data-id="43" data-label="">Unknow attempt</li>
             <li style="display: block" class="child-exam" data-parent="33" data-id="44" data-label="">Foundation</li>
             <li style="display: block" class="child-exam" data-parent="33" data-id="45" data-label="">Intermediate</li>
-            <li style="display: block" class="child-exam" data-parent="47" data-id="48" data-label="">Uk IIT 1</li>
-            <li style="display: block" class="child-exam" data-parent="21" data-id="49" data-label="">Main</li>
-            <li style="display: block" class="child-exam" data-parent="21" data-id="50" data-label="">Main+Advanced</li>
             <li style="display: block" class="child-exam" data-parent="52" data-id="53" data-label="">Economics</li>
+            <li style="display: block" class="child-exam" data-parent="54" data-id="55" data-label="">CS</li>
+            <li style="display: block" class="child-exam" data-parent="54" data-id="56" data-label="">EE</li>
+            <li style="display: block" class="child-exam" data-parent="54" data-id="57" data-label="">EC</li>
+            <li style="display: block" class="child-exam" data-parent="54" data-id="58" data-label="">CE</li>
+            <li style="display: block" class="child-exam" data-parent="54" data-id="59" data-label="">ME</li>
+            <li style="display: block" class="child-exam" data-parent="54" data-id="60" data-label="">IN</li>
                         </ul>
                 </div>
 
-                <div id="select-dropdown-child-2" class="select-dropdown">
+                <div id="select-dropdown-child-2" class="select-dropdown" style="display: none;">
                     <ul>
-                                <li style="display: block" data-exam="12" class="exam-attempt" data-id="18"> 2015</li>
-            <li style="display: block" data-exam="13" class="exam-attempt" data-id="19"> 2015</li>
-            <li style="display: block" data-exam="14" class="exam-attempt" data-id="20"> 2015</li>
-            <li style="display: block" data-exam="3" class="exam-attempt" data-id="29"> 2015</li>
+                                <li style="display: block" data-exam="3" class="exam-attempt" data-id="29"> 2015</li>
             <li style="display: block" data-exam="21" class="exam-attempt" data-id="32"> 2015</li>
             <li style="display: block" data-exam="19" class="exam-attempt" data-id="33">Feb 2015</li>
-            <li style="display: block" data-exam="23" class="exam-attempt" data-id="34"> 2015</li>
             <li style="display: block" data-exam="10" class="exam-attempt" data-id="36">Jan 2014</li>
             <li style="display: block" data-exam="10" class="exam-attempt" data-id="37">Mar 2015</li>
-            <li style="display: block" data-exam="24" class="exam-attempt" data-id="39"> 2015</li>
-            <li style="display: block" data-exam="22" class="exam-attempt" data-id="40"> 2015</li>
             <li style="display: block" data-exam="2" class="exam-attempt" data-id="43"> 2015</li>
             <li style="display: block" data-exam="29" class="exam-attempt" data-id="44"> 2014</li>
             <li style="display: block" data-exam="1" class="exam-attempt" data-id="47"> 2015</li>
@@ -173,14 +202,24 @@
             <li style="display: block" data-exam="50" class="exam-attempt" data-id="75"> 2015</li>
             <li style="display: block" data-exam="51" class="exam-attempt" data-id="77"> 2015</li>
             <li style="display: block" data-exam="53" class="exam-attempt" data-id="80"> 2015</li>
+            <li style="display: block" data-exam="12" class="exam-attempt" data-id="81"> 2016</li>
+            <li style="display: block" data-exam="13" class="exam-attempt" data-id="82"> 2016</li>
+            <li style="display: block" data-exam="14" class="exam-attempt" data-id="83"> 2016</li>
+            <li style="display: block" data-exam="22" class="exam-attempt" data-id="84"> 2016</li>
+            <li style="display: block" data-exam="23" class="exam-attempt" data-id="85"> 2016</li>
+            <li style="display: block" data-exam="24" class="exam-attempt" data-id="86"> 2016</li>
                         </ul>
                 </div>
 
                     </div>
     </div>
 </div>
-
-
+<div class="need-help-text text-center">
+    Call 080-3301-3201
+</div>
+<div class="cart-icon  text-center">
+    <a id="cart-icon" href="/cart/index/"> <i class="fa fa-shopping-cart"></i><sup><span id="cart-count"></span></sup></a>
+</div>
 <ul id="w0" class="navbar-nav navbar-right nav"><li><a href="/login/">LOG IN</a></li>
 <li><a href="/signup/">SIGN UP</a></li></ul></div></div></nav>
 
@@ -538,7 +577,7 @@
         </div>
         <div class="row footer-copy">
             <div class="col-md-12">
-                © 2012-14 SuperProfs, All rights reserved
+                © 2014-16 SuperProfs, All rights reserved
             </div>
 
         </div>
@@ -550,161 +589,6 @@
 <div id="black-screen">
 
 </div>
-<div class="fixed-query">
-
-    <div class="col-md-5 query-drop">
-        <!--<button class="btn btn-primary query-btn drop-query pull-right">Drop a query</button>-->
-    </div>
-    <div class="col-md-2 query-phone text-center">
-        Need Help? 080-3301-3201
-    </div>
-    <div class="col-md-5 query-callback">
-        <!--<button class="btn btn-primary query-btn request-call-back">Request callback</button>-->
-    </div>
-    <!---TODO--->
-    
-    <div class="query-drop-form query-form">
-                <form id="drop-form" class="form-horizontal" action="/privacy/" method="post" role="form"><div class="form-group field-examqueryform-email required">
-<label class="control-label col-sm-3" for="examqueryform-email">E - mail</label>
-<div class="col-sm-8">
-<input type="text" id="examqueryform-email" class="form-control" name="ExamQueryForm[email]">
-<div class="help-block help-block-error "></div>
-</div>
-</div><div class="form-group field-examqueryform-phone required">
-<label class="control-label col-sm-3" for="examqueryform-phone">Phone</label>
-<div class="col-sm-8">
-<input type="text" id="examqueryform-phone" class="form-control" name="ExamQueryForm[phone]">
-<div class="help-block help-block-error "></div>
-</div>
-</div><div class="form-group field-examqueryform-exam_interest required">
-<label class="control-label col-sm-3" for="examqueryform-exam_interest">Exam Interest</label>
-<div class="col-sm-8">
-<select id="examqueryform-exam_interest" class="form-control" name="ExamQueryForm[exam_interest]" style="width:100%">
-<option value="">Select Exam You Are Preparing For</option>
-<option value="1">CA CPT</option>
-<option value="2">CA IPCC</option>
-<option value="3">CA Final</option>
-<option value="4">CMA Foundation</option>
-<option value="5">CMA Intermediate</option>
-<option value="6">CMA Final</option>
-<option value="7">CS Foundation</option>
-<option value="8">CS Executive</option>
-<option value="9">CS Professional</option>
-<option value="12">GATE CS</option>
-<option value="13">GATE EE</option>
-<option value="14">GATE EC</option>
-<option value="22">GATE CE</option>
-<option value="23">GATE ME</option>
-<option value="24">GATE IN</option>
-<option value="34">IIT-JEE Class XI</option>
-<option value="35">IIT-JEE Class XII</option>
-<option value="36">IIT-JEE XII Passed</option>
-<option value="39">PSI 2014</option>
-<option value="40">PSI 2015</option>
-<option value="43">Unknow Exam Unknow attempt</option>
-<option value="44">NCFM Foundation</option>
-<option value="45">NCFM Intermediate</option>
-<option value="48">Uk IIT Uk IIT 1</option>
-<option value="49">IIT-JEE JEE-Main</option>
-<option value="50">IIT-JEE JEE-(Main+Advanced)</option>
-<option value="53">CBSE Economics</option>
-</select>
-<div class="help-block help-block-error "></div>
-</div>
-</div><div class="form-group field-examqueryform-query required">
-<label class="control-label col-sm-3" for="examqueryform-query">Query</label>
-<div class="col-sm-8">
-<textarea id="examqueryform-query" class="form-control" name="ExamQueryForm[query]" maxlength="300"></textarea><div><span id="remainingLengthTempId">300</span> remaining</div>
-<div class="help-block help-block-error "></div>
-</div>
-</div><div class="form-group field-examqueryform-prospectid">
-
-<div class="col-sm-8 col-sm-offset-4">
-<input type="hidden" id="examqueryform-prospectid" class="form-control" name="ExamQueryForm[prospectID]">
-<div class="help-block help-block-error "></div>
-</div>
-</div></form>        <div class="query-drop-info">
-
-        </div>
-        <button type="button" class="btn btn-primary query-btn query-submit-btn" id="query-drop-submit">Submit Query
-        </button>
-
-    </div>
-
-    <div class="query-callback-form query-form">
-                <form id="callback-form" class="form-horizontal" action="/privacy/" method="post" role="form"><div class="form-group field-requestcallbackform-name required">
-<label class="control-label col-sm-3" for="requestcallbackform-name">Name</label>
-<div class="col-sm-8">
-<input type="text" id="requestcallbackform-name" class="form-control" name="RequestCallbackForm[name]">
-<div class="help-block help-block-error "></div>
-</div>
-</div><div class="form-group field-requestcallbackform-email required">
-<label class="control-label col-sm-3" for="requestcallbackform-email">E - mail</label>
-<div class="col-sm-8">
-<input type="text" id="requestcallbackform-email" class="form-control" name="RequestCallbackForm[email]">
-<div class="help-block help-block-error "></div>
-</div>
-</div><div class="form-group field-requestcallbackform-phone required">
-<label class="control-label col-sm-3" for="requestcallbackform-phone">Phone</label>
-<div class="col-sm-8">
-<input type="text" id="requestcallbackform-phone" class="form-control" name="RequestCallbackForm[phone]">
-<div class="help-block help-block-error "></div>
-</div>
-</div><div class="form-group field-requestcallbackform-exam_interest required">
-<label class="control-label col-sm-3" for="requestcallbackform-exam_interest">Exam Interest</label>
-<div class="col-sm-8">
-<select id="requestcallbackform-exam_interest" class="form-control" name="RequestCallbackForm[exam_interest]" style="width:100%">
-<option value="">Select Exam You Are Preparing For</option>
-<option value="1">CA CPT</option>
-<option value="2">CA IPCC</option>
-<option value="3">CA Final</option>
-<option value="4">CMA Foundation</option>
-<option value="5">CMA Intermediate</option>
-<option value="6">CMA Final</option>
-<option value="7">CS Foundation</option>
-<option value="8">CS Executive</option>
-<option value="9">CS Professional</option>
-<option value="12">GATE CS</option>
-<option value="13">GATE EE</option>
-<option value="14">GATE EC</option>
-<option value="22">GATE CE</option>
-<option value="23">GATE ME</option>
-<option value="24">GATE IN</option>
-<option value="34">IIT-JEE Class XI</option>
-<option value="35">IIT-JEE Class XII</option>
-<option value="36">IIT-JEE XII Passed</option>
-<option value="39">PSI 2014</option>
-<option value="40">PSI 2015</option>
-<option value="43">Unknow Exam Unknow attempt</option>
-<option value="44">NCFM Foundation</option>
-<option value="45">NCFM Intermediate</option>
-<option value="48">Uk IIT Uk IIT 1</option>
-<option value="49">IIT-JEE JEE-Main</option>
-<option value="50">IIT-JEE JEE-(Main+Advanced)</option>
-<option value="53">CBSE Economics</option>
-</select>
-<div class="help-block help-block-error "></div>
-</div>
-</div><div class="form-group field-requestcallbackform-prospectid">
-
-<div class="col-sm-8 col-sm-offset-3">
-<input type="hidden" id="requestcallbackform-prospectid" class="form-control" name="RequestCallbackForm[prospectID]">
-<div class="help-block help-block-error "></div>
-</div>
-</div></form>        <div class="query-callback-info">
-        </div>
-
-        <button type="button" class="btn btn-primary query-btn query-submit-btn" id="query-callback-submit">Schedule a
-            call
-        </button>
-
-    </div>
-
-
-</div>
-
-
-
 
 <!--fb pixel-->
 <script>/*(function() {
@@ -737,59 +621,7 @@
 
 <!-- Drop Query Text area restrict and remaining code -->
 
-    <!--Google re-targeting pixel-->
-<!--    <script type="text/javascript">-->
-<!--        /* <![CDATA[ */-->
-<!--        var google_conversion_id = 990469523;-->
-<!--        var google_custom_params = window.google_tag_params;-->
-<!--        var google_remarketing_only = true;-->
-<!--        /* ]]> */-->
-<!--    </script>-->
-<!--    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">-->
-<!--    </script>-->
-<!--    <noscript>-->
-<!--        <div style="display:inline;">-->
-<!--            <img height="1" width="1" style="border-style:none;" alt=""-->
-<!--                 src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990469523/?value=0&amp;guid=ON&amp;script=0"/>-->
-<!--        </div>-->
-<!--    </noscript>-->
-    <!--facebook re-targeting pixel-->
-<!--    <script>(function () {-->
-<!--            var _fbq = window._fbq || (window._fbq = []);-->
-<!--            if (!_fbq.loaded) {-->
-<!--                var fbds = document.createElement('script');-->
-<!--                fbds.async = true;-->
-<!--                fbds.src = '//connect.facebook.net/en_US/fbds.js';-->
-<!--                var s = document.getElementsByTagName('script')[0];-->
-<!--                s.parentNode.insertBefore(fbds, s);-->
-<!--                _fbq.loaded = true;-->
-<!--            }-->
-<!--            _fbq.push(['addPixelId', '774781782555683']);-->
-<!--        })();-->
-<!--        window._fbq = window._fbq || [];-->
-<!--        window._fbq.push(['track', 'PixelInitialized', {}]);-->
-<!--    </script>-->
-<!--    <noscript><img height="1" width="1" alt="" style="display:none"-->
-<!--                   src="https://www.facebook.com/tr?id=774781782555683&amp;ev=NoScript"/></noscript>-->
-    
 
-<!--/* Webengage code. */-->
-<!---->
-<!--<script id="_webengage_script_tag" type="text/javascript">-->
-<!--    var _weq = _weq || {};-->
-<!--    _weq['webengage.licenseCode'] = '~7168116d';-->
-<!--    _weq['webengage.widgetVersion'] = "4.0";-->
-<!---->
-<!--    (function(d){-->
-<!--        var _we = d.createElement('script');-->
-<!--        _we.type = 'text/javascript';-->
-<!--        _we.async = true;-->
-<!--        _we.src = (d.location.protocol == 'https:' ? "//ssl.widgets.webengage.com" : "//cdn.widgets.webengage.com") +-->
-<!--            "/js/widget/webengage-min-v-3.0.js";-->
-<!--        var _sNode = d.getElementById('_webengage_script_tag');-->
-<!--        _sNode.parentNode.insertBefore(_we, _sNode);-->
-<!--    })(document);-->
-<!--</script>-->
 
 
 
@@ -797,15 +629,18 @@
 
 <script src="/assets/71622927/jquery.js"></script>
 <script src="/assets/cf7db25e/yii.js"></script>
-<script src="/js/superprofs.js?v=1.0.23"></script>
+<script src="/js/superprofs.js?v=1.0.29"></script>
 <script src="/js/jquery.smoothwheel.js?v=1.0.3"></script>
 <script src="/js/bootstrap-select.min.js?v=1.0.3"></script>
 <script src="/js/skrollr.min.js?v=1.0.2"></script>
 <script src="/assets/273c6a0b/js/bootstrap.js"></script>
-<script src="/assets/cf7db25e/yii.activeForm.js"></script>
 <script type="text/javascript">jQuery(document).ready(function () {
-jQuery('#drop-form').yiiActiveForm({"email":{"enableAjaxValidation":1,"id":"examqueryform-email","name":"email","validateOnChange":true,"validateOnType":false,"validationDelay":200,"container":".field-examqueryform-email","input":"#examqueryform-email","error":".help-block.help-block-error"},"phone":{"enableAjaxValidation":1,"id":"examqueryform-phone","name":"phone","validateOnChange":true,"validateOnType":false,"validationDelay":200,"container":".field-examqueryform-phone","input":"#examqueryform-phone","error":".help-block.help-block-error"},"exam_interest":{"enableAjaxValidation":1,"id":"examqueryform-exam_interest","name":"exam_interest","validateOnChange":true,"validateOnType":false,"validationDelay":200,"container":".field-examqueryform-exam_interest","input":"#examqueryform-exam_interest","error":".help-block.help-block-error"},"query":{"enableAjaxValidation":1,"id":"examqueryform-query","name":"query","validateOnChange":true,"validateOnType":false,"validationDelay":200,"container":".field-examqueryform-query","input":"#examqueryform-query","error":".help-block.help-block-error"},"prospectID":{"enableAjaxValidation":1,"id":"examqueryform-prospectid","name":"prospectID","validateOnChange":true,"validateOnType":false,"validationDelay":200,"container":".field-examqueryform-prospectid","input":"#examqueryform-prospectid","error":".help-block.help-block-error"}}, {"errorSummary":".error-summary","validateOnSubmit":true,"errorCssClass":"has-error","successCssClass":"has-success","validatingCssClass":"validating","ajaxParam":"ajax","ajaxDataType":"json"});
-jQuery('#callback-form').yiiActiveForm({"name":{"enableAjaxValidation":1,"id":"requestcallbackform-name","name":"name","validateOnChange":true,"validateOnType":false,"validationDelay":200,"container":".field-requestcallbackform-name","input":"#requestcallbackform-name","error":".help-block.help-block-error"},"email":{"enableAjaxValidation":1,"id":"requestcallbackform-email","name":"email","validateOnChange":true,"validateOnType":false,"validationDelay":200,"container":".field-requestcallbackform-email","input":"#requestcallbackform-email","error":".help-block.help-block-error"},"phone":{"enableAjaxValidation":1,"id":"requestcallbackform-phone","name":"phone","validateOnChange":true,"validateOnType":false,"validationDelay":200,"container":".field-requestcallbackform-phone","input":"#requestcallbackform-phone","error":".help-block.help-block-error"},"exam_interest":{"enableAjaxValidation":1,"id":"requestcallbackform-exam_interest","name":"exam_interest","validateOnChange":true,"validateOnType":false,"validationDelay":200,"container":".field-requestcallbackform-exam_interest","input":"#requestcallbackform-exam_interest","error":".help-block.help-block-error"},"prospectID":{"enableAjaxValidation":1,"id":"requestcallbackform-prospectid","name":"prospectID","validateOnChange":true,"validateOnType":false,"validationDelay":200,"container":".field-requestcallbackform-prospectid","input":"#requestcallbackform-prospectid","error":".help-block.help-block-error"}}, {"errorSummary":".error-summary","validateOnSubmit":true,"errorCssClass":"has-error","successCssClass":"has-success","validatingCssClass":"validating","ajaxParam":"ajax","ajaxDataType":"json"});
+jQuery('#cart-icon').click(function(e) {
+        e.preventDefault();
+        jQuery('#cart-modal #modalCart').load($(this).attr('href'), function(data){updateCartCount();});
+        jQuery('#cart-modal').modal('show');
+        updateCartCount();
+    });
 
 
             jQuery(".drop-query").click(function(){
@@ -849,20 +684,6 @@ jQuery('#callback-form').yiiActiveForm({"name":{"enableAjaxValidation":1,"id":"r
 
 
            
-});</script>
-<script type="text/javascript">jQuery(window).load(function () {
-
-
-     jQuery(document).ready(function() {
-
-        if(typeof MXCProspectId !== "undefined" ) {
-            jQuery("#examqueryform-prospectid").val(MXCProspectId);
-            jQuery("#requestcallbackform-prospectid").val(MXCProspectId);
-        }
-
-    });
-
-    
 });</script>
     <script>
         //    var jq_yii = jQuery.noConflict();
