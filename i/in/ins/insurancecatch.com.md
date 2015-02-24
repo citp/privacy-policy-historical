@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurancecatch.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102222702id_/http%3A//www.insurancecatch.com/html/ppy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancecatch.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224082239id_/http%3A//insurancecatch.com/html/ppy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
