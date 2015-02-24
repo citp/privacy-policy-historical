@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telewizjada.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208140336id_/http%3A//telewizjada.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telewizjada.net privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224071451id_/http%3A//www.telewizjada.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Telewizjada.net - Privacy policy
 
@@ -44,7 +44,7 @@ Any image, text and information that you submit to the Company Site may be redis
 
 **Disclosure to Third Parties**
 
-At times the Company may make certain personal information available to third-party affiliates that work with Company to provide products and services, or that help Company market to customers. Personal information will only be shared by the Company to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes. You may request to not having your information submitted to such affiliates by contacting the Company Support [here](https://web.archive.org/web/20131208140336id_/http%3A//telewizjada.net/contact_us.php) The Company will not sell, lease, share or otherwise use your personal information except as set forth in this Privacy Policy.
+At times the Company may make certain personal information available to third-party affiliates that work with Company to provide products and services, or that help Company market to customers. Personal information will only be shared by the Company to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes. You may request to not having your information submitted to such affiliates by contacting the Company Support [here](https://web.archive.org/web/20150224071451id_/http%3A//www.telewizjada.net/contact_us.php) The Company will not sell, lease, share or otherwise use your personal information except as set forth in this Privacy Policy.
 
 The Company may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary: (1) to comply with any law, legal process, and/or requests from government authorities within or outside your country of residence; (2) to protect and defend the rights or property of My Company.; (3) to enforce our Terms of Service; (4) act in urgent circumstances to protect the personal safety of users of the Company, the operation of the Service or the general public; or (5) for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
 
@@ -64,7 +64,7 @@ The Company makes it easy for you to keep your personal information accurate, co
 
 If you have a Company account, you may update or correct your personal profile information at any time by visiting your account profile page.
 
-For other personal information, we make good faith efforts to provide you with access and support so you can request that we correct the data if it is inaccurate, or delete the data if My Company. is not required to retain it by law or for legitimate business purposes. Please contact Company's customer support [here](https://web.archive.org/web/20131208140336id_/http%3A//telewizjada.net/contact_us.php) for such request. If you do not want to receive any marketing or promotional email from the Company, you can either choose the opt-out option where it is available or contact the Company's customer support [here](https://web.archive.org/web/20131208140336id_/http%3A//telewizjada.net/contact_us.php).
+For other personal information, we make good faith efforts to provide you with access and support so you can request that we correct the data if it is inaccurate, or delete the data if My Company. is not required to retain it by law or for legitimate business purposes. Please contact Company's customer support [here](https://web.archive.org/web/20150224071451id_/http%3A//www.telewizjada.net/contact_us.php) for such request. If you do not want to receive any marketing or promotional email from the Company, you can either choose the opt-out option where it is available or contact the Company's customer support [here](https://web.archive.org/web/20150224071451id_/http%3A//www.telewizjada.net/contact_us.php).
 
 **Children**
 
