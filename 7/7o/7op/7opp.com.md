@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7opp.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823094635id_/http%3A//7opp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7opp.com privacy policy that was archived on 2015-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150225010726id_/http%3A//7opp.com/privacy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy |7opp.com
 
