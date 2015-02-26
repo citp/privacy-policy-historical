@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatereturn.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921044559id_/http%3A//affiliatereturn.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatereturn.com privacy policy that was archived on 2015-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150226192615id_/http%3A//affiliatereturn.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Affiliate Return Make Money from the Web
 
