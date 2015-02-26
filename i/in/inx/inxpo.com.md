@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inxpo.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113035613id_/http%3A//www.inxpo.com/privacy/InXpo_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inxpo.com privacy policy that was archived on 2015-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150226012805id_/http%3A//www.inxpo.com/privacy/InXpo_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # INXPO Privacy Policy
 
