@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techgeek365.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927110938id_/http%3A//techgeek365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgeek365.com privacy policy that was archived on 2015-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150226175730id_/https%3A//techgeek365.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – TechGeek365
+# Privacy Policy - TechGeek365
 
 #### TechGeek365 Privacy Policy
 
