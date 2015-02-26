@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slutgfs.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301081725id_/http%3A//slutgfs.com/1/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slutgfs.com privacy policy that was archived on 2015-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150226041833id_/http%3A//slutgfs.com/1/docs/privacy.php) for the most accurate reproduction.*
 
 # SLUTGFS PRIVACY POLICY
 
