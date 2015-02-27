@@ -1,98 +1,80 @@
-> *The following text is extracted and transformed from the aas.com.au privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125041323id_/http%3A//www.aas.com.au/public/Footer/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aas.com.au privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227135841id_/http%3A//www.aas.com.au/public/Footer/Privacy-Policy.html) for the most accurate reproduction.*
 
 # AAS | Privacy policy
 
-### Australian Administrative Services (‘AAS’) [ABN 62 003 429114] understands that privacy is important to you.
+This privacy statement provides a succinct overview of how the companies of the Link Group deal with the personal information of individuals.
 
-AAS is subject to the requirements of the Privacy Act 1988 (Cth) ('Privacy Act') including the National Privacy Principles, which govern, among other things, how we handle your personal information.  
-Our Privacy Policy is designed to answer the following questions: 
+The Link Group’s complete Privacy Policy can be accessed by calling +61 1800 502 355 (free call within Australia), 9am–5pm (Sydney time), Monday to Friday (excluding public holidays) and requesting a copy. This Privacy Statement takes into account changes made by the Privacy Amendment (Enhancing Privacy Protection) Act 2012 and was last updated in March 2014.
 
-  * Your right to privacy 
-  * Can members see their personal information at AAS?
-  * What personal information does AAS keep?
-  * Why does AAS need personal information?
-  * How to contact AAS
-  * Summary of the National Privacy Principles
+## Personal Information Handling Practices
 
+**Pseudonymity and Anonymity**
 
+When contacting a company of the Link Group, you generally have the right to remain anonymous (nameless) or to use a pseudonym (fictitious name) to protect your identity. However, if you wish to make enquiries about a specific account, we may need to identify you first, before we can lawfully disclose personal information.
 
-#### 
+**Collection of Information**  
 
-We understand the importance of protecting the right to privacy, particularly in relation to any personal details we may hold about members of the funds we administer.
+The Link Group often acts as collection agent for our Clients, and we only collect personal information that is reasonably necessary for, or directly related to, one or more of our functions or activities; or because it is required under relevant law or regulation.
 
-We have prepared this statement to explain how AAS aims to protect the privacy of each member's personal information. The Privacy Amendment (Private Sector) Act 2000 amended the Privacy Act with effect from 21 December 2001 to include laws that regulate the way private organisations, such as AAS, handle personal information, including sensitive information such as health details.
+We may sometimes collect sensitive information such as health and medical information, but only when it is necessary to provide you with a service or benefit.
 
-The Act contains 10 National Privacy Principles that, among other things, regulate how organisations collect, store and protect the quality of personal information. It also regulates how these organisations should use and share personal information with other organisations. The principles form part of all our procedures and policies and the way we operate and administer our clients' funds.
+We normally collect personal information directly from the individual or their authorised representative(s). Sometimes, we collect personal information (including sensitive information) from a third party, a publicly available source or by other lawful means, but only if:
 
-There is a summary of the principles at the end of this communication. If a member chooses not to provide their personal information, it may mean that we will not be able to provide these services to the member, including some fund benefits and options.
-
-Other organisations connected to our administration services which may have access to personal information are:
-
-  * mailing companies - contracted to do all mailing for AAS 
-  * archiving companies - contracted to ensure that all documents are stored in a secure environment 
-  * auditors and regulators - ensure AAS is complying with legislation and contractual obligations 
-  * insurance companies - provide insurance cover for members 
-
-  
-
-
-#### 
-
-Can members see their personal information at AAS?
-
-Under the national privacy principles, every member has a right to know what personal information AAS holds about them, and is entitled to see this information to ensure it is correct.
-
-#### 
-
-What personal information does AAS keep?
-
-AAS collects personal information from fund members to administer their accounts in the funds to which they belong. We do so on behalf of our clients who are the trustees of these funds. The type of personal information we collect may include a member's name, address, date of birth, telephone number and tax file number.
-
-AAS collects personal information when members use their funds' websites to lodge their forms, such as membership application and change of personal detail forms, or if members send us fund documents containing personal information. There may also be circumstances when employers may send personal member details to AAS.
-
-#### 
-
-Why does AAS need personal information?
-
-The personal information AAS collects, on behalf of the fund trustees, is used to establish a membership account, to process contributions to a member's account, to correspond with a member and to provide a member with benefits and options from their fund. To obtain this information, members may contact us to ask for their personal details. The Privacy Act gives limited circumstances in which some or all access to this information may be denied. If this applies, we will explain this to members when they ask for their information.
-
-#### 
-
-If you would like further information on how AAS handles personal information, or if you would like to lodge a complaint about a possible breach of privacy, please contact AAS in one of the following ways: 
-
-  * Phone: (02) 8571 5836 
-  * Email: compliance_aas@aas.com.au 
-  * Write to The Compliance Manager, Australian Administration Services Pty Ltd, Locked Bag 4085, PARRAMATTA NSW 2124 
+  * We have consent from the individual, or the individual would reasonably expect us to collect their personal information; or
+  * If it is necessary for a specific purpose such as executing a function or activity in connection with your account; or
+  * Where we are permitted, or required to, by lawful authority.
 
 
 
-If you are dissatisfied with the resolution of any complaints, you can refer the matter to the Privacy Commissioner by calling 1300 363 992.
+**Dealing with Unsolicited Information**
 
-#### 
+The Link Group sometimes receives unsolicited information from individuals or other sources. If we determine that we could not have collected the information for one or more of our functions or activities, we will take reasonably practicable steps to de-identify or destroy the information. Alternatively, we will take reasonable steps to protect the information from misuse or unauthorised disclosure. Disclosure of unsolicited information we hold may be made where required or permitted by law.
 
-Summary of the National Privacy Principles
+**Notification of Collection**
 
-AAS is bound by and will adhere to the National Privacy Principles at all times.
+The Link Group often acts as collection agent for our Clients. All reasonable and practicable steps are taken to notify you of certain matters, or to ensure that you are aware of certain matters, at or before the time of collection, or as soon as practicable afterwards.
 
-_**Collecting information**_
+Where a form is used to collect personal information, it will generally contain a collection notice (or reference to where a collection notice can be obtained) and individuals may be asked to confirm they have reviewed that notice. Similarly, if you contact a company within the Link Group, individuals may hear a recorded privacy script at the commencement of the call.
 
-We will collect personal information (where reasonable and practicable) directly from the member. We may at times collect personal information directly from their employer.
+**Use and Disclosure**
 
-_**Using and sharing information**_
+We only use or disclose personal information where it is reasonably necessary for, or directly related to, one or more of our functions or activities; or because it is required under relevant law or regulation.
 
-AAS will use personal information to run a superannuation or redundancy account for the member. This is known as a "primary purpose". If fund trustees need to use personal information for another reason, or secondary purpose, like a marketing campaign, they will ask us to get members' permissions to do so. If we are unable to get their permission before sending our communication, we will give members the opportunity to opt out of any future direct marketing campaigns at the time of mailing to them.
+We do not sell personal information, and we do not give personal information to other organisations unless one or more of the following situations applies:
 
-**_Keeping information accurate and up to date_**
+  * We have consent from the individual;
+  * The individual would reasonably expect, or has been advised that personal information may be used or disclosed;
+  * If the use or disclosure is required by lawful authority; or
+  * If the use or disclosure relates to one or more Permitted General Situations under the Privacy Act 1988 including (but not limited to) a serious and imminent threat to somebody’s life or health, or if it is reasonably necessary for law enforcement.
 
-We will take steps to ensure that the personal information we collect to administer a membership account is accurate and complete. We will do this by ensuring that members have the opportunity to advise changes in their personal details at all times and particularly when they receive their annual fund membership statement.
 
-_**Keeping information secure**_
 
-We will not misuse personal information or change it without a member's knowledge. We will not share personal information with anyone who doesn't have authority to see this information. To make sure of this, we will regularly audit access to the systems that support each fund, and make sure that other organisations we deal with for members' accounts (for example insurance companies) have privacy policies adhering to the National Privacy Principles.
+The Link Group takes reasonable steps to confirm that third parties with whom we deal, are also compliant with the Privacy Act.
 
-_**Sensitive information**_
+In executing services, activities and functions, where necessary, personal information may be disclosed to third parties and/or related bodies corporate currently located in Australia, India, New Zealand, Papua New Guinea, South Africa, Canada, the United States, the United Kingdom, France, China [Hong Kong] and Germany.
 
-Where we collect sensitive information such as health information, we will only use it for maintaining a member's account in the fund to which they belong (including administration of insurance policies and information disclosure to the relevant insurer and fund trustee). We won't use it for any other purpose or share it with anyone else without a member's permission.
+**Direct Marketing**
 
-  
+The Link Group may use the personal information we hold to provide you with information about relevant products and services that may be of interest or benefit to you. If you do not wish to receive marketing material you can opt out at any time by contacting us or unsubscribing.
 
+**Data Quality and Security**
+
+We take reasonable steps to ensure that the information we hold about you is relevant, accurate, up-to-date and complete. Furthermore, we take all reasonable and practicable steps to protect the personal information we hold against loss, unauthorised access, misuse, modification, disclosure or interference.
+
+When we no longer need the personal information we hold about you, we will take all reasonable and practicable steps to de-identify or destroy the information in a secure manner. Alternatively, where that is not practicable, we will take reasonable steps to protect information from misuse or unauthorised disclosure by putting the information beyond reasonable use.
+
+## Your Rights - Access and Correction
+
+You have the right to access the personal information we hold about you. The Link Group encourages you to ask us to correct any personal information we hold that is out-of-date, incorrect, incomplete or misleading. To protect your privacy, we strongly urge you not to provide any personal information that is not required or that we do not ask for.
+
+If you have provided us with your email address for communications, you can delete it at any time, but if you do so, we may be unable to provide you with some services and benefits in connection with your account.
+
+## Our Obligations and How to Contact Us
+
+The Link Group is bound by the Australian Privacy Principles [APPs] in the Privacy Act 1988. For more information refer to our complete Privacy Policy. Alternatively, you may wish to refer to the Office of the Australian Information Commissioner (OAIC) for detailed information about the APPs.
+
+Link may make changes to the Privacy Statement from time to time, without notice to any person or third party.
+
+If you have any questions or if you would like to give us feedback or make a complaint about how we handle your information, contact us by phone on +61 1800 502 355 (free call within Australia), 9am–5pm (Sydney time) Monday to Friday (excluding public holidays); or by email to [privacy.officer@linkmarketservices.com.au](mailto:privacy.officer@linkmarketservices.com.au "privacy.officer@linkmarketservices.com.au") or by mail to, the Privacy Officer, Link Group, Locked Bag A14, Sydney South NSW 1235.
+
+For a printable copy of this statement, please [click here](https://www.linkmarketservices.com.au/corporate/downloads/LG_Privacy_Statement_B_v3.pdf)
