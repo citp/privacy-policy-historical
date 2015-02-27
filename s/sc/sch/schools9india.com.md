@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schools9india.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704045520id_/http%3A//www.schools9india.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schools9india.com privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227100849id_/http%3A//www.schools9india.com/p/privacy-policy-terms-for-schools9india.html) for the most accurate reproduction.*
 
 # Privacy Policy Terms for schools9india
 
