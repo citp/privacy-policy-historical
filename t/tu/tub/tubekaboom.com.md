@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubekaboom.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207083403id_/http%3A//tubekaboom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubekaboom.com privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227060116id_/http%3A//www.tubekaboom.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
