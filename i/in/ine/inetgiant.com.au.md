@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inetgiant.com.au privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710050739id_/http%3A//www.inetgiant.com.au/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetgiant.com.au privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227024937id_/http%3A//www.inetgiant.com.au/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
