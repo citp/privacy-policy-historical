@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeworld.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723212413id_/http%3A//www.danworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeworld.com privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227041408id_/http%3A//www.danworld.com/privacy.html) for the most accurate reproduction.*
 
 # Danworld: Privacy Policy
 
