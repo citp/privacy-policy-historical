@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mobotalks.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118012408id_/http%3A//mobotalks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobotalks.com privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227140753id_/http%3A//mobotalks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MoboTalks
 
-**Privacy Policy for www.mobotalks.com**
+**[Privacy Policy](http://mobotalks.com/privacy-policy/) for www.mobotalks.com**
 
 MoboTalks.com values our readers privacy .How ever we do collect our readers information to improve our website and to collect statistics of visitors info for our website we use Google Analytics .We never share our readers information with third parties .Your privacy is very important to us.
 
-If you have any doubt concerned with our website privacy policy or software, please feel free to [contact us](http://mobotalks.com/contact-us/ "contact us"). Please read our Privacy Policy below to learn more about how we treat personally identifiable information, how it is protected and used.
+If you have any doubt concerned with our website [privacy policy](http://mobotalks.com/privacy-policy/) or software, please feel free to [contact us](http://mobotalks.com/contact-us/). Please read our Privacy Policy below to learn more about how we treat personally identifiable information, how it is protected and used.
 
 **Cookies and Web Beacons**
 
@@ -14,7 +14,7 @@ www.mobotalks.com does not use cookies. Some of our advertising partners may use
 
 **Copyright Policy**
 
-We don’t have any. You are free to use and copy any content from our site BUT, you must provide credit links on the pages you’ve copied or used our content.Note : Since we accept user submissions, If any of our Articles or content infringe your copyright, then [contact us](http://mobotalks.com/contact-us/ "contact us") immediately at the email provided.
+We don’t have any. You are free to use and copy any content from our site BUT, you must provide credit links on the pages you’ve copied or used our content.Note : Since we accept user submissions, If any of our Articles or content infringe your copyright, then [contact us](http://mobotalks.com/contact-us/) immediately at the email provided.
 
 **Third Party Advertising:**
 
