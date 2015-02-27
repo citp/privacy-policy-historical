@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmitenglishworldwide.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805155558id_/http%3A//www.rmitenglishworldwide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmitenglishworldwide.com privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227090224id_/http%3A//www.rmitenglishworldwide.com/privacy.html) for the most accurate reproduction.*
 
 # RMIT English Worldwide - English Language Training and IELTS Testing, Melbourne, Australia
 
