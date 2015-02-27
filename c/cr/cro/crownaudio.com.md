@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownaudio.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218190702id_/http%3A//www.crownaudio.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownaudio.com privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227115732id_/http%3A//www.crownaudio.com/index.php/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
