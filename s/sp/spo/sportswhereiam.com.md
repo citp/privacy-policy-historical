@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportswhereiam.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102184657id_/http%3A//sportswhereiam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportswhereiam.com privacy policy that was archived on 2015-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150228165030id_/http%3A//sportswhereiam.com/privacy-policy) for the most accurate reproduction.*
 
 # Sports Where I Am - the info you need for sports events at your travel destination.
 
