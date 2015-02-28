@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trickmillion.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206061003id_/http%3A//www.trickmillion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trickmillion.com privacy policy that was archived on 2015-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150228093812id_/http%3A//www.trickmillion.com/privacy-policy) for the most accurate reproduction.*
 
 # TrickMillion Privacy Policy
 
