@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmath4kids.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228010114id_/http%3A//www.coolmath.com/privacyp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmath4kids.com privacy policy that was archived on 2015-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150228095101id_/http%3A//www.coolmath.com/privacyp.htm) for the most accurate reproduction.*
 
 # Cool Math - Privacy Policy
 
@@ -31,7 +31,7 @@
 **Here is more information about online advertising that's put out by the IAB (the Internet Advertising Bureau), so you can learn more about all of this:  
 **<http://www.iab.net/privacymatters/> ****
 
-**To view a full list of third parties who may set tracking technologies on our site, please[click here](https://web.archive.org/web/20141228010114id_/http%3A//www.coolmath.com/privacy-third-parties.htm). **
+**To view a full list of third parties who may set tracking technologies on our site, please[click here](https://web.archive.org/web/20150228095101id_/http%3A//www.coolmath.com/privacy-third-parties.htm). **
 
 **Web Beacons **
 
@@ -78,5 +78,8 @@
 **If you have any questions or concerns about this policy, please send an email to  
 **
 
- **** **  
-or send a letter to Coolmath.com, LLC, Attn: Legal Department, 200 Park Avenue South, New York, NY 10003, or call us at ******
+ **** **
+
+or send a letter to Coolmath.com, LLC, Attn: Legal Department, 200 Park Avenue South, New York, NY 10003, or call us at
+
+******
