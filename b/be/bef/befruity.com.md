@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the befruity.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227175836id_/http%3A//befruity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befruity.com privacy policy that was archived on 2015-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150228061744id_/http%3A//befruity.com/privacy-policy) for the most accurate reproduction.*
 
 # BeFruity » Privacy Policy
 
