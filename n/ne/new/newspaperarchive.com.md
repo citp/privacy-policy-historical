@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221202143id_/http%3A//newspaperarchive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2015-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150301003407id_/http%3A//newspaperarchive.com/privacypolicy) for the most accurate reproduction.*
 
 # NewspaperARCHIVE.com - Search Old Newspaper Articles Online - Privace Policy
 
@@ -86,11 +86,6 @@ The information collected from Facebook is used solely to improve your experienc
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact: 
 
-****NewspaperARCHIVE.com**  
-Heritage Archives [also World Archives]  
-P.O. Box 9348   
-Cedar Rapids, IA 52404-9348 **
-
-**Newspaper Archive  
-P.O. Box 9337   
-Cedar Rapids, IA 52404-9337 **
+**NewspaperArchive.com  
+2350 Marconi Place Suite 102  
+San Diego, CA 92154 **
