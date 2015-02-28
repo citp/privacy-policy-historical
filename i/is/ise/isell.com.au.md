@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isell.com.au privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119090421id_/http%3A//www.isell.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isell.com.au privacy policy that was archived on 2015-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150228204543id_/http%3A//www.isell.com.au/Privacy) for the most accurate reproduction.*
 
 # iSell | Business Systems for IT Resellers
 
