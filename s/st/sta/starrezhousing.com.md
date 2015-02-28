@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starrezhousing.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110343id_/https%3A//www.starrez.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starrezhousing.com privacy policy that was archived on 2015-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150228165335id_/https%3A//www.starrez.com/privacy.aspx) for the most accurate reproduction.*
 
 # Housing Software - Student housing, Room Assignments, Web-based Applications, Conference, Judicial, Campus Housing Software, Residential Management Software, Student Accommodation
 
