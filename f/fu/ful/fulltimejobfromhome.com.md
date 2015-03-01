@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltimejobfromhome.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109182431id_/http%3A//fulltimejobfromhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltimejobfromhome.com privacy policy that was archived on 2015-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150301184327id_/http%3A//fulltimejobfromhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Full Time Job From Home
 
@@ -33,4 +33,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 You can opt out of all communication with  [fulltimejobfromhome.siterubix.com](http://fulltimejobfromhome.siterubix.com/) simply be leaving this page.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
