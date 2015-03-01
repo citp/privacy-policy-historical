@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puppiesndogs.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228233547id_/http%3A//www.puppiesndogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puppiesndogs.com privacy policy that was archived on 2015-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150301025053id_/http%3A//www.puppiesndogs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,9 +55,8 @@ If you are concerned about the topic covered by this policy, you should read it 
 You may also mail your concerns to us at the following address:
 
 PuppiesNDogs  
-928 Bridgewater  
-Mesquite, TX 75181  
-USA
+Round Rock, TX 78665  
+USA 
 
 **CALIFORNIA PRIVACY RIGHTS**  
 If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to contact[at]puppiesndogs.com or write us at the following address.
