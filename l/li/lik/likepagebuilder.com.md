@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likepagebuilder.com privacy policy that was archived on 2014-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140918235439id_/http%3A//www.likepagebuilder.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likepagebuilder.com privacy policy that was archived on 2015-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150302004022id_/http%3A//www.likepagebuilder.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Like Page Builder 2.0
 
