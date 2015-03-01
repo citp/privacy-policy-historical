@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brokerltd.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016025805id_/http%3A//brokerltd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokerltd.com privacy policy that was archived on 2015-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150301203051id_/http%3A//brokerltd.com/privacy.html%23privacy-policy) for the most accurate reproduction.*
 
-# BrokerLTD - Privacy policy. Buy and sell traffic CPA, CPM, Adnetwork, popunder advertising
+# BrokerLTD - Privacy policy.
 
 This privacy policy applies to www.brokerltd.com. and the services associated with the site owned and operated by (“brokerltd”, “We”, “Us”).
 
