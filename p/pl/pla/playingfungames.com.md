@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playingfungames.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216145619id_/http%3A//www.playingfungames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playingfungames.com privacy policy that was archived on 2015-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150301105654id_/http%3A//www.playingfungames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fun Games - Free Online Games at Playing Fun Games
 
