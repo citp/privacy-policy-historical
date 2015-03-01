@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stewartmedia.biz privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126114148id_/http%3A//stewartmedia.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stewartmedia.biz privacy policy that was archived on 2015-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150301085913id_/https%3A//stewartmedia.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Melbourne
 
@@ -33,7 +33,7 @@ Cookies are small pieces of information stored on your computer. We use cookies 
 
 **6\. Remarketing**
 
-Remarketing is a method we may use as target advertisement that will display relevant ads tailored based on what has been viewed. If you do not wish to participate in our Remarketing, you have the option to opt out by visiting [Google’s Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?sig=ACi0TCh1yimtGw_MCXmyADlHvvNP9ru5SKV9iAKbteqQbUDtboQl0SdUSbwEmoNTXTgnRO-cibkW-SaqoP_hqySYAEFc81F3x_CPdSfJh9l_RsKo6erVcaAnk4XgPtkkyHbV1Pv9yO1rb7AzNUD5rsTct1zzgNfoKIMUxeDT_4FkzCX6sP9tVEyhCzqG6ROQv5tCMf7yyMFhq2MtTRDLTch9bUH9Q9dB0jgIfyeRddAr5tNKR0-C4y20NKYzNXgSDMWONWdq4fSi&hl=en "Google’s Ads Preferences Manager"). 
+Remarketing is a method we may use as target advertisement that will display relevant ads tailored based on what has been viewed. If you do not wish to participate in our Remarketing, you have the option to opt out by visiting [Google’s Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?sig=ACi0TCh1yimtGw_MCXmyADlHvvNP9ru5SKV9iAKbteqQbUDtboQl0SdUSbwEmoNTXTgnRO-cibkW-SaqoP_hqySYAEFc81F3x_CPdSfJh9l_RsKo6erVcaAnk4XgPtkkyHbV1Pv9yO1rb7AzNUD5rsTct1zzgNfoKIMUxeDT_4FkzCX6sP9tVEyhCzqG6ROQv5tCMf7yyMFhq2MtTRDLTch9bUH9Q9dB0jgIfyeRddAr5tNKR0-C4y20NKYzNXgSDMWONWdq4fSi&hl=en "Google's Ads Preferences Manager"). 
 
 We reserve the right to change this policy from time to time. Please check this page regularly for updates.
 
