@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030084904id_/http%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2015-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150302043020id_/http%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Learn about JamesAllen.coms Privacy Policy
 
@@ -22,7 +22,7 @@ Please note: personally-identifiable information **will not** be shared with Goo
 
 You can [opt-out ](https://tools.google.com/dlpage/gaoptout/) whenever you want.
 
-We will not share the personal information which you provide to us except (i) for the purposes that you provided it to us, (ii) with your prior consent, (iii) as may be required by law as we reasonably deem necessary to protect James Allen or others from injury or loss, or (iv) with other persons or entities with whom we contract to provide services in connection with our web site(s) or other business activities. If we do share such personal information with a third party, we will, to the extent practical, require that the recipient protect that information in a manner consistent with this Privacy Policy. However, we cannot guarantee how such a third party will use personal information.  
+We will not share the personal information which you provide to us except (i) for the purposes that you provided it to us, (ii) with your prior consent, (iii) as may be required by law as we reasonably deem necessary to protect James Allen or others from injury or loss, or (iv) with other persons or entities with whom we contract to provide services in connection with our web site(s) or other business activities. Notwithstanding, we may share the personal information we collect with our parent, affiliate and subsidiary companies, and business partners for the purposes described in this Privacy Policy including to communicate with you about products and services, offers, events and promotions that may be of interest to you. If we do share such personal information with a third party, we will, to the extent practical, require that the recipient protect that information in a manner consistent with this Privacy Policy. However, we cannot guarantee how such a third party will use personal information.  
 
 
 We sometimes use non-personally identifiable, summary or aggregate information that we collect to improve the design and content of our web sites(s) and to enable us to further enhance your shopping experience with James Allen. We may also share such aggregate information with third parties for that purpose.  
