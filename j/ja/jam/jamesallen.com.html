@@ -1,24 +1,140 @@
-<!--The following is the downloaded HTML source of the jamesallen.com privacy policy that was archived on 2014-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141030084904id_/http%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jamesallen.com privacy policy that was archived on 2015-03-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150302043020id_/http%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
 <title>Learn about JamesAllen.coms Privacy Policy </title>
-<base href="http://www.jamesallen.com/"><meta http-equiv="content-language" content="en-us"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="google-site-verification" content="3D-Gj2rqAHI16ONo3EFCfjtNL_39DFmOtnEFUvG1s2k"><link rel="icon" type="image/png" href="//www.jamesallen.com/images/Favicon.ico">
-    <script type="text/javascript" id="ftr__script" async="" src="https://api.forter.com/script.js?sn=1c5be21f9f0f"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WN28TP"></script><script type="text/javascript">
+<base href="http://www.jamesallen.com/"><meta http-equiv="content-language" content="en-us"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="keywords"><meta name="google-site-verification" content="3D-Gj2rqAHI16ONo3EFCfjtNL_39DFmOtnEFUvG1s2k"><link rel="icon" type="image/png" href="//www.jamesallen.com/images/Favicon.ico">
+
+
+    
+    <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WN28TP"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script>
+        // This is called with the results from from FB.getLoginStatus().
+        function statusChangeCallback(response) {
+            console.log('statusChangeCallback');
+            console.log(response);
+            // The response object is returned with a status field that lets the
+            // app know the current login status of the person.
+            // Full docs on the response object can be found in the documentation
+            // for FB.getLoginStatus().
+            if (response.status === 'connected') {
+                // Logged into your app and Facebook.
+                testAPI();
+            } else if (response.status === 'not_authorized') {
+                // The person is logged into Facebook, but not your app.
+                //document.getElementById('status').innerHTML = 'Please log ' +
+                //'into this app.';
+            } else {
+                // The person is not logged into Facebook, so we're not sure if
+                // they are logged into this app or not.
+                //document.getElementById('status').innerHTML = 'Please log ' +
+                //'into Facebook.';
+            }
+        }
+
+        // This function is called when someone finishes with the Login
+        // Button.  See the onlogin handler attached to it in the sample
+        // code below.
+        function checkLoginState() {
+            FB.getLoginStatus(function (response) {
+                
+                statusChangeCallback(response);
+            });
+        }
+
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '1551204795122153',
+                cookie: true,  // enable cookies to allow the server to access 
+                // the session
+                xfbml: true,  // parse social plugins on this page
+                version: 'v2.1' // use version 2.1
+            });
+
+            // Now that we've initialized the JavaScript SDK, we call 
+            // FB.getLoginStatus().  This function gets the state of the
+            // person visiting this page and can return one of three states to
+            // the callback you provide.  They can be:
+            //
+            // 1. Logged into your app ('connected')
+            // 2. Logged into Facebook, but not your app ('not_authorized')
+            // 3. Not logged into Facebook and can't tell if they are logged into
+            //    your app or not.
+            //
+            // These three cases are handled in the callback function.
+
+            FB.getLoginStatus(function (response) {
+                if (JamesAllen.Login) {
+                    JamesAllen.Login.FacebookStatus = response;
+                }
+
+                statusChangeCallback(response);
+            });
+
+        };
+
+        // Load the SDK asynchronously
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        } (document, 'script', 'facebook-jssdk'));
+
+        // Here we run a very simple test of the Graph API after login is
+        // successful.  See statusChangeCallback() for when this call is made.
+        function testAPI() {
+            console.log('Welcome!  Fetching your information.... ');
+            FB.api('/me', function (response) {
+                console.log(response);
+                console.log('Successful login for: ' + response.name);
+                //document.getElementById('status').innerHTML =
+                //'Thanks for logging in, ' + response.name + '!';
+            });
+        }
+    </script>
+
+<!--
+  Below we include the Login Button social plugin. This button uses
+  the JavaScript SDK to present a graphical Login button that triggers
+  the FB.login() function when clicked.
+-->
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+    <script type="text/javascript">
         //if (window.location.href.indexOf('mobile') < 0 && window.location.href.indexOf('localhost') < 0) {
             window.lpTag = { site: '1626081',
-                _v: '1.1', protocol: location.protocol,
+                _v: '1.1', protocol: "https:",
+                //protocol: location.protocol,
                 events: { bind: function (app, ev, fn) { window.lpTag.defer(function () { window.lpTag.events.bind(app, ev, fn); }); }, trigger: function (app, ev, json) { window.lpTag.defer(function () { window.lpTag.events.trigger(app, ev, json); }); } }, defer: function (fn) { this._defL = this._defL || []; this._defL.push(fn); }, load: function (src, chr, id) { var t = this; setTimeout(function () { t._load(src, chr, id); }, 0); }, _load: function (src, chr, id) { var url = src; if (!src) { url = this.protocol + '//' + ((this.ovr && this.ovr.domain) ? this.ovr.domain : 'lptag.liveperson.net') + '/tag/tag.js?site=' + this.site; } var s = document.createElement('script'); s.setAttribute('charset', chr ? chr : 'UTF-8'); if (id) { s.setAttribute('id', id); } s.setAttribute('src', url); document.getElementsByTagName('head').item(0).appendChild(s); }, init: function () { this._timing = this._timing || {}; this._timing.start = (new Date()).getTime(); var that = this; if (window.attachEvent) { window.attachEvent('onload', function () { that._domReady('domReady'); }); } else { window.addEventListener('DOMContentLoaded', function () { that._domReady('contReady'); }, false); window.addEventListener('load', function () { that._domReady('domReady'); }, false); } if (typeof (window._lptStop) == 'undefined') { this.load(); } }, _domReady: function (n) { if (!this.isDom) { this.isDom = true; this.events.trigger('LPT', 'DOM_READY', { t: n }); } this._timing[n] = (new Date()).getTime(); }
             };
             window.lpTag.init();
         //}
-
     </script>
 
     
 
 
     <style type="text/css">
+        
+        .DeliveredBy, #cyberLogo
+        {
+            display:none !important;
+        }        
+        
+      
         @keyframes MobileMenu
 {
 from 
@@ -164,8 +280,33 @@ from
     </style> 
     <script type="text/javascript" src="https://apis.google.com/js/client.js"></script>
    
-<meta type="server" issecureconnection="False" url="http://www.jamesallen.com:80/default.aspx?InternalUrl=/about-us/privacy-policy.html" rn="413"> <link href="http://cdn1.jamesallen.com/min/min-2-1-110.css" rel="stylesheet" type="text/css"> <link href="http://cdn1.jamesallen.com/min/cx2sc-2-1-110.css" rel="stylesheet" type="text/css"> <script type="text/javascript"> var JSiteVersion = '2-1-110'; </script> <script src="http://cdn2.jamesallen.com/min/core.min-2-1-110.js" type="text/javascript"></script> <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script> <script id="scriptdelay" src="http://cdn3.jamesallen.com/Min/min-2-1-110.js" type="text/javascript"></script><meta type="server" val="JAIIS4" identity=""><meta name="description" content="JamesAllen.coms privacy policy ensures that your privacy is our number one concern. JamesAllen.com is safe and secure and fully transparent."><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=1626081"></script></head>
-<body id="body1"><div id="BodyContainer"><div class="TabletConsole"></div>
+   
+    <script type="application/ld+json">
+    {
+       "@context": "http://schema.org",
+       "@type": "WebSite",
+       "url": "http://www.jamesallen.com/",
+       "potentialAction": {
+         "@type": "SearchAction",
+         "target": "http://www.jamesallen.com/ese/?q={search_term_string}&source=sitesearch",
+         "query-input": "required name=search_term_string"
+       }
+    }   
+    </script>
+   <!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript">
+    var _vwo_code = (function () {
+        var account_id = 114762,
+settings_tolerance = 2000,
+library_tolerance = 2500,
+use_existing_jquery = false,
+        // DO NOT EDIT BELOW THIS LINE
+f = false, d = document; return { use_existing_jquery: function () { return use_existing_jquery; }, library_tolerance: function () { return library_tolerance; }, finish: function () { if (!f) { f = true; var a = d.getElementById('_vis_opt_path_hides'); if (a) a.parentNode.removeChild(a); } }, finished: function () { return f; }, load: function (a) { var b = d.createElement('script'); b.src = a; b.type = 'text/javascript'; b.innerText; b.onerror = function () { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b); }, init: function () { settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance); this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random()); var a = d.createElement('style'), b = 'body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}', h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b)); h.appendChild(a); return settings_timer; } };
+    } ());_vwo_settings_timer = _vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=114762&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150302043020id_%2Fhttp%253A%2F%2Fwww.jamesallen.com%2Fabout-us%2Fprivacy-policy.html&amp;r=0.6816838470978248" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+<meta type="server" issecureconnection="False" url="http://www.jamesallen.com:80/default.aspx?InternalUrl=/about-us/privacy-policy.html" rn="2385"> <link href="http://cdn1.jamesallen.com/min/min-2-1-315.css" rel="stylesheet" type="text/css"> <link href="http://cdn1.jamesallen.com/min/cx2sc-2-1-315.css" rel="stylesheet" type="text/css"> <script type="text/javascript"> var JSiteVersion = '2-1-315'; </script> <script src="http://cdn2.jamesallen.com/min/core.min-2-1-315.js" type="text/javascript"></script> <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script> <script id="scriptdelay" src="http://cdn3.jamesallen.com/Min/min-2-1-315.js" type="text/javascript"></script><meta type="server" val="JAIIS4" identity=""><meta name="description" content="JamesAllen.coms privacy policy ensures that your privacy is our number one concern. JamesAllen.com is safe and secure and fully transparent."><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=1626081"></script></head>
+<body id="body1" class="Notouch"><div id="BodyContainer"><div class="TabletConsole"></div>
 <div id="Header">
   <div class="PersonalMenu">
     <div id="cart"><a id="cartLink" ajaxmode="disabled"><div id="cartArrow" class="arrowDown"></div><span class="Numeric">(0)</span><span>Cart</span></a><div id="topCartTipex"></div>
@@ -173,7 +314,7 @@ from
     </div>
     <div id="MyAccountOff"><a class="WishButton" container="#Pane" href="http://www.jamesallen.com/wishlist/">
               Wish List<span class="WishlistCount Numeric">(0)</span></a><a href="https://www.jamesallen.com/login/" onclick="JamesAllen.Main.showMainLoader();" container="#Pane">Log In</a></div>
-    <div id="MyAccountOn"><a id="accountOnLink"><div id="accountArrow" class="arrowDown"></div><span style="text-transform:none;float: right;">My Account</span></a><ul class="noListStyleNoPadding">
+    <div id="MyAccountOn"><a id="accountOnLink"><div id="accountArrow" class="arrowDown"></div><span id="jaDisplayName" style="text-transform:none;float: right;">My Account</span></a><ul class="noListStyleNoPadding">
         <li><a container="#Pane" href="http://www.jamesallen.com/accountAllOrders/">Orders</a></li>
         <li><a container="#Pane" href="http://www.jamesallen.com/wishlist/">
                   Wish List<span class="WishlistCount Numeric">(0)</span></a></li>
@@ -186,23 +327,15 @@ from
     </div>
   </div><span class="RiskFree">
           Risk-Free Retail:
-        </span><div id="SlideText"><span class="Container" style="display:none">&nbsp;60-Day Returns &nbsp;•&nbsp;100% Refund &nbsp;•&nbsp; Free Returns &nbsp;•&nbsp; Lifetime Warranty &nbsp;•&nbsp; Free Shipping </span></div>
-  <div id="divStoreStatus" class="StoreStatus">
-    <div>
-      <div style="width: 50px; display: inline-block;"><span>Store: </span></div><span id="spanStoreDetails" style="color: #507ac6"></span></div>
-    <div style="margin-top: 3px;">
-      <div style="width: 50px; display: inline-block;"><span>Rep: </span></div><span id="spanrepresentativeDetails" style="color: #507ac6"></span></div>
-    <div id="SearsLogout" onclick="JamesAllen.Sears.SearsLogout()" style="float: right; margin-top: 10px; margin-right: 10px; text-decoration: underline; cursor: pointer; font-size: 12px;">
-                  Logout
-              </div>
-  </div>
-  <div id="CurrencyHeaderPane"><div id="selectCurrency"><a href="javascript://" ajaxmode="disabled"><span class="USD"></span>USD - $  US Dollars<div id="bigArrowDown" style="margin:6px 0 0 0"></div></a><div id="selectCurrencyOptions" style="display: none;"><a href="javascript://" ajaxmode="disabled" code="AUD" rate="1.1682" symbol="AU$"><span class="AUD"></span>AUD - AU$ &nbsp;Australian Dollar</a><a href="javascript://" ajaxmode="disabled" code="CAD" rate="1.1570" symbol="CA$"><span class="CAD"></span>CAD - CA$ &nbsp;Canadian Dollar</a><a href="javascript://" ajaxmode="disabled" code="EUR" rate="0.8156" symbol="€"><span class="EUR"></span>EUR - € &nbsp;Euro</a><a href="javascript://" ajaxmode="disabled" code="GBP" rate="0.6444" symbol="£"><span class="GBP"></span>GBP - £ &nbsp;British Pound</a><a href="javascript://" ajaxmode="disabled" code="HKD" rate="8.0496" symbol="HK$"><span class="HKD"></span>HKD - HK$ &nbsp;Hong Kong Dollar</a><a href="javascript://" ajaxmode="disabled" code="NZD" rate="1.3077" symbol="NZ$"><span class="NZD"></span>NZD - NZ$ &nbsp;New Zealand dollar</a><a href="javascript://" ajaxmode="disabled" code="SGD" rate="1.3201" symbol="SG$"><span class="SGD"></span>SGD - SG$ &nbsp;Singapore Dollar</a><a href="javascript://" ajaxmode="disabled" code="USD" rate="1.0000" symbol="$"><span class="USD"></span>USD - $ &nbsp;US Dollars</a></div>
+        </span><div id="SlideText"><span class="Container" style="display:none">&nbsp;30-Day Returns &nbsp;•&nbsp;100% Refund &nbsp;•&nbsp; Free Returns &nbsp;•&nbsp; Lifetime Warranty &nbsp;•&nbsp; Free Shipping </span></div>
+  <div id="divSearsLoginStatus"></div>
+  <div id="CurrencyHeaderPane"><div id="selectCurrency"><a href="javascript://" ajaxmode="disabled"><span class="USD"></span>USD - $  US Dollars<div id="bigArrowDown" style="margin:6px 0 0 0"></div></a><div id="selectCurrencyOptions" style="display: none;"><a href="javascript://" ajaxmode="disabled" code="AUD" rate="1.3351" symbol="AU$"><span class="AUD"></span>AUD - AU$ &nbsp;Australian Dollar</a><a href="javascript://" ajaxmode="disabled" code="CAD" rate="1.3042" symbol="CA$"><span class="CAD"></span>CAD - CA$ &nbsp;Canadian Dollar</a><a href="javascript://" ajaxmode="disabled" code="EUR" rate="0.9322" symbol="€"><span class="EUR"></span>EUR - € &nbsp;Euro</a><a href="javascript://" ajaxmode="disabled" code="GBP" rate="0.6758" symbol="£"><span class="GBP"></span>GBP - £ &nbsp;British Pound</a><a href="javascript://" ajaxmode="disabled" code="HKD" rate="8.0903" symbol="HK$"><span class="HKD"></span>HKD - HK$ &nbsp;Hong Kong Dollar</a><a href="javascript://" ajaxmode="disabled" code="NZD" rate="1.3928" symbol="NZ$"><span class="NZD"></span>NZD - NZ$ &nbsp;New Zealand dollar</a><a href="javascript://" ajaxmode="disabled" code="SGD" rate="1.4361" symbol="SG$"><span class="SGD"></span>SGD - SG$ &nbsp;Singapore Dollar</a><a href="javascript://" ajaxmode="disabled" code="USD" rate="1.0000" symbol="$"><span class="USD"></span>USD - $ &nbsp;US Dollars</a></div>
 </div></div><a class="ChatNow" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/1626081/?cmd=file&amp;file=visitorWantsToChat&amp;site=1626081&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat1626081','width=475,height=400,resizable=yes');return false;" target="chat1626081" href="http://server.iad.liveperson.net/hc/1626081/?cmd=file&amp;file=visitorWantsToChat&amp;site=1626081&amp;byhref=1&amp;">&nbsp;Chat now</a><a id="CSLink"><span class="Numeric">
             24/7
           </span>
           Customer service
-        </a><span id="usaPhone" class="Phone Numeric">877-826-9866</span><span id="internationalPhone" class="forPrintOnly">
-          Outside USA: <span class="Numeric"> +1-30-631-1414 </span></span><hr class="noPrint"><a class="LogoLink" href="http://www.jamesallen.com" alt="James Allen Logo Engagement Rings"><img id="LogoImg" src="http://cdn1.jamesallen.com/Images/HomePage/jLogo.png" alt="James Allen Engagement Rings" title="James Allen Engagement Rings"></a></div>
+        </a><span id="usaPhone" class="Phone Numeric">877-826-9866</span><a id="cyberLogo" container="#Pane"><img src="https://cdn2.jamesallen.com/images/sale-sign32.png"></a><span id="internationalPhone" class="forPrintOnly">
+          Outside USA: <span class="Numeric"> +1-30-631-1414 </span></span><hr class="noPrint"><a class="LogoLink" href="http://www.jamesallen.com" alt="James Allen Logo Engagement Rings"><img width="260" height="71" id="LogoImg" src="http://cdn1.jamesallen.com/Images/HomePage/jLogo.png" alt="James Allen Engagement Rings" title="James Allen Engagement Rings"></a></div>
 <div id="MainMenu">
   <ul class="TopMenu">
     <li class="dropDownMenu" open="false"><a class="Title" href="http://www.jamesallen.com/engagement-rings/" style="width:132px" alt="Engagement Rings" title="Engagement Rings" container="#Pane,body">Engagement Rings</a><ul id="EngagementMenu" style="padding-bottom:20px;">
@@ -230,7 +363,6 @@ from
         <li class="Title"><span>Preset Designer Engagement Rings</span></li>
         <li class="markOnHover " style="height:30px;line-height:30px;text-indent: 6px; position: relative;"><a container="#Pane" beforeprocessfn="JamesAllen.Engagement.DeletePagePosition" href="http://www.jamesallen.com/preset-engagement-rings/designer-gemstone-rings/"><div id="designerGemstone"></div><span style="height:30px;line-height:30px;text-indent: 6px; position: relative;">Mille Coeurs Gemstone Rings</span></a></li>
         <li class="markOnHover " style="height:30px;line-height:30px;text-indent: 6px; position: relative;"><a container="#Pane" beforeprocessfn="JamesAllen.Engagement.DeletePagePosition" href="http://www.jamesallen.com/preset-engagement-rings/royal-halo/"><div id="RingCategory518"></div><span style="height:30px;line-height:30px;text-indent: 6px; position: relative;">Royal Halo Rings</span></a></li>
-        <li class="markOnHover " style="height:30px;line-height:30px;text-indent: 6px; position: relative;"><a container="#Pane" beforeprocessfn="JamesAllen.Engagement.DeletePagePosition" href="http://www.jamesallen.com/preset-engagement-rings/designer-fancy-color-rings/"><div id="RingCategory521"></div><span style="height:30px;line-height:30px;text-indent: 6px; position: relative;">Tuscan Ring Collection</span></a></li>
       </ul>
     </li>
     <li class="dropDownMenu" open=""><a class="Title" href="http://www.jamesallen.com/loose-diamonds/" style="width:65px" alt="Loose Diamonds" title="Loose Diamonds" container="#Pane,body">Diamonds</a><ul id="DiamondsMenu" style="padding-bottom:12px;">
@@ -327,7 +459,6 @@ from
         </li>
         <li class="markOnHover " style=""><a container="#Pane" beforeprocessfn="JamesAllen.Engagement.DeletePagePosition" href="http://www.jamesallen.com/earrings/preset-diamond-studs/"><div id="Studs"></div><span style="">Preset Diamond Studs</span></a></li>
         <li class="markOnHover " style=""><a container="#Pane" beforeprocessfn="JamesAllen.Engagement.DeletePagePosition" href="http://www.jamesallen.com/earrings/designer-gemstone-earrings/"><div id="MilleEarings" class="MilleEirringsFix"></div><span style="">Mille Coeurs Earrings</span></a></li>
-        <li class="markOnHover " style=""><a container="#Pane" beforeprocessfn="JamesAllen.Engagement.DeletePagePosition" href="http://www.jamesallen.com/earrings/designer-fancy-color-earrings/"><div id="RingCategory522" class="TuscanEirringsFix"></div><span style="">Tuscan Earring Collection</span></a></li>
         <li class="markOnHover " style=""><a container="#Pane" beforeprocessfn="JamesAllen.Engagement.DeletePagePosition" href="http://www.jamesallen.com/earrings/gifts/"><div id="GiftIdeas"></div><span style="">Gift Earrings</span></a></li>
       </ul>
     </li>
@@ -339,7 +470,6 @@ from
         </li>
         <li class="markOnHover " style=""><a container="#Pane" beforeprocessfn="JamesAllen.Engagement.DeletePagePosition" href="http://www.jamesallen.com/pendants/preset-solitaire-pendants/"><div id="StudPendants"></div><span style="">Preset Solitaire Pendants</span></a></li>
         <li class="markOnHover " style=""><a container="#Pane" beforeprocessfn="JamesAllen.Engagement.DeletePagePosition" href="http://www.jamesallen.com/pendants/designer-gemstone-pendants/"><div id="MillePendants" class="MillePendantsFix"></div><span style="">Mille Coeurs Pendants</span></a></li>
-        <li class="markOnHover " style=""><a container="#Pane" beforeprocessfn="JamesAllen.Engagement.DeletePagePosition" href="http://www.jamesallen.com/pendants/designer-fancy-color-pendants/"><div id="RingCategory523" class="TuscanPendantsFix"></div><span style="">Tuscan Pendant Collection</span></a></li>
         <li class="markOnHover " style=""><a container="#Pane" beforeprocessfn="JamesAllen.Engagement.DeletePagePosition" href="http://www.jamesallen.com/pendants/key-pendants/"><div id="KeyPendants"></div><span style="">Key Pendants</span></a></li>
       </ul>
     </li>
@@ -348,7 +478,7 @@ from
     <li title=""><a container="#Pane,body" href="http://www.jamesallen.com/faq/">FAQ</a></li>
     <li title=""><a container="#Pane,body" href="http://www.jamesallen.com/about-us/">About</a></li>
   </ul>
-  <form method="GET" action="javascript:void(0)" onsubmit="javascript:JamesAllen.Main.SearchRedirect()"><span class="SearchBar"><input type="text" id="searchText" name="q" autocomplete="off" class="textInput" onkeyup="JamesAllen.Main.GetSearchData(this.value)" value="Search Item..." onblur="javascript:if(this.value=='') this.value = 'Search Item...'" onfocus="javascript:this.value=''"><div class="buttonContainer littleButton"><input type="submit" id="searchButtonddd" class="searchImg" value=""></div></span></form>
+  <form method="GET" action="javascript:void(0)" onsubmit="javascript:JamesAllen.Main.SearchRedirect()"><span class="SearchBar"><input type="text" id="searchText" name="q" autocomplete="off" class="textInput" onkeyup="JamesAllen.Main.GetSearchData(this.value)" value="Search Item..." onblur="javascript:if(this.value=='') this.value = 'Search Item...'" onfocus="javascript:this.value=''"><div class="buttonContainer littleButton"><input type="submit" id="searchButton" class="searchImg" value=""></div></span></form>
   <div id="saytRes" class="sayRes"></div>
 </div>
 <div class="PageLoader"></div>
@@ -374,7 +504,7 @@ from
       <p>
      You can <a href="https://tools.google.com/dlpage/gaoptout/">opt-out </a> whenever you want.</p>
       <p>    
-      We will not share the personal information which you provide to us except (i) for   the purposes that you provided it to us, (ii) with your prior consent, (iii) as   may be required by law as we reasonably deem necessary to protect James Allen or   others from injury or loss, or (iv) with other persons or entities with whom we   contract to provide services in connection with our web site(s) or other business   activities. If we do share such personal information with a third party, we will,   to the extent practical, require that the recipient protect that information in   a manner consistent with this Privacy Policy. However, we cannot guarantee how such   a third party will use personal information.<br></p>
+      We will not share the personal information which you provide to us except (i) for   the purposes that you provided it to us, (ii) with your prior consent, (iii) as   may be required by law as we reasonably deem necessary to protect James Allen or   others from injury or loss, or (iv) with other persons or entities with whom we   contract to provide services in connection with our web site(s) or other business activities. Notwithstanding, we may share the personal information we collect with our parent, affiliate and subsidiary companies, and business partners for the purposes described in this Privacy Policy including to communicate with you about products and services, offers, events and promotions that may be of interest to you. If we do share such personal information with a third party, we will,   to the extent practical, require that the recipient protect that information in   a manner consistent with this Privacy Policy. However, we cannot guarantee how such   a third party will use personal information.<br></p>
       <p>
       We sometimes use non-personally identifiable, summary or aggregate information that   we collect to improve the design and content of our web sites(s) and to enable us   to further enhance your shopping experience with James Allen. We may also share   such aggregate information with third parties for that purpose.<br></p>
       <p>
@@ -438,45 +568,45 @@ from
   <li>
     <h3>Experience James Allen</h3>
     <ul>
-      <li><a href="http://www.jamesallen.com/diamond-display-technology/" onclick="" container="#Pane">360° Display Technology</a></li>
-      <li><a href="http://www.jamesallen.com/engagement-rings/" onclick="" container="#Pane">360° Rings View</a></li>
+      <li><a href="http://www.jamesallen.com/diamond-display-technology/" container="#Pane">360° Display Technology</a></li>
       <li><a href="http://www.jamesallen.com/#" onclick="JamesAllen.Main.ShowRingSizeFinder();  return false;" container="#Pane">Virtual Ring Sizer</a></li>
-      <li><a href="http://www.jamesallen.com/reviews/" onclick="" container="#Pane">JamesAllen Reviews</a></li>
-      <li><a href="http://www.jamesallen.com/referfriend/" onclick="" container="#Pane">Refer a Friend</a></li>
-      <li><a href="https://affiliates.jamesallen.com/" onclick="" container="#Pane" target="_blank">Become an Affiliate</a></li>
+      <li><a href="http://www.jamesallen.com/reviews/" container="#Pane">JamesAllen Reviews</a></li>
+      <li><a href="http://www.jamesallen.com/referfriend/" container="#Pane">Refer a Friend</a></li>
+      <li><a href="https://affiliates.jamesallen.com/" container="#Pane" target="_blank">Become an Affiliate</a></li>
+      <li><a href="http://www.jamesallen.com/sears-store-locator/" container="#Pane">See us at Sears</a></li>
     </ul>
   </li>
   <li>
     <h3>Why James Allen?</h3>
     <ul>
-      <li><a href="http://www.jamesallen.com/about-us/risk-free-retail.html" onclick="" container="#Pane">60-Day Returns</a></li>
-      <li><a href="http://www.jamesallen.com/about-us/risk-free-retail.html" onclick="" container="#Pane">100% Refund</a></li>
-      <li><a href="http://www.jamesallen.com/about-us/risk-free-retail.html" onclick="" container="#Pane">Free Returns</a></li>
-      <li><a href="http://www.jamesallen.com/about-us/risk-free-retail.html" onclick="" container="#Pane">Lifetime Warranty</a></li>
-      <li><a href="http://www.jamesallen.com/financing/" onclick="" container="#Pane">Financing Options</a></li>
-      <li><a href="http://www.jamesallen.com/shipping/" onclick="" container="#Pane">Free Shipping</a></li>
-      <li class="JMIC"><a href="http://www.jamesallen.com/perfect-circle-jewelry-insurance/" onclick="" container="#Pane">Jewelry Insurance</a></li>
+      <li><a href="http://www.jamesallen.com/about-us/risk-free-retail.html" container="#Pane">30-Day Returns</a></li>
+      <li><a href="http://www.jamesallen.com/about-us/risk-free-retail.html" container="#Pane">100% Refund</a></li>
+      <li><a href="http://www.jamesallen.com/about-us/risk-free-retail.html" container="#Pane">Free Returns</a></li>
+      <li><a href="http://www.jamesallen.com/about-us/risk-free-retail.html" container="#Pane">Lifetime Warranty</a></li>
+      <li><a href="http://www.jamesallen.com/financing/" container="#Pane">Financing Options</a></li>
+      <li><a href="http://www.jamesallen.com/shipping/" container="#Pane">Free Shipping</a></li>
+      <li class="JMIC"><a href="http://www.jamesallen.com/perfect-circle-jewelry-insurance/" container="#Pane">Jewelry Insurance</a></li>
     </ul>
   </li>
   <li>
     <h3>About James Allen</h3>
     <ul>
-      <li><a href="http://www.jamesallen.com/about-us/" onclick="" container="#Pane">About Our Company</a></li>
-      <li><a href="http://www.jamesallen.com/education/diamonds/grading-conflict-free/" onclick="" container="#Pane">Conflict-Free Diamonds</a></li>
-      <li><a href="http://www.jamesallen.com/about-us/upgrade-policies.html" onclick="" container="#Pane">Upgrade Benefits</a></li>
-      <li><a href="http://www.jamesallen.com/about-us/payment-method.html" onclick="" container="#Pane">Payment Options</a></li>
-      <li><a href="http://www.jamesallen.com/customer-service.html" onclick="" container="#Pane">Contact Us</a></li>
-      <li><a href="http://www.jamesallen.com/cities/" onclick="" container="#Pane">Cities</a></li>
-      <li><a href="http://www.jamesallen.com/about-us/privacy-policy.html" onclick="" container="#Pane">Privacy Policy</a></li>
+      <li><a href="http://www.jamesallen.com/about-us/" container="#Pane">About Our Company</a></li>
+      <li><a href="http://www.jamesallen.com/education/diamonds/grading-conflict-free/" container="#Pane">Conflict-Free Diamonds</a></li>
+      <li><a href="http://www.jamesallen.com/about-us/upgrade-policies.html" container="#Pane">Upgrade Benefits</a></li>
+      <li><a href="http://www.jamesallen.com/about-us/payment-method.html" container="#Pane">Payment Options</a></li>
+      <li><a href="http://www.jamesallen.com/customer-service.html" container="#Pane">Contact Us</a></li>
+      <li><a href="http://www.jamesallen.com/cities/" container="#Pane">Cities</a></li>
+      <li><a href="http://www.jamesallen.com/about-us/privacy-policy.html" container="#Pane">Privacy Policy</a></li>
     </ul>
   </li>
   <li>
     <h3>Finding The Perfect Jewelry</h3>
     <ul>
-      <li><a href="http://www.jamesallen.com/education/diamonds/how-choose-perfect-diamond/" onclick="" container="#Pane">The Perfect Diamond</a></li>
-      <li><a href="http://www.jamesallen.com/education/wedding-rings/how-to-choose/" onclick="" container="#Pane">The Perfect Wedding Ring</a></li>
-      <li><a href="http://www.jamesallen.com/education/engagement-rings/how-to-pick-your-ring/" onclick="" container="#Pane">The Perfect Engagement Ring</a></li>
-      <li><a href="http://www.jamesallen.com/education/fine-jewelry/" onclick="" container="#Pane">The Perfect Diamond Studs</a></li>
+      <li><a href="http://www.jamesallen.com/education/diamonds/how-choose-perfect-diamond/" container="#Pane">The Perfect Diamond</a></li>
+      <li><a href="http://www.jamesallen.com/education/wedding-rings/how-to-choose/" container="#Pane">The Perfect Wedding Ring</a></li>
+      <li><a href="http://www.jamesallen.com/education/engagement-rings/how-to-pick-your-ring/" container="#Pane">The Perfect Engagement Ring</a></li>
+      <li><a href="http://www.jamesallen.com/education/fine-jewelry/" container="#Pane">The Perfect Diamond Studs</a></li>
     </ul>
   </li>
   <li id="SignUp">
@@ -512,14 +642,14 @@ from
     </div>
     <div id="GTS_CONTAINER"></div>
     <div id="socialLinks" style="position:relative;top:-5px;"><a target="_blank" href="https://www.facebook.com/JAMESALLENRINGS" title="Facebook"></a><a target="_blank" href="http://twitter.com/jamesallenrings" title="Twitter"></a><a target="_blank" href="https://plus.google.com/107029225350912576403/posts" title="Google+"></a><a target="_blank" href="http://www.pinterest.com/jamesallenrings/" title="Pinterest"></a><a target="_blank" style="margin-right:3px !important" href="http://www.youtube.com/JamesAllenRings" title="Youtube"></a><a target="_blank" style="margin-right:0px !important;margin-left:5px;" href="http://instagram.com/jamesallenrings" title="Instagram"></a></div>
-                © 2014 James Allen - All Rights Reserved.
+                © 2015 James Allen - All Rights Reserved.
             </center>
 </div>
 <div id="wizardWraper"></div>
 <div id="closeWizConfirm" class="draggable popup"><input type="button" class="closeButton" onclick="JamesAllen.Functions.ClosePopup(this);" style="display: block;"><form id="closeWizardForm" novalidate="novalidate" style="display: block;">
     <p>Are you sure you want to leave the Ring Concierge?</p>
     <p style="font-size: 12px;margin-left: 58px;">Your data will be saved. You can always come back </p>
-    <p style="font-size: 12px;margin-left: 100px;margin-top: -7px;">by clicking the Ring Concierge icon</p><input type="button" class="bigButton" id="yesCloseWiz" value="Yes" onclick=" JamesAllen.Wizard.CloseWiz();"><input type="button" class="bigButton" id="noCloseWiz" value="CANCEL" onclick="$('#closeWizConfirm').hide();$('#greyOut').css('z-index',$('#wizWrap').css('z-index')-1);"></form>
+    <p style="font-size: 12px;margin-left: 100px;margin-top: -7px;">by clicking the Ring Concierge icon</p><input type="button" class="bigButton" id="yesCloseWiz" value="Yes" onclick=" JamesAllen.Wizard.CloseWiz();"><input type="button" class="bigButton" id="noCloseWiz" value="CANCEL" onclick="JamesAllen.Functions.ClosePopup($('#closeWizConfirm .closeButton'));"></form>
 </div>
 <div id="wizOuterWrap" style="display:none;">
   <div id="wizIconWrap">
@@ -527,88 +657,13 @@ from
   </div>
 </div>
 <div id="tabletWizIcon" class="onlyDev" title="Overwhelmed trying to choose a ring? Our Ring Concierge can help you find the perfect engagement ring in 4 simple steps!" onclick="JamesAllen.Wizard.OpenWizard();"></div>
-<div id="floatingDivs">
-  <div id="smallLoginDiv" style="display:none">
-    <form>
-      <h2 style="margin-top:0">Log In</h2>
-      <ul class="LoginDetails">
-        <li><span>Email address</span><input class="required" type="text" id="smallLoginEmail" name="loginEmail"></li>
-        <li><span>Password</span><input class="required" type="password" id="smallLoginPassword" name="loginPassword"></li>
-        <li><a class="forgotPassword underLineAndPointer">Forgot password?</a></li>
-        <li>
-          <h6 class="error" id="invalidLogin">Your Email and/or Password is incorrect</h6>
-        </li>
-      </ul><input type="button" value="CONTINUE" class="bigButton" onclick="JamesAllen.Login.Login($('#smallLoginEmail').val(), $('#smallLoginPassword').val())"></form>
-  </div>
-  <div id="FormValidateMessage" class="Options draggable popup" style="width:380px;"><input type="button" class="closeButton" onclick="JamesAllen.Functions.ClosePopup(this);"><span>Please Note: The field(s) in red are required.</span></div>
-  <div id="EmailExistsPopup" class="Options draggable popup" style="width:500px;"><input type="button" class="closeButton" onclick="JamesAllen.Functions.ClosePopup(this);"><span>A customer account with this email already exists, please use a different email address or <a class="Login" href="javascript:void(0)" ajaxmode="disabled" style="text-decoration:underline;">Log In</a>.</span></div>
-  <div id="afterSignUpPopup" class="popup draggable"><input type="button" class="closeButton" onclick="JamesAllen.Functions.ClosePopup(this);"><div class="content">
-                    Thank you. Please check your email to confirm your registration.
-                </div><input type="button" value="OK" class="bigButton" onclick="JamesAllen.Functions.ClosePopup(this);"></div>
-  <div id="thanxRegisterPop" class="draggable popup"><input type="button" class="closeButton" onclick="JamesAllen.Functions.ClosePopup(this);" style="display: block;"><h6 id="thanxRegister" style="display: block;">Thank you for Signing Up for our Exclusive Deals.</h6><input type="button" id="closeThanxRegister" class="bigButton" value="CLOSE" onclick="JamesAllen.Functions.ClosePopup(this);" style="display: inline;"></div>
-  <div id="riskFreePop" class="draggable popup"></div>
-  <div id="SearsLoginPop" class="draggable popup"></div>
-  <div id="customerServicePop" class="draggable popup"></div>
-  <div id="earPop" class="popup"></div>
-  <div id="requestDiamondPop" class="popup draggable"></div>
-  <div id="customerSendToFriends" class="draggable popup"></div>
-  <div id="compareLinkPopup" class="Options popup draggable" style="height: auto; position: fixed; top: 233.5px; left: 790.2px; width: 450px; padding-bottom: 16px;"></div>
-  <div id="GalleryPopup" class="popup" style="height:800px;width:990px;"><input type="button" class="closeButton" onclick="JamesAllen.Functions.ClosePopup(this);" style="display: block;"><div id="PopupContent"></div>
-  </div>
-  <div id="centerDiamondRequired" class="Options popup draggable" style="width:293px;"><input type="button" class="closeButton" onclick="JamesAllen.Functions.ClosePopup(this);"><span>
-                    This specific setting requires a center diamond or gemstone.
-                </span><input id="diamonds" class="smallButton" value="Browse Diamonds"><input id="gemstones" class="smallButton" value="Browse Gemstones"></div>
-  <div id="ringMatchExist" class="Options popup draggable" style="width:293px;"><input type="button" class="closeButton" onclick="JamesAllen.Functions.ClosePopup(this);"><span style="margin: 0">You already have a ring setting,</span><span>
-                    would you like
-                    to change it?
-                </span><div style="display: block; margin: auto; width: 183px;"><input type="button" id="yes" class="smallButton" value="Yes"><input type="button" container="#Pane" id="no" class="smallButton" value="No"></div>
-  </div>
-  <div id="diamondMatchExist" class="Options popup draggable" style="width:293px;"><input type="button" class="closeButton" onclick="JamesAllen.Functions.ClosePopup(this);"><span style="margin: 0">You already have a diamond setting,</span><span>
-                    would you like
-                    to change it?
-                </span><input type="button" id="yes" class="smallButton" value="Yes"><input type="button" container="#Pane" id="no" class="smallButton" value="No"></div>
-  <div id="DiamondIsNotAvailable" class="Options popup draggable" style="width:325px;"><input type="button" class="closeButton" onclick="JamesAllen.Functions.ClosePopup(this);"><span>Sorry, this item has just been sold.</span><a class="diamonds" url="loose-diamonds/all-diamonds/" style="display: block">Browse Other Diamonds</a><a class="pairs" url="gemstones/all-gemstones/" style="display: block">Browse Other Gemstones</a><a class="engagement" url="engagement-rings/" style="display: block">Browse Other Engagement Rings</a><a class="contactUs" style="display: block">
-                    Contact us for help
-                </a></div>
-  <div id="CheckoutFailed" class="Options popup draggable" style="width:325px;"><input type="button" class="closeButton" onclick="JamesAllen.Functions.ClosePopup(this);"><span>Checkout failed, please try again</span></div>
-  <div id="BigImage" class="popup"></div>
-  <div id="BigTwoImages" class="popup"></div>
-  <div id="loader" class="popup" style="padding:5px;"><img src="http://cdn3.jamesallen.com/Images/loader_page.gif"></div>
-  <div id="certificate" class="popup"><input type="button" class="closeButton" onclick="JamesAllen.Functions.ClosePopup(this);$('#certificateImgBox img').attr('src','');"><input type="button" class="littleButton" id="printCertificate" value="Print"><input type="button" class="littleButton" id="emailCertificate" onclick="$('#emailCertification').showSecondPopup();" value="Email"><input type="button" class="littleButton" id="zoomInCertificate" value="Zoom In"><input type="button" class="littleButton" id="zoomOutCertificate" value="Zoom Out"><div id="certificateImgBox"></div>
-  </div>
-  <div id="wishListContinue" class="Options popup draggable" style="width:auto;" closeallpopups="false"><input id="closeCert" class="closeButton" type="button" onclick="JamesAllen.Functions.ClosePopup(this);" closefunction="$.cookie('WishlistPopup',true);"><span class="message"></span><span class="SecondRow">To save your wishlist and sync between devices:</span><input id="wishListLogin" class="smallButton" type="button" value="LOG IN or SIGN UP" onclick="$('#loginWindow').showSecondPopup();JamesAllen.Checkout.InitSignIn();" style="text-transform:none !important; margin: auto; float: none; width: auto;"></div>
-  <div id="loginWindow" class="Options popup draggable" style="width:293px;" closeallpopups="false"><input id="closeCert" class="closeButton" type="button" onclick="JamesAllen.Functions.ClosePopup(this);"><div class="tab SignIn" tab="1">
-      <h4 style="text-align: right; margin-bottom: 0px; margin-top: 24px;"><span id="loginLink" style="display:inline-block;" class="dashed">Returning Customer? Log In</span><span id="createLink" style="display:none;" class="dashed">Create New Account</span></h4>
-      <form class="existAccount" style="display:none">
-        <h2 style="margin-top:0">Log In</h2>
-        <ul class="LoginDetails">
-          <li><span>Email address</span><input class="required" type="text" id="loginEmail" name="loginEmail"></li>
-          <li><span>Password</span><input class="required" type="password" id="loginPassword" name="loginPassword"></li>
-          <li><a id="forgotPassword">Forgot password?</a></li>
-          <li>
-            <h6 class="error" id="invalidLogin">Your Email and/or Password is incorrect</h6>
-          </li>
-        </ul><input type="button" value="CONTINUE" class="bigButton" function="login"></form>
-      <form id="newAccountForm" class="jaForm newAccount">
-        <h2>Create an account</h2>
-        <ul>
-          <li><span>First name</span><input id="fName" name="fName" type="text"></li>
-          <li><span>Last name</span><input id="lName" name="lName" type="text"></li>
-          <li><span>Email address</span><input id="registerEmail" name="registerEmail" type="text"><h6 class="error" id="emailExist">This Email address already exists</h6>
-          </li>
-          <li><span>Password</span><input id="newPassword" name="newPassword" type="password"></li>
-          <li><span>Confirm password</span><input id="confirmPassword" name="confirmPassword" type="password"></li>
-          <li style="margin-bottom:0"><input type="checkbox" id="signForMail" checked=""><span id="signUpLabel">Sign up for special offers</span></li>
-        </ul><input type="submit" value="CONTINUE" class="bigButton" function="newAccount"></form>
-    </div>
-  </div>
-  <div id="diamondCompareContinue" class="Options popup draggable" style="width:293px;"><input id="closeCert" class="closeButton" type="button" onclick="JamesAllen.Functions.ClosePopup(this);"><span class="message">Diamond was added to Comparison List</span><span class="SecondRow">View the list?</span><div class="Buttons"><input id="yes" class="smallButton" value="Yes" onclick="JamesAllen.LooseDiamonds.GetComparisonItems(true);"><input container="#Pane" id="no" class="smallButton" value="No" onclick="JamesAllen.Functions.ClosePopup($('#diamondCompareContinue #closeCert'));"></div>
-  </div>
-  <div id="freeShippingPop" class="popup"></div>
-  <div id="DetermineRingSizePane"></div>
+<div id="closeGetInspiredConfirm" class="draggable popup" style="width:473px"><input type="button" class="closeButton" onclick="JamesAllen.Functions.ClosePopup(this);" style="display: block;"><form id="closeGetInspiredForm" novalidate="novalidate" style="display: block;">
+    <p>Are you sure you want to close the Inspiration Gallery ?</p><input type="button" class="bigButton" id="yesCloseWiz" value="Yes" onclick="JamesAllen.Functions.ClosePopup($('#closeGetInspiredConfirm .closeButton'));JamesAllen.Functions.ClosePopup($('#GalleryPopup .closeButton'));"><input type="button" class="bigButton" id="noCloseWiz" value="CANCEL" onclick="JamesAllen.Functions.ClosePopup($('#closeGetInspiredConfirm .closeButton'));"></form>
 </div>
-<div id="greyOut"></div>
-<div id="absoluteDiv" style="position: absolute; top: 0px; left: 0px;"></div>
+<div id="floatingDivs"></div>
+<div id="absoluteDiv" style="position: fixed; z-index: 9999; top: 0px; left: 0px; width: 100%;">
+  <div id="greyOut"></div>
+</div>
 <div id="absoluteDiv2" style="position: absolute; top: 0px; left: 0px;z-index:1300;"></div></div>
  <!-- Google Tag Manager -->
     <script type="text/javascript">
@@ -620,16 +675,18 @@ from
             style="display: none; visibility: hidden"></iframe>
         </div>
     </noscript>
-    <script> 
-        //if (window.location.href.indexOf('mobile') < 0) {
-            (function (w, d, s, l, i) {
-                w[l] = w[l] || []; w[l].push({ 'gtm.start':
+    <script>
+        
+        (function (w, d, s, l, i) {
+
+            w[l] = w[l] || []; w[l].push({ 'gtm.start':
             new Date().getTime(), event: 'gtm.js'
-                }); var f = d.getElementsByTagName(s)[0],
+            }); var f = d.getElementsByTagName(s)[0],
             j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
             '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-            })(window, document, 'script', 'dataLayer', 'GTM-WN28TP');
-        //}
+        })(window, document, 'script', 'dataLayer', 'GTM-WN28TP');
+
+        //console.log(f); console.log(j);
     </script>
     <!-- End Google Tag Manager -->
     
@@ -663,17 +720,39 @@ from
         //}
     </script>
     <!-- END: Google Trusted Stores -->
+
+
+
+
    <script type="text/javascript">
-(function() {
-window.ftr__startScriptLoad = new Date().getTime();
-var ftr = document.createElement('script'); ftr.type = 'text/javascript'; ftr.id = 'ftr__script'; ftr.async = true; ftr.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//api.forter.com/script.js?sn=1c5be21f9f0f';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ftr, s);
-})();
-</script>
+
+       JamesAllen.Funnel && JamesAllen.Funnel.EnableFunnel();
+
+       if ($.cookie("SetSaleIcon") == 1) {           
+           $('#cyberLogo').attr('style', 'display:block !important;visibility:visible !important;');
+       }
+
+       if (JamesAllen.AIFunctions) {
+           JamesAllen.AIFunctions.SetSaleIcon = function () {
+               var date = new Date();
+               var minutes = 30;
+               date.setTime(date.getTime() + (minutes * 60 * 1000));
+               $.cookie("SetSaleIcon", 1, { expires: date });
+               $('#cyberLogo').attr('style', 'display:block !important;visibility:visible !important;');
+           }
+       }
+
+
+   </script>
+   
+<div id="aiscript"></div>
+<div id="AIFunnel"></div>
+<a href="https://plus.google.com/107029225350912576403" rel="publisher"></a>
+<script type="text/javascript" src="content/adframe.js"></script>
 <script type="text/javascript">
                 JSite.Hijax.Manager.UserID = '';
                 JSite.Hijax.Manager.PageKey = 'AboutUsInner'; 
                 JSite.Hijax.Manager.DisableBackScroll = ''; 
-                JamesAllen.Main.InitMain();(window.location.href.indexOf("localhost")>-1||window.location.href.indexOf("dev.")>-1)&&$(".DevOnly").show();markRightLinks();function markRightLinks(){$("#rightLinks *").removeClass("clicked");var a=(location.pathname+location.search).replace("/","");$('#rightLinks a[href="'+a+'"]').parent().addClass("clicked")};</script>
+                JamesAllen.Main.InitMain();(window.location.href.indexOf("localhost")>-1||window.location.href.indexOf("dev.")>-1)&&$(".DevOnly").show();markRightLinks();function markRightLinks(){$("#rightLinks *").removeClass("clicked");var a=(location.pathname+location.search).replace("/","");$('#rightLinks a[href="'+a+'"]').parent().addClass("clicked")};JamesAllen.Currency.InitSelectbox();</script>
 
 </body></html>
