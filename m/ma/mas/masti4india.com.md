@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masti4india.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012033043id_/http%3A//www.masti4india.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masti4india.com privacy policy that was archived on 2015-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150302224105id_/http%3A//www.masti4india.com/privacy.htm) for the most accurate reproduction.*
 
 # Masti4india.com Prviacy Statement
 
