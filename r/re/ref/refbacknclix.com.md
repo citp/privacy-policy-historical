@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refbacknclix.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927092634id_/http%3A//refbacknclix.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refbacknclix.com privacy policy that was archived on 2015-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150302091601id_/http%3A//www.refbacknclix.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
 # RefbackNClix.com - The All-in-One GPT Solution
 
