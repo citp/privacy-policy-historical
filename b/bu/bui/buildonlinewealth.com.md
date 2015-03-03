@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildonlinewealth.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919105008id_/http%3A//buildonlinewealth.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildonlinewealth.com privacy policy that was archived on 2015-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150303185100id_/http%3A//buildonlinewealth.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,4 +43,4 @@ We do not sell products or services to children. If you are under 18, you may us
 Various Web sites may be linked to from this site. If you link to another site, your privacy depends on the policy of that site. We strongly urge you to check their privacy policy. Not all sites guarantee that they will not share your personally identifiable information with others. You may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance (www.privacyalliance.org).
 
 Copyright © 2010 All Rights Reserved  
-[Earnings Disclaimer](https://web.archive.org/web/20120919105008id_/http%3A//buildonlinewealth.com/earnings-disclaimer.html) | [Privacy Policy](https://web.archive.org/web/20120919105008id_/http%3A//buildonlinewealth.com/privacy-policy.html)
+[Earnings Disclaimer](https://web.archive.org/web/20150303185100id_/http%3A//buildonlinewealth.com/earnings-disclaimer.html) | [Privacy Policy](https://web.archive.org/web/20150303185100id_/http%3A//buildonlinewealth.com/privacy-policy.html)
