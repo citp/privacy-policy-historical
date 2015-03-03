@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the suresafety.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021025106id_/http%3A//suresafety.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suresafety.com privacy policy that was archived on 2015-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150303011656id_/http%3A//www.suresafety.com/index.php/policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Sure Safety- Privacy Policy
 
-By using a  **[www.suresafety.com](http://www.suresafety.com/)**   **Internet Site or providing personal information to us, you are consenting to the collection, use and disclosure of your personal information as described in this Policy and any applicable Country or Web Site Privacy Statements. If you do not consent to the collection, use and disclosure of your personal information as described in this Policy, do not use**   ** _[www.suresafety.com](http://www.suresafety.com/)_**   **Internet Site.**
+By using a  **[www.suresafety.com](http://www.suresafety.com/)**   **Internet Site or providing personal information to us, you are consenting to the collection, use and disclosure of your personal information as described in this Policy and any applicable Country or Web Site Privacy Statements. If you do not consent to the collection, use and disclosure of your personal information as described in this Policy, do not use**   **[www.suresafety.com](http://www.suresafety.com/)**   **Internet Site.**
 
   **Limitations on the Collection, Use and Disclosure of Personal Information**
 
