@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamachari.co.uk privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010130155id_/http%3A//mamachari.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamachari.co.uk privacy policy that was archived on 2015-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150303104708id_/http%3A//mamachari.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mamachari Bikes
 
@@ -60,4 +60,4 @@ London E8 3DL
 0207 254 0080  
 contact@mamachari.co.uk
 
-This document was last updated on May 24, 2014
+This document was last updated on March 1, 2015
