@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meditationbangles.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016004234id_/http%3A//www.meditationbangles.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meditationbangles.com privacy policy that was archived on 2015-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150303144111id_/http%3A//www.meditationbangles.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Frequency Bangles
 
