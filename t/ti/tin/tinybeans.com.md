@@ -1,69 +1,80 @@
-> *The following text is extracted and transformed from the tinybeans.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113412id_/http%3A//tinybeans.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinybeans.com privacy policy that was archived on 2015-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150303222553id_/https%3A//tinybeans.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | Tinybeans
 
-Your privacy is important to Tinybeans. This privacy statement provides information about the personal information that Tinybeans collects, and the ways in which Tinybeans uses that personal information. 
+Are you looking for whether we would ever share your photo with a 3rd Party? 
 
-Tinybeans may collect and use the following kinds of personal information: 
+You want to head to paragraph 7, where we make it very clear that we would NEVER share your content without your permission.
 
-  * information about your use of this website;
-  * information that you provide using for the purpose of registering with the website;
-  * information about transactions carried out over this website;
-  * information that you provide for the purpose of subscribing to the website services;
-  * any other information that you send to Tinybeans
+### Tinybeans Privacy Policy – June 2014
 
+#### **What information do we collect?**
 
+We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
 
-## Using personal information
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information to Tinybeans Pty Ltd. You may, however, visit our site anonymously.
 
-Tinybeans may use your personal information to: 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-  * administer this website;
-  * personalize the website for you;
-  * enable your access to and use of the website services;
-  * publish information about you on the website;
-  * send to you products that you purchase;
-  * supply to you services that you purchase;
-  * send to you statements and invoices;
-  * collect payments from you; and
-  * send you marketing communications.
+#### **What do we use your information for?**
 
+Any of the information we collect from you may be used in one of the following ways:
+
+  * To personalize your experience – your information helps us to better respond to your individual needs
+  * To improve our website – we continually strive to improve our website offerings based on the information and feedback we receive from you
+  * To improve customer service – your information helps us to more effectively respond to your customer service requests and support needs
+  * To process transactions – Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails
 
 
-Where Tinybeans discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. 
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Tinybeans may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights. 
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-## Securing your data
+#### **How do we protect your information?**
 
-Tinybeans will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-Tinybeans will store all the personal information you provide on its secure servers. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-## Cross-border data transfers
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-Information that Tinybeans collects may be stored and processed in and transferred between any of the countries in which Tinybeans operates to enable the use of the information in accordance with this privacy policy. 
+#### **Do we use cookies?**
 
-In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world. 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-You agree to such cross-border transfers of personal information. 
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-## Updating this statement
+#### **Do we disclose any information to outside parties?**
 
-Tinybeans may update this privacy policy by posting a new version on this website. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-You should check this page occasionally to ensure you are familiar with any changes. 
+#### **Third party links**
 
-## Other websites
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-This website contains links to other websites. 
+#### **California Online Privacy Protection Act Compliance**
 
-Tinybeans is not responsible for the privacy policies or practices of any third party. 
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-## Contact Tinybeans
+#### **Childrens Online Privacy Protection Act Compliance**
 
-If you have any questions about this privacy policy or Tinybeans' treatment of your personal information, please write: by email to info@tinybeans.com; or by post to P O Box A2628, Sydney South, NSW 1235, Australia.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-## About this privacy statement
+#### **Online Privacy Policy Only**
 
-We created this privacy statement using a free privacy statement template available at www.freenetlaw.com. Other forms available from Contractology include sale agreement precedents. Personal information collection 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+#### **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://tinybeans.com/terms](https://tinybeans.com/terms)
+
+#### **Your Consent**
+
+By using our site, you consent to our online privacy policy.
+
+#### **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on June 26, 2014.
