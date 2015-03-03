@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denschool.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826062544id_/http%3A//denschool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denschool.com privacy policy that was archived on 2015-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150303052729id_/http%3A//denschool.com/privacy) for the most accurate reproduction.*
 
 # Homeschool Curriculum Software : Free Homeschooling Resources : Grade Report Card : Record Keeping Forms : Transcript : Planner : Online Homeschool Tracker
 
