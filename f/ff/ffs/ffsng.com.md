@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ffsng.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102154842id_/http%3A//ffsng.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffsng.com privacy policy that was archived on 2015-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150303114455id_/http%3A//ffsng.com/privacy.php) for the most accurate reproduction.*
 
 # FFSNG Privacy Policy
 
