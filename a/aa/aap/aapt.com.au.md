@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724083539id_/https%3A//aapt.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2015-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150304152928id_/https%3A//aapt.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AAPT
 
@@ -89,7 +89,7 @@ Another purpose of this Privacy Policy is to give you notice of matters in accor
 
 
 
-We refer you to our general [Personal Information Collection Notice](https://web.archive.org/web/20140724083539id_/https%3A//aapt.com.au/personal-information-collection-notice).
+We refer you to our general [Personal Information Collection Notice](https://web.archive.org/web/20150304152928id_/https%3A//aapt.com.au/personal-information-collection-notice).
 
 ## Use of your personal information
 
