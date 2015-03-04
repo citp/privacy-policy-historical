@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myouterspace.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229230928id_/http%3A//www.myouterspace.com/index.php%3F/no-comments/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myouterspace.com privacy policy that was archived on 2015-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150304181528id_/http%3A//www.myouterspace.com/index.php%3F/no-comments/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | myouterspace
 
