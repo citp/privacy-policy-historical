@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superaffiliateclub.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401083132id_/http%3A//www.superaffiliateclub.com/public/department64.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superaffiliateclub.com privacy policy that was archived on 2015-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150305110437id_/http%3A//www.superaffiliateclub.com/public/department64.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -43,6 +43,6 @@ This site also gives users the following options for removing their information 
 
 **Other**
 
-If you have questions regarding our privacy policy, feel free to let us know, using our [Contact Page](https://web.archive.org/web/20140401083132id_/http%3A//www.superaffiliateclub.com/public/7.cfm)
+If you have questions regarding our privacy policy, feel free to let us know, using our [Contact Page](https://web.archive.org/web/20150305110437id_/http%3A//www.superaffiliateclub.com/public/7.cfm)
 
 Thanks 
