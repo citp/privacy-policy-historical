@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningfarm.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009141245id_/http%3A//www.learningfarm.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningfarm.com privacy policy that was archived on 2015-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150306061539id_/http%3A//www.learningfarm.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
