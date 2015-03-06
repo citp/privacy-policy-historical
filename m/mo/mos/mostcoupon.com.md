@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostcoupon.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812010349id_/http%3A//www.mostcoupon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostcoupon.com privacy policy that was archived on 2015-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150306073500id_/http%3A//www.mostcoupon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Coupon Codes, Discount, Coupons, Codes Updated Daily MostCoupon
 
