@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobiz.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811164713id_/http%3A//cobiz.com/usa/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobiz.com privacy policy that was archived on 2015-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150307162616id_/http%3A//cobiz.com/usa/privacy_policy) for the most accurate reproduction.*
 
 # Cobiz.com - Privacy Policy
 
