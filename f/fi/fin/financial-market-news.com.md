@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the financial-market-news.com privacy policy that was archived on 2014-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140904113555id_/http%3A//www.financial-market-news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financial-market-news.com privacy policy that was archived on 2015-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150307070251id_/http%3A//www.financial-market-news.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Financial Market News
 
 **Financial Market News** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
