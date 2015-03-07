@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 77jackpot.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101163529id_/http%3A//77jackpot.com/en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 77jackpot.com privacy policy that was archived on 2015-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150307233004id_/http%3A//77jackpot.com/en/privacy_policy.html) for the most accurate reproduction.*
 
 # 77JACKPOT
 
