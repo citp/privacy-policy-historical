@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the definition.org privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210222947id_/http%3A//www.definition.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definition.org privacy policy that was archived on 2015-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150307131831id_/http%3A//www.definition.org/privacy-policy) for the most accurate reproduction.*
 
 # www.Definition.org - Privacy Policy
 
