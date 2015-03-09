@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acronymfinder.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223042918id_/http%3A//www.acronymfinder.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acronymfinder.com privacy policy that was archived on 2015-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150309232103id_/http%3A//www.acronymfinder.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
