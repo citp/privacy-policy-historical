@@ -1,155 +1,47 @@
-> *The following text is extracted and transformed from the onthegosports.com.au privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313113403id_/http%3A//www.onthegosports.com.au/privacy-policy.aspx) for the most accurate reproduction.*
-
-# OnTheGo® - Ideas that move people. Sports Wear | Sports Accessories | Custom Branded Gear
-
-In this policy, “us”, “we”, or “our” means OnTheGo Group Pty Ltd operators of this website.
-
-We are bound by the National Privacy Principles contained in the Commonwealth Privacy Act 1988 (subject to any exemptions that apply to us under that Act).
-
-We may, from time to time, review and update this privacy policy, including taking account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy.
-
-This Privacy Policy was last updated on 17th October 2013.
-
-**1\. INFORMATION WE COLLECT**
-
-The personal information we collect falls into four categories: contact details, click trails, activity history, and publishable content.
-
-  * **Contact details** are collected as supplied by you from time to time. We do not personally store usable credit card information. Where a record is required, we entrust credit cards to our payment gateway and store only the last few digits and expiry date of your credit card solely for purposes of identity confirmation and forewarning of expiry.
-  * **Click trails** record the paths taken by visitors through the website. This information is generally recorded against IP address, and may be possible to correlate by computer.
-  * **Activity History** consists of orders, enquiries, votes submitted via the website, or offline contact you have with us such as phone calls.
-  * **Publishable content** consists of comments or other submissions of content you would like us to publish on our website.
-
-
-
-**2\. HOW WE COLLECT IT**
-
-**Contact details** and **publishable content** are collected when supplied by you either via the website or direct to us by other means.
-
-**Click trails** are recorded by our servers as each request reaches the website. This includes but is not limited to:
-
-  * The type of browser you are using
-  * The date and time of your visit
-  * Your IP address
-  * The address of the website that referred you to ours
-  * The addresses of pages accessed and any documents downloaded
-
-
-
-**Click trails** can be correlated over time by the use of ‘cookies’ as outlined in section 6. In most cases click trail data is not directly individually identifiable.
-
-**Activity history** is recorded whenever you undertake an activity such as submit an enquiry, make a comment, vote on an object, and may additionally be recorded by us when you contact us offline.
-
-**3\. WHY WE COLLECT IT AND HOW WE USE IT**
-
-Publishable content is collected and republished where applicable in order to enable a two-way conversation in public between us and our visitors.
-
-We collect your personal contact details and activity history:
-
-  * To respond to requests or queries you raise
-  * To confirm your identity
-  * To fulfil orders made by you
-  * To keep you up to date with news, special offers, and other marketing information you have opted-in to receive.
-
-
-
-We collect click trail data:
-
-  * To measure and monitor the performance of our website
-  * To estimate interest in our products and services
-  * To refine and update our website’s content
-  * To monitor our website for violations of the terms of use or any applicable laws by visitors
-
-
-
-**4\. HOW WE DISCLOSE IT**
-
-We may disclose your personal information to third parties, and you consent to us disclosing your personal information to third parties, under the following circumstances:
-
-  * As part of a sale of all or part of our business
-  * When explicitly authorised to do so by yourself at the time you supply the information
-  * As required or authorised by any applicable law
-  * As required for processing of credit card payments by Internet Payment Gateways and Merchant Facilities.
-  * As part of any investigation by us into you or your activity on our website (including to your Internet Service Provider or network administrator)
-  * If we have reason to believe that you have committed a breach of any of our terms of use or have been otherwise engaged in any unlawful activity and we reasonably believe that disclosure is necessary (including to the Police or any other enforcement body, or to your Internet Service Provider or network administrator)
-  * To lessen or prevent a serious threat to a person’s health or safety
-
-
-
-**5\. PUBLISHABLE CONTENT**
-
-When you submit content to us for publication (including but not limited to comments, testimonials, votes, or forum posts) you assign us a transferrable, perpetual right to publish and/or commercially exploit said content without limitation. You also warrant in submitting such content that the content is owned or produced by yourself or you otherwise have permission to assign publication rights to us. Publication rights do not extend to fields specifically marked as private (e.g. your email address), except in cases of clear violations of our terms of use.
-
-Content submitted by you for publication may be disclosed to all visitors of our website, and/or republished on other websites at our discretion.
-
-If you provide personal information either of your own or of any third party as part of publishable content, you warrant that you have permission to publish said information and indemnify us against any consequences resulting from the publication of said information.
-
-If you find your personal information published on our website without your consent, please contact us immediately as outlined in section 10.
-
-**6\. COOKIES**
-
-Cookies are electronic tokens containing small amounts of information that are passed between a web browser and server. They are used to maintain session state between pages or to retain information between visits if you return to the website at a later time.
-
-We use cookies to correlate passive activity tracking data as well as to authenticate supply of information such as enquiries, comments, and votes to minimise malicious or spam traffic.
-
-**7\. OPTING IN AND OUT**
-
-You may opt out from the correlation of passive activity data by turning off cookies in your browser. Please note however that disabling cookies may result in a reduction of available functionality on our site including but not limited to the loss of the ability to post comments and vote on content.
-
-When you supply us with your email address you may be asked to opt in to receive marketing information by e-mail or other means.
-
-You will be given the opportunity to opt out from receiving further communications from us in accordance with this policy each time we send you information for which you have opted in. This comes in the form of an ‘unsubscribe’ link, generally in the footer and/or header of each email.
-
-If you receive any communication purporting to be connected with us or our products or services that you believe has been sent to you other than in accordance with this policy, or in breach of any law, please contact us immediately as outlined in section 10.
-
-**8\. INFORMATION MANAGEMENT AND SECURITY**
-
-With the exclusion of information supplied for publication (as outlined in section 5), we will take all reasonable steps to ensure that the personal information we hold is not lost, misused, or inadvertently provided to unauthorised third parties, including by means of firewalls, password locking, truncation of credit card data, encryption of data in transit, and secured servers.
-
-You acknowledge that the security of communications sent by electronic means cannot be guaranteed. You provide information to us via the internet at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not wholly within our control.
-
-You must ensure the security and confidentiality of any username and/or password used by yourself to access this website. You agree that you will be held responsible for all activities which occur under your username and password (including but not limited to publication of illegal or defamatory material or any other unlawful activity, or unauthorised charging of your credit card).
-
-You agree that we are not responsible for the privacy or security practices of any third party and that the collection and use of your information by third parties may be subject to separate privacy and security policies.
-
-If you suspect any misuse or loss of, or unauthorised access to, your personal information, please contact us immediately as outlined in section 10.
-
-**9\. GAINING ACCESS TO YOUR INFORMATION**
-
-You have the right (excluding exceptions outlined in the Privacy Act) to seek access to and update or correct the personal information we hold about you. If you make an access request, we will ask you to verify your identity. We may charge a fee to cover the costs of meeting your request.
-
-If you would like to seek access to personal information we hold about you, you can contact us as outlined in section 10.
-
-**10\. HOW TO CONTACT US**
-
-If you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, or would like to request access or changes to the information we hold, please contact us in writing at:
-
-**OnTheGo Global HQ**
-
-**ATTN:**   **Administration Department**
-
-**Unit 1B, 15 Hall St. Lyneham, Canberra, A.C.T 2602,  ** **AUSTRALIA**
-
-**11.  SHIPPING AND DELIVERY POLICY **
-
-We deliver products Australia wide using Australian Air Express, DHL Express and other third party couriers. Shipping costs are influenced by the size and weight of the product and your location, exact shipping costs are calculated in the shopping cart and will be added to the order total before checkout.   
-Orders are dispatched within 2-3 business days and shipping times are estimated at between 3-7 business days depending on your location within Australia, and also your type and weight of product, and stock availability of product.
-
-**12.  CUSTOMER SERVICE POLICY**
-
-OnTheGo Group Pty Ltd is committed to providing exceptional customer service and quality products.  We endeavour to make sure that all products listed on our website are currently in stock and pricing is true and correct. Standard delivery timeframes are between 3-10 business days; in the event that an ordered item is not available or we are unable to fulfil your order we will notify you within 2 business days to arrange an agreeable alternative item, a backorder or a full refund.
-
-**13\. REFUND POLICY - OnTheGo Retail Products.**
-
-_**Please choose carefully.**_  We do not give refunds if you simply change your mind or make an incorrect decision.  You can choose between a refund, exchange (for a product of equal or lower value) or credit where goods are classed as a manufacturer fault, have been wrongly described, are different to the products purchased on the website or do not do what they are supposed to do. If you are unhappy with the goods purchased, or have chosen an incorrect size, we will offer an exchange or credit if a written request is received within 7 days of receipt of order, as long as goods are in orignal condition and packaging and there are no signs of use. 
-
-**_For exchange or credit of products; Customers will arrange shipment of products back to OnTheGo Head Office (Address listed at the beginning of this document) at their own expense and in the event of an exchange, customers will be charged an additional freight cost to cover the cost of shipping of the replacement item(s). Customers will be invoiced for this freight charge once the original items are received and replacement items will be shipped to the customer upon payment of this invoice where stock is available. Where replacement items are not in stock customers will be notified within 2-3 business days of receipt of original products by OnTheGo Group Pty Ltd and customers will then have the option to select a different size or product where applicable, or wait for the requested item to arrive._**
-
-To request a refund, exchange, or credit, please send an email to warehouse@onthegosports.com.au with full details including order number, item codes and sizes, and purchase date.
-
-**13.1 - REFUND POLICY - Custom Made:  **
-
-Please read current Terms of Trade - OnTheGo Group Pty Ltd. Available for download on our website below, or available from your local sales manager.
-
-**14\. SECURITY POLICY  **
-
-When purchasing from OnTheGo Advertising your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact our customer support centre [**info@onthegosports.com.au**](https://web.archive.org/web/20140313113403id_/http%3A//www.onthegosports.com.au/info@onthegosports.com.au)
+> *The following text is extracted and transformed from the onthegosports.com.au privacy policy that was archived on 2015-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150309074623id_/https%3A//onthegosports.com.au/sites/default/files/privacy-policy.pdf) for the most accurate reproduction.*
+
+# OTG PRIVACY POLICY
+
+  OTG PRIVACY POLICY
+  Disclosure of Personal Information
+• We do not sell, trade, or otherwise transfer to outside parties your personally
+  identifiable information.
+  What type of Information Do We Collect?
+• When you create an account with OTG, purchase a product or sign up to our
+  newsletters we may collect the following data: Name, Email, Address, Gender,
+  date of birth and sporting interests. All information is securely stored.
+• Personal information collected from our customers is used to fulfil orders,
+  customise our services, and for communication purposes only. You can
+  unsubscribe from any marketing material at any time by using the unsubscribe
+  function located on every electronic direct mail.
+  Collection of Computer Data
+• When you visit www.onthegosports.com.au our servers along with Google
+  Analytics and other third party programs track and record information that
+  your browser sends. This data may include the following: IP address, pages
+  viewed, product viewed, referring sites, time spent on site, product purchase
+  information and other statistics relating to browsing behaviours.
+• This information does not provide details relating to individual users and is
+  only used for the purpose of analysing information in order to improve our
+  online store, our products, the user experience and ensure our marketing
+  content is relevant.
+  Cookies
+• Cookies are used on the site to collect information on how you use the site.
+  This data is anonymous and used for analytical purposes and to improve
+  targeted advertising. The information cannot be used to identify an individual.
+  Please note; if you do not accept cookies, you may experience a loss of site
+  functionality.
+  Third Party Website
+• If you click on links and banners on any pages of our website, that takes you
+  to third-party websites, you will be subject to their privacy policies. OTG
+  cannot be held responsible for the actions of any third-party websites.
+  Terms and Conditions
+
+
+• Please also visit our Terms and Conditions section establishing the use,
+  disclaimers, and limitations of liability governing the use of our website
+  Your Consent
+• By using our site, you consent to our online privacy policy.
+  Changes to our Privacy Policy
+• If we decide to change our privacy policy, we will post those changes on this
+  page. This policy was last modified on ……………
+  	  
