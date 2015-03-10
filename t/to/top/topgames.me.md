@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topgames.me privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215225159id_/http%3A//topgames.me%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgames.me privacy policy that was archived on 2015-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150310123906id_/http%3A//topgames.me%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy - Top Games.Me
 
