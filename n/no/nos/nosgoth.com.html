@@ -1,0 +1,513 @@
+<!--The following is the downloaded HTML source of the nosgoth.com privacy policy that was archived on 2015-03-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150310200448id_/http%3A//eu.square-enix.com/en/documents/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_GB" lang="en_GB" dir="ltr" xmlns:svg="http://www.w3.org/2000/svg" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//connect.facebook.net/en_EN/all.js#xfbml=1&amp;appId=119657611400171" id="facebook-jssdk"></script><script src="//platform.twitter.com/widgets.js" id="twitter-wjs"></script><script type="text/javascript" async="" src="https://harvester.netops.eidosinteractive.com/harv.js?0.7943587347136236"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQQBUVNACQsEUllTAw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+	<title>SQUARE ENIX</title>
+
+	
+	<link href="http://eu.square-enix.com/en/rss.xml" title="RSS" type="application/rss+xml" rel="alternate">
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/sites/all/themes/custom/bleach/favicon.ico" type="image/x-icon">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet" type="text/css">
+	<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/custom/madmin/madmin_42.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/custom/madmin/madmin_message.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/custom/mtnc/mtnc-documents.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/modules/mtnc.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/modules/mainmenu.mobile.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/defaults.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/system-menus.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/system.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/user.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/normalize.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/layouts/responsive-sidebars.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/tabs.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/pages.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/blocks.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/navigation.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/node.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/comments.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/forms.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/membership-bar.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/footer.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/common.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/modules/mainmenu.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/typography.css?1">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/shame.css?1">
+	<script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?1"></script>
+<script type="text/javascript" src="/misc/drupal.js?1"></script>
+<script type="text/javascript" src="/sites/default/files/languages/en_GB_7a2e9f8f4e5a7279b00681eafeb440c9.js?1"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/mtnc/mtnc.js?1"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/mainmenu/mainmenu.js?1"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/msearch/jquery.drupalsearch.js?1"></script>
+<script type="text/javascript" src="/sites/all/themes/custom/bleach/scripts/first-word.js?1"></script>
+<script type="text/javascript" src="/sites/all/themes/custom/bleach/scripts/jquery.comments.length.js?1"></script>
+<script type="text/javascript" src="/sites/all/themes/custom/bleach/scripts/script.js?1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "localeBasePath": "/en/", "theme_path": "/sites/all/themes/custom/ninesixty" });
+//--><!]]>
+</script>
+
+	<!--[If IE]>
+		<script src="/sites/all/themes/custom/bleach/scripts/trunk8.js" type="text/javascript"></script>
+		<script src="/sites/all/themes/custom/bleach/scripts/ie.fix.js" type="text/javascript"></script>
+<![endif]-->
+	<!--[if IE 8]><html class="lt-ie9">
+		<script src="/sites/all/themes/custom/bleach/scripts/respond.min.js" type="text/javascript"></script>
+		<script src="/sites/all/themes/custom/bleach/scripts/mobile_menu_ie.js" type="text/javascript"></script>
+	<![endif]-->
+	<!--[if (gte IE 9)|(gt IEMobile 7)]>
+	<![endif]-->
+
+	<script src="https://membership.square-enix.com/javascripts/membership_bar.js" type="text/javascript"></script>
+
+	<meta name="google-site-verification" content="_fOBVzV4vD7IHyGuY-MTpTgQGnuKRQZfDmt4phAESt0">
+	<meta name="msvalidate.01" content="484244919E1768B2874EFA00D9554F14">
+	<meta property="fb:page_id" content="301184507124">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript">
+		stLight.options({
+			publisher: "710ea2ed-8c4f-4a0c-834f-801d3ad5df77",
+			doNotHash: true,
+			doNotCopy: false,
+			hashAddressBar: false
+		});
+	</script>
+</head>
+
+<body class="not-front not-logged-in page-documents no-sidebars i18n-en_GB">
+	<div style="display:none;"></div>
+	
+			<div class="block block-mainmenu" id="block-mainmenu-0">
+		<div class="content"><div id="mobile-menu">
+	<div class="menu-bar">
+		<input type="checkbox" id="menu-toggle">
+		<label for="menu-toggle" class="handler" onclick=""></label>
+		<div class="logo">
+			<img src="http://eu.square-enix.com/sites/all/themes/custom/bleach/images/square_logo.png">
+		</div>
+		
+		<div class="content">
+
+			
+			<div class="main-menu">
+				<h3>MAIN MENU</h3>
+				<ul class="menu"><li class="leaf first"><a href="/en/home">Home</a></li>
+<li class="collapsed"><a href="/en/games">Games</a></li>
+<li class="leaf last"><a href="/en/blog">Blog</a></li>
+</ul>				<ul class="links"><li class="music first"><a href="http://weblet.square-enix-europe.com/geojmp.php?d=SEMERCHSALE201501&amp;l=music">Music</a></li><li class="forums"><a href="http://forums.eu.square-enix.com/">Forum</a></li><li class="menu-merchandise"><a href="http://weblet.square-enix.com/banner.php?id=c1f15439e3ea87e06513d8c7ccb9a946" target="_blank">Merchandise</a></li><li class="store last"><a href="https://store.eu.square-enix.com/?lang=en">Buy Games</a></li></ul>			</div>
+			
+			<div class="user-menu">
+				<h3>USER SECTION</h3>
+				<ul class="links"><li class="login-link first"><a href="https://membership.square-enix.com/sso/login?service=http%3A%2F%2Feu.square-enix.com%2Fen%2Fsso%2Fcheck%3Fmret%3Ddocuments%2Fprivacy&amp;locale=en_GB&amp;src=seweb">Log in</a></li><li class="register-link last"><a href="https://membership.square-enix.com/register?service=http%3A%2F%2Feu.square-enix.com%2Fen%2Fsso%2Fcheck%3Fmret%3Ddocuments%2Fprivacy&amp;locale=en_GB&amp;src=seweb">Register</a></li></ul>			</div>
+			
+			<div class="language-selector">
+				<a href="/change/langs">
+					<span class="icon-lang en"></span>
+					<span class="text">English (UK)</span>
+				</a>
+			</div>
+			
+			<div class="other-links">
+				<ul class="links"><li class="about-us first"><a href="/en/aboutus"><span>About us</span></a></li><li class="jobs"><a href="/en/jobs"><span>Jobs</span></a></li><li class="support"><a href="http://support.eu.square-enix.com/main.php?la=2&amp;id=1160"><span>Support</span></a></li><li class="global-site"><a href="http://www.square-enix.com/eu/global.html"><span>Global site</span></a></li><li class="terms-of-use"><a href="/en/documents/tnc"><span>Terms of Use</span></a></li><li class="unsolicited"><a href="/en/documents/unsol"><span>Unsolicited Content Policy</span></a></li><li class="privacy-policy active"><a href="/en/documents/privacy" class="active"><span>Privacy Policy</span></a></li><li class="cookie-policy"><a href="/en/documents/cookies"><span>Cookie Policy</span></a></li><li class="rss-feed last"><a href="http://feeds.feedburner.com/square-enix/en"><span>RSS</span><span class="icon"></span></a></li></ul>				<span class="clear"></span>
+			</div>
+			
+			<div class="footer-info">
+				© 2015 SQUARE ENIX LTD. All Rights Reserved<br>SQUARE ENIX and the SQUARE ENIX logo are trademarks or registered trademarks of Square Enix Holdings Co., Ltd.<br>Square Enix Limited, Registered in England No. 01804186 - Registered office: 240 Blackfriars Road, London, SE1 8NW.			</div>
+		</div>
+	</div>
+</div></div>
+</div>
+
+<div class="block block-SSO" id="block-SSO-0">
+		<div class="content"><center>
+
+<div id="membership-bar-header-bg">
+
+	<div id="membership-bar-header">
+		
+		<div id="se-logo">
+      <a href="//eu.square-enix.com/en/"><img alt="SQUARE ENIX" border="0" src="http://eu.square-enix.com/sites/all/themes/custom/bleach/images/square_logo.png" title="SQUARE ENIX"></a>
+		</div>
+
+
+      <div id="user-area">
+          <div class="register">
+            <a href="https://membership.square-enix.com/register?locale=en&amp;service=http%3A%2F%2Feu.square-enix.com%2Fen%2Fsso%2Fcheck%3Fmret%3Ddocuments%252Fprivacy&amp;src=seweb">Register</a>
+          </div>
+        <div class="login">
+          <a href="https://membership.square-enix.com/sso/login?locale=en&amp;service=http%3A%2F%2Feu.square-enix.com%2Fen%2Fsso%2Fcheck%3Fmret%3Ddocuments%252Fprivacy&amp;src=seweb">Log in</a>
+        </div>
+      </div>
+
+
+	</div>
+
+</div>
+
+</center>
+<!-- status: false -->
+</div>
+</div>
+
+	
+	
+	<div id="page">
+		<nav id="secondary-menu" role="navigation">
+			<form action="/en/search/" accept-charset="UTF-8" method="post" id="search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <div class="container-inline"><div class="form-item" id="edit-keys-wrapper">
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="40" value="" class="form-text">
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
+</div>
+</div>
+<input type="hidden" name="form_build_id" id="form-gyT4lwemQfURqCRBvczESwHGh2WnBifE_s4SsdGeQVc" value="form-gyT4lwemQfURqCRBvczESwHGh2WnBifE_s4SsdGeQVc">
+<input type="hidden" name="form_id" id="edit-search-form" value="search_form">
+
+</div></form>
+			<ul class="links main-menu"><li class="menu-home first"><a href="/en/home">Home</a></li><li class="menu-games"><a href="/en/games">Games</a></li><li class="menu-blog"><a href="/en/blog">Blog</a></li><li class="music_fallback"><a href="http://weblet.square-enix-europe.com/geojmp.php?d=SEMERCHSALE201501&amp;l=music" target="_blank">Music</a></li><li class="forums"><a href="http://forums.eu.square-enix.com/">Forum</a></li><li class="menu-merchandise"><a href="http://weblet.square-enix.com/banner.php?id=c1f15439e3ea87e06513d8c7ccb9a946" target="_blank">Merchandise</a></li><li class="menu-store last"><a href="https://store.eu.square-enix.com/?lang=en">Buy Games</a></li></ul>		</nav>
+
+		
+		
+
+		<div id="main">
+			
+			
+			
+			<div id="main-content" class="region">
+				<div class="block">
+		<div id="tnc" class="content tnc">
+		
+
+    <p lang="en-GB" align="LEFT">
+        <strong>PRIVACY POLICY</strong>
+    </p>
+    <p>We, Square Enix Limited, are committed to protecting and respecting your privacy.</p>
+    <p>This Privacy Policy relates to our website at <u>eu.square-enix.com</u>, the European parts of the website at <u>www.playonline.com</u>, our mobile applications and any of our other online or mobile products, content and services (collectively, the “<strong>Service</strong>”).</p>
+    <p>This Privacy Policy explains how we use any personal information that we collect about you when you use the Service.  Further details of how we use your information is set out in our <a href="/en/documents/cookies"><u>Cookies Policy</u></a> and in the <u><a href="/en/documents/onlineprivacy">Square Enix Online Services Privacy Policy</a></u>, each of which forms part of this Privacy Policy.</p>  
+    <p>By using the Service, you consent to the collection, storage and use of your personal information as described below. If&nbsp;you do not agree to this Privacy Policy, please do not use the Service and (if&nbsp;relevant) please uninstall the related application.</p>
+    <br>
+
+    <p lang="en-GB" align="LEFT">
+        <strong>Topics:</strong>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#b">Data protection compliance</a></u>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#c">The information we collect from you</a></u>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#d">An important note to parents or guardians</a></u>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#e">How we use personal information</a></u>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#f">Disclosure of your personal information</a></u>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#g">Tracking technology and IP addresses</a></u>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#h">Cookie technology</a></u>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#i">Where we store your personal information</a></u>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#j">Information security</a></u>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#k">Other services</a></u>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#l">Opting out</a></u>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#m">Access to your information</a></u>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#n">How to contact us</a></u>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        <u><a href="#o">Changes to this Privacy Policy</a></u>
+    </p>
+    <br>
+
+    <p lang="en-GB" align="LEFT">
+        <a name="a"></a>
+        <a name="OLE_LINK32"></a>
+        <a name="b"></a>
+        <strong>Data protection compliance</strong>
+    </p>
+    <p lang="en-GB" align="LEFT">
+        </p><p>The Service is controlled by us from our offices in the United Kingdom (“<strong>UK</strong>”). Personal information collected from the Service is processed in accordance with the Data Protection Act 1998 (the “<strong>Act</strong>"), which regulates the processing of personal data in the UK.  We are registered as a data controller in&nbsp;accordance with the Act and comply with UK data protection and privacy law.</p>
+        <p>If you choose to use the Service from outside the UK, you do so at your own risk, with the understanding that personal information collected from the Service may be collected, stored and used in a country whose privacy laws may be different and less protective than those of your home country.</p>
+    <p></p>
+    <br>
+    
+    <p lang="en-GB" align="LEFT">
+        <a name="c"></a>
+        <strong>The information we collect from you</strong>
+    </p>
+    <p>When you use the Service (such as when registering as a member and/or using our paid-for services), you may be asked to provide personal information that identifies you personally (including “personal data” and “sensitive personal data”, as defined in the Act).  This may include your name, postal address, email address, telephone number, fax number, gender, date of birth, country and/or preferred language.  From time to time, you may be asked to submit personal information in order to receive or use parts of the Service or for the purposes further described in this Privacy Policy. By entering your details in the fields requested, you enable us to provide you with the products, content or services you select. If you do not provide us with all or part of the personal information requested, some parts of the Service may not be available to you.</p>
+    <p>Whenever you provide such personal information (whether to us direct or to others collecting it on our behalf) or we receive it with your permission from third parties (such as social network operators), we&nbsp;will treat that information in accordance with this Privacy Policy.</p>
+    <p>You may decide to make certain information available for other users of the Service to see (for&nbsp;example, in the course of playing an online or mobile game).  In this context, you should only provide information that you are entirely comfortable with providing, and we strongly recommend that you do not provide any details that could be used to make personal contact with you.
+    We may also collect certain anonymous usage data, such as pages visited and services used within the Service. This information is not personally identifiable information and generally is not aggregated with your personal information. If it is aggregated with personal information in a way that makes you personally identifiable, we will treat the aggregated information as personal information under this Privacy Policy. We generally use usage data to improve our services to you and to customise and enhance your experience of the Service.</p>
+    <br>
+
+    <p lang="en-GB" align="LEFT">
+        <a name="d"></a>
+        <strong>An important note to parents or guardians</strong>
+    </p>
+    <p>We encourage parents or guardians to take an active interest in their children's use of online or mobile platforms, including the Service. Their involvement is essential to help ensure a safe and rewarding experience for their children. Parents or guardians should be aware that there are software tools available that screen objectionable content and allow you to prevent children from disclosing their personal information without your permission.</p>
+    <p>We will not intentionally collect any personal information from children under the age of 13. Children under the age of 13 can participate in all activities on the Service that do not require submission of personal information. They may view, but may not under any circumstances participate in activities that require submission of personal information, such as message boards, contests or sweepstakes.</p>
+    <p>In addition we take particular care when processing the personal information of children aged 13 or older to ensure that such information is processed in accordance with the Act.</p><p>
+    <br>
+
+    </p><p lang="en-GB" align="LEFT">
+        <a name="e"></a>
+        <strong>How we use personal information</strong>
+    </p>
+    <p>We may use personal information collected from the Service to enable your efficient use of the Service, as well as for marketing, promotions, research, analysis, product service and development. Where permitted, we may occasionally use your personal information to contact you by telephone, fax, email, SMS or otherwise in writing to inform you about our products.</p>
+    <p>We will not use your personal information for marketing or promotional purposes without having first obtained your consent to do so. In any further marketing or promotional communications we send to you, we will give you the opportunity to withdraw your consent to receiving such communications in the future. To do so, please follow the unsubscribe instructions on the communications you receive.  If&nbsp;you have opted in to allow us to share your personal information with third-party providers of products, content or services that we believe may be of interest to you, you can opt out of further direct communications from any such third party by contacting that third party direct.</p>
+    <p>We may also use your personal information for the purposes of:</p>
+    <ul>
+        <li><p>processing and administering your registration as a member and/or use of paid-for products, content or services;</p></li>
+        <li><p>performing any contracts concluded between you and us (including our Terms of Use and any relevant end-user licence agreement), including providing you with the part(s) of the Service that you have requested, along with any support services and any related information and communications;</p></li>
+        <li><p>running competitions and other promotional events;</p></li>
+        <li><p>conducting surveys as to the quality of the Service or of parts of it;</p></li>
+        <li><p>miscellaneous customer service correspondence (such as notifying you of changes to our products, content or services);</p></li>
+        <li><p>processing details of your personal interests and preferences submitted to us via the Service;</p></li>
+        <li><p>processing details of your use of the Service (including traffic data, location data and other communication data) and your online or wireless activity on the Service (including information on your game usage, such as your scores and rankings); and</p></li>
+        <li><p>any other general or special use that you may permit under any particular request for permission that we may make from to time.</p></li>
+    </ul>
+    <p>We reserve the right to monitor your account and records to check any complaint or allegation of abuse, infringement of third-party rights or any other unauthorised use of the Service.</p>
+    <br>
+    <p lang="en-GB" align="LEFT">
+        <a name="f"></a>
+        <strong>Disclosure of your personal information</strong>
+    </p>
+    <p>We may disclose your personal information to any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 (whether based within or outside the European Economic Area).</p>
+    <p>We may disclose your personal information to third parties where:</p>
+    <ul>
+        <li><p>they provide products, content or services to us in connection with your use of the Service;</p></li>
+        <li><p>we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets;</p></li>
+        <li><p>our company or substantially all of our assets are to be acquired by a third party, in which case we may disclose your personal information to the prospective acquirer and personal data held by us about users of the Service will be one of the transferred assets; and/or</p></li>
+        <li><p>we reasonably believe that we need to disclose your personal information to other person(s) (a) by order of any court or governmental or regulatory body of competent authority, (b)&nbsp;to&nbsp;comply with any legal obligation, (c) to enforce or apply our Terms of Use or other contracts and/or (d) to protect our, our customers’ or any other third parties’ rights, property or safety (including exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).</p></li>
+    </ul>
+    <p>We may also process your personal information to anonymise and aggregate it with other data and to&nbsp;disclose such anonymous and aggregate data to our affiliates and/or business partners.</p>
+    <p>Certain parts of the Service may allow you to post personal information alongside content generated by you (such as on message boards or through game play).  In doing so, you accept that such personal information will be disclosed to other users of the part of the Service concerned, and we are not responsible for information or content that you choose to post in this way.  Please think carefully before deciding what information to share in this way, and you are strongly advised not to share any data that would personally identify you (or your address or location).</p>
+    <p>Except as required or allowed by law or as set out in this Privacy Policy, we will not disclose or dispose of your personal information to any third party without your permission.</p>
+    <br>
+    <p lang="en-GB" align="LEFT">
+        <a name="g"></a>
+        <strong>Tracking technology and IP addresses</strong>
+    </p>
+    <p>We may collect and process certain information about your device and your use of the Service for system administration and/or to provide certain parts of the Service, including (where available) your IP address, geolocation information, mobile network information, hardware model, device serial number, unique device identifier, operating system and browser type, as well as details of how and when you access and use the Service. This comprises statistical data about our users' browsing actions and patterns, and does not, in itself, identify any individual.</p>
+    <p>We may, however, link IP addresses and other unique identifiers to personal data (such as a user’s country or a user ID) and/or non-personal data (such as a user’s access location or usage record) in&nbsp;order to provide certain parts of the Service and/or to enforce our Terms of Use or other user contracts, and we may block certain IP addresses from accessing all or any part of the Service in the event of a user abuse. In particular, our Japanese affiliate may use automated tracking tools to prevent or stop users from engaging in fraudulent activities or unauthorised uses of the Service (such as unauthorised commercial use of items obtained via game play).</p>
+    <p>Certain parts of the Service may give you the option to manage location tracking (such as turning it on or off, except for the essential location purposes noted above).  If you wish to terminate our tracking, please uninstall or cease using the relevant parts of the Service.</p>
+    <br>
+
+    <p lang="en-GB" align="LEFT">
+        <a name="h"></a>
+        <strong>Cookie technology</strong>
+    </p>
+    <p>A "cookie" is a small text file deposited on your device when you access an online or mobile site. We&nbsp;may use cookies to monitor your use of the Service and to customise your experience of it.</p> 
+    <p>For further details, please refer to our <u>Cookies Policy</u>.</p>
+    <br>
+
+    <p lang="en-GB" align="LEFT">
+        <a name="i"></a>
+        <strong>Where we store your personal information</strong>
+    </p>
+    <p>All information you provide to us is stored on secure servers hosted by us or third parties providing hosting, payment or other services for us.</p>
+    <p>The information we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("<strong>EEA</strong>"), including any destination where the privacy laws of the country concerned may be different and less protective than those of EEA countries. It may also be processed by personnel operating outside the EEA who work for us or for one of our suppliers. Such personnel may be engaged in, among other things, the processing of your payment details (where applicable) and the provision of support services.</p>
+    <p>By submitting your personal information, you agree to this transfer, storing and processing.</p>
+    <br>
+
+    <p lang="en-GB" align="LEFT">
+        <a name="j"></a>
+        <strong>Information security</strong>
+    </p>
+    <p>We take every reasonable precaution to protect against the loss, misuse or alteration of your personal information and to ensure that it will be processed in accordance with this Privacy Policy. Any payment transactions will be encrypted. Where we have given you (or you have chosen) an account password that enables you to access certain parts of the Service, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
+    <p>Unfortunately, the transmission of information via the internet, mobile networks or wireless technology is not completely secure, nor is any method of electronic storage. You acknowledge and accept that others may intercept or otherwise access the personal information you provide to us, and that any such transmission or storage is at your own risk. Once we have received your information, we use strict procedures and security features to try to prevent unauthorised access.</p>
+    <p>One easy and important way to protect your personal information is to keep your account password confidential and to close your browser when you are away from your device.</p>
+    <p>You can check and edit the personal information we hold about you at any time via the Service or by contacting us by email or post (details <u><a href="#n">below</a></u>).</p>
+    <br>
+
+    <p lang="en-GB" align="LEFT">
+        <a name="k"></a>
+        <strong>Other services</strong>
+    </p>
+    <p>The Service may interact with other online or mobile products, content or services (such as websites, social networks or mobile applications), including via (a) links from or to the Service, (b) Service log-ins hosted by third-party sites or applications and (c) Service content hosted on third-party sites or applications (such as social media plug-ins).</p><p> 
+    </p><p>We may provide some of your personal information to (or&nbsp;receive it from) the operators of such third-party sites or applications, where required for the effective provision of such interactive features (including in the context of in-game or in-site advertising or co-branded offerings provided by us in association with third parties). We are not responsible and accept no liability for their content or their operators’ privacy practices (including any tracking technologies that they may use).  Before providing any personal information to them, please refer to their relevant privacy and cookies policies.</p>
+    <br>
+
+    <p lang="en-GB" align="LEFT">
+        <a name="l"></a>
+        <strong>Opting out</strong>
+    </p>
+    <p>If, at any time, you wish us to stop using your personal information or to correct any factual inaccuracies, just contact us by email or post (details <u><a href="#n">below</a></u>). Be sure to state "opt-out" in the subject line, and to include your full name, registered user ID (if any) and email address in the message.  We will try to make the requested changes in our active databases as soon as reasonably practical.  Please note that residual data may be retained on back-up media or for other technical or administrative reasons.</p>
+    <br>
+
+    <p lang="en-GB" align="LEFT">
+        <a name="m"></a>
+        <strong>Access to your information</strong>
+    </p>
+    <p>If you would like a copy of the personal information that we hold about you, just contact us by email or post (details <u><a href="#n">below</a></u>). Be sure to state "Copy personal information" in the subject line, and to include your full name, registered user ID (if any) and email address in the message. If requested, we will use reasonable efforts to supply, correct or (as appropriate) delete information about you on our files.</p>
+    <br>
+
+    <p lang="en-GB" align="LEFT">
+        <a name="n"></a>
+        <strong>How to contact us</strong>
+    </p>
+    <p>If you have any questions on this Privacy Policy or our use of your personal information, you can email us at <u>eu.privacypolicy@square-enix.com</u> or write to us at Square Enix Limited, 240 Blackfriars Road, London, SE1 8NW marking any correspondence for the attention of the Legal and Business Affairs Department.</p>
+    <br>
+
+    <p lang="en-GB" align="LEFT">
+        <a name="o"></a>
+        <strong>Changes to this Privacy Policy</strong>
+    </p>
+    <p>We keep our Privacy Policy under regular review, and we may at any time update or otherwise modify this Privacy Policy. We will notify you of any changes to our Privacy Policy by posting the modified Privacy Policy on the Service. By then continuing to use the Service, you will be bound by the modified Privacy Policy. You are encouraged to check the terms of our Privacy Policy whenever you access the Service.</p>
+    <br>
+
+    <p align="LEFT">
+        <strong>Last modified: 13 February 2014</strong>
+    </p>
+    <br>
+	</div>
+</div>
+			</div>
+
+					</div>
+
+		<div id="footer" class="container-20">
+			<div class="footer-links">
+	<div class="footer-content">
+		<div class="links">
+			<ul>
+				<li>
+					<a href="/en/aboutus">
+						About us					</a>
+				</li>
+				<span>·</span>
+				<li>
+					<a href="/en/jobs">
+						Jobs					</a>
+				</li>
+				<span>·</span>
+				<li>
+																<a href="http://support.eu.square-enix.com/" target="_blank">
+											Support					</a>
+				</li>
+				<span>·</span>
+				<li>
+					<a href="http://www.square-enix.com/eu/global.html" target="_blank">
+						Global site					</a>
+				</li>
+			<ul>
+			<ul>
+				<li>
+					<a href="/en/documents/tnc">
+						Terms of Use					</a>
+				</li>
+					<span>·</span>
+				<li>
+					<a href="/en/documents/unsol">
+						Unsolicited Content Policy					</a>
+				</li>
+									<span>·</span>
+					<li>
+						<a href="/en/documents/privacy">
+							Privacy Policy						</a>
+					</li>
+							<span>·</span>
+				<li>
+					<a href="/en/documents/cookies">
+						Cookie Policy					</a>
+				</li>
+									<span>·</span>
+				<li>
+					<a href="/en/mobile">
+						SE Mobile Site					</a>
+				</li>
+					<span>·</span>
+				<li>
+					<a class="feed" href="http://feeds.feedburner.com/square-enix/en" target="_blank">
+						<span>RSS</span>
+					</a>
+				</li>
+			</ul>
+		</ul></ul></div>
+
+		<div class="langs">
+			<span class="flags en_GB"></span>
+			<a href="/en/change/langs">English (UK)</a>		</div>
+	</div>
+</div>
+
+<div class="footer-text">
+	© 2015 SQUARE ENIX LTD. All Rights Reserved<br>SQUARE ENIX and the SQUARE ENIX logo are trademarks or registered trademarks of Square Enix Holdings Co., Ltd.<br>Square Enix Limited, Registered in England No. 01804186 - Registered office: 240 Blackfriars Road, London, SE1 8NW.		</div>
+</div>
+					</div>
+	
+
+
+	<!-- Start Harvester 2.0 -->
+	<script type="text/javascript">
+		var _harv = {"tag":"DRAKE"};
+		(function() {
+		var H = document.createElement('script'); H.type = 'text/javascript'; H.async = true;
+		H.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'harvester.netops.eidosinteractive.com/harv.js?'+Math.random();
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(H, s);
+		})();
+	</script>
+	<!-- End Harvester 2.0 -->
+
+<div id="fb-root"></div>
+
+<script type="text/javascript">
+(function(doc, script) {
+		var js,
+				fjs = doc.getElementsByTagName(script)[0],
+				add = function(url, id) {
+						if (doc.getElementById(id)) {return;}
+						js = doc.createElement(script);
+						js.src = url;
+						id && (js.id = id);
+						fjs.parentNode.insertBefore(js, fjs);
+				};
+
+		// Google Analytics
+		//add(('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js', 'ga');
+		// Facebook SDK
+		add('//connect.facebook.net/en_EN/all.js#xfbml=1&appId=119657611400171', 'facebook-jssdk');
+		// Twitter SDK
+		add('//platform.twitter.com/widgets.js', 'twitter-wjs');
+}(document, 'script'));
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-20596550-2']); 
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"ffc36bd837","applicationID":"1846814","transactionName":"NgZTbBNVDRJQAhUPVg9McFsVXQwPHgwVCFo+B15b","queueTime":0,"applicationTime":342,"ttGuid":"","agentToken":"","atts":"GkFQGltPHhw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
