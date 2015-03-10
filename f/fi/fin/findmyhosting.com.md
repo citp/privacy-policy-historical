@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the findmyhosting.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209193302id_/http%3A//www.findmyhosting.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmyhosting.com privacy policy that was archived on 2015-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150310060408id_/https%3A//www.findmyhosting.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-FindMyHosting.com created a privacy policy (described herein) to show our dedication and commitment to the privacy of the users of our website. Please read the following to gain an understanding of our privacy policy. If you have any questions whatsoever regarding this policy, please fill out the following [contact form](https://web.archive.org/contact/) and a FindMyHosting.com representative will respond to your query as soon as possible.
+FindMyHosting.com created a privacy policy (described herein) to show our dedication and commitment to the privacy of the users of our website. Please read the following to gain an understanding of our privacy policy. If you have any questions whatsoever regarding this policy, please fill out the following [contact form](https://www.findmyhosting.com/contact/) and a FindMyHosting.com representative will respond to your query as soon as possible.
 
 ### What information do we collect from users and how is it used?
 
-This Privacy Policy governs the manner in which FindMyHosting.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [FindMyHosting.com](http://www.findmyhosting.com/) website ("Site"). This privacy policy applies to the Site and all services offered by FindMyHosting.com.
+This Privacy Policy governs the manner in which FindMyHosting.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [FindMyHosting.com](https://www.findmyhosting.com/) website ("Site"). This privacy policy applies to the Site and all services offered by FindMyHosting.com.
 
 ### Personal Identification Information
 
@@ -85,16 +85,3 @@ Miami FL 33131
 [privacy@FindMyHosting.com](mailto:privacy@findmyhosting.com)
 
 This document was last updated on March 09, 2013 
-
-**Warning** : mysql_real_escape_string() [[function.mysql-real-escape-string](https://web.archive.org/web/20140209193302id_/http://www.findmyhosting.com/privacypolicy/function.mysql-real-escape-string)]: Access denied for user 'nobody'@'localhost' (using password: NO) in **/home/findmyho/public_html/flite/core.lib/database.sqlbuilder.php** on line **126**
-
-**Warning** : mysql_real_escape_string() [[function.mysql-real-escape-string](https://web.archive.org/web/20140209193302id_/http://www.findmyhosting.com/privacypolicy/function.mysql-real-escape-string)]: A link to the server could not be established in **/home/findmyho/public_html/flite/core.lib/database.sqlbuilder.php** on line **126**
-
-**Warning** : mysql_real_escape_string() [[function.mysql-real-escape-string](https://web.archive.org/web/20140209193302id_/http://www.findmyhosting.com/privacypolicy/function.mysql-real-escape-string)]: Access denied for user 'nobody'@'localhost' (using password: NO) in **/home/findmyho/public_html/flite/core.lib/database.sqlbuilder.php** on line **126**
-
-**Warning** : mysql_real_escape_string() [[function.mysql-real-escape-string](https://web.archive.org/web/20140209193302id_/http://www.findmyhosting.com/privacypolicy/function.mysql-real-escape-string)]: A link to the server could not be established in **/home/findmyho/public_html/flite/core.lib/database.sqlbuilder.php** on line **126**
-
-**Warning** : mysql_real_escape_string() [[function.mysql-real-escape-string](https://web.archive.org/web/20140209193302id_/http://www.findmyhosting.com/privacypolicy/function.mysql-real-escape-string)]: Access denied for user 'nobody'@'localhost' (using password: NO) in **/home/findmyho/public_html/flite/core.lib/database.sqlbuilder.php** on line **126**
-
-**Warning** : mysql_real_escape_string() [[function.mysql-real-escape-string](https://web.archive.org/web/20140209193302id_/http://www.findmyhosting.com/privacypolicy/function.mysql-real-escape-string)]: A link to the server could not be established in **/home/findmyho/public_html/flite/core.lib/database.sqlbuilder.php** on line **126**  
-﻿
