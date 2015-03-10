@@ -1,71 +1,65 @@
-> *The following text is extracted and transformed from the zbmath.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702085310id_/http%3A//www.fiz-karlsruhe.de/fiz_privacy_policy.html%3F%26L%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zbmath.org privacy policy that was archived on 2015-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150310035539id_/http%3A//www.fiz-karlsruhe.de/fiz_privacy_policy.html%3F%26L%3D1) for the most accurate reproduction.*
 
 # FIZ Karlsruhe: Privacy Policy
 
-At FIZ Karlsruhe, the customer's right to data security and protection of data privacy is a primary concern. We therefore strictly comply with the data protection laws in the processing of personal data of customers visiting our Web sites. 
+At FIZ Karlsruhe, the customer's right to data security and protection of data privacy is a primary concern. We therefore strictly comply with the data protection laws in the processing of personal data of customers visiting our website. ****
 
-**1\. Your consent**
+**I. Collection and use of personal data**
 
-Your entering your personal data when visiting our Web sites will be deemed consent to your personal data being processed and used for the performance and handling of the information services you order, as well as for other purposes explained below (in clauses 2, 3, and 6). You have the right to revoke your consent at any time and from then on. However, FIZ Karlsruhe will be entitled to continue to use your personal data for the period of time required for executing still outstanding orders if any.  
- 
+FIZ Karlsruhe only asks for specific categories of personal data and uses these data only for specific purposes.
 
-**2\. FIZ Karlsruhe only asks for specific categories of personal data and uses these data only for specific purposes**
+ **1\. Log Files und Cookies**  
+As a default, our server will store your IP address, the web page you visit, the web page from which you access our website, as well as date and duration of your visit, whenever you access our website. However, we will not identify our visitors or monitor their individual actions.   
+We use log files containing customer IP addresses exclusively to  
+a) gather statistical information for aggregate use  
+b) analyze general use of our Web sites  
+c) trace our customers' movements through our sites in case of malfunctions   
+d) carry out IP authentications on special request from our customers. For this purpose, the IP addresses are stored according to the domain, i.e. their localization on a network segment, but not allocated to individual computers, unless the customer expressly requests a more specific user identification and discloses the allocation of IP addresses and users beforehand.
 
-In a few areas on our Web sites and online customer support tools, we may request information from you when you 
+We will not use customer IP addresses for any other purposes than the ones outlined in items a) to d) above.   
+FIZ Karlsruhe's website uses Piwik, an Open Source software for statistical analysis of visitor access. This software also uses cookies. The information about how you use our web offer obtained through these cookies is stored on our own servers in Germany. The IP address will be anonymized immediately after processing and prior to storage. You may prevent the installation of the cookies by setting your browser software accordingly.  As an alternative, [you may contact us here](https://web.archive.org/web/20150310035539id_/http%3A//www.fiz-karlsruhe.de/fiz_piwik_opt_out.html?&L=1) and tell us you do not want us to keep a log of your activities on our website. In this case we will store a cookie containing this information on your computer. As long as this cookie is installed on your computer, we will not log any of your visits to our website made from this end device. Should you use several end devices to access our website (e.g., a computer and a mobile phone), you have to repeat this procedure for each device.   
+If your computer does not accept cookies, certain features of the system will not be available. 
 
-register as a customer   
-place an order   
-provide feedback in an online survey   
-participate in a promotional offer or product test   
-request an e-mail notification   
-subscribe to a newsletter, mailing list, etc.   
-For those and other purposes, we have to ask you for your name, e-mail address, phone number, address and type of business as well as other personal information that is needed for you to register or subscribe to services. Your personal details, or information relating to your orders, will be used only for the specific purposes. Your information will be shared, however, with agents or contractors of FIZ Karlsruhe to the extent necessary to perform the information services you ordered, or render technical support you may need. 
+**2\. Personal Data**  
+In a few areas on our web pages and online customer support tools, we may request information from you when you  
+a) provide feedback in an online survey   
+b) participate in a promotional offer or product test   
+c) request an e-mail notification   
+d) subscribe to a newsletter or  
+e) subscribe to a mailing list.   
 
-Except for the purposes described above, your personal data will not be sold or disclosed to any outside organization for its use in marketing or solicitation without your consent. 
 
-If you subscribe to newsletters or mailing lists you will have the right to cancel subscription at any time and have your personal data cleared. 
+For these purposes, we have to ask you for your name, e-mail address, phone number, address and type of business. Other personal information is only requested if you would like to register as a customer or subscribe to our services. The relevant data privacy regulations are contained in the respective Terms and Conditions of Use.   
+Providing personal data is not mandatory. Your personal details will only be used for the purposes for which they were provided. By submitting your personal data you consent to these data being used and processed by us for the purposes mentioned above. 
 
-FIZ Karlsruhe will advise you in good time of any anonymous, pseudonym-based, payment and ordering modalities as soon as these are available.  
- 
+**3\. Revocation**  
+You have the right to revoke your consent at any time with effect for the future. Please note that in this case we will no longer be able to provide the services listed under items no. 2 a) to e) above. If you have subscribed to a newsletter or mailing list, you may revoke this subscription at any time.   
+FIZ Karlsruhe also ensures that the data collected about the individually accessed web pages (usage data) are anonymized immediately after the end of the session and that they are used exclusively for statistical analysis by means of the Piwik software tool mentioned above. The data will be deleted immediately afterwards. ****
 
-**3\. Log Files, Cookies**
+**II. Disclosure of personal data**
 
-FIZ Karlsruhe uses log files containing customer IP addresses exclusively to gather statistical information for aggregate use   
-analyze general use of our Web sites trace our customers’ movements through our sites in case of malfunctions   
-carry out IP authentications on special request from our customers. For this purpose, the IP addresses are stored according to the domain, i.e. their localization on a network segment, but not allocated to individual computers, unless the customer expressly requests a more specific user identification and discloses the allocation of IP addresses and users beforehand.   
-We do not identify our customers or monitor their individual actions. Data analysis as described in clauses c) and d) is subject to the customer’s consent. We do not evaluate our customers’ IP addresses for further purposes. 
+Your personal data will not be sold or in any other way disclosed to any outside organization for its use in marketing or solicitation without your consent.  Please note that other websites that may be accessed through our sites may request personal data from you. This Privacy Statement of FIZ Karlsruhe applies in no way to any third-party sites. In your own interest, please be careful and responsible whenever you are online and protect your password and other information against unauthorized third-party access.  
+Personal data will only be disclosed to public authorities if this is absolutely necessary to protect the national or public security, or for the purpose of criminal prosecution.   
+FIZ Karlsruhe reserves the right to use your data to assert or to fend off claims. ****
 
-When using cookies, only those data of the communicating computer (user PC) are stored which are indispensable for the convenient use of our services. If the communicating computer does not accept cookies, some of the selected system functions will not be available. 
+**III. Data Security**
 
-Alternatively, you can let us know [here](https://web.archive.org/web/20140702085310id_/http%3A//www.fiz-karlsruhe.de/fiz_piwik_opt_out.html?&L=1.) that you do not want your sessions to be logged.
+  
+FIZ Karlsruhe web pages have security measures in place to prevent loss, misuse, and alteration of the information under our control, and we use our best efforts to protect your personal data in compliance with the relevant German data protection laws. However, FIZ Karlsruhe cannot fully warrant the security of information you transmit to us, and you do so at your own risk. 
 
-**4\. Third-Party Sites**
+**IV. Right to be informed**
 
-Please note that other Web sites that may be accessed through our sites may request personal data from you. This Privacy Statement of FIZ Karlsruhe applies in no way to third-party sites. Any change from our Web site to other sites will be clearly indicated (by marking further links; by opening a new window with the provider’s URL address). 
+Upon request, FIZ Karlsruhe will inform you in writing or by e-mail which of your personal data are stored with us. 
 
-Please be careful and responsible whenever you are online and protect your STN password or other information against unauthorized third-party access.  
- 
+**V. Correct/Update and Choice/Opt-Out**
 
-**5\. Data Security**
-
-FIZ Karlsruhe Web sites have security measures in place to prevent loss, misuse, and alteration of the information under our control, and we use our best efforts to protect your personal data in compliance with the relevant German data protection laws. However, FIZ Karlsruhe cannot fully warrant the security of information you transmit to us, and you do so at your own risk. If you wish, your data will be protected by SSL against unauthorized external access during the transmission.  
- 
-
-**6\. Correct/Update and Choice/Opt-Out**
-
-If you find factual inaccuracies in your personal data previously transmitted to FIZ Karlsruhe, or in case of changes in your personal details, please send an e-mail to [helpdesk(at)fiz-karlsruhe(dot)de](mailto:helpdesk@fiz-karlsruhe.de) or send mail to the following address, indicating the necessary corrections: 
-
+If you find factual inaccuracies in your personal data previously transmitted to FIZ Karlsruhe, or in case of changes in your personal details, please send an e-mail to [helpdesk(at)fiz-karlsruhe(dot)de](mailto:helpdesk@fiz-karlsruhe.de) or send mail to the following address, indicating the necessary corrections:  
 FIZ Karlsruhe  
 Customer Service  
 Hermann-von-Helmholtz-Platz 1  
 76344 Eggenstein-Leopoldshafen  
 Germany 
 
-Furthermore, you can opt in on this site to receive occasional e-mail with information about the range of our products and services. Opting out of receiving such communications is possible at any time by sending an e-mail to the address given above (please be sure to include your name and e-mail address in the correspondence), or sending mail to the postal address given above.  
- 
+**VI. Questions**
 
-**7\. Questions**
-
-If you have questions relating for example to this Privacy Statement, your automated personal data file stored at FIZ Karlsruhe, or other Web sites of FIZ Karlsruhe and relevant modalities of access and use, please apply to Webmaster of FIZ Karlsruhe. 
-
-(Revised: November 2013)
+If you have questions relating to this Privacy Statement or to our web pages and relevant modalities of access and use, please send an e-mail to our Webmaster.
