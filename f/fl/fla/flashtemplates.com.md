@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashtemplates.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218144336id_/http%3A//www.flashtemplates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashtemplates.com privacy policy that was archived on 2015-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150311204555id_/http%3A//www.flashtemplates.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FlashTemplates.com
 
