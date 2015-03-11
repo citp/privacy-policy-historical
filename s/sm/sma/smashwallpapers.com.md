@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashwallpapers.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709121833id_/http%3A//www.smashwallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashwallpapers.com privacy policy that was archived on 2015-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150311104707id_/http%3A//www.smashwallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smash Wallpapers - Free source for top quality wallpapers from the world
 
