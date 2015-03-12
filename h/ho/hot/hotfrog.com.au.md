@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotfrog.com.au privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026052838id_/http%3A//www.hotfrog.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfrog.com.au privacy policy that was archived on 2015-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150312130038id_/http%3A//www.hotfrog.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # Hotfrog Privacy Policy
 
@@ -91,7 +91,7 @@ You can request access to the personal information we hold about you by making a
 
 ####  Changing and deleting the information we have about you
 
-If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Cirrus Media Privacy Officer at [Contact us](https://web.archive.org/ContactUs.aspx?Reason=Legal) legal@hotfrog.com.au. If you wish to have your personal information deleted, please let us know in the same manner as referred to above. 
+If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Cirrus Media Privacy Officer at [Contact us](https://web.archive.org/ContactUs.aspx?Reason=Legal) . If you wish to have your personal information deleted, please let us know in the same manner as referred to above. 
 
 We will take all reasonable steps to change or delete information in response to such a request. If there is a reason that we cannot make that change or deletion, we will inform you of that reason. 
 
