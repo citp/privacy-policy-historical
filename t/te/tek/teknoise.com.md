@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teknoise.com privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919013805id_/http%3A//www.teknoise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teknoise.com privacy policy that was archived on 2015-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150312082702id_/http%3A//www.teknoise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TekNoise
 
