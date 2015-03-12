@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virtuoso.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017163924id_/http%3A//www.virtuoso.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuoso.com privacy policy that was archived on 2015-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150312163000id_/http%3A//www.virtuoso.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Virtuoso - Privacy Policy
 
-**Last Updated** : March 22nd, 2013
+**Last Updated** : January 22, 2014
 
 The following Privacy Policies (hereinafter “ **Policy** ” or “ **Policies** ”) apply to both a Visitor’s use of the Virtuoso.com web pages (hereinafter “ **Website** ”), as well as use by Authorized Users who  have access to the content and features therein. The terms "you" or “your” refer to the individuals using the Website.  The terms “ **we** ”, “ **our** ” or “ **us** ” refer to Virtuoso Ltd. (“ **Virtuoso** ”).
 
@@ -74,6 +74,10 @@ We may affiliate with third party ad networks, including Google, to either displ
 
 **Security of Information**
 
-We take the need to protect Personal Information seriously and we make commercially reasonable efforts to prevent unauthorized access, use, alteration, or disclosure. However, we cannot guarantee that our security measures are able to completely prevent unauthorized third parties from obtaining and using your personal information for improper purposes.  You must keep secret any user name or password which is registered in connection with your use of the Website.  However, electronic communication may not be secure.  Please be aware of this inherent risk when requesting information or sending Personal Information to us via this Website or other electronic communication (including email, fax, and voice mail).  VIRTUOSO MAKES NO WARRANTIES AS TO THE SECURITY OF YOUR ELECTRONIC COMMUNICATIONS, OR THAT THIRD PARTIES WILL NOT GAIN UNAUTHORIZED ACCESS TO OR MONITOR YOUR COMPUTER OR ELECTRONIC COMMUNICATIONS. 
+We take the need to protect Personal Information seriously and we make commercially reasonable efforts to prevent unauthorized access, use, alteration, or disclosure. However, we cannot guarantee that our security measures are able to completely prevent unauthorized third parties from obtaining and using your personal information for improper purposes.  You must keep secret any user name or password which is registered in connection with your use of the Website.  However, electronic communication may not be secure.  Please be aware of this inherent risk when requesting information or sending Personal Information to us via this Website or other electronic communication (including email, fax, and voice mail).  VIRTUOSO MAKES NO WARRANTIES AS TO THE SECURITY OF YOUR ELECTRONIC COMMUNICATIONS, OR THAT THIRD PARTIES WILL NOT GAIN UNAUTHORIZED ACCESS TO OR MONITOR YOUR COMPUTER OR ELECTRONIC COMMUNICATIONS.
+
+**ClickTale**
+
+This site uses the ClickTale customer experience analytics service.  The ClickTale service helps us analyze how visitors use our Website.  We do not collect through the ClickTale service or transfer to ClickTale any personal identifiable information.  We only use the ClickTale service to record, on a completely anonymous basis, information such as mouse clicks, mouse movements, scrolling activity as well as non-Personally Identifiable Information text you type in this website.  ClickTale does not create a user profile for the purpose of tracking a user across unrelated web sites and will only use such information pursuant to its Privacy Policy (located at [http://www.clicktale.com/privacy_service.aspx).](http://www.clicktale.com/privacy_service.aspx)  You can choose to disable the ClickTale service at <http://www.clicktale.net/disable.html>. 
 
 _**Questions?**_   If you have any questions or concerns about this Policy or the way we collect and use your Personal Information, please feel free to call us at 1-855-570-3827 or write to us at [travel@virtuoso.com](mailto:travel@virtuoso.com).  Your privacy is of the utmost importance to Virtuoso, and we welcome your feedback.
