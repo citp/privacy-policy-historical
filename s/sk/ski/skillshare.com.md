@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skillshare.com privacy policy that was archived on 2013-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130113045219id_/http%3A//www.skillshare.com/ss/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillshare.com privacy policy that was archived on 2015-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150312215202id_/http%3A//www.skillshare.com/ss/privacy) for the most accurate reproduction.*
 
-# Skillshare - Privacy
+# Privacy - Skillshare
 
 Welcome to Skillshare, a community marketplace to learn anything from anyone. The Skillshare web site and service including (without limitation) all websites, mobile applications and other interactive properties through which the service is delivered (collectively, the “Service”) are owned, operated and distributed by SkillShare, Inc., a Delaware corporation (referred to in this Privacy Policy as “Skillshare” or “we” and through similar words such as “us,” “our,” etc.). By accessing any part of the Service, you are agreeing to the terms and conditions described below (this “Privacy Policy”) and the terms and conditions of our terms of service (the “Terms of Service”). If you do not agree to any of these terms, you should not use the Service. This Privacy Policy applies to all users, including both users who are simply viewing content available via the Service and users who have registered as members of Skillshare.
 
-We may, at our sole discretion, modify this Privacy Policy at any time. By accessing the Service at any time after such modifications, you are agreeing to such modifications. This Privacy Policy was last modified as of September 30, 2011.
+We may, at our sole discretion, modify this Privacy Policy at any time. By accessing the Service at any time after such modifications, you are agreeing to such modifications. This Privacy Policy was last modified as of August 4, 2013.
 
 ## General
 
@@ -22,7 +22,7 @@ We use your IP address to help diagnose problems with our server, to administer 
 
 ## Voluntary Disclosure
 
-Any personal information or content that you voluntarily disclose in public areas (such as your Profile page) becomes publicly available and can be collected and used by other users. You should exercise caution before disclosing your personal information via these public venues.
+Any personal information or content that you voluntarily disclose in public areas becomes publicly available and can be collected and used by other users for any reason. Your profile pages and any online classrooms you participate in are typically publicly available, although you have the ability to change the settings to limit access to these areas. You should exercise caution before disclosing your personal information via these or any other public venues.
 
 For example, if you choose to sign up for a free Skillshare account, you may have a Profile page on the site, containing your Full Name and some basic information including your location and bio. You may also add additional optional information to your Profile. You may control what type of Profile information is shown to other through your Account Settings. Any information you choose to provide as part of your profile should reflect how much you want other Skillshare users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.
 
@@ -40,7 +40,7 @@ The Service may contain links to other Web sites or services. We are not respons
 
 ## Teachers
 
-As discussed above, we may give your personal information to the teachers for classes that you sign up for so that they can coordinate their classes. As part of our Terms of Use, Skillshare Teachers agree not to abuse other users' personal information. Abuse is defined as using personal information for any purpose other than those explicitly specified in the Teachers' Class. In addition, because payments are processed through PayPal, we do not receive any credit card information and cannot provide that information to Skillshare Teachers. However, please understand that Skillshare Teachers are not our employees or consultants and that we are not party to any transaction between you and the teacher. As a result, we cannot control their actions and cannot be held liable for any actions that they may take.
+As discussed above, we may give your personal information to the teachers for classes that you sign up for so that they can coordinate their classes. As part of our Terms of Use, Skillshare Teachers agree not to abuse other users' personal information. Abuse is defined as using personal information for any purpose other than those explicitly specified in the Teachers' Class. However, please understand that Skillshare Teachers are not our employees or consultants and that we are not party to any transaction between you and the teacher. As a result, we cannot control their actions and cannot be held liable for any actions that they may take.
 
 ## Miscellaneous
 
@@ -48,8 +48,8 @@ In the event that we are acquired by or merged with a third party entity, we res
 
 The Service is hosted in the United States and is intended for and directed to users in the United States. If you are accessing the Service from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Service, which is governed by United States law, this Privacy Policy, and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.
 
-California Civil Code Section 1798.83 permits users of the Service who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to [hello@skillshare.com](mailto:hello@skillshare.com) or write us at the address listed below.
+California Civil Code Section 1798.83 permits users of the Service who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to [help@skillshare.com](mailto:help@skillshare.com) or write us at the address listed below.
 
 ## Contact Us
 
-If you have any questions, you can contact us at [hello@skillshare.com](mailto:hello@skillshare.com "Email us!").
+If you have any questions, you can contact us at [help@skillshare.com](mailto:help@skillshare.com "Email us!") or at 407 Broome Street 5A, New York, New York 10013.
