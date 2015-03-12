@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the masters.com.au privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704054312id_/https%3A//www.masters.com.au/DIYProjectsIdeas/SupportHelp/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masters.com.au privacy policy that was archived on 2015-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150312141511id_/https%3A//www.masters.com.au/DIYProjectsIdeas/SupportHelp/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Woolworths Group is committed to compliance with privacy laws which apply to its businesses and which set out standards for the management of personal information.
 
-**Respecting your privacy**
+## Respecting your privacy
 
 This policy outlines our personal information management practices. Specifically:
 
@@ -19,7 +19,7 @@ This policy outlines our personal information management practices. Specifically
 
 There are some matters to which this policy does not apply. These are referred to below (see clause 9 below).
 
-**What kinds of personal information do we collect and hold?**
+## What kinds of personal information do we collect and hold?
 
 The personal information we collect and hold is what is reasonably necessary for our business functions and activities. When we collect and hold personal information, it is of the following kinds:
 
@@ -39,7 +39,7 @@ Depending on the nature of your dealings with us, we may collect and hold other 
 
 You generally have the option of not identifying yourself or of using a pseudonym when dealing with us. But not where this is impractical (for example when you shop online with us) or where the law or a court order provides otherwise.
 
-**How do we collect and hold personal information?**
+## How do we collect and hold personal information?
 
 Collection of personal information: When we collect personal information about you, we do so by making a record of it. We do this when:
 
@@ -52,13 +52,13 @@ Collection of personal information: When we collect personal information about y
 
 We may also collect personal information about you by accessing data from other sources and then analysing that data together with the information we already hold about you in order to learn more about your likely preferences and interests.
 
-When you visit our websites, social media pages or mobile applications or click on our advertisements on the online media of other companies, we may collect information about you using technology which is not apparent to you, for example “cookies”. For information about our use of this technology, click on this link to view our **[Cookie Statement](https://web.archive.org/DIYProjectsIdeas/SupportHelp/CookieStatement)**
+When you visit our websites, social media pages or mobile applications or click on our advertisements on the online media of other companies, we may collect information about you using technology which is not apparent to you, for example “cookies”. For information about our use of this technology, click on this link to view our **[Cookie Statement](https://web.archive.org/web/20150312141511id_/https%3A//www.masters.com.au/DIYProjectsIdeas/SupportHelp/CookieStatement)**
 
 Most of the personal information we collect and hold about you is from your direct dealings with us. We may sometimes collect your personal information other than from you directly. For example from other suppliers who, in common with us, have a relationship with you.
 
 Holding of personal information: Personal information we hold is generally stored in computer systems. These may be operated by us or by our service providers. In all cases, we have rigorous information security requirements aimed at eliminating risks of unauthorised access to, and loss, misuse or wrongful alteration of, personal information.
 
-**Why do we collect, hold, use and disclose personal information?**
+## Why do we collect, hold, use and disclose personal information?
 
 When we collect, hold and use your personal information, we do so primarily to sell and promote our goods and services to you and to improve on the range of our offerings. For example:
 
@@ -74,7 +74,7 @@ When marketing to you, your personal information is only ever used or disclosed 
 
 We may de-identify your personal information. We may do this for use and disclosure of the anonymous data to determine preferences and shopping patterns.
 
-**How can you enquire about, access and correct your personal information?**
+## How can you enquire about, access and correct your personal information?
 
 Access: We will provide you with access to any of your personal information we hold (except in limited circumstances recognised by law). If you wish to access your personal information or have an enquiry about privacy, please contact our Privacy Officer at:
 
@@ -92,7 +92,7 @@ Before we provide you with access to your personal information we may require so
 
 Correction: If you need to correct your personal information, please contact our Privacy Officer at one of the above contact points.
 
-**How can you complain about our management of personal information?**
+## How can you complain about our management of personal information?
 
 If you wish to complain about a breach of the privacy rules that bind us, you may contact our Privacy Officer at one of the above contact points. We may ask you to put your complaint in writing and to provide details about it.
 
@@ -100,7 +100,7 @@ We may discuss your complaint with our personnel and our service providers and o
 
 Our Privacy Officer will investigate the matter and attempt to resolve it in a timely way. Our Privacy Officer will inform you in writing about the outcome of the investigation. If our Privacy Officer does not resolve your complaint to your satisfaction and no other complaint resolution procedures are agreed or required by law, our Privacy Officer will inform you that your complaint may be referred to the Privacy Commissioner for further investigation and will provide you with the Commissioner’s contact details.
 
-**Our sharing of your personal information overseas**
+## Our sharing of your personal information overseas
 
 It is our policy to require all of our overseas sharing of personal information to be done in a way which requires observance of strict privacy and security standards, both during transit and at the overseas destination.
 
@@ -114,20 +114,17 @@ We may allow your personal information to be shared with those who are in countr
 
 
 
-  
-**Updates**  
-
+## Updates
 
 This privacy policy is current at the date below. We may change it periodically. If we propose to change this policy, we will display at least 2 weeks’ prior notice of the change on **[www.woolworthslimited.com.au.](http://www.woolworthslimited.com.au/)**
 
-  
-**Other privacy terms and limits of this policy**
+## Other privacy terms and limits of this policy
 
 This is a policy. There may be additional privacy notices and terms relevant to you depending on the nature of your dealings with us and on our particular businesses. There are additional privacy terms in our loyalty program and club membership contracts and for use of our online sites, for example.
 
 We have separate charters concerning our employees – this policy does not apply to the personal information of our employees in their capacity as such.
 
-**More information**
+## More information
 
 More information about privacy law and privacy principles is available from the Privacy Commissioner. The Privacy Commissioner may be contacted at **[www.oaic.gov.au](http://www.oaic.gov.au/)** (email - **[enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)** ) (Australia).
 
