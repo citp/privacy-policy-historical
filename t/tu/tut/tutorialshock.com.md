@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialshock.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124172832id_/http%3A//www.webdesignshock.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialshock.com privacy policy that was archived on 2015-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150313145649id_/http%3A//www.webdesignshock.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
