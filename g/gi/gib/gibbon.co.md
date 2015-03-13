@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gibbon.co privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009230631id_/https%3A//gibbon.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gibbon.co privacy policy that was archived on 2015-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150313215618id_/https%3A//gibbon.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Gibbon
 
