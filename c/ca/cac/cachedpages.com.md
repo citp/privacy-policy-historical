@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cachedpages.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229132403id_/http%3A//www.cachedpages.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cachedpages.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314003053id_/http%3A//www.cachedpages.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Cached Pages - Get the cached page of any URL
 
