@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balancedpayments.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015053342id_/https%3A//www.balancedpayments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balancedpayments.com privacy policy that was archived on 2015-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150313225748id_/https%3A//www.balancedpayments.com/privacy) for the most accurate reproduction.*
 
 # Balanced - Payments processing, escrow, and payouts in one simple API | Privacy policy
 
