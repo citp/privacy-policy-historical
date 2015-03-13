@@ -1,108 +1,99 @@
-> *The following text is extracted and transformed from the geniusbox.net privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027193631id_/http%3A//geniusbox.net/Legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniusbox.net privacy policy that was archived on 2015-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150313143317id_/http%3A//www.geniusbox.net/Legal/privacy) for the most accurate reproduction.*
 
-# privacy
+# 
 
-**ACCEPTANCE**
+[ ](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=229&sealid=112)
 
-This privacy policy is incorporated into and subject to GeniusBox’s [Terms of Service](http://geniusbox.net/Legal/terms/). THE USE OF THE SITE OR ANY OF THE SERVICES CONSTITUTES THE ACCEPTANCE OF BOTH [TERMS OF SERVICE](http://geniusbox.net/Legal/terms/) AND THIS PRIVACY POLICY. If you do not agree with the terms and conditions of either document, please discontinue using the Site and the Services.
+GeniusBox is certified as a Trusted Download Program by TRUSTe signifying that GeniusBox has been tested by TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding GeniusBox, please contact us at Wisconsin Technology Group 11414 W. Park Pl. Suite 202 Milwaukee, Wisconsin 53224-3500 or by email at support@geniusbox.net. If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=229&sealid=112).
 
-**INFORMATION COLLECTED AND HOW WE USE IT**
+GENIUSBOX PRIVACY POLICY
 
-You always remain in control of the information you provide to GeniusBox. We may collect two types of information about visitors: personally identifiable information (such as name, address, telephone number, email address, etc.) which you have voluntarily submitted to us, and aggregate information (such as information about how many visitors log on to our sites, the pages they access, etc.).
+MAY CHANGE FROM TIME TO TIME
 
-In general, you can visit the Site and use the Services without telling us who you are or revealing personal information about yourself. We may collect, maintain and use personal information you have voluntarily submitted to contact you, including via email, to respond to your comments or requests for information, or to contact you if needed in the course of providing information about our services that you may have requested. To better meet your needs, we may supplement the information we collect with data obtained from third parties for the same purposes.
+PLEASE CHECK BACK FREQUENTLY FOR UPDATES
 
-GeniusBox collects data to identify what operating system and browser our users are using. This allows us to ensure our application is working successfully, and notify our users of any pending technology changes. GeniusBox also collects data on websites you have visited and the searches you have conducted in order to show you the most relevant content and ads. The information is also never shared with any 3rd parties. If you would like us to not capture this information, please uninstall GeniusBox.
+Effective as of October 29, 2014
 
-**DATA SHARING AND TRANSFER**
+GeniusBox is your window to Search.  That is how we provide you our robust search experience.  When you search the internet, you talk to us.  So, that means that you need to knowingly consent to GeniusBox’s activities described in this Privacy Policy.  GeniusBox has established this Privacy Policy to disclose our information gathering and dissemination practices for the www.geniusbox.net website and our Services, and to allow you to make an informed decision about how you will use our Services.  Our "Services" include www.geniusbox.net, the services provided thereon, the GeniusBox application, and all related services, applications, components, programs, software, listings, directories, tools, updates, databases and information made available and utilized. References to "you" in this Agreement means you, your duly authorized representatives and any entity you may represent in connection with your use of the Services.
 
-GeniusBox will not trade, sell or share your personal information for use by any third party without your consent, unless required by law or as disclosed to you when the information is collected. We reserve the right to disclose your personally identifiable information based on the good faith belief that such action is necessary or appropriate to: (a) protect and defend the rights or property of GeniusBox, or (b) act in urgent circumstances to protect the safety or security of the public or of users of the Site or Services.
+By using our Services, you are consenting to the terms of this Privacy Policy and all of the activities described herein. If you do not agree to be bound by this Privacy Policy, you should uninstall GeniusBox and not use our Services. We reserve the right to enter into new or different lines of business with consumers and if and to the extent we do, we may display a different privacy policy to the consumer for such lines of business.
 
-Your personal information will generally be stored in our databases, which are located in the United States. Our policy is to ensure that your information is always granted the same level of protection no matter where it is stored. In the event that GeniusBox is involved in a transaction such as a merger, stock purchase or sale, or sale of substantially all of the its assets, your personal information may be transferred to the other party in such transaction.
+This Privacy Policy addresses only our practices with respect to information we collect in the course of using our Services and does not apply to information about you that might be collected by a third party website or an offering linked to or otherwise accessible from our Services. Any information collected, obtained and/or used by any such third parties is subject to the privacy policies of those third parties. We encourage you to review the policies of such third parties. Finally, to the extent any of our Services are undertaken in conjunction with or as a co-branded service with a third party, then both our Privacy Policy and such third party's privacy policy may apply.
 
-**USE OF YOUR PERSONALLY IDENTIFIABLE INFORMATION**
+1.             Collection of Information
 
-Upon our collection of your personally identifiable information, we may use such personally identifiable information internally, separately or in combination with pre-existing information, for the following purposes:
+GeniusBox does not, generally, track or maintain personally identifiable information about consumers that use our Services. However, we may collect personally-identifiable information through the use of our Services upon your contacting us so that we may respond to your questions or comments, such as your name, email or mailing address, or other information you include when contacting us. In addition, as part of the functionality provided by our Service, we may collect and store URLS that you visit which could contain personally identifiable information. We may also collect, use and store information about your search activity when you use web search services (such as search queries) (“Search Data”). This information may be shared with third-party applications that use Search Data to function, or to offer you more customized information, advertising and services. Your Search Data is collected and stored and may include personally identifiable information, depending on your search query. BY USING THE SERVICES, YOU ARE CONSENTING TO GRANT US PERMISSION TO COLLECT YOUR URLS AND SEARCH DATA, INCLUDING SEARCH QUERIES THAT MAY CONTAIN PERSONALLY IDENTIFIABLE INFORMATION, SHARE THEM WITH THIRD PARTIES, AND USE SEARCH-RELATED COOKIES.
 
-  * To provide any requested services;
-  * To troubleshoot problems with the Site, or any Services, as requested;
-  * To customize your experience on the Site and with the Services;
-  * To enforce our [Terms of Service](http://geniusbox.net/Legal/terms/); or
-  * To contact you with more information about us and our services.
+When you use or interact with our Services, we may also collect certain anonymous information that is not sufficient to permit someone to identify you by name, mailing address, telephone number, social security number, driver's license or other government-issued identification. The anonymous information we may have access to, obtain, retain and use may include:
 
+·        Information about your use of our Services, such as the frequency with which you use them, how you use and interact with them, when you visit them, and your responses to the offerings and advertisements made available to you through them, among other things; and
 
+·        Information that may be gathered or received when you use the Services or visit other websites, including, without limitation, the following:
 
-**HOW DO WE PROTECT YOUR INFORMATION?**
+-   The type of browser you are using when using our Services, including your browser's "user agent" (e.g., Internet Explorer, Safari, and other browsers);
 
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+-   Your operating system type, whether Mac OS, or Windows, and which version of Windows;
 
-**BROWSER COOKIES**
+-   Your Internet protocol (IP) address and information about the version of any software comprising a portion of the Services that you use;
 
-As with many other sites, the Site may use “cookies” or other technologies to help us deliver content specific to your interests, to process your inquiries or requests, and/or to analyze your visiting patterns. Cookies, by themselves, will not be used by us to disclose your individual identity. This information identifies your browser, but not you, to our servers when you visit the Site. If you want to disable the use of cookies or remove them at any time from your computer, you can disable or delete them using your browser (consult your browser’s “help” menu to learn how to delete cookies). We may contract with third-party service providers to assist us in better understanding our Site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+o   Your geographic location and the domain name of your Internet service provider (ISP); the URLs and websites that you visit and have visited; your search queries on the web pages you visit; and/or Diagnostic information which describes how our Services are operating on your system.
 
-We may also collect data by using “pixel tags,” “web beacons,” “clear GIFs” or similar means (collectively, “pixel tags”) that allow us to know when you visit the Site. We potentially can combine machine ID with a user’s IP address when installing, uninstalling or activating the Service. Through pixel tags, we obtain non-personal information or aggregate information (i.e., your IP address, the areas of the Site you visit, your operating system, your browser version, the URL you came from and the pages you visited while you were using the Site and Services) which can be used to enhance your online experience and understand traffic patterns.
+All of the foregoing information is collectively referred to hereinafter as "Anonymous Information". We may also supplement Anonymous Information with additional information from other third parties in some cases. Additionally, those portions of the Services comprised of software have been configured to communicate to us any information relating to computer errors arising from use of such software, without providing any notice to you of the delivery of such communications. Such communications may include the configuration settings applicable at the time of the error. We use this data to help us clarify and fix performance issues with and to improve the software and the Services.
 
-**UPDATING YOUR INFORMATION**
+2\. Use of Information
 
-We believe that choice in how and when you are contacted is key to customer satisfaction, so we offer several ways for you to update your contact information:
+(a) Anonymous Information and Search Data is used to (i) operate and improve upon the Services, including all constituent parts of the Services such as the software, the websites and the various offerings, among other things, (ii) research and analyze your use of the Services, and (iii) present you with offers for other products, offerings, programs, features and/or services that may be of interest to you.
 
-  * 1\. You may contact us at [support@geniusbox.net](mailto:support@geniusbox.net) for any inquiry or request regarding our privacy policy or the handling of your personal information.
-  * 2\. You may unsubscribe to any of our e-mails by following the unsubscribe instructions in the body of any e-mail message.
-  * 3\. You also may write to us directly if you wish to: (a) update or delete your contact information; or (b) request that we cease sending you promotional or other information via mail or e-mail. Such written requests should be sent to GeniusBox at the address below.
+We will not share your Anonymous Information and Search Data with third parties unless:
 
+·        You have given us your prior consent to disclose such information;
 
+·        The third party is our parent, subsidiary, or an affiliated company owned by our parent company;
 
-**THIRD-PARTY COMPANIES**
+·        We must disclose some or all of your Anonymous Information to authorized officers of the court in order to comply with valid legal process or to act in other urgent situations (as further discussed below); or
 
-We allow third-party companies to serve ads and these third-party companies may collect certain anonymous information when you visit the Site or use any of the Services. These companies may use non-personally identifiable information during your visits and use in order to provide advertisements about goods and service likely to be of greater interest to you. These companies may use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+·        Such information is needed by third-party advertising networks and advertisers who help deliver relevant ads when you are on a webpage. We only share anonymized or aggregated information and your Search Data with them to improve the relevancy of the ads you see. As mentioned below in section 3, these third-party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests.
 
-**NO ERROR-FREE PERFORMANCE**
+ (b) We note above, but it is worth reiterating here, that your Anonymous Information, as well as your Search Data and other information about you as a user of our Services, may be disclosed by us to those authorized officers of the court in response to valid legal process, including without limitation, a valid court order, search warrant or subpoena), as well as in other circumstances if we believe in good faith that there is an emergency that poses a threat to the safety of you or another person or that the Services are being used in the commission of a crime by your or another third party. Furthermore, we may disclose your Anonymous Information to protect our own rights, Services and property or those of our affiliated providers, in addition to providing you with the Services.
 
-GeniusBox does not guarantee error-free performance. GeniusBox will always try its best to protect its user and data privacy; however, it may not catch all unintended privacy issues. GeniusBox is not responsible for any damages, including incidental, consequential, or punitive damages, relating to the practices described in this policy.
+(c) In the event that ownership of all or a portion of the Services currently provided by GeniusBox were to change as a result of a merger, acquisition or transfer to another company, your Anonymous Information and Search Data may be transferred as well.
 
-**THIRD PARTY LINKS**
+3\. Web Beacons and Cookies
 
-Occasionally, at our discretion, we may include or offer third-party products or services as part of installation with the Services. These third party services have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of the Site and the Services and welcome any feedback about these sites, partners, or services.
+(a) In providing the Services to you, we may use web beacons and cookies or similar technologies in conjunction with your Anonymous Information and Search Data to personalize and improve your use of and experience with the Services, including, without limitation, to operate and improve the Service's offerings; to present, measure and research the effectiveness of our Service's offerings, advertisements, and communications to you, such as by determining which pages you visit, which ads you click on, communications you respond to, and functionality you use; to store and allow retrieval of information that you have provided to third party services that are integrated with the Services, and configuration preferences; and to customize the content and advertisements provided to you through the Services. In addition, third party advertisers might also use cookies or web beacons downloaded through our Services to accomplish many similar goals in connection with the effectiveness of their advertising through our Services and in general. We do not have access to the cookies or web beacons employed by advertisers through our Services and such cookies or web beacons are not governed by this Privacy Policy, but rather by the privacy policy of such advertiser.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted.  You can learn more about cookies and opting-out of the receipt of cookies at http://www.aboutads.info/choices; you can learn more about cookies in general from http://www.cookiecentral.com.
 
-**SPECIAL NOTICE TO CALIFORNIA RESIDENTS**
+(b) Web beacons or clear GIFs are relatively small pieces of code placed on webpages that can be used for a number of purposes, including counting the users who visit that webpage, or to deliver a cookie to the browser of a user viewing that page. A cookie is a small text file transferred from GeniusBox to your computer that records information about your preferences and use of the Services. We may also use such cookies to help us identify your location by determining your IP address, or to allow us to recall certain Service settings that you have chosen previously. You can control cookies through your browser's settings. However, if you reject all cookies, you may not be able to take advantage of most our Service offerings.
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared personal information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of Personal Information shared. If you are a California resident and wish to make such a request, please send an e-mail to [support@geniusbox.net](mailto:support@geniusbox.net) and include the phrase “California Privacy Request” in the subject line, and provide us with your name, address and e-mail address. We will respond to you within thirty (30) days of receiving such a request.
+4\. We Are Committed to Security
 
-**CHILDREN’S ONLINE PRIVACY PROTECTION ACT COMPLIANCE**
+GeniusBox stores Anonymous Information and Search Data in a database on GeniusBox computers. These computers have security measures, such as a firewall, to protect against the loss, misuse, and alteration of the information under GeniusBox's control. Notwithstanding such measures, GeniusBox cannot guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data on them stolen or altered.
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 18 years of age. The Site and Services are all directed to people who are at least 18 years old or older.
+5\. General Internet Hazards
 
-**ONLINE PRIVACY POLICY ONLY**
+Any time you receive files over the Internet from third parties, regardless of the application used, whether GeniusBox, email or other application, you may be subjecting yourself to receiving harmful files or files that are not compatible with your operating system. Prior to accepting any files from any Internet user, including those from an account that appears familiar to you, we highly recommend verifying that the person sending you such files is the person you believe he or she is. You should be extremely careful about accepting files from users you do not trust, from users you do not know, or from users whose identity you have not been able to confirm. You should also be aware that communications sent over the Internet are not secure unless they are encrypted. GeniusBox does not encrypt your communications through the Services. Further, your communications made through GeniusBox may be routed through different countries which may have different laws, rules, regulations and standards regarding activities on the Internet. As such, GeniusBox cannot accept any responsibility for any unauthorized access to your communications made through the Services or any loss of data.
 
-This online privacy policy applies only to information collected through the Site or Services and not to information collected offline.
+6\. European Union Members - International Transfer of Data
 
-**INTERNATIONAL USERS**
+Our Services are international in scope. By using the Services you consent to your Anonymous Information, your Search Data and any personal information that you provide to us being sent and processed in other jurisdictions, including the United States and other jurisdictions outside the European Union and European Economic Area where there may be less stringent data protection laws.
 
-You agree that any claim, action or proceeding arising out of this Privacy Policy, or your use of the Site or the Services, shall be governed by and construed in accordance with the laws of the United States and the State of California, without regard to principles of conflict of laws. Any claim, action or proceeding related to this Privacy Policy will be resolved exclusively in the state or federal courts located in the State of California and you consent to the jurisdiction of those courts. If you are accessing the Site or Services from outside of the United States, your information may be transferred to, stored, and processed in the United States. Your use of the Site and the Services indicates your consent to the transfer of your information to our facilities anywhere across the world and as otherwise described in this Privacy Policy.
+7\. Minors Under Age 18
 
-**Changes to Our Privacy Policy**
+The Resources are intended for a general audience, and children and minors under the age of eighteen (18) are not permitted to access or use the Resources, absent express consent from their parents or guardians. We do not intentionally solicit or collect personal information from anyone under the age of 18. If you believe that we might have any information from or about a minor under age 18, please contact us through our contact form at: http://www.GeniusBox.net/Home/Contact and we will remove it.  If you are a parent or guardian who approves of your minor’s use of the Services, please contact us through the same form, and provide to us the age and email address of your minor on whose behalf you are contacting us.
 
-We will occasionally update this Privacy Policy as necessary to protect our Users and to comply with a changing environment. We recommend that you check the posted Privacy Policy when you visit the Site or use any of the Services to be sure you are aware of and understand our current policy. We will also attempt to take proactive steps to notify you of material changes to our Site and/or Services by displaying messaging on the application itself. Your continued use of the Site and/or the Services means you accept the updated Privacy Policy.
+8\. Changes to this Privacy Policy
 
-****  
-**CONTACTING US**
+GeniusBox may update this Privacy Policy from time to time in its sole discretion, as reflected in the "Effective as of" date above. As such, you should review this Privacy Policy frequently by clicking on the “Privacy Policy” link at the bottom of GeniusBox.net, or visiting this link which you can bookmark:  Http://geniusbox.net/legal/privacy
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+9\. Who We Are
 
-**_GeniusBox LLC  
-_**
+Any references made in this Privacy Policy to "us", "we", "our" and/or "GeniusBox" shall be deemed to have been made to Wisconsin Technology Group, as well as any company that controls Wisconsin Technology Group, directly or indirectly, and any other subsidiary of that controlling company.
 
-**_Liberty 1 at Park Place  
-_**
+10\. More Information
 
-**_**_11414 W Park Place, Suite 202  
-_**_**
+For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org. In addition, the Federal Trade Commission Consumer Response Center offers a helpline at 1-877-FTC-HELP (1-877-382-4357) to allow consumers to make comments or inquiries regarding companies and business practices.
 
-**_**_**_Milwaukee, WI 53224  
-[support@geniusbox.net](mailto:support@geniusbox.net)_**_**_**
+We do not have a mechanism or process to respond to any “do not track” signals which a web browser may send or receive.  However, if you have questions about this Privacy Policy, or if you would like access to personal information we may have about you in our files, to correct, update or to have us delete it, or if you would like to notify us of your choice to opt-out of any sharing of your personal information, please contact us through our contact form at http://geniusbox.net/Home/Contact or write to us at:
 
- ** _ ** _
-
-[**_http://geniusbox.net/#contact_**](http://geniusbox.net/#contact)
-
-_**_****_**__**_**
+Wisconsin Technology Group  
+11414 W. Park Pl. Suite 202  
+Milwaukee, Wisconsin  53224-3500
