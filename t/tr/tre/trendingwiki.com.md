@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trendingwiki.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820235843id_/http%3A//www.trendingwiki.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendingwiki.com privacy policy that was archived on 2015-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150313062321id_/http%3A//www.trendingwiki.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Trending Wiki
+# Privacy Policy | Trending On The Web
 
 ##  **Privacy Policy for www.trendingwiki.com/**  
 
