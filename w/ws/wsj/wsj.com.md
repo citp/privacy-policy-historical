@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsj.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231233236id_/http%3A//online.wsj.com/public/page/privacy-policy.html%3Fmod%3DWSJ_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsj.com privacy policy that was archived on 2015-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150313041840id_/http%3A//www.wsj.com/public/page/privacy-policy.html%3Fmod%3DWSJ_footer) for the most accurate reproduction.*
 
 # Privacy Policy - Wsj.com
 
