@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the digital-muscle.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019025759id_/http%3A//www.digital-muscle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digital-muscle.com privacy policy that was archived on 2015-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150313112847id_/http%3A//www.digital-muscle.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Digital Muscle
 
-### Business Privacy Policy
+## Business Privacy Policy
 
-This privacy policy sets out how digital-muscle uses and protects any information that you give digital-muscle.com when you use this website.
+This privacy policy sets out how Digital Muscle uses and protects any information that you give digital-muscle.com when you use this website.
 
-Digital-muscle.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Digital-muscle is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Digital-muscle.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/01/2012.
+Digital-muscle may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/01/2012.
 
-Digital-muscle.com is a fully incorporated company in Hong Kong.
+Digital Muscle Limited is a fully incorporated company both in Hong Kong and Thailand.
 
 Digital-muscle believes that strong electronic privacy is crucial for the ongoing success of the Internet as a service, commercial and entertainment medium. To this end, unless you designate otherwise, the information you enter here will be known to only two parties: Digital-Muscle and yourself. We pledge that Digital-muscle will not release your personal data to anyone else without your consent – period. You may change the status of whether you wish to receive Digital-muscle offers and communications at any time. When we do present information to our advertisers, unless you tell us otherwise, it is in the form of aggregate statistics compiled among all of our visitors’ answers to survey questions as well as grouped on-site behavior.
 
-### What we collect
+## What we collect
 
 We may collect the following information:
 
@@ -25,7 +25,7 @@ We may collect the following information:
 
 
 
-### What we do with the information we gather
+## What we do with the information we gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -36,19 +36,19 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-### Security
+## Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-### PayPal
+## PayPal
 
 If you choose to use PayPal to finalise and pay for your order, you will provide your credit card number directly to Paypal. Paypal’s Privacy policy will apply to the information you provide on the PayPal website.
 
-### 2Checkout Inc.
+## 2Checkout Inc.
 
 If you choose to use 2Checkout to pay for your order, you will provide your credit card number directly to 2Checkout. Policies regarding this payment gateway is listed on 2Checkout website.
 
-### Refund Policy
+## Refund Policy
 
 Our website is very particular about any feedback from the purchasers of our products. If you send us a message informing about an error, queries or suggestion you will receive a speedy response from our sales team within 24 working hours. As a general rule of thumb we assist with providing you a solution.
 
@@ -60,7 +60,7 @@ We provide refund of your payment in the following scenarios:
 
 
 
-### How we use cookies
+## How we use cookies
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -70,11 +70,11 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-### Links to other websites
+## Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-### Controlling your personal information
+## Controlling your personal information
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
@@ -87,6 +87,6 @@ We will not sell, distribute or lease your personal information to third parties
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-### Modification
+## Modification
 
 Digital Muscle as a company has with it the exclusive right to bring about any modification of the provisions of refund or cancellation policy without intimidating prior notice.
