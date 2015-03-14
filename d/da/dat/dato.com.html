@@ -1,0 +1,1116 @@
+<!--The following is the downloaded HTML source of the dato.com privacy policy that was archived on 2015-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150314234715id_/https%3A//dato.com/legal/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+    
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/ico" href="https://dato.com/favicon.ico">
+  <title>
+  Dato | Privacy Policy
+</title>
+
+  <!--  -->
+  
+  
+
+  
+    <meta property="og:title" content="Privacy Policy">
+    <meta property="og:site_name" content="Dato">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://dato.com/legal/privacy_policy.html">
+    
+    <meta property="og:image" content="https://dato.com/images/dato-logo-stacked-1200x630.png">
+    
+  
+
+  
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@datoinc">
+    <meta name="twitter:title" content="Dato | Privacy Policy">
+    <meta name="twitter:url" content="https://dato.com/legal/privacy_policy.html">
+    
+  <!--  -->
+  
+    
+  
+
+  
+  <style>
+    #dato-logo {
+      background-image: url('https://dato.com/images/dato_logo.svg');
+      background-size: cover;
+      height: 63px;
+      width: 145px;
+    }
+   
+  </style>
+  
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+    <style>
+      span.trademark {
+        font-size: 0.5em;
+        vertical-align: super;
+      }
+    </style>
+    
+    
+        <link href="https://dato.com/styles/GraphLab.css" rel="stylesheet">
+      
+  
+
+
+  
+
+  
+  <script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580357100000/426799.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//d1fc8wv8zag5ca.cloudfront.net/2.1.1/sp.js"></script><script src="https://dato.com/files/vendor/fastclick.js"></script>
+
+  
+  <script src="//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.15/require.min.js"></script>
+  
+  <script type="text/javascript" src="//use.typekit.net/hzm6svm.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+  
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js"></script>
+
+  
+  <script type="text/javascript">
+  require.config({
+    paths: {
+      'react': '//cdnjs.cloudflare.com/ajax/libs/react/0.10.0/react-with-addons.min',
+      'bootstrap': '//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min',
+      'zeroclipboard': '//cdnjs.cloudflare.com/ajax/libs/zeroclipboard/2.2.0/ZeroClipboard.min',
+      'velocity': '//cdn.jsdelivr.net/velocity/1.2.0/velocity.min'
+    },
+    baseUrl: 'https://dato.com/js/'
+  });
+  </script>
+  <script type="text/javascript">
+  // attach handlers when document is ready
+  $( function() {
+    var $menuRight = $('#menuRight'),
+    $pushRightButton = $('#showRightPush'),
+    $body = $('body'),
+    $searchToggler = $('#datoSearchToggler'),
+    $searchForm = $('#dato-search');
+
+    FastClick.attach(document.getElementById('menuRight'));
+
+    function togglePushMenu(evt) {
+      $pushRightButton.toggleClass('active' );
+      $body.toggleClass('cbp-spmenu-push-toleft' );
+      $menuRight.toggleClass('cbp-spmenu-open' );
+      evt.stopPropagation();
+    }
+
+    function closePushMenu(evt) {
+      if ($pushRightButton.hasClass('active')) {
+        togglePushMenu(evt);
+      }
+    }
+
+    //toggle the push menu with the button
+    $pushRightButton.on('click', togglePushMenu);
+
+    $('.nav-pushmenu-menuitem').on('click', function(evt) {
+
+      evt.stopPropagation();
+
+      var $open = $(this).siblings('.open');
+      $open.removeClass('open');
+      $open.find('.nav-arrow').removeClass('nav-rotate');
+
+      //toggle current selection
+      $(this).toggleClass('open');
+      $(this).find('.nav-arrow').toggleClass('nav-rotate');
+    });
+
+    $('body').on('click', closePushMenu);
+
+    //only use window resize to remove push menu, not add it.
+    $(window).on('resize', closePushMenu );
+
+    //attach search form slide handlers
+    $searchToggler.on('click', function() {
+      $searchForm.toggleClass('open');
+      if ($searchForm.hasClass('open')) {
+        $searchForm.slideDown();
+        return;
+      }
+      $searchForm.slideUp();
+      return;
+    });
+  });
+  </script>
+    <script type="text/javascript">
+      require(['GraphLab', 'bootstrap'], function(GraphLab) {
+          $(function() {
+              GraphLab.Nav.attachHandlers([{"items": [{"title": "GraphLab Create", "url": "/products/create/"}, {"hidden": true, "title": "Technology", "url": "/products/create/technology.html"}, {"hidden": true, "title": "Performance", "url": "/products/create/performance.html"}, {"hidden": true, "title": "Features", "url": "/products/create/features.html"}, {"hidden": true, "title": "Capabilities", "url": "/products/create/capabilities.html"}, {"hidden": false, "title": "Get Started", "url": "/products/create/quick-start-guide.html"}, {"hidden": false, "title": "Pricing", "url": "/products/index.html"}, {"hidden": true, "title": "Release Notes", "url": "/products/create/upgrade/index.html"}, {"hidden": true, "title": "Virtual Installation", "url": "/products/create/virtual_install.html"}, {"hidden": true, "title": "GraphLab Create with Enhanced GPU Installation", "url": "/products/create/gpu_install.html"}, {"hidden": true, "title": "Open Source", "url": "/products/create/open_source.html"}, {"hidden": true, "title": "Contact Dato Specialists", "url": "/products/contact-dato-specialist.html"}, {"hidden": true, "title": "Contact Dato Specialists - Thank you", "url": "/products/contact-dato-specialist-thank-you.html"}], "paths": ["/products/create/docs/", "/products/create/sdk/docs/"], "title": "Products", "url": "/products/create/index.html"}, {"items": [{"title": "By Industry", "url": "/uses/index.html"}, {"title": "By Application", "url": "/uses/by_application.html"}], "title": "Uses", "url": "/uses/index.html"}, {"items": [{"paths": ["/learn/gallery/notebooks"], "title": "Gallery", "url": "/learn/gallery/index.html"}, {"title": "How-To", "url": "/learn/how-to/index.html"}, {"title": "Translator", "url": "/learn/translator/index.html"}, {"title": "API Documentation", "url": "/products/create/docs/"}, {"title": "User Guide", "url": "/learn/userguide/"}, {"external": true, "title": "C++ SDK (beta)", "url": "https://github.com/dato-code/GraphLab-Create-SDK"}, {"external": true, "title": "Forum", "url": "http://forum.dato.com"}], "paths": ["/learn/userguide"], "title": "Learn", "url": "/learn/index.html"}, {"items": [{"title": "Upcoming Events", "url": "/events/index.html"}, {"paths": ["/events/conference15/"], "title": "Conference 2015", "url": "/events/conference15/"}, {"hidden": true, "title": "GraphLab Conference 2014", "url": "/events/conference14.html"}, {"hidden": true, "title": "Internship Program", "url": "/events/internship.html"}, {"hidden": true, "title": "User Groups", "url": "/events/usergroups.html"}, {"hidden": true, "title": "LSRS 2014", "url": "/events/lsrs14.html"}, {"hidden": true, "title": "GraphLab Workshop 2013", "url": "/events/workshop13.html"}, {"hidden": true, "title": "LSRS 2013", "url": "/events/lsrs13.html"}, {"hidden": true, "title": "GraphLab Workshop 2012", "url": "/events/workshop12.html"}, {"hidden": true, "title": "Strata CA 2015", "url": "/events/training/2015_strata_ca.html"}], "title": "Events", "url": "/events/index.html"}, {"items": [{"paths": ["/company/press"], "title": "Press", "url": "/company/press/index.html"}, {"title": "Team", "url": "/company/team/index.html"}, {"title": "Investors", "url": "/company/team/investors.html"}, {"paths": ["/company/careers"], "title": "Careers", "url": "/company/careers/index.html"}, {"title": "Contact Us", "url": "/company/contact.html"}, {"hidden": true, "title": "Stay in touch with Dato", "url": "/company/subscribe.html"}, {"hidden": true, "title": "Thank You For Contacting Us", "url": "/company/contact_thankyou.html"}, {"hidden": true, "title": "Stay in touch with Dato", "url": "/company/subscribe_thankyou.html"}], "title": "Company", "url": "/company/press/index.html"}, {"external": true, "items": [], "title": "Blog", "url": "http://blog.dato.com"}, {"hidden": true, "items": [{"hidden": true, "title": "Terms of Use", "url": "/legal/terms_of_use.html"}, {"hidden": true, "title": "Privacy Policy", "url": "/legal/privacy_policy.html"}, {"hidden": true, "title": "GraphLab Create EULA", "url": "/legal/graphlab-create-eula.html"}, {"hidden": true, "title": "Dato License Policy", "url": "/legal/license-policy.html"}], "title": "Legal", "url": "/legal/terms_of_use.html"}, {"hidden": true, "items": [{"title": "404 Not Found", "url": "/missing.html"}], "title": "ErrorPages"}, {"hidden": true, "items": [], "title": "Google Webmaster Tools", "url": "/google47d857324e802208.html"}, {"hidden": true, "items": [{"title": "Using ML in Your Apps?", "url": "/using_ml.html"}, {"title": "Need Advanced ML?", "url": "/needadvanced_ml.html"}], "title": "LandingPages"}]);
+              GraphLab.Search.attachHandlers();
+            });
+          });
+    </script>
+    
+    
+        <script type="text/javascript">
+          
+          ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+          p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+          };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+          n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d1fc8wv8zag5ca.cloudfront.net/2.1.1/sp.js","sp_client"));
+
+          sp_client("newTracker", "cf", "d2jgqt121dlkm0.cloudfront.net", {
+              appId: "dato.com",
+              platform: "web",
+              cookieDomain: ".dato.com",
+              contexts: {
+                performanceTiming: true,
+                gaCookies: true
+              }
+          });
+          sp_client('enableLinkClickTracking', null /*filter*/, true /*pseudoClicks*/, true /*content*/);
+          sp_client('enableFormTracking');
+
+          
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+          ga('create', 'UA-43241412-2', 'auto');
+
+          /* record page view in snowplow and ga */
+          sp_client('trackPageView');
+          ga('send', 'pageview');
+          
+          /**
+           * This is the section to add event listeners to all link clicks within the 
+           * page. All link clicks events are recorded under the category "link". 
+           * 
+           * Page Header:
+           *     - Action (String): 'click_header'
+           *     - Label (String): string of internal/external link
+           *     - Value (Integer): the N-th appeareance of this link in header. ex: 0, 1, ... 
+           *  
+           * Page Body:
+           *     - Action (String): 'click_body'
+           *     - Label (String): string of internal/external link
+           *     - Value (Integer): the N-th appeareance of this link in body. ex: 0, 1, ... 
+           *
+           * Page Footer:
+           *     - Action (String): 'click_footer'
+           *     - Label (String): string of internal/external link
+           *     - Value (Integer): the N-th appeareance of this link in footer. ex: 0, 1, ... 
+           *
+          **/
+          function trackEvent(category, action, label, value) {
+            sp_client('trackStructEvent', category, action, label, undefined, value);
+            ga('send', 'event', category, action, label, value);
+          }
+          function trackLink(action, href, value, evt) {
+            ga('send', 'event', 'link', action, href, value);
+          }
+          document.addEventListener("DOMContentLoaded", function(evt) { 
+            // get each header, body, and footer of the page
+            var header = document.getElementsByClassName('cml-navbar')[0];
+            var body = document.getElementById('content-body');
+            var footer = document.getElementsByTagName('footer')[0]; 
+
+            // get all 'a' tag elements within each
+            var header_links = header.getElementsByTagName('a');
+            var body_links = body.getElementsByTagName('a');
+            var footer_links = footer.getElementsByTagName('a');
+
+            // add event listener to all 'a' tags in header, body, and footer
+            var header_links_map = {};
+            for (var i = 0; i < header_links.length; i++) {
+              var link = header_links[i];
+              var hr = link.getAttribute('href');
+              if (hr in header_links_map) {
+                header_links_map[hr] += 1;
+              } else {
+                header_links_map[hr] = 0;
+              }
+              link.addEventListener("click", trackLink.bind(null, 'click_header', hr, header_links_map[hr]));
+            };
+            
+            var body_links_map = {};
+            for (var i = 0; i < body_links.length; i++) {
+              var link = body_links[i];
+              var hr = link.getAttribute('href');
+              if (hr in body_links_map) {
+                body_links_map[hr] += 1;
+              } else {
+                body_links_map[hr] = 0;
+              }
+              link.addEventListener("click", trackLink.bind(null, 'click_body', hr, body_links_map[hr]));
+            };
+
+            var footer_links_map = {};
+            for (var i = 0; i < footer_links.length; i++) {
+              var link = footer_links[i];
+              var hr = link.getAttribute('href');
+              if (hr in footer_links_map) {
+                footer_links_map[hr] += 1;
+              } else {
+                footer_links_map[hr] = 0;
+              }
+              link.addEventListener("click", trackLink.bind(null, 'click_footer', hr, footer_links_map[hr]));
+            };
+          });
+        </script>
+        
+         <script type="text/javascript">
+           (function(d,s,i,r) {
+             if (d.getElementById(i)){return;}
+             var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+             n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/426799.js';
+             e.parentNode.insertBefore(n, e);
+           })(document,"script","hs-analytics",300000);
+         </script>
+      
+  
+
+  </head>
+  <body class="gl">
+    
+  <div>
+    <div class="cml-colorbar-top-container"><table class="cml-colorbar-top" width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="20%" bgcolor="#B0007F"></td>
+        <td width="20%" bgcolor="#0A8CC4"></td>
+        <td width="20%" bgcolor="#85BD00"></td>
+        <td width="20%" bgcolor="#FF5500"></td>
+        <td width="20%" bgcolor="#5E5555"></td>
+      </tr>
+      </tbody></table></div>
+    <nav class="navbar navbar-default cml-navbar" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle cml-navbar-toggle" id="showRightPush">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                  <a class="navbar-brand gl-navbarbrand" rel="home" href="https://dato.com">
+                      
+  <div id="dato-logo"></div>
+
+                    </a>
+                  </div>
+        <div class="collapse navbar-collapse cml-navbar-collapse" id="navbar-collapse">
+          <ul class="nav navbar-nav cml-navbar-nav">
+            
+              
+              <li class="cml-navlink glcom-navlink  glcom-navlink-first ">
+                  <div class="dropdown">
+                    <div class="btn dropdown-toggle cml-navlink-padding " type="button" id="gl-navlink-Products">
+                      <a href="https://dato.com/products/create/index.html">
+                        Products
+                      </a>
+                    </div>
+                    <ul class="dropdown-menu gl-topnav-dropdown-menu" role="menu" aria-labelledby="gl-navlink-Products">
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/products/create/">GraphLab Create
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/products/create/quick-start-guide.html">Get Started
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/products/index.html">Pricing
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                    </ul>
+                  </div>
+                </li>
+              
+            
+              
+              <li class="cml-navlink glcom-navlink ">
+                  <div class="dropdown">
+                    <div class="btn dropdown-toggle cml-navlink-padding " type="button" id="gl-navlink-Uses">
+                      <a href="https://dato.com/uses/index.html">
+                        Uses
+                      </a>
+                    </div>
+                    <ul class="dropdown-menu gl-topnav-dropdown-menu" role="menu" aria-labelledby="gl-navlink-Uses">
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/uses/index.html">By Industry
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/uses/by_application.html">By Application
+                            </a>
+                          </li>
+                          
+                        
+                      
+                    </ul>
+                  </div>
+                </li>
+              
+            
+              
+              <li class="cml-navlink glcom-navlink ">
+                  <div class="dropdown">
+                    <div class="btn dropdown-toggle cml-navlink-padding " type="button" id="gl-navlink-Learn">
+                      <a href="https://dato.com/learn/index.html">
+                        Learn
+                      </a>
+                    </div>
+                    <ul class="dropdown-menu gl-topnav-dropdown-menu" role="menu" aria-labelledby="gl-navlink-Learn">
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/learn/gallery/index.html">Gallery
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/learn/how-to/index.html">How-To
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/learn/translator/index.html">Translator
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/products/create/docs/">API Documentation
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/learn/userguide/">User Guide
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://github.com/dato-code/GraphLab-Create-SDK">C++ SDK (beta)
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="http://forum.dato.com">Forum
+                            </a>
+                          </li>
+                          
+                        
+                      
+                    </ul>
+                  </div>
+                </li>
+              
+            
+              
+              <li class="cml-navlink glcom-navlink ">
+                  <div class="dropdown">
+                    <div class="btn dropdown-toggle cml-navlink-padding " type="button" id="gl-navlink-Events">
+                      <a href="https://dato.com/events/index.html">
+                        Events
+                      </a>
+                    </div>
+                    <ul class="dropdown-menu gl-topnav-dropdown-menu" role="menu" aria-labelledby="gl-navlink-Events">
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/events/index.html">Upcoming Events
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/events/conference15/">Conference 2015
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                    </ul>
+                  </div>
+                </li>
+              
+            
+              
+              <li class="cml-navlink glcom-navlink ">
+                  <div class="dropdown">
+                    <div class="btn dropdown-toggle cml-navlink-padding " type="button" id="gl-navlink-Company">
+                      <a href="https://dato.com/company/press/index.html">
+                        Company
+                      </a>
+                    </div>
+                    <ul class="dropdown-menu gl-topnav-dropdown-menu" role="menu" aria-labelledby="gl-navlink-Company">
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/company/press/index.html">Press
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/company/team/index.html">Team
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/company/team/investors.html">Investors
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/company/careers/index.html">Careers
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                          <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="https://dato.com/company/contact.html">Contact Us
+                            </a>
+                          </li>
+                          
+                            <li role="presentation" class="divider"></li>
+                          
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                    </ul>
+                  </div>
+                </li>
+              
+            
+              
+              <li class="cml-navlink glcom-navlink ">
+                  <div class="dropdown">
+                    <div class="btn dropdown-toggle cml-navlink-padding " type="button" id="gl-navlink-Blog">
+                      <a href="http://blog.dato.com">
+                        Blog
+                      </a>
+                    </div>
+                    <ul class="dropdown-menu gl-topnav-dropdown-menu" role="menu" aria-labelledby="gl-navlink-Blog">
+                      
+                    </ul>
+                  </div>
+                </li>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+          </ul>
+          <ul class="nav navbar-nav cml-navbar-nav navbar-right">
+            
+              <li><a class="btn btn-primary" href="https://dato.com/products/create/quick-start-guide.html">Try Free</a></li>
+            
+          </ul>
+        </div> 
+      </div>
+    </nav>
+    <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="menuRight">
+      <h3>Menu</h3>
+      
+      
+      <div class="nav-pushmenu-menuitem">
+        <a href="javascript:void(0)">
+        Products
+        
+        <span class="nav-arrow fa fa-chevron-right">
+          
+        </span></a>
+        
+        <ul class="nav-pushmenu-submenu">
+          
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/products/create/">GraphLab Create
+          </a>
+        </li>
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/products/create/quick-start-guide.html">Get Started
+          </a>
+        </li>
+        
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/products/index.html">Pricing
+          </a>
+        </li>
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+    </div>
+    
+    
+    
+      
+      <div class="nav-pushmenu-menuitem">
+        <a href="javascript:void(0)">
+        Uses
+        
+        <span class="nav-arrow fa fa-chevron-right">
+          
+        </span></a>
+        
+        <ul class="nav-pushmenu-submenu">
+          
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/uses/index.html">By Industry
+          </a>
+        </li>
+        
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/uses/by_application.html">By Application
+          </a>
+        </li>
+        
+        
+      </ul>
+    </div>
+    
+    
+    
+      
+      <div class="nav-pushmenu-menuitem">
+        <a href="javascript:void(0)">
+        Learn
+        
+        <span class="nav-arrow fa fa-chevron-right">
+          
+        </span></a>
+        
+        <ul class="nav-pushmenu-submenu">
+          
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/learn/gallery/index.html">Gallery
+          </a>
+        </li>
+        
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/learn/how-to/index.html">How-To
+          </a>
+        </li>
+        
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/learn/translator/index.html">Translator
+          </a>
+        </li>
+        
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/products/create/docs/">API Documentation
+          </a>
+        </li>
+        
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/learn/userguide/">User Guide
+          </a>
+        </li>
+        
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://github.com/dato-code/GraphLab-Create-SDK">C++ SDK (beta)
+          </a>
+        </li>
+        
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="http://forum.dato.com">Forum
+          </a>
+        </li>
+        
+        
+      </ul>
+    </div>
+    
+    
+    
+      
+      <div class="nav-pushmenu-menuitem">
+        <a href="javascript:void(0)">
+        Events
+        
+        <span class="nav-arrow fa fa-chevron-right">
+          
+        </span></a>
+        
+        <ul class="nav-pushmenu-submenu">
+          
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/events/index.html">Upcoming Events
+          </a>
+        </li>
+        
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/events/conference15/">Conference 2015
+          </a>
+        </li>
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+    </div>
+    
+    
+    
+      
+      <div class="nav-pushmenu-menuitem">
+        <a href="javascript:void(0)">
+        Company
+        
+        <span class="nav-arrow fa fa-chevron-right">
+          
+        </span></a>
+        
+        <ul class="nav-pushmenu-submenu">
+          
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/company/press/index.html">Press
+          </a>
+        </li>
+        
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/company/team/index.html">Team
+          </a>
+        </li>
+        
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/company/team/investors.html">Investors
+          </a>
+        </li>
+        
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/company/careers/index.html">Careers
+          </a>
+        </li>
+        
+        
+          
+          <li role="presentation">
+            <a class="nav-pushmenu-submenu-item" role="menuitem" tabindex="-1" href="https://dato.com/company/contact.html">Contact Us
+          </a>
+        </li>
+        
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+    </div>
+    
+    
+    
+      
+      <div class="nav-pushmenu-menuitem">
+        <a href="http://blog.dato.com">
+        Blog
+        
+        <span class="nav-arrow fa fa-chevron-right">
+          
+        </span></a>
+        
+        <ul class="nav-pushmenu-submenu">
+          
+      </ul>
+    </div>
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </nav>
+    <div id="content-body">
+    
+<div class="container gl-3col">
+  
+    <h1 class="gl-title">Privacy Policy</h1>
+  
+  <div class="gl-col-left">
+    <div class="gl_left_bar">
+      
+        
+      
+    </div>
+    <div class="gl_right_bar">
+      
+
+    </div>
+  </div>
+  <div class="gl-col-center">
+    
+<p>Last Updated: January 8, 2015</p>
+<p>Welcome, and thank you for your interest in Dato, Inc. (“Dato”, “we,” or “us”) and our Web site at www.dato.com (the “Site”). This Privacy Policy applies to this Site and all other websites owned and operated by Dato. Dato values the privacy of all individuals who visit and use the Site (individually, “User” and collectively, “Users”) and makes it a priority to protect any personally identifiable information that it obtains from its Users. This Privacy Policy describes Dato’s policies regarding what personally identifiable information Dato gathers from its Users, how Dato uses that information, and what Dato does to protect that information. This Privacy Policy is incorporated by reference in the Dato Terms of Service, and capitalized terms not defined herein are defined in the Dato Terms of Service.</p>
+<p>By using the Site (whether or not you register for an account for the Site), you expressly consent to the information handling practices described in this policy. If you do not want the personally identifiable information provided to Dato to be used in the manner set forth in this Privacy Policy, please do not use the Site or any services provided through it.</p>
+<p><b>The Information Dato Collects:</b></p>
+<ul>
+<ul>
+<li>User-provided Information: When you register for an account for the Service or at any later time, you may provide to Dato what is generally known as “personally identifiable information” (such as your name, password, and email address). Since Dato uses third party authentication services (each, an “Authentication Service”) for account registration and credentialing purposes, you may also be required to provide your Google ID, Github ID, or your username/ID for an Authentication Service accepted by Dato. The Authentication Service may also ask you for your password for your account with that Authentication Service, in which case any password you provide will not be collected or stored by Dato. If you choose to provide any of the foregoing information, during registration or otherwise, you are giving Dato the permission to use and store it consistent with this policy.</li>
+<li>“Cookies” Information: When you visit the Site, whether or not you register for an account, Dato may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Cookies remember information about your activities on a website. Dato may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. However, without cookies you may not have access to certain services or features available on Service. Third party authentication services used in connection with Service may also contain cookies set by that third party. Dato does not control these cookies and you should check the privacy policy of that third party to see whether and how it uses cookies.</li>
+<li>“Automatically Collected” Information: When you access or use the Site or any other part of Service, Dato’s servers may automatically record certain information from your browser by using different types of technology, including standard log files, “clear gifs” or “web beacons.” These “server logs” may include your Internet Protocol (IP) address, browser type, operating system type, internet service provider (ISP), referring or exit pages, click stream data, operating system and the dates and times that you visit the Site. Additionally, Dato may record certain information regarding your use of the Services, such as information regarding the services or features you have used, the duration for which you used those services or features, etc.</li>
+<li>Third party analytics services: Dato may use third party analytics services, such as Google Analytics, which may collect certain types of information in connection with your use of the Service. However, these third party analytics services do not provide Dato with any personally identifiable information about you.</li>
+<li>Your communications: When you send email or other communications to Dato, Dato may retain that email or other communications and collect information associated with that email or other communications such as the content, date and time of these messages.</li>
+<li>Information from Other Sources: Dato may also obtain information, including personally identifiable information, from third parties and sources other than Service. If Dato combines or associates information from other sources with personally identifiable information that it collects through Service, it will treat the combined information as personally identifiable information in accordance with this Privacy Policy.</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<p><b>The Way Dato Uses Information:</b></p>
+<ul>
+<ul>
+<li>Dato generally uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on or through the Site. Dato may use information that you provide or that it collects from Users to understand and analyze the usage trends and preferences of our Users, to improve the way the Service works and looks, and to create new features and functionality.</li>
+<li>Dato may use “cookies” information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the Site; and (b) monitor aggregate site usage metrics such as total number of visitors and pages viewed, information about users interested in a program, feature, or function, etc.</li>
+<li>Dato’s employees, agents and contractors must have a legitimate business reason to obtain access to the personally identifiable information you may provide or that Dato collects. Dato may share your personally identifiable information with companies that provide services to it, including outside contractors or agents who help manage its information activities, but they may only use your personally identifiable information to provide Dato with a specific service and not for any other purpose.</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<p><b>When Dato Discloses Information:</b></p>
+<ul>
+<li>Dato may disclose automatically collected and other aggregate non-personally identifiable information to its affiliates or third parties in order to assist these parties in understanding the usage, viewing, and demographic patterns for certain programs, content, services, features, or functionality available on or through the Site.</li>
+<li>In order to provide you with certain features of the Service, Dato may share aggregate non-personally identifiable information with third parties providers of services such as Google Analytics, Google Mail, Google Docs, Amazon Web Services, and Github.</li>
+<li>Dato may, now or in the future, enable you to share your User Content with other Users or to post your comments on certain parts of the Site. If you share your User Content or comments with other Users in this manner, any personally identifiable information that you choose to include in, or that is associated with, those comments will be accessible by the other Users. Once you make your personally identifiable information available to others in any of these ways, it may be collected and used by the recipients without restriction. Therefore, Dato strongly recommends that you think carefully about what you post to or through the Site.</li>
+<li>Dato may also disclose your personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant. In some cases, Dato may make these disclosures without first providing notice to you.</li>
+<li>Dato also reserves the right to disclose User information that it believes, in good faith, is appropriate or necessary to take precautions against liability; to protect Dato from fraudulent, abusive, or unlawful uses; to investigate and defend itself against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Site; or to protect the rights, property, or personal safety of Dato, its Users, or others.</li>
+<li>In the event that Dato is acquired by or merged with a third-party entity, it reserves the right, in any of these circumstances, to transfer or assign the information that it has collected from its Users as part of that merger, acquisition, sale, or other change of control.</li>
+</ul>
+<p><b>Your Choices:</b></p>
+<p>You may, of course, decline to share your personally identifiable information with Dato, in which case Dato will not be able to provide to you some of the features and functionality found on or through the Site. Dato may retain all information you submit for a variety of purposes, including backups and archiving, prevention of fraud and abuse, and analytics. However, please note that Dato will not use or transfer your personally identifiable information in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.</p>
+<p><b>Links to Other Sites:</b></p>
+<p>The Site may be linked to internet websites or online services operated by Dato’s affiliates or other third parties. Any information that you provide to or is automatically collected by these third-party websites or services is subject to the respective privacy policies of these third parties. Dato’s Privacy Policy does not apply to, and Dato cannot control the activities of, these other third party websites or services. Please be aware that Dato does not warn you when you have chosen to link through to another website or service from the Site.</p>
+<p><b>Children:</b></p>
+<p>Dato does not knowingly collect or maintain personally identifiable information on the Site from persons under 13 years-of-age. If Dato learns that personally identifiable information of persons less than 13-years-of-age has been collected through the Site, then Dato will take the appropriate steps to delete this information.</p>
+<p><b>Our Commitment to Data Security:</b></p>
+<p>We use certain physical, managerial, and technical safeguards and systems to preserve the integrity and security of your personal information. We periodically audit these safeguards and systems to ensure that they work as intended and that we are able to respond quickly to a security breach. We cannot, however, ensure or warrant the security of any information you transmit to Dato, and you do so at your own risk. We cannot guarantee that your information may not be accessed, disclosed, altered, or destroyed by breach of any physical, technical, or managerial safeguards.</p>
+<p>If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice on the Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.</p>
+<p><b>International Visitors:</b></p>
+<p>The Site may be accessed and/or used by Users located outside the United. If you choose to use the Site from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personally identifiable information outside of those regions to the United States and by providing your personally identifiable information on or through the Site you consent to that transfer.<br>
+Changes and Updates to this Privacy Policy:<br>
+This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a “last updated” date above. Please revisit this page to stay aware of any changes. Your continued use of the Site constitutes your agreement to this Privacy Policy and any future revisions.</p>
+<p><b>Contact Information:</b></p>
+<p>Please contact Dato with any questions or comments about this Privacy Policy, your personal information, our third-party disclosure practices, or your consent choices by email at contact@dato.com or by mail at: Privacy Policy c/o Dato, Inc., 936 N 34th St., Suite 208, Seattle, WA 98103.</p>
+
+
+  </div>
+  <div class="gl-col-right">
+    <div class="gl_right_bar">
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </div>
+  <footer>
+  <div id="gl-prefooter"> 
+  <div class="container">
+    <div class="col-md-3 col-sm-4 col-xs-12">
+      <div class="gl-footer-about">
+        About
+      </div>
+      <div class="gl-footer-links">
+        <div>
+          <div class="gl-footer-link">
+            <a href="https://dato.com/company/contact.html">
+Contact
+</a>
+          </div>
+          <div class="gl-footer-link">
+            <a href="https://dato.com/company/team/index.html">
+Team
+</a>
+          </div>
+          <div class="gl-footer-link">
+            <a href="http://blog.dato.com/">
+Blog
+</a>
+          </div>
+        </div>
+        <div>
+          <div class="gl-footer-link">
+            <a href="https://dato.com/company/careers.html">
+Careers
+</a>
+          </div>
+          <div class="gl-footer-link">
+            <a href="https://dato.com/company/press.html">
+Press
+</a>
+          </div>
+          <div class="gl-footer-link">
+            <a href="https://dato.com/company/team/investors.html">
+Investors
+</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-sm-4 col-xs-12">
+      <div class="gl-footer-social">
+        <div class="gl-footer-about">
+          Connect With Us
+        </div>
+        <ul class="nav nav-pills gl-footer-socialbuttons">
+          <li><a href="https://twitter.com/datoinc"><i class="fa fa-twitter fa-lg"></i></a></li>
+          <li><a href="http://www.linkedin.com/company/graphlab"><i class="fa fa-linkedin fa-lg"></i></a></li>
+          <li><a href="https://www.facebook.com/datoinc"><i class="fa fa-facebook fa-lg"></i></a></li>
+        </ul>
+        <ul class="nav nav-pills gl-footer-socialbuttons">
+          <li><a href="https://plus.google.com/+DatoInc/videos"><i class="fa fa-youtube fa-lg"></i></a></li>
+          <li><a href="https://plus.google.com/+DatoInc"><i class="fa fa-google-plus fa-lg"></i></a></li>
+          <li><a href="http://blog.dato.com/rss.xml"><i class="fa fa-rss fa-lg"></i></a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="col-md-2 col-sm-4 col-xs-12">
+      <div class="gl-footer-connect" style="padding-top: 24px; padding-bottom: 10px;">
+        <div class="gl-footer-connect-text">
+          Be the first to get our hot new tools. Subscribe to our email list.
+        </div>
+        <div class="gl-footer-connect-button">
+          <a href="https://dato.com/company/subscribe.html" class="btn btn-default btn-gl-connect">
+            Subscribe
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 hidden-xs hidden-sm">
+      <div class="gl-footer-dog pull-right">
+        <img style="width: 180px; height: 119px;" src="https://dato.com/images/footer_dog.svg" alt="">
+      </div>
+    </div>
+  </div>
+</div>
+    <div id="cml-footer">
+      <div class="container">
+        <span class="cml-footer-text pull-left">
+          © 2015 Dato · All Rights Reserved. No part of this website may be reproduced without Dato's expressed consent. Dato, GraphLab, GraphLab Create and logos are property of Dato.
+          &nbsp;&nbsp;
+          <a href="https://dato.com/legal/privacy_policy.html">
+Privacy Policy
+</a>
+          &nbsp;|&nbsp;
+          <a href="https://dato.com/legal/terms_of_use.html">
+Terms of Use
+</a>
+        </span>
+      </div>
+    </div>
+    <div class="cml-colorbar-bottom-container">
+      <table class="cml-colorbar-bottom" width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="20%" bgcolor="#B0007F"></td>
+          <td width="20%" bgcolor="#0A8CC4"></td>
+          <td width="20%" bgcolor="#85BD00"></td>
+          <td width="20%" bgcolor="#FF5500"></td>
+          <td width="20%" bgcolor="#5E5555"></td>
+        </tr>
+      </tbody></table>
+        
+    </div>
+  </footer>
+
+  
+
+</body></html>
