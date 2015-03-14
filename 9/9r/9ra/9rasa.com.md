@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9rasa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625180915id_/http%3A//9rasa.com/static/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9rasa.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231213id_/http%3A//www.9rasa.com/static/privacy-policy.htm) for the most accurate reproduction.*
 
 # privacy-policy
 
