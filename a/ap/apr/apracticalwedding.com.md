@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apracticalwedding.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821010546id_/http%3A//apracticalwedding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apracticalwedding.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314224326id_/http%3A//apracticalwedding.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « A Practical Wedding: Blog Ideas for the Modern Wedding, Plus Marriage A Practical Wedding: Blog Ideas for the Modern Wedding, Plus Marriage
+# Privacy Policy - A Practical Wedding: Blog Ideas for the Modern Wedding, Plus Marriage A Practical Wedding: Blog Ideas for the Modern Wedding, Plus Marriage
 
 APW is committed to protecting your privacy. This privacy policy explains APW’s guidelines concerning the use and the protection of your personal information, including our policies regarding what information we gather, how we might use that information and whether we will disclose that information to anyone. By using our site you agree to the terms of our Privacy Policy and our Terms of Use. From time to time, we may update this policy. We encourage you to review our Privacy Policy on a regular basis to stay informed about how we use your personal information.
 
