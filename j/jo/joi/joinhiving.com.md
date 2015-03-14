@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the joinhiving.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082002id_/https%3A//www.joinhiving.com/en_GB/more/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinhiving.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004352id_/https%3A//www.joinhiving.com/en_US/more/privacy) for the most accurate reproduction.*
 
-# Hiving
+# Privacy - Hiving
 
-UK Online Consumer Panel - Our Privacy Policy 
+US Online Consumer Panel - Our Privacy Policy 
 
 Last updated: March 21, 2014 
 
 Our commitments to your privacy on our online survey panel 
 
-**This Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any data we may collect from you when you register to our UK online consumer panel.** Please read this privacy policy before using the site or submitting any personal information. 
+**This Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any data we may collect from you when you register to our US online consumer panel.** Please read this privacy policy before using the site or submitting any personal information. 
 
 We respect the privacy of our visitors and are committed to preserving your online safety by ensuring that privacy is protected every time you visit or communicate with our site. All personally identifiable information is kept secure and stored in our files in France. 
 
@@ -38,9 +38,7 @@ A cookie is a small text file that is stored on your hard drive for record-keepi
 
 During online surveys, we may also collect information through the use of cookies. These are used as sparingly as possible and only for quality control, validation and most of all, to avoid sending you reminders for any survey you have already participated in. 
 
-The final type of cookie we collect is the [DoubleClick cookie](https://support.google.com/adsense/answer/2839090). Google's use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visits to their own site as well other sites on the Internet. While Hiving might not advertise on their own site, the information from this cookie is used to get a better insight into the type of internet users visiting our site. This cookie collects information about your prior visits to our site as well as other sites across the Internet. This cookie is shared with Google and its partners for advertising purposes. However, only Hiving has access to the information in this cookie, which is purely statistical in nature and is in no way personally identifiable to you. Neither Hiving, Google nor any other site will link this information to any account you might have with them. 
-
-It is possible for you to reject cookies or to prevent their use by changing the browser settings on your computer. How you do this will depend on the browser you are using. We recommend that you visit the relevant company's website to find out more. However, keep in mind, if you do decline the download or use of cookies, you may not be allowed to participate in some surveys or access to some aspects of our website. 
+The final type of cookie we collect is the DoubleClick cookie. Google's use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visits to their own site as well other sites on the Internet. While Hiving might not advertise on their own site, the information from this cookie is used to get a better insight into the type of internet users visiting our site. This cookie collects information about your prior visits to our site as well as other sites across the Internet. This cookie is shared with Google and its partners for advertising purposes. However, only Hiving has access to the information in this cookie, which is purely statistical in nature and is in no way personally identifiable to you. Neither Hiving, Google nor any other site will link this information to any account you might have with them. It is possible for you to reject cookies or to prevent their use by changing the browser settings on your computer. How you do this will depend on the browser you are using. We recommend that you visit the relevant company's website to find out more. However, keep in mind, if you do decline the download or use of cookies, you may not be allowed to participate in some surveys or access to some aspects of our website.
 
 _**Note:** _
 
@@ -56,10 +54,10 @@ The following list explains how we might use your data. It will be used to:
 
   * Send you - by email, mobile phone or in your Member's Area - invitations to take part in paid online surveys that we use for statistical research purposes. 
   * Send you email notifications and updates about your rewards or payments. 
-  * Keep you informed and communicate with you about our new UK Consumer Panel activities, improvements or changes we decide to make. 
+  * Keep you informed and communicate with you about our new US Consumer Panel activities, improvements or changes we decide to make. 
   * Maintain an accurate member database in order to send you surveys that are relevant to your profile. 
   * Analyse the survey answers and produce anonymous and statistical results. Your individual responses could be transferred to our client but only for research purposes and specific surveys (i.e. Home Product Testing). So, except with your explicit permission, we will never reveal who you are to our clients. 
-  * Provide a snapshot of our UK Consumer Panel’s profile attributes (based on the information submitted by our members in the registration form) to market research companies, potential partners or advertisers. All information shared with a third party is purely statistical. 
+  * Provide a snapshot of our US Consumer Panel’s profile attributes (based on the information submitted by our members in the registration form) to market research companies, potential partners or advertisers. All information shared with a third party is purely statistical. 
 
 
 
@@ -71,16 +69,16 @@ Although we use advanced security measures to protect your information against l
 
 How you update, correct or delete your information 
 
-You may access your Member's Area at any time by using your email/username and password. If you have forgotten your password, please click [here](https://www.joinhiving.com/en_GB/password-forgot/) . 
+You may access your Member's Area at any time by using your email/username and password. If you have forgotten your password, please click [here](https://www.joinhiving.com/en_US/password-forgot/) . 
 
-You can delete your Member Account at any time by visiting the "Services" section in your [Account Settings](https://www.joinhiving.com/en_GB/memberarea/account-setting/). 
+You can delete your Member Account at any time by visiting the "Services" section in your [Account Settings](https://www.joinhiving.com/en_US/memberarea/account-setting/). 
 
 Hiving reserves the right to terminate any Member's Account and block access if one of the obligations under our Terms and Conditions has been breached. This can be done without notifying the Member in question. 
 
 _**Note:** _
 
-  * Hiving may disclose information if we believe that disclosure will be useful to identify, communicate or sue members who have breached our Terms and Conditions and/or caused harm or damage to our UK Consumer panel. 
-  * Even if your account is deleted, Hiving keeps on record some data like your email correspondence with our UK Consumer Panel support team, message boards entries on our Website or your anonymous responses from completed surveys. 
+  * Hiving may disclose information if we believe that disclosure will be useful to identify, communicate or sue members who have breached our Terms and Conditions and/or caused harm or damage to our US Consumer panel. 
+  * Even if your account is deleted, Hiving keeps on record some data like your email correspondence with our US Consumer Panel support team, message boards entries on our Website or your anonymous responses from completed surveys. 
 
 
 
@@ -90,7 +88,7 @@ We reserve the right to change, correct or update information about our Privacy 
 
 This Privacy Policy is updated from time to time. Any changes we may make in the future will be posted on this page. So we advise you to consult them regularly.
 
-If you have any questions, concerns or comments about our Privacy Policy, please do not hesitate to [Contact Us](https://www.joinhiving.com/en_ZA/memberarea/question-answer) for more details. 
+If you have any questions, concerns or comments about our Privacy Policy, please do not hesitate to [Contact Us](https://www.joinhiving.com/en_US/memberarea/question-answer) for more details. 
 
 Or write to:   
 **Hiving  
@@ -102,6 +100,6 @@ FRANCE **
 
 * * *
 
-[ New to Hiving? Sign Up ](https://web.archive.org/en_GB) [ Already a Member? Log In ](https://web.archive.org/en_GB/login)
+[ New to Hiving? Sign Up ](https://web.archive.org/en_US) [ Already a Member? Log In ](https://web.archive.org/en_US/login)
 
 * * *
