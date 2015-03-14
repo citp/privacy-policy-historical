@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ffilms.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230025325id_/http%3A//ffilms.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffilms.org privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314210955id_/http%3A//ffilms.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | FFilms.org
 
@@ -19,7 +19,9 @@ We will not provide any of your personal information to other organizations or t
 
 **Links to Third Party Sites**
 
-We provide links to third party sites. Since we do not control those websites, we encourage you to review the privacy policies posted there.
+We provide links to third party sites. Since we do not control those websites, we encourage you to review the privacy policies posted there.  
+**Advertising & Sponsorship**:  
+Part of the Site may contain advertising and sponsorship. Advertisers and sponsors are responsible for ensuring that material submitted for inclusion on the Site complies with relevant laws and codes. _We will not be responsible for any contents error or inaccuracy in advertising material._
 
 **Cookies**
 
