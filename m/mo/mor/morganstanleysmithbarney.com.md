@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morganstanleysmithbarney.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118165454id_/https%3A//www.morganstanleyclientserv.com/contentmanagement/HTMLFiles/pdf/online_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morganstanleysmithbarney.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314220352id_/https%3A//www.morganstanleyclientserv.com/contentmanagement/HTMLFiles/pdf/online_privacy_policy.pdf) for the most accurate reproduction.*
 
 # MORGAN STANLEY SMITH BARNEY, LLC ONLINE PRIVACY POLICY
 
