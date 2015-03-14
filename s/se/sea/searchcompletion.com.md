@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchcompletion.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053011id_/http%3A//www.searchcompletion.com/privacy/searchcompletionprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchcompletion.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314230949id_/http%3A//www.searchcompletion.com/privacy/searchcompletionprivacy.aspx) for the most accurate reproduction.*
 
 # Search Completion. Better search - everywhere.
 
