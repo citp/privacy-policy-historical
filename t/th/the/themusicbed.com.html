@@ -1,107 +1,122 @@
-<!--The following is the downloaded HTML source of the themusicbed.com privacy policy that was archived on 2014-08-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140816103527id_/https%3A//www.themusicbed.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the themusicbed.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315001528id_/https%3A//www.musicbed.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    <meta charset="utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIBVF9VGwEGU1RSBwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-    <title>Stock Music Licensing for Video, Photography &amp; Film - The Music Bed</title>
-    <meta name="description" content="Stock Music Licensing for Film, TV, Streaming, and Weddings">
-    <meta name="robots" content="index, follow">
+    <meta charset="utf-8"><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+        <title>Stock Music Licensing for Video, Photography &amp; Film - Music Bed</title>
+        <meta name="robots" content="index, follow">
     <meta name="HandheldFriendly" content="True">
     <meta name="lOptimized" content="width">
     <meta http-equiv="cleartype" content="on">
     <meta name="viewport" content="width=device-width,minimum-scale=1.0,initial-scale=1,user-scalable=yes">
 
-    <!-- iOS Smart App Banner -->
-    <meta name="apple-itunes-app" content="app-id=903491336, app-argument=tmbapp://">
-
     
     <script type="text/javascript" src="//use.typekit.net/ttr1ide.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-        <link rel="shortcut icon" href="https://www.themusicbed.com/img/favicon.ico">
+            <link rel="apple-touch-icon-precomposed" href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/img/icons/apple-touch-icon-precomposed.png">        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/img/icons/apple-touch-icon-72x72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/img/icons/apple-touch-icon-76x76-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/img/icons/apple-touch-icon-114x114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/img/icons/apple-touch-icon-120x120-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/img/icons/apple-touch-icon-144x144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/img/icons/apple-touch-icon-152x152-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/img/icons/apple-touch-icon-180x180-precomposed.png">
+        <link rel="icon" sizes="192x192" href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/img/icons/touch-icon-192x192.png">
+        <link rel="shortcut icon" href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/img/favicon.ico">
 
     <link href="//fonts.googleapis.com/css?family=Merriweather:300,400,700" rel="stylesheet" type="text/css">
-    <link href="https://www.themusicbed.com/css/jquery.growl.css" media="all" type="text/css" rel="stylesheet">
+    <link href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/css/jquery.growl.css" media="all" type="text/css" rel="stylesheet">
 
-    <link href="https://www.themusicbed.com/css/jquery-ui.css" rel="stylesheet" media="screen">
-    <link rel="stylesheet" href="https://www.themusicbed.com/packages/jquery-uploader/css/jquery.fileupload.css">
-    <link href="https://www.themusicbed.com/css/tipped/tipped.css" media="all" type="text/css" rel="stylesheet">
-    <link href="https://www.themusicbed.com/pickdate/themes/classic.css" media="all" type="text/css" rel="stylesheet">
-    <link href="https://www.themusicbed.com/pickdate/themes/classic.date.css" media="all" type="text/css" rel="stylesheet">
-    <link href="https://www.themusicbed.com/css/screen.css?=201403191158" media="all" type="text/css" rel="stylesheet">
-
+    <link href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/css/jquery-ui.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/packages/jquery-uploader/css/jquery.fileupload.css">
+    <link href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/css/tipped/tipped.css" media="all" type="text/css" rel="stylesheet">
+    <link href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/pickdate/themes/classic.css" media="all" type="text/css" rel="stylesheet">
+    <link href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/pickdate/themes/classic.date.css" media="all" type="text/css" rel="stylesheet">
+    <link href="https://d218iqt4mo6adh.cloudfront.net/assets/widget_embed_191.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/css/screen.css" media="all" type="text/css" rel="stylesheet">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="https://d218iqt4mo6adh.cloudfront.net/assets/widget_embed_libraries_191.js" type="text/javascript"></script>
+    <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
     <script>window.jQuery || document.write('<script src="/js/jquery-2.0.3.min.js"><\/script>')</script><script src="/js/jquery-2.0.3.min.js"></script>
+
     <!--[if lt IE 9]>
       <script>document.createElement("section");</script>
     <![endif]-->
+
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-              ga('create', 'UA-10301453-13', 'themusicbed.com');
+              ga('create', 'UA-10301453-13',
+                'auto',
+                {'allowLinker': true, 'legacyHistoryImport': false}
+        );
+        ga('require', 'linker');
+        ga('linker:autoLink', ['community.musicbed.com'] );
       
       ga('send', 'pageview');
-
     </script>
-  <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-  <body>
-    <div class="mobile-landing">
-    <div class="mobile-landing__inner">
-        <div class="mobile-landing__content">
-            <h1 class="mobile-landing__logo-heading"><img src="/img/tmb-logo.svg" class="mobile-landing__logo"></h1>
-            <p class="mobile-landing__text">Mobile optimized site coming soon.</p>
-            <script type="text/javascript">
-            //<![CDATA[
-            <!--
-            var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
-            "=48){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
-            ".substr(0,ol);}f(\")95,\\\"400\\\\610\\\\600\\\\520\\\\130\\\\400\\\\I720\\" +
-            "\\310\\\\010\\\\T330\\\\710\\\\_^S100\\\\JHNHCZ]JCMPcGBIilxo%8Euxu;pvpry|{`" +
-            "ic~Imdosvfq;on\\\\120\\\\520\\\\230\\\\720\\\\[$J020\\\\020\\\\600\\\\330\\" +
-            "\\R020\\\\LQL1000\\\\200\\\\310\\\\400\\\\r\\\\89200\\\\n\\\\n\\\\600\\\\71" +
-            "0\\\\100\\\\3s802865un\\\\h' 3=3o>qnc$%-3/73m6/%RK^S_\\\"(f};o nruter};))++" +
-            "y(^)i(tAedoCrahc.x(edoCrahCmorf.gnirtS=+o;721=%y{)++i;l<i;0=i(rof;htgnel.x=" +
-            "l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"                                       ;
-            while(x=eval(x));
-            //-->
-            //]]>
-            </script><p class="mobile-landing__email"><a href="mailto:service@themusicbed.com">service@themusicbed.com</a></p>
 
-            <p class="mobile-landing__phone">1-800-380-8154</p>
+    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+<body>
+    <script type="text/javascript">
+        var __lc = {};
+        __lc.license = 4851691;
+
+        (function() {
+          var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+          lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+        })();
+    </script>
+    <tmbcontent class="">
+        <nav class="main-nav">
+    <a href="/" id="logo"><img src="/img/tmb-logo-white.svg"></a>
+    <div class="main-nav_right">
+        <a href="https://www.musicbed.com/songs" id="nav-browse" class="song-browse-url-update" data-base-url="https://www.musicbed.com/songs">Browse</a>
+        <a href="https://www.musicbed.com/playlists" id="nav-playlists">Playlists</a>
+        <!-- <a href="#" id="nav-radio" class="icon-radio no-pjax">TMB Radio</a> -->
+
+        
+        <a href="/community/" id="nav-community" class="no-pjax">Community</a>
+
+        <ul class="menu-square">
+
+    
+    <li class="menu-square__link-item">
+        <a href="#" class="menu-square__link icon-search _search js-main-nav"></a>
+    </li>
+
+            <li class="menu-square__link-item">
+            <a href="https://www.musicbed.com/login" class="menu-square__link icon-login js-main-nav"></a>
+        </li>
+        <li class="menu-square__link-item">
+            <a href="https://www.musicbed.com/register" class="menu-square__link icon-vcard js-main-nav"></a>
+        </li>
+    
+</ul>
+
+        <div id="fly-out-nav">
+            <a href="#" class="icon-settings" id="open-fly-out-nav"></a>
+            <div id="social-nav">
+                <div class="social-nav__settings">
+                                        <a href="https://www.musicbed.com/help-and-support" id="nav-help" class="no-pjax no-mt">Help &amp; Support</a>
+                    <a href="/custom" id="nav-custom" class="no-pjax no-mt">Custom Licensing</a>
+                </div>
+                <a href="https://www.facebook.com/musicbed" class="icon-facebook no-pjax" target="_blank"></a>
+                <a href="http://instagram.com/musicbed" class="icon-instagram no-pjax" target="_blank"></a>
+                <a href="https://twitter.com/#!/themusicbed" class="icon-twitter no-pjax" target="_blank"></a>
+                <a href="http://vimeo.com/musicbed" class="icon-vimeo no-pjax" target="_blank"></a>
+            </div>
         </div>
     </div>
-</div>    <tmbcontent>
-    <ul class="menu-square">
-        <li class="menu-square__link-item"><a href="#" class="menu-square__link icon-search _search js-main-nav" title="Search"></a></li>
-                <li class="menu-square__link-item"><a href="https://www.themusicbed.com/login" class="menu-square__link icon-login js-main-nav" title="Login"></a></li>
-        <li class="menu-square__link-item"><a href="https://www.themusicbed.com/register" class="menu-square__link icon-vcard js-main-nav" title="Register"></a></li>
-            </ul>
-    <nav class="main-nav">
-      <a href="/" id="logo"><img src="/img/tmb-logo.svg"></a>
-      <a href="https://www.themusicbed.com/songs" id="nav-browse" class="icon-browse song-browse-url-update" data-base-url="https://www.themusicbed.com/songs">Browse</a>
-      <a href="https://www.themusicbed.com/playlists" id="nav-playlists" class="icon-playlist">Playlists</a>
-      <!-- <a href="#" id="nav-radio" class="icon-radio no-pjax">TMB Radio</a> -->
-      <a href="/custom" id="nav-custom" class="icon-custom no-pjax">Custom</a>
-      <a href="/community/" id="nav-community" class="icon-community no-pjax">Community</a>
-            <!-- <a href="#" id="nav-register" class="icon-vcard no-pjax _drawer" data-drawer="create-account">Register</a> -->
-      <div id="fly-out-nav">
-        <a href="#" class="icon-plus" id="open-fly-out-nav">More</a>
-        <div id="util-nav">
-          <a href="https://www.themusicbed.com/help-and-support" id="nav-help" class="icon-question no-pjax"></a>
-                            </div>
-        <div id="social-nav">
-          <a href="https://www.facebook.com/musicbed" class="icon-facebook no-pjax" target="_blank"></a>
-          <a href="http://instagram.com/themusicbed" class="icon-instagram no-pjax" target="_blank"></a>
-          <a href="https://twitter.com/#!/themusicbed" class="icon-twitter no-pjax" target="_blank"></a>
-          <a href="http://vimeo.com/musicbed" class="icon-vimeo no-pjax" target="_blank"></a>
-        </div>
-      </div>
-    </nav>
-    <div data-drawer="forgot-password" class="drawer">
-	<form method="POST" action="https://www.themusicbed.com/auth/forgot_password?autocomplete=0" accept-charset="UTF-8" class="drawer-form"><input name="_token" type="hidden" value="g2FZY2K6scy7dqwwnBkkBAwciiACnQaHWiuCrIP1">
+</nav>
+
+                <div data-drawer="forgot-password" class="drawer">
+	<form method="POST" action="https://www.musicbed.com/auth/forgot_password?autocomplete=0" accept-charset="UTF-8" class="drawer-form"><input name="_token" type="hidden" value="hh5BJ8EfaTGYDDg1v9STTAAnYFUKhhgglkQL8QYC">
     <a href="#" class="close-drawer _drawer-close icon-plus"></a>
     <h2>Forgot Password</h2>
     <div class="form-group form-group-email"><input id="id-field-email" placeholder="Email Address" class="form-control" name="email" type="text"></div>
@@ -110,16 +125,16 @@
     <button type="submit" class="">Send Password Reset</button>
   </form>
 </div>
-    <div data-drawer="create-wishlist" class="drawer">
+        <div data-drawer="create-wishlist" class="drawer">
 
-    <form method="POST" action="https://www.themusicbed.com/ajax/wishlists" accept-charset="UTF-8" id="wishlist-attach-song-form" class="drawer-form"><input name="_token" type="hidden" value="g2FZY2K6scy7dqwwnBkkBAwciiACnQaHWiuCrIP1">
+    <form method="POST" action="https://www.musicbed.com/ajax/wishlists" accept-charset="UTF-8" id="wishlist-attach-song-form" class="drawer-form"><input name="_token" type="hidden" value="hh5BJ8EfaTGYDDg1v9STTAAnYFUKhhgglkQL8QYC">
 
         <a href="#" class="close-drawer _drawer-close icon-plus"></a>
         <h2>Add to Wishlist</h2>
 
         <hr>
 
-        <input name="_token" type="hidden" value="g2FZY2K6scy7dqwwnBkkBAwciiACnQaHWiuCrIP1">
+        <input name="_token" type="hidden" value="hh5BJ8EfaTGYDDg1v9STTAAnYFUKhhgglkQL8QYC">
         <input type="hidden" name="song_id" value="" id="id-field-song_id">
 
         <div class="js-wishlist-selector-wrap">
@@ -134,7 +149,7 @@
 
         <div class="new-wishlist js-new-wishlist">
             <h3 class="drawer-subtitle">Add Song to New Wishlist</h3>
-            <a href="#" data-list-url="https://www.themusicbed.com/ajax/wishlists/lists" class="js-cancel-wishlist cancel-wishlist">Choose an existing Wishlist instead</a>
+            <a href="#" data-list-url="https://www.musicbed.com/ajax/wishlists/lists" class="js-cancel-wishlist cancel-wishlist">Choose an existing Wishlist instead</a>
             <div class="form-group form-group-wishlist_name"><label for="id-field-wishlist_name" class="control-label">Name</label><input id="id-field-wishlist_name" placeholder="Your awesome wishlist" class="form-control" name="wishlist_name" type="text"></div>
             <div class="form-group form-group-wishlist_description"><label for="id-field-wishlist_description" class="control-label">Wishlist Description</label><textarea id="id-field-wishlist_description" rows="3" placeholder="Potential TV Spots, Wedding Videos, etc…" class="form-control" name="wishlist_description" cols="50"></textarea></div>
         </div>
@@ -144,12 +159,11 @@
         <div class="form-group form-group-item_description"><label for="id-field-item_description" class="control-label">Item Description</label><textarea id="id-field-item_description" placeholder="Add a note to remind yourself why you loved this song" rows="3" class="form-control" name="item_description" cols="50"></textarea></div>
         <input type="submit" value="Save">
     </form>
-</div>
-            <div data-drawer="vip-wishlist" class="drawer">
+</div>        <div data-drawer="vip-wishlist" class="drawer">
       <form class="drawer-form">
         <a href="#" class="close-drawer _drawer-close icon-plus"></a>
         <h2>Request a VIP Wishlist</h2>
-        <p>As a VIP memeber of The Music Bed, you are able to ask our team of experts to put together a wishlist for you. Just give us some details about your production, and we'll provide you with some ideas for music.</p>
+        <p>As a VIP memeber of Music Bed, you are able to ask our team of experts to put together a wishlist for you. Just give us some details about your production, and we'll provide you with some ideas for music.</p>
         <input type="text" placeholder="What is the name of your project?">
         <input type="text" placeholder="What is your story about?">
         <input type="text" placeholder="What mood is your film?">
@@ -160,11 +174,11 @@
         <textarea placeholder="Example Description"></textarea>
         <input type="submit" value="Submit">
       </form>
-    </div>     <div data-drawer="contact-us" class="drawer">
-    <form method="POST" action="https://www.themusicbed.com/ajax/contactus/store" accept-charset="UTF-8" class="drawer-form" id="contactUsForm"><input name="_token" type="hidden" value="g2FZY2K6scy7dqwwnBkkBAwciiACnQaHWiuCrIP1">
+    </div> <div data-drawer="contact-us" class="drawer contact-form">
+    <form method="POST" action="https://www.musicbed.com/ajax/contactus/store" accept-charset="UTF-8" class="drawer-form" id="contactUsForm"><input name="_token" type="hidden" value="hh5BJ8EfaTGYDDg1v9STTAAnYFUKhhgglkQL8QYC">
     <div id="website_wrap" style="display:none;">
     <input id="website" name="website" type="text" value="">  
-    <input name="my_time" type="hidden" value="eyJpdiI6InFtZkRGQ0pCXC9OcUFyREFMNVJVVmQ3Z1hpZlwvMEl6aWg1cHVrc3c0VlNKWT0iLCJ2YWx1ZSI6IlhYVk5UNjJ2OFJOeURXbWozdnU5QUxEN2hCT2xPejhPeitlYmZnSjhlakE9IiwibWFjIjoiMjViZjQ2NDJmMWU1ZGU2NTE5YzBiZjliM2RjNTIzNGU4Y2Q2NjVkM2FjMWRmODYwMzc5YzlhMDgyZjVhNjc4YiJ9">
+    <input name="my_time" type="hidden" value="eyJpdiI6IjdCU2E4NWRlU1lMU1g1NStVdWxWVnZzZno1XC96RVFBY3JubVZhMTlIbXdrPSIsInZhbHVlIjoiXC9aZmUycnlUTXhUa3JSOU5heXVYRzNvRDh4Y3p2TjhvQTk4XC9CdFJnU01VPSIsIm1hYyI6IjU1OTI5NzYzNTk3MWQ5OWY5OGUwYzAxYjU5MjA1YTIwZTdjNDMxY2NhMzVjN2JhZTdiOThlMWUyZjczODFlYzAifQ==">
 </div><input type="hidden" name="contact_url" value="">
     <a href="#" class="close-drawer _drawer-close icon-plus"></a>
     <h2>Contact Us</h2>
@@ -173,8 +187,8 @@
     <input type="text" name="phone" placeholder="Phone Number">
     <textarea name="message" placeholder="How can we assist you?" class="tall"></textarea>
     <input type="submit" value="Submit">
-            <div class="drawer-callout">
-        <p>1-800-380-8154<br><br>service@themusicbed.com<br><br>158 West Magnolia Ave<br>Fort Worth Texas, 76104</p>
+    <div class="drawer-callout">
+        <p>1-800-380-8154<br><br>support@musicbed.com<br><br>9555 Harmon Road<br>Fort Worth, TX 76177</p>
     </div>
 </form>
 </div>
@@ -185,8 +199,9 @@
         ajaxFormHandler.init($('#contactUsForm'));
     });
 
-</script>     <div data-drawer="custom-license" class="drawer">
-    <form method="POST" action="https://www.themusicbed.com/ajax/customlicensesrequests/store" accept-charset="UTF-8" class="drawer-form custom-original" id="customLicenseRequestForm"><input name="_token" type="hidden" value="g2FZY2K6scy7dqwwnBkkBAwciiACnQaHWiuCrIP1">
+</script>
+ <div data-drawer="custom-license" class="drawer">
+    <form method="POST" action="https://www.musicbed.com/ajax/customlicensesrequests/store" accept-charset="UTF-8" class="drawer-form custom-original" id="customLicenseRequestForm"><input name="_token" type="hidden" value="hh5BJ8EfaTGYDDg1v9STTAAnYFUKhhgglkQL8QYC">
         <a href="#" class="close-drawer _drawer-close icon-plus"></a>
         <h2>Request A Custom License</h2>
 
@@ -225,8 +240,8 @@
         ajaxFormHandler.init($('#customLicenseRequestForm'));
     });
 
-</script>     <div data-drawer="original-score" class="drawer">
-    <form method="POST" action="https://www.themusicbed.com/ajax/originalscorerequests/store" accept-charset="UTF-8" class="drawer-form custom-original-2" id="originalScoreRequestForm"><input name="_token" type="hidden" value="g2FZY2K6scy7dqwwnBkkBAwciiACnQaHWiuCrIP1">
+</script> <div data-drawer="original-score" class="drawer">
+    <form method="POST" action="https://www.musicbed.com/ajax/originalscorerequests/store" accept-charset="UTF-8" class="drawer-form custom-original-2" id="originalScoreRequestForm"><input name="_token" type="hidden" value="hh5BJ8EfaTGYDDg1v9STTAAnYFUKhhgglkQL8QYC">
         <a href="#" class="close-drawer _drawer-close icon-plus"></a>
         <h2>Request An Original Score</h2>
         <div class="form-group form-group-name"><input id="id-field-name" placeholder="Your Name" class="form-control" name="name" type="text"></div>
@@ -251,7 +266,7 @@
     $(function() {
         ajaxFormHandler.init($('#originalScoreRequestForm'));
     });
-</script>     <div data-drawer="download-files" class="drawer" id="downloadAllWrap">
+</script> <div data-drawer="download-files" class="drawer" id="downloadAllWrap">
       <form class="drawer-form">
         <a href="#" class="close-drawer _drawer-close icon-plus"></a>
         <h2>Download your files</h2>
@@ -276,10 +291,11 @@
         </fieldset>
 
       </form>
-    </div>     <div data-drawer="preview-track" class="drawer narrow" id="downloadPreviewWrap">
+    </div> <div data-drawer="preview-track" class="drawer narrow" id="downloadPreviewWrap">
       <form class="drawer-form">
         <a href="#" class="close-drawer _drawer-close icon-plus"></a>
         <h2>Preview Track</h2>
+
         <div class="track-detail">
           <img src="/img/temp-track.jpg">
           <h3>Song Name Even If It Is...</h3>
@@ -287,9 +303,10 @@
         </div>
         <p>This song is Pre-Cleared for the following licenses:</p>
         <div class="license-group">
-          <p class="license">Personal <a href="#">?</a></p>
-          <p class="license">Non-Profit <em>(up to 250 employees)</em> <a href="#">?</a></p>
-          <p class="license">Wedding &amp; Portrait <a href="#">?</a></p>
+          <p class="license">Personal</p>
+          <p class="license">Non-Profit <em>(up to 250 employees)</em></p>
+          <p class="license">Wedding &amp; Portrait</p>
+          <p id="bc" class="license">Business &amp; Corporate</p>
         </div>
         <label class="small"><input type="checkbox" checked="">All Paid Advertising, TV, Film, licenses will require a custom license.</label>
         <br>
@@ -297,10 +314,10 @@
       </form>
       <div class="drawer-callout">
         <p>Don't see the license you need? We can get you a <strong>custom license</strong> or a <strong>custom score</strong></p>
-        <a href="https://www.themusicbed.com/custom/create" class="btn-white js-clear-modal">Request Custom License</a>
+        <a href="https://www.musicbed.com/custom/create" class="btn-white js-clear-modal">Request Custom License</a>
       </div>
     </div>
-     <div data-drawer="finish-your-license" class="drawer" id="finish-your-license-wrap">
+ <div data-drawer="finish-your-license" class="drawer" id="finish-your-license-wrap">
       <form class="drawer-form" method="post">
         <a href="#" class="close-drawer _drawer-close icon-plus"></a>
         <h2>Finish Your License</h2>
@@ -315,15 +332,15 @@
         <fieldset class="short">
           <input type="text" placeholder="Project Name" name="project_name">
           <input type="text" placeholder="Client Name" name="client_name">
-          <textarea placeholder="Project/Scene Description" name="project_description"></textarea>
           <input type="text" placeholder="Where will it be distributed?" name="distribution">
+          <textarea placeholder="Project/Scene Description" name="project_description"></textarea>
           <input type="submit" value="Complete License">
         </fieldset>
       </form>
     </div>
-     <div data-drawer="build-your-license" class="drawer narrow" id="build-your-license">
+ <div data-drawer="build-your-license" class="drawer narrow" id="build-your-license">
 
-    <form method="POST" action="https://www.themusicbed.com/ajax/cart" accept-charset="UTF-8" class="drawer-form"><input name="_token" type="hidden" value="g2FZY2K6scy7dqwwnBkkBAwciiACnQaHWiuCrIP1">
+    <form method="POST" action="https://www.musicbed.com/ajax/cart" accept-charset="UTF-8" class="drawer-form" id="build-your-license-form"><input name="_token" type="hidden" value="hh5BJ8EfaTGYDDg1v9STTAAnYFUKhhgglkQL8QYC">
         <a href="#" class="close-drawer _drawer-close icon-plus"></a>
         <h2>Build Your License</h2>
         <div class="track-detail">
@@ -343,11 +360,11 @@
 
         <div class="priceToggleWrap">
             <p class="price small license-price">Please select all options to see price.</p>
-            <input type="submit" value="Add To Cart">
+            <input class="no-pjax" type="submit" value="Add To Cart">
         </div>
 
         <div class="requestToggleWrap" style="display: none">
-            <a href="https://www.themusicbed.com/custom/create" class="btn-white js-clear-modal">
+            <a href="https://www.musicbed.com/custom/create" class="btn-white js-clear-modal">
                 Request Custom License
             </a>
         </div>
@@ -355,7 +372,7 @@
     </form>
     <div class="drawer-callout">
         <p>Don't see the license you need? We can get you a <strong>custom license</strong> or a <strong>custom score</strong></p>
-        <a href="https://www.themusicbed.com/custom/create" data-default-url="https://www.themusicbed.com/custom/create" class="btn-white _drawer-btn js-clear-modal" id="build-custom-license-a">Request Custom License</a>
+        <a href="https://www.musicbed.com/custom/create" data-default-url="https://www.musicbed.com/custom/create" class="btn-white _drawer-btn js-clear-modal" id="build-custom-license-a">Request Custom License</a>
     </div>
 </div>
 
@@ -365,7 +382,8 @@
         cartFormHandler.init();
     });
 
-</script>     <div data-drawer="license-details" class="drawer license-details">
+</script>
+ <div data-drawer="license-details" class="drawer license-details">
       <p><strong>Permitted Content:</strong><br>
       You are creating a film or slideshow that highlights an organization as a whole. Content may include company highlights, event coverage, culture highlights, and employee insights - films that give an overall sense of the spirit of the organization.</p>
 
@@ -381,7 +399,7 @@
       <p><strong>Lifespan: </strong><br>
       Perpetual </p>
     </div>
-     <div data-drawer="add-edit-song" class="drawer">
+ <div data-drawer="add-edit-song" class="drawer">
       <form class="drawer-form">
         <a href="#" class="close-drawer _drawer-close icon-plus"></a>
         <h2>Add / Edit Song</h2>
@@ -425,11 +443,11 @@
         <input type="submit" value="Complete Song Details">
       </form>
     </div>
-     <div data-drawer="new-artist-application" class="drawer">
-    <form method="POST" action="https://www.themusicbed.com/ajax/applications/artist" accept-charset="UTF-8" class="drawer-form" id="new-artist-submission"><input name="_token" type="hidden" value="g2FZY2K6scy7dqwwnBkkBAwciiACnQaHWiuCrIP1">
+ <div data-drawer="new-artist-application" class="drawer">
+    <form method="POST" action="https://www.musicbed.com/ajax/applications/artist" accept-charset="UTF-8" class="drawer-form" id="new-artist-submission"><input name="_token" type="hidden" value="hh5BJ8EfaTGYDDg1v9STTAAnYFUKhhgglkQL8QYC">
     <div id="website_wrap" style="display:none;">
     <input id="website" name="website" type="text" value="">  
-    <input name="my_time" type="hidden" value="eyJpdiI6IlBIRXhabUdZcXZydVh5ZjdTUVwvZU5SV1EwVmVzSGNCQzg4Rms0WGpEMVlVPSIsInZhbHVlIjoiaGxUUVNKUTRcL053Sm9CWnpKc0xsYWZjeEF4K2ljeFJCZndDbFNEUjUydHc9IiwibWFjIjoiMDYyYjQ4NjUzYmZhNDdkMjlkMDY4NWVmMTI2YmU1MjZhYzhlY2NjYjU5NmZlZDQxN2FmY2M0MmZhMWUyZjkzMCJ9">
+    <input name="my_time" type="hidden" value="eyJpdiI6Ik5EV1FLb3hIalR6REdqSVZpMnFtajRNcWtZVEhYMWVNZlB6SW5cL05Ib2FjPSIsInZhbHVlIjoicVQzV3d5cHN3UjhVa25pSmFieldEa0s3YldZeFdQdUNNVUdDc2xodkttcz0iLCJtYWMiOiJjZDZhNjZmZTcxMGU5MWNjOWQ5YWRkNzUyNmRiYTcxOGViM2FlMWE0NGZmYmIzNjZlOGNhMGRkNTE4MjcxMGQ0In0=">
 </div><input type="hidden" name="contact_url" value="">
             <a href="#" class="close-drawer _drawer-close icon-plus"></a>
             <h2>Apply to Be an Artist on TMB</h2>
@@ -440,7 +458,7 @@
             <input type="submit" value="Submit Application">
             <div class="drawer-callout">
                 <h4>Mailing Address:</h4>
-                <p>158 West Magnolia Ave<br>Fort Worth Texas, 76104</p>
+                <p>9555 Harmon Road<br>Fort Worth, TX 76177</p>
             </div>
     </form>
 </div>
@@ -451,8 +469,9 @@
         ajaxFormHandler.init($('#new-artist-submission'));
     });
 
-</script>     <div data-drawer="wishlist-edit" class="drawer" id="editWishlistDrawer">
-            <form method="POST" action="https://www.themusicbed.com/privacy-policy" accept-charset="UTF-8" class="drawer-form"><input name="_token" type="hidden" value="g2FZY2K6scy7dqwwnBkkBAwciiACnQaHWiuCrIP1">
+</script>
+ <div data-drawer="wishlist-edit" class="drawer" id="editWishlistDrawer">
+            <form method="POST" action="https://www.musicbed.com/privacy-policy" accept-charset="UTF-8" class="drawer-form"><input name="_token" type="hidden" value="hh5BJ8EfaTGYDDg1v9STTAAnYFUKhhgglkQL8QYC">
         
         <a href="#" class="close-drawer _drawer-close icon-plus"></a>
         <h2>Edit Wishlist</h2>
@@ -481,9 +500,9 @@
 
     });
 </script>
-     <div data-drawer="wishlist-item-edit" class="drawer" id="wishlist-item-edit">
+ <div data-drawer="wishlist-item-edit" class="drawer" id="wishlist-item-edit">
 
-    <form method="POST" action="https://www.themusicbed.com/ajax/wishlists/item/update" accept-charset="UTF-8" class="drawer-form"><input name="_token" type="hidden" value="g2FZY2K6scy7dqwwnBkkBAwciiACnQaHWiuCrIP1">
+    <form method="POST" action="https://www.musicbed.com/ajax/wishlists/item/update" accept-charset="UTF-8" class="drawer-form"><input name="_token" type="hidden" value="hh5BJ8EfaTGYDDg1v9STTAAnYFUKhhgglkQL8QYC">
     <a href="#" class="close-drawer _drawer-close icon-plus"></a>
     <h2>Edit Description</h2>
     <div class="track-detail">
@@ -516,19 +535,18 @@
     </script>
 
 </div>
-    
-    
-    
-                <div id="content"><div class="content__wrap">
+        
+        
+                                    <div id="content"><div class="content__wrap">
   <div class="sub-nav">
-    <a href="https://www.themusicbed.com/terms-and-conditions" data-tab="terms-of-use">Terms and Conditions</a>
-    <a href="https://www.themusicbed.com/privacy-policy" data-tab="privacy-policy">Privacy Policy</a>
-    <a href="https://www.themusicbed.com/license-terms" data-tab="license-agreement">License Terms</a>
-    <a href="https://www.themusicbed.com/help-and-support" data-tab="return-policy">Help and Support</a>
+    <a href="https://www.musicbed.com/terms-and-conditions" data-tab="terms-of-use">Terms and Conditions</a>
+    <a href="https://www.musicbed.com/privacy-policy" data-tab="privacy-policy">Privacy Policy</a>
+    <a href="https://www.musicbed.com/license-terms" data-tab="license-agreement">License Terms</a>
+    <a href="https://www.musicbed.com/help-and-support" data-tab="return-policy">Help and Support</a>
   </div> <!-- End #sub-nav -->  <div class="legal-content">
     <h1>Privacy Policy</h1>
 
-    <p>This Privacy Policy governs the manner in which The Music Bed collects, uses, maintains and discloses information collected from users (each, a "User") of the www.themusicbed.com website ("Site"). This privacy policy applies to the Site and all products and services offered by The Music Bed.</p>
+    <p>This Privacy Policy governs the manner in which Music Bed collects, uses, maintains and discloses information collected from users (each, a "User") of the www.musicbed.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Music Bed.</p>
 
     <h3>Personal identification information</h3>
 
@@ -544,7 +562,7 @@
 
     <h3>How we use collected information</h3>
 
-    <p>The Music Bed may collect and use Users personal information for the following purposes:</p>
+    <p>Music Bed may collect and use Users personal information for the following purposes:</p>
 
     <ul>
       <li>To improve customer service
@@ -569,7 +587,7 @@
     <p>Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.</p>
 
     <h3>Changes to this privacy policy</h3>
-    <p>The Music Bed has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
+    <p>Music Bed has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
 
     <h3>Your acceptance of these terms</h3>
     <p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
@@ -577,28 +595,30 @@
     <h3>Contacting us</h3>
 
     <p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br><br>
-    The Music Bed<br>
-    www.themusicbed.com<br>
-    158 West Magnolia Ave<br>
-    Fort Worth, Texas 76104<br>
+    Music Bed<br>
+    www.musicbed.com<br>
+    9555 Harmon Road<br>
+    Fort Worth, TX 76177<br>
     1-800-380-8154<br>
-    service (at) themusicbed.com</p>
+    service (at) www.musicbed.com</p>
 
     <p>This document was last updated on March 4, 2014</p>
   </div>
 </div> <!-- #content__wrap -->
 <footer id="footer">
-  <span>© 2014 The Music Bed</span>
-  <a href="https://www.themusicbed.com/terms-and-conditions">Terms &amp; Conditions</a>
-  <a href="https://www.themusicbed.com/privacy-policy">Privacy Policy</a>
-  <a href="https://www.themusicbed.com/license-terms">License Terms</a>
-  <a href="https://www.themusicbed.com/knowledge-base/pricing">Pricing</a>
-  <a href="https://www.themusicbed.com/help-and-support">Help &amp; Support</a>
-</footer></div> <!-- End #content -->
-        
-    <div id="site-search">
+  <span>©&nbsp;2015 The Music Bed, LLC.</span>
+  <a href="https://www.musicbed.com/terms-and-conditions">Terms &amp; Conditions</a>
+  <a href="https://www.musicbed.com/privacy-policy">Privacy Policy</a>
+  <a href="https://www.musicbed.com/license-terms">License Terms</a>
+  <a href="https://www.musicbed.com/knowledge-base/pricing">Pricing</a>
+  <a href="https://www.musicbed.com/help-and-support">Help &amp; Support</a>
+</footer>
+</div> <!-- End #content -->
 
-    <form method="GET" action="https://www.themusicbed.com/search" accept-charset="UTF-8" data-token="g2FZY2K6scy7dqwwnBkkBAwciiACnQaHWiuCrIP1">
+                
+        <div id="site-search">
+
+    <form method="GET" action="https://www.musicbed.com/search" accept-charset="UTF-8" data-token="hh5BJ8EfaTGYDDg1v9STTAAnYFUKhhgglkQL8QYC">
 
     <a href="#" class="_btn-close-search icon-plus"></a>
     <span class="icon-search"></span>
@@ -666,7 +686,7 @@
 
     </div> <!-- End .cols -->
 </div> <!-- End #site-search -->
-    <div id="player-history-view" data-url="https://www.themusicbed.com/ajax/songs/history">
+        <div id="player-history-view" data-url="https://www.musicbed.com/ajax/songs/history">
     <a href="#" class="_btn-close-history close-history icon-plus"></a>
     <h2>Song History</h2>
     
@@ -674,171 +694,197 @@
     
 </div>
 
-    <span data-token="g2FZY2K6scy7dqwwnBkkBAwciiACnQaHWiuCrIP1" id="csrf-token" class="hide"></span>
+        <span data-token="hh5BJ8EfaTGYDDg1v9STTAAnYFUKhhgglkQL8QYC" id="csrf-token" class="hide"></span>
+
+                    <script>
+            $(function() {
+                tmbRedirector.init();
+            });
+            </script>
 
             <script>
-        $(function() {
-            tmbRedirector.init();
-        });
-        </script>
-
-        <script>
-            adroll_adv_id = "GHDFA4AQERCEZFGXOLTAH4";
-            adroll_pix_id = "OONLBFFWAZEVFBWQDG6TRP";
-            (function () {
-                var oldonload = window.onload;
-                window.onload = function(){
-                __adroll_loaded=true;
-                var scr = document.createElement("script");
-                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-                scr.setAttribute('async', 'true');
-                scr.type = "text/javascript";
-                scr.src = host + "/j/roundtrip.js";
-                ((document.getElementsByTagName('head') || [null])[0] ||
-                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-                if(oldonload){oldonload()}};
-            }());
-        </script>
-
+                adroll_adv_id = "GHDFA4AQERCEZFGXOLTAH4";
+                adroll_pix_id = "OONLBFFWAZEVFBWQDG6TRP";
+                (function () {
+                    var oldonload = window.onload;
+                    window.onload = function(){
+                    __adroll_loaded=true;
+                    var scr = document.createElement("script");
+                    var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                    scr.setAttribute('async', 'true');
+                    scr.type = "text/javascript";
+                    scr.src = host + "/j/roundtrip.js";
+                    ((document.getElementsByTagName('head') || [null])[0] ||
+                    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+                    if(oldonload){oldonload()}};
+                }());
+            </script>
+        
     </tmbcontent>
-<script>
-    $(function(){
+
+    <script>
+    $(function () {
         tmbPlayer.init();
+        App.ExplicitSongsModalHandler.init();
     });
 </script>
-<div id="player">
+<div class="Player__live-chat Player__live-chat--player">
+    <div data-id="0661d1cccf" class="livechat_button"><a href="http://www.livechatinc.com/?partner=lc_4851691&amp;utm_source=chat_button"></a></div>
+</div>
+<div id="player" class="Player player-logged-out bsbb-all">
     <div id="player-gradient"></div>
-    <div id="player-bg"></div>
-    <div id="player-artwork">
-        <a href="#"><img src="https://www.themusicbed.com/img/temp-player-artwork.jpg" width="60" height="60" class="bc-image"></a>
-    </div> <!-- End #player-artwork -->
-    <div id="player-title">
-        <h3><a href="#"></a></h3>
-        <h4><a href="#"></a></h4>
-    </div> <!-- End #player-title -->
-    <div id="tmb_player" class="jp-jplayer" data-playbackurl="https://www.themusicbed.com/ajax/songs/playback"></div>
-    <div id="tmb_player_container" class="jp-audio">
-        <div class="jp-type-single">
-            <div class="jp-gui jp-interface">
-                <div id="jp-volume">
-                    <a href="#" class="icon-volume"></a>
-                    <div class="jp-volume-bar">
-                        <div class="jp-volume-bar-value"></div>
-                    </div>
+    <div id="player-bg" class="Player__artwork-blur zi-neg-1"></div>
+    <div class="Player__wrap bgtg20 g-row fdr">
+        <div class="Player__track-info">
+            <div class="g-row fdr">
+                <div id="player-artwork" class="flex ht-60 Player__artwork">
+                    <a href="#"><img src="https://www.musicbed.com/img/temp-player-artwork.jpg" width="60" height="60" class="bc-image"></a>
                 </div>
-                <ul class="jp-controls">
-                    <li><a href="javascript:;" class="jp-previous" tabindex="1"></a></li>
-                    <li><a href="javascript:;" class="jp-play" tabindex="1"></a></li>
-                    <li><a href="javascript:;" class="jp-pause" tabindex="1"></a></li>
-                    <li><a href="javascript:;" class="jp-next" tabindex="1"></a></li>
-                </ul>
-                <div class="jp-progress">
-                    <div class="jp-seek-bar">
-                        <div id="jp-waveform" class="jp-waveform"></div>
-                        <div class="jp-play-bar"></div>
-                    </div>
+                <!-- End #player-artwork -->
+                <div id="player-title" class="ht-60 plxs flex fdc jcc">
+                    <span class="Player__song-name tal lh-1"><a class="tcw ft-1" href="#"></a></span>
+                    <span class="Player__artist-name tal lh-1"><a class="tcw ft-sm" href="#"></a></span>
                 </div>
-
-                <div class="jp-time-holder">
-                    <div class="jp-current-time"></div>
-                    <div class="jp-duration"></div>
-                </div>
-            </div>
-            <div class="jp-no-solution">
-                <span>Update Required</span>
-                To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+                <!-- End #player-title -->
             </div>
         </div>
 
-                <a href="https://www.themusicbed.com/register" id="player-register" class="icon-vcard">
-            <div class="player-register-message">
-                <div class="player-register-message__inner">
-                    Register now for full length previews
+        <div id="tmb_player" class="fl jp-jplayer Player__no-width" data-playbackurl="https://www.musicbed.com/ajax/songs/playback"></div>
+        <div id="tmb_player_container" class="Player__container jp-audio ">
+            <div class="jp-type-single g-row fdr jcsb">
+                <div id="jp-volume" class="Player__btn--sm-hide flex ht-60 pos-rel">
+                    <a href="#" class="bgtg50 icon-volume Player__btn Player__btn-volume aic jcc ht-60"></a>
+
+                    <div class="jp-volume-bar Player__volume-bar">
+                        <div class="jp-volume-bar-value Player__volume-value"></div>
+                    </div>
                 </div>
+                <ul class="jp-controls Player__controls flex ht-60">
+                    <li class="Player__btn jp-previous"><a href="javascript:;" class="Player__btn Player__btn-prev" tabindex="1"></a></li>
+                    <li class="Player__btn"><a href="javascript:;" class="jp-play Player__btn Player__btn-play" tabindex="1"></a><a href="javascript:;" class="jp-pause Player__btn Player__btn-play--is-paused" tabindex="1"></a></li>
+                    <li class="Player__btn jp-next"><a href="javascript:;" class="Player__btn Player__btn-next" tabindex="1"></a></li>
+                </ul>
+
+                                                    <div href="https://www.musicbed.com/register" id="player-register" class="Player__register ht-60 aic acc jcc">
+                                                <div class="player-register-message tcw ft-1 flex aic acc jcc ht-60">
+                            <a href="https://www.musicbed.com/login" class="btn btn--primary btn--xsmall tcw">Login</a>&nbsp; or &nbsp;<a href="https://www.musicbed.com/register" class="btn btn--primary btn--xsmall">Register</a>&nbsp; <span class="dn--sm dn--md">for full length previews</span>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+
+        
+    </div>
+
+
+    <div class="remodal explicitModal" data-remodal-id="explicitModal">
+        <h2 class="mb60">This song is explicit, would you like to play it?</h2>
+        <div class="tmb-row text-center mb20">
+            <div class="tmb-col-12">
+                <a class="remodal-confirm no-pjax btn btn--primary uppercase" href="#">Yes</a>
             </div>
-        </a>
+        </div>
+        <div class="tmb-row text-center mb60">
+            <div class="tmb-col-12">
+                <a class="remodal-cancel no-pjax btn btn--primary uppercase" href="#">No</a>
             </div>
-</div>
-  <script src="https://www.themusicbed.com/js/jquery.cycle2.min.js"></script>
-  <script src="/js/jquery.nouislider.min.js"></script>
-  <script src="/js/selectize.min.js"></script>
-  <script src="/js/jquery.icheck.min.js"></script>
-  <script src="https://www.themusicbed.com/js/jquery-ui.min.js"></script>
-  <script src="/js/jquery.jplayer.min.js"></script>
-  <script src="https://www.themusicbed.com/js/jquery.energygraph.js"></script>
-  <script src="https://www.themusicbed.com/js/jquery.pjax.js"></script>
-  <script src="https://www.themusicbed.com/js/jquery.growl.js"></script>
-  <script src="https://www.themusicbed.com/pickdate/picker.js"></script>
-  <script src="https://www.themusicbed.com/pickdate/picker.date.js"></script>
+        </div>
+        
+    </div>
 
-  <script src="https://www.themusicbed.com/packages/jquery-uploader/js/jquery.iframe-transport.js"></script>
-  <script src="https://www.themusicbed.com/packages/jquery-uploader/js/jquery.fileupload.js"></script>
+    <script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/jquery.cycle2.min.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/jquery.nouislider.min.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/selectize.min.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/jquery.icheck.min.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/jquery-ui.min.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/jquery.jplayer.min.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/jquery.energygraph.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/jquery.pjax.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/jquery.growl.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/pickdate/picker.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/pickdate/picker.date.js"></script>
 
-  <script type="text/javascript">
-      var csrf_token = "g2FZY2K6scy7dqwwnBkkBAwciiACnQaHWiuCrIP1";
-      var lifetime = 0;
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/packages/jquery-uploader/js/jquery.iframe-transport.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/packages/jquery-uploader/js/jquery.fileupload.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/packages/Remodal/dist/jquery.remodal.min.js"></script>
 
-      setInterval(function(){
+<script type="text/javascript">
+  var csrf_token = "hh5BJ8EfaTGYDDg1v9STTAAnYFUKhhgglkQL8QYC";
+  var lifetime = 0;
+  var liveChatAgents = !!+"0"; // Force 1 and 0 to be bool
 
-          lifetime+=60;
+  setInterval(function(){
 
-          if (lifetime > 86400) {
-              location.reload();
-          }
+      lifetime+=60;
 
-      }, 60000);
-  </script>
+      if (lifetime > 86400) {
+          location.reload();
+      }
 
-  <script src="https://www.themusicbed.com/js/waveform.js"></script>
-  <script src="https://www.themusicbed.com/js/chart.js"></script>
-  <script src="https://www.themusicbed.com/js/pixastic.custom.js"></script>
-  <script src="https://www.themusicbed.com/js/tipped.js"></script>
+  }, 60000);
+</script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/waveform.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/chart.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/pixastic.custom.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/tipped.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/common.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/App.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/modules/App.CustomLicenseRequestFormHandler.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/modules/App.CreateAccountFormHandler.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/modules/App.MainNav.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/modules/App.HomeHeader.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/modules/App.LoginForm.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/modules/App.OriginalScoreRequestFormHandler.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/modules/App.Wishlists.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/modules/App.Wishlists.Actions.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/modules/App.ArtistImageUploader.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/modules/App.OwnerTableActions.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/modules/App.ExplicitSongsModalHandler.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/modules/App.StripeModalHandler.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/modules/App.StripeAddCardHandler.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/browse.js"></script>
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/drawer.js"></script>
 
-  <script src="https://www.themusicbed.com/js/common.js?v=3"></script>
-  <script src="https://www.themusicbed.com/js/App.js"></script>
-  <script src="https://www.themusicbed.com/js/modules/App.CustomLicenseRequestFormHandler.js"></script>
-  <script src="https://www.themusicbed.com/js/modules/App.CreateAccountFormHandler.js"></script>
-  <script src="https://www.themusicbed.com/js/modules/App.MainNav.js"></script>
-  <script src="https://www.themusicbed.com/js/modules/App.HomeHeader.js"></script>
-  <script src="https://www.themusicbed.com/js/modules/App.LoginForm.js"></script>
-  <script src="https://www.themusicbed.com/js/modules/App.OriginalScoreRequestFormHandler.js"></script>
-  <script src="https://www.themusicbed.com/js/modules/App.Wishlists.js"></script>
-  <script src="https://www.themusicbed.com/js/modules/App.Wishlists.Actions.js"></script>
-  <script src="https://www.themusicbed.com/js/browse.js"></script>
-  <script src="https://www.themusicbed.com/js/drawer.js"></script>
-  <script src="https://www.themusicbed.com/js/main.js"></script>
-  <script type="text/javascript">
-      $(document).ready(function() {
 
+<script src="https://d3c0d5hafwxz9e.cloudfront.net/82dd014a29bcaa5eb6c588c0c4649c57/js/main.js"></script>
+
+<script type="text/javascript">
+    // Set current user data in Javascript so we can use it later
+    App.user = {}
+
+    $(document).ready(function() {
+      if ($.support.pjax) {
           $(document).on('click', 'a', function(event) {
               if ( ! $(this).hasClass('no-pjax')) {
-                  $.pjax.click(event, 'tmbcontent', {timeout:2500});
+                 //var container = $(this).closest('[data-pjax-container]');
+                 $.pjax.click(event, {container: 'tmbcontent', timeout:2500});
               }
           });
+      }
 
-          $(document).on('pjax:complete', function(event) {
+      $(document).on('pjax:complete', function(event) {
 
-              // Initialize search module
-              if ($(event.target) && $(event.target).prop("tagName") == 'TMBCONTENT')
-              {
-                   tmbSearch.init();
-              }
+          // Initialize search module
+          if ($(event.target) && $(event.target).prop("tagName") == 'TMBCONTENT')
+          {
+               tmbSearch.init();
+          }
 
-              // Google Analytics Support for pjax
-              ga('set', 'location', window.location.href);
-              ga('send', 'pageview');
+          // Google Analytics Support for pjax
+          ga('set', 'location', window.location.href);
+          ga('send', 'pageview');
 
-              // Initializes the date pickers on any page that has a date picker
-              $('.date-picker').pickadate({
-                  format: 'yyyy-mm-dd'
-              });
-
-              csrf_token = $('#csrf-token').data('token');
-              lifetime = 0;
-
+          // Initializes the date pickers on any page that has a date picker
+          $('.date-picker').pickadate({
+              format: 'yyyy-mm-dd'
           });
+
+          csrf_token = $('#csrf-token').data('token');
+          lifetime = 0;
+
       });
-  </script>
- <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"ed2bcbdfc8","applicationID":"2675007","transactionName":"YwRQZEZQV0tVVhJYWVpOZ0JdHlBWUFAeH0ZcEQ==","queueTime":0,"applicationTime":108,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+  });
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"ed2bcbdfc8","applicationID":"3837189","transactionName":"YwRQZEZQV0tVVhJYWVpOZ0JdHlBWUFAeH0ZcEQ==","queueTime":0,"applicationTime":145,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</div><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
