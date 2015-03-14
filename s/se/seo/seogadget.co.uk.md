@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seogadget.co.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224122247id_/http%3A//builtvisible.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seogadget.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002817id_/http%3A//builtvisible.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies - Builtvisible
 
