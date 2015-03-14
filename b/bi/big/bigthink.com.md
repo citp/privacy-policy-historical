@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigthink.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009221645id_/http%3A//bigthink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigthink.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004401id_/http%3A//bigthink.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Big Think
 
@@ -92,5 +92,3 @@ Big Think may use a user's e-mail address to send updates, a newsletter or news 
 ###  Changes to this Privacy Policy 
 
 Big Think may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used or collected. If we make changes in the way we use Personal Information, we will notify you via e-mail or by posting an announcement on bigthink.com. Users are bound by any changes to the Privacy Policy when he or she uses bigthink.com after such changes have been first posted. 
-
- 
