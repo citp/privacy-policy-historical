@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharetv.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016005406id_/http%3A//sharetv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharetv.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231334id_/http%3A//sharetv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ShareTV
 
