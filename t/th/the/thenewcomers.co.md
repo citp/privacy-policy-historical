@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewcomers.co privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213205941id_/http%3A//www.thenewcomers.co/page/7/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewcomers.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001136id_/http%3A//www.thenewcomers.co/pages/7/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheNewcomers.co
 
