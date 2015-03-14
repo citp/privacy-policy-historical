@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the bluebottle.com privacy policy that was archived on 2014-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141128011812id_/http%3A//bluebottle.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluebottle.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315005052id_/https%3A//www.bluebottle.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Bluebottle Email: Privacy</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="Description" content="As spam email becomes a growing problem for email users everywhere, Bluebottle uses unique anti spam technology to keep your email spam free. Sign up now and get your free email account">
 	<meta name="Keywords" content="free email, free email address, free email account, free pop3 email, anti spam, spam free, spam blocker, spam filter">
-	<link rel="stylesheet" type="text/css" href="/style/stylesheet.css">
+	<link rel="stylesheet" type="text/css" href="/style/stylesheet.css?v7572">
 <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/ie-6.0.css" /><![endif]-->
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/ie-7.0.css" /><![endif]-->
   </head>
@@ -21,7 +21,7 @@
 <!--	<li><a class="affiliates_a" href="/affiliates.php">Affiliates</a></li> -->
 	<li><a class="contact_a" href="/contact.php">Contact</a></li>
 	<li><a class="index_a" href="/index.php">Home</a></li>
-	<li style="width:200px"></li>
+	<li style="width:100px"></li>
 </ul>
 
 
@@ -33,21 +33,13 @@ function defaultDomain() {
 		document.login.imapuser.value=username + "@bluebottle.com";
 	return true;
 }
-function formTarget () {
-	target = document.login.action;
-	target.match(/^(https|http):\/\/([^:\/\s]+)((\/\w+)*\/)([\w\-\.]+\.[^#?\s]+)$/);
-	if (RegExp.$1 == 'http')
-		document.login.action='https://' + RegExp.$2 + RegExp.$3 + RegExp.$5;
-	else
-		document.login.action='http://' + RegExp.$2 + RegExp.$3 + RegExp.$5;
-}
 function selectField() {
 	document.forms['login'].imapuser.focus();
 	document.forms['login'].imapuser.select();
 }
 </script>
 
-<form method="post" action="http://mail.bluebottle.com/filter.php" onsubmit="return defaultDomain();" id="login" name="login">
+<form method="post" action="https://mail.bluebottle.com/filter.php" onsubmit="return defaultDomain();" id="login" name="login">
 	<table>
 		<tbody><tr>
 			<td>
@@ -62,22 +54,23 @@ function selectField() {
 				<input type="hidden" name="realm" value="">
 				<input type="hidden" name="folders" value="mail/">
 			</td>
-			<td>	
-				<input tabindex="4" type="checkbox" name="ssl" onchange="formTarget()">
-				Log in with SSL
-			</td>
 		</tr>
 		<tr>
 			<td align="right">EMAIL </td>
-			<td>	<input tabindex="1" type="text" name="imapuser" size="20" style="width:130px;"></td>
+			<td>	<input tabindex="1" type="text" name="imapuser" size="20" style="width:230px;margin-left:5px;"></td>
 		</tr>
 		<tr>
 			<td align="right">PASSWORD </td>
 			<td>
-				<input tabindex="2" type="password" name="pass" size="20" style="width:130px;">
+				<input tabindex="2" type="password" name="pass" size="20" style="width:230px;margin-left:5px;">
 				<span class="go">
 					<input tabindex="3" type="image" value="Log in" title="Login" name="image" src="/images/login-button.gif" alt="Login">
 				</span>
+			</td>
+		</tr>
+		<tr>
+			<td align="right"></td>
+			<td><a href="/password.php" class="forgot-link">Forgotten Password?</a>
 			</td>
 		</tr>
 	</tbody></table>
@@ -91,13 +84,10 @@ function selectField() {
     			<div id="maintextarea"> 
       				<div id="left"> 
 					
-					<!-- AddThis Bookmark Button BEGIN --> 
-<p align="center"><a href="http://www.addthis.com/bookmark.php" onclick="window.open('http://www.addthis.com/bookmark.php?pub=bluebottle&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'addthis', 'scrollbars=yes,menubar=no,width=620,height=520,resizable=yes,toolbar=no,location=no,status=no'); return false;" title="Bookmark using any bookmark manager!" target="_blank"><img src="/images/button1-bm.gif" width="125" height="16" border="0" alt="AddThis Social Bookmark Button"></a></p>
-<!-- AddThis Bookmark Button END --> 
-
+					
 					<div id="quote"> 
-						<p>"Your service is impeccable." - <strong>Perry E,</strong> </p><p><br>
-"Now bluebottle is running smoother than Ever! Thank you very much for supplying me with the service." - <strong>Connagh,</strong></p><p>"Thank YOU for providing a great service! I've got my whole family hooked!" - <strong>Kerryn M,</strong> </p><p>"The service is too excellent and I will inform all my colleagues to use this site." - <strong>Maruthi, </strong></p><p>"I see that you've responded to your customers ideas with great services. I would like to thank you for these improvements." - <em><strong>Murat S</strong></em></p>
+						<p>"I really like the way you guys run things." - <strong>Jake L,</strong> </p><p>"Your email service is the best one of all. There is no other better spam provider other than yours.... TRULY THE BEST..." - <strong>Jainam S, </strong></p><p>"I can count many email providers who have promised many juicy things and could not fulfill them at all. I can confirm that Bluebottle is different and will remain different... keep up the good job." - <strong>Oyeniyi B,</strong></p><p><br>
+"Now bluebottle is running smoother than Ever! Thank you very much for supplying me with the service." - <strong>Connagh,</strong></p><p>"Thank YOU for providing a great service! I've got my whole family hooked!" - <strong>Kerryn M,</strong> </p>
       					</div> 
      				</div> 
 				<div id="right">
@@ -106,7 +96,7 @@ function selectField() {
 
  
       				<div id="maintext">  
-					<h1>bluebottle - <span>privacy policy</span> </h1>
+					<h1>Privacy policy</h1>
 					<div id="maincontent">
         					<ol>
       </ol><table class="privacy" cellspacing="0" cellpadding="0">
@@ -118,7 +108,7 @@ function selectField() {
       <td></td>
       <td>This Privacy Policy:
           <ol>
-            <li>discloses the privacy practices for the websites located at <a href="http://www.bluebottle.com">www.bluebottle.com </a> and <a href="http://mail.bluebottle.com">mail.bluebottle.com </a> (together, the <strong>Website</strong>), solely operated by Bluebottle Solutions Pty Ltd ( <strong>we</strong>, the <strong>Company</strong>, or <strong>us </strong>); and </li>
+            <li>discloses the privacy practices for the websites located at <a href="https://www.bluebottle.com">www.bluebottle.com </a> and <a href="https://mail.bluebottle.com">mail.bluebottle.com </a> (together, the <strong>Website</strong>), solely operated by Bluebottle Solutions Pty Ltd ( <strong>we</strong>, the <strong>Company</strong>, or <strong>us </strong>); and </li>
             <li>sets out matters relating to the collection, use, disclosure and storage by us of personal information relating to our customers (the <strong>Customer </strong> or <strong>you </strong>). </li>
         </ol>
 	</td>
@@ -324,7 +314,7 @@ function selectField() {
     			<div id="footer"> 
 				<br>&nbsp;&nbsp;
 				<a href="/privacy.php">privacy</a> | <a href="/terms.php">terms &amp; conditions</a><!-- | <a href="/link.php">link to us</a>--><br>
-<p id="copyright">(c) 2012 Bluebottle Solutions Pty Ltd. Bluebottle is a member of the <a href="http://www.truedomain.net" target="_blank">Truedomain</a> receiver network. <a href="http://twitter.com/bluebottlemail">See the Bluebottle Twitter feed</a>.</p>
+<p id="copyright">(c) 2015 Bluebottle Solutions Pty Ltd.</p>
  
     			</div>  
     		</div>
