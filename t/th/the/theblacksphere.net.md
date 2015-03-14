@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the theblacksphere.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061108id_/http%3A//theblacksphere.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblacksphere.net privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234748id_/http%3A//theblacksphere.net/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy / Terms & Conditions | The Black Sphere | TheBlackSphere.net | The Black Sphere | TheBlackSphere.net
 
 At TheBlackSphere.net, the privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which this website collects, uses, maintains and discloses information collected from users (each, a “User”) of the TheBlackSphere.net website (“Site”). This privacy policy applies to the Site and all products and services offered by TheBlackSphere.net.
+
+TheBlackSphere.net prohibits unsolicited messages. If you want to receive TheBlackSphere.net emails you will need to optin in and confirm your email address.
 
 **Personal identification information**
 
