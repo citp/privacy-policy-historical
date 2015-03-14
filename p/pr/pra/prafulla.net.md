@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prafulla.net privacy policy that was archived on 2014-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140721145150id_/http%3A//prafulla.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prafulla.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002039id_/http%3A//prafulla.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Prafulla.net
 
