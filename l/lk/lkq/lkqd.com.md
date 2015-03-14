@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lkqd.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016090736id_/http%3A//lkqd.com/%3Fpage_id%3D392) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkqd.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314232225id_/http%3A//lkqd.com/%3Fpage_id%3D392) for the most accurate reproduction.*
 
 # Privacy Policy | LKQD
 
