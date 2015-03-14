@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the memeo.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625103243id_/http%3A//memeo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the memeo.com privacy policy that was archived on 2015-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150314235037id_/http%3A//memeo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
@@ -106,6 +106,19 @@ var CCM_REL = "";
 				this.href = this.href.replace("/c1/resources/memeo-blog/", "/memeo-c1/resources/memeo-blog/");
 			});
 			$('a[title$=".pdf"]').attr('target','_blank');
+			
+			//$('a[href^="http://memeo.comhttp://memeo.com"]').each(function() {
+			//	this.href = this.href.replace("http://memeo.comhttp://memeo.com", "");
+			//});
+			
+			var iframe = $('.responsive-iframe-container iframe');
+			var iframeSource = iframe.attr('src');
+			var downloadStory = '<div class="downloaddiv" style="display: block;"><br/><a href="'+ iframeSource +'">Download the Story</a><br/><br/></div>'
+
+			iframe.parent().addClass('pdfdiv').before(downloadStory);
+			var isiPad = navigator.userAgent.match(/iPad/i) != null;
+			if (isiPad) $('.pdfdiv').hide();
+			
 		});
 	</script>
 
@@ -162,10 +175,40 @@ input.gsc-search-button, input.gsc-search-button-v2 { background-color: #125581 
 		<div class="pause">&nbsp;</div>
 		<div class="play"></div>		
 	</div>
-	<a href="/index.php/news/unicom-acquires-firetide/" target="_self"><div class="txt">5.19.2014 </div></a>
+	<a href="/index.php/news/focal-point-purifyplus/" target="_self"><div class="txt">12.31.2014 </div></a>
 </div>
 
 <div id="tickerItems757" class="tickerItems"> 
+			
+		<div class="tickerItem"> 
+			<div class="tickerTitle">12.31.2014 :: UNICOM® Global Acquires IBM® Rational® Focal Point and Rational® PurifyPlus Solutions from IBM® Corp.</div> 			
+			<div class="tickerLink">/index.php/news/focal-point-purifyplus/</div>
+			<div class="tickerDate"></div> 
+		</div> 	
+			
+		<div class="tickerItem"> 
+			<div class="tickerTitle">8.31.2014 :: UNICOM® Global Acquires Cognos® Finance Business Analytics Software from IBM® Corp.</div> 			
+			<div class="tickerLink">/index.php/news/cognos-finance/</div>
+			<div class="tickerDate"></div> 
+		</div> 	
+			
+		<div class="tickerItem"> 
+			<div class="tickerTitle">7.16.2014 :: UNICOM Engineering Adds SolidFire to Customer List</div> 			
+			<div class="tickerLink">/index.php/news/solidfire-partnership/</div>
+			<div class="tickerDate"></div> 
+		</div> 	
+			
+		<div class="tickerItem"> 
+			<div class="tickerTitle">7.1.2014 :: UNICOM® Global Acquires solidDB® from IBM® Corp.</div> 			
+			<div class="tickerLink">/index.php/news/unicom-soliddb/</div>
+			<div class="tickerDate"></div> 
+		</div> 	
+			
+		<div class="tickerItem"> 
+			<div class="tickerTitle">6.30.2014 :: UNICOM® Acquires Visual and Unified Communications Solutions Business Unit</div> 			
+			<div class="tickerLink">/index.php/news/unicom-government-visual-and-unified-communications/</div>
+			<div class="tickerDate"></div> 
+		</div> 	
 			
 		<div class="tickerItem"> 
 			<div class="tickerTitle">5.19.2014 :: UNICOM® Global Acquires Firetide® Wireless Network Expert</div> 			
@@ -190,6 +233,12 @@ input.gsc-search-button, input.gsc-search-button-v2 { background-color: #125581 
 			<div class="tickerLink">/index.php/news/unicom-government-eagle-ii/</div>
 			<div class="tickerDate"></div> 
 		</div> 	
+			
+		<div class="tickerItem"> 
+			<div class="tickerTitle">11.5.2013 :: Anne Arundel County Government Begins Major Technology Upgrade</div> 			
+			<div class="tickerLink">/index.php/news/anne-arundel-upgrade/</div>
+			<div class="tickerDate"></div> 
+		</div> 	
 	 	
 </div>
 <script>
@@ -201,7 +250,7 @@ ticker757.init();
     
     <nav>
     	<div id="mobile-nav-btn">Menu<span></span></div>
-    	<ul class="sf-menu sf-js-enabled sf-arrows"><li class=""><a href="/" target="_self" class="">Home</a></li><li class=""><a href="/memeo-c1/memeo-c1-solutions/" target="_self" class="sf-with-ul">Memeo C1</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/memeo-c1/memeo-c1-solutions/" target="_self" class="sf-with-ul">Memeo C1 Solutions</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/memeo-c1/memeo-c1-solutions/online-file-sharing/" target="_self" class="">Online File Sharing</a></li><li class=""><a href="/memeo-c1/memeo-c1-solutions/activity-management/" target="_self" class="">Activity Management</a></li><li class=""><a href="/memeo-c1/memeo-c1-solutions/document-management/" target="_self" class="">Document Management</a></li><li class=""><a href="/memeo-c1/memeo-c1-solutions/remote-device-management/" target="_self" class="">Remote Device Management</a></li></ul></li><li class=""><a href="/memeo-c1/business-features/" target="_self" class="sf-with-ul">Business Features</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/memeo-c1/business-features/data-encryption/" target="_self" class="">Data Encryption</a></li><li class=""><a href="/memeo-c1/business-features/backup-and-recovery/" target="_self" class="">Backup and Recovery</a></li><li class=""><a href="/memeo-c1/business-features/data-security/" target="_self" class="">Data Security</a></li></ul></li><li class=""><a href="/memeo-c1/resources/" target="_self" class="sf-with-ul">Resources</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/memeo-c1/resources/#products" target="_self" class="">Product Info</a></li><li class=""><a href="/memeo-c1/resources/#guides" target="_self" class="">Guides</a></li><li class=""><a href="/memeo-c1/resources/#cstudies" target="_self" class="">Case Studies</a></li><li class=""><a href="/memeo-c1/resources/#videos" target="_self" class="">Videos</a></li><li class=""><a href="/memeo-c1/resources/blog/" target="_self" class="">Memeo Blog</a></li><li class=""><a href="/memeo-c1/resources/secure-file-sharing-101/" target="_self" class="">Secure File Sharing 101</a></li></ul></li></ul></li><li class=""><a href="/business-solutions/" target="_self" class="sf-with-ul">Business Solutions</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/memeo-c1/memeo-c1-solutions/" target="_self" class="">Memeo C1</a></li><li class=""><a href="/business-solutions/memeo-professional-backup/" target="_self" class="">Memeo Professional Backup</a></li><li class=""><a href="/business-solutions/memeo-send/" target="_self" class="">Memeo Send</a></li></ul></li><li class=""><a href="/home-solutions/" target="_self" class="sf-with-ul">Home Solutions</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/home-solutions/memeo-premium-backup/" target="_self" class="">Memeo Premium Backup</a></li><li class=""><a href="/home-solutions/memeo-instant-backup/" target="_self" class="">Memeo Instant Backup</a></li><li class=""><a href="/home-solutions/memeo-autosync/" target="_self" class="">Memeo AutoSync</a></li></ul></li><li class=""><a href="/about/" target="_self" class="sf-with-ul">About Memeo</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/about/corry-hong-founder-and-ceo-unicom-global/" target="_self" class="sf-with-ul">About UNICOM's Founder</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/about/corry-hong-founder-and-ceo-unicom-global/message-ceo-corry-hong/" target="_self" class="">Message from UNICOM CEO</a></li></ul></li><li class=""><a href="/about/careers/" target="_self" class="">Careers</a></li><li class=""><a href="/about/contact-us/" target="_self" class="">Contact Us</a></li><li class=""><a href="/about/blog/" target="_self" class="">Memeo Blog</a></li></ul></li><li class=""><a href="/news/" target="_self" class="">News</a></li><li class=""><a href="http://support.memeo.com" target="_self" class="">Support</a></li></ul>        <div class="clearboth">&nbsp;</div>
+    	<ul class="sf-menu sf-js-enabled sf-arrows"><li class=""><a href="/" target="_self" class="">Home</a></li><li class=""><a href="/memeo-c1/memeo-c1-solutions/" target="_self" class="sf-with-ul">Memeo C1</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/memeo-c1/memeo-c1-solutions/" target="_self" class="sf-with-ul">Memeo C1 Solutions</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/memeo-c1/memeo-c1-solutions/online-file-sharing/" target="_self" class="">Online File Sharing</a></li><li class=""><a href="/memeo-c1/memeo-c1-solutions/activity-management/" target="_self" class="">Activity Management</a></li><li class=""><a href="/memeo-c1/memeo-c1-solutions/document-management/" target="_self" class="">Document Management</a></li><li class=""><a href="/memeo-c1/memeo-c1-solutions/remote-device-management/" target="_self" class="">Remote Device Management</a></li></ul></li><li class=""><a href="/memeo-c1/business-features/" target="_self" class="sf-with-ul">Business Features</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/memeo-c1/business-features/data-encryption/" target="_self" class="">Data Encryption</a></li><li class=""><a href="/memeo-c1/business-features/backup-and-recovery/" target="_self" class="">Backup and Recovery</a></li><li class=""><a href="/memeo-c1/business-features/data-security/" target="_self" class="">Data Security</a></li></ul></li><li class=""><a href="/memeo-c1/resources/" target="_self" class="sf-with-ul">Resources</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/memeo-c1/resources/#products" target="_self" class="">Product Info</a></li><li class=""><a href="/memeo-c1/resources/#guides" target="_self" class="">Guides</a></li><li class=""><a href="/memeo-c1/resources/#cstudies" target="_self" class="">Case Studies</a></li><li class=""><a href="/memeo-c1/resources/#videos" target="_self" class="">Videos</a></li><li class=""><a href="/memeo-c1/resources/blog/" target="_self" class="">Blog</a></li><li class=""><a href="/memeo-c1/resources/secure-file-sharing-101/" target="_self" class="">Secure File Sharing 101</a></li></ul></li></ul></li><li class=""><a href="/business-solutions/" target="_self" class="sf-with-ul">Business</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/memeo-c1/memeo-c1-solutions/" target="_self" class="">Memeo C1</a></li><li class=""><a href="/business-solutions/memeo-professional-backup/" target="_self" class="">Memeo Professional Backup</a></li><li class=""><a href="/business-solutions/memeo-send/" target="_self" class="">Memeo Send</a></li></ul></li><li class=""><a href="/home-solutions/" target="_self" class="sf-with-ul">Home</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/home-solutions/memeo-premium-backup/" target="_self" class="">Memeo Premium Backup</a></li><li class=""><a href="/home-solutions/memeo-instant-backup/" target="_self" class="">Memeo Instant Backup</a></li><li class=""><a href="/home-solutions/memeo-autosync/" target="_self" class="">Memeo AutoSync</a></li></ul></li><li class=""><a href="/about/" target="_self" class="sf-with-ul">About</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/about/corry-hong-founder-and-ceo-unicom-global/" target="_self" class="sf-with-ul">About UNICOM's Founder</a><div class="mobnav-subarrow"></div><ul style="display: none;"><li class=""><a href="/about/corry-hong-founder-and-ceo-unicom-global/message-ceo-corry-hong/" target="_self" class="">Message from UNICOM CEO</a></li></ul></li><li class=""><a href="/about/careers/" target="_self" class="">Careers</a></li><li class=""><a href="/about/contact-us/" target="_self" class="">Contact Us</a></li></ul></li><li class=""><a href="/news/" target="_self" class="">News</a></li><li class=""><a href="/blog/" target="_self" class="">Blog</a></li><li class=""><a href="http://support.memeo.com" target="_self" class="">Support</a></li></ul>        <div class="clearboth">&nbsp;</div>
     </nav><!-- nav ends -->
     
     <div id="feature">
@@ -327,14 +376,14 @@ ticker757.init();
 <p>&nbsp;</p>            </div><!-- .col_3 ends -->
             <div class="col_4 last" style="width:30.8%">
 
-                <p style="text-align: right;"><span>Memeo - A Division of UNICOM Global</span><br><a href="http://goo.gl/maps/FgfHy" target="_blank"><span>469 El Camino Real Ste. 201</span><br><span>Santa Clara, CA 95050 USA</span></a></p>
-<p style="text-align: right;">t:&nbsp;<span>+1.<span>408.834.7168</span><br>f: <span>+1.408.453.3151</span></span></p>
+                <p style="text-align: right;"><span>Memeo - A Division of UNICOM Global</span><br><a href="https://goo.gl/maps/Eo0Mv"><span>2105 South Bascom Avenue</span><br><span>Suite 220</span><br><span>Campbell CA 95008 USA</span></a></p>
+<!--<p style="text-align: right;">t: <span>+1.<span>408.834.7168</span><br />f: <span>+1.408.453.3151</span></span></p>-->
 <p style="text-align: right;"><a href="mailto:sales@memeo-inc.com">sales@memeo-inc.com</a></p>
-<p style="text-align: right;"><a class="opacityit iframe" href="http://info.memeo.com/Contact-Memeo-Sales-Form.html">Request Additional Information</a></p>            </div><!-- .col_3 ends -->
+<p style="text-align: right;"><a class="opacityit iframe" href="http://www.memeo.com/contact-form/">Request Additional Information</a></p>            </div><!-- .col_3 ends -->
         </div><!-- .row ends -->
         <div class="row">
             <div id="credits" class="col_12 clearboth">
-                 <p class="left">Copyright ©  2014 Memeo - A Division of UNICOM Global. All Rights Reserved.</p><p class="right"><a href="/contact">Contact</a>&nbsp;&nbsp; <a href="/sitemap">Site Map</a> &nbsp;&nbsp; <a href="/legal">Legal</a> &nbsp;&nbsp; <a href="/terms-and-conditions"> Terms &amp; Conditions</a> &nbsp;&nbsp; <a href="/privacy"> Privacy</a></p></div><!-- #credits ends -->
+                 <p class="left">Copyright ©  2015 Memeo - A Division of UNICOM Global. All Rights Reserved.</p><p class="right"><a href="/contact">Contact</a>&nbsp;&nbsp; <a href="/sitemap">Site Map</a> &nbsp;&nbsp; <a href="/legal">Legal</a> &nbsp;&nbsp; <a href="/terms-and-conditions"> Terms &amp; Conditions</a> &nbsp;&nbsp; <a href="/privacy"> Privacy</a></p></div><!-- #credits ends -->
         </div><!-- .row ends -->
     </footer><!-- footer ends -->
 
