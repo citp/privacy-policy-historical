@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702065402id_/https%3A//www.worketc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001120id_/https%3A//www.worketc.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - we hate spam too.
+# Privacy Policy - we hate spam too. -
 
 PRIVACY POLICY
 
@@ -8,16 +8,20 @@ Effective Date: May 18th 2012
 
 To review material modifications and their effective dates scroll to the bottom of the page.
 
-WORKETC PTY LTD ("WORK[etc]") owns and operates this worketc.com website business. All references to "we", "us", this "website" or this "site" shall be construed to mean WORK[etc]. We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal Information, that we collect through this website. By using this website you are accepting the practices described in this Privacy Policy.
+WORKETC PTY LTD (“WORK[etc]“) owns and operates this worketc.com website business. All references to “we”, “us”, this “website” or this “site” shall be construed to mean WORK[etc]. We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal Information, that we collect through this website. By using this website you are accepting the practices described in this Privacy Policy.
 
 This Privacy Policy covers our collection, use and disclosure of information we collect through our website www.worketc.com and WORK[etc] service. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged WORK[etc].
 
-WORK[etc] has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s certification applies to www.worketc.com and the services platform associated with this website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
+WORK[etc] has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s certification applies to www.worketc.com and the services platform associated with this website. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
-WORK[etc] Pty Ltd   
-Attn: Privacy Policy Officer  
-2/672 Old South Head Road  
-ROSE BAY NSW AUSTRALIA  
+WORK[etc] Pty Ltd 
+
+Attn: Privacy Policy Officer
+
+2/672 Old South Head Road
+
+ROSE BAY NSW AUSTRALIA
+
 Email: support@worketc.com
 
 If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request) .
@@ -38,19 +42,21 @@ Passive and Analytical Information.  We reserve the right to monitor your use o
 
 HOW WE USE YOUR INFORMATION
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We use your Personal Information for the performance of the services (such as payment processing and email communications) or transaction for which it was given, our private, internal reporting for this site, and security assessments for this site. We do NOT tie or link your Personal Information to Non-Personal Information with persistent identifiers.  For example, we would not tie or link your email address (Personal Information) with information collected by a cookie regarding the length of time you visit our site (Non-Personal Information). We reserve the right to make full use of Non-Personal Information.  For example, we may use Non-Personal Information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends about the use of this site, and otherwise administer and improve this site for your use.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We use your Personal Information for the performance of the services (such as payment processing and email communications) or transaction for which it was given, our private, internal reporting for this site, and security assessments for this site.  
+We do NOT tie or link your Personal Information to Non-Personal Information with persistent identifiers.  For example, we would not tie or link your email address (Personal Information) with information collected by a cookie regarding the length of time you visit our site (Non-Personal Information).  
+We reserve the right to make full use of Non-Personal Information.  For example, we may use Non-Personal Information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends about the use of this site, and otherwise administer and improve this site for your use.
 
 US-EU Safe Harbor & US-Swiss Safe Harbor Self Certification
 
 We adhere to the requirements of the US-EU Safe Harbor Framework:
 
-**Notice** \- we notify individuals about the information we collect and provide contact details for individuals to request or limit that information.  
+**Notice** – we notify individuals about the information we collect and provide contact details for individuals to request or limit that information.  
 ---  
-**Choice** \- we provide individuals and organizations the choice to opt out of any disclosure to third parties, although WORK[etc] never discloses or shares information with third parties.  
-**Onward Transfer** \- we do not disclose information to third parties  
-**Access** \- we provide contact details for individuals wishing to access any personal information  
+**Choice** – we provide individuals and organizations the choice to opt out of any disclosure to third parties, although WORK[etc] never discloses or shares information with third parties.  
+**Onward Transfer** – we do not disclose information to third parties  
+**Access** – we provide contact details for individuals wishing to access any personal information  
 **Security  **\- we take all reasonable precautions to protect information from loss, misuse and unauthorized access, disclosure, alteration and destruction, including highly secure data centers, encrypted transmission and encrypted archival storage.  
-**Data Integrity** \- we take all reasonable steps to ensure that data is reliable for its intended use, accurate, complete, and current.  
+**Data Integrity** – we take all reasonable steps to ensure that data is reliable for its intended use, accurate, complete, and current.  
   
 HOW WE DISCLOSE YOUR INFORMATION
 
@@ -60,25 +66,29 @@ Disclosure to Affiliated Entities.  We reserve the right to provide your Person
 
 Disclosure to Service Providers and Online Partners for Website Operations.  We reserve the right to disclose your Personal Information to our trusted service providers that assist us with the operation and maintenance of this site.  For example, we may use third parties to process payments, host our servers, provide security, and provide production, fulfillment, optimization, analytics, and reporting services.  We will take commercially reasonable efforts to cause these third parties to agree to hold your information in confidence or to disclose information only to third parties that we believe in good faith are trustworthy regarding the confidentiality of your information. 
 
-Disclosure to Successors.   If we are acquired by or merged with a third party entity, or if we sell this website business or a line of business from this website, we reserve the right to transfer your Personal  Information as part of such merger, acquisition, sale, or other change of control.   In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we reserve the right to transfer your Personal Information to protect our rights or as required by law.
+Disclosure to Successors.   If we are acquired by or merged with a third party entity, or if we sell this website business or a line of business from this website, we reserve the right to transfer your Personal  Information as part of such merger, acquisition, sale, or other change of control.   In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we reserve the right to transfer your Personal Information to protect our rights or as required by law.
 
 Disclosure Incident to Legal Process and Enforcement.  We reserve the right to disclose your Personal Information if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary (i) to satisfy any applicable law, regulation, legal process or enforceable governmental request (such as for example, to comply with a subpoena or court order), or (ii) to investigate or enforce violations of our rights or the security of this site.
 
 INFORMATION RELATED TO DATA COLLECTED THROUGH THE WORK[etc] SERVICE
 
-WORK[etc] collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. WORK[etc] works with its Clients to help them provide notice to their customers concerning, the purpose for which personal information is collected. We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly. WORK[etc] may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
+WORK[etc] collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. WORK[etc] works with its Clients to help them provide notice to their customers concerning, the purpose for which personal information is collected.  
+We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly.  
+WORK[etc] may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
 
-WORK[etc] has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the WORK[etc]’s Client (the data controller). If the Client requests COMPANY to remove the data, we will respond to their request within 30 days. WORK[etc] will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. WORK[etc] will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+WORK[etc] has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the WORK[etc]’s Client (the data controller). If the Client requests COMPANY to remove the data, we will respond to their request within 30 days.  
+WORK[etc] will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. WORK[etc] will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 SPECIFIC INFORMATION ABOUT COOKIES AND WEB BEACONS
 
-1st Party Cookies. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
+1st Party Cookies.  
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
 
 We use both session ID cookies and persistent cookies.  We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
 We set a persistent cookie to store your passwords, so you don’t have to enter it more than once.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
-3rd Party Cookies for Web Analytics and Reporting.  We reserve the right to use web analytics services provided by 3rd parties. These services use 3rd party cookies (cookies passed by others, not by us) to collect Non-Personal Information about your use of this site.  These web analytics services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf.
+3rd Party Cookies for Web Analytics and Reporting.  We reserve the right to use web analytics services provided by 3rd parties. These services use 3rd party cookies (cookies passed by others, not by us) to collect Non-Personal Information about your use of this site.  These web analytics services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service’s behalf.
 
 Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do tie the information gathered to our Customers’ or Users’ personally identifiable information.
 
@@ -98,7 +108,8 @@ DATA SECURITY
 
 We follow reasonable and appropriate industry standards to protect your Personal Information and data.
 
-Unfortunately, no data transmission over the Internet or method of data storage can be guaranteed 100% secure. Therefore, while we strive to protect your Personal Information by following generally accepted industry standards, we cannot ensure or warrant the absolute security of any information you transmit to us or archive at this site. When you transmit Personal Information through our registration process or if you purchase products or services, we encrypt that information in transit using secure socket layer technology (SSL).
+Unfortunately, no data transmission over the Internet or method of data storage can be guaranteed 100% secure. Therefore, while we strive to protect your Personal Information by following generally accepted industry standards, we cannot ensure or warrant the absolute security of any information you transmit to us or archive at this site.  
+When you transmit Personal Information through our registration process or if you purchase products or services, we encrypt that information in transit using secure socket layer technology (SSL).
 
 After the secure transfer of your Personal Information, the information is maintained and stored with 128-bit encryption.
 
@@ -116,7 +127,8 @@ We will retain your information for as long as your account is active or as need
 
 EMAIL; OPT-OUT
 
-This site treats email messages and other electronic messages that are sent through this site and not viewable by others as confidential and private, except as required by law, including without limitation, the Electronic Communications Privacy Act of 1986, 18 U.S.C. Sections 2701-2711 (the "ECPA").  The ECPA permits this site's limited ability to intercept and/or disclose electronic messages, for example (i) as necessary to operate our system or to protect our rights or property, (ii) upon legal demand (court orders, warrants, subpoenas), or (iii) where we receive information inadvertently which appears to pertain to the commission of a crime.  This site is not considered a "secure communications medium" under the ECPA. If you supply us with your e-mail address you may receive periodic messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events. If you prefer not to receive periodic email messages, you may opt-out by following the instructions on the email or by emailing us. Please see “Contact Us” below.
+This site treats email messages and other electronic messages that are sent through this site and not viewable by others as confidential and private, except as required by law, including without limitation, the Electronic Communications Privacy Act of 1986, 18 U.S.C. Sections 2701-2711 (the “ECPA”).  The ECPA permits this site’s limited ability to intercept and/or disclose electronic messages, for example (i) as necessary to operate our system or to protect our rights or property, (ii) upon legal demand (court orders, warrants, subpoenas), or (iii) where we receive information inadvertently which appears to pertain to the commission of a crime.  This site is not considered a “secure communications medium” under the ECPA.  
+If you supply us with your e-mail address you may receive periodic messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events. If you prefer not to receive periodic email messages, you may opt-out by following the instructions on the email or by emailing us. Please see “Contact Us” below.
 
 LINKS TO OTHER SITES; ONLINE ADS
 
@@ -124,11 +136,12 @@ This site may contain links to other websites with whom we have a business relat
 
 CHILDREN’S ONLINE POLICY
 
-We are committed to preserving online privacy for all of its website visitors, including children. This site is a general audience site.  Consistent with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13.  If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child's information, please contact our site as provided below under "Contact Us", and be sure to include in your message the same login information that your child submitted.
+We are committed to preserving online privacy for all of its website visitors, including children. This site is a general audience site.  Consistent with the Children’s Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13.  If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child’s information, please contact our site as provided below under “Contact Us”, and be sure to include in your message the same login information that your child submitted.
 
 HOW WE MODIFY THIS PRIVACY POLICY
 
-We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the "Privacy Policy" link on this site's home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy. You should check the Privacy Policy through this link periodically for modifications by clicking on the link provided near the top of the Privacy Policy for a listing of material modifications and their effective dates.
+We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the “Privacy Policy” link on this site’s home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy.  
+You should check the Privacy Policy through this link periodically for modifications by clicking on the link provided near the top of the Privacy Policy for a listing of material modifications and their effective dates.
 
 If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective.
 
@@ -136,24 +149,38 @@ CONTACT US
 
 If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at:
 
-Australia - Asia - Pacific - Rest of World   
-WORK[etc] Pty Ltd  
-2/672 Old South Head Road  
-ROSE BAY NSW AUSTRALIA  
-Email:  support-at-worketc.com  
-Telephone: +1 949 470-1430  (USA)  
+Australia – Asia – Pacific – Rest of World 
+
+WORK[etc] Pty Ltd
+
+2/672 Old South Head Road
+
+ROSE BAY NSW AUSTRALIA
+
+Email:  support-at-worketc.com
+
+Telephone: +1 949 470-1430  (USA)
+
 Facsimile:  +61 2 8088 1293 (AUS)
 
-USA - Canada   
-WORK[etc]  
-One Embarcadero Center  
-Suite# 500,  
+USA – Canada 
+
+WORK[etc]
+
+One Embarcadero Center
+
+Suite# 500,
+
 San Francisco, 94111
 
-UK & Europe   
-WORK[etc]  
-86-90 Paul Street,   
-London EC2A 4NE  
+UK & Europe 
+
+WORK[etc]
+
+86-90 Paul Street, 
+
+London EC2A 4NE
+
 United Kingdom
 
 Material Modifications Since June 2, 2011:  Assignment of TRUSTe Privacy Seal and Compliance program
