@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ultrawellness.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530201733id_/http%3A//drhyman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrawellness.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314204749id_/http%3A//drhyman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dr. Mark Hyman
+# Privacy Policy - Dr. Mark Hyman
 
 AT DRHYMAN.COM, user privacy is of utmost concern. We are committed to protecting your privacy and security, and to providing you the best possible user experience. We may update this policy from time to time, so please check here frequently.
 
