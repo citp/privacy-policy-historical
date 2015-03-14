@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229201215id_/http%3A//badgeville.com/basic/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314223832id_/https%3A//badgeville.com/basic/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Badgeville, The #1 Gamification Platform for Customer Loyalty and Employee Productivity
 
@@ -108,12 +108,12 @@ If you wish to contact us regarding Personal Information or this Notice, you may
 
 Badgeville, Inc.
 
-1400 B Seaport Blvd., 2nd Floor
+805 Veterans Blvd, Suite 307
 
 Redwood City, CA 94063
 
-Version 2.2
+Version 2.3
 
-Last Updated: February 25, 2014
+Last Updated: February 3, 2015
 
 ________________________________________
