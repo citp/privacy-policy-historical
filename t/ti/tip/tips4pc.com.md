@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tips4pc.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911140535id_/http%3A//tips4pc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tips4pc.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231920id_/http%3A//tips4pc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tips4pc
 
