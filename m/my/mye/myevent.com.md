@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705122255id_/http%3A//myevent.com/1/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002803id_/http%3A//myevent.com/1/privacy_policy.htm) for the most accurate reproduction.*
 
-# Make Your Own Personal Website | Easy Website Builder and Design Templates
+# Create Your Event Website - Fast and Easy
 
 This privacy policy applies to www.myevent.com and www.websiteworks.com, owned and operated by MyEvent.com Inc. This privacy policy describes how MyEvent.com Inc. collects and uses the personal information you provide on our Websites. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
