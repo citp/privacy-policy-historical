@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themusicbed.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816103527id_/https%3A//www.themusicbed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themusicbed.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001528id_/https%3A//www.musicbed.com/privacy-policy) for the most accurate reproduction.*
 
-# Stock Music Licensing for Video, Photography & Film - The Music Bed
+# Stock Music Licensing for Video, Photography & Film - Music Bed
 
-This Privacy Policy governs the manner in which The Music Bed collects, uses, maintains and discloses information collected from users (each, a "User") of the www.themusicbed.com website ("Site"). This privacy policy applies to the Site and all products and services offered by The Music Bed.
+This Privacy Policy governs the manner in which Music Bed collects, uses, maintains and discloses information collected from users (each, a "User") of the www.musicbed.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Music Bed.
 
 ### Personal identification information
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 ### How we use collected information
 
-The Music Bed may collect and use Users personal information for the following purposes:
+Music Bed may collect and use Users personal information for the following purposes:
 
   * To improve customer service Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * To personalize user experience.   
@@ -49,7 +49,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 ### Changes to this privacy policy
 
-The Music Bed has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Music Bed has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ### Your acceptance of these terms
 
@@ -59,11 +59,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-The Music Bed  
-www.themusicbed.com  
-158 West Magnolia Ave  
-Fort Worth, Texas 76104  
+Music Bed  
+www.musicbed.com  
+9555 Harmon Road  
+Fort Worth, TX 76177  
 1-800-380-8154  
-service (at) themusicbed.com
+service (at) www.musicbed.com
 
 This document was last updated on March 4, 2014
