@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxedart.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909210138id_/http%3A//www.boxedart.com/BA-PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxedart.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001503id_/http%3A//www.boxedart.com/BA-PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 
 
