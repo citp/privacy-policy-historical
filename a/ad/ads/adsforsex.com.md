@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsforsex.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704044203id_/http%3A//www.adsforsex.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsforsex.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000744id_/http%3A//adsforsex.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Ads For Sex | Find women online looking for sex
 
