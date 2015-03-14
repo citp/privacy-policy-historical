@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serialzone.in privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016074818id_/http%3A//serialzone.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serialzone.in privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314222032id_/http%3A//serialzone.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Policy
 
