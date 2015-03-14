@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzz-amp.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313040459id_/http%3A//buzz-amp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzz-amp.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001715id_/http%3A//buzz-amp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: BuzzAmp
 
@@ -114,7 +114,7 @@ We otherwise store all of our information, including your IP address information
 
 If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
 
-California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 9715 Estate Thomas, PMB #181, St Thomas, USVI 00802
+California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 9716 Estate Thomas, St Thomas, USVI 00802
 
 ### How Can I Delete My Account? 
 
