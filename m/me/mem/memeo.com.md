@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memeo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103243id_/http%3A//memeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memeo.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235037id_/http%3A//memeo.com/privacy) for the most accurate reproduction.*
 
 # Memeo - A Division of UNICOM Global :: Privacy
 
