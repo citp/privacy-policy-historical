@@ -1,44 +1,42 @@
-> *The following text is extracted and transformed from the skisilverstar.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401101845id_/http%3A//winter.skisilverstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skisilverstar.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314225510id_/http%3A//skisilverstar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Silver Star - Winter Mountain Resort
-
-#### PERSONAL INFORMATION PROTECTION POLICY
+# Silver Star Mountain Resort
 
 Silver Star Ski Resort Ltd. (the “Organization”)
 
-**1\. PURPOSES**
+1\. PURPOSES
 
 The purpose of this policy is to govern the Organization’s collection, storage, use, and disclosure of personal information in a manner which recognizes both the right of individuals to protect their personal information and the need of the Organization to collect, store, use, and disclose personal information for purposes reasonably related to the Organization’s operations. This policy is intended to ensure compliance with the requirements of the B.C. Personal Information Protection Act (the “Act”) and adherence to the principles set out therein.
 
-**2\. COMPLIANCE**
+2\. COMPLIANCE
 
 The Organization has designated a person (or persons) to be responsible for ensuring the Organization’s compliance with the requirements of the Act (the “Personal Information Administrator(s)”) and shall make available the Personal Information Administrator’s position name, title, and contact information upon request The Organization has and shall continue to: develop and follow policies and practices that are necessary to ensure compliance with the Act; provide a process to respond to complaints that may arise relating to the operation of the Act; and make those practices, policies, and processes available upon request.
 
-**3\. COLLECTION, USE, AND DISCLOSURE OF PERSONAL INFORMATION**
+3\. COLLECTION, USE, AND DISCLOSURE OF PERSONAL INFORMATION
 
 The Organization shall only collect, use, or disclose personal information when the individual’s consent has been obtained, or when the Act allows the collection, use, or disclosure without the individual’s consent, or when the Act deems the consent to have been given by the individual. The Organization shall only, as a condition of supplying a product or service, require an individual to consent to the Organization’s collection, use, or disclosure of personal information when that collection, use, or disclosure is reasonably necessary to provide the product or service. Where required by the Act, on or before collecting personal information about an individual, the Organization shall make available to the individual, or to such other person(s) from whom the personal information is being collected, the Organization’s purposes for the collection of the personal information and the contact information for the Personal Information Administrator.
 
-**4\. USE AND DISCLOSURE OF PERSONAL INFORMATION**
+4\. USE AND DISCLOSURE OF PERSONAL INFORMATION
 
 The Organization shall only use or disclose personal information for purposes which are reasonably appropriate in the circumstances and which fulfill the purposes for which the personal information was collected or which are otherwise permitted by the Act.
 
-**5\. ACCESS TO PERSONAL INFORMATION**
+5\. ACCESS TO PERSONAL INFORMATION
 
 When required by the Act, the Organization shall provide to an individual, upon request of the individual: that individual’s personal information which is under the control of the Organization; details about the ways in which the individual’s personal information is being used by the Organization; and details about the individuals and organizations to whom the individual’s personal information has been disclosed. When required by the Act, the Organization shall correct an error or omission in the individual’s personal information and send the corrected personal information to each individual or organization to whom the individual’s personal information was disclosed in the previous one-year period. If the Organization does not change the personal information as a result of a request it shall make a notation that a change was requested.
 
-**6\. CARE OF PERSONAL INFORMATION**
+6\. CARE OF PERSONAL INFORMATION
 
 The Organization shall make a reasonable effort to ensure that personal information collected by or on behalf of the Organization is accurate and complete for the purposes for which it is to be used. The Organization shall protect personal information in its custody or under its control by making reasonable security arrangements to prevent unauthorized access, collection, use, disclosure, copying, modification, or disposal or similar risks.
 
-**7\. RETENTION AND DESTRUCTION OF PERSONAL INFORMATION**
+7\. RETENTION AND DESTRUCTION OF PERSONAL INFORMATION
 
 As required by the Act, the Organization shall retain personal information for such reasonable period of time that the individual has a reasonable opportunity to obtain access to it. As required by the Act, the Organization shall destroy documents containing personal information or remove the means by which the personal information may be associated with a particular individual when the purpose for which the personal information was collected is no longer served by its retention and the retention is no longer required for legal or business purposes.
 
-**8\. REQUESTS TO THE PERSONAL INFORMATION ADMINISTRATOR**
+8\. REQUESTS TO THE PERSONAL INFORMATION ADMINISTRATOR
 
 An individual shall submit a request in writing to the Personal Information Administrator if the individual wishes to: have access to that individual’s personal information which is under the control of the Organization; have access to details about the ways in which that individual’s personal information is being used by the Organization; have access to details about the individuals and organizations to whom the individual’s personal information has been disclosed by the Organization; have access to details about the Organization’s policies and practices relating to personal information; have access to details relating to the complaint process set out herein; or correct an error or omission in that individual’s personal information. The Organization will endeavour to respond to the Applicant within 30 days of receipt of the request.
 
-**9\. COMPLAINTS RELATING TO PERSONAL INFORMATION**
+9\. COMPLAINTS RELATING TO PERSONAL INFORMATION
 
 The Organization’s process to respond to complaints that may arise relating to the operation of the Act as it relates to the Organization is as set out below.
 
@@ -56,6 +54,6 @@ f. Confidentiality of Complaints Except where disclosure is necessary for the pu
 
 g. Other Proceedings This process does not bar or prohibit individuals from accessing their rights in another forum, including under the processes provided in the Act. Where a complaint is raised in another forum, however, the Organization may halt (or refuse to initiate) any proceedings initiated or pending under this process.
 
-**10\. THE PERSONAL INFORMATION ADMINISTRATOR**
+10\. THE PERSONAL INFORMATION ADMINISTRATOR
 
 For the purposes set out herein and in the Act, the contact information for the Organization’s Personal Information Administrator is: Alicia McCool Controller Silver Star Ski Resort Ltd. PO Box 3002 Silver Star Mountain, BC V1B 3M1 Tel: 250-542-0224 Fax: 250-542-1236
