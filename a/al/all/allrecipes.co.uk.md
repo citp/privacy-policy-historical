@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allrecipes.co.uk privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130125509id_/http%3A//allrecipes.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001620id_/http%3A//allrecipes.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - All recipes UK
 
@@ -31,7 +31,7 @@ as of 15/07/2008
 
 ** About the Allrecipes.com Privacy policy **
 
-At Allrecipes.com, Inc. (“Allrecipes.com”), we recognize the importance of your privacy. That said, it’s understandable that you may be concerned with the information you provide to us or that is collected by us and how we use and disclose it. With these concerns in mind, we’ve developed the Allrecipes.com Privacy Policy, outlined below. This Privacy Policy explains Allrecipes’ privacy practices for visitors to our Web site at Allrecipes (the “Web site”). By using our Web site, you consent to the collection, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Allrecipes Terms and Conditions. We reserve the right to change this Privacy Policy at any time. If we make any material changes to our Privacy Policy, we will post a new policy on the Web site and update the “last updated” date set forth above. Therefore, we encourage you to check our Privacy Policy whenever you visit the Web site to see if it has been updated since your last visit. If you have any questions about our Privacy Policy, you can contact us at [ CustomerService@allrecipes.co.uk](mailto:CustomerService@allrecipes.co.uk)
+At Allrecipes.com, Inc. (“Allrecipes.com”), we recognize the importance of your privacy. That said, it’s understandable that you may be concerned with the information you provide to us or that is collected by us and how we use and disclose it. With these concerns in mind, we’ve developed the Allrecipes.com Privacy Policy, outlined below. This Privacy Policy explains Allrecipes’ privacy practices for visitors to our Web site at Allrecipes (the “Web site”). By using our Web site, you consent to the collection, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Allrecipes Terms and Conditions. We reserve the right to change this Privacy Policy at any time. If we make any material changes to our Privacy Policy, we will post a new policy on the Web site and update the “last updated” date set forth above. Therefore, we encourage you to check our Privacy Policy whenever you visit the Web site to see if it has been updated since your last visit. If you have any questions about our Privacy Policy, you can contact us at [ CustomerService@allrecipes.co.uk](https://web.archive.org/web/20150315001620id_/http%3A//allrecipes.co.uk/CustomerService@allrecipes.co.uk)
 
 Types of Information We Collect
 
@@ -151,4 +151,4 @@ We give you the opportunity to opt-out of receiving commercial e-mail from us by
 
 Contact us
 
-If you have any questions or comments about this Privacy Policy, the privacy practices of this Web site, or your dealings with Allrecipes.com, please contact us at [ CustomerService@allrecipes.co.uk](mailto:CustomerService@allrecipes.co.uk)
+If you have any questions or comments about this Privacy Policy, the privacy practices of this Web site, or your dealings with Allrecipes.com, please contact us at [ CustomerService@allrecipes.co.uk](https://web.archive.org/web/20150315001620id_/http%3A//allrecipes.co.uk/CustomerService@allrecipes.co.uk)
