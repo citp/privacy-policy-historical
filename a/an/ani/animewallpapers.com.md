@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114150003id_/http%3A//www.animewallpapers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233038id_/http%3A//www.animewallpapers.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (Anime Wallpapers.com)
 
   
-[Win $10 in the Anime Wallpapers.Com August 2013 Wallpaper Contest or Origami Sticky Notes! ](http://www.animeforum.com/showthread.php?116825-Wallpaper-of-the-Month-August-2013-1st-Prize-10-gift-certificate)   
+[Visit our forum for help on making wallpapers!](http://www.animeforum.com/forumdisplay.php?76-Digital-Art)   
 [Home](http://www.animewallpapers.com/) > Privacy Policy 
 
 Our postal address is  
