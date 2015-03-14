@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819123025id_/https%3A//privacy.truste.com/reseller/privacy-policy/Lawyer.com/certified/8966e2f2-0fbc-4399-827b-251e0af308e3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314232715id_/https%3A//privacy.truste.com/reseller/privacy-policy/Lawyer.com/certified/8966e2f2-0fbc-4399-827b-251e0af308e3) for the most accurate reproduction.*
 
 # Welcome to lawyer.com
 
