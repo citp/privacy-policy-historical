@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the liveandworkwell.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331145019id_/https%3A//www.liveandworkwell.com/public/content/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liveandworkwell.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315004423id_/https%3A//www.liveandworkwell.com/public/content/privacy.asp%3Flang%3D1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Mental health, work &amp; life changes, stress, depression - liveandworkwell.com | Privacy Policy</title>
@@ -13,7 +13,6 @@
 
 	<link rel="stylesheet" type="text/css" media="all" href="/include/reset.css">
 	<link rel="stylesheet" type="text/css" media="all" href="/include/clearfix.css">
-	<link rel="stylesheet" type="text/css" media="all" href="/include/fonts.css">
 	
 	
 	<script type="text/javascript">
@@ -209,7 +208,8 @@ function isString(obj) {
 	if(typeof(obj) == "object") {
 		strData = obj.value;	
 	} else {
-		strData = obj;	
+		strData = obj;
+		strData = strData.trim();
 	}
 
 	// 1) Data existance
@@ -337,8 +337,47 @@ function isAlphaNumericString(obj) {
 
 /*
 ----------------------------------------------------------------------------
-Function:		isValidUsername
+Function:		isValidUsername2
 Description:	Validates a that username is made up of allowed characters
+Input:			String or form object (including input tag with type attribute "text")
+Returns:		true, if string satisfies validity contraints; false, otherwise
+Requires:		validCharsFound()
+
+Contraints:
+1) String must not be empty.
+2) Only valid characters can be used.
+
+Examples:
+A) isValidUsername("adam_112") --> true
+----------------------------------------------------------------------------
+*/
+function isValidUsername2(obj) {
+	var strData;
+	
+	if(typeof(obj) == "object") {
+		strData = obj.value;	
+	} else {
+		strData = obj;	
+	}
+	
+	var strValidChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+
+	// 1) Data existance
+	if (strData != "" && strData.length > 0) {
+		// 2) Characters used
+		if (validCharsFound(strData, strValidChars))
+			return true
+		else
+			return false;
+	} else {
+		return false;
+	}
+}
+
+/*
+----------------------------------------------------------------------------
+Function:		isValidUsername
+Description:	Validates a that string is made up of allowed characters
 Input:			String or form object (including input tag with type attribute "text")
 Returns:		true, if string satisfies validity contraints; false, otherwise
 Requires:		validCharsFound()
@@ -360,7 +399,7 @@ function isValidUsername(obj) {
 		strData = obj;	
 	}
 	
-	var strValidChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@$%^";
+	var strValidChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@$%^?";
 
 	// 1) Data existance
 	if (strData != "" && strData.length > 0) {
@@ -804,8 +843,10 @@ B) isEmail("test") --> false
 function isEmail(obj) {
 	var strData;
 	var strValidChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789_-.'@";
+	var strValidChars2 = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.";
 	var strUserName;
 	var strDomainName;
+    var strDomainName2;
 
 
 	// Extract data (via string or form object)
@@ -823,10 +864,14 @@ function isEmail(obj) {
 			// 4) User and domain
 			strUserName = strData.substring(0, strData.indexOf("@"));
 			strDomainName = strData.substring(strData.indexOf("@") + 1, strData.length);
-			if (strUserName == "" || strUserName.length == 0 || strDomainName == "" || strDomainName.length < 3) {
+			strDomainName2 = strDomainName.substring(strDomainName.indexOf(".") + 1, strDomainName.length);
+			if (strUserName == "" || strUserName.length == 0 || strUserName.length < 2 || strDomainName == "" || strDomainName.length < 2) {
 				return false;
 			}
 			if (strUserName.charAt(0) == "." || strUserName.charAt(strUserName.length - 1) == "."  || strDomainName.charAt(0) == "." || strDomainName.charAt(strDomainName.length - 1) == ".") {
+				return false;
+			}
+			if (!validCharsFound(strDomainName2, strValidChars2)) {
 				return false;
 			}
 			return true;
@@ -1138,7 +1183,7 @@ function isValidEmail(obj) {
 	                            </tr>
 	                            <tr>
 		                            <td><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
-		                            <td class="publicpagetitle2"><h1>Privacy Policy</h1></td>
+		                            <td class="publicPageTitlep6"><h1>Privacy Policy</h1></td>
 		                            <td><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
 	                            </tr>
 	                            <tr><td colspan="3"><img src="/images/spacer.gif" width="1" height="20" alt="" border="0"></td></tr>
@@ -1160,14 +1205,15 @@ function isValidEmail(obj) {
 		                        <td class="tdpagecontent">
                                     <a name="mainContent"></a>
 
-                                    <span class="public">
+                                    <span class="publiccontentm1">
                                         <img src="/images/spacer.gif" width="1" height="15" alt="" border="0"><br>
 	                                    
-                                        <h2><span class="publicpagetitle3">HIPAA Notice of Privacy Practice:</span></h2>  <p>United Behavioral Health ("Company) administers mental health and substance abuse benefits and Employee Assistance Programs for a variety of health plans.  Those health plans are required under the Health Insurance Portability and Accountability Act ("HIPAA") to provide members with a HIPAA Notice of Privacy Practices that describes their privacy practices regarding health and medical information.</p>    <p>When administering your mental health and substance abuse benefits and Employee Assistance Programs, Company follows the privacy practices set forth in your health plan's HIPAA Notice of Privacy Practices.  Please contact your plan for a copy of its HIPAA Notice of Privacy Practices.</p>    <p>If you are enrolled in an insured plan offered by US Behavioral Health Plan, California ("USBHPC"), its HIPAA Notice of Privacy Practices, <a href="/public/content/docs/usbhpc_pp.pdf" target="_new">available here</a>, applies to you and your dependents.</p><h2><span class="publicpagetitle3">Social Security Number Protection Policy:</span></h2>   <p>Protecting personal information is important to Company. It is the policy of Company and its current and future affiliates to protect the confidentiality of Social Security numbers ("SSNs") that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, electronic, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.</p><h2><span class="publicpagetitle3">Website Privacy Policy</span></h2><h3>Introduction</h3>  <p>We are very sensitive to privacy issues. The purpose of this Website Privacy Policy is to let you know how we handle the information we receive from you through this website. Portions of this website may describe additional privacy practices applicable to specific types of information or to information provided on specific Web pages.</p>    <p>This Website Privacy Policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this Website Privacy Policy, terms such as "we" or "our" and "Company" refer to Company and its current and future affiliate entities.</p>    <p>This site is intended for a United States audience.  If you access this site from outside the U.S., you acknowledge, agree, and consent that any information you provide, including any personal information, will be transferred to and processed by a computer server located within the U.S., and subject to U.S. laws and regulations. Further, if you access this site from outside the U.S., you acknowledge and agree that you are responsible for compliance with any applicable local or national laws, rules or regulations applicable to such use.</p><h3>Cookies and non-personal information</h3>  <p>"Non-personal information" means information that does not permit us to specifically identify you by your full name or similar unique identifying information such as a social security number, member identification number, address or telephone number. Passive tracking mechanisms are not used to monitor individual site use. The Web site  does not deploy software or spyware  that aids in gathering and distributing  information about a person or organization without their knowledge or asserts control over a user's computer.  The Company does use "cookie" technology and similar technology to gather non-personal information from our website visitors such as which pages are used and how often they are used, and to enable certain features on this website.</p>    <p>You may disable these cookies and similar items by adjusting your browser preferences on your computer at any time; however, this may limit your ability to take advantage of all the features on this website. Keep in mind that cookies are not used to collect any personal information and do not tell us who you are. Some examples of the way we use cookies include:</p>  
+                                        <h2><span class="pagetitlesmaller">HIPAA Notice of Privacy Practice:</span></h2>  <p>United Behavioral Health ("Company) administers mental health and substance abuse benefits and Employee Assistance Programs for a variety of health plans.  Those health plans are required under the Health Insurance Portability and Accountability Act ("HIPAA") to provide members with a HIPAA Notice of Privacy Practices that describes their privacy practices regarding health and medical information.</p>    <p>When administering your mental health and substance abuse benefits and Employee Assistance Programs, Company follows the privacy practices set forth in your health plan's HIPAA Notice of Privacy Practices.  Please contact your plan for a copy of its HIPAA Notice of Privacy Practices.</p>    <p>If you are enrolled in an insured plan offered by US Behavioral Health Plan, California ("USBHPC"), its HIPAA Notice of Privacy Practices, <a href="/public/content/docs/usbhpc_pp.pdf" target="_new">available here</a> <img src="/images/member/pages/icon_adobe.gif" width="16" height="16" alt="PDF" border="0">, applies to you and your dependents.</p><h2><span class="pagetitlesmaller">Social Security Number Protection Policy:</span></h2>   <p>Protecting personal information is important to Company. It is the policy of Company and its current and future affiliates to protect the confidentiality of Social Security numbers ("SSNs") that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, electronic, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.</p><h2><span class="pagetitlesmaller">Website Privacy Policy</span></h2><h3>Introduction</h3>  <p>We are very sensitive to privacy issues. The purpose of this Website Privacy Policy is to let you know how we handle the information we receive from you through this website. Portions of this website may describe additional privacy practices applicable to specific types of information or to information provided on specific Web pages.</p>    <p>This Website Privacy Policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this Website Privacy Policy, terms such as "we" or "our" and "Company" refer to Company and its current and future affiliate entities.</p>    <p>This site is intended for a United States audience.  If you access this site from outside the U.S., you acknowledge, agree, and consent that any information you provide, including any personal information, will be transferred to and processed by a computer server located within the U.S., and subject to U.S. laws and regulations. Further, if you access this site from outside the U.S., you acknowledge and agree that you are responsible for compliance with any applicable local or national laws, rules or regulations applicable to such use.</p><h3>Cookies and non-personal information</h3>  <p>"Non-personal information" means information that does not permit us to specifically identify you by your full name or similar unique identifying information such as a social security number, member identification number, address or telephone number. Passive tracking mechanisms are not used to monitor individual site use. The Web site  does not deploy software or spyware  that aids in gathering and distributing  information about a person or organization without their knowledge or asserts control over a user's computer.  The Company does use "cookie" technology and similar technology to gather non-personal information from our website visitors such as which pages are used and how often they are used, and to enable certain features on this website.</p>    <p>You may disable these cookies and similar items by adjusting your browser preferences on your computer at any time; however, this may limit your ability to take advantage of all the features on this website. Keep in mind that cookies are not used to collect any personal information and do not tell us who you are. Some examples of the way we use cookies include:</p>  
 <ul class="ul_public">  <li>Tracking resources and data accessed on the site.</li>  <li>Recording general site statistics and activity.</li>  <li>Assisting users experiencing website problems.</li>  <li>Enabling certain functions and tools on this website.</li>  <li>Tracking paths of visitors to this site and within this site.</li>  </ul>  
 
 <p>We may also collect other forms of non-personal information such as what web browsers are used to read our website and what websites are referring traffic or linking to our website. Aggregate and de-identified data regarding website users is also considered non-personal information.</p>
-<h3>With whom is non-personal information shared?</h3>  <p>Because non-personal information does not identify who you are, we do not limit the ways we may use or share non-personal information. For example, we may share non-personal information with our affiliates, suppliers, employees and agents, other businesses, and the government.</p><h3>Personal information provided by you</h3>  <p>"Personal information" means information that specifically identifies you as an individual, such as your full name, birthdate, gender, telephone number, e-mail address, postal address, or certain account numbers. As used in this Website Privacy Policy, personal information does not include any information protected under HIPAA, which would be protected as described in the HIPAA Notices of Privacy Practices of your health plans or physicians and other health care professionals. This website may include web pages that give you the opportunity to provide us with personal information about yourself. <strong>You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.</strong> This site does not collect or require you to enter any personal health information.  If you Opt-in to provide information, we collect personal information via the Registration form.  You may access, supplement and amend your information via the "My Profile" page. Your information is stored indefinitely in a secure Company database. It is not discarded.   If you wish to opt-out of future collection of personal information and/or to have your information removed, use the Technical Support form in the "Help" area.  There are no limitations on amendments and deletions of your personal information. Opting-out and/or deleting your information may affect your access and use of the site.</p>    <p>We may combine personal information that you provide us through this website with other personal information held by the Company, including with affiliates or our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.</p>    <p>The Web site does not use personally-identifiable information for any purposes outside the scope of the original opt-in without first obtaining additional opt-in (unless required by law). We may use personal information for a number of purposes such as:  </p><ul class="ul_public">  <li>To respond to an e-mail or particular request from you.</li>  <li>To personalize the website for you.</li>  <li>To process an application as requested by you.</li>  <li>To provide you with information that we believe may be useful to you, such as information about health products or services provided by us or other businesses.</li>  <li>To comply with applicable laws, regulations, and legal process.</li>  <li>To protect someone's health, safety, or welfare.</li>  <li>To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use.</li>  <li>To keep a record of our transactions and communications.</li>  <li>As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law.</li>  </ul>  <p></p>    <p>You understand and specifically agree that we may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number.</p>    <p><u>Journaling function</u><br>  The journaling function accessible from this Site allows users to submit and post information and is being provided to you by myjournE.com.   If you use the journaling function, such use will be governed by the terms of use and privacy policy at the bottom of those pages.  If you use the journaling tool, you agree to be bound by the myJournE.com privacy policy and terms of use.</p>
+
+<p>We do not currently respond to web browser “Do Not Track” signals that provide a method to opt out of the collection of information about online activities over time and across third-party websites or online services because, among other reasons, there is no common definition of such signals and no industry-accepted standards for how such signals should be interpreted. We do not allow third-parties to collect personal information about online activities over time and across third-party websites or online services.</p><h3>With whom is non-personal information shared?</h3>  <p>Because non-personal information does not identify who you are, we do not limit the ways we may use or share non-personal information. For example, we may share non-personal information with our affiliates, suppliers, employees and agents, other businesses, and the government.</p><h3>Personal information provided by you</h3>  <p>"Personal information" means information that specifically identifies you as an individual, such as your full name, birthdate, gender, telephone number, e-mail address, postal address, or certain account numbers. As used in this Website Privacy Policy, personal information does not include any information protected under HIPAA, which would be protected as described in the HIPAA Notices of Privacy Practices of your health plans or physicians and other health care professionals. This website may include web pages that give you the opportunity to provide us with personal information about yourself. <strong>You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.</strong> This site does not collect or require you to enter any personal health information.  If you Opt-in to provide information, we collect personal information via the Registration form.  You may access, supplement and amend your information via the "My Profile" page. Your information is stored indefinitely in a secure Company database. It is not discarded.   If you wish to opt-out of future collection of personal information and/or to have your information removed, use the Technical Support form in the "Help" area.  There are no limitations on amendments and deletions of your personal information. Opting-out and/or deleting your information may affect your access and use of the site.</p>    <p>We may combine personal information that you provide us through this website with other personal information held by the Company, including with affiliates or our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.</p>    <p>The Web site does not use personally-identifiable information for any purposes outside the scope of the original opt-in without first obtaining additional opt-in (unless required by law). We may use personal information for a number of purposes such as:  </p><ul class="ul_public">  <li>To respond to an e-mail or particular request from you.</li>  <li>To personalize the website for you.</li>  <li>To process an application as requested by you.</li>  <li>To provide you with information that we believe may be useful to you, such as information about health products or services provided by us or other businesses.</li>  <li>To comply with applicable laws, regulations, and legal process.</li>  <li>To protect someone's health, safety, or welfare.</li>  <li>To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use.</li>  <li>To keep a record of our transactions and communications.</li>  <li>As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law.</li>  </ul>  <p></p>    <p>You understand and specifically agree that we may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number.</p>    <p><u>Journaling function</u><br>  The journaling function accessible from this Site allows users to submit and post information and is being provided to you by myjournE.com.   If you use the journaling function, such use will be governed by the terms of use and privacy policy at the bottom of those pages.  If you use the journaling tool, you agree to be bound by the myJournE.com privacy policy and terms of use.</p>
 <h3>With whom is personal information shared?</h3>  <p>We will only share your personal information with third parties as outlined in this Website Privacy Policy (in its current or future form) and as otherwise permitted by law. Voluntary opt-in is obtained prior to disclosure of personal information unless required for health care operations, treatment, payment, internal quality management activities or legal requirements.</p>    
 
 <p>We share and give access to personal information to our employees and agents in the course of operating our businesses. For example, if you sent us an e-mail asking a question, we would provide your e-mail address to one of our employees or agents, along with your question, in order for that person to reply to your e-mail. We may share personal information with other affiliates or business units within the Company.</p>    
@@ -1184,12 +1230,12 @@ function isValidEmail(obj) {
 <h3>Our online communication practices</h3>  <p>General e-mail communications : Most e-mail, including any e-mail functionality on our site, does not provide a completely secure and confidential means of communication. It is possible that your e-mail communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to keep your information completely private, you should not use e-mail. We may send e-mail communications to you regarding topics such as general health benefits, website updates, health conditions, and general health topics.</p>    <p>Other online communications : The Company sends electronic newsletters, notification of account status, and other communications such as information marketing other products or services offered by us, on a periodic basis to various individuals and organizations. To opt-out of any specific electronic communication you're receiving, click on the opt-out button associated with the specific communication.</p>
 <h3>Information for children under 13</h3>  <p>We will not intentionally collect any personal information from children under the age of 13 through this website without receiving verifiable parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us.</p>
 <h3>Contact us</h3>  <p>To contact us regarding this Website Privacy Policy and our related privacy practices, please contact us at:</p>        <p><u>Mailing Address</u><br>  United Behavioral Health<br>  425 Market Street, 27th Floor<br>  San Francisco, California 94105</p>    <p><u>Members</u><br>  Please call the Member Services phone number on your insurance card, call your EAP phone number, or contact your Human Resources department.</p>
-<h3>Effective date</h3>  <p>The Effective Date of this Privacy Policy is November 11, 2011.</p>    <h3>Changes to this Website Privacy Policy</h3>  <p>We may change this Website Privacy Policy. If we do so such change will appear on this page of our website or in another location as indicated by us. It is your responsibility to review the Website Privacy Policy each time you use this website. By continuing to use this website, you consent to any changes to our Website Privacy Policy.</p>
+<h3>Effective date</h3>  <p>The Effective Date of this Privacy Policy is January 1, 2014.</p>    <h3>Changes to this Website Privacy Policy</h3>  <p>We may change this Website Privacy Policy. If we do so such change will appear on this page of our website or in another location as indicated by us. It is your responsibility to review the Website Privacy Policy each time you use this website. By continuing to use this website, you consent to any changes to our Website Privacy Policy.</p>
 
                                     </span>
                                 
                                     <hr size="1" width="300" align="left">
-                                    <span class="public">
+                                    <span class="publiccontentm1">
 	                                    <p>*Resources and information available to you on liveandworkwell.com may vary depending on your benefit.</p>
                                     </span>
                                 
@@ -1239,7 +1285,7 @@ function isValidEmail(obj) {
     <tr><td colspan="4"><img src="/images/spacer.gif" width="1" height="8" alt="" border="0"></td></tr>
 	<tr valign="top">
 		<td><img src="/images/spacer.gif" width="10" height="10" alt="" border="0"></td>
-		<td colspan="2" class="publicm1">
+		<td colspan="2" class="publiccontentm2">
             <ul id="MSNav">
                 <li class="regLogin"><a href="/public/login/default.asp?lang=1">Register or login to access benefits &amp; manage claims</a></li>
                 <li class="clinicianSearch"><a href="/public/content/clinician.asp?lang=1">Search for Clinician</a></li>
@@ -1276,13 +1322,15 @@ function isValidEmail(obj) {
             
                         <li><a href="/public/content/showHotTopic.asp?hid=1&amp;lang=1">Mental Health</a></li>
                     
-                        <li><a href="/public/content/showHotTopic.asp?hid=2&amp;lang=1">Video Voices of Hope</a></li>
-                    
                         <li><a href="/public/content/showHotTopic.asp?hid=3&amp;lang=1">Drinking, Drugs and Addictions</a></li>
+                    
+                        <li><a href="/public/content/showHotTopic.asp?hid=8&amp;lang=1">Personal Empowerment Kits</a></li>
                     
                         <li><a href="/public/content/showHotTopic.asp?hid=4&amp;lang=1">Self-Help Programs</a></li>
                     
                         <li><a href="/public/content/showHotTopic.asp?hid=5&amp;lang=1">WorkLife Balance</a></li>
+                    
+                        <li><a href="/public/content/showHotTopic.asp?hid=2&amp;lang=1">Video Voices of Hope</a></li>
                       
                         <li><a href="/public/content/docs/nyag_notice.pdf" target="_new">Important Notice on Payment of Out-of-Network Benefits</a></li>
                       
@@ -1307,7 +1355,7 @@ function isValidEmail(obj) {
     </tr>
 	<tr valign="top">
 		<td><img src="/images/spacer.gif" width="10" height="10" alt="" border="0"></td>
-		<td colspan="2" class="tdpagecontent"><table role="presentation" border="0" cellspacing="0" cellpadding="0" width="240"><tbody><tr valign="middle"><td width="50%" nowrap="nowrap"><h2><span class="RNavTitle">Today's News</span></h2></td><td width="60%" style="text-align:right"><a href="/public/content/rss_news.asp"><img src="/images/member/shell/icon_rss.gif" width="15" height="15" alt="" border="0"></a></td></tr></tbody></table></td>
+		<td colspan="2" class="tdpagecontent"><table role="presentation" border="0" cellspacing="0" cellpadding="0" width="240"><tbody><tr valign="middle"><td width="50%" nowrap="nowrap"><h2><span class="RNavTitle">Today's News</span></h2></td><td width="60%" style="text-align:right"><a href="/public/content/rss_news.asp?lang=1"><img src="/images/member/shell/icon_rss.gif" width="15" height="15" alt="RSS" border="0"></a></td></tr></tbody></table></td>
 		<td><img src="/images/spacer.gif" width="10" height="1" alt="" border="0"></td>
     </tr>
     <tr><td colspan="4"><img src="/images/spacer.gif" width="1" height="4" alt="" border="0"></td></tr>
@@ -1317,13 +1365,13 @@ function isValidEmail(obj) {
         <td colspan="2" class="publictnlink">
             <ul class="ul_public">
             
-                <li><a href="/public/content/news_article.asp?ArticleID=686197&amp;ref=news">More Evidence Weight-Loss Surgery Helps People With Diabetes</a></li>
+                <li><a href="/public/content/news_article.asp?lang=1&amp;ArticleID=697365&amp;ref=news">Millions of Kidney Failure Patients Die for Lack of Treatment: Study</a></li>
             
-                <li><a href="/public/content/news_article.asp?ArticleID=686255&amp;ref=news">Preventive Steroids May Not Improve Heart Bypass Surgery Results</a></li>
+                <li><a href="/public/content/news_article.asp?lang=1&amp;ArticleID=697351&amp;ref=news">Restraining Order Often Costly for Women</a></li>
             
-                <li><a href="/public/content/news_article.asp?ArticleID=686256&amp;ref=news">Diabetes Treatment Falls Short as Heart Failure Drug in Study</a></li>
+                <li><a href="/public/content/news_article.asp?lang=1&amp;ArticleID=697312&amp;ref=news">More Sex, Better Testosterone Levels?</a></li>
             
-                <li><a href="/public/content/news_article.asp?ArticleID=686271&amp;ref=news">Stronger Muscles May Mean Better Health for Kids</a></li>
+                <li><a href="/public/content/news_article.asp?lang=1&amp;ArticleID=697273&amp;ref=news">How to Get a Man to Open His Wallet for Charity</a></li>
             
             </ul>
         </td>
@@ -1332,7 +1380,7 @@ function isValidEmail(obj) {
     
 	<tr valign="top">
 		<td><img src="/images/spacer.gif" width="10" height="10" alt="" border="0"></td>
-		<td colspan="2" class="pagecontent"><table role="presentation" border="0" cellspacing="0" cellpadding="0" width="240" align="right"><tbody><tr valign="middle"><td width="90%" style="text-align:right"><img src="/images/member/pages/bullet_triangle_1.gif" width="9" height="17" vspace="2" alt="" border="0"></td><td class="publictdmore"><a href="/public/content/news.asp">MORE</a></td></tr></tbody></table></td>
+		<td colspan="2" class="pagecontent"><table role="presentation" border="0" cellspacing="0" cellpadding="0" width="240" align="right"><tbody><tr valign="middle"><td width="90%" style="text-align:right"><img src="/images/member/pages/bullet_triangle_1.gif" width="9" height="17" vspace="2" alt="" border="0"></td><td class="publictdmore"><a href="/public/content/news.asp?lang=1">MORE</a></td></tr></tbody></table></td>
 		<td><img src="/images/spacer.gif" width="10" height="1" alt="" border="0"></td>
     </tr>
     <tr><td colspan="4"><img src="/images/spacer.gif" width="1" height="8" alt="" border="0"></td></tr>
@@ -1363,15 +1411,15 @@ function isValidEmail(obj) {
         <td class="pagecontent">
             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
                 <tbody><tr>
-                    <td nowrap="nowrap" class="publicp2"><a href="/public/content/agreement.asp">Terms &amp; Conditions</a></td>
+                    <td nowrap="nowrap" class="publiccontentp1"><a href="/public/content/agreement.asp?lang=1">Terms &amp; Conditions</a></td>
                     <td><img src="/images/member/shell/btn_spacer.gif" width="19" height="23" alt="" border="0"></td>
-                    <td nowrap="nowrap" class="publicp2"><a href="/public/content/privacy.asp">Privacy Policy</a></td>
+                    <td nowrap="nowrap" class="publiccontentp1"><a href="/public/content/privacy.asp?lang=1">Privacy Policy</a></td>
                     <td><img src="/images/member/shell/btn_spacer.gif" width="19" height="23" alt="" border="0"></td>
-                    <td nowrap="nowrap" class="publicp2"><a href="/public/content/aboutUs.asp">About Us</a></td>
+                    <td nowrap="nowrap" class="publiccontentp1"><a href="/public/content/aboutUs.asp?lang=1">About Us</a></td>
                     <td><img src="/images/member/shell/btn_spacer.gif" width="19" height="23" alt="" border="0"></td>
-                    <!--<td nowrap="nowrap" class="publicp2"><a href="/public/content/confidentiality.asp">Confidentiality Policy</a></td>
+                    <!--<td nowrap="nowrap" class="publiccontentp1"><a href="/public/content/confidentiality.asp">Confidentiality Policy</a></td>
                     <td><img src="/btn_spacer.gif" width="19" height="23" alt="" border="0" /></td>-->
-                    <td nowrap="nowrap" class="publicp1">
+                    <td nowrap="nowrap" class="publiccontent">
                         
 						<!--oobegin-->
 						<script language="javascript" type="text/javascript" charset="windows-1252" src="/include/oo_engine.js"></script>
@@ -1390,38 +1438,25 @@ function isValidEmail(obj) {
             <img src="/images/spacer.gif" width="1" height="5" alt="" border="0"><br>
             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
                 <tbody><tr>
-                    <td nowrap="nowrap" class="publicp2"><a href="https://www.ubhonline.com/html/guidelines/levelOfCareGuidelines/index.html" target="_new">Level of Care Guidelines</a></td>
+                    <td nowrap="nowrap" class="publiccontentp1"><a href="https://www.liveandworkwell.com/public/showSpotlight.asp?lang=1&amp;id=957">Level of Care Guidelines</a></td>
                     <td><img src="/images/member/shell/btn_spacer.gif" width="19" height="23" alt="" border="0"></td>
-                    <td nowrap="nowrap" class="publicp2"><a href="https://www.ubhonline.com/html/coverageDeterminationGuidelines.html" target="_new">Coverage Determination Guidelines</a></td>
+                    <td nowrap="nowrap" class="publiccontentp1"><a href="https://www.liveandworkwell.com/public/showSpotlight.asp?lang=1&amp;id=1417">Coverage Determination Guidelines</a></td>
                     <td width="75%"><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
                 </tr>
             </tbody></table>
             <img src="/images/spacer.gif" width="1" height="5" alt="" border="0"><br>
-            <table><tbody><tr><td class="publicp2">2014&nbsp;Optum.  All Rights Reserved</td></tr></tbody></table>
+            <table><tbody><tr><td class="publiccontentp1">2015&nbsp;Optum.  All Rights Reserved</td></tr></tbody></table>
         </td>
         <td><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
         <td class="pagecontent">
             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
                 <tbody><tr>
                     <td width="20%"><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
-                    <td nowrap="nowrap" class="publicp2"><a href="/public/help/calap.asp?lang=1">Language Assistance</a></td>
+                    <td nowrap="nowrap" class="publiccontentp1"><a href="/public/help/calap.asp?lang=1">Language Assistance</a></td>
                     <td><img src="/images/member/shell/btn_spacer.gif" width="19" height="23" alt="" border="0"></td>
-                    <td nowrap="nowrap" class="publicp2"><a href="/public/help/calap.asp?lang=2">Asistencia en Varios Idiomas</a></td>
+                    <td nowrap="nowrap" class="publiccontentp1"><a href="/public/help/calap.asp?lang=2">Asistencia en Varios Idiomas</a></td>
                     <td><img src="/images/member/shell/btn_spacer.gif" width="19" height="23" alt="" border="0"></td>
-                    <td nowrap="nowrap" class="publicp2"><a href="/public/help/calap.asp?lang=3"><img src="/images/public/calap/label_VI.gif" width="169" height="20" alt="Language Assistance : Vietnamese" border="0"></a></td>
-                    <td><img src="/images/spacer.gif" width="10" height="1" alt="" border="0"></td>
-                </tr>
-            </tbody></table>
-            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-                <tbody><tr>
-                    <td width="20%"><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
-                    <td nowrap="nowrap" class="publicp2"><a href="/public/help/calap.asp?lang=4"><img src="/images/public/calap/label_AR.gif" width="152" height="20" alt="Language Assistance : Armenian" border="0"></a></td>
-                    <td><img src="/images/member/shell/btn_spacer.gif" width="19" height="23" alt="" border="0"></td>
-                    <td nowrap="nowrap" class="publicp2"><a href="/public/help/calap.asp?lang=5"><img src="/images/public/calap/label_CA.gif" width="105" height="20" alt="Language Assistance" border="0"></a></td>
-                    <td><img src="/images/member/shell/btn_spacer.gif" width="19" height="23" alt="" border="0"></td>
-                    <td nowrap="nowrap" class="publicp2"><a href="/public/help/calap.asp?lang=6"><img src="/images/public/calap/label_CH.gif" width="63" height="20" alt="Language Assistance : Chinese" border="0"></a></td>
-                    <td><img src="/images/member/shell/btn_spacer.gif" width="19" height="23" alt="" border="0"></td>
-                    <td nowrap="nowrap" class="publicp2"><a href="/public/help/calap.asp?lang=7"><img src="/images/public/calap/label_KO.gif" width="98" height="20" alt="Language Assistance : Korean" border="0"></a></td>
+                    <td nowrap="nowrap" class="publiccontentp1"><a href="/public/help/calap.asp?lang=10"><img src="/images/public/calap/label_CH.gif" width="63" height="20" alt="Language Assistance : Chinese" border="0"></a></td>
                     <td><img src="/images/spacer.gif" width="10" height="1" alt="" border="0"></td>
                 </tr>
             </tbody></table>
