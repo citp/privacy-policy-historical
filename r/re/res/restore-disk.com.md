@@ -1,72 +1,92 @@
-> *The following text is extracted and transformed from the restore-disk.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508002850id_/http%3A//restore-disk.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restore-disk.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001011id_/http%3A//driver-disk.com/privacy-statement) for the most accurate reproduction.*
 
-# Restore-Disk.com Privacy
+# Privacy Statement | driver-disk.com
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by RESTORE-DISK.COM Limited, ('Numus Software Ltd'). (The Numus Software Network includes all Web sites and certain other Internet media properties hyper linked from the RESTORE-DISK.COM home page.) The following discloses our Privacy Policy.
+Data protection information
 
-What information are you collecting and how are you collecting it?
+Our commitment to the protection of your data
 
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's IP Address . When a visitor requests a page from any Web site within the Numus Software Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the Numus Software Network, its users, or to cooperate with law enforcement. See also Will you disclose the information you collect to outside third parties? We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors.
+The scope of this information
 
-What are cookies?
+Your personal data
 
-From time to time, RESTORE-DISK.COM or its advertisers may send a cookie to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of the Numus Software Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended.
+Does UtanU (driver-disk.com) pass on the information it gathers?
 
-How do you use single-pixel gifs?
+Protection of your data
 
-RESTORE-DISK.COM and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. RESTORE-DISK.COM does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser.
+Protection of children’s data
 
-What information do you collect when I register for something?
+Links from and to other websites
 
-RESTORE-DISK.COM offers access to some services that require registration. We may use your registration contact information to send notification to you of RESTORE-DISK.COM products and services by e-mail and/or postal mail. We also may share that information with our clients. Our clients may send you promotional material that is related to the topic of the service for which you registered. We may also use your IP address internally and share it with third parties. See Will you disclose the information that you collect to outside third parties?
+Use of Google Analytics
 
-What other information do you request?
+Contact information
 
-We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about conferences and trade shows). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy.
+Amendments to this data protection information
 
-We may from time to time send e-mail announcing new RESTORE-DISK.COM products and services. Except as stated above, RESTORE-DISK.COM will not send you e-mail that you have not agreed to receive. If you choose to supply your postal address in an online form, you may receive postal mailings from other third party companies.
+* * *
 
-When you sign up for an RESTORE-DISK.COM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the Numus Software Network.
+Our Commitment To The Protection Of Your Data
 
-When you register for a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.
+UtanU Limited and driver-disk.com (known in this document as UtanU) is committed to protecting your data on-line. We promise to protect your personal information and take all the appropriate steps to ensure that we use this information only in accordance with your wishes. UtanU plays a leading role in familiarising customers and other companies with the significance of using personal information properly. It is possible that UtanU, as a globally active company, saves and/or gathers data in databases in the UK.
 
-When you use co-branded services, or those provided by a third party, within the Numus Software Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies.
+* * *
 
-What information do you collect when I purchase something?
+The Scope Of This Information
 
-If you are purchasing something from an RESTORE-DISK.COM media property, we and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfil your order and to notify you of your order status. This information may also be used by us to notify you of related products and services. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission.
+Our intention with this data protection information is to show you UtanU’s on-line data protection guidelines for the any UtanU operated websites, and inform you about the possibilities at your disposal for gathering information about yourself on this website. You can request information about other off-line data collections from the contact addresses specified below. PLEASE NOTE: On the websites operated by our subsidiaries (e.g. on websites where UtanU provides content in conjunction with Zoftar Ltd Zoftar.com), it is possible that specific data protection information relating to the website in question might be shown. On private websites (e.g. those available only to traders and retailers) and on websites created solely for our employees (or future employees), it may likewise be the case that specific data protection information relating to the website in question is shown. Websites administered by subsidiaries of UtanU are covered by their own on-line data protection information.
 
-Certain RESTORE-DISK.COM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other RESTORE-DISK.COM media properties do not use SSL and thereby do not offer a secure coded way to transfer information.
+* * *
 
-Wherever RESTORE-DISK.COM collects personal information we make an effort to include a link to this Privacy Policy on that page.
+Your Personal Data
 
-Will you disclose the information you collect to outside third parties?
+Personal information enables us to offer you a better service, as we can tailor our communication activities to your interests by sending only information which is genuinely relevant for you. Below you will find a list of the information items that we gather. Information explicitly provided by you: To enable us to place your order, you are asked to provide specific items of personal information. These include, for example, your name, postal address, email address and telephone number. You have the option of refusing to supply this information. If you do this, however, particular services or offerings will be unavailable to you. User right: you can inspect any personal data relating to you which is currently stored in our system in your personal Account section. Information collected automatically by us: We use common Internet technologies such as cookies and beacons to guarantee the integrity of our website and to adapt areas of it to your personal needs. We may collect data via the web analysing tool Omniture (using cookies) enabling us to create anonymous user profiles in order to improve our service to our customers.
 
-RESTORE-DISK.COM will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:
+* * *
 
-  1. Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on RESTORE-DISK.COM,
-  2. Protect and defend the rights or property of the Numus Software Network of sites and related properties, or visitors to the Numus Software Network of sites and related properties,
-  3. Identify persons who may be violating the law, the RESTORE-DISK.COM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the RESTORE-DISK.COM Network or its related properties,
-  4. Fulfil a user's order or request.
+Does UtanU Pass On The Information It Gathers?
 
+Personal information about you is not hired out or sold to third parties. UtanU reserves the right to forward the data to Zoftar Ltd (Our PCI Compliant Payment Provider). UtanU can forward your personal information to the following entities: Companies operating on our behalf: we hire other companies to carry out certain business activities for us. In the process, it might under certain circumstances be necessary to access your personal information. We urge these companies to use the information solely for the provision of the agreed services. The companies are not permitted to transmit the information to third parties, unless this is necessitated by service provision. These business activities include, for example, the execution of orders, the processing of vouchers, bonuses and discounts, the conduct of customer questionnaires, and information management tasks. We also provide particular service providers with compilations of general information. Web pages of subsidiaries and partners: UtanU forwards information to partner companies which make special offers or run promotional campaigns jointly on web pages of subsidiaries within our website. They are informed about the forwarding of the information when they are requested to provide personal information on websites of this kind. The respective partner company’s use of information transmitted in this way is governed by the partner’s own data protection guidelines. You should read this information in its entirety before transmitting your personal data. Company transfers: UtanU reserves the right to transfer, either in whole or in part, your personal information in the event of the sale or transfer of our company or our assets. If the company is sold or transferred, UtanU will give you the option of refusing to allow the transfer of your personal information. In some cases, this might mean that the new company can no longer provide you with the services or products that were previously provided by UtanU. Legal execution: UtanU can disclose your personal information to third parties without your consent for the following purposes: to comply with laws, ordinances or court decisions; to cooperate with investigations by public authorities; to prevent fraud; or to assert or protect the rights of UtanU. Your consent: In all other cases, UtanU will ask for your explicit consent before your personal information is disclosed to third parties. UtanU can, for example, make a special offer or launch a prize competition in conjunction with a third party, in which case you will be asked whether your personal information may be forwarded to this third party.
 
+* * *
 
-RESTORE-DISK.COM uses reasonable precautions to keep the information disclosed to us secure. RESTORE-DISK.COM reserves the right to transfer all such information in connection with the sale of all or part of RESTORE-DISK.COM capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users
+Protection Of Your Data
 
-See below.
+UtanU uses a variety of administrative, internal and technical security measures to protect your personal information. UtanU has established internal control standards which deal specifically with the handling of personal data. These include particular control measures for protecting the information gathered by us on-line. Employees of UtanU are trained to understand and comply with these control measures. In addition, we make our employees aware of our data protection information, guidelines and standards. Although we commit ourselves to the protection of your personal information, you too must take any steps which may be necessary. We recommend that you take all of the precautionary steps that are necessary to protect your personal information during Internet use.
 
-What else should I know about my privacy when online?
+* * *
 
-The Numus Software Network contains many hyperlinks to third party Web sites. The Numus Software Network also contains advertisements of third parties. RESTORE-DISK.COM is not responsible for the privacy practices or the content of such third party Web sites or advertisers. RESTORE-DISK.COM does not share any of the individual personal information you provide RESTORE-DISK.COM with the third parties to which RESTORE-DISK.COM links, except as stated elsewhere within this Privacy Policy, although RESTORE-DISK.COM may share general, aggregate data with such third parties (such as how many people use our site). Please check with those Web sites to determine their privacy policy.
+Protection Of Children’s Data
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+The on-line protection of children’s data is particularly important. UtanU does not deliberately gather or request information about children unless the children’s parents or guardians give their explicit consent. UtanU suggests to parents or guardians that they should spend time with their children in the Internet and participate in their activities and interests.
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+* * *
 
-Your Consent To This Agreement
+Links From And To Other Websites
 
-By using the Numus Software Network, you consent to the collection and use of information by RESTORE-DISK.COM as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+Some UtanU websites contain links to other websites, and some websites contain links to the UtanU website. UtanU is not responsible for the data protection guidelines of such websites. UtanU recommends that you inform yourself about such websites’ data protection guidelines.
 
-Please send any questions about RESTORE-DISK.COM Privacy Policy to: privacy@RESTORE-DISK.COM
+* * *
 
-RESTORE-DISK.COM
+Use of Google Analytics
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+* * *
+
+Contact Information
+
+If you have any queries or concerns regarding to the protection of your data when using the UtanU website, please send an email to the following address: Service email: customerservice@driver-disk.com
+
+You Can Also [Contact Us](https://web.archive.org/contact-us.asp) Here.
+
+The UtanU department for on-line data protection will work together with you to find a solution that allays your concerns with regard to this data protection information
+
+* * *
+
+Amendments To This Data Protection Information
+
+UtanU reserves the right to amend this data protection information occasionally. For this purpose, any changes to this privacy policy will be published on this page or, if the amendments are extensive, an email will be sent to all the customers about whom we have gathered personal information. This data protection information was last amended on 19th January 2014.
+
+  
+
