@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scorm.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207051923id_/http%3A//scorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorm.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000144id_/http%3A//scorm.com/privacy-policy) for the most accurate reproduction.*
 
 # SCORM - Privacy Policy » SCORM -
 
