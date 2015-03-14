@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesdeen.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126015940id_/http%3A//jamesdeen.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesdeen.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235941id_/http%3A//www.jamesdeen.com/privacy-policy.php) for the most accurate reproduction.*
 
 # JamesDeen.com | Privacy Policy
 
@@ -126,4 +126,4 @@ support@jamesdeen.com
 
 * * *
 
-If you are unsatisfied with your membership, please [contact us](https://web.archive.org/web/20141126015940id_/http%3A//jamesdeen.com/contact.php) for a refund.
+If you are unsatisfied with your membership, please [contact us](https://web.archive.org/web/20150314235941id_/http%3A//www.jamesdeen.com/contact.php) for a refund.
