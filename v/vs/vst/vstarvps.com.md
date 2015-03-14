@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vstarvps.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523092714id_/https%3A//www.estrowebservices.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vstarvps.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001946id_/https%3A//www.estrowebservices.com/privacy.php) for the most accurate reproduction.*
 
-# Estro Web Services Private Limited - Privacy Policy
+# Estro Web Services Private Limited - Portal Home
 
 Privacy Policy
 
@@ -19,6 +19,3 @@ Estro Web Services Private Limited collects personally identifiable information 
 ### How We Use Information
 
 Estro Web Services Private Limited may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by Estro Web Services Private Limited and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users' experience with Estro Web Services Private Limited and such affiliates, independent contractors and business partners. At no time will Estro Web Services Private Limited's database of users ever be sold to any entity for the purpose of marketing or mailing lists. Personal information will not be sold or otherwise transferred to our business partners without your prior consent, except that we will disclose the information we collect to third parties when, in our good faith judgment, we are obligated to do so under applicable laws.
-
-  
-
