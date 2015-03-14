@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originalmockups.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051737id_/http%3A//originalmockups.com/support/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originalmockups.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233255id_/http%3A//originalmockups.com/support/privacy-statement) for the most accurate reproduction.*
 
 # Original Mockups - Privacy Statement
 
@@ -47,4 +47,4 @@ Public Areas. We provide a commenting system areas on our Website where you can 
 
 We’d like to stay connected and want to hear from you!
 
-info [@] originalmockups [dot] com
+[Contact us](https://web.archive.org/contact)
