@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the tejji.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022155601id_/http%3A//tejji.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tejji.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231525id_/http%3A//tejji.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Tejji
 
-Last Date of Revision: 29th December 2009
+Last Date of Revision: 29th December 2009 
 
-###  Introduction
+### Introduction
 
 At Tejji we recognize that privacy is important. This Privacy Policy applies to all of the products and services offered by website [Tejji.com](http://tejji.com/). 
 
 Or, you can write to us at address mentioned below   
 Tejji.com . No. 181/A, 1st Main Road, Padmanabhangar, Bangalore - 560070 India [contactus@tejji.com](mailto:contactus@tejji.com)
 
-###  Information we receive and how we use it
+### Information we receive and how we use it
 
 Our offering have services that do not require you to register yourself at Tejji and create an account or provide any personal information to us, such as Typing Test. However to provide you with services, we may collect the following types of information: 
 
@@ -19,7 +19,7 @@ Our offering have services that do not require you to register yourself at Tejji
 
 **Information that is shared**
 
-This information relates to your score history which includes following:
+This information relates to your score history which includes following: 
 
     * Your typing scores
     * Your game scores
@@ -37,7 +37,7 @@ This information relates to your score history which includes following:
 
 
 
-The personal information collected by Tejji are governed by privacy policy mentione here. These information are used for the purposes which includes:
+The personal information collected by Tejji are governed by privacy policy mentione here. These information are used for the purposes which includes: 
 
   * Providing our services
   * Research and analysis in order to protect and improve our services
@@ -47,19 +47,19 @@ The personal information collected by Tejji are governed by privacy policy menti
 
 
 
-The personal information may be processed in any part of the world.
+The personal information may be processed in any part of the world. 
 
-###  Protection on Information
+### Protection on Information
 
-Information that we collect from you are governed by the privacy policy mentioned here. If we intend to use it differetly then we will seek your consent for the same.
+Information that we collect from you are governed by the privacy policy mentioned here. If we intend to use it differetly then we will seek your consent for the same. 
 
-If you decline to provide some of the mandatory information then you would not be able to use some of our services.
+If you decline to provide some of the mandatory information then you would not be able to use some of our services. 
 
 In case if you do not want us to use the information for the purpose intended to then we would try our best to provide you with the mechanism to opt out those information from being used in particular manner. 
 
-###  Sharing of Information
+### Sharing of Information
 
-Information collected from your are being share only in following cases.
+Information collected from your are being share only in following cases. 
 
   * You have agreed to share such information or we have your consent
   * Such information is processed by third party who agree to operate under same privacy policies
@@ -69,13 +69,13 @@ Information collected from your are being share only in following cases.
 
 
 
-Please contact us if you have further clarification regarding sharing of information.
+Please contact us if you have further clarification regarding sharing of information. 
 
-###  Changes to Privacy Policies 
+### Changes to Privacy Policies 
 
 Privacy Policy mentioned here may change time to time. In case of changes we will try our best not to reduce the protection level of your information from current level. However me may change the policy without your consent. Last date of change will be mentioned in the document. 
 
-If you have any concerns with respect to Privacy Policy then please feel free to write to us through this website.
+If you have any concerns with respect to Privacy Policy then please feel free to write to us through this website. 
 
 Thank you for you attention.   
-Tejji.com
+Tejji.com 
