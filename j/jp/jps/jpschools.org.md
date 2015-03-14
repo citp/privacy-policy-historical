@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpschools.org privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126012851id_/http%3A//jpschools.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpschools.org privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314224651id_/http%3A//jpschools.org/privacy-statement) for the most accurate reproduction.*
 
 # Jefferson Parish Public School System — Privacy Statement
 
