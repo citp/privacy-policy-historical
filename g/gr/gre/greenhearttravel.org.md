@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenhearttravel.org privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031190549id_/http%3A//greenhearttravel.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenhearttravel.org privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314220242id_/http%3A//greenhearttravel.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Greenheart Travel | Greenheart Travel
+# Privacy Policy | Greenheart Travel
 
 By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
