@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsthump.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926195505id_/http%3A//newsthump.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsthump.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231113id_/http%3A//newsthump.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
