@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the antar.in privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701193840id_/http%3A//www.antar.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antar.in privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000135id_/http%3A//www.antar.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  [ Privacy Policy](http://www.antar.in/privacy-policy)
+##  [ Privacy Policy](http://antar.in/privacy-policy)
 
 Details
      Written by Srinivas Kuknoorpalli 
@@ -46,4 +46,4 @@ we include links to third parties on this website. Where we provide a link it do
 
 **Contacting Us**
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy35446%20=%20'admin'%20+%20'@';%20addy35446%20=%20addy35446%20+%20'antar'%20+%20'.'%20+%20'in';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy35446%20+%20'\\'%3E'\);%20document.write\(addy35446\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)[admin@antar.in](mailto:admin@antar.in)
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy24583%20=%20'admin'%20+%20'@';%20addy24583%20=%20addy24583%20+%20'antar'%20+%20'.'%20+%20'in';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy24583%20+%20'\\'%3E'\);%20document.write\(addy24583\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)[admin@antar.in](mailto:admin@antar.in)
