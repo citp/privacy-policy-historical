@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatsthem.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829033257id_/http%3A//thatsthem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsthem.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231532id_/http%3A//thatsthem.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,13 +85,7 @@ You may opt-out of many third-party ad networks, including those operated by mem
 
 ## Your California Privacy Rights.
 
-If you are a ThatsThem customer or site visitor who resides in California, and you have provided ThatsThem your personal information, you may request a list of the third parties with whom we have shared such personal information, for the third parties' own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at:
-
-**ThatsThem**  
-**7530 164th Avenue NE**  
-**Suite A204**  
-**Redmond, WA 98052**  
-Please allow up to thirty (30) days for a response. 
+If you are a ThatsThem customer or site visitor who resides in California, and you have provided ThatsThem your personal information, you may request a list of the third parties with whom we have shared such personal information, for the third parties' own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information by contacting us at admin@thatsthem.com.
 
 ## Updates to the Privacy Policy.
 
