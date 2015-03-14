@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ps4playstation4.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713233943id_/http%3A//www.ps4playstation4.com/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps4playstation4.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000538id_/http%3A//www.ps4playstation4.com/privacy-policy-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
