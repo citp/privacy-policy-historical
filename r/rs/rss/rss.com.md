@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rss.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102741id_/https%3A//www.rss.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rss.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005856id_/https%3A//www.rss.com/privacy_policy) for the most accurate reproduction.*
 
 # RSS Feed Reader, your tool for saving time and money at RSS.com | Privacy Policy
 
