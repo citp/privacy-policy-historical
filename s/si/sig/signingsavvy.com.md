@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signingsavvy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051418id_/http%3A//www.signingsavvy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signingsavvy.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314232044id_/https%3A//www.signingsavvy.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | ASL Sign Language Video Dictionary
 
@@ -90,7 +90,7 @@ This policy was last modified on May 20, 2013.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-**Email:** Use our [Contact Form](http://www.signingsavvy.com/contact) to send us an email.
+**Email:** Use our [Contact Form](https://www.signingsavvy.com/contact) to send us an email.
 
 **Mailing Address:**  
 Signing Savvy  
