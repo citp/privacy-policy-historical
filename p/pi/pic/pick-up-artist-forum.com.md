@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pick-up-artist-forum.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903042704id_/http%3A//www.pick-up-artist-forum.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pick-up-artist-forum.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314222225id_/http%3A//www.pick-up-artist-forum.com/privacy.php) for the most accurate reproduction.*
 
 # #1 PUA Forum - Become The Ultimate Pick Up Artist
 
