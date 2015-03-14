@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get10000fans.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010135634id_/http%3A//get10000fans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get10000fans.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314221535id_/http%3A//get10000fans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,8 +8,8 @@ We collect information from you when you register on our site, place an order, s
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 **What do we use your information for?**
@@ -53,15 +53,15 @@ After a transaction, your private information (credit cards, social security num
 
 **How Do I Opt-Out of Your Email List?**
 
-To Opt-Out, all you need to do is click the “Unsubscribe” link at the bottom of any email you receive from us.
+To Opt-Out, all you need to do is click the “Unsubscribe” link at the bottom of any email communication you receive from us.
 
 You can also contact our [Support Desk](http://get10000fans.zendesk.com/home) (http://get10000fans.zendesk.com/home) and request to be removed from our mailing list as well.
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and keep track of advertisements and .
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and keep track of advertisements.
 
 **Do we disclose any information to outside parties?**
 
