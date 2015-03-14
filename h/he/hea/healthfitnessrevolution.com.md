@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthfitnessrevolution.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116011855id_/http%3A//healthfitnessrevolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfitnessrevolution.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314225532id_/http%3A//healthfitnessrevolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
