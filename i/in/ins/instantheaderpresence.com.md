@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantheaderpresence.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925100346id_/http%3A//instantheaderpresence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantheaderpresence.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002632id_/http%3A//instantheaderpresence.com/privacy) for the most accurate reproduction.*
 
 # privacy
 
