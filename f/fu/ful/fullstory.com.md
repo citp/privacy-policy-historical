@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullstory.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926231938id_/http%3A//www.fullstory.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullstory.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234003id_/https%3A//www.fullstory.com/legal/privacy) for the most accurate reproduction.*
 
 # Terms of Service | FullStory
 
@@ -98,6 +98,19 @@ We take measures to enhance the security of our Site and the FullStory service. 
 
 We store and process information about you on computers in the United States. Privacy laws local to our servers and computers will apply to information we store about you. 
 
+#### U.S.-EU Safe Harbor
+
+Monetology LLC (d/b/a FullStory) complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Monetology LLC (d/b/a FullStory) has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Monetology LLC (d/b/a FullStory)'s certification, please visit <http://www.export.gov/safeharbor/>
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, FullStory commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact FullStory at:
+
+FullStory  
+Attn: Privacy  
+818 Marietta Street  
+Atlanta, GA 30318
+
+FullStory has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by FullStory, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+
 #### Your California Privacy Rights
 
 Under California Civil Code sections 1798.83-1798.84, California residents who have an established business relationship with us are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Attn: Privacy, 611 N. Brand Blvd., 5th floor Glendale, CA 91203. Please allow 30 days for a response. 
@@ -114,4 +127,4 @@ Our site is intended for a general audience and we do not knowingly collect pers
 
 We may amend this Privacy Policy from time to time. When there are changes to this Privacy Policy, we will update this page. The date on the bottom will always indicate when we last made changes. If you are a visitor to this site and disagree with the Privacy Policy, you should leave the Site and cancel your agreement with FullStory. 
 
-Last Modified on July 7, 2014 
+Last Modified on October 8, 2014 
