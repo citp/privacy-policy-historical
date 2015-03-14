@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vila.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829045923id_/http%3A//vila.com/customer-service/privacy-policy/vl-cs-privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vila.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235642id_/http%3A//vila.com/customer-service/privacy-policy/cs-privacy-policy%2Cen_MT%2Cpg.html) for the most accurate reproduction.*
 
-# Privacy policy - read about privacy policy for VILA
+# Privacy policy - read about privacy policy for BESTSELLER
 
 ###### Collection of personal data
 
@@ -22,7 +22,7 @@ BESTSELLER HANDELS B.V. will process your personal data for marketing purposes s
 
 BESTSELLER* uses cookies to give you the best possible experience when you visit our website. A cookie is a small text file which is attached to your computer's hard disk, smartphone or other IT equipment. It enables your computer/IP address to be recognised and information to be collected regarding the pages and functions you visit.
 
-The first time you visit our website, you will see a banner at the top with the statement that we use cookies. If you click on the link "No thanks to cookies", we will not apply more cookies than those required to implement the choices you make, e.g. cookies to make a purchase from our online shop. If you don't want us to use cookies at all, you must deactivate cookies in your browser. However, you should be aware that in this case there may be services and functions which you cannot use as they require cookies to remember the choices you are making. You can follow the link below if you would like instructions on how to delete cookies from your browser.
+The first time you visit our website, you will see a banner at the top with the statement that we use cookies. If you do not want us to use cookies at all, you must deactivate cookies in your browser. However, you should be aware that in this case there may be services and functions which you cannot use as they require cookies to remember the choices you are making. You can follow the link below if you would like instructions on how to delete cookies from your browser.
 
 BESTSELLER uses cookies to give you a better user experience on our website, to remember the choices you are making when you use our website, for example choice of country, and for ongoing improvement of the content and functions you experience on our website. We also use cookies to target our marketing so that it matches your requirements, and to generate statistics regarding the use of our website.
 
