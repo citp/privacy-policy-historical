@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailypuppy.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626104913id_/http%3A//www.dailypuppy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypuppy.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235304id_/http%3A//www.dailypuppy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Puppy
 
@@ -54,20 +54,8 @@ BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE T
     2. Notice Required by Law. In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with DailyPuppy.com at all times. 
     3. Identity Theft. If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address (see the next section of this Policy) and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses.
     4. Revisions. We reserve the right to change our Policy at any time. Non-material changes and clarifications will take effect immediately. If we make non-material changes, we will indicate at the top of this page the revised Policy's new effective date. If we make material changes, we will notify you by email or through notice on the home page of the Site, and will also indicate so at the top of this page. The material changes will take effect 30 days after such notice. We encourage you to refer to this Policy at least every 30 days to check for material changes to this Policy. 
-  8. CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY. For customer service matters (including questions relating to this Policy), you may email us at info@dailypuppy.com. To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 5808 Lake Washington Blvd., Suite 300, Kirkland, WA 98033. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or to your DailyPuppy.com email account, or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to your DailyPuppy.com email account or to the non-DailyPuppy.com email address that we have on record for you.
+  8. CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY. For customer service matters (including questions relating to this Policy), you may email us at info@dailypuppy.com. To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 1655 26th Street, Santa Monica, CA 90404, Fax: 310.395.624, legal@demandmedia.com . When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or to your DailyPuppy.com email account, or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to your DailyPuppy.com email account or to the non-DailyPuppy.com email address that we have on record for you.
 
 
 
 Copyright © 2008. Demand Media, Inc.
-
-  * Sun
-  * Mon
-  * Tue
-  * Wed
-  * Thu
-  * Fri
-  * Sat
-
-
-
-### Featured Puppies From the Past
