@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealstan.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226065806id_/http%3A//www.dealstan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealstan.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000254id_/http%3A//www.dealstan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
