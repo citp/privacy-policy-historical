@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the presszel.com privacy policy that was archived on 2014-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140109064734id_/http%3A//presszel.com/%3Fpage_id%3D31) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presszel.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314215135id_/http%3A//presszel.com/privacy) for the most accurate reproduction.*
 
-# Privacy - My CMS
+# Privacy - Presszel
 
 Your privacy is important to PRESSZEL.  This privacy statement provides information about the personal information that PRESSZEL collects, and the ways in which PRESSZEL uses that personal information.
 
