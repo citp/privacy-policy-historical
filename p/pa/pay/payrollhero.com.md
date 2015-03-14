@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payrollhero.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423154945id_/http%3A//payrollhero.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payrollhero.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004017id_/https%3A//payrollhero.payrollhero.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy of PayrollHero
+# Privacy Policy @ PayrollHero.com Pte. Ltd. : PayrollHero
 
   1. Who we are? 
 
@@ -97,7 +97,8 @@ Cookies, when stored on your computer, facilitate the following:
       * Why do we collect it? 
         1. Session information will allow us to enhance your experience on PayrollHero by allowing us to troubleshoot technical issues as well as to improve our site usability. 
 
-  4. Who do we share your information with? 
+  4. ##  Who do we share your information with? 
+
     1. PayrollHero is the owner of the information collected on this site and the PayrollHero platform. 
 
     2. We may disclose your personal information on occasion to third parties who work with us. Some of these third parties may be located outside your home country, or outside of Singapore. The information will be protected in a manner that is consistent with this Privacy Policy. Disclosure will be made in the following scenarios for the following purposes: 
@@ -124,7 +125,8 @@ Cookies, when stored on your computer, facilitate the following:
 
     5. You should also note that the processing of information on the PayrollHero site and the transmission of transaction messages relating to purchases, including your account related data, may involve transmissions over various networks (which may not be secure) and to various countries and further processing and storage of data in such countries. 
 
-  5. You have control over your information! 
+  5. ##  You have control over your information! 
+
     1. Opt In and Opt Out Policy 
       1. You always have the option to opt in to participate in PayrollHero’s product and service offers. For example, you will be given the option to subscribe to PayrollHero’s newsletters by checking the box. 
 
