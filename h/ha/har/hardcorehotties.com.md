@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcorehotties.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209152326id_/http%3A//www.flirtbuddies.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcorehotties.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314220644id_/http%3A//www.flirtbuddies.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds7) for the most accurate reproduction.*
 
 # FlirtBuddies.com - Free Online Dating, Flirt with Local Singles, Flirting Dating Site
 
@@ -44,17 +44,4 @@ You can cancel your subscription online by visiting the Customer Service section
 Visitors who wish to access or change the information they provided to our Web site, should visit the Customer Service section of this site and contact us via Email. 
 
 **HOW CAN YOU CONTACT THE WEB SITE OPERATOR?**   
-Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email.
-
-  
-
-
-FlirtBuddies.com is different. Unlike other online dating sites that have guys in lab coats deciding who is your best match we simply give you all the tools at your hands to find the hottest most compatible dating partners. FlirtBuddies.com makes online dating easy and fun to flirt with local singles. Membership is free and you decide how much to reveal about yourself to local singles. Hundreds of single men and women in your local area are seeking love, friendship, and romance and are already FlirtBuddies.com members. More members are joining every day. Take the work out of dating and join FlirtBuddies.com today. Start finding dates to flirt with on our new online dating site and start having fun flirting with single women or men today!
-
-  * © 2014  FlirtBuddies.com /
-  * [**Member Login**](https://web.archive.org/web/20140209152326id_/http%3A//www.flirtbuddies.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds7?wm_login=admin&ps=s&page=login&from=s7) / 
-  * [Customer Service](http://www.datingsitesupport.com/) / 
-  * [Terms of Service](https://web.archive.org/web/20140209152326id_/http%3A//www.flirtbuddies.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds7?wm_login=admin&ps=s&page=terms&from=s7) / 
-  * [Privacy Policy](https://web.archive.org/web/20140209152326id_/http%3A//www.flirtbuddies.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds7?wm_login=admin&ps=s&page=pp&from=s7)
-
-
+Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email. 
