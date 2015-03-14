@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the afterhoursprogramming.com privacy policy that was archived on 2014-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220175448id_/http%3A//www.afterhoursprogramming.com/information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the afterhoursprogramming.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315002553id_/http%3A//www.afterhoursprogramming.com/information/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head lang="en">
     <meta charset="UTF-8">
@@ -329,7 +329,7 @@
             <img alt="Delicious" height="60" width="60" style="margin-bottom:0px;display:inline;" class="thumbnail" src="/static/images/social-media/delicious.jpg">
         </a>
     </div>
-    <div id="socialShareCsrf"><input type="hidden" name="csrfmiddlewaretoken" value="lYympiiPI1k3hda1N4QjKC8fr59ayIu0"></div>
+    <div id="socialShareCsrf"><input type="hidden" name="csrfmiddlewaretoken" value="gNIYBLtixOku2tJi0MQzKVgZyJwhpivj"></div>
     <script>
         $("a.social-share-click").click(function(){
             $.post("/social/share/", {csrfmiddlewaretoken: $('#socialShareCsrf [name="csrfmiddlewaretoken"]').val()});
@@ -340,6 +340,27 @@
                     
                     
 <h2 class="comment-title">Comment on </h2>
+
+<ul class="media-list">
+    <li class="media">
+        <a class="pull-left" href="#">
+        
+            <img alt="User" style="max-width:150px;" class="media-object" src="/static/images/users/empty-user.gif">
+        
+        </a>
+        <div class="media-body">
+            <h4 class="media-heading">
+                 
+                    SupernewtX
+                
+                <small>Feb. 11, 2015, 12:27 a.m.</small>
+            </h4>
+            Came for the badges, but genuinely kinda helpful
+        </div>
+        <div class="clear"></div>
+        <hr>
+    </li>
+</ul>
 
 <ul class="media-list">
     <li class="media">
@@ -814,12 +835,12 @@ keep on!!!!!!
                 <p><a rel="nofollow" href="http://www.afterhoursprogramming.com/information/terms-of-use/">Terms of Use</a></p>
             </div>
             <p>
-                <span>Copyright © 2014</span>
+                <span>Copyright © 2015</span>
                 <span><a rel="nofollow" href="">After Hours Programming</a></span>
             </p>
         </div>
     </div>
-    <div id="trackNavigationCsrf"><input type="hidden" name="csrfmiddlewaretoken" value="lYympiiPI1k3hda1N4QjKC8fr59ayIu0"></div>
+    <div id="trackNavigationCsrf"><input type="hidden" name="csrfmiddlewaretoken" value="gNIYBLtixOku2tJi0MQzKVgZyJwhpivj"></div>
     <div class="modal fade" id="badgeModal" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
@@ -860,6 +881,7 @@ keep on!!!!!!
         var trackPreviousHover = false;
         
         function trackNavHover(type) {
+            /*
             if(type == "next" && !trackNextHover) {
                 logHoverEvent('next');
                 trackNextHover = true;
@@ -871,6 +893,7 @@ keep on!!!!!!
                 return true;
             }
             return false;
+            */
         }
 
         function logHoverEvent(type) {
