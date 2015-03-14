@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modere.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401092944id_/https%3A//images.modere.com/agreements/ModerePrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modere.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314230058id_/https%3A//images.modere.com/agreements/ModerePrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # MODERE.COM PRIVACY POLICY
 
