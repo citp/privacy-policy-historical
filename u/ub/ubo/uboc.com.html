@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uboc.com privacy policy that was archived on 2014-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141224164630id_/https%3A//www.unionbank.com/small-business/privacy-security/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uboc.com privacy policy that was archived on 2015-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150314232907id_/https%3A//www.unionbank.com/small-business/privacy-security/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="small-business" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:tridion="http://www.tridion.com/ContentManager/5.0" style="background-image: url(&quot;/ubimages/ub-sb-bg-gradient.jpg&quot;);"><head>
 <title>Privacy Policy - Union Bank</title>
@@ -74,32 +74,42 @@
     <script type="text/javascript">ub.utils.initTopNavCurrent()</script>
 
     
-            <form class="top-search" action="?" method="get">
-        <input type="hidden" name="output" value="xml_no_dtd">
-        <input type="hidden" name="ie" value="UTF-8">
-        <input type="hidden" name="oe" value="UTF-8">
-        <input type="hidden" name="client" value="ub2_frontend">
-        <input type="hidden" name="proxystylesheet" value="ub2_frontend">
-        <input type="hidden" name="site" value="ub2_collection">
-        <input type="hidden" name="ubtopmenu" value="small-business">
-        <input type="hidden" name="ubbkimage" value="url(&quot;/ubimages/ub-sb-bg-gradient.jpg&quot;)">
-        <div class="clearfix">
-            <input type="text" name="q" class="top-search-text default-text default-text-active" title="Search">
-            <button type="submit" class="top-search-submit"></button>
-        </div>
-    </form>
-    <script language="javascript">
-        dom.query(function($) {
-            $("input[name=ubtopmenu]").val($("html").attr("id"));
-            $("input[name=ubbkimage]").val($("html").css("background-image"));
-            $("form.top-search").submit(function() {
-                var url = "https://search.unionbank.com/search",
-                    parms = $(this).serialize();
-                window.location.href = url + "?" + parms;
-                return false;
-            });
-        });
-    </script>    
+        <form class="top-search" action="?" method="get">
+	<input type="hidden" name="output" value="xml_no_dtd">
+	<input type="hidden" name="ie" value="UTF-8">
+	<input type="hidden" name="oe" value="UTF-8">
+	<input type="hidden" name="client" value="ub2_frontend">
+	<input type="hidden" name="proxystylesheet" value="ub2_frontend">
+	<input type="hidden" name="site" value="ub2_collection">
+	<input type="hidden" name="ubtopmenu" value="small-business">
+	<input type="hidden" name="ubbkimage" value="url(&quot;/ubimages/ub-sb-bg-gradient.jpg&quot;)">
+	<div class="clearfix">
+		<input type="text" name="q" class="top-search-text default-text default-text-active" title="Search">
+		<button type="submit" class="top-search-submit"></button>
+	</div>
+</form>
+
+<script type="text/javascript">
+dom.query(function($) {
+	$("input[name=ubtopmenu]").val($("html").attr("id"));
+	$("input[name=ubbkimage]").val($("html").css("background-image"));
+	$("form.top-search").submit(function() {
+		var url = "https://search.unionbank.com/search",
+			parms = $(this).serialize();
+		window.location.href = url + "?" + parms;
+		return false;
+	});
+});
+
+dom.query("form.top-search").ready(function ($) {
+	if (location.pathname.split("/")[1] === 'wholesaleportal') {
+		$(".top-search").find("input[name='site']").val("wholesaleportal_collection");
+		$(".top-search").find("input[name='client']").val("wholesaleportal_frontend");
+		$(".top-search").find("input[name='proxystylesheet']").val("wholesaleportal_frontend");
+		$(".top-search").find("input[name='ubbkimage']").remove();
+	}
+});
+</script>    
 
 
     <div class="navigation-wrapper">
@@ -217,6 +227,7 @@
 <ul class="sub-nav-flyout-links">
 <li class="sub-nav-flyout-link"><a href="/small-business/loans-lines-credit/loans-lines-credit/index.jsp"> Loans &amp; Lines of Credit</a></li>
 <li class="sub-nav-flyout-link"><a href="/small-business/loans-lines-credit/credit-cards/index.jsp"> Credit Cards</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/loans-lines-credit/equipment-leasing/index.jsp"> Equipment Leasing</a></li>
 <li class="sub-nav-flyout-link"><a href="/small-business/loans-lines-credit/diversity-lending/index.jsp"> Diversity Lending</a></li>
 </ul>
 <div class="clear"></div>
@@ -235,6 +246,7 @@
 <li class="sub-nav-flyout-link"><a href="/small-business/business-services/merchant-services/index.jsp"> Merchant Services</a></li>
 <li class="sub-nav-flyout-link"><a href="/small-business/business-services/international/index.jsp"> International</a></li>
 <li class="sub-nav-flyout-link"><a href="/small-business/business-services/employee-benefits/index.jsp"> Employee Benefits</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/business-services/resource-center/index.jsp"> Resource Center</a></li>
 </ul>
 <div class="clear"></div>
 <div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
@@ -499,8 +511,6 @@
 						<li><input type="checkbox" value="sl-branch" id="sl-branch" checked="checked"><label for="sl-branch">Branches</label></li>
 						<li><input type="checkbox" value="sl-allatm" id="sl-allatm"><label for="sl-allatm">ATMs</label></li>
 						<li><input type="checkbox" value="sl-efdatm" id="sl-efdatm"><label for="sl-efdatm">ATM's With Envelope Free Deposits</label></li>
-						<li><input type="checkbox" value="sl-pribnk" id="sl-pribnk"><label for="sl-pribnk">Priority Banking Offices</label></li>
-						<li><input type="checkbox" value="sl-prvbnk" id="sl-prvbnk"><label for="sl-prvbnk">The Private Bank</label></li>
 						<li><input type="checkbox" value="sl-invctr" id="sl-invctr"><label for="sl-invctr">Investment Centers</label></li>
 						<li><input type="checkbox" value="sl-fcxchg" id="sl-fcxchg"><label for="sl-fcxchg">Foreign Currency Exchange</label></li>
 						<li><input type="checkbox" value="sl-isbranch" id="sl-isbranch"><label for="sl-isbranch">In-Store Branches</label></li>
@@ -576,7 +586,7 @@ window.dom.query(document).ready(function ($) {
 				<a href="/small-business/index.jsp" class="breadcrumb-item">Small Business</a>&nbsp;<span class="path-separator">&gt;</span>&nbsp;<a href="/small-business/privacy-security/privacy-policy.jsp" class="breadcrumb-item">Privacy Policy</a>&nbsp;
 			</p>
 			<p class="right">
-				<a href="#" class="action-item" id="action-print-page">Print</a> | <a href="mailto:?subject=Privacy%20Policy%20-%20Union%20Bank&amp;body=https%3A//web.archive.org/web/20141224164630id_/https%253A//www.unionbank.com/small-business/privacy-security/privacy-policy.jsp" class="action-item" id="action-email-page">Email</a>
+				<a href="#" class="action-item" id="action-print-page">Print</a> | <a href="mailto:?subject=Privacy%20Policy%20-%20Union%20Bank&amp;body=https%3A//web.archive.org/web/20150314232907id_/https%253A//www.unionbank.com/small-business/privacy-security/privacy-policy.jsp" class="action-item" id="action-email-page">Email</a>
 			</p>
 			<div class="clear"></div>
 		</div>
@@ -594,11 +604,11 @@ window.dom.query(document).ready(function ($) {
 <input type="hidden" name="currentTab" value="\small-business\privacy-security\privacy-policy.jsp">
 
 	<div class="tab-menu-panel">
-		<div class="tab-title"><a href="/small-business/privacy-security/privacy-policy.jsp"><h1>Privacy Policy</h1></a></div>
+		<div class="tab-title"><a href="/small-business/privacy-security/privacy-policy.jsp">Privacy Policy</a></div>
 	</div>
 
 	<div class="tab-menu-panel">
-		<div class="tab-title"><a href="/small-business/privacy-security/online-privacy-practices.jsp"><h1>Online Privacy Practices</h1></a></div>
+		<div class="tab-title"><a href="/small-business/privacy-security/online-privacy-practices.jsp">Online Privacy Practices</a></div>
 	</div>
 
 <script type="text/javascript">ub.EndComponent()</script>					
@@ -610,50 +620,19 @@ window.dom.query(document).ready(function ($) {
 
 
      <div class="text">
-          
-		<h2 class="body-header-large">Privacy Policy</h2>
-		
+          <h2 class="body-header-large">Privacy Policy</h2>
 Effective December 1, 2014
-
-		<br>
-		
-
-		<br>
-		
+<br>
+<br>
 At MUFG Union Bank, N.A., and our affiliates and subsidiaries, our number one priority is our relationship with you. We value the faith you have shown in entrusting us with your financial affairs, and we are committed to protecting any personal information we maintain about you. Establishing an effective Privacy Policy, designed to protect your information and provide you with choices on how you would like your information managed, is an important part of our relationship with you.
-
-		<br>
-		
-
-		<br>
-		
-Our 
-		<a href="/Images/Privacy-Notice.pdf" title="Privacy Notice" onclick="cmCreatePageElementTag(':'+tridionPageId,'PDF', null);">Privacy Notice</a>
-		 explains the type of information we may collect from our customers, the situations in which we may share information about them, and what they can do to limit the sharing of information. 
-		<a href="/Images/Privacy-Notice.pdf" title="Privacy Policy">Learn more</a>
-		.
-
-		<br>
-		
-
-		<h4>
-			<br>
-			
-Special Notice for California Residents
-		</h4>
-		
-Please 
-		<a href="/Images/Privacy-Notice-CA.pdf" title="California Privacy Notice" onclick="cmCreatePageElementTag(':'+tridionPageId,'PDF', null);">click here to see the California Privacy Notice.</a>
-		
-
-		<br>
-		
-
-		<br>
-		
-On July 1, 2014, Union Bank changed its legal name from Union Bank, N.A. to MUFG Union Bank, N.A. Please read 
-		this page		 for details.
-	
+<br>
+<br>
+Our <a href="/Images/Privacy-Notice.pdf" title="Privacy Notice" onclick="cmCreatePageElementTag(':'+tridionPageId,'PDF', null);">Privacy Notice</a> explains the type of information we may collect from our customers, the situations in which we may share information about them, and what they can do to limit the sharing of information. <a href="/Images/Privacy-Notice.pdf" title="Privacy Policy">Learn more</a> .
+<br>
+<h4><br>
+Special Notice for California Residents</h4>
+Please <a href="/Images/Privacy-Notice-CA.pdf" title="California Privacy Notice" onclick="cmCreatePageElementTag(':'+tridionPageId,'PDF', null);">click here to see the California Privacy Notice.</a>
+<br>
      </div>
 
 <script language="javascript1.2" type="text/javascript">
@@ -969,7 +948,7 @@ cmCreatePageElementTag(":" + tridionPageId, "Components", null);
 	
 		 
 		
-			<li><a href="/personal-banking/checking-savings/checking/reorder-checks.jsp">Order Checks</a></li>
+			<li><a href="/small-business/checking-savings/checking/order-business-checks.jsp">Order Checks</a></li>
 		 
 		 
 	
@@ -1046,7 +1025,7 @@ cmCreatePageElementTag(":" + tridionPageId, "Components", null);
 //]]>
 </script>
 <!-- ForeSee -->
-<script type="text/javascript">var strIP = '207.241.226.98';</script>
+<script type="text/javascript">var strIP = '207.241.229.212';</script>
 <script type="text/javascript" src="/ubincludes/js/foresee-trigger.js"></script>
 <!-- /ForeSee -->	
 <div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
@@ -1077,4 +1056,4 @@ cmSetClientID("60140508",true,"testdata.coremetrics.com","unionbank.com");
 		</script><script language="javascript1.2" src="//web.archive.org/web/20130509080631/https://libs.coremetrics.com/configs/60140508.js"></script>
 	<!-- End Coremetrics -->
 
-<div id="floatForeSee" style="padding:2px; border:0 none; position:fixed; bottom:20px; right:5px; z-index:1000;"><a href="javascript:(function(){var w=window.open('https://web.archive.org/web/20110930113047/http://survey.foreseeresults.com/survey/display?cid=x419QBNt8Fw4IBwYp95MVw==&amp;sid=feedback&amp;cpp[pagename]=https%3A//web.archive.org/web/20141224164630id_/https%253A//www.unionbank.com/small-business/privacy-security/privacy-policy.jsp', 'ForeSee', 'width=500,height=680,scrollbars=yes');w.focus();})();" style=""><img src="/ubimages/feedback_bug.png" width="92" height="24" alt="Feedback on this page" title="Feedback on this page"></a></div></body></html>
+<div id="floatForeSee" style="padding:2px; border:0 none; position:fixed; bottom:20px; right:5px; z-index:1000;"><a href="javascript:(function(){var w=window.open('https://web.archive.org/web/20110930113047/http://survey.foreseeresults.com/survey/display?cid=x419QBNt8Fw4IBwYp95MVw==&amp;sid=feedback&amp;cpp[pagename]=https%3A//web.archive.org/web/20150314232907id_/https%253A//www.unionbank.com/small-business/privacy-security/privacy-policy.jsp', 'ForeSee', 'width=500,height=680,scrollbars=yes');w.focus();})();" style=""><img src="/ubimages/feedback_bug.png" width="92" height="24" alt="Feedback on this page" title="Feedback on this page"></a></div></body></html>
