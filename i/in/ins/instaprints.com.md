@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instaprints.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029220440id_/http%3A//instaprints.com/termsofuse.html%3Fdocument%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaprints.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314230354id_/http%3A//instaprints.com/termsofuse.html%3Fdocument%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Terms of Use - Instaprints
 
