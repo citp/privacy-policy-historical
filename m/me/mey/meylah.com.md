@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the meylah.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221202728id_/http%3A//meylah.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meylah.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001547id_/https%3A//meylah.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Meylah
 
 ### Privacy Policy
 
-This Privacy Policy was last revised on March 9, 2010.
+This Privacy Policy was last revised on February 15, 2015.
 
 Meylah, Corp. (“Meylah,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Meylah when you use the Meylah Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/termsofuse). 
 
