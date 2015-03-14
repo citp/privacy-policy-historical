@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storedvalue.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925175356id_/http%3A//www.storedvalue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storedvalue.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001054id_/http%3A//storedvalue.com/en-US/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -108,7 +108,7 @@ We may disclose personal information that we collect or you provide as described
 We may also disclose your personal information:
 
   * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our [terms of use](https://web.archive.org/terms-and-conditions "Terms and Conditions") and other agreements, including for billing and collection purposes.
+  * To enforce or apply our [terms of use](https://web.archive.org/en-US/terms-and-conditions "Terms and Conditions") and other agreements, including for billing and collection purposes.
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Company, our customers or others.
 
 
