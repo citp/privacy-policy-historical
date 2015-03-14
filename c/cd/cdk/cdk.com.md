@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdk.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102095131id_/http%3A//cdk.com/cdk-online-privacy-portal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdk.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315003924id_/http%3A//www.cdk.com/cdk-online-privacy-portal) for the most accurate reproduction.*
 
 # CDK Online Privacy Portal | CDK Global
 
