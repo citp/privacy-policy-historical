@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the campusportal.com.ng privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717235631id_/http%3A//campusportal.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusportal.com.ng privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314225439id_/http%3A//campusportalng.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CampusPortalNigeria
+# Privacy Policy | CampusPortalNigeria
 
 **What information do we collect?**
 
@@ -12,16 +12,16 @@ When registering on our site, as appropriate, you may be asked to enter your: na
 
 Any of the information we collect from you may be used in one of the following ways:
 
-\- To personalize your experience  
+– To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-\- To improve our website  
+– To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-\- To improve customer service  
+– To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-\- To process transactions
+– To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
@@ -32,7 +32,7 @@ The email address you provide may be used to send you information, respond to in
 **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.  
-CampusPortal.com.ng member accounts are secured by member-created passwords. CampusPortal.com.ng takes precautions to insure that member account information is kept private by making the passwords encrypted so nobody can view them (not even the administrator). We use reasonable measures to protect other member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on CampusPortal.com.ng, please contact us via info@CampusPortal.com.ng
+CampusPortalNG.com member accounts are secured by member-created passwords. CampusPortalNG.com takes precautions to insure that member account information is kept private by making the passwords encrypted so nobody can view them (not even the administrator). We use reasonable measures to protect other member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on CampusPortalNG.com, please contact us via info@CampusPortalNG.com.
 
 **Do we use cookies?**
 
@@ -50,7 +50,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-CampusPortal.com.ng contains links to other websites. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+CampusPortalNG.com contains links to other websites. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Your Consent**
 
@@ -60,8 +60,8 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-_This policy was last modified on September, 2013._
+_This policy was last modified on January, 2015._
 
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to info@campusportal.com.ng for further clarification.
+Concerns or questions about this privacy policy can be directed to info@campusportalng.com for further clarification.
