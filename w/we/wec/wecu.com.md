@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wecu.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701003754id_/https%3A//www.wecu.com/documents/repository/7af935b3-192a-f5a9-2b5e-00003975fac4.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wecu.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005141id_/http%3A//www.wecu.com/documents/repository/0afeda30-09d1-ede8-fa72-00003bf76dfe.pdf) for the most accurate reproduction.*
 
 # FACTS
 
@@ -48,7 +48,7 @@ For our affiliates’ everyday business purposes—
 information about your creditworthiness
 For affiliates to market to you                                                        No                            We don’t share
 For non-affiliates to market to you                                                    No                            We don’t share
-                                                                                 ©2013 Whatcom Educational Credit Union/Farleigh Wada Witt
+             07/2013                                                             ©2013 Whatcom Educational Credit Union/Farleigh Wada Witt
 
 
 What we do
@@ -92,7 +92,7 @@ Joint marketing                           A formal agreement between Whatcom Edu
                                                Our joint marketing partners include financial services and
                                                insurance companies.
 Other important information
-                                                                 ©2013 Whatcom Educational Credit Union/Farleigh Wada Witt
+           07/2013                                               ©2013 Whatcom Educational Credit Union/Farleigh Wada Witt
 
 
  Protecting Children’s Private Information. Our online financial services are not designed for or directed toward
@@ -105,4 +105,4 @@ current version at www.wecu.com
                             through our InfoGuy service at www.wecu.com, or write to
 Questions?                  us at: Whatcom Educational Credit Union, PO Box 9750,
                             Bellingham, WA 98227-9750
-                                                                            ©2013 Whatcom Educational Credit Union/Farleigh Wada Witt
+            07/2013                                                         ©2013 Whatcom Educational Credit Union/Farleigh Wada Witt
