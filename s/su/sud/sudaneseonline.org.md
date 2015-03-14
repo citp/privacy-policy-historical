@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sudaneseonline.org privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701035140id_/http%3A//sudaneseonline.org/Privacy.HTML) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sudaneseonline.org privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314223506id_/http%3A//sudaneseonline.org/Privacy.HTML) for the most accurate reproduction.*
 
 # Sudanese Online Terms of service & privacy policy
 
