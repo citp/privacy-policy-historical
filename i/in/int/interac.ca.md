@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interac.ca privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022002936id_/http%3A//interac.ca/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interac.ca privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004958id_/http%3A//interac.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
