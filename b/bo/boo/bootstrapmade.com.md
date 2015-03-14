@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bootstrapmade.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803092747id_/https%3A//bootstrapmade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootstrapmade.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315003440id_/https%3A//bootstrapmade.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Bootstrap themes marketplace
+# Privacy | Bootstrapmade
 
 **At Bootstrapmade, we collect and manage user data according to the following Privacy Policy, with the goal of incorporating our company values: transparency, accessibility, sanity, usability. By using or accessing **Bootstrapmade** (the “Website”), you agree to the terms of this Privacy Policy and the Terms and Conditions. Please read the Terms of Conditions in their entirety, and refer to those for definitions and contacts.**
 
