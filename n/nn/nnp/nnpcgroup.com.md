@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nnpcgroup.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135726id_/http%3A//nnpcgroup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nnpcgroup.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231434id_/http%3A//www.nnpcgroup.com/privacy.aspx) for the most accurate reproduction.*
 
 # NNPC > Home
 
