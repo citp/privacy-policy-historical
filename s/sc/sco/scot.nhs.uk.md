@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scot.nhs.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052354id_/http%3A//scot.nhs.uk/policies/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scot.nhs.uk privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234103id_/http%3A//www.scot.nhs.uk/policies/Privacy.aspx) for the most accurate reproduction.*
 
 # SHOW - Scotland's Health On the Web
 
