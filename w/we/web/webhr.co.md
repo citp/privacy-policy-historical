@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webhr.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092822id_/http%3A//webhr.co/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhr.co privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235632id_/http%3A//webhr.co/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of WebHR
-
-### WebHR Privacy Policy
 
 We at WebHR understand that your privacy is very important. To better protect your privacy, we are always committed to giving you transparency of our privacy practices and our control over your data in connection with WebHR's Services (as defined in our Terms of Service). 
 
