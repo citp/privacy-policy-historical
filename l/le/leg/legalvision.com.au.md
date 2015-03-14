@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the legalvision.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102726id_/http%3A//legalvision.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalvision.com.au privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000011id_/https%3A//legalvision.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LegalVision
 
-This Privacy Policy sets out how we, LV Australia Pty Ltd (ABN 55 159 908 620), protect the privacy of personal information that is collected through the website available at [www.legalvision.com.au](http://www.legalvision.com.au/) ( **Site** ), or directly from you.  We are committed to ensuring that your privacy is protected. Please read this Privacy Policy carefully.
+This Privacy Policy sets out how LV Australia Pty Ltd (ABN 55 159 908 620), our parent company, Legal Vision Pty Ltd (ABN 83 155 748 628) and our sister company, LegalVision ILP Pty Ltd (ABN 50 167 804 088) (together  **the LegalVision Group**  or  **we** ) protect the privacy of personal information that is collected through the website available at [legalvision.com.au](https://legalvision.com.au/) ( **Site** ), or directly from you.  We are committed to ensuring that your privacy is protected. Please read this Privacy Policy carefully.
 
 Should we ask you to provide any information by which you can be identified when using this Site, we assure you that it will only be used in accordance with this Privacy Policy and the Australian Privacy Principles.
 
@@ -37,10 +37,12 @@ We may receive personal information from third parties. If we do, we will protec
 
 We collect and use personal information for the following purposes:
 
+  * to provide information, products and services to you;
   * to respond to your queries for legal documents, advice and services;
+  * to provide information to our network of solicitors, barristers and other specialists (each a **LegalVision Consultant** ) for the purposes of assisting you and managing your matter;
   * to better understand your needs, enabling us to improve our products and services;
   * for internal record keeping;
-  * to circulate promotional emails ** ** about new products and services, special offers or other information which we think you may find interesting;
+  * to circulate promotional emails about new products and services, special offers or other information which we think you may find interesting;
   * to contact you for market research purposes;
   * direct marketing;
   * to customise the Site according to your interests; and
@@ -57,13 +59,13 @@ We may disclose personal information:
   * for the purpose of providing information, products and services to clients;
   * to credit reporting agencies and courts, tribunals, regulatory authorities where clients fail to pay for goods or services provided by us to them;
   * to courts, tribunals, regulatory authorities, and law enforcement officers as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights;
-  * to our related bodies corporate including LegalVision ILP Pty Ltd our incorporated legal practice related company, to provide information, products and services to you;
-  * to our network of solicitors, barristers and other legal specialists ( **LegalVision Network** ), for the purpose of providing legal information and services to you; and
-  * to third parties, including agents, contractors and sub-contractors for the purposes of providing information, products and services to you.  This may include parties located, or that store data, outside of Australia.
+  * to one or more LegalVision Consultants, for the purpose of providing information and services to you;
+  * to the relevant third party or parties, with our client’s consent, if the matter involves third parties; and
+  * to third parties, including agents, referral partners, contractors and sub-contractors for the purposes of providing information, products and services to you.  This may include parties located, or that store data, outside of Australia.
 
 
 
-By providing us with personal information, you consent to this disclosure.  Where we disclose your personal information to third parties, we will request that the third party follow this Privacy Policy regarding handling your personal information.
+By providing us with personal information, you consent to this disclosure.  Where we disclose your personal information to third parties, we will request or otherwise seek to get comfortable that the third party follows the Australian Privacy Principles regarding handling your personal information.
 
 If there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible at law our user databases, together with any personal information and non-personal information contained in those databases.  This information may be disclosed to a potential purchaser.  We would seek to only disclose information in good faith and where we have sought to maintain confidentiality.
 
@@ -87,15 +89,15 @@ We may also use web beacons on this Site from time to time. Web beacons or clear
 
 **Links to other websites**
 
-Our Site may contain links to other websites of interest. Please note that we do not have any control over those websites.  We are not responsible for the protection and privacy of any information which you provide whilst visiting such websites and such websites are not governed by this privacy policy. You should exercise caution when accessing such websites and look at the privacy policy applicable to the website in question.
+Our Site may contain links to other websites of interest. Please note that we do not have any control over those websites. We are not responsible for the protection and privacy of any information which you provide whilst visiting such websites and such websites are not governed by this privacy policy. You should exercise caution when accessing such websites and look at the privacy policy applicable to the website in question.
 
 **Controlling your personal information**
 
-Choice and Consent: Providing us with your personal information is optional to you.   You can choose not to provide personal information.  When you provide us with your personal information, you consent to the terms in this Privacy Policy, and to us disclosing or receiving your personal information for these purposes. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are legally required to do so.
+Choice and Consent: Providing us with your personal information is optional to you. You can choose not to provide personal information. When you provide us with your personal information, you consent to the terms in this Privacy Policy, and to us disclosing or receiving your personal information for these purposes. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are legally required to do so.
 
-Restrict: You may choose to restrict the collection or use of your personal information.  If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us, details below.
+Restrict: You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us, details below.
 
-Access: You may request details of personal information that we hold about you in accordance with the provisions of the _Privacy Act 1988_ (Cth). A small administrative fee may be payable for the provision of information.  If you would like a copy of the information which we hold about you, please email us. We reserve the right to refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.
+Access: You may request details of personal information that we hold about you in accordance with the provisions of the Privacy Act 1988 (Cth). A small administrative fee may be payable for the provision of information.  If you would like a copy of the information which we hold about you, please email us. We reserve the right to refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.
 
 Correction: If you believe that any information we hold on you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us, details below. We rely in part upon clients advising us when their personal information changes.  We will respond to any request within a reasonable time and will endeavour to promptly correct any information found to be incorrect so that the information is accurate, up to date, complete, relevant and not misleading.
 
@@ -107,12 +109,10 @@ If you believe that we have breached the Australian Privacy Principles and wish 
 
 **To contact our Privacy Officer, please contact us at:**
 
-LV Australia Pty Ltd (ABN 55 159 908 620)
+LV Australia Pty Ltd/ LegalVision Pty Ltd/ LegalVision ILP Pty Ltd
 
-Suite 2C, 2-12 Foveaux Street, Surry Hills NSW 2010
+Suite 2C, Level 2, 2-12 Foveaux Street, Surry Hills NSW 2010
 
 [info@legalvision.com.au](mailto:info@legalvision.com.au)
 
-**Last update: 30 th April 2014**
-
-© LegalVision ILP Pty Ltd 2014
+**Last update: 28th October  2014**
