@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affinityclick.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108134103id_/http%3A//hushed.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinityclick.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314225932id_/http%3A//hushed.com/about-us/privacy) for the most accurate reproduction.*
 
 # Hushed – Disposable and Temporary Phone numbers
 
