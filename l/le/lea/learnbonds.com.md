@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the learnbonds.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701123019id_/http%3A//learnbonds.com/learnbonds-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnbonds.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005817id_/http%3A//learnbonds.com/learnbonds-com-privacy-policy) for the most accurate reproduction.*
 
-# Learn Bond Privacy PolicyLearnBonds.com
-
-## Privacy Policy
+# Learn Bond Privacy Policy
 
 The limited information captured about your visits to the website using log files is anonymous demographic information not specific to you (for example, internet protocol (IP) address; browser name; zip code; and access time). This information is used by LearnBonds.com to maintain quality of its service and to generate general statistics regarding the use of the site. This information may also be used to provide aggregate information to our advertisers, such as how many people saw their advertisement in a given timeframe, or how many clicked on it.
 
@@ -26,8 +24,4 @@ When a user comes to our site and requests a quote from our service providers, t
 If you have any questions or concerns regarding this policy, please contact us by emailing info@LearnBonds.com. We make every effort to respond within 1 business week.
 
 LearnBonds.com  
-info@LearnBonds.com  
-240 West 37th Street  
-New York, NY 10018
-
-[](http://www.printfriendly.com/print?url=http%3A%2F%2Flearnbonds.com%2Flearnbonds-com-privacy-policy%2F)
+info@LearnBonds.com
