@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dump.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920031815id_/http%3A//www.dump.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dump.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234817id_/http%3A//www.dump.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | Dump.com
+
+Privacy Policy
 
 No information is sold or released to anyone about visitors to Dump.com without prior consent or a court order. In other words, no information is released to anyone unless you give permission first.
 
