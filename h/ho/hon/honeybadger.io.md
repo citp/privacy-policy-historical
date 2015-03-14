@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the honeybadger.io privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914142835id_/https%3A//www.honeybadger.io/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeybadger.io privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314225843id_/https%3A//www.honeybadger.io/pages/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy - Honeybadger
+# Privacy Policy - Honeybadger
 
  
 
