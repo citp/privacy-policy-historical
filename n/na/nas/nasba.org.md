@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasba.org privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014165612id_/http%3A//www.nasba.org/files/2011/08/NASBAPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasba.org privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231725id_/http%3A//www.nasba.org/files/2011/08/NASBAPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # NASBA.org Privacy Policy Last updated: August 2, 2011
 
