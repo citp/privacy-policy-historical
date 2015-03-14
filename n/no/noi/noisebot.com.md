@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noisebot.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728064354id_/http%3A//www.noisebot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noisebot.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314232149id_/http%3A//www.noisebot.com/privacy.htm) for the most accurate reproduction.*
 
 # NoiseBot.com Funny T-Shirts - Privacy Policy
 
