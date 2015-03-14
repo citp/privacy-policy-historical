@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofroseblog.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113225613id_/http%3A//houseofroseblog.com/advertise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofroseblog.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233719id_/http%3A//houseofroseblog.com/advertise/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
