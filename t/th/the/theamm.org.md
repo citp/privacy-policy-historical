@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theamm.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111129id_/http%3A//www.theamm.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamm.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000214id_/https%3A//theamm.org/privacy-policy) for the most accurate reproduction.*
 
 # AMM Privacy Policy
 
