@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nwanime.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052842id_/http%3A//www.nwanime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwanime.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314230517id_/http%3A//www.nwanime.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: NWAnime.com
 
-[](http://www.nwanime.com/)        [](http://www.ovguide.com/)
+[](http://www.nwanime.com/)
 
 **Please use 'Report Broken Link' tab in video page or 'Technical Difficulties' message board in forum to report broken links!!**
 
@@ -37,6 +37,10 @@ _Notwithstanding the foregoing_ , your information may be accessed and disclosed
   Additionally, "NWAnime.com" or its advertisers may use other companies, known as third party ad servers to help present advertisements online in connection with the Service, and/or web sites. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not NWAnime.com's. 
 
   "NWAnime.com" does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Services and/or web sites may be impaired if you decline to accept cookies. 
+
+**Cookies & 3rd Party Advertisements** Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 Special Note for Parents 
 
