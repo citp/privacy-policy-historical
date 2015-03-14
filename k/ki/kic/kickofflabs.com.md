@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the kickofflabs.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209125714id_/http%3A//www.kickofflabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickofflabs.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314203846id_/http%3A//kickofflabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | KickoffLabs
+# Privacy Policy - Kickofflabs
+
+* * *
 
 #### Privacy Policy Basics
 
 Your privacy and the privacy if your customers is critically important to us. At KickoffLabs we have a few fundamental principles:
 
-  1. We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason. And hey, it’s more work for us to process data we aren’t actively using.) We ask that you do the same with your KickoffLabs site. 
-  2. We don’t share your personal information, or the customer data you collect, with anyone except to comply with the law, develop our products, or protect our rights. 
+  1. We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason. And hey, it’s more work for us to process data we aren’t actively using.) We ask that you do the same with your KickoffLabs site.
+  2. We don’t share your personal information, or the customer data you collect, with anyone except to comply with the law, develop our products, or protect our rights.
   3. We don’t store personal or customer information on our servers unless required for the on-going operation of one of our services.
-  4. You are in control of the information you share through a Kickofflabs site and the customer data you collect is your responsibility. As part of the Terms of Service we require you to respect your customers right to privacy as well as you’d require your data to be respected. 
+  4. You are in control of the information you share through a Kickofflabs site and the customer data you collect is your responsibility. As part of the Terms of Service we require you to respect your customers right to privacy as well as you’d require your data to be respected.
 
 
 
-If you have questions about deleting or correcting your personal data please contact our support team at [support@kickofflabs.com](mailto:support@kickofflabs.com?subject=Privacy%20Question%3A%20)
+If you have questions about deleting or correcting your personal data please contact our support team at [support@kickofflabs.com](mailto:support@kickofflabs.com?subject=Privacy%20Question%3A%20)
 
 #### Website Visitors
 
@@ -23,7 +25,7 @@ KickoffLabs also collects potentially personally-identifying information like In
 
 #### Gathering of Personally-Identifying Information
 
-Certain visitors to KickoffLabs’s websites choose to interact with KickoffLabs in ways that require KickoffLabs to gather personally-identifying information. The amount and type of information that KickoffLabs gathers depends on the nature of the interaction. For example, we ask visitors who register for our service an email address. Those who engage in transactions with KickoffLabs are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, KickoffLabs collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with KickoffLabs. (We hate long forms too! ) 
+Certain visitors to KickoffLabs’s websites choose to interact with KickoffLabs in ways that require KickoffLabs to gather personally-identifying information. The amount and type of information that KickoffLabs gathers depends on the nature of the interaction. For example, we ask visitors who register for our service an email address. Those who engage in transactions with KickoffLabs are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, KickoffLabs collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with KickoffLabs. (We hate long forms too! )
 
 KickoffLabs does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain product-related activities.
 
@@ -45,8 +47,8 @@ If KickoffLabs, or substantially all of its assets were acquired, or in the unli
 
 #### Privacy Policy Changes
 
-Although most changes are likely to be minor, KickoffLabs may change its Privacy Policy from time to time, and in KickoffLabs’s sole discretion. KickoffLabs encourages visitors to frequently check this page for any changes to its Privacy Policy. 
+Although most changes are likely to be minor, KickoffLabs may change its Privacy Policy from time to time, and in KickoffLabs’s sole discretion. KickoffLabs encourages visitors to frequently check this page for any changes to its Privacy Policy.
 
 #### Attribution
 
-Portions of this agreement were constructed using the agreement created under the Creative Commons Sharealike license by the great folks at Automatic for [Wordpress.com](http://wordpress.com/)
+Portions of this agreement were constructed using the agreement created under the Creative Commons Sharealike license by the great folks at Automatic for [WordPress.com](http://wordpress.com/)
