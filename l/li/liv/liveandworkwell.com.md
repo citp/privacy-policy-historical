@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveandworkwell.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331145019id_/https%3A//www.liveandworkwell.com/public/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveandworkwell.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004423id_/https%3A//www.liveandworkwell.com/public/content/privacy.asp%3Flang%3D1) for the most accurate reproduction.*
 
 # Mental health, work & life changes, stress, depression - liveandworkwell.com | Privacy Policy
 
@@ -11,7 +11,7 @@ United Behavioral Health ("Company) administers mental health and substance abus
 
 When administering your mental health and substance abuse benefits and Employee Assistance Programs, Company follows the privacy practices set forth in your health plan's HIPAA Notice of Privacy Practices. Please contact your plan for a copy of its HIPAA Notice of Privacy Practices.
 
-If you are enrolled in an insured plan offered by US Behavioral Health Plan, California ("USBHPC"), its HIPAA Notice of Privacy Practices, [available here](https://web.archive.org/public/content/docs/usbhpc_pp.pdf), applies to you and your dependents.
+If you are enrolled in an insured plan offered by US Behavioral Health Plan, California ("USBHPC"), its HIPAA Notice of Privacy Practices, [available here](https://web.archive.org/public/content/docs/usbhpc_pp.pdf) , applies to you and your dependents.
 
 ## Social Security Number Protection Policy:
 
@@ -42,6 +42,8 @@ You may disable these cookies and similar items by adjusting your browser prefer
 
 
 We may also collect other forms of non-personal information such as what web browsers are used to read our website and what websites are referring traffic or linking to our website. Aggregate and de-identified data regarding website users is also considered non-personal information.
+
+We do not currently respond to web browser “Do Not Track” signals that provide a method to opt out of the collection of information about online activities over time and across third-party websites or online services because, among other reasons, there is no common definition of such signals and no industry-accepted standards for how such signals should be interpreted. We do not allow third-parties to collect personal information about online activities over time and across third-party websites or online services.
 
 ### With whom is non-personal information shared?
 
@@ -120,7 +122,7 @@ Please call the Member Services phone number on your insurance card, call your E
 
 ### Effective date
 
-The Effective Date of this Privacy Policy is November 11, 2011.
+The Effective Date of this Privacy Policy is January 1, 2014.
 
 ### Changes to this Website Privacy Policy
 
