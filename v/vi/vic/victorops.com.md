@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victorops.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110064438id_/http%3A//victorops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victorops.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004515id_/http%3A//victorops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IT Alerting and Collaboration Tool
 
@@ -76,4 +76,4 @@ We are committed to protecting the security of your Personal Information. We use
 
 ## Contact and Revisions
 
-If you have questions or concerns about our Privacy Policy, please contact us at: [support@victorops.com](http://victorops.com/privacypolicy/support@victorops.com). This Privacy Policy is subject to occasional revision at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using VictorOps. Continued use of VictorOps following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+If you have questions or concerns about our Privacy Policy, please contact us at: [support@victorops.com](mailto:support@victorops.com). This Privacy Policy is subject to occasional revision at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using VictorOps. Continued use of VictorOps following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
