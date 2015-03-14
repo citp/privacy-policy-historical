@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namestation.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072654id_/http%3A//namestation.com/popups/content/PrivacyPopup.aspx%23TB_iframe%3Fwidth%3D690%26height%3D600%26autoscale%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namestation.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001558id_/http%3A//www.namestation.com/popups/content/PrivacyPopup.aspx%23TB_iframe%3Fwidth%3D690%26height%3D600%26autoscale%3D1) for the most accurate reproduction.*
 
 # Privacy Policy
 
