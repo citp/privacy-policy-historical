@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health-tourism.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209031640id_/http%3A//health-tourism.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health-tourism.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005718id_/http%3A//www.health-tourism.com/privacy.aspx) for the most accurate reproduction.*
 
 # Health-Tourism.com - Privacy Policy
 
