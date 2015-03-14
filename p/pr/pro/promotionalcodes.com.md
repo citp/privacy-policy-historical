@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the promotionalcodes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103803id_/http%3A//promotionalcodes.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotionalcodes.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000058id_/http%3A//promotionalcodes.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - PromotionalCodes.com
+
+3/14/2015 5:00:58 PM
+
+[](http://promotionalcodes.com/ "back to homepage")
 
 ### Your privacy is important to us.
 
@@ -29,3 +33,8 @@ It is also important for users to note that PromotionalCodes.com features links 
 Please note that, in some cases, an item was supplied by the manufacturer and / or a fee was paid for the review or content within the associated blogs. PromotionalCodes.com reserves the right to alter or remove this privacy policy at our discretion. To remain informed of any updates to this statement we recommend that you visit our privacy policy page from time to time.
 
 If you have any questions or comments regarding this statement… reach out to us at [contact@surfmyads.com](mailto:contact@surfmyads.com)
+
+[](https://web.archive.org/blackhole/)
+
+
+
