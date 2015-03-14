@@ -1,17 +1,22 @@
-<!--The following is the downloaded HTML source of the afbank.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625044225id_/https%3A//www.afbank.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the afbank.com privacy policy that was archived on 2015-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150314233252id_/https%3A//www.afbank.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><script type="text/javascript" async="async" src="https://www.adobetag.com/d1/armedforcesbank/live/AFBANK.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<!-- master_navitem: upper_privacy -->
 	<title>Privacy » Armed Forces Bank</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta http-equiv="content-type" content="text/html;charset=utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link href="/secure/img/favicon.ico?20140121_2" type="image/x-icon" rel="shortcut icon">
 	<meta name="Description" content="">
 	<meta name="Keywords" content="">
 
+	
+	<link rel="stylesheet" href="/shared/css/jlsa_refresh.css?20140121_2" type="text/css">
+
 	<link rel="stylesheet" href="/shared/css/global.css?20140121_2" type="text/css">
 	<link rel="stylesheet" href="/shared/css/global_afb.css?20140121_2" type="text/css">
+	
+	
 	<link rel="stylesheet" href="/shared/css/topmenu.css?20140121_2" type="text/css">
 	<link rel="stylesheet" href="/shared/css/navupper.css?20140121_2" type="text/css">
 	<link rel="stylesheet" href="/shared/css/breadcrumbs.css?20140121_2" type="text/css">
@@ -20,16 +25,18 @@
 	<link rel="stylesheet" href="/shared/css/tooltip.css?20140121_2" type="text/css">	
 	<link rel="stylesheet" href="/shared/css/topsearch.css?20140121_2" type="text/css">
 	
+	
 	<link rel="stylesheet" href="/shared/js/jquery/ui-1.9.2/themes/base/jquery.ui.all.css?20140121_2">
 	<link rel="stylesheet" href="/shared/js/jquery/ui-1.9.2/themes/base/jquery.ui.resizable.css?20140121_2">
 	<link rel="stylesheet" href="/shared/js/jquery/ui-1.9.2/themes/base/jquery.ui.tabs.css?20140121_2">
 	<link rel="stylesheet" href="/shared/js/jquery/ui-1.9.2/themes/base/jquery.ui.accordion.css?20140121_2">
 	<link rel="stylesheet" href="/shared/css/modalwindow2.css?20140121_2" type="text/css">
+
 	
 	<link rel="stylesheet" href="/shared/js/jquery/ui-1.9.2/themes/accordion-theme/jquery-ui-1.9.2.custom.css?20140121_2">
 	<link rel="stylesheet" href="/shared/js/jquery/ui-1.9.2/themes/accordion-theme/jquery-ui-1.9.2.custom.min.css?20140121_2">
 		
-	<script src="/shared/js/jquery/jquery-1.8.3.min.js"></script>
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W9V8D8"></script><script src="/shared/js/jquery/jquery-1.8.3.min.js"></script>
 	<script src="/shared/js/jquery/ui-1.9.2/external/jquery.bgiframe-2.1.2.js"></script>
 	<script src="/shared/js/jquery/ui-1.9.2/ui/jquery.ui.core.js"></script>
 	<script src="/shared/js/jquery/jquery.maskedinput-1.2.2.js"></script>
@@ -51,9 +58,95 @@
 	
 	<script src="/shared/js/commonfunctions.js"></script>
 	
+	<script src="/shared/js/jquery/jquery.placeholder.js"></script>
+	
 	<script type="text/javascript" src="/shared/js/jquery/fancybox-2.1.4/source/jquery.fancybox.pack.js?20140121_2"></script>
 	<link rel="stylesheet" type="text/css" href="/shared/js/jquery/fancybox-2.1.4/source/jquery.fancybox.css?20140121_2" media="screen">
-    	
+    
+	<script src="/shared/js/jquery/cluetip/jquery.cluetip.min.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="/shared/js/jquery/cluetip/jquery.cluetip.css" type="text/css">
+	
+	
+	
+<style>
+	.ui-dialog-title{
+		text-align:left;
+	}
+.speedbumpDialog{
+	text-align:left;
+	margin-left:20px;
+	margin-right:10px;
+	font-size:14px;
+}
+</style>
+<script>
+var speedbumplanguage = '<p class="speedbumpDialog">By accessing this link you are leaving the Armed Forces Bank website. We do not provide and are not responsible for any product, service or overall content available on the linked website.  Our privacy policy does not apply to the linked website.  The linked website may provide less security than our website.  The linked website has its own security and privacy policy.  Please consult their privacy and security policies for further information.</p>';
+	
+//Delete an image is clicked.
+$( document ).on( "click", ".speedbump", function(e) {
+	e.preventDefault();
+
+	var dialogTitle = 'Leaving the Armed Forces Bank website...';
+	var gotopage = $(this).attr('href'); 
+			
+	//Create a new dialog modal
+	var NewDialog = $('<div style="margin:0;">' + speedbumplanguage + '</div>');
+					   
+	var speedbumpButtons = {
+		"Continue": function () { 
+			$(this).dialog("close");
+			window.open( gotopage );
+		},
+    	"Cancel": function () { $(this).dialog("close"); }
+	};
+					   
+    NewDialog.dialog({
+		modal: true,
+		title: dialogTitle,
+		width: 680,
+		height: 'auto',
+		closeOnEscape: false,
+		resizable: false,
+		draggable: true,
+		buttons: speedbumpButtons
+    });
+	NewDialog.dialog("option", "position", "top+50");
+	
+});
+</script>
+
+<script>
+//Assign click handler
+$(document).ready(function() {
+
+	$(".secured_visa_disclosure").click(function(event){
+
+		var disclosurePDF = "/shared/disclosures/visa_secured_disclosures/afbank.com.pdf#toolbar=1";
+		var disclosureHTML = '<embed src="' + disclosurePDF + '" width="850" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html" />';
+		var disclosureTitle = "Secured Visa Credit Card Disclosure";
+		var dialogDiv = '<div id="secured_visa_disclosure" style="text-align:left; padding:10px; font-family:arial;"></div>';
+		
+		//Prevent the default action on the link if it's not checkbox
+		if( event.target.name != "DISCLOSURE_REVIEWED__visa_secured_disclosure" )
+			event.preventDefault();
+			
+		//Dialog buttons for this dialog...
+		var disclosureButtons = {
+			"Expand View": function(){
+				printPDF( disclosurePDF );
+			},
+			"Close": function(){
+				$(this).dialog("close");
+			}
+		};
+		//Pass parameters to createDialog.  Pass empty quotes for each parameter to use default values.
+		createDialog( dialogDiv, disclosurePDF, disclosureHTML, disclosureTitle, disclosureButtons, 640, 870);	
+	});
+});
+</script>
+
+
+		
 	<script src="/shared/js/locations_uppernav.js" type="text/javascript"></script>
 	<script type="text/javascript" language="javascript" src="/shared/js/tooltipscript.js"></script>
 	<script type="text/javascript" src="/shared/js/jquery/reveal/jquery.reveal.js"></script>
@@ -63,71 +156,21 @@
 
 
 
-<!-- SiteCatalyst code version: H.26
-Copyright 1996-2013 Adobe, Inc. All Rights Reserved
-More info available at http://www.omniture.com -->
 
-<script language="JavaScript" type="text/javascript" src="/shared/adobe/afbank/s_code.js"></script></head><body><div id="mboxScriptContainer" style="display:none;visibility:hidden;"></div><style>.mboxDefault{visibility:hidden;}</style>
-<script language="JavaScript" type="text/javascript">
-<!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-
-/* sProps-Traffic */
-//If it's a vanity referral, capture the referral URL
-
-	s.pageName="upper_privacy"
-
-s.server="PROD"
-s.channel="privacy"
-s.pageType=""
-s.hier1="home,privacy"
-
-s.prop10= "" /* Support forms */
-s.prop11="" /* internal search terms */
-s.prop12="" /* internal search results */
-s.prop13="" /* null search */
-
-/* eVars-Conversion */
-s.state=""
-s.zip=""
-s.products=""
-s.purchaseID=""
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W9V8D8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W9V8D8');</script>
+<!-- End Google Tag Manager -->
 
 
 
-s.eVar9 = "" /* Account type */
-s.eVar10 = "" /* Enrollment options */
-s.eVar11 = "" /* Internal search terms */
-s.eVar12 = "" /* First time login */
-s.eVar13 = "" /* New registrants */
-s.eVar15 = "" /* Support forms */
-s.eVar16 = "" /* Find locations */
-s.eVar17 = "" /* Support link OnClick */
-s.eVar18 = "" /* Purchase ID */
-s.eVar19 = "" /* Application type */
-s.eVar20 = "" /* Application option */
-s.eVar21 = "" /* Application step */
-s.eVar22 = "" /* Ownership type */
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//-->
-</script>
-<script language="JavaScript" type="text/javascript">
-<!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//-->
-</script>
-<noscript>
-<img src="https://armedforcesbank.d1.sc.omtrdc.net/b/ss/afbbankdev/1/H.26--NS/0" height="1" width="1" border="0" alt="" />
-</noscript>
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.26. -->
-
-
-
-
-
+</head>
+<body>
 
 
 
@@ -171,11 +214,14 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 							<input type="button" id="btnShowLocationsSearch" value="Hours &amp; Locations">
 							<div id="overlay" class="web_dialog_overlay"></div>
 							<div id="dialog" class="web_dialog">
-								<table style="width: 100%; border: 0px;" cellpadding="3" cellspacing="0">
+								
+								
+								
+							<table style="width: 100%; border: 0px;" cellpadding="3" cellspacing="0">
 									<tbody><tr>
-										<td class="web_dialog_title">Search Branch Locations</td>
+										<td class="web_dialog_title" style="text-align:left; font-size:12px; font-family:arial;">Search Branch Locations</td>
 										<td class="web_dialog_title align_right">
-											<a href="#" id="closeX"><div style="padding-right: 5px;">✖</div></a>
+											<a href="#" id="closeX" style="color:#fff;"><div style="padding-right: 5px;">✖</div></a>
 										</td>
 									</tr>
 								</tbody></table>
@@ -232,14 +278,6 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 			
 				
 				
-											<option value="CA|NAS Lemoore">NAS Lemoore, CA</option>
-			
-				
-				
-											<option value="CA|Port Hueneme">Port Hueneme, CA</option>
-			
-				
-				
 											<option value="CA|San Diego">San Diego, CA</option>
 			
 				
@@ -256,10 +294,6 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 				
 				
 											<option value="CO|Aurora">Aurora, CO</option>
-			
-				
-				
-											<option value="CO|Avon">Avon, CO</option>
 			
 				
 				
@@ -555,18 +589,6 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 											<option value="WA" style="color: #000; background-color: #dde3e8;">Washington</option>
 				
 				
-											<option value="WA|Bangor Naval Base - Kitsap">Bangor Naval Base - Kitsap, WA</option>
-			
-				
-				
-											<option value="WA|Bremerton">Bremerton, WA</option>
-			
-				
-				
-											<option value="WA|Bremerton Naval Base">Bremerton Naval Base, WA</option>
-			
-				
-				
 											<option value="WA|Fairchild AFB">Fairchild AFB, WA</option>
 			
 				
@@ -576,10 +598,6 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 				
 				
 											<option value="WA|McChord AFB">McChord AFB, WA</option>
-			
-				
-				
-											<option value="WA|Silverdale">Silverdale, WA</option>
 			
 				
 					
@@ -605,12 +623,16 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 											<a href="/locations/">ADVANCED SEARCH</a>
 										</div>			
 									</form>
-
+									
 									<hr>
-									<a href="http://www.moneypass.com/atm-locator.aspx" title="MoneyPass" onclick="return confirm('By accessing this link you are leaving Armed Forces Bank website. We do not provide and are not responsible for any product, service or overall content available on the linked website.  Our privacy policy does not apply to the linked website.  The linked website may provide less security than our website.  The linked website has its own security and privacy policy.  Please consult their privacy and security policies for further information.')" target="_blank">Find surcharge-free ATMs nationwide with MoneyPass™</a>
+									<a href="http://www.moneypass.com/atm-locator.aspx" title="MoneyPass" class="speedbump">Find surcharge-free ATMs nationwide with MoneyPass™</a>
 
+									
 								</div>
-							</div>
+
+								
+								</div>
+							
 						</td>
 					</tr>
 				</tbody></table>
@@ -683,13 +705,13 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 			<ul>
 				
 					
-				<li><a href="/personal/ib/" title="Online Banking">Online Banking</a></li>
+				<li><a href="/personal/accounts-checking/" title="Checking">Checking</a></li>
 				
 					
-				<li><a href="/personal/mobilebanking/" title="Mobile Banking">Mobile Banking</a></li>
+				<li><a href="/personal/accounts-recruit-checking/" title="Recruit Checking">Recruit Checking</a></li>
 				
 					
-				<li><a href="/personal/accounts/" title="Accounts">Accounts</a></li>
+				<li><a href="/personal/accounts-savings/" title="Savings">Savings</a></li>
 				
 					
 				<li><a href="/personal/creditloans/" title="Loans">Loans</a></li>
@@ -698,13 +720,10 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 				<li><a href="/personal/creditcards/" title="Credit Cards">Credit Cards</a></li>
 				
 					
-				<li><a href="/personal/cards.cfm" title="Visa Debit &amp; ATM Cards">Visa Debit &amp; ATM Cards</a></li>
+				<li><a href="/personal/ib/" title="Online Banking">Online Banking</a></li>
 				
 					
-				<li><a href="/personal/identityprotection.cfm" title="Identity Protection">Identity Protection</a></li>
-				
-					
-				<li><a href="/personal/convenience.cfm" title="Convenience Services">Convenience Services</a></li>
+				<li><a href="/personal/mobilebanking/" title="Mobile Banking">Mobile Banking</a></li>
 				
 			</ul>
 			
@@ -739,7 +758,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 				<li><a href="/business/ebusiness.cfm" title="e.Business Banking">e.Business Banking</a></li>
 				
 					
-				<li><a href="/business/merchantsolutions.cfm" title="Merchant Services Solutions">Merchant Services Solutions</a></li>
+				<li><a href="/business/merchantsolutions.cfm" title="Merchant Solutions">Merchant Solutions</a></li>
 				
 					
 				<li><a href="/business/depository.cfm" title="Depository Services">Depository Services</a></li>
@@ -774,16 +793,16 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 				<li><a href="/mortgage/process.cfm" title="What to Expect">What to Expect</a></li>
 				
 					
-				<li><a href="https://afb.mortgagewebcenter.com/CheckRates" title="Check Rates">Check Rates</a></li>
+				<li><a href="https://afb.mortgagewebcenter.com/CheckRates?pmc=098_ls_checkrates" title="Check Rates">Check Rates</a></li>
 				
 					
-				<li><a href="https://afb.mortgagewebcenter.com/Resources" title="Resources">Resources</a></li>
+				<li><a href="https://afb.mortgagewebcenter.com/Resources?pmc=098_ls_resources" title="Resources">Resources</a></li>
 				
 					
-				<li><a href="https://afb.mortgagewebcenter.com/Resources/Resources/CalculatorsIndex" title="Calculators">Calculators</a></li>
+				<li><a href="https://afb.mortgagewebcenter.com/Resources/Resources/CalculatorsIndex?pmc=098_ls_calculators" title="Calculators">Calculators</a></li>
 				
 					
-				<li><a href="https://afb.mortgagewebcenter.com/CheckRates/RateWatch" title="Rate Watch">Rate Watch</a></li>
+				<li><a href="https://afb.mortgagewebcenter.com/CheckRates/RateWatch?pmc=098_ls_ratewatch" title="Rate Watch">Rate Watch</a></li>
 				
 					
 				<li><a href="/mortgage/va/" title="VA Loans">VA Loans</a></li>
@@ -821,35 +840,6 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 	 	
 		<li>
 		
-			<a href="/rates/" title="Rates">Rates</a>
-		
-			
-			
-			<ul>
-				
-					
-				<li><a href="/rates/accounts.cfm" title="Deposit Account Rates">Deposit Account Rates</a></li>
-				
-					
-				<li><a href="/rates/cd.cfm" title="Certificate of Deposit Rates">Certificate of Deposit Rates</a></li>
-				
-					
-				<li><a href="/rates/loans.cfm" title="Loan Rates">Loan Rates</a></li>
-				
-					
-				<li><a href="/rates/retirement.cfm" title="Retirement Accounts Rates">Retirement Accounts Rates</a></li>
-				
-			</ul>
-			
-		
-		</li>
-	
-
-	
- 	
-	 	
-		<li>
-		
 			<a href="/financialeducation/" title="Financial Education">Financial Education</a>
 		
 			
@@ -857,13 +847,16 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 			<ul>
 				
 					
-				<li><a href="/financialeducation/checkingaccounts.cfm" title="Checking Accounts">Checking Accounts</a></li>
+				<li><a href="/financialeducation/managingaccount/" title="Managing Your Checking">Managing Your Checking</a></li>
 				
 					
-				<li><a href="/financialeducation/managingaccount/" title="Managing Your Checking Account">Managing Your Checking Account</a></li>
+				<li><a href="/financialeducation/avoidingoverdrafts.cfm" title="Avoiding Overdrafts">Avoiding Overdrafts</a></li>
 				
 					
-				<li><a href="/financialeducation/managingcredit/" title="Managing Your Credit">Managing Your Credit</a></li>
+				<li><a href="/financialeducation/budgeting.cfm" title="Budgeting">Budgeting</a></li>
+				
+					
+				<li><a href="/financialeducation/understandingyourcredit.cfm" title="Understanding Your Credit">Understanding Your Credit</a></li>
 				
 					
 				<li><a href="/financialeducation/identitytheft.cfm" title="Identity Theft">Identity Theft</a></li>
@@ -903,6 +896,44 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 			
 	
 
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
 	<div id="wrapper" class="clearfix">
 		<div id="maincol">
 			<div id="maincolcontent">
@@ -912,29 +943,60 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 						<td align="left" id="maincolcontentTableRTD">
 							<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
 								<tbody><tr>
-									<td style="vertical-align: top;">
-										<div id="maincolcontentTableRTDinner" style="min-height: 400px;">
-							
-							
+									<td style="vertical-align: top; padding-bottom: 30px;">
+
 		
 		
-						<div id="pagetitle">					
-							<table border="0" cellpadding="0" cellspacing="0">
-								<tbody><tr>
-								
-									<td>
-											<div class="pagetitleText">
-												Privacy Policy
-											</div>
-									
-											<div class="pagesubtitleText">
-												Protecting your financial and personal privacy is important to us.
-											</div>
-									
-									</td>
-								</tr>
-							</tbody></table>
-						</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			<div id="maincolcontentTableRTDinner" style="min-height: 400px;">
+
+			
+			
+		
+		
+		
+		
+		
+		
+		
+		
+				<div id="pagetitle" style="
+				">					
+					<table border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+						
+							<td>
+							
+									<div class="pagetitleText">
+										Privacy Policy
+									</div>
+							
+									<div class="pagesubtitleText">
+										Protecting your financial and personal privacy is important to us.
+									</div>
+							
+							</td>
+						</tr>
+					</tbody></table>
+				</div>						
+			
+						
 		
 
 <!-- start main content -->
@@ -1177,7 +1239,7 @@ E-mail: <a href="mailto:privacy@afbank.com">privacy@afbank.com</a><br></p>
 				
 				<a href="/contact/" title="Contact Us">Contact Us</a>
 					<br><a href="/locations/" title="Locations">Hours &amp; Locations</a>
-					<br><a href="/rates/" title="Current Interest Rates">Rates</a>
+					
 					<br><a href="/privacy/" title="Privacy Policy">Privacy</a>
 					<br><a href="/security/" title="Security Policy and Procedures">Security</a>
 					<br>
@@ -1187,20 +1249,22 @@ E-mail: <a href="mailto:privacy@afbank.com">privacy@afbank.com</a><br></p>
 					<a href="/personal/" title="Personal Banking" class="bold">Personal Banking</a>
 					<br><a href="/personal/ib/" title="Online Banking">Online Banking</a>
 					<br><a href="/personal/mobilebanking/" title="Mobile Banking">Mobile Banking</a>
-					<br><a href="/personal/accounts/" title="Accounts">Accounts</a>
+					<br><a href="/personal/accounts-checking/" title="Accounts">Accounts</a>
 					<br><a href="/personal/creditloans/" title="Credit &amp; Loans">Loans</a>
 					<br><a href="/personal/" title="More Personal Banking">More...</a>
 					<br>
 				</td>
-				<td id="footer1TD">
-					<a href="/business/" title="Business Banking" class="bold">Business Banking</a>
-					<br><a href="/business/depositaccounts.cfm" title="Deposit Accounts">Deposit Accounts</a>
-					<br><a href="/business/loans.cfm" title="Business Loans">Business Loans</a>
-					<br><a href="/business/commerciallending.cfm" title="Commercial Lending">Commercial Lending</a>
-					<br><a href="/business/cashmanagement.cfm" title="Cash Management &amp; Treasury">Cash Management &amp; Treasury</a>
-					<br><a href="/business/" title="More Business Banking">More...</a>
-					<br>
-				</td>
+				
+					<td id="footer1TD">
+						<a href="/business/" title="Business Banking" class="bold">Business Banking</a>
+						<br><a href="/business/depositaccounts.cfm" title="Deposit Accounts">Deposit Accounts</a>
+						<br><a href="/business/loans.cfm" title="Business Loans">Business Loans</a>
+						<br><a href="/business/commerciallending.cfm" title="Commercial Lending">Commercial Lending</a>
+						<br><a href="/business/cashmanagement.cfm" title="Cash Management &amp; Treasury">Cash Management &amp; Treasury</a>
+						<br><a href="/business/" title="More Business Banking">More...</a>
+						<br>
+					</td>
+				
 				<td id="footer1TD">
 					<a href="/mortgage/" title="Personal Banking" class="bold">Mortgages</a>
 					<br><a href="/mortgage/gettingstarted.cfm" title="Getting Started">Getting Started</a>
@@ -1224,15 +1288,15 @@ E-mail: <a href="mailto:privacy@afbank.com">privacy@afbank.com</a><br></p>
 
 	</div>
 	<div id="footer2">
-		Equal Opportunity Lender &nbsp;&nbsp;&nbsp; Equal Housing Lender <img src="/shared/img/footer/ehl.png" alt="Equal Housing Lender" width="19" height="14" style="border: 0px; vertical-align: text-bottom;">  &nbsp;&nbsp;&nbsp; <a href="http://fdic.gov/consumers/" title="FDIC Insurance" onclick="return confirm('By accessing this link you are leaving Armed Forces Bank website. We do not endorse any information beyond an Armed Forces Bank website.')" target="_blank"><img src="/shared/img/footer/memberFDIC.png" alt="Member FDIC" width="32" height="20" style="border: 0px; vertical-align: middle;"></a> 		
+		Equal Opportunity Lender &nbsp;&nbsp;&nbsp; Equal Housing Lender <img src="/shared/img/footer/ehl.png" alt="Equal Housing Lender" width="19" height="14" style="border: 0px; vertical-align: text-bottom;">  &nbsp;&nbsp;&nbsp; <a href="http://fdic.gov/consumers/" title="FDIC Insurance" class="speedbump"><img src="/shared/img/footer/memberFDIC.png" alt="Member FDIC" width="32" height="20" style="border: 0px; vertical-align: middle;"></a> 		
 		
-			&nbsp;&nbsp;&nbsp;  <a href="http://www.militarysaves.org/" onclick="return confirm('By accessing this link you are leaving Armed Forces Bank  website.  We do not endorse this product and are not liable for any failure of this product or service.  Their privacy policy may be different and their website may provide less security.')" target="_blank" title="Military America Saves"><img src="/shared/img/footer/logo_americasaves.png" alt="Military America Saves" width="74" height="33" style="border: 0px; vertical-align: middle;"></a>
+			&nbsp;&nbsp;&nbsp;  <a href="http://www.militarysaves.org/" class="speedbump" title="Military America Saves"><img src="/shared/img/footer/logo_americasaves.png" alt="Military America Saves" width="74" height="33" style="border: 0px; vertical-align: middle;"></a>
 				
 	</div>
 	
 	<div id="footer3">
 		©
-		1996-2014 Armed Forces Bank, N.A.
+		1996-2015 Armed Forces Bank, N.A.
 		
 		All rights reserved.
 		<br>The persons pictured on this website are not actual customers of the bank.
