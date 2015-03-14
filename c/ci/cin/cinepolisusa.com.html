@@ -1,15 +1,13 @@
-<!--The following is the downloaded HTML source of the cinepolisusa.com privacy policy that was archived on 2014-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141225072927id_/http%3A//www.cinepolisusa.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cinepolisusa.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315004718id_/http%3A//www.cinepolisusa.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=" js rgba backgroundsize borderradius boxshadow textshadow opacity cssanimations cssgradients csstransforms csstransitions fontface generatedcontent dk_fouc" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta charset="UTF-8"><meta name="keywords" content="Cinépolis USA, Movie Theaters, Movies, Luxury, Cinépolis, Luxury Cinemas, Movie Theaters, Confortable Enviroment, Movie experience, Luxury box office, Self-service touchscreen"><meta name="description" content="Cinépolis Luxury Cinemas is a completely revolutionized concept in movie theaters, our goal is to pamper customers in an intimate and comfortable environment; that will enhance their movie going experience. Buy your tickets online or visit the exclusive luxury box office/concierge area. If you are not sure about your movie, you can use our self-service touchscreen to watch trailers and buy tickets."><meta name="author" content="IA Interactive"><link rel="shortcut icon" href="favicon.ico">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=" js rgba backgroundsize borderradius boxshadow textshadow opacity cssanimations cssgradients csstransforms csstransitions fontface generatedcontent dk_fouc" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta charset="UTF-8"><meta name="author" content="IA Interactive"><link rel="shortcut icon" href="favicon.ico">
     <!--[if lte IE 9 ]>
 		<link rel="stylesheet" href="css/ie8.css" />
 	<![endif]-->
-    <link rel="stylesheet" href="css/reset.css"><link rel="stylesheet" href="css/styles.css">
-    
+    <link rel="stylesheet" href="css/reset.css"><link rel="stylesheet" href="css/styles.css"><link href="css/jquery.fancybox.css" rel="stylesheet">
 
-    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/6530.js?439485" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T2HG57"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="scripts/jquery-1.8.3.min.js"></script>
-    
+    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/6530.js?439589" async="" type="text/javascript"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/6530.js?439589" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="scripts/jquery-1.8.3.min.js"></script>
     <script src="scripts/modernizr.js"></script>
     <script src="scripts/selectivizr-min.js"></script>
 
@@ -43,65 +41,133 @@
     <script>
         $(document).ready(function () {
             $("#btnFacebook").click(function (e) {
-                alert("clickeado");
                 $("#btnFace").trigger('click');
                 e.preventDefault();
             });
         });
     </script>
     <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-    
-    <script type="text/javascript">
-        var Locacion = window.location.pathname.split('/');;
-        var path = Locacion[1];
-        try {
-            if (path == 'del-mar.aspx' || path == 'la-costa.aspx' || path == 'laguna-niguel.aspx' || path == 'rancho-santa-margarita.aspx' || path == 'westlake-village.aspx') {
-                pageTracker._trackEvent("Locations", "Location", path + " Locations");
-            }
-            else { }
-        } catch (e) { }
+        ga('create', 'UA-39148641-9', 'auto');
+        ga('send', 'pageview');
+        ga('compra.send', 'pageview');
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-39148641-9']);
+        _gaq.push(['_setDomainName', 'cinepolisusa.com']);
+        _gaq.push(['_trackPageview']);
 
     </script>
 
+
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var Locacion = window.location.pathname.split('/');
+            var path = Locacion[1];
+            try {
+                if (path == 'del-mar.aspx' || path == 'la-costa.aspx' || path == 'laguna-niguel.aspx' || path == 'rancho-santa-margarita.aspx' || path == 'westlake-village.aspx' || path == 'jupiter-luxury.aspx') {
+                    var logo = document.getElementById('logo');
+                    logo.src = "images/lg-Cinepolis-bk.png";
+                    pageTracker._trackEvent("Locations", "Location", path + " Locations");
+                }
+                else {
+
+                }
+            } catch (e) { }
+            var complejo = $("#ddlComplejos");
+            if (complejo != null) {
+                var cinema = $("#ddlComplejos").val();
+                if (cinema == "459" || cinema == "460" || cinema == "509" || cinema == "511" || cinema == "510") {
+                    var logo = document.getElementById('logo');
+                    logo.src = "images/lg-Cinepolis-bk.png";
+                }
+            }
+        });
+    </script>
+
+    <!--Tag AddServer-->
+        <script type="text/javascript">
+            sas_tmstp = Math.round(Math.random() * 10000000000); sas_masterflag = 1;
+            function SmartAdServer(sas_pageid, sas_formatid, sas_target) {
+                if (sas_masterflag == 1) { sas_masterflag = 0; sas_master = 'M'; } else { sas_master = 'S'; };
+                document.write('<scr' + 'ipt src="http://www5.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr' + 'ipt>');
+            }
+        </script> 
 <title>
 
 </title></head>
 <body>
-    <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2HG57"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function (w, d, s, l, i) {
-    w[l] = w[l] || []; w[l].push({
-        'gtm.start':
-        new Date().getTime(), event: 'gtm.js'
-    }); var f = d.getElementsByTagName(s)[0],
-    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-})(window, document, 'script', 'dataLayer', 'GTM-T2HG57');</script>
-    <!-- End Google Tag Manager -->
-    <form method="post" action="privacy-policy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAmYPZBYCAgMPZBYCAgMPZBYCAgEPZBYEAgEPZBYCZg9kFgoCAw8QDxYCHgtfIURhdGFCb3VuZGdkDxYFAgECAgIDAgQCBRYFEAUSQ2luw6lwb2xpcyBEZWwgTWFyBQM0NTlnEAUTQ2luw6lwb2xpcyBMYSBDb3N0YQUDNDYwZxAFGENpbsOpcG9saXMgTGFndW5hIE5pZ3VlbAUDNTA5ZxAFIUNpbsOpcG9saXMgUmFuY2hvIFNhbnRhIE1hcmdhcml0YQUDNTEwZxAFG0NpbsOpcG9saXMgV2VzdGxha2UgVmlsbGFnZQUDNTExZxYBZmQCCQ8QDxYCHwBnZGQWAWZkAg0PD2QPEBYCZgIBFgIWAh4OUGFyYW1ldGVyVmFsdWUFATAWAh8BBQgyMDE0MTIyNBYCZmZkZAIPDxAPFgIfAGdkZBYBZmQCEw8PZA8QFgJmAgEWAhYCHwEFATAWAh8BBQEwFgJmZmRkAgMPZBYCZg8WAh4LXyFJdGVtQ291bnQCAxYGAgEPZBYCZg8VBRVkb2NzL1dlYnNpdGUgTWVudS5wZGYGX2JsYW5rKWltYWdlcy9iYW5uZXJzL1Byb21vLXNsaWRlci1NZW51LTIwMTQuanBnGlByb21vLXNsaWRlci1NZW51LTIwMTQuanBnGmRvY3MvV2Vic2l0ZSBNZW51LnBkZipUcnVlZAICD2QWAmYPFQUOZ2lmdC1jYXJkLmFzcHgFX3NlbGY1aW1hZ2VzL2Jhbm5lcnMvQmFubmVyLUNpbmVwb2xpcy1naWZ0LWNhcmRzLXdpbnRlci5qcGcmQmFubmVyLUNpbmVwb2xpcy1naWZ0LWNhcmRzLXdpbnRlci5qcGcUZ2lmdC1jYXJkLmFzcHgqRmFsc2VkAgMPZBYCZg8VBR9kb2NzLzE0X1dpbnRlckNvY2t0YWlscy1XZWIuanBnBl9ibGFuayxpbWFnZXMvYmFubmVycy8xNF9XaW50ZXJDb2NrdGFpbHNfQmFubmVyLmpwZx0xNF9XaW50ZXJDb2NrdGFpbHNfQmFubmVyLmpwZyRkb2NzLzE0X1dpbnRlckNvY2t0YWlscy1XZWIuanBnKlRydWVkZHJp+IN3EeBQwPrz+FdDCVSizAkd9Bkj3QtzdazgI6V9">
+    <form method="post" action="privacy-policy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAmYPZBYCAgMPZBYCAgMPZBYCAgEPZBYEAgEPZBYCZg9kFg4CAw8QZGQWAWZkAgUPEGRkFgFmZAIJDxAPFgIeC18hRGF0YUJvdW5kZ2RkFgFmZAINDw9kDxAWAmYCARYCFgIeDlBhcmFtZXRlclZhbHVlBQEwFgIfAQUIMjAxNTAzMTQWAmZmZGQCDw8QDxYCHwBnZGQWAWZkAhMPD2QPEBYCZgIBFgIWAh8BBQEwFgIfAQUBMBYCZmZkZAIVDxBkZBYBZmQCAw9kFgJmDxYCHgtfIUl0ZW1Db3VudAIBFgICAQ9kFgJmDxUFDmdpZnQtY2FyZC5hc3B4BV9zZWxmNWltYWdlcy9iYW5uZXJzL0Jhbm5lci1DaW5lcG9saXMtZ2lmdC1jYXJkcy13aW50ZXIuanBnJkJhbm5lci1DaW5lcG9saXMtZ2lmdC1jYXJkcy13aW50ZXIuanBnFGdpZnQtY2FyZC5hc3B4KkZhbHNlZGSPJiy2xfTPJmShEEDtOQjlTHNiry+douc0ZFP2GJnUQQ==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
 
+<script src="/WebResource.axd?d=wkmilnyfzYuV0x5jcvwuiHbR7v1rAup_8NPdaHWKbjVxienbuWW79iBdCM_GM4-ulCGVjiGIe8g5HF0g3MT2OUra7j-nmDwsROcHwtcDM_M1&amp;t=635418606520000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=EQ8x0090TRNdx1KPaf0Psu1X25VyZLJvAVp8N9-YkKQJKZoE2mbGAvdLXy_jiYkPDqKAt3_fwFeojU7L_5hvM0thvWYNxufUMi6wQhMPn5QGLaJbAaeEQdaCBjVmJCtNXxc9mQLXZLYN2ppdRlTqcu3otQ-s2RDFGIAwRW7QAL01&amp;t=24efffe1" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=tmVFoqzqQMIV3O5JqoIp1MTm9OqJ_3d69dAro7I5gBjhMW8tFYpsM__qbG9NHRjCr2jmEGdTwnUiGONQlkm-hJBTjwZAtOKaEexqkoeIIUwICJv-RYHi-8rVnOcmglh60&amp;t=23c9c237" type="text/javascript"></script>
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2927320D">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAx/8Sa7Fp4Hox2OIq4AQqvaFTjHeF4abSSKpR6VaT6rQPriRSgVfOSzN1FYpkFvtOgXkde9ve58ctFc433V1XeQjY6TI8xOaUeuM95bRbfNh1r0WIGL2/erThBjAmA8UcWQuKQfPEgnQNAXEtFk1x2NLT+GYRfvHTqVuDku82mg9x3vJlNWer9hct37KQxn/yP3hS9QPtvcltq/8k7IMdeKoEjW9BHXv4JHRVg2O92LZTumYouMz6n/p06ya52lZ9KGU0EoILowGDB1DimjfEbCq3VBQ9m6XXl9wc/whIVusQ==">
-        
+<script src="/ScriptResource.axd?d=pA6IzNpLUxo2fDQ3jFzHDyuJCM8Py9xuVcKv9G1ghSRJ8KQHNNoM7W1TuUAduKp551lOMQcmXokZiMTXNt8UAYV5oDYHUX2RzFRpzd3e-5Zdp99kKdlaPJPK6GiIJVZH1s-0yw13dU-4blfkokuQ0g2&amp;t=23c9c237" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2927320D">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA7VBWTjh37NacI9fsnVZ6fcFTjHeF4abSSKpR6VaT6rQOQdmPII+62Sdylq9XYicU1FQOzB73WkWu77DfZAqhFZrRIpLEf25RbkmDZC3Pi02261cMBGm7I+gDbVkQjqn35kMLZotv0ytpnR7zk+B0R7+uJFKBV85LM3UVimQW+06PMYFaVCU6vdBi4klygSdlgd7yZTVnq/YXLd+ykMZ/8jS4JPndmCvoPhuSBMfSnMWveFL1A+29yW2r/yTsgx14qgSNb0Ede/gkdFWDY73YtlO6Zii4zPqf+nTrJrnaVn0otMauMtdCXGtQSOky2yP/5T3lmCG1GBUjc6B8iCMDfk">
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1', ['tctl00$ctl00$ContentPlaceHolder1$ControlCompra$upnCombos','ContentPlaceHolder1_ControlCompra_upnCombos'], ['ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlState','ddlState','ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlComplejo','ddlComplejo','ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlFecha','ddlFecha','ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlPeliculas','ddlPeliculas','ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlHorarios','ddlHorarios'], [], 90, 'ctl00$ctl00');
+//]]>
+</script>
+
         <header>
             <div class="containerGeneral">
                 
                 <h1><a class="logoCinepolis" href="index.aspx">
-                    <img src="images/lg-Cinepolis.png" alt="Cinépolis Luxury"></a></h1>
+                    <img src="images/lg-Cinepolis.png" id="logo" alt="Cinépolis Luxury"></a></h1>
                 <ul>
                     <li><a class="facebook" href="https://www.facebook.com/CinepolisUSA" target="_blank"></a></li>
                     <li><a class="twitter" href="https://twitter.com/CinepolisUSA" target="_blank"></a></li>
-                    <li><a class="youtube" href="http://www.youtube.com/user/CinepolisLuxury" target="_blank"></a></li>
+                    <li><a class="youtube" href="https://www.youtube.com/channel/UCTBstCSlAJ3uNfx3uj9rxtw" target="_blank"></a></li>
                     <li><a class="instagram" href="http://instagram.com/cinepolisusa/" target="_blank"></a></li>
+                    <li><a class="google" href="https://plus.google.com/104156397571193955527" rel="publisher" target="_blank"></a></li>
                 </ul>
-                
-                
-                
             </div>
         </header>
         <nav>
@@ -117,6 +183,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <ul>
                         <li><a href="contact-us.aspx">Customer Service</a></li>
                         <li><a href="press.aspx">Press</a></li>
+                        <li><a href="donations.aspx">Donations</a></li>
                         <li><a href="advertisers.aspx">Advertisers</a></li>
                         <li><a href="group-services.aspx">Event Sales</a></li>
                     </ul>
@@ -133,73 +200,65 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <aside>
     <div id="ContentPlaceHolder1_ControlCompra_upnCombos" class="aside-tickets">
 	
-		    <img src="images/img-book-text.png">
-		    <input type="hidden" name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$hdnFecha" id="ContentPlaceHolder1_ControlCompra_hdnFecha" value="20141224">
-            
-		    <div class="dk_container dk_theme_default styled" id="dk_container_ddlComplejo" tabindex="1" aria-hidden="true" style="display: block;"><a class="dk_toggle dk_label" style="width: 150px;">Select Location</a><div class="dk_options"><ul class="dk_options_inner" role="main" aria-hidden="true"><li><a data-dk-dropdown-value="0">Select Location</a></li><li><a data-dk-dropdown-value="459">Cinépolis Del Mar</a></li><li><a data-dk-dropdown-value="460">Cinépolis La Costa</a></li><li><a data-dk-dropdown-value="509">Cinépolis Laguna Niguel</a></li><li><a data-dk-dropdown-value="510">Cinépolis Rancho Santa Margarita</a></li><li><a data-dk-dropdown-value="511">Cinépolis Westlake Village</a></li></ul></div><select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlComplejo" id="ddlComplejo" tabindex="1" class="styled">
-		<option selected="selected" value="0">Select Location</option>
-		<option value="459">Cinépolis Del Mar</option>
-		<option value="460">Cinépolis La Costa</option>
-		<option value="509">Cinépolis Laguna Niguel</option>
-		<option value="510">Cinépolis Rancho Santa Margarita</option>
-		<option value="511">Cinépolis Westlake Village</option>
+            <img src="images/img-book-text.png">
+            <input type="hidden" name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$hdnFecha" id="ContentPlaceHolder1_ControlCompra_hdnFecha" value="20150314">
+            <div class="dk_container dk_theme_default styled" id="dk_container_ddlState" tabindex="0" aria-hidden="true" style="display: block;"><a class="dk_toggle dk_label" style="width: 150px;">Select State</a><div class="dk_options"><ul class="dk_options_inner" role="main" aria-hidden="true"><li><a data-dk-dropdown-value="0">Select State</a></li><li><a data-dk-dropdown-value="1">California</a></li><li><a data-dk-dropdown-value="2">Florida</a></li></ul></div><select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlState" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlState\',\'\')', 0)" id="ddlState" class="styled">
+		<option selected="selected" value="0">Select State</option>
+		<option value="1">California</option>
+		<option value="2">Florida</option>
 
 	</select></div>
-            
-                                
+            <div class="dk_container dk_theme_default styled" id="dk_container_ddlComplejo" tabindex="1" aria-hidden="true" style="display: block;"><a class="dk_toggle dk_label" style="width: 150px;">Select Location</a><div class="dk_options"><ul class="dk_options_inner" role="main" aria-hidden="true"><li><a data-dk-dropdown-value="0">Select Location</a></li></ul></div><select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlComplejo" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlComplejo\',\'\')', 0)" id="ddlComplejo" tabindex="1" class="styled">
+		<option selected="selected" value="0">Select Location</option>
 
-		    <div class="dk_container dk_theme_default styled" id="dk_container_ddlFecha" tabindex="2" aria-hidden="true" style="display: block;"><a class="dk_toggle dk_label" style="width: 150px;">Select Date</a><div class="dk_options"><ul class="dk_options_inner" role="main" aria-hidden="true"><li><a data-dk-dropdown-value="0">Select Date</a></li></ul></div><select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlFecha" id="ddlFecha" tabindex="2" class="styled">
+	</select></div>
+            <span id="ContentPlaceHolder1_ControlCompra_rfvComplejo" style="display:none;"></span>
+            
+
+            <div class="dk_container dk_theme_default styled" id="dk_container_ddlFecha" tabindex="2" aria-hidden="true" style="display: block;"><a class="dk_toggle dk_label" style="width: 150px;">Select Date</a><div class="dk_options"><ul class="dk_options_inner" role="main" aria-hidden="true"><li><a data-dk-dropdown-value="0">Select Date</a></li></ul></div><select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlFecha" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlFecha\',\'\')', 0)" id="ddlFecha" tabindex="2" class="styled">
 		<option selected="selected" value="0">Select Date</option>
 
 	</select></div>
-            
+            <span id="ContentPlaceHolder1_ControlCompra_rfvFecha" style="display:none;"></span>
             
 
-            <div class="dk_container dk_theme_default styled" id="dk_container_ddlPeliculas" tabindex="3" aria-hidden="true" style="display: block;"><a class="dk_toggle dk_label" style="width: 150px;">Select Movie</a><div class="dk_options"><ul class="dk_options_inner" role="main" aria-hidden="true"><li><a data-dk-dropdown-value="0">Select Movie</a></li></ul></div><select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlPeliculas" id="ddlPeliculas" tabindex="3" class="styled">
+            <div class="dk_container dk_theme_default styled" id="dk_container_ddlPeliculas" tabindex="3" aria-hidden="true" style="display: block;"><a class="dk_toggle dk_label" style="width: 150px;">Select Movie</a><div class="dk_options"><ul class="dk_options_inner" role="main" aria-hidden="true"><li><a data-dk-dropdown-value="0">Select Movie</a></li></ul></div><select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlPeliculas" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlPeliculas\',\'\')', 0)" id="ddlPeliculas" tabindex="3" class="styled">
 		<option selected="selected" value="0">Select Movie</option>
 
 	</select></div>
-            
+            <span id="ContentPlaceHolder1_ControlCompra_rfvPelicula" style="display:none;"></span>
             
 
             <div class="dk_container dk_theme_default styled" id="dk_container_ddlHorarios" tabindex="4" aria-hidden="true" style="display: block;"><a class="dk_toggle dk_label" style="width: 150px;">Movie Times</a><div class="dk_options"><ul class="dk_options_inner" role="main" aria-hidden="true"><li><a data-dk-dropdown-value="0">Movie Times</a></li></ul></div><select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlHorarios" id="ddlHorarios" tabindex="4" class="styled">
-		<option value="0">Movie Times</option>
+		<option selected="selected" value="0">Movie Times</option>
 
 	</select></div>
-            
+            <span id="ContentPlaceHolder1_ControlCompra_rfvHorario" style="display:none;"></span>
             
 
-		    <input type="submit" name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$btnComprar" value="BOOK NOW" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$ContentPlaceHolder1$ControlCompra$btnComprar&quot;, &quot;&quot;, true, &quot;Compra&quot;, &quot;&quot;, false, false))" id="btnComprar" tabindex="5">
-            
-	    
+            <input type="submit" name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$btnComprar" value="BOOK NOW" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$ContentPlaceHolder1$ControlCompra$btnComprar&quot;, &quot;&quot;, true, &quot;Compra&quot;, &quot;&quot;, false, false))" id="btnComprar" tabindex="5">
+            <div id="ContentPlaceHolder1_ControlCompra_vsCompra" style="display:none;">
+
+	</div>
+        
 </div>
     <ul class="aside-iconografia">
         <li><span class="mesero"></span>Full Service in Theater Dining</li>
         <li><span class="martini"></span>Full Bar: Wines, Spirits and Beers</li>
-        <li><span class="sillon-lujo"></span>Premium Reclining Leather Seats</li>
+        <li><span class="sillon-lujo"></span>Reserved Reclining Leather Seats</li>
         <li><span class="vino"></span>Beer &amp; Wine</li>
-        <li><span class="sillon-normal"></span>Traditional Seating</li>
+        <li><span class="sillon-normal"></span>Reserved Seating</li>
+        <li><span class="premium"></span>Premium Experience</li>
+        <li><span class="imax"></span>IMAX Experience</li>        
     </ul>
-	
+    
         <div class="asideSlider">
             <a class="aside-arrow-previous" href="#"></a>
             <ul>
     
             <li>
-                <a href="docs/Website Menu.pdf" target="_blank">
-                    <img src="images/banners/Promo-slider-Menu-2014.jpg" alt="Promo-slider-Menu-2014.jpg" rel="docs/Website Menu.pdf*True">
-                </a>
-            </li>
-    
-            <li>
                 <a href="gift-card.aspx" target="_self">
                     <img src="images/banners/Banner-Cinepolis-gift-cards-winter.jpg" alt="Banner-Cinepolis-gift-cards-winter.jpg" rel="gift-card.aspx*False">
-                </a>
-            </li>
-    
-            <li>
-                <a href="docs/14_WinterCocktails-Web.jpg" target="_blank">
-                    <img src="images/banners/14_WinterCocktails_Banner.jpg" alt="14_WinterCocktails_Banner.jpg" rel="docs/14_WinterCocktails-Web.jpg*True">
                 </a>
             </li>
     
@@ -210,8 +269,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <ul>
             </ul>
         </div>
-        
+    
 </aside>
+
         
     <article class="contenidoGenerico team">
         <div id="main" class="span9" role="main">
@@ -323,15 +383,106 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </footer>
     
+<script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("ContentPlaceHolder1_ControlCompra_vsCompra"));
+var Page_Validators =  new Array(document.getElementById("ContentPlaceHolder1_ControlCompra_rfvComplejo"), document.getElementById("ContentPlaceHolder1_ControlCompra_rfvFecha"), document.getElementById("ContentPlaceHolder1_ControlCompra_rfvPelicula"), document.getElementById("ContentPlaceHolder1_ControlCompra_rfvHorario"));
+//]]>
+</script>
 
 <script type="text/javascript">
 //<![CDATA[
-ComboBox()//]]>
+var ContentPlaceHolder1_ControlCompra_rfvComplejo = document.all ? document.all["ContentPlaceHolder1_ControlCompra_rfvComplejo"] : document.getElementById("ContentPlaceHolder1_ControlCompra_rfvComplejo");
+ContentPlaceHolder1_ControlCompra_rfvComplejo.controltovalidate = "ddlComplejo";
+ContentPlaceHolder1_ControlCompra_rfvComplejo.errormessage = "Please select a valid location.";
+ContentPlaceHolder1_ControlCompra_rfvComplejo.display = "None";
+ContentPlaceHolder1_ControlCompra_rfvComplejo.validationGroup = "Compra";
+ContentPlaceHolder1_ControlCompra_rfvComplejo.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_ControlCompra_rfvComplejo.initialvalue = "0";
+var ContentPlaceHolder1_ControlCompra_rfvFecha = document.all ? document.all["ContentPlaceHolder1_ControlCompra_rfvFecha"] : document.getElementById("ContentPlaceHolder1_ControlCompra_rfvFecha");
+ContentPlaceHolder1_ControlCompra_rfvFecha.controltovalidate = "ddlFecha";
+ContentPlaceHolder1_ControlCompra_rfvFecha.errormessage = "Please select a valid date.";
+ContentPlaceHolder1_ControlCompra_rfvFecha.display = "None";
+ContentPlaceHolder1_ControlCompra_rfvFecha.validationGroup = "Compra";
+ContentPlaceHolder1_ControlCompra_rfvFecha.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_ControlCompra_rfvFecha.initialvalue = "0";
+var ContentPlaceHolder1_ControlCompra_rfvPelicula = document.all ? document.all["ContentPlaceHolder1_ControlCompra_rfvPelicula"] : document.getElementById("ContentPlaceHolder1_ControlCompra_rfvPelicula");
+ContentPlaceHolder1_ControlCompra_rfvPelicula.controltovalidate = "ddlPeliculas";
+ContentPlaceHolder1_ControlCompra_rfvPelicula.errormessage = "Please select a valid movie.";
+ContentPlaceHolder1_ControlCompra_rfvPelicula.display = "None";
+ContentPlaceHolder1_ControlCompra_rfvPelicula.validationGroup = "Compra";
+ContentPlaceHolder1_ControlCompra_rfvPelicula.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_ControlCompra_rfvPelicula.initialvalue = "0";
+var ContentPlaceHolder1_ControlCompra_rfvHorario = document.all ? document.all["ContentPlaceHolder1_ControlCompra_rfvHorario"] : document.getElementById("ContentPlaceHolder1_ControlCompra_rfvHorario");
+ContentPlaceHolder1_ControlCompra_rfvHorario.controltovalidate = "ddlHorarios";
+ContentPlaceHolder1_ControlCompra_rfvHorario.errormessage = "Please select a valid movie time.";
+ContentPlaceHolder1_ControlCompra_rfvHorario.display = "None";
+ContentPlaceHolder1_ControlCompra_rfvHorario.validationGroup = "Compra";
+ContentPlaceHolder1_ControlCompra_rfvHorario.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_ControlCompra_rfvHorario.initialvalue = "0";
+var ContentPlaceHolder1_ControlCompra_vsCompra = document.all ? document.all["ContentPlaceHolder1_ControlCompra_vsCompra"] : document.getElementById("ContentPlaceHolder1_ControlCompra_vsCompra");
+ContentPlaceHolder1_ControlCompra_vsCompra.showmessagebox = "True";
+ContentPlaceHolder1_ControlCompra_vsCompra.showsummary = "False";
+ContentPlaceHolder1_ControlCompra_vsCompra.validationGroup = "Compra";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+ComboBox()
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+(function(id) {
+    var e = document.getElementById(id);
+    if (e) {
+        e.dispose = function() {
+            Array.remove(Page_ValidationSummaries, document.getElementById(id));
+        }
+        e = null;
+    }
+})('ContentPlaceHolder1_ControlCompra_vsCompra');
+
+document.getElementById('ContentPlaceHolder1_ControlCompra_rfvComplejo').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ContentPlaceHolder1_ControlCompra_rfvComplejo'));
+}
+
+document.getElementById('ContentPlaceHolder1_ControlCompra_rfvFecha').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ContentPlaceHolder1_ControlCompra_rfvFecha'));
+}
+
+document.getElementById('ContentPlaceHolder1_ControlCompra_rfvPelicula').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ContentPlaceHolder1_ControlCompra_rfvPelicula'));
+}
+
+document.getElementById('ContentPlaceHolder1_ControlCompra_rfvHorario').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ContentPlaceHolder1_ControlCompra_rfvHorario'));
+}
+//]]>
 </script>
 </form>
-    
 
-    
+    <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/6530.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script>
+
     <script async="" src="http://i.simpli.fi/dpx.js?cid=7755&amp;segment=CINEPOLIS_WESTLAKE_VILLAGE&amp;m=1"></script>
     <script>
         //$(".dropick").text().replace("[3D]", "<b>[3D]</b>");
