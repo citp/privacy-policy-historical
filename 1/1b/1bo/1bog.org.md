@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1bog.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230200945id_/http%3A//pureenergies.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1bog.org privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314215257id_/http%3A//pureenergies.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pure Energies USA
 
