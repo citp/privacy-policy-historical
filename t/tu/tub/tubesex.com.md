@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubesex.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514073445id_/http%3A//tubesex.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubesex.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315003317id_/http%3A//www.tubesex.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
