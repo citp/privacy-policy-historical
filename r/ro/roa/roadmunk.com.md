@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roadmunk.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803200957id_/https%3A//roadmunk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadmunk.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234921id_/https%3A//roadmunk.com/privacy-policy) for the most accurate reproduction.*
 
-# Roadmunk's Privacy Policy - Create Brilliant Product Roadmaps
+# Roadmunk's Privacy Policy | Create Beautiful Roadmaps Quickly
 
 ## LAST MODIFIED: JULY 8, 2014
 
