@@ -1,48 +1,66 @@
-<!--The following is the downloaded HTML source of the checkgzipcompression.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625142642id_/http%3A//checkgzipcompression.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the checkgzipcompression.com privacy policy that was archived on 2015-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150314221649id_/http%3A//checkgzipcompression.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" dir="ltr" lang="en-US"><!--<![endif]--><head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<meta name="viewport" content="width=device-width">
-	<title>Privacy statement - Check GZIP compression</title>
-	<link rel="canonical" href="http://checkgzipcompression.com/">
-	<meta name="description" content="Enter your website address and test if your web server is GZIP enabled">
-	<meta name="robots" content="noindex, nofollow, noarchive">
-	<meta property="og:title" content="Check GZIP compression">
-	<meta property="og:image" content="http://checkgzipcompression.com/images/sharing.jpg?r284">
-	<meta property="og:image:width" content="180">
-	<meta property="og:url" content="http://checkgzipcompression.com/">
-	<link href="http://checkgzipcompression.com/style/main.css?r284" rel="stylesheet" type="text/css">
-	<link rel="shortcut icon" href="http://checkgzipcompression.com/favicon.ico?r284" type="image/x-icon">
-	<link rel="apple-touch-icon" href="http://checkgzipcompression.com/favicon-apple.png?r284">
-	<link href="http://checkgzipcompression.com/images/sharing.jpg?r284" rel="image_src">
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://checkgzipcompression.com/js/modernizr-2.6.2-respond-1.1.0.min.js?r284"></script>
-</head>
-<body id="checkgzipcompression">
-	<div class="holder wrapper">
-		<div class="container contentFull">
-			<h1 class="home_button"><a href="http://checkgzipcompression.com/">Check GZIP compression</a></h1>
-			<p>With this tool you can check if your webserver is sending the GZIP compressed header to your clients. By enabling GZIP compression on your server, you can save around 50% on your bandwidth usage.</p>
-			
-			<form action="http://checkgzipcompression.com/" method="get" name="form">
-				<fieldset>
-					<legend><label for="enter_url">Website URL</label></legend>
-					<div class="abs-fieldset">
-						<input type="text" id="enter_url" name="url" class="ignorespace abs-input" value="" placeholder="Enter your website address here" onkeyup="httpPrefix(this.value);pressenter(this.value);validateURL(this.value);" autocapitalize="off" spellcheck="false">
-						<div id="spm" class="spm">
-							<span id="host"></span><span id="sitename" class="spellError"></span>
-						</div> <!-- spm -->
-					</div> <!-- abs-fieldset -->
-					<input type="submit" onclick="AnEventHasOccurred();" id="eventBtn" value="Check">
-				</fieldset>
-			</form>
-		</div> <!-- container contentFull -->
-	</div> <!-- holder -->
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<title>Privacy statement - Check GZIP compression</title>
+		
+		<meta name="description" content="Enter your website address and test if your web server is GZIP enabled">
+		<meta name="robots" content="noindex, nofollow, noarchive">
+		<meta name="viewport" content="width=device-width">
+		
+		<link rel="canonical" href="http://checkgzipcompression.com/privacy/">
 
-	<div class="holder wrapper">
-		<div class="container contentFull privacyStatement">
-			<h2>Privacy statement</h2>
+		<link rel="stylesheet" href="http://checkgzipcompression.com/css/checkgzipcompression.css">
+		<link rel="stylesheet" href="http://checkgzipcompression.com/css/main.css">
+
+		<link rel="shortcut icon" href="http://checkgzipcompression.com/favicon.ico" type="image/x-icon">
+		<link rel="apple-touch-icon" href="http://checkgzipcompression.com/favicon-apple.png">
+		
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://checkgzipcompression.com/js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+	</head>
+	
+	<body id="checkgzipcompression" class="contentPage">
+	
+	<!-- [if lt IE 8]>
+	<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+	<![endif] -->
+		<!-- header with enter url -->
+
+		<div class="fixed-top">	
+			<header id="headerContent">
+				<div class="container">
+					<div class="zone">
+						<div class="logoZone">
+							<a href="http://checkgzipcompression.com/"><img id="logo" src="http://checkgzipcompression.com/img/logo_checkgzipcompression_small.svg" onerror="this.src=http://checkgzipcompression.com/img/logo_checkgzipcompression_small.png" alt="Check GZIP compression" title="Check GZIP compression"></a>
+							<h1><a href="http://checkgzipcompression.com/"><em>Check</em> GZIP compression</a></h1>
+						</div> <!-- logoZone -->
+					 	<form action="http://checkgzipcompression.com/" method="get" name="form" id="enterForm" class="enterURL">
+							<fieldset>
+								<legend><label for="enter_url">Website URL</label></legend>
+								<div class="searchContent">
+									<div class="abs-fieldset leftZone ">
+										<span class="closeBtn">X</span>
+										<input type="text" id="enter_url" name="url" onkeyup="checkURL(this.value,'http',this.id,'');" class="ignorespace abs-input" value="" placeholder="Enter your website address here" autocapitalize="off" spellcheck="false">
+										<div id="spm" class="spm">
+											<span id="host"></span><span id="sitename" class="spellError"></span>
+										</div> <!-- spm -->
+									</div> <!-- abs-fieldset -->
+									<input type="submit" id="eventBtn" class="rightZone" value="Check">
+								</div> <!-- searchContent -->
+							</fieldset>
+						</form>
+					 </div> <!-- zone -->
+				</div> <!-- container -->
+				<div id="beta" class="textCenter">Beta</div> <!-- beta -->
+			</header> <!-- headerContent -->
+		</div> <!-- fixed-top -->
+
+		<section id="content">
+			<div class="container">
+				<h1 class="textCenter">Privacy statement</h1>
 
 				<h3>What information do we collect?</h3> 
 			<p>	 
@@ -139,38 +157,43 @@
 				EMAILADDRESS<br>
 
 			</p>
-		</div> <!-- contentFull -->
-	</div> <!-- holder -->
+			</div> <!-- container -->
+		</section> <!-- content -->
+		
 
+		<footer id="copyrightContent">
+			<div class="container">
+				<div class="zone">
+					<div class="rt-sm-8">
+			 			<p>© 2015 by checkgzipcompression.com - <a href="http://checkgzipcompression.com/faq/" title="Frequently Asked Questions">FAQ</a> - <a href="http://checkgzipcompression.com/stats/" title="Statistics">Stats</a> - <a href="http://checkgzipcompression.com/privacy/" title="Privacy statement" rel="nofollow">Privacy</a> </p>
+			 		</div>
+			 		<div class="rt-sm-4">
+			 			<p class="rightZone"><img id="logo-rt" src="http://checkgzipcompression.com/img/logo-rt.svg" onerror="this.src=http://checkgzipcompression.com/img/logo-rt.png" alt="Richard's Toolbox" title="Richard's Toolbox">
+ <em>Richard's</em> <strong>Toolbox</strong></p>
+			 		</div>
+		 		</div> <!-- zone -->
+			</div> <!-- container -->
+		</footer> <!-- copyrightContent -->
+		
+		<div id="loading">
+			<h2 class="textCenter">Please wait while checking</h2>
+			<i class="ri ri-spinner ri-spin centerZone"></i>
+		</div> <!-- loading -->
 
-	<div class="rwd-display-options">
-		<span id="view-full" class="rwd-display-option">View Desktop Version</span>
-	</div>
+		<script src="http://checkgzipcompression.com/js/jquery-1.11.1.min.js?r411"></script>
+		<script src="http://checkgzipcompression.com/js/jquery-ui-1.10.3.custom.min.js?r411"></script>
+		<script src="http://checkgzipcompression.com/js/jquery.cookie.js?r411"></script>
+		<script src="http://checkgzipcompression.com/js/global.js?r411"></script>
+		<script src="http://checkgzipcompression.com/js/checkURL.js?r411"></script>
+		<script src="http://checkgzipcompression.com/js/main_checkgzipcompression.js?r411"></script>
+<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-42136812-4', 'checkgzipcompression.com');
+			ga('require', 'displayfeatures');
+		ga('send', 'pageview');</script>
 	
-	<div id="footer">
-		<div class="holder">
-			<p>© 2014 by checkgzipcompression.com - <a href="http://checkgzipcompression.com/privacy/" rel="nofollow">Privacy</a> - <a href="http://checkgzipcompression.com/faq/" title="Frequently Asked Questions">FAQ</a> - <a href="http://checkgzipcompression.com/stats/" title="Statistics">Stats</a></p>
-		</div> <!-- holder -->
-	</div> <!-- footer -->
-
-	<div class="betaVersion">Beta</div> <!-- betaVersion -->
-
-	<script src="http://checkgzipcompression.com/js/jquery-1.9.1.min.js?r284"></script>
-	<script src="http://checkgzipcompression.com/js/jquery-ui-1.10.3.custom.min.js?r284"></script>
-	<script src="http://checkgzipcompression.com/js/jquery.cookie.js?r284"></script>
-	<script src="http://checkgzipcompression.com/js/spellcheck.js?r284"></script>
-	<script src="http://checkgzipcompression.com/js/httpprefix.js?r284"></script>
-	<script src="http://checkgzipcompression.com/js/main_checkgzipcompression.js?r284"></script>
-	<script src="http://checkgzipcompression.com/js/json2.js?r284"></script>
-	<script src="http://checkgzipcompression.com/js/viewport.js?r284"></script>
-	<script src="http://checkgzipcompression.com/js/modal_bootstrap.js?r284"></script><script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-		ga('create', 'UA-42136812-4', 'checkgzipcompression.com');
-	ga('send', 'pageview');</script>
-
-
-
+	
 </body></html>
