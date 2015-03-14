@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072410id_/http%3A//lessonplanspage.com/privacy-htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004101id_/http%3A//lessonplanspage.com/privacy-htm) for the most accurate reproduction.*
 
 # LessonPlansPage.com Privacy Policy | HotChalk Lesson Plans Page
 
@@ -20,7 +20,7 @@ The Lesson Plans Page respects your privacy and will not do anything in violatio
 >  408-369-9125  
 >  (Fax) 408-608-1679
 > 
-> You may contact us by e-mail at [lppsupport@hotchalk.com](mailto:lppsupport@hotchalk.com).
+> You may contact us by e-mail at [hana-code-insert name=’support_email’ /].
 
 ## **Dispute Resolution and Privacy Seals**
 
@@ -28,7 +28,7 @@ The Lesson Plans Page respects your privacy and will not do anything in violatio
 > 
 >   * **New Dispute** : 
 > 
-> Contact at: [lppsupport@hotchalk.com](mailto:lppsupport@hotchalk.com)
+> Contact at: [hana-code-insert name=’support_email’ /]
 > 
 > 
 
@@ -122,7 +122,7 @@ The Lesson Plans Page respects your privacy and will not do anything in violatio
 > 
 > IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.
 > 
-> For any questions, please contact [lppsupport@hotchalk.com](mailto:lppsupport@hotchalk.com).
+> For any questions, please contact [hana-code-insert name=’support_email’ /].
 
 **Third Party Advertising**
 
@@ -140,4 +140,4 @@ The Lesson Plans Page respects your privacy and will not do anything in violatio
 > 
 
 
-[](http://www.printfriendly.com/print?url=http://lessonplanspage.com/privacy-htm/)
+[](http://www.printfriendly.com/print?url=http%3A%2F%2Flessonplanspage.com%2Fprivacy-htm%2F)
