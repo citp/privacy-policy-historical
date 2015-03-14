@@ -1,0 +1,1488 @@
+<!--The following is the downloaded HTML source of the smartonlineexam.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315004354id_/http%3A//smartonlineexam.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<script async="" charset="utf-8" src="//v2.zopim.com/?2PF7rcxLLLmEaktN3mWgFnr5OblTquCg" type="text/javascript"></script><script type="text/javascript" async="" src="//widget.uservoice.com/ECjZIdk3ZQ0UnSuPWoVYA.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-58967602-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+    <title>
+	Online Test Series, Offline Test Series, Android Test Series English and Hindi
+        (औनलाइन टेस्ट-सिरिज) Medical, IIT-JEE, NEET, AIPMT, Engineering, SSC, UPSC, Railway,
+        TET, Banking PO, CAT, MAT, AIEE, JEE, JAT 
+</title><link rel="icon" type="image/ico" href="images/Fav.png"><link rel="Shortcut Icon" href="images/Fav.png"><link href="css/NewStyle.css" type="text/css" rel="Stylesheet" media="all"><link href="css/megafish.css" type="text/css" rel="Stylesheet" media="all"><link href="http://fonts.googleapis.com/css?family=Monda:400,700|Exo:400,300,300italic,200italic,200,100italic,100,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900italic,900&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    
+    <script src="Scripts/jquery-1.9.0.min.js" type="text/javascript"></script>
+    <script src="Scripts/hoverIntent.js" type="text/javascript"></script>
+    <script src="Scripts/superfish.js" type="text/javascript"></script>
+    
+    <script type="text/javascript">
+        (function ($) { //create closure so we can safely use $ as alias for jQuery
+            $(document).ready(function () {
+                var exampleOptions = {
+                    speed: 'fast'
+                }
+                // initialise plugin
+                var example = $('#example').superfish(exampleOptions);
+
+                // buttons to demonstrate Superfish's public methods
+                $('.destroy').on('click', function () {
+                    example.superfish('destroy');
+                });
+
+                $('.init').on('click', function () {
+                    example.superfish(exampleOptions);
+                });
+
+                $('.open').on('click', function () {
+                    example.children('li:first').superfish('show');
+                });
+
+                $('.close').on('click', function () {
+                    example.children('li:first').superfish('hide');
+                });
+            });
+        })(jQuery);
+    </script>
+    <!-- UserVoice JavaScript SDK (only needed once on a page) -->
+    <script>        (function () { var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true; uv.src = '//widget.uservoice.com/ECjZIdk3ZQ0UnSuPWoVYA.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s) })()</script>
+    <!-- A tab to launch the Classic Widget -->
+    <script>
+        UserVoice = window.UserVoice || [];
+        UserVoice.push(['showTab', 'classic_widget', {
+            mode: 'feedback',
+            primary_color: '#e53d00',
+            link_color: '#2b7499',
+            forum_id: 266398,
+            tab_label: 'Feedback & Support',
+            tab_color: '#e53d00',
+            tab_position: 'middle-left',
+            tab_inverted: false
+        }]);
+    </script>
+    
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            //Execute the slideShow
+            slideShow();
+
+        });
+
+        function slideShow() {
+
+            //Set the opacity of all images to 0
+            $('#gallery a').css({ opacity: 0.0 });
+
+            //Get the first image and display it (set it to full opacity)
+            $('#gallery a:first').css({ opacity: 1.0 });
+
+            //Set the caption background to semi-transparent
+            $('#gallery .caption').css({ opacity: 0.7 });
+
+            //Resize the width of the caption according to the image width
+            $('#gallery .caption').css({ width: $('#gallery a').find('img').css('width') });
+
+            //Get the caption of the first image from REL attribute and display it
+            $('#gallery .content').html($('#gallery a:first').find('img').attr('rel'))
+	.animate({ opacity: 0.7 }, 400);
+
+            //Call the gallery function to run the slideshow, 6000 = change to next image after 6 seconds
+            setInterval('gallery()', 6000);
+
+        }
+
+        function gallery() {
+
+            //if no IMGs have the show class, grab the first image
+            var current = ($('#gallery a.show') ? $('#gallery a.show') : $('#gallery a:first'));
+
+            //Get next image, if it reached the end of the slideshow, rotate it back to the first image
+            var next = ((current.next().length) ? ((current.next().hasClass('caption')) ? $('#gallery a:first') : current.next()) : $('#gallery a:first'));
+
+            //Get next image caption
+            var caption = next.find('img').attr('rel');
+
+            //Set the fade in effect for the next image, show class has higher z-index
+            next.css({ opacity: 0.0 })
+	.addClass('show')
+	.animate({ opacity: 1.0 }, 1000);
+
+            //Hide the current image
+            current.animate({ opacity: 0.0 }, 1000)
+	.removeClass('show');
+
+            //Set the opacity to 0 and height to 1px
+            $('#gallery .caption').animate({ opacity: 0.0 }, { queue: false, duration: 0 }).animate({ height: '1px' }, { queue: true, duration: 300 });
+
+            //Animate the caption, opacity to 0.7 and heigth to 100px, a slide up effect
+            $('#gallery .caption').animate({ opacity: 0.7 }, 100).animate({ height: '100px' }, 500);
+
+            //Display the content
+            $('#gallery .content').html(caption);
+        }
+    </script>
+    <style type="text/css">
+        body
+        {            
+            font-family: 'Exo', sans-serif;
+            font-family: 'Monda', sans-serif;   
+        }
+        
+        .clear
+        {
+            clear: both;
+        }
+        
+        #gallery
+        {
+            position: relative;
+            height: 166px;
+        }
+        #gallery a
+        {
+            float: left;
+            position: absolute;
+        }
+        
+        #gallery a img
+        {
+            border: none;
+        }
+        
+        #gallery a.show
+        {
+            z-index: 500;
+        }
+        
+        #gallery .caption
+        {
+            z-index: 600;
+            background-color: #000;
+            color: #ffffff;
+            height: 100px;
+            width: 100%;
+            position: absolute;
+            bottom: 0;
+        }
+        
+        #gallery .caption .content
+        {
+            margin: 5px;
+        }
+        
+        #gallery .caption .content h3
+        {
+            margin: 0;
+            padding: 0;
+            color: #1DCCEF;
+        }
+        #hideul
+        {
+            display: none;
+        }
+        .hide
+        {
+            right: -200px;
+        }
+        .demo
+        {
+            display: block;
+        }
+    </style>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#light1').css("display", "block");            
+            $('#fade').css("display", "block");
+            });
+        });
+    </script>
+    <link href="css/popup.css" rel="stylesheet" type="text/css"></head>
+<body style="zoom: 1;">
+    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="ctl00_tlsdemo_HiddenField" id="ctl00_tlsdemo_HiddenField" value="">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzOTMxODIxODgPZBYCZg9kFgICAw9kFgYCCQ8WAh4EVGV4dAUBMGQCEQ9kFgYCAQ8UKwACDxYEHgtfIURhdGFCb3VuZGceC18hSXRlbUNvdW50AgRkZBYCZg9kFggCAQ9kFgJmDxUCAjEwI0JJVFNBVCAyMDE1IE9ubGluZSBBcHBsaWNhdGlvbiBGb3JtZAICD2QWAmYPFQIBOThCU05MIE5vdGlmaWVkIGZvciA5NjIgSnVuaW9yIEFjY291bnRzIE9mZmljZXJzIFBvc3QgMjAxNGQCAw9kFgJmDxUCATcOQ01BVCBFWEFNIDIwMTVkAgQPZBYCZg8VAgE2EUpFRSBBRFZBTkNFRCAyMDE1ZAIDDxQrAAIPFgQfAWcfAgIEZGQWAmYPZBYIAgEPZBYCZg8VAilodHRwOi8vc3NjLm5pYy5pbi9ub3RpY2UvZXhhbV9ub3RpY2UuaHRtbCFTU0MgTE9XRVIgRElWSVNJT04gR1JBREUgVmFjYW5jeSBkAgIPZBYCZg8VAhpodHRwOi8vd3d3LmplZW1haW4ubmljLmluL0lSZWFkIGFib3V0IGxhdGVzdCBwYXR0ZXJuIG9mIEpFRSAyMDE1IGV4YW0gKEFsc28gcmVhZCBmb3IgU0NSQSwgQklUU0FUKQ0KZAIDD2QWAmYPFQJKaHR0cDovL2Nic2UubmljLmluL2F0dGFjaC9BRE1JU1NJT04lMjBOT1RJQ0UlMjBBSVBNVF8yMDE0X0VOR0xJU0hfMjAxMy5wZGZJQWRtaXNzaW9uIE5vdGljZSA6IEFsbCBJbmRpYSBQcmUtTWVkaWNhbC9QcmUtRGVudGFsIEVudHJhbmNlIFRlc3QsIDIwMTUNCmQCBA9kFgJmDxUCI2h0dHA6Ly9jYnNlLm5pYy5pbi9haXBtdF9wYXBlcnMuemlwK0FJUE1UIFBSRVZJT1VTIFlFQVIgUEFQRVIgKEZSRUUgRE9XTkxPQUQpDQpkAgUPFCsAAg8WBB8BZx8CAgRkZBYCZg9kFggCAQ9kFgRmDxUBHmh0dHA6Ly93d3cuc21hcnRvbmxpbmVleGFtLmNvbWQCAQ8PFgIeCEltYWdlVXJsBRh+L2ltYWdlcy9hZC9hZGltYWdlOC5qcGdkZAICD2QWBGYPFQEeaHR0cDovL3d3dy5zbWFydG9ubGluZWV4YW0uY29tZAIBDw8WAh8DBRh+L2ltYWdlcy9hZC9hZGltYWdlNy5qcGdkZAIDD2QWBGYPFQEeaHR0cDovL3d3dy5zbWFydG9ubGluZWV4YW0uY29tZAIBDw8WAh8DBRh+L2ltYWdlcy9hZC9hZGltYWdlNi5qcGdkZAIED2QWBGYPFQEeaHR0cDovL3d3dy5zbWFydG9ubGluZWV4YW0uY29tZAIBDw8WAh8DBRh+L2ltYWdlcy9hZC9hZGltYWdlMS5qcGdkZAIhD2QWAmYPZBYEAgEPEGRkFgFmZAIDDxBkZBYAZBgEBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUTY3RsMDAkY2hrUmVtZW1iZXJNZQUgY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRsc3RBZHMPPCsACgIHPCsABAAIAgRkBSljdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGxzdEhlbHBmdWxMaW5rcw88KwAKAgc8KwAEAAgCBGQFIWN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkbHN0TmV3cw88KwAKAgc8KwAEAAgCBGTIpbDuKAhiUfNEtcdalNuV4vkaOQ==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=SmEuu8xhamK3vWL9rytT8B1DsEdoxvVW8U78yzXM_aYqTpbN4Wie6_gcFNCsbrMnScI_NWqV436-v8KA1__JvQNouAE1&amp;t=635295292417495136" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=F-4_xlw6rrbAo0ZsNATdF2DBmNk4jiBgBxhsOF8k0B64MzehldQyO3dRn0gaa5mMI0KeLcujblgZnUvSoZDwB6-qCjKym82EUd-Yko-5z20lObB8abZhEPVzlWyRX1dzioLCTwEU8T9uRtgVoAFfM4YN49Q1&amp;t=1014c5a0" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=jwS95Yr014KE8jfT6z9Pyw5Ji_NE1b-KtzKmiOoN_Q1m2zPKwH4Z65dKaMCcmFk5Mo-h_NLwTJW22pth0_soGb486oCC71wnpMG8B-YVC0h94d8KBztYJ7jABOeWY6WO2xvvKg2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=6EkuILkkZ9MhhwUXv7USgO7EEF0OGue4NYbgjKbuKpBCinUouh_XjX1XXBR7V3yfcWaBENZBhjhknlIOluHn3o_F3IhXOE3tzBTgQyAHc8q5Lnt6eMd8VeRuxKSh4A3h486LbA2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7650BFE2">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWHAKT5J6WBgKZysblBwLS8/jGDQKSuJcnAuT616cCAqmpj+IJAsTkwvQCAv2f4I4CAvfb85MMAoHty7UFApuo1K4PAuesj5kPAtKkp+wFAsLLjYIJAt3LjYIJAtzLjYIJAt/LjYIJAt7LjYIJAtnLjYIJAtjLjYIJAtvLjYIJAsrLjYIJAsXLjYIJAt3LzYEJAt3LwYEJAt3LxYEJApnCr6ULAvPIiekNgBCHB7NyxuGjjcjOYOeYaYs6nA0=">
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$tlsdemo', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['tctl00$upnldemo'], [], [], 90);
+//]]>
+</script>
+
+    <div class="main_wrapper">
+        <div class="header">
+            <div class="headerleft">
+                <a href="Default.aspx">
+                    <img alt="" src="images/SMARTONLINEEXAMlogo.jpg" width="190">
+                </a>
+            </div>
+            <div class="headerright">
+                <div class="headertop">
+                    <ul>
+                        <li>
+                            
+                            
+                            </li>
+                        <li><a href="javascript:void(0)" class="toplink btnround btngreen pull-right" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block';">
+                            <img src="images/key.png" alt="" width="10" class="shopping">Student Login</a>|</li>
+                        <li><a href="OfflineRegistration.aspx">
+                            <img src="images/key.png" alt="" width="10" class="shopping">Offline Software
+                            Registration</a>|</li>
+                        <li><a href="ShoppingKart.aspx">
+                            <img src="images/cart.png" alt="" width="10" class="shopping">
+                            Shopping cart (
+                            0
+                            ) </a>|</li>
+                        <li><a href="http://www.smartonlineexam.com/blog">
+                            <img src="images/feedback.png" alt="" width="10" class="shopping">
+                            Blog</a></li>
+                        
+                    </ul>
+                </div>
+                <div class="headerbottom">
+                    <table style="width: 100%;" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                            <td>
+                                <select name="ctl00$ddlSearchCategory" id="ctl00_ddlSearchCategory" class="dropdown" style="width:150px;">
+	<option value="Search">Search</option>
+	<option value="Android Test">Android Test</option>
+	<option value="Offline Test">Offline Test</option>
+	<option value="Online Test">Online Test</option>
+	<option value="Answer Keys">Answer Keys</option>
+
+</select>
+                            </td>
+                            <td>
+                                <input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" class="textbox" placeholder="Search Products" style="width:200px;">
+                            </td>
+                            <td>
+                                <input type="submit" name="ctl00$btnSearch" value="Search" id="ctl00_btnSearch" class="button" style="width:80px;">
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </div>
+            </div>
+        </div>
+<div class="menu">
+            <ul class="sf-menu sf-js-enabled sf-arrows" id="example">
+                <li><a href="Products.aspx" class="white sf-with-ul">Shop All Categories</a>
+                    <ul id="hideul" style="display: none;">
+                        <li><a href="ENGINEERING.aspx" class="sf-with-ul">ENGINEERING</a>
+                            <div class="sf-mega" style="display: none;">
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="JEE.aspx">JEE </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="JEE ADVANCED English Medium.aspx">JEE ADVANCED English Medium</a></li>
+                                        <li><a href="JEE ADVANCED Hindi Medium.aspx">JEE ADVANCED Hindi Medium </a>
+                                        </li>
+                                        <li><a href="JEE MAIN English Medium.aspx">JEE MAIN English Medium</a></li>
+                                        <li><a href="JEE MAIN Hindi Medium.aspx">JEE MAIN Hindi Medium </a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="AIEEE.aspx">AIEEE </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="AIEEE TARGET English Medium.aspx">AIEEE TARGET English Medium</a></li>
+                                        <li><a href="AIEEE TARGET Hindi Medium.aspx">AIEEE TARGET Hindi Medium</a></li>
+                                        <li><a href="AIEEE FOUNDATION English Medium.aspx">AIEEE FOUNDATION English Medium</a></li>
+                                        <li><a href="AIEEE FOUNDATION Hindi Medium.aspx">AIEEE FOUNDATION Hindi Medium </a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="RPET.aspx">RPET </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="RPET English Medium.aspx">RPET English Medium</a></li>
+                                        <li><a href="RPET Hindi Medium.aspx">RPET Hindi Medium</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="SCRA.aspx">SCRA</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="SCRA TARGET English Medium.aspx">SCRA TARGET English Medium</a></li>
+                                        <li><a href="SCRA TARGET Hindi Medium.aspx">SCRA TARGET Hindi Medium </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="BITSAT.aspx">BITSAT </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="BITSAT English Medium.aspx">BITSAT English Medium</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CPET.aspx">CPET </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="CPET English Medium.aspx">CPET English Medium</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="VITEEE.aspx">VITEEE </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="VITEEE English Medium.aspx">VITEEE English Medium</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="UPESEAT.aspx">UPESEAT </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="UPESEAT English Medium.aspx">UPESEAT English Medium</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="SRMEE.aspx">SRMEE </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="SRMEE English Medium.aspx">SRMEE English Medium</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="UPSEE.aspx">UPSEE </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="UPSEE English Medium.aspx">UPSEE English Medium</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <img alt="" src="images/menu/exam-pics2.jpg" width="100%">
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="MEDICAL.aspx" class="sf-with-ul">MEDICAL</a>
+                            <div class="sf-mega" style="display: none;">
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="AIIMS.aspx">AIIMS </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="AIIMS TARGET English Medium.aspx">AIIMS TARGET English Medium</a></li>
+                                        <li><a href="AIIMS TARGET Hindi Medium.aspx">AIIMS TARGET Hindi Medium </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="RPMT.aspx">RPMT </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="RPMT TARGET English Medium.aspx">RPMT TARGET English Medium</a></li>
+                                        <li><a href="RPMT TARGET Hindi Medium.aspx">RPMT TARGET Hindi Medium </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="AIPMT.aspx">AIPMT </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="AIPMT TARGET English Medium.aspx">AIPMT TARGET English Medium</a></li>
+                                        <li><a href="AIPMT TARGET Hindi Medium.aspx">AIPMT TARGET Hindi Medium </a>
+                                        </li>
+                                        <li><a href="AIPMT FOUNDATION English Medium.aspx">AIPMT FOUNDATION English Medium</a></li>
+                                        <li><a href="AIPMT FOUNDATION Hindi Medium.aspx">AIPMT FOUNDATION Hindi Medium </a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="AIPVT.aspx">AIPVT </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="AIPVT English Medium.aspx">AIPVT English Medium</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <img alt="" src="images/menu/Medical.jpg" width="100%">
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="CBSE.aspx" class="sf-with-ul">CBSE</a>
+                            <div class="sf-mega" style="display: none;">
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CBSE CLASS - 1 to 10.aspx">CBSE CLASS - 1 to 10 </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="CBSE CLASS - 1.aspx">CBSE CLASS - 1 </a></li>
+                                        <li><a href="CBSE CLASS - 2.aspx">CBSE CLASS - 2 </a></li>
+                                        <li><a href="CBSE CLASS - 3.aspx">CBSE CLASS - 3 </a></li>
+                                        <li><a href="CBSE CLASS - 4.aspx">CBSE CLASS - 4 </a></li>
+                                        <li><a href="CBSE CLASS - 5.aspx">CBSE CLASS - 5 </a></li>
+                                        <li><a href="CBSE CLASS - 6.aspx">CBSE CLASS - 6 </a></li>
+                                        <li><a href="CBSE CLASS - 7.aspx">CBSE CLASS - 7 </a></li>
+                                        <li><a href="CBSE CLASS - 8.aspx">CBSE CLASS - 8 </a></li>
+                                        <li><a href="CBSE CLASS - 9.aspx">CBSE CLASS - 9 </a></li>
+                                        <li><a href="CBSE CLASS - 10.aspx">CBSE CLASS - 10 </a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CBSE PHYSICS.aspx">CBSE PHYSICS </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="CBSE PHYSICS - CLASS - XI.aspx">CBSE PHYSICS - CLASS - XI</a></li>
+                                        <li><a href="CBSE PHYSICS - CLASS - XII.aspx">CBSE PHYSICS - CLASS - XII</a></li>
+                                        <li><a href="CBSE PHYSICS - CLASS - XI and XII.aspx">CBSE PHYSICS - CLASS - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CBSE CHEMISTRY.aspx">CBSE CHEMISTRY </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="CBSE CHEMISTRY - CLASS - XI.aspx">CBSE CHEMISTRY - CLASS - XI</a></li>
+                                        <li><a href="CBSE CHEMISTRY - CLASS - XII.aspx">CBSE CHEMISTRY - CLASS - XII</a></li>
+                                        <li><a href="CBSE CHEMISTRY - CLASS - XI and XII.aspx">CBSE CHEMISTRY - CLASS - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CBSE MATHEMATICS.aspx">CBSE MATHEMATICS </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="CBSE MATHEMATICS - CLASS - XI.aspx">CBSE MATHEMATICS - CLASS - XI</a></li>
+                                        <li><a href="CBSE MATHEMATICS - CLASS - XII.aspx">CBSE MATHEMATICS - CLASS - XII</a></li>
+                                        <li><a href="CBSE MATHEMATICS - CLASS - XI and XII.aspx">CBSE MATHEMATICS - CLASS - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CBSE BIOLOGY.aspx">CBSE BIOLOGY </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="CBSE BIOLOGY - CLASS - XI.aspx">CBSE BIOLOGY - CLASS - XI</a></li>
+                                        <li><a href="CBSE BIOLOGY - CLASS - XII.aspx">CBSE BIOLOGY - CLASS - XII</a></li>
+                                        <li><a href="CBSE BIOLOGY - CLASS - XI and XII.aspx">CBSE BIOLOGY - CLASS - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CBSE PCM COMBO.aspx">CBSE PCM COMBO</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="CBSE PCM COMBO - CLASS - XI.aspx">CBSE PCM COMBO - CLASS - XI</a></li>
+                                        <li><a href="CBSE PCM COMBO - CLASS - XII.aspx">CBSE PCM COMBO - CLASS - XII</a></li>
+                                        <li><a href="CBSE PCM COMBO - CLASS - XI and XII.aspx">CBSE PCM COMBO - CLASS - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CBSE PCB COMBO.aspx">CBSE PCB COMBO </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="CBSE PCB COMBO - CLASS - XI.aspx">CBSE PCB COMBO - CLASS - XI</a></li>
+                                        <li><a href="CBSE PCB COMBO - CLASS - XII.aspx">CBSE PCB COMBO - CLASS - XII</a></li>
+                                        <li><a href="CBSE PCB COMBO - CLASS - XI and XII.aspx">CBSE PCB COMBO - CLASS - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CBSE PCMB COMBO.aspx">CBSE PCMB COMBO </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="CBSE PCMB COMBO - CLASS - XI.aspx">CBSE PCMB COMBO - CLASS - XI</a></li>
+                                        <li><a href="CBSE PCMB COMBO - CLASS - XII.aspx">CBSE PCMB COMBO - CLASS - XII</a></li>
+                                        <li><a href="CBSE PCMB COMBO - CLASS - XI and XII.aspx">CBSE PCMB COMBO - CLASS - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <img alt="" src="images/menu/cbse.jpg" width="100%">
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="OLYMPIADS.aspx" class="sf-with-ul">OLYMPIADS</a>
+                            <div class="sf-mega" style="display: none;">
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="IMO.aspx">IMO</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="IMO CLASS - 1.aspx">IMO CLASS - 1 </a></li>
+                                        <li><a href="IMO CLASS - 2.aspx">IMO CLASS - 2 </a></li>
+                                        <li><a href="IMO CLASS - 3.aspx">IMO CLASS - 3 </a></li>
+                                        <li><a href="IMO CLASS - 4.aspx">IMO CLASS - 4 </a></li>
+                                        <li><a href="IMO CLASS - 5.aspx">IMO CLASS - 5 </a></li>
+                                        <li><a href="IMO CLASS - 6.aspx">IMO CLASS - 6 </a></li>
+                                        <li><a href="IMO CLASS - 7.aspx">IMO CLASS - 7 </a></li>
+                                        <li><a href="IMO CLASS - 8.aspx">IMO CLASS - 8 </a></li>
+                                        <li><a href="IMO CLASS - 9.aspx">IMO CLASS - 9 </a></li>
+                                        <li><a href="IMO CLASS - 10.aspx">IMO CLASS - 10 </a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="NSO.aspx">NSO </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="NSO CLASS - 1.aspx">NSO CLASS - 1 </a></li>
+                                        <li><a href="NSO CLASS - 2.aspx">NSO CLASS - 2 </a></li>
+                                        <li><a href="NSO CLASS - 3.aspx">NSO CLASS - 3 </a></li>
+                                        <li><a href="NSO CLASS - 4.aspx">NSO CLASS - 4 </a></li>
+                                        <li><a href="NSO CLASS - 5.aspx">NSO CLASS - 5 </a></li>
+                                        <li><a href="NSO CLASS - 6.aspx">NSO CLASS - 6 </a></li>
+                                        <li><a href="NSO CLASS - 7.aspx">NSO CLASS - 7 </a></li>
+                                        <li><a href="NSO CLASS - 8.aspx">NSO CLASS - 8 </a></li>
+                                        <li><a href="NSO CLASS - 9.aspx">NSO CLASS - 9 </a></li>
+                                        <li><a href="NSO CLASS - 10.aspx">NSO CLASS - 10 </a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="IEO.aspx">IEO </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="IEO CLASS - 1.aspx">IEO CLASS - 1 </a></li>
+                                        <li><a href="IEO CLASS - 2.aspx">IEO CLASS - 2 </a></li>
+                                        <li><a href="IEO CLASS - 3.aspx">IEO CLASS - 3 </a></li>
+                                        <li><a href="IEO CLASS - 4.aspx">IEO CLASS - 4 </a></li>
+                                        <li><a href="IEO CLASS - 5.aspx">IEO CLASS - 5 </a></li>
+                                        <li><a href="IEO CLASS - 6.aspx">IEO CLASS - 6 </a></li>
+                                        <li><a href="IEO CLASS - 7.aspx">IEO CLASS - 7 </a></li>
+                                        <li><a href="IEO CLASS - 8.aspx">IEO CLASS - 8 </a></li>
+                                        <li><a href="IEO CLASS - 9.aspx">IEO CLASS - 9 </a></li>
+                                        <li><a href="IEO CLASS - 10.aspx">IEO CLASS - 10 </a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="NSTSE.aspx">NSTSE </a>
+                                    </h2>
+                                    <ul>
+                                        
+                                        
+                                        <li><a href="NSTSE CLASS - 3.aspx">NSTSE CLASS - 3 </a></li>
+                                        <li><a href="NSTSE CLASS - 4.aspx">NSTSE CLASS - 4 </a></li>
+                                        <li><a href="NSTSE CLASS - 5.aspx">NSTSE CLASS - 5 </a></li>
+                                        <li><a href="NSTSE CLASS - 6.aspx">NSTSE CLASS - 6 </a></li>
+                                        <li><a href="NSTSE CLASS - 7.aspx">NSTSE CLASS - 7 </a></li>
+                                        <li><a href="NSTSE CLASS - 8.aspx">NSTSE CLASS - 8 </a></li>
+                                        <li><a href="NSTSE CLASS - 9.aspx">NSTSE CLASS - 9 </a></li>
+                                        <li><a href="NSTSE CLASS - 10.aspx">NSTSE CLASS - 10 </a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="NSTSE.aspx">NTSE </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="NTSE.aspx">NTSE</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <img alt="" src="images/menu/images.jpg" width="100%">
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="BANKING.aspx" class="sf-with-ul">BANKING</a>
+                            <div class="sf-mega" style="display: none;">
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="IBPS PO.aspx">IBPS PO</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="IBPS PO English Medium.aspx">IBPS PO English Medium</a></li>
+                                        <li><a href="IBPS PO Hindi Medium.aspx">IBPS PO Hindi Medium</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="IBPS CLERK.aspx">IBPS CLERK</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="IBPS CLERK English Medium.aspx">IBPS CLERK English Medium</a></li>
+                                        <li><a href="IBPS CLERK Hindi Medium.aspx">IBPS CLERK Hindi Medium</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="SBI CLERK.aspx">SBI CLERK</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="SBI CLERK English Medium.aspx">SBI CLERK English Medium</a></li>
+                                        <li><a href="SBI CLERK Hindi Medium.aspx">SBI CLERK Hindi Medium</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="SBI PO.aspx">SBI PO</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="SBI PO English Medium.aspx">SBI PO English Medium</a></li>
+                                        <li><a href="SBI PO Hindi Medium.aspx">SBI PO Hindi Medium</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <img alt="" src="images/menu/banking.jpg" width="100%">
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="SSC.aspx" class="sf-with-ul">SSC</a>
+                            <div class="sf-mega" style="display: none;">
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="SSC CGL.aspx">SSC CGL </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="SSC CGL TIER  I English Medium.aspx">SSC CGL TIER - I English Medium</a></li>
+                                        <li><a href="SSC CGL TIER - I Hindi Medium.aspx">SSC CGL TIER - I Hindi Medium</a></li>
+                                        <li><a href="SSC CGL TIER - II (MATHS ENGLISH) English Medium.aspx">SSC CGL TIER - II (MATHS &amp; ENGLISH) English Medium</a></li>
+                                        <li><a href="SSC CGL TIER - II (MATHS ENGLISH) Hindi Medium.aspx">SSC CGL TIER - II (MATHS &amp; ENGLISH) Hindi Medium</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="SSC 12.aspx">SSC 10+2 </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="SSC 12 Hindi Medium.aspx">SSC 10+2 Hindi Medium </a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <img alt="" src="images/menu/SSC.jpg" width="100%">
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="LAW.aspx" class="sf-with-ul">LAW</a>
+                            <div class="sf-mega" style="display: none;">
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CLAT.aspx">CLAT </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="CLAT English Medium.aspx">CLAT English Medium</a></li>
+                                        <li><a href="CLAT Hindi Medium.aspx">CLAT Hindi Medium </a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <img alt="" src="images/menu/LAW.jpg" width="100%">
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="MANAGEMENT.aspx" class="sf-with-ul">MANAGEMENT</a>
+                            <div class="sf-mega" style="display: none;">
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="Products.aspx?scid=MANAGEMENT">MANAGEMENT</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="Products.aspx?pn=MANAGEMENT">MANAGEMENT</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="MAT.aspx">MAT</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="Products.aspx?pn=MAT">MAT</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="SNAP.aspx">SNAP</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="Products.aspx?pn=SNAP">SNAP</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <img alt="" src="images/menu/management.jpg" width="100%">
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CAT.aspx">CAT</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="Products.aspx?pn=CAT">CAT</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CMAT.aspx">CMAT</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="Products.aspx?pn=CMAT">CMAT</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="COMMERCE.aspx" class="sf-with-ul">COMMERCE</a>
+                            <div class="sf-mega" style="display: none;">
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CA-CPT.aspx">CA-CPT</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="CA-CPT ENGLISH.aspx">CA-CPT ENGLISH </a></li>
+                                        <li><a href="CA-CPT HINDI.aspx">CA-CPT HINDI</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <img alt="" src="images/menu/commerce.gif" width="100%">
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="DEFENCE.aspx" class="sf-with-ul">DEFENCE</a>
+                            <div class="sf-mega" style="display: none;">
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="NDA.aspx">NDA </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="NDA ENGLISH MEDIUM.aspx">NDA ENGLISH MEDIUM </a></li>
+                                        <li><a href="NDA HINDI MEDIUM.aspx">NDA HINDI MEDIUM</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <img alt="" src="images/menu/exam-pics2.jpg" width="100%">
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="RBSE.aspx" class="sf-with-ul">RBSE</a>
+                            <div class="sf-mega" style="display: none;">
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="CBSE PHYSICS.aspx">RBSE PHYSICS </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="RBSE PHYSICS - CLASS - XI.aspx">RBSE PHYSICS - CLASS - XI</a></li>
+                                        <li><a href="RBSE PHYSICS - CLASS - XI and XII.aspx">RBSE PHYSICS - CLASS - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="RBSE CHEMISTRY.aspx">RBSE CHEMISTRY </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="RBSE CHEMISTRY - CLASS - XI.aspx">RBSE CHEMISTRY - CLASS - XI</a></li>
+                                        <li><a href="RBSE CHEMISTRY - CLASS - XI and XII.aspx">RBSE CHEMISTRY - CLASS - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="RBSE MATHEMATICS.aspx">RBSE MATHEMATICS </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="RBSE MATHEMATICS - CLASS - XI.aspx">RBSE MATHEMATICS - CLASS
+                                            - XI</a></li>
+                                        <li><a href="RBSE MATHEMATICS - CLASS - XI and XII.aspx">RBSE MATHEMATICS
+                                            - CLASS - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="RBSE BIOLOGY.aspx">RBSE BIOLOGY </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="RBSE BIOLOGY - CLASS - XI.aspx">RBSE BIOLOGY - CLASS - XI</a></li>
+                                        <li><a href="RBSE BIOLOGY - CLASS - XI and XII.aspx">RBSE BIOLOGY - CLASS
+                                            - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="RBSE PCM COMBO.aspx">RBSE PCM COMBO</a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="RBSE PCM COMBO - CLASS - XI.aspx">RBSE PCM COMBO - CLASS -
+                                            XI</a></li>
+                                        <li><a href="RBSE PCM COMBO - CLASS - XI and XII.aspx">RBSE PCM COMBO -
+                                            CLASS - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="RBSE PCB COMBO.aspx">RBSE PCB COMBO </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="RBSE PCB COMBO - CLASS - XI.aspx">RBSE PCB COMBO - CLASS -
+                                            XI</a></li>
+                                        <li><a href="RBSE PCB COMBO - CLASS - XI and XII.aspx">RBSE PCB COMBO -
+                                            CLASS - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="RBSE PCMB COMBO.aspx">RBSE PCMB COMBO </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="RBSE PCMB COMBO - CLASS - XI.aspx">RBSE PCMB COMBO - CLASS
+                                            - XI</a></li>
+                                        <li><a href="RBSE PCMB COMBO - CLASS - XI and XII.aspx">RBSE PCMB COMBO
+                                            - CLASS - XI and XII</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <img alt="" src="images/menu/cbse.jpg" width="100%">
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="OTHER.aspx" class="sf-with-ul">OTHERS</a>
+                            <div class="sf-mega" style="display: none;">
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="Graduate Level.aspx">Graduate Level </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="GENERAL ENGLISH.aspx">GENERAL ENGLISH</a></li>
+                                        <li><a href="LOGICAL REASONING (HINDI MED.).aspx">LOGICAL REASONING (HINDI
+                                            MED.)</a></li>
+                                        <li><a href="LOGICAL REASONING ENGLISH MEDIUM.aspx">LOGICAL REASONING (ENGLISH
+                                            MED.)</a></li>
+                                        <li><a href="QUANTITATIVE APTITUDE HINDI MEDIUM.aspx">QUANTITATIVE APTITUDE
+                                            (HINDI MED.)</a></li>
+                                        <li><a href="QUANTITATIVE APTITUDE ENGLISH MEDIUM.aspx">QUANTITATIVE APTITUDE
+                                            (ENGLISH MED.)</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <h2>
+                                        <a href="Senior Level.aspx">Senior Level </a>
+                                    </h2>
+                                    <ul>
+                                        <li><a href="Products.aspx?pn=GENERAL ENGLISH">GENERAL ENGLISH </a></li>
+                                        <li><a href="Products.aspx?pn=LOGICAL REASONING (HINDI MED.)">LOGICAL REASONING (HINDI
+                                            MED.)</a></li>
+                                        <li><a href="Products.aspx?pn=LOGICAL REASONING (ENGLISH MED.)">LOGICAL REASONING (ENGLISH
+                                            MED.)</a></li>
+                                        <li><a href="Products.aspx?pn=QUANTITATIVE APTITUDE (HINDI MED.)">QUANTITATIVE APTITUDE
+                                            (HINDI MED.)</a></li>
+                                        <li><a href="Products.aspx?pn=QUANTITATIVE APTITUDE (ENGLISH MED.)">QUANTITATIVE APTITUDE
+                                            (ENGLISH MED.)</a></li>
+                                    </ul>
+                                </div>
+                                <div class="sf-mega-section">
+                                    <img alt="" src="images/menu/RBSC.jpg" width="100%">
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    
+                </li>
+                <li style="width:80px"><a href="Default.aspx">Home</a></li>
+                <li style="width:90px"><a href="Aboutus.aspx">About Us</a></li>
+                <li style="width:100px"><a href="OnlineTest.aspx">Online Test</a></li>
+                <li style="width:110px"><a href="StudyMaterial.aspx">Offline Test</a></li>
+                <li style="width:110px"><a href="VideoLacture.aspx">Android Test</a></li>
+                <li style="width:110px"><a href="AnswerKeys.aspx">Answer Keys</a></li>
+                <li style="width:100px"><a href="Registration.aspx">Registration</a></li>
+                <li class="last" style="width:100px"><a href="ContactUs.aspx">Contact Us</a></li>
+            </ul>
+        </div>
+
+        <div class="middle">
+            
+    <div class="middlebox minheight">
+        <div class="box3">
+            <h1 class="borderbottom">
+                <span class="borderbottomblue pad8">Privacy Policy</span>
+            </h1>
+            <div class="clear">
+            </div>
+            <br>
+            <p class="textjustify">
+                At Smart Online Exam, we recognize that privacy is important. Smart Online Exam
+                does not rent, sell, or share personal information about you with other people or
+                nonaffiliated companies except to provide products or services you've requested,
+                when we have your permission. This Policy applies to all of the products, services
+                and website offered by Smart Online Exam or its subsidiaries or affiliated companies
+                (collectively, Smart Online Exam’s "services").
+            </p>
+            <p class="textjustify">
+                <b>Information we collect and how we use it: </b>
+                <br>
+                In order to provide our services, we may collect the following types of information:
+            </p>
+            <p class="textjustify">
+                <b>Information you provide –</b>
+                <br>
+                We may ask you for personal information (such as your name, email address, phone
+                number and company) for certain services that we provide through our website.
+            </p>
+            <p class="textjustify">
+                <b>Smart Online Exam cookies - </b>
+                <br>
+                When you visit Smart Online Exam, we may send one or more cookies - a small file
+                containing a string of characters - to your computer that uniquely identifies your
+                browser. We may use these cookies to improve the quality of our service by storing
+                user preferences and tracking user trends, such as how people search. Most browsers
+                are initially set up to accept cookies, but you can reset your browser to refuse
+                all cookies or to indicate when a cookie is being sent.
+            </p>
+            <p class="textjustify">
+                <b>Log information - </b>
+                <br>
+                When you use Smart Online Exam’s services, our servers may automatically record
+                information that your browser sends whenever you visit our website. These server
+                logs may include information such as your web request, Internet Protocol address,
+                browser type, browser language, the date and time of your request and one or more
+                cookies that may uniquely identify your browser.
+            </p>
+            <p class="textjustify">
+                <b>User communications - </b>
+                <br>
+                When you send email or other communication to Smart Online Exam, we may retain
+                those communications in order to process your inquiries, respond to your requests
+                and improve our services.
+            </p>
+            <p class="textjustify">
+                <b>Affiliated sites - </b>
+                <br>
+                We may have affiliated websites who may provide similar or other kinds of services.
+                Personal information that you provide to those sites may be sent to Smart Online Exam
+                and vice versa. We process such information in accordance with this Policy. The
+                affiliated sites may have different privacy practices and we encourage you to read
+                their privacy policies.
+            </p>
+            <p class="textjustify">
+                <b>Links - </b>
+                <br>
+                Smart Online Exam may present links in a format that enables us to keep track of
+                whether these links have been followed. Smart Online Exam only processes personal
+                information for the purposes described in the applicable Privacy Policy and/or privacy
+                notice for specific services. In addition to the above, such purposes include:
+                <br>
+                Providing our products and services to users; Auditing, research and analysis in
+                order to maintain, protect and improve our services; Developing new services. Education
+                Infotech processes personal information on our servers in India and in other countries.
+                In some cases, we process personal information on a server outside your own country.
+            </p>
+            <p class="textjustify">
+                <b>Choices for personal information </b>
+                <br>
+                When you sign up for a particular service that requires registration, we ask you
+                to provide personal information. If we use this information in a manner different
+                than the purpose for which it was collected, then we will ask for your consent prior
+                to such use. If we propose to use personal information for any purposes other than
+                those described in this Policy and/or in the specific service notices, we will offer
+                you an effective way to opt out of the use of personal information for those other
+                purposes. We will not collect or use information for purposes other than those described
+                in this Policy unless we have obtained your prior consent. You can decline to submit
+                personal information to any of our services, in which case Smart Online Exam may
+                not be able to provide those services to you.
+            </p>
+            <p class="textjustify">
+                <b>Opt-Out Policy: </b>
+                <br>
+                Smart Online Exam offers its visitors and customers a means to choose how we may
+                use information provided. If, at any time after registering for information or ordering
+                the Service, you change your mind about receiving information from us or about sharing
+                your information with third parties, send us a request specifying your new choice.
+                Simply send your request to info@smartonlineexam.com.
+            </p>
+            <p class="textjustify">
+                <b>Information sharing</b>
+                <br>
+                Smart Online Exam only shares personal information with other companies or individuals
+                outside of Smart Online Exam in the following limited circumstances: We have your
+                consent. We require opt-in consent for the sharing of any sensitive personal information.
+                We provide such information to our subsidiaries, affiliated companies or other trusted
+                businesses or persons for the purpose of processing personal information on our
+                behalf. We require that these parties agree to process such information based on
+                our instructions and in compliance with this Policy and any other appropriate confidentiality
+                and security measures.
+                <br>
+                We have a good faith belief that access, use, preservation or disclosure of such
+                information is reasonably necessary to
+                <br>
+                (a) satisfy any applicable law, regulation, legal process or enforceable governmental
+                request
+                <br>
+                (b) detect, prevent, or otherwise address fraud, security or technical issues, or
+                <br>
+                (c) protect against imminent harm to the rights, property or safety of Education
+                Infotech, its users or the public as required or permitted by law.
+                <br>
+                If Smart Online Exam becomes involved in a merger, acquisition, or any form of
+                sale of some or all of its assets, we will provide notice before personal information
+                is transferred and becomes subject to a different privacy policy. Please contact
+                us at the address below for any additional questions about the management or use
+                of personal data or as to what classifies as Sensitive Information.
+            </p>
+            <p class="textjustify">
+                <b>Information security </b>
+                <br>
+                We take appropriate security measures to protect against unauthorized access to
+                or unauthorized alteration, disclosure or destruction of data. These include internal
+                reviews of our data collection, storage and processing practices and security measures,
+                as well as physical security measures to guard against unauthorized access to systems
+                where we store personal data.
+                <br>
+                We restrict access to personal information to Smart Online Exam employees, contractors
+                and agents who need to know that information in order to operate, develop or improve
+                our services. These individuals are bound by confidentiality obligations and may
+                be subject to discipline, including termination and criminal prosecution, if they
+                fail to meet these obligations.
+            </p>
+            <p class="textjustify">
+                <b>Data integrity </b>
+                <br>
+                Smart Online Exam processes personal information only for the purposes for which
+                it was collected and in accordance with this Policy or any applicable service-specific
+                privacy notice. We review our data collection, storage and processing practices
+                to ensure that we only collect, store and process the personal information needed
+                to provide or improve our services. We take reasonable steps to ensure that the
+                personal information we process is accurate, complete, and current, but we depend
+                on our users to update or correct their personal information whenever necessary.
+            </p>
+            <p class="textjustify">
+                <b>Accessing and updating personal information </b>
+                <br>
+                When you need to change or update your personal information please mail us at info@smartonlineexam.com
+                and we will make good faith efforts to change/correct this data if it is inaccurate
+                or to delete such data at your request if it is not otherwise required to be retained
+                by law or for legitimate business purposes. We may ask individual users to identify
+                themselves and then proceed to take action as required. We may decline to process
+                requests that are unreasonably repetitive or systematic, require disproportionate
+                technical effort, jeopardize the privacy of others, or would be extremely impractical
+                (for instance, requests concerning information residing on backup tapes), or for
+                which access is not otherwise required. In any case where we provide information
+                access and correction, we perform this service of charge.
+            </p>
+            <p class="textjustify">
+                <b>Enforcement </b>
+                <br>
+                Smart Online Exam regularly reviews its compliance with this Policy. Please feel
+                free to direct any questions or concerns regarding this Policy or Smart Online Exam’s
+                treatment of personal information by mailing us at info@smartonlineexam.com. When we receive
+                formal written complaints at this address, it is Smart Online Exam’s policy to
+                contact the complaining user regarding his or her concerns. We will cooperate with
+                the appropriate regulatory authorities, including local data protection authorities,
+                to resolve any complaints regarding the transfer of personal data that cannot be
+                resolved between Smart Online Exam and an individual.
+            </p>
+            <p class="textjustify">
+                <b>Content in our packages </b>
+                <br>
+                We derive content from various sources like books, journals, magazines, internet,
+                etc. The content is checked, modified as per our estimations and then presented
+                in the softwares. Any wrong information conveyed/mis-prints or any other kinds of
+                error are not a direct responsibility of us. Users must verify or notify us if there
+                are any errors.
+            </p>
+            <p class="textjustify">
+                <b>Changes to this policy </b>
+                <br>
+                Please note that this Privacy Policy may change from time to time. We will not reduce
+                your rights under this Policy without your explicit consent, and we expect most
+                such changes will be minor. Regardless, we will post any Policy changes on this
+                page and, if the changes are significant, we will provide a more prominent notice
+                (including, for certain services, email notification of Policy changes).
+            </p>
+        </div>
+        <div class="box2">
+            <h2>
+                <a href="News.aspx">News </a>
+            </h2>
+            
+                    <ul>
+                        
+                    <li class="borderbottom"><a href="News.aspx?nid=10">
+                        BITSAT 2015 Online Application Form
+                    </a></li>
+                
+                    <li class="borderbottom"><a href="News.aspx?nid=9">
+                        BSNL Notified for 962 Junior Accounts Officers Post 2014
+                    </a></li>
+                
+                    <li class="borderbottom"><a href="News.aspx?nid=7">
+                        CMAT EXAM 2015
+                    </a></li>
+                
+                    <li class="borderbottom"><a href="News.aspx?nid=6">
+                        JEE ADVANCED 2015
+                    </a></li>
+                
+                    </ul>
+                
+            <div class="clear">
+            </div>
+            <h2>
+                Helpful Links
+            </h2>
+            
+                    <ul>
+                        
+                    <li class="borderbottom"><a href="http://ssc.nic.in/notice/exam_notice.html" target="_blank">
+                        SSC LOWER DIVISION GRADE Vacancy 
+                    </a></li>
+                
+                    <li class="borderbottom"><a href="http://www.jeemain.nic.in/" target="_blank">
+                        Read about latest pattern of JEE 2015 exam (Also read for SCRA, BITSAT)
+
+                    </a></li>
+                
+                    <li class="borderbottom"><a href="http://cbse.nic.in/attach/ADMISSION%20NOTICE%20AIPMT_2014_ENGLISH_2013.pdf" target="_blank">
+                        Admission Notice : All India Pre-Medical/Pre-Dental Entrance Test, 2015
+
+                    </a></li>
+                
+                    <li class="borderbottom"><a href="http://cbse.nic.in/aipmt_papers.zip" target="_blank">
+                        AIPMT PREVIOUS YEAR PAPER (FREE DOWNLOAD)
+
+                    </a></li>
+                
+                    </ul>
+                
+            <div class="clear">
+            </div>
+            <h2>
+                Advertisments
+            </h2>
+            <br>
+            <div id="gallery">
+                
+                        
+                        <a href="http://www.smartonlineexam.com" target="_blank" class="show" style="opacity: 1;">
+                            <img id="ctl00_ContentPlaceHolder1_lstAds_ctrl0_imgAd" src="images/ad/adimage8.jpg" style="height:166px;width:240px;border-width:0px;">
+                        </a>
+                    
+                        <a href="http://www.smartonlineexam.com" target="_blank" class="show" style="opacity: 0;">
+                            <img id="ctl00_ContentPlaceHolder1_lstAds_ctrl1_imgAd" src="images/ad/adimage7.jpg" style="height:166px;width:240px;border-width:0px;">
+                        </a>
+                    
+                        <a href="http://www.smartonlineexam.com" target="_blank" class="show" style="opacity: 0;">
+                            <img id="ctl00_ContentPlaceHolder1_lstAds_ctrl2_imgAd" src="images/ad/adimage6.jpg" style="height:166px;width:240px;border-width:0px;">
+                        </a>
+                    
+                        <a href="http://www.smartonlineexam.com" target="_blank" class="show" style="opacity: 0;">
+                            <img id="ctl00_ContentPlaceHolder1_lstAds_ctrl3_imgAd" src="images/ad/adimage1.jpg" style="height:166px;width:240px;border-width:0px;">
+                        </a>
+                    
+                    
+            </div>
+        </div>
+    </div>
+
+        </div>
+    </div>
+    <div class="footermain">
+        <div class="footer">
+            <div class="footerleft">
+                <a href="FAQs.aspx">FAQs</a> | <a href="Advertise.aspx">Advertise with us</a>
+                | <a href="Disclaimer.aspx">Disclaimer</a> | <a href="PaymentMethod.aspx">Payment Methods</a>
+                | <a href="CancelletionExchangeReturn.aspx">Cancellation, Exchange &amp; Return</a>
+                | <a href="PrivacyPolicy.aspx" class="terms">Privacy Policy</a> | <a href="TermsofUse.aspx" class="terms">Terms of Use</a>
+                <p class="pad5">
+                    © Copyright 2014, <a href="Default.aspx">Smart Online Exam.</a>
+                </p>
+                <p class="pad5">
+                    <!-- Start of StatCounter Code for Default Guide -->
+                    <script type="text/javascript">
+                        var sc_project = 10017429;
+                        var sc_invisible = 0;
+                        var sc_security = "0080be9d";
+                        var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+                        document.write("<sc" + "ript type='text/javascript' src='" +
+scJsHost +
+"statcounter.com/counter/counter.js'></" + "script>");
+                    </script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+                    <noscript>
+                        <div class="statcounter">
+                            <a title="shopify
+analytics tool" href="http://statcounter.com/shopify/" target="_blank">
+                                <img class="statcounter" src="http://c.statcounter.com/10017429/0/0080be9d/0/" alt="shopify analytics tool"></a></div>
+                    </noscript>
+                    <!-- End of StatCounter Code for Default Guide -->
+                    <a href="http://statcounter.com/p10017429/?guest=1"></a>
+                    <!--Start of Zopim Live Chat Script-->
+                    <script type="text/javascript">
+                        window.$zopim || (function (d, s) {
+                            var z = $zopim = function (c) { z._.push(c) }, $ = z.s =
+d.createElement(s), e = d.getElementsByTagName(s)[0]; z.set = function (o) {
+    z.set.
+_.push(o)
+}; z._ = []; z.set._ = []; $.async = !0; $.setAttribute('charset', 'utf-8');
+                            $.src = '//v2.zopim.com/?2PF7rcxLLLmEaktN3mWgFnr5OblTquCg'; z.t = +new Date; $.
+type = 'text/javascript'; e.parentNode.insertBefore($, e)
+                        })(document, 'script');
+                    </script>
+                    <!--End of Zopim Live Chat Script-->
+                    
+                </p>
+            </div>
+            <div class="footerright">
+                <a class="pad5" href="https://www.facebook.com/smartonlineexam" target="_blank">
+                    <img alt="" src="images/new/facebook.png">
+                </a><a class="pad5" href="https://twitter.com/smartonlineexam" target="_blank">
+                    <img alt="" src="images/new/twitter.png">
+                </a><a class="pad5" href="https://plus.google.com/b/115404596279467519399/115404596279467519399/about" target="_blank">
+                    <img alt="" src="images/new/google_plus.png">
+                </a><a class="pad5" href="https://www.linkedin.com/profile/view?id=368654939" target="_blank">
+                    <img alt="" src="images/new/linkedin.png">
+                </a><a class="pad5" href="https://www.youtube.com/channel/UCMaIwDL0eceFKCKB7hzgloQ" target="_blank">
+                    <img alt="" src="images/new/youtube.png">
+                </a>
+            </div>
+        </div>
+    </div>
+    <div id="light" class="white_content">
+        <table cellpadding="0" cellspacing="0" border="0" style="background-color: #fff;" width="100%">
+            <tbody><tr>
+                <td align="center" class="headertext">
+                    <h1>
+                        SOE - Student Login</h1>
+                    <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">
+                        <img src="images/close-icon.png" style="border-style: none; border-color: inherit;
+                            border-width: 0px; margin: -50px -10px;" align="right"></a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: #fff" width="100%">
+                        <tbody><tr>
+                            <td align="center">
+                                <div class="login_content">
+                                    <table style="width: 100%;">
+                                        <tbody><tr>
+                                            <td>
+                                                Username:
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <input name="ctl00$txtUsername" type="text" id="ctl00_txtUsername" class="input" style="width:340px;">
+                                                <span id="ctl00_rfvUsername" style="color:Red;visibility:hidden;">*</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                Password:
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <input name="ctl00$txtPassword" type="password" id="ctl00_txtPassword" class="input" style="width:340px;">
+                                                <span id="ctl00_rfvUsername0" style="color:Red;visibility:hidden;">*</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </div>
+                                <div class="login_footer">
+                                    <p>
+                                        <input id="ctl00_chkRememberMe" type="checkbox" name="ctl00$chkRememberMe"><label for="ctl00_chkRememberMe">Remember Me</label></p>
+                                    <p style="margin-left: 20px; float: left;">
+                                        <a href="student/ForgotPassword.aspx">Forgot Password</a>
+                                    </p>
+                                    <input type="submit" name="ctl00$btnLogin" value="Login" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnLogin&quot;, &quot;&quot;, true, &quot;vgLogin&quot;, &quot;&quot;, false, false))" id="ctl00_btnLogin" class="button">
+                                    <p style="margin-left: 10px; float: right;">
+                                        <a href="Registration.aspx" class="button2">Sign Up</a>
+                                    </p>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    <div id="fade" class="black_overlay">
+    </div>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <div class="trydemo">
+        <a href="javascript:void(0)" onclick="document.getElementById('light1').style.display='block';document.getElementById('fade').style.display='block';;document.getElementById('light1').addClass('demo')">
+            <img src="images/trydemo.png" alt="Demo Test" style=" width:100%;">
+        </a>
+    </div>
+    <div id="light1" class="white_content">
+        <div id="ctl00_upnldemo">
+	
+                <div class="right">
+                    <table width="100px">
+                        <tbody><tr>
+                            <td align="center" class="headertext">
+                                <h1>
+                                    Try Demo Test
+                                </h1>
+                                <a href="javascript:void(0)" onclick="document.getElementById('light1').style.display='none';document.getElementById('fade').style.display='none';document.getElementById('light1').removeClass('demo');">
+                                    <img src="images/close-icon.png" style="border-style: none; border-color: inherit;
+                                        border-width: 0px; margin: -55px -15px;" align="right"></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center">
+                                <br>
+                                <select name="ctl00$ddlCategory" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ddlCategory\',\'\')', 0)" id="ctl00_ddlCategory" class="textbox" style="width:200px;">
+		<option selected="selected" value="0">--Select One--</option>
+		<option value="1">ENGINEERING</option>
+		<option value="2">MEDICAL</option>
+		<option value="3">CBSE</option>
+		<option value="4">OLYMPIADS</option>
+		<option value="5">BANKING</option>
+		<option value="6">SSC</option>
+		<option value="7">LAW</option>
+		<option value="8">MANAGEMENT</option>
+		<option value="9">COMMERCE</option>
+		<option value="10">DEFENCE</option>
+		<option value="11">RBSE</option>
+		<option value="12">OTHERS</option>
+
+	</select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center">
+                                <select name="ctl00$ddlCourse" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ddlCourse\',\'\')', 0)" id="ctl00_ddlCourse" class="textbox" style="width:200px;">
+
+	</select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center">
+                                <select name="ctl00$ddlPaper" id="ctl00_ddlPaper" class="textbox" style="width:200px;">
+
+	</select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center">
+                                <input type="submit" name="ctl00$btnDemo" value="Continue..." id="ctl00_btnDemo" class="button" style="width:200px;">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center">
+                                <span id="ctl00_lblmsg" style="color:Red;"></span>
+                                <br>
+                            </td>
+                        </tr>
+
+                    </tbody></table>
+                </div>
+            
+</div>
+    </div>
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_rfvUsername"), document.getElementById("ctl00_rfvUsername0"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_rfvUsername = document.all ? document.all["ctl00_rfvUsername"] : document.getElementById("ctl00_rfvUsername");
+ctl00_rfvUsername.controltovalidate = "ctl00_txtUsername";
+ctl00_rfvUsername.errormessage = "*";
+ctl00_rfvUsername.validationGroup = "vgLogin";
+ctl00_rfvUsername.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_rfvUsername.initialvalue = "";
+var ctl00_rfvUsername0 = document.all ? document.all["ctl00_rfvUsername0"] : document.getElementById("ctl00_rfvUsername0");
+ctl00_rfvUsername0.controltovalidate = "ctl00_txtPassword";
+ctl00_rfvUsername0.errormessage = "*";
+ctl00_rfvUsername0.validationGroup = "vgLogin";
+ctl00_rfvUsername0.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_rfvUsername0.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ctl00_tlsdemo_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        Sys.Application.initialize();
+
+document.getElementById('ctl00_rfvUsername').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_rfvUsername'));
+}
+
+document.getElementById('ctl00_rfvUsername0').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_rfvUsername0'));
+}
+//]]>
+</script>
+</form>
+
+
+</body></html>
