@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shippingeasy.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411200954id_/http%3A//support.shippingeasy.com/entries/23304397-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shippingeasy.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004650id_/https%3A//support.shippingeasy.com/hc/en-us/articles/203084479-Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy : ShippingEasy Support
+# Privacy Policy – ShippingEasy Knowledge Base
 
 You may be concerned about the privacy of information that you give us. That’s fair enough. We have prepared this policy to help you understand how we collect, use and disclose your personal information. We may update this policy now and then by publishing a new version on the website, so please check back. You are welcome to get in touch if you would like to know more.
 
@@ -14,9 +14,9 @@ Your personal information is information that can be linked to your identity.
 
 Generally speaking, the kinds of personal information ShippingEasy collects are:
 
-  1. \- your name and contact details like your address, telephone number and email address;
-  2. \- the details of your order like your pick up and drop off addresses; and
-  3. \- sign-on data, page view statistics, website traffic and your personal website preferences.
+  1. Your name and contact details like your address, telephone number and email address
+  2. The details of your order like your pick up and drop off addresses
+  3. Sign-on data, page view statistics, website traffic and your personal website preferences.
 
 
 
