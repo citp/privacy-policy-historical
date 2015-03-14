@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technblogging.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111205153id_/http%3A//www.healthable.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technblogging.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231852id_/http%3A//geekized.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -64,28 +64,3 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
  **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
-
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://healthable.org/terms>
-
-**Your Consent**
-
-By using our site, you consent to our [privacy policy](http://healthable.org/privacy).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will send an email notifying you of any changes.
-
- **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
- **Healthable**
-
-Port Harcourt, Rivers State 500262  
-Nigeria  
-Support@healthable.org  
-+2348181702565
-
-This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
