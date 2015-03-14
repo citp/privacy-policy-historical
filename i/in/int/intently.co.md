@@ -1,43 +1,50 @@
-> *The following text is extracted and transformed from the intently.co privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022043940id_/http%3A//intently.co/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intently.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002415id_/http%3A//intently.co/pages/privacy) for the most accurate reproduction.*
 
 # Request any service with Intently.co
 
 This privacy policy sets out how we use and protect any information that you give us when you use our services.
 
-### Key points
+### In general
 
 We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-It is very important for you to understand that our service is designed to make your shouts visible to others, while we keep your identity anonymous. Therefore, when you create a shout, the text you enter in the "what", "where", "when" and "other information" fields will be visible on the Internet. We will not publish your personal details intentionally, but if you enter your personal details into any of the aforementioned fields, then that will be made visible to others on the Internet by design. 
+When you use the service, regardless of whether you have signed up, we store information about how you use the service to help us to improve it, and of course we record your requests, services, and conversations that you hold with other users on the system.
 
-### What we store
-
-When you sign up to use our service, we request the following information from you about you or your company. All of this information is either entered or validated by you: 
-
-  * Your visible name
-  * Your email address
-  * Your website (you don't have to provide this)
-  * Your phone number (you don't have to provide this)
-  * Your company name (you don't have to provide this)
-  * Information about you or your company (this is a block of text and you don't have to provide this)
-
-
-
-When you use the service, regardless of whether you have signed up, we store information about how you use the service to help us to improve it, and of course we record your shouts, watches, and conversations that you hold with other users on the system. 
-
-### What we do with the information you provide us
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+We use the information you provide us for the following purposes:
 
   * Internal record keeping.
-  * Publication of shouts on this site, and syndication to other websites (including via our API)
-  * Sharing of shouts and watches with other Intently users and/or external service providers (via our API).
-  * Sharing of information you have provided about you or your company with buyers (or potential buyers) when you act as a supplier (we will show the buyer your visible name, email address, website, phone number, and information about you or your company).
-  * We may use the information to improve our service.
+  * Publication of requests on this site, and syndication to other websites (including via our API)
+  * Sharing of requests and services with other Intently users and/or external service providers (via our API).
+  * Sharing of information you have provided about youor your company with buyers (or potential buyers) when you act as a supplier (we will show the buyer your visible name, email address, website, phone number, and other information about you or your company).
+  * To improve our service.
   * We may periodically send emails to you (using the email address you provided) regarding changes and improvements to our service, special offers or other information which we think you may find interesting. We will always give you the option to unsubscribe from such mailings. 
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email or phone, and again you may request that we do not do this in future.
 
 
+
+### As a buyer
+
+It is very important for you to understand that our service is designed to make your requests visible to others, while we keep your identity anonymous. Therefore, when you create a request, the text you enter in the "what", "where", "when" and "other information" fields will be visible on the Internet. We will not publish your personal details intentionally, but if you enter your personal details into any of the aforementioned fields, then that will be made visible to others on the Internet by design.
+
+When you sign up to use our service as a buyer, we request the following information from you:
+
+  * Your username
+  * Your email address
+
+
+
+## As a seller
+
+When you sign up as a seller, we ask you to provide a variety of information about your business and services including:
+
+  * Your username
+  * Your company name
+  * Your website url
+  * Various other information and services
+
+
+
+We publish this information in a number of places on our website, always with the intention of promoting your business. 
 
 ### Security
 
@@ -45,7 +52,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ### Account administration
 
-From time to time, one of our administrators may edit your watch data to ensure that you are getting the best possible supplier alerts based on shouts being raised by users. In addition, if you are signed up and raise a shout, we may occasionally raise a further shout on your behalf if we feel that we can better target potential suppliers for your needs. 
+From time to time, one of our administrators may edit your list of services to ensure that you are getting the best possible supplier alerts based on requests being raised by users. In addition, if you are signed up and raise a request, we may occasionally raise a further request on your behalf if we feel that we can better target potential suppliers for your needs. 
 
 ### Cookies
 
@@ -65,8 +72,8 @@ Our website may contain links to other websites of interest. However, once you h
 
 ### Freedom of information
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please contact us at neil_intently@gmail.com. If you believe that any information we are holding on you is incorrect or incomplete, please email us at neil_intently@gmail.com. We will promptly correct any information found to be incorrect, or we will delete the information at your request. 
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please contact us at neil.harris@intently.co. If you believe that any information we are holding on you is incorrect or incomplete, please email us at neil_intently@gmail.com. We will promptly correct any information found to be incorrect, or we will delete the information at your request. 
 
 ### Canceling your account
 
-If you cancel your account, we will delete all of the information you have provided to us about you and your company. We will also delete all of the data you have created through using our service (e.g. shouts, watches, and conversations with other people on the system). 
+If you cancel your account, we will delete all of the information you have provided to us about you and your company. We will also delete all of the data you have created through using our service (e.g. requests, services, and conversations with other people on the system). 
