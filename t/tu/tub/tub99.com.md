@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tub99.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002065714id_/http%3A//www.tub99.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tub99.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314211232id_/http%3A//www.tub99.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TUB99.com - Free PORN and SEX Videos - XXX Porn Tube
 
