@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the cex.io privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007172543id_/https%3A//cex.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cex.io privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005654id_/https%3A//cex.io/privacy) for the most accurate reproduction.*
 
 # Privacy - CEX.IO
 
+* * *
+
 ### General
 
-CEX.IO. and its affiliates (hereinafter, "CEXIO", "we", "us" or "our") are committed to protecting and respecting your privacy.
+CEX.IO. and its affiliates (hereinafter, "CEX.IO", "we", "us" or "our") are committed to protecting and respecting your privacy.
 
 This Privacy Policy (together with our Terms and Conditions of Use) governs our collection, processing and use of your Personal Information. We define "Personal Information" as information which identifies you personally, e.g. your name, address, e-mail address, trades etc.
 
@@ -95,4 +97,4 @@ Our Site policies, content, information, promotions, disclosures, disclaimers an
 
 If you have any questions, comments, or concerns regarding our Privacy Policy and/or practices as it or they relate to the Platform, please contact us at the following e-mail address, address and telephone number:
 
-E-Mail: [webmaster@cex.io](mailto:webmaster@cex.io)
+E-Mail: [webmaster@cex.io](mailto:webmaster@cex.io "webmaster@cex.io")
