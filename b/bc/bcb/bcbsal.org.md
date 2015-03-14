@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbsal.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120712id_/https%3A//www.bcbsal.org/web/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbsal.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001708id_/https%3A//www.bcbsal.org/web/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Blue Cross and Blue Shield of Alabama
 
@@ -27,6 +27,12 @@ BCBSAL wants your visit to our Web site to be informative and enjoyable. We plan
 As you browse, we may install cookies (tiny text files stored on your computer which record your preferences) in your browser. Cookies cannot harm your computer and they do not contain any personally identifiable information. We may disclose this non-personally identifiable information to our staff and to trusted third parties involved in the marketing of our products and services. We do not sell or rent this non-personally identifiable information to third parties.
 
 In addition to Blue Cross and Blue Shield of Alabama using first party cookies on our website, we allow certain Third Parties to include web beacons within our web pages. Web beacons are image requests which are used by the third party to install their own cookie in your browser. These companies are vendors of Blue Cross and Blue Shield of Alabama who have been hired for marketing or research purposes. Member identifiable data will not be transmitted. The use of these web beacons is subject to the privacy policies of these Third Parties, not the Blue Cross and Blue Shield of Alabama Privacy Policy.
+
+At an advertiser's discretion, Google Analytics data may be examined in concert with data about the advertiser's ads that have been shown using the Google Display Network or DoubleClick for Advertisers. Thus, an advertiser can understand how anonymous users interacted with the advertiser's website after seeing the advertiser's ads.
+
+Advertisers may use this data to inform and optimize their ad campaigns.
+
+Users may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/) or they may opt out of your use of Analytics by visiting the [Google Analytics opt-out](https://tools.google.com/dlpage/gaoptout) page.
 
 ##  Mobile Device Applications ("Apps")
 
