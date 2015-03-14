@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bglhonline.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129200424id_/http%3A//blackgirllonghair.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bglhonline.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314204315id_/http%3A//blackgirllonghair.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Black Girl with Long Hair
 
@@ -21,7 +21,9 @@ www.blackgirllonghair.com does use cookies to store information about visitors p
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
-Glam Media
+Glam Media  
+Sovrn  
+Media.Net
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.blackgirllonghair.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
