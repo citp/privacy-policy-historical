@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kapost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072908id_/http%3A//kapost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapost.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314221518id_/http%3A//kapost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy - Kapost
 
-This Privacy Policy governs the manner in which Kapost collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://kapost.com](http://kapost.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Kapost.
+This Privacy Policy governs the manner in which Kapost collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://kapost.com](http://kapost.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Kapost.
 
 ### Personal identification information
 
@@ -20,19 +20,17 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Kapost collects and uses Users personal information for the following purposes:
 
-  * _To personalize user experience_ – We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _To improve our Site_ – We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _To improve customer service_ – Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _To administer a content, promotion, survey or other Site feature_ – To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _To send periodic emails_ – The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * _To personalize user experience_  – We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _To improve our Site_  – We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * _To improve customer service_  – Your information helps us to more effectively respond to your customer service requests and support needs.
+  * _To administer a content, promotion, survey or other Site feature_  – To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _To send periodic emails_  – The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
 ### How we protect your information
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
 ### Sharing your personal information
 
@@ -52,12 +50,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
-
-**Kapost** 1919 14th Street
-
-Suite 450
-
-Boulder, CO 80302 webmaster@kapost.com [http://kapost.com](http://kapost.com/)
-
-This document was last updated on August 21, 2012
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  **Kapost**  1919 14th Street Suite 450 Boulder, CO 80302 webmaster@kapost.com [http://kapost.com](http://kapost.com/) This document was last updated on August 21, 2012
