@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superlawyers.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007231731id_/https%3A//my.superlawyers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superlawyers.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000931id_/https%3A//my.superlawyers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Terms of Use, Conditions and Privacy Policy for My.SuperLawyers.com - My Super Lawyers
 
@@ -7,7 +7,7 @@
 
 ### SCOPE
 
-Your privacy is important to Super Lawyers, a Thomson Reuters business, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites operated by Super Lawyers and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline.
+Your privacy is important to Super Lawyers, part of Thomson Reuters, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites operated by Super Lawyers and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline.
 
 This website may contain links to sites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites.
 
@@ -174,13 +174,12 @@ You may cancel your registration or update your preferences at any time. If you 
 
 If you have any additional questions or concerns related to this statement and/or our practices, please [e-mail us](https://web.archive.org/contact.html). Or contact us via the following:
 
-Super Lawyers  
-100 W. Harrison St., Suite 340  
-North Tower  
-Seattle, WA 98119-4196  
+Super Lawyers, part of Thomson Reuters  
+610 Opperman Drive  
+Eagan, MN 55123  
 U.S.A.  
-Telephone: 206-282-9527  
-Facsimile: 206-282-9601  
+Telephone: 877-787-5290  
+Facsimile: 866-888-8910  
 
 
 #### PRIVACY STATEMENT CHANGES
