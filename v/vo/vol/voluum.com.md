@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voluum.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102640id_/http%3A//voluum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voluum.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001229id_/http%3A//voluum.com/privacy-policy) for the most accurate reproduction.*
 
-# Voluum - The ultimate affiliate tracking solution | Privacy Policy
+# Software For Affiliate Marketing - Privacy Policy
 
 **What information do we collect?**  
 
@@ -14,11 +14,11 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-  * To personalize your experience \- Your information helps us to better respond to your individual needs.
-  * To improve our application \- We continually strive to improve our application offerings based on the information and feedback we receive from you.
-  * To improve customer service \- Your information helps us to more effectively respond to your customer service requests and support needs.
-  * To process transactions - Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-  * To send periodic emails - The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+  * To personalize your experience – Your information helps us to better respond to your individual needs.
+  * To improve our application – We continually strive to improve our application offerings based on the information and feedback we receive from you.
+  * To improve customer service – Your information helps us to more effectively respond to your customer service requests and support needs.
+  * To process transactions – Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To send periodic emails – The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
 
 
@@ -29,10 +29,6 @@ We implement a variety of security measures to maintain the safety of your perso
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-**Do we use cookies?**  
-
-We do not use cookies.
 
 **Do we disclose any information to outside parties?**  
 
@@ -58,13 +54,13 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 23/07/2013
+This policy was last modified on 15/12/2014
 
 **Contacting Us**  
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-CodeWise Sp. z o.o. Sp. K.  
-Ul. Szlak 67, floor 3; 31-153 Krakow  
+Codewise Sp. z o.o. Sp. K.  
+Ul. Lubicz 17h, 31-503 Krakow  
 Poland  
-support@zeropark.com
+hello@codewise.com
