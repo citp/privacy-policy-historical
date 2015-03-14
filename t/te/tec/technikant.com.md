@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technikant.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223054136id_/http%3A//technikant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technikant.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002210id_/http%3A//technikant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Technikant
 
