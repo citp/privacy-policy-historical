@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeonfire.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921065319id_/http%3A//www.lifeonfire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeonfire.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234931id_/http%3A//lifeonfire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Life On Fire
 
