@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pirateparty.org.uk privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105224018id_/https%3A//www.pirateparty.org.uk/secretariat/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pirateparty.org.uk privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314223022id_/http%3A//pirateparty.org.uk/secretariat/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Pirate Party
 
