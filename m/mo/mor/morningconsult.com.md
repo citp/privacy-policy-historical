@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningconsult.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119195014id_/http%3A//themorningconsult.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningconsult.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314201917id_/http%3A//morningconsult.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Morning Consult
 
@@ -6,7 +6,7 @@
 
 **Last Updated:**  September 14, 2014
 
-This Privacy Policy discloses the privacy practices for the www.TheMorningConsult.com website and all mobile websites and applications associated therewith (“MC Media”), which is provided by The Morning Consult, LLC (“Morning Consult”). This Privacy Policy governs Morning Consult’s collection of information from you through your use of MC Media. It does not apply to any information you may provide to Morning Consult through other means, e.g., via mail or via telephone. Please read this Privacy Policy carefully so that you understand Morning Consult’s online privacy practices. By using MC Media, you agree that your visit, download or use of MC Media, and any dispute over Morning Consult’s online privacy practices, is governed by this Privacy Policy and Morning Consult’s [Terms and Condition of Use](http://themorningconsult.com/terms-and-conditions-of-use/). Questions regarding privacy issues should be directed to [Michael@themorningconsult.com](mailto:Michael@themorningconsult.com) or Morning Consult, P.O. Box 15628, Washington, DC 20003.
+This Privacy Policy discloses the privacy practices for the www.TheMorningConsult.com website and all mobile websites and applications associated therewith (“MC Media”), which is provided by The Morning Consult, LLC (“Morning Consult”). This Privacy Policy governs Morning Consult’s collection of information from you through your use of MC Media. It does not apply to any information you may provide to Morning Consult through other means, e.g., via mail or via telephone. Please read this Privacy Policy carefully so that you understand Morning Consult’s online privacy practices. By using MC Media, you agree that your visit, download or use of MC Media, and any dispute over Morning Consult’s online privacy practices, is governed by this Privacy Policy and Morning Consult’s [Terms and Condition of Use](http://morningconsult.com/terms-and-conditions-of-use/). Questions regarding privacy issues should be directed to [Michael@morningconsult.com](mailto:Michael@morningconsult.com) or Morning Consult, P.O. Box 15628, Washington, DC 20003.
 
 **TYPES OF INFORMATION MORNING CONSULT COLLECTS**
 
@@ -34,7 +34,7 @@ You agree that Morning Consult may use your information to contact you for custo
 
 Morning Consult reserves the right to disclose to third parties all of the information that Morning Consult collects online about you and other visitors.
 
-Please be aware that Morning Consult may occasionally release information about visitors when release is appropriate to comply with law, to enforce Morning Consult’s [Terms and Condition of Use](http://themorningconsult.com/terms-and-conditions-of-use/), or to protect the rights, property or safety of visitors to MC Media, the public, or to Morning Consult.
+Please be aware that Morning Consult may occasionally release information about visitors when release is appropriate to comply with law, to enforce Morning Consult’s [Terms and Condition of Use](http://morningconsult.com/terms-and-conditions-of-use/), or to protect the rights, property or safety of visitors to MC Media, the public, or to Morning Consult.
 
 Please also note that as Morning Consult’s business grows, Morning Consult may buy or sell various assets. In the unlikely event that Morning Consult, some or all of Morning Consult’s assets, or MC Media is acquired by another company, information about Morning Consult’s visitors may be among the transferred assets.
 
