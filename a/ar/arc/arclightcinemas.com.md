@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arclightcinemas.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084041id_/https%3A//www.arclightcinemas.com/learn-more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arclightcinemas.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004939id_/https%3A//www.arclightcinemas.com/learn-more/privacy-policy) for the most accurate reproduction.*
 
 # Learn More | Privacy Policy - ArcLight Cinemas
 
@@ -34,7 +34,7 @@ ArcLightCinemas.com may also contain links to other web sites and advertising. T
 
 ArcLightCinemas.com reserves the right to change or modify this Privacy Policy in its discretion at any time without notice to the users of our site, except that ArcLightCinemas.com will post the changed or modified Privacy Policy on our site as soon as practicable as such changes or modifications are implemented.
 
-## Enjoy member only savings, events and many more benefits for only $15 annually.
+Are you sure you want to stop your membership from auto-renewing?
 
 *First Name
 
@@ -62,22 +62,84 @@ I would like to receive exclusive member offers and information on the latest ha
 
 *Zip Code
 
-Yes, I want to sign up for the new ArcLight Membership. [Learn more](https://web.archive.org/membership)
+Yes, I want to sign up for ArcLight Membership. [Learn more](https://web.archive.org/membership)
 
-3D 
+Please update your account with your preferred ArcLight location
+
+You may use a saved card or enter a new one below
+
+*Cardholder's Name  
+
+
+*Card Type  
+
+
+*Credit Card Number  
+
+
+*Expiration  
+
+
+*CVV   
+
+
+*Billing Zip Code  
+
+
+Save this card
+
+Save as Primary Card
+
+Name this Credit Card 
+
+A credit card is required for gift card transactions. Why?
+
+Gift card number
+
+PIN 
+
+Gift card number
+
+PIN
+
+Gift card number
+
+PIN
+
+Gift card number
+
+PIN
+
+##### Auto-Renew
+
+Auto-renew my membership annually
+
+3D
 
 This is a 3D showing
 
-WS 
+WS
 
 Presented in ArcLight Wide Screen
 
-21+ 
+21+
 
 Each guest must be over 21 years old and have a valid ID
 
-DOME 
+DOME
 
 This is a Dome showing
+
+35mm
+
+This is a 35mm showing
+
+70mm
+
+This is a 70mm showing
+
+ATMOS
+
+This is an ATMOS showing
 
 Sorry, this showing is sold out
