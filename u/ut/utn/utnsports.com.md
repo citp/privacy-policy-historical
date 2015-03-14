@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utnsports.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225204504id_/http%3A//utnsports.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utnsports.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315003255id_/http%3A//utnsports.com/privacy_policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | UTN Sports
+# PRIVACY POLICY
 
 Universal Takeover Sports Network  knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -58,4 +58,4 @@ If you decide to visit Universal Takeover Sports Network website, your visit an
 
 Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of September 26, 2013 and last updated September 26, 2013. 
+This Privacy Policy is effective as of September 26, 2013 and last updated September 26, 2013.
