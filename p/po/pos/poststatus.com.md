@@ -1,100 +1,117 @@
-> *The following text is extracted and transformed from the poststatus.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poststatus.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314124336id_/https%3A//poststatus.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Post Status
 
-**Go Daddy Respects Your Privacy**
+### Introduction
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Under Vulcan, LLC (“Company”, “we”, “us”, or “Post Status”) respects your privacy and is committed to protecting it through our compliance with this policy.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This policy (together with our [Terms of Use](https://poststatus.com/website-terms/ "Website Terms") and any other documents referred to in it) describes the personal information that we collect from you, or that you provide on this website http://poststatus.com/ (or “Website”) and how that information may be used or disclosed by us.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This policy does not apply to information we collect through any other means, or to] information collected on any other Company, affiliate, or third-party site, or by any third-party application that may link to or be accessible from the Website.
 
-**Information Collection and Use**
+Please read the following carefully to understand our policies and practices regarding your personal information and how we will treat it. By using or accessing the Website, you agree to this privacy policy. This policy may change from time to time and your continued use of the Website is deemed to be acceptance of such changes, so please check the policy periodically for updates.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+### Children Under The Age of 13
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to us, including your name, address, telephone number or e-mail address. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us at brian@poststatus.com.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+### Information We Collect About You
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We collect several types of information from and about users of our Website, including:
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+  * Information you provide to us.
+  * Information we collect as you navigate through the site, including usage details, IP addresses, and cookies and web beacons.
+  * Information we receive from third parties, for example, our business partners.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
+### Information You Provide To Us
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We may collect and use the following information that you provide to us:
 
-**Updating Your Information**
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website;
+  * Records and copies of your correspondence (including e-mail addresses and text messages), if you contact us;
+  * Your responses to surveys that we might ask you to complete for research purposes, although you do not have to respond to them; and
+  * Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### Usage Details, IP Addressess and Cookies / Cookies and Web Beacons
 
-      iii.      You may call us at: (480) 505-8800
+**Usage Details and IP Addresses.  **As you navigate through the Website, we may also collect details of your visits to our Website, including, but not limited to, traffic data, location data, logs and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access, as well as information about your computer and internet connection, including, without limitation, your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ equipment, browsing actions and patterns, and does not identify any individual.
 
-       iv.      You may fax us at: (480) 505-8844
+**Cookies.  **For the same reason, we may obtain information about your general internet usage by using cookies. A cookie is a small file stored on the hard drive of your computer. Use of cookies helps us to improve our Website and to deliver a better and more personalized service by enabling us to:
 
-**Sending Emails**
+  * Estimate our audience size and usage patterns;
+  * Store information about your preferences, allowing us to customize our Website according to your individual interests;
+  * Speed up your searches; and
+  * Recognize you when you return to our Website.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
+You may refuse to accept cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**Web Beacons.  **Pages of our Website may contain electronic images known as web beacons (also referred to as single-pixel gifs) that permit the Company to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). Web beacons are not used to access your personal information on the Website and are only used to compile aggregated statistics concerning use of the Website.
 
-**Third Party Service Providers**
+**Third-Party Advertiser Use of Cookies and Web Beacons.** Some advertisements on the Website may be served by third-party advertising companies. Please note that our advertisers may also use cookies [alone or in conjunction with web beacons or other tracking technologies] to collect information about our users. We do not have control over third-party advertisers’ cookies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly. We do not collect personally identifiable information automatically, but we may tie this information to your previously submitted personally identifiable information.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+### User Contributions
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+You are responsible for any content, including personal information, that you contribute to be published or displayed (hereinafter, “posted”) on our Website, or transmit to other users of our Website (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to other users of our Website at your own risk. Although we limit access to certain pages/you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on our Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on our Website, including User Contributions, is governed by our [Terms of Use](https://poststatus.com/website-terms/ "Website Terms") and known or suspected violations should be reported to or write to us at brian@poststatus.com.
 
-**Supplementation of Information**
+### Uses Made of the Information
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We use information that we collect about you or that you provide to us, including any personal information, in the following ways:
 
-**Contests/Surveys**
+  * To present our Website and its contents in a suitable and effective manner for you and for your computer;
+  * To provide you with information, products or services that you request from us;
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us;
+  * To notify you about changes to our service; or
+  * To allow you to participate in interactive features of our service, when you choose to do so.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
+We may also use your information to contact you about goods and services that may be of interest to you where you have consented to be contacted for such purposes. If you do not want us to use your information in this way, or to provide your information to third parties for marketing purposes, please check the relevant box located on the form on which we collect your data (the order form/registration form).
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We do not disclose your personally identifiable information to our advertisers, but we may provide them with aggregated information about our users (for example, we may report to them that 500 men aged under 30 clicked on their advertisement on a given day). We may also use such aggregated information to help advertisers reach the kind of audience they want to target. We may make use of the personal information we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience. Even though we only disclose aggregate information that is not personally-identifiable to advertisers without your consent, when you click on or otherwise interact with an advertisement there is a possibility that the advertiser may assume that you meet the target criteria they selected.
 
-**What Happens to my Personal Information if I Opt Out?**
+Disclosure of your information
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We may disclose personal information that you provide via our Website to the following third parties:
 
-**Transfer of Data Abroad**
+  * Our subsidiaries and affiliates;
+  * Contractors and service providers we use to support our business;
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-**Changes in Our Practices**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+In the event of merger, acquisition, or any form of sale of some or all of the Company’s assets.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+We may also disclose your personal information to third parties to:
 
-**Contacting Our Site**
+  * Comply with any court order or other legal obligation;
+  * Enforce or apply our [Terms of Use](https://poststatus.com/website-terms/ "Website Terms") and other agreements; and
+  * Protect the rights, property, or safety of Under Vulcan, LLC, our customers, or others. This includes exchanging information with other companies, organizations, or law enforcement for the purposes of fraud protection and credit risk reduction.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-* * *
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+### Choices About How We Use And Disclose Your Information
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+**Cookies.** If you do not wish us to collect cookies, you may set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of this site may then be inaccessible or not function properly.  
+**Promotional Offers from the Company.** If you do not wish to have your e-mail address used for promotional purposes by the Company, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form) or you can opt-out of the email. If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
+
+**Personalized Advertising.** If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form).
+
+You should review this privacy policy carefully, if you do not agree with our practices, your ultimate choice is not to use our Website. Remember, by using any part of the Website, you accept and agree to our Privacy Policy and our Terms of Use. If we update this Privacy Policy, your continued use of the Website (following the posting of the revised Privacy Policy) means that you accept and agree to the terms of the revised Privacy Policy.
+
+### Data Security
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website. Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk.
+
+### Changes To Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to this privacy policy, we will notify you by e-mail or through a notice on our home page. The date the privacy policy was last revised is identified at the top of the page.
