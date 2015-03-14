@@ -1,784 +1,1011 @@
-<!--The following is the downloaded HTML source of the autoplicity.com privacy policy that was archived on 2014-08-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140810110400id_/http%3A//autoplicity.com/topic/4-privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autoplicity.com privacy policy that was archived on 2015-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150314232826id_/http%3A//autoplicity.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=315664018490777"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"9186efa75c","applicationID":"2001508","transactionName":"YQNRNRZRVxIEUxFcC1hJcjI0H00OFVkGGwVFFks=","queueTime":0,"applicationTime":30,"ttGuid":"8005CAB7F6302B18","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwYGVlZaGwEAVFBXBwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
- 
-<script>
-		function utmx_section() { } function utmx() { } (function () {
-			var k = '48137090-21', d = document, l = d.location, c = d.cookie;
-			if (l.search.indexOf('utm_expid=' + k) > 0) return;
-			function f(n) { if (c) { var i = c.indexOf(n + '='); if (i > -1) { var j = c.indexOf(';', i); return escape(c.substring(i + n.length + 1, j < 0 ? c.length : j)) } } } var x = f('__utmx'), xx = f('__utmxx'), h = l.hash; d.write(
-				'<sc' + 'ript src="' + 'http' + (l.protocol == 'https:' ? 's://ssl' :
-					'://www') + '.google-analytics.com/ga_exp.js?' + 'utmxkey=' + k +
-					'&utmx=' + (x ? x : '') + '&utmxx=' + (xx ? xx : '') + '&utmxtime=' + new Date().
-						valueOf() + (h ? '&utmxhash=' + escape(h.substr(1)) : '') +
-					'" type="text/javascript" charset="utf-8"><\/sc' + 'ript>')
-		})();
-	</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=48137090-21&amp;utmx=&amp;utmxx=&amp;utmxtime=1580478124063" type="text/javascript" charset="utf-8"></script>
- 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-Privacy policy
-</title><meta name="description" content="Autoplicity.com for all your aftermarket auto part needs, free shipping on most orders"><meta name="keywords" content="aftermarket auto parts TJOOS-18979399"><meta http-equiv="content-language" content="en-US"><link rel="Stylesheet" type="text/css" href="../App_Themes/darkBlue/styles.css?v=9"><link rel="Stylesheet" type="text/css" href="../App_Themes/darkBlue/reset.css?v=6"><link rel="stylesheet" href="../App_Themes/darkOrange/jquery-ui.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script type="text/javascript" src="/Scripts/common.js?v=6"></script>
-<script type="text/javascript">		var _sf_startpt = (new Date()).getTime()</script>
-<script type="text/javascript" src="/Scripts/jquery-ui.js"></script>
-<script type="text/javascript" src="/Scripts/jquery.cookie.js"></script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"9186efa75c","applicationID":"2001508","transactionName":"YQNRNRZRVxIEUxFcC1hJdw4QflwVJl8LQRZZCl8EFh9tDhVZBhowWRZaAiBVTQAMXBY=","queueTime":0,"applicationTime":247,"ttGuid":"69A92F3670AEA915","agent":"js-agent.newrelic.com/nr-593.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwYGVlZaGwEAVFBXBwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+    <title>Privacy policy. Autoplicity.com | Discount Performance and OEM Auto Parts, 100% In Stock</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    
+    
+    
+    
+    <link href="/Content/all.min.css?v=16" rel="stylesheet" type="text/css">
 
-  ga('create', 'UA-24487957-1', 'autoplicity.com');
-  ga('send', 'pageview');
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="/Scripts/all.min.js?v=16" type="text/javascript"></script>
 
-</script>
-<script type="text/javascript">
-		function AmazonPopup(pageUrl, title, w, h) {
-			var left = (screen.width / 2) - (w / 2);
-			var top = (screen.height / 2) - (h / 2);
-			window.open(pageUrl, "", "toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=no,width=" + w + ",height=" + h + ",top=" + top + ",left=" + left);
-		}
-	</script>
-<script type="text/javascript">
-        window.onAmazonLoginReady = function () {
-            amazon.Login.setClientId('amzn1.application-oa2-client.c37181c3aa4e4f4e8f1635fc5939767c');
-            amazon.Login.setUseCookie(true);
-        };
-    </script>
-<script type="text/javascript" src="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js?sellerId=A2PF69HPY6AR3D"></script>
-<meta name="google-translate-customization" content="617c7d02423e31b7-020a8ade333dd398-gacb5e1128955d2e0-f"><link href="../App_Themes/darkBlue/affilate.css" type="text/css" rel="stylesheet"><link href="../App_Themes/darkBlue/forum.css" type="text/css" rel="stylesheet"><link href="../App_Themes/darkBlue/galleria/themes/classic/galleria.classic.css" type="text/css" rel="stylesheet"><link href="../App_Themes/darkBlue/landing_styles.css" type="text/css" rel="stylesheet"><link href="../App_Themes/darkBlue/prettyPhoto.css" type="text/css" rel="stylesheet"><link href="../App_Themes/darkBlue/profile.css" type="text/css" rel="stylesheet"><link href="../App_Themes/darkBlue/reset.css" type="text/css" rel="stylesheet"><link href="../App_Themes/darkBlue/styles.css" type="text/css" rel="stylesheet">
- 
- 
+    
+    
+    
+<link rel="shortcut icon" href="http://autoplicity.com/favicon.ico">
+    
+    
+    <script type="text/javascript" src="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js?sellerId=A2PF69HPY6AR3D"></script>
+    <link href="//t.p.mybuys.com/clients/AUTOPLICITY/css/styles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
+    <script type="text/javascript" src="//t.p.mybuys.com/js/mybuys4.js"></script>
+    <script type="text/javascript" src="//t.p.mybuys.com/clients/AUTOPLICITY/js/setup.js"></script>
 </head>
-<body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
- 
-<script type="text/javascript">
-	            var google_tag_params = {
-		            ecomm_prodid: '',
-		            ecomm_pagetype: 'siteview',
-		            ecomm_totalvalue: ''
-	            };
-            </script>
-<script type="text/javascript">
-	    var google_conversion_id = 1002887655;
-	    var google_custom_params = window.google_tag_params;
-	    var google_remarketing_only = true;
-    </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-	    </script>
-<noscript>
-<div style="display: inline;">
-<img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1002887655/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
- 
- 
-<script type="text/javascript">
+    <body>
+        <div id="loadScreen" style="display: none"></div>
+        
+
+        <script type="text/javascript">
+            var google_tag_params = {
+                ecomm_prodid: '',
+                ecomm_pagetype: 'other',
+                ecomm_totalvalue: '',
+            };
+        </script>
+    <script type="text/javascript">
         /* <![CDATA[ */
-	    var google_conversion_id = 1006601663;
-	    var google_custom_params = window.google_tag_params;
-	    var google_remarketing_only = true;
-    /* ]]> */
+        var google_conversion_id = 1002887655;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
     </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006601663/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
- 
-<div class="boxed">
-<div id="fb-root">
-</div>
-<script type="text/javascript">
-			(function (d, s, id) {
-				var js, fjs = d.getElementsByTagName(s)[0];
-				if (d.getElementById(id)) return;
-				js = d.createElement(s); js.id = id;
-				js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=315664018490777";
-				fjs.parentNode.insertBefore(js, fjs);
-			} (document, 'script', 'facebook-jssdk'));
-		</script>
-<form name="aspnetForm" method="post" action="4-privacy-policy.aspx" id="aspnetForm">
-<div>
-<input type="hidden" name="ctl00_ctl00_sm1_HiddenField" id="ctl00_ctl00_sm1_HiddenField" value="">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="">
-</div>
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-if (!theForm) {
-    theForm = document.aspnetForm;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-<script src="/WebResource.axd?d=7vOvinythFP84PcTjivH6wdvNchUo647WhxGeMSeDNEzuwMG8oKJ6fYzR4mpSgqaiiuor1QmJz7FUemyeHh1vrPhZjg1&amp;t=635195625120000000" type="text/javascript"></script>
-<script src="http://autoplicity.com/Scripts/public.js" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=UvM0DF9M7-EI_KUkvsDcJsUpjTjxQFMl12yuuT634AXxPF6KYM5H4iYZy7umPFYjyMQLclR6K1vny4dDv-t3Gmjp8X7bpGEJmQ-MG9RHSAJF4mtTielG--U7ToEVITvisc6ovQ2&amp;t=f2cd5c5" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=ruDlf1PJtBUVNESLKTGr85s1-Zso6ZnNeh3jHPzii2r6nksDNwRitYv8PE6GP6MbCsh9g8U8Y4VPuf6i_sozDgAEfvmJAHH301ym7PROIgqmz-dIeYnnyI27JY5UmZde74EcFg2&amp;t=f2cd5c5" type="text/javascript"></script>
-<script src="/topic/4-privacy-policy.aspx?_TSM_HiddenField_=ctl00_ctl00_sm1_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3aacfc7575-cdee-46af-964f-5d85d9cdcf92%3ade1feab2%3af9cec9bc%3aa67c2700%3af2c8e708%3a8613aea7%3a3202a5a2%3aab09e3fe%3a87104b7c%3abe6fb298" type="text/javascript"></script>
-<script type="text/javascript">
-			window.mobilecheck = function () {
-				var check = false;
-				(function (a) { if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4))) check = true; })(navigator.userAgent || navigator.vendor || window.opera);
-				return check;
-			};
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1002887655/?value=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
 
-			$(document).ready(function () {
-				if (AP_GetCookie('AP_WelcomeCouponSignUp') == null) {
-					if (window.mobilecheck() == true) {
-						return;
-					}
 
-					setTimeout(function () {
-						ShowPopUp();
-					}, 5000);
-				}
-			});
-			function AP_CloseWelcomePopup() {
-				var dateExpires = new Date();
-				dateExpires.setDate(dateExpires.getDate() + 14);
-				BWD_SetCookie("AP_WelcomeCouponSignUp", "1", dateExpires);
-				$find('ctl00_ctl00_mpeWelcome').hide();
-				return false;
-			}
-			function ShowPopUp() {
-				if (AP_GetCookie('AP_WelcomeCouponSignUp') == null) {
-				    $find('ctl00_ctl00_mpeWelcome').show();
-				}
-			}
-		</script>
-<div class="bodydiv">
-<script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$sm1', 'aspnetForm', ['tctl00$ctl00$ctrlHeader$UpdatePanel1','','tctl00$ctl00$ctrlHeader$ShopByVehicle$UpdatePanel1','','tctl00$ctl00$ctrlHeader$ShopByVehicle$UpdatePanel3','','tctl00$ctl00$cph1$UpdatePanel2',''], [], [], 90, 'ctl00$ctl00');
-//]]>
-</script>
-<div id="header">
-<a href="http://autoplicity.com/" title="" id="logo">
-</a>
-<div class="rightnav">
-<div class="rightnavtop">
-<div class="rightnavblack">
-<div class="borderrightnavblack"><div class="carticon"></div>
-<div><span id="ctl00_ctl00_ctrlHeader_ctrlMiniShoppingCartBox_lShoppingCart">You have no items in your cart</span></div>
+<div id="dialog-notifications-success" title="Notification" style="display:none;">
 </div>
-<div class="borderrightnavblack" style="border-right:none;">
-<a href="../ShoppingCart.aspx" title="">Edit Cart</a>
+<div id="dialog-notifications-error" title="Error" style="display:none;">
 </div>
+<div id="bar-notification" class="bar-notification">
+    <span class="close" title="Close">&nbsp;</span>
 </div>
- 
-<div id="google_translate_element"></div>
-<script type="text/javascript">
-						    function googleTranslateElementInit() {
-						        new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-41014613-1' }, 'google_translate_element');
-						    }
-						</script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
- 
-<div class="rightnavblack">
-<div class="borderrightnavblack"><div class="headerregistericon"></div><div class="registertext"><a href="/register.aspx">Register</a></div></div>
-<div class="borderrightnavblack"><div class="headerlogin"></div><div><a href="/login.aspx">Log in</a></div></div>
-<div class="borderrightnavblack"><div style="margin-left:10px;"><a href="/checkorder.aspx">Check Order</a></div></div>
-</div>
-<div class="clear">
-</div>
-<script type="text/javascript">
-                var logOutBtn = document.getElementById('Logout');
-                if (typeof (logOutBtn) != 'undefined' && logOutBtn != null)
-                {
-                    logOutBtn.onclick = function () {
-                        amazon.Login.logout();
-                    };
-                }
+
+
+
+
+<div class="master-wrapper-page">
+    
+    <div class="master-wrapper-content">
+        <script type="text/javascript">
+            AjaxCart.init(false, '#cart-qty', '.header-links .wishlist-qty', '#flyout-cart');
+        </script>
+        
+
+<div class="header">
+    
+    <div class="header-logo">
+        <a href="/">
+            <img title="" alt="Autoplicity.com" src="/Themes/Autoplicity/Content/images/logo.gif">
+        </a>
+    </div>
+    <div class="header-logoblock">
+        <div class="header-logo2">
+            <ul>
+                <li>
+                    <a href="/">
+                        <img title="" alt="Autoplicity.com" src="/Themes/Autoplicity/Content/images/logo2.png">
+                    </a>
+                </li>                
+                <li>
+                    <div class="headericon">
+                        <div><div class="bestprice"></div>
+                          <span>Best Price<br> Guarantee</span>
+                        </div>
+                       
+                        <div class="headericon_2">
+                            <div class="fitmentguarantee"></div>
+                          <span>Autoplicity Fitment<br> Guarantee</span>
+                        </div>
+                        <div class="headericon_2">
+                            <div class="fastship"></div>
+                            <span>Fast Ship <br>Times</span>
+                        </div>
+                    </div>
+                    <div class="homepagegarantebanner">  
+                    </div>
+                </li>
+               
+            </ul>
+        </div>
+    </div>    
+        
+<ul class="header-links">
+    
+    <!-- <div class="header-selectors-wrapper">-->
+    <li>
+        <div class="tax-display-type-selector">
+            
+        </div>
+    </li>
+    <li>
+        <div class="currency-selector">
+            
+        </div>
+    </li>
+    <li>
+        <div class="language-selector">
+            
+        </div>
+        
+    </li>
+    <!--</div>-->
+    
+            <li><a href="/customer/info" class="account" rel="nofollow">builtin@search_engine_record.com</a></li>
+        <li><a href="/logout" id="Logout" class="ico-logout" rel="nofollow">Log out</a></li>
+    <li><div class="phone"></div><span class="headerphone">800-299-1028</span></li>
+</ul>
+<div class="mob-rightheader">
+    <div class="mobile-header-block">
+            <div id="mobile-header-links" class="mobile-header-links">
+                <a id="mob-header-links-button" class="mob-header-links-button"></a>
+                <ul class="mob-header-links-menu">
+                    
+                    <!-- <div class="header-selectors-wrapper">-->
+                    <li class="tax-display-type-selector">
+                        <div>
+                            
+                        </div>
+                    </li>
+                    <li class="currency-selector">
+                        <div>
+                            
+                        </div>
+                    </li>
+                    <li class="language-selector">
+                        <div>
+                            
+                        </div>
+                        
+                    </li>
+                    <!--</div>-->
+                    
+                                            <li><a href="/customer/info" class="account" rel="nofollow">builtin@search_engine_record.com</a></li>
+                        <li><a href="/logout" id="Logout" class="ico-logout" rel="nofollow">Log out</a></li>
+                    <li><div class="phone"></div><span class="headerphone">800-299-1028</span></li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+                $('#mob-header-links-button').toggle(function () {
+                        $('.mob-header-links-menu').addClass('show');
+                    },
+                    function () {
+                        $('.mob-header-links-menu').removeClass('show');
+                    }
+                );
             </script>
-</div>
-<div class="rightnavbottom">
-<div class="form">
-<ul>
-<li><input name="ctl00$ctl00$ctrlHeader$ctrlHeaderMenu$ctrlSearchBox$txtSearchTerms" type="text" id="ctl00_ctl00_ctrlHeader_ctrlHeaderMenu_ctrlSearchBox_txtSearchTerms" class="textBox" value="" onclick="if(this.value == 'Enter keyword or part #') { this.value = ''; }" onfocus="if(this.value=='Search store')this.value=''" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('ctl00_ctl00_ctrlHeader_ctrlHeaderMenu_ctrlSearchBox_butSearch').click();return false;}} else {return true}; "></li>
-<li><a id="ctl00_ctl00_ctrlHeader_ctrlHeaderMenu_ctrlSearchBox_butSearch" class="sprite-searchBtn" href="javascript:__doPostBack('ctl00$ctl00$ctrlHeader$ctrlHeaderMenu$ctrlSearchBox$butSearch','')">SEARCH</a></li>
-</ul>
-</div>
-<div class="phone"><div class="phoneicon"></div><span class="blue">800-299-1028</span></div>
-</div>
-</div>
-</div>
-<div class="headeradvertising">
-<ul>
-<li><div class="advertisingicon1"></div><span>Best Price Guarantee</span></li>
-<li><div class="advertisingicon2"></div><span>Autoplicity Fitment Guarantee</span></li>
-<li><div class="advertisingicon3"></div><span>Fast Ship Times</span></li>
-</ul>
-</div>
-<div class="clear">
-</div>
-<div class="navigation">
-<ul>
-<li><a href="../category/7-aftermarket-performance-auto-parts.aspx" title="" class="pe">
-<span class="perf"></span>Performance </a>
-<ul>
-<li><a href="../category/8-exhaust.aspx">Exhaust</a></li>
-<li><a href="../category/19-air-intakes-filters.aspx">Air Intakes &amp; Filters</a></li>
-<li><a href="../category/15-engine-parts.aspx">Engine Parts</a></li>
-<li><a href="../category/21-ignition-system.aspx">Ignition System</a></li>
-<li><a href="../category/409-maintenance-and-tune-up.aspx">Maintenance and Tune Up</a></li>
-<li><a href="../category/65-fuel-system.aspx">Fuel System</a></li>
-<li><a href="../category/26-computer-tuning.aspx">Computer Tuning</a></li>
-<li><a href="../category/10-cooling-system.aspx">Cooling System</a></li>
-<li><a href="../category/595-throttle-bodies-spacers.aspx">Throttle Bodies &amp; Spacers</a></li>
-<li><a href="../category/185-superchargers-nitrous.aspx">Superchargers &amp; Nitrous</a></li>
-<li><a href="../category/261-performance-packages.aspx">Performance Packages</a></li>
-<li><a href="../category/191-heating-and-air-conditioning.aspx">Heating and Air Conditioning</a></li>
-</ul>
-</li>
-<li><a href="../category/5-suspension-parts-kits.aspx" title="" class="su"><span class="susp"></span>Suspension </a>
-<ul>
-<li><a href="../category/6-shocks-struts.aspx">Shocks &amp; Struts</a></li>
-<li><a href="../category/686-brake-pads-rotors-lines.aspx">Brake Pads, Rotors &amp; Lines</a></li>
-<li><a href="../category/64-bushings.aspx">Bushings</a></li>
-<li><a href="../category/52-anti-sway-bars-accessories.aspx">Anti Sway Bars &amp; Accessories</a></li>
-<li><a href="../category/592-lowering-kits-components.aspx">Lowering Kits &amp; Components</a></li>
-<li><a href="../category/80-steering-system.aspx">Steering System</a></li>
-<li><a href="../category/67-lift-kits-components.aspx">Lift Kits &amp; Components</a></li>
-<li><a href="../category/135-air-spring-kits-accessories.aspx">Air Spring Kits &amp; Accessories</a></li>
-<li><a href="../category/340-brake-accessories.aspx">Brake Accessories</a></li>
-<li><a href="../category/72-control-arms.aspx">Control Arms</a></li>
-<li><a href="../category/159-leaf-spring-accessories.aspx">Leaf Spring Accessories</a></li>
-<li><a href="../category/184-big-brake-kits.aspx">Big Brake Kits</a></li>
-<li><a href="../category/323-wheel-hubs.aspx">Wheel Hubs</a></li>
-<li><a href="../category/165-stock-height-springs.aspx">Stock Height Springs</a></li>
-<li><a href="../category/207-ball-joints.aspx">Ball Joints</a></li>
-<li><a href="../category/645-braces-chassis-stiffening.aspx">Braces &amp; Chassis Stiffening</a></li>
-</ul>
-</li>
-<li><a href="../category/1-aftermarket-automotive-body-parts.aspx" title="" class="ex">
-<span class="ext"></span>Exterior</a>
-<ul>
-<li><a href="../category/99-lighting.aspx">Lighting</a></li>
-<li><a href="../category/737-exterior-products.aspx">Exterior Products</a></li>
-<li><a href="../category/354-truck-bed-accessories.aspx">Truck Bed Accessories</a></li>
-<li><a href="../category/85-window-visors.aspx">Window Visors</a></li>
-<li><a href="../category/34-nerf-bars-running-boards.aspx">Nerf Bars &amp; Running Boards</a></li>
-<li><a href="../category/627-jeep-accessories.aspx">Jeep Accessories</a></li>
-<li><a href="../category/145-mud-flaps.aspx">Mud Flaps</a></li>
-<li><a href="../category/202-side-mirrors.aspx">Side Mirrors</a></li>
-<li><a href="../category/48-front-rear-guards.aspx">Front &amp; Rear Guards</a></li>
-<li><a href="../category/57-bug-guards-deflectors.aspx">Bug Guards &amp; Deflectors</a></li>
-<li><a href="../category/90-body-panels-hoods.aspx">Body Panels &amp; Hoods</a></li>
-<li><a href="../category/113-grilles-grille-inserts.aspx">Grilles &amp; Grille Inserts</a></li>
-<li><a href="../category/269-fender-flares.aspx">Fender Flares</a></li>
-<li><a href="../category/656-wiper-blades.aspx">Wiper Blades</a></li>
-<li><a href="../category/617-car-covers.aspx">Car Covers</a></li>
-<li><a href="../category/144-bumpers.aspx">Bumpers</a></li>
-<li><a href="../category/415-graphics-decals.aspx">Graphics &amp; Decals</a></li>
-<li><a href="../category/187-fender-trim.aspx">Fender Trim</a></li>
-<li><a href="../category/118-lexan-windows.aspx">Lexan Windows</a></li>
-<li><a href="../category/672-weatherstripping-seals.aspx">Weatherstripping &amp; Seals</a></li>
-<li><a href="../category/414-rocker-panel-covers.aspx">Rocker Panel Covers</a></li>
-<li><a href="../category/461-body-kits-components.aspx">Body Kits &amp; Components</a></li>
-<li><a href="../category/328-hood-scoops.aspx">Hood Scoops</a></li>
-</ul>
-</li>
-<li><a href="../category/35-interior-accessories.aspx" title="" class="in"><span class="int"></span>Interior</a>
-<ul>
-<li><a href="../category/445-carpet-floor-mats.aspx">Carpet &amp; Floor Mats</a></li>
-<li><a href="../category/720-interior-products.aspx">Interior Products</a></li>
-<li><a href="../category/721-mobile-electronics.aspx">Mobile Electronics</a></li>
-<li><a href="../category/92-dash-and-gauges.aspx">Dash and Gauges</a></li>
-<li><a href="../category/596-seats-seat-covers.aspx">Seats &amp; Seat Covers</a></li>
-<li><a href="../category/112-steering-wheels.aspx">Steering Wheels</a></li>
-<li><a href="../category/256-shift-knobs.aspx">Shift Knobs</a></li>
-<li><a href="../category/317-pedal-pads.aspx">Pedal Pads</a></li>
-<li><a href="../category/156-power-window-kits.aspx">Power Window Kits</a></li>
-<li><a href="../category/436-pedal-assemblies.aspx">Pedal Assemblies</a></li>
-<li><a href="../category/450-rear-side-window-shades.aspx">Rear Side Window Shades</a></li>
-<li><a href="../category/576-mirrors.aspx">Mirrors</a></li>
-<li><a href="../category/401-door-panels.aspx">Door Panels</a></li>
-</ul>
-</li>
-<li><a href="../category/12-aftermarket-wheels-rims.aspx" title="" class="wt"><span class="wheels"></span>Wheels &amp; Tires</a>
-<ul>
-<li><a href="../category/13-wheels.aspx">Wheels</a></li>
-<li><a href="../category/389-wheel-tire-accessories.aspx">Wheel &amp; Tire Accessories</a></li>
-<li><a href="../category/17-tires.aspx">Tires</a></li>
-<li><a href="../category/37-lug-nuts-studs-locks.aspx">Lug Nuts, Studs &amp; Locks</a></li>
-</ul>
-</li>
-<li><a href="../category/140-truck-automotive-winches.aspx" title="" class="tw"><span class="towing"></span>Towing &amp; Winches</a>
-<ul>
-<li><a href="../category/141-trailer-hitches.aspx">Trailer Hitches</a></li>
-<li><a href="../category/158-winches.aspx">Winches</a></li>
-<li><a href="../category/338-winch-accessories.aspx">Winch Accessories</a></li>
-<li><a href="../category/313-hitch-accessories.aspx">Hitch Accessories</a></li>
-<li><a href="../category/268-trailer-lights.aspx">Trailer Lights</a></li>
-<li><a href="../category/167-trailer-organizers.aspx">Trailer Organizers</a></li>
-<li><a href="../category/501-towing-accessories.aspx">Towing Accessories</a></li>
-<li><a href="../category/172-winch-mounts.aspx">Winch Mounts</a></li>
-<li><a href="../category/469-receiver-hitch-ball-mounts.aspx">Receiver Hitch Ball Mounts</a></li>
-</ul>
-</li>
-<li><a href="../category/31-drivetrain-systems-parts.aspx" title="" class="dr"><span class="drive"></span>Drivetrain</a>
-<ul>
-<li><a href="../category/580-clutch-kits-components.aspx">Clutch Kits &amp; Components</a></li>
-<li><a href="../category/581-differentials-ring-and-pinions.aspx">Differentials &amp; Ring
-&amp; Pinions</a></li>
-<li><a href="../category/578-shifters.aspx">Shifters</a></li>
-<li><a href="../category/535-speedometer-recalibration-devices.aspx">Speedometer Recalibrators</a></li>
-<li><a href="../category/594-transmissions-components.aspx">Transmissions &amp; Components</a></li>
-<li><a href="../category/593-driveshafts-axles.aspx">Driveshafts &amp; Axles</a></li>
-<li><a href="../category/585-transfer-cases.aspx">Transfer Cases</a></li>
-</ul>
-</li>
-<li><a href="../category/127-automotive-electrical-systems.aspx" title="" class="el">
-<span class="electric"></span>Electric</a>
-<ul>
-<li><a href="../category/599-starters-alternators-batteries.aspx">Starters, Alternators
-&amp; Batteries</a></li>
-<li><a href="../category/598-switches-switch-panels.aspx">Switches &amp; Switch Panels</a></li>
-<li><a href="../category/597-wire-wiring-accessories.aspx">Wire &amp; Wiring Accessories</a></li>
-<li><a href="../category/2756-electrical-switch-relay-parts.aspx">Electrical-Switch
-&amp; Relay Parts</a></li>
-</ul>
-</li>
-<li><a href="../category/222-garage-apparel.aspx" title="" class="ga"><span class="garage">
-</span>Tools &amp; Apparel</a>
-<ul>
-<li><a href="../category/45-apparel-safety.aspx">Apparel &amp; Safety</a></li>
-<li><a href="../category/731-car-care.aspx">Car Care</a></li>
-<li><a href="../category/530-tools.aspx">Tools</a></li>
-<li><a href="../category/579-safety-equipment.aspx">Safety Equipment</a></li>
-<li><a href="../category/510-collectibles.aspx">Collectibles</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div id="ctl00_ctl00_ctrlHeader_UpdatePanel1">
-<div id="ctl00_ctl00_ctrlHeader_ShopByVehicle_UpdatePanel1">
-</div>
-<div id="ctl00_ctl00_ctrlHeader_ShopByVehicle_updateProgress" style="display:none;">
-<div id="progressBackgroundFilter"></div>
-<div id="processMessage"> Loading...<br><br>
-<img alt="Loading" src="../images/ajax-loader.gif">
-</div>
-</div>
-<div class="divborderradius">
-<div class="sbv">
-<ul>
-<li>
-<div class="title">Shop by vehicle</div>
-</li>
-<li>
-<div style="text-align: left;    padding: 5px 5px 5px 10px;">
-</div>
-<select name="ctl00$ctl00$ctrlHeader$ShopByVehicle$ddlYear" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ctl00$ctrlHeader$ShopByVehicle$ddlYear\',\'\')', 0)" id="ctl00_ctl00_ctrlHeader_ShopByVehicle_ddlYear" style="height:30px;width:147px;">
-<option selected="selected" value="-1">Choose a Year</option>
-<option value="2014">2014</option>
-<option value="2013">2013</option>
-<option value="2012">2012</option>
-<option value="2011">2011</option>
-<option value="2010">2010</option>
-<option value="2009">2009</option>
-<option value="2008">2008</option>
-<option value="2007">2007</option>
-<option value="2006">2006</option>
-<option value="2005">2005</option>
-<option value="2004">2004</option>
-<option value="2003">2003</option>
-<option value="2002">2002</option>
-<option value="2001">2001</option>
-<option value="2000">2000</option>
-<option value="1999">1999</option>
-<option value="1998">1998</option>
-<option value="1997">1997</option>
-<option value="1996">1996</option>
-<option value="1995">1995</option>
-<option value="1994">1994</option>
-<option value="1993">1993</option>
-<option value="1992">1992</option>
-<option value="1991">1991</option>
-<option value="1990">1990</option>
-<option value="1989">1989</option>
-<option value="1988">1988</option>
-<option value="1987">1987</option>
-<option value="1986">1986</option>
-<option value="1985">1985</option>
-<option value="1984">1984</option>
-<option value="1983">1983</option>
-<option value="1982">1982</option>
-<option value="1981">1981</option>
-<option value="1980">1980</option>
-<option value="1979">1979</option>
-<option value="1978">1978</option>
-<option value="1977">1977</option>
-<option value="1976">1976</option>
-<option value="1975">1975</option>
-<option value="1974">1974</option>
-<option value="1973">1973</option>
-<option value="1972">1972</option>
-<option value="1971">1971</option>
-<option value="1970">1970</option>
-<option value="1969">1969</option>
-<option value="1968">1968</option>
-<option value="1967">1967</option>
-<option value="1966">1966</option>
-<option value="1965">1965</option>
-<option value="1964">1964</option>
-<option value="1963">1963</option>
-<option value="1962">1962</option>
-<option value="1961">1961</option>
-<option value="1960">1960</option>
-<option value="1959">1959</option>
-<option value="1958">1958</option>
-<option value="1957">1957</option>
-<option value="1956">1956</option>
-<option value="1955">1955</option>
-<option value="1954">1954</option>
-<option value="1953">1953</option>
-<option value="1952">1952</option>
-<option value="1951">1951</option>
-<option value="1950">1950</option>
-<option value="1949">1949</option>
-<option value="1948">1948</option>
-<option value="1947">1947</option>
-<option value="1946">1946</option>
-<option value="1945">1945</option>
-<option value="1944">1944</option>
-<option value="1943">1943</option>
-<option value="1942">1942</option>
-<option value="1941">1941</option>
-<option value="1940">1940</option>
-<option value="1939">1939</option>
-<option value="1938">1938</option>
-<option value="1937">1937</option>
-<option value="1936">1936</option>
-<option value="1935">1935</option>
-<option value="1934">1934</option>
-<option value="1933">1933</option>
-<option value="1932">1932</option>
-<option value="1931">1931</option>
-<option value="1930">1930</option>
-<option value="1929">1929</option>
-<option value="1928">1928</option>
-<option value="1927">1927</option>
-<option value="1923">1923</option>
-<option value="1920">1920</option>
-<option value="1910">1910</option>
-<option value="1901">1901</option>
-</select>
-</li>
-<li>
-<div style="text-align: left;    padding: 5px 5px 5px 10px; ">
-</div>
-<select name="ctl00$ctl00$ctrlHeader$ShopByVehicle$ddlMake" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ctl00$ctrlHeader$ShopByVehicle$ddlMake\',\'\')', 0)" id="ctl00_ctl00_ctrlHeader_ShopByVehicle_ddlMake" disabled="disabled">
-<option selected="selected" value="-1">Choose a Make</option>
-</select>
-</li>
-<li>
-<div style="text-align: left;    padding: 5px 5px 5px 10px;">
-</div>
-<select name="ctl00$ctl00$ctrlHeader$ShopByVehicle$ddlModel" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ctl00$ctrlHeader$ShopByVehicle$ddlModel\',\'\')', 0)" id="ctl00_ctl00_ctrlHeader_ShopByVehicle_ddlModel" disabled="disabled">
-<option selected="selected" value="-1">Choose a Model</option>
-</select>
-</li>
-<li>
-<div style="text-align: left;    padding: 5px 5px 5px 10px;">
-</div>
-</li>
-<li>
-</li>
-<li>
-<div style="text-align: left;    padding: 5px 5px 5px 10px;">
-<div id="ctl00_ctl00_ctrlHeader_ShopByVehicle_UpdatePanel3">
-</div>
-<div id="ctl00_ctl00_ctrlHeader_ShopByVehicle_updateProgress1" style="display:none;">
-<div id="progressBackgroundFilter">
-</div>
-<div id="processMessage">
-Loading...<br>
-<br>
-<img alt="Loading" src="../images/ajax-loader.gif">
-</div>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-<div class="clear">
-</div>
-</div>
-<div class="content">
-<div class="floatleft">
- 
-<div id="ctl00_ctl00_cph1_pnlCentCol" class="centCol1">
-<div class="master-wrapper-cph-3">
-<div id="ctl00_ctl00_cph1_UpdatePanel2">
-<div class="topicpage">
-<div class="page-title">
-<h1>
-Privacy policy</h1>
-</div>
-<div class="clear">
-</div>
-<div class="topicpage-body">
-<p><span style="text-decoration: underline;"><span style="font-size: large;"><strong>Autoplicity Privacy Policy</strong></span></span><br>
-The following states the Autoplicity.com policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure online shopping experience. Autoplicity can be reached by telephone at 1-800-299-1028.</p>
-<p><span style="font-size: medium;"><strong>Information we collect and how it's used</strong></span></p>
-<p><strong><span style="text-decoration: underline;">Aggregate Information</span></strong><br>
-We collect aggregate information on visits made to our pages. This information helps us improve the content of our site.</p>
-<p><strong><span style="text-decoration: underline;">Other Information We Collect</span></strong><br>
-When you purchase a product on Autoplicity.com, we ask you for the following information: name, address, phone number, e-mail address, and credit card. This information is used to process your order and if necessary, to contact you for help when we are processing an order. All information we collect is stored in a secure database.<br>
-Autoplicity also collects e-mail addresses voluntarily to inform our customers that we received the order.</p>
-<p><strong>About Children (Under 18)</strong><br>
-For their protection, we ask that children do not submit information to us without the consent of a parent or guardian.</p>
-<p><strong>Secure Shopping</strong><br>
-We use GoDaddy as our SSL (Secure Socket Layer) digital certificate provider, providing our customers the strongest certificate services available up to 256bit encription. Your credit card information is encrypted while traveling the Internet.</p>
-<p><strong><span style="text-decoration: underline;">Disclosure of Information Policy</span></strong><br>
-We never make your e-mail address available to any other company or organization.<br>
-If you have supplied us with your postal address, we do not share your name and address with any companies.</p>
-<p><strong><span style="text-decoration: underline;">Need to make a change?</span></strong><br>
-If you would like to change any of your transactional information in our database please feel free to contact us. You'll find our phone number and address at the top of this page. <br>
-<br>
-<strong><span style="text-decoration: underline;">Public Forums</span></strong><br>
-This site makes chat rooms, forums, message boards, and/or news groupsavailable to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.<br>
-<strong><br>
-<span style="text-decoration: underline;">Links to Other Sites</span></strong><br>
-This site may contain links to other sites. It is not responsible for the privacy practices or the content of such Web sites.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="rightCol">
-<div class="clear">
-</div>
-<div class="block first">
- 
-<div align="center" style="display:none;">
-<img src="../images/logos/gco.png" alt="" class="mt10 mb10">
-</div>
-<div align="center" class="business-sprite">
-<a class="sprite-bbba" href="http://www.bbb.org/chicago/business-reviews/auto-parts-and-supplies-new/autoplicitycom-in-morton-grove-il-88434610" target="_blank"></a>
-<div align="center" class="sprite-dealer"></div>
-<div align="center" class="wholesale-prices" style="padding: 0;"> </div>
-</div>
-<div align="center">
-<span id="siteseal">
-<script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=DeufRdAub7A6vmLd8TUTYqcAUq1taJv5EB1fQGBVXIfIOxyhTal7PooMpc"></script>
-<a style="font-family: arial; font-size: 9px" href="https://www.godaddy.com/ssl/ssl-certificates.aspx" target="_blank">
-</a>
-</span>
-</div>
-<div align="center">
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="ReviewWidget" width="160" height="139" codebase="https://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
-<param name="quality" value="high">
-<param name="bgcolor" value="#fcfcfc">
-<param name="wmode" value="opaque">
-<param name="allowScriptAccess" value="sameDomain">
-<param name="FlashVars" value="feed=https%3A%2F%2Fwidget.resellerratings.com%2Fwidget_snippet.php%3Fseller_id%3D37832">
-<embed src="https://widget.resellerratings.com/images/ReviewWidget.swf" quality="high" bgcolor="#fcfcfc" width="160" height="139" name="ReviewWidget" align="middle" play="true" loop="false" allowscriptaccess="sameDomain" wmode="opaque" type="application/x-shockwave-flash" pluginspage="https://www.adobe.com/go/getflashplayer" flashvars="feed=https%3A%2F%2Fwidget.resellerratings.com%2Fwidget_snippet.php%3Fseller_id%3D37832">
-</object>
-</div>
-</div>
-<h5>Testimonial</h5>
-<div class="testimonial">
-<div class="body">WHOA!!!! Best price around! I ordered on a Friday night and had the items the following Tuesday! You can't beat that with a wooden spoon!!! Autoplicity HAS been bookmarked for future orders. They are the Crutchfield of auto parts!</div>
-<span class="who">
-<span class="person">- J.Matthews, IL </span>
-</span>
-</div>
-<div class="testimonial">
-<div class="body">Excellent service with the actual stock on hand, shipment was made the next day and a tracking number was provided. I have tried 2 other online supply stores which don't know what they have in stock.</div>
-<span class="who">
-<span class="person">- R.Jacobson, MA </span>
-</span>
-</div>
-<div class="testimonial">
-<div class="body">There's been no one on the net with better prices and discounts. They have everything I'm looking for and the free shipping only takes two days to get to me. It doesn't get any better than this!</div>
-<span class="who">
-<span class="person">- K. Snorslowski, GA </span>
-</span>
-</div>
-<div class="clear">
-</div>
-</div>
-</div>
-</div>
-<div id="footer" class="footer">
-<div class="footerborder"></div>
-<div class="container">
-<div class="footersocial">
- 
-<div><a href="https://www.facebook.com/Autoplicity" target="_blank"><div class="footerfacebookicon"></div><div>Like us on<br><h4>Facebook</h4></div></a></div>
- 
-<div class="footerphone"><h4>Have a question? Call 1.800-299-1028</h4></div>
-</div>
-<div class="line clear"></div>
-<ul class="bottomNav">
-<li><h4>Autoplicity Network</h4></li>
-<li><a href="/" title="">Home</a></li>
-<li><a href="/topic/6-about-us.aspx" title="">About</a></li>
-<li><a href="/topic/1-.aspx" title="">Contact Us</a></li>
-<li><a href="/Affilate.aspx" title="">Affiliate</a></li>
-<li><a href="/topic/3-conditions-of-use.aspx" title="">Return Policy</a></li>
-<li><a href="/topic/4-privacy-policy.aspx" title="">Privacy Policy</a></li>
-<li><a href="/topic/13-coupon-code-and-promo-code-list.aspx" title="">Coupon Codes</a></li>
-<li><a href="/ShopByProductRange.aspx" title="">Sitemap</a></li>
-<li><a href="/topic/20-press.aspx" title="Autoplicity Press">Autoplicity Press</a></li>
-<li><a href="/topic/41-cars.aspx" title="">Cars</a></li>
-</ul>
-<ul class="bottomNav">
-<li><h4>Shop</h4></li>
-<li><a href="/manufacturers.aspx" title="">Shop by Brand</a></li>
-</ul>
-<ul class="bottomNav">
-<li><h4>My Account</h4></li>
-<li><a href="/Account.aspx" title="">My Account</a></li>
-<li><a href="/Account.aspx?tab=orders" title="">Order Status</a></li>
-<li><a href="/topic/1-.aspx" title="">Account Help</a></li>
-</ul>
-<div class="footermailtextboxblock">
-<div class="footermail">
-<div class="footermailicon"></div>Enter your email to receive<br>an instant discount:
-</div>
-<div class="footermailtextbox">
-<input name="ctl00$ctl00$ctrlFooter$txtFooterEmail" type="text" id="ctl00_ctl00_ctrlFooter_txtFooterEmail" class="textBox">
-<div class="footermailtextboxdiv"><input type="submit" name="ctl00$ctl00$ctrlFooter$btFooterSubmit" value="Submit" id="ctl00_ctl00_ctrlFooter_btFooterSubmit" class="footerSubmit pie_focus"></div>
-</div>
-</div>
-<div class="line clear"></div>
-<div class="footerbootomdiv">
-<span class="copyright">
-Copyright © 2014 Autoplicity.com. All rights reserved.</span>
-<div style="margin-left:575px;">
-</div>
-<div class="cards">
-<ul>
-<li class="discover"></li>
-<li class="visa"></li>
-<li class="mc"></li>
-<li class="ae"></li>
-<li class="pp"></li>
-<li class="ve"></li>
-</ul>
-</div>
-<div class="clear"></div></div>
-</div>
-<div class="footer-storetheme">
-</div>
-</div>
-<input type="hidden" name="ctl00$ctl00$hidden" id="ctl00_ctl00_hidden">
-<input type="submit" name="ctl00$ctl00$btnShowWelcomePopUp" value="" id="ctl00_ctl00_btnShowWelcomePopUp" style="display: none;">
-<div id="ctl00_ctl00_pnlWelcome" class="welcomemodalPopup" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_btnWelcomeSignUp')" style="display: none;">
-<div>
-<span style="float: right;">
-<a onclick="return AP_CloseWelcomePopup();" id="ctl00_ctl00_lbtnCloseWelcome" class="closebutton" href="javascript:__doPostBack('ctl00$ctl00$lbtnCloseWelcome','')" style="display:inline-block;height:23px;width:23px;"></a>
-</span>
-</div>
-<div style="margin-top: 180px;">
-<table cellpadding="5" cellspacing="5">
-<tbody><tr>
-<td style="width: 80px;">
-<b>
-Email:</b>
-</td>
-<td class="welcomeemail">
-<input name="ctl00$ctl00$txtWelcomeEmail" type="text" id="ctl00_ctl00_txtWelcomeEmail" class="textBox">
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<i>Thank you for joining the Autoplicity Newsletter</i>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td valign="middle">
-<input type="submit" name="ctl00$ctl00$btnWelcomeSignUp" value="SIGN UP" id="ctl00_ctl00_btnWelcomeSignUp" class="welcomeBtn">
-</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-<img id="ctl00_ctl00_imgKlaviyo" src="" style="border-width:0px;">
-<div id="ctl00_ctl00_pnlCoupon" class="welcomemodalPopupcoupon" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_btnWelcomeSignUp')" style="display: none;">
-<div>
-<span style="float: right;">
-<a id="ctl00_ctl00_lbtnCloseCoupon" class="closebutton" href="javascript:__doPostBack('ctl00$ctl00$lbtnCloseCoupon','')" style="display:inline-block;height:23px;width:23px;"></a>
-</span>
-</div>
-</div>
-<script type="text/javascript">
-//<![CDATA[
-(function() {var fn = function() {$get("ctl00_ctl00_sm1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
-    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_ctl00_ctrlHeader_ShopByVehicle_UpdatePanel1","displayAfter":500,"dynamicLayout":true}, null, null, $get("ctl00_ctl00_ctrlHeader_ShopByVehicle_updateProgress"));
-});
-Sys.Application.add_init(function() {
-    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_ctl00_ctrlHeader_ShopByVehicle_UpdatePanel3","displayAfter":500,"dynamicLayout":true}, null, null, $get("ctl00_ctl00_ctrlHeader_ShopByVehicle_updateProgress1"));
-});
-Sys.Application.add_init(function() {
-    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"ctl00_ctl00_pnlWelcome","dynamicServicePath":"/topic/4-privacy-policy.aspx","id":"ctl00_ctl00_mpeWelcome"}, null, null, $get("ctl00_ctl00_btnShowWelcomePopUp"));
-});
-Sys.Application.add_init(function() {
-    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_ctl00_lbtnCloseCoupon","PopupControlID":"ctl00_ctl00_pnlCoupon","dynamicServicePath":"/topic/4-privacy-policy.aspx","id":"ctl00_ctl00_mpeWelcomeCoupon"}, null, null, $get("ctl00_ctl00_btnShowWelcomePopUp"));
-});
-//]]>
-</script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                moveMobileBox();
+                window.onresize = moveMobileBox;
+            });
+            function moveMobileBox() {
+                if (window.innerWidth <= 768) {
+                    $("#search-box-desktop > #search-box-block").appendTo("#search-box-mobile");
+                } else {
+                    $("#search-box-mobile > #search-box-block").prependTo("#search-box-desktop");
+                }
+            }
+        </script>
+        <div id="search-box-desktop" class="searchboxblock">
+            <div id="search-box-block" class="search-box">
+                
+<form action="/search" id="topSearchForm" method="get" onsubmit="return check_small_search_form()">    <input type="text" class="search-box-text" id="small-searchterms" value="Search store" name="searchterms">
+    <input type="button" id="searchSubmitButton" class="button-1 search-box-button" value="Search">
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#small-searchterms").focus(function() {
+                if (this.value == 'Search store') {
+                    this.value = '';
+                }
+            });
+
+            $("#small-searchterms").blur(function() {
+                if (this.value == '') {
+                    this.value = 'Search store';
+                }
+            });
+
+            $("#searchSubmitButton").click(function () {
+                $("#topSearchForm").submit();
+            });
+        });
+
+        function check_small_search_form() {
+            var search_terms = $("#small-searchterms");
+            if (search_terms.val() == "" || search_terms.val() == "Search store") {
+                alert('Please enter some search keyword');
+                search_terms.focus();
+                return false;
+            }
+            return true;
+        }
+    </script>
 </form>
-<div class="footerbg">
-<script type="text/javascript">
-				var _sf_async_config = { uid: 24183, domain: "autoplicity.com" };
-				(function () {
-					function loadChartbeat() {
-						window._sf_endpt = (new Date()).getTime();
-						var e = document.createElement('script');
-						e.setAttribute('language', 'javascript');
-						e.setAttribute('type', 'text/javascript');
-						e.setAttribute('src', (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js");
-						document.body.appendChild(e);
-					}
-					var oldonload = window.onload;
-					window.onload = (typeof window.onload != 'function') ?
-						loadChartbeat : function () { oldonload(); loadChartbeat(); };
-				})();
-			</script>
- 
-<script src="//seal.buysafe.com/private/rollover/rollover.js"></script>
+            </div>
+            
+                <div id="topcartlink" class="empty">
+                        <div id="cart-qty"></div>
+                    <a href="/cart" class="ico-cart" rel="nofollow">
+                        <div></div>
+                        <span>Your cart</span>
+                    </a>
+                </div>
+        </div>
+    </div>
+    <div id="search-box-mobile" class="mob-searchboxblock"></div>
+</div>
+
+<div class="mobile-homepagetopbanner">
+    <div class="homepageheadericon">
+        <div class="homepageicon">
+            <div class="mob-homepageicon1"></div>
+            <span>
+                No hassle
+                <br>
+                returns
+            </span>
+        </div>
+        <div class="homepageicon">
+            <div class="mob-homepageicon2"></div>
+            <span>
+                Live in-stock
+                <br>
+                inventory
+            </span>
+        </div>
+        <div class="homepageicon">
+            <div class="mob-homepageicon3"></div>
+            <span>
+                Save over
+                <br>
+                60% retail
+            </span>
+        </div>
+    </div>
+</div>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('.header').on('mouseenter', '#topcartlink', function () {
+                    $('#flyout-cart').addClass('active');
+                });
+                $('.header').on('mouseleave', '#topcartlink', function () {
+                    $('#flyout-cart').removeClass('active');
+                });
+                $('.header').on('mouseenter', '#flyout-cart', function () {
+                    $('#flyout-cart').addClass('active');
+                });
+                $('.header').on('mouseleave', '#flyout-cart', function () {
+                    $('#flyout-cart').removeClass('active');
+                });
+            });
+        </script>
+
+
+        <div id="flyout-cart" class="flyout-cart">
+    <div class="mini-shopping-cart">
+        <div class="count">
+You have no items in your shopping cart.        </div>
+    </div>
+</div>
+       
+</div>
+
+        <div class="header-menu">
+            
+
+<ul class="top-menu">
+    <li>
+        <a href="/7-performance">
+            <div class="Performance"></div>           
+            Performance
+        </a>
+        <ul class="sublist ">
+            <li><a href="/19-air-intakes-filters">Air Intakes &amp; Filters</a></li>
+            <li><a href="/26-computer-tuning">Computer Tuning</a></li>
+            <li><a href="/10-cooling-system">Cooling System</a></li>
+            <li><a href="/8-exhaust">Exhaust</a></li>
+            <li><a href="/15-engine-parts">Engine Parts</a></li>
+            <li><a href="/65-fuel-system">Fuel System</a></li>
+            <li><a href="/191-heating-and-air-conditioning">Heating and Air Conditioning</a></li>
+            <li><a href="/21-ignition-system">Ignition System</a></li>
+            <li><a href="/409-maintenance-and-tune-up">Maintenance and Tune Up</a></li>
+            <li><a href="/261-performance-packages">Performance Packages</a></li>
+            <li><a href="/185-superchargers-nitrous">Superchargers &amp; Nitrous</a></li>
+            <li><a href="/595-throttle-bodies-spacers">Throttle Bodies &amp; Spacers</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="/5936-suspension">
+            <div class="Suspension"></div>
+            Suspension
+        </a>
+        <ul class="sublist ">
+            <li><a href="/135-air-spring-kits-accessories">Air Spring Kits &amp; Accessories</a></li>
+            <li><a href="/4931-adjustable-torsion-bar-key">Adjustable Torsion Bar Key</a></li>
+            <li><a href="/207-ball-joints">Ball Joints</a></li>
+            <li><a href="/645-braces-chassis-stiffening">Braces &amp; Chassis Stiffening</a></li>
+            <li><a href="/64-bushings">Bushings</a></li>
+            <li><a href="/1163-control-arms-thrust-arms-components">Control Arms, Thrust Arms &amp; Components</a></li>
+            <li><a href="/5938-coil-springs">Coil Springs</a></li>
+            <li><a href="/5940-leaf-springs">Leaf Springs</a></li>
+            <li><a href="/67-lift-kits-components">Lift Kits &amp; Components</a></li>
+            <li><a href="/592-lowering-kits-components">Lowering Kits &amp; Components</a></li>
+            <li><a href="/5960-other-suspension-parts">Other Suspension Parts</a></li>
+            <li><a href="/6-shocks-struts">Shocks &amp; Struts</a></li>
+            <li><a href="/5937-sway-bars">Sway Bars</a></li>
+            <li><a href="/80-steering-system">Steering System</a></li>
+            <li><a href="/3783-suspension-handling-packages">Suspension Handling Packages</a></li>
+            <li><a href="/1264-tie-rods-steering-racks-gearboxes-components">Tie Rods, Steering Racks, Gearboxes &amp; Components</a></li>
+            <li><a href="/3466-torque-arms">Torque Arms</a></li>
+            <li><a href="/3490-traction-bars">Traction Bars</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="/5956-brakes">
+            <div class="Brakes"></div>
+            Brakes
+        </a>
+        <ul class="sublist ">
+            <li><a href="/184-big-brake-kits">Big Brake Kits</a></li>
+            <li><a href="/340-brake-accessories">Brake Accessories</a></li>
+            <li><a href="/1111-brake-disc-and-pad-kit">Brake Disc and Pad Kit</a></li>
+            <li><a href="/589-brake-drums">Brake Drums</a></li>
+            <li><a href="/47-brake-lines">Brake Lines</a></li>
+            <li><a href="/4-brake-pads">Brake Pads</a></li>
+            <li><a href="/14-brake-rotors">Brake Rotors</a></li>
+            <li><a href="/5954-parking-brake">Parking Brake</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="/1-body-exterior">
+            <div class="Exterior"></div>
+            Exterior
+        </a>
+        <ul class="sublist ">
+            <li><a href="/461-body-kits-components">Body Kits &amp; Components</a></li>
+            <li><a href="/90-body-panels-hoods">Body Panels &amp; Hoods</a></li>
+            <li><a href="/57-bug-guards-deflectors">Bug Guards &amp; Deflectors</a></li>
+            <li><a href="/144-bumpers">Bumpers</a></li>
+            <li><a href="/617-car-covers">Car Covers</a></li>
+            <li><a href="/5941-decal-and-dress-up">Decal and Dress Up</a></li>
+            <li><a href="/3562-doors-accessories">Doors &amp; Accessories</a></li>
+            <li><a href="/739-exterior-miscellaneous">Exterior Miscellaneous</a></li>
+            <li><a href="/48-front-rear-guards">Front &amp; Rear Guards</a></li>
+            <li><a href="/5942-fender-parts">Fender Parts</a></li>
+            <li><a href="/5144-front-end-bra">Front End Bra</a></li>
+            <li><a href="/113-grilles-grille-inserts">Grilles &amp; Grille Inserts</a></li>
+            <li><a href="/627-jeep-accessories">Jeep Accessories</a></li>
+            <li><a href="/99-lighting">Lighting</a></li>
+            <li><a href="/5944-mirrors">Mirrors</a></li>
+            <li><a href="/145-mud-flaps">Mud Flaps</a></li>
+            <li><a href="/34-nerf-bars-running-boards">Nerf Bars &amp; Running Boards</a></li>
+            <li><a href="/637-roof-racks-cargo-carriers">Roof Racks &amp; Cargo Carriers</a></li>
+            <li><a href="/385-skid-plates">Skid Plates</a></li>
+            <li><a href="/4780-tailgate">Tailgate</a></li>
+            <li><a href="/354-truck-bed-accessories">Truck Bed Accessories</a></li>
+            <li><a href="/5943-windows">Windows</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="/35-interior-accessories">
+            <div class="Interior"></div>
+            Interior
+        </a>
+        <ul class="sublist ">
+            <li><a href="/2209-air-bag-clockspring">Air Bag Clockspring</a></li>
+            <li><a href="/3479-aluminum-interior-components">Aluminum Interior Components</a></li>
+            <li><a href="/5945-cargo">Cargo</a></li>
+            <li><a href="/445-carpet-floor-mats">Carpet &amp; Floor Mats</a></li>
+            <!-- <li><a href="/5959-chassis-stiffening">Chassis Stiffening</a></li>	-->
+            <li><a href="/5370-cigarette-lighter">Cigarette Lighter</a></li>
+            <li><a href="/3877-console-components">Console Components</a></li>
+            <li><a href="/1423-dash-dash-accessories">Dash &amp; Dash Accessories</a></li>
+            <li><a href="/5948-door-accessories">Door Accessories</a></li>
+            <li><a href="/1446-headliners-deck-covers">Headliners &amp; Deck Covers</a></li>
+            <li><a href="/576-mirrors">Mirrors</a></li>
+            <li><a href="/721-mobile-electronics">Mobile Electronics</a></li>
+            <li><a href="/5958-other-interior-accessories">Other Interior Accessories</a></li>
+            <li><a href="/5951-seats-and-seat-accessories">Seats &amp; Seat Accessories</a></li>
+            <li><a href="/112-steering-wheels">Steering Wheels</a></li>
+            <li><a href="/1480-shifter-accessories">Shifter Accessories</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="/12-wheels-tires">
+            <div class="WheelsTires"></div>
+            Wheels &amp; Tires
+        </a>
+        <ul class="sublist ">            
+            <li><a href="/37-lug-nuts-studs-locks">Lug Nuts, Studs &amp; Locks</a></li>
+            <li><a href="/17-tires">Tires</a></li>
+            <li><a href="/13-wheels">Wheels</a></li>
+            <li><a href="/389-wheel-tire-accessories">Wheel &amp; Tire Accessories</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="/140-towing-winches">
+            <div class="TowingWinches"></div>
+            Towing &amp; Winches
+        </a>
+        <ul class="sublist ">
+            <li><a href="/313-hitch-accessories">Hitch Accessories</a></li>
+            <li><a href="/501-towing-accessories">Towing Accessories</a></li>
+            <li><a href="/5953-trailer-accessories">Trailer Accessories</a></li>
+            <li><a href="/158-winches">Winches</a></li>
+
+        </ul>
+    </li>
+    <li>
+        <a href="/31-drivetrain">
+            <div class="Drivetrain"></div>
+            Drivetrain
+        </a>
+        <ul class="sublist ">
+            <li><a href="/580-clutch-kits-flywheels-components">Clutch Kits &amp; Components</a></li>
+            <li><a href="/581-differentials-ring-pinions">Differentials &amp; Ring &amp; Pinions</a></li>
+            <li><a href="/3574-drivetrain-components">Drivetrain Components</a></li>
+            <li><a href="/593-driveshafts-axles">Driveshafts &amp; Axles</a></li>
+            <li><a href="/578-shifters">Shifters</a></li>
+            <li><a href="/2328-speedometer-cable">Speedometer Cable</a></li>
+            <li><a href="/535-speedometer-recalibrators">Speedometer Recalibrators</a></li>
+            <li><a href="/594-transmissions-components">Transmissions &amp; Components</a></li>
+            <li><a href="/585-transfer-cases">Transfer Cases</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="/127-electrical-system">
+            <div class="Electric"></div>
+            Electric
+        </a>
+        <ul class="sublist ">
+            <li><a href="/2699-auto-electrical-connector-parts">Auto Electrical-Connector Parts</a></li>
+           <!-- <li><a href="/2739-auto-electrical-lamp-socket-parts">Auto Electrical-Lamp &amp; Socket Parts</a></li>-->
+            <li><a href="/5778-cruise-control-module">Cruise Control Module</a></li>
+            <li><a href="/2647-drive-belt-idler-pulley-eccentrics-cam">Drive Belt Idler Pulley Eccentrics Cam</a></li>
+            <li><a href="/3812-electrical-fuses">Electrical Fuses</a></li>
+            <li><a href="/2756-electrical-switch-relay-parts">Electrical-Switch &amp; Relay Parts</a></li>
+            <li><a href="/2649-engine-control-module-ecm-computer">Engine Control Module (ECM Computer)</a></li>
+            <li><a href="/2652-fuel-injection-harness">Fuel Injection Harness</a></li>
+            <li><a href="/5689-quick-splice-terminal">Quick Splice Terminal</a></li>
+            <li><a href="/2669-speed-sensor">Speed Sensor</a></li>
+            <li><a href="/599-starters-alternators-batteries">Starters, Alternators, &amp; Batteries</a></li>
+            <li><a href="/598-switches-switch-panels">Switches &amp; Switch Panels</a></li>
+            <li><a href="/2691-voltage-regulator">Voltage Regulator</a></li>
+            <li><a href="/597-wire-wiring-accessories">Wire &amp; Wiring Accessories</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="/222-garage-apparel">
+            <div class="ToolsApparel"></div>
+            Garage &amp; Apparel
+        </a>
+        <ul class="sublist ">
+            <li><a href="/45-apparel-safety">Apparel &amp; Safety</a></li>
+            <!--<li><a href="/3225-auto-garage-tools-parts">Auto Garage Tools Parts</a></li>-->
+            <li><a href="/731-car-care">Car Care</a></li>
+            <li><a href="/4203-displays">Displays</a></li>
+            <li><a href="/4204-electronics-and-diagnostics">Electronics and Diagnostics</a></li>
+            <li><a href="/5853-general-maintenance-hardware-assortment">General Maintenance Hardware Assortment</a></li>
+            <li><a href="/4206-collectibles">Knives &amp; Collectibles</a></li>
+            <li><a href="/4208-lighting">Lighting</a></li>
+            <li><a href="/4207-lifting-and-hydraulics">Lifting &amp; Hydraulics</a></li>
+            <li><a href="/4209-motorcycle">Motorcycle</a></li>
+            <li><a href="/4210-paint-and-body-equip-supplies">Paint &amp; Body Equip Supplies</a></li>
+            <li><a href="/4211-portable-battery-charge-test">Portable Battery Charge Test</a></li>
+            <li><a href="/5892-rubber-stop-bumper-assortment">Rubber Stop Bumper Assortment</a></li>
+            <li><a href="/579-safety-equipment">Safety Equipment</a></li>
+            <!--<li><a href="/4212-shop-safety-and-apparel">Shop Safety &amp; Apparel</a></li>-->
+            <li><a href="/5903-straight-pin">Straight Pin</a></li>
+            <li><a href="/530-tools">Tools</a></li>		
+        </ul>
+    </li>
+</ul>
+
+            <div id="mob-menu-button">
+                <a id="mob-menu-button-a" href="">
+                    <span>Shop by Category</span>
+                    <span class="icon"></span>
+                </a>
+                <ul class="mob-top-menu">
+                    <li>
+                        <a href="/7-performance">
+                             Performance
+                        </a>
+                        <div class="top-menu-triangle"></div>
+                        <span class="expand">&nbsp;</span>
+                        <ul class="sublist firstLevel">
+                            <li><a href="/19-air-intakes-filters">Air Intakes &amp; Filters</a></li>
+                            <li><a href="/26-computer-tuning">Computer Tuning</a></li>
+                            <li><a href="/10-cooling-system">Cooling System</a></li>
+                            <li><a href="/8-exhaust">Exhaust</a></li>
+                            <li><a href="/15-engine-parts">Engine Parts</a></li>
+                            <li><a href="/65-fuel-system">Fuel System</a></li>
+                            <li><a href="/191-heating-and-air-conditioning">Heating and Air Conditioning</a></li>
+                            <li><a href="/21-ignition-system">Ignition System</a></li>
+                            <li><a href="/409-maintenance-and-tune-up">Maintenance and Tune Up</a></li>
+                            <li><a href="/261-performance-packages">Performance Packages</a></li>
+                            <li><a href="/185-superchargers-nitrous">Superchargers &amp; Nitrous</a></li>
+                            <li><a href="/595-throttle-bodies-spacers">Throttle Bodies &amp; Spacers</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/5936-suspension">
+                            Suspension
+                        </a>
+                        <div class="top-menu-triangle"></div>
+                        <span class="expand">&nbsp;</span>
+                        <ul class="sublist firstLevel">
+                            <li><a href="/135-air-spring-kits-accessories">Air Spring Kits &amp; Accessories</a></li>
+                            <li><a href="/4931-adjustable-torsion-bar-key">Adjustable Torsion Bar Key</a></li>
+                            <li><a href="/207-ball-joints">Ball Joints</a></li>
+                            <li><a href="/645-braces-chassis-stiffening">Braces &amp; Chassis Stiffening</a></li>
+                            <li><a href="/64-bushings">Bushings</a></li>
+                            <li><a href="/1163-control-arms-thrust-arms-components">Control Arms, Thrust Arms &amp; Components</a></li>
+                            <li><a href="/5938-coil-springs">Coil Springs</a></li>
+                            <li><a href="/5940-leaf-springs">Leaf Springs</a></li>
+                            <li><a href="/67-lift-kits-components">Lift Kits &amp; Components</a></li>
+                            <li><a href="/592-lowering-kits-components">Lowering Kits &amp; Components</a></li>
+                            <li><a href="/5960-other-suspension-parts">Other Suspension Parts</a></li>
+                            <li><a href="/6-shocks-struts">Shocks &amp; Struts</a></li>
+                            <li><a href="/5937-sway-bars">Sway Bars</a></li>
+                            <li><a href="/80-steering-system">Steering System</a></li>
+                            <li><a href="/3783-suspension-handling-packages">Suspension Handling Packages</a></li>
+                            <li><a href="/1264-tie-rods-steering-racks-gearboxes-components">Tie Rods, Steering Racks, Gearboxes &amp; Components</a></li>
+                            <li><a href="/3466-torque-arms">Torque Arms</a></li>
+                            <li><a href="/3490-traction-bars">Traction Bars</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/5956-brakes">
+                            Brakes
+                        </a>
+                        <div class="top-menu-triangle"></div>
+                        <span class="expand">&nbsp;</span>
+                        <ul class="sublist firstLevel">
+                            <li><a href="/184-big-brake-kits">Big Brake Kits</a></li>
+                            <li><a href="/340-brake-accessories">Brake Accessories</a></li>
+                            <li><a href="/1111-brake-disc-and-pad-kit">Brake Disc and Pad Kit</a></li>
+                            <li><a href="/589-brake-drums">Brake Drums</a></li>
+                            <li><a href="/47-brake-lines">Brake Lines</a></li>
+                            <li><a href="/4-brake-pads">Brake Pads</a></li>
+                            <li><a href="/14-brake-rotors">Brake Rotors</a></li>
+                            <li><a href="/5954-parking-brake">Parking Brake</a></li>
+                            </ul>
+                    </li>
+                    <li>
+                        <a href="/1-body-exterior">
+                            Exterior
+                        </a>
+                        <div class="top-menu-triangle"></div>
+                        <span class="expand">&nbsp;</span>
+                        <ul class="sublist firstLevel">
+                            <li><a href="/461-body-kits-components">Body Kits &amp; Components</a></li>
+                            <li><a href="/90-body-panels-hoods">Body Panels &amp; Hoods</a></li>
+                            <li><a href="/57-bug-guards-deflectors">Bug Guards &amp; Deflectors</a></li>
+                            <li><a href="/144-bumpers">Bumpers</a></li>
+                            <li><a href="/617-car-covers">Car Covers</a></li>
+                            <li><a href="/5941-decal-and-dress-up">Decal and Dress Up</a></li>
+                            <li><a href="/3562-doors-accessories">Doors &amp; Accessories</a></li>
+                            <li><a href="/739-exterior-miscellaneous">Exterior Miscellaneous</a></li>
+                            <li><a href="/48-front-rear-guards">Front &amp; Rear Guards</a></li>
+                            <li><a href="/5942-fender-parts">Fender Parts</a></li>
+                            <li><a href="/5144-front-end-bra">Front End Bra</a></li>
+                            <li><a href="/113-grilles-grille-inserts">Grilles &amp; Grille Inserts</a></li>
+                            <li><a href="/627-jeep-accessories">Jeep Accessories</a></li>
+                            <li><a href="/99-lighting">Lighting</a></li>
+                            <li><a href="/5944-mirrors">Mirrors</a></li>
+                            <li><a href="/145-mud-flaps">Mud Flaps</a></li>
+                            <li><a href="/34-nerf-bars-running-boards">Nerf Bars &amp; Running Boards</a></li>
+                            <li><a href="/637-roof-racks-cargo-carriers">Roof Racks &amp; Cargo Carriers</a></li>
+                            <li><a href="/385-skid-plates">Skid Plates</a></li>
+                            <li><a href="/4780-tailgate">Tailgate</a></li>
+                            <li><a href="/354-truck-bed-accessories">Truck Bed Accessories</a></li>
+                            <li><a href="/5943-windows">Windows</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/35-interior-accessories">
+                            Interior
+                        </a>
+                        <div class="top-menu-triangle"></div>
+                        <span class="expand">&nbsp;</span>
+                        <ul class="sublist firstLevel">
+                            <li><a href="/2209-air-bag-clockspring">Air Bag Clockspring</a></li>
+                            <li><a href="/3479-aluminum-interior-components">Aluminum Interior Components</a></li>
+                            <li><a href="/5945-cargo">Cargo</a></li>
+                            <li><a href="/445-carpet-floor-mats">Carpet &amp; Floor Mats</a></li>
+                            <!-- <li><a href="/5959-chassis-stiffening">Chassis Stiffening</a></li>	-->
+                            <li><a href="/5370-cigarette-lighter">Cigarette Lighter</a></li>
+                            <li><a href="/3877-console-components">Console Components</a></li>
+                            <li><a href="/1423-dash-dash-accessories">Dash &amp; Dash Accessories</a></li>
+                            <li><a href="/5948-door-accessories">Door Accessories</a></li>
+                            <li><a href="/1446-headliners-deck-covers">Headliners &amp; Deck Covers</a></li>
+                            <li><a href="/576-mirrors">Mirrors</a></li>
+                            <li><a href="/721-mobile-electronics">Mobile Electronics</a></li>
+                            <li><a href="/5958-other-interior-accessories">Other Interior Accessories</a></li>
+                            <li><a href="/5951-seats-and-seat-accessories">Seats &amp; Seat Accessories</a></li>
+                            <li><a href="/112-steering-wheels">Steering Wheels</a></li>
+                            <li><a href="/1480-shifter-accessories">Shifter Accessories</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/12-wheels-tires">
+                            Wheels &amp; Tires
+                        </a>
+                        <div class="top-menu-triangle"></div>
+                        <span class="expand">&nbsp;</span>
+                        <ul class="sublist firstLevel">
+                            <li><a href="/37-lug-nuts-studs-locks">Lug Nuts, Studs &amp; Locks</a></li>
+                            <li><a href="/17-tires">Tires</a></li>
+                            <li><a href="/13-wheels">Wheels</a></li>
+                            <li><a href="/389-wheel-tire-accessories">Wheel &amp; Tire Accessories</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/140-towing-winches">
+                            Towing &amp; Winches
+                        </a>
+                        <div class="top-menu-triangle"></div>
+                        <span class="expand">&nbsp;</span>
+                        <ul class="sublist firstLevel">
+                            <li><a href="/313-hitch-accessories">Hitch Accessories</a></li>
+                            <li><a href="/501-towing-accessories">Towing Accessories</a></li>
+                            <li><a href="/5953-trailer-accessories">Trailer Accessories</a></li>
+                            <li><a href="/158-winches">Winches</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/31-drivetrain">
+                            Drivetrain
+                        </a>
+                        <div class="top-menu-triangle"></div>
+                        <span class="expand">&nbsp;</span>
+                        <ul class="sublist firstLevel">
+                            <li><a href="/580-clutch-kits-flywheels-components">Clutch Kits &amp; Components</a></li>
+                            <li><a href="/581-differentials-ring-pinions">Differentials &amp; Ring &amp; Pinions</a></li>
+                            <li><a href="/3574-drivetrain-components">Drivetrain Components</a></li>
+                            <li><a href="/593-driveshafts-axles">Driveshafts &amp; Axles</a></li>
+                            <li><a href="/578-shifters">Shifters</a></li>
+                            <li><a href="/2328-speedometer-cable">Speedometer Cable</a></li>
+                            <li><a href="/535-speedometer-recalibrators">Speedometer Recalibrators</a></li>
+                            <li><a href="/594-transmissions-components">Transmissions &amp; Components</a></li>
+                            <li><a href="/585-transfer-cases">Transfer Cases</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/127-electrical-system">
+                            Electric
+                        </a>
+                        <div class="top-menu-triangle"></div>
+                        <span class="expand">&nbsp;</span>
+                        <ul class="sublist firstLevel">
+                            <li><a href="/2699-auto-electrical-connector-parts">Auto Electrical-Connector Parts</a></li>
+                            <!-- <li><a href="/2739-auto-electrical-lamp-socket-parts">Auto Electrical-Lamp &amp; Socket Parts</a></li>-->
+                            <li><a href="/5778-cruise-control-module">Cruise Control Module</a></li>
+                            <li><a href="/2647-drive-belt-idler-pulley-eccentrics-cam">Drive Belt Idler Pulley Eccentrics Cam</a></li>
+                            <li><a href="/3812-electrical-fuses">Electrical Fuses</a></li>
+                            <li><a href="/2756-electrical-switch-relay-parts">Electrical-Switch &amp; Relay Parts</a></li>
+                            <li><a href="/2649-engine-control-module-ecm-computer">Engine Control Module (ECM Computer)</a></li>
+                            <li><a href="/2652-fuel-injection-harness">Fuel Injection Harness</a></li>
+                            <li><a href="/5689-quick-splice-terminal">Quick Splice Terminal</a></li>
+                            <li><a href="/2669-speed-sensor">Speed Sensor</a></li>
+                            <li><a href="/599-starters-alternators-batteries">Starters, Alternators, &amp; Batteries</a></li>
+                            <li><a href="/598-switches-switch-panels">Switches &amp; Switch Panels</a></li>
+                            <li><a href="/2691-voltage-regulator">Voltage Regulator</a></li>
+                            <li><a href="/597-wire-wiring-accessories">Wire &amp; Wiring Accessories</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/222-garage-apparel">
+                            Garage &amp; Apparel
+                        </a>
+                        <div class="top-menu-triangle"></div>
+                        <span class="expand">&nbsp;</span>
+                        <ul class="sublist firstLevel">
+                            <li><a href="/45-apparel-safety">Apparel &amp; Safety</a></li>
+                            <!--<li><a href="/3225-auto-garage-tools-parts">Auto Garage Tools Parts</a></li>-->
+                            <li><a href="/731-car-care">Car Care</a></li>
+                            <li><a href="/4203-displays">Displays</a></li>
+                            <li><a href="/4204-electronics-and-diagnostics">Electronics and Diagnostics</a></li>
+                            <li><a href="/5853-general-maintenance-hardware-assortment">General Maintenance Hardware Assortment</a></li>
+                            <li><a href="/4206-collectibles">Knives &amp; Collectibles</a></li>
+                            <li><a href="/4208-lighting">Lighting</a></li>
+                            <li><a href="/4207-lifting-and-hydraulics">Lifting &amp; Hydraulics</a></li>
+                            <li><a href="/4209-motorcycle">Motorcycle</a></li>
+                            <li><a href="/4210-paint-and-body-equip-supplies">Paint &amp; Body Equip Supplies</a></li>
+                            <li><a href="/4211-portable-battery-charge-test">Portable Battery Charge Test</a></li>
+                            <li><a href="/5892-rubber-stop-bumper-assortment">Rubber Stop Bumper Assortment</a></li>
+                            <li><a href="/579-safety-equipment">Safety Equipment</a></li>
+                            <!--<li><a href="/4212-shop-safety-and-apparel">Shop Safety &amp; Apparel</a></li>-->
+                            <li><a href="/5903-straight-pin">Straight Pin</a></li>
+                            <li><a href="/530-tools">Tools</a></li>		
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+                $('#mob-menu-button-a').toggle(function () {
+                    $('.mob-top-menu').addClass('show');
+                    $('.icon').addClass('transform1');
+                },
+                    function () {
+                        $('.mob-top-menu').removeClass('show');
+                        $('.icon').removeClass('transform1');
+                    }
+                );
+
+                $(function ($) {
+                    $('.mob-top-menu .expand').click(function () {
+                        var parent = $(this).parent();
+                        if (parent.hasClass('active')) {
+                            $(".sublist:first", parent).hide(300);
+                            parent.removeClass('active');
+                        } else {
+                            $(".sublist:first", parent).show(300);
+                            parent.addClass('active');
+                        }
+                    });
+                });
+            </script>
+
+
+        </div>
+        <script>
+            $(document).ready(function () {
+                    if (window.location.pathname.indexOf("/checkout/") != -1) {
+                        $('.header-menu').hide();
+                        $('.column').hide();
+                        $('.homepagegarantebannerfooter').hide();
+                        $('.mob-footer-menu-wrapper .phone').hide();
+                        $('.mob-footer-menu-wrapper ul').hide();
+                        $('.mob-searchboxblock').hide();
+                        $('.mob-rightheader').hide();
+                        $('.checkout_ratings_footer').show();
+                        $('.searchboxblock').hide();
+                        var headerLinks = $('.header-links').children('li');
+                        for (var i = 0; i < headerLinks.length - 1; i = i + 1) {
+                            $(headerLinks[i]).hide();
+                        }
+                        /*$('.header-logoblock a').click(function () { return false; });
+                        $('.header-logoblock a').css("cursor", "default");
+                        $('.header-logo a').click(function () { return false; });
+                        $('.header-logo a').css("cursor", "default");*/
+                        $('.header-links').addClass("header-checkout");
+                    }
+                }
+            );
+        </script>
+        
+        
+        <div class="ajax-loading-block-window" style="display: none">
+            <div class="loading-image">
+            </div>
+        </div>
+        <div class="master-wrapper-main">
+            
+<div class="center-1">
+    
+    
+<div class="page topic-page" id="ph-topic">
+    <div id="ph-title">
+        <div class="page-title">
+            <h1>
+                Privacy policy</h1>
+        </div>
+    </div>
+    <div class="page-body">
+        <p><span style="text-decoration: underline;"><span style="font-size: large;"><strong>Autoplicity Privacy Policy</strong></span></span><br> The following states the Autoplicity.com policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure online shopping experience. Autoplicity can be reached by telephone at 1-800-299-1028.</p>
+<p><span style="font-size: medium;"><strong>Information we collect and how it's used</strong></span></p>
+<p><strong><span style="text-decoration: underline;">Aggregate Information</span></strong><br> We collect aggregate information on visits made to our pages. This information helps us improve the content of our site.</p>
+<p><strong><span style="text-decoration: underline;">Other Information We Collect</span></strong><br> When you purchase a product on Autoplicity.com, we ask you for the following information: name, address, phone number, e-mail address, and credit card. This information is used to process your order and if necessary, to contact you for help when we are processing an order. All information we collect is stored in a secure database.<br> Autoplicity also collects e-mail addresses voluntarily to inform our customers that we received the order.</p>
+<p><strong>About Children (Under 18)</strong><br> For their protection, we ask that children do not submit information to us without the consent of a parent or guardian.</p>
+<p><strong>Secure Shopping</strong><br> We use GoDaddy as our SSL (Secure Socket Layer) digital certificate provider, providing our customers the strongest certificate services available up to 256bit encription. Your credit card information is encrypted while traveling the Internet.</p>
+<p><strong><span style="text-decoration: underline;">Disclosure of Information Policy</span></strong><br> We never make your e-mail address available to any other company or organization.<br> If you have supplied us with your postal address, we do not share your name and address with any companies.</p>
+<p><strong><span style="text-decoration: underline;">Need to make a change?</span></strong><br> If you would like to change any of your transactional information in our database please feel free to contact us. You'll find our phone number and address at the top of this page. <br> <br> <strong><span style="text-decoration: underline;">Public Forums</span></strong><br> This site makes chat rooms, forums, message boards, and/or news groupsavailable to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.<br> <strong><br> <span style="text-decoration: underline;">Links to Other Sites</span></strong><br> This site may contain links to other sites. It is not responsible for the privacy practices or the content of such Web sites.</p>
+    </div>
+</div>
+
+    
+</div>
+
+        </div>
+        
+    </div>
+    <!-- BEGIN: buySAFE Seal -->
 <span id="BuySafeSealSpan"></span>
+<script src="//seal.buysafe.com/private/rollover/rollover.js"></script>
 <script type="text/javascript">
-				buySAFE.Hash = "WU0fZtvfbItvb9eLyZkve6gdN%2FjCKMYeURUSpEqTkrd6pHmTDXpqoQgfQ0KLsGj7X1elRJ71LVQ6dvWMpNniOQ%3D%3D";
-				WriteBuySafeSeal("BuySafeSealSpan", "GuaranteedSeal");
-			</script>
- 
- 
- 
- 
-<script type="text/javascript">/*{literal}<![CDATA[*/
-				window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-/* custom configuration goes here (www.olark.com/documentation) */
-				olark.identify('1621-575-10-7465');/*]]>{/literal}*/</script>
- 
- 
- 
- 
- 
-</div>
+    if (window.mobilecheck() != true && window.buySAFE && buySAFE.Loaded) {
+        buySAFE.Hash = 'WU0fZtvfbItvb9eLyZkve6gdN%2FjCKMYeURUSpEqTkrd6pHmTDXpqoQgfQ0KLsGj7X1elRJ71LVQ6dvWMpNniOQ%3D%3D';
+        WriteBuySafeSeal("BuySafeSealSpan", "GuaranteedSeal");
+    }
+    else {
+        $('#BuySafeSealSpan').hide();
+    }
+</script>
+<!-- END: buySAFE Seal -->
+
 </div>
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<div class="footer">
+    <div class="footer-menu-wrapper">
+        <div class="column information">
+            <h3>Information</h3>
+            <ul>
+                    <li><a href="/site-map">Sitemap</a></li>
+                <li><a href="/shipping-returns">Shipping &amp; Returns</a></li>
+                <li><a href="/privacy-policy">Privacy Notice</a></li>
+                <li><a href="/conditions-of-use">Conditions of Use</a></li>
+                <li><a href="/about-us">About us</a></li>
+                <li><a href="/contactus">Contact us</a></li>
+            </ul>
+         </div>
+        <div class="column customer-service">
+            <h3>Customer service</h3>
+            <ul>
+                                               
+                    <li><a href="/compareproducts">Compare products list</a></li>
+                            </ul>
+           </div>
+        <div class="column my-account">
+        
+            <h3>My account</h3>
+            <ul>
+                <li><a href="/customer/info" class="account" rel="nofollow">My account</a></li>
+                    <li><a href="/order/history" rel="nofollow">Orders</a></li>
+                                    <li><a href="/customer/addresses" class="" rel="nofollow">Addresses</a></li>
+                                    <li><a href="/cart" class="ico-cart" rel="nofollow">Shopping cart</a></li>
+                                    <li><a href="/wishlist" class="ico-wishlist" rel="nofollow">Wishlist</a></li>
+            </ul></div>
+        <div class="column follow-us">    Have a question?<br> <h3>Call 1.800-299-1028</h3>
+        <br><br>
+            <div class="footermailtextboxblock">
+    <div class="footermail">
+        <h3>Register for our newsletter and<br>receive an instant discount:</h3>
+    </div>
+    <div class="footermailtextbox" id="newsletter-subscribe-block">
+        <input class="textBox" id="newsletter-email" name="NewsletterEmail" type="text" value="">
+        <span class="field-validation-valid" data-valmsg-for="NewsletterEmail" data-valmsg-replace="true"></span>
+        <div class="footermailtextboxdiv">
+            <input id="newsletter-subscribe-button" class="footerSubmit pie_focus" type="button" value="submit" name="FooterSubmit">
+            <span id="subscribe-loading-progress" style="display: none;" class="please-wait">Wait...</span>
+        </div>
+    </div>
+    <div id="newsletter-result-block" class="newsletter-result-block">
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#newsletter-subscribe-button').click(function () {
+                
+                var email = $("#newsletter-email").val();
+                var subscribeProgress = $("#subscribe-loading-progress");
+                subscribeProgress.show();
+                $.ajax({
+                    cache: false,
+                    type: "POST",
+                    url: "/subscribenewsletter",
+                    data: { "email": email },
+                    success: function (data) {
+                        subscribeProgress.hide();
+                        $("#newsletter-result-block").html(data.Result);
+                         if (data.Success) {
+                            $('#newsletter-subscribe-block').hide();
+                            $('#newsletter-result-block').show();
+                         }
+                         else {
+                            $('#newsletter-result-block').fadeIn("slow").delay(2000).fadeOut("slow");
+                         }
+                    },
+                    error:function (xhr, ajaxOptions, thrownError){
+                        alert('Failed to subscribe.');
+                        subscribeProgress.hide();
+                    }  
+                });                
+                return false;
+            });
+        });
+    </script>
+</div>
+            <div class="followusdiv">
+                <h3>Follow us:</h3>
+                <ul>
+                        <li class="facebook"><a href="https://www.facebook.com/Autoplicity" target="_blank" rel="nofollow">Facebook</a></li>
+                                            <li class="twitter"><a href="https://twitter.com/autoplicity" target="_blank" rel="nofollow">Twitter</a></li>
+                                                                <li class="youtube"><a href="http://www.youtube.com/user/Autoplicity" target="_blank" rel="nofollow">YouTube</a></li>
+                                            <li class="google-plus"><a href="https://plus.google.com/100552744477324445996" target="_blank" rel="nofollow">Google+</a></li>
+                </ul>
+            </div> 
+
+        </div>
+        <div class="checkout_ratings_footer"></div>
+    </div>
+    <div class="mob-footer-menu-wrapper">
+        <ul class="homepagegarantebannerfooter">
+            <li class="homepagegarantebanner1"></li>
+            <li class="homepagegarantebanner2"></li>
+            <li class="homepagegarantebanner3"></li>
+            <li class="homepagegarantebanner4"></li>
+
+            <li class="homepagegarantebanner6"></li>
+        </ul>
+               <div class="phone">
+            Have a question?
+            <br>
+            <h3>Call 1.800-299-1028</h3>
+        </div>
+        <ul>
+            <li><a href="/about-us">About us</a></li>
+            <li><a href="/shipping-returns">Shipping &amp; Returns</a></li>
+            <li><a href="/privacy-policy">Privacy Notice</a></li>
+            <li><a href="/customer/info" class="account" rel="nofollow">My account</a></li>
+                <li><a href="/order/history" rel="nofollow">Orders</a></li>
+                            <li><a href="/cart" class="ico-cart" rel="nofollow">Shopping cart</a></li>
+            </ul>
+        <div class="checkout_ratings_footer"></div>
+    </div>
+    
+    <div class="footer-poweredby">
+        <div class="cards">
+            <ul>
+                <li class="discover"></li>
+                <li class="visa"></li>
+                <li class="mc"></li>
+                <li class="ae"></li>
+                <li class="pp"></li>
+                <li class="ve"></li>
+            </ul>
+        </div>
+        <div class="mob-cards"></div>
+    </div>
+    <div class="footer-disclaimer">
+        Copyright © 2015 Autoplicity.com. All rights reserved.
+    </div>
+    <div class="footer-store-theme">
+        
+    </div>
+        <div class="shopper-approved">
+
+<a href="http://www.shopperapproved.com/certificates/Autoplicity.com/" rel="nofollow" target="_shopperapproved">
+<span itemscope="" itemtype="http://schema.org/Product">
+  <span itemprop="name">Autoplicity.com</span>
+  <meta itemprop="url" content="Autoplicity.com">
+  has a Shopper Approved rating of
+  <span itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+    <span itemprop="ratingValue">4.6</span>/<span itemprop="bestRating">5</span>
+    based on <span itemprop="ratingCount">749</span> ratings and reviews
+    
+    
+  </span>
+</span>
+</a>
+
+
+
+</div>
+    
+    <script type="text/javascript">mybuys.initPage();</script>
+</div>
+
+
+
+<!-- Google code for Analytics tracking -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-24487957-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+        
+        
+    
+
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
