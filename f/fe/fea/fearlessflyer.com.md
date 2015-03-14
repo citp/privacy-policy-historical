@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fearlessflyer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055749id_/http%3A//fearlessflyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fearlessflyer.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314232644id_/http%3A//fearlessflyer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fearless flyer
+# Privacy Policy | Fearlessflyer
 
-This privacy policy sets out how Fearless Flyer uses and protects any information that you submit when you use this website.
+This privacy policy sets out how Fearlessflyer uses and protects any information that you submit when you use this website.
 
-Fearless Flyer Web Design is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Fearlessflyer is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Fearless Flyer Web Design may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1/20/2010.
+Fearlessflyer Web Design may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1/20/2010.
 
 ### What we collect
 
