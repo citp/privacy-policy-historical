@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covertcashtactics.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128043906id_/http%3A//covertcashtactics.com/members/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covertcashtactics.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314062152id_/http%3A//www.covertcashtactics.com/members/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,7 +56,7 @@ We adhere to the Children's Privacy Act. You must be 18 years of age to join or 
 
 **ENFORCEMENT**
 
-If for some reason you believe CovertCashTactics .com has not adhered to these principles, please notify us at: http://membersupportsite.com/ , support @ CovertCashTactics .com.com or by certified mail, return receipt requested, MemberSpeed, Inc 2248 Meridian Boulevard Suite H., Minden, NV 89423, United States, Telephone 612-590-1467 and Facsimile 320-396-0046. We will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+If for some reason you believe CovertCashTactics .com has not adhered to these principles, please notify us at: http://membersupportsite.com/ , support @ CovertCashTactics .com.com or by certified mail, return receipt requested, The Lyford Group, First Floor, 81 Market Street, Ashby De La Zouch Leicestershire, LE65 2FA. We will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
 **ELECTRONIC PRODUCT REGISTRATION  **
 
