@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationswell.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029074349id_/http%3A//nationswell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationswell.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235333id_/http%3A//nationswell.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | NationSwell
+# Privacy Policy - NationSwell
 
 We at NationSwell, LLC (“ _Company_ ”, “ _we_ ” or “ _us_ ”) respect your privacy and are therefore committed to affording protection to information relating to any visitor to our website, [www.nationswell.com](http://www.nationswell.com/) (the “ _Website_ ”). In recognition of your need for appropriate protection and proper management of any personally identifiable information (“ ** _Personal Information_** ”) that we may receive from the Website, we have established this Privacy Policy. By using the Website you agree to be bound by this Privacy Policy, which shall take effect immediately upon your first use of the Website.
 
