@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the baublebox.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625083405id_/https%3A//www.baublebox.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the baublebox.com privacy policy that was archived on 2015-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150314221522id_/https%3A//www.baublebox.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/5202bb16ece2d41087000008.js"></script><script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMDWFdVGwEDUVJXDgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script id="ltkSDK" src="https://cdn.listrakbi.com/scripts/script.js?m=qi5kTmn1SSLw&amp;v=1"></script><script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/5202bb16ece2d41087000008.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMDWFdVGwEDUVJXDgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
     <title>BaubleBox | About - Privacy</title>
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><!--320-->
@@ -14,13 +14,12 @@
     <!-- Facebook Meta Tags -->
     <meta property="og:title" content="BaubleBox | About - Privacy">
                             
-   <script src="//cdn.optimizely.com/js/296568368.js"></script>
-
     <!-- Styles -->
-    <link rel="stylesheet" type="text/css" href="//d1238b7r0l5fdg.cloudfront.net/assets/css/app-1403062148058.css">
+    <link rel="stylesheet" type="text/css" href="//d1238b7r0l5fdg.cloudfront.net/assets/css/app-1423270140093.css">
 
     <!--[if IE]>
         <link rel="stylesheet" type="text/css" href="//d1238b7r0l5fdg.cloudfront.net/assets/css/ie.css" />
+        <script src="//d1238b7r0l5fdg.cloudfront.net/assets/js/libs/placeholder.js"></script>
     <![endif]-->
 
     <!--[if lt IE 9]>
@@ -29,148 +28,117 @@
         <script src="//d1238b7r0l5fdg.cloudfront.net/assets/js/libs/selectivizr.js"></script>
     <![endif]-->
 
-    <iframe src="javascript:false" title="" style="width: 0px; height: 0px; border: 0px;"></iframe><script type="text/javascript">
+    <!-- Optimizely -->
+    <script src="//cdn.optimizely.com/js/296568368.js"></script>
+<script src="//d1238b7r0l5fdg.cloudfront.net/assets/js/track-123123123456456.js"></script>
+    <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-37586600-1', 'auto');
+        ga('require', 'displayfeatures');
+        ga('require', 'linkid');
 
-    var GRANIFY_SITE_ID = 910;
+        // Optimizely Universal Analytics Integration code
+        window.optimizely = window.optimizely || [];
+        window.optimizely.push(['activateUniversalAnalytics']);
 
-    (function(e,t,n){e=e+"?id="+t;window.Granify=n;n._stack=[];n.s_v=2;n.init=function(e,t,r){function i(e,t){e[t]=function(){Granify._stack.push([t].concat(Array.prototype.slice.call(arguments,0)))}}var s=n;h=["on","addTag","trackPageView","trackCart","trackOrder"];for(u=0;u<h.length;u++)i(s,h[u])};n.init();var r,i,s,o=document.createElement("iframe");o.src="javascript:false";o.title="";o.role="presentation";(o.frameElement||o).style.cssText="width: 0; height: 0; border: 0";s=document.getElementsByTagName("script");s=s[s.length-1];s.parentNode.insertBefore(o,s);try{i=o.contentWindow.document}catch(u){r=document.domain;o.src="javascript:var d=document.open();d.domain='"+r+"';void(0);";i=o.contentWindow.document}i.open()._l=function(){var t=this.createElement("script");if(r)this.domain=r;t.id="js-iframe-async";t.src=e;this.body.appendChild(t)};i.write('<body onload="document._l();">');i.close()})("//cdn.granify.com/assets/javascript.js",GRANIFY_SITE_ID,[])
+        ga('require', 'displayfeatures');
+        ga('require', 'linkid', 'linkid.js');
+        ga('send', 'pageview');
     </script>
 
-<script type="text/javascript" async="" src="//static.getclicky.com/js"></script><script type="text/javascript" src="https://www.upsellit.com/launch/baublebox.jsp"></script></head>
-<body>
+    <!-- Begin Inspectlet Embed Code -->
+    <script type="text/javascript" id="inspectletjs">
+        window.__insp = window.__insp || [];
+        __insp.push(['wid', 727353247]);
+        (function() {
+            function __ldinsp(){var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); }
+            if (window.attachEvent){
+                window.attachEvent('onload', __ldinsp);
+            }else{
+                window.addEventListener('load', __ldinsp, false);
+            }
+        })();
+    </script>
+    <!-- End Inspectlet Embed Code -->
 
+    <!-- Start Visual Website Optimizer Synchronous Code -->
+    <script type="text/javascript">
+        var _vis_opt_account_id = 128850;
+        var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
+        document.write('<s' + 'cript src="' + _vis_opt_protocol +
+        'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='
+        +encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
+        </script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=128850&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150314221522id_%2Fhttps%253A%2F%2Fwww.baublebox.com%2Fabout%2Fprivacy&amp;random=0.662229443377242" type="text/javascript"></script>
+
+        <script type="text/javascript">
+        if(typeof(_vis_opt_settings_loaded) == "boolean") { document.write('<s' + 'cript src="' + _vis_opt_protocol +
+        'd5phz18u4wuww.cloudfront.net/vis_opt.js" type="text/javascript">' + '<\/s' + 'cript>'); }
+        // if your site already has jQuery 1.4.2, replace vis_opt.js with vis_opt_no_jquery.js above
+        </script>
+
+        <script type="text/javascript">
+        if(typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_top_initialize) == "function") {
+                _vis_opt_top_initialize(); vwo_$(document).ready(function() { _vis_opt_bottom_initialize(); });
+        }
+    </script>
+    <!-- End Visual Website Optimizer Synchronous Code -->
+<script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
+<body>
     <!--[if lt IE 8]>
         <center>
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         </center>
     <![endif]-->
-    <div class="promowrapper hidden-phone" style="background-color: #10e9c3;">
-	<div id="promoMove">
-		<div id="PromoWrap" style="background-color: #10e9c3;">
-		    <div class="container-fluid">
-		       <div class="row-fluid">
-		            <div class="span12">
-		                <a id="Promo" href="https://www.baublebox.com/event/scarf-super-sale">
-		                    <img height="80" border="0" src="//d1238b7r0l5fdg.cloudfront.net/assets/img/promos/53a4713277d087f06d20c089.jpg">
-		                </a>
-		            </div>
-		        </div>
-		    </div>
-		</div>
-	</div>
-</div>    <div class="container bbWrap">
-        <div class="row">
-            <header id="Header" class="span12">
-                <div class="headerInner clearfix">
-                    <div class="headerLeft pull-left">
-                        <a class="logo" href="https://www.baublebox.com/">
-                            <!--<img src="<?//=assets::image('/logo/logo.png') ?>" alt="Baublebox Logo" />-->
-                        </a>
-                    </div>
-                    <div class="headerMobile pull-right">
-                        <ul>
-                            <li>
-                                <a class="btn-baublebox-simple headerCart" href="https://www.baublebox.com/cart">My Cart</a>
-                            </li>
-                            <li>
-                                <a class="btn-baublebox-simple" href="https://www.baublebox.com/checkout">Checkout</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="headerRight pull-right">
-                        <div class="headerMessage text-right">
-                                                            Have an account? <button class="login btn-link">Login</button> or <button class="register btn-link">Signup</button>
-                                <div class="overlayFog"></div>
+
+    
+    
+            <div class="overlayFog"></div>
 <div id="Overlay" class="overlayWrap" focus="">
     <ul class="overlayRegisterWrap">
         <li class="step-0">
-            <span class="overlayTagline">Get FREE shipping and members-only offers.</span>
+                            <div class="overlay-badge"></div>
+                <h4 class="thin">Instant Savings When You <strong>Signup Today!</strong></h4>
+                <h1 class="overlay-title"><strong>Get</strong> 15% Off</h1>
+                <h2 class="overlay-subtitle">Your First Purchase</h2>
+                <br>
+                <b class="grey">Coupon will be instantly applied when you signup!</b>
+                <div class="overlayRegister1Error"></div>
+                <input type="email" name="emailRegister" class="overlay-input emailRegister" placeholder="Email Address">
+                <input type="submit" value="Signup" class="btn-baublebox-basic wide registerSubmit">
+                <br><br>
+                <p class="disclaimer">By clicking "Signup" you agree to our <a id="toggleTerms" class="underline grey" href="https://www.baublebox.com/about/terms">Terms &amp; Conditions</a>.</p>
+                        <hr>
+            <a href="#" class="btn-link-grey overlay-button overlaySwitch" style="display:none;" data-go="2">Already A Member?</a>
+            <a href="#" class="btn-link-grey overlay-button overlayClose" style="display:block;">Continue As Guest <br><small class="thin">(Without My 15% Off Coupon!)</small></a>
             <br>
-            <b>Enter your email</b>
-            <input type="email" name="emailRegister" class="emailRegister" placeholder="Type your email...">
-            <div class="overlayRegister1Error"></div>
-            <input type="submit" value="Get Access" data-go="1" class="btn-baublebox overlaySwitchDisabled registerTab2 emailRegisterNextStep">
-            <div class="hrWrap">
-                <span>or</span>
-                <hr>
-            </div>
-            <button class="btn-facebook openFacebook" data-url="https://www.baublebox.com/facebook"><i class="icon-facebook"></i> Login with Facebook</button>
-            <br>
-            <br>
-            <div class="hrWrap">
-                <span>Already a Member?</span>
-                <hr>
-            </div>
-            <a class="btn btn-login overlaySwitch" data-go="2">Login to <strong>BaubleBox</strong></a><p>
-            <br>
-            <a href="" class="btn-link overlayClose">« Continue as Guest »</a>
-        </p></li>
-        <li class="step-1">
-            <h3>Almost done ...</h3>
-
-            <!-- Password -->
-            <b class="text-left pink">Password:</b>
-            <input type="password" name="passwordRegister" class="passwordRegister" placeholder="Choose your password..." required="required">
-            <br>
-
-            <!-- firstname -->
-            <b class="text-left pink">Name:</b>
-            <input type="text" name="name" class="firstname" placeholder="Enter your name...">
-
-            <!-- gender -->
-            <b class="text-left pull-left">Gender: &nbsp; <small>(Optional)</small></b>
-            <input type="radio" name="gender" value="m"> Male &nbsp;
-            <input type="radio" name="gender" value="f"> Female
-            <br>
-            <br>
-
-            <!-- submit -->
-            <div class="overlayRegister2Error"></div>
-            <input type="submit" value="Shop Now" class="btn-baublebox registerSubmit">
-            <br>
-            <br>
-            <div class="hrWrap">
-                <span>Already a Member?</span>
-                <hr>
-            </div>
-            <a class="btn btn-login overlaySwitch" data-go="2">Login to <strong>BaubleBox</strong></a>
-            <br>
-            <br>
-            <a class="btn-link overlaySwitch" data-go="0">← &nbsp; Go back</a>
         </li>
         <li class="step-2">
-            <h3>Members Sign In</h3>
-
+            <a href="" class="btn-link-remove overlayClose" style="display:block;"><i class="icon icon-remove"></i></a>
+            <h2 class="thin">Login To Your Account!</h2>
+            <hr>
+            <button class="btn-facebook openFacebook" data-mobile="0" data-url="http://www.baublebox.com/facebook"><i class="icon-facebook"></i> Login with Facebook</button>
+            <hr>
             <!-- Email -->
-            <b class="text-left">Email</b>
-            <input type="email" name="email" class="emailLogin" required="" placeholder="Enter your email...">
+            <b class="text-left">Your Email</b>
+            <input type="email" name="email" class="emailLogin" required="" placeholder="Enter Email">
             <br>
 
             <!-- Password -->
-            <b class="text-left">Password</b>
-            <input id="keyupLogin" type="password" name="password" class="passwordLogin" placeholder="Enter your password...">
+            <b class="text-left">Your Password</b>
+            <input id="keyupLogin" type="password" name="password" class="passwordLogin" placeholder="Enter Password">
             <br>
 
             <!-- submit -->
             <div class="overlayLoginError"></div>
-            <input type="submit" value="Sign In" class="btn-baublebox loginSubmit">
+            <input type="submit" value="Login" class="btn-baublebox-basic wide loginSubmit">
             <br>
             <br>
-            Forgot Password? <a data-go="3" class="btn-forgot overlaySwitch">Click Here.</a>
-
-            <div class="hrWrap">
-                <span>or</span>
-                <hr>
-            </div>
-
-             Facebook
-            <button class="btn-facebook openFacebook" data-url="http://www.baublebox.com/facebook"><i class="icon-facebook"></i> Login with Facebook</button>
-            <br>
-            <br>
-            Not a member? <a data-go="0" class="btn-membership overlaySwitch">Get membership</a>
-            <br>
-            <br>
-            <a class="btn-link overlayClose">« Continue as Guest »</a>
+            <span>Forgot Password? <a data-go="3" class="btn-forgot overlaySwitch">Click Here.</a></span>
+            <hr>
+            <a href="#" class="overlaySwitch" data-go="0">Not A Member?</a>
         </li>
         <li class="step-3">
             <!-- title -->
@@ -182,179 +150,289 @@
             <br>
             <div class="overlayForgotError"></div>
             <div class="overlaySuccessError"></div>
-            <input type="submit" class="btn forgotSubmit" value="Reset my password">
+            <input type="submit" class="btn-baublebox-basic  forgotSubmit" value="Reset my password">
             <br>
             <br>
-            ← Nevermind. <a data-go="2" class="overlaySwitch">Go back</a>
+            <a href="#" data-go="2" class="btn-link-grey overlaySwitch">Nevermind, back to Login!</a>
         </li>
     </ul>
-    <br>
-    <p class="disclaimer">By clicking "Get Access" and registering at BaubleBox <br> you are agreeing to our <a id="toggleTerms" class="underline grey" href="https://www.baublebox.com/about/terms">Terms and Conditions</a>.</p>
-</div>                                                    </div>
-                        <div class="headerSearch hidden-phone">
+</div>
+    
+    <!-- Pre -->
+    <div id="PreHeader" class="">
+        <div class="container">
+            <div class="row">
+                <div class="span12">
+                    <div class="row">
+                        <div class="span6">
+                            <ul class="pre-header">
+                                                            <li style="font-size: 12px;">Get <strong style="color: #65CBC9;">15% Off!</strong> <a href="#" class="register pre-header-button">Find Out How!</a></li>
+                                                        </ul>
+                        </div>
+                        <div class="span6">
+                            <ul class="pre-header pre-header-right">
+                                <li><a href="https://www.baublebox.com/account/invite">Invite A Friend<span class="hidden-tablet"> and Earn</span></a></li>
+                                <li><a href="https://www.baublebox.com/gallery"><span class="hidden-tablet">View </span>Gallery</a></li>
+                                                                    <li><a href="#" class="login pink">LOGIN</a></li>
+                                    <li><a href="#" class="register blue">SIGNUP</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <div id="Header" class="container ">
+        <div class="row">
+            <header class="span12">
+                <div class="row">
+                    <div class="span4">
+                        <ul class="header-message">
+                            <li>
+                                <strong>Free, Fast </strong>
+                            </li>
+                            <li class="middle">&nbsp;&amp;&nbsp;</li>
+                            <li>
+                                <strong> EASY Returns!</strong>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="span4">
+                        <a class="logo" href="https://www.baublebox.com/">
+                            <img width="234" height="24" src="//d1238b7r0l5fdg.cloudfront.net/assets/img/logo/bb_logo@2x.png" alt="Baublebox Logo">
+                        </a>
+                    </div>
+                    <div class="span4">
+                        <div class="headerSearchWrap">
                             <form class="form form-horizontal" id="searchForm" method="get" action="/search">
-                                <input class="navSearchInput" type="text" name="query" placeholder="Search for products...">
-                                <button class="btn btn-link" type="submit"><i class="icon-search"></i></button>
+                                <input type="text" width="100" name="query" placeholder="Search Accessories...">
+                                <button class="btn-icon" type="submit"><i class="icon icon-search"></i></button>
                             </form>
                         </div>
                     </div>
-                    <ul class="headerMiddle pull-right hidden-phone">
-                        <li><strong>Get <span class="pink">Free Shipping</span></strong> <small>On Orders Of $35 or more</small></li>
-                    </ul>
                 </div>
             </header>
-            <div id="navWrap" class="span12" detect="">
-                <nav id="Nav">
-                    <div class="row">
-                        <div class="span12">
-                            <!-- Navigation -->
-                            <ul class="Menu clearfix hidden-phone">
-                                                                    <li class="pull-left">
-                                                                                    <a href="https://www.baublebox.com/">
-                                                Daily Deals                                            </a>
-                                                                            </li>
-                                                                    <li class="pull-left">
-                                                                                    <a href="https://www.baublebox.com/category/events">
-                                                Events                                            </a>
-                                                                            </li>
-                                                                    <li class="pull-left">
-                                                                                    <a href="https://www.baublebox.com/category/10-or-less">
-                                                $10 Or Less                                            </a>
-                                                                            </li>
-                                                                    <li class="pull-left">
-                                                                                    <a href="https://www.baublebox.com/category/clearance">
-                                                Clearance                                            </a>
-                                                                            </li>
-                                                                <li class="navCheckout pull-right">
-                                    <a href="https://www.baublebox.com/checkout"><span class="hidden-tablet">Checkout</span></a>
-                                </li>
-                                <li class="navCart pull-right">
-                                    <a href="https://www.baublebox.com/cart"><span class="cartAmount">0</span> <span class="hidden-tablet">Your Cart</span></a>
-                                </li>
-                                <li class="navInvite pull-right">
-                                    <a href="https://www.baublebox.com/account/invite"><span class="hidden-tablet">Invite</span></a>
-                                </li>
-                                <li class="navGallery pull-right">
-                                    <a href="https://www.baublebox.com/gallery"><i class="icon icon-camera"></i> <span class="hidden-tablet">View Our</span> Gallery</a>
-                                </li>
-                            </ul>
+        </div>
+    </div>
+
+    <!-- Nav -->
+    <div id="Navigation" class="">
+        <div class="container">
+            <div class="row">
+                <div id="navWrap" class="span12">
+                    <nav>
+                        <div class="row">
+                            <div class="span12">
+                                <!-- Navigation -->
+                                <ul class="Menu clearfix hidden-phone">
+                                    <li><span class="navShopBy">Shop By</span></li>
+                                                                            <li>
+                                                                                            <span class="menuCollections">Categories <i class="icon icon-arrow-down"></i></span>
+                                                <ul class="subMenu">
+                                                                                                                <li>
+                                                                <a href="/category/iconic-collection">Iconic Collection</a>
+                                                            </li>
+                                                                                                                <li>
+                                                                <a href="/category/rings">Rings</a>
+                                                            </li>
+                                                                                                                <li>
+                                                                <a href="/category/earrings">Earrings</a>
+                                                            </li>
+                                                                                                                <li>
+                                                                <a href="/category/necklaces">Necklaces</a>
+                                                            </li>
+                                                                                                                <li>
+                                                                <a href="/category/bracelets">Bracelets</a>
+                                                            </li>
+                                                                                                                <li>
+                                                                <a href="/category/watches">Watches</a>
+                                                            </li>
+                                                                                                                <li>
+                                                                <a href="/category/scarves">Scarves</a>
+                                                            </li>
+                                                                                                                <li>
+                                                                <a href="/category/for-him">For Him</a>
+                                                            </li>
+                                                                                                    </ul>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="https://www.baublebox.com/category/bestsellers">
+                                                    Bestsellers                                                </a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="https://www.baublebox.com/category/essentials">
+                                                    Essentials                                                </a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="https://www.baublebox.com/category/st-patricks-day-collection">
+                                                    St. Patrick's Day Collection                                                </a>
+                                                                                    </li>
+                                                                        <li class="navCart pull-right">
+                                        <a href="https://www.baublebox.com/cart"><span class="hidden-tablet">Shopping</span> Bag <i class="icon icon-bag"></i><span class="cartAmount">0</span></a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
-                    </div>
-                </nav>
+                    </nav>
+                </div>
             </div>
-            <nav id="NavMobile" class="span12 visible-phone">
-                <!-- Mobile Navigation -->
-                <select class="mobileMenu">
-                    <option value="" select="selected">Explore Baublebox</option>
-                                            
-                                                            <option value="https://www.baublebox.com/category/daily-deals">Daily Deals</option>
-                                                    
-                                            
-                                                            <option value="https://www.baublebox.com/category/events">Events</option>
-                                                    
-                                            
-                                                            <option value="https://www.baublebox.com/category/10-or-less">$10 Or Less</option>
-                                                    
-                                            
-                                                            <option value="https://www.baublebox.com/category/clearance">Clearance</option>
-                                                    
-                                        <option value="https://www.baublebox.com/account/invite">Invite &amp; Earn</option>
-                    <option value="https://www.baublebox.com/cart">Your Cart</option>
-                    <option value="https://www.baublebox.com/checkout">Checkout</option>
-                </select>
-            </nav>
-            <!-- Content -->
+        </div>
+    </div>
+
+    <!-- Content -->
+    <div id="Content" class="container">
+        <div class="row">
             <div id="Pages" class="span12">
 	<div class="row">
 		<div class="span12">
 			<h4>Privacy Policy</h4>
 
-			<p>
-			BaubleBox ("Company," "we," "our," "us") knows that you care about how your personal information is used and shared. We take your privacy seriously and want to outline the measures we take in safe guarding your personal information. By visiting the baubles.co website and domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
-			</p>
+			<p>Effective Date: January 13, 2013</p>
 
-			<p>
-			This Privacy Policy covers Company's treatment of personally identifiable information ("Personal Information") that Company gathers when you are accessing Company's Website and when you use Company services.
-			</p>
-			 
+			<p>PLEASE READ. YOUR USE OF THIS WEBSITE IS SUBJECT TO THE FOLLOWING PRIVACY POLICY AND THE WEBSITE TERMS AND CONDITIONS.</p>
 
-			<h6>Your Profile Information</h6>
-			<p>
-			The information we gather from customers enables us to personalize and improve our services, and to allow our users to set up a user profile and make purchases via the Website. When you register (log in), you supply your email address and a password. This allows us to provide you access to your account every time you visit Company website. Before completing your first purchase, we also ask you for your name, phone number, email, billing and shipping addresses. This information, along with your credit card number, is necessary to fulfill your order. This information may be disclosed to specific members of our staff and to select third parties (such as our credit card processor and shipping provider) involved in the completion of your transaction and delivery of your order. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features, and you may not be able to complete a purchase through the Company Website.
-			</p>
+			<h6>Index</h6>
 
-			<p>
-			We may use your email address to notify you about the Company daily deals or to inform you of your order placement, order status and/or shipping information if you have opted-in. Emails are sent only to Company users who have chosen to receive them (opted-in) or who have made a purchase on our Website. At any time, you can notify us to opt-out from receiving these emails. In addition, we keep a record of your past purchases, returns, and credits. We may also ask you for information regarding your personal preferences and demographics to help us better meet better meet your needs.
-			</p>
-
-			<p>
-			Users of our Website are required to be at least 18 years old, and any user under 18 is not an authorized user. Additionally, if we learn that a user is under 13 years of age, we will promptly delete any Personal Information we have collected about that user.
-			</p>
-			 
-
-			<h6>Automatically Collected Information</h6>
-			<p>
-			Upon engaging Company website or services the Company automatically receives and records information on our server logs from your browser including your IP address, the type of browser being used, cookie information, the page you requested, duration of activity on our site and any items you may purchase. This information may be used to customize the content you see on our Website or to communicate with you about special offers. These statistics do not identify you personally, but provide us information regarding the type of user who is accessing our Website and certain browsing activities of that user. We may make extensive use of this data at an aggregated level in order to understand how our Company website is being used.
-			</p>
-			 
-
-			<h6>Cookies</h6>
-			<p>
-			Like most other transactional Websites, we use "cookies" to improve your shopping experience and to save you time. Cookies are little tags that are placed onto your computer. We assign a cookie to your computer when you first visit us in order to enable us to recognize you each time you return. Cookies allows us to customize our website to your individual preferences in order to create a more personalized shopping experience. Please note that the cookies we use for our Website or email campaigns do not store personally identifiable information about you or your finances.
-			</p>
+			I. Notice<br>
+			II. Personally Identifiable Information That We Collect<br>
+			III. E-mail Newsletter Subscriptions<br>
+			IV. Contact Permission; Unsubscribing from Emails, Phone Calls and/or Text Messages<br>
+			V. Special Promotions and Purchases; Submission of Content to be Published<br>
+			VI. Information Collected by Other Means or Media<br>
+			VII. Information About Other People<br>
+			VIII. Customer Service<br>
+			IX. Non-Personally Identifiable Information That We Collect<br>
+			X. Cookies and Related Technology<br>
+			XI. Special Notice Regarding Children Under 13<br>
+			XII. Use, Disclosure, and Sharing of Information<br>
+			a. Non-Personally Identifiable Information<br>
+			b. Personally Identifiable Information<br>
+			XIII. Our Commitment to Data Security<br>
+			XIV. Hyperlinks To and From Other Sites<br>
+			XV. Consent to Processing in the United States<br>
+			XVI. Contact Us Regarding Privacy<br>
+			XVII. Notification of Changes<br>
 
 
-			<h6>Sharing of Personal Information</h6>
-			<p>
-			We neither rent nor sell your Personal Information to anyone. We share your Personal Information only in instances as described below.
-			</p>
+			<h6>I. Notice</h6>
+			<p>The "Website" refers to this website, its subdomains, and related domains. This Website is owned or operated by Bauble Box and/or its subsidiary companies in the United States of America (collectively, "Bauble Box"). This privacy policy ("Privacy Policy") applies to information that you provide to Bauble Box or is collected about you via this Website and/or by your use of services (collectively, the "Services") that may be provided by this Website or by Bauble Box via some other means, including as set forth below and as defined in the applicable Terms and Conditions or other terms. This Privacy Policy is intended to provide you notice of Bauble Box's information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any Bauble Box Service or Website constitutes acceptance of this Privacy Policy and any other applicable terms. This Privacy Policy is part of and incorporated by reference into the Terms and Conditions for this Website. </p>
 
-			<p>
-			We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Company's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us.
-			</p>
+			<h6>II. Personally Identifiable Information That We Collect</h6>
+			<p>Bauble Box respects your privacy and is committed to protecting personally identifiable information that you provide in connection with your use of its Websites and Services. Such personally identifiable information collected includes your name, shipping address, billing address, telephone numbers, e-mail address and payment information such as your credit card number. </p>
 
-			<p>
-			We restrict access to your Personal Information to those employees who need to know that information to provide products or services to you. At all times we take the utmost care to protect your personal information.
-			</p>
+			<p>Please note that we have the ability to retain any data that you provide on this website, even if you do not complete your registration / transaction by clicking submit / next or by giving any other indication of transmissions. Such contact details and data may be used to contact you to inquire why you did not complete your registration/transaction or market other products or services to you as described in this Privacy Policy </p>
 
-			<p>
-			Company may be forced to disclose information in order to comply with a subpoena, court order, administrative or governmental order, or any other requirement of law, or when Company, in its sole discretion, deems it necessary in order to protect its rights or the rights of others, to prevent harm to persons or property, to fight fraud and credit risk, or to enforce or apply Company Website terms of use.
-			</p>
-			 
+			<h6>III. E-mail Newsletter Subscriptions</h6>
+			<p>To subscribe to our e-mail newsletters, if any, you will need to provide your e-mail address. You may also be asked for other information when you subscribe. </p>
 
-			<h6>Secure Shopping For All Baubles Co. Customers</h6>
-			<p>
-			Your Company account Personal Information is protected by a password for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
-			</p>
+			<h6>IV. Contact Permission; Unsubscribing from Emails, Phone Calls and/or Text Messages</h6>
 
-			<p>
-			When Company's order form asks users to enter Personal Information such as a credit card number, that information is encrypted with industry-standard Secure Socket Layers ("SSL") encryption to keep your online order safe and secure. Company also maintains physical, electronic, and procedural safeguards that comply with federal regulations to protect your Personal Information.
-			</p>
+			<p>By providing us with your information, you are granting us the right to contact you or use your information as set forth in this Privacy Policy, including but not limited to as set forth in Section XII. We are in the business of identifying the needs of prospective clients for other third parties, and providing information to those third parties so that they may offer goods or services to the prospective clients. By entering our web-site, you are consenting to our sharing of the above-described information to third parties who will use that information to offer you goods or services. </p>
 
-			<p>
-			Company endeavors to protect user information to ensure that user account information is kept private.
-			</p>
+			<p>You can unsubscribe from receiving commercial e-mail from the Website by clicking the link contained within such e-mails sent to you. </p>
 
-			<p>
-			This Privacy Policy only governs information collected on this website.
-			</p>
-			 
+			<p>When you receive a call from us regarding our products and services, you may indicate you do not wish to receive future marketing calls. </p>
 
-			<h6>Changes In Policy</h6>
-			<p>
-			Company may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. You acknowledge that this Privacy Policy is part of the Terms of Use and you unconditionally agree that using this Website signifies your assent to Company Policy. Your visit and any dispute over privacy is subject to this policy and our Terms of Use, including limitations on damages. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
-			</p>
-			 
+			<p>Regarding text messages, a. if you provide us a mobile phone number, you authorize us to send you SMS messages, b. standard message and data rates apply, c. at anytime you reply 'STOP' to cancel your account, d. message frequency depends on account settings, e. customer support: info@BaubleBox.com, You should be aware that it is not always possible to completely remove or modify information in our databases. In addition, even if you choose to unsubscribe, not receive calls, or not receive text messages, Bauble Box reserves the right to contact you regarding your use of this Website, your relationship with Bauble Box, or any of Bauble Box's products or Services you have purchased or used. </p>
 
-			<h6>Questions or Conerns</h6>
-			<p>
-			If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to info@baubles.co and we will make every effort to resolve your concerns. You may also write to us at:
-			</p>
+			<h6>V. Special Promotions and Purchases; Submission of Content to be Published</h6>
 
-			Baubles Co.<br>
-			903 Mariner St<br>
-			Brea, CA 92821<br>
-			Effective Date: October 1, 2011<br>
+			<p>To participate in some Services such as sweepstakes, contests and surveys ("Special Promotions"), or to make online purchases ("Purchases"), you will need to provide personally identifiable information, such as name, mailing address, e-mail address, phone number, and date of birth. Your information may be collected by Bauble Box or by a third party, such as a co-sponsor or a vendor involved in, or providing services in connection with, a Special Promotion, a complimentary service offering, or an e-commerce partner in the case of a Purchase. </p>
+
+			<p>If you make a Purchase or enter a sweepstakes or other Special Promotion on one of our sites, through our Services, or on or through a site or service of third parties we refer you to, Bauble Box will collect your personally identifiable information, and you are deemed to consent to us providing your information to third parties who provide certain services such as processing of credit card transactions, customer service, promotion or sweepstakes administration, order fulfillment and/or prize delivery, or complimentary service offerings, as applicable. (As more fully described below in Section XII, these third parties may use this information for their own marketing purposes and/or from sharing, selling, or otherwise distributing any personal data of our customers, unless you choose to opt in for such additional uses and/or disclosure by the third parties, under their respective privacy policies.). Also, by entering a sweepstakes or other Special Promotion, you are agreeing to the official rules that govern that sweepstakes or other Special Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice or likeness in advertising or marketing associated with the promotion. </p>
+
+			<p>If you make a purchase or enter a promotion (such as a sweepstakes) in which Bauble Box is participating on a third party's website (or through some other means or medium), we will collect your information from the third party only if you opt-in to receive additional communications from us, or we are required to fulfill some function in relation to your activity (e.g., to send your order or deliver a prize). </p>
+
+			<h6>VI. Information Collected by Other Means or Media</h6>
+
+			<p>In some situations, we may also collect personally identifiable information and other information about you through other means, directly or indirectly. For example, if you access any Bauble Box content, or purchase such content via your wireless carrier or through another third party, Bauble Box may collect information directly from you or through the third party. Likewise, if you use our services, or provide information to other companies who share information about their customers, we may collect additional information about you. In each of these cases, Bauble Box will apply this policy to any personally identifiable information. </p>
+
+			<h6>VII. Information About Other People</h6>
+
+			<p>Some Bauble Box Websites and Services may ask you to submit personally identifiable information about other people. If you provide us with personally identifiable information of a friend, or your friend provides personally identifiable information about you, to e-mail a feature from the Website, the e-mail addresses you or your friend supply us for those activities will not be used to send you or your friend other e-mail communications unless disclosed at the time you provide the information. A record of that transaction will be maintained as allowed and/or required by law. </p>
+
+			<h6>VIII. Customer Service</h6>
+
+			<p>Some Services may offer support and technical assistance through customer service centers via telephone, online chat, or e-mail. Whenever you communicate with customer service, you do so with the understanding that an operator may view and make changes to the information in your User Account in order to provide the assistance that you need. </p>
+
+			<h6>IX. Non-Personally Identifiable Information That We Collect</h6>
+			<p>As part of the registration process for some Services, you may be asked to provide information that does not personally identify you. For example, you may be asked to provide information concerning your personal preferences, purchasing habits, and the like. This information is generally optional but may be included in your User Account profile. Bauble Box requests this information to understand you better and to also bring to your attention new services, programs, or offers that may be of interest to you.</p>
+
+			<p>In many cases, Bauble Box will automatically collect certain non-personally identifiable information about your use of its' Websites and Services. Bauble Box might collect, among other things, information concerning the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your "click path" through the Website or "click-through" from an e-mail, the Website or advertisement that was linked to or from the Websites when you visited, and your IP address. To do this, Bauble Box may use cookies and other technology (see below). If you are using our wireless Services, we may also automatically collect information such as the type of wireless device you are using, your mobile identification number (assigned by your telecommunications carrier) and telecommunications carrier. Your use of our Websites and Services, and information provided through these technologies, will be anonymous unless you provide us with personally identifiable information or have provided such information in the past. </p>
+
+			<h6>X. Cookies and Related Technology</h6>
+
+			<p>This Website's pages or e-mail messages may contain cookies, web beacons (also known as clear gifs), or similar technologies as they become available. Cookies are information files that this Website may place on your computer to provide extended functionality. Bauble Box may use cookies for a number of purposes, such as tracking usage patterns on the Website, measuring the effectiveness of advertising, limiting multiple responses and registrations, facilitating your ability to navigate the Website or as part of a verification or screening process. Most browsers are initially set up to accept cookies. Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions, "Help" screen, or similar such resource to learn more about how to manage cookies and possibly reset your browser to refuse all cookies or to indicate when a cookie is being sent by indicating this in the preferences, options, or similar such menu in your browser. However, it is possible that some parts of this Website will not operate correctly if you disable cookies and you may not be able to take advantage of some of this Website's features or the Services. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies. </p>
+
+			<p>Bauble Box's web pages may include advertisements for third parties and their products, and those third-party advertisements may include a cookie or web beacon served by the third party. </p>
+
+			<p>Bauble Box does not control cookies in such third party ads, and visitors are encouraged to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. Bauble Box's Privacy Policy does not cover the use of information collected from you by third party ad servers. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. </p>
+
+			<p>A web beacon is a small graphic image that allows the party that set the web beacon to monitor and collect certain information about the viewer of the web page, web-based document or e-mail message, such as the type of browser requesting the web beacon, the IP address of the computer that the web beacon is sent to and the time the web beacon was viewed. Web beacons can be very small and invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail, including HTML based content, can act as a web beacon. Bauble Box may use web beacons to count visitors to the web pages on the Website or to monitor how our users navigate the Website, and Bauble Box may include web beacons in e-mail messages in order to count how many messages sent were actually opened, acted upon or forwarded. </p>
+
+			<h6>XI. Special Notice Regarding Children Under 13</h6>
+
+			<p>Bauble Box recognizes the sensitivity of personally identifiable information concerning children under the age of 13 and therefore provides this special notice. Bauble Box is committed to complying with all applicable laws and regulations regarding children, including the Children's Online Privacy Protection Act ("COPPA"). Except in limited circumstances allowed by COPPA, Bauble Box will not knowingly collect, maintain, or disclose any personally identifiable information from a child under 13 without first obtaining consent from that child's parent or legal guardian. </p>
+
+			<p>If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, Bauble Box will make reasonable efforts to remove the information from its active list, at your request. To request the removal of your child's information, please send an e-mail to info@BaubleBox.com and be sure to include in your message the same User Name and password and/or e-mail address that your child submitted.</p>
+
+			<p>Bauble Box encourages parents and guardians to spend time online with their children to become familiar with the types of content available on Bauble Box Web sites and the Internet generally. </p>
+
+			<h6>XII. Use, Disclosure, and Sharing of Information</h6>
+
+			<br>a. Non-Personally Identifiable Information<br>
+			<p>From time to time, Bauble Box may use and share with third parties aggregate, non-personally identifiable user information to show general demographic and preference information among users of Bauble Box Web sites. When you visit or download information from this Website, our web servers may automatically collect website usage information. Website usage information is non-personally identifying information that describes how our visitors use the Website. It can include the number and frequency of visitors to each web page and the length of their stays, browser type, referrer data that identifies the web page visited prior and subsequent to visiting the Website, and IP addresses (see below for more information on IP addresses). Bauble Box may use IP addresses for a number of purposes, such as system administration, to generally determine your computer's server location, to report aggregate information to our business partners or to audit use of the Website. We also may determine your screen resolution and the technology available in order to serve you the most appropriate version of a web page, e-mail or similar service. </p>
+
+			<br>b. Personally Identifiable Information<br>
+			<p>Bauble Box uses information about you to deliver the Services that you request, to keep you informed about changes affecting our Services or your account, to inform you of other Services or offers in which you might be interested, and to improve and enhance our sites and Services. Specifically, when you provide us with your contact information, you are agreeing: </p>
+
+			<p>i) to allow us to email you regarding our products and services, and of the products and services of third parties that we associate with or market for; ii) to call you (either directly or through use of a third party service) regarding our products and services, and of the products and services of third parties that we associate with or market for; and iii) to text you (either directly or through use of a third party service) through your mobile devices regarding our products and services, and of the products and services of third parties that we associate with or market for. </p>
+
+			<p>In the case of sending messages to you via text messaging, you acknowledge and agree that you may be charged fees by your wireless provider pursuant to your agreement with such wireless provider.</p>
+
+			<p>If you provide Bauble Box with personally identifiable information, we will take all reasonable and appropriate steps to protect it from unauthorized disclosure. </p>
+
+			<p>If you opt in to receive e-mail from us, you can always opt out of future marketing messages by following the directions in each message to "unsubscribe". However, if you choose to opt out of marketing messages, we reserve the right to contact you regarding your account status, technical support, product information, changes to account terms, and any other matter that might affect our service to you and/or any products you purchased from us or registered with us, as applicable. </p>
+
+			<p>If you begin but fail to complete the registration process for Bauble Box, we may contact you in an effort to help you sign up for Bauble Box or send you other emails with details about Bauble Box or other services / products that may be of interest. You can always opt out of email messages as described above in Section IV. </p>
+
+			<p>As stated in the Terms and Conditions, you will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of a Bauble Box Website or Service, of any information about you contained in the applicable Bauble Box database, if Bauble Box or one of its affiliates assigns its rights and obligations regarding any of your information at the time of a merger, acquisition, or sale of all or substantially all of Bauble Box or such Bauble Box's assets related to the applicable Website or Service to a subsequent owner or operator. In the event of such a merger, acquisition, or sale, your continued use of the Website or any related Service signifies your agreement to be bound by the Terms and Conditions, California Privacy Policy and Privacy Policy of the Website's or Service's subsequent owner or operator.</p>
+
+			<p>Bauble Box and its companies may work together in order to provide portions of Bauble Box Websites and some Services (e.g., to fulfill prizes won in a sweepstakes, or to provide other support for a Service). These companies will handle your personally identifiable information in accordance with this Privacy Policy. </p>
+
+			<p>As stated above in Section V, Bauble Box may also work with third parties to provide some Services on our Websites. In connection with those Services, you are deemed to consent to us sharing your information with third parties who provide services such as processing of credit card transactions, customer service, promotion administration, order fulfillment and/or prize delivery, as applicable. Third parties who provide, or participate in, Services on Bauble Box Websites are prohibited from using our customers' personally identifiable information for marketing purposes and/or from sharing, selling, or otherwise using such information, unless you choose to opt in to marketing, sharing, or other uses by the third parties. If you do not want your information to be used for marketing (or other purposes unrelated to the provision of Bauble Box Services) by a third party who participates in a Service on one of our sites, do not opt in to such use by that third party when you register to participate in the Service. </p>
+
+			<p>Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information. </p>
+
+			<p>Bauble Box will not share, sell, rent, or disclose any personally identifiable information that we have collected except as stated herein, or in the following instances: 1) we have been given your consent to disclose; 2) we have previously informed you of the disclosure, including by means of our Privacy Policy or on the Website, or through the Service where you provided your information; 3) we are required by law, legal process, or court order to disclose; 4) disclosure is necessary to identify, contact, or bring legal action against someone who may cause or be causing harm to, or interference with, Bauble Box's rights or property, other Bauble Box Website users, or anyone else; or 5) to respond to an inquiry, request or complaint that you have made. Bauble Box may also use IP addresses in cooperation with Internet service providers to identify users if we deem it necessary to comply with law, to enforce compliance with this Privacy Policy or our Terms and Conditions, or to protect our sites, customers, or others. </p>
+
+			<h6>XIII. Our Commitment to Data Security </h6>
+			<p>While Bauble Box takes reasonable and appropriate precautions to protect your personally identifiable information from unauthorized disclosure and to prevent possible security breaches in our Websites, Services, and customer databases, no website, Internet transmission, computer system, or wireless connection is completely secure. Consequently, Bauble Box cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. Your use of Bauble Box Websites and Services is at your own risk. Bauble Box urges you to take steps to keep your information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your User Account, and closing your Web browser. </p>
+
+			<p>Whenever you give Bauble Box sensitive or confidential information (for example, credit card numbers for Purchases), Bauble Box will take commercially reasonable steps to protect the information by establishing a secure connection with your Web browser. Bauble Box employs a security technology known as a secure-socket-layer ("SSL") to protect the transmission of payment information to the site. Unless otherwise specified herein or on the Website where you make a Purchase, credit card numbers are used only for payment processing and are not retained for marketing purposes. </p>
+
+			<h6>XIV. Hyperlinks To and From Other Sites</h6>
+
+			<p>The Website may frame, and/or contain links to, or advertisements about, other websites. Other websites may also reference, advertise, or link to the Website. Bauble Box does not endorse or sponsor other websites, is not responsible for the privacy practices or the content of other websites, expressly disclaims any statements or assertions made on such websites, and denies and disclaims all liability associated with your use of, and the content on, such other sites and advertisements. </p>
+
+			<h6>XV. Consent to Processing in the United States</h6>
+			<p>By providing any personally identifiable information to Bauble Box, all users, including, without limitation, users in the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the collection, storage, and processing of such information in the United States of America. </p>
+
+			<h6>XVI. Contact Us Regarding Privacy</h6>
+			<p>Bauble Box is dedicated to protecting your personally identifiable information and welcomes comments and questions on this Privacy Policy. You may fax, email or mail us your questions or comments to: </p>
+
+			Bauble Box Customer Service <br>
+			903 Mariner St. Brea CA, 92821<br>
+			Fax: (855) 965-4663<br>
+			info@BaubleBox.com<br>
+
+			<p>Please note that information submitted to the Website via a "contact us,", "info", "help" or other similar e-mail address or form will not necessarily receive a response. We will not use the information provided to these e-mail addresses or forms for marketing purposes unrelated to your request. </p>
+
+			<h6>XVII. Notification of Changes</h6>
+
+			<p>Bauble Box reserves the right to change this Privacy Policy and its Terms and Conditions at any time. In case of any material change to the Privacy Policy, we will replace the "Privacy Policy" link on the home page of our sites with a link entitled "Updated Privacy Policy" for no less than 30 days. All changes to the Privacy Policy and/or Terms of Service will be effective when posted, and your continued use of any Bauble Box Website or Service after the posting will constitute acceptance of, and agreement to be bound by, those changes.</p>
 		</div>
 	</div>
 </div>
@@ -363,61 +441,92 @@
     </div>
 
     <!-- Footer -->
-    <footer id="Footer" class="container bbFooterWrap">
-        <div class="row">
-            <div class="footerWrap span12">
-                <div class="footerInner clearfix">
-                    <ul class="footerMenu">
-                        <li>
-                            <ul>
-                                <li><h5>About Us</h5></li>
-                                <li><a href="https://www.baublebox.com/about/home">About Baublebox</a></li>
-                                <li><a href="https://www.baublebox.com/about/shipping">Delivery Information</a></li>
-                                <li><a href="https://www.baublebox.com/about/privacy">Privacy Policy</a></li>
-                                <li><a href="https://www.baublebox.com/about/terms">Terms &amp; Conditions</a></li>
-                                <li><a href="https://www.baublebox.com/about/returns">Return Policy</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <ul>
-                                <li><h5>My Account</h5></li>
-                                <li><a href="https://www.baublebox.com/account">My Account</a></li>
-                                <li><a href="https://www.baublebox.com/account/orders">Order History</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <ul>
-                                <li><h5>Contact Us</h5></li>
-                                <li>Call Us (855) 965-4663</li>
-                                <li><a href="https://www.baublebox.com/about/shipping">U.S. &amp; Domestic Only<span class="pink">*</span></a></li>
-                                <li><a href="https://www.baublebox.com/about/contact">Write Us</a></li>
-                                <li><a href="http://help.baublebox.com/">Helpdesk</a></li>
-                                <li><a href="https://www.baublebox.com/about/press">Press</a></li>
-                                <!--<li><a href="<? //=Uri::create('/assets/sitemap.xml')?>">Sitemap</a></li>-->
-                            </ul>
-                        </li>
-                    </ul>
-                    <div class="footerCopyright">
-                        <ul class="footerSocial clearfix">
-                            <li><i class="social-fb"></i> Follow us on <a href="https://www.facebook.com/baublebox">Facebook</a></li>
-                            <li><i class="social-tweet"></i> Follow us on <a href="https://twitter.com/bauble_box">Twitter</a></li>
-                        </ul>
-                        <a class="btn-link" href="https://www.baublebox.com/">Baublebox</a> © 2013. All rights reserved.
-                        <ul class="footerAccepted">
-                            <li><img class="image-payment" src="//d1238b7r0l5fdg.cloudfront.net/assets/img//icons/visa.png"></li>
-                            <li><img class="image-payment" src="//d1238b7r0l5fdg.cloudfront.net/assets/img//icons/paypal.png"></li>
-                            <li><img class="image-payment" src="//d1238b7r0l5fdg.cloudfront.net/assets/img//icons/cirrus.png"></li>
-                            <li><img class="image-payment" src="//d1238b7r0l5fdg.cloudfront.net/assets/img//icons/mastercard.png"></li>
-                            <li><img class="image-payment" src="//d1238b7r0l5fdg.cloudfront.net/assets/img//icons/american_express.png"></li>
+    <div id="Social" class="">
+        <div class="social-divider"></div>
+        <div class="container">
+            <div class="row">
+                <div class="span12">
+                    <div class="social-wrap">
+                        <ul class="social-list">
+                            <li class="facebook">
+                                <a href="http://www.facebook.com/baublebox"><i class="icon icon-facebook"></i></a>
+                            </li>
+                            <li class="instagram">
+                                <a href="http://www.instagram.com/baublebox"><i class="icon icon-instagram"></i></a>
+                            </li>
+                            <li class="pinterest">
+                                <a href="http://www.pinterest.com/baublebox/"><i class="icon icon-pinterest"></i></a>
+                            </li>
+                            <li class="twitter">
+                                <a href="http://www.twitter.com/bauble_box"><i class="icon icon-social-twitter"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
-    </footer>
+    </div>
+            <div id="Subscribe" class="">
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+                        <ul class="subscribe-list">
+                            <li class="subscribe-message">Be the <strong><span class="pink">first</span> to know!</strong></li>
+                            <li>
+                                <div class="subscribe-form">
+                                    <input id="subscribeEmail" type="email" name="subscribeEmail" placeholder="Enter Email">
+                                    <input id="subscribeBtn" type="submit" value="Subscribe">
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="Footer" class="">
+        <div class="container">
+            <div class="row">
+                <div class="span12">
+                    <ul class="footer-menu">
+                        <li>
+                            <a href="https://www.baublebox.com/about/home">Company</a>
+                        </li>
+                        <li>
+                            <a href="https://www.baublebox.com/gallery">Gallery</a>
+                        </li>
+                        <li>
+                            <a href="https://www.baublebox.com/about/shipping">Delivery</a>
+                        </li>
+                        <li>
+                            <a href="https://www.baublebox.com/about/returns">Returns</a>
+                        </li>
+                                                <li>
+                            <a href="http://help.baublebox.com/"><span class="hidden-tablet">Customer </span>Support</a>
+                        </li>
+                        <li>
+                            <a href="https://www.baublebox.com/about/faq">FAQ</a>
+                        </li>
+                        <li>
+                            Call Us (855) 965-4663
+                        </li>
+                        <!--<li><a href="<? //=Uri::create('/assets/sitemap.xml')?>">Sitemap</a></li>-->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="FooterMini" class="">
+        <div class="container">
+            <div class="row">
+                <div class="span12">
+                    <p class="footer-disclaimer">Proudly made in <strong>Los Angeles</strong>. | <a href="https://www.baublebox.com/about/terms">Terms &amp; Conditions</a> | <a href="https://www.baublebox.com/about/privacy">Privacy Policy</a> | <i>© 2014 Baublebox, Inc. All Rights Reserved.</i></p>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- Scripts -->
-    <script src="//d1238b7r0l5fdg.cloudfront.net/assets/js/main-1403062148058.js"></script>
+    <script src="//d1238b7r0l5fdg.cloudfront.net/assets/js/main-1423270140093.js"></script>
     <!-- BEGIN: buySAFE Seal -->
     <script src="https://seal.buysafe.com/private/rollover/rollover.js"></script>
     <span class="not_mobile hidden-phone" id="BuySafeSealSpan"></span>
@@ -427,7 +536,7 @@
     </script>
 
     <!-- Pixels -->
-    <script type="text/javascript">
+        <script type="text/javascript">
     /* <![CDATA[ */
     var google_conversion_id = 926109431;
     var google_custom_params = window.google_tag_params;
@@ -438,9 +547,9 @@
     </script>
     <noscript>
         <div style="display:inline;">
-        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/926109431/?value=0&amp;guid=ON&amp;script=0"/>
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/926109431/?value=0&guid=ON&script=0"/>
         </div>
-    </noscript><script src="https://www.viralsweep.com/widget/right-bottom-open/wid-7512-fa13.js" type="text/javascript"></script><script>(function(){
+    </noscript><script>(function(){
       window._fbds = window._fbds || {};
       _fbds.pixelId = 830263256999844;
       var fbds = document.createElement('script');
@@ -452,22 +561,7 @@
     window._fbq = window._fbq || [];
     window._fbq.push(["track", "PixelInitialized", {}]);
     </script>
-    <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=830263256999844&amp;ev=NoScript" /></noscript> <script type="text/javascript">
-    function USI_installCode() {
-        var USI_headID = document.getElementsByTagName("head")[0];
-        var USI_installID = document.createElement('script');
-        USI_installID.type = 'text/javascript';
-        USI_installID.src = 'http'+ (document.location.protocol=='https:'?'s://www':'://www')+ '.upsellit.com/launch/baublebox.jsp';
-        USI_headID.appendChild(USI_installID);
-    }
-    if (window.addEventListener){
-        window.addEventListener('load', USI_installCode, true);
-    } else if (window.attachEvent) {
-        window.attachEvent('onload', USI_installCode);
-    } else {
-        USI_installCode();
-    }
-    </script><script type="text/javascript">
+    <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=830263256999844&amp;ev=NoScript" /></noscript><script type="text/javascript">
         (function() {
             function loadHorizon() {
                 var s = document.createElement('script');
@@ -488,7 +582,41 @@
                 });
             };
         })();
-    </script><script type="text/javascript">
+    </script><script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '652791684797987']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=652791684797987&ev=NoScript" /></noscript><script type="text/javascript" src="https://dx.steelhousemedia.com/spx?dxver=4.0.0&amp;shaid=10641&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150314221522id_%2Fhttps%253A%2F%2Fwww.baublebox.com%2Fabout%2Fprivacy&amp;cb=39374751568511050"></script><script type="text/javascript">
+(function(){"use strict";var e=null,b="4.0.0",
+n="10641",
+additional="",
+t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.substring(0,2048)):""}catch(o){t=document.referrer!==null?document.referrer.toString().substring(0,2048):""}try{r=window&&window.top&&document.location&&window.top.location===document.location?document.location:window&&window.top&&window.top.location&&""!==window.top.location?window.top.location:document.location}catch(u){r=document.location}try{i=parent.location.href!==""?encodeURIComponent(parent.location.href.toString().substring(0,2048)):""}catch(a){try{i=r!==null?encodeURIComponent(r.toString().substring(0,2048)):""}catch(f){i=""}}var l,c=document.createElement("script"),h=null,p=document.getElementsByTagName("script"),d=Number(p.length)-1,v=document.getElementsByTagName("script")[d];if(typeof l==="undefined"){l=Math.floor(Math.random()*1e17)}h="dx.steelhousemedia.com/spx?"+"dxver="+b+"&shaid="+n+"&tdr="+t+"&plh="+i+"&cb="+l+additional;c.type="text/javascript";c.src=("https:"===document.location.protocol?"https://":"http://")+h;v.parentNode.insertBefore(c,v)})()
+</script><!-- Segment Pixel - BaubleBox--Visitor  - DO NOT MODIFY -->
+<img src="https://secure.adnxs.com/seg?add=2091420&amp;t=2" width="1" height="1">
+<!-- End of Segment Pixel -->
+<script type="text/javascript">
+var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(100532349);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100532349ns.gif" /></p></noscript><script type="text/javascript">
       (function() {
         window._pa = window._pa || {};
         // _pa.orderId = "myCustomer@email.com"; // OPTIONAL: attach user email or order ID to conversions
@@ -497,30 +625,15 @@
         pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/5202bb16ece2d41087000008.js";
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
       })();
-    </script><script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-37586600-1']);
-      _gaq.push(['_trackPageview']);
+    </script><!-- Listrak Analytics - Script Source -->
+<script type="text/javascript">
+        var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+        (function (d, s, id, tid, vid) {
+            var js, ljs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+            js.src = biJsHost + "cdn.listrakbi.com/scripts/script.js?m=" + tid + "&v=" + vid;
+            ljs.parentNode.insertBefore(js, ljs);
+        })(document, 'script', 'ltkSDK', 'qi5kTmn1SSLw', '1');
+</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"d738acf8e2","applicationID":"2353591","transactionName":"ZlFQbBZSXBACU01ZDl8bcU0XR10OTFFbXxRFa1pXCVY=","queueTime":0,"applicationTime":26,"atts":"ShZTGl5ITx4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script><script type="text/javascript">
-        var clicky_site_ids = clicky_site_ids || [];
-        clicky_site_ids.push(100532349);
-        (function() {
-          var s = document.createElement('script');
-          s.type = 'text/javascript';
-          s.async = true;
-          s.src = '//static.getclicky.com/js';
-          ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-        })();
-    </script><script type="text/javascript">
-Granify.trackPageView({
-  page_type: "checkout"
-});
-</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"d738acf8e2","applicationID":"2353591","transactionName":"ZlFQbBZSXBACU01ZDl8bcU0XR10OTFFbXxRFa1pXCVY=","queueTime":0,"applicationTime":22,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
