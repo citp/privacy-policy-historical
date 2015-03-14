@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterfly.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204214008id_/http%3A//takelessons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterfly.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234913id_/https%3A//takelessons.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TakeLessons
 
