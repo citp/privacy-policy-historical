@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travel.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209092141id_/http%3A//www.travel.com/site/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000327id_/http%3A//www.travel.com/en/information/privacy-policy) for the most accurate reproduction.*
 
-# TRAVEL.COM ® - About Us
+# Privacy Policy - TRAVEL.COM
 
-TRAVEL.COM does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. Users may create public user profiles by their own choice. Except as required by law, TRAVEL.COM will not give out personal user data to third parties. However, TRAVEL.COM reserves the right to contact members of our database for verification purposes. 
+TRAVEL.COM does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. Users may create public user profiles by their own choice. Except as required by law, TRAVEL.COM will not give out personal user data to third parties. However,TRAVEL.COM reserves the right to contact members of our database for verification purposes. 
 
 TRAVEL.COM reserves the right to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. TRAVEL.COM will provide only aggregated data from these analyses to third parties. 
 
