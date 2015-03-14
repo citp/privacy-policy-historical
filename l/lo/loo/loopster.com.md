@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loopster.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929021117id_/http%3A//www.loopster.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopster.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314220024id_/https%3A//www.loopster.com/pages/privacy) for the most accurate reproduction.*
 
-# Loopster.com - Free Online Video Editor
+# Privacy
 
 Loopster, Inc. ("Loopster," "we," "our" or "us") is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy ("Privacy Policy") describes the information we collect and how we use it. By using this website, you consent to our Privacy Policy.
 
@@ -26,6 +26,8 @@ In order to better understand your preferences and better serve you, we may comb
 To provide you with certain social features, we may collect information about you, your contacts, or friends from third party websites that provide access to this information, such as Facebook, YouTube, LinkedIn, Twitter, or email services. We respect and follow the privacy policies of those third party services with regard to the data we collect from them.
 
 To comply with the Children's Online Privacy Protection Act, we will never knowingly or intentionally collect any personal information about children under the age of 13. If we obtain actual knowledge that we have collected personal information about a child under the age of 13, we will immediately delete that information. Because we do not knowingly or intentionally collect personal information about children under the age of 13, to the best of our knowledge and belief, we have no such information to use or to disclose to a third party.
+
+The information we collect in this survey provides Loopster with information regarding the personal preferences, interests, profile and demographics of our user community. We use this information to, among other things, improve our service, communicate with you regarding promotions, special offers, and both ours and third party offerings that may be of interest to you. if you are not interested in participating, please feel free to skip the survey. Additional information regarding our collection and use of information, and the process to “opt-out” can be located in our privacy policy located on our website.
 
 ## USING INFORMATION
 
@@ -123,3 +125,7 @@ Grand Junction, CO. 81502
 ## TERMS OF USE
 
 Please also visit our [Terms of Use](https://web.archive.org/pages/terms) that explain other terms governing the use of our site.
+
+## HOLIDAY OFFER
+
+Offer is valid until December 31st,2014 for purchases of subscriptions covering up to twenty four (24) months at the holiday special rate for the term selected. Billing occurs as stated in the [Terms of Use.](https://web.archive.org/pages/terms) At the conclusion of the selected term, your subscription will automatically renew at Loopster’s then current rates for the term selected unless cancelled by you prior to your renewal date.
