@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the native-languages.org privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119195306id_/http%3A//www.native-languages.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the native-languages.org privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314214415id_/http%3A//www.native-languages.org/privacy.htm) for the most accurate reproduction.*
 
 # Native Languages of the Americas Privacy Policy
 
@@ -14,4 +14,4 @@ Wado, miigwech, pilamaya ye, and thanks to all!
 Native Languages of the Americas   
 
 
-Back to our [Native American language](http://www.native-languages.org/) homepage
+Back to our [Native American language](http://www.native-languages.org/) homepage 
