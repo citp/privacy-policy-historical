@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripology.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701103019id_/http%3A//www.tripology.com/consumer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripology.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000231id_/http%3A//www.tripology.com/consumer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Travel Consumers | Tripology.com
 
