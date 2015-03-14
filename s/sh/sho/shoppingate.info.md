@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppingate.info privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030094531id_/http%3A//www.shoppingate.info/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingate.info privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000109id_/http%3A//shoppingate.info/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # About Us
 
@@ -33,6 +33,6 @@ To Whom Your Information is disclosed: We do not share your PII with any third p
 Security: We have implemented suitable security policies, rules and technical measures to protect the privacy of your PII. We will make best efforts to ensure that your information will be accessible only by authorized employees of the Company who need to have access to this information in order to provide you with the services on our website. However, you should be aware that there is no data that is transmitted over the Internet that can be guaranteed 100% secure in transmission or safe from theft or illegal capture, and therefore we do not guaranty absolute resistance from unauthorized access.
 
 Contact Us  
-If you have any questions or concerns about this Privacy Policy, please feel free to contact us by email to privacy@Shoppingate.info 
+If you have any questions or concerns about this Privacy Policy, please feel free to contact us by email to privacy@Shoppingate.info
 
 This Privacy Policy was last updated on March 30th, 2014.
