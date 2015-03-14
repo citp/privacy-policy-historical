@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eurocasino.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626065051id_/https%3A//www.eurocasino.com/nl/klantenservice/privacybeleid) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocasino.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001602id_/https%3A//www.eurocasino.com/en/customersupport/privacy-policy) for the most accurate reproduction.*
 
-# English Customer Service 24/7 - online casino EuroCasino
+# Our Privacy Policy - online casino EuroCasino
 
 ## Privacy Policy
 
@@ -12,7 +12,7 @@ If you provide your name and address on the public area of this website in order
 
 **How will we use your Personal Information?**
 
-We will process your Personal Information in accordance with applicable data protection law. EuroCasino proposes to process your Personal Information for the following purposes: administering your account; maintaining our own accounts and records; monitoring website usage levels and quality of service; and informing you about products and services that you may be interested in from time to time ("the purposes"). Any recordings remain the property of EuroCasino and will be used only for the purposes above. To ensure a good quality of service we may monitor any communication you have with us whether in writing or by electronic mail ("recordings"). E-mail is not encrypted to / from either the public or private areas of this website. EuroCasino recommends that you do not send us Personal Information by e-mail. 
+We will process your Personal Information in accordance with applicable data protection law. EuroCasino proposes to process your Personal Information for the following purposes: administering your account; maintaining our own accounts and records; monitoring website usage levels and quality of service; and informing you about products and services that you may be interested in from time to time ("the purposes"). Any recordings remain the property of EuroCasino and will be used only for the purposes above. To ensure a good quality of service we may monitor any communication you have with us whether in writing or by electronic mail ("recordings"). E-mail is not encrypted to / from either the public or private areas of this website. 
 
 **Disclosing your Personal Information.**
 
@@ -20,4 +20,4 @@ Your Personal Information may, for the purposes described above, be transferred 
 
 **Consent**
 
-By providing your Personal Information and registering with us or logging on with us when you enter the website, you freely consent to the EuroCasino Group processing and disclosing your Personal Information for the purposes and otherwise in the manner set out in this Policy. If you wish to qualify, vary, modify or limit your consent in any way then please notify us using the details shown on these [Customer Support](https://web.archive.org/nl/klantenservice/contact/) pages of our Website. 
+By providing your Personal Information and registering with us or logging on with us when you enter the website, you freely consent to the EuroCasino Group processing and disclosing your Personal Information for the purposes and otherwise in the manner set out in this Policy. If you wish to qualify, vary, modify or limit your consent in any way then please notify us using the details shown on these [Customer Support](https://web.archive.org/en/customersupport/contact-us/)  pages of our Website. 
