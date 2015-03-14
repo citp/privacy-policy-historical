@@ -1,9 +1,7 @@
-<!--The following is the downloaded HTML source of the duquesnelight.com privacy policy that was archived on 2014-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701052932id_/https%3A//www.duquesnelight.com/forOurCustomers/privacyPolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the duquesnelight.com privacy policy that was archived on 2015-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150314234253id_/https%3A//www.duquesnelight.com/forOurCustomers/privacyPolicy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
-<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
@@ -17,6 +15,8 @@
 <script type="text/javascript" src="/js/jquery.validationEngine-en.js"></script>
 <script type="text/javascript" src="/js/jquery.validationEngine.js"></script>
 <script type="text/javascript" src="/js/jquery.simpletip-1.3.1.min.js"></script>
+<script language="javascript" src="/js/json2.js"></script>
+<script language="javascript" src="/js/json_parse.js"></script>
 
 <script>
 	$(document).ready(function () {
@@ -27,37 +27,7 @@
 </script>
 
 
-	<script type="text/javascript">
-<!--
-    _CF_checkloginForm = function(_CF_this)
-    {
-        //reset on submit
-        _CF_error_exists = false;
-        _CF_error_messages = new Array();
-        _CF_error_fields = new Object();
-        _CF_FirstErrorField = null;
-
-
-        //display error messages and return success
-        if( _CF_error_exists )
-        {
-            if( _CF_error_messages.length > 0 )
-            {
-                // show alert() message
-                _CF_onErrorAlert(_CF_error_messages);
-                // set focus to first form error, if the field supports js focus().
-                if( _CF_this[_CF_FirstErrorField].type == "text" )
-                { _CF_this[_CF_FirstErrorField].focus(); }
-
-            }
-            return false;
-        }else {
-            return true;
-        }
-    }
-//-->
-</script>
-<title>Privacy Policy</title></head>
+	<title>Privacy Policy</title></head>
 
 
 	
@@ -65,7 +35,6 @@
 
 
 <body>
-
 
 <script type="text/javascript">
 	$(document).ready(function(){
@@ -87,7 +56,7 @@
 			$("#headerInfoText").hide();
 		});
 	});
-
+	
 	function submitForm()
 	{
 		document.forms.loginForm.submit();
@@ -120,6 +89,7 @@
 	float: left;
 	text-align:center;
 	/*height: 105px;*/
+	height: 105px;
 	width: 320px;
 }
 
@@ -240,48 +210,40 @@
 
 </style>
 
+
 <div id="headerContainer">
 	<div id="headerLeft"><a href="/default.cfm"><img border="0" id="DLCLogo" alt="Duquesne Light" src="/images/DLCLogo.jpg" width="375" height="100"></a></div>
 	<div id="headerMiddle">
 		
-			<div id="headerMiddleAlert"><a href="/focus" style="position: relative; top: -5px;"><img src="/images/focus/focus_logo.jpg" border="0" style="height: 60px;"></a></div>
-        	<noscript><b>This site uses JavaScript, please enable.</b></noscript>
-        
+			<div id="headerMiddleAlert">ATTENTION: Due to scheduled maintenance, web self-service may be unavailable at times on Sat., March 14.</div>
+			<div id="headerFocusLink"><a href="/focus/" style="text-decoration: underline">Click here for FOCUS information</a></div>
+		
         &nbsp;
         
-
+		
 	</div>
 	<div id="headerRight">
 		
 				
 				<div id="headerLogin">
+                	
 		        	<span class="blue"><i><b>Log In To Your Account</b></i></span><br>
-		            <form name="loginForm" id="loginForm" action="/ssl/forOurCustomers/login.cfm" method="post" onsubmit="return _CF_checkloginForm(this)">
+		            <form name="loginForm" action="/ssl/forOurCustomers/login.cfm" method="post" id="loginForm">
 		            <div id="headerForm">
 		                <div id="headerButton">
-							<input name="headerSubmitBtn" id="headerSubmitBtn" type="image" height="50" src="/images/btn_login.jpg" width="49">
+							<input type="image" name="headerSubmitBtn" src="/images/btn_login.jpg" width="49" height="50">
 		                </div>
 						<div id="headerFormFields">
 			                <div id="headerUser">
-			                	Username: <input name="username" type="text" style="width:150px;" id="username">
+			                	Username: <input type="text" name="username" id="username" style="width:150px;" value="">
 			                </div>
 			                <div id="headerPass">
 				                <a href="javascript:submitForm();" title="Passwords, for security reasons, will be entered on the next page" class="blue"><u><i>Where do I enter my password?</i></u></a>
 							</div>
-							<div id="headerInfoBox" style="display: none;">
-								<div id="headerInfoText" class="medium" style="display: none;">
-									First time users may still use an email address from the old website to login. Upon logging in, you will be prompted to create a username.<br><center>[Click to close]</center>
-								</div>
-							</div>
 			            </div>
 		            </div>
 		            </form>
-
-
-
-
-
-		            <div style="margin-top:0;text-align:left;width:100%;float:left;" id="headerLinks"><a href="/ssl/forOurCustomers/termsandconditions.cfm">Register New Account</a> | <a href="/ssl/forOurCustomers/forgot.cfm">Forgot Login Information?</a></div>
+		            <div style="margin-top:0;text-align:left;width:100%;float:left;" id="headerLinks"><a href="/ssl/forOurCustomers/signup.cfm">Register New Account</a> || <a href="/ssl/forOurCustomers/forgot.cfm">Forgot Login Information?</a></div>
 				</div>
 			
 	</div>
@@ -502,6 +464,7 @@ function resizeWindow( e ) {
 		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/forOurCustomers/privacyPolicy.cfm">Privacy Policy</a>
 		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/forOurCustomers/sitemap.cfm">Site Map</a>
 		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/insideDuquesneLight/contactUs/default.cfm">Contact Us</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/insideDuquesneLight/aboutUs/careers.cfm">Careers</a>
 	</div>
 	<div class="clearClass"></div>
 </div>
