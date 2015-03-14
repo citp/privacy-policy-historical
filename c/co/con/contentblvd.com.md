@@ -1,95 +1,88 @@
-> *The following text is extracted and transformed from the contentblvd.com privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825143726id_/https%3A//www.contentblvd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentblvd.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005215id_/https%3A//www.contentblvd.com/privacy-policy) for the most accurate reproduction.*
 
-# Content Blvd Privacy Policy | Content Blvd
+# Content BLVD PRIVACY POLICY - Content BLVD
 
-### What information do we collect?
+## PRIVACY POLICY
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+Protecting your private information is our priority. This Statement of Privacy applies to ContentBLVD.com and Content Blvd, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Content Blvd, Inc. include ContentBLVD.com and Content BLVD. The Content BLVD website is a business networking and ecommerce site. By using the Content BLVD website, you consent to the data practices described in this statement.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+Collection of your Personal Information
 
-### What do we use your information for?
+Content BLVD may collect personally identifiable information, such as your name. If you purchase Content BLVD's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. Content BLVD may also collect anonymous demographic information, which is not unique to you, such as your age, gender, household income and race. We may gather additional personal or non-personal information in the future.
 
-Any of the information we collect from you may be used in one of the following ways:
+Information about your computer hardware and software may be automatically collected by Content BLVD. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Content BLVD website.
 
-### To personalize your experience
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Content BLVD's public message boards, this information may be collected and used by others.
 
-(your information helps us to better respond to your individual needs)
+Content BLVD encourages you to review the privacy statements of websites you choose to link to from Content BLVD so that you can understand how those websites collect, use and share your information. Content BLVD is not responsible for the privacy statements or other content on websites outside of the Content BLVD website.
 
-### To improve our website
+Use of your Personal Information
 
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Content BLVD collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-### To improve customer service
+Content BLVD may also use your personally identifiable information to inform you of other products or services available from Content BLVD and its affiliates. Content BLVD may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-(your information helps us to more effectively respond to your customer service requests and support needs)
+Content BLVD does not sell, rent or lease its customer lists to third parties.
 
-### To process transactions
+Content BLVD may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is transferred to the third party. Content BLVD may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Content BLVD, and they are required to maintain the confidentiality of your information.
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Content BLVD may keep track of the websites and pages our users visit within Content BLVD, in order to determine what Content BLVD services are the most popular. This data is used to deliver customized content and advertising within Content BLVD to customers whose behavior indicates that they are interested in a particular subject area.
 
-### To administer a contest, promotion, survey or other site feature
+Content BLVD will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Content BLVD or the site; (b) protect and defend the rights or property of Content BLVD; and, (c) act under exigent circumstances to protect the personal safety of users of Content BLVD, or the public.
 
-### To send periodic emails
+Use of Cookies
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+The Content BLVD website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-### How do we protect your information?
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Content BLVD pages, or register with Content BLVD site or services, a cookie helps Content BLVD to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Content BLVD website, the information you previously provided can be retrieved, so you can easily use the Content BLVD features that you customized.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Content BLVD services or websites you visit.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+Security of your Personal Information
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+Content BLVD secures your personal information from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
 
-### Do we use cookies?
+Children Under Thirteen
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Content BLVD does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Disconnecting your Content BLVD Account from Third Party Websites
 
-### Do we disclose any information to outside parties?
+You will be able to connect your Content BLVD account to third party accounts. BY CONNECTING YOUR CONTENT BLVD ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. Users may learn how to disconnect their accounts from third-party websites by visiting their "My Account" page. Users may also contact us via email or telephone.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Opt-Out & Unsubscribe
 
-### Third party links
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Content BLVD by contacting us here:
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+\- Web page: ContentBLVD.com/contact-us
 
-### California Online Privacy Protection Act Compliance
+\- Email: support@contentblvd.com
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+\- Phone: 305-801-3747
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their dashboard and going to the account page.
+Changes to this Statement
 
-### Childrens Online Privacy Protection Act Compliance
+Content BLVD will occasionally update this Statement of Privacy to reflect company and customer feedback. Content BLVD encourages you to periodically review this Statement to be informed of how Content BLVD is protecting your information.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Contact Information
 
-### Online Privacy Policy Only
+Content BLVD welcomes your questions or comments regarding this Statement of Privacy. If you believe that Content BLVD has not adhered to this Statement, please contact Content BLVD at:
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+Content Blvd, Inc.
 
-### Terms and Conditions
+1730 S Hayworth Ave
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at https://www.contentblvd.com/terms-of-service
+Los Angeles, California 90035
 
-### Your Consent
+Email Address:
 
-By using our site, you consent to our privacy policy.
-
-### Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on 11/4/2013
-
-### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-https://www.contentblvd.com  
-5455 Wilshire Blvd, Suite 701  
-Los Angeles, CA 90036  
-United States  
 support@contentblvd.com
+
+Telephone number:
+
+305-801-3747
+
+Effective as of September 01, 2014
+
+  
+
