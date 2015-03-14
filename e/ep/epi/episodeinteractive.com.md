@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the episodeinteractive.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063908id_/http%3A//pocketgems.com/episode-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the episodeinteractive.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234710id_/http%3A//pocketgems.com/episode-privacy-policy) for the most accurate reproduction.*
 
 # Episode Privacy Policy « Pocket Gems
 
@@ -6,7 +6,7 @@ Back
 
 **Episode Interactive, LLC Privacy Policy**
 
-_Effective Date: March 24, 2014_
+_Effective Date: December  7, 2014_
 
 **Introduction and Your Agreement to this Privacy Policy**
 
@@ -20,9 +20,9 @@ Our primary objective in collecting your information is to provide and enhance t
 
 **_iOS or Android Platforms_**
 
-When you use any of the Episode Interactive games or applications, we automatically collect and record certain information such as your unique device ID, MAC address, advertising identifier, OpenUDID, IMEI number, hardware type, the version of your operating system (“OS”), your in-game activity, and your location (based on your Internet Protocol (“IP”) address).  This information is useful to us for troubleshooting and helps us understand usage trends.  It  may also be used to contact you with in-game technical notices, updates, security alerts and support and administrative messages.
+When you use any of the Episode Interactive games or applications, we may automatically collect and record certain information such as your unique device ID, MAC address, advertising identifier, OpenUDID, IMEI number, hardware type, the version of your operating system (“OS”), your in-game activity, and your location (based on your Internet Protocol (“IP”) address).  This information is useful to us for troubleshooting and helps us understand usage trends.  It  may also be used to contact you with in-game technical notices, updates, security alerts and support and administrative messages.
 
-Episode Interactive uses country information to customize the user experience and promotions, enforce our terms of service, and make recommendations about user connections.
+Episode Interactive may use country information to customize the user experience and promotions, enforce our terms of service, and make recommendations about user connections.
 
 We may also give users the opportunity to opt-in to location-based services, which rely upon a device’s GPS coordinates.  You may opt-out of these location services via the settings on your device. A user’s location may be used to suggest friends with whom they might want to connect, analyze usage trends or target certain promotions.
 
@@ -78,13 +78,13 @@ Episode Interactive does not share your personal information except as approved 
 
 ·         With your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies.
 
-·         Episode Interactive may engage other companies and individuals to perform services on our behalf.  Examples of these services include sending e-mails to you and analyzing data.  While these agents and service providers may have access to your personal information in connection with the performance of services for Episode Interactive, they may not use such information for any purpose other than providing such services to us.
+·         Episode Interactive may engage other companies and individuals to perform services on our behalf.  Examples of these services include sending e-mails to you and analyzing data.
 
 ·         We may release your information as permitted by law or when we believe that release is appropriate to comply with the law; enforce or apply our rights; or protect the rights, property, or safety of us or our users, or others.  This includes exchanging information with other companies and organizations for fraud protection.
 
 ·         Episode Interactive may share your information in connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of our business to another company.
 
-·         We may share aggregate and anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties.
+·         We may share aggregate or anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties.
 
 **Third Party Tools/Analytics**
 
@@ -92,13 +92,13 @@ The Service may also contain third party tracking tools from third party service
 
 **Advertisements**
 
-You may see our games advertised in other applications or websites.  After clicking on one of these advertisements and installing our game, you will become a user of the Service.  In order to prevent fraud and verify the installs, a unique device identifier may be shared with the advertiser.
+You may see our games advertised in other applications or websites.  After clicking on one of these advertisements and installing our game, you will become a user of the Service. A device identifier and in game or user session activity may be shared with the advertiser.
 
-We use a third-party ad tracking service, MobileAppTracking, for tracking installs resulting from advertisements on other applications or sites.  Please visit <http://www.mobileapptracking.com/privacy-policy/> to see what type of information MobileAppTracking is collecting and using.  You may opt out of such tracking by visiting https://optoutmobile.com/optOut.   If you choose to opt out by visiting such web address, that action is specific to the tracking for such third party ad tracking.
+We may use a third-party ad tracking service, MobileAppTracking, for tracking installs resulting from advertisements on other applications or sites.  Please visit <http://www.mobileapptracking.com/privacy-policy/> to see what type of information MobileAppTracking is collecting and using.  You may opt out of such tracking by visiting https://optoutmobile.com/optOut.   If you choose to opt out by visiting such web address, that action is specific to the tracking for such third party ad tracking.
 
-You may see an “offer wall” displayed in our games that is hosted by an offer wall provider.  The offer wall enables advertisers to provide virtual currency to you in exchange for interacting with an advertisement or for completing a marketing offer with one of those advertisers.  The offer wall providers may collect information about you, including your device identifier, device type, device brand, device model, OS type/version, network type, device language, device locale, and IP address.  In addition, the offer wall provider may collect information related to the performance of the advertisements such as how many times an advertisement is shown, how long an advertisement is viewed, and any click-throughs of an advertisement.
+You may see an “offer wall” displayed in our games that is hosted by an offer wall provider.  The offer wall enables advertisers to provide virtual currency to you in exchange for interacting with an advertisement or for completing a marketing offer with one of those advertisers.  The offer wall providers may collect information about you, including a device identifier, device type, device brand, device model, OS type/version, network type, device language, device locale, and IP address.  In addition, the offer wall provider may collect information related to the performance of the advertisements such as how many times an advertisement is shown, how long an advertisement is viewed, and any click-throughs of an advertisement.
 
-In addition, Episode Interactive may have advertisements in its games regarding other applications or services that are served by third parties.  These third parties may collect and use information about you, including platform, application and OS version, device identifiers, advertising identifiers, Media Access Control (MAC) address, International Mobile Equipment Identity (IMEI), Service user session activity, device usage information and general location information, such as locale (specific location where a given language is spoken), mobile network code/mobile country code, and time zone, to show advertising of interest to you.  For example, Facebook serves advertising in certain of our applications and may target such advertisements based on information Facebook has collected from you.  You can opt-out of such targeted advertisements by using Apple’s “Limit Ad Tracking” setting described [here](http://support.apple.com/kb/ht4228).  Certain video ads are displayed in our games that are served by partners such as Ad Colony and Flurry and which may target users based on certain information that such third party has obtained regarding users.  You can opt out of Ad Colony targeted advertising by visiting <http://privacy.adcolony.com/opt-out> and can opt out of Flurry targeted advertising by visiting <http://www.flurry.com/user-opt-out.html>.  Such third parties serving advertisements may also collect information related to the performance of the advertisements such as how many times an advertisement is shown, how long an advertisement is viewed, and any click-throughs of an advertisement.
+In addition, Episode Interactive may have advertisements in its games regarding other applications or services that are served by third parties.  These third parties may collect and use information about you, including platform, application and OS version, device identifiers, Media Access Control (MAC) address, International Mobile Equipment Identity (IMEI), Service user session activity, device usage information and general location information, such as locale (specific location where a given language is spoken), mobile network code/mobile country code, and time zone, to show advertising of interest to you.  For example, Facebook serves advertising in certain of our applications and may target such advertisements based on information Facebook has collected from you.  You can opt-out of such targeted advertisements by using Apple’s “Limit Ad Tracking” setting described [here](http://support.apple.com/kb/ht4228).  Certain video ads are displayed in our games that are served by partners such as Ad Colony, Flurry, Applovin and Vungle and which may target users based on certain information that such third party has obtained regarding users.  You can opt out of Ad Colony targeted advertising by visiting <http://privacy.adcolony.com/opt-out>, can opt out of Flurry targeted advertising by visiting <http://www.flurry.com/user-opt-out.html>, opt out of Applovin targeted advertising by following the instructions at <https://www.applovin.com/optout>, and opt out of Vungle targeted advertising by following the instructions available here http://www.vungle.com/privacy/.  Such third parties serving advertisements may also collect information related to the performance of the advertisements such as how many times an advertisement is shown, how long an advertisement is viewed, and any click-throughs of an advertisement.
 
 **Changing or Deleting Your Information**
 
@@ -108,7 +108,11 @@ Under California law, California Residents who have an established business rela
 
 **Security**
 
-Episode Interactive has put in place industry standard technical and organizational measures designed to secure your information from accidental loss and from unauthorized access, use, alteration or disclosure.  However, we cannot guarantee that unauthorized third parties will never be able to overcome those measures or use your personal information for improper purposes.  Also please note that email and messaging systems are not considered secure, so we discourage you from sending us personal information through these mediums.
+Episode Interactive has put in place technical and organizational measures designed to secure your information from accidental loss and from unauthorized access, use, alteration or disclosure.  However, we cannot guarantee that unauthorized third parties will never be able to overcome those measures or use your personal information for improper purposes.  Also please note that email and messaging systems are not considered secure, so we discourage you from sending us personal information through these mediums.
+
+**Do Not Track**
+
+We currently do not participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your information.  We may engage third parties, such as marketing or analytics partners, who may collect information about your online activities over time and across different websites when you use our website.
 
 **International Transfer**
 
