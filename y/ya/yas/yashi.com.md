@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016171409id_/http%3A//yashi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231544id_/https%3A//yashi.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Yashi
+# Yashi | Privacy Policy - Yashi
 
-Privacy Policy Statement
+## Privacy Policy Statement
 
 This is the web site of Yashi, Inc.
 
@@ -18,17 +18,14 @@ The information we collect is used for internal review and is then discarded, us
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site please find a list of the individual privacy policy links below:
 
-http://exelate.com/privacy/services-privacy-policy/
+  * http://exelate.com/privacy/services-privacy-policy/
+  * http://www.spotxchange.com/privacy-policy/
+  * http://www.brightroll.com/privacy/
+  * http://www.adap.tv/privacy
+  * http://www.liverail.com/privacy-policy/
+  * http://www.nexage.com/privacy-policy
 
-http://www.spotxchange.com/privacy-policy/
 
-http://www.brightroll.com/privacy/
-
-http://www.adap.tv/privacy
-
-http://www.liverail.com/privacy-policy/
-
-http://www.nexage.com/privacy-policy
 
 These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. Click [here](http://yashi.com/privacy-settings/ "here") if you would like to opt-out of Yashi behavioral advertising.  To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
 
