@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tinyhousetalk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055711id_/http%3A//tinyhousetalk.com/disclaimer-privacy-policy-dmca-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyhousetalk.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315003751id_/http%3A//tinyhousetalk.com/disclaimer-privacy-policy-dmca-policy) for the most accurate reproduction.*
 
 # Disclaimer, Privacy Policy & DMCA Policy
 
-TinyHouseTalk.com Privacy Policy
+Tiny House Media, LLC (doing business as TinyHouseTalk.com) Privacy Policy
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use TinyHouseTalk.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
@@ -62,35 +62,35 @@ If your copyrighted material has been posted on TinyHouseTalk.com and you want t
 
 The following elements must be included in your copyright infringement claim:
 
-\- You must provide evidence of the authorized person to act on behalf of the owner of an exclusive right that is allegedly infringed.
+– You must provide evidence of the authorized person to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-\- You must provide sufficient contact information so that we may contact you. Please include a valid email address, phone number and mailing address.
+– You must provide sufficient contact information so that we may contact you. Please include a valid email address, phone number and mailing address.
 
-\- You must identify in sufficient detail the copyrighted work claimed to have been infringed.
+– You must identify in sufficient detail the copyrighted work claimed to have been infringed.
 
-\- You must provide a statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+– You must provide a statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 
-\- You must provide a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+– You must provide a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-\- The letter must be signed by the authorized person to act on behalf of the owner, or the owner itself, of the exclusive right that is allegedly being infringed.
+– The letter must be signed by the authorized person to act on behalf of the owner, or the owner itself, of the exclusive right that is allegedly being infringed.
 
 You can send the infringement notice to the address below:  
 DMCA Registered Agent  
 Tiny House Media LLC  
-857 3rd ST S  
+300 5th Ave S #332  
 Naples, FL 34102  
 United States
 
 Or send an electronic copy to:  
-tinyhousetalk@gmail.com
+alex@tinyhousetalk.com
 
 Once the proper bona fide infringement notification is received by the Designated Agent it is company policy to do the following:
 
-\- Remove or disable access to the allegedly infringing material
+– Remove or disable access to the allegedly infringing material
 
-\- To notify the content provider, user, member, or other contributor that the material has been removed or disabled
+– To notify the content provider, user, member, or other contributor that the material has been removed or disabled
 
-\- Repeat offenders (content providers, users, members, or other contributors) will have the infringing material removed from the system and the company will terminate the content provider’s access to contributing.
+– Repeat offenders (content providers, users, members, or other contributors) will have the infringing material removed from the system and the company will terminate the content provider’s access to contributing.
 
 Updates and Effective Date
 
