@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the checkgzipcompression.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142642id_/http%3A//checkgzipcompression.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkgzipcompression.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314221649id_/http%3A//checkgzipcompression.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement - Check GZIP compression
-
-With this tool you can check if your webserver is sending the GZIP compressed header to your clients. By enabling GZIP compression on your server, you can save around 50% on your bandwidth usage.
-
-## Privacy statement
 
 ### What information do we collect?
 
