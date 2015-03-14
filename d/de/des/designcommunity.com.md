@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designcommunity.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915115046id_/http%3A//www.designcommunity.com/privacy-dc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designcommunity.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235746id_/http%3A//www.designcommunity.com/privacy-dc.html) for the most accurate reproduction.*
 
 # Privacy Statement for DesignCommunity.com
 
@@ -15,7 +15,7 @@
 
    [3D Discussion](http://www.designcommunity.com/forum-5.html)  
  [User Gallery](http://www.designcommunity.com/gallery.html)  
- [Great Buildings Discussion](http://www.designcommunity.com/forum-6.html)  
+ [Great Buildings Discussion](http://www.designcommunity.com/forums/viewforum.php?f=6)  
  [Scrapbook](http://www.designcommunity.com/scrapbook.html)
 
    [Great Buildings](http://www.greatbuildings.com/gbc.html)  
