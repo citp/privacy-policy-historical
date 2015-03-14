@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlsu.ac.in privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228063258id_/http%3A//mlsu.ac.in/category.php%3Fcatid%3D14%26pageid%3D433) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsu.ac.in privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314214711id_/http%3A//mlsu.ac.in/category.php%3Fcatid%3D14%26pageid%3D433) for the most accurate reproduction.*
 
 # Mohanlal Sukhadia University
 
