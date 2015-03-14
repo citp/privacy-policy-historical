@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826234006id_/https%3A//www.sccu.com/Terms-Disclosures/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315003716id_/https%3A//www.sccu.com/Terms-Disclosures/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Notice I Space Coast Credit Union | Space Coast Credit Union
 
@@ -15,20 +15,18 @@
           * [ Mortgage Refinance ](https://web.archive.org/Personal/Loans/Mortgage-and-Home-Equity-Loans/Mortgage-Loans-for-Home-Refinancing)
           * [ Fixed Rate Home Equity ](https://web.archive.org/Personal/Mortgage-and-Home-Equity-Loans/Fixed-Rate-Home-Equity-Loan)
           * [ Home Equity Line of Credit ](https://web.archive.org/Personal/Mortgages/Home-Equity-Line-of-Credit-\(HELOC\))
-          * [ Resources for Realtors ](https://web.archive.org/Personal/Loans/Resources-for-Realtors)
       *         * [ Checking & Savings ](https://web.archive.org/Personal/Checking-Savings)
           * [ Savings, Certificates & IRAs ](https://web.archive.org/Personal/Savings-Certificates-IRAs)
           * [ Checking & Debit ](https://web.archive.org/Personal/Checking-Savings/Checking-Debit)
           * [ Money Market ](https://web.archive.org/Personal/Money-Market-Accounts)
-      *         * [ Online & e-Services ](https://web.archive.org/Personal/Online-e-Services)
+      *         * [ Online & Mobile Banking ](https://web.archive.org/Personal/Online-e-Services)
           * [ Online Banking ](https://web.archive.org/Personal/OnlineBanking)
-          * [ Mobile & Text Banking ](https://web.archive.org/Personal/Mobile-Text-Banking)
-          * [ e-Services ](https://web.archive.org/Personal/eServices)
+          * [ Mobile Banking ](https://web.archive.org/InnerPageMaster/Personal/Online-e-Services/Mobile-Text-Banking)
       *         * [ Investments & Insurance ](https://web.archive.org/Personal/Investments-Insurance)
           * [ Investment Services ](https://web.archive.org/Personal/Investments-Insurance/Investment-Services)
           * [ Insurance Products ](https://web.archive.org/Personal/Insurance-Products)
       *         * [ Deposit & Loan Rates ](https://web.archive.org/Personal/Deposit-Loan-Rates)
-    * [Start Application](https://web.archive.org/web/20140826234006id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
+    * [Start Application](https://web.archive.org/web/20150315003716id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
   * Business Services 
     * ## BUSINESS SERVICES
 
@@ -52,19 +50,19 @@
           * [ Payroll ](https://web.archive.org/Business-Services/Additional-Business-Services/Payroll)
           * [ Merchant Services ](https://web.archive.org/Business-Services/Additional-Business-Services/Merchant-Services)
           * [ Remote Deposit Capture ](https://web.archive.org/Business-Services/Additional-Business-Services/Remote-Deposit-Capture)
-          * [ Online Banking ](https://web.archive.org/Business-Services/Additional-Business-Services/Online-Banking-Bill-Payer)
-          * [ Mobile Banking ](https://web.archive.org/Business-Services/Additional-Business-Services/Mobile-Banking)
+          * [ Online Banking ](https://web.archive.org/Business-Services/Additional-Business-Services/Online-Banking-Bill-Payer/Online-Banking-1)
+          * [ Mobile Banking ](https://web.archive.org/Business-Services/Additional-Business-Services/Mobile-Banking/Mobile-1)
       *         * [ Business Services ](https://web.archive.org/Business-Services/Business-Services)
           * [ Business Services Managers ](https://web.archive.org/Business-Services/Business-Services-Managers)
-    * [Start Application](https://web.archive.org/web/20140826234006id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
+    * [Start Application](https://web.archive.org/web/20150315003716id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
   * Why SCCU 
     * ## WHY SCCU
 
+      *         * [ News ](https://web.archive.org/Why-SCCU/News)
       *         * [ About SCCU ](https://web.archive.org/Why-SCCU/About-SCCU)
           * [ Legislative Action ](https://web.archive.org/Why-SCCU/Legislative-Action)
-      *         * [ News ](https://web.archive.org/Why-SCCU/News)
-      *         * [ Events Calendar ](https://web.archive.org/Events-Calendar)
       *         * [ Careers ](https://web.archive.org/Why-SCCU/Careers)
+      *         * [ Events Calendar ](https://web.archive.org/Events-Calendar)
       *         * [ Branches/ATMs ](https://web.archive.org/Locations)
       *         * [ Media Center ](https://web.archive.org/Why-SCCU/Media-Center)
       *         * [ Help Center ](https://web.archive.org/Help)
@@ -75,7 +73,8 @@
       *         * [ Member Rewards ](https://web.archive.org/Why-SCCU/Member-Rewards)
       *         * [ Member Discount Program ](https://web.archive.org/Why-SCCU/Member-Discount-Program)
       *         * [ SCCU Blog ](https://web.archive.org/Why-SCCU/SCCU-Blog)
-    * [Start Application](https://web.archive.org/web/20140826234006id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
+          * [ Spanish Blog ](https://web.archive.org/InnerPageMaster/WHY-SCCU/SCCU-Blog/Spanish-Blog-\(1\))
+    * [Start Application](https://web.archive.org/web/20150315003716id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
   * PLANNING & ADVICE 
     * ## PLANNING & ADVICE
 
@@ -85,7 +84,7 @@
       *         * [ Investment Services ](https://web.archive.org/PLANNING-ADVICE/Investment-Services-\(1\))
       *         * [ Home Buying Center ](https://web.archive.org/PLANNING-ADVICE/Home-Buying-Center)
       *         * [ Articles ](https://web.archive.org/PLANNING-ADVICE/Articles)
-    * [Start Application](https://web.archive.org/web/20140826234006id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
+    * [Start Application](https://web.archive.org/web/20150315003716id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
 
 [Home](https://web.archive.org/) > Why SCCU
 
@@ -112,6 +111,8 @@ Financial service providers, such as those that provide quality assurance, mortg
 We may disclose all of the information that we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. To protect our members' privacy, we only work with companies that agree to maintain strong confidentiality protections and limit the use of the information we provide. We do not permit these companies to sell or distribute to other third parties the information we provide to them.
 
 We restrict access to information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal and state laws and regulations to guard your information.
+
+[Click here to print a copy of our privacy policy.](https://web.archive.org/Document-Library/Documents/Pages-from-SCCU-Account-Agreements-and-Disclosures)
 
   * _ _ We recognize the need to provide additional privacy protections for children who visit our site. Learn more about our privacy policy for children who are under the age of 13 by clicking here.
 
