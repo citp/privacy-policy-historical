@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mykoreankitchen.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210152625id_/http%3A//mykoreankitchen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mykoreankitchen.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001331id_/http%3A//mykoreankitchen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - My Korean Kitchen
 
@@ -8,7 +8,11 @@ We collect information from you when you register on our site, subscribe to our 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
+We use third-party advertising companies to serve ads when you visit our web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy](http://www.gourmetads.com/about/privacy-policy)
 
 **What do we use your information for?**
 
@@ -72,4 +76,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 You may contact us via our [contact page](http://mykoreankitchen.com/contact/ "Contact").
 
-This policy was last modified on 28/12/2013
+This policy was last modified on 14/02/2015
