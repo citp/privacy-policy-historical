@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalwealthcenter.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111081538id_/http%3A//nationalwealthcenter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalwealthcenter.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234817id_/https%3A//nationalwealthcenter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | National Wealth Center
 
