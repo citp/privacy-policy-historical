@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duckworth-lewis.com privacy policy that was archived on 2014-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140902193107id_/http%3A//www.duckworth-lewis.com/Home/tabid/37/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duckworth-lewis.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235906id_/http%3A//duckworth-lewis.com/Home/tabid/37/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # The Duckworth Lewis Method - The Duckworth Lewis Calculator for ODI and T20 > Home
 
