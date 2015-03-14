@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticno.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706060200id_/https%3A//ticno.com/%3Fc%3Dm%26lang%3Den%26r%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticno.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314230030id_/https%3A//ticno.com/%3Fc%3Dm%26lang%3Den%26r%3Dprivacy.html) for the most accurate reproduction.*
 
 # Ticno Multibar
 
