@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the cookmates.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172834id_/http%3A//cookmates.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookmates.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314212536id_/http%3A//www.cookmates.com/static/privacy_cookmates.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy sets out how DailyCooking; uses and protects any information that you give while using www.dailycooking.com
+This privacy policy sets out how CookMates; uses and protects any information that you give while using www.CookMates.com
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-DailyCooking may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 11/13/12.
+CookMates may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 11/13/12.
 
 **What we collect**
 
 We may collect the following information:
 
-·       contact information including email address
+Â·Â Â Â Â Â Â contact information including email address
 
-·       demographic information such as postcode, preferences and interests
+Â·Â Â Â Â Â Â demographic information such as postcode, preferences and interests
 
-·       other information relevant to customer surveys and/or offers
+Â·Â Â Â Â Â Â other information relevant to customer surveys and/or offers
 
 **What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-·       We may use the information to improve our products and services. 
+Â·Â Â Â Â Â Â We may use the information to improve our products and services. 
 
-·       We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+Â·Â Â Â Â Â Â We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
-·       From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+Â·Â Â Â Â Â Â From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 **Security**
 
@@ -56,11 +56,11 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-·       whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
+Â·Â Â Â Â Â Â whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
   
 
 
-·       if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us. 
+Â·Â Â Â Â Â Â if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us. 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
