@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the delawareinc.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828090151id_/https%3A//www.delawareinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delawareinc.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000854id_/https%3A//www.delawareinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harvard Business Services, Inc
+
+Last Modified: August 27, 2014
 
 Protecting your privacy is important to Harvard Business Services, Inc. (" **Harvard** " or " **we** " or " **us** "). We strive to keep your personal information confidential. By ensuring that you are aware of and understand the Harvard Customer Privacy Policy, we can provide you with better service. 
 
@@ -30,7 +32,6 @@ _Personal Information_
   * Information by which you may be personally identified, such as name, postal address, email address or telephone number, when you correspond with us, call us to make a purchase or request service, or participate in an online survey or chat function;
   * Your social security number or tax identification number if you authorize us to obtain an employment identification number for your new Delaware company;
   * Information you provide when completing your business filing online through the Website;
-  * Your "Harvard ID" which consists of your Personal Information and is used to save you time and make our web services even easier to use. To use your Harvard ID, simply fill out a brief profile and then choose a password for security. The system saves your information and assigns you a personal Harvard ID. Next time you order something from Harvard, you can simply enter your email address and password â€“ the system will automatically look up the information it needs and give you access to our MyControlDesk features.
   * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our service or requesting further services.
   * Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
 
@@ -116,9 +117,7 @@ The safety and security of your information also depends on you. Where we have g
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
 
-You can review and change your personal information by logging into the Website and visiting your account profile page.
-
-You may also send us an e-mail at [info@delawareinc.com](mailto:info@delawareinc.com) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You can send us an e-mail at [info@delawareinc.com](mailto:info@delawareinc.com) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 Proper access and use of information provided on the Website is governed by our [terms of use](https://www.delawareinc.com/terms-of-use). 
 
