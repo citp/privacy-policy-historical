@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the interparcel.com privacy policy that was archived on 2014-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141112220931id_/http%3A//www.interparcel.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interparcel.com privacy policy that was archived on 2015-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150314215605id_/http%3A//www.interparcel.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
+<!DOCTYPE html><html lang="en"><head>
 
 
 
@@ -32,14 +32,14 @@
 
 
 <!-- Load Web Fonts -->
-<link href="//fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css">
-
+<link href="//fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet" type="text/css">
 
 <!-- CSS Stylesheets -->
 <link rel="stylesheet" href="/css/main.css?v=3">
 <link rel="stylesheet" href="/css/myaccount_menu.css?v=3">
 <link rel="stylesheet" href="/css/panels.css?v=3">
-<link rel="stylesheet" href="/css/form_elements.css?v=3">
+<link rel="stylesheet" href="/css/form_elements.css?v=1">
 
 
 <!-- Select2 Dropdown Setup -->
@@ -47,75 +47,33 @@
 <script src="/js/select2-3.4.5/select2.js"></script>
 
 
+<!-- iCheck Checkbox+Radio Setup -->
+<link rel="stylesheet" href="/js/icheck/skins/square/blue.css"> 
+<script src="/js/icheck/icheck.min.js"></script>
+<script>
+$(document).ready(function(){
+  $('input').iCheck({
+    checkboxClass: 'icheckbox_square-blue',
+    radioClass: 'iradio_square-blue',
+    focusClass: 'square-blue-focus'
+  });
+});
+</script>
+
 <!-- Milonic Menu Setup -->
 <script type="text/javascript" src="/menu/milonic_src.js"></script>	
 <script type="text/javascript" src="/menu/mmenudom.js"></script>
 <script type="text/javascript" src="/menu/menu_data.php"></script>
 
 
-<title>Interparcel Privacy Policy</title>
-<meta name="description" content="Interparcel is committed to protecting your privacy. This page explains what happens with any data that we collect.">
-<meta name="keywords" content="Interparcel privacy policy, privacy policy, interparcel data protection">
 
 
 
-
-<script language="javascript" type="text/javascript" src="https://tracking.websitealive.com/vTracker_v2.asp?objectref=c1&amp;groupid=661&amp;websiteid=0"></script></head>
-
-
-
-
-
-
-<body>
-
-<!--[if lt IE 8.]>
-<script defer type="text/javascript" src="/js/pngfix.js"></script>
-<![endif]-->
-
-
-<noscript>
-  <center>
-  <div class='alert-box error' style="width:800px; position:relative; top:-4px"><b>ERROR: </b>Your browser does not support Javascript, or it is disabled. You must enable Javascript in order to use this website.</div>
-  </center>
-</noscript>
-
+<!-- Scripts -->
 
 <script language="javascript">
 
 var logintimer = 0;
-
-function show_loginform () {
-  document.getElementById('loginbox').style.visibility = "visible";
-}
-
-function hide_loginform () {
-  document.getElementById('loginbox').style.visibility = "hidden";
-  document.getElementById('logintab').src='/images_new/menu_new/mnu_login_off.gif';
-}
-
-function start_logintimer() {
-  if (logintimer != 0) {
-    clearTimeout (logintimer); logintimer = 0;
-  } 
-  document.getElementById('logintab').src='/images_new/menu_new/mnu_login_hover.gif';
-  show_loginform();
-}
-
-function reset_logintimer () {
-  if (logintimer != 0) {
-    clearTimeout (logintimer);
-  }
-  logintimer = setTimeout ('hide_loginform();', 150);
-}
-
-function clear_logintimer () {
-  if (logintimer != 0) {
-    clearTimeout (logintimer); logintimer = 0;
-  }
-}
-
-
 
 var myaccounttimer = 0;
 
@@ -158,12 +116,62 @@ function leave_trackbox() {
   if (trackno == '') {document.getElementById('trackno').value = 'Enter your tracking number...';}
 }
 
+
+
+//SHARED SCRIPTS
+
+function NumbersOnly(e, decimal_allowed, space_allowed) {
+
+  if (typeof (decimal_allowed) === 'undefined') decimal_allowed = false;
+  if (typeof (space_allowed) === 'undefined') space_allowed = false;
+   
+  var key = e.keyCode ? e.keyCode : e.which;
+
+  if (key >= 48 && key <= 57) {return true;}
+  if (key >= 96 && key <= 105) {return true;}
+  if (key == 46 || key == 8) {return true;}
+  if (key == 9) {return true;}
+  
+  if (key == 32 && space_allowed == true) {return true;}
+  if ((key == 110 || key == 190) && decimal_allowed == true) {return true;}
+  
+  return false;
+}
+
 </script>
 
 
 
 
 
+<noscript>
+  <center>
+  <div class='alert-box error' style="width:800px; position:relative; top:-4px"><b>ERROR: </b>Your browser does not support Javascript, or it is disabled. You must enable Javascript in order to use this website.</div>
+  </center>
+</noscript>
+
+
+
+
+<title>Interparcel Privacy Policy</title>
+<meta name="description" content="Interparcel is committed to protecting your privacy. This page explains what happens with any data that we collect.">
+<meta name="keywords" content="Interparcel privacy policy, privacy policy, interparcel data protection">
+
+
+<script language="javascript" type="text/javascript" src="https://tracking.websitealive.com/vTracker_v2.asp?objectref=c1&amp;groupid=661&amp;websiteid=0"></script></head>
+
+
+
+
+
+
+
+
+
+
+
+
+<body>
 
 <!-- Page Header -->
 
@@ -222,7 +230,7 @@ function leave_trackbox() {
 <tbody><tr>
 <td height="42" width="7"></td>
 
-<td width="65" valign="bottom"><a href="http://www.interparcel.com"><img border="0" style="cursor:pointer;" src="/images_new/menu_new/mnu_home_off.gif" onmouseover="this.src='/images_new/menu_new/mnu_home_hover.gif'" onmouseout="this.src='/images_new/menu_new/mnu_home_off.gif'"></a></td><td width="15">&nbsp;</td><td width="133" valign="bottom">
+<td width="65" valign="bottom"><a href="http://www.interparcel.com"><img border="0" style="vertical-align: bottom; cursor:pointer;" src="/images_new/menu_new/mnu_home_off.gif" onmouseover="this.src='/images_new/menu_new/mnu_home_hover.gif'" onmouseout="this.src='/images_new/menu_new/mnu_home_off.gif'"></a></td><td width="15">&nbsp;</td><td width="133" valign="bottom">
 <script>
 with(milonic=new menuname("Quote_Menu")){
   alwaysvisible=1;
@@ -249,7 +257,7 @@ with(milonic=new menuname("Help_Menu")){
   position="relative";aI("image=/images_new/menu_new/mnu_help_off.gif;overimage=/images_new/menu_new/mnu_help_hover.gif;showmenu=Help;url=/help/;");}
 drawMenus();
 </script><div class="mmenucontainer" onmouseout="$_I()" onmouseover="$_J(4)" onselectstart="return 0" id="menu4" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 16px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl4"><tbody><tr><td id="el11" onmouseover="h$(11,0,1)" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl11"><tbody><tr id="td11"><td id="_imgO11"><img onload="_p2(4,this)" border="0" style="display:block;" id="_img11" src="/images_new/menu_new/mnu_help_off.gif"></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink4" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>
-</td><td width="15">&nbsp;</td><td width="108" valign="bottom"><a href="http://www.interparcel.com/contact.php"><img border="0" style="cursor:pointer;" src="/images_new/menu_new/mnu_contact_off.gif" onmouseover="this.src='/images_new/menu_new/mnu_contact_hover.gif'" onmouseout="this.src='/images_new/menu_new/mnu_contact_off.gif'"></a></td><td>&nbsp;</td><td width="92" valign="bottom"><img id="logintab" border="0" style="cursor:pointer;" src="/images_new/menu_new/mnu_login_off.gif" onmouseover="start_logintimer();" onmouseout="reset_logintimer();"></td><td width="7"></td>
+</td><td width="15">&nbsp;</td><td width="108" valign="bottom"><a href="http://www.interparcel.com/contact.php"><img border="0" style="vertical-align: bottom; cursor:pointer;" src="/images_new/menu_new/mnu_contact_off.gif" onmouseover="this.src='/images_new/menu_new/mnu_contact_hover.gif'" onmouseout="this.src='/images_new/menu_new/mnu_contact_off.gif'"></a></td><td>&nbsp;</td><td width="92" valign="bottom"><img id="logintab" border="0" style="vertical-align: bottom" ;="" cursor:pointer;"="" src="/images_new/menu_new/mnu_login_off.gif" onmouseover="show_loginform();"></td><td width="7"></td>
 </tr>
 
 </tbody></table>
@@ -259,7 +267,7 @@ drawMenus();
 
 
 <!-- Container for Login Box Div -->
-<div id="container" style="width:960px; margin: 0 auto; position:relative; z-index:10;" onmouseover="clear_logintimer();" onmouseout="reset_logintimer();">
+<div id="container" style="width:960px; margin: 0 auto; position:relative; z-index:10;">
 
   <!-- Login Box -->
   <div id="loginbox" name="loginbox" style="visibility:hidden; position: absolute; top:0px; left:714px; width:246px">
@@ -270,6 +278,7 @@ drawMenus();
     <table cellpadding="0" cellspacing="0" class="login_menu" width="246">
 
     <tbody><tr>
+    
     <td height="20" valign="top"><img src="/images_new/menu_new/loginbox/loginbox_username.gif"></td>
     </tr>
     
@@ -292,7 +301,7 @@ drawMenus();
     
     <tr>
     <td height="20">
-    <input type="checkbox" name="rememberme" id="rememberme" checked=""><span style="font-size:8pt; color:#ffffff; position:relative; top:-2px">&nbsp;&nbsp;Remember me</span>
+    <div class="icheckbox_square-blue checked" style="position: relative;"><input type="checkbox" name="rememberme" id="rememberme" checked="" style="position: absolute; opacity: 0;"><ins class="iCheck-helper" style="position: absolute; top: 0%; left: 0%; display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"></ins></div><span style="font-size:8pt; color:#ffffff;">&nbsp;&nbsp;&nbsp;Remember me</span>
     </td>
     </tr>
     
@@ -309,6 +318,42 @@ drawMenus();
 
 </div>
 
+
+
+<script>
+function show_loginform () {
+  document.getElementById('logintab').src='/images_new/menu_new/mnu_login_hover.gif';
+  document.getElementById('loginbox').style.visibility = "visible";
+}
+
+function hide_loginform () {
+  document.getElementById('loginbox').style.visibility = "hidden";
+  document.getElementById('logintab').src='/images_new/menu_new/mnu_login_off.gif';
+}
+
+function moveoff_loginform () {
+  if (document.getElementById('loginbox').style.visibility == "visible") {
+    setTimeout ('hide_loginform();', 350);
+  }
+}
+</script>
+
+
+
+  <script>
+  $('#container').mouseover(function(e) {
+      e.stopPropagation();
+  });
+  
+  $('#logintab').mouseover(function(e) {
+      e.stopPropagation();
+  });
+  
+  $(document).mouseover(function() {
+    moveoff_loginform();
+  });
+  </script>
+  
 
 
 
@@ -413,34 +458,7 @@ drawMenus();
 </div><div style="width:200px; float: right;">
 
 
-    <!-- 2nd column container table-->
-  <img src="https://c1.websitealive.com/661/visitor/image/?code_id=246" style="cursor:pointer" onclick="window.open('https://c1.websitealive.com/661/visitor/window/?code_id=246&amp;dl='+escape(document.location.href),'wsa_661_0','height=200,width=200')"><table style="background-color: #ffffff" width="200" cellspacing="0" cellpadding="0">
-
-  
-
-
-
-<!--
-  
-  <tr>
-  <td height=139 valign="top">
-    <a href="/xmas-game/game.php">
-    <image style="position:relative; top: 0px;" src="/images_new/promos/200px/xmas_game.gif" alt="Play our Xmas game" title="Play our Xmas game"></a>
-    </td>
-  </tr> 
-  
-  <tr>
-  <td height=191 valign="top">
-    <a href="/content/christmas-last-posting-dates">
-    <image src="/images_new/promos/200px/christmas-posting-dates-200px.gif" alt="Last posting dates for Christmas" title="Last posting dates for Christmas"></a>
-    </td>
-  </tr>  
-
--->
-
-
-  
-<!-- Start WebsiteAlive Embedded Icon/Tracking Code -->
+  <!-- Start WebsiteAlive Embedded Icon/Tracking Code -->
 <script type="text/javascript">
 function wsa_include_js(){
 var wsa_host = (("https:" == document.location.protocol) ? "https://" : "http://");
@@ -455,17 +473,26 @@ else if (window.addEventListener) {window.addEventListener("load", wsa_include_j
 else {document.addEventListener("load", wsa_include_js, false);}
 </script>
 <!-- End WebsiteAlive Embedded Icon/Tracking Code -->
-  
-  
-  <!-- Start WebsiteAlive Button Code ID: 246 -->
-  
-  <!-- End WebsiteAlive Button Code -->
-  
-  
+
+
+
+
+
+<!-- Start WebsiteAlive Button Code ID: 246 -->
+<img src="https://c1.websitealive.com/661/visitor/image/?code_id=246" style="cursor:pointer; display: block" onclick="window.open('https://c1.websitealive.com/661/visitor/window/?code_id=246&amp;dl='+escape(document.location.href),'wsa_661_0','height=0,width=200')">
+<!-- End WebsiteAlive Button Code -->
+
+
+<!-- 2nd column container table-->
+<table style="background-color: #ffffff" width="200" cellspacing="0" cellpadding="0" border="0">
+
+
+
+
   <tbody><tr>
   <td height="173" valign="top">
     <a href="/sameday">
-    <img src="/images_new/promos/200px/same-day-express-courier.gif" alt="Same Day delivery from interparcel.com" title="Same Day delivery from interparcel.com"></a>
+    <img style="position:relative; top:-1px" src="/images_new/promos/200px/same-day-express-courier.gif" alt="Same Day delivery from interparcel.com" title="Same Day delivery from interparcel.com"></a>
   </td>
   </tr>
 
@@ -580,7 +607,7 @@ else {document.addEventListener("load", wsa_include_js, false);}
 
 <tbody><tr>
 <td valign="middle" height="50">
-&nbsp;&nbsp;Copyright © Interparcel Ltd 2004-2014&nbsp;&nbsp;&nbsp;:
+&nbsp;&nbsp;Copyright © Interparcel Ltd 2004-2015&nbsp;&nbsp;&nbsp;:
 &nbsp;&nbsp;&nbsp;<a href="http://www.interparcel.com/privacy.php" alt="Privacy Policy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;:
 &nbsp;&nbsp;&nbsp;<a href="http://www.interparcel.com/terms.php" alt="Terms Of Use">Terms Of Use</a>&nbsp;&nbsp;&nbsp;:
 &nbsp;&nbsp;&nbsp;<a href="http://www.interparcel.com/site-map/index.php" alt="Site Map">Site Map</a>
@@ -595,10 +622,9 @@ else {document.addEventListener("load", wsa_include_js, false);}
 
 <tr>
 <td valign="top" height="30" style="color: #998866">&nbsp;
-Web Server 2&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;DB Server Local&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Cache Used Geo IP </td>
+Web Server 1&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;DB Server Local&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Rendered in 0.000318 seconds</td>
 </tr>
 </tbody></table> 
 <!---------------------------- FOOTER END----------------------------->
-
 
 </body></html>
