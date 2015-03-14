@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128011812id_/http%3A//bluebottle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005052id_/https%3A//www.bluebottle.com/privacy.php) for the most accurate reproduction.*
 
 # Bluebottle Email: Privacy
 
-[](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
+"I really like the way you guys run things." - **Jake L,**
 
-"Your service is impeccable." - **Perry E,**
+"Your email service is the best one of all. There is no other better spam provider other than yours.... TRULY THE BEST..." - **Jainam S,**
+
+"I can count many email providers who have promised many juicy things and could not fulfill them at all. I can confirm that Bluebottle is different and will remain different... keep up the good job." - **Oyeniyi B,**
 
   
 "Now bluebottle is running smoother than Ever! Thank you very much for supplying me with the service." - **Connagh,**
 
 "Thank YOU for providing a great service! I've got my whole family hooked!" - **Kerryn M,**
-
-"The service is too excellent and I will inform all my colleagues to use this site." - **Maruthi,**
-
-"I see that you've responded to your customers ideas with great services. I would like to thank you for these improvements." - _**Murat S**_
 
 ##  Bluebottle - the Only Anti-Spam solution you will ever need
 
@@ -22,7 +20,7 @@
 ---|---  
 | This Privacy Policy: 
 
-  1. discloses the privacy practices for the websites located at [www.bluebottle.com ](http://www.bluebottle.com/) and [mail.bluebottle.com ](http://mail.bluebottle.com/) (together, the **Website** ), solely operated by Bluebottle Solutions Pty Ltd ( **we** , the **Company** , or **us** ); and 
+  1. discloses the privacy practices for the websites located at [www.bluebottle.com ](https://www.bluebottle.com/) and [mail.bluebottle.com ](https://mail.bluebottle.com/) (together, the **Website** ), solely operated by Bluebottle Solutions Pty Ltd ( **we** , the **Company** , or **us** ); and 
   2. sets out matters relating to the collection, use, disclosure and storage by us of personal information relating to our customers (the **Customer** or **you** ). 
 
   
