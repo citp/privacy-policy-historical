@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the fastfollowerz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120337id_/https%3A//www.fastfollowerz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastfollowerz.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234254id_/https%3A//www.fastfollowerz.com/privacy) for the most accurate reproduction.*
 
-# Fast Followerz |
+# Your Privacy
 
-**What information do we collect?**  
-We collect basic information from you when you register on our site or place an order. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+**What information do we collect?**
 
-**What do we use your information for?**  
+We collect basic information from you when you register on our site or place an order. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. **What do we use your information for?**  
 Any of the information we collect from you may be used in one of the following ways:
 
 -To improve customer service  
--To process transactions
-
+-To process transactions  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
-To send periodic emails  
+To send periodic emails
+
 The email address you provide for order processing, will only be used to send you information and updates pertaining to your order as well as periodic newsletters or promotional materials.
 
 **How do we protect your information?**  
@@ -24,7 +23,7 @@ After a transaction, your private information (credit cards, social security num
 
 **Do we use cookies?**
 
-We do not use cookies.
+In order to provide an optimal user experience, we use cookies for registered clients to bypass the need for entering login information. Additionally, third parties may make use of cookies as well.
 
 **Do we disclose any information to outside parties?**
 
