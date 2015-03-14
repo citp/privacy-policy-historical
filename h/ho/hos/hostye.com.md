@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostye.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123902id_/http%3A//hostye.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostye.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231305id_/http%3A//hostye.com/privacy) for the most accurate reproduction.*
 
 # HostYe.com - Watch over any website!
 
