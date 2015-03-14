@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nbaliveonline.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043511id_/http%3A//nbaliveonline.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbaliveonline.tv privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001440id_/http%3A//nbaliveonline.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NBA LIVE ONLINE
+# Privacy Policy | NBA LIVE STREAMING
 
 At nbaliveonline.tv we are committed to ensuring and protecting your privacy at any time you are on our website or communicate electronically with our personnel. 
 
