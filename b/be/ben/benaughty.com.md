@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benaughty.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015231545id_/http%3A//www.benaughty.com/staticPage/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benaughty.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004409id_/http%3A//www.benaughty.com/staticPage/privacypolicy) for the most accurate reproduction.*
 
 # Casual Dating at BeNaughty
 
@@ -25,18 +25,18 @@ This policy (together with our [terms and conditions of use](https://web.archive
 
 
 **1\. WHO WE ARE**   
-Together Networks Limited is the data controller (for the purposes of the Data Protection Act 1998). We own and/or operate a large number of dating, adult entertainment sites (including mobile applications/apps) through our Group Companies and Partner Sites. We refer to our sites and apps as, collectively, the “Services” within this policy. Some of our terms will make reference to our Group Companies or Partner Sites and any reference in this policy to “us” or “we” or “our” will include our Group Companies and Partner Sites.  
+Northlock Holdings Ltd is the data controller (for the purposes of the Data Protection Act 1998). We own and/or operate a large number of dating, adult entertainment sites (including mobile applications/apps) through our Group Companies and Partner Sites. We refer to our sites and apps as, collectively, the “Services” within this policy. Some of our terms will make reference to our Group Companies or Partner Sites and any reference in this policy to “us” or “we” or “our” will include our Group Companies and Partner Sites.  
 **(a) ABOUT OUR GROUP COMPANIES**  
-As a large organisation we have a number of subsidiary companies (“Group Companies”) that operate some of our sites on our behalf or provide services to us to enable us to provide the Services to you. For data protection purposes, these companies are called data processors and this includes Together Networks Limited, who operates this site. Our Group Companies are all wholly/majorly owned by us.   
+As a large organisation we have a number of subsidiary companies (“Group Companies”) that operate some of our sites on our behalf or provide services to us to enable us to provide the Services to you. For data protection purposes, these companies are called data processors and this includes Northlock Holdings Ltd, who operates this site. Our Group Companies are all wholly/majorly owned by us.   
 **(b) ABOUT OUR PARTNER SITES**  
 We want to offer you a full range of products and services and in order to do that we will share your details across our Partner Sites (See below **Creation of duplicate profiles across our Partner Sites** ) and we will market our different products and services to you (See below **Marketing** ). You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, 'chat up line', description etc. throughout all or part of our Partner Sites and our Group Companies for the purposes of delivering the Services to you.   
 **2\. YOUR RIGHTS TO ACCESS/AMEND THE DATA WE HOLD ON YOU & OPT OUT**   
 **(a) Accessing the data we hold on you**   
 If you want to know what data we hold on you, you have a legal right to obtain this information from us. You can make a Subject Access Request at any time, in writing, by following this simple process. By law, we have up to 40 days to respond to you and reserve the right to make a small charge for this service.  
 To make a Subject Access Request please write to us enclosing a photocopy of a photographic ID (e.g. passport or driving licence) and utility bill (to provide proof of your address). This is to ensure we only send your data to you, or a third party that you expressly authorise in writing to deal with for you.  
-Our address for this purpose only is Vincenti Buildings, 28/19, (Suite No. 1374), Strait Street, VLT 1432, Valletta, Malta  
+Our address for this purpose only is British Virgin Islands, Tortola, Road Town, Trident Chambers, P.O. Box 146  
 **(b) Amending/correcting the data we hold on you**  
-If you want to amend the data we hold that’s also very easy to do. We want to make sure we have everything right so please simply contact us at Vincenti Buildings, 28/19, (Suite No. 1374), Strait Street, VLT 1432, Valletta, Malta to make any amendments to our records.  
+If you want to amend the data we hold that’s also very easy to do. We want to make sure we have everything right so please simply contact us at British Virgin Islands, Tortola, Road Town, Trident Chambers, P.O. Box 146 to make any amendments to our records.  
 **(c) Changing your consent and opting out**  
 It’s ok to change your mind about what data you are allowing us to keep and what you don’t want us to keep. You can amend your settings through your account at any time, or contact our Support team.  
 We have to advise you however, that opting out of some data processing/storage will result in a loss of functionality of the sites and a reduced user experience.  
