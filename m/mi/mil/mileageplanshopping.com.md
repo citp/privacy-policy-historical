@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mileageplanshopping.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073609id_/https%3A//www.mileageplanshopping.com/privacy____.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileageplanshopping.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001515id_/https%3A//www.mileageplanshopping.com/privacy____.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Shop Online at Mileage Plan Shopping
 
