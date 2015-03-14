@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixels.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217165914id_/http%3A//pixels.com/termsofuse.html%3Fdocument%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixels.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233456id_/http%3A//pixels.com/termsofuse.html%3Fdocument%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Terms of Use - Pixels.com
 
