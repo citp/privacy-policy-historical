@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proaudiozone.info privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074336id_/http%3A//proaudiozone.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proaudiozone.info privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314221134id_/http%3A//proaudiozone.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Proaudiozone - Proaudiozone
+# Privacy policy - - Proaudiozone
 
 Privacy Policy for **[http://www.proaudiozone.info](http://www.proaudiozone.info/)**
 
