@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the freecrm.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620235509id_/http%3A//www.freecrm.com/privacy.html%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D650%26width%3D900) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecrm.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002253id_/https%3A//www.freecrm.com/privacy.html) for the most accurate reproduction.*
 
-# Free CRM Privacy Policy effective 06.13.2008
+# FreeCRM CRM Agreement of Terms and Conditions
 
-1\. What personally identifiable information CRM ASP Inc. collects.  
+YOUR DATA IS ALWAYS PRIVATE
+
+1\. What personally identifiable information FreeCRM collects.  
 2\. What personally identifiable information third parties collect through the Web site.  
 3\. What organization collects the information.  
-4\. How CRM ASP Inc. uses the information.  
-5\. With whom CRM ASP Inc. may share user information.  
+4\. How FreeCRM uses the information.  
+5\. With whom FreeCRM may share user information.  
 6\. What choices are available to users regarding collection, use and distribution of the information.  
-7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under CRM ASP Inc. control.  
+7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under FreeCRM control.  
 8\. How users can correct any inaccuracies in the information.  
 
 
-If users have questions or concerns regarding this statement, they should first contact CRM ASP Inc. by privacy@crmasp.com, PHONE, or POSTAL MAIL numbers listed below. 
+If users have questions or concerns regarding this statement, they should first contact FreeCRM by email: privacy at crm pro dot com, PHONE, or POSTAL MAIL numbers listed below. 
 
 Information Collection and Use
 
@@ -20,7 +22,7 @@ Your data is 100% private -- we do not use the data that you put into the system
 
 Information Collection
 
-CRM ASP Inc. collects information from our users at several different points on our Web site. We also collect our client's information as entered by the client. We treat both types of information as confidential. 
+FreeCRM collects information from our users at several different points on our Web site. We also collect our client's information as entered by the client. We treat both types of information as confidential. 
 
 Registration
 
@@ -46,7 +48,7 @@ Some of our business partners use cookies on our site (for example, advertisers)
 
 Third Party Advertising
 
-The ads appearing on this Web site may be delivered to users by third parties or ourselves or any of our Web advertising partners. Information about users' visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. This privacy statement covers the use of cookies by CRM ASP Inc. only and does not cover the use of cookies by any advertisers. 
+The ads appearing on this Web site may be delivered to users by third parties or ourselves or any of our Web advertising partners. Information about users' visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. This privacy statement covers the use of cookies by FreeCRM only and does not cover the use of cookies by any advertisers. 
 
 Log Files
 
@@ -94,7 +96,7 @@ We share aggregated demographic information with our partners and advertisers. T
 
 Third Party Advertisers
 
-CRM ASP Inc. does not share Web site usage information about users with third parties for the purpose of targeting our Internet banner advertisements on this site and other sites. For example, CRM ASP Inc. uses cookies and clear GIFs on this site, which allow them to recognize a user's cookie when a user visits this site. The information they collect and share through this technology is not personally identifiable and is not shared with third parties. 
+FreeCRM does not share Web site usage information about users with third parties for the purpose of targeting our Internet banner advertisements on this site and other sites. For example, FreeCRM uses cookies and clear GIFs on this site, which allow them to recognize a user's cookie when a user visits this site. The information they collect and share through this technology is not personally identifiable and is not shared with third parties. 
 
 These are the instances in which we will share users' personal information: 
 
@@ -110,19 +112,19 @@ We may partner with other third parties to provide specific services. When the u
 
 Business Transitions
 
-In the event CRM ASP Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email or prominent notice on our Web site for 30 days for a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given notice and/or choice consistent with our notification of changes section. 
+In the event FreeCRM goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email or prominent notice on our Web site for 30 days for a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given notice and/or choice consistent with our notification of changes section. 
 
 Choice/Opt-out
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at unsubscribe@crmasp.com. Users may also click on any links contained within the email newsletters which will present a web page to opt-out of any particular newsletter. We also offer an opt-out mechanism on the member setup pages or the user may contact us at phone or postal mail to opt-out. 
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email: unsubscribe at crm pro dot com. Users may also click on any links contained within the email newsletters which will present a web page to opt-out of any particular newsletter. We also offer an opt-out mechanism on the member setup pages or the user may contact us at phone or postal mail to opt-out. 
 
-Some communications from the system are required for all members; the only way to opt-out of system information messages is to terminate the active account as these are required system messages. Users wishing to terminate their accounts may do so at any time by emailing us at support@freecrm.com or requesting via telephone support during normal business hours. 
+Some communications from the system are required for all members; the only way to opt-out of system information messages is to terminate the active account as these are required system messages. Users wishing to terminate their accounts may do so at any time by emailing us at support at crm pro dot com or requesting via telephone support during normal business hours. 
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
 
 Links
 
-This Web site contains links to other sites. Please be aware that we, CRM ASP Inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This Web site contains links to other sites. Please be aware that we, FreeCRM, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 Security
 
@@ -146,8 +148,8 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 Contact Information If users have any questions or suggestions regarding our privacy policy, please contact us at: 
 
-Tel: 866-829-7011 / 415-874-8040 Fax: 480-275-3595
+Tel: 866-829-7011 / 415-874-8040
 
-Email [privacy@crmasp.com](mailto:privacy@crmasp.com)
+Email privacy at crm pro dot com.
 
-Postal Address 58 West Portal Avenue #149 San Francisco, CA 94127
+Postal Address 3053 Filmore St. Ste. #299 San Francisco, CA 94123
