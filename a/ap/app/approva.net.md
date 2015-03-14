@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the approva.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215348id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approva.net privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314230834id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -48,10 +48,10 @@ Please note that the Company does not control the privacy policies or data-shari
 Calls into the Company personnel for technical support and other inquiries may be recorded for quality assurance and training purposes. The Company takes precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.  
 
 
-[ ](http://www.infor.com/company/protected-information-incident-report/ "HIPAA - Protected Information Incident Repo")
+[ ](https://myportal.infor.com/protectedinformationincidentreport/)
 
 **HIPAA - Protected Information Incident Report**
 
 Infor employees, contractors, and partners can report certain types of information incidents they observe in their work for Infor.
 
-[Go to the report/form ](http://www.infor.com/company/protected-information-incident-report/ "HIPAA - Protected Information Incident Repo")
+[Go to the report/form ](https://myportal.infor.com/protectedinformationincidentreport/)
