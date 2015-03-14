@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the selectaccount.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070955id_/https%3A//www.selectaccount.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectaccount.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004234id_/https%3A//www.selectaccount.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SelectAccount
+# Privacy Policy - SelectAccount
 
-## Notice of Privacy Practices
+## 
+
+Notice of Privacy Practices
 
 **For your protection**
 
@@ -130,9 +132,3 @@ A: If you think that we may have violated your privacy rights, or you disagree w
 
 
 Please be assured that we will not take retaliatory action against you if you file a complaint about our privacy practices either with us or HHS.
-
-You are now leaving the SelectAccount Web site to connect with another health care resource.  This Web site has been provided for your convenience only.
-
-SelectAccount does not control or guarantee the accuracy, completeness, or appropriateness of the information, services or resources contained in any other Web site.
-
-Please take the time to read the privacy statement at the new Web site.
