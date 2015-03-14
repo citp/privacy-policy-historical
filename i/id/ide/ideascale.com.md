@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideascale.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024135846id_/http%3A//support.ideascale.com/customer/portal/articles/1002592) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideascale.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001023id_/http%3A//support.ideascale.com/customer/portal/articles/1002592) for the most accurate reproduction.*
 
 # IdeaScale | IdeaScale Privacy Policy
 
