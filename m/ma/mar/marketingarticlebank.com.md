@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingarticlebank.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208112835id_/http%3A//marketingarticlebank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingarticlebank.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314212143id_/http%3A//marketingarticlebank.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marketing Article Bank
 
