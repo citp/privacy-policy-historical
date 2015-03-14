@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fatherly.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914092907id_/http%3A//fatherly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatherly.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315003419id_/http%3A//fatherly.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « Fatherly Fatherly
+# Privacy Policy « Fatherly
 
 Fatherly takes privacy extremely seriously. This Privacy Policy describes how we treat and use the information we collect when you use Fatherly.com or sign-up for our newsletters.
 
 ##### Personal Information
 
-In order to supply you with Fatherly’s daily emails, we need your email address. Fatherly doesn’t collect any information except that expressly provided by you. We will not disclose your personal information to any third party without your consent, except as required to provide you with Fatherly material. Fatherly will never sell, rent, or share your personal information, including your email to any third parties for marketing purposes without your explicit consent.
+In order to supply you with Fatherly’s emails, we need your email address. Fatherly doesn’t collect any information except that expressly provided by you. We will not disclose your personal information to any third party without your consent, except as required to provide you with Fatherly material. Fatherly will never sell, rent, or share your personal information, including your email to any third parties for marketing purposes without your explicit consent.
 
 ##### Other Information
 
@@ -26,7 +26,7 @@ You can unsubscribe from receiving Fatherly emails at any time. You can unsubscr
 
 ##### Third-Party Advertising
 
-The ads appearing on this Web site are delivered to you by xxx our Web advertising partner. View xxx’s privacy policy at xxx Occasionally, you’ll get an email marked “Dedicated Email” in the subject line and in the email header. These emails are not necessarily reflective of the opinions of our editorial staff. They are content paid for by our sponsors (allies), and allow us to provide you with the FREE content you love.
+The ads appearing on this Web site are delivered to you by Doubleclick our Web advertising partner. Occasionally, you’ll get an email marked “Dedicated Email” in the subject line and in the email header. These emails are not necessarily reflective of the opinions of our editorial staff. They are content paid for by our sponsors, and allow us to provide you with the FREE content you love.
 
 ##### Tracking
 
