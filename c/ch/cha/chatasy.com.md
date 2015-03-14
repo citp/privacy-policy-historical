@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatasy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073530id_/http%3A//chatasy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatasy.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005450id_/http%3A//chatasy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Chatasy
 
