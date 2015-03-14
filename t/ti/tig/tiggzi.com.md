@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiggzi.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125200022id_/http%3A//appery.io/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiggzi.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233113id_/https%3A//appery.io/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Appery.io
 
