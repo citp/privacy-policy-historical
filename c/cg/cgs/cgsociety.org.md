@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgsociety.org privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109045406id_/http%3A//www.cgsociety.org/index.php/CGSHome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgsociety.org privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234745id_/http%3A//www.cgsociety.org/index.php/CGSHome/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 ### Introduction
 
-This website is owned and operated by Ballistic Media Pty Ltd.  We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”).  This Privacy Policy applies to the Site only. It does not apply to other websites to which we link.  Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site. 
+This website is owned and operated by The Art Society LLC. We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”). This Privacy Policy applies to the Site only. It does not apply to other websites to which we link. Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site. 
 
 ### 1\. Information Collected
 
@@ -22,15 +22,15 @@ By registering with us, you consent to the use and method of disclosure as descr
 
 **Voluntary Information for Services and Features.**
 
-We also collect personally identifiable information when you choose to use certain other features of the Site, including: i) making purchases, ii) consenting to receive email or text messages about upcoming promotions or events, iii) consenting to receive email, iv) participating in our forum, iv) commenting on articles, and others.  When you choose to use these additional features, we require you to provide your “Contact Information” in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information.  Occasionally, we may also request information such as your shopping preferences and demographics which will help us better serve you and our other users in the future. 
+We also collect personally identifiable information when you choose to use certain other features of the Site, including: i) making purchases, ii) consenting to receive email or text messages about upcoming promotions or events, iii) consenting to receive email, iv) participating in our forum, iv) commenting on articles, and others. When you choose to use these additional features, we require you to provide your “Contact Information” in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information. Occasionally, we may also request information such as your shopping preferences and demographics which will help us better serve you and our other users in the future. 
 
 **Cookies**
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. CGSociety uses cookies to store visitor’s preferences and to record session information. Our site uses "cookies" and other tracking technologies.  Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly.  Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. If a user's system is idle for a defined time, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorised access to the user's information while they are away from their computer. 
+A cookie is a piece of data stored on the user’s computer tied to information about the user. CGSociety uses cookies to store visitor’s preferences and to record session information. Our site uses "cookies" and other tracking technologies. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. If a user's system is idle for a defined time, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorised access to the user's information while they are away from their computer. 
 
 You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Site. 
 
-Third-Party Cookies:  In the course of serving advertisements to this site, our third-party advertisers may place or recognise a unique "cookie" on your browser. 
+Third-Party Cookies: In the course of serving advertisements to this site, our third-party advertisers may place or recognise a unique "cookie" on your browser. 
 
 ### 2\.  Referrals
 
@@ -72,11 +72,11 @@ This privacy statement covers the use of cookies by CGSociety and does not cover
 
 ### 6\.  Accessing and Updating Your Personal Information and Preferences
 
-We provide mechanisms for updating and correcting your personal information for many of our services.  You may modify or remove any of your personal information at any time by logging into your account and accessing features such as edit and account. 
+We provide mechanisms for updating and correcting your personal information for many of our services. You may modify or remove any of your personal information at any time by logging into your account and accessing features such as edit and account. 
 
 ### 7\. Email Choice/Opt-out
 
-If any user who receives an email from the Site and would prefer not to receive such communications in the future, [he or she] can do so by following the instructions in the emails.  In addition, you may send an email to support@cgsociety.org. We will make commercially reasonable efforts to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request. 
+If any user who receives an email from the Site and would prefer not to receive such communications in the future, [he or she] can do so by following the instructions in the emails. In addition, you may send an email to support@cgsociety.org. We will make commercially reasonable efforts to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request. 
 
 ### 8\. Children's Privacy and Parental Controls
 
@@ -92,4 +92,4 @@ CGSociety reserves the right to change this Privacy Policy from time to time at 
 
 ### 11\.  CONTACT INFORMATION:
 
-If you have any questions or concerns regarding this Privacy Policy please contact: Garth Hammet - Privacy Officer privacy@ballisticmedia.net 
+If you have any questions or concerns regarding this Privacy Policy please contact us at [privacy@cgsociety.org](mailto:%20privacy@cgsociety.org). 
