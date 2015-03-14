@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the namestation.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625072654id_/http%3A//namestation.com/popups/content/PrivacyPopup.aspx%23TB_iframe%3Fwidth%3D690%26height%3D600%26autoscale%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the namestation.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315001558id_/http%3A//www.namestation.com/popups/content/PrivacyPopup.aspx%23TB_iframe%3Fwidth%3D690%26height%3D600%26autoscale%3D1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -42,10 +42,17 @@
          m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
      })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-     ga('create', 'UA-383380-1', 'namestation.com');
+     var customUserId = '0';
+
+     if (customUserId != '' & customUserId != '0') {
+         ga('create', 'UA-383380-1', { 'userId': customUserId });
+         ga('set', 'dimension1', customUserId);
+     } else {
+         ga('create', 'UA-383380-1');
+     }
      ga('require', 'displayfeatures');
      ga('require', 'linkid', 'linkid.js');
-     ga('set', '&uid', '0'); 
+   
  </script>
 
 <script type="text/javascript">
@@ -81,13 +88,13 @@
 
 
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.min.js"> </script> 
-<script type="text/javascript" src="/js/2.146/jquery-ui-1.8.5.custom.min.js"></script>
-<script type="text/javascript" src="/js/2.146/functions.js"> </script> 
-<script type="text/javascript" src="/js/2.146/scripts.js"> </script>
-<script type="text/javascript" src="/js/2.146/contestResponseScript.js"> </script>
-<script type="text/javascript" src="/js/2.146/jquery.thickbox.js"> </script>
-<script type="text/javascript" src="/js/2.146/chosen.jquery.min.js"></script>
-<script type="text/javascript" src="/js/2.146/ajax-chosen.js"></script> 
+<script type="text/javascript" src="/js/2.155/jquery-ui-1.8.5.custom.min.js"></script>
+<script type="text/javascript" src="/js/2.155/functions.js"> </script> 
+<script type="text/javascript" src="/js/2.155/scripts.js"> </script>
+<script type="text/javascript" src="/js/2.155/contestResponseScript.js"> </script>
+<script type="text/javascript" src="/js/2.155/jquery.thickbox.js"> </script>
+<script type="text/javascript" src="/js/2.155/chosen.jquery.min.js"></script>
+<script type="text/javascript" src="/js/2.155/ajax-chosen.js"></script> 
 
    
 
@@ -177,9 +184,10 @@
 
         
         <script>
-            ga('send', 'pageview');
+            TrackPageView();
         </script>
     
+
 
     
 </body></html>
