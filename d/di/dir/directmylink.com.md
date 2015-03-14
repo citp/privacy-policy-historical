@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directmylink.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915054921id_/http%3A//www.directmylink.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directmylink.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231754id_/http%3A//www.directmylink.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Direct My Link Free Web Directory
 
