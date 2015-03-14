@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prairieecothrifter.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094309id_/http%3A//prairieecothrifter.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prairieecothrifter.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004207id_/http%3A//prairieecothrifter.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy | Prairie Eco-Thrifter
+# Privacy - Prairie Eco-Thrifter
 
 At **Prairie Eco-Thrifter,** we know that the privacy of your personal information is very important. Here is some information on what types of personal information we collect when you visit and use www.prairieecothrifter.com and how we safeguard your information: 
 
