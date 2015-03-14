@@ -1,67 +1,63 @@
-> *The following text is extracted and transformed from the ximage.me privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928133105id_/http%3A//ximage.me/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ximage.me privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314190525id_/http%3A//pinkbook.me/privacy-policy-p25) for the most accurate reproduction.*
 
-# Privacy Policy - Ximage Sexy Picture Hosting
+# Privacy Policy - Pink Book Escort Reviews MyRedBook
 
-[ximage.me](http://ximage.me/) Privacy Policy
+### Privacy Policy
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+Last updated: March 09, 2015
 
-What personal information do we collect from the people that visit our blog, website or app? When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+Pink Book Me - MyRedBook ("us", "we", or "our") operates the [http://pinkbook.me](http://pinkbook.me/) website (the "Service").
 
-When do we collect information? We collect information from you when you register on our site, subscribe to a newsletter or enter information on our site. 
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-How do we use your information? We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-• To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms and Conditions](http://pinkbook.me/tos-p24), accessible at http://pinkbook.me
 
-• To improve our website in order to better serve you.
+**Information Collection And Use**
 
-How do we protect visitor information? Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible. We do not use an SSL certificate • We do not need an SSL because: we host images for free 
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, phone number and other information ("Personal Information").
 
-Do we use 'cookies'?
+**Log Data**
 
-We do not use cookies for tracking purposes You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies. If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our [services](http://ximage.me/page/tos) will not function properly. However, you can still place orders .
+We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-Third Party Disclosure
+**Cookies**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. Third party links Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. Google Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en We have not enabled Google AdSense on our site but we may do so in the future.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
 
-California Online Privacy Protection Act 
+We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+**Service Providers**
 
-According to CalOPPA we agree to the following: Users can visit our site anonymously Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website. Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-Users will be notified of any privacy policy changes: • On our Privacy Policy Page Users are able to change their personal information: • By logging in to their account
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-How does our site handle do not track signals? We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+**Security**
 
-Does our site allow third party behavioral tracking? It's also important to note that we do not allow third party behavioral tracking
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-COPPA (Children Online Privacy Protection Act)
+**Links To Other Sites**
 
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-We do not specifically market to children under 13. Fair Information Practices
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+**Children's Privacy**
 
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur: We will notify the users via email • Within 1 business day We will notify the users via in site notification • Within 1 business day
+Our Service does not address anyone under the age of 13 ("Children").
 
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
 
-Contacting Us
+**Changes To This Privacy Policy**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-Ximage.me
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-Jacksonville
+Our Privacy Policy agreement was generated by TermsFeed.
 
-USA
+**Contact Us**
 
-Florida
-
-privacy@ximage.com
-
-Last Edited on 2014-09-24
+If you have any questions about this Privacy Policy, please contact us.
