@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castingnetworks.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702020525id_/http%3A//cni.castingnetworks.com/wsdl/webservice.svc/GetCurrentPolicy%3FsiteId%3DNY%26policyType%3DPrivacy%2520Policy%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castingnetworks.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021652id_/http%3A//cni.castingnetworks.com/wsdl/webservice.svc/GetCurrentPolicy%3FsiteId%3DNY%26policyType%3DPrivacy%2520Policy%23PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -40,7 +40,7 @@ You are responsible for and must obtain proper authorization to provide informat
 
 We will use your billing information for as long as you have an account for the time and reasons outlined in this Privacy Policy.
 
-[**Disclosure of Information**](https://web.archive.org/web/20140702020525id_/http%3A//cni.castingnetworks.com/wsdl/webservice.svc/uses)
+[**Disclosure of Information**](https://web.archive.org/web/20150315021652id_/http%3A//cni.castingnetworks.com/wsdl/webservice.svc/uses)
 
 By using the CNI Applications, you agree that we may share your personal information and other information we collect with our affiliated companies, service providers, Industry Professionals (when accessing our Services designed for sharing with such third parties), legal and law enforcement, and others if there is a change of control and as set forth in this Privacy Policy.
 
