@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030155636id_/http%3A//www.taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315042810id_/https%3A//www.taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy for TaxSlayer.com Tax Software
 
@@ -31,10 +31,6 @@ This information does not identify individual visitors and is used to enhance an
 **Clear Gifs (Web Beacons/Web Bugs)**
 
 We employ or our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal information. 
-
-**Participation in Contests, Sweepstakes, Games, or Surveys**
-
-Information we receive when you request services, or information from us or companies with whom we have business relationships, enter contests or sweepstakes, or complete surveys or polls, such as your name, address, e-mail address and payment or billing information. 
 
 **Purchasing our Products**
 
@@ -76,11 +72,11 @@ We will use your name and email address to send newsletters to you. Out of respe
   * **Within TaxSlayer Corporate Family**   
 We may share information about you and the products and services you have purchased from us, among members of the TaxSlayer Corporate family and our parent company of Rhodes Financial Services, all of whom follow our Privacy Policy. However, this information will not be provided to third parties outside our corporate family, except as noted below: 
   * **With Our Service Providers**  
-In some cases, we employ service providers to provide a product you order, to fulfill a service you request, or to market one of our products or services. Examples include using Web analytical software, Web beacons, delivering downloadable products, offering online software applications, or sending e-mails on our behalf. While this may require us to share information, these service providers are strictly prohibited from using your information other than to act on our behalf.
+In some cases, we employ service providers to provide a product you order, to fulfill a service you request, or to market one of our products or services. Examples include using Web analytical software, Web beacons, delivering downloadable products, offering online software applications, or sending e-mails on our behalf. While this may require us to share information, these service providers are strictly prohibited from using your information other than to act on our behalf. 
   * **For Legal Reasons**  
-We may be required to provide information about you to third parties outside of the TaxSlayer corporate family without your consent as provided by law, such as, to respond to a subpoena or court order, judicial process or regulatory authorities, to protect against fraud.
+We may be required to provide information about you to third parties outside of the TaxSlayer corporate family without your consent as provided by law, such as, to respond to a subpoena or court order, judicial process or regulatory authorities, to protect against fraud. 
   * **In Case of Sale of Company**  
-Your information may be transferred in connection with a proposed or actual sale, merger, or transfer of all or a portion of a business or operating unit. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+Your information may be transferred in connection with a proposed or actual sale, merger, or transfer of all or a portion of a business or operating unit. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
 
 
