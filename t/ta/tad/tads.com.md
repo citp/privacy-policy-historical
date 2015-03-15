@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tads.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713100041id_/https%3A//www.tads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tads.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021629id_/https%3A//www.tads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TADS
 
 #### The TADS Privacy Policy describes how we use and protect your customer information. We believe that protecting your privacy is an integral part of the customer service we provide to you.
 
-##### In addition to our policy, we have multiple certifications and audits completed each year, including SSAE-16 Audit, PCI Certification, extensive server testing and strict internal rules for our employees including Red Flags rediness.
+##### In addition to our policy, we have multiple certifications and audits completed each year, including SSAE-16 Audit, PCI Certification, extensive server testing and strict internal rules for our employees including Red Flags readiness.
 
 TADS uses your information to provide the service with your school. School information is used only to provide the service. We never sell your information.
 
@@ -12,9 +12,9 @@ TADS uses your information to provide the service with your school. School infor
 
 The TADS name is a trusted symbol of service and reliability. We are red flag certified to protect against identity theft.
 
-Our physical hosting location is a secure facility with key and pin code access, full-coverage 28-camera monitoring inside and out, redundant power, fire suppression, redundant network connectivity and 24x7x365 alarm, network and environmental monitoring.
+Our dedicated, SSAE-16 audited, PCI and HIPAA-compliant physical hosting location utilizes keycard protocols, biometric scanning protocols, and around-the-clock interior and exterior surveillance. Access is limited to authorized data center personnel—no one can enter the production area without prior clearance and appropriate escort. Every data center employee undergoes thorough background security checks.
 
-Our network and hosting environment are protected by redundant stateful packet inspection firewalls, redundant server hardware and storage, continuous off-site data backup, 24x7x365 application monitoring and a team of highly-skilled technical personnel.
+Unlike most companies, we simply will not trim costs by sharing compute resources with other services or putting our servers and software in the ‘cloud’. Our hardware and software is our own and access is limited to our personnel, our customers and network technicians.
 
 ###### Highlights Of Our Commitment To You
 
