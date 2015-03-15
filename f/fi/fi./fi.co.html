@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fi.co privacy policy that was archived on 2014-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141129163132id_/http%3A//fi.co/information/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fi.co privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315011714id_/http%3A//fi.co/information/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8">
@@ -16,7 +16,7 @@
 	<meta itemprop="description" content="The Founder Institute is a global network of startups and mentors that helps entrepreneurs launch meaningful and enduring technology companies through a three month incubation program.">
 	<meta itemprop="image" content="http://FI.co/images/logo.png">
 <!-- SOCIAL -->
-	<script type="text/javascript" async="" src="//widget.uservoice.com/PQXga6R0EQNhhth4HrGEiA.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+	<script type="text/javascript" async="" src="//widget.uservoice.com/PQXga6R0EQNhhth4HrGEiA.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
 	<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='//platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
 	<script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script>
@@ -38,15 +38,41 @@
 <script src="/javascripts/calendar_date_select/calendar_date_select.js?1386886259" type="text/javascript"></script>
 <link href="/stylesheets/calendar_date_select/silver.css?1392330966" media="screen" rel="stylesheet" type="text/css">
 
-<link href="/stylesheets/institute.css?1412456113" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/institute.css?1424995339" media="screen" rel="stylesheet" type="text/css">
 <link href="/stylesheets/scaffold.css?1386886259" media="screen" rel="stylesheet" type="text/css">
 <script src="/javascripts/admin.js?1386886259" type="text/javascript"></script>
 <link href="http://fi.co/blog.rss" rel="alternate" title="RSS" type="application/rss+xml">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="7CNvJ3qi+49aX5sdS9SpwUX/6CX4hsOeX4eQcdOqBXk=" name="csrf-token">
+<meta content="043Tyxp4NyHd84xC53nIKzs4AJitFC1TOor08JS72LQ=" name="csrf-token">
 <!-- GOOGLE ANALYTICS -->
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-24146281-1']);
+	  _gaq.push(['_trackPageview']);
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+<!-- IMAGE ROTATION -->
+<script type="text/javascript">
+jQuery( function( $ ) {
+    var images = [ "/images/main_1.jpg", "/images/main_2.jpg", "/images/main_3.jpg", "/images/main_4.jpg", "/images/main_5.jpg" ];
+    var currentImage = 0;
+
+    function changeBackground() {
+        $( '#feature_container' ).css( { backgroundImage: 'url(' + images[ ++currentImage ] + ')' } );
+        if ( currentImage >= images.length - 1 ) {
+            currentImage -= images.length;
+        }
+    }
+
+    setInterval( changeBackground, 10000 );  
+});
+</script>
 </head>
-<body onload="location.href='#'" style=""> 
+<body style="">
 <script language="javascript"> 
 function toggle_city() {
 	var ele = document.getElementById("toggleCities");
@@ -110,27 +136,27 @@ function closeDiv() {
 		
 <div id="login">
 		<!-- NOT LOGGED IN -->
-		您未登录。		<a onclick="displayLogin" href="javascript:login_drop();">登录</a>
+		You are not logged in.		<a onclick="displayLogin" href="javascript:login_drop();">Login</a>
 </div>
 
 <div class="login_box_open" id="toggleLogin" style="display:none">
 	<div id="side_login">
-		<form accept-charset="UTF-8" action="http://fi.co/users/login" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="7CNvJ3qi+49aX5sdS9SpwUX/6CX4hsOeX4eQcdOqBXk="></div>
+		<form accept-charset="UTF-8" action="http://fi.co/users/login" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="043Tyxp4NyHd84xC53nIKzs4AJitFC1TOor08JS72LQ="></div>
 			<table>
 				<tbody><tr>
-					<td style="font-size: 12px;">邮箱</td>
+					<td style="font-size: 12px;">Email</td>
 					<td><input id="user_email" name="user[email]" size="30" tabindex="1" type="text"></td>
-					<td><input name="commit" tabindex="3" type="submit" value="登录"></td>
+					<td><input name="commit" tabindex="3" type="submit" value="Login"></td>
 				</tr>
 				<tr>
-					<td style="font-size: 12px;">密码</td>
+					<td style="font-size: 12px;">Password</td>
 					<td><input id="user_password" name="user[password]" size="30" tabindex="2" type="password"></td>
-					<td style="font-size: 12px;"><a href="/information/login" rel="lyteframe" title="Get Your Login Information" rev="width:875px;height:200px;scrolling:no" ,="" tabindex="4">忘记密码？</a>&nbsp;<br></td>
+					<td style="font-size: 12px;"><a href="/information/login" rel="lyteframe" title="Get Your Login Information" rev="width:875px;height:200px;scrolling:no" ,="" tabindex="4">Lost Login?</a>&nbsp;<br></td>
 				</tr>
 			</tbody></table>
 </form>		<div id="login_join">
 			<div id="login_join_text">
-				还没有一个账户？ <a href="/join" ,="" tabindex="5">加入</a>.
+				Don’t have an account? <a href="/join" ,="" tabindex="5">Join</a>.
 				<a id="close_login" onclick="javascript:closeDiv();"><img src="/images/close.png"></a>
 			</div>
 		</div>
@@ -142,7 +168,7 @@ function closeDiv() {
 			<img src="/images/city_pin.png" style="margin-right: 10px;">
 		</div>
 		<div id="city_name">
-			Shenzhen
+			Amsterdam
 		</div>
 		<div id="city_arrow">
 			<img src="/images/city_list_down.png">
@@ -153,9 +179,9 @@ function closeDiv() {
 	<div id="cities_select">
 		<table>
 			<tbody><tr>
-				<td>选择一个创业者学院的地点				</td>
+				<td>Select a Founder Institute Location				</td>
 				<td id="cities_select_small">
-				您的城市不在列表中？ <a href="/contents/unlock">在这里了解得更多。</a>
+				Your city not listed? <a href="/contents/unlock">Learn more here.</a>
 				</td>
 			</tr>
 		</tbody></table>
@@ -170,19 +196,25 @@ function closeDiv() {
 				<li><a href="?target=atlanta">Atlanta</a></li>
 			</ul>
 			<ul>
+				<li><a href="?target=baltimore">Baltimore</a></li>
+			</ul>
+			<ul>
 				<li><a href="?target=bay_area">Bay Area</a></li>
 			</ul>
 			<ul>
 				<li><a href="?target=boston">Boston</a></li>
 			</ul>
 			<ul>
-				<li><a href="?target=charlotte">Charlotte</a></li>
-			</ul>
-			<ul>
 				<li><a href="?target=chicago">Chicago</a></li>
 			</ul>
 			<ul>
 				<li><a href="?target=denver">Denver</a></li>
+			</ul>
+			<ul>
+				<li><a href="?target=fort_lauderdale">Fort Lauderdale</a></li>
+			</ul>
+			<ul>
+				<li><a href="?target=greenville">Greenville</a></li>
 			</ul>
 			<ul>
 				<li><a href="?target=honolulu">Honolulu</a></li>
@@ -218,6 +250,8 @@ function closeDiv() {
 				<li><a href="?target=washington_dc">Washington DC</a></li>
 			</ul>
 		</div>
+		</div>
+		<div class="city_col">
 		<div class="location">
 			<div class="country">
 				Afghanistan
@@ -226,8 +260,6 @@ function closeDiv() {
 				<li><a href="?target=kabul">Kabul</a></li>
 			</ul>
 		</div>
-		</div>
-		<div class="city_col">
 		<div class="location">
 			<div class="country">
 				Australia
@@ -263,7 +295,18 @@ function closeDiv() {
 				Brazil
 			</div>
 			<ul>
+				<li><a href="?target=curitiba">Curitiba</a></li>
+			</ul>
+			<ul>
 				<li><a href="?target=sao_paolo">Sao Paolo</a></li>
+			</ul>
+		</div>
+		<div class="location">
+			<div class="country">
+				Brunei
+			</div>
+			<ul>
+				<li><a href="?target=bandar_seri_begawan">Bandar Seri Begawan</a></li>
 			</ul>
 		</div>
 		<div class="location">
@@ -277,6 +320,8 @@ function closeDiv() {
 				<li><a href="?target=toronto">Toronto</a></li>
 			</ul>
 		</div>
+		</div>
+		<div class="city_col">
 		<div class="location">
 			<div class="country">
 				Chile
@@ -293,11 +338,9 @@ function closeDiv() {
 				<li><a href="?target=shanghai">Shanghai</a></li>
 			</ul>
 			<ul>
-				<li><a href="?target=shenzhen"><span class="bold">Shenzhen</span></a></li>
+				<li><a href="?target=shenzhen">Shenzhen</a></li>
 			</ul>
 		</div>
-		</div>
-		<div class="city_col">
 		<div class="location">
 			<div class="country">
 				Colombia
@@ -352,6 +395,8 @@ function closeDiv() {
 				<li><a href="?target=paris">Paris</a></li>
 			</ul>
 		</div>
+		</div>
+		<div class="city_col">
 		<div class="location">
 			<div class="country">
 				Germany
@@ -360,14 +405,9 @@ function closeDiv() {
 				<li><a href="?target=berlin">Berlin</a></li>
 			</ul>
 			<ul>
-				<li><a href="?target=frankfurt">Frankfurt</a></li>
-			</ul>
-			<ul>
 				<li><a href="?target=munich">Munich</a></li>
 			</ul>
 		</div>
-		</div>
-		<div class="city_col">
 		<div class="location">
 			<div class="country">
 				Greece
@@ -382,6 +422,14 @@ function closeDiv() {
 			</div>
 			<ul>
 				<li><a href="?target=hong_kong">Hong Kong</a></li>
+			</ul>
+		</div>
+		<div class="location">
+			<div class="country">
+				Iceland
+			</div>
+			<ul>
+				<li><a href="?target=reykjavik">Reykjavik</a></li>
 			</ul>
 		</div>
 		<div class="location">
@@ -419,6 +467,8 @@ function closeDiv() {
 				<li><a href="?target=rome">Rome</a></li>
 			</ul>
 		</div>
+		</div>
+		<div class="city_col">
 		<div class="location">
 			<div class="country">
 				Japan
@@ -430,8 +480,6 @@ function closeDiv() {
 				<li><a href="?target=tokyo">Tokyo</a></li>
 			</ul>
 		</div>
-		</div>
-		<div class="city_col">
 		<div class="location">
 			<div class="country">
 				Malaysia
@@ -447,19 +495,13 @@ function closeDiv() {
 			<ul>
 				<li><a href="?target=mexico_city">Mexico City</a></li>
 			</ul>
-			<ul>
-				<li><a href="?target=monterrey">Monterrey</a></li>
-			</ul>
-			<ul>
-				<li><a href="?target=pachuca">Pachuca</a></li>
-			</ul>
 		</div>
 		<div class="location">
 			<div class="country">
 				Netherlands
 			</div>
 			<ul>
-				<li><a href="?target=amsterdam">Amsterdam</a></li>
+				<li><a href="?target=amsterdam"><span class="bold">Amsterdam</span></a></li>
 			</ul>
 		</div>
 		<div class="location">
@@ -486,6 +528,8 @@ function closeDiv() {
 				<li><a href="?target=manila">Manila</a></li>
 			</ul>
 		</div>
+		</div>
+		<div class="city_col">
 		<div class="location">
 			<div class="country">
 				Poland
@@ -494,17 +538,12 @@ function closeDiv() {
 				<li><a href="?target=warsaw">Warsaw</a></li>
 			</ul>
 		</div>
-		</div>
-		<div class="city_col">
 		<div class="location">
 			<div class="country">
 				Portugal
 			</div>
 			<ul>
 				<li><a href="?target=lisbon">Lisbon</a></li>
-			</ul>
-			<ul>
-				<li><a href="?target=porto">Porto</a></li>
 			</ul>
 		</div>
 		<div class="location">
@@ -517,8 +556,13 @@ function closeDiv() {
 			<ul>
 				<li><a href="?target=saint_petersburg">Saint Petersburg</a></li>
 			</ul>
+		</div>
+		<div class="location">
+			<div class="country">
+				Serbia
+			</div>
 			<ul>
-				<li><a href="?target=tomsk">Tomsk</a></li>
+				<li><a href="?target=belgrade">Belgrade</a></li>
 			</ul>
 		</div>
 		<div class="location">
@@ -551,6 +595,16 @@ function closeDiv() {
 				<li><a href="?target=madrid">Madrid</a></li>
 			</ul>
 		</div>
+		</div>
+		<div class="city_col">
+		<div class="location">
+			<div class="country">
+				Sweden
+			</div>
+			<ul>
+				<li><a href="?target=stockholm">Stockholm</a></li>
+			</ul>
+		</div>
 		<div class="location">
 			<div class="country">
 				Thailand
@@ -559,8 +613,6 @@ function closeDiv() {
 				<li><a href="?target=bangkok">Bangkok</a></li>
 			</ul>
 		</div>
-		</div>
-		<div class="city_col">
 		<div class="location">
 			<div class="country">
 				Turkey
@@ -590,11 +642,11 @@ function closeDiv() {
 		</div>
 			<br>
 			<div class="lead_button">
-					<a href="/lead">运营本地学院</a>
+					<a href="/lead">Lead a Chapter</a>
 			</div>
 			
 			<div class="lead_button">
-					<a href="/contents/unlock">开启您的城市</a>
+					<a href="/contents/unlock">Unlock your City</a>
 			</div>
 		
 			
@@ -606,15 +658,15 @@ function closeDiv() {
 <div id="nav_wrap">
 	<div id="top_menu">
 		<ul>
-			<li><a href="/about">关于</a></li>
-			<li><a href="/curriculum">课程</a></li>
-			<li><a href="/mentors">导师</a></li>
-			<li><a href="/companies">毕业公司</a></li>
-			<li><a href="/blog">博客</a></li>		
-			<li><a href="/events">活动</a></li>		
+			<li><a href="/about">About</a></li>
+			<li><a href="/curriculum">Curriculum</a></li>
+			<li><a href="/mentors">Mentors</a></li>
+			<li><a href="/companies">Graduates</a></li>
+			<li><a href="/blog">Blog</a></li>		
+			<li><a href="/events">Events</a></li>		
 			<!-- page_list.html_safe -->
-			<li><a href="/partners">合作伙伴</a></li>
-			<li><a href="/join">加入</a></li>
+			<li><a href="/partners">Partners</a></li>
+			<li><a href="/join">Join</a></li>
 		</ul>
 	</div>
 	
@@ -644,7 +696,7 @@ function closeDiv() {
 			</div>
 			<div class="button">
 				<a href="/lead">
-					运营本地学院				</a>
+					Lead a Chapter				</a>
 			</div>
 	</div>
 
@@ -657,46 +709,38 @@ function closeDiv() {
 	<!--PROMO BOX-->
 	<div id="promo_box">
 			<a href="http://eepurl.com/SLa" target="_blank">Sign up for the Newsletter</a><br>
-			<a href="/events">参加活动</a><br>
-			<a href="/join">申请加入</a><br>
+			<a href="/events">Attend an Event</a><br>
+			<a href="/join">Join the Program</a><br>
 	</div>
 
 	<!--EVENTS-->
 
 	<!--FEATURED NEWS-->
 	<div id="featured_news">
-			<div class="sidebar_title">学院新闻</div>
+			<div class="sidebar_title">Institute News</div>
 			<ul>
-				<li><a href="/posts/11721">The Importance of Social Impact in Startups, According to Mitch Kapor</a></li>
-				<li><a href="/posts/689">Don’t "Look" for a Technical Co-Founder. "Earn" One with These Tips</a></li>
-				<li><a href="/posts/11341">How to Skyrocket Past Your Crowdfunding Goal, with Dema Tio of Vibease</a></li>
-				<li><a href="/posts/11761">The Pros and Cons of Starting Up in Silicon Valley</a></li>
+				<li><a href="/posts/14171">Nexercise to Pitch Silicon Valley Investors at Global Demo Day</a></li>
+				<li><a href="/posts/14111">Great Startups Can Be Built Anywhere: A Look at Regional Entrepreneurial Strengths</a></li>
+				<li><a href="/posts/14081">FI Grad IndoTrading Raises $1.5M Series A, featured on TechInAsia</a></li>
+				<li><a href="/posts/14141">FI Grad Feetz raises $1.25M in seed funding, featured on Wall Street Journal </a></li>
 			</ul>
-			<div class="more_link"><a href="/blog">查看更多新闻</a></div>
+			<div class="more_link"><a href="/blog">See All News</a></div>
 	</div>
 
 
 	<!--PARTNERS-->
 	<div id="partners">
-			<div class="sidebar_title">合作伙伴</div>
+			<div class="sidebar_title">Partners</div>
 			<div class="partner_desc">
-			<table style="width: 240px;" width="240">
-<tbody>
-<tr>
-<td style="border: 0; padding: 10px 0px 10px 0px;"><a href="http://wwwen.zte.com.cn/en/" target="_blank"><img style="width: 200px;" src="../system/upload/FI.ZTE.jpeg" alt="" width="110"></a></td>
-</tr>
-<tr>
-<td style="border: 0; padding: 10px 0px 10px 0px;"><a href="../contents/haxlr8r" target="_blank"><img style="width: 200px;" src="http://www.haxlr8r.com/images/logo-big.png" alt="" width="110"></a></td>
-</tr>
-<tr>
-<td style="border: 0; padding: 10px 0px 10px 0px;"><a href="http://www.angelhere.com" target="_blank"><img style="width: 200px;" src="../system/upload/FISHENZEN1.png" alt="" width="110"></a></td>
-</tr>
-<tr>
-<td style="border: 0; padding: 10px 0px 10px 0px;"><a href="http://weixin.sogou.com/gzh?openid=oIWsFty-8RQyeO__xCaZ0uN72IWc&amp;sourceid=weixinvr" target="_blank"><img style="width: 200px;" src="../system/upload/FISHENZEN2.png" alt="" width="110"></a></td>
-</tr>
-</tbody>
-</table>			</div>
-			<div class="more_link"><a href="/partners">更多合作伙伴</a></div>
+			<p><a href="http://www.microsoft.com/BizSpark/Register.aspx?AccountType=Startup&amp;SecurityCode=LhdKFKHhJL" target="_blank"><img style="border: 0pt none; margin: 5px;" src="http://FI.co/system/upload/SPONSOR-bizspark.jpg" alt=""></a><br> <span style="font-size: xx-small;"><a href="http://www.microsoft.com/BizSpark/Register.aspx?AccountType=Startup&amp;SecurityCode=LhdKFKHhJL" target="_blank">Microsoft BizSpark</a> - Microsoft BizSpark is a global program that helps software startups succeed by giving them access to Microsoft software development tools, connecting them with key industry players, including investors, and providing marketing visibility to help entrepreneurs starting a business. Microsoft BizSpark is a worldwide partner of the Founder Institute, providing software, support, facilities, and mentoring to many entrprenuers within the Fouder Insitute network. Learn more about our <a href="http://www.microsoft.com/bizspark/partners/founderinstitute.aspx">partnership here</a>, and sign-up for <a href="http://www.microsoft.com/BizSpark/Register.aspx?AccountType=Startup&amp;SecurityCode=LhdKFKHhJL">BizSpark here</a>.</span></p>
+<hr>
+<p><span style="font-size: xx-small;"><strong>Clifford Chance</strong> is one of the world's leading law firms, with 33 offices* in 23 countries and some 3,200 legal advisers. <a href="http://www.cliffordchance.com">www.cliffordchance.com</a></span></p>
+<hr>
+<p><span style="font-size: xx-small;"><strong>Sanoma Media</strong> is a media company that crosses frontiers, with her expertise, creativity and appealing content Sanoma creates the right context for advertisers to achieve their objectives.&nbsp;<span class="Apple-style-span">Sanoma Media Netherlands B.V. is a part of the Sanoma Group, an European mediagroup operating in several media sectors in twenty countries&nbsp;<a href="http://www.sanomamedia.nl" target="_blank">www.sanomamedia.nl</a></span></span></p>
+<hr>
+<p><span class="Apple-style-span"><img src="http://www.v-medialab.com/wp-content/uploads/2011/10/vml_logo_100.png" alt="" width="100" height="100"></span></p>
+<p><span style="font-size: xx-small;"><span class="Apple-style-span"><strong>V-Ventures</strong> is a holding&nbsp;</span><span class="Apple-style-span">company with a portfolio of Dutch investments geared towards news- and information supply and management&nbsp;<a href="http://www.v-ventures.nl" target="_blank">www.v-ventures.nl</a>&nbsp;&nbsp;</span></span></p>			</div>
+			<div class="more_link"><a href="/partners">More Partners</a></div>
 	</div>
 	
 	
@@ -798,7 +842,7 @@ function closeDiv() {
 <div id="main_footer">
 	<div id="footer_content">
 		<div id="about">
-			<p> <a href="http://fi.co" target="_blank">创业者学院</a> 是世界上最大的企业家培训和创业启动机构，帮助全球志向远大的创业者组建可持久经营的科技公司。总部设在硅谷但在 40 个国家设有分部，创业者学院已在 5 年内帮助组建了超过 1,310 家公司。公司的任务是“全球化硅谷”并组建在全球可创造 100 万新就业机会的可持久经营经济体系。</p>
+			<p>The&nbsp;<a href="http://fi.co" target="_blank">Founder Institute</a>&nbsp;is the world's largest entrepreneur training and startup launch program, helping aspiring founders across the globe build enduring technology companies. Based in Silicon Valley and with chapters across 50 countries, the Founder Institute has helped launch over 1,563 companies in 5 years. The company's mission is to "Globalize Silicon Valley" and build sustainable startup ecosystems that will create one million new jobs worldwide.</p>
 		</div>
 		<div id="press">
 			<div class="sidebar_title">About Us</div>
@@ -825,7 +869,7 @@ function closeDiv() {
 		</div>
 	</div>
 	<div id="copyright">
-	Copyright © 2014, Founder Institute, Inc. |  All Rights Reserved  |  <a href="/information/terms_of_use">Terms of Use</a>  | <a href="/information/privacy_policy">Privacy Policy</a>
+	Copyright © 2015, Founder Institute, Inc. |  All Rights Reserved  |  <a href="/information/terms_of_use">Terms of Use</a>  | <a href="/information/privacy_policy">Privacy Policy</a>
 	</div>
 
 	
@@ -834,7 +878,7 @@ function closeDiv() {
 	<h2>Feedback Form</h2>
 We welcome your feedback to improve the Institute. Please contact us using the form below, and we will get back to you promptly.
 <hr>
-<form accept-charset="UTF-8" action="/information/feedback" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="7CNvJ3qi+49aX5sdS9SpwUX/6CX4hsOeX4eQcdOqBXk="></div><div id="form">
+<form accept-charset="UTF-8" action="/information/feedback" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="043Tyxp4NyHd84xC53nIKzs4AJitFC1TOor08JS72LQ="></div><div id="form">
 	<div id="item">Your Email Address:</div>
 	<div id="item"><input type="text" name="email"></div>
 </div><div id="clear"></div>
