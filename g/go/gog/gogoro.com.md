@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gogoro.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231061449id_/http%3A//www.gogoro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogoro.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315131459id_/http%3A//www.gogoro.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gogoro
+# Privacy Policy | Gogoro - Introducing the world's first and only Smartscooter™
 
 ## Gogoro Privacy Policy
 
-This Gogoro Privacy Policy was made on October 30, 2014.
+This Gogoro Privacy Policy was updated on January, 5 2015.
 
-Your privacy is important to Gogoro. Gogoro (“Gogoro,” “we,” “us” or “our”) has developed this privacy policy (“ Gogoro Privacy Policy”) to protect the information derived from your use of Gogoro’s web site (the “Site”) that Gogoro collects, stores, uses, and under certain conditions, discloses, shares, or transfers. Gogoro may collect, use, disclose, share, transfer or store your Personal Information and Non-Personal Information according to the provisions of Gogoro Privacy Policy. By visiting the Site, you accept the practices described in Gogoro Privacy Policy.
+Your privacy is important to Gogoro. Gogoro Inc., its affiliates and/or subsidiaries (collectively, “Gogoro”, “we”, “us” or “our”) have developed this privacy policy (“Gogoro Privacy Policy”) to protect the information derived from your use of Gogoro’s web site (the “Site”) that Gogoro collects, stores, uses, and under certain conditions, discloses, shares, or transfers. Gogoro may collect, use, disclose, share, transfer or store your Personal Information and Non-Personal Information according to the provisions of Gogoro Privacy Policy. By visiting the Site, you accept the practices described in Gogoro Privacy Policy.
 
 ### Personal Information Gogoro May Collect and Use
 
@@ -32,7 +32,7 @@ Gogoro may use your Personal Information by Gogoro itself, or through or togethe
 ### Non-Personal Information Gogoro May Collect and Use
 
 Non-Personal Information Gogoro may collect  
-Once you visit the Site or act on a Gogoro email, Gogoro, its affiliates, subsidiaries or strategic partners may use some technologies to collect “Non Personal Information” about your usage of or activity on the Site that cannot, on its own, identify or allow direct association with a specific individual. Non-Personal Information may include, without limitation, information collected by or through web beacons or cookies.
+Once you visit the Site or act on a Gogoro email, Gogoro or Gogoro’s strategic partners may use some technologies to collect “Non Personal Information” about your usage of or activity on the Site that cannot, on its own, identify or allow direct association with a specific individual. Non-Personal Information may include, without limitation, information collected by or through web beacons or cookies.
 
 For instance, web beacons are electronic images that we use on the Site or in Gogoro email that Gogoro sends to you, for the purpose of understanding your usage when you open or take any action via the email.
 
@@ -57,4 +57,4 @@ Gogoro may change the provisions of Gogoro Privacy Policy at any time. If we cha
 
 If you have any questions or comments about Gogoro Privacy Policy, please send an email to [contact@gogoro.com](mailto:contact@gogoro.com).
 
-Copyright © 2014 Gogoro. All rights reserved.
+Copyright © 2014-2015 Gogoro Inc. All rights reserved.
