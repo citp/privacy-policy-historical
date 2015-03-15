@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naturebox.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055556id_/https%3A//naturebox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturebox.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011034id_/https%3A//naturebox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NatureBox
 
-NatureBox, Inc. (“ **Company** ”) is committed to protecting your privacy.  We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at [www.naturebox.com](https://web.archive.org/web/20140626055556id_/https%3A//), (“ **Site** ”) and Services (as defined in the Terms of Use).  Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at [www.naturebox.com/privacy-policy](https://web.archive.org/web/20140626055556id_/https%3A//privacy-policy).
+NatureBox, Inc. (“ **Company** ”) is committed to protecting your privacy.  We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at [www.naturebox.com](https://web.archive.org/web/20150315011034id_/https%3A//), (“ **Site** ”) and Services (as defined in the Terms of Use).  Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at [www.naturebox.com/privacy-policy](https://web.archive.org/web/20150315011034id_/https%3A//privacy-policy).
 
 **1.  ** **User Consent.   **By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy.
 
@@ -88,11 +88,9 @@ NatureBox, Inc. (“ **Company** ”) is committed to protecting your privacy. 
 
 NatureBox, Inc.
 
-444 High Street
+1052 Commercial Street
 
-4th Floor
-
-Palo Alto, CA 94301
+San Carlos, CA 94070
 
 (415) 967-0036
 
