@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxofads.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702213232id_/https%3A//www.boxofads.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofads.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032231id_/https%3A//www.boxofads.com/privacy_policy.php) for the most accurate reproduction.*
 
 # BoxofAds - Privacy Policy
 
@@ -13,7 +13,7 @@ Throughout this document, we may use certain words or phrases, and it is importa
 "Agreement" means these Terms of Service;  
 "BoxOfAds" refers to our company, our Site, or our Service, depending on the context of the usage;  
 "Service" refers to the services that we provide through our Site;  
-"Site" refers to our website, [www.BoxOfAds.com](http://www.boxofads.com/);  
+"Site" refers to our website, [www.BoxOfAds.com](https://www.boxofads.com/);  
 "User" refers to you, those who use our Services, and general visitors to our Site;  
 "You" refers to you, the person who is entering into this Agreement with BoxOfAds.  
 
