@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optionalpha.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044703id_/http%3A//optionalpha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionalpha.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315024207id_/http%3A//optionalpha.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Option Alpha
+# Privacy Policy
 
 No information you provide to Option Alpha will be sold, disclosed, or given to any other party at any time. Contents of the mailing list or any client information will never be sold or provided to anyone else at any time.
 
