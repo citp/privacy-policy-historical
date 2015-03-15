@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the slack.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125051237id_/https%3A//slack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slack.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316002526id_/https%3A//slack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Slack
-
-__On January 1st, 2015, the policies below will go into effect. If you created your account before 11/24/2014 you can review previous versions of our policies from our Policy Archive tab. Please read[our blog post](http://slackhq.com/post/103473448150/slacks-policy-update) and [FAQ](https://slack.zendesk.com/hc/en-us/articles/203950296-FAQs-about-Slack-s-policy-update) that describe the changes and how they may impact you. 
-
-**Effective: 1/1/2015**
 
 ## Our Privacy Principles
 
@@ -20,7 +16,7 @@ If you read nothing else, please read this:
 
 You can see past versions of our Privacy Policy, Terms of Service and other policies in our [Policy Archive](https://web.archive.org/policy-archives).
 
-Effective: January 1, 2014
+Updated: March 11, 2015
 
 This privacy policy is here to help you understand what information we collect at Slack, how we use it, and what choices you have. When we talk about Slack in this policy, we are talking about Slack Technologies, Inc., the company, Slack, the downloadable application, and the Slack website at [www.slack.com](https://www.slack.com/). Slack is available for use via a web browser or applications specific to your desktop or mobile device. 
 
@@ -35,7 +31,7 @@ We collect different kinds of information. Some of it is personally identifiable
   * **Team information.** When you create a team on Slack, we collect your email address (as the team owner), your team name, Slack domain (ex: your-team-name.slack.com), your user name that appears in your Slack team, and password. Optionally, you can provide an email domain to allow people on that domain to sign up for your team without an invitation or individually add email addresses for people you’d like to invite to your team. 
   * **Account and profile information.** The only information we require to create your Slack account is an email address and password. Optional information you can enter into your profile includes information such as your first and last name, what you do, your Skype username, and your phone number. Any information you add to your profile is visible to other people on your team as described on your profile management page. 
   * **Billing information.** We collect billing address and credit card information if you purchase a premium version of Slack. Credit card information is securely passed to our payment processing partner and is not stored at Slack. 
-  * **Log data.** When you use Slack, our servers automatically record information including information that your browser sends whenever you visit a website or your mobile app sends when you’re using it. This log data may include your Internet Protocol address, the address of the web page you visited before coming Slack, your browser type and settings, the date and time of your request, information about your browser configuration and plug-ins, language preferences, and and cookie data. 
+  * **Log data.** When you use Slack, our servers automatically record information including information that your browser sends whenever you visit a website or your mobile app sends when you’re using it. This log data may include your Internet Protocol address, the address of the web page you visited before coming to Slack, your browser type and settings, the date and time of your request, information about your browser configuration and plug-ins, language preferences, and cookie data. 
   * **Device information.** In addition to log data, we may also collect information about the device you’re using Slack on, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you’re using and its settings. 
   * **Geo-location information.** Precise GPS from mobile devices is collected only with your permission. WiFi and IP addresses received from your browser or device may be used to determine approximate location. 
   * **Slack usage information.** This is information about which teams, channels, groups, people, features, content, and links you interact with within Slack and what integrations with related services you use. 
@@ -58,7 +54,7 @@ Cookies are small text files sent by us to your computer and from your computer 
 
 Some cookies are associated with your Slack account and personal information in order to remember that you are logged in and which teams you are logged into. Other cookies are not tied to your Slack account but are unique and allow us to do site analytics and customization, among other things. If you access Slack through your browser, you can manage your cookie settings there but if you disable all cookies you may not be able to use Slack. 
 
-Slack sets and accesses our own cookies on our company-owned domains. In addition, we use 3rd parties like Google Analytics for website analytics. Google Analytics provides their own [opt-out](https://tools.google.com/dlpage/gaoptout). We do not currently recognize or respond to browser-initiated Do Not Track signals as there is no consistent industry standard for compliance. 
+Slack sets and accesses our own cookies on our company-owned domains. In addition, we use 3rd parties like Google Analytics and Mixpanel for website analytics. You may opt-out of third party cookies from [Google Analytics](https://tools.google.com/dlpage/gaoptout) and [Mixpanel](https://mixpanel.com/optout/) on their respective websites. We do not currently recognize or respond to browser-initiated Do Not Track signals as there is no consistent industry standard for compliance. 
 
 ## How we use your information
 
@@ -123,7 +119,7 @@ There are times when communications and related content and other user informati
     * We may share your email address and team name with your organization. If the email address under which you've registered your account belongs to or is controlled by an organization (to be clear, we’re not talking about free web-based email providers like Gmail, Hotmail or Yahoo! Mail) we may disclose that email address and associated team names to that organization in order to help it understand who associated with that organization uses Slack, and to assist the organization with its enterprise accounts. Please do not use a work email address for our services unless you are authorized to do so, and are therefore comfortable with this kind of sharing. 
     * In addition, there may be times when you contact Slack to help resolve an issue specific to a team you are a member of. In order to help resolve the issue, we may need to share your concern with your administrator. When possible, we will try to mask or remove any identifying information before sharing these communications. 
   * **In the event of a merger or sale.** If we engage in a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of the information described in this Privacy Policy. 
-  * **That is aggregated and non-identifiable.** We may also share aggregated or non-personally identifiable information with our partners or others for business or research purposes. For example, we may tell a prospective Slack customer the average number of messages sent within a Slack team in a day or may partner with research firm or academics to explore interesting questions about how workplace communications. Again, this policy is not intended to prohibit the disclosure and use of aggregated or de-identified data. 
+  * **That is aggregated and non-identifiable.** We may also share aggregated or non-personally identifiable information with our partners or others for business or research purposes. For example, we may tell a prospective Slack customer the average number of messages sent within a Slack team in a day or may partner with research firm or academics to explore interesting questions about workplace communications. Again, this policy is not intended to prohibit the disclosure and use of aggregated or de-identified data. 
 
 
 
