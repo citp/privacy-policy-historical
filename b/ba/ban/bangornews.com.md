@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangornews.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007000228id_/http%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangornews.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012329id_/http%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Bangor Daily News — BDN Maine
 
@@ -123,6 +123,20 @@ You may also at any time choose to change or delete your profile from our databa
   3. Modify your information and submit the form.
 
 
+
+## Krux
+
+**Our Opt-out Choice Mechanisms**
+
+**Opt-out  **\- Krux offers a one click opt-out solution [here](http://www.krux.com/consumer_choice/) for users who wish to opt-out of targeting via the Krux technology Platform.  If you choose to opt-out, Krux deletes any targeting data it may have for your computer or browser, and we will no longer target you using our technology Platform.  You will likely still receive advertisements, but Krux will have no input or impact on those ads.  Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you will need to renew your opt-out choice. Also, because we utilize HTML5 cookies to record your opt-out choice, it may take an additional visit to one of our Clients’ websites for your opt-out choice to go into effect.
+
+**Do Not Track**  – Some web browsers offer a mechanism, known as a “Do Not Track” (“DNT”), that allows a user to elect to stop the collection of certain browsing data by websites and technology companies. Currently, the standards regarding the DNT signals and appropriate responses are not defined.  As a result, Krux is experimenting with DNT and may place an opt-out cookie on computers or other devices when we see a valid DNT signal.
+
+**Delete PII**  – While we don’t knowingly obtain PII via our technology Platform, if you’ve provided Krux with PII via the Website (e.g., by sending us an email or by registering with Krux as a Client), Krux provides the ability for users to obtain and correct or request destruction of any PII relating to them maintained by Krux by sending an email to [privacy@krux.com](mailto:privacy@krux.com?subject=Request%20from%20Krux.com%20Privacy%20Page) or by contacting us at the address noted below. We will answer these requests in a reasonable time. We will also allow users to control the delivery of promotional emails from Krux.
+
+**Data Retention**
+
+We do not use any Session Data that is more than six (6) months old for user profiling or targeting.  The source data used to inform user profiling or targeting is stored by Krux for six (6) months, after which time we remove any user identifiers and store the data for up to 5 years.
 
 **Security**
 
