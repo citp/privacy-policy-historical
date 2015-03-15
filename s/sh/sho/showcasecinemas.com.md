@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the showcasecinemas.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029000039id_/http%3A//www.showcasecinemas.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showcasecinemas.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315075117id_/http%3A//www.showcasecinemas.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Showcase Cinemas Movie Theaters
 
-This policy describes the information gathering and dissemination practices of National Amusements, Inc. ("NAI") with respect to the websites it operates: showcasesuperlux.com, showcasecinemas.com, nationalamusements.com and multiplexcinemas.com. The "[Popcorn Club" Online Privacy Policy](http://www.showcasecinemas.com/programs/kids-and-families/popcorn-club/privacy-policy), describes the practices specific to that program.
+This policy describes the information gathering and dissemination practices of National Amusements, Inc. ("NAI") with respect to the websites it operates: showcasesuperlux.com, showcasecinemas.com, nationalamusements.com and multiplexcinemas.com. The "[Popcorn Club" Online Privacy Policy](http://www.showcasecinemas.com/programs/kids-and-families/popcorn-club/privacy-policy), describes the practices specific to that program.
 
 **Non-Personal Information** : Certain non-personal information about visits to our websites is recorded by the standard operation of the Internet servers on which our websites are operated. The non-personal information that we collect includes the type of operating system in use (e.g., Macintosh or Windows), the type of browser being used by the visitor (e.g., Chrome or Internet Explorer), IP addresses, and the number and frequency of visitors to our websites.
 
