@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everhour.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011150115id_/https%3A//everhour.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everhour.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315200404id_/https%3A//everhour.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
