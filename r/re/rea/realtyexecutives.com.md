@@ -1,49 +1,37 @@
-> *The following text is extracted and transformed from the realtyexecutives.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613044748id_/http%3A//realtyexecutives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyexecutives.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315071017id_/http%3A//www.realtyexecutives.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Realty Executives International
+# Privacy Notice
 
-This is the Web site of **Realty Executives International**.
+Because we value your patronage, we want to address any privacy concerns you may have. To that end, we have set forth our privacy policy for handling the information you share with us online. We want your decision to do business with us to be an informed one. 
 
-Our postal address is  
-**4435 East Chandler Blvd.  
-Phoenix, AZ, 85048**
+* ##### Collecting Information
 
-We can be reached via e-mail at [privacy@realtyexecutives.com](mailto:privacy@searchhomes.com), or through the Contact Us page.
+When you visit our Website, we may collect information about you that you voluntarily choose to share with us. This identification information may include, but is not limited to, your name, your physical address, your e­mail address, your telephone and fax numbers, details of your real estate and lending needs and preferences, and other details of your life. 
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
+What may be less obvious to you is that, when you visit our Website, we may collect data involving your usage through the use of “cookies” (i.e. small text files placed on your computer by a Website), Web server logs, and other Web tools. This technology allows us to customize your online experience, as well as track your Internet use. The tracking data we collect may include, but is not limited to, the date and time you visit, the time you spend, the Web pages you view, the other Websites you visit, your search queries, and basic information about your computer, such as your Internet Protocol (“IP”) address, your domain name, your browser type, and the name of your Internet service provider. You may deactivate cookies if you do not want your browsing to be tracked, but doing so may hinder your online experience. 
 
-**Information Collection**
+When visiting our Website, you may be directed, through hyperlinks, to other Websites that are beyond our control. Furthermore, when you are visiting our Website, other companies, such as third party advertisers and sponsors, may be gathering information about you. This Privacy Policy does not cover the collection of information by those other companies and Websites. Although we encourage third parties to provide their own privacy policies, we are not responsible for their activities, such as how they handle the information they collect online. 
 
-In order to provide better service, track usage statistics, and manage session information, SearchHomes.com collects the IP address of all visitors to the site.  While we maintain records of user behavior tied to an IP address (to provide services such as recommendations based on previous homes viewed), we do not use this information to attempt to identify you or seek any additional information beyond your site usage behavior and explicitly-provided information.  That information can include domain names, email addresses, phone numbers, content viewing preferences, and geographic location.  Our usage of this data and procedures for modiifying or removing it from our system are stated below.
+* ##### Using Information Collected
 
-**Information Disclosure**
+We primarily use the identification information you voluntarily share with us to customize your online experience and to do what you have asked of us. We also use your identification information to tell you about our products and services, but you may instruct us not to send communications to you by following the procedure indicated below under “Contacting Us.” On occasion, we use your identification information to validate your identity. As for usage tracking data, we primarily use that information to operate and improve our Website, and to further our marketing efforts. 
 
-The information we collect is used to improve the content of our Web site, used to customize the content and/or layout of our Web site for each individual visitor, used to notify consumers about updates to our Web site, shared with agents or contractors who assist in providing support for our internal operations, and used by us to contact consumers for marketing purposes.  We will share this information with other third parties onlu when we are legally required to do so at the request of appropriate governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site and applicable laws, or to protect against misuse or unauthorized use of our Web site.
+As a general rule, we do not share your information with unaffiliated third parties. We may, however, share your information with our own personnel and our service providers to the extent necessary to fulfill your requests. We may also share your information with our affiliates, but we will not share it with unaffiliated third parties for direct marketing purposes. We reserve the right to disclose your information under limited circumstances, such as to cooperate with law enforcement or judicial authorities as required by law or legal process, to protect our own legal rights, or to protect the public good. 
 
-**Usage of Cookies**
+Whenever you are online, you run the risk that the information you give out will fall into the wrong hands. Although we implement and maintain reasonable security procedures and practices to safeguard your privacy, we cannot guarantee the security of any information you provide to us. We accept no responsibility or liability for the activities of third parties. 
 
-We place small text files known as a “cookie” on our users’ hard drives. A cookie allows searchhomes.com to track your path through our Web site and remember where you left off when you visited us last.  For example, if you searched for Phoenix real estate on your last visit, we can use information in our cookie to bring you immediately to Phoenix properties on your next search.
+* ##### Updating Information
 
-We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, and customize Web site content based on visitors’ browser type or other information that the visitor sends.
+If you would like to review the information about you that we have collected through our Website, or to change that information, you can make that request by following the procedure indicated below under “Contacting Us.” We may require that you verify your identity before we process your request. 
 
-Cookies contain no personally identifiable information.  If you are unregistered or have not logged in, unless you register with us, the cookie cannot be used to identify you.  Furthermore, our cookies cannot be read by third parties and other Web sites.
+* ##### Updating Our Privacy Policy
 
-**Outgoing Communications**
+We may, from time to time, change our Privacy Policy. We will notify you of any changes by posting our updated Privacy Policy on our Website and inserting a new “Effective Date.” 
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.  If you do not want to receive e-mail from us in the future, please click the unsubscribe link in the footer of any email you have received.
+* ##### Contacting Us
 
-Persons who supply us with their telephone numbers on-line will only receive calls providing the information for which they provided us their phone number.  It will only be shared with third parties necessary to provide that information.  For example, we might pass along a user’s phone number to a real estate agent if the user explicity provides such information to schedule an appointment to view a property.
+If you would like to send us a request as indicated above, or if you have any other questions or concerns regarding our Privacy Policy, you may contact us by e­mail at [ customerservice@realtyexecutives.com ](mailto:customerservice@realtyexecutives.com) or call us at (800) 252-3366. 
 
-**Ad Servers**
+* ##### Effective Date:
 
-We do not currently partner with or have special relationships with any third party ad server companies.
-
-**Changes to User-Submitted Personal Information**
-
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them .
-
-**Changes to our Privacy Policy**
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, please check back at our Web site periodically.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+This Privacy Policy is effective as of January 1, 2010. 
