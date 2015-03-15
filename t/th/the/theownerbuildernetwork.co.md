@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theownerbuildernetwork.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134427id_/http%3A//theownerbuildernetwork.co/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theownerbuildernetwork.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011958id_/http%3A//theownerbuildernetwork.co/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | The Owner-Builder Network
 
