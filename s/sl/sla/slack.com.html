@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the slack.com privacy policy that was archived on 2014-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125051237id_/https%3A//slack.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slack.com privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316002526id_/https%3A//slack.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<noscript><meta http-equiv="refresh" content="0; URL=/privacy-policy?nojsmode=1" /></noscript>
-<script async="" src="https://slack.global.ssl.fastly.net/15899/js/libs_beacon_1392444912.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://slack.global.ssl.fastly.net/dcf8/js/libs/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 window.load_start_ms = new Date().getTime();
 window.load_log = [];
 window.logLoad = function(k) {
@@ -57,6 +57,8 @@ window.callSlackAPIUnauthed = function(method, args, callback) {
 	req.send(args2.join('&'));
 }
 </script>
+			<meta name="referrer" content="no-referrer">
+			<meta name="superfish" content="nofish">
 	<script type="text/javascript">
 
 
@@ -83,333 +85,30 @@ var TSMakeLogDate = function() {
 }
 
 var TSSSB = {
-	warn: function(txt) {
-		if (window.TS) return TS.warn(txt);
-		console.warn(txt);
-	},
-	
-	info: function(txt) {
-		if (window.TS) return TS.info(txt);
-		console.info(txt);
-	},
-	
-	// called by the ssb when user is active
-	maybeTickleMS: function() {
-		if (window.TS && TS.ui) {
-			TS.ui.maybeTickleMS()
-		}
-	},
-	
-	// called by the ssb with files
-	filesSelected: function(files) {
-		if (window.TS && TS.view) {
-			TS.view.filesSelected(files);
-		}
-	},
-	
-	// called by the ssb when the user clicks outside the web view
-	ssbChromeClicked: function(on_button) {
-		if (window.TS) {
-			TS.ssbChromeClicked(on_button);
-		}
-	},
-	
-	// to be called from SSB apps
-	openDialog: function(which) {
-		if (which == 'prefs') {
-			if (window.TS && TS.ui && TS.ui.prefs_dialog) TS.ui.prefs_dialog.start();
-			return;
-		}
-		
-		if (which == 'shortcuts') {
-			if (window.TS && TS.ui && TS.ui.shortcuts_dialog) TS.ui.shortcuts_dialog.start();
-			return;
-		}
-		
-		TSSSB.warn('TSSSB.openDialog failed, unrecognized dialog:'+which);
-	},
-	
-	// to be called from SSB apps
-	getThemeValues: function() {
-		if (window.TS && TS.model && TS.model.prefs && TS.model.prefs.sidebar_theme_custom_values) {
-			try {
-				return JSON.parse(TS.model.prefs.sidebar_theme_custom_values);
-			} catch(err) {}
-		}
-		
-		return {};
-	},
-	
-	// to be called from SSB apps
-	getAllTeams: function() {
-		if (window.TS) {
-			return TS.getAllTeams();
-		}
-		
-		return '';
-	},
-
-	// to be called from SSB apps
-	getAPIToken: function() {
-		if (window.TS && TS.model && TS.model.api_token) {
-			return TS.model.api_token;
-		}
-		
-		return ''
-	},
-
-	// to be called from SSB apps
-	getTeamId: function() {
-		if (window.TS && TS.model && TS.model.team && TS.model.team.id) {
-			return TS.model.team.id;
-		}
-		
-		return '';
-	},
-
-	// to be called from SSB apps
-	getUserId: function() {
-		if (window.TS && TS.model && TS.model.user && TS.model.user.id) {
-			return TS.model.user.id;
-		}
-		
-		return '';
-	},
-
-	// to be called from SSB apps
-	focusTabAndSwitchToChannel: function(c_id) {
-		if (!window.TS) return;
-		if (!TS.channels) return;
-		
-		if (c_id.charAt(0) === 'C') {
-			TS.channels.displayChannel(c_id);
-			
-		} else if (c_id.charAt(0) === 'D') {
-			TS.ims.startImById(c_id);
-			
-		} else if (c_id.charAt(0) === 'G') {
-			TS.groups.displayGroup(c_id);
-			
-		} else {
-			return false;
-		}
-		
-		window.focus();
-		return true;
-	},
-
-	// to be called from SSB apps
-	sendMsgFromUser: function(c_id, text) {
-		if (!window.TS) return TSSSB.warn('TSSSB.sendMsgFromUser failed, no window.TS present') && false;
-		if (!TS.client) return TSSSB.warn('TSSSB.sendMsgFromUser failed, no TS.client present') && false;
-		if (!c_id) return TSSSB.warn('TSSSB.sendMsgFromUser failed, no c_id provided') && false;
-		if (!text) return TSSSB.warn('TSSSB.sendMsgFromUser failed, no text provided') && false;
-		
-		var sent = false;
-		if (c_id.indexOf('C') == 0 && TS.channels.getChannelById(c_id)) { // a channel
-			sent = TS.channels.sendMsg(c_id, text);
-
-		} else if (c_id.indexOf('G') == 0 && TS.groups.getGroupById(c_id)) { // a group
-			sent = TS.groups.sendMsg(c_id, text);
-		
-		} else if (TS.ims.getImById(c_id)) {
-			sent = TS.ims.sendMsg(c_id, text);
-		
-		}
-		
-		if (!sent) return TSSSB.warn('TSSSB.sendMsgFromUser failed, invalid c_id or possible permission failure') && false;
-		return true;
-	},
-	timeout_tim: 0,
-	
-	callWinSSB: function(method, args) {
-		var args_str = '';
-		if (args != undefined && args != null) {
-			try {
-				args_str = JSON.stringify(args)
-			} catch(e) {
-				args_str = 'bad/no args';
-			}
-		}
-		
-		if (window.winssb && winssb[method]) {
-			
-			if (args) { 
-				TSSSB.info(TSMakeLogDate()+'TSSSB: calling winssb.'+method+' with args: '+args_str);
-				winssb[method](args);
-			} else {
-				TSSSB.info(TSMakeLogDate()+'TSSSB: calling winssb.'+method+' with no args');
-				winssb[method]();
-			}
-			return true;
-		}
-		
-		TSSSB.warn(TSMakeLogDate()+'TSSSB: failed calling winssb.'+method+' with args: '+args_str);
-		
-		return false;
-		
-	},
-	
-	callMacGap: function(method, args) {
-		var args_str = '';
-		if (args != undefined && args != null) {
-			try {
-				args_str = JSON.stringify(args)
-			} catch(e) {
-				args_str = 'bad/no args';
-			}
-		}
-		
-		//TSSSB.info(TSMakeLogDate()+'TSSSB '+method+' '+args_str);
-		
-		if (method == 'reload' && macgap.app && macgap.app.reload) {
-			macgap.app.reload();
-			return true;
-		}
-		
-		if (method == 'didStartLoading' && macgap.app && macgap.app.didStartLoading) {
-			macgap.app.didStartLoading(args);
-			return true;
-		}
-		
-		if (method == 'didFinishLoading' && macgap.app && macgap.app.didFinishLoading) {
-			macgap.app.didFinishLoading();
-			return true;
-		}
-		
-		if (method == 'setCurrentTeam' && macgap.state && macgap.state.setCurrentTeam) {
-			macgap.state.setCurrentTeam(args);
-			return true;
-		}
-		
-		if (method == 'disableSecureInput' && macgap.app && macgap.app.disableSecureInput) {
-			macgap.app.disableSecureInput();
-			return true;
-		}
-		
-		if (method == 'didSignIn' && macgap.teams && macgap.teams.didSignIn) {
-			macgap.teams.didSignIn();
-			return true;
-		}
-		
-		if (method == 'didSignOut' && macgap.teams && macgap.teams.didSignOut) {
-			macgap.teams.didSignOut();
-			return true;
-		}
-		
-		if (method == 'refreshTileColors' && macgap.teams && macgap.teams.refreshTileColors) {
-			macgap.teams.refreshTileColors();
-			return true;
-		}
-		
-		if (method == 'updateTitleBarColor' && macgap.teams && macgap.teams.updateTitleBarColor) {
-			macgap.teams.updateTitleBarColor(args);
-			return true;
-		}
-		
-		if (method == 'displayTeam' && macgap.teams && macgap.teams.displayTeam) {
-			macgap.teams.displayTeam(args);
-			return true;
-		}
-		
-		if (method == 'speakString' && macgap.app && macgap.app.speakString) {
-			macgap.app.speakString(args);
-			return true;
-		}
-		
-		if (method == 'notify' && macgap.app && macgap.notice && macgap.notice.notify) {
-			macgap.notice.notify(args);
-			return true;
-		}
-		
-		if (method == 'setBadgeCount' && macgap.dock) {
-			if (args.all_unread_highlights_cnt + args.all_unread_cnt) {
-				if (macgap.dock.setBadgeCount) { // tabbed ssb
-					macgap.dock.setBadgeCount(args.all_unread_highlights_cnt, args.all_unread_cnt, args.bullet);
-				} else { // non tabbed ssb
-					var cnt = args.all_unread_highlights_cnt; // if any unread mentions, use that number
-					if (cnt > 9) cnt = '9+'; 
-					if (!cnt) cnt = (args.bullet) ? '•' : ''; // if no all_unread_highlights_cnt then just show • (as long as they have not turned off the pref)
-					macgap.dock.badge = cnt.toString();
-				}
-			} else {
-				macgap.dock.badge = '';
-			}
-			return true;
-		}
-		
-		if (method == 'signInTeam' && macgap.teams && macgap.teams.signInTeam) {
-			macgap.teams.signInTeam()
-			return true;
-		}
-		
-		if (method == 'teamsUpdate' && macgap.teams && macgap.teams.update) {
-			macgap.teams.update(args);
-			return true;
-		}
-		
-		if (method == 'preloadSounds' && macgap.sound && macgap.sound.preloadSounds) {
-			macgap.sound.preloadSounds(args);
-			return true;
-		}
-		
-		if (method == 'playRemoteSound' && macgap.sound && macgap.sound.playRemote) {
-			macgap.sound.playRemote(args);
-			return true;
-		}
-		
-		if (method == 'setImage' && macgap.teams && macgap.teams.setImage && window.TS && TS.model && TS.model.mac_ssb_version >= .68) {
-			macgap.teams.setImage(args);
-			return true;
-		}
-		
-		return false;
-	},
-	
-	call: function(method, args) {
-		if (!window.macgap && !window.winssb) return false;
-		
-		if (method == 'didFinishLoading') {
-			clearTimeout(TSSSB.timeout_tim);
-		}
-		
-		if (method == 'didStartLoading') {
-			clearTimeout(TSSSB.timeout_tim);
-			
-			var ms = args;
-			TSSSB.info(TSMakeLogDate()+'TSSSB.timeout_tim set for ms:'+ms);
-			TSSSB.timeout_tim = setTimeout(function() {
-				TSSSB.info(TSMakeLogDate()+'TSSSB.timeout_tim fired, we\'re about to be reloaded for taking too long');
-				TSSSB.warn(TSMakeLogDate()+' '+JSON.stringify(window.load_log, null, '\t'));
-			}, ms)
-		}
 	
 	
-		if (window.macgap) {
-			return TSSSB.callMacGap(method, args);
-		}
-	
-		if (window.winssb) {
-			return TSSSB.callWinSSB(method, args);
-		}
-		
+	call: function() {
 		return false;
 	}
+	
+	
 }
 
 </script>	<script type="text/javascript">TSSSB.call('didFinishLoading');</script>
 	    <meta charset="utf-8">
-    <title>Privacy Policy | Slack</title>
+    <title data-title-suffix="Slack">Privacy Policy | Slack</title>
     <meta name="author" content="Slack">
 
 							
-														
+															
+    									
 		
 		<!-- output_css "core" -->
-    <link href="https://slack.global.ssl.fastly.net/30094/style/rollup-plastic_1416873536.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/f2af/style/rollup-plastic.css" rel="stylesheet" type="text/css">
 
 	<!-- output_css "regular" -->
-    <link href="https://slack.global.ssl.fastly.net/29990/style/legal_1416618979.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/bb50/style/legal.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/5319/style/libs/lato-1.css" rel="stylesheet" type="text/css">
 
 	
 
@@ -417,63 +116,82 @@ var TSSSB = {
 	
 	
 
-    <!--[if lt IE 9]>
-    <script src="https://slack.global.ssl.fastly.net/1261/js/libs_html5shiv_1361923886.js"></script>
-    <![endif]-->
-
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,300italic,400,700,900,400italic,700italic,900italic" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]>
+	<script src="https://slack.global.ssl.fastly.net/ef0d/js/libs/html5shiv.js"></script>
+	<![endif]-->
 
 	
-<link id="favicon" rel="shortcut icon" href="https://slack.global.ssl.fastly.net/20655/img/icons/favicon-32.png" sizes="16x16 32x32 48x48" type="image/png">
+<link id="favicon" rel="shortcut icon" href="https://slack.global.ssl.fastly.net/272a/img/icons/favicon-32.png" sizes="16x16 32x32 48x48" type="image/png">
 
-<link rel="icon" href="https://slack.global.ssl.fastly.net/9427/img/icons/app-256.png" sizes="256x256" type="image/png">
+<link rel="icon" href="https://slack.global.ssl.fastly.net/ba3c/img/icons/app-256.png" sizes="256x256" type="image/png">
 
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://slack.global.ssl.fastly.net/21506/img/icons/ios-152.png">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://slack.global.ssl.fastly.net/21506/img/icons/ios-144.png">
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://slack.global.ssl.fastly.net/21506/img/icons/ios-120.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://slack.global.ssl.fastly.net/21506/img/icons/ios-114.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://slack.global.ssl.fastly.net/21506/img/icons/ios-72.png">
-<link rel="apple-touch-icon-precomposed" href="https://slack.global.ssl.fastly.net/21506/img/icons/ios-57.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-152.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-144.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-120.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-72.png">
+<link rel="apple-touch-icon-precomposed" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-57.png">
 
 <meta name="msapplication-TileColor" content="#FFFFFF">
-<meta name="msapplication-TileImage" content="https://slack.global.ssl.fastly.net/20655/img/icons/app-144.png">	<script type="text/javascript">
+<meta name="msapplication-TileImage" content="https://slack.global.ssl.fastly.net/272a/img/icons/app-144.png">	<script>
+(function(g){var n=0,h=[];g.onerror=function(a,b,d,f,c){c=c||null;f=f||-1;k?l(a,b,d,f,null,c):h.push([a,b,d,f,null,c])};var k=0,p=function(a){return void 0==a?"":encodeURIComponent(""+a)},s=function(a){var b=[];for(i in a)b.push(i+"="+p(a[i]));var d=new XMLHttpRequest;try{d.open("POST","/jse",1),d.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),d.send(b.join("&"))}catch(f){r.apply(this,a)}},r=function(a){var b;b="/jse?_="+(new Date).getTime();for(var d in a)b+="&"+d+"="+p(a[d]).substr(0,
+255);(new Image).src=b},t=function(a){a=a.stack.split("\n");if(3>a.length)return-2;a=a[1];if(!a)return-3;a=a.split("/");a=a[a.length-1];if(!a)return-4;a=a.split(":");return 3==a.length?parseInt(a[1]):-5},l=function(a,b,d,f,c,e){n++;if(!(10<n)){var h=g.location.href;a.target&&a.type&&(a=a.type);a.indexOf||(a="unknown:"+typeof a);a={e:a,u:b==h?"":b,l:d+(0<=f?", "+f:""),h:h,pl:k};b=e&&e.stack&&g.printStackTrace?printStackTrace({e:e}):e&&e.stack?e.stack:null;!c&&b&&(c="stack: "+b);c&&(a.d=c);g.boot_data&&
+boot_data.version_uid&&(a.v=boot_data.version_uid);g.boot_data&&
+boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==typeof b)try{c=[];for(var m=b.length-1;0<m;m--)b[m]&&c.unshift(b[m]);c.length&&(a.s=c.join("\n"))}catch(l){}1>a.l&&e&&e.stack&&"string"==typeof e.stack&&(a.l=t(e));s(a)}},q=function(){for(var a,b=0;b<h.length;b++)a=h[b],l.apply(this,a);h.length=0;h=null;k=1};g.addEventListener?g.addEventListener("load",q,!1):g.attachEvent("onload",q);g.badtoys||(g.badtoys={log:function(a,b){var d=a&&a.message?a.message:"unknown message";a&&a.name&&
+(d=a.name+": "+d);a.stack&&(b=(b?b+" | ":"")+"stack: "+a.stack);var f=a&&a.fileName?a.fileName:"";!f&&a&&a.sourceURL&&(f=a.sourceURL);var c=0;a&&a.lineNumber&&(c=a.lineNumber);!c&&a&&a.line&&(c=a.line);var e=-1;a&&a.col&&(e=a.col);k?l(d,f,c,e,b,a):h.push([d,f,c,e,b,a])}})})(window);
+</script>
+			<script type="text/javascript">
 
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-106458-17', 'slack.com');
+	ga('create', 'UA-106458-18', 'slack.com');
 	ga('send', 'pageview');
+
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KH2LPK');
 
 	(function(e,c,b,f,d,g,a){e.SlackBeaconObject=d;
 	e[d]=e[d]||function(){(e[d].q=e[d].q||[]).push([1*new Date(),arguments])};
 	e[d].l=1*new Date();g=c.createElement(b);a=c.getElementsByTagName(b)[0];
 	g.async=1;g.src=f;a.parentNode.insertBefore(g,a)
-	})(window,document,"script","https://slack.global.ssl.fastly.net/15899/js/libs_beacon_1392444912.js","sb");
+	})(window,document,"script","https://slack.global.ssl.fastly.net/dcf8/js/libs/beacon.js","sb");
 	sb('set', 'token', '3307f436963e02d4f9eb85ce5159744c');
 	sb('track', 'pageview');
 
-
 	function track(a){ga('send','event','web',a);sb('track',a);}
 
-</script>
+
+	
+	(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+	for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+	
+	mixpanel.init("12d52d8633a5b432975592d13ebd3f34");
+
+	function mixpanel_track(event_name){if(window.mixpanel&&event_name)mixpanel.track(event_name);}
+
+</script>	
 </head>
 
   <body>
 
-  		<script>
+		  			<script>
+		
+			var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+			if (w > 1440) document.querySelector('body').classList.add('widescreen');
+		
+		</script>
 	
-		var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-		if (w > 1440) document.querySelector('body').classList.add('widescreen');
-	
-	</script>
-
   	
 	
 
 	
 	<header>
-					<a href="https://slack.com/" id="header_logo"><img src="https://slack.global.ssl.fastly.net/22564/img/slack_logo_240.png"></a>
+					<a href="https://slack.com/" id="header_logo"><img src="https://slack.global.ssl.fastly.net/558b/img/slack_logo_240.png"></a>
 			<div class="header_nav">
 															<a href="https://slack.com/signin" class="btn header_btn float_right">Sign in</a>
 										<div class="header_links float_right">
@@ -491,26 +209,18 @@ var TSSSB = {
 		<div id="page_contents">
 
 
-	<p class="alert italic">
-		<i class="fa fa-info-circle subtle_silver"></i>
-		On January 1st, 2015, the policies below will go into effect. If you created your account before 11/24/2014 you can review previous versions of our policies from our Policy Archive tab. Please read <a href="http://slackhq.com/post/103473448150/slacks-policy-update" target="_blank">our blog post</a> and <a href="https://slack.zendesk.com/hc/en-us/articles/203950296-FAQs-about-Slack-s-policy-update" target="_blank">FAQ</a> that describe the changes and how they may impact you.
-	</p>
-
-
 <h1>Policies</h1>
 
 <div class="tab_set on_neutral_grey">
 	<a href="/terms-of-service">Terms of Service</a>
 	<a href="/privacy-policy" class="selected">Privacy Policy</a>
 	<a href="/security">Security Practices</a>
-	<a href="/policy-archives">Archives</a>	<a href="/whitehat" class="secondary ">Whitehat</a>
+	<a href="/policy-archives">Archives</a>
+	<a href="/whitehat" class="secondary ">Whitehat</a>
 	<i class="tab_caret fa fa-caret-down"></i>
 	<i class="tab_caret fa fa-caret-up"></i>
 </div>
 <div class="tab_pane selected">
-
-
-	<p><strong>Effective: 1/1/2015</strong></p>
 
 	<h2>Our Privacy Principles</h2>
 
@@ -528,7 +238,7 @@ var TSSSB = {
 
 	<h1>Slack Privacy Policy</h1>
 
-	<p>Effective: January 1, 2014</p>
+	<p>Updated: March 11, 2015</p>
 
 	<p>
 		This privacy policy is here to help you understand what information we collect at Slack, how we use it, and what choices you have. When we talk about Slack in this policy, we are talking about Slack Technologies, Inc., the company, Slack, the downloadable application, and the Slack website at <a href="https://www.slack.com">www.slack.com</a>. Slack is available for use via a web browser or applications specific to your desktop or mobile device.
@@ -558,7 +268,7 @@ var TSSSB = {
 			<b>Billing information.</b> We collect billing address and credit card information if you purchase a premium version of Slack. Credit card information is securely passed to our payment processing partner and is not stored at Slack.
 		</li>
 		<li>
-			<b>Log data.</b> When you use Slack, our servers automatically record information including information that your browser sends whenever you visit a website or your mobile app sends when you’re using it. This log data may include your Internet Protocol address, the address of the web page you visited before coming Slack, your browser type and settings, the date and time of your request, information about your browser configuration and plug-ins, language preferences, and and cookie data. 
+			<b>Log data.</b> When you use Slack, our servers automatically record information including information that your browser sends whenever you visit a website or your mobile app sends when you’re using it. This log data may include your Internet Protocol address, the address of the web page you visited before coming to Slack, your browser type and settings, the date and time of your request, information about your browser configuration and plug-ins, language preferences, and cookie data.
 		</li>
 		<li>
 			<b>Device information.</b> In addition to log data, we may also collect information about the device you’re using Slack on, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you’re using and its settings.
@@ -605,7 +315,7 @@ var TSSSB = {
 	</p>
 
 	<p>
-		Slack sets and accesses our own cookies on our company-owned domains. In addition, we use 3rd parties like Google Analytics for website analytics. Google Analytics provides their own <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">opt-out</a>. We do not currently recognize or respond to browser-initiated Do Not Track signals as there is no consistent industry standard for compliance.
+		Slack sets and accesses our own cookies on our company-owned domains. In addition, we use 3rd parties like Google Analytics and Mixpanel for website analytics. You may opt-out of third party cookies from <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">Google Analytics</a> and <a href="https://mixpanel.com/optout/" target="_blank">Mixpanel</a> on their respective websites. We do not currently recognize or respond to browser-initiated Do Not Track signals as there is no consistent industry standard for compliance.
 	</p>
 
 	<h2>How we use your information</h2>
@@ -747,7 +457,7 @@ var TSSSB = {
 			<b>In the event of a merger or sale.</b> If we engage in a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of the information described in this Privacy Policy.
 		</li>
 		<li>
-			<b>That is aggregated and non-identifiable.</b> We may also share aggregated or non-personally identifiable information with our partners or others for business or research purposes. For example, we may tell a prospective Slack customer the average number of messages sent within a Slack team in a day or may partner with research firm or academics to explore interesting questions about how workplace communications. Again, this policy is not intended to prohibit the disclosure and use of aggregated or de-identified data.
+			<b>That is aggregated and non-identifiable.</b> We may also share aggregated or non-personally identifiable information with our partners or others for business or research purposes. For example, we may tell a prospective Slack customer the average number of messages sent within a Slack team in a day or may partner with research firm or academics to explore interesting questions about workplace communications. Again, this policy is not intended to prohibit the disclosure and use of aggregated or de-identified data.
 		</li>
 	</ul>
 
@@ -792,8 +502,6 @@ var TSSSB = {
 		94107
 	</p>
 
-
-
 	<div class="clear_both"></div>
 
 </div>
@@ -812,19 +520,19 @@ var cdn_url = 'https://slack.global.ssl.fastly.net';
 
 		
 	<!-- output_js "core" -->
-<script type="text/javascript" src="https://slack.global.ssl.fastly.net/28007/js/libs_jquery-2.1.1_1414000604.js" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://slack.global.ssl.fastly.net/28787/js/libs_bootstrap_plastic_1415154507.js" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://slack.global.ssl.fastly.net/10860/js/libs_flash_detect_1381167216.js" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://slack.global.ssl.fastly.net/13459/js/libs_fastclick_1386624392.js" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://slack.global.ssl.fastly.net/26610/js/libs_headroom_1412189418.js" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://slack.global.ssl.fastly.net/30064/js/plastic_1416863803.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/1852/js/libs/jquery-2.1.3.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/c212/js/libs/bootstrap_plastic.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/f66c/js/libs/flash_detect.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/bf3b/js/libs/fastclick.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/8556/js/libs/headroom.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/8827/js/plastic.js" crossorigin="anonymous"></script>
 
 			<!-- output_js "secondary" -->
 
 		<!-- output_js "regular" -->
 
 	
-	<!-- slack-www114 / 2014-11-24 21:12:37 / v30130 -->
+	<!-- slack-www344 / 2015-03-15 17:25:27 / v75a8ebbca614882c75418542c75e7d54579ad8cd -->
 
 
 </body></html>
