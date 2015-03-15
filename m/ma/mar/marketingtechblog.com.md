@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marketingtechblog.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701114058id_/http%3A//www.marketingtechblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingtechblog.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014539id_/http%3A//www.marketingtechblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marketing Technology Blog
 
 ### Intro
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us. At the Marketing Technology Blog, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by The Marketing Technology Blog and how it is used. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us. At the [Marketing Technology](http://www.marketingtechblog.com/technology/ "Marketing Technology") Blog, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by The Marketing Technology Blog and how it is used. 
 
 ### Log Files
 
