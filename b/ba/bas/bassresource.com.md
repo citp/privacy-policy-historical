@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bassresource.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827114104id_/http%3A//www.bassresource.com/fish/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassresource.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014828id_/http%3A//www.bassresource.com/fish/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | The Ultimate Bass Fishing Resource Guide® LLC
 
