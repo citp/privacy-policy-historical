@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thequiltshow.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811055421id_/http%3A//www.thequiltshow.com/os/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thequiltshow.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315123230id_/http%3A//thequiltshow.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
+
+[](http://thequiltshow.com/privacy-notice#)  0
 
 TheQuiltShow.com and its subsidiary companies respect the privacy rights of our online visitors and recognize the importance of protecting the information collected about you. We have adopted a corporate wide Online Privacy Policy that guides how we collect, store and use the information you provide online.
 
