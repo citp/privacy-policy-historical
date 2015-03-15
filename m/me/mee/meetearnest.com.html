@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the meetearnest.com privacy policy that was archived on 2014-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141029004937id_/https%3A//www.meetearnest.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the meetearnest.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315033406id_/https%3A//www.meetearnest.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style="display: block;"><!-- <![endif]--><head>
   <meta charset="utf-8">
@@ -14,16 +14,16 @@
   <meta content="summary" name="twitter:card">
   <meta content="@MeetEarnest" name="twitter:site">
   <meta content="Earnest" name="twitter:title">
-  <meta content="Earnest is a new type of online lender that offers merit-based loans up to $30,000 starting at 4.25% (APR) to financially responsible people." name="twitter:description">
+  <meta content="Our privacy policy—in plain language, and with clear and honest explanations." name="twitter:description">
   <meta content="https://s3.amazonaws.com/earnest-static-assets/logos/earnest-square-icon.png" name="twitter:image:src">
   <meta content="www.meetearnest.com" name="twitter:domain">
   <meta content="nm63eC2D-FJd9zXe3TGLM-xux6StpEeb_Iva0SLoKmw" name="google-site-verification">
-  <link rel="stylesheet" href="/styles/main.793f2e26.css">
-  <link href="/images/favicon/favicon.ee9dce9c.ico" rel="shortcut icon" sizes="16x16 32x32 48x48 64x64">
-  <link href="/images/favicon/favicon.ee9dce9c.ico" rel="shortcut icon" type="image/x-icon">
-  <!--[if IE]> <link rel="shortcut icon" href="/images/favicon/favicon.ee9dce9c.ico"> <![endif]-->
-  <link href="/images/favicon/256x256.ab6f292f.png" rel="apple-touch-icon">
-  <link href="/images/favicon/16x16.0cf8a3af.png" rel="apple-touch-icon" sizes="16x16">
+  <link rel="stylesheet" href="/styles/static.e8c7523c.css">
+  <link href="/images/favicon/favicon.7946bf8d.ico" rel="shortcut icon" sizes="16x16 32x32 48x48 64x64">
+  <link href="/images/favicon/favicon.7946bf8d.ico" rel="shortcut icon" type="image/x-icon">
+  <!--[if IE]> <link rel="shortcut icon" href="/images/favicon/favicon.7946bf8d.ico"> <![endif]-->
+  <link href="/images/favicon/256x256.7bc7a922.png" rel="apple-touch-icon">
+  <link href="/images/favicon/16x16.450d6aad.png" rel="apple-touch-icon" sizes="16x16">
   <link href="/images/favicon/32x32" rel="apple-touch-icon" sizes="32x32">
   <link href="/images/favicon/48x48" rel="apple-touch-icon" sizes="48x48">
   <link href="/images/favicon/128x128" rel="apple-touch-icon" sizes="128x128">
@@ -48,57 +48,78 @@
   <![endif]-->
   <div class="page-wrap static-page" id="privacy" ng-app="clientWww.static.pages" ng-controller="StaticPagesController">
     <div id="nav-view" ng-controller="LandingNavController as nav">
-      <div id="nav-view-top" ng-class="{'menu-open': nav.menuVisible}">
-        <div class="nav-control">
-          <a class="open-menu menu-link" ng-click="nav.toggleMainNav()" ng-cloak="" ng-show="!nav.menuVisible">
-            <div class="icon-nav"></div>
-            <span>menu</span>
-          </a>
-          <a class="close-menu menu-link" ng-click="nav.toggleMainNav()" ng-cloak="" ng-show="nav.menuVisible">close</a>
-        </div>
-        <div id="top-logo">
-          <a class="logo icon-logo" href="/" target="_self">
+      <div est-nav-scroll-position="scroll" id="nav-view-top" ng-class="{scrolled: scroll > 20}">
+        <div class="left-nav">
+          <a class="logo icon-logo-green" href="/" target="_self">
             <div class="visually-hidden">
               Earnest
             </div>
           </a>
-          <a class="logo mobile-logo icon-mobile_logo" href="/" target="_self"></a>
         </div>
-        <div class="my-account">
-          <a est-prevent-default="" id="nav-profile-login" ng-click="nav.login(callback);" ng-cloak="" ng-show="!nav.userData.id">sign in</a>
-          <a est-prevent-default="" id="nav-profile-my-account" ng-click="nav.toggleMyAccount(); $event.stopPropagation();" ng-cloak="" ng-show="nav.userData.id">my account</a>
-          <nav est-click-outside="nav.hideAccountMenu()" ng-cloak="" ng-show="nav.accountMenuVisible">
-            <a class="nav-item" href="/loans/#/initialize" ng-click="nav.hideAccountMenu()" ng-if="nav.Loan.attributes.data.status !== 'apply'">My Account</a>
-            <a class="nav-item" href="/loans/#/profile/start" ng-click="nav.hideAccountMenu()" ng-if="nav.Loan.attributes.data.status === 'apply'">My Profile</a>
-            <a class="nav-item" href="/loans/#/profile/education" ng-click="nav.hideAccountMenu()" ng-if="nav.Loan.attributes.data.status !== 'apply'">My Profile</a>
-            <a class="nav-item" href="/loans/#/settings" ng-click="nav.hideAccountMenu()">Account Settings</a>
-            <a class="nav-item" est-prevent-default="" href="#" id="logout" ng-click="nav.logout()">Sign Out</a>
-          </nav>
+        <div class="mid-nav" ng-cloak="">
+          <ul class="nav-links">
+            <li class="student-item" ng-class="{'active-page': nav.isStudentLanding}">
+              <a href="/" target="_self">Student Loan Refi</a>
+            </li>
+            <li class="personal-item" ng-class="{'active-page': nav.isPersonalLanding}">
+              <a href="/personal-loans" target="_self">Personal Loans</a>
+            </li>
+            <li class="eligibility-item" ng-class="{'active-page': nav.isEligibilityPage}">
+              <a href="/eligibility" target="_self">Eligibility</a>
+            </li>
+            <li class="support-item" ng-class="{'active-page': nav.isSupportPage}">
+              <a href="/support" target="_self">Support</a>
+            </li>
+            <li class="menu-item">
+              <div class="menu"></div>
+              <a class="nav-menu-item" ng-class="{'menu-close': !nav.menuVisible}" ng-click="nav.toggleMainNav(); $event.stopPropagation();" ng-cloak="">
+                <span class="menu-wrapper">
+                  <span class="menu-bar top"></span>
+                  <span class="menu-bar mid"></span>
+                  <span class="menu-bar bottom" id="safari-bar-hack"></span>
+                </span>
+                Menu
+              </a>
+              <div class="landing-menu" est-click-outside="nav.toggleMainNav(false)" ng-cloak="" ng-show="nav.menuVisible">
+                <a class="nav-item-large student-menu-item" href="/" target="_self">Student Loans</a>
+                <a class="nav-item-large personal-menu-item" href="/personal-loans" target="_self">Personal Loans</a>
+                <a class="nav-item-large eligibility-menu-item" href="/eligibility" target="_self">Eligibility</a>
+                <a class="nav-item-large support-menu-item" href="/support" target="_self">Support</a>
+                <a class="nav-item-large" href="/how-it-works" target="_self">How It Works</a>
+                <a class="nav-item-large" href="/about-us" target="_self">About Us</a>
+                <a class="nav-item sub-menu-start" href="/values" target="_self">Values</a>
+                <a class="nav-item" href="http://blog.meetearnest.com/" target="_self">Blog</a>
+                <a class="nav-item" href="/careers" target="_self">Careers</a>
+                <a class="nav-item" href="/press" target="_self">Press</a>
+                <a class="nav-item" href="/principles-of-underwriting" target="_self">Underwriting</a>
+                <a class="nav-item" href="/terms-of-service" target="_self">Terms</a>
+                <a class="nav-item" href="/privacy" target="_self">Privacy</a>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="right-nav">
+          <button class="transparent-button nav-sign-in" ng-click="nav.login()" ng-cloak="" ng-if="!nav.userData.id">SIGN IN</button>
+          <button class="transparent-button nav-sign-in" ng-click="nav.goToDefaultState()" ng-cloak="" ng-if="nav.userData.id">SIGN IN</button>
+          <button class="primary-button nav-check-rate" ng-click="nav.checkRate()" ng-cloak="" ng-if="nav.isStudentLanding">GET YOUR RATE</button>
+          <button class="primary-button nav-get-loan" ng-click="nav.getYourLoan()" ng-cloak="" ng-show="nav.isPersonalLanding">GET YOUR LOAN</button>
+          <button class="transparent-button mobile-menu-button icon-nav-menu" ng-click="nav.toggleMobileMenu()">MENU</button>
         </div>
       </div>
-      <div id="nav-view-menu" ng-cloak="" ng-show="nav.menuVisible">
-        <nav>
-          <div class="mobile-left">
-            <div class="primary-nav-group">
-              <a class="nav-item" href="/how-it-works" target="_self">How It Works</a>
-              <a class="nav-item" href="/eligibility" target="_self">Eligibility</a>
-              <a class="nav-item" href="/meet-earnest" target="_self">About Us</a>
-              <a class="nav-item" href="/faqs" target="_self">FAQs</a>
-            </div>
-            <div class="minor-nav-group">
-              <a class="nav-item" href="/careers" target="_self">Careers</a>
-            </div>
-          </div>
-          <div class="mobile-right">
-            <div class="minor-nav-group">
-              <a class="nav-item" href="http://blog.meetearnest.com/" target="_self">Blog</a>
-              <a class="nav-item" href="/press" target="_self">Press</a>
-              <a class="nav-item" href="/principles-of-underwriting" target="_self">Underwriting</a>
-              <a class="nav-item" href="/terms-of-service" target="_self">Terms</a>
-              <a class="nav-item" href="/privacy" target="_self">Privacy</a>
-            </div>
-          </div>
-        </nav>
+      <div class="mobile-landing-menu" ng-cloak="" ng-show="nav.mobileMenuVisible">
+        <a class="mobile-nav-item" href="/" target="_self">Student Loan Refi</a>
+        <a class="mobile-nav-item" href="/personal-loans" target="_self">Personal Loans</a>
+        <a class="mobile-nav-item" href="/eligibility" target="_self">Eligibility</a>
+        <a class="mobile-nav-item" href="/support" target="_self">Support</a>
+        <a class="mobile-nav-item" href="/how-it-works" target="_self">How It Works</a>
+        <a class="mobile-nav-item" href="/about-us" target="_self">About Us</a>
+        <a class="mobile-nav-item" href="/values" target="_self">Values</a>
+        <a class="mobile-nav-item" href="http://blog.meetearnest.com/" target="_self">Blog</a>
+        <a class="mobile-nav-item" href="/careers" target="_self">Careers</a>
+        <a class="mobile-nav-item" href="/press" target="_self">Press</a>
+        <a class="mobile-nav-item" href="/principles-of-underwriting" target="_self">Underwriting</a>
+        <a class="mobile-nav-item" href="/terms-of-service" target="_self">Terms</a>
+        <a class="mobile-nav-item" href="/privacy" target="_self">Privacy</a>
       </div>
     </div>
     <est-page-alerts></est-page-alerts>
@@ -112,14 +133,11 @@
         <div class="layer" id="overview-notice">
           <div class="width-wrap">
             <header>
-              <hgroup class="h2">
-                <h2>Overview</h2>
-              </hgroup>
               <p class="timestamp">
                 last updated: <time>10/16/2014</time>
               </p>
             </header>
-            <p class="important-text">At Earnest, we believe fairness and transparency are values that are fundamental to finance. That value powers all of the decisions we make, including how we gather and respect your personal information. We've written our policy to be as clear and straightforward as possible to empower and inform you about your privacy while on Earnest's website.</p>
+            <p class="important-text">At Earnest, we believe fairness and transparency are values that are fundamental to finance. That value powers all of the decisions we make, including how we gather and respect your personal information. We’ve written our policy to be as clear and straightforward as possible to empower and inform you about your privacy while on Earnest’s website.</p>
           </div>
         </div>
         <div class="layer" id="overview-list">
@@ -496,41 +514,59 @@
         </div>
       </div>
     </article>
-    <div class="footer-push"></div>
-    <div class="footer-wrap">
-      <aside class="layer footer-layer">
-        <div class="block address desktop-address" itemscope="" itemtype="http://www.schema.org/Corporation">
-          <address class="name">
-            <span class="address-name" itemprop="name legalName">
-              ❤&nbsp; Earnest Operations LLC
-            </span>
-            <span class="gap">•</span>
-          </address>
-          <address class="postal-address" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-            <a class="earnest-street-address" href="https://www.google.com/maps/place/3001+19th+St,+San+Francisco,+CA+94110/@37.760162,-122.4122028,17z/data=!3m1!4b1!4m2!3m1!1s0x808f7e30ad627db9:0x4c18f428c4303350" target="_blank">
-              <div class="address-line-1" itemprop="streetAddress"></div>
-              <div class="address-city-state-zip">
-                <span class="street">3001 19th Street</span>
-                <span class="gap">•</span>
-                <span class="city">San Francisco,</span>
-                <span class="state">CA</span>
-                <span class="zipcode">94110</span>
-                <span class="gap">•</span>
-              </div>
-            </a>
-          </address>
-          <div class="footer-link">
-            <a class="nav-item nmls" href="http://www.nmlsconsumeraccess.org" target="_blank">NMLS #1204917 - nmlsconsumeraccess.org</a>
+  </div>
+  <div id="common-footer-view">
+    <div class="footer-section">
+      <div class="footer-block-right">
+        <div class="footer-menu">
+          <span>
+            <a href="/careers" target="_self">Careers</a>
+          </span>
+          <span>
+            <a href="/terms-of-service" target="_self">Terms of Service</a>
+          </span>
+          <span>
+            <a href="/privacy" target="_self">Privacy</a>
+          </span>
+          <div class="social-links">
+            <a class="icon-footer-twitter-alt" href="https://twitter.com/meetearnest" target="_blank"></a>
+            <a class="icon-footer-facebook" href="https://www.facebook.com/meetearnest" target="_blank"></a>
+            <a class="icon-footer-linkedin" href="https://www.linkedin.com/company/earnest-inc" target="_blank"></a>
+            <img src="/images/profile/norton-transparent.4fdcc782.png">
           </div>
         </div>
-      </aside>
+      </div>
+      <div class="footer-block-left" itemscope="" itemtype="http://www.schema.org/Corporation">
+        <address class="name">
+          <span class="address-name" itemprop="name legalName">
+            Earnest Operations LLC
+          </span>
+          <span class="gap">•</span>
+        </address>
+        <address class="postal-address" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+          <a class="earnest-street-address" href="https://www.google.com/maps/place/3001+19th+St,+San+Francisco,+CA+94110/@37.760162,-122.4122028,17z/data=!3m1!4b1!4m2!3m1!1s0x808f7e30ad627db9:0x4c18f428c4303350" target="_blank">
+            <div class="address-line-1" itemprop="streetAddress"></div>
+            <div class="address-city-state-zip">
+              <span class="street">3001 19th Street</span>
+              <span class="gap">•</span>
+              <span class="city">San Francisco,</span>
+              <span class="state">CA</span>
+              <span class="zipcode">94110</span>
+            </div>
+          </a>
+        </address>
+        <br>
+        <div class="footer-link">
+          <a class="nav-item nmls" href="http://www.nmlsconsumeraccess.org" target="_blank">NMLS #1204917 - nmlsconsumeraccess.org</a>
+        </div>
+      </div>
     </div>
-  </div>
-  <script src="/scripts/components.1854daac.js"></script>
-  <script src="/scripts/common.90698d4f.js"></script>
+    <script src="/scripts/components.bcdb931a.js"></script>
+    <script src="/scripts/common-profile.b9729de8.js"></script>
+    <script src="/scripts/common.322d49ae.js"></script>
 
-  <script src="/config.js"></script>
-  <script src="/scripts/landing.4dc855e7.js"></script>
-  <script src="/config.js"></script>
+    <script src="/config.js"></script>
+    <script src="/scripts/landing.5833eb97.js"></script>
+  </div>
 
 </body></html>
