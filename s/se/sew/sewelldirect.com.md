@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sewelldirect.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128111153id_/http%3A//sewelldirect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sewelldirect.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316004023id_/https%3A//sewelldirect.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,22 +8,16 @@ When you leave any personal information on our web site, either by visiting the 
 
 Your e-mail address, if you provide one, is stored in your customer record in our database. You can enter more than one e-mail address by separating them with a ";" character. If you leave the e-mail address blank, or erase it later (from the Registration page), you can be assured that you will not receive any more e-mail from us. If you provide a valid e-mail address, it will always be used to confirm any order you place and to communicate with you, if necessary, about your order. 
 
-If you wish to receive e-mail notices of upgrades or bug fixes for any products you have purchased, select the "Order and upgrade/bug fix" option in the E-mail Usage field of your customer record (shown on the Registration page and when placing an order).
-
-If, in addition to upgrade/bug fix notices, you also wish to receive general announcements about special sales, new products, etc., select the "Order, upgrade, and general" option in the E-mail Usage field of your customer record.
+When you place an order with Sewell Direct, we'll set you up to receive our newsletter. It's our way of keeping you in the loop on Sewell news, special deals, new products, and insider looks at our product development projects.
 
 ## Address
 
 We will not rent, sell, or otherwise distribute your physical or billing address to anyone.
 
-## Authentication
-
-We use a digital ID from VeriSign on our web server. Your browser should provide a way to display this certificate to verify that you are really dealing with Sewell Development Corporation. We also provide a button on secure pages (those pages that have the lock symbol in the corner of your browser) that you can press to invoke a VeriSign script that will verify our identity. NOTE: currently our web server uses many domain names, including: sewelldirect.com, sewelldev.com, sewelld.com, fastlynxsoftware.com, and fastlynx.info. The certificate is currently registered for sewelldirect.com.
-
 ## Security
 
-The portions of our web site that collect any personal information - including the on-line store and the customer registration page, can only be accessed via a secure link (using SSL encryption). Most newer browsers support this kind of link. We use a Global ID from VeriSign, which allows our server to provide the maximum security generally available for electronic commerce - up to a 128-bit SSL connection. However, whether the connection actually uses 128-bit SSL or a weaker level of encryption, depends also on your browser.
+All personal information necessary to complete your order is stored in our system is kept on servers that are locked in our secure data center. All information transmitted to our servers via the website is encrypted using state of the art encryption technology, facilitated by our Extended Validation SSL certificate, issued to us by Verisign.
 
 ## Credit Card Information
 
-Some electronic commerce sites save your credit card information so that you can order again without having to provide the same information each time. We do not do this, however, for reasons of security. Soon after your order completes, regardless of whether it succeeds or fails, the credit card information is deleted from our system. 
+To ensure your safety online, we maintain strict PCI compliance and do not store credit card numbers on our servers. We offer our customers the option of "storing" their cards with us for future use. However, the only two pieces of information we store are 1) the last 4 digits of your card and 2) a special token that allows us to reference your card for future transactions with the issuing bank. This allows you to avoid the hassle of repeatedly typing in credit card information while eliminating the risk of identity theft.
