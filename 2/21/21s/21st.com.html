@@ -1,12 +1,15 @@
-<!--The following is the downloaded HTML source of the 21st.com privacy policy that was archived on 2014-09-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140924064041id_/http%3A//www.21st.com/auto-insurance-privacy-security.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 21st.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315031342id_/http%3A//www.21st.com/auto-insurance-privacy-security.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script type="text/javascript">
   var locationObj = window.location;
       var fileref=document.createElement("link");
       var managePolicyURL = "https://www.21st.com/esauth/login.do?method=initLogin";
 	  var billingURL = "https://www.21st.com/esauth/QuickPayLanding.do?method=initPaymentLogin";
-	  var claimsURL = "https://www.21stautoclaims.com";
+	  var claimsURL = "https://www.hpcs.com/eClaims/ClaimantSelfService/21st/LoginAndRegistration.action";
+	  
+	  var quoteURL = "https://www.21st.com/auto-insurance-quote/";
+	  
 	window.onload = function() {      
 	
  	  fileref.setAttribute("rel", "canonical");
@@ -43,7 +46,7 @@
 	<!--[if lte IE 7]>
 		<link rel="stylesheet" href="/insurance-information/webpub/en/pages/css/ie.css" type="text/css" media="all" charset="utf-8" />
 	<![endif]-->
-<link rel="canonical" href="https://web.archive.org/web/20140924064041id_/http%3A//www.21st.com/auto-insurance-privacy-security.htm"></head>
+<link rel="canonical" href="https://web.archive.org/web/20150315031342id_/http%3A//www.21st.com/auto-insurance-privacy-security.htm"></head>
 
 <body class="resource">
 	<div id="content-wrapper">			
@@ -625,7 +628,7 @@ function printpage()
 
 
                 <li>
-                    <a href="https://www.21stautoclaims.com/CWP/web/jsp/CWPLandingPage.faces" id="claimsLink">Claims Services</a>
+                    <a href="https://www.hpcs.com/eClaims/ClaimantSelfService/21st/LoginAndRegistration.action" id="claimsLink" target="_blank">Claims Services</a>
                 </li>
 
 
@@ -737,15 +740,19 @@ function printpage()
 		    
 	   var divToDisplay = comingFrom +"_e";
 	//    alert("divToDisplay" + divToDisplay);
+	
+		  if(comingFrom == "quick-zipcode")
+	      	divToDisplay = "headerZip";
+	      	
 		    
-	  //  var toURL ="http://d01.auto.pld.aig.com/AutoQuote/startQuote.do?method=startQuote" ;
-	      var toURL = "https://www.21st.com/AutoQuote/startQuote.do?method=startQuote";
+	      var toURL = "https://www.21st.com/auto-insurance-quote/";
 	    
 		 var zip= document.getElementById(comingFrom).value;
 	//	alert(zip.value);
 		  var zip_error = 0;
 		
-		if (IsNumeric(zip) == "false" || zip.length < 5 )
+		if (IsNumeric(zip) == false || zip.length < 5 )
+		
 			{
 				zip_error = 1;
 			}		
@@ -755,7 +762,7 @@ function printpage()
 		      showTarget(divToDisplay,true) ;
 		     }else{
 		      showTarget(divToDisplay,false) ;		    
-		      toURL = toURL + "&postalCode=" + zip;		        
+		      toURL = toURL + "?postalCode=" + zip;		        
 		      window.location.href=toURL;
 				
 			}
