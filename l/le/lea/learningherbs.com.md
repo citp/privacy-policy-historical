@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningherbs.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029174720id_/http%3A//learningherbs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningherbs.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315052111id_/http%3A//learningherbs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – LearningHerbs
 
@@ -33,7 +33,7 @@ We do not send unsolicited commercial emails, because we hate spam as much as yo
 
 By submitting your email address, you also agree to allow us to use your email address for custom audience targeting on sites like Facebook, where we display custom advertising to specific people who have opted-in to receive communications from us.
 
-In addition, you agree that by submitting your telephone contact information on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR ’310 et seq. and any applicable state and local “do not call” regulations. We retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations.
+In addition, you agree that by submitting your telephone contact information on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR ‘310 et seq. and any applicable state and local “do not call” regulations. We retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations.
 
 #### B. Non-Personally Identifiable Information
 
