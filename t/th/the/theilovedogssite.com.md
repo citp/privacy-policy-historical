@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the theilovedogssite.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131553id_/http%3A//theilovedogssite.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theilovedogssite.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012847id_/http%3A//theilovedogssite.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy & Terms
 
 **Privacy Policy & Terms Of Use**
 
+**By accessing our site, you agree to our privacy policy and terms of use. The information contained on The I Love Dogs Site is NOT meant to be a substitute for advice from your own veterinarian or dog trainer. All content is for informational purposes only.**
+
 Your privacy is very important to us at TheILoveDogsSite.com. Below is information on what types of personal information we receive and collect when you use visit TheILoveDogsSite.com, and how we safeguard your information. We never sell your personal information to third parties.
 
 **Payments**  
-All payments made via The I Love Dogs Site store are encrypted using SSL (Secure Sockets Layer) technology. Your credit card information is passed securely to our credit card processor, but is not stored on our servers. The I Love Dogs Site employees do not have access to your credit card information. 
+All payments made via The I Love Dogs Site store are encrypted using SSL (Secure Sockets Layer) technology. Your credit card information is passed securely to our credit card processor, but is not stored on our servers. The I Love Dogs Site employees do not have access to your credit card information.
 
 **Log Files**  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocal) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
@@ -16,7 +18,7 @@ As with most other websites, we collect and use the data contained in log files.
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
 **Affiliate Disclosure**  
-At times, links to products on this website may generate an affiliate commission for TheILoveDogsSite.com. However, all product recommendations are thoroughly researched and represents companies that the TheILoveDogsSite.com team affirms and supports personally. 
+At times, links to products on this website may generate an affiliate commission for TheILoveDogsSite.com. However, all product recommendations are thoroughly researched and represents companies that the TheILoveDogsSite.com team affirms and supports personally.
 
 We also use third party advertisements on TheILoveDogsSite.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
