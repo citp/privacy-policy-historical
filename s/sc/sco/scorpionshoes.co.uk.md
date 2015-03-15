@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scorpionshoes.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209105042id_/http%3A//www.scorpionshoes.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorpionshoes.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315161159id_/http%3A//www.scorpionshoes.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ We will use the information you provide only for the following purposes:
 
   * To improve the content, design and layout of the scorpionshoes.co.uk website and to facilitate knowledge management
 
-  * To understand the interests and buying behaviour of our registeredusers
+  * To understand the interests and buying behaviour of our registered users
 
   * To perform other such general marketing and promotional activities focused on our products and services. We may also register you for our other services which we feel may be useful or of interest to you
 
@@ -41,7 +41,7 @@ If you choose not to register or not provide personal information, you may still
 
 ### Principle 3 - Access
 
-We have provided an administration service (your account) where you can review your personal information at any time to ensure it is correct and current. You will be able to update, correct, change or delete inaccurate details. You may also change your choice of opting in or out of marketing and promotional activities, although you may continue to receive mailings for a short period while your change is being processed. You have the right to ask for a copy of your personal information on payment of a small fee.
+We have provided an administration service (your account) where you can review your personal information at any time to ensure it is correct and current. You will be able to update, correct, change or delete inaccurate details. You may also change your choice of opting in or out of marketing and promotional activities, although you may continue to receive mailings for a short period while your order is being processed. You have the right to ask for a copy of your personal information on payment of a small fee.
 
 ### Principle 4 - Security
 
@@ -63,9 +63,9 @@ We are unable to delete your scorpionshoes.co.uk account information containing 
 
 ### Questions
 
-If you have any questions about this privacy policy, or the use of your personal information, or if you wish to request us to stop using your information in any way, please write to: Data Protection Officer scorpionshoes.co.uk
+If you have any questions about this privacy policy, the use of your personal information or if you wish to request us to stop using your information in any way, please write to: fao Data Protection Officer through the CONTACT US section of the website.
 
-If you have any questions for scorpionshoes.co.uk relating to privacy, please send them to this address.
+If you have any questions for scorpionshoes.co.uk relating to privacy, please address these through the CONTACT US section and you will be replied to.
 
 ### Changes to this policy
 
