@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the motionarray.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328230713id_/http%3A//www.motionarray.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motionarray.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315164808id_/https%3A//motionarray.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Motion Array
 
 As of October 4th, 2011
-
- **MOTION ARRAY PRIVACY POLICY**
 
 Motion Array’s Privacy Policy is designed to help users of Motion Array’s web site understand how Motion Array collects and uses the personal information users decide to share and to help users make informed decisions when using the Motion Array web site (the "Site").
 
@@ -12,7 +10,7 @@ By using or accessing the Site, you are accepting Motion Array's practices descr
 
 If you have questions regarding Motion Array's Privacy Policy, please use our contact form to send us an e-mail.
 
-**The Information Motion Array Collects**
+## The Information Motion Array Collects
 
 When you visit the Site, you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Site use information collected by us as you interact with our Site.
 
@@ -26,16 +24,15 @@ You post Your Content on the Site at your own risk. Although Motion Array may al
 
 By using the Site, you are consenting to have your personal data transferred to and processed in the United States.
 
-**  
-Children Under Age 13**
+## Children Under Age 13
 
 Motion Array does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for Motion Array or send any information about yourself to us, including your name, address, telephone number, or e-mail address. No one under age 13 may provide any personal information to or on the Site. In the event that Motion Array learns that Motion Array has collected personal information from a child under age 13 without verification of parental consent, Motion Array will delete that information as quickly as possible. If you believe that Motion Array might have any information from or about a child under 13, please contact us by using our contact form to send us an e-mail.
 
-**Children Between the Ages of 13 and 18**
+## Children Between the Ages of 13 and 18
 
 Motion Array recommends that minors 13 years of age or older ask their parents for permission before sending over the Internet to Motion Array or anyone any information about themselves.
 
-**Use of Information Obtained by Motion Array**
+## Use of Information Obtained by Motion Array
 
 When you register with Motion Array, you create your own profile and privacy settings. Your profile information, as well as your name, e-mail and, if you choose to upload and use one, photo, are displayed to people as specified in your privacy settings to enable you to connect with people on Motion Array. Motion Array may occasionally use your name and e-mail address to send you notifications regarding new services or promotions offered by Motion Array that Motion Array thinks you may find valuable.
 
@@ -43,22 +40,24 @@ Profile information is used by Motion Array primarily to be presented back to an
 
 Motion Array may send you service-related announcements from time to time through the general operation of the Site. Generally, you may opt out of such e-mails, although Motion Array reserves the right to send you notices about the Services and your account even if you opt out of all voluntary e-mail notifications.
 
+## Links
+
 The Site may contain links to other websites. Motion Array is not responsible for the privacy practices of other web sites. Motion Array encourages our users to be aware when they leave our Site to read the privacy statements of each and every web site that collects personally identifiable information. Motion Array's Privacy Policy applies solely to information collected by Motion Array.
 
-**Newsletter**
+## Newsletter
 
 By downloading any free product from the Motion Array site, you are agreeing to receive our newsletter via email.
 
-**Changing or Removing Information**
+## Changing or Removing Information
 
 Access and control over most personal information on the Site is available through the profile editing tools. Site users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their Motion Array account may do so using our contact form to send us an e-mail. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to other members of the Site.
 
 Where you make use of the communication features of the Site to share information with other individuals on Motion Array, however (e.g., posting a comment or review), you generally cannot remove such communications.
 
-**Security**
+## Security
 
 Motion Array takes appropriate security precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), Motion Array encrypts that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because e-mail and instant messaging are not recognized as secure communications, Motion Array requests that you not send private information to us by e-mail or instant messaging services.
 
-**Terms of Use, Notices and Revisions**
+## Terms of Use, Notices and Revisions
 
 Your use of the Site, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Service and all of its dispute resolution provisions, including arbitration, limitation on damages and choice of law. Motion Array reserves the right to change our Privacy Policy and our Terms of Service at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on the Site. If Motion Array makes changes, Motion Array will post them and will indicate at the top of this page the policy's new effective date. If Motion Array makes material changes to this Privacy Policy, Motion Array will notify you here, by e-mail, or through notice on our home page. Motion Array encourages you to refer to this Policy on an ongoing basis so that you understand how Motion Array handles your personal information. Unless stated otherwise, our current Privacy Policy applies to all information that Motion Array has about you and your account.
