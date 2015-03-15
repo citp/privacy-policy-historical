@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bov.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701213610id_/https%3A//www.bov.com/Content/data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bov.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315030423id_/https%3A//www.bov.com/Content/data-policy) for the most accurate reproduction.*
 
-# Personal - Bank of Valletta - BOV Group
+# datapolicy - Bank of Valletta - BOV Group
 
 In terms of Article 10 of the Data Protection Act 2001, customers who wish to opt out from receiving any type of direct marketing from Bank of Valletta plc should download the appropriate form and send it to the nearest branch. Non-BOV customers should complete the same form and address it to BOV Gozo Operations Centre, Bella Vista Court No2, Gorg Borg Olivier Street, Victoria VCT 2517, Gozo.
 
