@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121070228id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315034955id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | MassageM4M.com
-
-We're upgrading MassageM4M to new servers. Please report any feedback or bugs [here](https://web.archive.org/contact.cfm).
-
-### Most Popular Private Photos
 
 [](http://www.massagem4m.com/male-massage-maps/all.cfm)
 
@@ -107,26 +103,14 @@ Suite 978
 Beverly Hills, CA 90212  
 
 
-### You recently viewed these masseurs
+### You recently viewed this masseur
 
-Josh
+Sebastian
 
-[](http://www.massagem4m.com/az/phoenix/14938/)
-
-Mike
-
-[](http://www.massagem4m.com/ca/palm-springs/17472/)
-
-Hanza
-
-[](http://www.massagem4m.com/ca/hillcrest/17217/)
-
-Alejandro
-
-[](http://www.massagem4m.com/ca/west-hollywood/16342/)
+[](http://www.massagem4m.com/ny/new-york-city/15881/)
 
 ### Important Notice: You must be 18 years or older to use this website. If you are under 18 years old, please close this window.
 
-Legal Notice: [18 U.S.C. § 2257](https://web.archive.org/legalNotice.cfm) • [Privacy Policy](https://web.archive.org/privacypolicy.cfm)
+Legal Notice: [18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement](https://web.archive.org/legalNotice.cfm) • [Privacy Policy](https://web.archive.org/privacypolicy.cfm)
 
 By using this site, you Accept & Agree to the [Terms & Conditions of Use](http://support.massagem4m.com/entries/21973677-terms-of-use-for-massagem4m-com) as applied to your use of this website. 
