@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the recruiter.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104194333id_/https%3A//www.recruiter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruiter.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315024939id_/http%3A//recruiter.com/privacy.html) for the most accurate reproduction.*
 
 # Recruiter: Privacy Policy
 
-Protecting your private information is our priority. This Statement of Privacy applies to Recruiter.com (website(s) operating at https://www.recruiter.com, http://recruiter.com, and recruiter.com subdomains) and Recruiter.com, LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Recruiter.com, LLC or Recruiter.com include www.recruiter.com, Recruiter.com, and any and all subdomains of Recruiter.com. The Recruiter.com website is a news, information, member profile and messaging platform. By using the Recruiter.com website, you consent to the data practices described in this statement. 
+Protecting your private information is our priority. This Statement of Privacy applies to Recruiter.com (website(s) operating at https://www.recruiter.com, http://recruiter.com, and recruiter.com subdomains) and Recruiter.com, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Recruiter.com, Inc. or Recruiter.com include www.recruiter.com, Recruiter.com, and any and all subdomains of Recruiter.com. The Recruiter.com website is a news, information, member profile and messaging platform. By using the Recruiter.com website, you consent to the data practices described in this statement. 
 
 **Use and Privacy of Profiles**   
 Recruiter.com allows for the creation of accounts and profiles which are publicly searchable on the Internet and viewable by anyone. Information on your profile, such as but not limited to your photo, job title, and company, may be used to identify you personally by anyone. Users expressly agree that the information they upload to Recruiter.com is not sensitive or personal in nature and is true and accurate. 
@@ -55,7 +55,7 @@ Recruiter.com will occasionally update this Statement of Privacy to reflect comp
 
 **Contact Information**   
 Recruiter.com welcomes your questions or comments regarding this Statement of Privacy. If you believe that Recruiter.com has not adhered to this Statement, please contact Recruiter.com at:  
-Recruiter.com, LLC  
+Recruiter.com, Inc.  
 1533 New Britain Avenue  
 Farmington, Connecticut 06032
 
