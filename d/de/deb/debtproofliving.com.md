@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtproofliving.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627014602id_/http%3A//www.debtproofliving.com/Help/GeneralInformation/PrivacyPolicy/tabid/202/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtproofliving.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011452id_/http%3A//www.debtproofliving.com/Help/GeneralInformation/PrivacyPolicy/tabid/202/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
