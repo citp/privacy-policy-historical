@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rabobankamerica.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706060651id_/https%3A//www.rabobankamerica.com/Security-and-Privacy/Consumer-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rabobankamerica.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315050656id_/https%3A//www.rabobankamerica.com/Security-and-Privacy/Consumer-Privacy-Policy) for the most accurate reproduction.*
 
 # Rabobank, N.A. Consumer Privacy Policy
 
 ## Rabobank, N.A. Consumer Privacy Policy
 
-Effective December 1, 2013
+Effective December 1, 2014
 
 What does Rabobank do with your information?  
 ---  
@@ -34,7 +34,7 @@ To limit our sharing
 To limit our sharing | 
 
   * Call 800-942-6222. Our menu will prompt you through your choice(s)
-  * Mail the form found in the [Rabobank, N.A. Privacy Policy](https://web.archive.org/Security-and-Privacy/Online-Privacy) document.
+  * Mail the form found in the [Rabobank, N.A. Privacy Policy](https://web.archive.org/~/media/Files/Documents/rabo-privacy-policy-notice-FM-MKT-105-106-2014-12-01.ashx) document.
 
 
 
@@ -54,20 +54,20 @@ How does Rabobank, N.A. protect my personal information? | To protect your perso
 
 Further, we maintain strict internal policies and procedural safeguards against unauthorized use or disclosure of Customer information.  
   
-How does Rabobank, N.A. collect my personal information? | We collect your personal information, for example, when you 
+How does Rabobank, N.A. collect my personal information? | We collect your personal information, for example, when you: 
 
   * open an account or apply for a loan
   * pay your bills or use your credit or debit card
   * make deposits or withdrawals from your account
 
 We also collect your personal information from others, such as credit bureaus or other companies.  
-Why can't I limit all sharing? | Federal law gives you the right to limit only 
+Why can't I limit all sharing? | Federal law gives you the right to limit only: 
 
   * sharing for affiliates' everyday business purposes—information about your creditworthiness
   * affiliates from using your information to market to you
   * sharing for nonaffiliates to market to you
 
-State laws and individual companies may give you additional rights to limit sharing.   
+State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights.  
 What happens when I limit sharing for an account I hold jointly with someone else? | Your choice will apply to all of your accounts and everyone on your accounts.  
 Defintions   
 ---  
@@ -83,7 +83,7 @@ Nonaffiliates | Companies not related by common ownership or control. They can b
   
 Joint Marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-  * _Our joint marketing partners include such companies as credit card providers._
+  * _Our joint marketing partners include companies such as Elan Financial Services, a joint credit card provider._
 
   
 Other important information  
@@ -91,7 +91,7 @@ Other important information
   
 **Do Not Call Policy.** This notice is the Rabobank, N.A. Do Not Call Policy under the Telephone Consumer Protection Act. We do not solicit via telephone numbers listed on the state or federal Do Not Call lists, unless the law allows. Rabobank, N.A. employees receive training on how to document and process telephone marketing choices. Consumers who ask not to receive telephone solicitations from Rabobank, N.A. will be placed on the Rabobank, N.A. Do Not Call list and will not be called in any future campaigns, including those of Rabobank, N.A. affiliates. If you communicate with us by telephone, we may monitor or record the call.
 
-**California:** Under California law, we will not share information we collect about you with companies outside of Rabobank, N.A., unless the law allows. For example, we may share information to service your accounts, or to provide rewards or benefits you are entitled to. We will limit sharing among our companies to the extent required by California law.  
+**California:** California law gives you the right to opt out of certain sharing. Please see the enclosed notice entitled "[Important Privacy Choice for Consumers](https://web.archive.org/~/media/Files/Documents/rabo-privacy-policy-notice-FM-MKT-105-106-2014-12-01.ashx)".  
   
 Do you have questions? Call (888) 945-6600 for more information or visit your [local branch](https://web.archive.org/Locations). 
 
