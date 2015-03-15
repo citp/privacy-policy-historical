@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the playcow.com privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209032530id_/http%3A//www.playcow.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playcow.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315081041id_/http%3A//www.playcow.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<title>Privacy Policy - Games, Walkthroughs, Help, Hints and Hacked Version</title>
+<title>Privacy Policy
+ - Games, Walkthroughs, Help, Hints and Hacked Version</title>
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=145838932293228"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
 
 SITE_URL = 'http://www.playcow.com';
 AD_COUNTDOWN = '30';
@@ -35,7 +36,7 @@ CHALLENGE_ANOTHER = 'Challenge another friend';
     margin: 0 auto;
 }
 .close_fullscreen {
-	z-index: 4;
+	z-index: 99999;
 	position: fixed;
 	display: none;
 	top: 0px;
@@ -62,97 +63,156 @@ CHALLENGE_ANOTHER = 'Challenge another friend';
 	height: 450px;
 	width: 600px;
 }
-</style><link rel="stylesheet" type="text/css" href="http://www.playcow.com/templates/playwon/style.css">
+</style><script type="text/javascript">
+	var imgUrl = 'http://www.playcow.com/templates/playwon/images/';
+	var gameFeedUrl = 'http://www.playcow.com/includes/ajax/gamefeed.php';
+</script>
+<link rel="stylesheet" type="text/css" href="http://www.playcow.com/templates/playwon/style.css">
 <link rel="stylesheet" type="text/css" href="http://www.playcow.com/templates/playwon/js/jquery.jscrollpane.css">
 <link rel="stylesheet" type="text/css" href="http://www.playcow.com/templates/playwon/js/tipped.css">
 <script type="text/javascript" src="http://www.playcow.com/templates/playwon/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.playcow.com/templates/playwon/js/thickbox.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.playcow.com/templates/playwon/js/thickbox.css">
 <script type="text/javascript" src="http://www.playcow.com/templates/playwon/js/jquery.mousewheel.js"></script>
 <script type="text/javascript" src="http://www.playcow.com/templates/playwon/js/jquery.jscrollpane.min.js"></script>
 <!--[if lt IE 9]>
   <script type="text/javascript" src="http://www.playcow.com/templates/playwon/js/excanvas.js"></script>
 <![endif]-->
 <script type="text/javascript" src="http://www.playcow.com/templates/playwon/js/tipped.js"></script>
+<script type="text/javascript" src="http://www.playcow.com/templates/playwon/js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="http://www.playcow.com/templates/pien/js/jquery.form.js"></script>
+<script type="text/javascript">
+	function tooltipInit(element) {
+		if (!$.browser.msie || $.browser.version >= 9) {
+			$(element).each(function() {
+				Tipped.create(this, {
+					radius: { size: 6, position: 'background' },
+					shadow: true,
+					border: { size: 2, color: '#fff' },
+					background: { opacity: 1, color: [{ position: 0,  color: '#55dbf4' },{ position: 0.7, color: '#0073a7' }]},
+	                color: '#fff',
+					hook: 'topmiddle',
+					showDelay: 600,
+					fadeIn: 400,
+					fadeOut: 200,
+					maxWidth: 250,
+					opacity: false,
+					hideDelay: 100,
+					stem: { height: 6, width: 14, spacing: -1 },
+					zIndex: 150000
+				});
+			});
+		}
+	}
+
+	$(document).ready(function(){
+		if ($(window).scrollTop() == 0)
+	   		 $("#header").removeClass("collapse");
+	    else
+	    	$("#header").addClass("collapse");		
+
+	    $(window).scroll(function() {
+	        if ($(window).scrollTop() == 0)
+	   		 	$("#header").removeClass("collapse");
+	        else
+	    		$("#header").addClass("collapse");
+	    });
+	    tooltipInit(".top_menu li.home_icon a, .top_menu li.history_icon a, .top_menu li.fav_icon a, .top_menu li.popular_icon a, .top_menu li.fb_icon a, .top_menu li.google_icon a, .top_menu li.twitter_icon a, .top_menu li.youtube_icon a, .top_menu li.rss_icon a");
+	});
+</script>
 </head>
 
 <body>
-	<div id="loadingOverlay">
-		<div id="loadingIcon"></div>
-	</div>
-	<div id="bg_light">
-		<div id="bg_bot"></div>
-
-		<div id="header">
+	<div id="header">
+		<div id="header_inner">
+			<div id="logo_center"></div>	
 			<div id="logo">
 				<h1><a href="http://www.playcow.com" title="Games, Walkthroughs, Help, Hints and Hacked Version">Games, Walkthroughs, Help, Hints and Hacked Version</a></h1>
-			</div>
-			<div id="member_box">
-													<div class="avatar">
-					
+			</div>					
+			<ul class="top_menu left">
+				<li class="home_icon"><a href="http://www.playcow.com" title="Home">Home</a></li>
+				<li class="cat_icon">
+					<a href="javascript:void(0)">Categories</a>
+					<div class="cat_menu_wrapper">
+						<ul>
+							<li><a href="http://www.playcow.com">All Games</a></li><li><a href="http://www.playcow.com/action">Action</a></li><li><a href="http://www.playcow.com/adventure">Adventure</a></li><li><a href="http://www.playcow.com/shooting">Shooting</a></li><li><a href="http://www.playcow.com/sport-and-racing">Sport &amp; Racing</a></li><li><a href="http://www.playcow.com/puzzle-and-skill">Puzzle &amp; Skill</a></li><li><a href="http://www.playcow.com/strategy-and-rpg">Strategy &amp; RPG</a></li><li><a href="http://www.playcow.com/girls">Girls</a></li><li><a href="http://www.playcow.com/walkthrough">Walkthrough</a></li><li><a href="http://www.playcow.com/mmo-rpg-games">MMO RPG Games</a></li><li><a href="http://www.playcow.com/cash-games">Cash Games</a></li><li><a href="http://www.playcow.com/download-games">Download Games</a></li><li><a href="http://www.playcow.com/video-games">Video Games</a></li>						</ul>
 					</div>
-					<form method="post" action="http://www.playcow.com/login.php?done=1">
-						<input type="text" name="username" value="Username" onclick="clickclear(this, 'Username')" onblur="clickrecall(this,'Username')"><input type="password" name="password" value="Password" onclick="clickclear(this, 'Password')" onblur="clickrecall(this,'Password')"><input name="prevpage" type="hidden" id="prevpage" value=""><input type="submit" value="Login">
-					</form>
-					<div class="floatleft">
-						<a title="Sign in with Facebook" onclick="FB.login(null,'email,user_birthday,user_hometown,user_about_me,user_website,publish_stream');return false;" class="facebook_signin_small sprite_facebook mrs" href="javascript:void(0)">Sign in</a>
-					</div>
-					<div class="floatright register_btn">
-						<a href="http://www.playcow.com/index.php?task=register"><strong>Register Now !</strong></a>
-					</div>
-							</div>
-			<div id="menu_box">
-				<ul>
-					<li>
-						<a href="javascript:void(0)"><span>Categories</span></a>
-						<div class="cat_menu_wrapper">
-							<div class="cat_menu_top"></div>
-							<ul>
-								<li class="first"></li>
-								<li><a href="http://www.playcow.com">All Games</a></li><li><a href="http://www.playcow.com/action">Action</a></li><li><a href="http://www.playcow.com/adventure">Adventure</a></li><li><a href="http://www.playcow.com/shooting">Shooting</a></li><li><a href="http://www.playcow.com/sport-and-racing">Sport &amp; Racing</a></li><li><a href="http://www.playcow.com/puzzle-and-skill">Puzzle &amp; Skill</a></li><li><a href="http://www.playcow.com/strategy-and-rpg">Strategy &amp; RPG</a></li><li><a href="http://www.playcow.com/girls">Girls</a></li><li><a href="http://www.playcow.com/iphone-and-ipad-games">iPhone &amp; Ipad Games</a></li><li><a href="http://www.playcow.com/walkthrough">Walkthrough</a></li><li><a href="http://www.playcow.com/mmo-rpg-games">MMO RPG Games</a></li><li><a href="http://www.playcow.com/cash-games">Cash Games</a></li><li><a href="http://www.playcow.com/download-games">Download Games</a></li><li><a href="http://www.playcow.com/video-games">Video Games</a></li>							</ul>
-							<div class="cat_menu_bot"></div>
-						</div>
-					</li>
-					<li><a href="http://www.playcow.com/favorites" class="short"><span>Favorites</span></a></li>
-					<li><a href="http://www.playcow.com/history"><span>History</span></a></li>
-				</ul>
-				<form class="search" action="http://www.playcow.com/index.php?task=search" method="get" onsubmit="searchSubmit('http://www.playcow.com', ''); return false;">
-					<input type="hidden" name="task" value="search">
-					<input type="text" name="q" size="20" value="Search..." onclick="clickclear(this, 'Search...')" onblur="clickrecall(this,'Search...')">
-					<input type="submit" value="">
-				</form>
-				<div class="clear"></div>
-			</div>
-			<div class="clear"></div>
-		</div>	<div class="content_wrapper"> 
-		<div class="box_header">
-			Privacy Policy		</div>
-		<div class="box_content">
-			<div class="box_content_inside">
-				<div class="Section0"><p class="p0" style="margin-bottom:0pt; margin-top:0pt; text-autospace:ideograph-other; "><span style="font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); ">Privacy Policy for www.playcow.com</span></p><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at&nbsp;
+				</li>
+				<li class="history_icon"><a href="http://www.playcow.com/history" title="Last Played">Last Played</a></li>
+                <li class="fav_icon"><a href="http://www.playcow.com/favorites" title="Favorites">Favorites</a></li>
+				<li class="popular_icon"><a href="http://www.playcow.com/most-popular" title="Most Popular">Most Popular</a></li>					
+			</ul>
+			<ul class="top_menu right">
+				<li class="fb_icon"><a href="https://www.facebook.com/ArcadeGo" title="Facebook" target="_blank">Facebook</a></li>
+				<li class="twitter_icon"><a href="https://twitter.com/playcow" title="Twitter" target="_blank">Twitter</a></li>
+				<li class="google_icon"><a href="https://plus.google.com/u/0/+ArcadeGo/posts" title="Google Plus" target="_blank">Google Plus</a></li>
+                <li class="youtube_icon"><a href="https://www.youtube.com/user/playcowtoons?sub_confirmation=1" target="_blank" title="Youtube">Youtube</a></li>
+				<li class="rss_icon"><a href="http://www.playcow.com/rss.php" title="RSS">RSS</a></li>
+			</ul>			
+			<ul class="top_bar">
+				<li><a href="http://www.toonfirst.com/" target="_blank">Mobile Games</a></li>
+				<li><a href="http://www.playcow.com/youtube">Youtube Videos</a></li>
+				<li><a href="https://www.youtube.com/user/playcowtoons?sub_confirmation=1" target="_blank">Funny Videos</a></li>
+			</ul>
+			<form class="search_bar" action="http://www.playcow.com/index.php?task=search" method="get" onsubmit="searchSubmit('http://www.playcow.com', ''); return false;">
+				<input type="hidden" name="task" value="search">
+				<input type="text" name="q" size="20" value="Search..." onclick="clickclear(this, 'Search...')" onblur="clickrecall(this,'Search...')">
+				<input type="submit" value=""> 
+			</form>
+			<ul class="top_bar user_panel">
+				<li>
+											<a href="javascript:void(0)">Sign In</a>
+					<div class="menu_wrapper">
+						<div class="inner box_content">							
+								<form method="post" action="http://www.playcow.com/login.php?done=1">
+								<div class="login_form">
+									<div class="floatleft" style="margin-left: 30px; margin-bottom: 10px">
+
+			    						<script src="https://apis.google.com/js/plusone.js"></script>
+			                                <div style="margin-top: 2px; width: 50px">
+			                                    <div class="g-ytsubscribe" data-channel="playcowtoons" data-layout="default"></div>
+			                                </div>
+			                            </div>
+
+									</div>
+									<div class="clear"></div>
+									<div style="text-align: center; margin-bottom: 5px">
+										<a href="http://www.playcow.com/index.php?task=register" style="text-decoration: underline; color: #ff0000"><strong>Register Now !</strong></a>
+									</div>
+									<div class="clear"></div>
+									Username<br>
+								  	<input name="username" type="text" id="username" class="form_textbox"><br>
+								 	 Password<br>
+								    <input name="password" type="password" id="password" class="form_textbox"><br>
+								    <br>
+								    <label><input type="checkbox" name="remember" id="remember" checked="checked"> Keep me logged in</label><br>
+								    <a href="http://www.playcow.com/index.php?task=lost_password">Forgotten your password?</a>
+								    <br><br>
+								    <input type="submit" name="Submit" value="Login" class="dropdown-submit">
+								    
+								</form></div>
+								
+													</div>
+					</li></ul></div>					
+				
+							
+		</div>
+    	
+    <div id="left_side"></div>
+    <div id="right_side"></div>  <div class="content_wrapper">
+  	<div class="box_header">
+  		Privacy Policy
+  	</div>
+  	<div class="box_content">
+  		<div class="box_content_inside">
+  			<div class="Section0"><p class="p0" style="margin-bottom:0pt; margin-top:0pt; text-autospace:ideograph-other; "><span style="font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); ">Privacy Policy for www.playcow.com</span></p><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at&nbsp;
 <span style="background-color: rgb(255, 255, 255); ">playcow</span>@me.com.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">At&nbsp;<span style="background-color: rgb(255, 255, 255); ">playcow</span>&nbsp;.<span class="GRcorrect" id="GRmark_37043d7c17585acf245a32fa229fd66e86074a37_com:0" grphrase="37043d7c17585acf245a32fa229fd66e86074a37" grtype="null">com</span>, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by&nbsp;
 <span style="background-color: rgb(255, 255, 255); ">playcow</span>&nbsp;.<span class="GRcorrect" id="GRmark_6c148dbb49f5d5a373333242131a6b501681eaad_com:0" grphrase="6c148dbb49f5d5a373333242131a6b501681eaad" grtype="null">com</span> and how it is used.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><b style="padding: 0px; margin: 0px; ">Log Files&nbsp;</b></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><b style="padding: 0px; margin: 0px; "><br style="padding: 0px; margin: 0px; "></b></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">Like many other Web sites, www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>&nbsp;.<span class="GRcorrect" id="GRmark_80968efaf26807c991cdd2208da4cc5496e67739_com:0" grphrase="80968efaf26807c991cdd2208da4cc5496e67739" grtype="null">com</span> makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user movement around the site, and gather demographic information. IP addresses, and other such information&nbsp;<span class="GRcorrect" id="GRmark_0b1a66ad0a0f6c0cec4519016b2a41a45855ad4d_are not linked:0" grphrase="0b1a66ad0a0f6c0cec4519016b2a41a45855ad4d" grtype="null">are not linked</span>&nbsp;to any information that is personally identifiable.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><b style="padding: 0px; margin: 0px; ">Cookies and Web Beacons</b></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>&nbsp;.<span class="GRcorrect" id="GRmark_194fb724624e53f16bd89a921f5a11d1f737ee4e_com:0" grphrase="194fb724624e53f16bd89a921f5a11d1f737ee4e" grtype="null">com</span> does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">DoubleClick DART Cookie</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">Google, as a third party vendor, uses cookies to serve ads on www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>.com</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><span class="GRcorrect" id="GRmark_fe41e64e681f5043450b2e7f6608d83a9d906809_Google:0" grphrase="fe41e64e681f5043450b2e7f6608d83a9d906809" grtype="null">Google</span>&nbsp;use of the DART cookie enables it to serve ads to your users based on their visit to www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>.com and other sites on the Internet.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.&nbsp;www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>.com has no access to or control over these cookies that are used by third-party advertisers.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.<span style="background-color: rgb(255, 255, 255); ">playcow</span>.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; ">If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the&nbsp;<span class="GRcorrect" id="GRmark_40cd7cd45d72fc77ebbfb96bd2bcebb12dd0a696_browsers:0" grphrase="40cd7cd45d72fc77ebbfb96bd2bcebb12dd0a696" grtype="null">browsers</span>&nbsp;respective websites.</div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><br style="padding: 0px; margin: 0px; "></div><div style="padding: 0px; margin: 0px; font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif; font-size: 12px; "><span style="background-color: rgb(255, 255, 255); "><span class="GRcorrect" id="GRmark_2cc8be6b121c2326fe096ec0de84d169797fef5b_playcow:0" grphrase="2cc8be6b121c2326fe096ec0de84d169797fef5b" grtype="null">playcow</span></span>&nbsp;is one of the best online source for free online flash games. Not only we offer thousands of flash games here at&nbsp;<span style="background-color: rgb(255, 255, 255); ">playcow</span>.com, we are offering all of these games for free. Most of the games here are hand picked which mean the game quality are always on the top games level. Players&nbsp;can picked&nbsp;<span class="GRspelling" grtype="null">favoirte</span>&nbsp;games in the choice of action, adventure,<span class="GRspelling" grtype="null">mario</span>,sonic,cartoon,strategy,fun,girls,and&nbsp;<span class="GRspelling" grtype="null">lotmore</span>.Among the most popular games such as Mario and Sonic, we have tons of those games available here at&nbsp;
 <span style="background-color: rgb(255, 255, 255); ">playcow</span>.<span class="GRspelling">com</span>. The way that&nbsp;
-<span style="background-color: rgb(255, 255, 255); ">playcow</span>&nbsp;.<span class="GRcorrect" id="GRmark_84b224ebf76d67474012d96c2c8dae0cbe85722c_com:0" grphrase="84b224ebf76d67474012d96c2c8dae0cbe85722c" grtype="null">com</span> setup <span class="GRcorrect" id="GRmark_84b224ebf76d67474012d96c2c8dae0cbe85722c_allow:1" grphrase="84b224ebf76d67474012d96c2c8dae0cbe85722c" grtype="null">allow</span> players to navigate the site easily and able to find their&nbsp;<span class="GRcorrect" id="GRmark_84b224ebf76d67474012d96c2c8dae0cbe85722c_favoirte:2" grphrase="84b224ebf76d67474012d96c2c8dae0cbe85722c" grtype="null">favoirte</span>&nbsp;quickly. We always update our games daily with at least one new game per day. This way players can play a new and fresh game right away and don't get&nbsp;<span class="GRcorrect" id="GRmark_bb0ffda2961f20bf755422a0630a8a50b2351e16_bore:0" grphrase="bb0ffda2961f20bf755422a0630a8a50b2351e16" grtype="null">bore</span>. Now sit down, choose your game, and start playing free online flash games. Have Fun!!!</div><p></p></div><br>			</div>
-		</div>
-	</div>
-			<div id="bottom_nav">
-				<div class="social_buttons">
-				<div class="links_button">
-					<div class="fb-like" data-href="http://www.facebook.com/pages/playcow/126005204300" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="tahoma"></div>
-				</div>
-				<div class="links_button">
-					<!-- Place this tag where you want the +1 button to render -->
-					<g:plusone href="http://www.playcow.com" size="medium" annotation="inline" width="120"></g:plusone>
-				</div>
-			</div>
-			
-			<ul class="sub_nav">
-				<li class="links"><a href="http://www.playcow.com/links" title="Links">Links</a></li>
-				<li class="contact"><a href="http://www.playcow.com/contact" title="Contact">Contact</a></li>
-				<li class="privacy"><a href="http://www.playcow.com/page/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
-				<li class="rss"><a href="http://www.playcow.com/rss.php" title="RSS">RSS</a></li>
-			</ul>
-			<div class="clear"></div>
-	</div>	<script type="text/javascript" src="http://www.playcow.com/templates/playwon/js/content_resize.js"></script>
+<span style="background-color: rgb(255, 255, 255); ">playcow</span>&nbsp;.<span class="GRcorrect" id="GRmark_84b224ebf76d67474012d96c2c8dae0cbe85722c_com:0" grphrase="84b224ebf76d67474012d96c2c8dae0cbe85722c" grtype="null">com</span> setup <span class="GRcorrect" id="GRmark_84b224ebf76d67474012d96c2c8dae0cbe85722c_allow:1" grphrase="84b224ebf76d67474012d96c2c8dae0cbe85722c" grtype="null">allow</span> players to navigate the site easily and able to find their&nbsp;<span class="GRcorrect" id="GRmark_84b224ebf76d67474012d96c2c8dae0cbe85722c_favoirte:2" grphrase="84b224ebf76d67474012d96c2c8dae0cbe85722c" grtype="null">favoirte</span>&nbsp;quickly. We always update our games daily with at least one new game per day. This way players can play a new and fresh game right away and don't get&nbsp;<span class="GRcorrect" id="GRmark_bb0ffda2961f20bf755422a0630a8a50b2351e16_bore:0" grphrase="bb0ffda2961f20bf755422a0630a8a50b2351e16" grtype="null">bore</span>. Now sit down, choose your game, and start playing free online flash games. Have Fun!!!</div><p></p></div><br>  		</div>
+  	</div>
+  </div>
+	<script type="text/javascript" src="http://www.playcow.com/templates/playwon/js/content_resize.js"></script>
 	<script type="text/javascript">
 		//$(document).ready(function() {
 			pageResize();
@@ -160,10 +220,52 @@ CHALLENGE_ANOTHER = 'Challenge another friend';
 		//});
 	</script>
 
-	</div>
-	<script type="text/javascript">
-		$("#bg_light").height($(window).height());
-	</script>
+        <div id="footer">
+            <div id="footer_inner">
+              <div class="banners">
+                <a href="http://www.arcadego.com/" target="_blank">
+                  <img src="http://www.playcow.com/templates/playwon/images/banner/arcadego_logo.png" style="height: 40px">
+                </a>
+                <a href="http://www.dinohill.com/" target="_blank">
+                  <img src="http://www.playcow.com/templates/playwon/images/banner/dinohill_logo.png" style="height: 40px">
+                </a>
+                <a href="http://www.arcadegood.com/" target="_blank">
+                  <img src="http://www.playcow.com/templates/playwon/images/banner/arcadegood_logo.png" style="height: 29px; margin-top: 10px">
+                </a>    
+                <a href="http://www.toonjungle.com/" target="_blank">
+                  <img src="http://www.playcow.com/templates/playwon/images/banner/toonjungle_logo.png" style="height: 40px">
+                </a>    
+                <a href="http://www.toonfirst.com/" target="_blank">
+                  <img src="http://www.playcow.com/templates/playwon/images/banner/toonfirst_logo.png" style="height: 40px">
+                </a>    
+                <a href="http://www.funfuncity.com/" target="_blank">
+                  <img src="http://www.playcow.com/templates/playwon/images/banner/funfuncity_logo.png" style="height: 40px">
+                </a>    
+                <a href="http://www.veryclip.com/" target="_blank">
+                  <img src="http://www.playcow.com/templates/playwon/images/banner/veryclip_logo.png" style="height: 40px">
+                </a>        
+                <div class="clear"></div>                                                                                            
+              </div>
+              Copyright © 2001-2015 Playcow. All rights reserved.
+              <br>
+                <div class="menu_links">
+                    <a href="http://www.playcow.com">Homepage</a>
+                    &nbsp;&nbsp;-&nbsp;&nbsp;
+                    <a href="http://www.playcow.com/links">Links</a>
+                    &nbsp;&nbsp;-&nbsp;&nbsp;
+                    <a href="http://www.playcow.com/submit-game">Submit a game</a>
+                    &nbsp;&nbsp;-&nbsp;&nbsp;
+                    <a href="http://www.playcow.com/free-games-for-your-site">Free Games For Your Site</a>
+                    &nbsp;&nbsp;-&nbsp;&nbsp;
+                    <a href="http://www.playcow.com/contact">Contact</a>
+                    &nbsp;&nbsp;-&nbsp;&nbsp;
+                    <a href="http://www.playcow.com/page/privacy-policy">Privacy Policy</a>
+                    &nbsp;&nbsp;-&nbsp;&nbsp;
+                    <a href="http://www.playcow.com/rss.php">RSS</a>
+                </div>
+            </div>
+        </div>
+
 	<script type="text/javascript">
 	  (function() {
 		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
@@ -172,6 +274,7 @@ CHALLENGE_ANOTHER = 'Challenge another friend';
 	  })();
 	</script>
     
+
 		<div id="fb-root"></div>
 		<script src="http://www.playcow.com/includes/facebook.js"></script>
 		<script>
@@ -188,47 +291,52 @@ CHALLENGE_ANOTHER = 'Challenge another friend';
 		</script>
 
 	
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-31724399-1']);
-  _gaq.push(['_trackPageview']);
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=145838932293228";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+      
+    	<div style="position: fixed; left: 0px; bottom:0px; height: 345px; z-index: 1002;">
+          <div style="position: absolute; left: 0px; bottom: 0px; background-color: rgb(255, 255, 255); width: 320px; height: 345px; border-radius: 0px 10px 0px 0px; box-shadow: 0px 0px 10px -1px rgb(0, 0, 0); overflow: hidden;" id="social_container">
+          	<center>
+          		  <a href="https://www.youtube.com/user/playcowtoons?sub_confirmation=1" target="_blank" title="Youtube">
+                  <img src="http://www.playcow.com/templates/playwon/images/youtube_circle.png" style="border: none; width: 150px; height: 150px; margin-top: 20px; margin-bottom: 20px">
+                </a>
+                <div class="clear"></div>
+                <div class="g-ytsubscribe" data-channel="playcowtoons" data-layout="default"></div>
+                <a href="http://www.playcow.com" title="Games, Walkthroughs, Help, Hints and Hacked Version">
+                  <img src="http://www.playcow.com/templates/playwon/images/logo_old.png" style="border: none; margin-top: 15px; margin-bottom: 10px">
+                </a>
+                <!-- Place this tag in your head or just before your close body tag. -->
+                <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
-
-	<div style="position: fixed; left: 0px; bottom:0px; height: 300px; z-index: 1002;"><div style="position: absolute; left: 0px; bottom: 0px; background-color: rgb(255, 255, 255); width: 300px; height: 300px; border-radius: 0px 10px 0px 0px; box-shadow: 0px 0px 10px -1px rgb(0, 0, 0); overflow: hidden;" id="social_container"><iframe scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:288px; height:258px;" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2Fplaycow%2F126005204300&amp;width=288&amp;height=258&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color=%23FFFFFF&amp;header=false&amp;show_border=false"></iframe>
-	<center>
-		<script src="https://apis.google.com/js/plusone.js"></script>
-		<div class="g-ytsubscribe" data-channel="arcadego" data-layout="default"></div>
-	</center><div style="position: absolute; right: 5px; top: 5px; cursor: pointer;" id="social_close"><img src="http://www.playcow.com/templates/playwon/images/close_icon.gif" style="border: none"></div></div></div>
-	<script type="text/javascript">
-		function createCookie(name,value,days) {
-			if (days) {
-				var date = new Date();
-				date.setTime(date.getTime()+(days*24*60*60*1000));
-				var expires = "; expires="+date.toGMTString();
-			}
-			else var expires = "";
-			document.cookie = name+"="+value+expires+"; path=/";
-		}
-		$(document).ready(function() {
-			$("#social_close").click(function() {
-				$("#social_container").slideToggle('slow');
-				createCookie("display_social", 1, 1);
-			});
-		});
-	</script>
-	
-<script type="text/javascript">document.write("<scr" + "ipt type='text/javascript' src='http://www.epicgameads.com/ads/popjs.php?id=SKqVSpRrd8&channel=1&cb=" + new Date().getTime() + "'></scri" + "pt>");</script><script type="text/javascript" src="http://www.epicgameads.com/ads/popjs.php?id=SKqVSpRrd8&amp;channel=1&amp;cb=1580449505531"></script>
-<!--/* Ad4Game Mobile Tag */-->
-
-<iframe id="a0f80ff4" name="a0f80ff4" src="http://ads.ad4game.com/www/delivery/afr.php?zoneid=35948&amp;cb=INSERT_RANDOM_NUMBER_HERE" framespacing="0" frameborder="no" scrolling="no" width="11" height="11"><a href='http://ads.ad4game.com/www/delivery/dck.php?n=a620edf9&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.ad4game.com/www/delivery/avw.php?zoneid=35948&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a620edf9' border='0' alt='' /></a></iframe>
-			
-
- </body></html>
+                <!-- Place this tag where you want the widget to render. -->
+                <div class="g-follow" data-annotation="bubble" data-height="24" data-href="http://plus.google.com/111034953444824724633" data-rel="author"></div>                
+          	</center>
+            <div style="position: absolute; right: 5px; top: 5px; cursor: pointer;" id="social_close"><img src="http://www.playcow.com/templates/playwon/images/close_icon.gif" style="border: none"></div>
+          </div>
+      </div>
+  	<script type="text/javascript">
+  		function createCookie(name,value,days) {
+  			if (days) {
+  				var date = new Date();
+  				date.setTime(date.getTime()+(days*24*60*60*1000));
+  				var expires = "; expires="+date.toGMTString();
+  			}
+  			else var expires = "";
+  			document.cookie = name+"="+value+expires+"; path=/";
+  		}
+  		$(document).ready(function() {
+  			$("#social_close").click(function() {
+  				$("#social_container").slideToggle('slow');
+  				createCookie("display_social", 1, 1);
+  			});
+  		});
+  	</script>
+  	
+</body></html>
