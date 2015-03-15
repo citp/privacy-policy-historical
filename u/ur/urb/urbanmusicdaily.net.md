@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urbanmusicdaily.net privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718063309id_/https%3A//www.urbanmusicdaily.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanmusicdaily.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315052016id_/https%3A//www.urbanmusicdaily.net/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY // URBANMUSiCDAiLY ♫
+# PRIVACY POLICY • URBANMUSiCDAiLY ♫
 
 **What information do we collect?**  
 We collect information from you when you register on our site or fill out a form.  
