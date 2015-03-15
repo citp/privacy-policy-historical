@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapassgamer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044033id_/http%3A//www.cheapassgamer.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapassgamer.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315033756id_/https%3A//www.cheapassgamer.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Cheap Ass Gamer
 
@@ -15,6 +15,6 @@ We reserve the right to reveal your identity (or whatever information we know ab
 If you have any questions about this Privacy Policy, the TOU or the Site, please [contact the administrator](http://www.cheapassgamer.com/forums/sendmessage.php). 
 
   1.  
-  2. [Rules, Terms of Use, & Privacy](http://www.cheapassgamer.com/index.php?app=forums&module=extras&section=boardrules)
+  2. [Rules, Terms of Use, & Privacy](https://www.cheapassgamer.com/index.php?app=forums&module=extras&section=boardrules)
 
 
