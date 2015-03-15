@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltraffic.net privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731024646id_/https%3A//www.fulltraffic.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltraffic.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315142818id_/https%3A//fulltraffic.net/privacy) for the most accurate reproduction.*
 
 # FullTraffic - Privacy Policy
 
