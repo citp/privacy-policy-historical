@@ -1,91 +1,345 @@
-<!--The following is the downloaded HTML source of the withlocals.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626015917id_/http%3A//www.withlocals.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the withlocals.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315020331id_/https%3A//www.withlocals.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:ng="http://angularjs.org" lang="en"><head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Withlocals</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, minimal-ui">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="google-site-verification" content="6qhlCWqFEX_rJdb0v5s81y6hJbHDC_CdfTVm4uJXePo">
+    <meta name="p:domain_verify" content="195eb4047cae2f2941c30639cf67e6db">
+    <meta property="fb:app_id" content="380224722079164">
+    <meta name="version" content="1.31.5-3e0e3f5">
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
 
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwAFVFRUGwABUFlbDwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+    <meta name="apple-itunes-app" content="app-id=655695313">
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, minimal-ui">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
-<meta name="google-site-verification" content="6qhlCWqFEX_rJdb0v5s81y6hJbHDC_CdfTVm4uJXePo">
-<meta name="p:domain_verify" content="195eb4047cae2f2941c30639cf67e6db">
-<meta name="version" content="1.10.3-8c0d3ae">
-<meta property="fb:app_id" content="380224722079164">
+    <title>Withlocals</title>
+    
+<script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwAFVFRUGwABUFlbDwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 
-<link href="https://fonts.googleapis.com/css?family=Pacifico|Open+Sans:400,300,500,600,700,800" rel="stylesheet" type="text/css">
-
-<meta name="MobileOptimized" content="width">
-<meta name="HandheldFriendly" content="true">
+    <link rel="canonical" href="https://www.withlocals.com/info/privacy-policy/">
 
 
+    <!-- QUbit stuff that is get every time, let's prefetch some of them -->
+    <link rel="dns-prefetch" href="https://res.cloudinary.com">
+    <link rel="prefetch" href="https://s3.amazonaws.com/downloads.mailchimp.com/js/goal.min.js">
+    <link rel="prefetch" href="https://s3.amazonaws.com/ki.js/37676/aJ9.js">    
 
-    <link href="https://d1qh70jus598uk.cloudfront.net/assets/css/withlocals.min.css?version=1.10.3-8c0d3ae" rel="stylesheet">
+
+    <!--[if IEMobile]>
+    <style>
+    @-ms-viewport{width:auto!important};
+    </style>
+    <![endif]-->
+
+    <!--[if IE 9]>
+    <link rel="stylesheet" href="https://d1qh70jus598uk.cloudfront.net/assets/css/22e6aa989ff5513556271a8a17326f2c-ie9.css">
+    <![endif]-->
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6/html5shiv.min.js" ></script>
+    <link rel="stylesheet" href="https://d1qh70jus598uk.cloudfront.net/assets/css/c610ea18797dcb29522b5d89c7106fc5-ie8.css">
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+<link rel="apple-touch-icon" sizes="57x57" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/9af85de07b5add846dbfb5874122b5c5-apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/07de176c8043dd138017e467ceba94d5-apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/199d3355cd2c73e4de1f4bef023a165d-apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/72cb745880d06594415ef2cb231ae2f9-apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/11dfe92f2a77896924a3e8931012f5d0-apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/24e445b9dd0c000300b6090684d8a3d7-apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/fadb37aa94a36a039b576d23a37d1c9f-apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/affa24dc475cc0128e5a6322263d320b-apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/499a15c8a59f9aab7a92f79966a4c4e2-favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/a1ac7031a52f14a32b726f2eab8f369b-favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/9b3c6346e7c54d4067b25d0f37a9b8df-favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/41cbea4b89bdd7485112385410510562-favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/30a0c1ea99f68b272386fc8ceb925692-favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#2d89ef">
+<meta name="msapplication-TileImage" content="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/7a9efb79e4848720f9fe49a204535a76-mstile-144x144.png">
+
+
+
+    <link href="https://d1qh70jus598uk.cloudfront.net/assets/css/0f78160e668935c95bcf4f38ed0def86-withlocals.min.css" rel="stylesheet">
+      
+
+    <script>
+        var universal_variable = {
+  "page" : {
+    "virtualPageName" : "/info/privacy-policy/"
+  }
+}
+    </script>
+    
+
+
+<script>
+var _prum = [['id', '54f0410eabe53df46eaeeee2'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+<script type="text/javascript">
+    (function(){
+      if (!window.withlocals) {
+        window.withlocals = {};
+      }
+      window.withlocals.version = '1.31.5-3e0e3f5';
+      window.withlocals.config = {
+  "cloudinary" : {
+    "cloud_name" : "withlocals-com",
+    "secure_distribution" : "d3in73vatfjyy.cloudfront.net",
+    "secure" : true
+  },
+  "stripe" : {
+    "pk" : "pk_live_cWRH1iBFozXgorqa2yxSVIFP"
+  },
+  "hostname" : "www.withlocals.com",
+  "languages" : [ "en", "fr", "de", "es", "nl", "it", "ru", "zh", "ja", "hin", "kor", "th", "ind", "may", "vie", "nep", "sin", "tam", "ar", "tr", "msa" ],
+  "fb_app_id" : "380224722079164",
+  "linkedin_app_id" : "77eofrvhnnvnbd",
+  "openexchange_api_key" : "f4ad8087e9f94e20bd99c482475aed10",
+  "currency" : [ "EUR", "USD", "AUD", "THB", "MYR", "SGD", "IDR", "VND", "LKR", "NPR", "PHP", "INR", "KHR" ],
+  "countries" : [ {
+    "title" : "Cambodia",
+    "code" : "kh",
+    "urltitle" : "cambodia",
+    "open" : true
+  }, {
+    "title" : "India",
+    "code" : "in",
+    "urltitle" : "india",
+    "open" : true
+  }, {
+    "title" : "Indonesia",
+    "code" : "id",
+    "urltitle" : "indonesia",
+    "open" : true
+  }, {
+    "title" : "Malaysia",
+    "code" : "ml",
+    "urltitle" : "malaysia",
+    "open" : true
+  }, {
+    "title" : "Nepal",
+    "code" : "np",
+    "urltitle" : "nepal",
+    "open" : true
+  }, {
+    "title" : "the Netherlands",
+    "code" : "nl",
+    "urltitle" : "the-netherlands",
+    "open" : false
+  }, {
+    "title" : "Philippines",
+    "code" : "ph",
+    "urltitle" : "philippines",
+    "open" : true
+  }, {
+    "title" : "Singapore",
+    "code" : "sg",
+    "urltitle" : "singapore",
+    "open" : true
+  }, {
+    "title" : "Spain",
+    "code" : "es",
+    "urltitle" : "spain",
+    "open" : false
+  }, {
+    "title" : "Sri Lanka",
+    "code" : "lk",
+    "urltitle" : "sri-lanka",
+    "open" : true
+  }, {
+    "title" : "Thailand",
+    "code" : "th",
+    "urltitle" : "thailand",
+    "open" : true
+  }, {
+    "title" : "Vietnam",
+    "code" : "vn",
+    "urltitle" : "vietnam",
+    "open" : true
+  } ],
+  "cities" : [ {
+    "title" : "Bali",
+    "urltitle" : "bali",
+    "country" : "Indonesia"
+  }, {
+    "title" : "Yogyakarta",
+    "urltitle" : "yogyakarta",
+    "country" : "Indonesia"
+  }, {
+    "title" : "Jakarta",
+    "urltitle" : "jakarta",
+    "country" : "Indonesia"
+  }, {
+    "title" : "Bandung",
+    "urltitle" : "bandung",
+    "country" : "Indonesia"
+  }, {
+    "title" : "Kuala Lumpur",
+    "urltitle" : "kuala-lumpur",
+    "country" : "Malaysia"
+  }, {
+    "title" : "Penang",
+    "urltitle" : "penang",
+    "country" : "Malaysia"
+  }, {
+    "title" : "Kathmandu",
+    "urltitle" : "kathmandu",
+    "country" : "Nepal"
+  }, {
+    "title" : "Bhaktapur",
+    "urltitle" : "bhaktapur",
+    "country" : "Nepal"
+  }, {
+    "title" : "Manila",
+    "urltitle" : "manila",
+    "country" : "Philippines"
+  }, {
+    "title" : "Cebu",
+    "urltitle" : "cebu",
+    "country" : "Philippines"
+  }, {
+    "title" : "Palawan",
+    "urltitle" : "palawan",
+    "country" : "Philippines"
+  }, {
+    "title" : "Singapore",
+    "urltitle" : "singapore",
+    "country" : "Singapore"
+  }, {
+    "title" : "Colombo",
+    "urltitle" : "colombo",
+    "country" : "Sri Lanka"
+  }, {
+    "title" : "Kandy",
+    "urltitle" : "kandy",
+    "country" : "Sri Lanka"
+  }, {
+    "title" : "Galle",
+    "urltitle" : "galle",
+    "country" : "Sri Lanka"
+  }, {
+    "title" : "Bangkok",
+    "urltitle" : "bangkok",
+    "country" : "Thailand"
+  }, {
+    "title" : "Chiang Mai",
+    "urltitle" : "chiang-mai",
+    "country" : "Thailand"
+  }, {
+    "title" : "Chiang Rai",
+    "urltitle" : "chiang-rai",
+    "country" : "Thailand"
+  }, {
+    "title" : "Phuket",
+    "urltitle" : "phuket",
+    "country" : "Thailand"
+  }, {
+    "title" : "Ho Chi Minh City",
+    "urltitle" : "ho-chi-minh-city",
+    "country" : "Vietnam"
+  }, {
+    "title" : "Hanoi",
+    "urltitle" : "hanoi",
+    "country" : "Vietnam"
+  }, {
+    "title" : "Hue",
+    "urltitle" : "hue",
+    "country" : "Vietnam"
+  }, {
+    "title" : "Hoi An",
+    "urltitle" : "hoi-an",
+    "country" : "Vietnam"
+  }, {
+    "title" : "Nha Trang",
+    "urltitle" : "nha-trang",
+    "country" : "Vietnam"
+  }, {
+    "title" : "Phnom Penh",
+    "urltitle" : "phnom-penh",
+    "country" : "Cambodia"
+  }, {
+    "title" : "Siem Reap",
+    "urltitle" : "siem-reap",
+    "country" : "Cambodia"
+  }, {
+    "title" : "Mumbai",
+    "urltitle" : "mumbai",
+    "country" : "India"
+  }, {
+    "title" : "Kochi",
+    "urltitle" : "kochi",
+    "country" : "India"
+  } ]
+};
+      window.cdn = 'd1qh70jus598uk.cloudfront.net';
+      window.withlocals.cdn = 'd1qh70jus598uk.cloudfront.net';
+      window.withlocals.cdnscheme = 'https';
+      window.withlocals.host = 'www.withlocals.com';
+      window.withlocals.cdnsafe = '//d1qh70jus598uk.cloudfront.net';
+      window.withlocals.defaultProfilePhoto = "https://res.cloudinary.com/withlocals-com/image/upload/v1381492980/e2b883a9be138dddbb7d2042a746173e.png";
+      window.withlocals.currentuser = {};
+      window.withlocals.currentuser.isLoggedIn = false;
+      window.withlocals.currency = 'EUR';
+      window.withlocals.currentuser = {
+  "isLoggedIn" : false,
+  "photo" : "https://res.cloudinary.com/withlocals-com/image/upload/v1381492980/e2b883a9be138dddbb7d2042a746173e.png",
+  "type" : "unknown"
+};
+      window.withlocals.realuser = {
+        id : ""
+      };
+
+  
+  		window.withlocals.environment = "production";
   
 
-<link rel="canonical" href="https://www.withlocals.com/info/privacy-policy/">
-<script type="text/javascript">
-        if (!window.universal_variable) window.universal_variable = {};
-        if (!window.universal_variable.page) window.universal_variable.page= {};
+      if (!window.withlocals.debug){
+        window.withlocals.debug = (window.withlocals.environment == 'development');
+      }    
 
-        window.universal_variable.page.virtualPageName = "/info/privacy-policy/";
-        
+      window._trackJs = { 
+          token: '3b2af3ceb8c64ed39d67b97a98b8e3d9' 
+          ,userId : window.withlocals.currentuser.id
+          ,version : window.withlocals.version
+          , application : window.withlocals.environment,
+          onError: function (payload, error) {
+            // Examine or manipulate the payload
+            console.log(error.stack.toString());
+            return true;
+          }
+        };
 
+    })()
 </script>
-    
-<!--[if IEMobile]>
-<style>
-@-ms-viewport{width:auto!important};
-</style>
-<![endif]-->
-
-<!--[if IE 9]>
-<link rel="stylesheet" href="https://d1qh70jus598uk.cloudfront.net/assets/css/ie9.css">
-<![endif]-->
-
-<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-<!--[if lt IE 9]>
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6/html5shiv.min.js" ></script>
-<link rel="stylesheet" href="https://d1qh70jus598uk.cloudfront.net/assets/css/ie8.css">
-<![endif]-->
+<script type="text/javascript" src="//d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js" crossorigin="anonymous"></script>
 
 
-<script src="//d3c3cq33003psk.cloudfront.net/opentag-62893-672279.js" defer="" async="" type="text/javascript"></script>
-
-<!-- Fav and touch icons -->
-<link rel="apple-touch-icon" sizes="57x57" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="114x114" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="72x72" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="60x60" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="120x120" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="76x76" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="152x152" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/apple-touch-icon-152x152.png">
-<link rel="icon" type="image/png" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/favicon-196x196.png" sizes="196x196">
-<link rel="icon" type="image/png" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/favicon-160x160.png" sizes="160x160">
-<link rel="icon" type="image/png" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/favicon-96x96.png" sizes="96x96">
-<link rel="icon" type="image/png" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/favicon-16x16.png" sizes="16x16">
-<link rel="icon" type="image/png" href="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/favicon-32x32.png" sizes="32x32">
-<meta name="msapplication-TileColor" content="#2d89ef">
-<meta name="msapplication-TileImage" content="https://d1qh70jus598uk.cloudfront.net/assets/images/favicons/mstile-144x144.png">
+    <script src="//d3c3cq33003psk.cloudfront.net/opentag-62893-672279.js" async="" type="text/javascript"></script>
 
 </head>
 <body>
-<div class="browser-warning">
-<strong>We do not support the browser you are using</strong>
-  It's possible that some of the features do not work. Please update to a newer version of your browser.</div>
 
-    <script src="https://d1qh70jus598uk.cloudfront.net/assets/javascripts/lib/other/withlocals.basic.min.js?v12" type="text/javascript"></script>
-    <div class="bodyWrap">
-      
+    
 
  
 
 
 <header>
+
+    <link rel="prefetch" href="https://connect.facebook.net/en_US/sdk.js">
 
     <div ng-controller="NavbarController" ng-init="init(false)" class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner">
@@ -93,7 +347,7 @@
 
           <a class="btn-navbar" ng-click="toggleCollapse()" ng-init="isCollapsed">
             
-              <img id="profile-picture-usermenu" width="50" height="50" ng-src="{{ photo | image:{width:50,height:50,gravity:'faces'} }}" src="https://res.cloudinary.com/withlocals-com/image/upload/c_fill,f_auto,fl_progressive,g_faces,h_50,r_0.0,w_50/e2b883a9be138dddbb7d2042a746173e.png">
+              <img id="profile-picture-usermenu" width="50" height="50" ng-src="{{ photo | image:{width:50,height:50,gravity:'faces'} }}" src="https://res.cloudinary.com/withlocals-com/image/upload/c_fill,f_auto,fl_progressive,g_faces,h_50,q_80,r_0.0,w_50/e2b883a9be138dddbb7d2042a746173e.png">
             
             <div class="hide-by-default" ng-show="messageCount">
               <span class="badge  badge-important" ng-bind="messageCount"></span>
@@ -111,8 +365,7 @@
 
 
 
-<div class="search-select-country">
-
+<div class="search-select-country ">
   <div ng-mouseenter="expanded=true" ng-mouseleave="expanded=false" class="hidden-phone">
     <div class="searchbutton" ng-click="expanded = !expanded;">
       <span class="" ng-click="expanded = !expanded;">
@@ -122,28 +375,55 @@
 
     <ul class="menu" ng-class="{'show' : expanded}">
       <li><a href="/experiences//"> Somewhere in Asia</a></li>
-      <li><a href="/experiences/thailand/"><img class="flags flag-th">Thailand</a></li>
-      <li><a href="/experiences/vietnam/"><img class="flags flag-vn">Vietnam</a></li>
-      <li><a href="/experiences/sri-lanka/"><img class="flags flag-lk">Sri Lanka</a></li>
-      <li><a href="/experiences/singapore/"><img class="flags flag-sg">Singapore</a></li>
-      <li><a href="/experiences/indonesia/"><img class="flags flag-id">Indonesia</a></li>
-      <li><a href="/experiences/nepal/"><img class="flags flag-np">Nepal</a></li>
-      <li><a href="/experiences/malaysia/"><img class="flags flag-ml">Malaysia</a></li>
+      
+        <li><a href="/experiences/cambodia/"><img class="flags flag-kh">Cambodia</a></li>
+      
+        <li><a href="/experiences/india/"><img class="flags flag-in">India</a></li>
+      
+        <li><a href="/experiences/indonesia/"><img class="flags flag-id">Indonesia</a></li>
+      
+        <li><a href="/experiences/malaysia/"><img class="flags flag-ml">Malaysia</a></li>
+      
+        <li><a href="/experiences/nepal/"><img class="flags flag-np">Nepal</a></li>
+      
+        <li><a href="/experiences/philippines/"><img class="flags flag-ph">Philippines</a></li>
+      
+        <li><a href="/experiences/singapore/"><img class="flags flag-sg">Singapore</a></li>
+      
+        <li><a href="/experiences/sri-lanka/"><img class="flags flag-lk">Sri Lanka</a></li>
+      
+        <li><a href="/experiences/thailand/"><img class="flags flag-th">Thailand</a></li>
+      
+        <li><a href="/experiences/vietnam/"><img class="flags flag-vn">Vietnam</a></li>
+      
     </ul>
   </div>
   <select class="searchbar-native visible-phone" ng-model="searchselectedvalue" ng-change="setCountryFromSearchSelect(searchselectedvalue)" onchange="if (this.value) {
           window.location.href='/experiences/'+(this.value)+'/';
     }">
-      <option value="">Where are you going?</option>
-      <option value="">Somewhere in Asia</option>
-      <option value="thailand">Thailand</option>
-      <option value="vietnam">Vietnam</option>
-      <option value="sri-lanka">Sri Lanka</option>
-      <option value="singapore">Singapore</option>
+    <option value="">Where are you going?</option>
+    <option value="">Somewhere in Asia</option>
+    
+      <option value="cambodia">Cambodia</option>
+    
+      <option value="india">India</option>
+    
       <option value="indonesia">Indonesia</option>
-      <option value="nepal">Nepal</option>
+    
       <option value="malaysia">Malaysia</option>
-
+    
+      <option value="nepal">Nepal</option>
+    
+      <option value="philippines">Philippines</option>
+    
+      <option value="singapore">Singapore</option>
+    
+      <option value="sri-lanka">Sri Lanka</option>
+    
+      <option value="thailand">Thailand</option>
+    
+      <option value="vietnam">Vietnam</option>
+    
   </select>
 
 </div>
@@ -167,11 +447,11 @@
     			  	<li class="dropdown login-dropdown
               
                " ng-class="{'show':isNotLoggedIn,'ng-hide':isLoggedIn}">
-                <a class="btn btn-link" href="/login/" ng-href="#" ng-click="signIn()">Log in</a></li>
+                <a class="btn btn-link" href="/login/" ng-href="#" ng-click="signIn()">Sign in</a></li>
 
               <li class="signup-link
               
-               " ng-class="{'show':isNotLoggedIn,'ng-hide':isLoggedIn}"><a class="btn btn-link" href="/signup/" ng-href="#" ng-click="signUp()">Sign up</a></li>
+               " ng-class="{'show':isNotLoggedIn,'ng-hide':isLoggedIn}"><a class="btn btn-link" href="/signup/" ng-href="#" ng-click="signUp()">Join Withlocals</a></li>
 
 
 
@@ -183,7 +463,7 @@
                       <a class="dropdown-toggle" data-toggle="dropdown">
 
                         
-                          <img id="profile-picture-usermenu" width="50" height="50" src="https://res.cloudinary.com/withlocals-com/image/upload/c_fill,f_auto,fl_progressive,g_faces,h_50,r_0.0,w_50/e2b883a9be138dddbb7d2042a746173e.png" ng-src="{{ photo | image:{width:50,height:50,gravity:'faces'} }}">
+                          <img id="profile-picture-usermenu" width="50" height="50" src="https://res.cloudinary.com/withlocals-com/image/upload/c_fill,f_auto,fl_progressive,g_faces,h_50,q_80,r_0.0,w_50/e2b883a9be138dddbb7d2042a746173e.png" ng-src="{{ photo | image:{width:50,height:50,gravity:'faces'} }}">
                         
 
                         <i class="icon-sort-down"></i>
@@ -214,7 +494,7 @@
 
                         <form>
 
-                          <a ng-click="reset()" ng-show="realUser.id != user.id" class="btn btn-info become-yourself">
+                          <a ng-click="reset()" ng-show="isFakeLogin()" class="btn btn-info become-yourself">
                             <i class="icon-user pull-left"></i>
                             <p>Become yourself again</p>
                           </a>
@@ -233,7 +513,7 @@
                             <p ng-hide="messageCount">Dashboard</p>
                           </a>
 
-                          <a ng-href="/host/{{user.pretty_url}}/" class="btn btn-info goto-dashboard">
+                          <a href="" ng-href="/host/{{user.pretty_url}}" ng-if="user.is_host" class="btn btn-info goto-dashboard">
                             <i class="icon-globe pull-left"></i>
                             <p>View public profile</p>
                           </a>
@@ -274,8 +554,7 @@
 
 
 
-<div class="search-select-country" ng-controller="SearchSelectController">
-
+<div class="search-select-country " ng-controller="SearchSelectController">
   <div ng-mouseenter="expanded=true" ng-mouseleave="expanded=false" class="hidden-phone">
     <div class="searchbutton" ng-click="expanded = !expanded;">
       <span class="" ng-click="expanded = !expanded;">
@@ -285,13 +564,27 @@
 
     <ul class="menu" ng-class="{'show' : expanded}">
       <li><a href="/experiences//" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('') }}"> Somewhere in Asia</a></li>
-      <li><a href="/experiences/thailand/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('thailand') }}"><img class="flags flag-th">Thailand</a></li>
-      <li><a href="/experiences/vietnam/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('vietnam') }}"><img class="flags flag-vn">Vietnam</a></li>
-      <li><a href="/experiences/sri-lanka/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('sri-lanka') }}"><img class="flags flag-lk">Sri Lanka</a></li>
-      <li><a href="/experiences/singapore/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('singapore') }}"><img class="flags flag-sg">Singapore</a></li>
-      <li><a href="/experiences/indonesia/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('indonesia') }}"><img class="flags flag-id">Indonesia</a></li>
-      <li><a href="/experiences/nepal/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('nepal') }}"><img class="flags flag-np">Nepal</a></li>
-      <li><a href="/experiences/malaysia/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('malaysia') }}"><img class="flags flag-ml">Malaysia</a></li>
+      
+        <li><a href="/experiences/cambodia/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('cambodia') }}"><img class="flags flag-kh">Cambodia</a></li>
+      
+        <li><a href="/experiences/india/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('india') }}"><img class="flags flag-in">India</a></li>
+      
+        <li><a href="/experiences/indonesia/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('indonesia') }}"><img class="flags flag-id">Indonesia</a></li>
+      
+        <li><a href="/experiences/malaysia/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('malaysia') }}"><img class="flags flag-ml">Malaysia</a></li>
+      
+        <li><a href="/experiences/nepal/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('nepal') }}"><img class="flags flag-np">Nepal</a></li>
+      
+        <li><a href="/experiences/philippines/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('philippines') }}"><img class="flags flag-ph">Philippines</a></li>
+      
+        <li><a href="/experiences/singapore/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('singapore') }}"><img class="flags flag-sg">Singapore</a></li>
+      
+        <li><a href="/experiences/sri-lanka/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('sri-lanka') }}"><img class="flags flag-lk">Sri Lanka</a></li>
+      
+        <li><a href="/experiences/thailand/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('thailand') }}"><img class="flags flag-th">Thailand</a></li>
+      
+        <li><a href="/experiences/vietnam/" ng-click="expanded = false" ng-href="{{ '/experiences/' + buildURL('vietnam') }}"><img class="flags flag-vn">Vietnam</a></li>
+      
     </ul>
   </div>
   <select class="searchbar-native visible-phone" ng-model="searchselectedvalue" onchange="
@@ -320,16 +613,29 @@
       if (this.value) {
           window.location.href='/experiences/'+(newUrl);
       }">
-      <option value="">Where are you going?</option>
-      <option value="">Somewhere in Asia</option>
-      <option value="thailand">Thailand</option>
-      <option value="vietnam">Vietnam</option>
-      <option value="sri-lanka">Sri Lanka</option>
-      <option value="singapore">Singapore</option>
+    <option value="">Where are you going?</option>
+    <option value="">Somewhere in Asia</option>
+    
+      <option value="cambodia">Cambodia</option>
+    
+      <option value="india">India</option>
+    
       <option value="indonesia">Indonesia</option>
-      <option value="nepal">Nepal</option>
+    
       <option value="malaysia">Malaysia</option>
-
+    
+      <option value="nepal">Nepal</option>
+    
+      <option value="philippines">Philippines</option>
+    
+      <option value="singapore">Singapore</option>
+    
+      <option value="sri-lanka">Sri Lanka</option>
+    
+      <option value="thailand">Thailand</option>
+    
+      <option value="vietnam">Vietnam</option>
+    
   </select>
 
 
@@ -354,7 +660,7 @@
       <div ng-controller="CarrouselController">
       <carousel interval="5000">
         <slide bindonce="" ng-repeat="slide in slides" active="slide.active">
-        <img class="photo" id="mainphoto" src="//d1qh70jus598uk.cloudfront.net/assets/images/heads/1-desktop.jpg" bo-src="slide.image">
+        <img class="photo" id="mainphoto" src="https://d3axlphjo2wj6x.cloudfront.net/photos/home-backgrounds/1-desktop.jpg" bo-src="slide.image">
 
 
         <script>
@@ -362,21 +668,19 @@
 
               var image;
               var imageSrc;
-              var baseUrl;
+              var baseUrl = "https://d3axlphjo2wj6x.cloudfront.net/photos/home-backgrounds/";
 
-                  
-              baseUrl="//d1qh70jus598uk.cloudfront.net";
-                    
+
             if (window.innerWidth <= 600){
-              imageSrc = baseUrl+"/assets/images/heads/1-mobile.jpg";
+              imageSrc = baseUrl+"1-mobile.jpg";
             }else if(window.innerWidth <=1024){
-              imageSrc = baseUrl+"/assets/images/heads/1-tablet.jpg";
+              imageSrc = baseUrl+"1-tablet.jpg";
             }else if(window.innerWidth <=1280){
-              imageSrc = baseUrl+"/assets/images/heads/1-medium.jpg";
+              imageSrc = baseUrl+"1-medium.jpg";
             }else if(window.innerWidth <=1920){
-              imageSrc = baseUrl+"/assets/images/heads/1-desktop.jpg";
+              imageSrc = baseUrl+"1-desktop.jpg";
             }else {
-              imageSrc = baseUrl+"/assets/images/heads/1-bigscreen.jpg";
+              imageSrc = baseUrl+"1-bigscreen.jpg";
             }
             image = new Image();
             image.src= imageSrc;
@@ -599,14 +903,28 @@
       <div class="span3">
         <h3><a href="/locations/">Locations</a></h3>
         <ul>
-          <li><a href="/locations/thailand/"><i>•</i>Thailand</a></li>
-          <li><a href="/locations/malaysia/"><i>•</i>Malaysia</a></li>
-          <li><a href="/locations/singapore/"><i>•</i>Singapore</a></li>
-          <li><a href="/locations/sri-lanka/"><i>•</i>Sri Lanka</a></li>
-          <li><a href="/locations/vietnam/"><i>•</i>Vietnam</a></li>
-          <li><a href="/locations/indonesia/"><i>•</i>Indonesia</a></li>
-          <li><a href="/locations/nepal/"><i>•</i>Nepal</a></li>
-          <li><a href="/locations/philippines/"><i>•</i>Philippines</a></li>
+          
+                <li><a href="/locations/cambodia/"><i>•</i>Cambodia</a></li>
+          
+                <li><a href="/locations/india/"><i>•</i>India</a></li>
+          
+                <li><a href="/locations/indonesia/"><i>•</i>Indonesia</a></li>
+          
+                <li><a href="/locations/malaysia/"><i>•</i>Malaysia</a></li>
+          
+                <li><a href="/locations/nepal/"><i>•</i>Nepal</a></li>
+          
+                <li><a href="/locations/philippines/"><i>•</i>Philippines</a></li>
+          
+                <li><a href="/locations/singapore/"><i>•</i>Singapore</a></li>
+          
+                <li><a href="/locations/sri-lanka/"><i>•</i>Sri Lanka</a></li>
+          
+                <li><a href="/locations/thailand/"><i>•</i>Thailand</a></li>
+          
+                <li><a href="/locations/vietnam/"><i>•</i>Vietnam</a></li>
+          
+
         </ul>
       </div>
       <div class="span3 information">
@@ -629,6 +947,7 @@
           <li><a href="/about/why/"><i>•</i>Why</a></li>
           <li><a href="/about/jobs/"><i>•</i>Jobs</a></li>
           <li><a href="/about/team/"><i>•</i>Team</a></li>
+          <li><a href="/app/"><i>•</i>Withlocals App</a></li>
         </ul>
       </div>
       <div class="span3 social">
@@ -646,121 +965,57 @@
 
   </div>
 
-  <p class="wl-version">Version 'Matched Momo' (1.10.3-8c0d3ae, Host www.withlocals.com)</p>
+  <p class="wl-version">Version 'Superior Stamppot' (1.31.5-3e0e3f5, Host www.withlocals.com)</p>
 
 </footer>
 
-    </div>
-
-    <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.4.1/lodash.min.js" type="text/javascript"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js" type="text/javascript"></script>
-    <script src="https://d1qh70jus598uk.cloudfront.net/assets/javascripts/lib/angular/1.2/angular.essential.min.js?v18" type="text/javascript"></script>
-
-    <script type="text/javascript">
-    (function(){
-
-      if (!window.withlocals) {
-        window.withlocals = {};
-      }
-      window.withlocals.version = '1.10.3-8c0d3ae'
-      window.withlocals.config = {
-  "cloudinary" : {
-    "cloud_name" : "withlocals-com",
-    "secure_distribution" : "d3in73vatfjyy.cloudfront.net",
-    "secure" : true
-  },
-  "hostname" : "www.withlocals.com",
-  "languages" : [ "en", "fr", "de", "es", "nl", "it", "ru", "zh", "ja", "hin", "kor", "th", "ind", "may", "vie", "nep", "sin", "tam", "ar", "tr", "msa" ],
-  "fb_app_id" : "380224722079164",
-  "openexchange_api_key" : "f4ad8087e9f94e20bd99c482475aed10",
-  "currency" : [ "eur", "usd", "THB", "MYR", "SGD", "IDR", "VND", "LKR", "NPR" ],
-  "coupon_codes" : {
-    "master10" : {
-      "coupon_code" : "master10",
-      "discount" : "percentage",
-      "value" : 0.1
-    },
-    "frd2014" : {
-      "coupon_code" : "frd2014",
-      "discount" : "absolute",
-      "value" : 30
-    },
-    "frd14im" : {
-      "coupon_code" : "frd14im",
-      "discount" : "absolute",
-      "value" : 30
-    },
-    "frd14ac" : {
-      "coupon_code" : "frd14ac",
-      "discount" : "absolute",
-      "value" : 30
-    },
-    "kandy76" : {
-      "coupon_code" : "kandy76",
-      "discount" : "percentage",
-      "value" : 0.05
-    },
-    "dimsum10" : {
-      "coupon_code" : "dimsum10",
-      "discount" : "percentage",
-      "value" : 0.1
-    }
-  }
-}
-      window.cdn = 'd1qh70jus598uk.cloudfront.net'
-      window.withlocals.cdn = 'd1qh70jus598uk.cloudfront.net'
-      window.withlocals.currentuser = {};
-      window.withlocals.currentuser.isLoggedIn = false;
-      
-
-      
-        window.withlocals.currentuser.type = 'unknown';
-        window.withlocals.currentuser.photo = 'https://res.cloudinary.com/withlocals-com/image/upload/v1381492980/e2b883a9be138dddbb7d2042a746173e.png';
-      
-
-
-
-      var testSnapengage = function(){
-        return (typeof SnapABug !== "undefined" && SnapABug !== null) && (SnapABug.setUserEmail != null);
-      };
-
-      
-
-    })()
-    </script>
-
 
     
-      <script type="text/javascript">
-      var require = {
-        waitSeconds: 20,
-        urlArgs : "bust=1.10.3-8c0d3ae"
+        <script src="https://d1qh70jus598uk.cloudfront.net/assets/javascripts/445593a720812083df11cf9bb100b862-external.js" type="text/javascript" crossorigin=""></script>    
+    
+
+    
+
+
+<script type="text/javascript">
+    (function(){
+
+  		//link account to snap-engage
+      var testSnapengage = function(){
+        //return not(SnapABug? and SnapABug.setUserEmail?)
+        return !((typeof SnapABug !== "undefined" && SnapABug !== null) && (SnapABug.setUserEmail != null));
       };
-      if (!window.withlocals.debug){
-        window.withlocals.debug = false;
-      }
+      
+
+       //post-load trackjs configure
       window.trackJs.configure({
-        consoleDisplay: window.withlocals.debug
-        ,trackAjaxFail: false
+        version:"1.31.5-3e0e3f5"
         ,sessionId: window.withlocals.sessionid
+        ,network: { error: false }
+        ,callback: { bindStack: true }
         
       });
 
-      window.withlocals.environment = "production";
 
-      </script>
-      <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
-      <script type="text/javascript" src="https://d1qh70jus598uk.cloudfront.net/assets/javascripts-min/Withlocals.js?bust=1.10.3-8c0d3ae" crossorigin=""></script>
+      //possibly fire GA event
+      
+    })()
+</script>
 
+
+    <link href="https://fonts.googleapis.com/css?family=Pacifico|Open+Sans:400,300,500,600,700,800" rel="stylesheet" type="text/css">
     
-
     
-
+        <script type="text/javascript" src="https://d1qh70jus598uk.cloudfront.net/assets/javascripts/abdaabb8c51d2bdb3a3faf6350e8c092-Withlocals.js" crossorigin=""></script>      
+    
+    
+    
     <div id="fb-root"></div>
-    
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"3148984","applicationTime":45,"beacon":"beacon-4.newrelic.com","queueTime":0,"licenseKey":"0d4d4e067a","transactionName":"NVwEY0FYXxEHAk0IXQwWKFJHTUgmDxJJAEYBUQNFHHdUFhIYfQhBElgSVFtcQw==","agent":"js-agent.newrelic.com\/nr-411.min.js","errorBeacon":"bam.nr-data.net"}</script>
 
     
-    
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"0d4d4e067a","agent":"js-agent.newrelic.com\/nr-593.min.js","beacon":"bam.nr-data.net","applicationTime":2,"applicationID":"3148984","transactionName":"NVwEY0FYXxEHAk0IXQwWNltSQHINCBVLDl4OXBR2UE1YDQhOWg5cFksJW19cQxFIMk0ARgtaJVhdTVQMEk9wD1QNaQdQVkofEhQITwBRG2kJW1paSA==","queueTime":0}</script>
+
+
+
+
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
