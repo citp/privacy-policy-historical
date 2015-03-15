@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencloud.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120123746id_/http%3A//screencloud.net/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencloud.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315071244id_/https%3A//screencloud.net/pages/privacy_policy) for the most accurate reproduction.*
 
 # ScreenCloud | Home
 
@@ -8,7 +8,7 @@
 
 ###### This document
 
-This privacy policy document outlines the types of personal information is received and collected by screencloud.net and how it is used. It also covers subdomains of screencloud.net like [blog.screencloud.net](https://web.archive.org/web/20141120123746id_/http%3A//screencloud.net/pages/blog.screencloud.net) and others.
+This privacy policy document outlines the types of personal information is received and collected by screencloud.net and how it is used. It also covers subdomains of screencloud.net like [blog.screencloud.net](https://web.archive.org/web/20150315071244id_/https%3A//screencloud.net/pages/blog.screencloud.net) and others.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact@screencloud.net](mailto:contact@screencloud.net). 
 
