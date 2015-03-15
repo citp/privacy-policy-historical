@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwestern.edu privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627174736id_/http%3A//midwestern.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestern.edu privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315024148id_/https%3A//www.midwestern.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Midwestern University
 
@@ -25,5 +25,3 @@ Downers Grove, IL 60515
 ###### This privacy policy is effective January 1, 2009. We reserve the right to change this privacy policy at any time by posting a modified version on this website, without providing any further notice.
 
 * * *
-
-[](http://www.addthis.com/bookmark.php?v=20)
