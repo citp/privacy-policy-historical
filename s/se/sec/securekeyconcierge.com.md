@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securekeyconcierge.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104040747id_/http%3A//securekeyconcierge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securekeyconcierge.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032155id_/http%3A//securekeyconcierge.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SecureKey Concierge
 
@@ -40,7 +40,8 @@ We may disclose End User Information (a) to any governmental authority as part o
 
 Finally, if we sell our business or the part thereof that operates SecureKey Concierge, we will transfer to the purchaser our copy of the End User Information, so that the purchaser can continue to operate the service.
 
-If you require clarification about this statement, please contact our Privacy Office by email at cpo@securekey.com, by phone at 416-477-5625, or in writing to SecureKey Privacy Office, 501 – 36 York Mills Road, Toronto, ON M2P 2E9. SecureKey’s general Privacy Policy can be obtained by visiting SecureKey’s website (www.securekey.com).
+If you require clarification about this statement, please contact our Privacy Office by email at cpo@securekey.com, by phone at 416-477-5625, or in writing to SecureKey Privacy Office, 4101 Yonge Street,  
+Suite 501, Toronto, Ontario M2P 1N6. SecureKey’s general Privacy Policy can be obtained by visiting SecureKey’s website (www.securekey.com).
 
 For more information on privacy issues and PIPEDA in general, please consult the Department of Justice / PIPEDA website, or call 1-800-O-Canada (1-800-622-6232).
 
