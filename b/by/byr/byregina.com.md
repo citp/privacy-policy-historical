@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the byregina.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912061158id_/http%3A//byregina.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byregina.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010126id_/http%3A//byregina.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - by Regina [for bloggers // creative businesses // and you]
+# Privacy Policy - by Regina [for bloggers + freelancers + creative businesses]
 
 This Privacy Policy governs the manner in which Anjou Consulting, Ltd. Co. (parent brand of byRegina.com) collects, uses, maintains, and discloses information collected from users (each, a “User”) of the http://www.byRegina.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Anjou Consulting, Ltd. Co.
 
