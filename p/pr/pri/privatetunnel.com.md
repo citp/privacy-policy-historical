@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatetunnel.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626153334id_/https%3A//www.privatetunnel.com/index.php/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatetunnel.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315045636id_/https%3A//www.privatetunnel.com/index.php/privacy.html) for the most accurate reproduction.*
 
 # Private Tunnel - Your Private Tunnel to the Internet
 
@@ -81,4 +81,4 @@ PrivateTunnel.com
 Pleasanton, California 94588   
 USA
 
-[support@privatetunnel.com](mailto:support@privatetunnel.com)
+support@privatetunnel.com
