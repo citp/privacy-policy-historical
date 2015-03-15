@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekscape.net privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224101814id_/http%3A//www.geekscape.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekscape.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315214928id_/http%3A//www.geekscape.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geekscape
 
@@ -89,9 +89,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 ### **Community Discussion**
 
   * [Random thoughts thread](http://www.geekscape.net/community/t/random-thoughts-thread)
+  * [What should I be reading?](http://www.geekscape.net/community/t/what-should-i-be-reading)
+  * [Wat'cha Listenin' To?](http://www.geekscape.net/community/t/watcha-listenin-to)
+  * [Official Other Podcast Thread!](http://www.geekscape.net/community/t/official-other-podcast-thread)
   * [Black Mirror Season 3](http://www.geekscape.net/community/t/black-mirror-season-3)
-  * [Agents of SHIELD](http://www.geekscape.net/community/t/agents-of-shield)
-  * [This one's for Dave. Me and Rob Liefeld…](http://www.geekscape.net/community/t/this-ones-for-dave)
-  * [The Dead Lands](http://www.geekscape.net/community/t/the-dead-lands)
 
 
