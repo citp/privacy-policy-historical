@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the formidablepro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065555id_/http%3A//formidablepro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formidablepro.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014305id_/https%3A//formidablepro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Formidable Forms
 
 Strategy11, LLC, a Utah limited liability company, owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
 
