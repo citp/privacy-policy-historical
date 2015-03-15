@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the connectpal.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008210147id_/https%3A//www.connectpal.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectpal.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315224702id_/https%3A//www.connectpal.com/privacy_policy) for the most accurate reproduction.*
 
 # ConnectPal.com - Privacy Policy
 
-Welcome to the Privacy Policy. We take your privacy very seriously, so please take this time to read our Privacy Statement carefully and review it periodically for the latest information about our privacy practices. By using the Site, you agree to the terms of this Privacy Statement. 
+Welcome to the Privacy Policy. We take your privacy very seriously, so please take this time to read our Privacy Statement carefully and review it periodically for the latest information about our privacy practices. By using the Site, you agree to the terms of this Privacy Statement.
 
 ## Information Collection and Usage:
 
-We may store and use your full name, email address, and other information you may provide with your account, such as your gender, birth date, and location. Your name, as well as any photo you submit through the registration process, will be publicly displayed as part of your account profile. You can modify some of the information associated with your account under your settings. If you feel that an unauthorized account has been created depicting you or your likeness, you can request its removal by contacting [support](mailto:help@connectpal.com).
+We may store and use your full name, email address, and other information you may provide with your account, such as your gender, birth date, and location. Your name, as well as any photo you submit through the registration process, will be publicly displayed as part of your account profile. You can modify some of the information associated with your account under your settings. If you feel that an unauthorized account has been created depicting you or your likeness, you can request its removal by contacting[support](mailto:help@connectpal.com).
 
 The collection of your data helps the site in several ways, including the management our everyday business needs, such as administration of the Site, forum management, fulfillment, analytics, fraud prevention, and enforcement of our corporate reporting obligations and Terms of Use, or to comply with the law; Operating, maintaining and improving the Site and our services; and performing analytics and conduct customer research.
 
-With free trials, standard profile content may be displayed to those who are offered and subscribe to limited time trials offered by the Site. 
+With free trials, standard profile content may be displayed to those who are offered and subscribe to limited time trials offered by the Site.
 
 We may share user information in the aggregate with third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, sponsored profiles.
 
-We may create Anonymous Data records (that exclude personal identifiers) to analyze and utilize as a means of monitoring and improving the site. We reserve all rights to use Anonymous Data for any purpose and disclose Anonymous Data to third partied at our sole discretion. 
+We may create Anonymous Data records (that exclude personal identifiers) to analyze and utilize as a means of monitoring and improving the site. We reserve all rights to use Anonymous Data for any purpose and disclose Anonymous Data to third partied at our sole discretion.
 
 We may investigate and disclose information from or about you if we have a good faith belief that such investigation or disclosure is (a) reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) helpful to prevent, investigate, or identify possible wrongdoing in connection with the Site; or (c) protect our rights, reputation, property, or that of our users, affiliates, or the public.
 
@@ -22,11 +22,11 @@ The Site may contain links to unaffiliated third party websites. Except as set f
 
 ## Transaction Information:
 
-If you make reservations or purchases through the Site, we may collect and store certain transactional information based on your activities on the Website (such as buying, selling, item and content you generate or that relates to your account). This information may be shared with third parties who help process and fulfill your requests. When you submit credit card numbers, that information is encrypted using industry standard technology. 
+If you make reservations or purchases through the Site, we may collect and store certain transactional information based on your activities on the Website (such as buying, selling, item and content you generate or that relates to your account). This information may be shared with third parties who help process and fulfill your requests. When you submit credit card numbers, that information is encrypted using industry standard technology.
 
-## Data Rention and Account Termination:
+## Data Retention and Account Termination:
 
-You can close your account by clicking here(LINK). We will remove your public posts from view and/or dissociate them from your account profile, but we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Site or to comply with legal obligations. 
+You can close your account by request. We will remove your public posts from view and/or dissociate them from your account profile, but we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Site or to comply with legal obligations.
 
 ## Privacy Of Children Under 13:
 
