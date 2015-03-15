@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samplesource.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701052234id_/https%3A//www.samplesource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplesource.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315035849id_/https%3A//www.samplesource.com/privacy.php) for the most accurate reproduction.*
 
 # SampleSource.com - Free Samples - home, health, beauty, makeup, food, and more!
 
@@ -57,7 +57,7 @@ Our policy is that we will not disclose, trade, rent, sell or otherwise transfer
 
 Your personal information may be maintained and processed by our service providers in the US or other jurisdictions.  Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes. 
 
-**Testimonials:** If you provide a product review and choose to permit SampleSource and the brands whose products you try to use your feedback to help others make smart shopping decisions, SampleSource may use your first name and last initial, product review and/or other information you provide about your experience with the product (the “Review”) and disclose your first name and last initial and the Review to the applicable SampleSource brand partner.
+**Ratings/Reviews:** If you provide a product rating and/or review and choose to permit SampleSource and the brands whose products you try to use your feedback to help others make smart shopping decisions, SampleSource may use personal information you have provided such as your first name and last initial, city and province/state, gender, product rating or review, your public IP address at the time of submitting the Review, and other information you provide about your experience with the product (the “Review”) for the purposes of displaying the Review to the public. SampleSource may also provide this information to the brands whose products you have tried, and if applicable, their service provider. The public IP address is disclosed to the brand partner or their service provider for review fraud detection and mitigation purposes.
 
   
 **Sale of Business:** We may transfer any information we have about you as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of SampleSource or as part of a corporate reorganization or stock sale or other change in corporate control.
