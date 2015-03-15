@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheffieldfinancial.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928114232id_/http%3A//www.sheffieldfinancial.com/forms/Privacy_Notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheffieldfinancial.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315231203id_/https%3A//sheffieldfinancial.com/forms/Privacy_Notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
