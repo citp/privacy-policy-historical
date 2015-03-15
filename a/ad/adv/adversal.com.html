@@ -1,9 +1,12 @@
-<!--The following is the downloaded HTML source of the adversal.com privacy policy that was archived on 2014-07-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140704044250id_/https%3A//www.adversal.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adversal.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315053135id_/https%3A//www.adversal.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Adversal.com Ad Network</title>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="js/adversaln.js"></script>
+
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="/js/adversaln.js"></script>
 <script src="/js/jquery/jquery-1.7.1.js"></script>
 <script language="JavaScript" src="/js/jquery/bootstrap.js"></script>
 <link rel="stylesheet" href="/css/jquery/bootstrap.min.css">
@@ -12,7 +15,25 @@
 <link rel="stylesheet" href="/css/jquery/jquery-ui-1.10.3_effects.custom.min.css">
 <script language="JavaScript" src="/js/jquery/jquery-ui-1.10.3_effects.custom.min.js"></script>
 <link href="/css/adversaln2.css" rel="stylesheet" type="text/css">
-<script src="/js/adversaln2.js"></script>
+<script src="/js/adversaln2-1.1.js"></script>
+<script src="/js/util.js"></script>
+<script src="/js/pubvalidate.js"></script>
+
+<style>
+.login-loader { vertical-align:middle;padding-left:1.1%;padding-right:1.1%; }
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+	.login-loader { padding-left:1.4%;padding-right:1.4%; }
+}
+
+
+ul.pubtermslist li, ol.pubtermslist li {font:bold 15px verdana;color:#FEB322;text-shadow:0px 1px 0px #aaa;padding-top:1px;padding-bottom:1px;}
+ul.pubtermslist li span, ol.pubtermslist li span {font:15px verdana; color: #333;text-shadow:0 1px 0px #f5f5f5;}
+ul.pubtermslist {padding-top:4px;padding-bottom:4px;}
+
+
+</style>
+
+
 
 </head>
 <body style="margin:0px;">
@@ -34,7 +55,7 @@
 <span id="newscontent" onmouseover="stopNewsCycle();" onmouseout="restartNewsCycle();"></span>
 
 <span id="advlogin" style="display:none;">
-	<form class="form form-inline" action="/cgi-bin/login.cgi" method="post">
+	<form class="form form-inline" method="post" action="/cgi-bin/login.cgi">
 	<span class="topAdvi"><i class="icon-user"></i></span>&nbsp;&nbsp;
 	<input type="hidden" name="err" value="">
 	<input type="hidden" name="reason" value="">
@@ -43,16 +64,17 @@
 </span>
 
 <span id="publogin" style="display:none;">
-	<form class="form form-inline" action="/cgi-bin/main/processLogin.cgi" method="post">
+	<form class="form form-inline" method="post">
 	<span class="topPubi"><i class="icon-user"></i></span>&nbsp;&nbsp;
-	<input type="hidden" name="formname" value="login">
-	<input type="hidden" name="err" value="">
-	<input type="hidden" name="reason" id="reason" value="">
+	<input type="hidden" name="formname" id="pubformname" value="login">
+	<input type="hidden" name="err" id="puberr" value="">
+	<input type="hidden" name="reason" id="pubreason" value="">
 	<input type="hidden" name="c" id="cfield" value="">
 	<input type="hidden" name="m" id="mfield" value="">
 	<input type="hidden" name="s" id="sfield" value="">
-	<input type="hidden" name="sbmt" value="P">
-	<input id="pubid" name="username" type="text" class="loginbxpub loginbxwidth" placeholder="ID" maxlength="25"> <input id="advpw" name="password" type="password" class="loginbxpub loginbxwidth" placeholder="PW" maxlength="32"> <button type="submit" class="btn btn-primary" onclick="hideErrors();"><i class="icon-chevron-right"></i></button>
+	<input type="hidden" name="sbmt" id="pubsbmt" value="P">
+	<input id="pubid" name="username" type="text" class="loginbxpub loginbxwidth" placeholder="ID" maxlength="64"> <input id="pubpw" name="password" type="password" class="loginbxpub loginbxwidth" placeholder="PW" maxlength="32"> <button type="button" id="publoginbtn" class="btn btn-primary"><i class="icon-chevron-right"></i></button>
+	<img class="login-loader loading hidden" id="publoading" src="/images/ajax-loader.gif">
 	</form>
 </span>
 
@@ -156,7 +178,6 @@
 
 
 </div>
-
 <br><br><br>
 
 <div align="center" style="width:100%;height:120px;background-color:#333333;background-image:url('/images/nv2/footer-bg.gif');background-repeat:repeat-x;">
@@ -202,6 +223,8 @@
 </div>
 <img src="images/iab/iab-memberseal-white.png" border="0" alt="iab member seal" style="position:relative;top:27px;left:432px;">
 <div style="position:relative;top:0px;">
+
+
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-48770811-1']);
