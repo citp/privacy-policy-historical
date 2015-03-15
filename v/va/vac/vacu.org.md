@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vacu.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100706id_/https%3A//www.vacu.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacu.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315090114id_/https%3A//www.vacu.org/Privacy.aspx) for the most accurate reproduction.*
 
 # Virginia Credit Union > Privacy
 
 Serving your needs and protecting your personal information are priorities for Virginia Credit Union (referenced herein as "Virginia Credit Union," "we," "us" or "our").
 
-For purposes of this Policy, "online" means utilization of an internet communication protocol to view, display, access, receive or transmit information. This Policy covers all our online practices, including, but not limited to our VACU.org website, our Online Banking service, and our Mobile Banking service. Our separate [Privacy Notice](https://web.archive.org/portals/0/pdfs/privacynotice.pdf), along with this Policy, describes the privacy and data security practices that we follow.
+For purposes of this Policy, "online" means utilization of an internet communication protocol to view, display, access, receive or transmit information. This Policy covers all our online practices, including, but not limited to our VACU.org website, our Online Banking service, and our Mobile Banking service. Our separate [Privacy Notice](https://web.archive.org/About_VACU/Privacy_Notice.aspx), along with this Policy, describes the privacy and data security practices that we follow.
 
 ## Accessibility and cookies
 
@@ -24,13 +24,13 @@ We do collect non-identifying information for internal statistical purposes when
 
 Whenever you submit information to us using methods we make available to you on our website, we protect your information using administrative and technical processes along with strong industry standard encryption recommended for financial institutions. There is a serious risk that your information could be intercepted if you send information using a method outside of our website, such as sending an email from your home email server or posting a message to us through a social media website. To send us a secure message, you should only use the method provided on our [Contact Us](https://web.archive.org/About_VACU/Contact_Us.aspx) web page, or through our encrypted email service when instructed by us, or the method provided after logging on to our Online or Mobile Banking services.
 
-For a full description of security measurements for transacting with us online and for specific browser requirements, please refer to our , please refer to our [Online Banking Agreement and Electronic Funds Transfer Disclosure](https://web.archive.org/portals/0/pdfs/onlinebankingagreement.pdf).
+For a full description of security measurements for transacting with us online and for specific browser requirements, please refer to our [Online Banking Agreement and Electronic Funds Transfer Disclosure](https://web.archive.org/portals/0/pdfs/onlinebankingagreement.pdf).
 
 **Google Maps API:** When accessing third-party Google Maps on our website, you are agreeing to Google’s [Terms of Service](https://developers.google.com/maps/terms) and [Privacy Policy](http://www.google.com/privacy.html).
 
 ## How to stop or unsubscribe from receiving communication from us
 
-If your email address or a phone number for receiving text messages is on record with us, we may periodically send you educational or informational communication about products, services or events that we believe may interest you. Instructions for how you can stop or unsubscribe from receiving these messages are included in each communication that we send. However, we will still communicate with you in connection with servicing your account, fulfilling your request or about any promotion, service or program that you have elected to participate.
+If your email address or a phone number for receiving text messages is on record with us, we may periodically send you educational or informational communication about products, services or events that we believe may interest you. Instructions for how you can stop or unsubscribe from receiving these messages are included in each communication that we send. However, we will still communicate with you in connection with servicing your account, fulfilling your request or about any promotion, service or program in which you have elected to participate.
 
 ## Children’s Online Privacy Protection Act (COPPA)
 
@@ -42,4 +42,4 @@ We are not responsible for the content, practices or policies of any other party
 
 ## Updates
 
-Material changes to this Policy and updated versions of the VACU Privacy Notice will be posted on the Virginia Credit Union website. This Policy was last updated August 9, 2013.
+Material changes to this Policy and updated versions of the VACU Privacy Notice will be posted on the Virginia Credit Union website. This Policy was last updated July 1, 2014.
