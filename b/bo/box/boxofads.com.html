@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the boxofads.com privacy policy that was archived on 2014-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702213232id_/https%3A//www.boxofads.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boxofads.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315032231id_/https%3A//www.boxofads.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
-  <meta charset="utf-8">
+  <meta charset="utf-8"><script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/53fc695b4535d64ea400004a.js"></script><script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/94086d59-0253-4ef1-8205-efdb46a29876.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIPUFFVGwAGVlhRAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:19,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:19,2:20,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:20,2:19,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:20,2:19,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:20,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:18,handle:"D5DuLP"}],18:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],19:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],20:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:19,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
   <meta property="fb:admins" content="100007593966653">
   <link rel="icon" type="image/ico" href="https://boxofads-montiveltd.netdna-ssl.com/images/favicon.ico">
   <title>BoxofAds - Privacy Policy</title>
   <meta name="description" content="">
-  <link rel="stylesheet" href="https://boxofads-montiveltd.netdna-ssl.com/css/combined.css?version=2.6">
-  <!-- shiv -->
+    	<link rel="stylesheet" href="https://boxofads-montiveltd.netdna-ssl.com/css/combined.css?version=3.5">
+    <!-- shiv -->
   <!--[if lt IE 9]>
   <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
     <!-- start Mixpanel -->
-	<script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/94086d59-0253-4ef1-8205-efdb46a29876.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+	<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
 	typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
 	b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
 	mixpanel.init("ea6dcddac64aa75180954b1497829825");</script>
@@ -35,11 +35,11 @@
 		
 			<div class="right">			
 				<a class="login-button" href="" id="activate-login">Login</a>
-						<a class="trial-button get-trial" id="trialMenu" href="https://www.boxofads.com/member/signup.php?handle=trial" target="_blank">FREE TRIAL</a>				<a href="#" class="livechat-activator">Live Chat<span></span></a>
+						<a class="trial-button get-trial" id="trialMenu" href="https://www.boxofads.com/member/signup.php?handle=trial" target="_blank"><b>FREE TRIAL</b></a>				<a href="#" class="livechat-activator">Live Chat<span></span></a>
 			</div>
 			
 			<nav>
-				<a href="https://www.boxofads.com/index.php?demo" class="color">demo</a>				<a href="" id="activate-features">features &amp; benefits<span class="arrow"></span></a>				<a href="https://www.boxofads.com/pricing.php">pricing</a>				<a href="https://www.boxofads.com/contact.php">contact</a>				<a href="http://www.boxofads.com/blog/" target="_blank">blog</a>
+				<a href="https://www.boxofads.com/index.php?demo" class="color">demo</a>				<a href="" id="activate-features">features &amp; benefits<span class="arrow"></span></a>				<a href="https://www.boxofads.com/pricing.php">pricing</a>				<a href="https://www.boxofads.com/about-us.php">about us</a>				<a href="https://www.boxofads.com/contact.php">contact</a>				<a href="https://www.boxofads.com/blog/" target="_blank">blog</a>
 			</nav>
 		</div>
 		
@@ -49,7 +49,8 @@
 		</div>		
 	</header>
 	
-	<div class="Privacy Policy Privacy Policy-split"><div class="termsofservice content">
+	<div class="Privacy Policy Privacy Policy-split">
+<div class="termsofservice content">
 	<h1><strong>BoxOfAds.com</strong> Privacy Policy</h1>
 	
 	<h2>1 Introduction</h2>
@@ -67,7 +68,7 @@
 	    "Agreement" means these Terms of Service;<br>
 	    "BoxOfAds" refers to our company, our Site, or our Service, depending on the context of the usage;<br>
 	    "Service" refers to the services that we provide through our Site;<br>
-	    "Site" refers to our website, <a href="http://www.boxofads.com/">www.BoxOfAds.com</a>;<br>
+	    "Site" refers to our website, <a href="https://www.boxofads.com/">www.BoxOfAds.com</a>;<br>
 	    "User" refers to you, those who use our Services, and general visitors to our Site;<br>
 	    "You" refers to you, the person who is entering into this Agreement with BoxOfAds.<br>
 	</p>
@@ -177,17 +178,41 @@
 </div>
 </div>
 <footer>
-	<div class="content">
-		<div class="copyright">© 2014, BoxOfAds.com All Rights Reserved.</div>
+	<div class="footer-top content">
 		<nav>
-			<a href="https://www.boxofads.com/ppv-spy-tool.php" target="_blank">Features &amp; benefits</a>|
-			<a href="https://www.boxofads.com/pricing.php" target="_blank">Pricing</a>|
-			<a href="https://www.boxofads.com/contact.php" target="_blank">Contact</a>|
-			<a href="https://www.boxofads.com/terms.php" target="_blank">Terms of Service</a>|
-			<a href="https://www.boxofads.com/privacy_policy.php" target="_blank">Privacy Policy</a>|
-			<a href="https://www.boxofads.com/cookie_policy.php" target="_blank">Cookie Policy</a>
+			<h4><b>Overview</b></h4>
+			<a href="https://www.boxofads.com/pricing.php" target="_blank">Pricing</a><br>
+			<a href="https://www.boxofads.com/ppv-spy-tool.php" target="_blank">Features and Benefits PPV</a><br>
+			<a href="https://www.boxofads.com/display-spy-tool.php" target="_blank">Features and Benefits Display</a>
 		</nav>
-		<a href="https://mixpanel.com/f/partner" style="float:right; clear:both; margin-top:20px"><img src="https://cdn.mxpnl.com/site_media/images/partner/badge_blue.png" alt="Mobile Analytics"></a>
+		<nav>
+			<h4><b>Resources</b></h4>
+			<a href="http://www.boxofads.com/blog/" target="_blank">Blog</a><br>
+			<a href="#" class="livechat-activator">Live Chat<span></span></a>
+		</nav>
+		<nav>
+			<h4><b>Company</b></h4>
+			<a href="https://www.boxofads.com/about-us.php" target="_blank">About Us</a><br>
+			<a href="https://www.boxofads.com/careers.php" target="_blank">Careers</a><br>
+			<a href="https://www.boxofads.com/contact.php" target="_blank">Contact Us</a>
+		</nav>
+		<nav>
+			<h4><b>Contact Us</b></h4>
+			<a href="mailto:support@boxofads.com" target="_blank">Email Us</a><br>
+			<a href="https://www.facebook.com/boxofads" target="_blank">Facebook</a><br>
+			<a href="https://twitter.com/BoxOfAdscom" target="_blank">Twitter</a>
+		</nav>
+	</div>
+	<div class="footer-bottom">
+		<div class="content">
+			<div class="copyright">© 2014, BoxOfAds.com All Rights Reserved.</div>
+			<nav>
+				<a href="https://www.boxofads.com/terms.php" target="_blank">Terms of Service</a>|
+				<a href="https://www.boxofads.com/privacy_policy.php" target="_blank">Privacy Policy</a>|
+				<a href="https://www.boxofads.com/cookie_policy.php" target="_blank">Cookie Policy</a>
+			</nav>
+			<a href="https://mixpanel.com/f/partner" style="float:right; clear:both; margin-top:20px"><img src="https://cdn.mxpnl.com/site_media/images/partner/badge_blue.png" alt="Mobile Analytics"></a>
+		</div>
 	</div>
 </footer>
 
@@ -197,7 +222,8 @@
 	var subscription = 'none';
 </script>
 
-<script src="https://boxofads-montiveltd.netdna-ssl.com/js/combined.js"></script>
+<script src="https://boxofads-montiveltd.netdna-ssl.com/js/combined.js?version=1.5"></script>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -206,28 +232,85 @@
 
   ga('create', 'UA-31433479-2', 'boxofads.com');
   ga('send', 'pageview');
+  setTimeout("ga('send', 'event', '30_sekund', 'bounce');",30000);
 </script>
+
+<script type="text/javascript">
+    function readCookie(name) {
+      name += '=';
+      for (var ca = document.cookie.split(/;\s*/), i = ca.length - 1; i >= 0; i--)
+      if (!ca[i].indexOf(name))
+        return ca[i].replace(name, '');
+    }
+
+    var gaUserCookie = readCookie("_ga");
+
+    if (gaUserCookie != undefined) {
+      var cookieValues = gaUserCookie.split('.');
+      if (cookieValues.length > 2 )
+      {
+        var userId = cookieValues[2];
+        try {
+          ga('set', 'dimension1', userId);
+          ga('send', 'event', 'Custom Variables', 'Set UserId', {'nonInteraction': 1});
+        } catch(e) {}
+       }
+    }
+</script>
+
 <!-- begin SnapEngage code -->
 <script type="text/javascript">
   (function() {
     var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
-    se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/94086d59-0253-4ef1-8205-efdb46a29876.js';
+    se.src = '//storage.googleapis.com/code.snapengage.com/js/94086d59-0253-4ef1-8205-efdb46a29876.js';
     var done = false;
     se.onload = se.onreadystatechange = function() {
-
       if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
         done = true;
-        
-        SnapABug.getAgentStatusAsync(function(online) {
-        	if (!online) {
-            	$('.livechat-activator').hide();
-            }
 
-        	        });
+        SnapEngage.setNoProactiveChatDelay('120');
 
-      };
+        SnapEngage.getAgentStatusAsync(function (online) {
+            if(online) {
+                $('.livechat-activator').show();
+
+                            }
+        });
+      }
     };
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
   })();
 </script>
-<!-- end SnapEngage code --></body></html>
+<!-- end SnapEngage code -->
+
+<!-- start Perfect Audience code -->
+<script type="text/javascript">
+  (function() {
+    window._pa = window._pa || {};
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/53fc695b4535d64ea400004a.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+<!-- end Perfect Audience code -->
+
+<!-- Google Code for All_Vistiros_BoxOfads.com -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 946933016;
+var google_conversion_label = "wKxSCKXXglcQmJrEwwM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<div style="display:none">
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+</div>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/946933016/?value=1.00&amp;currency_code=USD&amp;label=wKxSCKXXglcQmJrEwwM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body></html>
