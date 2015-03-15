@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bicycletutor.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816201154id_/http%3A//bicycletutor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bicycletutor.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012154id_/http%3A//bicycletutor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bicycle Tutor
 
@@ -12,7 +12,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, Bicycle Tutor uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.  
+Where necessary, Bicycle Tutor uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.  
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
 ## Controlling Your Privacy
