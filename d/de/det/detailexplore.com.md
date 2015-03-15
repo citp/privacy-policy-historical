@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the detailexplore.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002003801id_/http%3A//detailexplore.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detailexplore.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010744id_/http%3A//detailexplore.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Detailexplore.com | Privacy Policy
 
