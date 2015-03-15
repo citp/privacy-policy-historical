@@ -1,102 +1,70 @@
-> *The following text is extracted and transformed from the zalinco.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208002002id_/http%3A//zalinco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalinco.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013047id_/http%3A//zalinco.com/privacylangen-en) for the most accurate reproduction.*
 
 # ZinQ Media B.V. Privacy Statement | Zalinco
 
-**Commitment to Protect your Privacy**
+Introduction 
 
-ZinQ Media B.V. respects your privacy and is committed to protecting it.
+Personal information about customers and website visitors is held securely and is treated with the utmost care. Zinq Media bv is committed to protecting the privacy of its customers and visitors to its websites as being an absolute necessity to the operation of its business.
 
-Our Privacy Policy explains how and why we collect personal information, what we use it for, and to whom and when we disclose it. We update our policy from time to time, and you should revisit our website regularly to see the latest copy of the Privacy Policy. Any changes will come into effect when the updated Privacy Policy is posted to the website.
+Zinq Media bv complies with the requirements of the Personal Data Protection Act and other privacy legislation for an accurate processing of personal data. The party responsible for data processing (Controller) is Zinq Media bv (Max Euweplein 24, 1017 MB Amsterdam, The Netherlands). The Dutch Data Protection Authority in The Hague is notified of all processing of personal data.
 
-In all cases we will treat your personal information with no less protection than that provided for by the Australian Privacy Principles and the privacy laws that are in force in Australia.
+Processing personal data
 
-**How and what Personal Information we collect about you?**
+Data is stored and maintained in the course of providing our services. Your personal details are stored when you take out a subscription to a (mobile) service or a newsletter, when you are a participant to a promotion or invited to join a game. Data is also processed in the course of providing our services by other companies in the group, sponsors and partners, when making available the prize to the winner, register an interest in one of our services, or contact us for some other reason. The personal information we hold includes information such as contact details, mobile phone number, unsubscribe data, for instance to a newsletter, new products/services and/or when you have registered an interest in our different sorts of services.
 
-We collect personal information from you when you respond to one of our programs or request to receive further information from an advertiser. ZinQ Media B.V. collects data about you, your interests and subjects you select to receive communications about.
+We use this information for the fulfillment and processing of agreements with you, to provide other services (by our subsidiaries and sponsors or partners), internal business processes and, to update customers of (new) products and services provided by us, other companies in the group or by sponsors and partners. Your (contact) details may also be passed to sponsors and partners in order to provide you with information about offers or other relevant information you consented to by participating. If you do not wish to receive this information, you can unsubscribe at any time.
 
-We may also collect information about you from our website but this information will only identify who you are if you provide us with your details (for example, if you provide us with your contact details). When you visit our website our web server collects the following types of information for statistical purposes
+Use of data 
 
-*Your Internet service provider’s address;  
-*The number of users who visit the website;  
-*The date and time of each visit;  
-*The pages accessed; and  
-*The type of browser used.
+In order to use our mobile services you are asked to pass through a (usually country specific) process. You are asked to specify a number of data, such as your name, address, postal code, residence, gender, mobile phone number, e-mail address and bank account number. These data are used to send you information in the course of providing our (requested) services and to be able to improve the performance with you, when appropriate. We also want to keep you up-to-date with new, different sorts of products and services and interesting offers.
 
-No attempt is made to indentify individual users from this information.
+Your mobile telephone number 
 
-Before we disclose your personal information to an overseas recipient such as an advertiser or data warehouse:
+If you have specified your (mobile) telephone number this is used to communicate with you. When you have indicated to be interested, we also use you (mobile) telephone number to keep you informed of (new) products and services. You can unsubscribe at any moment by clicking on the link in the text message which you receive on your mobile telephone.
 
-(a) who is not in Australia or an external Territory; and
+Your e-mail address 
 
-(b) who is not the entity or the individual;
+When you have specified your e-mail address and actively have indicated for instance to receive a new letter or other information, just by participating, then we can inform you (better) as a customer of different sorts of offers and prize actions. When you do not wish to receive this information, you can unsubscribe at any time by clicking on the link in the e-mail you received. You may also have given your consent to disclose your e-mail address to be sent offers and campaigns from other companies from time to time. Such companies are beforehand carefully selected. You can indicate and view this on the site most of the times.
 
-we take steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the Australian Privacy Principles in relation to your personal information.
+Viewing for correction 
 
-**Why we collect Personal Information and what is it used for?**
+You view the data we maintain on you at any time. If such information is incorrect you can help us to correct these. To view or correct your data, you can send your request to the above mentioned address. Please contact us also at the above address if you have questions or any queries about how we handle personal information.
 
-Zinq Media B.V. collects data about you, your interests and the subjects you may like to receive communications about. We also use the information:
+Preferences kind of products and services 
 
-1\. To enable us to provide you products and services;  
-2\. So advertisers you select can communicate with you. Marketing communication be by email, post, over the phone, SMS/MMS and door-to-door canvassing, depending on which contact channel information you have chosen;  
-3\. For security and risk management purposes;  
-4\. To enable us to provide you with information about, and offer you, additional products and services;  
-5\. To provide to third parties to enable them to give you information about, and offer you products and services.  
-6\. To enable us to improve the quality of our products and services and to develop additional products and services, and for staff training and quality assurance purposes;  
-7\. Where a third party has an interest in acquiring part or all of the company, or providing any form of financial accommodation to the company;  
-8\. To improve the quality and quantity of information on our website;  
-9\. Marketing analysis.
+Our aim is to take into account your preferences as much as possible. If you are not interested in information about (new) relevant products and services, then we ask you to let us know on the special unsubscribe page on the site. Note: our service is aimed at sharing information with you on preferences for different kinds of products and services. A total blocking of your data may lead to the not receiving information on offers and campaigns in which you probably may be interested in.
 
-Where information is provided to any person or organisation other than ZinQ Media B.V. you accept that that person or organisation may not have privacy policies that are as protective as our Privacy Policies, and you consent to the disclosure of your personal information with that understanding.
+Database records 
 
-You may opt-out of receipt of any such offers at any time simply by submitting a request via our feedback form or in any way that we notify you in the relevant communication.
+For the provision of our service we keep database records in order to have a robust control in place on our services (and our service providers). The purpose of this is to optimize the reliability of the service. The information derived from these data is used to prevent misuse of data and if necessary to comply with more detailed information queries from third parties on the basis of (self)regulation.
 
-**How we hold your Personal Information**
+Browsing session and IP-address
 
-ZinQ Media B.V. and/or its third party suppliers hold your personal information on secure enterprise grade servers.
+We also make use of the IP-address of your computer. This IP-address is a number which automatically assigned to your computer when you have a browsing session on the internet, such as when you visit one of our sites or landing pages. They can be used to see which use has been made of the website and for drafting analyses and reports with non-identifiable information.
 
-**To whom do we disclose the Personal Information?**
+Security 
 
-We disclose personal information to our advertisers, customers, third party agents, directors, employees and contractors only for a purpose that is consistent with the way we have informed you that we will use the information in this Privacy Policy.
+Due to the nature of the service and the trust which one must have in our service we have designed and implemented technical and organizational measures governing an adequate level of security and ensure compliance with these measures.
 
-We may also disclose personal information to any person or authority where we are required to by law.
+Cookies 
 
-Other than as we have set out in our Privacy Policy, we will not disclosure your personal information without your prior consent.
+Sites which transmit advertisements are making use of cookies to keep count of which advertisements have been shown. These cookies are places by the company which provides these advertisements. The only purpose of these cookies is to transmit the communication necessary to show the advertisement on the website or to provide the requested service after clicking the advertisement on the website. These ‘clicks’ give us information which is in the interests of statistical analysis on a non-identifiable level. You personal use cannot be derived from such use.
 
-**Cookies**
+Links
 
-A cookie is a small piece of computer code which remains on your computer and contains information which helps us identify your browser and previous information viewed in relation to our service.
+On this site you see a number of hyperlinks to other websites. We cannot be held responsible for the data processing activities by these organizations. Read the privacy policy, if present, of the site you are visiting.
 
-When you visit our website the cookie records certain details including the date, time and advertising content. None of the information in the cookie contains personally identifiable information about you.
+Adjustments 
 
-If you do not want us to use cookies then you can easily stop them, or be notified when they are being used, by adopting the appropriate settings on your browser. If you do not allow cookies to be used some or all of our website might not be accessible to you.
-
-**Links to Other Web Sites**
-
-Our web site may include web links to other websites. We are not responsible for the content of those other websites, and do not endorse the products, services or information that is on those websites. If you use those websites you should be aware that they will have different privacy policies and terms and conditions of use, which you should review and agree to prior to using those websites.
-
-**Amending, deleting and how you can obtain access to your Personal Information**
-
-We try to ensure that all information about you that we collect, use or disclose is accurate, complete and up-to-date.
-
-If you want to obtain access to any personal information and data that we hold about you, or believe any of your personal information that we hold is inaccurate, incomplete or it is not necessary to hold it, you can complete the feedback form, and we will use reasonable efforts to provide it and, if required, correct it. We may charge a reasonable fee to cover the costs of providing personal information to you.
-
-Any enquiries should be in writing to: [info@zinqmedia.com](mailto:info@zinqmedia.com)
-
-You may at any time, request that we delete your personal information from our database by completing our feedback form. If you need us to delete, correct or amend this data, we will do so within 30 days.
-
-**Security and retention policies**
-
-ZinQ Media B.V. is committed to ensuring the security of the information we hold about you. We take all reasonable steps to ensure that the information we hold about you is protected from misuse, interference and loss, and from unauthorised access, modification or disclosure. If ZinQ Media B.V. no longer needs the information we will take reasonable steps to destroy the information and/or ensure that the information is de-identified.
-
-If you use the Internet to communicate with us, you should be aware of the risks in transmitting information over the Internet. ZinQ Media B.V. does not have control over information while in transit over the Internet and we cannot guarantee its security. Any personal information that we no longer require is destroyed. An exception to this may be where records are retained to comply with legal requirements.
+We reserve the right to make adjustments to this privacy policy. Important adjustments are made know on this site in the privacy policy.
 
 **Complaints**
 
-If you wish to make a complaint or provide any comments on our Privacy Policy please contact us on: [info@zinqmedia.com](mailto:info@zinqmedia.com). We will contact you to discuss any concerns within 48 hours of receiving your e-mail.
+If you wish to make a complaint or provide any comments on our Privacy Policy please contact us on: [info@zalinco.com](mailto:info@zinqmedia.com). We will contact you to discuss any concerns within 48 hours of receiving your e-mail.
 
 ZinQ Media B.V.
 
-Address: Max Euweplein 32
+Address: Max Euweplein 24
 
 Postal Code: 1017 MB
 
@@ -106,7 +74,7 @@ Country: Netherlands
 
 Phone: +31(0)20 530 6667
 
-Email: info@zinqmedia.com
+Email: info@zalinco.com
 
 Chamber of Commerce nr: 54535565
 
