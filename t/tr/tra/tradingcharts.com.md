@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingcharts.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007082326id_/http%3A//futures.tradingcharts.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingcharts.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021319id_/http%3A//futures.tradingcharts.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,7 +6,7 @@
     In an effort to support privacy policy disclosures on the Internet, TradingCharts.com, Inc. wishes to set an example for other major web sites by voluntarily making our privacy policy available to the public. We urge all other major web sites to do the same.
 **Who we are …**  
 
-    TradingCharts.com, Inc. is the operator of three online information services, which provide complete market information -- charts, quotes and news -- in three financial sectors: futures ([futures.tradingcharts.com](http://futures.tradingcharts.com/)), forex ([forex.tradingcharts.com](https://web.archive.org/web/20141007082326id_/http%3A//futures.tradingcharts.com/forex.tradingcharts.com)) and stocks ([stocks.tradingcharts.com](https://web.archive.org/web/20141007082326id_/http%3A//futures.tradingcharts.com/stocks.tradingcharts.com)). We can be reached by telephone at 1.306-445-7330 or by email to admin1@tradingcharts.com.
+    TradingCharts.com, Inc. is the operator of three online information services, which provide complete market information -- charts, quotes and news -- in three financial sectors: futures ([futures.tradingcharts.com](http://futures.tradingcharts.com/)), forex ([forex.tradingcharts.com](https://web.archive.org/web/20150315021319id_/http%3A//futures.tradingcharts.com/forex.tradingcharts.com)) and stocks ([stocks.tradingcharts.com](https://web.archive.org/web/20150315021319id_/http%3A//futures.tradingcharts.com/stocks.tradingcharts.com)). We can be reached by telephone at 1.306-445-7330 or by email to admin1@tradingcharts.com.
 **The information we collect …**
     Our software automatically collects limited information about each visit to our web sites. This information is limited to the time and date, the IP address, the type of web browser software used, the address of the web page visited on our site, and the address of the web page from which provided the link to our site. In addition, our software automatically records the "alias" you used if you log on to our discussion forums. We do not record any other personal information provided through our web site in any way. 
 **Why we do it …**  
@@ -27,4 +27,4 @@
 **Note …**
     This site contains links to other sites. Although we encourage every web site to maintain a clear and public privacy policy, TradingCharts.com, Inc. cannot directly influence the privacy practices or the content of such web sites and cannot be responsible for their practices.
 
-[](https://web.archive.org/web/20141007082326id_/http%3A//futures.tradingcharts.com/menu.html) | 
+[](https://web.archive.org/web/20150315021319id_/http%3A//futures.tradingcharts.com/menu.html) | 
