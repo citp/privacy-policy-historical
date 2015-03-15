@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextissue.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113152055id_/http%3A//www.nextissue.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextissue.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316000023id_/http%3A//www.nextissue.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Next Issue
 
