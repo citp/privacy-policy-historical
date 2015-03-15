@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tune.tv privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216174212id_/http%3A//tune.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tune.tv privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010250id_/http%3A//tune.tv/privacy.php) for the most accurate reproduction.*
 
 # Tune.tv - privacy
 
