@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vxgateway.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160247id_/https%3A//www.vxgateway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vxgateway.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032736id_/https%3A//www.vxgateway.com/privacy) for the most accurate reproduction.*
 
 # VX GATEWAY : Cloud Payment Framework
 
