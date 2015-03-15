@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ginzametrics.com privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810214426id_/http%3A//www.ginzametrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ginzametrics.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315161825id_/http%3A//www.ginzametrics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# GinzaMetrics has a fully disclosed privacy policy | GinzaMetrics
 
 Your privacy is important to us. Ginzamarkets, Inc. (“Ginzametrics” or “we”) are providing this Privacy Policy (the “Policy”) to describe and explain our online information practices and the choices you can make about the way your information is collected and used. By using [www.ginzametrics.com](http://www.ginzametrics.com/ "www.ginzametrics.com") (the “Site”), our services or our products, you consent to the processing of information as set forth herein. If you create an account for our services (a “Business Customer”), we provide hosted software to relating to each Business Customer’s employees, consumers, patients, students, donors, volunteers, clients, supplies and other business partners (“data subjects”) around the world.
 
@@ -18,14 +18,14 @@ For Business Customers, we operate under the assumption that it is generally the
 
 Ginzamarkets uses Personally Identifiable Information and Customer Information for the following general purposes:
 
-  * to provide our products and services, 
-  * for billing, identification and authentication, 
-  * to analyze Site usage and improve our products and services, 
-  * to contact you and deliver administrative notices and communications relevant to your use our products and services, 
-  * for internal market research, troubleshooting problems, and detecting and protecting against error, fraud or other criminal activity, 
-  * for distribution to third-party contractors that provide services to Ginzametrics and are bound by privacy restrictions at least as restrictive as those set forth in this Policy, 
-  * to enforce our Terms of Use, and 
-  * as otherwise set forth in the Policy. 
+  * to provide our products and services,
+  * for billing, identification and authentication,
+  * to analyze Site usage and improve our products and services,
+  * to contact you and deliver administrative notices and communications relevant to your use our products and services,
+  * for internal market research, troubleshooting problems, and detecting and protecting against error, fraud or other criminal activity,
+  * for distribution to third-party contractors that provide services to Ginzametrics and are bound by privacy restrictions at least as restrictive as those set forth in this Policy,
+  * to enforce our Terms of Use, and
+  * as otherwise set forth in the Policy.
 
 
 
