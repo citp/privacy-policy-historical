@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albiononline.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807042944id_/https%3A//albiononline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albiononline.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315224750id_/https%3A//albiononline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Albion Online
 
@@ -64,7 +64,7 @@ We will only disclose personal, aggregated information to third parties when thi
 
 If you have any concern about privacy at our website, apply your rights to request a copy of the personal information we hold about you and want to have any inaccuracies corrected or require the deletion of this data, please get in touch:  
 E-Mail: info@sandbox-interactive.com  
-Web: www.albiononline.com/contact/  
+Web: [www.albiononline.com/contact/](https://web.archive.org/web/20150315224750id_/https://albiononline.com/privacy-policy/www.albiononline.com/contact/)  
 We will use reasonable efforts to supply, correct or delete personal information about you on our files. Even if you have any questions or want more detailed information, please send us an e-mail.
 
 **9\. Changes to Privacy Policy**
