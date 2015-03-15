@@ -1,81 +1,115 @@
-> *The following text is extracted and transformed from the simplevideopro.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627000322id_/http%3A//simplevideopro.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplevideopro.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315033534id_/https%3A//simplevideopro.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
-**Red Zebra Media, Inc. & Simple Video PRO Website Privacy Statement**
+Effective Date: August 1, 2014
 
-FTC notice: This website contains links to products for which this website’s owner is an affiliate. This means, that if you purchase a product or service via a link on this website, this website’s owner may get a commission for the sale of such product or service.
+To review material modifications and their effective dates scroll to the bottom of the page.
 
-This document was last updated on 03/15/2012.
+Red Zebra Media, Inc. (“RZMINC”) owns and operates this SimpleVideoPro.com website business. All references to “we”, “us”, this “website” or this “site” shall be construed to mean RZMINC. We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal Information (defined below), that we collect through this website. By using this website you are accepting the practices described in this Privacy Policy.
 
-**ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
+HOW WE MODIFY THIS PRIVACY POLICY
 
-Red Zebra Media, Inc. & Simple Video PRO is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing www.SimpleVideoPRO.com, you acknowledge and fully understand Red Zebra Media, Inc. & Simple Video PRO’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the “Privacy Policy” link on this site’s home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy.
 
-By accessing this site, users also agree to the Terms of Use Agreement for www.SimpleVideoPRO.com.
+Regarding Personal Information (defined below), if any modifications are materially less restrictive on our use or disclosure of the Personal Information previously disclosed by you, we will obtain your consent before implementing such revisions with respect to such information.
 
-**PARTICIPATING MERCHANT POLICIES**
+THE TYPES OF INFORMATION WE COLLECT
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Red Zebra Media, Inc. & Simple Video PRO services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+Personal Information. We collect information from you that is protected for purposes of privacy and data security (“Personal Information”). Personal Information that we collect may vary with each separate purpose for which you provide it, and it may include one or more of the following categories: name, physical address, an email address, phone number, credit card information including credit card number, expiration date, and billing address, and location data.
 
-**INFORMATION WE COLLECT AND HOW WE USE IT**
+Non-Personal Information. We reserve the right to collect anonymous information such as your browser type, the URL of the previous website you visited, your computer’s operating system and Internet protocol (IP) Address, Internet domain and host name, your Internet Service provider, your clickstream data, and the dates and times that you may access this site and specific pages (“Non-Personal Information”). Non-Personal Information is essentially anonymous when collected.
 
-Red Zebra Media, Inc. & Simple Video PRO collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+HOW AND WHEN WE COLLECT INFORMATION
 
-**1\. Web Server Logs.**
+Personal Information. We collect Personal Information at the time you provide it to us. We collect Personal Information through sign-up forms and as part of your registration for an account, product, or service from this website. Personal Information that we collect may vary with the each sign-up or registration.
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
+Your Communications With Us. We collect Personal Information that we receive from you as you communicate with us.
 
-  * Your Internet protocol address.
-  * The kind of browser or computer you use.
-  * Number of links you click within the site.
-  * State or country from which you accessed the site.
-  * Date and time of your visit.
-  * Name of your Internet service provider.
-  * Web page you linked to our site from.
-  * Pages you viewed on the site.
+Passive and Analytical Information. We reserve the right to monitor your use of this site. As you navigate through this site, Non-Personal Information may be passively collected (that is, gathered without your actively providing the information) using various analytics and reporting technologies, such as cookies and web beacons.
 
+Our company may implement Google Analytics Demographics and Interest Reporting.
 
+Optin-out of Google Analytics’ For The Web and Google Analytics for display Advertising:
 
-**2\. Use of Cookies**
+Users can opt-out of Google Analytics currently available opt-outs for the web at https://tools.google.com/dlpage/gaoptout/
 
-Red Zebra Media, Inc. & Simple Video PRO may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
+Using the Ads Settings, users can opt-out of Google Analytics Display Advertising and customized Google Display Network ads at https://www.google.com/settings/personalinfo
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
+HOW WE USE YOUR INFORMATION
 
-Red Zebra Media, Inc. & Simple Video PRO reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into ww.RZMInc.com a site that relies on third-party cookies).
+We use your Personal Information for the performance of the services or transaction for which it was given, our private, internal reporting for this site, and security assessments for this site.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+We may use your Personal Information to send you emails.
 
-**3\. Personal Information Users**
+We reserve the right to make full use of Non-Personal Information. For example, we may use Non-Personal Information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends about the use of this site, and otherwise administer and improve this site for your use.
 
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
+INFORMATION SHARING AND DISCLOSURE
 
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
+General Disclosure Policy. Our general policy is that we will not share, sell, rent, or provide access to your Personal Information to others. The only exceptions to this general policy: (i) are described in the subsections below, and (ii) if you explicitly approve through our site. We reserve the right to disclose Non-Personal Information without restriction.
 
-  * To fulfill your service requests for services.
-  * To protect ourselves from liability,
-  * To respond to legal process or comply with law, or
-  * In connection with a merger, acquisition, or liquidation of the company.
+Affiliated Entities. We reserve the right to provide your Personal Information and Non-Personal Information to any affiliated entities we may have, including our subsidiaries. Affiliated entities are entities that we legally control (by voting rights) or that control us.
 
+Service Providers. We reserve the right to provide access to your Personal Information and Non-Personal Information to our trusted service providers that assist us with the operation and maintenance of this site. For example, we may contract with third parties to process payments, host our servers, provide security, and provide production, fulfillment, optimization, analytics, and reporting services. Our service providers will be given access to your information only as is reasonably necessary to provide the services for which they are contracted.
 
+Successors. If we sell or otherwise transfer part or all of our business or assets to another organization, such as in the course of an acquisition, merger, bankruptcy or liquidation, we may transfer your Personal Information and Non-Personal Information. In such an event, we will require the buyer or transferee to agree to our commitments provided in this Privacy Policy.
 
-**4\. Use of Web Beacons or GIF Files**
+Legal Process, Enforcement and Security Notice. We reserve the right to disclose your Personal Information and Non-Personal Information if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary (i) to satisfy any applicable law, regulation, legal process or enforceable governmental request (such as for example, to comply with a subpoena or court order), (ii) to detect, prevent, and address fraud or other illegal activity, and (iii) to investigate, respond to, or enforce violations of our rights or the security of this site. If we believe that the security of your Personal Information may have been compromised, we may notify you of the relevant facts as promptly as possible under the circumstances, and if you have provided us your email address, we may notify you by email. You consent to our use of your email address for this purpose.
 
-www.SimpleVideoPRO.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Photo Special Effects to count users who have visited those pages and to deliver co-branded services. Red Zebra Media, Inc. & Simple Video PRO may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+Marketing Affiliates, Partners and Resellers. We reserve the right to disclose your Personal Information to any of our (i) marketing affiliates that referred you to our site for purposes of sales by us, and (ii) resellers that may re-sell our products or services to you. We may also disclose your Personal Information to any marketing partners that may participate in the offer or related fulfillment. Understand that you originated with these marketing affiliates and resellers, and that the information you may provide to them is subject to their privacy policies also.
 
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Photo Special Effects prohibits Web beacons from being used to collect or access your personal information.
+When We Act as a Marketing Affiliate, Partner or Reseller for Others. We may act as a marketing affiliate, partner, or reseller for certain of our marketing partners for purposes of selling their products or services to you, and we reserve the right to right to disclose your Personal Information to them for purposes of compensation, transaction processing, fulfillment, and support. These marketing partners may also email you regarding complimentary products or services, however, you have two ways to opt out of receiving these emails: (i) contact us (as provided below under the Contact Us heading) with a request to opt out, or (ii) wait until you receive an email from them and then unsubscribe.
 
-**5\. Accessing Web Account Information**
+Third Parties For Direct Marketing Subject to Opt-In. We may provide you with the opportunity to receive promotional offers from specifically identified third-parties through their direct marketing efforts, but only if you explicitly consent (opt-in) to receive each offer. If you explicitly consent (opt-in), your Personal Information will be shared only with the specifically identified third-party to enable them to provide you with the offer you have requested, and then only in connection with that specific promotion and not on a continual basis. Any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should review any privacy policies posted on any of these sites before providing information to them.
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant — nick@RZMInc.com.
+Your California Privacy Rights. As described above, from time to time, we make your Personal Information available to third parties. If you do not want us to share your Personal Information with other companies or organizations, you may request opt-out of this information sharing by making a request at the following email address: compliance.officer-at-SimpleVideoPro.com. This notice is designed to comply with California’s “Shine the Light” law, but the opt-out option is available to all of our users. If you are a California resident, you are entitled, but limited to the extent required by law, upon sending us a request by email to compliance.officer-at-SimpleVideoPro.com to receive the following information: (i) the names and addresses of all of the third parties that received personal information from us for their direct marketing purposes during the preceding calendar year and, if the nature of that third parties’ business cannot reasonably be determined from the third parties’ name, examples of the products or services marketed, if known to us, sufficient to give you a reasonable indication of the nature of the third parties’ business; and (ii) a list of the categories of information that correspond to the personal information disclosed by us to such third parties for the third parties’ direct marketing purposes as set forth in the applicable law.
 
-**6\. Changes to this Statement**
+Third-Party Advertising Partners. We reserve the right to share Non-Personal Information with third party advertising partners with which we have relationships. We will display behavioral ads which will be targeted to your specific interests based on your browsing history on this site or activities on other websites. These third party ad servers or ad networks may also use cookies to track your activities on this site to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, and we have no access or control over these cookies that may be used by third party advertisers. We may participate in Google’s Adsense program, which uses DART cookies to enable serving their behavioral ads. To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url: http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies. We may also display contextual ads which will be based solely on the context of this site, and not will not be targeted based on your browsing history on this site or activities on other websites. Any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should review any privacy policies posted on any of these sites before providing information to them.
 
-Red Zebra Media, Inc. & Simple Video PRO has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+SPECIFIC INFORMATION ABOUT COOKIES AND WEB BEACONS
 
-**7\. Contacting Us**
+In order to provide better service for our site, we may use Cookies and Web Beacons to collect Non-Personal Information to store your preferences and information about what pages you visit and past activity at our site. We may also employ Web Beacons from third parties in order to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of our site.
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at nick@RZMInc.com
+“Cookies” are tiny pieces of information stored by your browser on your computer’s hard drive. Cookies are also used to customize content based on your browser. Most browsers are initially set to accept cookies. If you want to disable cookies, there is a simple procedure in most browsers that allows you to turn off cookies. Please remember, however, that cookies may be required to allow you to use certain features of our site. We reserve the right to use third party web analytics services that use third party cookies (cookies passed by them, not by us) to collect Non-Personal Information about your use of this site. These web analytics services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service’s behalf.
 
-Red Zebra Media, Inc. & Simple Video PRO will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+Flash Cookies – third party cookies that use an Adobe Flash Media Player local shared object (LSO) – may be used along with other third party cookies for purposes of crediting any purchase you may make on this site to one of our affiliate marketing partners that may have referred you to us. These cookies will only be used for purposes of crediting sales to the referring affiliate and not for other purposes such as serving behavioral ads. Flash cookies are not the same as “browser cookies”. The Adobe Flash Media Player is software that enables users to view content on their computers. Flash cookies are also accompanied by a browser cookie. If you delete the browser cookie, the Flash cookie may automatically create (or re-spawn) a replacement for the browser cookie.
+
+Web Beacons – sometimes called single-pixel gifs or clear gifs – are used to assist in delivering cookies, and they allow us to count users who have visited pages of our site. We may include Web Beacons in promotional e-mail messages or our newsletters in order to determine whether messages have been opened and acted upon.
+
+DO NOT TRACK REQUESTS
+
+Some Web browsers incorporate a “Do Not Track” feature that signals to websites that you visit that you do not want to have your online activity tracked. Each browser communicates “Do Not Track” signals to websites differently, making it unworkable to honor each and every request correctly. In order to alleviate any communication error between browsers and website, we do not respond to “Do Not Track” signals at this time. As the technology and communication between browser and website improves, we will reevaluate the ability to honor “Do Not Track” signals and may make changes to our policy.
+
+DATA SECURITY
+
+We will implement reasonable and appropriate security procedures consistent with prevailing industry standards to protect data from unauthorized access by physical and electronic intrusion. Unfortunately, no data transmission over the Internet or method of data storage can be guaranteed 100% secure. Therefore, while we strive to protect your Personal Information by following generally accepted industry standards, we cannot ensure or warrant the absolute security of any information you transmit to us or archive at this site.
+
+When you transmit Personal Information through our registration process or if you purchase products or services, we encrypt that information in transit using secure socket layer technology (SSL).
+
+ONWARD TRANSFER OUTSIDE YOUR COUNTRY OF RESIDENCE
+
+Any Personal Information which we may collect on this site will be stored and processed in our servers located only in the United States. By using this site, if you reside outside the United States, you consent to the transfer of Personal Information outside your country of residence to the United States.
+
+UPDATING PERSONAL INFORMATION
+
+Upon request, we will permit you to request or make changes or updates to your Personal Information for legitimate purposes. We request identification prior to approving such requests. We reserve the right to decline any requests that are unreasonably repetitive or systematic, require unreasonable time or effort of our technical or administrative personnel, or undermine the privacy rights of others. We reserve the right to permit you to access your Personal Information in any account you establish with this site for purposes of making your own changes or updates, and in such case, instructions for making such changes or updates will be provided where necessary.
+
+EMAIL MESSAGES; OPT-OUT
+
+If you supply us with your e-mail address you may receive periodic messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events or offers from us. If you prefer not to receive these periodic email messages, you may opt-out by following the instructions in the email. Some of these emails from us may contain promotional offers on behalf of third party marketing partners which we select; however, in these instances, we do NOT share your Personal Information with the third party marketing partner for purposes of the mailing; we do the mailing for them. However, if you do click on any of the links to their websites or accept any of these promotional offers, your click-through information and any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should be careful to review any privacy policies posted on any of these sites before providing information to them.
+
+LINKS TO OTHER SITES
+
+This site may contain links to other websites with whom we have a business relationship. These links may include online advertisements that we deem to be appropriate. If you do click on any of the links to their websites or accept any of their promotional offers, your click-through information and any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should be careful to review any privacy policies posted on any of these sites before providing information to them.
+
+YOU MUST BE EIGHTEEN (18) YEARS OF AGE OR OLDER TO ACCESS THIS WEBSITE. IF YOU ARE UNDER EIGHTEEN (18) YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEBSITE, NO INFORMATION OBTAINED BY THIS WEBSITE, FALLS WITHIN THE CHILDREN’S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.
+
+If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at: 
+
+Red Zebra Media, Inc.  
+Attn: Privacy Policy Officer  
+8139 Sunset Ave, Suite 127,   
+Fair Oaks, CA, 95628  
+Email: office-at-SimpleVideoPro.com
+
+Material Modifications Since August 1, 2014: none.
