@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litemind.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132954id_/http%3A//litemind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litemind.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315024304id_/https%3A//litemind.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Litemind
 
@@ -46,6 +46,6 @@ Your personally identifiable information is kept secure. Only authorized staff o
 
 ## Privacy Contact Information
 
-If you have any questions, concerns, or comments about our privacy policy you may contact Litemind by using the [contact page](http://litemind.com/contact/ "Contact Litemind").
+If you have any questions, concerns, or comments about our privacy policy you may contact Litemind by using the [contact page](https://litemind.com/contact/ "Contact Litemind").
 
  _Policy last updated on **3-Apr-2009**. Litemind reserves the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. _
