@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxever.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015013350id_/http%3A//www.boxever.com/boxever-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxever.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315224724id_/http%3A//www.boxever.com/boxever-privacy-policy) for the most accurate reproduction.*
 
 # Boxever Privacy Policy | Big Data for Travel – Boxever
 
