@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunhill.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221100856id_/http%3A//www.dunhill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunhill.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315015456id_/http%3A//www.dunhill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | dunhill - Official Website
 
@@ -100,12 +100,3 @@ Contact Us
     
 
 If you have any questions or comments about this Privacy Policy, or privacy matters generally, please contact us using any of the contact details provided [here](http://www.dunhill.com/contact-us/) . You can also contact us if you wish to request a copy of the personal data we hold about you. 
-
-To be linked to the Terms
-    
-
-Please check the data described below for accuracy, and add/remove data types as necessary.   
-Alfred Dunhill to adjust depending on whether the Richemont group solution (i.e. fifty-five) or a cookie consent solution developed by Alfred Dunhill is preferred.   
-As above   
-Please review and add any other relevant parties receiving personal data from Alfred Dunhill.   
-To be linked with the contact page (if any). If no contact page exists, please provide contact details in the section. 
