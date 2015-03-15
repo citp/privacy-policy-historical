@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluecloudsolutions.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018164931id_/http%3A//www.bluecloudsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecloudsolutions.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013328id_/http%3A//www.bluecloudsolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bluecloud Solutions
 
