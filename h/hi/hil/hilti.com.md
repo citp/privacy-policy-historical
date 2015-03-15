@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hilti.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703145838id_/https%3A//www.hilti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hilti.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315044819id_/https%3A//www.hilti.com/privacy-policy) for the most accurate reproduction.*
 
-# Hilti - Privacy policy | hilti.com
+# Hilti - Privacy policy
 
 This website is brought to you by Hilti Aktiengesellschaft (“Hilti”). Terms like “we”, “us”, “our”, etc. in this Privacy Policy refer to Hilti. Terms like “you”, “your”, etc. refer to you as a user of the website, whether or not you register with the website. 
 
