@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryobitools.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718015339id_/https%3A//www.ryobitools.com/power-tools/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryobitools.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315112351id_/https%3A//www.ryobitools.com/outdoor/content/privacy) for the most accurate reproduction.*
 
 # RYOBI Tools
 
