@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamweek.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703073313id_/https%3A//teamweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamweek.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315194248id_/https%3A//www.teamweek.com/privacy.html) for the most accurate reproduction.*
 
-# Teamweek - Online Gantt Charts & Project Planning Software
+# Privacy - Teamweek
 
 Teamweek is committed to protect the privacy of our customers. This Privacy Policy outlines what information we collect and how we may use it on www.teamweek.com. If you have questions or concerns about our privacy practices, please feel free contact us at support@teamweek.com.
 
@@ -22,7 +22,7 @@ We currently use persistent cookies in Teamweek to store the login session ("Rem
 
 ## Payments
 
-Payments are handled by an external service provider ("Adyen"). You will be redirected to service provider website over secure link and you will enter all information necessary for payments there in secure manner. After payment you will be redirected to Teamweek automatically.
+Payments are handled by external service providers ("Adyen" and "Stripe"). You will be redirected to service provider website over secure link and you will enter all information necessary for payments there in secure manner. After payment you will be redirected to Teamweek automatically.
 
 Teamweek will not store your Credit Card number. Teamweek will store your billing address for receipt display purposes.
 
