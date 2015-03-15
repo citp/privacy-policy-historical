@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamido.com.my privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106100533id_/http%3A//www.lamido.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamido.com.my privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315223358id_/http%3A//www.lamido.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Lamido - Privacy and Confidentiality
 
