@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologicallyunemployable.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085507id_/http%3A//psychologicallyunemployable.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologicallyunemployable.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315053840id_/http%3A//psychologicallyunemployable.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Psychologically Unemployable
 
@@ -13,6 +13,10 @@ This Privacy Policy also outlines our privacy practices on our corporate website
 
 **INFORMATION COLLECTION**  
 If you attempt to become a Client or otherwise choose to provide information to us, this website shall collect Personal Information from you. This information includes, but is not limited to: name, address, telephone number, mobile number and/or email address. Once collected, we will store your information for a reasonable period of time for record keeping purposes. The information that we store is sometimes deleted as space requires or in the normal course of business.
+
+**REMOVAL OF YOUR INFORMATION/OPTING OUT**
+
+At anytime you want to opt out/unsubscribe you can click the link at the bottom of any of the emails and you will be removed from our database. You may also [contact us directly](http://psychologicallyunemployable.net/contact-me/ "Contact Me") and send an email and we will remove you immediately. This will take you out of our database, but if you optin to any websites linked from our site(third party sites) you should refer to their policies to opt out of their database list.
 
 **  
 DISCLOSURE OF INFORMATION**  
@@ -42,3 +46,5 @@ This Website is not intended for visitors that are minors or under eighteen (18)
 
 **CHANGES AND AMENDMENTS & NOTIFICATION OF CHANGES**  
 http://psychologicallyunemployable.net/ reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Website explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check the Website periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
+
+### Social Media Comments
