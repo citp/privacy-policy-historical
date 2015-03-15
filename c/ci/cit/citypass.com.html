@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the citypass.com privacy policy that was archived on 2014-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141129124231id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citypass.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315021041id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><!--<![endif]--><head>
 		
@@ -54,12 +54,12 @@
 	<link rel="alternate" hreflang="pt" href="http://pt.citypass.com/privacy">				
 	<link rel="alternate" hreflang="zh" href="http://zh.citypass.com/privacy">	
 
-	<link rel="stylesheet" href="http://s2.citypass.net/css-a27c6a3/cp-default.css">
+	<link rel="stylesheet" href="http://s2.citypass.net/css-f152a75/cp-default.css">
 	
-	<link rel="stylesheet" href="http://s3.citypass.net/css-a27c6a3/cp-general.css">
+	<link rel="stylesheet" href="http://s3.citypass.net/css-f152a75/cp-general.css">
 	
 	<!--[if (lt IE 9) & (!IEMobile)]>
-	<link rel="stylesheet" href="http://s2.citypass.net/css-a27c6a3/cp-old-ie.css">
+	<link rel="stylesheet" href="http://s2.citypass.net/css-f152a75/cp-old-ie.css">
 	<![endif]-->
 		
 	<script type="text/javascript">
@@ -77,10 +77,11 @@
 	</script>
 	
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="/js-a27c6a3/lib/jquery-1.7.2.min.js"><\/script>')</script><script src="/js-a27c6a3/lib/jquery-1.7.2.min.js"></script>
+	<script>window.jQuery || document.write('<script src="/js-f152a75/lib/jquery-1.7.2.min.js"><\/script>')</script><script src="/js-f152a75/lib/jquery-1.7.2.min.js"></script>
 	
 	<script>
 		var cookieDomain = '.citypass.com';
+		var pluckCookieDomain = '.citypass.com';
 		var pageLocale = "en";
 		var pageType = "general";
 		var productKey = false;
@@ -88,7 +89,7 @@
 		window.optimizely = window.optimizely || [];
 	</script>
 	
-	<script src="/js-a27c6a3/lib/modernizr.js"></script>
+	<script src="/js-f152a75/lib/modernizr.js"></script>
 	
 	<script>
 			//phone/tablet/desktop
@@ -101,7 +102,7 @@
 				isTouch = true;
 			}
 			
-			if ($(window).width() < 600) {
+			if ($(window).width() < 668) {
 				smScr = true;
 				if (isTouch) {
 					deviceType = "phone";
@@ -120,6 +121,16 @@
 
 	
 	<script src="//cdn.optimizely.com/js/155521286.js"></script>
+		
+	<script>
+		//TEMP: SoCal Addon Test
+		testConsiderSocalAddons = false;
+		if (productKey && productKey == 'southern-california' && pageType != 'addon' && document.cookie.indexOf('cp_socal_addon_page=') == -1) {
+			window.optimizely.push(["activate", 2377290003]);
+			testConsiderSocalAddons = true;
+		}
+		///////////////////////
+	</script>
 	
 	<script>
 		var tmpRef = (RegExp('cp_overref=' + '(.*?)(&|$)').exec(window.location.search) || [,null])[1];
@@ -219,25 +230,21 @@
 
 <ul class="nav-list f2">
 		
-	<li><a href="/about">About Us</a></li>
+	<li class=""><a href="/about">About Us</a></li>
 		
-	<li><a href="/contact">Contact Us</a></li>
+	<li class=""><a href="/contact">Contact Us</a></li>
 		
 	<li class="n-active"><a href="/privacy">Privacy &amp; Security</a></li>
 		
-	<li><a href="/shipping">Shipping Details</a></li>
+	<li class=""><a href="/shipping">Shipping Details</a></li>
 		
-	<li><a href="/return-policy">365 Day Return Policy</a></li>
+	<li class=""><a href="/return-policy">365 Day Return Policy</a></li>
 		
-	<li><a href="/groups">Group Information</a></li>
+	<li class=""><a href="/groups">Group Information</a></li>
 		
-	<li><a href="/site-map">Site Map</a></li>
+	<li class=""><a href="/site-map">Site Map</a></li>
 		
-	<li><a href="/reviews">CityPASS Reviews</a></li>
-		
-	<li><a href="/photos">CityPASS Photos</a></li>
-		
-	<li><a href="/forums">CityPASS Forums</a></li>
+	<li class=""><a href="/reviews">CityPASS Reviews</a></li>
 		
 </ul>
 
@@ -246,8 +253,8 @@
 		
 				
 		<div class="col-main">
-					
-			<h1>Privacy &amp; Security</h1>
+				
+					<h1>Privacy &amp; Security</h1>
 			
 			<p class="clear">
 	CityPASS, Inc. ("CityPASS"), is committed to protecting the privacy of our customers and users of our Web site. We have therefore created this policy statement (the "Policy") to explain our privacy practices and procedures.
@@ -526,7 +533,7 @@ Once you enter the checkout page, your computer will begin communicating with ou
 		<a class="foot-googlet s s-t s-b" track="footer">Google Translate</a>
 		<div id="google_translate" class="b-sm"></div>
 	</div>
-	<small class="foot-copyright">© 2014 City Pass, Inc. All rights reserved</small>
+	<small class="foot-copyright">© 2015 City Pass, Inc. All rights reserved</small>
 	<div class="referral"></div>
 </div>
 		
@@ -537,7 +544,6 @@ Once you enter the checkout page, your computer will begin communicating with ou
 	
 	<div id="p_viewer" class="p-viewer">
 	<div class="pv-head">
-		<!--<div class="pv-back"><div class="fl-arw fl-arw-left s s-w"></div>-->
 		<a class="pv-brand pv-close" href="javascript:;"><div class="pv-logo s s-p"></div></a>
 		<a class="pv-x pv-close" href="javascript:;">X</a>
 		<span id="pv_title" class="pv-title f"></span>
@@ -547,22 +553,21 @@ Once you enter the checkout page, your computer will begin communicating with ou
 	
 </div>
 
-
 	<!--[if (lt IE 8) & (!IEMobile)]>
-	<script src="/js-a27c6a3/lib/json2.min.js"></script>
+	<script src="/js-f152a75/lib/json2.min.js"></script>
 	<![endif]-->
 
-	<script src="/js-a27c6a3/cp-plugins.js"></script>
-	<script src="/js-a27c6a3/cp-load.js"></script>
+	<script src="/js-f152a75/cp-plugins.js"></script>
+	<script src="/js-f152a75/cp-load.js"></script>
 	<script>
 		
 	 	var cartUrl = "https://www.citypass.com/checkout";
 		
-		var cssDir = "/css-a27c6a3";
-		var feedDir = "/feed-a27c6a3";
-		var jsDir = "/js-a27c6a3";
-		var loadDir = "/load-a27c6a3";
-		var loadnocacheDir = "/loadnocache-a27c6a3";
+		var cssDir = "/css-f152a75";
+		var feedDir = "/feed-f152a75";
+		var jsDir = "/js-f152a75";
+		var loadDir = "/load-f152a75";
+		var loadnocacheDir = "/loadnocache-f152a75";
 				
 		var testing = true;
 		
@@ -572,9 +577,21 @@ Once you enter the checkout page, your computer will begin communicating with ou
 		var emailRequiredMsg = "Email address is required.";
 		var emailInvalidMsg = "Please enter a valid email address.";
 		
-				
+		
+		if (typeof inpageTranslate != 'undefined') {
+			$('header').addClass('notranslate');
+			$('footer').addClass('notranslate');
+			$('div.col-main-right').addClass('notranslate');
+			$('div.col-side .nav-head').addClass('notranslate');
+			$('.col-side .nav-list li').each(function() {
+				if (!$(this).hasClass('has-inpage-translation')) {
+					$(this).addClass('notranslate');
+				}
+			});
+		}
+			
 		initPage();
-				
+											
 	</script>
 	
 		
@@ -584,14 +601,14 @@ Once you enter the checkout page, your computer will begin communicating with ou
 	var axel = Math.random() + "";
 	var a = axel * 10000000000000;
 	document.write('<iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-	</script><iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=6324419604708.153?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+	</script><iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=1024753477383.2979?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	<noscript>
 	<iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	</noscript>
 	
 		
 	
-	<!-- 2014-11-29 05:42:31 MST -->
+	<!-- 2015-03-14 20:10:41 MDT -->
 	
 
 
