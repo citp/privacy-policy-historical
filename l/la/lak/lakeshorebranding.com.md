@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakeshorebranding.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330143302id_/http%3A//www.lakeshorebranding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakeshorebranding.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043255id_/http%3A//www.lakeshorebranding.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lakeshore Branding
 
