@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625163650id_/https%3A//www.nationstarmtg.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025116id_/https%3A//www.nationstarmtg.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Nationstar Mortgage | Privacy Policy
+# Privacy Policy | Nationstar Mortgage
 
 Effective September 2013
 
@@ -21,7 +21,7 @@ We collect nonpublic personal information about you, including:
 
 ###  Protecting the Confidentiality and Security of Your Information
 
-Keeping financial information secure is one of our most important responsibilities. Only those persons who need it to perform their job responsibilities are authorized to access your information. We take commercially reasonable precautions to protect your information and limit disclosure by maintaining physical, electronic and procedural safeguards.
+Keeping financial information is one of our most important responsibilities. Only those persons who need it to perform their job responsibilities are authorized to access your information. We take commercially reasonable precautions to protect your information and limit disclosure by maintaining physical, electronic and procedural safeguards.
 
 ###  Information Use and Disclosure
 
@@ -55,7 +55,7 @@ We may work with non-affiliated companies or organizations to provide services o
 
 
 
-For your protection, we require that these companies keep all personal information secure and confidential.
+For your protection, we require that these companies keep all personal information confidential.
 
 We may disclose some or all of the information that we collect (described in the Information Collection) as permitted by law. For example, we may share personal information: 
 
@@ -81,7 +81,7 @@ If you prefer that we not share nonpublic personal information about you with no
 
 ###  Maintenance of Accurate Information
 
-We have established commercially reasonable procedures designed to ensure that your personal information is as accurate and complete as possible. If you believe that our records contain inaccurate or incomplete information about you, please notify us by calling 1-888-480-2432 or sending a written inquiry to us at Nationstar Mortgage, Attention: Customer Service Department, 350 Highland Drive, Lewisville, Texas, 75067. We will take commercially reasonable steps to investigate your concerns and correct inaccurate information in a timely manner. 
+We have established commercially reasonable procedures designed to ensure that your personal information is as accurate and complete as possible. If you believe that our records contain inaccurate or incomplete information about you, please notify us by calling 1-888-480-2432 or sending a written inquiry to us at Nationstar Mortgage, Attention: Customer Service Department, 8950 Cypress Waters Boulevard, Coppell, TX, 75019. We will take commercially reasonable steps to investigate your concerns and correct inaccurate information in a timely manner. 
 
 ###  Former Customers
 
@@ -123,30 +123,30 @@ We may also use technologies to collect information about your online activities
 
 You can visit the [NAI Opt-Out web site](http://www.networkadvertising.org/choices/) for information on how you can opt out of behavioral tracking on this website. Using the choice mechanisms these programs make available may help you see advertising that is relevant to you or help you avoid seeing interest based advertising generally. Please note that the Nationstar Mortgage website does not respond or honor “Do Not Track” requests. 
 
-###  Secure Email
+###  Email
 
-A message for all Nationstar’s clients and business partners: as part of Nationstar’s ongoing efforts to strengthen security and to protect sensitive information, we have a Secure Email system. It provides a convenient method for you to receive and reply to secure emails, while continuing to ensure the integrity of the information interchange. 
+A message for all Nationstar’s clients and business partners: as part of Nationstar’s ongoing efforts to strengthen security and to protect sensitive information, we have a Email system. It provides a convenient method for you to receive and reply to emails, while continuing to ensure the integrity of the information interchange. 
 
 ####  Will I have to install new software or register for the new system?
 
-No new software is required on your system. The first time you use the new secure email system, you will be asked to create a password. You will also select a password recovery question / answer that will allow you to change your password. There are no other registration requirements. 
+No new software is required on your system. The first time you use the new email system, you will be asked to create a password. You will also select a password recovery question / answer that will allow you to change your password. There are no other registration requirements. 
 
-####  How will I receive secure email messages from Nationstar?
+####  How will I receive email messages from Nationstar?
 
-Secure email messages (and any attached files) from Nationstar will be encrypted before they are sent, and then delivered directly to your inbox. When you open the message you will be prompted to enter your password, which will decrypt the message (and any attached files). You can then save, reply to, or forward the message and files. 
+Email messages (and any attached files) from Nationstar will be encrypted before they are sent, and then delivered directly to your inbox. When you open the message you will be prompted to enter your password, which will decrypt the message (and any attached files). You can then save, reply to, or forward the message and files. 
 
-####  Are there reply capabilities? Can I initiate a secure email to an Nationstar Associate?
+####  Are there reply capabilities? Can I initiate a email to an Nationstar Associate?
 
-You can respond to Nationstar secure emails with secure replies, and there is also a method for initiating secure email exchanges with Nationstar associates. 
+You can respond to Nationstar emails with replies, and there is also a method for initiating email exchanges with Nationstar associates. 
 
 ####  Where can I get more information?
 
-[Secure Email User Guide](https://web.archive.org/web/20140625163650id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailUserGuide.pdf)  
-[ Secure Email Quick Reference](https://web.archive.org/web/20140625163650id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailQuickReference.pdf)
+[Secure Email User Guide](https://web.archive.org/web/20150315025116id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailUserGuide.pdf)  
+[Email Quick Reference](https://web.archive.org/web/20150315025116id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailQuickReference.pdf)
 
 ####  Privacy Options and Solicitations
 
-  * To make privacy elections, [click here](https://web.archive.org/web/20140625163650id_/https%3A//www.nationstarmtg.com/PrivacyElections.aspx).
-  * To limit the types of solicitations Nationstar sends you, [click here](https://web.archive.org/web/20140625163650id_/https%3A//www.nationstarmtg.com/DoNotSolicit.aspx).
+  * To make privacy elections, [click here](https://web.archive.org/web/20150315025116id_/https%3A//www.nationstarmtg.com/PrivacyElections.aspx).
+  * To limit the types of solicitations Nationstar sends you, [click here](https://web.archive.org/web/20150315025116id_/https%3A//www.nationstarmtg.com/DoNotSolicit.aspx).
 
 
