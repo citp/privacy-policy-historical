@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the hassle.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923232543id_/https%3A//hassle.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hassle.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315065435id_/https%3A//hassle.com/uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Protecting and Respecting your privacy | Hassle.com
+# Privacy Policy | Hassle.com
 
   1. ## Who are we?
 
     1. We are Teddle Limited. We own and operate www.hassle.com (the **site** ) and we are committed to protecting and respecting your privacy. 
-    2. We are a limited company registered in England and Wales under company number 07991751 and have our registered office at 72 Sternhold Avenue, London, SW2 4PW. Our main trading address is Office W217, Westminster Business Square, 1-45 Durham Street, Vauxhall, London, SE11 5JH and our VAT number is GB 132 8488 02. 
+    2. We are a limited company registered in England and Wales under company number 07991751 and have our registered office at W217 Westminster Business Square, Durham Street, London, England, SE11 5JH. Our main trading address is Office W217, Westminster Business Square, 1-45 Durham Street, Vauxhall, London, SE11 5JH and our VAT number is GB 132 8488 02. 
     3. For the purposes of the Data Protection Act 1998 (the **Act** ), the data controller is Teddle Limited and we are registered on the Information Commissioner’s Register of Data Controllers under registration number **Z3229504**. 
   2. ## What’s the point of this policy?
 
@@ -97,7 +97,7 @@ This acceptable use policy sets out the terms between you and us under which you
 
 Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our [terms and conditions](https://web.archive.org/uk/terms).
 
-www.hassle.com is a site operated by Teddle Limited. We are a limited company registered in England and Wales under company number 07991751 and have our registered office at 72 Sternhold Avenue, London, SW2 4PW. Our main trading address is Office W217, Westminster Business Square, 1-45 Durham Street, Vauxhall, London, SE11 5JH and our VAT number is GB 132 8488 02.
+www.hassle.com is a site operated by Teddle Limited. We are a limited company registered in England and Wales under company number 07991751 and have our registered office at W217 Westminster Business Square, Durham Street, London, England, SE11 5JH. Our main trading address is Office W217, Westminster Business Square, 1-45 Durham Street, Vauxhall, London, SE11 5JH and our VAT number is GB 132 8488 02.
 
 ## Prohibited uses
 
