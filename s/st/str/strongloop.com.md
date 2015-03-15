@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the strongloop.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123032624id_/http%3A//strongloop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongloop.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022437id_/https%3A//strongloop.com/privacy-policy) for the most accurate reproduction.*
 
 # StrongLoop | Privacy Policy
 
-**[](http://strongloop.com/)**
-
-You are here: [Home](http://strongloop.com/ "StrongLoop") / Privacy Policy
-
 ## StrongLoop Privacy Policy
-
-### 
 
 ### EFFECTIVE DATE: July 23, 2013
 
@@ -85,5 +79,3 @@ If you have questions about the privacy aspects of our Services or would like to
 ### Changes to this Policy
 
 This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site. If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site, or by emailing users at the last registered address on record.
-
-
