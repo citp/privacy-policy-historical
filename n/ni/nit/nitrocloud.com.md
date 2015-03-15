@@ -1,20 +1,12 @@
-> *The following text is extracted and transformed from the nitrocloud.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718051655id_/http%3A//www.nitropdf.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrocloud.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315035402id_/https%3A//www.gonitro.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Nitro
 
 ### Privacy Policy
 
 Revised: 25 September 2013
 
 At Nitro Software, Inc we are committed to ensuring the privacy of your personal information. We understand that privacy of your personal information is important. Our Privacy Policy tells you how we collect, use, distribute and protect personal information.
-
-##### Validate TRUSTe privacy certification
-
-[](https://privacy.truste.com/privacy-seal/Nitro-PDF-Software/validation?rid=e8cf55e0-9c38-45d9-91db-62b1694cb254 "TRUSTe European Safe Harbor certification")
-
-Nitro Software, Inc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us. If you are not satisfied with our response you can contact TRUSTe here. This Privacy Policy governs all sites that link to this policy.
-
-Nitro Software, Inc complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Nitro has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Nitro's certification, please visit www.export.gov/safeharbor/
 
 ##### Information we collect
 
@@ -71,7 +63,7 @@ Based upon the personally identifiable information you provide us, we will send 
 
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [unsubscribe@nitropdf.com.](mailto:unsubscribe@nitropdf.com)
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [unsubscribe@gonitro.com.](mailto:unsubscribe@gonitro.com)
 
 ##### Sharing and disclosure
 
@@ -79,11 +71,11 @@ We will share or sell your personal information with third parties only in the w
 
 We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. We will not disclose information about you to anyone else unless the disclosure:
 
-is required by law; or
+\- is required by law; or
 
-is authorized by law (for example to protect our interest or where we have a duty to the public to disclose that information); or
+\- is authorized by law (for example to protect our interest or where we have a duty to the public to disclose that information); or
 
-has been consented to by you.
+\- has been consented to by you.
 
 ##### Business Transitions
 
@@ -106,7 +98,7 @@ We may not be able to provide you with access to such information. If we deny yo
 
 ##### Personal information security and data retention
 
-We will take all reasonable precautions to protect your personal information from loss, misuse or alteration. This includes both physical and technological security measures. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100%% secure, however. Therefore, we cannot guarantee its absolute security. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+We will take all reasonable precautions to protect your personal information from loss, misuse or alteration. This includes both physical and technological security measures. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -120,9 +112,9 @@ Persistent cookies: Used to make areas of the site that require a person to be l
 
 Third Party Cookies: The use of cookies by third parties such as our tracking utility company and service providers are not covered by our privacy statement. We do not have access or control over these cookies.
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information 
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. 
 
-Clear Gifs (Web Beacons/Web Bugs) 
+##### Clear Gifs (Web Beacons/Web Bugs)
 
 We and our third party advertising partner employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
