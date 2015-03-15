@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codility.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703094502id_/https%3A//codility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codility.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315024727id_/https%3A//codility.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Codility
 
