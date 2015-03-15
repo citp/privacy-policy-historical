@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023035138id_/http%3A//www.unos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010840id_/http%3A//www.unos.com/privacy.html) for the most accurate reproduction.*
 
 # Uno Pizzeria & Grill: Privacy Policy
 
@@ -90,4 +90,4 @@ The Company may revise this Policy from time to time. You should bookmark and pe
 Uno Restaurant Holdings Corporation  
 100 Charles Park Road  
 Boston, MA 02132  
-(617)323-9200
+privacy@unos.com
