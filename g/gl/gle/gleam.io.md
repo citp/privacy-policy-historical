@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012235028id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315052832id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
 
 # Gleam Privacy Policy
 
@@ -6,17 +6,21 @@ This Privacy Policy governs the manner in which Gleam collects, uses, maintains 
 
 ## Personal Identification Information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to our newsletter, fill out a form, or in connection with other activities, services, features or resources we make available. Users may be asked for, as appropriate, email address. Users may, however, also visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-## Non-personal Identification Information
+## Non-Personal Identification Information
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-## Web Browser Cookies
+## Cookies
 
 Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-## How we Use Collected Information
+## Information Security
+
+We take all reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete, up-to-date and relevant and stored securely. Gleam uses Stripe to process our credit card payments and no credit card details are stored on our servers. Stripe has been audited by a PCI-certified auditor, and is certified to PCI Service Provider Level 1. This is the most stringent level of certification available.
+
+## How We Use Collected Information
 
 Gleam may collect and use Users personal information for the following purposes: 
 
@@ -26,7 +30,7 @@ Gleam may collect and use Users personal information for the following purposes:
 
 
 
-## How we Protect Your Information
+## How We Protect Your Information
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
@@ -40,15 +44,15 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-## Compliance with children's online privacy protection act
+## Compliance With Children's Online Privacy Protection Act
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-## Changes to This Privacy Policy
+## Changes To This Privacy Policy
 
 Gleam has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-## Your Acceptance of These Terms
+## Your Acceptance Of These Terms
 
 By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
@@ -56,4 +60,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [hello@gleam.io](mailto:hello@gleam.io)
 
-This document was last updated on April 04, 2013
+This document was last updated on December 14, 2014
