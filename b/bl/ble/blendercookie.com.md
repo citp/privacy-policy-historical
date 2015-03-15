@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blendercookie.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202215338id_/http%3A//cgcookie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendercookie.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315081225id_/http%3A//cgcookie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CG Cookie
 
