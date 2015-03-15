@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyfreepsd.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819032139id_/http%3A//www.dailyfreepsd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfreepsd.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043810id_/http%3A//www.dailyfreepsd.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy PolicyFree PSD,Vector,Icons,Graphics
+# Privacy Policy | Free PSD,Vector,Icons
 
 Privacy Policy
 
@@ -13,9 +13,7 @@ We use third-party advertising companies to serve ads when you visit our web sit
 
 Below are links to the privacy policies of the advertising networks used by Dailyfreepsd.com:
 
-[Google.com](http://www.google.com/privacy.html)  
-[ValueClick Media](https://www.valueclickmedia.com/privacy.shtml)  
-[CPXinteractive](http://www.cpxinteractive.com/privacy_policy.htm)
+[Google.com](http://www.google.com/privacy.html)
 
 Third Party Cookies 
 
@@ -34,5 +32,3 @@ Contacting dailyfreepsd.com
 If you have any questions or concerns about this privacy statement or the practices of this web site, you can contact us.
 
 _We reserve the right to change this policy at any time by notifying visitors of the existence of the new privacy policy._
-
-The design resources of this site are gathered by users and public sources on the internet.Not all of the resources are allowed for commercial use please contact the author for detail.If resources have violated your copyright,please contact us so that we can delete a timely manner to protect your copyright.
