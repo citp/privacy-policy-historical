@@ -1,35 +1,23 @@
-> *The following text is extracted and transformed from the clickpay.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925112257id_/http%3A//site.clickpay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpay.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315083942id_/http%3A//site.clickpay.com/privacy.html) for the most accurate reproduction.*
 
-# ClickPay - Privacy Policy
+# ClickPay | Privacy Policy
+
+#### Privacy Policy
 
 **Overview**  
 At ClickPay, A Division of NovelPay LLC, protecting our users’ privacy and security is a top priority. For this reason, we have adopted the following policy to advise you of your choices regarding the use of your personal information online. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it.
 
-**How we protect and store personal information:**  
-We store and process your personal information on our computers in the US where our facilities are located. We protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, access controls to our database, and information access authorization controls.
+**Scope of Policy**  
+This Policy applies to ClickPay. It does not apply to other companies’ or organizations’ web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information.
 
-**How we use the personal information we collect**  
-Our primary purpose in collecting personal information is to provide you with a secure, smooth, efficient, and customized experience. We may use your personal information to: 
+**Information About You**  
+We gather certain generic information with respect to customers’ use of our web site, such as the number of unique visitors, the frequency with which they visit, and the areas on the web site that they favor. These statistics are very much like television ratings that tell the networks how many people tuned in to a program. We only use this type of data in aggregate-that is, we look at the data on a collective basis, in summary form, rather than on an individual basis. This data helps us determine the extent to which our customers use certain parts of our web site, which, in turn, enables us to make it as appealing as possible. We may also provide statistical “ratings” about how our customers collectively use our web site to advertisers, sponsors, and other companies with which we do business (“Participating Corporations”). We do this so they, too, can understand how often people use their areas of the site in order for them to provide you with the best possible experience. These statistical ratings do not contain any personally identifiable information about you or any of our users.
 
-  * customize, measure, and improve our services and the content, layout, and operation of our websites and applications;
-  * provide ClickPay services and customer support;
-  * process transactions and send notices about your transactions;
-  * resolve disputes, collect fees, and troubleshoot problems;
-  * prevent potentially prohibited or illegal activities, and enforce our User Agreement;
-  * deliver targeted marketing, service update notices, and promotional offers based on your communication preferences;
-  * contact you at any telephone number, by placing a voice call or through text (SMS) or email messaging;
-  * compare information for accuracy and verify it with third parties.
+**Cookies**  
+Cookies We use a technology nicknamed “cookies” on our web site. Cookies are pieces of information or data sent to your browser from a web server and stored on your computer’s hard drive for record-keeping purposes. We use cookies to make your visit to our web site easier. For example, cookies allow us to recognize you when you re-enter our web site so that you will not have to sign-in each time you visit. Cookies also allow us to count the number of unique and return visitors who use our site. Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you’ve received a cookie or, alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features on our web site if you choose not to accept cookies. Cookies can also enable us to track and target the interests of our users to enhance their experience on our site.
 
+**IP Addresses**  
+We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors. IP addresses are unique numeric identifiers that are assigned to each computer browser accessing the Internet. An IP address, by itself, cannot identify you personally. However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message.
 
-
-**Marketing**  
-If you do not wish to receive marketing communications from us, simply select the unsubscribe option in our email communications. We may call or text message (SMS) you at a mobile phone number that you have provided to us. We respect your communication preferences. If you no longer wish to receive notifications, you can also email us at support@clickpay.com. 
-
-**How you can access or change your personal information**  
-NovelPay, LLC dba ClickPay Operational and Compliance Risk Management You can review and edit your personal information at any time by logging in to your account and selecting “My Profile”. You can also close your account on the ClickPay website by contacting customer support at 800.533.7901. If you close your ClickPay account, we will mark your account in our database as "Closed," but may retain personal information from your account to collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, prevent fraud, enforce our User Agreement, or take other actions as required or permitted by law.
-
-**How you can contact us about privacy questions**  
-If you have questions or concerns regarding this policy, you should contact us by:  
-Email: support@clickpay.com  
-Phone: (800) 533.7901  
-
+**Mandatory Communications**  
+ClickPay reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our End-user License Agreement. These communications are mandatory.
