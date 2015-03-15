@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobizen.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130004750id_/https%3A//help.mobizen.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobizen.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315091818id_/https%3A//help.mobizen.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Mobizen Help
 
