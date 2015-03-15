@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovexi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074819id_/http%3A//groovexi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovexi.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315064222id_/http%3A//groovexi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Groovexi, a daily home design reference
 
