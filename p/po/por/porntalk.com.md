@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porntalk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125023id_/http%3A//porntalk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntalk.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315085401id_/http%3A//porntalk.com/privacy.html) for the most accurate reproduction.*
 
 # Free Porn videos, HD Porno Movies, XXX Porn tube, Online Sex Porn and Free Streaming Clips
 
