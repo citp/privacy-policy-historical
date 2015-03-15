@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cryptoblox.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811051956id_/http%3A//www.cryptoblox.com/pages/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptoblox.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315053047id_/http%3A//www.cryptoblox.com/pages/privacypolicy.php) for the most accurate reproduction.*
 
-# CryptoBlox
+# Privacy Policy / Disclaimer | CryptoBlox
 
 ## _Privacy Policy_
 
@@ -37,6 +37,8 @@ In no event will we be liable for any loss or damage including without limitatio
 Every effort is made to keep the website up and running smoothly. However, CryptoBlox.com takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control. 
 
 Use of any and all 3rd Party links and advertisments will be used at your own risk and discresion. By clicking on any links or advertisements you agree to comply with any laws relating to yourself including but not limited to gambling or any other activites. CryptoBlox.com will not be resonsible for any activity outide of our site by means of provided adverstisements and links. 
+
+We do not endorse the product, service, or company, nor any of the claims made by links and/or banner ads in this website. Please do your own due dilligence before purchasing any of the products or services advertised here. 
 
 Any exchange rates displayed are provided by 3rd party services. 
 
