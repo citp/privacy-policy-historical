@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the techassistbox.com privacy policy that was archived on 2014-09-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140916235129id_/http%3A//www.techassistbox.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the techassistbox.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315164158id_/http%3A//www.techassistbox.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<title>Privacy Policy - TechAssistBox.com</title>
@@ -10,7 +10,7 @@
 	<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
     <link rel="shortcut icon" type="image/x-icon" href="http://www.techassistbox.com/css/images/favicon.ico">
 	 
-    <link rel="stylesheet" href="http://www.techassistbox.com/css/style.css?v=2.3" type="text/css" media="all">
+    <link rel="stylesheet" href="http://www.techassistbox.com/css/style.css?v=2.4" type="text/css" media="all">
         <link href="//fonts.googleapis.com/css?family=Raleway:400,900,800,700,600,500,300,200,100" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="//code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.min.css">
     <link rel="stylesheet" href="http://www.techassistbox.com/css/magnific-popup.css">
@@ -147,148 +147,6 @@ This document was last updated on November 15, 2013
 		   
           login=0;
           	
-$('#loginButton').click(function(){
-    		$( "#loginDialog" ).dialog({
-		      modal: true
-	    	});
-	});
-
-	$('#registerButton').click(function(){
-			$( "#registerDialog" ).dialog({
-		      modal: true
-	    	});
-	});
-	$('#forgotPassword').click(function(){
-		$('#forgotPasswordContainer').fadeIn();
-		$('#forgotpasswordsubmit').click(function(){
-			console.log("clicked forgotpassword!");
-			
-			forgotemail = $("#forgotpasswordemail").val();
-		
-			$.ajax({
-			  type: "POST",
-			  url: "/forgotPassword.php",
-			   async: false,
-			  data: {email: forgotemail}
-			}).done(function( msg ) {
-			  $('#loginError').html(msg);
-			});
-		});
-	});
-	$('#register').click(function(){
-	    console.log("clicked register!");
-		email = $("#registeremail").val();
-		username = $("#registerusername").val();
-		password = $("#registerpassword").val();
-        $.ajax({
-		  type: "POST",
-		  url: "./registration.php",
-		   async: false,
-		  data: { email:email, username: username, password: password, formsubmitted: '1' }
-		}).done(function( msg ) {
-			msgJSON =  msg ;
-            //console.log ("mas="+msgJSON.error+" username="+msg.username);
-			if(msgJSON.error==''){
-				//$("#registerDialog").dialog( "close" );
-                $("#registerDialog").html( "You are succesfully registered. Please activate your account by following the link in the welcome email we just sent.<div id='closedialog' class='submitClose' onclick='$(\"#registerDialog\").dialog( \"close\" );'>Close</div>" );
-				//$("#loginreg").html('Welcome '+msgJSON.username)
-			}
-		  	else
-		 		$('#registrationError').html(msgJSON.error);
-		});
-
-	});
-    $('#closedialog').click(function(){
-        $("#registerDialog").dialog( "close" );
-        });
-    $('#answerToSubmit').click(function(){
-        console.log ("clicked write answer!");
-        if (login==0) {$( "#loginDialog" ).dialog({
-		      modal: true
-	    	})};
-    });
-    $('#questionTitleToSubmit, #questionTextToSubmit').click(function(){
-        console.log ("clicked write question!");
-        if (login==0) {$( "#loginDialog" ).dialog({
-		      modal: true
-	    	})};
-           
-    });
-	$('#login').click(function(){
-	   console.log("clicked login!");
-		username = $("#loginusername").val();
-		password = $("#loginpassword").val();
-        $.ajax({
-		  type: "POST",
-		  url: "./login.php",
-		   async: false,
-		  data: {username: username, password: password, formsubmitted: '1' }
-		}).done(function( msg ) {
-			
-			if(msg.error==''){
-				login=1;
-                $("#loginDialog").dialog( "close" );
-                $("#loginreg").html('Welcome '+msg.username+' <div id="logoutButton">Logout</div>')
-                location.reload();
-			}
-		  	else
-		 		$('#loginError').html(msg.error);
-		});
-	});
-
-    $('#logoutButton').click(function(){
-        console.log("clicked logout!");
-		username = $("#loginusername").val();
-		$.ajax({
-		  type: "POST",
-		  url: "./logout.php",
-		   async: false,
-		  data: {username: username}
-		}).done(function( msg ) {
-			if(msg.error==''){
-			     login=0;
-				
-                $("#loginreg").html('<div id="registerButton">Register</div> <div id="loginButton">Login</div>')
-                location.reload();
-			}
-		  	else
-		 		$('#loginError').html(msg.error);
-		});
-	});
-    
-    $('#answerSubmit').click(function(){
-		console.log("clicked answer submit!");
-		answer = $("#answerToSubmit").val();
-        console.log (answer);
-		questionId = '0';
-		$.ajax({
-		  type: "POST",
-		  url: "./submitAnswer.php",
-		   async: false,
-		  data: {questionId: questionId, answer: answer}
-		}).done(function( msg ) {
-		  $('#answerError').html(msg.msg);
-          $("#answerToSubmit").val("");
-		});
-	});
-
-
-	$('#questionSubmit').click(function(){
-		console.log("clicked question submit!");
-		questionTitle = $("#questionTitleToSubmit").val();
-		questionBody = $("#questionTextToSubmit").val();
-		$.ajax({
-		  type: "POST",
-		  url: "./submitQuestion.php",
-		   async: false,
-		  data: {questionTitle: questionTitle, questionBody: questionBody}
-		}).done(function( msg ) {
-		  $('#questionError').html(msg.msg);
-          $("#questionTitleToSubmit").val("");
-          $("#questionTextToSubmit").val("");
-          
-		});
-	});
     $("pre.code").snippet("css",{style:"ide-eclipse",clipboard:"js/ZeroClipboard.swf"});
 });
 (function(doc, script) {
