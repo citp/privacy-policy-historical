@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adoptuskids.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120021940id_/http%3A//adoptuskids.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoptuskids.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315192447id_/http%3A//adoptuskids.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AdoptUSKids
 
@@ -17,8 +17,8 @@ If you do not want to receive e-mail from us in the future, please let us know b
   * Mail to the following postal address:
 
 AdoptUSKids  
-8015  Corporate Dr, Suite C.  
-Baltimore, MD 21236
+605 Global Way, Suite 100  
+Linthicum, MD 21090
 
 
 
