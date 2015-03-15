@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the copyhackers.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823065815id_/http%3A//www.copyhackers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyhackers.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014003id_/http%3A//www.copyhackers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Copywriting by Copy HackersCopywriting by Copy Hackers
+# Privacy Policy |
 
 Last updated November 11, 2011
 
