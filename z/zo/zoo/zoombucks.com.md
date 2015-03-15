@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoombucks.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702174033id_/http%3A//www.zoombucks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoombucks.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315075558id_/http%3A//www.zoombucks.com/privacy.php) for the most accurate reproduction.*
 
 # privacy - ZoomBucks.com
 
@@ -53,7 +53,7 @@ By joining the ZoomBucks.com program, you agreed to receive emails. To unsubscri
 
 **Sharing Information with 3rd Parties**
 
-You will receive opportunities to sign up with additional offers during the join process. The information entered on the ZoomBucks sign up form will be automatically passed to third parties and if you confirm your information with the third parties (sign up with the third parties), the third parties will be entitled to your information and can use your information to market offers. To get more information on the privacy policy and terms of the third parties, please visit the third parties websites.
+You will receive opportunities to sign up with additional offers during the join process. The information entered on the ZoomBucks sign up form will be automatically passed to third parties and if you confirm your information with the third parties (sign up with the third parties), the third parties will be entitled to your information and can use your information to market offers. To get more information on the privacy policy and terms of the third parties, please visit the third parties websites. We also allow third-party companies collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of Solve Media at www.solvemedia.com, the Digital Advertising Alliance at http://www.aboutads.info/, the Internet Advertising Bureau at http://www.iab.net, or the Network Advertising Initiative at http://www.networkadvertising.org/managing/opt_out.asp. 
 
 **Changes to Privacy Statement**
 
