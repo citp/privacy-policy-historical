@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the groundlink.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625174704id_/https%3A//www.groundlink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groundlink.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043137id_/https%3A//www.groundlink.com/privacy-policy) for the most accurate reproduction.*
 
-# GroundLink - Corporate Limo Service: Privacy Policy | GroundLink Official Website
+# Privacy Policy for Corporate Limo Service and Ground Transportation
 
 By visiting GroundLink.com, you are accepting the practices described in this Privacy Notice.
 
