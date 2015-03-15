@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pristineauction.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829110021id_/https%3A//pristineauction.com/default/index/pages/name/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pristineauction.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315083738id_/https%3A//pristineauction.com/default/index/pages/name/privacyPolicy) for the most accurate reproduction.*
 
 # at Pristine Auction
 
@@ -84,7 +84,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://www.pristineauction.com/  
 2320 W Peoria Ave  
-Suite B149  
+Suite B142  
 Phoenix, AZ 85029  
 USA  
 sales@pristineauction.com  
