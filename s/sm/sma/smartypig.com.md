@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130521id_/https%3A//www.smartypig.com/disclosures/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315030145id_/https%3A//www.smartypig.com/disclosures/privacy-policy) for the most accurate reproduction.*
 
 # SmartyPig®: Privacy Policy
 
@@ -6,9 +6,9 @@
 
 The _Privacy Policy_ can also be downloaded in [ Adobe® PDF](http://get.adobe.com/reader) format. Click the link below to save the Privacy Policy to your hard drive. 
 
-[Download Privacy Policy](https://web.archive.org/web/20140625130521id_/https%3A//www.smartypig.com/render/disclaimer?disclaimerId=a9b2e3ff-d9db-48a2-9cef-28f4e0006c75) (PDF 294k)
+[Download Privacy Policy](https://web.archive.org/web/20150315030145id_/https%3A//www.smartypig.com/render/disclaimer?disclaimerId=a9b2e3ff-d9db-48a2-9cef-28f4e0006c75) (PDF 115k)
 
-Last Updated: January 31, 2014 
+Last Updated: February 18, 2015 
 
 * * *
 
@@ -18,13 +18,11 @@ In this disclosure, you'll find details about our privacy policies and procedure
 
 Your Savings Account with BBVA Compass is governed by the BBVA Compass Consumer Privacy Disclosure. Please see the BBVA Compass Consumer Privacy Disclosure for details on the BBVA Compass privacy policies.
 
-This privacy policy applies to www.smartypig.com owned and operated by SmartyPig, LLC. This privacy policy describes how SmartPig, LLC collects and uses the personally identifiable information you provide on our web site: www.smartypig.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
+This privacy policy applies to [www.smartypig.com ](http://www.smartypig.com/) owned and operated by SmartyPig, LLC ("SmartyPig"). This privacy policy describes how SmartPig, LLC collects and uses the personally identifiable information you provide on our web site: [www.smartypig.com ](http://www.smartypig.com/). It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
-SmartyPig, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://watchdog.truste.com/pvr.php?page=complaint) including transparency, accountability and choice regarding the collection and use of your personally identifiabe information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.smartypig.com.
+SmartyPig, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements <http://www.truste.com/privacy-program-requirements/> including transparency, accountability and choice regarding the collection and use of your personally identifiabe information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.smartypig.com ](http://www.smartypig.com/). 
 
-* <http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html>
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@smartypig.com. If you are not satisfied with our response you can contact TRUSTe at <http://watchdog.truste.com/pvr.php?page=complaint>.
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@smartypig.com](mailto:privacy@smartypig.com). If you are not satisfied with our response you can contact TRUSTe at [https://feedback-form.truste.com/watchdog/request](http://watchdog.truste.com/pvr.php?page=complaint).
 
 #### SmartyPig Site Privacy Policy
 
@@ -72,15 +70,15 @@ Once a user, you may provide additional information about your savings account(s
 
 In order to invite others to contribute to your savings goals, you must designate a savings goal as being allowed to accept contributions. By doing so, you can then send e-mails to family members and friends inviting them to contribute to your savings goal, or family and friends can locate your savings goal by searching for your goal using your e-mail address. Your e-mail address will not be made public. The names and e-mail addresses of people whom you invite will be used only to send your invitation and reminders. Users can control the amount of information that is displayed on their savings goal-landing page, but it will not include more than the user's profile image, first name, last name, and description of what they are saving for, the total goal amount and their SmartyPig "friends." Users will have the option of displaying the current balance of the savings goal, the percent needed to reach the goal, or neither. All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy.
 
-#### Cookies & Log Files
+#### Tracking Technologies
 
-Like most Websites, SmartyPig uses cookies and Web log files to track site usage. Due to the communications standards on the Internet, when you visit the SmartyPig Website, we automatically receive the URL of the site from which you came and the site to which you are going when you leave SmartyPig. We also receive the Internet Protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of Web browser you are using, as well as the name of your Internet Service Provider (ISP). This information is used to analyze overall trends to help us improve the SmartyPig experience and our service to you. The link between your IP address and your personally identifiable information is never shared with third-parties without your permission unless when required by law. Our log files are not tied to personally identifiable information. Our cookies are tied to personally identifiable information in order to perform authentication into the site.
+Technologies such as: cookies, beacons, tags and scripts are used by SmartyPig and our partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use Google Analytics, a third-party tracking service, which uses cookies to track non-personally identifiable information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by SmartyPig only and does not cover the use of cookies by any third-party.
+We use cookies for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. 
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: [http://www.macromedia.com/support/documentation /en/flashplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+We use Local Storage Objects (LSOs) such as HTML5 or Flash to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 #### Information About Your Friends
 
@@ -92,7 +90,9 @@ We receive permission to post testimonials prior to posting. If you wish to upda
 
 #### Blog
 
-To post a comment, a user must include their name and email address. If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [privacy@smartypig.com](mailto:privacy@smartypig.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. To learn more please read our [Terms and Conditions](http://www.smartypig.com/disclosures/terms-and-conditions).
+To post a comment, a user must include their name and email address. If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personally identifiable from our blog or community forum, contact us at [privacy@smartypig.com](mailto:privacy@smartypig.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why. To learn more please read our Terms and Conditions at at <http://www.smartypig.com/disclosures/terms-and-conditions>.
+
+Our blog is also managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personally identifiable information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy. 
 
 #### SmartyPig Communications
 
@@ -104,6 +104,8 @@ Information you provide at registration or in your Profile section may also be u
 
 #### Sharing Information With Third Parties
 
+We will share your personally identifiable information with third parties only in the ways that are described in this privacy policy. We do not sell your personally identifiable information to third parties.
+
 We collect non-public personally identifiable information about you from the following sources:
 
   * Information we receive from you on applications or other forms.
@@ -113,9 +115,7 @@ We collect non-public personally identifiable information about you from the fol
 
 
 
-We do, however, disclose non-public, personally identifiable information about you to our service providers without your consent to perform the services on SmartyPig.com. We restrict access to non-public personally identifiable information about you to those employees on a "need to know" basis only. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your non-public personally identifiable information. We may provide aggregated data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by savings category (i.e. electronics, home improvement). However, no non-public personally identifiable information about you will be included in this aggregate data.
-
-To the extent permitted by law, we may disclose personally identifiable information to government authorities or third parties pursuant to a legal request, subpoena, or other legal process. We may also use or disclose your information as permitted by law to perform charge verifications, report or collect debts owed, fight fraud, or protect the rights or property of SmartyPig, LLC, our customers, our website, or our users.
+We may provide aggregated data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by savings category (i.e. electronics, home improvement). However, no non-public personally identifiable information about you will be included in this aggregate data.
 
 #### Service Providers
 
@@ -123,7 +123,7 @@ We use other third-party service providers such as our banking, identity verific
 
 #### Security 
 
-The security of your personally identifiable information is important to us. When you enter sensitive information (such as your social security number) during registration, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
+The security of your personally identifiable information is important to us. When you enter sensitive information (such as your social security number and financial information) during registration, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our Web site, you can email us at [support@smartypig.com](mailto:support@smartypig.com).
 
@@ -136,7 +136,7 @@ The e-mail will include the following statement:
 
 #### Choice/Opt-out
 
-SmartyPig users may choose to opt-in to receiving marketing information from selected partners, such as our banking service provider, BBVA Compass. This can be done during the registration process. Registered users may also opt-in to receiving this information at anytime under the Messages Settings section. Visit the BBVA Compass privacy policy at <http://www.bbvacompass.com/compass/policy/disclosure.cfm> for additional information.
+SmartyPig users may choose to opt-in to receiving marketing information from selected partners, such as our banking service provider, BBVA Compass. This can be done during the registration process. Registered users may also opt-in to receiving this information at anytime under the Messages Settings section. Visit the BBVA Compass privacy policy at <http://www.bbvacompass.com/compass/policy/disclosure.cfm> for additional information. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [privacy@smartypig.com](mailto:privacy@smartypig.com).
 
 You may not opt-out of receiving service related emails from SmartyPig that relate to the general usage of smartypig.com.
 
@@ -144,11 +144,13 @@ You will be notified when your personally identifiable information is collected 
 
 #### Legal Disclaimer
 
-It is possible that we may need to disclose personally identifiable information about you when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.
+To the extent permitted by law, we may disclose personally identifiable information to government authorities or third parties pursuant to a legal request, subpoena, or other legal process. We may also use or disclose your information as permitted by law to perform charge verifications, report or collect debts owed, fight fraud, or protect the rights or property of SmartyPig, LLC, our customers, our website, or our users. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.
+
+If SmartyPig is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information. 
 
 #### Accessing and Changing Your Account Information
 
-You can review the personally identifiable information you provided us and make any desired changes to the information, or to the settings for your SmartyPig account, at any time by logging into your account on the SmartyPig Website and editing the information on your Profile page. When you close your SmartyPig account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non- personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the SmartyPig Privacy Policy to which you have previously agreed.
+You can review the personally identifiable information you provided us and make any desired changes to the information, or to the settings for your SmartyPig account, at any time by logging into your account on the SmartyPig Website and editing the information on your Profile page. You can also request to delete or that your information no longer be used by logging into your account or contacting us though any of our contact details listed below. When you close your SmartyPig account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non- personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the SmartyPig Privacy Policy to which you have previously agreed.
 
 #### Links to Other Sites
 
@@ -160,7 +162,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 
 #### Changes To This Privacy Policy
 
-SmartyPig may update this privacy policy. In the event there are material changes in the way we collect and use your personally identifiable information, we will notify you here, via e-mail or by means of a notice on our home page. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+SmartyPig may update this privacy policy. In the event there are material changes in the way we collect and use your personally identifiable information, we will notify you here, via e-mail or by means of a notice on our home page prior to the change becoming effective. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
 If you have any questions regarding our privacy policy, please contact SmartyPig Customer Support at 888-567-6278 or e-mail [privacy@smartypig.com](mailto:privacy@smartypig.com).
 
