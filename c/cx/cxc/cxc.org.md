@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cxc.org privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018003449id_/http%3A//www.cxc.org%3Fq%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cxc.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023910id_/https%3A//www.cxc.org%3Fq%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Caribbean Examinations Council
 
