@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deliciousbrains.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907215652id_/https%3A//deliciousbrains.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousbrains.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315060319id_/https%3A//deliciousbrains.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Delicious Brains
 
-This Privacy Policy (" **Privacy Policy** ") applies to Delicious Brains (the " **Website** "), with the main URL being <http://deliciousbrains.com/>, which is maintained by Delicious Brains Inc. (the " **Website Owner** "), and sets out how the Website Owner collects, uses, and discloses personal and other information. The Website Owner has an address at 2049 Highway 2 Milford Station, NS Canada B0N 1Y0.
+This Privacy Policy (" **Privacy Policy** ") applies to Delicious Brains (the " **Website** "), with the main URL being <http://deliciousbrains.com/>, which is maintained by Delicious Brains Inc. (the " **Website Owner** "), and sets out how the Website Owner collects, uses, and discloses personal and other information. The Website Owner has an address at Suite 200-252, 14 Court Street, Truro, NS, Canada B2N 3H7.
 
   1. In this Privacy Policy: 
     1. " **Personal Information** " means information that identifies you, such as your name, address, telephone number or email address;
@@ -145,7 +145,7 @@ These provisions set out specific details about how we handle your Collected Dat
 
 Delicious Brains Inc.  
 Attention: Brad Touesnard, President  
-2049 Highway 2 Milford Station, NS Canada B0N 1Y0  
+Suite 200-252, 14 Court Street, Truro, NS, Canada B2N 3H7  
 (902) 209-8751 
 
   25. This Privacy Policy is effective as of 2012-01-19 (the " **Effective Date** "). 
