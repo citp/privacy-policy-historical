@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videosecrets.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716105523id_/https%3A//www.videosecrets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosecrets.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014005id_/https%3A//www.videosecrets.com/privacy.php) for the most accurate reproduction.*
 
-# Video Secrets Privacy Policy
+# Flirt4Free Privacy Policy
 
 ## What Personal Information About Customers Does Video Secrets Gather?
 
@@ -22,7 +22,7 @@ Examples of the information we collect and analyze include the Internet protocol
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as "What's New".
 
-The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of VideoSecrets' coolest services, and we recommend that you leave them turned on.
+The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Flirt4Free' coolest services, and we recommend that you leave them turned on.
 
   
 
@@ -38,9 +38,9 @@ Information about our affiliates is an important part of our business, and we ar
 
 **Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include processing credit card payments in real time, sending e-mail notifications or updates, and providing customer service. They have access to personal information needed to perform their functions, but they do not have our authorization to use it for other purposes.
 
-**Promotional Offers:** Sometimes we send offers to selected groups of VideoSecrets affiliates on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please send email to [remove@vs.com](mailto:remove@vs.com)
+**Promotional Offers:** Sometimes we send offers to selected groups of Flirt4Free affiliates on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please send email to [remove@vs.com](mailto:remove@vs.com)
 
-**Business Transfers:** As we continue to develop our business, we might sell or buy sites or assets. In such transactions, affiliate information may be one of the transferred business assets. Also, in the unlikely event that VideoSecrets, or substantially all of its assets are acquired, affiliate information will of course be one of the transferred assets.
+**Business Transfers:** As we continue to develop our business, we might sell or buy sites or assets. In such transactions, affiliate information may be one of the transferred business assets. Also, in the unlikely event that Flirt4Free, or substantially all of its assets are acquired, affiliate information will of course be one of the transferred assets.
 
 **Protection of Video Secrets and Others:** We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of Video Secrets, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
@@ -100,7 +100,7 @@ In addition, the Federal Trade Commission provides useful information about onli
 
 ## Conditions of Use, Notices, and Revisions
 
-If you choose to visit Video Secrets, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Video Secrets, please send us a thorough description to [sales@videosecrets.com](mailto:sales@videosecrets.com), and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+If you choose to visit Video Secrets, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Video Secrets, please send us a thorough description to [sales@flirt4free.com](mailto:sales@flirt4free.com), and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
 
   
 
@@ -118,7 +118,7 @@ Online: | [Contact Management](https://web.archive.org/secure/account/contacts.p
 ---|---  
 Toll Free: | 1-800-685-9236 (USA only)  
 Int'l Phone: | 1-818-880-9021  
-Email: | sales@videosecrets.com  
+Email: | sales@flirt4free.com  
 Regular Mail: |  VS Media Inc.  
 4607 Lakeview Canyon Rd.  
 #338  
