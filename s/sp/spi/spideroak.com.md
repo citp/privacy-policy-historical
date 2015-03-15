@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spideroak.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021055420id_/https%3A//spideroak.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spideroak.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020150id_/https%3A//spideroak.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Service Agreement | SpiderOak | Online File Sharing & Cloud Backup Software | Private & Secure Data Storage for Business ↦ Home
 
