@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbloggingtips.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063951id_/http%3A//allbloggingtips.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbloggingtips.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315154745id_/http%3A//allbloggingtips.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - All Blogging Tips
 
@@ -24,24 +24,6 @@ If you wish to disable cookies you may do so through your web browser options. I
 
 ##  _ **3\. Other**_
 
-Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from ABT. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
-
-## Payment and Privacy Policy
-
-Our credit card payment method is highly secure as we do not keep credit card information related to the payment in our hands.
-
-The whole credit card transaction is processed by [2CO](http://www.2checkout.com/) , a well known and secure credit card processing agent.
-
-2CO processes orders on behalf of and have their own Privacy Policy which you should refer to. Any personal information received (like email) is for internal use only. We will  **not**  sell or redistribute your information to anyone.
-
-We take your privacy seriously and will take all measures to protect your personal information.
-
-### Refunds policy
-
-We want you to be satisfied with any product you buy from us, period. We generally don’t offer refunds for our products and services once you have made the payment and elected to continue with the product..
-
-Please note that by purchasing the product or service, you agree to the terms of the Refund Policy.
-
-If you require any more information or have any questions about our privacy policy or refund policy, please feel free to contact us by email at  info @ AllBloggingTips.com
-
-Last Updated: 4 September, 2013
+Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from ABT. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.  
+If you’ve any question about our privacy policy please [contact us](http://allbloggingtips.com/contact).  
+Last Updated: 15 Jan, 2015
