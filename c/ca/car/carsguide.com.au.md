@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008052117id_/http%3A//www.carsguide.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032855id_/http%3A//www.carsguide.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy- CarsGuide
+# Privacy Policy | CarsGuide
 
 Effective 10 March 2014
 
@@ -30,6 +30,13 @@ Cookies and other tracking technologies (such as browser cookies and local stora
 Third parties that support the Company Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate Company Services usage statistics, may also use these technologies to collect similar information. Company does not control these third-party technologies and their use is governed by the privacy policies of those third parties using such technologies.
 
 Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether.  Please consult the "Help" section of your browser for more information.  Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website.  Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Company Services.
+
+This site uses Google Analytics to collect anonymous, aggregated audience data in order to measure user interactions on our site and improve our service. This includes the use of Google Analytics Advertiser Features which provides Demographic and Interest reports, Remarketing, GDN Impression Reporting, and the DoubleClick Campaign Manager integration. For more information on how this works and to opt-out of this service, please visit the following Google support page: <https://support.google.com/analytics/answer/2700409?hl=en>
+
+This site uses Eyeota to capture anonymous data about our users for segmentation and audience remarketing purposes. No personal information is captured in this process. For more information about how Eyeota works and to opt-out of this service, follow the following link:   
+[http://www.eyeota.com/privacy.html ](http://www.eyeota.com/privacy.html%C2%A0)
+
+This site uses Nielsen/NetRatings web analytics tools to measure and analyse internet usage. The data collected does not identify a user personally. 
 
 **Information from Other Sources.   **We may supplement the information we collect with information from other sources, such as commercially available sources and data providers **,** as well as information from our business partners or related and affiliated companies in Australia or internationally.
 
