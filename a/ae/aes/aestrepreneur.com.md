@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aestrepreneur.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104424id_/http%3A//aestrepreneur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aestrepreneur.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021250id_/http%3A//aestrepreneur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Aestrepreneur
 
@@ -66,14 +66,10 @@ I am in compliance with the requirements of COPPA (Children’s Online Privacy P
 
 This website, products and services are all directed to people who are at least 13 years old or older.
 
-#### Terms & Conditions
-
-Please also visit my Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of this website by [clicking here.](http://aestrepreneur.com/terms-and-conditions/ "Terms and Conditions")
-
 #### Your Consent
 
 By using this site, you consent to my website privacy policy.
 
 #### Changes To This Privacy Policy
 
-If I decide to change this privacy policy, I’ll post those changes on this page. This policy for Aestrepreneur.com was last modified on July 3, 2013.
+If I decide to change this privacy policy, I’ll post those changes on this page. This policy for Aestrepreneur.com was last modified on June 26, 2014.
