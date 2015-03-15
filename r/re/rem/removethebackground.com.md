@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the removethebackground.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703205139id_/http%3A//www.removethebackground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the removethebackground.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025430id_/http%3A//www.removethebackground.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Remove The Background
+# Privacy Policy - Remove The Background
 
 Remove The Background, Inc. (hereinafter, “We,” “Us,” and “Our”) respects your privacy and has instituted this Privacy Policy to protect you (hereinafter “You” and “Your”) in Your capacity as a user of the site located at (hereinafter, the “Site”). Please read on to learn how We collect and use information obtained from the Site. If You have any questions about Our Privacy Policy or the Terms and Conditions, feel free to contact Us at support@removethebackground.com.
 
