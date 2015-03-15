@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boldride.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110065402id_/http%3A//www.boldride.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldride.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011252id_/http%3A//www.boldride.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
