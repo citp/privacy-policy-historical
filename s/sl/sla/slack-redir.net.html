@@ -1,0 +1,538 @@
+<!--The following is the downloaded HTML source of the slack-redir.net privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316002526id_/https%3A//slack.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+	<noscript><meta http-equiv="refresh" content="0; URL=/privacy-policy?nojsmode=1" /></noscript>
+<script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://slack.global.ssl.fastly.net/dcf8/js/libs/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+window.load_start_ms = new Date().getTime();
+window.load_log = [];
+window.logLoad = function(k) {
+	var ms = new Date().getTime();
+	window.load_log.push({
+		k: k,
+		t: (ms-window.load_start_ms)/1000
+	})
+}
+if(self!==top)window.document.write("\u003Cstyle>body * {display:none !important;}\u003C\/style>\u003Ca href=\"#\" onclick="+
+"\"top.location.href=window.location.href\" style=\"display:block !important;padding:10px\">Go to Slack.com\u003C\/a>");
+</script>
+
+
+<script type="text/javascript">
+window.callSlackAPIUnauthed = function(method, args, callback) {
+	var url = '/api/'+method+'?t='+new Date().getTime();
+	var req = new XMLHttpRequest();
+	
+	req.onreadystatechange = function() {
+		if (req.readyState == 4) {
+			req.onreadystatechange = null;
+			var obj;
+			
+			if (req.status == 200) {
+				if (req.responseText.indexOf('{') == 0) {
+					try {
+						eval('obj = '+req.responseText);
+					} catch (err) {
+						console.warn('unable to do anything with api rsp');
+					}
+				}
+			}
+			
+			obj = obj || {
+				ok: false	
+			}
+			
+			callback(obj.ok, obj, args);
+		}
+	}
+	
+	req.open('POST', url, 1);
+	req.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+
+	var args2 = [];
+	for (i in args) {
+		args2[args2.length] = encodeURIComponent(i)+'='+encodeURIComponent(args[i]);
+	}
+
+	req.send(args2.join('&'));
+}
+</script>
+			<meta name="referrer" content="no-referrer">
+			<meta name="superfish" content="nofish">
+	<script type="text/javascript">
+
+
+
+var TS_last_log_date = null;
+var TSMakeLogDate = function() {
+	var date = new Date();
+	
+	var y = date.getFullYear();
+	var mo = date.getMonth()+1;
+	var d = date.getDate();
+
+	var h = date.getHours();
+	var mi = date.getMinutes();
+	var s = date.getSeconds();
+	var ms = date.getMilliseconds();
+	var str = y+'/'+mo+'/'+d+' '+h+':'+mi+':'+s+'.'+ms;
+	if (TS_last_log_date) {
+		var diff = date-TS_last_log_date;
+		//str+= ' ('+diff+'ms)';
+	}
+	TS_last_log_date = date;
+	return str+' ';
+}
+
+var TSSSB = {
+	
+	
+	call: function() {
+		return false;
+	}
+	
+	
+}
+
+</script>	<script type="text/javascript">TSSSB.call('didFinishLoading');</script>
+	    <meta charset="utf-8">
+    <title data-title-suffix="Slack">Privacy Policy | Slack</title>
+    <meta name="author" content="Slack">
+
+							
+															
+    									
+		
+		<!-- output_css "core" -->
+    <link href="https://slack.global.ssl.fastly.net/f2af/style/rollup-plastic.css" rel="stylesheet" type="text/css">
+
+	<!-- output_css "regular" -->
+    <link href="https://slack.global.ssl.fastly.net/bb50/style/legal.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/5319/style/libs/lato-1.css" rel="stylesheet" type="text/css">
+
+	
+
+	
+	
+	
+
+	<!--[if lt IE 9]>
+	<script src="https://slack.global.ssl.fastly.net/ef0d/js/libs/html5shiv.js"></script>
+	<![endif]-->
+
+	
+<link id="favicon" rel="shortcut icon" href="https://slack.global.ssl.fastly.net/272a/img/icons/favicon-32.png" sizes="16x16 32x32 48x48" type="image/png">
+
+<link rel="icon" href="https://slack.global.ssl.fastly.net/ba3c/img/icons/app-256.png" sizes="256x256" type="image/png">
+
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-152.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-144.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-120.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-72.png">
+<link rel="apple-touch-icon-precomposed" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-57.png">
+
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="https://slack.global.ssl.fastly.net/272a/img/icons/app-144.png">	<script>
+(function(g){var n=0,h=[];g.onerror=function(a,b,d,f,c){c=c||null;f=f||-1;k?l(a,b,d,f,null,c):h.push([a,b,d,f,null,c])};var k=0,p=function(a){return void 0==a?"":encodeURIComponent(""+a)},s=function(a){var b=[];for(i in a)b.push(i+"="+p(a[i]));var d=new XMLHttpRequest;try{d.open("POST","/jse",1),d.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),d.send(b.join("&"))}catch(f){r.apply(this,a)}},r=function(a){var b;b="/jse?_="+(new Date).getTime();for(var d in a)b+="&"+d+"="+p(a[d]).substr(0,
+255);(new Image).src=b},t=function(a){a=a.stack.split("\n");if(3>a.length)return-2;a=a[1];if(!a)return-3;a=a.split("/");a=a[a.length-1];if(!a)return-4;a=a.split(":");return 3==a.length?parseInt(a[1]):-5},l=function(a,b,d,f,c,e){n++;if(!(10<n)){var h=g.location.href;a.target&&a.type&&(a=a.type);a.indexOf||(a="unknown:"+typeof a);a={e:a,u:b==h?"":b,l:d+(0<=f?", "+f:""),h:h,pl:k};b=e&&e.stack&&g.printStackTrace?printStackTrace({e:e}):e&&e.stack?e.stack:null;!c&&b&&(c="stack: "+b);c&&(a.d=c);g.boot_data&&
+boot_data.version_uid&&(a.v=boot_data.version_uid);g.boot_data&&
+boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==typeof b)try{c=[];for(var m=b.length-1;0<m;m--)b[m]&&c.unshift(b[m]);c.length&&(a.s=c.join("\n"))}catch(l){}1>a.l&&e&&e.stack&&"string"==typeof e.stack&&(a.l=t(e));s(a)}},q=function(){for(var a,b=0;b<h.length;b++)a=h[b],l.apply(this,a);h.length=0;h=null;k=1};g.addEventListener?g.addEventListener("load",q,!1):g.attachEvent("onload",q);g.badtoys||(g.badtoys={log:function(a,b){var d=a&&a.message?a.message:"unknown message";a&&a.name&&
+(d=a.name+": "+d);a.stack&&(b=(b?b+" | ":"")+"stack: "+a.stack);var f=a&&a.fileName?a.fileName:"";!f&&a&&a.sourceURL&&(f=a.sourceURL);var c=0;a&&a.lineNumber&&(c=a.lineNumber);!c&&a&&a.line&&(c=a.line);var e=-1;a&&a.col&&(e=a.col);k?l(d,f,c,e,b,a):h.push([d,f,c,e,b,a])}})})(window);
+</script>
+			<script type="text/javascript">
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-106458-18', 'slack.com');
+	ga('send', 'pageview');
+
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KH2LPK');
+
+	(function(e,c,b,f,d,g,a){e.SlackBeaconObject=d;
+	e[d]=e[d]||function(){(e[d].q=e[d].q||[]).push([1*new Date(),arguments])};
+	e[d].l=1*new Date();g=c.createElement(b);a=c.getElementsByTagName(b)[0];
+	g.async=1;g.src=f;a.parentNode.insertBefore(g,a)
+	})(window,document,"script","https://slack.global.ssl.fastly.net/dcf8/js/libs/beacon.js","sb");
+	sb('set', 'token', '3307f436963e02d4f9eb85ce5159744c');
+	sb('track', 'pageview');
+
+	function track(a){ga('send','event','web',a);sb('track',a);}
+
+
+	
+	(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+	for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+	
+	mixpanel.init("12d52d8633a5b432975592d13ebd3f34");
+
+	function mixpanel_track(event_name){if(window.mixpanel&&event_name)mixpanel.track(event_name);}
+
+</script>	
+</head>
+
+  <body>
+
+		  			<script>
+		
+			var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+			if (w > 1440) document.querySelector('body').classList.add('widescreen');
+		
+		</script>
+	
+  	
+	
+
+	
+	<header>
+					<a href="https://slack.com/" id="header_logo"><img src="https://slack.global.ssl.fastly.net/558b/img/slack_logo_240.png"></a>
+			<div class="header_nav">
+															<a href="https://slack.com/signin" class="btn header_btn float_right">Sign in</a>
+										<div class="header_links float_right">
+						<a href="/is">Tour</a>
+						<a href="http://slackhq.com" target="new">Blog</a>
+						<a href="http://twitter.com/@slackhq" target="new">Twitter</a>
+					</div>
+							</div>
+		
+		
+	</header>
+
+	<div id="page">
+
+		<div id="page_contents">
+
+
+<h1>Policies</h1>
+
+<div class="tab_set on_neutral_grey">
+	<a href="/terms-of-service">Terms of Service</a>
+	<a href="/privacy-policy" class="selected">Privacy Policy</a>
+	<a href="/security">Security Practices</a>
+	<a href="/policy-archives">Archives</a>
+	<a href="/whitehat" class="secondary ">Whitehat</a>
+	<i class="tab_caret fa fa-caret-down"></i>
+	<i class="tab_caret fa fa-caret-up"></i>
+</div>
+<div class="tab_pane selected">
+
+	<h2>Our Privacy Principles</h2>
+
+	<p>If you read nothing else, please read this:</p>
+
+	<ul>
+		<li>The most fundamental privacy principle we follow is that by default, anything you post to Slack is private to your team. That is, viewing the messages and files shared within a specific team requires authentication as a member of that team.</li>
+		<li>Slack is the custodian of data on behalf of the teams that use Slack. We don’t own team communication data. Teams own their data. They like it that way and so do we.</li>
+		<li>At Slack we believe that more transparency is better than less. We try to make our product easy to use, with settings and options that are easy to find and understand. This is good for privacy, good for the product, and good for Slack customers and users.</li>
+		<li>We think that having more information be easily accessible and searchable wherever you go, whatever device you have, is better than having less. So this is how we built Slack. Teams can select their own data retention policies (depending on their level of service) but our defaults show our bias. Administrators and owners can change these settings but we want you to know where we stand.</li>
+		<li>Privacy goes hand in glove with <a href="/security" target="_blank">security</a> and confidentiality. We see these things being the three legs that keep the stool balanced and upright. Each is as important as the other and if one is missing the stool won’t stand. They are all very important to us and we take them very seriously.</li>
+	</ul>
+
+	<p>You can see past versions of our Privacy Policy, Terms of Service and other policies in our <a href="/policy-archives">Policy Archive</a>.</p>
+
+	<h1>Slack Privacy Policy</h1>
+
+	<p>Updated: March 11, 2015</p>
+
+	<p>
+		This privacy policy is here to help you understand what information we collect at Slack, how we use it, and what choices you have. When we talk about Slack in this policy, we are talking about Slack Technologies, Inc., the company, Slack, the downloadable application, and the Slack website at <a href="https://www.slack.com">www.slack.com</a>. Slack is available for use via a web browser or applications specific to your desktop or mobile device.
+	</p>
+
+	<p>
+		This policy describes how Slack treats your information, not how other organizations treat your information. If you are using Slack in a workplace or on a device or account issued to you by your employer or another organization, that company or organization likely has its own policies regarding storage, access, modification, deletion, and retention of communications and content which may apply to your use of Slack. Content that would otherwise be considered private to you or to a limited group of people may, in some cases, be accessible by your team owner or administrator. Please check with your employer, team owner or administrator about the policies it has in place regarding your communications and related content on Slack. More on this below.
+	</p>
+
+	<p>
+		In this policy we talk about various roles within a Slack team and the privileges that come with each. It’s helpful to understand these roles and the relationships between them. Here’s the breakdown: primary owner &gt; team owner &gt; team administrator &gt; team member. Primary owners have the most control over their team’s settings on Slack, followed by team owners and then team administrators.The person who establishes the Slack team is considered the primary owner with the most control over the team (which is why it’s not a good idea for this person to be a contractor or temp employee). Teams can have more than one owner, but only one can be the primary owner. Primary ownership can be transferred to another user after the team is created (see prior note about temp workers and flaky people). All team owners are administrators, and all owners and administrators are also team members. 
+
+	</p><h2>Information we collect and receive</h2>
+
+	<p>
+		We collect different kinds of information. Some of it is personally identifiable and some is non-identifying or aggregated. Here are the types of information we collect or receive:
+	</p>
+
+	<ul>
+		<li>
+			<b>Team information.</b> When you create a team on Slack, we collect your email address (as the team owner), your team name, Slack domain (ex: your-team-name.slack.com), your user name that appears in your Slack team, and password. Optionally, you can provide an email domain to allow people on that domain to sign up for your team without an invitation or individually add email addresses for people you’d like to invite to your team.
+		</li>
+		<li>
+			<b>Account and profile information.</b> The only information we require to create your Slack account is an email address and password. Optional information you can enter into your profile includes information such as your first and last name, what you do, your Skype username, and your phone number. Any information you add to your profile is visible to other people on your team as described on your profile management page.
+		</li>
+		<li>
+			<b>Billing information.</b> We collect billing address and credit card information if you purchase a premium version of Slack. Credit card information is securely passed to our payment processing partner and is not stored at Slack.
+		</li>
+		<li>
+			<b>Log data.</b> When you use Slack, our servers automatically record information including information that your browser sends whenever you visit a website or your mobile app sends when you’re using it. This log data may include your Internet Protocol address, the address of the web page you visited before coming to Slack, your browser type and settings, the date and time of your request, information about your browser configuration and plug-ins, language preferences, and cookie data.
+		</li>
+		<li>
+			<b>Device information.</b> In addition to log data, we may also collect information about the device you’re using Slack on, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you’re using and its settings.
+		</li>
+		<li>
+			 <b>Geo-location information.</b> Precise GPS from mobile devices is collected only with your permission. WiFi and IP addresses received from your browser or device may be used to determine approximate location.
+		</li>
+		<li>
+			<b>Slack usage information.</b> This is information about which teams, channels, groups, people, features, content, and links you interact with within Slack and what integrations with related services you use.
+		</li>
+		<li>
+			<b>Service integrations.</b> If you <a href="/integrations">integrate with a service</a> on Slack we will connect that service to ours. 
+			<ul>
+				<li>Depending on team settings, team members may be able to add integrations to a channel, private group, or direct message conversation. Those integrations are viewable and editable by the administrator.</li>
+				<li>We do not receive or store your passwords for any of these services.</li>
+				<li>You can remove an integration at any time which unbinds that integration on a go-forward basis. That does not, however, delete the content that was received from them and indexed within Slack. That content must be deleted manually.
+	</li>
+			</ul>
+		</li>
+		<li>
+			<b>Communication content that you send and receive within Slack.</b> This includes:
+			<ul>
+				<li>The message content itself. This content can include messages, pictures, files and video among other types of files.</li>
+				<li>When messages or files were sent and by whom, when or if they were seen by you, and where you received them (in a channel, private group, or direct message, for example).</li>
+			</ul>
+		</li>
+		<li>
+			<b>Information from partners or other 3rd parties.</b> Slack may receive information from partners or others that we could use to make our own information better or more useful. This might be aggregate level information about which IP addresses go with which zip codes or it might be more specific information about how well an online marketing or email campaign performed.
+		</li>
+	</ul>
+
+	<h2>Our Cookie Policy</h2>
+
+	<p>
+		Slack uses cookies, or similar technologies like single-pixel gifs and web beacons, to record log data. We use both session-based and persistent cookies. 
+	</p>
+
+	<p>
+		Cookies are small text files sent by us to your computer and from your computer to us, each time you visit our website. They are unique to your Slack account or your browser. Session-based cookies last only while your browser is open and are automatically deleted when you close your browser. Persistent cookies last until you or your browser delete them or until they expire.
+	</p>
+
+	<p>
+		Some cookies are associated with your Slack account and personal information in order to remember that you are logged in and which teams you are logged into. Other cookies are not tied to your Slack account but are unique and allow us to do site analytics and customization, among other things. If you access Slack through your browser, you can manage your cookie settings there but if you disable all cookies you may not be able to use Slack.
+	</p>
+
+	<p>
+		Slack sets and accesses our own cookies on our company-owned domains. In addition, we use 3rd parties like Google Analytics and Mixpanel for website analytics. You may opt-out of third party cookies from <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">Google Analytics</a> and <a href="https://mixpanel.com/optout/" target="_blank">Mixpanel</a> on their respective websites. We do not currently recognize or respond to browser-initiated Do Not Track signals as there is no consistent industry standard for compliance.
+	</p>
+
+	<h2>How we use your information</h2>
+
+	<p>
+		We use your information for the following:
+
+	</p><ul>
+
+		<li>
+			<b>Providing the Slack service.</b> We use information you provide to authenticate you and deliver message content to you and from you
+		</li>
+
+		<li>
+			<b>Understanding and improving our products.</b> To make the product better we have to understand how users are using it. We have a fair bit of data about usage and we intend to use it many different ways to improve our products, including research. This policy is not intended to place any limits on what we do with usage data that is aggregated or de-identified so it is no longer tied to a Slack user.
+		</li>
+
+		<li>
+			<b>Investigating and preventing bad stuff from happening.</b> We work hard to keep Slack secure and to prevent abuse and fraud.
+		</li>
+
+		<li>
+			<b>Communicating with you</b>
+			<ul>
+				<li>
+					<b>Solving your problems and responding to your requests.</b> If you contact us with a problem or question, we will use your information to respond to that request and address your problems or concerns.
+				</li>
+				<li>
+					<b>In-product communications.</b> We may use the information your provide to contact you through Slack using Slackbot or other in-product messaging tools. For example, if, after, a few weeks of using Slack we notice that your notification setting is set to notify you of all messages, we may send you a Slackbot message that suggests you change this in case you are getting too many notifications. This is just one example of how we use information about your usage of the product to make suggestions to you.
+				</li>
+				<li>
+					<b>Email messages.</b> We may send you service and administrative emails, such as when we notice that you are nearing a message or integration limit. We may also contact you to inform you about changes in our services, or our service offerings. These messages are considered part of the service and you may not opt-out of them. In addition, we  sometimes send emails to Slack users about new product features or other news about Slack. You can opt-out of these at any time.
+				</li>
+			</ul>
+		</li>
+
+	</ul>
+
+	<h2>Your choices</h2>
+
+	<p>
+		When you use Slack, you have control over a number of things with respect to your own privacy and choices about how your content is visible to others or not. If you are a Slack team owner or administrator, you have additional choices that impact your team’s privacy.  Some users will not have access to all of the same choices that their team owner(s) or administrator(s) do. That is because Slack is set up to be team-oriented, and provides team owners with the maximum ability to control their teams.
+	</p>
+
+	<!-- p + bold? -->
+	<h3>Message Retention Settings and Export Options</h3>
+
+	<p>
+		Slack offers different options for message retention and export to team owners and administrators, depending on the level of service they have signed up for. These service levels are likely to change so please see our pricing page to learn more about which features are associated with which level of service. We describe the feature variations here.
+	</p>
+
+	<ul>
+		<li>
+			<b>Message Retention Settings</b>
+			<ul>
+				<li>
+					The default message retention settings retain all channel, private group, and direct messages of all team members for as long as the team exists. If a message is edited, only the last edited version of the message is retained. If a message is deleted, it is removed from the archive. Note that administrators can manage editing and deletion settings as well to limit or prevent editing and deletion of messages in the first place. 
+				</li>
+				<li>
+					Once a team has moved to a premium, paid version of Slack, administrators can manage message retention settings in a much more granular way. They can reduce the message retention setting duration for all channel, private group, and direct messages. They can also increase the scope of message retention by retaining all copies of edited and deleted messages for channels, private groups, and direct messages for the duration of time allocated. Administrators can manage retention settings across all channels uniformly, or on a per-channel basis. This capability does not allow administrators to see the names or members of private groups. 
+				</li>
+			</ul>
+		</li>
+		<li>
+			<b>Message Exports</b>
+			<ul>
+				<li>
+					Only owners for teams who have the appropriate level of Slack service and have enabled Compliance Exports can export their team’s private group messages and direct messages.
+				</li>
+			</ul>
+		</li>
+	</ul>
+
+	<h3>Choices for Team Members</h3>
+
+	<ul>
+		<li>
+			Depending on your team settings, you may have the ability to delete some or all of your messages and to deactivate your account. Deactivating your account, however, will not remove messages you posted before you initiated deactivation as those messages will still be valuable to your team.
+		</li>
+		<li>
+			You can view your team’s message retention settings at any time via <a href="https://my.slack.com/account/team" target="_blank">Your Team Settings</a>. You can update your profile information at any time and modify your email settings. You can also change your user name from time to time.
+		</li>
+		<li>
+			When you upload a document or a file on Slack, you can decide where to share it and with whom. You can also share documents with your entire team, or in private groups. You can also share them externally by creating a public link if you choose.
+		</li>
+	</ul>
+
+	<h3>Choices for Team Owners and Administrators</h3>
+
+	<ul>
+		<li>
+			Administrators have the ability to manage and change most of the team settings including message retention settings and can modify whether or when team members can edit or delete messages. Administrators can also disable member accounts for their team.
+		</li>
+		<li>
+			Only a primary owner can delete a team.
+		</li>
+		<li>
+			For more about these privileges, choices, and permissions, see our <a href="https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack" target="_blank">FAQ page</a>.
+		</li>
+	</ul>
+
+	<h3>Other Choices</h3>
+
+	<ul>
+		<li>
+			The browser you use may provide you with the ability to control cookies or other types of local data storage.
+		</li>
+		<li>
+			Your mobile device may provide you with choices around how and whether location or other data is shared with us.
+		</li>
+	</ul>
+
+	<h3>Sharing and Disclosure</h3>
+
+	<p>
+		There are times when communications and related content and other user information may be shared by Slack. This section discusses only how Slack may share user information. Organizations that use Slack may have their own policies for sharing and disclosure of information they can access through Slack. Slack may share information:
+	</p>
+
+	<ul>
+		<li>
+			<b>With consent, to comply with legal process, or to protect Slack and our users.</b>
+			When we have your consent or if we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or Slack; or to detect, prevent, or otherwise address fraud, security or technical issues. If we receive a legal or law enforcement request for information we will do our best to notify the subject of the request if we are able.
+		</li>
+		<li>
+			<b>With third parties and agents.</b> We may employ third party companies or individuals to process personal information on our behalf based on our instructions and in compliance with this Privacy Policy. For example, we may share data with a security consultant to help us get better at preventing unauthorized access or with an email vendor to send messages on our behalf.  We may also share data with hosting providers, payment processors, marketing vendors, and other consultants who work on our behalf and under contractual promises of confidentiality.
+		</li>
+		<li>
+			<b>About you with your organization or team administrator(s).</b>
+			<ul>
+				<li>
+					We may share your email address and team name with your organization. If the email address under which you've registered your account belongs to or is controlled by an organization (to be clear, we’re not talking about free web-based email providers like Gmail, Hotmail or Yahoo! Mail) we may disclose that email address and associated team names to that organization in order to help it understand who associated with that organization uses Slack, and to assist the organization with its enterprise accounts. Please do not use a work email address for our services unless you are authorized to do so, and are therefore comfortable with this kind of sharing.
+				</li>
+				<li>
+					In addition, there may be times when you contact Slack to help resolve an issue specific to a team you are a member of. In order to help resolve the issue, we may need to share your concern with your administrator. When possible, we will try to mask or remove any identifying information before sharing these communications.
+				</li>
+			</ul>
+		</li>
+		<li>
+			<b>In the event of a merger or sale.</b> If we engage in a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of the information described in this Privacy Policy.
+		</li>
+		<li>
+			<b>That is aggregated and non-identifiable.</b> We may also share aggregated or non-personally identifiable information with our partners or others for business or research purposes. For example, we may tell a prospective Slack customer the average number of messages sent within a Slack team in a day or may partner with research firm or academics to explore interesting questions about workplace communications. Again, this policy is not intended to prohibit the disclosure and use of aggregated or de-identified data.
+		</li>
+	</ul>
+
+	<h3>Security</h3>
+
+	<p>
+		Slack takes reasonable steps to protect information you provide to us as part of your use of the Slack service from loss, misuse, and unauthorized access or disclosure. When you enter sensitive information (such as sign-in credentials) we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once we receive it. However, no electronic or email transmission or digital storage mechanism is ever fully secure or error free. 
+	</p>
+
+	<p>
+		To learn more about current practices and policies regarding security and confidentiality, please see our <a href="https://slack.com/security" target="_blank">Security Practices</a>; we keep that document updated as these practices evolve over time.
+	</p>
+	
+	<h3>Children’s information</h3>
+
+	<p>
+		Slack is not directed to children under 13. If you learn that a minor child has provided us with personal information without your consent, please contact us.
+	</p>
+
+	<h3>Changes to this Privacy Policy</h3>
+
+	<p>
+		We may change this policy from time to time, and if we do we’ll post any changes on this page. If you continue to use Slack after those changes are in effect, you agree to the revised policy. If the changes are material, we may provide more prominent notice or seek your consent to the new policy.
+	</p>
+
+	<h3>EU Safe Harbor</h3>
+
+	<p>
+		Slack Technologies complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Slack Technologies has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Slack Technologies’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.
+	</p>
+
+	<h3>Contacting Slack</h3>
+
+	<p>
+		Please also feel free to contact us if you have any questions about Slack’s Privacy Policy or practices. You may contact us at <a href="mailto:feedback@slack.com">feedback@slack.com</a> or at our mailing address below:
+	</p>
+
+	<p>
+		Slack Technologies<br>
+		680 Folsom Street, Suite 145<br>
+		San Francisco, CA<br>
+		94107
+	</p>
+
+	<div class="clear_both"></div>
+
+</div>
+
+		
+	</div>
+	<div id="overlay"></div>
+</div>
+
+
+
+
+<script type="text/javascript">
+var cdn_url = 'https://slack.global.ssl.fastly.net';
+</script>
+
+		
+	<!-- output_js "core" -->
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/1852/js/libs/jquery-2.1.3.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/c212/js/libs/bootstrap_plastic.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/f66c/js/libs/flash_detect.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/bf3b/js/libs/fastclick.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/8556/js/libs/headroom.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/8827/js/plastic.js" crossorigin="anonymous"></script>
+
+			<!-- output_js "secondary" -->
+
+		<!-- output_js "regular" -->
+
+	
+	<!-- slack-www344 / 2015-03-15 17:25:27 / v75a8ebbca614882c75418542c75e7d54579ad8cd -->
+
+
+</body></html>
