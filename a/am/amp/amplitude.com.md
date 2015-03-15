@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amplitude.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630110017id_/https%3A//amplitude.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amplitude.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025823id_/https%3A//amplitude.com/privacy) for the most accurate reproduction.*
 
 # Amplitude: Privacy Policy | Mobile Analytics
 
-**Last Updated: May 10, 2014**
+**Last Updated: February 17, 2015**
 
-This Privacy Policy explains how information is collected and utilized by Sonalight, Inc. d/b/a Amplitude ("Amplitude," "we," or "us"). This Privacy Policy applies to the Amplitude website at http://www.amplitude.com and Amplitude's services.
+This Privacy Policy explains how information is collected and utilized by Amplitude, Inc. ("Amplitude," "we," or "us"). This Privacy Policy applies to the Amplitude website at http://www.amplitude.com and Amplitude's services.
 
 ### App Developer Information
 
