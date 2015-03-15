@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onecoin.eu privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115224645id_/http%3A//www.onecoin.eu/page/details/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecoin.eu privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315031051id_/https%3A//www.onecoin.eu/page/details/privacy_policy) for the most accurate reproduction.*
 
 # OneCoin / Privacy policy
 
