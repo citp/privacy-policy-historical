@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldslastchance.com privacy policy that was archived on 2014-07-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140704011601id_/https%3A//www.worldslastchance.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldslastchance.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315050111id_/https%3A//www.worldslastchance.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://opengraph.org/schema/"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,154 +7,39 @@
                 <meta name="keywords" content="worldslastchance,privacy policy">
         <meta name="description" content="WorldsLastChance.com | Privacy Policy">
                           <meta property="og:type" content="article">
-            <meta property="og:url" content="http://www.worldslastchance.com/privacy-policy.html">
+            <meta property="og:url" content="https://www.worldslastchance.com/privacy-policy.html">
             <meta property="og:image" content="images/stories/privacy-policy.jpg">
 
             
         <title>Privacy Policy</title>
         <meta property="og:title" content="Privacy Policy">
-        <meta property="og:site_name" content="Bible Prophecy | Online Bible Studies | Videos | WorldsLastChance.com">
+        <meta property="og:site_name" content="Bible Prophecy | Online Bible Studies | Videos | WLC">
         <meta property="fb:app_id" content="309905385764348">
 
-                    <base href="http://www.worldslastchance.com/">
-                    
+                    <base href="https://www.worldslastchance.com/">
+        
                 <link href="https://plus.google.com/105987866317374712440" rel="publisher">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!--<link href='http://fonts.googleapis.com/css?family=Quattrocento' rel='stylesheet' type='text/css'>-->
-        <link href="http://www.worldslastchance.com/assets/css/front/css_compress-original.css?ver=1.0.1" rel="stylesheet" type="text/css">
-        <link href="http://www.worldslastchance.com/assets/css/front/css_compress-rtl.css" rel="stylesheet" type="text/css">
-        <link rel="shortcut icon" href="http://www.worldslastchance.com/favicon.ico">
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=000993172113723111222:kj7-onlwmho"></script><script type="text/javascript" async="" src="http://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-        <script src="http://www.worldslastchance.com/assets/js/front/js_combine.js" type="text/javascript"></script>
-        <script type="text/javascript">
-            var base_url = 'http://www.worldslastchance.com/';
-			function goToByScroll(id){
-				$('html,body').animate({scrollTop: $("#"+id).offset().top},'slow');
-			}
-        </script>
-        <script>
+            <!--<link href='http://fonts.googleapis.com/css?family=Quattrocento' rel='stylesheet' type='text/css'>-->
+            <link href="https://www.worldslastchance.com/assets/css/front/css_compress-original.css?ver=1.1.2" rel="stylesheet" type="text/css">
 
-            $(document).ready(function(){
-                $(".lightbox").colorbox();
-				
-				$(".lightbox-width").colorbox({width:"650px", height:"420px", maxWidth:"90%"});
-            
-                var working = false;
-                /* Listening for the submit event of the form: */
-                $('#login-form-header').submit(function(e){
-                    e.preventDefault();
-                    if(working) return false;
-        
-                    working = true;
-                    $('#loginbtn').val('Processing ...');
-                
-                  
-                    $.post('http://www.worldslastchance.com/user/dologin',$(this).serialize(),function(msg){
-
-                        working = false;
-                        $('#loginbtn').val('Login');
-            
-                        if(msg.status){
-                            //alert(msg.html);
-                            if (msg.html.length) {
-                                window.location=msg.html;
-                            }                      
-                            else {
-                                window.location.reload();
-                            }
-                        }
-                        else {
-
-                            $.each(msg.errors,function(k,v){
-                                if (k=='commonerror') {
-                                    $('#commonerror').append('<span class="error">'+v+'</span>');
-                                }
-                                else {
-                                    //$('#response-'+k).append('<span class="error">'+v+'</span>');
-                                    if (v=="The account is not activated yet") {
-                                        if (confirm("The account is not activated yet. Would you like to request new activation email?")) {
-                                            self.location="http://www.worldslastchance.com/user/resend_activecode";
-                                        }
-                                    }
-                                    else alert(v);
-                                }
-                            });
-                        }
-                    },'json');
-
-                });
-            });
-
-            $(function() {
-                $(".tooltips").ezpz_tooltip({contentPosition: 'belowRightFollow'});	
-                $(".left_tooltips").ezpz_tooltip({contentPosition: 'belowLeftFollow'});	
-                $(".top_tooltips").ezpz_tooltip({contentPosition: 'aboveFollow'});
-                $(".bottom_tooltips").ezpz_tooltip({contentPosition: 'belowFollow'});								
-            });
-
-            $(function() {
-                $( "#tabs" ).tabs();
-                $( "#tabart" ).tabs();
-    
-                $( "#producttabs" ).tabs({
-                    event: "mouseover"
-                });
-            });
-
-            $(function() {
-                $( ".toggler" ).accordion({
-                    autoheight: true,
-                    collapsible: true,
-                    active: false
-                });
-            });
-
-            $(function() {
-                $( "#accordion" ).accordion({
-                    clearStyle: true,
-                    collapsible: true,
-                    active: false
-                });
-            }); 	
-
-            $(document).ready(function() {
-                $('a[href=#page]').click(function(){
-                    $('html, body').animate({scrollTop:0}, 'slow');
-                    return false;
-                });
-    
-            });
-            function logout()
-            {
-                if(confirm("Are you sure?"))
-                {
-                    var oParam = new Object();
-                    $.post(base_url + 'user/logout', oParam, function(data){
-                        if(data.success){
-                            window.location.reload();
-                        }else{
-                            alert("An error occurred.");
-                        }
-                    },"json");
+            <link href="https://www.worldslastchance.com/assets/css/front/css_compress-rtl.css" rel="stylesheet" type="text/css">
+            <link rel="shortcut icon" href="https://www.worldslastchance.com/images/favicon_home.ico">
+            <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=000993172113723111222:kj7-onlwmho"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+            <script src="https://www.worldslastchance.com/assets/js/front/js_combine.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                var base_url = 'https://www.worldslastchance.com/';
+                function goToByScroll(id) {
+                    $('html,body').animate({scrollTop: $("#" + id).offset().top}, 'slow');
                 }
-            }
+            </script>
             
-            (function(d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) return;
-                js = d.createElement(s); js.id = id;
-                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=309905385764348";
-                fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));
-			
-        </script>
-
-        <!--[if lte IE 7]>
-                <link href="http://www.worldslastchance.com/assets/css/front/ie7.css" rel="stylesheet" type="text/css" media="screen" />                
-        <![endif]-->
-        <!--[if gte IE 9]>
-                <link href="http://www.worldslastchance.com/assets/css/front/ie9.css" rel="stylesheet" type="text/css" media="screen" />                
-        <![endif]-->
+            <!--[if lte IE 7]>
+                    <link href="https://www.worldslastchance.com/assets/css/front/ie7.css" rel="stylesheet" type="text/css" media="screen" />                
+            <![endif]-->
+            <!--[if gte IE 9]>
+                    <link href="https://www.worldslastchance.com/assets/css/front/ie9.css" rel="stylesheet" type="text/css" media="screen" />                
+            <![endif]-->
 
     </head>
 
@@ -164,102 +49,119 @@
                 <!-- begin header -->
                 <div id="header" class="fixfloat">
                     <div id="logo" class="fltleft">
-                    	<a href="http://www.worldslastchance.com/" title="Christian Community Focused on the Imminent Second Coming of Yahushua Through End Time Bible Prophecy" name="page"></a>
-					</div>
+                        <a href="https://www.worldslastchance.com/" title="Christian Community Focused on the Imminent Second Coming of Yahushua Through End Time Bible Prophecy" name="page"></a>
+                    </div>
                     <div class="width0 float-left slogan">
                         <div class="h1_home1">
-                       		<!--[if !IE]-->
-                                <span>Preparing a People for the Saviour's <u>Soon</u> Return!</span>
+                            <!--[if !IE]-->
+                            <span>Preparing a People for the Saviour's <u>Soon</u> Return!</span>
                             <!--[endif]-->
-                            
+
                             <!--[if IE]>
                                     <h2 style="position: relative; z-index: 0;font-size:22px;font-family:Trajan Pro,Arial,Helvetica,sans-serif;letter-spacing:-1.5pt;font-weight:bold;line-height:150%;">
-                                    	Preparing a People for the Saviour's <u>Soon</u> Return!
-                                    	<span style="padding: 0px; left: -3px; top: -3px; color: rgb(0, 0, 0); filter: progid:DXImageTransform.Microsoft.Blur(pixelradius=5, enabled='true', makeShadow='true', ShadowOpacity=1); position: absolute; z-index: -1;">Preparing a People for the Saviour's <u>Soon</u> Return!</span>
-									</h2>
+                                        Preparing a People for the Saviour's <u>Soon</u> Return!
+                                        <span style="padding: 0px; left: -3px; top: -3px; color: rgb(0, 0, 0); filter: progid:DXImageTransform.Microsoft.Blur(pixelradius=5, enabled='true', makeShadow='true', ShadowOpacity=1); position: absolute; z-index: -1;">Preparing a People for the Saviour's <u>Soon</u> Return!</span>
+                                                                        </h2>
                             <![endif]-->                            
                         </div>
                         <div class="h1_home2">
-                       		<!--[if !IE]-->
-                                <h1>Bible Prophecy, Bible Studies, Videos, Articles, &amp; Much Much More!</h1>
+                            <!--[if !IE]-->
+                            <h1>Bible Prophecy, Bible Studies, Videos, Articles, &amp; Much Much More!</h1>
                             <!--[endif]-->
-                            
+
                             <!--[if IE]>
                                     <h2 style="position: relative; z-index: 0;font-size:16px;font-family:"Times New Roman", Times, serif;letter-spacing:-0.5pt;font-weight:bold;line-height:150%;">
-                                    	Bible Prophecy, Bible Studies, Videos, Articles, & Much Much More!
-                                    	<span style="padding: 0px; left: -3px; top: -3px; color: rgb(0, 0, 0); filter: progid:DXImageTransform.Microsoft.Blur(pixelradius=5, enabled='true', makeShadow='true', ShadowOpacity=1); position: absolute; z-index: -1;">Bible Prophecy, Bible Studies, Videos, Articles, & Much Much More!</span>
-									</h2>
+                                        Bible Prophecy, Bible Studies, Videos, Articles, & Much Much More!
+                                        <span style="padding: 0px; left: -3px; top: -3px; color: rgb(0, 0, 0); filter: progid:DXImageTransform.Microsoft.Blur(pixelradius=5, enabled='true', makeShadow='true', ShadowOpacity=1); position: absolute; z-index: -1;">Bible Prophecy, Bible Studies, Videos, Articles, & Much Much More!</span>
+                                                                        </h2>
                             <![endif]-->                            
-                            
+
                         </div>
                     </div>
                     <div class="btnLogin_mobile">
-                    	<a href="http://www.worldslastchance.com/wlc-free-apps.html"><img src="http://www.worldslastchance.com/assets/images/front/free-app-mobile.png"></a>
-                    	                            <a href="http://www.worldslastchance.com/user/login"><img src="http://www.worldslastchance.com/assets/images/front/join-now-mobile.png"></a>
-                                            </div>
-                    <div class="btnMenu_mobile"><img src="http://www.worldslastchance.com/assets/images/front/icon_cate.png" alt="Main Menu"></div>
-                                        	<!--<div class="btnMenuLeft_mobile"><a href="javascript:goToByScroll('footer-menu-mobile')" onclick="goToByScroll('footer-menu-mobile');"><img src="http://www.worldslastchance.com/assets/images/front/icon_menu_left.png" /></a></div>-->
-                    					                    <div id="date" class="fltright">
+                        <a href="https://www.worldslastchance.com/wlc-free-apps.html"><img src="https://www.worldslastchance.com/assets/images/front/free-app-mobile.png"></a>
+                            <a href="https://www.worldslastchance.com/user/login"><img src="https://www.worldslastchance.com/assets/images/front/join-now-mobile.png"></a>
+                                        </div>
+                    <div class="btnMenu_mobile"><img src="https://www.worldslastchance.com/assets/images/front/icon_cate.png" alt="Main Menu"></div>
+                                                <!--<div class="btnMenuLeft_mobile"><a href="javascript:goToByScroll('footer-menu-mobile')" onclick="goToByScroll('footer-menu-mobile');"><img src="https://www.worldslastchance.com/assets/images/front/icon_menu_left.png" /></a></div>-->
+                                                            <div id="date" class="fltright">
                         <div class="width100 float-left">
                             <div class="left_tooltips" id="example-target-homeLunical">
-                                <a href="http://www.worldslastchance.com/lunisolarcalendar/web/WlcWeb.html" target="_blank"><img src="http://www.worldslastchance.com/assets/images/front/yahuwah-calendar-button.png"></a>
+                                <a href="https://www.worldslastchance.com/lunisolarcalendar/web/WlcWeb.html" target="_blank"><img src="https://www.worldslastchance.com/assets/images/front/yahuwah-calendar-button.png"></a>
                             </div>
                             <div class="tooltip-content" id="example-content-homeLunical" style="width:280px;font-weight:normal; font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left; line-height:150%;"> 
                                 Click here to find the dates for your specific location<br>on the WLC Luni-Solar Calendar Application.
                             </div>
                         </div>                   
-						<div class="width100 float-left">
-                        	<p class="line">Gregorian Date</p>
-                            <p>July&nbsp;03,&nbsp;2014</p>
+                        <div class="width100 float-left">
+                            <p class="line">Gregorian Date</p>
+                            <p>March&nbsp;15,&nbsp;2015</p>
                         </div>
                     </div>
                     <!--- end Date -->
-                        
+
                     <!-- begin add this -->
                     <div id="addthis" class="fltleft">
-                        <div id="search">
-                            <form class="default-search" id="cse-search-box" action="http://www.worldslastchance.com/search-result.html">
-                            <div class="searchbox">
-                            <button value="Search" type="submit" name="sa" class="search-magnifier"></button>
-                            <input type="hidden" value="005570767600770218818:rqrfs3h3qeo" name="cx">
-                            <input type="hidden" value="FORID:11" name="cof">
-                            <input type="hidden" value="UTF-8" name="ie">
-                            <input type="text" onfocus="if(this.value=='Search WLC') this.value='';" onclick="if(this.value=='Search WLC') this.value='';" onblur="if(this.value=='') this.value='Search WLC';" value="Search WLC" class="searchfield" size="32" autocomplete="off" id="q" name="q">
-                            </div>
-                            </form>
-							<script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-                        </div>
-                        <div id="search-button-mobile"></div>
-                        <div id="inzar-community"> <a target="_blank" href="http://www.inzar.com">&nbsp;</a> </div>
-                        <div class="header_index">
-                        	<div class="sharethis"><a href="http://www.worldslastchance.com/bookmark?url=http://www.worldslastchance.com/privacy-policy.html" class="lightbox cboxElement sharethis">Share this</a></div>
-                            <a class="home_y" href="http://www.youtube.com/user/TheWLCvideos" target="_blank"></a>
-                            <a class="home_t" href="https://twitter.com/wlc_team" target="_blank"></a>
-                            <a class="home_p" href="http://pinterest.com/worldlastchance" target="_blank"></a>
-                            <a class="home_g" href="https://plus.google.com/u/1/105987866317374712440/posts" target="_blank"></a>
-                            <a class="home_f" href="https://www.facebook.com/pages/Worlds-Last-Chance/132685966794289" target="_blank"></a>
-                        </div>
-                        <div class="clear"></div>
-                    </div>
-                    <!-- End add this -->
 
-                </div>
-                <!-- End header -->
-                    
+                        <div class="header_bar">
+                            <div class="header-language"><span class="flag-english"></span></div>
+                            <div class="header-lang-select">
+                                <select name="header-language" onchange="this.options[this.selectedIndex].onclick()">
+                                    <option value="https://www.worldslastchance.com/" onclick="OpenInTab('https://www.worldslastchance.com/');" selected="">English</option>
+                                    <option value="https://www.worldslastchance.com/espanol" onclick="OpenInTab('https://www.worldslastchance.com/espanol');">Spanish</option>
+                                    <option value="http://www.inzar.com" onclick="OpenInNewTab('http://www.inzar.com');">Arabic</option>
+                                </select>
+                            </div>
+                            <div class="header-directory">
+                                <a href="https://www.worldslastchance.com/about-us/wlc-content-directory.html" target="_blank">Content Directory</a>
+                            </div>
+                            <div id="search">
+                                <form class="default-search" id="cse-search-box" action="https://www.worldslastchance.com/search-result.html">
+                                    <div class="searchbox">
+                                        <button value="Search" type="submit" name="sa" class="search-magnifier"></button>
+                                        <input type="hidden" value="005570767600770218818:rqrfs3h3qeo" name="cx">
+                                            <input type="hidden" value="FORID:11" name="cof">
+                                                <input type="hidden" value="UTF-8" name="ie">
+                                                    <input type="text" onfocus="if (this.value == 'Search WLC')
+                                                                this.value = '';" onclick="if (this.value == 'Search WLC')
+                                                                            this.value = '';" onblur="if (this.value == '')
+                                                                                        this.value = 'Search WLC';" value="Search WLC" class="searchfield" size="32" autocomplete="off" id="q" name="q">
+                                                        </div>
+                                                        </form>
+                                                        <script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+                                                        </div>
+                                                        <div id="search-button-mobile"></div>                            
+                                                        </div>
+
+                                                        <div class="header_index">
+                                                            <div class="sharethis"><a href="https://www.worldslastchance.com/bookmark?url=https://www.worldslastchance.com/privacy-policy.html" class="lightbox cboxElement sharethis">Share this</a></div>
+                                                            <a class="home_y" href="http://www.youtube.com/user/TheWLCvideos" target="_blank"></a>
+                                                            <a class="home_t" href="https://twitter.com/wlc_team" target="_blank"></a>
+                                                            <a class="home_p" href="http://pinterest.com/worldlastchance" target="_blank"></a>
+                                                            <a class="home_g" href="https://plus.google.com/u/1/105987866317374712440/posts" target="_blank"></a>
+                                                            <a class="home_f" href="https://www.facebook.com/pages/Worlds-Last-Chance/132685966794289" target="_blank"></a>
+                                                        </div>
+                                                        <div class="clear"></div>
+                                                        </div>
+                                                        <!-- End add this -->
+
+                                                        </div>
+                                                        <!-- End header -->
+
 <!-- begin menu -->
 <div id="menu">
     <ul class="menu">
-                    <li><a href="http://www.worldslastchance.com/">Home</a><span></span></li>
-                        <li><a href="http://www.worldslastchance.com/videos">Videos</a><span></span></li>
-                        <li><a href="http://www.worldslastchance.com/articles">Articles</a><span></span></li>
-                        <li><a href="http://www.worldslastchance.com/ecourses">eCourses</a><span></span></li>
-                        <li><a href="http://www.worldslastchance.com/prophecy-in-news">Prophecy News</a><span></span></li>
-                        <li><a href="http://www.worldslastchance.com/updates">Updates</a><span></span></li>
-                        <li><a href="http://www.worldslastchance.com/prayer-request">Prayer Requests</a><span></span></li>
-                        <li><a href="http://www.worldslastchance.com/how-to-earn-wlc-points.html">Points</a><span></span></li>
-                        <li><a href="http://www.worldslastchance.com/store">Store</a><span></span></li>
-                        <li><a href="http://www.worldslastchance.com/free-membership-gift.html">Membership Gift</a><span></span></li>
-                        <li><a href="http://www.worldslastchance.com/community">Networking</a><span></span></li>
+                    <li><a href="https://www.worldslastchance.com/">Home</a><span></span></li>
+                        <li><a href="https://www.worldslastchance.com/videos">Videos</a><span></span></li>
+                        <li><a href="https://www.worldslastchance.com/articles">Articles</a><span></span></li>
+                        <li><a href="https://www.worldslastchance.com/ecourses">eCourses</a><span></span></li>
+                        <li><a href="https://www.worldslastchance.com/prophecy-in-news">Prophecy News</a><span></span></li>
+                        <li><a href="https://www.worldslastchance.com/updates">Updates</a><span></span></li>
+                        <li><a href="https://www.worldslastchance.com/prayer-request">Prayer Requests</a><span></span></li>
+                        <li><a href="https://www.worldslastchance.com/how-to-earn-wlc-points.html">Points</a><span></span></li>
+                        <li><a href="https://www.worldslastchance.com/store">Store</a><span></span></li>
+                        <li><a href="https://www.worldslastchance.com/free-membership-gift.html">Membership Gift</a><span></span></li>
+                        <li><a href="https://www.worldslastchance.com/community">Networking</a><span></span></li>
             		<li><a href="http://www.worldslastchance.com/lunisolarcalendar/web/WlcWeb.html" target="_blank">Calendar App</a></li>
     </ul>
 </div>
@@ -274,7 +176,7 @@
                                     <!-- Start Join today -->
                 <div class="float-box width100" id="join-today">
                     <div class="tooltips" id="example-target-join">
-                        <a class="join-today-button" href="http://www.worldslastchance.com/user/register"><img src="http://www.worldslastchance.com/assets/images/front/join-today-button.jpg"></a>
+                        <a class="join-today-button" href="https://www.worldslastchance.com/user/register"><img src="https://www.worldslastchance.com/assets/images/front/join-today-button.jpg" alt="Join Now"></a>
                     </div>
                     <div class="tooltip-content" id="example-content-join"> 
                         <h3>JOIN TODAY!</h3><p> Meet new people from all over the world, make friends, change your status, upload photos, earn points, &amp; so much more!  Chat, post comments or questions on our forum, or send private emails to your friends!  There is so much to do and Learn here at World's Last Chance!  Join our growing Christian Community Today and receive your Free Gift!</p>
@@ -284,7 +186,7 @@
 			                <script language="javascript">
                     function openidWindow(service) {
 
-                        var w = window.open('http://www.worldslastchance.com/user/openid/' + service, 'openid_popup', 'width=475,height=450,location=1,status=1,resizable=yes');
+                        var w = window.open('https://www.worldslastchance.com/user/openid/' + service, 'openid_popup', 'width=475,height=450,location=1,status=1,resizable=yes');
 
                         var coords = getCenteredCoords(450, 400);
                         w.moveTo(coords[0], coords[1]);
@@ -308,22 +210,22 @@
                     </div>                        	
                 </div>
                 					                        
-		
+		     
             <div class="float-box width100" id="get-out">
-                <a href="http://www.worldslastchance.com/get-out-of-her-my-people" title="Get out of her, My people!">
-                    <img alt="Get out of her, My people!" src="http://www.worldslastchance.com/assets/images/front/get-out.png">
+                <a href="https://www.worldslastchance.com/get-out-of-her-my-people" title="Get out of her, My people!">
+                    <img alt="Get out of her, My people!" src="https://www.worldslastchance.com/assets/images/front/get-out.png">
                 </a>
             </div>
             <div class="float-box width100" id="luni-solar-calendar">
-                <a href="http://www.worldslastchance.com/luni-solar-calendar-guide.html">
-                    <img src="http://www.worldslastchance.com//assets/images/front/luni-solar-calendar-new.jpg" alt="Biblical Luni-Solar Calendar Guide">
+                <a href="https://www.worldslastchance.com/luni-solar-calendar-guide.html">
+                    <img src="https://www.worldslastchance.com/assets/images/front/luni-solar-calendar-new.jpg" alt="Biblical Luni-Solar Calendar Guide">
                 </a>
                 <a href="https://itunes.apple.com/us/app/wlc-biblical-calendar/id627359796" target="_blank" class="luni-ios-app"></a>
                 <a href="https://play.google.com/store/apps/details?id=air.com.worldslastchance.lunisolarcalendar.mobile" target="_blank" class="luni-android-app"></a>
             </div>
             <div class="float-box width100" id="video-apps">
-                <a href="http://www.worldslastchance.com/wlc-video-app.html">
-                    <img src="http://www.worldslastchance.com/assets/images/front/videos/video-apps-new.png">
+                <a href="https://www.worldslastchance.com/wlc-video-app.html" title="WLC Video App">
+                    <img src="https://www.worldslastchance.com/assets/images/front/videos/video-apps-new.png" alt="WLC Video App">
                 </a>
                 <a href="https://itunes.apple.com/us/app/wlc-videos/id736422884?mt=8" target="_blank" class="video-ios-app"></a>
                 <a href="https://play.google.com/store/apps/details?id=air.com.worldslastchance.videos&amp;hl=en" target="_blank" class="video-android-app"></a>
@@ -336,15 +238,15 @@
             <div class="moduletable_menu toggler">
                 <span class="span-accordion"><h3>World's Last Chance</h3></span>
                 <ul class="menu menu-wlc">
-                    <li><a class="first" href="http://www.worldslastchance.com/contact-us">Contact Us</a></li>
-                    <li><a href="http://www.worldslastchance.com/about-us/wlc.html">WLC</a></li>
-                    <li><a href="http://www.worldslastchance.com/about-us/mission.html">Mission</a></li>
-                    <li><a href="http://www.worldslastchance.com/about-us/background.html">Background</a></li>                                
-                    <li><a href="http://www.worldslastchance.com/about-us/our-25-beliefs.html">Our 25 Beliefs</a></li>
-                    <li><a href="http://www.worldslastchance.com/about-us/why-the-name.html">Why the Name?</a></li>
-                    <li><a href="http://www.worldslastchance.com/founders-headquarters.html">Founders &amp; Headquarters</a></li>                                                                                  
-                    <li><a class="last" href="http://www.worldslastchance.com/why-yahuwah-a-yahushua-only.html">Why Yahuwah &amp; Yahushua Only</a></li>
-                    <li><a href="http://www.worldslastchance.com/yahuwahs-calendar/the-way-divides.html">Why No Longer Saturday keepers</a></li>
+                    <li><a class="first" href="https://www.worldslastchance.com/contact-us">Contact Us</a></li>
+                    <li><a href="https://www.worldslastchance.com/about-us/wlc.html">WLC</a></li>
+                    <li><a href="https://www.worldslastchance.com/about-us/mission.html">Mission</a></li>
+                    <li><a href="https://www.worldslastchance.com/about-us/background.html">Background</a></li>                                
+                    <li><a href="https://www.worldslastchance.com/about-us/our-25-beliefs.html">Our 25 Beliefs</a></li>
+                    <li><a href="https://www.worldslastchance.com/about-us/why-the-name.html">Why the Name?</a></li>
+                    <li><a href="https://www.worldslastchance.com/founders-headquarters.html">Founders &amp; Headquarters</a></li>                                                                                  
+                    <li><a class="last" href="https://www.worldslastchance.com/why-yahuwah-a-yahushua-only.html">Why Yahuwah &amp; Yahushua Only</a></li>
+                    <li><a href="https://www.worldslastchance.com/yahuwahs-calendar/the-way-divides.html">Why No Longer Saturday keepers</a></li>
                 </ul>   
 			<!--                         
             </div>
@@ -353,32 +255,21 @@
                 <span class="span-accordion"><h3>Resources</h3></span>
                 <ul class="menu menu-resources">
 
-                    <li><a href="http://www.worldslastchance.com/qa">Q&amp;A</a></li>
-                    <li><a href="http://www.worldslastchance.com/baptism-registration.html">Baptism</a></li>
-                    <li><a href="http://www.worldslastchance.com/home-ekklesia.html">Home Ekklesia</a></li>
-                    <li><a href="http://www.worldslastchance.com/for-sdas-only">For SDAs Only</a></li>
-                    <li><a href="http://www.worldslastchance.com/christian-poetry.html">Christian Poetry</a></li>                    
-                    <li><a href="http://www.worldslastchance.com/videos/non-wlc-videos">Non-WLC Videos</a></li>
-                    <li><a href="http://www.worldslastchance.com/bible-answers-and-more">Bible Answers and More</a></li>                    
-                    <li><a href="http://www.worldslastchance.com/get-out-of-her-my-people">Get out of her, My people!</a></li>                    
-                    <li><a href="http://www.worldslastchance.com/topical-biblical-studies">Topical Biblical Studies (eBooks)</a></li>
+                    <li><a href="https://www.worldslastchance.com/qa">Q&amp;A</a></li>
+                    <li><a href="https://www.worldslastchance.com/baptism-registration.html">Baptism</a></li>
+                    <li><a href="https://www.worldslastchance.com/home-ekklesia.html">Home Ekklesia</a></li>
+                    <li><a href="https://www.worldslastchance.com/for-sdas-only">For SDAs Only</a></li>
+                    <li><a href="https://www.worldslastchance.com/christian-poetry.html">Christian Poetry</a></li>                    
+                    <li><a href="https://www.worldslastchance.com/videos/non-wlc-videos">Non-WLC Videos</a></li>
+                    <li><a href="https://www.worldslastchance.com/about-us/wlc-content-directory.html">WLC Content Directory</a></li>
+                    <li><a href="https://www.worldslastchance.com/bible-answers-and-more">Bible Answers and More</a></li>                    
+                    <li><a href="https://www.worldslastchance.com/get-out-of-her-my-people">Get out of her, My people!</a></li>                    
+                    <li><a href="https://www.worldslastchance.com/topical-biblical-studies">Topical Biblical Studies (eBooks)</a></li>
 
-                    <li><a href="http://www.worldslastchance.com/the-kjv-audio-bible.html">Free KJV Bible download (audio)</a></li>
-                    <li><a href="http://www.worldslastchance.com/the-pilgrims-progress.html">Free Pilgrim's Progress I (audio)</a></li>
-                    <li class="parent"><a href="http://www.worldslastchance.com/christiana.html">Free Pilgrim's Progress II (audio)</a></li>
-                    <li class="last parent separator"><span class="last parent separator">Free SOP downloads (text &amp; audio):</span>
-                        <ul>
-                            <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/en">English</a></li>
-                            <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/pt">Português</a></li>
-                            <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/sp">Español</a></li>
-                            <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/sr">Cpпски</a></li>
-                            <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/ru">Русский</a></li>
-                            <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/he">עברית</a></li>
-                            <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/fr">Français</a></li>
-                            <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/cn">中文</a></li>
-                            <li class="last"><a class="last" href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/ro">Română</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="https://www.worldslastchance.com/the-kjv-audio-bible.html">Free KJV Bible download (audio)</a></li>
+                    <li><a href="https://www.worldslastchance.com/the-pilgrims-progress.html">Free Pilgrim's Progress I (audio)</a></li>
+                    <li class="parent"><a href="https://www.worldslastchance.com/christiana.html">Free Pilgrim's Progress II (audio)</a></li>
+                    <li class="last parent"><a href="https://www.worldslastchance.com/audio/free-sop-audio-downloads/en">Free SOP downloads (text &amp; audio)</a></li>
                 </ul>            
 			<!--                         
             </div>
@@ -386,15 +277,16 @@
             -->
                 <span class="span-accordion"><h3>Luni-solar Truth</h3></span>
                 <ul class="menu menu-lunisolar">
-                    <li><a href="http://www.worldslastchance.com/calendar-app-qa">Calendar App: Q&amp;A</a></li>
-                    <li><a href="http://www.worldslastchance.com/worship-and-job-conflicts">Worship &amp; Job Conflicts</a></li>
-                    <li><a href="http://www.worldslastchance.com/lunisolarcalendar/web/WlcWeb.html"><span class="bg ">Luni-Solar Calendar App</span></a></li>
-                    <li><a href="http://www.worldslastchance.com/luni-solar-calendar-with-feasts-days.html">Calendar with Feast Days</a></li>
-                    <li><a href="http://www.worldslastchance.com/wlc-challenge.html">The WLC Sabbath Challenge</a></li>
-                    <li><a href="http://www.worldslastchance.com/printable-luni-solar-calendar.html">Printable Luni-Solar Calendar</a></li>
-                    <li><a href="http://www.worldslastchance.com/lunisolar-you-ask-we-answer">Luni-Solar: You Ask, We Answer</a></li>
-                    <li><a href="http://www.worldslastchance.com/yahuwahs-calendar/new-moon-day-the-dawn-after-conjunction.html">New Moon Day: Why the Dawn After Conjunction</a></li>
-                    <li><a href="http://www.worldslastchance.com/testimonies-of-luni-solar-sabbatarians">Testimonies of Luni-solar Keepers</a></li>
+                    <li><a href="https://www.worldslastchance.com/calendar-app-qa">Calendar App: Q&amp;A</a></li>
+                    <li><a href="https://www.worldslastchance.com/worship-and-job-conflicts">Worship &amp; Job Conflicts</a></li>
+                    <li><a href="https://www.worldslastchance.com/lunisolarcalendar/web/WlcWeb.html"><span class="bg ">Luni-Solar Calendar App</span></a></li>
+                    <li><a href="https://www.worldslastchance.com/yahuwahs-calendar/future-lunarsolar-conjunction-dates.html">Future Conjunction Dates</a></li>
+                    <li><a href="https://www.worldslastchance.com/luni-solar-calendar-with-feasts-days.html">Calendar with Feast Days</a></li>
+                    <li><a href="https://www.worldslastchance.com/wlc-challenge.html">The WLC Sabbath Challenge</a></li>
+                    <li><a href="https://www.worldslastchance.com/printable-luni-solar-calendar.html">Printable Luni-Solar Calendar</a></li>
+                    <li><a href="https://www.worldslastchance.com/lunisolar-you-ask-we-answer">Luni-Solar: You Ask, We Answer</a></li>
+                    <li><a href="https://www.worldslastchance.com/yahuwahs-calendar/new-moon-day-the-dawn-after-conjunction.html">New Moon Day: Why the Dawn After Conjunction</a></li>
+                    <li><a href="https://www.worldslastchance.com/testimonies-of-luni-solar-sabbatarians">Testimonies of Luni-solar Keepers</a></li>
                     
                 </ul>            
 			<!--                         
@@ -403,12 +295,12 @@
             -->
                 <span class="span-accordion"><h3>Specials</h3></span>
                 <ul class="menu menu-special">
-                    <li><a href="http://www.worldslastchance.com/members-forum.html">Forum</a></li>
-                    <li><a href="http://www.worldslastchance.com/dailyquiz">Daily Quiz</a></li>
-                    <li><a href="http://www.worldslastchance.com/survey">Weekly Survey</a></li>
-                    <li><a href="http://www.worldslastchance.com/prophecy-in-news">Prophecy News</a></li>                    
-                    <li><a href="http://www.worldslastchance.com/prayer_request">Prayer Requests</a></li>
-                    <li><a href="http://www.worldslastchance.com/end-time-prophecy/revelation-17-prophecy-of-the-seven-kings-8th-king-identified.html">We Are Living Under the Last Pope</a></li>
+                    <li><a href="https://www.worldslastchance.com/members-forum.html">Forum</a></li>
+                    <li><a href="https://www.worldslastchance.com/dailyquiz">Daily Quiz</a></li>
+                    <li><a href="https://www.worldslastchance.com/survey">Weekly Survey</a></li>
+                    <li><a href="https://www.worldslastchance.com/prophecy-in-news">Prophecy News</a></li>                    
+                    <li><a href="https://www.worldslastchance.com/prayer_request">Prayer Requests</a></li>
+                    <li><a href="https://www.worldslastchance.com/end-time-prophecy/revelation-17-prophecy-of-the-seven-kings-8th-king-identified.html">We Are Living Under the Last Pope</a></li>
                 </ul>            
 			<!--                         
             </div>
@@ -416,10 +308,10 @@
             -->
                 <span class="span-accordion"><h3>Technical</h3></span>
                 <ul class="menu menu-">
-                    <li><a href="http://www.worldslastchance.com/site-map.html">Site Map</a></li>
-                    <li><a href="http://www.worldslastchance.com/privacy-policy.html">Privacy Policy</a></li>
-                    <li><a href="http://www.worldslastchance.com/terms-of-service.html">Terms of Service</a></li>
-                    <li><a href="http://www.worldslastchance.com/rules-of-conduct.html">Rules of Conduct</a></li>                    
+                    <li><a href="https://www.worldslastchance.com/site-map.html">Site Map</a></li>
+                    <li><a href="https://www.worldslastchance.com/privacy-policy.html">Privacy Policy</a></li>
+                    <li><a href="https://www.worldslastchance.com/terms-of-service.html">Terms of Service</a></li>
+                    <li><a href="https://www.worldslastchance.com/rules-of-conduct.html">Rules of Conduct</a></li>                    
                 </ul>            
             </div>
         </div>
@@ -456,7 +348,7 @@
             <script type="text/javascript">
                 (function() {
                     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                    po.src = 'http://apis.google.com/js/plusone.js';
+                    po.src = 'https://apis.google.com/js/plusone.js';
                     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
                 })();
             </script>
@@ -467,7 +359,7 @@
     <div class="mod-default">
         <div id="breadcrumbs"> 
     <span class="breadcrumbs">
-    	<a href="http://www.worldslastchance.com/">Home</a>
+    	<a href="https://www.worldslastchance.com/">Home</a>
     	<span class="current">Privacy Policy</span>
 	</span>
     </div>
@@ -476,7 +368,7 @@
         <div class="headline">
             <div class="icons">
               <!--<div class="sharethis">  </div> -->
-                <div class="icon print"> <a title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=800,height=600,directories=no,location=no'); return false;" href="http://www.worldslastchance.com/privacy-policy/print.html">&nbsp;</a> 
+                <div class="icon print"> <a title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=800,height=600,directories=no,location=no'); return false;" href="https://www.worldslastchance.com/privacy-policy/print.html">&nbsp;</a> 
                 </div>
 
                          
@@ -494,11 +386,11 @@
             <a class="addthis_button_pinterest_pinit"></a>
             <a class="addthis_counter addthis_pill_style"></a>
             </div>
-            <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-501f45a74cf8e9e1"></script>
+            <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-501f45a74cf8e9e1"></script>
             <!-- AddThis Button END -->
         </div>        
 
-        <p><strong><img alt="" title="" src="images/stories/privacy-policy.jpg" height="119" align="left" width="159">WorldsLastChance</strong><strong><sup>®</sup></strong><strong>.com</strong>
+        <p><strong><img alt="" title="" src="images/stories/privacy-policy.jpg" align="left" height="119" width="159">WorldsLastChance</strong><strong><sup>®</sup></strong><strong>.com</strong>
 ("<strong>WorldsLastChance.com</strong>",
 "we",
 or, "us")
@@ -536,7 +428,7 @@ Your Profile &amp; Notifications" button. &nbsp;Here you can also easily change 
 <li>Click on "Unsubscribe" in any email that you receive from World's Last Chance and you will be unsubscribed from that mail stream.</li>
 <li>If you are a member of WLC: &nbsp;go to your <a title="" href="http://www.worldslastchance.com/community"><u>Profile</u></a>, select "Edit Profile &amp; Notifications", and select "NO" for one or both options of receiving mail.</li>
 <li>Go to <a title="" href="http://www.worldslastchance.com/contact-us"><u>Contact Us</u></a> and request to be removed from any or all mail streams.</li>
-<li>Email us at <a title="" href="mailto:updates@worldslastchance.com"><u>updates@worldslastchance.com</u></a> and request to be unsubscribed from any or all mail streams.&nbsp;</li>
+<li>Email us at <a title="" href="mailto:updates@worldslastchance.com"><u>abuse@worldslastchance.com</u></a> and request to be unsubscribed from any or all mail streams.&nbsp;</li>
 <li>Write to us at:&nbsp;
 World's Last Chance&nbsp;| &nbsp;Sun Terrace House, Golden Rock &nbsp;| &nbsp;Liburd's Estate &nbsp;| &nbsp;Nevis, Saint Kitts and Nevis -&nbsp;and&nbsp;request to be unsubscribed from any or all mail streams&nbsp;.</li>
 <li>Call us at:&nbsp;<strong><font color="#0000ff">+1-869-469-3728</font></strong>&nbsp;-&nbsp;and request to be unsubscribed from any or all mail streams.</li></ol>WLC deeply respects your privacy and we will only send you the mail for which you opt-in or subscribe. &nbsp;<br>
@@ -548,7 +440,7 @@ Please do not hesitate to <a title="" href="http://www.worldslastchance.com/cont
 <p style="font-size: 12px; line-height: 18px"><font face="Arial"><strong>WorldsLastChance.com</strong>&nbsp;uses reasonable security methods to protect the data that resides on our server[s]. However, no security system is impenetrable.<strong>WorldsLastChance.com</strong>&nbsp;cannot warrant or guarantee the security of its server[s], nor can it guarantee that information that you supply will not be intercepted while being transmitted to&nbsp;<strong>WorldsLastChance.com</strong>&nbsp;over the Internet.<br>
 <br></font></p>
 <h4><font face="Georgia"><strong>How To Contact Us</strong></font></h4>
-<p>Should you have any questions or concerns about the Policy, please send an e-mail to&nbsp;<u><a href="mailto:privacy@WorldsLastChance.com">privacy@WorldsLastChance.com.</a></u></p>
+<p>Should you have any questions or concerns about the Policy, please send an e-mail to <u><a href="mailto:privacy@WorldsLastChance.com">abuse@WorldsLastChance.com.</a></u></p>
 <p><strong>World's Last Chance<sup>®</sup>&nbsp; | &nbsp;Sun Terrace House, Golden Rock &nbsp;| &nbsp;Liburd's Estate &nbsp;| &nbsp;Nevis, Saint Kitts and Nevis &nbsp;| <font color="#0000ff"><span>+1-869-469-3728</span></font></strong></p>
 <p align="left">Thank you, kindly.<br>
 <br></p>
@@ -556,7 +448,7 @@ Please do not hesitate to <a title="" href="http://www.worldslastchance.com/cont
 <div align="center"><font face="Times New Roman" size="1">World's Last Chance<sup>®</sup> and WLC<sup>®</sup> are both registered Trademarks with the United States Patent and Trademark Office.</font></div></div>
          <div class="commentBlogView" style="float:right">
             <div class="show-hit">
-                Hits: 72228            </div>
+                Hits: 77826            </div>
          </div>                
 
     </div>
@@ -564,7 +456,7 @@ Please do not hesitate to <a title="" href="http://www.worldslastchance.com/cont
     <script type="text/javascript">
         function showcomment(option,id) {
           $("#comment_wrapper").html("<p><img src='https://c637755.ssl.cf2.rackcdn.com/assets/images/ajax-loader.gif' /></p>");
-          $("#comment_wrapper").load("http://www.worldslastchance.com/comment/viewcomment/"+option+"/"+id);  
+          $("#comment_wrapper").load("https://www.worldslastchance.com/comment/viewcomment/"+option+"/"+id);  
         }
         $(document).ready(function () {
             showcomment("com_content",311);
@@ -576,90 +468,80 @@ Please do not hesitate to <a title="" href="http://www.worldslastchance.com/cont
                     
 </div>
 
-<div class="button-position-menu"><img src="http://www.worldslastchance.com/assets/images/front/icon_menu_left.png"></div>
+<div class="button-position-menu"><img src="https://www.worldslastchance.com/assets/images/front/icon_menu_left.png"></div>
 
 <!-- Start Menu left -->
 <div class="fixfloat" id="position-menu">	<!-- footer-menu-mobile -->
     <div class="moduletable_menu">
         <span class="span-accordion"><h3>World's Last Chance</h3></span>
         <ul class="menu menu-wlc">
-            <li><a class="first" href="http://www.worldslastchance.com/contact-us">Contact Us</a></li>
-            <li><a href="http://www.worldslastchance.com/about-us/wlc.html">WLC</a></li>
-            <li><a href="http://www.worldslastchance.com/about-us/mission.html">Mission</a></li>
-            <li><a href="http://www.worldslastchance.com/about-us/background.html">Background</a></li>                                
-            <li><a href="http://www.worldslastchance.com/about-us/our-25-beliefs.html">Our 25 Beliefs</a></li>
-            <li><a href="http://www.worldslastchance.com/about-us/why-the-name.html">Why the Name?</a></li>
-            <li><a href="http://www.worldslastchance.com/founders-headquarters.html">Founders &amp; Headquarters</a></li>                                                                                  
-            <li><a class="last" href="http://www.worldslastchance.com/why-yahuwah-a-yahushua-only.html">Why Yahuwah &amp; Yahushua Only</a></li>
-            <li><a href="http://www.worldslastchance.com/yahuwahs-calendar/the-way-divides.html">Why No Longer Saturday keepers</a></li>
+            <li><a class="first" href="https://www.worldslastchance.com/contact-us">Contact Us</a></li>
+            <li><a href="https://www.worldslastchance.com/about-us/wlc.html">WLC</a></li>
+            <li><a href="https://www.worldslastchance.com/about-us/mission.html">Mission</a></li>
+            <li><a href="https://www.worldslastchance.com/about-us/background.html">Background</a></li>                                
+            <li><a href="https://www.worldslastchance.com/about-us/our-25-beliefs.html">Our 25 Beliefs</a></li>
+            <li><a href="https://www.worldslastchance.com/about-us/why-the-name.html">Why the Name?</a></li>
+            <li><a href="https://www.worldslastchance.com/founders-headquarters.html">Founders &amp; Headquarters</a></li>                                                                                  
+            <li><a class="last" href="https://www.worldslastchance.com/why-yahuwah-a-yahushua-only.html">Why Yahuwah &amp; Yahushua Only</a></li>
+            <li><a href="https://www.worldslastchance.com/yahuwahs-calendar/the-way-divides.html">Why No Longer Saturday keepers</a></li>
         </ul>
-         
+             
     </div>
     <div class="moduletable_menu">
-            <span class="span-accordion"><h3>Resources</h3></span>
+                <span class="span-accordion"><h3>Resources</h3></span>
         <ul class="menu menu-resources">
-            <li><a href="http://www.worldslastchance.com/qa">Q&amp;A</a></li>
-            <li><a href="http://www.worldslastchance.com/baptism-registration.html">Baptism</a></li>
-            <li><a href="http://www.worldslastchance.com/for-sdas-only">For SDAs Only</a></li>
-            <li><a href="http://www.worldslastchance.com/christian-poetry.html">Christian Poetry</a></li>
-            <li><a href="http://www.worldslastchance.com/home-churches.html">Home Ekklesia</a></li>
-            <li><a href="http://www.worldslastchance.com/videos/non-wlc-videos">Non-WLC Videos</a></li>
-            <li><a href="http://www.worldslastchance.com/bible-answers-and-more">Bible Answers and More</a></li>                    
-            <li><a href="http://www.worldslastchance.com/get-out-of-her-my-people">Get out of her, My people!</a></li>                    
-            <li><a href="http://www.worldslastchance.com/topical-biblical-studies">Topical Biblical Studies (eBooks)</a></li>
-            <li><a href="http://www.worldslastchance.com/the-kjv-audio-bible.html">Free KJV Bible download (audio)</a></li>
-            <li><a href="http://www.worldslastchance.com/the-pilgrims-progress.html">Free Pilgrim's Progress I (audio)</a></li>
-            <li class="parent"><a href="http://www.worldslastchance.com/christiana.html">Free Pilgrim's Progress II (audio)</a></li>
-            <li class="last parent separator"><span class="last parent separator">Free SOP downloads (text &amp; audio):</span>
-                <ul>
-                    <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/en">English</a></li>
-                    <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/pt">Português</a></li>
-                    <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/sp">Español</a></li>
-                    <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/sr">Cpпски</a></li>
-                    <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/ru">Русский</a></li>
-                    <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/he">עברית</a></li>
-                    <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/fr">Français</a></li>
-                    <li><a href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/cn">中文</a></li>
-                    <li class="last"><a class="last" href="http://www.worldslastchance.com/audio/free-sop-audio-downloads/ro">Română</a></li>
-                </ul>
-            </li>
+            <li><a href="https://www.worldslastchance.com/qa">Q&amp;A</a></li>
+            <li><a href="https://www.worldslastchance.com/baptism-registration.html">Baptism</a></li>
+            <li><a href="https://www.worldslastchance.com/for-sdas-only">For SDAs Only</a></li>
+            <li><a href="https://www.worldslastchance.com/christian-poetry.html">Christian Poetry</a></li>
+            <li><a href="https://www.worldslastchance.com/home-churches.html">Home Ekklesia</a></li>
+            <li><a href="https://www.worldslastchance.com/videos/non-wlc-videos">Non-WLC Videos</a></li>
+            <li><a href="https://www.worldslastchance.com/about-us/wlc-content-directory.html">WLC Content Directory</a></li>
+            <li><a href="https://www.worldslastchance.com/bible-answers-and-more">Bible Answers and More</a></li>                    
+            <li><a href="https://www.worldslastchance.com/get-out-of-her-my-people">Get out of her, My people!</a></li>                    
+            <li><a href="https://www.worldslastchance.com/topical-biblical-studies">Topical Biblical Studies (eBooks)</a></li>
+            <li><a href="https://www.worldslastchance.com/the-kjv-audio-bible.html">Free KJV Bible download (audio)</a></li>
+            <li><a href="https://www.worldslastchance.com/the-pilgrims-progress.html">Free Pilgrim's Progress I (audio)</a></li>
+            <li class="parent"><a href="https://www.worldslastchance.com/christiana.html">Free Pilgrim's Progress II (audio)</a></li>
+            <li class="last parent"><a href="https://www.worldslastchance.com/audio/free-sop-audio-downloads/en">Free SOP downloads (text &amp; audio)</a></li>
         </ul>            
     </div>
     <div class="moduletable_menu">
         <span class="span-accordion"><h3>Luni-solar Truth</h3></span>
         <ul class="menu menu-lunisolar">
-            <li><a href="http://www.worldslastchance.com/calendar-app-qa">Calendar App: Q&amp;A</a></li>
-            <li><a href="http://www.worldslastchance.com/worship-and-job-conflicts">Worship &amp; Job Conflicts</a></li>
-            <li><a href="http://www.worldslastchance.com/lunisolarcalendar/web/WlcWeb.html"><span class="bg ">Luni-Solar Calendar App</span></a></li>
-            <li><a href="http://www.worldslastchance.com/luni-solar-calendar-with-feasts-days.html">Calendar with Feast Days</a></li>
-            <li><a href="http://www.worldslastchance.com/wlc-challenge.html">The WLC Sabbath Challenge</a></li>
-            <li><a href="http://www.worldslastchance.com/printable-luni-solar-calendar.html">Printable Luni-Solar Calendar</a></li>
-            <li><a href="http://www.worldslastchance.com/lunisolar-you-ask-we-answer">Luni-Solar: You Ask, We Answer</a></li>
-            <li><a href="http://www.worldslastchance.com/yahuwahs-calendar/new-moon-day-the-dawn-after-conjunction.html">New Moon Day: Why the Dawn After Conjunction</a></li>
-            <li><a href="http://www.worldslastchance.com/testimonies-of-luni-solar-sabbatarians">Testimonies of Luni-solar Keepers</a></li>
+            <li><a href="https://www.worldslastchance.com/calendar-app-qa">Calendar App: Q&amp;A</a></li>
+            <li><a href="https://www.worldslastchance.com/worship-and-job-conflicts">Worship &amp; Job Conflicts</a></li>
+            <li><a href="https://www.worldslastchance.com/lunisolarcalendar/web/WlcWeb.html"><span class="bg ">Luni-Solar Calendar App</span></a></li>
+            <li><a href="https://www.worldslastchance.com/yahuwahs-calendar/future-lunarsolar-conjunction-dates.html">Future Conjunction Dates</a></li>
+            <li><a href="https://www.worldslastchance.com/luni-solar-calendar-with-feasts-days.html">Calendar with Feast Days</a></li>
+            <li><a href="https://www.worldslastchance.com/wlc-challenge.html">The WLC Sabbath Challenge</a></li>
+            <li><a href="https://www.worldslastchance.com/printable-luni-solar-calendar.html">Printable Luni-Solar Calendar</a></li>
+            <li><a href="https://www.worldslastchance.com/lunisolar-you-ask-we-answer">Luni-Solar: You Ask, We Answer</a></li>
+            <li><a href="https://www.worldslastchance.com/yahuwahs-calendar/new-moon-day-the-dawn-after-conjunction.html">New Moon Day: Why the Dawn After Conjunction</a></li>
+            <li><a href="https://www.worldslastchance.com/testimonies-of-luni-solar-sabbatarians">Testimonies of Luni-solar Keepers</a></li>
 
         </ul>            
-         
+             
     </div>
     <div class="moduletable_menu">
-            <span class="span-accordion"><h3>Specials</h3></span>
+                <span class="span-accordion"><h3>Specials</h3></span>
         <ul class="menu menu-special">
-            <li><a href="http://www.worldslastchance.com/members-forum.html">Forum</a></li>
-            <li><a href="http://www.worldslastchance.com/dailyquiz">Daily Quiz</a></li>
-            <li><a href="http://www.worldslastchance.com/survey">Weekly Survey</a></li>
-            <li><a href="http://www.worldslastchance.com/prophecy-in-news">Prophecy News</a></li>                    
-            <li><a href="http://www.worldslastchance.com/prayer_request">Prayer Requests</a></li>
-            <li><a href="http://www.worldslastchance.com/end-time-prophecy/revelation-17-prophecy-of-the-seven-kings-8th-king-identified.html">We Are Living Under the Last Pope</a></li>
+            <li><a href="https://www.worldslastchance.com/members-forum.html">Forum</a></li>
+            <li><a href="https://www.worldslastchance.com/dailyquiz">Daily Quiz</a></li>
+            <li><a href="https://www.worldslastchance.com/survey">Weekly Survey</a></li>
+            <li><a href="https://www.worldslastchance.com/prophecy-in-news">Prophecy News</a></li>                    
+            <li><a href="https://www.worldslastchance.com/prayer_request">Prayer Requests</a></li>
+            <li><a href="https://www.worldslastchance.com/end-time-prophecy/revelation-17-prophecy-of-the-seven-kings-8th-king-identified.html">We Are Living Under the Last Pope</a></li>
         </ul>            
-         
+             
     </div>
     <div class="moduletable_menu">
-            <span class="span-accordion"><h3>Technical</h3></span>
+                <span class="span-accordion"><h3>Technical</h3></span>
         <ul class="menu menu-">
-            <li><a href="http://www.worldslastchance.com/site-map.html">Site Map</a></li>
-            <li><a href="http://www.worldslastchance.com/privacy-policy.html">Privacy Policy</a></li>
-            <li><a href="http://www.worldslastchance.com/terms-of-service.html">Terms of Service</a></li>
-            <li><a href="http://www.worldslastchance.com/rules-of-conduct.html">Rules of Conduct</a></li>
+            <li><a href="https://www.worldslastchance.com/site-map.html">Site Map</a></li>
+            <li><a href="https://www.worldslastchance.com/privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="https://www.worldslastchance.com/terms-of-service.html">Terms of Service</a></li>
+            <li><a href="https://www.worldslastchance.com/rules-of-conduct.html">Rules of Conduct</a></li>
         </ul>            
     </div>
 </div>
@@ -669,7 +551,7 @@ Please do not hesitate to <a title="" href="http://www.worldslastchance.com/cont
 
 <div id="social">
     <div class="follow-twitter">
-        <a href="http://www.twitter.com/WLC_Team" target="_blank"><img src="http://www.worldslastchance.com/assets/images/front/twitter.png" alt="Follow WLC_Team on Twitter"></a>                    
+        <a href="http://www.twitter.com/WLC_Team" target="_blank"><img src="https://www.worldslastchance.com/assets/images/front/twitter.png" alt="Follow WLC_Team on Twitter"></a>                    
     </div>         
     <div class="like-facebook">
 
@@ -689,7 +571,7 @@ Please do not hesitate to <a title="" href="http://www.worldslastchance.com/cont
         <a href="#page" class="anchor"></a>
         <div class="copyright">
             A Biblically-based community focused on prophetic truths revealing the imminent return of the Saviour.<br>
-            Copyright © 2004-2014 by World's Last Chance<sup>®</sup>. World’s Last Chance and WLC are both registered trademarks with the U.S. Patent &amp; Trademark Office.
+            Copyright © 2004-2015 by World's Last Chance<sup>®</sup>. World’s Last Chance and WLC are both registered trademarks with the U.S. Patent &amp; Trademark Office.
         </div>
     </div>   
 </div>
@@ -698,61 +580,223 @@ Please do not hesitate to <a title="" href="http://www.worldslastchance.com/cont
 </div></div>
 <div id="space"></div>
 
+<script>
+
+    $(document).ready(function () {
+        $(".lightbox").colorbox();
+
+        $(".lightbox-width").colorbox({width: "650px", height: "420px", maxWidth: "90%"});
+
+        var working = false;
+        /* Listening for the submit event of the form: */
+        $('#login-form-header').submit(function (e) {
+            e.preventDefault();
+            if (working)
+                return false;
+
+            working = true;
+            $('#loginbtn').val('Processing ...');
+
+
+            $.post('https://www.worldslastchance.com/user/dologin', $(this).serialize(), function (msg) {
+
+                working = false;
+                $('#loginbtn').val('Login');
+
+                if (msg.status) {
+                    //alert(msg.html);
+                    if (msg.html.length) {
+                        window.location = msg.html;
+                    }
+                    else {
+                        window.location.reload();
+                    }
+                }
+                else {
+
+                    $.each(msg.errors, function (k, v) {
+                        if (k == 'commonerror') {
+                            $('#commonerror').append('<span class="error">' + v + '</span>');
+                        }
+                        else {
+                            //$('#response-'+k).append('<span class="error">'+v+'</span>');
+                            if (v == "The account is not activated yet") {
+                                if (confirm("The account is not activated yet. Would you like to request new activation email?")) {
+                                    self.location = "https://www.worldslastchance.com/user/resend_activecode";
+                                }
+                            }
+                            else
+                                alert(v);
+                        }
+                    });
+                }
+            }, 'json');
+
+        });
+    });
+
+    $(function () {
+        $(".tooltips").ezpz_tooltip({contentPosition: 'belowRightFollow'});
+        $(".left_tooltips").ezpz_tooltip({contentPosition: 'belowLeftFollow'});
+        $(".top_tooltips").ezpz_tooltip({contentPosition: 'aboveFollow'});
+        $(".bottom_tooltips").ezpz_tooltip({contentPosition: 'belowFollow'});
+    });
+
+    $(function () {
+        $("#tabs").tabs();
+        $("#tabart").tabs();
+
+        $("#producttabs").tabs({
+            event: "mouseover"
+        });
+    });
+
+    $(function () {
+        $(".toggler").accordion({
+            autoheight: true,
+            collapsible: true,
+            active: false
+        });
+    });
+
+    $(function () {
+        $("#accordion").accordion({
+            clearStyle: true,
+            collapsible: true,
+            active: false
+        });
+    });
+
+    $(document).ready(function () {
+        $('a[href=#page]').click(function () {
+            $('html, body').animate({scrollTop: 0}, 'slow');
+            return false;
+        });
+
+    });
+    function logout()
+    {
+        if (confirm("Are you sure?"))
+        {
+            var oParam = new Object();
+            $.post(base_url + 'user/logout', oParam, function (data) {
+                if (data.success) {
+                    window.location.reload();
+                } else {
+                    alert("An error occurred.");
+                }
+            }, "json");
+        }
+    }
+
+    function OpenInTab(url) {
+        self.location = url;
+    }
+
+    function OpenInNewTab(url) {
+        var win = window.open(url, '_blank');
+        win.focus();
+    }
+    function getCenteredCoords(width, height) {
+        var xPos = null;
+        var yPos = null;
+        if (window.ActiveXObject) {
+            xPos = window.event.screenX - (width / 2) + 100;
+            yPos = window.event.screenY - (height / 2) - 100;
+        } else {
+            var parentSize = [window.outerWidth, window.outerHeight];
+            var parentPos = [window.screenX, window.screenY];
+            xPos = parentPos[0] +
+                    Math.max(0, Math.floor((parentSize[0] - width) / 2));
+            yPos = parentPos[1] +
+                    Math.max(0, Math.floor((parentSize[1] - (height * 1.25)) / 2));
+        }
+        return [xPos, yPos];
+    }
+
+
+    window.fbAsyncInit = function () {
+
+        FB.init({
+            appId: '309905385764348', // App ID
+            //channelUrl : '//dev.alo.com/facebook/channel/', // Channel File
+            status: true, // check login status
+            cookie: true, // enable cookies to allow the server to access the session
+            xfbml: true, // parse XFBML
+            frictionlessRequests: true,
+            version: 'v2.1'
+        });
+    };
+    // Load the SDK Asynchronously
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {
+            return;
+        }
+        js = d.createElement(s);
+        js.id = id;
+        js.async = true;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+</script>
+
 <div id="search-content-mobile">
-	<gcse:search></gcse:search>
+    <gcse:search></gcse:search>
 </div>
 
 
 <script>
-    $(".btnMenu_mobile").click(function() {
+    $(".btnMenu_mobile").click(function () {
         $("#menu").slideToggle("fast");
     });
-	$(".button-position-menu").click(function () {
-		$("#position-menu").slideToggle("fast");
-	});	
-    $(".mobile-block-atab").click(function() {
+    $(".button-position-menu").click(function () {
+        $("#position-menu").slideToggle("fast");
+    });
+    $(".mobile-block-atab").click(function () {
         $(".article-tab-mobile").slideToggle("fast");
     });
-    $(".mobile-block-vtab").click(function() {
+    $(".mobile-block-vtab").click(function () {
         $(".video-tab-mobile").slideToggle("fast");
     });
-    $(".mobile-prophecy-menu-timeline").click(function() {
+    $(".mobile-prophecy-menu-timeline").click(function () {
         $("#prophecy-in-news .section-description").slideToggle("fast");
     });
 </script>
-    <script defer="" async="" type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script>
+    <script defer="" async="" type="text/javascript" src="https://assets.pinterest.com/js/pinit.js"></script>
 <div id="fb-root"></div>
 
 <!--
 <script type="text/javascript" src="//www.google.com/jsapi"></script>
 <script type="text/javascript">
-	google.load('search', '1');
-	google.setOnLoadCallback(function() {
-		google.search.CustomSearchControl.attachAutoCompletion(
-		'005570767600770218818:rqrfs3h3qeo',
-		document.getElementById('q'),
-		'cse-search-box');
-	});
+        google.load('search', '1');
+        google.setOnLoadCallback(function() {
+                google.search.CustomSearchControl.attachAutoCompletion(
+                '005570767600770218818:rqrfs3h3qeo',
+                document.getElementById('q'),
+                'cse-search-box');
+        });
 </script>
 -->
 
 <script>
-  (function() {
-    var cx = '000993172113723111222:kj7-onlwmho';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//www.google.com/cse/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
+    (function () {
+        var cx = '000993172113723111222:kj7-onlwmho';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                '//www.google.com/cse/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+    })();
 </script>
 
 <script>
-	$("#search-button-mobile").click(function () {
-	$("#search-content-mobile").slideToggle("fast");
-	});
+    $("#search-button-mobile").click(function () {
+        $("#search-content-mobile").slideToggle("fast");
+    });
 </script>
 
 <script type="text/javascript">
@@ -760,7 +804,7 @@ Please do not hesitate to <a title="" href="http://www.worldslastchance.com/cont
     _gaq.push(['_setAccount', 'UA-7714890-1']);
     _gaq.push(['_trackPageview']);
 
-    (function() {
+    (function () {
         var ga = document.createElement('script');
         ga.type = 'text/javascript';
         ga.async = true;
