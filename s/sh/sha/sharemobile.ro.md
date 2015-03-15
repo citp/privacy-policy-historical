@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharemobile.ro privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112422id_/http%3A//sharemobile.ro/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharemobile.ro privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011635id_/http%3A//sharemobile.ro/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,3 +17,5 @@ From time to time, we may use customer information for new, unanticipated uses n
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
+
+[](http://www.siteprice.org/website-worth/www.sharemobile.ro)
