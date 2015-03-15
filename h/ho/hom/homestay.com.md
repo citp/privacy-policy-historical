@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the homestay.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175113id_/http%3A//www.homestay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestay.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315104620id_/https%3A//www.homestay.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ### Definitions
 
-**Website** : [http://www.homestay.com](http://www.homestay.com/) and any other website(s) through which Homestay Technologies Limited (Irish registered company number 505065) provides the Services
+**Website** : [https://www.homestay.com](https://www.homestay.com/) and any other website(s) through which Homestay Technologies Limited (Irish registered company number 505065) provides the Services
 
 **Services** : the online business solution and associated services provided by Homestay Technologies Limited that facilitates the booking of overnight Host Family accommodation
 
@@ -39,6 +39,10 @@ We use the non-personal data gathered from visitors to the Website in an aggrega
 #### Cookies
 
 The Website uses 'cookie' technology. A cookie is a piece of text stored by the browser on your computer at the request of our server. We may use cookies to deliver content specific to your interests and/or to save your personal preferences so you do not have to re-enter them each time you connect to the Website - our cookies are not available to other websites. Cookies are used on the Website to facilitate users in accessing their accounts and keep your session (i.e. to prevent the system to ask for a login at every page). No personal information is recorded, and the cookie is automatically invalidated when you explicitly log out of the system. You are always free to ask your browser to indicate when a cookie is being sent, if your browser permits. Note that if you decline our cookies the Website will not be accessible to you.
+
+### Video Call / Voice Call
+
+The Website uses a third party provider to facilitate the use of Video Call / Voice Call for both hosts and guests. We will not disclose any user data derived from any user’s usage of the Video Call service (including without limitation, chat logs, contact information or IP addresses) other than in compliance with our Website privacy policy.
 
 ### Credit and Debit Card Details
 
