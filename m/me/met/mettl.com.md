@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mettl.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702175035id_/https%3A//mettl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mettl.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315052458id_/https%3A//mettl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Mettl.com
+# Privacy Policy - Mettl.com
 
 At Mettl, we respect your need for online privacy and protect any Personal Information that you may share with us, in an appropriate manner. Our practice as regards to the use of your Personal Information is as set forth below in this Privacy Policy. As a condition to use of Mettl Services, you consent to the terms of the Privacy Policy as it may be updated from time to time. In the event of a material change, we shall notify you via email or by means of a prominent notice on the website prior to the change becoming effective . This Privacy Policy applies exclusively to[ www.mettl.com.](http://www.mettl.com/)
 
@@ -73,7 +73,7 @@ The use of cookies by our partners, affiliates, tracking utility company, servic
 
 We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/) . Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-(Google AdSense/Adwords) We use Google Adwords only to publish ads on this Web site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google'sâ¢ Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
+(Google AdSense/Adwords) We use Google Adwords only to publish ads on this Web site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google's™ Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
 
 ## USE AND DISCLOSURE OF INFORMATION
 
@@ -144,7 +144,7 @@ We display personal testimonials of satisfied customers on our Web site in addit
 
 ## REFERRALS
 
-If you choose to use our referral service to invite a user about our Web site, we will ask you for your friendâÃ¢s name and email address. We will automatically send your friend's a one-time email inviting him or her to visit the site. Induslynk Training Services Private Limited stores this information for the sole purpose of sending this one-time email and tracking the success of our invite user program. Your friend may contact us at privacy@mettl.com to request that we remove this information from our database.
+If you choose to use our referral service to invite a user about our Web site, we will ask you for your friend’âs name and email address. We will automatically send your friend's a one-time email inviting him or her to visit the site. Induslynk Training Services Private Limited stores this information for the sole purpose of sending this one-time email and tracking the success of our invite user program. Your friend may contact us at privacy@mettl.com to request that we remove this information from our database.
 
 ## COLLECTION AND USE OF 3RD PARTY PERSONAL INFORMATION
 
@@ -179,8 +179,8 @@ By using this Web Site, you accept our privacy practices, as outlined in this Pr
 If you have questions or concerns about this Privacy Policy, please contact us through the information below:
 
 Induslynk Training Services Private Limited   
-Mettl, B-401, Global Business Park, MG Road,  
-Gurgaon, Haryana, India, 122002  
+Mettl, Plot No. 97, Ground Floor,  
+Sec 44, Gurgaon, India, 122002  
 +91 - 124 - 3220914 (Office)  
 +91 - 92666 - 38808 (Sales)  
 +91 - 82878 - 03040 (Support) Email: privacy@mettl.com
