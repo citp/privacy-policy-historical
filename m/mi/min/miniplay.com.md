@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miniplay.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022115128id_/http%3A//www.miniplay.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniplay.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315072133id_/http%3A//www.miniplay.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -18,7 +18,7 @@ In order to complete any of the aforementioned actions, a copy of your official 
 
 Your data shall be confidential, and shall not be transferred to third parties unless you have stated your express agreement thereon. Nonetheless, we might be compelled by law to transfer your data without prior consent to certain authorities. Should this occur, the transfer will be executed pursuant to what is set forth in the law.
 
-## Paid Services
+Paid Services
 
 In order to successfully complete certain actions, particularly payment processes, the User can utilize third-party services unrelated to Moosite, S.L., such as PayPal, Toditocash, Paymentwall, DineroMail, etc. These third-party companies are compelled by the law to manage users' data in a safe and confidential way. The operations related to your credit card and/or any other personal details regarding the payment will be processed directly through these third-party companies, so Moosite, S.L. will have no access to your credit card and/or payment details. Before proceeding with the payment, you are recommended to read the corresponding third-party service provider conditions and, if you do not agree to any of them, cancel the payment.
 
@@ -26,7 +26,7 @@ Therefore, the information gathered for Minicoin purchases shall be entered and 
 
 The payment services made available to the User are provided solely by their corresponding owners. Moosite, S.L. does not participate in such operations, and therefore the User is advised to carefully read the agreement conditions stated by the provider of the payment service of the User's choice. Moosite, S.L. is a third party unaffiliated with said agreement.
 
-## Minors' Personal Data Processing
+Minors' Personal Data Processing
 
 The current Spanish legislation makes a difference between minors over 14 years of age and minors under 14 years of age.
 
