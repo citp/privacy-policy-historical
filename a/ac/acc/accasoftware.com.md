@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accasoftware.com privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809205434id_/http%3A//accasoftware.com/en/id42/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accasoftware.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011228id_/http%3A//www.accasoftware.com/en/id42/privacy-policy.html) for the most accurate reproduction.*
 
 # ACCA software S.p.A.
 
