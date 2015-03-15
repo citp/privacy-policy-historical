@@ -1,162 +1,55 @@
-> *The following text is extracted and transformed from the caughtoffside.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007040510id_/http%3A//www.caughtoffside.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caughtoffside.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025103id_/http%3A//www.caughtoffside.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies | CaughtOffside.com
 
-by **peterbevan** July 14th, 2012
+fanatix Privacy Policy
 
-This privacy policy sets out how [CaughtOffside.com](http://www.caughtoffside.com/) uses and protects any information that you give [CaughtOffside.com](http://www.caughtoffside.com/) when you use this website.
+This Privacy Policy describes how and when fanatix collects, uses, and shares your information when you use fanatix, including our mobile applications and websites (the “Services”). fanatix receives your information through our mobile applications, websites, email notifications, and other interactions with our Services. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize fanatix to use your information in the United Kingdom and any other country where fanatix operates.
 
-[CaughtOffside.com](http://www.caughtoffside.com/) is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
-[CaughtOffside.com](http://www.caughtoffside.com/) may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/01/2012.
+Information Collection and Use
 
- **What we collect**
+ **Creating a fanatix Account and Profile Information:**  When you create a fanatix account, you must provide access credentials either in the form of an email address and password or by authentication using another service, such as Facebook. You may optionally provide us with additional profile information, including a short bio, location, and profile picture. If you create your fanatix account by connecting through another service, we may use public information from that connected account to help complete your fanatix profile. You may update or modify your profile information and contact information at any time. Profile information may be available publicly on our Services, such as on your profile page.
 
-We may collect the following information:  
-· name and job title  
-· contact information including email address  
-· demographic information such as postcode, preferences and interests  
-· other information relevant to customer surveys and/or offers
+ **Contact Information:**  In addition to using your contact information to create your account, we may use this information to send you information about our Services, respond to your requests and facilitate your use of the Services. We may use the contact information (such as your phone number or email address) to help connect you with other fanatix users, even if that information is not publicly displayed. Some contact information may be required in order to use certain Services.
 
- **What we do with the information we gather**
+ **Finding Friends and Connecting to Other Services:**  Our Services include several features to help connect you to the accounts of people you already know. For example, you may upload information from your address book or connect your Fanatix account to your account on another service such as Facebook. fanatix will match the information you provide with the contact information of other fanatix users in order to provide and improve the Services, for example by making recommendations and routing fanatix messages. You may remove address book data from Fanatix at any time through the settings in your fanatix app. When you connect your Fanatix account to other services, you are able to post your Content to those services as well. You may disconnect your fanatix account from your account on the other services at any time. Disconnecting your fanatix account will immediately revoke our authorization to cross-post on your behalf or otherwise access that account and we will delete information obtained from that connection (other than information that was publicly posted on fanatix, such as profile information), which may take some time.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+ **Content, Following, and other Public Information:**  fanatix is a social network that enables video sharing, so most of the information you provide us is information that you choose to be made public. This includes not only the Content that you post and data provided with such Content, such as when it was posted, but also the accounts you follow, the Content that you Huddle or comment on, and other public interactions on the Services. Your public information is broadly and instantly disseminated. For instance, your profile information and public Content are immediately delivered to a wide range of users and other services that access fanatix. When you share information or Content via the Services, you should think carefully about what you are making public.
 
-· Internal record keeping.  
-· We may use the information to improve our products and services.  
-· We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  
-· From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+ **Location Information:**  In addition to profile information, you may also tell us your exact location if you choose to enable your computer or mobile device to send us location information. We may use and store information about your location to provide features of our Services, such as tagging a video with a location, and to improve and customize the Services, for example, with Content that has been tagged near your location.
 
- **Security**
+ **Links:**  We may keep track of how you interact with links across our Services, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Services, for example to provide relevant advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+ **Cookies:**  Like many websites, we use “cookie” technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as viewing public videos. A cookie is a small data file that is transferred to your computer’s hard disk. fanatix may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. If you do not want cookies from fanatix or other websites, you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.
 
- **How we use cookies**
+ **Log Data:**  Our servers automatically record information (“ **Log Data** “) created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services, view videos hosted by Fanatix, or interact with our email notifications. fanatix uses Log Data to provide our Services and to measure, customize, and improve them. If not already done earlier, we will either delete Log Data or remove any common account identifiers, such as your username, full IP address, or email address, after 18 months.
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+ **Third-Party Services:**  fanatix uses a variety of third-party services to help provide our Services, including to host our various blogs and wikis and to help us understand the use of our Services. These third-party service providers may use cookies and other technologies to collect information about your use of our Services and other websites and services, including your IP address, device ID, pages viewed, and links clicked.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+Information Sharing and Disclosure
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.  
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+ **Your Consent:**  We may share or disclose your information at your direction, such as when you choose to publicly post a video or update your profile information.
 
- **Links to other websites**
+ **Service Providers:**  We engage service providers to perform functions and provide services to us in the United Kingdom and abroad. We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacystatement applicable to the website in question.
+ **Law and Harm:**  Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect fanatix’s rights or property. However, nothing in this Privacy Policy is intended to limit any legal defences or objections that you may have to a third party’s, including a government’s, request to disclose your information.
 
- **Controlling your personal information**
+ **Business Transfers:**  In the event that Fanatix is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity.
 
-You may choose to restrict the collection or use of your personal information in the following ways:  
-· whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-· if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info(@)caughtoffside.com
+ **Non-Private or Non-Personal Information:**  We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public user profile information, public posts, the people you follow or that follow you, or the number of users who clicked on a particular link (even if only one did).
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+Modifying Your Personal Information
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us.
+If you are a registered user of our Services, we provide you with tools and account settings to access or modify the profile information you provided to us and associated with your account.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.  
-  
-**How to disable cookies in your browser**
+You can also permanently delete your Fanatix account by emailing deleteaccount@fanatix.com
 
-Here’s how to prevent new cookies from being installed and how to delete existing cookies. The exact procedure depends on which browser you are using.
+Our Policy Towards Children
 
- **Internet Explorer 9.0+**
+Our Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please email help@fanatix.com. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child’s account.
 
- **To prevent new cookies from being installed**
+Changes to this Policy
 
-Go to Tools in the menu bar  
-Click on Internet Options  
-Click on the Privacy tab on top  
-Move the slider up to the “Block all Cookies” button
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at http://www.fanatix.com/privacy-policy. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email address associated with your account or through the Services. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
- **To delete existing cookies**
-
-Go to Tools in the menu bar  
-Click on Internet Options  
-Click on the General tab which should be under “Browsing History” and click “Delete”
-
- **Internet Explorer 8.0+**
-
- **To prevent new cookies from being installed**
-
-Go to Tools in the menu bar  
-Click on Internet Options  
-Click on the Privacy tab on top  
-Click on “Sites”  
-A new window should open called “Per Site Privacy Actions”  
-Type in the URL of the site in the “Address of website” box and click on Block
-
- **To delete existing cookies**
-
-Go to Tools in the menu bar  
-Click on ‘Internet Options’  
-Click on the Privacy tab on top  
-Click on “Sites”  
-A new window should open called “Per Site Privacy Actions”  
-Under the “Managed websites” box should be a list of all the websites you have visited  
-To remove all cookies click on the “Remove all” button
-
- **Internet Explorer 7.0+**
-
- **To prevent new cookies from being installed**
-
-Go to Tools in the menu bar  
-Click on Options  
-Click on the Privacy tab on top  
-Click on the Advanced button  
-Select “Prompt” for both “First party cookies” and “Third Party Cookies”
-
- **To delete existing cookies**
-
-Go to Tools in the menu bar  
-Click on Options  
-Click on the General tab on top  
-In the “Browsing History” section, click on “Delete”  
-Click on “Delete Cookies”
-
- **Firefox 2.0+, 3.0+, 4.0+**
-
- **To prevent new cookies from being installed**
-
-Go to Tools in the menu bar  
-Click on Options  
-Click on the Privacy tab  
-Disable the box that says “Accept Cookies From sites”
-
- **To delete existing cookies**
-
-Go to Tools in the menu bar  
-Click on Options  
-Click on the Privacy tab  
-Click on “Clear Now”  
-Select “Cookies”  
-Click on “Clear Private Data Now”
-
- **Google Chrome**
-
- **To prevent new cookies from being installed**
-
-Click on the spanner icon in the top right of the browser  
-Click on “Options”  
-Click on “Under the Bonnet” (UK) / “Under the Hood” (US)  
-Click on the “Content settings” button in the Privacy section  
-Ensure that “Allow local data to be set” is selected  
-Select “Block sites from setting any data”
-
- **To delete existing cookies**
-
-Click on the spanner icon in the top right of the browser  
-Click on “Options”  
-Click on “Under the Bonnet” (UK) / “Under the Hood” (US)  
-Click on the “Content settings” button in the Privacy section  
-Click on the “Clear browsing data” button
-
- **Safari**
-
- **To prevent new cookies from being installed and delete existing cookies**
-
-Go to the Safari menu (icon in top right of browser) and select Preferences  
-In the popup window that appears, select the Security icon (a padlock)  
-Under “Accept Cookies”, select the “Never” button
-
-  
-
+ _Effective: 17_ _th_ _February 2015_
