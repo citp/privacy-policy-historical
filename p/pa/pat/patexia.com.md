@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patexia.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007072441id_/https%3A//www.patexia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patexia.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315040628id_/https%3A//www.patexia.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Patexia.com
 
