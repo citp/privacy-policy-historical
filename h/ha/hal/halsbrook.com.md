@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the halsbrook.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802222000id_/http%3A//www.halsbrook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halsbrook.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315232653id_/https%3A//www.halsbrook.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Halsbrook
 
 This Privacy Policy was last updated on August 1, 2012.
 
@@ -35,7 +35,7 @@ Non-Identifiable Data: When you interact with Halsbrook through the Site, we rec
 
 In operating this Site, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features.
 
-In addition, this Site may enable the use of the Adobe Flash Player. Adobe’s Flash Player is used by the vast majority of websites that offer video and other interactive content. By default, your use of the Adobe Flash Player generates “flash cookies” (also known as “persistent identification elements” or “local shared objects”). The Adobe Flash Player (and similar applications) use flash cookies to remember user settings, preferences and usage similar to the browser cookies referenced above. You can disable, delete and control the degree to which you accept flash cookies by accessing your Adobe Flash Player management tools directly through the settings manager for Adobe Flash, located[ here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). If you do not allow flash cookies to take any disc space on your computer, you may not be able to take advantage of or participate in certain features on this Site. This Privacy Policy covers the use of cookies, flash cookies, and similar files by Company only and does not cover the use of cookies, flash cookies, and similar files by any third-party advertisers or websites linked to this Site.
+In addition, this Site may enable the use of the Adobe Flash Player. Adobe’s Flash Player is used by the vast majority of websites that offer video and other interactive content. By default, your use of the Adobe Flash Player generates “flash cookies” (also known as “persistent identification elements” or “local shared objects”). The Adobe Flash Player (and similar applications) use flash cookies to remember user settings, preferences and usage similar to the browser cookies referenced above. You can disable, delete and control the degree to which you accept flash cookies by accessing your Adobe Flash Player management tools directly through the settings manager for Adobe Flash, located [ here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). If you do not allow flash cookies to take any disc space on your computer, you may not be able to take advantage of or participate in certain features on this Site. This Privacy Policy covers the use of cookies, flash cookies, and similar files by Company only and does not cover the use of cookies, flash cookies, and similar files by any third-party advertisers or websites linked to this Site.
 
 Aggregated Personal Data: In an ongoing effort to better understand and serve the users of the Halsbrook Services, Halsbrook often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Halsbrook may share this aggregate data with its affiliates, agents, business partners and potential investors. This aggregate information does not identify you personally. Halsbrook may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
@@ -94,11 +94,3 @@ The Site and our business may change from time to time. As a result, at times it
 To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via this Site. Please also feel free to contact us if you have any questions about Halsbrook’s Privacy Policy or the information practices of this Site.
 
 You may contact us as follows: customersupport@halsbrook.com
-
-## Refer A Friend
-
-When you invite a friend to Halsbrook, you both can share in the rewards!
-
-Offer Valid from March 20, 2013 to August 31, 2013. Earned credits expire within 6 months of date of issue.
-
-### Earning Credits:
