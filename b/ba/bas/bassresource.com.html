@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bassresource.com privacy policy that was archived on 2014-08-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140827114104id_/http%3A//www.bassresource.com/fish/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bassresource.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315014828id_/http%3A//www.bassresource.com/fish/Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 <style type="text/css">
@@ -16,13 +16,13 @@
 <meta property="fb:app_id" content="156773251010875">
 	<meta name="Content-Type" content="text/html; charset=utf-8">	<meta name="Content-language" content="en-US">						<meta name="author" content="The Ultimate Bass Fishing Resource Guide">
 		    						<meta name="copyright" content="The Ultimate Bass Fishing Resource Guide">
-		    						<meta name="description" content="">
+		    						<meta name="description" content="">		
 		    						<meta name="keywords" content="">
 		    
 <link rel="canonical" href="http://www.bassresource.com/fish/Privacy.html">
 <meta name="generator" content="All content on this site is copyrighted and protected by U.S. and International law.  You are not authorized to place it on another site or distribute it in another form, and will be successfully prosecuted if you do. Please see the copyright notice at www.bassresource.com/fish/copyright.html to see what you can and cannot do with the content found on this site.">
 
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=5"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
 <!-- Quantcast Tag -->
 
@@ -136,10 +136,88 @@ _qevents.push({
  })();
 
 </script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js" charset="utf-8"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" charset="utf-8"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js" charset="utf-8"></script>
 <script type="text/javascript" src="http://yui.yahooapis.com/3.1.2/build/yui/yui-min.js" charset="utf-8"></script>
 <script type="text/javascript" src="/extension/ezdemo/design/ezdemo/javascript/insertmedia.js" charset="utf-8"></script>
+<script type="text/javascript">
+
+(function($) {
+    var _rootUrl = '/', _serverUrl = _rootUrl + 'ezjscore/', _seperator = '@SEPERATOR$',
+        _prefUrl = _rootUrl + 'user/preferences';
+
+    // FIX: Ajax is broken on IE8 / IE7 on jQuery 1.4.x as it's trying to use the broken window.XMLHttpRequest object
+    if ( window.XMLHttpRequest && window.ActiveXObject )
+        $.ajaxSettings.xhr = function() { try { return new window.ActiveXObject('Microsoft.XMLHTTP'); } catch(e) {} };
+
+    // (static) jQuery.ez() uses jQuery.post() (Or jQuery.get() if post paramer is false)
+    //
+    // @param string callArgs
+    // @param object|array|string|false post Optional post values, uses get request if false or undefined
+    // @param function Optional callBack
+    function _ez( callArgs, post, callBack )
+    {
+        callArgs = callArgs.join !== undefined ? callArgs.join( _seperator ) : callArgs;
+        var url = _serverUrl + 'call/';
+        if ( post )
+        {
+            var _token = '', _tokenNode = document.getElementById('ezxform_token_js');
+            if ( _tokenNode ) _token = _tokenNode.getAttribute('title');
+            if ( post.join !== undefined )// support serializeArray() format
+            {
+                post.push( { 'name': 'ezjscServer_function_arguments', 'value': callArgs } );
+                post.push( { 'name': 'ezxform_token', 'value': _token } );
+            }
+            else if ( typeof(post) === 'string' )// string
+            {
+                post += ( post ? '&' : '' ) + 'ezjscServer_function_arguments=' + callArgs + '&ezxform_token=' + _token;
+            }
+            else // object
+            {
+                post['ezjscServer_function_arguments'] = callArgs;
+                post['ezxform_token'] = _token;
+            }
+            return $.post( url, post, callBack, 'json' );
+        }
+        return $.get( url + encodeURIComponent( callArgs ), {}, callBack, 'json' );
+    };
+    _ez.url = _serverUrl;
+    _ez.root_url = _rootUrl;
+    _ez.seperator = _seperator;
+    $.ez = _ez;
+
+    $.ez.setPreference = function( name, value )
+    {
+        var param = {'Function': 'set_and_exit', 'Key': name, 'Value': value};
+            _tokenNode = document.getElementById( 'ezxform_token_js' );
+        if ( _tokenNode )
+            param.ezxform_token = _tokenNode.getAttribute( 'title' );
+
+        return $.post( _prefUrl, param );
+    };
+
+    // Method version, for loading response into elements
+    // NB: Does not use json (not possible with .load), so ezjscore/call will return string
+    function _ezLoad( callArgs, post, selector, callBack )
+    {
+        callArgs = callArgs.join !== undefined ? callArgs.join( _seperator ) : callArgs;
+        var url = _serverUrl + 'call/';
+        if ( post )
+        {
+            post['ezjscServer_function_arguments'] = callArgs;
+            post['ezxform_token'] = jQuery('#ezxformtoken').attr('title');
+        }
+        else
+            url += encodeURIComponent( callArgs );
+
+        return this.load( url + ( selector ? ' ' + selector : '' ), post, callBack );
+    };
+    $.fn.ez = _ezLoad;
+})(jQuery);
+        
+</script>
 <script type="text/javascript" src="/extension/ezjquerylightbox/design/standard/javascript/jquery.lightbox-0.5.js" charset="utf-8"></script>
 <script type="text/javascript" src="/extension/ezjquerylightbox/design/standard/javascript/jquery.lightbox.function.js" charset="utf-8"></script>
 <script type="text/javascript" src="/extension/jqueryui/design/jqueryui/javascript/jquery.ui.tabs.js" charset="utf-8"></script>
@@ -176,6 +254,49 @@ var YUI3_config = {"modules":{}};
 
 
 <!-- Complete page area: START -->
+	
+<link rel="stylesheet" type="text/css" href="/extension/bassresource/design/bassresource/stylesheets/bass.slideup.css">
+
+<script type="text/javascript" src="/extension/bassresource/design/bassresource/javascript/bass-slideup1.js" charset="utf-8"></script>
+
+
+<section id="bass_slideup">
+	<div class="slideup-content">		
+		<div class="close_link">
+			<a id="closeLink" href="javascript:void(0)" title="Close">Close X</a>
+		</div>
+		<div class="bass-fishing-title">			
+			Newsletter Signup
+		</div>
+		
+		<div class="slideup-newsletter">
+			<div class="slideup-newsletter-text">
+				Awesome, <br>Actionable Fishing Advice, <br>Delivered Weekly
+			</div>
+			<form method="post" name="subscribeform" action="http://www.bassresource.com/newsletter/?p=subscribe&amp;id=1">
+				<div class="block">
+					<div class="element">
+						<input type="hidden" name="formtoken" value="e7d535fcf6a9b4a81c6a579aa17006b4">
+					  	<label for="slide_newsletter_email">Email:</label>
+					  	<input id="slide_newsletter_email" class="searchtext" type="text" name="email" value="" size="20"><script language="Javascript" type="text/javascript">addFieldToCheck("email","Email");</script>
+					  	<label for="slide_newsletter_confirm">Confirm email:</label>
+					  	<input id="slide_newsletter_confirm" type="text" name="emailconfirm" value="" size="20">
+					  	<script language="Javascript" type="text/javascript">addFieldToCheck("emailconfirm","Confirm email");</script>
+					  	<input type="hidden" name="htmlemail" value="1">
+						<input type="hidden" name="list[2]" value="signup">
+						<input type="hidden" name="listname[2]" value="Bass News">
+					</div>
+					<div class="element">
+						<div class="newsletter-button">
+							<input class="button" type="submit" name="subscribe" value="Subscribe" onclick="return checkform();">
+						</div>
+					</div>
+				</div>				
+				<div class="float-break"></div>
+			</form>
+		</div>
+	</div>
+</section>
 
 <div id="page_background">
 <div id="page" class=" section_id_1 subtree_level_0_node_id_2 subtree_level_1_node_id_185 subtree_level_2_node_id_4802">
@@ -367,36 +488,6 @@ var YUI3_config = {"modules":{}};
 								 
 							</li>               
 								            				   	  				                			                										                			                			                		                    <li id="node_id_110" title="Videos" class="mainmenu"><div class="menu-item"><a id="menu_link_110" href="/bass-fishing-videos/"><span>Videos</span></a></div>
-																	<ul id="submenu_110" class="submenu noshow">
-						            													
-			                									                			            			    						                    			            			    						                			            			    			
-						                											<li id="node_id_2740"><div><a href="/bass-fishing-videos/Original-How-To-Fishing-Videos"><span>Original How-To Fishing Videos</span></a></div>
-						                																				</li>
-						            													
-			                									                			            			    						                			            			    			
-						                											<li id="node_id_2741"><div><a href="/bass-fishing-videos/Original-Bass-Pro-Interviews"><span>Original Bass Pro Interviews</span></a></div>
-						                																				</li>
-						            													
-			                									                			            			    						                			            			    			
-						                											<li id="node_id_30045"><div><a href="/bass-fishing-videos/Shaw-Grigsby-Interview-Series"><span>Shaw Grigsby Interview Series</span></a></div>
-						                																				</li>
-						            													
-			                									                			            			    						                			            			    			
-						                											<li id="node_id_2743"><div><a href="/bass-fishing-videos/Fish-Care-Videos"><span>Fish Care Videos</span></a></div>
-						                																				</li>
-						            													
-			                									                			            			    						                			            			    			
-						                											<li id="node_id_26000"><div><a href="/bass-fishing-videos/Fishing-Gear-Videos"><span>Fishing Gear Videos</span></a></div>
-						                																				</li>
-						            													
-			                									                			            			    						                			            			    			
-						                											<li id="node_id_39827"><div><a href="/bass-fishing-videos/icast-2014"><span>ICAST 2014</span></a></div>
-						                																				</li>
-						            													
-			                									                			            			    						                			            			    			
-						                											<li id="node_id_37441"><div><a href="/bass-fishing-videos/More-Fishing-Videos"><span>More Fishing Videos</span></a></div>
-						                																				</li>
-						            									</ul>
 								 
 							</li>               
 								            				   	  				                			                										                			                			                		                    <li id="node_id_5257" title="Pictures" class="mainmenu"><div class="menu-item"><a id="menu_link_5257" href="/bass-fishing-forums/gallery/"><span>Pictures</span></a></div>
@@ -409,6 +500,10 @@ var YUI3_config = {"modules":{}};
 																	<ul id="submenu_114" class="submenu noshow">
 						            													
 			                									                			            			    						                    			            			    						                			            			    			
+						                			            			        <li id="node_id_25868"><div><a href="/fish/marketing.html" title="Advertising Information" class="menu-item-link" rel="/"><span>Advertising Information</span></a></div>
+																														</li>
+						            													
+			                									                			            			    						                			            			    			
 						                			            			        <li id="node_id_5165"><div><a href="/fish/fishing_log.html" title="Free Fishing Log" class="menu-item-link" rel="/"><span>Free Fishing Log</span></a></div>
 																														</li>
 						            													
@@ -442,10 +537,6 @@ var YUI3_config = {"modules":{}};
 						            													
 			                									                			            			    						                			            			    			
 						                			            			        <li id="node_id_5168"><div><a href="/fish/article_submission.html" title="Write for BassResource!" class="menu-item-link" rel="/"><span>Write for BassResource!</span></a></div>
-																														</li>
-						            													
-			                									                			            			    						                			            			    			
-						                			            			        <li id="node_id_25868"><div><a href="/fish/marketing.html" title="Advertising Information" class="menu-item-link" rel="/"><span>Advertising Information</span></a></div>
 																														</li>
 						            													
 			                									                			            			    						                			            			    			
@@ -634,29 +725,29 @@ jQuery(function($) {
 		<ul id="tab-body-headline">			
 			
 									 
-			    <li><a href="/bass_fishing_123/bfl-kerr-82514.html">Gray Wins BFL Tournament On Kerr Lake</a></li>
+			    <li><a href="/bass_fishing_123/bass-ross-barnett-34315.html">Bishop Leads Bassmaster Tournament</a></li>
 			 
-			    <li><a href="/bass_fishing_123/bfl-detroit-82514.html">King Wins BFL Tournament On The Detroit River</a></li>
+			    <li><a href="/bass_fishing_123/flw-international-31215.html">FLW Announces International Sanctioning</a></li>
 			 
-			    <li><a href="/bass_fishing_123/bfl-mississippi-82514.html">Reitz Wins BFL Tournament On The Mississippi</a></li>
+			    <li><a href="/bass_fishing_123/bass-ross-barnett-31215.html">McClelland Leads Bassmaster Tournament</a></li>
 			 
-			    <li><a href="/bass_fishing_123/ttbc-2015-dates.html">2015 TTBC Schedule Announced</a></li>
+			    <li><a href="/bass_fishing_123/bam-scout-31115.html">Bass Angler Magazine Parts Ways with Scout Media</a></li>
 			 
-			    <li><a href="/bass_fishing_123/bass-cayuga-lake-82414.html">VanDam Doesn't Qualify for Classic, Ends Streak</a></li>
+			    <li><a href="/bass_fishing_123/classic-tulsa-3915.html">2016 Bassmaster Classic To Return To Tulsa in March</a></li>
 			 
-			    <li><a href="/bass_fishing_123/bass-cayuga-82314.html">Hackney Still Leads Elite Series Tournament</a></li>
+			    <li><a href="/bass_fishing_123/flw-toho-3815.html">Kenney Wins FLW Tournament On Lake Toho</a></li>
 			 
-			    <li><a href="/bass_fishing_123/flw-james-river-82314.html">Schmitt Wins FLW Tournament On James River</a></li>
+			    <li><a href="/bass_fishing_123/bass-red-river-3715.html">NW State University Wins College Tournament</a></li>
 			 
-			    <li><a href="/bass_fishing_123/flw-chautauqua-82314.html">Ohio State Wins FLW College Tournament</a></li>
+			    <li><a href="/bass_fishing_123/flw-toho-3715.html">Kenney Still Leads FLW Tournament</a></li>
 			 
-			    <li><a href="/bass_fishing_123/bass-cayuga-82214.html">Hackney Leads Elite Series Tournament</a></li>
+			    <li><a href="/bass_fishing_123/bass-red-river-37015.html">Oklahoma Team Takes College Tournament Lead</a></li>
 			 
-			    <li><a href="/bass_fishing_123/bass-cayuga-82114.html">Palaniuk Leads Elite Series Tournament</a></li>
+			    <li><a href="/bass_fishing_123/flw-toho-3615.html">Kenney Extends Lead At FLW Tournament</a></li>
 			 
-			    <li><a href="/bass_fishing_123/flw-murray-81714.html">Gagliardi Wins FLW Championship on Murray</a></li>
+			    <li><a href="/bass_fishing_123/flw-toho-3515.html">Kenney Leads FLW Tournament</a></li>
 			 
-			    <li><a href="/bass_fishing_123/flw-hot-springs-81614.html">Hot Springs To Host 2015 Forrest Wood Cup</a></li>
+			    <li><a href="/bass_fishing_123/bass-red-3515.html">Tennessee Team Leads College Tournament</a></li>
 						
 		</ul>
 	</div>
@@ -664,18 +755,18 @@ jQuery(function($) {
 		<ul id="tab-body-new-post">
 			
 			     			
-			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/143674-looking-for-used-bass-boat-in-the-5000-7000-range/" title="Looking For Used Bass Boat In The 5000 - 7000 Range.">Looking For Used Bass Boat In The 5000 - 7000 Range.</a></li>
-			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/143673-question-about-big-smb-targeting/" title="Question About Big Smb Targeting">Question About Big Smb Targeting</a></li>
-			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/143671-best-all-around-crankbait-color/" title="Best All Around Crankbait Color">Best All Around Crankbait Color</a></li>
-			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/143670-abu-garcia-handle-knobs/" title="Abu Garcia Handle Knobs">Abu Garcia Handle Knobs</a></li>
-			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/143669-landing-bass-from-a-kayak/" title="Landing Bass From A Kayak">Landing Bass From A Kayak</a></li>
-			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/143668-got-my-new-rig/" title="Got My New Rig">Got My New Rig</a></li>
-			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/143667-strike-king-kvd-perfect-plastic-rodent/" title="Strike King Kvd Perfect Plastic Rodent">Strike King Kvd Perfect Plastic Rodent</a></li>
-			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/143666-ugly-stik/" title="Ugly Stik">Ugly Stik</a></li>
-			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/143665-towing-motor-up-or-down/" title="Towing Motor Up Or Down?">Towing Motor Up Or Down?</a></li>
-			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/143664-will-gloomis-ever-make-100-150-range-rod/" title="Will G.loomis Ever Make $100-150 Range Rod?!">Will G.loomis Ever Make $100-150 Range Rod?!</a></li>
-			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/143663-motorguide-bow-mount-trolling-motor-arrow-backwards/" title="Motorguide Bow Mount Trolling Motor Arrow Backwards?">Motorguide Bow Mount Trolling Motor Arrow Backwards?</a></li>
-			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/143662-is-this-a-good-choice/" title="Is This A Good Choice?">Is This A Good Choice?</a></li>
+			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/153348-craw-colored-spinnerbait/" title="Craw Colored Spinnerbait">Craw Colored Spinnerbait</a></li>
+			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/153347-stren-braid-change/" title="Stren Braid Change">Stren Braid Change</a></li>
+			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/153346-lews-rods/" title="Lew's Rods">Lew's Rods</a></li>
+			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/153345-where-is-this-months-ltb-love/" title="Where Is This Month's Ltb Love?">Where Is This Month's Ltb Love?</a></li>
+			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/153344-filming-fishing-trips-help/" title="Filming Fishing Trips Help">Filming Fishing Trips Help</a></li>
+			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/153343-braid-freezing/" title="Braid Freezing?">Braid Freezing?</a></li>
+			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/153342-march-madness/" title="March Madness!">March Madness!</a></li>
+			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/153341-mtb-march-15/" title="Mtb March '15">Mtb March '15</a></li>
+			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/153340-in-the-market-for-a-new-reel/" title="In The Market For A New Reel">In The Market For A New Reel</a></li>
+			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/153339-got-to-fish-with-someone-ive-always-wanted-to-fish-with-today/" title="Got To Fish With Someone Ive Always Wanted To Fish With Today!">Got To Fish With Someone Ive Always Wanted To Fish With Today!</a></li>
+			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/153338-shimano-crucialcumara-gen1-spinning-rod-question/" title="Shimano Crucial/cumara Gen1 Spinning Rod Question">Shimano Crucial/cumara Gen1 Spinning Rod Question</a></li>
+			        		<li><a href="http://www.bassresource.com/bass-fishing-forums/topic/153336-shimano-calcutta-200-b/" title="Shimano Calcutta 200 B">Shimano Calcutta 200 B</a></li>
 					</ul>
 	</div>
 	
@@ -837,7 +928,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1352568453675-0');
 	</div>
 	    
 	<address>
-				<a href="/fish/copyright.html">Copyright</a> ©1997-2014 The Ultimate Bass Fishing Resource Guide® LLC  All rights reserved.
+				<a href="/fish/copyright.html">Copyright</a> ©1997-2015 The Ultimate Bass Fishing Resource Guide® LLC  All rights reserved.
 		This material may not be posted on another website. Nor may it be copied, published, rewritten, or redistributed. <a href="/fish/Privacy.html">Privacy Statement</a>
     </address>
 
@@ -859,14 +950,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1352568453675-0');
 
 
 
-<script type="text/javascript">
-//<![CDATA[
-(function() {
-var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=5';
-var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
-})();
-// ]]>
-</script>
+
 
 </body></html>
