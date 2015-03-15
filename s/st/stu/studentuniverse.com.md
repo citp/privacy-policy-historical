@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231152320id_/http%3A//www.studentuniverse.com/students/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315061733id_/http%3A//www.studentuniverse.com/students/privacy-policy) for the most accurate reproduction.*
 
 # StudentUniverse | Students - Privacy Policy
 
@@ -22,7 +22,7 @@ Some of our business partners, including Google, use cookies and action tags (al
 
 **Sharing Information**
 
-No personally identifiable information will be shared with our partners except as part of an explicit transaction- for example, providing your customer data to the airline on which you've purchased a ticket or a partner for verification of your student/faculty enrollment or youth status. Some of your information may be shared on an aggregate basis only, but that information will not be sufficient to permit the recipient to identify you.
+No personally identifiable information will be shared with our partners except as part of an explicit transaction- for example, providing your customer data to the airline on which you've purchased a ticket or a partner for verification of your student/faculty enrollment or youth status. However, some of your information may be shared with third parties on an anonymous basis (but that information will not be sufficient to permit the recipient to identify you).
 
 As we continue to develop our business, we might sell or buy companies or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that StudentUniverse.com, Inc or substantially all of its assets are acquired, customer information could be one of the transferred assets.
 
@@ -30,7 +30,7 @@ Except as set forth in the [Terms of Use](https://web.archive.org/students/terms
 
 **Spam**
 
-We take extreme efforts to not involve ourselves with junk mail companies. Our mail is as targeted as we can make it, and we allow you to opt out at any time. If you feel we aren't living up to our promise, please [ send us an email](https://web.archive.org/students/feedback).
+We take extreme efforts to not involve ourselves with junk mail companies. Our mail is as targeted as we can make it, and we allow you to opt out at any time. If you feel we aren't living up to our promise, please [ send us an email](https://web.archive.org/web/20150315061733id_/http%3A//www.studentuniverse.com/students/$%7BcontentTags.pageLink\(bodyId:'suFeedback'\)%7D).
 
 We occasionally run contests on our site in which we ask visitors for contact information (like your email address). We use contact data from our contests to alert winners of their status, and to send users information about our company and promotional material from some of our partners. Users have the option of not receiving future mailings; see the choice/opt-out section below.
 
@@ -48,7 +48,7 @@ Children under 15 are not permitted to create an account at StudentUniverse.com,
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
-If you want to remove your information from our database, to not receive future communications, or to no longer receive our service, you can opt-out online on our homepage by clicking on "Get our DealAlerts" and completing the opt-out form, or [send us an email](https://web.archive.org/students/feedback).
+If you want to remove your information from our database, to not receive future communications, or to no longer receive our service, you can opt-out online on our homepage by clicking on "Get our DealAlerts" and completing the opt-out form, or [send us an email](https://web.archive.org/web/20150315061733id_/http%3A//www.studentuniverse.com/students/$%7BcontentTags.pageLink\(bodyId:'suFeedback'\)%7D).
 
 Mouseflow requires that we make our users aware that some visitor sessions are recorded, and Mouseflow prohibits using this service for recording personal or financial information. Users who don’t want to be recorded can opt out [here](http://mouseflow.com/opt-out). Read Mouseflow's [privacy policy](http://mouseflow.com/privacy/) for more information.
 
@@ -62,7 +62,7 @@ This site contains links to other websites. StudentUniverse.com, Inc is not resp
 
 **Contacting the Website**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with StudentUniverse.com, Inc on this website, [send us an email](https://web.archive.org/students/feedback) or you can contact:  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with StudentUniverse.com, Inc on this website, [send us an email](https://web.archive.org/web/20150315061733id_/http%3A//www.studentuniverse.com/students/$%7BcontentTags.pageLink\(bodyId:'suFeedback'\)%7D) or you can contact:  
 StudentUniverse  
 130 Turner Street  
 Suite 530  
