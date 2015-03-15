@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myhermes.co.uk privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701052336id_/https%3A//www.myhermes.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhermes.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315075745id_/https%3A//www.myhermes.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# myHermes - Privacy policy
+# myHermes - Privacy & Data Protection Policy | myHermes
 
 ## PRIVACY AND DATA PROTECTION POLICY
 
@@ -37,3 +37,17 @@ Here is a list of the cookies we use, and what they are used for:
 ### Further Information About Cookies
 
 If you would like to know more about cookies, please visit aboutcookies.org, if you would like to opt out of any cookies, please visit [Your Online Choices](http://www.youronlinechoices.com/uk/) website. 
+
+## Parcel Recipient Satisfaction Surveys
+
+We may from time to time contact your parcel recipient to ask  if they would like to take part in a satisfaction survey to rate our delivery service. We collect such data in order to check that we have carried out our contract in accordance with the terms agreed with you and to ensure that we are providing a great service. 
+
+We would only contact your parcel recipient:
+
+  1. by email;
+  2. using the email address details that you may provide to us when you submit your order; and
+  3. If you have opted for your parcel recipient to receive an email with tracking details relating to their parcel delivery. Your recipient will then be aware that Hermes has delivered their parcel. Please note that your parcel recipient may also receive an email from Hermes asking for their feedback in relation to the parcel delivery service provided. 
+
+
+
+If your parcel recipient chooses to take part in the survey, the website hosting the survey will display terms explaining how we will use the data collected to improve our services. 
