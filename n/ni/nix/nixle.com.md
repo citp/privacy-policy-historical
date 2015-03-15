@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nixle.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204205826id_/http%3A//www.nixle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nixle.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043540id_/http%3A//www.nixle.com/privacy-policy) for the most accurate reproduction.*
 
 # Nixle | Privacy Policy
 
