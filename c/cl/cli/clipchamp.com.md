@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clipchamp.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923152549id_/http%3A//clipchamp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipchamp.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013355id_/https%3A//clipchamp.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | clipchamp.com
+# Privacy Policy | clipchamp.com Video Converter and Compressor
 
 ## clipchamp.com is a web service of zfaas Pty Ltd
 
