@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the positivessl.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915121204id_/https%3A//www.positivessl.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivessl.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032459id_/https%3A//www.positivessl.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Comodo-Privacy Statement
 
@@ -8,7 +8,7 @@ Questions relating to this policy statement should be directed towards the Comod
 
 **CPS and Associated Agreements**  
 This Privacy Policy statement supplements the practices and policies stated within the Subscriber Agreement (and associated product Schedules), Relying Party Agreement and Comodo Certification Practice Statement (CPS). Please refer to these documents for the practices employed by Comodo for the issuing, management and revocation of certificate based products.   
-[http://www.comodo.com/repository/index.html](http://www.comodo.com/repository/index.html?tc=1)
+<http://www.comodo.com/repository/index.html>
 
 **Anti-Spam Policy**  
 Comodo does not employ the use of spam for propagating its product awareness or special offers. 
