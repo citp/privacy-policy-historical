@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exa.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626110506id_/http%3A//www.exa.com.au/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exa.com.au privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315041634id_/http%3A//www.exa.com.au/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy- Exa Web Solutions
 
@@ -19,7 +19,15 @@ Exa makes limited use of cookies on this website. A cookie is a small message gi
 Exa only uses cookies to tell us when you have set up an account with us previously (i.e. when you are a "registered user" of our website), and sometimes to let us know how you found our website. Where the cookies tell us that you are a registered user, cookies also allow us to automatically link you to your personalised accounts so that you can easily access any products or services only made available to our registered users, without your having to provide us with your username and password on every web page. The cookies allow us only to identify you in our database if you are a registered user, and to connect you to the relevant products and services on our website, but not to track the pages you visited on our website. 
 
 You always have the option to disable cookies by turning them off in your browser. However, you should be aware that many of the services available on the Exa website will not work if you have chosen to do this.   
-In addition to cookies, Exa servers register the type of web browser you are using and your IP address when you access our website.
+In addition to cookies, Exa servers register the type of web browser you are using and your IP address when you access our website. 
+
+  
+
+  * #### AdWords Remarketing
+
+Our website uses Google AdWords Remarketing to advertise Exa across the Internet. This means that if you have visited our website and left the site without completing a task, such as filling out our contact form to make an enquiry, we will display relevant ads on third party websites (like Google). All of our third party websites are tailored to your search based on what parts of our site you may have viewed by placing a cookie on your machine. This cookie is used by third-party vendors to show ads based on your past visits to our site. These ads can be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. 
+
+The cookie will not, in anyway identify you or provide us with any access to your computer. Any data collected is used in accordance with our own privacy policy and Google's privacy policy. 
 
 
 
@@ -57,7 +65,7 @@ We may supply your personal information to our third party billing and payment s
 
 ### Accuracy
 
-You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. For information on this procedure, feel free to contact Exa [here](https://web.archive.org/web/20140626110506id_/http%3A//www.exa.com.au/contact/).   
+You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. For information on this procedure, feel free to contact Exa [here](https://web.archive.org/web/20150315041634id_/http%3A//www.exa.com.au/contact/).   
 If you believe that Exa may hold other personal information about you which is inaccurate, please contact us by using this web form and we will take reasonable steps to ensure that it is corrected. 
 
 ### Security
@@ -74,4 +82,4 @@ Exa may make changes to its privacy policy from time to time. You should check o
 
 ### Further information or queries
 
-If you have any queries or comments, or would like more information concerning Exa's privacy policy, please contact us by using this [web form](https://web.archive.org/web/20140626110506id_/http%3A//www.exa.com.au/contact/)
+If you have any queries or comments, or would like more information concerning Exa's privacy policy, please contact us by using this [web form](https://web.archive.org/web/20150315041634id_/http%3A//www.exa.com.au/contact/)
