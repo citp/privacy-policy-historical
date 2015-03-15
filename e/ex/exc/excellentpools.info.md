@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excellentpools.info privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124081121id_/http%3A//excellentpools.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excellentpools.info privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025401id_/http%3A//excellentpools.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Excellent PoolsExcellent Pools
 
