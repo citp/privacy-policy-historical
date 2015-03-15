@@ -1,100 +1,99 @@
-> *The following text is extracted and transformed from the meltdownchallenge.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225102936id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meltdownchallenge.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315060838id_/https%3A//www.meltdownchallenge.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# PRIVACY POLICY
 
-**Go Daddy Respects Your Privacy**
+Data security as well as privacy are very important to MeltDownChallenge.com. This document summarizes the measures we’ve undertaken to ensure that only the user data necessary to effectively run our programs is used, stored and captured. MeltDownChallenge.com collects data in a secure manner that goes beyond industry standards; and has plans and programs available to effectively detect and handle security breaches, should these occur. This Policy applies to the website www.MeltDownChallenge.com. By using our website users confirm to be informed about and comply with this privacy policy.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+###  Information Collected by MeltDownChallenge.com
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+####  User Profile
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+To improve the fun of the challenge experience, MeltDownChallenge.com offers personalization options for User Profiles. These personalization options cover information such as birth date, weight, diet practices, smoking habits and other related topics. Photos can also be part of the User Profile.
 
-**Information Collection and Use**
+####  Challenge Profile
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+To participate in MeltDownChallenge.com challenges, users can opt to supply information such as weight, target weight, age, gender, bet amount, cholesterol level, stress test results, workout regiments etc. MeltDownChallenge.com can also collect payment information such as credit or debit card numbers, expiration dates, bank account numbers, PayPal account information etc.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+####  Friends
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Users can opt to identify friends, family, colleagues or other third party members through the invite-a-friend functions. If users do this MeltDownChallenge.com collects the selected third party’s email address and will automatically send the recipients an email, and if necessary, reminder emails. MeltDownChallenge.com stores this information solely for the purpose of sending the aformentioned email and related reminder emails as well as to track the effect of the invite-a-friend function. Third parties can always contact MeltDownChallenge.com to request the removal of their information from our database.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+####  Orders
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+If users purchase product or services through MeltDownChallenge.com, billing information (such as credit card numbers, expiration dates, PayPal information and/or bank account numbers) and address information (such as name, email address, and shipping address) will be collected.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+####  Challenge Measurements
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+To participate in challenges, users must submit several kinds of specific information at the beginning and ending of a challenge. This includes weigh-in photos, cholesterol levels, stress test scores and smoking habit information. This information is used for the sole purpose to confirm a user's starting and ending scores/levels. MeltDownChallenge.com does not use this information for any other purpose without the written permission of the user. After review, the information is stored in our database and later used to determine challenge winners. The information is also displayed on the user’s personal profile and is visible to whomever the user has allowed it to be visible to in the personal settings.  
+Upon occasion, Meltdown Challenge LLC does share site analytics including before and after pictures with team challenge hosts. This pertains to the "Six Weeks to Summer Meltdown to Health" Challenges starting May 5th, 2014.
 
-**Security**
+####  Walls, Blogs, Chats & Forums
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Users should be aware that the information shared on walls, blogs, chatrooms and/or forums on MeltDownChallenge.com can be read, collected and/ or used by other users of the aforesaid oultets, which can sometimes lead to information sharing with third parties, and consequent unsollicited messages. MeltDownChallenge.com is not responsible for information that users choose to submit in these outlets. This also applied for third-party services like Facebook, Twitter and Google + that MeltDownChallenge.com connects to.
 
-**Updating Your Information**
+###  Personal Information Usage
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Information collected through Meltdownchallenge.com is used to run the services Meltdownchallenge.com offers, as described on the website and in this policy. Information will not be shared or disclosed unless it’s for the purposes described in this policy. To be able to run our programs and offer our services, we may use personal information for: (i) providing you with important information about Meltdownchallenge.com including but not limited to important updates and notifications; (ii) sending you emails and/or mobile alerts and/or reminders; (iii) adjusting your Meltdownchallenge.com challenge page to increase effectiveness of your health challenge and progress; and (iv) determining relevant services to you, your geographic location and your lifestyle.  
+Upon occasion, Meltdown Challenge LLC does share site analytics including before and after pictures with team challenge hosts. This pertains to the "Six Weeks to Summer Meltdown to Health" Challenges starting May 5th, 2014.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+###  Personal Information Sharing
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Meltdownchallenge.com does not view and/or disclose user’s personal information unless deemed necessary for the following purposes:
 
-      iii.      You may call us at: (480) 505-8800
+####  Providing Services & Functions
 
-       iv.      You may fax us at: (480) 505-8844
+Meltdownchallenge.com works with a variety of third parties to carry out functions and services. Such functions include wireless services, website hosting, product shipping and delivery, services provided on Meltdownchallenge.com, sending e-mails and/or texts, data analysis, marketing and PR assistance, payment processing and customer service. These third parties may gain access to information to carry out their services for Meltdownchallenge.com.
 
-**Sending Emails**
+####  Compliance with Laws & Legal Processes
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Meltdownchallenge.com may release personal information when such action is deemed necessary to comply with the law and/or legal processes and protect the personal safety and security of Meltdownchallenge.com users and/or others.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+####  Protecting Our Rights & Property
 
-**Compliance with Laws and Law Enforcement**
+Meltdownchallenge.com may release personal information when such action is deemed necessary to protect and defend our rights and/or property. This includes the enforcement of agreements and policies and exchanging information with third parties for fraud protection and credit risk reduction.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+####  User Profile Information
 
-**Third Party Service Providers**
+Information collected during registration and profile customization, such as full name, gender and location, may be displayed to other users on Meltdownchallenge.com. The User Profile is where users share information about themselves. Users can control which information is displayed in the User Profiles. Meltdownchallenge.com allows third parties access to all information that users have chosen to made visible to the public through the Meltdownchallenge.com website. Meltdownchallenge.com keeps passwords and answers to security questions private.  
+Upon occasion, Meltdown Challenge LLC does share site analytics including before and after pictures with team challenge hosts. This pertains to the "Six Weeks to Summer Meltdown to Health" Challenges starting May 5th, 2014.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+####  Corporate Participation
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+If users participate through a company, then Meltdownchallenge.com may share user information with this company if so requested. We may also receive information, if necessary for our programs and services, all to the extent permitted by federal and state privacy laws and regulations.  
+Upon occasion, Meltdown Challenge LLC does share site analytics including before and after pictures with team challenge hosts. This pertains to the "Six Weeks to Summer Meltdown to Health" Challenges starting May 5th, 2014.
 
-**Supplementation of Information**
+Except for the aforementioned purposes, in all other cases Meltdownchallenge.com will not share users' personally identifiable information with third parties without their prior permission.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+###  Controlling Information Visibility
 
-**Contests/Surveys**
+Users may choose not to disclose information, but this may lead to the inability to use certain services and functions on Meltdownchallenge.com.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Users can correct, add and delete personally identifiable information on our website by visiting their profile. A copy of the unrevised information will often be maintained in our records as part of regularly scheduled back-up processes though, to ensure compliance with potential future requests for information in conjunction with legal proceedings and public safety.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Users wishing to remain a Meltdownchallenge.com participants, without any email ot text notifications and/or communication from other participants can unsubscribe at unsubscribe@Meltdownchallenge.com. However, system emails (such as those regarding forgotten user passwords) and legal notices (such as updates to our policies) will still be sent.
 
-**Tell-A-Friend**
+Users can request access to Personal Information that Meltdownchallenge.com has stored but that is not available on User Profile pages, so they can correct inaccuracies and/or request deletion of information. Meltdownchallenge.com responds to such requests within 15 business days. Users can also request deletion of their entire account by contacting us. Meltdownchallenge.com responds to these requests within 20 business days.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+###  Statistics, De-identified and Aggregated Information Usage
 
-**What Happens to my Personal Information if I Opt Out?**
+Meltdownchallenge.com may use statistics, de-identified aka anonymous and/ or aggregated information collected through Meltdownchallenge.com to improve our services, and for research and analyses, including but not limited to clinical medical research. We may also provide this information to our partners for similar purposes. De-identified information in this context does not consist of personally identifiable private records, such as name, email address, or address; but may include gender, height, weight, zip code, and medical information. Aggregated information in this context consists of grouped information from multiple users and is not associated with individual user accounts. If you are participating in Meltdownchallenge.com through a company, be aware that the use of your data, no matter on what basis, may be restricted or prohibited entirely, depending upon the agreement between Meltdownchallenge.com and your company.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+###  Email and Mobile Alerts
 
-**Transfer of Data Abroad**
+Meltdownchallenge.com sends several email messages based upon personally identifiable information the users has provided. These messages include emails pertaining but not limited to welcoming users to the website, challenge reminders, account management, activity notifications, motivational tips, health tips etc. Email and texts may also be used to carry out reminder settings and ensure users are informed of the latest improvements relating to Meltdownchallenge.com. Meltdownchallenge.com will send reminders and alerts throug e-mail and/or mobile phone. Users have control over the amount of these reminders and alerts, to the point of disabling them entirely.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+For questions about this policy, contact legal@meltdownchallenge.com.
 
-**Changes in Our Practices**
+###  Cookies Usage
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Meltdownchallenge.com uses session ID and persistent cookies to enable users to sign in and to personalize health challenges. Cookies are small text file stored on a user’s hard disk by a web server and/or browser. Session ID cookies expire as soon as the browser is closed while persistent cookies are stored on hard disks for longer periods of time. Cookies are assigned individually and uniquely to users, and only a web server within the domain that created/assigned the cookie can read your cookies. Cookies therefore can not be used for running harmful programs or adding viruses to computers.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+The main purpose of cookies is providing convenience to users by saving time. Cookies for example remember settings for certain sites so users don’t have to adjust them separately. Using cookies simplifies the process of delivering relevant content and eases site navigation. When users return to the web site, they can retrieve the information they previously provided, so they can easily use the site's features that were customized.
 
-**Contacting Our Site**
+Partners, vendors and affiliates of MeltdownChallenge.com also use cookies to identify user’s browsers and gain inisght into what pages of our website are visited and by how many people. This information is provided to MeltdownChallenge.com, but is not personally identifiable. However, some of our business partners, like advertisers, may also use cookies on MeltdownChallenge.com. We have no access to nor control over these cookies. Therefore the usage of cookies by third parties does not fall under this privacy policy.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Users have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but users can usually modify browser settings to decline some or all cookies. If users choose to decline all cookies, they may not be able to use interactive features of this or other web sites that depend on cookies.
 
-* * *
+###  Minors
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Minors under 18 years of age are prohibited from registering on MeltdownChallenge.com. Users under this age should not attempt to register our site and/or send any information about themselves to us. However, legal guardians may sign up minors. MeltdownChallenge.com does not knowingly allow users under age 18 to register nor collect information about them. If MeltdownChallenge.com disovers it has registered minors and/or information about them, that information will be deleted immediately. MeltdownChallenge.com requests users to contact us if they suspect we have information from or about a minor under 18 years old.
