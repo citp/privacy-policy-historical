@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipviking.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102950id_/https%3A//ipviking.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipviking.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315072425id_/https%3A//ipviking.com/pp) for the most accurate reproduction.*
 
-# IPVIKING
+# DarkViking
 
 Norse Corporation, (“ **Norse** ”) operates several websites including [norse-corp.com](http://www.norse-corp.com/), [ipviking.com](http://www.ipviking.com/), [ipvenger.com](http://www.ipvenger.com/), and [ipvizor.com](http://www.ipvizor.com/). It is Norse’s policy to respect your privacy regarding any information we may collect while operating our websites. 
 
