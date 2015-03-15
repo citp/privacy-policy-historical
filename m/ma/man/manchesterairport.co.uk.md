@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchesterairport.co.uk privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221214035id_/http%3A//www.manchesterairport.co.uk/manweb.nsf/Content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchesterairport.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021316id_/http%3A//www.manchesterairport.co.uk/manweb.nsf/Content/PrivacyPolicy) for the most accurate reproduction.*
 
 # Manchester Airport : Privacy Policy
 
@@ -25,6 +25,8 @@ We may collect additional information in connection with your participation in a
 **By registering on our site or by using our car park booking services available through this site you agree that MAPLC will retain copies of the personal information which you provide when registering and that this information will be held by MAPLC
 
 You will need to un tick the box if you do not wish to receive information from us. If you leave the box ticked  MAPLC may use the information to supply you with information about MAPLC, its related companies, and their goods and services, and for general statistical purposes. In addition, MAPLC may use the information you provide for both online and offline marketing and promotional purposes. This may be informing you of new routes or developments by e-mail, or by sending you direct mail through the normal post, which provides information, which may be of interest to you.
+
+We may also share information about you with our preferred partners, but the information we share with them (e.g. your title and purpose of travel) will be anonymous and they will not be able to identify you from it.
 
 **Removal of Data  
 **If you do not wish to receive further communication or you would like to change information previously provided you can do so by [emailing us.](https://www.manchesterairport.co.uk/Shop/MAN/WebFeedback)
