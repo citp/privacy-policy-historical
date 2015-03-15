@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the titanui.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701171627id_/http%3A//www.titanui.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanui.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043746id_/http%3A//www.titanui.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TitanUI
+# Privacy Policy » TitanUI
 
 This Privacy Policy governs the manner in which TitanUI collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.titanui.com website (“Site”). This privacy policy applies to the Site and all products and services offered by TitanUI.
 
