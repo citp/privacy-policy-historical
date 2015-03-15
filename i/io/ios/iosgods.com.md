@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the iosgods.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712175320id_/http%3A//iosgods.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iosgods.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315051809id_/http%3A//iosgods.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - iOSGods
 
 Register now to gain access to all of our features. Once registered and logged in, you will be able to create topics, post replies to existing threads, give reputation to your fellow members, get your own private messenger, post status updates, manage your profile and so much more. This message will be removed once you have signed in.  
-[Login to Account](http://iosgods.com/index.php?app=core&module=global&section=login) [Create an Account](http://iosgods.com/index.php?app=core&module=global&section=register)
+[__  Login to Account](http://iosgods.com/index.php?app=core&module=global&section=login) [__  Create an Account](http://iosgods.com/index.php?app=core&module=global&section=register)
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
@@ -17,6 +17,8 @@ This website does not store any information that would, on its own, allow us to 
 
   1.  
   2. [Privacy Policy](http://iosgods.com/privacypolicy/)
-  3. [Forum Rules ](http://iosgods.com/index.php?app=forums&module=extras&section=boardrules "Forum Rules") · 
+  3. [Forum Rules ](http://iosgods.com/forum/39-forum-rules/ "Forum Rules") · 
+  4. [Disclaimer](http://iosgods.com/topic/105-disclaimer/) · 
+  5. [Contact Us](mailto:admin@iosgods.com) · 
 
 
