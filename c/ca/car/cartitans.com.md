@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartitans.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625153750id_/http%3A//www.cartitans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartitans.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315075037id_/http%3A//www.cartitans.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy, CarTitans.com
+# Privacy Policy | Cartitans.com
 
 CarTitans.com is committed to providing an entertaining, fun and educational service. We respect the privacy concerns of visitors to CarTitans.com.
 
