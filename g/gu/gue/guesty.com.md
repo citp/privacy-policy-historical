@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guesty.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702075148id_/https%3A//www.guesty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guesty.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315184136id_/https%3A//www.guesty.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - guesty
+# Privacy Policy - Guesty
 
-This Privacy Policy governs the manner in which BookHost, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.guesty.com](https://web.archive.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by BookHost, Inc.
+This Privacy Policy governs the manner in which Guesty, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.guesty.com](https://web.archive.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Guesty, Inc.
 
 #### Personal identification information
 
@@ -14,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 
 #### International Transfers
 
-Personal Information collected on this web site may be stored and processed in the United States or any other country in which BookHost, Inc. or its affiliates, subsidiaries or agents maintain facilities, and by using this web site, you consent to any such transfer of information outside of your country.
+Personal Information collected on this web site may be stored and processed in the United States or any other country in which Guesty, Inc. or its affiliates, subsidiaries or agents maintain facilities, and by using this web site, you consent to any such transfer of information outside of your country.
 
 #### Web browser cookies
 
@@ -22,7 +22,7 @@ Cookies are small text files stored by your browser in your computer when you vi
 
 #### How we use collected information
 
-BookHost, Inc. may collect and use Users personal information for the following purposes:
+Guesty, Inc. may collect and use Users personal information for the following purposes:
 
   * _To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -59,7 +59,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 #### Changes to this privacy policy
 
-BookHost, Inc. has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Guesty, Inc. has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 #### Your acceptance of these terms
 
@@ -68,9 +68,9 @@ This Site operates “AS-IS” and “AS-AVAILABLE,” without liability of any 
 #### Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[BookHost, Inc.](https://web.archive.org/)  
+[Guesty, Inc.](https://web.archive.org/)  
 [www.guesty.com](https://web.archive.org/)  
-845 Pine St. San Francisco, CA 94108 USA  
+San Francisco, CA USA  
 [terms@guesty.com](mailto:terms@guesty.com)
 
 This document was last updated on January 05, 2014
