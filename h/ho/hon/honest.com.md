@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honest.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111022708id_/https%3A//www.honest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honest.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011125id_/https%3A//www.honest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Honest Company
 
@@ -125,4 +125,4 @@ Santa Monica, CA 90404
 Email: **[info@honest.com](mailto:info@honest.com)**   
 Phone: 1.888.862.8818 
 
-©2012 - 2014 The Honest Company, Inc. All Rights Reserved. 
+©2012 - 2015 The Honest Company, Inc. All Rights Reserved. 
