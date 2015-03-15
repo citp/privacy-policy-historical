@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keralamatrimony.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702004510id_/http%3A//www.keralamatrimony.com/privacy-policy.php%3Fgaact%3DHP%26gasrc%3DFTRPPKERALA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralamatrimony.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315030039id_/http%3A//www.keralamatrimony.com/privacy-policy.php%3Fgaact%3DHP%26gasrc%3DFTRPPKERALA) for the most accurate reproduction.*
 
 # www.keralamatrimony.com
 
@@ -32,7 +32,7 @@ The members are requested to login to the relevant pages for unsubscription.
 
 Can users contact any number of profiles in a single day?
 
-As a paid member of this site, you have the privilege to contact hundreds of profiles. However, there is a specified limit to 150 contacts per day for security reasons. If you want to contact more profiles than the specified limit in a single day, you can do so after the completion of 12 hours of login time.
+As a paid member of this site, you have the privilege to contact hundreds of profiles. However, there is a specified limit to send 100 messages per day due to fair online usage policy.
 
 Notice
 
