@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chick-fil-aforbreakfast.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008210151id_/https%3A//www.chick-fil-a.com/Legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chick-fil-aforbreakfast.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315233001id_/https%3A//www.chick-fil-a.com/Legal/Privacy) for the most accurate reproduction.*
 
 # Privacy | Chick-fil-A
 
@@ -20,7 +20,7 @@ This Privacy Policy applies to information, including Personal Information, coll
 
 Chick-fil-A and its third-party service providers collect information about you from a variety of sources, including information you provide directly to us, and information we collect about you when you interact with us. For example, we and our third-party service providers collect information both directly and indirectly from you when you:
 
-  * access or use our websites located at [www.Chick-fil-A.com](http://www.chick-fil-a.com/), [www.shopChick-fil-A.com](http://www.shopchick-fil-a.com/), [www.eatmorchiken.com](http://www.eatmorchiken.com/), [www.Chick-fil-Aforbreakfast.com](http://www.chick-fil-aforbreakfast.com/), our mobile applications, and any other website or application where this Privacy Policy is posted (collectively, the "Sites"); 
+  * access or use our websites located at [www.Chick-fil-A.com](https://www.chick-fil-a.com/), [www.shopChick-fil-A.com](http://www.shopchick-fil-a.com/), [www.eatmorchiken.com](http://www.eatmorchiken.com/), [www.Chick-fil-Aforbreakfast.com](http://www.chick-fil-aforbreakfast.com/), our mobile applications, and any other website or application where this Privacy Policy is posted (collectively, the "Sites"); 
   * order and/or purchase any of our products or services;
   * contact or communicate with us; 
   * create an account with us;
@@ -201,7 +201,7 @@ If you are visiting our Sites or Social Media Pages from outside of the United S
 
 ### Changes to the Privacy Policy
 
-We may revise this Privacy Policy from time to time effective upon posting the revised Privacy Policy, along with the date on which it was most recently updated, on our Sites. Please check our Privacy Policy periodically to see if it has been updated. If a change to this Privacy Policy materially affects the use or disclosure of your Personal Information, a notice will be posted at [www.chick-fil-a.com](http://www.chick-fil-a.com/) along with a link to the updated Privacy Policy. Your continued use of our Sites and/or provision of your information thereafter constitute your acceptance of such changes. Please contact us as described below if you would like information regarding any changes.
+We may revise this Privacy Policy from time to time effective upon posting the revised Privacy Policy, along with the date on which it was most recently updated, on our Sites. Please check our Privacy Policy periodically to see if it has been updated. If a change to this Privacy Policy materially affects the use or disclosure of your Personal Information, a notice will be posted at [www.chick-fil-a.com](https://www.chick-fil-a.com/) along with a link to the updated Privacy Policy. Your continued use of our Sites and/or provision of your information thereafter constitute your acceptance of such changes. Please contact us as described below if you would like information regarding any changes.
 
 ### Contact Information
 
