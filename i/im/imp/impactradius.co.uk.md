@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impactradius.co.uk privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816184046id_/http%3A//impactradius.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactradius.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012151id_/http%3A//www.impactradius.co.uk/privacy) for the most accurate reproduction.*
 
 # Impact Radius | Privacy - Impact Radius
 
