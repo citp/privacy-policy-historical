@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamelinkexchange.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718005854id_/https%3A//www.gamelinkexchange.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamelinkexchange.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025410id_/https%3A//www.gamelinkexchange.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy For All Services Provided By GameLinkExchange.Com
 
