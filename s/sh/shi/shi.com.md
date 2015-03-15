@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shi.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626215443id_/https%3A//www.shi.com/CustomerServices/SHIInfo.aspx%3FContentId%3D22%26Menu%3Dabout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shi.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315094847id_/https%3A//www.shi.com/CustomerServices/SHIInfo.aspx%3FContentId%3D22%26Menu%3Dabout) for the most accurate reproduction.*
 
 # www.shi.com - SHIInfo
 
@@ -18,9 +18,9 @@ We request information from the user on our order form. Here a user must provide
 
 Cookies
 
-A cookie is a piece of data stored on the user's hard drive containing information related to the user's visit to our site. Usage of a cookie on the SHI web sites is in no way linked to any personally identifiable information. Two types of cookies are used by the SHIDirect.com family of web sites:
+A cookie is a piece of data stored on the user's hard drive containing information related to the user's visit to our site. Usage of a cookie on the SHI web sites is in no way linked to any personally identifiable information. Two types of cookies are used by the SHI.com family of web sites:
 
-**Transient cookies** : These cookies are used to maintain a session for a customer during a visit to our site. Once the user logs off, or after a brief period without using the site, the cookie simply terminates. It is not persistently trackable, or connected to personally identifying information other than the user’s chosen username.
+**Transient cookies** : These cookies are used to maintain a session for a customer during a visit to our site. Once the user logs off, or after a brief period without using the site, the cookie simply terminates. It is not persistently trackable, or connected to personally identifying information other than the user's chosen username.
 
 **User preference cookies** : These cookies are used to tune a number of web site functions to a user's tastes; for example, to indicate whether a user last selected our basic or advanced product search mode. These do not contain personally identifiable information, and are simply used by an individual web page to remember how the user adjusted settings on that page.
 
@@ -50,7 +50,7 @@ All access to our site is, by default, encrypted and protected with the best enc
 
 While we use SSL encryption to protect sensitive information in transit to the customer, we also do everything in our power to protect user-information outside of our web-site as well. All customer data is stored in database servers that cannot route traffic outside our internal network, and have no access to the public internet. Physical access to our servers is restricted; the servers are located in a datacenter only accessible to designated IT staff and properly locked and off-limits to visitors.
 
-All user passwords are stored using a one-way hash function. It is impossible for us to see what these passwords are; we can only verify that the hash of what user has entered matches the same stored value. As a result we are unable to retrieve lost passwords under any circumstances. To facilitate the verification of user’s identity by our employees, we also store a verification question and answer entered by the user. This information is encrypted as protection against theft, but is revealed selectively to SHI employees when such verification is necessary.
+All user passwords are stored using a one-way hash function. It is impossible for us to see what these passwords are; we can only verify that the hash of what user has entered matches the same stored value. As a result we are unable to retrieve lost passwords under any circumstances. To facilitate the verification of user's identity by our employees, we also store a verification question and answer entered by the user. This information is encrypted as protection against theft, but is revealed selectively to SHI employees when such verification is necessary.
 
 Notification of Changes
 
@@ -58,4 +58,4 @@ If we decide to change our privacy policy, we will post those changes on our web
 
 Non-personal information
 
-This Privacy Statement discloses the treatment of any personal data revealed by our users on the SHIDirect.com web sites. The treatment of any non-personal data is discussed in the site’s Terms and Conditions.
+This Privacy Statement discloses the treatment of any personal data revealed by our users on the SHI.com web sites. The treatment of any non-personal data is discussed in the site's Terms and Conditions.
