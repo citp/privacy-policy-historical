@@ -1,0 +1,576 @@
+<!--The following is the downloaded HTML source of the k18.co privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315034252id_/http%3A//k18.co/page/2/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="ero_verify" content="b4b6a0183c5b1621fb8b737c64c7189c">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- ClipBucket v2 -->
+<meta name="copyright" content="K18 - K18.co 2007 - 2015">
+<meta name="author" content="K18 - http://k18.co">
+<link rel="shortcut icon" href="http://k18.co/favicon.ico">
+<link rel="icon" type="image/ico" href="http://k18.co/favicon.ico">
+
+<!-- RSS FEEDS -->
+<link rel="alternate" type="application/rss+xml" title="Recently added videos" href="http://k18.co/rss/recent">
+<link rel="alternate" type="application/rss+xml" title="Most Viewed Videos" href="http://k18.co/rss/views">
+<link rel="alternate" type="application/rss+xml" title="Top Rated Videos" href="http://k18.co/rss/rating">
+<link rel="alternate" type="application/rss+xml" title="Videos Being Watched" href="http://k18.co/rss/watching">
+
+
+<meta name="keywords" content="porn, sex, porno, free porn, porn tube, porn videos, streaming porn,Greek,amateur">
+<meta name="description" content="Free porn sex videos and pussy movies. K18 is the ultimate xxx porn,sex and pussy tube, download sex videos or stream free xxx and free pussy movies.
+Free porn videos and amateur porn xxx movies. K18 hot amateur sex videos and free porno sex tube videos are updated daily with the best free porn">
+<meta name="distribution" content="global">
+
+
+<title>K18 - Privacy Policy</title>
+
+<link href="http://k18.co/styles/cbv2new/theme/main.css" rel="stylesheet" type="text/css">
+
+<!-- Setting Template Variables -->
+<!-- Setting Template Variables -->
+
+
+<script type="text/javascript" async="" src="//c1.popads.net/pop.js"></script><script type="text/javascript" async="" src="//c2.popads.net/pop.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+
+</script>
+
+
+<script>
+var baseurl = 'http://k18.co';
+var imageurl = 'http://k18.co/styles/cbv2new/images';
+</script>
+<link rel="stylesheet" href="http://k18.co/styles/global/jquery_ui.css" type="text/css" media="all">
+<script type="text/javascript" src="http://k18.co/js/jquery.js"></script>
+<script type="text/javascript" src="http://k18.co/js/ui/jquery-ui.js"></script>
+ 
+<script type="text/javascript">
+var embedPlayerWidth = '775';
+var embedPlayerHeight = '436';
+var autoPlayEmbed = 'no';
+
+
+
+function updateEmbed(width,height,autoplay)
+{
+	$('#embed_code').val( $('#embed_code').val().replace(/width=\"([0-9]+)\"/g,'width="'+width+'"') );
+	$('#embed_code').val( $('#embed_code').val().replace(/width\:([0-9]+)px/g,'width:'+width+'px') );
+	$('#embed_code').val( $('#embed_code').val().replace(/height=\"([0-9]+)\"/g,'height="'+height+'"') );
+	$('#embed_code').val( $('#embed_code').val().replace(/height\:([0-9]+)px/g,'height:'+height+'px') );
+}
+
+function switchEmbedCode(type)
+{
+	if(embed_type==type)
+		return false;
+	else
+	{
+		embed_type = type;
+		
+		var alt_embed =$('#alternate_embed_code').val();
+		$('#alternate_embed_code').val($('#embed_code').val());
+		$('#embed_code').val(alt_embed);
+		
+	}
+}
+
+
+
+</script>
+
+
+<!-- Including JS Files-->
+   <script src="http://k18.co/js/jquery_plugs/cookie.js" type="text/javascript"></script>
+    <script src="http://k18.co/js/functions.js" type="text/javascript"></script>
+ <!-- Including JS Files-->
+<script type="text/javascript">
+	callURLParser();
+</script>
+<!-- Including Plugin Headers -->
+	<script>
+ 
+ var RecaptchaOptions = {
+    theme : 'white'
+	
+ };
+ 
+</script>
+
+	<script type="text/javascript">
+
+function check_file_url(objid)
+{
+	var video_link = $('#remote_play_url').val();
+	var duration = $('#linkUploadForm'+objid+' #duration').val();
+	
+	var reg = /^([0-9\:]+)$/i;
+	
+	if(!video_link)
+	{
+		alert("Please enter valid video link");
+		$('#remote_play_url').focus();
+		return false;
+	}
+	if(!duration || !reg.test(duration))
+	{
+		alert("Please enter valid video duration");
+		$('#linkUploadForm'+objid+' #duration').focus();
+		return false;
+	}
+	
+	$.post(baseurl+"/actions/embed_form_verifier.php", 
+	{ 	
+		'mode' : 'remote_play',
+		'remote_play_url' :  $('#remote_play_url').val(),
+		duration : $("#linkUploadForm"+objid+" #duration").val(),
+		file_name : file_name,
+		thumb_file :  $("#linkUploadForm"+objid+" #thumb_file").val()
+	},				
+	
+	function (data) {
+		if(data.err)
+		{
+			alert(data.err);
+		}else{
+			$("#linkUploadForm"+objid).submit();
+		}
+	}, "json");}
+	
+
+</script>
+	<!--Including Pak Player HTML -->
+<script src="http://k18.co/player/pak_player/pplayer.js" type="text/javascript"></script>
+<!-- Ending Plugin Headers -->
+
+
+
+<script type="text/javascript">
+
+window.onload = function() {
+		ini_cookies();
+}
+
+</script>
+
+
+
+
+
+
+
+<script>
+$(function() {
+
+	$( ".date_field" ).datepicker({ 
+		dateFormat: 'yy-mm-dd',
+		changeMonth: true,
+		changeYear: true,
+		yearRange : "1901 : c"
+		});
+});
+</script>
+
+
+<!-- ClipBucket version 2.6 -->
+
+
+
+<!-- Including Common Js -->
+
+<!-- End Including Common Js -->
+
+
+<script type="text/javascript">
+	
+	$(document).ready(function() {
+	
+		
+		$("#searchSelectWrapper ul li a").filter('#videos').parent().addClass('selected');	
+		$('#selectedText').text($("#searchSelectWrapper ul li a").filter('#videos').text());
+		$('#searchType').val($("#searchSelectWrapper ul li a").filter('#videos').attr('id'));
+	
+								   
+	$('.user_login').hide();					   
+	
+	$('#user_login').toggle(
+		function() {
+			$('.user_login').slideDown('normal');
+		},
+		function() {
+			$('.user_login').slideUp('normal');
+		}
+								
+	);
+	$("#searchSelectWrapper ul li a").bind({
+		click : function(event) {
+			event.preventDefault();
+			$("#searchType").val($(this).attr('id'));
+			$('#selectedText').text($(this).text());
+			$(this).parent().parent().children().removeClass('selected');
+			$(this).parent().addClass('selected')
+			$('#searchSelectWrapper').hide();
+		}
+	});
+	/*$('.tabs li').click(
+		function() {
+			$('.tabs li').removeClass('selected')
+			$(this).addClass('selected');
+		}
+	);*/
+	
+	$('.tabs li').each(function(index, value){
+		$(value).click(function(){
+			{	
+				$(this).parent().children().filter('.selected').removeClass('selected');
+				$(this).addClass('selected');
+			}
+		})
+	});
+	$('#lang_selector').click(function(){
+  	//do redirection
+	});
+	
+		$('#lang_selector').change(function(){
+		  var optionSelectedValue = $('#lang_selector option:selected').val();
+		  if(optionSelectedValue)
+		  {
+		  		var $currentLocation = window.location.href,
+						matchedElement = $currentLocation.match(/\?/);
+						
+				if(matchedElement == null)
+				{
+					window.location = "?set_site_lang="+optionSelectedValue;	
+				} else {
+					window.location = window.location+"&set_site_lang="+optionSelectedValue;	
+				}
+				
+		  }
+		});
+		
+					
+	
+			
+	});
+	
+	function ToggleView(obj) {
+		var obj = $(obj),
+			obj_id = obj.attr('id'),
+			parent = obj.parent().attr('id'),
+			target = $("#"+parent).next().attr('id');
+			//alert('#'+parent+' #'+target+' .grid_view');
+			if(obj_id == "grid") {
+				$('#'+parent+' + #'+target+' .grid_view').removeClass('list_view');
+				$.cookie("current_style","grid_view")
+				$('.vid_sp').hide();		
+				$('.truncatedtitle').hide();	
+				$('.fulltitle').show();	
+			} else {
+				$('#'+parent+' + #'+target+' .grid_view').addClass('list_view');
+				$.cookie("current_style","list_view")
+				$('.vid_sp').show();
+				$('.truncatedtitle').show();	
+				$('.fulltitle').hide();			
+			}
+	}
+
+</script>
+
+
+<!--[if lte IE 6]>
+<style type="text/css">
+.clearfix { height: 1%; }
+</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<link href="http://k18.co/styles/cbv2new/theme/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<script type="text/javascript">
+function bookmarkSite(title, url) {
+	if (window.sidebar) { // firefox
+		window.sidebar.addPanel(title, url,"");
+		return false;
+	} else if( document.all ) { //MSIE
+		window.external.AddFavorite( url, title);
+		return false;
+	} else if(window.opera && window.print) {
+		alert("Your using Opera. Press Shift+Ctrl+D to add '"+title+"' in bookmarks");
+		return false;
+	} else if(navigator.userAgent.toLowerCase().indexOf('webkit') > -1) {
+		alert("Your using either Chrome or Safari. Press Ctrl+D to add '"+title+"' in bookmarks.")	
+	} else {
+		alert("Sorry, your browser doesn't support this");	
+	}
+}
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56540038-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- PopAds.net Popunder Code for www.k18.co -->
+<script type="text/javascript">
+  var _pop = _pop || [];
+  _pop.push(['siteId', 494197]);
+  _pop.push(['minBid', 0]);
+  _pop.push(['popundersPerIP', 0]);
+  _pop.push(['delayBetween', 0]);
+  _pop.push(['default', false]);
+  _pop.push(['defaultPerDay', 0]);
+  _pop.push(['topmostLayer', false]);
+  (function() {
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    var s = document.getElementsByTagName('script')[0]; 
+    pa.src = '//c1.popads.net/pop.js';
+    pa.onerror = function() {
+      var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+      sa.src = '//c2.popads.net/pop.js';
+      s.parentNode.insertBefore(sa, s);
+    };
+    s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+<!-- PopAds.net Popunder Code End -->
+</head>
+
+<!-- Global Header Ends Here --><body>
+
+
+<!-- Including Commong header -->
+<div class="container_container">
+	<div class="topHead">
+<div id="container" class="container clearfix">
+<!-- Loading Quicklist Box -->
+<div id="quicklist_box"></div>
+
+<div id="header">
+	<div>
+    <a href="http://k18.co"><img src="http://k18.co/styles/cbv2new/images/dot.gif" alt="K18 - Privacy Policy" name="logo_icon" width="348" height="53" border="0" id="logo_icon" title="K18 - Privacy Policy" class="logo"></a>
+</div> <!--LOGO END-->
+
+
+	
+
+
+	
+
+    <div class="login_con clearfix">
+        <div class="user_login clearfix">
+                	<a href="http://k18.co/forgot.php" class="forget" title="Forget Username/Password, Click Here"></a>
+            <form action="http://k18.co/signup.php" method="post" name="login" style="margin:0px; padding:0px;">
+                <input type="text" value="Username" id="cb_head_username" name="username" onfocus="if(this.defaultValue == this.value) this.value = ''" onblur="if(this.value == '') this.value = this.defaultValue">
+                <input type="password" value="Password" id="cb_head_password" name="password" onfocus="if(this.defaultValue == this.value) this.value = ''" onblur="if(this.value == '') this.value = this.defaultValue">                
+                <input type="submit" value="Login" id="login_head_bttn" name="login">
+                <input type="checkbox" name="rememberme" id="rememberme"> <span class="remember">Remember Me</span>
+                
+			</form> 
+         
+        </div> <!--USER_LOGIN CLASS END-->
+      
+         <div id="user_login">
+            <a href="javascript:void(0)">
+                        	Login
+                
+            </a>
+        </div> <!--USER_LOGIN ID END--><div class="updatedUpload">
+   	 <a href="http://k18.co/upload">Upload video</a> | <a href="http://k18.co/photo_upload">Upload Photo</a>       
+    </div>
+    </div> <!--LOGIN_CON END-->
+    
+        
+</div> <!--HEADER ID END-->
+</div>
+<div class="top_tabs clearfix">
+    <ul>
+    	<li id="cbHomeTab" class=" selected"><a href="http://k18.co">Home</a></li><li id="cbVideosTab" class=""><a href="http://k18.co/videos/">Videos</a></li><li id="cbChannelsTab" class=""><a href="http://k18.co/channels/">Channels</a></li><li id="cbCollectionsTab" class=""><a href="http://k18.co/collections/">Collections</a></li><li id="cbSignupTab" class=""><a href="http://k18.co/signup">Signup</a></li><li id="cbPhotosTab" class=""><a href="http://k18.co/photos/">Photos</a></li><li id="cbThePorn.TodayTab" class=" selected"><a href="http://www.theporn.today">ThePorn.Today</a></li><li id="cbGayTubeTab" class=" selected"><a href="http://www.gaytube.me">GayTube</a></li>
+    </ul>
+	
+</div> <!--TOP_TABS END-->
+
+<div class="navi">
+        <ul>
+                
+        
+        	<li>Welcome Guest ! Please <a href="http://k18.co/signup.php">Login</a> or <a href="http://k18.co/signup.php">Register</a></li>
+             
+         </ul>
+<div class="search_con">
+    <div class="s_bg">	
+        <form action="http://k18.co/search_result.php" method="get" name="search" id="search" style="margin:0px; padding:0px;">               
+            <input name="query" id="query" type="text" class="searchbar" value="">
+            <input type="hidden" name="type" id="searchType" value="">                      
+            <div class="moveL">
+            	<div id="selectedSearch" class="clearfix" onclick="$('#searchSelectWrapper').toggle();">
+                	<span id="selectedText"></span>
+                </div>
+                <div id="searchSelectWrapper">
+                <ul>
+                                            <li>
+                        <a id="collections" href="#">Collections</a>
+                        </li>
+                                            <li>
+                        <a id="users" href="#">Users</a>
+                        </li>
+                                            <li>
+                        <a id="videos" href="#">Videos</a>
+                        </li>
+                                            <li>
+                        <a id="photos" href="#">Photos</a>
+                        </li>
+                                    </ul>    
+                </div>
+            </div>                                
+            <input name="submit" type="submit" class="searchbutton" value="Search">
+        </form>
+    </div> <!--S_BG END-->    
+</div> <!--SEARCH_CON END-->
+    </div></div>
+    
+    
+        <div id="container" class="container clearfix">
+        
+        <div class="nav_shadow"></div>
+        <div id="content" style="">
+        
+        
+        
+        <!-- Message -->
+        
+
+
+
+
+            				<div style="width:98%; margin:auto"><h1>
+	Privacy Policy</h1>
+<p>
+	<em><span style="font-size:12px;">(updated 1-11-2011)</span></em><br>
+	<span style="font-size:12px;">This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 18 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 18.</span></p>
+<br>
+<h1>
+	General</h1>
+<br>
+<p>
+	<span style="font-size:12px;">We gather user information to provide you with a customized experience on our site. Your user information helps us tailor the content, services, goods and advertising to your current and future needs. For this reason, we may ask you to register or to provide personal information when you post comments, enter a contest, order products, subscribe to a newsletter and/or visit certain areas of our site. If you choose not to register you may not have access to areas that require personal identification.<br>
+	If you register with our site or purchase products from us, from time to time we may e-mail you with messages about our services or third party products and services we believe may be of interest to you, such as new products, features, services, special offers and updated information. The newsletters may contain code that enables our database to track your usage of the newsletters, including whether the e-mail was opened and/or what links (if any) were clicked. We will combine that information with other information we have about you and may use that information to improve your site experience and/or provide customized e-mail communications to you. In addition, if you register with our site or purchase products you may automatically receive e-mails confirming your registration and/or purchase and providing you with necessary information relating to the access or use of your registration and/or purchase. With the exception of the e-mails described in the preceding sentence which are necessary to provide customer support and deliver products and services to you, you may opt-out of receiving e-mail from us as described below.</span></p>
+<br>
+<h1>
+	Use of Information</h1>
+<br>
+<p>
+	<span style="font-size:12px;">When you register, we ask for your e-mail address, a unique username selected by you and other information. Once you are a registered user you can update your profile and may be able to provide additional preferential information.<br>
+	For contests, we collect information from users in order to register them for the contest and to provide for payment. We may use an order form for users to request information, products and services. For that order form, we collect a user's contact information (e-mail address) and necessary financial information to process the order (i.e. credit card number). Contact information from the order (including e-mail) may be used to deliver digital products and information. We may use third parties to accept and process orders and credit card purchases for merchandise and products, including software.<br>
+	In order to purchase products or services from us, we require that you provide us with certain personally identifiable information. The types of personally identifiable information that may be collected at this site include: name, address, e-mail address, mobile phone number and MSISDN (mobile station integrated services digital network number), credit card and billing information, download history, customer generated content and/or information about your interests in and use of various products, programs, and services.<br>
+	We may use such personally identifiable information to provide the information or content you have requested (e.g., fulfill your orders for our ringtones, data and news), to contact you about programs, products, features or services in which we believe you may be interested (such as future promotional materials), or for other purposes disclosed from time to time. We also may use your personally identifiable information to contact you regarding your use of our Web Site or changes to our privacy notice, Terms of Service, or other policies or terms that affect you and your use of our Web Site. In addition, we may use information collected about our users to improve the content and navigation of our Web Site, or for other internal purposes.<br>
+	We may, from time to time, supplement the information we collect from you with outside records (e.g., information we obtain from other companies, including wireless providers) to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. To fulfill your requests for products and services (e.g., provide you with content via your mobile phone), we may share the personally identifiable information you provide with your mobile phone service provider or their partner and subcontractor companies. Our privacy policy does not cover such entities use of information. To learn more about your provider's privacy practices, you should consult its privacy policy. From time to time, we may share personally identifiable information with unrelated third parties to enable them to provide you with opportunities to learn of products or services in which you may be interested.<br>
+	We may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry in that contest or promotion, we may ask you to provide personal information. If we plan to share that information with the sponsor(s) or with others, we will provide a statement to that effect in the contest or promotion terms.<br>
+	All communication on the Internet takes place between pairs of IP Addresses. Our Web servers will log the IP address that any connection is made from. We may use these IP addresses to help diagnose technical problems or prevent abuse of our systems or other site users. Your IP address may also be used to gather aggregate demographic data and target advertisements accordingly.<br>
+	Your browser has options to accept, reject, or provide you with notice when a cookie is sent. A “cookie” is a small line of text that is stored with your Web browser for record-keeping purposes and to help us provide better service to you. We use cookies to save your password (in an encrypted format) on your machine so you don’t have to re-enter it each time you visit our site. We also use cookies to deliver content specific to your interests and track your downloads and purchases from our site.<br>
+	We may collect certain non-personally identifiable information when you visit many of our Web pages, such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 2000 or Mac OS), and the domain name of your Internet service provider (e.g., America Online, Earthlink).<br>
+	We use a multitude of companies to serve the advertisements on some of our pages. These companies and advertisers may place and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies, not ours. We may use your information or allow advertisers or companies that serve advertisements access to your information to determine which advertisements you will see. This information may include your demographic information, geographic location, what content you access on our site, how you rate various content, language contained in your comments and other information.<br>
+	Our site contains links, including banner and other ads, to other Websites. We are not responsible for the privacy practices or the content of such Websites. Our site may also link to Websites that feature our trademarks and names along with trademarks and names of other companies. You should look at the privacy policy on that co-branded Website, as the co-branded Website may not be under our control.<br>
+	Applications you use or download from our site may contain third party digital rights management systems (“DRMS”) which may allow for communication between your software and the third party and utilize security features (e.g., preventing distribution of or access to the applications in the event of unauthorized use). These DRMS are subject to their own license agreements and you agree that we shall not be responsible for any loss or damage of any sort relating to the use of the DRMS or your dealings with such third parties. The applications may also contain DRMS produced by us which allow for communication between the applications you use or download and our systems and which collect information describing your computer system in order to prevent illegal or unauthorized use of the applications.<br>
+	For reasons such as improving member experience and providing customized communications to our users, we may receive information about you from third party sources and our web logs and add it to the information that we have received from you. Web logs automatically record anything a web server sees, which may include e-mail addresses you enter into a form or pages viewed by a user at a particular IP address.</span></p>
+<br>
+<h1>
+	Information Sharing</h1>
+<br>
+<p>
+	<span style="font-size:12px;">We will not share your personally identifiable information with third parties, aside from entities that perform services for us, such as fulfilling orders or processing payment, that either are bound to comply with our privacy policy or have privacy policies that protect your information unless you have “opted-in” to such sharing. If you have previously opted-in to such sharing under a prior privacy policy version, you are still considered to have opted-in under this privacy policy. As stated, and whether or not you have opted-in, we may use third parties to accept and process orders for merchandise and products, including software, and such third parties may get access to your personal information for the purposes of providing services or products to you on our behalf. In addition, if you opt-out, we may share that information with third parties who send e-mails on our behalf so that they do not e-mail you.<br>
+	However, we may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on us; (2) protect and defend our rights or property; or (3) act in an emergency to protect someone’s safety.<br>
+	We may request demographic information from you (for example, your age, education level or household income) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity, unless we let you know that at the time of collection or we have your permission. When we share demographic information with third parties, we will give them aggregate information only.<br>
+	In the event that we acquired by another company, your personal information may be part of the assets transferred to the acquiring party.</span></p>
+<br>
+<h1>
+	Opt-Out</h1>
+<br>
+<p>
+	<span style="font-size:12px;">If you provide us with your e-mail address, and do not opt-out of receiving e-mail from us, we may e-mail you with information, including information about selected third parties. If you do not want to receive information from us, you may decline to receive it (or “Opt-Out”) either when you provide personal information to us or you may update your profile. You may also choose to Opt-Out from certain types of e-mail by following the unsubscribe instructions that appear on each newsletter. You may also contact us as provided below. Please note that there might be a brief delay between when you submit your request to opt-out and when it is processed and reflected in our systems; accordingly you might continue to receive e-mails from us for a few days after you unsubscribe. We maintain records of those users who opt-out of specific e-mail options so that we do not e-mail them with respect to those types of e-mails, and we may share this information with third parties who send e-mails on our behalf so that they do not e-mail you; this information may also be contained in web logs (see above).</span></p>
+<br>
+<h1>
+	Persons Under the Age of 18</h1>
+<br>
+<p>
+	<span style="font-size:12px;">Our site is not directed to anyone under the age of 18, or where adult content may be prohibited by law. We assume products purchased through credit card means are purchased by adults. We respect the privacy of parents and children and are committed to complying with the Children’s Online Privacy Protection Act (COPPA). On those areas of the sites that ask for age, we do not collect personal information from individuals who identify themselves as under the age of 18 except in those limited circumstances where we believe that such collection is permitted under COPPA.<br>
+	If a parent believes that his or her child has submitted personal information to us, he or she can contact us via e-mail or postal mail as listed below. We will promptly delete the information upon learning that it relates to a child under the age of 18. Please note that it is possible some of this information may remain archived in web logs and back-up archives after we delete the information from its active database (see above regarding web logs, and below regarding archived information).<br>
+	We believe that parents should supervise their children’s online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other personal information without parental permission.</span></p>
+<br>
+<h1>
+	Other</h1>
+<br>
+<p>
+	<span style="font-size:12px;">We have security measures in place to protect the loss, misuse and alteration of the information under our control. These include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. We will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption.<br>
+	We may offer chat, user reviews, multi-player games, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by our Terms of Use. You should take care to not use personal information in your screen name or other information that might be publicly available to other users.<br>
+	If a user elects to use our site for informing a friend about our site or particular features or content, we ask them for the friend’s name and e-mail address. We will automatically send the friend a one-time e-mail inviting them to visit our site. We store this information for the sole purpose of sending this one-time e-mail.<br>
+	Your personal information is password-protected, and you should take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish a session with us in order to prevent others from accessing your personal information.<br>
+	We maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete the information from its active database (see above regarding web logs). We maintain archives for disaster recovery, legal and other non-marketing purposes.<br>
+	If you are visiting our site from outside the United States, please be advised that because we operate internationally, and certain of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. By using the Web Site, you consent to any such transfer of information outside of your country.</span></p>
+<br>
+<h1>
+	Profile</h1>
+<br>
+<p>
+	<span style="font-size:12px;">You are responsible for maintaining the accuracy of your profile by notifying us when you change your address, title, phone number, or e-mail address. If at any time you wish to update your information or stop receiving communication from us, sign in and then select ‘update your profile’ to change your newsletter preferences.</span></p>
+<br>
+<h1>
+	Contact</h1>
+<br>
+<p>
+	<span style="font-size:12px;">Please address comments or questions regarding this Privacy Policy to us via email to: contact(at)k18.co or as to a successor address that we make available on the Site or through other reasonable manner. You may also send us an e-mail at </span><span style="font-size:12px;"><span style="font-size:12px;">contact(at)k18.co</span>.</span></p>
+<br>
+<h1>
+	Binding Agreement</h1>
+<br>
+<p>
+	<span style="font-size:12px;">Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Usage. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Usage. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 1-1-2011</span></p></div>				 		
+                    </div> <!--CONTENT END-->
+        <div class="clear" style="margin-top:10px"></div>
+
+        <div id="footer">
+            <div class="changer">
+           
+			           
+                <div class="ch_left"></div>        	
+                <div class="ch_right"></div>
+            </div> <!--CHANGER END-->
+            <div class="ch_shadow" style="height:10px"></div>
+            <!--FOOTER CLASS END-->
+            <div class="footer">
+	<div class="footer_copyr">
+    	© K18 2015
+   	</div>
+    <ul class="clearfix">
+    
+    	
+        
+                	            	<li><a href="http://k18.co">Home</a></li>
+                            	            	<li><a href="http://k18.co/contact">Contact Us</a></li>
+                            	            	<li><a href="http://k18.co/page/1/dmca">DMCA</a></li>
+                            	            	<li><a href="http://k18.co/page/2/privacy-policy">Privacy Policy</a></li>
+                            	            	<li><a href="http://k18.co/page/3/2257">2257</a></li>
+                        </ul>
+    <div class="clearfix"></div>
+    
+    <div class="footer_sp"></div>
+    
+    <div align="center">
+     	
+        <!-- Forged by ClipBucket -->
+    	<!-- Please do not remove this unless you have license -->
+    		
+        <!-- Forged by ClipBucket ends -->
+        
+        <img src="http://whos.amung.us/cwidget/1r5z8z1n3xjl/1d1d1d1d1d1d.png" height="0" width="0">
+        </div>
+  
+</div>        </div> <!--FOOTER ID END-->
+    </div>
+</div>
+
+</body></html>
