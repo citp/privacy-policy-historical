@@ -1,0 +1,360 @@
+<!--The following is the downloaded HTML source of the spaste.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315011749id_/http%3A//spaste.com/site/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en-US" class="csstransforms csstransforms3d csstransitions"><head>
+    <div class="fit-vids-style">­<style> .fluid-width-video-wrapper { width: 100%; position: relative; padding: 0; } .fluid-width-video-wrapper iframe, .fluid-width-video-wrapper object, .fluid-width-video-wrapper embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } </style></div><base href="/themes/default/">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="author" content="teamOxio Technologies LLP">
+
+
+    <!-- ============================================
+        Stylesheets
+    ============================================= -->
+    <link href="http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic|Open+Sans:400,300,600,700" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="stylesheet" media="only screen and (-webkit-min-device-pixel-ratio: 2)" type="text/css" href="css/retina.css">
+    <link rel="stylesheet" href="css/colors.php" type="text/css">
+    <link rel="stylesheet" href="css/tipsy.css" type="text/css">
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="css/font-awesome.css" type="text/css">
+    <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css">
+    <link rel="stylesheet" href="css/elastic.css" type="text/css">
+    <!--<link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css">-->
+	<!--<link rel="stylesheet" type="text/css" href="css/syntax/shCore.css">-->
+	<!--<link rel="stylesheet" type="text/css" href="css/demo.css">-->
+	<link rel="stylesheet" type="text/css" href="css/jquery.snippet.css">
+	
+	<!--<style type="text/css" class="init">
+
+	</style>-->
+
+
+    <link rel="stylesheet" href="css/responsive.css" type="text/css">
+    <link rel="stylesheet" href="http://cdn.datatables.net/1.10.0/css/jquery.dataTables.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!--[if lt IE 9]>
+    <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+
+
+   
+    <!-- ============================================
+        External JavaScripts
+    ============================================= -->
+    <script type="text/javascript" src="js/jquery.js"></script>
+     
+    <script type="text/javascript" src="js/jquery.elastic.js"></script>
+    <!--<script type="text/javascript" language="javascript" src="js/jquery.dataTables.js"></script>-->
+    <script src="http://cdn.datatables.net/1.10.1/js/jquery.dataTables.js"></script>
+   
+	<script type="text/javascript" src="js/jquery.snippet.js"></script>
+	<script type="text/javascript" src="js/jqBarGraph.1.1.js"></script>
+	<script type="text/javascript" src="js/plugins.js"></script>
+	 <!--<script type="text/javascript" language="javascript" src="js/shCore.js"></script>
+	<script type="text/javascript" language="javascript" src="js/demo.js"></script>-->  
+	<script type="text/javascript" language="javascript" class="init">
+	$(document).ready(function() {
+		//$('#example').dataTable(); 
+		//$("pre.htmlCode").snippet("html");
+		//$("pre.styles").snippet("css",{style:"greenlcd"});
+		//$("pre.js").snippet("javascript",{style:"random",transparent:true,showNum:false});
+		//$("pre#dynamic").snippet("php",{style:"navy",clipboard:"js/ZeroClipboard.swf",showNum:false});
+		/*arrayOfData = new Array(
+		    [[14],'2007'],
+		    [[8],'2008'],
+		    [[4],'2009']*/
+		
+		//$('#divForGraph').jqBarGraph({ data: arrayOfData });
+	});
+	
+	</script>
+	<style>
+		.countryHere{
+			cursor:pointer;
+		}
+	</style>
+	<script>
+    	$(document).ready(function () {
+    		$(".countryHere").click(function () {
+    			var elem = $(this);
+    			elem.html("Please wait.....");
+    			$.get('http://spaste.com/site/getCountryFromIp',{ip:elem.parent().find("span").html()},function (r){
+    				elem.html(r);
+    			});
+    		});
+    	});
+    </script>
+
+
+    <!-- ============================================
+        Document Title
+    ============================================= -->
+    <title>Privacy Policy | SPaste</title>
+
+<script type="text/javascript">
+function revertForm()
+{
+	$("#paste_content").val('');
+	$("#paste_title").val('');
+	$("#resultData").show();
+	$("#resultData1").hide();
+}
+	$(document).ready(function(){
+		$("#submitPaste").click(function(){
+			var paste_content=$("#paste_content").val();
+			var paste_title=$("#paste_title").val();
+			if(paste_content=="")
+			{
+				alert("Fill in the paste content");
+				return false;
+			}
+			$.post("http://spaste.com/site/index",{'paste_content':paste_content,'paste_title':paste_title,'userspaste':'userspaste',ajax:''},function(r){
+			$("#resultData").hide();
+			$("#resultData1").show();
+			$("#resultDataC").html("Press CTRL+C to copy<br /><input style='width:75%;float:left;' id='newUrl' type='text' onclick='this.select()' value='"+r+"'/>&nbsp;&nbsp;<a style='color: rgb(0, 0, 0); float: left; margin-left: 20px;' href='"+r+"'>Open</a>");
+			$("#newUrl").select();
+		});
+	});
+});
+</script> 
+ 
+<style>
+	@media only screen and (max-width: 480px){
+		.myMobileClass{
+			display:none;
+		}
+		.myExampleClass2{
+			visibility:visible;
+		}
+		#example,#example_wrapper{
+			display:none;
+		}
+	}
+	@media only screen and (min-width:480px){
+		.myExampleClass2{
+			display: none;
+		}
+	}
+	/*@media only screen and (min-width: 480px) and (max-width: 770px)  {*/
+	@media only screen and (max-width: 770px)  {
+		.myExampleClass,.myForm{
+			display:none;
+		}
+		#myExample{
+			display: block;
+			/*visibility: visible;*/
+			}
+		}
+	
+	@media only screen and (min-width: 770px)  {
+		.myExampleClass,.myForm{
+			/*display:block;*/
+			visibility: visible;
+		}
+		#myExample,{
+			display: none;
+			}
+	}
+	
+
+</style>
+
+</head>
+
+<body class="stretched">
+
+
+<div id="wrapper" class="clearfix">
+
+
+    <!-- ============================================
+        Top Bar
+    ============================================= -->
+    <div id="top-bar">
+
+        <div class="container clearfix">
+
+            <div id="top-menu">
+
+                <ul>
+<!--
+                    <li class="top-menu-em"><span>/</span><a href="#">create new paste</a></li>
+                    <li><span>/</span><a href="#">tools</a></li>
+                    <li><span>/</span><a href="#">api</a></li>
+                    <li><span>/</span><a href="#">faq</a></li>
+-->
+                </ul>
+
+            </div>
+
+					            <div id="top-social">
+
+                <ul>
+                	                    	<li class="ts-facebook"><a href="http://facebook.com" style="width: 40px;"><div class="ts-icon"></div><div class="ts-text">Facebook</div></a></li>
+                                        <li class="ts-twitter"><a href="https://twitter.com/sPasteTeam" style="width: 40px;"><div class="ts-icon"></div><div class="ts-text">Twitter</div></a></li>
+                                        <li class="ts-gplus"><a href="http://gmail.com" style="width: 40px;"><div class="ts-icon"></div><div class="ts-text">Google+</div></a></li>
+                                         <li class="ts-mail"><a href="mailto:info@spaste.com" style="width: 40px;"><div class="ts-icon"></div><div class="ts-text">info@spaste.com</div></a></li>
+                   	                    <!--<li class="ts-dribbble"><a href="#"><div class="ts-icon"></div><div class="ts-text">Dribbble</div></a></li>
+                    <li class="ts-pinterest"><a href="#"><div class="ts-icon"></div><div class="ts-text">Pinterest</div></a></li>
+                    <li class="ts-forrst"><a href="#"><div class="ts-icon"></div><div class="ts-text">Forrst</div></a></li>
+                    <li class="ts-rss"><a href="#"><div class="ts-icon"></div><div class="ts-text">RSS</div></a></li>
+                    <li class="ts-vimeo"><a href="#"><div class="ts-icon"></div><div class="ts-text">Vimeo</div></a></li>
+                    <li class="ts-phone"><a href="tel:+913326789234"><div class="ts-icon"></div><div class="ts-text">+91.33.26789234</div></a></li>-->
+                   
+
+                </ul>
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- ============================================
+        Header
+    ============================================= -->
+    <div id="header" style="height:94px; ">
+        <div class="container clearfix">
+            <!-- ============================================
+                Logo
+            ============================================= -->
+            <div id="logo">
+                <a href="/site/index" class="standard-logo"><img src="images/spaste-logo7.png" alt="Spaste" title="Spaste" style="height: 80px;">
+                	<!--<h1 style="margin-top:35px;">Spaste.com</h1>-->
+                </a>
+                <a href="/site/index" class="retina-logo">
+                	<img src="images/spaste-logo7.png" alt="Spaste" title="Spaste" width="204" height="80">
+                		<!--<h1>Spaste.com</h1>-->
+                	</a>
+            </div>
+            <!-- ============================================
+                Menu
+            ============================================= -->
+            <div id="primary-menu">
+                <ul class="sf-js-enabled">
+                                        <li><a href="/site/index"><div>Home</div><span></span></a></li>
+                    <li><a href="http://spaste.com/register"><div>Sign Up</div><span></span></a></li>
+                    <li><a href="http://spaste.com/login"><div>Login</div><span></span></a></li>
+                    	<li><a href="http://spaste.com/con"><div>Contact</div><span></span></a></li>
+                                    </ul><select class="select-menu"><option value="#">Go to Page...</option><option value="https://web.archive.org/site/index">&nbsp;Home</option><option value="http://spaste.com/register">&nbsp;Sign Up</option><option value="http://spaste.com/login">&nbsp;Login</option><option value="http://spaste.com/con">&nbsp;Contact</option></select>
+            </div>
+
+
+        </div>
+
+
+    </div>
+
+
+    <!-- ============================================
+        Slider
+    ============================================= -->
+
+
+    <div id="content">
+    <div id="content">
+	<div id="page-title">
+    <div class="container clearfix">
+        <h1>Privacy Policy</h1>
+            <br>
+            <div class="col_full">
+			          
+<p>At SPaste.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by SPaste.com and how it is used.</p>
+
+<p>“We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance.
+</p>
+<h3>Log Files</h3>
+<p>
+Like many other Web sites, SPaste.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+</p>
+<h3>Cookies and Web Beacons</h3>
+<p>SPaste.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
+
+<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.</p> 
+           </div>
+           
+        
+    </div>
+</div>
+
+</div><!-- content -->
+    </div>
+    <!-- ============================================
+        Footer
+    ============================================= -->
+    <!--<div id="footer" class="footer-dark">
+
+
+        <div class="container clearfix">
+
+
+            <div class="footer-widgets-wrap clearfix">
+                <div class="col_full" style="min-height:-10px;">
+                    <!--<a href="#">create new paste</a><span class="link-divider"> / </span><a href="#">api </a><span class="link-divider"> / </span><a href="#"> users </a><span class="link-divider"> / </span><a href="#"> faq </a>
+                    <!--<span class="link-divider"> / </span><a href="#"> privacy </a> <span class="link-divider"> / </span><a href="#"> contact </a> <span class="link-divider"> / </span><a href="#"> dmca </a>
+                </div>
+                <div class="col_full" style="min-height:-10px;">
+                    <a href="#">Follow us : </a> <span class="link-divider"> &nbsp; </span><a href="#">site on facebook </a><span class="link-divider"> / </span><a href="#"> site on twitter </a><span class="link-divider"> / </span><a href="#"> site news </a>
+
+                </div>
+            </div>
+        </div>
+
+
+    </div>-->
+
+
+    <div class="clear"></div>
+
+    <!-- ============================================
+        Copyrights
+     ============================================= -->
+    <div id="copyrights" class="copyrights-dark">
+ 
+        <div class="container clearfix">
+ 
+ 
+             <div class="col_half">
+
+                Copyright © 2015 sPaste.com All Rights Reserved.
+ 
+            </div>
+
+            <div class="col_half col_last tright">
+                
+                <a href="/site/privacy">Privacy Policy</a><span class="link-divider">/</span><a href="/site/dmca">Terms of Service</a><span class="link-divider">/</span><a href="/site/faq">FAQs</a><span class="link-divider">/</span><a href="/site/earnMoney">Earn Money</a>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+</div>
+ <!--<iframe style="display:none" src="http://spaste.com/adblock-detector.htm"></iframe>-->
+
+<div id="gotoTop" class="icon-angle-up"></div>
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.3/themes/smoothness/jquery-ui.css">
+<script type="text/javascript" src="js/custom.js"></script>
+<script type="text/javascript" src="js/bpopup.js"></script>
+<script src="http://cdn.datatables.net/1.10.1/js/jquery.dataTables.js"></script>
+ <script src="//code.jquery.com/ui/1.11.3/jquery-ui.js"></script>
+<script>
+		 $(document).ready( function (){
+	       $('#example').dataTable({order:[[0,"desc"]],                               
+	      // "processing": true,
+          // "serverSide": true,
+		  // "ajax":"/site/getAjaxData/1",
+		   });
+		   
+		   	$( ".datepicker" ).datepicker();
+		  	$( ".datepicker1" ).datepicker();
+	     } );
+	</script>
+
+
+
+
+</body></html>
