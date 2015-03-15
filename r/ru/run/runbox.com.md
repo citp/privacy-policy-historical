@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runbox.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209060857id_/https%3A//runbox.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runbox.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022913id_/https%3A//runbox.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Fast and Secure Premium Email Services and Business Email Hosting from Runbox
+# Privacy Policy - Runbox
 
 _Updated March 1, 2012_
 
