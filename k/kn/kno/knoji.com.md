@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knoji.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012174653id_/http%3A//knoji.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knoji.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025410id_/https%3A//knoji.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy — Knoji
 
@@ -12,7 +12,7 @@ ZipfWorks reserves the right, at our discretion, to change, modify, add or remov
 
 **Your Agreement**
 
-Your use of any of our websites or Services evidences your agreement to the terms of this Privacy Policy. PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND THE WEBSITE’S [TERMS OF USE](https://web.archive.org/web/20141012174653id_/http%3A//knoji.com/pages/terms.html). IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE. 
+Your use of any of our websites or Services evidences your agreement to the terms of this Privacy Policy. PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND THE WEBSITE’S [TERMS OF USE](https://web.archive.org/web/20150315025410id_/https%3A//knoji.com/pages/terms.html). IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE. 
 
 **Information We Collect and How We Use It**
 
