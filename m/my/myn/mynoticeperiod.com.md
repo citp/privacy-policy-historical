@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynoticeperiod.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071200id_/http%3A//mynoticeperiod.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynoticeperiod.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315061633id_/https%3A//mynoticeperiod.com/privacy.htm) for the most accurate reproduction.*
 
 # Mynoticeperiod.com - Privacy Policy
 
