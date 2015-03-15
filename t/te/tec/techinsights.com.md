@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techinsights.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217010837id_/http%3A//www.techinsights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techinsights.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020639id_/http%3A//www.techinsights.com/privacy-policy) for the most accurate reproduction.*
 
 # TechInsights Privacy Policy
 
