@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021215511id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021801id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ We’re committed to protecting your privacy and collecting only the minimum amo
 
 Nothing in this policy contradicts the following statements:
 
-  1. We don’t collect your personal info, including your IP address, unless you give us your email address to log in or correspond. 
+  1. We don’t collect any of your personal info, including your IP address, other than information you voluntarily provide. 
   2. We don’t sell your personal info to advertisers or other third parties. 
   3. We share your personal info only when legally required, or when reasonably necessary to prevent harm in an emergency situation.
   4. We retain your personal info, excluding info you make public, for no more than 30 days after you request deletion. 
