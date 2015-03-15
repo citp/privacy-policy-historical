@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubwpt.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092022id_/https%3A//www.clubwpt.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubwpt.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315073307id_/https%3A//www.clubwpt.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Play Online Poker for Free at ClubWPT.com - Brought To You By The World Poker Tour®
 
