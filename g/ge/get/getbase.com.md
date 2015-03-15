@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getbase.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017071719id_/https%3A//getbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getbase.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315234745id_/https%3A//getbase.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Base CRM
 
@@ -31,8 +31,6 @@ However, if requested by law, The Company holds its right to share your informat
 The Company will use the email provided in the registration process in order to send a welcome email, billing and invoice information and news and updates. If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us.
 
 If you choose to use our invite Teammates to our Service, we will ask you for that Teammate’s email address. We will automatically send a one-time email inviting that Teammate to use the Service. Company stores this information to validate authorized users. Invited Teammates may contact us to request that we remove this information from our database.
-
-The Company uses “cookies”, a small amount of usually anonymous information, to store some relevant session information. The Company may store and access such “cookies” on your computer. Making use of this technology is necessary for using The Service. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your preferences. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. If you reject cookies, you may still use our site, but your ability to use some areas of our site, will be limited.
 
 Technologies such as: cookies, beacons, tags and scripts are also used by the Company and our advertising partners and service providers. These technologies are used in analyzing trends, administering the site, tracking user’s movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
@@ -73,4 +71,4 @@ Please be informed that The Company uses third party vendors and hosting partner
 ](mailto:support@getbase.com)[support@getbase.com](mailto:support@getbase.com)  
 1 (800) 940-9650 
 
-_Policy effective September 12, 2014_
+_Policy effective December 5, 2014_
