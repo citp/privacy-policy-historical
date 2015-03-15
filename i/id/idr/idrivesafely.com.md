@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223092657id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315064836id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
 
 # I Drive Safely - Privacy Policy & Notifications.
 
@@ -22,7 +22,7 @@ Based upon the particular course or product that you are ordering, and the State
 
 _Driver Improvement Courses (known also as Driving Safety Course or Defensive Driving Course):_ To help accurately process the certificate for your court, we may also collect unique identifiers such as a driver's license number, citation/case number due date, County and State information, and in some states, social security number, alien number, and number of traffic violations in the past 12 months.
 
-_Florida Permit Exam or our TLSAE/Drug and Alcohol Course:_ We may collect unique identifiers such as social security number, alien number, county you reside in, admissions number, and Florida ID card number.
+_Florida Permit Exam or our TLSAE/Drug and Alcohol Course:_ We may collect one of the following unique identifiers: Last Five-digits of the student's social security number, alien registration number, admissions number, Florida ID card number. In addition, the state of Florida mandates the student's parent or guardian to provide a valid driver license number.
 
 _Texas TEA Teen Online Driver Education Course (32 hours of theory instruction):_ We ask teens under the age of 18 to provide their parent's or legal guardian's first name, last name, street address, email address, phone number, and their relationship to the teen.
 
@@ -72,7 +72,7 @@ eDriving LLC is the parent company of I Drive Safely LLC, Interactive Solutions 
 
 **_Disclosure to Third Parties:_**
 
-We will not share your information with any third party except as outlined within this privacy policy or as required by law to do so. We use an outside shipping company to ship orders. We use third party verification partners to whom data is passed for means of authenticating students throughout the course, and we use your court (or court assistance agency contracting with your court) for proper paperwork processing and dismissal of traffic citations. In some instances, your Personally Identifiable Information will be shared with various course providers we contract with to provide course delivery and certificate fulfillment. These agents access our database to offer customer support to students in the respective states, print certificates of completion, and/or report course completions results to regulatory bodies.
+We will not share your information with any third party except as outlined within this privacy policy or as required by law. We may share your personal information with Service providers under contract who help with our business operation, such as outside shipping company to ship orders, third party verification partners to whom data is passed for means of authenticating students throughout the course, court (or court assistance agency contracting with your court) for proper paperwork processing and dismissal of traffic citations, and with a third party hosted call center solution for telecommunication (chats and emails) and call monitoring services. In some instances, your Personally Identifiable Information will be shared with various course providers we contract with to provide course delivery and certificate fulfillment. These agents access our database to offer customer support to students in the respective states, print certificates of completion, and/or report course completions results to regulatory bodies.
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order, or legal process served on our website, or as required by law.
 
@@ -112,7 +112,8 @@ This website takes precautions to protect our customers' information. When custo
 
 While we use SSL encryption to protect sensitive information during online transmission of the data, we also take precautions to protect customer information offline. All of our customers' information, encompassing more than the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
 
-**_Your Right to Access and Control over Your Personally Identifiable Information:_** You* may opt out of any future contacts from us at any time. You can also do the following at any time by contacting us via the email address or phone number given on our website, or by using the contact information provided in the "Contacting the Website" section of this privacy statement:
+**_Your Right to Access and Control over Your Personally Identifiable Information:_**   
+You* may opt out of any future contacts from us at any time. You can also do the following at any time by contacting us via the email address or phone number given on our website, or by using the contact information provided in the "Contacting the Website" section of this privacy statement:
 
   * Learn what data we have about you, if any.
   * Change/correct any data we have about you.
@@ -121,7 +122,8 @@ While we use SSL encryption to protect sensitive information during online trans
 
 
 
-*** For Texas TEA Teen Online Driver Education Course (32 hours of theory instruction):** Parents may review and request that we update or delete their teen's information by sending a signed request, including their email address, the teen's email address, birth date, and first name to: [PrivacyPolicy@IDriveSafely.com](mailto:PrivacyPolicy@IDriveSafely.com)
+*** For Texas TEA Teen Online Driver Education Course (32 hours of theory instruction):**   
+Parents may review and request that we update or delete their teen's information by sending a signed request, including their email address, the teen's email address, birth date, and first name to: [PrivacyPolicy@IDriveSafely.com](mailto:PrivacyPolicy@IDriveSafely.com)
 
 **_Links to Other Sites:_**
 
@@ -130,6 +132,10 @@ For your convenience, this site contains links to other websites. Some of these 
 **_Collection of Information from Children:_**
 
 We do not seek information directly from children. If you are under 13, you should not provide us with any information without the involvement of a parent or guardian. A parent or guardian may register a child age 14 or over to visit or join one of our courses.
+
+**Notice to California Minors (California Residents under age 18):**
+
+The State of California requires an operator of an internet website that is directed to CA minors to comply with California S.B. 568 and allow California minors to remove or request and obtain removal of content they posted to a website. If you are a California Resident, under the age of 18, and would like to submit a request to have your content (photos, reviews, testimonials, comments) removed from our website, please contact us at [onlineeraser@edriving.com](mailto:onlineeraser@edriving.com) or call us at 760-692-3279. Please note - This removal process does not ensure complete or comprehensive removal of the content posted on the site or service.
 
 **_Notification of Changes:_**
 
@@ -147,10 +153,10 @@ If, however, the change expands the ways in which we share users' personally ide
 
 
 
-**Effective Date: October 10, 2014.**
+**Effective Date: January 27, 2015.**
 
 ###### Join more than 5 million satisfied customers!   
-[](https://web.archive.org/signup/displayStateSelection.pl?COUPON=)
+[](https://web.archive.org/signup/displayStateSelection.pl?COUPON=DIPCR0SS)
 
 | 
 
@@ -158,7 +164,7 @@ If, however, the change expands the ways in which we share users' personally ide
 
 Register now and join more than 5 million satisfied customers!
 
-[](https://web.archive.org/signup/displayStateSelection.pl?COUPON=)
+[](https://web.archive.org/signup/displayStateSelection.pl?COUPON=DIPCR0SS)
 
   
 
