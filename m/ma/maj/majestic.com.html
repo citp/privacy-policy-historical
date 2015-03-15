@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the majestic.com privacy policy that was archived on 2014-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141002064945id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the majestic.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315022916id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	
 	<meta name="viewport" content="initial-scale=1.0">
-	<title>Privacy Policy - Majestic SEO</title>
+	
+	
+	<title>Privacy Policy - Majestic</title>
 	
 	<link rel="icon" type="image/png" href="/static/images/majestic/favicon.png">
 	
@@ -16,7 +18,7 @@
 	<link rel="stylesheet" type="text/css" href="/static/css/yahoo/reset-min.css">
 	<link rel="stylesheet" type="text/css" href="/static/css/yahoo/base-min.css">
 	
-	<link rel="stylesheet" type="text/css" href="/static/production/css/6404e9b0.majestic.seo.min.cache.css">
+	<link rel="stylesheet" type="text/css" href="/static/production/css/70a2d3e3.majestic.seo.min.cache.css">
 	
 	
 	
@@ -28,10 +30,6 @@
 	
 		
 			<link rel="alternate" hreflang="en" href="https://majestic.com/support/privacy-policy">
-		
-	
-		
-			<link rel="alternate" hreflang="cn" href="https://cn.majestic.com/support/privacy-policy">
 		
 	
 		
@@ -51,6 +49,8 @@
 		
 	
 		
+	
+		
 			<link rel="alternate" hreflang="nl" href="https://nl.majestic.com/support/privacy-policy">
 		
 	
@@ -66,14 +66,18 @@
 			<link rel="alternate" hreflang="ru" href="https://ru.majestic.com/support/privacy-policy">
 		
 	
+		
+			<link rel="alternate" hreflang="zh" href="https://zh.majestic.com/support/privacy-policy">
+		
 	
-	<script type="text/javascript" defer="" async="" src="https://analytics.majestic.com/piwik.js"></script><script type="text/javascript" src="/static/scripts/jquery/jquery-1.10.2.min.js"></script>
+
+	<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" defer="" async="" src="https://analytics.majestic.com/piwik.js"></script><script type="text/javascript" src="/static/scripts/jquery/jquery-1.10.2.min.js"></script>
 	<script type="text/javascript" src="/static/scripts/jquery/jquery-ui.min-20140205.js"></script>
 	
 	<script type="text/javascript" src="/static/scripts/bootstrap/bootstrap.min.js"></script>
 	<script type="text/javascript" src="/static/scripts/highcharts/highcharts-3.0.4.js"></script>
 	
-	<script type="text/javascript" src="/static/production/js/a42b9d34.majestic.seo.min.cache.js"></script>
+	<script type="text/javascript" src="/static/production/js/6ae9f3b9.majestic.seo.min.cache.js"></script>
 	
 	<!--[if IE]>
 		<script type="text/javascript" src="/static/scripts/excanvas/excanvas.min.js"></script>
@@ -135,7 +139,7 @@
 	
 </head>
 
-<body style="">
+<body class="en" style="">
 	
 
 	<div id="feedbackForm">
@@ -220,7 +224,7 @@
 		$.post('/messages/get-message',
 			{
 				path: '/support/privacy-policy',
-				uxgroup: 'a'
+				uxgroup: 'b'
 			},
 			function(response)
 			{
@@ -371,68 +375,7 @@
 	var showingLogout = false;
 	
 	$(document).ready(function() {
-
-		
-		// save recent searches.
-		// turned off for Do Not Track
-		var recentSearches = $("#recentSearches");
-		/* Recent Searches */
-		if(typeof(Storage) !== "undefined")
-		{
-			var sh = sessionStorage.getItem("mj12_search_history");
-			var searchHistory = JSON.parse(sh);
-
-			if(sh == null || sh == '["","","","",""]')
-			{
-				$('<li>No searches have been made.</li>').appendTo(recentSearches);
-			}
-			else
-			{
-				if (searchHistory !== null)
-				{
-					for(var i = 0; i < 5; i++)
-					{
-						if(searchHistory[i])
-						{
-							var searchTerm = searchHistory[i][0];
-							var index = searchHistory[i][1];
-							var wildcard = searchHistory[i][2];
-							var tool = searchHistory[i][3];
-							var url = "/reports";
-
-							if (tool)
-							{
-								url += "/search-explorer?q=" + searchTerm;
-							}
-							else
-							{
-								url += "/site-explorer?q=" + searchTerm;
-								if(index == "H")
-								{
-									url += "&IndexDataSource=" + index;
-								}
-								if(wildcard == 1)
-								{
-									url += "&wildcard=1";
-								}
-							}
-
-							if(searchTerm.length > 18)
-							{
-								searchTerm = searchTerm.substring(0,18);
-								searchTerm += "...";
-							}
-							$('<li><a title="' + searchHistory[i][0] + '"href="' + url + '">' + searchTerm + '</a></li>').appendTo(recentSearches);
-						}
-					}
-				}
-				else
-				{
-					$('<li>No searches have been made.</li>').appendTo(recentSearches);
-				}
-			}
-		}
-		
+	
 
 		var arrow = $("#login_arrow_image");
 	
@@ -511,7 +454,7 @@
 </script>
 <div id="majestic_logo">
 	<h1 id="normal">
-		<a id="mj-logo" href="/">Majestic SEO</a>
+		<a id="mj-logo" href="/">Majestic</a>
 	</h1>
 </div>
 
@@ -526,7 +469,7 @@
 <div id="menu_list">
 	<ul class="horzMenu">
 	
-		<li><a href="http://blog.majesticseo.com/">Blog</a></li>			
+		<li><a href="http://blog.majestic.com/">Blog</a></li>			
 		<li class="dd-link separator">					
 			<a class="head" aria-haspopup="true" href="JavaScript:;">Tools<img class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>							  
 			<ul class="dd-content">
@@ -577,14 +520,19 @@
 				<li><a href="/support">Overview</a></li>
 				<li><a href="/support/faq">FAQs</a></li>
 				<li><a href="/support/glossary">Glossary</a></li>
-				<li><a href="http://blog.majesticseo.com/how-to-videos/">How To Videos</a></li>
+				<li><a href="http://blog.majestic.com/how-to-videos/">How To Videos</a></li>
 				<li><a href="/support/forums">Forums</a></li>
-				<li><a href="/support/contact-us">Contact Us</a></li>
+				
+				<li class="separate"><a href="/business">Business Pages</a></li>
 				<li><a href="/support/tools">Tools</a></li>
+				<li><a href="http://developer-support.majestic.com/api/">API Reference Guide</a></li>	
+				
+				
+				<li class="separate"><a href="/support/contact-us">Contact Us</a></li>
 				<li><a href="/support/about">About Us</a></li>
 				<li><a href="/support/terms">Terms &amp; Conditions</a></li>
 				<li class="selected"><a href="/support/privacy-policy">Privacy Policy</a></li>
-				<li><a href="http://developer-support.majesticseo.com/api/">API Reference Guide</a></li>	
+				
 				
 			</ul>
 		</li>
@@ -638,11 +586,6 @@
 					
 				</a></li>
 				
-				<li class="lang cn"><a href="https://cn.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
-					中文
-					
-				</a></li>
-				
 				<li class="lang de"><a href="https://de.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
 					Deutsch
 					
@@ -663,6 +606,11 @@
 					
 				</a></li>
 				
+				<li class="lang ja"><a href="https://ja.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+					日本語
+					
+				</a></li>
+				
 				<li class="lang nl"><a href="https://nl.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
 					Nederlands
 					
@@ -680,6 +628,11 @@
 				
 				<li class="lang ru"><a href="https://ru.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
 					Pусский
+					
+				</a></li>
+				
+				<li class="lang zh"><a href="https://zh.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+					中文
 					
 				</a></li>
 				
@@ -709,12 +662,9 @@
 
 <div id="breadcrumb">
 	<ul class="horzMenu">
-		<li><a href="/">Home</a></li><li><a href="/support">Support</a></li><li><a href="/support/privacy-policy">Privacy Policy</a></li>
+		<li><a href="/">Home</a></li><li><a href="/support">Support</a></li>
 		<li>Privacy Policy</li>
 	</ul>
-	
-	<!-- For the images used on top right hand side of menus and some other pages -->	
-		
 </div>
 
 
@@ -750,8 +700,8 @@
 	<div class="contentPanelWhite brdBottom noTopPad">
 		<h3>Privacy Policy</h3>
 		<p>
-			<b>This policy applies from:</b> 23<super>rd</super> April 2014.<br>
-			The <a href="/support/privacy-policy/privacy-policy-pre-april2014">earlier version of the Privacy Policy</a> is available for your convenience.
+			<b>This policy applies from:</b> 3<super>rd</super> November 2014.<br>
+			The <a href="/support/privacy-policy/privacy-policy-pre-november2014">earlier version of the Privacy Policy</a> is available for your convenience.
 		</p>
 		<p>
 			Should you have any queries regarding this privacy policy please feel free to contact us using our <a href="/support/contact-us">support system</a>.
@@ -764,7 +714,7 @@
 			Majestic-12 Limited (company registered number 05269210) (<b>We or us</b>), are committed to protecting and respecting your privacy.<br>
 		</p>
 		<p>
-			This policy (together with our <a href="/support/terms#termsofuse">terms of use</a> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.<br>
+			This policy (together with our <a href="/support/terms#termsofuse">terms of use</a> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting majestic.com, majesticseo.com or majestic12.co.uk (or any associated sub-domains) (<b>our sites</b>), or taking out any form of subscription with us, you are accepting and consenting to the practices described in this policy. <br>
 		</p>
 		<p>
 			For the purpose of the Data Protection Act 1998 (the <b>Act</b>), the data controller is Majestic-12 Limited of Birmingham Science Park Aston, Faraday Wharf, Holt Street, Birmingham, United Kingdom, B7 4BB. <br>
@@ -777,7 +727,7 @@
 			</p>
 
 			<ul>
-				<li> Information that you provide by filling in forms on our sites (including majesticseo.com and majestic12.co.uk (and any associated sub-domains)) (<b>our sites</b>). This includes information provided at the time of registering to use our sites, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our sites.</li>
+				<li> Information that you provide by filling in forms on our sites. This includes information provided at the time of registering to use our sites, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our sites.</li>
 				<li> If you contact us, we may keep a record of that correspondence.</li>
 				<li> We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. </li>
 				<li> Details of transactions you carry out through our sites and of the fulfilment of your orders. </li>
@@ -921,11 +871,11 @@
 		<div id="footer">
 			
 		<div id="social_links">
-			<a href="https://twitter.com/MajesticSEO" title="Twitter" target="_blank"><img class="twitter" height="30" width="30" alt="Majestic SEO on Twitter" src="/static/images/backgrounds/1px.png"></a>
-			<a href="http://www.facebook.com/MajesticSite" title="Facebook" target="_blank"><img class="fb" height="30" width="30" alt="Majestic SEO on Facebook" src="/static/images/backgrounds/1px.png"></a>
-			<a href="http://www.youtube.com/user/Majesticseovideo" title="Youtube" target="_blank"><img class="yt" height="30" width="30" alt="Majestic SEO on Youtube" src="/static/images/backgrounds/1px.png"></a>
-			<a href="https://plus.google.com/+majesticseo" title="Google+" rel="publisher" target="_blank"><img class="gplus" height="30" width="30" alt="Majestic SEO on Google+" src="/static/images/backgrounds/1px.png"></a>
-			<a href="http://pinterest.com/majesticSEO12/" title="Pinterest" rel="publisher" target="_blank"><img class="pinterest" height="30" width="30" alt="Majestic SEO on Pinterest" src="/static/images/backgrounds/1px.png"></a>
+			<a href="https://twitter.com/tryMajestic" title="Twitter" target="_blank"><img class="twitter" height="30" width="30" alt="Majestic on Twitter" src="/static/images/backgrounds/1px.png"></a>
+			<a href="http://www.facebook.com/MajesticSite" title="Facebook" target="_blank"><img class="fb" height="30" width="30" alt="Majestic on Facebook" src="/static/images/backgrounds/1px.png"></a>
+			<a href="http://www.youtube.com/user/Majesticseovideo" title="Youtube" target="_blank"><img class="yt" height="30" width="30" alt="Majestic on Youtube" src="/static/images/backgrounds/1px.png"></a>
+			<a href="https://plus.google.com/+majesticseo" title="Google+" rel="publisher" target="_blank"><img class="gplus" height="30" width="30" alt="Majestic on Google+" src="/static/images/backgrounds/1px.png"></a>
+			<a href="http://pinterest.com/majestic_12/" title="Pinterest" rel="publisher" target="_blank"><img class="pinterest" height="30" width="30" alt="Majestic on Pinterest" src="/static/images/backgrounds/1px.png"></a>
 			<a href="/support/forums" title="Forums"><img class="forums" height="30" width="30" alt="Forums" src="/static/images/backgrounds/1px.png"></a>
 		</div>					
 		<ul class="horzMenu footerlist">
@@ -946,12 +896,13 @@
   var _paq = _paq || [];
   
 
-	_paq.push(['setDocumentTitle',document.domain + "/" + document.title + "/version=a/usr=G"]);	
+	_paq.push(['setDocumentTitle',document.domain + "/" + document.title + "/version=b/usr=G"]);	
   
 
 	_paq.push(['setCustomVariable',  1,"Subdomain", "en", "page"]); 
 	_paq.push(['setCustomVariable',  2,"Usr", "G", "page"]);
 	_paq.push(['setCustomVariable',  3,"Domain", "Majestic", "page"]);	
+	
 	_paq.push(['trackPageView']); 
 	_paq.push(['enableLinkTracking']); 
 	_paq.push(['setDomains',"*.majestic.com"]);
@@ -965,6 +916,19 @@
 		g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
 	})();
 
+	piAId = '64022';
+	piCId = '1998';
+
+	(function() {
+	function async_load(){
+	var s = document.createElement('script'); s.type = 'text/javascript';
+	s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+	var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); }
+	})();
+	
 </script>
 <noscript><p><img src="//analytics.majestic.com/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
