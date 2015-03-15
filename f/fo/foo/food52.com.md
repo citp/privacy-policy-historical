@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the food52.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222061926id_/http%3A//food52.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the food52.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315061406id_/http%3A//food52.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Food52
 
-Revision Date: November 29, 2010.
+Revision Date: January 2, 2015.
 
 Food52 Inc., owner and operator of food52.com, regards the protection and privacy of your personal information very seriously. We know you care about how your personal information is used and shared, and that you trust us to exercise the utmost care with it. This Privacy Policy explains how we collect and use that personal information you provide to us or which is collected in connection with your use of food52.com. If you have any questions or feedback, please feel free to contact us at [admin@food52.com](mailto:admin@food52.com) any time.
 
@@ -64,6 +64,6 @@ Any dispute, claim or controversy relating to this or any previous privacy polic
 
 **Questions**
 
-Should you have any questions or suggestions regarding our privacy policy, please feel free to contact us at [admin@food52.com](mailto:admin@food52.com) or by mail: Food52 Inc., 116 Willow Street, Apt. 2, Brooklyn, NY 11201.
+Should you have any questions or suggestions regarding our privacy policy, please feel free to contact us at [help@food52.com](mailto:help@food52.com) or by mail: Food52 Inc., 122 West 26th Street, Floor 8, New York, NY 10001.
 
 This privacy policy is governed by the terms of the Food52 Terms of Service Agreement, available for review [here](https://web.archive.org/terms).
