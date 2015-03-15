@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluehornet.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707142416id_/http%3A//www.bluehornet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluehornet.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315033202id_/http%3A//www.bluehornet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » BlueHornet Email Marketing
+# Privacy Policy | BlueHornet
 
 ## Privacy Policy
 
@@ -38,7 +38,7 @@ If you do not wish to receive cookies, you may set your browser to reject cookie
 
 ### Web Beacons.
 
-Web beacons (also referred to as “tracking pixels” or “action tags”) are graphic images, usually no larger than 1 pixel x 1 pixel, placed at various locations on our Site and in our emails. Web beacons help us recognize the cookies on your browser. Like cookies, Web beacons help us collect information about the ways visitors use our Site. They also help us identify browser types, IP addresses, search terms that bring visitors to our Site, and the domain names of the Web sites that refer traffic to us. The information collected by Web beacons does not identify you personally. However, if you have created a user identity on one of your visits to this Web site, for example, by making a purchase, we may link the information we collect using Web beacons to the information that identifies you personally and use it in the same ways as we use the information we collect using cookies. Lastly, we utilize web beacons to provide us with more information on any emails we send out, in particular, the web beacons will send us information to let us know that you have received and opened any e-mail you have chosen to receive from us. 
+Web beacons (also referred to as “tracking pixels” or “action tags”) are graphic images, usually no larger than 1 pixel x 1 pixel, placed at various locations on our Site and in our emails. Web beacons help us recognize the cookies on your browser. Like cookies, Web beacons help us collect information about the ways visitors use our Site. They also help us identify browser types, IP addresses, search terms that bring visitors to our Site, and the domain names of the Web sites that refer traffic to us. The information collected by Web beacons does not identify you personally. However, if you have created a user identity on one of your visits to this Web site, for example, by making a purchase, we may link the information we collect using Web beacons to the information that identifies you personally and use it in the same ways as we use the information we collect using cookies. Lastly, we utilize web beacons to provide us with more information on any emails we send out, in particular, the web beacons will send us information to let us know that you have received and opened any e-mail you have chosen to receive from us.
 
 ## Information Use by Third Parties
 
@@ -88,7 +88,7 @@ We do not use our Web site to knowingly solicit personal information from or mar
 
 ## Information Exchanges and Transactions
 
-Privacy, anti-hacking and other security technology has been implemented throughout our application system. Information exchanges and transactions, passwords, contact lists (uploading and storing online) and billing related data between you and our application system are protected using various technologies (multiple PIX firewalls, etc.). This ensures a very high degree of security. 
+Privacy, anti-hacking and other security technology has been implemented throughout our application system. Information exchanges and transactions, passwords, contact lists (uploading and storing online) and billing related data between you and our application system are protected using various technologies (multiple PIX firewalls, etc.). This ensures a very high degree of security.
 
 ## Credit Card Information
 
@@ -96,7 +96,7 @@ BlueHornet allows you to purchase email marketing services in a variety of ways.
 
 ## Governing Law
 
-This Privacy Policy and our Privacy Notices are governed by the laws of the State of Minnesota, United States of America, without regard to its conflict of law principles. 
+This Privacy Policy and our Privacy Notices are governed by the laws of the State of Minnesota, United States of America, without regard to its conflict of law principles.
 
 ## The Bottom Line
 
