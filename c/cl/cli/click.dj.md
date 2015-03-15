@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the click.dj privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122033900id_/http%3A//click.dj/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click.dj privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315063714id_/http%3A//click.dj/privacy) for the most accurate reproduction.*
 
-# Privacy Policy of Click.dj
+# Click.DJ - Manage Music
+
+  1. Dashboard
+
+
+
+#### DASHBOARD
+
+[ Dashboard ](http://click.dj/manage) [ Contact Us ](https://web.archive.org/contact)
+
+* * *
+
+* * *
 
 ## Data Controller and Owner
 
