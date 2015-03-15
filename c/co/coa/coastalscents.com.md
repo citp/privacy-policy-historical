@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the coastalscents.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625211821id_/http%3A//www.coastalscents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastalscents.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315231241id_/http%3A//www.coastalscents.com/privacy-policy) for the most accurate reproduction.*
 
 # Coastal Scents: Privacy Policy
-
-### Coastal Scents Privacy Policy
-
-Last updated: May 15, 2013 
-
-Thank you for accessing the CoastalScents.com Website (“Site”) operated by K-Plex, LLC. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy. This Privacy Policy explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use, and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
-
-This privacy policy applies to the Site. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details.
-
-**We are not responsible for the content or privacy practices on any website not operated by K-Plex, LLC to which the Site links or that links to the Site.**
-
-### INFORMATION COLLECTION AND USE
 
 **1\. Information Collection**
 
@@ -76,27 +64,17 @@ We collect information from you in several different ways on this Site. One goal
 (vi) We may publicly disclose the name, city, and state of the contest and sweepstakes winners. **  
 **
 
-### DATA SECURITY
-
 The Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer (“SSL”) for all financial transactions through the Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit the Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
 
 While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline. 
 
 **IN NO EVENT SHALL K-PLEX, LLC BE LIABLE FOR SPECIAL, INDIRECT, EXEMPLARY OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO: LOSS OF USE, DATA OR PROFITS; WITHOUT REGARD TO THE FORM OF ANY ACTION, INCLUDING BUT NOT LIMITED TO: CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTIONS, ARISING OUT OF OR IN CONNECTION WITH THE USE, COPYING OR DISPLAY OF THE CONTENTS OF THE SITE, EVEN IF COASTAL SCENTS OR AN AUTHORIZED REPRESENTATIVE OF COASTAL SCENTS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**
 
-### INTERNATIONAL USERS SECURITY
-
-**  
+ **  
 **The Coastal Scents Website is hosted in the United States. If you are accessing the Coastal Scents Website or are viewing Coastal Scents Ads from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that through your continued use of the Coastal Scents Website and/or viewing of Coastal Scents Ads, which is governed by U.S. law and these Privacy Policies, you are transferring your personal information to the United States and you consent to that transfer.
-
-### OPT-OUT/CORRECTIONS
 
 Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by telephoning at 1-239-963-2280 or use this [Contact Us link](https://web.archive.org/helpcenter). Please do not email your credit card number or other sensitive information.
 
-### OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
-
-As you might expect from us, the majority of information that we collect is obtained through the Site, and this Privacy Policy applies only to that online collection of personal information. We may also collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to pay for an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to pay for the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store the fax in a locked depository or we will shred the fax if there is no need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information) and this Policy doesn’t discuss or try to predict all of those methods or uses. As we mentioned, we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
-
-### UPDATES TO THIS POLICY
+The majority of information we collect is obtained through the Site, and this Privacy Policy applies only to that online collection of personal information. Personal information obtained by phone or fax is stored in our database through SSL encryption. (See the _Data Security_ section above for more information). Information received via fax is acted upon immediately, then stored in a locked depository or shredded. Offline collection, uses, and disclosures are treated consistently with our relevant online practices.
 
 If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Policy from time to time, so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 1-239-963-2280 or use this [Contact Us link](https://web.archive.org/helpcenter).
