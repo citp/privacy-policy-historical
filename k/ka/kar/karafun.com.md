@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the karafun.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112721id_/http%3A//www.karafun.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karafun.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315062437id_/http%3A//www.karafun.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 **Introduction**  
-The terms listed herein constitute the RECISIO's Privacy policy for their online services. This Privacy policy includes an explanatory document outlining how personal details are collected, processed and used for RECISIO's services. Please consider that this policy is only available for RECISIO's www.karafun.com websites and other affiliated services, and it does not apply for other third party sites linked on our pages. 
+The terms listed herein constitutes RECISIO's Privacy policy for their online services. This Privacy policy includes an explanatory document outlining how personal details are collected, processed and used for RECISIO's services. Please consider that this policy only applies to RECISIO's www.karafun.com websites and other affiliated services, and it does not apply to other third party sites linked on our pages. 
 
-By using our services, you agree to accepting the terms listed below. 
+By using our services, you agree to accept the terms listed below. 
 
 _**Privacy policy modification**_ : this Privacy policy may change according to the evolution of our services. Please consult this document periodically to be aware of any potential changes. 
 
-_**Notification about children**_ : children under the age of 13 may never disclose personal information without prior parental permission. RECISIO commits to not knowingly collect data provided by children aged 13 years or younger. If RECISIO obtains knowledge that it had collected personal information from children under the age of 13, this information will be immediately deleted from our database. 
+_**Notification about children**_ : children under the age of 13 may never disclose personal information without prior parental permission. RECISIO is committed to not knowingly collecting data provided by children aged 13 years or younger. If RECISIO receives knowledge that it had collected personal information from children under the age of 13, then this information will be immediately deleted from our database. 
 
 **Information collection**
 
@@ -20,13 +20,13 @@ _**Use of information**_
 RECISIO may use information you provide to deliver to you the services you've purchased: which include, but are not limited to, fulfilling your requests for products and services, delivering the content you've purchased, helping our support to follow-up your issues and providing you with information concerning promotions and sweepstakes if you have chosen to receive it during the registration process. 
 
 _**Disclosure of your information**_   
-The information you provide will only be used by RECISIO or its agents. However, your information may be disclosed where we are obliged or permitted by law. If you post or send offensive, inappropriate or objectionable content on RECISIO's Website or otherwise engage in any disruptive behavior on the Website, RECISIO can use collected information to stop such behavior. 
+The information you provide will only be used by RECISIO or its agents. However, your information may be disclosed where we are obliged or permitted by law. If you post or send offensive, inappropriate or objectionable content on RECISIO's Website or otherwise engage in any disruptive behavior on the Website, RECISIO may use collected information to stop such behavior. 
 
 _**Information sharing and third party**_   
-RECISIO commits itself to protecting the personal information you provide, and will not release it to any third party. Also, RECISIO will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you. 
+RECISIO commits itself to protecting the personal information you provide, and will not release it to any third party. Also, RECISIO will not sell, rent, swap or authorize any third party to use your email address or any other information that personally identifies you. 
 
 **Customer service correspondence**  
-If you send us a correspondence, including e-mails and faxes, we may retain such information in the records of your account. We may also retain customer service correspondence in order to measure and improve our customer service and to investigate potential fraud and violations of our Terms of service. 
+If you send us correspondence, including emails and faxes, we may retain such information in the records of your account. We may also retain customer service correspondence in order to measure and improve our customer service and to investigate potential fraud and violations of our Terms of Service. 
 
 **Cookies**  
 Cookies are small amounts of data sent to your computer. They may be used to store or recall some information such as your password or user name so that you do not need to re-enter that data each time you use our Website. Please note that your browser could be configured to accept or reject cookies, or notify you when a cookie is set. However, you must enable cookies from RECISIO to use some of the services on our Website. 
