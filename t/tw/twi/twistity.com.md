@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the twistity.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213215932id_/http%3A//twistity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistity.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315190824id_/http%3A//twistity.com/privacy) for the most accurate reproduction.*
 
-# TWISTITY PRIVACY POLICY | A Positive Spin on Your Daily News
+# TWISTITY PRIVACY POLICY
 
 **_TWISTITY Privacy Policy_**
 
 _Version 2.4 Dated August 2, 2012_
 
 _BY ACCESSING THIS WEBSITE OR ANY OTHER SITE OPERATED BY Twistity.com, LLC., INCLUDING ALL OF ITS DIVISIONS, SUBSIDIARIES AND RELATED COMPANIES (COLLECTIVELY, THE “Twistity.com SITES”), YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, WHETHER YOU ARE A “VISITOR” (WHICH MEANS THAT YOU SIMPLY BROWSE THE Twistity.com SITES) OR YOU ARE A “MEMBER” (WHICH MEANS THAT YOU HAVE REGISTERED WITH ANY OF THE Twistity.com SITES). THE TERM “USER” REFERS TO A VISITOR OR A MEMBER. “YOU” REFERS TO YOU AS A VISITOR OR A MEMBER._
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>. Third Party Links: We offer affiliate links on our site. We are in no way responsible for the content of these websites. Please be sure to read their Privacy Policies and terms of use for information regarding those specific sites.
 
 _This policy describes the information collection, use, and dissemination practices of Twistity.com, its subsidiaries and affiliates, (collectively referred herein as “the COMPANY”) and applies to the COMPANY’s collection, use, storage and disclosure of information by the COMPANY on its Twistity.com Sites._
 
