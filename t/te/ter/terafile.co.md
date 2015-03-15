@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terafile.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081645id_/http%3A//terafile.co/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terafile.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315030118id_/http%3A//terafile.co/privacy-policy.html) for the most accurate reproduction.*
 
 # Terafile.co - Secure, robust & reliable
 
