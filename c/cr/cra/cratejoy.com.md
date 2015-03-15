@@ -1,63 +1,97 @@
-> *The following text is extracted and transformed from the cratejoy.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213001854id_/http%3A//www.cratejoy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cratejoy.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315181108id_/http%3A//cratejoy.com/privacy-policy) for the most accurate reproduction.*
 
-# Cratejoy
+# Privacy Policy | Cratejoy
 
-This Privacy Policy governs the manner in which Cratejoy collects, uses, maintains and discloses information collected from users (each, a "User") of the cratejoy.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Cratejoy.
+**Privacy Policy**
 
-## Personal identification information
+We love our community at Cratejoy. You’ve trusted us with a big responsibility, and we’re committed to upholding a high standard when it comes to our privacy practices. It’s important to us that you’re comfortable on Cratejoy, so we provide options for you to control how much information you share and your communication preferences. We use secure technologies and follow best practices. We believe in being transparent about our practices, which is why we provide a detailed Privacy Policy to explain how we gather, use and protect your information. We’ve pulled out the highlights here, in an effort to better communicate the key points.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+By visiting Cratejoy’s website or using Cratejoy’s mobile applications, you are accepting the terms of this Privacy Policy. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites.
 
-## Non-personal identification information
+Current policy published: January 1, 2014
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Information Collected or Received  
+Cratejoy will not disclose your name, email address or other personal information to third parties without your explicit consent, except as specified in this policy.
 
-## Web browser cookies
+As an Cratejoy member you are required to provide a valid email address at registration and choose a username or alias that may represent your identity on Cratejoy.
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Depending on which services you choose to use, Cratejoy may require additional information, such as a shop name, billing and payment information (including billing address, telephone number, credit card information), a telephone number, and/or a physical postal address. As a shop owner if you choose to enable the direct checkout service (“Direct Checkout”), Cratejoy may require information such as your social security number, identification ID or tax ID, date of birth, bank account information, credit card information and/or other proof of identification in order to verify your identity and provide this service to you. Credit card information on an account may be stored and used for both billing and payment purposes. Cratejoy may contact individual shop owners to confidentially request more information about their shops or items listed on the Site, to ensure compliance with our rules. Certain products or services on Cratejoy may require you to complete an application; any information you submit through the application processes will not be displayed publicly and will only be used internally by Cratejoy, unless otherwise specified.
 
-## How we use collected information
+You may optionally choose to provide your full name and other personal information (such as birthday, gender, location) to be publicly displayed in connection with your account and activity.
 
-Cratejoy may collect and use Users personal information for the following purposes:
+Your username, Cratejoy ID or alias is publicly displayed and connected to your Cratejoy activity. Other people may see your date joined, reviews, ratings, profile information, items listed for sale, shop pages, sold item listings, and comments in community spaces.
 
-  * **To improve customer service**  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * **To personalize user experience**  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * **To process payments**  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * **To run a promotion, contest, survey or other Site feature**  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * **To send periodic emails**  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Cratejoy automatically receives and records some information from your browser or your mobile device when you visit the Site or use the Apps, such as your IP address or unique device identifier, cookies and data about which pages you visit on the Site or on the Apps. This information helps us analyze and understand how the Site and the Apps work for members and visitors, and provide a more personalized experience for members and visitors. For more information about online tracking tools (including flash cookies) and how we use them, see our Cookies & Tracking Technologies page or the section below in this policy on “Information Sharing & Disclosure.”
 
+When you use the Apps, you may optionally choose to share your geo-location details with Cratejoy in order to use our location-based services. If you have provided your location details but would no longer like to share that information, you may opt out of those services through the settings on the Apps. You may also enable the Apps to access your mobile device’s camera to upload photographs to Cratejoy.
 
+Some members or visitors may connect to or register an Cratejoy account using an external third-party application, such as Facebook, or an app developed using the Cratejoy API. Cratejoy may receive some data from those connected third-party applications. Connecting your Cratejoy account to third-party applications or services is optional, and when you connect your account to an external app, you will be given the opportunity to grant permission. You can revoke your permission under your Cratejoy account settings.
 
-## How we protect your information
+Cratejoy may receive or collect information (for example: an email address) about a person who is not yet a registered Cratejoy member (a “non-member”) in connection with certain Cratejoy features, including but not limited to: a non-member subscribing to an Cratejoy newsletter, a member inviting a non-member to visit the Site, a non-member engaging in a transaction, or a member sending a gift card code to a non-member. Non-member information is used only for the purpose it was originally submitted to Cratejoy. A non-member can contact Cratejoy Support if they do not want Cratejoy to retain their information.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+Cratejoy uses the information described in this policy to provide and improve our services and products, for billing and payments, for identification and authentication, for targeted online marketing, to contact members or interested parties, and for general research and aggregate reporting.
 
-## Sharing your personal information
+Cratejoy’s Terms of Use require all account owners to be at least 18 years of age (or have the permission and supervision of a responsible parent or legal guardian), therefore, this policy does not discuss use of our Site, our Apps, or services by minors.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+**Choice & Control**  
+We know members of our community value having control over their own information, and therefore Cratejoy gives you the choice of providing, editing or removing certain information, as well as choice over how we contact you.
 
-## Changes to this privacy policy
+You may change or correct your Cratejoy account information (except your username) on the Site. You may also remove certain optional information on the Site that you no longer wish to be publicly visible, such as your full name.
 
-Cratejoy has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+For various reasons, Cratejoy may contact you about our services or your activity. Some of these messages are required, service-related messages for members. Other messages are not required, and you can control which optional messages you choose to receive by changing your settings in your account. Learn more in the Messages from Cratejoy section of this policy.
 
-## Your acceptance of these terms
+If you have optionally connected your account to an external, third-party application, such as Facebook, or an app developed using the Cratejoy API, you can remove permission for the app by changing your account settings.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+If you no longer wish to use Cratejoy’s services or receive service-related messages, then you may close your account. Learn how to close your account.
 
-## Contacting us
+**Findability**  
+You may connect directly with your email service provider, your mobile device’s address book, or a social network account to import your contacts to Cratejoy; we do not retain the login information for your email service, mobile device, or social network site. You may be able to search for people you know by email address or phone number on the Site or by connecting to your mobile device’s contact list through the Apps. Finding your friends on Cratejoy helps you connect with them in community features. You can follow another member’s public activity, such as public Favorites or Treasury lists. When you begin following another member’s activity, they may receive an email notification (unless a member has opted-out of receiving this type of email).
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you do not want your contacts to be able to find you on Cratejoy through your email address, phone number, or social networking connections, then you may opt-out through your account settings on the Site. If you do not wish to be located on Cratejoy via your full name, you may remove your name from your public account information on the Site. It is not possible to opt-out of being found via your username.
 
-**Cratejoy**  
-cratejoy.com  
-701 Brazos Street Suite 1601 Austin, TX 78701  
-512-537-1203  
-[support@cratejoy.com](mailto:support@cratejoy.com)  
+**Messages from Cratejoy**  
+On occasion, Cratejoy will contact you. Primarily, messages are delivered by email or by push notifications, and every account is required to keep a valid email address on file to receive messages. In some situations, Cratejoy may contact you by telephone, SMS message or physical mail in order to provide you with customer support or to provide you with information about products and features you my find of interest. You may update your contact preferences in your account settings.
 
+Some messages from Cratejoy are service-related and required for members. Examples of service-related messages include, but are not limited to: a welcome/confirmation email when you register your account, notification of an order, or correspondence with Cratejoy’s support team. These messages are not promotional in nature. You may not opt-out of receiving service-related messages from Cratejoy, unless you close your account.
 
-This document was last updated on November 01, 2013
+As a member, Cratejoy may also send you messages related to certain features or your activity on the Site or Apps. Cratejoy may also send you news or updates about changes to our Site, Apps, or services. By default, members will receive these messages via email or push notifications through the Apps, but you may choose to opt-out of getting certain messages through the settings on your Cratejoy account or mobile device.
+
+Cratejoy offers optional email newsletters. When you register for an account, or choose to subscribe, you will receive newsletters from us. Newsletters are available to both members and non-members. Members may subscribe or unsubscribe from optional newsletters under your account settings or by following the instructions contained in the newsletter emails. Non-members may subscribe by providing an email address, which will only be used by Cratejoy for these newsletters. Non-members may unsubscribe from newsletters by following the instructions contained in the newsletter emails.
+
+A contact-importer feature is available to help you locate and connect with your friends and contacts who may be members of Cratejoy (see Findability). If someone in your contact list is not already a member, you may invite them to join Cratejoy. Recipients of email invitations may opt out of receiving future invitations by following instructions in the email invitation message.
+
+**Community**  
+Cratejoy is both a marketplace and a community. We offer several features that allow members to connect and communicate in public or semi-public spaces, such as Forums, Teams and multimedia chat events. Please use common sense and good judgment when posting in these community spaces or sharing your personal information with others on Cratejoy. Be aware that any personal information you submit there can be read, collected, or used by others, or could be used to send you unsolicited messages. Cratejoy generally does not remove content from community spaces, and your posts may remain public after your account is closed. You are responsible for the personal information you choose to post in community spaces on Cratejoy.
+
+**Information Sharing & Disclosure**  
+We want to respect your privacy. Cratejoy will not disclose your name, email address or other personal information to third parties without your explicit consent, except as specified in this policy.
+
+Cratejoy limits access to your personal information to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+
+As part of the buying and selling process, Cratejoy will facilitate the sharing of information between the two members involved in the transaction. As part of the buying or selling process, you may obtain another Cratejoy member’s email address, shipping address, payment information, and/or other information. As described in Cratejoy’s Terms of Use, you have a limited license to use this information only for Cratejoy-related communications or for Cratejoy-facilitated transactions. Cratejoy has not granted you a license to use the information for unsolicited commercial messages. Without express consent from that person, you must not add any Cratejoy member to your email or physical mailing list.
+
+Cratejoy may release your personal information to a third-party in order to protect, establish, or exercise our legal rights or defend against legal claims; comply with a subpoena, court order, legal process, or other legal requirement; or when we believe in good faith that such disclosure is necessary to comply with the law, prevent imminent physical harm or financial loss, or investigate, prevent, or take action regarding illegal activities, suspected fraud, threats to our property, or violations of Cratejoy’s Terms of Use. We may disclose personally identifiable information to parties in compliance with our Copyright and Intellectual Property Policy, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, Cratejoy may disclose a name, address, country, phone number, email address and company name.
+
+Cratejoy is affiliated with a variety of businesses and works closely with them. These businesses may offer promotions or sell items or services to you through Cratejoy’s services. Cratejoy may also provide services or sell products jointly with affiliated businesses. Due to the nature of our business model, when an affiliated business is associated with your transaction, we may share information that is related to such transaction with that affiliated business. Cratejoy may share aggregated demographic information with business partners.
+
+In some cases, Cratejoy may choose to buy or sell assets. In these types of transactions (such as a sale, merger, liquidation, receivership or transfer of all or substantially all of Cratejoy’s assets), member information is typically one of the business assets that is transferred. In the event that Cratejoy transfers information about you, Cratejoy will notify you by email or by putting a prominent notice on the Site and the App, and you will be afforded an opportunity to opt-out before information about you becomes subject to a different privacy policy.
+
+Third-party plug-ins also may collect information about your use of the Site. For example, when you a load a page on Cratejoy that has a social plug-in from a third-party site or service, such as a Like or Send button, you are also loading content from that third-party site. That site may request cookies directly from your browser. These interactions are subject to the privacy policy of the third-party site. In addition, certain cookies and other tracking mechanisms on our site are used by third parties for targeted online marketing and other purposes. These technologies allow a partner to recognize your computer or mobile device each time you visit Cratejoy, but do not allow access to personally identifiable information from Cratejoy. Cratejoy does not have access or control over these third-party technologies, and they are not covered by our privacy policy. For more information, see our Cookies & Tracking Technologies page. If you prefer to prevent third parties from setting and accessing cookies on your computer, you may set your browser to block cookies. And you may opt out of the use of cookies by Google Analytics here. Additionally, you may remove yourself from the targeted advertising of companies participating in the Digital Advertising Alliance program by opting out here. Although our website currently does not respond to “do not track” browser headers, you can limit tracking by taking these steps.
+
+We can only speak for ourselves; this policy does not apply to the practices of third parties that Cratejoy does not own or control, or individuals that Cratejoy does not employ or manage. If you provide your information to others on Cratejoy or throughout the Internet, different rules may apply to the use or disclosure of the information you provide to them. Cratejoy does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. Cratejoy is not responsible for the privacy or security practices of other websites on the Internet, even those linked to or from the Cratejoy Site or Apps. We encourage you to ask questions before you disclose your personal information to others.
+
+**Security**  
+The security of your personal information is important to us. Your Cratejoy account information is protected by a password. It is important that you protect against unauthorized access of your account and information by choosing your password carefully, and keeping your password and computer secure by signing out after using our services.
+
+Cratejoy encrypts sensitive information (such as credit card number) using secure socket layer technology (SSL). Cratejoy follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once Cratejoy receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Cratejoy offers optional advanced security settings for members, such as two-factor authentication for signing in, full-site SSL, and login history; you can enable these options under your account settings.
+
+**Data Retention**  
+Cratejoy will retain your information only for as long as is necessary or your account is active or as needed to provide you services. If you no longer want Cratejoy to use your information to provide you services, you may close your account. Cratejoy will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+You may inform us of any changes or requests in regards to your personal data, and in accordance with our obligations under local data protection law, we may update or delete your personal data accordingly.
+
+**Privacy Policy Changes**  
+Cratejoy reserves the right to modify this privacy policy at any time, so please review it periodically. We’ll communicate changes by posting a notice on the Site or the Apps. If we make material changes to this policy, prior to the change becoming effective, you will be notified here, by email, in the version notes on the Apps’ platform, or other places Cratejoy deems appropriate.
+
+**Contact Cratejoy**  
+If you have questions about personal information or suggestions you can contact Cratejoy’s Support team via our Help Center, by sending an email to hello@Cratejoy.com, or contact us at one of the following addresses: In the US: Cratejoy Support Team – Privacy Policy; 720 Brazos St Suite #120 Austin, TX 78701, USA. We will respond to you within 30 days of receipt of your correspondence.
