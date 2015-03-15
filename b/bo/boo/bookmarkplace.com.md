@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkplace.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619202117id_/http%3A//www.bookmarkplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkplace.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315042402id_/http%3A//www.bookmarkplace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bookmarks | Bookmark | Christian Bookmarks | BookmarkPlace.com
 
@@ -81,17 +81,16 @@ This privacy statement applies to the  site and service. Questions or concerns 
 Sagacity Corporation is the name of the company which owns and operates the Web site and service, (""). 
 
 Epik, LLC  
-801 2nd Avenue, Suite 614  
-Seattle, WA 98104, USA  
-Tel: 425.502.6000  
-Fax: 425.440.3749  
-Email: info (at) epik.com
+bookmarkplace.com  
+PO Box 52686  
+Bellevue, WA 98015  
+Email: info@epik.com
 
 Effective Date: 6/14/2009  
 Posting Date: 6/14/2009
 
   
-Please do not FAX consumer complaint letters to epik.com . 
+Please do not FAX consumer complaint letters to epik.com.
 
   
 
