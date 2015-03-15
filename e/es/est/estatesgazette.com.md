@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estatesgazette.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016114520id_/http%3A//www.estatesgazette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatesgazette.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315231053id_/http%3A//www.estatesgazette.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | estatesgazette.com
 
@@ -96,7 +96,7 @@ Cookies may be used to distribute load across our web servers - to ensure our we
 User Subscription Data   
 
 Subscription cookies allow us to ensure that you can access resources which you have registered or paid for.  
-**  
+ **  
 Category 2: Performance cookies.**
 
 These cookies collect information about how visitors use our website, for instance which pages visitors go to most often.  The information collected by these cookies is aggregated, so these cookies don’t collect information that identifies individual visitors. The information collected is anonymous and is only used to improve the way our website works.
