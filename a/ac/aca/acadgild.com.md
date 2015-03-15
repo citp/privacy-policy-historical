@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acadgild.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806180120id_/http%3A//acadgild.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acadgild.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315061335id_/http%3A//www.acadgild.com/home/privacy) for the most accurate reproduction.*
 
 # ACADGILD.com -- Become an Android Expert.
 
