@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the momentlens.co privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016194237id_/http%3A//momentlens.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentlens.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315060321id_/http%3A//momentlens.co/privacy) for the most accurate reproduction.*
 
-# Privacy - Moment
+# Privacy Policy - Moment
 
 **What information do we collect?**  
 We collect information from you when you register on our site, place an order or subscribe to our newsletter.
