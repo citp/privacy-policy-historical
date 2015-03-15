@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robinpowered.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914092721id_/https%3A//robinpowered.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinpowered.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022558id_/https%3A//robinpowered.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Robin
 
@@ -27,7 +27,7 @@ To get the full picture, you should also review:
 
   * Our [Terms of Use](https://web.archive.org/terms "Full terms for Robin usage")
 
-  * Your User Agreement. If you're a registered user of the Service, this document has a few extra terms that may apply to you.
+  * Your Service Agreement. If you're a registered user of the Service, this document has a few extra terms that may apply to you.
 
 
 
