@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toddfalcone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105852id_/http%3A//toddfalcone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toddfalcone.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021158id_/http%3A//toddfalcone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Todd Falcone
+# Privacy Policy - Todd Falcone
 
 **ToddFalcone.com and all related Websites**
 
@@ -48,7 +48,7 @@ TF currently uses cookie and web beacon technology to associate certain Internet
 A cookie is a small amount of data stored on the hard drive of the individual’s computer that allows TF to identify the individual with his or her corresponding data that resides in TF’s database. You may read more about cookies at [cookiecentral.com](http://cookiecentral.com/). Individuals who use the Websites need to accept cookies in order to use all of the features and functionality of the Websites.
 
 **b) Web Beacons**  
-A web beacon is programming code that can be used to display an image on a web page (see [http://truste.org](http://truste.org/) for more information), but can also be used to transfer an individual’s unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows TF to track certain websites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. In addition to using web beacons on web pages, TF also uses web beacons in email messages sent to individuals listed in TF’s database.
+A web beacon is programming code that can be used to display an image on a web page (see [http://truste.org](http://web.archive.org/web/20130904070722/http://www.truste.org/) for more information), but can also be used to transfer an individual’s unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows TF to track certain websites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. In addition to using web beacons on web pages, TF also uses web beacons in email messages sent to individuals listed in TF’s database.
 
 **c) New Technology**  
 The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is TF’s use of new and evolving technology. As a result, TF strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
