@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the thefrugaltoad.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629191813id_/http%3A//www.thefrugaltoad.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugaltoad.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315044959id_/http%3A//www.thefrugaltoad.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy PolicyThe Frugal Toad
-
-  
-
+# Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -28,4 +25,4 @@ If you have any questions regarding the privacy policy of The Frugal Toad then y
 
 Last updated Thu, 15 Mar 2012 06:45
 
-[](http://track.flexlinks.com/a.aspx?foid=29676017&fot=9999&foc=2&foc2=606974 "Verismo 728x90 Impossible")
+[](http://linksynergy.walmart.com/fs-bin/click?id=E*ZF1bsX5Ac&offerid=233310.10004052&subid=0&type=4)
