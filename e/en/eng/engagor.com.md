@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engagor.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701130849id_/https%3A//app.engagor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engagor.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315194322id_/http%3A//app.engagor.com/privacy-policy) for the most accurate reproduction.*
 
 # Engagor | Privacy Policy
 
@@ -13,7 +13,7 @@ If you have question about our privacy policy and how they relate to your use of
 Email
     support@engagor.com
 Telephone
-    +32 9 277 92 64 **or** +1 (646) 513-2741
+    +32 9 277 92 64 **or** +1 (415) 529-5701
 Mailing Address
      Grauwpoort 1 9000 Gent Belgium 
 
