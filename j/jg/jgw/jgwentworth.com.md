@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202044836id_/http%3A//jgwentworth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315015034id_/http%3A//jgwentworth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | J.G. Wentworth
+# Privacy Policy - J.G. WentworthJ.G. Wentworth
 
 This Privacy Policy is provided by J.G. Wentworth (“the Company”), on behalf of itself and certain of the various companies that it owns.
 
