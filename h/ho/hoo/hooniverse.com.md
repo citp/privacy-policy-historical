@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hooniverse.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102162146id_/http%3A//hooniverse.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hooniverse.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025211id_/http%3A//hooniverse.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Hooniverse | Privacy Policy
 
