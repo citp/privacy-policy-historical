@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gazettextra.com privacy policy that was archived on 2014-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141008060210id_/http%3A//www.gazettextra.com/Services/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gazettextra.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315181637id_/http%3A//www.gazettextra.com/Services/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
   <!--
@@ -9,14 +9,14 @@
   Created: 20120927 SJJ
   -->
   <!--
-  Document Name: articleHead3.pbo
+  Document Name: articleHead333.pbo
   Purpose: Meta dat: Loads the headline of the article.
   KB Article: https://docs.saxotech.com/display/Onl/ArticleHead.pbo
   Created: 20120927 SJJ
   -->
 <title>Terms of Use and Privacy Policy | GazetteXtra</title>
 <meta property="og:title" content="Terms of Use and Privacy Policy">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://sslconnect.janesvillegazette.com/scripts/library/56741d6cd722fa65543510bbb6b3a03a.js"></script><script language="Javascript">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://sslconnect.janesvillegazette.com/scripts/library/56741d6cd722fa65543510bbb6b3a03a.js"></script><script type="text/javascript">
 // Omniture used in omniture.pbo
 var s_prop9="Terms of Use and Privacy Policy";
 </script>
@@ -46,14 +46,12 @@ var articleGuid="3FCC02E5-2F20-47B2-870C-662CF25867A6";
   <link rel="stylesheet" href="/WebCasterGlobal/css/navigation/dropdown.css" type="text/css">
   <link rel="stylesheet" href="/WebCasterGlobal/css/navigation/default.ultimate.css" type="text/css">
   <link rel="stylesheet" href="/WebCasterGlobal/css/base.css">
-  <link rel="stylesheet" href="/WebCasterGlobal/css/datepicker.css">
   <link rel="stylesheet" href="/WebCasterGlobal/css/saxo-layout.css">
   <link rel="stylesheet" href="/WebCasterGlobal/css/skeleton.css">
-  <link rel="stylesheet" href="/css/custom.css?v=20140116">
+  <link rel="stylesheet" href="/css/custom.css?v=20150127">
+  <link rel="stylesheet" href="/css/jquery-ui.css?v=20150127">
   <!--Font link for webtype -->
-  <link href="http://cloud.webtype.com/css/942b0ca3-6ec6-4a82-a128-ce149c113d51.css" rel="stylesheet" type="text/css">
-  <script type="text/javascript" src="//use.typekit.net/nuu7yeq.js"></script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <!--[if !IE]><!--><link href="http://cloud.webtype.com/css/942b0ca3-6ec6-4a82-a128-ce149c113d51.css" rel="stylesheet" type="text/css"><!--<![endif]-->
   <!--end Fonts -->
   <!--[if lte IE 8]> 
     <link rel="stylesheet" href="/WebCasterGlobal/css/ie8.css"/>
@@ -63,7 +61,7 @@ var articleGuid="3FCC02E5-2F20-47B2-870C-662CF25867A6";
     <link rel="stylesheet" href="/WebCasterGlobal/css/ie7.css"/>
   <![endif]-->
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+  <script src="/js/jquery.custom.janesville.1.1.0.js" type="text/javascript"></script>
   <script src="/WebCasterGlobal/js/jquery.loadmask.min.js" type="text/javascript"></script>
   <script src="/WebCasterGlobal/js/pollMini.js"></script>
   <script src="/WebCasterGlobal/js/moment/moment.min.js"></script>
@@ -76,9 +74,8 @@ var articleGuid="3FCC02E5-2F20-47B2-870C-662CF25867A6";
   <script src="/WebCasterGlobal/js/jquery.ui/jquery.ui.accordion.js"></script>
   <script src="/WebCasterGlobal/js/jquery.ui/jquery.ui.button.js"></script>
   <script src="/js/jquery.zrssfeed.min.js" type="text/javascript"></script>
-  <script src="/js/jquery.custom.janesville.1.1.0.js" type="text/javascript"></script>
 <!-- Saxotech Connect starts -->
-  <script type="text/javascript">
+<script type="text/javascript">
   var Connect = Connect || {}   
   Connect.queue = Connect.queue || [];
   (function() {
@@ -110,6 +107,17 @@ var articleGuid="3FCC02E5-2F20-47B2-870C-662CF25867A6";
 <!-- Display only this part if the request is from the my account ajax call in the header -->
 
 
+<!-- START: iServices login link url insertion -->
+	<script type="text/javascript">
+			  // Remove anything currently inside the tag
+			  $( '.iServicesAuthLink' ).empty(); 
+	
+			  // Insert the dynamic iServices link inside the correct tags
+			  // Please note the iserv_url value is generated in the /macros/Top/defaultHeader.pbo macro
+			  $( '.iServicesAuthLink' ).append( '<!-- start: added via the sessioninfo999.pbo object --><a href="' + iserv_url + '">Sign In</a><!-- end: added via the sessioninfo999.pbo object -->' );
+
+	</script>
+<!-- END: iServices login link url insertion -->
 
 <!-- 
 	This information is generated from the sessionInfo999 object:
@@ -191,7 +199,8 @@ Related Files: localdata.ini,defaultTop.pbo
 Created: 20130422 NSP
 Modified: 20130715 MQN
           Included Connect GA library via TIC-63562
--->
+Modified: 20141211 GM(NCS) Modified GA event track after Audience custom param setting.
+AR -->
 <script type="text/javascript">
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -199,7 +208,13 @@ Modified: 20130715 MQN
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-2847738-1', 'gazettextra.com');
   ga('require', 'displayfeatures');
-  ga('send', 'pageview');
+  // Call the page view inside the push as to set the custom id  
+  Connect.queue.push(function(){
+	var connectTrackParams = {};
+	Connect.util.analytics('trackUser', connectTrackParams);
+        // Page view called post the custom param setting
+        ga('send', 'pageview');
+  });
 </script>
   <!-- End Google Analytics Javascript -->
 
@@ -251,33 +266,20 @@ Modified:
   20130213 SSW
   	- All the header elements (weather, date, logo, etc.) has been broken up into individual Macros. 
 -->
-<!-- Start iServices hidden login form -->
-    <form style="display:none;" id="iServicesForm" method="post" name="login" action="https://iservices.gazetteextra.com/cgi-bin/cmo_cmo.sh/custservice/web/login.html">
-		<input name="AuthOnly" id="AuthOnly" value="yes" type="hidden">
-        <input name="timestamp" size="30" value="2014-10-07" readonly="" type="hidden">
-        <input name="AuthControlID" size="35" value="" type="hidden">
-        <input name="ProductID" size="35" value="JG" type="hidden">
-        <input name="targetURL" id="targetURL" value="" type="hidden">
-		<input name="sessionid" value="" type="hidden">
-<script type="text/javascript">
-	$(document).ready(function(){
-		// start testing of redirect data
-		var templateCheck = '/apps/pbcs.dll/article?AID=/99999999/SERVICES/121219983';
-		var currentURL = 'http://www.gazettextra.com';
-		var currentRequestUnmodified = '/Services/Terms';
-		var currentRequest = '/apps/pbcs.dll/article?AID=/99999999/SERVICES/121219983';
-		var targetURL = window.location;
-		//populate the targetURL with the current URL value of the page being viewed via jquery which avoids caching problems
-		$('#targetURL').val(targetURL);
-		// Uncomment the Alert below to view the iServices redirect information	
-		//alert('templateCheck --- ' + templateCheck + '\n\ntargetURL --- ' + targetURL + '\n\ncurrentURL --- ' + currentURL + '\n\ncurrentRequestUnmodified --- ' + currentRequestUnmodified + '\n\ncurrentRequest --- ' + currentRequest + '\n\niServices will redirect to --- ' + targetURL);  
-	});
-</script>
-        <!--
-		Uncomment the jquery alert to see redirect information.
-        -->
-    </form>
-<!-- End iServices hidden login form -->
+<!-- START: iServices login link url assembly -->
+	<script type="text/javascript">
+			  // Create iServices login url parts
+			  var iserv_loginurl = 'https://iservices.gazetteextra.com/cgi-bin/cmo_cmo.sh/custservice/web/login.html?';
+			  var iserv_authOnly = 'authonly=yes';
+			  var iserv_timestamp = '&amp;timestamp=2015-03-15';
+			  var iserv_authcontrolid = '&authcontrolid=';
+			  var iserv_productid = '&productid=JG';
+			  var iserv_sessionid = '&sessionid=';
+			  var iserv_targeturl = '&targeturl=' + window.location;
+			  // Combine the login url parts
+			  var iserv_url = iserv_loginurl.concat(iserv_authOnly, iserv_timestamp, iserv_authcontrolid, iserv_productid, iserv_sessionid, iserv_targeturl); 
+	</script>
+<!-- END: iServices login link url assembly -->
 <!-- Start header -->
 <header id="mast-head">
     <!-- headerPlaceholder1.pbo -->
@@ -331,7 +333,7 @@ audienceAdsPosition[adVal] = {
   'defaultSpot': spot,
   'defaultLabel': "fallback",
   //'Targeting_Workflow' :  "",  // Use this if not useing Random workflow from aggregate
-  'viewname' : "saxotech_default",
+  'viewname' : "saxotech_default"
   //'displayid' : ""  // Use this if not useing Random workflow from aggregate
 };
 // console.log("Ad call for targetDiv " + audienceAdsPosition[adVal]['targetDiv'] + " and placeholder " + audienceAdsPosition[adVal]['defaultSpot']);
@@ -353,7 +355,7 @@ sendData['adparams'] = adparams;
 // top.SaxoConnect.getMultiOamsAdFromDoProfile(audienceAdsPosition, sendData);
 var args = {};
 args = {
-  'data': sendData,
+  'data': sendData
   // 'scb': 'adRecommendationSuccess',
   // 'fcb': 'doProfileFailure',        
 };
@@ -397,7 +399,7 @@ Purpose: Displays Site Logo
 Created: 20130213 SSW
 -->
 <div id="logo">
-  <a href="/"><img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/staticimage/images/logo.png" alt="GazetteXtra"></a>
+  <a href="/"><img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/staticimage/images/gazlogo.png" alt="GazetteXtra"></a>
 </div>
 		<!-- headerPlaceholder5.pbo -->
 		<!-- Displays Weather Information --> 
@@ -416,7 +418,7 @@ Object Script Variables
 -->
     <a id="AccuWeatherURL" href="">
         <div id="weather">
-<span id="iconUrl"><img src="http://icons.wxug.com/i/c/k/nt_clear.gif" alt="Janesville"></span><span class="weather-degree"><span id="temp">45.3</span>°</span>
+<span id="iconUrl"><img src="http://icons.wxug.com/i/c/k/partlycloudy.gif" alt="Janesville"></span><span class="weather-degree"><span id="temp">52.7</span>°</span>
         </div>
     </a>
 	<script type="text/javascript">
@@ -454,7 +456,7 @@ Object Script Variables
 		<!-- headerPlaceholder6.pbo -->
 		<!-- Displays Today's Date -->
 		<div id="site-date">
-   <script>changeDateFormat('2014-10-07*04:32', 'dddd, MMMM D, YYYY')</script>Tuesday, October 7, 2014
+   <span style="vertical-align: text-bottom;"><a href="/follow_us"><img style="vertical-align: text-bottom;" src="/assets/png/JG7582224.png"></a> | <script>changeDateFormat('2015-03-15*03:08', 'dddd, MMMM D, YYYY')</script>Sunday, March 15, 2015</span>
 </div>
 	</div><!-- //end #custom-mast-head-container -->
     <!-- start: headerPlaceholder7.pbo -->
@@ -528,7 +530,7 @@ Object Script Variables
     Script_Profile_URL - Output the Url of the profile.
     Script_Profile_Name - Output the name of the profile.
   -->
-<li><a href="/lottery">Lottery results</a></li>
+<li><a href="/lottery">Lottery Results</a></li>
   <!--
   Document Name: navigationSubItem1.pbo 
   Purpose: The main navigation SubItems.
@@ -584,7 +586,35 @@ Object Script Variables
     Script_Profile_URL - Output the Url of the profile.
     Script_Profile_Name - Output the name of the profile.
   -->
+<li><a href="/multimedia/special_sections/">Special Sections</a></li>
+  <!--
+  Document Name: navigationSubItem1.pbo 
+  Purpose: The main navigation SubItems.
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+  <!--
+  Object Script Variables  
+    Script_Profile_URL - Output the Url of the profile.
+    Script_Profile_Name - Output the name of the profile.
+  -->
 <li><a href="/corrections">Corrections</a></li>
+  <!--
+  Document Name: navigationSubItem1.pbo 
+  Purpose: The main navigation SubItems.
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+  <!--
+  Object Script Variables  
+    Script_Profile_URL - Output the Url of the profile.
+    Script_Profile_Name - Output the name of the profile.
+  -->
+<li><a href="/News/Photos">Photos</a></li>
   </ul>
 </li>
   <!--
@@ -725,6 +755,34 @@ Object Script Variables
     Script_Profile_Name - Output the name of the profile.
   -->
 <li><a href="/Sports/Hockey">Hockey</a></li>
+  <!--
+  Document Name: navigationSubItem1.pbo 
+  Purpose: The main navigation SubItems.
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+  <!--
+  Object Script Variables  
+    Script_Profile_URL - Output the Url of the profile.
+    Script_Profile_Name - Output the name of the profile.
+  -->
+<li><a href="/Sports/Photos">Photos</a></li>
+  <!--
+  Document Name: navigationSubItem1.pbo 
+  Purpose: The main navigation SubItems.
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+  <!--
+  Object Script Variables  
+    Script_Profile_URL - Output the Url of the profile.
+    Script_Profile_Name - Output the name of the profile.
+  -->
+<li><a href="/Sports/MarchMadness">March Madness</a></li>
   </ul>
 </li>
   <!--
@@ -823,6 +881,20 @@ Object Script Variables
     Script_Profile_Name - Output the name of the profile.
   -->
 <li><a href="/Opinion/SoundOff">Sound Off</a></li>
+  <!--
+  Document Name: navigationSubItem1.pbo 
+  Purpose: The main navigation SubItems.
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+  <!--
+  Object Script Variables  
+    Script_Profile_URL - Output the Url of the profile.
+    Script_Profile_Name - Output the name of the profile.
+  -->
+<li><a href="/Opinion/PoliticalCartoons">Political Cartoons</a></li>
   </ul>
 </li>
   <!--
@@ -975,6 +1047,104 @@ Object Script Variables
         - Added SectionSeo on the navigation.
   -->
 <li>
+	<a class="" id="menu_1070" href="/Blogs">Blogs</a>
+  <ul>
+  <!--
+  Document Name: navigationSubItem1.pbo 
+  Purpose: The main navigation SubItems.
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+  <!--
+  Object Script Variables  
+    Script_Profile_URL - Output the Url of the profile.
+    Script_Profile_Name - Output the name of the profile.
+  -->
+<li><a href="/Blogs/Staff">Staff Blogs</a></li>
+  <!--
+  Document Name: navigationSubItem1.pbo 
+  Purpose: The main navigation SubItems.
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+  <!--
+  Object Script Variables  
+    Script_Profile_URL - Output the Url of the profile.
+    Script_Profile_Name - Output the name of the profile.
+  -->
+<li><a href="/Blogs/Community">Community Blogs</a></li>
+  </ul>
+</li>
+  <!--
+  Document Name: navigationItem1.pbo 
+  Purpose: Build the navigation items.
+  https://docs.saxotech.com/display/Onl/Site+map
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+<li>
+	<a class="" id="menu_1246" href="/videos">Videos</a>
+  <ul>
+  <!--
+  Document Name: navigationSubItem1.pbo 
+  Purpose: The main navigation SubItems.
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+  <!--
+  Object Script Variables  
+    Script_Profile_URL - Output the Url of the profile.
+    Script_Profile_Name - Output the name of the profile.
+  -->
+<li><a href="/localvideos">Local Videos</a></li>
+  <!--
+  Document Name: navigationSubItem1.pbo 
+  Purpose: The main navigation SubItems.
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+  <!--
+  Object Script Variables  
+    Script_Profile_URL - Output the Url of the profile.
+    Script_Profile_Name - Output the name of the profile.
+  -->
+<li><a href="/videos/channel3000">Channel 3000</a></li>
+  <!--
+  Document Name: navigationSubItem1.pbo 
+  Purpose: The main navigation SubItems.
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+  <!--
+  Object Script Variables  
+    Script_Profile_URL - Output the Url of the profile.
+    Script_Profile_Name - Output the name of the profile.
+  -->
+<li><a href="/traffic_cameras/">Traffic Cameras</a></li>
+  </ul>
+</li>
+  <!--
+  Document Name: navigationItem1.pbo 
+  Purpose: Build the navigation items.
+  https://docs.saxotech.com/display/Onl/Site+map
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+<li>
 	<a class="" id="menu_1084" href="/Community">Community</a>
   <ul>
   <!--
@@ -1075,118 +1245,6 @@ Object Script Variables
     Script_Profile_Name - Output the name of the profile.
   -->
 <li><a href="/event">Events</a></li>
-  </ul>
-</li>
-  <!--
-  Document Name: navigationItem1.pbo 
-  Purpose: Build the navigation items.
-  https://docs.saxotech.com/display/Onl/Site+map
-  Created: 20120911 SJJ
-  Modified: 
-     20120912 SJJ
-        - Added SectionSeo on the navigation.
-  -->
-<li>
-	<a class="" id="menu_1070" href="/Blogs">Blogs</a>
-  <ul>
-  <!--
-  Document Name: navigationSubItem1.pbo 
-  Purpose: The main navigation SubItems.
-  Created: 20120911 SJJ
-  Modified: 
-     20120912 SJJ
-        - Added SectionSeo on the navigation.
-  -->
-  <!--
-  Object Script Variables  
-    Script_Profile_URL - Output the Url of the profile.
-    Script_Profile_Name - Output the name of the profile.
-  -->
-<li><a href="/Blogs/Staff">Staff Blogs</a></li>
-  <!--
-  Document Name: navigationSubItem1.pbo 
-  Purpose: The main navigation SubItems.
-  Created: 20120911 SJJ
-  Modified: 
-     20120912 SJJ
-        - Added SectionSeo on the navigation.
-  -->
-  <!--
-  Object Script Variables  
-    Script_Profile_URL - Output the Url of the profile.
-    Script_Profile_Name - Output the name of the profile.
-  -->
-<li><a href="/Blogs/Community">Community Blogs</a></li>
-  </ul>
-</li>
-  <!--
-  Document Name: navigationItem1.pbo 
-  Purpose: Build the navigation items.
-  https://docs.saxotech.com/display/Onl/Site+map
-  Created: 20120911 SJJ
-  Modified: 
-     20120912 SJJ
-        - Added SectionSeo on the navigation.
-  -->
-<li>
-	<a class="" id="menu_1094" href="/Multimedia">Multimedia</a>
-  <ul>
-  <!--
-  Document Name: navigationSubItem1.pbo 
-  Purpose: The main navigation SubItems.
-  Created: 20120911 SJJ
-  Modified: 
-     20120912 SJJ
-        - Added SectionSeo on the navigation.
-  -->
-  <!--
-  Object Script Variables  
-    Script_Profile_URL - Output the Url of the profile.
-    Script_Profile_Name - Output the name of the profile.
-  -->
-<li><a href="/multimedia/videos">Videos</a></li>
-  <!--
-  Document Name: navigationSubItem1.pbo 
-  Purpose: The main navigation SubItems.
-  Created: 20120911 SJJ
-  Modified: 
-     20120912 SJJ
-        - Added SectionSeo on the navigation.
-  -->
-  <!--
-  Object Script Variables  
-    Script_Profile_URL - Output the Url of the profile.
-    Script_Profile_Name - Output the name of the profile.
-  -->
-<li><a href="/Galleries">Photo Galleries</a></li>
-  <!--
-  Document Name: navigationSubItem1.pbo 
-  Purpose: The main navigation SubItems.
-  Created: 20120911 SJJ
-  Modified: 
-     20120912 SJJ
-        - Added SectionSeo on the navigation.
-  -->
-  <!--
-  Object Script Variables  
-    Script_Profile_URL - Output the Url of the profile.
-    Script_Profile_Name - Output the name of the profile.
-  -->
-<li><a href="/multimedia/special_sections/">Special Sections</a></li>
-  <!--
-  Document Name: navigationSubItem1.pbo 
-  Purpose: The main navigation SubItems.
-  Created: 20120911 SJJ
-  Modified: 
-     20120912 SJJ
-        - Added SectionSeo on the navigation.
-  -->
-  <!--
-  Object Script Variables  
-    Script_Profile_URL - Output the Url of the profile.
-    Script_Profile_Name - Output the name of the profile.
-  -->
-<li><a href="/traffic_cameras/">Traffic Cameras</a></li>
   </ul>
 </li>
   <!--
@@ -1382,7 +1440,7 @@ Object Script Variables
     Script_Profile_URL - Output the Url of the profile.
     Script_Profile_Name - Output the name of the profile.
   -->
-<li><a href="http://www.gazettereadersrewards.com/">Reader Rewards</a></li>
+<li><a href="http://www.gazettextra.com/Services/Rewards">Reader Rewards</a></li>
   <!--
   Document Name: navigationSubItem1.pbo 
   Purpose: The main navigation SubItems.
@@ -1439,20 +1497,6 @@ Object Script Variables
     Script_Profile_Name - Output the name of the profile.
   -->
 <li><a href="/apps/pbcs.dll/article?AID=/99999999/COMMUNITY/130919761">Classifieds</a></li>
-  <!--
-  Document Name: navigationSubItem1.pbo 
-  Purpose: The main navigation SubItems.
-  Created: 20120911 SJJ
-  Modified: 
-     20120912 SJJ
-        - Added SectionSeo on the navigation.
-  -->
-  <!--
-  Object Script Variables  
-    Script_Profile_URL - Output the Url of the profile.
-    Script_Profile_Name - Output the name of the profile.
-  -->
-<li><a href="http://www.gazlo.com">Gazlo</a></li>
   </ul>
 </li>
   <!--
@@ -1517,7 +1561,7 @@ audienceAdsPosition[adVal] = {
   'defaultSpot': spot,
   'defaultLabel': "fallback",
   //'Targeting_Workflow' :  "",  // Use this if not useing Random workflow from aggregate
-  'viewname' : "saxotech_default",
+  'viewname' : "saxotech_default"
   //'displayid' : ""  // Use this if not useing Random workflow from aggregate
 };
 // console.log("Ad call for targetDiv " + audienceAdsPosition[adVal]['targetDiv'] + " and placeholder " + audienceAdsPosition[adVal]['defaultSpot']);
@@ -1539,7 +1583,7 @@ sendData['adparams'] = adparams;
 // top.SaxoConnect.getMultiOamsAdFromDoProfile(audienceAdsPosition, sendData);
 var args = {};
 args = {
-  'data': sendData,
+  'data': sendData
   // 'scb': 'adRecommendationSuccess',
   // 'fcb': 'doProfileFailure',        
 };
@@ -1576,6 +1620,49 @@ defaultFooter - Contains all the HTML for the footer section of the site
 -->
 <!-- Start content -->
 <section id="content">
+<!--Macro to place audience FB share dialog box HTML and CSS-->
+<style>
+	/** Styling for the Audience FB share dialog **/
+	.audience_fb_share {
+		display:inline-block;
+		vertical-align:bottom;
+		margin:2px 0 0 5px;
+	}
+	.audience-fb-share {
+		background-image: url(/images/facebook_counter.png);
+		background-repeat: no-repeat;
+		text-indent: -99999px;
+		overflow: hidden;
+		display: block;
+		height:22px;
+		width:60px;
+	}
+	.audience-fb-access .ui-widget-header {
+		font-family: BentonSansCond Medium, Arial, sans-serif;
+		border: 1px solid #c4151c;
+		background: #c4151c url(images/ui-bg_gloss-wave_35_f6a828_500x100.png) 50% 50% repeat-x;
+		color:#ffffff;
+	}
+	.audience-fb-access {
+		font-family: BentonSansCond Medium, Arial, sans-serif;
+		border: 1px solid #dddddd;
+		background: #eeeeee url(images/ui-bg_highlight-soft_100_eeeeee_1x100.png) 50% top repeat-x;
+		color: #333333;
+		z-index: 10000 !important;
+		width:35% !important;
+	}
+	@media screen and (max-width: 800px) {
+		.audience-fb-access{
+		width:75% !important;
+	}
+</style>
+<!-- dialog rendered for requesting user consent to audience application -->
+<div id="audience-datashare" style="display: none;" title="Facebook Access">
+	Hello there! Would you like to share your details with us for better personalization?<br><br> 
+	<!--To use authorize button instead of OK, Cancel, uncomment the code and remove buttons attribute from .dialog method inside connectFbDataBuild function-->
+	<!--<div class="fb-login-button" autologoutlink="false" scope="user_location, user_birthday, user_hometown, user_relationships, user_likes, email">Authorize</div>-->
+</div>
+
 
   <!--
   Document Name: article1.pbo
@@ -1667,7 +1754,7 @@ defaultFooter - Contains all the HTML for the footer section of the site
   
   <!-- Start story share -->
 <div class="story-share">
-  <span class="st_facebook_hcount" displaytext="Facebook"></span>
+  <span class="audience_fb_share"><a class="audience-fb-share" href="javascript:void(0);">Share on Facebook</a></span>
   <span class="st_twitter_hcount" displaytext="Tweet"></span>
   <span class="st_linkedin_hcount" displaytext="LinkedIn"></span>
   <span id="print" class="story-share-fields">
@@ -1791,6 +1878,8 @@ Object Script Variables
 <p>The Internet is an ever-changing medium. We reserve the right to alter or amend this policy as required by changes in business strategy or developments in technology. If changes are required, we will post the changes to the Terms of Use and/or Privacy Policy.</p><br>
 
   <!-- End article content -->
+
+  
   
   <!-- Starts article_embed_bottom content -->
     
@@ -1812,12 +1901,12 @@ Object Script Variables
   
   <!-- Start story share -->
 <div class="story-share">
-  <span class="st_facebook_hcount" displaytext="Facebook"></span>
+  <span class="audience_fb_share"><a class="audience-fb-share" href="javascript:void(0);">Share on Facebook</a></span>
   <span class="st_twitter_hcount" displaytext="Tweet"></span>
   <span class="st_linkedin_hcount" displaytext="LinkedIn"></span>
   <span id="print" class="story-share-fields">
     <img alt="Print" src="/apps/pbcsi.dll/staticimage/images/print-icon.png">
-    <a target="_blank" href="/apps/pbcs.dll/article?avis=JG&amp;date=20120705&amp;category=ARTICLES&amp;lopenr=307059991&amp;Ref=AR&amp;template=printart">Print</a>
+    <a target="_blank" href="/apps/pbcs.dll/article?AID=/99999999/SERVICES/121219983&amp;template=printart">Print</a>
   </span>
 </div>
 
@@ -1927,7 +2016,7 @@ audienceAdsPosition[adVal] = {
   'defaultSpot': spot,
   'defaultLabel': "fallback",
   //'Targeting_Workflow' :  "Advertising",  // Use this if not useing Random workflow from aggregate
-  'viewname' : "saxotech_default",
+  'viewname' : "saxotech_default"
   //'displayid' : "page_1"  // Use this if not useing Random workflow from aggregate
 };
 // console.log("Ad call for targetDiv " + audienceAdsPosition[adVal]['targetDiv'] + " and placeholder " + audienceAdsPosition[adVal]['defaultSpot']);
@@ -1949,7 +2038,7 @@ sendData['adparams'] = adparams;
 // top.SaxoConnect.getMultiOamsAdFromDoProfile(audienceAdsPosition, sendData);
 var args = {};
 args = {
-  'data': sendData,
+  'data': sendData
   // 'scb': 'adRecommendationSuccess',
   // 'fcb': 'doProfileFailure',        
 };
@@ -1959,92 +2048,6 @@ Connect.queue.push(function() {
 dynamic_suffix++;
   </script>
     <!-- End advertisement RightPortraitAd1 -->
-    <!-- Start advertisement RightPortraitAd2 -->
-	<!-- 
-         connectTW = Targeting Workflow
-         connectView = ServiceAPI View name
-         connectDID = ServiceAPI Display ID
-    -->    
-      <!--
-  Document Name: connectAds.pbo
-  Purpose: Audience recommended ad placeholder.
-  Created: 20120924 SJJ
-  Modified 20121004 SJJ : Added support for detect the element size and then show the right ads.
-  Modified 20130410 SSW : Cleaned up and streamlined the OAS Script.
-  Modified 20140429 Gokul : Modified from original ads.pbo to suit Audience library and get the matching ads based on recommendation.
-  -->
-<div class="advertisement" id="portrait-ad-2">
-  Loading...
-</div>
-<script type="text/javascript">
-    var windowWidth = $(window).width();
-    // = or higher than elementSize1
-    if (windowWidth >= 1024) {
-      spot = 'RIGHT1024SPOT2';
-    }
-    // = or higher than elementSize2 and less than elementSize1
-    if (windowWidth >= 728 && windowWidth < 1024) {
-      spot = 'RIGHT728SPOT2';
-    }
-    // = or higher than elementSize3 and less than elementSize2
-    if (windowWidth >= 468 && windowWidth < 728) {
-      spot = 'RIGHT468SPOT2';
-    }
-    // less than elementSize3
-    if (windowWidth < 468) {
-      spot = 'RIGHT234SPOT2';
-    }
-/* Below is the setup and function that calls in Audience / Connect match for users and serves the ads */
-Connect.AdServer ="http://jgads.sx3.atl.publicus.com";
-Connect.AdSite = "JG001"; // AKA Subsite 
-var dynamic_suffix = dynamic_suffix || 0;
-var adVal = 'ad' + (parseInt(dynamic_suffix) + 1);
-// console.log("adVal is " + adVal);
-var audienceAdsPosition = audienceAdsPosition || {};
-audienceAdsPosition[adVal] = {
-  'targetDiv' : "portrait-ad-2", 
-  'spot' : "AUD970SPOT1",
-  'label': "fallback",
-  'defaultSpot': spot,
-  'defaultLabel': "fallback",
-  //'Targeting_Workflow' :  "Audience Development",  // Use this if not useing Random workflow from aggregate
-  'viewname' : "saxotech_default",
-  //'displayid' : "audience_development"  // Use this if not useing Random workflow from aggregate
-};
-// console.log("Ad call for targetDiv " + audienceAdsPosition[adVal]['targetDiv'] + " and placeholder " + audienceAdsPosition[adVal]['defaultSpot']);
-var sendData = {};
-sendData = {
-  'parameters': {}
-};
-var adparams = {
-  'siteUrl'         : Connect.AdServer, 
-  'site'            : Connect.AdSite,
-  'adPositions'     : audienceAdsPosition,
-  'adType'          : 'OAMS'
-};
-//sendData['parameters']['Targeting_Workflow'] = "Audience Development";  // Use this if not useing Random workflow from aggregate
-sendData['parameters']['viewname'] = "saxotech_default";
-//sendData['parameters']['displayid'] = "audience_development";  // Use this if not useing Random workflow from aggregate
-// sendData['parameters']['uid'] = uid;
-sendData['adparams'] = adparams;
-// top.SaxoConnect.getMultiOamsAdFromDoProfile(audienceAdsPosition, sendData);
-var args = {};
-args = {
-  'data': sendData,
-  // 'scb': 'adRecommendationSuccess',
-  // 'fcb': 'doProfileFailure',        
-};
-Connect.queue.push(function() {
-  Connect.util.ui('adRecommendationFromLS', args);
-});
-dynamic_suffix++;
-  </script>
-    <!-- End advertisement RightPortraitAd2 -->
-	<div style="margin: 15px 0 0 8px;">
-		<a href="/20140912/28_apple_orchards_within_your_reach" target="_blank">
-			<img style="width: 100%;" src="/assets/jpeg/JG7269915.JPG">
-		</a>
-	</div>
     <!-- Start gallery -->
 	<div id="gallery-module">
 		<h4 class="right-rail-heading">
@@ -2056,33 +2059,28 @@ dynamic_suffix++;
 			-->
 		</h4>
 <div class="photos">
-  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20141007&amp;Category=MULTIMEDIA02&amp;ArtNo=100709999&amp;Ref=PH&amp;template=gallery">
-    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20141007&amp;Category=MULTIMEDIA02&amp;ArtNo=100709999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Janesville Parker versus Madison West Volleyball">
+  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20150310&amp;Category=MULTIMEDIA02&amp;ArtNo=310009999&amp;Ref=PH&amp;template=gallery">
+    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20150310&amp;Category=MULTIMEDIA02&amp;ArtNo=310009999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Editorial cartoons for March 8-14, 2015">
   </a>
 </div>
 <div class="photos">
-  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20141006&amp;Category=MULTIMEDIA02&amp;ArtNo=100609999&amp;Ref=PH&amp;template=gallery">
-    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20141006&amp;Category=MULTIMEDIA02&amp;ArtNo=100609999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="WIAA Div. 1 Sectional Golf Tournament">
+  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20150304&amp;Category=MULTIMEDIA02&amp;ArtNo=304009999&amp;Ref=PH&amp;template=gallery">
+    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20150304&amp;Category=MULTIMEDIA02&amp;ArtNo=304009999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Stand Alone Photos for March 2015">
   </a>
 </div>
 <div class="photos">
-  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20141004&amp;Category=MULTIMEDIA02&amp;ArtNo=100409998&amp;Ref=PH&amp;template=gallery">
-    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20141004&amp;Category=MULTIMEDIA02&amp;ArtNo=100409998&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Irish Fest Activities">
+  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20150303&amp;Category=MULTIMEDIA02&amp;ArtNo=303009999&amp;Ref=PH&amp;template=gallery">
+    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20150303&amp;Category=MULTIMEDIA02&amp;ArtNo=303009999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Editorial cartoons for March 1-7, 2015">
   </a>
 </div>
 <div class="photos">
-  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20141004&amp;Category=MULTIMEDIA02&amp;ArtNo=100409999&amp;Ref=PH&amp;template=gallery">
-    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20141004&amp;Category=MULTIMEDIA02&amp;ArtNo=100409999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Whitewater Warhawks versus La Crosse Football">
+  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20150223&amp;Category=MULTIMEDIA02&amp;ArtNo=223009999&amp;Ref=PH&amp;template=gallery">
+    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20150223&amp;Category=MULTIMEDIA02&amp;ArtNo=223009999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Editorial cartoons for February 22-28, 2015">
   </a>
 </div>
 <div class="photos">
-  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20141002&amp;Category=MULTIMEDIA02&amp;ArtNo=100209998&amp;Ref=PH&amp;template=gallery">
-    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20141002&amp;Category=MULTIMEDIA02&amp;ArtNo=100209998&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Stand Alone Photos for October, 2014">
-  </a>
-</div>
-<div class="photos">
-  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20141002&amp;Category=MULTIMEDIA02&amp;ArtNo=100209999&amp;Ref=PH&amp;template=gallery">
-    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20141002&amp;Category=MULTIMEDIA02&amp;ArtNo=100209999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Janesville Craig versus Madison East Football">
+  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20150217&amp;Category=MULTIMEDIA02&amp;ArtNo=217009999&amp;Ref=PH&amp;template=gallery">
+    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20150217&amp;Category=MULTIMEDIA02&amp;ArtNo=217009999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Editorial cartoons for February 15-21, 2015">
   </a>
 </div>
 	</div>
@@ -2103,9 +2101,9 @@ dynamic_suffix++;
   <!-- start contentListItem7 -->
 <div class="blog-details">
   <div class="event-text">
-    <a href="/20141007/best_of_the_gazette_oct_7_mars_sex_offenders_and_barrel_whiskey"> Best of The Gazette, Oct. 7: Mars, sex offenders and barrel whiskey</a>
+    <a href="/20150314/xtra_points_shock_result_changes_premier_league"> Xtra Points: Shock result changes Premier League</a>
     <div class="date">
-      <script>changeDateFormat('2014-10-07*15:05', 'dddd, MMMM D, YYYY')</script>Tuesday, October 7, 2014
+      <script>changeDateFormat('2015-03-14*17:04', 'dddd, MMMM D, YYYY')</script>Saturday, March 14, 2015
     </div>
   </div>
 </div>
@@ -2114,9 +2112,9 @@ dynamic_suffix++;
 <!-- start contentListItem7 -->
 <div class="blog-details">
   <div class="event-text">
-    <a href="/20141007/john_w_eyster_two_holidays_ripe_for_change"> John W. Eyster: Two holidays ripe for change</a>
+    <a href="/20150313/greg_peck_an_era_when_social_security_numbers_werent_guarded"> Greg Peck: An era when Social Security numbers weren't guarded</a>
     <div class="date">
-      <script>changeDateFormat('2014-10-06*14:37', 'dddd, MMMM D, YYYY')</script>Monday, October 6, 2014
+      <script>changeDateFormat('2015-03-13*11:15', 'dddd, MMMM D, YYYY')</script>Friday, March 13, 2015
     </div>
   </div>
 </div>
@@ -2125,9 +2123,9 @@ dynamic_suffix++;
 <!-- start contentListItem7 -->
 <div class="blog-details">
   <div class="event-text">
-    <a href="/20141006/james_martin_a_screeching_argument_against_common_core"> James Martin: A screeching argument against Common Core</a>
+    <a href="/20150313/glen_loyd_videos_a_journey_into_the_depths_at_cave_of_the_mounds"> Glen Loyd Videos: A journey into the depths at Cave of the Mounds</a>
     <div class="date">
-      <script>changeDateFormat('2014-10-06*10:41', 'dddd, MMMM D, YYYY')</script>Monday, October 6, 2014
+      <script>changeDateFormat('2015-03-12*14:36', 'dddd, MMMM D, YYYY')</script>Thursday, March 12, 2015
     </div>
   </div>
 </div>
@@ -2154,7 +2152,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141004/firefighters_public_respond_to_delavan_childs_request_for_shoulder_patches"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Firefighters, public respond to Delavan child's request for shoulder patches</a> <span class="summary"></span>
+  <a href="/20150315/death_notices_for_march_15_2015"> Death notices for March 15, 2015</a> <span class="summary"></span>
 </div>
   <!--
   Document Name: contentStatsItem1.pbo
@@ -2163,7 +2161,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141006/milton_police_seek_publics_help_identifying_junction_pub_robbers"> Milton police seek public's help identifying Junction Pub robbers</a> <span class="summary"></span>
+  <a href="/20150315/sarah_a_merchant_fort_wayne_in"> Sarah A. Merchant, Fort Wayne, IN</a> <span class="summary"></span>
 </div>
   <!--
   Document Name: contentStatsItem1.pbo
@@ -2172,7 +2170,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141007/scott_r_stricker_edgerton_wi_1963_2014"> Scott R. Stricker, Edgerton, WI (1963-2014)</a> <span class="summary"></span>
+  <a href="/20150315/walworth_county_owi_court_graduate_plans_to_use_past_experiences_to_help_others"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Walworth County OWI Court graduate plans to use past experiences to help others</a> <span class="summary"></span>
 </div>
   <!--
   Document Name: contentStatsItem1.pbo
@@ -2181,7 +2179,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141007/senate_candidates_ads_feature_bathroom_bar_swearing"> Senate candidate's ads feature bathroom, bar, swearing</a> <span class="summary"></span>
+  <a href="/20150315/hoiland_arrested_on_sixth_owi_charge"> Hoiland arrested on sixth OWI charge</a> <span class="summary"></span>
 </div>
   <!--
   Document Name: contentStatsItem1.pbo
@@ -2190,7 +2188,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141007/georgia_officers_cleared_in_raid_that_wounded_janesville_toddler"> Georgia officers cleared in raid that wounded Janesville toddler</a> <span class="summary"></span>
+  <a href="/20150315/stoughton_man_arrested_on_charge_of_5th_offense_drunk_driving"> Stoughton man arrested on charge of 5th-offense drunk driving</a> <span class="summary"></span>
 </div>
   <!--
   Document Name: contentStatsItem1.pbo
@@ -2199,7 +2197,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141007/updated_highway_14_between_janesville_evansville_now_open"> Updated: Highway 14 between Janesville, Evansville now open</a> <span class="summary"></span>
+  <a href="/20150315/vicky_lynn_hendricks_butts_lake_park_fl_1950_2015"> Vicky Lynn (Hendricks) Butts, Lake Park, FL (1950 - 2015)</a> <span class="summary"></span>
 </div>
       </div>
       <!-- End trending now module -->
@@ -2221,7 +2219,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141003/brothers_plan_to_revamp_downtown_tavern_with_ribs_country_music_and_barrel_whiskey"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Brothers plan to revamp downtown tavern with ribs, country music and barrel whiskey</a> <span class="summary"></span>
+  <a href="/20150310/woman_likely_jumped_to_her_death"> Woman likely jumped to her death, police say</a> <span class="summary"></span>
 </div>
   <!--
   Document Name: contentStatsItem1.pbo
@@ -2230,7 +2228,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141001/sambath_pal_gets_20_years_in_hit_and_run_deaths_of_two_motorcyclists"> Sambath Pal gets 20 years in hit-and-run deaths of two motorcyclists</a> <span class="summary"></span>
+  <a href="/20150309/man_severely_beaten_in_janesville_bar_fight"> Man severely beaten in Janesville bar fight</a> <span class="summary"></span>
 </div>
   <!--
   Document Name: contentStatsItem1.pbo
@@ -2239,7 +2237,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20140930/website_puts_dicks_gordmans_at_janesville_mall"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Website puts Dick's, Gordmans at Janesville Mall</a> <span class="summary"></span>
+  <a href="/20150310/elkhorn_men_get_jail_probation_for_sexually_assaulting_same_14_year_old_girl"> Elkhorn men get jail, probation for sexually assaulting same 14-year-old girl</a> <span class="summary"></span>
 </div>
   <!--
   Document Name: contentStatsItem1.pbo
@@ -2248,7 +2246,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141006/milton_police_seek_publics_help_identifying_junction_pub_robbers"> Milton police seek public's help identifying Junction Pub robbers</a> <span class="summary"></span>
+  <a href="/20150311/two_arrested_on_meth_manufacturing_charges"> Two arrested on meth manufacturing charges</a> <span class="summary"></span>
 </div>
   <!--
   Document Name: contentStatsItem1.pbo
@@ -2257,7 +2255,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141003/authorities_say_woman_set_car_on_fire_and_her_death_was_suicide"> Authorities say woman set car on fire and her death was suicide</a> <span class="summary"></span>
+  <a href="/20150309/janesville_teen_trio_accused_in_second_robbery"> Janesville teen trio accused in second robbery</a> <span class="summary"></span>
 </div>
   <!--
   Document Name: contentStatsItem1.pbo
@@ -2266,7 +2264,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141001/family_friends_shocked_by_car_fire_death_of_local_woman"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Family, friends shocked by car-fire death of local woman</a> <span class="summary"></span>
+  <a href="/20150311/tuesday_interstate_crash_kills_one_injures_another"> Tuesday Interstate crash kills one, injures another</a> <span class="summary"></span>
 </div>
       </div>
       <!-- End most read -->
@@ -2288,7 +2286,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141004/your_views_eliminate_sound_off_column_or_at_least_its_anonymity"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Your Views: Eliminate Sound Off column or at least its anonymity</a> <span class="summary">(10)</span>
+  <a href="/20150313/your_views_right_to_work_law_will_bring_lower_pay_fewer_benefits"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Your Views: Right-to-work law will bring lower pay, fewer benefits</a> <span class="summary">(15)</span>
 </div>
   <!--
   Document Name: contentListItem2.pbo
@@ -2297,7 +2295,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20140930/referendum_question_seeking_money_for_street_repair_doesnt_spell_out_what_the_money_is_for"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Referendum question seeking money for street repair doesn't spell out what the money is for</a> <span class="summary">(10)</span>
+  <a href="/20150309/court_documents_wisconsin_shooting_victim_was_impulsive"> Court documents: Wisconsin shooting victim was impulsive</a> <span class="summary">(13)</span>
 </div>
   <!--
   Document Name: contentListItem2.pbo
@@ -2306,7 +2304,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141006/your_views_gov_walker8217s_ways_are_not_wisconsin8217s_ways"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Your Views: Gov. Walker’s ways are not Wisconsin’s ways</a> <span class="summary">(10)</span>
+  <a href="/20150313/uw_w_chancellor_proposed_budget_would_cut_classes"> UW-W chancellor: Proposed budget would cut classes</a> <span class="summary">(11)</span>
 </div>
   <!--
   Document Name: contentListItem2.pbo
@@ -2315,7 +2313,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141003/your_views_mary_burke8217s_8216lifted8217_jobs_plan_earns_an_f_in_her_book"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Your Views: Mary Burke’s ‘lifted’ jobs plan earns an F in her book</a> <span class="summary">(8)</span>
+  <a href="/20150306/janesville_looks_to_ditch_retail_liquor_separation_rule"> Janesville looks to ditch retail liquor separation rule</a> <span class="summary">(11)</span>
 </div>
   <!--
   Document Name: contentListItem2.pbo
@@ -2324,7 +2322,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141002/ted_kinnaman_show_scott_walker_he_has_gone_too_far_in_war_on_workers"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Ted Kinnaman: Show Scott Walker he has gone too far in war on workers</a> <span class="summary">(8)</span>
+  <a href="/20150306/wisconsin_assembly_sends_right_to_work_bill_to_gov_walker"> Wisconsin Assembly sends right-to-work bill to Gov. Walker </a> <span class="summary">(10)</span>
 </div>
   <!--
   Document Name: contentListItem2.pbo
@@ -2333,7 +2331,7 @@ dynamic_suffix++;
   Created: 20120814 SSW
   -->
 <div class="right-rail-text">
-  <a href="/20141004/group_traffic_volume_doesnt_justify_interstate_9039_expansion"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Group: Traffic volume doesn't justify Interstate 90/39 expansion</a> <span class="summary">(7)</span>
+  <a href="/20150312/how_secretaries_of_state_handle_classified_information"> How secretaries of state handle classified information</a> <span class="summary">(10)</span>
 </div>
       </div>
       <!-- End most commented -->
@@ -2398,7 +2396,7 @@ var LConnectTemplate                       = ''; // Set the correct value
         //change the height of the iframe
         document.getElementById('portrait-ad-3-'+spot).height = the_height;
       }
-      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=40020373099324621&spot='+spot+'&label='+OAMSLabel+'" id="portrait-ad-3-'+spot+'" height="90" style="overflow:hidden; width:100%; background-color: #fff;" scrolling="no" frameborder="0"></iframe>');
+      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=10064779796628713&spot='+spot+'&label='+OAMSLabel+'" id="portrait-ad-3-'+spot+'" height="90" style="overflow:hidden; width:100%; background-color: #fff;" scrolling="no" frameborder="0"></iframe>');
       $(window).load(function(){
         calcHeight(spot);
       });
@@ -2442,7 +2440,7 @@ var LConnectTemplate                       = ''; // Set the correct value
         //change the height of the iframe
         document.getElementById('portrait-ad-4-'+spot).height = the_height;
       }
-      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=40020373099324621&spot='+spot+'&label='+OAMSLabel+'" id="portrait-ad-4-'+spot+'" height="90" style="overflow:hidden; width:100%; background-color: #fff;" scrolling="no" frameborder="0"></iframe>');
+      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=10064779796628713&spot='+spot+'&label='+OAMSLabel+'" id="portrait-ad-4-'+spot+'" height="90" style="overflow:hidden; width:100%; background-color: #fff;" scrolling="no" frameborder="0"></iframe>');
       $(window).load(function(){
         calcHeight(spot);
       });
@@ -2517,7 +2515,7 @@ var LConnectTemplate                       = ''; // Set the correct value
         //change the height of the iframe
         document.getElementById('footer-leader-ad-'+spot).height = the_height;
       }
-      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=40020373099324621&spot='+spot+'&label='+OAMSLabel+'" id="footer-leader-ad-'+spot+'" height="90" style="overflow:hidden; width:100%; background-color: #fff;" scrolling="no" frameborder="0"></iframe>');
+      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=10064779796628713&spot='+spot+'&label='+OAMSLabel+'" id="footer-leader-ad-'+spot+'" height="90" style="overflow:hidden; width:100%; background-color: #fff;" scrolling="no" frameborder="0"></iframe>');
       $(window).load(function(){
         calcHeight(spot);
       });
@@ -2571,7 +2569,7 @@ Created: 20120912 SJJ
 <!--
 Object Script Variables  
 -->
-<li><a href="/lottery">Lottery results</a></li>
+<li><a href="/lottery">Lottery Results</a></li>
 <!--
 Document Name: siteMapSubItem1.pbo 
 Purpose: Build the sitemap (SubItems).
@@ -2607,7 +2605,25 @@ Created: 20120912 SJJ
 <!--
 Object Script Variables  
 -->
+<li><a href="/multimedia/special_sections/">Special Sections</a></li>
+<!--
+Document Name: siteMapSubItem1.pbo 
+Purpose: Build the sitemap (SubItems).
+Created: 20120912 SJJ
+-->
+<!--
+Object Script Variables  
+-->
 <li><a href="/corrections">Corrections</a></li>
+<!--
+Document Name: siteMapSubItem1.pbo 
+Purpose: Build the sitemap (SubItems).
+Created: 20120912 SJJ
+-->
+<!--
+Object Script Variables  
+-->
+<li><a href="/News/Photos">Photos</a></li>
     </ul>
 </div>
   <!--
@@ -2702,6 +2718,24 @@ Created: 20120912 SJJ
 Object Script Variables  
 -->
 <li><a href="/Sports/Hockey">Hockey</a></li>
+<!--
+Document Name: siteMapSubItem1.pbo 
+Purpose: Build the sitemap (SubItems).
+Created: 20120912 SJJ
+-->
+<!--
+Object Script Variables  
+-->
+<li><a href="/Sports/Photos">Photos</a></li>
+<!--
+Document Name: siteMapSubItem1.pbo 
+Purpose: Build the sitemap (SubItems).
+Created: 20120912 SJJ
+-->
+<!--
+Object Script Variables  
+-->
+<li><a href="/Sports/MarchMadness">March Madness</a></li>
     </ul>
 </div>
   <!--
@@ -2769,6 +2803,15 @@ Created: 20120912 SJJ
 Object Script Variables  
 -->
 <li><a href="/Opinion/SoundOff">Sound Off</a></li>
+<!--
+Document Name: siteMapSubItem1.pbo 
+Purpose: Build the sitemap (SubItems).
+Created: 20120912 SJJ
+-->
+<!--
+Object Script Variables  
+-->
+<li><a href="/Opinion/PoliticalCartoons">Political Cartoons</a></li>
     </ul>
 </div>
   <!--
@@ -2874,6 +2917,77 @@ Object Script Variables
   				- Removed the clear left for float if counter equaled nine
   -->
 <div class="foot-column">
+  <a href="/Blogs" class="foot-column-heading">Blogs</a>
+    <ul>
+<!--
+Document Name: siteMapSubItem1.pbo 
+Purpose: Build the sitemap (SubItems).
+Created: 20120912 SJJ
+-->
+<!--
+Object Script Variables  
+-->
+<li><a href="/Blogs/Staff">Staff Blogs</a></li>
+<!--
+Document Name: siteMapSubItem1.pbo 
+Purpose: Build the sitemap (SubItems).
+Created: 20120912 SJJ
+-->
+<!--
+Object Script Variables  
+-->
+<li><a href="/Blogs/Community">Community Blogs</a></li>
+    </ul>
+</div>
+  <!--
+  Document Name: siteMapItem1.pbo 
+  Purpose: Build the sitemap (Items).
+  KB Article: https://docs.saxotech.com/display/Onl/Site+map
+  Created: 20120912 SJJ
+  Modified: 20130430 MQN
+  				- Removed the clear left for float if counter equaled nine
+  -->
+<div class="foot-column">
+  <a href="/videos" class="foot-column-heading">Videos</a>
+    <ul>
+<!--
+Document Name: siteMapSubItem1.pbo 
+Purpose: Build the sitemap (SubItems).
+Created: 20120912 SJJ
+-->
+<!--
+Object Script Variables  
+-->
+<li><a href="/localvideos">Local Videos</a></li>
+<!--
+Document Name: siteMapSubItem1.pbo 
+Purpose: Build the sitemap (SubItems).
+Created: 20120912 SJJ
+-->
+<!--
+Object Script Variables  
+-->
+<li><a href="/videos/channel3000">Channel 3000</a></li>
+<!--
+Document Name: siteMapSubItem1.pbo 
+Purpose: Build the sitemap (SubItems).
+Created: 20120912 SJJ
+-->
+<!--
+Object Script Variables  
+-->
+<li><a href="/traffic_cameras/">Traffic Cameras</a></li>
+    </ul>
+</div>
+  <!--
+  Document Name: siteMapItem1.pbo 
+  Purpose: Build the sitemap (Items).
+  KB Article: https://docs.saxotech.com/display/Onl/Site+map
+  Created: 20120912 SJJ
+  Modified: 20130430 MQN
+  				- Removed the clear left for float if counter equaled nine
+  -->
+<div class="foot-column">
   <a href="/Community" class="foot-column-heading">Community</a>
     <ul>
 <!--
@@ -2939,86 +3053,6 @@ Created: 20120912 SJJ
 Object Script Variables  
 -->
 <li><a href="/event">Events</a></li>
-    </ul>
-</div>
-  <!--
-  Document Name: siteMapItem1.pbo 
-  Purpose: Build the sitemap (Items).
-  KB Article: https://docs.saxotech.com/display/Onl/Site+map
-  Created: 20120912 SJJ
-  Modified: 20130430 MQN
-  				- Removed the clear left for float if counter equaled nine
-  -->
-<div class="foot-column">
-  <a href="/Blogs" class="foot-column-heading">Blogs</a>
-    <ul>
-<!--
-Document Name: siteMapSubItem1.pbo 
-Purpose: Build the sitemap (SubItems).
-Created: 20120912 SJJ
--->
-<!--
-Object Script Variables  
--->
-<li><a href="/Blogs/Staff">Staff Blogs</a></li>
-<!--
-Document Name: siteMapSubItem1.pbo 
-Purpose: Build the sitemap (SubItems).
-Created: 20120912 SJJ
--->
-<!--
-Object Script Variables  
--->
-<li><a href="/Blogs/Community">Community Blogs</a></li>
-    </ul>
-</div>
-  <!--
-  Document Name: siteMapItem1.pbo 
-  Purpose: Build the sitemap (Items).
-  KB Article: https://docs.saxotech.com/display/Onl/Site+map
-  Created: 20120912 SJJ
-  Modified: 20130430 MQN
-  				- Removed the clear left for float if counter equaled nine
-  -->
-<div class="foot-column">
-  <a href="/Multimedia" class="foot-column-heading">Multimedia</a>
-    <ul>
-<!--
-Document Name: siteMapSubItem1.pbo 
-Purpose: Build the sitemap (SubItems).
-Created: 20120912 SJJ
--->
-<!--
-Object Script Variables  
--->
-<li><a href="/multimedia/videos">Videos</a></li>
-<!--
-Document Name: siteMapSubItem1.pbo 
-Purpose: Build the sitemap (SubItems).
-Created: 20120912 SJJ
--->
-<!--
-Object Script Variables  
--->
-<li><a href="/Galleries">Photo Galleries</a></li>
-<!--
-Document Name: siteMapSubItem1.pbo 
-Purpose: Build the sitemap (SubItems).
-Created: 20120912 SJJ
--->
-<!--
-Object Script Variables  
--->
-<li><a href="/multimedia/special_sections/">Special Sections</a></li>
-<!--
-Document Name: siteMapSubItem1.pbo 
-Purpose: Build the sitemap (SubItems).
-Created: 20120912 SJJ
--->
-<!--
-Object Script Variables  
--->
-<li><a href="/traffic_cameras/">Traffic Cameras</a></li>
     </ul>
 </div>
   <!--
@@ -3148,7 +3182,7 @@ Created: 20120912 SJJ
 <!--
 Object Script Variables  
 -->
-<li><a href="http://www.gazettereadersrewards.com/">Reader Rewards</a></li>
+<li><a href="http://www.gazettextra.com/Services/Rewards">Reader Rewards</a></li>
 <!--
 Document Name: siteMapSubItem1.pbo 
 Purpose: Build the sitemap (SubItems).
@@ -3189,15 +3223,6 @@ Created: 20120912 SJJ
 Object Script Variables  
 -->
 <li><a href="/apps/pbcs.dll/article?AID=/99999999/COMMUNITY/130919761">Classifieds</a></li>
-<!--
-Document Name: siteMapSubItem1.pbo 
-Purpose: Build the sitemap (SubItems).
-Created: 20120912 SJJ
--->
-<!--
-Object Script Variables  
--->
-<li><a href="http://www.gazlo.com">Gazlo</a></li>
     </ul>
 </div>
   <!--
@@ -3215,7 +3240,7 @@ Object Script Variables
 </div>
         </div>
         <div id="copy-right">
-          © 2014 GazetteXtra<span id="copy-right-division">, a division of Bliss Communications, Inc.</span>
+          © 2015 GazetteXtra<span id="copy-right-division">, a division of Bliss Communications, Inc.</span>
         </div>
       </footer>
       <!-- footer ends -->
@@ -3295,4 +3320,4 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
   <!-- Omniture ends -->
 
 
-<!--Updated: 2014/10/08 00:46:35--></body></html>
+<!--Updated: 2015/03/15 12:40:08--></body></html>
