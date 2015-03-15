@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascension.org privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815214037id_/http%3A//www.ascension.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascension.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315095732id_/http%3A//www.ascension.org/privacy.aspx) for the most accurate reproduction.*
 
 # Ascension > Home
 
