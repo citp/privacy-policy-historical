@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedid.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701132506id_/https%3A//www.trustedid.com/serviceterms.php%3Fserviceterms%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedid.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315184747id_/https%3A//www.trustedid.com/serviceterms.php%3Fserviceterms%3Dprivacy_policy) for the most accurate reproduction.*
 
 # TrustedID Privacy Policy
 
