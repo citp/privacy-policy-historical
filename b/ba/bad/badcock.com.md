@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the badcock.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929222710id_/http%3A//www.badcock.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badcock.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315042234id_/https%3A//www.badcock.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms & Conditions | Badcock &more
+# Privacy Policy | Badcock &more
 
 #### Privacy Policy
 
@@ -44,7 +44,7 @@ The information we collect from you includes things like:
 
 We may also receive information about you from other sources, including third parties that help us update, expand and analyze our records and identify new customers. 
 
-We collect data that’s publicly available. For example, information you submit in a public forum (e.g. a blog, chat room, or social network) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances. 
+We collect data that's publicly available. For example, information you submit in a public forum (e.g. a blog, chat room, or social network) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances. 
 
 We may also obtain information provided by a third party. For instance, we obtain information from companies that can enhance our existing customer information to improve the accuracy and add to the information we have about our customers (for example, adding address information). This improves our ability to contact you and increases the relevance of our marketing by providing better product recommendations or special offers that may interest you. 
 
@@ -131,7 +131,7 @@ How We Protect the Information We Collect
 
 **Security Methods**
 
-We maintain administrative, technical and physical safeguards to protect your personal information. When we collect or transmit sensitive information such as a credit or debit card number, we use industry standard methods to protect that information. However, no e-commerce solution, website, database or system is completely secure or “hacker proof.” You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse. 
+We maintain administrative, technical and physical safeguards to protect your personal information. When we collect or transmit sensitive information such as a credit or debit card number, we use industry standard methods to protect that information. However, no e-commerce solution, website, database or system is completely secure or "hacker proof." You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse. 
 
 **E-mail Security**
 
@@ -153,15 +153,15 @@ You may choose to:
 
 **Postal Mail**
 
-If you do not wish to receive catalogs, coupons, and other promotional mail, [contact us](https://web.archive.org/web/20140929222710id_/http%3A//www.badcock.com/contact.aspx) or call 800-223-2625 to opt out. 
+If you do not wish to receive catalogs, coupons, and other promotional mail, [contact us](https://web.archive.org/web/20150315042234id_/https%3A//www.badcock.com/contact.aspx) or call 800-223-2625 to opt out. 
 
 **Telephone**
 
-If you do not wish to receive promotional telephone calls, [contact us](https://web.archive.org/web/20140929222710id_/http%3A//www.badcock.com/contact.aspx) or call 800-223-2625 to opt out. This opt out does not apply to operational phone calls, for example, confirmation of delivery address. 
+If you do not wish to receive promotional telephone calls, [contact us](https://web.archive.org/web/20150315042234id_/https%3A//www.badcock.com/contact.aspx) or call 800-223-2625 to opt out. This opt out does not apply to operational phone calls, for example, confirmation of delivery address. 
 
 **E-mail**
 
-If you do not wish to receive promotional telephone calls, [contact us](https://web.archive.org/web/20140929222710id_/http%3A//www.badcock.com/contact.aspx) or call 800-223-2625 to opt out. This opt out does not apply to operational phone calls, for example, confirmation of delivery address. 
+If you do not wish to receive promotional telephone calls, [contact us](https://web.archive.org/web/20150315042234id_/https%3A//www.badcock.com/contact.aspx) or call 800-223-2625 to opt out. This opt out does not apply to operational phone calls, for example, confirmation of delivery address. 
 
 **Mobile**
 
@@ -195,7 +195,7 @@ If you have any questions about our Privacy Policy or practices, we'll do our be
 
 **E-mail:**
 
-[PrivacyManager@Badcock.com](mailto:PrivacyManager@Badcock.com)
+[customer.service@badcock.com](mailto:PrivacyManager@Badcock.com)
 
 **Address**
 
@@ -210,7 +210,7 @@ In order to keep your personal information accurate and complete, you can access
 
 If you have created a Badcock.com account, you can log in and update your account information, including contact, billing, and shipping information. 
 
-[Contact us](https://web.archive.org/web/20140929222710id_/http%3A//www.badcock.com/contact.aspx) with your current contact information and the personal information you would like to access. We will provide you the personal information requested if reasonably available, or will describe the types of personal information we typically collect. 
+[Contact us](https://web.archive.org/web/20150315042234id_/https%3A//www.badcock.com/contact.aspx) with your current contact information and the personal information you would like to access. We will provide you the personal information requested if reasonably available, or will describe the types of personal information we typically collect. 
 
 **Privacy Policy Scope**
 
