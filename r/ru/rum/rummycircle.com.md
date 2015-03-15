@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rummycircle.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092843id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rummycircle.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013743id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - RummyCircle
 
@@ -115,6 +115,6 @@ Top ↑
 
 7\. Grievance Officer:
 
-RummyCircle currently appoints Mr. Venkat Veluvolu as the Grievance Officer. All complaints relating to personal data must be sent to the Grievance Officer at [support@RummyCircle.com](mailto:support@rummycircle.com).
+RummyCircle currently appoints Mr. Hari Hara Sahu as the Grievance Officer. All complaints relating to personal data must be sent to the Grievance Officer at [support@RummyCircle.com](mailto:support@rummycircle.com).
 
 Top ↑
