@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popularscience.tv privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228033344id_/http%3A//www.popularscience.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popularscience.tv privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315072156id_/http%3A//www.popularscience.tv/privacy.html) for the most accurate reproduction.*
 
 # Privacy | New Technology, Science News, The Future Now | Popular Science Tv
 
