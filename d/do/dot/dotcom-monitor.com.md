@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotcom-monitor.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202013550id_/https%3A//www.dotcom-monitor.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcom-monitor.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315150752id_/https%3A//www.dotcom-monitor.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Dotcom-Monitor Privacy Statement | Dotcom-Monitor
 
