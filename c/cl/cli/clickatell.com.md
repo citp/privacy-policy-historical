@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828163028id_/https%3A//www.clickatell.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021641id_/https%3A//www.clickatell.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
-(Date: January 2013)
+(Date: December 2014)
 
 **Personal information.** This is information which you provide to us which personally identifies you or another person, such as name, email address or billing information, or other data which we can reasonably link to such personal information. 
 
