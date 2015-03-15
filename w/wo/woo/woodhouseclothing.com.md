@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodhouseclothing.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121021203id_/http%3A//www.woodhouseclothing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodhouseclothing.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315040657id_/http%3A//www.woodhouseclothing.com/privacy.php) for the most accurate reproduction.*
 
 # Woodhouse Clothing Privacy Policy
 
@@ -108,7 +108,11 @@ Struq places anonymous cookies which collect details of pages and products you v
 VE Interactive cookies collect information about customers who used the basket and checkout process but then did not complete their purchase. This allows us to email those customers and make sure that there was not a technical problem or other issue which prevented them from completing their purchase.
 
 **Yieldify**  
-Yieldify's unique technology monitors user behaviour patterns and detects when you about to leave our site. Once detected, a personalised overlay message invites you to leave your contact information. Yieldify uses cookies to anonymously identify you and record the frequency of visits to our site.   
+Yieldify's unique technology monitors user behaviour patterns and detects when you about to leave our site. Once detected, a personalised overlay message invites you to leave your contact information. Yieldify uses cookies to anonymously identify you and record the frequency of visits to our site. 
+
+**VisualDNA**  
+We use a tag of a third-party service provider, VisualDNA, to anonymously collect information about users' browsing activity on our website (this does not include names, addresses or any other personal information). This information is linked to a cookie that VisualDNA sets in your browser. This information allows us and VisualDNA to build a profile so that your online experience can be made more relevant to your specific interests. You have the right to opt out from VisualDNA's service by clicking [here](http://my.visualdna.com/) and choosing the 'Cookie Settings' option.  
+VisualDNA does not store or share personally identifiable information with any third party, other than in anonymised, aggregated form. To learn more, visit VisualDNA's privacy policy at [http://www.visualdna.com/privacy-policy](http://www.visualdna.com/privacy-policy/) and VisualDNA's cookie policy at [http://www.visualdna.com/cookie-policy](http://www.visualdna.com/cookie-policy/).   
   
 If you want to manage your cookies then you can do this via your browser or alternatively please visit [**www.aboutcookies.org**](http://www.aboutcookies.org/) for up to date information about cookie management. All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, see the 'Help' option in your browser for more details.
 
