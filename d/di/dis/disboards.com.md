@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disboards.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031235839id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disboards.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315051058id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
 
 # DIS - Privacy Policy
 
@@ -57,7 +57,6 @@ In compliance with the **Children's Online Privacy Act** , we affirm the followi
 
 **Contact Information:**
 
-Corey Martin, President  
 Peter Werner, Owner  
 Werner Technologies, LLC.  
 424 E. Central Blvd 324  
