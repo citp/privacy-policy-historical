@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobzella.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040947id_/http%3A//www.jobzella.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobzella.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315204645id_/http%3A//www.jobzella.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Jobzella.com
+# privacy | Jobzella.com
 
 Date of Last Revision: Nov 4, 2013
 
