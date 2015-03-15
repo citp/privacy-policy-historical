@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungrybags.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208012042id_/http%3A//www.hungrybags.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungrybags.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315194950id_/http%3A//www.hungrybags.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - HungryBags
 
