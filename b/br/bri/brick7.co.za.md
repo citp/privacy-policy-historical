@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the brick7.co.za privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214211029id_/http%3A//www.brick7.co.za/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brick7.co.za privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315230009id_/http%3A//www.brick7.co.za/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Brick7.co.za
+
+  
+
+
+Brick7 helps you exchange information, achievements, ideas and opportunities. [Join Now](http://www.brick7.co.za/register.html "Join Now")
+
+The South Africa Jobs Search Engine 
+
+### Privacy Policy
 
 This page summarizes the key highlights from our privacy policy.
 
