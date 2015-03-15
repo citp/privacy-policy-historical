@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visiblemeasures.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016171406id_/http%3A//www.visiblemeasures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiblemeasures.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010805id_/http%3A//www.visiblemeasures.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Visible Measures
 
