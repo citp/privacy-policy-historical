@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invodo.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501083645id_/http%3A//www.invodo.com/html/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invodo.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315015331id_/http%3A//www.invodo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy - Invodo
 
 **What information do we collect?**
 
@@ -21,7 +21,6 @@ Any of the information we collect from you may be used in one of the following w
 
 
 
-  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
  **Do we use cookies?**
@@ -51,5 +50,4 @@ www.invodo.com
 211 E. 7th Street  
 Austin, TX 78701
 
-[infoinvodocom](mailto:%69%6E%66%6F%40%69%6E%76%6F%64%6F%2E%63%6F%6D "Send email")  
-
+info@invodo.com
