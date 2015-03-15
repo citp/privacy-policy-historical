@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gremln.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209063619id_/https%3A//www.gremln.com/UserPages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gremln.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315150240id_/https%3A//www.gremln.com/UserPages/Privacy.aspx) for the most accurate reproduction.*
 
-# Secure Social Media For Business-Gremln|Gremlin-Privacy Policy
+# Secure Social Media Compliance and Marketing-Gremln|Gremlin-Privacy Policy
 
 ## Privacy Policy
 
