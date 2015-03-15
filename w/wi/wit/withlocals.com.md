@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the withlocals.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015917id_/http%3A//www.withlocals.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the withlocals.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020331id_/https%3A//www.withlocals.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Withlocals
 
