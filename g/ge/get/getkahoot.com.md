@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getkahoot.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701081852id_/https%3A//getkahoot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getkahoot.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315172458id_/https%3A//www.getkahoot.com/privacypolicy) for the most accurate reproduction.*
 
 # Kahoot! Privacy Policy
 
-#### 'Mobitroll AS' Privacy Policy
+#### 'Kahoot! AS' Privacy Policy
 
-This section describes how we treat personal information when you use [getkahoot.com](https://getkahoot.com/), [create.kahoot.it](https://create.kahoot.it/), [play.kahoot.it](https://play.kahoot.it/) and [kahoot.it](https://kahoot.it/) website operated by Mobitroll AS and Mobitroll’s services, including information provided when you use the websites.
+This section describes how we treat personal information when you use [getkahoot.com](https://getkahoot.com/), [create.kahoot.it](https://create.kahoot.it/), [play.kahoot.it](https://play.kahoot.it/) and [kahoot.it](https://kahoot.it/) website operated by Kahoot! AS and Kahoot!'s services, including information provided when you use the websites.
 
 We ask for some personal information when you sign up to use Kahoot!
 
