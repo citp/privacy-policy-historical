@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228220700id_/http%3A//stansberryresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021518id_/http%3A//stansberryresearch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stansberry & Associates Investment Research
+# Privacy Policy | Stansberry Research
 
 We take your privacy very seriously. If you have any questions on our privacy policy that are not addressed below, contact customer service at 1-888-261-2693, Monday through Friday, 9 a.m.- 8 p.m. EST.
 
@@ -26,10 +26,10 @@ Cookies
 
 Cookies are small files placed on your computer by a web page when you visit it. They can be used to store all sorts of useful information to make your next visit easier and more convenient, but some people are uncomfortable not knowing what information is in a cookie.
 
-Stansberry & Associates web site only uses cookies to allow authentication for access to the Subscriber Only areas of our sites.
+Stansberry Research web site only uses cookies to allow authentication for access to the Subscriber Only areas of our sites.
 
 Copyright and Disclaimer
 
-All contents of this website are copyright 2013 by Stansberry & Associates Investment Research. All rights reserved: Reproducing any part of this document is prohibited without the express written consent of Stansberry & Associates Investment Research.
+All contents of this website are copyright 2013 by Stansberry Research. All rights reserved: Reproducing any part of this document is prohibited without the express written consent of Stansberry Research.
 
-DISCLAIMER: This work is based on SEC filings, current events, interviews, corporate press releases, and what we've learned as financial journalists. It may contain errors, and you shouldn't make any investment decision based solely on what you read here. It's your money and your responsibility. Stansberry & Associates Investment Research expressly forbids its writers from having a financial interest in any security they recommend to our subscribers. And all Stansberry & Associates Investment Research (and affiliated companies) employees and agents must wait 24 hours after an initial trade recommendation is published on the Internet, or 72 hours after a direct mail publication is sent, before acting on that recommendation.
+DISCLAIMER: This work is based on SEC filings, current events, interviews, corporate press releases, and what we've learned as financial journalists. It may contain errors, and you shouldn't make any investment decision based solely on what you read here. It's your money and your responsibility. Stansberry Research expressly forbids its writers from having a financial interest in any security they recommend to our subscribers. And all Stansberry Research (and affiliated companies) employees and agents must wait 24 hours after an initial trade recommendation is published on the Internet, or 72 hours after a direct mail publication is sent, before acting on that recommendation.
