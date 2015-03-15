@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-street.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625224646id_/http%3A//job-street.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-street.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014055id_/http%3A//job-street.com/privacy_policy) for the most accurate reproduction.*
 
 # Job-Street - Your Path to a Better Job
 
@@ -24,9 +24,9 @@ To cancel or correct your personal information: send an email with your User Nam
 To express or ask questions regarding privacy concerns: send an email to info@Job-Street.com 
 
 Address:  
-600 3rd Ave  
-2nd Floor  
-New York, NY 10016  
+40 Warren Street  
+3rd Floor  
+Charlestown, MA 02129  
 
 
 ### **Registration**
