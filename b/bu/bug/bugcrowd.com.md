@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bugcrowd.com privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919103435id_/https%3A//bugcrowd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugcrowd.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315083241id_/https%3A//bugcrowd.com/privacy) for the most accurate reproduction.*
 
-# Bugcrowd | Managed bug bounty programs, better security testing
+# Bugcrowd | Your Elastic Security Team, better security testing through bug bounties and managed security programs
 
 Our Privacy Policy governs the privacy terms of our Website, located at [https://bugcrowd.com](https://bugcrowd.com/). Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service. 
 
