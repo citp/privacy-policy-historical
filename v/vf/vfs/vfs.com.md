@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vfs.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806114246id_/http%3A//vfs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfs.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315150836id_/https%3A//vfs.edu/privacy) for the most accurate reproduction.*
 
 # Vancouver Film School: Production, Animation, Game Design, Acting and more
 
-[](https://web.archive.org/) [Home](http://vfs.com/) | Privacy
+[](https://web.archive.org/) [Home](http://vfs.edu/) | Privacy
 
 Our website has been developed so that you can visit Vancouver Film School on the web without identifying yourself or revealing any personal information. Any personal information voluntarily provided to Vancouver Film School through its websites is collected, used, and disclosed in accordance with the Freedom of Information and Protection of Privacy Act or other applicable legislation. This page summarizes the privacy policy and practices of Vancouver Film School websites.
 
