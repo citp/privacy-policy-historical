@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019135346id_/http%3A//www.cpacanada.ca/en/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315070336id_/https%3A//www.cpacanada.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+###   
+
+
 Chartered Professional Accountants of Canada
 
-The purpose of this Privacy Policy is to inform you about the types of Personal Information the Chartered Professional Accountants of Canada (as follows, "CPA Canada", "we" or "us") collects about you in the process of conducting the principal activities of CPA Canada and to provide you with general membership benefits as well as providing you with specific products and services you have contracted from us. It explains how we use and disclose that information, the choices you have regarding such use and disclosure, and how you may correct that information. This Privacy Policy sets out a summary of the principles and procedures that CPA Canada follows in meeting its privacy commitments and complying with the requirements of the laws and regulations under applicable privacy laws in Canada, including the Personal Information Protection and Electronic Documents Act.
+The purpose of this Privacy Policy is to inform you about the types of Personal Information the Chartered Professional Accountants of Canada (as follows, "CPA Canada", "we" or "us") collects about you in the process of conducting the principal activities of CPA Canada and to provide you with general membership benefits as well as providing you with specific products and services you have contracted from us. It explains how we use and disclose that information, the choices you have regarding such use and disclosure, and how you may correct that information. This Privacy Policy sets out a summary of the principles and procedures that CPA Canada follows in meeting its privacy commitments and complying with the requirements of the laws and regulations under applicable privacy laws in Canada, including the _Personal Information Protection and Electronic Documents Act_.
 
 From time to time, we may make changes to this Privacy Policy. The Privacy Policy is current as of the "last revised" date which appears at the bottom of this page. We will treat Personal Information in a manner consistent with the Privacy Policy under which it was collected unless we have your consent to treat it differently. This Privacy Policy applies to any information we collect or receive about you, from any source.
 
-**Principle #1- CPA Canada is accountable for your personal information in its possession or control.**
+**Principle #1  — CPA Canada is accountable for your personal information in its possession or control.**
 
 CPA Canada is accountable for all personal information in its possession or control. This includes any personal information that CPA Canada has received directly from members, students, candidates, customers, provincial CPA bodies, federal and provincial CA, CMA, and CGA bodies participating in unification, or other organizations (e.g., corporations, government entities, not-for-profit organizations).
 
@@ -20,11 +23,11 @@ CPA Canada has:
 
 
 
-**Principle #2 - CPA Canada identifies the purposes for which it collects personal information from you before it is collected.**
+**Principle #2  — CPA Canada identifies the purposes for which it collects personal information from you before it is collected.**
 
 We identify the purposes for which we use your Personal Information at the time we collect such information from you and obtain your consent, in any case, prior to such use.
 
-Some of the primary purposes for which we collect and use your Personal Information include
+Some of the primary purposes for which we collect and use your Personal Information include:
 
   * to provide services to you in your capacity as a member, student or candidate of our organization
   * to complete a transaction with you when you purchase a product or service from us
@@ -36,17 +39,17 @@ Some of the primary purposes for which we collect and use your Personal Informat
 
 We may also use your Personal Information as otherwise permitted or required by law.
 
-**Principle #3 - CPA Canada obtains your consent before collecting personal information from you.**
+**Principle #3  — CPA Canada obtains your consent before collecting personal information from you.**
 
 We explain your options and obtain your implicit or explicit consent at the time of or prior to collecting, using or disclosing your Personal Information. We will always collect your Personal Information by fair and lawful means (for example, when you complete an application form or purchase a product or service from us). We may collect Personal Information about you from third parties, such as federal or provincial CPA, CA, CMA or CGA bodies participating in unification and other institutions and organizations. We also collect your Personal Information where we have obtained your consent to do so or as otherwise permitted or required by law.
 
-Where is it reasonable to do so or permitted by law, we may rely on implied consent.  For example, when sending e-mail messages of a commercial nature, reliance on implied consent is permitted to our members or those who have recently purchased a product or services from us.
+Where is it reasonable to do so or permitted by law, we may rely on implied consent. For example, when sending e-mail messages of a commercial nature, reliance on implied consent is permitted to our members or those who have recently purchased a product or services from us.
 
-Except as required to process a transaction or to maintain member records, providing us with your personal information is voluntary.  You may withdraw or modify your consent at any time, subject to legal and contractual restrictions, provided that reasonable notice is given to us.  If you withdraw your consent, you may not be made aware of certain products, publications, services or events being offered by us.
+Except as required to process a transaction or to maintain member records, providing us with your personal information is voluntary. You may withdraw or modify your consent at any time, subject to legal and contractual restrictions, provided that reasonable notice is given to us. If you withdraw your consent, you may not be made aware of certain products, publications, services or events being offered by us.
 
 Personal Information is any information that is identifiable to you. This information may include, but is not limited to, your name, mailing address, phone numbers, email address, identification numbers, credit card numbers, banking information, and creditor information. Personal Information, however, generally does not include your name, business title, business address or business telephone number in your capacity as an employee of an organization.
 
-**Principle #4 - CPA Canada discloses your personal information only for purposes for which it has consent, or as permitted or required by law.** **CPA Canada retains personal information only as long as necessary to fulfill those purposes.**
+**Principle #4 — CPA Canada discloses your personal information only for purposes for which it has consent, or as permitted or required by law.** **CPA Canada retains personal information only as long as necessary to fulfill those purposes.**
 
 We identify to whom, and for what purposes, we disclose your Personal Information, at the time of or prior to collecting such information from you and obtain your consent to such disclosure. For example, we may disclose your Personal Information:
 
@@ -60,11 +63,11 @@ We identify to whom, and for what purposes, we disclose your Personal Informatio
 
 We may keep a record of your Personal Information, correspondence or comments in a file specific to you. We will utilize, disclose or retain your Personal Information for as long as necessary to fulfill the purposes for which it was collected and as permitted or required by law.
 
-**Principle #5 - CPA Canada endeavors to keep accurate, complete, and up-to-date, personal information in its possession or control, to the extent required to meet the purposes for which it was collected.**
+**Principle #5 — CPA Canada endeavors to keep accurate, complete, and up-to-date, personal information in its possession or control, to the extent required to meet the purposes for which it was collected.**
 
 We will ensure that your Personal Information is kept as accurate, complete and up-to-date as possible based on information provided to us by you or any federal or provincial CPA, CA, CMA or CGA bodies participating in unification to which you may belong. We expect you, from time to time, to supply us with written updates to your Personal Information, if applicable. In the case of members and students, Personal Information may be updated by accessing the online change form at <https://secure.cica.ca/>.
 
-**Principle #6 - CPA Canada protects the privacy of personal information in its possession or control by using security safeguards appropriate to the sensitivity of the information.**
+**Principle #6 — CPA Canada protects the privacy of personal information in its possession or control by using security safeguards appropriate to the sensitivity of the information.**
 
 We have implemented physical, organizational, contractual and technological security measures to protect your Personal Information from loss or theft, unauthorized access, disclosure, copying, use or modification. The only employees who are granted access to your Personal Information are those with a business 'need-to-know' or whose duties reasonably require such information.
 
@@ -78,11 +81,11 @@ Our web site provides links to third party web sites. Our Privacy Policy does no
 
 We ensure that the federal or provincial CPA, CA, CMA and CGA bodies participating in unification and third parties who are engaged to perform services on our behalf and are provided with Personal Information are required by contract to observe the intent of this Privacy Policy.
 
-**Principle #7 -CPA Canada is open about the procedures it uses to manage personal information.**
+**Principle #7 — CPA Canada is open about the procedures it uses to manage personal information.**
 
 Up-to-date information on CPA Canada’s privacy policies can be obtained from CPA Canada’s Chief Privacy Officer (see contact information under Principle 8).
 
-**Principle #8 - CPA Canada responds on a timely basis to requests from members or customers about their personal information which the CPA Canada possesses or controls.**
+**Principle #8 — CPA Canada responds on a timely basis to requests from members or customers about their personal information which the CPA Canada possesses or controls.**
 
 We will generally make available to you any Personal Information that we have collected about you, utilized or disclosed, upon your written request, to the extent permitted or required by law. We will make such information available to you in a form that is generally understandable, including explaining any abbreviations or codes. Personal Information may be reviewed and updated by accessing the online change form at <https://secure.cica.ca/>.
 
@@ -106,18 +109,6 @@ e-mail: [privacy.officer@cpacanada.ca](mailto:privacy.officer@cpacanada.ca)
 
 We will inform you of the relevant procedures when you make an inquiry or lodge a challenge or complaint.
 
-Last revised: October 9, 2013
+Last revised: October 9, 2013
 
 ## Highlights
-
-### [Punching above our weight](https://web.archive.org/en/cpa-magazine/Articles/punching-above-our-weight)
-
-Canada has a reputation for playing a big part in the global standard-setting arena.
-
-### [Behind the index numbers](https://web.archive.org/en/cpa-magazine/Articles/behind-the-index-numbers)
-
-WEB The S&P/TSX composite index may be the main measure of the stock market in Canada, but it ignores dividends, says columnist David Trahair.
-
-### [Unification complete at CPA Canada](https://web.archive.org/en/cpa-magazine/Articles/unification-complete-at-cpa-canada)
-
-With Canada’s three national accounting bodies fully united, the accounting profession can look forward to having a stronger voice both at home and on the world stage.
