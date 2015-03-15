@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ball2win.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227050403id_/http%3A//www.ball2win.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ball2win.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315070401id_/https%3A//ball2win.com/Home/Privacy) for the most accurate reproduction.*
 
 # Ball2Win
 
