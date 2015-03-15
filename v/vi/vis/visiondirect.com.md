@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the visiondirect.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806021535id_/http%3A//www.visiondirect.com/la/help/default.asp%3Fcatid%3D148605%26atrx%3Ddps-16%26atrxp1%3D282487%26atrxp2%3D4%26atrxp3%3Dhttp%253A%252F%252Fwww%252Evisiondirect%252Ecom%252Fla%252Fhelp%252Fdefault%252Easp%253Fcatid%253D148605%26atrxp4%3D27087) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiondirect.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012154id_/http%3A//www.visiondirect.com/la/help/default.asp%3Fcatid%3D148605%26atrx%3Ddps-16%26atrxp1%3D282487%26atrxp2%3D4%26atrxp3%3Dhttp%253A%252F%252Fwww%252Evisiondirect%252Ecom%252Fla%252Fhelp%252Fdefault%252Easp%253Fcatid%253D148605%26atrxp4%3D27087) for the most accurate reproduction.*
 
 # Vision Direct - Contact Lenses: Order Discount Contact Lenses Acuvue, Acuvue 2, Focus, Freshlook Online
 
-|   
-|  | 
+|  |  | 
 
 **TRUSTe Licensee**
 
@@ -32,7 +31,7 @@ We are pleased to hear from our customers and welcome your comments regarding ou
 To fill your prescription contact lens order, we collect the following additional information: your date of birth, prescription information, and doctor or clinic information (including name, address, and phone number of your prescriber). 
 
 **Information Automatically Collected**  
-We automatically receive and collect certain types of information whenever you visit our websites. For example, like many other websites, we use "cookies" and web beacons (described below) and obtain certain types of information when your browser accesses our websites. This information includes the Internet protocol (IP) address of your computer, your geographic location as determined by your IP address, your browser software and operating system, your web server, the date and time you access our site, session information (such as download errors and page response times), information about your viewing, search and purchase history, and information about the referring URL and the URL clickstream to, through, and from our websites. We use this information to monitor the usage and performance of our site, to enhance our customers' search and shopping experiences and to determine aggregate information about our user base and usage patterns. 
+We automatically receive and collect certain types of information whenever you visit our websites. For example, like many other websites, we use "cookies" and web beacons (described below) and obtain certain types of information when your browser accesses our websites. This information includes the Internet protocol (IP) address of your computer, your geographic location as determined by your IP address, your browser software and operating system, your web server, the date and time you access our site, session information (such as download errors and page response times), information about your viewing, search and purchase history, and information about the referring URL and the URL clickstream to, through, and from our websites. We use this information to monitor the usage and performance of our site, to enhance our customers' search and shopping experiences and to determine aggregate information about our user base and usage patterns. Some web browsers incorporate a “Do Not Track” feature that signals to websites that you visit that you do not want to have your online activity tracked. Please note that visiondirect.com does not interpret or respond to “Do Not Track” signals. 
 
 If you would like more information about these practices or to learn about your options for not having this information used, please visit [http://www.aboutads.info](http://www.aboutads.info/).
 
@@ -112,9 +111,9 @@ Bellevue, WA 98004
 
 1-800-847-4663
 
-Last updated: April 11, 2013
+Last updated: February 07, 2014
 
-Copyright © 2013 Vision Direct Inc. All rights reserved. 
+Copyright © 2020Vision Direct Inc. All rights reserved. 
 
   
 
