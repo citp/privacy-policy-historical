@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asicsamerica.com privacy policy that was archived on 2014-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141009034949id_/http%3A//www.asicsamerica.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asicsamerica.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315021224id_/http%3A//www.asicsamerica.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js touch  csstransforms csstransforms3d csstransitions" lang="en"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}</style>
 
@@ -11,7 +11,7 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="title" content="">
-    <meta name="keywords" content="">
+	<meta name="keywords" content="">
 	<meta name="robots" content="index,follow">
 
     <meta property="og:title" content="">
@@ -24,11 +24,11 @@
 	<meta property="og:image" content="http://www.asicsamerica.com/medias/sys_master/images/8796166062110/logo-hybris.png">
 		<meta property="og:site_name" content="">
 	
-	<link rel="stylesheet" href="/_ui/desktop/theme-asics-aac/css/asics.less?v=58c828750b17f3c2457e0fb5d6f7f764"><link rel="stylesheet" media="print" href="/_ui/desktop/theme-asics-aac/css/asics-print.less?v=58c828750b17f3c2457e0fb5d6f7f764"><!--[if lt IE 9]>
-<link rel="stylesheet" href="/_ui/desktop/theme-asics-aac/css/asics-ie8.css?v=58c828750b17f3c2457e0fb5d6f7f764" />
+	<link rel="stylesheet" href="/_ui/desktop/theme-asics-aac/css/asics.less?v=0862861181db07260918c5e14a50227c"><link rel="stylesheet" media="print" href="/_ui/desktop/theme-asics-aac/css/asics-print.less?v=0862861181db07260918c5e14a50227c"><!--[if lt IE 9]>
+<link rel="stylesheet" href="/_ui/desktop/theme-asics-aac/css/asics-ie8.css?v=0862861181db07260918c5e14a50227c" />
 <![endif]-->
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-J6MS"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script src="//cdn.optimizely.com/js/255859442.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-J6MS"></script><script src="//cdn.optimizely.com/js/255859442.js"></script>
 	<script>
 		var htmlClass = 'js';
 		if (window.Touch !== undefined) htmlClass += ' touch';
@@ -75,157 +75,83 @@
 			
 			// Proxy for calls to Google Analytics
 			googleAnalytics: (function() {
-
+				window.dataLayer = window.dataLayer || [];
 				// All calls are routed through queue
-				var queue = function(arr) {
-		        	// Only push if _gaq is defined and cookies are allowed
-		        	if (window._gaq && globals.cookiesAllowed()) {
-		        		window._gaq.push(arr);
-		        	}
+				var queue = function(obj) {
+					// Only push if cookies are allowed
+					if (globals.cookiesAllowed()) {
+						window.dataLayer.push(obj)
+					}
 				};
 
 				return {
 					
-			        trackEvent: function(category, action, label, value, noninteraction, href) {
-			        	// console.log(category, action, label, value, noninteraction, href);
-			            queue(['_trackEvent', category, action, label, value, noninteraction]);
-			            // Delay optional redirect to ensure event is tracked before page updates
-			            if (href) { setTimeout(function() { document.location.href = href; }, 100); }
-			        },
+				    trackEvent: function(category, action, label, value, noninteraction, href) {
+				    	var obj = {
+					          'event': 'ga-classic-event',
+					          'gaEventCategory': category,
+					          'gaEventAction': action,
+					          'gaEventLabel': label,
+					          'gaEventValue': value,
+					          'gaEventNonInteractive': noninteraction
+					        };
+				        queue(obj);
+				        // Delay optional redirect to ensure event is tracked before page updates
+				        if (href) { setTimeout(function() { document.location.href = href; }, 120); }
+				    },
 
-			        trackPageview: function(pageURL) {
-			            queue(['_trackPageview', pageURL]);
-			        },
+				    trackPageview: function(pageURL) {
+				    	var obj = {
+					          'event': 'ga-pageview',
+					          'gaPageViewUrl': pageURL
+					        };
+				        queue(obj);
+				    },
 
-			        setCustomVar: function(slot, name, value, scope) {
-			            queue(['_setCustomVar', slot, name, value, scope]);
-			        }			
+				    setCustomVar: function(slot, name, value, scope) {
+				    	var obj = {'event': 'ga-set-custom-var'};
+					        obj['gaCustomVar' + slot] = {
+					          'gaCustomVarName': name,
+					          'gaCustomVarValue': value,
+					          'gaCustomVarScope': scope
+					        };
+				        queue(obj);
+				    }			
 				};
 
-			})(),
+			})()
 
-			// Proxy for calls to mixpanel
-			mixpanel: (function() {
-
-			    // All calls are routed through invoke
-			    var invoke = function(method, args, people) {
-			        // Only invoke if mixpanel is defined and cookies are allowed
-			        if (window.mixpanel && globals.cookiesAllowed()) {
-			            // Mixpanel, strangely, has a separate API for people.
-			            // Need to target mixpanel.people if people specified in params.
-			            var target = people ? window.mixpanel.people : window.mixpanel;
-			            // console.log('%cmixpanel: ', 'background: red; color: #fff;', target, args);
-			            return target[method].apply(target, args);
-			        } 
-			    };
-
-			    return {
-
-			    	init: function(token, config, name) {
-			    		return invoke('init', [token, config, name]);
-			    	},
-
-			        identify: function(unique_id) {
-			            return invoke('identify', [unique_id]);
-			        },
-
-			        alias: function(alias) {
-			            return invoke('alias', [alias]);
-			        },
-
-			        register: function(properties) {
-			            return invoke('register', [properties]);
-			        },
-
-			        unregister: function(property_name) {
-			        	return invoke('unregister', [property_name])
-			        },
-
-			        track: function(event_name, properties, callback) {
-			            return invoke('track', [event_name, properties, callback]);
-			        },
-
-			        track_links: function(css_selector, event_name, properties) {
-			            return invoke('track_links', [css_selector, event_name, properties]);
-			        },
-
-			        track_forms: function(css_selector, event_name, properties) {
-			            return invoke('track_forms', [css_selector, event_name, properties]);
-			        },
-
-			        getCartData: function() {
-			            return { promoCode: _promoCode };
-			        },
-
-			        people: {
-			            set: function(prop, to, callback) {
-			                return invoke('set', [prop, to, callback], true);
-			            },
-
-			            track_charge: function(amount) {
-			                return invoke('track_charge', [amount], true);
-			            }
-			        }
-			    };
-
-			})() 
 		};
 
 	</script>
 
-	<!-- start Mixpanel -->
-<script type="text/javascript">
-(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
-typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
-b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+	</head><body class="information"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><feature:on feature="storefront.enable.script.googleTagManager">
+<!-- Google Tag Manager -->
+	<noscript>
+		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-J6MS"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	</noscript>
+	<script>
+		dataLayer = dataLayer || [];
+	</script>
+	<script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-J6MS');
+	</script>
+<!-- End Google Tag Manager -->
+</feature:on>
 
-(function() {
-
-    // Initialise mixpanel with the appropriate id for this instance
-    // We send all the calls through a proxy object to make debugging easier
-    globals.mixpanel.init('047678cda9e238bf2a4d9466f9a06086');
-    globals.mixpanel.register({ 'hostname': window.location.hostname });
-
-    // Report current user type, Returning (logged in) or Visitor (not logged in)
-    
-        var captureGuestUserDetails = '', // true if guest user has entered email
-            email = '',
-            firstName = '',
-            lastName = '';
-        //console.log("captureGuestUserDetails = " + captureGuestUserDetails + ", email=" + email + ", firstName = " + firstName, ",lastName = " + lastName);
-
-        if(null != email && '' != email ){
-            globals.mixpanel.register({ '$email': email });
-            globals.mixpanel.people.set({
-                '$email': email,
-                'First Name': firstName,
-                'Last Name': lastName
-            });
-            if(captureGuestUserDetails){ // user given email first time, create alias
-                globals.mixpanel.alias(email);
-            }else{ // user details available via session, find the user
-                globals.mixpanel.identify(email);
-            }
-        }
-        globals.mixpanel.register({ 'User Type': 'Guest' });
-
-    
-
-})();
-</script>
-<!-- end Mixpanel -->
-<!-- ga is conditionally written to page if tracking id is found. All tracking handled directly in page
+<feature:off feature="storefront.enable.script.googleTagManager">
+	<asics:ajp> 
+		<script>
+			dataLayer = dataLayer || [];//to prevent error on checkout on jp site
+		</script>
+	</asics:ajp> 
+</feature:off><!-- ga is conditionally written to page if tracking id is found. All tracking handled directly in page
     is also included within the conditional. Analytics not fired directly from this block should be routed through Asics.GoogleAnalytics object to facilitate debugging and error handling --> 
 <script type="text/javascript">
-    /* Google Analytics */
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA\x2D39393201\x2D1']);
-    _gaq.push(['_setDomainName', 'asicsamerica.com']);
-    _gaq.push(['_setAllowLinker', true]);
-
 
 // 1EJS AGRA-488 track keyword ranking
-if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
+if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi) ) {
   var myString = document.referrer;
   var r        = myString.match(/cd=(.*?)&/);
   var rank     = parseInt(r[1]);
@@ -237,51 +163,60 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
     keyWord = "(not provided)";
   }
 
-  var p        = document.location.pathname;
-  _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+  var p = document.location.pathname;
+  globals.googleAnalytics.trackEvent('RankTracker', keyWord, p, rank, true);
 }
 
-// Report current user type, Member or Visitor
+window.dataLayer = window.dataLayer || [];
 
-    _gaq.push(['_setCustomVar', 1, 'CurrentUserType', 'Visitor', 2]);
+var analyticsCoreData = {
+    'event': 'dataLayer-initialized',
+    'page': {
+        'category': ''//e.g. shop, sports, shoe finder, etc.
+    },
+    'region': 'AAC', //Americas, Asia and Oceania, Europe
+    'country': 'America', //Canada, India, Sweden, etc.
+    'language': 'en', //en, es, de, etc.
+    'ecommerce': {//default eccommerce for checkout. Ecommerce details get overwritten when product impression service runs
+        'currencyCode': 'USD'
+    }, 
+    'user': {
+        'id': '', //unique non-personally identifiable id
+        'loggedIn': 'false', //boolean true or false
+        'type': 'Visitor'
+    }
+};
 
-    _gaq.push(['_trackPageview']);
-	
+var cartDataObj = {
+  'cartProducts':''
+};
 
-	(function() {
-	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	  ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	 })();
+//handles running multiple funcitons on page load
+function addLoadEvent(func) {
+  if (window.addEventListener)
+    window.addEventListener("load", func, false);
+  else if (window.attachEvent)
+    window.attachEvent("onload", func);
+  else { // fallback
+    var old = window.onload;
+    window.onload = function() {
+      if (old) old();
+      func();
+    };
+  }
+}
 
-	 window.onload = function() {
-	  if(_gaq.I==undefined){
-	   _gaq.push(['_trackEvent', 'tracking_script', 'loaded', 'ga.js', ,true]);
-	   ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	   s = document.getElementsByTagName('script')[0];
-	   gaScript = s.parentNode.insertBefore(ga, s);
-	  } else {
-	   _gaq.push(['_trackEvent', 'tracking_script', 'loaded', 'dc.js', ,true]);
-	  }
-	 };
+addLoadEvent(function() {
+    window.dataLayer.push(analyticsCoreData); 
+});
+
 
 </script>
-</head>
 
-<body class="information">
-<!-- Google Tag Manager -->
-	<noscript>
-		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-J6MS"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe>
-	</noscript>
-	<script>
-		dataLayer = [];
-	</script>
-	<script>
-		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-J6MS');
-	</script>
-	<!-- End Google Tag Manager -->
+
+
+<!--Google Tag Manager moved to GoogleTagManager.tag in order to facilitate new Google Analytics approach -->
+
 <script src="/_ui/desktop/common/js/jquery-1.8.3.min.js"></script>
 
 <script src="/_ui/desktop/common/js/underscore.min.js"></script>
@@ -299,6 +234,8 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 <script src="/_ui/desktop/common/js/plugins/jquery.isotope.min.js"></script>
 <script src="/_ui/desktop/common/js/plugins/jquery.cookie.js"></script>
 <script src="/_ui/desktop/common/js/plugins/jquery.colorbox-1.3.16.js"></script>
+<script src="/_ui/desktop/common/js/plugins/jquery.easing.1.3.js"></script>
+<script src="/_ui/desktop/common/js/local-cache.js"></script>
 
 <script src="/_ui/desktop/common/js/asics.js"></script>
 
@@ -317,7 +254,7 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 
 <script src="/_ui/desktop/common/js/app/returns/controllers.js"></script>
 
-<div id="page" ng-app="AsicsStore" ng-controller="App" ng-init="sites({isAac: 'true', isAeb: '', isAebGb: '', isAop: '', isAjp: ''});">
+<div id="page" ng-app="AsicsStore" ng-controller="App" ng-init="sites({isAac: 'true', isAeb: '', isAebGb: '', isAop: '', isAjp: '', isEur: 'false'});" class="ng-scope">
 
 			<header role="banner">
 
@@ -328,15 +265,16 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 
 				<div id="search" class="ui-widget">
 
-					<form name="search_form" method="get" action="/search" role="search">
+					<form name="search_form" method="get" action="/search" role="search" class="ng-pristine ng-valid">
 						<label class="skip" for="search">Search</label>
-						<input id="search_query" class="text" type="text" name="text" value="" maxlength="100" placeholder="Search...">
+						<input id="search_query" class="text ui-autocomplete-input" type="text" name="text" value="" maxlength="100" placeholder="Search..." autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
 						<input class="button" type="submit" value="Search" src="/" alt="Search">
 						</form>
 					<li id="autocomplete_more_button" class="close" style="display: none;"><a id="more_button" class="button alternate" href="#">More</a></li>
 				</div>
 
-                <ul id="account_store" data-gtm="[{'event': 'loginFinished', 'existingCustomer': false}, {'event': 'notifyCriteo', 'customerid':'' }]">
+                <ul id="account_store" data-gtm="[{'event': 'loginFinished', 'existingCustomer': false}, 
+							   {'event': 'notifyCriteo','customerid': ''}]">
 					<li>
 						<a href="/store-finder">Store Locator</a>
 					</li>
@@ -345,8 +283,10 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 							My Account</a>
 					</li>
 					<li><a href="http://myasics.us/" title="My ASICS" target="_new">My ASICS</a></li>
-					<li><a href="http://www.onitsukatiger.com/en-us" title="Onitsuka Tiger" target="_new">Onitsuka Tiger</a></li>
 					</ul>
+                <ul id="tiger_link">
+                        <a href="http://www.onitsukatiger.com/" class="icon" title="" target="_new"></a>
+                    </ul>
                 <!-- OLD WAY OF DEALING WITH CENTER HEADER LINKS
                 <ul>
                     </ul>
@@ -354,7 +294,7 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 				<ul id="social_links">
 					<li><a href="https://twitter.com/ASICSamerica" class="icon icon_twitter" title="Twitter" target="_new">Twitter</a></li>
 					<li><a href="https://www.facebook.com/ASICSamerica" class="icon icon_facebook" title="Facebook" target="_new">Facebook</a></li>
-					<li><a href="http://www.youtube.com/user/ASICSAmerica" class="icon icon_youtube" title="YouTube" target="_new">YouTube</a></li>
+					<li><a href="http://www.instagram.com/ASICS" class="icon icon_instagram" title="Instagram" target="_new">Instagram</a></li>
 					<li><a href="/contact-asics" class="icon icon_email" title="Contact ASICS">Contact ASICS</a></li>
 					</ul>
 				</nav>
@@ -401,21 +341,20 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 			Shoe Finder</a>
 	</li>
 			</ul>
-<div id="minicart_popup_version" ng-controller="MiniCart">
+<div id="minicart_popup_version" ng-controller="MiniCart" class="ng-scope">
 				<dl id="minicart_data">
 					<a href="/cart/">
 						<dt>Cart items</dt>
-						<dd><span ng-bind="cart.contents.data.totalUnitCount">0</span></dd>
+						<dd><span ng-bind="cart.contents.data.totalUnitCount" class="ng-binding"></span></dd>
 					</a>
 				</dl>
 				<a class="description optimizely_cart_variation_1" href="/cart/">
-					Shopping Cart<div class="total_items" ng-cloak="">
-						{{cart.contents.data.totalUnitCount}} 
+					Shopping Cart<div class="total_items ng-binding">
+						 
 						<ng-pluralize count="cart.contents.data.totalUnitCount" when="{'0': 'Items',
 					                       'one': 'Item',
-					                       'other': 'Items'}">
-						</ng-pluralize> 
-						{{cart.contents.data.subTotal.formattedValue}}
+					                       'other': 'Items'}"></ng-pluralize> 
+						
 					</div>
 				</a>
 				<div id="minicart_actions" class="optimizely_cart_original">
@@ -428,8 +367,8 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 		</div>
 		</div>
 
-		<div id="panels">
-			
+    <div id="panels">
+      
 
 
 
@@ -458,9 +397,17 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 													<a href="/Shop/Accessories/cat/Accessories" class="" title="Accessories">
 			Accessories</a>
 	</li>
+											<li class="level_3" id="internal-product-grid-team-gear">
+													<a href="/Team-Gear/cat/team-gear" class="" title="Team Gear">
+			Team Gear</a>
+	</li>
 											<li class="level_3" id="internal-category-grid-new-arrivals">
 													<a href="/New-Arrivals/cat/new-arrivals" class="" title="New Arrivals">
 			New Arrivals</a>
+	</li>
+											<li class="level_3" id="internal-category-sale">
+													<a href="/Sale/cat/sale" class="" title="Sale">
+			Sale</a>
 	</li>
 											</ul>
 								</div>
@@ -509,7 +456,7 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 			VOLLEYBALL</a>
 	</li>
 											<li class="level_3" id="internal-product-grid-tennis">
-													<a href="/Sports/Tennis/cat/sports-tennis" class="" title="TENNIS">
+													<a href="/Sports/Tennis/cat/sport-tennis" class="" title="TENNIS">
 			TENNIS</a>
 	</li>
 											<li class="level_3" id="internal-product-grid-wrestling">
@@ -532,57 +479,57 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 													<a href="/Sports/Golf/cat/sports-golf" class="" title="GOLF">
 			GOLF</a>
 	</li>
+											<li class="level_3" id="internal-category-grid-sport-rugby">
+													<a href="/Sports/Rugby/cat/sport-rugby" class="" title="Rugby">
+			Rugby</a>
+	</li>
 											</ul>
 								</div>
 					<div class="listing ">
 							<h3>Featured</h3>
 							<ul class="level_3">
-										<li class="level_3" id="internal-content-kayano21-main-navigation">
+										<li class="level_3" id="internal-category-grid-nimbus17">
+													<a href="/Footwear/Gel-Nimbus-17/cat/footwear-gel-nimbus-17" class="" title="GEL-Nimbus 17">
+			GEL-Nimbus 17</a>
+	</li>
+											<li class="level_3" id="internal-product-grid-la-marathon">
+													<a href="/LA-Marathon/cat/la-marathon" class="" title="ASICS LA Marathon">
+			ASICS LA Marathon</a>
+	</li>
+											<li class="level_3" id="internal-product-grid-tcs-nyc-marathon">
+													<a href="/2014-TCS-New-York-City-Marathon-Collection/cat/nyc-marathon" class="" title="TCS New York City Marathon">
+			TCS New York City Marathon</a>
+	</li>
+											<li class="level_3" id="internal-content-kayano21-main-navigation">
 													<a href="/gel-kayano" class="" title="GEL-Kayano 21">
 			GEL-Kayano 21</a>
 	</li>
-											<li class="level_3" id="internal-breast-cancer-awareness">
-													<a href="/breast-cancer-awareness" class="" title="Breast Cancer Awareness">
-			Breast Cancer Awareness</a>
+											<li class="level_3" id="internal-category-grid-gt2000-3">
+													<a href="/Footwear/GT-2000-3/cat/footwear-gt-2000-3" class="" title="GT-2000 3">
+			GT-2000 3</a>
 	</li>
-											<li class="level_3" id="internal-product-grid-tcs-nyc-marathon">
-													<a href="/2014-TCS-New-York-City-Marathon-Collection/cat/nyc-marathon" class="" title="TCS NYC Marathon">
-			TCS NYC Marathon</a>
+											<li class="level_3" id="internal-product-grid-natural33">
+													<a href="/Footwear/Natural33/cat/footwear-natural33" class="" title="Natural33">
+			Natural33</a>
 	</li>
-											<li class="level_3" id="internal-content-page-gel-equipped">
-													<a href="/gel" class="" title="GEL-Equipped">
-			GEL-Equipped</a>
+											<li class="level_3" id="internal-product-grid-cancer-awareness">
+													<a href="/cat/cancer-awareness" class="" title="Cancer Awareness">
+			Cancer Awareness</a>
 	</li>
-											<li class="level_3" id="internal-content-page-excel33">
-													<a href="/gel-excel33" class="" title="GEL-Excel33 3">
-			GEL-Excel33 3</a>
-	</li>
-											<li class="level_3" id="internal-content-page-electro33">
-													<a href="/gel-electro33" class="" title="GEL-Electro33">
-			GEL-Electro33</a>
-	</li>
-											<li class="level_3" id="internal-content-page-gel-lyte33">
-													<a href="/gel-lyte33" class="" title="GEL-Lyte33 3">
-			GEL-Lyte33 3</a>
+											<li class="level_3" id="internal-content-gel-fit-sana">
+													<a href="/gel-fit-sana" class="" title="GEL-Fit Sana">
+			GEL-Fit Sana</a>
 	</li>
 											<li class="level_3" id="internal-widths-product-grid">
 													<a href="/Collections/Widths/cat/collection-widths-all" class="" title="WIDTHS">
 			WIDTHS</a>
-	</li>
-											<li class="level_3" id="internal-content-gt-series-page">
-													<a href="/gt-series" class="" title="GT Series">
-			GT Series</a>
-	</li>
-											<li class="level_3" id="internal-content-page-nimbus16">
-													<a href="/gel-nimbus" class="" title="GEL-Nimbus 16">
-			GEL-Nimbus 16</a>
 	</li>
 											<li class="level_3" id="internal-content-page-cumulus16">
 													<a href="/gel-cumulus" class="" title="GEL-Cumulus 16">
 			GEL-Cumulus 16</a>
 	</li>
 											<li class="level_3" id="internal-lite-show-product-grid">
-													<a href="/Lite-Show-Reflective-Technology/cat/lite-show" class="" title="Lite-Show">
+													<a href="/Lite-Show-Reflective-Technology/cat/lite-show-reflective" class="" title="Lite-Show">
 			Lite-Show</a>
 	</li>
 											</ul>
@@ -593,26 +540,47 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 			<div class="featured">
 							<h3>Featured sports</h3>
 							<ul class="level_3">
-								<li class="level_3" id="featured-link-training">
+								<li class="level_3" id="featured-link-running">
+											<a href="/sports/running">
+            <img src="/medias/sys_master/images/9529425494046/featured_link_hero_running.png" alt="Running">
+        </a>
+		<a href="/sports/running" class="" title="Running">
+			Running</a>
+	</li>
+									<li class="level_3" id="featured-link-training">
 											<a href="/sports/training">
-	<img src="/medias/sys_master/h72/h17/8927286198302/featured_link_hero_training.png" alt="Training">
-</a>
-<a href="/sports/training" class="" title="Training">
+            <img src="/medias/sys_master/h72/h17/8927286198302/featured_link_hero_training.png" alt="Training">
+        </a>
+		<a href="/sports/training" class="" title="Training">
 			Training</a>
 	</li>
 									<li class="level_3" id="featured-link-tennis">
 											<a href="/sports/tennis">
-	<img src="/medias/sys_master/images/8927286788126/featured_link_hero_tennis.png" alt="Tennis">
-</a>
-<a href="/sports/tennis" class="" title="Tennis">
+            <img src="/medias/sys_master/images/8927286788126/featured_link_hero_tennis.png" alt="Tennis">
+        </a>
+		<a href="/sports/tennis" class="" title="Tennis">
 			Tennis</a>
 	</li>
 									<li class="level_3" id="featured-link-wrestling">
 											<a href="/sports/wrestling">
-	<img src="/medias/sys_master/images/8927286591518/featured_link_hero_wrestling.png" alt="Wrestling">
-</a>
-<a href="/sports/wrestling" class="" title="Wrestling">
+            <img src="/medias/sys_master/images/8927286591518/featured_link_hero_wrestling.png" alt="Wrestling">
+        </a>
+		<a href="/sports/wrestling" class="" title="Wrestling">
 			Wrestling</a>
+	</li>
+									<li class="level_3" id="featured-link-trail">
+											<a href="/sports/trail">
+            <img src="/medias/sys_master/h11/h7c/9529425690654/featured_link_hero_trail.png" alt="Trail">
+        </a>
+		<a href="/sports/trail" class="" title="Trail">
+			Trail</a>
+	</li>
+									<li class="level_3" id="featured-link-triathlon">
+											<a href="/sports/triathlon/">
+            <img src="/medias/sys_master/h17/h7c/9529425887262/featured_link_hero_triathlon.png" alt="Triathlon">
+        </a>
+		<a href="/sports/triathlon/" class="" title="Triathlon">
+			Triathlon</a>
 	</li>
 									</ul>
 						</div>
@@ -639,19 +607,35 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 													<a href="/sports/tennis" class="" title="Tennis">
 			Tennis</a>
 	</li>
-											<li class="level_3" id="internal-sports-detail-running">
-													<a href="/sports/running" class="" title="Running">
-			Running</a>
-	</li>
 											<li class="level_3" id="internal-sport-detail-training">
 													<a href="/sports/training" class="" title="Training">
 			Training</a>
 	</li>
-											</ul>
-													<ul class="level_3 sports">
-												<li class="level_3" id="internal-sports-detail-trail">
+											<li class="level_3" id="internal-sports-detail-trail">
 													<a href="/sports/trail" class="" title="Trail">
 			Trail</a>
+	</li>
+											</ul>
+													<ul class="level_3 sports">
+												<li class="level_3" id="internal-sports-detail-running">
+													<a href="/sports/running" class="" title="Running">
+			Running</a>
+	</li>
+											<li class="level_3" id="internal-content-run-long-page">
+													<a href="/run-long" class="" title="Running: Road">
+			Running: Road</a>
+	</li>
+											<li class="level_3" id="internal-content-run-natural-page">
+													<a href="/run-natural" class="" title="Running: Natural">
+			Running: Natural</a>
+	</li>
+											<li class="level_3" id="internal-content-run-speed-page">
+													<a href="/run-fast" class="" title="Running: Speed">
+			Running: Speed</a>
+	</li>
+											<li class="level_3" id="internal-content-run-tough-page">
+													<a href="/run-tough" class="" title="Running: Trail">
+			Running: Trail</a>
 	</li>
 											</ul>
 								</div>
@@ -661,11 +645,18 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 			<div class="featured">
 							<h3>Featured Events</h3>
 							<ul class="level_3">
-								<li class="level_3" id="featured-link-nycm">
+								<li class="level_3" id="featured-link-events-tokyo-marathon-2014">
+											<a href="/lamarathon">
+            <img src="/medias/sys_master/hb0/h04/8914243944478/featured_event_hero_lam.png" alt="2015 ASICS LA Marathon">
+        </a>
+		<a href="/lamarathon" class="" title="2015 ASICS LA Marathon">
+			2015 ASICS LA Marathon</a>
+	</li>
+									<li class="level_3" id="featured-link-nycm">
 											<a href="/nycm">
-	<img src="/medias/sys_master/hfb/h16/8849972887582/featured_event_hero_nycm.png" alt="2014 NYCM">
-</a>
-<a href="/nycm" class="" title="2014 NYCM">
+            <img src="/medias/sys_master/hfb/h16/8849972887582/featured_event_hero_nycm.png" alt="2014 NYCM">
+        </a>
+		<a href="/nycm" class="" title="2014 NYCM">
 			2014 NYCM</a>
 	</li>
 									</ul>
@@ -686,22 +677,20 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
        
             
 <div id="cart_panel" class="panel wrap" style="display:none;">
-					<div ng-show="cart.contents.data.totalItems">
+            <div ng-show="cart.contents.data.totalItems" class="ng-hide"></div>
 
-    </div>
+<article id="cart" class="updatable item ng-scope empty" ng-controller="MainCart" ng-class="{empty: !cart.data.totalItems}">
 
-<article id="cart" class="updatable item" ng-controller="MainCart" ng-class="{empty: !cart.data.totalItems}" ng-cloak="">
-
-    <div ng-show="cart.contents.data.totalItems">
+    <div ng-show="cart.contents.data.totalItems" class="ng-hide">
 
         <header id="cart_header">
             <h2>Your Shopping Cart</h2>
-            <h3 id="cart_id">Cart ID:{{cart.contents.data.code}}</h3>
+            <h3 id="cart_id" class="ng-binding">Cart ID:</h3>
         </header>
 
-        <p class="message {{cart.contents.messages.cart.type}}" ng-show="cart.contents.messages.cart &amp;&amp; cart.contents.messages.cart.type != 'success'">
-            <span class="icon">{{cart.contents.messages.cart.type}}:</span>
-            <span>{{cart.contents.messages.cart.text}}</span>
+        <p class="message  ng-hide" ng-show="cart.contents.messages.cart &amp;&amp; cart.contents.messages.cart.type != 'success'">
+            <span class="icon ng-binding">:</span>
+            <span class="ng-binding"></span>
         </p>
 
         <table id="cart_table">
@@ -715,69 +704,30 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 		</tr>
 	</thead>
 	<tbody>
-		<tr data-id="{{entry.entryNumber}}" ng-repeat="entry in cart.contents.data.entries">
+		<!-- ngRepeat: entry in cart.contents.data.entries -->
+		
+		
 
-			<td headers="head_details" class="thumb">
-				<a class="image_link" ng-href="{{entry.product.primaryColourOption.url}}">
-					<img data-lazy-src="{{entry.product.primaryImage.url}}" ng-alt="{{entry.product.name}}">
-				</a>
-			</td>
 
-			<td headers="head_details" class="info">
-				<h3>
-					<a href="{{entry.product.primaryColourOption.url}}">{{entry.product.name}}</a>
-				</h3>
-				<div class="definitions">
-					<dl>
-						<dt>Color:</dt>
-						<dd>{{entry.product.primaryColourOption.colour.description}}</dd>
-					</dl>
-					
-					
-					<dl ng-repeat="variant in entry.product.baseOptions[0].selected.variantOptionQualifiers" ng-show="variant.displayValue">
-							<dt>{{variant.name}}:</dt>						
-							<dd>{{variant.displayValue}}</dd>
-					</dl>
-				</div>
-				<ul class="promotions" ng-if="entry.appliedPromotions.length || entry.potentialPromotions.length">
-					<li class="promotion promotion_applied" ng-repeat="promotion in entry.appliedPromotions">{{promotion.description}}</li>
-					<li class="promotion promotion_potential" ng-repeat="promotion in entry.potentialPromotions">{{promotion.description}}</li>
-				</ul>
-			</td>
 
-			<td headers="head_quantity" class="quantity">
-				<form ng-show="entry.updateable" ng-submit="cartUpdateLine(entry.entryNumber, quantity, entry.quantity, $index)">
-					<ol>
-						<li>
-							<label class="conceal">Quantity</label>
-							<input type="number" min="0" class="text qty" ng-init="quantity=entry.quantity" ng-model="quantity">
-                            <a href="javascript:void(0);" class="quantity_update" ng-click="cartUpdateLine(entry.entryNumber, quantity, entry.quantity, $index)">Update</a>
-							<p class="message {{cart.contents.messages.lines[entry.entryNumber].type}}" ng-show="cart.contents.messages.lines[entry.entryNumber] &amp;&amp; cart.contents.messages.lines[entry.entryNumber].type != 'success'">
-								<span class="icon">{{cart.contents.messages.lines[entry.entryNumber].type}}:</span>
-								<span>{{cart.contents.messages.lines[entry.entryNumber].text}}</span>
-							</p>
-						</li>
-					</ol>
-				</form>
-				<span class="qty" ng-hide="entry.updateable">{{entry.quantity}}</span>
-			</td>
+	
+	
+	
+	
+	
 
-			<td headers="head_pricing" class="price">
-			    <del ng-if="entry.wasPrice.value > 0">{{entry.wasPrice.formattedValue}}</del>
-				{{entry.basePrice.formattedValue}}
-			</td>
 
-			<td headers="head_total" class="subtotal">
-				{{entry.totalPrice.formattedValue}}
-			</td>
-
-			<td headers="head_remove" class="remove">
-				<a class="item_remove button" ng-show="entry.updateable" ng-click="cartUpdateLine(entry.entryNumber, 0, entry.quantity, $index)">Remove</a>
-			</td>
-
-		</tr>
-	</tbody>
+</tbody>
 </table>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -786,62 +736,63 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 	<dl class="cart_totals">
 
 		<dt class="subtotal">Subtotal</dt>
-		<dd class="subtotal">{{cart.contents.data.subTotal.formattedValue}}</dd>
+		<dd class="subtotal ng-binding"></dd>
 
 		<dt class="coupons">
 			<a href="javascript:void(0);" class="promo_link" ng-show="!isPromotionsVisible" ng-click="showPromotions()">I have a discount code</a>
-			<span class="tooltip icon" ng-show="!isPromotionsVisible" data-tooltip="If you have an ASICS discount code, it can be redeemed by entering it here"></span>
-			<label for="coupon_code" ng-show="isPromotionsVisible">Promotion code</label>
+			<span class="tooltip icon ng-isolate-scope" ng-show="!isPromotionsVisible" data-tooltip="If you have an ASICS discount code, it can be redeemed by entering it here"><div class="tooltip"><p ng-bind-html="tooltipValue" class="ng-binding">If you have an ASICS discount code, it can be redeemed by entering it here</p><span></span></div></span>
+			<label for="coupon_code" ng-show="isPromotionsVisible" class="ng-hide">Promotion code</label>
 		</dt>
 		<dd class="coupons">
-			<ul ng-show="cart.contents.data.coupons">
-				<li ng-repeat="coupon in cart.contents.data.coupons">
-					<span class="coupon_code">{{coupon.code}}</span>
-					<a class="coupon_remove" ng-click="cartRemoveCoupon(coupon.code)">X</a>
-				</li>
+			<ul ng-show="cart.contents.data.coupons" class="ng-hide">
+				<!-- ngRepeat: coupon in cart.contents.data.coupons -->
 			</ul>
-			<form ng-show="isPromotionsVisible" ng-submit="cartAddCoupon(cart.inputs.coupon)">
+			<form ng-show="isPromotionsVisible" ng-submit="cartAddCoupon(cart.inputs.coupon)" class="ng-pristine ng-valid ng-hide">
 				<ol>
 					<li ng-class="{field_error: couponErrors.length}">
-						<input id="coupon_code" type="text" class="text coupon" ng-model="cart.inputs.coupon">
+						<input id="coupon_code" type="text" class="text coupon ng-pristine ng-valid" ng-model="cart.inputs.coupon">
 						<a id="cartCouponLink" ng-click="cartAddCoupon(cart.inputs.coupon)">Apply</a>
-						<p class="message {{cart.contents.messages.coupons.type}}" ng-show="cart.contents.messages.coupons &amp;&amp; cart.contents.messages.coupons.type != 'success'">
-							<span class="icon">{{cart.contents.messages.coupons.type}}:</span>
-							<span>{{cart.contents.messages.coupons.text}}</span>
+						<p class="message  ng-hide" ng-show="cart.contents.messages.coupons &amp;&amp; cart.contents.messages.coupons.type != 'success'">
+							<span class="icon ng-binding">:</span>
+							<span class="ng-binding"></span>
 						</p>
 					</li>
 				</ol>
 			</form>
 		</dd>
 
-		<dt class="savings" ng-show="cart.contents.data.orderDiscounts.value">Savings</dt>
-		<dd class="savings" ng-show="cart.contents.data.orderDiscounts.value">{{cart.contents.data.orderDiscounts.formattedValue}}</dd>
+		<dt class="savings ng-hide" ng-show="cart.contents.data.orderDiscounts.value">Savings</dt>
+		<dd class="savings ng-binding ng-hide" ng-show="cart.contents.data.orderDiscounts.value"></dd>
 
-		<dt class="shipping" ng-show="cart.contents.data.deliveryCost">Shipping</dt>
-				<dd class="shipping" ng-show="cart.contents.data.deliveryCost">
-                    <span ng-show="cart.contents.data.deliveryCost.value">{{cart.contents.data.deliveryCost.formattedValue}}</span>
-                    <span ng-hide="cart.contents.data.deliveryCost.value">Free</span>
+		<dt class="shipping ng-hide" ng-show="cart.contents.data.deliveryCost">Shipping &amp; Handling</dt>
+				<dd class="shipping ng-hide" ng-show="cart.contents.data.deliveryCost">
+                    <span ng-show="cart.contents.data.defaultDeliveryMode.deliveryCost.value != 0" class="ng-binding"></span>
+                    
+                    <span ng-show="cart.contents.data.defaultDeliveryMode.deliveryCost.value == 0" class="ng-hide">Free</span>
+					
                 </dd>
+
 				<dt class="shipping" ng-hide="cart.contents.data.deliveryCost">
-					* Estimated shipping<span class="note">* 
+					* Estimated shipping &amp; handling<span class="note">* 
 						The exact shipping cost will be calculated during checkout</span>
 				</dt>
-				<dd class="shipping" ng-hide="cart.contents.data.deliveryCost">{{cart.contents.data.defaultDeliveryMode.deliveryCost.formattedValue}}</dd>
+				<dd class="shipping" ng-hide="cart.contents.data.deliveryCost">
+				<span ng-show="cart.contents.data.defaultDeliveryMode.deliveryCost.value != 0" class="ng-binding"></span>
+                <span ng-show="cart.contents.data.defaultDeliveryMode.deliveryCost.value == 0" class="ng-hide">Free</span>
+				</dd>
+				
         	<dt class="tax" ng-hide="cart.contents.data.net">Tax</dt>
-			<dd class="tax" ng-hide="cart.contents.data.net">{{cart.contents.data.totalTax.formattedValue}}</dd>
+			<dd class="tax ng-binding" ng-hide="cart.contents.data.net"></dd>
 		</dl>
 
 	<div class="cart_promotions_total">
-		<ul class="promotions" ng-if="cart.contents.data.appliedOrderPromotions.length || cart.contents.data.potentialOrderPromotions.length">
-			<li class="promotion promotion_applied icon_promo" ng-repeat="promotion in cart.contents.data.appliedOrderPromotions">{{promotion.description}}</li>
-			<li class="promotion promotion_potential icon_promo" ng-repeat="promotion in cart.contents.data.potentialOrderPromotions">{{promotion.description}}</li>
-		</ul>
+		<!-- ngIf: cart.contents.data.appliedOrderPromotions.length || cart.contents.data.potentialOrderPromotions.length -->
         <dl class="cart_total">
 			<dt class="total" ng-hide="cart.contents.data.net">Total</dt>
-			<dt class="total" ng-show="cart.contents.data.net">
+			<dt class="total ng-hide" ng-show="cart.contents.data.net">
 				** Total<span class="note">** Excluding tax</span>
 			</dt>
-			<dd class="total">{{cart.contents.data.totalPriceExcludingTax.formattedValue}}</dd>
+			<dd class="total ng-binding"></dd>
 		</dl>
         </div>
 
@@ -853,7 +804,7 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 
     </div>
 
-    <div ng-show="cart.contents.data.totalItems == 0">
+    <div ng-show="cart.contents.data.totalItems == 0" class="ng-hide">
 
         <header id="cart_header">
             <h2>Your Shopping Cart Is Empty</h2>
@@ -865,11 +816,13 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 
 
 </div>
-			</div>
+        </div>
 
 	</nav>
 
 </header>
+
+
 
 
 <div id="content" class="main" role="main">
@@ -930,7 +883,7 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 					<li class="">
 							<a href="/about-asics" title="About ASICS">About ASICS</a></li>
 					<li class="">
-							<a href="http://www.asics.com/en/csr" title="Corporate Responsibility" target="_new">Corporate Responsibility</a></li>
+							<a href="http://corp.asics.com/en/csr" title="Corporate Responsibility" target="_new">Corporate Responsibility</a></li>
 					<li class="">
 							<a href="/california-laws" title="California Laws">California Laws</a></li>
 					<li class="">
@@ -958,8 +911,8 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 		<div class="wrap">
             <nav id="tertiary" role="navigation">
 				<ul class="level_1">
-					<li class="level_1">
-                            <ul class="level_2 first_of_row">
+					<li class="level_1" style="min-height: 126px;">
+              <ul class="level_2 first_of_row">
 								<li class="level_2">
 										<a href="/store-finder" class="" title="Store Locator">
 			Store Locator</a>
@@ -980,14 +933,10 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 										<a href="/contact-asics" class="icon icon_email" title="Contact ASICS">
 			Contact ASICS</a>
 	</li>
-								<li class="level_2">
-										<a href="/returns" class="" title="Returns">
-			Returns</a>
-	</li>
 								</ul>
 						</li>
-					<li class="level_1">
-                            <ul class="level_2 first_of_row">
+					<li class="level_1" style="min-height: 126px;">
+              <ul class="level_2 first_of_row">
 								<li class="level_2">
 										<a href="/shoe-size-guide" class="" title="Shoe size guide">
 			Shoe size guide</a>
@@ -1010,14 +959,14 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 	</li>
 								</ul>
 						</li>
-					<li class="level_1">
-                            <ul class="level_2 first_of_row">
+					<li class="level_1" style="min-height: 126px;">
+              <ul class="level_2 first_of_row">
 								<li class="level_2">
 										<a href="/about-asics" class="" title="About ASICS">
 			About ASICS</a>
 	</li>
 								<li class="level_2">
-										<a href="http://www.asics.com/en/csr" class="" title="Corporate Responsibility" target="_blank">
+										<a href="http://corp.asics.com/en/csr" class="" title="Corporate Responsibility" target="_blank">
 			Corporate Responsibility</a>
 	</li>
 								<li class="level_2">
@@ -1047,7 +996,7 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 
 				<div id="newsletter_signup">
 						<h3><div style="font-size:18px;">EMAIL NEWSLETTER</div></h3>
-						<form class="newsletter_signup_form" action="/json/newsletter/signup.json" novalidate="">
+						<form class="newsletter_signup_form ng-pristine ng-valid" action="/json/newsletter/signup.json" novalidate="">
 							<ol>
 								<li>
 									<label>Email address</label>
@@ -1074,222 +1023,246 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 			</div>
 
 			<div id="copyright">
-				<p><span class="icon icon_shoe"></span>© 2014 ASICS America Corporation</p>
+				<p><span class="icon icon_shoe"></span>© 2015 ASICS America Corporation</p>
 			</div>
 
-            <div id="country_select">
-					<div id="website_country">
-						<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -740px 0;"></span>
-						<span>United States &nbsp;Change</span>
-					</div>
-					<div id="countrySelector">
-						<div id="lightBox">
-							<div class="logoAsics"></div>		
-							<h2>Please choose your country and language</h2>
-							<div id="closeCountryPanel" class="changeLanguage">
-								<a href="">Close</a>
-							</div>
-							<div class="country_listings">
-								<div>
-									<h3>Americas</h3>
-									<ul>
+            <div id="website_country" class="closed">
+				<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -740px 0;"></span>
+				<span id="country-name">United States<span id="country-arrow" class="country-arrow-down"></span></span>
+			</div>
+			</div>
+	</div>
+	
+
+
+	<!-- This is a way of hiding footer markup in new checkouts for all countries using the simplified header -->
+		<div id="country_select">
+			<div id="countrySelector" class="wrap">
+
+				<div class="backToTop">
+	        <a href="#"><span class="icon"></span>Back to top</a>
+	      </div>  
+				
+				<div id="lightBox">
+					<!-- <div class="logoAsics"></div>	 -->	
+					<h2>Please choose your country and language</h2>
+					<!-- <div id="closeCountryPanel" class="changeLanguage">
+						<a href="">Close</a>
+					</div> -->
+					<div class="country_listings">
+						<div>
+							<h3>Europe</h3>
+							<ul>
+								<li>
+										
+											<a href="http://www.asics.at/">Austria</a>
+										</li>
+									<li>
+										
+											<a href="http://nl.asics.be/">Belgium</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asicsbg.com/">Bulgaria</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.cz/">Czech Republic</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.dk/">Denmark</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.ee/">Estonia</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.fi/">Finland</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.fr/">France</a>
+										</li>
+									</ul>
+											<ul>
 										<li>
-													<a href="http://www.asicsamerica.com/">United States</a>
-												</li>
-											<li>
-													<a href="http://www.asics.com.br/">Brazil</a>
-												</li>
-											<li>
-													<a href="http://asicscanada.com/">Canada</a>
-												</li>
-											</ul>
-								</div>
-								<div>
-									<h3>Asia &amp; Oceania</h3>
-									<ul>
+										
+											<a href="http://www.asics.com/de/de-de/">Germany</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.gr/">Greece</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.hu/">Hungary</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.ie/">Ireland</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.it/">Italy</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.lv/">Latvia</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.lt/">Lithuania</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.nl/">Netherlands</a>
+										</li>
+									</ul>
+											<ul>
 										<li>
-													<a href="http://www.asics.com.au/">Australia</a>
-												</li>
-											<li>
-													<a href="http://www.asics.com.cn/">China</a>
-												</li>
-											<li>
-													<a href="http://www.asicsindia.in/">India</a>
-												</li>
-											<li>
-													<a href="http://www.asics.co.jp/">Japan</a>
-												</li>
-											<li>
-													<a href="http://www.asics.co.kr/">Korea, Republic of</a>
-												</li>
-											<li>
-													<a href="http://www.asics.co.nz/">New Zealand</a>
-												</li>
-											<li>
-													<a href="http://www.runnersworld.com.sg/">Singapore</a>
-												</li>
-											<li>
-													<a href="http://www.asics.com.tw/">Taiwan</a>
-												</li>
-											</ul>
-								</div>
-								<div>
-									<h3>Europe</h3>
-									<ul>
+										
+											<a href="http://www.asics.no/">Norway</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.pl/">Poland</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.pt/">Portugal</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.ro/">Romania</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.ru/">Russian Federation</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.rs/">Serbia</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.sk/">Slovakia</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.es/">Spain</a>
+										</li>
+									</ul>
+											<ul>
 										<li>
-													<a href="http://www.asics.at/">Austria</a>
-												</li>
-											<li>
-													<a href="http://nl.asics.be/">Belgium</a>
-												</li>
-											<li>
-													<a href="http://www.asicsbg.com/">Bulgaria</a>
-												</li>
-											<li>
-													<a href="http://www.asics.cz/">Czech Republic</a>
-												</li>
-											<li>
-													<a href="http://www.asics.dk/">Denmark</a>
-												</li>
-											<li>
-													<a href="http://www.asics.ee/">Estonia</a>
-												</li>
-											<li>
-													<a href="http://www.asics.fi/">Finland</a>
-												</li>
-											<li>
-													<a href="http://www.asics.fr/">France</a>
-												</li>
-											<li>
-													<a href="http://www.asics.de/">Germany</a>
-												</li>
-											<li>
-													<a href="http://www.asics.gr/">Greece</a>
-												</li>
-											<li>
-													<a href="http://www.asics.hu/">Hungary</a>
-												</li>
-											<li>
-													<a href="http://www.asics.ie/">Ireland</a>
-												</li>
-											<li>
-													<a href="http://www.asics.it/">Italy</a>
-												</li>
-											<li>
-													<a href="http://www.asics.lv/">Latvia</a>
-												</li>
-											</ul>
-													<ul>
-												<li>
-													<a href="http://www.asics.lt/">Lithuania</a>
-												</li>
-											<li>
-													<a href="http://www.asics.nl/">Netherlands</a>
-												</li>
-											<li>
-													<a href="http://www.asics.no/">Norway</a>
-												</li>
-											<li>
-													<a href="http://www.asics.pl/">Poland</a>
-												</li>
-											<li>
-													<a href="http://www.asics.pt/">Portugal</a>
-												</li>
-											<li>
-													<a href="http://www.asics.ro/">Romania</a>
-												</li>
-											<li>
-													<a href="http://www.asics.ru/">Russian Federation</a>
-												</li>
-											<li>
-													<a href="http://www.asics.rs/">Serbia</a>
-												</li>
-											<li>
-													<a href="http://www.asics.sk/">Slovakia</a>
-												</li>
-											<li>
-													<a href="http://www.asics.es/">Spain</a>
-												</li>
-											<li>
-													<a href="http://www.asics.se/">Sweden</a>
-												</li>
-											<li>
-													<a href="http://www.asics.ch/">Switzerland</a>
-												</li>
-											<li>
-													<a href="http://www.asics.com.tr/">Turkey</a>
-												</li>
-											<li>
-													<a href="http://www.asics.co.uk/">United Kingdom</a>
-												</li>
-											</ul>
-								</div>
-							</div>
+										
+											<a href="http://www.asics.se/">Sweden</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.ch/">Switzerland</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.com.tr/">Turkey</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.co.uk/">United Kingdom</a>
+										</li>
+									</ul>
+						</div>
+						<div>
+							<h3>Americas</h3>
+							<ul>
+								<li>
+											<a href="http://www.asicsamerica.com/" style="font-weight: bold;">United States</a>
+										</li>
+									<li>
+											<a href="http://www.asics.com.br/">Brazil</a>
+										</li>
+									<li>
+											<a href="http://asicscanada.com/">Canada</a>
+										</li>
+									</ul>
+						</div>
+						<div>
+							<h3>Asia &amp; Oceania</h3>
+							<ul>
+								<li>
+											<a href="http://www.asics.com.au/">Australia</a>
+										</li>
+									<li>
+											<a href="http://www.asics.com.cn/">China</a>
+										</li>
+									<li>
+											<a href="http://www.asicsindia.in/">India</a>
+										</li>
+									<li>
+											<a href="http://www.asics.co.jp/">Japan</a>
+										</li>
+									<li>
+											<a href="http://www.asics.co.kr/">Korea, Republic of</a>
+										</li>
+									<li>
+											<a href="http://www.asics.co.nz/">New Zealand</a>
+										</li>
+									<li>
+											<a href="http://www.asics.com.sg/">Singapore</a>
+										</li>
+									<li>
+											<a href="http://www.asics.com.tw/">Taiwan</a>
+										</li>
+									</ul>
 						</div>
 					</div>
 				</div>
 			</div>
-	</div>
-
-</footer>
-<div class="content"><p style="height:0;margin:0;"><style media="screen" type="text/css">
+		</div>
+	</footer><div class="content"><p style="height:0;margin:0;"><style media="screen" type="text/css">
 header[role="banner"] nav#primary #lead ul#areas li > a{
     padding:0 30px;
 }
-</style></p></div><div class="minicart_popup" ng-controller="MainCart">
-		<a href="/cart/" class="counter" ng-show="cart.contents.data.totalItems >= 3">
-			<span ng-bind="cart.contents.data.totalUnitCount"></span>
+</style></p></div><div class="minicart_popup ng-scope" ng-controller="MainCart">
+		<a href="/cart/" class="counter ng-hide" ng-show="cart.contents.data.totalItems >= 3">
+			<span ng-bind="cart.contents.data.totalUnitCount" class="ng-binding"></span>
 			<ng-pluralize count="cart.contents.data.totalUnitCount" when="{'0': 'Items',
 		                       'one': 'Item',
-		                       'other': 'Items'}">
-		    </ng-pluralize>
+		                       'other': 'Items'}"></ng-pluralize>
 		</a>
 
-		<div class="empty-message" ng-show="cart.contents.data.totalItems == 0">
+		<div class="empty-message ng-hide" ng-show="cart.contents.data.totalItems == 0">
 				<p>Your Shopping Cart Is Empty</p>
 		</div>
 
 		<ol class="products">
-			<li ng-repeat="entry in cart.contents.data.entries | limitTo:-2">
-				<a class="image_link" ng-href="{{entry.product.primaryColourOption.url}}">
-					<img ng-src="{{entry.product.primaryImage.url}}" ng-alt="{{entry.product.name}}">
-				</a>
-				<div class="product_detail definitions">
-					<a class="product_name" href="{{entry.product.primaryColourOption.url}}">{{entry.product.name}}</a>
-					<dl ng-repeat="variant in entry.product.baseOptions[0].selected.variantOptionQualifiers" ng-show="variant.displayValue">
-						<dt>{{variant.name}}:</dt>
-						<dd>{{variant.displayValue}}</dd>
-					</dl>
-					<dl>
-						<dt>Quantity:</dt>
-						<dd>{{entry.quantity}}</dd>
-					</dl>
+			<!-- THIS DIRECTIVE ON THE INPUT FIELD IS USED FOR CART DATA ON LOGIN PAGE FOR GOOGLE ANALYTICS AS MINICART IS RESTRICTED TO 2 ITEMS-->
+			<!-- this is not used for displaying minicart products-->
+			<!-- ngRepeat: entry in cart.contents.data.entries -->
+			<!--end of GA directive-->
 
-				</div>
-				<ol class="price">
-					<li class="price">{{entry.totalPrice.formattedValue}}</li>
-				</ol>
-			</li>
+			<!-- ngRepeat: entry in cart.contents.data.entries | limitTo:-2 -->
 		</ol>
 		<div class="actions" ng-show="cart.contents.data.totalItems != 0">
 			<div class="buy">
 				<div class="total">
 					<span class="label">Subtotal</span>
-					<span class="value">{{cart.contents.data.subTotal.formattedValue}}</span>
+					<span class="value ng-binding"></span>
 
 				</div>
 				<div class="shipping">
 					<dl>
-								<dt class="shipping" ng-show="cart.contents.data.deliveryCost">Shipping</dt>
-								<dd class="shipping" ng-show="cart.contents.data.deliveryCost">
-				                    <span ng-show="cart.contents.data.deliveryCost.value">{{cart.contents.data.deliveryCost.formattedValue}}</span>
-				                    <span ng-hide="cart.contents.data.deliveryCost.value">Free</span>
+								<dt class="shipping ng-hide" ng-show="cart.contents.data.deliveryCost">Shipping &amp; Handling</dt>
+								<dd class="shipping ng-hide" ng-show="cart.contents.data.deliveryCost">
+				                    <span ng-show="cart.contents.data.deliveryCost.value" class="ng-binding ng-hide"></span>
+				                    <span ng-hide="cart.contents.data.deliveryCost.value" class="">Free</span>
 				                </dd>
 			           		</dl>
 			           		<dl>
 								<dt class="shipping" ng-hide="cart.contents.data.deliveryCost">
-									* Estimated shipping</dt>
-								<dd class="shipping" ng-hide="cart.contents.data.deliveryCost">{{cart.contents.data.defaultDeliveryMode.deliveryCost.formattedValue}}</dd>
+									* Estimated shipping &amp; handling</dt>
+								<dd class="shipping ng-binding" ng-hide="cart.contents.data.deliveryCost"></dd>
 							</dl>
 			        	</div>
 				<a class="button highlight" href="/cart/">View Cart</a>
@@ -1301,67 +1274,44 @@ header[role="banner"] nav#primary #lead ul#areas li > a{
 
 
 
-<div id="product_quick_buy" ng-controller="ProductSelector" data-quick-buy-panel="">
+<div id="product_quick_buy" ng-controller="ProductSelector" data-quick-buy-panel="" class="ng-scope">
 
 	<div class="inner">
 
 		
-		<h3 class="name"><a ng-href="{{globals.contextPath + productData.data.url}}">{{productData.data.name}}</a></h3>
+		<h3 class="name"><a ng-href="" class="ng-binding"></a></h3>
 		<ul class="pricing">
-			<li class="was_price" ng-if="productData.data.markedDownFromPrice"><del>{{productData.data.markedDownFromPrice.formattedValue}}</del></li>
-			<li class="price">{{productData.data.price.formattedValue}}</li>
+			<!-- ngIf: productData.data.markedDownFromPrice -->
+			<li class="price ng-binding"></li>
 		</ul>
 
 		
 		<div class="image_colour">
-			<a class="image_link" ng-href="{{globals.contextPath + productData.data.url}}">
-				<img data-lazy-src="{{productData.data.primaryImage.url}}" ng-alt="{{product.name}}">
+			<a class="image_link" ng-href="">
+				<img data-lazy-src="" ng-alt="">
 			</a>
 			<span class="colour">
-				<img data-lazy-src="{{productData.data.primaryColourOption.swatchImage.url}}" ng-alt="{{product.name}}">
+				<img data-lazy-src="" ng-alt="">
 			</span>
 		</div>
             
 
 
 		
-		<div class="size_selector" ng-class="variantSelector.className" ng-repeat="variantSelector in productData.variants">
-            
-                
-                
-                    <div class="guide"><a ng-href="{{variantSelector.guideUrl}}" target="_blank">{{variantSelector.displayValue}} guide</a></div>
-                    <h3>Select {{variantSelector.displayValue}}</h3>
-                
-            
-			<ol class="product_size_list" ng-class="variantSelector.className" data-sizelabel="size">
-				<li ng-repeat="size in variantSelector.sizes" ng-repeated="size_selector">
-					<a ng-class="{
-							unavailable: !size.stock || (
-								productData.selection.length == 2 &amp;&amp; (
-									productData.selection[variantSelector.subVariantIndex].value &amp;&amp;
-									!size.subVariants[productData.selection[variantSelector.subVariantIndex].value].stock
-								)
-							),
-							active: size.value == productData.selection[$parent.$index].value
-						}" ng-click="productSetVariant($parent.$index, size.value); productSelectionChange(); updateParams()">
-						<span>{{size.displayValue}}</span>
-					</a>
-				</li>
-			</ol>
-		</div>
+		<!-- ngRepeat: variantSelector in productData.variants -->
 
 		
-		<div class="actions" ng-show="productData.data.purchasable &amp;&amp; productData.data.stockLevelStatus.code != 'outOfStock'">
+		<div class="actions ng-hide" ng-show="productData.data.purchasable &amp;&amp; productData.data.stockLevelStatus.code != 'outOfStock'">
 			<a class="button highlight" ng-hide="(productData.unselectedMsg || cart.localMessages.itemAdd) || (cart.contents.success &amp;&amp; cart.contents.messages.itemAdd) || cart.localMessages.loading" ng-click="productAdd(productData.code, productQty, 'quickbuy')">Add to Cart</a>
-			<img class="loading" ng-show="cart.localMessages.loading" ng-cloak="" ng-src="{{contextPath}}/_ui/desktop/common/images/spinner_pdp.gif">
-			<p class="message {{cart.contents.messages.itemAdd.type}}" ng-show="cart.contents.messages.itemAdd">
-				<span class="icon">{{cart.contents.messages.itemAdd.type}}:</span>
+			<img class="loading ng-hide" ng-show="cart.localMessages.loading" ng-src="/_ui/desktop/common/images/spinner_pdp.gif" src="/_ui/desktop/common/images/spinner_pdp.gif">
+			<p class="message  ng-hide" ng-show="cart.contents.messages.itemAdd">
+				<span class="icon ng-binding">:</span>
 				<span>Added</span>
-				<a href="javascript(0);" class="panel_link panel_link_open" ng-show="cart.contents.success" id="cart_panel_id">View Cart</a>
+				<a href="javascript(0);" class="panel_link panel_link_open ng-hide" ng-show="cart.contents.success" id="cart_panel_id">View Cart</a>
 			</p>
-			<p class="message error" ng-show="productData.unselectedMsg">
+			<p class="message error ng-hide" ng-show="productData.unselectedMsg">
 				<span class="icon">Error:</span>
-				<span>Please select a {{productData.unselectedMsg}}</span>
+				<span class="ng-binding">Please select a </span>
 			</p>
 			<span class="close"><a class="close" href="#close">Close</a></span>
 		</div>
@@ -1379,38 +1329,38 @@ header[role="banner"] nav#primary #lead ul#areas li > a{
 
 
 <div class="quick_shop_overlay"></div>
-<div class="quick_shop" ng-controller="QuickShop" quick-shop-panel="">
+<div class="quick_shop ng-scope" ng-controller="QuickShop" quick-shop-panel="">
 
 	<div class="inner">
 		
 		<header>
 			<h2 class="name">
-				<a ng-href="{{quickShop.contents.url}}" ng-bind-html="quickShop.contents.name"></a>
+				<a ng-href="" ng-bind-html="quickShop.contents.name" class="ng-binding"></a>
 			</h2>
-			<h5 class="product_type" ng-bind-html="quickShop.contents.productTypeName"></h5>
+			<h5 class="product_type ng-binding" ng-bind-html="quickShop.contents.productTypeName"></h5>
 			
 				<dl class="rating">
 					<dt>Rating</dt>
 					<dd>
-						<em ng-style="{'width': (quickShop.contents.averageRating * starWidth) + ((quickShop.contents.averageRating - ( quickShop.contents.averageRating % 1 )) * starGap) + 'px'}">{{quickShop.contents.averageRating}}</em>out of {0} stars
+						<em ng-style="{'width': (quickShop.contents.averageRating * starWidth) + ((quickShop.contents.averageRating - ( quickShop.contents.averageRating % 1 )) * starGap) + 'px'}" class="ng-binding"></em>out of {0} stars
 					</dd>
 				</dl>
 			
 		</header>
 		<div class="content">
-			<a ng-href="{{quickShop.contents.url}}">
-				<img class="hero_image" quick-shop-load="onLoad()" ng-src="{{quickShop.contents.primaryImage.url}}" ng-alt="{{quickShop.contents.name}}">
+			<a ng-href="">
+				<img class="hero_image" quick-shop-load="onLoad()" ng-src="" ng-alt="">
 			</a>
-			<h4 class="summary" ng-if="styleProductInfo !== null" ng-bind-html="quickShop.contents.styleProductInfo.standfirstDescription"></h4>
+			<!-- ngIf: styleProductInfo !== null --><h4 class="summary ng-scope ng-binding" ng-if="styleProductInfo !== null" ng-bind-html="quickShop.contents.styleProductInfo.standfirstDescription"></h4><!-- end ngIf: styleProductInfo !== null -->
 <!-- 			<h4 class="summary" ng-bind-html="quickShop.contents.summary"></h4> -->
 <!-- 			<span class="short_description" ng-if="styleProductInfo !== null" ng-bind-html="quickShop.contents.styleProductInfo.standfirstDescription"></span> -->
 			<ol class="price">
-				<li class="was_price" ng-show="quickShop.contents.markedDownFromPrice.formattedValue">
-					<del>{{quickShop.contents.markedDownFromPrice.formattedValue}}</del>
+				<li class="was_price ng-hide" ng-show="quickShop.contents.markedDownFromPrice.formattedValue">
+					<del class="ng-binding"></del>
 				</li>
-				<li>{{quickShop.contents.price.formattedValue}}</li>
+				<li class="ng-binding"></li>
 			</ol>
-			<p class="description" ng-bind-html="quickShop.contents.summary"></p>
+			<p class="description ng-binding" ng-bind-html="quickShop.contents.summary"></p>
 			<!-- Comment out features for quick by
 			<div class="features" ng-show="quickShop.contents.styleProductInfo.features.length>0">
 				<h6 class="features_title">Product Features</h6>
@@ -1421,89 +1371,99 @@ header[role="banner"] nav#primary #lead ul#areas li > a{
 			-->
 		</div>
 		<div class="panel">
-			<div class="size" ng-show="quickShop.contents.sizeWrapper">
+			<div class="size ng-hide" ng-show="quickShop.contents.sizeWrapper">
 				<div class="guide">
-					<a ng-href="{{quickShop.contents.sizeWrapper.guideUrl}}" target="_blank">
-						{{quickShop.contents.sizeWrapper.typeName}} guide
-					</a>
+					<a ng-href="" target="_blank" class="ng-binding">
+                        
+                            
+                            
+                                 guide
+                            
+                        
+                    </a>
 					
 						
 						
-							<h3>Select {{quickShop.contents.sizeWrapper.typeName}}</h3>
+							<h3 class="ng-binding">Select </h3>
 						
 					
 				</div>
 				<ol class="sizes active">
-					<li ng-repeat="size in quickShop.contents.sizeWrapper.sizes" ng-class="{'selected': $index==selectedSize, 'out_of_stock': (size.stockLevelStatus.code == 'outOfStock') ,frontier : !(($index+1)%6)}" ng-click="changeSize($index)">
-						{{size.name}}
-					</li>
+					<!-- ngRepeat: size in quickShop.contents.sizeWrapper.sizes -->
 				</ol>
 			</div>
-			<div class="width" ng-show="quickShop.contents.widthWrapper">
+			<div class="width ng-hide" ng-show="quickShop.contents.widthWrapper">
 				<div class="guide">
-					<a ng-href="{{quickShop.contents.widthWrapper.widths[0].sizeWrapper.guideUrl}}" target="_blank">
-						{{quickShop.contents.widthWrapper.widths[0].sizeWrapper.typeName}} guide
+					<a ng-href="" target="_blank" class="ng-binding">
+                        
+                            
+                            
+                            
+                                 guide
+                            
+                        
 					</a>
 					
 						
 						
-							<h3>Select {{quickShop.contents.widthWrapper.widths[0].sizeWrapper.typeName}}</h3>
+							<h3 class="ng-binding">Select </h3>
 						
 					
 				</div>
-				<ol class="sizes" ng-repeat="width in quickShop.contents.widthWrapper.widths" ng-class="{active: $index==selectedWidth || $index==unselected}">
-					<li ng-repeat="size in width.sizeWrapper.sizes" ng-class="{'selected': $index==selectedSize, 'out_of_stock': (size.stockLevelStatus.code == 'outOfStock'), frontier : !(($index+1)%6)}" ng-click="changeSize($index)">
-						{{size.name}}
-					</li>
-				</ol>
+				<!-- ngRepeat: width in quickShop.contents.widthWrapper.widths -->
 				<div class="guide">
-					<a ng-href="{{quickShop.contents.widthWrapper.guideUrl}}" target="_blank">
-						{{quickShop.contents.widthWrapper.typeName}} guide
+					<a ng-href="" target="_blank" class="ng-binding">
+                        
+                            
+                            
+                            
+                                 guide
+                            
+                        
 					</a>
 					
 						
 						
-							<h3>Select {{quickShop.contents.widthWrapper.typeName}}</h3>
+							<h3 class="ng-binding">Select </h3>
 						
 					
 				</div>
 				<ol class="width">
-					<li ng-repeat="width in quickShop.contents.widthWrapper.widths" ng-class="{'selected': $index==selectedWidth, 'out_of_stock': (width.stockLevelStatus.code == 'outOfStock' || width.sizeWrapper.sizes[selectedSize].stockLevelStatus.code == 'outOfStock'), frontier : !(($index+1)%3)}" ng-click="changeWidth($index)">
-						<span>{{width.name}}</span>
-					</li>
+					<!-- ngRepeat: width in quickShop.contents.widthWrapper.widths -->
 				</ol>
 			</div>
 			<div class="add_to_cart">
 				<a class="button highlight" ng-hide="quickShop.contents.unselectedMsg || cart.contents.messages.itemAdd || cart.localMessages.loading" ng-click="productAdd()">
 					Add to Cart
 				</a>
-				<img class="loading" ng-show="cart.localMessages.loading" ng-cloak="" ng-src="/_ui/desktop/common/images/spinner_pdp.gif">
+				<img class="loading ng-hide" ng-show="cart.localMessages.loading" ng-src="/_ui/desktop/common/images/spinner_pdp.gif" src="/_ui/desktop/common/images/spinner_pdp.gif">
 				<div class="modal_close">close</div>
-				<p class="message {{cart.contents.messages.itemAdd.type}}" ng-show="cart.contents.messages.itemAdd">
-					<span class="icon">{{cart.contents.messages.itemAdd.type}}:</span>
+				<p class="message  ng-hide" ng-show="cart.contents.messages.itemAdd">
+					<span class="icon ng-binding">:</span>
 					<span>Added</span>
 
 					
 
 					
-						<a href="{{contextPath}}/cart/" class="panel_link_open" ng-show="cart.contents.success">
+						<a href="/cart/" class="panel_link_open ng-hide" ng-show="cart.contents.success">
 							View Cart
 						</a>
 						
 				</p>
-				<p class="message error" ng-show="quickShop.contents.unselectedMsg">
+				<p class="message error ng-hide" ng-show="quickShop.contents.unselectedMsg">
 					<span class="icon">Error:</span>
-					<span>Please select a {{quickShop.contents.unselectedMsg}}</span>
+					<span class="ng-binding">Please select a </span>
 				</p>
 			</div>
 		</div>
 	</div>
 
 </div>
-</div>
+<div id="overlay_fill" style="display: none;"></div></div>
 
 	<form name="screenReaderRefresh">
 		<input type="hidden" id="screen_reader_refresh" name="screenReaderRefreshBuffer" value="">
 	</form>
 
-</body></html>
+
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 1; display: none;"></ul></body></html>
