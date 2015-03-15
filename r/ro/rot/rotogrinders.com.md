@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotogrinders.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231012442id_/https%3A//rotogrinders.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotogrinders.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315044252id_/https%3A//rotogrinders.com/static/privacy-policy) for the most accurate reproduction.*
 
 # RotoGrinders: The Daily Fantasy Sports Authority
 
@@ -29,6 +29,7 @@
     * [Strategy](https://rotogrinders.com/articles/category/strategy)
     * [Championship Coverage](https://rotogrinders.com/pages/RotoGrinders_Championship_Coverage-100358)
     * [Interviews](https://rotogrinders.com/articles/category/interviews)
+    * [DFS Timeline](https://rotogrinders.com/static/daily-fantasy-sports-timeline)
   *     * [ NFL](https://rotogrinders.com/articles/category/nfl)
     * [ MLB](https://rotogrinders.com/articles/category/mlb)
     * [ NBA](https://rotogrinders.com/articles/category/nba)
@@ -39,7 +40,7 @@
     * [Main Forum](https://rotogrinders.com/threads/category/main)
     * [All Forums](https://rotogrinders.com/forums)
     * Rankings 
-    * [Lineups](https://rotogrinders.com/lineups)
+    * [Lineups](https://rotogrinders.com/lineups/nba)
     * [Incentives](https://rotogrinders.com/incentives)
     * Search 
 
