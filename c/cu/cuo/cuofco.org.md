@@ -1,39 +1,86 @@
-> *The following text is extracted and transformed from the cuofco.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616201958id_/https%3A//www.cuofco.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuofco.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043405id_/https%3A//www.cuofco.org/sites/default/files/documents/cuofcoprivacynotice-2014.pdf) for the most accurate reproduction.*
 
-# Privacy Policy
+# FACTS
 
-[[Privacy Policy Brochure - click here to download PDF] ](https://www.cuofco.org/images/brochures/privacy.pdf)
+                                                                                                                     April 2014
+FACTS
+                      WHAT DOES CREDIT UNION OF COLORADO
+                      DO WITH YOUR PERSONAL INFORMATION?
+Why?                 Financial companies choose how they share your personal information. Federal law gives
+                     consumers the right to limit some but not all sharing. Federal law also requires us to tell you
+                     how we collect, share, and protect your personal information. Please read this notice carefully
+                     to understand what we do.
+What?                The types of personal information we collect and share depend on the product or service you
+                     have with us. This information can include:
+                     n Social Security number and income
+                     n Account balances and payment history
+                     n Credit history and credit scores
+                     When you are no longer our member, we continue to share your information as described in
+                     this notice.
+How?                 All financial companies need to share members’ personal information to run their everyday
+                     business. In the section below, we list the reasons financial companies can share their
+                     members’ personal information; the reasons Credit Union of Colorado chooses to share; and
+                     whether you can limit this sharing.
+                                                                     Does Credit Union                Can you limit
+Reasons we can share your personal information
+                                                                    of Colorado share?                this sharing?
+For our everyday business purposes - such as to
+process your transactions, maintain your account(s),
+                                                                             Yes                             No
+respond to court orders and legal investigations, or report
+to credit bureaus
+For our marketing purposes - to offer our products and
+                                                                             Yes                             Yes
+services to you
+For joint marketing with other financial companies                           Yes                             Yes
+For our affiliates’ everyday business purposes -
+information about your transactions and experiences                           No                      We don’t share
+For our affiliates’ everyday business purposes -
+information about your creditworthiness                                       No                      We don’t share
+For our affiliates to market to you                                           No                      We don’t share
+For our nonaffiliates to market to you                                        No                      We don’t share
+To Limit our         n     Call 303-832-4816 or toll-free 1-800-444-4816.
+Sharing
+                     Please note:
+                     If you are a new member, we can begin sharing your information 30 days from the date we
+                     sent this notice. When you are no longer a member, we can continue to share your information
+                     as described in this notice.
+                     However, you can contact us at any time to limit our sharing for our marketing and for joint
+                     marketing purposes.
+Questions?           Call 303-832-4816 or toll-free 800-444-4816
 
-We thank you for entrusting us with your finances as well as some of your family’s most important information. We are committed to protecting your privacy at all times. We follow the privacy practices outlined within.
 
-**Collection of Personal Information**  
-We maintain strict security procedures and collect information about our members for lawful business purposes only, or as required by applicable law. We collect information from these sources: a) information you provide on applications and other forms, such as name, address, social security number, assets and income; b) information on your transactions with us, such as account balance, payment history, parties to our transactions and credit card usage; and c) information from consumer reporting agencies regarding your creditworthiness and credit history.
-
-**Use and Sharing of Personal Information**  
-We do not disclose non-public personal information about our members or former members, except as permitted by applicable law. Credit Union of Colorado contracts with a variety of third parties to bring you financial services. We disclose information about you as necessary to fulfill these third-party service agreements. For example, we may disclose information to third parties that assist us in printing checks or mailing statements. We may also disclose non-public personal information about you to governmental entities, such as sending annual income statements to the IRS, and to other third parties, such as credit bureaus, or in response to subpoenas.
-
-We may disclose all of the information we collect, as described above, to third parties that perform marketing services on our behalf or to other financial institutions, such as insurance providers, with whom we have joint marketing agreements, in order to make a variety of financial services available to you. In all such instances, we will provide information only to third parties who meet our security and privacy standards, and who agree in writing to strict confidentiality provisions to ensure the protection of your information.
-
-**Web Site Information**  
-Credit Union of Colorado collects standard non-identifying information about visits to its web site, such as date and time our site was accessed; domain name and IP address; web browser used; pages accessed; and city, state and country. Use of this information is restricted to compiling standard statistics that measure the use of the site. Visitors to Credit Union of Colorado’s web site remain anonymous until they choose to provide personal information to access personal account information that Credit Union of Colorado makes available online.
-
-**Online Transactions/E-Mail**  
-After you register for our online services, our data system records certain online information including transactions you conduct online. This data enables us to process and confirm your transactions. When you send us an e-mail, we will retain the content of the e-mail, your e-mail address and our response in order to handle any follow-up questions you may have. We also use it to measure how effectively we address your concerns.
-
-**Cookies**  
-When you visit www.cuofco.org, you can surf the site anonymously and access important information without revealing your identity. In order to improve our site, we use “cookies” to track your visit. A “cookie” is a small amount of data that is transferred to your browser by a web server and can be read only by the server that gave it to you. Our web servers automatically log the IP/Internet address of your computer. We will not request, require or collect personal identifying information about you and you will remain anonymous. We collect non-identifying data about your use of our site so we can improve our site’s usefulness to you.
-
-**Security**  
-We are committed to taking every reasonable precaution to protect individual identifying data you give us. We restrict access to non-public personal information about you to those employees who need to know that information in order to provide service to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your information.
-
-**Accuracy of Personal Information**  
-We put in place reasonable procedures to ensure the accuracy of our records and your personal information. We will correct any inaccurate information as quickly as possible when it is brought to our attention. If you have any questions about the accuracy of your personal information, please call a Credit Union representative, or contact us at www.cuofco.org. We will investigate your issue and update your records as needed. We request that you keep your personal information as current as possible so that you can get the maximum benefit from the Credit Union.
-
-**Protection of Your Children’s Online Privacy**  
-We do not knowingly solicit data from children, and we do not knowingly market to children online without express parental consent or notification. If we receive online information from anyone that we know to be a child, we will use the information only to respond directly to a child’s request. We recognize that protecting children’s identities and privacy online is important and that the responsibility to do so rests with both the online industry and with parents.
-
-**Links to Third-party Web Sites**  
-For your convenience, our web site contains links to third-party web sites, such as sites where you can reorder checks. We provide these links as a service to you. When you click on a link to a third-party web site you leave our web site. You can tell you have left our web site because the address will no longer begin with http://www.cuofco.org, https://www.cuofco.org or https://hb.cuofco.org. We are not responsible for and have no control over the linked web site or its contents, or any links contained in a linked web site, nor do we vouch for the accuracy, privacy or security of the information on the destination server. We are not responsible for the privacy practices of any linked web site, and their privacy and security policies may differ from ours. We are not affiliated with or an agent of any linked web site. We do not represent either the linked web site or the user if the two enter into a transaction.
-
-**Modification**  
-The Credit Union reserves the right to modify, change or amend this Privacy Notice at any time without notice other than as expressly required by applicable law.
+Page 2
+Who we are
+Who is providing this notice?     Credit Union of Colorado
+What we do
+How does Credit Union of Colorado To protect your personal information from unauthorized
+protect my personal information?  access and use, we use security measures that comply with
+                                  federal law. These measures include computer safeguards
+                                  and secured files and buildings.
+How does Credit Union of Colorado We collect your personal information, for example, when you
+collect my personal information?  n Open an account or apply for a loan
+                                  n Pay your bills or use your credit or debit card
+                                  n Deposit money
+                                  We also collect your personal information from others, such
+                                  as credit bureaus, affiliates, or other companies.
+Why can’t I limit all sharing?    Federal law gives you the right to limit only
+                                  n sharing for affiliates’ everyday business purposes -
+                                       information about your creditworthiness
+                                  n affiliates from using your information to market to you
+                                  n sharing for non-affiliates to market to you
+                                  State laws and individual companies may give you
+                                  additional rights to limit sharing.
+Definitions
+Affiliates                        Companies related by common ownership or control. They
+                                  can be financial and nonfinancial companies.
+                                  n Credit Union of Colorado does not share with our
+                                      affiliates.
+Nonaffiliates                     Companies not related by common ownership or control. They
+                                  can be financial and nonfinancial companies.
+                                  n Credit Union of Colorado does not share with
+                                      nonaffiliates so they can market to you.
+Joint marketing                   A formal agreement between nonaffiliated financial
+                                  companies that together market financial products or
+                                  services to you.
+                                  n Our joint marketing partners include insurance providers.
