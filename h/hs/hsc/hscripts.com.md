@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hscripts.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921101631id_/https%3A//www.hscripts.com/license/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hscripts.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315040358id_/https%3A//www.hscripts.com/license/ppolicy.html) for the most accurate reproduction.*
 
 # FREE SCRIPTs, PHP, Perl Tutorials, gif clipart Images, JavaScript, JSP, Ajax, Regex, Adobe Photoshop Tutorial, Linux Commands, Web master Tool : Hscripts.com Privacy Policy
 
