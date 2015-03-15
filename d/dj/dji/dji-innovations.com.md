@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dji-innovations.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107094309id_/http%3A//www.dji.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dji-innovations.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315195150id_/http%3A//www.dji.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | DJI
 
@@ -136,7 +136,7 @@ Marketing| marketing@dji.com
 Press Release| pr@dji.com  
 For Other Inquiries| info@dji.com  
 Tel| +86 0755 26656677   
-Office hours| Monday to Friday , 9:00AM to 6:00PM (HongKong Time GMT+8:00)   
+Office hours| Monday to Friday , 9:00AM to 6:00PM (Hong Kong Time GMT+8:00)   
 Address| 17th Floor, West Wing, Skyworth Semiconductor Design Building,   
 No.18 Gaoxin South 4th Ave, Nanshan District,   
 Shenzhen, China, 518057.
