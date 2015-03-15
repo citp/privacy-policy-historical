@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the meetearnest.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029004937id_/https%3A//www.meetearnest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetearnest.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315033406id_/https%3A//www.meetearnest.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Earnest
 
-## Overview
-
 last updated: 10/16/2014
 
-At Earnest, we believe fairness and transparency are values that are fundamental to finance. That value powers all of the decisions we make, including how we gather and respect your personal information. We've written our policy to be as clear and straightforward as possible to empower and inform you about your privacy while on Earnest's website.
+At Earnest, we believe fairness and transparency are values that are fundamental to finance. That value powers all of the decisions we make, including how we gather and respect your personal information. We’ve written our policy to be as clear and straightforward as possible to empower and inform you about your privacy while on Earnest’s website.
 
 ### Privacy & Security Policy
 
