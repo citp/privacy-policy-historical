@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itnt.co.za privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303180518id_/http%3A//www.itnt.co.za/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itnt.co.za privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315085726id_/http%3A//itnt.co.za/privacypolicy.html) for the most accurate reproduction.*
 
-# In The Net Technologies Privacy Policy
+# ]Privacy Policy | ITNT
 
 ITNT is committed to protecting your privacy. This privacy statement explains data collection and use practices of the ITNT site (the “Site”). By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
 
