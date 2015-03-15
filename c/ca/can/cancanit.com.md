@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancanit.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070137id_/http%3A//cancanit.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancanit.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315030257id_/https%3A//cancanit.com/policy) for the most accurate reproduction.*
 
 # CancanIT Privacy Policy
 
@@ -64,4 +64,4 @@ Also note that Using any part of this Site you agree with the terms in this priv
 
 "Web Beacons" is an object in a web page or e-mail and is usually invisible to the user but allows checking that a user has viewed the page or e-mail.
 
-[Back To Top](http://cancanit.com/policy/#top)
+[Back To Top](https://cancanit.com/policy/#top)
