@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the andhrawishesh.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107145500id_/http%3A//www.andhrawishesh.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andhrawishesh.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020223id_/http%3A//www.andhrawishesh.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Andhrawishesh.com
+# Andhrawishesh Privacy Policy
 
 Wishesh Digital Media Pvt. Ltd. (WISHESH DIGITAL MEDIA) respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users WISHESH DIGITAL MEDIA offers a vast repository of Online Sites and variety of community services. You may read 'About Us' to know more about WISHESH DIGITAL MEDIA.
 
@@ -8,7 +8,7 @@ Most of the Online Community Services are offered for free. The information abou
 
 By using WISHESH DIGITAL MEDIA's website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
 
-## General
+### General
 
 At WISHESH we respect your need for online privacy and protect any information that you may share with us, in an appropriate manner. You can visit most areas of our websites without providing personal information. But, to avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. In some sites as in we may require your contact addresses.
 
@@ -16,7 +16,7 @@ All required information is service dependent and WISHES DIGITAL MEDIA may use t
 
 Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force.
 
-## Information we collect
+### Information we collect
 
 We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from:
 
@@ -24,7 +24,7 @@ When you choose to download we may ask for your name, e-mail id and telephone nu
 
 We use temporary and permanent cookies to enhance the experience on our websites. Temporary cookies will be removed from your computer each time you close your browser. COOKIES. WISHESH lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to WISHESH cookies.
 
-## How we use Information?
+### How we use Information?
 
 Your personal information such as name and email address is used to send you Password reminder and registration confirmation, Special offers, Newsletters, Changes in the service's policy or terms of use and Event based communications such as order information, renewal notices, invites, reminders etc. If you do not wish to receive such newsletters, you can click on the unsubscribe link provided in the newsletter mail or contact us directly. Note: We send users newsletters and updates upon registration. We send newsletters and/or promotional emails on behalf of our alliance partners.
 
@@ -42,18 +42,18 @@ Generally, we use anonymous traffic information to remind us of who you are in o
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria. Other technologies (such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. Our advertising partners include Google Adsense.
 
-  * • Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
-  * • Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * • Users may opt out of the use of the DART cookie by visiting the advertising [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
-  * • If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+  * � Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * � Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * � Users may opt out of the use of the DART cookie by visiting the advertising [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+  * � If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
 
 
-## Links to third party sites
+### Links to third party sites
 
 WISHESH DIGITAL MEDIA includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
 
-## With whom we share Information
+### With whom we share Information
 
 We have partners/affiliates/resellers for specific products or regions. We may share generic aggregated demographic information with our business partners/affiliates/ resellers and advertisers, which is not linked to any personal information that can identify any individual person. We use the services of our enabling partners such as outside shipping companies, resellers, business associates to fulfill orders, and credit card processing companies to process the payment for goods and services ordered from WISHESH DIGITAL MEDIA portals and services. These entities do not retain, store, share or use personally identifiable information for any other purposes.
 
@@ -61,15 +61,17 @@ Your name and email address may occasionally be shared with our business partner
 
 We reserve the right to disclose your personally identifiable and email address information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site and when it is requested or required by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations
 
-## How secure is your Information?
+### How secure is your Information?
 
 We adopt appropriate data collection, storage and processing practices and security measures, as well as physical security measures to protect against unauthorized access, alteration, disclosure or destruction of your Personal Information. Access to your personal information is restricted to our employees, and where applicable, contractors, business partners, affiliates and resellers who need to know such information in connection with our products and are bound by confidentiality obligations.
 
 All information gathered on WISHESH DIGITAL MEDIA is securely stored within the WISHESH DIGITAL MEDIA controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
 
+If you have any questions about our security practices, please send an email to us at 
+
 If you have any questions about our security practices, please send an email to us at [info@andhrawishesh.com](mailto:info@andhrawishesh.com)
 
-## Enforcement of Privacy Policy
+### Enforcement of Privacy Policy
 
 We make every effort including periodic reviews to ensure that personal information provided by you is used in conformity with this privacy policy. If you have any concerns regarding our adherence to this policy or the manner in which personal information is used on our websites, kindly contact WISHESH DIGITAL MEDIA Support Services at [info@andhrawishesh.com](mailto:info@andhrawishesh.com) or write to the following address:
 
