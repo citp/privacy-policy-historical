@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the caspersleep.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701053252id_/https%3A//caspersleep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caspersleep.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315024753id_/https%3A//casper.com/privacy) for the most accurate reproduction.*
 
-# Casper - The Mattress Reimagined
+# Privacy Policy | Casper — Sleep Reimagined
 
 Effective Date of Current Policy: April 1st, 2014
 
 By using our Services, you agree to the use, disclosure and procedures this Privacy Policy describes. Please note that this Privacy Policy does not apply to third party websites ("Third Party Services"), such as Facebook, Twitter, Pinterest, Instagram and Google+, that we do not own or control, even if you access them through the Services. We try to only work with Third Party Services that share our respect for your privacy, but we cannot take responsibility for their practices, content, or privacy policies. We encourage you to carefully review the privacy policies of any Third Party Services you access so that you know how they will use and share your information.
 
-If you have any questions, please reach out to us at privacy@caspersleep.com.
+If you have any questions, please reach out to us at privacy@casper.com.
 
 The information we collect from you falls into two categories: personally identifiable information ("Personal Information") and non-personally identifiable information (i.e., information that cannot be used to identify who you are) ("Non-Personal Information"). This Privacy Policy covers both types and will tell you how we might collect and use each.
 
@@ -34,7 +34,7 @@ We may also collect some of the following Non-Personal Information from you:
   * in-store and near-store mobile device wireless signature information (such as a MAC address), which we use solely on an anonymous basis, as described below
   * other non-personally identifiable traffic data
 
-Children's Information. We are especially sensitive about children's information. We do not knowingly collect information from children under the age of 13, in accordance with the Children's Online Privacy Protection Act ("COPPA"). If you are a parent or legal guardian of a minor child, you may use the Services on behalf of such minor child. We will treat any information that you provide us while using the Services on behalf of your minor child as Personal Information as otherwise provided in this Privacy Policy. If you have questions concerning our information practices with respect to children, or if after a transaction, you would like to review, have deleted, or stop the further collection of your child's Personal Information, please email us at privacy@caspersleep.com.
+Children's Information. We are especially sensitive about children's information. We do not knowingly collect information from children under the age of 13, in accordance with the Children's Online Privacy Protection Act ("COPPA"). If you are a parent or legal guardian of a minor child, you may use the Services on behalf of such minor child. We will treat any information that you provide us while using the Services on behalf of your minor child as Personal Information as otherwise provided in this Privacy Policy. If you have questions concerning our information practices with respect to children, or if after a transaction, you would like to review, have deleted, or stop the further collection of your child's Personal Information, please email us at privacy@casper.com.
 
 
 
@@ -117,4 +117,4 @@ Through your account settings, you may access, and, in some cases, edit or delet
 
 
 
-The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating your information, please contact us at privacy@caspersleep.com. If you are a California resident, you also get the ability to ask us for a notice identifying the categories of Personal Information we share with our affiliates and/or third parties for marketing purposes and the contact information for such affiliates and/or third parties (under California Civil Code Sections 1798.83-1798.84). If you are a California resident and would like a copy of this notice, please submit a written request to privacy@caspersleep.com.
+The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating your information, please contact us at privacy@casper.com. If you are a California resident, you also get the ability to ask us for a notice identifying the categories of Personal Information we share with our affiliates and/or third parties for marketing purposes and the contact information for such affiliates and/or third parties (under California Civil Code Sections 1798.83-1798.84). If you are a California resident and would like a copy of this notice, please submit a written request to privacy@casper.com.
