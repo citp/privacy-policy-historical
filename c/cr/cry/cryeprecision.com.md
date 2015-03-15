@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryeprecision.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020220745id_/http%3A//www.cryeprecision.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryeprecision.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010302id_/http%3A//www.cryeprecision.com/Privacy) for the most accurate reproduction.*
 
 # Crye Precision
 
