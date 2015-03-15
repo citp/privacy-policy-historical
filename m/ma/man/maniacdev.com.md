@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maniacdev.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927002744id_/http%3A//maniacdev.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maniacdev.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315213829id_/https%3A//maniacdev.com/privacy) for the most accurate reproduction.*
 
 # Privacy | iOS App Dev Libraries, Controls, Tutorials, Examples and Tools
 
@@ -46,7 +46,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://maniacdev.com](http://maniacdev.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://maniacdev.com](https://maniacdev.com/)
 
 **Your Consent**
 
