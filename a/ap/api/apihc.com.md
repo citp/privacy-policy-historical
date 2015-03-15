@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apihc.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814084044id_/http%3A//apihc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apihc.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315102238id_/http%3A//apihc.com/privacy-policy) for the most accurate reproduction.*
 
-# API Healthcare | Healthcare Staffing Software | Privacy Policy
+# Privacy Policy | API Healthcare
 
 #### Privacy Policy
 
