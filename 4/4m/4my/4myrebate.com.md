@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4myrebate.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925144710id_/https%3A//www.4myrebate.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4myrebate.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315030903id_/https%3A//www.4myrebate.com/Home/Privacy) for the most accurate reproduction.*
 
 # Rebate Privacy Statement
 
