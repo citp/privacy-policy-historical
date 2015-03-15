@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panjo.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630125457id_/http%3A//panjo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panjo.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315053825id_/http%3A//panjo.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,7 +12,7 @@ We may display advertisements on our Website. By knowing a little about you, we 
 
 * #### Newsletters, Promotional E-mails and Personalized On-line Advertisements
 
-We may offer newsletters, promotional e-mails, and personalized on-line advertisements as a service to our customers. We may send you newsletters and e-mails periodically listing current special Listing Items. You may "opt-out," or unsubscribe from our newsletters, emails, or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter, or personalized on-line advertisement you receive from us, or by sending an e-mail to info@panjo.com and asking to opt out. Opting out may take up to six weeks to remove you from the database. If you have opted out of receiving all newsletters, all promotional emails, or all personalized on-line advertisements, you will not receive future promotional emails, newsletters or personalized on-line advertisements (as applicable), unless you otherwise subsequently sign up to receive newsletters, emails, or personalized on-line advertisements. Please Note: If you receive e-mails separately from third-party merchants, then all information that you choose to disclose to them will be subject to their privacy policy, terms of use, and opt- out procedures.
+We may offer newsletters, promotional e-mails, and personalized on-line advertisements as a service to our customers. We may send you newsletters and e-mails periodically listing current special Listing Items. You may "opt-out," or unsubscribe from our newsletters, emails, or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter, or personalized on-line advertisement you receive from us, or by sending an e-mail to support@panjo.com and asking to opt out. Opting out may take up to six weeks to remove you from the database. If you have opted out of receiving all newsletters, all promotional emails, or all personalized on-line advertisements, you will not receive future promotional emails, newsletters or personalized on-line advertisements (as applicable), unless you otherwise subsequently sign up to receive newsletters, emails, or personalized on-line advertisements. Please Note: If you receive e-mails separately from third-party merchants, then all information that you choose to disclose to them will be subject to their privacy policy, terms of use, and opt- out procedures.
 
 * #### Tracking Usage
 
@@ -50,7 +50,7 @@ As discussed above, you can always choose not to provide information, although i
 
 As a condition of creating a User Account and Profile with Panjo, we may on occasion send you Administrative and Promotional emails. We will send you information regarding your account activity, purchases, as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. "Administrative Emails" relate to a User's activity on the Website, and include emails regarding a particular User's account, requests or inquiries, and purchases of Listing Items.
 
-You may, however, opt out of Promotional Emails. Promotional Emails advertise Listing Items including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at info@panjo.com or by hitting the "unsubscribe" button at the bottom of any of our e-mails, or by opting out of Promotional Emails within your User Account.
+You may, however, opt out of Promotional Emails. Promotional Emails advertise Listing Items including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at support@panjo.com or by hitting the "unsubscribe" button at the bottom of any of our e-mails, or by opting out of Promotional Emails within your User Account.
 
 * #### Acceptance of Terms
 
