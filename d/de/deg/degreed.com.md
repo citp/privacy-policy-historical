@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreed.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025090926id_/https%3A//degreed.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreed.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043300id_/https%3A//degreed.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Degreed
 
