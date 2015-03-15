@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learntoblog.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630075307id_/http%3A//learntoblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learntoblog.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315152059id_/http%3A//learntoblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Learn To Blog
 
@@ -66,9 +66,9 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [LearnToBlog.com](http://learntoblog.com/)  
 [http://learntoblog.com](http://learntoblog.com/)  
-25060 Hancock Avenue  
-Ste. B103 #212  
-Murrieta, CA 92563  
+27186 Newport Road  
+Suite #2  
+Menifee, CA 92584  
 support@learntoblog.com
 
-This document was last updated on March 29, 2013
+This document was last updated on September 17th, 2014
