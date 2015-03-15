@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diybookcovers.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219094147id_/http%3A//diybookcovers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diybookcovers.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315163148id_/http%3A//diybookcovers.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | DIY Book Cover Templates
+# Privacy Policy
 
 ### Privacy Policy
 
@@ -22,7 +22,7 @@ Creativindie discloses potentially personally-identifying and personally-identi
 
 ### Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Creativindie uses cookies to help Creativindie identify and track visitors, their usage of Creativindie website, and their website access preferences. Creativindie visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Creativindie’s websites, with the drawback that certain features of Creativindie’s websites may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Creativindie uses cookies to help Creativindie identify and track visitors, their usage of Creativindie website, and their website access preferences. Creativindie visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Creativindie's websites, with the drawback that certain features of Creativindie’s websites may not function properly without the aid of cookies.
 
 ### Business Transfers
 
@@ -30,4 +30,4 @@ If Creativindie, or substantially all of its assets were acquired, or in the unl
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, Creativindie may change its Privacy Policy from time to time, and in Creativindie’s sole discretion. Creativindie encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Creativindie account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Creativindie will constitute your acceptance of such change.
+Although most changes are likely to be minor, Creativindie may change its Privacy Policy from time to time, and in Creativindie's sole discretion. Creativindie encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Creativindie account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Creativindie will constitute your acceptance of such change.
