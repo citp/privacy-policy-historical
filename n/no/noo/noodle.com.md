@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noodle.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215021708id_/http%3A//www.noodle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodle.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022842id_/https%3A//www.noodle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Noodle
 
@@ -6,9 +6,9 @@
 
 Welcome to Noodle Education, Inc. (“Noodle” or “we” or “us”). Noodle is dedicated to giving students, parents and educators access to a comprehensive network of information to enable the discovery of educational opportunities at every stage of learning. 
 
-Because Noodle values your privacy, we have created this Privacy Policy to explain how we collect information from and about you when you use the Noodle Services (as defined in our [Terms of Service](https://web.archive.org/web/20141215021708id_/http%3A//www.noodle.com/www.noodle.com/terms-of-service)) and how we may disclose and use that information.
+Because Noodle values your privacy, we have created this Privacy Policy to explain how we collect information from and about you when you use the Noodle Services (as defined in our [Terms of Service](https://web.archive.org/web/20150315022842id_/https%3A//www.noodle.com/www.noodle.com/terms-of-service)) and how we may disclose and use that information.
 
-This Privacy Policy applies to all users of the Noodle Services, including, without limitation, all users designated as Experts (as defined in our [Terms of Service](https://web.archive.org/web/20141215021708id_/http%3A//www.noodle.com/www.noodle.com/terms-of-service)) by Noodle, and whether a user has registered for an account with the Noodle Services or not. This Privacy Policy applies to Noodle’s collection and use of personally identifiable information, which is information that can be used to identify or contact a specific person, such as a full name or email address, as well as our practices for handling non-personally identifiable information, such as user preferences and services usage information.
+This Privacy Policy applies to all users of the Noodle Services, including, without limitation, all users designated as Experts (as defined in our [Terms of Service](https://web.archive.org/web/20150315022842id_/https%3A//www.noodle.com/www.noodle.com/terms-of-service)) by Noodle, and whether a user has registered for an account with the Noodle Services or not. This Privacy Policy applies to Noodle’s collection and use of personally identifiable information, which is information that can be used to identify or contact a specific person, such as a full name or email address, as well as our practices for handling non-personally identifiable information, such as user preferences and services usage information.
 
 By visiting the Noodle Services, you agree to the terms and conditions of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please leave this site immediately and do not use or access the Noodle Services.
 
