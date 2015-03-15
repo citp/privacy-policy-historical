@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopgate.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819161250id_/http%3A//www.shopgate.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopgate.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014321id_/https%3A//www.shopgate.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Shopgate, privacy policy
 
