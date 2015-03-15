@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashampoo.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219075441id_/https%3A//www.ashampoo.com/en/usd/ppy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashampoo.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315070430id_/https%3A//www.ashampoo.com/en/usd/ppy) for the most accurate reproduction.*
 
 # Ashampoo® - Company - Privacy Policy
 
@@ -104,7 +104,8 @@ In order to avoid that Facebook collects information on your visits to our websi
 
 **Instructions on how to delete cookies for the most common browsers:**
 
-  * Microsoft Internet Explorer 7/8: [Instructions](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies)
+  * Microsoft Internet Explorer 7: [Instructions](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies)
+  * Microsoft Internet Explorer 8 or above: [Instructions](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11)
   * Mozilla Firefox: [Instructions](http://support.mozilla.com/en-US/kb/Deleting%20cookies)
   * Google Chrome: [Instructions](http://www.google.com/support/chrome/bin/answer.py?hlrm=de&answer=95647)
   * Apple Safari: [Instructions](http://docs.info.apple.com/article.html?path=Safari/3.0/en/11471.html)
@@ -136,12 +137,12 @@ Back to top
 
 ## Right of access to personal data
 
-You have the right to be informed about stored data pertaining to your person, the origin and recipients of such data and the reason why this data was collected and stored. Information will be provided by our data protection advisor **Sebastian Strzelecki** , privacy@ashampoo.com. 
+You have the right to be informed about stored data pertaining to your person, the origin and recipients of such data and the reason why this data was collected and stored. Information will be provided by our data protection advisor privacy@ashampoo.com. 
 
 We maintain physical, electronical and procedural safety measures in connection with the collection, storage and disclosure of personal information about our customers. These safety measures include occasionally asking you to provide proof of your identity before we disclose personal data to you. Back to top   
 
 
 ## Further information
 
-Your trust is important to us. Thus we are always ready to answer your questions about the handling of your personal data. If, at any time, you have questions that this privacy policy could not answer or if you wish to receive more specific information about certain issues, please contact our data protection advisor **Sebastian Strzelecki** , privacy@ashampoo.com. Back to top   
+Your trust is important to us. Thus we are always ready to answer your questions about the handling of your personal data. If, at any time, you have questions that this privacy policy could not answer or if you wish to receive more specific information about certain issues, please contact our data protection advisor privacy@ashampoo.com. Back to top   
 
