@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatshop24.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626085407id_/http%3A//search.boatshop24.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatshop24.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010014id_/http%3A//search.boatshop24.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # 
 
