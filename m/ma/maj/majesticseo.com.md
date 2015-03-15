@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the majesticseo.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010001558id_/http%3A//www.majesticseo.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majesticseo.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022916id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Majestic
 
 Majestic-12 Limited (company registered number 05269210) ( **We or us** ), are committed to protecting and respecting your privacy.  
 
 
-This policy (together with our [terms of use](https://web.archive.org/support/terms#termsofuse) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.  
+This policy (together with our [terms of use](https://web.archive.org/support/terms#termsofuse) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting majestic.com, majesticseo.com or majestic12.co.uk (or any associated sub-domains) ( **our sites** ), or taking out any form of subscription with us, you are accepting and consenting to the practices described in this policy.   
 
 
 For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Majestic-12 Limited of Birmingham Science Park Aston, Faraday Wharf, Holt Street, Birmingham, United Kingdom, B7 4BB.   
@@ -15,7 +15,7 @@ For the purpose of the Data Protection Act 1998 (the **Act** ), the data control
 
 We may collect and process the following data about you: 
 
-  * Information that you provide by filling in forms on our sites (including majestic.com, majesticseo.com and majestic12.co.uk (and any associated sub-domains)) ( **our sites** ). This includes information provided at the time of registering to use our sites, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our sites.
+  * Information that you provide by filling in forms on our sites. This includes information provided at the time of registering to use our sites, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our sites.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
   * Details of transactions you carry out through our sites and of the fulfilment of your orders. 
