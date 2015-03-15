@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couchtuner.ch privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018191514id_/http%3A//couchtuner.ch/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couchtuner.ch privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014601id_/http%3A//www.couchtuner.ch/privacy-policy) for the most accurate reproduction.*
 
 # Watch Privacy Policy Online Streaming | CouchTuner FREE
 
