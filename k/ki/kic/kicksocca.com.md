@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kicksocca.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909184035id_/http%3A//kicksocca.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kicksocca.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020938id_/https%3A//kicksocca.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Kick Socca - Kick Socca
 
@@ -128,6 +128,6 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 Your friend may contact us to request that we remove this information from our database.
 
-If you have questions regarding this Privacy Statement, please [Contact us](https://web.archive.org/web/20140909184035id_/http://kicksocca.com/privacy/contact-us/).
+If you have questions regarding this Privacy Statement, please [Contact us](https://web.archive.org/web/20150315020938id_/https://kicksocca.com/privacy/contact-us/).
 
 * * *
