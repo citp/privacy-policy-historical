@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adestra.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702090208id_/http%3A//www.adestra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adestra.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315015605id_/http%3A//www.adestra.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Adestra
+# Privacy Policy - Adestra
 
 Adestra is an email service provider who offer marketing and web application services to our clients. Adestra aims to be a highly respected email service provider and with that, is committed to privacy and the responsible use of email marketing.
 
