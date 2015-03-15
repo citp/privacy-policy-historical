@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the menufy.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922003852id_/http%3A//menufy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menufy.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315062109id_/http%3A//menufy.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Menufy
+# Privacy Policy - Menufy
 
 ### What information do we collect?
 
@@ -47,9 +47,9 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-### Children’s Online Privacy Protection Act Compliance
+### Children's Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 ### Online Privacy Policy Only
 
@@ -65,10 +65,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-1310 N 78th Terrace, #12835  
-Kansas City, KS 66112
-
-Phone: (913) 735-3583  
-Fax: (866) 347-8859
+If there are any questions regarding this privacy policy please [contact us](https://web.archive.org/contact).
