@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopmetrics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060134id_/http%3A//shopmetrics.com/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmetrics.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025013id_/https%3A//www.shopmetrics.com/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
