@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitfluential.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134533id_/http%3A//fitfluential.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitfluential.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315071655id_/http%3A//fitfluential.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - FitFluential
 
 Privacy Policy Statement  
 This is the web site of FitFluential LLC.
@@ -23,5 +23,3 @@ With respect to Ad Servers: To try and bring you offers that are of interest to
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
 For any additional information, please contact FitFluential at the above email address.
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Ffitfluential.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
