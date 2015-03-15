@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the graphene-info.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625230624id_/http%3A//www.graphene-info.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphene-info.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011906id_/http%3A//www.graphene-info.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Graphene-Info
 
 At Graphene-Info.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Graphene-Info.com, and how we safeguard your information. We never sell your personal information to third parties.
 
