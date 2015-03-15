@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hdfcbanksmartapply.com privacy policy that was archived on 2014-07-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140704000719id_/https%3A//www.hdfcbanksmartapply.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hdfcbanksmartapply.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315034112id_/https%3A//www.hdfcbanksmartapply.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -25,6 +25,9 @@
 </script>
 
 
+</head><body onunload=""><div id="ajax-content">
+</div>
+
 <script type="text/javascript">
     // Javascript Ajax support implementation
 
@@ -44,6 +47,14 @@
         }
         return false;
     }
+
+    function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
+
     window.onerror = function(msg, url, linenumber) {
         var errdt = new Date();
         // Ajax get call implemented in javascript as jquery libraries would not be loaded before this call
@@ -71,10 +82,39 @@
     var st = new Date();
     var loc = escape(window.location);
     var ctx = "/";
-    var unique_id = "U7XwOH8AAQEAAGSsP6sAAAAT";
-    var start_time = "1404432440460514";
+    var unique_id = "null";
+    var start_time = "";
     var req = ctx + "images/started.gif?id=" + unique_id + "&t=" + start_time;
     getNewImage().src = req;
+
+    
+    function firePixel() {
+        setTimeout(function() {
+            var request = getXmlHttpRequestObject();
+            request.open('GET', url);
+            request.setRequestHeader('BB_Referer', document.referrer);
+            request.setRequestHeader('Framed_Page', self.location.href);
+            request.onreadystatechange = function (data) {
+                if (request.readyState == 4 && request.status == 200) {
+                    var logType = 'PAGE_FRAMED';
+                    var pagehitTime = new Date().getTime(); //so that image doesnt get cached in browser
+                    var pagehitreq = ctx + "images/pageframed.gif?&logType=" + logType + "&t=" + pagehitTime + "&BB_Referer=" + document.referrer + "&Framed_page=" + self.location.href;
+                    getNewImage().src = pagehitreq;
+                }
+            }
+            request.send();
+        }, 1000);
+    }
+    function showErrorPage() {
+        if ( self != top ) {
+            firePixel();
+            $('body').html($('#errorPage').html());
+        }
+    }
+    window.onload = function() {
+        showErrorPage();
+    };
+
 </script>
 <title>Privacy Commitment</title>
     <!-- HTTP 1.1 -->
@@ -86,13 +126,13 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="/images/favicon.ico" type="image/x-icon" rel="shortcut icon">
 
-<link rel="stylesheet" type="text/css" media="screen" href="https://d348z50i2vdtcc.cloudfront.net/N86522823/bundles/main.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://d348z50i2vdtcc.cloudfront.net/N1149769254/bundles/main.css">
 <!--[if IE]>
 <link rel="stylesheet" type="text/css" media="screen" href="https://d348z50i2vdtcc.cloudfront.net/1474426547/bundles/ie.css" />
 <![endif]-->
 
-</head>
-<body>
+
+
 <div id="wrapper">
     <div id="page" class="landing">
         <div id="page_holder">
@@ -102,10 +142,10 @@
                 <div class="navigation selectednav">
                     <ul id="mainmenu">
                         <li class="personalloan"><a href="/personal-loan/compare-interest-rates.html">Personal Loans</a></li>
-                        <li class="consumerdurableloan"><a href="/consumer-durable-loan/compare-interest-rates.html">Consumer Durable Loans</a></li>
+                        <li class="businessloan"><a href="/business-loan/compare-interest-rates.html">Business Loans</a></li>
                         <li class="carloan"><a href="/car-loan/compare-interest-rates.html">Car Loans</a></li>
                         <li class="creditcards"><a href="/credit-card/apply-online.html">Credit Cards</a></li>
-                        <li class="twowheelerloan"><a href="/two-wheeler-loan/compare-interest-rates.html">Two Wheeler Loans</a></li>
+                        <li class="twowheelerloan"><a href="/two-wheeler-loan/compare-interest-rates.html">Super Bikes &amp; Two Wheeler Loans</a></li>
                         <li class="account"><a href="/myaccount.html">Your Applications</a></li>
                         <li class="track_app"><a href="/verifyOwnershipForm.html">Track Application Status</a></li>
                     </ul>
@@ -156,14 +196,14 @@
             <div id="hdfcBBLogo"><span class="gb powered-by" title="Powered by bankbazaar.com"></span></div>
             <div class="footer">
 	<div class="footer_content">
-	    <span class="float_right gb verisign lazy-load {src:'/security-seals.html'}"></span><span class="copy">© 2014 HDFC Bank Ltd. All rights reserved.
+	    <span class="float_right gb verisign lazy-load {src:'/security-seals.html'}"></span><span class="copy">© 2015 HDFC Bank Ltd. All rights reserved.
             <a href="/privacy-policy.html" target="_blank">Privacy</a> | <a href="/website-usage.html" target="_blank">Website Usage Terms</a></span>
 	</div>
 </div></div>
     </div>
 </div>
 
-<input type="hidden" name="website" value="HDFC_WHITELABEL" id="website"><script type="text/javascript" src="/1403878425349/jawr_loader.js"></script>
+<input type="hidden" name="website" value="HDFC_WHITELABEL" id="website"><script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/1426272985863/jawr_loader.js"></script>
 <script type="text/javascript">
     JAWR.loader.getURLs = function (path, ptype) {
         var paths = [];
@@ -201,15 +241,59 @@
         return paths;
     }
 
-</script><input type="hidden" name="isTrackingRequired" value="false" id="isTrackingRequired"><script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/70511630/bundles/site-wide.js"></script>
-<script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/1394798785/bundles/site-wide-lazy.js"></script>
-<input type="hidden" name="" value="3F475E85E5EEEC67C06097F813506180.hdfc2" id="sessionId"><input type="hidden" name="" value="" id="propertyCity"><input type="hidden" name="" value="" id="mcIdVal"><script type="text/javascript">
-isMobileReceived = 'false';
-mcId = "";
-product = '';
-pTypeId = '97';
-</script>
+</script><script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/1426272985863/jawr_loader.js"></script>
 <script type="text/javascript">
+    JAWR.loader.getURLs = function (path, ptype) {
+        var paths = [];
+        var type = ptype;
+        if (ptype == null) {
+            type = 'js';        //settting JS as default type
+        }
+        var bundles = [];
+        if (type.toString().toLowerCase() == 'css') {
+            bundles = this.cssbundles;
+        }
+        if (type.toString().toLowerCase() == 'js') {
+            bundles = this.jsbundles
+        }
+        var mappingToUse = this.mapping;
+        for (var x = 0; x < bundles.length; x++) {
+            var bundle = bundles[x];
+            if (bundle.belongsToBundle(path) && !this.usedBundles[bundle.name]) {
+                this.usedBundles[bundle.name] = true;
+                var pathtoRender;
+                if (isJawrDebug() && isDevelopmentEnv()) {
+                    pathtoRender = bundle.itemPathList;
+                    paths = paths.concat(pathtoRender);
+                } else {
+                    pathtoRender = bundle.alternateProductionURL ? bundle.alternateProductionURL : this.normalizePath(mappingToUse + '/' + bundle.prefix + bundle.name);
+                    if (typeof pathtoRender != undefined) {
+                        /*Replacing both http and https to use // to use the page's security  protocol*/
+                        pathtoRender = pathtoRender.replace(/http:\/\//gi, "//");
+                        pathtoRender = pathtoRender.replace(/https:\/\//gi, "//");
+                        paths.push(pathtoRender);
+                    }
+                }
+            }
+        }
+        return paths;
+    }
+
+</script><input type="hidden" name="isTrackingRequired" value="false" id="isTrackingRequired"><script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/7052969/bundles/site-wide.js"></script>
+<script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/2131599215/bundles/site-wide-lazy.js"></script>
+<script type="text/javascript">
+if ((/iphone|ipod|ipad.*os 5/gi).test(navigator.appVersion)) {
+  window.onpageshow = function(evt) {
+    // If persisted then it is in the page cache, force a reload of the page.
+    if (evt.persisted) {
+      document.body.style.display = "none";
+      location.reload();
+    }
+  };
+}
+</script>
+
+<input type="hidden" name="" value="" id="propertyCity"><input type="hidden" name="" value="P4_PrdPg_PromoBnr-L_DirectPayPg_PL" id="mcIdVal"><input type="hidden" name="" value="false" id="isMobileReceived"><input type="hidden" name="" value="P4_PrdPg_PromoBnr-L_DirectPayPg_PL" id="mcId"><input type="hidden" name="" value="97" id="pTypeId"><script type="text/javascript">
 
     function openWindow(link) {
         _gaq.push(function() {
@@ -242,7 +326,7 @@ pTypeId = '97';
     }
 </script>
 <noscript>
-    <img src="//d348z50i2vdtcc.cloudfront.net/images/no-javascript.gif" alt="JS is not enabled in browser"/>
+    <img src="https://d348z50i2vdtcc.cloudfront.net/images/no-javascript.gif" alt="JS is not enabled in browser"/>
 </noscript>
 
 
@@ -278,8 +362,19 @@ pTypeId = '97';
         }
     });
 
+    window.onpageshow = function(event) {
+        if (event.persisted) {
+            window.location.reload()
+        }
+    };
+
 </script>
-<input type="hidden" name="mobileReceivedCheck" value="false" id="mobileReceivedCheck"><input type="hidden" name="mobileProductNameSpace" value="" id="mobileProductNameSpace"><input type="hidden" name="productNameSpace" value="" id="productNameSpace"><input type="hidden" name="stage" value="prod" id="stageValue"><input type="hidden" name="jawrDebug" value="" id="jawrDebug"><input type="hidden" name="mobilePixelSession" value="3F475E85E5EEEC67C06097F813506180.hdfc2" id="tyrooSession"><input type="hidden" name="mobilePropertyCity" value="" id="mobilePropertyCity"><input type="hidden" name="website" value="HDFC_WHITELABEL" id="global_website"><input type="hidden" name="variantOptions" value="" id="variantOptions"><div class="dontshow">
+
+<div class="dontshow">
+
+        f28yewHTCRqa5tc - pingdom check string.
+    </div>
+<input type="hidden" name="mobileReceivedCheck" value="false" id="mobileReceivedCheck"><input type="hidden" name="mobileProductNameSpace" value="" id="mobileProductNameSpace"><input type="hidden" name="productNameSpace" value="" id="productNameSpace"><input type="hidden" name="stage" value="prod" id="stageValue"><input type="hidden" name="jawrDebug" value="" id="jawrDebug"><input type="hidden" name="mobilePropertyCity" value="" id="mobilePropertyCity"><input type="hidden" name="website" value="HDFC_WHITELABEL" id="global_website"><input type="hidden" name="variantOptions" value="" id="variantOptions"><input type="hidden" name="cdnDomain" value="https://d348z50i2vdtcc.cloudfront.net" id="cdnDomain"><input type="hidden" name="isBootstrapPage" value="" id="isBootstrapPage"><input type="hidden" name="mobileSite" value="false" id="mobileSite"><input type="hidden" name="" value="false" id="internalAccess"><input type="hidden" name="" value="false" id="offlineChannel"><div class="dontshow">
     </div>
 
 
