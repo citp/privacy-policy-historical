@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blacked.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629212108id_/https%3A//www.blacked.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacked.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315150643id_/https%3A//www.blacked.com/privacy) for the most accurate reproduction.*
 
-# BLACKED.com
+# Privacy Policy : BLACKED.com
 
 PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT.
 
