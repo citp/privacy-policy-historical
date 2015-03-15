@@ -1,25 +1,44 @@
-> *The following text is extracted and transformed from the idesigneco.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926200444id_/http%3A//idesigneco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idesigneco.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315080919id_/http%3A//idesigneco.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iDesignEco
+# Privacy Policy | iDesignEco.com
 
-iDesignEco Incorporated, referred to in this document as (“iDesignEco “).
+This Privacy Policy governs the manner in which idesigneco.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the idesigneco.com website (“Site”). This privacy policy applies to the Site and all products and services offered by idesigneco.com.
 
-IDesignEco respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site IDesignEco.com. We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This
+**Personal identification information**  
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Policy is incorporated into and subject to the Terms of Service (“TOS”) Agreement found at Terms of Service.
+**Non-personal identification information**  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-IDesignEco does NOT trade, rent or sell your personal information to any other organization or third party.
+**Web browser cookies**  
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-This Policy describes our general principles for the collection and use of information from customers and visitors to our Web sites. We want to ensure that you understand how we will and will not use the information you entrust to us. In order to fully understand your rights we encourage you to read this Policy.
+**How we use collected information**  
+idesigneco.com may collect and use Users personal information for the following purposes:  
+– To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+– To improve our Site  
+We may use feedback you provide to improve our products and services.  
+– To send periodic emails  
+We may use the email address to respond to their inquiries, questions, and/or other requests.
 
-For visitors, we’ve structured our Web sites so that, in general, you can visit us on Web without identifying yourself or revealing any personal information.
+**How we protect your information**  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-For prospective and existing customers and partners, once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with IDesignEco.
+**Sharing your personal information**  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-IDesignEco has security measures in place to help prevent the loss, misuse and alteration of the information under our control. When you place an order online, your information, including your credit card number, is protected using Secure Socket Layer (SSL) encryption technology. This encrypts order data and is designed to aid in ensuring the accuracy and security of that customer information.
+**Third party websites**  
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-IDesignEco does not sell products or services for purchase by children. Customers must be at least 18 years of age. Any individual under the age of 18 (.Minor.) must have a parent or guardian accept the TOU in order for the Minor to become a Customer. If you are under 18, we strongly encourage you to use our Web site only with the involvement of a parent or guardian.
+**Advertising**  
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-IDesignEco reserves the right to change this Policy simply by posting such changes on our site. We encourage you to periodically check our site for changes to this Policy since your continued use of the site following any changes to this Policy will be deemed to constitute your acceptance of such change. The operative and effective version of this Policy will be the latest version available on the site.
+**Changes to this privacy policy**  
+GreenPage.sg has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-If you have questions or concerns regarding this Policy, you should contact us by email at support@IDesignEco.com
+**Your acceptance of these terms**  
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: idesigneco.com
