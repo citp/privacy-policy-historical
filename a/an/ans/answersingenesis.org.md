@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the answersingenesis.org privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007203408id_/https%3A//answersingenesis.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answersingenesis.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315044210id_/https%3A//answersingenesis.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Answers in Genesis
 
@@ -90,7 +90,7 @@ Back to Top
 
 ## Maintenance of Information
 
-If your personally identifiable information changes (such as zip code, phone, email, or postal address), or if you no longer desire to receive email updates etc., we provide a way to correct, update, or delete/deactivate such information. [Click here to update your physical address](https://www.answersingenesis.org/feedback/sendmail.aspx?TopicID=ChangeOfAddress). [Click here to update your email address for newsletters](https://www.answersingenesis.org/us/newsletters/signup.asp). To remove yourself from any email lists, click on the unsubscribe link that is at the bottom of every email you receive from us.
+If your personally identifiable information changes (such as zip code, phone, email, or postal address), or if you no longer desire to receive email updates etc., we provide a way to correct, update, or delete/deactivate such information. [Click here to update your physical address](https://web.archive.org/feedback/sendmail.aspx?TopicID=ChangeOfAddress). [Click here to update your email address for newsletters](https://web.archive.org/newsletters/). To remove yourself from any email lists, click on the unsubscribe link that is at the bottom of every email you receive from us.
 
 Back to Top
 
@@ -102,11 +102,11 @@ Back to Top
 
 ## Contact Information
 
-If you have questions or concerns about any information on this page, please feel free to [contact us](http://www.answersingenesis.org/feedback/sendmail.aspx?TopicID=inquiries).
+If you have questions or concerns about any information on this page, please feel free to [contact us](https://web.archive.org/feedback/sendmail.aspx?TopicID=inquiries).
 
 View our [GuideStar](http://www.guidestar.org/organizations/33-0596423/answers-genesis-kentucky.aspx) ministry information profile.
 
-View our [2012 Annual Report](https://cdn-assets.answersingenesis.org/doc/about/2012-annual-report.pdf) (PDF).
+View our [2014 Annual Report](https://cdn-assets.answersingenesis.org/doc/articles/about/annual-report-2014.pdf) (PDF).
 
 For more information, see our [Published Content Use Policy and Guidelines](https://web.archive.org/about/use-policy/) and [Statement of Accountability](https://web.archive.org/about/soa/). 
 
