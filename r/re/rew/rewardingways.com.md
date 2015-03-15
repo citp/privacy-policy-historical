@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709064455id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315034336id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
 
 # Rewarding Ways - Privacy
+
+For Regular Cash Promo Codes, Contests and more, follow us on Facebook......
 
   
 
@@ -26,9 +28,7 @@ We recommend that all users enable cookies in their internet browsers in order t
 
 You must be logged in to post messages. 
 
-MEMBERS| 166457  
+MEMBERS| 186335  
 ---|---  
-ONLINE|  33  
-PAYMENTS| $174,642.84  
-  
-[](http://www.rewardingways.com/banner/bannerClick.php?bid=86)
+ONLINE|  28  
+PAYMENTS| $201,478.21
