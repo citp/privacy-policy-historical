@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080748id_/https%3A//www.canadadrugs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025726id_/https%3A//www.canadadrugs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Our Canadian Pharmacy Online Policies - Canada Drugs
+
+  * Menu 
+  * Basket  (0 items) 
+  * 
+
+
+Please take a moment to complete a secure and anonymous survey to assist the RxRights.com organization in keeping personal importation available for all those in need of affordable healthcare: [ Start Survey ](https://www.surveymonkey.com/r/RxRights)
 
 At Canada Drugs™ Customer Care (carrying on business as "Canada Drugs™"), safeguarding your confidentiality and protecting your personal information is a primary concern. We are committed to meeting or exceeding the privacy standards established by Canada's Personal Information Protection and Electronic Documents Act (the "Act"). As part of this commitment, Canada Drugs™ has followed the Ten Privacy Principles described in the Act to govern our actions as they relate to the use of personal information. The Ten Privacy Principles are as follows: 
 
