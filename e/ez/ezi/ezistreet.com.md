@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezistreet.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521170409id_/http%3A//www.ezistreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezistreet.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023116id_/http%3A//www.ezistreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,5 +23,3 @@ We use a feature of  internet browsers known as “cookie, ” a small file tha
 ## Information security:
 
 Put into effect appropriate security measures against unauthorized usage of or unauthorized alteration, disclosure or destruction of information. We restrict usage of your personally identifying information to employees who require that information so as to operate, develop or make our services better.
-
-Rating: 0.0/ **5** (0 votes cast)
