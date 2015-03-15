@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loyalblocks.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921022431id_/http%3A//www.loyalblocks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyalblocks.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315030459id_/http%3A//www.loyalblocks.com/privacy-policy) for the most accurate reproduction.*
 
 # LoyalBlocks - Privacy Policy
 
