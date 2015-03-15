@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119100204id_/http%3A//inspiremetoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315135806id_/http%3A//inspiremetoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Inspire Me Today®
 
