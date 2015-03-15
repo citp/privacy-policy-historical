@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automobilesreview.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131258id_/http%3A//www.automobilesreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobilesreview.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315081739id_/http%3A//www.automobilesreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Automobilesreview.com collects some personal data from its visitors, in order to
 
   * Details, which are provided to us when you contact us, fill out forms on the website, or participate in surveys
   * Details of your site visit, such as the sections you access, IP address, location data, traffic data, operating system, access times, and your browser type
-  * Details collected by Google Analytics (Terms of Service and Privacy available [here](http://www.google.com/intl/en_uk/analytics/tos.html))
+  * Details collected by Google Analytics (Terms of Service and Privacy available [here](http://www.google.com/intl/en_uk/analytics/tos.html))
 
 
 
@@ -34,7 +34,7 @@ Automobilesreview.com contains sections where you may enter information about ot
 
 **5\. Message boards and other visitor-generated content**
 
-Automobilesreview.com gives its visitors the opportunity to publish content in certain sections, such as message boards. This content is publicly available and subject to the site’s policy listed in the ‘User Content’ part of the ‘Terms and Conditions’ section, which is available [here](https://web.archive.org/web/20141120131258id_/http://www.automobilesreview.com/terms-conditions/).
+Automobilesreview.com gives its visitors the opportunity to publish content in certain sections, such as message boards. This content is publicly available and subject to the site’s policy listed in the ‘User Content’ part of the ‘Terms and Conditions’ section, which is available [here](http://www.automobilesreview.com/terms-conditions/).
 
 **6\. Information Storage**
 
