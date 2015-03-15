@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the droptask.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022055634id_/https%3A//www.droptask.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droptask.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032058id_/https%3A//www.droptask.com/privacy-policy) for the most accurate reproduction.*
 
 # DropTask - Privacy Policy
 
@@ -19,12 +19,11 @@ Further information about privacy and data protection issues including the onlin
 We are Think Productivity Limited, a company registered in England and Wales - No. 7851136. Our registered office is at:
 
 Think Productivity Ltd  
-Regus House  
-Falcon Drive  
-Cardiff Bay  
-Cardiff  
+Tec Marina  
+Terra Nova Way  
+Penarth  
 United Kingdom  
-CF10 4RU  
+CF64 1SA  
 E-mail: [info@thinkproductivity.com](mailto:info@thinkproductivity.com)
 
 #### Communications
@@ -79,7 +78,7 @@ We may use aggregated data about users of our site, sales patterns and other sta
 
 #### To access the information stored about you
 
-To request the information Think Productivity has stored about you, which is your right as listed under Section 7 (1) the Data Protection Act 1998 as a Subject Access Request, you must put this request into writing, and send to Think Productivity Ltd, Falcon Drive, Cardiff Bay, Cardiff, CF10 4RU. You must also provide Think Productivity Ltd with a £10 fee (as cited by the Data Protection Act).
+To request the information Think Productivity has stored about you, which is your right as listed under Section 7 (1) the Data Protection Act 1998 as a Subject Access Request, you must put this request into writing, and send to Think Productivity Ltd, Tec Marina, Terra Nova Way, Penarth, CF64 1SA. You must also provide Think Productivity Ltd with a £10 fee (as cited by the Data Protection Act).
 
 #### Changes to the Privacy Policy
 
