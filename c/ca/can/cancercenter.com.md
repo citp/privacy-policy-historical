@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancercenter.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230013833id_/http%3A//www.cancercenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancercenter.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315061950id_/http%3A//www.cancercenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CTCA
 
@@ -28,7 +28,7 @@ This website uses Google Analytics and the Google Display Network impression rep
 
 We and our third party vendors, like Google, use first party cookies (such as the Google Analytics cookie) and third party cookies (such as the DoubleClick cookie) to inform, optimize and serve ads based on your past visits to our Site.
 
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads) page. Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for your browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page. Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for your browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
 By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
@@ -81,6 +81,5 @@ For detailed information regarding how medical information about you may be used
   * [Chicago](https://web.archive.org/midwestern/preparing-for-your-visit/notice-of-privacy-practices/)
   * [Phoenix](https://web.archive.org/western/preparing-for-your-visit/notice-of-privacy-practices/)
   * [Tulsa](https://web.archive.org/southwestern/preparing-for-your-visit/notice-of-privacy-practices/)
-  * [Seattle (clinic) ](https://web.archive.org/seattle-clinic/about-us/notice-of-privacy-practices/)
 
 
