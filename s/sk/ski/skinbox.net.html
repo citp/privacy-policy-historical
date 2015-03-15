@@ -1,305 +1,533 @@
-<!--The following is the downloaded HTML source of the skinbox.net privacy policy that was archived on 2011-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624142108id_/http%3A//www.skinbox.net/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skinbox.net privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315052226id_/http%3A//www.skinbox.net/community/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>
-				Privacy policy - 
-				IPB skins and vBulletin styles from Skinbox</title>
-	<meta name="description" content="">
-	<meta name="keywords" content="">
-					<link href="/css/blacktie/jquery-ui-1.7.2.custom.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/js/jquery.fancybox/jquery.fancybox.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/js/jquery.autocomplete/styles.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/js/jquery.colorbox/colorbox.css" media="screen" rel="stylesheet" type="text/css">	
-					<style type="text/css" media="all">
-<!--
-@import url(/style/style.css);
--->
-</style>
-<!--[if lt IE 7]> <style type="text/css" media="screen">
-<!--
-@import url(/style/ie.css);
--->
-<!--[endif]---->
-<!--[if IE 7]> <style type="text/css" media="screen">
-<!--
-@import url(/style/ie7.css);
--->
-<!--[endif]---->
-<style type="text/css" media="screen">
-<!--
-label, input { display:block; }
-		input.text { margin-bottom:12px; width:95%; padding: .4em; }
-		fieldset { padding:0; border:0; margin-top:10px; }
-		.ui-effects-transfer { border: 1px dashed black; }
--->
-</style>	
-									 
+<!DOCTYPE html><html lang="en"><head>
+		<meta charset="UTF-8">
+		<title>Privacy Policy - IPB skins - Skinbox</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<link rel="shortcut icon" href="http://www.skinbox.net/community/favicon.ico">
+		<link rel="image_src" href="http://www.skinbox.net/community/public/style_images/skinbox34x/meta_image.png">
+		<script type="text/javascript">
+		//<![CDATA[
+			jsDebug			= 0; /* Must come before JS includes */
+			DISABLE_AJAX	= parseInt(0); /* Disables ajax requests where text is sent to the DB; helpful for charset issues */
+			inACP			= false;
+			var isRTL		= false;
+			var rtlIe		= '';
+			var rtlFull		= '';
+		//]]>
+		</script>
+<style type="text/css">.idontthinkso{ display: inline-block; width: 283px; height: 103px; margin-left: 200px; background: url("http://www.skinbox.net/images/idontthinkso4.png") no-repeat; text-indent: -9999px; overflow: hidden; }</style>
 		
-		
-		
-					
-		
-		
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/js/jquery.autocomplete/jquery.autocomplete.min.js"></script>
-<script type="text/javascript" src="/js/jquery.qtip.js"></script>
-<script type="text/javascript" src="/js/unitip.js"></script>
-<script type="text/javascript" src="/js/simpletabs_1.3.js"></script>
-<script type="text/javascript" src="/js/jquery.colorbox/jquery.colorbox.js"></script>
-
-<script type="text/javascript">
-//<![CDATA[
-$(document).ready(function() {
-    
 	
-	loadCart();
-	applyTriggerAjax();
-	
-	$("#textboxsearch").focus(function() {
-		if( this.value == this.defaultValue ) {
-			this.value = "";
-		}
-	}).blur(function() {
-		if( !this.value.length ) {
-			this.value = this.defaultValue;
-		}
-	});
-	
-	largerThumbnailPreview();
-	menu();
-    userOnlyTips();
-    $("#textboxsearch").autocomplete({"serviceUrl":"\/search.json","minChars":3,"deferRequestBy":500});
-    
-		$("#triggerLogin").colorbox({inline: true, href: "#login", width: "785px", height: "350px"});
-		$("#login form").submit( function(evt){
-			var query = $(this).serialize();
-			
-			$.post( "/process-login.json", query, function( data, status ){
-				if( data.success == true )
-				{
-					$.fn.colorbox.close();
-					$().bind("cbox_closed", function(){
-						$.fn.colorbox({open: true, inline: true, href: "#loginSuccess", height: "90px"});
-						$().unbind("cbox_closed");
-					} );
-					
-					$("#memberbar").load("/index/member");
-					loadCart();
-					isLoggedIn = true;
-					$(".userOnly").qtip("destroy");
-				}
-				else
-				{
-					
-					$.fn.colorbox.close();
-					$().bind("cbox_closed", function(){
-						$.fn.colorbox({open: true, inline: true, href: "#loginError", height: "90px"});
-						$().unbind("cbox_closed");
-					} );
-				}
-			}, "json" );
-			
-			evt.stopPropagation();
-			
-			return false;
-		} );
-	
-});
-//]]>
-
-</script>	<script type="text/javascript">
-		var logoutRedirect = '/index/logout/url/L3ByaXZhY3lwb2xpY3k%3D';
-		var isLoggedIn = 0;
-		var goptions = [];
-		var options = [];
-		var url_skintab = "/browse/skin-tab?id=";
-		var url_homeskin = "/browse/home-skin?";
-		var url_loadcart = "/cart/index.json";
-		var url_addtocart = "/cart/add.json";
-		var url_addtowishbox = "/wishes/add.json";
-		var url_reviewform = "/review/form/format/html?skin=";
-		var url_savereview = "/review/save/format/json?skin=";
-		var url_deletereview = "/review/delete/format/json?review=";
-		var url_loadreview = "/review/get/format/html?skin=";
-		var url_sendtofriend = "/browse/send-to-friend/format/json?skin=";
-	</script>
-	<script type="text/javascript" src="/js/skinbox.js">
-	</script>
-<meta name="google-site-verification" content="FUjIC69_1BjfAjpHmmHis1g-8_UQSyNgpnZnJ0B8I9c">
-</head>
-<body>
-<div style="display: none">
-<div id="login" title="Login" style="padding:0 8px 0 8px">
-<h1>Welcome to Skinbox!</h1><br>
-<div style="width:85%;text-align:left;margin:0 auto">
-<div style="float:left;width:50%;">
-<h2>Sign in here</h2>
-	<form>
-		<fieldset>
-			<label for="username">Username</label>
-			<input type="text" name="username" id="username" class="input text">
-		
-			<label for="password">Password</label>
-			<input type="password" name="password" id="password" class="input text">
-		</fieldset>
-		<span style="font-size:11px;"><a href="/forums/index.php?app=core&amp;module=global&amp;section=lostpass">I have forgotten my password</a></span>
-		
-		<div align="center">
-			<input type="submit" class="submit" id="loginSubmit" value="Login">
-		</div>
-	</form>
-	</div>
-
-<div style="float:right;width:45%;">
-
-<h2><img src="/images/icon_member.png" class="icon">Not a member yet?</h2>
-<p style="margin:0 0 0 50px;"><a href="http://www.skinbox.net/join.html">Sign up</a> for free and <strong>get access to free resources &amp; skins</strong>, get access to the <strong>community forums</strong> and of course, <strong>purchase skins from us</strong>!</p>
-
-</div></div>
-</div>
-<div id="loginSuccess">
-<p>
-<span class="ui-icon ui-icon-circle-check" style="float:left; margin:0 7px 50px 0;"></span>
-Successfully logged in!</p>
-</div>
-<div id="loginError">
-<p>
-<span class="ui-icon ui-icon-circle-close" style="float:left; margin:0 7px 50px 0;"></span>
-Bad username and/or password.</p>
-</div>
-</div>
-
-<p><a class="skiplink" href="#maincontent">Skip over navigation</a></p>
-
-<div id="wrapper">
-
-     <div id="memberbar">	<ul id="navigation" class="finally" style="margin:0;padding:0;">
-				<li class="first" style="padding:0;margin:0;"><span class="head" style="min-width:100px;"><img src="/images/icon_nav_welcome.png" style="float:left">&nbsp;<a id="triggerLogin" href="/login.html">Login</a></span></li>
-		<li style="padding:0;margin:0;"><span class="head" style="min-width:100px;"><img src="/images/icon_nav_register.png" style="float:left">&nbsp;<a href="/join.html">Register</a></span></li>
-		<li class="last" style="padding:0;margin:0;"><span class="head" style="min-width:100px;"><img src="/images/icon_nav_forums.png" style="float:left">&nbsp;<a href="http://www.skinbox.net/community">Community forums</a></span></li>
-			</ul>
-<div class="clear"></div></div>
-
-	<div><a href="/" title="IPB skins and vBulletin 4 styles - Skinbox" class="replace" id="logo"><span></span>IPB skins and vBulletin 4 styles</a>
-    
-    <ul class="finally">
-        <li><span class="head" style="min-width:150px;font-size:1.1em;"><a href="/skins/index.html">Browse skins</a><img src="/images/arrow.png" align="top" class="arrow"></span>
-            <ul class="submenu">
-               					<li><a href="/skins/ipb-3-1-x-skins/2">
-			IPB 3.1.x skins		</a></li>
-							<li><a href="/skins/vbulletin-4-0-5-styles/25">
-			vBulletin 4.0.5 styles		</a></li>
-	               	<li><a class="line" href="/skins/ipb-3-1-x-skins/light-skins/9">Light Skins</a></li>
-<li><a href="/skins/ipb-3-1-x-skins/dark-skins/10">Dark Skins</a></li>
-<li><a href="/skins/ipb-3-1-x-skins/professional-skins/11">Professional Skins</a></li>
-<li><a href="/skins/ipb-3-1-x-skins/seasonal-skins/12">Seasonal Skins</a></li>
-<li><a href="/skins/ipb-3-1-x-skins/gaming-skins/13">Gaming skins</a></li>
-				<li><a href="/skins" class="item_line" title="View all skins">View all skins</a></li>
-				<li><a class="line" href="http://www.skinbox.net/browse/live-demo"><span style="color:red;padding:0;font-weight:bold;">Live Demos</span></a></li>
-            </ul>
-        </li>
-		<li style="margin-left:-34px;"><span class="head" style="font-size:1.1em;"><a href="/membership">Skinbox club</a></span></li>
-        <li><span class="head" style="min-width:175px;font-size:1.1em;"><a href="#">More</a><img src="/images/arrow.png" align="top" class="arrow"></span>
-             <ul class="submenu">
-                <li><a href="http://www.2ipb.com/" title="layout_OrderCustomIpbSkin - 2ipb">Order custom IPB skin</a></li>
-                <li><a href="/skinmodifications" title="Custom skin modifications">Custom skin modifications</a></li>
-				<li><a href="/getcaught" title="Get Caught &amp; Win!">Get Caught &amp; Win!</a></li>
-                <li><a href="/videos" title="Videos">Videos</a></li>
-				<li><a href="/testimonials" title="Testimonials">Testimonials</a></li>
-			    <li><a href="/compare" title="Compare">Compare</a></li>
-				<li><a href="/newsletters" title="Newsletters">Newsletters</a></li>
-            </ul>
-        </li>
-    </ul>
-			
-					<ul class="finally" id="cartdrop" style="float:right;"></ul>
 				
-			</div>
-                    
-<div class="clear"></div>
-        
-        <div id="slider_nohome">
-		<div id="contentslider_nohome">
-           <h1>Privacy policy</h1>
-           <p></p> 
-           		</div>
-	</div>
+			<link rel="stylesheet" type="text/css" title="Main" media="screen" href="http://www.skinbox.net/community/public/style_css/css_14/calendar_select.css?ipbv=19c125d3b135fd1ba377405b5d9efd86">
+		
 	
-	<div id="innercontent">
-					<div id="breadcrumb">
-				<ul id="menubreadcrumb">
-				<li class="first"><a href="#" class="replace" id="logosmall"><span></span>Home</a></li>
-								<li class="last">
-					<a href="#">
-						<strong>						Privacy policy						</strong>					</a>
-				</li>
-					</ul>
-	</div>
-		<div id="contentpadding">
-	    		Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.<br><br>
 
-Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. <br><br>
+				
+			<link rel="stylesheet" type="text/css" title="Main" media="screen,print" href="http://www.skinbox.net/community/public/style_css/css_14/ipb_styles.css?ipbv=19c125d3b135fd1ba377405b5d9efd86">
+		
+	
 
-We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. <br><br>
+				
+			<link rel="stylesheet" type="text/css" title="Main" media="screen,print" href="http://www.skinbox.net/community/public/style_css/css_14/ipb_ckeditor.css?ipbv=19c125d3b135fd1ba377405b5d9efd86">
+		
+	
 
-We will only retain personal information as long as necessary for the fulfillment of those purposes. <br><br>
+				
+			<link rel="stylesheet" type="text/css" title="Main" media="screen,print" href="http://www.skinbox.net/community/public/style_css/css_14/ipb_editor.css?ipbv=19c125d3b135fd1ba377405b5d9efd86">
+		
+	
 
-We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. <br><br>
+				
+			<link rel="stylesheet" type="text/css" title="Main" media="screen,print" href="http://www.skinbox.net/community/public/style_css/css_14/ipb_login_register.css?ipbv=19c125d3b135fd1ba377405b5d9efd86">
+		
+	
 
-Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. <br><br>
+				
+			<link rel="stylesheet" type="text/css" title="Main" media="screen,print" href="http://www.skinbox.net/community/public/style_css/css_14/ipb_common.css?ipbv=19c125d3b135fd1ba377405b5d9efd86">
+		
+	
+	
 
-We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. <br><br>
+<!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" title='Main' media="screen" href="http://www.skinbox.net/community/public/style_css/css_14/ipb_ie.css" />
+<![endif]-->
+<!--[if lte IE 8]>
+	<style type='text/css'>
+		.ipb_table { table-layout: fixed; }
+		.ipsLayout_content { width: 99.5%; }
+	</style>
+<![endif]-->
 
-We will make readily available to customers information about our policies and practices relating to the management of personal information. <br><br>
+	<style type="text/css">
+		img.bbc_img { max-width: 100% !important; }
+	</style>
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.     	</div>
-    		<div class="clear"></div>
-    </div>
-    <div class="clear"></div>
-        
-    
-	<div id="footer">
-		<div id="footerleft">
-			<h5><ul class="finally" style="float:left;">
-<li style="padding:0;margin:0;"><span class="head" style="font-size:11px;cursor:pointer;margin:0;padding-top:0;min-width:80px;">Language<img src="/images/arrow-little.png" class="arrow"></span>
-<ul class="submenu">
-<li style="font-size:11px;"><a href="http://www.skinbox.net/privacypolicy">English</a></li>
-<li style="font-size:11px;"><a href="http://fr.skinbox.net/privacypolicy">Français</a></li>
-</ul></li>
-<li style="padding:0;margin:0;margin-left:-15px;"><span class="head" style="font-size:11px;cursor:pointer;margin:0;padding-top:0;min-width:80px;">Currency<img src="/images/arrow-little.png" class="arrow"></span>
-<ul class="submenu">
-<li style="font-size:11px;"><a href="/set-currency/usd.html?url=L3ByaXZhY3lwb2xpY3k%3D">($) US dollars</a></li>
-<li style="font-size:11px;"><a href="/set-currency/eur.html?url=L3ByaXZhY3lwb2xpY3k%3D">(€) Euros</a></li>
-<li style="font-size:11px;"><a href="/set-currency/gbp.html?url=L3ByaXZhY3lwb2xpY3k%3D">(£) Pounds</a></li></ul></li>
-</ul>
-<span style="float: left"><a class="right tip" href="https://www.paypal.com/us/verified/pal=admin@ipbcustomize.com" title="<p>We are Paypal verified and accept all major credit cards.</p>"><img src="/images/weaccept.gif" border="0"></a></span>
-</h5>
+		<meta property="og:title" content="Privacy Policy">
+		<meta property="og:site_name" content="IPB skins - Skinbox">
+		<meta property="og:type" content="article">
+		
+	
+		
+		
+			<meta name="identifier-url" content="http://www.skinbox.net/community/privacypolicy/">
+		
+		
+			<meta property="og:url" content="http://www.skinbox.net/community/privacypolicy/">
+		
+		
+		
+	
+
+<meta property="og:image" content="http://www.skinbox.net/community/public/style_images/skinbox34x/meta_image.png">
+		
+		
+		
+
+
+
+
+
+
+
+
+
+		<script type="text/javascript">!window.jQuery && document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"><\/script>')</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script type="text/javascript">!window.jQuery && document.write('<script src="http://www.skinbox.net/community/public/style_images/skinbox34x/js/jquery.min.js"><\/script>')</script><script src="http://www.skinbox.net/community/public/style_images/skinbox34x/js/jquery.min.js"></script>
+		<script type="text/javascript" src="http://www.skinbox.net/community/public/style_images/skinbox34x/js/cookie.js"></script>
+		<script type="text/javascript" src="http://www.skinbox.net/community/public/style_images/skinbox34x/js/ipbforumskins.js"></script>
+<script type="text/javascript" src="http://www.skinbox.net/js/jquery.nivo.slider.js"></script>
+		
+		<script type="text/javascript" src="http://www.skinbox.net/community/public/js/3rd_party/prototype.js"></script>
+	
+	<script type="text/javascript" src="http://www.skinbox.net/community/public/js/ipb.js?ipbv=19c125d3b135fd1ba377405b5d9efd86&amp;load=quickpm,hovercard,"></script>
+	
+		<script type="text/javascript" src="http://www.skinbox.net/community/public/js/3rd_party/scriptaculous/scriptaculous-cache.js"></script>
+	
+	<script type="text/javascript" src="http://www.skinbox.net/community/cache/lang_cache/1/ipb.lang.js?nck=498563f4f0c6d9464bdedf865f4e7f7b" charset="UTF-8"></script>
+
+
+	
+		
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Skinbox news" href="http://www.skinbox.net/community/rss/forums/1-skinbox-news/">
+			
+			
+			
+		
+	
+
+	
+
+
+
+		
+		<script type="text/javascript">
+	//<![CDATA[
+		/* ---- URLs ---- */
+		ipb.vars['base_url'] 			= 'http://www.skinbox.net/community/index.php?s=a1ff2e68d0d93385efb25e1eaee71d91&';
+		ipb.vars['board_url']			= 'http://www.skinbox.net/community';
+		ipb.vars['img_url'] 			= "http://www.skinbox.net/community/public/style_images/skinbox34x";
+		ipb.vars['loading_img'] 		= 'http://www.skinbox.net/community/public/style_images/skinbox34x/loading.gif';
+		ipb.vars['active_app']			= 'core';
+		ipb.vars['upload_url']			= 'http://www.skinbox.net/community/uploads';
+		/* ---- Member ---- */
+		ipb.vars['member_id']			= parseInt( 0 );
+		ipb.vars['is_supmod']			= parseInt( 0 );
+		ipb.vars['is_admin']			= parseInt( 0 );
+		ipb.vars['secure_hash'] 		= '880ea6a14ea49e853634fbdc5015a024';
+		ipb.vars['session_id']			= 'a1ff2e68d0d93385efb25e1eaee71d91';
+		ipb.vars['twitter_id']			= 0;
+		ipb.vars['fb_uid']				= 0;
+		ipb.vars['auto_dst']			= parseInt( 0 );
+		ipb.vars['dst_in_use']			= parseInt(  );
+		ipb.vars['is_touch']			= false;
+		ipb.vars['member_group']		= {"g_mem_info":"0"}
+		/* ---- cookies ----- */
+		ipb.vars['cookie_id'] 			= 'skinboxforum';
+		ipb.vars['cookie_domain'] 		= '.skinbox.net';
+		ipb.vars['cookie_path']			= '/';
+		/* ---- Rate imgs ---- */
+		ipb.vars['rate_img_on']			= 'http://www.skinbox.net/community/public/style_images/skinbox34x/star.png';
+		ipb.vars['rate_img_off']		= 'http://www.skinbox.net/community/public/style_images/skinbox34x/star_off.png';
+		ipb.vars['rate_img_rated']		= 'http://www.skinbox.net/community/public/style_images/skinbox34x/star_rated.png';
+		/* ---- Uploads ---- */
+		ipb.vars['swfupload_swf']		= 'http://www.skinbox.net/community/public/js/3rd_party/swfupload/swfupload.swf';
+		ipb.vars['swfupload_enabled']	= true;
+		ipb.vars['use_swf_upload']		= ( '' == 'flash' ) ? true : false;
+		ipb.vars['swfupload_debug']		= false;
+		/* ---- other ---- */
+		ipb.vars['highlight_color']     = "#ade57a";
+		ipb.vars['charset']				= "UTF-8";
+		ipb.vars['time_offset']			= "0";
+		ipb.vars['hour_format']			= "12";
+		ipb.vars['seo_enabled']			= 1;
+		
+		ipb.vars['seo_params']			= {"start":"-","end":"\/","varBlock":"?","varPage":"page-","varSep":"&","varJoin":"="};
+		
+		/* Templates/Language */
+		ipb.templates['inlineMsg']		= "";
+		ipb.templates['ajax_loading'] 	= "<div id='ajax_loading'><img src='http://www.skinbox.net/community/public/style_images/skinbox34x/ajax_loading.gif' alt='" + ipb.lang['loading'] + "' /></div>";
+		ipb.templates['close_popup']	= "<img src='http://www.skinbox.net/community/public/style_images/skinbox34x/close_popup.png' alt='x' />";
+		ipb.templates['rss_shell']		= new Template("<ul id='rss_menu' class='ipbmenu_content'>#{items}</ul>");
+		ipb.templates['rss_item']		= new Template("<li><a href='#{url}' title='#{title}'>#{title}</a></li>");
+		
+		ipb.templates['autocomplete_wrap'] = new Template("<ul id='#{id}' class='ipb_autocomplete' style='width: 250px;'></ul>");
+		ipb.templates['autocomplete_item'] = new Template("<li id='#{id}' data-url='#{url}'><img src='#{img}' alt='' class='ipsUserPhoto ipsUserPhoto_mini' />&nbsp;&nbsp;#{itemvalue}</li>");
+		ipb.templates['page_jump']		= new Template("<div id='#{id}_wrap' class='ipbmenu_content'><h3 class='bar'>Jump to page</h3><p class='ipsPad'><input type='text' class='input_text' id='#{id}_input' size='8' /> <input type='submit' value='Go' class='input_submit add_folder' id='#{id}_submit' /></p></div>");
+		ipb.templates['global_notify'] 	= new Template("<div class='popupWrapper'><div class='popupInner'><div class='ipsPad'>#{message} #{close}</div></div></div>");
+		
+		
+		ipb.templates['header_menu'] 	= new Template("<div id='#{id}' class='ipsHeaderMenu boxShadow'></div>");
+		
+		Loader.boot();
+	//]]>
+	</script>
+	</head>
+	<body id="ipboard_body">
+        <p id="content_jump" class="hide"><a id="top"></a><a href="#j_content" title="Jump to content" accesskey="m">Jump to content</a></p>
+
+	<div id="sb_headerWrapper">
+		<div id="sb_header">
+		
+			<div class="wrapper">
+	        	<a href="http://www.skinbox.net" id="sbLogo"><img src="http://www.skinbox.net/community/public/style_images/skinbox34x/logo2014.png" alt="Skinbox"></a>
+	            <ul id="sbMainNav" class="sbTopLinks">
+	            	<li><a href="http://www.skinbox.net/skins/">Skin Shop</a></li>
+	                <li><a href="http://www.skinbox.net/community">Support Forums</a></li>
+	                <li><a href="http://www.skinbox.net/testimonials/">Testimonials</a></li>
+	            </ul>
+	            <ul id="sbUser" class="sbTopLinks">
+	            
+	            	<li><a href="http://www.skinbox.net/community/index.php?app=core&amp;module=global&amp;section=login" title="Sign In" id="sign_in"><img src="http://www.skinbox.net/community/public/style_images/skinbox34x/user_login.png" alt=""> Sign In</a></li>
+	                <li><a href="http://www.skinbox.net/community/index.php?app=core&amp;module=global&amp;section=register" title="Create Account" id="register_link"><img src="http://www.skinbox.net/community/public/style_images/skinbox34x/user_register.png" alt=""> Create Account</a></li>
+	                <li><a href="http://www.skinbox.net/community/store/cart/">View Cart</a></li>
+	            
+	            </ul>
+	        </div>
+			
 		</div>
-		<ul id="menufooter">
-			<li><a href="/privacypolicy.html">Privacy policy</a></li>
-			<li><a href="/terms.html">Terms of use</a></li>
-			<li><a href="/faq.html">FAQ</a></li>
-			<li><a href="/contact.html">Contact us</a></li>
-			<li class="last">
-			<a class="right tip" href="http://www.facebook.com/pages/Skinbox/61669427703" title="<p>Become a fan of Skinbox on Facebook!</p>"><img src="/images/logo_facebook.png" alt="Become a fan of Skinbox on Facebook!"></a> <a class="right tip" href="http://www.twitter.com/olivierturbis" title="<p>Follow us on Twitter!</p>"><img src="/images/logo_twitter.png" alt="Olivier Turbis on Twitter"></a></li>
-		</ul>
-        <div class="clear"></div>
-		<!-- Start of Zopim Live Chat Script -->
-<script type="text/javascript">
-document.write(unescape("%3Cscript src='" + document.location.protocol + "//zopim.com/?atnDW4XUOYV2DJbHPeQy7pGiByDlPmMY' charset='utf-8' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://zopim.com/?atnDW4XUOYV2DJbHPeQy7pGiByDlPmMY" charset="utf-8" type="text/javascript"></script>
-<!-- End of Zopim Live Chat Script -->
-</div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3775281-3");
-pageTracker._trackPageview();
-</script>
+	</div>
 
-</div></body></html>
+		<div id="ipbwrapper" class="wrapper">
+			<!-- ::: TOP BAR: Sign in / register or user drop down and notification alerts ::: -->			
+			
+            
+            <div id="userBar" class="clearfix">
+	            
+            <div id="user_navigation" class="not_logged_in">
+                    
+                    <ul class="ipsList_inline">
+                        <li>
+                            <span class="services">
+                                
+                                
+                                
+                            </span>
+                            <a href="http://www.skinbox.net/community/index.php?app=core&amp;module=global&amp;section=login" title="Sign In" id="sign_in"><img src="http://www.skinbox.net/community/public/style_images/skinbox34x/user_login.png" alt=""> Sign In</a>
+                        </li>
+                        <li>
+                            <a href="http://www.skinbox.net/community/index.php?app=core&amp;module=global&amp;section=register" title="Create Account" id="register_link"><img src="http://www.skinbox.net/community/public/style_images/skinbox34x/user_register.png" alt=""> Create Account</a>
+                        </li>
+                    </ul>
+                </div>
+            
+            <div id="search" class="right">
+	<form action="http://www.skinbox.net/community/index.php?app=core&amp;module=search&amp;do=search&amp;fromMainBar=1" method="post" id="search-box">
+		<fieldset>
+			<label for="main_search" class="hide">Search</label>
+			<a href="http://www.skinbox.net/community/index.php?app=core&amp;module=search&amp;search_in=core" title="Advanced Search" accesskey="4" rel="search" id="adv_search" class="right">Advanced</a>
+			<span id="search_wrap" class="right">
+				<input type="text" id="main_search" name="search_term" class="inactive" size="17" tabindex="100">
+				<span class="choice ipbmenu clickable" id="search_options" style="display: none"></span>
+				<ul id="search_options_menucontent" class="ipbmenu_content ipsPad" style="display: none">
+					<li class="title"><strong>Search section:</strong></li>
+					
+					
+					
+					<li class="app"><label for="s_forums" title="Forums"><input type="radio" name="search_app" class="input_radio" id="s_forums" value="forums">Forums</label></li>
+					<li class="app"><label for="s_members" title="Members"><input type="radio" name="search_app" class="input_radio" id="s_members" value="members">Members</label></li>
+					<li class="app"><label for="s_core" title="Help Files"><input type="radio" name="search_app" class="input_radio" id="s_core" value="core" checked="checked">Help Files</label></li>
+					
+						
+					
+
+						
+					
+
+						
+					
+
+						
+					
+
+						
+					
+
+						
+					
+
+						
+					
+
+						
+					
+
+						
+					
+
+						
+					
+
+						<li class="app">
+								<label for="s_nexus" title="Store">
+									<input type="radio" name="search_app" class="input_radio" id="s_nexus" value="nexus">Store
+								</label>
+							</li>
+					
+				</ul>
+				<input type="submit" class="submit_input clickable" value="Search">
+			</span>
+			
+		</fieldset>
+	</form>
+</div>
+            
+            </div>
+
+                    
+                        
+                    
+            
+		<!-- ::: APPLICATION TABS ::: -->
+		<div id="primary_nav" class="clearfix">
+                <ul class="ipsList_inline" id="community_app_menu">
+                    
+                    
+                        
+                            
+                        
+
+                            
+                                                                <li id="nav_app_members" class="left "><a href="http://www.skinbox.net/community/members/" title="Go to Members">Members</a></li>
+                            
+                        
+
+                            
+                                                                <li id="nav_app_forums" class="left "><a href="http://www.skinbox.net/community/" title="Go to Forums">Forums</a></li>
+                            
+                        
+
+                            
+                                                                <li id="nav_app_calendar" class="left "><a href="http://www.skinbox.net/community/index.php?app=calendar" title="Go to Calendar">Calendar</a></li>
+                            
+                        
+
+                            
+                                                                <li id="nav_app_downloads" class="left "><a href="http://www.skinbox.net/community/index.php?app=downloads" title="Go to Downloads">Downloads</a></li>
+                            
+                        
+
+                            
+                                                                <li id="nav_app_nexus" class="left "><a href="http://www.skinbox.net/community/store/" title="Go to Store">Store</a></li>
+                            
+                        
+                    
+                    
+                </ul>
+			</div>
+            
+			
+            
+			<!-- ::: MAIN CONTENT AREA ::: -->
+			<div id="content" class="clearfix">
+            
+				<!-- ::: NAVIGATION BREADCRUMBS ::: -->
+                <div id="secondary_navigation" class="clearfix">
+                    <ol class="breadcrumb top ipsList_inline left" id="breadcrumb">
+                                                <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" class="first">
+                                <a href="http://www.skinbox.net/community/" itemprop="url">
+                                    <span itemprop="title">IPB skins - Skinbox</span>
+                                </a>
+                            </li>
+                            
+                                            </ol>
+                    <ul id="secondary_links" class="ipsList_inline right">
+                        
+                        <li><a href="http://www.skinbox.net/community/index.php?app=core&amp;module=search&amp;do=viewNewContent&amp;search_app=forums" accesskey="2" title="View New Content">View New Content</a></li>
+                        
+                        <li><a href="http://www.skinbox.net/community/index.php?app=core&amp;module=global&amp;section=navigation&amp;inapp=core" rel="quickNavigation" accesskey="9" id="quickNavLaunch" title="Open Quick Navigation"><img src="http://www.skinbox.net/community/public/style_images/skinbox34x/icon_quicknav.png" alt=""></a></li>
+                        
+                        
+                    </ul>
+                </div>
+                
+                
+                <div class="guestMessage">
+                	<div class="guestHeader">Welcome to IPB skins - Skinbox</div>
+                    Register now to gain access to all of our features. Once registered and logged in, you will be able to create topics, post replies to existing threads, give reputation to your fellow members, get your own private messenger, post status updates, manage your profile and so much more. This message will be removed once you have signed in.<br>
+<a href="http://www.skinbox.net/community/index.php?app=core&amp;module=global&amp;section=login" class="guestButton">Login to Account</a> <a href="http://www.skinbox.net/community/index.php?app=core&amp;module=global&amp;section=register" class="guestButton">Create an Account</a>
+                </div>
+                
+
+				
+                <noscript>
+                    <div class='message error'>
+                        <strong>Javascript Disabled Detected</strong>
+                        <p>You currently have javascript disabled. Several functions may not work. Please re-enable javascript to access full functionality.</p>
+                    </div>
+                    <br />
+                </noscript>
+				<!-- ::: CONTENT ::: -->
+				
+				<h2 class="maintitle">Privacy Policy</h2>
+<div class="row2 ipsPad" style="line-height: 1.6">
+	Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.<br>
+<br>
+Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.<br>
+<br>
+<strong class="bbc">Our Commitment to Children's Privacy</strong><br>
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.<br>
+<br>
+<strong class="bbc">Cookies</strong><br>
+This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties.
+</div>
+				
+				<ol class="breadcrumb bottom ipsList_inline left clearfix clear">
+					
+						<li>&nbsp;</li>
+					
+				</ol>
+                
+			</div>
+            
+			<!-- ::: FOOTER (Change skin, language, mark as read, etc) ::: -->
+			<div id="footer_utilities" class="clearfix clear">
+				<!-- Copyright Information -->
+        				  <p id="copyright">
+        				  	<a href="http://www.invisionpower.com/apps/board/" title="Community Forum Software by Invision Power Services">Community Forum Software by IP.Board</a></p>
+		<!-- / Copyright -->
+				<ul class="ipsList_inline left">
+					<li>
+						<img src="http://www.skinbox.net/community/public/style_images/skinbox34x/feed.png" alt="RSS Feed" id="rss_feed" class="clickable">
+					</li>
+					
+						
+							<li>
+								<a rel="nofollow" id="new_skin" href="#" title="Change Theme">Change Theme</a>			
+								<ul id="new_skin_menucontent" class="ipbmenu_content with_checks" style="display: none">
+									
+										<li>
+											<a href="#" data-clicklaunch="changeSkin" data-skinid="12">Skinbox 2014 (Import)</a>
+										</li>
+									
+
+										<li class="selected">
+											<a href="#" data-clicklaunch="changeSkin" data-skinid="14">Skinbox 3.4.7</a>
+										</li>
+									
+								</ul>
+							</li>
+						
+					
+					<li><a href="http://www.skinbox.net/community/index.php?app=nexus&amp;module=support&amp;section=new">Contact Us</a></li>
+					<li><a rel="nofollow" href="http://www.skinbox.net/community/privacypolicy/">Privacy Policy</a></li>
+					<li>
+						<a href="http://www.skinbox.net/community/index.php?app=core&amp;module=help" title="View help" rel="help" accesskey="6">Help</a>
+					</li>
+					<li><a rel="nofollow" href="#top" title="Go to top">Go to top</a></li>
+				</ul>
+			</div>
+			
+			<div id="stats_div"><div><img src="http://www.skinbox.net/community/index.php?app=core&amp;module=task" alt="" style="border: 0px;height:1px;width:1px;"></div></div>
+			
+				<script type="text/javascript">
+					ipb.global.lightBoxIsOff();
+				</script>
+			
+			<div id="inline_login_form" class="ipbfs_login" style="display:none">
+		<form action="http://www.skinbox.net/community/index.php?app=core&amp;module=global&amp;section=login&amp;do=process" method="post" id="login">
+			<input type="hidden" name="auth_key" value="880ea6a14ea49e853634fbdc5015a024">
+			<input type="hidden" name="referer" value="http://www.skinbox.net/community/privacypolicy/">
+			<h3>Sign In</h3>
+			
+			
+            <div class="ipbfs_login_row">
+
+                <div class="ipbfs_login_col">
+                    <span class="right desc lighter blend_links"><a href="http://www.skinbox.net/community/index.php?app=core&amp;module=global&amp;section=register" title="Register now!">Register now!</a></span>
+            		<strong><label for="ips_username">Username</label></strong>
+                    <div class="ipsField_content">
+                    	<input id="ips_username" type="text" class="input_text ipbfs_login_input ipbfs_luser" name="ips_username" placeholder="Username" size="30" tabindex="1">
+                    </div>
+                </div>
+                
+                <div class="ipbfs_login_col">
+                    <span class="right desc lighter blend_links"><a href="http://www.skinbox.net/community/index.php?app=core&amp;module=global&amp;section=lostpass" title="Retrieve password">I've forgotten my password</a></span>
+                    <strong><label for="ips_password">Password</label></strong>
+                    <div class="ipsField_content">
+                        <input id="ips_password" type="password" class="input_text ipbfs_login_input ipbfs_lpassword" name="ips_password" placeholder="Password" size="30" tabindex="2"><br>
+                    </div>
+                </div>
+        
+            </div>
+            
+            <div class="clearfix">
+        
+                <div class="ipbfs_login_col">
+                    <input type="checkbox" id="inline_remember" checked="checked" name="rememberMe" value="1" class="input_check left">
+                    <div style="padding-left: 20px;">
+                        <label for="inline_remember">
+                            <strong>Remember me</strong>
+                            <span class="desc lighter" style="display: block; padding-top: 5px;">This is not recommended for shared computers</span>
+                        </label>
+                    </div>
+                </div>
+    
+                
+                <div class="ipbfs_login_col">
+                    <input type="checkbox" id="inline_invisible" name="anonymous" value="1" class="input_check left">
+                    <div style="padding-left: 20px;">
+                        <label for="inline_invisible">
+                            <strong>Sign in anonymously</strong>
+                            <span class="desc lighter" style="display: block; padding-top: 5px;">Don't add me to the active users list</span>
+                        </label>
+                    </div>
+                </div>
+                
+    
+            </div>
+            
+            <div class="ipsForm_submit ipsForm_center clear">
+                <input type="submit" class="input_submit" value="Sign In">
+            </div>
+
+		</form>
+	</div>
+		</div>
+		
+	
+
+	
+
+        
+
+		<div id="sbFooter">
+        	<div class="wrapper">
+            	<ul>
+                    <li><a href="http://www.skinbox.net/">Home</a></li>
+                    <li><a href="http://www.skinbox.net/skins/">Browse Skins</a></li>
+                </ul>
+                <ul style="float:right;">
+                    <li><a href="http://www.skinbox.net/terms/">Terms of Use</a></li>
+                    <li style="display:none;"><a href="http://www.skinbox.net/faq/">FAQ</a></li>
+                    <li style="display:none;"><a href="http://www.skinbox.net/contact/">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+
+	
+</body></html>
