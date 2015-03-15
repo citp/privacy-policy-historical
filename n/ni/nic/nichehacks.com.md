@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nichehacks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172146id_/http%3A//www.nichehacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichehacks.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032731id_/http%3A//nichehacks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - NicheHacks : NicheHacks
+# Privacy policy - NicheHacks
 
 This privacy policy sets out how NicheHacks.com uses and protects any information that you give NicheHacks.com when you use this website.
 
