@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ashampoo.com privacy policy that was archived on 2014-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219075441id_/https%3A//www.ashampoo.com/en/usd/ppy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ashampoo.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315070430id_/https%3A//www.ashampoo.com/en/usd/ppy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!-- InstanceBegin template="/Templates/ash_temp.dwt" codeOutsideHTMLIsLocked="false" --><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -51,7 +51,7 @@
 
     <meta name="robots" content="index,follow">
     <link href="https://img.ashampoo.com/ashampoo.com_images/img/1/css/styles.template.css?v1.08" rel="stylesheet" type="text/css">
-    <link href="https://img.ashampoo.com/ashampoo.com_images/img/1/css/styles.topmenu.css?v1.01" rel="stylesheet" type="text/css">
+    <link href="https://img.ashampoo.com/ashampoo.com_images/img/1/css/styles.topmenu.css?v1.02" rel="stylesheet" type="text/css">
 
     <script type="text/javascript" src="https://img.ashampoo.com/ashampoo.com_images/img/1/js/jquery.js?v1.6.2"></script>
     <script type="text/javascript" src="https://img.ashampoo.com/ashampoo.com_images/img/1/js/jquery.hoverIntent.minified.js"></script>
@@ -83,194 +83,78 @@
 <body>
     <a name="ash_top"></a>
 
-        <script type="text/javascript">
-
     
-    
-    function is_android(){
-        var ua = navigator.userAgent.toLowerCase();
-        var isAndroid = ua.indexOf("android") > -1;
-        return isAndroid;
-    }
-    
-    function resizelayer() {
-        if($(window).width()<$(window).height()) {
-            $("#layer_snap4android").css('width','90%');
-            $("#layer_snap4android").css('height',$("#layer_snap4android").width());
-    //        $("#layer_snap4android").text("portrait");
-            $("#layer_snap4android").css('font-size',Math.round($(window).width()/100));
-        }
-        if($(window).width()>$(window).height()) {
-            $("#layer_snap4android").css('height',Math.round(($(window).height()*0.9)));
-            $("#layer_snap4android").css('width',$("#layer_snap4android").height());
-    //        $("#layer_snap4android").text("landscape");
-            $("#layer_snap4android").css('font-size',Math.round($(window).height()/100));
-        }
-    }
-
-    $(document).ready(function(){
-        if(is_android()){
-            if(typeof localStorage != 'undefined'){
-                // local storage supported
-                if(!localStorage.snap4AndroidLayerShown){
-                    resizelayer();
-                    $(".s4a_close").click(function(){
-                        $("#layer_snap4android").toggle("slide");
-                    });                
-                    $(window).resize(resizelayer);    
-                    localStorage.snap4AndroidLayerShown = true;
-                    $('#layer_snap4android').show();
-                }
-            }
-        }
-    });
-    
-    </script>    
-    
-    
-<style>
+<script type="text/javascript">
 
 
-#layer_snap4android {
-    display: none;
-position:absolute;
-z-index:1000;
-top:0; bottom:0; left:0; right:0;
-margin:auto;
 
-font-family:Arial, Helvetica, Tahoma, sans-serif;
 
-background-color:rgba(30,30,30,1);
-background: -moz-radial-gradient(center, ellipse cover, rgba(30,87,153,1) 0%, rgba(0,0,0,1) 100%);
-background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(30,87,153,1)), color-stop(100%,rgba(0,0,0,1)));
-background: -webkit-radial-gradient(center, ellipse cover, rgba(30,87,153,1) 0%,rgba(0,0,0,1) 100%);
-background: -o-radial-gradient(center, ellipse cover, rgba(30,87,153,1) 0%,rgba(0,0,0,1) 100%);
-background: -ms-radial-gradient(center, ellipse cover, rgba(30,87,153,1) 0%,rgba(0,0,0,1) 100%);
-background: radial-gradient(ellipse at center, rgba(30,87,153,1) 0%,rgba(0,0,0,1) 100%);
-
-box-shadow:0 0.25em 35em 25em rgba(0,0,0,0.75), inset 0 0 0 0.5em rgba(30,87,153,1);
+function is_android(){
+	var ua = navigator.userAgent.toLowerCase();
+	var isAndroid = ua.indexOf("android") > -1;
+	return isAndroid;
 }
 
+function resizelayer() {
+	var window_width = $(window).width();
+	var window_height = $(window).height();
 
-#layer_snap4android h3, #layer_snap4android h4 {
-text-shadow:0 0.05em 0.1em rgba(0,0,0,1);
-}
-
-#layer_snap4android h3 {
-display:block;
-margin:3% auto 0 auto;
-width:90%;
-color:white;
-text-align:left;
-font-size:6em;
-line-height:1.2em;
-}
-#layer_snap4android h4 {
-display:block;
-margin:0 auto 0 auto;
-width:90%;
-color:#00A2E3;
-text-align:right;
-font-size:4em;
-line-height:2em;
-}
-	#layer_snap4android h4 strong {
-	font-weight:700;
-	font-size:2em;
-	color:#00a2e3;
-	vertical-align:middle;
+	// landscape
+	if($(window).width()>$(window).height()) {
+		$("#layer_droidoptimizer").css('width',window_height*0.95*1.5);
+		$("#layer_droidoptimizer").css('height',window_height*0.95);
+		var layer_width = $("#layer_droidoptimizer").width();
+		$("#layer_droidoptimizer").css('font-size',layer_width/100);
 	}
 	
-	
-#layer_snap4android img {
-position:absolute;
-left:0; right:0;
-margin:0 auto;
-/*bottom:15%;*/
-width:55%;
+	// portrait
+	if($(window).width()<$(window).height()) {
+		$("#layer_droidoptimizer").css('width',window_width*0.95);
+		$("#layer_droidoptimizer").css('height',window_width*0.95/15*10);
+		var layer_width = $("#layer_droidoptimizer").width();
+		$("#layer_droidoptimizer").css('font-size',layer_width/100);
+	}
 }
 
+$(document).ready(function(){
+	if(is_android()){
+		if(typeof localStorage != 'undefined'){
+			// local storage supported
+			if(!localStorage.droidoptimizerLayerShown){
+				resizelayer();
+				$(".do_close").click(function(){
+						$("#layer_droidoptimizer").fadeOut('2000');
+				});                
+				$(window).resize(resizelayer);    
+				localStorage.droidoptimizerLayerShown = true;
+				$('#layer_droidoptimizer').show();
+			}
+		}
+	}
+});
 
-#layer_snap4android a.s4a_close {
-display:inline-block;
-float:right;
-width:8%;
-height:8%;
-background-image:url('https://img.ashampoo.com/ashampoo.com_images/img/1/campaigns/layer_snap4android/close.svg');
-background-size:cover;
-margin:2% 2% 0 0;
+
+</script>    
+
+
+<link rel="stylesheet" href="https://img.ashampoo.com/ashampoo.com_images/img/1/css/layer_droidoptimizer.css">
+
+<style>
+
+#layer_droidoptimizer {
+	display:none;
 }
 
-#layer_snap4android a.s4a_gotoplaystore {
-position:absolute;
-bottom:5%; left:0; right:0;
-
-display:block;
-margin:0 auto;
-width:90%;
-
-font-weight:bold;
-font-size:6em;
-line-height:2em;
-text-shadow:0 -0.05em 0.01em rgba(0,0,0,0.5);
-
-background-color:#007cd4;
-background: rgb(0,164,228);
-background: -moz-linear-gradient(top, rgba(0,164,228,1) 0%, rgba(0,79,187,1) 100%);
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,164,228,1)), color-stop(100%,rgba(0,79,187,1)));
-background: -webkit-linear-gradient(top, rgba(0,164,228,1) 0%,rgba(0,79,187,1) 100%);
-background: -o-linear-gradient(top, rgba(0,164,228,1) 0%,rgba(0,79,187,1) 100%);
-background: -ms-linear-gradient(top, rgba(0,164,228,1) 0%,rgba(0,79,187,1) 100%);
-background: linear-gradient(to bottom, rgba(0,164,228,1) 0%,rgba(0,79,187,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00a4e4', endColorstr='#004fbb',GradientType=0 );
-
-border-radius:0.2em;
-text-align:center;
-color:white;
-text-decoration:none;
-
-box-shadow:0 0.1em 0.2em rgba(0,0,0,1), inset 0 0 0.01em 0.05em rgba(255,255,255,0.2);
-}
-	
-#layer_snap4android a.s4a_gotoplaystore img {
-position:static;
-width:1.25em;
-height:1.25em;
-vertical-align:calc(50% - 1.1em);
-margin:0 0.3em -0.05em -0.2em;
-}
-
-#layer_snap4android small {
-position:absolute;
-bottom:2%;
-right:2%;
-color:rgba(255,255,255,0.5);
-font-size:2.5em;
-}
 </style>
-
-    
-<div id="layer_snap4android">
-
-  <a href="#" class="s4a_close"></a>
-
-  <h3>
-	  Capture, edit and share screenshots on the go
-  </h3>
-	
-  <h4>
-  	TRY NOW FOR FREE
-  </h4>
-  
-  <img src="https://img.ashampoo.com/ashampoo.com_images/img/1/campaigns/layer_snap4android/phone_big.png">
-  
-  <a href="http://r.ashampoo.com/r.php?id=123315&amp;ri=d0ge" target="_blank" class="s4a_gotoplaystore"><img src="https://img.ashampoo.com/ashampoo.com_images/img/1/campaigns/layer_snap4android/icon_playstore.png">Download</a>
-  
+<div id="layer_droidoptimizer" class="en">
+  <a href="#" class="do_close"></a>
+  <h3 class="en"><span>More memory,</span><br>
+<span>more speed</span></h3>
+	<p class="en">The free <strong>Ashampoo Droid Optimizer</strong> app helps keep your smartphones and tablets fast and clean.</p>
+  <img src="https://img.ashampoo.com/ashampoo.com_images/img/1/campaigns/layer_droidoptimizer/phone_big.png">
+  <a href="http://r.ashampoo.com/r.php?id=149042&amp;ri=ovbg&amp;u=[id_email]" target="_blank" class="s4a_gotoplaystore"><img src="https://img.ashampoo.com/ashampoo.com_images/img/1/campaigns/layer_droidoptimizer/icon_playstore.png">Download</a>
   <small>Android is a trademark of Google Inc.</small>
 </div>
-
-
-
 
     <script type="text/javascript" src="https://img.ashampoo.com/ashampoo.com_images/img/1/js/ashad.js?v1.29"></script>
     <script type="text/javascript" src="https://img.ashampoo.com/ashampoo.com_images/img/1/js/jquery.countdown.new.min.js?v1.1"></script>
@@ -330,68 +214,69 @@ var google_remarketing_only = true;
                 <input type="submit" value="" name="sa" title="Search" class="sbtn " onclick="var f=this.form;if(f.q.value==''||f.q.value=='Search...')return false;">
             </form>
 
-            
-            <div id="currency_nav">
-                <ul>
-                    <li id="lang">                    	
-                    <a href="javascript:void(0);">
-                    	$ USD
-                    	<img src="https://img.ashampoo.com/ashampoo.com_images/img/1/template/metanav.dropdown.gif" alt="Drop Down Arrow" align="top" class="down_down_arrow"> <!--[if gte IE 7]><!--></a><!--<![endif]-->
-                        <!--[if lte IE 6]><table><tr><td><![endif]-->
-                        <ul>
-							                            	<li><a href="https://www.ashampoo.com/en/aud/ppy">$ AUD</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/brl/ppy">$ BRL</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/cad/ppy">$ CAD</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/rmb/ppy">￥ RMB</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/eur/ppy">€ EUR</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/hkd/ppy">HK$ HKD</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/huf/ppy">Ft HUF</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/mxn/ppy">Mex$ MXN</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/nzd/ppy">NZ$ NZD</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/zar/ppy">R ZAR</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/sek/ppy">kr SEK</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/chf/ppy">Fr. CHF</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/twd/ppy">NT$ TWD</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/try/ppy"> TRY</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/gbp/ppy">£ GBP</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/rub/ppy">руб RUB</a></li>
-                                                        	<li><a href="https://www.ashampoo.com/en/pln/ppy">Zł PLN</a></li>
-                                                    </ul>
-                        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                    </li>
-                </ul>
-            </div>
-            <div id="lang_nav">
-                <ul>
-                    <li id="lang">
-                    <a href="javascript:void(0);">
-                    	<img src="https://img.ashampoo.com/ashampoo.com_images/img/1/template/navigationflags/2.gif" alt="English (US) image" align="top">
-                    	English (US)
-                    	<img src="https://img.ashampoo.com/ashampoo.com_images/img/1/template/metanav.dropdown.gif" alt="Drop Down Arrow" align="top" class="down_down_arrow"> <!--[if gte IE 7]><!--></a><!--<![endif]-->
-                        <!--[if lte IE 6]><table><tr><td><![endif]-->
-                        <ul>
-                        	                                <li><a href="https://www.ashampoo.com/de/usd/ppy" class="navigationflag navigationflag_1">Deutsch</a></li>
-                                                            <li><a href="https://www.ashampoo.com/uk/usd/ppy" class="navigationflag navigationflag_20">English (UK)</a></li>
-                                                            <li><a href="https://www.ashampoo.com/es/usd/ppy" class="navigationflag navigationflag_11">Español</a></li>
-                                                            <li><a href="https://www.ashampoo.com/fr/usd/ppy" class="navigationflag navigationflag_4">Français</a></li>
-                                                            <li><a href="https://www.ashampoo.com/it/usd/ppy" class="navigationflag navigationflag_8">Italiano</a></li>
-                                                            <li><a href="https://www.ashampoo.com/hu/usd/ppy" class="navigationflag navigationflag_5">Magyar</a></li>
-                                                            <li><a href="https://www.ashampoo.com/nl/usd/ppy" class="navigationflag navigationflag_3">Nederlands</a></li>
-                                                            <li><a href="https://www.ashampoo.com/pl/usd/ppy" class="navigationflag navigationflag_7">Polski</a></li>
-                                                            <li><a href="https://www.ashampoo.com/br/usd/ppy" class="navigationflag navigationflag_24">Português (BR)</a></li>
-                                                            <li><a href="https://www.ashampoo.com/pt/usd/ppy" class="navigationflag navigationflag_10">Português (PT)</a></li>
-                                                            <li><a href="https://www.ashampoo.com/sv/usd/ppy" class="navigationflag navigationflag_12">Svenska</a></li>
-                                                            <li><a href="https://www.ashampoo.com/tr/usd/ppy" class="navigationflag navigationflag_14">Türkçe</a></li>
-                                                            <li><a href="https://www.ashampoo.com/el/usd/ppy" class="navigationflag navigationflag_32">Ελληνικά</a></li>
-                                                            <li><a href="https://www.ashampoo.com/ru/usd/ppy" class="navigationflag navigationflag_6">Русский</a></li>
-                                                            <li><a href="https://www.ashampoo.com/zh/usd/ppy" class="navigationflag navigationflag_26">正體中文</a></li>
-                                                            <li><a href="https://www.ashampoo.com/cn/usd/ppy" class="navigationflag navigationflag_18">汉语</a></li>
-                                                    </ul>
-                        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                    </li>
-                </ul>
-            </div>
-                        <div id="login_nav">
+                            <div id="currency_nav">
+                    <ul>
+                        <li id="lang">                    	
+                        <a href="javascript:void(0);">
+                    	    $ USD
+                    	    <img src="https://img.ashampoo.com/ashampoo.com_images/img/1/template/metanav.dropdown.gif" alt="Drop Down Arrow" align="top" class="down_down_arrow"> <!--[if gte IE 7]><!--></a><!--<![endif]-->
+                            <!--[if lte IE 6]><table><tr><td><![endif]-->
+                            <ul>
+							                                	    <li><a href="https://www.ashampoo.com/en/aud/ppy">$ AUD</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/brl/ppy">$ BRL</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/cad/ppy">$ CAD</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/rmb/ppy">￥ RMB</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/dkk/ppy">dkr. DKK</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/eur/ppy">€ EUR</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/hkd/ppy">HK$ HKD</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/huf/ppy">Ft HUF</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/mxn/ppy">Mex$ MXN</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/nzd/ppy">NZ$ NZD</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/sek/ppy">kr SEK</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/chf/ppy">Fr. CHF</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/twd/ppy">NT$ TWD</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/try/ppy"> TRY</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/gbp/ppy">£ GBP</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/rub/ppy">руб RUB</a></li>
+                                                            	    <li><a href="https://www.ashampoo.com/en/pln/ppy">Zł PLN</a></li>
+                                                            </ul>
+                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                        </li>
+                    </ul>
+                </div>
+                        
+                            <div id="lang_nav">
+                    <ul>
+                        <li id="lang">
+                        <a href="javascript:void(0);">
+                    	    <img src="https://img.ashampoo.com/ashampoo.com_images/img/1/template/navigationflags/2.gif" alt="English (US) image" align="top">
+                    	    English (US)
+                    	    <img src="https://img.ashampoo.com/ashampoo.com_images/img/1/template/metanav.dropdown.gif" alt="Drop Down Arrow" align="top" class="down_down_arrow"> <!--[if gte IE 7]><!--></a><!--<![endif]-->
+                            <!--[if lte IE 6]><table><tr><td><![endif]-->
+                            <ul>
+                        	                                        <li><a href="https://www.ashampoo.com/da/usd/ppy" class="navigationflag navigationflag_29">Dansk</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/de/usd/ppy" class="navigationflag navigationflag_1">Deutsch</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/uk/usd/ppy" class="navigationflag navigationflag_20">English (UK)</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/es/usd/ppy" class="navigationflag navigationflag_11">Español</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/fr/usd/ppy" class="navigationflag navigationflag_4">Français</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/it/usd/ppy" class="navigationflag navigationflag_8">Italiano</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/hu/usd/ppy" class="navigationflag navigationflag_5">Magyar</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/nl/usd/ppy" class="navigationflag navigationflag_3">Nederlands</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/pl/usd/ppy" class="navigationflag navigationflag_7">Polski</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/br/usd/ppy" class="navigationflag navigationflag_24">Português (BR)</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/pt/usd/ppy" class="navigationflag navigationflag_10">Português (PT)</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/sv/usd/ppy" class="navigationflag navigationflag_12">Svenska</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/tr/usd/ppy" class="navigationflag navigationflag_14">Türkçe</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/el/usd/ppy" class="navigationflag navigationflag_32">Ελληνικά</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/ru/usd/ppy" class="navigationflag navigationflag_6">Русский</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/zh/usd/ppy" class="navigationflag navigationflag_26">正體中文</a></li>
+                                                                    <li><a href="https://www.ashampoo.com/cn/usd/ppy" class="navigationflag navigationflag_18">汉语</a></li>
+                                                            </ul>
+                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                        </li>
+                    </ul>
+                </div>
+                                    <div id="login_nav">
             	<ul>
                     <li id="login">
                     <a href="https://www.ashampoo.com/en/usd/mai" class="icon_login">
@@ -407,7 +292,7 @@ var google_remarketing_only = true;
                     <form action="https://www.ashampoo.com/en/usd/qlo" method="post" name="productsender">
 						<input name="session_langid" type="hidden" value="2">
 						<input name="return_path" type="hidden" value="myashampoo_intro">
-                        Your e-mail address::<br>
+                        Your e-mail address:<br>
                         <input name="email" id="email" type="text" maxlength="100" style="width:296px;"><br>
                         Your password:<br>
                         <input name="password" type="password" maxlength="100" style="width:296px;">
@@ -460,7 +345,7 @@ var google_remarketing_only = true;
         <ul>
         	<li id="logo"><a href="https://www.ashampoo.com/en/usd" class="logo_lang2" title="Ashampoo® - We Make Software!">Ashampoo® - We Make Software!</a></li>
         	<li id="product_menu_products">
-                <!--[if gte IE 7]><!--><h3><!--<![endif]--><a href="https://www.ashampoo.com/en/usd/pca/16/business"><span></span><!--[if lte IE 6]>&nbsp;<![endif]-->Products<!--[if gte IE 7]><!--></a></h3><!--<![endif]-->
+                <!--[if gte IE 7]><!--><h3><!--<![endif]--><a href="https://www.ashampoo.com/en/usd/pca/1/system-software"><span></span><!--[if lte IE 6]>&nbsp;<![endif]-->Products<!--[if gte IE 7]><!--></a></h3><!--<![endif]-->
                 <!--[if lte IE 6]><table><tr><td><![endif]-->
                 <div id="menu_products" class="psubmenu">
                     <div class="inner">            
@@ -481,13 +366,13 @@ var google_remarketing_only = true;
             <span>System Utilities</span></a></li>        
         
                             <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/0365/system-software/Ashampoo-HDD-Control-3">
-                                                HDD Control 3
+                <a href="https://www.ashampoo.com/en/usd/pin/4506/system-software/Ashampoo-WinOptimizer-11">
+                                                WinOptimizer 11
                                        </a>
                  </li>
                             <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/4506/system-software/Ashampoo-WinOptimizer-11">
-                                                WinOptimizer 11
+                <a href="https://www.ashampoo.com/en/usd/pin/0092/system-software/Ashampoo-ZIP-Pro">
+                                                ZIP Pro
                                        </a>
                  </li>
                             <li>
@@ -496,13 +381,8 @@ var google_remarketing_only = true;
                                        </a>
                  </li>
                             <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/0084/system-software/Ashampoo-Media-Sync">
-                                                Media Sync
-                                       </a>
-                 </li>
-                            <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/0161/system-software/Ashampoo-Core-Tuner-2">
-                                                Core Tuner 2
+                <a href="https://www.ashampoo.com/en/usd/pin/0365/system-software/Ashampoo-HDD-Control-3">
+                                                HDD Control 3
                                        </a>
                  </li>
                             <li>
@@ -516,8 +396,23 @@ var google_remarketing_only = true;
                                        </a>
                  </li>
                             <li>
+                <a href="https://www.ashampoo.com/en/usd/pin/0084/system-software/Ashampoo-Media-Sync">
+                                                Media Sync
+                                       </a>
+                 </li>
+                            <li>
+                <a href="https://www.ashampoo.com/en/usd/pin/0161/system-software/Ashampoo-Core-Tuner-2">
+                                                Core Tuner 2
+                                       </a>
+                 </li>
+                            <li>
                 <a href="https://www.ashampoo.com/en/usd/pin/0081/system-software/Ashampoo-Undeleter">
                                                 Undeleter
+                                       </a>
+                 </li>
+                            <li>
+                <a href="https://www.ashampoo.com/en/usd/pin/0192/system-software/Ashampoo-ZIP-Free">
+                                                ZIP Free
                                        </a>
                  </li>
                             <li>
@@ -595,6 +490,11 @@ var google_remarketing_only = true;
             <span>Tools &amp; Utilities</span></a></li>        
             
                             <li>
+                <a href="https://www.ashampoo.com/en/usd/pin/0073/tools-and-utilities/Ashampoo-GetBack-Photo">
+                                                GetBack Photo
+                                       </a>
+                 </li>
+                            <li>
                 <a href="https://www.ashampoo.com/en/usd/pin/0089/tools-and-utilities/Ashampoo-Photo-Mailer">
                                                 Photo Mailer
                                        </a>
@@ -607,11 +507,6 @@ var google_remarketing_only = true;
                             <li>
                 <a href="https://www.ashampoo.com/en/usd/pin/0078/tools-and-utilities/Ashampoo-Registry-Cleaner">
                                                 Registry Cleaner
-                                       </a>
-                 </li>
-                            <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/0073/tools-and-utilities/Ashampoo-GetBack-Photo">
-                                                GetBack Photo
                                        </a>
                  </li>
                             <li>
@@ -664,23 +559,8 @@ var google_remarketing_only = true;
             <span>Multimedia Software</span></a></li>        
             
                             <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/0255/multimedia-software/Ashampoo-ClipFinder-HD-2">
-                                                ClipFinder HD 2
-                                       </a>
-                 </li>
-                            <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/0637/multimedia-software/Ashampoo-Movie-Shrink-Burn-4">
-                                                Movie Shrink &amp; Burn 4
-                                       </a>
-                 </li>
-                            <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/0730/multimedia-software/Ashampoo-Music-Studio-5">
-                                                Music Studio 5
-                                       </a>
-                 </li>
-                            <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/0686/multimedia-software/Ashampoo-Photo-Card-2">
-                                                Photo Card 2
+                <a href="https://www.ashampoo.com/en/usd/pin/1224/multimedia-software/Ashampoo-Snap-8">
+                                                Snap 8
                                        </a>
                  </li>
                             <li>
@@ -689,18 +569,8 @@ var google_remarketing_only = true;
                                        </a>
                  </li>
                             <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/1157/multimedia-software/Ashampoo-Photo-Optimizer-6">
-                                                Photo Optimizer 6
-                                       </a>
-                 </li>
-                            <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/0866/multimedia-software/Ashampoo-Slideshow-Studio-HD-3">
-                                                Slideshow Studio HD 3
-                                       </a>
-                 </li>
-                            <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/1024/multimedia-software/Ashampoo-Snap-7">
-                                                Snap 7
+                <a href="https://www.ashampoo.com/en/usd/pin/0730/multimedia-software/Ashampoo-Music-Studio-5">
+                                                Music Studio 5
                                        </a>
                  </li>
                             <li>
@@ -714,13 +584,33 @@ var google_remarketing_only = true;
                                        </a>
                  </li>
                             <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/0090/multimedia-software/Ashampoo-MP3-Cover-Finder">
-                                                MP3 Cover Finder
+                <a href="https://www.ashampoo.com/en/usd/pin/1024/multimedia-software/Ashampoo-Snap-7">
+                                                Snap 7
                                        </a>
                  </li>
                             <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/1518/multimedia-software/Ashampoo-Photo-Commander-Free">
-                                                Photo Commander FREE
+                <a href="https://www.ashampoo.com/en/usd/pin/0637/multimedia-software/Ashampoo-Movie-Shrink-Burn-4">
+                                                Movie Shrink &amp; Burn 4
+                                       </a>
+                 </li>
+                            <li>
+                <a href="https://www.ashampoo.com/en/usd/pin/1157/multimedia-software/Ashampoo-Photo-Optimizer-6">
+                                                Photo Optimizer 6
+                                       </a>
+                 </li>
+                            <li>
+                <a href="https://www.ashampoo.com/en/usd/pin/0866/multimedia-software/Ashampoo-Slideshow-Studio-HD-3">
+                                                Slideshow Studio HD 3
+                                       </a>
+                 </li>
+                            <li>
+                <a href="https://www.ashampoo.com/en/usd/pin/0686/multimedia-software/Ashampoo-Photo-Card-2">
+                                                Photo Card 2
+                                       </a>
+                 </li>
+                            <li>
+                <a href="https://www.ashampoo.com/en/usd/pin/0090/multimedia-software/Ashampoo-MP3-Cover-Finder">
+                                                MP3 Cover Finder
                                        </a>
                  </li>
                             <li>
@@ -743,6 +633,16 @@ var google_remarketing_only = true;
                                                 Cover Studio 2
                                        </a>
                  </li>
+                            <li>
+                <a href="https://www.ashampoo.com/en/usd/pin/1518/multimedia-software/Ashampoo-Photo-Commander-Free">
+                                                Photo Commander FREE
+                                       </a>
+                 </li>
+                            <li>
+                <a href="https://www.ashampoo.com/en/usd/pin/0255/multimedia-software/Ashampoo-ClipFinder-HD-2">
+                                                ClipFinder HD 2
+                                       </a>
+                 </li>
                     
             
     </ul>
@@ -757,13 +657,13 @@ var google_remarketing_only = true;
                         
             
                             <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/0860/cad-software/Ashampoo-3D-CAD-Architecture-5">
-                                                3D CAD Architecture 5
+                <a href="https://www.ashampoo.com/en/usd/pin/0960/cad-software/Ashampoo-3D-CAD-Professional-5">
+                                                3D CAD Professional 5
                                        </a>
                  </li>
                             <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/0960/cad-software/Ashampoo-3D-CAD-Professional-5">
-                                                3D CAD Professional 5
+                <a href="https://www.ashampoo.com/en/usd/pin/0860/cad-software/Ashampoo-3D-CAD-Architecture-5">
+                                                3D CAD Architecture 5
                                        </a>
                  </li>
                             <li>
@@ -798,13 +698,8 @@ var google_remarketing_only = true;
                                        </a>
                  </li>
                             <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/fremd023/partner-software/SuperEasy-Backup-Pro">
-                                                Backup Pro
-                                       </a>
-                 </li>
-                            <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/fremd027/partner-software/SuperEasy-Password-Manager">
-                                                Password Manager Pro
+                <a href="https://www.ashampoo.com/en/usd/pin/fremd016/partner-software/Advanced-Driver-Updater">
+                                                Advanced Driver Updater
                                        </a>
                  </li>
                             <li>
@@ -813,13 +708,18 @@ var google_remarketing_only = true;
                                        </a>
                  </li>
                             <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/fremd024/partner-software/WebSite-X5-Home-10">
-                                                WebSite X5 Home 10
+                <a href="https://www.ashampoo.com/en/usd/pin/fremd027/partner-software/SuperEasy-Password-Manager">
+                                                Password Manager Pro
                                        </a>
                  </li>
                             <li>
-                <a href="https://www.ashampoo.com/en/usd/pin/fremd016/partner-software/Advanced-Driver-Updater">
-                                                Advanced Driver Updater
+                <a href="https://www.ashampoo.com/en/usd/pin/fremd023/partner-software/SuperEasy-Backup-Pro">
+                                                Backup Pro
+                                       </a>
+                 </li>
+                            <li>
+                <a href="https://www.ashampoo.com/en/usd/pin/fremd024/partner-software/WebSite-X5-Home-10">
+                                                WebSite X5 Home 10
                                        </a>
                  </li>
                             <li>
@@ -998,7 +898,8 @@ In order to avoid that Facebook collects information on your visits to our websi
 <br><br>
 <strong>Instructions on how to delete cookies for the most common browsers:</strong>
 <ul>
-<li>Microsoft Internet Explorer 7/8: <a href="http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies" target="_blank" class="nopad">Instructions</a></li>
+<li>Microsoft Internet Explorer 7: <a href="http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies" target="_blank" class="nopad">Instructions</a></li>
+<li>Microsoft Internet Explorer 8 or above: <a href="http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11" target="_blank" class="nopad">Instructions</a></li>
 <li>Mozilla Firefox: <a href="http://support.mozilla.com/en-US/kb/Deleting%20cookies" target="_blank" class="nopad">Instructions</a></li>
 <li>Google Chrome: <a href="http://www.google.com/support/chrome/bin/answer.py?hlrm=de&amp;answer=95647" target="_blank" class="nopad">Instructions</a></li>
 <li>Apple Safari: <a href="http://docs.info.apple.com/article.html?path=Safari/3.0/en/11471.html" target="_blank" class="nopad">Instructions</a></li>
@@ -1035,7 +936,7 @@ They are prohibited from using this information for other purposes. Moreover, th
 <br>
 <a name="advice"></a>
 <h2>Right of access to personal data</h2>
-You have the right to be informed about stored data pertaining to your person, the origin and recipients of such data and the reason why this data was collected and stored. Information will be provided by our data protection advisor <strong>Sebastian Strzelecki</strong>, privacy@ashampoo.com. 
+You have the right to be informed about stored data pertaining to your person, the origin and recipients of such data and the reason why this data was collected and stored. Information will be provided by our data protection advisor privacy@ashampoo.com. 
 <br><br>
  We maintain physical, electronical and procedural safety measures in connection with the collection, storage and disclosure of personal information about our customers. These safety measures include occasionally asking you to provide proof of your identity before we disclose personal data to you.
 <a href="#ash_top" class="btt">Back to top</a>
@@ -1043,7 +944,7 @@ You have the right to be informed about stored data pertaining to your person, t
 <br>
 <a name="info"></a>
 <h2>Further information</h2>
-Your trust is important to us. Thus we are always ready to answer your questions about the handling of your personal data. If, at any time, you have questions that this privacy policy could not answer or if you wish to receive more specific information about certain issues, please contact our data protection advisor <strong>Sebastian Strzelecki</strong>, privacy@ashampoo.com.
+Your trust is important to us. Thus we are always ready to answer your questions about the handling of your personal data. If, at any time, you have questions that this privacy policy could not answer or if you wish to receive more specific information about certain issues, please contact our data protection advisor privacy@ashampoo.com.
 <a href="#ash_top" class="btt">Back to  top</a>
 
 <br>
@@ -1084,7 +985,7 @@ Your trust is important to us. Thus we are always ready to answer your questions
                 </div>
             <br><br>
             <center>
-            <div id="copyrights">© 1999–2014 – Ashampoo GmbH &amp; Co. KG – All rights reserved!</div>
+            <div id="copyrights">© 1999–2015 – Ashampoo GmbH &amp; Co. KG – All rights reserved!</div>
             </center>
         </div>   
     </div>
