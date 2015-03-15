@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the codeguru.com privacy policy that was archived on 2014-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141015091314id_/http%3A//www.codeguru.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the codeguru.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315030231id_/http%3A//www.codeguru.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <title>QUINSTREET, INC. Privacy Policy</title>
@@ -343,49 +343,6 @@ superTracker._trackPageview();
    // -->
 </script>
 <!-- End Google Analytics -->
-<!-- Begin CCM Tag --> 
-<script type="text/javascript"> 
-function getCookiesForML(cname) {
-	var name = cname + "=";
-	var ca = document.cookie.split(';');
-	for (var i = 0; i < ca.length; i++) {
-		var c = ca[i].replace(/^\s+|\s+$/g, '');
-		if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
-	}
-	return "";
-}
-if(typeof mlProfileID != 'undefined'){
-	var mlEml = getCookiesForML('eml');
-	//--------DFP Topic Write Out -------------// 
-	// document.write('<scri' + 'pt src="//in.ml314.com/ctp.ashx?varname=_mlTopics&type=string&output=name&limit=3' + '&cb=' + Math.floor(Math.random() * 9876543) + '"></scri' + 'pt>');
-	window.onload = function () {
-		//--------CCM TAG -------------------// 
-		(function () { 
-		_ml = window._ml || {}; 
-		_ml.eid = '50027'; 
-		_ml.clid = mlProfileID; 
-		if(typeof mlEml != 'undefined')
-			_ml.em = mlEml;
-		else
-			_ml.em = '';
-		_ml.ht = 'shex';
-		if(typeof Webtrends != 'undefined'){		
-			if(typeof Webtrends.dcss.dcsobj_0.WT.co_f != 'undefined')
-				_ml.fp = Webtrends.dcss.dcsobj_0.WT.co_f; 
-			else
-				_ml.fp = '';
-		}
-		else
-		{
-			_ml.fp = '';
-		}
-		var s = document.getElementsByTagName('script')[0], cd = new Date(), mltag = document.createElement('script'); mltag.type = 'text/javascript'; mltag.async = true; mltag.src = '//ml314.com/tag.aspx?' + cd.getDate() + cd.getMonth() + cd.getFullYear(); s.parentNode.insertBefore(mltag, s); 
-		})(); 
-	}
-}
-</script> 
-<!-- End CCM Tag -->
-
 </div>
 </div>
 <div id="contentfoot"></div>    
