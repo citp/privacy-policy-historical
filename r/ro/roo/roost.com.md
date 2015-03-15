@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roost.com privacy policy that was archived on 2014-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140918031110id_/http%3A//www.roost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roost.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315051459id_/https%3A//roost.com/privacy) for the most accurate reproduction.*
 
-# Roost
+# Roost Privacy Policy
 
 READ THIS PRIVACY POLICY CAREFULLY AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS, REMEDIES AND OBLIGATIONS. THESE INCLUDE VARIOUS LIMITATIONS AND EXCLUSIONS, AND A CLAUSE THAT GOVERNS THE JURISDICTION AND VENUE OF DISPUTES. 
 
