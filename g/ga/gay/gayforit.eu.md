@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayforit.eu privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924063108id_/http%3A//www.gayforit.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayforit.eu privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023845id_/http%3A//www.gayforit.eu/privacy) for the most accurate reproduction.*
 
 # GayForIt.eu
 
@@ -41,4 +41,4 @@ We do share non-personally-identifiable information (such as anonymous User usag
 We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with the Laws of England & Wales.  
 Gayforit also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Gayforit believes, in good faith, is appropriate or necessary to enforce our Terms of Service, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Gayforit Website, and to protect the rights, property, or personal safety of Gayforit, our users or others.
 
-GLBT Ltd, 145 - 147 St John Street, London, EC1V 4PY 
+GF Networks Ltd, 145 - 147 St John Street, London, EC1V 4PY 
