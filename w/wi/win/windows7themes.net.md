@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the windows7themes.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625181114id_/http%3A//windows7themes.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows7themes.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013451id_/http%3A//windows7themes.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-New
+[](http://windows7themes.net/javascript-disabled/) [](http://windows7themes.net/windows-7-themes/)
 
 _Worried about your privacy?_  
   
@@ -34,29 +34,31 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
 
-  
-
+[ ](http://twitter.com/home?status=http%3A%2F%2Fwindows7themes.net%2Fprivacy-policy%2F "Tweet It") [ ](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwindows7themes.net%2Fprivacy-policy%2F "Share on Facebook") [ ](http://plus.google.com/share?url=http%3A%2F%2Fwindows7themes.net%2Fprivacy-policy%2F "Share on Google+") [ ](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwindows7themes.net%2Fprivacy-policy%2F&media= "Share on Pinterest") [ ](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwindows7themes.net%2Fprivacy-policy%2F "Share on LinkedIn") [ ](http://www.tumblr.com/share/link?url=http%3A%2F%2Fwindows7themes.net%2Fprivacy-policy%2F&name=Privacy+Policy "Share on Tumblr") [ ](mailto:?subject=Privacy%20Policy&body=http%3A%2F%2Fwindows7themes.net%2Fprivacy-policy%2F "Share via Email")
 
 Published: Sunday, March 8th, 2009  Last Modified: March 20, 2013
 
 ### Trending On Windows 7 Themes .Net
 
-### Related Questions
-
-  
-
+### Related Questions 
 
 **Written by:**   
 Oliver is the founder and lead editor of this site. He is interested in finding new ways to break Windows, find common errors and help others to fix them. Aside from that, he loves to fully customize systems with Rainmeter and Dreamscene, find out more about ancient civilizations like the Chachapoya, sharpen his digital photography skills and create software with a small group of selected developers. If you would like to connect with him to discuss anything, send him a mail!
 
  **[Learn More About.Me](http://about.me/oliver.krautscheid)**
 
-Follow me on Twitter for daily updates: [](http://twitter.com/oliversk)
+Follow me on Twitter for daily updates:
 
-Contact The Author: [support@windows7themes.net](mailto:support@windows7themes.net) [](http://qa.windows7themes.net/ask)
+Contact The Author:   
+[support@windows7themes.net](mailto:support@windows7themes.net)
+
+[](http://qa.windows7themes.net/ask)
 
 Connect With Our Site: 
 
-[ ](https://www.facebook.com/win7themes) [ ](https://plus.google.com/u/0/b/112230150783618215999/112230150783618215999/posts) [ ](http://twitter.com/oliversk)
-
 _Need help? Ask a question at our QA site, click the red button to get started:_
+
+ **Want to support us?** Great, simply buy your favorite games from G2A via our referral link (g2a.com/r/win7themes) and save money at the same time: 
+
+  
+
