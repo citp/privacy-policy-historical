@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneersettler.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220103812id_/http%3A//pioneersettler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneersettler.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014916id_/http%3A//pioneersettler.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Pioneer Settler | Homesteading | Self Reliance | Recipes
 
