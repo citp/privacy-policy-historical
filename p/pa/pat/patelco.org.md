@@ -1,17 +1,31 @@
-> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702222733id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315031707id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.*
 
 # Patelco – Security Center
 
-At Patelco, your personal and financial information   
+At Patelco, your personal and financial information  
 is secure. We have several security measures  
-to help prevent unauthorized access to your account(s). 
+to help prevent unauthorized access to your account(s).
 
 Explore the tabs below to learn more about our   
 privacy and security practices as well as how to  
 report and prevent any fraudulent activity.
 
+[View our Terms and Conditions](https://www.patelco.org/Privacy-Security/Terms-And-Conditions/)
+
+  
+
+
 |  Current Security Alerts & Notifications   
 ---  
+  
+**Security risk for older browsers**   
+Using an Out-of-Date Browser? Find out why it’s important to upgrade now. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Browser-Upgrade/)  
+  
+**Patelco Mobile App**   
+Avoid third party app stores to install the Patelco mobile app. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Mobile-Apps/)  
+  
+**Cyber Credential Hacking**   
+Patelco systems are safe and have not been compromised. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Cyber-Credential-Hacking/)  
   
 **New! Expanded Online Banking Security - Multi-Factor Authentication (MFA)**   
 The expansion of our MFA process provides an additional layer of security. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Expanded-MFA/)  
@@ -43,12 +57,6 @@ These stores announce unauthorized access to card data. Please watch for unusual
 **Phishing Scam Alert**   
 Some members have notified us that they are receiving emails asking for Online Banking information. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Phishing-Email/)  
   
-**Patelco Counterfeit Cashier’s Checks**   
-Patelco counterfeit Cashiers’ Checks being produced and passed to victims across the country. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Counterfeit-Cashiers-Checks/)  
-  
-**Text Message Fraud Alert**   
-Some members have notified us that they are receiving text message requests for account information. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Text-Fraud-Alert/)  
-  
 ## Reporting Fraud
 
 ### Fraudulent Emails & Websites
@@ -76,13 +84,13 @@ At Patelco, your personal and financial information is secure and we are committ
 | Privacy Notices:  
 ---  
   
-  * **Federal Privacy Notice** – The security of your personal and financial information is our highest priority. Read our [Federal Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/privacy_notice_2013.pdf) to learn how we use and protect your information. 
-  * **California Privacy Notice** – In the state of California you have the right to restrict the sharing of your personal information by organizations. You can learn more by reading the [California Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/CA_privacy_notice_2013.pdf).
+  * **Federal Privacy Notice** – The security of your personal and financial information is our highest priority. Read our [Federal Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/privacy_notice_2014.pdf) to learn how we use and protect your information. 
+  * **California Privacy Notice** – In the state of California you have the right to restrict the sharing of your personal information by organizations. You can learn more by reading the [California Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/CA_privacy_notice_2014.pdf).
 
 
 
 **Our right to change these policies:**   
-These policies are effective June 1, 2013. We can change these policies by notifying you in writing. If a new policy (or policies) will be subject to opt-out rights, we will give you at least 30 days advance notice before the new policy (or policies) goes into effect, and we will disclose the means by which you can opt out of disclosure of nonpublic personal information. 
+These policies are effective June 1, 2014. We can change these policies by notifying you in writing. If a new policy (or policies) will be subject to opt-out rights, we will give you at least 30 days advance notice before the new policy (or policies) goes into effect, and we will disclose the means by which you can opt out of disclosure of nonpublic personal information. 
 
 If you have any questions regarding our privacy practices, please [send us a secure email](https://www.patelco.org/Contact) or call us at **800.358.8228**.
 
