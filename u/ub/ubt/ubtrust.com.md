@@ -1,136 +1,90 @@
-> *The following text is extracted and transformed from the ubtrust.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401061356id_/http%3A//www.ubtrust.com/resourcelibrary/privacy-trust.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubtrust.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315194346id_/https%3A//www.ubt.com/privacy) for the most accurate reproduction.*
 
-# Union Bank & Trust — Resource Library.
+# Union Bank & Trust | Financial Privacy | Union Bank & Trust
 
-Financial Privacy Notice - effective July 1, 2008  
+Offering you exceptional service, along with protecting your privacy, is important to us.  To understand what type of information we collect, and what we do with this information, please see our [Privacy Notice](https://web.archive.org/sites/default/files/_media/download/financial-privacy-bank-nov14.pdf).[  
+](https://www.ubt.com/sites/default/files/_media/download/Financial-Privacy-Notice.pdf)
 
+To opt out of sharing certain information with our affiliates, use this [online form](https://secure.ubt.com/FinPrivacy).
 
-If we make changes to our Privacy Policy, we will update this online policy and note the new effective date.
+**Union Bank & Trust Company Online Privacy Statement          Effective 7/15/2014**
 
-Our Commitment To You
+This Online Privacy Statement (“Statement”) describes the treatment of information that is provided or collected through any of Union Bank & Trust Company’s (“Union Bank”, “our”, “we”) online interfaces to which a copy of the Statement is posted.  This Statement includes all “Services” which inclusively refers to [www.ubt.com](http://www.ubt.com/) (the “Website”), Applications we have placed on third party sites such as Facebook®, Twitter® and other social media sites, and our mobile applications (“Applications”).  This Statement also explains how we collect, use, and share information based on users’ interactions with online advertisements, both on the Services and on online interfaces owned by third parties.  This Statement does not govern our privacy practices offline or with respect to information that is not provided or collected through the Services.
 
-  1. We do not sell customer information to third parties.
-  2. We do not share customer information with outside parties who may wish to market their products to you.  
-_You do not need to take any action or instruct us to keep your information confidential. We will protect your privacy automatically._
-  3. Within our family of companies, we safeguard your customer information carefully.  
-_You have choices about how your information may be shared and used within Union Bank & Trust. We have made it easy to communicate your privacy preference to us. See the response form below for details._
-  4. We are committed to protecting your customer information in every transaction, at every level of our organization.  
-_For this purpose, we have designed procedures, standards and technology, which are described in this notice._
-  5. We are committed to helping you protect your privacy every day.
-  6. We do not knowingly collect or use personal information from children under the age of 13 through our website or online environment.
+For information on Union Bank’s offline privacy practices see our [Financial Privacy Notice](https://web.archive.org/sites/default/files/_media/download/financial-privacy-bank-nov14.pdf) and your choice for [opting-out of information sharing with our affiliates](https://secure.ubt.com/FinPrivacy/FinPrivForm.aspx).
 
+While this Statement describes how we treat information, please be aware additional terms and conditions may apply for certain parts of our Website and Applications.
 
+**Agreement to Statement**
 
-Visit our [Security & Fraud Center](http://www.ubt.com/tools/security/security-home.html) for complete information on reporting and preventing fraud, identity theft, phishing, and other harmful activities. 
+By using the Services you consent to this Statement.  You do have the choice to opt-out of certain tracking, please see “Online Tracking and Advertising” section below.
 
-_Service and Privacy_   
-Offering you exceptional service along with protecting your privacy is important to Union Bank & Trust and our family of service providers.
+**Types of Information We Collect through online Services**
 
-In the normal course of our business relationship, we ask you to provide us personal information. This information is important to help us provide great service, and to complete your transactions securely and timely. This information is also critical to identify you and prevent access to personal financial information by unauthorized persons.
+We collect two basic types of information through the Services – personal information and anonymous information.
 
-We also gather certain information to comply with laws and regulations that govern the financial services industries. For example, federal regulations require that we obtain a social security number or tax identification number for many types of accounts.
+“Personal information” refers to information that identifies a particular individual, such as information you provide on our forms, surveys, applications or similar online fields.  Examples include your name, address, telephone number, tax identification number, or account information.
 
-The information you provide to us online is protected by encryption technology such as Secure Socket Layer (SSL) to transmit information between you and us.  This technology protects your information by making it unreadable to anyone other than Union Bank.
+“Anonymous information” means information that does not directly or indirectly identify a particular individual.  Examples may include information about your Internet browser, information collected through tracking technologies, demographic information that you provide to us.
 
-If you have any questions about our Financial Privacy Policy, please contact [your nearest Union Bank & Trust office](http://www.ubt.com/about/branches.html).
+“Location information” means information that may be collected by certain mobile applications that identifies your physical location.  This information may be collected from your mobile device’s location-aware features when you request certain services that are dependent on your physical location.
 
-_How we Protect and Use Customer Information_  
-Nonpublic Personal Information means personally identifiable information, such as a tax identification number or your account number.Customer means an individual who obtains a product or service from us for personal, family, or household use.  While we initiate safeguards to protect all nonpublic personal information, this notice is specifically designed for individuals who obtain products and services from us for personal, family, or household purposes. This includes former customers.1.  Safeguarding the security and integrity of customer information.  
-We are committed to protecting the security and integrity of customer information through procedures and technology designed for this purpose.  For example: 
+**How We Collect Your Information**
 
-  1. We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
-  2. The bank has established an Information Security Program, including the Clean Desk Program, and also a Code of Ethics.  All employees are expected to abide by programs and policies established by the bank in an effort to protect customer information.
-  3. Nonpublic personal information in regard to a customer can generally be provided:
-    1. To the customer.
-    2. To an authorized representative on behalf of the customer.
-    3. To a third party at the request and authorized by the customer.
-    4. To a Union Bank & Trust affiliate1.
-    5. To Union Bank & Trust employees who need to know that information to provide products and services to the customer.
-    6. To a non-affiliated third party as described in Section 4.
-  4. We require independent contractors and outside companies who work with us to adhere to strict privacy standards through their contracts with us.
-  5. We use technological means (backup files, virus detection/eradication software, firewalls and other software/hardware) to protect against unauthorized access or alterations to customer data. 
+We collect personal information from you when you provide this information to us directly.  For example, when you apply for accounts through our Services, or register for an Application.
 
+In addition, we may collect information about your activity on the Services automatically using tracking technologies, such as cookies.  For additional information, see the section entitles “Online Tracking and Advertising”.
 
+**How We Use Your Information**
 
-2.  We collect and maintain customer information as part of servicing your account and relationship.  
-In the course of serving you, we collect information about you from a variety of sources, such as:
+We may use information collected through the Services in order to, among other things:
 
-  1. Information you provide to us on applications or forms, such as your social security number, income and accounts with others.
-  2. Information about your transactions with us (i.e. balance information, overdraft history, credit or debit card purchase information and loan history).
-  3. Information we receive from an outside company, such as a consumer reporting agency or credit bureau, regarding your credit history, checking account history or employment status. 
-  4. Information about your transactions or experiences with a Union Bank & Trust affiliate (i.e. insurance, investment, title insurance or student loan products).
+  * Provide you with, or evaluate your eligibility for, products and services that you request from us
+  * Communicate with you about your accounts or transactions with us
+  * Send you important information regarding the Services
+  * Allow you to participate in surveys, sweepstakes, contests and similar promotions, and to administer such promotions (note that these promotions may contain additional disclosures regarding our collection and/or use of your information)
+  * Consistent with local law, required disclosures, and choices and controls that may be available to you: 
+    * Send you offers and promotions for our products and services, or products and services that may be of interest to you;
+    * Personalize content and experiences on the Services;
+    * Verify your identity and/or location (or the identity or location of your authorized representative) for security, fraud prevention and other risk control purposes; and
+    * Provide you with advertising based on your activity on the Services and on third-party websites and applications.
+    * Optimize or improve our products and services
+    * Detect, investigate and prevent activities that may violate our policies or be illegal
+    * Comply with our legal and regulatory obligations
 
 
 
-3.  The customer information we collect is used to serve your accounts and meet your financial needs.  
-Information may be used within Union Bank & Trust, as well as with authorized third parties (described in Section 4), for a number of purposes: 
+**How We Share Your Information**
 
-  1. To protect your accounts from unauthorized access or identity theft.
-  2. To process your requests, such as loan applications, purchases and ATM withdrawals.
-  3. To service your accounts by issuing checks, ATM cards and account statements.
-  4. To keep you informed about financial services of interest to you.
+Please refer to Union Bank’s [Privacy Notice](https://web.archive.org/sites/default/files/_media/download/Financial-Privacy-Notice.pdf).
 
+**Online Tracking and Advertising**
 
+We, along with certain service providers operating on our behalf, may collection information about your activity on the Services using tracking technologies, including:
 
-4.   We do not share information with third parties, except as permitted by law.  
-We do not disclose any nonpublic personal information about our customers or former customers to anyone, except as permitted by law. For example, we may provide information to companies that perform support services for us, such as technology service providers, consultants or check printers. We may also share certain information with companies who help us conduct surveys or marketing research. We may also disclose information to third parties as permitted or required by law, for example courts or other government entities in response to subpoenas and other legal processes. Also, we may share information with individuals or companies you have requested us to share information with.
-
-We may disclose all of the information we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.
-
-  
-Important Notice about Credit Reporting: We may report information about your account(s) to credit bureaus and/or consumer reporting agencies. Late payments, missed payments or other defaults on your account(s) may be reflected in your credit and/or consumer report.
-
-It is important to note that we do not share customer information with other companies for the purpose of marketing their products to you, unless you specifically request in advance that we do so.  It is not necessary for you to instruct us not to share information with these outside companies, because we will automatically keep your information confidential.
-
-5.  Sharing information with Affiliates  
-Affiliates are companies under the same ownership or control as Union Bank & Trust, and include insurance, investment, title insurance and student loan companies.  We are allowed by law to share information within the Union Bank & Trust family of companies regarding your transactions and experiences with us (i.e. your account history, credit or debit card usage and payment history).  You may not opt out of us sharing this information.
-
-We may also share additional information about you with our affiliates, such as information we receive from a credit reporting agency or information you provided on a loan application. However, you have the right to instruct us not to share this information by notifying us as described below. Furthermore, federal law gives you the right to limit some, but not all, marketing from our affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our affiliates.
-
-You may limit the affiliates of Union Bank & Trust, such as our insurance, investment, title insurance and student loan affiliates, from marketing their products to you based on your personal information that we collect and share with them. This information may include your account history with us, your income, and your credit score. Your choice to prevent us from sharing certain information with our affiliates, and limit marketing offers from our affiliates, will continue until you notify us to change your choice.
-
-6.  College Savings Plan Participants  
-We will not share customer information in regard to College Savings Plan Participants with anyone other than the customer, an authorized representative of the customer, or those employees and/or service providers who need to know that information to provide products and services to the customer.
-
- _You Have the Right to Choose_
-
-Union Bank & Trust does not sell customer information or share it with outside third parties who may wish to market their products to you.  We will protect your privacy automatically.
-
-We may share your information with Union Bank & Trust affiliates as described in Section 5.  You have the right to instruct us not to share certain information. 
-
-If you have already recorded a privacy preference with us, there is no need to do so again.  You may change your instructions at any time. 
-
-**How to communicate your preference to Union Bank & Trust:**
-
-  1. Complete the response form below, or
-  2. Contact our Call Center toll-free at (800) 297-2837.
+  * Cookies.  Cookies are pieces of data stored on your device.  Browser cookies are assigned by a web server to the browser on your device.  When you return to a site you have visited before, your browser gives this data back to the server.  We use cookies that allow us to see information on user website activities including, but not limited to page views, source and time spent on website. The information is depersonalized and is displayed as numbers, meaning it cannot be tracked back to individuals. Using Google Analytics we can see what content is popular on our Website, and strive to give you more relevant information.
+  * Google AdWords.  Our Website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Union Bank Website. Any data collected will be used in accordance with this Statement, our own privacy policy ([www.ubt.com/privacy](http://www.ubt.com/privacy)) and Google’s privacy policy.  We restrict access and collection of information by advertising service providers for purposes other than assisting us with our advertising efforts.
 
 
 
-By completing this form, you will act on your choice to request we not share information other than your transactions and experiences with us with our affiliates and limit marketing offers from our affiliates.  
+**_You can set preferences_** **** for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/) (<https://support.google.com/ads/answer/2662922?hl=en>), and if you want to you can [opt out of interest-based advertising entirely by adjusting your browser’s cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
 
+**Linked Websites**
 
- |   | Do not share my personal information, other than information relating to your transactions and experiences with me, with your affiliates, and do not allow your affiliates to use my personal information to market to me.  
----|---|---  
-  
-Complete the name and address section below ONLY if you have checked the box above. Cut on the dotted line above and mail to: Union Bank & Trust, Attn: Deposit Services, PO Box 82535, Lincoln NE, 68501-2535.  **Please Print.**
+The Services may contain links to third-party websites not controlled by Union Bank.  We encourage you to be aware when you leave the Services and to read the privacy policies and terms of use of any such websites that may collect your personal information.
 
-Name:__________________________________________________
+**Information Security and Preventing Identity Theft**
 
-Phone:__________________________________________________
+Your privacy is important to Union Bank.  We have implemented physical, technical and administrative security measures that comply with federal law and industry standards, including network firewalls, Secure Sockets Layer (SSL) encryption for online sessions, dedicated security teams and secured files and buildings.  You have the responsibility to help us protect your accounts by never revealing your username, password or PIN to other individuals. 
 
-Address:________________________________________________
+**Children’s Privacy**
 
-City, State, ZIP:__________________________________________
+We do not knowingly collect or use personal information from children under the age of 13 through our website or online environment.  We request that such individuals do not provide personal information through the Services.  If a parent or guardian becomes aware that his or her child has provided us with information without parental or guardian consent, he or she should promptly contact us and we will delete such information from our files.
 
-Social Security or Tax ID Number:___________________________  
-_(not required but recommended to properly process your request)_
+**Social Media Platforms**
 
-Date:  __________________________________________________
+Union Bank may utilize various social media platforms, including Facebook® and Twitter®.  Please note any content you post to such social media platforms is subject to the applicable social medial platform’s terms of use and privacy policies, and is not in our control.
 
-Your preference will apply to all accounts linked to your Social Security Number.  For joint accounts, any account holder may express a privacy preference on behalf of the other joint account holders. 
+**Changes to this Statement**
 
-1\. Information regarding our transactions and experience may be provided to an affiliate. The customer has an option to request we not share information in regard to their credit report, loan applications or other information they provided or we received from a third party.
-
-  
-
+From time to time, we may make changes to this Statement.  If we do make changes, we will update the “Effective Date” posted at the top of the Statement.  We encourage you to review the Statement periodically to ensure you understand how we collect, use and share information through the Services. By continuing to use the Services following any changes, you are agreeing to accept the terms of the revised Statement.
