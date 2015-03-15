@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiox.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202050447id_/http%3A//hiox.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiox.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021051id_/http%3A//hiox.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | HIOX Softwares Private Limited
 
@@ -88,4 +88,4 @@ The cookie automatically identifies your computer, but not your identity, to our
 
 ##### Browser
 
-A browser, short for web browser, is a software application used to locate and display web pages when you search for a website. Two popular browsers are Netscape Navigator and Microsoft Internet Explorer. [Contact us](https://web.archive.org/web/20141202050447id_/http%3A//hiox.com/contact-us.php) for any queries or concerns in private policy.
+A browser, short for web browser, is a software application used to locate and display web pages when you search for a website. Two popular browsers are Netscape Navigator and Microsoft Internet Explorer. [Contact us](https://web.archive.org/web/20150315021051id_/http%3A//hiox.com/contact-us.php) for any queries or concerns in private policy.
