@@ -1,72 +1,94 @@
-> *The following text is extracted and transformed from the hapara.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124181846id_/http%3A//hapara.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hapara.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315031807id_/http%3A//hapara.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ■ Hapara
 
-Privacy Policy for Hapara Inc.
+**PRIVACY POLICY**
 
-## Your privacy is important to us
+**Hapara, Inc.**
 
-The Hapara Inc. (“Hapara”) Privacy Policy (“the Policy”) discloses our information practices, including our policies regarding the types of information that is gathered and tracked through our websites, descriptions of how such information is used, and identification of the parties with whom the information may be shared. This Policy is applicable to all Hapara websites and online services upon which the policy is displayed (each, a “Hapara Site”).
+**Last Updated: January 12, 2015**
 
-By voluntarily using a Hapara Site and/or providing data or other information via a Hapara Site, you are indicating your consent to this Policy and agreement to be bound by its terms.
+Hapara, Inc. (“Hapara”, “we,” “us,” “our”) provides this Privacy Policy because we know that you care about how your information is collected, used, shared and retained. This privacy policy explains how we handle personal data collected through our website (“website,” “site”) and through our services (“services,”). Our website serves as a channel for Hapara to share information about our services, and to gather information about current and potential customers of our services. Our services provide tools to education institutions that allow them to make better use of their chosen Internet-accessed software suite (“cloud platform”).
 
-### How to contact us
+_This privacy policy covers the following topics:_
 
-If you have questions or concerns regarding this Privacy Policy, please feel free to contact us by email at info@hapara.com or write to us at:  
-Hapara Inc.  
-395 Page Mill Rd, Suite 140,  
-Palo Alto, CA  
-USA 94306
+  * What Information We Collect
+  * How We Collect and Use Information
+  * How We Handle the Information of Children
+  * How We Handle the School’s Cloud Platform Data
+  * How we Protect your Information
+  * Links to External Websites
+  * Accessing and Modifying Information
+  * Important Notice to Non-U.S. Residents
+  * Changes to this Privacy Policy
+  * How to Learn More
 
-## Information collection and use
 
-### Personal information
 
-You can visit a Hapara Site without telling us who you are and without revealing any information about yourself. There are times, however, when we may need certain personally identifiable information (“Personal Information”) from you.
+**What Information We Collect**
 
-You may choose to provided us with Personal Information through a Hapara Site when you elect to register with Hapara in order to access a Hapara Service, download our products or access premium content. When you provide Personal Information in order to register with Hapara, such Personal Information will be used in order to provide you with access to the requested products, services content and/or information. We may also use the Personal Information to help us understand who is using our products and services and to help us manage business development activities. If you tell us that you do not want us to use this Personal Information as a basis for further contact with you, we will respect your wishes.
+_Contact Information_ : Our website serves as a channel for Hapara to share information about our services. We collect information on our website from visitors who may wish to purchase our services or seek support.  A visitor to our website may elect to leave contact information if they’d like us to get in touch.
 
-### Operational logs
+_Service Information_ : in the course of providing our services to an education institution, we ask school officials to provide additional information about the institution (billing contacts, timezone, and system configuration information) and basic information about the educators and classes that is needed to provide Hapara services.  This information includes class codes, names and rosters, school names and _student information_ (see below).  As part of their regular operation, Hapara services also collect a variety of information about how users interact with our systems, service health diagnostics, and technical logging information.
 
-Some Hapara Services retain detailed activity logs for security purposes. These logs are used to ensure traceability of administrative configuration changes, service transaction, and to provide Services administrators visibility to Service usage by their users or visitors. Hapara may monitor the operational logs for troubleshooting and security purposes.
+_Student information_ : most Hapara services require access to a student identifier in Google Apps; this is most commonly the student’s school email address (i.e. not their personal email address).  Additionally, we may also need access to the student’s roster, i.e. the list of classes the student is enrolled in, and the school identifier (for district configurations).  For schools that elect to have our services handle the setup of student accounts, the underlying Google service requires that we also collect a first and last name for those accounts.
 
-### Statistical information
+_Other Information_ : Like most websites, our website uses automatic data collection technology (Google Analytics) when you visit our website or use the services. We may collect information such as your IP address, Internet service provider, browser type and language, referring and exit pages and URLs, date and time, amount of time spent on particular pages, what sections of the website you visit, number of links you click while on the website, search terms, operating system, website traffic and related statistics, keywords and/or other data.
 
-In addition, we collect anonymous information from visits to the Hapara Sites to help us provide better customer service and to make the Hapara Sites as user friendly as possible. For example, we keep track of the domains from which people visit and we also measure visitor and user activity on Hapara Sites. However, when we do so, we do so in ways that keep the information anonymous. Hapara may use this data to analyze trends and statistics and to help us provide better customer service. None of the information described in this paragraph is reviewed at an individual level. None of the information described in the preceding paragraph is reviewed at an individual level.
+**How We Collect and Use Information**
 
-### Links to other websites
+_Contact Information:_ on our website we gather information from visitors via webforms. These webforms use Secure Socket Layer (SSL) encryption technology to provide an industry standard safeguard against access by other users of the Internet. Visitors volunteer the information they wish to share. When possible we also identify and record the referring source (other Internet location) that points a visitor to our website. We collect the referring website address from the HTTP referer header of the site that contains the link users clicked to get to our website. We use all of this information to better serve our current and potential clients, and to identify where we might find future customers.
 
-The Hapara Sites may contain links to other websites. Hapara is not responsible for the privacy practices or the content of such websites. The links from a Hapara Site do not imply that Hapara endorses or has reviewed the third-party websites. We suggest contacting the operators of those websites directly for information on their privacy policies.
+We also use cookies to compile aggregate data about our website’s traffic so that we can offer better experiences and tools in the future.  Cookies are small text files that help us to personalize the content of our website.  If you prefer, you can choose to turn off all cookies via your browser settings. However, if you turn your cookies off, some features of our website may not function properly. We do not behaviourally target advertising.
 
-### Our disclosure of your personal information and other information
+We do not knowingly collect any personal information from visitors to our site who are under the age of thirteen. If you are under 13, please do not give us any personal information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our privacy policy by instructing their children to never provide personal information through the Internet without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to us, please contact us, and we will endeavor to delete that information from our databases.
 
-Hapara is not in the business of selling your Personal Information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Information with certain third parties without further notice to you, as set forth below:
+Contact information is retained for a period required to support our business purposes, i.e. sales, forecasting, and analytics.
 
-### Business transfers
+_Service Information_ : to enable our service to schools, we ask school officials to provide us information required to provide such services.  The service information is volunteered by school officials, and is only used in providing our services to users in a manner consistent with this privacy policy.  The information transferred to Hapara servers through a secure Web site, or secure file transfer protocol based on industry-standard encryption technology, or via the Google Drive / Spreadsheets infrastructure.  This information is used to provide Hapara services, to provide support, to improve our services, and provide our customers with additional information about Hapara services.
 
-As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Information may be part of the transferred assets.
+Service information is retained for the period of time required to provide the service.
 
-### Related companies
+_Student information:_ this information is provided by school officials through a secure Web site, secure file transfer, or through Google Drive / Spreadsheet infrastructure.  This information is used to provide Hapara services required, and to provide support.  As part of support and troubleshooting activities, select Hapara employees may directly access this data.  Total number of accounts processed is tracked for billing purposes.
 
-We may also share your Personal Information and Operational Logs with our subsidiaries, affiliates and other related companies for purposes consistent with this Policy.
+Student information is retained for the period of time required to load the information into Google Apps, and in some instances, to accommodate support / troubleshooting activities.   We do not sell student information, and is retained only for as long as necessary to provide the Hapara services.
 
-### Agents, consultants and related third parties
+_Other information:_ this information is collected automatically and anonymized by our Web analytics services provider (Google Analytics).  The information is retained for the period of time required to provide the analytics services.
 
-Hapara, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+_Third parties:_ Like many businesses, we hire other companies to perform certain business-related functions. Examples include mailing information, hosting services, or processing payments. When we employ another company to perform a function of this nature, we provide them with the information that they need to perform their specific function, which may include student information.  When student information is required, the information is encrypted where possible to provide the service; otherwise, we require the vendors to implement the same commitments to safeguarding student and personal information that we do.
 
-### Legal requirements
+_Acquisition:_ If all or substantially all of our assets are acquired, we expect that the information that we have collected, including personal information, would be transferred along with our other business assets. We will allow a successor entity to maintain the student personal information, in the case of our merger or acquisition by another entity, provided the successor entity is subject to these same commitments for the previously collected student personal information.
 
-Hapara may disclose your Personal Information and Operational Logs if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Hapara, (iii) act in urgent circumstances to protect the personal safety of users of a Hapara Site or Service, or the public, or (iv) protect against legal liability.
+_Other disclosure:_ we may disclose your information to government authorities, and to other third parties when compelled to do so by government authorities or required by law, including but not limited to in response to court orders and subpoenas. We also may disclose your information when we have reason to believe someone is intending to or is causing harm to other users, or anyone else that could be harmed by such activities, or our rights or property.
 
-### Security
+**Student-generated content**
 
-Personal Information and Operational Logs collected through the Hapara Sites is kept in a secure database and all reasonable precautions are taken to secure this data. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from a Hapara Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Information to Hapara via the Internet.
+Our service can be used to grant teachers and school officials access to student-generated content in various applications inside of their school’s Google Apps for Education domain. This might include student’s documents in Google Drive, blog posts in Blogger, or emails in Gmail.   We rely upon Google’s security measures, outlined in [Google’s Privacy Policy](https://www.google.com/edu/trust/), to ensure that the information access is secure and limited to the teachers and school officials that use our service.  Student-generated content is not stored by Hapara.
 
-### Changes to our policy
+**How we Protect your Information**
 
-We may change our business and the Hapara Sites from time to time. As a result, at times it may be necessary for us to make changes to this Policy. Hapara reserves the right to update or modify this Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Information. This Policy was last updated on the date indicated above.  
-Your continued use of the Hapara Site after any changes or revisions to this Policy shall indicate your agreement with the terms of such revised Policy.
+Hapara takes very seriously the security and privacy of the data of the students in the schools we serve. Hapara complies with applicable laws and regulations which govern or apply to the provision of our services. Hapara has also committed to comply with the [Student Privacy Pledge](http://studentprivacypledge.org/?page_id=45), coordinated by FutureofPrivacy.org
 
-### Access to personal information and other questions
+Hapara has strict procedures and controls to protect information stored in our servers. Access to information is limited to those employees who require it to perform their job functions.  We use two-factor authentication, SSL (Secure Socket Layer) encryption, physical access controls to files and buildings, and other industry-standard best practices.
 
-You have the right to contact us to request information about the Personal Information we have collected from you and to request the correction, modification or deletion of such information. To make such a request and/or to pose any other questions regarding this Policy, please contact us as indicated in the “How to Contact Us” section above.
+**Links to External Websites**
+
+The website may contain links to third party websites. Hapara has no control over the privacy practices of these websites. As such, we are not responsible for the privacy policies of those third party websites. You should check the applicable third party privacy policy and terms of use when visiting any other websites, and before providing any personal information to other websites.
+
+**Accessing and Modifying Information**
+
+Upon request, we will grant you reasonable access to personal information that we and our agents have about you for the purpose of reviewing and/or requesting changes. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our databases.
+
+Parents have the right to ask that the online records of their children under the age of 13 be removed from the storage of any online service provider. If you wish to request that Hapara remove your child’s records from our database, please contact the appropriate official at your child’s school and ask them to carry out this action in collaboration with the Hapara team.
+
+**Important Notice to Non-U.S. Residents**
+
+The website, and the services are operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to or accessed within the United States. By providing us with any information through the website, or the services, you consent to this transfer.
+
+**Changes to this Privacy Policy**
+
+We may change this privacy policy from time to time. When material changes are made to this privacy policy, Hapara customers will be notified through the contact email given to us at least two weeks prior to modification taking effect.  In that time, the primary administrative contact for a Hapara customer can request that we delete the school’s data from our systems (see above) if that school does not wish to be bound by the new policy.
+
+**How to Learn More**
+
+Hapara’s principal headquarters are located at 970 Main Street in Redwood City, California. We can be reached by telephone at 650 847-1371. To learn more about our privacy policy, you can email us at [privacy@hapara.com](mailto:privacy@hapara.com)
