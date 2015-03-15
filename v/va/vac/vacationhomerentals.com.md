@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationhomerentals.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705191809id_/http%3A//www.vacationhomerentals.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationhomerentals.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043314id_/http%3A//www.vacationhomerentals.com/privacy.html) for the most accurate reproduction.*
 
 # Vacation Home Rentals - vacation rental homes, villas, condos and more!
 
