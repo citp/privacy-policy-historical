@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the themennonite.org privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921030419id_/http%3A//www.themennonite.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themennonite.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315072222id_/https%3A//themennonite.org/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-Our postal address is:
+**As You Use TheMennonite.org Web Site:**
 
-_The Mennonite_  
-1700 S. Main Street  
-Goshen, IN 46526
-
-## What information do we collect and how do we use it?
-
-### As You Use TheMennonite.org Web Site:
-
-### We Collect:
+We Collect:
 
   * Only the IP addresses, but not the e-mail address of visitors to our site.
   * The email addresses of those who communicate with us via email.
@@ -21,46 +13,46 @@ Goshen, IN 46526
 
 
 
-### We Use This Information To:
+We Use This Information To:
 
   * Improve the content and usability of our Web site.
   * Complete and authenticate online transactions.
 
 
 
-We do NOT share this information with other organizations for commercial purposes.
+We do _NOT_ share this information with other organizations for commercial purposes.
 
-## As you subscribe or donate to _The Mennonite_ via the web site:
+**As You Subscribe or Donate to _The Mennonite_ via the Web site:**
 
-### We Collect:
+We Collect:
 
   * Your name, email address, address, phone number and fax number.
   * For gift subscriptions we collect your information as well as the name and address of your gift recipient.
 
 
 
-### We use this information to:
+We Use This Information To:
 
   * Add your contact and mailing information to our subscription database.
   * Send you a receipt of your donation for your tax records.
 
 
 
-## As you subscribe to TM Topicmail:
+**As You Subscribe to _TMail_ and _Meno Acontecer_ :**
 
-### We Collect:
+We Collect:
 
-  * Your email address and other information that's required when you sign-up.
+  * Your email address and other information that’s required when you sign-up.
 
 
 
-### We use this information to:
+We Use This Information To:
 
   * Increase our own awareness of who the users of this service may be.
   * Occasionally contact users who do not subscribe to the print version of _The Mennonite_.
 
 
 
-## Security
+**Security**
 
 All subscription orders or donations made to _The Mennonite_ online using your credit card, occur on a secure transaction server.
