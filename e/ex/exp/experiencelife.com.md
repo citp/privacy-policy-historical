@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625210142id_/http%3A//experiencelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315024127id_/https%3A//experiencelife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Experience Life
+# Privacy Policy · Experience Life
+
+Welcome to Experience Life. Your privacy is important to us. Please take a moment to carefully review our Privacy Policy and Terms of Service. Our Organization and Web Site Experience Life Magazine is published monthly except for January/February and July/August by Life Time Fitness, a healthy lifestyle brand consisting of health and fitness centers, healthy… [Read more »](https://experiencelife.com/privacy-policy/ "ReadPrivacy Policy")
 
 Welcome to _Experience Life_. Your privacy is important to us. Please take a moment to carefully review our Privacy Policy and [Terms of Service](http://experiencelife.com/terms-of-service).
 
@@ -104,3 +106,5 @@ We do not reserve the right to refuse to provide you with a copy of your persona
 This policy was last updated on November 12, 2012.
 
 If you have an inquiry or concern about this policy, please contact [jmartin@experiencelife.com](mailto:jkuenster@experiencelife.com?subject=ExperienceLife.com%20Privacy%20Policy%20Inquiry/Concern).
+
+[](http://experiencelife.com/embeddedsubad)
