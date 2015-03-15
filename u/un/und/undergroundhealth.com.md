@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undergroundhealth.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125060659id_/http%3A//www.undergroundhealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergroundhealth.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315061436id_/http%3A//www.undergroundhealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Underground Health
 
