@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the positivessl.com privacy policy that was archived on 2014-09-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140915121204id_/https%3A//www.positivessl.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the positivessl.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315032459id_/https%3A//www.positivessl.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     
@@ -8,14 +8,14 @@
 <meta name="keywords" content="Server certificates, Secured server, Security certificates, Digital certificate, Online security, Bit encryption, Certification authority, Encryption certificate, Digital signature.">
     
         
-        <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="//cdn.optimizely.com/js/66551157.js"></script>
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//cdn.optimizely.com/js/66551157.js"></script>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="alternate" type="application/rss+xml" title="Comodo Group News" href="//comodo.com/rss.xml">
-              
+
         <link rel="stylesheet" type="text/css" media="all" href="/css-new/style.css">
         <!-- Jquery select.box css -->
         <link rel="stylesheet" type="text/css" media="all" href="/css-new/jquery.selectbox.css">
-		<script type="text/javascript"> 
+		<script type="text/javascript">
 			function handleError()
 			{
 			return true;
@@ -39,30 +39,39 @@
             //]]>
         </script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/cot.js" type="text/javascript"></script>
 
-        <!-- Google Analytics -->
-        <script type="text/javascript">
+        <!--Start Google Analytics Tracking-->
+		<script>
 
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-1245640-3']);
-        _gaq.push(['_setDomainName', 'none']);
-        _gaq.push(['_setAllowLinker', true]);
-        _gaq.push(['_trackPageview']);
+			(function(i, s, o, g, r, a, m){
+				i['GoogleAnalyticsObject'] = r;
+				i[r] = i[r] || function(){
+				(i[r].q = i[r].q || []).push(arguments)
+				},
+				i[r].l = 1 * new Date();
+				a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];
+				a.async=1;
+				a.src=g;
+				m.parentNode.insertBefore(a,m)
+			})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
+			ga('create', 'UA-1245640-3', {
+				'allowLinker': true
+			});
 
-    </script>
-        <!-- end Google Analytics -->
+			ga('require', 'linker');
+			ga('linker:autolink', [/^positivessl\.(com|net)$/]);
+			ga('send', 'pageview');
+
+		</script>
+		<!--End Google Analytics Tracking-->
         <script type="text/javascript" src="/javascript-new/sifr.js"></script>
 
         <!-- UTM Starts -->
-        <script src="/javascript-new/flashdetect.js" type="text/javascript"></script>
-        <!-- UTM Ends --> 
-        <!--<script type="text/javascript" src="/javascript-new/prices.js"></script>    
-		<script type="text/javascript" src="https://secure.comodo.com/prices.js"></script> --> 
+        <script src="/js/flashdetect.js" type="text/javascript"></script>
+        <!-- UTM Ends -->
+        <!--<script type="text/javascript" src="/javascript-new/prices.js"></script>
+		<script type="text/javascript" src="https://secure.comodo.com/prices.js"></script> -->
 		<script language="JavaScript" type="text/javascript" src="/javascript-new/popup.js"></script>
 		<script language="javascript" type="text/javascript" src="https://secure.comodo.net/prices.js"></script>
         <meta name="msvalidate.01" content="0EDA210A977BD871AF575CC7FAD2C53F">        <link rel="stylesheet" type="text/css" media="all" href="css-new/privacy_policy.css">
@@ -70,15 +79,17 @@
     <body>
         <div id="header">
 		<h1>Privacy Statement</h1>
-            <div class="logo">
-    <a href="/?tc=1"><img src="/images-new/positivessl-logo.png" border="0" alt="SSL" width="426" height="62"></a>
+            	
+	
+	<div class="logo">
+    <a href="/"><img src="/images-new/positivessl-logo.png" border="0" alt="SSL" width="426" height="62" title="Comodo SSL"></a>
 </div>
 
 <div class="mini-menu">
     <ul>
         <li><a class="menu1" href="#" onclick="javascript:window.open('/livechat/chatpopup.html','ChatSupport','width=350,height=260,scroll=0,status=no'); return false"></a></li>
         <!--<li><a href="products.php" class="menu2"></a></li>-->
-        <li><a href="https://www.positivessl.com/login.php?tc=1" class="menu3"></a></li>
+        <li><a href="https://www.positivessl.com/login.php" class="menu3"></a></li>
     </ul>
 </div>
 
@@ -89,28 +100,47 @@
       </select>
     </form>
 </div>
-
+<script type="text/javascript" src="/js-new/jquery-1.8.1.min.js"></script>
+<script language="javascript" type="text/javascript">
+	$(document).ready(function(){
+		setTimeout(function() {
+ 
+		 if(g_currency=="GBP" || g_currency=="EUR")
+		 {
+			 $("#conatac-info").html("");
+			$("#conatac-info").html('Call our dedicated sales team now! +44 (0) 161 874 7070 | + 1 703 581 6361');
+		 }
+		    
+ 	
+		 else
+		 {
+		 	$("#conatac-info").html("");
+			$("#conatac-info").html(' Call our dedicated sales team toll free now! + 1 888 266 6361 | + 1 703 581 6361');
+		 }
+	},5);
+});
+	</script>
 <div class="clear"></div>
-<div class="contact-desc"> Call our dedicated sales team toll free now!  <strong>+ 1.888.266.6361  |  + 1.703.581.6361</strong></div>
+<div class="contact-desc"> <span id="conatac-info"> Call our dedicated sales team toll free now! <strong> + 1 888 266 6361 | + 1 703 581 6361 </strong></span></div>
 <div class="clear"></div>        </div><!-- /#header -->
 
         
 <div id="menu">
     <ul id="nav">
         <li><img src="/images-new/menu-line.jpg" width="2" height="54" alt=""></li>
-        <li><a href="/ssl-certificate.php?tc=1" id="product">Products <span class="arrow"></span></a></li>
+        <li><a href="/ssl-certificate.php" id="product">Products <span class="arrow"></span></a></li>
 		<li><img src="/images-new/menu-line.jpg" width="2" height="54" alt=""></li>
-        <li><a href="/reseller.php?tc=1">Resellers</a></li>
+        <li><a href="/reseller.php">Resellers</a></li>
         <li><img src="/images-new/menu-line.jpg" width="2" height="54" alt=""></li>
-        <li><a href="/free_ssl_certificate.php?tc=1">Special Offers</a></li>
+        <li><a href="/free_ssl_certificate.php">Free SSL</a></li>
         <li><img src="/images-new/menu-line.jpg" width="2" height="54" alt=""></li>
-        <li><a href="/corporate.php?tc=1">Corporate</a></li>
+        <li><a href="/corporate.php">Corporate</a></li>
         <li><img src="/images-new/menu-line.jpg" width="2" height="54" alt=""></li>
-        <li><a href="/support/index.php?tc=1">Support</a></li>        
+        <li><a href="/support/index.php">Support</a></li>        
         <li><img src="/images-new/menu-line.jpg" width="2" height="54" alt=""></li>
-        <li><a href="/international.php?tc=1">International</a></li>
+        <li><a href="/international.php">International</a></li>
         <li><img src="/images-new/menu-line.jpg" width="2" height="54" alt=""></li>
-        <li><a href="/contact.php?tc=1">Contacts</a></li>
+        <li><a href="/contact.php">Contacts</a></li>
         <li><img src="/images-new/menu-line.jpg" width="2" height="54" alt=""></li>
     </ul>
     <div class="clear"></div>
@@ -118,11 +148,11 @@
 <div class="submenu">
     <div class="center">
         <ul>
-            <li><a href="/ssl-certificate.php?tc=1">SSL Certificates</a></li>
-            <li><a href="/enterprise_pki_manager_home.php?tc=1">Enterprise Wide Solutions</a></li>
-            <li><a href="/code_signing.php?tc=1">Code Signing</a></li>
-            <li><a href="/free_secure_email_certificates.php?tc=1">Email Security</a></li>
-            <li><a href="/international.php?tc=1">International Affiliates</a></li>
+            <li><a href="/ssl-certificate.php">SSL Certificates</a></li>
+            <li><a href="/enterprise_pki_manager_home.php">Enterprise Wide Solutions</a></li>
+            <li><a href="/code_signing.php">Code Signing</a></li>
+            <li><a href="/free_secure_email_certificates.php">Email Security</a></li>
+            <li><a href="/international.php">International Affiliates</a></li>
         </ul>
        <div style="clear:both; "></div>
     </div>
@@ -130,18 +160,18 @@
 <!-- /.submenu -->
         <div id="content">
             <div class="top-topic">
-                <span><a href="/?tc=1">Home</a> » </span>Privacy Statement
+                <span><a href="/">Home</a> » </span>Privacy Statement
             </div>
             <div class="left-row">
                 <div id="corporate-menu">
 
-    <a href="/corporate.php?tc=1">About Comodo</a>
-    <a href="/some_of_our_customers.php?tc=1">Some of our customers</a>
-    <a href="/news.php?tc=1">News</a>
-    <a href="/terms_conditions.php?tc=1">Terms &amp; Conditions of Site</a>
-    <a href="/privacy_policy.php?tc=1">Privacy Policy</a>
-    <a href="http://www.comodo.com/about/comodo-agreements.php?tc=1" target="_blank">Comodo Legal Repository</a>
-    <a href="http://www.comodo.com/repository/09_22_2006_Certification_Practice_Statement_v.3.0.pdf?tc=1">Certification Practice Statement</a>
+    <a href="/corporate.php">About Comodo</a>
+    <a href="/some_of_our_customers.php">Some of our customers</a>
+    <a href="/news.php">News</a>
+    <a href="/terms_conditions.php">Terms &amp; Conditions of Site</a>
+    <a href="/privacy_policy.php">Privacy Policy</a>
+    <a href="http://www.comodo.com/about/comodo-agreements.php" target="_blank">Comodo Legal Repository</a>
+    <a href="http://www.comodo.com/repository/09_22_2006_Certification_Practice_Statement_v.3.0.pdf">Certification Practice Statement</a>
 
 </div>
 				<div class="space"></div>
@@ -158,14 +188,14 @@
     <p><img src="/images-new/dot-dot.jpg" alt=""></p>
     <p><strong>Supported Browsers:</strong></p>
     <p><img src="/images-new/support_browser.png" alt="SSL Browser"></p>
-	<p><a href="/browser_compatibility.php?tc=1">Read more...</a></p>
+	<p><a href="/browser_compatibility.php">Read more...</a></p>
 
     <p><img src="/images-new/dot-dot.jpg" alt=""></p>
     <p style="text-align:center;">
-        <a href="https://cert.webtrust.org/ViewSeal?id=1613" target="_blank" style="margin-right:10px;" rel="nofollow"><img src="/images-new/webtrust_logo_ca.jpg" alt="Webtrust"></a>
-        <a href="https://cert.webtrust.org/ViewSeal?id=1614" target="_blank" style="margin-right:10px;" rel="nofollow"><img src="/images-new/webtrust_logo_ev.jpg" alt="Webtrust"></a>
+        <a href="https://cert.webtrust.org/ViewSeal?id=1743" target="_blank" style="margin-right:10px;" rel="nofollow"><img src="/images-new/webtrust_logo_ca.jpg" alt="Webtrust"></a>
+        <a href="https://cert.webtrust.org/ViewSeal?id=1746" target="_blank" style="margin-right:10px;" rel="nofollow"><img src="/images-new/webtrust_logo_ev.jpg" alt="Webtrust"></a>
 		<br class="clear">
-		<a href="https://cert.webtrust.org/ViewSeal?id=1644" target="_blank" style="margin-right:10px;" rel="nofollow"><img src="/images-new/web_trust_baseline-seal.jpg" style="padding-top: 20px;" width="61" height="91" alt="SSL Certificate Authority" title="SSL Certificate Authority"></a>
+		<a href="https://cert.webtrust.org/ViewSeal?id=1742" target="_blank" style="margin-right:10px;" rel="nofollow"><img src="/images-new/web_trust_baseline-seal.jpg" style="padding-top: 20px;" width="61" height="91" alt="SSL Certificate Authority" title="SSL Certificate Authority"></a>
 		<a href="https://cert.webtrust.org/soc3_comodo.html" target="_blank" style="margin-right:10px;" rel="nofollow"><img src="/images-new/soc3-EY.jpg" style="padding-top: 20px;" width="60" height="76" alt="Certification Authorities" title="Certification Authorities"></a>
     </p>
 </div>            </div><!-- left-row -->
@@ -182,7 +212,7 @@
                         <strong>CPS and Associated Agreements</strong><br>
                         This Privacy Policy statement supplements the practices and policies stated within the Subscriber Agreement (and associated product Schedules), Relying Party Agreement and Comodo Certification Practice Statement (CPS). Please refer to these documents for the practices employed by Comodo for the issuing, management and revocation of certificate based products.
                         <br>
-                        <a href="http://www.comodo.com/repository/index.html?tc=1" target="_blank">http://www.comodo.com/repository/index.html</a>
+                        <a href="http://www.comodo.com/repository/index.html" target="_blank">http://www.comodo.com/repository/index.html</a>
                     </p>
                     <p>
                         <strong>Anti-Spam Policy</strong><br>
@@ -281,52 +311,52 @@
                     <td>
                         <ul>
                             <li class="table-tpc">SSL Certificates</li>
-                            <li><a href="/ssl-certificate-positivessl.php?tc=1">Positive SSL</a></li>
-                            <li><a href="/ssl-certificate-positivessl_wildcard.php?tc=1">Positive SSL Wildcard</a></li>
-							 <li><a href="/multi_domain_ssl_certificate.php?tc=1">Positive SSL Multi-Domain</a></li>
-                            <li><a href="/ssl-certificate-premiumssl.php?tc=1">PremiumSSL</a></li>
-                            <li><a href="/ssl-certificate-instantssl_pro.php?tc=1">InstantSSL Pro</a></li>
-                            <li><a href="/ssl-certificate-instantssl.php?tc=1">InstantSSL</a></li>
+                            <li><a href="/ssl-certificate-positivessl.php">Positive SSL</a></li>
+                            <li><a href="/ssl-certificate-positivessl_wildcard.php">Positive SSL Wildcard</a></li>
+							<li><a href="/multi_domain_ssl_certificate.php">Multi Domain SSL</a></li>
+                            <li><a href="/ssl-certificate-premiumssl.php">PremiumSSL</a></li>
+                            <li><a href="/ssl-certificate-instantssl_pro.php">InstantSSL Pro</a></li>
+                            <li><a href="/ssl-certificate-instantssl.php">InstantSSL</a></li>
                            
                         </ul>
                     </td>
                     <td>
                         <ul>
                             <li class="table-tpc">&nbsp;</li>
-							  <li><a href="/ssl-certificate-premiumssl_wildcard.php?tc=1">PremiumSSL Wildcard</a></li>
-                            <li><a href="/ssl-certificate-intranetssl.php?tc=1">Intranet SSL</a></li>
-                            <li><a href="/ssl-certificate-elite.php?tc=1">Enterprise Elite SSL</a></li>
-                            <li><a href="/ssl-certificate-gold.php?tc=1">Enterprise Gold SSL</a></li>
-                            <li><a href="/ssl-certificate-platinum.php?tc=1">Enterprise Platinum SSL</a></li>
-                            <li><a href="/ssl-certificate-platinum_wildcard.php?tc=1">Enterprise Platinum Wildcard SSL</a></li>
+							  <li><a href="/ssl-certificate-premiumssl_wildcard.php">PremiumSSL Wildcard</a></li>
+                            <li><a href="/ssl-certificate-intranetssl.php">Intranet SSL</a></li>
+                            <li><a href="/ssl-certificate-elite.php">Enterprise Elite SSL</a></li>
+                            <li><a href="/ssl-certificate-gold.php">Enterprise Gold SSL</a></li>
+                            <li><a href="/ssl-certificate-platinum.php">Enterprise Platinum SSL</a></li>
+                            <li><a href="/ssl-certificate-platinum_wildcard.php">Enterprise Platinum Wildcard SSL</a></li>
                             <li>&nbsp;</li>
                         </ul>
                   </td>
 				   <td>
                         <ul>
                             <li class="table-tpc">Corporate:</li>
-                                <li><a href="/corporate.php?tc=1">About Comodo</a></li>
-                            <li><a href="/some_of_our_customers.php?tc=1">Some of our customers</a></li>
-                            <li><a href="http://www.comodo.com/repository/terms.php?tc=1" target="_blank">Terms &amp; Conditions of Site</a></li>
+                                <li><a href="/corporate.php">About Comodo</a></li>
+                            <li><a href="/some_of_our_customers.php">Some of our customers</a></li>
+                            <li><a href="http://www.comodo.com/repository/terms.php" target="_blank">Terms &amp; Conditions of Site</a></li>
                             <li>&nbsp;</li>
                         </ul>
                     </td>
                     <td>
                         <ul>
                             <li class="table-tpc">&nbsp;</li>
-                                <li><a href="/privacy_policy.php?tc=1">Privacy Policy</a></li>
-                            <li><a href="http://www.comodo.com/about/comodo-agreements.php?tc=1">Comodo Legal Repository</a></li>
-                            <li><a href="http://www.comodo.com/repository/09_22_2006_Certification_Practice_Statement_v.3.0.pdf?tc=1">Certification Practice Statement</a></li>
+                                <li><a href="/privacy_policy.php">Privacy Policy</a></li>
+                            <li><a href="http://www.comodo.com/about/comodo-agreements.php">Comodo Legal Repository</a></li>
+                            <li><a href="http://www.comodo.com/repository/09_22_2006_Certification_Practice_Statement_v.3.0.pdf">Certification Practice Statement</a></li>
                             <li>&nbsp;</li>
                         </ul>
                     </td>
                     <td>
                         <ul>
                             <li class="table-tpc">Resellers:</li>
-                                <li><a href="/reseller-webhosts-introduction.php?tc=1">Web Host Resellers / ISPs</a></li>
-                            <li><a href="/reseller-poweredssl.php?tc=1">Powered SSL</a></li>
-                            <li><a href="/reseller-resellers-introduction.php?tc=1">Resellers</a></li>
-                            <li><a href="/reseller-revenue-calc.php?tc=1">Revenue Calculators</a></li>
+                                <li><a href="/reseller-webhosts-introduction.php">Web Host Resellers / ISPs</a></li>
+                            <li><a href="/reseller-poweredssl.php">Powered SSL</a></li>
+                            <li><a href="/reseller-resellers-introduction.php">Resellers</a></li>
+                            <li><a href="/reseller-revenue-calc.php">Revenue Calculators</a></li>
                         </ul>
                     </td>
                 </tr>
@@ -335,7 +365,7 @@
       
     </div>
 
-    <div class="copyright" style="padding-top:0px;">© 2014 Comodo CA Limited. All Rights Reserved.</div>
+    <div class="copyright" style="padding-top:0px;">© <script type="text/javascript">var currentTime = new Date();var year = currentTime.getFullYear();document.write(year);</script>2020 Comodo CA Limited. All Rights Reserved.</div>
 </div>        </div><!-- /#footer-wrap -->
 <!--        <div id="comodo-lg-fixed"><a href=""><img src="images-new/cornertrust.gif" border="0"/></a></div>-->
         <script type="text/javascript">COT("/images-new/cornertrust.gif", "SC2", "none");</script>
@@ -346,20 +376,20 @@
 $(function () {
     $("#region_select").selectbox();
     $("#prod_select").selectbox();
-    
+
     $("#product").mouseover(function(){
         $(".submenu").fadeIn();
     });
     $(".submenu").mouseleave(function(){
         $(".submenu").hide();
     });
-    //slides the element with class "menu_body" when paragraph with class "menu_head" is clicked 
+    //slides the element with class "menu_body" when paragraph with class "menu_head" is clicked
     $("#pane p.menu_head").mouseover(function()
     {
         $(this).css({backgroundImage:"url(/images-new/arrow-active.jpg)", color: "#FFF"}).next("div.menu_body").slideDown(300).siblings("div.menu_body").slideUp("slow");
         $(this).siblings().css({backgroundImage:"url(/images-new/arrow-inactive.jpg)", color: "#4a4a4a"});
     });
-    
+
     //Compare.php button effect
     $('span#switch').click( function() {
         if ($(this).hasClass('on')) {
@@ -373,7 +403,7 @@ $(function () {
             $('div#state-diff').show();
         }
     });
-    
+
     $("#slider1").slider({
         value: 1,
         min: 1,
@@ -406,7 +436,7 @@ tagVars += "&SESSIONVAR!skill=Sales";
 <script type="text/javascript" language="javascript" src="//server.iad.liveperson.net/hc/61298727/x.js?cmd=file&amp;file=chatScript3&amp;site=61298727&amp;&amp;imageUrl=//www.positivessl.com/ssl-certificate-images/liveperson/sales"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 <script type="text/javascript" src="//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0918.js">
 </script>
-<script type="text/javascript" src="/javascript-new/utm.js"></script>
-<script type="text/javascript" src="/js/utm3.js"></script>    
+<!--script type="text/javascript" src="/js/utm.js"></script-->
+<script type="text/javascript" src="/js/utm4.js?v=1?v=1"></script>    
 
-</strong><img src="../images/pixel.track2?key1sk1=dt&amp;key1sk2=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140703125719id_%2Fhttps%3A%2F%2Fwww.positivessl.com%2Fprivacy_policy.php&amp;key5sk2=&amp;key5sk3=1582532884000&amp;key6sk7=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140703125719id_%2Fhttps%3A%2F%2Fwww.positivessl.com%2Fprivacy_policy.php&amp;key6sk9=800600&amp;key6sk10=false&amp;key6sk11=undefined&amp;key6sk12=3001&amp;key7sk1=&amp;key7sk0=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140703125719id_%2Fhttps%3A%2F%2Fwww.positivessl.com%2Fprivacy_policy.php" style="display:none"></body></html>
+</strong><img src="/images/pixel.track2?key1sk1=dt&amp;key1sk2=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150315032459id_%2Fhttps%253A%2F%2Fwww.positivessl.com%2Fprivacy_policy.php&amp;key6sk7=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150315032459id_%2Fhttps%253A%2F%2Fwww.positivessl.com%2Fprivacy_policy.php&amp;key6sk9=800600&amp;key6sk11=undefined&amp;key6sk12=4000&amp;key7sk0=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150315032459id_%2Fhttps%253A%2F%2Fwww.positivessl.com%2Fprivacy_policy.php" style="display:none"></body></html>
