@@ -1,98 +1,127 @@
-> *The following text is extracted and transformed from the getwwn.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060730id_/http%3A//elitemarketingpro.com/compliance/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getwwn.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315051400id_/http%3A//elitemarketingpro.com/compliance/emp-privacy.html) for the most accurate reproduction.*
 
-# Earnings and Income Disclaimers
+# Elite Marketing Pro - Privacy Policy
 
-**PRIVACY POLICY**
+## How We Protect Your Privacy
 
-This Privacy Policy describes how we handle your personal information for our services on our www.magneticsponsoring.com Web site (this "Site"). Our company, Magnetic Sponsoring, LLC, collects information from all end users of our services (the "Products" and/or "Services"), those who access some of our Services but do not have accounts ("Visitors"), as well as those who may purchase Products and/or Services ("Members"). We request that you read this Privacy Policy carefully. 
+This website privacy policy tells you how we collect, use, and protect your personal information. By visiting our website (https://elitemarketingpro.com), you accept and agree to the terms and conditions of this website privacy policy. In particular, you consent to our collection and use of your personal information as described in this website privacy policy.
 
-Personal Information Our Company Collects and How It Is Used 
+## Minors
 
-Introduction: Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Services. 
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
-Registration: Members may be asked to provide certain personal information when they sign up for our Products or Services, including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information may be shared with third parties, as stated herein, or in special circumstances. 
+## This Policy Is Part Of Our Terms And Conditions Of Use
 
-However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and user name of persons who subscribe to the Services as a result of the joint promotion, for the purpose of offering you other products and services. 
+Our website privacy policy is a part of, and subject to, our website’s terms and conditions of use. You may view these terms and conditions on our website.
 
-In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services. 
+## The type of information we collect from you and interest-based advertising.
 
-Also, with purchases, we supply our Member's contact information to our business partners, who then may contact the Member by telephone after the Member’s purchase. Sales proceeds are collected by the business partner’s company. We also may supply other companies with contact information, for mail offers we believe would be of interest to our Members, with or without compensation from those companies. At times, we may send an advertisement for a third-party product, where we collect the sales proceeds, and forward the purchaser's information to that third party. 
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer’s operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
 
-Consent to Automated Phone Calls
+And like many other websites, we may use cookies. In plain English, this means information that our website’s server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
 
-BY CLICKING THE ACCEPT BUTTON TO THIS PRIVACY POLICY, YOU HEREBY CONSENT THAT WE MAY PLACE AUTOMATED AND LIVE PHONE CALLS TO THE NUMBER YOU PROVIDE. FOR MORE INFORMATION, SEE SECTION 16 CFR 310 OR CONTACT elitemarketingpro.com/support.  
+We may also collect any data that you provide us by posting it at our website or by sending to us via email. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website’s services and features.
 
+Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
 
-Our Company Partners and Sponsors: Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor, seller, or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. 
+## What We Do With Your Information
 
-Online Shopping: At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog, or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, e-mail address, phone number, and credit/debit card information. 
+We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new products and services, special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.
 
-If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third party’s use of any personal information you provide when placing such an order. Please exercise care when doing so. If you order Services or Products directly from our company, we use the personal information you provide to process that order. We do share this information with outside parties that we do business with.
+As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
 
-Online Advertisements: Our company may display our online advertisements. In those cases, we share information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. 
+We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
 
-Additionally, in some instances, we use this information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience it wants to reach and provides us an advertisement tailored to the audience. Based upon the information we have collected, we may then display or send the advertisement to the intended audience. Our company does share personal information about its Visitors or Members with these advertisers or joint venture companies. 
+Some government intelligence agencies have the technological ability to access data from our website without our cooperation, knowledge, or consent. Even if we were to learn of such access, we may not be able to tell you because of national security laws. Please take this risk into account before supplying information to us or any other website owner.
 
-Responses to E-mail Inquiries: When Visitors or Members send e-mail inquiries to our company, the return e-mail address is used to answer the e-mail inquiry we receive. 
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.
 
-Voluntary Customer Surveys: We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of Products and Services we offer and how we provide them to you. 
+From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
 
-We may take the information we receive from individuals responding to our customer surveys and combine (or aggregate) it with the responses of other customers we may have to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our Services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties. 
+If we sell our website, we may transfer your information to the purchaser of the site. Upon completion of such a transfer, we will no longer possess or control the data received by the purchaser.
 
-Promotions: Our company may offer polls, contests, sweepstakes, drawings, games, content, or other promotions that are sponsored by or co-branded with third parties. You may be entered in a sweepstakes, contest, or other promotion simply by making a purchase from us or by providing us with personally identifiable information for some other reason or purpose. Due to these third-party relationships, the third parties may obtain personally identifiable information that Visitors voluntarily submit to our company. Our company has no control over third parties' use of this information. 
+## Do-Not-Track, Interest-Based Advertising, Remarketing, and Dynamic Ad Serving
 
-Additionally, personally identifiable information may be collected when you order Products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our Services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include, but may not be limited to, name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various Products, programs, and Services. Our sponsors or third parties may send you material that relates to our company's Services, Products, or activities. 
+_Do-Not-Track_
 
-Special Cases: It is our company's policy to use or share the personal information about Visitors or Members in ways described herein without additional notice or means to opt out or otherwise prohibit such unrelated uses. 
+We try to honor any Do-Not-Track signals you send through your web browser when visiting our website. However, please read the following important information about “Interest-Based Advertising,” “Remarketing,” and “Dynamic Ad Serving” so that you understand the type of tracking that may be done by third party vendors when you visit our site and how you can opt out of such tracking.
 
-Also, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members. 
+_Interest-Based Advertising_
 
-Notice of Compliance to California Residents.
+When you visit our website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like. 
 
-This Privacy Policy identifies the categories of personally identifiable information that our company collects through our Web site or online service about individual consumers who use or visit our company's commercial Web site or online service and the categories of third-party persons or entities with whom our company may share that personally identifiable information. 
+This website does not collect the information or control the content of the advertisements that you will see. You may be able to opt out of such advertising. To find out more about Google privacy policies and its DoubleClick DART cookie used to generate interest-based advertising, go to <http://www.google.com/privacy/ads/>.
 
-Our company does not maintain a process for an individual consumer who uses or visits our commercial Web site or online service to review and request changes to any of his or her personally identifiable information that is collected through our Web site or online service. 
+_Protect My Choices_
 
-See the section below entitled "Revisions To This Policy" for a description of the process by which our company notifies consumers who use or visit our commercial Web site or online service of material changes to our company's Privacy Policy for this Web site or online service. 
+If you are using Internet Explorer, Mozilla Firefox, or Google Chrome browsers, you may wish to install the “Protect My Choices” browser extensions that are designed to help you keep your opt-out preferences. To learn more, go to <http://www.aboutads.info/PMC>.
 
-The effective date of this Privacy Policy is listed at the end of this Privacy Policy under the heading "Last updated." 
+_Remarketing_
 
-For the purposes of this policy and California compliance, the following definitions apply: 
+This website may use a remarketing tag to advertise online. This means that Google and other third-party vendors may show our ads to you on sites across the Internet. These third-party vendors, including Google, may use cookies to serve ads to you based upon your past visits to our website.
 
-Depending on the Visitor's activity in our commercial Web site or online service, the following "personally identifiable information" may be collected in addition to information set forth in other sections of this document. 
+If you would like to opt out of Google’s use of cookies, you can visit the company’s Ad Preferences Manager at <https://www.google.com/ads/preferences/>.
 
-The term "personally identifiable information" means individually identifiable information about an individual consumer collected online by our company from an individual and maintained   
-by our company in an accessible form, and may include any of the following: 
+In the alternative, you can opt out of the use of cookies by third-party vendors by going to the Network Advertising Initiative’s opt-out page located at <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
-(1) A first and last name.   
-(2) A home or other physical address, including street name and name of a city or town.   
-(3) An e-mail address.   
-(4) A telephone number.   
-(5) A Social Security number or EIN number.   
-(6) Any other identifier that permits the physical or online contacting of a specific individual.   
-(7) Information concerning a user that the Web site or online service collects online from the user and maintains in personally identifiable form in combination with an identifier described within this Privacy Policy. 
+_Dynamic Ad Serving_
 
-Under California Law SB 27, California residents have the right to receive, once a   
-year, information about third parties with whom we have shared information about you   
-or your family for their marketing purposes during the previous calendar year, and a   
-description of the categories of personal information shared. To make such a request,   
-please send an e-mail to support@magneticsponsoring.com and please include the phrase   
-"California Privacy Request" in the subject line, the domain name of the Web site you are inquiring about, along with your name, address, and e-mail address. We will respond to you within thirty days of receiving such a request. 
+Our website may use Google’s Dynamic Ad Serving feature. To opt out of interest-based ads by Google, follow Google’s opt-out instructions located at [ https://support.google.com/ads/answer/2662922?hl=en ](https://support.google.com/ads/answer/2662922?hl=en). 
 
-"Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the Products and Services we provide and to manage our telecommunications networks. 
+_DoubleClick Remarketing Pixels_
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. 
+Our website may use DoubleClick’s remarketing pixels. If you would like to opt out of DoubleClick’s use of cookies, you can visit the DoubleClick opt-out page at <https://www.google.com/settings/ads/onweb#display_optout>. 
 
-Our Company Commitment to Children's Privacy: Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore, we restrict our Web site to persons eighteen years or older. 
+In the alternative, you can opt out of use of cookies by third-party vendors by going to the Network Advertising Initiative’s opt-out page located at <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN (18) YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT ("COPPA") AND IS NOT MONITORED AS DOING SO. 
+Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
-Public Forums: Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. 
+## User Names And Passwords
 
-Our Company's Commitment to Data Security: Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
 
-Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. 
+## Your Use Of Information And Unsolicited Commercial Email
 
-Revisions to this Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner by updating this posting. Your use of this Site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes. 
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
 
-Last modified: October 9th 2009
+We hate junk email (spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial email or to send unsolicited commercial communications via our website’s posting or other communication systems.
+
+## Your Voluntary Disclosure Of Information To Third Parties Who Are Not Our Suppliers
+
+You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
+
+## Autoresponders
+
+We may use autoresponders to communicate with you by email. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending a support ticket to <http://elitemarketingpro.com/support>, or sending us mail to the address listed below.
+
+## Policy Changes
+
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
+
+If you are concerned about the topic covered by this website privacy policy, you should read it each time before you use our website.
+
+## Questions or Concerns
+
+Any questions or concerns about this website privacy policy should be brought to our attention by sending a support ticket to <http://elitemarketingpro.com/support> and providing us with information relating to your concern.
+
+You may also mail your concerns to us at the following address:
+
+Elite Marketing Pro, LLC  
+274 E Eau Gallie Blvd  
+STE 375  
+Indian Harbour Beach, Florida 32937  
+United States
+
+## California Privacy Rights
+
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send a support ticket to <http://elitemarketingpro.com/support> or write us at the following address:
+
+Elite Marketing Pro, LLC  
+274 E Eau Gallie Blvd  
+STE 375  
+Indian Harbour Beach, Florida 32937  
+United States
+
+This website privacy policy was last updated on August 28, 2014.
+
+This document is Copyright © 2008-2014 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at https://elitemarketingpro.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
