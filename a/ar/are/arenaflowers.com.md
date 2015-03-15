@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626004824id_/http%3A//www.arenaflowers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013936id_/http%3A//www.arenaflowers.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 1\. Arena Online Limited, trading as “ArenaFlowers.com” (“Arena Flowers”or "we") is committed to protecting your privacy.  We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 & subsequent revisions thereof).  We are registered with the Data Controller, in accordance with  the Data Protection Act.  We collect information about you for three reasons:
-
-  1. to process your order (including payment authorisation);
-  2. to provide you with the best possible service; and
-  3. to assist in developing the site’s content and our services.
-
-
 
 2\. When placing an order, information you provide will be shared with our banking services and distribution providers to ensure your order can be successfully processed and delivered. We will only share relevant information with these parties; all such providers are under obligation to ensure your information is kept private. We do not knowingly partner with any parties with less than an excellent track record and sound policies in these areas.
 
@@ -19,29 +13,11 @@
 
 5\. The type of information we may collect about may include your:
 
-  * Name;
-  * Address;
-  * Phone number (including mobile number);
-  * Email address;
-  * Payment details;
-  * Age; and
-  * Sex
-
-
-
 6\. We will never collect sensitive information about you without your explicit consent. 
 
 7\. The information we hold will be accurate and up to date, in so much as you supply us with accurate and up to date information. 
 
 8\. It is possible to obtain a copy of the information that we hold about you.  If you find any inaccuracies we will delete or correct it promptly.  A nominal charge of £10 is made to cover administrative costs involved, as laid out by the Data Protection Act 1998.  Should you require a copy of such information, please write to us at:
-
-Arena Flowers  
-Unit 5  
-Concord Business Park  
-Concord Road  
-London
-
-W3 0TJ
 
 9\. The personal information which we hold will be held securely in accordance with our internal security policy and English law. 
 
@@ -72,12 +48,3 @@ For more information regarding cookies and how the affect you please visit this 
 19\. If you have any questions/comments about privacy, please email us at [customer@arenaflowers.com](mailto:customer@arenaflowers.com?subject=Query%20regarding%20privacy%20policy) or call us on 0800 0350 581 (International: +44 20 8993 5400).
 
 Thank you for visiting Arena Flowers.
-
-## The Arena Flowers Team
-
-|    
----|---  
-**An experience delivered**  
-  
-  
-[Back to top](https://web.archive.org/privacy_policy)
