@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the techalam.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704065542id_/http%3A//www.techalam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techalam.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315060154id_/http%3A//www.techalam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**Warning** : Illegal string offset 'disable_postoptin_global' in **/home/techalam/public_html/wp-content/plugins/premium-list-magnet/plm.php** on line **1220**
 
   
 **Privacy Policy for www.techalam.com**
