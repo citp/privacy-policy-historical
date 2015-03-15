@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statuspage.io privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012234546id_/https%3A//www.statuspage.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statuspage.io privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012932id_/https%3A//www.statuspage.io/privacy-policy) for the most accurate reproduction.*
 
 # StatusPage.io - Hosted Status Pages for Your Company - Privacy Policy
 
@@ -44,9 +44,17 @@ We may collect other information that cannot be readily used to identify you, su
 
 StatusPage uses "cookies" to store personal data on your computer. We may also link information stored on your computer in cookies with personal data about specific individuals stored on our servers. If you set up your Web browser (for example, Internet Explorer or Firefox) so that cookies are not allowed, you might not be able to use some or all of the features of our Web site(s). We currently do not react to Do Not Track (DNT) signals. 
 
-##### External data storage sites
+##### Service Providers
 
-We may store your data on servers provided by third party hosting vendors with whom we have contracted.
+We may employ third party companies to administer and provide the StatusPage services on our behalf (including, without limitation, bill and credit card payment processing, maintenance, administration, support, hosting and database management services, email and sms providers). These third parties may have access to your PII only to perform these tasks on our behalf in accordance with this Privacy Policy and are obligated not to disclose or use it for any other purpose.
+
+##### Business Transfers
+
+StatusPage may sell, transfer or otherwise share some or all of its business or assets, including your personal information, in connection with a business deal (or potential business deal) such as a merger, consolidation, acquisition, reorganization or sale of assets or in the event of bankruptcy, in which case we will require the recipient to honor this Privacy Policy. You acknowledge that such transfers may occur and that any acquirer or successor of StatusPage or its assets may continue to use your personal information as set forth in this Privacy Policy. You will be notified via email and/or a prominent notice on our Site or Service of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+##### Changing or Deleting Your Information
+
+All StatusPage account holders may review, update, correct or delete the PII in their registration profile by logging into their account. Removing your information may limit our ability to provide services to you. You may also contact us directly to accomplish the foregoing or if you have additional requests or questions. We’ll take reasonable steps to provide, modify or delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law. We may limit or reject your request in certain cases, including without limitation where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, where the rights of other persons would be violated, or as required by law. We will respond to all requests within 30 days.
 
 ##### Your privacy responsibilities
 
@@ -57,6 +65,14 @@ To help protect your privacy, be sure:
   * to take customary precautions to guard against “malware” (viruses, Trojan horses, bots, etc.), for example by installing and updating suitable anti-virus software.
 
 
+
+##### Safe Harbor Compliance Statement
+
+StatusPage complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. StatusPage has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor>
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, StatusPage commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact StatusPage by emailing hi@statuspage.io.
+
+StatusPage has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by StatusPage, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20150315012932id_/https%3A//www.statuspage.io/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ##### Notice to European Union users
 
@@ -76,4 +92,4 @@ If you have questions or comments about StatusPage's privacy policy, send an ema
 
 Thank you for choosing StatusPage!
 
-Last Updated: February 16th, 2013
+Last Updated: March 5th, 2015
