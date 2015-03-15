@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fleishman.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625164637id_/http%3A//fleishmanhillard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleishman.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010106id_/http%3A//fleishmanhillard.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FleishmanHillard
+# Privacy Policy - FleishmanHillard
 
 This privacy policy discloses the privacy practices for [fleishmanhillard.com](http://fleishmanhillard.com/). This privacy policy applies solely to information collected by this website and covers the following:
 
