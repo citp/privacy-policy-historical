@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apsjobs.gov.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044237id_/https%3A//www.apsjobs.gov.au/PrivacyStatement.aspx%3Fifm%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apsjobs.gov.au privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011958id_/https%3A//www.apsjobs.gov.au/PrivacyStatement.aspx%3Fifm%3Dtrue) for the most accurate reproduction.*
 
 # APS Jobs - Privacy Statement
 
@@ -34,7 +34,7 @@ The information collected during each visit may be used for statistical purposes
 
 APSjobs uses a cookie to maintain contact through a session. The cookie allows APSjobs to recognise you as an individual as you move from one page of the website to another. The cookie will expire when the browser session is closed or the computer is shut down. No attempt will be made to identify anonymous users or their browsing activities unless legally compelled to do so, such as in the event of an investigation. 
 
-More detailed information about cookies can be found at the site of the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/)
+More detailed information about cookies can be found at the site of the Office of the Australian Information Commissioner at [Opens in a new windowwww.oaic.gov.au](http://www.oaic.gov.au/)
 
 ##  Communicating with the APSJOBS Helpdesk by email
 
@@ -90,7 +90,7 @@ All APSjobs records are kept in accordance with the _Archives Act 1983_.
 
 ## Queries and complaints
 
-For more information about privacy in general, you can visit the Office of the Australian Information Commissioner's website [www.oaic.gov.au](http://www.oaic.gov.au/)
+For more information about privacy in general, you can visit the Office of the Australian Information Commissioner's website [Opens in a new windowwww.oaic.gov.au](http://www.oaic.gov.au/)
 
 Our Privacy policy may change from time to time
 
