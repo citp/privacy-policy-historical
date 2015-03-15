@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openpandora.org privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022221531id_/http%3A//boards.openpandora.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openpandora.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021325id_/http%3A//boards.openpandora.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - OpenPandora Boards
 
