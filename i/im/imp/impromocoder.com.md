@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the impromocoder.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061738id_/http%3A//impromocoder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impromocoder.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010820id_/http%3A//impromocoder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IMPromocoder
+# Privacy Policy - IMPromocoder
 
 This Privacy Policy governs the manner in which IMPROMOCODER collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://impromocoder.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by IMPROMOCODER.
 
@@ -22,13 +22,13 @@ IMPROMOCODER may collect and use Users personal information for the following pu
 
 \- To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To run a promotion, contest, survey or other Site feature  
+– To run a promotion, contest, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 How we protect your information
@@ -62,4 +62,4 @@ IMPROMOCODER
 <http://impromocoder.com/>  
 info[at]impromocoder[dot]com
 
-This document was last updated on November 17, 2012
+This document was last updated on November 17, 2012 
