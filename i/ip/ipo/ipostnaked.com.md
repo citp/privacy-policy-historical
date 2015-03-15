@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipostnaked.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024041352id_/http%3A//www.ipostnaked.com/user/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipostnaked.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315015231id_/http%3A//www.ipostnaked.com/user/main/privacy.php) for the most accurate reproduction.*
 
 # IPostNaked.com - Amateur Nude Photos Sex Videos Daily Always FREE !!!
 
@@ -108,4 +108,4 @@ We offer Our Members the opportunity to access or modify information provided du
 If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [admin@ipostnaked.com](mailto:admin@ipostnaked.com)  
   
   
-© 1999 - 2014 [www.ipostnaked.com](http://www.ipostnaked.com/) All Rights Reserved. legal(at)sharpedezine(dot)comThis site is owned and operated by SharpeDezine BV, The Netherlands.
+© 1999 - 2015 [www.ipostnaked.com](http://www.ipostnaked.com/) All Rights Reserved. legal(at)sharpedezine(dot)comThis site is owned and operated by SharpeDezine BV, The Netherlands.
