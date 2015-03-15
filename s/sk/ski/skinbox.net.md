@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the skinbox.net privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624142108id_/http%3A//www.skinbox.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinbox.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315052226id_/http%3A//www.skinbox.net/community/privacypolicy) for the most accurate reproduction.*
 
-# Privacy policy - IPB skins and vBulletin styles from Skinbox
+# Privacy Policy - IPB skins - Skinbox
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+Register now to gain access to all of our features. Once registered and logged in, you will be able to create topics, post replies to existing threads, give reputation to your fellow members, get your own private messenger, post status updates, manage your profile and so much more. This message will be removed once you have signed in.  
+[Login to Account](http://www.skinbox.net/community/index.php?app=core&module=global&section=login) [Create an Account](http://www.skinbox.net/community/index.php?app=core&module=global&section=register)
 
-Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
-We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
+Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.
 
-We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+**Our Commitment to Children's Privacy**  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+**Cookies**  
+This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
 
-Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+  1.  
 
-We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
 
-We will make readily available to customers information about our policies and practices relating to the management of personal information. 
-
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
