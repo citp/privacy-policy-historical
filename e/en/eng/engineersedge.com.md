@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the engineersedge.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209085711id_/http%3A//www.engineersedge.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersedge.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315113617id_/http%3A//www.engineersedge.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Engineers Edge
+# Privacy Policy Declaration | Engineers Edge
 
 **Engineers Edge Privacy Policy**
 
@@ -8,7 +8,7 @@
 
 Requested Information
 
-Engineers Edge registration form asks users for name, email address, and a unique user name and password to identify their account. This information is required in order to provide you with requested services.  Our web site logs IP addresses and browser types but we do not link IP addresses to anything personally identifiable.
+Engineers Edge registration form asks users for name, email address, and a unique user name and password to identify their account. This information is required in order to provide you with requested services. Our web site logs IP addresses and browser types but we do not link IP addresses to anything personally identifiable.
 
 Use of Information
 
@@ -18,7 +18,7 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 Cookies
 
-Engineers Edge does use cookies to enhance our visitors sessions throughout Engineersedge.com web site. Engineers Edge does not use cookies in any way which would violate our visitors privacy. Engineers Edge does track users by their unique ip address for collection of overall web site statistics such as number page views. 
+Engineers Edge does use cookies to enhance our visitors sessions throughout Engineersedge.com web site. Engineers Edge does not use cookies in any way which would violate our visitors privacy. Engineers Edge does track users by their unique ip address for collection of overall web site statistics such as number pageviews. 
 
 Please note, Engineers Edge use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you are uncomfortable with cookie technology, you have the option of setting your browser to reject cookies.
 
@@ -31,6 +31,6 @@ Google is utilized to deliver targeted advertisements on Engineers Edge. Google 
 
 Contact Us
 
-If you have any questions about this privacy statement or the practices of the Engineers Edge web site, please contact us by following the following link:   [webmaster](https://web.archive.org/web/20140209085711id_/http%3A//www.engineersedge.com/webmaster.htm)
+If you have any questions about this privacy statement or the practices of the Engineers Edge web site, please contact us by following the following link: [webmaster](https://web.archive.org/web/20150315113617id_/http%3A//www.engineersedge.com/webmaster.htm)
 
 © Copyright by Engineers Edge, All rights reserved 
