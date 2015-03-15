@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srisriravishankar.org privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911130320id_/http%3A//srisriravishankar.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srisriravishankar.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315054340id_/http%3A//srisriravishankar.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Website of Sri Sri Ravi Shankar
 
@@ -32,7 +32,7 @@ When you click on a hyperlink displayed on our website, you may be leaving the O
 
 You should carefully review the privacy statements or policies of any other website that you visit or wish to send email to because those privacy statements or policies will apply to your visit and email sent to that site and may be very different from the Organization’s Privacy Policy.
 
-Our website is not intended for children under 18 years of age.  No one under age 18 may provide any personal information on our websites, and we do not knowingly collect personal information from children under age 18.  If you are under age 18, do not use or provide any information on this website, make any purchases through this website, use any interactive or public comment features of this website, or provide any information about yourself to us.  If we learn that we have collected or received personal information from a child under age 18 without verification of parental consent, we will delete that information.  If you believe that we might have any information from or about a child under age 18, please contact us at i[...](http://www.google.com/recaptcha/mailhide/d?k=01AdExD004NtboJ12RXnzcmA==&c=Nc8omr_PRnnFZdILpxUyxw== "Reveal this e-mail address")@srisri.org.
+Our website is not intended for children under 18 years of age.  No one under age 18 may provide any personal information on our websites, and we do not knowingly collect personal information from children under age 18.  If you are under age 18, do not use or provide any information on this website, make any purchases through this website, use any interactive or public comment features of this website, or provide any information about yourself to us.  If we learn that we have collected or received personal information from a child under age 18 without verification of parental consent, we will delete that information.  If you believe that we might have any information from or about a child under age 18, please contact us at info@srisri.org.
 
 **Collection of Personal Information and Its Use and Purpose**
 
@@ -44,7 +44,7 @@ Your personal data will be securely stored by and accessible to us, including o
 
 By accepting our privacy policy, you agree that your personal data may also be made available to our carefully selected partner organizations located within and outside your country of residence for the purpose of offering you information regarding products and services related to our programs and offerings, and that we may also directly inform you of such products and services when they become available in your country or anywhere else in the world.
 
-If you decide you do not wish to be informed of related products or services in the future, you will be given the opportunity to be removed from our database in our communications, and may request to unsubscribe at any time by contacting us at i[...](http://www.google.com/recaptcha/mailhide/d?k=01AdExD004NtboJ12RXnzcmA==&c=Nc8omr_PRnnFZdILpxUyxw== "Reveal this e-mail address")@srisri.org.
+If you decide you do not wish to be informed of related products or services in the future, you will be given the opportunity to be removed from our database in our communications, and may request to unsubscribe at any time by contacting us at info@srisri.org.
 
 **_Demographic and Aggregate Information_**
 
@@ -80,7 +80,7 @@ We may also disclose your personal information:
 
 **Accessing and Correcting Your Personal Information**
 
-You may send us an email at i[...](http://www.google.com/recaptcha/mailhide/d?k=01AdExD004NtboJ12RXnzcmA==&c=Nc8omr_PRnnFZdILpxUyxw== "Reveal this e-mail address")@srisri.org to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may send us an email at info@srisri.org to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 **Safeguards to Protect Your Personal Information**
 
@@ -108,4 +108,4 @@ We reserve the right to make changes in this Privacy Policy. If we make such cha
 
 By providing information on this website, you consent to the collection, use and disclosure of such information such manner as set out in this Privacy Policy, including but not limited to the disclosure of such information to third parties in accordance with the terms hereof.
 
-If you have any questions, complaints, or comments regarding this Privacy Policy, please send an email to the following address: i[...](http://www.google.com/recaptcha/mailhide/d?k=01AdExD004NtboJ12RXnzcmA==&c=Nc8omr_PRnnFZdILpxUyxw== "Reveal this e-mail address")@srisri.org _._
+If you have any questions, complaints, or comments regarding this Privacy Policy, please send an email to the following address: info@srisri.org _._
