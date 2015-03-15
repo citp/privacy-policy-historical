@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the clickfair.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226030901id_/http%3A//www.clickfair.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickfair.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315034336id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
 
-# ClickFair.Com - Cheap Advertising | Complete Online Tasks & Get Paid
+# Rewarding Ways - Privacy
 
-Privacy Policy
+For Regular Cash Promo Codes, Contests and more, follow us on Facebook......
+
+  
+
+
+### Privacy
 
 The purpose of this Privacy Policy is to let you know what kinds of information we may gather about you, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of the information. 
 
@@ -16,7 +21,14 @@ We only hold information in order to allow users to log into and run their accou
 
 Users may request to see any information that we hold on them. This may include transaction information, account totals, contact details and other information. Users may request this information from our support ticket page. 
 
-If you feel Clickfair is not following its stated information policy, then they may inform us through our support ticket page. 
+If you feel RewardingWays is not following its stated information policy, then they may inform us through our support ticket page. 
 
 Cookies  
-We recommend that all users enable cookies in their internet browsers in order to make full use of the site and in order to ensure that any transactions on third party sites are recorded. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate this website on each visit.. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. If users do not have cookies enabled, it is likely that third-party retailers will not record some of their transactions. 
+We recommend that all users enable cookies in their internet browsers in order to make full use of the site and in order to ensure that any transactions on third party sites are recorded. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate this website on each visit.. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. If users do not have cookies enabled, it is likely that third-party retailers will not record some of their transactions.
+
+You must be logged in to post messages. 
+
+MEMBERS| 186335  
+---|---  
+ONLINE|  28  
+PAYMENTS| $201,478.21
