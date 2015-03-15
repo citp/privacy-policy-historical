@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qatcom.com privacy policy that was archived on 2014-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203075326id_/http%3A//www.qatcom.com/qataryellowpages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qatcom.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315023916id_/http%3A//www.qatcom.com/qataryellowpages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy</title>
@@ -35,47 +35,160 @@ $(document).ready(function () {
 <body class="default">
 <div id="container">
 <div id="container_inner">
-						<script>
-    window.onload = function() {
-        display_ct();
-    };
+						<link href="http://fonts.googleapis.com/css?family=Source+Code+Pro|Open+Sans:300" rel="stylesheet" type="text/css"> 
+<link rel="stylesheet" type="text/css" href="/css/slider_css/bjqs.css"><link rel="stylesheet" type="text/css" href="/css/slider_css/demo.css"><script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+ <script type="text/javascript" src="/js/slider_js/bjqs-1.3.min.js"></script>
+<script class="secret-source">
+  jQuery(document).ready(function($) {
+
+    $('#banner-slide-top').bjqs({
+      animtype: 'slide',
+      height: 90,
+      width: 728,
+      responsive: true,
+      randomstart: true,
+      animtype : 'slide', // accepts 'fade' or 'slide'
+              animduration: 500, // how fast the animation are
+      animspeed: 9000, // the delay between each slide
+      automatic: true, // automatic
+
+      // control and marker configuration
+      showcontrols: false, // show next and prev controls
+      centercontrols: false, // center controls verically
+      nexttext: 'Next', // Text for 'next' button (can use HTML)
+      prevtext: 'Prev', // Text for 'previous' button (can use HTML)
+      showmarkers: false, // Show individual slide markers
+      centermarkers: false, // Center markers horizontally
+
+      // interaction values
+      keyboardnav: false, // enable keyboard navigation
+      hoverpause: false, // pause the slider on hover
+
+      // presentational options
+      usecaptions: false,
+    });
+
+    $('#banner-slide').bjqs({
+      animtype: 'slide',
+      height: 90,
+      width: 728,
+      responsive: true,
+      randomstart: true,
+      animtype : 'slide', // accepts 'fade' or 'slide'
+      animduration: 500, // how fast the animation are
+      animspeed: 9000, // the delay between each slide
+      automatic: true, // automatic
+
+      // control and marker configuration
+      showcontrols: true, // show next and prev controls
+      centercontrols: true, // center controls verically
+      nexttext: 'Next', // Text for 'next' button (can use HTML)
+      prevtext: 'Prev', // Text for 'previous' button (can use HTML)
+      showmarkers: true, // Show individual slide markers
+      centermarkers: true, // Center markers horizontally
+
+      // interaction values
+      keyboardnav: true, // enable keyboard navigation
+      hoverpause: true, // pause the slider on hover
+
+      // presentational options
+      usecaptions: true,
+    });
+
+    $('#banner-slide-left').bjqs({
+      animtype: 'slide',
+      height: 510,
+      width: 120,
+      responsive: true,
+      randomstart: true,
+      animtype : 'slide', // accepts 'fade' or 'slide'
+      animduration: 500, // how fast the animation are
+      animspeed: 9000, // the delay between each slide
+      automatic: true, // automatic
+
+      // control and marker configuration
+      showcontrols: true, // show next and prev controls
+      centercontrols: true, // center controls verically
+      nexttext: 'Next', // Text for 'next' button (can use HTML)
+      prevtext: 'Prev', // Text for 'previous' button (can use HTML)
+      showmarkers: true, // Show individual slide markers
+      centermarkers: true, // Center markers horizontally
+
+      // interaction values
+      keyboardnav: true, // enable keyboard navigation
+      hoverpause: true, // pause the slider on hover
+
+      // presentational options
+      usecaptions: true,
+    });
+
+
+    $('#banner-slide-right').bjqs({
+      animtype: 'slide',
+      height: 510,
+      width: 120,
+      responsive: true,
+      randomstart: true,
+      animtype : 'slide', // accepts 'fade' or 'slide'
+      animduration: 500, // how fast the animation are
+      animspeed: 9000, // the delay between each slide
+      automatic: true, // automatic
+
+      // control and marker configuration
+      showcontrols: false, // show next and prev controls
+      centercontrols: false, // center controls verically
+      nexttext: 'Next', // Text for 'next' button (can use HTML)
+      prevtext: 'Prev', // Text for 'previous' button (can use HTML)
+      showmarkers: false, // Show individual slide markers
+      centermarkers: false, // Center markers horizontally
+
+      // interaction values
+      keyboardnav: true, // enable keyboard navigation
+      hoverpause: false, // pause the slider on hover
+
+      // presentational options
+      usecaptions: false,
+    });
+  });
+</script>
+
+<script>
+  window.onload = function() {
+    display_ct();
+  };
 </script>
 <script type="text/javascript" src="/js/date.js"></script><script>
-    function display_c() {
-        var refresh = 1000; // Refresh rate in milli seconds
-        mytime = setTimeout('display_ct()', refresh)
-    }
+  function display_c() {
+    var refresh = 1000; // Refresh rate in milli seconds
+    mytime = setTimeout('display_ct()', refresh)
+  }
 
-    function display_ct() {
-        var strcount;
-        var d = new Date();
-        var utc = d.getTime() + (d.getTimezoneOffset() * 60000);
+  function display_ct() {
+    var strcount;
+    var d = new Date();
+    var utc = d.getTime() + (d.getTimezoneOffset() * 60000);
 
-        // create new Date object for different city
-        // using supplied offset
-        var nd = new Date(utc + (3600000 * 3));
-        var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-        var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-        var day = days[ d.getDay() ];
-        var month = months[ d.getMonth() ];
-        tt = display_c();
+    // create new Date object for different city
+    // using supplied offset
+    var nd = new Date(utc + (3600000 * 3));
+    var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    var day = days[ d.getDay() ];
+    var month = months[ d.getMonth() ];
+    tt = display_c();
 
-        var hoursTwoDigits = ("0" + nd.getHours()).substr(-2);
-        var minutesTwoDigitsWithLeadingZero = ("0" + nd.getMinutes()).substr(-2);
-        var time = hoursTwoDigits + ':' + minutesTwoDigitsWithLeadingZero + ' on ' + day + ' ' + month + ' ' + nd.getDate() + ' ' + ' ' + nd.getFullYear();
-       // console.log(time);
-        $('#t1').html(time).trigger('click');
-    }
-
+    var hoursTwoDigits = ("0" + nd.getHours()).substr(-2);
+    var minutesTwoDigitsWithLeadingZero = ("0" + nd.getMinutes()).substr(-2);
+    var time = hoursTwoDigits + ':' + minutesTwoDigitsWithLeadingZero + ' on ' + day + ' ' + month + ' ' + nd.getDate() + ' ' + ' ' + nd.getFullYear();
+    $('#t1').html(time).trigger('click');
+  }
 </script>
 
-<!--<span id="ct"></span>-->
-<!--<input type='text' id='t1' size='40'>-->
 <img id="printheader" src="/img/printheader.gif" alt="Qatcom.com">
 <div id="zone_header">   
-    <div id="zone_header_inner">
-        <div id="block_nav1">
-            <div id="block_nav1_inner">
+  <div id="zone_header_inner">
+    <div id="block_nav1">
+      <div id="block_nav1_inner">
 	       
 <ul class="">
     <li class="tab " id="tab_search"><a href="/"><span>Search Qatcom</span></a></li>
@@ -92,37 +205,38 @@ $(document).ready(function () {
 	<!--	<li class="tab " id="tab_contact_us"><a href="/contact-qatcom"><span>Contact Qatcom</span></a></li>-->
 
 
-</ul>            </div>
-        </div>
-        <div id="block_logo">
-            <div id="block_logo_inner">
-                <h1><a href="/" title="Qatcom, search Qatar's online business directory."><img id="logo" height="134px" width="142px" src="/img/logo-qatcom-1.png" alt="Qatcom Logo for Qatar's online Yellow Business Pages Directory"></a></h1>
-            </div>
-        </div>
+</ul>      </div>
+    </div>
+    
+    <div id="block_logo">
+      <div id="block_logo_inner">
+        <h1>
+          <a href="/" title="Qatcom, search Qatar's online business directory.">
+            <img id="logo" height="134px" width="142px" src="/img/logo-qatcom-1.png" alt="Qatcom Logo for Qatar's online Yellow Business Pages Directory">
+          </a>
+        </h1>
+      </div>
+    </div>
         <div id="block_strapline">
-            <div id="block_strapline_inner">
-                <h1>Welcome to Qatar's online Yellow Business Pages Directory. It is
-                    <span id="t1">04:05 on Friday January 31  2020</span><br>
-                    We are currently hosting 33196 LIVE adverts for Companies in Doha and Qatar. <br>
-                    <span class="last-child">We are one of Qatar's most popular websites with over 3 million ads viewed every year.</span></h1>
-            </div>
-        </div>
+      <div id="block_strapline_inner" style="margin-left: 64px;margin-top: 17px;">
+                                              
+      </div>
+    </div>
 
-        <div id="member_area" style="float: right;margin: 10px 10px;">
-            <div id="member_area_inner">
-                                 <h1><a href="/useraccounts/login" title="Qatcom, search Qatar's online business directory."><img id="logo" height="72px" width="auto" style="margin: 15px 10px;" src="/img/qbay.png" alt="Qatcom Logo for Qatar's online Yellow Business Pages Directory"></a></h1>
-                 </div>
-        </div>
+    <div id="member_area" style="float: right;margin: 10px 10px;">
 
-        <div id="block_nav2" style="top: 268px; right: 69px;">
-            <div id="block_nav2_inner">
+    </div>
+
+    <div id="block_nav2" style="top: 268px; right: 69px;">
+      <div id="block_nav2_inner">
 	    		<ul>
 	
 			</ul>
-            </div>
-        </div>
-        <div id="block_search">
-            <div id="block_search_inner">
+      </div>
+    </div>
+    
+    <div id="block_search">
+      <div id="block_search_inner">
 	     <link rel="stylesheet" type="text/css" href="/css/development-bundle/themes/ui-lightness/jquery-ui.css"><script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script type="text/javascript" src="/js/custom-modenizer.js"></script><script type="text/javascript" src="/js/jquery/js/jquery-1.9.1.js"></script><script type="text/javascript" src="/js/jquery/js/jquery-ui-1.10.3.custom.js"></script><script type="text/javascript" src="/js/searchJquery.js"></script>
 
@@ -280,42 +394,130 @@ $(document).ready(function () {
     .selected td{
         color:black;
     }
- </style>            </div>
-        </div>
+ </style>      </div>
     </div>
+  </div>
 </div>			<script language="javascript" type="text/javascript">
     function fbs_click(url)
     {
-        newwindow = window.open(url, 'name', 'height=350,width=850');
-        if (window.focus) {
-            newwindow.focus()
-        }
-        return false;
+      newwindow = window.open(url, 'name', 'height=350,width=850');
+      if (window.focus) {
+        newwindow.focus()
+      }
+      return false;
     }
 </script>
-
   <div id="zone_content" style="padding-top: 135px;">
-    <div class="share_page">
-        <p style="">Share this Page</p>
-        <a onclick="return fbs_click('http://www.facebook.com/share.php?u=http://qatcom.com')" href="http://www.facebook.com/share.php?u=http://qatcom.com"><img src="/img/facebook.png"></a>
-        <a onclick="return fbs_click('http://twitter.com/home?status=http://qatcom.com')" href="http://twitter.com/home?status=http://qatcom.com" target="_blank"><img src="/img/twitter.png"></a>   
-        <!--<a onclick="return fbs_click('http://www.linkedin.com/shareArticle?mini=true&url=http://www.qatcom.com&summary=The BIGGEST business website in Qatar, Qatcom is The Online Yellow Pages Directory, with over 36\'000 adverts for companies in Doha&source=qatcom.com')" href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.qatcom.com&summary=The BIGGEST business website in Qatar, Qatcom is The Online Yellow Pages Directory, with over 36\'000 adverts for companies in Doha&source=qatcom.com" target="_blank" />  -->         
-       <a onclick="return fbs_click('http://www.linkedin.com/shareArticle?mini=true&amp;url=http://qatcom.com&amp;summary=The BIGGEST business website in Qatar, Qatcom is The Online Yellow Pages Directory, with over 36\'000 adverts for companies in Doha')" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://qatcom.com&amp;summary=The BIGGEST business website in Qatar, Qatcom is The Online Yellow Pages Directory, with over 36\'000 adverts for companies in Doha">  
-<img src="/img/linkedin.png"></a>
-    </div>
-    <div id="zone_content_inner">
+   
 
-        <div id="block_advert1" class="noprint">
-            <div id="bnr-120x600" style="width:120px;">
-                <span class="ban-left" style="width: 120px; margin-left: 0px; float: left; position: static; top: 0px;">
-                    <a href="http://qbay.com" target="_blank"><img src="/img/qbay banner buying.png" style="width:100%;"></a>
-                    <a style="float: right;width:100%;text-align: center;font-size: 11px;" href="/contact/index/I+want+to+buy+a+banner+advertisement">Advertise Here</a>
-                </span>
-            </div>
-            <!--            <div style="font-size:0.8em; text-align:center"><a href="/contact/index/I+want+to+buy+a+banner+advertisement">Advertise Here</a></div>-->
-        </div>
-        <div id="block_content">
-            <div id="block_content_inner">
+     <div id="banner-slide">
+    <ul class="bjqs">
+            <li>
+			        <a href="http://http://www.qatcom.com" target="_blank">
+                  <img src="/ads_banner/thumbnails/1426249228advertise on qatcom leaderboard 8.png"></a>
+           </li> 
+            <li>
+			        <a href="http://http://www.qatcom.com" target="_blank">
+                  <img src="/ads_banner/thumbnails/1426246323advertise on qatcom leaderboard 7.png"></a>
+           </li> 
+            <li>
+			        <a href="http://http://www.qatcom.com" target="_blank">
+                  <img src="/ads_banner/thumbnails/1426246313advertise on qatcom leaderboard 6.png"></a>
+           </li> 
+            <li>
+			        <a href="http://http://www.qatcom.com" target="_blank">
+                  <img src="/ads_banner/thumbnails/1426246304advertise on qatcom leaderboard 5.png"></a>
+           </li> 
+            <li>
+			        <a href="http://http://www.qatcom.com" target="_blank">
+                  <img src="/ads_banner/thumbnails/1426246295advertise on qatcom leaderboard 2.png"></a>
+           </li> 
+            <li>
+			        <a href="http://http://www.qatcom.com" target="_blank">
+                  <img src="/ads_banner/thumbnails/1426246285advertise on qatcom leaderboard 1.png"></a>
+           </li> 
+          </ul>
+  </div>
+
+       <div id="banner-slide-top">
+    <ul class="bjqs">
+                <li>
+			        <a href="http://http://www.qatcom.com" target="_blank">
+                  <img src="/ads_banner/thumbnails/1426246631advertise on qatcom leaderboard 4.png"></a>
+            </li>           
+                     <li>
+			        <a href="http://http://www.qatcom.com" target="_blank">
+                  <img src="/ads_banner/thumbnails/1426246619advertise on qatcom leaderboard 3.png"></a>
+            </li>           
+                     <li>
+			        <a href="http://http://www.qatcom.com" target="_blank">
+                  <img src="/ads_banner/thumbnails/1426246434advertise on qatcom leaderboard 1.png"></a>
+            </li>           
+                     <li>
+			        <a href="http://http://www.qatcom.com" target="_blank">
+                  <img src="/ads_banner/thumbnails/1426246402advertise on qatcom leaderboard 10.png"></a>
+            </li>           
+                     <li>
+			        <a href="http://http://www.qatcom.com" target="_blank">
+                  <img src="/ads_banner/thumbnails/1426246393advertise on qatcom leaderboard 9.png"></a>
+            </li>           
+                     <li>
+			        <a href="http://http://www.qatcom.com" target="_blank">
+                  <img src="/ads_banner/thumbnails/1426249285advertise on qatcom leaderboard 2.png"></a>
+            </li>           
+                   </ul>
+  </div>
+                 <div class="share_page" style="width: 90px;margin-top: -26px;">
+    <p style="">Share this Page</p><br>
+    <a onclick="return fbs_click('http://www.facebook.com/share.php?u=http://staging.qatcom.com')" href="http://www.facebook.com/share.php?u=http://staging.qatcom.com"><img src="/img/facebook.png"></a>
+    <a onclick="return fbs_click('http://twitter.com/home?status=http://staging.qatcom.com')" href="http://twitter.com/home?status=http://staging.qatcom.com" target="_blank"><img src="/img/twitter.png"></a>   
+    <a onclick="return fbs_click('http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.qatcom.com&amp;title=Article Tile Goes Here&amp;summary=Put your summary here')" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.qatcom.com&amp;title=Article Tile Goes Here&amp;summary=Put your summary here" target="_blank">           
+    </a><a onclick="return fbs_click('http://www.linkedin.com/shareArticle?mini=true&amp;url=http://qatcom.com&amp;title=Article Tile Goes Here&amp;summary=Put your summary here')" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://qatcom.com&amp;title=Article Tile Goes Here&amp;summary=Put your summary here">  
+    <img src="/img/linkedin.png"></a>
+  </div>
+
+  <div id="zone_content_inner">
+
+    <div id="block_advert1" class="noprint">
+      <div id="bnr-120x600" style="width:120px;">
+        <span class="ban-left" style="width: 120px; margin-left: 0px; float: left; position: static; top: 0px;">
+          <div id="left_banner">
+          </div>
+         
+          <div id="banner-slide-left">
+            <ul class="bjqs">
+                        <li>                
+							                <a href="http://http://www.qatcom.com" target="_blank">
+                                  <img src="/ads_banner/thumbnails/1426249184advertise on qatcom skyscraper 2.png"></a>
+                            </li>           
+                       <li>                
+							                <a href="http://http://www.qatcom.com" target="_blank">
+                                  <img src="/ads_banner/thumbnails/1426246224advertise on qatcom skyscraper 1.png"></a>
+                            </li>           
+                       <li>                
+							                <a href="http://http://www.qatcom.com" target="_blank">
+                                  <img src="/ads_banner/thumbnails/1426246212advertise on qatcom skyscraper 10.png"></a>
+                            </li>           
+                       <li>                
+							                <a href="http://http://www.qatcom.com" target="_blank">
+                                  <img src="/ads_banner/thumbnails/1426246202advertise on qatcom skyscraper 9.png"></a>
+                            </li>           
+                       <li>                
+							                <a href="http://http://www.qatcom.com" target="_blank">
+                                  <img src="/ads_banner/thumbnails/1426246195advertise on qatcom skyscraper 8.png"></a>
+                            </li>           
+                       <li>                
+							                <a href="http://http://www.qatcom.com" target="_blank">
+                                  <img src="/ads_banner/thumbnails/1426246183advertise on qatcom skyscraper 7.png"></a>
+                            </li>           
+                     </ul>
+          </div>
+
+        </span>
+      </div>
+    </div>
+    <div id="block_content">
+      <div id="block_content_inner">
 
 <p align="center" style="margin-bottom: 0cm;"><font face="Arial, sans-serif"><font size="2"><u><b>Privacy Policy Statement</b></u></font></font></p>
 <p style="margin-bottom: 0cm;"><br>
@@ -489,91 +691,123 @@ Please feel free to contact us at any time with any questions you may
 have regarding our privacy statement. </font></font><font color="#0000ff"><span lang="zxx"><u><a href="http://www.qatcom.com/contact-qatcom"><font face="Arial, sans-serif"><font size="2">http://www.qatcom.com/contact-qatcom</font></font></a></u></span></font></p>
 <p style="margin-bottom: 0cm;"><br>
 </p>
-                <div id="block_content_adverts" class="noprint">
-                    <div id="block_advert4">
-                    </div>
+        <div id="block_content_adverts" class="noprint">
+          <div id="block_advert4">
+          </div>
 
-                    <div id="block_advert3">
-                        <div id="#" class="banner_1 span-22" style="height:00px; width:728px; margin-left:-15px; border:1px solid #;">&nbsp;</div>
-                    </div>
-                    <div id="block_tell_a_friend">
-                    </div>
-                </div>
-            </div>
+          <div id="block_advert3">
+            <div id="#" class="banner_1 span-22" style="height:00px; width:728px; margin-left:-15px; border:1px solid #;">&nbsp;</div>
+          </div>
+          <div id="block_tell_a_friend">
+          </div>
         </div>
-        <div id="block_advert2" class="noprint">
-            <div id="bnr-120x600A" style="width:120px;">
-                <span class="ban-right" style="width: 120px; margin-right: 0px; float: right; position: static; top: 0px;" target="_blank">
-                    <a href="http://qbay.com" target="_blank"><img style="width: 120px;" src="/img/qbay banner selling.png"></a>
-                    <a style="float: right;width:100%;text-align: center;font-size: 11px;" href="/contact/index/I+want+to+buy+a+banner+advertisement">Advertise Here</a>
-                </span>
-			
-                <div style="font-size:0.8em; text-align:center"></div>
-            </div>
-            <div class="shunt"></div>
-        </div>
-
-        <script type="text/javascript">
-            $(window).scroll(function() {
-                // console.log($('#zone_header_inner').offset().left);
-                if ($(window).scrollTop() > $('#zone_header').height() + 178) {
-                    $(".ban-left").css({position: 'fixed', top: '0px'});
-                    $(".ban-right").css({position: 'fixed', top: '0px'});
-                    //   $("#ban-right").css({position: 'fixed', top: '0px', right: $('#block_advert2').css('right',$('#container').offset().left-30)});
-                } else {
-                    $(".ban-left").css({position: 'static', top: '0px'});
-                    $(".ban-right").css({position: 'static', top: '0px'});
-                    //                $("#block_advert2").css({position: '',right:''});
-                }
-            });
-        </script>			<div id="zone_footer">
-    <div id="zone_footer_inner" style="width:1035px;">
-
-        <div id="block_copyright">
-	Copyright © 2007-2014  Qatcom.com - All Rights Reserved        </div>
-        <div id="block_footerlinks">
-            <ul>                <li class="tab "> <a href="/contact-qatcom"><span>Contact Us</span></a></li>
-                <li class="tab "><a href="/contact/recruitment"><span>Recruitment</span></a></li>
-                <li><a href="/stats.pdf" target="_blank"><span>Daily Site User Stats</span></a></li>
-                <li class="tab "><a href="/listings/stats"><span>Current Advertiser Stats</span></a></li>
-                <li class="tab selected"><a href="/qataryellowpages/privacy"><span>Privacy Policy</span></a></li>
-            </ul>
-        </div>
+      </div>
     </div>
+    <div id="block_advert2" class="noprint">
+      <div id="bnr-120x600A" style="width:120px;">
+        <span class="ban-right" style="width: 120px; margin-right: 0px; float: right; position: static; top: 0px;" target="_blank">
+          <div id="right_banner">
+
+          </div>
+                   
+          <div id="banner-slide-right">
+            <ul class="bjqs">
+                        <li>             
+							                <a href="http://http://www.qatcom.com" target="_blank">
+                                  <img src="/ads_banner/thumbnails/1426246096advertise on qatcom skyscraper 6.png"></a>
+                            </li>           
+                       <li>             
+							                <a href="http://http://www.qatcom.com" target="_blank">
+                                  <img src="/ads_banner/thumbnails/1426246079advertise on qatcom skyscraper 5.png"></a>
+                            </li>           
+                       <li>             
+							                <a href="http://http://www.qatcom.com" target="_blank">
+                                  <img src="/ads_banner/thumbnails/1426246069advertise on qatcom skyscraper 4.png"></a>
+                            </li>           
+                       <li>             
+							                <a href="http://http://www.qatcom.com" target="_blank">
+                                  <img src="/ads_banner/thumbnails/1426246006advertise on qatcom skyscraper 3.png"></a>
+                            </li>           
+                       <li>             
+							                <a href="http://http://www.qatcom.com" target="_blank">
+                                  <img src="/ads_banner/thumbnails/1426249158advertise on qatcom skyscraper 2.png"></a>
+                            </li>           
+                       <li>             
+							                <a href="http://http://www.qatcom.com" target="_blank">
+                                  <img src="/ads_banner/thumbnails/1426245960advertise on qatcom skyscraper 1.png"></a>
+                            </li>           
+                     </ul>
+          </div>
+        </span>
+
+        <div style="font-size:0.8em; text-align:center"></div>
+      </div>
+      <div class="shunt"></div>
+          </div>
+          <!--    </div>-->
+    <script type="text/javascript">
+        $(window).scroll(function() {
+          // console.log($('#zone_header_inner').offset().left);
+          if ($(window).scrollTop() > $('#zone_header').height() + 178) {
+            $(".ban-left").css({position: 'fixed', top: '0px'});
+            $(".ban-right").css({position: 'fixed', top: '0px'});
+            //   $("#ban-right").css({position: 'fixed', top: '0px', right: $('#block_advert2').css('right',$('#container').offset().left-30)});
+          } else {
+            $(".ban-left").css({position: 'static', top: '0px'});
+            $(".ban-right").css({position: 'static', top: '0px'});
+            //                $("#block_advert2").css({position: '',right:''});
+          }
+        });
+    </script>
+			<div class="footer_container">
+<div id="zone_footer">
+  <div id="zone_footer_inner" style="width:1035px;">
+
+    <div id="block_copyright">
+	Copyright © 2007-2015  Qatcom.com - All Rights Reserved    </div>
+    <div id="block_footerlinks">
+      <ul>        <li class="tab "> <a href="/contact-qatcom"><span>Contact Us</span></a></li>
+        <li class="tab "><a href="/contact/recruitment"><span>Recruitment</span></a></li>
+        <li><a href="/stats.pdf" target="_blank"><span>Daily Site User Stats</span></a></li>
+        <li class="tab "><a href="/listings/stats"><span>Current Advertiser Stats</span></a></li>
+        <li class="tab selected"><a href="/qataryellowpages/privacy"><span>Privacy Policy</span></a></li>
+      </ul>
+    </div>
+  </div>
 </div>
+
+
 <div id="zone_footer_merge">
-    <div id="zone_footer_inner_merge">
-        <div id="content_british_qatar" style="left:-15px;">
-            Qatcom LLC is a jointly owned British (49%)
-        </div>
-        <div id="flag_british_qatar" style="left: 235px;"> 	
-            <img src="/img/british-qatari-company-partnership.jpg" alt="british qatari company partnership" width="34" height="21"> 
-        </div>
-        <div id="commercial_british_qatar" style="right:2px;"> 		
-            Qatari (51%) business registered as a 'Company with Limited Liability' (LLC) in The State of Qatar. (Commercial Number 38422)
-        </div>	
+  <div id="zone_footer_inner_merge">
+    <div id="content_british_qatar" style="left:-15px;">
+      Qatcom LLC is a jointly owned British (49%)
     </div>
+    <div id="flag_british_qatar" style="left: 235px;"> 	
+      <img src="/img/british-qatari-company-partnership.jpg" alt="british qatari company partnership" width="34" height="21"> 
+    </div>
+    <div id="commercial_british_qatar" style="right:2px;"> 		
+      Qatari (51%) business registered as a 'Company with Limited Liability' (LLC) in The State of Qatar. (Commercial Number 38422)
+    </div>	
+  </div>
+</div>
 </div>
 <!--</div>
 </div>-->
 
 <!--rotate page --->
 
-
-
-
  
 
 <!--END rotate page --->
 
 <script language="JavaScript">
-    var zflag_nid = "1424";
-    var zflag_cid = "1777/1774";
-    var zflag_sid = "246";
-    var zflag_width = "1";
-    var zflag_height = "1";
-    var zflag_sz = "95";
-    var zflag_charset = "utf-8";
+  var zflag_nid = "1424";
+  var zflag_cid = "1777/1774";
+  var zflag_sid = "246";
+  var zflag_width = "1";
+  var zflag_height = "1";
+  var zflag_sz = "95";
+  var zflag_charset = "utf-8";
 </script>
 <script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>		</div>
     <div class="side-add-banner"><a href="http://qbay.com" target="blank"><img src="http://cdn.qbay.com/images/qbay-qatcom.png" width="154" height="75"></a></div>
