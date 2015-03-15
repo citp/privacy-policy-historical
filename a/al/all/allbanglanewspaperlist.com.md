@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbanglanewspaperlist.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819201232id_/http%3A//www.allbanglanewspaperlist.com/ppage.php%3Fp%3Dprivacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbanglanewspaperlist.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012134id_/http%3A//www.allbanglanewspaperlist.com/ppage.php%3Fp%3Dprivacy%2520policy) for the most accurate reproduction.*
 
 # All Bangla Newspaper List - Online Banlga Newspaper list | Bangladesh Govt.approved Bangla Newspaper list | সব বাংলা সংবাদপত্র, বাংলা নিউজপেপার তালিকা একসাথে
 
