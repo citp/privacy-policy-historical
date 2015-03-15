@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the utilitywarehouse.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154202id_/https%3A//www.utilitywarehouse.co.uk/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utilitywarehouse.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315044111id_/https%3A//www.utilitywarehouse.co.uk/legal/privacy) for the most accurate reproduction.*
 
-# Utility Warehouse
+# Utility Warehouse - Privacy Statement
 
-At the Utility Warehouse, we look after all your personal information carefully.  We adhere strictly to the requirements of the UK Data Protection Act 1998 and, in accordance with this Act, we are registered on the public register of data controllers which is looked after by the Information Commissioner. 
+At the Utility Warehouse, we look after all your personal information carefully. We adhere strictly to the requirements of the UK Data Protection Act 1998 and, in accordance with this Act, we are registered on the public register of data controllers which is looked after by the Information Commissioner.
 
-This privacy notice tells you what you can expect when we collect personal information about you.  It explains the type of information that we collect about you, and how we use and look after it.  Please do take a moment to read this privacy notice so that you will understand how we use your personal information. We may need to update this notice from time to time.
+This privacy notice tells you what you can expect when we collect personal information about you. It explains the type of information that we collect about you, and how we use and look after it. Please do take a moment to read this privacy notice so that you will understand how we use your personal information. We may need to update this notice from time to time.
 
-When we first obtain personal information from you, or when you take a new service or product from us, we will always ask you if you want to receive information from us about other services or products.  You can normally do this by ticking a box on the application form, whether it is online or on paper.  If you then change your mind please contact Customer Services.
+When we first obtain personal information from you, or when you take a new service or product from us, we will always ask you if you want to receive information from us about other services or products. You can normally do this by ticking a box on the application form, whether it is online or on paper. If you then change your mind please contact Customer Services.
 
 ### Information we collect
 
@@ -35,7 +35,7 @@ If you have given us your mobile phone number or email address (or both), we may
 The main uses of your personal information are:
 
   * For credit and credit related services and to manage your account;
-  * To provide you with other services and updates; 
+  * To provide you with other services and updates;
   * To provide access to privileged areas of the website;
   * To identify other products or services that might be suitable for you;
   * To create statistics, test computer systems, analyse customer information, create profiles and create marketing opportunities (including using information about what you buy from us and how you pay for it);
@@ -55,9 +55,9 @@ When we process your application we may use automated scoring methods to analyse
 There are certain circumstances where we may need to disclose your personal information to a third party, these include:
 
   * To verify your identity;
-  * To third party organisations who will help supply the services that you have requested. For example if you are an energy customer this might include gas transporters, metering operators and our meter reading agency, if you are a telephony customer, this might include network operators and if you are a Bill Protector customer this will include the insurer and administrator of the insurance policy;
+  * To third party organisations who will help supply the services that we provide to you. For example if you are an energy customer this might include gas transporters, metering operators, administrators for grants or rebates and our meter reading agency, if you are a telephony customer, this might include network operators and if you are a Bill Protector customer this will include the insurer and administrator of the insurance policy;
   * To our Distributors, where they may need to contact you to give you information about our other services which could save you money, unless you have requested otherwise;
-  * To credit reference agencies.  We may need to make credit checks on you to help us make decisions about your ability to pay for the services you have requested, to prevent fraud or to recover debt.  When we search the files of a credit reference agency, a record will be kept of that search.  Additionally, details of how you conduct your account may also be disclosed to the agency.  This information may be used by other organisations in assessing applications from you and members of your household; 
+  * To credit reference agencies. We may need to make credit checks on you to help us make decisions about your ability to pay for the services you have requested, to prevent fraud or to recover debt. When we search the files of a credit reference agency, a record will be kept of that search. Additionally, details of how you conduct your account may also be disclosed to the agency. This information may be used by other organisations in assessing applications from you and members of your household;
   * To fraud prevention agencies, where we have reason to believe there may be fraudulent activity;
   * To content partners or advertisers;
   * To help manage any loyalty or reward schemes;
@@ -77,18 +77,18 @@ In accordance with the principles of the Data Protection Act, we will not otherw
 
 ### Cookie Policy
 
-**Read our[policy on cookies](https://web.archive.org/static/cookies).**
+**Read our[policy on cookies](https://web.archive.org/legal/cookies).**
 
 ### Protecting your information
 
-We have strict security systems in place to protect your personal information. All our members of staff will follow a careful identification process before any personal data is disclosed and all the personal information we hold about you can only be accessed by authorised members of staff. 
+We have strict security systems in place to protect your personal information. All our members of staff will follow a careful identification process before any personal data is disclosed and all the personal information we hold about you can only be accessed by authorised members of staff.
 
 ### Accessing your information
 
-We welcome your requests to provide you with copies of any personal information that we hold about you. If you would like to have access to your personal information, please write to us specifying what type of information you would like us to provide copies of. We will ask you for a £10 charge to cover the administration cost.  If we are holding any information about you that is incorrect, let us know and we will update it as soon as we can.
+We welcome your requests to provide you with copies of any personal information that we hold about you. If you would like to have access to your personal information, please write to us specifying what type of information you would like us to provide copies of. We will ask you for a £10 charge to cover the administration cost. If we are holding any information about you that is incorrect, let us know and we will update it as soon as we can.
 
 For a personal information request please write into the Correspondence Department, Utility Warehouse, enclosing a cheque or postal order for £10 made payable to Telecom Plus PLC.
 
 ### Links from this site to other sites
 
-Please be aware that our site may provide access to other websites by linking to them.  We are not responsible for the data policies (including data protection and cookies), content or security of these linked web sites.
+Please be aware that our site may provide access to other websites by linking to them. We are not responsible for the data policies (including data protection and cookies), content or security of these linked web sites.
