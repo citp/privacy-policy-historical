@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055151id_/https%3A//www.salemfive.com/index.php/customer-support/security-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315090333id_/https%3A//www.salemfive.com/customer-support/security-center/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
-[printer-friendly version (.pdf)](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2014.pdf "Click here to view and print Privacy Notice")  
-Rev January 2014
-
 If you wish to retain a copy of our privacy notice for your records, please click the print button below:
 
-[](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2014.pdf "Click here to view and print Privacy Notice.")
-
-| 
+[](https://web.archive.org/images/PDFs/privacy_notice_jan_2015.pdf "Click here to view and print Privacy Notice.")
 
 **  
 FACTS**
@@ -52,7 +47,7 @@ All financial companies need to share customers’ personal information to run t
 ---|---|---  
   
 **For our everyday business purposes—  
-** such as to process your transactions, maintain your account(s),   
+**such as to process your transactions, maintain your account(s),   
 respond to court orders and legal investigations, or report to credit bureaus
 
 | 
@@ -64,12 +59,11 @@ YES
 NO  
   
 **For our marketing purposes—  
-** to offer our products and services to you
+**to offer our products and services to you
 
 |   
 YES | 
 
-  
 NO  
   
 **For joint marketing with other financial companies**
@@ -83,29 +77,25 @@ YES
 NO  
   
 **For our affiliates’ everyday business purposes—  
-** information about your transactions and experiences
+**information about your transactions and experiences
 
 | 
 
-  
 YES
 
 | 
 
-  
 NO  
   
 **For our affiliates’ everyday business purposes—  
-** information about your creditworthiness
+**information about your creditworthiness
 
 | 
 
-  
 YES
 
 | 
 
-  
 YES  
   
 **For our affiliates to market to you**
@@ -168,8 +158,8 @@ Do not allow your affiliates to use my personal information to market to me.
 | **                                                                                      ** | 
 
 **Mail to:  
-** Salem Five Bank  
-Attn: Customer Service  
+**Salem Five Bank  
+Attn: Contact  Center  
 210 Essex Street  
 Salem, MA 01970  
   
@@ -181,4 +171,4 @@ Salem, MA 01970
 
 |   
   
-[](https://www.salemfive.com/index.php/privacy-notice-jan-2013-page2 "Click here to continue to Privacy Notice Page 2")
+[](https://web.archive.org/customer-support/security-center/privacy-policy/privacy-notice-january-2015-page-2 "Click here to continue to Privacy Notice Page 2")
