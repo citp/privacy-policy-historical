@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martianherald.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704171329id_/http%3A//www.martianherald.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martianherald.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022833id_/http%3A//www.martianherald.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Martian Herald
 
