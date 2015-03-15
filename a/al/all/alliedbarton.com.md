@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alliedbarton.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816014114id_/http%3A//www.alliedbarton.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedbarton.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020518id_/http%3A//www.alliedbarton.com/Privacy-Policy) for the most accurate reproduction.*
 
-# AlliedBarton Security Services > Privacy Policy
-
-| 
+# AlliedBarton > Privacy Policy
 
 ### Our Policy
 
@@ -36,6 +34,3 @@ None at present.
 
 If you have any questions about this Privacy Policy, or if you would like to review, change or remove your personal information, you can e-mail us at [info@alliedbarton.com](mailto:info@alliedbarton.com). Additionally, you can contact us by writing to:  
 AlliedBarton, 8 Tower Bridge, 161 Washington Street, Suite 600, Conshohocken, PA 19428. 
-
-|   
----|---|---
