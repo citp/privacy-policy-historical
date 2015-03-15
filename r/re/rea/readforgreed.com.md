@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readforgreed.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703050808id_/http%3A//www.readforgreed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readforgreed.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022532id_/http%3A//www.readforgreed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Read for Greed!
 
@@ -39,5 +39,7 @@ The contents of this statement may be altered at any time, at our discretion.
 Concerns or questions about this privacy policy can be directed to site admin: admin @ readforgreed.com for further clarification or can use [contact page](http://www.readforgreed.com/contact-us/ "Click Here").
 
 (This privacy policy is applicable to all websites falling under the primary holder readforgreed.com)
+
+* * *
 
 **What People Searching For:** www readforgreed com 
