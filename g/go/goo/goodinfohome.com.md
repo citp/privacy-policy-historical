@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodinfohome.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008081731id_/http%3A//www.goodinfohome.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodinfohome.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013350id_/http%3A//www.goodinfohome.com/privacy.php) for the most accurate reproduction.*
 
 # Good Info - Article Directory | Privacy Statement
 
