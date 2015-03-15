@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethpagefcu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092900id_/https%3A//www.bethpagefcu.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethpagefcu.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022223id_/https%3A//www.bethpagefcu.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,9 +27,19 @@ The opt-out request will apply to all of your accounts, both joint and individua
 **Affiliates**  
 Companies related by common ownership or control. They can be financial and non-financial companies.
 
+  * Insurance Agency of Bethpage, Land Bound Services, LLC, CU Settlements, LLC, Bethpage Risk Management Services, LLC, Open Technology Solutions, Universal Sharing Services, Shared Service Solutions, LLC 
+
+
+
+
 **Non-affiliates** ****
 
 Companies not related by common ownership or control. They can be financial and non-financial companies.
+
+  * PSCU Service Centers, Inc., Member Gateways
+
+
+
 
 **Joint Marketing** ****
 
