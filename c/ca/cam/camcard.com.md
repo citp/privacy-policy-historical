@@ -1,151 +1,99 @@
-> *The following text is extracted and transformed from the camcard.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920214008id_/https%3A//s.intsig.net/r/terms/PP_CamCard_en-us.html) for the most accurate reproduction.*
-
-# CAMCARD PRIVACY POLICY
-
-**CAMCARD PRIVACY POLICY**
-
-**1.       ****Statement**
-
-We are improving CamCard Privacy Policy continually. As the service of CamCard develops, we may update CamCard Privacy Policy at any time. Please check it regularly and acknowledge the latest CamCard Privacy Policy.
-
-**2.       ****Introduction**
-
-Thank you for choosing CamCard. There are many different ways you can use our services，such as by recognizing, managing and backing up business card and so on. We wish to explain to you how we collect and use information though CamCard Privacy Policy, and how you can protect your privacy. When you use CamCard, it is considered you have consented to accept this Privacy Policy to be effect to you.
-
-This Privacy Policy describes: 
-
-(1)   What kind of information we collect and why;
-
-(2)   How we use such information;
-
-(3)   Options we offer, including how to access, update and control information;
-
-(4)  Your obligations to protect the privacy;
-
-(5)  Information security.
-
-**3.       ****Personal information we collect**
-
-3.1 Why we collect information
-
-INTSIG Information Inc. (hereinafter referred to as "INTSIG" or "We" or "Us") aims to provide the professional with safe and efficient business card recognition, management, backup and synchronization service, etc. We afford our service though our website, software or other APPs. If you do not allow CamCard to collect, display or use your information, or you disagree with CamCard’s user agreement or this privacy policy, you cannot make use of CamCard. If you have already begun using CamCard, please cease use of the services immediately; otherwise your using shall mean or imply that you have accepted our agreements, rules and policies.
-
-3.2 Classification of information 
-
-We classify user information into the following two major types according to whether personal identity can be recognized or not.
-
-(1) Identifiable Personal Information. It can be used to directly identify, track, and confirm personal identity information, such as your name, e-mail address, and phone number and so on. 
-
-(2) Unidentifiable Personal Information. It can be the information which is related to you but cannot be used for directly identifying, tracking, and confirming personal identity information such as your use record of CamCard. We collect the kind of information to improve your experience when using CamCard.
-
-**4.       ****What kind of information we collect and how**
-
-4.1 Information you submit
-
-4.1.1 Personal information you submit
-
-When you register with CamCard, you should provide contact information including your e-mail address, phone number, name, and password and so on, in order that we can send you notification when necessary. If any of your information has changed, please sign in your account to update it immediately. You acknowledge and agree that we can identify you according to your registering information when necessary.
-
-4.1.2 Card information you upload
-
-Other people’s business card information that you upload to CamCard attributes to their personal information and their privacy may be involved therein, so you should promise that you are authorized to do this. You should also make appropriate settings to prevent leaking information from infringing rights and interests of the owner. You shall not disclose such business card information without authorization. INTSIG will not disclose information you upload if not authorized.
-
-4.2 Information we get from your use of CamCard service
-
-In order to provide you with better service, we may record and analyze your use of CamCard service, the way you use it and other relevant information, including: device information such as hardware model, operating system version, device event information and so on; log file such as IP address, login or logout of account, clicking advertisement and so on; and information of Web Beacon or Cookie, etc.
-
-If you use the location service of third-party, we may collect your location information from the third-party. Because the location information might leak your track, which may be used by undesirable, we suggest you disposing it carefully, especially not disclosing your home address so as to avoid unlawful attack/injury or harm from abuse of such information.
-
-**5.       ****Accessing, consulting and updating your personal information**
-
-CamCard services enable you to check or update your personal information. To ensure safety, you have to access your account to carry out the above operation. 
-
-**6.       ****Deleting your personal account**
-
-You can contact INTSIG via e-mail you submitted when you register to apply for the cancellation of your account. We will delete your personally identifiable information from the open database according to our rules after canceling your account, and we have no obligation to retain or provide your account information.
-
-**7.       ****Option of personal information**
-
-If you only set to use CamCard in locate mobile terminal device, we are not able to collect any of your information.
-
-You acknowledge and consent that information you disclose is likely to be browsed, forwarded and commented by other CamCard users. You can personally make publicity restriction or adjustment on relevant information in privacy settings. 
-
-You are kindly suggested to complete your privacy settings on publicity restriction for the sake of risk aversion. Otherwise, it will be deemed as you have accepted our default settings.  And we remind you especially, when using mobile terminal device, to set if the location information is published or not by yourself. If you are not clear about it, please check the user manual. If you choose to disclose your location information, please take notice of the risk of leaking your track. We strongly advise you not to disclose your home address so as to avoid unlawful attack/injury or harm from abuse of such information.
-
-**8.       ****Use of personal information**
-
-It is regarded that you have authorized INTSIG to collect and process the information you submit once you register for a CamCard account. Otherwise, please instantly sign out from your account to terminate CamCard service. INTSIG will no longer collect and process your relevant information immediately after you canceled your account.
-
-INTSIG collects and uses your information to operate or improve CamCard service, such as providing customer service, offering convenience by avoiding repeated inputs, and providing you with personalized information.
-
-We are likely to contact you by your personal information, such as sending emails or messages concerning your service or other promotional information to your registered mailbox or phone number. You have the right to reject these messages. However, we will still send you e-mail concerning some necessary CamCard-related service such as notification of service terms changes.
-
-The collected information will be stored and processed in servers of INTSIG and its affiliated companies or other service providers. All these servers can be located in either China or any other country or district in accordance with our service demands.
-
-We will ask for your consent before using your information for a purpose other than those that are set out herein or in our user agreements. 
-
-**9.       ****Unsolicited correspondence or junk mail**
-
-You might receive unsolicited emails from other users if you choose to make relevant information (such as your contact information) disclosed.
-
-**10.   ****Sharing of Personal Information**
-
-Unless otherwise specified, we will not share your personal information with anyone other than INTSIG and its affiliated companies, business partners and solution vendors without your consent. We are hereby allowed to disclose your relevant information to the aforesaid companies. The companies above may sometimes offer certain service such as data storage service, etc. in representative of INTSIG. Accordingly, these companies can only get access to information related to the service they offer. INTSIG will assure the security of information use through signing confidentiality agreement or add confidentiality clauses in it, etc. with the companies above. 
-
-**11.   ****Disclosure and publicity of personal identification information**
-
-With our respect and protection to your privacy, we guarantee not to disclose user personal identity information to any third party or individual, unless one of the following circumstances applies
-
-(1)   With your consent; 
-
-(2)   For legal reasons or government requests; 
-
-(3)   For the purpose of enforcing CamCard user agreement, or under other circumstances INTSIG deems necessary;
-
-(4)   For protection of legal rights of INTSIG and other users, or public security and public interest under emergencies.
-
-**12.   ****Privacy protection after bankruptcy or M &A**
-
-In the event that INTSIG undergoes a business transition, such as a merge, acquisition by another company, sale of all or a portion of its assets, or bankruptcy, we may transfer all of your information, including personal information, which we collect in our service, to the successor organization in such transition as our property. The new company will continue to dispose the information according to the law, this policy and the agreement as before.
-
-**13.   ****Information security**
-
-We’re using mainstream technology to protect our users’ data, not only those stored on our servers but also those transferred between our app and servers. No one can access, use or publish them without authority. For example, our CamCard uses SSL (Secure Sockets Layer) with 2048 bit RSA and 256 bit AES encryption to transfer data between our app and servers. The files stored on our servers are using 256 bit AES encryption, which is on bank information security level. The implementation may vary depending on the technology development and our business development.
-
-We’ll try our best to ensure the safety of our users’ data. But due to the complexity of the Internet environment, we could not make any commitment for that. You can visit Data Security to understand our data security policy in detail.
-
-**14.   ****Remedies of information leakage**
-
-Please inform us promptly once your personal information is likely to be or has already been leaked. We will make every effort to render assistance by taking reasonable actions. We may contact you through registered mailbox or make a warning announcement on our website, if we find any potential security risk such as system vulnerabilities. 
-
-**15.   ****Privacy terms for children**
-
-We attach great importance to the security and protection of minor’s privacy and data. According to our business, we don’t permit a minor to register or use our service. However, we are not able to identify if the user is a minor or if the relevant information is come from a minor, unless the minor’s guardian notices INTSIG in written. Without the prior consent of the guardian, we will not use the minor’s information, or leak the Identifiable Personal Information to any third party, unless we need to provide them necessary service or assist the government and judicial institutions. 
-
-In the event that we learn that we have inadvertently gathered personal information from a minor by accident, we will reserve the right to take reasonable measures to promptly erase such information from our records.
-
-**16.   ****For users from different countries**
-
-INTSIG protects privacy and personal information in compliance with our Privacy Policy which is set down according to laws and regulations. For the user from China Mainland, the terms of this policy applies the law of People’s Republic of China. For the user from other area of China or other countries and districts, the terms of this policy applies the law of Hong Kong.
-
-**17.   ****Risk and disclaimer**
-
-If your personal information and privacy leak out for any reasons below, we will try our best to remedy it or afford assistant to you. However, you agree that we do not bear any responsibility:
-
-(1)   Attacked from virus, Trojan or hackers; 
-
-(2)   For legal reasons or government requests; 
-
-(3)   Your sharing activity of your own account information;
-
-(4)   Any other reason not relevant to INTSIG. 
-
-**18.   ****Changes of privacy terms**
-
-CamCard is entitled to make proper adjustments on the range of information collection, the way of information display, and the platform settings in accordance with the development of business and the change in law and policies. 
-
-Any Privacy Policy change will be posted on our website or be informed to you directly. You have the right to decide whether to continue using CamCard service or not. If you disagree with the updated Privacy Policy, please instantly sign out from your account to terminate CamCard service. 
-
-**19.   ****Contact us**
-
-We will regularly follow up and review the enforcement of our Privacy Policy. If you have any questions regarding our Privacy Policy, please send an e-mail to: [support@intsig.com](mailto:support@intsig.com), mail subject: Privacy Policy Issue.
+> *The following text is extracted and transformed from the camcard.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315033321id_/https%3A//www.camcard.com/site/privacy) for the most accurate reproduction.*
+
+# CamCard | Professional Business Card Reader and Manager. Read Your Card, Mind Your Business.
+
+**Version and Effective Date of the Privacy Policy**   
+The Privacy Policy shall take effect as of November 21, 2014, replacing the former version. 
+
+**Welcome You to Use Our Products and Services!**   
+Please carefully read our Privacy Policy.   
+"INTSIG" or "We" refers to INTSIG Information Co., Ltd with its registered office in Shanghai PRC. The services we provide are the joint efforts of us and each of our branches, affiliates and partners across the globe.   
+"You" refers to registered users of Our Products and purchasers of paid services.   
+"Our Products" include software Products and services in connection with the software Products we provide, and the software Products we provide include "CamCard", "CamCard Business", and "CamScanner". 
+
+**I.Statement**   
+We have been continuously improving Our Privacy Policy, and with the extension of the scope of Our Products and service, we may update Our Privacy Policy at any time. Please notice our Privacy Policy regularly to acknowledge the latest update. 
+
+**II.Applicable scope of terms and conditions**   
+Thank You for choosing to use Our Products and services. You may get our services in various ways. We hope You have a clear understanding of how we collect and use information and what kind of measures You may take to protect Your privacy through the Privacy Policy. When You use Our Products or services, You consent the application of this Privacy Policy to You. If You don't agree to Our Privacy Policy, please do not use Our Products and services. If You have begun using Our Products and services, please stop it immediately. Your use of Our Products and services signifies you consent to Our Privacy Policy.   
+Our Privacy Policy offers answers to the following questions:   
+(1)What kind of information We may collect and why we collect such information;   
+(2)How We use the information;   
+(3)The options we provide you with, including how to have access to, update and control information;   
+(4)Your obligations in respect of privacy protection; and   
+(5)Information security. 
+
+**III.Types of selection/collection of personal information**   
+1.Why We collect information   
+We render services to You by means of website, software and other applications. We collect Your information only for the purpose of improving Your experience of using Our Products and services, facilitating Your use of Our Products and services more expediently, and obtaining the information that You need in a faster and more accurate way.   
+2.Classification of information   
+The information generated during Your use of Our Products and services may be categorized into the following two types by whether you are identifiable or not:   
+(1)Identifiable personal information: refers to the information that may be used to directly identify, trade, discern and determine Your true identity, such as Your name, E-mail address or phone number, etc..   
+(2)Unidentifiable personal information: refers to the information that may be related to you but cannot be used to directly identify, trace, discern and determine Your true identity, such as the records of Your use of Our Products and services. 
+
+**IV.What information we collect and how we collect information**   
+1.Information You submit   
+(1)Registration information You submit   
+At the time You register Your CC account or CS account, in order to identify the user and facilitate contact, You shall provide the real and effective information such as Email address or mobile phone number, etc.. You understand and agrees that under necessary circumstances (e.g. to sign out account, etc.), We may identify you based on Your registration information, so as to prevent any other person from using Your identity to operate fraudulently which will affect Your normal use of Our Products and services.   
+(2)Data information You uploaded   
+The data information You may upload when using Our services is the personal information of others and may related to the privacy of others. You shall guarantee that You have obtained the necessary authorization to upload such data information. You will be required to make proper setting so as to prevent leakage of the same to jeopardize the interests of the right holders. And You shall not make related information public without authorization. INTSIG will not disclose the data information You upload to the public without authorization.   
+2.The information we obtain during Your use of Our services   
+In order to provide better services to You, we may record and analyze the use and the method of use of Our services and any other relevant information, including hardware model, operating system version, system activities and other device information, Internet Protocol address, account sign-in or sign-out, clicks of advertisements and other log information, as well as Web Beacons or Cookie information, etc.. 
+
+**V.Access to, review and update of personal information**   
+You may review or change Your personal information, however, for the sake of security, You may only do so after you log in. In case of any changes to Your personal information, You shall timely log in toYour account for an update. 
+
+**VI.Cancellation of personal account**   
+You may contact us to sign out Your account. After sign-out, we are not obliged to keep and offer information under Your account. 
+
+**VII.Setting of personal information**   
+You understand and agree that the information You make public may be browsed, reposted and commented by other users of Our services. You may protect Your critical information by adjustment of privacy setting by Yourself.   
+We suggest You complete the privacy settings for Your information to avoid risks, otherwise you will be deemed to have accepted the default settings We provide. You understand and agree that, given that Our services include social networking web services, the default setting of Products may make Your personal information available to the public in order to improve user experience, and such default setting may enable any other person to have access to or obtain Your personal information. If You hope to change such default setting, please make changes on relevant service pages. 
+
+**VIII.Use of personal information**   
+Your use of Our Products and services will signify that you have agreed to authorize us to collect and process Your information. We collect and use Your information to operate or improve Our services, for instance, providing user information services, avoiding Your repeated input of identical information when Your use Our Products and services, and offering contents tailored to Your personality. We use Your information but the result of such use may be inaccurate, and therefore you are required to exercise Your own and prudent judgement when You use relevant services. You agree that we take no liability for such accuracy in respect of such use.   
+We may contact you based on Your personal information, for instance, sending Our product updates information or service information to Your email address or mobile phone number You submitted for registration. You may opt not to receive such information. Notwithstanding Your foregoing option, we will still send special service emails in connection with You (e.g. notices about changes in service terms and conditions).   
+The information We have collected may be stored and processed by servers of INTSIG or its affiliates or service providers, and such servers may be distributed across China or in any other countries/regions as required by the services. If We use Your information under circumstances other than specified herein, We will obtain Your prior consent. 
+
+**IX.Unsolicited correspondence or junk mails**   
+If You make Your relevant information publicly available (e.g. contact information), You may receive unsolicited information from any other users, such as emails, SMS, etc. 
+
+**X.Sharing personal information**   
+Unless otherwise provided herein, We will not share Your personal information with any entity other than INTSIG or affiliates, partners or solution providers without Your consent, and in particularly We will not sell, lease or otherwise distribute Your information. As a portion of Our services may be provided to You as a result of Our cooperation with above-mentioned relevant companies, You consent to Our provision of Your information to the foregoing relevant companies for the purpose of providing You with corresponding services. Such relevant companies only use Your information for the purpose of providing corresponding services. We guarantee the safe use of such information by entering into confidentiality agreement or including confidentiality provisions in the contract with such relevant companies. During Your use of relevant services, such relevant companies will also undertake the same responsiblities as those we undertake in order to protect the security of Your information. 
+
+**XI.Disclosure and publicity of personal identity information**   
+We respect and protect Your privacy and undertake that we will not disclose users' personal identity information to any third party institute or person except in accordance with the Privacy Policy, unless:   
+1.You agree to publicize Your personal information;   
+2.Users' personal information is required by law, governmental or judicial organizations; or   
+3.In case of emergency and where necessary, the information is required to be disclosed in order to protect the lawful rights and interests of INTSIG or other users or the public security and public interest. 
+
+**XII.Privacy protection after bankruptcy/sale/merger**   
+If We sell the assets of the company, merge with another business entity or apply for bankruptcy, the information We collect in operating services may be transfered as part of Our assets, and the new company after merger may continue to use these information as required by laws and as provided in the Privacy Policy. 
+
+**XIII.Information security**   
+We take various security technologies and measures to protect the information and data stored in systems against authorized access, use or disclosure of the same. For instance, the safe channel for information You send through Our Products or website to us is protected by TLS （Transport Layer Security, which is the update edition of SSL, with 2048-bit RSA and 256-bit AES encryption）, and the information you have stored in the server is safeguarded with AES (Advanced Encryption Standard) 256-bit encryption, a bank-grade security standard. Specific technical measures will be adjusted from time to time with the technical and business development.   
+We will use Our best efforts to protect the security of Your information, but will be unable to offer any guarantee due to the complexity of security environment of Internet. You may visit Security & Protection to further understand Our information security policy. 
+
+**XIV.Remedies for divulgence of secrets**   
+If you discover that Your personal information has been or may be leaked, please notify us in a timely manner. We will use Our best efforts to take reasonable measures to offer assistance. If we discover any possible security risks (e.g. system vulnerabilities), we may contact you through Your registered email address or by posting alerts or announcement on Our website. 
+
+**XV.Privacy terms applicable to juveniles**   
+We pay great attention to the security and protection of juveniles' privacy and data. We will be unable to identify whether the user is a juvenile unless we are expressly notified of the same. We will neither use personal information of juveniles nor disclose personally identifiable information of juveniles to any third party, if we are informed that the user is a juvenile, unless for the purpose of providing necessary and emergent help or assisting the government or judicial organs.   
+If we learn that we have collected the personal information of a juvenile unintentionally, we shall have the right to take reasonable measures to delete such information from Our records as soon as possible. 
+
+**XVI.For users from different countries**   
+INTSIG will protect privacy and personal information by formulating Privacy Policy in accordance with law. For users of this service in Mainland China, the laws of the People's Republic of China shall apply; for those outside Mainland China and in other countries, the laws of the Hong Kong Special Administrative Region of the People's Republic of China shall apply. 
+
+**XVII.Risks and exemption**   
+If Your personal information or privacy is disclosed due to any of the following events, we will use Our best efforts to remedy or assist you, provided, however, that you shall agree that we are not liable:   
+1.Information divulged due to computer virus, trojan and hacker attack;   
+2.Personal information to be provided as required by law or relevant governments;   
+3.Personal information disclosed because you tell Your password to or share Your registered account with others; or   
+4.Any other leakage of personal information which is not ascribable to INTSIG. 
+
+**XVIII.Amendment to privacy terms**   
+We may make appropriate adjustments to the scope of collection and use of information based on the changes in business development, and the changes in laws and policies.   
+If the Privacy Policy is amended for any reason, We will notify you of the same or post an announcement on Our website. You could decide whether to continue to use Our Products and services. If You do not agree to the amended Privacy Policy, please immediately sign out Your account to discontinue Your use of Our Products and services. 
+
+**XIX.Implementation of Privacy Policy**   
+We will regularly inspect the implementation of the Privacy Policy. If You have any questions or suggestions about Our Privacy Policy, please contact us at the email address, [support@intsig.com](mailto:support@intsig.com)，Email subject: Issues about Privacy Policy. 
