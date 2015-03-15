@@ -1,23 +1,10 @@
-> *The following text is extracted and transformed from the makegameswith.us privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706040230id_/https%3A//www.makegameswith.us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makegameswith.us privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315233615id_/https%3A//www.makeschool.com/privacy-policy) for the most accurate reproduction.*
 
-# MakeGamesWith.Us
+# Privacy Policy | Make School
 
 ## Privacy Policy
 
 Welcome to makegameswith.us, the online and mobile service of makegameswithus, Inc. (“Company,” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
-
-Click on the links below to jump to each section:
-
-  * 1\. How We Collect and Use Information
-  * 2\. Sharing of Your Information
-  * 3\. How We Store and Protect Your Information
-  * 4\. Your Choices About Your Information
-  * 5\. Children’s Privacy
-  * 6\. Links to Other Websites and Services
-  * 7\. How to Contact Us
-  * 8\. Changes to Our Privacy Policy
-
-
 
 ### 1\. How we collect your information
 
