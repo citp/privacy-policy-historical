@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the platt.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701215908id_/https%3A//www.platt.com/Downloads/pdfs/PRIVACYPOLICY.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platt.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315045900id_/https%3A//www.platt.com/Downloads/pdfs/PRIVACYPOLICY.pdf) for the most accurate reproduction.*
 
-# Information We Collect.
+# PRIVACY POLICY General Policy.
 
                                           PRIVACY POLICY
 General Policy. This policy describes the information that the Company may collect about
@@ -145,4 +145,4 @@ secure, whether it was collected online or offline. However, Rexel is not respon
 breach of security or for the actions of any third parties. If you at any time have questions about
 this Privacy Policy, please send your question via email to privacy@RexelHoldingsUSA.com.
 LAST UPDATED: February 1, 2014
-© Copyright 2014 Rexel Holdings USA Corp. All Rights Reserved.
+© Copyright 2014 Rexel Holdings USA Corp. All Rights Reserved.
