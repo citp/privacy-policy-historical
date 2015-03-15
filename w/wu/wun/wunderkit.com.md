@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wunderkit.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210174538id_/https%3A//www.wunderlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wunderkit.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315204113id_/https%3A//www.wunderlist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,8 +11,8 @@ Below, 6Wunderkinder tells you about the type and extent of and the purposes for
 The controller within the meaning of German data protection laws is:
 
   * 6 Wunderkinder GmbH
-  * Brunnenstr. 141
-  * D-10115 Berlin (Mitte)
+  * Karl-Liebknecht-Straße 32
+  * 10178 Berlin
 
 
 
