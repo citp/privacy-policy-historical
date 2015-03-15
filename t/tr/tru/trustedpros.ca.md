@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedpros.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045118id_/http%3A//trustedpros.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedpros.ca privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315100800id_/https%3A//trustedpros.ca/privacy) for the most accurate reproduction.*
 
 # TrustedPros Privacy Policy
 
@@ -8,7 +8,7 @@
 
 ## PRIVACY POLICY - COMMUNITY MEMBERS
 
-This privacy policy applies to any information collected or otherwise obtained on or through the website located at http://trustedpros.ca (the “ **Website** ”) and, unless otherwise specified, any other websites controlled or operated by TrustedPros Inc., which are accessible through the Website.
+This privacy policy applies to any information collected or otherwise obtained on or through the website located at https://trustedpros.ca (the “ **Website** ”) and, unless otherwise specified, any other websites controlled or operated by TrustedPros Inc., which are accessible through the Website.
 
 This privacy policy is effective as of the date set forth above. Personal information provided or collected prior to the above effective date shall be subject to the privacy policy in effect at the time such personal information was provided or collected. 
 
@@ -104,7 +104,7 @@ Your personal information may be stored outside of the Province of Ontario to th
 
 ## PRIVACY POLICY - BUSINESS MEMBERS
 
-This privacy policy applies to any information collected or otherwise obtained on or through the website located at http://trustedpros.ca (the “ **Website** ”) and, unless otherwise specified, any other websites controlled or operated by TrustedPros Inc., which are accessible through the Website.
+This privacy policy applies to any information collected or otherwise obtained on or through the website located at https://trustedpros.ca (the “ **Website** ”) and, unless otherwise specified, any other websites controlled or operated by TrustedPros Inc., which are accessible through the Website.
 
 This privacy policy is effective as of the date set forth above. Personal information provided or collected prior to the above effective date shall be subject to the privacy policy in effect at the time such personal information was provided or collected. 
 
