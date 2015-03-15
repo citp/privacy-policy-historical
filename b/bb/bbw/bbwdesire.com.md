@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the bbwdesire.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209025821id_/http%3A//www.bbwdesire.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbwdesire.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011619id_/http%3A//www.bbwdesire.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds4) for the most accurate reproduction.*
 
-# Privacy Policy
+# BBW Desire
 
-Connect With singles near you for dating,   
-friendship and sexual encounters...
-
-[Join Now For Free](https://web.archive.org/web/20140209025821id_/http%3A//www.bbwdesire.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp?wm_login=admin&ps=s&page=bbwd_join)
-
-  
 **OUR WEB SITE PRIVACY POLICY**
 
 We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our Web site. By using this site, you signify your assent to these our privacy practices and the terms and conditions of our Web site. 
@@ -50,9 +44,4 @@ You can cancel your subscription online by visiting the Customer Service section
 Visitors who wish to access or change the information they provided to our Web site, should visit the Customer Service section of this site and contact us via Email. 
 
 **HOW CAN YOU CONTACT THE WEB SITE OPERATOR?**   
-Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email.  
-  
-BBWDesire.com is a the best free BBW Dating Site online. Meet a busty beautiful woman today online for free! BBWDesire.com provides direct connections to thousands BBW's from around the country for BBW sex dating and photo dating. BBWDesire is 100% free dating, Find a BBW Sex Partner today!
-
-  
-
+Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email. 
