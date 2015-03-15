@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatforum.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109122525id_/http%3A//www.expatforum.com/expats/faq.php%3Ffaq%3Dprivacytext%23faq_privacytextdesc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatforum.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014727id_/http%3A//www.expatforum.com/expats/faq.php%3Ffaq%3Dprivacytext%23faq_privacytextdesc) for the most accurate reproduction.*
 
 # Expat Forum For People Moving Overseas And Living Abroad - FAQ: Privacy Policy
 
