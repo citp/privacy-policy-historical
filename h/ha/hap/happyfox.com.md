@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyfox.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706100839id_/https%3A//www.happyfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyfox.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315083518id_/https%3A//www.happyfox.com/privacy-policy) for the most accurate reproduction.*
 
 # Happyfox help desk software | Privacy policy
 
@@ -74,4 +74,6 @@ Your use of the Site, including any dispute concerning privacy is subject to thi
 
 ## 11\. Contact US 
 
-If you have any questions or comments about this Privacy Policy or any other matter regarding the Site, please send them by email to support@happyfox.com, or by mail to: 17744 Sky Park Circle, Suite 290, Irvine, CA 92614.
+If you have any questions or comments about this Privacy Policy or any other matter regarding the Site, please send them by email to support@happyfox.com, or by mail to: HappyFox, Inc., 24 Executive Park, Suite 230, Irvine, CA 92614.
+
+**Last updated on** October 8, 2014.
