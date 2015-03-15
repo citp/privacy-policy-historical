@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wagbrag.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325224010id_/http%3A//wagbrag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagbrag.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315015240id_/http%3A//wagbrag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wagbrag
+# Privacy Policy - Wagbrag - Pet Wellness, Health, Rescue and Adoption
 
 **What information do you collect about me?**
 
@@ -64,14 +64,12 @@ Responsibility for what is posted in the discussion groups or other public forum
 
 You understand that all information, data, text, software, music, sound, photographs, graphics, video, messages or other materials (“Content”), whether publicly posted or privately transmitted, are the sole responsibility of the person from which such Content originated. This means that you, and not WAGBRAG Inc., are entirely responsible for all Content that you upload, post, or otherwise transmit. WAGBRAG does not control the Content posted and, as such, does not guarantee the accuracy, integrity, or quality of such Content. You understand that by using a WAGBRAG site, you may be exposed to Content that is offensive, indecent or objectionable.
 
-WAGBRAG’s Copyright Agent may be contacted at: Copyright Agent, WAGBRAG, 336 West 37th St Ste 850 NY NY 10018.
+WAGBRAG’s Copyright Agent may be contacted at: Copyright Agent, WAGBRAG, 245 West 19th St, New York, New York, 10011.
 
 **We appreciate the opportunity to serve you!**
 
-If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is: 336 West 37th St Ste 850 NY NY 10018. and we can be reached via e-mail here
+If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is: 245 West 19th St, New York, New York, 10011.. and we can be reached via e-mail here
 
 Additionally, you may contact your state or local consumer protection office, The Direct Marketing Association’s Committee on Ethical Business Practices, the Better Business Bureau, or The Federal Trade Commission by phone at (202) FTC-HELP (202/382-4357) and online at www.ftc.gov.
 
 Note: This privacy policy applies to all of WAGBRAG’s owned and operated websites and to WAGBRAG’s other information gathering activities.
-
-### Share and Enjoy
