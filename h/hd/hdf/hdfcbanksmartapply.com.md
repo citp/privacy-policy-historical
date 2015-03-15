@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdfcbanksmartapply.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704000719id_/https%3A//www.hdfcbanksmartapply.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdfcbanksmartapply.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315034112id_/https%3A//www.hdfcbanksmartapply.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Commitment
 
@@ -21,3 +21,5 @@ HDFC Bank will use the Information to improve the visitor experience on the site
 www.HDFCBankSmartApply.com uses cookies. Cookies are small data files that a website stores on your computer. We use persistent cookies which are permanently placed on your computer to store non-personal (Browser, ISP, OS, Clickstream information etc) and profiling information (age, gender, income etc). While cookies have unique identification nos, personal information (name, a/c no, contact nos etc) SHALL NOT be stored on the cookies.
 
 We will use the information stored in the cookies to improve visitor experience through throwing up relevant content where possible. We will also use the cookies to store visitor preferences to ease visitor navigation on the site.
+
+f28yewHTCRqa5tc - pingdom check string. 
