@@ -1,23 +1,22 @@
-> *The following text is extracted and transformed from the tversity.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124053654id_/http%3A//tversity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tversity.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011440id_/http%3A//tversity.com/about/privacy) for the most accurate reproduction.*
 
-# TVersity - Privacy Policy
+# Privacy Policy · TVersity Media Server - Official Site
 
-Thank you for visiting tversity.com (together with all content on the site, subdomains including but not limited to forums.tversity.com and wiki.tversity.com, and other websites operated by TVersity or its affiliates (â€œTVersityâ€) (the â€œSiteâ€)). Your privacy is important to us. To better protect your privacy, we provide this privacy policy (â€œPrivacy Policyâ€) explaining our online information practices and the choices you can make about the way your information is collected and used at this Site. This Privacy Policy forms part of the Terms of Use, available at http://tversity.com/termsofuse.
+Thank you for visiting tversity.com (together with all content on the site, subdomains including but not limited to forums.tversity.com and wiki.tversity.com, and other websites operated by TVersity or its affiliates (TVersity) (the Site)). Your privacy is important to us. To better protect your privacy, we provide this privacy policy (Privacy Policy) explaining our online information practices and the choices you can make about the way your information is collected and used at this Site. This Privacy Policy forms part of the Terms of Use, available at <http://tversity.com/termsofuse>.
 
 **Introduction**
 
 We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information you share with us.
 
-â€œPersonal Informationâ€ means any information that may be used to identify an individual, including, but not limited to, a first and last name, personal profile, IP address, a home or other physical address and an email address or other contact information.  
-Currently, we do not require you to provide Personal Information in order to have access to information available on our Site. However, in order to provide you with the services given under the Site, you may have to create an account (â€œAccountâ€) and provide us with your email address, a password that you will use for your Account and other specified information.
+Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, personal profile, IP address, a home or other physical address and an email address or other contact information. Currently, we do not require you to provide Personal Information in order to have access to information available on our Site. However, in order to provide you with the services given under the Site, you may have to create an account (Account) and provide us with your email address, a password that you will use for your Account and other specified information.
 
-If you have an Account you may, if you wish, add more data in association with new sources of content that you wish to add to your media library such as your playlist, your collected deep links, and metatags (â€œYour Profileâ€).
+If you have an Account you may, if you wish, add more data in association with new sources of content that you wish to add to your media library such as your playlist, your collected deep links, and metatags (Your Profile).
 
 **The Way We Use Personal Information and Anonymous Information**
 
-If you submit Personal Information to us through the Site, then we will use your Personal Information to improve our services to you, to contact you and to identify and authenticate your access to the Siteâ€™s services that you are authorized to access.
+If you submit Personal Information to us through the Site, then we will use your Personal Information to improve our services to you, to contact you and to identify and authenticate your access to the Site’s services that you are authorized to access.
 
-We may transfer your Personal Information within TVersity or to TVersity’s third-party service providers in order to provide TVersityâ€™s services to You in the most efficient manner. This information may be transferred to other countries around the world.
+We may transfer your Personal Information within TVersity or to TVersity’s third-party service providers in order to provide TVersity’s services to You in the most efficient manner. This information may be transferred to other countries around the world.
 
 We may provide Personal Information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our Privacy Policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
 
@@ -27,8 +26,7 @@ We may also use your email address to send updates, a newsletter or news regardi
 
 We may disclose your Personal Information if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to i) comply with any applicable law, regulation, legal process or governmental request, ii) enforce our Terms of Use including investigations of potential violations thereof, iii) detect, prevent, or otherwise address fraud, security or technical issues, or iv) protect against harm to the rights, property or safety of TVersity, its users, yourself or the public.
 
-We may use Anonymous Information (as defined below) to improve our services and enhance your experience with the Site and its services. We may also disclose Anonymous Information (with or without compensation) to third parties, including advertisers and partners, for purposes including, but not limited to, targeting advertisements.  
-Anonymous Information means information which does not enable identification of an individual user, such as aggregated information about the use of our Site and services, URLs and a user’s playlist.
+We may use Anonymous Information (as defined below) to improve our services and enhance your experience with the Site and its services. We may also disclose Anonymous Information (with or without compensation) to third parties, including advertisers and partners, for purposes including, but not limited to, targeting advertisements. Anonymous Information means information which does not enable identification of an individual user, such as aggregated information about the use of our Site and services, URLs and a user’s playlist.
 
 **Cookies and Other Tracking Technologies**
 
