@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallethub.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209023618id_/http%3A//wallethub.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallethub.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315055944id_/http%3A//wallethub.com/terms/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Privacy Policy – WalletHub
+# Privacy Policy – WalletHub
 
 Date Last Revised: **February 13, 2012**
 
@@ -8,8 +8,8 @@ Date Last Revised: **February 13, 2012**
 
 ### INTRODUCTION
 
-At Evolution Finance, Inc., (“Evolution Finance,” “we,” “us,” or “our”), our relationship with you is our most valuable asset. We understand and appreciate that you are trusting our company with your information, and as such, we are committed to being transparent about how collect, use and display it.  
-This Privacy Policy applies to all of the products, services and websites (e.g. CardHub.com and WalletHub.com) offered by Evolution Finance, Inc. or its subsidiaries or affiliated companies (collectively, the “Site”).
+At Evolution Finance, Inc., ("Evolution Finance," "we," "us," or "our"), our relationship with you is our most valuable asset. We understand and appreciate that you are trusting our company with your information, and as such, we are committed to being transparent about how collect, use and display it.  
+This Privacy Policy applies to all of the products, services and websites (e.g. CardHub.com and WalletHub.com) offered by Evolution Finance, Inc. or its subsidiaries or affiliated companies (collectively, the "Site").
 
 ### STATEMENT OF COVERAGE
 
@@ -35,7 +35,7 @@ Evolution Finance uses information for the following general purposes: improving
 **Transactions:** Evolution Finance collects information about your transactions with our company and some of our partners. This includes billing and payment information and information about your use of our products and service offerings. This information will only be shared with third parties who perform tasks required to complete purchase transactions (such as fulfilling orders and processing credit card payments). When you submit credit card numbers, we encrypt that information using industry standard technology.
 
 **Site Access & Activity:** Evolution Finance automatically collects and records certain information from the computer, mobile phone, or other device you use to access the Site, including your Evolution Finance cookie information, IP address, browser type, browser language, the Web pages you request, and the date and time of your request.  
-We receive data about you whenever you interact with the Site, such as when you look at another person’s profile, send someone a message, search for a topic, person, product, or page, or click on an ad. When you post things like photos or videos on the Site, we may also receive additional related data (or metadata), such as the time, date, and place you took the photo or video.
+We receive data about you whenever you interact with the Site, such as when you look at another person's profile, send someone a message, search for a topic, person, product, or page, or click on an ad. When you post things like photos or videos on the Site, we may also receive additional related data (or metadata), such as the time, date, and place you took the photo or video.
 
 **Public Content:** Your reviews, comments, questions and answers, posts, followers, groups, financial products in your Wallet, businesses and professionals that you have done business with, topics and users you follow, profile information (including your name), and any other information that you post to the Site are meant for public consumption. We may display this content on the Site, collect and store it, and further distribute it to a wider audience through third party sites and services. Please also keep in mind that whenever you voluntarily make other personal information (e.g. your home address) available online for viewing by third parties by posting it on the Site that information is public and can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third party use of such information.  
  ****
@@ -45,7 +45,7 @@ We receive data about you whenever you interact with the Site, such as when you 
 
 **Location:** We may collect and store information about your location if you enable your computer or mobile device to send us location information. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information.
 
-**Contacts:** When you invite your friends to join the Site by providing their contact information or allowing us to use your address book from your computer, mobile device, or other sites, we may use and store your friends’ contact information long enough to process your requests.
+**Contacts:** When you invite your friends to join the Site by providing their contact information or allowing us to use your address book from your computer, mobile device, or other sites, we may use and store your friends' contact information long enough to process your requests.
 
 **??Messages:** If you exchange messages with others through the Site, we may store these messages in order to deliver them and allow you to manage them. If you send information from the Site to your phone via SMS text message, we may log your phone number, phone carrier, and the date and time that the message was processed. Carriers may charge recipients for texts that they receive. When you send email or other communications to Evolution Finance, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.  
 Please also note that the messages you send or receive using the Site are only private to the extent that you and the sender/recipient keep them private. For example, we do not have any control over whether a recipient of one of your personal messages publicly posts it or its contents.
@@ -66,21 +66,21 @@ Evolution Finance does not rent, sell, or share your personal information with o
 
 • While responding to subpoenas, court orders, legal process, or establishing or exercising our legal rights, or defending against legal claims.
 
-• When we believe it is necessary to share information to investigate, prevent, or take action against: illegal activities, potential threats to any person’s physical safety, violations against our terms of use, suspected fraud, or as otherwise required by law.
+• When we believe it is necessary to share information to investigate, prevent, or take action against: illegal activities, potential threats to any person's physical safety, violations against our terms of use, suspected fraud, or as otherwise required by law.
 
-• After we have removed your name or any other personally identifying information from it, or have combined it with other people’s data in a way that it is no longer associated with you.
+• After we have removed your name or any other personally identifying information from it, or have combined it with other people's data in a way that it is no longer associated with you.
 
 • If another company acquires a majority stake in Evolution Finance or one of its properties (for example, CardHub.com), that company will possess the information associated with it, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
 
 ### ADVERTISEMENTS
 
-Evolution Finance displays targeted advertisements, which are based upon personal information. Although Evolution Finance does not provide any personal information to advertisers when our visitors or clients view or interact with a targeted ad, by viewing or interacting with an ad, you are tacitly agreeing that the advertiser might possibly assume that you meet the targeting criteria used for ad-display purposes. We may allow others to “sponsor” some of your account activities, such as reviews, recommendations, status updates, and posts regarding “deals,” in order to increase the likelihood that others see them. For example, if you apply for a new credit card, the respective credit card company may want to make sure that people who follow you see it so they can apply for it too. If content is sponsored, it will appear accompanied by the word “Sponsored” or something similar. Only people that could originally see the information can see the sponsored post, and no personal information about you (or your friends) is shared with the sponsor.
+Evolution Finance displays targeted advertisements, which are based upon personal information. Although Evolution Finance does not provide any personal information to advertisers when our visitors or clients view or interact with a targeted ad, by viewing or interacting with an ad, you are tacitly agreeing that the advertiser might possibly assume that you meet the targeting criteria used for ad-display purposes. We may allow others to "sponsor" some of your account activities, such as reviews, recommendations, status updates, and posts regarding “deals,” in order to increase the likelihood that others see them. For example, if you apply for a new credit card, the respective credit card company may want to make sure that people who follow you see it so they can apply for it too. If content is sponsored, it will appear accompanied by the word "Sponsored” or something similar. Only people that could originally see the information can see the sponsored post, and no personal information about you (or your friends) is shared with the sponsor.
 
 ### COOKIES
 
 • Evolution Finance may set and access Evolution Finance cookies on your computer.  
-• Advertisers or other companies do not have access to Evolution Finance’s cookies.  
-• Evolution Finance lets other companies that show advertisements on some of our pages set and access their own cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies, not this one.  
+• Advertisers or other companies do not have access to Evolution Finance's cookies.  
+• Evolution Finance lets other companies that show advertisements on some of our pages set and access their own cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one.  
 • Evolution Finance uses web beacons to access Evolution Finance cookies inside and outside our network of web sites and in connection with Evolution Finance products and services.
 
 ### EDITING YOUR INFORMATION
@@ -119,6 +119,6 @@ Evolution Finance may update this policy. Changes or additions to this Privacy P
 Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices. If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/feedback/). You may also contact us by sending postal mail to:
 
 Evolution Finance Inc.  
-Attn: Customer Care – Privacy  
+Attn: Customer Care - Privacy  
 818 18th St NW, Suite 420  
 Washington, DC 20006
