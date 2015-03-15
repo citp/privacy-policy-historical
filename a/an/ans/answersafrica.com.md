@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the answersafrica.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111420id_/http%3A//answersafrica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answersafrica.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010405id_/http%3A//answersafrica.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Answers Africa
+# Privacy - Answers Africa Answers Africa
 
 Answers Africa takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -10,16 +10,13 @@ We have created this Privacy Policy to demonstrate our strong commitment to prot
 
 At Answersafrica.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by Answersafrica.com and how it is used.
 
-**Log Files**  
-Like many other Web sites, Answersafrica.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable, in other words we know that a user visited but we don’t know who they are
+**Log Files** Like many other Web sites, Answersafrica.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable, in other words we know that a user visited but we don’t know who they are
 
 We do not sell our users’ personal information to anyone for any reason what so ever,
 
 **Google and DoubleClick Dart Cookie**
 
-.:: Google, as a third party vendor, uses cookies to serve ads on Answersafrica.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to Answersafrica.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+.:: Google, as a third party vendor, uses cookies to serve ads on Answersafrica.com. .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to Answersafrica.com and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 These third-party ad servers or ad networks use such technology in their advertisements and links that appear on Answersafrica.com send directly to an advertisers websites. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see in order to serve you better.
 
