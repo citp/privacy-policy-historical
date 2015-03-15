@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the curatedquotes.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909202024id_/http%3A//www.curatedquotes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curatedquotes.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032339id_/http%3A//www.curatedquotes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Curartedquotes.com - Curated Quotes
+
+Last updated: 02/7/15
+
+## Data Controller and Owner
+
+Indian Summer Media,  
+
+
+michael At curatedquotes (dot) com
 
 ## Types of Data collected
 
