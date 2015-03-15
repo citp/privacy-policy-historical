@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the streetcheck.co.uk privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204061531id_/https%3A//www.streetcheck.co.uk/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetcheck.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315030823id_/https%3A//www.streetcheck.co.uk/about/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
-This Privacy Policy was last modified on January 08, 2014.
+This Privacy Policy was last modified on 9th of March, 2015.
 
 Wired Software Ltd ("us", "we", or "our") operates [StreetCheck](https://web.archive.org/) (the "Site", "www.StreetCheck.co.uk"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. 
 
@@ -40,4 +40,4 @@ Wired Software Ltd may update this Privacy Policy from time to time. We will not
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please [contact us by email](https://web.archive.org/about/contact), or call us on 0845 557 8335\. 
+If you have any questions about this Privacy Policy, please [contact us by email](https://web.archive.org/about/contact), or call us on 01752 424 666 during office hours. 
