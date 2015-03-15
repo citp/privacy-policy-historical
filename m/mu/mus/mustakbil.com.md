@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mustakbil.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626094110id_/http%3A//www.mustakbil.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustakbil.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043301id_/https%3A//www.mustakbil.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mustakbil.com
 
@@ -72,7 +72,7 @@ This privacy policy covers the use of cookies by Mustakbil.com and does not cove
 
 This privacy policy covers the use of cookies by Mustakbil.com and does not cover the use of cookies or other tracking technologies by service providers.
 
-We use Google Analytics to collect data about visitors of our website. We have also updated the Google Analytics tracking code to support Display Advertising, which enables Google Analytics to collect data about Mustakbil.com's traffic via the DoubleClick cookie in addition to data collected through the standard Google Analytics implementation. Display Advertising lets us enable Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting in Google Analytics that aren't available through standard implementations.
+We use Google Analytics to collect data about visitors of our website. We have also updated the Google Analytics tracking code to support Display Advertising, which enables Google Analytics to collect data about Mustakbil.com's traffic via the DoubleClick cookie in addition to data collected through the standard Google Analytics implementation. Display Advertising lets us enable Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting in Google Analytics that aren't available through standard implementations. 
 
 Mustakbil.com and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site.
 
