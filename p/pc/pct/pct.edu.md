@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009015241id_/https%3A//www.pct.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315122120id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Pennsylvania College of Technology
 
@@ -30,12 +30,6 @@ We request information from the user on our Financial Aid Application form. Whil
 
 We request information from the user on our Scholarship Application form. Our scholarship applications are hosted by NextGen Web Solutions. Applicants use their student ID number and a unique password (not the student's Penn College network password or SIS PIN) to log in. This information is contained on a secure server at NextGen.
 
-##### The Penn College Scholarship Campaign Donor Form
-
-We request information from the user on our Scholarship Campaign online gift form. The data requested by this form allows the user a convenient and secure method of giving to The Penn College Scholarship Campaign. We accept online payment via credit card; this transaction is secured by Comodo. 
-
-For those who wish to give to The Penn College Scholarship Campaign without submitting sensitive information online, we also provide a printable form that can be mailed to the Institutional Advancement Office.
-
 ##### The Penn College Fund Donor Form
 
 The College contracts with Blackbaud, Inc., of Charleston, SC, USA, a leading provider of technology solutions and services for nonprofit organizations, to provide The Penn College Fund online giving form. The Blackbaud Gateway safely processes all transactions and the Blackbaud Vault encrypts sensitive information to ensure all transactions are secure. The College has elected to not require user registration with Blackbaud from our donors, further ensuring your privacy. Neither the College nor Blackbaud will disclose or share financial information without your consent, except for general statistical purposes and certain explicit circumstances in which disclosure may be required by law. Your financial information will not be distributed or sold to third-party organizations. Read the [Blackbaud Privacy Policy](https://www.blackbaud.com/privacy-policy.aspx) for more information. 
@@ -58,9 +52,9 @@ We do not share contact information with anyone outside the College without perm
 
 ##### "You're the Chef"
 
-We request information from the user when the user chooses to ask a question of the Chef, and when the user chooses to submit an entry to our recipe contest. This information is used to determine the demographics of our audience, as well as to respond to questions, and to mail a prize to the winning entry of our recipe contest.
+We request information from the user when the user chooses to ask a question of the Chef. This information is used to determine the demographics of our audience, as well as to respond to questions.
 
-If a user elects to use our "Send this recipe to a friend" option for informing a friend about a recipe, we ask them for the friend's name and e-mail address only. We will send the friend a one-time e-mail inviting them to visit the site. We store this information for the sole purpose of sending this one-time-only e-mail. 
+If a user elects to use our "Send this recipe to a friend" option for informing a friend about a recipe, we ask them for the friend's name and e-mail address only. We will send the friend a one-time e-mail inviting them to visit the site. We store this information for the sole purpose of sending this one-time-only e-mail.
 
 ##### College Store
 
@@ -68,15 +62,15 @@ The College contracts with Missouri Bookstore to provide online shopping cart te
 
 #####  Workforce Development & Continuing Education
 
-We accept online registrations for non-credit classes taught through our Workforce Development & Continuing Education office. The information is used solely for registration purposes. Also, because we accept credit card payment, this site is secured by VeriSign.
+We accept online registrations for non-credit classes taught through our Workforce Development & Continuing Education office. The information is used solely for registration purposes. Also, because we accept credit card payment, this site is secured.
 
 #####  Wildcat Wishes
 
-We accept online orders for "Wildcat Wishes" student gift packages. Information obtained is used for ordering and delivery purposes only. Neither party's name will be placed on a mailing list. Credit card orders are protected, since the site is secured by Comodo.
+We accept online orders for "Wildcat Wishes" student gift packages. Information obtained is used for ordering and delivery purposes only. Neither party's name will be placed on a mailing list. Credit card orders are protected, since the site is secured.
 
 ##### Police
 
-We request information from the user on our Student Vehicle Registration form, including vehicle license and credit card information. This transaction is secured by Comodo.
+We request information from the user on our Student Vehicle Registration form, including vehicle license and credit card information. This transaction is secured.
 
 ##### Employee Directories
 
@@ -112,4 +106,4 @@ The College will occasionally update this Statement. Those changes will be poste
 
 ## How to Report Privacy Violations
 
-You may report violations of this statement to [Privacy](https://web.archive.org/web/20141009015241id_/http://www.pct.edu/privacy/contact.asp).
+You may report violations of this statement to [Privacy](https://web.archive.org/web/20150315122120id_/http://www.pct.edu/privacy/contact.asp).
