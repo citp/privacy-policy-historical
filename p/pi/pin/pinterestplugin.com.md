@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinterestplugin.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209041605id_/http%3A//pinterestplugin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinterestplugin.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315031440id_/http%3A//pinplugins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pinterest Plugins for WordPress
 
