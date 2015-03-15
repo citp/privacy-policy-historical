@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gitbook.io privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914151620id_/https%3A//www.gitbook.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gitbook.io privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012347id_/https%3A//www.gitbook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GitBook
 
@@ -99,10 +99,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-https://www.gitbook.io  
 12542 N Vistoso View Pl  
 Oro Valley, AZ 85755  
-contact@gitbook.io
+contact@gitbook.com
 
   
 
