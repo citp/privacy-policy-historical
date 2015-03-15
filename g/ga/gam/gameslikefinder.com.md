@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameslikefinder.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219205710id_/http%3A//gameslikefinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameslikefinder.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011905id_/http%3A//gameslikefinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games Finder
 
@@ -49,7 +49,9 @@ Occasionally, at our discretion, we may include or offer third party products or
 **Website Content**  
 While Games Finder has an in house team of writers we do also accept reviews and game related imagery from third parties (freelancer writers, readers of our websites and others). We do our best to ensure that the user has permission to claim the image, text or other media as their own but we cannot make a guarantee. If you believe your rights are being impacted by imagery, text or other media displayed on our website please do not hesitate to contact us for immediate removal.
 
-The administrative team of the website is not responsible for any infringements by these third parties. We take copyright claims seriously and will act immediately on such issues.
+Our website automatically pulls related videos from YouTube, to prevent your videos from appearing across our website we recommend that you disable embedding in your YouTube profile or contact us directly.
+
+The administrative team of the website is not responsible for any infringements by these third parties. We take copyright claims seriously and will act immediately on such issues when notified.
 
 All media items on our website are used according to a Fair Use policy and are used for identification and review purposes. Some imagery is provided by relevant publisher media departments.
 
@@ -57,6 +59,6 @@ All media items on our website are used according to a Fair Use policy and are u
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on 15 March 2014
+This policy was last modified on 2 January 2015
 
 Please direct all enquiries to <http://gameslikefinder.com/contact>
