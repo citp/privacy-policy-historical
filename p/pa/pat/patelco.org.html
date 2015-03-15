@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the patelco.org privacy policy that was archived on 2014-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702222733id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the patelco.org privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315031707id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
 	<title>Patelco – Security Center</title>
@@ -19,7 +19,7 @@
 			ProductId = "",
 			BVTabbed = false,
 			theme = "/assets/themes/lithium",
-			frameworks = "/assets/frameworks",
+			lib = "/assets/lib",
 			vendorPath = "/assets/vendors",
 			User = {};
 	</script>
@@ -31,11 +31,11 @@
 	<!--[if IE 10]><script type="text/javascript">IE = 10;</script><![endif]-->
 	<!--[if GTE IE 11]><script type="text/javascript">IE = 11;</script><![endif]-->
 
-	<script type="text/javascript" src="/assets/frameworks/jquery/core.min.js"></script>
+	<script type="text/javascript" src="/assets/lib/jquery/core.min.js"></script>
 	<script type="text/javascript" src="/assets/lib/loader.min.js"></script>
 
-	<link type="text/css" rel="stylesheet" media="screen" compatibility="off" href="/assets/frameworks/jquery/ui/theme/patelco/styles.css">
-	<link type="text/css" rel="stylesheet" media="screen" compatibility="off" href="/assets/frameworks/jquery/fancybox/styles.css">
+	<link type="text/css" rel="stylesheet" media="screen" compatibility="off" href="/assets/lib/jquery/ui/theme/patelco/styles.css">
+	<link type="text/css" rel="stylesheet" media="screen" compatibility="off" href="/assets/lib/jquery/fancybox/styles.css">
 
 	<link type="text/css" rel="stylesheet" media="screen" compatibility="on" href="/assets/themes/lithium/styles/layout.css">
 <!--[if LTE IE 7]>
@@ -75,18 +75,18 @@
 
 	<link type="text/css" rel="stylesheet" media="print" compatibility="on" href="/assets/themes/lithium/styles/print.css">
 
-	<script type="text/javascript" src="/assets/frameworks/jquery/easing.pack.js"></script>
-	<script type="text/javascript" src="/assets/frameworks/jquery/mousewheel.pack.js"></script>
-	<script type="text/javascript" src="/assets/frameworks/jquery/ui/essentials.min.js"></script>
-	<script type="text/javascript" src="/assets/frameworks/jquery/fancybox/fancybox.pack.js"></script>
-	<script type="text/javascript" src="/assets/frameworks/jquery/ddaccordion.js"></script>
+	<script type="text/javascript" src="/assets/lib/jquery/easing.pack.js"></script>
+	<script type="text/javascript" src="/assets/lib/jquery/mousewheel.pack.js"></script>
+	<script type="text/javascript" src="/assets/lib/jquery/ui/essentials.min.js"></script>
+	<script type="text/javascript" src="/assets/lib/jquery/fancybox/fancybox.pack.js"></script>
+	<script type="text/javascript" src="/assets/lib/jquery/ddaccordion.pack.js"></script>
 
 	<!-- Set Custom Fonts for certain elements -->
-	<script src="/assets/frameworks/fonts/cufon-yui.js" type="text/javascript"></script>
-	<script src="/assets/frameworks/fonts/serifa.font.js" type="text/javascript"></script>
+	<script src="/assets/lib/fonts/cufon-yui.js" type="text/javascript"></script>
+	<script src="/assets/lib/fonts/serifa.font.js" type="text/javascript"></script>
 
-	<script type="text/javascript" src="/assets/themes/lithium/scripts/interactivity.UI.min.js"></script>
-	<script type="text/javascript" src="/assets/themes/lithium/scripts/site.UI.js"></script>
+	<script type="text/javascript" src="/assets/lib/interactivity.UI.min.js"></script>
+	<script type="text/javascript" src="/assets/themes/lithium/scripts/site.UI.pack.js"></script>
 
 
 	<link type="text/css" rel="stylesheet" media="all" href="/assets/themes/lithium/styles/interior.css">
@@ -102,14 +102,29 @@
 </head>
 
 <body>
-<!--[if LTE IE 6]>
-	<div id="outdatedIE">
-		<strong>IMPORTANT:</strong> You are using an outdated version of Internet Explorer which we no longer support. We recommend upgrading your browser for a better experience while visiting our site.
+<!--[if LT IE 7]>
+	<div id="outdatedIE" class="pageAlert">
+		<div class="inner">
+			<strong>IMPORTANT:</strong> You are using an outdated version of Internet Explorer which we no longer support. You <em>must</em> upgrade your browser to use our sites and services. To learn more <a href="https://www.patelco.org/Privacy-Security/Security-Alerts/Browser-Upgrade/">click here</a>.
+		</div>
 	</div>
+	<style type="text/css">
+		#outerBox {
+			background:none;
+		}
+		#nav {
+			display:none;
+		}
+		#pageBox h1 {
+			color:#333;
+		}
+	</style>
 <![endif]-->
 	<noscript>
-		<div id="scriptsDisabled">
-			<strong>IMPORTANT:</strong> Either your browser does not support Javascript or it is disabled. Enabling Javascript or upgrading your browser will provide a better experience while visiting our site.
+		<div id="scriptsDisabled" class="pageAlert">
+			<div class="inner">
+				<strong>IMPORTANT:</strong> Either your browser does not support Javascript or it is disabled. Enabling Javascript or upgrading your browser will provide a better experience while visiting our site.
+			</div>
 		</div>
 	</noscript>
 	<div id="outerBox">
@@ -142,11 +157,47 @@
 						</tbody>
 					</table>
 				</div>
-				<div id="orbitIframe">
-					<iframe frameborder="0" seamless="true" src="https://banking.patelco.org/account/publicsitelogon/" height="55" width="465" scrolling="no"></iframe>
+				<div class="orbitLogin">
+					<form id="obLogin" name="OBLogin" action="https://banking.patelco.org/account/publicsitelogon" method="post" autocomplete="off">
+						<div id="ThreatMetrix">
+							<input type="hidden" id="CreatedTime" name="CreatedTime">
+							<input type="hidden" id="TMSessionHash" name="TMSessionHash">
+						</div>
+						<table cellspacing="0" cellpadding="0">
+							<thead>
+								<tr>
+									<th>
+										<label for="MemberId">User ID:</label>
+									</th>
+									<th>
+										<label for="Password">Password:</label>
+									</th>
+									<th class="help">
+										<a href="https://banking.patelco.org/Account/Register">Sign Up</a>
+										&nbsp;|&nbsp;
+										<em>Forgot:</em>
+										<a href="https://banking.patelco.org/Account/ForgotUserID">User ID</a>
+										|
+										<a href="https://banking.patelco.org/Account/ForgotPassword"> Password</a>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td class="text">
+										<input id="_MemberId" type="text" name="MemberId" value="" tabindex="1" autocomplete="off">
+									</td>
+									<td class="text">
+										<input id="_Password" type="password" name="Password" value="" tabindex="2" autocomplete="off">
+									</td>
+									<td class="submit">
+										<input type="submit" name="submit" value="Log Into Online Banking" tabindex="3">
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</form>
 				</div>
-
-
 
 			</div>
 			<div id="quickNav">
@@ -185,19 +236,19 @@
 			Benefits of Membership
 		</a>
 	</li>
-	<li class="CU-At-Work">
+	<!--<li class="CU-At-Work">
 		<a href="/Why-Patelco/CU-At-Work">
-			Credit Union At Work <br>(For Employers) 
+			Credit Union At Work <br />(For Employers)
 		</a>
-		<!--<ul>
+		<ul>
       <li class="Select">
 				<a href="/Why-Patelco/CU-At-Work/Select">
 					CU@Work Select
 				</a>
-			</li> 
+			</li>
 			<li class="Partner">
 				<a href="/Why-Patelco/CU-At-Work/Partner">
-					CU@Work 
+					CU@Work
 				</a>
 			</li>
 			<li class="Premier">
@@ -205,8 +256,8 @@
 					CU@Work Premier
 				</a>
 			</li>
-		</ul> -->
-	</li>
+		</ul>
+	</li>-->
 </ul>
 
 							</li>
@@ -293,17 +344,17 @@
 				<ul>
 					<li class="Traditional">
 						<a href="/Checking-And-Savings/Savings/Money-Market/#MoneyMarket">
-							Money Market
+							Money Market Select Account
 						</a>
 					</li>
 					<li class="Plus">
 						<a href="/Checking-And-Savings/Savings/Money-Market/#MoneyMarketPlus">
-							Money Market Plus
+							Money Market Select IRA Account
 						</a>
 					</li>
-					<li class="IRA">
+					<!--<li class="IRA">
 						<a href="/Checking-And-Savings/Savings/Money-Market/#MoneyMarketIRA">
-							Money Market IRA
+							Money Market Select IRA Account
 						</a>
 					</li>
 
@@ -311,7 +362,7 @@
 						<a href="/Checking-And-Savings/Savings/Money-Market/#MoneyMarketPlusIRA">
 							Money Market Plus IRA
 						</a>
-					</li>
+					</li>-->
 				</ul>
 
 			</li>
@@ -321,11 +372,11 @@
 				</a>
 
 				<ul>
-					<li class="NewMemberCertificate">
+					<!--<li class="NewMemberCertificate">
 						<a href="/Checking-And-Savings/Savings/Certificates/#NewMemberCertificate">
 							5% New Member Certificate
 						</a>
-					</li>
+					</li>-->
 					<li class="TraditionalCertificates">
 						<a href="/Checking-And-Savings/Savings/Certificates/#TraditionalCertificates">
 						Traditional Certificates
@@ -712,9 +763,14 @@
 				</a>
 			</li>
 
-			<li class="Vme-by-visa">
-				<a href="/Loans-And-Credit/Credit-Cards/Vme-by-visa/">
-					V.me by Visa
+			<li class="Visa-Checkout">
+				<a href="/Loans-And-Credit/Credit-Cards/Visa-Checkout/">
+				VISA Checkout
+				</a>
+			</li>
+			<li class="Verified-By-VISA">
+				<a href="/Loans-And-Credit/Credit-Cards/Verified-By-VISA/">
+				Verified by VISA
 				</a>
 			</li>
 			<li class="Support">
@@ -737,15 +793,22 @@
 		</a>
 
 		<ul>
-			<li class="">
+		<!--	<li class="">
 				<a href="/Loans-And-Credit/Personal/#VacationLoan">
 					Vacation Loan
 				</a>
-			</li>
-			<li class="">
+			</li> --> 
+		<!--	<li class="">
+				<a href="/Loans-And-Credit/Personal/#HolidayLoan">
+					Holiday Loan
+				</a>-->
+                
+                <li class="">
 				<a href="/Loans-And-Credit/Personal/#SignatureLoan">
 					Signature Loan
 				</a>
+                
+                
 			</li>
 			<li class="">
 				<a href="/Loans-And-Credit/Personal/#SignatureLine">
@@ -1075,10 +1138,12 @@
 <div class="intro">
 	<h1>Your privacy and security <br>is very important to us.</h1>
 	<br>
-	<p>At Patelco, your personal and financial information <br> 
-	is secure. We have several security measures<br> to help prevent unauthorized access to your account(s).  </p>
-	<p>Explore the tabs below to learn more about our <br>privacy and security practices as well as how to<br> report and prevent any fraudulent activity.</p>
-	<br><br><br>
+	<p>At Patelco, your personal and financial information<br>is secure. We have several security measures<br>to help prevent unauthorized access to your account(s).</p>
+	<p>Explore the tabs below to learn more about our <br>privacy and security practices as well as how to<br>report and prevent any fraudulent activity.</p>
+	<p>
+		<a class="cta" href="/Privacy-Security/Terms-And-Conditions/">View our Terms and Conditions</a>
+	</p>
+	<br>
 	<div class="tabController large">
 		<a class="default" href="#SecurityAlerts">Security Alerts</a>
 		<a href="#Privacy">Privacy</a>
@@ -1098,16 +1163,46 @@
 		<tr>
 			<td class="content">
 
-
 				<table cellspacing="0" cellpadding="0" style="width:100%;font-family: arial; color:#444444; font-size: 12px;">
 					<tbody><tr>
 						<td style="border-radius:8px 8px 0 0;background:#991100;color:#ffffff;font-size:14px;font-weight:bold;padding-top:8px;padding-right:12px;padding-bottom:8px;padding-left:12px;">
 							Current Security Alerts &amp; Notifications
 						</td>
 					</tr>
-					
-								 <tr>
-					<td style="background:#B8B8B8;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
+
+					<tr>
+						<td style="background:#DDD;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
+							<br>
+							<p>
+								<strong>Security risk for older browsers</strong>
+								<br>Using an Out-of-Date Browser? Find out why it’s important to upgrade now. <a href="/Privacy-Security/Security-Alerts/Browser-Upgrade/">Read more &gt;</a>
+							</p>
+						</td>
+					</tr>
+
+					<tr>
+						<td style="background:#CCC;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
+							<br>
+							<p>
+								<strong>Patelco Mobile App</strong>
+								<br>Avoid third party app stores to install the Patelco mobile app. <a href="/Privacy-Security/Security-Alerts/Mobile-Apps/">Read more &gt;</a>
+							</p>
+						</td>
+					</tr>
+
+					<tr>
+						<td style="background:#DDD;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
+							<br>
+							<p>
+								<strong>Cyber Credential Hacking</strong>
+								<br>Patelco systems are safe and have not been compromised. <a href="/Privacy-Security/Security-Alerts/Cyber-Credential-Hacking/">Read more &gt;</a>
+							</p>
+						</td>
+					</tr>
+
+					<tr>
+								 </tr><tr>
+					<td style="background:#CCC;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
 					<br>
 					<p>
 					<strong>New! Expanded Online Banking Security - Multi-Factor Authentication (MFA)</strong>
@@ -1116,7 +1211,7 @@
 					</p>
 
 					</td>
-					</tr> 
+					</tr>
 					<tr>
 						<td style="background:#DDD;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
 							<br>
@@ -1130,18 +1225,18 @@
 
 
 </tr><tr>
-						<td style="background:#B8B8B8;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
+						<td style="background:#CCC;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
 							<br>
 							<p>
 								<strong>Account Activation Text Scam</strong>
 								<br>
-								
+
 Fraudulent text messages are being sent to consumers in an effort to steal personal information.  <a href="/Privacy-Security/Security-Alerts/CO-OP-Text-Scam-Alert">Read more &gt;</a>
 							</p>
 						</td>
 					</tr>
 
-		
+
                     	<tr>
 						<td style="background:#DDD;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
 							<br>
@@ -1152,7 +1247,7 @@ Fraudulent text messages are being sent to consumers in an effort to steal perso
 						</td>
 					</tr>
 					<tr>
-						<td style="background:#B8B8B8;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
+						<td style="background:#CCC;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
 							<br>
 							<p>
 								<strong>Microsoft IE Web Browser Security Bug</strong>
@@ -1172,7 +1267,7 @@ Fraudulent text messages are being sent to consumers in an effort to steal perso
 					</tr>
 					<tr>
 						</tr><tr>
-						<td style="background:#B8B8B8;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
+						<td style="background:#CCC;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
 							<br>
 							<p>
 								<strong>NCUA (National Credit Union Administration) Telephone Scam</strong>
@@ -1191,7 +1286,7 @@ Fraudulent text messages are being sent to consumers in an effort to steal perso
 						</td>
 					</tr>
 					<tr>
-						<td style="background:#B8B8B8;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
+						<td style="background:#CCC;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
 							<br>
 							<p>
 								<strong>Data Breach At Target &amp; Neiman Marcus Stores</strong>
@@ -1210,13 +1305,13 @@ Fraudulent text messages are being sent to consumers in an effort to steal perso
 							</p>
 						</td>
 					</tr>
-					<tr>
-						<td style="background:#B8B8B8;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
+			<!--		<tr>
+						<td style="background:#CCC;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
 							<br>
 							<p>
-								<strong>Patelco Counterfeit Cashier’s Checks</strong>
+								<strong>Patelco Counterfeit Cashier&rsquo;s Checks</strong>
 								<br>
-								Patelco counterfeit Cashiers’ Checks being produced and passed to victims across the country. <a href="/Privacy-Security/Security-Alerts/Counterfeit-Cashiers-Checks/">Read more &gt;</a>
+								Patelco counterfeit Cashiers&rsquo; Checks being produced and passed to victims across the country. <a href="/Privacy-Security/Security-Alerts/Counterfeit-Cashiers-Checks/">Read more &gt;</a>
 							</p>
 						</td>
 					</tr>
@@ -1228,9 +1323,9 @@ Fraudulent text messages are being sent to consumers in an effort to steal perso
 								<br>Some members have notified us that they are  receiving text message requests for account information. <a href="/Privacy-Security/Security-Alerts/Text-Fraud-Alert/">Read more &gt;</a>
 							</p>
 						</td>
-					</tr>
+					</tr> -->
 
-					
+
 
 					<!--   <tr>
 					<td style="background:#DDD;width:84px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;text-align:left;">
@@ -1338,16 +1433,16 @@ Fraudulent text messages are being sent to consumers in an effort to steal perso
 
 									<ul class="short">
 										<li>
-										<strong>Federal Privacy Notice </strong> – The security of your personal and financial information is our highest priority.  Read our  <a href="/assets/files/privacy_notice_2013.pdf">Federal Privacy Notice Form (PDF)</a> to learn how we use and protect your information. </li>
+										<strong>Federal Privacy Notice </strong> – The security of your personal and financial information is our highest priority.  Read our  <a href="/assets/files/privacy_notice_2014.pdf">Federal Privacy Notice Form (PDF)</a> to learn how we use and protect your information. </li>
 
 											<li>
-											<strong>California Privacy Notice</strong> – In the state of California you have the right to restrict the sharing of your personal information by organizations. You can learn more by reading the  <a href="/assets/files/CA_privacy_notice_2013.pdf">California Privacy Notice Form (PDF)</a>.</li>
+											<strong>California Privacy Notice</strong> – In the state of California you have the right to restrict the sharing of your personal information by organizations. You can learn more by reading the  <a href="/assets/files/CA_privacy_notice_2014.pdf">California Privacy Notice Form (PDF)</a>.</li>
 											</ul>
 
 											<p>
 												<strong>Our right to change these policies:</strong>
 												<br>
-											These policies are effective June 1, 2013. We can change these policies by notifying you in writing. If a new policy (or policies) will be subject to opt-out rights, we will give you at least 30 days advance notice before the new policy (or policies) goes into effect, and we will disclose the means by which you can opt out of disclosure of nonpublic personal information. </p>
+											These policies are effective June 1, 2014. We can change these policies by notifying you in writing. If a new policy (or policies) will be subject to opt-out rights, we will give you at least 30 days advance notice before the new policy (or policies) goes into effect, and we will disclose the means by which you can opt out of disclosure of nonpublic personal information. </p>
 
 											<p>If you have any questions regarding our privacy practices, please <a href="/Contact">send us a secure email</a> or call us at <strong>800.358.8228</strong>.</p>
 
@@ -2414,7 +2509,7 @@ Fraudulent text messages are being sent to consumers in an effort to steal perso
 			</div>
 			<div id="footer">
 				<div class="footNav">
-					<span class="copyright">© Copyright Patelco Credit Union 2014</span>
+					<span class="copyright">© Copyright Patelco Credit Union 2015</span>
 					<a href="/Contact">
 						Contact Us
 					</a>
@@ -2490,8 +2585,6 @@ Fraudulent text messages are being sent to consumers in an effort to steal perso
 			</div>
 		</div>
 	</div>
-<!-- End siteBox -->
-	<script type="text/javascript">if(typeof(Cufon) !== "undefined") Cufon.now();</script>
 
 
 
