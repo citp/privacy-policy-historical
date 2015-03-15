@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hdvconnect.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012021145id_/http%3A//hdvconnect.com/blog/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdvconnect.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013159id_/http%3A//hdvconnect.com/blog/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Top 2014 Software Recommendations For Antivirus, Internet Security, Mobile Security &amp; Firewall
+# Privacy Policy - Top 2015 Recommendations For Antivirus, Identity Theft Protection, Internet Security, Mobile Security &amp; Firewall
 
 This website takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
