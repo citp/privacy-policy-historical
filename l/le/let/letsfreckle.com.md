@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the letsfreckle.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910020232id_/http%3A//letsfreckle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsfreckle.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315215119id_/http%3A//www.letsfreckle.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Freckle Time Tracking
+# Privacy Policy - Freckle Time Tracking
 
-At Freckle, we collect and manage data according to the following Privacy Policy (last update April 29, 2014).
+At Freckle, we collect and manage data according to the following Privacy Policy (last update January 6, 2015).
 
 ### **TL;DR**
 
@@ -56,12 +56,13 @@ Freckle may contact you by email. For example, Freckle may send you promotional 
 
 We don’t share your personal information with third parties except as listed below. Only aggregated, statistical data is periodically transmitted to external services to help us improve the Freckle Website and Service.
 
-We currently use Campaign Monitor (mailing list management), Customer.io (mailing lists), Google Analytics and Mixpanel Analytics. We listed below what data these third parties extract exactly. Feel free to check out their own Privacy Policies to find out more.
+We currently use Campaign Monitor (mailing list management), Customer.io (mailing lists), Google Analytics, Close.io (CRM) and Firehose Chat (support help chat). We listed below what data these third parties extract exactly. Feel free to check out their own Privacy Policies to find out more.
 
   * Campaign Monitor: your email
   * Customer.io: your name, email and aggregated account statistics
   * Google Analytics: no personally identifiable data is shared
-  * Mixpanel: registered users’ activity (anonymized and not including any data entered by you).
+  * Firehose Chat: your name, email and aggregated account statistics (only when you actively start a text chat with us)
+  * Close.io: your name, email and aggregated account statistics
 
 
 
@@ -79,7 +80,7 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ### US-EU Safe Harbor and US-Swiss Safe Harbor
 
-Slash7 uses annual self-assessments to assure compliance within the US-EU and US-Swiss Safe Harbor Frameworks as set forth by the US Department of Commerce regarding the collection, use and retention or personal data from the European Union and Switzerland. Slash7 has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Slash7′s certification, please visit <http://www.export.gov/safeharbor/>.
+Slash7 uses annual self-assessments to assure compliance within the US-EU and US-Swiss Safe Harbor Frameworks as set forth by the US Department of Commerce regarding the collection, use and retention or personal data from the European Union and Switzerland. Slash7 has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Slash7’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 Our privacy policy above serves as our statement of adherence to the US-EU and US-Swiss Safe Harbor Principles. We encourage you to use the contact information below to inform us of any complaints or disputes you may have regarding the use of your personal information. We will thoroughly investigate the matter internally and make every effort to attempt to resolve the issue quickly. If your dispute cannot be resolved by us internally, we agree to dispute resolution with the Better Business Bureau as our third party resolution provider.
 
@@ -95,6 +96,8 @@ Should you have any question or concern, please write to [support@letsfreckle.co
 
 ### Change Log
 
+  * _Version 1.4, January 6, 2015._ Remove Mixpanel as we no longer use it.
+  * _Version 1.3, September 16, 2014._ Update to include Firehose Chat and Close.io.
   * _Version 1.2, April 29, 2014._ Updated to include Google Analytics.
   * _Version 1.1, October 27, 2013._ Updated section on data sharing as we’re now using Mixpanel.
   * _Version 1.0, January 23, 2013._ Initial release.
