@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 2mhost.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718182520id_/http%3A//www.2mhost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2mhost.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315215559id_/https%3A//www.2mhost.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | 2MHost.com
 
-| 
+## 2MHost dot com ltd. Privacy Policy
 
 Effective Date: 11/18/2010
 
@@ -95,12 +95,10 @@ If you have any questions about security on our Web site, you can contact us at 
 
 **Additional Policy Information**
 
-With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us using your admin area http://www.2mhost.com/admin
+With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us using your admin area https://www.2mhost.com/login
 
 **Acceptance of these 2MHost Web Site Privacy Policy Terms and Conditions**
 
 By using this site, you signify your agreement to the terms and conditions of this 2MHost Web Site Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time.
 
 From time to time, 2MHost may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. Your continued use of the 2MHost Web Site following the posting of any changes to these terms shall mean that you have accepted those changes.
-
-| 
