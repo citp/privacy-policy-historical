@@ -1,16 +1,19 @@
-<!--The following is the downloaded HTML source of the sourcegraph.com privacy policy that was archived on 2014-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141011204837id_/https%3A//sourcegraph.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sourcegraph.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315064311id_/https%3A//sourcegraph.com/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en"><head data-google-analytics-tracking-id="UA-40540747-1" data-heap-analytics-id="2506167423" data-deployed-git-commit-id="5bde1d7a284fe6e0aca282f992d0a7eff8b2efd8" data-public-raven-dsn="https://e3e9f3d682f04e57bcf954cb5b7572d3@app.getsentry.com/38173" data-appdash-current-span-id="cb0190e7994980d0/9b3fa970096bf3a3" data-appdash-current-span-id-trace="cb0190e7994980d0" data-appdash-current-span-id-span="9b3fa970096bf3a3" data-appdash-current-span-id-parent="0000000000000000">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="twitter:widgets:csp" content="on">
     <link rel="search" type="application/opensearchdescription+xml" href="/static/misc/opensearch.xml" title="Sourcegraph">
     <link href="/blog.atom" type="application/atom+xml" rel="alternate" title="The Sourcegraph Blog">
     <link rel="shortcut icon" href="/static/img/favicon.png">
-    <link href="/static/style.css" rel="stylesheet">
+    <link href="/static/bundle.css" rel="stylesheet">
+    <link href="/static/sourcebox.css" rel="stylesheet">
     <link href="/static/font/octicons/octicons.css" rel="stylesheet">
-    
+
+    <script async="" src="https://web.archive.org/web/20150320062915/https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20150320062915/https://cdn.heapanalytics.com/js/heap-2506167423.js"></script><script src="/static/analytics.js"></script>
 
     
     
@@ -25,61 +28,153 @@
 
     <title>Privacy Policy - Sourcegraph</title>
 
-    
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap.js"></script><script type="text/javascript">
-var currentUserLogin = null;
-
-window.heap=window.heap||[];heap.load=function(a){window._heapid=a;var b=document.createElement("script");b.type="text/javascript",b.async=!0,b.src=("https:"===document.location.protocol?"https:":"http:")+"//cdn.heapanalytics.com/js/heap.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c);var d=function(a){return function(){heap.push([a].concat(Array.prototype.slice.call(arguments,0)))}},e=["identify","track"];for(var f=0;f<e.length;f++)heap[e[f]]=d(e[f])};
-heap.load("2506167423");
-if (currentUserLogin) {
-  heap.identify({handle: currentUserLogin});
-}
-</script>
-
   </head>
-  <body class="route-help route-help-page">
+  <body class="route-help route-help-page ">
     
 <nav class="navbar navbar-default " role="navigation" id="nav">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#x-navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      
-      <a class="navbar-brand" href="/"><img class="logo" src="/static/img/logo0.svg" alt="Sourcegraph logo"></a>
-      
-    </div>
-    <div id="x-navbar-collapse" class="navbar-collapse collapse">
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="/blog">Blog</a></li>
-        <li><a href="/help/doc">Docs</a></li>
-        
-        <li class="sign-in">
-          <form action="/login?return-to=%2Fhelp%2Fprivacy" method="POST" class="navbar-form">
-            <button class="btn btn-primary" title="Sign in using your GitHub account">Sign in</button>
-          </form>
-        </li>
-        
-      </ul>
-      
-      
-<form class="navbar-form search-form " role="search" action="/search" data-pjax="#pjax-container">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			
+				<a class="navbar-brand logo logo-symbol-and-text" href="/">
+					
+					<span class="logo-symbol">✱</span> <img class="logo" src="/static/img/logo0.svg" alt="Sourcegraph logo">
+				</a>
+			
+
+			
+
+<form class="navbar-form search-form" role="search" action="/search" data-action-implicit-query-string="" data-pjax="#pjax-container" id="search-form">
   <div class="input-group">
-    <i class="fa fa-search form-control-icon-left"></i>
+    <input type="text" class="form-control" name="q" tabindex="1" placeholder="Search" data-pjax="#pjax-container" autocomplete="off" value="" data-initial-resolved-tokens="[]" data-initial-resolve-errors="null" data-non-deletable-leading-token-count="0">
+  </div>
+  <div id="query-syntax-help">
     
-    <input type="text" class="form-control" name="q" tabindex="1" data-pjax="#pjax-container">
-    <span class="loading-indicator form-control-icon-right"><img src="/static/img/spinner.svg" class="spinner fa-spin"></span>
+<section class="query-syntax">
+  <ul class="demo-queries list-unstyled">
+    <li class="demo-query">
+      <h2 class="description"><tt>owner/repo</tt> — in a single repository</h2>
+      
+<div data-react="QueryDemoField" data-tokens="[
+  {
+    &quot;URI&quot;: &quot;owner/repo&quot;,
+    &quot;Type&quot;: &quot;RepoToken&quot;
+  },
+  {
+    &quot;String&quot;: &quot;myfunc&quot;,
+    &quot;Type&quot;: &quot;AnyToken&quot;
+  }
+]" data-querystring="owner/repo myfunc"></div>
+
+    </li>
+    <li class="demo-query">
+      <h2 class="description"><tt>~mypkg</tt> — In a specific package</h2>
+      
+<div data-react="QueryDemoField" data-tokens="[
+  {
+    &quot;URI&quot;: &quot;owner/repo&quot;,
+    &quot;Type&quot;: &quot;RepoToken&quot;
+  },
+  {
+    &quot;UnitType&quot;: &quot;&quot;,
+    &quot;Name&quot;: &quot;mypkg&quot;,
+    &quot;Unit&quot;: null,
+    &quot;Type&quot;: &quot;UnitToken&quot;
+  },
+  {
+    &quot;String&quot;: &quot;myfunc&quot;,
+    &quot;Type&quot;: &quot;AnyToken&quot;
+  }
+]" data-querystring="owner/repo ~mypkg myfunc"></div>
+
+    </li>
+    <li class="demo-query">
+      <h2 class="description"><tt>/mydir</tt> — in a specific file or directory</h2>
+      
+<div data-react="QueryDemoField" data-tokens="[
+  {
+    &quot;URI&quot;: &quot;owner/repo&quot;,
+    &quot;Type&quot;: &quot;RepoToken&quot;
+  },
+  {
+    &quot;Path&quot;: &quot;mydir&quot;,
+    &quot;Entry&quot;: null,
+    &quot;Type&quot;: &quot;FileToken&quot;
+  },
+  {
+    &quot;String&quot;: &quot;myfunc&quot;,
+    &quot;Type&quot;: &quot;AnyToken&quot;
+  }
+]" data-querystring="owner/repo /mydir myfunc"></div>
+
+    </li>
+    <li class="demo-query">
+      <h2 class="description"><tt>:mybranch</tt> — at a specific revision</h2>
+      
+<div data-react="QueryDemoField" data-tokens="[
+  {
+    &quot;URI&quot;: &quot;owner/repo&quot;,
+    &quot;Type&quot;: &quot;RepoToken&quot;
+  },
+  {
+    &quot;Rev&quot;: &quot;mybranch&quot;,
+    &quot;Type&quot;: &quot;RevToken&quot;
+  },
+  {
+    &quot;String&quot;: &quot;myfunc&quot;,
+    &quot;Type&quot;: &quot;AnyToken&quot;
+  }
+]" data-querystring="owner/repo :mybranch myfunc"></div>
+
+    </li>
+    <li class="demo-query">
+      <h2 class="description"><tt>@org</tt> — across all repositories in an org</h2>
+      
+<div data-react="QueryDemoField" data-tokens="[
+  {
+    &quot;Login&quot;: &quot;myorg&quot;,
+    &quot;Type&quot;: &quot;UserToken&quot;
+  },
+  {
+    &quot;String&quot;: &quot;myfunc&quot;,
+    &quot;Type&quot;: &quot;AnyToken&quot;
+  }
+]" data-querystring="@myorg myfunc"></div>
+
+    </li>
+  </ul>
+  <p>Mouse over or tap the queries to see what to type.</p>
+</section>
+
   </div>
 </form>
 
-      
-      <span></span>
-    </div>
-  </div>
-  
+
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top-nav-collapse">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+
+		<div class="collapse navbar-collapse" id="top-nav-collapse">
+			<ul class="nav navbar-nav navbar-right">
+				
+					<li><a href="/help/getting-started">Get started</a></li>
+					<li><a href="/pricing">Pricing</a></li>
+					<li><a href="/blog">Blog</a></li>
+				
+				
+					<li class="sign-in">
+						<form action="/login?return-to=%2Fhelp%2Fprivacy" method="POST" class="navbar-form">
+							<button class="btn btn-primary sign-in" data-tooltip="" title="Sign in using your GitHub account" data-placement="bottom"><span class="fa fa-github"></span>&nbsp; Sign in</button>
+						</form>
+					</li>
+				
+			</ul>
+		</div>
+	</div>
+	
 </nav>
 
 
@@ -239,6 +334,7 @@ if (currentUserLogin) {
           <div class="col-sm-2">
             <h2>Misc</h2>
             <ul class="list-unstyled">
+              <li><a href="/help/security">Security</a></li>
               <li><a href="/help/terms">Terms</a></li>
               <li><a href="/help/privacy">Privacy</a></li>
             </ul>
@@ -251,33 +347,20 @@ if (currentUserLogin) {
 </footer>
 
 
+    <div id="loading">
+      <div class="loading-indicator"><span class="asterisk-animation">✱</span></div>
+    </div>
+
     
 
     
 
-<div id="feedback">
-  <header><a class="close pull-right">×</a> <h3 id="feedback-tab">Feedback or issues?</h3></header>
-  <form role="form" id="feedback-form" method="post">
-    <div class="form-group url" style="position:absolute;left:-10000px;top:0">
-      <label for="url">Type nothing here unless you are a 5p@mb0t</label>
-      <input type="text" class="form-control" name="url" autocomplete="off" placeholder="">
-    </div>
-    <div class="form-group">
-      <label for="contact">Email or Twitter/GitHub account</label>
-      <input type="text" class="form-control" id="contact" name="contact" value="" placeholder="Optional but appreciated">
-    </div>
-    <div class="form-group">
-      <label for="contact">Your message</label>
-      <textarea class="form-control" name="message" placeholder="" rows="4"></textarea>
-    </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
-  </form>
-</div>
+<div data-react="FeedbackContainer" data-contact=""></div>
 
 
 
     
-<div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="keyboard-shortcuts-help" style="top: 20%">
+<div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="keyboard-shortcuts-help">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
@@ -308,39 +391,6 @@ if (currentUserLogin) {
     
 
     <script src="/static/bundle.js"></script>
-    
-<script type="text/javascript">
-
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-40540747-1', 'sourcegraph.com');
-ga('require', 'linkid', 'linkid.js');
-ga('set', 'dimension1', !!currentUserLogin);
-ga('set', 'dimension4', "web");
-ga('send', 'pageview');
-</script>
-
-
-    <script type="text/javascript">
-      
-      
-
-     var _sg__data_CurrentRoute = "help.page";
-     var _sg__data_CurrentRouteVars = {"Slug":"privacy"};
-    </script>
-
-    <script>
-      var _sg_currentCallID =  396691228 ;
-    </script>
-
-    <script>
-     document.addEventListener("DOMContentLoaded", function() {
-       sourcegraph_activateDefnPopovers(document.body);
-     });
-    </script>
-
   
 
 </body></html>
