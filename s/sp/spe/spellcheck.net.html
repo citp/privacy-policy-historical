@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spellcheck.net privacy policy that was archived on 2014-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203230343id_/http%3A//www.spellcheck.net/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spellcheck.net privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315023447id_/http%3A//www.spellcheck.net/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta name="description" content="">
@@ -9,7 +9,8 @@
 	<link rel="shortcut icon" href="/favicon.ico">
 	<link rel="stylesheet" type="text/css" media="screen" href="/public_resources/css/all.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/public_resources/css/flags.css">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/public_resources/js/sproxyGr.js"></script>
+	<script async="" src="http://cdn.taboola.com/libtrc/domainoptionsinc-spellcheck/loader.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/public_resources/js/sproxyGr.js"></script>
+<script type="text/javascript" src="/public_resources/js/jquery-2.1.3.min.js"></script>
 
 	<script type="text/javascript">
 	var _gaq = _gaq || [];
@@ -19,12 +20,11 @@
 		var ga = document.createElement('script');
 		ga.type = 'text/javascript';
 		ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 		var s = document.getElementsByTagName('script')[0];
 		s.parentNode.insertBefore(ga, s);
 	})();
-</script>
-	<script type="text/javascript">
+</script>	<script type="text/javascript">
 	function getBanner() {
 		var ads = new Array();
 		ads[0] = "<script type=\"text\/javascript\">"
@@ -49,38 +49,32 @@
 		document.write(ads[randInd]);
 	}
 </script>
+    <script type="text/javascript">
+        function submitSearch() {
+            var oInput = document.getElementById('searchInput');
+            oInput.value = oInput.value.toString().replace(/^[\s]+/, '').replace(/[\s]+$/, '').replace(/[\s]{2,}/, ' ');
+            if (oInput.value == '') {
+                alert('Search can not be empty');
+            } else {
+                var oForm = document.getElementById('searchForm');
+                oForm.submit();
+            }
+        }
+        function submitGrammarly() {
+            var a = document.getElementById('searchInput');
+            var b = document.getElementById('grammarly');
 
-	<script type="text/javascript">
-		function submitSearch() {
-			var oInput = document.getElementById('searchInput');
-			oInput.value = oInput.value.toString().replace(/^[\s]+/, '').replace(/[\s]+$/, '').replace(/[\s]{2,}/, ' ');
-			if (oInput.value == '') {
-				alert('Search can not be empty');
-			} else {
-				var oForm = document.getElementById('searchForm');
-				oForm.action = "/search/";
-				oForm.method = 'get';
-				oForm.target = "";
-				oForm.submit();
-			}
-		}
-		function submitGrammarly() {
-			var a = document.getElementById('searchInput');
-			var b = document.getElementById('grammarly');
-			
 
-			var submitTextForm = document.getElementById('searchForm');
-			submitTextForm.action = "https://ed.grammarly.com/verify_aff/copyPaste";
-			submitTextForm.method = 'POST';
-			submitTextForm.target = "_blank";
-			if (a.value != '') {
-				b.value = a.value;
-				submitTextForm.submit();
-			} else {
-				alert('Search can not be empty');
-			}
-		}
-	</script>
+            var submitTextForm = document.getElementById('searchForm');
+            submitTextForm.action = "https://ed.grammarly.com/verify_aff/copyPaste";
+            submitTextForm.method = 'POST';
+            submitTextForm.target = "_blank";
+            if (a.value != '') {
+                b.value = a.value;
+                submitTextForm.submit();
+            }
+        }
+    </script>
 	<script type="application/ld+json">
 		{
 		  "@context": "http://schema.org",
@@ -93,49 +87,45 @@
 		  }
 		}
 	</script>
-	<script type="text/javascript">
-function submitGrammarly() {
-	var a = document.getElementById('searchInput');
-	var b = document.getElementById('grammarly');
-
-
-	var submitTextForm = document.getElementById('searchForm');
-	submitTextForm.action = "https://ed.grammarly.com/verify_aff/copyPaste";
-	submitTextForm.method = 'POST';
-	submitTextForm.target = "_blank";
-	if (a.value != '') {
-		b.value = a.value;
-		submitTextForm.submit();
-	}
-}
-</script></head>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({home:'auto'});
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'),
+            document.getElementsByTagName('script')[0],
+            'http://cdn.taboola.com/libtrc/domainoptionsinc-spellcheck/loader.js');
+    </script>
+</head>
 <body>
 <div id="page-top">
 	<div class="page-top-inner-wrapper">
 		<div id="page-top-inner">
 						<a href="/" id="site-logo-image"></a>
 			<div class="header-ads">
-	<!--728x90-->
-	<script type="text/javascript"><!--//<![CDATA[
-		var m3_u = (location.protocol == 'https:' ? 'https://ads.domainoptions.net/openx/www/delivery/ajs.php' : 'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
-		var m3_r = Math.floor(Math.random() * 99999999999);
-		if (!document.MAX_used) document.MAX_used = ',';
-		document.write("<scr" + "ipt type='text/javascript' src='" + m3_u);
-		document.write("?zoneid=16");
-		document.write('&amp;cb=' + m3_r);
-		if (document.MAX_used != ',') document.write("&amp;exclude=" + document.MAX_used);
-		document.write(document.charset ? '&amp;charset=' + document.charset : (document.characterSet ? '&amp;charset=' + document.characterSet : ''));
-		document.write("&amp;loc=" + escape(window.location));
-		if (document.referrer) document.write("&amp;referer=" + escape(document.referrer));
-		if (document.context) document.write("&context=" + escape(document.context));
-		if (document.mmm_fo) document.write("&amp;mmm_fo=1");
-		document.write("'><\/scr" + "ipt>");
-		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=16&amp;cb=31598528629&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141203230343id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
-	<noscript><a
-			href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=acfe5e32&amp;cb=INSERT_RANDOM_NUMBER_HERE'
-			target='_blank'><img
-				src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=16&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=acfe5e32'
-				border='0' alt=''/></a></noscript>
+    <link rel="stylesheet" type="text/css" href="http://banners.domainoptions.net/banners/texttrust/css/texttrust2.css">
+    <script type="text/javascript" src="http://ads.domainoptions.net/stat/ttlog.js"></script>
+
+    <!--728x90-->
+    <div id="spell_check_banner">
+        <div class="scb_holder">
+            <strong class="scb_heading">Spell check your website for free!</strong>
+        </div>
+        <div class="scb_holder">
+            <form id="spellcheckform" method="post" action="http://www.texttrust.com/public/newcheck.aspx" name="frmSpellCheck" target="_parent">
+                <input type="hidden" id="affiliate_id" name="affiliate_id" value="12115920">
+                <input type="hidden" id="Redirect_Page" name="Redirect_Page" value="http://www.texttrust.com/web_site_submitted_for_review.html">
+                <div class="scb_form-inner">
+                    <input class="text" id="CheckURL" name="CheckURL" type="text" title="http://" value="http://" size="15">
+                    <input class="text" id="Email" type="text" name="Email" size="15" title="Email" value="Email">
+                    <input type="submit" class="submit" value="" eid="texttrust_spellcheck_top_728x90" id="spellchecksubmit" alt="Spell Check" name="Submit">
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- 728x90 end -->
 </div>
 			<div class="clr"></div>
 		</div>
@@ -144,76 +134,36 @@ function submitGrammarly() {
 <div class="unit_link">
 	<div class="unit_inner_wrapper">
 		<div class="unit_link_inner">
-		<script type="text/javascript"><!--//<![CDATA[
-			var m3_u = (location.protocol == 'https:' ? 'https://ads.domainoptions.net/openx/www/delivery/ajs.php' : 'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
-			var m3_r = Math.floor(Math.random() * 99999999999);
-			if (!document.MAX_used) document.MAX_used = ',';
-			document.write("<scr" + "ipt type='text/javascript' src='" + m3_u);
-			document.write("?zoneid=28");
-			document.write('&amp;cb=' + m3_r);
-			if (document.MAX_used != ',') document.write("&amp;exclude=" + document.MAX_used);
-			document.write(document.charset ? '&amp;charset=' + document.charset : (document.characterSet ? '&amp;charset=' + document.characterSet : ''));
-			document.write("&amp;loc=" + escape(window.location));
-			if (document.referrer) document.write("&amp;referer=" + escape(document.referrer));
-			if (document.context) document.write("&context=" + escape(document.context));
-			if (document.mmm_fo) document.write("&amp;mmm_fo=1");
-			document.write("'><\/scr" + "ipt>");
-			//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=28&amp;cb=94626389874&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141203230343id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
-		<noscript><a
-				href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=acfe5e32&amp;cb=INSERT_RANDOM_NUMBER_HERE'
-				target='_blank'><img
-					src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=28&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=acfe5e32'
-					border='0' alt=''/></a></noscript>
-			</div>
-		</div>
+            <script type="text/javascript"><!--
+                google_ad_client = "pub-5722786420980524";
+                /* spellcheck.net-ws-728x15 */
+                google_ad_slot = "9921674485";
+                google_ad_width = 728;
+                google_ad_height = 15;
+                //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+            </script>
+        </div>
+    </div>
 </div></div>
 
 <div id="page-main-content">
 
-	<div id="left-sidebar" style="width:300px">
-		<div id="left-adsen-banner-top" class="left-adsen">
-	<!--160x90-->
-	<script type="text/javascript"><!--//<![CDATA[
-		var m3_u = (location.protocol=='https:'?'https://ads.domainoptions.net/openx/www/delivery/ajs.php':'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
-		var m3_r = Math.floor(Math.random()*99999999999);
-		if (!document.MAX_used) document.MAX_used = ',';
-		document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-		document.write ("?zoneid=147");
-		document.write ('&amp;cb=' + m3_r);
-		if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-		document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-		document.write ("&amp;loc=" + escape(window.location));
-		if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-		if (document.context) document.write ("&context=" + escape(document.context));
-		if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-		document.write ("'><\/scr"+"ipt>");
-		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=147&amp;cb=43673944514&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141203230343id_/http%253A//www.spellcheck.net/privacy-policy.html"></script><noscript><a href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=a05fb7ef&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=147&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a05fb7ef' border='0' alt='' /></a></noscript>
-
-</div>
+	<div id="left-sidebar">
 		<div id="left-adsen-banner-bottom" class="left-adsen">
-	<!--120x600-->
-	<script type="text/javascript"><!--//<![CDATA[
-		var m3_u = (location.protocol == 'https:' ? 'https://ads.domainoptions.net/openx/www/delivery/ajs.php' : 'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
-		var m3_r = Math.floor(Math.random() * 99999999999);
-		if (!document.MAX_used) document.MAX_used = ',';
-		document.write("<scr" + "ipt type='text/javascript' src='" + m3_u);
-		document.write("?zoneid=148");
-		document.write('&amp;cb=' + m3_r);
-		if (document.MAX_used != ',') document.write("&amp;exclude=" + document.MAX_used);
-		document.write(document.charset ? '&amp;charset=' + document.charset : (document.characterSet ? '&amp;charset=' + document.characterSet : ''));
-		document.write("&amp;loc=" + escape(window.location));
-		if (document.referrer) document.write("&amp;referer=" + escape(document.referrer));
-		if (document.context) document.write("&context=" + escape(document.context));
-		if (document.mmm_fo) document.write("&amp;mmm_fo=1");
-		document.write("'><\/scr" + "ipt>");
-		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=148&amp;cb=82506305008&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141203230343id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
-	<noscript><a
-			href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=aa1dc7e5&amp;cb=INSERT_RANDOM_NUMBER_HERE'
-			target='_blank'><img
-				src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=18&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aa1dc7e5'
-				border='0' alt=''/></a></noscript>
+    <script type="text/javascript"><!--
+        google_ad_client = "ca-pub-5722786420980524";
+        /* spellcheck.net-300x600-deep */
+        google_ad_slot = "6357477778";
+        google_ad_width = 300;
+        google_ad_height = 600;
+        //-->
+    </script>
+    <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
 </div>
-	</div>
+        	</div>
 
 	<div id="page-center-content" class="no-bg">
 
@@ -222,69 +172,24 @@ function submitGrammarly() {
         <h2>Enter your word and <a class="spellButtonAsLink" href="#" onclick="submitSearch(); return false;">click here</a> to search</h2>
 
         <div class="ads">
-	<!--468x15-->
-	<script type="text/javascript"><!--//<![CDATA[
-		var m3_u = (location.protocol == 'https:' ? 'https://ads.domainoptions.net/openx/www/delivery/ajs.php' : 'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
-		var m3_r = Math.floor(Math.random() * 99999999999);
-		if (!document.MAX_used) document.MAX_used = ',';
-		document.write("<scr" + "ipt type='text/javascript' src='" + m3_u);
-		document.write("?zoneid=19");
-		document.write('&amp;cb=' + m3_r);
-		if (document.MAX_used != ',') document.write("&amp;exclude=" + document.MAX_used);
-		document.write(document.charset ? '&amp;charset=' + document.charset : (document.characterSet ? '&amp;charset=' + document.characterSet : ''));
-		document.write("&amp;loc=" + escape(window.location));
-		if (document.referrer) document.write("&amp;referer=" + escape(document.referrer));
-		if (document.context) document.write("&context=" + escape(document.context));
-		if (document.mmm_fo) document.write("&amp;mmm_fo=1");
-		document.write("'><\/scr" + "ipt>");
-		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=19&amp;cb=70908436553&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141203230343id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
-	<noscript><a
-			href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=a370394a&amp;cb=INSERT_RANDOM_NUMBER_HERE'
-			target='_blank'><img
-				src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=19&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a370394a'
-				border='0' alt=''/></a></noscript>
+    <input type="hidden" name="IL_IN_TAG" value="1">
 </div>
 
         <div class="box">
             <input type="text" id="searchInput" name="search">
-            <script type="text/javascript"><!--//<![CDATA[
-    var m3_u = (location.protocol=='https:'?'https://ads.domainoptions.net/openx/www/delivery/ajs.php':'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
-    var m3_r = Math.floor(Math.random()*99999999999);
-    if (!document.MAX_used) document.MAX_used = ',';
-    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-    document.write ("?zoneid=323");
-    document.write ('&amp;cb=' + m3_r);
-    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-    document.write ("&amp;loc=" + escape(window.location));
-    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-    if (document.context) document.write ("&context=" + escape(document.context));
-    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-    document.write ("'><\/scr"+"ipt>");
-    //]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=323&amp;cb=40347903951&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141203230343id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>                    </div>
+                    </div>
         <div class="panel">
             <div class="ad ads468x60">
-	<!--468x60 middle-->
-	<script type="text/javascript"><!--//<![CDATA[
-		var m3_u = (location.protocol == 'https:' ? 'https://ads.domainoptions.net/openx/www/delivery/ajs.php' : 'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
-		var m3_r = Math.floor(Math.random() * 99999999999);
-		if (!document.MAX_used) document.MAX_used = ',';
-		document.write("<scr" + "ipt type='text/javascript' src='" + m3_u);
-		document.write("?zoneid=137");
-		document.write('&amp;cb=' + m3_r);
-		if (document.MAX_used != ',') document.write("&amp;exclude=" + document.MAX_used);
-		document.write(document.charset ? '&amp;charset=' + document.charset : (document.characterSet ? '&amp;charset=' + document.characterSet : ''));
-		document.write("&amp;loc=" + escape(window.location));
-		if (document.referrer) document.write("&amp;referer=" + escape(document.referrer));
-		if (document.context) document.write("&context=" + escape(document.context));
-		if (document.mmm_fo) document.write("&amp;mmm_fo=1");
-		document.write("'><\/scr" + "ipt>");
-		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=137&amp;cb=48156043983&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141203230343id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
-	<noscript><a
-			href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=aad510ed&amp;cb=INSERT_RANDOM_NUMBER_HERE'
-			target='_blank'><img
-				src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=137&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aad510ed'
-				border='0' alt=''/></a></noscript>
+    <script type="text/javascript"><!--
+        google_ad_client = "ca-pub-5722786420980524";
+        /* spellcheck.net-dp-468x60-m */
+        google_ad_slot = "8758711237";
+        google_ad_width = 468;
+        google_ad_height = 60;
+        //-->
+    </script>
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
 </div>
             <div class="clr"></div>
         </div>
@@ -341,41 +246,16 @@ function submitGrammarly() {
 
 <p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information
 	about cookie management with specific web browsers can be found at the browsers' respective websites.</p>
-			<div class="clr"></div>
+
+<h3>Hosted spell-checking service privacy</h3>
+<p>All text data that is spell-checked by a Hosted service is sent to our server. Text data is processed and sent back to the client.
+    Spell-checked content and user information is not collected. Separate words are collected anonymously; we store in logs user activity for
+    further service improvements, specifically misspelled words, the action performed (change, change all, ignore, add to user dictionary)
+    and the correct word selected for a misspelled word.</p>			<div class="clr"></div>
 		</div>
 	</div>
 
-	<div id="right-sidebar">
-				
-		<div class="content">
-
-			<div class="banner-amazon">
-	<!--200x200 Amazon-->
-	<script type="text/javascript"><!--//<![CDATA[
-		var m3_u = (location.protocol == 'https:' ? 'https://ads.domainoptions.net/openx/www/delivery/ajs.php' : 'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
-		var m3_r = Math.floor(Math.random() * 99999999999);
-		if (!document.MAX_used) document.MAX_used = ',';
-		document.write("<scr" + "ipt type='text/javascript' src='" + m3_u);
-		document.write("?zoneid=55");
-		document.write('&amp;cb=' + m3_r);
-		if (document.MAX_used != ',') document.write("&amp;exclude=" + document.MAX_used);
-		document.write(document.charset ? '&amp;charset=' + document.charset : (document.characterSet ? '&amp;charset=' + document.characterSet : ''));
-		document.write("&amp;loc=" + escape(window.location));
-		if (document.referrer) document.write("&amp;referer=" + escape(document.referrer));
-		if (document.context) document.write("&context=" + escape(document.context));
-		if (document.mmm_fo) document.write("&amp;mmm_fo=1");
-		document.write("'><\/scr" + "ipt>");
-		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=55&amp;cb=88575646917&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141203230343id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
-	<noscript><a
-			href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=a9fb4190&amp;cb=INSERT_RANDOM_NUMBER_HERE'
-			target='_blank'><img
-				src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=55&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a9fb4190'
-				border='0' alt=''/></a></noscript>
-</div>
-
-		</div>
-
-			</div>
+	<div id="right-sidebar"></div>
 
 	<div class="clr"></div>
 	</div>
@@ -389,6 +269,10 @@ function submitGrammarly() {
 	var infolinks_wsid = 17;
 </script>
 <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
 
 
 </body></html>
