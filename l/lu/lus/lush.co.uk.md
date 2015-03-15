@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the lush.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231211240id_/https%3A//www.lush.co.uk/help/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lush.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315101155id_/https%3A//www.lush.co.uk/help/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lush
 
 We are Lush Retail Limited (company registration number 03084750) and we are the data controller for the purposes of the Data Protection Act 1988.
 
-This statement discloses the privacy practices and policies for the Lush website. If you have any questions about these practices and policies, please email us at [customercare@lush.co.uk](mailto:customercare@lush.co.uk)
+This statement discloses the privacy practices and policies for the Lush website. If you have any questions about these practices and policies, please email us at [wecare@lush.co.uk](mailto:wecare@lush.co.uk)
 
 Your personal data will be used for processing and invoicing your order and when dealing with your enquiries and, if you opt in, to send you information about Lush and its products. This may involve processing sensitive personal data about your health that you give to us. 
 
 If you would like to be kept up to date with all the new exciting Lush news, you can opt in for our newsletter and Lush Times! All you have to do sign-up via our website or customer care team and there you have it; you can then confirm that your e-mail address is correct and is the same address you have used to order with.
 
-If you do not want to receive Lush Times or Lush emails anymore please e-mail [customercare@lush.co.uk](mailto:customercare@lush.co.uk) or contact us on +44 (0) 1202 668545. If you would like to change your personal data on our database or you want a copy of the data we hold on file please e-mail [customercare@lush.co.uk](mailto:customercare@lush.co.uk) or call us on +44 (0) 1202 668545.
+If you do not want to receive Lush Times or Lush emails anymore please e-mail [wecare@lush.co.uk](mailto:wecare@lush.co.uk) or contact us on +44 (0) 1202 668545. If you would like to change your personal data on our database or you want a copy of the data we hold on file please e-mail [wecare@lush.co.uk](mailto:wecare@lush.co.uk) or call us on +44 (0) 1202 668545.
 
 We may share your information on a confidential basis with our third party providers and group companies. However, don't worry, your data is not publicly available and we will never pass it on to anyone who will plague you with non-Lush marketing stuff. We treat your data as strictly confidential!
 
