@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715132213id_/http%3A//www.hays.co.uk/PrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315051414id_/http%3A//hays.co.uk/PrivacyPolicy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Hays
 
@@ -40,7 +40,7 @@ We will collect data about you, both personal data (such as your name and contac
 
   * To third parties where we have retained them to provide services that you or our client have requested, such references, qualifications and criminal reference checking services, verification of the details you have provided from third party source, psychometric evaluation or skill test
 
-  * To regulatory or law enforcement agencies if we believe in good faith that we are required by law to disclose it in connection with the detection of crime, the collection of taxes or duties, in order to comply with any applicable law or order of a court of competent jurisdiction, or in connection with legal proceedings
+  * To third parties, regulatory or law enforcement agencies if we believe in good faith that we are required by law to disclose it in connection with the detection of crime, the collection of taxes or duties, in order to comply with any applicable law or order of a court of competent jurisdiction, or in connection with legal proceedings
 
   * To use your information on an anonymised basis to monitor compliance with our equal opportunities policy
 
