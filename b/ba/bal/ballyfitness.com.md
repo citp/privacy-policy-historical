@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ballyfitness.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226215525id_/http%3A//www.ballyfitness.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballyfitness.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316001930id_/http%3A//ballyfitness.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Bally Fitness | Privacy Policy | Bally Total Fitness
 
