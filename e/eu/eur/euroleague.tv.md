@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the euroleague.tv privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514175821id_/http%3A//www.euroleague.tv/help/option/5863) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroleague.tv privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022803id_/http%3A//www.euroleague.livebasketball.tv/privacy-policy%3FICID_HOM_FOT2_PRI) for the most accurate reproduction.*
 
-# Euroleague Basketball
+# Privacy Policy | euroleague.livebasketball.tv
 
-Thank you for visiting WWW.EUROLEAGUE.TV, FIBATV.COM AND LIVEBASKETBALL.TV ("the Websites") powered by the Perform Group, [www.performgroup.com](http://www.performgroup.com/)
+This Privacy Policy explains how Perform Media Channels Limited (" **Perform** ") together with other companies within the Perform Group (which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006) (the " **Perform Group** ") use information we collect about you and the choices you can make about the way your information is collected and used. 
 
-This Privacy Policy explains how Perform Media Services Limited (" **Perform** ") together with other companies within the Perform Group(which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006) (the " **Perform Group** ") and EuroLeague use information we collect about you and the choices you can make about the way your information is collected and used. 
-
-Unless separately defined herein, the defined terms in this Privacy Policy have the same meaning as in the Terms and Conditions which can be found at [http://www.euroleague.tv/help/option/7880](http://www.euroleague.tv/help/option/7880)
+Unless separately defined herein, the defined terms in this Privacy Policy have the same meaning as in the Terms and Conditions which can be found [here](https://web.archive.org/terms-of-use)
 
 By your use of the Website you consent to the terms and conditions of this Privacy Policy.
 
@@ -38,7 +36,7 @@ Please note: If you do decide to opt-out of receiving information, Perform Group
 
 2\. SECURITY
 
-We understand that the security of your Personal Information is important to you.When handling Personal Information, security is paramount and we have in place a security policy which ensures that Personal Information is adequately protected.Your Personal Information is password protected, and any Personal Information you provide to Perform Group is protected from unauthorised disclosure by reasonable technological measures. Personal Information provided to Perform Group is not, however, transmitted via SSL encryption technology. We recommend that you do not divulge your password to anyone. 
+We understand that the security of your Personal Information is important to you.When handling Personal Information, security is paramount and we have in place a security policy which ensures that Personal Information is adequately protected.Your Personal Information is password protected, and any Personal Information you provide to Perform Group is protected from unauthorised disclosure by reasonable technological measures. However, some limited Personal Information provided to Perform Group is transmitted using unencrypted protocols. We recommend that you do not divulge your password to anyone. 
 
 3\. AGGREGATED INFORMATION
 
@@ -90,7 +88,7 @@ Perform Group reserve the right to access and disclose Personal Information to c
 
 This Website is a general audience Website. We do not knowingly collect and/or share Personal Information from children under the age of thirteen on the Website. However, your child cannot use some of the interactive features of the Website without providing Personal Information. We therefore recommend using the Website with your child if he or she is interested in participating in an interactive feature of the Website.
 
-If, in the future, Perform Group actively collects Personal Information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998
+If, in the future, Perform Group actively collects Personal Information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998.
 
 7\. ACCESS TO YOUR INFORMATION
 
@@ -108,7 +106,7 @@ If you have any questions or comments about this Privacy Policy please feel free
 
 Registered Office:
 
-Perform Media Services Limited
+Perform Media Channels Limited
 
 Sussex House
 
@@ -118,6 +116,4 @@ Feltham TW13 7HE
 
 Tel: (0)20 3372 0600
 
-Registered No: 03426471
-
-Back to top
+Registered No: 5645564
