@@ -1,31 +1,83 @@
-> *The following text is extracted and transformed from the touchlondon.co.uk privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629103233id_/http%3A//www.touchlocal.com/go/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchlondon.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025241id_/http%3A//www.touchlondon.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Touch Local Business Directory | Privacy Policy
 
-### Privacy Policy
+By using this website you give your consent that all personal data that you submit may be processed by Scoot in the manner and for the purposes described in the following Privacy Policy. 
 
-The Community Portal is managed and owned by Touch Local Ltd ("Touch").
+## Definitions
 
-In providing the Community Portal Touch collects information about you. In doing so, we take your privacy and our obligations under the data protection legislation very seriously. You have a right to expect a website to disclose its privacy policies - how your personal information is collected, used and shared. You also have a responsibility to choose which sites you feel comfortable disclosing such information to.
+The terms "Enable Media Limited”, "Enable Media Ltd", “Enable Media”, “Scoot”, "we", "us", "our" and "ours" when used in these Terms and Conditions mean Enable Media Limited. The terms "you", "your" and "yours" when used in these Terms and Conditions mean any user of this website. 
 
-In order to comply with our obligations, Touch must obtain your consent to the use of your personal information. Please ensure therefore that you read the following statement carefully. Registration will be taken as consent to certain uses of your information.
+The term “Personal Data” refers to personally identifiable information about you, such as your name, job title, email or mailing address. 
 
-#### Item A: Access to Registration Information
+## About your privacy
 
-Touch will under no circumstances give access to your registration information to any third party for any purpose, either commercial or otherwise. Consistent with our obligations under the Data Protection Act 1998, your information is maintained on a secure webserver in what we believe to be a well protected environment. Neither Touch nor any other website operator can, however, guarantee that your information will remain secure from unauthorised access. 
+We are committed to safeguarding the privacy of our website visitors whilst providing the highest possible quality of service. We will only use the information that we collect about you lawfully in accordance with the UK Data Protection Act 1998 (Enable Media Ltd registration number Z8702255). 
 
-#### Item B: Cookies
+If you have any questions concerning your personal information or regarding our practices, please contact: The Financial Controller, Enable Media Ltd, Scoot House, 19 Falcon Court, Preston Farm Industrial Estate, Stockton-on-Tees TS18 3TU, telephone +44 (0)1642 881088 or send us an [email](mailto:info@scoot.co.uk). 
 
-In order to become a registered member of the Community Portal, you must have 'Cookies' enabled on your machine. Our website relies on this technology to allow you to re-access your registered user profile and personalised page during a web session. In this way, once you initially log in during a web session, you will not be asked for your log-in ID and password again unless you log out. This mechanism is employed solely for your convenience and for no other purpose.
+## Collection of personal data
 
-#### Item C: Public vs Confidential Information
+We collect information from details you give us when you use our website and from any email messages you may send to us. When you use this website to register to receive additional information or support from us, we ask you for contact information like your name, job title, company details, telephone number and email address. 
 
-You acknowledge that all of your submissions and postings to the public portion of the website are public and not private information. Always use caution when giving out any personally identifying information about yourself or your household. Touch specifically disclaims any liability with regard to any actions resulting from your submissions and postings to the public portion of the website. Generally, any communication which you post to the website is considered to be non-confidential. If a particular webpage or form permits the submission of information that will be treated by Touch as confidential, that fact will be stated on those pages.
+We may also collect email addresses via marketing events such as trade shows and exhibitions. In such cases, we assume that people providing their email addresses are opting in to receive email messages from us. Therefore, we do not include an email opt-out mechanism when collecting event leads. 
 
-#### Item D: Use of Public Information
+If, at any time, you wish to opt out of receiving information from Scoot via email, please telephone +44 (0)1642 881088 or send us an [email](mailto:info@scoot.co.uk). 
 
-By posting communications on or through the website, you automatically grant Touch a royalty-free, perpetual, irrevocable, non-exclusive license to use, reproduce, modify, publish, edit, translate, distribute, perform and display the information alone or as part of other works in any form, media or technology whether now known or hereafter developed. The foregoing grants shall include the right to exploit any proprietary rights in such communication, including but not limited to rights under copyright, trademark, service mark or patent laws under any relevant jurisdiction. You agree to waive any moral rights which you may have in such material. Touch reserves the right to refuse to post and/or remove any material sent or posted by you.
+## Anonymous data collected through this website
 
-#### Your consent
+We also use software tools to collect information automatically about your visit to our website. The information obtained in this way, which includes demographic data and browsing patterns, is only used in aggregate form and, as such, cannot be used to identify you personally. Such aggregate information helps us to audit usage of our website and improve the service provided. 
 
-By registering with us you consent to the collection and use of your information by Touch in the ways outlined above. If, having given your consent to the use of your data, you subsequently change your mind you can stop all, or particular uses of your data by sending us an e-mail.
+## Cookies
+
+In order to collect the anonymous data described above, we may use temporary "cookies" that collect the domain name of the user and the date and time you visited this website. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie and this enables you to decide if you want to accept it or not. 
+
+## Use of personal data
+
+We process your personal data only for specific and limited purposes. We ask only for data that is adequate, relevant and not excessive for those purposes. When we ask you for personal data, we tell you the purposes for which we will process that data. Some of these purposes include: 
+
+  * Providing you with information about our products or services, special offers and events or articles and case studies we think will be of interest to you
+  * Sending you regular newsletters by email or by post
+  * Providing you with product or service information and promotional material that you have specifically requested
+  * Processing any other requests that you make
+  * To summarise usage behaviour for advertisers and partners, and to describe our service and performance. This is not based on individual behaviour, but is generic
+  * Conducting marketing research.
+
+
+
+## Disclosure of your personal data
+
+We do not share, sell or distribute your personal data with unrelated third parties, except under the following limited circumstances: 
+
+  * Personal data may occasionally be transferred to third parties who act for or on behalf of Scoot, or in connection with the business of Scoot for further processing in accordance with the purposes to which you have subsequently consented.
+  * We may share or transfer the information in our databases to comply with a legal requirement, for the administration of justice, to protect your vital interest, to protect the security or integrity of our databases or this website, to take precautions against legal liability, or in the event of a corporate sale, merger, reorganisation, dissolution or similar event.
+
+
+
+## Data integrity and security
+
+We keep your personal data only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements. 
+
+In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. Our servers and our databases are protected by industry standard security technology, such as industry standard firewalls and password protection. 
+
+The employees who have access to personal data have been trained to handle such data properly and in accordance with our security protocols and strict standards of confidentiality. Although we cannot guarantee against any loss, misuse, unauthorised disclosure, alteration or destruction of data, we try to prevent such unfortunate occurrences. 
+
+## Data access and corrections
+
+We will disclose to you the personal data we hold about you upon receipt of your written request addressed to The Financial Controller at the address given above. We will also correct, amend or delete any personal data that is inaccurate and notify any third party recipients of the necessary changes. 
+
+## Links to other websites
+
+This Privacy Policy applies only to www.scoot.co.uk and www.scoot.com. These websites contain hyperlinks to websites that are not operated by Scoot. These hyperlinks are provided for your reference and convenience only and you should note that we do not have any control over these other websites. We cannot, therefore, be responsible for the protection and privacy of any data which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and review the privacy statement posted on any site you visit before using the site or providing any personal data about yourself. 
+
+## Updates and changes to privacy policy
+
+We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on this website. Any such change, update or modification will be effective immediately upon posting on the site. 
+
+## Governing law
+
+This Privacy Policy forms part of our website Terms and Conditions and as such shall be governed by and construed in accordance with the laws of England. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England. 
+
+Back to the top
+
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.[Learn more](https://web.archive.org/cookie-policy)Accept
