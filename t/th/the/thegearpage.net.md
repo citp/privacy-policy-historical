@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegearpage.net privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012030016id_/http%3A//www.thegearpage.net/board/tgphome.php%3Fpageid%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegearpage.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020004id_/http%3A//www.thegearpage.net/board/tgphome.php%3Fpageid%3DPrivacy) for the most accurate reproduction.*
 
 # The Gear Page - Privacy Policy
 
