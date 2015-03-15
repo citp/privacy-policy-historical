@@ -1,25 +1,36 @@
-<!--The following is the downloaded HTML source of the circleup.com privacy policy that was archived on 2014-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702104546id_/https%3A//circleup.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the circleup.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315022138id_/https%3A//circleup.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0016/8345.js?439013" async="" type="text/javascript"></script><script src="https://static.woopra.com/js/woopra.js" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://www.google-analytics.com/analytics.js" async="" type="text/javascript"></script><script src="https://stats.g.doubleclick.net/dc.js" async="" type="text/javascript"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEDV1NRGwAJVFhTBQE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html><html><head><script src="https://bat.bing.com/bat.js" async="" type="text/javascript"></script><script src="https://s.adroll.com/j/roundtrip.js" async="" type="text/javascript"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0016/8345.js?439013" async="" type="text/javascript"></script><script src="https://static.woopra.com/js/woopra.js" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://www.google-analytics.com/analytics.js" async="" type="text/javascript"></script><script src="https://stats.g.doubleclick.net/dc.js" async="" type="text/javascript"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEDV1NRGwAJVFhTBQE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
     <title>CircleUp Privacy Policy</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
 
     
     
+        <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+
+
+<!-- LOGGED OUT -->
+
+    <link rel="stylesheet" type="text/css" href="/static/css/compiled/apps/main/logged_out.css">
+
+
+<!-- Global -->
+<link rel="stylesheet" href="/static/css/compiled/global/global3.css">
+
+<!-- Either bootstrap3 or correct file (fix later) -->
+
+    
+    <link type="text/css" href="/static/css/compiled/apps/main_bootstrap3.css" rel="stylesheet">
+
+
+
+<!-- Page level should be in { % block css % }-->
         
-
-
-    <link type="text/css" href="/static/css/bootstrap222.css" rel="stylesheet">
-    <link type="text/css" href="/static/css/compiled/main.css" rel="stylesheet">
-
-
- 
-    <link type="text/css" href="/static/gen/logged_out.b1a1206a.css" rel="stylesheet">
-
+        
     
-    
+
     
 
     
@@ -27,28 +38,36 @@
     <link rel="icon" type="image/png" href="/static/images/icons/favicon.ico">
     <meta charset="utf-8">
     
-    <meta name="description" content="CircleUp is an online social marketplace where individual investors can invest in small private consumer companies and be part of their success.">
+        <meta name="description" content="CircleUp is an online social marketplace where individual investors can invest in small private consumer companies and be part of their success.">
     
     
-    <meta property="og:image" content="https://circleup.com/static/images/icon-facebook.png">
-    <meta property="og:title" content="CircleUp">
-    <meta property="og:site_name" content="CircleUp">
+        <meta name="keywords" content="circleup, circle up, cnbc, cashcrowd, cash, crowd, invest, investing, raise">
+    
+    
+        <meta property="og:image" content="https://circleup.com/static/images/icon-facebook.png">
+        <meta property="og:title" content="CircleUp">
+        <meta property="og:site_name" content="CircleUp">
     
     <link rel="image_src" type="image/png" href="https://circleup.com/static/images/icon-facebook.png">
-    <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+
+    
+    
 
     
 <script type="text/javascript">
-    
-    
 
+    
+    
         
-            function insert_tracking_script(src) {
+            function insert_tracking_script(src, onloadCallback) {
                 var e, s;
                 e = document.createElement('script');
                 e.src = src;
                 e.async = true;
                 e.type = "text/javascript";
+                if(typeof onloadCallback !== "undefined") {
+                    e.onload = onloadCallback
+                }
                 s = document.getElementsByTagName('script')[0];
                 s.parentNode.insertBefore(e, s);
             }
@@ -109,9 +128,9 @@
                 tracker.setDomain('circleup.com');
                 tracker.setIdleTimeout(300000);
                 var j, inf;
-                inf = 'eyJ2aXNpdG9yIjogMjIzNjE5MywgInZpc2l0IjogMjU4MDEwNCwgIm5hbWUiOiAiIiwgImF2YXRhciI6ICIiLCAiZW1haWwiOiAiIn0=';
+                inf = 'eyJ2aXNpdG9yIjogNDE4NDM1MSwgInZpc2l0IjogNDg0Mjc3NiwgIm5hbWUiOiAiIiwgImF2YXRhciI6ICIiLCAiZW1haWwiOiAiIn0=';
                 if (inf) {
-                    j = cudec.a('eyJ2aXNpdG9yIjogMjIzNjE5MywgInZpc2l0IjogMjU4MDEwNCwgIm5hbWUiOiAiIiwgImF2YXRhciI6ICIiLCAiZW1haWwiOiAiIn0=');
+                    j = cudec.a(inf);
                     
                     for (prop in j) tracker.addVisitorProperty(prop, j[prop]);
                 }
@@ -122,16 +141,86 @@
                 return false;
             }
 
+
+            function loadAdrollAnalytics() {
+                /*
+                 Adroll event tracking can't handle events that happen before the javascript tracking
+                 file is fully loaded. This makes it so we can track events before the file is loaded.
+
+                 Adroll documentation would have you call the segmentation code this way:
+
+                 try { __adroll.record_user({"adroll_segments": "segment_name"}) } catch(err) {}
+
+                 To make the same call using the new interface you would make the following call.
+
+                 _cuAdroll.push(['record_user', {"adroll_segments": "segment_name"}]);
+
+                 */
+                var i, https;
+                window.adroll_adv_id = "DKJXMC54XFEFTDYQG5WMFY";
+                window.adroll_pix_id = "OU6G6BR57FA27AYGQGXGAM";
+                window._cuAdroll = window._cuAdroll || [];
+                https = ('https:' == document.location.protocol);
+
+                // Call this once the adroll script has loaded.
+                function adrollLoaded() {
+
+                    var _cuAdroll, apply;
+                    _cuAdroll = window._cuAdroll;
+
+
+                    apply = function(functionArguments) {
+                        var functionName;
+                        functionName = functionArguments.shift();
+                        window.__adroll[functionName].apply(__adroll, functionArguments);
+                    };
+
+                    // run any actions added to the queue
+                    for (i = 0; i < _cuAdroll.length; i++) {
+                        if (_cuAdroll[i]) {
+                            apply(_cuAdroll[i]);
+                        }
+                    }
+
+                    // replace the _cuAdroll list with an object that makes the desired calls directly
+                    window._cuAdroll = {
+                        push: apply
+                    }
+                }
+
+                insert_tracking_script((https ? "https://s" : "http://a") + ".adroll.com/j/roundtrip.js", adrollLoaded);
+            }
+            function loadBingAdTracking() {
+                var var_name = 'uetq';
+
+                window[var_name] = window[var_name] || [];
+
+                function bingCallback() {
+                    window[var_name] = window[var_name] || [];
+                    var o = {
+                        ti: "4004611"
+                    };
+                    o.q = window[var_name];
+                    window[var_name] = new UET(o);
+                    window[var_name].push("pageLoad")
+                }
+
+                insert_tracking_script(document.location.protocol + '//bat.bing.com/bat.js', bingCallback)
+            }
+
             function loadAnalytics() {
-                insert_tracking_script(('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js'); 
-                insert_tracking_script(document.location.protocol + '//www.google-analytics.com/analytics.js');  
-                insert_tracking_script((document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"); 
-                insert_tracking_script(document.location.protocol + '//static.woopra.com/js/woopra.js'); 
-                
-                insert_tracking_script(document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0016/8345.js?" + Math.floor(new Date().getTime() / 3600000));
+                var https = ('https:' == document.location.protocol);
+                insert_tracking_script(document.location.protocol + '//stats.g.doubleclick.net/dc.js');             
+                insert_tracking_script(document.location.protocol + '//www.google-analytics.com/analytics.js');     
+                insert_tracking_script((https ? "https://secure" : "http://edge") + ".quantserve.com/quant.js");    
+                insert_tracking_script(document.location.protocol + '//static.woopra.com/js/woopra.js');            
+                insert_tracking_script(document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0016/8345.js?" + Math.floor(new Date().getTime() / 3600000)); 
+                loadAdrollAnalytics();
+                loadBingAdTracking();
             }
         
 </script>
+<script src="//cdn.optimizely.com/js/63411949.js"></script>
 
     
 
@@ -139,379 +228,785 @@
     
 
 </head>
-<body onload="loadAnalytics()">
+<body onload="loadAnalytics()" class="app-main  bootstrap3" id="main-privacy">
+
     <div id="fb-root" data-fb-app-id="194704230622322"></div>
     
         
-            <div id="nav" role="navigation">
-    <div id="topnav-wrapper" class="navbar navbar-fixed-top">
-        <div class="nav-inner" id="topnav-inner">
-            <a href="/">
-                <img src="https://s3.amazonaws.com/uploads.hipchat.com/19975/253220/Gv8634qoLWuQrSn/Logo_white_4-17-14.png" class="circleup-logo">
-            </a>
-            <ul id="topnav-options" class="nav-options">
-                
 
+<nav id="topnav" class="navbar navbar-fixed-top navbar-default" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">
+                <img src="https://s3.amazonaws.com/static-circleup-com/static-assets/Logo-White_320x86.png" class="circleup-logo">
+            </a>
+        </div>
+        
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
                     
-                        <li class=" ">
-                            <a href="/companies/">
+                        <li class="">
+                            <a href="/companies/" class="
+                                    
+                                    ">
                                 COMPANIES
                                 
+                            
                             </a>
                         </li>
                     
-
-                
-
-                    
-                        <li class=" ">
-                            <a href="/circles/">
+                        <li class="">
+                            <a href="/circles/" class="
+                                    
+                                    ">
                                 CIRCLES
                                 
+                            
                             </a>
                         </li>
                     
-
-                
-
+                        <li class="">
+                            <a href="/community/" class="
+                                    
+                                    ">
+                                COMMUNITY
+                                
+                            
+                            </a>
+                        </li>
                     
-                        <li class=" ">
-                            <a href="/getting-started/">
+                        <li class="">
+                            <a href="/data/" class="
+                                    caret-pre 
+                                    ">
+                                RESOURCES
+                                
+                            
+                            </a><a class="dropdown-toggle caret-container" data-toggle="dropdown">
+                                    <span class="caret"></span>
+                                </a>
+                                <ul class="dropdown-menu" role="menu">
+                                    
+                                        <li class="">
+                                            <a href="/data/">INDUSTRY DATA</a>
+                                        </li>
+                                    
+                                </ul>
+                            
+                        </li>
+                    
+                        <li class="">
+                            <a href="/getting-started/" class="
+                                    caret-pre 
+                                    ">
                                 HOW IT WORKS
                                 
-                            </a>
+                            
+                            </a><a class="dropdown-toggle caret-container" data-toggle="dropdown">
+                                    <span class="caret"></span>
+                                </a>
+                                <ul class="dropdown-menu" role="menu">
+                                    
+                                        <li class="">
+                                            <a href="/getting-started/">GETTING STARTED</a>
+                                        </li>
+                                    
+                                        <li class="">
+                                            <a href="/selection/">COMPANIES</a>
+                                        </li>
+                                    
+                                        <li class="">
+                                            <a href="/discovery/">DUE DILIGENCE</a>
+                                        </li>
+                                    
+                                        <li class="">
+                                            <a href="/investing/">INVESTING</a>
+                                        </li>
+                                    
+                                        <li class="">
+                                            <a href="/shareholder-value/">SHAREHOLDER VALUE</a>
+                                        </li>
+                                    
+                                </ul>
+                            
                         </li>
                     
-
-                
-
-                    
-                        <li class=" ">
-                            <a href="/raise-funds/">
+                        <li class="">
+                            <a href="/raise-funds/" class="
+                                    caret-pre 
+                                    ">
                                 RAISING FUNDS
                                 
-                            </a>
+                            
+                            </a><a class="dropdown-toggle caret-container" data-toggle="dropdown">
+                                    <span class="caret"></span>
+                                </a>
+                                <ul class="dropdown-menu" role="menu">
+                                    
+                                        <li class="">
+                                            <a href="/raise-funds/">RAISE FUNDS</a>
+                                        </li>
+                                    
+                                        <li class="">
+                                            <a href="/entrepreneur-education/faq/">FUNDRAISING FAQ</a>
+                                        </li>
+                                    
+                                        <li class="">
+                                            <a href="/entrepreneur-education/compliance-faq/">COMPLIANCE FAQ</a>
+                                        </li>
+                                    
+                                </ul>
+                            
                         </li>
                     
-
-                
-
-                    
-                        <li class=" ">
-                            <a href="/about-us/">
+                        <li class="">
+                            <a href="/about-us/" class="
+                                    caret-pre 
+                                    ">
                                 ABOUT US
                                 
-                            </a>
+                            
+                            </a><a class="dropdown-toggle caret-container" data-toggle="dropdown">
+                                    <span class="caret"></span>
+                                </a>
+                                <ul class="dropdown-menu" role="menu">
+                                    
+                                        <li class="">
+                                            <a href="/about-us/">TEAM</a>
+                                        </li>
+                                    
+                                        <li class="">
+                                            <a href="/press/">PRESS</a>
+                                        </li>
+                                    
+                                        <li class="">
+                                            <a href="/jobs/">JOBS</a>
+                                        </li>
+                                    
+                                        <li class="">
+                                            <a href="/contact/">CONTACT US</a>
+                                        </li>
+                                    
+                                        <li class="">
+                                            <a href="/blog/">BLOG</a>
+                                        </li>
+                                    
+                                </ul>
+                            
                         </li>
                     
-
-                
-            </ul>
-
-            
-                <div id="topnav-right">
-                    <div id="topnav-buttons" class="btn-group">
-                        <a class="btn btn-primary" href="/join/">Join</a>
-                        <a class="btn btn-primary" id="the-login-button" href="/login/">Log In</a>
-                    </div>
-                </div>
-            
-        </div>
-    </div>
-</div>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    
+                        <div id="topnav-buttons" class="btn-group">
+                            
+<a class="btn btn-primary" data-toggle="modal" data-target="#signup-modal" href="#">
+    Join
+</a>
 
 
+<a class="btn btn-primary" id="the-login-button" data-toggle="modal" data-target="#login-modal" href="#">
+    Sign In
+</a>
 
+                        </div>
+                    
+                </ul>
+            </div>
         
+    </div>
+</nav>
+
+
     
 
     <div id="wrapper">
         
-            <div class="container" id="content-wrapper" style="padding-top: 85px;">
+            <div class="container" id="content-wrapper">
                 
                 
     <div class="row">
-        <div class="span16">
-            <h1>Privacy Policy <!--suppress HtmlPresentationalElement -->
-                <small>Updated August 9th, 2013</small></h1>
+        <div class="col-xs-12">
+            <h1>Privacy Policy
+                <small>Updated February 27th, 2015</small>
+            </h1>
 
-            <h2>Our Commitment to Privacy</h2>
+            <h3>Summary of Major Changes</h3>
 
-            <p>At CircleUp, our most important asset is our relationship with you.</p>
+            <p>We clarified that Personal Data is information that identifies you and that can be used alone to contact
+                you online or offline. Personal Data may be supplemented or tied with other information, including
+                non-personal or anonymous information and information that we receive from third parties.</p>
 
-            <p>We are required by law to ask for certain information in order to perform our services for you,
-                but we are committed to protecting your personal and financial information. This Privacy Policy
-                answers some questions about what information we collect, what we do with it, and how we protect
-                it. It also describes the choices available to you regarding our use of your personal
-                information and how you can access and update this information.</p>
+            <p>Non-personal information is information that alone cannot be used to identify or contact you, such as
+                your demographic information and information about your computer. We may use and share non-personal
+                information for purposes such as improving our products and services and providing services to you.</p>
 
-            <h2>Our Policy</h2>
+            <p>We may receive information from third parties that we use to supplement Personal Data and non-personal
+                information. Such information from third parties includes demographic information, information provided
+                by social networking sites, and information about you from other CircleUp users (e.g., contact
+                information).</p>
 
-            <p>Welcome to the web site <a href="http://www.circleup.com/">www.circleup.com</a> (the "<strong>Site</strong>")
-                owned and operated by CircleUp Network, Inc. (Henceforward "<strong>CircleUp</strong>," "we," "us," and/or
-                "our"). This Site has been created to provide information about our company and its financial
-                matchmaking services (the "<strong>Services</strong>") to all users of the Site or Service, including
-                entrepreneurs ("Issuers") and Accredited Investors, as defined by SEC Regulation D Rule 501 ("Investors"),
-                who in any way use the Site or Service provided by CircleUp (in each case, a "User"). This Privacy Policy
-                sets forth CircleUp's policy with respect to information, including personally identifiable data
-                ("<strong>Personal Data</strong>"), and other information that is collected from Site visitors and users
-                of the Services.</p>
+            <p>You may be required to create an account to use certain services on the Site. If you create a CircleUp
+                account using, or to connect to CircleUp through, a social networking site, that site may share certain
+                Personal Data and non-personal information with us that we may use to create the account and for other
+                purposes described in the Privacy Policy.</p>
 
-            <p>CircleUp Network, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy
-                and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's
-                    program requirements</a> including transparency, accountability and choice regarding the
-                collection and use of your personal information. The TRUSTe program covers only information that
-                is collected through this Web site, www.circleup.com.</p>
+            <p>We use various technologies on the Site to provide Services, offer you ads, and for other purposes. Such
+                technologies include clear GIFs, tracking pixels, cookies, web beacons, and certain third party
+                analytics and ad serving technologies. The third party analytics and advertising companies we use may
+                also collect information from the Site using these technologies and combine it with other information
+                they have, such as information they have collected from other websites, and use and share it in
+                accordance with their own privacy policies.</p>
 
-            <p>TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers
-                and organizations globally through its leading privacy Trustmark and innovative trust
-                solutions<em>. If you have questions or complaints regarding our privacy policy or practices,
-                    please contact us at </em><a href="mailto:info@circleup.com"><em>info@circleup.com</em></a><em>. </em>If you are not
-                satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>.</p>
+            <p>We may use and share your Personal Data and non-personal information to improve the Site, personalize the
+                Site, enforce our Terms of Service, investigate activities that violate our policies, and comply with
+                law, among other uses. We may also share your Personal Data and non-personal information with our third
+                party contractors, including contractors who provide email delivery, products, advertising, analytics
+                and other services. You will be notified before your Personal Data is collected by any third party that
+                is not our agent or contractor.</p>
 
-            <h2>Information We Collect</h2>
-
-            <p>When you interact with us through the Site or the Services, we may collect Personal Data and
-                other information from you, as further described below:</p>
-
-            <p><strong>Personal Data That You Provide Through the Site:</strong> We collect Personal Data from you when you
-            voluntarily provide such information such as when you register for access to the Services (for
-            example, contact information such as your name, email address, and mailing address; and when you
-            wish to use certain Services (for example financial information such as bank account numbers, your
-            Date of Birth and last 4 digits of you social security number). ,contact us with inquiries or
-            respond to one of our surveys. Wherever CircleUp collects Personal Data provide a link to this
-            Privacy Policy.</p>
-
-            <p><strong>By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance
-                with this Privacy Policy. If you provide Personal Data, you acknowledge and agree that such
-                Personal Data may be transferred from your current location to the offices and servers of
-                CircleUp and the authorized third parties referred to herein located in the United States.</strong></p>
-
-            <p><strong>Non-Identifiable or Aggregated Data:</strong> When you interact with CircleUp through the Site or Services,
-                we receive and store certain non-identifiable information about you. Such information, which may be
-                collected passively using various technologies or through other means, cannot be used to specifically identify you. </p>
-
-            <p>As is true of most web sites, we gather certain information automatically and store it in log files.
-                This information includes internet protocol (IP) addresses, browser type, internet service provider
-                (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. CircleUp may
-                store such information itself or such information may be included in databases owned and maintained
-                by CircleUp affiliates, agents or service providers. This Site may use such information and pool it
-                with other information to track, for example, the total number of visitors to our Site, the number
-                of visitors to each page of our Site, the domain names of our visitors' Internet service providers,
-                and how our users use and interact with the Services. Also, in an ongoing effort to better understand
-                and serve the users of the Services, CircleUp often conducts research on its customer demographics,
-                interests and behavior based on the Personal Data and other information provided to CircleUp by
-                Issuers and Users. </p>
-
-            <p>This research may be compiled and analyzed on an aggregate basis. CircleUp may share this
-                non-identifiable and aggregate data with its affiliates, agents and business partners, but this
-                type of non-identifiable and aggregate information does not identify you personally. CircleUp
-                may also disclose aggregated user statistics in order to describe our Services to current and
-                prospective business partners and to other third parties for other lawful purposes.</p>
-
-            <p>In operating this Site, we may also use a technology called "cookies." A cookie is a piece of
-                information that the computer that hosts our Site gives to your browser when you access the
-                Site. Our cookies help provide additional functionality to the Site and help us analyze Site
-                usage more accurately. For instance, our Site may set a cookie on your browser that allows you
-                to access the Site without needing to remember and then enter a password more than once during a
-                visit to the Site. In all cases in which we use cookies, we will not collect Personal Data
-                except with your permission. On most web browsers, you will find a "help" section on the
-                toolbar. Please refer to this section for information on how to receive notification when you
-                are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies
-                turned on because they allow you to take advantage of some of the Site's features.</p>
-
-            <p>The use of cookies by our any of our affiliates or service providers is not covered by our
-                privacy policy. We do not have access or control over these cookies. Our partners use session ID
-                cookies to make it easier for you to navigate our site and use our Services.</p>
-
-            <p><strong>This Site Uses Google Analytics and AdWords.</strong>This Site uses Google Analytics to track
-                viewing trends and help analyze how visitors use the CircleUp Site. This information will help us to
-                improve the CircleUp Site and the overall user experience.  Google Analytics uses cookies to collect
-                standard internet log information and visitor behavior information in an anonymous form. None of the
-                information gathered is personally identifiable in nature without your expressed permission.  This Site
-                also uses the Google AdWords remarketing service to advertise CircleUp and CircleUp Issuers on third
-                party websites to previous visitors of the CircleUp Site.  Google AdWords remarketing will display
-                relevant ads tailored to you by using a cookie that helps track what parts of the CircleUp Site you
-                have viewed.  Google AdWords remarketing allows us to tailor our marketing efforts to better suit your
-                needs and display ads that are most relevant to your interests.</p>
-
-            <p>You can set preferences for how Google advertises to you using the
-                <a href="http://www.google.com/settings/ads/onweb/">Google Ad Preferences</a> page.
-                Or, you may opt out of a third party vendor's use of cookies by visiting the
-                <a href="http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising</a>
-                Initiative opt out page.</p>
-
-            <h2>Our Use of Your Personal Data and Other Information</h2>
-
-            <p>CircleUp uses the Personal Data you provide in a manner that is consistent with this Privacy
-                Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in
-                connection with the reason for which it was provided. For instance, if you contact us by email,
-                we will use the Personal Data you provide to answer your question or resolve your problem. Also,
-                if you provide Personal Data in order to obtain access to the Services, we will use your
-                Personal Data to provide you with access to such services and to monitor your use of such
-                services. We also may obtain information about you from third party sources to verify your
-                identity so we can properly process your requests and prevent fraud. By accessing our Site and using
-                our Services, you hereby explicitly consent that we may use your submitted and obtained Personal
-                Information for such purposes.</p>
-
-            <p>CircleUp and its subsidiaries and affiliates (the "Related Companies") may also use your Personal
-                Data and other personally non-identifiable information collected through the Site to help us
-                improve the content and functionality of the Site, to better understand our users and to improve
-                the Services. CircleUp and its Related Companies may use this information to communicate with
-                you regarding the Services or to tell you about services we believe will be of interest to you.
-                If at any time you wish not to receive any future marketing communications or you wish to have
-                your name deleted from our mailing lists, please contact us as indicated below. Note however
-                that as user of the Service we will send you administrative communications that are reasonably
-                necessary to the Service, such as billing or service notifications. , If CircleUp intends on
-                using any Personal Data in any manner that is not consistent with this Privacy Policy, you will
-                be informed of such anticipated use prior to or at the time at which the Personal Data is
-                collected.</p>
-
-            <h2>Our Disclosure of Your Personal Data and Other Information</h2>
-
-            <p>We will share personal and other information with third parties only in the ways that are
-                described in this privacy policy. We consider this information to be a vital part of our
-                relationship with you. There are, however, certain circumstances in which we may share
-                your Personal Data and other information with certain third parties without further
-                notice to you, as set forth below:</p>
-
-            <p><strong>Business Transfers:</strong> As we develop our business, we might sell or buy businesses or assets. In
-            the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data
-            may be part of the transferred assets and you will be notified via email and/or a prominent notice
-            on our Web site of any change in ownership or uses of your personal information, as well as any
-            choices you may have regarding your personal information.</p>
-
-            <p><strong>Related Companies:</strong> We may also share your Personal Data with our Related Companies for
-            purposes consistent with this Privacy Policy.</p>
-
-            <p><strong>Agents, Consultants and Related Third Parties:</strong> CircleUp, like many businesses, sometimes
-            hires other companies to perform certain business-related functions. Examples of such functions
-            include mailing information, maintaining databases, ID verification, processing applications,
-            shipping and fulfillment, and processing payments and completing transactions. When we employ
-            another company to perform a function of this nature, we only provide them with the information that
-            they need to perform their specific function. These companies are authorized to use your personal
-            information <em>only as necessary to provide </em>these services to us.</p>
-
-            <p><strong>Legal Requirements:</strong> CircleUp may disclose your Personal Data if required to do so by law or
-            in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii)
-            protect and defend the rights or property of CircleUp, (iii) act in urgent circumstances to protect
-            the personal safety of users of the Site or the public against fraud or other harm, or (iv) protect
-            against legal liability.</p>
-
-            <h2>Your Choices</h2>
-
-            <p>If your personally information changes, or if you no longer desire our service, you may correct,
-                update, amend, delete or request deletion by making the change in your registered account
-                settings page, by emailing our Customer Support at <a href="mailto:info@circleup.com">info@circleup.com</a>
-                or by contacting us at the contact information listed below. We will respond to your request to
-                access within 30 days.</p>
+            <p>The Site offers certain forums that are publicly accessible, such as blogs and message boards. Please be
+                aware that any information you provide in these forums (including Personal Data) may be read, collected,
+                and used by others who access them, and could be used to send you unsolicited messages. We are not
+                responsible for the information you choose to make public in any of these forums. You may request
+                removal of your personal information from our blog, but we may be unable to do so in some cases.</p>
 
             <p>We will retain your information for as long as your account is active or as needed to provide you
-                services. We will retain and use your information as necessary to comply with our legal
-                obligations, resolve disputes, and enforce our agreements.</p>
+                Services, unless a longer retention period is required or permitted by law.</p>
 
-            <p>When you sign up for our Services or newsletter(s), we will send periodic emails to you regarding
-                the Services or to tell you about services we believe will be of interest to you. Out of respect
-                for your privacy, you may choose to stop receiving our newsletter or marketing emails by
-                following the unsubscribe instructions included in these emails or you can contact us at <a href="mailto:info@circleup.com">info@circleup.com</a></p>
+            <p>You may opt out of targeted advertising delivered by the National Advertising Initiative (NAI) member ad
+                networks by visiting <a href="www.networkadvertising.org">www.networkadvertising.org</a>.</p>
 
-            <h2>Security</h2>
+            <p>You may opt-in to allow CircleUp to share your Personal Data with companies and organizations that
+                provide products or services that may be of interest to you. To opt out of further communications from
+                these partners after your information has been shared, please contact that partner directly.</p>
 
-            <p>The security of your personal information is important to us. When you enter sensitive
-                information (such as bank account information) on our website, we encrypt the transmission of
-                that information using secure socket layer technology (SSL). We also use third party ID
-                verification to ensure our users’ true identities are validated.</p>
+            <ol>
+                <li>
+                    <h3>Our Commitment to Privacy</h3>
 
-            <p>We follow generally accepted standards to protect the personal information submitted to us, both
-                during transmission and once we receive it. No method of transmission over the Internet, or
-                method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its
-                absolute security. If you have any questions about security on our Web site, you can contact us
-                at <a href="mailto:info@circleup.com">info@circleup.com</a></p>
+                    <p>At CircleUp, our most important asset is our relationship with you. We are required by law to ask
+                        for certain information in order to perform our services for you, but we are committed to
+                        protecting your personal and financial information. This Privacy Policy describes the treatment
+                        of information provided on the sites where this Privacy Policy is posted. It also describes the
+                        treatment of information provided by you on applications that we make available on third-party
+                        sites or platforms if disclosed to you in connection with the use of such applications. This
+                        Privacy Policy also describes the choices available to you regarding our use of your information
+                        and how you can access and update this information. </p>
+                </li>
+                <li>
+                    <h3> Our Policy</h3>
 
-            <h2>Exclusions</h2>
+                    <p>Welcome to the web site&nbsp;<a href="www.circleup.com">www.circleup.com</a>&nbsp;(the "Site")
+                        owned and operated by CircleUp Network,
+                        Inc. (Henceforward "CircleUp," "we," "us," and/or "our"). This Site has been created to provide
+                        information about our company and its financial matchmaking services (the "Services") to all
+                        users of the Site or Service, including entrepreneurs ("Issuers") and Accredited Investors, as
+                        defined by SEC Regulation D Rule 501 ("Investors"), who in any way use the Site or any Service
+                        provided by CircleUp (in each case, a "User"). This Privacy Policy sets forth CircleUp's policy
+                        with respect to information, including personally identifiable information ("Personal Data"),
+                        and other information that is collected from Site visitors and users of the Services. <em>If you
+                            have questions or complaints regarding our privacy policy or practices, please contact us at
+                            <a href="mailto:info@circleup.com">info@circleup.com</a>.</em></p>
 
-            <p>This Privacy Policy does not apply to any Personal Data collected by CircleUp other than Personal
-                Data collected through the Site or Services. This Privacy Policy shall not apply to any
-                unsolicited information you provide to CircleUp through this Site or through any other means.
-                This includes, but is not limited to, information posted to any public areas of the Site, such
-                as bulletin boards (collectively, "Public Areas"), any ideas for new products or modifications
-                to existing products, and other unsolicited submissions (collectively, "Unsolicited
-                Information"). All Unsolicited Information shall be deemed to be non-confidential and CircleUp
-                shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information
-                without limitation or attribution.</p>
+                    <p>IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE ANY CIRCLEUP SITE OR SERVICE. If we
+                        change our Privacy Policy, we will post those changes to this Privacy Policy, the CircleUp
+                        homepage, or other locations so that you are aware of the information we collect, how we use it,
+                        and under what circumstances, if any, we disclose it. We reserve the right to modify this
+                        Privacy Policy at any time, so please review it frequently. If we make material or significant
+                        changes to this policy, we will notify you here, by email, or by means of a notice on our
+                        homepage prior to the changes taking effect. Your continued use of our products and services
+                        will signify your acceptance of the changes to our Privacy Policy.</p>
+                </li>
+                <li>
+                    <h3>Types of Information We Collect</h3>
 
-            <h2>Blog</h2>
+                    <p><strong>Personal Data That You Provide Through the Site:</strong>&nbsp; Personal Data is information
+                        that identifies you and that can be used alone to contact you online or offline.  We collect
+                        Personal Data from you when you voluntarily provide such information to us such as when you
+                        register for access to the Services (for example, contact information such as your name, email
+                        address, and mailing address)  when you wish to use certain Services (for example financial
+                        information such as bank account numbers, your date of birth and the last four digits of you
+                        social security number), when you contact us with inquiries or respond to our marketing surveys
+                        and email campaigns, when you link to your profile on a third-party site or platform with your
+                        Account, and otherwise when you use our services where Personal Data is required for use and/or
+                        participation.  When anonymous information is directly associated with Personal Data, this
+                        anonymous information is also treated as Personal Data.</p>
 
-            <p>Our Web site offers a publicly accessible blog. You should be aware that any information you
-                provide in these areas may be read, collected, and used by others who access them. To request
-                removal of your personal information from our blog, contact us at <a href="mailto:info@circleup.com">info@circleup.com</a>. In some cases, we may not be able
-                to remove your personal information, in which case we will let you know if we are unable to do
-                so and why.</p>
+                    <p><strong>By voluntarily providing us with Personal Data, you are consenting to our use of it in
+                        accordance with this Privacy Policy and you agree that you will abide by our Terms of Service.
+                        If you provide Personal Data, you acknowledge and agree that such Personal Data may be
+                        transferred from your current location to the offices and servers of CircleUp and the authorized
+                        third parties referred to herein located in the United States of America.</strong></p>
 
-            <h2>Testimonials</h2>
+                    <p><strong>Non-Personal, Anonymous, or Aggregated Data:</strong>Non-personal information, alone,
+                        cannot be used to identify or contact you. When you interact with CircleUp through the Site or
+                        Services, we receive and store certain non-personal information about you for purposes that include
+                        improving our products and services, troubleshooting bugs, providing services to you, facilitating
+                        the provision of updates, dynamically served content and product support, and communicating with
+                        you. Such information, which may be collected passively using various technologies or through other
+                        means, may include demographic information including gender, age, zip code, information about your
+                        computer, hardware, software, media, mobile device, including unique device IDs or other device
+                        identifiers, incident data, Internet Protocol (IP) address, network Media Access Control (MAC)
+                        address and connection. We may also receive information from third parties in connection with
+                        marketing and demographic studies and/or other data that we use to supplement personal information
+                        provided directly by you.</p>
+                </li>
+                <li>
+                    <h3>How We Collect Information</h3>
 
-            <p>We display personal testimonials of satisfied customers on our site in addition to other
-                endorsements. With your consent we may post your testimonial along with your name and other
-                information. If you wish to update or delete your testimonial, please contact us at
-                <a href="mailto:info@circleup.com">info@circleup.com</a></p>
+                    <p>We collect information you provide to us when you request products, services or information
+                        from us, register with us, participate in forums or other activities in our sites and
+                        applications, respond to surveys or otherwise interact with us. </p>
 
-            <h2>Social Media Features</h2>
+                    <p>In order to access additional functionality of the Site, you may be required to create an account
+                        for your use of the Service (an “Account”). You may create an Account directly via the Site or
+                        by logging into your Account with certain third party social networking sites (including
+                        Facebook and LinkedIn) via our Service. If you decide to create an Account by logging into a
+                        social networking site via our Service, we will obtain the Personal Data you have provided to
+                        the social networking site (such as your name, profile picture, email address, and other
+                        information you make publicly available via the applicable social networking site) from the
+                        account you have with such social networking site and use that information to create your
+                        Account. The information we obtain may depend on the privacy settings you have with the social
+                        networking site. We also collect other information that you provide as part of account
+                        registration and your use of the Service.</p>
 
-            <p>You can log in to our site using sign-in services such as Facebook Connect or LinkedIn. These
-                services will authenticate your identity and provide you the option to share certain personal
-                information with us such as your name and email address to pre-populate our sign up form.
-                Services like Facebook Connect give you the option to post information about your activities on
-                this Web site to your profile page to share with others within your network. </p>
+                    <ul>
+                        <li><strong>Internet Log Files</strong></li>
+                    </ul>
 
-            <p>Our Web site also includes Social Media Features such as the Facebook Like button, Twitter, and
-                Add This button. These Features are interactive mini-programs and may collect your IP address,
-                which page you are visiting on our site, and may set a cookie to enable the Feature to function
-                properly. Social Media Features and Widgets are either hosted by a third party or hosted
-                directly on our Site. Your interactions with these Features are governed by the privacy policy
-                of the company providing it. </p>
+                    <p>As is true of most web sites, we gather certain information automatically and store it in log
+                        files. This information includes internet protocol (IP) addresses, browser type, internet
+                        service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream
+                        data. CircleUp may store such information itself or such information may be included in
+                        databases owned and maintained by CircleUp affiliates, agents, or service providers. This Site
+                        may use such information and pool it with other information to track, for example, the total
+                        number of visitors to our Site, the number of visitors to each page of our Site, the domain
+                        names of our visitors' Internet service providers, and how our users use and interact with the
+                        Services. Also, in an ongoing effort to better understand and serve the users of the Services,
+                        CircleUp often conducts research on its customer demographics, interests, and behavior based on
+                        Personal Data and other information provided to CircleUp by Issuers and Users.</p>
 
-            <h2>Children</h2>
+                    <p>This research may be compiled and analyzed on an aggregate basis. CircleUp may share this
+                        non-personal and aggregate data with its affiliates, agents and business partners, but this type
+                        of non-personal and aggregate information does not identify you personally. CircleUp may also
+                        disclose aggregated user statistics in order to describe our Services to current and prospective
+                        business partners and to other third parties for other lawful purposes.</p>
 
-            <p>CircleUp does not knowingly collect Personal Data from children under the age of 13. If you are
-                under the age of 13, please do not submit any Personal Data through the Site. We encourage
-                parents and legal guardians to monitor their children's Internet usage and to help enforce our
-                Privacy Policy by instructing their children never to provide Personal Data on this Site without
-                their permission. If you have reason to believe that a child under the age of 13 has provided
-                Personal Data to CircleUp through this Site, please contact us, and we will endeavor to delete
-                that information from our databases.</p>
+                    <ul>
+                        <li><strong>Cookies</strong></li>
+                    </ul>
 
-            <h2>Links to Other Web Sites</h2>
+                    <p>In operating this Site, we may also use a technology called "cookies." A cookie is a piece of
+                        information that the computer that hosts our Site gives to your browser when you access the
+                        Site. Our cookies help provide additional functionality to the Site and help us analyze Site
+                        usage more accurately. For instance, our Site may set a cookie on your browser that allows you
+                        to access the Site without needing to remember and then enter a password more than once during a
+                        visit to the Site. In all cases in which we use cookies, we will not collect Personal Data
+                        except with your permission. On most web browsers, you will find a "help" section on the
+                        toolbar. Please refer to this section for information on how to receive notification when you
+                        are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies
+                        turned on because they allow you to take advantage of some of the Site's features.</p>
 
-            <p>This Privacy Policy applies only to the Site. This Site may contain links to other web sites not
-                operated or controlled by CircleUp (the "Third Party Sites"). The policies and procedures we
-                described here do not apply to the Third Party Sites. The links from this Site do not imply that
-                CircleUp endorses or has reviewed the Third Party Sites. We suggest contacting those sites
-                directly for information on their privacy policies.</p>
+                    <p>The use of cookies by our any of our affiliates or service providers is not covered by our
+                        privacy policy. We do not have access or control over these cookies. Our partners may use
+                        session ID cookies to make it easier for you to navigate our site and use our Services.</p>
 
-            <h2>Other Terms and Conditions</h2>
+                    <ul>
+                        <li><strong>Clear GIFs and Tracking Pixels</strong></li>
+                    </ul>
 
-            <p>Your access to and use of this Site is subject to the <a href="/terms/">Terms of Use.</a></p>
+                    <p>Clear GIFs (including web bugs, beacons or tags) are small graphic images placed on a web page,
+                        web-based document, or in an email message. Clear GIFs are invisible to the user because they
+                        are small (only 1-by-1 pixel) and usually the same color as the background of the web page,
+                        document or email message. We do not use clear GIFs to collect Personal Data about you. We may,
+                        however, use clear GIFs to capture statistical usage information for our web pages, features or
+                        other elements on a web page. We correlate this information to a user to personalize user
+                        experience and for statistical analysis of user experiences on our web pages.</p>
 
-            <h2>Changes to CircleUp's Privacy Policy</h2>
+                    <p>We and third parties may also use tracking pixels, which allow us to advertise more efficiently
+                        by, for example, excluding our current users from certain promotional messages or identifying
+                        the source of a new installation.</p>
 
-            <p>We may update this privacy policy to reflect changes to our information practices. If we make any
-                material changes we will notify you by email (sent to the e-mail address specified in your
-                account) or by means of a notice on this Site prior to the change becoming effective. We
-                encourage you to periodically review this page for the latest information on our privacy
-                practices.</p>
+                    <ul>
+                        <li><strong>Analytic Metric Tools and Other Technology</strong></li>
+                    </ul>
 
-            <h2>Contacting CircleUp</h2>
+                    <p>CircleUp uses third party analytics technologies to collect information when you use our online
+                        services. These tools and technologies use server log files, web beacons, cookies, tracking
+                        pixels and other technologies to collect and analyze certain types of information, including
+                        cookies, IP addresses (including for purposes of determining your approximate geographic
+                        location), mobile or other hardware device ID or other device identifiers, browser types,
+                        browser language, information passed from your browser (if any), referring and exit pages, and
+                        URLs, platform type, click information, information about your media, peripheral hardware,
+                        software and/or applications installed on your machine and/or device, domain names and types,
+                        landing pages, pages viewed and the order of those pages, advertising conversion rates, the date
+                        and amount of time spent on particular pages, other internet and website usage information, and
+                        the date and time of activity on our websites, as well as unique hardware identifies such as MAC
+                        Address, mobile unique device ID (if applicable) and other similar information.</p>
 
-            <p>Please feel free to contact us if you have any questions about CircleUp's Privacy Policy or the
-                information practices of this Site:</p>
+                    <p>The third party analytics companies who collect information on our sites and the in the context
+                        of our products and/or services may combine the information collected with other information
+                        they have independently collected from other websites and/or other online or mobile products and
+                        services relating to your activities across their network of websites as well as online and/or
+                        mobile products and services. Many of these companies collect and use information under their
+                        own privacy policies. </p>
 
-            <p style="margin-left:20px;">CircleUp Network, Inc.</p>
+                    <ul>
+                        <li><strong>This Site Uses Google Analytics and AdWords </strong></li>
+                    </ul>
 
-            <p style="margin-left:20px;"><a href="mailto:info@circleup.com">info@circleup.com</a></p>
+                    <p>This Site uses Google Analytics to track viewing trends and help analyze how visitors use the
+                        CircleUp Site. This information helps us to improve the CircleUp Site and the overall user
+                        experience. Google Analytics uses cookies to collect standard internet log information and
+                        visitor behavior information in an anonymous form. None of the information gathered is
+                        personally identifiable in nature without your expressed permission. This Site also uses the
+                        Google AdWords remarketing service to advertise CircleUp and CircleUp Issuers on third party
+                        websites to previous visitors of the CircleUp Site. Google AdWords remarketing will display
+                        relevant ads tailored to you by using a cookie that helps track what parts of the CircleUp Site
+                        you have viewed. Google AdWords remarketing allows us to tailor our marketing efforts to better
+                        suit your needs and display ads that are most relevant to your interests.</p>
 
-            <p style="margin-left:20px;">CircleUp Network Inc.<br>
-                818 Mission St, Suite 300<br>
-                San Francisco, CA 94103</p>
+                    <p>You can set preferences for how Google advertises to you using the&nbsp;
+                        <a href="www.google.com/settings/ads/onweb/">Google Ad Preferences&nbsp;page</a>.
+                        Or, you may opt out of a third party vendor's use of cookies by visiting the&nbsp;
+                        <a href="www.networkadvertising.org/managing/opt_out.asp">Network Advertising&nbsp;Initiative</a>
+                        opt out page.</p>
+
+                    <ul>
+                        <li><strong>Ad Serving Technology</strong></li>
+                    </ul>
+
+                    <p>CircleUp’s websites, online or mobile products or services may employ proprietary or third party
+                        ad serving technologies that use cookies, clear GIFs, web beacons, tracking pixels or other
+                        technologies to collect information as a result of ad serving through our products or services
+                        as well as to help track results. We or third parties operating the advertisement serving
+                        technology may use information such as age and gender as well as information logged from your
+                        hardware or device to ensure that appropriate advertising is presented within the site, online
+                        or mobile product or service and to calculate or control the number of unique and repeat views
+                        of a given ad, and/or deliver ads that may relate to your interests and measure the
+                        effectiveness of ad campaigns. We or third parties may collect data for this purpose including
+                        IP address (including for purposes of determining your approximate geographic location), device
+                        IDs, information about your software, applications and hardware, browser information (and/or
+                        information passed via your browser), hardware, machine or device make and model,
+                        advertisement(s) served, length of time an advertisement was visible, other Internet and website
+                        usage information, web pages and mobile internet sites which have been viewed by you (as well as
+                        date and time), domain type, size of the advertisement, advertisement response (if any), and
+                        angle of view. The foregoing data may be used and disclosed per this policy and the privacy
+                        policy of the company providing the ad serving technology.</p>
+
+                    <p>The advertising companies who deliver ads for us may combine the information collected or
+                        obtained from CircleUp with other information they have independently collected from other
+                        websites and/or other online or mobile products and services relating to your web browser’s
+                        activities across their network of websites. Many of these companies collect and use information
+                        under their own privacy policies.</p>
+
+                    <p>For more information about the practices of other ad serving companies that may collect
+                        information based on your interaction with ads on this site, in our mobile products, and other
+                        sites or products not owned/managed by CircleUp, or to “opt out” of targeted advertising
+                        delivered by National Advertising Initiative (NAI) member ad networks, you should visit
+                        <a href="www.networkadvertising.org">www.networkadvertising.org</a>.</p>
+
+                    <ul>
+                        <li><strong>Other Information Collected From Third Parties</strong></li>
+                    </ul>
+
+                    <p>CircleUp may also receive other information from third parties, including in connection with the
+                        operation of our products and services as well as marketing and demographic studies that we use
+                        to supplement personal and anonymous information or provided directly by you. Some third party
+                        services such as Twitter, Facebook, and LinkedIn may also provide us with information from your
+                        accounts there with your permission.</p>
+
+                    <p>By connecting to CircleUp through a social network or other third party platform or services, via
+                        one of our products and/or services, you are authorizing CircleUp to collect, store, and use in
+                        accordance with this Privacy Policy any and all information that you agreed the social network
+                        or other third party platform could provide to CircleUp through the social network/third party
+                        platform Application Programming Interface (API) based on your settings on the third party
+                        social network platform. Your agreement takes place when you connect with the third party
+                        network, platform or service via our products and/or services, and/or when you connect with,
+                        “accept” or “allow” (or similar terms) one of our applications through a social network, or
+                        other third party platform or service.</p>
+
+                    <p>CircleUp may also collect or receive information about you from other CircleUp users who choose
+                        to upload their email and other contacts. This information will be stored by us and used
+                        primarily to help you and your friends connect.</p>
+
+                </li>
+                <li>
+                    <h3>Our Use of Your Personal Data and Other Information</h3>
+
+                    <p>CircleUp uses the Personal Data you provide in a manner that is consistent with this Privacy
+                        Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in
+                        connection with the reason for which it was provided. For instance, if you contact us by email,
+                        we will use the Personal Data you provide to answer your question or resolve your problem. Also,
+                        if you provide Personal Data in order to obtain access to the Services, we will use your
+                        Personal Data to provide you with access to such services and to monitor your use of such
+                        services. We also may obtain information about you from third party sources to verify your
+                        identity so we can properly process your requests and prevent fraud. By accessing our Site and
+                        using our Services, you hereby explicitly consent that we may use your submitted and obtained
+                        Personal Information for such purposes.</p>
+
+                    <p>CircleUp and its subsidiaries and affiliates (the "Related Companies") may also use your Personal
+                        Data and other personally non-identifiable information collected through the Site to help us
+                        improve the content and functionality of the Site, to enforce our Terms of Service, to better
+                        understand our users, to detect, investigate and prevent activities that may violate our
+                        policies or be illegal, to personalize control and experiences on our sites and applications,
+                        and to improve the Services. CircleUp and its Related Companies may use this information to
+                        communicate with you regarding the Services or to tell you about services we believe will be of
+                        interest to you. If at any time you wish not to receive any future marketing communications or
+                        you wish to have your name deleted from our mailing lists, please contact us as indicated below.
+                        Note however that as a User of the Service we will send you administrative communications that
+                        are reasonably necessary to the Service. If CircleUp intends on using any Personal Data in any
+                        manner that is not consistent with this Privacy Policy, you will be informed of such anticipated
+                        use prior to or at the time at which the Personal Data is collected.</p>
+
+                    <p>If you choose to use our service to refer a friend to a CircleUp product or site, we may ask you
+                        for your friend’s name and email address. In such cases, we will send your friend an email on
+                        your behalf inviting him or her to visit the site or check out our products. CircleUp retains
+                        your friend’s name and email for a short period for the sole purpose of sending this email. We
+                        do not keep or use this information for any other purpose.</p>
+
+                </li>
+                <li>
+                    <h3>Our Disclosure of Your Personal Data and Other Information</h3>
+
+                    <p>We will share personal and other information with third parties only in the ways that are
+                        described in this Privacy Policy. There may also be circumstances where you may share
+                        information on your own. You may opt-in to allow CircleUp to share your personal information
+                        with companies and organizations that provide products or services that may be of interest to
+                        you. To opt out of further communications from a marketing partner or sponsor with your
+                        information has been shared, please contact that partner or sponsor directly. </p>
+
+                    <p>From time to time, CircleUp employs third party contractors to collect Personal Data on our
+                        behalf to provide email delivery, products, promotional fulfillment, shipping or other services
+                        on our sites. When requesting these services, you may be asked to supply your name, mailing
+                        address, telephone number and email address to our contractors. We ask some third party
+                        contractors, such as data analytics or market research firms, to supplement personal information
+                        that you provide to us for our own marketing and demographic studies, so that we can
+                        consistently improve our sites and related advertising to better meet our visitors’ needs and
+                        preferences. To enrich our understanding of individual customers, we tie this information to the
+                        Personal Data you provide to us. </p>
+
+                    <p>When our third party agents or service providers collect and/or have access to any information
+                        other than non-personal, anonymous and/or aggregated data, CircleUp requires that they use data
+                        consistently with our stated Privacy Policy. These third parties are prohibited from using your
+                        personal information for any other purpose without your specific consent.</p>
+
+                    <p>You will be notified before your Personal Data is collected by any third party that is not our
+                        agent/service provider, so you can make an informed choice as to whether or not to share your
+                        information with that party.</p>
+
+                    <p>We may also access and disclose personal information, including personal communications, in
+                        connection with report abuse functions in our products and services, to enforce legal rights and
+                        comply with the law, or to comply with an order from a government entity or other competent
+                        authority, or when we have reason to believe that a disclosure is necessary to address potential
+                        or actual injury or interference with our rights, property, operations, users or others who may
+                        be harmed or may suffer loss or damage, or when we believe that disclosure is necessary to
+                        protect our rights, combat fraud and/or comply with a judicial proceeding, court order, or legal
+                        process served on CircleUp. Note that certain publically available information you post and
+                        communicate on our and third party sites and services is public information for which you have
+                        no expectation of privacy. </p>
+
+                    <ul>
+                        <li><strong>Testimonials</strong></li>
+                    </ul>
+
+                    <p>We display personal testimonials of satisfied customers on our site in addition to other
+                        endorsements. With your consent we may post your testimonial along with your name and other
+                        information. If you wish to update or delete your testimonial, please contact us at
+                        <a href="mailto:info@circleup.com">info@circleup.com</a>
+                    </p>
+
+                    <ul>
+                        <li><strong>Public Information Including User Generated Content, Forums, Blogs, And
+                            Profiles</strong></li>
+                    </ul>
+
+                    <p>Our Web site offers a publicly accessible blog. You should be aware that any information you
+                        provide in this area may be read, collected, and used by others who access them. To request
+                        removal of your personal information from our blog, contact us at
+                        <a href="mailto:info@circleup.com">info@circleup.com</a>. In some cases, we may not be able to
+                        remove your Personal Data, in which case we will let you know if we are unable to do so for
+                        any reason.</p>
+
+                    <p>You may choose to disclose information about yourself in the course of contributing content to
+                        CircleUp or in our online forums, blogs, message boards, user “profiles” for public view or in
+                        similar forums on our sites and/or on third party sites. Information that you disclose in any of
+                        these forums is unencrypted, public information, may be accessed or recorded by CircleUp
+                        employees, and there is no expectation of privacy or confidentiality there.</p>
+
+                    <p>You should be aware that any Personal Data you submit in the course of these public activities
+                        can be read, collected, or used by other users of these forums, and could be used to send you
+                        unsolicited messages. We are not responsible for the Personal Data you choose to make public in
+                        any of these forums.</p>
+
+                    <p>Note also that in the ordinary course of Internet activity, certain information may be sent from
+                        your browser to third parties such as advertising networks and analytics companies. CircleUp has
+                        no control over the information sent from your browser to those networks or other third parties
+                        and recommends that you ensure that your browser settings prevent the disclosure of information
+                        you would not like to share.</p>
+
+                    <p>If you post a video, image, or photo on one of our sites for public view should you be aware that
+                        these may be viewed, collected, copied and/or used by other users without your consent. We are
+                        not responsible for the videos, images, or photos that you choose to submit to the CircleUp
+                        site.</p>
+
+                    <p>There are also certain circumstances in which we may share your Personal Data and other
+                        information with certain third parties without further notice to you, as set forth below:</p>
+
+                    <p><strong>Business Transfers:</strong>As we develop our business, we might sell or buy
+                        businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or
+                        similar event, Personal Data may be part of the transferred assets and you will be notified via
+                        email and/or a prominent notice on our Web site of any change in ownership or uses of your personal
+                        information, as well as any choices you may have regarding your personal information.</p>
+
+                    <p><strong>Related Companies:</strong>We may also share your Personal Data with our Related
+                        Companies for purposes consistent with this Privacy Policy.</p>
+
+                    <p><strong>Agents, Consultants and Related Third Parties:</strong>CircleUp, like many
+                        businesses, sometimes hires other companies to perform certain business-related functions. Examples
+                        of such functions include mailing information, maintaining databases, ID verification, processing
+                        applications, shipping and fulfillment, and processing payments and completing transactions. When we
+                        employ another company to perform a function of this nature, we only provide them with the
+                        information that they need to perform their specific function. These companies are authorized to use
+                        your personal information&nbsp;only as necessary to provide&nbsp;these services to us.</p>
+
+
+                    <p><strong>Legal Requirements:</strong>CircleUp may disclose your Personal Data if required to
+                        do so by law or in the good faith belief that such action is necessary to (i) comply with a legal
+                        obligation, (ii) protect and defend the rights or property of CircleUp, (iii) act in urgent
+                        circumstances to protect the personal safety of users of the Site or the public against fraud or
+                        other harm, or (iv) protect against legal liability.</p>
+
+
+                </li>
+
+                <li>
+                    <h3>Your Controls and Choices</h3>
+
+                    <p>If your Personal Data changes, or if you no longer desire our service, you may correct, update,
+                        amend, delete or request deletion by making the change in your registered account settings page,
+                        by emailing us at&nbsp;<a href="mailto:info@circleup.com">info@circleup.com</a>or by contacting us at
+                        the contact information listed at the bottom of this Privacy Policy. We will respond to your
+                        request as soon as commercially reasonable.</p>
+
+                    <p>When you sign up for our Services or newsletter(s), we will send periodic emails to you regarding
+                        the Services or to tell you about services we believe will be of interest to you. Out of respect
+                        for your privacy, you may choose to stop receiving our newsletter or marketing emails by
+                        following the unsubscribe instructions included in these emails or you can contact us at&nbsp;
+                        <a href="mailto:info@circleup.com">info@circleup.com</a></p>
+                </li>
+                <li>
+                    <h3>Data Security, Integrity and Retention</h3>
+
+                    <p>The security, integrity and confidentiality of your information are important to us.We use
+                        commercially reasonable efforts to follow generally accepted standards to protect the personal
+                        information submitted to us, both during transmission and once we receive it. When you enter
+                        sensitive information (such as bank account information) on our website, we encrypt the
+                        transmission of that information using secure socket layer technology (SSL). We also use third
+                        party ID verification to ensure our users’ true identities are validated. From time to time, we
+                        review our security procedures to consider appropriate new technology and methods. Please be
+                        aware, however, that no method of transmission over the Internet, or method of electronic
+                        storage, is 100% secure. Therefore, we cannot guarantee that your information will not be
+                        accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or
+                        managerial safeguards. We cannot assume responsibility or liability for unauthorized access to
+                        our servers and systems. We will retain your information for as long as your Account is active
+                        or as needed to provide you services unless a longer retention period is required or permitted
+                        by law. If you wish to cancel your Account or request that we no longer user your information
+                        please contact us at <a href="mailto:info@circleup.com">info@circleup.com</a>. If you have any
+                        questions about security on our Web site, you can also contact us at&nbsp;
+                        <a href="mailto:info@circleup.com">info@circleup.com</a> as well.</p>
+                </li>
+                <li>
+                    <h3>Exclusions</h3>
+
+                    <p>This Privacy Policy does not apply to any Personal Data collected by CircleUp other than Personal
+                        Data collected through the Site or Services. This Privacy Policy shall not apply to any
+                        unsolicited information you provide to CircleUp through this Site or through any other means.
+                        This includes, but is not limited to, information posted to any public areas of the Site, such
+                        as bulletin boards or forums (collectively, "Public Areas"), any ideas for new products or
+                        modifications to existing products, and other unsolicited submissions (collectively,
+                        "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential
+                        and CircleUp shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited
+                        Information without limitation or attribution.</p>
+                </li>
+                <li>
+                    <h3>Children’s Privacy</h3>
+
+                    <p>CircleUp does not knowingly collect Personal Data from children under the age of thirteen. If you
+                        are under the age of thirteen, please do not submit any Personal Data through the Site. We
+                        encourage parents and legal guardians to monitor their children's Internet usage and to help
+                        enforce our Privacy Policy by instructing their children never to provide Personal Data on this
+                        Site without their permission. If you have reason to believe that a child under the age of
+                        thirteen has provided Personal Data to CircleUp through this Site, please contact us, and we
+                        will endeavor to delete that information from our databases.</p>
+                </li>
+                <li>
+                    <h3>Links to Other Web Sites</h3>
+
+                    <p>This Privacy Policy applies only to the Site. This Site may contain links to other web sites not
+                        operated or controlled by CircleUp (the "Third Party Sites"). The policies and procedures we
+                        described here do not apply to the Third Party Sites. The fact that we link to a Website is not
+                        an endorsement, authorization or representation of our affiliation with that third party. If you
+                        click on a link to a third party site, including on an advertisement, you will leave the
+                        CircleUp site you are visiting and go to the site you selected. Because we cannot control the
+                        activities of third parties, we cannot accept responsibility for any use of your Personal Data
+                        by such third parties, and we cannot guarantee that they will adhere to the same privacy and
+                        security practices as CircleUp. We encourage you to review the privacy policies of any other
+                        service provider from whom you request services. If you visit a third party Website that is
+                        linked to a CircleUp site, you should consult that site’s privacy policy before providing any
+                        Personal Data.</p>
+
+                    <p>Members may register for other services from our site(s). Certain products and/or services
+                        available on our site are provided to you in partnership with third party(s) and may require you
+                        to disclose Personal Data in order to register for and access such products and/or services.
+                        Such products and/or services shall identify the third party partners at the point of
+                        registration. If you elect to register for such products and/or services your Personal Data will
+                        be transferred to such third party(s) and will be subject to the privacy policy and practices of
+                        such third party(s). We are not responsible for the privacy practices and policies of such third
+                        party(s) and, therefore, you should review the privacy practices and policies of such third
+                        party(s) prior to providing your Personal Data in connection with such products and/or
+                        services.</p>
+                </li>
+                <li>
+                    <h3>Changes to this Privacy Policy</h3>
+
+                    <p>We may update this privacy policy to reflect changes to our information practices. If we make any
+                        material changes we will notify you by email (sent to the e-mail address specified in your
+                        account) or by means of a notice on this Site prior to the change becoming effective. We
+                        encourage you to periodically review this page for the latest information on our privacy
+                        practices.</p>
+                </li>
+                <li>
+                    <h3>California Residents: California Privacy Rights</h3>
+
+                    <p>Under California law, California Residents who have an established business relationship with
+                        CircleUp or one of its subsidiaries may choose to opt out of CircleUp’s disclosure of Personal
+                        Data about them to third parties for direct marketing purposes. If you choose to opt out at any
+                        time after granting approval, email <a href="mailto:info@circleup.com">info@circleup.com</a>
+                        or write to CircleUp Network Inc., 818 Mission Street, Suite 300, San Francisco, CA, 94103.</p>
+                </li>
+                <li>
+                    <h3>Contacting CircleUp</h3>
+
+                    <p>Please feel free to contact us if you have any questions about CircleUp's Privacy Policy or the
+                        information practices of this Site:</p>
+
+                    <p>CircleUp Network, Inc.</p>
+
+                    <p><a href="mailto:info@circleup.com">info@circleup.com</a></p>
+
+                    <p>CircleUp Network Inc.<br>
+                        818 Mission St, Suite 300<br>
+                        San Francisco, CA 94103</p>
+                </li>
+            </ol>
+
         </div>
     </div>
 
@@ -523,38 +1018,45 @@
             <div id="footer">
                 <div class="footer-bound clearfix">
                     
-                    <div class="footer-section">
+                    <div class="container">
+    <div class="footer-section">
 
     <div class="row">
 
 
-        <div class="span4">
+        <div class="col-xs-3">
             <a href="/companies/">Current Companies</a><br>
             <a href="/getting-started/">Investors</a><br>
             <a href="/raise-funds/">Entrepreneurs</a><br>
             <a href="/funding-stories/">Funding Stories</a><br>
+            <a href="/partnerships/">Partnerships</a><br>
             <a href="/press/">Press</a><br>
         </div>
-        <div class="span4">
+        <div class="col-xs-3">
             <a href="/faq/">FAQ</a><br>
             <a href="/about-us/">About Us</a><br>
+            <a href="/jobs/">Careers</a><br>
             <a href="/privacy/">Privacy</a><br>
             <a href="/security/">Security</a><br>
             <a href="/investor-education/faq/">Help</a><br>
             <a href="/terms/">Terms of Service</a><br>
         </div>
-        <div class="span8">
+        <div class="col-xs-6">
             <ul class="social-menu">
-                <li class="linkedin-button">
-                    <script type="IN/FollowCompany" data-id="73526" data-counter="none"></script>
-                </li>
+
+                
+                    <li class="linkedin-button">
+                        <script type="IN/FollowCompany" data-id="73526" data-counter="none"></script>
+                    </li>
+                
                 <li>
                     <div class="fb-like" data-href="https://www.facebook.com/pages/CircleUp/244082675658727" data-send="false" data-layout="button_count" data-width="90" data-show-faces="true" data-font="arial"></div>
                 </li>
                 <li><a href="https://www.facebook.com/pages/Circleup/244082675658727" rel="external" class="facebook connect">Facebook</a></li>
                 <li><a href="https://twitter.com/circleup" rel="external" class="twitter connect">Twitter</a></li>
-                <li>
                 
+                <li>
+
                     <!-- START MCAFEESECURE CODE -->
                     <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=circleup.com">
                         <img width="115" height="32" border="0" src="//images.mcafeesecure.com/meter/circleup.com/22.gif" style="padding-left:4px; height:32px;" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams">
@@ -607,39 +1109,265 @@ low liquidity concerns, and long-term commitments.
 Investors must be able to afford to lose their entire investment.
     
 </p>
+
+</div>
                 </div>
             </div>
         
     </div>
 
+
+
+<div id="signup-modal" class="modal fade">
+    <div class="modal-dialog" style="max-width: 450px">
+        <div class="modal-content">
+            <header>
+                <h3>JOIN CIRCLEUP</h3>
+                <a data-dismiss="modal" href="#" class="close-x"><i class="icon-remove"></i></a>
+            </header>
+            <div class="signup-box">
     
-        
+    <div class="row">
+        <div class="col-xs-12">
+            <form role="form" id="investor-sign-up" name="investor-sign-up" action="/join/" method="post" class="validate form">
+                
+                <div>
+                    <h5 style="margin-top: 0">I'd like to:</h5>
+                    <div class="row form-group">
+                        <div class="col-xs-6">
+                            <label for="user_segment_investor" class="buttonish btn btn-pill btn-large">
+                                <input type="radio" name="segment" value="1" class="required" id="user_segment_investor" style="margin-top: 10px;">
+                                Invest
+                            </label>
+                        </div>
+                        <div class="col-xs-6">
+                            <label for="user_segment_company" class="buttonish btn btn-pill btn-large">
+                                <input type="radio" name="segment" value="2" id="user_segment_company" style="margin-top: 10px;">
+                                Raise Capital
+                            </label>
+                        </div>
+                        
+                        <div class="col-xs-12 no-segment-error" style="display: none">
+                            <label class="help-inline error">Please select an option above.</label>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+                    <h5>Sign up via social network</h5>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <a href="/login/linkedin/?next=" class="btn btn-primary btn-lg btn-block social-login">
+                                <i class="icon-linkedin"></i>
+                                <span>Join via Linkedin</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <a href="/login/facebook/?next=" class="btn btn-primary btn-lg btn-block social-login">
+                                <i class="icon-facebook"></i>
+                                <span>Join via Facebook</span>
+                            </a>
+
+                        </div>
+                    </div>
+                
+                <input type="hidden" name="csrfmiddlewaretoken" value="k9eMtbmgDlZXTqAi9NABAal7hImmQEI7">
+                
+                <h5>Sign up via email</h5>
+                
+                <div class="row">
+                    
+                    <div class="col-xs-12 col-sm-12">
+                        <div class="form-group ">
+                            <input class="form-control required" id="id_first_name" name="first_name" placeholder="First Name" type="text">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12">
+                        <div class="form-group ">
+                            <input class="form-control required" id="id_last_name" name="last_name" placeholder="Last Name" type="text">
+                            
+                        </div>
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        
+                        <div class="form-group ">
+                            <input class="form-control required email" id="id_email" maxlength="254" name="email" placeholder="Email" type="email">
+                            
+                        </div>
+
+                    </div>
+                    <div class="col-xs-12">
+                        
+                        <div class="form-group ">
+                            <input class="form-control required" id="id_password" name="password" placeholder="Password" type="password">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="row form-group">
+                    
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <input type="hidden" name="next" value="">
+                        <button class="btn btn-primary btn-large btn-block submit-button">Join to View Deals</button>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12" style="font-size:11px;">
+                        By joining CircleUp, you agree to the
+                        <strong><a rel="external" href="/terms/">Terms of Use</a></strong>,
+                        <strong><a rel="external" href="/privacy/">Privacy Policy</a></strong>,
+                        and promise to keep the information you learn about these companies confidential.
+                    </div>
+                </div>
+                <div class="row" style="margin-top: 20px">
+                    <div class="col-xs-12">
+                        Already a member? <a href="/login/">Sign in</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</div>
+<div id="login-modal" class="modal fade">
+    <div class="modal-dialog" style="max-width: 450px">
+        <div class="modal-content">
+            <header>
+                <h3>SIGN IN TO CIRCLEUP</h3>
+                <a data-dismiss="modal" href="#" class="close-x"><i class="icon-remove"></i></a>
+            </header>
+            
+            <div class="login-box">
+    <div class="row">
+    <div class="col-xs-12">
+            
+
+            
+                <h5 style="margin-top: 0">Sign in via social network</h5>
+                
+                <div class="row">
+                    <div class="col-xs-12">
+                        <a href="/login/linkedin/?next=/privacy/" class="btn btn-primary btn-lg btn-block social-login">
+                            <i class="icon-linkedin"></i>
+                            <span>Sign in via Linkedin</span>
+                        </a>
+                    </div>
+                </div>
+                
+                
+                <div class="row">
+                    <div class="col-xs-12">
+                        <a href="/login/facebook/?next=/privacy/" class="btn btn-primary btn-lg btn-block social-login">
+                            <i class="icon-facebook"></i>
+                            <span>Sign in via Facebook</span>
+                        </a>
+
+                    </div>
+                </div>
+                
+            
+            <h5>Sign in</h5>
+
+            <div class="row">
+                <form role="form" method="post" class="validate form" action="/login/">
+                    <input type="hidden" name="next" value="/privacy/">
+                    <input type="hidden" name="csrfmiddlewaretoken" value="k9eMtbmgDlZXTqAi9NABAal7hImmQEI7">
+                    <div>
+                        <div class="col-xs-12">
+                            <div class="row">
+                                <div class="col-xs-12">
+                                    <div class="form-group ">
+                                        
+                                            <input class="form-control required email" id="id_username" maxlength="255" name="username" placeholder="Email" type="email">
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-12">
+                                    <div class="form-group ">
+                                        <input class="form-control required" id="id_password" name="password" placeholder="Password" type="password">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-xs-12" style="margin-top: 10px">
+                            <div class="row">
+                                <div class="col-xs-12">
+                                    <button class="btn btn-primary btn-lg btn-block submit-button">
+                                        Sign In
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="row">                            
+                                <div class="col-xs-12">
+                                    <div class="forgot-pass">
+                                        <a href="/accounts/password/reset/">
+                                            Reset Password
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">                            
+                                <div class="col-xs-12">
+                                    Not a CircleUp member? 
+                                    <a href="/join/">
+                                        Sign Up
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-maskmoney/3.0.2/jquery.maskMoney.min.js"></script>
-
-
-    <script src="/static/js/library/bootstrap.min.js" type="text/javascript"></script>
-    <script src="/static/js/library/bootstrap-tab.js" type="text/javascript"></script>
-    <script src="/static/js/library/bootstrap-tooltip.js" type="text/javascript"></script>
-    <script src="/static/js/library/bootstrap-popover.js" type="text/javascript"></script>
-    <script src="/static/js/library/bootstrap-scrollspy.js" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.9.0/jquery-ui.min.js"></script>
 
 
 
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js" type="text/javascript"></script>
 
-    <script type="text/javascript" src="/static/gen/thirdparty.b5b0f6ea.js"></script>
 
-    <script type="text/javascript" src="/static/gen/circleup.394c0e20.js"></script>
+
+    <script type="text/javascript" src="/static/gen/thirdparty.4ffd8214.js"></script>
+
+    <script type="text/javascript" src="/static/gen/circleup.13c42eff.js"></script>
 
     <script type="text/javascript" src="/static/gen/locator.e30f370f.js"></script>
 
-    <script type="text/javascript" src="/static/gen/conference_calls.ccccfcea.js"></script>
+    <script type="text/javascript" src="/static/gen/conference_calls.da416dae.js"></script>
 
 
 
-        
     
-    <script type="text/javascript" src="/static/js/browser-update.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","queueTime":0,"licenseKey":"1895555f43","agent":"js-agent.newrelic.com/nr-411.min.js","transactionName":"NFEENRYFWUNRUU0LXw0bIBQKB0NZX1wWD1EKWkgXDQFAQx5eVgVXBlA5DhEQDV5fbV0DRAI=","applicationID":"3909120","errorBeacon":"bam.nr-data.net","applicationTime":48}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+
+<script type="text/javascript" src="/static/js/browser-update.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"1895555f43","agent":"js-agent.newrelic.com/nr-593.min.js","transactionName":"NFEENRYFWUNRUU0LXw0bIBQKB0NZX1wWD1EKWkgXDQFAQx5eVgVXBlA5DhEQDUBCW08DUxo=","applicationID":"3909120","errorBeacon":"bam.nr-data.net","applicationTime":54}</script>
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
