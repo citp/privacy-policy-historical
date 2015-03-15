@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techzene.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625170003id_/http%3A//www.techzene.com/disclaimer-and-privacy/719) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techzene.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315072803id_/http%3A//www.techzene.com/disclaimer-and-privacy/719) for the most accurate reproduction.*
 
 # Disclaimer and Privacy
 
