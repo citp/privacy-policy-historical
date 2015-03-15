@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.co privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129163132id_/http%3A//fi.co/information/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011714id_/http%3A//fi.co/information/privacy_policy) for the most accurate reproduction.*
 
 # The Founder Institute: Helping Founders to Build Great Companies
 
