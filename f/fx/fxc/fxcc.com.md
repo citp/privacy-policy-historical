@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcc.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704083608id_/http%3A//www.fxcc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcc.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315054900id_/http%3A//www.fxcc.com/privacy-policy) for the most accurate reproduction.*
 
 # FXCC Privacy Policy | How we use information we may collect
 
@@ -61,9 +61,9 @@ If you would like to contact us with any queries or comments concerning our priv
 #### Address
 
 FX Central Clearing LTD. (FXCC)  
-16, Spyrou Kyprianou Ave,  
-Office 201, 3070 Limassol,  
-Cyprus
+Amorosa Centre, 2nd floor,  
+2 Samou Street, 4043 Yermasoyia  
+Limassol, Cyprus 
 
 Tel: +357 25 870 750  
 Fax: +357 25 870 753  
