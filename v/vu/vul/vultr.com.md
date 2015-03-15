@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the vultr.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703013120id_/https%3A//www.vultr.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vultr.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021206id_/https%3A//www.vultr.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - VULTR.com
+# Privacy Policy - Vultr.com
 
 Privacy Policy  |  [Terms of Service](https://web.archive.org/legal/tos.php)  |  [Use Policy](https://web.archive.org/legal/use_policy.php)  |  [Anti-spam Policy](https://web.archive.org/legal/antispam_policy.php)
 
-**Privacy Policy for VULTR.com
+**Privacy Policy for Vultr.com
 
 Effective Date ___02/19/2014___  
-Last Updated: ___02/19/2014___
+Last Updated: ___01/29/2015___
 
 **
 
@@ -15,7 +15,7 @@ Last Updated: ___02/19/2014___
 
 **** A. The operative parties referred to in this policy are COMPANY and you, the user of this site.
 
-1\. ClanServers Hosting, LLC, is the publisher and operator of the web site [http://www.vultr.com](http://www.vultr.com/). Hereinafter referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to ClanServers Hosting, LLC. d/b/a [http://www.vultr.com](http://www.vultr.com/). Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to [http://www.vultr.com](http://www.vultr.com/).
+1\. Vultr Holdings LLC, is the publisher and operator of the web site [http://www.vultr.com](http://www.vultr.com/). Hereinafter referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Vultr Holdings LLC. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to [http://www.vultr.com](http://www.vultr.com/).
 
 2\. **You, the User** – As the user of this site, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the site shall be referred to in applicable second-person pronouns.
 
@@ -25,7 +25,7 @@ B. This Privacy Policy describes how we use information received about you when 
 
 
 
-****The Children’s Online Privacy Protection Act applies to the online collection of personal information from children under the age of 13. VULTR.com does not collect any personal information about children under the age of 13. Children under the age of 13 are not authorized to access or use our services without the direct involvement of a parent or legal guardian. Personal information about the parent or legal guardian may be collected in accordance with this privacy policy. Any personal information about children under the age of 13 that is inadvertently collected will be purged immediately upon discovery of such information. If you have reason to believe that any personal information about children under the age of 13 has been transmitted to us, immediately send an e-mail to[COPPA@vultr.com](mailto:COPPA@vultr.com) reporting this transmittal of information. We will endeavor to purge any such information as soon as possible. If you are a parent or legal guardian of a child under the age of 13 and you have reason to believe that your child has accessed our site in violation of our policies, you should also contact us at [COPPA@vultr.com](mailto:coppa@vultr.com) so that we may audit our records in order to remove your child or protectee’s personal information from our records.
+****The Children’s Online Privacy Protection Act applies to the online collection of personal information from children under the age of 13. Vultr.com does not collect any personal information about children under the age of 13. Children under the age of 13 are not authorized to access or use our services without the direct involvement of a parent or legal guardian. Personal information about the parent or legal guardian may be collected in accordance with this privacy policy. Any personal information about children under the age of 13 that is inadvertently collected will be purged immediately upon discovery of such information. If you have reason to believe that any personal information about children under the age of 13 has been transmitted to us, immediately send an e-mail to[COPPA@vultr.com](mailto:COPPA@vultr.com) reporting this transmittal of information. We will endeavor to purge any such information as soon as possible. If you are a parent or legal guardian of a child under the age of 13 and you have reason to believe that your child has accessed our site in violation of our policies, you should also contact us at [COPPA@vultr.com](mailto:coppa@vultr.com) so that we may audit our records in order to remove your child or protectee’s personal information from our records.
 
 **II. Revisions to this Policy**
 
