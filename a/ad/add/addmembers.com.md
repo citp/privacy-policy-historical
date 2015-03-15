@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addmembers.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817215003id_/https%3A//addmembers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addmembers.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010147id_/https%3A//addmembers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy —
+# Privacy Policy -
 
 We are RainMaker MA Software and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
 
