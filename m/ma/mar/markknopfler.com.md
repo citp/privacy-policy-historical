@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the markknopfler.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019222840id_/http%3A//www.markknopfler.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markknopfler.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315193111id_/http%3A//www.markknopfler.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy :MarkKnopfler.com
+# Privacy : MarkKnopfler.com
 
 ##  Privacy 
 
@@ -105,3 +105,8 @@ P.O. Box 59039
 Toronto, Ontario  
 M6R 3B5  
 Canada
+
+__top
+
+  
+
