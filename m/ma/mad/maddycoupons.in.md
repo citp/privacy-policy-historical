@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maddycoupons.in privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113012805id_/http%3A//www.maddycoupons.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maddycoupons.in privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315165401id_/https%3A//www.maddycoupons.in/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Maddycoupons.in
 
@@ -6,7 +6,7 @@
 
 **PRIVACY POLICY**
 
-The website www.Maddycoupons.in (“the website ¢‚¬ ) is operated by Zintec Software Pvt. Ltd. (ZSPL). Maddycoupons (“we,” “us,” “our”) is committed to protect your (“Customer ¢‚¬ , “User ¢‚¬ , “You ¢‚¬ ) privacy and will only use information that has been collected from you in a lawful manner in full accordance with data protection laws applicable in India.
+The website www.Maddycoupons.in (“the website” ) is operated by Zintec Software Pvt. Ltd. (ZSPL). Maddycoupons (“we,” “us,” “our”) is committed to protect your (“Customer” , “User” , “You” ) privacy and will only use information that has been collected from you in a lawful manner in full accordance with data protection laws applicable in India.
 
 We at maddycoupons.in value your privacy. Please read this privacy policy to learn about our information gathering and dissemination practices. Please note that our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. By visiting this website you agree to be bound by the terms and conditions of this Policy. If you do not agree please do not use or access our Site.
 
