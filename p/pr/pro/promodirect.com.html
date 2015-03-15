@@ -1,69 +1,225 @@
-<!--The following is the downloaded HTML source of the promodirect.com privacy policy that was archived on 2014-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701201839id_/http%3A//www.promodirect.com/info/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the promodirect.com privacy policy that was archived on 2015-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315025420id_/http%3A//www.promodirect.com/info/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		
+		
+		
+		
+		<title>Promo Direct Privacy Policy</title>
+		<meta name="Keywords" content="null">
+		<meta name="Description" content="Promo Direct Privacy Statement. We created this privacy statement to demonstrate our firm commitment to your privacy. ">
+		
+		
+		
+		
+				
 
 
-
-
-<title>Promo Direct Privacy Statement</title>
-<meta name="Keywords" content="null">
-<meta name="Description" content="Promo Direct Privacy Statement. We created this privacy statement to demonstrate our firm commitment to your privacy. ">
-
-
-
-
-<link rel="alternate" type="application/rss+xml" title="Promo Direct - ROR" href="http://www.promodirect.com/ror.xml">
-<link rel="alternate" type="application/rss+xml" title="Promo Direct - RSS Feed 2.0" href="http://www.promodirect.com/rssfeed.xml">
-<meta name="robots" content="index,follow">
-<meta name="verify-v1" content="4snrS3hboR19XdmSRgAaXc/QLal6P+QTjhtluYirtlg=">
-<link href="https://plus.google.com/+PromodirectUSA/" rel="publisher">
-<meta name="y_key" content="19f0c91cecf14cd1">
-<link href="/css/style.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="/css/jquery.megamenu.css" type="text/css" media="screen">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;amp;appId=231496693562901"></script><script src="/js/jquery.min.js" type="text/javascript"></script>    
-<script src="/js/jquery.megamenu.js" type="text/javascript"></script>
+    <link href="/css/style.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/css/jquery.megamenu.css" type="text/css">
+    <link href="/css/featuredcontentglider.css" rel="stylesheet" type="text/css">
+    <link href="/css/slide.css" rel="stylesheet" type="text/css">
+    <script src="/js/jquery.min.js" type="text/javascript"></script>
+    <!--mainwrapper-->
+    <script src="/js/ddsmoothmenu.js" type="text/javascript"></script>
     <script type="text/javascript">
-     
-$(function () {
-		$('ul.megamenu li .megaSub').hide();
-		$('ul.megamenu li').hover(function () {
-			$(this).find('.megaSub').show()
-		}, function(){
-			$(this).find('.megaSub').hide()
-		});
-	});
+        ddsmoothmenu.init({
+            mainmenuid: "smoothmenu1", //menu DIV id
+            orientation: 'v', //Horizontal or vertical menu: Set to "h" or "v"
+            classname: 'categorymenu', //class added to menu's outer DIV
+            //customtheme: ["#1c5a80", "#18374a"],
+            contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+        })
+
     </script>
-    </head>
+<script async="" type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
+</head>
 
-    <body class="js" style="zoom: 1;">
+
+
+<body style="zoom: 1;">
+
+
+
+
+
+
+
+
+
+
+<div id="blackout" style="width: 1366px; height: 2666px;"></div>
+<div style="width:1000px; margin:0 auto; position:relative; z-index:9999" class="pop">
+    <div id="SubscribePop">
+        <div class="yello_bg">
+        <img src="/images/Free-Set-Up-Pop-Up.jpg" width="490" height="220" alt="popup">
+        <a href="#" class="closepop"><span onclick="showhideLayer('SubscribePop','hidden')">X <!--<span>Close</span>--></span></a></div>
+      <div class="floatclear"></div>
+        </div>
+        </div>
+				
+				
+<script type="text/javascript">
+   $(document).ready(function () {
+	   
+	   	var boxWidth = 400;
 	
-<script type="text/javascript">//<![CDATA[
-document.getElementsByTagName("body")[0].className = "js";
-//]]></script>
+	function centerBox() {
+		
+		/* Preliminary information */
+		var winWidth = $(window).width();
+		var winHeight = $(document).height();
+		var scrollPos = $(window).scrollTop();
+		/* auto scroll bug */
+		
+		/* Calculate positions */
+		
+		var disWidth = (winWidth - boxWidth) / 2
+		var disHeight = scrollPos + 150;
+		
+		/* Move stuff about */
+		
+		$('#blackout').css({'width' : winWidth+'px', 'height' : winHeight+'px'});
+	
+		return false;
+	}
+	
+	
+	$(window).resize(centerBox);
+	$(window).scroll(centerBox);
+	centerBox();	
+	   
+	    $("a.toplinks2").click(function () {
+		
+		/* Get the id (the number appended to the end of the classes) */
+		var name = $(this).attr('class');
+		var id = name[name.length - 1];
+		var scrollPos = $(window).scrollTop();
+		
+		/* Show the correct popup box, show the blackout and disable scrolling */
+		
+		
+		
+	    $(".pop").show();
+		$("#SubscribePop").show(); 
+		  $("#pop2").show(); 
+		  
+		  $('#blackout').show();
+		$('html,body').css('overflow', 'hidden');
+		
+		/* Fixes a bug in Firefox */
+		$('html').scrollTop(scrollPos);
+		
+		  });
+		  
+		   $("a.closepop").click(function () {
+		   $("#SubscribePop").hide(); 
+		   $('#blackout').hide(); 
+		   $("html,body").css("overflow","auto");
+		$('html').scrollTop(scrollPos);
+		   });
+		   
+		    $("a.closepop2").click(function () {
+		   $("#pop2").hide(); 
+		   $('#blackout').hide(); 
+		   $("html,body").css("overflow","auto");
+		$('html').scrollTop(scrollPos);
+		   });
+		
+     });
+</script>
 
 
 
 
 
 
+
+
+
+
+<div style="width:1000px; margin:0 auto; position:relative; z-index:9999">
+	<div id="SubscribePopup" style="visibility:hidden">
+		<div class="yello_bg"> <span style="line-height:40px; font-size:25px;font-weight:bold;">Promo Direct Email Signup</span><br>
+			<span style="font-size:22px; font-weight:normal;">Special Deals are sent out every month!</span><br>
+			<span style="font-size:13px; font-weight:normal;">Our latest and hottest deals, discounts and coupons right to your email inbox...keep an eye out!</span><br>
+			<a href="#" class="close"><img src="/images/close-btn.gif" alt="" width="53" height="18" onclick="showhideLayer('SubscribePopup','hidden')"></a></div>
+		<div class="floatclear" style="position:relative;">
+			<div class="blck_bg">Email Address<br>
+				<input name="popemail" type="text" class="txt_box" id="popemail">
+				<a href="#" class="subbtn" onclick="submitPopup();">Subscribe</a> <a href="#" class="subbtn" style="margin:0;" onclick="showhideLayer('SubscribePopup','hidden')">No Thanks</a> </div>
+			<a href="/info/privacy.jsp" class="btm_link" target="_blank">See our privacy policy</a>
+			<div class="floatclear"></div>
+		</div>
+	</div>
+	<div id="SubscribePopupSuccess" style="visibility:hidden;">
+		<div class="poptext"> <a href="#" class="close2"> <img src="/images/close-btn3.gif" alt="" width="53" height="18" onclick="showhideLayer('SubscribePopupSuccess','hidden')"></a> We will send periodic deals, discounts and coupons
+			to your email inbox...keep an eye out!</div>
+	</div>
+</div>
+<script type="text/javascript">
+	function showhideLayer(id, val) {
+		document.getElementById(id).style.visibility = val;
+	}
+	function submitPopup() {
+		var email = document.getElementById("popemail").value;
+		var mailingListId = 1000;
+		showhideLayer('SubscribePopupSuccess','visible');
+		if(validateEmail(email)){
+			jQuery.get("/customer/mailinglist.cz", {email:email,mailingListId:mailingListId},null);
+			showhideLayer('SubscribePopup','hidden');
+		}
+		pageTracker._trackEvent('Email-Signup', 'subscribe');
+	}
+
+	function showSubscribePopup(){
+		showhideLayer('SubscribePopup','visible');
+	}
+</script>
 
 
 
 <div class="toplinkwrap">
-  <div class="toplink">
-    <div style="">
-		<p>Factory Direct Pricing - <span class="save">Save up to 30%!</span></p>
-    <p>FREE Art Prep &amp; Design - $50 Savings! <a href="/misc/free-artwork-email-proof.jsp" class="moredetails">More details</a></p>
+		<div class="toplink">
+				<p><span class="regis">
+				
+					<a href="/register.jsp">REGISTER NOW</a></span> <span class="save">to get FREE samples, catalogs, and more!
+				
+				</span></p>
+				<div class="top-links">
+						
+						<a href="/logon.jsp" class="toplinks">Sign In</a>
+						
+						<span>|</span> <a href="#" onclick="javascript:showSubscribePopup();" class="toplinks">Email Sign Up for Coupons &amp; Deals</a><span>|</span><a href="/info/aboutus.jsp" class="toplinks">About
+								Us</a><span>|</span><a href="/info/contactinfo.jsp" class="toplinks">Contact Us</a><span>|</span><a href="/info/help2.jsp" class="toplinks">Help</a>
+						<a href="/customer/viewcart.jsp" class="toplinks cart_img">0</a>
+				</div>
+				<div class="floatclear"></div>
 		</div>
-    <div class="top-links"><a href="/logon.jsp" class="toplinks">Login</a><span>|</span><a href="/info/aboutus.jsp" class="toplinks">About Us</a><span>|</span><a href="/info/contactinfo.jsp" class="toplinks">Contact Us</a><span>|</span><a href="/info/help2.jsp" class="toplinks">Help</a></div></div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 <div id="wrapper">
   <div class="inner">
-    
+		
 
 
 
@@ -95,1154 +251,1109 @@ document.getElementsByTagName("body")[0].className = "js";
 
 
 
-	
 
 
- 	<div id="header">
-	<div class="logo"><a href="/"><img src="/images/promoDirect.gif" width="269" height="88" alt="Promo Direct"></a></div>
+
+<div id="header">
+	<div class="logo"> <a href="/"> <img src="/images/pd-logo.png" width="255" height="80" alt="Promo Direct"></a></div>
 	<!--Logo Ends-->
 	<div id="topheader-center-wrap">
-		<div id="topheader-centerinner-wrap"> <span class="orderonline-black-text">ORDER ONLINE OR CALL</span><span class="orderonline-green-text"> 1-800-748-6150</span>
+		<div id="topheader-centerinner-wrap">
 			<div class="searchpannel-wrap">
-				<div class="floatleft input1" style="position:relative;padding:0;width:220px;height:27px;">
+				<div class="floatleft input1" style="position:relative;">
 					<form name="SearchKeywordForm" method="get" action="/catalog/srhkeyword.cz" style="margin:0px;" id="topSearch">
-					<input style="width:210px;height:27px;line-height:27px;font-size:14px;font-weight:bold;padding-left:10px;" type="text" id="topkeyword" name="keyword" class="seatch_input" onblur="keywordblur();" onfocus="if (this.value == 'Enter keyword or item #') {this.value = '';}" value="Enter keyword or item #" onkeyup="selectItem(this.value,event);" autocomplete="off" disableautocomplete="">
+						<input type="text" id="topkeyword" name="keyword" class="seatch_input" value="Search" onfocus="if(this.value=='Search'){ this.value='';}" onblur="if(this.value==''){ this.value='Search';} keywordblur();" onkeyup="selectItem(this.value,event);" autocomplete="off" disableautocomplete="">
 					</form>
-					<div id="suggestdiv" onmouseover="document.getElementById('topkeyword').onblur='';" onmouseout="document.getElementById('topkeyword').onblur='keywordblur()';">
-					</div>
+					<div id="suggestdiv" onmouseover="document.getElementById('topkeyword').onblur='';" onmouseout="document.getElementById('topkeyword').onblur='keywordblur()';"> </div>
 				</div>
-				<div class="search-btn floatright"><a href="#" onclick="if(checkKeywords()){document.getElementById('topSearch').submit();}"></a></div>
+				<div class="search-btn floatright"> <a href="#" onclick="if(checkKeywords()){document.getElementById('topSearch').submit();}"></a> </div>
 			</div>
-			<div class="advanced_search"><a href="/catalog/srhkeyword.jsp" class="search">Advanced Search</a></div>
-			<!--searchpannel-wrap Ends--> 
+			<div class="advanced_search"> <a href="/catalog/srhkeyword.jsp" class="search">Advanced Search</a></div>
 		</div>
-		<!--topheader-centerinner-wrap Ends--> 
 	</div>
-	<!--topheader-center-wrap Ends-->
-	
 	<div id="topright-wrap">
-		<div id="cart-chat-wrap">
-			<div id="cart-wrap">
-				<div class="cart"><a href="/customer/viewcart.jsp"></a></div>
-				<div class="floatright"> <span class="black-bold-text-12">0 Items</span>
-					<span class="red-bold-text-12">$.00</span> </div>
-				<!--cart ends-->
-				<div class="floatclear"></div>
-			</div>
-			<!--cart-wrap ends-->
-			<div class="floatright chatlive"><!-- live2support.com tracking codes starts -->
-				<div id="l2s_trk" style="z-index: 99; visibility: hidden;"><a href="http://live2support.com" style="font-size:1px;">Live Support</a></div>
-				<script type="text/javascript">
-	<!-- 
-var l2s_pht=escape(location.protocol); if(l2s_pht.indexOf("http")==-1) l2s_pht='http:'; function l2s_load() { document.write('<scr'+'ipt type="text/javaScr'+'ipt" src="'+unescape(l2s_pht)+'//sa.live2support.com/js/lsjs1.php?stid=14205"  defer=true>'+'</scr'+'ipt>');  } 
-l2s_load();  document.getElementById('l2s_trk').style.visibility='hidden'; //--></script><script type="text/javaScript" src="https://sa.live2support.com/js/lsjs1.php?stid=14205" defer="true"></script><!-- live2support.com tracking codes closed --></div>
-		</div>
-		<!--cart-chat-wrap Ends--> 
+		<span class="orderonline-black-text">Order Online Or Call</span><br>
+		<span class="orderonline-green-text">800-748-6150</span>
+		<span class="office-time">Mon.-Fri., 6:30 am - 4:30 pm PST</span>
+										
+		<!-- live2support.com tracking codes starts -->
+		<span id="l2s_trk" class="live-chat-text" style="visibility: hidden;"><a href="http://live2support.com">Live Chat</a></span>
+		<script type="text/javascript">
+		<!-- 
+		var l2s_pht=escape(location.protocol); if(l2s_pht.indexOf("http")==-1) l2s_pht='http:'; function l2s_load() { document.write('<scr'+'ipt type="text/javaScr'+'ipt" src="'+unescape(l2s_pht)+'//sa.live2support.com/js/lsjs1.php?stid=14205"  defer=true>'+'</scr'+'ipt>');  } 
+		l2s_load();  document.getElementById('l2s_trk').style.visibility='hidden'; 
+		//-->
+		</script><script type="text/javaScript" src="https://sa.live2support.com/js/lsjs1.php?stid=14205" defer="true"></script>
+		<!-- live2support.com tracking codes closed -->
 	</div>
-	<!--topright-wrap Ends--> 
-	</div>
+</div>
+
+
+
+
+
+
+
+
+ 
+
 <div class="floatclear"></div>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="floatclear"></div>
-<div id="nav">
-	<ul class="megamenu">
+	</div>			
+	<div id="mid-wrap">      
 		
 
 
-			
-				
-				 	<li><a href="/ccc1344-promotional-apparel.htm" class="single_line">Apparel</a>
-					<div class="megaSub " style="display: none;">
-						<ul class="ul3">
-							<li class="menu_head">Apparel<a href="/ccc1344-promotional-apparel.htm" class="viewall">view all</a></li>
-							
-								<li class="li3"> <a href="/ccc1365-promotional-t-shirts.htm" title="">
-									T-Shirts
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1363-promotional-polo-26-sport-shirts.htm" title="">
-									Polo &amp; Sport Shirts
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1364-promotional-sweatshirts.htm" title="">
-									Sweatshirts
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1361-promotional-caps-26-headwear.htm" title="">
-									Caps &amp; Headwear
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1362-promotional-jackets-26-windshirts.htm" title="">
-									Jackets &amp; Windshirts
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3505-promotional-ladies.htm" title="">
-									Ladies
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3337-promotional-dress-shirts.htm" title="">
-									Dress Shirts
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3480-promotional-athletic.htm" title="">
-									Athletic
-									</a> </li>
-							
-							
-						</ul>
-						<div class="menu_aids"> <a href="/Promotional-port-26-company-cotton-t-shirt-28white29-16611-ccp15658.htm"><img src="/objects/catalog/product/multiimages/15658/White_White/1_Promotional_items_16611_White.jpg" width="50" height="50"></a>
-							<div class="aid_rgt"><a href="/Promotional-port-26-company-cotton-t-shirt-28white29-16611-ccp15658.htm">Port &amp; Company Cotton T-Shirt (White)</a> <span>As low as $2.40</span> 
-							<img src="/images/star.gif" alt="star" width="73" height="13"> </div>
-						</div>
-					</div>
-					</li>
-				
-			
-				
-				 	<li><a href="/ccc1366-promotional-auto---home-26-tools.htm" class="">Auto / Home<br>&amp; Tools</a>
-					<div class="megaSub " style="display: none;">
-						<ul class="ul3">
-							<li class="menu_head">Auto / Home &amp; Tools<a href="/ccc1366-promotional-auto---home-26-tools.htm" class="viewall">view all</a></li>
-							
-								<li class="li3"> <a href="/ccc3521-promotional-key-lights.htm" title="">
-									Key Lights
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1382-promotional-flashlights.htm" title="">
-									Flashlights
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1384-promotional-plastic-key-chains-26-holders.htm" title="">
-									Plastic Key Chains &amp; Holders
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3520-promotional-metal-key-holders.htm" title="">
-									Metal Key Holders
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1383-promotional-household-items.htm" title="">
-									Household Items
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3450-promotional-kitchen-items.htm" title="">
-									Kitchen Items
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1385-promotional-tools.htm" title="">
-									Tools
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3451-promotional-tape-measures.htm" title="">
-									Tape Measures
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3440-promotional-pet-products.htm" title="">
-									Pet Products
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1381-promotional-auto-accessories.htm" title="">
-									Auto Accessories
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3452-promotional-frames.htm" title="">
-									Frames
-									</a> </li>
-							
-							
-						</ul>
-						<div class="menu_aids"> <a href="/Promotional-mini-flashlight-with-key-ring-5340-ccp4754.htm"><img src="/objects/catalog/product/multiimages/4754/Opaque White/1_item_5340_Opaque-White.jpg" width="50" height="50"></a>
-							<div class="aid_rgt"><a href="/Promotional-mini-flashlight-with-key-ring-5340-ccp4754.htm">Mini Flashlight with Key Ring</a> <span>As low as $1.19</span> 
-							<img src="/images/star.gif" alt="star" width="73" height="13"> </div>
-						</div>
-					</div>
-					</li>
-				
-			
-				
-				 	<li><a href="/ccc1367-promotional-bags.htm" class="single_line">Bags</a>
-					<div class="megaSub " style="display: none;">
-						<ul class="ul3">
-							<li class="menu_head">Bags<a href="/ccc1367-promotional-bags.htm" class="viewall">view all</a></li>
-							
-								<li class="li3"> <a href="/ccc1392-promotional-non-woven-totes.htm" title="">
-									Non Woven Totes
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3515-promotional-shopping-26-grocery-totes.htm" title="">
-									Shopping &amp; Grocery Totes
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3516-promotional-cotton-26-polyester-totes.htm" title="">
-									Cotton &amp; Polyester Totes
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1387-promotional-drawstring-sport-packs.htm" title="">
-									Drawstring Sport Packs
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3517-promotional-backpacks.htm" title="">
-									Backpacks
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3341-promotional-cooler-bags-and-coolers.htm" title="">
-									Cooler Bags &amp; Coolers
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3518-promotional-lunch-bags-26-sacks.htm" title="">
-									Lunch Bags &amp; Sacks
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1390-promotional-plastic-bags.htm" title="">
-									Plastic Bags
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3503-promotional-paper-bags.htm" title="">
-									Paper Bags
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3519-promotional-laptop-26-tablet-bags.htm" title="">
-									Laptop &amp; Tablet Bags
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1386-promotional-messenger-bags-26-briefcases.htm" title="">
-									Messenger Bags &amp; Briefcases
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1389-promotional-sport-26-duffle-bags.htm" title="">
-									Sport &amp; Duffle Bags
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3485-promotional-travel-bags.htm" title="">
-									Travel Bags
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3501-promotional-travel-wallets.htm" title="">
-									Travel Wallets
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3354-promotional-luggage-tags-26-travel-items.htm" title="">
-									Luggage Tags &amp; Travel Items
-									</a> </li>
-							
-							
-						</ul>
-						<div class="menu_aids"> <a href="/fit-your-budget-6-pack---closeout-17452-ccp18510.htm"><img src="/objects/catalog/product/multiimages/18510/Hunter Green/1_item_17452_hunter.jpg" width="50" height="50"></a>
-							<div class="aid_rgt"><a href="/fit-your-budget-6-pack---closeout-17452-ccp18510.htm">Fit Your Budget 6 Pack - Closeout</a> <span>As low as $1.79</span> 
-							<img src="/images/star.gif" alt="star" width="73" height="13"> </div>
-						</div>
-					</div>
-					</li>
-				
-			
-				
-				 	<li><a href="/ccc1368-promotional-calendars.htm" class="single_line">Calendars</a>
-					<div class="megaSub " style="display: none;">
-						<ul class="ul3">
-							<li class="menu_head">Calendars<a href="/ccc1368-promotional-calendars.htm" class="viewall">view all</a></li>
-							
-								<li class="li3"> <a href="/ccc1394-promotional-stick-up-26-magnetic-calendars.htm" title="">
-									Stick-Up &amp; Magnetic Calendars
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1395-promotional-wall-calendars.htm" title="">
-									Wall Calendars
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1393-promotional-desk-calendars.htm" title="">
-									Desk Calendars
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1396-promotional-weekly-26-monthly-planners.htm" title="">
-									Weekly &amp; Monthly Planners
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3553-promotional-calendar-greeting-cards.htm" title="">
-									Calendar Greeting Cards
-									</a> </li>
-							
-							
-						</ul>
-						<div class="menu_aids"> <a href="/Custom-stick-up-calendars-28rectangle-shape29-2583rt-ccp5752.htm"><img src="/objects/catalog/product/multiimages/5752/Gallery/1_2583rt-g50.jpg" width="50" height="50"></a>
-							<div class="aid_rgt"><a href="/Custom-stick-up-calendars-28rectangle-shape29-2583rt-ccp5752.htm">Stick-Up Calendars (Rectangle Shape)</a> <span>As low as $.44</span> 
-							<img src="/images/star.gif" alt="star" width="73" height="13"> </div>
-						</div>
-					</div>
-					</li>
-				
-			
-				
-				 	<li><a href="/ccc1369-promotional-drinkware.htm" class="single_line">Drinkware</a>
-					<div class="megaSub " style="display: none;">
-						<ul class="ul3">
-							<li class="menu_head">Drinkware<a href="/ccc1369-promotional-drinkware.htm" class="viewall">view all</a></li>
-							
-								<li class="li3"> <a href="/ccc3514-promotional-cups-26-tumblers-with-straws.htm" title="">
-									Cups &amp; Tumblers with Straws
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1402-promotional-plastic-travel-mugs-26-tumblers.htm" title="">
-									Plastic Travel Mugs &amp; Tumblers
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3513-promotional-stainless-travel-mugs-26-tumblers.htm" title="">
-									Stainless Travel Mugs &amp; Tumblers
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1397-promotional-aluminum-and-steel-bottles.htm" title="">
-									Aluminum &amp; Steel Bottles
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1399-promotional-ceramic-mugs.htm" title="">
-									Ceramic Mugs
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1401-promotional-sport-bottles.htm" title="">
-									Sport Bottles 
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3502-promotional-plastic-cups.htm" title="">
-									Plastic Cups
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1398-promotional-can-26-bottle-holders.htm" title="">
-									Can &amp; Bottle Holders
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3486-promotional-thermos-26-vacuum-bottles.htm" title="">
-									Thermos &amp; Vacuum Bottles
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3418-promotional-glassware.htm" title="">
-									Glassware
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3557-promotional-paper-26-foam-cups.htm" title="">
-									Paper &amp; Foam Cups
-									</a> </li>
-							
-							
-						</ul>
-						<div class="menu_aids"> <a href="/Promotional-koozie-collapsible-can-holder--3358r-ccp5864.htm"><img src="/objects/catalog/product/multiimages/5864/Pink_Pink/1_item_3358R_pink.jpg" width="50" height="50"></a>
-							<div class="aid_rgt"><a href="/Promotional-koozie-collapsible-can-holder--3358r-ccp5864.htm">Koozie Collapsible Can Holder</a> <span>As low as $.73</span> 
-							<img src="/images/star.gif" alt="star" width="73" height="13"> </div>
-						</div>
-					</div>
-					</li>
-				
-			
-				
-				 	<li><a href="/ccc1371-promotional-health-and-personal-care.htm" class="">Health &amp;<br>Personal Care</a>
-					<div class="megaSub " style="display: none;">
-						<ul class="ul3">
-							<li class="menu_head">Health &amp; Personal Care<a href="/ccc1371-promotional-health-and-personal-care.htm" class="viewall">view all</a></li>
-							
-								<li class="li3"> <a href="/ccc1407-promotional-hand-sanitizers-and-lotions.htm" title="">
-									Hand Sanitizers &amp; Lotions
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1406-promotional-bandage-dispensers-and-first-aid.htm" title="">
-									Bandage Dispensers &amp; First Aid
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1413-promotional-lip-balm-and-sun-protection.htm" title="">
-									Lip Balm &amp; Sun Protection
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1412-promotional-stress-balls-and-stress-relievers.htm" title="">
-									Stress Balls &amp; Stress Relievers
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3524-promotional-educational-guides-26-books.htm" title="">
-									Educational Guides &amp; Books
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3476-promotional-awareness-bracelets.htm" title="">
-									Awareness Bracelets
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1410-promotional-pill-boxes.htm" title="">
-									Pill Boxes
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1409-promotional-pedometers.htm" title="">
-									Pedometers
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3471-promotional-personal-care.htm" title="">
-									Personal Care
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3469-promotional-mirrors.htm" title="">
-									Mirrors
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3470-promotional-oral-care.htm" title="">
-									Oral Care
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3479-promotional-fitness-26-spa.htm" title="">
-									Fitness &amp; Spa
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1408-promotional-health-related-items.htm" title="">
-									Health Related Items
-									</a> </li>
-							
-							
-						</ul>
-						<div class="menu_aids"> <a href="/Custom-hand-sanitizer-spray-pump-14350-ccp10379.htm"><img src="/objects/catalog/product/multiimages/10379/Black_Black/1_item_item_14350__black.jpg" width="50" height="50"></a>
-							<div class="aid_rgt"><a href="/Custom-hand-sanitizer-spray-pump-14350-ccp10379.htm">Hand Sanitizer Spray Pump</a> <span>As low as $.80</span> 
-							<img src="/images/star.gif" alt="star" width="73" height="13"> </div>
-						</div>
-					</div>
-					</li>
-				
-			
-				
-				 	<li><a href="/ccc1372-promotional-office.htm" class="single_line">Office</a>
-					<div class="megaSub " style="display: none;">
-						<ul class="ul3">
-							<li class="menu_head">Office<a href="/ccc1372-promotional-office.htm" class="viewall">view all</a></li>
-							
-								<li class="li3"> <a href="/ccc1420-promotional-magnets.htm" title="">
-									Magnets
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1415-promotional-clips-26-holders.htm" title="">
-									Clips &amp; Holders
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1417-promotional-desk-accessories.htm" title="">
-									Desk Accessories
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1416-promotional-clocks.htm" title="">
-									Clocks
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3666-promotional-watches.htm" title="">
-									Watches
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1423-promotional-business-gifts.htm" title="">
-									Business Gifts
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3441-promotional-epoxy-dome-products.htm" title="">
-									Epoxy Dome Products
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1419-promotional-letter-slitters-26-openers.htm" title="">
-									Letter Slitters &amp; Openers
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1421-promotional-rulers-26-magnifiers.htm" title="">
-									Rulers &amp; Magnifiers
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3487-promotional-bookmarks-26-booklights.htm" title="">
-									Bookmarks &amp; Booklights
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3556-promotional-stickers--labels-26-decals.htm" title="">
-									Stickers, Labels &amp; Decals
-									</a> </li>
-							
-							
-						</ul>
-						<div class="menu_aids"> <a href="/Custom-desk-in-a-box-14344r-ccp10366.htm"><img src="/objects/catalog/product/multiimages/10366/Blue_Translucent Blue/1_promotional_items-_14344R_blue.jpg" width="50" height="50"></a>
-							<div class="aid_rgt"><a href="/Custom-desk-in-a-box-14344r-ccp10366.htm">Desk in a Box</a> <span>As low as $2.45</span> 
-							<img src="/images/star.gif" alt="star" width="73" height="13"> </div>
-						</div>
-					</div>
-					</li>
-				
-			
-				
-				 	<li><a href="/ccc1373-promotional-outdoor-26-leisure.htm" class="">Outdoor &amp;<br>Leisure</a>
-					<div class="megaSub " style="display: none;">
-						<ul class="ul3">
-							<li class="menu_head">Outdoor &amp; Leisure<a href="/ccc1373-promotional-outdoor-26-leisure.htm" class="viewall">view all</a></li>
-							
-								<li class="li3"> <a href="/ccc1424-promotional-blankets-26-mats.htm" title="">
-									Blankets &amp; Mats
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1428-promotional-umbrellas.htm" title="">
-									Umbrellas
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3491-promotional-towels.htm" title="">
-									Towels
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3489-promotional-bbq-26-picnic.htm" title="">
-									BBQ &amp; Picnic
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3467-promotional-sunglasses.htm" title="">
-									Sunglasses
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3490-promotional-team-26-school-spirit.htm" title="">
-									Team &amp; School Spirit
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1425-promotional-chairs.htm" title="">
-									Chairs
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3512-promotional-golf-balls.htm" title="">
-									Golf Balls
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3511-promotional-golf-tees--packs-26-towels.htm" title="">
-									Golf Tees, Packs &amp; Towels
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1427-promotional-golf-related-items.htm" title="">
-									Golf Related Items
-									</a> </li>
-							
-							
-						</ul>
-						<div class="menu_aids"> <a href="/Custom-promotional-sunglasses-17144-ccp17127.htm"><img src="/objects/catalog/product/multiimages/17127/Black/1_item_17144_black.jpg" width="50" height="50"></a>
-							<div class="aid_rgt"><a href="/Custom-promotional-sunglasses-17144-ccp17127.htm">Promotional Sunglasses</a> <span>As low as $.80</span> 
-							<img src="/images/star.gif" alt="star" width="73" height="13"> </div>
-						</div>
-					</div>
-					</li>
-				
-			
-				
-				 	<li><a href="/ccc1375-promotional-stationery-26-folders.htm" class="">Stationery<br>&amp; Folders</a>
-					<div class="megaSub " style="display: none;">
-						<ul class="ul3">
-							<li class="menu_head">Stationery &amp; Folders<a href="/ccc1375-promotional-stationery-26-folders.htm" class="viewall">view all</a></li>
-							
-								<li class="li3"> <a href="/ccc3509-promotional-bic-sticky-notes.htm" title="">
-									BIC Sticky Notes
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3508-promotional-post-it-notes.htm" title="">
-									Post-it Notes
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3510-promotional-notepads--cubes-26-flags.htm" title="">
-									Notepads, Cubes &amp; Flags
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1435-promotional-padfolios-26-portfolios.htm" title="">
-									Padfolios &amp; Portfolios
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1436-promotional-jotter-pads.htm" title="">
-									Jotter Pads
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1439-promotional-notebooks-26-journals.htm" title="">
-									Notebooks &amp; Journals
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3488-promotional-business-card-holders.htm" title="">
-									Business Card Holders
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3492-promotional-binders.htm" title="">
-									Binders
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3493-promotional-document-holders.htm" title="">
-									Document Holders
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3525-promotional-greeting-cards.htm" title="">
-									Greeting Cards
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3522-promotional-presentation-folders-26-marketing-materials.htm" title="">
-									Presentation Folders &amp; Marketing Materials
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3555-promotional-signs-26-posters.htm" title="">
-									Signs &amp; Posters
-									</a> </li>
-							
-							
-						</ul>
-						<div class="menu_aids"> <a href="/custom-bicae-4--x-3--notepads-25-sheets-3243-ccp4346.htm"><img src="/objects/catalog/product/multiimages/4346/White_White Paper/1_500_item_3243_White.jpg" width="50" height="50"></a>
-							<div class="aid_rgt"><a href="/custom-bicae-4--x-3--notepads-25-sheets-3243-ccp4346.htm">Bic® 4" x 3" Notepads 25 Sheets</a> <span>As low as $.23</span> 
-							<img src="/images/star.gif" alt="star" width="73" height="13"> </div>
-						</div>
-					</div>
-					</li>
-				
-			
-				
-				 	<li><a href="/ccc1376-promotional-technology-26-electronics.htm" class="">Technology &amp;<br>Electronics</a>
-					<div class="megaSub " style="display: none;">
-						<ul class="ul3">
-							<li class="menu_head">Technology &amp; Electronics<a href="/ccc1376-promotional-technology-26-electronics.htm" class="viewall">view all</a></li>
-							
-								<li class="li3"> <a href="/ccc1444-promotional-usb-flash-drives.htm" title="">
-									USB Flash Drives
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3477-promotional-bags-26-cases.htm" title="">
-									Bags &amp; Cases
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1443-promotional-computer-mice-26-mouse-pads.htm" title="">
-									Computer Mice &amp; Mouse Pads
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3478-promotional-phone-26-media-stands.htm" title="">
-									Phone &amp; Media Stands
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1441-promotional-calculators.htm" title="">
-									Calculators
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1442-promotional-technology-accessories.htm" title="">
-									Technology Accessories
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3494-promotional-laser-pointers-26-styluses.htm" title="">
-									Laser Pointers &amp; Styluses
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3495-promotional-chargers.htm" title="">
-									Chargers
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3496-promotional-usb-hubs-26-gadgets.htm" title="">
-									USB Hubs &amp; Gadgets
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3497-promotional-music-26-audio.htm" title="">
-									Music &amp; Audio
-									</a> </li>
-							
-							
-						</ul>
-						<div class="menu_aids"> <a href="/Promotional-matrix-swivel-usb-drive--1gb-17153-ccp17536.htm"><img src="/objects/catalog/product/multiimages/17536/Black/1_item_17153_black.jpg" width="50" height="50"></a>
-							<div class="aid_rgt"><a href="/Promotional-matrix-swivel-usb-drive--1gb-17153-ccp17536.htm">Matrix Swivel USB Drive  1GB</a> <span>As low as $4.01</span> 
-							<img src="/images/star.gif" alt="star" width="73" height="13"> </div>
-						</div>
-					</div>
-					</li>
-				
-			
-				
-				 	<li><a href="/ccc1379-promotional-toys-26-novelties.htm" class="">Toys &amp;<br>Novelties</a>
-					<div class="megaSub menulast" style="display: none;">
-						<ul class="ul3">
-							<li class="menu_head">Toys &amp; Novelties<a href="/ccc1379-promotional-toys-26-novelties.htm" class="viewall">view all</a></li>
-							
-								<li class="li3"> <a href="/ccc1445-promotional-balloons.htm" title="">
-									Balloons
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3475-promotional-coloring-books-26-crayons.htm" title="">
-									Coloring Books &amp; Crayons
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1447-promotional-flyers.htm" title="">
-									Flyers
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1448-promotional-fun-26-games.htm" title="">
-									Fun &amp; Games
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3506-promotional-piggy-26-money-banks.htm" title="">
-									Piggy &amp; Money Banks
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1449-promotional-soft-toys-26-stuffed-animals.htm" title="">
-									Soft Toys &amp; Stuffed Animals
-									</a> </li>
-							
-							
-						</ul>
-						<div class="menu_aids"> <a href="/Promotional-9--value-flyer-8843-ccp4197.htm"><img src="/objects/catalog/product/multiimages/4197/Black/1_item_8843_black.jpg" width="50" height="50"></a>
-							<div class="aid_rgt"><a href="/Promotional-9--value-flyer-8843-ccp4197.htm">9" Value Flyer</a> <span>As low as $.65</span> 
-							<img src="/images/star.gif" alt="star" width="73" height="13"> </div>
-						</div>
-					</div>
-					</li>
-				
-			
-				
-				 	<li><a href="/ccc1377-promotional-tradeshow-giveaways-26-events.htm" class="">Tradeshow<br>&amp; Events</a>
-					<div class="megaSub menulast" style="display: none;">
-						<ul class="ul3">
-							<li class="menu_head">Tradeshow &amp; Events<a href="/ccc1377-promotional-tradeshow-giveaways-26-events.htm" class="viewall">view all</a></li>
-							
-								<li class="li3"> <a href="/ccc1450-promotional-badgeholders.htm" title="">
-									Badgeholders
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1451-promotional-lanyards.htm" title="">
-									Lanyards
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3526-promotional-napkins--plates-26-disposable-cups.htm" title="">
-									Napkins, Plates &amp; Disposable Cups
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1452-promotional-table-covers--banners-26-displays.htm" title="">
-									Table Covers, Banners &amp; Displays
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3554-promotional-name-badges-26-tags.htm" title="">
-									Name Badges &amp; Tags
-									</a> </li>
-							
-							
-						</ul>
-						<div class="menu_aids"> <a href="/Personalized-promotional-lanyard-with--split-ring-16339-ccp14916.htm"><img src="/objects/catalog/product/multiimages/14916/Black_Black/1_item_16339_black.jpg" width="50" height="50"></a>
-							<div class="aid_rgt"><a href="/Personalized-promotional-lanyard-with--split-ring-16339-ccp14916.htm">Promotional Lanyard with  Split Ring</a> <span>As low as $.60</span> 
-							<img src="/images/star.gif" alt="star" width="73" height="13"> </div>
-						</div>
-					</div>
-					</li>
-				
-			
-				
-				 	<li><a href="/ccc1380-promotional-writing.htm" class="single_line">Writing</a>
-					<div class="megaSub menulast" style="display: none;">
-						<ul class="ul3">
-							<li class="menu_head">Writing<a href="/ccc1380-promotional-writing.htm" class="viewall">view all</a></li>
-							
-								<li class="li3"> <a href="/ccc3355-promotional-plastic-pens.htm" title="">
-									Retractable Plastic Pens
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3648-promotional-plastic-stick-and-twist-pens.htm" title="">
-									Stick &amp; Twist Plastic Pens
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3338-promotional-bic-pens.htm" title="">
-									BIC Pens
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3356-promotional-metal-pens.htm" title="">
-									Metal Pens
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3357-promotional-laser-engraved-pens.htm" title="">
-									Laser Engraved Pens
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc3453-promotional-rollerball-26-gel-pens.htm" title="">
-									Rollerball &amp; Gel Pens
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1455-promotional-highlighters-26-markers.htm" title="">
-									Highlighters &amp; Markers
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1456-promotional-pencils.htm" title="">
-									Pencils
-									</a> </li>
-							
-								<li class="li3"> <a href="/ccc1458-promotional-writing-sets.htm" title="">
-									Writing Sets
-									</a> </li>
-							
-							
-						</ul>
-						<div class="menu_aids"> <a href="/Promotional-promotional-action-pens-14557-ccp10990.htm"><img src="/objects/catalog/product/multiimages/10990/_Gallery/1_Promotional-Action-Pens-50.jpg" width="50" height="50"></a>
-							<div class="aid_rgt"><a href="/Promotional-promotional-action-pens-14557-ccp10990.htm">Promotional Action Pens</a> <span>As low as $.19</span> 
-							<img src="/images/star.gif" alt="star" width="73" height="13"> </div>
-						</div>
-					</div>
-					</li>
-				
-			
 
 
 
-		<li><a href="/ccc0-catalog.htm" class="last">More<br>
-			Categories</a>
-			<div class="megaSub menulast" style="display: none;">
-				<ul class="ul3">
-					<li class="menu_head">More Categories<a href="/ccc0-catalog.htm" class="viewall">view all</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="mid-leftwrap">
+	<div class="emailbg-wrap">
+		<form name="MailingListForm" method="post" action="/customer/mailinglist.cz" onsubmit="return validateEmail(this.email.value);">
+			<input type="hidden" name="mailingListId" value="1000">
+			<div class="enteremail"> Enter your email address to<br>
+				receive deals and coupons.</div>
+			<div class="email_txt_bg">
+				<input name="email" type="text" class="input2" placeholder="Your email address">
+			</div>
+			<div class="submit-btn" align="center"> <a href="javascript:if(validateEmail(document.MailingListForm.email.value)) document.MailingListForm.submit();"></a> </div>
+		</form>
+	</div>
+	<!--Email Bg Wrap Ends-->
+	<div class="marginbottom8">
+		<!--listing starts-->
+		
+		
+		<div id="nav">
+			<div id="smoothmenu1">
+				<ul class="megamenu">
+					<li><a href="/ccc3419-promotional-promo-direct-deal-of-the-day.htm" class="darkred" style="border-top: none; background: none;">Deal of the Day</a></li>
 					
+						
+						<li><a href="/ccc1344-promotional-apparel.htm">Apparel</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">APPAREL<a href="/ccc1344-promotional-apparel.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc1365-promotional-t-shirts.htm" title="">
+										T-Shirts
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1363-promotional-polo-26-sport-shirts.htm" title="">
+										Polo &amp; Sport Shirts
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1364-promotional-sweatshirts.htm" title="">
+										Sweatshirts
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1361-promotional-caps-26-headwear.htm" title="">
+										Caps &amp; Headwear
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1362-promotional-jackets-26-windshirts.htm" title="">
+										Jackets &amp; Windshirts
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3505-promotional-ladies.htm" title="">
+										Ladies
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3337-promotional-dress-shirts.htm" title="">
+										Dress Shirts
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3480-promotional-athletic.htm" title="">
+										Athletic
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/Promotional-port-26-company-cotton-t-shirt-28white29-16611-ccp15658.htm"><img src="/objects/catalog/product/multiimages/15658/White_White/1_Promotional_items_16611_White.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/Promotional-port-26-company-cotton-t-shirt-28white29-16611-ccp15658.htm">Port &amp; Company Cotton T-Shirt (White)</a> <span>As low as $2.36</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
 					
-						<li class="li3"> <a href="/ccc1370-promotional-food-26-beverage.htm" title="">
-							Food &amp; Beverage
-							</a> </li>
+						
+						<li><a href="/ccc1366-promotional-auto---home-26-tools.htm">Auto, Home &amp; Tools</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">AUTO, HOME &amp; TOOLS<a href="/ccc1366-promotional-auto---home-26-tools.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc3521-promotional-key-lights.htm" title="">
+										Key Lights
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1382-promotional-flashlights.htm" title="">
+										Flashlights
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1384-promotional-plastic-key-chains-26-holders.htm" title="">
+										Plastic Key Chains &amp; Holders
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3520-promotional-metal-key-holders.htm" title="">
+										Metal Key Holders
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1383-promotional-household-items.htm" title="">
+										Household Items
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3450-promotional-kitchen-items.htm" title="">
+										Kitchen Items
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1385-promotional-tools.htm" title="">
+										Tools
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3451-promotional-tape-measures.htm" title="">
+										Tape Measures
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3440-promotional-pet-products.htm" title="">
+										Pet Products
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1381-promotional-auto-accessories.htm" title="">
+										Auto Accessories
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3452-promotional-frames.htm" title="">
+										Frames
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/Promotional-mini-flashlight-with-key-ring-5340-ccp4754.htm"><img src="/objects/catalog/product/multiimages/4754/Opaque White/1_item_5340_Opaque-White.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/Promotional-mini-flashlight-with-key-ring-5340-ccp4754.htm">Mini Flashlight with Key Ring</a> <span>As low as $1.25</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
+					
+						
+						<li><a href="/ccc1367-promotional-bags.htm">Bags</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">BAGS<a href="/ccc1367-promotional-bags.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc1392-promotional-non-woven-totes.htm" title="">
+										Non Woven Totes
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3515-promotional-shopping-26-grocery-totes.htm" title="">
+										Shopping &amp; Grocery Totes
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3516-promotional-cotton-26-polyester-totes.htm" title="">
+										Cotton &amp; Polyester Totes
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1387-promotional-drawstring-sport-packs.htm" title="">
+										Drawstring Sport Packs
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3517-promotional-backpacks.htm" title="">
+										Backpacks
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3341-promotional-cooler-bags-and-coolers.htm" title="">
+										Cooler Bags &amp; Coolers
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3518-promotional-lunch-bags-26-sacks.htm" title="">
+										Lunch Bags &amp; Sacks
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1390-promotional-plastic-bags.htm" title="">
+										Plastic Bags
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3503-promotional-paper-bags.htm" title="">
+										Paper Bags
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3519-promotional-laptop-26-tablet-bags.htm" title="">
+										Laptop &amp; Tablet Bags
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1386-promotional-messenger-bags-26-briefcases.htm" title="">
+										Messenger Bags &amp; Briefcases
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1389-promotional-sport-26-duffle-bags.htm" title="">
+										Sport &amp; Duffle Bags
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3485-promotional-travel-bags.htm" title="">
+										Travel Bags
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3501-promotional-travel-wallets.htm" title="">
+										Travel Wallets
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3354-promotional-luggage-tags-26-travel-items.htm" title="">
+										Luggage Tags &amp; Travel Items
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/fit-your-budget-6-pack---closeout-17452-ccp18510.htm"><img src="/objects/catalog/product/multiimages/18510/Hunter Green/1_item_17452_hunter.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/fit-your-budget-6-pack---closeout-17452-ccp18510.htm">Fit Your Budget 6 Pack - Closeout</a> <span>As low as $1.79</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
+					
+						
+						<li><a href="/ccc1368-promotional-calendars.htm">Calendars</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">CALENDARS<a href="/ccc1368-promotional-calendars.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc1394-promotional-stick-up-26-magnetic-calendars.htm" title="">
+										Stick-Up &amp; Magnetic Calendars
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1395-promotional-wall-calendars.htm" title="">
+										Wall Calendars
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1393-promotional-desk-calendars.htm" title="">
+										Desk Calendars
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1396-promotional-weekly-26-monthly-planners.htm" title="">
+										Weekly &amp; Monthly Planners
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3553-promotional-calendar-greeting-cards.htm" title="">
+										Calendar Greeting Cards
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/Custom-stick-up-calendars-28rectangle-shape29-2583rt-ccp5752.htm"><img src="/objects/catalog/product/multiimages/5752/Gallery/1_2583rt-g50.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/Custom-stick-up-calendars-28rectangle-shape29-2583rt-ccp5752.htm">Stick-Up Calendars (Rectangle Shape)</a> <span>As low as $.41</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
+					
+						
+						<li><a href="/ccc1370-promotional-food-26-beverage.htm">Candy, Food &amp; Water</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">CANDY, FOOD &amp; WATER<a href="/ccc1370-promotional-food-26-beverage.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc3667-promotional-candy.htm" title="">
+										Candy
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3676-promotional-candy-jars.htm" title="">
+										Candy Jars
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3674-promotional-cheese-26-meats.htm" title="">
+										Cheese &amp; Meats
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3668-promotional-chocolate.htm" title="">
+										Chocolate
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3669-promotional-cookies.htm" title="">
+										Cookies
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3670-promotional-gum.htm" title="">
+										Gum
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3675-promotional-individually-wrapped.htm" title="">
+										Individually Wrapped
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3671-promotional-mints.htm" title="">
+										Mints
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3672-promotional-nuts-26-pretzels.htm" title="">
+										Nuts &amp; Pretzels
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3673-promotional-popcorn.htm" title="">
+										Popcorn
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3677-promotional-tins.htm" title="">
+										Tins
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3678-promotional-water-26-beverages.htm" title="">
+										Water &amp; Beverages
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/buttermints-0131-ccp4693.htm"><img src="/objects/catalog/product/multiimages/4693/White Wrapper/1_item_131_white.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/buttermints-0131-ccp4693.htm">Buttermints</a> <span>As low as $54.54</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
+					
+						
+						<li><a href="/ccc1369-promotional-drinkware.htm">Drinkware</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">DRINKWARE<a href="/ccc1369-promotional-drinkware.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc3514-promotional-cups-26-tumblers-with-straws.htm" title="">
+										Cups &amp; Tumblers with Straws
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1402-promotional-plastic-travel-mugs-26-tumblers.htm" title="">
+										Plastic Travel Mugs &amp; Tumblers
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3513-promotional-stainless-travel-mugs-26-tumblers.htm" title="">
+										Stainless Travel Mugs &amp; Tumblers
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1397-promotional-aluminum-and-steel-bottles.htm" title="">
+										Aluminum &amp; Steel Bottles
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1399-promotional-ceramic-mugs.htm" title="">
+										Ceramic Mugs
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1401-promotional-sport-bottles.htm" title="">
+										Sport Bottles 
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3502-promotional-plastic-cups.htm" title="">
+										Plastic Cups
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1398-promotional-can-26-bottle-holders.htm" title="">
+										Can &amp; Bottle Holders
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3486-promotional-thermos-26-vacuum-bottles.htm" title="">
+										Thermos &amp; Vacuum Bottles
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3418-promotional-glassware.htm" title="">
+										Glassware
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3557-promotional-paper-26-foam-cups.htm" title="">
+										Paper &amp; Foam Cups
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/Promotional-koozie-collapsible-can-holder--3358r-ccp5864.htm"><img src="/objects/catalog/product/multiimages/5864/Pink_Pink/1_item_3358R_pink.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/Promotional-koozie-collapsible-can-holder--3358r-ccp5864.htm">Koozie Collapsible Can Holder</a> <span>As low as $.74</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
+					
+						
+						<li><a href="/ccc1371-promotional-health-and-personal-care.htm">Health &amp; Personal Care</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">HEALTH &amp; PERSONAL CARE<a href="/ccc1371-promotional-health-and-personal-care.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc1407-promotional-hand-sanitizers-and-lotions.htm" title="">
+										Hand Sanitizers &amp; Lotions
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1406-promotional-bandage-dispensers-and-first-aid.htm" title="">
+										Bandage Dispensers &amp; First Aid
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1413-promotional-lip-balm-and-sun-protection.htm" title="">
+										Lip Balm &amp; Sun Protection
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1412-promotional-stress-balls-and-stress-relievers.htm" title="">
+										Stress Balls &amp; Stress Relievers
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3524-promotional-educational-guides-26-books.htm" title="">
+										Educational Guides &amp; Books
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3476-promotional-awareness-bracelets.htm" title="">
+										Awareness Bracelets
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1410-promotional-pill-boxes.htm" title="">
+										Pill Boxes
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1409-promotional-pedometers.htm" title="">
+										Pedometers
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3471-promotional-personal-care.htm" title="">
+										Personal Care
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3469-promotional-mirrors.htm" title="">
+										Mirrors
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3470-promotional-oral-care.htm" title="">
+										Oral Care
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3479-promotional-fitness-26-spa.htm" title="">
+										Fitness &amp; Spa
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1408-promotional-health-related-items.htm" title="">
+										Health Related Items
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/Custom-hand-sanitizer-spray-pump-14350-ccp10379.htm"><img src="/objects/catalog/product/multiimages/10379/Black_Black/1_item_item_14350__black.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/Custom-hand-sanitizer-spray-pump-14350-ccp10379.htm">Hand Sanitizer Spray Pump</a> <span>As low as $.65</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
+					
+						
+						<li><a href="/ccc1372-promotional-office.htm">Office</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">OFFICE<a href="/ccc1372-promotional-office.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc1420-promotional-magnets.htm" title="">
+										Magnets
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1415-promotional-clips-26-holders.htm" title="">
+										Clips &amp; Holders
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1417-promotional-desk-accessories.htm" title="">
+										Desk Accessories
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1416-promotional-clocks.htm" title="">
+										Clocks
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3666-promotional-watches.htm" title="">
+										Watches
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1423-promotional-business-gifts.htm" title="">
+										Business Gifts
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3694-promotional-awards-26-recognition.htm" title="">
+										Awards &amp; Recognition
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3441-promotional-epoxy-dome-products.htm" title="">
+										Epoxy Dome Products
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1419-promotional-letter-slitters-26-openers.htm" title="">
+										Letter Slitters &amp; Openers
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1421-promotional-rulers-26-magnifiers.htm" title="">
+										Rulers &amp; Magnifiers
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3487-promotional-bookmarks-26-booklights.htm" title="">
+										Bookmarks &amp; Booklights
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3556-promotional-stickers--labels-26-decals.htm" title="">
+										Stickers, Labels &amp; Decals
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3693-promotional-boxes-packaging.htm" title="">
+										Boxes/Packaging
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/Custom-desk-in-a-box-14344r-ccp10366.htm"><img src="/objects/catalog/product/multiimages/10366/Blue_Translucent Blue/1_promotional_items-_14344R_blue.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/Custom-desk-in-a-box-14344r-ccp10366.htm">Desk in a Box</a> <span>As low as $2.30</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
+					
+						
+						<li><a href="/ccc1373-promotional-outdoor-26-leisure.htm">Outdoor &amp; Leisure</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">OUTDOOR &amp; LEISURE<a href="/ccc1373-promotional-outdoor-26-leisure.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc1424-promotional-blankets-26-mats.htm" title="">
+										Blankets &amp; Mats
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1428-promotional-umbrellas.htm" title="">
+										Umbrellas
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3491-promotional-towels.htm" title="">
+										Towels
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3489-promotional-bbq-26-picnic.htm" title="">
+										BBQ &amp; Picnic
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3467-promotional-sunglasses.htm" title="">
+										Sunglasses
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3490-promotional-team-26-school-spirit.htm" title="">
+										Team &amp; School Spirit
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1425-promotional-chairs.htm" title="">
+										Chairs
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3512-promotional-golf-balls.htm" title="">
+										Golf Balls
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3511-promotional-golf-tees--packs-26-towels.htm" title="">
+										Golf Tees, Packs &amp; Towels
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1427-promotional-golf-related-items.htm" title="">
+										Golf Related Items
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3695-promotional-hand-fans.htm" title="">
+										Hand Fans
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/Custom-promotional-sunglasses-17144-ccp17127.htm"><img src="/objects/catalog/product/multiimages/17127/Black/1_item_17144_black.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/Custom-promotional-sunglasses-17144-ccp17127.htm">Promotional Sunglasses</a> <span>As low as $.80</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
+					
+						
+						<li><a href="/ccc1375-promotional-stationery-26-folders.htm">Stationery &amp; Folders</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">STATIONERY &amp; FOLDERS<a href="/ccc1375-promotional-stationery-26-folders.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc3509-promotional-bic-sticky-notes.htm" title="">
+										BIC Sticky Notes
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3508-promotional-post-it-notes.htm" title="">
+										Post-it Notes
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3510-promotional-notepads--cubes-26-flags.htm" title="">
+										Notepads, Cubes &amp; Flags
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1435-promotional-padfolios-26-portfolios.htm" title="">
+										Padfolios &amp; Portfolios
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1436-promotional-jotter-pads.htm" title="">
+										Jotter Pads
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1439-promotional-notebooks-26-journals.htm" title="">
+										Notebooks &amp; Journals
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3488-promotional-business-card-holders.htm" title="">
+										Business Card Holders
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3492-promotional-binders.htm" title="">
+										Binders
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3493-promotional-document-holders.htm" title="">
+										Document Holders
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3525-promotional-greeting-cards.htm" title="">
+										Greeting Cards
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3522-promotional-presentation-folders-26-marketing-materials.htm" title="">
+										Presentation Folders &amp; Marketing Materials
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3555-promotional-signs-26-posters.htm" title="">
+										Signs &amp; Posters
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/custom-bicae-4--x-3--notepads-25-sheets-3243-ccp4346.htm"><img src="/objects/catalog/product/multiimages/4346/White_White Paper/1_500_item_3243_White.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/custom-bicae-4--x-3--notepads-25-sheets-3243-ccp4346.htm">Bic® 4" x 3" Notepads 25 Sheets</a> <span>As low as $.25</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
+					
+						
+						<li><a href="/ccc1376-promotional-technology-26-electronics.htm">Technology &amp; Electronics</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">TECHNOLOGY &amp; ELECTRONICS<a href="/ccc1376-promotional-technology-26-electronics.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc1444-promotional-usb-flash-drives.htm" title="">
+										USB Flash Drives
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3477-promotional-bags-26-cases.htm" title="">
+										Bags &amp; Cases
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3495-promotional-chargers.htm" title="">
+										Power Banks &amp; Chargers
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1443-promotional-computer-mice-26-mouse-pads.htm" title="">
+										Computer Mice &amp; Mouse Pads
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3478-promotional-phone-26-media-stands.htm" title="">
+										Phone &amp; Media Stands
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1441-promotional-calculators.htm" title="">
+										Calculators
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1442-promotional-technology-accessories.htm" title="">
+										Technology Accessories
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3494-promotional-laser-pointers-26-styluses.htm" title="">
+										Laser Pointers &amp; Styluses
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3496-promotional-usb-hubs-26-gadgets.htm" title="">
+										USB Hubs &amp; Gadgets
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3497-promotional-music-26-audio.htm" title="">
+										Music &amp; Audio
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/Promotional-matrix-swivel-usb-drive--1gb-17153-ccp17536.htm"><img src="/objects/catalog/product/multiimages/17536/Black/1_item_17153_black.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/Promotional-matrix-swivel-usb-drive--1gb-17153-ccp17536.htm">Matrix Swivel USB Drive  1GB</a> <span>As low as $3.17</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
+					
+						
+						<li><a href="/ccc1379-promotional-toys-26-novelties.htm">Toys &amp; Novelties</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">TOYS &amp; NOVELTIES<a href="/ccc1379-promotional-toys-26-novelties.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc1445-promotional-balloons.htm" title="">
+										Balloons
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3475-promotional-coloring-books-26-crayons.htm" title="">
+										Coloring Books &amp; Crayons
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1447-promotional-flyers.htm" title="">
+										Flyers
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1448-promotional-fun-26-games.htm" title="">
+										Fun &amp; Games
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3506-promotional-piggy-26-money-banks.htm" title="">
+										Piggy &amp; Money Banks
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1449-promotional-soft-toys-26-stuffed-animals.htm" title="">
+										Soft Toys &amp; Stuffed Animals
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/Promotional-9--value-flyer-8843-ccp4197.htm"><img src="/objects/catalog/product/multiimages/4197/Black/1_item_8843_black.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/Promotional-9--value-flyer-8843-ccp4197.htm">9" Value Flyer</a> <span>As low as $.71</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
+					
+						
+						<li><a href="/ccc1377-promotional-tradeshow-giveaways-26-events.htm">Tradeshow &amp; Events</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">TRADESHOW &amp; EVENTS<a href="/ccc1377-promotional-tradeshow-giveaways-26-events.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc1450-promotional-badgeholders.htm" title="">
+										Badgeholders
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1451-promotional-lanyards.htm" title="">
+										Lanyards
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3526-promotional-napkins--plates-26-disposable-cups.htm" title="">
+										Napkins, Plates &amp; Disposable Cups
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1452-promotional-table-covers--banners-26-displays.htm" title="">
+										Table Covers, Banners &amp; Displays
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3554-promotional-name-badges-26-tags.htm" title="">
+										Lapel Pins &amp; Name Badges/Tags
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/Personalized-promotional-lanyard-with--split-ring-16339-ccp14916.htm"><img src="/objects/catalog/product/multiimages/14916/Black_Black/1_item_16339_black.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/Personalized-promotional-lanyard-with--split-ring-16339-ccp14916.htm">Promotional Lanyard with  Split Ring</a> <span>As low as $.60</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
+					
+						
+						<li><a href="/ccc1380-promotional-writing.htm">Writing</a>
+							<ul class="ul3 megaSub">
+								<li class="menu_head">WRITING<a href="/ccc1380-promotional-writing.htm" class="viewall">view all</a></li>
+								
+									<li class="li3"> <a href="/ccc3355-promotional-plastic-pens.htm" title="">
+										Retractable Plastic Pens
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3648-promotional-plastic-stick-and-twist-pens.htm" title="">
+										Stick &amp; Twist Plastic Pens
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3338-promotional-bic-pens.htm" title="">
+										BIC Pens
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3356-promotional-metal-pens.htm" title="">
+										Metal Pens
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3357-promotional-laser-engraved-pens.htm" title="">
+										Laser Engraved Pens
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc3453-promotional-rollerball-26-gel-pens.htm" title="">
+										Rollerball &amp; Gel Pens
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1455-promotional-highlighters-26-markers.htm" title="">
+										Highlighters &amp; Markers
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1456-promotional-pencils.htm" title="">
+										Pencils
+										</a> </li>
+								
+									<li class="li3"> <a href="/ccc1458-promotional-writing-sets.htm" title="">
+										Writing Sets
+										</a> </li>
+								
+								<li class="floatclear"></li>
+								<li class="lastcat">
+									<div class="menu_aids"><a href="/Promotional-promotional-action-pens-14557-ccp10990.htm"><img src="/objects/catalog/product/multiimages/10990/_Gallery/1_Promotional-Action-Pens-50.jpg" width="50" height="50"></a>
+										<div class="aid_rgt"> <a href="/Promotional-promotional-action-pens-14557-ccp10990.htm">Promotional Action Pens</a> <span>As low as $.18</span> <img src="/images/star.gif" alt="star" width="73" height="13"> </div>
+									</div>
+								</li>
+							</ul>
+						</li>
+					
+					<li><a href="/ccc0-catalog.htm" class="last single_line darkred">See All Categories</a> </li>
+					
 						
 						
+							<li> <a class="single_line" href="/ccc9-promotional-on-sale-products.htm" title="">
+								ON-SALE Items
+								</a> </li>
 						
+						
+					
+						
+						
+							<li> <a class="single_line" href="/ccc3359-promotional-free-24-hour-items.htm" title="">
+								FREE 24 Hour Items
+								</a> </li>
+						
+						
+					
+						
+						
+							<li> <a class="single_line" href="/ccc3413-promotional-free-set-up-promotional-items.htm" title="">
+								FREE Set-Up Items
+								</a> </li>
+						
+						
+					
+						
+						
+							<li> <a class="single_line" href="/ccc3665-promotional-free-shipping.htm" title="">
+								FREE Shipping Items
+								</a> </li>
+						
+						
+					
+						
+						
+							<li> <a class="single_line" href="/ccc3664-promotional-bic-products.htm" title="">
+								BIC Products
+								</a> </li>
+						
+						
+					
+						
+						
+							<li> <a class="single_line" href="/ccc3679-promotional-full-color-printed-items.htm" title="">
+								Full Color Printed Items
+								</a> </li>
+						
+						
+					
+						
+						
+							<li> <a class="single_line" href="/ccc3483-promotional-new-products.htm" title="">
+								New Products
+								</a> </li>
+						
+						
+					
+						
+						
+							<li> <a class="single_line" href="/ccc3649-promotional-trending-now.htm" title="">
+								Trending Now
+								</a> </li>
+						
+						
+					
+						
+						
+							<li> <a class="single_line" href="/ccc3358-promotional-factory-direct-pricing.htm" title="">
+								Factory Direct Pricing
+								</a> </li>
+						
+						
+					
 						
 						
 						
 					
-					
-					
-						<li class="li3"> <a href="/ccc9-promotional-on-sale-products.htm" title="">
-							On-Sale Products
-							</a> </li>
-						
-						
-						
-						
-						
 						
 					
-					
-					
-						<li class="li3"> <a href="/ccc3665-promotional-free-shipping.htm" title="">
-							FREE Shipping
-							</a> </li>
-						
-						
-						
-						
-						
-						
-					
-					
-					
-						<li class="li3"> <a href="/ccc3358-promotional-factory-direct-pricing.htm" title="">
-							Factory Direct Pricing
-							</a> </li>
-						
-						
-						
-						
-						
-						
-					
-					
-					
-						<li class="li3"> <a href="/ccc3359-promotional-free-24-hour-service.htm" title="">
-							FREE 24 Hour Service
-							</a> </li>
-						
-						
-						
-						
-						
-						
-					
-					
-					
-						<li class="li3"> <a href="/ccc3664-promotional-bic-products.htm" title="">
-							BIC Products
-							</a> </li>
-						
-						
-						
-						
-						
-						
-					
-					
-					
-						<li class="li3"> <a href="/ccc3483-promotional-new-products.htm" title="">
-							New Products
-							</a> </li>
-						
-						
-						
-						
-						
-						
-					
-					
-					
-						<li class="li3"> <a href="/ccc100-promotional-promo-direct-shops.htm" title="">
-							PD Specialty Stores
-							</a> </li>
-						
-						
-						
-						
-						
-						
-					
-					
-					
-					
-					
-						<li class="li3"> <a href="/ccc3649-promotional-trending-now.htm" title="">
-							Trending Now
-							</a> </li>
-						
-						
-						
-						
-						
-						
-					
-										
+					<li> <a class="single_line" href="/misc/promo-direct-coupons.jsp" title="Promo Direct Coupons">
+								Promo Direct Coupons
+						</a> </li>
 				</ul>
-				<div align="center">
-					<span><img src="/images/morecategorydropdownimg.jpg" style="padding-top:15px;" alt="" title="" width="205" height="71">
-					</span> </div>
 			</div>
-		</li>
-	</ul>
+		</div>
+		<div class="follow_us">
+			<p style="display:none;"><a href="http://blog.promodirect.com/">Visit Our Blog</a> <a href="/s/promotional-ideas/index.htm">Visit Our Idea Center</a> </p>
+			<a rel="nofollow" href="http://pinterest.com/promodirect"><img width="21" height="20" src="/images/pinterest-home.gif" alt="pinterest"></a> 
+			<a rel="nofollow" href="http://www.youtube.com/PromoDirectVideos"><img width="20" height="20" src="/images/you-tube.gif" alt="you-tube"></a> 
+			<a rel="nofollow" href="http://www.facebook.com/PromoDirect"><img width="22" height="20" src="/images/fb_ico.gif" alt="Facebook"></a> 
+			<a rel="nofollow" href="https://twitter.com/promodirect"><img width="22" height="20" src="/images/twt_ico.gif" alt="Twitter"></a> 
+			<a rel="nofollow" href="http://www.linkedin.com/company/promodirect"><img width="21" height="20" src="/images/link_ico.gif" alt="Linkedin"></a> 
+			<a rel="nofollow" href="https://plus.google.com/+PromodirectUSA"><img width="29" height="19" src="/images/goog_ico.gif" alt="Google Plus"></a> </div>
+		<div class="floatclear"> </div>
+		<span class="promodirectshops-hd">Promo Direct Shops</span>
+		<ul class="ul2">
+			
+			
+				<li class="li2"> <a href="/ccc3559-promotional-promo-direct-s-new-special-offers.htm" title="">
+					Promo Direct's New Offers
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3402-promotional-apparel-and-caps-collection.htm" title="">
+					Apparel &amp; Caps Collection
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3403-promotional-automotive-promotional-items.htm" title="">
+					Automotive Products
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3561-promotional-community-and-family-activities.htm" title="">
+					Community &amp; Family
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3560-Unique-Corporate-gifts.htm" title="">
+					Corporate Gifts
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3404-promotional-eco-friendly-promotional-items.htm" title="">
+					Eco-Friendly Promotional Items
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3562-promotional-for-the-home.htm" title="">
+					For the Home
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3563-promotional-having-fun.htm" title="">
+					Having Fun
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3564-promotional-human-resource-promotions.htm" title="">
+					Human Resource Promotions
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3565-promotional-items-by-color.htm" title="">
+					Items by Color
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3536-promotional-items-by-industry.htm" title="">
+					Items By Industry
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3566-promotional-items-by-shape.htm" title="">
+					Items by Shape
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3504-promotional-koozie-promotional-products.htm" title="">
+					Koozie Promotional Products
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3567-promotional-ladies-boutique.htm" title="">
+					Ladies Boutique
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3405-promotional-low-minimum-promotional-products.htm" title="">
+					Low Minimum Promotional Products
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3568-promotional-marketing-materials.htm" title="">
+					Marketing Materials
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3416-most-popular-promotional-items-and-best-giveaways.htm" title="">
+					Most Popular Promotional Items
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3569-promotional-items-for-children.htm" title="">
+					Promotional Items for Children
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3406-promotional-items-for-education.htm" title="">
+					Promotional Items for Education
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3407-promotional-items-for-government-and-marketing.htm" title="">
+					Promotional Items for Government
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3408-healthcare-promotional-products.htm" title="">
+					Promotional Items for Healthcare
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3570-promotional-items-for-men.htm" title="">
+					Promotional Items for Men
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3419-promotional-promo-direct-deal-of-the-day.htm" title="">
+					Promo Direct Deal of the Day
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3420-promotional-seasonal-occurrences-26-events.htm" title="">
+					Seasonal Occurrences &amp; Events
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3571-promotional-sport-themed-giveaways.htm" title="">
+					Sport Themed Giveaways
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3409-promotional-technology-promotional-products.htm" title="">
+					Technology Promotional Products
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3410-promotional-tradeshow-convention-giveaways.htm" title="">
+					Tradeshow &amp; Conventions
+					</a> </li>
+			
+				<li class="li2"> <a href="/ccc3411-promotional-usa-made-promotional-products.htm" title="">
+					USA Made Promotional Products
+					</a> </li>
+			
+			<li class="li2"><a href="/ccc100-promotional-promo-direct-shops.htm" style="color: #d31920 !important">View All Shops</a></li>
+		</ul>
+		
+		
+		
+		
+		
+		
+		<div class="testi-heading">Customer Testimonials</div>
+		
+		<p class="testi_txt">"Chic shirts! My Girls loved them.  
+" <span>-Ralph, Mesa</span></p>
+		
+		<p class="testi_txt">"We associate our brand with these beanies. 
+" <span>-Alex, Aurora</span></p>
+		
+		<p class="testi_txt">"A worthy buy.
+" <span>-Macy T., Santa Fe</span></p>
+		
+		<div class="view_test"><a href="/misc/testimonials.jsp">View More Testimonials</a>
+		</div>
+		
+		
+		
+		
+	</div>
+	
+	
+	
 </div>
-<div class="floatclear"></div>
-
-
-<div class="floatclear"></div>
-				
-    
-<div id="mid-wrap" class="marginbottom20">
-  	 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		<div id="mid-leftwrap">
-        <div class="emailbg-wrap">
-					<form name="MailingListForm" method="post" action="/customer/mailinglist.cz" onsubmit="return validateEmail(this.email.value);">
-					<input type="hidden" name="mailingListId" value="1000">
-          <div class="enteremail">Enter your email address to<br>
-            receive deals and coupons.</div>
-          <div class="email_txt_bg">
-            <input type="text" class="input2" style="color:#000000;" name="email" value="Your email address" onfocus="if (this.value == 'Your email address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Your email address';}">
-          </div>
-          <div class="submit-btn" align="center"><a href="javascript:if(validateEmail(document.MailingListForm.email.value)) document.MailingListForm.submit();"></a></div>
-					</form>
-
-        </div>
-        <!--Email Bg Wrap Ends--> 
-        
-        <div class="dealof">
-        <a href="/ccc3419-promotional-promo-direct-deal-of-the-day.htm">
-        	<img alt="dealof" src="/images/Deal-Of-the-Day.jpg">
-        </a>
-        </div>
-        
-        
-        <!--<div class="off"><img src="/images/off_banner.gif" alt="10% Off on First Order" /></div>-->
-        <div id="promolinks-wrap">
-          <div class="promo-heading">Top Offers</div>
-          <ul class="quick_links">
-            <li><a href="/ccc9-promotional-on-sale-products.htm">
-							<img src="/images/quick_ico1.gif" width="26" height="22" alt="Grow your Business with  Promodirect's On Sale Promotional Products">On-Sale Products</a></li>
-            
-            
-            
-            <li><a href="/ccc3665-promotional-free-shipping.htm"><div class="offer_img"><img width="30" height="30" alt="Huge discounts on Overstock &amp; Closeout promotional products at Promodirect. Hurry!" src="/images/free-ship.png"></div>
-            <div class="offer_txt">FREE Shipping</div>
-            <div class="floatclear"></div></a></li>
-            
-            
-            <li><a href="/ccc3664-promotional-bic-products.htm"><div class="offer_img"><img width="35" height="22" alt="Most popular Hot Promotional Products at Promodirect.com" src="/images/bic.png"></div>
-            <div class="offer_txt">BIC Products</div>
-            <div class="floatclear"></div></a></li>
-            
-            
-            
-            <li><a href="/ccc3649-promotional-trending-now.htm">
-							<img src="/images/trending_now.png" width="26" height="22" alt="Trending Now">Trending Now</a></li>
-           
-            <li><a href="/ccc3413-promotional-free-set-up-promotional-items.htm">
-							<img src="/images/quick_ico5.gif" width="26" height="22" alt="Free Set Up Promotional Items - No setup charges... Save up to $55!">FREE Set-Up Items</a></li>
-            <li><a href="/ccc3359-promotional-free-24-hour-service.htm">
-							<img src="/images/quick_ico4.gif" width="26" height="22" alt="Free 24 hour services on 24 hour Promotional Products &amp; Items">FREE 24 Hour Service</a></li>
-            <li><a href="/ccc3483-promotional-new-products.htm">
-							<img src="/images/quick_ico6.gif" width="26" height="22" alt="New Promotional Products - New ideas to promote your business">New Products</a></li>
-          </ul>
-        </div>
-        <!--promolinks-wrap Ends-->
-        <div class="catalog-banner"><a href="/misc/catalog_request.jsp"></a></div>
-        <!--Low Price Guarantee-->
-				<div class="blogcon">  <span class="promodirectshops-hd">Blog &amp; Connect</span>
-					<p>Connect with us and get
-						marketing tips to enhance
-						and build your brand.</p>
-						</div>
-				<div class="follow_us"> <p> <a href="http://blog.promodirect.com/">Visit Our Blog</a> <a href="/s/promotional-ideas/index.htm">Visit Our Idea Center</a> </p>
-				<a rel="nofollow" href="http://pinterest.com/promodirect"><img src="/images/pinterest-home.gif" width="21" height="20" alt="pinterest"></a> 
-				<a rel="nofollow" href="http://www.youtube.com/PromoDirectVideos"><img src="/images/you-tube.gif" width="20" height="20" alt="you-tube"></a> 
-				<a rel="nofollow" href="http://www.facebook.com/PromoDirect"><img src="/images/fb_ico.gif" width="22" height="20" alt="Facebook"></a> 
-				<a rel="nofollow" href="https://twitter.com/promodirect"><img src="/images/twt_ico.gif" width="22" height="20" alt="Twitter"></a> 
-				<a rel="nofollow" href="http://www.linkedin.com/company/promodirect"><img src="/images/link_ico.gif" width="21" height="20" alt="Linkedin"></a> 
-				<a rel="nofollow" href="https://plus.google.com/114488897843657241528"><img src="/images/goog_ico.gif" width="29" height="19" alt="Google Plus"></a> </div>
-        <!--deal-banner Ends-->
-        
-				
-				<div class="marginbottom8"><!--listing starts--> 
-          <span class="pdspecialty-hd">PD Specialty Shops</span>
-          <ul class="ul2">
-						
-						
-						<li class="li2">
-							<a href="/ccc3559-promotional-promo-direct-s-new-special-offers.htm" title=""> 
-								Promo Direct's New Offers
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3402-promotional-apparel-and-caps-collection.htm" title=""> 
-								Apparel &amp; Caps Collection
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3403-promotional-automotive-promotional-items.htm" title=""> 
-								Automotive Promotional Items
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3560-Unique-Corporate-gifts.htm" title=""> 
-								Corporate Gifts
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3562-promotional-for-the-home.htm" title=""> 
-								For the Home
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3413-promotional-free-set-up-promotional-items.htm" title=""> 
-								Free Set Up Promotional Items
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3564-promotional-human-resource-promotions.htm" title=""> 
-								Human Resource Promotions
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3404-promotional-eco-friendly-promotional-items.htm" title=""> 
-								Eco-Friendly Promotional Items
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3565-promotional-items-by-color.htm" title=""> 
-								Items by Color
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3536-promotional-items-by-industry.htm" title=""> 
-								Items By Industry
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3566-promotional-items-by-shape.htm" title=""> 
-								Items by Shape
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3568-promotional-marketing-materials.htm" title=""> 
-								Marketing Materials
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3416-most-popular-promotional-items-and-best-giveaways.htm" title=""> 
-								Most Popular Promotional Items
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3406-promotional-items-for-education.htm" title=""> 
-								Promotional Items for Education
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3408-healthcare-promotional-products.htm" title=""> 
-								Promotional Items for Healthcare
-							</a>
-						</li>
-						
-						<li class="li2">
-							<a href="/ccc3420-promotional-seasonal-occurrences-26-events.htm" title=""> 
-								Seasonal Occurrences &amp; Events
-							</a>
-						</li>
-						
-					
-          </ul>
-				</div>
-				
-				
-        <div class="view_test"><a href="/ccc100-promotional-promodirect-shop.htm">View All Shops</a></div>
-        <!-- listing ends--> 
-				
-				
-				<div class="testi-heading">Customer Testimonials</div>
-				
-				<p class="testi_txt">"Everyone who received these calendars appreciated it quality and look. 
-" <span>-Brain D., Salt Lake City</span></p>
-				
-				<p class="testi_txt">"The flashlights have done a good job of illuminating our brand! We have got more visibility because of these bags! 
-" <span>-Honey V., Youngstown</span></p>
-				
-				<p class="testi_txt">"Will gladly recommend the Dog Tag Keychain  to others. Gave away 200 of these recently.
-" <span>-Kelly T., Phoenix </span></p>
-				
-				<div class="view_test"><a href="/misc/testimonials.jsp">View More Testimonials</a>
-				</div>
-				
-				
-				<div class="deals-week">
-				
-				
-				<a href="/misc/low_price.jsp"><img src="/images/deals-week.gif" alt="Buy Promo Direct" width="191" height="452" border="0"></a>
-				
-				
-				
-				
-        </div>
-        
-				
-			</div>
-      
-      
-
-		<script language="javascript" type="text/javascript">
+<script language="javascript" type="text/javascript">
 			function validateEmail(email) {		
 				var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
 				if(reg.test(email) == false) {
@@ -1254,6 +1365,9 @@ l2s_load();  document.getElementById('l2s_trk').style.visibility='hidden'; //-->
 				
 			}
 		</script>
+
+		
+
 		 
 		 <!--mid-leftwrap ends-->
     <div id="mid-rightwrap">
@@ -1306,201 +1420,110 @@ Promo Direct will not give or sell any information you provided to any third par
         </div><!--mid-rightwrap Ends-->
 
     <div class="floatclear"></div>
-  </div>
-    <!--Midwrap Ends-->
-  </div>
 
-	
-<div class="btmlink">
-  <div class="leftwrap">
-    <div class="hottestsearch-banner margin-auto">CURRENT HOTTEST SEARCHES</div>
-    <div class="floatleft footerlinks-margin1"><a class="footerlink" href="/ccc1364-promotional-sweatshirts.htm">sweatshirts</a><br><a class="footerlink" href="/ccc1362-promotional-jackets-26-windshirts.htm">jackets</a><br><a class="footerlink" href="/ccc3503-promotional-paper-bags.htm">paper bags</a><br><a class="footerlink" href="/ccc3491-promotional-towels.htm">towels</a><br><a class="footerlink" href="/ccc3469-promotional-mirrors.htm">mirrors</a><br><a class="footerlink" href="/ccc3486-promotional-thermos-26-vacuum-bottles.htm">thermos</a></div><!--Div 1 ends-->
-<div class="floatleft footerlinks-margin"><a class="footerlink" href="/ccc1444-promotional-usb-flash-drives.htm">usb</a><br><a class="footerlink" href="/ccc1447-promotional-flyers.htm">flyers</a><br><a class="footerlink" href="/ccc3666-promotional-watches.htm">watches</a><br><a class="footerlink" href="/ccc1365-promotional-t-shirts.htm">t-shirts</a><br><a class="footerlink" href="/ccc3495-promotional-chargers.htm">chargers</a><br><a class="footerlink" href="/ccc3356-promotional-metal-pens.htm">pens</a></div><!--Div 2 ends-->
-<div class="floatleft footerlinks-margin"><a class="footerlink" href="/ccc3492-promotional-binders.htm">binders</a><br><a class="footerlink" href="/ccc1399-promotional-ceramic-mugs.htm">ceramic mugs</a><br><a class="footerlink" href="/ccc1402-promotional-plastic-travel-mugs-26-tumblers.htm">tumblers</a><br><a class="footerlink" href="/ccc3506-promotional-piggy-26-money-banks.htm">piggy bank</a><br><a class="footerlink" href="/ccc3492-promotional-binders.htm">binders</a><br><a class="footerlink" href="/ccc1407-promotional-hand-sanitizers-and-lotions.htm">sanitizers</a></div>
-    <!--Div 3 ends-->
-    <!--Div 3 ends-->
-  </div>
-  <div class="footer-list-wrap padding-left-right">
-<div class="footer-italic-head">Product Ordering</div>
-<ul>
-<li><a href="/customer/myaccount.jsp">My Account</a></li>
-<li><a href="/misc/promodirect_faqs.jsp">Ordering FAQs</a></li>
-<li><a href="/ontimedelivery.jsp">On Time Shipment</a></li>
-<li><a href="/misc/order_info.jsp">Ordering Information</a></li>
-<li><a href="/misc/setupcharges.jsp">Set-up Charges</a></li>
-<li><a href="/objects/Apparel Size Chart.pdf" target="_blank">Apparel Size Chart</a></li>
-<li><a href="/objects/PMS Color Chart.pdf" target="_blank">PMS Color Chart</a></li>
-<li><a href="/objects/Thread Color Chart.pdf" target="_blank">Embroidery Thread Colors</a></li>
-</ul>
-</div>
-<!--footer-list-wrap1 Ends-->
-<div class="footer-list-wrap padding-left-right">
-<div class="footer-italic-head">Promotional services</div>
-<ul>
-<li><a href="/misc/sample_request2.jsp">Sample Request</a></li>
-<li><a href="/misc/catalog_request.jsp">Catalog Request</a></li>
-<li><a href="/misc/free-artwork-email-proof.jsp">Free Artwork &amp; Art Proof</a></li>
-<li><a href="/misc/art_transfer.jsp">Artwork Transfer</a></li>
-<li><a href="/s/promotional-ideas/index.htm">Promo Ideas</a></li>
-<li><a href="/misc/caprop.jsp">CA Prop. 65</a></li>
-<li><a href="/info/asia-direct.jsp">Asia Direct</a></li>
-<li><a href="http://www.openclipart.org" target="_blank">Clip Art Library</a></li>
-
-</ul>
-</div>
-<!--footer-list-wrap1 Ends-->
-<div class="footer-list-wrap padding-left-right">
-<div class="footer-italic-head width147">Promo Direct</div>
-<ul>
-<li><a href="/info/aboutus.jsp">About Us</a></li>
-<li><a href="/info/contactinfo.jsp">Contact Us</a></li>
-<li><a href="/info/help2.jsp">Help &amp; FAQs</a></li>
-<li><a href="/misc/testimonials.jsp">Testimonials</a></li>
-<li><a href="/info/satisfiedcustomers.jsp">Our Customers</a></li>
-<li><a href="/misc/low_price.jsp">Our Guarantee</a></li>
-<li><a href="http://blog.promodirect.com/">Our Blog</a></li>
-<li><a href="/info/privacy.jsp">Privacy Policy</a></li>
-<li><a href="/misc/employment.jsp">Employment</a></li>
-</ul>
-</div>
-<div class="footer-list-wrap paddingleft10">
-<div class="footer-italic-head">IDEA CENTER</div>
-<ul>
-
-
-<li><a href="/ebooks/marketing-books.jsp">Promo Direct Ebooks </a></li>
-<li><a href="/reviews/promodirect-reviews.jsp">Promo Direct Reviews</a></li>
-<li><a href="/news/pressreleases.jsp">Promo Direct in News </a></li>
-<li><a href="/video/videos.jsp">Promo Direct Videos</a></li>
-
-<li><a href="/product-catalog/product-catalog.jsp"> Promo Direct Catalogs</a></li>
-<li><a href="/trade/USA-Trade-Show.jsp"> USA Trade Shows</a></li>
-
-</ul>
-</div>
-<!--footer-list-wrap1 Ends--> 
-
-
-
+		<div class="floatclear"></div>
+	</div>
+    <!--Midwrap Ends--> 
   
+  <!--Inner Ends-->
+  
+
+<div class="btmlink">
+  <div class="footer-list-wrap padding-left-right" style="padding-left: 0; padding-right: 59px;">
+    <div class="footer-head width147"> Let us help you</div>
+    <ul>
+      <li><a href="/customer/myaccount.jsp">My Account</a></li>
+      <li><a href="/misc/promodirect_faqs.jsp">Ordering FAQs</a></li>
+      <li><a href="/ontimedelivery.jsp">On Time Shipment</a></li>
+      <li><a href="/misc/order_info.jsp">Ordering Information</a></li>
+      <li><a href="/misc/setupcharges.jsp">Set-up Charges</a></li>
+      <li><a target="_blank" href="/objects/Apparel Size Chart.pdf">Apparel Size Chart</a></li>
+      <li><a target="_blank" href="/objects/PMS Color Chart.pdf">PMS Color Chart</a></li>
+      <li><a target="_blank" href="/objects/Thread Color Chart.pdf">Embroidery Thread Colors</a></li>
+    </ul>
+  </div>
+  <!--footer-list-wrap1 Ends-->
+  <div class="footer-list-wrap padding-left-right" style="margin:0 0 0 45px;">
+    <div class="footer-head width147"> Quick links</div>
+    <ul>
+      <li><a href="/misc/sample_request2.jsp">Sample Request</a></li>
+      <li><a href="/misc/catalog_request.jsp">Catalog Request</a></li>
+      <li><a href="/misc/free-artwork-email-proof.jsp">Free Artwork &amp; Art Proof</a></li>
+      <li><a href="/misc/art_transfer.jsp">Artwork Transfer</a></li>
+      <li><a href="/s/promotional-ideas/index.htm">Promo Ideas</a></li>
+      <li><a href="/misc/caprop.jsp">CA Prop. 65</a></li>
+      <li><a href="/info/asia-direct.jsp">Asia Direct</a></li>
+      <li><a target="_blank" href="http://www.openclipart.org" rel="nofollow">Clip Art Library</a></li>
+      <li><a href="http://m.promodirect.com/">Mobile Site</a></li>
+    </ul>
+  </div>
+  <!--footer-list-wrap1 Ends-->
+  <div class="footer-list-wrap padding-left-right" style="margin:0 0 0 65px;">
+    <div class="footer-head width147"> Get to know us</div>
+    <ul>
+      <li><a href="/info/aboutus.jsp">About Us</a></li>
+      <li><a href="/info/contactinfo.jsp">Contact Us</a></li>
+      <li><a href="/info/help2.jsp">Help &amp; FAQs</a></li>
+      <li><a href="/misc/testimonials.jsp">Testimonials</a></li>
+      <li><a href="/info/satisfiedcustomers.jsp">Our Customers</a></li>
+      <li><a href="/misc/low_price.jsp">Our Guarantee</a></li>
+      <li><a href="http://blog.promodirect.com/">Our Blog</a></li>
+      <li><a href="/info/privacy.jsp">Privacy Policy</a></li>
+      <li><a href="/misc/employment.jsp">Employment</a></li>
+    </ul>
+  </div>
+  <div class="footer-list-wrap padding-left-right" style="padding-right: 0; float: right;
+                width: auto;">
+    <div class="footer-head"> Resources</div>
+    <ul>
+      <li><a href="/ebooks/marketing-books.jsp">Promo Direct Ebooks </a></li>
+      <li><a href="/reviews/promodirect-reviews.jsp">Promo Direct Reviews</a></li>
+      <li><a href="/news/pressreleases.jsp">Promo Direct in News </a></li>
+      <li><a href="/video/videos.jsp">Promo Direct Videos</a></li>
+      <li><a href="/product-catalog/product-catalog.jsp"> Promo Direct Catalogs</a></li>
+      <li><a href="/trade/USA-Trade-Show.jsp"> USA Trade Shows</a></li>
+    </ul>
+  </div>
+  <!--footer-list-wrap1 Ends-->
   <!--Footer Inner Ends-->
 </div>
-<div class="btmlink">
+<div>
+  <div class="btmlink">
     <div class="cards-wrap">
       <div class="width195">We accept payments from</div>
-      <span class="master">
-			<a href="#"></a></span> <span class="discover">
-			<a href="#"></a></span> <span class="visa">
-			<a href="#"></a></span> <span class="express">
-			<a href="#"></a></span> </div>
+      <span class="master"> <a href="#"></a></span> <span class="discover"> <a href="#"></a></span> <span class="visa"> <a href="#"></a></span> <span class="express"> <a href="#"></a></span> </div>
     <!--cardwrap ends-->
-    <div class="floatleft partner"> <span class="floatleft">
-		<a href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.PROMODIRECT.COM&amp;lang=en" target="_blank" rel="nofollow">
-			<img src="/images/logo1.gif" alt="Versign Secured" title=""></a></span> <span class="floatleft">
-		<a href="http://www.bbb.org/southern-nevada/business-reviews/product-sales-general/promo-direct-in-henderson-nv-90010276" target="_blank" rel="nofollow">
-			<img src="/images/logo2.gif" alt="Accredited Business" title=""></a></span> <span class="floatleft">
-		<a href="#" target="_blank"><img src="/images/logo3.gif" alt="PPAI" title=""></a></span> <span class="floatleft">
-		<a href="#" target="_blank"><img src="/images/logo4.gif" alt="Member ASI" title=""></a></span> <span class="floatleft">
-		<a href="#" target="_blank"><img src="/images/logo5.gif" alt="DMA" title=""></a></span>
+    <div class="floatleft partner"> <span class="floatleft"> <a href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.PROMODIRECT.COM&amp;lang=en" target="_blank" rel="nofollow"> <img src="/images/logo1.gif" alt="Versign Secured" title=""></a></span> <span class="floatleft"> <a href="http://www.bbb.org/southern-nevada/business-reviews/product-sales-general/promo-direct-in-henderson-nv-90010276" target="_blank" rel="nofollow"> <img src="/images/logo2.gif" alt="Accredited Business" title=""></a></span> <span class="floatleft"> <a href="#" target="_blank"><img src="/images/logo3.gif" alt="PPAI" title=""></a></span> <span class="floatleft"> <a href="#" target="_blank"><img src="/images/logo4.gif" alt="Member ASI" title=""></a></span> <span class="floatleft"> <a href="#" target="_blank"><img src="/images/logo5.gif" alt="DMA" title=""></a></span>
       <div class="floatleft">
-        <div class="AuthorizeNetSeal">
-          <script type="text/javascript" language="javascript">var ANS_customer_id="2cc7549f-efc8-4897-bfce-058c37a53881";</script> 
-                <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> 
-<a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Accept Credit Cards</a>
-<!--<a href="#"><img src="/images/logo6.gif" alt="" title="" /></a>--> </div>
+        <div class="AuthorizeNetSeal" style="float:left;">
+          <script language="javascript" type="text/javascript">var ANS_customer_id="2cc7549f-efc8-4897-bfce-058c37a53881";</script>
+          <script src="//verify.authorize.net/anetseal/seal.js" language="javascript" type="text/javascript"></script>
+          <style type="text/css">
+                div.AuthorizeNetSeal{text-align:center;margin:0;padding:0;width:90px;font:normal 9px arial,helvetica,san-serif;line-height:10px;}
+                div.AuthorizeNetSeal a{text-decoration:none;color:black;}
+                div.AuthorizeNetSeal a:visited{color:black;}
+                div.AuthorizeNetSeal a:active{color:black;}
+                div.AuthorizeNetSeal a:hover{text-decoration:underline;color:black;}
+                div.AuthorizeNetSeal a img{border:0px;margin:0px;text-decoration:none;}
+                </style>
+          <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Accept Credit Cards</a>
+          <!--<a href="#"><img src="/images/logo6.gif" alt="" title="" /></a>-->
+        </div>
       </div>
     </div>
   </div>
-  
-		<div id="bottom-strip"> <span> © 2013 Promo Direct . All Rights Reserved. </span>
-    <div class="floatright strip-text paddingright10"><a href="/info/feedback.jsp" class="striplink">Feedback </a> | <a href="/sitemap.jsp" class="striplink">Site Map</a> </div>
+  <!--Logostrip inner ends-->
+</div>
+<!--Logostrip Ends-->
+<!--mid-rightwrap Ends-->
+<div class="floatclear"> </div>
+
+<div id="bottom-strip">
+  <div id="footer"> <span>© 2015 Promo Direct . All Rights Reserved. </span>
+    <div class="floatright strip-text paddingright10"><a href="/info/feedback.jsp" class="striplink">Feedback </a>| <a href="/sitemap.jsp" class="striplink">Site Map</a> </div>
+    <div class="floatclear"> </div>
   </div>
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-<div id="fb-root"></div>
-<script type="text/javascript">(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) return;
-js = d.createElement(s); js.id = id;
-js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=231496693562901";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-<div style="width:1000px; margin:0 auto; position:relative; z-index:9999">
-		<div id="SubscribePopup" style="visibility:hidden">
-				<div class="yello_bg">
-
-        <span style="line-height:40px; font-size:35px;">Promo Direct Email Signup</span><br>
-
-        <span style="font-size:20px; font-weight:normal;">Special Deals are sent out every month!</span><br>
-
-        <span style="font-size:13px; font-weight:normal;">Our latest and hottest deals, discounts and coupons right to your email inbox...keep an eye out!</span><br>
-
-           <a href="#" class="close"><img src="/images/close-btn.gif" alt="" width="53" height="18" onclick="showhideLayer('SubscribePopup','hidden')"></a></div>
-
-
-
-				<div class="floatclear" style="position:relative;">
-				<div class="blck_bg">Email Address<br>
-				<input name="popemail" type="text" class="txt_box" id="popemail">
-				<a href="#" class="subbtn" onclick="submitPopup();">Subscribe</a>
-				<a href="#" class="subbtn" style="margin:0;" onclick="showhideLayer('SubscribePopup','hidden')">No Thanks</a>
-				</div>
-				<a href="/info/privacy.jsp" class="btm_link" target="_blank">See our privacy policy</a>
-				<div class="floatclear"></div>
-				</div>
-				</div>
-		<div id="SubscribePopupSuccess" style="visibility:hidden;">
-			<div class="poptext"> <a href="#" class="close2">
-			<img src="/images/close-btn3.gif" alt="" width="53" height="18" onclick="showhideLayer('SubscribePopupSuccess','hidden')"></a> We will send periodic deals, discounts and coupons
-to your email inbox...keep an eye out!</div>
-		</div>
-	</div>
-	
-	
- 
-	
- <script type="text/javascript">
-	function showhideLayer(id, val) {
-		document.getElementById(id).style.visibility = val;
-	}
-	function submitPopup() {
-		var email = document.getElementById("popemail").value;
-		var mailingListId = 1000;
-		showhideLayer('SubscribePopupSuccess','visible');
-		if(validateEmail(email)){
-			jQuery.get("/customer/mailinglist.cz", {email:email,mailingListId:mailingListId},null);
-			showhideLayer('SubscribePopup','hidden');
-		}
-		pageTracker._trackEvent('Email-Signup', 'subscribe');
-	}
-
-	function showSubscribePopup(){
-		document.cookie = "subscribe_pop_up=Y;path=/";
-		showhideLayer('SubscribePopup','visible');
-	}
-
-	//disabled
-	if(document.cookie==null || document.cookie.indexOf("subscribe_pop_up") == -1){
-		//alert("showpopup");
-		//setTimeout('showSubscribePopup()',30000);
-	}
-</script>
-
-
-
+</div>
 <script type="text/javascript"> 
 //<![CDATA[
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -1508,17 +1531,15 @@ document.write("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='
 //]]>
 
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
 <script type="text/javascript"> 
 
-  //<![CDATA[
+//<![CDATA[
 var pageTracker = _gat._getTracker("UA-461614-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 //]]>
 
 </script>
-
 <!-- Google Code for Remarketing tag -->
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -1528,20 +1549,78 @@ var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
 /* ]]> */
 </script>
-
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
 <div style="display:inline;"> <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065834669/?value=0&amp;label=zjGCCK-trwMQrbGd_AM&amp;guid=ON&amp;script=0"/> </div>
 </noscript>
 
+<!-- OPENTRACKER HTML START -->
+<script src="https://script.opentracker.net/?site=www.promodirect.com"></script>
+<!-- OPENTRACKER HTML END -->
 
-	
-	
+
+<!-- LEADBOXER START -->
+<script type="text/javascript" defer="defer" src="//script.leadboxer.com/?account=64747929638b6673d2541a64f6897044"></script>
+<!-- LEADBOXER END -->
+
+  
 </div>
-<!--Wrapper Ends-->
+<!--Wrapper Ends--> 
 
 
+    <script type="text/javascript" src="/js/jquery.cycle.all.js"></script>
+    <script type="text/javascript" src="/js/jquery.touchwipe.min.js"></script>
+    <script type="text/javascript">
+	$(document).ready(function() {
+		$('.megamenu li ').hover( function(){
+				$(this).prev().find('a').addClass('selectedto');
+				}, function(){
+				$(this).prev().find('a').removeClass('selectedto');
+			});
+			$('.megamenu li a.darkred').hover(function(){
+			$(this).parent().prev().find('a').addClass('max');
+			});
+		$('.pix_diapo').cycle({
+		timeout:0,
+		pager:'.navigation',
+		fx:'scrollHorz',
+		next:'#next',
+		prev:'#prev',
+	});
+	
+	$('.stop').toggle(function() { 
+	$(this).addClass('play');
+	$(this).removeClass('stop');
+	$('.pix_diapo').cycle('pause'); 
+	}, function() {
+	$(this).addClass('stop');
+	$(this).removeClass('play');
+	$('.pix_diapo').cycle('resume'); 
+	});
+
+	$(".pix_diapo").touchwipe({
+ 		wipeLeft: function() {
+ 	 		$(".pix_diapo").cycle("next");
+ 		},
+ 		wipeRight: function() {
+ 	 		$(".pix_diapo").cycle("prev");
+ 		}
+	});
+});
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
