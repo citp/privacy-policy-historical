@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the signal.co privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701215945id_/http%3A//www.signal.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signal.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315193148id_/http%3A//www.signal.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Signal
+# Privacy Policy - Signal
 
-his policy was last modified on and has an effective date of June. 30, 2014.
+This policy was last modified on and has an effective date of June. 30, 2014.
 
 Signal Digital, Inc. (dba Signal) and its subsidiary companies (collectively, “ **Signal** ”) provides this Website Privacy Policy to share with you how we treat personal information about you that we collect and receive in connection with Signal Websites, features, or applications owned or controlled by Signal that post a link to this Privacy Policy (collectively, our “ **Website** ”). Signal also works with clients who license and use our technology and services. This Website Privacy Policy describes Signal’s privacy practices with regard to information collected through the Website. If you are a consumer and would like to understand our privacy practices in connection with the Signal services used by our clients, please review [Signal’s Platform Privacy Policy](http://www.signal.co/privacy-policy-platform-privacy-policy/).
 
