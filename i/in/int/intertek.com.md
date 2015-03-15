@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intertek.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025150220id_/http%3A//www.intertek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intertek.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315031200id_/http%3A//www.intertek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -134,7 +134,7 @@ For European Union and Swiss residents, any questions or concerns regarding the 
 
 We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, Intertek has agreed to cooperate with the European Data Protection Authorities or Swiss Federal Data Protection and Information Commissioner in the jurisdiction where the customer/client is located. For clarity, this "European Union and Swiss Residents" section applies only to residents of the EU and Switzerland. 
 
-To learn more about the Safe Harbor program and to view Intertek's certification, please visit <http://export.gov/safeharbor/>.
+To learn more about the Safe Harbor program and to view Intertek's certification, filed under its United States parent company Testing Holdings USA, Inc., please visit <http://export.gov/safeharbor/>.
 
 **12\. What About Contacting You or Us For Information Or To Make A Complaint?**
 
