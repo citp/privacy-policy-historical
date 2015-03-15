@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whatsappfor.org privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927053847id_/http%3A//www.whatsappfor.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsappfor.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315031813id_/http%3A//www.whatsappfor.org/privacy) for the most accurate reproduction.*
 
-# Privacy | Whatsapp Download
+# Privacy | WhatsApp Download
 
 At Whatsappfor.org, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit the site, and how we safeguard your information. We will never sell your personal information to third parties.
 
