@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdrf.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015918id_/http%3A//jdrf.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdrf.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315134711id_/http%3A//jdrf.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JDRF: Improving Lives. Curing Type 1 Diabetes
 
@@ -74,13 +74,14 @@ The Site may offer web logs, web postings, bulletin boards, chat rooms, newsgrou
 
 **CONTACT INFORMATION**
 
-Questions or comments regarding this Privacy Policy should be directed to JDRF using the following contact information:  
+Questions or comments regarding this Privacy Policy should be directed to JDRF using the following contact information:
+
 Postal Address: JDRF  
 26 Broadway, 14th Floor  
 New York, NY 10004
 
-Attention: James Szmak  
-Email: copyrights@jdrf.org  
+Attention: Paige Nuzzolillo  
+Email: [copyrights@jdrf.org](mailto:copyrights@jdrf.org)  
 Telephone: 1-800-533-CURE (2873)  
 Fax: (212) 785-9595
 
@@ -107,6 +108,3 @@ A user 13 or over or the adult parent or guardian of a user under 13 may review,
 
 **Consent to Receive Notices Via the Site**  
 By using the Site or submitting personally identifiable information to the Site (and, for parents or guardians of children under the age of 13, having consented to your child’s use of the Site), you are agreeing that JDRF may deliver all privacy and opt out notices to you in the manners described in the Privacy Policy.
-
-**MOBILE**  
-Please find our policy for mobile [here](http://help.mcommons.com/help/sms/11851).
