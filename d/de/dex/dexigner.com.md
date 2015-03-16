@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dexigner.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702015131id_/http%3A//www.dexigner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexigner.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316145251id_/http%3A//www.dexigner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,3 +29,7 @@ Dexigner processes personal information on our servers in the United States of A
 ## Information Sharing
 
 Dexigner does not share your personal information with other companies or individuals outside of Dexigner.
+
+© 2015 Dexigner. All rights reserved. [Contact Us](https://web.archive.org/about)
+
+Last updated Jul 7, 2013 \- 887 online visitors, 421,850,900 page views
