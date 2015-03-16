@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the toptalent.in privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701194615id_/https%3A//www.toptalent.in/privacy.php%3Fid%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptalent.in privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316181301id_/https%3A//www.toptalent.in/privacy.php%3Fid%3D47) for the most accurate reproduction.*
 
-# TopTalent.in - Exclusive Jobs for Students and Alumni of Top Engineering and MBA Colleges of India.
-
-Privacy
+# Privacy - TopTalent.in
 
 Thank you for visiting TopTalent.in job search and hiring management Internet web site located at the URL www.toptalent.in. This Privacy Policy details certain policies implemented throughout TopTalent.in governing the use of personally identifiable information provided to TopTalent.in via this Site or otherwise. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy.
 
