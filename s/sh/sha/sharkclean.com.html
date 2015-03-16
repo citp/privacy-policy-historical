@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sharkclean.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120204600id_/http%3A//www.sharkclean.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sharkclean.com privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316183808id_/http%3A//www.sharkclean.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" style=""><head>
 <!-- META -->
@@ -391,6 +391,48 @@ XML to JSON conversion script FDM4 legacy script
         _V_.options.flash.swf = "/include/javascript/video-js.swf";
     </script>
 
+	<script type="text/javascript">
+		function gaEvent( category, action, label, value){
+			dataLayer.push( {'event': 'epAnalyticsEventClick',
+							'epEventCategory':category,
+							'epEventAction':action,
+							'epEventLabel':label,
+							'epEventValue':value} );
+		}
+	</script>
+
+	<script type="text/javascript">
+		var refPath = window.location.pathname;
+		dataLayer = [{
+			'gaCookiePath': refPath
+		}];
+	</script>
+	
+
+	<script type="text/javascript">
+		/*
+			CLEVERMETHOD HELPER FUNCTIONS FOR GA DATALAYER
+			Programmer: Nick Barcomb 10.22.2014
+		*/
+		var cmga = ( function(){ 'use strict';
+		
+			return {
+				/* GOOGLE ANALYTICS TOGGLER */
+				// obj		= this (trigger)
+				// toggles	= Array. toggle options
+				Toggle		: function(obj,toggles){
+					var g = $(obj).attr('gaT'),
+						l = toggles.length,
+						t = ( g != undefined && g != null ) ? g : -1 ;
+					t++;
+					t = ( t < l ) ? t : 0 ;
+					$(obj).attr('gaT',t);
+					return toggles[t];
+				}
+			};
+		}() );
+	</script>
+
 	<!--  FACEBOOK GOES HERE  -->
 	<script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -485,27 +527,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	});
 </script>
 
-	<div id="redesignFeedbackShell" class="headerFlyOut xctiveFlyout" style="position: fixed; right: 0px; z-index: 90; display: block;">
-		<div id="redesignFeedback" style="margin-top: 74px;padding: 25px 31px 30px 33px;width: 256px;background: transparent url(/include/images/violator/redesignfeedback.png) no-repeat top right;">
-			<div style="padding-bottom:9px;">
-				Please help improve our website by answering a few short questions.
-			</div>
-			<div style="margin-left:-6px;">
-				
 
-														
-	
-<a class="
-    	global-button global-button-BLUE global-button-MEDIUM 
-     global-button-FA global-button-FAright" href="https://apps.sharkclean.com/survey/register.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'mainSite-Violator', 'click', 'SatisfactionSurvey']);" id="feedback" style="">
-    	    		TAKE PART IN THE SURVEY
-    	<i class="cmFA cmFAright fa fa-chevron-right"></i></a>
-			</div>
-			<div id="redesignFeedbackTrig" class="open-sans-condensed" style="font-weight: bold;font-size: 16px;cursor: pointer;text-align: right;letter-spacing: 1px;color: #000;margin-top: 25px;padding-top: 11px;width: 167px;margin-left: 90px;padding-bottom: 11px;" onclick="toggleHeaderFlyOut( '#redesignFeedbackShell' );">
-				Tell us what you think
-			</div>
-		</div>
-	</div>
+ 
+
+
+
+
+
+
+
+
 
 
 <div id="dvHeaderShadow" style="z-index:96;"></div>
@@ -516,10 +547,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<div id="headerCenter">
 				<a href="/" id="headerLogo">
-            <img src="/include/images/logos/MAIN-logo.png?cb=1" style="margin-top: 19px; width:125px;">
+            <img src="http://www.sharkclean.com/include/images/logos/MAIN-logo.png?cb=1" style="margin-top: 19px; width:125px;">
         </a>
 		<a href="/" id="headerLogo2">
-            <img src="/include/images/logos/MAIN-logo2.png?cb=1" style="margin-top: 14px; width:160px;">
+            <img src="http://www.sharkclean.com/include/images/logos/MAIN-logo2.png?cb=1" style="margin-top: 14px; width:160px;">
         </a>
 		
 				
@@ -836,7 +867,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      global-button-FA global-button-FAright" href="http://europro.com/?utm_source=www.sharkclean.com&amp;utm_medium=MainSite&amp;utm_campaign=Footer_CTA_btn" target="_blank" onclick="" id="" style="padding-left:22px; padding-right:22px">
     	    		LEARN MORE
     	<i class="cmFA cmFAright fa fa-chevron-right"></i></a>
-                <a style="font-size:12px; float:right; text-decoration:underline; margin-right:6px;" href="http://www.europro.com/patents/" target="_blank">Euro-Pro Patents</a>
+                <a style="font-size:12px; float:right; text-decoration:underline; margin-right:6px;" href="http://www.europro.com/USPatents/" target="_blank">Euro-Pro Patents</a>
 				
 				<div class="clear"></div>
 			</div>
@@ -847,7 +878,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	</div>
 	
-	<p id="footerCopyright">Copyright © 2014 Euro-Pro Operating LLC  |  800-798-7398 Mon.-Sat. 7 a.m.-11 p.m. ET  |  Sun. 9 a.m.-8 p.m. ET</p>
+	<p id="footerCopyright">Copyright © 2015 Euro-Pro Operating LLC  |  800-798-7398 Mon.-Sat. 7 a.m.-11 p.m. ET  |  Sun. 9 a.m.-8 p.m. ET</p>
 
 </div>
 <div style="clear:both;"></div>
