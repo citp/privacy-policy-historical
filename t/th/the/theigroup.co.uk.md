@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theigroup.co.uk privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701130753id_/http%3A//www.theigroup.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theigroup.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316163937id_/http%3A//www.theigroup.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # The iGroup : Privacy Policy
 
