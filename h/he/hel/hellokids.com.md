@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellokids.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702184310id_/http%3A//www.hellokids.com/c_1956/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellokids.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317004453id_/http%3A//www.hellokids.com/c_1956/footer/privacy-policy) for the most accurate reproduction.*
 
 # Footer - Privacy Policy
 
@@ -9,8 +9,8 @@ The Internet is an amazing tool. It has the power to change the way we live, and
 
 We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, COBALINK follows different principles in accordance with world-wide practices for customer privacy and data protection.
 
- We won’t sell or give away your name, mail address, email address or any other information to anyone.   
-We’ll use state-of-the-art security measures to protect your information from unauthorized users.
+ We won't sell or give away your name, mail address, email address or any other information to anyone.   
+We'll use state-of-the-art security measures to protect your information from unauthorized users.
 
  **NOTICE**
 
