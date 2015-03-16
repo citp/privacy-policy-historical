@@ -1,149 +1,163 @@
-> *The following text is extracted and transformed from the foodnetwork.co.uk privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218140800id_/http%3A//www.foodnetwork.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodnetwork.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316065814id_/http%3A//www.foodnetwork.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy And Cookies Policy : Food Network UK
+# Privacy Policy : Food Network UK
 
-WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE. 
+This Website is operated by Scripps Networks International (UK) Limited (" **us** ", " **we** ", or " **our** "). 
 
-Welcome to foodnetwork.co.uk. foodnetwork.co.uk (“Website”) is an interactive online service operated by Scripps Networks International (UK) Limited (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy. 
+This Privacy Policy covers this Website and all other Websites, applications and features operated by us and where this Privacy Policy is posted, including Websites under the Food Network, Travel Channel and Fine Living brands (" **Website** ").
 
-For the purposes of the Data Protection Act 1998 ("Act") the data controller is Scripps Networks International (UK) Limited with a registered address of One Fleet Place, London, EC4M 7WS.
+WHEN YOU VISIT OUR WEBSITE, YOU ARE AGREEING AND ACCEPTING THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, PLEASE STOP ACCESSING OUR WEBSITE IMMEDIATELY. 
 
-We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources. 
+Please click on the sections below to learn more about our privacy policy (" **Privacy Policy** ").
 
-This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions. 
-
-We keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time.. Any changes we make to this Privacy Policy will be posted on this Website, and where appropriate, notified to you be email.
-
-#### A. INFORMATION WE COLLECT 
-
-Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, that we automatically collect when you visit our Website or that you provide us. 
-
-  * (1) Personally Identifiable Information: 
-  * Personally identifiable information includes any information that may be used to identify or contact you, such as your name, mail address, phone number, etc. We do not automatically collect your personally identifiable information when you visit our Website. In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Website. For instance, you may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Website, using our online store, or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; or (c) post a product rating and recommendation on our Website. []Whether or not you provide this personally identifiable information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website. 
-  * (2)Non-Personal Information: 
-  * Non-personal information is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We obtain non-personal information from information that you provide us. and automatically when you access our Website. This information can include, among other things, IP addresses (other than where used to identify individuals), the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Macintosh OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits. 
+  1. OVERVIEW
+  2. INFORMATION WE COLLECT
+  3. COOKIES AND SIMILAR TECHNOLOGIES
+  4. HOW WE USE THE INFORMATION COLLECTED
+  5. WHO WE SHARE YOUR INFORMATION WITH
+  6. WHERE WE STORE YOUR INFORMATION
+  7. CHILDREN
+  8. OTHER SITES/LINKS
+  9. YOUR RIGHTS
+  10. CONTACT
 
 
 
-#### B. HOW WE USE & SHARE THE INFORMATION COLLECTED 
+## A. OVERVIEW
 
-(1)Personally Identifiable Information: 
+We are a company incorporated in England and Wales (with company number 05068968) and registered address of One Fleet Place, London, EC4M 7WS. We are registered as a data controller, in accordance with the Data Protection Act 1998 ( **Act** ), with the Information Commissioner's Office (registered number Z3483779).
 
-The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“affiliated companies”), or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below. 
+We respect your privacy and are committed to protecting the personal information you may provide to us through our Website. We have adopted this Privacy Policy to explain what information may be collected through our Website, how we use this information, and under which circumstances we may disclose the information to third parties.
 
-In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc. Our vendors agree to use this information, and we share information with them, only to carry out our requests. 
+This Privacy Policy, together with the [Terms of Use](https://web.archive.org/terms-of-use.html) posted on our Website, details the rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
 
-In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a competition or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use). Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships.
+We keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time. The date of the most recent revisions will appear on this page. Any changes we make to this Privacy Policy will be posted on our Website, and where appropriate, notified to you by email. If you do not agree to these changes, please stop using the Website.
 
-Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval. 
+## B. INFORMATION WE COLLECT
 
-(2)Non-Personal Information: 
+We may collect the following information about you:
 
-We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.
+  * **Information you provide to us**
 
-#### C. OTHER USES & INFORMATION 
+You may provide us with information about you in a number of ways, including when you:
 
-(1)IP Addresses: 
+    * Visit our Website
+    * Register for an account on our Website
+    * Log in (including Social Log in)
+    * Sign up for newsletter(s)
+    * Enter a competition or prize draw
+    * Complete surveys
+    * Post on message boards
+    * Submit videos, photographs or other content
+    * Respond to calls for submission or casting calls
+    * Provide feedback
+    * Contact us
 
-An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that “serve up” web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website. IP addresses are considered non-personal information (except where used to identify individuals) and may also be shared as provided above. It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor's session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website's users or the general public.
 
-(2)Cookies, etc.: 
 
-We may use cookies and other similar technologies to ensure you get the best from our Website. “Cookies” are small text files from a website that are stored on your computer, mobile phone or other device. These text files make using our Website more convenient by, among other things, recognising you when you return, saving your passwords and preferences and may help us to customise our Website for you based on your preferences. Cookies themselves do not typically contain any personally identifiable information. We may analyze the information derived from these cookies and other similar technological tools we employ (such as clear gifs/web beacons) and match this information with data provided by you or another party. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information. 
+This may consist of information such as your name, email address, postal address, telephone or mobile number, date of birth or a photo depending on the activity. Further information about you may be collected if you log in to your account through social media (such as Facebook, Twitter etc.).
 
-To optimise your experience on our Website and to help us to improve it, your computer, mobile phone or other device will need to accept cookies. If it doesn't, you may not be able to take advantage of all the features of our Website, including certain personalised features. You can give us your consent by pressing the continue button in the Website when we ask for your consent to use cookies. Here is a list of the main cookies we use and what each cookie is used for:
+Whether or not you provide us with your personal information is your choice; however, in many instances this type of information is required to participate in the particular activity, obtain a benefit we may offer, or gain access to certain content on our Website.
 
-_First Party Cookies_   
-The following cookies are used to improve our Website and do not contain any personal information that would allow us to identify you (such as your name or other contact details). 
+  * **Information we collect about you:**
 
-**_Cookie Name_** | **_Cookie Purpose_**  
----|---  
-SESS* | **Really important cookies**   
-This cookie allows our server to recognise you as a returning visitor, in order for us to allow you to log into the website and store user preferences.  
-FN_nginx | This cookie is set when you are logged into the website and is used to help our caching servers work out whether to serve you cached pages or not.  
-FN_UK_cookie_accept | This cookie is set once you have pressed the "continue" button to tell us you have accepted the use of cookies on our website, to stop us from showing you the message again.  
-FN_UK_agecheck | This cookie is set once you have pressed the "confirm" button to tell us you are aged 18 and over to view age-restricted content, to stop us repeating the message on another video.  
-**Google Analytics:** _utma, _utmb, _utmc, utmz   
-**Ominiture:** s_cc, s_nr, s_ppv, s_sq   
-**Chartbeat Analytics:** _chartbeat2   
-**Clicktale Analytics:** WRUID  | **Analytics**   
-We use analytics software to help analyse use of our website. These cookies enable us to collect standard internet log information and visitor behaviour, such as new visitor numbers, interactions and paths through our website, response to our marketing campaigns and browser usage, all in an anonymous form. This information is important to help us understand how people use our website, how our website is performing and to make it as easy to use and useful as possible.   
-**InSkin Media:** InSkinSessionID, InSkinUserID | **Advertising**   
-InSkin Media is our ad serving supplier. They use cookies for the purpose of serving advertisements and ensuring they are relevant to you.   
-  
-_Third Party Cookies_
+We may automatically collect certain information about you when you access our Website. This information can include technical information such as: the Internet Protocol (IP) address used to connect your computer to the internet; the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.); the third party website from which your visit originated; the operating system you are using (e.g., Vista, Windows XP, Mac OS, etc.); the domain name of your Internet service provider; the search terms you use on our Website; the specific web pages you visit; the videos you view; and the duration of your visits etc..
 
-**_Cookie Name_** | **_Cookie Purpose_**  
----|---  
-**DoubleClick:** NGUserID, id   
-**Specific Media:** ug, JSESSIONID  |  **Advertising**   
-Our ad serving suppliers, DoubleClick and Specific Media use cookies for the purpose of serving our internet advertisements on other sites. The cookies accompanying the ads allow our suppliers and their advertisers to monitor the effectiveness of the ads and make the ads more relevant to you. Some of our web pages may contain electronic images known as web beacons (sometimes known as clear gifs) that allow us to track user interactions on these pages. They may also report back some information to our ad serving suppliers about the interaction performed.   
-**AddThis.com:** dt, loc, psc, uid, uit, uvc   
-**Google + 1 button:** NID, PREF  |  **Content Sharing**  
-Our suppliers use cookies to give our users a simple way to share content across the social web and tell us how many visitors are sharing content.   
-  
-Our Website displays video content using Adobe Flash Player. Adobe uses Flash cookies (also known as Local Shared Objects) to help improve your user experience. Flash cookies are stored on your computer, mobile phone or other device in much the same way as usual cookies, but your browser manages them differently. If you wish to disable or delete a Flash cookie, see Adobe Flashplayer Security Settings. Please bear in mind though, that if you disable Flash cookies for the Website you'll be unable to access certain types of content on the Website, such as videos.
+  * **Information we receive from others:**
 
-We sometimes carry embedded "Share" and "Like" buttons to enable our users to easily share articles through social networks such as Facebook and Twitter. These sites may set a cookie when you are also logged into their service. We do not control the dissemination of these cookies and you should check the relevant third party website for more information about these.
+We may receive information about you from other sources, for example if you use another website that we or one of our affiliated companies operate. We also work closely with third parties (e.g. analytics providers) and may receive information about you from them.
 
-We also sometimes embed content from websites such as YouTube. As a result, when you visit a page with content embedded from these websites you may be presented with cookies from these websites. We do not control the dissemination of these cookies. You should check the relevant third party website for more information about these.
+One of your friends may also share your email address with us for one of our newsletters to be sent to you. We will only use your email address for this purpose unless you subsequently sign up for an account or newsletter.
 
-Please note that advertisers that serve advertisements on our Website may also use their own cookies and other similar technological tools which are subject to the advertiser's privacy policies, not this Privacy Policy. We have no control over cookies placed on our Website by these third parties.
 
-**It is a condition of using our Website that you accept these cookies, so please be aware that if you restrict or prevent them, we cannot guarantee how our Website will work for you. If you continue to use and browse our Website, you are consenting to cookies being used in accordance with this Privacy Policy.**
 
-If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your computer, mobile phone or other device. You may also delete a cookie manually from your computer, mobile phone or other device through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies. 
 
-For more information on how to see what cookies have been set and how to manage and delete them, please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+## C. COOKIES AND SIMILAR TECHNOLOGIES
 
-The internet advertising industry has also produced a guide to online privacy and behavioural advertising, please see [www.youronlinechoices.eu](http://www.youronlinechoices.com/uk/). 
+We may use cookies and other similar technologies to ensure you get the best from our Website. For more information about the cookies we use, please see our [Cookie Policy](https://web.archive.org/cookies.html).
 
-We may change and update our list of cookies from time to time. If you use our cookies after we have published these changes, you will be agreeing to be bound by those changes. If you do not consent to the use of the cookies at any time, please see above on how to disable cookies.
+## D. HOW WE USE THE INFORMATION COLLECTED
 
-(3)Email Communications: 
+By using this Website, you agree that your information may be used by us and by carefully selected third parties for the following purposes:
 
-If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference. For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email. However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others. You may “opt out” of receiving future commercial email communications from us by clicking the “unsubscribe” link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications. 
+  * in relation to any service, activity or online content you have signed up for in order to ensure that we can deliver the services to you (e.g. where you have signed up to receiving a newsletter or where you have entered a competition);
+  * in relation to any communication you send to us, in order to respond to your enquiries;
+  * to manage any account you hold with us (including sending you welcome emails and account management emails);
+  * to comply with legal and regulatory requirements;
+  * to ensure that content on our Website is presented in the most effective manner;
+  * to make suggestions and recommendations to you and other users of our Website about content, goods or services that may interest you or them;
+  * to help analyse site traffic, understand customer needs and trends, carry out targeted promotional activities, personalise content and to improve our services;
+  * to understand or measure the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * to invite you to participate in surveys about our Website;
+  * for sending direct marketing messages by electronic means, where you have agreed to this (see below for more details); and
+  * to notify you of changes to our Website.
 
-(4)Transfer of Assets"
 
-As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personal information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties. 
 
-(5)Other: 
+We will only use your information for marketing purposes, to promote new services, activities or online content where you have agreed to this. We may provide you with information about other products or services you have enquired about or those of our parent company, subsidiaries or other affiliated companies (" **affiliated companies** "), or sponsors, or to communicate with you about content or other information you have posted or shared with us via our Website. We may share your information with these parties and other carefully selected third parties, such as joint ventures, business partners and vendors for these purposes.
 
-Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to notices and counternotices pursuant to our DMCA notice and takedown policy and procedures and/or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website's users or the general public.
+You may "opt out" of receiving future promotional communications from us or our affiliated companies by clicking the "unsubscribe" link included at the bottom of emails we send, or as provided below (see the "Your Rights" section).
 
-#### D. WHERE WE STORE YOUR INFORMATION
+Where you use the "Forward to a friend" feature on our Website to send one of our Newsletters to a friend, you must ensure that you have your friend's permission to do so. We will only use your friend's email address for this purpose and may inform your friend that you have requested this service.
 
-The information that we collect from you may be transferred to and stored at a destination outside the European Economic Area ("EEA"), including the USA. It may also be processed by staff operating outside the EEA who work for us or for the organization that hosts the Website. By submitting your information you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+## E. WHO WE SHARE YOUR INFORMATION WITH
 
-Unfortunately transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+We may share your personal information with any of our affiliated companies and with selected third parties, including:
 
-#### E. PUBLIC FORUMS 
+  * our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) e.g., vendors that administer our promotions and competitions, provide us with marketing or promotional assistance, analyse data, assist us with customer service, etc. our participating sponsors to a program or promotion (e.g., a competition) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use);
+  * advertising networks, analytics companies and other vendors for advertising purposes, such as monitoring the effectiveness of adverts and making adverts more relevant to you;
+  * analytical and search engine providers that assist us in the improvement and optimisation of the Website; and
+  * selected third parties (such as competition sponsors).
 
-We may offer chat rooms, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website. 
 
-#### F. CHILDREN 
 
-The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at privacy@foodnetwork.co.uk. A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
+We may also disclose your information to third parties in the event:
 
-#### G.  KEEPING YOUR INFORMATION SECURE 
+  * we sell or purchase any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets;
+  * if another entity acquires us or all (or substantially all) of our assets, in which case your personal data may be one of the transferred assets; or
+  * in the event of any insolvency or re-organisation.
 
-We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
 
-#### H. OTHER SITES / LINKS
 
-Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information. 
+Notwithstanding anything herein to the contrary, we reserve the right to disclose any information about you if we are required to do so by law, with respect to notices and counter notices pursuant to our notice and takedown policies and procedures and/or if we believe that such action is necessary to:
 
-#### I. CONTACT & OPT-OUT INFORMATION 
+  * fulfill a government request;
+  * conform with the requirements of the law or legal process;
+  * protect or defend our legal rights or property, our Website, or other users; or
+  * in an emergency to protect the health and safety of our Website's users or the general public.
 
-You may contact us as at privacy@foodnetwork.co.uk if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
-The Data Protection Act 1998 gives you the right to access information held about you and the right to apply for rectification, blocking, erasure and destruction of inaccurate information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. Please send your access request to privacy@foodnetwork.co.uk.
 
-We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website. 
+## F. WHERE WE STORE YOUR INFORMATION
 
-#### J. SOLE STATEMENT
+The information that we collect from you may be transferred to and stored at a destination outside the European Economic Area (" **EEA** "), including the USA. It may also be processed by staff operating outside the EEA who work for us, for one of our affiliated companies, or for the organisation that hosts the Website. By submitting your information you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
-This Privacy Policy as posted on this Site is the sole statement of our privacy policy with respect to this Site, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Site.
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website, you are responsible for keeping this password confidential.
 
-Effective: November 12, 2008 © 2008 Scripps Networks International (UK) Limited. All Rights Reserved.
+Unfortunately transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use appropriate procedures and security features to try to prevent unauthorised access.
+
+## G. CHILDREN
+
+The features, programs, promotions and other aspects of our Website requiring the submission of personal information are not intended for children. We do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personal information to us please contact us at [privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com). A parent or guardian of a child under the age of 13 may review and request deletion of such child's personal information as well as prohibit the use thereof.
+
+## H. OTHER SITES / LINKS
+
+Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personal information.
+
+## I. YOUR RIGHTS
+
+You may contact us as at [privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com) if: 
+
+  * you have questions or comments about our Privacy Policy;
+  * wish to make corrections to any of your personal information you have provided; or
+  * want to opt-out from receiving emails from us or our affiliated companies.
+
+
+
+You have the right, under the Data Protection Act 1998, to contact us in order to have access to the information we hold about you (a request may be subject to a fee of £10). Please send your access request to privacy@scrippsnetworks.com. You also have the right to object, for legitimate reasons, to the processing of your personal information.
+
+We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfil certain requests while allowing you access to certain benefits and features of our Website.
+
+If you any questions or comments about this Privacy Policy please contact: [privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com)
+
+Effective: November 12, 2008. Revised January 13th, 2015. © 2008 to 2015 Scripps Networks International (UK) Limited. All Rights Reserved.
