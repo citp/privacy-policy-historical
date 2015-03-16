@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091643id_/https%3A//www.safecu.org/about_safe/online_privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316150406id_/https%3A//www.safecu.org/about_safe/online_privacy_statement.aspx) for the most accurate reproduction.*
 
 # SAFE Credit Union : About SAFE : Online Privacy Statement
 
@@ -19,7 +19,7 @@
 
 Effective on: 4/1/14
 
-SAFE Credit Union has created this privacy statement in order to demonstrate our firm commitment to consumer privacy. The following discloses our information gathering and dissemination practices for the [www.safecu.org](https://www.safecu.org/) website in addition to the practices listed in the Privacy Notice.
+SAFE Credit Union has created this privacy statement in order to demonstrate our firm commitment to consumer privacy. The following discloses our information gathering and dissemination practices for the [www.safecu.org](https://www.safecu.org/?__hstc=162943075.de8871cb51084fb5de11e78f67c00b0c.1580469972850.1580469972850.1580469972850.1&__hssc=162943075.2.1580469972850&__hsfp=3924935683) website in addition to the practices listed in the Privacy Notice.
 
 If you have questions or concerns regarding this statement, you should first contact the SAFE Call Center by telephone at (800) 733-7233, or email us at [callcenter@safecu.org](mailto:callcenter@safecu.org "Click to open your email program.").
 
@@ -123,8 +123,8 @@ SAFE recommends that you take the following precautions to safeguard your privac
   * If your address, phone number, or email address changes, please update your information within Online Banking or write to SAFE at the address below. For international address changes contact us at (916) 979-7233 or (800) SEE-SAFE. 
 
 SAFE Credit Union  
-PO Box 1057  
-North Highlands, CA 95660-1057
+2295 Iron Point Road, Suite 100  
+Folsom CA 95630-8765
 
 
 
