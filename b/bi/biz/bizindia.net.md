@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806020118id_/http%3A//www.bizindia.net/%3Fpage_id%3D375) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316155446id_/http%3A//www.bizindia.net/%3Fpage_id%3D375) for the most accurate reproduction.*
 
 # BizIndiaPrivacy Policy » BizIndia
 
