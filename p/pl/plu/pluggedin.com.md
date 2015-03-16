@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluggedin.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008052811id_/http%3A//www.focusonthefamily.com/about_us/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluggedin.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316104627id_/http%3A//www.focusonthefamily.com/about_us/privacy_policy.aspx) for the most accurate reproduction.*
 
 # TERMS OF USE and PRIVACY POLICY - Focus on the Family
 
