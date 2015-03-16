@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrys.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706140918id_/https%3A//www.harrys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrys.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316222140id_/https%3A//www.harrys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harry's - Great Shave. Fair Price. Simple.
 
@@ -102,7 +102,7 @@ We otherwise store all of our information, including your IP address information
 
 If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
 
-California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: ADKM, Inc., c/o Andy Katz-Mayfield, 155 Avenue of the Americas, Floor 15, New York, NY 10013.
+California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: ADKM, Inc., c/o Andy Katz-Mayfield, 161 Avenue of the Americas, Floor 8, New York, NY 10013.
 
 ## How Can I Delete My Account?
 
