@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventure-life.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206115927id_/http%3A//www.adventure-life.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventure-life.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316201935id_/http%3A//www.adventure-life.com/privacy) for the most accurate reproduction.*
 
 # None
 
