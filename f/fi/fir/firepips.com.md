@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firepips.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002001528id_/http%3A//www.firepips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firepips.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316050626id_/http%3A//www.firepips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
