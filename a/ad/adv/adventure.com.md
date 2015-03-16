@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventure.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221035555id_/http%3A//adventure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventure.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316065053id_/http%3A//adventure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy /// Adventure.com
 
