@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100015id_/http%3A//americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316151106id_/http%3A//www.americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ If you do not wish to receive information and want to be removed from mailing li
 
 #### Anonymous data collected through this website
 
-In addition to the information collected as described above, technology is used to collect anonymous information about the use of this website. For example, technology may be used to track which pages of this website visitors view. Technology may also be used to determine which web browsers visitors use. This technology does not identify you personally, it simply enables the compilation of statistics about website visitors and their use of this website.
+In addition to the information collected as described above, technology is used to collect anonymous information about the use of this website. These technologies may include though are not limited to, Google Analytics Advertising Features such as ‘Remarketing with Google Analytics’ and ‘Google Analytics Demographics and Interest Reporting’. These and other technologies may be used to track which pages of this website visitors view as well as to collate non-personal demographic information about our visitors. Technology may also be used to determine which web browsers visitors use. This technology does not identify you personally, it simply enables the compilation of statistics about website visitors and their use of this website.
 
 This website contains hyperlinks to other pages on this website. Technology may be used to track how often these links are used and which pages on this website visitors choose to view. Again this technology does not identify you personally & it simply enables the compilation of statistics about the use of these hyperlinks.
 
@@ -55,7 +55,7 @@ Such anonymous data is used to improve the content and functionality of this web
 
 #### Cookies and IP address
 
-In order to collect the anonymous data described in the preceding paragraph, in the future temporary "cookies" that collect the first level domain name of the user (for example, if your e-mail address is "john@bigmail.com," the cookie collects the "bigmail.com" portion of your e-mail address) and the date and time you accessed this website may be used. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer's hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not.
+In order to collect the anonymous data described in the preceding paragraph, in the future temporary "cookies" that collect the first level domain name of the user (for example, if your e-mail address is "john@bigmail.com," the cookie collects the "bigmail.com" portion of your e-mail address) and the date and time you accessed this website may be used. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer's hard drive. An example of a Cookie that we use is the ‘Google Analytics’ cookie which aids our internal reporting. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. You can also opt out of Google Analytics Advertising Features at <https://www.google.co.uk/settings/ads>.
 
 IP address may also be used to help diagnose problems with this website's server and to administer this website. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information, such as determining how many visitors are from outside of the UK.
 
@@ -108,7 +108,7 @@ Of course, the Internet is made up of a large number of international connection
 
 #### Governing law
 
-This Privacy Policy forms part of the website [Terms of Use](http://americangolf.co.uk/content/terms.html?fid=Terms-Conditions) and as such shall be governed by and construed in accordance with the laws of England & Wales. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England & Wales.
+This Privacy Policy forms part of the website [Terms of Use](http://www.americangolf.co.uk/content/terms.html?fid=Terms-Conditions) and as such shall be governed by and construed in accordance with the laws of England & Wales. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England & Wales.
 
 #### Questions
 
