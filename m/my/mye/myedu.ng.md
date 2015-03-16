@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myedu.ng privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109194609id_/http%3A//www.myedu.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myedu.ng privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316215226id_/https%3A//myedu.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-This privacy policy document outlines the categories of private information is received and picked up by **myedu.ng  **
+This privacy policy document outlines the categories of private information is received and picked up by **myedu.ng and all Applications.  **
 
-****  and how it’s used.Log Files Like several different websites, **myedu.ng**  makes use of log files. the data within the log files includes web protocol ( IP ) addresses, variety of browser, web Service supplier ( ISP ), date/time stamp, referring/exit pages, and range of clicks to investigate trends, administer the positioning, track user’s movement round the web site, and gather demographic info.
+and how it’s used.Log Files Like several different websites, **myedu.ng**  makes use of log files. the data within the log files includes web protocol ( IP ) addresses, variety of browser, web Service supplier ( ISP ), date/time stamp, referring/exit pages, and range of clicks to investigate trends, administer the positioning, track user’s movement round the web site, and gather demographic info.
 
 IP addresses, and different such info aren’t linked to any info that’s personally identifiable.Cookies and net Beacons **myedu.ng**  will use cookies to store info concerning guests preferences, record user-specific info on that pages the user access or visit, customize website content based mostly on guests browser kind or different info that the visitor sends via their browser.
 
@@ -23,3 +23,7 @@ If you want to disable cookies, you will do thus through your individual browser
 In any case  you have any questions about  our Privacy Policy please feel free to contact us by using the form below
 
 y also manually insert the shortcode into a post/page.
+
+**STUDY IN GHANA & TURKEY  :: 2015 March Spring semester Admission now in progress  (GHANA and TURKEY) **,   
+***Want to study in Ghana ?* ** ::   [Click here to Apply!](http://myedu.ng/study-in-ghana/)   
+***Want to study in Turkey*** ::      [Click here to Apply!](http://myedu.ng/study-in-eastern-mediterranean-university/)
