@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mainstreethub.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209222531id_/http%3A//www.mainstreethub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainstreethub.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316125117id_/http%3A//www.mainstreethub.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy Main Street Hub
+# Privacy Policy | Main Street Hub
 
 Last Updated on July 25, 2011
 
