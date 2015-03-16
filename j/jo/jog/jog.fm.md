@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jog.fm privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022063531id_/http%3A//jog.fm/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jog.fm privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316092245id_/https%3A//jog.fm/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Workout songs and playlists - jog.fm
 
@@ -20,7 +20,7 @@ If you have any questions or concerns about the privacy of this site, please [co
 
 4\. We do not allow visitors to view your profile unless they are logged in to our site. In that case, they can see any information you provided on your profile (e.g. answers to profile questions, etc). Your username may be visible to visitors who are not logged in to the site.
 
-5\. We use [Google Analytics](http://www.google.com/analytics/) and [Clicky](http://getclicky.com/) for analytics. They have standard privacy policies, but you should review them as well.
+5\. We use [Google Analytics](http://www.google.com/analytics/) for analytics. They have standard privacy policies, but you should review them as well.
 
 6\. We use cookies to keep you logged in and to provide a more personalized experience. 
 
