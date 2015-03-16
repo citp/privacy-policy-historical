@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nextvenue.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701124317id_/http%3A//www.talkpoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextvenue.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316234645id_/http%3A//www.talkpoint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Talkpoint.com
 
 Welcome to [www.talkpoint.com](http://www.talkpoint.com/), a website provided by TalkPoint Holdings, LLC ("TalkPoint"), ([www.talkpoint.com](http://www.talkpoint.com/), plus all other websites provided by TalkPoint, are collectively referred to in this policy as the “Site”).  TalkPoint recognizes the importance of protecting your privacy, and this policy covers TalkPoint’s handling of personal information collected by it through the Site or from other sources in the ordinary course of business (including, but not limited to, personal information relating to employees of TalkPoint).  A list of all websites covered by this policy can be obtained from TalkPoint by contacting it as set forth in Section 19.
 
