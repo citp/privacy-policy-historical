@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paradigm.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093127id_/http%3A//paradigm.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paradigm.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316015641id_/http%3A//www.paradigm.com/support/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Paradigm®
 
