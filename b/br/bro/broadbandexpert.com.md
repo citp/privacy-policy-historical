@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the broadbandexpert.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501205131id_/http%3A//www.broadbandexpert.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandexpert.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316133157id_/http%3A//www.broadbandexpert.com/privacy-policy) for the most accurate reproduction.*
 
-# Broadband Expert - Privacy Policy
+# The Broadband Expert Privacy Policy | Broadband Expert
 
-BROADBAND EXPERT PRIVACY POLICY
+## BROADBAND EXPERT PRIVACY POLICY
 
 RichWeb Media LLC (“RWM”, “we” or “us”) operates the web site located at www.broadbandexpert.com. (the “Site”). This serves as RWM’s Privacy Policy for the Site.
 
@@ -28,7 +28,9 @@ RichWeb Media LLC
 
 ATTN: Privacy Policy Manager
 
-ADDRESS: 7655 NW 116th Lane, Parkland, Florida, 33076
+ADDRESS: Cypress Creek Executive Center  
+1451 W Cypress Creek Road, Suite 300  
+Ft. Lauderdale, FL 33309 
 
 EMAIL: info@broadbandexpert.com
 
