@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the londoneye.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007014312id_/http%3A//www.londoneye.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoneye.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316090837id_/https%3A//www.londoneye.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-This web site is owned and run by London Eye Management Services Limited ("the London Eye"), a division of Merlin Entertainments Group. The London Eye recognises that your privacy is important, and is committed to preserving it. This policy sets out our policy in relation to any personal information which you supply to us through your use of this website. 
+This web site is owned and run by London Eye Management Services Limited ("Coca-Cola London Eye"), a division of Merlin Entertainments Group. Coca-Cola London Eye recognises that your privacy is important, and is committed to preserving it. This policy sets out our policy in relation to any personal information which you supply to us through your use of this website. 
 
-The London Eye makes every effort to maintain customer confidentiality when securing an online payment. This includes ensuring the security of your credit card details and other personal information. All of your personal information is encrypted as it travels over the Internet. 
+Coca-Cola London Eye makes every effort to maintain customer confidentiality when securing an online payment. This includes ensuring the security of your credit card details and other personal information. All of your personal information is encrypted as it travels over the Internet. 
 
 **PRIVACY POLICY**
 
