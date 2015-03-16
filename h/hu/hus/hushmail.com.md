@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903104230id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316144816id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hushmail – Private Email
 
@@ -15,7 +15,7 @@ By visiting our website and using our services, you consent to the collection an
 We take steps where possible to limit the personal data we collect. The following are the ways in which we may collect personal data:
 
   1. **Visiting our website.** We keep records of the activity that takes place on our website, including a record of Internet Protocol Addresses (IP addresses) used by website visitors and account holders. We use this information to analyze market trends, gather broad demographic information, and to prevent abuse of our services.
-  2. **Creating an account.** When you create an account, we do not require you to provide any personal data. As part of the account creation process, your IP address will be recorded. We use this information to analyze market trends, gather broad demographic information, and to prevent abuse of our services.
+  2. **Creating an account.** As part of the account creation process your IP address will be recorded. We may request that you provide other information, such as a phone number, as well. We use this information to analyze market trends, gather broad demographic information, and to prevent abuse of our services. We will not share this information with third-parties.
   3. **Making a purchase.** When you make a purchase through the Hush website, you will provide us with data that we use to process your payment such as your name, the account you are upgrading, the domain you wish to use for your email, alternate email address, your billing address and your credit card information. Additionally, we will record the IP address from where the payment is made. When we process your payment transaction, this payment information will be transmitted to our payment processor. We use third-party PCI compliant services to process your payment transaction. When we process your payment, we share your IP address, city, country, and postal code with a third – party anti-fraud service to determine the likelihood of the purchase being a fraudulent transaction. We do not store your credit card number on our servers.
   4. **Signing in to your account and our record of your activity.** When you sign into your account, either by using a web browser or using other software, we will record certain information about your activity. When you perform actions such as reading or moving an email, we will also record these actions. We record this information to help resolve customer support queries, maintain services, and for the purpose of preventing abuse. Information we record may include your IP address, your browser type, browser language, date and time of the action, account usernames, sender and recipient email addresses, file names of attachments, subjects of emails, URLs in the bodies of unencrypted email, and any other information that we deem necessary to record for the purposes of maintaining the system and preventing abuse.
   5. **Communicating with us.** When you communicate with us, you may provide us with personal data about yourself. Your communication with us may be retained in our system.
@@ -106,6 +106,14 @@ We **do not analyze** your email for the purpose of displaying advertisements. O
 
 We only collect personal data from users that is relevant to the purposes outlined above. We take reasonable steps to ensure that the personal data we collect is reliable, accurate, and complete. Users have the ability to access the personal data held in their customer record by logging into the billing section of our website. To request corrections or deletions of inaccurate data, contact us: <https://www.hushmail.com/contact>.
 
+## Temporary access to data by third-party services
+
+There are some cases when, due to malicious web traffic, we must temporarily employ a third-party service to ensure that our services continue to be available to our users. During these times, your data will be subject to that service provider’s data disclosure policy.
+
+For more information, please read:
+
+<https://help.hushmail.com/entries/245155-Security-Analysis>
+
 ## Compliance with EU Data Protection Directive 95/46/EC
 
 The European Commission recognizes that the Canadian Personal Information Protection and Electronic Documents Act (PIPEDA) provides adequate protection for the transfer of personal information and health information from the EU to Canada.
@@ -126,7 +134,7 @@ Or by mail to the following address:
 
 Hush Communications Canada Inc.  
 Attn.: Compliance Officer  
-Suite 1177 – 1100 Melville Street  
+Suite 360 – 580 Hornby Street  
 Vancouver, BC  
-Canada  
-V6E 4A6 
+V6C 3B6  
+Canada 
