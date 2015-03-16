@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the gremlintube.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075003id_/http%3A//www.gremlintube.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gremlintube.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316182220id_/http%3A//www.gremlintube.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 for [www.gremlintube.com](http://www.gremlintube.com/)  
-Effective Date: June 26, 2014  
+Effective Date: March 16, 2015  
 Last Modified: October 4, 2013 
 
 Pursuant to our [Terms of Use](http://www.gremlintube.com/info/i.php?action=terms), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
