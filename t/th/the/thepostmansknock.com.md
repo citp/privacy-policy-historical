@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepostmansknock.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141525id_/http%3A//thepostmansknock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepostmansknock.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316033951id_/https%3A//thepostmansknock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Postman's Knock
 
@@ -6,7 +6,7 @@
 
 Personal identification information {e.g. name, email address, address} is collected in a number of ways. This includes when you visit thepostmansknock.com, place an order, subscribe to the newsletter, respond to a survey, fill out a form; or participate in other activities, services, features or resources I make available on The Postman’s Knock. You may be asked for, as appropriate, name, email address, mailing address. You may, however, visit the site anonymously. Personal identification information will be accepted from you only if you voluntarily submit such information to this site. You can always refuse to supply personal identification information, except that it may prevent you from engaging in site-related activities {i.e. ordering a product}.
 
-YOUR PERSONAL IDENTIFICATION INFORMATION WILL NEVER BE SHARED WITH A THIRD PARTY. I may retain your information in order to send updates {i.e. with the life planning systems}; send a thank you card, etc. If, however, you wish for your personal information to be erased from my records, you need only ask.
+YOUR PERSONAL IDENTIFICATION INFORMATION WILL NEVER BE SHARED WITH A THIRD PARTY. I may retain your information in order to send updates {i.e. with digital files}; send a thank you card, etc. If, however, you wish for your personal information to be erased from my records, you need only ask.
 
 ## Non-Personal Identification Information
 
@@ -42,11 +42,11 @@ I adopt appropriate data collection, storage and processing practices and securi
 
 ## Sharing Your Personal Information
 
-I DO NOT — AND WILL  NOT — SELL, TRADE, OR RENT YOUR PERSONAL IDENTIFICATION INFORMATION TO OTHERS. I may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with my business partners, trusted affiliates and advertisers. Ialso  may use third-party service providers to help me operate The Postman’s Knock/thepostmansknock.com or administer activities on my behalf, such as sending out newsletters or surveys. I may share your information with these third parties for those limited purposes provided that you have given me your permission.
+I DO NOT — AND WILL  NOT — SELL, TRADE, OR RENT YOUR PERSONAL IDENTIFICATION INFORMATION TO OTHERS. I may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with my business partners, trusted affiliates and advertisers {for example, I may let partners/advertisers know how many site views the TPK site gets on average, and your views will count in that average}. I also may use third-party service providers to help me operate The Postman’s Knock/thepostmansknock.com or administer activities on my behalf, such as sending out newsletters or surveys {MailChimp}. I may share your information with these third parties for those limited purposes provided that you have given me your permission.
 
 ## Third Party Websites
 
-You may find advertising or other content on The Postman’s Knock that links to the sites and services of my partners, suppliers, advertisers, sponsors, licensors and other third parties. I do not control the content or links that appear on these sites, and I am not responsible for the practices employed by websites linked to or from thepostmansknock.com. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+You may find advertising or other content on The Postman’s Knock that links to the sites and services of my partners, suppliers, advertisers, sponsors, licensors and other third parties. I do not control the content or links that appear on these sites, and I am not responsible for the practices employed by websites linked to or from thepostmansknock.com. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to my Site, is subject to that website’s own terms and policies.
 
 ## Advertising
 
@@ -71,8 +71,8 @@ If you have any questions about this privacy policy, the practices of this site,
 
 Lindsey Bugbee  
 The Postman’s Knock  
-[http://www.thepostmansknock.com](http://www.thepostmansknock.com/)  
+[https://thepostmansknock.com](https://thepostmansknock.com/)  
 [lindsey@thepostmansknock.com](mailto:lindsey@thepostmansknock.com)  
-+1 (720) 443-1535
++1 (785) 443-0354
 
-This article was last modified on May 2, 2014
+This article was last modified on August 7, 2014
