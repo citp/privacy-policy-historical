@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avaxhm.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224163736id_/http%3A//avaxhm.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avaxhm.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316235009id_/http%3A//avaxhm.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
