@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the carbuyingtips.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806062552id_/https%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbuyingtips.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316213541id_/https%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.*
 
 # CarBuyingTips.com Privacy Policy
 
 Privacy Policy Statement for CarBuyingTips.com
 
-This is the web site of [CarBuyingTips.com](http://www.carbuyingtips.com/).
+This is the web site of [CarBuyingTips.com](https://www.carbuyingtips.com/).
 
-We can be reached via e-mail at [www.carbuyingtips.com/email.htm](http://www.carbuyingtips.com/email.htm).
+We can be reached via e-mail at [www.carbuyingtips.com/email.htm](https://www.carbuyingtips.com/email.htm).
 
 For each visitor to CarBuyingTips.com, our web server automatically recognizes and logs only the visitor's domain name and IP address, but never an e-mail address or any other personally identifiable information.
 
