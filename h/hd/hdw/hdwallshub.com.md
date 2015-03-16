@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hdwallshub.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701184203id_/http%3A//www.hdwallshub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallshub.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316053719id_/http%3A//www.hdwallshub.com/privacy.html) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
 **Privacy Policy**
 
-Your privacy is importance to us here at hdwallshub.com. Rest assured that any information you provide will only be used in accordance with this privacy statement. This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.
+Your privacy is importance to us here at hdwallpapersin.com. Rest assured that any information you provide will only be used in accordance with this privacy statement. This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.
 
  **Collection and Use of Information**
 
@@ -16,11 +16,11 @@ We never use or share any of those information in ways unrelated to the ones des
 
  **Third-Party Advertisers**
 
-In order to cover the costs of providing hdwallshub.com as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by hdwallshub.com's privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
+In order to cover the costs of providing hdwallpapersin.com as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by hdwallpapersin.com's privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
  **Cookies and Web Beacons**
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. We also use third party advertisements on hdwallshub.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo targeting purposes or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. We also use third party advertisements on hdwallpapersin.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo targeting purposes or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
  **Double Click DART Cookies**
 
@@ -34,7 +34,7 @@ Our site may contain links to other websites of interest. However, once you use 
 
  **Account Cancellation**
 
-Upon request, your hdwallshub.com account can be canceled. Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear and include your username, but will not be linked to your profile. After cancellation, you will be not be available for log-in.
+Upon request, your hdwallpapersin.com account can be canceled. Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear and include your username, but will not be linked to your profile. After cancellation, you will be not be available for log-in.
 
  **Data Retention**
 
@@ -42,4 +42,4 @@ The data submitted to and generated by this web site may be copied to additional
 
  **Privacy Contact Information**
 
-Should you have any questions, concerns, or comments about our privacy policy, please contact us using our Contact Form or email us directly at [privacy@hdwallshub.com](mailto:privacy@hdwallshub.com "Privacy Policy").
+Should you have any questions, concerns, or comments about our privacy policy, please contact us using our Contact Form or email us directly at [privacy@hdwallpapersin.com](mailto:privacy@hdwallpapersin.com "Privacy Policy").
