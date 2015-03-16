@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104030912id_/https%3A//www.msufcu.org/disclosures/%3Fexpand%3Dprivacy_policy%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316083959id_/https%3A//www.msufcu.org/disclosures/%3Fexpand%3Dprivacy_policy%23privacy_policy) for the most accurate reproduction.*
 
 # MSU Federal Credit Union | Disclosures | Savings & Checking
 
