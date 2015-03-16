@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missoni.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023074628id_/http%3A//www.missoni.com/cms/legal/privacypolicy.asp%3Ftskay%3DDF9094F8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missoni.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316051112id_/http%3A//www.missoni.com/cms/legal/privacypolicy.asp%3Ftskay%3DDF9094F8) for the most accurate reproduction.*
 
 # Missoni Online Store - Legal Area
 
