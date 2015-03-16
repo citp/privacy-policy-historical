@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the budgetchallenge.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103074716id_/http%3A//www.budgetchallenge.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetchallenge.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316034604id_/http%3A//www.budgetchallenge.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Budget Challenge > Home
 
 **Privacy Policy**
 
-This Privacy Policy (“Policy”), effective 9/5/2014, tells you about ProperLiving’s privacy practices governing personal information we may collect when you visit our budgetchallenge.com website (including any subdomains), and how we may use and share that information.  Your prior activities on the site may have been governed by an earlier version of this Policy.
+This Privacy Policy (“Policy”), effective 1/1/2015, tells you about ProperLiving’s privacy practices governing personal information we may collect when you visit our budgetchallenge.com website (including any subdomains), and how we may use and share that information.  Your prior activities on the site may have been governed by an earlier version of this Policy.
 
 From time to time, and only as permitted by law, we may use your information for new, unanticipated uses not previously disclosed in our Policy.  If our information practices do change materially, we will post the changes to our website and revise our Policy accordingly.  In addition, if we have collected personally-identifying information from you, we will notify you via email and secure your consent before using your personal information in new ways.
-
-**Special Note to Teachers, Students and Parents:** Programs, games, contests, and services offered through budgetchallenge.com and any related subdomains are not marketed to children under the age of 13, nor do we knowingly collect information from children under the age of 13.
 
 **_What Information Do We Collect?_**
 
@@ -27,6 +25,10 @@ To register for Budget Challenge, you will be asked for your first and last name
 PARENTS:
 
 If your student invites you to register to view his or her account, you will be asked for your first and last name and your email address.  You will also set up a user name and password.
+
+PROGRAM ALUMNI:
+
+To register for participation in the Alumni Network, you will be asked for your first and last name, age, gender, secondary email address, cell phone number, and home zip code. As you participate, you will also be asked to provide information about certain financial events in your life, such as your bank fees, credit card fees, and experiences managing money after the Budget Challenge.
 
 Other user information we collect:
 
@@ -54,7 +56,9 @@ TEACHERS:  Your name, school, school state, and class averages will be added to
 
 STUDENTS:  Your class and your teacher will be able to see your name, ranking, scores, survey points, and account activity.  Your teacher will also be able to see your email address, user name, password, quiz activity, and any questions you submit to us during the simulation, along with our responses.  If you invite your parents to view your account, they will be able to see your name, rank, and quiz activity, but will not see any other students’ names.
 
-            PARENTS:  None of your information is displayed to others on the site.
+PARENTS:  None of your information is displayed to others on the site.
+
+ALUMNI:  None of your information provided through the Alumni Network is displayed to others on the site.
 
 We do not share Personal Information we collect with any third parties, except as follows:
 
