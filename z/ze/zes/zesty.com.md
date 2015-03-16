@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zesty.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922174118id_/http%3A//www.zesty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zesty.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316013932id_/https%3A//www.zesty.com/privacy) for the most accurate reproduction.*
 
 # Zesty - Privacy Policy
 
@@ -121,4 +121,4 @@ Alternatively, you may send us an email at [support@zesty.com](mailto:support@ze
 
 If you have any questions about this Privacy Policy or the Service, please contact us at [support@zesty.com](mailto:support@zesty.com).
 
-2140 Taylor Street, #902, San Francisco, California, 94133 || (415) 202-6922
+2140 Taylor Street, #902, San Francisco, California, 94133 || (800) HEY-ZESTY
