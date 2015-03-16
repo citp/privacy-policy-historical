@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gorkana.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706164204id_/http%3A//www.gorkana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorkana.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316062235id_/http%3A//www.gorkana.com/privacy) for the most accurate reproduction.*
 
-# Gorkana (gorkana.com) / Privacy
+# Privacy | Gorkana Group
 
 #### Privacy Policy
 
@@ -171,25 +171,23 @@ c) from publicly available sources (such as news stories, press releases, online
 
 d) from other third party sources (for example, information provided by Gorkana’s customers or from other journalists).
 
-13.4 We will not add any individual journalist to our Media Database without: (a) that person’s consent; or (b) with the consent of someone acting with that person’s authority or (c) if we are otherwise permitted to do so in accordance with applicable laws.
-
   * How the Media Database is used
 
 
 
-13.5 In addition to the general uses in section 4.1, information about our journalists that is contained in the Media Database may be made available to our corporate subscribers who use our products and services. For example, Gorkana’s corporate PR customers that subscribe to our Media Database & Alerts service will have access to information about journalists (including their contact information) that we hold in the Media Database, and will be sent alerts providing information about changes to the database (for example, changes in job titles, journalist moves, and contact information). Our corporate customers may contact journalists direct (using the contact information we keep in the Media Database) to, for example, send press releases or other PR material which our customers may consider will be of interest to the journalist in question. Gorkana does not control and is not responsible for the content of any such communications.
+13.4 In addition to the general uses in section 4.1, information about our journalists that is contained in the Media Database may be made available to our corporate subscribers who use our products and services. For example, Gorkana’s corporate PR customers that subscribe to our Media Database & Alerts service will have access to information about journalists (including their contact information) that we hold in the Media Database, and will be sent alerts providing information about changes to the database (for example, changes in job titles, journalist moves, and contact information). Our corporate customers may contact journalists direct (using the contact information we keep in the Media Database) to, for example, send press releases or other PR material which our customers may consider will be of interest to the journalist in question. Gorkana does not control and is not responsible for the content of any such communications.
 
   * Maintaining the Media Database
 
 
 
-13.6 Gorkana prides itself in maintaining up to date and accurate data on the Media Database. We will update our records as soon as possible after receiving information that requires changes to our database. Such information may come to us from any of the sources referred to above. We may also receive information from other sources, for example, out of office messages. Where appropriate, we will notify the journalist of substantive changes, and may choose not to make any changes until they have been approved by the journalist.
+13.5 Gorkana prides itself in maintaining up to date and accurate data on the Media Database. We will update our records as soon as possible after receiving information that requires changes to our database. Such information may come to us from any of the sources referred to above. We may also receive information from other sources, for example, out of office messages. Where appropriate, we will notify the journalist of substantive changes, and may choose not to make any changes until they have been approved by the journalist.
 
-13.7 As a journalist you will always have the opportunity to review and request changes to the information we hold about you. 
+13.6 As a journalist you will always have the opportunity to review and request changes to the information we hold about you. 
 
-13.8 If you no longer wish to be on the Media Database we will remove you from it. You may still receive other services (e.g. Media Alerts) even if you are no longer on the Media Database.
+13.7 If you no longer wish to be on the Media Database we will remove you from it. You may still receive other services (e.g. Media Alerts) even if you are no longer on the Media Database.
 
-13.9 If, at any time, you wish to be removed from the Media Database, or if you would like to review your profile, please email us at [privacy@gorkana.com](mailto:privacy@gorkana.com).
+13.8 If, at any time, you wish to be removed from the Media Database, or if you would like to review your profile, please email us at [privacy@gorkana.com](mailto:privacy@gorkana.com).
 
 #### 14\. CHANGES TO THIS POLICY/ CONTACT POINTS
 
