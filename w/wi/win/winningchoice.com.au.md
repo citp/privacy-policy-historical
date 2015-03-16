@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winningchoice.com.au privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106004621id_/http%3A//www.cohort.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningchoice.com.au privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317003651id_/http%3A//www.cohort.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Cohort Global
 
