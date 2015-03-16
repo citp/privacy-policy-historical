@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the techmynd.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101085207id_/http%3A//www.techmynd.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmynd.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316155618id_/http%3A//www.techmynd.com/policy) for the most accurate reproduction.*
 
 # Privacy and Ads Policy - TechMynd
 
 ## Privacy Policy
 
-We take your privacy seriously. This policy describes what [personal](http://www.techmynd.com/category/what-more/personal/ "personal") information we collect and how we use it.
+We take your privacy seriously. This policy describes what personal information we collect and how we use it.
 
 ## Routine Information Collection
 
@@ -18,7 +18,7 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 
 ## Controlling Your Privacy
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on [how to](http://www.techmynd.com/category/tips-tricks/how-to-tips-tricks/) block cookies and other tracking mechanisms.
 
 ## About Google Advertising
 
@@ -27,7 +27,7 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 **About Google advertising:** What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Learn more about the DoubleClick DART cookie.
 
   * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
-  * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the [Internet](http://www.techmynd.com/category/downloads/software-internet/ "Internet").
+  * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the advertising opt-out page. Alternatively, you can opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page.
 
 
@@ -36,7 +36,7 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 TechMynd serves ads mainly using services from Reduxmedia, Valueclick Media, [Infolinks](http://www.infolinks.com/), buysellads, Adside, Afterdownload, VigLink (Opt-Out from using VigLink) but not each or all. We may use any of these ads serving networks or cease to use any of these anytime. Please visit those websites if you want to know more about “how they serve ads?”, their privacy policy or terms.
 
-Users can visit the above ad serving networks to opt out of cookies if they need. Further more we try to mention **sponsored links** or **advertisements** where possible.
+Users can visit the above ad serving networks to opt out of cookies if they need. Further more we try to mention **sponsored[links](http://www.techmynd.com/links/)** or **advertisements** where possible.
 
 ## Contact Information
 
