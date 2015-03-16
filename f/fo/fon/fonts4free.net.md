@@ -1,34 +1,36 @@
-> *The following text is extracted and transformed from the fonts4free.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625210228id_/http%3A//www.fonts4free.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonts4free.net privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316161940id_/http%3A//www.fonts4free.net/privacy-policy.html) for the most accurate reproduction.*
 
-# www.fonts4free.net Privacy Policy & Contact Form
-
-#### 
+# Privacy Policy - Fonts4Free.net
 
 **_Privacy Policy_**
 
-We respect your privacy and we are committed to safeguarding your privacy while online at our site www.fonts4free.net. The following discloses the information gathering and dissemination practices for this Web site.
+At Fonts4Free.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Fonts4Free.net and how it is used.
 
 **Log Files**
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+Like many other Web sites, Fonts4Free.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies**
+**Cookies and Web Beacons**
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Our site don't use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+Fonts4Free.net does not use cookies.
 
-**DoubleClick DART cookie**
+**DoubleClick DART Cookie**
 
-The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/). 
+  * Google, as a third party vendor, uses cookies to serve ads on Fonts4Free.net.
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to Fonts4Free.net and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
-**Links**
 
-www.fonts4free.net contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by www.fonts4free.net.
 
-**Contact Information**
+Some of our advertising partners may use cookies and web beacons on our site.
 
-For any questions or suggestions about our site or privacy policy, please use the form below to contact us.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on Fonts4Free.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+Fonts4Free.net has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Fonts4Free.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
   
 
-
-* * *
