@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nileguide.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812010646id_/https%3A//www.nileguide.com/pages/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nileguide.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316134052id_/https%3A//www.nileguide.com/pages/info/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,7 +70,7 @@ As stated previously, you can always opt not to disclose information, even thoug
 
 If you add or update certain information on pages, we may maintain a copy of the unrevised information in our records. 
 
-If you are a registered user of Company´s services, you may request deletion of your Company account by [contacting us](http://www.nileguide.com/contact/). Please note that some information may remain in our records after deletion of your account. 
+If you are a registered user of Company´s services, you may request deletion of your Company account by [contacting us](https://www.nileguide.com/contact/). Please note that some information may remain in our records after deletion of your account. 
 
 Please note that if you do not want to receive legal notices from us, such as revisions to this Privacy Policy, those legal notices will still govern your use of the Company website, and you are responsible for reviewing such legal notices for changes. 
 
@@ -89,4 +89,4 @@ The service may permit you to link to other websites on the Internet, and other 
 Company may amend this Privacy Policy at any time. You are responsible for ensuring that you are aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
 
 **Questions or Concerns**   
-If you have any questions or concerns regarding privacy at Company site, please [contact us](http://www.nileguide.com/contact/). Your privacy is important to us and we will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy at Company site, please [contact us](https://www.nileguide.com/contact/). Your privacy is important to us and we will make every effort to resolve your concerns. 
