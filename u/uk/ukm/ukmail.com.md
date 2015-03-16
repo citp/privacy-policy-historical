@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukmail.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701103957id_/https%3A//www.ukmail.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukmail.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316203440id_/https%3A//www.ukmail.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies
 
@@ -29,11 +29,11 @@ We may provide information about you to employees and agents of UK Mail to admin
 
 We will not disclose your personal information to any third party unless you have consented to such disclosure or where we are required to do so by law. Should you breach our terms and conditions or terms of use or if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, we may disclose your information to a relevant authority. This may include exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-Any disclosure of personal information will be strictly controlled and made fully in accordance with current UK legislation, in particular the UK Data Protection Act 1998 (the Act). For the purpose of the Act, the data controller is UK Mail Group PLC, 120 Buckingham Avenue, Slough, Berkshire, SL1 4PL 
+Any disclosure of personal information will be strictly controlled and made fully in accordance with current UK legislation, in particular the UK Data Protection Act 1998 (the Act). For the purpose of the Act, the data controller is UK Mail Group PLC, 120 Buckingham Avenue, Slough, Berkshire,  SL1 4LZ 
 
 ### Right to access your Personal Information
 
-The Act gives you the right to access information held about you. You can obtain access to your personal information held by us by sending a cheque for £10 (to cover administration costs for collating this information), made payable to "UK Mail Group PLC", to: Data Protection Officer, UK Mail Group PLC, 120 Buckingham Avenue, Slough, Berkshire, SL1 4PL  
+The Act gives you the right to access information held about you. You can obtain access to your personal information held by us by sending a cheque for £10 (to cover administration costs for collating this information), made payable to "UK Mail Group PLC", to: Data Protection Officer, UK Mail Group PLC, 120 Buckingham Avenue, Slough, Berkshire,  SL1 4LZ   
 
 
 ### Cookies
