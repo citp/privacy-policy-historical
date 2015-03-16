@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspnix.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811030012id_/http%3A//aspnix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspnix.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316162250id_/http%3A//aspnix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ASPnix Web Hosting
 
