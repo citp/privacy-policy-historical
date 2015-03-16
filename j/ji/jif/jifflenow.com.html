@@ -1,317 +1,601 @@
-<!--The following is the downloaded HTML source of the jifflenow.com privacy policy that was archived on 2011-08-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110813005618id_/http%3A//www.jifflenow.com/website/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jifflenow.com privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316085330id_/https%3A//www.jifflenow.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Welcome to Jiffle | Scheduling Made Simple | Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="/stylesheets/website/default.css" rel="stylesheet" type="text/css">
-<script src="/images/SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
-<script src="/javascripts/prototype.js?" type="text/javascript"></script>
-<script src="/javascripts/effects.js?" type="text/javascript"></script>
-<script src="/javascripts/dragdrop.js?" type="text/javascript"></script>
-<script src="/javascripts/controls.js?" type="text/javascript"></script>
-<script src="/javascripts/application.js?" type="text/javascript"></script>
-<script src="/javascripts/website/script.js" type="text/javascript"></script>
-<link href="/images/SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" type="image/x-ico" href="/images/application_favicon285.ico">
-<script src="/javascripts/website/AC_RunActiveContent.js" type="text/javascript"></script>
-<script type="text/JavaScript">
-<!--
-function toggle_visibility(id) {
-	var e = document.getElementById(id);
-	var homelink= new Array('limited','calendar');
-		for (var i=0; i<homelink.length; i++) {
-			n= document.getElementById(homelink[i]);
-			n.style.display='none';
-		}
-	e.style.display = 'block';
-}
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+	<meta charset="UTF-8">
+	<meta charset="utf-8">	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Jifflenow is a secure B2B meeting scheduling solution used by world's leading brands at trade shows and events.">
+	<link rel="icon" href="img/fav/fav_ico.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://www.jifflenow.com/wp-content/uploads/2014/09/fav_ico1.png">
+    
+	<title>Simplifying meeting scheduling at B2B events I Jifflenow</title>
+	
+	<meta name="keywords" content="Schedule Meetings, Meetings, Events, B2B Meeting Solution">
+	
+	<link href="https://www.jifflenow.com/wp-content/themes/jifflenow/css/main.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="https://www.jifflenow.com/wp-content/themes/jifflenow/css/bootstrap-grid.css">
+	<link rel="stylesheet" type="text/css" href="https://www.jifflenow.com/wp-content/themes/jifflenow/css/component.css">
+	<link type="text/css" rel="stylesheet" href="https://www.jifflenow.com/wp-content/themes/jifflenow/css/easy-responsive-tabs.css">
+	<link rel="stylesheet" href="https://www.jifflenow.com/wp-content/themes/jifflenow/css/jquery.bxslider.css">
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css">
+	
+	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0023/4592.js?439009" async="" type="text/javascript"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580435700000/426260.js"></script><script type="text/javascript" async="" src="https://219699.sa.siteapps.com/219699.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var switchTo5x=true;</script>
+	<script type="text/javascript" src="//w.sharethis.com/button/buttons.js"></script>
+	
+	<script>
+var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-44795602-1']);
+  _gaq.push(['_trackPageview']);
 
-function togglevisibility(id) {
-	var e = document.getElementById(id);
-	var homelink= new Array('limited','calendar');
-		for (var i=0; i<homelink.length; i++) {
-			n= document.getElementById(homelink[i]);
-			n.style.display='none';
-		}
-	e.style.display = 'none';
-}	
-
-function existing_user(request){
-
-        var instruction = request.getResponseHeader('X-Instruction');
-		var err = request.getResponseHeader('X-error');
-		var val_title = request.getResponseHeader('X-value');
-		
-		if(instruction == "OK")
-		{  		
-			$('message').innerHTML = "<strong style='color:#FF0000;'>"+err+"</strong><br>";
-		}
-		if (val_title == "Valid")
-		{
-				
-				action_url = "/website/get_jiffle";
-				
-				window.location.href = "http://www.jifflenow.com"+ action_url;
-				window.load();
-		}
-}
-
-
-function populate_url()
-{
-     $('customised_url').value = $('first_name').value+""+$('last_name').value;
-
-}
-
-function validates_user(request)
-{
-        var instruction = request.getResponseHeader('X-Instruction');
-		var err = request.getResponseHeader('X-error');
-		var val_title = request.getResponseHeader('X-value');
-		
-		if(instruction == "OK")
-		{  		
-			
-			$('message').innerHTML = "<strong style='color:#FF0000;'>"+err+"</strong><br>";
-		}
-		if (val_title == "Valid")
-		{
-		      
-		     emailval= $('email').value;
-		     passwordval= $('password').value;
-		   	new Ajax.Updater('validates_mail', '/website/existing_user_page?email='+emailval+'&password='+passwordval, {asynchronous:true, evalScripts:true,onComplete:function(request){}});return true;
-
-		}
-		
-}
-
-function newgetipolipo(request)
-{
-        var instruction = request.getResponseHeader('X-Instruction');
-		var err = request.getResponseHeader('X-error');
-		var val_title = request.getResponseHeader('X-value');
-		
-		if(instruction == "OK")
-		{
-			$('message').innerHTML = "<strong style='color:#FF0000;'>"+err+"</strong><br>";
-		}
-		if (val_title == "OK")
-		{
-
-				action_url = "/website/get_jiffle";
-				
-				window.location.href = "http://www.jifflenow.com"+ action_url;
-				window.load();
-		}
-}
-
-
-function get_terms()
-{
-                action_url = "/website/terms";
-				
-				window.location.href = "http://www.jifflenow.com"+ action_url;
-				window.load();
-}
-//-->
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
-</head>
+
+<script type="text/javascript">
+$SA = {s:219699, asynch: 1};
+(function() {
+   var sa = document.createElement("script");
+   sa.type = "text/javascript";
+   sa.async = true;
+   sa.src = ("https:" == document.location.protocol ? "https://" + $SA.s + ".sa" : "http://" + $SA.s + ".a") + ".siteapps.com/" + $SA.s + ".js";
+   var t = document.getElementsByTagName("script")[0];
+   t.parentNode.insertBefore(sa, t);
+})();
+</script>
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0023/4592.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<script async="" type="text/javascript" src="//jifflenow.disqus.com/count.js"></script></head>
+
 <body>
-<div id="wrapper">
-	<div class="popup" id="limited" style="display:none;">
-        <a href="#" class="popupclose" onclick="togglevisibility('limited')"><img src="/images/website/img/close.gif" alt="Close" title="Close"></a>
-        <p>A Limited Time Invite gives your contacts access to a designated window of available time in your schedule. You can specify the start date and the <u>duration (in weeks)</u> of that window of time.</p>
+<div class="container">
+<header>
+  <div class="row">
+    <div class="col-xs-8 col-md-3 col-sm-3 col-lg-3"><a href="https://www.jifflenow.com" class="jn-logo"><img src="https://www.jifflenow.com/wp-content/themes/jifflenow/images/logo.png" alt="Jifflenow" title="Jifflenow"></a></div>
+    <div class="col-xs-4  col-md-9 col-sm-9 col-lg-9">
+      <nav class="text-right cf"> <a href="#" id="pull"></a>
+        <div class="menu-top-nav-container"><ul id="menu-top-nav" class="nav-menu"><li id="menu-item-386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-386"><a href="https://www.jifflenow.com/">Home</a><span></span></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="https://www.jifflenow.com/product/">Product</a><span></span></li>
+<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://www.jifflenow.com/customers/">Customers</a><span></span></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="https://www.jifflenow.com/partners/">Partners</a><span></span></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://www.jifflenow.com/blog/">Blog</a><span></span></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a target="_blank" href="https://www.jifflenow.com/request-a-demo/">Request a demo</a><span></span></li>
+</ul></div>      </nav>
     </div>
-    <div class="popup" id="calendar" style="display:none;">
-        <a href="#" class="popupclose" onclick="togglevisibility('calendar')"><img src="/images/website/img/close.gif" alt="Close" title="Close"></a>
-        <p>Allows you to mark and share available time in your calendar for several <u>months</u> in advance with your contacts.</p>
+  </div>
+</header>
+
+<div class="content-area blog-page cf">
+  <div class="blog-panel" style="background-image:url(https://www.jifflenow.com/wp-content/themes/jifflenow/images/banner-blog.jpg);">
+    <div class="row">
+      <div class="col-md-3 col-sm-4 col-xs-12  hidden-xs  "> </div>
+      <div class="col-md-6 col-sm-4 hidden-xs  "></div>
+      <div class="col-md-3 col-sm-4 col-xs-12 text-right">
+        <div class="search-widget">
+          <form class="navbar-form" role="search" method="get" action="https://www.jifflenow.com/">
+        <div class="input-group">
+            <input type="text" value="" name="s" id="s" placeholder="Search" class="form-control">
+            <div class="input-group-btn">
+                <button type="submit" id="searchsubmit" class="btn btn-default"><i class="glyphicon glyphicon-search"></i></button>
+            </div>
+        </div>
+        </form>        </div>
+      </div>
     </div>
-	<div class="wrapper_border">
-		<div id="Header"><a href="/website/index"><img src="/images/website/img/logo.gif" alt="" border="0"></a><a href="/jiffle_index" class="login"><img src="/images/website/img/butt_login.gif" title="Login"></a>
-			<ul id="MenuBar1" class="MenuBarHorizontal">
-				<li><a href="/website/index">
-					
-						<img src="/images/website/img/link_home.gif" title="Home" border="0" class="roll">
-							
-							</a> </li>
-						
-					
-				<li><a href="/website/what_is_jiffle" class="MenuBarItemSubmenu">
-					
-						<img src="/images/website/img/link_whatisjiffle.gif" title="What's Jiffle?" border="0" class="roll">
-					
-					</a>
-					<ul>
-						<li><a href="/website/what_is_jiffle">Overview</a></li>
-						<li><a href="/website/features">Features</a></li>
-						<li><a href="/website/demo">How It Works</a></li>
-						<li><a href="/website/benefits">Benefits</a></li>
-						<li><a href="/website/faq">FAQs</a></li>
-						<li><a href="/website/webex_user">Webex Users</a></li>
-					</ul>
-				</li>
-				
-				<li><a href="/website/team" class="MenuBarItemSubmenu">
-				
-						<img src="/images/website/img/link_company.gif" title="Company" class="roll">
-				
-					</a>
-					<ul>
-						<li><a href="/website/team">Team</a></li>
-						<li><a href="/website/partners">Partners</a></li>
-						<li><a href="/website/media_center" class="MenuBarItemSubmenu">Media center</a>
-							<ul>
-								<li><a href="/website/innews">Jiffle in the News</a></li>
-								<li><a href="/website/press_releases">Press Releases</a></li>
-								<li><a href="/website/press_kit">Press Kit</a></li>
-							</ul>
-						</li>
-						<li><a href="/website/contact_us">Contact Us</a></li>
-					</ul>
-				</li>
-				<li><a href="/help">
-				
-					<img src="/images/website/img/link_help.gif" title="Help" class="roll">	
-				
-				</a>
-				<!--	<ul>
-						<li><a href="/website/feedback">Feedback</a></li>
-						
-						
-					</ul> -->
-				</li>
-			<!--	<li><a href="/website/contact_us">
-					
-						<img src="/images/website/img/link_contact.gif" title="Contact Us" class="roll" />
-					
-					</a></li> 
-				<li><a href="http://blog.jifflenow.com/"><img src="/images/website/img/link_time.gif" title="Racing Against Time" class="roll" /></a></li> -->
-			</ul>
-		</div>
-		<div id="home_content">
-			
-<div id="block1">
-	  	<div class="submenu">
+  </div>
+  <div class="subnav-panel">
+    <div class="row">
+      <div class="col-md-12  ">
+        <div class="blog-nav"> <a href="/blog" class="active">Privacy</a> </div>
+      </div>
+    </div>
+  </div>
+  <div class="aboutus-in-page">
+    <div class="row">
+      <div class="col-md-8 col-sm-8 ">
+        
 
-					<div class="breadcrumbtrail"><a href="/website/index">Home</a> &gt; Privacy Policy</div>
+	
 
-				</div>
-				<div id="text_row">
-					<div id="innerCol1">
-						<div class="pp" align="justify">
-							<h1>Privacy Policy</h1>
-							<br>
-							<p>Last Updated: January 15, 2008</p>
-							<p>At Jiffle we believe that privacy is important and that your confidence in our service is based in part on our protection of your privacy. This document sets forth the privacy policy (the "Privacy Policy") of iPolipo, Inc., a Delaware corporation DBA Jiffle ("Jiffle"). (together with other services provided by Jiffle, the "Services"), Jiffle software (together with all prior and subsequent versions, and all patches and updates thereto, the "Software"), and the Web site, <a href="/jifflenow">www.JiffleNow.com</a> (including all sub-pages thereto, the "Site"). The Privacy Policy forms part of the <a href="/website/terms"><br>Terms of Service</a>.</p>
-							<p>Please be aware that Jiffle's Services, Software, and Site are not intended for and may not be used by children under the age of 13, nor may they be used to solicit or collect any information from children under the age of 13. If you have objections to the Privacy Policy, you should not access or use the Site nor should you sign up for the Services offered by Jiffle.</p>
-							<p>We may update this Privacy Policy from time to time. We will notify you of material changes by posting the new Privacy Policy on the Site. Please consult the Site regularly for changes. Unless otherwise defined in this policy, terms used in this Privacy Policy have the meanings provided in the Jiffle Terms of Service Agreement.</p>
-							<p>By using our Services you are consenting to Jiffle processing your information as described in this Privacy Policy now and as amended by us. These uses include the collection, storage and deletion, disclosure and transfer of your information to and from the United States to provide you with the Services you have requested.</p>
-							<p>If you have any questions or comments about our practices or this Privacy Policy please contact us at <a href="mailto:info@jifflenow.com">info@jifflenow.com</a></p>
-							<h2>Information Collection and Use</h2>
-							<p>Our primary goals in collecting information are to provide and improve our Services and its features, to administer your account and to enable users to enjoy and easily navigate the Site.</p>
-							<h2>Jiffle Users: Your Information:</h2>
-							<p>When you register with the Site and download the Jiffle software ("Subscribers") or accept an Jiffle subscriber's invitation to view his/her calendar by registering with us ("Contacts") (collectively referred to as "Participants") we may collect personally identifiable information, including, but not limited to, name, email address, postal address, telephone number , credit card number, and password ("Personal Information"). Personal Information is information about you that when on its own or in combination with other identifiers can be used to contact or identify you. We use your Personal Information to provide you the Services, facilitate your use of the Site and respond to your inquiries. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers are invited to receive an email newsletter by providing an email address. Customer email addresses and any personal customer information will not be distributed or shared with third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to <a href="mailto:support@jifflenow.com">support@jifflenow.com</a>. Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter. Again, email will not be distributed or shared and customers can opt out of receiving any communication by emailing <a href="mailto:support@jifflenow.com">support@jifflenow.com</a> at the time it is distributed, or at the time any customer registers for the Service.</p>
-							<p>We also may collect any non-personally identifiable information that is provided to Jiffle as part of registration or in a Participant's response to an invitation, including, but not limited to, time zone; what email client and version a Participant uses (e.g., Outlook). Participants circulate amongst themselves as a result of using the Services their schedule information and other information specific to their interactions between participants..</p>
-							<p>Except as we explicitly state at the time we request information, or as provided for in the Jiffle Terms of Service Agreement, we do not disclose to third parties the information provided. If you subscribed originally to iPolipo via the <a href="http://www.jifflenow.com/">iPolipo.com</a> website, then all payment processing is handled by Paypal in which case your personal information is sent to, handled by and stored by Paypal (<a href="https://www.paypal.com/">https://www.paypal.com/</a>) in accordance with its Terms of Use and Privacy Policy. If you subscribe to Jiffle through the JiffleNow.com website or contact us directly, then we will use your personal information to process your payment.</p>
-							<p>As a Participant or a Site visitor just browsing (who has provided us with their email address) we may use your Personal Information to send you via email Jiffle newsletters, promotional materials about other products or services and other information that you have requested or that may be of interest to you. We may also email you messages that allow you to purchase new or enhanced Jiffle products and services. If you decide at any time that you no longer wish to receive such information from us, you may unsubscribe by contacting <a href="mailto:support@jifflenow.com">support@jifflenow.com</a>.</p>
-							<p>Because some subscription plans will have advertising presented during the use of the application, we may use your information to identify what interests you have in order to provide more personal advertising. Jiffle does not share your personal contact information with any advertiser.</p>
-							<p>If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Jiffle will automatically send the friend a one-time email inviting them to visit the site. Jiffle does not store this information.</p>
-							<h2>Log Information</h2>
-							<p>When you visit the Site, whether as a Participant or a Site visitor just browsing, like many website's our servers automatically record information that your browser sends whenever you visit a website ("Log Information"). This Log Information may include information such as your IP address, date and time, browser type and the domain from which you are visiting. For most users accessing the Internet from an Internet service provider (or "ISP"), the IP address will be different every time you log on. We do not use this information to identify you personally. We use it to analyze usage trends, administer the Site and the Service and for the Site's technical maintenance.</p>
-							<h2>Change of Ownership or Other Business Transition</h2>
-							<p>In the event Jiffle goes through a business transition, such as a merger, acquisition or the sale of all or substantially all of its assets (a "Business Transition"), your membership in Jiffle and the Jiffle servers containing Your Information will, in most instances, be part of the assets transferred. In such event, you will be notified via e-mail and/or through a notice on our Web site and any other appropriate methods prior to the Business Transition, and Jiffle's custody of Your Information will be transferred subject to all the terms and restrictions in this Privacy Policy.</p>
-							<p>Following a Business Transition, Jiffle or its successors will continue to use Your Information in accordance with the Privacy Policy under which the information was collected. If, however, we plan to use Your Information in a manner different from that stated at the time of collection we will notify you via e-mail and/or through a notice on our Web site and any other appropriate methods. You will have a choice as to whether or not we use Your Information in this different manner. Whether or not you wish to have Your Information used in this different manner, you will retain ownership rights to Your Information and the ability to delete Your Information at any time. Please note, if you have deleted or deactivated your account with the Services or are an opt-out User, then you will not be contacted, nor will Your Information be used in this different manner.</p>
-							<h2>Cookies</h2>
-							<p>In order to improve the Services and the Site, we use "cookies" when you are logged into the Site using your e-mail address and password. A cookie is a piece of data that is transferred to your browser by a Web server and can only be understood by the server that gave it to you. It functions as your computer's identification token and enables Jiffle to personalize your experience when you are signed in to the Site. The cookie also contains your e-mail address so that we can make it easier for you to sign in. If you reject the cookie, you may not be able to sign up for some of the Services or use certain features of the Site.</p>
-							<p>Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. (For some Web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages.)</p>
-							<p>While Jiffle uses cookies to enable you to use the Services and the Site, and our Web servers automatically log the Internet Protocol ("IP") address of your computer, Jiffle does not use this information to identify you personally except to provide you with the features of the Services.</p>
-							<h2>Log Files and Backups</h2>
-							<p>Like most Internet services, we use log files, both on the client and server side. The data held in log files includes your IP address, browser type, e-mail application, Internet service provider ("ISP"), referring/exit Web pages, computer platform type, date/time stamp, and user activity. Jiffle uses server log data to analyze trends, administer the Services and the Site, and improve service levels. IP addresses are not tied to any Personally Identifiable Information.</p>
-							<p>The Software has associated log and temporary files that are stored on your local hard drive and on Jiffle's servers. These files store Your Account Information, your permissions, preference settings, system notifications as well as other data necessary to operate the Jiffle services.</p>
-							<p>Your Information may also exist temporarily within regularly performed server backups.</p>
-							<h2>Phishing</h2>
-							<p>We do not and will not, at any time, request your credit card information, your Jiffle user name, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication.</p>
-							<p>Identity theft and the practice currently known as "phishing" are of great concern to Jiffle. Safeguarding information to help protect you from identity theft is our priority.</p>
-							<h2>Information Sharing and Disclosure</h2>
-							<p><strong>Participants.</strong> Participants have the opportunity to share various types of information amongst themselves through use of the Services. You can upload and post meeting details, your bio and other documents you wish to have accessible to meeting Participants. This content along with all other information related to your use of the Services, including, but not limited to, meeting times, meeting occurrences and meeting logistics is stored and maintained on Jiffle's secure servers. Providing your Personal Information and any other information about you via the Services, is voluntary and this information will be visible to other Participants and should correlate with the degree of interaction you want to have with other Participants.</p>
-							<p><strong>Anonymous Information.</strong> We may share Anonymous Demographic Information and Log Data with third parties for industry analysis and demographic profiling. This information will not contain your Personal Information.</p>
-							<p><strong>Service Providers.</strong> We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf or to perform Site-related services (e.g., without limitation, maintenance services, hosting services, database management and improvement of the Site's features). These third parties may have access to your Personal Information, but only to perform these tasks on our behalf and are obligated not to use it for any other purpose.</p>
-							<p><strong>Compliance with Laws and Law Enforcement.</strong> Jiffle cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including subpoenas), to protect the property and rights of Jiffle or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity.</p>
-							<h2>Changing or Deleting Your Information</h2>
-							<p>All Participants may review, update, correct or delete the Personal Information in their registration profile. Non-participants may also request deletion of their Personal Information from our servers. If Participants completely delete any such information, their use of the Services may be limited or terminated. If you would like us to delete your records in our system, please contact us and we will attempt to accommodate your request. See below for privacy contact information.</p>
-							<h2>Data Retention</h2>
-							<p>We reserve the right to retain your Personal Information or other data collected from you as a result of your use of the Services to prevent fraud and misuse of the Services.</p>
-							<h2>Security &amp; International Transfer</h2>
-							<p>Jiffle is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. Your information may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Jiffle transfers Personal Information to the United States and maintains and processes it there. You consent to such transfer.</p>
-							<h2>Links</h2>
-							<p>The Site contains, and the Software may present, links to other sites. Please be aware that Jiffle is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave the Site or otherwise link to other sites, to read the privacy policies of each and every site that collects personally identifiable information. Jiffle's Privacy Policy applies solely to information collected by the Services, the Software or the Site.</p>
-							<h2>Children's Privacy</h2>
-							<p>Jiffle is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. Jiffle's Services, Software and Site are not intended for and may not be used by children under the age of 13. Jiffle does not knowingly collect information from children under the age of 13 and Jiffle does not target its Services, Software and Site to children under 13.</p>
-							<h2>Government Authority</h2>
-							<p>You should be aware that, as with all legal contracts, our Terms of Service and this Privacy Policy could be amended, terminated or modified without the consent of you and/or Jiffle by judicial proceeding, court order, in connection with bankruptcy or other insolvency proceedings, or pursuant to other government action. When reasonable and lawful, we will notify you if this occurs.</p>
-							<h2>Contacting Us</h2>
-							<p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:info@jifflenow.com">info@jifflenow.com</a> or at:</p>
-							<p><strong>iPolipo, Inc. DBA Jiffle</strong></p>
-							<p>440 N. Wolfe Rd.</p>
-							<p>Sunnyvale, CA 94085</p>
-							<p>(c) 2008 iPolipo, Inc. All rights reserved.</p>
-						</div>
-					</div>
-					<div class="clear">&nbsp;</div>
-				</div>
-			</div>
-			<div id="innerBlock2"><img src="/images/website/img/block2_bg_top.gif" alt="" width="246" height="5"><div class="blk2">
-                    <a href="/website/demo"><img src="/images/website/img/see_ipolipo.gif" alt="See Jiffle : How it works" title="See Jiffle : How it works" border="0" class="banner2"></a> 
-
-			  <div class="blk2">
-			       </div>
-					<div class="demo">
-						<div class="demo_border">
-							<div class="demo_quote">
-								<div class="demo_quote_end">
-									<p><img src="/images/website/img/head_sucess.gif" alt="View Demo" width="130" height="20"></p>
-									<p>"I work with clients all over the world, and Jiffle is the only system I've found that is easy to use, cost-effective and allows my clients and me to connect without wasting any time whatsoever--theirs or mine. With Jiffle, I spend less than 60 minutes setting up a full month of appointments in advance, which saves me at least an hour a day over the course of that month. That's tremendously valuable to a small business owner. And Jiffle delivers additional business value in terms of client satisfaction, because my clients love the application as much as I do--they even use Jiffle as a verb, as in 'Can I Jiffle you?'"</p>
-									<p><span><strong>Sylva Leduc</strong> <br>
-																			Executive Coach and Leadership Strategist<br>Sage Leaders.com</span><br>
-																			<br>
-									</p>
-								</div>
-							</div>
-						</div>
-					</div>
-					<p>&nbsp;</p>
-				</div>
-				<img src="/images/website/img/block2_bg_bot.gif" alt=""></div>
-
-		</div>
-		<div id="footer"><a href="/website/index">Home</a> | <a href="/website/what_is_jiffle">What is Jiffle?</a> <a href="/help">Help</a> | <a href="/website/contact_us">Contact Us</a> | <a href="/website/terms">Terms of Services</a> | <a href="/website/privacy">Privacy Policy</a>
-			<div class="disc">Copyright © 2008, iPolipo, Inc. Patent Pending. 
-					All rights reserved. <br>
-					Various trademarks held by their respective owners.</div>
-		</div>
-	</div>
+		<div id="Jifflenow -privacy" class="about-info">
+<div class="row">
+<div class="large-12 columns">
+<p>iPolipo, Inc. dba Jifflenow (“Jifflenow”) values the privacy of our clients, their employees, their customers, and others (individually or collectively, “User” or “Users“) that use Jifflenow to manage meetings at B2B events such as trade shows, user forums, and that otherwise use www.Jifflenow.com and its associated websites, products, and services (collectively, the “Service“). This Privacy Policy details Jifflenow’s information-handling practices with respect to information you provide to us or that we learn from your use of the Service and tells you how we may collect, use, and in some instances share this information.</p>
+<p>By using our Services you are consenting to Jifflenow processing your information as described in this Privacy Policy now and as amended by us. These uses include the collection, storage and deletion, disclosure and transfer of your information to and from the United States to provide you with the Services you have requested.</p>
+<p>If you have any questions or comments about our practices or this Privacy Policy please contact us at <a href="mailto:support@jifflenow%20.com">support@jifflenow.com</a></p>
+<h4>The Information Jifflenow Collects</h4>
+<p><strong>Personal Information:</strong> In its course of business, Jifflenow collects personal information from its Users.&nbsp; This information includes contact information, such as their name, company name, address, business contact information, phone number, and e-mail address. Personal Information may not, however, include social security number, drivers license number bank account information, credit rating, or other personal financial data</p>
+<p><strong>User Information:</strong> Users have the opportunity to share various types of information amongst themselves through use of the Service. You can upload and post meeting details, your bio, photo, personal links and other documents you wish to have accessible to other users. This content along with all other information related to your use of the Service, including, but not limited to, meeting times, meeting occurrences and meeting logistics is stored and maintained on Jifflenow’s secure servers. Providing your Personal Information and any other information about you via the Services, is voluntary and this information will be visible to other users and should correlate with the degree of interaction you want to have with other users. Please be aware that any information that you choose to share on any publicly available portion of the Service or with third parties, including without limitation your personal page, calendar page, links to social network pages, blogs, may be collected and used by others without restriction.</p>
+<p><strong>“Cookies” Information:</strong> When you access the Service, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Jifflenow may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed. Please review your web browser “Help” file to learn the best way to modify your cookie settings. Please note that disabling cookies may prevent you from accessing some of the functionality available via the Service.</p>
+<p><strong>Log Information:</strong> When you visit the service, like many website’s our servers automatically record information that your browser sends whenever you visit a website (“Log Information”). This Log Information may include information such as your IP address, date and time, browser type and the domain from which you are visiting. For most users accessing the Internet from an Internet service provider (or “ISP”), the IP address will be different every time you log on. We do not use this information to identify you personally. We use it to analyze usage trends, administer the Site and the Service and for the Site’s technical maintenance.</p>
+<h4>The Way Jifflenow Uses Information</h4>
+<p>Jifflenow uses the information that we collect to provide you all of the features and services found on the Service. We will use your email address, without further consent, for non-marketing or administrative purposes such as notifying you of major site updates.</p>
+<p>Jifflenow may use all of the information that we collect from our Users to understand the usage trends and preferences, to improve the way the Service works and looks, to improve our marketing and promotional efforts, and to create new features and functionality.</p>
+<p>Jifflenow may use automatically collected information and cookies information to remember your information so that you will not have to re-enter it during your visit or the next time you use the Service.</p>
+<p>Jifflenow will not use your email address or other personally identifiable information to send promotional or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in.</p>
+<h4>When Jifflenow Shares Information</h4>
+<p>As a service provider, we do not independently use or disclose Personal Information transferred to us by, or on behalf of, a Client or an User for any purpose other than to process that information in order to fulfill our contractual business processing functions, except as required or permitted by law.&nbsp; Furthermore, we take all commercially reasonable steps to safeguard the Personal Information we hold against loss or theft, as well as unauthorized access, disclosure, copying, use or modification, regardless of the format in which the Personal Information is held. The precise nature of the safeguards we employ will vary depending on (i) the sensitivity of the Personal Information at issue, (ii) the format in which it is held, and (iii) the manner in which it is stored.</p>
+<p>Jifflenow may disclose both personally identifiable and automatically collected information to affiliated companies or other businesses or persons to process such information on our behalf, to provide, without limitation, website maintenance and security, to offer certain features, to assist us in improving the way the Service works and looks, and to create new features. We require that these parties agree to process such information in compliance with our Privacy Policy, we use reasonable efforts to limit their use of such information, and we require these parties to use any other appropriate confidentiality and security measures.</p>
+<p><strong>Compliance with Laws and Law Enforcement.</strong> Jifflenow cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including subpoenas), to protect the property and rights of Jifflenow or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity.</p>
+<p>If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Jifflenow will automatically send the friend a one-time email inviting them to visit the site. Jifflenow does not store this information.</p>
+<h4>Our Commitment to Data Security</h4>
+<p>We use secure server software and firewalls to protect your personally identifiable information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and secure server software.</p>
+<p>No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems.</p>
+<p>If Jifflenow learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Jifflenow may post a notice on the Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at <a href="mailto:support@jifflenow.com">support@jifflenow.com</a></p>
+<h4>Change of Ownership or Other Business Transition</h4>
+<p>In the event Jifflenow goes through a business transition, such as a merger, acquisition or the sale of all or substantially all of its assets (a “Business Transition”), your membership in Jifflenow and the Jifflenow servers containing Your Information will, in most instances, be part of the assets transferred. In such event, you will be notified via e-mail and/or through a notice on our Web site and any other appropriate methods prior to the Business Transition, and Jifflenow’s custody of Your Information will be transferred subject to all the terms and restrictions in this Privacy Policy.</p>
+<p>Following a Business Transition, Jifflenow or its successors will continue to use Your Information in accordance with the Privacy Policy under which the information was collected. If, however, we plan to use Your Information in a manner different from that stated at the time of collection we will notify you via e-mail and/or through a notice on our Web site and any other appropriate methods. You will have a choice as to whether or not we use Your Information in this different manner. Whether or not you wish to have Your Information used in this different manner, you will retain ownership rights to Your Information and the ability to delete Your Information at any time. Please note, if you have deleted or deactivated your account with the Services or are an opt-out User, then you will not be contacted, nor will Your Information be used in this different manner.</p>
+<h4>Log Files and Backups</h4>
+<p>Like most Internet services, we use log files, both on the client and server side. The data held in log files includes your IP address, browser type, e-mail application, Internet service provider (“ISP”), referring/exit Web pages, computer platform type, date/time stamp, and user activity. Jifflenow uses server log data to analyze trends, administer the Services and the Site, and improve service levels. IP addresses are not tied to any Personally Identifiable Information.</p>
+<p>The Software has associated log and temporary files that are stored on your local hard drive and on Jifflenow’s servers. These files store Your Account Information, your permissions, preference settings, system notifications as well as other data necessary to operate the Jifflenow services.</p>
+<p>Your Information may also exist temporarily within regularly performed server backups</p>
+<h4>Phishing</h4>
+<p>We do not and will not, at any time, request your credit card information, your Jifflenow user name, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication.</p>
+<p>Identity theft and the practice currently known as “phishing” are of great concern to Jifflenow. Safeguarding information to help protect you from identity theft is our priority.</p>
+<h4>Your Choices: Providing, Changing or Deleting Your Information</h4>
+<p>You may, of course, decline to share your personally-identifiable information with Jifflenow, in which case Jifflenow will not be able to provide to you some or all of the features and functionality found on the Service. All Users may review, update, correct or delete the Personal Information in their registration profile. Non-Users may also request deletion of their Personal Information from our servers. If Users completely delete any such information, their use of the Services may be limited or terminated. If you would like us to delete your records in our system, please contact us and we will attempt to accommodate your request. See below for privacy contact information.</p>
+<h4>Data Retention</h4>
+<p>We reserve the right to retain your Personal Information or other data collected from you as a result of your use of the Services to prevent fraud and misuse of the Services.</p>
+<h4>Security &amp; International Transfer</h4>
+<p>Jifflenow is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. Your information may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Jifflenow transfers Personal Information to the United States and maintains and processes it there. You consent to such transfer.</p>
+<h4>Links</h4>
+<p>The Site contains, and the Software may present, links to other sites. Please be aware that Jifflenow is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave the Site or otherwise link to other sites, to read the privacy policies of each and every site that collects personally identifiable information. Jifflenow’s Privacy Policy applies solely to information collected by the Services, the Software or the Site.</p>
+<h4>Children’s Privacy</h4>
+<p>Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of thirteen (13) without requiring parental consent, and no part of the Service is directed to persons under 13. Any person who provides their personal information to Jifflenow represents that they are 13 years of age or older.</p>
+<h4>Government Authority</h4>
+<p>You should be aware that, as with all legal contracts, our Terms of Service and this Privacy Policy could be amended, terminated or modified without the consent of you and/or Jifflenow by judicial proceeding, court order, in connection with bankruptcy or other insolvency proceedings, or pursuant to other government action. When reasonable and lawful, we will notify you if this occurs.</p>
+<h4>FAQs</h4>
+<h5><strong>How do we train and manage our associates?</strong></h5>
+<p>We educate our associates about our information security policies and practices, and use reasonable efforts to help ensure that our associates comply with these policies and practices.&nbsp; These efforts include: Conducting appropriate background checks of all newly-hired associates; Including information on Jifflenow’s policies in our associate orientation process; Requiring associates to execute appropriate non-disclosure agreements; Including information on our policies and practices on the Jifflenow website; Disseminating information on our policies and procedures to associates at appropriate intervals; Limiting access to Personal Information to associates with a business need for seeing it; Promptly ending associate access to systems and facilities upon termination of associate services; Monitoring associates for compliance with policies; and Imposing appropriate disciplinary measures for breaches of policies and procedures.</p>
+<p>&nbsp;</p>
+<h5><strong>How do we ensure the security of our facilities?</strong></h5>
+<p>We use highly secure data center to host all our applications. Our Data center utilizes reasonable security measures that include:</p>
+<ol type="i">
+<li>Using access control devices, such as card keys; visit access control, and/or receptionist verification of all associates;</li>
+<li>Utilizing enhanced security measures at our data center, including limiting access to specially authorized associates (controlled by computerized access control) and limiting visitors to pre-cleared individuals who must be escorted at all times;</li>
+<li>Maintaining secured areas for storage of materials containing confidential information; and,</li>
+<li>Implementing other appropriate security measures including security patrols and security cameras, where such measures are judged to be necessary and reasonably appropriate.</li>
+</ol>
+<h5><strong>How do we ensure the security of our information systems?</strong></h5>
+<p>Information systems include network and software design, as well as information processing, storage, transmission, retrieval and disposal. We employ policies and practices to protect Personal Information throughout its life cycle – from data entry to data disposal. These policies and practices include, among other things:</p>
+<ol type="i">
+<li>Requiring use of virus protection software on all computer systems attached to Jifflenow client server network;</li>
+<li>Limiting all access to Jifflenow resources and networks to approved configurations and utilizing appropriate identification and authentication methods;</li>
+<li>Utilizing firewalls (which are configured and maintained in accordance with industry-standard procedures and specifications);</li>
+<li>Requiring appropriate disposal of all documents and electronic media containing Personal Information;</li>
+<li>Employing appropriate intrusion detection, monitoring, and logging capabilities to enable detecting and responding to potential security breaches;</li>
+<li>Maintaining appropriate incident handling procedures for responding to any breaches;</li>
+<li>Regularly obtaining and installing patches to address software vulnerabilities;</li>
+<li>Developing Client applications utilizing appropriate security methods including multiple-factor authentication, strong passwords, session time-outs, and access controls;</li>
+<li>Maintaining adequate disaster recovery and business continuity plans for all core functions.</li>
+</ol>
+<h5><strong>What additional safeguards do we have in place to protect Personal Information? </strong></h5>
+<p>Due to the constantly changing nature of technologies and security concerns, we conduct appropriate, periodic reviews of our security policies and practices. Additionally, periodic assessments are conducted as appropriate. All allegations of system or data misuse (by associates, contractors or any third parties) are thoroughly investigated by Jifflenow in accordance with our policies, and reported to law enforcement authorities where appropriate.</p>
+<h5><strong>How long will we retain Personal Information? </strong></h5>
+<p>We may keep a record of User’s Personal Information, correspondence or comments in a file specific to the Client, to which access by our associates and by any third parties with whom we contract will be strictly limited on a business need-to-know basis. We will retain User’s Personal Information for as long as necessary to fulfill the purposes for which it was transferred to us, or as required or permitted by law. We have established minimum and maximum retention periods, as well as appropriate procedures for the destruction and disposal of Personal Information.</p>
+<h5><strong>How do we update Personal Information such that it is sufficiently accurate for processing purposes? </strong></h5>
+<p>As a service provider of business processing functions, we rely on our Users to provide us with updated Personal Information on an ongoing basis, as necessary in relation to our provision of the services.&nbsp; Upon receipt of updated Personal Information, we will amend the User’s Personal Information that we hold where such amendment is reasonably necessary to enable us to continue providing the services to the Client in accordance with our contractual obligations as a service provider.&nbsp; This updating of Personal Information is rarely performed.</p>
+<h4>Changes and Updates to this Privacy Policy</h4>
+<p>We may occasionally update this Privacy Policy. When we do, we will also revise the “Last Updated” section below. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will use commercially reasonable efforts to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the information we collect. Your continued use of the Service constitutes your agreement to this Privacy Policy and any updates.</p>
+<h4>Contacting Us</h4>
+<p>If you have any questions, comments, or concerns about this Privacy Policy, please contact us at <a href="mailto:support@jifflenow.com">support@jifflenow.com</a> or at:</p>
+<ul class="vcard">
+<li class="fn">iPolipo, Inc. DBA Jifflenow</li>
+<li class="street-address">440 N. Wolfe Rd.</li>
+<li class="locality">Sunnyvale</li>
+<li><span class="state">California</span>, <span class="zip">94085</span></li>
+</ul>
 </div>
-<div class="footer_bg">&nbsp;</div>
+</div>
+</div>
+      </div>
+    </div>
+  </div>
+</div>
+<footer>
+  <div class="row">
+    <div class="col-lg-7 col-md-7 col-sm-8">
+      <div class="row">
+        <div class="col-lg-5 col-md-5  col-sm-5">
+          <div class="panel-footer">
+            <h4>FEATURES</h4>
+            <ul>
+              <li><a href="https://www.jifflenow.com/product/#featuresList1">Schedule Meetings</a></li>
+              <li><a href="https://www.jifflenow.com/product/#featuresList2">Manage Rooms, Calendars</a></li>
+              <li><a href="https://www.jifflenow.com/product/#featuresList3">Meeting Types</a></li>
+              <li><a href="https://www.jifflenow.com/product/#featuresList4">Meeting Tracking</a></li>
+              <li><a href="https://www.jifflenow.com/product/#featuresList5">Reporting / Analytics</a></li>
+              <li><a href="https://www.jifflenow.com/product/#featuresList6">Salesforce.com Integration</a></li>
+	      <li><a href="https://www.jifflenow.com/product/#featuresList7">Third Party Integrations</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-3  col-md-3  col-sm-3">
+          <div class="panel-footer">
+            <h4>SUPPORT</h4>
+            <ul>
+              <li><a href="mailto:support@jifflenow.com?subject=Get In Touch : Support&amp;body=http://www.jifflenow.com/">Get in Touch </a></li>
+              <li><a href="https://www.jifflenow.com/terms-of-use">Terms of Use </a></li>
+              <li><a href="https://www.jifflenow.com/privacy">Privacy </a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-4  col-md-4  col-sm-4">
+          <div class="panel-footer">
+            <h4>COMPANY</h4>
+            <ul>
+              <li><a href="https://www.jifflenow.com/about-us">About Us</a></li>
+              <li><a href="https://www.jifflenow.com/customers">Customers</a></li>
+              <li><a href="https://www.jifflenow.com/partners">Partners</a></li>
+              <li><a href="https://www.jifflenow.com/about-us/culture">Life @ Jifflenow</a></li>
+              <li><a href="https://www.jifflenow.com/about-us/openings">Careers</a></li>
+              <li><a href="https://www.jifflenow.com/resources">Resources</a></li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-5 col-md-5 col-sm-4">
+      <div class="row">
+        <div class="col-lg-7 col-md-7">
+          <div class="contact-address">
+            <h4><a href="https://www.jifflenow.com/request-a-demo" style="color:#bababa;">CONTACT US</a></h4>
+            <p style="padding-bottom:0px;"> US Office: </p>
+            <p style="font-size:12px;">440, N. Wolfe Road <br>Sunnyvale, CA 94085</p>
+            <p style="padding-bottom:0px;"> India Office: </p>
+            <p style="font-size:12px;">458, 9th Cross, 2nd Phase, JP Nagar, Bengaluru, KA 560078</p>
+            <span>FOLLOW US</span>
+            <ul>
+              <li>
+                  <a target="_blank" href="https://www.linkedin.com/company/jifflenow">
+                     <img src="https://www.jifflenow.com/wp-content/themes/jifflenow/images/sm-in.png" width="24" height="24" alt="LinkedIn">     
+                  </a>
+              </li>
+              <li>
+		  <a target="_blank" href="https://www.facebook.com/jifflenow">
+		     <img src="https://www.jifflenow.com/wp-content/themes/jifflenow/images/sm-fb.png" width="24" height="24" alt="Facebook">
+                  </a>
+	      </li>
+              <li>
+		  <a target="_blank" href="https://twitter.com/Jifflenow">
+		      <img src="https://www.jifflenow.com/wp-content/themes/jifflenow/images/sm-twitter.png" width="24" height="24" alt="Twitter">
+                  </a>
+              </li>
+              <li>
+                  <a target="_blank" href="https://plus.google.com/+JifflenowSunnyvale/about">
+                      <img src="https://www.jifflenow.com/wp-content/themes/jifflenow/images/sm-gplus.png" width="24" height="24" alt="Google+">
+                  </a>
+              </li>
+              <!--<li><img src="/images/sm-rss.png" width="24" height="24" alt="RSS" /></li>-->
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-5 col-md-5">
+          <div class="copy"> <a href="/"><img src="https://www.jifflenow.com/wp-content/themes/jifflenow/images/logo-footer.png" width="116" height="24" alt="logo"></a>
+            <p>Copyright Jifflenow 2014. All rights reserved</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+</div>
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script> 
+<script src="https://www.jifflenow.com/wp-content/themes/jifflenow/js/modernizr.slider.js"></script> 
+<script src="https://www.jifflenow.com/wp-content/themes/jifflenow/js/modernizr.custom.js"></script> 
+<script src="https://www.jifflenow.com/wp-content/themes/jifflenow/js/jquery.fitvids.js"></script> 
+<script src="https://www.jifflenow.com/wp-content/themes/jifflenow/js/jquery.bxslider.min.js"></script> 
+<script src="https://www.jifflenow.com/wp-content/themes/jifflenow/js/jquery.easing.1.3.js"></script> 
+<script src="https://www.jifflenow.com/wp-content/themes/jifflenow/js/equal-height.js"></script> 
+<script src="https://www.jifflenow.com/wp-content/themes/jifflenow/js/cbpHorizontalSlideOutMenu.min.js"></script> 
+<!--<script src="https://www.jifflenow.com/wp-content/themes/jifflenow/js/bpopup.js"></script> -->
+<script src="https://www.jifflenow.com/wp-content/themes/jifflenow/js/responsive-tabs.min.js"></script> 
+<script src="https://www.jifflenow.com/wp-content/themes/jifflenow/js/easyResponsiveTabs.js" type="text/javascript"></script> 
+<script src="https://www.jifflenow.com/wp-content/themes/jifflenow/js/responsiveTabs.js"></script> 
 <script type="text/javascript">
-<!--
-var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"/images/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/images/SpryAssets/SpryMenuBarRightHover.gif"});
-//-->
- </script>
-<!-- Begin Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
-<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
-<script type="text/javascript">__sfga();</script>
-<!-- End Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
-   <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+		$(document).ready(function(){
+			
+			$('.request-demo-page .formBuilderSubmit input[type="submit"]').val('REQUEST A DEMO').addClass("btn btn-md btn-primary");
+			$('.partner-page .formBuilderSubmit input[type="submit"]').val('BECOME A PARTNER').addClass("btn btn-md btn-primary");
+		
+	
+  $('.bxslider').bxSlider({
+  video: true,
+  useCSS: false,
+  adaptiveHeight:true,
+  pager:true,
+  controls:false,	
+  auto:true,
+  pause:7000,
+  onSlideAfter: function(){
+    // do mind-blowing JS stuff here 
+	
+  }
+});
+$('.bxslider-nodots').bxSlider({
+  video: true,
+  useCSS: false,
+  adaptiveHeight:true,
+  pager:false,
+  controls:true,	
+  auto:true,
+  pause:9000,
+  onSlideAfter: function(){
+    // do mind-blowing JS stuff here 
+	
+  }
+});
+$('.slider1').bxSlider({
+    slideWidth: 180,
+    minSlides: 2,
+    maxSlides: 6,
+    slideMargin: 10,
+	controls:false,
+	auto:true,  adaptiveHeight:true,
+	pause:7000
+  });
+   
+  
+   $('#jifflenowHelps').easyResponsiveTabs({
+            type: 'default', //Types: default, vertical, accordion           
+            width: 'auto', //auto or any width like 600px
+            fit: true,   // 100% fit in a container
+            closed: 'accordion' // ,Start closed if in accordion view
+           
+        });
+   $('#partnerUs').easyResponsiveTabs({
+            type: 'default', //Types: default, vertical, accordion           
+            width: 'auto', //auto or any width like 600px
+            fit: true,   // 100% fit in a container
+            closed: 'accordion' // ,Start closed if in accordion view
+           
+        });
+   $('#featuresList').easyResponsiveTabs({
+            type: 'vertical',
+            width: 'auto',
+            fit: true
+        });
+  });
+</script> 
+<script>
 
+
+$('.cbp-hsmenubg').css('height','925px');
+	$(function() {
+		var pull 		= $('#pull');
+		menu 		= $('nav ul');
+		menuHeight	= menu.height();
+
+		$(pull).on('click', function(e) {
+		e.preventDefault();
+		menu.slideToggle();
+		});
+
+		$(window).resize(function(){
+		var w = $(window).width();
+		if(w > 320 && menu.is(':hidden')) {
+		menu.removeAttr('style');
+		}
+		});
+	});
+	
+	var elem = document.getElementById( 'cbp-hsmenu-wrapper' );
+	$('ul.cbp-hsmenu li').on('click', function(){
+		if ($(this).data('open') == 'open' ){
+			$(this).attr('data-open','');
+		}
+	});
+
+	if (elem != null){
+		var menu = new cbpHorizontalSlideOutMenu( elem );
+	}
+	
+    var elemHeight = $('.cbp-hsmenu li:first-child ul').height()
+    $('.cbp-hsmenubg').css('height', elemHeight+'px');
+    $('.cbp-hsmenu li:first-child').addClass('cbp-hsitem-open');
+	
+	$(".cbp-hsmenu li").click(function(){
+	   $('.cbp-hsmenu li:first-child').removeClass("cbp-hsitem-open");
+	});
+	$(".cbp-hsmenu li:first-child").click(function(){
+	   $('.cbp-hsmenu li:first-child').addClass("cbp-hsitem-open");
+	});
+	$('nav.row-column ul li:last').addClass('demo').removeClass('current_page_item');
+	//$('nav.row-column ul li:last a').css('color', '#fff');
+
+	
+	//var menu = new cbpHorizontalSlideOutMenu( document.getElementById( 'cbp-hsmenu-wrapper' ) );
+
+	$(document).ready(function(){
+	  $('.cbp-hsmenu li:first-child').addClass('cbp-hsitem-open');
+	});
+	
+	$(".cbp-hsmenu li").click(function(){
+	   $('.cbp-hsmenu li:first-child').removeClass("cbp-hsitem-open");
+	});
+	$(".cbp-hsmenu li:first-child").click(function(){
+	   $('.cbp-hsmenu li:first-child').addClass("cbp-hsitem-open");
+	});
+	
 </script>
 
+
+	<link type="text/css" rel="stylesheet" href="https://www.jifflenow.com/wp-content/themes/jifflenow/css/magnific-popup.css">
+        <script type="text/javascript" src="https://www.jifflenow.com/wp-content/themes/jifflenow/js/jquery.magnific-popup.min.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function() {
+                $('.popupvimeo').magnificPopup({
+                        disableOn: 0,
+                        type: 'iframe',
+                        mainClass: 'mfp-fade',
+                        removalDelay: 160,
+                        preloader: false,
+                        fixedContentPos: false
+                });
+        });
+	</script>
+    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'jifflenow';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) url = url[0];
+                    else url = url[1]
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+
+<!-- Start of Async HubSpot Analytics Code for WordPress v1.9.4 -->
 <script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+(function(d,s,i,r) {
+  if (d.getElementById(i)){return;}
+  var n = d.createElement(s),e = document.getElementsByTagName(s)[0];
+  n.id=i;n.src = '//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/426260.js';
+  e.parentNode.insertBefore(n, e);
+})(document, "script", "hs-analytics", 300000);
+</script>
+<!-- End of Async HubSpot Analytics Code -->
+<script type="text/javascript" language="Javascript">
+    
+    //Function to debug SiteApps Widget
+    function consoleWrite(msg, value)
+    {
+    }
+        
+    function toArray(obj) {
+        var arr = [];
+        for (var key in obj) {
+            arr[key] = obj[key];
+        }
+        consoleWrite('config: ' , arr);
+        return arr;
+    }        
+    
+    function mustRunWidget (segments, expression) {
+        // expression must be a logical expression of bucket values. eg: (A or B) and C
+        
+        var userSegments = segments
+          , expressionForEval = expression.replace(/\s+and\s+/ig, '&&').replace(/\s+or\s+/ig, '||').replace(/not/ig, '!')
+          , regex = null
+          , i = 0;
 
-_uacct = "UA-1049346-1";
+        var tokensMy = expression.replace(/\(/g, "").replace(/\)/g, "").replace(/\s+and\s+/ig, ' ').replace(/\s+or\s+/ig, ' ').replace(/not/ig, '');
+        var allSegments = tokensMy.trim().split(' ');
 
-urchinTracker();
+        for(var s in allSegments) {
+            var replacement = 'false';
+            var seg = allSegments[s];
+            if (userSegments.indexOf(seg) != -1) {
+                replacement = 'true';
+            }
+            regex = new RegExp(allSegments[s], 'ig');
+            expressionForEval = expressionForEval.replace(regex, replacement);
+//            consoleWrite('expression with : '+ allSegments[s], expressionForEval);
+        }
+        consoleWrite('expression: ' , expressionForEval);
+        
+        try {
+            return eval(expressionForEval);
+        } catch (err) {
+            consoleWrite('error: ' , err);
+            return false;
+        }
 
+        return true;
+    }
+    
+    var widgetsToShow = toArray({"default_search":[],"default_new_visitor":[],"default_returning_visitor":[],"default_social_media":[],"default_smartphone":[],"default_tablet":[]}),
+    widgetsToHide = toArray({"default_search":[],"default_new_visitor":[],"default_returning_visitor":[],"default_social_media":[],"default_smartphone":[],"default_tablet":[]}),
+    expressionsToShow = toArray(null);
+        
+        //toArray({"recent-posts-3": "alow", "recent-posts-2": "default_new_visitor", "recent-comments-2": "mobile or default_new_visitor", "archives-2": "((marcelio or errado) and (teste or default_new_visitor)) or default_new_visitor"});
+    
+
+    function changeDisplay(widgets, display) {
+        consoleWrite('widgets display to ' + display + ': ' , widgets);
+        for (var i in widgets) {
+            var widgetId = widgets[i];
+            var e;
+            while (e = document.getElementById(widgetId)) {
+                e.style.display = display;
+                e.id = widgetId + '-modified';                
+            }
+        }
+    }
+
+    function applyingExpressions(segments) {
+        for (var ex in expressionsToShow) {
+            var expression = expressionsToShow[ex];
+            consoleWrite('expression pure: ', expression);
+            consoleWrite('widget: ', ex);
+            var show = mustRunWidget(segments, expression);
+            if (show) {
+                changeDisplay([ex], "block");
+            }
+        }
+    }
+    
+
+    function applyingSegmentsConf(segments) {
+        for (var b in segments) {
+            var segment = segments[b];
+            consoleWrite('segment: ', segment);
+            if (segment in widgetsToHide) {
+                changeDisplay(widgetsToHide[segment], 'none');
+            }
+            if (segment in widgetsToShow) {
+                changeDisplay(widgetsToShow[segment], 'block');
+            }
+        }
+    }
+    
+    function getBuckets () {
+        var times = 50;
+        var interval = setInterval(function () {
+            if (times === 0) {
+                clearInterval(interval); 
+                return;
+            }    
+            consoleWrite('times: ', times);
+            try{
+                var segments = $SA.getAllUserBuckets();
+                if(segments.length === 0) {
+                    return;
+                }
+                clearInterval(interval); 
+                consoleWrite('segments: ', segments);
+                applyingSegmentsConf(segments);
+                applyingExpressions(segments);
+            } catch(e) {
+                times -= 1;    
+            }
+        }, 200);
+    }
+    
+    getBuckets();
 </script>
 
 
