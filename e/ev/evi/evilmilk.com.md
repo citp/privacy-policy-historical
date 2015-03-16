@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evilmilk.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109153932id_/http%3A//www.evilmilk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilmilk.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316122651id_/http%3A//www.evilmilk.com/privacy) for the most accurate reproduction.*
 
 # Evil Milk Privacy Policy
 
