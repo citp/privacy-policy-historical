@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brownstoner.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011113036id_/http%3A//www.brownstoner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownstoner.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316055626id_/http%3A//www.brownstoner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brownstoner
 
@@ -40,4 +40,4 @@ Pursuant to California Civil Code § 1798.83, a California resident who has prov
 
 Brownstoner Media reserves the right to change the terms, conditions, and notices in this Privacy Policy at any time for any reason. If you have questions about this Privacy Policy, please contact us at [brownstoner@brownstoner.com](mailto:brownstoner@brownstoner.com).
 
-Last updated as of March 11, 2014.
+Last updated as of March 13, 2015.
