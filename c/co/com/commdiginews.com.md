@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commdiginews.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023232643id_/http%3A//www.commdiginews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commdiginews.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316071813id_/http%3A//www.commdiginews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Communities Digital News
 
@@ -12,7 +12,7 @@ Communities Digital News email list collects email addresses and zip codes; This
 
 Email addresses will never be sold, bartered, or provided to any third party for any reason.
 
-We do not collect information from readers / site visitors who email writers or Communities Digital News ([jacquie.kubin@commdiginews.com](https://web.archive.org/web/20141023232643id_/http://www.commdiginews.com/privacy-policy/jacquie.kubin@commdiginews.com))
+We do not collect information from readers / site visitors who email writers or Communities Digital News ([jacquie.kubin@commdiginews.com](https://web.archive.org/web/20150316071813id_/http://www.commdiginews.com/privacy-policy/jacquie.kubin@commdiginews.com))
 
 Communities Digital News does have advertisers on the sites that include, but are not limited to:
 
