@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nextgen.com privacy policy that was archived on 2014-07-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140714013254id_/https%3A//www.nextgen.com/Legal/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nextgen.com privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316213318id_/https%3A//www.nextgen.com/Legal/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
     <meta charset="utf-8">
@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     
     
+
     <meta name="description" content="Read the privacy policy of the NextGen Healthcare web site.">
 
 
@@ -34,16 +35,41 @@
     
 
     
+
+    
 </head>
 <body>
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5DLXSF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5DLXSF"></script><script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-5DLXSF');</script>
+    <!-- End Google Tag Manager -->
+
     <div id="fb-root"></div>
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script>(function (d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-    fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
+    <script>
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '133354365926',
+                xfbml: true,
+                version: 'v2.0'
+            });
+        };
+
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) { return; }
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
     </script>
     <div id="compatibility-check">
         <p style="font-family: 'Avenir LT W01 65 Medium', Verdana, Arial, Helvetica, sans-serif; font-size: 3.2rem; font-weight: bold; margin: 0; line-height: 1.5em;">OOPS!</p>
@@ -88,7 +114,25 @@
 </form>                </ul>
             </nav>
             <nav id="main-nav">
-                
+                <script>
+    document.addEventListener("DOMContentLoaded", function (event) {
+        $.ajax({
+            url: "//www.nextgen.com/MainSiteNav/GetUpcomingWebinars",
+            success: function (data) {
+                for (var i = 0; i < data.WebinarList.length; i++) {
+                    $(".webinars").append(
+                        "<p class=\"white bold\" style=\"font-size: 1.2rem; margin: 0 0 .4em 0; overflow: hidden; -ms-text-overflow: ellipsis; -o-text-overflow: ellipsis; text-overflow: ellipsis; display: -webkit-box; line-height: 16px; max-height: 32px; -webkit-line-clamp: 2; -webkit-box-orient: vertical;\">"
+                        + data.WebinarList[i].EventName + "</p> <p class=\"white\" style=\"font-size: 1.2rem; margin: 0 0 0 0;\">"
+                        + moment(data.WebinarList[i].StartDate).format("MM\/DD\/YY") + " | "
+                        + moment(data.WebinarList[i].StartTime).format("h:mm A") + " - "
+                        + moment(data.WebinarList[i].EndTime).format("h:mm A") + " ET</p><ul style=\"margin-left: 0; margin-bottom: .7em; padding-left: 0; width: 100%; clear: both;\"> <li><a onclick=\"ga('send', 'event', 'Mega Menu', 'Clicks Link', 'Webinar');\" href=\"/Events/"
+                        + data.WebinarList[i].EventID + "\">Learn More</a></li></ul> <div class=\"clear\"></div>"
+                        );
+                }
+            }
+        })
+    });
+</script>
 <ul id="navmenu">
     <li id="navitem1"><a href="/Products-and-Services" class="main">Products / Services</a>
         <div class="submenu products-services">
@@ -104,7 +148,6 @@
                             <li><a href="/Products-and-Services/Ambulatory/Patient-Portal">Patient Portal</a></li>
                             <li><a href="/Products-and-Services/Ambulatory/Analytics">Analytics</a></li>
                             <li><a href="/Products-and-Services/Ambulatory/Productivity-Tools">Productivity Tools</a></li>
-                            <li><a href="/Products-and-Services/Ambulatory/Insight-Reporting">InSight Reporting</a></li>
                             
                             
                             
@@ -143,23 +186,19 @@
                         </ul>
                     </ul>
                     <ul class="middle">
-                        <li class="header"><a href="/Products-and-Services/Electronic-Data-Interchange-EDI">Electronic Data Interchange</a></li>
-                        <ul>
-                            <li><a href="/Products-and-Services/Electronic-Data-Interchange-EDI/Benchmarking">Benchmarking</a></li>
-                            <li><a href="/Products-and-Services/Electronic-Data-Interchange-EDI/Clearinghouse-Services">Clearinghouse Services</a></li>
-                        </ul>
+                        <li class="header"><a href="/Products-and-Services/Electronic-Data-Interchange-EDI">Electronic Data Interchange (EDI)</a></li>
                     </ul>
                     <ul class="middle">
                         <li class="header"><a href="/Products-and-Services/Hospital-Solutions">Hospital Solutions</a></li>
                     </ul>
                 </div>
                 <div class="cta">
-                    <h2 class="white center">See our <b>Ambulatory EHR</b> in action!</h2>
-                    <div class="center" style="margin-bottom:1em;">
-                        <a class="button-white-small" href="#" data-asset-id="296">Watch Now</a>
+                    <h2 class="white center">See our<br><b>MU2-ready</b> features!</h2>
+                    <div class="center" style="margin-bottom: 1em;">
+                        <a class="button-white-small" href="#" data-asset-id="362" onclick="ga('send', 'event', 'Mega Menu', 'Clicks Link', 'MU-ready Video');">Watch Now</a>
                         <span class="icon-premium-content homepage"></span>
                     </div>
-                    <a href="#" data-asset-id="296">
+                    <a href="#" data-asset-id="362" onclick="ga('send', 'event', 'Mega Menu', 'Clicks Link', 'MU-ready Video');">
                         <img src="../../Content/img/demo-laptop-thumb.png" alt="" class="center-object" width="226" height="169">
                     </a>
                 </div>
@@ -187,9 +226,6 @@
                         
                         <li><a href="/Specialties">See all 25+ Specialties</a></li>
                     </ul>
-                    <ul class="middle">
-                        <li class="header"><a href="/Industry-Solutions/Practices-and-Clinics">Practices &amp; Clinics</a></li>
-                    </ul>
                 </div>
                 <div class="col2">
                     <ul>
@@ -205,7 +241,7 @@
                     </ul>
                 </div>
                 <div class="cta center">
-                    <a class="button-small" href="#" data-asset-id="238">Download Now</a>
+                    <a class="button-small" href="#" data-asset-id="388" onclick="ga('send', 'event', 'Mega Menu', 'Clicks Link', 'Data Analytics eBook');">Download Now</a>
                     <span class="icon-premium-content homepage"></span>
                 </div>
             </div>
@@ -219,26 +255,9 @@
                 <div class="cta">
                     <div class="header-tab-cta">
                         Upcoming Webinars
-                    </div><span class="icon-premium-content homepage"></span>
-                    <div style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; -moz-column-gap: 10px; -webkit-column-gap: 10px; column-gap: 10px; padding-left: 1em; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; height: 180px; width: 100%;">
-                                <p class="white bold" style="font-size: 1.2rem; margin: 0 0 .4em 0; overflow: hidden; -ms-text-overflow: ellipsis; -o-text-overflow: ellipsis; text-overflow: ellipsis; display: -webkit-box; line-height: 16px; /* fallback */ max-height: 32px; /* fallback */ -webkit-line-clamp: 2; /* number of lines to show */ -webkit-box-orient: vertical;">Live Demo: NextGen Revenue Cycle Management Services</p>
-                                <p class="white" style="font-size: 1.2rem; margin: 0 0 0 0;">07/15/14 | 2:30 PM - 3:15 PM ET</p>
-                                <ul style="margin-left: 0; margin-bottom: .7em; padding-left: 0; width: 100%; clear: both;">
-                                    <li><a href="/Events/1004">Learn More</a></li>
-                                </ul>
-                            <div class="clear"></div>
-                                <p class="white bold" style="font-size: 1.2rem; margin: 0 0 .4em 0; overflow: hidden; -ms-text-overflow: ellipsis; -o-text-overflow: ellipsis; text-overflow: ellipsis; display: -webkit-box; line-height: 16px; /* fallback */ max-height: 32px; /* fallback */ -webkit-line-clamp: 2; /* number of lines to show */ -webkit-box-orient: vertical;">Live Demo: NextGen Solutions for Dermatology: Better Results Period</p>
-                                <p class="white" style="font-size: 1.2rem; margin: 0 0 0 0;">07/16/14 | 3:00 PM - 4:00 PM ET</p>
-                                <ul style="margin-left: 0; margin-bottom: .7em; padding-left: 0; width: 100%; clear: both;">
-                                    <li><a href="/Events/993">Learn More</a></li>
-                                </ul>
-                            <div class="clear"></div>
-                                <p class="white bold" style="font-size: 1.2rem; margin: 0 0 .4em 0; overflow: hidden; -ms-text-overflow: ellipsis; -o-text-overflow: ellipsis; text-overflow: ellipsis; display: -webkit-box; line-height: 16px; /* fallback */ max-height: 32px; /* fallback */ -webkit-line-clamp: 2; /* number of lines to show */ -webkit-box-orient: vertical;">Dazed and Confused about Meaningful Use?</p>
-                                <p class="white" style="font-size: 1.2rem; margin: 0 0 0 0;">07/17/14 | 2:00 PM - 2:45 PM ET</p>
-                                <ul style="margin-left: 0; margin-bottom: .7em; padding-left: 0; width: 100%; clear: both;">
-                                    <li><a href="/Events/1005">Learn More</a></li>
-                                </ul>
-                            <div class="clear"></div>
+                    </div>
+                    <span class="icon-premium-content homepage"></span>
+                    <div class="webinars" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; -moz-column-gap: 10px; -webkit-column-gap: 10px; column-gap: 10px; padding-left: 1em; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; height: 180px; width: 100%;">
                     </div>
                 </div>
                 <ul>
@@ -251,6 +270,7 @@
                     <li><a href="/Resources?type=casestudies">Case Studies</a></li>
                     <li><a href="/Resources?type=datasheets">Data Sheets</a></li>
                     <li><a href="/Events">Events / Live Demos</a></li>
+                    <li><a href="/Resources?type=infographics">Infographics</a></li>
                     <li><a href="/Resources?type=videos">Videos</a></li>
                 </ul>
             </div>
@@ -265,9 +285,9 @@
         </div>
     </header>
 
-    <section id="hero" class=" hero-small " style=" background: url(../../../../Content/img/hero-small-generic.jpg) no-repeat center top; ">
+    <section id="hero" class=" hero-small " style=" background: url(../../../../Content/img/hero-small-generic.jpg) no-repeat center top;  ">
             <section id="hero-container">
-   
+
     <div class="header-tab">Privacy Policy</div>
             </section>
     </section>
@@ -290,6 +310,7 @@
     <section>
 <a href="/">Home</a>&nbsp;&nbsp;›&nbsp;
 
+
         <a href="/Legal">Legal</a>
         &nbsp;›&nbsp;
         Privacy Policy
@@ -309,23 +330,24 @@
 
 
 
-
-
-
 <div class="row">
     <div class="full col">
-        <br><br><h2>Privacy Policy</h2>
+        <br>
+        <br>
+        <h2>Privacy Policy</h2>
         <p>
             Quality Systems, Inc., its subsidiary NextGen Healthcare Information Systems, LLC
             and their respective subsidiaries and affiliates (“QSI,” “We,” or “Us”) respect
             Your privacy. This policy explains how We treat personal information We obtain from
             clients, other authorized users of our products and services, prospective clients,
             and users of our various websites, including but not limited to <a href="http://www.qsii.com/" target="_blank">www.qsii.com</a> and <a href="http://www.nextgen.com/" target="_blank">
-                    www.nextgen.com</a> (collectively, the “QSI Site”), but does not apply to
+                www.nextgen.com
+            </a> (collectively, the “QSI Site”), but does not apply to
             any third party sites that may be linked to them. This policy is part of the terms
             and conditions that govern use of the QSI Site. By using the QSI Site, you agree
             to be bound by the terms of this privacy policy. If You do not agree with these
-            terms, please do not use the QSI Site.<br><br>
+            terms, please do not use the QSI Site.<br>
+            <br>
             We use the QSI Site to make information, products, and services available to a diverse
             group of people who are interested in QSI and its products and services, including
             present and prospective clients, healthcare IT professionals, investors and members
@@ -370,15 +392,22 @@
             and apply our Terms and Conditions and Privacy Policy.
         </p>
         <p>
-            QSI uses ClickTale web analytics service on some QSI Sites. ClickTale may record
-            mouse clicks, mouse movements, and scrolling activity as well as any text you type in
-            this website. ClickTale does not collect personally identifiable information that
-            you do not voluntarily enter in this website. ClickTale does not track your browsing
-            habits across websites which do not use ClickTale services. For more information
-            see <a href="http://www.clicktale.com/privacy_service.aspx" target="_blank">Privacy
-                Policy for Information Collected by the ClickTale Web Analytics Service</a>
-            . We are using the information collected by ClickTale service to evaluate the usability
-            of the applicable QSI Site. You can choose to disable the Service at <a href="http://www.clicktale.net/disable.html" target="_blank">http://www.clicktale.net/disable.html</a>.
+            QSI uses Google Analytics™ web analytics services on some QSI Site. Google
+            Analytics
+            is a service provided by Google, Inc. (“Google”). Google uses the data collected
+            to track and examine the use of QSI Site, to prepare reports on its activities and
+            share them with other Google services. Google may use the data collected to contextualize
+            and personalize the ads in its own network or advertisers. The information collected
+            by Google is used to inform, optimize, and customize advertising based on user patterns
+            while on QSI Site. This activity is performed by tracking use data and by using
+            cookies, information that is transferred to partners that manage the remarketing
+            and behavioral targeting activities. Google Analytics for display advertising is
+            a remarketing and behavioral targeting service provided by Google that connects
+            the tracking activity performed by Google Analytics and its cookies with the AdWords™
+            advertising network and DoubleClick™ cookies.  For more information see <a href="http://www.google.com/intl/en/policies/privacy/" target="_blank">
+                Privacy
+                Policy
+            </a>. To opt-out see <a href="http://google.com/settings/ads/onweb/optout?hl=en" target="_blank">google.com/settings/ads/onweb/optout?hl=en</a>.
         </p>
         <br>
         <h3>Clients and Other Authorized Users</h3>
@@ -392,47 +421,50 @@
             provide.
         </p>
         <br>
-        <h3>
-            Promotional Offers</h3>
+        <h3>Promotional Offers</h3>
         <p>
             Promotional offers are governed by their terms and conditions. We may request information
             from those responding to offers to determine eligibility and to process and fulfill
             eligible responses.
         </p>
         <br>
-        <h3>
-            How We Use The Information Provided</h3>
+        <h3>How We Use The Information Provided</h3>
         <p>
             We do not request any patient information through the general QSI Site (www.nextgen.com).
-            Certain web-based services provided by QSI, such as NextGen® Patient Portal, NextGen®
-            Health Quality Measures, NextGen® Health Information Exchange and NextGen® Revenue
-            Cycle Management and certain support operations involve access to, and
-            the processing of, patient information. This information is provided to Us lawfully
-            by: (i) medical professionals who have obtained their patients’ consent to provide
-            Us with their patient information or (ii) by the patient themselves (or, if the
-            patient is a minor, through their parent or guardian).
+            Certain web-based services provided by QSI, such as NextGen Patient Portal, NextGen
+            Health Quality Measures, NextGen Health Information Exchange and NextGen Revenue
+            Cycle Management and certain support operations involve access to, and the processing
+            of, patient information. This information is provided to Us lawfully by: (i) medical
+            professionals who have obtained their patients’ consent to provide Us with their
+            patient information or (ii) by the patient themselves (or, if the patient is a minor,
+            through their parent or guardian).
         </p>
         <p>
             The QSI Site is not designed to be used by children. The general QSI Sites are not
             intended to collect or retain any patient data. However, use of certain QSI web-based
-            services (e.g. NextGen Patient Portal) may allow and/or require the collection
-            of certain patient data. Children under the age of thirteen (13) should not use
-            any QSI service that requires and/or collects patient data unless they are doing
-            so under the direction of their parent/guardian or medical professional.
+            services (e.g. NextGen Patient Portal) may allow and/or require the collection of
+            certain patient data. Children under the age of thirteen (13) should not use any
+            QSI service that requires and/or collects patient data unless they are doing so
+            under the direction of their parent/guardian or medical professional.
         </p>
         <p>
             We use the information we obtain to provide the QSI Site, provide Clients and
             authorized users with:
         </p>
         <ul>
-            <li>Products, services and information resources; </li>
-            <li>The development of new and updated products, services, and information resources;
+            <li>Products, services and information resources;</li>
+            <li>
+                The development of new and updated products, services, and information resources;
             </li>
-            <li>The administration of, protection of, and management of the QSI Site, our products,
-                services, and information resources; and </li>
-            <li>Communications concerning our products, services, and information, which includes
+            <li>
+                The administration of, protection of, and management of the QSI Site, our products,
+                services, and information resources; and
+            </li>
+            <li>
+                Communications concerning our products, services, and information, which includes
                 marketing and promotions, including the processing and where applicable, fulfillment
-                of promotional offers. </li>
+                of promotional offers.
+            </li>
         </ul>
         <p>
             These uses may involve disclosure of this information to vendors, technology and
@@ -481,14 +513,13 @@
             Certain information provided to Us may be Protected Health Information as that term
             is defined in the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”),
             American Recovery and Reinvestment Act (“ARRA”), Health Information Technology for
-            Economic and Clinical Health Act (“HITECH”) and in regulations promulgated thereunder 
-            and it may also be subject to regulation under state law (“PHI”). We offer
-            and provide the QSI Site and our products and services in a manner that complies
-            with all applicable laws and regulations we are aware of and/or become known to
-            us and will continue to do so. As an example, We have Business Associates Agreements
-            in place with our clients, partners, and vendors that govern the disclosure and
-            use of PHI that is required for Us to provide them with the products and services
-            they have requested.
+            Economic and Clinical Health Act (“HITECH”) and in regulations promulgated thereunder
+            and it may also be subject to regulation under state law (“PHI”). We offer and provide
+            the QSI Site and our products and services in a manner that complies with all applicable
+            laws and regulations we are aware of and/or become known to us and will continue
+            to do so. As an example, We have Business Associates Agreements in place with our
+            clients, partners, and vendors that govern the disclosure and use of PHI that is
+            required for Us to provide them with the products and services they have requested.
         </p>
         <p>
             If You order services from QSI that require You to provide to Us personal health
@@ -501,16 +532,17 @@
             administrative data and then utilize the De-Identified Use Data for any lawful purpose,
             including but not limited to creating statistical norms and reports, de-identified
             score cards, regional or national benchmarking, or to be used for research considerations,
-            provided, however, that the data shall not include member identities and claims information
-            that is unprotected. Personally identifiable patient, physician, and Your information
-            shall remain confidential and shall not be released. Further, should We choose to
-            place the De-Identified Use Data in its national database or in any way incorporate
-            such data in studies and/or analyses conducted directly or indirectly by Us, no
-            such data shall be identified as originating from You, or Your patients, members,
-            or physicians. The De-Identified Use Data shall also not be utilized in any study,
-            report, or publication without first being integrated with a significant body of
-            other data such that neither You nor Your patients or physicians can be identified,
-            unless appropriate, advance, and written consents to such identification are obtained.
+            provided, however, that the data shall not include member identities and claims
+            information that is unprotected. Personally identifiable patient, physician, and
+            Your information shall remain confidential and shall not be released. Further, should
+            We choose to place the De-Identified Use Data in its national database or in any
+            way incorporate such data in studies and/or analyses conducted directly or indirectly
+            by Us, no such data shall be identified as originating from You, or Your patients,
+            members, or physicians. The De-Identified Use Data shall also not be utilized in
+            any study, report, or publication without first being integrated with a significant
+            body of other data such that neither You nor Your patients or physicians can be
+            identified, unless appropriate, advance, and written consents to such identification
+            are obtained.
         </p>
         <p>
             We use appropriate security measures to protect the information We obtain from unauthorized
@@ -539,28 +571,25 @@
         <br>
         <h3>Compliance, Questions and Concerns</h3>
         <p>
-            We monitor our compliance with this policy. Questions or concerns should be directed
-            to:
+            We monitor our compliance with this policy. Questions or concerns should be directed to:
         </p>
         <p>
-            <strong>Dave Ott</strong>,<br>
-            Privacy and Security Officer<br>
-            NextGen Healthcare Information Systems, LLC<br>
-            795 Horsham Road<br>
-            Horsham, PA 19044
+            <strong>David Slazyk, CISSP</strong><br>
+            Senior Director, Security Officer &amp; IS<br>
+            QSI / NextGen Healthcare<br>
+            611 Anton Blvd., Suite 500<br>
+            Costa Mesa, CA 92626
         </p>
-            With a copy to:
+        With a copy to:
         <p>
             <strong>Bob Ellis</strong>,<br>
-            EVP &amp; General Counsel<br>
-            NextGen Healthcare Information Systems, LLC<br>
+            SVP, Associate General Counsel<br>
+            QSI / NextGen Healthcare<br>
             795 Horsham Road<br>
             Horsham, PA 19044
         </p>
         <p>
-            Complaints will be acknowledged, investigated, resolved between Us and the parties
-            concerned when possible, and reported to governmental authorities as the applicable
-            law requires and as appropriate.
+            Complaints will be acknowledged, investigated, and resolved between Us and the parties concerned when possible, and reported to governmental authorities as the applicable law requires and as appropriate.
         </p>
         <br>
         <h3>Changes to this Policy</h3>
@@ -574,12 +603,14 @@
             following notice of such changes shall indicate Your acknowledgement and consent
             of such changes and agreement to be bound by the terms and conditions of such changes.
         </p>
-        <br><br>
+        <br>
+        <br>
         <p>
-            <strong>Policy Effective Date:</strong> March, 2014
+            <strong>Policy Effective Date:</strong> July 18, 2014
         </p>
     </div>
 </div>
+
             </div>
             <div class="clear"></div>
         </section>
@@ -593,11 +624,12 @@
     <div class="row">
         <div class="half-with-quarters form-col col" style="overflow: hidden;">
             <span id="contact-us-form" class="anchor-link"></span>
-            <form class="register-form" enctype="application/x-www-form-urlencoded" method="post" action="http://info.nextgen.com/index.php/leadCapture/save" id="mktForm_5" name="mktForm_5">
+            <form class="register-form" enctype="application/x-www-form-urlencoded" method="post" action="https://info.nextgen.com/index.php/leadCapture/save" id="mktForm_5" name="mktForm_5">
                 <div id="contact-form" style="width: 990px;">
                     <h2>Contact Us</h2>
                     <div style="width: 470px; float: left; padding-right: 3em;">
-                        <p>To help us best respond to your request, please fill out the form below to be contacted by a NextGen Healthcare associate. We look forward to having a conversation with you.</p>
+                        <p style="font-size: 1.7rem;">To help us best respond to your request, please fill out the form below to be contacted by a NextGen Healthcare associate. We look forward to having a conversation with you.</p>
+                        <p style="font-size: 1.7rem;">If you are a NextGen Healthcare client and require support, please click <a style="font-size: 1.7rem; color: #0099d8;" href="http://knowledge.nextgen.com/pe" ;="" target="_blank">here</a> to submit a ticket to the support team.</p>
                         <div>
                             <div>
                                 <label>
@@ -610,6 +642,15 @@
                                         <option value="Reseller">Reseller</option>
                                         <option value="Media">Media</option>
                                         <option value="Job Candidate">Job Candidate</option>
+                                    </select>
+                                </label>
+                            </div>
+                            <div style="display: none;" id="additional-inquiry">
+                                <label>
+                                    <select style="width: 100%;" id="ClientInquiryType" name="ClientInquiryType" class="form-trigger">
+                                        <option selected="selected" value="">Inquiry Type *</option>
+                                        <option value="Product Interest">Product Interest</option>
+                                        <option value="Support Inquiry">Support Inquiry</option>
                                     </select>
                                 </label>
                             </div>
@@ -944,7 +985,6 @@
                 <li><a href="/Industry-Solutions/Hospital-System-Integration">Hospital System Integration</a></li>
                 <li><a href="/Industry-Solutions/Hospitals">Hospitals</a></li>
                 <li><a href="/Industry-Solutions/Patient-Centered-Medical-Home">Patient Centered Medical Home</a></li>
-                <li><a href="/Industry-Solutions/Practices-and-Clinics">Practices &amp; Clinics</a></li>
                 <li><a href="/Industry-Solutions/Health-Quality-Measures-HQM">Health Quality Measures (HQM)</a></li>
             </ul>
             <h3><a href="/About-NextGen">About Us</a></h3>
@@ -1015,18 +1055,17 @@
         <div class="clear"></div>
     </div>
     <div class="row no-margin">
-        <div class="one-third col social-media no-margin">
+        <div class="full col social-media no-margin">
             <ul>
                 <li><a class="facebook" href="https://www.facebook.com/NextGenHealthcare" target="_blank">Facebook</a></li>
                 <li><a class="twitter" href="https://twitter.com/nextgen" target="_blank">Twitter</a></li>
                 <li><a class="linkedin" href="http://www.linkedin.com/company/12738?trk=tyah&amp;trkInfo=tas%3Anextgen%20healthcare%2Cidx%3A2-1-2" target="_blank">LinkedIn</a></li>
                 <li><a class="google-plus" href="https://plus.google.com/+NextGenHealthcare" target="_blank">Google+</a></li>
                 <li><a class="youtube" href="http://www.youtube.com/user/nghisinc" target="_blank">YouTube</a></li>
+                <li><a class="blog" href="http://blog.nextgen.com/" target="_blank">NextGen Blog</a></li>
             </ul>
-        </div>
-        <div class="two-thirds col no-margin">
             <p class="copyright">
-                <a href="/Legal">Terms &amp; Conditions</a> &nbsp; | &nbsp; <a href="/Legal/Privacy-Policy">Privacy Policy</a> &nbsp; | &nbsp; <a href="/Legal/Notices">Legal Notices</a> &nbsp; | &nbsp; © 2014 NextGen Healthcare Information Systems, LLC
+                <a href="/Legal">Terms &amp; Conditions</a> &nbsp; | &nbsp; <a href="/Legal/Privacy-Policy">Privacy Policy</a> &nbsp; | &nbsp; <a href="/Legal/Notices">Legal Notices</a> &nbsp; | &nbsp; © 2015 NextGen Healthcare Information Systems, LLC
             </p>
         </div>
         <div class="clear"></div>
@@ -1037,12 +1076,12 @@
             <div class="clear"></div>
         </article>
     </footer>
-    <div id="form-pop-source" class="blue-popup mfp-hide">
+    <div id="form-pop-source" class="blue-popup mfp-hide hidden-print">
     <div class="form-container">
         <h2></h2>
         <p></p>
         <form enctype="application/x-www-form-urlencoded" action="https://info.nextgen.com/index.php/leadCapture/save" id="mktForm_6" class="marketo-asset-form" name="mktForm_6" method="post">
-             <select id="Popeye__c" name="Popeye__c" class="form-trigger" data-required="">
+            <select id="Popeye__c" name="Popeye__c" class="form-trigger" data-required="">
                 <option selected="selected" value="">I am a *</option>
                 <option value="Client">Client</option>
                 <option value="Potential Buyer">Potential Buyer</option>
@@ -1110,9 +1149,10 @@
                 <option value="WI">WI</option>
                 <option value="WV">WV</option>
                 <option value="WY">WY</option>
-            </select>           
+            </select>
             <div class="clear"></div>
-            <span style="color: #fff; display: block; margin-top: 1em;">* Browser cookies must be enabled
+            <span style="color: #fff; display: block; margin-top: 1em;">
+                * Browser cookies must be enabled
             </span>
             <button id="mktFrmSubmit" type="submit" value="Watch Now" name="submitButton" class="center-object" tabindex="13">Watch Now</button>
             <div class="clear"></div>
@@ -1134,146 +1174,155 @@
     </div>
 </div>
 
+    <div id="form-pop-source-mobile" class="blue-popup mfp-hide">
     <div id="mobile-form">
-    <form class="register-form marketo-asset-form" enctype="application/x-www-form-urlencoded" method="post" action="http://info.nextgen.com/index.php/leadCapture/save" id="mktForm_8" name="mktForm_8">
-        <h2 class="white">Contact Us</h2>
-        <p class="white">To help us best respond to your request, please fill out the form below to be contacted by a NextGen Healthcare associate. We look forward to having a conversation with you.</p>
-        <select id="Popeye__c" name="Popeye__c" class="form-trigger" data-required="">
-            <option selected="selected" value="">I am a *</option>
-            <option value="Client">Client</option>
-            <option value="Potential Buyer">Potential Buyer</option>
-            <option value="Vendor">Vendor</option>
-            <option value="Consultant">Consultant</option>
-            <option value="Reseller">Reseller</option>
-            <option value="Media">Media</option>
-            <option value="Job Candidate">Job Candidate</option>
-        </select>
-        <input placeholder="First Name *" tabindex="13" type="text" id="FirstName" name="FirstName" data-required="">
-        <input placeholder="Last Name *" tabindex="14" type="text" id="LastName" name="LastName" data-required="">
-        <input placeholder="Company Name *" tabindex="15" type="text" id="Company" name="Company" data-required="">
-        <input placeholder="Email Address *" tabindex="16" type="text" id="Email" name="Email" data-required="" data-pattern=".+\@.+\..+">
-        <select id="State" name="State" tabindex="17" data-required="">
-            <option selected="selected" value="">State</option>
-            <option value="AK">AK</option>
-            <option value="AL">AL</option>
-            <option value="AR">AR</option>
-            <option value="AZ">AZ</option>
-            <option value="CA">CA</option>
-            <option value="CO">CO</option>
-            <option value="CT">CT</option>
-            <option value="DC">DC</option>
-            <option value="DE">DE</option>
-            <option value="FL">FL</option>
-            <option value="GA">GA</option>
-            <option value="HI">HI</option>
-            <option value="IA">IA</option>
-            <option value="ID">ID</option>
-            <option value="IL">IL</option>
-            <option value="IN">IN</option>
-            <option value="KS">KS</option>
-            <option value="KY">KY</option>
-            <option value="LA">LA</option>
-            <option value="MA">MA</option>
-            <option value="MD">MD</option>
-            <option value="ME">ME</option>
-            <option value="MI">MI</option>
-            <option value="MN">MN</option>
-            <option value="MO">MO</option>
-            <option value="MS">MS</option>
-            <option value="MT">MT</option>
-            <option value="NC">NC</option>
-            <option value="ND">ND</option>
-            <option value="NE">NE</option>
-            <option value="NH">NH</option>
-            <option value="NJ">NJ</option>
-            <option value="NM">NM</option>
-            <option value="NV">NV</option>
-            <option value="NY">NY</option>
-            <option value="OH">OH</option>
-            <option value="OK">OK</option>
-            <option value="OR">OR</option>
-            <option value="PA">PA</option>
-            <option value="RI">RI</option>
-            <option value="SC">SC</option>
-            <option value="SD">SD</option>
-            <option value="TN">TN</option>
-            <option value="TX">TX</option>
-            <option value="UT">UT</option>
-            <option value="VA">VA</option>
-            <option value="VT">VT</option>
-            <option value="WA">WA</option>
-            <option value="WI">WI</option>
-            <option value="WV">WV</option>
-            <option value="WY">WY</option>
-        </select>
+        <form class="register-form marketo-asset-form" enctype="application/x-www-form-urlencoded" method="post" action="https://info.nextgen.com/index.php/leadCapture/save" id="mktForm_8" name="mktForm_8">
+            <h2 class="white">Contact Us</h2>
+            <p class="white">To help us best respond to your request, please fill out the form below to be contacted by a NextGen Healthcare associate. We look forward to having a conversation with you.</p>
+            <select id="Popeye__c" name="Popeye__c" class="form-trigger" data-required="">
+                <option selected="selected" value="">I am a *</option>
+                <option value="Client">Client</option>
+                <option value="Potential Buyer">Potential Buyer</option>
+                <option value="Vendor">Vendor</option>
+                <option value="Consultant">Consultant</option>
+                <option value="Reseller">Reseller</option>
+                <option value="Media">Media</option>
+                <option value="Job Candidate">Job Candidate</option>
+            </select>
+            <div style="display: none;" id="additional-inquiry-mobile">
+                <select style="width: 100%;" id="ClientInquiryType" name="ClientInquiryType" class="form-trigger">
+                    <option selected="selected" value="">Inquiry Type *</option>
+                    <option value="Product Interest">Product Interest</option>
+                    <option value="Support Inquiry">Support Inquiry</option>
+                </select>
+            </div>
+            <input placeholder="First Name *" tabindex="13" type="text" id="FirstName" name="FirstName" data-required="">
+            <input placeholder="Last Name *" tabindex="14" type="text" id="LastName" name="LastName" data-required="">
+            <input placeholder="Company Name *" tabindex="15" type="text" id="Company" name="Company" data-required="">
+            <input placeholder="Email Address *" tabindex="16" type="text" id="Email" name="Email" data-required="" data-pattern=".+\@.+\..+">
+            <select id="State" name="State" tabindex="17" data-required="">
+                <option selected="selected" value="">State</option>
+                <option value="AK">AK</option>
+                <option value="AL">AL</option>
+                <option value="AR">AR</option>
+                <option value="AZ">AZ</option>
+                <option value="CA">CA</option>
+                <option value="CO">CO</option>
+                <option value="CT">CT</option>
+                <option value="DC">DC</option>
+                <option value="DE">DE</option>
+                <option value="FL">FL</option>
+                <option value="GA">GA</option>
+                <option value="HI">HI</option>
+                <option value="IA">IA</option>
+                <option value="ID">ID</option>
+                <option value="IL">IL</option>
+                <option value="IN">IN</option>
+                <option value="KS">KS</option>
+                <option value="KY">KY</option>
+                <option value="LA">LA</option>
+                <option value="MA">MA</option>
+                <option value="MD">MD</option>
+                <option value="ME">ME</option>
+                <option value="MI">MI</option>
+                <option value="MN">MN</option>
+                <option value="MO">MO</option>
+                <option value="MS">MS</option>
+                <option value="MT">MT</option>
+                <option value="NC">NC</option>
+                <option value="ND">ND</option>
+                <option value="NE">NE</option>
+                <option value="NH">NH</option>
+                <option value="NJ">NJ</option>
+                <option value="NM">NM</option>
+                <option value="NV">NV</option>
+                <option value="NY">NY</option>
+                <option value="OH">OH</option>
+                <option value="OK">OK</option>
+                <option value="OR">OR</option>
+                <option value="PA">PA</option>
+                <option value="RI">RI</option>
+                <option value="SC">SC</option>
+                <option value="SD">SD</option>
+                <option value="TN">TN</option>
+                <option value="TX">TX</option>
+                <option value="UT">UT</option>
+                <option value="VA">VA</option>
+                <option value="VT">VT</option>
+                <option value="WA">WA</option>
+                <option value="WI">WI</option>
+                <option value="WV">WV</option>
+                <option value="WY">WY</option>
+            </select>
 
-        <input placeholder="Phone Number" tabindex="18" type="tel" id="Phone" name="Phone">
-        <select id="Practice_Specialties__c" tabindex="19" name="Practice_Specialties__c">
-            <option value="" selected="selected">Specialty</option>
-            <option value="Anesthesiology">Anesthesiology</option>
-            <option value="Asthma &amp; Allergy">Asthma &amp; Allergy</option>
-            <option value="Audiology">Audiology</option>
-            <option value="Behavioral Health / Mental Health">Behavioral Health / Mental Health</option>
-            <option value="Billing Service">Billing Service</option>
-            <option value="Cardiology">Cardiology</option>
-            <option value="Community Health Center / FQHC">Community Health Center / FQHC</option>
-            <option value="Corrections">Corrections</option>
-            <option value="Critical Access Hospital">Critical Access Hospital</option>
-            <option value="Dental / Oral Surgery">Dental / Oral Surgery</option>
-            <option value="Dermatology">Dermatology</option>
-            <option value="Endocrinology">Endocrinology</option>
-            <option value="ENT / Otolaryngology">ENT / Otolaryngology</option>
-            <option value="Gastrointestinal">Gastrointestinal</option>
-            <option value="General Surgery">General Surgery</option>
-            <option value="Hospital / Health System">Hospital / Health System</option>
-            <option value="Infectious Disease">Infectious Disease</option>
-            <option value="Multispecialty">Multi-specialty</option>
-            <option value="Nephrology">Nephrology</option>
-            <option value="Neurology">Neurology</option>
-            <option value="Neurosurgery">Neurosurgery</option>
-            <option value="OB/GYN">OB/GYN</option>
-            <option value="Occupational Medicine">Occupational Medicine</option>
-            <option value="Oncology / Hematology">Oncology / Hematology</option>
-            <option value="Ophthalmology">Ophthalmology</option>
-            <option value="Orthopedics">Orthopedics</option>
-            <option value="Other">Other</option>
-            <option value="Pain Management">Pain Management</option>
-            <option value="Pediatrics">Pediatrics</option>
-            <option value="Planned Parenthood">Planned Parenthood</option>
-            <option value="Podiatry">Podiatry</option>
-            <option value="Primary Care / Internal Med / Family Med">Primary Care / Internal Med / Family Med</option>
-            <option value="Pulmonology">Pulmonology</option>
-            <option value="Radiology">Radiology</option>
-            <option value="Rheumatology">Rheumatology</option>
-            <option value="Rural Health Center">Rural Health Center</option>
-            <option value="Sports Medicine">Sports Medicine</option>
-            <option value="Tribal Health">Tribal Health</option>
-            <option value="Urgent Care">Urgent Care</option>
-            <option value="Urology">Urology</option>
-        </select>
-        
-        <input placeholder="# of Providers" tabindex="20" type="tel" id="Num_Providers__c" name="Num_Providers__c">
-        
-        <p class="white" tabindex="21" style="margin-bottom: 5px;">COMMENTS:</p>
-        <textarea id="LeadComments" name="LeadComments"></textarea>
+            <input placeholder="Phone Number" tabindex="18" type="tel" id="Phone" name="Phone">
+            <select id="Practice_Specialties__c" tabindex="19" name="Practice_Specialties__c">
+                <option value="" selected="selected">Specialty</option>
+                <option value="Anesthesiology">Anesthesiology</option>
+                <option value="Asthma &amp; Allergy">Asthma &amp; Allergy</option>
+                <option value="Audiology">Audiology</option>
+                <option value="Behavioral Health / Mental Health">Behavioral Health / Mental Health</option>
+                <option value="Billing Service">Billing Service</option>
+                <option value="Cardiology">Cardiology</option>
+                <option value="Community Health Center / FQHC">Community Health Center / FQHC</option>
+                <option value="Corrections">Corrections</option>
+                <option value="Critical Access Hospital">Critical Access Hospital</option>
+                <option value="Dental / Oral Surgery">Dental / Oral Surgery</option>
+                <option value="Dermatology">Dermatology</option>
+                <option value="Endocrinology">Endocrinology</option>
+                <option value="ENT / Otolaryngology">ENT / Otolaryngology</option>
+                <option value="Gastrointestinal">Gastrointestinal</option>
+                <option value="General Surgery">General Surgery</option>
+                <option value="Hospital / Health System">Hospital / Health System</option>
+                <option value="Infectious Disease">Infectious Disease</option>
+                <option value="Multispecialty">Multi-specialty</option>
+                <option value="Nephrology">Nephrology</option>
+                <option value="Neurology">Neurology</option>
+                <option value="Neurosurgery">Neurosurgery</option>
+                <option value="OB/GYN">OB/GYN</option>
+                <option value="Occupational Medicine">Occupational Medicine</option>
+                <option value="Oncology / Hematology">Oncology / Hematology</option>
+                <option value="Ophthalmology">Ophthalmology</option>
+                <option value="Orthopedics">Orthopedics</option>
+                <option value="Other">Other</option>
+                <option value="Pain Management">Pain Management</option>
+                <option value="Pediatrics">Pediatrics</option>
+                <option value="Planned Parenthood">Planned Parenthood</option>
+                <option value="Podiatry">Podiatry</option>
+                <option value="Primary Care / Internal Med / Family Med">Primary Care / Internal Med / Family Med</option>
+                <option value="Pulmonology">Pulmonology</option>
+                <option value="Radiology">Radiology</option>
+                <option value="Rheumatology">Rheumatology</option>
+                <option value="Rural Health Center">Rural Health Center</option>
+                <option value="Sports Medicine">Sports Medicine</option>
+                <option value="Tribal Health">Tribal Health</option>
+                <option value="Urgent Care">Urgent Care</option>
+                <option value="Urology">Urology</option>
+            </select>
 
-        <button id="mktFrmSubmit" type="submit" value="Watch Now" name="submitButton" class="center-object">Contact Us</button>
-        <div class="clear"></div>
-        <span style="display: none;">
-            <input type="text" name="_marketo_comments" value="">
-        </span>
-        <input type="hidden" name="lpId" value="-1">
-        <input type="hidden" name="subId" value="44">
-        <input type="hidden" name="kw" value="">
-        <input type="hidden" name="cr" value="">
-        <input type="hidden" name="searchstr" value="">
-        <input type="hidden" name="lpurl" value="https://info.nextgen.com/Generic.html?cr={creative}&amp;kw={keyword}">
-        <input type="hidden" name="formid" value="5">
-        <input type="hidden" name="returnURL" value="http://www.nextgen.com/">
-        <input id="contact-us-form-mobile-returnURL" type="hidden" name="retURL" value="http://www.nextgen.com/">
-        <input type="hidden" name="_mkt_disp" value="return">
-        <input type="hidden" name="_mkt_trk" value="">
-    </form>
+            <input placeholder="# of Providers" tabindex="20" type="tel" id="Num_Providers__c" name="Num_Providers__c">
+
+            <p class="white" tabindex="21" style="margin-bottom: 5px;">COMMENTS:</p>
+            <textarea id="LeadComments" name="LeadComments"></textarea>
+
+            <button id="mktFrmSubmit" type="submit" value="Watch Now" name="submitButton" class="center-object">Contact Us</button>
+            <div class="clear"></div>
+            <span style="display: none;">
+                <input type="text" name="_marketo_comments" value="">
+            </span>
+            <input type="hidden" name="lpId" value="-1">
+            <input type="hidden" name="subId" value="44">
+            <input type="hidden" name="kw" value="">
+            <input type="hidden" name="cr" value="">
+            <input type="hidden" name="searchstr" value="">
+            <input type="hidden" name="lpurl" value="https://info.nextgen.com/Generic.html?cr={creative}&amp;kw={keyword}">
+            <input type="hidden" name="formid" value="5">
+            <input type="hidden" name="returnURL" value="http://www.nextgen.com/">
+            <input id="contact-us-form-mobile-returnURL" type="hidden" name="retURL" value="http://www.nextgen.com/">
+            <input type="hidden" name="_mkt_disp" value="return">
+            <input type="hidden" name="_mkt_trk" value="">
+        </form>
+    </div>
 </div>
 
 
@@ -1299,7 +1348,7 @@ document.write(unescape("%3Cscript src='" + MarketoJsHost + "munchkin.marketo.ne
 </script>
 
 <!-- Google Analytics -->
-<script type="text/javascript">
+<script>
     (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
             (i[r].q = i[r].q || []).push(arguments)
@@ -1307,8 +1356,11 @@ document.write(unescape("%3Cscript src='" + MarketoJsHost + "munchkin.marketo.ne
         m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-    ga('create', 'UA-5651150-1', 'nextgen.com');
+    ga('create', 'UA-5651150-1', 'auto');
+    ga('require', 'linkid', 'linkid.js');
+    ga('require', 'displayfeatures');
     ga('send', 'pageview');
+
 </script>
 <!-- End Google Analytics -->
 
@@ -1324,6 +1376,8 @@ document.write(unescape("%3Cscript src='" + MarketoJsHost + "munchkin.marketo.ne
     <script charset="utf-8" src="//bridge.nextgen.com/cdn/nextgen/js/libraries/homepage-sliders.js" type="text/javascript"></script>
     <script charset="utf-8" src="//bridge.nextgen.com/cdn/nextgen/js/libraries/throttle-debounce.min.js" type="text/javascript"></script>
     <script charset="utf-8" src="//bridge.nextgen.com/cdn/global/js/libraries/jquery-validate.min.js" type="text/javascript"></script>
+    <script charset="utf-8" src="//bridge.nextgen.com/cdn/nextgen/js/libraries/moment.js" type="text/javascript"></script>
+
 
     
     <script type="text/javascript">
@@ -1364,21 +1418,26 @@ document.write(unescape("%3Cscript src='" + MarketoJsHost + "munchkin.marketo.ne
 
         
             
+
         }
         
 
-        $('form#mktForm_6, form#mktForm_5, form#mktForm_1').validate({ // form#mktForm_6, 
-            onKeyup: true,
-            onChange: true,
-            eachValidField: function () {
-                $(this).removeClass('invalid-entry');
-                $(this).addClass('valid-entry');
-            },
-            eachInvalidField: function () {
-                $(this).addClass('invalid-entry');
-                $(this).removeClass('valid-entry');
-            }
-        });
+        validateForms();
+
+        function validateForms() {
+            $('form#mktForm_6, form#mktForm_5, form#mktForm_1').validate({ // form#mktForm_6, 
+                onKeyup: true,
+                onChange: true,
+                eachValidField: function () {
+                    $(this).removeClass('invalid-entry');
+                    $(this).addClass('valid-entry');
+                },
+                eachInvalidField: function () {
+                    $(this).addClass('invalid-entry');
+                    $(this).removeClass('valid-entry');
+                }
+            });
+        }
 
         // code to show and hide the main/full contact us form
         $('#mktForm_5 :input').focus(function () {
@@ -1391,6 +1450,30 @@ document.write(unescape("%3Cscript src='" + MarketoJsHost + "munchkin.marketo.ne
             var formButton = $('#register-submit');
             if (!formInput.is(e.target) && formInput.has(e.target).length === 0 && !formLabel.is(e.target) && formLabel.has(e.target).length === 0 && !formButton.is(e.target) && formButton.has(e.target).length === 0) {
                 hideForm();
+            }
+        });  
+
+        $('form#mktForm_5 select#Popeye__c').on('change', function () {
+            if ($(this).val() === 'Client') {
+                $('form#mktForm_5').validateDestroy();
+                // show new field
+                $('div#additional-inquiry').show();
+
+                // add required
+                $('select#ClientInquiryType').attr('data-required', true);
+
+                validateForms();
+                
+            } else {
+                $('form#mktForm_5').validateDestroy();
+                // hide field and set to null or default
+                $('div#additional-inquiry').hide();
+                $('select#ClientInquiryType').val('');
+
+                // remove required
+                $('select#ClientInquiryType').removeAttr('data-required').removeClass('invalid-entry');
+
+                validateForms();
             }
         });
 
