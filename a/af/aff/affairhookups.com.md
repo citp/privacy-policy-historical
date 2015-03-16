@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affairhookups.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626130826id_/http%3A//www.affairhookups.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affairhookups.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316054521id_/http%3A//www.affairhookups.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Hookup with local cheaters, have an affair, do it safe and easy.
 
