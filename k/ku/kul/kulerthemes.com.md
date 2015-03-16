@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kulerthemes.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820180704id_/http%3A//www.kulerthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kulerthemes.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316051040id_/http%3A//www.kulerthemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Best OpenCart Themes, Free OpenCart Templates from KulerThemes
+# Privacy Policy - Best OpenCart Themes, Free OpenCart Templates from KulerThemes
 
 ## Privacy Policy
 
@@ -22,28 +22,26 @@ KulerThemes are committed to conducting our business in accordance with these pr
 
 You are free to update your information at any time directly through our Website. Inasmuch as your information will never be used without your explicit consent, we are not able to update the email address to which you subscribe to KulerThemes communications on your behalf. 
 
-Great themes from a great team! Highly recommended, especially the after-sales service!… Surely a team that won’t just get your money and leave you after. 
+Excellent themes with tons of options, easy to customize, accompanied with very fast and efficient support team, are what makes Kuler Themes the right choice for me! Keep up the good work guys!
 
-Kathleen Navarro via  [www.kheishopph.com/shop](http://www.kheishopph.com/shop) \- Uses Egestas theme 
+Aleksandar via  [www.digitalnaprodavnica.rs](http://www.digitalnaprodavnica.rs/) \- Uses Acceptus theme 
 
-Your support is very good and even fast. Your themes are easy to use even for guys that don´t know much about webdesign so please work on ! :-)
+You guys are legendary!!!! You guys are great and have amazing support/service I couldn’t ask for any better.  
+THANK YOU!!!!!!!!!!!!!! 
 
-Thomas via  [www.eigenmuse.eu](http://www.eigenmuse.eu/) \- Uses iOC7 theme 
+Benjamin van den Berg via  [www.genuinenguni.com](http://www.genuinenguni.com/) \- Uses Tellus theme 
+
+I’ve managed to greatly accelerate my e-commerce business with Kuler Themes. I’m glad I did since the guys are highly professional and extremely supportive.
+
+Gerasim via  [www.hi.com.mk/opencart](http://www.hi.com.mk/opencart) \- Uses Acceptus theme 
+
+Kulerthemes is the best solution for a professional good looking webshop.  
+This includes the best professional support you can wish
+
+Samir Boumhaout via  [www.sneldrukkerij.nl](http://www.sneldrukkerij.nl/) \- Uses Pacifico theme 
 
 Wonderful theme and Compatible with all my modules and easy to control 
 
 Ahmed via  [www.oyfd.com](http://www.oyfd.com/) \- Used iOC7 theme 
 
-Just purchased and downloaded my new template! Thank you for producing such great templates with the ability to customise colours etc. Love Tempus!
-
-Amelia Todd via  [www.mamacloth.co.nz](http://www.mamacloth.co.nz/) \- Uses Tempus theme 
-
-The support was very helpful. The helper was very patient and skilled. Any changes or problem related to the theme or modules can be solved just by one time.
-
-Tao Song via  [www.verkkokauppa.lavina.fi](http://www.verkkokauppa.lavina.fi/) \- Uses Sreeda theme 
-
-The Lobortis theme was a great jumping off point for a new e-commerce site and the included plugins made it easy to customize
-
-Will Carey via  [www.wacdesign.com](http://www.wacdesign.com/) \- Uses Lobortis theme 
-
-© 2014 KulerThemes.com. All rights reserved.
+Copyright © 2014 KulerThemes.com. All rights reserved.
