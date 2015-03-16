@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regalassets.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229203442id_/https%3A//www.regalassets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regalassets.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316174724id_/https%3A//www.regalassets.com/privacy-policy) for the most accurate reproduction.*
 
 # Official Gold IRA Company | Regal Assets
 
