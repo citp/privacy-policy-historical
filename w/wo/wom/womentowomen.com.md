@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704121848id_/https%3A//www.womentowomen.com/store/privacy-disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316175841id_/https%3A//www.womentowomen.com/store/privacy-disclosures) for the most accurate reproduction.*
 
 # Privacy Disclosures | Women To Women - Store
 
@@ -83,7 +83,7 @@ At any time you can choose to no longer receive commercial or promotional emails
 
 ## How we protect your personal information
 
-We take appropriate security measures (including physical, electronic, and procedural measures) to help safeguard your personal information from unauthorized access and disclosure.   **We want you to feel confident using our website to transact business.**  However, no system can be completely secure.  Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure.  Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email.  Please refer to the U.S. Federal Trade Commission’s website at <http://www.ftc.gov/bcp/menus/consumer/data.shtml> for information about how to protect yourself against identity theft.
+We take appropriate security measures (including physical, electronic, and procedural measures) to help safeguard your personal information from unauthorized access and disclosure.   **We want you to feel confident using our website to transact business.**  However, no system can be completely secure.  Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure.  Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email.  Please refer to the U.S. Federal Trade Commission’s website at <http://www.consumer.ftc.gov/features/feature-0014-identity-theft> for information about how to protect yourself against identity theft.
 
 ## Information you provide about yourself while using our service
 
