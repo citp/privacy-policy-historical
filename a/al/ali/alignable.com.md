@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alignable.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702213957id_/https%3A//www.alignable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alignable.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316112128id_/https%3A//www.alignable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -187,8 +187,6 @@ Alignable Corporation
 
 Attn: Legal Department, Privacy Policy Issues
 
-60 Thoreau Street
+1000 Winter Street
 
-Suite 263
-
-Concord, MA 01742-2411
+Waltham, MA 02451
