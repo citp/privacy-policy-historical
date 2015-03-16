@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the trustlink.org privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727051231id_/http%3A//www.trustlink.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustlink.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316014416id_/https%3A//www.trustlink.org/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# TrustLink's Privacy Policy
 
-TrustLink Privacy Policy  
+  | 
+
+  
+|  TrustLink Privacy Policy   
+---  
 TrustLink is committed to maintaining your confidence and trust, and accordingly maintains the following privacy policy to protect personal information you provide online.  
    
 TrustLink's Commitment to Online Security  
@@ -31,4 +35,6 @@ A cookie is a small amount of data that is sent to your browser from a Web serve
 Problems  
 If you have a complaint about TrustLink's compliance with this privacy policy, you may contact us at [privacy@trustlink.org](mailto:privacy@trustlink.org).  
    
+   
+  
  
