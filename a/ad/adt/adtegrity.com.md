@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adtegrity.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715141943id_/https%3A//www.adtegrity.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtegrity.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316010230id_/https%3A//www.adtegrity.com/about-adtegrity/online-privacy-policy) for the most accurate reproduction.*
 
-# privacy | Adtegrity
+# Online Privacy Policy - Adtegrity
 
 ## privacy
 
-Adtegrity observes the following privacy policy in our commitment to assuring privacy for publishers, advertisers, and website visitors.
+Adtegrity observes the following online privacy policy in our commitment to assuring privacy for publishers, advertisers, and website visitors.
 
 ### Collected Information:
 
@@ -46,5 +46,7 @@ The ads appearing on this Web site are delivered to you by third-party advertise
 
 ### Third-Party Cookies:
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+If you have questions regarding our online privacy policy, [please contact us](mailto:support@adtegrity.com).  
 
