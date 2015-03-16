@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopbmwusa.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701034552id_/http%3A//www.shopbmwusa.com/HELP/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopbmwusa.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316212644id_/http%3A//www.shopbmwusa.com/HELP/PRIVACY) for the most accurate reproduction.*
 
 # ShopBMWUSA.com: Help
 
