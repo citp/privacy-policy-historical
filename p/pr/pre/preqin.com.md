@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016094807id_/https%3A//www.preqin.com/item/privacy-policy/100/1592) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317004206id_/https%3A//www.preqin.com/item/privacy-policy/100/1592) for the most accurate reproduction.*
 
 # About - Privacy Policy
 
@@ -78,11 +78,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If there are any questions regarding this privacy policy, please contact us at any of our offices. Full contact details are available here:
 
-[http://www.preqin.com](https://web.archive.org/)
-
-Preqin Ltd, Equitable House, 47 King William Street,  
-London EC4R 9AF, UK  
-[info@preqin.com](mailto:info@preqin.com)  
-+44 (0)20 7645 8888
+[Contact Us](https://www.preqin.com/item/contact-details/100/299)
