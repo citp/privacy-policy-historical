@@ -1,0 +1,503 @@
+<!--The following is the downloaded HTML source of the cgstud.io privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316183146id_/https%3A//www.cgstud.io/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=960px">
+ 
+<link rel="stylesheet" href="/royalslider/royalslider.css" media="all"><link rel="stylesheet" href="/royalslider/skins/default/rs-default.css" media="all"><link rel="stylesheet" href="/css/normalize.css" media="all"><link rel="stylesheet" href="/webfonts/ss-glyphish-outlined.css" media="all"><link rel="stylesheet" href="/css/jquery-ui.autocomplete-accordion.css" media="all"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster|Open+Sans:300,400,700" media="all"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//widget.uservoice.com/vRfQ1m7ydIqfxK3IB696A.js"></script><script type="text/javascript">
+/*!
+loadCSS: load a CSS file asynchronously.
+[c]2014 @scottjehl, Filament Group, Inc.
+Licensed MIT
+*/
+function loadCSS( href, before, media, callback ){
+  "use strict";
+  // Arguments explained:
+  // `href` is the URL for your CSS file.
+  // `before` optionally defines the element we'll use as a reference for injecting our <link>
+  // By default, `before` uses the first <script> element in the page.
+  // However, since the order in which stylesheets are referenced matters, you might need a more specific location in your document.
+  // If so, pass a different reference element to the `before` argument and it'll insert before that instead
+  // note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+  var ss = window.document.createElement( "link" );
+  var ref = before || window.document.getElementsByTagName( "script" )[ 0 ];
+  var sheets = window.document.styleSheets;
+  ss.rel = "stylesheet";
+  ss.href = href;
+  // temporarily, set media to something non-matching to ensure it'll fetch without blocking render
+  ss.media = "only x";
+  ss.onload = callback || function() {};
+  // inject link
+  ref.parentNode.insertBefore( ss, ref );
+  // This function sets the link's media back to `all` so that the stylesheet applies once it loads
+  // It is designed to poll until document.styleSheets includes the new sheet.
+  function toggleMedia(){
+    var defined;
+    for( var i = 0; i < sheets.length; i++ ){
+      if( sheets[ i ].href && sheets[ i ].href.indexOf( href ) > -1 ){
+        defined = true;
+      }
+    }
+    if( defined ){
+      ss.media = media || "all";
+    }
+    else {
+      setTimeout( toggleMedia );
+    }
+  }
+  toggleMedia();
+  return ss;
+}
+
+  // load a file
+  loadCSS( "/royalslider/royalslider.css" );
+  loadCSS( "/royalslider/skins/default/rs-default.css" );
+  loadCSS( "/css/normalize.css" );
+
+  loadCSS( "/webfonts/ss-glyphish-outlined.css" );
+  loadCSS( "/css/jquery-ui.autocomplete-accordion.css" );
+  loadCSS( "https://fonts.googleapis.com/css?family=Lobster|Open+Sans:300,400,700" );
+</script>
+<noscript>
+ 
+<link rel="stylesheet" href="/royalslider/royalslider.css">
+ 
+<link rel="stylesheet" href="/royalslider/skins/default/rs-default.css">
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/webfonts/ss-glyphish-outlined.css">
+<link rel="stylesheet" href="/css/jquery-ui.autocomplete-accordion.css"> 
+<link href='https://fonts.googleapis.com/css?family=Lobster|Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
+</noscript>
+<link rel="stylesheet" href="/css/main.css?version=1.05">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.8.2.min.js"><\/script>')</script><script src="/js/vendor/jquery-1.8.2.min.js"></script>
+ 
+ 
+<script src="/js/jquery-ui.min.js"></script>
+<script defer="" src="/js/jquery.watermarkinput.js" type="text/javascript"></script>
+<script defer="" src="/js/plugins.js"></script>
+<script defer="" src="/js/main.js"></script>
+<script defer="" src="/js/functions.js"></script>
+ 
+<script defer="" src="/js/jquery.qtip-1.0.0-rc3.js"></script>
+ 
+<style>@media all and (max-width: 905px) {.badass-logo{padding:27px 25px 21px 35px!important;}.badass-logo .cg-font{font-size:27px;}.badass-logo .studio-font{font-size:28px;}ul.menu-top-bar>li>a{font-size:14px;padding:33px 10px 30px;}}</style>
+
+<title>CGStudio - About us</title>
+<meta name="description" content="Stock 3D Models, Texures, HDRI and Scripts.">
+<style>.a-header-search-block{z-index:10;margin:100px auto 0 auto;text-align:center;width:100%;}.a-header{text-align:center;}.a-header>.about-font{color:#FF535B;font-family:'Open Sans',Arial;font-weight:bold;font-size:45px;margin-left:3px;line-height:2.0;}.a-header>div{color:#293a47;position:relative;font-family:'Open Sans',Arial;font-size:16px;}.a-header>div>a{text-decoration:none;color:#293a47;}.a-header>div>a:hover{color:#000;}.a-header>div>span.divider{height:10px;width:20px;display:inline-block;}.a-top-about{background:#eff1f5;height:260px;overflow:hidden;width:100%;z-index:1!important;}.a-top-about .img-top-left{background:url('/img/about/top-left.png');width:242px;height:187px;float:left;margin-top:40px;margin-left:-20px;}.a-top-about .img-top-right{background:url('/img/about/top-right.png');width:261px;height:190px;float:right;margin-top:-50px;}.a-about_photo{margin-top:50px;width:100%;text-align:center;}.a-about_content{width:100%;font-size:14px;}.a-about_content>.content{width:650px;padding:30px 0 150px 0;text-align:left;}.a-about_content>.content>p{font-size:14px;}.a-about_content>.content>p>.studio-font{font-size:20px;}.a-about_content label{font-weight:bold;}.a-about_content dd{margin:5px 0 20px 0;}.a-about_content textarea{width:100%;height:200px;padding:10px;margin-top:5px;}.a-about_content input[type=text]{padding:7px;margin-top:5px;}html{background:#0F161B;}.space10{margin:10px;}</style>
+</head>
+<body>
+<style>.hat-icon{position:relative;width:48px;height:48px;top:-25px;left:10px;}.logo .hat-icon{top:-14px;}.top-bar .badass-logo{padding:20px 30px 18px 35px;}ul.menu-top-bar .pro-tag-top div{height:23px;border-left:1px solid #ff665a;color:#ff665a;line-height:23px;font-size:18px;margin:26px 0 26px 0;padding-left:15px;}ul.menu-top-bar li.nav-item{position:relative;}ul.menu-top-bar li.nav-item a{font-size:13px;text-align:center;padding:24px 25px 21px 25px;}ul.menu-top-bar li.nav-item a .icon{font-size:26px;line-height:16px;display:block;padding-bottom:9px;}ul.menu-top-bar li.nav-item a .ss-planet{font-size:40px;}ul.menu-top-bar li.nav-item.active .underline{border-bottom:2px solid #498eca;padding-bottom:2px;box-shadow:0 1px 0px #77A7CE;}ul.menu-top-bar li .active-bar{background:#498eca;height:3px;position:absolute;}</style>
+<div class="top-bar top-bar-dark">
+<div class="top-bar-inner">
+<a href="https://www.cgstud.io/" class="badass-logo left suprascriere-alb">
+ 
+<span class="cg-font">CG</span>
+<span class="studio-font">Studio</span>
+</a>
+<ul class="menu-top-bar">
+<li><a href="https://www.cgstud.io/3d-models/" class="suprascriere-alb">3D Models</a></li>
+<li><a href="https://www.cgstud.io/textures/" class="suprascriere-alb">Textures</a></li>
+<li><a href="https://www.cgstud.io/hdris/" class="suprascriere-alb">HDRI</a></li>
+ 
+<li class="right"><div class="signup-button suprascriere-alb"><a href="#">Create Free Account</a></div></li>
+<li class="right"><div class="login-button suprascriere-alb">Login</div>
+</li>
+</ul>
+<div class="clearfix"></div>
+</div>
+ 
+<div class="absolute outside_login_cont" id="login-container">
+<div class="top_triangle_back"><div class="top_triangle"></div></div>
+<div class="relative">
+<div class="top">
+</div>
+<form method="post" id="signin" action="">
+<p>
+</p><div id="you-have-to-login" class="alert" style="display:none">
+<strong>Please Login!</strong><br>In order to proceed you need to be logged in.
+</div>
+<p></p>
+<p>
+<label for="username"> Username or Email</label>
+<input id="username" name="un" tabindex="1" required="" title="username" type="text">
+</p>
+<p>
+<label for="password"> Password</label>
+<input id="password" name="pwd" tabindex="2" required="" title="password" type="password">
+</p>
+<p class="remember">
+<input value="Login" tabindex="3" class="btn p5 m5" name="lsubmit" type="submit">
+<span class="remember">
+<input id="remember" name="lremember_me" value="1" tabindex="3" type="checkbox" checked="checked">
+<label for="remember"> &nbsp;Remember me</label>
+</span>
+</p><div class="clearfix"></div>
+</form>
+<p class="forgot"> <a href="https://www.cgstud.io/login.php?ref=reset-password" rel="nofollow">Forgot Password?</a> </p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+            // signup inainte de a se adauga in cos
+            //// 
+            $(document).ready(function(){
+                // add to basket
+                $("#add-to-basket").click(function(e) {
+                    openSignupOverlay(e);
+                });
+                $(".bookmark-btn").click(function(e) {
+                    openSignupOverlay(e);
+                });
+                $("#create-acc-btn").click(function(e) {
+                    openSignupOverlay(e);
+                });
+                $(".cgpn-ref").click(function(e) {
+                    $(this).fadeOut(200);
+                });
+            });
+        </script>
+ 
+<div class="dim" id="signup-overlay">
+<div class="signup-container">
+<div class="signup-promo">
+<div class="title">Open an account</div>
+<div class="subtitle">Manage your 3d models, textures and hdri.</div>
+<div class="subtitle">Buy and Sell to artists all over the world.</div>
+</div>
+<div class="signup-form">
+<div class="ss-delete" id="close-dim"></div>
+<form method="post" id="signup" action="">
+<p>
+<label for="su_email"> Email</label><br>
+<input id="su_email" name="Email" title="email" tabindex="1" type="text" placeholder="your email address" required="">
+</p>
+<p>
+<label for="su_username"> Username</label><br>
+<input id="su_username" name="Username" title="username" tabindex="2" type="text" placeholder="no spaces allowed" required="">
+</p>
+<p>
+<label for="su_password"> Password</label><br>
+<input id="su_password" name="Password" title="password" tabindex="3" type="password" placeholder="" required="">
+</p>
+<p class="agree">
+<input id="su_agree" name="Agree" value="1" tabindex="8" type="checkbox" checked="checked" required="">
+<label for="Agree"> &nbsp;I agree with the <a href="/terms-conditions" target="_blank" rel="nofollow">terms of service</a>.</label>
+</p>
+<p>
+<input value="Sign Up →" tabindex="4" class="btn" name="su_submit" type="submit">
+</p>
+</form>
+<div class="clearfix"></div>
+</div>
+<div class="or-login">
+Do you already have an account?
+<button class="right btn-line blue" id="su-option-login">Login</button>
+</div>
+<div class="accepted-accounts">
+ 
+<img src="/img/cgpn_logo_38.png" width="60">
+<img style="padding-left:20px" src="/img/logo-3d02.jpg" width="120">
+</div>
+</div>
+</div>
+<script>
+</script>
+<div class="absolute a-header-search-block">
+<div class="a-header">
+<span class="about-font">Privacy Policy</span>
+<div>
+<a href="/about">About us</a><span class="divider"></span>
+<a href="/contact">Contact</a><span class="divider"></span>
+<a href="/faq">FAQ</a><span class="divider"></span>
+<a href="/privacy-policy">Privacy Policy</a><span class="divider"></span>
+<a href="/terms-conditions">Terms &amp; Conditions</a>
+</div>
+</div>
+</div>
+<style></style>
+<div class="a-top-about">
+<div class="img-top-left"></div>
+<div class="img-top-right"></div>
+</div>
+<div class="a-about_content" align="center">
+<div class="content">
+<div>
+<p>We ask you for certain personal information (“Personal Data”) as part of the application process. The type of information we require is the minimum necessary for CGStudio to provide our visitors and members through the CGStudio website (the “Site”). Before you create an account with CGStudio, we ask that you read and accept this Privacy Policy. This Privacy Policy applies to the CGStudio Site, CGStudio’s processes, and communications to third parties. </p>
+<p>CGStudio values and respects your privacy, therefore, it is our policy and practice to keep your Personal Data strictly confidential at all times particularly as regards the collection, use, retention, transfer, disclosure, security, and access of Personal Data. By consenting to this Privacy Policy, you expressly and unconditionally agree to our use of and disclosure of your personal information in the manner described within it.</p>
+<p>We provide that only your visits to CGStudio will be recorded; we will not keep records of information that personally identifies you or anything about you. A component of our Privacy Policy dictates that if any Cookies* are used in any part of the Site, they will not be programmed for collecting your personal information.</p>
+<p>We use SSL and encryption practices designed to protect your privacy; however, we cannot and do not guarantee, and you should not expect, that your personal information or private communications will always remain private. Although we take every precaution to protect the confidentiality and security of your personal information, no method of transmission over the Internet and no method of electronic storage are completely secure. Therefore, while we make every effort to protect your personal information, we cannot guarantee its absolute security.
+</p>
+<p>There may be instances in which you will be asked to provide us with your personal information including, but not limited to, your name, address, telephone or fax number, email address, credit card information, age, gender, education level, occupation, or other specific information. If you choose not to provide such information, you may not be able to gain access to specific parts of the Site; or we may not be able to process certain requests or applications on your behalf. Depending on the reason for your visit to our Site, failure to produce certain personal information may prevent you from using our Site to your best advantage.</p>
+<p>CGStudio often hosts service providers or online stores operated by third-party merchants. Once we transfer any of your personal information to such service providers or online stores in the facilitation of your order(s) for services or products, your personal information is out of our control, and therefore outside the scope of our protection, as provided in this Privacy Policy. </p>
+<p>When you provide CGStudio with your personal information, you are allowing us to use that information for the following purposes, in addition to any other purposes as required by law and/or agreed to between you and CGStudio:</p>
+<p class="text_tab1">
+</p><ol>
+<li>Service Provisioning</li>
+<li>Marketing of the services and/or products by CGStudio, its agents or subsidiaries <br></li>
+<li>Review and verification of your credit, payment, or customer status as it relates to service provisioning <br></li>
+<li>Processing of any payment directions, and/or debit/credit card information at your request <br></li>
+<li>Enabling and maintaining your daily account operation and/or the collection of any outstanding balance(s) of your account as it relates to the Service Provisioning</li>
+<li>Processing of any benefits that have resulted from or that are connected to Service Provisioning </li>
+</ol>
+<p></p>
+<p>In addition to the above-mentioned purposes, you must accept the disclosure and transfer of your personal information by CGStudio to any third party service providers, banks, financial institutions, credit providers, credit reference agencies, collection agencies, and security agencies; in addition to CGStudio agents, contractors, professional advisers, and any other persons under a duty of confidentiality to CGStudio and any of our actual or proposed assignees or transferees of our rights of processing, using, disclosing, retaining, holding, or transferring such Personal Data. </p>
+<p>CGStudio reserves the right to amend this Privacy Policy from time-to-time. If you have any questions about this Privacy Policy, please contact CGStudio.</p>
+<p class="grey">* You may choose not to accept Cookies by resetting the relevant options of your Internet browser. However, please note that you may not then be able to enable or optimize the use of specific functions made available through the CGStudio Site.</p>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<footer>
+<div>
+<div class="footer-top">
+<div class="slice">
+<div class="logo">
+ 
+<span class="cg-font">CG</span>
+<span class="studio-font">Studio</span>
+<span class="beta">beta</span>
+</div>
+<p>We are the stock
+3D models, textures, hdri, scripts &amp;
+plugins marketplace. www.cgstud.io </p>
+<img src="/img/cgpn_logo_38.png" width="60">
+<img style="padding-left:20px" src="/img/logo-3d02.jpg" width="120">
+</div>
+<div class="slice">
+<div class="middle-links">
+<ul>
+<li class="title navigate">Navigate</li>
+<li><a href="/sell">Sell with us</a></li>
+ 
+<li><a href="/3d-models/">3D Models</a></li>
+<li><a href="/textures/">Textures</a></li>
+<li><a href="/hdri/">HDRI</a></li>
+ 
+</ul>
+</div>
+</div>
+<div class="slice">
+<div class="middle-links">
+<ul>
+<li class="title search">Search</li>
+<li><a href="/3d-models/house">house <span class="dark">3d models</span></a></li>
+<li><a href="/3d-models/taxi">taxi <span class="dark">3d models</span></a></li>
+<li><a href="/3d-models/tree">tree <span class="dark">3d models</span></a></li>
+<li><a href="/3d-models/bed">bed <span class="dark">3d models</span></a></li>
+<li><a href="/3d-models/smartphone">smartphone <span class="dark">3d models</span></a></li>
+</ul>
+</div>
+</div>
+<div class="slice">
+<div class="middle-links">
+<span class="ss-megaphone"></span>
+<div class="talk">Talk to us</div>
+<b>hello@cgstud.io<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></b>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="footer-bottom">
+<span class="copy">Copyright © CGStud.io SC COMPUTER GRAPHICS STUDIO SRL. All rights reserved.</span>
+<ul>
+<li><a href="/about">About</a>/</li>
+<li><a href="/contact">Contact</a>/</li>
+<li><a href="/faq">FAQ</a>/</li>
+<li><a href="/privacy-policy">Privacy Policy</a>/</li>
+<li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
+</ul>
+<hr>
+<div class="we-heart-3d">We  
+<img src="/img/hearts.png">
+3D
+</div>
+</div>
+</div>
+</footer>
+<script>
+$(document).ready(function(){
+	
+	// login dropdown
+	$(".login-button").click(function() {
+		  $("#login-container").fadeIn(200);
+		  $("#username").focus();
+		   return false;
+	});
+	$(document).click(function (event) {           
+		$('#login-container').hide();
+	});
+	 $("#login-container").click(function(e) {
+		e.stopPropagation();
+	});
+	$("#signin").submit(function(e){
+		$(this).fadeOut(0);
+		$(this).before('<center><img src="/img/preloaders/Preloader_1.gif" class="p20"></center>');//ajax-loader-1.gif
+	});
+
+
+	// register overlay
+	$(".signup-button").click(function() {
+		$('#login-container').hide();
+		$("#signup-overlay").fadeIn(200);
+		$("#su_email").focus();
+		return false;
+	 });
+	$("#signup-overlay").click(function (event) {           
+		$('#signup-overlay').fadeOut(200);
+	});
+	$("#close-dim").click(function (event) {           
+		$('#signup-overlay').fadeOut(200);
+	});
+	 $(".signup-container").click(function(e) {
+		e.stopPropagation();
+	});
+	 // optiune login la inregistrare
+	$("#su-option-login").click(function (event) {           
+		$('#signup-overlay').fadeOut(200);
+		$("#login-container").fadeIn(200);
+		$("#username").focus();
+		return false;
+	});
+	
+	////// Dropdown s
+	
+	// messages, MAIL ICON
+	 $(".msg_notiff").click(function() {
+			/*$('#user-panel-container').hide();*/ $('#comm-notiff-container').hide(); $('#shopping-basket-container').hide(); /*$(".comm_notiff").removeClass("active");*/ // hide others
+		  $("#message-container").fadeIn(200);
+		  /*$(this).addClass("active");*/
+		   return false;
+	 });
+	 $(document).click(function (event) {  
+		//$(".msg_notiff").removeClass("active");        
+		$('#message-container').hide();
+	});
+	 $("#message-container").click(function(e) {
+		e.stopPropagation();
+	});
+	
+	// comments, EARTH ICON
+	 $(".comm_notiff").click(function() {
+		  /*$('#user-panel-container').hide();*/$('#message-container').hide(); $('#shopping-basket-container').hide();// hide others
+		  $("#comm-notiff-container").fadeIn(200);
+		   return false;
+	 });
+	 $(document).click(function (event) {         
+		$('#comm-notiff-container').hide();
+	});
+	 $("#comm-notiff-container").click(function(e) {
+		e.stopPropagation();
+	});
+	
+	
+	// shopping basket, BASKET ICON
+	 $(".basket_notiff").click(function() {
+		  /*$('#user-panel-container').hide();*/$('#message-container').hide(); $('#comm-notiff-container').hide(); // hide others
+		  $("#shopping-basket-container").fadeIn(200);
+		   return false;
+	 });
+	 $(document).click(function (event) {         
+		$('#shopping-basket-container').hide();
+	});
+	 $("#shopping-basket-container").click(function(e) {
+		e.stopPropagation();
+	});
+	
+
+	////// dropdown
+	// user panel
+	
+	 $(".logged_right").hover(function(event) {
+			$('#message-container').hide(); $('#comm-notiff-container').hide();  $('#shopping-basket-container').hide();// hide others
+			return false;
+	 });/*
+	 $("#user-panel-container").mouseleave(function (event) {       
+			$('#user-panel-container').hide();
+	});
+	$("#user-panel-container").hover(function(e) {
+		e.stopPropagation();
+	});*/
+});
+
+
+</script>
+<script>
+// Include the UserVoice JavaScript SDK (only needed once on a page)
+UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/vRfQ1m7ydIqfxK3IB696A.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
+
+//
+// UserVoice Javascript SDK developer documentation:
+// https://www.uservoice.com/o/javascript-sdk
+//
+
+// Set colors
+UserVoice.push(['set', {
+  accent_color: '#448dd6',
+  trigger_color: 'white',
+  trigger_background_color: 'rgba(46, 49, 51, 0.6)'
+}]);
+
+// Identify the user and pass traits
+// To enable, replace sample data with actual user traits and uncomment the line
+UserVoice.push(['identify', {
+  //email:      'john.doe@example.com', // User’s email address
+  //name:       'John Doe', // User’s real name
+  //created_at: 1364406966, // Unix timestamp for the date the user signed up
+  //id:         123, // Optional: Unique id of the user (if set, this should not change)
+  //type:       'Owner', // Optional: segment your users by type
+  //account: {
+  //  id:           123, // Optional: associate multiple users with a single account
+  //  name:         'Acme, Co.', // Account name
+  //  created_at:   1364406966, // Unix timestamp for the date the account was created
+  //  monthly_rate: 9.99, // Decimal; monthly rate of the account
+  //  ltv:          1495.00, // Decimal; lifetime value of the account
+  //  plan:         'Enhanced' // Plan name for the account
+  //}
+}]);
+
+// Add default trigger to the bottom-right corner of the window:
+UserVoice.push(['addTrigger', { mode: 'contact', trigger_position: 'bottom-right' }]);
+
+// Or, use your own custom trigger:
+//UserVoice.push(['addTrigger', '#id', { mode: 'contact' }]);
+
+// Autoprompt for Satisfaction and SmartVote (only displayed under certain conditions)
+UserVoice.push(['autoprompt', {}]);
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55715231-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script src="/webfonts/ss-glyphish-outlined.js"></script> <script>
+ 
+		/*
+		===============================
+		###		TOP BAR
+		###	  CHANGE BACKGROND
+		===============================
+		*/
+		//inaltimea in pixeli pentru care sa se schimbe top-bar-ul
+		heightChange = 120;
+		topBarClass = 'top-bar-dark';
+
+		$(window).on("scroll", function(){
+			setClassTopBar();
+		});
+		$(document).ready(function(){
+			setClassTopBar();
+		});
+		</script>
+
+ 
+</body></html>
