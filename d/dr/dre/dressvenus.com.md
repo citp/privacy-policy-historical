@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressvenus.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706125052id_/http%3A//www.dressve.com/help/Privacy-Policy-on-dressvecom-401.html%23detail1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressvenus.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316225403id_/http%3A//www.dressve.com/help/1privacy-policy-401.html%23detail1) for the most accurate reproduction.*
 
 # 1.Privacy Policy – Dressve.com
 
