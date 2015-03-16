@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actblue.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702085014id_/https%3A//secure.actblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actblue.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316131559id_/https%3A//secure.actblue.com/privacy) for the most accurate reproduction.*
 
 # ActBlue — privacy
 
@@ -10,7 +10,7 @@ This privacy policy describes how we use your personal information. As used in t
 
 We require your e-mail address when you donate so that we can e-mail you a receipt. 
 
-Also, you may choose to receive occasional e-mail updates as we develop ActBlue. You can instantly unsubscribe at any time by clicking[ here](http://salsa.wiredforchange.com/o/1245/unsubscribe.jsp). If you are having problems with this link, you can unsubscribe by e-mailing [info@actblue.com](mailto:info@actblue.com), but please allow a week for processing. 
+Also, you may choose to receive occasional e-mail updates as we develop ActBlue. You can instantly unsubscribe at any time by clicking [here](http://action.actblue.com/page/unsubscribe). If you are having problems with this link, you can unsubscribe by e-mailing [info@actblue.com](mailto:info@actblue.com), but please allow a week for processing. 
 
 ### Information Collected by ActBlue
 
