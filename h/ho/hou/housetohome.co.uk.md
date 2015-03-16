@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housetohome.co.uk privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218130237id_/http%3A//www.housetohome.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housetohome.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316174642id_/http%3A//www.housetohome.co.uk/privacy) for the most accurate reproduction.*
 
 # TimeIncUK.com Official Website|privacy policy
 
