@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basic-mathematics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625162503id_/http%3A//www.basic-mathematics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basic-mathematics.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316212647id_/http%3A//www.basic-mathematics.com/privacy-policy.html) for the most accurate reproduction.*
 
 # www.basic-mathematics.com's Privacy Policy
 
@@ -63,12 +63,6 @@ Your use of this site indicates acceptance of this privacy policy.
 
 * * *
 
-  
-                  [ ](http://www.sitesforteachers.com/cgi-bin/in.cgi?id=jeto01)         [](http://topsites.primarygames.com/)         [](http://www.sitesforparents.com/cgi-bin/in.cgi?id=jeto03)
-
-* * *
-
-  
 [](http://www.copyscape.com/)   
 
 
