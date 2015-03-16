@@ -1,26 +1,26 @@
-<!--The following is the downloaded HTML source of the adventure.com privacy policy that was archived on 2014-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221035555id_/http%3A//adventure.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adventure.com privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316065053id_/http%3A//adventure.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html><head><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580402700000/457613.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WS8D64"></script><script type="text/javascript" async="" src="https://filamentapp.s3.amazonaws.com/f216f3f32fa8d5b75428e2c398b198d4.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4GUlZTGwcAXFFUAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 
 <title>Privacy Policy /// Adventure.com</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimal-ui">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="p:domain_verify" content="31f259f0e85c329ba550b19bb818a444">
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-57x57.png?96f1cc">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-114x114.png?96f1cc">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-72x72.png?96f1cc">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-144x144.png?96f1cc">
-<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-60x60.png?96f1cc">
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-120x120.png?96f1cc">
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-76x76.png?96f1cc">
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-152x152.png?96f1cc">
-<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-196x196.png?96f1cc" sizes="196x196">
-<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-96x96.png?96f1cc" sizes="96x96">
-<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-32x32.png?96f1cc" sizes="32x32">
-<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-16x16.png?96f1cc" sizes="16x16">
-<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-128.png?96f1cc" sizes="128x128">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-128.png" sizes="128x128">
 <meta name="application-name" content="&nbsp;">
 <meta name="msapplication-TileColor" content="#FFFFFF">
 <meta name="msapplication-TileImage" content="/wp-content/themes/adventure/assets/images/favicon/mstile-144x144.png">
@@ -30,7 +30,7 @@
 <meta name="msapplication-square310x310logo" content="/wp-content/themes/adventure/assets/images/favicon/mstile-310x310.png">
       
 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://adventure.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -51,40 +51,51 @@
 <link rel="alternate" type="application/rss+xml" title="Adventure.com » Feed" href="http://adventure.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Adventure.com » Comments Feed" href="http://adventure.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Adventure.com » Privacy Policy Comments Feed" href="http://adventure.com/privacy-policy/feed/">
-<link rel="stylesheet" id="theme-my-login-css" href="http://adventure.com/wp-content/plugins/theme-my-login/theme-my-login.css?96f1cc" type="text/css" media="all">
-<link rel="stylesheet" id="adventure-marketplace-css" href="http://adventure.com/wp-content/plugins/adventure-marketplace/assets/css/adventure-marketplace.css?96f1cc" type="text/css" media="all">
-<link rel="stylesheet" id="theme-my-login-ajax-css" href="http://adventure.com/wp-content/plugins/theme-my-login/modules/ajax/css/ajax.css?96f1cc" type="text/css" media="all">
-<link rel="stylesheet" id="adventure-style-css" href="http://adventure.com/wp-content/themes/adventure/style.css?96f1cc" type="text/css" media="all">
-<link rel="stylesheet" id="author_recommended_posts-public-css" href="http://adventure.com/wp-content/plugins/author-recommended-posts/css/public.css?96f1cc" type="text/css" media="screen">
-<link rel="stylesheet" id="hubspot-css" href="http://adventure.com/wp-content/plugins/hubspot/css/hubspot.css?96f1cc" type="text/css" media="all">
-<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580402700000/457613.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WS8D64"></script><script type="text/javascript" async="" src="https://filamentapp.s3.amazonaws.com/f216f3f32fa8d5b75428e2c398b198d4.js"></script><script type="text/javascript" src="http://cc8391884d1e479e978f-345b9765ba4ea538bb9186cc33017011.r81.cf5.rackcdn.com/wp-includes/js/jquery/jquery.js?96f1cc?ver=1.11.1"></script>
-<script type="text/javascript" src="http://cc8391884d1e479e978f-345b9765ba4ea538bb9186cc33017011.r81.cf5.rackcdn.com/wp-includes/js/jquery/jquery-migrate.min.js?96f1cc?ver=1.2.1"></script>
+<link rel="stylesheet" id="theme-my-login-css" href="http://adventure.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8" type="text/css" media="all">
+<link rel="stylesheet" id="adventure-marketplace-css" href="http://adventure.com/wp-content/plugins/adventure-marketplace/assets/css/adventure-marketplace.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="redactor-css" href="http://adventure.com/wp-content/plugins/adventure-marketplace/assets/vendors/redactor/redactor.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="theme-my-login-ajax-css" href="http://adventure.com/wp-content/plugins/theme-my-login/modules/ajax/css/ajax.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://adventure.com/wp-content/themes/adventure/assets/vendors/font-awesome/css/font-awesome.min.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="owl-transitions-css" href="http://adventure.com/wp-content/themes/adventure/assets/vendors/owl-carousel/owl.transitions.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="owl-carousel-css" href="http://adventure.com/wp-content/themes/adventure/assets/vendors/owl-carousel/owl.carousel.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="adventure-style-css" href="http://adventure.com/wp-content/themes/adventure/style.css?ver=1.0.0.10" type="text/css" media="all">
+<link rel="stylesheet" id="author_recommended_posts-public-css" href="http://adventure.com/wp-content/plugins/author-recommended-posts/css/public.css?ver=1.0.3" type="text/css" media="screen">
+<link rel="stylesheet" id="hubspot-css" href="http://adventure.com/wp-content/plugins/hubspot/css/hubspot.css?ver=4.1.1" type="text/css" media="all">
+<script type="text/javascript" src="http://adventure.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<script type="text/javascript" src="http://adventure.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var trips_info = {"url":"http:\/\/adventure.com\/wp-admin\/admin-ajax.php","nonce":"facaf2453e"};
+var trips_info = {"url":"http:\/\/adventure.com\/wp-admin\/admin-ajax.php","nonce":"95f2573a39"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://adventure.com/wp-content/plugins/save-user-trips/js/save-trips-script.js?96f1cc"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/plugins/adventure-marketplace/assets/javascript/adventureMarketplace.dev.js?96f1cc"></script>
+<script type="text/javascript" src="http://adventure.com/wp-content/plugins/save-user-trips/js/save-trips-script.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://adventure.com/wp-content/plugins/adventure-marketplace/assets/javascript/adventureMarketplace.dev.js?ver=0.0.1"></script>
+<script type="text/javascript" src="http://adventure.com/wp-content/plugins/adventure-marketplace/assets/vendors/redactor/redactor.min.js?ver=10.0.6"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wpAjax = {"noPerm":"You do not have permission to do that.","broken":"An unidentified error has occurred."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://cc8391884d1e479e978f-345b9765ba4ea538bb9186cc33017011.r81.cf5.rackcdn.com/wp-includes/js/wp-ajax-response.min.js?96f1cc?ver=4.0.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/plugins/theme-my-login/modules/ajax/js/ajax.js?96f1cc"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/bs-modal.js?96f1cc"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/crazyegg.js?96f1cc"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/ga-universal.js?96f1cc"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/contently.js?96f1cc"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/modernizr.custom.js?96f1cc"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/view-details-exclusion-pixels.js?96f1cc"></script>
-<script type="text/javascript" src="http://cc8391884d1e479e978f-345b9765ba4ea538bb9186cc33017011.r81.cf5.rackcdn.com/wp-includes/js/masonry.min.js?96f1cc?ver=3.1.2"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/vendors/jquery.easing.1.3.js?96f1cc"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/scripts.dev.js?96f1cc"></script>
+<script type="text/javascript" src="http://adventure.com/wp-includes/js/wp-ajax-response.min.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://adventure.com/wp-content/plugins/theme-my-login/modules/ajax/js/ajax.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/crazyegg.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/ga-universal.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/modernizr.custom.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/view-details-exclusion-pixels.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/js/adventure-login.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://adventure.com/wp-includes/js/masonry.min.js?ver=3.1.2"></script>
+<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/vendors/jquery/jquery.easing.1.3.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/vendors/jwplayer/jwplayer.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/vendors/owl-carousel/owl.carousel.min.js?ver=4.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var local_data = {"ajax_url":"http:\/\/adventure.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/scripts.min.js?ver=1.0.0.10"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://adventure.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cc8391884d1e479e978f-345b9765ba4ea538bb9186cc33017011.r81.cf5.rackcdn.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.0.1">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://adventure.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.1.1">
 <link rel="shortlink" href="http://adventure.com/?p=964">
 <!-- Start Fluid Video Embeds Style Tag -->
 <style type="text/css">
@@ -148,15 +159,24 @@ var wpAjax = {"noPerm":"You do not have permission to do that.","broken":"An uni
   <meta property="filament:is-sticky" content="0">
   <meta property="filament:is-tag" content="0">
   <meta property="filament:is-tax" content="0">
+  <meta property="filament:is-preview" content="0">
   <meta property="filament:post-type" content="page">
   <meta property="filament:categories" content="">
   <meta property="filament:tags" content="">
+
+<script type="text/javascript">
+  window.Filament = window.Filament || {};
+  window.Filament.social_stats_urls = window.Filament.social_stats_urls || {};
+
+  window.Filament.social_stats_urls.stumbleupon = "http://adventure.com/wp-admin/admin-ajax.php?action=filament_stumbleupon_jsonp&amp;_wpnonce=7ceef3e75a&url=<%- url %>&callback=<%- callback %>";
+  window.Filament.social_stats_urls.googleplus = "http://adventure.com/wp-admin/admin-ajax.php?action=filament_googleplus_jsonp&amp;_wpnonce=624a05ced1&url=<%- url %>&callback=<%- callback %>";
+</script>
 <script type="text/javascript">(function() {
   var fl = document.createElement('script'); fl.type = 'text/javascript'; fl.async = true; fl.src = document.location.protocol + '//filamentapp.s3.amazonaws.com/f216f3f32fa8d5b75428e2c398b198d4.js';
   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fl, s);
-})();</script><script type="text/javascript" src="//use.typekit.net/fwp1ztn.js?96f1cc"></script>
+})();</script><script type="text/javascript" src="//use.typekit.net/fwp1ztn.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script><script async="" type="text/javascript" src="//adventurecom.disqus.com/count.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="page page-id-964 page-template-default group-blog page-single page-privacy-policy">
+<body class="page page-id-964 page-template-default page-single page-privacy-policy">
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WS8D64"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -180,12 +200,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 	</script>
 			<span class="sidecar-open fixed hidden"><span></span></span>
-	<div class="body-reveal">	<header class="white">
-		<span class="sidecar-open"><span></span></span>
-		<ul class="main-navigation">
-			<li><a href="http://adventure.com/trips/">Trips</a></li>
-			<li><a href="http://adventure.com/blog/">Stories</a></li>
-			<li class="main-nav-logo"><a href="http://adventure.com" class="logo"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="254.959px" height="120.747px" viewBox="139.406 122.526 254.959 120.747" enable-background="new 139.406 122.526 254.959 120.747" xml:space="preserve">
+	<div class="body-reveal">	<header>
+	<div class="nav-primary">
+		<div class="logo">
+			<a href="http://adventure.com" class="main-nav-logo"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="254.959px" height="120.747px" viewBox="139.406 122.526 254.959 120.747" enable-background="new 139.406 122.526 254.959 120.747" xml:space="preserve">
 <g>
 	<path d="M214.929,207.107c0.267-0.149,0.394-0.219,0.567-0.315c0.116,0.699,0.018,1.328-0.363,1.847
 		c0.075,0.374,0.138,0.685,0.2,0.997c0.053,0.27-0.446,0.402-0.182,0.729c0.02,0.025,0.021,0.102,0.003,0.115
@@ -641,19 +659,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<path d="M201.686,162.52c0-0.07-0.024-0.152,0.006-0.205c0.031-0.056,0.113-0.083,0.172-0.123
 		c-0.001,0.095,0.011,0.193-0.011,0.282c-0.006,0.022-0.125,0.015-0.192,0.022C201.66,162.495,201.686,162.52,201.686,162.52z"></path>
 </g>
-</svg></a></li>
-			<li><a href="http://adventure.com/epics/mission">Mission</a></li>
-			<li><a href="http://adventure.com/dashboard">My Adventures</a></li>
+</svg></a>
+		</div><!-- .logo -->
+		<div class="ajax-search">
+			<form method="post" action="">
+				<label><i class="fa fa-search"></i> <input type="text" name="ajax-search" placeholder="SEARCH"></label>
+				<input type="submit" value="Search">
+				<i class="fa fa-refresh fa-spin ajax-loading ajax-search-notification"></i>
+				<i class="fa fa-times no-results ajax-search-notification"></i>
+			</form>
+			<div class="ajax-results">
+				<ul class="ajax-results-list">
+					
+				</ul>
+			</div><!-- /.ajax-results -->
+		</div><!-- /.ajax-search -->
+	</div><!-- /.nav-primary -->
+	<div class="nav-secondary">
+		<ul class="main-navigation">
+			<li><a href="http://adventure.com/trips/">Adventures</a></li>
+			<li><a href="http://adventure.com/become-an-adventure-provider">List an Adventure</a></li>
+			<li><a href="http://adventure.com/blog/">Stories</a></li>
 		</ul><!-- /.main-navigation -->
-		
-		<div class="header-actions">
-			<!--# <a href="javascript:ga('send', 'event', 'adventure-finder', 'click', 'main-nav');void(0);" class="toggle-adventure-finder btn small black">Find An Adventure</a> -->
-			<a href="/build" class="btn small black">Request a Custom Trip</a>
-		</div><!-- /.header-actions -->
-		<div class="header-user-actions">
-			<a href="http://adventure.com/login?redirect_to=http://adventure.com/privacy-policy/" class="btn small black">Login</a>		</div><!-- /.header-user-actions -->
-	</header>
-<div class="block-content">
+		<div class="user-utility">
+		<div class="user-login"><a href="http://adventure.com/login?redirect_to=http://adventure.com/privacy-policy/" class="btn small blue">Login</a></div>		</div>
+	</div><!-- /.nav-secondary -->
+</header><div class="block-content">
 	<div class="headlines">
 		<h1>Privacy Policy</h1>
 			</div><!-- /.headlines -->
@@ -786,22 +817,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</div><!-- /.col -->
 				<div class="col-md-3 col-sm-6">
 					<ul class="footer-sub-nav">
-						<li><a href="javascript:ga('send', 'event', 'adventure-finder', 'click', 'footer');void(0);" class="toggle-adventure-finder">Find An Adventure</a></li>
-						<li><a href="http://adventure.com/build" class="build-a-trip-footer">Build Custom Trip</a></li>
+						<li><a href="http://adventure.com/become-an-adventure-provider">List Your Adventures</a></li>
+						<li><a href="http://info.adventure.com/concierge" class="build-a-trip-footer">Request Custom Trip</a></li>
 						<li><a href="http://adventure.com/dashboard">My Adventures</a></li>
 						<li><a href="http://adventure.com/submit-a-story">Submit A Story</a></li>
 						<li><a href="http://adventure.com/contact-us">Contact Us</a></li>
+						<li><a href="http://support.adventure.com/">Help &amp; Support</a></li>
 					</ul>
 				</div><!-- /.col -->
 				<div class="col-md-4 col-md-offset-1 col-sm-12 footer-form">
 					
                 <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_4"><form method="post" enctype="multipart/form-data" id="gform_4" action="/privacy-policy/">
-                        <div class="gform_body">
-                            <ul id="gform_fields_4" class="gform_fields top_label description_below"><li id="field_4_4" class="gfield      gfield_html gfield_html_formatted gfield_no_follows_desc"><strong>Get Updates</strong></li><li id="field_4_1" class="gfield    no-label           gfield_contains_required"><label class="gfield_label" for="input_4_1">First Name<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_1" id="input_4_1" type="text" value="" class="medium" tabindex="999"></div></li><li id="field_4_2" class="gfield    no-label"><label class="gfield_label" for="input_4_2">Last Name</label><div class="ginput_container"><input name="input_2" id="input_4_2" type="text" value="" class="medium" tabindex="1000"></div></li><li id="field_4_3" class="gfield    no-label           gfield_contains_required"><label class="gfield_label" for="input_4_3">Email<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_3" id="input_4_3" type="email" value="" class="medium" tabindex="1001"></div></li>
+                        <div class="gform_body"><ul id="gform_fields_4" class="gform_fields top_label form_sublabel_below description_below"><li id="field_4_4" class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below"><strong>Get Updates</strong></li><li id="field_4_1" class="gfield no-label gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_4_1">First Name<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_1" id="input_4_1" type="text" value="" class="medium" tabindex="999"></div></li><li id="field_4_2" class="gfield no-label field_sublabel_below field_description_below"><label class="gfield_label" for="input_4_2">Last Name</label><div class="ginput_container"><input name="input_2" id="input_4_2" type="text" value="" class="medium" tabindex="1000"></div></li><li id="field_4_3" class="gfield no-label gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_4_3">Email<span class="gfield_required">*</span></label><div class="ginput_container">
+                            <input name="input_3" id="input_4_3" type="email" value="" class="medium" tabindex="1001">
+                        </div></li>
                             </ul></div>
-        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_4" class="gform_button button" value="Subscribe" tabindex="1002" onclick="if(window[&quot;gf_submitting_4&quot;]){return false;}  if( !jQuery(&quot;#gform_4&quot;)[0].checkValidity || jQuery(&quot;#gform_4&quot;)[0].checkValidity()){window[&quot;gf_submitting_4&quot;]=true;} ">
+        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_4" class="gform_button button" value="Subscribe" tabindex="1002" onclick="if(window[&quot;gf_submitting_4&quot;]){return false;}  if( !jQuery(&quot;#gform_4&quot;)[0].checkValidity || jQuery(&quot;#gform_4&quot;)[0].checkValidity()){window[&quot;gf_submitting_4&quot;]=true;}  "> 
             <input type="hidden" class="gform_hidden" name="is_submit_4" value="1">
             <input type="hidden" class="gform_hidden" name="gform_submit" value="4">
+            
             <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
             <input type="hidden" class="gform_hidden" name="state_4" value="WyJbXSIsImVlNjhlYzAzZDJmNTFjYmNmZWQxYzJhOWVjMjA0OTlkIl0=">
             <input type="hidden" class="gform_hidden" name="gform_target_page_number_4" id="gform_target_page_number_4" value="0">
@@ -810,7 +844,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
         </div>
                         </form>
-                        </div><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [4, 1]) } ); </script>				
+                        </div><script type="text/javascript"> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 4) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [4, 1]) } ); </script>					<br>
+					<span class="white small">Need help planning an adventure? Call 1-855-698-5186</span>
 				</div><!-- /.col -->
 			</div><!-- /.row -->
 		</div><!-- /.footer-inner -->
@@ -889,7 +924,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </svg>
 </a>
 					</li>
-					
 				</ul>
 
 				<p>© 2014 adventure.com all rights reserved.</p>
@@ -910,13 +944,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </span>
 			<ul class="sidecar-main-nav">
 				<li><a href="http://adventure.com">Home</a></li>
-				<li><a href="http://adventure.com/trips/">Trips</a></li>
+				<li><a href="http://adventure.com/trips/">Adventures</a></li>
+				<li><a href="http://adventure.com/become-an-adventure-provider">List an Adventure</a></li>
 				<li><a href="http://adventure.com/blog/">Stories</a></li>
-				<li><a href="javascript:ga('send', 'event', 'adventure-finder', 'click', 'left-sidecar');void(0);" class="toggle-adventure-finder">Find An Adventure</a></li>
-				<li><a href="http://adventure.com/build" class="build-a-trip-sidecar">Build A Trip</a></li>
+				<li><a href="http://adventure.com/build" class="build-a-trip-sidecar">Custom Trips</a></li>
 				<li><a href="http://adventure.com/epics/mission">Mission</a></li>
-				<li><a href="http://adventure.com/login">Login</a></li>				<li><a href="http://adventure.com/dashboard">My Adventures</a></li>
 			</ul><!-- /.sidecar-main-nav -->
+			<div class="sidecar-user-utility">
+									<a href="http://adventure.com/login" class="btn small blue">Login</a>
+							</div><!-- /.sidecar-user-utility -->
 					</div><!-- /.sidecar-header -->
 			</div><!-- /.sidecar-inner -->
 	</div><!-- /.sidecar -->
@@ -955,203 +991,8 @@ _hsq.push(["setContentType", "standard-page"]);
 })(document, "script", "hs-analytics", 300000);
 </script>
 <!-- End of Async HubSpot Analytics Code -->
-	<div id="adventure_finder_modal" class="hidden">
-		<span class="close-finder"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="35px" height="35.001px" viewBox="0 0 35 35.001" enable-background="new 0 0 35 35.001" xml:space="preserve">
-<g>
-	<g>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="35,2.102 34,0 17.5,16.5 1,0 0,2.102 16.04,17.961 0,34 
-			1.727,35.001 17.5,19.405 33.273,35.001 35,34 18.96,17.961 		"></polygon>
-	</g>
-</g>
-</svg></span>
-		<div class="adventure-finder-inner">
-			<div class="center-inner">
-				<div class="center-cell">
-					<div class="adventure-finder-pane">
-						<ul class="toggle-finder-pane">
-							<li class="active"><span>Adventure Finder</span></li>
-							<li class="build-trip-link"><a href="http://adventure.com/build/"><span>Build A Trip</span></a></li>
-						</ul><!-- /.toggle-finder -->
-						<div class="left">
-							<h3>Some Suggestions for you</h3>
-							
-							<div class="adventure-finder-navigation">
-								<a href="javascript:void(0);" class="prev"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="7.015px" height="10.019px" viewBox="0 0 7.015 10.019" enable-background="new 0 0 7.015 10.019" xml:space="preserve">
-<path fill="#FFFFFF" d="M3.652,5.01l3.362-3.247L5.188,0L0,5.01l5.188,5.009l1.826-1.763L3.652,5.01z"></path>
-</svg></a>
-								<a href="javascript:void(0);" class="next"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="7.015px" height="10.019px" viewBox="0 0 7.015 10.019" enable-background="new 0 0 7.015 10.019" xml:space="preserve">
-<path fill="#FFFFFF" d="M3.652,5.01l3.362-3.247L5.188,0L0,5.01l5.188,5.009l1.826-1.763L3.652,5.01z"></path>
-</svg></a>
-							</div><!-- /.adventure-finder-navigation -->
-							<div class="persona_list"></div>
-							<div class="persona-cover"></div>
-						</div><!-- /.left -->
-						<div class="right">
-							<div class="meta_list">
-	<h3>Or Browse By</h3>
-		<ul class="meta-labels">
-	<li class="meta-region" data-meta="region"><span>Region</span></li>
-<li class="meta-country" data-meta="country"><span>Country</span></li>
-<li class="meta-trip-style" data-meta="trip-style"><span>Trip Style</span></li>
-<li class="meta-landscape" data-meta="landscape"><span>Landscape</span></li>
-<li class="meta-physical-rating" data-meta="physical-rating"><span>Physical Rating</span></li>
-<li class="meta-culture-shock" data-meta="culture-shock"><span>Culture Shock</span></li>
-<li class="meta-activities" data-meta="activities"><span>Activities</span></li>
-	</ul>
-	<div class="meta-options">
-		<ul class="meta-options-region" data-meta-option="region">
-<li><a href="http://adventure.com/trips/?region=Africa">Africa</a></li>
-<li><a href="http://adventure.com/trips/?region=Polar">Polar</a></li>
-<li><a href="http://adventure.com/trips/?region=Asia">Asia</a></li>
-<li><a href="http://adventure.com/trips/?region=Central+America">Central America</a></li>
-<li><a href="http://adventure.com/trips/?region=Europe">Europe</a></li>
-<li><a href="http://adventure.com/trips/?region=Middle+East">Middle East</a></li>
-<li><a href="http://adventure.com/trips/?region=North+America">North America</a></li>
-<li><a href="http://adventure.com/trips/?region=Oceania">Oceania</a></li>
-<li><a href="http://adventure.com/trips/?region=South+America">South America</a></li>
-</ul>
-<ul class="meta-options-country" data-meta-option="country">
-<li><a href="http://adventure.com/trips/?country"></a></li>
-<li><a href="http://adventure.com/trips/?country=Argentina">Argentina</a></li>
-<li><a href="http://adventure.com/trips/?country=Australia">Australia</a></li>
-<li><a href="http://adventure.com/trips/?country=Austria">Austria</a></li>
-<li><a href="http://adventure.com/trips/?country=Belize">Belize</a></li>
-<li><a href="http://adventure.com/trips/?country=Borneo">Borneo</a></li>
-<li><a href="http://adventure.com/trips/?country=Botswana">Botswana</a></li>
-<li><a href="http://adventure.com/trips/?country=Brazil">Brazil</a></li>
-<li><a href="http://adventure.com/trips/?country=Burma">Burma</a></li>
-<li><a href="http://adventure.com/trips/?country=Cambodia">Cambodia</a></li>
-<li><a href="http://adventure.com/trips/?country=Canada">Canada</a></li>
-<li><a href="http://adventure.com/trips/?country=China">China</a></li>
-<li><a href="http://adventure.com/trips/?country=Colombia">Colombia</a></li>
-<li><a href="http://adventure.com/trips/?country=Costa+Rica">Costa Rica</a></li>
-<li><a href="http://adventure.com/trips/?country=Czech+Republic">Czech Republic</a></li>
-<li><a href="http://adventure.com/trips/?country=Ecuador">Ecuador</a></li>
-<li><a href="http://adventure.com/trips/?country=Egypt">Egypt</a></li>
-<li><a href="http://adventure.com/trips/?country=Ethiopia">Ethiopia</a></li>
-<li><a href="http://adventure.com/trips/?country=Finland">Finland</a></li>
-<li><a href="http://adventure.com/trips/?country=France">France</a></li>
-<li><a href="http://adventure.com/trips/?country=Germany">Germany</a></li>
-<li><a href="http://adventure.com/trips/?country=Greece">Greece</a></li>
-<li><a href="http://adventure.com/trips/?country=Greenland">Greenland</a></li>
-<li><a href="http://adventure.com/trips/?country=Guatemala">Guatemala</a></li>
-<li><a href="http://adventure.com/trips/?country=Honduras">Honduras</a></li>
-<li><a href="http://adventure.com/trips/?country=Hungary">Hungary</a></li>
-<li><a href="http://adventure.com/trips/?country=Iceland">Iceland</a></li>
-<li><a href="http://adventure.com/trips/?country=India">India</a></li>
-<li><a href="http://adventure.com/trips/?country=Italy">Italy</a></li>
-<li><a href="http://adventure.com/trips/?country=Japan">Japan</a></li>
-<li><a href="http://adventure.com/trips/?country=Jordan">Jordan</a></li>
-<li><a href="http://adventure.com/trips/?country=Kenya">Kenya</a></li>
-<li><a href="http://adventure.com/trips/?country=Laos">Laos</a></li>
-<li><a href="http://adventure.com/trips/?country=Mexico">Mexico</a></li>
-<li><a href="http://adventure.com/trips/?country=Mongolia">Mongolia</a></li>
-<li><a href="http://adventure.com/trips/?country=Morocco">Morocco</a></li>
-<li><a href="http://adventure.com/trips/?country=Namibia">Namibia</a></li>
-<li><a href="http://adventure.com/trips/?country=Nepal">Nepal</a></li>
-<li><a href="http://adventure.com/trips/?country=New+Zealand">New Zealand</a></li>
-<li><a href="http://adventure.com/trips/?country=Nicaragua">Nicaragua</a></li>
-<li><a href="http://adventure.com/trips/?country=Norway">Norway</a></li>
-<li><a href="http://adventure.com/trips/?country=Panama">Panama</a></li>
-<li><a href="http://adventure.com/trips/?country=Papua+New+Guinea">Papua New Guinea</a></li>
-<li><a href="http://adventure.com/trips/?country=Peru">Peru</a></li>
-<li><a href="http://adventure.com/trips/?country=Russia">Russia</a></li>
-<li><a href="http://adventure.com/trips/?country=South+Africa">South Africa</a></li>
-<li><a href="http://adventure.com/trips/?country=Spain">Spain</a></li>
-<li><a href="http://adventure.com/trips/?country=Sri+Lanka">Sri Lanka</a></li>
-<li><a href="http://adventure.com/trips/?country=Sweden">Sweden</a></li>
-<li><a href="http://adventure.com/trips/?country=Tanzania">Tanzania</a></li>
-<li><a href="http://adventure.com/trips/?country=Thailand">Thailand</a></li>
-<li><a href="http://adventure.com/trips/?country=Turkey">Turkey</a></li>
-<li><a href="http://adventure.com/trips/?country=Uganda">Uganda</a></li>
-<li><a href="http://adventure.com/trips/?country=United+Kingdom">United Kingdom</a></li>
-<li><a href="http://adventure.com/trips/?country=USA">USA</a></li>
-<li><a href="http://adventure.com/trips/?country=Vietnam">Vietnam</a></li>
-</ul>
-<ul class="meta-options-trip-style" data-meta-option="trip-style">
-<li><a href="http://adventure.com/trips/?trip_style=Active">Active</a></li>
-<li><a href="http://adventure.com/trips/?trip_style=Budget">Budget</a></li>
-<li><a href="http://adventure.com/trips/?trip_style=Culture">Culture</a></li>
-<li><a href="http://adventure.com/trips/?trip_style=Explorer">Explorer</a></li>
-<li><a href="http://adventure.com/trips/?trip_style=Family">Family</a></li>
-<li><a href="http://adventure.com/trips/?trip_style=Food+%26+Wine">Food &amp; Wine</a></li>
-<li><a href="http://adventure.com/trips/?trip_style=History">History</a></li>
-<li><a href="http://adventure.com/trips/?trip_style=Luxury">Luxury</a></li>
-<li><a href="http://adventure.com/trips/?trip_style=Overland">Overland</a></li>
-<li><a href="http://adventure.com/trips/?trip_style=Sailing">Sailing</a></li>
-<li><a href="http://adventure.com/trips/?trip_style=Wildlife">Wildlife</a></li>
-</ul>
-<ul class="meta-options-landscape" data-meta-option="landscape">
-<li><a href="http://adventure.com/trips/?landscape=Beach">Beach</a></li>
-<li><a href="http://adventure.com/trips/?landscape=Desert">Desert</a></li>
-<li><a href="http://adventure.com/trips/?landscape=Iconic">Iconic</a></li>
-<li><a href="http://adventure.com/trips/?landscape=Jungle">Jungle</a></li>
-<li><a href="http://adventure.com/trips/?landscape=Mountain">Mountain</a></li>
-<li><a href="http://adventure.com/trips/?landscape=Rural">Rural</a></li>
-<li><a href="http://adventure.com/trips/?landscape=Snow+%26+Ice">Snow &amp; Ice</a></li>
-<li><a href="http://adventure.com/trips/?landscape=Urban">Urban</a></li>
-<li><a href="http://adventure.com/trips/?landscape=Water">Water</a></li>
-</ul>
-<ul class="meta-options-physical-rating" data-meta-option="physical-rating">
-<li><a href="http://adventure.com/trips/?physical_rating=1">Easy &amp; Relaxing</a></li>
-<li><a href="http://adventure.com/trips/?physical_rating=2">Get moving</a></li>
-<li><a href="http://adventure.com/trips/?physical_rating=3">Be bold</a></li>
-<li><a href="http://adventure.com/trips/?physical_rating=4">Hard-core adventures</a></li>
-<li><a href="http://adventure.com/trips/?physical_rating=5">Push your limits</a></li>
-</ul>
-<ul class="meta-options-culture-shock" data-meta-option="culture-shock">
-<li><a href="http://adventure.com/trips/?culture_shock=1">Home away from home</a></li>
-<li><a href="http://adventure.com/trips/?culture_shock=2">A little flavor</a></li>
-<li><a href="http://adventure.com/trips/?culture_shock=3">Authentic culture</a></li>
-<li><a href="http://adventure.com/trips/?culture_shock=4">Sensory overload</a></li>
-<li><a href="http://adventure.com/trips/?culture_shock=5">Completely immersed</a></li>
-</ul>
-<ul class="meta-options-activities" data-meta-option="activities">
-<li><a href="http://adventure.com/trips/?activities=Backpacking">Backpacking</a></li>
-<li><a href="http://adventure.com/trips/?activities=Caving">Caving</a></li>
-<li><a href="http://adventure.com/trips/?activities=Canoeing">Canoeing</a></li>
-<li><a href="http://adventure.com/trips/?activities=Climbing">Climbing</a></li>
-<li><a href="http://adventure.com/trips/?activities=Cooking+Class">Cooking Class</a></li>
-<li><a href="http://adventure.com/trips/?activities=Culinary+Exploration">Culinary Exploration</a></li>
-<li><a href="http://adventure.com/trips/?activities=Cycling">Cycling</a></li>
-<li><a href="http://adventure.com/trips/?activities=Fishing">Fishing</a></li>
-<li><a href="http://adventure.com/trips/?activities=Fly+Fishing">Fly Fishing</a></li>
-<li><a href="http://adventure.com/trips/?activities=Guided+Hike">Guided Hike</a></li>
-<li><a href="http://adventure.com/trips/?activities=Kayaking">Kayaking</a></li>
-<li><a href="http://adventure.com/trips/?activities=Mountain+Biking">Mountain Biking</a></li>
-<li><a href="http://adventure.com/trips/?activities=Mountaineering">Mountaineering</a></li>
-<li><a href="http://adventure.com/trips/?activities=Photography">Photography</a></li>
-<li><a href="http://adventure.com/trips/?activities=Skiing">Skiing</a></li>
-<li><a href="http://adventure.com/trips/?activities=Snorkeling">Snorkeling</a></li>
-<li><a href="http://adventure.com/trips/?activities=Snowboarding">Snowboarding</a></li>
-<li><a href="http://adventure.com/trips/?activities=Surfing">Surfing</a></li>
-<li><a href="http://adventure.com/trips/?activities=Trekking">Trekking</a></li>
-<li><a href="http://adventure.com/trips/?activities=Whitewater+Rafting">Whitewater Rafting</a></li>
-<li><a href="http://adventure.com/trips/?activities=Wildlife">Wildlife</a></li>
-<li><a href="http://adventure.com/trips/?activities=Wine">Wine</a></li>
-</ul>
-	</div><!-- /.meta-options -->
-</div><!-- /.meta-list -->						</div><!-- /.right -->
-					</div><!-- /.adventure-finder-pane -->
-				</div><!-- /.center-cell -->
-			</div><!-- /.center-inner -->
-		</div><!-- /.adventure-finder-inner -->
-		<div class="build-a-trip-pane">
-			<ul class="toggle-finder-pane">
-				<li><span>Adventure Finder</span></li>
-				<li class="build-trip-link"><a href="http://adventure.com/build/"><span>Build A Trip</span></a></li>
-			</ul><!-- /.toggle-finder -->
-			
-		</div><!-- /.build-a-trip-pane -->
-	</div><!-- /#adventure_finder_modal -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var Adventure_Finder = {"ajaxurl":"http:\/\/adventure.com\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/js/adventure-finder.js?96f1cc"></script>
-<script type="text/javascript" src="http://cc8391884d1e479e978f-345b9765ba4ea538bb9186cc33017011.r81.cf5.rackcdn.com/wp-includes/js/comment-reply.min.js?96f1cc?ver=4.0.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/plugins/bj-lazy-load/js/combined.min.js?96f1cc"></script>
+<script type="text/javascript" src="http://adventure.com/wp-includes/js/comment-reply.min.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://adventure.com/wp-content/plugins/bj-lazy-load/js/combined.min.js?ver=0.7.5"></script>
 <!-- Facebook -->
 <script>(function() {
   var _fbq = window._fbq || (window._fbq = []);
@@ -1171,7 +1012,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1477312562507292&amp;ev=NoScript" /></noscript>
 
 <!-- Twitter -->
-<script src="//platform.twitter.com/oct.js?96f1cc" type="text/javascript"></script>
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
 <script type="text/javascript">
 twttr.conversion.trackPid('l4oub');
 </script>
@@ -1220,29 +1061,5 @@ if(oldonload){oldonload()}};
 		  document.body.appendChild(s);
 		})();
 	</script><script type="text/javascript" src="//s3.amazonaws.com/assets.contently.com/insights/insights.js"></script>
-				<div class="bs-modal fade" id="homepage-video-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-			  <div class="modal-dialog" data-video-url="//www.youtube.com/embed/lYyVCyRQXho">
-		      <div class="modal-header">
-		        <button type="button" class="close" data-dismiss="modal">
-			        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="15px" viewBox="0 0 24.042 24.042" enable-background="new 0 0 24.042 24.042" xml:space="preserve">
-								<g>
-									<g>
-										<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="24.042,21.213 14.849,12.021 24.042,2.828 21.213,0 
-											12.021,9.192 2.829,0 0,2.828 9.192,12.021 0,21.213 2.829,24.042 12.021,14.85 21.213,24.042 		"></polygon>
-									</g>
-								</g>
-							</svg>
-						</button>
-		      </div>
-			    <iframe src="" frameborder="0" allowfullscreen=""></iframe>			  </div>
-			</div>
-			
-
-<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
-
-Page Caching using disk: enhanced
-Database Caching 5/75 queries in 0.062 seconds using disk
-Object Caching 1567/1702 objects using disk
-Content Delivery Network via Rackspace Cloud Files: cc8391884d1e479e978f-345b9765ba4ea538bb9186cc33017011.r81.cf5.rackcdn.com
-
- Served from: adventure.com @ 2014-12-20 22:55:56 by W3 Total Cache --></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4cce7a9422","applicationID":"4080652","transactionName":"bwBUMBQCWRACVkJYWFZKdwcSClgNTEVXVlI=","queueTime":0,"applicationTime":1812,"atts":"Q0dXRlwYSh4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
