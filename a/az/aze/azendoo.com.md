@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azendoo.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009224203id_/https%3A//www.azendoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azendoo.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316183004id_/https%3A//www.azendoo.com/privacy) for the most accurate reproduction.*
 
 # Azendoo - Task Management Application
 
