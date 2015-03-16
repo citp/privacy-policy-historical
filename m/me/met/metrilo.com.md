@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the metrilo.com privacy policy that was archived on 2014-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140918192012id_/https%3A//www.metrilo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrilo.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316200951id_/https%3A//www.metrilo.com/privacy-policy) for the most accurate reproduction.*
 
-# Metrilo
+# Privacy Policy - eCommerce Analytics by Metrilo
 
-By using our services, you agree to the following Privacy Policy
-
-**Last updated: June 09, 2014**
+**Last updated: October 17, 2014**
 
 Metrilo LTD ("us", "we", or "our") operates the https://www.metrilo.com website (the "Service").
 
@@ -16,13 +14,17 @@ We use your Personal Information for providing and improving the Service. By usi
 
 **Information Collection And Use**
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name ("Personal Information").
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name ("Personal Information"). We might use this information for marketing reasons. You can always unsubscribe from our marketing efforts in one-click.
 
 **Log Data**
 
 We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
 In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
+
+**Removal Requests**
+
+We respect your privacy concerns. If you would like us to remove all your data from our database, you can make a request at support@metrilo.com. We'll fulfill your request within 24 hours of your email being sent.
 
 **Cookies**
 
