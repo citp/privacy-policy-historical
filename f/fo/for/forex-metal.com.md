@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex-metal.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805162946id_/https%3A//forex-metal.com/home/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-metal.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316074146id_/https%3A//forex-metal.com/home/policy) for the most accurate reproduction.*
 
 # Forex Trading | CFD Trading | Trading on the Forex | Currency Trading | Forex News | Forex-Metal
 
