@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theribbonretreat.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108032819id_/http%3A//www.theribbonretreat.com/custom/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theribbonretreat.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316171819id_/https%3A//www.theribbonretreat.com/custom/privacy.aspx) for the most accurate reproduction.*
 
 # The Ribbon Retreat
 
