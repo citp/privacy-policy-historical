@@ -1,51 +1,6 @@
-> *The following text is extracted and transformed from the medmutual.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701141126id_/https%3A//www.medmutual.com/About-Medical-Mutual/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medmutual.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316173945id_/https%3A//www.medmutual.com/About-Medical-Mutual/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy & Confidentiality | Medical Mutual
-
-[](https://web.archive.org/ "Medical Mutual")
-
-Search the Site Enter a keyword
-
-  * [Individuals & Families](https://web.archive.org/For-Individuals-and-Families.aspx "Individuals & Families")
-  * [Healthcare Reform](https://web.archive.org/Healthcare-Reform.aspx "Healthcare Reform")
-  * [Employers](https://web.archive.org/For-Employers.aspx "Employers")
-  * [Brokers](https://web.archive.org/For-Brokers.aspx "Brokers")
-  * [Providers](https://web.archive.org/For-Providers.aspx "Providers")
-
-
-
-  * [Corporate Profile](https://web.archive.org/About-Medical-Mutual/Corporate-Profile.aspx "Corporate Profile")
-    * [Our Values](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Our-Values.aspx "Our Values")
-    * [Member Rights & Responsibilities](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Member-Rights-and-Responsibilities.aspx "Member Rights & Responsibilities")
-    * [Compliance Connection](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Compliance-Connection.aspx "Compliance Connection")
-    * [Accreditation & Awards](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Accreditation-Awards.aspx "Accreditation & Awards")
-    * [Quality Improvement Program](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Quality-Improvement-Program.aspx "Quality Improvement Program")
-    * [Leadership](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Leadership.aspx "Leadership")
-  * [Commitment to Community](https://web.archive.org/About-Medical-Mutual/Commitment-to-Community.aspx "Commitment to Community")
-  * [Community Events](https://web.archive.org/About-Medical-Mutual/Community-Events.aspx "Community Events")
-  * [Newsroom](https://web.archive.org/About-Medical-Mutual/Newsroom.aspx "Newsroom")
-  * [Careers](https://web.archive.org/About-Medical-Mutual/Careers.aspx "Careers")
-    * [Why Work at Medical Mutual?](https://web.archive.org/About-Medical-Mutual/Careers/Why-Work-at-Medical-Mutual.aspx "Why Work at Medical Mutual?")
-    * [Diversity](https://web.archive.org/About-Medical-Mutual/Careers/Diversity.aspx "Diversity")
-    * [College Graduate Development Program](https://web.archive.org/About-Medical-Mutual/Careers/College-Graduate-Development-Program.aspx "College Graduate Development Program")
-    * [College Internship Program](https://web.archive.org/About-Medical-Mutual/Careers/College-Internship-Program.aspx "College Internship Program")
-    * [Career FAQ](https://web.archive.org/About-Medical-Mutual/Careers/Career-FAQ.aspx "Career FAQ")
-  * [Contact Medical Mutual](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual.aspx "Contact Medical Mutual")
-    * [Customer Care](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual/Customer-Service.aspx "Customer Care")
-    * [Provider Support](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual/Provider-Support.aspx "Provider Support")
-    * [Individual Sales Information](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual/Individual-Sales-Information.aspx "Individual Sales Information")
-    * [Group Sales Information](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual/Group-Sales-Information.aspx "Group Sales Information")
-    * [Report Healthcare Fraud](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual/Report-Healthcare-Fraud.aspx "Report Healthcare Fraud")
-    * [Technical Support](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual/Technical-Support.aspx "Technical Support")
-
-
-
-  * [Home](https://web.archive.org/ "Home")
-  * [About Medical Mutual](https://web.archive.org/About-Medical-Mutual.aspx "About Medical Mutual")
-  * Privacy Policy 
-
-
-
 
 ### Effective Date: March 1, 2014
 
@@ -162,6 +117,6 @@ Medical Mutual of Ohio
 2060 East 9th Street  
 Cleveland, Ohio 44115-1355
 
-By Phone: 800.382.5729
+By Phone: [800.382.5729](https://web.archive.org/web/20150316173945id_/https%3A//www.medmutual.com/About-Medical-Mutual/%E2%80%9Dtel:)
 
 By Email: [MedicalMutualCustomerCare@MedMutual.com](mailto:MedicalMutualCustomerCare@MedMutual.com@MedMutual.com)
