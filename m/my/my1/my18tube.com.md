@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my18tube.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701202127id_/http%3A//www.my18tube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my18tube.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317003640id_/http%3A//www.my18tube.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Porn Videos - 18 Teen Tube
 
