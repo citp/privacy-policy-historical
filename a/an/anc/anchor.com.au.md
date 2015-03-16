@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anchor.com.au privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023234907id_/http%3A//www.anchor.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchor.com.au privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316182204id_/http%3A//www.anchor.com.au/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy - Anchor Managed Hosting
+# privacy policy - Anchor Cloud Hosting
 
 ### 1\. Our Commitment to Your Privacy
 
