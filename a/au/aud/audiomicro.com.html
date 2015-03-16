@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the audiomicro.com privacy policy that was archived on 2014-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702000910id_/http%3A//www.audiomicro.com/legal-doc/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the audiomicro.com privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316090335id_/http%3A//www.audiomicro.com/legal-doc/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta name="keywords" content="AudioMicro Privacy Policy">    
-        <meta name="description" content="The Privacy Policy on AudioMicro.com">
+        <meta name="keywords" content="AudioMicro Privacy Policy">        <meta name="description" content="The Privacy Policy on AudioMicro.com">
 
 	 <link rel="image_src" href="http://www.audiomicro.com/images/media-kit/AMsquarelogo4-copy.png">
      <meta property="og:image" content="http://www.audiomicro.com/images/media-kit/AMsquarelogo4-copy.png">     
@@ -16,7 +15,6 @@
 
 <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
 <meta name="msvalidate.01" content="12D7736279FA367001BBADB17BC7FFB7">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <style type="text/css">.btt{background:url("/images/locale/en-us/btt.png");height:43px;width:129px;position:absolute;right:-27px;margin:30px 0px 0px;}
 .btt-for-static-pages{background:url("/images/locale/en-us/btt.png") !important;height:43px;width: 129px;position:absolute;}
 .btt-for-static-pages-new{background:url("/images/locale/en-us/btt.png") no-repeat !important;height:43px;width:129px;float: right;}
@@ -25,14 +23,10 @@
 .trackBox-1 .trackBox-1-play a{font-size:11px;}
 </style>
 
-<!--[if lt IE 7]>
-<link rel="stylesheet" type="text/css" href="/js/highslide/highslide-ie6.css" />
-<![endif]-->
-
  	 	
-     <link rel="stylesheet" type="text/css" href="/css/all.css?44887">
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/ef3bc062ca8509f577402357616a0b10411a6771.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/js/all.js?44887"></script>
- 
+    <link rel="stylesheet" type="text/css" href="/css/all.css?20150315131311">
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/ef3bc062ca8509f577402357616a0b10411a6771.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" src="/js/all.js?20150315131311"></script>
+
 
 
          
@@ -64,10 +58,1367 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
 
 <body class="body-legal_documents-view"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div> 
 
-<div id="container">
-    <div id="overflow" style="display:none;width:100%;min-height:100%;position:absolute;z-index:99;" onclick="$$('.add-to-playlists').each(function(element){if(!element.hasClassName('tab-panel-wrapper')){element.hide();}}); this.hide();"></div>
 
-    
+
+    <div id="ajax-spinner" style="width: 100%;height: 100%; position: absolute; top: 213px;left: 0;z-index: 99; background-color: rgba(255, 255, 255, 0.6); display:none;">
+        <img src="/ajax-player/ajaxSpinner.gif" style="height: 50px;position: fixed;top: 45%;left: 49%;">
+    </div>
+
+<link rel="stylesheet" type="text/css" href="/ajax-player/plugin/css/style.css?1">
+<script type="text/javascript" src="/ajax-player/plugin/jquery-jplayer/jquery.jplayer.js"></script>
+<script type="text/javascript" src="/ajax-player/plugin/ttw-music-player.js"></script>
+
+<script>
+
+    $(document).ready(function(){
+
+			var isLogged = false;
+
+			//Change to true to inspect jPlayer calling Events && errors to print them as alert()
+			var debug = false;
+
+			var playerIsReady = false;
+			var flash_rollback = false;
+
+			var ajax_handler = null;
+
+			var track_main_block = null;
+			tracks_json = null;
+			var playlist = [];
+			var data_to_get = {};
+
+			var playing_index = -1;
+
+			var jPlayer_init = function(){
+
+				/*
+				  Init ttwMusicPlayer (based on jPlayer)
+				  TTW: http://www.codebasehero.com/2011/06/html-music-player/
+				  jPlayer: http://jplayer.org/latest/developer-guide/
+				  To use jPlayer Api you must call it near
+				  $('.jPlayer-container')
+				  Example:
+				  $('.jPlayer-container').jPlayer('play')
+				*/
+
+				var jPlayerOptions = {
+					swfPath:'/ajax-player/plugin/jquery-jplayer/',
+					preload: "none",
+					solution: 'html,flash',
+					wmode:'window',
+					errorAlerts: debug,
+					timeFormat: {
+					  padMin: true
+					}
+				};
+
+				//Browsers manual html5.canPlayMp3 detect: jplayer can't make fallback so we're doing it manually
+				if(canPlayMp3WithHtml5() === false){
+					jPlayerOptions.solution = "flash,html";
+				}
+
+				$('#container').ttwMusicPlayer( playlist, {
+				    autoplay:false,
+				    jPlayer:jPlayerOptions
+				});
+
+				afterPlayerCreated();
+			}
+
+
+			var isPlayerActive = function(){
+				if($('.ttw-music-player').css('display') == 'none')
+				  return false;
+				else
+				  return true;
+			}
+
+
+      //Detect HTML5 History is available
+      function historyApiAvailable() {
+        return !!(window.history && history.pushState);
+      }
+
+      //Checking browser for compatibility with mp3
+      //Some of FF 20~ versions can't play mp3 with html5 because there's problems with browser licensing
+      //Details: http://stackoverflow.com/questions/4923136/why-doesnt-firefox-support-mp3-file-format-in-audio
+
+        var canPlayMp3WithHtml5 = function(){
+				    var a = document.createElement('audio');
+	          return (!!(a.canPlayType && a.canPlayType('audio/mpeg;').replace(/no/, '')))
+		    }
+
+
+      var afterPlayerCreated = function(){
+      	//This mean that flash solution is used
+      	if(!$('.ttw-music-player').find('object').length>0)
+      	  $('.ttw-music-player').hide();
+
+      	return;
+      };
+
+
+        /*Global functions: calls in categories list && ajax_search*/
+	        getTracksListFromHtml = function(){
+	          //Reinit for ajax-reload
+	          data_to_get = {};
+	          //Getting Track`s ids
+	          if($('.trackBox-1').length>0){
+              //Categories Page
+	            $('.trackBox-1').each(function(i, element){
+	              var tr_id = $(element).find('.track-box-1-play a:first, .trackBox-1-play a:first').attr('track_id');
+	              data_to_get[i] = tr_id;
+	            });
+	          }else if($('a.sp_play_button').length>0){
+              //Track's `view` page
+	            data_to_get[0] = $('a.sp_play_button').attr('track_id');
+	          }else if($('.TrackLicensed-List .lsn li').length>0){
+              //`/bough-tracks` page
+              $('.TrackLicensed-List .lsn li').each(function(i, element){
+                var tr_id = $(element).find('.track-box-1-play a:first').attr('track_id');
+                data_to_get[i] = tr_id;
+              });
+            }else if($('.track-box-1').length>0){
+              //Free Tracks. Track `view` page
+              $('.track-box-1').each(function(i, element){
+                var tr_id = $(element).find('.track-box-1-play a:first').attr('track_id');
+                data_to_get[i] = tr_id;
+              });
+            }
+	        }
+
+	        reloadPlaylist = function(action, urlToFollow){
+	          //Get Track`s Data to build urls and frequency progress images after ajax reload
+	          ajax_handler = $.ajax({
+	            url: '/tracks/dialog_ajax_player/',
+	            data: data_to_get,
+	            type: 'post',
+	            async: true,
+	            cache:true,
+	            success: function(resp){
+
+	              tracks_json = JSON.parse(resp);
+
+                if(action!=undefined && action=="social"){
+                  reinitSocialButtons(urlToFollow);
+                }
+
+	              preloadWavesImages(data_to_get, tracks_json);
+	              playlist = [];
+
+
+	              if($('.trackBox-1-play a, .track-box-1-play a').length>0){
+	                //This means that we're on the categories page
+	                $('.trackBox-1-play a, .track-box-1-play a').each(function(i, el){
+
+	                  var id = $(el).attr('track_id');
+	                  var track_dom = $('.trackBox-1-play a[track_id='+id+'], .track-box-1-play a[track_id='+id+']');
+
+                    if(tracks_json[id]!=undefined){
+                      var track = tracks_json[id];
+                      playlist.push({
+                        title: '<a href="'+track.Track.page_url+'">'+track.Track.title+'</a>',
+                        artist: '<a href="/artist/'+track.User.login+'">'+track.User.login+'</a>',
+                        mp3:'/tracks/listen/'+track.Track.storage_id,
+                        oga:'/tracks/listen/'+track.Track.storage_id,
+                        track_id: id
+                      });
+                    }
+
+	                });
+	              }else if($('a.sp_play_button').length>0){
+	                //This means that we're on the track`s page
+	                var id = $('a.sp_play_button').attr('track_id');
+
+                  if(tracks_json[id]!=undefined){
+                    var track = tracks_json[id];
+
+                    playlist.push({
+                      title: '<a href="'+track.Track.page_url+'">'+track.Track.title+'</a>',
+                      artist: '<a href="/artist/'+track.User.login+'">'+track.User.login+'</a>',
+                      mp3:'/tracks/listen/'+track.Track.storage_id,
+                      oga:'/tracks/listen/'+track.Track.storage_id,
+                      track_id: id
+                    });
+                  }
+
+	              }
+
+	              rebuildPlaylist();
+
+                if(action!=undefined && action=="pageAutoload"){
+                  var loaded_with = $('.jPlayer-container').data('pageAutoload');
+                  switch(loaded_with){
+                    case 'prev':
+                      $('.ttw-music-player .jp-previous').click().click();
+                      playing_index=9;
+                      $('.jPlayer-container').jPlayer('play');
+                      break;
+                    case 'next':
+                      $('.jp-previous').click();
+                      playing_index=0;
+                      //$('.jPlayer-container').jPlayer('setMedia', playlist[0]);
+                      $('.jPlayer-container').jPlayer('play');
+                      break;
+                  }
+                }
+
+	              $('.sp_play_button').show();
+	              $('.track-page-loader').hide();
+
+	              $('.show-popup-player').show();
+	              $('.ajax-track-loading').hide();
+
+                return true;
+	            },
+	            beforeSend:function(){
+
+	              $('.sp_play_button').hide();
+	              $('.show-popup-player').hide();
+
+	              $('.track-page-loader').show();
+	              $('.ajax-track-loading').show();
+
+	            },
+	            error: function(){
+	              return;
+	            }
+	          });
+	        }
+	      /*End global functions*/
+
+          var fillTrackInfo = function(tr_data){
+
+            var track_info = $('.ttw-music-player .track-info-content');
+
+            track_info.find('.genres').html(formatTrackData(tr_data['TracksAdditionalParam']['genres_str']));
+            track_info.find('.description').html(formatTrackData(tr_data['TracksAdditionalParam']['details']));
+            track_info.find('.format').html(formatTrackData(tr_data['Track']['format']));
+            track_info.find('.length').html(formatTrackData(tr_data['Track']['length']) + 's');
+            track_info.find('.bit_rate').html(formatTrackData(tr_data['TracksAudioParam']['bit_rate']));
+            track_info.find('.refresh_rate_khz').html(formatTrackData(tr_data['TracksAudioParam']['refresh_rate_khz']));
+            track_info.find('.bit_mode').html(formatTrackData(tr_data['TracksAudioParam']['bit_mode']));
+            track_info.find('.bpm').html(formatTrackData(tr_data['TracksAudioParam']['bpm']));
+            track_info.find('.music_loop').html((tr_data['TracksAudioParam']['music_loop']==true)?'Yes':'No');
+            track_info.find('.bits_per_sample').html(formatTrackData(tr_data['Track']['format']));
+
+            var price = tr_data['buying_price'];
+
+            if(price>0){
+              price = '$' + (price/100);
+              $('.add2cart-player').html('Add To Cart '+price);
+            }else{}
+
+            $('.audiolevel-track').css('background', 'url(/ajax-player/images_white.php?user_id=' + tr_data['Track']['user_id'] + '&storage_id=' + tr_data['Track']['storage_id'] + ')');
+            $('.audiolevel-track-loadded').css('background', 'url(/ajax-player/images_white.php?user_id=' + tr_data['Track']['user_id'] + '&storage_id=' + tr_data['Track']['storage_id'] + '&played=1)');
+
+            return;
+          }
+
+          var preloadWavesImages = function(data_to_get, json_data){
+
+            var preload_waves = '';
+            if($('.trackBox-1-play a, .track-box-1-play a').length>0){
+              $('.trackBox-1-play a, .track-box-1-play a').each(function(i, el){
+                var id = $(el).attr('track_id');
+                if(json_data[id]!=undefined)
+                  preload_waves += ' url(/ajax-player/images_white.php?user_id=' + json_data[id]['Track']['user_id'] + '&storage_id=' + json_data[id]['Track']['storage_id'] + ')';
+              });
+            }else if($('a.sp_play_button').length>0){
+              var id = $('a.sp_play_button').attr('track_id');
+              if(json_data[id]!=undefined)
+                preload_waves += ' url(/ajax-player/images_white.php?user_id=' + json_data[id]['Track']['user_id'] + '&storage_id=' + json_data[id]['Track']['storage_id'] + ')';
+            }
+            $('#preload').css('display', 'none').css('content', preload_waves);
+          }
+
+          var formatTrackData = function(data_str){
+            if(data_str==0 || data_str=='' || data_str==null || data_str==false)
+              return '-';
+            else
+              return data_str;
+          }
+
+          var playerDataInit = function(){
+            //Get Track`s Data to build urls and frequency progress images
+            ajax_handler = $.ajax({
+              url: '/tracks/dialog_ajax_player/',
+              data: data_to_get,
+              type: 'post',
+              async: true,
+              cache:true,
+              beforeSend: function(){
+                $('.sp_play_button').hide();
+                $('.show-popup-player').hide();
+                $('.track-page-loader').show();
+                $('.ajax-track-loading').show();
+              },
+              success: function(resp){
+
+                tracks_json = JSON.parse(resp);
+                preloadWavesImages(data_to_get, tracks_json);
+
+                if($('.trackBox-1-play a, .track-box-1-play a').length>0){
+                  //This means that we're on the categories page
+                  $('.trackBox-1-play a, .track-box-1-play a').each(function(i, el){
+
+                    var id = $(el).attr('track_id');
+                    var track_dom = $('.trackBox-1-play a[track_id='+id+'], .track-box-1-play a[track_id='+id+']');
+                    if(tracks_json[id]!=undefined){
+                      var track = tracks_json[id];
+                      playlist.push({
+                        title: '<a href="'+track.Track.page_url+'">'+track.Track.title+'</a>',
+                        artist: '<a href="/artist/'+track.User.login+'">'+track.User.login+'</a>',
+                        mp3:'/tracks/listen/'+track.Track.storage_id,
+                        oga:'/tracks/listen/'+track.Track.storage_id,
+                        track_id: id
+                      });
+                    }
+                  });
+                }else if($('a.sp_play_button').length>0){
+                  //This means that we're on the track`s page
+                  var id = $('a.sp_play_button').attr('track_id');
+                  if(tracks_json[id]!=undefined){
+                    var track = tracks_json[id];
+                    playlist.push({
+                      title: '<a href="'+track.Track.page_url+'">'+track.Track.title+'</a>',
+                      artist: '<a href="/artist/'+track.User.login+'">'+track.User.login+'</a>',
+                      mp3:'/tracks/listen/'+track.Track.storage_id,
+                      oga:'/tracks/listen/'+track.Track.storage_id,
+                      track_id: id
+                    });
+                  }
+                }
+                jPlayer_init();
+                $('.sp_play_button').show();
+                $('.show-popup-player').show();
+                $('.track-page-loader').hide();
+                $('.ajax-track-loading').hide();
+              },
+              error: function(){
+                return;
+              }
+            });
+          }
+
+          var rebuildPlaylist = function(){
+
+            $.fn.playerPlaylistRebuild(playlist);
+
+            //if(!$('.jPlayer-container').data('jPlayer').status.media.mp3){
+            $('.tracks .playing').removeClass('playing');
+            //}
+            playing_index = -5;
+            playerIsReady = true;
+          }
+
+
+
+          //Collect tracks ids on first page loading
+          getTracksListFromHtml();
+          //Get data for tracks to build playlist
+          if(!jQuery.isEmptyObject(data_to_get))
+            playerDataInit();
+
+
+
+          /*Player`s events handlers*/
+          $('.jPlayer-container').bind($.jPlayer.event.ready, function(event){
+            playerIsReady = true;
+          });
+
+          $('.jPlayer-container').bind($.jPlayer.event.loadstart, function(event) {
+            if(debug == true){console.log(event);}
+
+            var track_id = event.jPlayer.status.media.track_id;
+
+            $('.ttw-music-player').attr('current_track_id', track_id);
+
+            if($('.trackBox-1.playing').length>0){
+              $('.trackBox-1.playing').each(function(i, el){$(el).removeClass('playing');});
+            }
+            else if($('.TrackLicensed-List .lsn li.playing').length>0){
+              $('.TrackLicensed-List .lsn li.playing').each(function(i, el){$(el).removeClass('playing');});
+            }else if($('.track-box-1').length>0){
+              $('.track-box-1.playing').each(function(i, el){$(el).removeClass('playing');});
+            }
+
+            //Hide all prev loaders && show buttons
+            $('.ajax-track-loading').each(function(i, el){
+              $(el).hide();
+            });
+
+            var tr_id = event.jPlayer.status.media.track_id;
+
+            track_main_block = $('a[track_id='+tr_id+']').parents(':eq(1)');
+            track_main_block.addClass('playing');
+
+            track_block = $('a[track_id='+tr_id+']');
+            track_block.hide();
+
+            $(track_block).parent().find('.ajax-track-loading').show();
+
+            fillTrackInfo(tracks_json[tr_id]);
+
+            var subscribe_button = $('.purchase-ajax-buttons').find('.subscribe-button');
+            var download_preview_button = $('.ttw-music-player a#download-preview-in-player');
+            if(tracks_json[tr_id]['Track']['top_category_id']==2 && tracks_json[tr_id]['Track']['watermarked_preview']==1){
+            	subscribe_button.html('Subscribe $10');
+            	subscribe_button.attr('href','/subscribe-music');
+              download_preview_button.show().attr('href', '/tracks/download_preview/'+tracks_json[tr_id]['Track']['storage_id']);
+            }else{
+            	subscribe_button.html('Subscribe $1');
+            	subscribe_button.attr('href','/subscribe');
+              download_preview_button.hide();
+            }
+
+            $('.purchase-ajax-buttons a').each(function(i,el){$(el).hide()});
+            //Show corresponding buttons for track
+            if(tracks_json[tr_id]['Track']['assigned_as_free']==1){
+              $('.download-track-owner').show();
+            }else if(tracks_json[tr_id]['is_bought'] == true && isLogged!=false){
+              $('.download-track-owner').show();
+            }else if(tracks_json[tr_id]['in_cart']==false && isLogged!=false && tracks_json[tr_id]['is_bought']==false){
+              $('.subscribe-button').show();
+              $('.add2cart-player').show();
+            }else if(tracks_json[tr_id]['in_cart']==true && isLogged!=false && tracks_json[tr_id]['is_bought']!=true){
+              $('.subscribe-button').show();
+              $('.remove-from-cart-player').show();
+            }else if(tracks_json[tr_id]['in_cart']==true && isLogged==false){
+              $('.subscribe-button').show();
+              $('.remove-from-cart-player').show();
+            }else{
+              $('.subscribe-button').show();
+              $('.add2cart-player').show();
+            }
+          });
+
+          $('.jPlayer-container').bind($.jPlayer.event.loadeddata, function(event) {
+            if(debug == true){console.log(event);}
+            var track_id = event.jPlayer.status.media.track_id;
+            $('.ttw-music-player').attr('current_track_id', track_id);
+
+            track_main_block = $('a[track_id='+event.jPlayer.status.media.track_id+']').parents(':eq(1)');
+
+            track_block = $('a[track_id='+event.jPlayer.status.media.track_id+']');
+            track_block.parent().find('.ajax-track-loading').hide();
+            $(track_block).show();
+          });
+
+          $('.jPlayer-container').bind($.jPlayer.event.play, function(event) {
+            if(debug == true){console.log(event);}
+            if(event.jPlayer.flash.active == true){
+              $('.ajax-track-loading').each(function(i,el){
+                $(el).hide();
+              });
+              $('.show-popup-player').each(function(i,el){
+                $(el).show();
+              });
+              flash_rollback = true;
+            }
+
+            var track_id = event.jPlayer.status.media.track_id;
+
+            track_main_block = $('a[track_id='+track_id+']').parents(':eq(1)');
+            track_main_block.addClass('playing');
+
+            $('html, body').animate({
+                scrollTop: track_main_block.offset().top - ($(window).height()/2)
+            }, 200);
+
+            //$('.show-popup-player[track_id='+track_id+']').show();
+
+            $('.show-popup-player').each(function(i, el){
+              if($(el).attr('track_id') == track_id){
+                //$(el).show().addClass('ajax-pause').html('Pause');
+              }else{
+                $(el).show().removeClass('ajax-pause');//.html('Play');
+              }
+            });
+             //Clear track`s previous progress in body
+             $('.audiolevel-track-loadded').each(function(i,el){
+              if(track_id != $('.ttw-music-player').attr('current_track_id')){
+                $(el).css('width', 0);
+              }
+             });
+
+             $('.ttw-music-player').show();
+
+             //Update track id and played block
+             $('a[track_id='+track_id+']').parent().show();
+             //$('a[track_id='+track_id+']').parent().find('.ajax-track-loading').hide();
+             $('a[track_id='+track_id+']').addClass('ajax-pause')/*.html('Pause')*/;
+          });
+
+          $('.jPlayer-container').bind($.jPlayer.event.ended, function(event) {
+          	if(debug == true){console.log(event);}
+            $('.show-popup-player,.show-popup-player').each(function(i, el){
+              $(el).removeClass('ajax-pause');//.html('Play');
+            });
+            $(event.currentTarget).parent().find('.ajax-track-loading').hide();
+
+            $('.trackBox-1.playing,.TrackLicensed-List .lsn li.playing,.track-box-1.playing').removeClass('playing');
+
+          	//setTimeout(function(){
+          		$('.jPlayer-container').jPlayer("stop");
+              //ajax_handler.abort();
+
+              //Mock Error Here: these error guarantees that jPlayer would make nothing after track ends
+              throw '';
+
+              /*$(ev.currentTarget).parent().find('.ajax-track-loading').hide();
+              $(ev.currentTarget).parent().find('a').show();
+              $('.jPlayer-container').jPlayer("stop");*/
+          	//}, 10);
+
+          });
+
+          $('.jPlayer-container').bind($.jPlayer.event.timeupdate, function(event) {
+            if(debug == true){console.log(event);}
+
+            /*if(
+              track_main_block!=null &&
+              track_main_block.length>0 &&
+              track_main_block.find('a:first').attr('track_id') == $('.ttw-music-player').attr('current_track_id')
+              ){*/
+
+              //Set the same width from top player
+              $('.audiolevel-track-loadded').css(
+                'width',
+                event.jPlayer.status.currentPercentAbsolute + '%'
+              );
+
+            /*}*/
+          });
+
+          $('.jPlayer-container').bind($.jPlayer.event.pause, function(event) {
+            if(debug == true){console.log(event);}
+            $('.show-popup-player').each(function(i, el){$(el).removeClass('ajax-pause')});//.html('Play')});
+          });
+
+
+          $('.jPlayer-container').bind($.jPlayer.event.error, function(event) {
+            //Check if error associated with flash fallback. If yeah the reset playlist ($.jPlayer.event.ready don't fire in some browsers)
+            //if(event.jPlayer.error.type=='e_url_not_set'){
+              //Flash don't support wav files handler
+            //}
+            console.error(event);
+            $('.trackBox-1.playing,.track-box-1.playing').find('.show-popup-player').removeClass('ajax-pause').hide();
+            $('.trackBox-1.playing,.track-box-1.playing').removeClass('playing');
+
+            $('.ajax-track-loading').each(function(i, el){$(el).hide();})
+            $('.show-popup-player').each(function(i, el){$(el).show();});
+          });
+
+          $('.jPlayer-container').bind($.jPlayer.event.warning, function(event) {
+            console.warn(event);
+          });
+
+          /****End jPlayer events handlers****/
+
+
+          //Hover Green Button play in a track list
+          /*$("body").on('mouseenter', '.trackBox-1-play', function(ev){
+            if(playerIsReady==false) return;
+            $(this).data('timeout', setTimeout( function () {
+              var track_id = $(ev.currentTarget).find('.show-popup-player').attr('track_id');
+              if(!$(ev.currentTarget).find('.show-popup-player').hasClass('ajax-pause')){
+                $(ev.currentTarget).find('.show-popup-player').click();
+              }
+            }, 0));
+          });
+          $("body").on('mouseleave', '.trackBox-1-play', function(ev){
+              clearTimeout($(this).data('timeout'));
+          });*/
+
+
+          //Audiolevel hover at track's levels
+          /*$("body").on('mouseenter', '.audiolevel-track', function(ev){
+            if(playerIsReady==false) return;
+            $(this).data('timeout', setTimeout( function () {
+              var track_id = $('.ttw-music-player').attr('current_track_id');
+              if(!$('.show-popup-player[track_id='+track_id+']').hasClass('ajax-pause')){
+                $('.show-popup-player[track_id='+track_id+']').click();
+              }
+            }, 0));
+          });
+          $("body").on('mouseleave', '.audiolevel-track', function(ev){
+              clearTimeout($(this).data('timeout'));
+          });*/
+
+
+          //Track inner rewind
+          $('.audiolevel-track').click(function(ev){
+            if(playerIsReady==false) return;
+
+            var offset_left = null;
+
+            //Default offset field
+            if(ev.originalEvent.offsetX != undefined)
+              offset_left = ev.originalEvent.offsetX;
+            //Mozilla offset field
+            else if(ev.originalEvent.layerX != undefined)
+              offset_left = ev.originalEvent.layerX;
+            else
+              offset_left = ev.offsetX;
+
+            var total_length = $('.audiolevel-track').first().width();
+
+            var rewind_track_1_perc = total_length/100;
+            var rewind_track_percents = offset_left/rewind_track_1_perc;
+            rewind_track_percents = Math.floor(rewind_track_percents);
+
+            $('.jPlayer-container').jPlayer( "playHead", rewind_track_percents);
+          });
+
+          //Spinner click event while track is loading
+          /*$('.trackBox-1-play>.ajax-track-loading,.sp_play_button>.track-page-loader').click(function(ev){
+            ajax_handler.abort();
+            $(ev.currentTarget).prev().removeClass('ajax-pause');//.html('Play');
+            //$(ev.currentTarget).hide();
+            //$(ev.currentTarget).prev().show();
+            $('.jPlayer-container').jPlayer('stop');
+          });*/
+
+
+
+          //`Play-Pause` button in a body
+          $('body').delegate('.show-popup-player,.sp_play_button', 'click', function(ev){
+
+            if(playerIsReady==false) return;
+
+            //Reset all track's progresses in body
+            var playLink = this;
+
+            //Cancel all prev uncomplete requests
+            if(ajax_handler !== null)
+              ajax_handler.abort();
+
+            if($(playLink).hasClass('ajax-pause')){
+
+              $('.jPlayer-container').jPlayer('pause');
+
+              //$(playLink).html('Play');
+              $(playLink).removeClass('ajax-pause');
+
+            }else{
+
+              $('.show-popup-player').each(function(i, el){$(el).show()});
+
+              //$(playLink).hide();
+              //$(playLink).next().show();
+
+              $('.ttw-music-player').show();
+
+              //Check is already playing current track
+              if($(playLink).attr('track_id') == $('.ttw-music-player').attr('current_track_id')){
+
+                $('.jPlayer-container').jPlayer('play');
+                $(playLink).addClass('ajax-pause');//.html('Pause');
+
+              }else{
+
+                $('.audiolevel-track-loadded').each(function(i,el){
+                  $(el).css('width', 0);
+                });
+
+                $('.jPlayer-container').jPlayer('pause');
+
+                var clicked_track_id = $(playLink).attr('track_id');
+                $('.ttw-music-player').attr('current_track_id', clicked_track_id);
+
+                var clicked_index = null;
+
+                $(playlist).each(function(i, el){
+                  if (el.track_id == clicked_track_id) {
+                    clicked_index = i;
+                    return;
+                  }
+                });
+
+                var diff = null;
+
+
+                //This means that previously played track are missing after ajax reload
+                if(playing_index==-5){
+                  playing_index = $('.tracks .playing').index();
+                  $('.ttw-music-player .jp-previous').click();
+                  diff = clicked_index;// - 1;
+                }else{
+                  playing_index = $('.tracks .playing').index();
+
+                  //This means there's no active playing track yet. Using for first non-ajax loading
+                  if(playing_index<0){
+                    playing_index=0;
+                  }
+                  diff = clicked_index-playing_index;
+                }
+
+                if(diff>0){ //We click one of the next songs
+                  for(var i=0;i<diff;i++) $('.ttw-music-player .jp-next').click();
+                }else if(diff<0){ //We click one of the prev songs
+                  for(var i=diff;i<0;i++) $('.ttw-music-player .jp-previous').click();
+                }else{ //Diff ==0
+                  $('.jPlayer-container').jPlayer('play');
+                }
+
+                //Flash Rollback: fixes for loader && curently played track styles and animations
+                if(flash_rollback == true){
+
+                  var played_tr_id = $('.trackBox-1.playing').find('.show-popup-player').attr('track_id');
+
+                  $('.trackBox-1.playing').find('.show-popup-player').removeClass('ajax-pause')/*.html('Play')*/.hide();
+                  $('.trackBox-1.playing').removeClass('playing');
+                  $('.show-popup-player[track_id=' + clicked_track_id + ']').parents(':eq(1)').addClass('playing');
+
+                  $('.ajax-track-loading').each(function(i, el){$(el).hide();})
+                  $('.show-popup-player').each(function(i, el){$(el).show();});
+
+                  $('.show-popup-player[track_id=' + clicked_track_id + ']').hide();
+                  $('.show-popup-player[track_id=' + clicked_track_id + ']').parent().find('.ajax-track-loading').show();
+                }
+
+              }
+            }
+
+            ev.preventDefault();
+          });
+
+
+          /*Prev && Next pages*/
+          $('.player-controls .main .next').click(function(ev){
+            //Filter event for real clicks on `Next` html elements in player
+            if(ev.originalEvent != undefined){
+              if($('.tracks .playing').index() == 9 && (window.location.href).indexOf('/carts')===-1){
+                $('.jPlayer-container').data('pageAutoload', 'next');
+                $('.jPlayer-container').jPlayer('stop');
+                $('.paginator-1 .next a').click();
+                throw '';
+              }
+            }
+          });
+          $('.player-controls .main .previous').click(function(ev){
+            //Filter event for real clicks on `Prev` html elements in player
+            if(ev.originalEvent != undefined){
+              if($('.tracks .playing').index() == 0 && (window.location.href).indexOf('/carts')===-1){
+                $('.jPlayer-container').data('pageAutoload', 'prev');
+                $('.jPlayer-container').jPlayer('stop');
+                $('.paginator-1 .prev a').click();
+                throw '';
+              }
+            }
+          });
+          /**********/
+
+
+          $('.close-player').click(function(ev){
+            $('.ttw-music-player').hide();
+            $('.jPlayer-container').jPlayer('stop');
+            ev.preventDefault();
+          });
+
+          $('.track-info-icon').hover(function(){
+            $('.track-info-content').show();
+          }, function(){
+            $('.track-info-content').hide();
+          });
+
+
+          //Cart Buttons Events Handlers
+          $('.add2cart-player').click(function(ev){
+            var addId = $('.ttw-music-player').attr('current_track_id');
+
+            if(addId!=undefined){
+              $.ajax({
+                url: '/carts/add2cart/' + addId,
+                success: function(resp){
+
+                  $('#add-to-cart-'+addId).hide();
+                  $('#remove-from-cart-'+addId).show();
+
+                  $('#ajax-player-indicator').hide();
+                  $('.remove-from-cart-player').show();
+                  $.ajax({
+                    url: '/carts/count_tracks',
+                    success: function(resp2){
+                      $('#head_cart').html(resp2);
+                    }
+                  });
+                  tracks_json[addId]['in_cart'] = true;
+                },
+                fail: function() {
+                  console.log("error");
+                  $('.add2cart-player').show();
+                  $('#ajax-player-indicator').hide();
+                },
+                beforeSend: function(){
+                  $('.add2cart-player').hide();
+                  $('#ajax-player-indicator').show();
+                }
+              });
+            }
+
+            ev.preventDefault();
+          });
+
+          $('.remove-from-cart-player').click(function(ev){
+            var removeId = $('.ttw-music-player').attr('current_track_id');
+            if(removeId!=undefined){
+              $.ajax({
+                url: '/carts/remove_from_cart/' + removeId,
+                success: function(resp){
+
+                  $('#add-to-cart-'+removeId).show();
+                  $('#remove-from-cart-'+removeId).hide();
+
+                  $('#ajax-player-indicator').hide();
+                  $('.add2cart-player').show();
+
+                  //This means that we're on a `/carts` page
+                  if((location.href).indexOf('/carts')>0){
+                    $('#cart_item_' +removeId).remove();
+                    $('#total_price').html(format_price(recalculate_total_price()));
+                  }
+
+
+                  $.ajax({
+                    url: '/carts/count_tracks',
+                    success: function(resp2){
+                      $('#head_cart').html(resp2);
+                    }
+                  });
+                  tracks_json[removeId]['in_cart'] = false;
+                },
+                fail: function() {
+                  console.log("error");
+                  $('#ajax-player-indicator').hide();
+                  $('.remove-from-cart-player').show();
+                },
+                beforeSend: function(){
+                  $('.remove-from-cart-player').hide();
+                  $('#ajax-player-indicator').show();
+                }
+              });
+            }
+
+            ev.preventDefault();
+          });
+
+          $('.download-track-owner').click(function(ev){
+            var downloadId = $('.ttw-music-player').attr('current_track_id');
+            if(downloadId!=undefined){
+              $('.download-track-owner').attr('href', '/tracks/download/' + tracks_json[downloadId]['Track']['storage_id'] + '/' + tracks_json[downloadId]['Track']['format']);
+            }
+          });
+
+          /***End cart buttons***/
+
+          $("body").on('mouseenter', '.track-info-inbody', function(ev){
+              $(ev.currentTarget).parents(':eq(1)').
+              find('.track-info-inbody-content').
+              show().
+              position({
+                my:'left top',
+                at:'left bottom',
+                of: $(ev.currentTarget).parents(':eq(1)').find('.track-info-inbody')
+              });
+          });
+          $("body").on('mouseleave', '.track-info-inbody', function(ev){
+              $(ev.currentTarget).parents(':eq(1)').find('.track-info-inbody-content').hide();
+          });
+
+          $('body').delegate('.sp_top a.show-popup-player', 'click', function(ev){
+            $('.ttw-music-player').show();
+          });
+
+
+          $("body").on('mouseenter', '.download-preview-inbody', function(ev){
+              $(ev.currentTarget).parents(':eq(1)').
+                find('.download-preview-popup').
+                show().
+                position({
+                  my:'left top',
+                  at:'left bottom',
+                  of: $(ev.currentTarget).parents(':eq(1)').find('.download-preview-inbody')
+              });
+          });
+          $("body").on('mouseleave', '.download-preview-inbody', function(ev){
+              $(ev.currentTarget).parents(':eq(1)').find('.download-preview-popup').hide();
+          });
+
+
+
+
+          //Ajax Pages Loader
+          //Links selector that can be loaded by ajax-loader
+          $('body').delegate(".ajax-page-link, .paginator-1 a, .breadcrumb-1 a, .browse-page-genre-list a, .Menu a, .browse-page-genre-list-new a, .browse-page-content-right a:not(#track-embed-id,#track-email_it-id), .crumbs-1 a, .trackBox-1-left a:not(.removeTrackFromCart a, a.download-preview-inbody), .sp_play_title a, .ttw-music-player .track-info a, .Tracks-Pagination .pagination a",
+
+            'click',
+
+            function(ev){
+
+              var url = this.href;
+
+              //Using Ajax load if player is active
+              if(isPlayerActive() == true){
+
+                ajax_handler = $.ajax({
+                  url: url,
+                  async:true,
+                  cache:true,
+                  success:function(data, textStatus){
+
+                  	$('#ajax-spinner').hide();
+                  	$('#content-center').html(data);
+
+                    try {
+                      history.pushState({ignore_m_safari:true},null,url);
+
+                    }catch(err){
+                      window.location.hash = '/#!/' + url;
+                    }
+
+                    //Get Ids
+                    getTracksListFromHtml();
+
+                    //Rebuild Playlist after reload: true arguments means additional action
+                    if($(ev.currentTarget).parents(':eq(2)').hasClass('trackBox-1-left'))
+                      reloadPlaylist('social', url);
+                    //This means that page loader was called with code but not original click
+                    else if(ev.originalEvent == undefined)
+                      reloadPlaylist('pageAutoload');
+                    else
+                      reloadPlaylist();
+
+
+                  },
+                  error:function(jqXHR, textStatus, errorThrown ){
+                    /***********/
+                    console.log(jqXHR);
+                    console.log(textStatus);
+                    console.log(errorThrown);
+                    /***********/
+                    $('.browse-page').before('<div class="ajax-error" style="width: 100%;text-align: center;padding: 20px;margin: 30px 0 10px 0;background-color: #FFEDED;border-radius: 10px;border: 1px solid maroon;">Sorry. Something goes wrong.</div>');
+
+                    setTimeout(function() {
+                        $(".ajax-error").hide()
+                    }, 20000);
+
+                    $('#ajax-spinner').hide();
+                  },
+                  beforeSend: function(){
+                    playerIsReady = false;
+                    $('#ajax-spinner').show();
+                  }
+                });
+
+              }else{
+                window.location = url;
+              }
+
+            ev.preventDefault();
+
+          });
+
+    		/*html5 History - `back` and `forward` buttons*/
+    		$(window).bind('popstate', function(ev) {
+    			var url = window.location.href;
+
+
+          //Mobile Safari bug
+          //This check help us proceed only manualy added History.pushState() instances
+          //http://stackoverflow.com/questions/10756893/how-to-ignore-popstate-initial-load-working-with-pjax
+          if (!ev.originalEvent.state.ignore_m_safari) return;
+
+          if(isPlayerActive() && historyApiAvailable()){
+            ajax_handler = $.ajax({
+            	url: url,
+            	async:true,
+            	cache:true,
+            	success:function(data, textStatus){
+	              	$('#ajax-spinner').hide();
+	              	$('#content-center').html(data);
+	                //Get Ids
+	                getTracksListFromHtml();
+	                //Rebuild Playlist after reload: true arguments means additional action
+	                if($(ev.currentTarget).parents(':eq(2)').hasClass('trackBox-1-left'))
+	                  reloadPlaylist('social', url);
+	                //This means that page loader was called with code but not original click
+	                else if(ev.originalEvent == undefined)
+	                  reloadPlaylist('pageAutoload');
+	                else
+	                  reloadPlaylist();
+            	},
+	            error:function(jqXHR, textStatus, errorThrown ){
+	                /***********/
+	                console.log(jqXHR);
+	                console.log(textStatus);
+	                console.log(errorThrown);
+	                /***********/
+	                $('.browse-page').before('<div class="ajax-error" style="width: 100%;text-align: center;padding: 20px;margin: 30px 0 10px 0;background-color: #FFEDED;border-radius: 10px;border: 1px solid maroon;">Sorry. Something goes wrong.</div>');
+	                setTimeout(function() {
+	                    $(".ajax-error").hide()
+	                }, 20000);
+	                $('#ajax-spinner').hide();
+	            },
+	            beforeSend: function(){
+	                playerIsReady = false;
+	                $('#ajax-spinner').show();
+	            }
+            });
+	        }else{
+	        	window.location = url;
+	        }
+		    });
+
+
+        var reinitSocialButtons = function(page_url){
+
+           var track_id = Object.keys(tracks_json);
+           var track = tracks_json[track_id];
+
+           $('#st_facebook_large').empty();
+           stWidget.addEntry({
+            "service":"facebook",
+            "element":document.getElementById('st_facebook_large'),
+            "url": page_url,
+            "title": track.Track.title,
+            "type":"large"
+           });
+           $('#st_twitter_large').empty();
+           stWidget.addEntry({
+            "service":"twitter",
+            "element":document.getElementById('st_twitter_large'),
+            "url": page_url,
+            "title":"You must hear this track",
+            //"title": track.Track.title,
+            "via": "audiomicro #royaltyfreemusic #soundeffects #audiomicro",
+            "type":"large"
+           });
+           $('#st_googleplus_large').empty();
+           stWidget.addEntry({
+            "service":"googleplus",
+            "element":document.getElementById('st_googleplus_large'),
+            "url": page_url,
+            "title": track.Track.title,
+            "type":"large"
+           });
+           $('#st_email_large').empty();
+           stWidget.addEntry({
+            "service":"email",
+            "element":document.getElementById('st_email_large'),
+            "url": page_url,
+            "title": track.Track.title,
+            "type":"large"
+           });
+
+        };
+
+
+        /*Ajax-search handling while ajax-player is playing*/
+        $('#simple-search').submit(function(ev){
+          if(isPlayerActive()==true){
+            url = '/tracks/search?query='+$('#simple-search').find('input[name=query]').val()+'&Category='+$('#simple-search').find('#SearchCategory').val();
+            $.ajax({
+              url: url,
+              success: function(data, code){
+
+                $('#ajax-spinner').hide();
+                $('#content-center').html(data);
+
+                try {
+
+                  history.pushState({ignore_m_safari:true},null,url);
+
+                }catch(err){
+                  window.location.hash = '/#!/' + url;
+                }
+
+                //Get Ids
+                getTracksListFromHtml();
+                reloadPlaylist();
+
+                //playing_index = -5;
+              },
+              error:function(jqXHR, textStatus, errorThrown ){
+                /***********/
+                console.log(jqXHR);
+                console.log(textStatus);
+                console.log(errorThrown);
+                /***********/
+                $('.browse-page').before('<div class="ajax-error" style="width: 100%;text-align: center;padding: 20px;margin: 30px 0 10px 0;background-color: #FFEDED;border-radius: 10px;border: 1px solid maroon;">Sorry. Something goes wrong.</div>');
+
+                setTimeout(function() {
+                    $(".ajax-error").hide()
+                }, 20000);
+
+                $('#ajax-spinner').hide();
+              },
+              beforeSend: function(){
+                playerIsReady = false;
+                $('#ajax-spinner').show();
+              }
+
+            });
+            ev.preventDefault();
+          }
+        });
+
+
+        /*$('#ajax-player-back').click(function(){
+          //TODO: get ajax page by history API
+          window.history.back();
+        });
+        $('#ajax-player-forward').click(function(){
+          //TODO: get ajax page by history API
+          window.history.forward();
+        });*/
+
+
+
+
+        /*Hotkeys handlers for player init*/
+        $(document).keydown(function(e) {
+            //console.log(e.keyCode);
+            //e.keyCode - ascii code of clicked symbol
+            //e.ctrlKey - boolean, means that key was pressed with ctrl
+
+            var availableKeys = [
+              37, //`Left` Key - 37 ascii code
+              39, //`Right` Key - 39 ascii code
+              32, // Space - 32 ascii code
+              27  // Esc - 27 ascii code
+            ];
+            var keyMatched = availableKeys.indexOf(e.keyCode);
+
+            if(keyMatched>0 || keyMatched===0)
+              keyboardHotkeysHandler(e);
+        });
+
+
+        var keyboardHotkeysHandler = function(defEv){
+
+          //Activate Hotkeys only on player is active
+          if(isPlayerActive() && !isAnyTextfieldActive()){
+            if($('.player-controls').data('ui-tooltip')) $('.player-controls').tooltip('destroy');
+            //Left Key Clicked without Ctrl
+            if(defEv.keyCode==37 && !defEv.ctrlKey){
+              if($('.tracks .playing').index() == 0 && (window.location.href).indexOf('/carts')===-1){
+                $('.jPlayer-container').data('pageAutoload', 'prev');
+                $('.jPlayer-container').jPlayer('stop');
+                $('.paginator-1 .prev a').click();
+              }else{
+                $('.jp-previous').click();
+              }
+            }
+            //Right Key Clicked without Ctrl
+            if(defEv.keyCode==39 && !defEv.ctrlKey){
+              if($('.tracks .playing').index() == 9 && (window.location.href).indexOf('/carts')===-1){
+                $('.jPlayer-container').data('pageAutoload', 'next');
+                $('.jPlayer-container').jPlayer('stop');
+                $('.paginator-1 .next a').click();
+              }else{
+                $('.jp-next').click();
+              }
+            }
+            //Esc Key
+            if(defEv.keyCode==27 && !defEv.ctrlKey){
+              $('.ttw-music-player').hide();
+              $('.jPlayer-container').jPlayer('stop');
+            }
+            //Space Key
+            if(defEv.keyCode==32 && !defEv.ctrlKey){
+              if($('.jPlayer-container').data('jPlayer').status.paused == true)
+                $('.jPlayer-container').jPlayer('play');
+              else
+                $('.jPlayer-container').jPlayer('pause');
+            }
+
+            defEv.preventDefault();
+          }
+
+        };
+        /*End Hotkeys handlers*/
+
+        /*
+         Method is checking for any active input field(search bar) OR textarea(olark livechat).
+         If yeah then suspend hotkeys
+        */
+        var isAnyTextfieldActive = function(){
+          return $('input[type=text]:focus, textarea:focus').length>0;
+        };
+
+
+
+
+      /*Hotkeys Tooltip over Ajax-Player Init && Configuration*/
+      function getCookie(cname) {
+          var name = cname + "=";
+          var ca = document.cookie.split(';');
+          for(var i=0; i<ca.length; i++) {
+              var c = ca[i];
+              while (c.charAt(0)==' ') c = c.substring(1);
+              if (c.indexOf(name) != -1) return c.substring(name.length,c.length);
+          }
+          return "";
+      }
+
+      //Init tooltip if user didn't close it before
+      $('.player-controls').hover(function(){
+        if (!getCookie('hide_hotkeys_tooltip')==false) return;
+        $('.player-controls').tooltip({
+          content: $('#jPlayer-tooltip-content').html(),
+          show: {
+            delay: 1000
+          },
+          hide: {
+            delay: 2000
+          },
+          position: {
+            my: "center bottom-20",
+            at: "center-435 top",
+            using: function( position, feedback ) {
+              $( this ).css( position );
+
+              $( "<div>" )
+                .addClass( "arrow" )
+                .addClass( feedback.vertical )
+                .addClass( feedback.horizontal )
+                .appendTo( this );
+            }
+          }
+        });
+      }, function(){
+        return;
+      });
+
+
+      $('body').delegate(".ui-tooltip-content .close", 'click' , function(){
+        $('.player-controls').tooltip('destroy');
+        document.cookie = "hide_hotkeys_tooltip=true; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/";
+      });
+
+      /*End Hotkeys Tooltip*/
+
+
+
+  });
+
+</script>
+
+
+
+
+
+
+
+<div id="jPlayer-tooltip-content" style="display:none">
+  <div class="close"></div>
+  You can control the player with the following keys while the player is active:<br>
+  <ol>
+      <li>Click the Right Arrow on your keyboard to play the next track</li>
+      <li>Click the Left Arrow on your keyboard to play the previous track</li>
+      <li>Click the Space Bar to Play/Pause the current track</li>
+      <li>Click Esc to close the player</li>
+  </ol>
+
+</div>
+
+
+<div class="ttw-music-player" style="display:none" title="">
+  <div class="close-player"></div>
+  <div class="player jp-interface">
+        <div class="recent-play-wrapper">
+          <a href="/tracks/history" class="recent-plays-link">Recent Plays</a>
+        </div>
+        <div class="player-controls">
+            <div class="main">
+                  <div class="previous jp-previous"></div>
+                  <div class="play jp-play"></div>
+                  <div class="pause jp-pause"></div>
+                  <div class="stop jp-stop" style="display:none; opacity:0;"></div>
+                  <div class="next jp-next"></div>
+            </div>
+            <div class="volume-control" style="display:none; opacity:0;">
+                                    <span class="jp-mute"></span>
+                  <span class="jp-unmute"></span>
+                  <span class="jp-volume-bar">
+                     <span class="jp-volume-bar-value"></span>
+                  </span>
+                  <span class="jp-volume-max"></span>
+                  <span class="jp-gui"></span>
+                  <span class="jp-repeat-off"></span>
+                  <span class="jp-repeat"></span>
+                  <span class="jp-restore-screen"></span>
+                  <span class="jp-full-screen"></span>
+                  <span class="jp-video-play"></span>
+            </div>
+        </div>
+
+        <div class="track-info">
+            <p class="title"></p>
+            <p class="artist-outer">by <span class="artist"></span></p>
+                    </div>
+
+        <div class="audiolevels">
+          <div class="audiolevel-track" style="background: url(/ajax-player/plugin/images/waves-waiting-for-load.png) no-repeat;"><div class="audiolevel-track-loadded" style="width: 0%; background: url(/ajax-player/images_white.php?user_id=9315&amp;storage_id=6ae23066f6c4963&amp;played=1) no-repeat;"></div></div>
+          <div class="time"><div class="jp-current-time"></div><span>/</span><div class="jp-duration"></div></div>
+        </div>
+
+        <div class="icons-wrapper">
+          <div class="track-info-icon">
+            <div class="track-info-content">
+              <span class="g_parent">Genres: <span class="genres track-audio-params">-</span></span>
+              <span class="description_parent">Description: <span class="description">-</span></span>
+              <span>Format: <span class="format track-audio-params">-</span></span> | 
+              <span>Length: <span class="length track-audio-params">-</span></span> | 
+              <span>Bit Rate: <span class="bit_rate track-audio-params">-</span></span> | 
+              <span>Refresh Rate Khz: <span class="refresh_rate_khz track-audio-params">-</span></span> | 
+              <span>Bit Mode: <span class="bit_mode track-audio-params">-</span></span> | 
+              <span>BPM: <span class="bpm track-audio-params">-</span></span> | 
+              <span>Music Loop: <span class="music_loop track-audio-params">No</span></span> | 
+              <span>Bits Per Sample: <span class="bits_per_sample track-audio-params">-</span></span>
+            </div>
+          </div>
+          <a id="download-preview-in-player" alt="Download preview .mp3" rel="nofollow" title="Download preview .mp3" href="#"></a>
+        </div>
+
+
+        <div class="purchase-ajax-buttons">
+          <a href="/subscribe" class="subscribe-button">Subscribe $10</a>
+          <a href="#" class="add2cart-player">Add To Cart $49.95</a>
+          <a href="#" class="remove-from-cart-player" style="display: none;">Remove From Cart</a>
+          <a href="#" class="download-track-owner" style="display: none;">Download Original</a>
+          <a href="#" class="download-button-player" style="display: none;">Download</a>
+          <img src="/ajax-player/plugin/images/ajax-loader.gif" width="24" height="24" id="ajax-player-indicator" style="display: none; margin: 0px 75px;" class="vMiddle">
+        </div>
+
+
+        <div class="progress-wrapper">
+                        <div class="progress jp-seek-bar">
+                <div class="elapsed jp-play-bar"></div>
+            </div>
+         </div>
+             </div>
+
+    <div id="player-additional-info">
+       <p class="description"></p>
+       <div class="tracklist">
+           <ol class="tracks"> </ol>
+           <div class="more">View More...</div>
+       </div>
+    </div>
+    <div class="jPlayer-container"></div>
+
+</div>
+
+
+
+<div id="preload" style="display:none"></div>
+<div id="container">
+    <div id="overflow" style="display:none;width:100%;min-height:100%;position:absolute;z-index:99;" onclick="$('.add-to-playlists').each(function(index,element){if(!$(element).hasClass('tab-panel-wrapper')){$(element).hide();}}); $(this).hide();"></div>
+
+		
 
 <div id="header">
     <div id="HeaderWrapper">
@@ -88,12 +1439,13 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
                     <a href="/carts" rel="nofollow" onclick="this.blur();">Cart</a>
 <script type="text/javascript">
 <!--
-            if($("common-checkout-button-active") && $("common-checkout-button-inactive")){
-            $("common-checkout-button-active").hide();
-            $("common-checkout-button-inactive").show();
+    	        if($("#common-checkout-button-active").length>0 && $("#common-checkout-button-inactive").length>0){
+            $("#common-checkout-button-active").hide();
+            $("#common-checkout-button-inactive").show();
         }
-    //-->    
-</script>            </li>
+        //-->    
+</script>
+            </li>
         </ul>
     </div>
     <div class="Acc-r"></div>
@@ -114,7 +1466,8 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
 				<a href="/register" rel="nofollow" onclick="this.blur();">Create Account</a>               
             </li>
              </ul>
-</div>            </div>
+</div>
+            </div>
             <div>
                 <div class="logo-2">
                     <a href="/" title="Stock Music, Royalty Free Music, and Sound Effects">
@@ -563,9 +1916,8 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
     </div>
   </div>
         
-    
-
         
+
  <div class="SearchBackground">
    <div id="Wrapper">
               
@@ -580,13 +1932,54 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
                 <img src="/images/popular_pages_search_indicator.gif" width="16" height="16" id="popular-pages-search-indicator" style="display:none;">
                 
                 <input name="query" type="text" label="" placeholder="Search for Stock Music or Sound Effects" id="search" value="" style="color:#000; font-size: 15px;" autocomplete="off">
-				<div id="search_autoComplete" class="auto_complete"></div>
+				<!--<div id="search_autoComplete" class="auto_complete"></div>-->
 				<script type="text/javascript">
 				//<![CDATA[
-					auto_completer = new Ajax.Autocompleter('search', 'search_autoComplete', '/tracks/autoComplete/2', {minChars:3, indicator:'popular-pages-search-indicator', afterUpdateElement:function(element, update){ checkAutoCompletValue(element, update);}});
+					//auto_completer = new Ajax.Autocompleter('search', 'search_autoComplete', '/tracks/autoComplete/2', {minChars:3, indicator:'popular-pages-search-indicator', afterUpdateElement:function(element, update){ checkAutoCompletValue(element, update);}});
+					$(function() {
+							function log( message ) {
+							  $( "<div>" ).text( message ).prependTo( "#log" );
+							  $( "#log" ).scrollTop( 0 );
+							}
+						 
+							$( "#search" ).autocomplete({
+							  source: function( request, response ) {
+								$.ajax({
+								  url: '/tracks/autoComplete/2',
+								  dataType: "jsonp",
+								  data: {
+									featureClass: "P",
+									style: "full",
+									maxRows: 12,
+									name_startsWith: request.term
+								  },
+								  success: function( data ) {
+									response( $.map( data.geonames, function( item ) {
+									  return {
+										label: item.name + (item.adminName1 ? ", " + item.adminName1 : "") + ", " + item.countryName,
+										value: item.name
+									  }
+									}));
+								  }
+								});
+							  },
+							  minLength: 3,
+							  select: function( event, ui ) {
+								log( ui.item ?
+								  "Selected: " + ui.item.label :
+								  "Nothing selected, input was " + this.value);
+							  },
+							  open: function() {
+								$( this ).removeClass( "ui-corner-all" ).addClass( "ui-corner-top" );
+							  },
+							  close: function() {
+								$( this ).removeClass( "ui-corner-top" ).addClass( "ui-corner-all" );
+							  }
+							});
+				  });
 
 					function update_autocomplite_url(element){
-						if($F(element) == 'music'){
+						if($(element).val() == 'music'){
 							auto_completer.url = '/tracks/autoComplete/2';	
 						}else{
 							auto_completer.url = '/tracks/autoComplete/3';	
@@ -613,9 +2006,9 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
     </div>
   </div>   
         
-        
         <div class="content" id="content">
-                                                                                            
+                                        
+                                                    
              
             <div class="content-center page-legal_documents page-legal_documents-view view-legal_documents-" id="content-center" style="width:100%">
                 <div id="flash-message-wrapper"> 
@@ -654,11 +2047,9 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
                                     <li><a href="/legal-doc/dmca-policy" onclick="this.blur();">DMCA Policy</a></li>
                         </ul>
     </div>
-<script type="text/javascript" src="/js/jquery/jquery.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.tinyscrollbar.min.js"></script>
 <script type="text/javascript">
     jQuery(document).ready(function(){
-        jQuery.noConflict();
         jQuery('#scrollbar-privacy-policy').tinyscrollbar();    
     });
 </script>
@@ -775,7 +2166,8 @@ You should consult the respective privacy policies of these third-party ad serve
         </div>
         <div class="scrollbottom"></div>
     </div>
-</div> 
+</div>
+ 
         
             </div>
             
@@ -818,10 +2210,9 @@ You should consult the respective privacy policies of these third-party ad serve
         }
     }
 
-    Event.observe(window, 'load', function(){
+    $(document).ready(function() {
     	initPlaySoundControl();
-        //swfControlls.sendMsg('VOLUME',0.5);
-        //swfControlls.sendMsg('SEEK',0.7);        
+    
     });
     
     function receivePlaySoundControlEvents(msg,value) {
@@ -856,10 +2247,12 @@ You should consult the respective privacy policies of these third-party ad serve
         return playVolumeControl;
     }
     
-</script>	
+</script>
+	
  
 
-<div class="bottom">
+
+<div class="bottom ">
 
     <div class="footer-v2">
 							<div class="footer-line">
@@ -931,8 +2324,7 @@ You should consult the respective privacy policies of these third-party ad serve
     <div class="quicklinks">
         <ul>
             <li><b>More</b></li>
-            <li><a href="/users/invite-followers" rel="nofollow" onclick="this.blur();">Invite Friends</a></li>
-            <li><a href="/iphone" rel="nofollow" onclick="this.blur();">iPhone App</a></li>
+                        <li><a href="/iphone" rel="nofollow" onclick="this.blur();">iPhone App</a></li>
             <li><a href="/api" rel="nofollow" onclick="this.blur();">API</a></li>
 	    <li>
                 <div class="socialicons">
@@ -995,10 +2387,11 @@ You should consult the respective privacy policies of these third-party ad serve
         </ul>
     </div>
             
-</div>            </div>                
+</div>
+            </div>                
         
         <div class="copy_right">
-            Copyright© 2014            <a href="http://audiomicroinc.com" rel="nofollow" target="_blank">AudioMicro, Inc</a>.&nbsp;All Rights Reserved.                
+            Copyright© 2015            <a href="http://audiomicroinc.com" rel="nofollow" target="_blank">AudioMicro, Inc</a>.&nbsp;All Rights Reserved.                
             <a href="/legal-doc/terms-of-service" rel="nofollow" onclick="this.blur();">Terms of Service</a>&nbsp;|
             <a href="/legal-doc/privacy-policy" rel="nofollow" onclick="this.blur();">Privacy Policy</a>&nbsp;|
             <a href="/legal-documents" rel="nofollow" onclick="this.blur();">All Legal Documents</a>  
@@ -1008,7 +2401,9 @@ You should consult the respective privacy policies of these third-party ad serve
 
     
     
-	
+	<script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script><script type="text/javascript">new HelloBar(20429,120299);</script>
+
+
 	<script type="text/javascript">
 	/* <![CDATA[ */
 	var google_conversion_id = 1041425229;
@@ -1025,17 +2420,22 @@ You should consult the respective privacy policies of these third-party ad serve
 	</noscript>
 	
 
-	<!-- GA -->
-	<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-		try {
-			var pageTracker = _gat._getTracker("UA-3942464-1");
-			pageTracker._trackPageview();
-		} catch(err) {}
+	
+	<!-- Google Analytics -->
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];
+	a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	// New Google Analytics code to set User ID.
+
+	ga('create', 'UA-3942464-1', 'auto');	
+	ga('send', 'pageview');
+
 	</script>
+	<!-- End Google Analytics -->
 
 
 <!-- Compete XL Code for audiomicro.com -->
@@ -1101,5 +2501,4 @@ olark.identify('1868-439-10-6477');/*]]>{/literal}*/</script><noscript><a href="
 
 
 
-<!--10.183.142.125 -->
-</body></html>
+<!--10.183.129.55 --></body></html>
