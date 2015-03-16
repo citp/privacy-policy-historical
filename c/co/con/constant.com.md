@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constant.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201072247id_/http%3A//www.constant.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constant.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316224738id_/https%3A//www.constant.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # - Constant.com
 
