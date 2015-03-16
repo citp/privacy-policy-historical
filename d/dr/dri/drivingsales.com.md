@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the drivingsales.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033442id_/http%3A//www.drivingsales.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivingsales.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316203334id_/http%3A//www.drivingsales.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DrivingSales
-
-## Privacy Policy
 
 Welcome to DrivingSales.com (“DrivingSales”) and DrivingSalesData.com (“DrivingSales Data”), the online services of DrivingSales, Inc. (“DrivingSales, Inc.” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Services, and your choices about the collection and use of your information.
 
@@ -21,7 +19,7 @@ Click on the links below to jump to each section:
 
 ### 1\. HOW WE COLLECT AND USE INFORMATION
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in the [DrivingSales Terms of Use](http://www.drivingsales.com/tos) or the DrivingSales Data Terms of Use, as applicable.
+Capitalized terms that are not defined in this Privacy Policy have the meaning given them in the [DrivingSales Terms of Use](http://www.drivingsales.com/tos) or the [DrivingSales Data Terms of Use](http://drivingsalesdata.com/site/tos), as applicable.
 
 We collect the following types of information about you:
 
