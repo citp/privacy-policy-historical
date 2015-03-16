@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instantssl.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031510id_/http%3A//www.instantssl.com/ssl-certificate-legal/ssl-certificate-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantssl.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316155427id_/https%3A//www.instantssl.com/ssl-certificate-legal/ssl-certificate-privacy.html) for the most accurate reproduction.*
 
-# InstantSSL.com Privacy Statement
+# SSL Certificate Privacy Statement from Instant SSL
 
 As part of the Comodo pledge to our customers, we recognize and respect your right to privacy. This privacy policy statement informs our customers of the privacy practices employed in the provision of Comodo's products, services and website.
 
