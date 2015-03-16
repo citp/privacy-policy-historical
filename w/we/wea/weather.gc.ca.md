@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weather.gc.ca privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216214217id_/http%3A//www.canada.ca/en/transparency/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather.gc.ca privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316010513id_/http%3A//www.canada.ca/en/transparency/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Canada.ca
 
@@ -43,7 +43,7 @@ A digital marker is a resource created by the visitors' browser in order to reme
 
 
 
-Canada.ca uses _sessional_ digital markers on its website. During your on-line visit, your browser exchanges data with Canada.ca's Web server. The digital markers used do not allow Canada.ca to identify individuals and do not contain personal information.
+Canada.ca uses _sessional_ and _persistent_ digital markers on its website. During your on-line visit, your browser exchanges data with Canada.ca's Web server. The digital markers used do not allow Canada.ca to identify individuals and do not contain personal information.
 
 You may adjust your browser settings to reject digital markers, including cookies, if you so choose. However, it may affect your ability to interact with the _Canada.ca_ website.
 
@@ -94,7 +94,7 @@ Any questions, comments, concerns or complaints you may have regarding the admin
 If you are not satisfied with ESDC's response to your privacy concern, you may wish to contact the [Office of the Privacy Commissioner](http://www.priv.gc.ca/index_e.asp) by telephone at 1-800-282-1376.
 
 Date modified: 
-    2014-09-30
+    2015-01-20
   *[ESDC]: Employment and Social Development Canada
   *[IP]: Internet Protocol
   *[ISP]: Internet Service Providers
