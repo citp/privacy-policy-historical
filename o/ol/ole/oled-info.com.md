@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oled-info.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629120539id_/http%3A//www.oled-info.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oled-info.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316123842id_/http%3A//www.oled-info.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | OLED-Info
 
 At OLED-Info.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit OLED-Info.com, and how we safeguard your information. We never sell your personal information to third parties.
 
