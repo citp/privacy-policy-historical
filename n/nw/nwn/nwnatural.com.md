@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwnatural.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328061511id_/https%3A//www.nwnatural.com/GlobalBottomFooterNavigation/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwnatural.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316134208id_/https%3A//www.nwnatural.com/GlobalBottomFooterNavigation/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
