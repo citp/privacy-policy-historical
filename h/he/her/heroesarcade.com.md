@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heroesarcade.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012251id_/http%3A//www.heroesarcade.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroesarcade.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316182412id_/http%3A//www.heroesarcade.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy policy // HeroesArcade.com
 
