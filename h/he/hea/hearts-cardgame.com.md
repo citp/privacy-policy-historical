@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hearts-cardgame.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702042528id_/http%3A//www.hearts-cardgame.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearts-cardgame.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316083430id_/http%3A//www.hearts-cardgame.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-This game is created by SimpleGames, a small software company in Denmark. Here we will explain what data we store, how we store it, how we use cookies and how our advertising works. 
+This game is created by SimpleGames, a small software company in Iceland. Here we will explain what data we store, how we store it, how we use cookies and how our advertising works. 
 
 ### Personal information
 
