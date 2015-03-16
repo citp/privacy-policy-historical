@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cleanplates.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628073550id_/http%3A//national.cleanplates.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleanplates.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316091614id_/http%3A//national.cleanplates.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthy Recipes and Sustainable FoodHealthy Recipes and Sustainable Food
 
-### Last Revised October 13, 2010
+### Last Revised January 1. 2015
 
 The following Privacy Policy summarizes the various ways that Clean Plates (“Service Provider,” “we” or “our”) treats the information you provide while using http://www.cleanplates.com (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
