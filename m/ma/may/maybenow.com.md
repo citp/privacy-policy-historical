@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maybenow.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628010359id_/http%3A//www.maybenow.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maybenow.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316104717id_/http%3A//www.maybenow.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Guide | MaybeNow
 
