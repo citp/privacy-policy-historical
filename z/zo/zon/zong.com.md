@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zong.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701231103id_/https%3A//www.zong.com/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zong.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316122033id_/https%3A//zong.com/help/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zong
 
