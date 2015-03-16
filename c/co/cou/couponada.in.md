@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponada.in privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227182627id_/http%3A//couponada.in/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponada.in privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317000349id_/http%3A//couponada.in/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Couponada.in
 
