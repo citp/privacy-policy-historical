@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the realestatebook.com privacy policy that was archived on 2014-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141119225933id_/http%3A//www.realestatebook.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realestatebook.com privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316105646id_/http%3A//www.realestatebook.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
@@ -35,10 +35,10 @@
     css.innerHTML =
         "div.js-disabled-hide, ul.js-disabled-hide {display:block;}" +
             "div.js-disabled-show, ul.js-disabled-show {display: none;}" +
-            "div.js-prevent-hide { display: none; } " +
+            "div.js-prevent-hide, div.js-prevent-hide-once { display: none; } " +
             "div.js-prevent-loader {display: block} ";
     document.head.appendChild(css);
-</script><style type="text/css">div.js-disabled-hide, ul.js-disabled-hide {display:block;}div.js-disabled-show, ul.js-disabled-show {display: none;}div.js-prevent-hide { display: none; } div.js-prevent-loader {display: block} </style>
+</script><style type="text/css">div.js-disabled-hide, ul.js-disabled-hide {display:block;}div.js-disabled-show, ul.js-disabled-show {display: none;}div.js-prevent-hide, div.js-prevent-hide-once { display: none; } div.js-prevent-loader {display: block} </style>
 <!--<![endif]-->
 <!--[if IE]>
     <script>
@@ -47,23 +47,25 @@
         css.styleSheet.cssText =
             "div.js-disabled-hide, ul.js-disabled-hide {display:block}" +
                 "div.js-disabled-show, ul.js-disabled-show {display: none;}" +
-                "div.js-prevent-hide { display: none; } " +
+                "div.js-prevent-hide, div.js-prevent-hide-once { display: none; } " +
                 "div.js-prevent-loader {display: block} ";
         document.getElementsByTagName("head")[0].appendChild(css);
     </script>
 <![endif]-->
 
-    <link href="/Content/Css/less/less-bundle?v=m_N5967BJZiSyS0Z-ntFmC8FrN5BiyX3ktb6ILXBe7s1" rel="stylesheet">
+    <link href="/Content/Css/less/less-bundle?v=Liqg0-GWZzmahMOzY20ffX3_prLEC6HWC7og7_8vhpc1" rel="stylesheet">
 
 
     <!--[if lte IE 8]>
             <link rel="stylesheet" href="/Content/Css/fixes/ie8.css"/>
             <script type="text/javascript" src="/Scripts/ie8.js"></script>
             <script type="text/javascript" src="/Scripts/lib/respond.js"></script>
-        <![endif]-->
+    <![endif]-->
+
 </head>
 <body itemscope="" itemtype="http://schema.org/WebPage" class="square-agents" style="">
     
+
 
 
 
@@ -81,7 +83,7 @@
                     </a>
                 </div>
                 <div class="col-xs-2 visible-xs visible-sm collapse-search-link text-center" data-toggle="collapse" data-target=".mobile-collapse">
-                    <span data-bind="css: { 'icon-search-house': isDisplaySearchHomesIcon(), 'icon-search-agent': !isDisplaySearchHomesIcon() }" class="collapse-search-text">Search</span>
+                    <span data-bind="css: { 'icon-search-house': isDisplaySearchHomesIcon(), 'icon-search-agent': !isDisplaySearchHomesIcon() }" class="collapse-search-text icon-search-house">Search</span>
                 </div>
                 <div class="for-ad-link hidden-xs hidden-sm">
                     <a href="/advertisers">
@@ -101,12 +103,22 @@
     <div data-bind="click: onSelectClick, event: { blur: onSelectBlur }" tabindex="1" class="select-list-area">
         <span data-bind="css: { 'ui-select-active': isSelectUlVisible() }" class="form-control ui-select-value" title="Select Search Type">
             <span class="search-text-span">Search </span>
-            <span data-bind="text: caption"></span>
+            <span data-bind="text: caption">Homes</span>
         </span>
-        <ul data-bind="foreach: list, visible: isSelectUlVisible(), event: { mouseover: onSelectListMouseOver, mouseleave: onSelectListMouseLeave }">
+        <ul data-bind="foreach: list, visible: isSelectUlVisible(), event: { mouseover: onSelectListMouseOver, mouseleave: onSelectListMouseLeave }" style="display: none;">
             <li data-bind="click: $parent.onSelectClick, clickBubble: false">
                 <span class="search-text-span">Search </span>
-                <span data-bind="text: text"></span>
+                <span data-bind="text: text">Homes</span>
+            </li>
+        
+            <li data-bind="click: $parent.onSelectClick, clickBubble: false">
+                <span class="search-text-span">Search </span>
+                <span data-bind="text: text">Foreclosures</span>
+            </li>
+        
+            <li data-bind="click: $parent.onSelectClick, clickBubble: false">
+                <span class="search-text-span">Search </span>
+                <span data-bind="text: text">Agents</span>
             </li>
         </ul>
     </div>
@@ -117,57 +129,69 @@
 
 <div class="address-area">
     <div class="address-input-wrapper">
-        <input type="text" data-bind="value: lookupLocation, click: onLookupLocationClick, event: { dblclick: onLookupLocationDblClick, keydown: onLookupLocationKeyDown, focus: onLookupLocationFocus, blur: onLookupLocationBlur }, attr: { placeholder: searchTemplates.currentPlaceholder() }" id="lookup-location" class="form-control lookup-location" title="Enter an address here">
+        <input type="text" data-bind="value: lookupLocation, click: onLookupLocationClick, event: { dblclick: onLookupLocationDblClick, keydown: onLookupLocationKeyDown, focus: onLookupLocationFocus, blur: onLookupLocationBlur }, attr: { placeholder: searchTemplates.currentPlaceholder() }" id="lookup-location" class="form-control lookup-location" title="Enter an address here" placeholder="Search by City, State or Zip or #MLS">
         <input type="text" data-bind="value: lookupAutocomplete" class="form-control lookup-autocomplete">
         <div data-bind="visible: isDisplayAutocompleteArea(), event: { mouseover: onAutocompleteAreaMouseOver, mouseleave: onAutocompleteAreaMouseLeave }" class="auto-complete-area" style="display: none">
             <ul data-bind="visible: !isDisplayAutocompleteVariants()" class="country-tabs list-inline-col-3 text-center">
-                <li data-bind="click: function() { countryList.setSelectedValue('USA'); }, css: { active: countryList.selectedValue() == 'USA' }">
+                <li data-bind="click: function() { countryList.setSelectedValue('USA'); }, css: { active: countryList.selectedValue() == 'USA' }" class="active">
                     <span class="full-country-name">United States</span>
                     <span class="short-country-name">USA</span>
                 </li>
-                <li data-bind="click: function() { countryList.setSelectedValue('CAN'); }, css: { active: countryList.selectedValue() == 'CAN' }">
+                <li data-bind="click: function() { countryList.setSelectedValue('CAN'); }, css: { active: countryList.selectedValue() == 'CAN' }" class="">
                     <span class="full-country-name">Canada</span>
                     <span class="short-country-name">CAN</span>
                 </li>
-                <li data-bind="click: function() { countryList.setSelectedValue('PRI'); }, css: { active: countryList.selectedValue() == 'PRI' }">
+                <li data-bind="click: function() { countryList.setSelectedValue('PRI'); }, css: { active: countryList.selectedValue() == 'PRI' }" class="">
                     <span class="full-country-name">Puerto Rico</span>
                     <span class="short-country-name">PRI</span>
                 </li>
             </ul>
-            <div data-bind="visible: autocompleteAreaMode() == autocompleteAreaModeEnum.SUGGESTIONS">
+            <div data-bind="visible: autocompleteAreaMode() == autocompleteAreaModeEnum.SUGGESTIONS" style="display: none;">
                 <div data-bind="text: resultsMessage()" class="auto-complete-area-caption"></div>
-                <div data-bind="visible: autocompleteVariants.length() > 0" class="auto-complete-area-caption">
+                <div data-bind="visible: autocompleteVariants.length() > 0" class="auto-complete-area-caption" style="display: none;">
                     Suggestions:
                 </div>
             </div>
             <div data-bind="visible: isDisplayExamples()" class="search-auto-complete-examples">
                 <ul data-bind="foreach: searchTemplates.currentSearchQueries" class="list-unstyled">
                     <li class="clearfix">
-                        <span class="col-md-6 col-xs-6" data-bind="text: searchQuery"></span>
+                        <span class="col-md-6 col-xs-6" data-bind="text: searchQuery">City, State</span>
                         <span class="col-md-6 col-xs-6">
-                            <a data-bind="text: exampleText, href: exampleUrl, event: { mouseover: $root.onAutocompleteSearchLinkMouseOver, mouseleave: $root.onAutocompleteSearchLinkMouseLeave }, click: function() { return $root.onLinkClick(exampleText) }" class="pull-right"></a>
+                            <a data-bind="text: exampleText, href: exampleUrl, event: { mouseover: $root.onAutocompleteSearchLinkMouseOver, mouseleave: $root.onAutocompleteSearchLinkMouseLeave }, click: function() { return $root.onLinkClick(exampleText) }" class="pull-right">Atlanta, GA</a>
+                        </span>
+                    </li>
+                
+                    <li class="clearfix">
+                        <span class="col-md-6 col-xs-6" data-bind="text: searchQuery">Neighborhood, City, State</span>
+                        <span class="col-md-6 col-xs-6">
+                            <a data-bind="text: exampleText, href: exampleUrl, event: { mouseover: $root.onAutocompleteSearchLinkMouseOver, mouseleave: $root.onAutocompleteSearchLinkMouseLeave }, click: function() { return $root.onLinkClick(exampleText) }" class="pull-right">Adair Park, Atlanta, GA</a>
+                        </span>
+                    </li>
+                
+                    <li class="clearfix">
+                        <span class="col-md-6 col-xs-6" data-bind="text: searchQuery">Zip, State</span>
+                        <span class="col-md-6 col-xs-6">
+                            <a data-bind="text: exampleText, href: exampleUrl, event: { mouseover: $root.onAutocompleteSearchLinkMouseOver, mouseleave: $root.onAutocompleteSearchLinkMouseLeave }, click: function() { return $root.onLinkClick(exampleText) }" class="pull-right">30305, GA</a>
+                        </span>
+                    </li>
+                
+                    <li class="clearfix">
+                        <span class="col-md-6 col-xs-6" data-bind="text: searchQuery">#MLS</span>
+                        <span class="col-md-6 col-xs-6">
+                            <a data-bind="text: exampleText, href: exampleUrl, event: { mouseover: $root.onAutocompleteSearchLinkMouseOver, mouseleave: $root.onAutocompleteSearchLinkMouseLeave }, click: function() { return $root.onLinkClick(exampleText) }" class="pull-right">#5338341</a>
                         </span>
                     </li>
                 </ul>
             </div>
             <div>
-                <ul data-bind="foreach: autocompleteVariants.list, visible: isDisplayAutocompleteVariants(), event: { mouseover: onAutocompleteAreaMouseOver, mouseleave: onAutocompleteAreaMouseLeave }, css: { 'listing-suggestions': $root.isListingsSuggestedByMls() }" class="list-unstyled">
-                    <li data-bind="event: { mouseover: function(data, event) { $root.onAutocompleteVariantMouseOver($index()) }, mouseleave: $root.onAutocompleteVariantMouseLeave }, css: { selected: $root.autocompleteVariants.selectedVariantIndex() == $index() }" class="auto-complete-variant clearfix">
-                        <span class="variant-value col-md-8 col-xs-8">
-                            <a data-bind="href: url, event: { mouseover: $root.onAutocompleteSearchLinkMouseOver, mouseleave: $root.onAutocompleteSearchLinkMouseLeave }, click: function() { return $root.onLinkClick(address.full) }">
-                                <span data-bind="text: address.startPart"></span><span data-bind="text: address.boldPart" class="text-bold"></span>
-                            </a>
-                        </span>
-                        <span data-bind="text: template" class="variant-template col-md-4 col-xs-4"></span>
-                    </li>
-                </ul>
+                <ul data-bind="foreach: autocompleteVariants.list, visible: isDisplayAutocompleteVariants(), event: { mouseover: onAutocompleteAreaMouseOver, mouseleave: onAutocompleteAreaMouseLeave }, css: { 'listing-suggestions': $root.isListingsSuggestedByMls() }" class="list-unstyled" style="display: none;"></ul>
             </div>
         </div>
     </div>
 </div>
                                     <div class="search-btn visible-xs visible-sm index-search-btn">
                                         <button data-bind="click: search, css: { 'in-search-progress': isInSearchProgress() }" type="button " class="form-control">
-                                            <span data-bind="visible: !isInSearchProgress(), css: { 'icon-search-house': isDisplaySearchHomesIcon(), 'icon-search-agent': !isDisplaySearchHomesIcon() }">
+                                            <span data-bind="visible: !isInSearchProgress(), css: { 'icon-search-house': isDisplaySearchHomesIcon(), 'icon-search-agent': !isDisplaySearchHomesIcon() }" class="icon-search-house">
                                             </span>
                                         </button>
                                     </div>
@@ -710,7 +734,7 @@
         <li><a href="http://publishing.realestatebook.com/" target="_blank" data-link-type="RealEstateBook Publishing">Publishing Opportunities</a></li>
     </ul>
     <p class="copyright">
-        © 2014 NewPoint Media Group, LLC. All Rights Reserved.
+        © 2015 NewPoint Media Group, LLC. All Rights Reserved.
         <span class="icon-equal-housing">
             Fair Housing and Equal Opportunity
         </span>
@@ -721,7 +745,8 @@
 <div class="modal-dialog">
     <div class="modal-content">
         <div class="modal-header">
-            <button type="button" class="close icon-close btn-modal-brand" data-dismiss="modal" aria-hidden="true"></button>
+            <button type="button" class="close icon-close btn-modal-brand" data-dismiss="modal" aria-hidden="true">
+            </button>
             <div class="modal-title">
                 <h4 class="text-red text-bold">Contact Agent</h4>
             </div>
@@ -730,16 +755,18 @@
             <div class="nanobar">
                 <div class="bar"></div>
             </div>
-<form action="/api/Lead/ContactAgent" class="form-horizontal lead-form" data-bind="attr: {action: dataUrl()}" id="lead-form" method="post" novalidate="novalidate">                <div data-bind="visible: !multipliedListings().length">
+            <form id="lead-form" class="form-horizontal lead-form" data-bind="submit: submit" novalidate="novalidate">
+                <div data-bind="visible: !multipliedListings().length">
+                    <!-- ko with: customer -->
                     <div class="row form-control-area">
                         <label class="col-md-3 text-uppercase control-label required" for="name-modal">Name</label>
                         <div class="col-md-9">
                             <label class="prepend-input-area input-group">
                                 <span class="icon-name"></span>
-                                <input class="form-control" data-val="true" data-val-csspresent="Please, enter your full name." data-val-csspresent-class="placeholder" data-val-required="Please, enter your full name." id="name-modal" name="Name" placeholder="John Doe" type="text" value="">
+                                <input class="form-control" data-bind="value: name" data-val="true" data-val-csspresent="Please, enter your full name." data-val-csspresent-class="placeholder" data-val-required="Please, enter your full name." id="name-modal" name="Customer.Name" placeholder="John Doe" type="text" value="">
                                 <span class="icon-question" data-content="Your full name."></span>
                             </label>
-                            <span class="field-validation-valid text-danger" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+                            <span class="field-validation-valid text-danger" data-valmsg-for="Customer.Name" data-valmsg-replace="true"></span>
                         </div>
                     </div>
                     <div class="row form-control-area">
@@ -747,26 +774,27 @@
                         <div class="col-md-9">
                             <label class="prepend-input-area input-group">
                                 <span for="Email" class="icon-email-at"></span>
-                                <input class="form-control" data-val="true" data-val-csspresent="Please, enter your email." data-val-csspresent-class="placeholder" data-val-regex="Please, enter valid email." data-val-regex-pattern=".*@.*" data-val-required="Please, enter your email." id="email-modal" name="Email" placeholder="john.doe@example.com" type="text" value="">
+                                <input class="form-control" data-bind="value: email" data-val="true" data-val-csspresent="Please, enter your email." data-val-csspresent-class="placeholder" data-val-regex="Please, enter valid email." data-val-regex-pattern=".*@.*" data-val-required="Please, enter your email." id="email-modal" name="Customer.Email" placeholder="john.doe@example.com" type="text" value="">
                                 <span class="icon-question" data-content="Your email address."></span>
                             </label>
-                            <span class="field-validation-valid text-danger" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                            <span class="field-validation-valid text-danger" data-valmsg-for="Customer.Email" data-valmsg-replace="true"></span>
                         </div>
                     </div>
                     <div class="row form-control-area">
-                        <label class="col-md-3 text-uppercase control-label" for="Phone">Phone</label>
+                        <label class="col-md-3 text-uppercase control-label" for="Customer_Phone">Phone</label>
                         <div class="col-md-9">
                             <label class="prepend-input-area input-group">
                                 <span class="icon-phone"></span>
-                                <input class="form-control" id="Phone" name="Phone" placeholder="Type in your phone number" type="text" value="">
+                                <input class="form-control" data-bind="value: phone" id="Customer_Phone" name="Customer.Phone" placeholder="Type in your phone number" type="text" value="">
                                 <span class="icon-question" data-content="Your phone number."></span>
                             </label>
                         </div>
                     </div>
+                    <!-- /ko -->
                     <div class="row form-control-area">
                         <label class="col-md-3 text-uppercase control-label required" for="Message">Message</label>
                         <div class="col-md-9">
-                            <textarea class="form-control" cols="20" data-bind="value: message()" data-val="true" data-val-csspresent="Please, enter your message." data-val-csspresent-class="placeholder" data-val-required="Please, enter your message." id="Message" name="Message" placeholder="Please, enter your message." rows="4"></textarea>
+                            <textarea class="form-control" cols="20" data-bind="value: message" data-val="true" data-val-csspresent="Please, enter your message." data-val-csspresent-class="placeholder" data-val-required="Please, enter your message." id="Message" name="Message" placeholder="Please, enter your message." rows="4"></textarea>
                             <span class="field-validation-valid text-danger" data-valmsg-for="Message" data-valmsg-replace="true"></span>
                         </div>
                     </div>
@@ -786,10 +814,10 @@
                         <a class="carousel-prev-button icon-arrow-left-circle disabled"></a>
                     </div>
                 </div>
-                <input type="hidden" name="Inquiry" value="0" data-bind="value: inquiry()">
+                <input type="hidden" name="Inquiry" value="0" data-bind="value: inquiry">
                 <div class="row">
                     <div class="col-md-push-3 col-md-6 col-xs-12">
-                        <button type="submit" disabled="" class="btn-bordered-brand btn-block btn lead-submit-btn" data-bind="css: { 'in-lead-progress': isPendingRequest() }">
+                        <button type="submit" disabled="" class="btn-bordered-brand btn-block btn lead-submit-btn" data-bind="css: { 'in-lead-progress': isPendingRequest }, disable: isLoadingData">
                             <span>Submit</span>
                         </button>
                     </div>
@@ -800,18 +828,19 @@
                     <a href="/privacy-policy" target="_blank">
                         privacy policy</a>.
                 </div>
-</form>        </div>
+            </form>
+        </div>
     </div>
 </div>
 
 <script type="text/html" id="ko-lead-agent-template">
-    <li class="carousel-item" data-bind="click: $root.toggleItem">
-        <div class="item" data-bind="css: { selected: isSelected(), pinned: isPinned}">
+    <li class="carousel-item" data-bind="click: $parents[1].toggleItem">
+        <div class="item" data-bind="css: { selected: isSelected, pinned: isPinned}">
             <div class="lead-form-circle-image-wrapper max-image-width margin">
                 <div class="img-circle">
                     <div class="centered-wrapper">
                         <div class="centered">
-                            <img data-bind="image: primaryImage" draggable="false" />
+                            <img data-bind="image: data.image" draggable="false" />
                         </div>
                         <p class="price" data-bind="html: isPinned ? 'Listing&amp;#39;s agent    ' : 'Area expert    '">
                         </p>
@@ -825,17 +854,17 @@
                 </div>
             </div>
             <input type="hidden" data-bind="value: isSelected, attr: { name: 'Agents[' + $index() + '].IsSelected' }" />
-            <input type="hidden" data-bind="value: id, attr: { name: 'Agents[' + $index() + '].Id' }" />
+            <input type="hidden" data-bind="value: data.id, attr: { name: 'Agents[' + $index() + '].Data.Id' }" />
         </div>
     </li>
 </script>
 <script type="text/html" id="ko-lead-listing-template">
-    <li class="carousel-item" data-bind="click: $root.toggleItem">
-        <div class="item" data-bind="css: { selected: isSelected(), pinned: isPinned}">
+    <li class="carousel-item" data-bind="click: $parents[1].toggleItem">
+        <div class="item" data-bind="css: { selected: isSelected, pinned: isPinned}">
             <div class="text-center">
                 <div class="listing-image-wrapper max-image-width margin">
-                    <img data-bind="image: primaryImage" class="img-thumbnail" draggable="false">
-                    <p data-bind="text: price" class="price"></p>
+                    <img data-bind="image: data.image" class="img-thumbnail" draggable="false">
+                    <p data-bind="text: data.price" class="price"></p>
                     <span class="icon-checkbox-round-active"></span>
                 </div>
             </div>
@@ -843,7 +872,7 @@
                 <div class="item-info carousel-item-header text-bold">
                     <span data-bind="text: heading"></span>
                 </div>
-                <div class="listing-prop">
+                <div class="listing-prop" data-bind="with: data">
                     <!-- ko if: saleType -->
                     <span class="property-icon" data-bind="css : saleTypeCss"></span>
                     <!-- /ko -->
@@ -872,9 +901,32 @@
                 </div>
             </div>
             <input type="hidden" data-bind="value: isSelected, attr: { name: 'Listings[' + $index() + '].IsSelected' }" />
-            <input type="hidden" data-bind="value: id, attr: { name: 'Listings[' + $index() + '].Id' }" />
-            <input type="hidden" data-bind="value: agentId, attr: { name: 'Listings[' + $index() + '].AgentId' }" />
+            <input type="hidden" data-bind="value: data.id, attr: { name: 'Listings[' + $index() + '].Data.Id' }" />
+            <input type="hidden" data-bind="value: data.agentId, attr: { name: 'Listings[' + $index() + '].Data.AgentId' }" />
             <input type="hidden" data-bind="value: heading, attr: { name: 'Listings[' + $index() + '].Heading' }" />
+        </div>
+    </li>
+</script>
+<script type="text/html" id="ko-lead-area-expert-template">
+    <li class="carousel-item" data-bind="click: $parents[1].toggleItem">
+        <div class="item" data-bind="css: { selected: isSelected}">
+            <div class="lead-form-circle-image-wrapper max-image-width margin">
+                <div class="img-circle">
+                    <div class="centered-wrapper">
+                        <div class="centered">
+                            <img data-bind="image: data.image" draggable="false" />
+                        </div>
+                    </div>
+                </div>
+                <span class="icon-new-checkbox"></span>
+            </div>
+            <div class="text-center">
+                <div class="item-info">
+                    <div class="carousel-item-header text-bold" data-bind="text: heading"></div>
+                </div>
+            </div>
+            <input type="hidden" data-bind="value: isSelected, attr: { name: 'Agents[' + $index() + '].IsSelected' }" />
+            <input type="hidden" data-bind="value: data.id, attr: { name: 'Agents[' + $index() + '].Data.Id' }" />
         </div>
     </li>
 </script>
@@ -944,19 +996,22 @@
     <script src="http://tracking.listhub.net/scripts/la.min.js" type="text/javascript"> </script>
     <script src="/Scripts/lib-bundle?v=IL3TEm4IWy81YOOczZnHaROz7rRYvfUVKU3pke9nN_c1"></script>
 
-    <script src="/Scripts/app-bundle?v=27Ztl71EvZnjDtFNaafIHj3HIKwjB14z81ZxCukdA0Y1"></script>
+    <script src="/Scripts/app-bundle?v=DC9TDtDBkyf25XNAbpKn1WnBiOFiZj3CuaC7AQuzdx81"></script>
 
 
 
 
 <script type="text/javascript">
     treb.resolve(['app/config', 'app/text'], function(config, text) {
-        text.message('strictCriteriaMessage', 'Sorry, but there are no any results corresponding to your search criteria. Please, try to use less strict search criteria.');
+        text.message('strictCriteriaMessage', 'Sorry, but there are not any results corresponding to your search criteria. Please, try to use less strict search criteria.');
         text.message('ajaxRequestError', 'Sorry, an error occurred while processing your request.');
+        text.message('areaExpertsRequired', 'Please, select at least one area expert to contact.');
         config.setting('enableMobileAppStub', 'true' == 'true');
         config.setting('pencil.frequency', 8);
         config.setting('photoTour.stubUrl', 'http://www.realestatebook.com/Content/Images/Stub/no-listing.png');
         config.setting('mortgage.defaultLtv','0.8');
+        config.setting('AreaExpertsLeadFormUrl', '/api/Lead/AreaExperts');
+        config.setting('MultipliedLeadFormUrl', '/api/Lead/Multiplied');
         config.notify();
     });
 </script>
@@ -996,7 +1051,7 @@
     <script type="text/javascript">
         treb.resolve(['lib/jQuery','app/analytics/google', 'app/widgets/leadForm', 'app/widgets/iTour', 'app/text'],
             function($, ga, leadForm, ITour, text) {
-                leadForm.init({"agents":[],"listings":[],"agentId":0,"listingId":null,"bookNumber":null,"partner":null,"listhubListingKey":null,"name":null,"email":null,"phone":null,"message":null,"inquiry":0}, '/api/Lead/States');
+                leadForm.initPopUp({"listings":[],"agentId":0,"listingId":null,"bookNumber":null,"partner":null,"listhubListingKey":null,"agents":[],"customer":{"name":null,"email":null,"phone":null},"message":null,"inquiry":0});
                 ITour();
                 ga.init('UA-32997079-21');
                 text.message('Txt_AgentLeadFormMessage', 'Hello, I found your profile on RealEstateBook.com. Let`s schedule time for us to talk. Please reply on this email if you are interested. Thank you.');
@@ -1039,7 +1094,7 @@
     <script type="text/javascript">
         treb.resolve(['app/widgets/searchBar'],
             function(SearchBar) {
-                SearchBar({"searchTypeList":[{"selected":true,"text":"Homes","value":"1"},{"selected":false,"text":"Foreclosures","value":"3"},{"selected":false,"text":"Agents","value":"2"}],"countryList":[{"selected":false,"text":"Canada","value":"CAN"},{"selected":false,"text":"Puerto Rico","value":"PRI"},{"selected":true,"text":"United States","value":"USA"}],"searchTemplates":[{"countryCode":"CAN","listingPlaceholder":"Search by City, Province, Postal Code or #MLS","agentPlaceholder":"Search by City, Province","listingTemplates":[{"searchQuery":"City, Province","exampleText":"Toronto, ON","exampleUrl":"http://www.realestatebook.com/homes/can/on/toronto"},{"searchQuery":"Postal Code, Province","exampleText":"P1H 2A6, ON","exampleUrl":"http://www.realestatebook.com/homes/can/on/p1h-2a6"},{"searchQuery":"#MLS","exampleText":"#41352154","exampleUrl":""}],"agentTemplates":[{"searchQuery":"City, Province","exampleText":"Toronto, ON","exampleUrl":"http://www.realestatebook.com/agents/can/on/toronto"}]},{"countryCode":"PRI","listingPlaceholder":"Search by Municipality, Zip or #MLS","agentPlaceholder":"Search by Municipality","listingTemplates":[{"searchQuery":"Municipality","exampleText":"San Juan","exampleUrl":"http://www.realestatebook.com/homes/pri/pr/san-juan"},{"searchQuery":"Zip","exampleText":"00901, PR","exampleUrl":"http://www.realestatebook.com/homes/pri/pr/00901"},{"searchQuery":"#MLS","exampleText":"#158895","exampleUrl":""}],"agentTemplates":[{"searchQuery":"Municipality","exampleText":"San Juan","exampleUrl":"http://www.realestatebook.com/agents/pri/pr/san-juan"}]},{"countryCode":"USA","listingPlaceholder":"Search by City, State or #MLS","agentPlaceholder":"Search by City, State","listingTemplates":[{"searchQuery":"City, State","exampleText":"Atlanta, GA","exampleUrl":"http://www.realestatebook.com/homes/usa/ga/atlanta"},{"searchQuery":"Neighborhood, City, State","exampleText":"Adair Park, Atlanta, GA","exampleUrl":"http://www.realestatebook.com/homes/usa/ga/atlanta/adair-park"},{"searchQuery":"Zip, State","exampleText":"30305, GA","exampleUrl":"http://www.realestatebook.com/homes/usa/ga/30305"},{"searchQuery":"#MLS","exampleText":"#5338341","exampleUrl":""}],"agentTemplates":[{"searchQuery":"City, State","exampleText":"Atlanta, GA","exampleUrl":"http://www.realestatebook.com/agents/usa/ga/atlanta"}]}],"selectedSearchType":1,"selectedCountryCode":"USA","lookupLocation":"","autoCompleteTimerDelay":500,"isAutoCompleteAreaDisplayAfterFocus":false},
+                SearchBar({"searchTypeList":[{"selected":true,"text":"Homes","value":"1"},{"selected":false,"text":"Foreclosures","value":"3"},{"selected":false,"text":"Agents","value":"2"}],"countryList":[{"selected":false,"text":"Canada","value":"CAN"},{"selected":false,"text":"Puerto Rico","value":"PRI"},{"selected":true,"text":"United States","value":"USA"}],"searchTemplates":[{"countryCode":"CAN","listingPlaceholder":"Search by City, Province or Postal Code or #MLS","agentPlaceholder":"Search by City, Province","listingTemplates":[{"searchQuery":"City, Province","exampleText":"Toronto, ON","exampleUrl":"http://www.realestatebook.com/homes/can/on/toronto"},{"searchQuery":"Postal Code, Province","exampleText":"P1H 2A6, ON","exampleUrl":"http://www.realestatebook.com/homes/can/on/p1h-2a6"},{"searchQuery":"#MLS","exampleText":"#41352154","exampleUrl":""}],"agentTemplates":[{"searchQuery":"City, Province","exampleText":"Toronto, ON","exampleUrl":"http://www.realestatebook.com/agents/can/on/toronto"}]},{"countryCode":"PRI","listingPlaceholder":"Search by Municipality or Zip or #MLS","agentPlaceholder":"Search by Municipality","listingTemplates":[{"searchQuery":"Municipality","exampleText":"San Juan","exampleUrl":"http://www.realestatebook.com/homes/pri/pr/san-juan"},{"searchQuery":"Zip","exampleText":"00901, PR","exampleUrl":"http://www.realestatebook.com/homes/pri/pr/00901"},{"searchQuery":"#MLS","exampleText":"#158895","exampleUrl":""}],"agentTemplates":[{"searchQuery":"Municipality","exampleText":"San Juan","exampleUrl":"http://www.realestatebook.com/agents/pri/pr/san-juan"}]},{"countryCode":"USA","listingPlaceholder":"Search by City, State or Zip or #MLS","agentPlaceholder":"Search by City, State","listingTemplates":[{"searchQuery":"City, State","exampleText":"Atlanta, GA","exampleUrl":"http://www.realestatebook.com/homes/usa/ga/atlanta"},{"searchQuery":"Neighborhood, City, State","exampleText":"Adair Park, Atlanta, GA","exampleUrl":"http://www.realestatebook.com/homes/usa/ga/atlanta/adair-park"},{"searchQuery":"Zip, State","exampleText":"30305, GA","exampleUrl":"http://www.realestatebook.com/homes/usa/ga/30305"},{"searchQuery":"#MLS","exampleText":"#5338341","exampleUrl":""}],"agentTemplates":[{"searchQuery":"City, State","exampleText":"Atlanta, GA","exampleUrl":"http://www.realestatebook.com/agents/usa/ga/atlanta"}]}],"selectedSearchType":1,"selectedCountryCode":"USA","lookupLocation":"","autoCompleteTimerDelay":500,"isAutoCompleteAreaDisplayAfterFocus":false},
                     '/api/Search/SearchFromBar',
                     '/api/Search/GetSearchAutocompleteVariants');
             });
