@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the bayareafastrak.org privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031114601id_/https%3A//www.bayareafastrak.org/vector/static/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayareafastrak.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316233216id_/https%3A//www.bayareafastrak.org/en/support/privacy.shtml) for the most accurate reproduction.*
 
 # FasTrak® - Keeping the Bay Area Moving
 
-* * *
-
 #### The effective date of this Privacy Policy is December 15, 2010
 
-Last updated January 23, 2013
+**Last Updated September 29, 2014**
 
 #### Overview
 
 The Bay Area Toll Authority (BATA) is committed to ensuring customer privacy and security. Specifically: (1) BATA will not provide personally identifiable information ("PII") from FasTrak® , License Plate, or One-Time Payment Accounts (collectively referred to herein as "Accounts"), or, in the case of the Golden Gate Bridge, obtained as a result of a customer's use of post-paid license plate toll invoices to pay his or her tolls ("Invoices") to any third party without express customer consent, except as described in this Privacy Policy; (2) such PII will never be provided to advertisers for their use; and (3) BATA will maintain a secure environment for customer PII.
 
-This Privacy Policy is intended to provide an understanding of how BATA handles PII collected by the FasTrak®, License Plate, or One-Time Payment Account programs or as a result of a customer's use of Invoices. Among other things, this policy explains the types of information collected from customers; the third parties with whom BATA may share this information; and the process by which customers are notified about material changes to this Policy.
+This Privacy Policy is intended to provide an understanding of how BATA handles PII collected by the FasTrak®, License Plate, or One-Time Payment Account programs or as a result of a customer's use of Invoices. Among other things, this policy explains the types of information collected from customers; the third parties with whom BATA may share this information; and the process by which customers are notified about material changes to this Policy. 
 
-BATA's contractor, Xerox State and Local Solutions, Inc. ("Xerox") operates the FasTrak® Customer Service Center ("CSC") on behalf of BATA. BATA oversees Xerox. FasTrak®'s [terms and conditions](https://www.bayareafastrak.org/vector/static/about/terms-print.html), License Plate Account [terms and conditions](http://www.bayareafastrak.org:11443/vector/dynamic/signup/videosignup.shtml), and One-Time Payment Account [terms and conditions](http://www.bayareafastrak.org:11443/vector/dynamic/signup/OTPsignup.shtml) notify customers that by enrolling in the FasTrak® Account, License Plate Account, or One-Time Payment Account programs and using the system, the customer is allowing BATA, its contractor, Xerox, and other third parties referenced herein, to process PII according to the provisions set forth in those documents and this Privacy Policy.
+BATA's contractor, Xerox State and Local Solutions, Inc. ("Xerox") operates the FasTrak® Customer Service Center ("CSC") on behalf of BATA. BATA oversees Xerox. FasTrak®'s [terms and conditions](https://web.archive.org/web/20150316233216id_/https%3A//www.bayareafastrak.org/en/images/ApplicationandLicenseAgreement.pdf), License Plate Account [terms and conditions](https://web.archive.org/web/20150316233216id_/https%3A//www.bayareafastrak.org/en/images/LP_LicenseAgreement.pdf), and One-Time Payment Account [terms and conditions](https://web.archive.org/web/20150316233216id_/https%3A//www.bayareafastrak.org/en/images/One-TimePaymentAgreement.pdf) notify customers that by enrolling in the FasTrak® Account, License Plate Account, or One-Time Payment Account programs and using the system, the customer is allowing BATA, its contractor, Xerox, and other third parties referenced herein, to process PII according to the provisions set forth in those documents and this Privacy Policy.
 
-#### Definitons
+#### Definitions
 
 The following definitions apply:
 
-**Personally Identifiable Information (PII):** PII identifies or describes a person or can be directly linked to a specific individual. Examples of PII include but are not limited to: a person's name, mailing address, business name, alternate contact information, e-mail address, fax number, toll tag number(s), Account number(s), license plate number(s) and state(s) of registration, vehicle make(s), model(s), year(s) , telephone number(s), credit-card number(s), security code(s) and expiration date(s), and Travel Pattern Data.
+**Personally Identifiable Information (PII):** PII identifies or describes a person or can be directly linked to a specific individual. Examples of PII include but are not limited to: a person's name, mailing address, business name, alternate contact information, e-mail address, fax number, toll tag number(s), Account number(s), license plate number(s) and state(s) of registration, vehicle make(s), model(s), year(s), telephone number(s), credit-card number(s), security code(s) and expiration date(s), and Travel Pattern Data. 
 
-**Travel Pattern Data:** A FasTrak® customer's toll tag number or License Plate or One-Time Payment Account customer's license plate number, as appropriate, is collected, in addition to the number of vehicle axles, as he or she drives through a toll booth to record the transaction and calculate the toll. The tag number, or license plate number, in conjunction with the toll booth location constitutes a customer's Travel Pattern Data. For those customers using Invoices for payment, Travel Pattern Data is collected the same way as for License Plate or One-time Payment Accounts.
+**Travel Pattern Data:** A FasTrak® customer's toll tag number or License Plate or One-Time Payment Account customer's license plate number, as appropriate, is collected, in addition to the number of vehicle axles, as he or she drives through a toll booth to record the transaction and calculate the toll. The tag number, or license plate number, in conjunction with the toll booth location constitutes a customer's Travel Pattern Data. For those customers using Invoices for payment, Travel Pattern Data is collected the same way as for License Plate or One-time Payment Accounts. For those FasTrak® customers who participate in the San Francisco International Airport (SFO) Parking Program, the dates and times when the customer enters and exits the SFO Parking Garage through a FasTrak® equipped entry and exit lane as well as the specific parking garage utilized also constitute Travel Pattern Data. 
 
 **Aggregate Data or Aggregate Information:** Aggregate data or information is statistical information that is derived from collective data that relates to a group or category of persons from which PII has been removed. Aggregate data reflects the characteristics of a large group of anonymous people. BATA may use aggregate data and provide aggregate data to others for such things as generating statistical reports for the purpose of managing program operations for Accounts and Invoices.
 
@@ -48,21 +46,21 @@ For those patrons who do not pre-establish a FasTrak® Account, License Plate Ac
 
 #### Collection of Personally Identifiable Information
 
-BATA collects PII, including some or all of the following during the Account registration process: name, business name, mailing address(es), e-mail address, telephone number(s), fax number, signature (electronic or hard copy), license plate number(s) and state(s) of registration, vehicle make(s), model(s), year(s), credit card number(s), expiration date(s), and security code(s). After registration and a FasTrak® toll tag has been assigned to a customer or a License Plate or One-time Payment Account has been associated with a license plate number, the toll tag or license plate number, as applicable, and Travel Pattern Data is collected as a customer drives through a toll booth to record the transaction. If a customer uses Invoices for payment (Golden Gate Bridge only), that customer's license plate number and Travel Pattern Data is collected as he or she drives through a toll booth to record the transaction. BATA then obtains the identity of the vehicle's registered owner and address for purposes of mailing an invoice to collect the toll. 
+BATA collects PII, including some or all of the following during the Account registration process: name, business name, mailing address(es), e-mail address, telephone number(s), fax number, signature (electronic or hard copy), license plate number(s) and state(s) of registration, vehicle make(s), model(s), year(s), credit card number(s), expiration date(s), and security code(s). After registration and a FasTrak® toll tag has been assigned to a customer or a License Plate or One-time Payment Account has been associated with a license plate number, the toll tag or license plate number, as applicable, and Travel Pattern Data is collected as a customer drives through a toll booth to record the transaction. If a customer uses Invoices for payment (Golden Gate Bridge only), that customer's license plate number and Travel Pattern Data is collected as he or she drives through a toll booth to record the transaction. BATA then obtains the identity of the vehicle's registered owner and address for purposes of mailing an invoice to collect the toll.
 
 #### How BATA uses Personally Identifiable Information
 
-BATA uses the PII provided in order to effectively and efficiently process enrollments, manage accounts, collect payments, respond to questions, send customer e-mails about Account and Invoices program updates, provide information regarding significant changes to this Privacy Policy, and otherwise communicate with customers. 
+BATA uses the PII provided in order to effectively and efficiently process enrollments, manage accounts, collect payments, respond to questions, send customer e-mails about Account and Invoices program updates, provide information regarding significant changes to this Privacy Policy, and otherwise communicate with customers.
 
-BATA may also obtain information about a customer from other sources, such as the California Department of Motor Vehicles ("DMV"), to pursue unpaid amounts due or to send an invoice to a customer paying tolls through Invoices.
+BATA may also obtain information about a customer from other sources, such as the California Department of Motor Vehicles ("DMV"), to pursue unpaid amounts due or to send an invoice to a customer paying tolls through Invoices. In addition, where a credit card number is associated with a customer's FasTrak® Account, BATA, through its CSC Contractor, will attempt to update the expiration date before the credit card expires by obtaining such information from BATA's credit card processing contractor. Further, if you participate in the SFO Parking Program, BATA obtains the dates and times when the customer enters and exits the SFO Parking Garage through a FasTrak® equipped entry and exit lane as well as the specific parking garage utilized from SFO.
 
 PII is only utilized as described in this Privacy Policy.
 
 #### Third Parties with Whom BATA May Share Personally Identifiable Information
 
-BATA may share PII with the Golden Gate Bridge Highway and Transportation District for the purpose of managing FasTrak® and other electronic toll collection operations (i.e. License Plate Accounts, One-Time Payment Accounts and Invoices). BATA may also share PII with other toll agencies within the State of California for the purpose of managing FasTrak® operations.
+BATA may share PII with the Golden Gate Bridge Highway and Transportation District for the purpose of managing FasTrak® and other electronic toll collection operations (i.e. License Plate Accounts, One-Time Payment Accounts and Invoices). BATA may also share PII with other toll agencies within the State of California for the purpose of managing FasTrak® operations. If you participate in the SFO Parking Program to pay parking fees, BATA will share your FasTrak® toll tag number with SFO for the purpose of operating the SFO Parking Program. In addition, BATA may share PII with SFO as necessary to resolve customer disputes.
 
-In addition, BATA hires third-party service providers for the purpose of operating the FasTrak® and other electronic toll collection programs referenced above, such as managing Accounts, collecting revenues due, and providing remote walk-in locations at which FasTrak®, License Plate, Account, One-time Payment Account, and Invoices customers can pay tolls in cash. The CSC Contractor, Xerox, which may need to share PII with subcontractors to perform credit card processing and mailing services, is one such service provider. These contractors are provided only with the PII they need to deliver the services. BATA requires the service providers to maintain the confidentiality of the information and to use it only as necessary to carry out their duties under the FasTrak® and other electronic toll collection programs mentioned in this Privacy Policy.
+In addition, BATA hires third-party service providers for the purpose of operating the FasTrak® and other electronic toll collection programs referenced above, such as managing Accounts, collecting revenues due, and providing remote walk-in locations at which FasTrak®, License Plate, Account, One-time Payment Account, and Invoices customers can pay tolls in cash. The CSC Contractor, Xerox, which may need to share PII with subcontractors to enable credit card processing and mailing services, is one such service provider. These contractors are provided only with the PII they need to deliver the services. BATA requires the service providers to maintain the confidentiality of the information and to use it only as necessary to carry out their duties under the FasTrak® and other electronic toll collection programs mentioned in this Privacy Policy.
 
 Besides these entities, PII will not be disclosed to any other third party without express customer consent, except as required to comply with laws or legal processes served on BATA.
 
@@ -72,14 +70,14 @@ BATA, through its CSC Contractor, Xerox, shall only store the PII of a customer 
 
 #### Security of FasTrak® Personally Identifiable Information
 
-BATA is committed to the security of customer PII. BATA, together with its CSC Contractor, Xerox, stores the PII provided by customers on computer servers that are located in secure, controlled facilities. Servers are designed with software, hardware and physical security measures in place to prevent unauthorized access. 
+BATA is committed to the security of customer PII. BATA, together with its CSC Contractor, Xerox, stores the PII provided by customers on computer servers that are located in secure, controlled facilities. Servers are designed with software, hardware and physical security measures in place to prevent unauthorized access.
 
-Access to PII is controlled through the following administrative, technical, and physical security measures. By contract, third parties with whom BATA shares PII are also required to implement adequate security measures to maintain the confidentiality of such information.
+Access to PII is controlled through the following administrative, technical, and physical security measures. By contract, third parties with whom BATA shares PII are also required to implement adequate security measures to maintain the confidentiality of such information. 
 
 #### Administrative:
 
   * Access to PII is limited only to certain operations and technical employees for limited, approved purposes based on their specific work responsibilities.
-  * Privacy and security training is required for employees with access to PII, upon hire. In addition, regular periodic refresher training is required for those employees.
+  * Privacy and security training is required for employees with access to PII, upon hire. In addition, regular periodic refresher training is required for those employees. 
 
 
 
@@ -104,19 +102,15 @@ Access to PII is controlled through the following administrative, technical, and
 
 In addition to BATA's policies and procedures implementing PII security, the customer must also do such things as safeguard passwords, PINs, and other authentication information that may be used to access Accounts. Customers should not disclose authentication information to any third party and should notify BATA of any unauthorized use of their passwords. BATA cannot secure PII that is released by customers or PII that customers request BATA to release. In addition, there is a risk that unauthorized third parties may engage in illegal activity by such things as hacking into BATA's security system or the CSC Contractor, Xerox's, security system or by intercepting transmissions of personal information over the Internet. BATA is not responsible for any data obtained in an unauthorized manner.
 
-Please note that the CSC Contractor, Xerox, will never ask customers to provide or confirm any information in connection with Accounts, such as credit card number, toll tag number, or other PII by email, unless the customer is logged into the secure FasTrak® customer website. If a customer ever has any doubt about the authenticity of an email regarding Accounts, the customer should open a new web browser, type in [http://www.bayareafastrak.org](https://www.bayareafastrak.org/vector/index.shtml), click on "my Account," log into his or her account, and then perform the requested activity.
+Please note that the CSC Contractor, Xerox, will never ask customers to provide or confirm any information in connection with Accounts, such as credit card number, toll tag number, or other PII by email, unless the customer is logged into the secure FasTrak® customer website. If a customer ever has any doubt about the authenticity of an email regarding Accounts, the customer should open a new web browser, type in [www.bayareafastrak.org](https://www.bayareafastrak.org/), click on "my Account," log into his or her account, and then perform the requested activity.
 
-#### Account access and controls
+#### Account Access and Controls
 
-Creating a FasTrak® Account, License Plate Account, or One-time Payment Account is at the customer's discretion. The account information consists of PII such as name, business name mailing address(es), email address, telephone number(s), fax number, signature, license plate number(s) and state(s) of registration, vehicle make(s), model(s), year(s), and credit card number(s), expiration date(s) and security code(s). Account creation forms indicate where information is optional. 
+Creating a FasTrak® Account, License Plate Account, or One-time Payment Account is at the customer's discretion. The account information consists of PII such as name, business name mailing address(es), email address, telephone number(s), fax number, signature, license plate number(s) and state(s) of registration, vehicle make(s), model(s), year(s), and credit card number(s), expiration date(s) and security code(s). Account creation forms indicate where information is optional.
 
-Customers can review and update PII at any time. Customers are able to modify any required account information (other than name), as well as modify, add, or delete any optional account information by signing into their account or calling the CSC to edit the account profile. Account customers can also update their PII by electronically submitting a comment form found on the "Contact Us" page at [www.bayareafastrak.org](https://www.bayareafastrak.org/vector/index.shtml) or by telephoning the CSC at (877) BAY-TOLL or 1-877-229-8655. PII can also be reviewed and edited online as discussed below under "Updating Personally Identifiable Information."
+Customers can review and update PII at any time. Customers are able to modify any required account information (other than name), as well as modify, add, or delete any optional account information by signing into their account or calling the CSC to edit the account profile. Account customers can also update their PII by electronically submitting a comment form found on the "Contact Us" page at www.bayareafastrak.org or by telephoning the CSC at (877) BAY-TOLL or 1-877-229-8655. PII can also be reviewed and edited online as discussed below under "Updating Personally Identifiable Information."
 
-Customers can close their account at any time by submitting a completed [account closure form](https://www.bayareafastrak.org/vector/static/forms/docs/account_closure.pdf). All account information will be deleted no later than 4 years and 6 months after the account is closed or terminated and all outstanding amounts due are paid, including resolution of all toll violations, if applicable.
-
-#### Other Uses of FasTrak® Account Toll Tag Data
-
-The Metropolitan Transportation Commission (MTC) / 511.org operates a traffic data collection system based on FasTrak® toll tags to provide better information about the transportation network to Bay Area travelers, transportation managers, and transportation planners through the 511 Driving Times (SM) service. Encryption software is used to mask each toll tag identification number to ensure that toll tag information is treated anonymously in the traffic data collection process. No FasTrak® Account customer PII is shared by BATA, or its third-party contractors, with MTC for 511 Driving Times (SM). Further, a customer has the option not to have his or her toll tag identification number read by the data collection system by placing the transponder in the mylar bag that comes with the transponder. For more information on the 511 Driving Times(SM) service, please refer to [www.511.org](http://www.511.org/).
+Customers can close their account at any time by submitting a completed [account closure form](https://web.archive.org/web/20150316233216id_/https%3A//www.bayareafastrak.org/en/images/account_closure.pdf). All account information will be deleted no later than 4 years and 6 months after the account is closed or terminated and all outstanding amounts due are paid, including resolution of all toll violations, if applicable.
 
 #### Aggregate Data
 
@@ -124,9 +118,9 @@ BATA may combine the PII provided by customers in a non-identifiable format with
 
 #### Cookies
 
-The FasTrak® website ([www.bayareafastrak.org](https://www.bayareafastrak.org/vector/index.shtml)) stores "cookies" on the computer systems of users of the website. Cookies are small data elements that a website can store on a user's system. The cookies used by the FasTrak® web site facilitate a customer's use of the website (e.g. by remembering login names and passwords until a session has ended). The FasTrak® web site does not require that users of the website accept these cookies. Also, the FasTrak® web site does not store "third party" cookies on the computer systems of users of the website.
+The FasTrak® website (www.bayareafastrak.org) stores "cookies" on the computer systems of users of the website. Cookies are small data elements that a website can store on a user's system. The cookies used by the FasTrak® web site facilitate a customer's use of the website (e.g. by remembering login names and passwords until a session has ended). The FasTrak® web site does not require that users of the website accept these cookies. Also, the FasTrak® web site does not store "third party" cookies on the computer systems of users of the website.
 
-Once you leave the FasTrak® website, the privacy policy of other web sites you visit or link to from the FasTrak® website should also be reviewed to understand how these external sites utilize cookies and how the information that is collected through the use of cookies on these websites is utilized.
+Once you leave the FasTrak® website, the privacy policy of other web sites you visit or link to from the FasTrak® website should also be reviewed to understand how these external sites utilize cookies and how the information that is collected through the use of cookies on these websites is utilized. 
 
 BATA does not knowingly engage in business with any company or vendor that uses Spyware or Malware. BATA does not market detailed information collected from web sessions that can be directly tied to personal information. Further, BATA does not provide customers with downloadable software that collects or utilizes any PII.
 
@@ -134,11 +128,11 @@ BATA does not knowingly engage in business with any company or vendor that uses 
 
 The FasTrak® website contains links to third-party websites operated by entities that are affiliated with FasTrak®. These web links may be referenced within content, or placed beside the names or logos of the other entities. BATA does not disclose PII to these third-party websites.
 
-**WARNING: _Once you enter external websites (whether through a service or content link), BATA is not responsible for the privacy practices of those other websites._** Please review all privacy policies of external websites you may link to through our website, before providing any information to such other websites.
+**WARNING: _Once you enter external websites (whether through a service or content link), BATA is not responsible for the privacy practices of those other websites._** Please review all privacy policies of external websites you visit from links on the FasTrak® website, before using or providing any information to such other websites.
 
 #### Updating Personally Identifiable Information
 
-PII can be reviewed and edited online at [http://www.bayareafastrak.org/dynamic/accounts/index.shtml](https://www.bayareafastrak.org/vector/dynamic/accounts/index.shtml). The FasTrak® website uses functions that have the ability to collect and store self-reported data. These functions enable customers to revise, update or review information that has been previously submitted by going back to the applicable function, logging-in and making the desired changes. In addition to this method, FasTrak® Account and License Plate Account customers who have not registered online may update their PII by electronically submitting a comment form found under the "Contact Us" Bar of the FasTrak® website to the CSC or by telephoning the CSC at (877) BAY-TOLL or 1-877-229-8655.
+PII can be reviewed and edited online at [http://www.bayareafastrak.org/vector/account/home/accountLogin.do](https://web.archive.org/web/20150316233216id_/https%3A//www.bayareafastrak.org/en/routers/my_account.html). The FasTrak® website uses functions that have the ability to collect and store self-reported data. These functions enable customers to revise, update or review information that has been previously submitted by going back to the applicable function, logging-in and making the desired changes. In addition to this method, FasTrak® Account and License Plate Account customers who have not registered online may update their PII by electronically submitting a comment form found under the “Contact Us” Bar of the FasTrak® website to the CSC or by telephoning the CSC at (877) BAY-TOLL or 1-877-229-8655.
 
 Complaints or problems regarding updating personal information should be submitted via the comment form. The FasTrak® CSC will either resolve the issue or forward the complaint to an appropriate BATA staff member for a response or resolution. BATA strives to answer all queries within 48 business hours, but it may not always be feasible to do so.
 
@@ -152,9 +146,9 @@ Or call: 510-817-5700
 
 #### Changes to this Privacy Policy
 
-Material Changes − BATA will inform customers if material changes are made to this Privacy Policy, in particular, changes that expand the permissible uses or disclosures of PII allowed by the prior version of the Privacy Policy. If BATA makes material changes to this Privacy Policy, BATA will notify customers by means of posting a conspicuous notice on the FasTrak® website that material changes have been made. 
+Material Changes – BATA will inform customers if material changes are made to this Privacy Policy, in particular, changes that expand the permissible uses or disclosures of PII allowed by the prior version of the Privacy Policy. If BATA makes material changes to this Privacy Policy, BATA will notify customers by means of posting a conspicuous notice on the FasTrak® website that material changes have been made.
 
-Immaterial Changes − BATA may also make non-substantive changes to the Privacy Policy, such as those that do not affect the permissible uses or disclosures of PII. In these instances, BATA may not post a special notice on the FasTrak® website. 
+Immaterial Changes – BATA may also make non-substantive changes to the Privacy Policy, such as those that do not affect the permissible uses or disclosures of PII. In these instances, BATA may not post a special notice on the FasTrak® website.
 
 If BATA decides to make any change to this Privacy Policy, material or immaterial, BATA will post the revised policy on the FasTrak® website, along with the date of any amendment. 
 
@@ -214,4 +208,16 @@ January 23, 2013
 
 | 
 
-Revisions to address License Plate Accounts, One-Time Payment Accounts and use of Post-paid License Plate Toll Invoices, update name of CSC Contractor, and make other clarifications
+Revisions to address License Plate Accounts, One-Time Payment Accounts and use of Post-paid License Plate Toll Invoices, update name of CSC Contractor, and make other clarifications  
+  
+May 21, 2014
+
+| 
+
+Revisions to address obtaining updates to credit card expiration dates from BATA's credit card processing contractor for FasTrak® Accounts, to delete Other Uses of FasTrak® Account Toll Tag Data for 511 Driving Times Service as this use no longer exists, and to make other clarifications  
+  
+September 29, 2014
+
+| 
+
+Revisions to address SFO Parking Program
