@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currencyc.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731012131id_/http%3A//www.currencyc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currencyc.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316035945id_/https%3A//www.currencyc.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.currencyc.com
 
@@ -40,4 +40,4 @@ and other websites in order to provide advertisements about goods and services o
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, 
 
-[click here](http://www.google.com/adsense)
+[click here](https://www.google.com/adsense)
