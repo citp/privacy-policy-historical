@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxmind.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702212127id_/https%3A//www.maxmind.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxmind.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316164137id_/https%3A//www.maxmind.com/en/privacy_policy) for the most accurate reproduction.*
 
 # MaxMind - Privacy Policy
 
@@ -12,7 +12,7 @@ This Privacy Policy applies to the MaxMind.com website and any features and onli
 
 This Privacy Policy also does not cover how MaxMind customers may treat your information as the use of your information by such parties is governed by the privacy policies of such parties and is not subject to MaxMind's control.
 
-MaxMind is a participant in the US-EU Safe Harbor program of the United States Department of Commerce and the European Union Commission, as well as the Safe Harbor program of the United States and the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland (together, the "Safe Harbors"). Information on the Safe Harbors is available at [export.gov/safeharbor](http://export.gov/safeharbor). As a part of MaxMind's participation in the Safe Harbors, data collected from individuals or entities within the European Economic Area (namely, the 27 states of the EU, as well as Iceland, Liechtenstein, and Norway, collectively the "EEA") or Switzerland, shall receive separate treatment under certain provisions of this Privacy Policy. The term "EU/Swiss Data" shall mean, for purposes of this Privacy Policy, any Personally Identifiable Information (as defined in Section 3, below) that originates within the EEA or Switzerland and is transferred to the United States from the EEA or Switzerland. MaxMind offers to owners of EU/Swiss Data assurances that it complies with various privacy principles embodied in the European Union Directive 95/46/EC (the "EU Data Directive") and the Swiss Federal Act on Data Protection (the "FADP"). In particular, the privacy principles to which MaxMind adheres for all EU/Swiss Data are as follows:
+MaxMind is a participant in the US-EU Safe Harbor program of the United States Department of Commerce and the European Union Commission, as well as the Safe Harbor program of the United States and the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland (together, the "Safe Harbors"). Information on the Safe Harbors is available at [export.gov/safeharbor](http://export.gov/safeharbor/). As a part of MaxMind's participation in the Safe Harbors, data collected from individuals or entities within the European Economic Area (namely, the 27 states of the EU, as well as Iceland, Liechtenstein, and Norway, collectively the "EEA") or Switzerland, shall receive separate treatment under certain provisions of this Privacy Policy. The term "EU/Swiss Data" shall mean, for purposes of this Privacy Policy, any Personally Identifiable Information (as defined in Section 3, below) that originates within the EEA or Switzerland and is transferred to the United States from the EEA or Switzerland. MaxMind offers to owners of EU/Swiss Data assurances that it complies with various privacy principles embodied in the European Union Directive 95/46/EC (the "EU Data Directive") and the Swiss Federal Act on Data Protection (the "FADP"). In particular, the privacy principles to which MaxMind adheres for all EU/Swiss Data are as follows:
 
 ## Notice
 
@@ -183,8 +183,8 @@ If you have any questions or complaints about this Privacy Policy, or you wish t
 Jason Ketola (Privacy Agent)  
 Legal Department  
 MaxMind, Inc.  
-24 Crescent Street, Suite 301  
-Waltham, MA 02453  
+14 Spring Street, 3rd Floor  
+Waltham, MA 02451  
 U.S.A.
 
 If you are an individual residing within the EEA and you wish to lodge a dispute resolution proceeding in relation to a request that you have first made in good faith with us but found to be unsatisfactorily resolved, you may file a complaint online at <https://www.auto.bbb.org/EU-Safe-Harbor-Complaint-Form>  or by sending your complaint to the following address:
