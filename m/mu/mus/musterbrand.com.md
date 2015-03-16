@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musterbrand.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703081121id_/https%3A//www.musterbrand.com/custom/index/sCustom/45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musterbrand.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316092858id_/https%3A//www.musterbrand.com/custom/index/sCustom/45) for the most accurate reproduction.*
 
 # Privacy policy | Musterbrand Store
 
@@ -53,6 +53,10 @@ Our Web site uses Google Analytics, a Web analytics service of Google, Inc. The 
 
 More information: [http://www.google.de/intl/de/analytics/privacyoverview.html](http://www.google.de/intl/de/analytics/privacyoverview.html)
 
+**Mouseflow**
+
+This site uses Mouseflow web analytics service. The service may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website, except text in password fields. Mouseflow does not collect personally identifiable information that you do not voluntarily enter in this website. Mouseflow does not track your browsing habits across other web sites or text inputted in password fields. For more information see Mouseflow’s Privacy Policy at [http://mouseflow.com/privacy/.](http://mouseflow.com/privacy/) If you want to disable Mouseflow on your browser visit: <http://mouseflow.com/opt-out/>
+
 **xplusone [x+1]**
 
 Our Web site uses [x+1], a Web analytics service of [x+1], Inc. The "cookies" set by [x+1] transmit information about the usage of our Web site to a [x+1] server in the United States, where it is stored. [x+1] uses this information to evaluate your use of our Web site, to prepare reports about Web site activity for the operators of the Web site, and to provide additional services associated with Web site usage and Internet usage. Insofar as legally required or insofar as third parties process this data at [x+1]'s request, [x+1] will also provide this information to those third parties. Data is used in anonymised or pseudonymised form. You can prevent data collection by [x+1] by opting out through the following website: [http://www.xplusone.net/privacy-2/](http://www.xplusone.net/privacy-2/)
@@ -61,9 +65,9 @@ More information: [http://www.xplusone.net/privacy/](http://www.xplusone.net/pr
 
 **Criteo**
 
-Our Web site uses Criteo, a Web analytics service of Criteo GmbH. The "cookies" set by Criteo transmit information about the usage of our Web site to a Criteo server, where it is stored. Criteo uses this information to evaluate your use of our Web site, to prepare reports about Web site activity for the operators of the Web site, and to provide additional services associated with Web site usage and Internet usage. Insofar as legally required or insofar as third parties process this data at Criteo's request, Criteo will also provide this information to those third parties. Data is used in anonymised or pseudonymised form. You can prevent data collection by Criteo by opting out through the following website: [](http://www.xplusone.net/privacy-2/)<http://www.criteo.com/en/privacy-policy>
+Our Web site uses Criteo, a Web analytics service of Criteo GmbH. The "cookies" set by Criteo transmit information about the usage of our Web site to a Criteo server, where it is stored. Criteo uses this information to evaluate your use of our Web site, to prepare reports about Web site activity for the operators of the Web site, and to provide additional services associated with Web site usage and Internet usage. Insofar as legally required or insofar as third parties process this data at Criteo's request, Criteo will also provide this information to those third parties. Data is used in anonymised or pseudonymised form. You can prevent data collection by Criteo by opting out through the following website: [ ](http://www.xplusone.net/privacy-2/)<http://www.criteo.com/en/privacy-policy>
 
-More information: [](http://www.xplusone.net/privacy/)<http://www.criteo.com/en/privacy-policy>
+More information: [ ](http://www.xplusone.net/privacy/)<http://www.criteo.com/en/privacy-policy>
 
 **Facebook**
 
