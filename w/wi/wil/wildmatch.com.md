@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildmatch.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805020111id_/http%3A//wildmatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildmatch.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316130431id_/http%3A//wildmatch.com/privacy-policy) for the most accurate reproduction.*
 
 # WildMatch - Meet ID verified sex seekers online for chat and more - Privacy Policy
 
