@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628200836id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316094656id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Mobiles.co.uk privacy policy
 
@@ -9,7 +9,7 @@
 
 ## All about privacy and cookies
 
-Mobiles.co.uk, a trading division of The Carphone Warehouse ("we", "us", "our"") are committed to protecting and respecting your privacy.
+Mobiles.co.uk, a trading division of The Carphone Warehouse Limited ("we", "us", "our"", are committed to protecting and respecting your privacy.
 
 This summary, together with our full privacy policy and terms of use (which can be found [here](http://media.mobiles.co.uk/images/mobiles.co.uk/whitelabel-shared-files/terms-conditions-19-04-2012.pdf "Terms and Conditions")) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -96,7 +96,7 @@ We use the information held about you in the following ways:
 
 
 
-You will also have the opportunity to consent to us contacting you by post, e-mail, phone, SMS or MMS from time to time occasionally about products and services which the Carphone Warehouse Group of companies and carefully selected third parties believe may be of interest to you. The Carphone Warehouse Group consists of The Carphone Warehouse Limited, together with its subsidiary and holding companies and any subsidiaries of such holding companies whether direct or indirect from time to time, including Best Buy Co. Inc. and its affiliates and subsidiary companies from time to time.
+You will also have the opportunity to consent to us contacting you by post, e-mail, phone, SMS or MMS from time to time occasionally about products and services which the Dixons Carphone plc. of companies and carefully selected third parties believe may be of interest to you. Dixons Carphone plc. consists of The Carphone Warehouse Limited, together with its subsidiary and holding companies and any subsidiaries of such holding companies whether direct or indirect from time to time, including Best Buy Co. Inc. and its affiliates and subsidiary companies from time to time.
 
 If you are an existing customer, we may also contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
@@ -104,7 +104,7 @@ If you do not want us to use your data in this way please call us on 0871 220 35
 
 ### Disclosure of your information
 
-We may disclose your personal information to any member of the Carphone Warehouse Group of Companies.
+We may disclose your personal information to any member of the Dixons Carphone plc. of Companies.
 
 We may disclose your personal information to third parties:
 
@@ -119,9 +119,32 @@ If you are an existing customer, we may also contact you by electronic means (e-
 
 If you do not want us to use your data in this way please call us on 0871 220 3581. Alternatively, you can write to us at us c/o The Data Protection Office, The Carphone Warehouse Limited at PO Box 375, Southampton, SO30 2PU. Please note that it may take up to 28 days for such changes to take effect.
 
-### Access to information
+### How to access your personal file 
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. Details of how to request a copy of your information can be found at How can I see a copy of the information you hold about me?
+The Data Protection Act (DPA) gives you the right to see personal information we hold about you. If you want copies of this information, please send us a written request with the following:
+
+  * Your full name and address
+  * Your Carphone Warehouse/mobiles.co.uk account number
+  * A cheque for £10 (admin charge) made payable to The Carphone Warehouse
+  * Details of any specific information you require 
+  * One proof of identity - we can accept a photocopy of either your birth certificate, your passport, your driver's licence
+  * One proof of identity of address - we can accept a photocopy of a recent credit or debit card statement, a utility bill showing the same name and address as on your Carphone Warehouse account.
+
+
+
+Please send your request, cheque and proof of identity to:
+
+**The Carphone Warehouse  
+Data Protection Officer  
+PO Box 375  
+Southampton  
+SO30 2PU **
+
+We recommend that the request is sent by Recorded Delivery, but this is not compulsory. Please note that we do not take online payments.
+
+**What happens next?**
+
+Once we receive your request, along with your cheque and proof of identity, we’ll get back to you within 40 days.
 
 ### Changes to our privacy policy
 
