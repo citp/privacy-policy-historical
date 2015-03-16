@@ -1,91 +1,124 @@
-> *The following text is extracted and transformed from the crucial.com.au privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704094608id_/http%3A//www.crucial.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com.au privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316184058id_/http%3A//www.crucial.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Crucial
 
-### Introduction
+Crucial Paradigm Pty Ltd (We or Us) are committed to protecting and maintaining the privacy of all individuals with whom we deal. We are also committed to complying with the Privacy Act 1988 (Cth) (the Privacy Act) and the Australian Privacy Principles.
 
-  * Crucial Paradigm Pty. Ltd. (ABN 97 125 618 662; hereinafter, "Crucial Paradigm") respects your privacy and is committed to the protection of it. This Crucial Paradigm Privacy Policy (hereinafter, "Privacy Policy") applies to data collected Crucial Paradigm through the majority of its web sites and services.
+This policy explains how we manage the personal information that we collect, hold, use and disclose. It also explains how to contact us if you have any further queries about our management of your personal information. 
 
+This policy applies to you only to the extent that the collection and handling of your personal information by us is subject to the Privacy Act.
 
+**What is personal information?**
 
-### Information Collected via the Crucial Paradigm Pty Ltd Website(s)
+Personal information is information or an opinion (regardless of its accuracy or form) about an individual, or from which the identity of a person is reasonably identifiable. It includes your name, age, gender and contact details. 
 
-  * We may collect information about your visit(s) to our website(s), including the pages you view, the links you click and other actions taken in connection with Crucial Paradigm websites and services. We also collect certain standard information that your web browser sends to every website you visit, such as your IP address, browser type and language, access times and referring web site addresses. We may correlate this information about you with other information that we hold elsewhere.
-  * We may, at times, contract out functions pertaining to marketing-related activities that utilise this data. At all times such data is shared, it is divorced from any information that may be used by third parties to determine the identity of the individuals accessing the website. 
+**What kind of personal information do we collect and hold?**
 
+We only collect personal information about you that is reasonably necessary for our functions or activities.
 
-### Collection of Personal Information
+The type of personal information which we collect and hold includes your:
 
-  * In some interactions with Crucial Paradigm, we ask you to provide personal information. Usually, this information is not of a sensitive nature. This personal information may include, based on the type of interaction:
-  *  
-
-
-
-### Contact Crucial Paradigm via E-Mail,or online Support Desk
-
-  * In the case of Crucial Paradigm’s Subscribers and former Subscribers, the Subscriber's Name, E-Mail Address, and other information that clients may provide in their course of communication with us. This information can sometimes include the Subscriber's Telephone Number, Mail Address, financial information pertaining to our Subscriber's accounts (such as last four digits of their credit card number, or details regarding invoice payments), and information pertaining to third parties ( e.g. Business Hosting / VPS clients seeking assistance with one of their own subscriber's accounts).
-  *  
+  * contact details such as your name, phone number, residential address and email address;
+  * financial information such as your bank or credit card details; and
+  * historical information such as your prior service provider.
 
 
 
-### Interactions with Crucial Paradigm via the Telephone
+**How do we collect your personal information?**
 
-  * In the case of individuals who contact us via telephone, the only personal information always collected is their telephone number. Those wishing to preserve anonymity in their contact of Crucial Paradigm may do so if they contact us for lawful purposes ( e.g. product inquiries), and if they use lawful means to un- identify their telephone number (such as "number blocking"). Our telephone representatives reserve the right, however, to request additional information that is required to ensure quality of service. Our telephone representatives will always request additional information to verify your identity before disclosing any personal information about you.
-  * All calls are recorded for quality assurance and training purposes. We will always inform you before recording a call (except if the call is made for unlawful purposes).
-  *  
+We only collect personal information about you in the manner permitted by the Privacy Act.
 
+We may collect your personal information from you in a number of ways including in person, by phone, through our website or by email.
 
+We may also collect your personal information from related bodies corporate, from third parties, such as from our professional advisers, and from organisations engaged by us to carry out functions on our behalf.
 
-### Generally
+**How do we hold your personal information?**
 
-  * Personal information may be collected in other interactions you may have with Crucial Paradigm. Regardless of the source of such interactions, this Privacy Policy will apply to both protect this personal information, and to inform you of the ways in which and the purposes for which that personal information may be used.
-  *  
-  * In order to access some Crucial Paradigm services via the internet, you will be asked to sign in with an e- mail address and/or username, as well as a password (hereinafter, "your credentials"). As part of creating your credentials, you may also be requested to provide questions and secret answers and/or an alternative e-mail address. This information is collected to help verify your identity and assist in resetting your password, should such ever become necessary. Some Crucial Paradigm services may require additional security; in these cases, you may be asked to provide additional personal information in order for us to provide you access to those services.
+When holding your personal information, we are required by the Privacy Act to take reasonable steps:
 
-
-
-### Use of Personal Information
-
-  * Crucial Paradigm collects and uses your personal information to operate and improve its websites, and to deliver the services or carry out the transactions you have requested. In particular, this information is used to: provide you with accurate, secure support, sales, and other services; provide you with more effective customer service; make our sites or services easier to use; perform research and analysis aimed at improving our products, services and technologies; display content and advertising that are customised to your interests and preferences; maintain the security of our network and ensuring quality- of-service for all Crucial Paradigm customers.
+  * to ensure that your personal information that we collect, hold, use and disclose is accurate, complete and up-to-date;
+  * to protect your personal information from misuse, interference and loss, as well as from unauthorised access, modification or disclosure; and
+  * to destroy or permanently de-identify your personal information if we no longer require that information for any purpose that is permitted by the Privacy Act.
 
 
 
-### Sharing of Your Personal Information
+**For what purposes do we collect, hold and use your personal information?**
 
-  * Except as described in this Privacy Policy, we will not disclose your personal information outside Crucial Paradigm and its controlled subsidiaries, affiliates, agents and suppliers, without your consent.
-  *  
-  * Without limiting any of our rights, we further reserve the right to access and/or disclose your personal information if we believe such action is necessary to: comply with the law or legal process served on Crucial Paradigm; protect and defend the rights or property of Crucial Paradigm (including the enforcement of our agreements); or act in urgent circumstances to protect the personal safety of users of Crucial Paradigm services or members of the public. These rights specifically extend to any subsidiaries, companies or contractors whom we retain on our behalf. 
-  *  
-On occasion, we hire or contract with other companies to provide limited services on our behalf, such as providing customer support, processing transactions, or performing statistical analysis of our services. We may share personal information to provide the aforesaid services. It is assumed that any such companies will maintain the confidentiality of the information and are prohibited from using it for any other purpose. 
+We collect, hold and use your Personal Information for the following purposes:
 
-
-### Security and Storage of Your Personal Information
-
-  * Although the transfer of information across any media, including the internet, may involve some degree of risk, we carry out the maximal practicable steps possible to maintain the security and integrity of your personal information. This includes, but is not limited to:
-  *  
-  *     * Ensuring all web servers involving financial information or involved in carrying out e-commerce transactions are accessible by Secure Socket Layer (SSL) encryption;
-    * Ensuring all Crucial Paradigm’s servers and systems that contain personal information are protected by strong passwords;
-    * Ensuring all Crucial Paradigm staff utilise strong passwords when accessing any system that may contain clients' personal information;
-    * Engaging in both scheduled and random auditing of our security procedures and privacy compliance;
-    * Other security methods, including storing most personal information on servers located in secured datacenters; and
-    * Carrying out identity-assurance procedures before we reveal personal information to you.
+  * to provide the products and services which we offer (whether directly or through a related body corporate);
+  * to perform the functions and activities related to our business, including billing and account management; and
+  * to manage our relationship with you including by contacting you about our products or services, the products or services of related organisations, and any news or events that we think may be of interest to you.
 
 
 
-### Accessing Your Personal Information
+Our range of products and services, as well as our functions and activities, and those of our related bodies corporate and service providers may change from time to time.
 
-  * You are entitled to any personal information we hold about you, subject to certain exceptions as therein set out. You may have the ability to view or edit some of your personal information on-line, using methods that will require you to utilise your credentials. The appropriate method(s) for accessing your personal information will depend on which sites and services you have used.
+**Who do we disclose your personal information to?**
+
+In order to carry out the above-mentioned purposes, we may disclose your personal information to persons, related bodies corporate or other organisations such as our professional advisers and regulatory bodies. We may also disclose your personal information to the organisations from which we collect your information.
+
+**Marketing**
+
+We may use your personal information to contact you (including by phone, text message or email) about products or services which we think may be of interest to you. This may include our own, our related body corporate’s or a third party’s products or services.  
+In particular, we may contact you about products and services we think may be of interest to you after you cease to do business with us. For example, we might contact you about new products or services you may be interested in.
+
+**How can I opt-out of receiving marketing material?**
+
+You may opt-out of receiving marketing information from us and our related bodies corporate at any time by:
+
+  * Logging into your My Account area and [following these steps](https://help.crucial.com.au/hc/en-gb/articles/203147170-How-do-I-opt-out-of-Marketing-emails-).
+  * submitting a request via [here](https://help.crucial.com.au/hc/en-gb/requests/new?ticket_form_id=25750);
+  * calling us on 1300 884 839
 
 
 
-### Privacy Practices and our Privacy Officer
+Please allow five working days for your request to be actioned by us.
 
-  * If you require any additional information about this policy and/or its implementation, or if you have a complaint regarding privacy-related issues at Crucial Paradigm, please contact our Accounts team. You may do so using the following contact information:
-  *  
-  * By e-mail: accounts@crucial.com.au
-  *  
-  * By telephone: 1300 884 839 or +61 2 8202 9999
-  *  
-  * By mail: Crucial Paradigm, Management PO Box 1, Surry Hills, NSW 2010
+**What if I don’t want to give you my personal information?**
 
+You’re not required to give us your personal information. However, we may not be able to provide you with the products or services that you request of us.
+
+**How can you access and seek correction of personal information held by us?**
+
+You can access or seek correction of your personal information by: 
+
+  * Logging into your My Account area and correcting your information; or
+  * submitting a request via [here](https://help.crucial.com.au/hc/en-gb/requests/new?ticket_form_id=25750);
+  * calling us on 1300 884 839
+  * by mail at Suite 2, Level 3, 104-106 Commonwealth Street, Surry Hills, NSW 2010, Australia.
+
+
+
+We will give you access to your personal information if practicable, and will take reasonable steps to amend any Personal Information about you that is inaccurate or out of date. 
+
+We may refuse you access to, or we may refuse to correct, your personal information in certain circumstances permitted by the Privacy Act. In such a case, we will provide you with written notice of the reasons for our decision.
+
+We do not charge a fee to give you access to your personal information. However, we reserve the right to do so depending on the nature and extent of your request.
+
+**How can you complain about a breach of the Australian Privacy Principles and how will we deal with your complaint?**
+
+If you have any questions, concerns or complaints about how we collect or manage your personal information, then you may raise that matter with our Privacy Officer. Our Privacy Officer can be contacted as follows:
+
+  * calling us on 1300 884 839;
+  * submitting a request via [here](https://help.crucial.com.au/hc/en-gb/requests/new?ticket_form_id=25750);
+  * by mail, at Suite 2, Level 3, 104-106 Commonwealth Street, Surry Hills, NSW 2010, Australia.
+
+
+
+We will endeavour to promptly respond to your questions, concerns or complaints. We will also endeavour to resolve any concerns or complaints that you may have to your satisfaction. However, if you are unhappy with our response, you can complain to the Office of the Australian Information Commissioner (www.oaic.gov.au), who may investigate the complaint further. 
+
+**Are we likely to disclose your personal information to overseas recipients?**
+
+In order to provide you with fast 24x7x365 technical support we may transfer your personal information to overseas recipients in order to identify and verify you. We are required to do so in these instances in order to provide you with our products or services, or manage our relationship with you. 
+
+If we transfer your personal information outside Australia, we will comply with the requirements of the Privacy Act that relate to trans-border data flows.
+
+**What if I have further questions?**
+
+If you have any questions about our privacy policy, then you may contact our Privacy Officer whose contact details are listed above. If you have questions about the Privacy Act, then you may contact the Office of the Australian Information Commission. 
+
+Date: 31 August 2014
+
+  
 
