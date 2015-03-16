@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the symphonycommerce.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726172856id_/https%3A//symphonycommerce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symphonycommerce.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316160638id_/https%3A//symphonycommerce.com/privacy) for the most accurate reproduction.*
 
-# Privacy | SymphonyCommerce
+# Privacy Policy | Symphony Commerce
+
+## Privacy
 
 ## **Symphony Commerce Privacy Policy**
 
