@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703200319id_/http%3A//www.activeforever.com/t/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316061907id_/http%3A//www.activeforever.com/t/PrivacyPolicy) for the most accurate reproduction.*
 
 # ActiveForever.com | Privacy policy
 
