@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215222id_/http%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316191646id_/http%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy – PSD2HTML®
 
@@ -13,6 +13,8 @@ P2H™ will not take your artwork and other intellectual property for use on any
 P2H™ guarantees that all information that you share with us, including artwork and other intellectual property, contact information, and client notes, will remain confidential.
 
 P2H™ will never contact your clients or the clients of your clients. We respect your business.
+
+Notwithstanding the foregoing, P2H may disclose any such information in response to a valid order of a court or other government body or as required by law, but only that portion of the Confidential Information which is legally required to be disclosed, or such information as may be required to resolve any dispute between you and P2H.
 
 ## Our commitment to data security
 
