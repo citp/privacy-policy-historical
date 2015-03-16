@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cognifit.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802133412id_/http%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognifit.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316163622id_/https%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We respect your privacy. This policy explains the accepted privacy practices for our services at [www.cognifit.com](http://www.cognifit.com/), including the purchase and online use of the CogniFit software and suite of training programs and any future software, product, neurons or training programs (the **"Websites"** **"Product"** and **"Products"** respectively, or collectively: the **"Services"** ). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices. You can access our Privacy Policy here.
+We respect your privacy. This policy explains the accepted privacy practices for our services at [www.cognifit.com](http://www.cognifit.com/), including the purchase and online use of the CogniFit software and suite of training programs and any future software, product, neurons or training programs (the **"Websites"** **"Product"** and **"Products"** respectively, or collectively: the **"Services"** ). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices.
 
 This policy is incorporated by reference to the Websites' Terms and Conditions ( **"Terms of Use"** ).
 
@@ -121,4 +121,19 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 You are welcome to contact us with requests, comments and questions regarding this privacy policy at the by using the 'Support' form on the Website.
 
-Last update: May 10th, 2013
+**Children's Privacy**
+
+We recognize the need to provide further privacy protections with respect to personal information we may collect from children when using the Services. Children means individuals who we have identified are not of legal age to consent to the collection and processing of their personal information. In the United States and Latin America, the term 'children' refers to individuals under 13 years of age.
+
+When we intend to collect personal information from children, we take additional steps to protect children's privacy, including:
+
+  * Notifying parents or legal guardian about our information practices with regard to children, including the types of personal information we may collect from children, the uses to which we may put that; information, and whether and with whom we may share that information;
+  * In accordance with applicable law, obtaining consent from parents or legal guardian for the collection of personal information from their children, or for sending information about our Services directly to their children;
+  * Limiting our collection of personal information from children to no more than is reasonably necessary to participate in an online activity;
+  * Giving parents or legal guardian access or the ability to request access to personal information we have collected from their children and the ability to request that the personal information be changed or deleted.
+
+
+
+For additional information about our practices in the United States and Latin America regarding children's personal information, please read our [Children's Privacy Policy](https://web.archive.org/children-privacy-policy).
+
+**Last Updated: August 10, 2014.**
