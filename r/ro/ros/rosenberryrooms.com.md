@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosenberryrooms.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122173936id_/http%3A//www.rosenberryrooms.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosenberryrooms.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316024416id_/http%3A//www.rosenberryrooms.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Rosenberry Rooms Privacy Policy, Secure Orders, Rosenberry Rooms Buyer Protection, Secure Online Ordering - Rosenberry Rooms
 
@@ -51,7 +51,7 @@ Upon request, a customer shall be informed of the existence, use and disclosure 
 
 Customers may direct any questions or inquiries with respect to the privacy principles outlined above or about our practices by contacting the designated person(s) accountable for privacy at Rosenberry Rooms. 
 
-If you would like to unsubscribe, please send email to marketing@rosenberryrooms.com or call us at +1(919)803-4083.
+If you would like to unsubscribe, please [click here](http://www.rosenberryrooms.com/email-preferences.html).
 
  **Third-Party Web Beacons**  
 
@@ -75,7 +75,7 @@ All Yahoo! Store merchants and Yahoo! Shopping advertising partners are eligible
 
 [](http://shopping.yahoo.com/buyer_protection.html;_ylt=AvjObqfutgh9gixyMalu_VYcEb0F;_ylu=X3oDMTByYzFmdXZrBF9zAzk2MzMyMDQ0BHNlYwNtZXJjaHJldmlldw--)Rosenberry Rooms   
 709 Hillsborough Street   
-Raleigh, North Carolina 27603   
+Raleigh, NC 27603   
 U.S.A. 
 
 Phone: (877) 214-6875 
