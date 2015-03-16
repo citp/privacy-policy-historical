@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firehow.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119232642id_/http%3A//www.firehow.com/firehowprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firehow.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316090205id_/http%3A//www.firehow.com/firehowprivacypolicy.html) for the most accurate reproduction.*
 
 # FireHow Privacy Policy | Firehow | FireHow.com
 
