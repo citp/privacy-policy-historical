@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eadulthost.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704042523id_/https%3A//www.eadulthost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eadulthost.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316075300id_/https%3A//www.eadulthost.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | eAdultHost
 
