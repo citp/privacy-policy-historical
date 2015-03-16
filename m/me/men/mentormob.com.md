@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mentormob.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905062016id_/http%3A//www.mentormob.com/splash/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentormob.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316063630id_/https%3A//www.mentormob.com/splash/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - MentorMob
+# Privacy Policy | MentorMob
 
 At MentorMob, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. As part of this responsibility, we let you know what information we collect when you use our products and services, why we collect it and how we use it to improve your experience. By visiting the MentorMob website, you are accepting the practices outlined in this Privacy Policy.
 
-This Privacy Policy covers MentorMob's treatment of personal information that MentorMob gathers when you are on the MentorMob website and when you use MentorMob services. This policy does not apply to the practices of third parties that MentorMob does not own or control, or to individuals that MentorMob does not employ or manage.
+This Privacy Policy covers MentorMob' treatment of personal information that MentorMob gathers when you are on the MentorMob website and when you use MentorMob services. This policy does not apply to the practices of third parties that MentorMob does not own or control, or to individuals that MentorMob does not employ or manage.
 
 ### Information Collected by MentorMob
 
@@ -37,7 +37,7 @@ MentorMob is very concerned about your privacy and we will never provide your em
 
   * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. MentorMob cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-  * The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of MentorMob's coolest features.
+  * The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of MentorMob' coolest features.
 
   * Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies.
 
@@ -48,7 +48,7 @@ MentorMob is very concerned about your privacy and we will never provide your em
 
 Because MentorMob enables people to discover and share information with one another, information about the people who use MentorMob is an integral part of the MentorMob experience. Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
 
-  * MentorMob Personnel: MentorMob personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of MentorMob's business.
+  * MentorMob Personnel: MentorMob personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of MentorMob' business.
 
   * Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if MentorMob, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
 
@@ -76,7 +76,7 @@ Because MentorMob enables people to discover and share information with one anot
 
   * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links.
 
-  * You may request deletion of your MentorMob account by e-mailing us at support@mentormob.com.
+  * You may request deletion of your MentorMob account by e-mailing us at support@MentorMob.com.
 
   * However, please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
 
@@ -99,4 +99,4 @@ If you decide to visit MentorMob website, your visit and any possible dispute ov
 
 ### Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of March 2, 2011 and last updated March 2, 2011.
+This Privacy Policy is effective as of March 2, 2011 and last updated September 24, 2014.
