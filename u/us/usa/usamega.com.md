@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usamega.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701084612id_/https%3A//www.usamega.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usamega.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316131949id_/https%3A//www.usamega.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | USA Mega
 
 Your privacy is a top priority and we want you to have a secure and enjoyable experience.  Any information you provide us with is kept in confidence.  The policies outlined below are applicable solely to web sites executed and run by Big Game LLC (BGL).
 
@@ -16,4 +16,4 @@ Your browser controls the use of cookies and, if you prefer, can be set to eithe
 
 Guests under 18 years of age should not submit information to BGL without the consent of their parent or guardian. 
 
-If you have any questions or comments regarding this statement, please [contact us](https://web.archive.org/web/20140701084612id_/https%3A//www.usamega.com/contact.asp).
+If you have any questions or comments regarding this statement, please [contact us](https://web.archive.org/web/20150316131949id_/https%3A//www.usamega.com/contact.asp).
