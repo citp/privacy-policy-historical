@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barracudanetworks.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204004111id_/https%3A//www.barracuda.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barracudanetworks.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316102533id_/https%3A//www.barracuda.com/legal/privacy) for the most accurate reproduction.*
 
-# Barracuda Networks - Barracuda-Richtlinien
+# Barracuda Networks - Barracuda Policies
 
 ## Barracuda Networks Privacy Policy
 
@@ -53,8 +53,3 @@ If we change the way we use your personal information we will post the change he
 If you have any questions regarding this policy or our use of personally identifiable information on this site, please send us your questions or comments to webmaster.
 
 _Revised: February 2014_
-
-* * *
-
-  
-
