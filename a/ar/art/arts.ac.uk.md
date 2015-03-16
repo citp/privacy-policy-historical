@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the arts.ac.uk privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007122643id_/http%3A//www.arts.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arts.ac.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316161931id_/http%3A//www.arts.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies - University of the Arts London
 
-This privacy policy sets out how University of the Arts London uses and protects any information that you give University of the Arts London when you use this website.University of the Arts London is committed to ensuring that your privacy is protected
+This privacy policy sets out how University of the Arts London uses and protects any information that you give University of the Arts London when you use this website.University of the Arts London is committed to ensuring that your privacy is protected 
 
 Should we ask you to provide certain information by which you can be identified by when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 University of the Arts London is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified by when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Details of the University's Notification to the Information Commissioner, setting out brief details of how we use your data, can be found by visiting [ico.gov.uk](http://www.ico.gov.uk/) and searching "University of the Arts London". 
+Details of the University's Notification to the Information Commissioner, setting out brief details of how we use your data, can be found by visiting [ico.org.uk](https://ico.org.uk/ "ico.org.uk") and searching "University of the Arts London". 
 
-University of the Arts London may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 26th May 2012.
+University of the Arts London may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 26 May 2012. 
 
-### What we collect
+## What we collect
 
 The types of information which we may collect and process about you are:
 
@@ -31,11 +31,11 @@ The types of information which we may collect and process about you are:
   * Send you information about courses or other studies which we may make available to you and which we think could be of interest to you.
   * Send you details of any fundraising or other campaigns which we may run.
   * Send you promotional information about third parties we think you may find interesting.
-  * Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by this service is used to improve our website usability. The information collected is stored and is used for aggregated and statistical reporting, and is not shared with anybody else.
+  * Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by this service is used to improve our website usability. The information collected is stored and is used for aggregated and statistical reporting, and is not shared with anybody else. 
 
 
 
-### Disclosure of your information
+## Disclosure of your information
 
   * If we are under a duty to do so in order to comply with our legal obligations.
   * To protect our rights.
@@ -61,11 +61,11 @@ We use the information which we collect from you to help us to understand your n
 
 If you have given your consent for us to do so, we may also use your information to:
 
-### Security 
+## Security 
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-### How We Use Cookies
+### How we use cookies
 
 We use our cookies to help us: 
 
@@ -95,19 +95,19 @@ We do not associate the data which we gather from this site with any personally 
 
 You can learn more about all the cookies we use below.
 
-### Granting us Permission to Use Cookies
+## Granting us permission to use cookies
 
 If the settings on the software that you are using to view this website (your browser) are adjusted to accept cookies we take this, and your continued use of our website, to mean that you are happy for us to use cookies. 
 
 Should you wish to remove or not use cookies from our site you can learn how to do this below, however doing so will probably mean that our site will not work as you would expect, or at all.
 
-### Third Party Functions 
+## Third party functions 
 
 Our site, like most websites, includes functionality provided by third parties. A common example is an embedded YouTube video. Our site includes the following which use cookies:
 
 Disabling these cookies may mean that the functions offered by these third parties will no longer work.
 
-### Social Website Cookies
+## Social website cookies
 
 So you can easily 'Like' or share our content on Facebook and Twitter we have included sharing buttons on our site.
 
@@ -115,7 +115,7 @@ Cookies are set by:
 
 The privacy implications of sharing our content on these sites will vary from social network to social network and will be dependent on the privacy settings you have chosen on these networks.
 
-### Visitor Statistics Cookies
+### Visitor statistics cookies
 
 We use cookies to compile visitor statistics such as how many people have visited our website, what type of technology they are using (e.g. Mac or Windows which helps to identify when our site isn't working as it should for particular technologies), how long they spend on the site, what pages they look at etc. This helps us to continuously improve our website. 
 
@@ -123,19 +123,19 @@ These so-called analytic programs also tell us how people have reached this site
 
 We use:
 
-### Turning Cookies Off 
+## Turning cookies off 
 
 Most web browsers allow some control of most cookies through the browser settings. You can learn more about doing this by visitng About Cookies [Website](http://www.aboutcookies.org/). Doing so however may limit the functionality of our website.
 
 It may be that your concerns around cookies relate to so-called "spyware". If so, then rather than switching off cookies in your browser you may find that anti-spyware software achieves the same objective by automatically deleting cookies considered to be invasive. Learn more about managing cookies with antispyware [software](http://www.aboutcookies.org/).
 
-### Links to other websites
+## Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. 
 
 For that reason we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-### Controlling your personal information:
+## Controlling your personal information
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
