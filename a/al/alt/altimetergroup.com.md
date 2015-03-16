@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the altimetergroup.com privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831003211id_/http%3A//www.altimetergroup.com/about-us/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altimetergroup.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316151943id_/http%3A//www.altimetergroup.com/about-us/our-company/policies/privacy-policy) for the most accurate reproduction.*
 
-# Altimeter Group - Research and advisory for companies challenged by business disruptions
+# Privacy Policy | Altimeter Group
 
 ## Privacy Policy
 
@@ -22,4 +22,4 @@ The information we collect is used to improve the content of our website, used t
 With respect to security, we have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site.
 
 **Updates**  
-If you do not want to receive e-mail from us in the future, please let us know by submitting your request on our [Contact page.](http://www.altimetergroup.com//about/contact-us "Contact Us")
+If you do not want to receive e-mail from us in the future, please let us know by submitting your request on our [Contact page.](http://altimetergroup.com//about/contact-us "Contact Us")
