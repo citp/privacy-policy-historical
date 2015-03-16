@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 188asia.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211125904id_/http%3A//www.188asia.com/en-gb/corporate-affairs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 188asia.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316084721id_/http%3A//www.188asia.com/en-gb/corporate-affairs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at 188BET – Corporate Affairs - 188BET
 
