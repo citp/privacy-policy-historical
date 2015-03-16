@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905152916id_/https%3A//www.teachershealth.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316145348id_/https%3A//www.teachershealth.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Teachers Health Fund
 
@@ -28,7 +28,7 @@ THF may collect personal information from a member if the member:
 
   * gives it to THF directly by visiting the member care centres or health centres, provides information by phone or provides information in writing such as by completing THF forms;
   * uses THF products and services;
-  * visits the website at [teachershealth.com.au](http://www.teachershealth.com.au/) or any other website operated by, or on behalf of, THF; or
+  * visits the website at [teachershealth.com.au](https://www.teachershealth.com.au/) or any other website operated by, or on behalf of, THF; or
   * uses the online or mobile member services.
 
 
@@ -155,7 +155,7 @@ In some circumstances, THF may charge a fee to cover administrative costs in res
 
 ## **12\. Making a complaint**
 
-THF views complaints as an opportunity to maintain and enhance customer loyalty and approval and enhance its competitiveness by continuous review and improvement. THF has a Customer Complaint Handling and Dispute Resolution Policy in place for handling the complaints it receives. A copy of this policy is available to members at [teachershealth.com.au](http://www.teachershealth.com.au/).
+THF views complaints as an opportunity to maintain and enhance customer loyalty and approval and enhance its competitiveness by continuous review and improvement. THF has a Customer Complaint Handling and Dispute Resolution Policy in place for handling the complaints it receives. A copy of this policy is available to members at [teachershealth.com.au](https://www.teachershealth.com.au/).
 
 If a member would like to make a complaint about a breach of privacy, THF will make them aware that:
 
@@ -210,6 +210,6 @@ THF will make members aware that this Privacy Policy does not apply:
 
 ## **14\. Changes to this Privacy Policy**
 
-THF may make changes to this Privacy Policy from time to time for any reason. THF will notify members of such changes by posting an updated version of this Privacy Policy on its website at [teachershealth.com.au](http://www.teachershealth.com.au/). If members use this website, they should regularly review this Privacy Policy. A members continued use of this website constitutes their agreement to any changes to this Privacy Policy.
+THF may make changes to this Privacy Policy from time to time for any reason. THF will notify members of such changes by posting an updated version of this Privacy Policy on its website at [teachershealth.com.au](https://www.teachershealth.com.au/). If members use this website, they should regularly review this Privacy Policy. A members continued use of this website constitutes their agreement to any changes to this Privacy Policy.
 
 _Updated: 12th December 2013_
