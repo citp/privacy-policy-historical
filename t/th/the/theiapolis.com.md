@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiapolis.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924120720id_/http%3A//www.theiapolis.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiapolis.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316031339id_/http%3A//www.theiapolis.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy -Theiapolis
 
@@ -7,8 +7,6 @@ Theiapolis respects privacy of Internet Users and does not collect personally id
 However you should know that third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served.
 
 This policy applies to the web site <http://www.theiapolis.com/> ("Theiapolis") and all its sub-domains. The full text of our privacy is available on the Web at: <http://www.theiapolis.com/privacy.html>.
-
-This site is published by JBLAUGERE, all rights reserved - siret france 498-276-179 00021 - [contact](http://www.theiapolis.com/contact-us.html).
 
 We invite you to [contact us](https://web.archive.org/contact-us.html) if you have questions about this policy.
 
