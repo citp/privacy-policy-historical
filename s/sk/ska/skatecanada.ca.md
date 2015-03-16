@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skatecanada.ca privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201114852id_/http%3A//www.skatecanada.ca/about-us/policies-terms-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skatecanada.ca privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316233240id_/http%3A//www.skatecanada.ca/about-us/policies-terms-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Skate Canada
 
