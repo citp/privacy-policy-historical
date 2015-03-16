@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namebright.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701013059id_/https%3A//www.namebright.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namebright.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316133509id_/https%3A//www.namebright.com/Privacy) for the most accurate reproduction.*
 
 # NameBright - Privacy Policy
 
@@ -48,7 +48,7 @@ If there are any questions regarding this privacy policy you may use the [contac
 
 
 Last Updated: 9/17/2013  
-Copyright 2008-2014 NameBright.com. All Rights Reserved   
+Copyright 2008-2015 NameBright.com. All Rights Reserved   
 
 
 Committed to Being the Most Advanced Registrar in the World!
