@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ninjablaster.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925173001id_/http%3A//ninjablaster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjablaster.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316233851id_/http%3A//ninjablaster.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Ninja Blaster
+# Ninja Blaster The Best Facebook Marketing Software Download Now
 
 Commitment to protect your privacy
 
