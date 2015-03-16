@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntsforums.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626054437id_/http%3A//www.ntsforums.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntsforums.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316183834id_/http%3A//www.ntsforums.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - NTS | National Testing Service
 
@@ -15,7 +15,7 @@ Candidate shall be responsible to ensure that such information is accurate and c
   
 
 
-**Disclaimer:** This is not the official website of National Testing Service of Pakistan. This is a non-commercial website helping individuals who intend to join National Testing Service of Pakistan. The material on this website is provided for informational purposes only. We do not claim that the site is an exhaustive compilation of information about National Testing Service of Pakistan neither represent or endorse the accuracy or reliability of any information, content contained on, or linked, downloaded or accessed from any page of this website. These materials are intended, but not promised or guaranteed to be current, complete or up to date. However, honest efforts have been made to provide comprehensive information for the benefit of users. The documents and material displayed or mentioned on this site are not official copies. Please contact NTS for updated rules and regulations governing NTS examination.
+**Disclaimer:** This is not the official website of National Testing Service of Pakistan. This is a non-commercial website helping individuals who intend to join National Testing Service of Pakistan. The material on this website is provided for informational purposes only. We do not claim that the site is an exhaustive compilation of information about National Testing Service of Pakistan neither represent or endorse the accuracy or reliability of any information, content contained on, or linked, downloaded or accessed from any page of this website. These materials are intended, but not promised or guaranteed to be current, complete or up to date. However, honest efforts have been made to provide comprehensive information for the benefit of users. The documents and material displayed or mentioned on this site are not official copies. Please contact NTS for updated rules and regulations governing NTS examination. [Google+](https://plus.google.com/108073753948854522253)
 
   1.  
   2. [Privacy Policy](http://www.ntsforums.com/privacypolicy/)
