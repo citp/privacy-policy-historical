@@ -1,262 +1,309 @@
-<!--The following is the downloaded HTML source of the ecommhub.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625150509id_/http%3A//ecommhub.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ecommhub.com privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316193223id_/https%3A//ecommhub.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta content="text/html;charset=UTF-8" http-equiv="content-type">
-<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/189b08581fecb78a29eb0c419ecffcbcb6e7f1dc.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"transactionName":"IltaEUAJX1pWR0pcXQxRGxVAD0VXUEw=","errorBeacon":"bam.nr-data.net","queueTime":16,"applicationID":"1509740","beacon":"beacon-6.newrelic.com","agent":"js-agent.newrelic.com/nr-411.min.js","ttGuid":"","applicationTime":237,"licenseKey":"c540af471b","agentToken":null}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQCUFRbGwIFVFhVAwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Privacy Policy | eCommHub</title>
-<meta content="eCommHub is a drop-shipping web application that integrates with your existing online e-commerce store for a fully automated experience." name="description">
-<meta content="eCommHub,Drop Shipping,Dropship,Hub,Fulfillment,Third-Party Fulfillment,Order Management,OMS,Inventory,Automation,Distributor,Supplier,3PL" name="keywords">
-<link href="/stylesheets/home/style.css?1403668946" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/home/grid.css?1403668946" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/home/reset.css?1403668946" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/home/bootstrap.min.css?1403668946" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/home/font-awesome.min.css?1403668946" media="screen" rel="stylesheet" type="text/css">
-<script src="/javascripts/prototype.js?1403668946" type="text/javascript"></script>
-<script src="/javascripts/effects.js?1403668946" type="text/javascript"></script>
-<script src="/javascripts/dragdrop.js?1403668946" type="text/javascript"></script>
-<script src="/javascripts/controls.js?1403668946" type="text/javascript"></script>
-<script src="/javascripts/jquery-1.7.1.js?1403668946" type="text/javascript"></script>
-<script src="/javascripts/home/input-hint.min.js?1403668946" type="text/javascript"></script>
-<script src="/javascripts/home/bootstrap.min.js?1403668946" type="text/javascript"></script>
-<script src="/javascripts/jquery.bpopup.min.js?1403668946" type="text/javascript"></script>
-<script src="/javascripts/application.js?1403668946" type="text/javascript"></script>
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://ecommhub.com/xmlrpc.php">
 
-<link href="http://ecommhub.com/favicon.ico" rel="shortcut icon" type="image/png">
-<script type="text/javascript">
-  //<![CDATA[
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-24781866-1']);
-    _gaq.push(['_setDomainName', '.ecommhub.com']);
-    _gaq.push(['_trackPageview']);
-    
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  //]]>
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#266fa8">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+
+<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//use.typekit.net/cko2lkq.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<!--[if lt IE 9]>
+<script src="https://ecommhub.com/wp-content/themes/ecommhub2014/js/html5shiv.js"></script>
+<script src="https://ecommhub.com/wp-content/themes/ecommhub2014/js/selectivizr-min.js"></script>
+<![endif]-->
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://ecommhub.com/privacy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - eCommHub">
+<meta property="og:description" content="eCommHub, Inc. (hereinafter “eCommHub”, “we”, “our” or “us”) Privacy Policy (“Policy”) sets out what information we collect, how we collect it, and what we do with it. If you have any questions concerning this Policy, please contact us as indicated in the How to Contact Us section below. We may update this Policy from time …">
+<meta property="og:url" content="https://ecommhub.com/privacy/">
+<meta property="og:site_name" content="eCommHub">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="eCommHub » Feed" href="https://ecommhub.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="eCommHub » Comments Feed" href="https://ecommhub.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="eCommHub » Privacy Policy Comments Feed" href="https://ecommhub.com/privacy/feed/">
+<link rel="stylesheet" id="fetch-tweets-f7a0a0aa78bd113ad02fc4fed154be93-css" href="https://ecommhub.com/wp-content/themes/ecommhub2014/fetch-tweets/banner/style.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="fetch-tweets-5ce76b8f42fc0fd0f28bb8403bf6c7dd-css" href="https://ecommhub.com/wp-content/themes/ecommhub2014/fetch-tweets/sidebar/style.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="fetch-tweets-7196b80ee6e8ebcb5cd645aaba9597ed-css" href="https://ecommhub.com/wp-content/plugins/fetch-tweets/template/plain/style.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="reset-css" href="https://ecommhub.com/wp-content/themes/ecommhub2014/css/reset.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="main-css" href="https://ecommhub.com/wp-content/themes/ecommhub2014/css/main.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="global-css" href="https://ecommhub.com/wp-content/themes/ecommhub2014/css/global.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="pages-css" href="https://ecommhub.com/wp-content/themes/ecommhub2014/css/pages.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="icomoon-css" href="https://ecommhub.com/wp-content/themes/ecommhub2014/css/icomoon.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="shame-css" href="https://ecommhub.com/wp-content/themes/ecommhub2014/css/shame.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="datepicker-css" href="https://ecommhub.com/wp-content/themes/ecommhub2014/css/datepicker.css?ver=4.1.1" type="text/css" media="all">
+<script>
+if (document.location.protocol != "https:") {
+    document.location = document.URL.replace(/^http:/i, "https:");
+}
 </script>
-<script type="text/javascript">
-  //<![CDATA[
-    var _kmq = _kmq || [];
-    var _kmk = _kmk || '189b08581fecb78a29eb0c419ecffcbcb6e7f1dc';
-    function _kms(u){
-      setTimeout(function(){
-        var d = document, f = d.getElementsByTagName('script')[0],
-        s = d.createElement('script');
-        s.type = 'text/javascript'; s.async = true; s.src = u;
-        f.parentNode.insertBefore(s, f);
-      }, 1);
-    }
-    _kms('//i.kissmetrics.com/i.js');
-    _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
-  //]]>
-</script>
+<script>var jquery_placeholder_url = 'https://ecommhub.com/wp-content/plugins/gravity-forms-placeholders/jquery.placeholder-1.0.1.js';</script><script type="text/javascript" src="https://ecommhub.com/wp-content/themes/ecommhub2014/js/jquery-1.11.1.js"></script>
+<script type="text/javascript" src="https://ecommhub.com/wp-content/plugins/gravity-forms-placeholders/gf.placeholders.js?ver=1.0"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ecommhub.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ecommhub.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://ecommhub.com/?p=765">
 
-<script type="text/javascript">
-  //<![CDATA[
-    _kmq.push(['clearIdentity']);
-  //]]>
-</script>
+<!-- Google Webmaster Tools plugin for WordPress -->
+<meta name="google-site-verification" content="fP7IGaadKkKyzR8ZyCFkjCGPaHLxKN6uqVV3vHggviU">
+<script async="" type="text/javascript" src="//ecommhub.disqus.com/count.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-</head>
-<body>
-<div class="" id="header-wrapper">
-<div id="header">
-<div id="logo"><a href="http://ecommhub.com/"><img alt="eCommHub" src="/images/home/ecommhub-logo-3rt.png?1403668946"></a></div>
-<ul id="nav">
-<li class="dropdown">
-<a class="dropdown-toggle" data-toggle="dropdown" href="#">
-<i class="icon-reorder"></i>
-</a>
-<ul aria_labelledby="dLabel" class="dropdown-menu" role="menu">
-<li><a href="/contact/">Contact Us</a></li>
-<li><a href="http://support.ecommhub.com/">Support</a></li>
-</ul>
-</li>
-<li class="navlink"><a href="/signin">Sign In</a></li>
-<li class="navlink"><a href="http://blog.ecommhub.com/" target="_blank" title="Dropshipping e-commerce blog by eCommHub">Blog</a></li>
-<li class="navlink"><a href="/pricing/">Pricing</a></li>
-<!-- %li= link_to "Integrations", integrations_path(:trailing_slash => true) -->
-<li class="navlink"><a href="/faqs/">How It Works</a></li>
-<li class="navlink"><a href="/features/seamless-integration/">Features</a></li>
-</ul>
-<div class="clear"></div>
-</div>
-</div>
+<body class="page page-id-765 page-template-default group-blog"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+<div id="skrollr-body">
 
-<div id="content-wrapper">
-<div class="privacy" id="content">
-<h1 class="first">Privacy Policy</h1>
-<p>eCommHub, Inc. (hereinafter "eCommHub", "we", "our" or "us") Privacy Policy ("Policy") sets out what information we collect, how we collect it, and what we do with it.  If you have any questions concerning this Policy, please contact us as indicated in the How to Contact Us section below.  We may update this Policy from time to time, so please check this Policy periodically for changes. eCommHub is the provider of a web-based drop shipping software and services that automate inventory management and order fulfillment for online stores that rely on third-party vendors, distributors, suppliers, or fulfillment centers for their inventory. Using the eCommHub platform, both retailers and suppliers can automate inventory management and order fulfillment, thus expanding product offerings, routing orders intelligently and minimizing backorders.</p>
+<header class="site-header">
+	<div class="container">
+    <nav class="menu" id="primary">
+			<div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="menu"><li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="https://ecommhub.com/how-it-works/">How it works</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://ecommhub.com/pricing/">Pricing</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="https://ecommhub.com/features/">Features</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://ecommhub.com/about-us/">About us</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="https://ecommhub.com/blog/">Blog</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142"><a href="https://signin.ecommhub.com/">Sign In</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="https://ecommhub.com/get-started/">Get Started</a></li>
+</ul></div>      
+    </nav>
 
-<h2>Your Information</h2>
+    <form class="mobile-menu" id="mobile-responsive-menu" name="menu_selector" method="post" action="#">
+      <span class="label">Learn more</span>
+      <select id="menu-responsive" class="menu-responsive"><option value="https://ecommhub.com/how-it-works/">How it works</option><option value="https://ecommhub.com/pricing/">Pricing</option><option value="https://ecommhub.com/features/">Features</option><option value="https://ecommhub.com/about-us/">About us</option><option value="https://ecommhub.com/blog/">Blog</option><option value="https://signin.ecommhub.com/">Sign In</option><option value="https://ecommhub.com/get-started/">Get Started</option></select>    </form>
 
-<p>As a provider of web-based software tools and services, we may collect two basic types of information, personal information and anonymous information - and we may use personal and anonymous information to create a third type of information - aggregate information.  Personal and anonymous information may be collected directly from our customers and prospective customers, including when our customers or prospective customers communicate with us through our website located at http://ecommhub.com ("Website"). We define "personal information" as information that is unique to an individual and might include the following: name, age, mailing address, zip code, other contact information, billing information, email addresses, and telephone numbers.  We may collect certain information actively from users within our Website and other information passively (e.g., IP address). We will update your information whenever we can to keep it current, accurate and complete.</p>
+		<h1><a class="site-logo" href="https://ecommhub.com/" rel="home">eCommHub</a></h1>
+	</div>
+</header>
 
-<h2>Our Use of Your Information</h2>
 
-<p>If we do receive your personal information, we will only use it for the purposes described where it is collected or otherwise described in this Policy, and we will not sell, license, transmit or disclose this information outside of eCommHub unless (1) you expressly authorize us to do so; (2) it is necessary to allow our service providers or agents to provide services for us, (3) it is necessary in order to provide our products or services to you (and to contact you when necessary), (4) subject to applicable contractual or legal restrictions, it is disclosed to entities that perform marketing services on our behalf or to other entities with whom we have joint marketing agreements, (5) subject to applicable contractual or legal restrictions, it is necessary in connection with a sale of all or substantially all of the assets of eCommHub or the merger of eCommHub into another entity or any consolidation, share exchange, combination, reorganization, or like transaction in which eCommHub is not the survivor, (6) it is necessary in connection with other business purposes including, without limitation, customer care, service quality, business management and operation, risk assessment, security, fraud and crime prevention/detection, monitoring, research and analysis, marketing, customer purchasing preferences and trends, dispute resolution, credit checking and debt collection, or (7) otherwise as we are required or permitted by law.</p> 
+<div id="content" class="site-content">
 
-<p>If you are a California resident, you may ask us to refrain from sharing your personal information (whether collected online or offline) with third parties for their marketing purposes. Please tell us your preference by contacting us as indicated in the "How to Contact Us" section of this Policy below.  
-If you do not agree to Our Use of Your Information above, we cannot do business with you or authorize you to access our Website or use the eCommHub services available through our Website. Your continued use of our Website and the eCommHub services available through our Website and your continued payment of fees for access to eCommHubÕs Website and services constitutes your acceptance of this Policy.</p> 
+	<header class="page-header">
+		<div class="container">
+			<h2 class="page-title">Privacy Policy
+</h2>      		</div>
+	</header>
 
-<h2>Direct Marketing Material</h2>
 
-<p>Subject to applicable contractual or legal restrictions, we may from time to time contact you with information on offers of goods and services, brochures, new products and forthcoming events. Our Website will assume you agree to electronic communications when you establish an account with eCommHub or request services online. You may indicate your preference regarding receiving third-party direct marketing material. If you do not wish to receive such information or would like to change your preference, please refer to "Your Rights" below.</p>
 
-<h2>Email</h2>
+<main id="main" class="page-main " role="main">
+      <div class="page-content">
+    	    		
 
-<p>We appreciate your questions and comments about eCommHub and its products and services. Please see the "How to Contact Us" section of this Policy for instructions on how to send your questions and comments to us.  We will share your messages with those within our organization who are most capable of addressing the issues contained in your message.  We will keep a copy of your message until we have had an opportunity to address your concerns.  We may archive your message for a certain period of time or discard it once it is no longer needed.</p>
-
-<h2>Your Rights</h2>
-
-<p>You have the right to ask in writing not to receive direct marketing material from us. If available, you can amend your previous preference by indicating as such in the "How to Contact Us" section of this Policy or refer to our literature (including the email sent to you by us) containing unsubscribe instructions. Once properly notified by you, we will take steps to stop using your information in this way. Please allow us a reasonable period of time in order to satisfy your request.</p>
-
-<h2>Use of Tools, "Cookies" and Links to Other Websites</h2>
-
+<div class="container first"><p>eCommHub, Inc. (hereinafter “eCommHub”, “we”, “our” or “us”) Privacy Policy (“Policy”) sets out what information we collect, how we collect it, and what we do with it. If you have any questions concerning this Policy, please contact us as indicated in the How to Contact Us section below. We may update this Policy from time to time, so please check this Policy periodically for changes. eCommHub is the provider of a web-based drop shipping software and services that automate inventory management and order fulfillment for online stores that rely on third-party vendors, distributors, suppliers, or fulfillment centers for their inventory. Using the eCommHub platform, both retailers and suppliers can automate inventory management and order fulfillment, thus expanding product offerings, routing orders intelligently and minimizing backorders.</p>
+<h4>Your Information</h4>
+<p>As a provider of web-based software tools and services, we may collect two basic types of information, personal information and anonymous information – and we may use personal and anonymous information to create a third type of information – aggregate information. Personal and anonymous information may be collected directly from our customers and prospective customers, including when our customers or prospective customers communicate with us through our website located at https://ecommhub.com (“Website”). We define “personal information” as information that is unique to an individual and might include the following: name, age, mailing address, zip code, other contact information, billing information, email addresses, and telephone numbers. We may collect certain information actively from users within our Website and other information passively (e.g., IP address). We will update your information whenever we can to keep it current, accurate and complete.</p>
+<h4>Our Use of Your Information</h4>
+<p>If we do receive your personal information, we will only use it for the purposes described where it is collected or otherwise described in this Policy, and we will not sell, license, transmit or disclose this information outside of eCommHub unless (1) you expressly authorize us to do so; (2) it is necessary to allow our service providers or agents to provide services for us, (3) it is necessary in order to provide our products or services to you (and to contact you when necessary), (4) subject to applicable contractual or legal restrictions, it is disclosed to entities that perform marketing services on our behalf or to other entities with whom we have joint marketing agreements, (5) subject to applicable contractual or legal restrictions, it is necessary in connection with a sale of all or substantially all of the assets of eCommHub or the merger of eCommHub into another entity or any consolidation, share exchange, combination, reorganization, or like transaction in which eCommHub is not the survivor, (6) it is necessary in connection with other business purposes including, without limitation, customer care, service quality, business management and operation, risk assessment, security, fraud and crime prevention/detection, monitoring, research and analysis, marketing, customer purchasing preferences and trends, dispute resolution, credit checking and debt collection, or (7) otherwise as we are required or permitted by law.</p>
+<p>If you are a California resident, you may ask us to refrain from sharing your personal information (whether collected online or offline) with third parties for their marketing purposes. Please tell us your preference by contacting us as indicated in the “How to Contact Us” section of this Policy below. If you do not agree to Our Use of Your Information above, we cannot do business with you or authorize you to access our Website or use the eCommHub services available through our Website. Your continued use of our Website and the eCommHub services available through our Website and your continued payment of fees for access to eCommHub’s Website and services constitutes your acceptance of this Policy.</p>
+<h4>Direct Marketing Material</h4>
+<p>Subject to applicable contractual or legal restrictions, we may from time to time contact you with information on offers of goods and services, brochures, new products and forthcoming events. Our Website will assume you agree to electronic communications when you establish an account with eCommHub or request services online. You may indicate your preference regarding receiving third-party direct marketing material. If you do not wish to receive such information or would like to change your preference, please refer to “Your Rights” below.</p>
+<h4>Email</h4>
+<p>We appreciate your questions and comments about eCommHub and its products and services. Please see the “How to Contact Us” section of this Policy for instructions on how to send your questions and comments to us. We will share your messages with those within our organization who are most capable of addressing the issues contained in your message. We will keep a copy of your message until we have had an opportunity to address your concerns. We may archive your message for a certain period of time or discard it once it is no longer needed.</p>
+<h4>Your Rights</h4>
+<p>You have the right to ask in writing not to receive direct marketing material from us. If available, you can amend your previous preference by indicating as such in the “How to Contact Us” section of this Policy or refer to our literature (including the email sent to you by us) containing unsubscribe instructions. Once properly notified by you, we will take steps to stop using your information in this way. Please allow us a reasonable period of time in order to satisfy your request.</p>
+<h4>Use of Tools, “Cookies” and Links to Other Websites</h4>
 <p>If our contact and dealing with you is via our Website, we may use ÒcookiesÓ. Cookies allow us to identify your computer, but not you personally. You can set your web browser to refuse cookies. However, you may not be able to enjoy access and use all of the services available to you on our Website.</p>
-
 <p>However, if you also receive our email marketing, we will tailor the information we send you unless you tell us not to. This means we may use information we hold and cookies to identify your individual website search behavior and preferences. This will enable us to send you more personalized and relevant communications. You will be given the opportunity on every communication to opt-out of this personalization.</p>
-
 <p>We may collect information relating to customer trends and patterns and use cookies and software tools to measure site usage and related information. If you or your customers are making a purchase, we may also use cookies to keep track of the transaction from one web page to another.</p>
-
-<p>In addition to the information we collect from cookies, we may also obtain information which you provide to us online - for example, when you establish an account with eCommHub or accept eCommHub services, including installing any eCommHub applications or when you purchase any eCommHub products or services, or otherwise when you communicate with us.  In some cases, we retain both the cookie information and/or the information you provide to us online - for example, to complete a transaction you requested or to keep historical records of your past transactions.  In other cases, we only retain the cookie and/or online information you give us if you request us to do so for your use in subsequent sessions.</p>
-
-<p>An Internet Protocol ("IP") address is a unique identifier that certain electronic devices use to identify and communicate with each other on the Internet. When you visit our Website, we may view the IP address (which may indicate the city, domain address and service provider) of the device you use to connect to the Internet. We use this information to determine the general physical location of the device and understand from what regions of the world our Website visitors are originating. We also may use this information to enhance our Website and services.</p>
-
-<p>Certain pages on our Website contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party.</p>
-
-<p>eCommHub uses Google Analytics, which is a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to help analyze how individuals use the services. The non-personal information generated by the cookie about your use of the Website and any applications available through the Website will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purposes of evaluating your use of the Website and its applications, compiling reports on Website and application activity for our purpose, evaluation and providing other services relating to activity on and usage of the Website and its applications. Google will not associate your IP address with any other data held by Google. You may disable cookies within your browser as described above; however, please note that if you do this you may not be able to use the full functionality of the Website or applications. By using this Website or any of its applications, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For certain browsers, you can also prevent Google from collecting information (including your IP address) via cookies and processing this information by downloading this browser plugin and installing it: http://tools.google.com/dlpage/gaoptout.</p>
-
-<h2>Children</h2>
-
-<p>We are committed to preserving online privacy for all of the visitors to our Website, including children. Our Website is a general audience website, and we do not knowingly collect information about children or provide services to children.  Consistent with the Children's Online Privacy Protection Act, we will not knowingly collect any information from children under the age of 13.  The eCommHub Website is not designed to attract anyone under the age of majority in the applicable jurisdiction.</p>
-
-<h2>Monitoring</h2>
-
-<p>To ensure that we carry out your instructions accurately, improve our products and services and for security, we may monitor and/or record: (1) telephone calls; (2) activities using CCTV in and around our premises; and (3) transactions and activities on our Website.  Recordings are and shall remain our sole property.</p>
-
-<h2>Security Statement</h2>
-
+<p>In addition to the information we collect from cookies, we may also obtain information which you provide to us online – for example, when you establish an account with eCommHub or accept eCommHub services, including installing any eCommHub applications or when you purchase any eCommHub products or services, or otherwise when you communicate with us. In some cases, we retain both the cookie information and/or the information you provide to us online – for example, to complete a transaction you requested or to keep historical records of your past transactions. In other cases, we only retain the cookie and/or online information you give us if you request us to do so for your use in subsequent sessions.</p>
+<p>An Internet Protocol (“IP”) address is a unique identifier that certain electronic devices use to identify and communicate with each other on the Internet. When you visit our Website, we may view the IP address (which may indicate the city, domain address and service provider) of the device you use to connect to the Internet. We use this information to determine the general physical location of the device and understand from what regions of the world our Website visitors are originating. We also may use this information to enhance our Website and services.</p>
+<p>Certain pages on our Website contain “web beacons” (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party.</p>
+<p>eCommHub uses Google Analytics, which is a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help analyze how individuals use the services. The non-personal information generated by the cookie about your use of the Website and any applications available through the Website will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purposes of evaluating your use of the Website and its applications, compiling reports on Website and application activity for our purpose, evaluation and providing other services relating to activity on and usage of the Website and its applications. Google will not associate your IP address with any other data held by Google. You may disable cookies within your browser as described above; however, please note that if you do this you may not be able to use the full functionality of the Website or applications. By using this Website or any of its applications, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For certain browsers, you can also prevent Google from collecting information (including your IP address) via cookies and processing this information by downloading this browser plugin and installing it: http://tools.google.com/dlpage/gaoptout.</p>
+<h4>Children</h4>
+<p>We are committed to preserving online privacy for all of the visitors to our Website, including children. Our Website is a general audience website, and we do not knowingly collect information about children or provide services to children. Consistent with the Children’s Online Privacy Protection Act, we will not knowingly collect any information from children under the age of 13. The eCommHub Website is not designed to attract anyone under the age of majority in the applicable jurisdiction.</p>
+<h4>Monitoring</h4>
+<p>To ensure that we carry out your instructions accurately, improve our products and services and for security, we may monitor and/or record: (1) telephone calls; (2) activities using CCTV in and around our premises; and (3) transactions and activities on our Website. Recordings are and shall remain our sole property.</p>
+<h4>Security Statement</h4>
 <p>We have taken reasonable steps and have in place appropriate security measures to protect your personal information, including keeping your financial information private and safe. You acknowledge, however, that no transmission of data over the Internet can be guaranteed to be 100% secure, despite our efforts. Thus, while we will use commercially reasonable means to ensure the security of information you transmit to us, we cannot guarantee that such information will not be intercepted by third parties.</p>
-
-<h2>Visiting Our Website from Outside of the United States</h2>
-
-<p>If you are visiting our Website or purchasing our services from outside of the United States or otherwise contacting us from outside of the United States, please be aware that your personal information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy.  By using our services or purchasing our products, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.</p>
-
-<h2>Links to Other Websites</h2>
-
+<h4>Visiting Our Website from Outside of the United States</h4>
+<p>If you are visiting our Website or purchasing our services from outside of the United States or otherwise contacting us from outside of the United States, please be aware that your personal information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy. By using our services or purchasing our products, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.</p>
+<h4>Links to Other Websites</h4>
 <p>For your convenience, we may provide links to other websites and web pages that we do not control. We cannot be responsible for the privacy practices of any websites or pages not under our control, and we do not endorse any of these websites or pages, the services or products described or offered on such sites or pages, or any of the content contained on those sites or pages.</p>
-
-<p>Certain personal information may be made available to third parties using software tools, including application programming interfaces (API).  Use of third party applications developed using those APIs are subject to the terms of use and privacy policies of such third party developers.  You should be aware that such APIs may expose user information and you should review their terms appropriately.</p>
-
-<h2>Changes to this Policy</h2>
-
-<p>We may change this Policy at any time and from time to time. Any changes to this Policy will be either posted on our Website, included in a brochure and/or made available on request.  The most recent version of the Policy is reflected by the version date located at the bottom of this Policy.  This Policy is not intended to and does not create any contractual or other legal right in or on behalf of any party.</p>
-
-<h2>How to Contact Us</h2>
-
-<p>
-  If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at
-  <script>
-    <!-- /<![CDATA[ -->
-    <!--
-    var x="function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){y%=127;o+=St" +
-    "ring.fromCharCode(x.charCodeAt(i)^(y++));}return o;}f(\"_OU_IWP.a$k<l=1);j\\"+
-    "\"`\\\"smr}=?i-x;=7=/4q2b\\017\\rY\\024\\014\\014\\n\\002@\\021D\\010\\004\\"+
-    "014\\034,\\037\\025\\0272\\000]\\032XIJSZAHO)zvq}~~,5q1g'0b4mrsgw}>r1bgfzrl" +
-    "7I\\034N\\016\\025\\036O\\031\\025\\031\\021B\\001\\000\\007T_\\032\\017K\\" +
-    "032V^VJxN\\023U\\024\\005B2$666+f(f:?)?9<g`}=?}n+1p{snmq\\002}\\\\W\\\\NEY\\"+
-    "006H*YX[01]]@-.CGE*+,JIK !\\014\\\\]504YZ4;9VW<>>SL\\\"!#HI&%(EF,.-BC\\021\\"+
-    "025\\022\\023xy\\023\\024\\030uv\\032\\034\\035rs\\005\\002\\002oh\\001\\00" +
-    "5\\007de\\014\\010\\014ab\\016sq\\036\\037\\023\\017}uzy\\026\\027{\\177~\\" +
-    "023\\014bcc\\010\\teeh\\005\\006inm\\002\\003TSR?8VQPY56WDY\\\\_,-DDBFEG$%H" +
-    "\\rE@L?503XYt4:9VW\\177%.03,zv&&&KD11;p>+Hsqq{{\\\\jbqlnmm\\036\\037\\037lm" +
-    "mhvq{q\\010\\010\\ng`H\\013\\rp\\035\\036\\002\\007\\022\\ntxy\\026\\027\\0" +
-    "17x}\\177\\014\\r`cd\\t\\n`((#4/61f\\002\\032\\023\\035\\003\\027QPY56\\000" +
-    "0OF\\t\\rJ\\035S\\032\\007\\003\\003\\035\\013\\007@UTU+x*]-l.sIlndO\\177og" +
-    "s?j;qqyTjxrXqrly\\016FLJVQu\\032\\003F\\021\\034\\036\\034\\023\\nIJ\\033\\" +
-    "030\\037\\\\\\r[\\004P\\001\\013\\001T\\026M/'y+0\\\"(\\\"$g2v a\\022m\\014" +
-    "so<x<v%9/!r%q&w\\006A\\014\\014\\r\\021\\005\\t\\035\\017HB\",57)"           ;
-    while(x=eval(x));
-    <!-- /--> -->
-    <!-- /]]> -->
-  </script><a href="mailto:support@ecommhub.com" title="Email eCommHub Support">support@ecommhub.com</a>
-
-  or call us at 678-653-1482.
-</p>
-
+<p>Certain personal information may be made available to third parties using software tools, including application programming interfaces (API). Use of third party applications developed using those APIs are subject to the terms of use and privacy policies of such third party developers. You should be aware that such APIs may expose user information and you should review their terms appropriately.</p>
+<h4>Changes to this Policy</h4>
+<p>We may change this Policy at any time and from time to time. Any changes to this Policy will be either posted on our Website, included in a brochure and/or made available on request. The most recent version of the Policy is reflected by the version date located at the bottom of this Policy. This Policy is not intended to and does not create any contractual or other legal right in or on behalf of any party.</p>
+<h4>How to Contact Us</h4>
+<p>If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at <a title="Email eCommHub Support" href="mailto:support@ecommhub.com">support@ecommhub.com</a> or call us at 678-653-1482.</p>
 <p>This Privacy Policy was last updated and posted on May 7, 2012.</p>
+</div>    	    </div>
+    <div class="page-sidebar">
+          </div>
+  </main><!-- #main -->
 
-</div>
-<div class="clear"></div>
 
-</div>
-<div id="footer-wrapper">
-<div id="footer">
-<div class="link-box">
-<h6>eCommHub</h6>
-<ul>
-<li><a href="/faqs/">How It Works</a></li>
-<li><a href="/pricing/">Pricing &amp; Signup</a></li>
-<li><a href="/use-cases/">Use Cases</a></li>
-<li><a href="http://blog.ecommhub.com/" target="_blank" title="Fulfillment 3PL e-commerce blog by eCommHub">eCommHub Blog</a></li>
-<li><a href="/careers/">Careers</a></li>
-</ul>
-</div>
-<div class="link-box">
-<h6>Features</h6>
-<ul>
-<li><a href="/features/seamless-integration/">Seamless Integration</a></li>
-<li><a href="/features/inventory-tracking/">Inventory Management</a></li>
-<li><a href="/features/fulfillment-automation/">Effortless Order Routing</a></li>
-<li><a href="/features/multichannel-inventory/">Multichannel Syncing</a></li>
-<li><a href="/features/shipment-tracking/">Shipment Tracking</a></li>
-<li><a href="/features/business-intelligence/">Business Intelligence</a></li>
-</ul>
-</div>
-<div class="link-box" style="margin-left: 25px;">
-<h6>Integrations</h6>
-<ul>
-<li><a href="/integrations/shopify/">Shopify</a></li>
-<li><a href="/integrations/bigcommerce/">BigCommerce</a></li>
-<li><a href="/integrations/magento/">Magento</a></li>
-<li><a href="/integrations/amazon/">Amazon</a></li>
-<li><a href="/integrations/ebay/">eBay</a></li>
-<li><a href="/integrations/3dcart/">3dcart</a></li>
-<li><a href="/integrations/">and more</a></li>
-</ul>
-</div>
-<div class="link-box">
-<h6>Contact Us</h6>
-<ul class="contact-links">
-<li><a href="/contact/">Contact Us</a></li>
-<li><a href="http://support.ecommhub.com/">Support Center</a></li>
-<li class="phone-gc-disable">(404) 492-5804</li>
-<!-- %li.phone-gc-disable <b>Support:</b> #{ENV['ECOMMHUB_SUPPORT_PHONE']} -->
-<li style="margin-bottom: 1em;">Mon-Fri, 10-6pm EST</li>
-<li style="display:inline">
-<a alt="Twitter" href="http://twitter.com/ecommhub" id="twitter" style="margin-right: 0.3em" target="_blank">
-<img alt="Twitter" src="/images/home/twitter.png?1403668946" style="width: 33px">
+
+
+</div><!-- #content -->
+
+<footer class="site-footer">
+  <div class="container">
+		<div class="copyright">
+			©2015 eCommHub		</div>
+
+		<a class="site-logo" href="https://ecommhub.com/" rel="home">eCommHub</a>
+		
+		<nav class="footer-menus">
+			
+
+<aside id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title">eCommHub</h3><div class="menu-footer-ecommhub-container"><ul id="menu-footer-ecommhub" class="menu"><li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="https://ecommhub.com/how-it-works/">How it Works</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="https://ecommhub.com/pricing/">Pricing</a></li>
+<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="https://ecommhub.com/get-started/">Get Started</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="https://ecommhub.com/about-us/">About Us</a></li>
+<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="https://ecommhub.com/careers/">Careers</a></li>
+<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://ecommhub.com/blog/">Blog</a></li>
+<li id="menu-item-426" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-426"><a href="https://signin.ecommhub.com/">Customer Sign In</a></li>
+<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="https://ecommhub.com/terms/">Terms of Service</a></li>
+<li id="menu-item-771" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-765 current_page_item menu-item-771"><a href="https://ecommhub.com/privacy/">Privacy Policy</a></li>
+</ul></div></aside><aside id="nav_menu-3" class="widget widget_nav_menu"><h3 class="widget-title">Features &amp; Use Cases</h3><div class="menu-footer-features-use-cases-container"><ul id="menu-footer-features-use-cases" class="menu"><li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="https://ecommhub.com/features/inventory-management/">Inventory Management</a></li>
+<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="https://ecommhub.com/features/order-routing/">Order Routing</a></li>
+<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="https://ecommhub.com/features/shipment-tracking/">Shipment Tracking</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="https://ecommhub.com/how-it-works/third-party-fulfillment/">Third Party Fulfillment</a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="https://ecommhub.com/how-it-works/dropshipping/">Dropshipping</a></li>
+<li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="https://ecommhub.com/how-it-works/custom-fulfillment-distribution/">Custom Fulfillment &amp; Distribution</a></li>
+<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="https://ecommhub.com/faqs/">FAQs</a></li>
+</ul></div></aside><aside id="nav_menu-4" class="widget widget_nav_menu"><h3 class="widget-title">Integrations</h3><div class="menu-footer-integrations-container"><ul id="menu-footer-integrations" class="menu"><li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-integrations menu-item-333"><a href="https://ecommhub.com/integrations/amazon/">Amazon</a></li>
+<li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-integrations menu-item-332"><a href="https://ecommhub.com/integrations/magento/">Magento</a></li>
+<li id="menu-item-881" class="menu-item menu-item-type-post_type menu-item-object-integrations menu-item-881"><a href="https://ecommhub.com/integrations/channeladvisor/">ChannelAdvisor</a></li>
+<li id="menu-item-331" class="menu-item menu-item-type-post_type menu-item-object-integrations menu-item-331"><a href="https://ecommhub.com/integrations/shopify/">Shopify</a></li>
+<li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-integrations menu-item-330"><a href="https://ecommhub.com/integrations/bigcommerce/">BigCommerce</a></li>
+<li id="menu-item-329" class="menu-item menu-item-type-post_type menu-item-object-integrations menu-item-329"><a href="https://ecommhub.com/integrations/3dcart/">3dCart</a></li>
+</ul></div></aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('8671-911-10-1222');/*]]>*/</script><noscript><a href="https://www.olark.com/site/8671-911-10-1222/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code --></div>
+		</aside><aside id="contact-info" class="widget">
+	<h3 class="widget-title">Contact Us</h3>
+	<div>
+		<p>
+			<a href="http://support.ecommhub.com">Support Center</a><br>
+			<a href="tel:8776747497">877-674-7497</a><br>
+			9 a.m.-6 p.m. EST Monday-Friday		</p>
+		<p>
+		  <a href="https://goo.gl/maps/rLPxq" target="_blank">730 Peachtree St., NE Suite 330<br>
+Atlanta, GA 30308
 </a>
-</li>
-<li style="display:inline">
-<a alt="Facebook" href="http://facebook.com/ecommhub" id="facebook" target="_blank">
-<img alt="Facebook" src="/images/home/facebook.png?1403668946" style="width: 35px">
-</a>
-</li>
-</ul>
+		</p>
+		<p>
+			<a href="/contact">Contact Us</a>
+		</p>
+		<div class="social">
+			<a class="social-facebook" href="https://www.facebook.com/ecommhub"><i class="icon-facebook"></i></a>
+			<a class="social-twitter" href="https://twitter.com/eCommHub"><i class="icon-twitter"></i></a>
+		</div>
+	</div>
+</aside>		</nav>
+  </div>
+</footer>
+
+<script type="text/javascript">
+adroll_adv_id = "T4BFA6JEBNDUBLI64TKFZW";
+adroll_pix_id = "IDSRE2EVABHXVMTSANE752";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'ecommhub';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) url = url[0];
+                    else url = url[1]
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+<script type="text/javascript" src="https://ecommhub.com/wp-content/themes/ecommhub2014/js/navigation.js?ver=20140723"></script>
+<script type="text/javascript" src="https://ecommhub.com/wp-content/themes/ecommhub2014/js/skip-link-focus-fix.js?ver=20140723"></script>
+<script type="text/javascript" src="https://ecommhub.com/wp-content/themes/ecommhub2014/js/skrollr.js?ver=20140723"></script>
+<script type="text/javascript" src="https://ecommhub.com/wp-content/themes/ecommhub2014/js/svgeezy.min.js?ver=20140723"></script>
+<script type="text/javascript" src="https://ecommhub.com/wp-content/themes/ecommhub2014/js/ecommhub2014.js?ver=20140723"></script>
+
+<script type="text/javascript">
+piAId = '46702';
+piCId = '3046';
+
+(function() {
+	function async_load(){
+		var s = document.createElement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+<script>
+//<![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24781866-1']);
+  _gaq.push(['_setDomainName', '.ecommhub.com']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+//]]>
+</script>
 </div>
-<div class="clear"></div>
-<p class="copyright">© 2009-2014 eCommHub, Inc. All rights reserved. <a href="/terms/">Terms</a> and <a href="/privacy/">Privacy</a>.</p>
-<div class="clear"></div>
-</div>
-<div class="clear"></div>
-</div>
+.
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
