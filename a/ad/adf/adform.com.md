@@ -1,6 +1,31 @@
-> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113045136id_/http%3A//site.adform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316063211id_/http%3A//site.adform.com/privacy-policy) for the most accurate reproduction.*
 
 # Adform | Privacy Policy & Opt-Out
+
+### You are using unsupported browser!
+
+For the best possible experience, we recommend you to upgrade your browser or start using one of the other supported web browsers below.  
+We are working hard to deliver the best possible experience for all of our users. At the moment your browser is not in the supported browsers list, so we can’t ensure that all features of Adform will be working properly.
+
+  * [
+
+#### Google chrome
+
+**Visit download page** ](http://www.google.com/chrome/)
+  * [
+
+#### Mozilla Firefox
+
+**Visit download page** ](http://www.mozilla.com/firefox/)
+  * [
+
+#### Internet explorer 9+
+
+**Visit download page** ](http://www.microsoft.com/windows/internet-explorer/download-ie.aspx)
+
+
+
+**Need help with upgrading?** [Click here](mailto:traffic@adform.com?subject=Need%20help%20upgrading%20browser) to contact Adform support and we will help you with transition
 
 ## General Practice
 
