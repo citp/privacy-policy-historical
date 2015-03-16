@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blueskyfactory.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625222240id_/http%3A//www.whatcounts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueskyfactory.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316153316id_/http%3A//www.whatcounts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | WhatCounts - Enterprise Email Marketing Solutions
 
 ## What This Privacy Policy Covers
 
