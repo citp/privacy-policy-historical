@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the purse.io privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722193334id_/https%3A//purse.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purse.io privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316012522id_/https%3A//purse.io/privacy) for the most accurate reproduction.*
 
 # PurseIO » Spend Bitcoin on Amazon, Buy Bitcoin using a Credit Card
 
-This privacy policy (“Policy”) explains how personally identifiable information is collected, used and disclosed by PurseIO, Inc. (“PurseIO”, “we”, “our” or “us”) with respect to your access and use of the PurseIO website located at [www.purse.io](http://www.purse.io/) (the “Site”) and PurseIO’s products and services (collectively, the “Service”), so that you can make an informed decision about using the Service.
+This privacy policy (“Policy”) explains how personally identifiable information is collected, used and disclosed by PurseIO, Inc. (“PurseIO”, “we”, “our” or “us”) with respect to your access and use of the PurseIO website located at [www.purse.io](http://www.purse.io/) (the “Site”) and PurseIO’s products and services (collectively, the “Service”), so that you can make an informed decision about using the Service.
 
 We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used.
 
@@ -76,9 +76,9 @@ We are not responsible for the actions of Service Providers or other third-parti
 
 ### Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire the Service, you may correct, update or delete it by making the change on PurseIO settings or by emailing our customer support at [PurseIO Support](mailto:support@purse.io).
+If your personally identifiable information changes, or if you no longer desire the Service, you may correct, update or delete it by making the change on PurseIO settings or by emailing our customer support at [PurseIO Support](mailto:support@purse.io).
 
-If you wish to request the deletion of an unauthorized account, you may contact us at [PurseIO Support](mailto:support@purse.io).
+If you wish to request the deletion of an unauthorized account, you may contact us at [PurseIO Support](mailto:support@purse.io).
 
 We will retain your information for as long as your account is active or as needed to provide the Service. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
@@ -92,11 +92,11 @@ The Service may contain links to other websites. Any personally identifiable inf
 
 ### Security – What Steps Do We Take To Protect Your Information Online?
 
-We take reasonable measures to protect your personally identifiable information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can guarantee against any interception or any other type of misuse. Therefore, we cannot guarantee its absolute security. To assist with the protection of personally identifiable information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Service by any person using your password. Please advise us immediately if you believe your password has been misused. If you have any questions about security on our Service, you can contact us at [PurseIO Support](mailto:support@purse.io).
+We take reasonable measures to protect your personally identifiable information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can guarantee against any interception or any other type of misuse. Therefore, we cannot guarantee its absolute security. To assist with the protection of personally identifiable information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Service by any person using your password. Please advise us immediately if you believe your password has been misused. If you have any questions about security on our Service, you can contact us at [PurseIO Support](mailto:support@purse.io).
 
 ### Advertising
 
-We partner with a third-party ad network to display advertising. Our ad network partner uses Web beacons and log files to collect non-personally identifiable information about your activities on our site to provide you with targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by emailing [support@purse.io](mailto:support@purse.io). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third-party ad network to display advertising. Our ad network partner uses Web beacons and log files to collect non-personally identifiable information about your activities on our site to provide you with targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by emailing [support@purse.io](mailto:support@purse.io). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ### Connecting Via Social Networks
 
@@ -108,8 +108,8 @@ The Service includes social media features, such as the Facebook Like button and
 
 ### What Choices Do You Have Regarding the Use of Your Information?
 
-You may “opt-out” of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt-out of such marketing emails by following the instructions within such emails or emailing us at [PurseIO Support](mailto:support@purse.io). If you opt-out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
+You may “opt-out” of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt-out of such marketing emails by following the instructions within such emails or emailing us at [PurseIO Support](mailto:support@purse.io). If you opt-out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
 
 ### Questions?
 
-If you have any questions about this Policy, please contact us at [PurseIO Support](mailto:support@purse.io).
+If you have any questions about this Policy, please contact us at [PurseIO Support](mailto:support@purse.io)
