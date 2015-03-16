@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellopretty.co.za privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701215059id_/https%3A//hellopretty.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellopretty.co.za privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316180903id_/https%3A//hellopretty.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hello Pretty. Buy design.
 
@@ -158,9 +158,11 @@ You can update your personal information anytime by accessing your account on He
 
 7.1.5. The time spent on those pages, items and information searched for on our site, access times and dates, and other statistics
 
-7.2. This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide.
+7.2. We may use your country location, as per your IP address (provided by [IP2Location](http://www.ip2location.com/)) to improve your experience on the website.
 
-7.3. Hello Pretty tracks personal information about users via the use of cookies. These are used to enhance your experience on the site. These cookies are stored on your computer and may be deleted by you at any time. Users may also elect to disable cookies, but we take no responsibility for a loss of functionality in this case.
+7.3. This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide.
+
+7.4. Hello Pretty tracks personal information about users via the use of cookies. These are used to enhance your experience on the site. These cookies are stored on your computer and may be deleted by you at any time. Users may also elect to disable cookies, but we take no responsibility for a loss of functionality in this case.
 
 |  |   
   
