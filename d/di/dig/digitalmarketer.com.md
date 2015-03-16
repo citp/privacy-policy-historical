@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalmarketer.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626072042id_/http%3A//www.digitalmarketer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmarketer.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316093148id_/http%3A//www.digitalmarketer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Digital Marketer
+# Privacy Policy - Digital Marketer
 
 DigitalMarketer.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
