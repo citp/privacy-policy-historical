@@ -1,53 +1,134 @@
-> *The following text is extracted and transformed from the bglad.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326104406id_/http%3A//www.bglad.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bglad.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316103642id_/https%3A//www.bglad.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : Lesbian, Gay, Bisexual, and Transgendered (LGBT) Directory
 
-####  Tags 
+We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
-[Hawaii](http://www.bglad.com/mod/tagcloud/Hawaii), [homes for sale](http://www.bglad.com/mod/tagcloud/homes+for+sale), [ceremonies](http://www.bglad.com/mod/tagcloud/ceremonies), [ceremony](http://www.bglad.com/mod/tagcloud/ceremony), [realty](http://www.bglad.com/mod/tagcloud/realty), [bed and breakfast](http://www.bglad.com/mod/tagcloud/bed+and+breakfast), [gay men](http://www.bglad.com/mod/tagcloud/gay+men), [wedding officiant](http://www.bglad.com/mod/tagcloud/wedding+officiant), [lesbian weddings](http://www.bglad.com/mod/tagcloud/lesbian+weddings), [accommodations](http://www.bglad.com/mod/tagcloud/accommodations), [Florida](http://www.bglad.com/mod/tagcloud/Florida), [lesbian wedding](http://www.bglad.com/mod/tagcloud/lesbian+wedding), [lodging](http://www.bglad.com/mod/tagcloud/lodging), [lesbian owned](http://www.bglad.com/mod/tagcloud/lesbian+owned), [FL](http://www.bglad.com/mod/tagcloud/FL), [gay realtor](http://www.bglad.com/mod/tagcloud/gay+realtor), [Washington](http://www.bglad.com/mod/tagcloud/Washington), [California](http://www.bglad.com/mod/tagcloud/California), [officiant](http://www.bglad.com/mod/tagcloud/officiant), [Maryland](http://www.bglad.com/mod/tagcloud/Maryland), [friendly](http://www.bglad.com/mod/tagcloud/friendly), [friends](http://www.bglad.com/mod/tagcloud/friends), [romantic](http://www.bglad.com/mod/tagcloud/romantic), [support](http://www.bglad.com/mod/tagcloud/support), [lesbian](http://www.bglad.com/mod/tagcloud/lesbian), [san francisco](http://www.bglad.com/mod/tagcloud/san+francisco), [chapter](http://www.bglad.com/mod/tagcloud/chapter), [luxury](http://www.bglad.com/mod/tagcloud/luxury), [parents](http://www.bglad.com/mod/tagcloud/parents), [wedding](http://www.bglad.com/mod/tagcloud/wedding), [events](http://www.bglad.com/mod/tagcloud/events), [gay travel](http://www.bglad.com/mod/tagcloud/gay+travel), [hotel](http://www.bglad.com/mod/tagcloud/hotel), [pflag](http://www.bglad.com/mod/tagcloud/pflag), [CA](http://www.bglad.com/mod/tagcloud/CA), [San Diego](http://www.bglad.com/mod/tagcloud/San+Diego), [MA](http://www.bglad.com/mod/tagcloud/MA), [receptions](http://www.bglad.com/mod/tagcloud/receptions), [party](http://www.bglad.com/mod/tagcloud/party), [parties](http://www.bglad.com/mod/tagcloud/parties), [luxurious](http://www.bglad.com/mod/tagcloud/luxurious), [Massachusetts](http://www.bglad.com/mod/tagcloud/Massachusetts), [lesbians](http://www.bglad.com/mod/tagcloud/lesbians), [condos](http://www.bglad.com/mod/tagcloud/condos), [guesthouse](http://www.bglad.com/mod/tagcloud/guesthouse), [b&b](http://www.bglad.com/mod/tagcloud/b%26b), [gay wedding](http://www.bglad.com/mod/tagcloud/gay+wedding), [gay owned](http://www.bglad.com/mod/tagcloud/gay+owned), [gay weddings](http://www.bglad.com/mod/tagcloud/gay+weddings), [realtor](http://www.bglad.com/mod/tagcloud/realtor), [gays](http://www.bglad.com/mod/tagcloud/gays), [wedding venue](http://www.bglad.com/mod/tagcloud/wedding+venue), [New York](http://www.bglad.com/mod/tagcloud/New+York), [gay marriage](http://www.bglad.com/mod/tagcloud/gay+marriage), [bed & breakfast](http://www.bglad.com/mod/tagcloud/bed+%26+breakfast), [Canada](http://www.bglad.com/mod/tagcloud/Canada), [residential](http://www.bglad.com/mod/tagcloud/residential), [gay](http://www.bglad.com/mod/tagcloud/gay), [vacation rental](http://www.bglad.com/mod/tagcloud/vacation+rental), [gay friendly](http://www.bglad.com/mod/tagcloud/gay+friendly), [Inn](http://www.bglad.com/mod/tagcloud/Inn), [real estate agent](http://www.bglad.com/mod/tagcloud/real+estate+agent), [mexico](http://www.bglad.com/mod/tagcloud/mexico), [Weddings](http://www.bglad.com/mod/tagcloud/Weddings), [families](http://www.bglad.com/mod/tagcloud/families)
+By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
-[All Tags](http://www.bglad.com/mod/tagcloud/)
+**(1) What information do we collect?**
 
-We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our Web site. By using this site, you signify your assent to these our privacy practices and the terms and conditions of our Web site.
+We may collect, store and use the following kinds of personal information:
 
-**If this policy is not agreeable to you, please do not use this site.**
+(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation);  
+(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;  
+(c) information that you provide to us for the purpose of registering with us;  
+(d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters;  
+(e) any other information that you choose to send to us.
 
-**WHAT TYPE INFORMATION IS COLLECTED?**
+Before you disclose to us the personal information of another person, you must obtain that person's consent to both the disclosure and the processing of that personal information in accordance with the terms of this privacy policy.
 
-**Personal Information**  
-We only collect personal information from visitors to our Web site when they voluntarily provide it to us by completing our registration form. We may require visitors to provide us with information including, but not limited to, their name, email address, username, and password.
+**(2) Cookies**
 
-**Non-Personal Information**  
-When visitors access our Web site, certain non-personal information may be collected from them including, but not limited to, their browser type (e.g., Mozilla, Opera or Internet Explorer), operating system (e.g., Windows or Macintosh), IP address, and the domain name from which they accessed the site (e.g., google.com). In addition, we may collect information about visitors' browsing behavior, such as the date and time they visit the Web site, the areas or pages of our Web site that they visit, the amount of time spent viewing the site, the number of times the visitor returns to the site, and click-stream data. We use transparent tracking pixels to determine the number of Web site visitors that have been sent to us through our affiliate network. We do not track any information about visitors once they leave our site. We may use cookies (small text files that are stored on visitors computers when they access our Web site) to collect this information. Information collected through cookies may be combined with visitors' personal information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our Web site. Visitors are always free to decline cookies, but in doing so they may not be able to use certain features on our Web site. The "help" segment of the toolbar on most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie, and how to erase cookies from their hard drives.
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+We may use both "session" cookies and "persistent" cookies on the website. Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-**IN WHAT WAY DO WE USE YOUR PERSONAL AND NON-PERSONAL INFORMATION?**  
-Our goal in collecting personal information is to provide visitors with the most personalized Web experience possible and our advertisers with an efficient means to reach the right audience. By knowing a little about our visitors, we are able to deliver more relevant content and advertisements, and provide better services. We may use information collected from visitors to our Web site for any of the following purposes: (1) to administer our Web site, (2) to conduct internal reviews of our site (e.g., to determine the number of visitors to the site), (3) to help us better understand visitors' use of our site, (4) to help diagnose problems with our server, and (5) to protect the security or integrity of our site. Non-personal information will be used for purposes of conducting internal reviews of the site, monitoring the site, and providing a greater online experience for our visitors.
+We will use the session cookies to: keep track of you whilst you navigate the website; keep track of items in your shopping basket; prevent fraud and increase website security. We will use the persistent cookies to: enable our website to recognise you when you visit; keep track of your preferences in relation to your use of our website.
 
-**DO WE DISCLOSE YOUR INFORMATION?**  
-We will not transfer nor disclose information collected from visitors to our Web site to our independent contractors, subsidiaries and affiliates Our third party service providers have their own terms and conditions and privacy policies. We suggest that visitors access these third party sites and review their terms and conditions and privacy policies before "subscribing" to any third party offer. We may share non-personal information we collect from visitors to our site, such as their browsing behaviors, with third parties. For example, we may tell a third party advertiser that a certain number of people have visited a certain area on our Web site.
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on user's computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <https://www.google.com/policies/privacy/>.
 
-**WHAT SECURITY MEASURES DO WE TAKE TO PROTECT YOUR DATA?**  
-To help prevent unauthorized access, maintain data integrity, and ensure the appropriate use of information, we have put in place certain physical, electronic, and managerial procedures to safeguard and secure the information we collect from visitors to our Web site. We allow access to personal information only to persons and entities engaging in activities provided for by this Privacy Policy. Visitors should consider any communication that they transmit to us (such as data, questions or answers, comments, suggestions, or communications submitted to a chat room) to be non-confidential. We will not be liable or responsible if information that belongs to a visitor is intercepted and used by an unintended recipient.
+Our third-party advertisers / payment services providers may also send you cookies.
 
-**WE PROTECT CHILDREN'S PRIVACY**  
+Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one./p>
+
+**(3) Using your personal information**
+
+Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+
+We may use your personal information to:
+
+(a) administer the website;  
+(b) improve your browsing experience by personalizing the website;  
+(c) enable your use of the services available on the website;  
+(d) send you goods purchased via the website, and supply to you services purchased via the website;  
+(e) send statements and invoices to you, and collect payments from you;  
+(f) send you general (non-marketing) commercial communications;  
+(g) send you email notifications which you have specifically requested;  
+(h) send you our newsletter and other marketing communications relating to our business, by post or, where you have specifically agreed to this, by email or similar technology (and you can inform us at any time if you no longer require marketing communications);  
+(i) provide third parties with statistical information about our users – but this information will not be used to identify any individual user;  
+(j) deal with enquiries and complaints made by or about you relating to the website;  
+(k) keep the website secure and prevent fraud;  
+(l) verify compliance with the terms and conditions governing the use of the website.
+
+Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
+
+We will not, without your express consent, provide your personal information to any third parties for the purpose of direct marketing.
+
+All our website financial transactions are handled through our payment services provider, PayPal. You can review the PayPal privacy policy at [www.paypal.com](https://www.bglad.com/www.paypal.com). We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
+
+**(4) Disclosures**
+
+We may disclose your personal information to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes set out in this privacy policy.
+
+We may disclose your personal information to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes set out in this privacy policy.
+
+In addition, we may disclose your personal information:
+
+(a) to the extent that we are required to do so by law;  
+(b) in connection with any ongoing or prospective legal proceedings;  
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);  
+(d) to the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling;  
+(e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+
+Except as provided in this privacy policy, we will not provide your information to third parties.
+
+**(5) International data transfers**
+
+Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+
+Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area.
+
+In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+
+You expressly agree to such transfers of personal information.
+
+**(6) Security of your personal information**
+
+We will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
+
+We will store all the personal information you provide on our secure servers.
+
+All electronic transactions entered into via the website will be protected by encryption technology.
+
+You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+
+You are responsible for keeping your password and other login details confidential. We will not ask you for your password (except when you log in to the website).
+
+**(7) Policy amendments**
+
+We may update this privacy policy from time to time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
+
+We may also notify you of changes to our privacy policy by email.
+
+**(8) Your rights**
+
+You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
+
+(a) the payment of a fee; and  
+(b) the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
+
+We may withhold such personal information to the extent permitted by law.
+
+You may instruct us not to process your personal information for marketing purposes, by sending an email to us. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes.
+
+**(9) Third party websites**
+
+The website contains links to other websites (such as listings and/or our advertisers). We are not responsible for the privacy policies, content, or practices of third party websites.
+
+**(10) Protecting Children's Privacy**
+
 Protecting the privacy of children is VERY important to us. For that reason we do not structure any part of our site to attract anyone under the age of 18 (21 in some areas) and we do not allow anyone under the age of 18 (21 in some areas) to register and become a member of our site.
 
-**CORPORATE CHANGES**  
-In the event of a merger, acquisition, asset or stock sale, bankruptcy, or other asset transfer (regardless of legal formality), any of our assets may be transferred to a third party, including personal information collected from visitors to our Web site.
+**(11) Updating information**
 
-**ACCEPTANCE OF PRIVACY TERMS & CONDITIONS**  
-By visiting this Web site, you are agreeing to the practices described in this Privacy Policy. By visiting this site, you also accept, without limitation or qualification, all terms and conditions concerning the use of this site. We may at any time revise these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our Web site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies.
+Please let us know if the personal information which we hold about you needs to be corrected or updated. Registered users, who wish to access or change the information they provided to our website, should login and visit the account section of this site. You can cancel your listings and account online by visiting the Account section of this site, choose edit your account and select delete.
 
-**CHANGES TO THIS PRIVACY POLICY**  
-There may be times when we need to change the terms of this Privacy Policy. To ensure that you are aware of our current privacy practices, **please bookmark this page and check back often.**
+**(12) Contact**
 
-**HOW TO CANCEL YOUR ACCOUNT**  
-You can cancel your listing account online by visiting the Account section of this site, choose edit your account and select delete.
+If you have any questions about this privacy policy or our treatment of your personal information, please _[contact us here](http://www.bglad.com/mod/contacts/?contact=us)._
 
-**HOW CAN YOU ACCESS THE INFORMATION WE HAVE COLLECTED FROM YOU?**  
-Visitors who wish to access or change the information they provided to our Web site, should visit the Account section of this site.
+(last updated: April 26, 2014)
 
-**HOW CAN YOU CONTACT THE WEB SITE OPERATOR?**  
-Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should contact us by visiting the [Contact](http://www.bglad.com/mod/contacts/?contact=us) section of this site.
+  
+
