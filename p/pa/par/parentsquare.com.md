@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentsquare.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001171323id_/http%3A//parentsquare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentsquare.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316094626id_/https%3A//www.parentsquare.com/privacy) for the most accurate reproduction.*
 
 # ParentSquare | Privacy Policy
 
@@ -19,6 +19,10 @@ You or your school may provide us with two types of information: personal inform
 ### Information You Provide to Us
 
 When your school chooses to use ParentSquare, the school provides us with your name and email address and the name of the class you child is in and this information is available to registered ParentSquare users in your school. During the registration process you provide us with your child(ren)’s name(s) and class(es). Once you register you can provide other information about yourself such as your phone numbers, address, profession, talent, interests and abilities. All information you provide to us is made accessible to other users in your school. This information is not shared with users outside of your school, but may be made available to your school's district office should they request it.
+
+### Information Collected by Third Parties
+
+We advertise on Twitter and use conversion tracking codes from Twitter to understand what ads are working and which are not and to serve ads targeted to users’ interests. You can opt out of Twitter's interest-based advertising through the 'Do Not Track' functionality in your web browser or through such other methods that Twitter may specify from time to time [here](https://support.twitter.com/articles/20170405). 
 
 ### Information We Collect when You Interact With ParentSquare
 
