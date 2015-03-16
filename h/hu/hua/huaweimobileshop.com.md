@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huaweimobileshop.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227133403id_/http%3A//www.huaweimobileshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huaweimobileshop.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316183510id_/http%3A//www.huaweimobileshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
