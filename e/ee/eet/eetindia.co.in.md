@@ -1,45 +1,52 @@
-> *The following text is extracted and transformed from the eetindia.co.in privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818200032id_/http%3A//www.eetindia.co.in/STATIC/SITE/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eetindia.co.in privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316073040id_/http%3A//www.eetasia.com/STATIC/SITE/PRIVACY.HTM) for the most accurate reproduction.*
 
-# Privacy Policy - EETimes India
+# Privacy Policy - EE Times Asia
 
 **Collection of information.**
 
-When you visit our website, we do not collect personally identifiable information about you except when you specifically and knowingly provide it. For instance, while many areas of our website are free to all users, we do require registration for some services such as [ eeNews, Events Reminder, and Request for Free Ticket]. If you decide to register for these services, or if you request information from us, you will be asked to provide basic contact information, including your name, job title, job function, industry type, country and e-mail address. Any additional information, such as company name, fax number, is provided on a purely voluntary basis. The information you provide helps us create customized content. You will receive current information only for the products that interest you. To see how this works, view a sample of [ eeNews & Events Reminder ] in text format or html format. 
+When you visit our website, we do not collect personally identifiable information about you except when you specifically and knowingly provide it. For instance, while many areas of our website are free to all users, we do require registration for some services such as content archives, e-mail newsletter subscription, online and in-person seminars, and document downloads. If you decide to register for these services, or if you request information from us, you will be asked to provide basic contact information that is necessary for us to deliver the service to you. These are clearly marked on the registration forms and may include your name, job title, job function, industry type, country and e-mail address. Any additional information is provided on a purely voluntary basis. 
 
 Our system also logs some basic and generic information about your computer, including its:
 
-* IP address (your computer's unique signature) 
-* Operating system (e.g. Windows NT)
-* Browser software (e.g. Netscape Navigator)
+  
+
+
+  * IP address (your computer's unique signature) 
+  
+
+  * Operating system (e.g. Windows)
+  
+
+  * Browser software (e.g. Internet Explorer 10)
+  
+
+
 
 We use this information about your computer to perform routine web site maintenance and to generate various aggregate reports for internal analysis, research and monitoring purposes, so as to help us develop and enhance our web site and services for our users. 
 
-**We respect your privacy.**
+**eMedia Asia respects your privacy.**
 
 We will not sell, trade or rent personally identifiable information about our users to other parties, without our users' consent. 
 
-We do, however, share certain information about our users with advertisers, but only in the aggregate, i.e. XX% of site visitors is from North America. This enables us to constantly build a large database of products and suppliers, giving you wider sourcing options.
+We do, however, share certain information about our users with advertisers, but only in the aggregate, i.e. XX% of site visitors is from North America. This enables us to constantly build a large database of products and vendors, giving you wider technology options.
 
 We also reserve the right to disclose user information in special cases, for example, when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing (or threatening to infringe) or who may otherwise be causing injury to or interference with (either intentionally or unintentionally), our title, rights, interests or property, or those of other web site users, or of anyone else who could be harmed by such activities. We also reserve the right to disclose, without notice to you, personal information in response to a subpoena or other judicial order or when we believe in good faith that such disclosure is required by any law, regulation or listing requirement, or by any stock/securities exchange, governmental or regulatory authority.
 
-**Use of information.**
+**Use of information**
 
 We may use the information you provide to respond to your requests for additional information, to contact you, if necessary, to service your account or for other administrative purposes. We may also access your information to resolve disputes, to troubleshoot problems, to enforce agreements between us, or for marketing purposes. In addition, for certain transactions, our system may use your transaction details to automate and to streamline your transaction by checking for electronic data compliance, providing reporting features, and transferring data from previous forms to those of the current transaction.
 
-We may also use the information you provide for certain mailing initiatives. For example, you may sometimes receive an invitation to answer surveys or try out new products and services from us. Your feedback helps us develop new products and services based on your needs. 
+We may also use the information you provide for certain mailing initiatives. For example, you may sometimes receive an invitation to answer surveys or try out new products and services from us. Your feedback helps us develop new products and services based on your needs.
 
-You always have a choice about receiving mailings, surveys or information about products and services from us. Each e-mail you receive has an "Unsubscribe" option. As a registered member, you can also advise us which types of e-mail you wish to receive by updating your Mailing Lists page.
+You always have a choice about receiving mailings, surveys or information about products and services from us. Each e-mail you receive has an "Unsubscribe" option. As a registered member, you can also advise us which types of e-mail you wish to receive by updating your Profile.
 
 **Information relating to community members.**
 
-For those services which require registration, you will be asked to provide certain personal and business information. Upon registration, you will be enrolled as a member of our global community network. As a community member, you have the right to opt-out of being listed in our membership directory, which only other members and our relevant partners will be able to access. 
+For those services which require registration, you will be asked to provide certain personal and business information. Upon registration, you will be enrolled as a member of our global community network. As a community member, you have the right to opt-out of our services.
 
-**Corrections of inaccuracies.**
+**Corrections of inaccuracies**
 
-We are committed to providing reasonable and practical access to you to identify and to correct any inaccuracies in or to update the information you may provide. Our users who have provided information on our web site may use the relevant automated updating system (where applicable) to make corrections or updates, or . Or, pleasemay contact our Customer Services Department at: 
-
-  
-
+We are committed to providing reasonable and practical access to you to identify and to correct any inaccuracies in or to update the information you may provide. Our users who have provided information on our web site may use the relevant automated updating system (where applicable) to make corrections or updates, or may contact our Customer Services Department at: [service@eetasia.com](mailto:service@eetasia.com)
 
 **Co-branded and alliance relationships.**
 
@@ -55,7 +62,7 @@ _Although we adhere to industry standard practices to protect your personal info
 **COOKIES**
 
 **What is a cookie?**  
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk, so as to help the website remember who you are, amongst other things. 
+A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer or mobile device, so as to help the website remember who you are, amongst other things. 
 
 A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
 
@@ -68,60 +75,65 @@ Two types of cookies are used on our website:
 
 Session Cookies: These are temporary cookies that remain in the cookie file of your browser until you leave the website. 
 
-Persistent Cookies: These are stored in your computer and remain in the cookie file of your browser for much longer. The storage period will depend on the lifetime of the specific cookie. 
+Persistent Cookies: These are stored in your computer or mobile device and remain in the cookie file of your browser for much longer. The storage period will depend on the lifetime of the specific cookie. 
 
 **How and why we use cookies on our website and what information we collect**
 
 Session Cookies: 
 
-* To allow you to access stored information within a registration process. 
+  * To allow you to access stored information within a registration process. 
   
 
-* To allow you to carry information across pages of our website and avoid you having to re-enter information. For example, to help automatically fill in your inquiry or other forms with your contact and other applicable details. 
+  * To allow you to carry information across pages of our website and avoid you having to re-enter information. For example, to help automatically fill in your inquiry or other forms with your contact and other applicable details. 
   
 
-* To save or record your user ID and/or password (at your option), so that you do not have to repeatedly log-in when you visit our website.
+  * To save or record your user ID and/or password (at your option), so that you do not have to repeatedly log-in when you visit our website.
   
 
-* To allow you to maintain an inquiry basket, and to help us determine which of our active supplier community members you are addressing your inquiries to. 
+  * To identify you as a member, customer or referred user of an alliance or business partner, when you log-in using a unique reference code previously issued to you. 
   
 
-* To identify you as a member, customer or referred user of an alliance or business partner, when you log-in using a unique reference code previously issued to you. 
+  * To determine if you have already visited or logged-in to our website. 
   
 
-* To determine if you have already visited or logged-in to our website. 
+  * To record the category or type of user to which you belong, based upon the services for which you have registered, subscribed or paid for.
   
 
-* To record the category or type of user to which you belong, based upon the services for which you have registered, subscribed or paid for. 
+  * To determine which of our relevant computer servers you will be directed to. 
   
 
-* To determine which of our relevant computer servers you will be directed to. 
+  * To ensure that you do not receive "pop-up" banners or advertisements, if you have opted not to receive such "pop-ups" during the session. 
   
 
-* To ensure that you do not receive "pop-up" banners or advertisements, if you have opted not to receive such "pop-ups" during the session. 
+  * To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure, services and features of our website. You will not be personally identified in this way. 
   
 
-* To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure, services and features of our website. You will not be personally identified in this way. 
+
 
 Persistent Cookies: 
 
-* To help us recognize you as a unique visitor when you return to our website, for trend reports and analysis, or to allow us to tailor content to match your preferred interests, or to avoid or minimize showing you the same content repeatedly.
+  * To help us recognize you as a unique visitor when you return to our website, for trend reports and analysis, or to allow us to tailor content to match your preferred interests, or to avoid or minimize showing you the same content repeatedly.
   
 
-* To save or record your user ID and/or password (at your option), so that you do not have to repeatedly log-in when you visit our website. 
+  * To save or record your user ID and/or password (at your option), so that you do not have to repeatedly log-in when you visit our website.
   
 
-* To help our system identify who you are, if you have opted to "remember me" during the log-in process. 
+  * To help our system identify who you are, if you have opted to "remember me" during the log-in process. 
   
 
-* To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure, services and features of our website. You will not be personally identified in this way. 
+  * To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure, services and features of our website. You will not be personally identified in this way. 
   
 
-* Within research surveys, to ensure you are not invited to complete a questionnaire too often, or after you have already done so. 
+  * Within research surveys, to ensure you are not invited to complete a questionnaire too often, or after you have already done so. 
+
+
 
 Third Party Cookies: 
 
-* Third parties serve cookies through this website. These are used for counting the number of anonymous users referred to our website by the third parties. These cookies do not carry any personally identifiable information and are merely used to track the effectiveness of a particular campaign.
+  * Third parties serve cookies through this website. These are used for counting the number of anonymous users referred to our website by the third parties. These cookies do not carry any personally identifiable information and are merely used to track the effectiveness of a particular campaign. 
+  
+
+
 
 **Web Beacons**  
 Some pages on our website may contain images known as "web beacons" (also known as "clear gifs"), some of which may be served by third parties. They allow us to count users who have viewed these pages. Web beacons collect only limited information, including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. These web beacons do not carry any personally identifiable information and are merely used to track the effectiveness of a particular campaign. 
@@ -129,32 +141,94 @@ Some pages on our website may contain images known as "web beacons" (also known 
 **Disabling/Enabling Cookies**  
 There are a number of ways to manage your cookies. You can decide to accept or decline cookies by modifying the settings in your browser. You can also set-up your browser to warn you every time a cookie is sent, so that you can review the cookie before you decide whether or not to accept it. 
 
-For example, if you are using Microsoft Internet Explorer 5.5 or earlier: 
+For example, if you are using **Google Chrome** :
 
-* Click on "Internet Options" from the "Tools" menu in your browser (older versions may have this option under the "View" menu instead). 
+  * Click the Chrome menu icon at the top-right of the browser, then click on "Settings"
   
 
-* Select the "Security" tab. 
+  * Click on "Show advanced settings" at the bottom of the page.
   
 
-* Click the web content zone which you want, and then click "Custom Level".
+  * In the "Privacy" section, click on "Content settings" 
   
 
-* Under "Cookies", select the options you want, click "OK", and then click "OK". 
+  * Under the "Cookies" section at the top of the page:   
 
-If you are using Netscape version 6: 
-
-* Go to "Edit" in the menu, and click on "Preferences". 
+    * To enable cookies, select "Allow local data to be set".
   
 
-* Click on "Advanced" and then select the "Cookies" field. 
+    * To disable cookies, select "Block sites from setting any data".
   
 
-* Choose your preferred cookies option by checking the appropriate box. 
+  * Click "Done" to save settings
+
   
 
-* Click on "OK" to close the box and save your changes. 
 
+If you are using **Microsoft Internet Explorer** :
+
+  * Click the "Tools" button at the top-right of the browser, then click on "Internet Options" from the menu 
+  
+
+  * Click the "Privacy" tab, then do one or more of the following:   
+
+    * Move the slider to the top to block all cookies or to the bottom to allow all cookies.
+  
+
+    * To block or allow specific websites, click "Sites".
+  
+
+    * To import a privacy preferences file, click "Import".
+  
+
+    * To override your privacy settings for certain types of cookies, click "Advanced".
+  
+
+    * To reset privacy settings to their original level, click "Default".
+  
+
+  * When you're done making changes, click OK.
+
+  
+
+
+  
+If you are using **Firefox** :
+
+  * Click the "Menu" button at the top-right of the browser, then click on "Options" from the menu.
+  
+
+  * Select the "Privacy" tab.
+  
+
+  * Under "History", select "Firefox will: Use custom settings for history".
+  
+
+  * To enable cookies, check "Accept cookies from sites"; to disable cookies, uncheck it.
+  
+
+  * Choose whether you want to accept third-party cookies, and how long you want cookies to be stored.
+  
+
+  * Click "OK" to close the Options window.
+
+  
+  
+If you are using **Safari** :
+
+  * Click on "Preferences" under Safari
+  
+
+  * Click on "Privacy".
+  
+
+  * In the "Block Cookies" section, specify if and when Safari should accept cookies from websites. To see an explanation of the options, click the Help button.
+  
+
+  * Click "Details" button if you want to see which websites store cookies on your computer.
+
+  
+  
 If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on how to manage your cookies settings. 
 
 If you use different computers in different locations to access our website, you will need to ensure that each browser is adjusted to suit your cookie preferences. 
@@ -164,39 +238,74 @@ Some of our site services or features require cookies. If you disable or do not 
 **Deleting Cookies**  
 You can delete any cookies that have been installed in the cookie folder of your browser. 
 
-For example, if you are using Microsoft Internet Explorer version 5.5 or earlier: 
+For example, if you are using **Google Chrome** :
 
-* Click on "Internet Options" from the "Tools" menu in your browser (older versions may have this option under the "View" menu instead). 
+  * Click the Chrome menu icon at the top-right of the browser, then click on "Settings"
   
 
-* Under the "General" tab, click on the "Settings..." button. 
+  * Click "Show advanced settings".
   
 
-* In the "Settings" box, click on the "View Files..." button at the bottom.
+  * In the "Privacy" section, click the "Content settings" button.
   
 
-* You will now see a list of all the temporary files that Internet Explorer has stored in your computer for quick access. This is also where all cookies are stored. 
+  * In the "Cookies" section, you can delete all or specific cookies according to your desire.
+
+
+
+If you are using **Internet Explorer** :
+
+  * Click the "Tools" button at the top-right of the browser, then click "Safety".
   
 
-* Select the cookie file(s) which you wish to delete, then hit the "Delete" button on your keyboard. Press "Yes" at the prompt to confirm your deletion. 
-
-If you are using Netscape version 6: 
-
-* Click on "Preferences" from the "Edit" menu.
+  * Click "Delete Browsing History".
   
 
-* Under the "Advanced" tab, go to the "Cookies" option, then click on the "View Stored Cookies" button. 
+  * Select the check box next to "Cookie" or "Cookies and website data".
   
 
-* A "Cookie Manager" box will appear. Scroll down to review and select the cookie file(s) which you wish to delete, then click "Remove Cookie". You can also click on the "Remove All Cookies" button to clear all cookies stored in your computer. 
+  * Click "Delete".
+
+
+
+If you are using **Firefox** :
+
+  * Click the "Menu" button at the top-right of the browser, then click on "Options" from the menu
   
 
-* Click "OK", and "OK" again, to close the boxes and save your changes. 
+  * Select the "Privacy" tab.
+  
+
+  * Under "History", click "remove individual cookies"
+  
+
+  * To remove all cookies, click "Remove All Cookies"; to select specific cookies to remove, select the cookie and click "Remove Cookie"
+  
+
+  * Click "Close"
+
+
+
+If you are using **Safari** :
+
+  * Choose "Preferences" under Safari settings.
+  
+
+  * Click "Privacy".
+  
+
+  * Click "Details".
+  
+
+  * Select one or more website that stores cookies, and then click "Remove" or "Remove All".
+  
+
+  * When you finish removing websites. Click "Done".
+
+  
+
 
 If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on where to find your cookie folder to delete your cookies. 
 
 **Our Contact Information**  
 If you have any queries, comments or concerns, or require any help on cookie-related matters, please feel free to contact us at: [service@eetasia.com](mailto:service@eetasia.com) or Customer Services, 1 Sims Lane #08-01, Singapore 387355. 
-
-  
-
