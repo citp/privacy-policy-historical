@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the visualcv.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823192532id_/https%3A//www.visualcv.com/www/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualcv.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316205152id_/https%3A//www.visualcv.com/www/privacy-policy) for the most accurate reproduction.*
 
-# VisualCV Privacy Policy - VisualCV
+# VisualCV - Privacy Policy
 
-## VisualCV is a business of Workstory Inc.
+### VisualCV is a business of Workstory Inc.
 
-VisualCV(“ **VisualCV** ,” “ **we** ,” “ **us** “) is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the “ **Policy** “) describes our practices in connection with Personally Identifiable Information that we collect through our web site located at[http://www.visualcv.com](http://www.visualcv.com/) (the “ **Site** “). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site or by third parties.
+VisualCV(“ **VisualCV** ,” “ **we** ,” “ **us** “) is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the “ **Policy** “) describes our practices in connection with Personally Identifiable Information that we collect through our web site located at[http://www.visualcv.com](http://www.visualcv.com/) (the “ **Site** “). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site or by third parties.
 
 By using the Site, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You can determine when this Policy was last revised by referring to the “ _LAST UPDATED_ ” legend at the bottom of this page. Any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.
 
@@ -12,7 +12,7 @@ The Site is controlled and operated by VisualCV from the United States, and is n
 
 **1\. What Types of Information Does VisualCV Collect From Me?**
 
-VisualCV gathers two basic types of information through the Site:  **Personally Identifiable Information** ” (or “ **PII** “) and “ **Non-Personally Identifiable Information** ” (or “ **Non-PII** “). Personally Identifiable Information is information that identifies you as an individual. Non-Personally Identifiable Information is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.
+VisualCV gathers two basic types of information through the Site: **Personally Identifiable Information** ” (or “ **PII** “) and “ **Non-Personally Identifiable Information** ” (or “ **Non-PII** “). Personally Identifiable Information is information that identifies you as an individual. Non-Personally Identifiable Information is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.
 
 **a. Personally Identifiable Information.**
 
@@ -130,7 +130,7 @@ We have security measures and tools, such as firewalls, in place to help protect
 
 **e. Opt-Out.**
 
-As noted above, if you expressly opt-in, we may send you ** ** marketing-related email messages. Additionally, as noted above, if you expressly opt-in, we may share your PII with third parties for their marketing purposes. If, after you have opted in, you change your mind and you no longer wish to receive marketing-related emails from us and/or you do not want us to share your email address with third parties for such third parties’ marketing purposes, you may opt-out of receiving such marketing-related emails and/or from such sharing by selecting the appropriate opt-out check box located on your ‘My Profile’ page.
+As noted above, if you expressly opt-in, we may send you **** marketing-related email messages. Additionally, as noted above, if you expressly opt-in, we may share your PII with third parties for their marketing purposes. If, after you have opted in, you change your mind and you no longer wish to receive marketing-related emails from us and/or you do not want us to share your email address with third parties for such third parties’ marketing purposes, you may opt-out of receiving such marketing-related emails and/or from such sharing by selecting the appropriate opt-out check box located on your ‘My Profile’ page.
 
 We will endeavor to comply with your request as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove your PII from the databases of third parties with which we have already shared your PII (i.e., to which we have already provided your PII as of the date that we implement your opt-out request). If you wish to cease receiving marketing-related emails from such third parties, please contact such third parties directly or utilize any opt-out mechanisms set forth in their respective privacy policies or marketing-related emails.
 
@@ -146,6 +146,6 @@ VisualCV does not represent or warrant that the Site, or any part thereof, is ap
 
 **h. Contacting Us.**
 
-If you have any questions regarding this Policy, please contact us by email at [info@visualcv.com](mailto:info@visualcv.com). Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us.
+If you have any questions regarding this Policy, please contact us by email at [info@visualcv.com](mailto:info@visualcv.com). Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us.
 
 Privacy Policy last updated January 5, 2012
