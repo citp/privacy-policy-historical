@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statisticshowto.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701174155id_/http%3A//www.statisticshowto.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statisticshowto.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316030158id_/http%3A//www.statisticshowto.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Statistics How To
 
@@ -15,8 +15,6 @@ Like many other Web sites, www.statisticshowto.com makes use of log files. The i
 www.statisticshowto.com does not use cookies.
 
 **DoubleClick DART Cookie**  
-
-
 .:: Google, as a third party vendor, uses cookies to serve ads on www.statisticshowto.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.statisticshowto.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
