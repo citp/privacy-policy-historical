@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shohoz.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701184743id_/https%3A//www.shohoz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shohoz.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316090455id_/https%3A//www.shohoz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Shohoz.com
+# Buy Bus Tickets Online | Bus Tickets | Privacy Policy : Shohoz.com
 
 We, at shohoz.com, ensure to maintain the highest standards of transactional security and quality so that your information and details are secure. To know more about our policies please read the following to learn about our information gathering and dissemination practices. 
 
