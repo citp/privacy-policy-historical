@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jane.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920210226id_/https%3A//jane.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jane.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316111718id_/https%3A//jane.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,8 +61,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[Jane](http://jane.com/)  
-[jane.com](http://jane.com/)  
+[Jane](https://jane.com/)  
+[jane.com](https://jane.com/)  
 2600 Executive Pkwy Ste. 360  
 Lehi, UT 84043  
 (801) 382-8585  
