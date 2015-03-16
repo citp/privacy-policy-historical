@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospector.cz privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628032705id_/http%3A//www.prospector.cz/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospector.cz privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316063412id_/http%3A//www.prospector.cz/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,6 +22,6 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 Special Note About Google Advertising 
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt [out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies.
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt [out of Google's cookie usage](http://www.google.com/policies/technologies/ads/). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies.
 
 [www.prospector.cz](http://www.prospector.cz/)
