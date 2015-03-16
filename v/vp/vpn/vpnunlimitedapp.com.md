@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpnunlimitedapp.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210010745id_/https%3A//www.vpnunlimitedapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpnunlimitedapp.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316225017id_/https%3A//www.vpnunlimitedapp.com/privacy) for the most accurate reproduction.*
 
 # VPN Unlimited - Privacy Policy
 
