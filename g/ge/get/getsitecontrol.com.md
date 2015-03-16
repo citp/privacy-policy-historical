@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsitecontrol.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105231107id_/http%3A//getsitecontrol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsitecontrol.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316130145id_/https%3A//getsitecontrol.com/privacy) for the most accurate reproduction.*
 
 # GetSiteControl privacy policy
 
