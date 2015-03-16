@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heraldscotland.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507075749id_/http%3A//www.heraldscotland.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldscotland.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316085803id_/http%3A//www.heraldscotland.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Herald Scotland
 
@@ -6,7 +6,7 @@ This site is owned and operated by the Herald & Times Group. We are committed to
 
 By using this web site you are deemed as agreeing to use of these details as described in this Policy. We appreciate that this Policy may seem long, however, we have created a thorough privacy statement to fully explain our information handling practices. Should you have any questions however, please feel free to direct these to [support@heraldandtimes.co.uk](mailto:support@heraldandtimes.co.uk)
 
-###  Information we collect – personally identifiable information
+###  Information we collect - personally identifiable information
 
 We request identifying information from you for specific purposes. Typically, identifying information is collected:
 
@@ -18,11 +18,13 @@ We request identifying information from you for specific purposes. Typically, id
 
 
 
-###  Information we collect – non-personally identifiable information
+###  Information we collect - non-personally identifiable information
 
-We collect non-personally identifiable data, known as ‘click-stream data’, across the portfolio of web sites owned by the Herald and Times Group. This click stream data is anonymous, and includes information such as IP address, which pages have been visited and what actions have been taken.
+We collect non-personally identifiable data, known as 'click-stream data', across the portfolio of web sites owned by the Herald and Times Group. This click stream data is anonymous, and includes information such as IP address, which pages have been visited and what actions have been taken.
 
 We use cookies to collect this type of information. Cookies are files or pieces of information that may be stored on your computer's hard drive when you visit a site. The use of cookies is an industry standard and you will find them at most sites. Most browsers are initially set to accept cookies. However, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence. [Find out more about how we use cookies](https://web.archive.org/about-cookies).
+
+Additionally, we use demographics and interest reports based display advertising data provided by our advertising partners. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
 
 ###  The way we use information
 
@@ -32,7 +34,7 @@ When you register with the Site, you can elect to receive information and update
 
 We use return email addresses to answer any emails that we receive, and we may use return email addresses to send you other information that you request. Such addresses are not used for any other purpose.
 
-We use the non-personally identifiable information we collect, including data collected by cookies, to track user trends – for example how users search for content – to provide you with a tailored experience and to improve the quality of our services. We may also use cookies to help speed up your future activities or to improve your user experience by remembering the information that you have already provided to us. If you have submitted personally identifiable information to one of our websites then we may combine this information with the non-personally identifiable information that we collect in order to further enhance the service that we provide.
+We use the non-personally identifiable information we collect, including data collected by cookies, to track user trends - for example how users search for content - to provide you with a tailored experience and to improve the quality of our services. We may also use cookies to help speed up your future activities or to improve your user experience by remembering the information that you have already provided to us. If you have submitted personally identifiable information to one of our websites then we may combine this information with the non-personally identifiable information that we collect in order to further enhance the service that we provide.
 
 You will have the opportunity to forward pages or information on the Site to friends. The information you provide to facilitate this email communication is used on a one-time basis and is not collected or retained by us.
 
