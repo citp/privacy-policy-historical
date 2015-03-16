@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketresponder.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923042905id_/http%3A//www.rocketresponder.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketresponder.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316221031id_/https%3A//www.rocketresponder.com/privacy) for the most accurate reproduction.*
 
 # RocketResponder - Privacy Policy
 
