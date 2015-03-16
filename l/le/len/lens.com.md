@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123184030id_/http%3A//www.lens.com/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316131148id_/https%3A//www.lens.com/privacy-policy) for the most accurate reproduction.*
 
 # Lens.com ® - Privacy Policy
 
@@ -18,7 +18,7 @@ In areas of the Lens.com Web site which may be of particular interest to childre
 
 If you have any questions or comments about our privacy practices, would like to stop receiving information from Lens.com , or would like to correct or update information provided to Lens.com via its Web site, please contact Lens.com by sending an e-mail.
 
-[More about Corporate Policies](http://www.lens.com/corporate-policy/)
+[More about Corporate Policies](https://www.lens.com/corporate-policy/)
 
   * #### 100% Customer Satisfaction
 
@@ -44,7 +44,7 @@ All your email preferences can be managed from the 'My Account' tab at the top o
 
 With over 10 Million contact lenses in stock, we immediately fill your order with your exact prescription.
 
-Over 2.5 million successful orders delivered!
+Over 3 million successful orders delivered!
 
 
 
