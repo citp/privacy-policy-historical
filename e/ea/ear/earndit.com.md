@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the earndit.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701065447id_/https%3A//higi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earndit.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316125647id_/https%3A//higi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | higi
 
-Effective Date: March 8th, 2013
+Effective Date: August 11, 2014
 
-This Privacy Policy is incorporated by reference into higi’s [Terms of Use](https://web.archive.org/terms). The term “ **higi** ,” “ **we** ,” and “ **us** ” includes higi llc and our affiliates and subsidiaries. The Privacy Policy explains how higi may:
+This Privacy Policy is incorporated by reference into higi’s [Terms of Use](https://web.archive.org/terms). The term “ **higi** ,” “ **we** ,” and “ **us** ” includes higi SH llc and our affiliates and subsidiaries. The Privacy Policy explains how higi may:
 
   * collect,
   * use, and
@@ -14,11 +14,13 @@ This Privacy Policy is incorporated by reference into higi’s [Terms of Use](ht
 
 information we obtain through the “higi Service.”
 
-The “ **higi Service** ” means any websites, mobile applications, and other services under the control of higi llc, whether partial or otherwise, in connection with providing an online or digital platform for higi’s services, including www.higi.com and higi kiosks. The higi Service provides a platform that gives you the ability to store and track your own personal information, including certain health-related information.
+The “ **higi Service** ” means any websites, mobile applications, and other services under the control of higi SH llc, whether partial or otherwise, in connection with providing an online or digital platform for higi’s services, including www.higi.com and higi kiosks. The higi Service provides a platform that gives you the ability to store and track your own personal information, including certain health-related information.
 
 “ **Personal Information** ” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
 
 “ **Body Measurements** ” means statistics, such as weight, Body Mass Index (BMI), blood pressure and pulse measurements, and other similar information, that we collect about you when you use the higi Service. We do not consider Body Measurements to be Personal Information unless the data is combined with Personal Information.
+
+" **Your User Content** " means the information that you may post, submit, upload, publish, display, transmit, or otherwise share through the higi Service, including but not limited to data, text, files, software, sound, photos, videos, graphics, artwork, ideas, opinions, status updates, comments, and “likes.” We do not consider Your User Content to be Personal Information.
 
 THE HIGI SERVICE COLLECTS YOUR INFORMATION
 
@@ -64,13 +66,13 @@ We may use anonymous and aggregate information for any purpose, including for ma
 
 **Internal and Service-Related Usage.** We use information, including Personal Information, for internal and service-related purposes only and may provide it to third parties to allow us to facilitate the higi Service. We may use and retain any data we collect to provide and improve our services.
 
-**Photos Posted to the higi Service.** You may post photos to the higi Service to document your lifestyle and for higi to provide information about the content you post. For example, you may post a photo of a meal you ate, the physical activities you performed, and the friends you were around. When you post photos, our employees and service providers may review them to categorize and add information about them. Photos will be publicly available, so do not post any photos that you want to keep private.
+**Your User Content Posted to the higi Service.** You may post Your User Content to the higi Service to document your lifestyle, interact with other users, and for higi to provide information about the content you post. For example, you may post a photo of a meal you ate, a log of the physical activities you performed, and the friends you were around. When you post Your User Content, our employees and service providers may review them to categorize and add information about them. Your User Content will be publicly available, so do not post any information that you want to keep private.
 
 **Communications.** We may send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance.
 
 **Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We also do not provide any Personal Information to any third-party ad networks. We also may use your Personal Information and other information to communicate with you by email or text message to provide you with information we think may be of interest to you. We will send you text messages only with your consent, and you may opt out of emails by using the opt-out link in an email. 
 
-To support the higi Service, which we provide at no cost to you, we may use Body Measurements and data collected through cookies and similar technology to deliver higi and third-party interest-based advertising to you on and off the higi Service. We will obtain your permission before we provide individualized Body Measurement data to third-party ad networks to deliver third-party interest-based advertising outside of the higi Service. Please note, and you agree, that higi may personalize your experience, including by showing you advertising, on the higi Service using Body Measurements and any other data we learn about you. You may change your preferences related to the use of information for advertising purposes on other websites and services by visiting our [Privacy Preferences web page].
+**To support the higi Service** , which we provide at no cost to you, we may use Body Measurements and data collected through cookies and similar technology to deliver higi and third-party interest-based advertising to you on and off the higi Service. We will obtain your permission before we provide individualized Body Measurement data to third-party ad networks to deliver third-party interest-based advertising outside of the higi Service. Please note, and you agree, that higi may personalize your experience, including by showing you advertising, on the higi Service using Body Measurements and any other data we learn about you. You may change your preferences related to the use of information for advertising purposes on other websites and services by visiting our [Privacy Preferences web page].
 
 **Aggregate Data.** We may anonymize and aggregate data collected through the higi Service and use it for any purpose. Such information does not identify you individually.
 
@@ -79,6 +81,7 @@ HIGI MAY DISCLOSE YOUR INFORMATION
 We may share your information:
 
   * with our third-party service providers;
+  * with our Rewards Partners;
   * with other users or to social networks, at your direction;
   * to comply with legal obligations;
   * to protect and defend our rights and property; and
@@ -89,6 +92,8 @@ We may share your information:
 We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We may share anonymous Body Measurements and other information with third parties for marketing purposes.
 
 **We Use Vendors and Service Providers.** We may share any information we receive with vendors and service providers retained in connection with the provision of the higi Service.
+
+**With Our Rewards Partners.** We may share certain information with our Rewards Partner in order to enable your participation in the higi Rewards Program. 
 
 **Displaying to Other Users.** The content you post to the higi Service may be displayed on the higi Service to other users. Other users of the higi Service also may be able to see some information about you that you have included in your profile, such as your first name, the first initial of your last name, city, state, and profile photo. When you choose to share Body Measurement information this information may be accessible to other users. We are not responsible for privacy practices of the other users who will view and use the posted information. 
 
@@ -126,7 +131,7 @@ If you have any questions or concerns about this Privacy Policy or the use of yo
 
 **Data Retention.** We will retain your information for as long as your account is active or as needed to provide you the higi Service. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**Account Deactivation and Deletion.** If you no longer desire to use the higi Service, you may deactivate or delete your account by sending us an email to support@higi.com. Deactivating your account puts your account on hold and is the same as you telling us not to delete any information because you might want to reactivate your account at some point in the future. When you delete an account, you are requesting that your account and the information stored therein be permanently deleted from the higi Service. It typically takes about one month to delete an account and all associated information, but some information may remain in backup copies and logs for up to 90 days. You should only delete your account if you are sure you never want to reactivate it. We wait 90 days before permanently deleting your account information in order to help avoid accidental or malicious removal of your information. Please note, certain data you have provided may continue to exist in aggregate form that cannot be used to identify you.
+**Account Deactivation and Deletion.** If you no longer desire to use the higi Service, you may deactivate or delete your account by sending us an email to support@higi.com. Deactivating your account puts your account on hold and is the same as you telling us not to delete any information because you might want to reactivate your account at some point in the future. When you delete an account, you are requesting that your account and the information stored therein be permanently deleted from the higi Service. You should only delete your account if you are sure you never want to reactivate it. Please note, certain data you have provided may continue to exist in aggregate form that cannot be used to identify you.
 
 CHANGES TO OUR PRIVACY POLICY AND PRACTICES
 
@@ -138,8 +143,8 @@ We may revise this Privacy Policy, so review it periodically.
 
 **Contact Information**
 
-higi llc  
-350 N. Orleans St.  
-Chicago, IL 60654
+higi SH llc  
+150 N. Wacker Dr. Suite 1120  
+Chicago, IL 60606
 
 support@higi.com 
