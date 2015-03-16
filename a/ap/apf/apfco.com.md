@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apfco.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203025id_/https%3A//apfco.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apfco.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317004419id_/https%3A//apfco.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Arrowhead Promotion | Privacy | ArrowheadPromotion.com
 
