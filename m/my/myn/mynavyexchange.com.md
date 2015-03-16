@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mynavyexchange.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031230053id_/http%3A//www.mynavyexchange.com/nex/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynavyexchange.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316212310id_/https%3A//www.mynavyexchange.com/nex/privacy) for the most accurate reproduction.*
 
-# mynavyexchange.com
+# Nexcom Privacy Policy | Shop Your Navy Exchange - Official Site
 
 CUSTOMERS
 
