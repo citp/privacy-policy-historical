@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the bwin.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110182729id_/https%3A//help.bwin.com/en/general-information/security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bwin.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316200930id_/https%3A//help.bwin.com/en/general-information/security/privacy-policy) for the most accurate reproduction.*
 
 # Help - General Information - Privacy Policy
 
-### Privacy Policy 
+  * [Privacy Policy ](https://web.archive.org/en/general-information/security/privacy-policy)
+  * [User Account Protection](https://web.archive.org/en/general-information/security/user-account-protection)
+  * [Security in monetary transactions](https://web.archive.org/en/general-information/security/security-in-monetary-transactions)
+
+
 
 ## 1\. PRIVACY
 
@@ -46,7 +50,7 @@ You can find more information about the individual cookies we may use and the pu
 
 ### STRICTLY NECESSARY COOKIES
 
-**Strictly necessary cookies are essential to allow a user move around a website and use its features, such as accessing secure areas of the website, or shopping basket. Without these cookies, we would not be able to make our websites work efficiently. **
+**Strictly necessary cookies are essential to allow a user move around a website and use its features, such as accessing secure areas of the website, or shopping basket. Without these cookies, we would not be able to make our websites work efficiently.**
 
 ### First Party Cookies:
 
