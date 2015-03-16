@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the meundies.com privacy policy that was archived on 2014-07-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140703161923id_/https%3A//www.meundies.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the meundies.com privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316125636id_/https%3A//www.meundies.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="font-family: 'BrandonGrotesqueRegular', Helvetica, sans-serif;"><!--<![endif]--><head data-hook="inside_head">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="//d3cxv97fi8q177.cloudfront.net/foundation-A59723-fb94-4c11-852e-45801f6f14df1.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=341392985877165"></script><script async="" src="//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"2b1c1522b7","applicationID":"2644188","transactionName":"c1leTERcDltTQ05LSEJTVRdFRw1FUx4NXV9RWg==","queueTime":0,"applicationTime":60,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcEU1ZQGwEGUFVTDwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" defer="" async="" src="https://collector-306.tvsquared.com/piwik/tv2track.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?2M9IGBQgEQApWHJ0YQC6mukS9kRWBbC3" type="text/javascript"></script><script async="" src="//c.conversionlogic.net/sp.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=341392985877165"></script><script async="" src="//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"2b1c1522b7","applicationID":"2644188","transactionName":"c1leTERcDltTQ05LSEJTVRdFRw1FUx4NXV9RWg==","queueTime":0,"applicationTime":44,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-593.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcEU1ZQGwEGUFVTDwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta charset="utf-8">
-<title>MeUndies  - Worlds Most Comfortable Underwear, Socks, and T-Shirts - MeUndies</title>
+<title>MeUndies  - World's Most Comfortable Underwear, Socks, and T-Shirts - MeUndies</title>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 <meta name="p:domain_verify" content="906a748abaef22fb9c47f83e36926e7b">
 <meta name="google-site-verification" content="CBlqGuVVRY-73pKAcUBq8iZbUhSjXtI4FWlbV-VVusk">
@@ -15,58 +15,59 @@
   <meta content="Underwear, MeUndies, Basics, Mens Clothing, Womens Clothing, Tees" name="keywords">
 <meta content="MeUndies makes the world’s most comfortable underwear – starting at $16 a pair. Experience your new comfort zone today with fast and free shipping." name="description">
 
-<link href="//dqm6q3p11zmp0.cloudfront.net/assets/shared/favicon-72cc55e0f003fec3dc4cfb9be5e8ec1c.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="//dqm6q3p11zmp0.cloudfront.net/assets/shared/favicon-72b427985d37e01f124a8de53683bf88.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 
   <meta property="og:image" content="https://meundies2.s3.amazonaws.com/assets/meundies_logo.png">
 
-<link href="//dqm6q3p11zmp0.cloudfront.net/assets/meundies-1b82b6888e3baba43ae6c05e56cffd87.css" media="screen" rel="stylesheet" type="text/css">
-<script src="//dqm6q3p11zmp0.cloudfront.net/assets/application-fb4e26394973d7b0106aab0e28dd8cd2.js" type="text/javascript"></script>
+<link href="//dqm6q3p11zmp0.cloudfront.net/assets/meundies-17624dde7f882661d097db388951df34.css" media="screen" rel="stylesheet" type="text/css">
+<script src="//dqm6q3p11zmp0.cloudfront.net/assets/application-9049dfc0210e38d86246991083278f06.js" type="text/javascript"></script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="aKdfNf5AEiqJOrLzUxk1ppqtFZIYGzd8EG1Ci0OUe00=" name="csrf-token">
+<meta content="wevJ92JF9ELM87+qhMF+HnwJP/TbuxkM21CYEzQutws=" name="csrf-token">
 
-<script src="//cdn.optimizely.com/js/222001121.js"></script>
-<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
-<!--[if lt IE 9]>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6/html5shiv.min.js"></script>
-<![endif]-->
+  <script src="//cdn.optimizely.com/js/222001121.js"></script>
 
-<script type="text/javascript">
-  (function() {
-    var _fbq = window._fbq || (window._fbq = []);
-    if (!_fbq.loaded) {
-      var fbds = document.createElement('script');
-      fbds.async = true;
-      fbds.src = '//connect.facebook.net/en_US/fbds.js';
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(fbds, s);
-      _fbq.loaded = true;
-    }
-  })();
-</script>
+  <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6/html5shiv.min.js"></script>
+  <![endif]-->
 
-<script>
-  window['friendbuy'] = window['friendbuy'] || [];
-  window['friendbuy'].push(['site', 'www.meundies.com']);
-  
+  <script type="text/javascript">
+    (function() {
+      var _fbq = window._fbq || (window._fbq = []);
+      if (!_fbq.loaded) {
+        var fbds = document.createElement('script');
+        fbds.async = true;
+        fbds.src = '//connect.facebook.net/en_US/fbds.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(fbds, s);
+        _fbq.loaded = true;
+      }
+    })();
+  </script>
 
-  // Desktop version sitewide
-  window['friendbuy'].push(['widget', "T-bQy", '.friendbuy-desktop']);
-  // Mobile version sitewide
-  window['friendbuy'].push(['widget', "T-crn", '.friendbuy-mobile']);
+  <script>
+    window['friendbuy'] = window['friendbuy'] || [];
+    window['friendbuy'].push(['site', 'www.meundies.com']);
+    
 
-  window['friendbuy'].push(['subscribe', 'share.success',
-    function (share) {
-      window['optimizely'] = window['optimizely'] || [];
-      window['optimizely'].push(["trackEvent", "FriendbuyShare"]);
-    }  
-  ]);
-  
-  (function (f, r, n, d, b, y) {
-  b = f.createElement(r), y = f.getElementsByTagName(r)[0];b.async = 1;b.src = n;y.parentNode.insertBefore(b, y);
-  })(document, 'script', '//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js');
-</script>
+    // Desktop version sitewide
+    window['friendbuy'].push(['widget', "T-bQy", '.friendbuy-desktop']);
+    // Mobile version sitewide
+    window['friendbuy'].push(['widget', "T-crn", '.friendbuy-mobile']);
 
-<script>
+    window['friendbuy'].push(['subscribe', 'share.success',
+      function (share) {
+        window['optimizely'] = window['optimizely'] || [];
+        window['optimizely'].push(["trackEvent", "FriendbuyShare"]);
+      }  
+    ]);
+    
+    (function (f, r, n, d, b, y) {
+    b = f.createElement(r), y = f.getElementsByTagName(r)[0];b.async = 1;b.src = n;y.parentNode.insertBefore(b, y);
+    })(document, 'script', '//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js');
+  </script>
+
+  <script>
   (function() {
     var _fbq = window._fbq || (window._fbq = []);
     _fbq.push(['addPixelId', '1434846340086612']);
@@ -77,49 +78,51 @@
 <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1434846340086612&amp;ev=NoScript" /></noscript>
 
 
+
 </head>
 
-  <body class="one-col basebody" data-coupon="true" data-hook="body" data-logged="false" data-logi="false" data-login="false" data-plog="false" data-utm="false" id="default"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
-    <div style="display:none;" id="tags" data-utm="false" data-cou="false" data-md="" data-coupon="true" data-hook="body" data-logged="false" data-logi="false" data-login="false" data-plog="false"></div>
+  <body class="one-col basebody" id="default" data-hook="body">
+    <div style="display:none;" id="tags" data-cou="false" data-md="" data-utm-source="false" data-logged-in="false">
+    </div>
     <div id="meundies-loader">
 <div class="spinner-gif"></div>
+<div class="check hide">✓</div>
 <div class="text">Loading...</div>
 </div>
     <div class="meundies_flash"><p></p></div>
-    
+
 
     <div id="message-bar">
     </div>
-    <div id="fb-root"></div>
-    <script>
-      (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=341392985877165";
-        fjs.parentNode.insertBefore(js, fjs);
-      }
-      (document, 'script', 'facebook-jssdk'));
-    </script>   
-    
-      <div class="off-canvas-wrap" data-offcanvas="">
-        <div class="inner-wrap">
-          <div class="footerfix-wrap">
-            <nav class="tab-bar hide-for-large-up">
+
+      <div id="fb-root"></div>
+      <script>
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=341392985877165";
+          fjs.parentNode.insertBefore(js, fjs);
+        }
+        (document, 'script', 'facebook-jssdk'));
+      </script>
+
+    <div class="off-canvas-wrap" data-offcanvas="">
+      <div class="inner-wrap">
+        <nav class="tab-bar hide-for-large-up">
   <section class="left-small">
-    <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+    <a class="left-off-canvas-toggle" href="#"><span>MENU</span></a>
   </section>
-  <section class="middle tab-bar-section">
-    <a href="/"><img alt="Meundies_logo" id="mobile-header-logo" src="//dqm6q3p11zmp0.cloudfront.net/assets/logo/meundies_logo-0b9f506504930c848c782b195f8750ce.svg"></a>
+  <section class="middle tab-bar-section text-center">
+    <a href="/"><img alt="Meundies_logo" id="mobile-header-logo" src="//dqm6q3p11zmp0.cloudfront.net/assets/logo/meundies_logo-b9107c4d2cd86f4cdb58e9ccaa0621fc.svg"></a>
   </section>
   <section class="right-small">
-    <a class="right-off-canvas-toggle basket" href="#"><span><img alt="Basket" src="//dqm6q3p11zmp0.cloudfront.net/assets/logo/basket-6fbb21b14990b139a0eb58dda1fdeb17.svg"></span>
+    <a class="right-off-canvas-toggle basket" href="#"><span><img alt="Basket" src="//dqm6q3p11zmp0.cloudfront.net/assets/logo/basket-6a7a39cf3d854314f40701ff61f55af0.svg"></span>
     </a>
   </section>
 </nav>
-<aside class="left-off-canvas-menu">
+<aside class="left-off-canvas-menu hide-for-large-up">
   <ul class="off-canvas-list">
-    <li class="title"><a href="/"><label class="MU-label">MeUndies</label></a></li>
     <li class="light calltoaction">
       <a href="/t/gender/men">Shop Men</a>
     </li>
@@ -127,34 +130,41 @@
       <a href="/t/gender/women">Shop Women</a>
     </li>
     <li class="light">
-      <a href="/the-meundies-wall">The Wall</a>
-    </li>   
+      <a href="/giftcard">Gift</a>
+    </li>
+    <li class="light">
+      <a href="/videos">Videos</a>
+    </li>
     <li class="light">
       <a href="/photoshoots">Photoshoots</a>
+    </li>
+    <li class="light">
+      <a href="/the-meundies-wall">The Wall</a>
     </li>
     <li class="light">
       <a href="/about">About Us</a>
     </li> 
     <li class="light">
-      <a href="#" class="friendbuy_mobile_trigger">Share</a>
+      <a href="#" class="friendbuy_mobile_trigger">Refer</a>
     </li>
     <li class="light">
       <a href="/help">Help</a>
     </li>
   </ul>
 </aside>
-<aside class="right-off-canvas-menu">
+<aside class="right-off-canvas-menu hide-for-large-up">
   <ul class="off-canvas-list">
-    <li class="title"><a href="/"><label class="MU-label">MeUndies</label></a></li>
       <li class="light linktocart-mobile">
         <a href="/cart" class="empty">Cart (<span class="amount">0</span>)</a>
       </li>
-      <li class="light">
-        <a href="/join" id="joinlink">Join</a>
-      </li>
+      <span>
         <li class="light">
-          <a href="/signin" id="loginlink">Login</a>
+          <a class="joinlink" onclick="$('#topheaderbar #joinlink').click()">Join</a>
         </li>
+          <li class="light">
+            <a class="loginlink" onclick="$('#topheaderbar #loginlink').click()">Login</a>
+          </li>
+      </span>
     <li class="has-dropdown light">
       <a href="/help">Help</a>
       <ul>
@@ -168,9 +178,22 @@
     </li>
   </ul>
 </aside>
-            <section class="main-section">
-              <div class="show-for-large-up large-header">
-                <nav id="topheaderbar">
+<script type="text/javascript">
+  // this is used to prevent scroll on the site when the mobile nave is open
+  $(document).ready(function(){
+    $(document).on('open.fndtn.offcanvas', '[data-offcanvas]', function () {
+    $('html,body').css('overflow', 'hidden');
+  });
+
+  $(document).on('close.fndtn.offcanvas', '[data-offcanvas]', function () {
+    $('html,body').css('overflow', 'auto');
+    });
+  });
+  
+</script>
+        <section class="main-section">
+          <div class="show-for-large-up large-header large-header-div">
+            <nav id="topheaderbar">
 <header class="row">
 <div class="columns small-12 no-pad">
 <div class="columns small-5 left no-pad">
@@ -189,7 +212,7 @@ Free Shipping in the US &amp; Canada
 </div>
 <div class="columns small-2 left no-pad">
 <div class="logo">
-<a href="/"><img alt="Meundies-tag" src="//dqm6q3p11zmp0.cloudfront.net/assets/logo/meundies-tag-c9591e96ede044aead884155fcb85c40.svg"></a>
+<a href="/"><img alt="Meundies-tag" src="//dqm6q3p11zmp0.cloudfront.net/assets/logo/meundies-tag-899edeeec51024c3e946bf4a3a080ded.svg"></a>
 </div>
 </div>
 <div class="columns small-5 left no-pad">
@@ -199,39 +222,154 @@ More
 <i class="side-arrow"></i>
 </a>
 </div>
-<div class="columns small-2 left navbar">
-<a href="#" class="friendbuy_desktop_trigger">Share</a>
+<div class="columns small-2 left navbar no-pad">
+<a href="/giftcard">Gift</a>
 </div>
 <div class="accountwidth columns small-5 right">
 <div class="accountnav">
-<a href="/join" id="joinlink">Join</a>
+<div id="login-app" ng-controller="loginAppController">
+<a id="joinlink" ng-click="openJoinModal()">
+Join
+</a>
 /
-<a href="/signin" id="loginlink">Login</a>
+<a id="loginlink" ng-click="openLoginModal()">
+Login
+</a>
+<div class="reveal-modal mobile-popup columns small-12 reveal-modal small" data-reveal="" id="loginJoinModal">
+<form class="small-12 left columns no-pad" id="loglog" name="createAccountForm" novalidate="">
+<div class="columns small-12 top-bar-title">
+<div class="columns small-12">
+<h4 class="title text-left">
+<span ng-show="createAccount &amp;&amp; !forgotPassword">
+Create Account
+</span>
+<span ng-show="!createAccount &amp;&amp; !forgotPassword">
+Sign In
+</span>
+<span ng-show="forgotPassword">
+Forgot Password
+</span>
+</h4>
+</div>
+</div>
+<div class="modal-inner-block columns">
+<p class="text-center" ng-show="forgotPassword">
+Enter your email address below to reset your password.
+</p>
+<div class="columns small-12" id="formBlock" ng-class="{showerrors: formsubmitted}">
+<div class="small-12 columns">
+<div class="email-field">
+<input class="left" id="email" name="email" ng-model="user.email" ng-pattern="emailPattern" onblur="" placeholder="Email" required="" type="email">
+<label class="input-text-label" for="email">Email</label>
+</div>
+</div>
+<div class="small-12 columns">
+<input id="newuser" name="logintype" ng-model="createAccount" ng-value="true" type="radio">
+<label class="left" for="newuser" ng-hide="forgotPassword">
+<div class="bubble">
+<div class="dot"></div>
+</div>
+<div class="info">
+<h6>New Customers</h6>
+<p class="create-text">
+Create an account with us for quick checkout, to track your order, and more.
+</p>
+</div>
+</label>
+<input id="returninguser" name="logintype" ng-model="createAccount" ng-value="false" type="radio">
+<label class="left" for="returninguser" ng-hide="forgotPassword">
+<div class="bubble">
+<div class="dot"></div>
+</div>
+<div class="info">
+<h6>Returning Customers</h6>
+</div>
+</label>
+</div>
+<div class="small-12 columns">
+<div class="password-field hide" ng-hide="forgotPassword">
+<input class="left" id="password" name="password" ng-minlength="6" ng-model="user.password" ng-required="!forgotPassword" placeholder="{{createAccount ? 'Create Password' : 'Password'}}" type="password">
+<label class="input-text-label" for="password">
+<span ng-show="createAccount">Create Password</span>
+<span ng-show="!createAccount">Password</span>
+</label>
+<input id="forgotPassword" name="forgotPassword" ng-model="forgotPassword" type="checkbox">
+<label class="left" for="forgotPassword" ng-hide="createAccount">
+<div class="info forgot-password">
+Forgot your password ?
+</div>
+</label>
+</div>
+</div>
+<div class="small-only-text-center" ng-show="!forgotPassword">
+<div class="sociallogin small-12 columns text-center hide-for-large-up">
+<a href="http://www.meundies.com/users/auth/facebook" class="left"><div class="fb-icon"></div>
+Connect with Facebook
+</a></div>
+</div>
+<div class="hide-for-large-up">
+<div class="columns small-12 text-center" ng-show="forgotPassword">
+<a ng-click="forgotPassword = false">
+Sign In / Create Account
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="columns small-12 text-center bottom-complete-bar">
+<div class="columns small-12">
+<button class="button radius submit" ng-click="submitLoginOrCreateAccount(createAccountForm,user.email,user.password,createAccount)" ng-disabled="formsubmitting" prevent-default="" type="submit">
+<span ng-show="createAccount &amp;&amp; !forgotPassword &amp;&amp; !formsubmitting">
+Join
+</span>
+<span ng-show="!createAccount &amp;&amp; !forgotPassword &amp;&amp; !formsubmitting">
+Login
+</span>
+<span ng-show="forgotPassword &amp;&amp; !formsubmitting">
+Submit
+</span>
+<span ng-show="formsubmitting">
+Sending
+</span>
+</button>
+<div ng-show="!forgotPassword">
+<div class="sociallogin small-12 columns text-center show-for-large-up">
+<a href="http://www.meundies.com/users/auth/facebook"><div class="fb-icon"></div>
+Connect with Facebook
+</a></div>
+</div>
+</div>
+<div class="show-for-large-up">
+<div class="columns small-12" ng-show="forgotPassword">
+<a ng-click="forgotPassword = false">
+Sign In / Create Account
+</a>
+</div>
+</div>
+</div>
+</form>
+<a class="close-reveal-modal">×</a>
+</div>
+<script>
+  $(document).ready(function(){
+    angular.bootstrap($('#login-app'), ['loginApp']);
+    $('input').focus(function(){
+       $(this).data('placeholder',$(this).attr('placeholder'))
+       $(this).attr('placeholder','');
+    });
+    $('input').blur(function(){
+       $(this).attr('placeholder',$(this).data('placeholder'));
+    });
+  });
+</script>
+
+</div>
 <div class="linktocart">
 <a href="/cart" class="empty">Cart (<span class="amount">0</span>)</a>
 </div>
 </div>
 <div id="expresscontainer">
 <div data-shown="inactive" id="expresscart">
-<div data-ordernumber="R837612354" id="expresslist">
-<div data-placeholder="lol" id="expressstart"></div>
-</div>
-<p class="expresstotal">
-<span class="expresstotaldisplay">
-Subtotal
-</span>
-<span class="expresstotalmoney" id="expressmoney">
-$0.00
-</span>
-</p>
-<p class="expresscheckout">
-<span class="express-continueshopping" id="closeexpress">
-Continue Shopping
-</span>
-<span>
-<a href="/cart" class="expresscheckoutbutton">Checkout</a>
-</span>
-</p>
 </div>
 
 </div>
@@ -242,10 +380,12 @@ Continue Shopping
 <div class="bottom-nav">
 <div class="row">
 <div class="icon-bar five-up">
-<a href="/the-meundies-wall" class="item"><div class="icon wall-icon"></div>
-<label>The Wall</label>
+<a href="/videos" class="item"><div class="icon videos-icon"></div>
+<label>Videos</label>
 </a><a href="/photoshoots" class="item"><div class="icon photoshoots-icon"></div>
 <label>Photoshoots</label>
+</a><a href="/the-meundies-wall" class="item"><div class="icon wall-icon"></div>
+<label>The Wall</label>
 </a><a href="/about" class="item"><div class="icon mu-icon"></div>
 <label>Our Story</label>
 </a><a href="/help" class="item"><div class="icon help-icon"></div>
@@ -255,10 +395,9 @@ Continue Shopping
 </div>
 </nav>
 
-              </div>
-              <div>
-                <div class="columns small-12 sitebody">
-                  <div class="legalnotice row">
+          </div>
+            <div class="columns small-12 sitebody">
+              <div class="legalnotice row">
 <section class="columns small-12">
 <h1>
 Privacy
@@ -330,22 +469,23 @@ If you have questions or suggestions regarding this Privacy Policy please send a
 </section>
 </div>
 
-                </div>
-              </div>
-              </section>
-</div>
-            <div id="footerbar">
+            </div>
+        </section>
+        <a class="exit-off-canvas"></a>
+      </div>
+    </div>
+    <div id="footerbar">
 <div class="nittygritty row">
 <div class="columns small-12 medium-12 large-7 section-one left show-for-medium-up">
 <div class="columns small-6 medium-4 large-3 left">
 ©
-2014
+2015
 MeUndies Inc.
 </div>
 <div class="terms columns small-6 medium-4 large-3 left">
 <a href="/terms">Terms &amp; Conditions</a>
 </div>
-<div class="privacy columns small-6 medium-4 large-3 left" data-page="legal">
+<div class="privacy columns small-6 medium-4 large-3 left">
 <a href="/privacy">Privacy Policy</a>
 </div>
 </div>
@@ -363,8 +503,8 @@ MeUndies Inc.
 </div>
 </div>
 </div>
+<div class="footerbody">
 <div class="row">
-<div class="footerbody row">
 <div class="columns small-12 medium-6 show-for-large-up left">
 <div class="footerbody row">
 <div class="shop columns small-12 medium-3 small-only-text-center left">
@@ -378,18 +518,21 @@ Shop
 <a href="/t/gender/women">Women</a>
 </div>
 <div>
-<a href="#" class="friendbuy_desktop_trigger">Share</a>
+<a href="#" class="friendbuy_desktop_trigger">Refer</a>
 </div>
 </div>
 <div class="company columns small-12 medium-5 small-only-text-center left">
 <h5>
 MeUndies
 </h5>
-<div data-page="help">
+<div>
 <a href="/help">Help</a>
 </div>
-<div data-page="about">
+<div>
 <a href="/about">About Us</a>
+</div>
+<div>
+<a href="https://jobs.lever.co/meundies" target="_blank">Careers</a>
 </div>
 </div>
 <div class="account columns small-12 medium-4 small-only-text-center left">
@@ -397,10 +540,10 @@ MeUndies
 Your Account
 </h5>
 <div>
-<a href="/join" id="joinlink">Join</a>
+<a href="/join" class="joinlink">Join</a>
 </div>
 <div>
-<a href="/signin" id="loginlink">Login</a>
+<a href="/signin" class="loginlink">Login</a>
 </div>
 </div>
 </div>
@@ -421,8 +564,8 @@ Find Us
 <a class="twitter-grey hide-for-medium-up" href="twitter://user?screen_name=meundies" target="_blank"></a>
 </div>
 <div class="columns small-3 large-6 left neg-pad-right">
-<a class="instagram-grey hide-for-small-only" href="http://www.instagram.com/me_undies" target="_blank"></a>
-<a class="instagram-grey hide-for-medium-up" href="instagram://user?username=me_undies" target="_blank"></a>
+<a class="instagram-grey hide-for-small-only" href="http://www.instagram.com/meundies" target="_blank"></a>
+<a class="instagram-grey hide-for-medium-up" href="instagram://user?username=meundies" target="_blank"></a>
 </div>
 <div class="columns small-3 large-6 left">
 <a class="pinterest-grey" href="http://pinterest.com/meundies/" target="_blank"></a>
@@ -431,26 +574,26 @@ Find Us
 </div>
 <div class="columns small-12 text-center hide-for-large-up">
 ©
-2014
+2015
 MeUndies Inc.
 </div>
 </div>
-<div class="inline newsletter columns small-12 medium-8 small-only-text-center show-for-large-up left">
+<div class="inline footer_signup columns small-12 medium-8 small-only-text-center show-for-large-up left footer">
 <h5>
-Special Offers
+Stay Updated
 </h5>
 <p>
-Signup for our newsletter and receive special offers!
+Get our latest photoshoots, videos and other behind the scenes looks by email.
 </p>
-<span id="newsSuccess">123</span>
-<span id="newsFail">12312</span>
-<form accept-charset="UTF-8" action="/leads" class="new_lead" data-remote="true" id="new_lead" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="aKdfNf5AEiqJOrLzUxk1ppqtFZIYGzd8EG1Ci0OUe00="></div><div class="row collapse">
+<div class="email_success"></div>
+<div class="email_fail"></div>
+<form accept-charset="UTF-8" action="/coupons" class="new_coupon" data-remote="true" id="footer_lead_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="wevJ92JF9ELM87+qhMF+HnwJP/TbuxkM21CYEzQutws="></div><div class="row collapse">
 <div class="newsemail columns small-8">
-<input class="email_field" id="lead_formatted_email" name="lead[formatted_email]" placeholder="Email" size="30" type="text">
-<input id="lead_referrer" name="lead[referrer]" type="hidden" value="newsletter">
+<input class="email_field" id="coupon_formatted_email" name="coupon[formatted_email]" placeholder="Email" size="30" type="text">
+<input id="coupon_referrer" name="coupon[referrer]" type="hidden" value="footer">
 </div>
 <div class="signup columns small-4">
-<input class="postfix" data-disable-with="Submitting" id="newsletterSubmit" name="commit" onclick="$('#newsFail').css('visibility','hidden');" type="submit" value="Sign Up">
+<input class="submit postfix" data-disable-with="Submitting" id="footerEmailSubmit" name="commit" onclick="$('.footer_signup .email_fail').css('visibility','hidden');" type="submit" value="Sign Up">
 </div>
 </div>
 </form>
@@ -459,29 +602,16 @@ Signup for our newsletter and receive special offers!
 </div>
 </div>
 </div>
-<div class="small-12 columns uprow">
-<div class="arrow-up"></div>
 </div>
-</div>
-<script>
-  //<![CDATA[
-    $(".uprow").click(function(){
-      $('body, .off-canvas-wrap').animate({ scrollTop: 0}, 1000);
-    });
-  //]]>
-</script>
 
-            <a class="exit-off-canvas"></a>
-            </div>
-          
-        </div>
-      
-    <!-- Desktop -->
+
+
+      <!-- Desktop -->
 <div class="friendbuy-desktop" style="display:none"></div>
 <!-- Mobile -->
-<div class="friendbuy-mobile" style="display:none"></div>  
-    <!-- Trackers -->
-    
+<div class="friendbuy-mobile" style="display:none"></div>
+      <!-- Trackers -->
+      
   <script type="text/javascript">
 //<![CDATA[
 
@@ -498,7 +628,7 @@ Signup for our newsletter and receive special offers!
 
 //]]>
 </script>
-    <div id="tks"><!-- Google Code for Remarketing tag -->
+      <div id="tks"><!-- Google Code for Remarketing tag -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -516,51 +646,60 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 
-<!-- begin olark code -->
-<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
-f[z]=function(){
-(a.s=a.s||[]).push(arguments)};var a=f[z]._={
-},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
-f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
-0:+new Date};a.P=function(u){
-a.p[u]=new Date-a.p[0]};function s(){
-a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
-hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
-return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
-b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
-b.contentWindow[g].open()}catch(w){
-c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
-var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
-b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
-loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-/* custom configuration goes here (www.olark.com/documentation) */
-olark.identify('6437-822-10-7166');/*]]>*/</script><noscript><a href="https://www.olark.com/site/6437-822-10-7166/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
-
-<!-- end olark code -->
 
 <script type="text/javascript">
-	(function() {
-		var s = document.createElement('script'),
-			e = document.getElementsByTagName('script')[0];
-		s.src = '//d3cxv97fi8q177.cloudfront.net/foundation-A59723-fb94-4c11-852e-45801f6f14df1.js';s.type = 'text/javascript';s.async = true;
-		e.parentNode.insertBefore(s, e);
-	})();
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalConversionLogicNamespace=p.GlobalConversionLogicNamespace||[];
+p.GlobalConversionLogicNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//c.conversionlogic.net/sp.js","conversionlogic"));
+
+window.conversionlogic('newTracker', 'cf', 'c.conversionlogic.net', {
+  advertiserId: 'meundies',
+  advertiserCookieDomain: 'meundies.com'
+});
+
+window.conversionlogic('trackPageView');
 </script>
 <noscript>
-<img src="//tl.r7ls.net/unscripted/59723" width="1" height="1"></noscript>
+  <img src="//c.conversionlogic.net/i?&aid=meundies&e=pv&page=visit&p=web&tv=no-js-0.1.0"
+       width="0"
+       height="0"
+       style="display: none" />
+</noscript>
+<!-- END Conversion Logic Tag -->
+
 
 <script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://www.mysiteresults.com/" : "http://www.mysiteresults.com/");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://www.mysiteresults.com/piwik.js" type="text/javascript"></script><script type="text/javascript">
-try {
-var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 61);
-piwikTracker.trackPageView();
-piwikTracker.enableLinkTracking();
-} catch( err ) {}
-</script><noscript><p><img src="http://www.mysiteresults.com/piwik.php?idsite=61" style="border:0" alt="" /></p></noscript>
-</div>
-    <!-- Quantcast Tag -->
+var ua = navigator.userAgent.toLowerCase(),
+platform = navigator.platform.toLowerCase();
+var platformName = ua.match(/ip(?:ad|od|hone)/) ? 'ios' : (ua.match(/(?:webos|android)/) || platform.match(/mac|win|linux/) || ['other'])[0],
+isMobile = /ios|android|webos/.test(platformName);
+if (!isMobile) {
+  window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+  d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+  _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+  $.src='//v2.zopim.com/?2M9IGBQgEQApWHJ0YQC6mukS9kRWBbC3';z.t=+new Date;$.
+  type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+
+}
+</script>
+
+
+<!-- Begin TVSquared Tracking Code -->
+<script type="text/javascript">
+    var _tvq = _tvq || [];
+    (function () {
+        var u = (("https:" == document.location.protocol) ? "https://collector-306.tvsquared.com/piwik/" : "http://collector-306.tvsquared.com/piwik/");
+        _tvq.push(['setSiteId', "TV-639036-1"]);
+        _tvq.push(['setTrackerUrl', u + 'piwik.php']);
+        _tvq.push([function() { this.deleteCustomVariable(5, 'page')}]);
+        _tvq.push(['trackPageView']);
+        var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0]; g.type = 'text/javascript'; g.defer = true; g.async = true; g.src = u + 'tv2track.js';
+        s.parentNode.insertBefore(g, s);
+    })();
+</script>
+<!-- End TVSquared Tracking Code --></div>
+      <!-- Quantcast Tag -->
 <script type="text/javascript">
 var _qevents = _qevents || [];
  
@@ -603,11 +742,12 @@ _qevents.push({
   </div>
 </noscript>
 <!-- End Quantcast tag -->
-    <script src="//dqm6q3p11zmp0.cloudfront.net/assets/fastclick-a6d62583386b963a3d1f4c296e54680a.js" type="text/javascript"></script>
-  <script>
-  Spree.api_key = "";
-</script>
 
 
+    <script>
+      Spree.api_key = "";
+    </script>
+    <script src="//dqm6q3p11zmp0.cloudfront.net/assets/fastclick-9eda14447c2509873092ed8b93db8de1.js" type="text/javascript"></script>
+  
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
