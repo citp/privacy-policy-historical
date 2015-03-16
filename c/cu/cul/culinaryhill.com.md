@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culinaryhill.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029181806id_/http%3A//culinaryhill.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culinaryhill.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316171652id_/http%3A//www.culinaryhill.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Culinary Hill
 
