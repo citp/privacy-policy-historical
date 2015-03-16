@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plot.ly privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010031333id_/https%3A//plot.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plot.ly privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316170243id_/https%3A//plot.ly/privacy) for the most accurate reproduction.*
 
 # Privacy policy | plotly
 
@@ -134,8 +134,8 @@ For example, we may send a message to your email address, if we have one on file
 Please contact us with any questions or comments about this Policy, your personal information, our use and disclosure practices, or your consent choices by email at [feedback@plot.ly](mailto:feedback@plot.ly).
 
 Plotly, Inc  
-5605 avenue de Gaspé, suite 204  
-Montréal, Québec H2T 2A4  
+5555 avenue de Gaspé, Suite 201  
+Montréal, Québec H2T 2A3  
 Canada 
 
 ####  Thanks for signing up.  
