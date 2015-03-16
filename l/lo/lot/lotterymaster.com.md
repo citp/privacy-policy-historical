@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lotterymaster.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704151852id_/https%3A//www.lotterymaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotterymaster.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316221551id_/https%3A//www.lotterymaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lottery Master
 
 **Privacy Policy**
 
-We, at [www.lotterymaster.com](http://www.lotterymaster.com/) are committed to protecting your privacy and your personally identifiable information **(“Personal Information”)**.
+We, at [www.lotterymaster.com](https://web.archive.org/) are committed to protecting your privacy and your personally identifiable information **(“Personal Information”)**.
 
 We have created this Privacy Policy to let you know what information we (or others on our behalf) collect from you when you use our website and the services contained within (the " **Services** "), how is this information collected and how is it used.
 
@@ -44,7 +44,7 @@ Any person who provides their information to us (or others on our behalf) in con
 
 By agreeing to this privacy policy, you hereby allow us to provide you with communications from us, as well as from third parties, either in connection with the Services or in connection with other (including, but not limited to, commercial) matters and offers. You hereby acknowledge and consent to the sending of such communications, and will not argue that such activity amounts to sending of unsolicited communications, You also hereby acknowledge that we are not responsible for the communication sent to you by third parties, their content and method of distribution,
 
-You may opt-out from receiving communications from us by sending a blank e-mail to us with the word “Remove” to info@[lotterymaster.com](http://lotterymaster.com/). If you have any questions relating to opting-out, please contact our Customer Service and we will try to answer your questions.
+You may opt-out from receiving communications from us by sending a blank e-mail to us with the word “Remove” to info@[lotterymaster.com](https://web.archive.org/). If you have any questions relating to opting-out, please contact our Customer Service and we will try to answer your questions.
 
 **Cookies**
 
