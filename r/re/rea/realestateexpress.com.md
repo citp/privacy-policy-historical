@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestateexpress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102759id_/http%3A//www.realestateexpress.com/general/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestateexpress.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316173229id_/https%3A//www.realestateexpress.com/general/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Real Estate Express Real Estate License School
 
@@ -9,7 +9,7 @@ This privacy statement covers the Web site www.realestateexpress.com. It is the 
 Our postal address is:
 
 American School of Real Estate Express, LLC  
-12977 North Forty Drive Suite 368  
+12977 North Forty Drive suite 108  
 St. Louis, MO 63141
 
 We can be reached via e-mail at info@realestateexpress.com
