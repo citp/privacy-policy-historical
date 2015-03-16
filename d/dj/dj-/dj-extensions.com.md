@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dj-extensions.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110030818id_/http%3A//dj-extensions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dj-extensions.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316214714id_/https%3A//dj-extensions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ● DJ-Extensions.com
 
@@ -32,6 +32,8 @@ We use cookies to help us remember and process the items in your shopping cart a
 ### Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+Transactional data, including personal information, may be submitted to PayLane Sp. z o.o., 80-387 Gdańsk, ul. Arkońska 6/A3, KRS: 0000227278, to the extent necessary to support the payment for the order.
 
 ### Third party links
 
