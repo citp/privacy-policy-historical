@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the solitaire-cardgame.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703172601id_/http%3A//www.solitaire-cardgame.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solitaire-cardgame.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316144612id_/http%3A//www.solitaire-cardgame.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-This game is created by SimpleGames, a small software company in Denmark. Here we will explain what data we store, how we store it, how we use cookies and how our advertising works. 
+This game is created by SimpleGames, a small software company in Iceland. Here we will explain what data we store, how we store it, how we use cookies and how our advertising works. 
 
 ### Personal information
 
