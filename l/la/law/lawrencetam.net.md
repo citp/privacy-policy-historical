@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lawrencetam.net privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701130252id_/http%3A//www.lawrencetam.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawrencetam.net privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316204225id_/http%3A//www.lawrencetam.net/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Lawrence Tam
 
 **General Privacy Policies**
 
@@ -45,6 +45,13 @@ We also use personal information in an aggregate form (i.e., not individually at
 Cookies may be used to keep track of referred affiliate commissions and to monitor access to our website. You consent to any future use of cookies for testing purposes and the use of cookies for publicly available data to gather statistics for the purpose of determining which search engines, referring sites, key words, etc., bring visitors to our website, which pages visitors are most interested in, what web browsers are used, etc. Various providers may be used for this purpose. The purpose is obtain information that will help promote the website, make the website more interesting and useful to visitors, and to identify areas where improvement is needed.
 
 Additionally, various third party information suppliers and other entities that provide information for this website, or for use by us, may use cookies. Examples include, but are not necessarily limited to billing providers, third party advertisers, and third party resources we promote.
+
+**Remarketing**
+
+  * Remarketing is used on this site to serve advertisement back to previous members up to 180 days.
+  * 3rd party members, Google, Facebook use the cookies by placing relevant ads only to previous visitors up to 180 days ago.
+
+
 
 **Disclosure by Necessity**
 
