@@ -1,17 +1,92 @@
-> *The following text is extracted and transformed from the rivermarkcu.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424133729id_/https%3A//www.rivermarkcu.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivermarkcu.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316202233id_/https%3A//www.rivermarkcu.org/media/178345/Privacy2014.pdf) for the most accurate reproduction.*
 
-# Rivermark Community Credit Union - Privacy_Policy
+# FACTS
 
-Read Rivermark's [Privacy Policy.](https://web.archive.org/media/doc/Rivermark_Privacy_Policy.pdf)
+                                                                                                                Rev. 09/2014
+               RIVERMARK COMMUNITY CREDIT UNION PRIVACY POLICY
+                               WHAT DOES RIVERMARK COMMUNITY CREDIT UNION DO WITH YOUR
+ FACTS                         PERSONAL INFORMATION?
+ Why?                          Financial companies choose how they share your personal information. Federal law
+                               gives consumers the right to limit some but not all sharing. Federal law also requires us
+                               to tell you how we collect, share, and protect your personal information. Please read this
+                               notice carefully to understand Rivermark Community Credit Union’s Privacy Policy.
+ What?                         The types of personal information we collect and share depend on the accounts or
+                               services you have with us. This information can include:
+                                     Name, address, Social Security number, and income
+                                     Account balances and transaction history
+                                     Credit history and credit scores
+ How?                          All financial companies need to share members’ personal information to run their
+                               everyday business. In the section below, we list the reasons financial companies can
+                               share their members’ personal information; the reasons Rivermark Community Credit
+                               Union chooses to share; and whether you can limit this sharing.
+                                                                          Does Rivermark
+                                                                                                     Can you limit this
+ Reasons we can share your personal information                          Community Credit
+                                                                                                         sharing?
+                                                                           Union share?
+ For our everyday business purposes—
+ such as to process your transactions, maintain your
+                                                                                Yes                         No
+ account(s), respond to court orders and legal
+ investigations, or report to credit bureaus
+ For our marketing purposes—
+                                                                                Yes                         No
+ to offer our products and services to you
+ For joint marketing with other financial companies                             Yes                         No
+ For our affiliates’ everyday business purposes—
+                                                                                Yes                         Yes
+ information about your transactions and experiences
+ For our affiliates’ everyday business purposes—
+                                                                                 No                   We don’t share
+ information about your creditworthiness
+ For nonaffiliates to market to you                                              No                   We don’t share
+                                     Call 800.452.8502 or 503.626.6600
+                                     Visit us online: https://www.rivermarkcu.org/forms/privacy-opt-out
+To limit
+our sharing                   Please note: When you are no longer our member, we will not share your information
+                              except as permitted or required by law or as described in this notice.
+                              However, you can contact us at any time to limit our sharing.
+Questions?                     Call 800.452.8502 or 503.626.6600; or go to www.rivermarkcu.org
 
- **Online Privacy Protections**
 
-Rivermark Community Credit Union collects and stores information on the domain you use to access its Web site, the Internet address of the site from which you linked directly to its site, and the date and time of your visit to its Web site. This information is used to measure the number of visitors to the various pages on the Web site, to help the credit union make improvements to the information contained in the site, and to better serve our members through special marketing and service programs. To protect the information you provide us online, we use multiple levels of security. The application information we accept online and our Online Banking service rely on industry standard "Secure Socket Layer" (SSL) encryption to secure your transaction information and communication. When you visit our Web site, you can access site information, without revealing your personal identity. Personal identifying information is collected when a member registers to access the Online Banking sections of the Website. This information lets the credit union regulate entry to these portions that are reserved for access only by our members and to measure member usage. Personal identifying information is also collected in our online registration to access our online auction service. Any personal identification information gathered during the registration process is not disclosed or sold to third parties.
-
-**E-Mail.** Personal information contained in e-mail sent by members and non-members may be used by the credit union to answer questions, follow up on suggestions or complaints, or to improve the level of service the credit union provides. Please be advised that e-mail may not be secure against interception by unauthorized individuals. Therefore, if you wish to communicate sensitive or personal information, you may want to send it by regular mail.
-
-**Cookies.** Some parts of the credit union's Web site may use a "cookie," which is a file placed on your computer hard drive that allows our Web site server to log the pages you use in the site and to determine if you have visited the site before. The cookie captures no personal identification information. The server uses this information to provide certain features during your visit to the Web site. You can set your browser to warn you when placement of a cookie is requested, and decide whether to accept it. By rejecting a cookie, some of the features available on the site may not function properly.
-
-**External Links.** Our Web site contains links to other sites. Rivermark Community Credit Union is not responsible for the privacy practices or the content of such Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by our Web site. Some of the links from our site will take you off the rivermarkcu.org site to a "co-branded" site where you will see the Rivermark Community Credit Union logo as well as the logo of another service provider. Co-branded Web sites may include Members Financial Services, and Verified by VISA, and may change from time to time. The service provider collects any information that you provide. You are encouraged to read the privacy statement of that provider.
-
-**Children's Information Privacy.** The financial services offered through our Web site are not directed toward children under age 13. We do not knowingly solicit or collect information from children, and we do not knowingly market to children online without express parental consent or notification. If we receive online information from any child, we will only use the information to respond directly to a child's request. We recognize that protecting children's identities and online privacy is important and that responsibility rests with us and with parents.
+What we do
+How does Rivermark Community Credit       To protect your personal information from unauthorized
+Union protect my personal information?    access and use, we use security measures that comply with
+                                          federal law. These measures include computer safeguards
+                                          and secured files and buildings. We also restrict access to
+                                          nonpublic personal information about you to those employees
+                                          and other persons who need to know the information to
+                                          provide products or services to you.
+How does Rivermark Community Credit       We collect your personal information, for example, when you
+Union collect my personal information?        open an account or apply for a loan
+                                              apply for any credit union service
+                                              visit our website, provide us information on any online
+                                               application or transaction, or information you send to us by
+                                               email.
+                                              use your credit or debit card or pay your bills
+                                              make deposits to or withdrawals from your accounts
+                                          We also collect your personal information from others, including
+                                          credit bureaus or other companies.
+Why can’t I limit all sharing?            Federal law only gives you the right to limit information sharing as
+                                          follows:
+                                              sharing for affiliates’ everyday business purposes—information
+                                               about your creditworthiness
+                                              affiliates from using your information to market to you
+                                              sharing for nonaffiliates to market to you
+                                          State laws and individual companies may give you additional rights
+                                          to limit sharing.
+What happens when I limit sharing for an  Your choices will apply to everyone on your account.
+account I hold jointly with someone else?
+Definitions
+Affiliates                                Companies related by common ownership or control. They can be
+                                          financial and nonfinancial companies.
+                                              Our affiliate is Rivermark Insurance Agency.
+Nonaffiliates                             Companies not related by common ownership or control. They can
+                                          be financial and nonfinancial companies.
+                                              Rivermark Community Credit Union does not share with
+                                               nonaffiliates so they can market to you except for our joint
+                                               marketing arrangements.
+Joint marketing                           A formal agreement between Rivermark Community Credit Union
+                                          and a nonaffiliated financial company where we jointly market
+                                          financial products or services to you.
+                                              Our joint marketing partners include financial service providers.
