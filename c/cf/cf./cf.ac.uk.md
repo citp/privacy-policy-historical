@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cf.ac.uk privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009090057id_/http%3A//www.cardiff.ac.uk/legals/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cf.ac.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316230908id_/http%3A//www.cardiff.ac.uk/legals/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
