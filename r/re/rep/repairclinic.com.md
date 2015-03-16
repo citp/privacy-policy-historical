@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repairclinic.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701112016id_/http%3A//www.repairclinic.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repairclinic.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316200620id_/http%3A//www.repairclinic.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - RepairClinic.com
 
@@ -13,7 +13,7 @@ By using the web site http://www.repairclinic.com (the “Site”), you agree to
 
 ## What personal information we collect and how we use it
 
-**Purchases:** When you purchase a product we may collect your shipping and billing address, payment information, phone number and email address. If you choose to create an account on our Site, we will also collect a user name and password. We use this information to administer your account and process your order and any returns. 
+**Purchases:** When you purchase a product we may collect your shipping and billing address, payment information, phone number and email address. If you leave items in your shopping cart prior to completing a purchase on our Site, we may email you reminders about those items left in your shopping cart. If you choose to create an account on our Site, we will also collect a user name and password. We use this information to administer your account and process your order and any returns. 
 
 **Promotional Emails:** From time to time we may obtain your consent to send you our promotional emails containing information about RepairClinic.com products and services. You can unsubscribe from our email list at any time by clicking on the unsubscribe link in any of our email messages or by contacting us as set out below. 
 
@@ -82,7 +82,7 @@ Depending on the jurisdiction in which you reside, you may have the right to acc
 Please contact us with any questions and/or comments you may have. 
 
 RepairClinic.com  
-Attn: Chris Hall  
+Attn: Customer Service  
 48600 Michigan Avenue  
 Canton, Michigan USA 48188-2240  
 1-800-269-2609 (for calls within the U.S. and Canada)  
