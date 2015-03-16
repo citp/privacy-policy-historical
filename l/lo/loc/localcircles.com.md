@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localcircles.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702182035id_/https%3A//www.localcircles.com/a/index/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localcircles.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316072319id_/https%3A//www.localcircles.com/a/index/privacypolicy) for the most accurate reproduction.*
 
 # LocalCircles - Social Media for Communities, Governance and Urban Daily Life
 
