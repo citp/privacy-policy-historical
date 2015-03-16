@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102215859id_/http%3A//www.soul-source.co.uk/soulforum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316131645id_/http%3A//www.soul-source.co.uk/soulforum/privacypolicy) for the most accurate reproduction.*
 
 # Cookies/Privacy Policy - Soul Source
 
@@ -28,7 +28,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 As with all websites, log files are maintained of all requests for files on this website's web servers. Log files capture your IP address, but do not capture any other personal information. This IP address is automatically recognised by our web servers and can only be used to personally identify you by your Internet Service Provider, and not by the administrators of this website.
 
-Telasource understands and respects the rights of individualsÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ privacy and is committed in providing on-line data security. This privacy statement explains how data is handled whilst you browse and submit information through the website and your options regarding the ways in which your data is used.
+Telasource understands and respects the rights of individualsÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ privacy and is committed in providing on-line data security. This privacy statement explains how data is handled whilst you browse and submit information through the website and your options regarding the ways in which your data is used.
 
 **Use of Information, Data Protection and Internet Privacy**
 
