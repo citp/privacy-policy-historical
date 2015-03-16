@@ -1,71 +1,174 @@
-> *The following text is extracted and transformed from the aftership.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022165515id_/https%3A//www.aftership.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aftership.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316214745id_/https%3A//www.aftership.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AfterShip
 
-Last updated: January 19th, 2012
+Last Updated:1st OCTOBER 2014
 
-This privacy statement ("Privacy Policy") covers all websites (such as awesome-ship.com) owned and operated by AFTERSHIP LTD ("AFTERSHIP", "we", "us", "our") and all associated services provided by AFTERSHIP. This Privacy Policy covers AFTERSHIP's treatment of personal information that it gathers when you access or use any of AFTERSHIP's websites or services. This policy also covers personal information that AFTERSHIP's business partners share with AFTERSHIP.
+AfterShip Ltd ("AfterShip", "We", "Us", "Our") and any and all parent, subsidiary or associate company of AfterShip (collectively "AfterShip Group") recognize the importance of privacy. AfterShip will manage your personal information collected through the websites located at[www.aftership.com](https://www.aftership.com/), the mobile applications, the API related services and the affiliated websites owned by AfterShip Group (collectively "Website") based on AfterShip belief of respect for the individual and in accordance with this Privacy Policy. BY USING THE WEBSITE IN ANY WAY, INCLUDING NAMELY BROWSING, PURCHASING AND USING ANY OF THE SERVICES PROVIDED THROUGH THE WEBSITE, YOU AGREE TO THE AFTERSHIP PRIVACY POLICY ("Privacy Policy"). If you do not agree with this Privacy Policy, please do not provide personal information and please do not use the Website.
 
-Please read the following to learn more about our privacy policy. By visiting our websites, submitting information or using any of our services, you are accepting the practices outlined in this Privacy Policy.
+##### 1\. Information We Collect
 
-AFTERSHIP knows that you care about how your personal information is used and shared, and we take your privacy seriously. This is how we want to be treated, too.
+We collect personal information about you to provide the services you request, to improve the user’s interaction with AfterShip, and to communicate with you about shipping information, services, promotions and contests. We try to limit the collected information to support the intended purpose of collection.
 
-##### Information We Automatically Collect
+ **1.1. Personal Information**
 
-We may receive and store certain types of non-personally identifiable information whenever you interact with us, including, without limitation, the sort information that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. AFTERSHIP's purpose in collecting such information is to better understand how AFTERSHIP's visitors use its website. From time to time, AFTERSHIP may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. AFTERSHIP also collects potentially personally-identifying information like the Internet Protocol (IP) addresses of website visitors.
+We collect personal information from you in a variety of ways when you interact with AfterShip through the Website. Some examples are when you:
 
-##### Information You Provide To Us
+  * Create an account on the Website;
+  * Make an online purchase from us;
+  * Request customer service or contact us;
+  * Submit a review or post any User Content (as defined in the [Terms of Use](https://web.archive.org/terms)) on the Website; or
+  * Otherwise submit personal information to AfterShip.
 
-We may receive and store any information you enter on our website or provide to us in any other way. For
 
-example, in order to use certain services or functions of our websites, you may be required to register with an email address on the AFTERSHIP website. AFTERSHIP collects such information only insofar as is it deems reasonably necessary or appropriate to fulfill the purpose of the user's interaction with AFTERSHIP.
 
-You can always refuse to supply personally-identifying information, with the caveat that it may prevent you from engaging in certain activities.
+Personal information is information that identifies you or is reasonably linked to you. The personal information we collect may include contact and payment information such as your name and/or company name, address, phone number, email address, shipping and credit card information. We may also collect personal information about you through social media websites and services and from other sources.
 
-##### Cookies
+When you ask us to provide services for the benefit of a third party, you shall be legally authorized by said third party to disclose his/her personal information to AfterShip. This authorization shall cover personal information including but not limited to the name, address, phone number, email address, credit card and shipping information of the third party. You agree that you must bear all risks associated with the use of any third party’s personal information communicated by you and that under no circumstances will AfterShip be liable in any way for any personal information or for any loss or damage of any kind incurred as a result of the use of any personal information. AfterShip is merely acting as a passive channel for the use of the personal information and is not undertaking any obligation or liability relating to any third party’s personal information communicated by you and/or your company.
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. AFTERSHIP uses cookies to help AFTERSHIP identify and track visitors, their usage of AFTERSHIP website, and their website access preferences. AFTERSHIP visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using AFTERSHIP's websites, with the drawback that certain features of AFTERSHIP's websites may not function properly without the aid of cookies.
+ **1.2 Usage Information**
 
-##### Deleting a AFTERSHIP account
+We receive and store certain types of information about your use of the Website when you use the Website. Our purpose is to allow the Website to work correctly, to allow us to provide our services, to evaluate use of the Website, for marketing purposes and to personalize and enhance your interaction with AfterShip. Some examples include:
 
-All statistics and logs collected on behalf of an account holder are purged upon deletion of a AFTERSHIP account, although AFTERSHIP may retain such information for longer periods of time as part of its back-up emergency system.
+  * We may collect technical information such as your IP address, the address of a referring website or application, the type of web browser or mobile device you use, your operating system, your Internet Service Provider and the path you take through the Website;
+  * When you purchase services, we collect information about the transaction, such as services details and the date of the purchase/return.
 
-##### Disclosure of Personally-Identifying Information
 
-We neither rent nor sell your personal information to anyone. We share your personal information only with your consent or to our business partners and affiliates as described below:
 
-##### Personnel/Agents
+##### 2\. Cookies and Web Beacons
 
-AFTERSHIP discloses potentially personally-identifying and personally-identifying information only to those of its employees, agents and contractors that (i) need to know that information in order to process it on AFTERSHIP's behalf or to provide services available at or through AFTERSHIP's websites and services, and (ii) that have agreed not to disclose it to others. Some of those employees, agents and contractors may be located outside of your home country; by using AFTERSHIP's websites, you consent to the transfer of such information to them.
+We use cookies to enhance and simplify your visit; namely, in order to offer easier surfing on the Website, to make login easier, for internal security purposes, system administration to tailor advertisements to your preferences and the like. Cookies are small data files stored on the hard disk of the users’ computer. In addition to cookies which send information to us, we also use cookies which collect information and send it to third parties. An example of this is Google Analytics. Some of our cookies may collect and store your personal information, such as your name or email address. By using this Website, you agree to the placement of cookies on your computer and to AfterShip’s access to cookies in accordance with the terms herein. If you do not wish to accept cookies from the Website please either disable cookies or refrain from using the Website.
 
-##### Affiliated Businesses
+We may also use web beacons. Web beacons allow us to understand if a certain page of the Website was visited or if an email was opened or if advertising banners on other websites were effective.
 
-We are affiliated with a variety of businesses and work closely with them in order to provide our services to users. We will only share personal information with affiliates to the extent that is necessary for such affiliates to provide the services. For example, when an ad is displayed on AFTERSHIP, the IP address of the viewer may be shared with AFTERSHIP's advertising partners. We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction. Some of our affiliates may be located outside of your home country; by using AFTERSHIP's websites, you consent to the transfer of such information to them.
+Most web browsers are set to accept cookies by default. If you prefer, you can usually set your browser to remove or reject cookies, but note that doing so does not necessarily affect third party flash cookies used in conjunction with our Website. For more information about disabling flash cookies, see [www.adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security) . Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the Website and you may not be able to access or use some or all areas and functionalities of the Website.
 
-##### Business Transfers
+##### 3\. How We Use Your Information
 
-If AFTERSHIP or substantially all of its assets were transferred or acquired (for example, in the case of a merger or acquisition) customer information would likely be one of the assets that is transferred or acquired by a third party.
+AfterShip uses your personal information and usage information to offer and provide our products and services and to support our core business functions. These include order or service fulfillment, customer service, internal business processes, marketing, including contests and sweepstakes, authentication, loss and fraud prevention, public safety and legal functions. Some examples include:
 
-##### Other Disclosures
+  * To fulfill your requests for products and services and communicate with you about said requests;
+  * To send you notifications concerning shipment information;
+  * To register your account on the Website; 
+  * To administer surveys, contests, sweepstakes and promotions;
+  * To provide customer service;
+  * To help us improve and customize the Website;
+  * To send you information about our products, services, promotions, contests and sweepstakes; and
+  * To protect the security or integrity of the Website and our business.
 
-AFTERSHIP may disclose potentially personally-identifying and personally-identifying information when AFTERSHIP believe in good faith that release is required by law, court order, or when AFTERSHIP believes in good faith that disclosure is reasonably necessary to protect the property or rights of AFTERSHIP, third parties or the public at large.
 
-##### Third Parties
 
-This policy does not apply to the practices of third parties that AFTERSHIP does not own or control, or to individuals that AFTERSHIP does not employ or manage. AFTERSHIP websites may permit you to link to other websites on the Internet, and other websites may contain links to the AFTERSHIP websites. These other websites are not under AFTERSHIP control. The privacy and security practices of websites linked to or from the AFTERSHIP website are not covered by this Privacy Policy, and AFTERSHIP is not responsible for the privacy or security practices or the content of such websites.
+To accomplish these purposes, we may combine personal and usage information we collect. We may transfer or disclose your personal and usage information, for these purposes, within AfterShip Group.
 
-##### Communications
+##### 4\. Advertising and Analytics Services
 
-If you are a registered member of a AFTERSHIP website and have supplied your email address, AFTERSHIP may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with AFTERSHIP and our products. We primarily use our website to communicate this type of information, so we expect to keep this type of email to a minimum. If you are a registered member of a AFTERSHIP website and do not wish to receive such emails, please follow the instructions included in each email sent. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users.
+We engage third parties to serve advertisements on our behalf across the Internet and to provide analytics services about the performance of those advertisements. These entities may use cookies, web beacons and other technologies to collect information about your use of our Website and other websites, such as your IP address, web browser, pages viewed, time spent on pages, date and time of each visitor request, referring site, browser type, language preference, links clicked and conversion information. The information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Website and other websites and better understand your online activity. We may also work with third parties to serve ads to you as part of a customized campaign on other websites or platforms.
 
-##### Conditions of Use
+In addition, many web browsers support Do Not Track technology. Our systems do not respond to Do Not Track signals.  Nonetheless, if you enable Do Not Track and it is recognized by our systems, AfterShip will not use information about your web viewing activities to tailor your online experience on the Website. Note, however, that our third party advertising providers may continue to use information about your web viewing activities to tailor advertising to your interests across different websites even when you have Do Not Track enabled in your browser. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
-If you decide to visit the AFTERSHIP website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+##### 5\. How We Disclose Your Information Outside AfterShip 
 
-##### Privacy Policy Changes
+AfterShip does not sell or rent your personal information to any third parties whatsoever. We only disclose your personal information with your prior consent or as provided in this Privacy Policy. We may disclose to third parties, certain non-personal usage information regarding the Website. However, in such cases, your usage information is aggregated with the usage data of others and does not identify you individually. AfterShip will normally send data to third parties through secure encrypted channels (HTTPS).
 
-AFTERSHIP may change its Privacy Policy from time to time, and in AFTERSHIP's sole discretion. AFTERSHIP encourages visitors to frequently check this page for any changes to its Privacy Policy. If changes are made, notice will be given in the AFTERSHIP blog at awesome-ship.com/journal. Your continued use of our sites and services after any change in this Privacy Policy will constitute your acceptance of such change.
+ **5.1. Service Providers**
 
-##### Effective Date of This Privacy Policy
+We may disclose or otherwise make available personal information about you to service providers that help with our business operations. Examples are shipping companies, payment companies, credit card processors and other payment service providers such as PayPal, financial institution partners, hosting and maintenance providers, data storage and management providers, marketing and promotional providers,service providers sending emails and sms notifications and generally, companies that help us improve our product and service offerings and our websites.
 
-This Privacy Policy is effective as of Nov 30, 2011.
+ **5.2. Legal Requirements and Protection of Our Company and Others  **
+
+We may disclose your information in other special circumstances. These include situations when the sharing is necessary to protect the safety, property, or other rights of AfterShip Group, our customers, our associates, or any other person, or where otherwise required by law. Examples include protecting the health or safety of customers, or addressing crimes committed on the Website. AfterShip may provide your personal information in response to a search warrant, subpoena or other legally valid inquiry or order, or as otherwise required by applicable law.
+
+ **5.3. Business Transfers**
+
+We may transfer any information we have about you in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of AfterShip Group or as part of a corporate reorganization or other change in corporate control.
+
+##### 6\. Your Choices
+
+We want to communicate with you in the ways that you want to hear from us. If you no longer want to receive marketing messages from us, you can either change your marketing preferences by changing  **[Your Account Marketing Preferences](https://web.archive.org/users/profile)**  or, by clicking on the appropriate link at the bottom of our marketing emails. Please allow sufficient time for your preferences to be processed.
+
+If you no longer want to receive delivery notifications from us, you can either change your delivery notification triggers by changing  **[Your Account Delivery Notifications](https://web.archive.org/settings/trigger)**  or by clicking on the appropriate link at the bottom of our delivery notification emails. Please allow sufficient time for your preferences to be processed.
+
+##### 7\. How to Access, Update and Remove Your Information
+
+AfterShip takes reasonable steps to keep your personal information accurate and complete. You can access, update and/or remove your personal information, including contact or account information, by accessing  **[Your Account](https://web.archive.org/users/profile)**  or by  **[sending us an email](mailto:support@aftership.com)**  . If your Information has been communicated to AfterShip by a third party, you can either contact said third party directly or click on the appropriate link at the bottom of the notifications in order to unsubscribe to the service. If your Information has been communicated to AfterShip by a third party, and you wish to remove said information, you may  **[send us an email](mailto:support@aftership.com)**.
+
+##### 8\. How We Secure Your Information
+
+Securing your information is important to AfterShip. We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us.  However, no data transmission over the Internet or other network can be guaranteed to be 100% secure.  As a result, while we strive to protect information transmitted on or through the Website, we cannot and do not guarantee the security of any information you transmit on or through the Website, and you do so at your own risk.
+
+AfterShip accounts require a username and password to log in. You must keep your username and password secure, and never disclose it to a third party. Because the information in your Distribution Lists is so sensitive, account passwords are encrypted, which means we can’t see your passwords. We can’t resend forgotten passwords either. We’ll only reset them.
+
+##### 9\. Online Protections 
+
+Your account information is protected by the password you use to access your online account. Please keep this password confidential.
+
+##### 10\. Privacy of Children Online
+
+We are committed to protecting children"s online privacy. In order to protect the privacy of children, AfterShip does not knowingly collect personal information from children under the age of 18 without prior parental consent. If we become aware that we have inadvertently received personal information from a child under the age of 18, we will delete such information from our records.
+
+##### 11\. LIMITATION OF LIABILITY
+
+EXCEPT WHERE PROHIBITED BY LAW, UNDER NO CIRCUMSTANCES SHALL AFTERSHIP BE LIABLE FOR DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES (EVEN IF AFTERSHIP HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM ANY ASPECT OF AFTERSHIP USE OF THE PERSONAL INFORMATION OF ANY THIRD PARTY PROVIDED BY YOU AND/OR YOUR COMPANY. THESE LIMITATIONS SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW. In some jurisdictions, some of the foregoing limitations may not apply.
+
+##### 12\. Links To Other Websites
+
+Our Website may contain links to other websites.  A link to a third party"s website does not mean that we endorse it or that we are affiliated with it.  We do not exercise control over third-party websites.  You access such third-party websites or content at your own risk.  You should always read the privacy policy of a third-party website before providing any information to the website.
+
+##### 13\. International
+
+As a global company, AfterShip may process, store and transfer Personal information in the United States or in any other country in which any company of the AfterShip Group is incorporated. AfterShip requires that all companies of AfterShip Group protect your personal information, regardless of where it is stored, in accordance with applicable laws.
+
+##### 14\. Changes to this Privacy Policy
+
+AfterShip may change the Privacy Policy from time to time. We will inform you by posting the revised Privacy Policy on the Website.  Please check our Privacy Policy periodically for changes. We will post the date the Privacy Policy was last updated at the top of the Privacy Policy. The changes will go into effect on the "Last Updated" date shown in the revised Privacy Policy.  By continuing to use the Website, you consent to the revised Privacy Policy.
+
+##### 15\. Contact Us
+
+If you have any questions about this Privacy Policy, please [contact us](mailto:support@aftership.com).
+
+ **IMPORTANT NOTICE: PLEASE READ CAREFULLY BEFORE USING THIS WEBSITE:** This Website uses cookies to store information on your computer. This policy explains how we use cookies and may be amended, from time to time, without notice. To ensure that you are using this Website with full and up-to-date information of how we use cookies please review this policy regularly as any amended policy will be updated on the site. By using this Website you agree to the placement of cookies on your computer and/or mobile device(s) in accordance with the terms of this policy. If you do not wish to accept cookies from this Website please either disable cookies or refrain from using this Website.
+
+##### 1\. What are Cookies?
+
+A cookie is a text-only string of information that this Website transfers to the cookie file of the browser on your computer"s hard disk so that this Website can recognise you when you revisit and remember certain information about you. This can include which pages you have visited, choices you have made from menus, any specific information you have entered into forms and the time and date of your visit.
+
+##### 2\. Types of Cookies
+
+There are two main types of cookies:
+
+  * Session cookies: these are temporary cookies that expire at the end of a browser session; that is, when you leave the site. Session cookies allow this Website to recognise you as you navigate between pages during a single browser session and allow you to use this Website most efficiently. For example, session cookies enable a website to remember that a user has placed items in an online shopping basket.
+  * Persistent cookies: in contrast to session cookies, persistent cookies are stored on your equipment between browsing sessions until expiry or deletion. They therefore enable this Website to "recognise" you on your return remember your preferences and tailor services to you.
+
+
+
+In addition to session cookies and persistent cookies, there may be other cookies which are set by this Website which you have chosen to visit, such as this Website, in order to provide us or third parties with information.
+
+##### 3\. Our use of Cookies
+
+We currently use, and may use in the future, the following types of cookies on this Website.
+
+We use session cookies to:
+
+  * help us maintain security and verify your details whilst you use this Website as you navigate from page to page, which enables you to avoid having to re-enter your details each time you enter a new page.
+
+
+
+We use persistent cookies to:
+
+  * help us recognise you as a unique user when you return to our Website so that you do not have to input your details multiple times as you move between our pages or services
+  * remember how you have customised your use of this Website, such as your preferred currency and time zone
+  * collect and compile anonymous, aggregated information for statistical and evaluation purposes to help us understand how users use this Website and help us improve the structure of our Website.
+
+
+
+Many cookies are designed to give you optimal usage of the web. For example, we use cookies to enable you to improve your user experience when using our Website, e.g. a cookie which recognises if your browser supports specific technology features. This helps, for example, in enabling web pages to be loaded more quickly when you request the download of a large file.
+
+In addition to cookies which send information to us, we also use cookies which collect information and send it to third parties. An example of this is Google Analytics. Please check the relevant third party website for more information about their use of cookies. Where this Website allows such cookies to be set or you access other websites from this Website using the links provided, the operators of these websites will use cookies in accordance with their own cookies policy, which may differ from ours.
+
+As with third party cookies, you are able to block third party cookies through your browser settings.
+
+Some of our cookies may collect and store your personal information, such as your name or email address. We are committed to respecting and protecting your privacy and will ensure that all personal information collected by us is kept and treated in accordance with our privacy policy. A link to this policy is available within the footer of this portal or alternatively at our Website.
+
+##### 4\. Refusing Cookies on this Website
+
+Most browsers are initially set to accept cookies. However, you have the ability to disable cookies if you wish, generally through changing your internet software browsing settings. It may also be possible to configure your browser settings to enable acceptance of specific cookies or to notify you each time a new cookie is about to be stored on your computer enabling you to decide whether to accept or reject the cookie. To manage your use of cookies there are various resources available to you, for example the "Help" section on your browser may assist you. You can also disable or delete the stored data used by technology similar to cookies, such as Local Shared Objects or Flash cookies, by managing your browser’s "add-on settings" or visiting this Website of its manufacturer. As our cookies allow you to access some of our Website’s essential features we recommend that you leave cookies enabled, otherwise, if cookies are disabled, it may mean that you experience reduced functionality or will be prevented from using this Website altogether.
