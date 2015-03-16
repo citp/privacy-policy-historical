@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the fans2cash.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921071741id_/http%3A//www.fans2cash.com/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fans2cash.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316181006id_/https%3A//www.fans2.cash/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### [Home](https://web.archive.org/web/20140921071741id_/http%3A//www.fans2cash.com/index.php?pg=home "Home") » Privacy Policy
+#### [Home](https://web.archive.org/web/20150316181006id_/https%3A//www.fans2.cash/index.php?pg=home "Home") » Privacy Policy
 
 This web site is owned and managed by WLK Holdings Pty Ltd.
 
 To reach us via e-mail, you can email support@fans2cash.com
 
-This privacy policy sets out how fans2cash.com uses and protects any information that you fans2cash.com when you use this website.
+This privacy policy sets out how fans2.cash uses and protects any information that you fans2.cash when you use this website.
 
-fans2cash.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+fans2.cash is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-By using fans2cash.com , you signify your agreement to our privacy policy as stated above. Note that this policy may be revised periodically without notice. Please re-read this policy prior to submitting any personal information if you have concerns about how your information is being collected and used. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Sunday 7th July 2013.
+By using fans2.cash , you signify your agreement to our privacy policy as stated above. Note that this policy may be revised periodically without notice. Please re-read this policy prior to submitting any personal information if you have concerns about how your information is being collected and used. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Sunday 7th July 2013.
 
 What we collect
 
@@ -57,7 +57,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 Controlling your personal information
 
-Personal information collected may be transferred and shared in the event of a sale of fans2cash.com
+Personal information collected may be transferred and shared in the event of a sale of fans2.cash
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
@@ -72,25 +72,25 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@fans2cash.com.
 
-At fans2cash.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by fans2cash.com and how it is used.
+At fans2.cash, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by fans2.cash and how it is used.
 
 Log Files  
-Like many other Web sites, fans2cash.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, fans2.cash makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 Cookies and Web Beacons  
-fans2cash.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+fans2.cash does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 DoubleClick DART Cookie  
-.:: Google, as a third party vendor, uses cookies to serve ads on fans2cash.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to fans2cash.com and other sites on the Internet.  
+.:: Google, as a third party vendor, uses cookies to serve ads on fans2.cash.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to fans2.cash and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include  
 Google Adsense  
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on fans2cash.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on fans2.cash send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-fans2cash.com has no access to or control over these cookies that are used by third-party advertisers.
+fans2.cash has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. fans2cash.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. fans2.cash privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
