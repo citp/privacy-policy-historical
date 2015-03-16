@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipsw.me privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001000145id_/http%3A//ipsw.me/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipsw.me privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316145832id_/https%3A//ipsw.me/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy / IPSW Downloads
 
@@ -53,7 +53,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Just a Penguin](http://www.icj.me/)  
-<http://www.ipsw.me/>  
+<http://www.icj.me/>  
 cj@icj.me
 
 This document was last updated on January 09, 2014
