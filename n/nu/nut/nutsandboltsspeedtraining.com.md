@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nutsandboltsspeedtraining.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124231342id_/http%3A//nutsandboltsspeedtraining.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutsandboltsspeedtraining.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317000738id_/https%3A//nutsandboltsspeedtraining.com/privacy-policy) for the most accurate reproduction.*
 
-# Nuts & Bolts Speed Training | Privacy Policy
+# Nuts & Bolts Speed Training for PowerPoint | Privacy Policy
 
 NUTS & BOLTS SPEED TRAINING PRIVACY POLICY IS IN LINE WITH OUR ETHICAL AND CORPORATE VALUES. WE WILL NEVER SELL YOUR PERSONAL INFORMATION TO ANY THIRD-PARTIES AND ANY PERSONAL INFORMATION COLLECTED THROUGH THIS SITE IS SOLELY FOR USE WITHIN NUTS & BOLTS SPEED TRAINING.
 
