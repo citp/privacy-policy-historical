@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the themezilla.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627205353id_/http%3A//www.themezilla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themezilla.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316213036id_/http%3A//www.themezilla.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ThemeZilla
+# Privacy Policy - ThemeZilla.com
 
 ## Privacy Policy
 
-At ThemeZilla, we collect and manage user data according to the following Privacy Policy. This document is part of ThemeZilla’s [Terms of Use](https://web.archive.org/terms), and by using ThemeZilla.com (the “Website”), you agree to the terms of this Privacy Policy and the Terms of Use. Please read the Terms of Use in their entirety, and refer to those for definitions and contacts.
+At **ThemeZilla** , we collect and manage user data according to the following Privacy Policy. This document is part of ThemeZilla’s [Terms of Use](https://web.archive.org/terms), and by using **ThemeZilla.com** (the “Website”), you agree to the terms of this Privacy Policy and the Terms of Use. Please read the Terms of Use in their entirety, and refer to those for definitions and contacts.
 
 ## Data Collected
 
@@ -14,7 +14,7 @@ We ask you to log in and provide certain personal information (such as your name
 
 You are able to view, change and remove your data associated with your account. Should you choose to delete your account, we will automatically delete all data.
 
-Minors and children should not use ThemeZilla. By using the Website, you represent that you have the legal capacity to enter into a binding agreement.
+Minors and children should not use **ThemeZilla**. By using the Website, you represent that you have the legal capacity to enter into a binding agreement.
 
 ## Cookies
 
@@ -28,7 +28,7 @@ We will use the session cookies to: keep track of you whilst you navigate the we
 
 ## Use of the Data
 
-We only use your personal information to provide you the ThemeZilla services or to communicate with you about the services or the Website.
+We only use your personal information to provide you the **ThemeZilla services** or to communicate with you about the services or the Website.
 
 We may use your personal information to:
 
