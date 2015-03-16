@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the songkick.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228221614id_/http%3A//www.songkick.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songkick.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316010327id_/http%3A//www.songkick.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Songkick
+
+_For the purpose of the Data Protection Act 1998 (the Act), the data controller is Songkick.com Limited (company registration number 06265278) of 12-18 Hoxton Street, Third floor, London N1 6NG._
 
 _TO OUR COMMUNITY: If this sort of thing interests you, we would like your feedback on this Privacy Policy and our Terms of Service. Feel free to email us directly ([support@songkick.com](mailto:support@songkick.com)) with any questions, criticisms, and suggestions._
 
@@ -66,7 +68,7 @@ As part of the Service, you will receive from Songkick email and other communica
 
 ### v. Promotional offers
 
-We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. All email controls that allow you to choose whether or not to receive these offers can be found in the Account Settings section of the Website.
+We may send offers to you on behalf of other businesses or artists. However, except as specified herein, when we do so, we do not give the other party your name and address. All email controls that allow you to choose whether or not to receive these offers can be found in the Account Settings section of the Website.
 
 ### vi. Business transfers
 
@@ -78,7 +80,9 @@ We may release Personal Information when we believe in good faith that release i
 
 ### viii. Purchasing tickets from Songkick Tickets
 
-When you purchase tickets from tickets.songkick.com you agree that your email may be shared with the artist and event promoter to contact you. This is typically so they can include you in their newsletter of upcoming concert or release announces.
+When you purchase tickets from tickets.songkick.com you agree that your email and name may be shared with the artist and event promoter to contact you. This is typically so they can grant you admission to the event, and include you in their newsletter of upcoming concert or release announces.
+
+In many cases, Songkick will operate fan clubs for artists on the Service and will grant members of such club access to special fan club tickets and/or merchandise. You may not purchase such fan club tickets or merchandise without joining such the applicable artist’s fan club. Please note that as part of the enrollment process for an artist fan club and to purchase any special fan club tickets or merchandise, you may have to provide some additional information about yourself, some of which may be Personal Information, and we may share some of this information with the artist whose fan club you are joining so that such artist can send you special updates, information and promotions directly. By purchasing special fan club tickets or merchandise (which will be clearly labelled as fan club exclusives), you agree that your email, the location of the event you have purchased tickets for, and other information, including possibly Personal Information, may be shared with the artist.
 
 ### ix. With your consent
 
@@ -128,4 +132,4 @@ Songkick may amend this Privacy Policy from time to time. Use of information we 
 If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [privacy@songkick.com](mailto:privacy@songkick.com). We will make every effort to resolve your concerns.
 
 Effective Date: May 27 2009  
-Last modified at: October 23 2014
+Last modified at: February 28 2015
