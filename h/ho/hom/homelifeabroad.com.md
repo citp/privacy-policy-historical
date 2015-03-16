@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homelifeabroad.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702032250id_/http%3A//www.homelifeabroad.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homelifeabroad.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316201951id_/http%3A//www.homelifeabroad.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy | Home Life Abroad
 
