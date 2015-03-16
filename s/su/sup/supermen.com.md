@@ -1,35 +1,50 @@
-> *The following text is extracted and transformed from the supermen.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523130833id_/http%3A//supermen.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermen.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316041219id_/http%3A//www.supermen.com/privacy-policy) for the most accurate reproduction.*
 
-# terms and conditions
+# Chat With Hot Studs Live On SuperMen.com Privacy Policy
 
-Keeping you privacy is very important to us.
+We know that protecting your privacy is very important to you.
 
-This Privacy Policy is to ensure that your privacy is protected while using our Site.
+In the site registration process we request information including your e-mail address.
 
-Please make sure to read the Site's Terms & Conditions as well.
+When you visit the site, we may (like many other websites) also collect your IP address and other information transmitted by your browser including among other things the type of browser and operating system your computer uses, and the domain name of the website from which you linked to the site. We will also insert a short piece of computer code within your computer and record certain characteristics of the computer and in this manner our site will recognize your computer when you visit the site.
 
-What Information Do We Collect?
+We also retain copies of statements published on the site and correspondence sent to us.
 
-* When you chose to make a payment, we ask you to provide us with certain information such as your name, age, address and email address. and only the first and last 4 figures of your credit card.
-* When you chose to make a payment, we do NOT collect your full credit card number, CVV2 and expiration date. This information is ONLY collected by our third party credit card processor, which is Ibill. The only information we collect on your credit card is the 4 first and four last figures of your credit card number.
-* We also collect your computer's IP address.
-* Finally, we collect and keep your login and password (the information you need to use the site) as well as any publications you post on the site for others to view. For example: if you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file which is only accessed by authorized personnel. We may also collect other users' comments about you in our complaints department.
+**Cookies**
 
-You should know that none of the personally identifiable information can be accessed or used by the public to identify you as a specific individual. How Do We Use Your Information? 
+The site may track a user’s activity by issuing Cookies when entering the site. Cookies are small pieces of data or parts of a file that a server downloads to your personal computer or mobile when you visit a website. These files are stored by your web browser onto your hard drive. Cookies may anonymously record information such as your identification code, customized preferences, or a record of pages visited in order to simplify subsequent interactions with that website by you on the website and related web pages.
 
-* We may internally use the personally identifiable information collected on our users to improve our marketing, to improve our content and products and to customize our site to our users. This allows us to improve our site and meet your needs. 
-* We may also use personally identifiable information about you to deliver information to you that, in some cases, are targeted to your interests, such as targeted banners and promotions.
-* We also send periodic informational updates and promos to our consenting users via email.
-Our departments (for example our Customer Service Department) may use personally identifiable information to answer your questions, troubleshoot problems and enforce our Terms & Conditions.
+To streamline navigation on our site we use both Session ID cookies and Persistent cookies. Session ID cookies only last for the duration of your visit to our website and expire when you close your browser while persistent cookies may remain on your hard drive for an extended period of time.
 
-When Do We Disclose Your Information?  
-We may disclose your information to affiliated sites. Obviously, in case we are required by law enforcement agencies and or in case we are required to enforce intellectual property or other rights, we may disclose your information.
+Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer's preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. In order to enjoy full functionality our site and its features we highly recommend that you enable cookies in your browser. If you disable cookies you may still be able to use certain site features but your experience may be severely limited.
 
-Third Party Collections of Information:  
-Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. 
+How may we use the information held by us? 
 
-How Can You Update Or Delete Your Information?  
-You have the following choices to update or delete your information from our database: You can send our Customer Service Department an email at info@Superman.com or you may log in with your password and update or delete your profile. Please note that the information is not deleted from the Company's database but will be saved under a deleted status and will not be presented.
+  * We may use this information to improve our marketing and products/services including customizing our site to your needs and interests.
+  * We may also use information about you to deliver information to you that, in some cases, is targeted to your interests whether on the site or via e-mail.
+  * We may use this information to answer your questions, troubleshoot problems and enforce our Terms & Conditions.
+  * We will use your e-mail address to contact you unless you have chosen not to be contacted by e-mail.
 
-Questions?  
-If you have any questions about this Privacy Policy, you can contact us at: info@Superman.com 
+
+
+When may we disclose your information?
+
+We may disclose your information to our affiliated companies and sites and to our service providers who are authorized to use the information only for purposes of providing services to you and us and our affiliated companies.
+
+Information may be presented to third parties in statistical form but this shall not be personally identifiable.
+
+Our business and the internet world in general is very dynamic and we may arrive at a situation in which we sell a part of our business or all of our business. In such a case we may transfer information collected by us to such third party.
+
+Obviously, in case we are required by law enforcement agencies and/or in case we find it necessary in order to enforce intellectual property or other rights, we may disclose your information.
+
+Third party collection of information.
+
+Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. For example, when making a payment by credit card our third party billers/IPSP's (and not supermen.com) collect your credit card information and other information necessary for processing/authorizing your credit card payments. These payment companies may also provide certain of your details to us - but this shall not include your credit card number.
+
+How can you update or delete the information held by us?
+
+You have the following choices to update your information from our database: You can send our Customer Service Department an request [here](https://web.archive.org/contactus) or you may log in with your password and update or delete your profile. Please note that the information is not deleted from the Company's database but will be saved under a deleted status and will not be presented.
+
+Questions?
+
+If you have any questions about this Privacy Policy, you can contact us [here](https://web.archive.org/contactus).
