@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerbalspaceprogram.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120013127id_/https%3A//www.kerbalspaceprogram.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerbalspaceprogram.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316060840id_/https%3A//kerbalspaceprogram.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Kerbal Space Program | Privacy Policy
 
