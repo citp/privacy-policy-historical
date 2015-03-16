@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701235214id_/https%3A//www.nph.org/ws/contact/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316212444id_/https%3A//www.nph.org/ws/contact/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
 # NPH International - Privacy Statement
 
@@ -8,28 +8,28 @@ NPH.org developed this Privacy Policy (the "Policy") as an extension of our comm
 
 **IF YOU DO NOT AGREE TO THE POLICY, YOU SHOULD NOT USE THIS INTERNET WEBSITE (THE "NPH SITE"). WE MAY MODIFY THE POLICY FROM TIME TO TIME AND POST THOSE MODIFICATIONS HERE. YOUR CONTINUED USE OF THE NPH SITE AFTER ANY SUCH MODIFICATION CONSTITUTES YOUR ACCEPTANCE OF THE MODIFIED AGREEMENT.**
 
-  1. [Children](http://www.nph.org/ws/contact/privacy.php#1)
-  2. [Information](http://www.nph.org/ws/contact/privacy.php#2)
-    1. [General Information](http://www.nph.org/ws/contact/privacy.php#2a)
-    2. [Personal Information](http://www.nph.org/ws/contact/privacy.php#2b)
-      1. [Sponsorship Information](http://www.nph.org/ws/contact/privacy.php#2bi)
-      2. [Third Party Information](http://www.nph.org/ws/contact/privacy.php#2bii)
-      3. [Credit Card Information](http://www.nph.org/ws/contact/privacy.php#2biii)
-      4. [Email Information](http://www.nph.org/ws/contact/privacy.php#2biv)
-    3. [Cookies](http://www.nph.org/ws/contact/privacy.php#2c)
-  3. [General Use and Disclosure of Information](http://www.nph.org/ws/contact/privacy.php#3)
-    1. [General Information](http://www.nph.org/ws/contact/privacy.php#3a)
-    2. [Personal Information](http://www.nph.org/ws/contact/privacy.php#3b)
-    3. [Cookie Information](http://www.nph.org/ws/contact/privacy.php#3c)
-  4. [Other Use and Disclosure of Personal Information](http://www.nph.org/ws/contact/privacy.php#4)
-    1. [Registration Information](http://www.nph.org/ws/contact/privacy.php#4a)
-    2. [Pre-Population Information](http://www.nph.org/ws/contact/privacy.php#4b)
-  5. [Security](http://www.nph.org/ws/contact/privacy.php#5)
-  6. [Merchant Services](http://www.nph.org/ws/contact/privacy.php#6)
-  7. [Community](http://www.nph.org/ws/contact/privacy.php#7)
-  8. [Terminating Your Sponsorship](http://www.nph.org/ws/contact/privacy.php#8)
-  9. [Corrections/Updates](http://www.nph.org/ws/contact/privacy.php#9)
-  10. [Contact Us](http://www.nph.org/ws/contact/privacy.php#10)
+  1. [Children](https://www.nph.org/ws/contact/privacy.php#1)
+  2. [Information](https://www.nph.org/ws/contact/privacy.php#2)
+    1. [General Information](https://www.nph.org/ws/contact/privacy.php#2a)
+    2. [Personal Information](https://www.nph.org/ws/contact/privacy.php#2b)
+      1. [Sponsorship Information](https://www.nph.org/ws/contact/privacy.php#2bi)
+      2. [Third Party Information](https://www.nph.org/ws/contact/privacy.php#2bii)
+      3. [Credit Card Information](https://www.nph.org/ws/contact/privacy.php#2biii)
+      4. [Email Information](https://www.nph.org/ws/contact/privacy.php#2biv)
+    3. [Cookies](https://www.nph.org/ws/contact/privacy.php#2c)
+  3. [General Use and Disclosure of Information](https://www.nph.org/ws/contact/privacy.php#3)
+    1. [General Information](https://www.nph.org/ws/contact/privacy.php#3a)
+    2. [Personal Information](https://www.nph.org/ws/contact/privacy.php#3b)
+    3. [Cookie Information](https://www.nph.org/ws/contact/privacy.php#3c)
+  4. [Other Use and Disclosure of Personal Information](https://www.nph.org/ws/contact/privacy.php#4)
+    1. [Registration Information](https://www.nph.org/ws/contact/privacy.php#4a)
+    2. [Pre-Population Information](https://www.nph.org/ws/contact/privacy.php#4b)
+  5. [Security](https://www.nph.org/ws/contact/privacy.php#5)
+  6. [Merchant Services](https://www.nph.org/ws/contact/privacy.php#6)
+  7. [Community](https://www.nph.org/ws/contact/privacy.php#7)
+  8. [Terminating Your Sponsorship](https://www.nph.org/ws/contact/privacy.php#8)
+  9. [Corrections/Updates](https://www.nph.org/ws/contact/privacy.php#9)
+  10. [Contact Us](https://www.nph.org/ws/contact/privacy.php#10)
 
 
 
@@ -117,7 +117,7 @@ To terminate your sponsorship, send a message to the fundraising office that han
 
   9. ### Corrections/Updates
 
-NPH.org gives you the opportunity to change and modify information previously provided to the NPH Site at [our contact page](http://www.nph.org/ws/contact/?lang=en).
+NPH.org gives you the opportunity to change and modify information previously provided to the NPH Site at [our contact page](https://www.nph.org/ws/contact/?lang=en).
 
   10. ### Contact Us
 
@@ -139,8 +139,8 @@ If you have any questions about this Privacy Policy or the NPH Site, you may con
 |  | 
 
   
-Best friends  
-(NPH El Salvador - 2010)
+Father Wasson surrounded by his pequeños  
+(NPH Mexico - 1981)
 
   
   
