@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the roots.io privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060844id_/http%3A//roots.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roots.io privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316121343id_/http%3A//roots.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Roots
 
-Roots operates several websites including [roots.io](http://roots.io/) and [rootstheme.com](http://rootstheme.com/). It is Roots' policy to respect your privacy regarding any information we may collect while operating our websites.
+Roots operates several websites including [roots.io](https://roots.io/). It is Roots' policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
@@ -40,6 +40,7 @@ Although most changes are likely to be minor, Roots may change its Privacy Polic
 
 **Change log:**
 
-  * _August 21, 2013:_ Initial version of privacy policy 
+  * _March 7, 2015:_ Remove reference to rootstheme.com
+  * _August 21, 2013:_ Initial version of privacy policy
 
 
