@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onehundredfreebooks.com privacy policy that was archived on 2014-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140321025133id_/http%3A//onehundredfreebooks.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehundredfreebooks.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316130101id_/http%3A//ohfb.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# OneHundredFreeBooks Privacy Policy
+# OHFB Privacy Policy
 
-OneHundredFreeBooks (“Company,” “we,” or “us”) provides access to information through our website accessible at the URL http://www.onehundredfreebooks.com (the “Site”) and we may provide the ability to use certain functionalities of the Site or provide services of various kinds (the “Services”). This privacy policy describes our information collection practices, as well as circumstances under which we disclose information collected from you. Our commitment to you is that we will not use or disclose information collected from you other than as described in this policy.
+The Toy Spy Media Group, LLC (“Company,” “we,” or “us”) provides access to information through our website accessible at the URL http://www.ohfb.com (the “Site”) and we may provide the ability to use certain functionalities of the Site or provide services of various kinds (the “Services”). This privacy policy describes our information collection practices, as well as circumstances under which we disclose information collected from you. Our commitment to you is that we will not use or disclose information collected from you other than as described in this policy.
 
 In order to access and use the Site and Services, you must agree to our Online Terms and Conditions (the “Terms and Conditions”) posted on the Site. Persons and organizations with permission to use the Service are considered “Registered Users.” You may view portions of the Site even if you are not an Registered User of the Service. This privacy policy applies to Company’s collection, use and disclosure of personal information from Registered Users of the Site, as well as from persons who merely visit the Site, and this policy forms an integral part of the Terms and Conditions. Company has adopted and implemented this privacy policy as part of our commitment to protecting your personal information from misuse.
 
@@ -50,21 +50,21 @@ The Site has security measures in place to protect against the loss, misuse and 
 
 Please be aware that, although we endeavor to provide security for information in our possession and control, no security system can prevent against all potential security breaches, and we bear no liability for uses or disclosures of Personal Information or Non-Personal Data arising in connection with the theft thereof. Likewise, Registered Users are responsible for safeguarding the confidentiality of passwords to any Services, and we bear no liability for access to, or use or disclosure of, Personal Information, if such access, use or disclosure arises in connection with the theft or disclosure (whether intentional or negligent) of a password.
 
-If you have any questions about our security measures, you can [contact us](mailto://bookmaster@onehundredfreebooks.com).
+If you have any questions about our security measures, you can [contact us](mailto://bookmaster@ohfb.com).
 
 DoubleClick DART COOKIE
 
-» Google, as a third party vendor, uses cookies to serve ads on onehundredfreebooks.com.  
-» Google’s use of the DART cookie enables it to serve ads to your users based on their visit to onehundredfreebooks.com and other sites on the Internet.  
+» Google, as a third party vendor, uses cookies to serve ads on ohfb.com.  
+» Google’s use of the DART cookie enables it to serve ads to your users based on their visit to ohfb.com and other sites on the Internet.  
 » Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. 
 
-Third-party ad servers or ad networks use technology to the advertisements and links that appear on onehundredfreebooks.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party advertising networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
+Third-party ad servers or ad networks use technology to the advertisements and links that appear on ohfb.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party advertising networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
-onehundredfreebooks.com has no access to or control over these cookies that are used by third-party advertisers.
+ohfb.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. onehundredfreebooks.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. ohfb.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
@@ -74,4 +74,4 @@ If we change our privacy policy, we will post those changes on the Site so that 
 
 CONTACTING COMPANY
 
-If you have any questions about this privacy policy, or feel that we are not abiding by our posted privacy policy, please [contact us](mailto://bookmaster@onehundredfreebooks.com).
+If you have any questions about this privacy policy, or feel that we are not abiding by our posted privacy policy, please [contact us](mailto://bookmaster@ohfb.com).
