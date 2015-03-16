@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videohive.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231171807id_/http%3A//videohive.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videohive.net privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317002024id_/http%3A//videohive.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | VideoHive
 
