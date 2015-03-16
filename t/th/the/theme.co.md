@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theme.co privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626122012id_/http%3A//theme.co/x/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theme.co privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316112014id_/http%3A//theme.co/x/privacy) for the most accurate reproduction.*
 
-# Privacy | X WordPress Theme
+# Privacy
 
 ## Last Updated: October 18, 2013
 
