@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the autodata-group.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020163606id_/http%3A//autodata-group.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodata-group.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316165541id_/http%3A//www.autodata-group.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Autodata Group
 
-Autodata Limited ("We") are committed to protecting and respecting your privacy. This policy (together with our [Terms of Use](https://web.archive.org/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Autodata Limited ("We") are committed to protecting and respecting your privacy. This policy (together with our [Terms of Use](https://web.archive.org/web/20150316165541id_/http%3A//www.autodata-group.com/terms.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
@@ -10,7 +10,7 @@ INFORMATION WE MAY COLLECT FROM YOU
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our website [www.autodata-group.com](http://www.autodata-group.com/) (“our site”). This includes information provided at the time of registering to use our site, purchasing products, subscribing to any services, or requesting further services. We may also ask you for information when you report a problem with our site. If you contact us, we may keep a record of that correspondence.
+  * Information that you provide by filling in forms on our website [www.autodata-group.com](https://web.archive.org/web/20150316165541id_/http%3A//www.autodata-group.com/index.html) (“our site”). This includes information provided at the time of registering to use our site, purchasing products, subscribing to any services, or requesting further services. We may also ask you for information when you report a problem with our site. If you contact us, we may keep a record of that correspondence.
   * Details of transactions you carry out through our site and of the fulfilment of your orders.
   * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
