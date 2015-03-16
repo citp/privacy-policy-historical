@@ -1,155 +1,263 @@
-<!--The following is the downloaded HTML source of the thedailylife.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626024040id_/http%3A//www.thedailylife.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thedailylife.com privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316192227id_/http%3A//www.thedailylife.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
-	<meta charset="UTF-8">
-	<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1, maximum-scale=1" /> -->
-<meta name="viewport" content="user-scalable=no, initial-scale = 1.0,maximum-scale = 0.8,width=device-width">
-	
-	<!--[if lt IE 9]>
-<script src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/js/html5shiv.js"></script>
-<![endif]-->
-	
-	<title>Privacy Policy | TheDailyLife.com</title>
-	<link rel="profile" href="http://gmpg.org/xfn/11"> 
-    <link rel="stylesheet" type="text/css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/css/mobile.css" media="screen and (max-width: 480px)">	
-    <script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.6.1.min.js"></script>   
-   	<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/js/jquery.cycle.all.js"></script> 	
-    <script type="text/javascript">
-    	
-	    function onAfter() { 
-		    $('.caption h1 a').text(this.id);
-		    $('.caption h1 a').attr("href",this.title);
-		    
-		}
-		function onBefore() { 
-		    $('.caption h1 a').text(this.id);
-		    $('.caption h1 a').attr("href",this.title);
-		    
-		}
+		<meta charset="UTF-8">
+		<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1, maximum-scale=1" /> -->
+		<meta name="viewport" content="user-scalable=no, initial-scale = 1.0,maximum-scale = 0.8,width=device-width">
+		
+		<!--[if lt IE 9]>
+	<script src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/js/html5shiv.js"></script>
+	<![endif]-->
 
-        $(window).load(function() {
-			var width = $(window).width();
-			if ((width <= 767) ) {
+	<title>Privacy Policy - TheDailyLife.com</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11"> 
+	<link rel="stylesheet" type="text/css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/css/mobile.css" media="screen and (max-width: 480px)">
+	<link href="http://fonts.googleapis.com/css?family=PT+Sans:700italic" rel="stylesheet" type="text/css">
+
+	<script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.6.1.min.js"></script>   
+	<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/js/jquery.cycle.all.js"></script> 	
+	<script type="text/javascript">
+
+	// open new tab _blank
+	$("#wpcf7-f828-p825-o1 .wpcf7-submit").click(function() {
+	//	alert("si")
+	window.open($('#redirect').val()+$('.wpcf7-email').val(),'_blank');
+})
+	// functions caption slider
+
+	function onAfter() { 
+		$('.caption h1 a').text(this.id);
+		$('.caption h1 a').attr("href",this.title);
+
+	}
+	function onBefore() { 
+		$('.caption h1 a').text(this.id);
+		$('.caption h1 a').attr("href",this.title);
+
+	}
+	function IsEmail(email) {
+		var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+		if(!regex.test(email)) {
+			return false;
+		}else{
+			return true;
+		}
+	}
+
+
+
+	$(window).load(function() {
+		
+
+
+		 
+
+	// add no follow links pages on footer except sitemap
+	$('footer .widget_pages a').attr('rel', 'nofollow')
+	$('footer .widget_pages a:contains("Sitemap")').removeAttr('rel')
+
+	$(".closePop").click(function() {
+		$('#light_box').hide();
+	})
+
+
+		// soft exit pop
+		var i = 0;
+
+		$('#top').mouseenter(function(){
+			if(i>=1){
+				$('#light_box').show();
+			}
+		});
+
+
+		$('#bot').mouseenter(function(){
+			i++
+		});
+
+		$(document).keyup(function(e) {
+		  if (e.keyCode == 27) { $('#light_box').hide(); }   // esc
+		});
+		//banner resposive
+		var width = $(window).width();
+		if ((width <= 767) ) {
 			$(window).scroll(function () {
 
-			    if ($(window).scrollTop() + $(window).height() > $('.anchor').offset().top && $(window).scrollTop() + $(window).height() < $('.anchor2').offset().top ) {
-			       // alert("footer visible");
-			        $(".banner").fadeIn();
-			    } else {
-			      //  alert("footer invisible");
-			        $(".banner").fadeOut();
-			    }
+				if ($(window).scrollTop() + $(window).height() > $('.anchor').offset().top && $(window).scrollTop() + $(window).height() < $('.anchor2').offset().top ) {
+					$(".banner").fadeIn();
+				} else {
+					$(".banner").fadeOut();
+				}
 			});
-			} else {
+		} else {
 
+		}
+		//links manipulated
+		var linkCTA1 = $(".cta1 .learnmore").attr("href")	
+		var linkCTA2 = $(".cta2 .learnmore").attr("href")	
+		$(".step1").attr("href",linkCTA1)
+		$(".step2").attr("href",linkCTA2)
+		$(".how1").attr("href",linkCTA1)
+		$(".how2").attr("href",linkCTA1)
+
+
+
+		//google search
+		$(".searchToggle").toggle(
+			function () {
+				$("#cse").fadeIn()
+				$(".searchToggle").css("background-image","url('http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/images/close.png')")
+				$(".searchToggle").css("background-position","5px 5px")		  
+				$(".searchTop").css("z-index","3")
+
+			},
+			function () {
+				$("#cse").fadeOut()
+				$(".searchToggle").css("background-image","url('http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/images/zoom.png')")
+				$(".searchToggle").css("background-position","center center")
+				$(".searchTop").css("z-index","1")
 			}
-			     
-			var linkCTA1 = $(".cta1 .learnmore").attr("href")	
-			var linkCTA2 = $(".cta2 .learnmore").attr("href")	
-			$(".step1").attr("href",linkCTA1)
-			$(".step2").attr("href",linkCTA2)
-			$(".how1").attr("href",linkCTA1)
-			$(".how2").attr("href",linkCTA1)
+			);
+
+		//slider
+		$('.slider_container').cycle({ 
+			fx:     'fade', 
+			timeout: 5000,
+			after:   onAfter,
+			before:  onBefore, 
+			prev: ".prev",
+			next: ".next",
+			pager: ".paginate"
+
+		});
+		// titles manipulated
+		var title = $(".slider_container div:first").attr("id")
+		$('.caption h1 a').text(title);	
+
+		var link = $(".slider_container div:first").attr("title")
+		$('.caption h1 a').attr("href",link);	
 
 
 
+		$(".moreArticles:odd").css("border", "none");
+		$(".category .cat:first img").css("display", "block");
+		$(".category .cat:first").css("border-top", "none");
 
-		  $(".searchToggle").toggle(
-		      function () {
-		        $("#cse").fadeIn()
-		        $(".searchToggle").css("background-image","url('http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/images/close.png')")
-		         $(".searchToggle").css("background-position","5px 5px")		  
-		        $(".searchTop").css("z-index","3")
+		$("#feacpost_featuredcategorypostswidget-2 .cat:first").css("border-top", "none");
+		$("#feacpost_featuredcategorypostswidget-3 .cat:first").css("border-top", "none");
+		$("#feacpost_featuredcategorypostswidget-4 .cat:first").css("border-top", "none");
 
-		      },
-		      function () {
-		        $("#cse").fadeOut()
-		        $(".searchToggle").css("background-image","url('http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/images/zoom.png')")
-		        $(".searchToggle").css("background-position","center center")
-		        $(".searchTop").css("z-index","1")
-		      }
-		    );
-        	
-        	
-	        $('.slider_container').cycle({ 
-			    fx:     'fade', 
-			    timeout: 5000,
-			    after:   onAfter,
-			    before:  onBefore, 
-			    prev: ".prev",
-			    next: ".next",
-			    pager: ".paginate"
-			    
-			 });
-			 
-			 var title = $(".slider_container div:first").attr("id")
-			 $('.caption h1 a').text(title);	
-			 
-			 var link = $(".slider_container div:first").attr("title")
-			 $('.caption h1 a').attr("href",link);	
-			 	 
-			 
 
-			$(".moreArticles:odd").css("border", "none");
-            $(".category .cat:first img").css("display", "block");
-            $(".category .cat:first").css("border-top", "none");
-		
-            $("#feacpost_featuredcategorypostswidget-2 .cat:first").css("border-top", "none");
-            $("#feacpost_featuredcategorypostswidget-3 .cat:first").css("border-top", "none");
-            $("#feacpost_featuredcategorypostswidget-4 .cat:first").css("border-top", "none");
-		
-		
-            $("#feacpost_featuredcategorypostswidget-4 .cat:first img").css("display", "block");
-            $("#feacpost_featuredcategorypostswidget-3 .cat:first img").css("display", "block");
-            $("#feacpost_featuredcategorypostswidget-2 .cat:first img").css("display", "block");
-		
-		
-            $(".category aside .cat:first").css("height", "140px")
-            $("#feacpost_featuredcategorypostswidget-4 .cat:first").css("height", "140px");
-            $("#feacpost_featuredcategorypostswidget-3 .cat:first").css("height", "140px");
-            $("#feacpost_featuredcategorypostswidget-2 .cat:first").css("height", "140px");
-            
-            
-            $(".category aside .cat:first ").css("margin-bottom", "20px");
-            $("#feacpost_featuredcategorypostswidget-4 .cat:first ").css("margin-bottom", "20px");
-            $("#feacpost_featuredcategorypostswidget-3 .cat:first ").css("margin-bottom", "20px");
-            $("#feacpost_featuredcategorypostswidget-2 .cat:first ").css("margin-bottom", "20px");
-              
-            
-            $("#feacpost_featuredcategorypostswidget-4 aside div:eq(1) ").hide();
-            $(".categoryHome aside div:eq(1) ").hide();
-            $("#feacpost_featuredcategorypostswidget-4 div:eq(1) ").hide();
-            $("#feacpost_featuredcategorypostswidget-3 div:eq(1) ").hide();
-            $("#feacpost_featuredcategorypostswidget-2 div:eq(1) ").hide();
-            $("#feacpost_featuredcategorypostswidget-6 div:eq(1) ").hide();
+		$("#feacpost_featuredcategorypostswidget-4 .cat:first img").css("display", "block");
+		$("#feacpost_featuredcategorypostswidget-3 .cat:first img").css("display", "block");
+		$("#feacpost_featuredcategorypostswidget-2 .cat:first img").css("display", "block");
 
-		 });
-    </script>
+
+		$(".category aside .cat:first").css("height", "140px")
+		$("#feacpost_featuredcategorypostswidget-4 .cat:first").css("height", "140px");
+		$("#feacpost_featuredcategorypostswidget-3 .cat:first").css("height", "140px");
+		$("#feacpost_featuredcategorypostswidget-2 .cat:first").css("height", "140px");
+
+
+		$(".category aside .cat:first ").css("margin-bottom", "20px");
+		$("#feacpost_featuredcategorypostswidget-4 .cat:first ").css("margin-bottom", "20px");
+		$("#feacpost_featuredcategorypostswidget-3 .cat:first ").css("margin-bottom", "20px");
+		$("#feacpost_featuredcategorypostswidget-2 .cat:first ").css("margin-bottom", "20px");
+
+
+		$("#feacpost_featuredcategorypostswidget-4 aside div:eq(1) ").hide();
+		$(".categoryHome aside div:eq(1) ").hide();
+		$("#feacpost_featuredcategorypostswidget-4 div:eq(1) ").hide();
+		$("#feacpost_featuredcategorypostswidget-3 div:eq(1) ").hide();
+		$("#feacpost_featuredcategorypostswidget-2 div:eq(1) ").hide();
+		$("#feacpost_featuredcategorypostswidget-6 div:eq(1) ").hide();
+
+        //layoutstripped
+
+        // email submit
+
+
+           
+});
+</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">stLight.options({publisher: "69b9f490-70d1-428e-9da7-9d8806d05ad8", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-	<style type="text/css">
-
-@media screen and (max-width: 767px) {
-	 .single .popular_topics
-	 /*, .popular_topics, .categories */
-	 {
-	display: block !important;
-	text-align: center;
-	
+<style type="text/css">
+	.form2,
+	.disclaimer_container {
+		margin: 20px 0 0 0;
+		float: left;
+		
 	}
-}
-	.popular_topics a {
-				background: url("http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/images/bullets.png") no-repeat scroll 0 -25px #FFF;
-		border-bottom: 1px solid #E6E6E6;
-		color: #0F3C58;
-		display: block;
-		font-size: 13px;
-		margin: 0 0 20px;
-		padding: 0 0 12px 15px !important; 
-		text-decoration: none;
-		text-transform: inherit;
-		line-height: 17px;
+	#ns_widget_mailchimp_form-2 label {
+		display: none;
+		
+	}
+
+	.page-template-page-templatesfront-page-php  #ns_widget_mailchimp_form-2 .button,
+	{
+		background: none repeat scroll 0 0 #0F3C59;
+		border: medium none;
+		border-radius: 4px 4px 4px 4px;
+		color: #FFFFFF;
+		cursor: pointer;
+		font-family: arial;
+		font-size: 14px;
+		font-weight: bold;
+		padding: 5px 0;
+		text-align: center;
+		text-transform: uppercase;
+		width: 156px;
+		margin: 0 !important;
+	}
+	.page-template-page-templatesfront-page-php  #ns_widget_mailchimp-email-2,
+	.category  #ns_widget_mailchimp-email-2
+	{
+		border: 1px solid #CCCCCC;
+		font-size: 14px;
+		font-style: italic;
+		margin: 0 0 12px;
+		padding: 8px;
+		width: 137px;
+	}
+	
+
+
+		@media screen and (max-width: 767px) {
+			#ecapWidgetForm_submit {
+				float:left;
+				width: 100%;
+				margin: 10px 0 0 0;
+			}
+
+			.single .popular_topics
+			/*, .popular_topics, .categories */
+			{
+				display: block !important;
+				text-align: center;
+
+			}
+			#ecapWidget_email {
+				float: left;
+				padding: 9px;
+				width: 94% !important;
+				height: 8px;
+				margin: 2px 4px 0 0px;
+			}
+		}
+
+		.popular_topics a {
+			background: url("http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/images/bullets.png") no-repeat scroll 0 -25px #FFF;
+			border-bottom: 1px solid #E6E6E6;
+			color: #0F3C58;
+			display: block;
+			font-size: 13px;
+			margin: 0 0 20px;
+			padding: 0 0 12px 15px !important; 
+			text-decoration: none;
+			text-transform: inherit;
+			line-height: 17px;
 		}
 		.facebookImage {
 			display: none;
@@ -159,37 +267,40 @@
 			color: #0F3E5C;
 			display: block;
 			text-transform: inherit;
-			margin: 0 0 4px;
+			margin: -10px 0 4px;
+			font-size: 19px;
+			font-family: 'PT Sans', sans-serif;
 		}
 		.dateMobile {
 			display: none;
 		}
 		.date p {
-		margin: 14px auto !important;
-		border-left: 0px solid #ccc !important;
-		border-right: 0px solid #ccc !important;
-		text-align: center;
-		padding: 10px 10px;
-		color: #b3b3b3;
-		font-style: italic;
-		width: 360px !important;
-		font-size: 14px;
+			margin: 14px auto !important;
+			border-left: 0px solid #ccc !important;
+			border-right: 0px solid #ccc !important;
+			text-align: center;
+			padding: 10px 10px;
+			color: #b3b3b3;
+			font-style: italic;
+			width: 360px !important;
+			font-size: 14px;
 		}
-			.date p i {
+		.date p i {
 			font-weight: normal;
 			color: #666;
+			font-size: 13px;
 		}
 		.banner {
 			display: none;
-			
+
 		}
-	/*	.category .date p span { display: none;}*/
+		/*	.category .date p span { display: none;}*/
 
 		@media screen and (max-width: 767px) {
 			.anchor {
 				position: fixed;
 				top: 50px;
-				}
+			}
 
 			.banner {
 				/*display: block;*/
@@ -214,7 +325,7 @@
 			.dateMobile {
 				display: block;
 			}
-			 .date p { display: none;}
+			.date p { display: none;}
 			.dateMobile p {
 				border-left: 0px solid #ccc;
 				border-right: 0px solid #ccc;
@@ -224,66 +335,226 @@
 				font-weight: bold;
 				text-transform: inherit;
 				font-style: italic;
+				font-family: 'PT Sans', sans-serif ;
+				font-size: 19px;
 			}
 			.dateMobile p i {
 				font-weight: normal;
 				color: #666; 
+				font-family: Arial;
+				font-size: 15px;
+
+			}
+			.moreArticles a.thumb{
+				width:120px !important;
+			}
+
+			.moreArticles a{
+				width:210px !important;
+			}
+			.moreArticles {
+				float: left;
+				border-right: 1px solid #ccc;
+				width: 100% !important;
+				margin: 0 10px 10px;
+				padding: 0 5px 0 0;
+				/* background: red; */
 			}
 		}
 		html,body { width: 100%;  overflow-x: hidden; }
 
 
 
+		.disclaimer {
+			color: #b3b3b3;
+			margin: 20px 0 0 0;
+			float: left;
+			clear: both;
+			font-size: 27px;
+			font-family: 'PT Sans', sans-serif ;
+			font-style:italic
+		}
 
+		#light_box {
+			display: none;
+			background: black;
+			background: rgba(0,0,0, 0.85);
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			z-index: 95;
+		}
+		#light_box img {
+			width: 620px !important;
+		}
 
-		
+		#pop_box {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+		}
+		.thin {
+			opacity: 0.0;
+			width: 100%;
+			height: 35px;
+			z-index: 59;
+		}
+		.thin {
+			opacity: 0.0;
+			width: 100%;
+			height: 35px;
+			z-index: 59;
+		}
+
+		/*#light_box img {
+			display: block;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			margin: -220px 0 0 -410px;
+		}*/
+		#light_box .light_box_container {
+			display: block;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			width: 600px;
+			margin-left: -300px;
+			margin-top: -200px;
+		}
+
+		#light_box .wpcf7 {
+			display: block;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			margin: -100px 0 0 -410px;
+		}
+		.formContainer {
+			position: absolute;
+			left: 0px;
+			top: 300px;
+			margin: 20px 0px 0 0px;
+		}
+		.archive #ns_widget_mailchimp-email-2 {
+			border: 1px solid #CCCCCC;
+			font-size: 14px;
+			font-style: italic;
+			margin: 0 0 12px;
+			padding: 8px;
+			width: 295px;
+		}
+		.archive .ns_widget_mailchimp-email-2 {
+			border: 1px solid #CCCCCC;
+			font-size: 14px;
+			font-style: italic;
+			margin: 2px 0 6px;
+			padding: 8px;
+			width: 295px;
+		}
+		.closePop {
+			width: 24px;
+			height: 24px;
+			position: absolute;
+			right: -10px;
+			top: -10px;
+			background: url(http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/images/closePop.png);
+			cursor: pointer 
+		}
+
+		.archive #ns_widget_mailchimp_form-2 .button {
+			background: none repeat scroll 0 0 #0F3C59;
+			border: medium none;
+			border-radius: 4px 4px 4px 4px;
+			color: #FFFFFF;
+			cursor: pointer;
+			font-family: arial;
+			font-size: 14px;
+			font-weight: bold;
+			padding: 5px 0;
+			text-align: center;
+			text-transform: uppercase;
+			width: 313px;
+			margin: 0 !important;
+		}
+		.archive #ns_widget_mailchimp-2 h3 {
+			display: none;
+
+		}
+
+		.home #ns_widget_mailchimp-2 .button{
+			background: none repeat scroll 0 0 #0F3C59;
+			border: medium none;
+			border-radius: 4px 4px 4px 4px;
+			color: #FFFFFF;
+			cursor: pointer;
+			font-family: arial;
+			font-size: 14px;
+			font-weight: bold;
+			padding: 5px 0;
+			text-align: center;
+			text-transform: uppercase;
+			width: 156px;
+			margin: 0 !important;
+		}
+
+		#ns_widget_mailchimp-2 p{
+			color: #0F3C59;
+		}
+
+		.home #ns_widget_mailchimp-2 h3 {
+			display: none;
+		}
+
 	</style>
-    
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.24 - http://yoast.com/wordpress/seo/ -->
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="robots" content="noindex,nofollow">
 <link rel="canonical" href="http://www.thedailylife.com/privacy-policy">
-<link rel="author" href="https://plus.google.com/106043158576570054763">
-<link rel="publisher" href="https://plus.google.com/u/0/b/108626295859909160716/108626295859909160716/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy - TheDailyLife.com">
 <meta property="og:description" content="Privacy Policy LATEST REVISION: June 4, 2014 Welcome to TheDailyLife.com [“Website”]. We are committed to respecting the privacy rights and concerns of all users of our Website. This Privacy Policy sets forth Our online data collection and usage policies and practices that apply to this Website. It also provides you information regarding how you can …">
 <meta property="og:url" content="http://www.thedailylife.com/privacy-policy">
 <meta property="og:site_name" content="TheDailyLife.com">
-<meta property="article:published_time" content="2013-01-29T20:35:31+00:00">
-<meta property="article:modified_time" content="2014-06-04T14:08:20+00:00">
 <meta property="og:image" content="http://www.thedailylife.com/wp-content/themes/thedailylife_new/images/logo.png">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Privacy Policy LATEST REVISION: June 4, 2014 Welcome to TheDailyLife.com [“Website”]. We are committed to respecting the privacy rights and concerns of all users of our Website. This Privacy Policy sets forth Our online data collection and usage policies and practices that apply to this Website. It also provides you information regarding how you can […]">
+<meta name="twitter:title" content="Privacy Policy - TheDailyLife.com">
 <meta name="twitter:site" content="@TheDailyLifer">
 <meta name="twitter:domain" content="TheDailyLife.com">
+<meta name="twitter:image:src" content="http://www.thedailylife.com/wp-content/themes/thedailylife_new/images/logo.png">
 <meta name="twitter:creator" content="@TheDailyLifer">
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel="alternate" type="application/rss+xml" title="TheDailyLife.com » Feed" href="http://www.thedailylife.com/feed">
 <link rel="alternate" type="application/rss+xml" title="TheDailyLife.com » Comments Feed" href="http://www.thedailylife.com/comments/feed">
-<link rel="stylesheet" id="validate-engine-css-css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.5.9.4" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7.1" type="text/css" media="all">
-<link rel="stylesheet" id="advanced-responsive-video-embedder-plugin-styles-css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/advanced-responsive-video-embedder/public/assets/css/public.css?ver=3.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="validate-engine-css-css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.6.15" type="text/css" media="all">
+<link rel="stylesheet" id="advanced-responsive-video-embedder-css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/advanced-responsive-video-embedder/public/advanced-responsive-video-embedder-public.css?ver=5.3.3" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1" type="text/css" media="all">
 <link rel="stylesheet" id="twentytwelve-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="twentytwelve-style-css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/style.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="twentytwelve-style-css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/style.css?ver=4.1.1" type="text/css" media="all">
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='twentytwelve-ie-css'  href='http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/css/ie.css?ver=20121010' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="wp-paginate-css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.2.4" type="text/css" media="screen">
-<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<link rel="stylesheet" id="wp-paginate-css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.3.1" type="text/css" media="screen">
+<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
 <script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/js/mobile_nav.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.7.3"></script>
+<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/themes/thedailylife_new/js/mobile_nav.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.8"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.thedailylife.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thedailylife.com/wp-includes/wlwmanifest.xml"> 
 <link rel="shortlink" href="http://www.thedailylife.com/?p=59">
-<link rel="stylesheet" type="text/css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/microkids-related-posts/microkids-related-posts-default.css"><style type="text/css">.arve-thumb-wrapper { width: 300px; }.arve-normal-wrapper.alignleft, .arve-normal-wrapper.alignright, .arve-normal-wrapper.aligncenter { width: 400px; }</style>
-<!-- Google Analytics Tracking by Google Analyticator 6.4.7.3: http://www.videousermanuals.com/google-analyticator/ -->
+<style type="text/css">.arve-thumb-wrapper { max-width: 500px; }.arve-normal-wrapper.alignleft, .arve-normal-wrapper.alignright, .arve-normal-wrapper.aligncenter { max-width: 500px; }</style>
+<link rel="stylesheet" type="text/css" href="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/microkids-related-posts/microkids-related-posts-default.css"><!-- Google Analytics Tracking by Google Analyticator 6.4.8: http://www.videousermanuals.com/google-analyticator/ -->
 <script type="text/javascript">
-                var analyticsFileTypes = [''];
-                            var analyticsSnippet = 'enabled';
-                var analyticsEventTracking = 'enabled';
-            </script>
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';
+</script>
 <script type="text/javascript">
 	var _gaq = _gaq || [];
   
@@ -297,78 +568,111 @@
                                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 </script>
- <!-- Quantcast Tag part1-->
+	<!-- Quantcast Tag part1-->
 
-<script type="text/javascript">
-var _qevents = _qevents || [];
+	<script type="text/javascript">
+		var _qevents = _qevents || [];
 
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-</script>
+		(function() {
+			var elem = document.createElement('script');
+			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+			elem.async = true;
+			elem.type = "text/javascript";
+			var scpt = document.getElementsByTagName('script')[0];
+			scpt.parentNode.insertBefore(elem, scpt);
+		})();
+	</script>
 
-<!-- End Quantcast tag -->   
+	<!-- End Quantcast tag -->   
 </head>
-<body class="page page-id-59 page-template-default category custom-font-enabled">
 
-		<header>
-		<div class="top">
-			<div class="container">
-				<div class="logo"><a href="http://www.thedailylife.com"></a></div>
-				
-				
-		<div class="date">
-					<p>
-										Thursday, June 26, 2014					</p>
-				</div>
+<body class="page page-id-59 page-template-default category custom-font-enabled">
+	
+
+	
+		
 		
 
+	
+	<header> 
+		<div class="top">
+			<div class="container">
+				<div class="logo"><a href="http://www.thedailylife.com"></a>
 
-				<div class="searchTop" style="width: 250px">
-<div id="cse" style="width: 100%;">Loading</div>
-<script src="//www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript">
-google.load('search', '1', {language: 'en', style: google.loader.themes.V2_DEFAULT});
-google.setOnLoadCallback(function() {
-  var customSearchOptions = {};
-  var orderByOptions = {};
-  orderByOptions['keys'] = [{label: 'Relevance', key: ''} , {label: 'Date', key: 'date'}];
-  customSearchOptions['enableOrderBy'] = true;
-  customSearchOptions['orderByOptions'] = orderByOptions;
-  customSearchOptions['overlayResults'] = true;
-  var customSearchControl =   new google.search.CustomSearchControl('004600881557417923171:02za3rnddm0', customSearchOptions);
-  customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-  var options = new google.search.DrawOptions();
-  options.setAutoComplete(true);
-  customSearchControl.draw('cse', options);
-}, true);
-</script>
+					
+					</div>
 
-<a href="#" class="searchToggle">search</a>
+					
 
-				</div>
-			</div>
-		</div>		
-		<nav>
-			<div class="menu-menu-container"><ul id="menu-menu" class="navigation"><li id="menu-item-179" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-179"><a href="http://www.thedailylife.com/daily-living">Daily Living</a></li>
+
+
+
+						<!-- </div> -->
+						<div class="date">
+							<p>
+																							Monday, March 16, 2015
+								
+
+
+
+
+
+							</p>
+						</div>
+														<div class="searchTop" style="width: 250px">
+									<div id="cse" style="width: 100%;">Loading</div>
+									<script src="//www.google.com/jsapi" type="text/javascript"></script>
+									<script type="text/javascript">
+										google.load('search', '1', {language: 'en', style: google.loader.themes.V2_DEFAULT});
+										google.setOnLoadCallback(function() {
+											var customSearchOptions = {};
+											var orderByOptions = {};
+											orderByOptions['keys'] = [{label: 'Relevance', key: ''} , {label: 'Date', key: 'date'}];
+											customSearchOptions['enableOrderBy'] = true;
+											customSearchOptions['orderByOptions'] = orderByOptions;
+											customSearchOptions['overlayResults'] = true;
+											var customSearchControl =   new google.search.CustomSearchControl('004600881557417923171:02za3rnddm0', customSearchOptions);
+											customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+											var options = new google.search.DrawOptions();
+											options.setAutoComplete(true);
+											customSearchControl.draw('cse', options);
+										}, true);
+									</script>
+
+									<a href="#" class="searchToggle">search</a>
+
+								</div>
+
+								
+
+						</div>
+					</div>		
+					<nav>
+														<div class="menu-menu-container"><ul id="menu-menu" class="navigation"><li id="menu-item-179" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-179"><a href="http://www.thedailylife.com/daily-living">Daily Living</a></li>
 <li id="menu-item-174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-174"><a href="http://www.thedailylife.com/finance">Finance</a></li>
 <li id="menu-item-175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-175"><a href="http://www.thedailylife.com/health-beauty">Health &amp; Beauty</a></li>
 <li id="menu-item-177" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-177"><a href="http://www.thedailylife.com/shopping">Shopping</a></li>
 <li id="menu-item-178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-178"><a href="http://www.thedailylife.com/travel">Travel</a></li>
-</ul></div>		</nav> 
-				
-			<div class="menu-menu-container"><select id="menu-menu-1" class="menu dropdown-menu"><option value="" class="blank">— menu —</option><option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-179 menu-item-depth-0" value="http://www.thedailylife.com/daily-living">Daily Living</option>
+</ul></div>										
+						</nav> 
+
+														<div class="menu-menu-container"><select id="menu-menu-1" class="menu dropdown-menu"><option value="" class="blank">— menu —</option><option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-179 menu-item-depth-0" value="http://www.thedailylife.com/daily-living">Daily Living</option>
 <option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-174 menu-item-depth-0" value="http://www.thedailylife.com/finance">Finance</option>
 <option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-175 menu-item-depth-0" value="http://www.thedailylife.com/health-beauty">Health &amp; Beauty</option>
 <option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-177 menu-item-depth-0" value="http://www.thedailylife.com/shopping">Shopping</option>
 <option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-178 menu-item-depth-0" value="http://www.thedailylife.com/travel">Travel</option>
-</select></div>	</header>
-	<div class="container">
+</select></div>											
+
+
+
+
+
+
+
+
+
+						</header>
+						<div class="container">
 		<div class="main">
 	
 			<div class="content">
@@ -424,7 +728,7 @@ Hyperlinks.  Our Website and email messages sometimes contain hypertext links to
 <p><strong>10.	Contact US With Any Questions.</strong></p>
 <p>Please do not hesitate to contact us with any questions or requests you have regarding our services or this Privacy Statement.  We can be reached as follows:<br>
 The Daily Life<br>
-382 NE 191st St # 54390<br>
+382 NE 191st St #85128<br>
 Miami, FL 33179-3899<br>
 (786) 475-6587<br>
 privacy@thedailylife.com</p>
@@ -438,21 +742,21 @@ privacy@thedailylife.com</p>
 		</div>
 		<div class="sidebar">
 
-			<div class="newsletter">
+			<div class="newsletter ">
 				<div class="head_newsletter">
 					<span></span>
-					<h1>Limited Time</h1>
-					<h2>FREE Registration</h2>
+					<h1>FREE REGISTRATION</h1>
 					<p>for The Daily Life</p>
+					<p></p>
 				</div>
 <!--
 				<input type="text" placeholder="Your email" class="email" />
 				<input type="submit" value="sign up" class="submit_newsletter"/>
 --><aside id="wysija-5" class="widget widget_wysija"><h3 class="widget-title">Register for the TDL Email Newsletter</h3><div class="widget_wysija_cont"><div id="msg-form-wysija-5" class="wysija-msg ajax"></div><form id="form-wysija-5" method="post" action="#wysija" class="widget_wysija form-valid-sub"><p class="wysija-instruct"> No Spam: We will not sell or share your information. View our privacy policy</p><p class="wysija-p-email"><input type="text" id="form-wysija-5-wysija-to" title="Email" class="defaultlabels wysija-email validate[required,custom[email]]" name="wysija[user][email]" value=""></p><span class="wysija-p-firstname abs-req"><input type="text" id="form-wysija-5-abs-firstname" value="" class="defaultlabels validated[abs][req]" name="wysija[user][abs][firstname]"></span><span class="wysija-p-lastname abs-req"><input type="text" id="form-wysija-5-abs-lastname" value="" class="defaultlabels validated[abs][req]" name="wysija[user][abs][lastname]"></span><span class="wysija-p-email abs-req"><input type="text" id="form-wysija-5-abs-email" value="" class="defaultlabels validated[abs][email]" name="wysija[user][abs][email]"></span><input type="submit" class="wysija-submit wysija-submit-field" name="submit" value="SIGN UP"><input type="hidden" name="formid" value="form-wysija-5">
-                    <input type="hidden" name="action" value="save">
-                <input type="hidden" name="wysija[user_list][list_ids]" value="1">
-                <input type="hidden" name="message_success" value="Thank you for signing up for The Daily Life. We sent you a confirmation email, please check your inbox.">
-                <input type="hidden" name="controller" value="subscribers"><input type="hidden" value="1" name="wysija-page"></form></div></aside>				<div class="privacy">
+					<input type="hidden" name="action" value="save">
+				<input type="hidden" name="wysija[user_list][list_ids]" value="1">
+				<input type="hidden" name="message_success" value="Thank you for signing up for The Daily Life. We sent you a confirmation email, please check your inbox.">
+				<input type="hidden" name="controller" value="subscribers"><input type="hidden" value="1" name="wysija-page"></form></div></aside>				<div class="privacy">
 					<a href="privacy-policy">privacy policy</a>	
 				</div>
 			</div>
@@ -462,22 +766,27 @@ privacy@thedailylife.com</p>
 
             
 	</div>
-	<footer>
+	<footer style="height:auto !important; padding: 0 0 50px">
 		<div class="container">
-			 <div class="widget_popular_topics">
 
+			 <div class="widget_popular_topics">
+			<div class="disclaimer_container">						</div>
 			 
 			 
-			 <aside id="text-3" class="widget widget_text"><h3 class="widget-title">Trending Today</h3>			<div class="textwidget"><a href="http://www.thedailylife.com/whats-linguistics-understanding-the-branches-of-language">Branches of Language</a>
+			 <aside id="text-3" class="widget widget_text"><h3 class="widget-title">Trending</h3>			<div class="textwidget"><a href="http://www.thedailylife.com/whats-linguistics-understanding-the-branches-of-language">Branches of Language</a>
 <a href="http://www.thedailylife.com/5-misconceptions-about-purchasing-life-insurance">Life Insurance Misconceptions</a>
 <a href="http://www.thedailylife.com/10-tips-for-better-online-dating">Online Dating Tips</a></div>
 		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
 	<li class="cat-item cat-item-37"><a href="http://www.thedailylife.com/daily-living" title="The Daily Life is your number one source for learning about the latest lifestyle news, how to's, discoveries, and more.">Daily Living</a>
 </li>
+	<li class="cat-item cat-item-58"><a href="http://www.thedailylife.com/entertainment">Entertainment</a>
+</li>
 	<li class="cat-item cat-item-7"><a href="http://www.thedailylife.com/finance" title="The Daily Life is an excellent place to learn about personal finance issues and find advice for day to day life. 
 ">Finance</a>
 </li>
 	<li class="cat-item cat-item-8"><a href="http://www.thedailylife.com/health-beauty" title="Here on The Daily Life find secrets, tips and information about maintaining your beauty, health and overall well being. ">Health &amp; Beauty</a>
+</li>
+	<li class="cat-item cat-item-61"><a href="http://www.thedailylife.com/politics">Politics</a>
 </li>
 	<li class="cat-item cat-item-10"><a href="http://www.thedailylife.com/shopping" title="Find tips, advice, articles and more on the best way and the best time to buy just about anything you could need. 
 ">Shopping</a>
@@ -492,6 +801,7 @@ privacy@thedailylife.com</p>
 <li class="page_item page-item-59 current_page_item"><a href="http://www.thedailylife.com/privacy-policy">Privacy Policy</a></li>
 <li class="page_item page-item-43"><a href="http://www.thedailylife.com/sitemap">Sitemap</a></li>
 <li class="page_item page-item-755"><a href="http://www.thedailylife.com/terms-use">Terms of Use</a></li>
+<li class="page_item page-item-829"><a href="http://www.thedailylife.com/testing-mail-collect">testing mail collect</a></li>
 		</ul>
 		</aside> 
 			 
@@ -530,9 +840,10 @@ google.setOnLoadCallback(function() {
 
  	
 			 	<div class="logo"></div>
-			 	<p>© 2014 The Daily Life. All Rights Reserved.</p>
+			 	<p>© 2015 The Daily Life. All Rights Reserved.</p>
 			 </div>			 			 			 
 		</div>
+		<div style="clear:both"></div>
 	</div></footer>
 	
 	<script>
@@ -541,22 +852,22 @@ google.setOnLoadCallback(function() {
 		for ( i=0; i<dropdowns.length; i++ )
 			if ( dropdowns[i].className.match( 'dropdown-menu' ) ) dropdowns[i].onchange = function(){ if ( this.value != '' ) window.location.href = this.value; }
 	</script>
-	<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.49.0-2014.02.05"></script>
+	<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/www.thedailylife.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.7.1"></script>
-<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/wysija-newsletters/js/validate/languages/jquery.validationEngine-en.js?ver=2.5.9.4"></script>
-<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/wysija-newsletters/js/validate/jquery.validationEngine.js?ver=2.5.9.4"></script>
+<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1"></script>
+<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/wysija-newsletters/js/validate/languages/jquery.validationEngine-en.js?ver=2.6.15"></script>
+<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/wysija-newsletters/js/validate/jquery.validationEngine.js?ver=2.6.15"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wysijaAJAX = {"action":"wysija_ajax","controller":"subscribers","ajaxurl":"http:\/\/www.thedailylife.com\/wp-admin\/admin-ajax.php","loadingTrans":"Loading..."};
-var wysijaAJAX = {"action":"wysija_ajax","controller":"subscribers","ajaxurl":"http:\/\/www.thedailylife.com\/wp-admin\/admin-ajax.php","loadingTrans":"Loading..."};
+var wysijaAJAX = {"action":"wysija_ajax","controller":"subscribers","ajaxurl":"http:\/\/www.thedailylife.com\/wp-admin\/admin-ajax.php","loadingTrans":"Loading...","is_rtl":""};
+var wysijaAJAX = {"action":"wysija_ajax","controller":"subscribers","ajaxurl":"http:\/\/www.thedailylife.com\/wp-admin\/admin-ajax.php","loadingTrans":"Loading...","is_rtl":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/wysija-newsletters/js/front-subscribers.js?ver=2.5.9.4"></script>
+<script type="text/javascript" src="http://49krjibwenxxrtcj3fdxjbk9r.wpengine.netdna-cdn.com/wp-content/plugins/wysija-newsletters/js/front-subscribers.js?ver=2.6.15"></script>
 
 <script>
 var _prum = [['id', '523a3adcabe53d7a43000000'],
