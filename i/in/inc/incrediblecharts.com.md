@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701200926id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316213325id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.php) for the most accurate reproduction.*
 
 # Incredible Charts: Privacy Policy
 
@@ -36,7 +36,7 @@ We use information collected in the following ways:
   * To identify you and assist you to register, subscribe and login to our services.
   * To conduct appropriate checks for credit-worthiness or fraud.
   * To send e-mail notifications about our new or existing products and services, newsletters or special offers, or to otherwise contact you.
-  * To send no more than one direct e-mail from third-party advertisers to newsletter mailing list subscribers per calendar month. No email addresses and personal details are provided to advertisers.
+  * To send no more than one direct e-mail from third-party advertisers to newsletter mailing list subscribers per ~~calendar month~~ fortnight. No email addresses and personal details are provided to advertisers.
   * To enhance existing features or develop new features, products and services.
   * To provide advertisers and other third parties with aggregate information about our user base and usage patterns.
   * To personalize content and advertising that you and others see based on personal characteristics or preferences.
@@ -78,11 +78,4 @@ If you have any questions regarding privacy, please [contact us](https://web.arc
 
 ## Policy Modifications
 
-We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. This policy was last updated on March 27th 2014.
-
-| 
-
-How Good Is Your Market Analysis?  
-Compare our market views.  
-  
----|---
+We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. This policy was last updated on November 12th 2014.
