@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthecareers.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627140156id_/http%3A//www.healthecareers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthecareers.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316095404id_/http%3A//www.healthecareers.com/privacy-policy) for the most accurate reproduction.*
 
 # HealtheCareers
 
