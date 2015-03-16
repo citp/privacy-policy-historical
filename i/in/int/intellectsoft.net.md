@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellectsoft.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626122507id_/http%3A//www.intellectsoft.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellectsoft.net privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316082031id_/http%3A//www.intellectsoft.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Intellectsoft US
 
@@ -30,4 +30,4 @@ This website may contain links to other websites. We, in turn, are not responsib
 
 **Contact Us**
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at the following address [info@intellectsoft.net](mailto:info@intellectsoft.net)
+If you have any questions or suggestions regarding our privacy policy, please contact us at the following address [info@www.intellectsoft.net](mailto:info@www.intellectsoft.net)
