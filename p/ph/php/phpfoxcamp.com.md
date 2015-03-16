@@ -1,64 +1,20 @@
-> *The following text is extracted and transformed from the phpfoxcamp.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045040id_/http%3A//www.phpfoxcamp.com/index.php%3Fapp%3Dforums%26module%3Dextras%26section%3Dboardrules) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpfoxcamp.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316134013id_/http%3A//www.phpfoxcamp.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - PHPFox Camp
 
 Register now to gain access to all of our features. Once registered and logged in, you will be able to create topics, post replies to existing threads, give reputation to your fellow members, get your own private messenger, post status updates, manage your profile and so much more. This message will be removed once you have signed in.  
 [Login to Account](http://www.phpfoxcamp.com/index.php?app=core&module=global&section=login) [Create an Account](http://www.phpfoxcamp.com/index.php?app=core&module=global&section=register)
 
-**What information do we collect?**
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
-We collect information from you when you register on our site or place an order.
+Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address and other required details to create an account. You may, however, visit our site anonymously as a guest.
+**Our Commitment to Children's Privacy**  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-**What do we use your information for?**
+**Cookies**  
+This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
 
-Any of the information we collect from you may be used in one of the following ways:
-
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-  * To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.)
-  * To send periodic emails (The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.)
+  1.  
 
 
-
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information)
-
-We use cookies to understand and save your preferences for future visits.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-Further more, we use your IP address to get realtime weather (where available) through Yahoo! Weather news. So, your IP address is used to calculate your location and get weather details. But we do not share your information to any other third party for any reason.
-
-**Information removal**
-
-Unfortunately, we are not removing any membership from the system, maximum we can help you with is, to unsubscribe from emails or blocking yourself from the community (after confirming as the account owner).
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Your Consent**
-
-By using our site, you consent to our online privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy to keep the community intact, we will publish the new privacy policy on this page replacing the current revesion. So, you needs to keep updated with the changes by checking out this page more often.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us at info@phpfoxcamp.com 
