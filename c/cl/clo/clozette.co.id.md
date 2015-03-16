@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clozette.co.id privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701231627id_/http%3A//id.clozette.co/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clozette.co.id privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316233916id_/http%3A//id.clozette.co/info/privacy) for the most accurate reproduction.*
 
 # Clozette Indonesia | Your Personal Online Closet and a Fashion Social Network
 
@@ -76,15 +76,36 @@ For the purpose of this Policy, " **we** " and " **our** " shall refer to Clozet
 
   1. We are committed to protecting the information we receive from you. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.
 
-  2. The Site encrypts your credit card number and other personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your PC to our servers. In addition, only those employees and third parties who need access to your information in order to perform their duties are allowed such access.
+  2. Where applicable, the Site encrypts your credit card number and other personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your PC to our servers. In addition, only those employees and third parties who need access to your information in order to perform their duties are allowed such access.
 
 
 
 
-**5\. Privacy Policy Changes**
+**5\. Newsletters**
+
+Clozette offers several newsletters to which you may voluntarily subscribe and unsubscribe at any time. When subscribing to our newsletters, a user needs to provide the mandatory email address, first name and last name.
+
+
+
+
+**6\. Unsubscribe**
+
+  1. Users who wish to no longer receive our newsletters may click on the "UNSUBSCRIBE" link which is found in every newsletter sent by us. This will prevent users from receiving future messages.
+
+
+
+
+**7\. Privacy Policy Changes**
 
   1. We may, from time to time, change our Privacy Policy for the Site. We will post the revised Privacy Policy here so that you will always know what information we gather, how we might use that information and whether we may disclose it to anyone. Your continued use of the Site indicates your assent to the Privacy Policy as posted.
 
 
   
 **If you have any questions about this Privacy Policy, please contact us at[hello@clozette.co.](mailto:hello@clozette.co)**
+
+**Contact Information**   
+Clozette Indonesia   
+Jl. Kemang raya No.2, Jakarta Selatan 12730, Indonesia   
+Tel.: +62 21 717 91239   
+E-Mail: hello@clozette.co   
+Web: id.clozette.co 
