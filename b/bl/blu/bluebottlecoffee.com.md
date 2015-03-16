@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluebottlecoffee.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701143545id_/https%3A//bluebottlecoffee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebottlecoffee.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316185637id_/https%3A//bluebottlecoffee.com/privacy) for the most accurate reproduction.*
 
-# Blue Bottle Coffee
+# Privacy Policy | Blue Bottle Coffee
 
 Blue Bottle Coffee is committed to protecting your privacy. This Policy describes the types of information we may collect from you or that you may provide when you visit our website and our practices for using, maintaining, protecting and disclosing that information.  
 
