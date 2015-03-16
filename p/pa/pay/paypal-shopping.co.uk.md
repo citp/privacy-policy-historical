@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the paypal-shopping.co.uk privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206155401id_/https%3A//www.paypal.com/uk/cgi-bin/webscr%3Fcmd%3Dp/gen/ua/policy_privacy-outside) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal-shopping.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316233223id_/https%3A//www.paypal.com/uk/cgi-bin/webscr%3Fcmd%3Dp/gen/ua/policy_privacy-outside) for the most accurate reproduction.*
 
 # PayPal
 
->> [View all legal agreements](https://www.paypal.com/uk/webapps/mpp/ua/legalhub-full "Legal Agreements")
+>> [View all legal agreements](https://www.paypal.com/gb/webapps/mpp/ua/legalhub-full "Legal Agreements")
 
-Last Update: May 14, 2014  
-
+Last Update: Dec 29, 2014
 
 **Jump to section:**
 
@@ -23,13 +22,13 @@ We will not sell or rent your personal information to third parties for their ma
 
 **By accepting the Privacy Policy at registration, you expressly consent to our use and disclosure of your personal information and direct us to do so in the manner described in this Privacy Policy.**
 
-All future changes to this Privacy Policy set out in the [Policy Update](https://www.paypal.com/uk/webapps/mpp/ua/upcoming-policies-full)  already published on the “Legal Agreements” landing page of the PayPal website at the time you register for the Services are incorporated by reference into this Privacy Policy and will take effect as specified in the [Policy Update](https://www.paypal.com/uk/webapps/mpp/ua/upcoming-policies-full). **“Policy Update”** means a prior notice of changes to any of your agreements with PayPal which PayPal may make available to you in writing. If you disagree with the terms of this Privacy Policy, please do not register for or use the PayPal Services.
+All future changes to this Privacy Policy set out in the [Policy Update](https://www.paypal.com/gb/webapps/mpp/ua/upcoming-policies-full)  already published on the “Legal Agreements” landing page of the PayPal website at the time you register for the Services are incorporated by reference into this Privacy Policy and will take effect as specified in the [Policy Update](https://www.paypal.com/gb/webapps/mpp/ua/upcoming-policies-full). **“Policy Update”** means a prior notice of changes to any of your agreements with PayPal which PayPal may make available to you in writing. If you disagree with the terms of this Privacy Policy, please do not register for or use the PayPal Services.
 
 **Notification of Changes**
 
 This Privacy Policy may be revised over time as new features are added to the PayPal Services or as we incorporate suggestions from our customers. We may amend this Privacy Policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if we propose to change this Privacy Policy in a substantial manner, we will provide you with at least 30 days' prior notice of such a change. We may post the notice on the "Policy Updates" page of our website(s) and/or send the notice by e-mail. After this 30 days' notice, you will be considered as having expressly consented to all amendments to the Privacy Policy. If you disagree with the terms of this Privacy Policy, you may close your account at any time.
 
-Please check the PayPal website at <https://www.paypal.com/uk/> at any time for the most current version of our Privacy Policy.
+Please check the PayPal website at <https://www.paypal.com/gb/> at any time for the most current version of our Privacy Policy.
 
 Some pages on the PayPal website include links to third-party websites. These sites are governed by their own privacy statements, and PayPal is not responsible for their operations, including but not limited to their information practices. Users submitting information to or through these third-party websites should review the privacy statements of these sites before providing them with personally identifiable information.
 
@@ -37,14 +36,13 @@ For the avoidance of doubt, this Privacy Policy does not constitute a "framework
 
 **A Special Note about Children**
 
-Children are not eligible to use our service and we ask that minors (persons under the age of 18) do not submit any personal information to us or use the PayPal Services.  
-
+Children are not eligible to use our service and we ask that minors (persons under the age of 18) do not submit any personal information to us or use the PayPal Services.
 
 Back to top
 
 ### 2\. Binding Corporate Rules
 
-In addition to the privacy practices set out in this Privacy Policy, eBay Inc., the ultimate parent company of PayPal, has established a set of Corporate Rules (also referred to as Binding Corporate Rules), approved by a number of European Union data protection regulators. These Corporate Rules are a commitment by eBay Inc. to adequately protect your personal information regardless of where the data resides, and depending upon your location, may provide additional rights through your data protection regulator or a court. If you would like additional information regarding our Corporate Rules please [contact us](https://www.paypal.com/uk/ewf/f=ci_prv).
+In addition to the privacy practices set out in this Privacy Policy, eBay Inc., the ultimate parent company of PayPal, has established a set of Corporate Rules (also referred to as Binding Corporate Rules), approved by a number of European Union data protection regulators. These Corporate Rules are a commitment by eBay Inc. to adequately protect your personal information regardless of where the data resides, and depending upon your location, may provide additional rights through your data protection regulator or a court. If you would like additional information regarding our Corporate Rules please [contact us](https://www.paypal.com/gb/ewf/f=ci_prv).
 
 Back to top
 
@@ -58,7 +56,9 @@ We will also require other commercial and/or identification information if you s
 
 When you access PayPal using a mobile device (e.g. a smartphone), we may additionally collect and store device sign-on data (including device ID) and geolocation data in order to provide our services.
 
-If you use certain functionalities provided by us (such as the PayPal POS Functionality available in your mobile app) we may ask you to upload a picture of you in order to provide these specific services. If we allow you to link your membership of an eligible loyalty scheme to your Account, we may require you to provide to us your loyalty scheme membership ID.
+If you use certain functionalities provided by us (including, without limitation, PayPal POS functionality on your mobile app) we may ask you to upload a picture of you in order to provide these specific services. Your face must be recognisable. Your image is solely your responsibility.
+
+If we allow you to link your membership of an eligible loyalty scheme to your Account, we may require you to provide to us your loyalty scheme membership ID.
 
 **Transaction Information**
 
@@ -86,7 +86,7 @@ Because of the way Internet communication standards work, when you arrive at or 
 
 When you visit or interact with our sites, services, applications, tools, advertising, and messaging (such as email), we or our authorised service providers may use cookies, web beacons, and other similar technologies for storing information to help provide you with a better, faster, and safer experience. This page is designed to help you understand more about these technologies and our use of them on our sites and in our services, applications, and tools.
 
-Below is a summary of few key things you should know about our policy related to the use of such technologies. You can review our full policy [here](https://www.paypal.com/uk/webapps/mpp/ua/cookie-full).
+Below is a summary of few key things you should know about our policy related to the use of such technologies. You can review our full policy [here](https://www.paypal.com/gb/webapps/mpp/ua/cookie-full).
 
 We offer certain site features, services, applications, and tools that are available only through our use of these technologies. You are always free to block, delete, or disable these technologies if your browser or device so permits. However, if you decline cookies or other similar technologies, you may not be able to use certain site features, services, applications, or tools. You may also be required to re-enter your password more frequently during a session. For more information on how you can block, delete, or disable these technologies, please review the Help section of your browser, add-on, application, or device.
 
@@ -148,7 +148,9 @@ If you are a registered PayPal user, your name, email address, Skype ID (if appl
 
 If you are buying goods or services and pay through PayPal, we may provide the seller with the delivery address for the goods and your billing address to complete your transaction. If an attempt to pay your seller fails, or is later invalidated, we may also provide your seller with details of the unsuccessful payment. To facilitate dispute resolutions, we may provide a buyer with the seller's address so that goods can be returned to the seller.
 
-If you are using the PayPal POS Functionality on your mobile app, we may share your picture that you have stored with your mobile app with the seller with whom you are attempting to transact in order to verify your identity, as well as the fact that that you are within local reach as a customer.
+If you are using your mobile app, we may share your picture that you have stored with your mobile app with other PayPal users so that they can identify you, You license us to use your image for the above purposes on a non-exclusive, worldwide, royalty-free, transferable and sub-licensable basis.
+
+We may also share with other users the fact that you are within local reach as a customer.
 
 If you use PayPal as means of logging into external websites or mobile apps, we may share your login status with any third party offering this Service as a login method, as well as the personal and other Account information that you consent to being shared so that the third party can recognise you. PayPal will not give such third party access to your PayPal Account and will only make payments from your Account to that third party with your specific authorisation. You can access, view and control the settings for any such data sharing with merchants when logged into your PayPal account.
 
@@ -164,11 +166,10 @@ If you open a PayPal account directly on a third- party website or via a third p
 
 PayPal will not sell or rent any of your personal information to third parties for their marketing purposes without your explicit consent, and will only disclose this information in the limited circumstances and for the purposes described in this policy. This includes transfers of data to non-EEA member states. Specifically, you consent to and direct PayPal to do any and all of the following:
 
-  1. Disclose information including, without limitation, transaction information, account information, personal information and the contents of communications to: the police; security forces; competent governmental, intergovernmental or supranational bodies; competent agencies (other than tax related authorities), departments, regulatory authorities, self-regulatory authorities or organisations (including, without limitation, the Agencies set out in the table under the heading "Agencies" below); and other third parties, including Group companies, that we in good faith believe it is appropriate for us to cooperate with in investigations of fraud or other illegal activity or potential illegal activity, or to conduct investigations of violations of our User Agreement (including without limitation, your funding source or credit or debit card provider). If false or inaccurate information is provided by you and fraud is identified, details will be passed by us to fraud prevention agencies and law enforcement agencies may access and use that information. We and other organisations may also access and use (including from other countries) this information and the information recorded by fraud prevention agencies to prevent fraud and money laundering. Please [contact us](https://www.paypal.com/uk/ewf/f=ci_prv) if you want to receive further details of the relevant fraud prevention agencies.
+  1. Disclose information including, without limitation, transaction information, account information, personal information and the contents of communications to: the police; security forces; competent governmental, intergovernmental or supranational bodies; competent agencies (other than tax related authorities), departments, regulatory authorities, self-regulatory authorities or organisations (including, without limitation, the Agencies set out in the table under the heading "Agencies" below); and other third parties, including Group companies, that we in good faith believe it is appropriate for us to cooperate with in investigations of fraud or other illegal activity or potential illegal activity, or to conduct investigations of violations of our User Agreement (including without limitation, your funding source or credit or debit card provider). If false or inaccurate information is provided by you and fraud is identified, details will be passed by us to fraud prevention agencies and law enforcement agencies may access and use that information. We and other organisations may also access and use (including from other countries) this information and the information recorded by fraud prevention agencies to prevent fraud and money laundering. Please [contact us](https://www.paypal.com/gb/ewf/f=ci_prv) if you want to receive further details of the relevant fraud prevention agencies.
   2. Disclose information in response to the requirements of the credit card associations or a civil or criminal legal process.
   3. If you as a merchant use a third party to access or integrate PayPal, we may disclose to any such partner the status of your PayPal integration, whether you have an active PayPal account and whether you may already be working with a different PayPal integration partner.
-  4. Disclose information to the "Categories" of third parties listed in the table below. The purpose of this disclosure is to allow us to provide our services to you. We also set out in the table below, under each "Category", non-exclusive examples of the actual third parties (which may include their assigns and successors) to whom we currently disclose your account information or to whom we may consider disclosing your account information over the next six months, together with the purpose of doing so, and the actual information we disclose (except as explicitly stated, these third parties are limited by law or by contract from using the information for secondary purposes beyond the purposes for which the information was shared).  
-
+  4. Disclose information to the "Categories" of third parties listed in the table below. The purpose of this disclosure is to allow us to provide our services to you. We also set out in the table below, under each "Category", non-exclusive examples of the actual third parties (which may include their assigns and successors) to whom we currently disclose your account information or to whom we may consider disclosing your account information over the next six months, together with the purpose of doing so, and the actual information we disclose (except as explicitly stated, these third parties are limited by law or by contract from using the information for secondary purposes beyond the purposes for which the information was shared). 
 
 **Category**
 
@@ -188,7 +189,7 @@ PayPal will not sell or rent any of your personal information to third parties f
   
 **Payment Processors**  
   
- | 
+  | 
 
 HSBC Bank Plc (UK, Ireland), HSBC Merchant Services LLP (UK), Bank of America (UK, USA, Italy, and India), Discover Financial Services (USA), JPMorgan Chase Bank (UK, USA), BNP Paribas (France), Netgiro (Sweden), StarFinanz (Germany), Wells Fargo (Ireland, USA), American Express (USA), National Westminster Bank PLC (UK), OmniPay Limited (Ireland), Australia and New Zealand Banking Group Limited (Australia), ANZ National Bank Limited (New Zealand) and Transaction Network Services (UK) Limited (UK)
 
@@ -200,7 +201,7 @@ To allow payment processing settlement services, and fraud checking.
 
 Name, address, details of user funding instruments, and details of payment transactions.  
   
- | 
+  | 
 
 Deutsche Bank AG (Germany, Netherlands, France, Spain)
 
@@ -212,7 +213,7 @@ To allow the processing of direct debits in Germany, Netherlands, France and Spa
 
 Name, date of transaction, amount, currency and user’s bank account information.  
   
- | 
+  | 
 
 Royal Bank of Scotland plc (UK) (“ **RBS** ”)
 
@@ -224,7 +225,7 @@ To allow payment processing and dispute handling for transactions of PayPal user
 
 All account information except details of user financial instruments.  
   
- | 
+  | 
 
 Visa Europe Ltd (UK) including Visa’s VMAS system; Mastercard International Incorporated. (USA) including Mastercard’s MATCH system
 
@@ -238,7 +239,7 @@ All account details of merchant account, and circumstances and conduct of the ac
   
 **Audit**  
   
- | 
+  | 
 
 PricewaterhouseCoopers Sàrl (Luxembourg)
 
@@ -253,7 +254,7 @@ name, PayPal account number (Customer ID), total amount received on the PayPal a
   
 **Customer Service Outsourcing**  
   
- | 
+  | 
 
 Sutherland Global Services Inc. (USA and Philippines), Sitel GmbH (Germany), Transcom Worldwide SAS (France, Tunisia), Transcom Worldwide France SAS (France), Transcom Worldwide SpA (Italy), Competence Call Center Leipzig GmbH (Germany), Convergys Customer Management Group Inc. (USA), Arvato Direct Services GmbH (Germany) and Concentrix Europe Limited (UK)
 
@@ -265,7 +266,7 @@ To allow telephone and email customer support services.
 
 Name, address, phone number, email addresses, truncated and limited or full funding source information (case dependent), funding source expiration dates, type of PayPal account, proof of identity, account balance and transaction information, customer statements and reports, account correspondence, shipping information, and promotional information.  
   
- | 
+  | 
 
 Nuance Communications Inc. (USA)
 
@@ -277,7 +278,7 @@ To calibrate and optimise speech recognition performance for telephone customer 
 
 Recordings of a sample of customer support telephone calls, which may include any or all account information transmitted during the call.  
   
- | 
+  | 
 
 ICT Group Inc. (US)
 
@@ -289,7 +290,7 @@ To perform and facilitate telephone customer support.
 
 Name, address, phone number, and PayPal account number.  
   
- | 
+  | 
 
 Lithium Technologies Inc. (USA)
 
@@ -301,7 +302,7 @@ To provide member-to-member platform services and customer service on our custom
 
 Name, email address, PayPal single sign on ID (PayPal SSN ID)  
   
-| 
+  | 
 
 Attensity Europe GmbH
 
@@ -313,7 +314,7 @@ To provide customer services arising from customer contacts to PayPal on social 
 
 Information provided by the customer via social media channels which may include name, address, phone number, email addresses, social media user names, truncated and limited or full funding source information (case dependent), funding source expiration dates, type of PayPal account, proof of identity, account balance and transaction information, customer statements and reports, account correspondence, shipping information, and promotional information.  
   
- | 
+  | 
 
 ILinc Communications, Inc. (USA)
 
@@ -325,7 +326,7 @@ To provide webinars (online seminars) to merchants on ILinc’s platform.
 
 Name, email address of merchants  
   
- | 
+  | 
 
 ePerformax Contact Centers & BPO (USA), Genpact International Inc. (USA)
 
@@ -341,7 +342,7 @@ Name, address, phone number, email addresses, truncated and limited or full fund
   
 **Please note that in addition to the stated purposes below, PayPal uses your personal information to detect, prevent, and/or remediate fraud or other illegal actions, or to detect, prevent or remediate violations of policies or applicable user agreements.**  
   
- | 
+  | 
 
 CRIF (Italy), Cerved B.I (Italy), Coface (France), Synectics Solutions Limited (UK), MCL Hunter (UK), GB Group plc (UK), Graydon (UK), iQor Recovery Services Limited (UK), Capita Plc (UK),UK Data Limited (UK), ICC Information Limited (UK), Payment Trust Limited (UK), 192.com (UK), 192.com Limited (UK), i-CD Publishing (UK) Limited (UK), Experian Netherlands BV (Netherlands), Experian Bureau de Credito SA (Spain), Informa D&B SA (Spain), and CRIBIS D&B S.r.l. (Italy).
 
@@ -355,7 +356,7 @@ To verify identity, verify linkage between a customer and its bank account or cr
 
 Name, address, phone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit /debit card details (if appropriate) and relevant transaction information (if appropriate).  
   
- | 
+  | 
 
 Callcredit plc. (UK) including the SHARE database administered by Callcredit, Experian Limited (UK) including databases administered by Experian used for consumer and commercial referencing including CAPS credit searches and CAIS credit account performance data, Equifax Ltd (UK) including the Insight database administered by Equifax, Dun & Bradstreet Limited (UK)
 
@@ -368,15 +369,15 @@ For users of the UK products “Website Payments Pro”, “Virtual Terminal” 
 • for the purposes set out in section 8 of this Privacy Policy.
 
 **Please note that data disclosed to these agencies and databases may be:  
-• retained by the applicable credit reference agency or database for audit and fraud prevention purposes;   
-• disclosed to other financial institutions for the purpose of gauging creditworthiness; and   
+• retained by the applicable credit reference agency or database for audit and fraud prevention purposes;  
+• disclosed to other financial institutions for the purpose of gauging creditworthiness; and  
 • transferred outside of the EU and on a global basis.**
 
 | 
 
 Name, address, phone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit /debit card details (if appropriate), relevant transaction information (if appropriate), account balance, all information supplied and used for your application for the UK products “Website Payments Pro”, “Virtual Terminal” and “PayPal Here” and the financial instrument used to pay for your PayPal Here- enabled device.  
   
- | 
+  | 
 
 CIFAS (UK) and the CIFAS database
 
@@ -386,7 +387,7 @@ For users with UK PayPal accounts only: to prevent and detect fraud (which may i
 
 **Please note that data disclosed to this database may be:
 
-• retained by the database for audit and fraud prevention purposes;   
+• retained by the database for audit and fraud prevention purposes;  
 • disclosed to other financial institutions for the purpose of fraud prevention and detection
 
 ** **(including to prevent money laundering) for example, when checking details on applications for credit and other facilities, managing credit and credit related accounts or facilities, recovering debt, checking details on claims for insurance and checking details of job applicants or employees;**
@@ -398,7 +399,31 @@ For users with UK PayPal accounts only: to prevent and detect fraud (which may i
 
 All account details and circumstances of the conduct of the account  
   
- | 
+| 
+
+DueDil Limited (UK)
+
+| 
+
+To receive business information for risk assessment, and compliance with anti-money laundering requirements, such as establishing the corporate structure and beneficial ownership.
+
+| 
+
+Company registration number, name and address of business, name, address, date of birth of directors.  
+  
+| 
+
+Creditsafe USA Inc. (USA)
+
+| 
+
+To receive business information for risk assessment, and compliance with anti-money laundering requirements, such as establishing the corporate structure and beneficial ownership.
+
+| 
+
+Company registration number, name, and address of business, name, address, date of birth of directors  
+  
+  | 
 
 Deltavista GmbH (Germany)
 
@@ -410,7 +435,7 @@ Establish risk associated with address, identity; assist in making decisions con
 
 Name, address, date of birth, email address  
   
- | 
+  | 
 
 Accumio Finance Services GmbH (Germany), CEG Creditreform Boniversum GmbH (Germany), Bürgel Wirtschaftsinformationen GmbH & Co. KG (Germany)
 
@@ -424,7 +449,7 @@ To assist in making decisions concerning the credit worthiness of consumers (if 
 
 **Please note the fact that PayPal requested such information, and any negative account performance data disclosed to these databases in relation to customers who have a German PayPal account may potentially be:
 
-• retained by the database for audit purposes and for scoring of such customer’s creditworthiness;   
+• retained by the database for audit purposes and for scoring of such customer’s creditworthiness;  
 • any such score may be disclosed to other third parties for the purpose of gauging creditworthiness.
 
 **
@@ -436,7 +461,7 @@ To assist in making decisions concerning the credit worthiness of consumers (if 
 
 Name, address, date of birth, email address, account status, account balance, and in case the transfer of such information is legally justified, also certain information on negative account performance of a customer with a German PayPal account, for which PayPal has requested a creditworthiness check from the respective database.  
   
- | 
+  | 
 
 SCHUFA Holding AG (Germany), infoscore Consumer Data GmbH (Germany)
 
@@ -448,7 +473,7 @@ To verify a customer's identity and address, carry out checks for the prevention
 
 **Please note the fact that PayPal requested such information, and any negative account performance data disclosed to these databases in relation to customers who have a German PayPal account may potentially be:
 
-• retained by the database for audit purposes and for scoring of such customer’s creditworthiness;   
+• retained by the database for audit purposes and for scoring of such customer’s creditworthiness;  
 • any such score may be disclosed to other third parties for the purpose of gauging creditworthiness
 
 **
@@ -466,7 +491,7 @@ To verify a customer's identity and address, carry out checks for the prevention
 
 Name, address, email address, date of birth, gender, bank account details, information on failed direct debit payments from a bank account (without linkage to the identity of the customer), and in case the transfer of such information is legally justified, also certain information on negative account performance of a customer with a German PayPal account.  
   
- | 
+  | 
 
 Creditreform Berlin Wolfram KG (Germany), Verband der Vereine Creditreform e.V. (Germany)
 
@@ -478,7 +503,7 @@ To determine creditworthiness of merchants.
 
 Name, address, email-address.  
   
- | 
+  | 
 
 World-Check (UK)
 
@@ -490,7 +515,7 @@ To verify identity.
 
 All account information.  
   
- | 
+  | 
 
 Global Data Corporation (USA)
 
@@ -502,7 +527,7 @@ To verify identity, carry out checks for the prevention and detection of crime i
 
 Name, address, date of birth, telephone number, email address  
   
- | 
+  | 
 
 RSA Security Inc. (USA) and RSA Security Ireland Limited (Ireland)
 
@@ -514,19 +539,19 @@ To verify identity.
 
 All account information.  
   
- | 
+  | 
 
 ID Checker.nl BV (Netherlands) (Ireland)
 
 | 
 
-To verify identity; research and testing as to appropriateness of new products and services.
+To verify identity; automatic data extraction from images of documents, and document validation / forgery detection. Research and testing as to appropriateness of new products and services.
 
 | 
 
-Name, address, email address, date of birth, legal form, company registration number, VAT number, proof of identity, address, or other documents requested by PayPal and the data contained therein for Risk / Compliance purposes.  
+Name, address, email address, date of birth, legal form, company registration number, VAT number, proof of identity, address, ownership of a funding instrument or other documents requested by PayPal and the data contained therein for Risk / Compliance/ Credit purposes.  
   
- | 
+  | 
 
 Aristotle International, Inc. (USA)
 
@@ -538,7 +563,7 @@ To verify identity.
 
 Name, address, date of birth  
   
- | 
+  | 
 
 Acxiom Ltd (UK), Acxiom Deutschland GmbH (Germany) and Acxiom France SAS (France)
 
@@ -550,7 +575,7 @@ To verify identity.
 
 Name, address, phone number, email address and date of birth.  
   
- | 
+  | 
 
 Creditinfo Decision (Czech Republic) and DecisionMetrics Limited (UK)
 
@@ -562,7 +587,7 @@ To assist with PayPal’s assessment of merchant risk.
 
 All merchant account information.  
   
- | 
+  | 
 
 ThreatMetrix Inc (USA)
 
@@ -574,7 +599,7 @@ To retrieve risk information regarding the IP and device from which you are acce
 
 IP and hardware information about the device (device ID)  
   
- | 
+  | 
 
 TeleSign Corporation (USA)
 
@@ -586,7 +611,7 @@ To validate phone numbers, research and testing as to appropriateness of new pro
 
 Telephone number  
   
- | 
+  | 
 
 AddressDoctor GmbH (Germany),
 
@@ -598,7 +623,7 @@ To re-structure address data into normalized format.
 
 Name, address, email address  
   
- | 
+  | 
 
 Deutsche Post Direkt GmbH (Germany), AZ Direct GmbH (Germany), Deutsche Post Adress GmbH & Co. KG (Germany)
 
@@ -610,8 +635,7 @@ To validate and re-structure address data into normalized format and to verify n
 
 Name, address, email address  
   
- |  |  |    
- | 
+  | 
 
 Mitek Systems Inc. (USA)
 
@@ -623,7 +647,7 @@ To validate images of identity documents and research and testing as to appropri
 
 Proof of identity, details of bank accounts and credit/debit card information  
   
- | 
+  | 
 
 Jumio Inc (USA)
 
@@ -635,19 +659,19 @@ To capture and validate proofs of identity and address
 
 All data recorded on the customer’s identity and address documents  
   
- | 
+  | 
 
 Au10tix Limited (Cyprus)
 
 | 
 
-Automatic data extraction and document validation / forgery detection
+To verify identity; automatic data extraction from images of documents,and document validation / forgery detection. . Research and testing as to appropriateness of new products and services.
 
 | 
 
-Documents proving identity and address  
+Name, address, email address, date of birth, legal form, company registration number, VAT number, documents proving identity and address, , ownership of a funding instrument, or other documents requested by PayPal and the data contained therein for Risk / Compliance/ Credit purposes.  
   
- | 
+  | 
 
 Telovia SA (Luxembourg)
 
@@ -659,7 +683,7 @@ Identity validation and Know Your Customer (KYC) controls conducted for anti mon
 
 Name, address, date of birth, proof of ID and address  
   
- | 
+  | 
 
 Syniverse Technologies, LLC (USA)
 
@@ -671,7 +695,7 @@ Validate and apply data quality checks to phone numbers (SMS message to be sent 
 
 Name, address, phone number.  
   
- | 
+  | 
 
 Signicat AS (Norway)
 
@@ -683,7 +707,7 @@ To verify and authenticate identity
 
 Name, address, date of birth and e-id reference number  
   
- | 
+  | 
 
 BankersAccuity Inc. (USA)
 
@@ -695,7 +719,7 @@ Research and testing as to appropriateness of new products and services in relat
 
 Customer’s bank account number and sort code and / or IBAN  
   
- | 
+  | 
 
 ArkOwl LLC (USA)
 
@@ -707,7 +731,7 @@ To verify email address
 
 Email address  
   
- | 
+  | 
 
 Fraudscreen Ltd (UK)
 
@@ -719,7 +743,7 @@ To evaluate level of fraud risk
 
 Name and address  
   
- | 
+  | 
 
 LexisNexis, LexisNexis Risk Solutions UK Limited (UK)
 
@@ -731,7 +755,7 @@ To assist with customer authentication
 
 Name, address and date of birth  
   
- | 
+  | 
 
 Trustev Ltd (Ireland)
 
@@ -743,7 +767,7 @@ To establish identity through customer’s social media data, connections and cr
 
 Name, address, date of birth, email address and account number  
   
- | 
+  | 
 
 Tracesmart Ltd (UK)
 
@@ -755,19 +779,19 @@ To identify customers and assist with fraud detection, prevention, and or remedi
 
 Title, name, address, date of birth and telephone number  
   
- | 
+  | 
 
-Zoot Enterprises, Inc. (USA), Zoot Deutschland GmbH (Germany),  Zoot Enterprises Limited (UK)
-
-| 
-
-To process technical applications and to provide a data and document gateway for account review and vetting purposes, and to exchange user information to contracted fraud and credit reference agencies. To also aggregate data from internal and external data sources and provide statistical analysis in order to assess the risk of fraud.
+Zoot Enterprises, Inc. (USA), Zoot Deutschland GmbH (Germany), Zoot Enterprises Limited (UK)
 
 | 
 
-All account information and documents supplied by customers, to include information used to provide identity and address. This information may also include IP addresses.  
+To process technical applications and to provide a data and document gateway for account review and vetting purposes, and to exchange user information and images of documents proving identity, address and ownership of funding instrument with contracted fraud and credit reference agencies. To also aggregate data from internal and external data sources and provide statistical analysis in order to assess the risk of fraud.
+
+| 
+
+All account information and documents supplied by customers, to include information used to provide identity and address, ownership of a funding instrument, or other documents requested by PayPal and the data contained therein for Risk / Compliance / Credit purposes. This information may also include IP addresses.  
   
- | 
+  | 
 
 First Data Corporation (USA)
 
@@ -779,7 +803,7 @@ To process merchant-initiated and customer-authorized transactions and to provid
 
 All account information and documents supplied by customers, to include information used to provide identity and address.  
   
- | 
+  | 
 
 La Banque de France (France), GB Group plc (UK), SysperTec Communication (France)
 
@@ -791,7 +815,7 @@ Research and testing as to appropriateness of new products and services used to 
 
 Name, address, date of birth, phone number, email address  
   
-| 
+  | 
 
 MaxMind, Inc. (USA)
 
@@ -800,15 +824,15 @@ MaxMind, Inc. (USA)
 To detect fraud.
 
 **Please note that data disclosed to this service provider may be:  
-• retained by it for audit and fraud prevention purposes;   
-• used by it for the purpose of optimising its fraud detection services provided to PayPal and other third parties; and   
+• retained by it for audit and fraud prevention purposes;  
+• used by it for the purpose of optimising its fraud detection services provided to PayPal and other third parties; and  
 • transferred outside of the EU and on a global basis.**
 
 | 
 
 All account information and IP address, credit card information.  
   
-| 
+  | 
 
 Future Route Ltd (UK)
 
@@ -822,7 +846,7 @@ Name, address, email address and date of birth.
   
 **Financial Products**  
   
- | 
+  | 
 
 La Poste (France)
 
@@ -834,7 +858,7 @@ To resolve technical issues and user claims (when PayPal is being offered by the
 
 Any Account information necessary to resolve the issue or claim  
   
- | 
+  | 
 
 Santander UK Cards Limited (UK)
 
@@ -846,7 +870,7 @@ To conduct joint marketing campaigns for PayPal Credit, and PayPal MasterCard, r
 
 Name, address, email address and account information (including, without limitation, account status).  
   
- | 
+  | 
 
 TSYS Card Tech Limited (UK), TSYS Managed Services EMEA Limited (UK), PrePay Technologies Limited (trading as PrePay Solutions) (UK)
 
@@ -858,7 +882,7 @@ To conduct joint marketing campaigns for PayPal pre-paid card and risk and fraud
 
 Name, address, email address, date of birth and account information.  
   
- | 
+  | 
 
 Société Générale (France), La Banque Postale (France), BNP Paribas (France) and Crédit Mutuel (France)
 
@@ -870,7 +894,7 @@ Billing purposes.
 
 Only for merchants using PayPal through the partner’s payment solution: merchant ID, number of PayPal transactions, transaction volume with PayPal and, as the case may be, termination of the PayPal account.  
   
- | 
+  | 
 
 Findomestic Banca (Italy), Cetelem S.A., Cofidis (France) and Cofinoga S.A. (France)
 
@@ -882,19 +906,19 @@ Registration of the credit card issued by the credit company on the user’s Pay
 
 Name, email address, date of birth (as the case may be), credit card number, expiry date, three digit Card Security Code (as the case may be) and amount of the funding request and any account information necessary for fraud or dispute resolution.  
   
- | 
+  | 
 
 Total System Services, Inc. (USA)
 
 | 
 
-To process merchant initiated and customer authorised payments  (including customer direct debit information) to provide account/card processing services, to store transaction, payment and other customer data related to those transactions. To provide call centre services, card printing, and statement printing services.
+To process merchant initiated and customer authorised payments (including customer direct debit information) to provide account/card processing services, to store transaction, payment and other customer data related to those transactions. To provide call centre services, card printing, and statement printing services.
 
 | 
 
 Name, address, email address, date of birth (where required), all account information and documents supplied by customers, to include information required to prove identity and address.  
   
- | 
+  | 
 
 United Kapital Limited (UK) and United Kapital Limited, LLC (USA)
 
@@ -909,7 +933,7 @@ For customers of those merchants: transaction information, name, email address, 
   
 **Commercial Partnerships**  
   
- | 
+  | 
 
 Royal Mail Group Plc. (UK) and Pitney Bowes Inc. (USA)
 
@@ -921,7 +945,7 @@ To provide automated label printing for sellers using PayPal and eBay to facilit
 
 Name, address, email address and postage transaction amount.  
   
- | 
+  | 
 
 Trustwave (USA)
 
@@ -935,7 +959,7 @@ Name, email address and PayPal account number.
   
 **Marketing and Public Relations**  
   
- | 
+  | 
 
 Decipher Inc. (USA), Northstar Research Partners (USA)
 
@@ -947,7 +971,7 @@ To conduct customer service surveys.
 
 Name, email address, type of account, type and nature of the PayPal services offered or used, and relevant transaction information.  
   
- | 
+  | 
 
 Ipsos Mori UK Limited (UK), Ipsos GmbH (Germany), Ipsos SAS (France) and FactWorks GmbH (Germany)
 
@@ -959,7 +983,7 @@ To conduct customer service and marketing surveys.
 
 Name, email address, phone number, type of account, type and nature of the PayPal services offered or used, and relevant transaction information.  
   
- | 
+  | 
 
 Adwise (France) and Axance (France)
 
@@ -971,7 +995,7 @@ To conduct marketing surveys.
 
 Name, email address, phone number, type of account, type and nature of the PayPal services offered or used, and relevant transaction information.  
   
- | 
+  | 
 
 BD Network Limited (UK), Tullo Marshall Warren Limited (UK), and MyCash (France)
 
@@ -983,7 +1007,7 @@ To develop and execute customer promotions.
 
 Name, address and email address.  
   
- | 
+  | 
 
 Salesforce.com, inc. (USA)
 
@@ -995,7 +1019,7 @@ To store merchant contact information as well as other supporting information ab
 
 Name, address, phone number and email address, business name, URL PayPal Account ID and other supporting information about the business relationship, such as (without limitation) name of contact person and contact information at merchant and/or partner through which merchant has been onboarded, description of products sold through PayPal, communication notes and onboarding information, internal decisions about the merchant, revenue calculations and other information on the merchant’s business as made available by the merchant, and information relevant for special integrations of merchants, name and address of bank.  
   
- | 
+  | 
 
 Daniel J Edelman Ltd (UK), I&E Consultants (France), Grayling Communications Limited (UK), Rock Communications (Italy), Fleisher (Israel), Clue PR (Poland).
 
@@ -1007,7 +1031,7 @@ To answer media enquiries regarding customer queries.
 
 Name, address, and all customer account information relevant to customer queries.  
   
- | 
+  | 
 
 Alchemy Worx Ltd (UK)
 
@@ -1019,7 +1043,7 @@ To allow management reporting of marketing campaigns.
 
 Name, email address and details of customer campaign interaction.  
   
- | 
+  | 
 
 Carrenza Limited (UK)
 
@@ -1031,7 +1055,7 @@ To store user data for marketing campaigns.
 
 Name, address, email address, business name, domain name, account status, account preferences, type and nature of the PayPal services offered or used, and relevant transaction information.  
   
- | 
+  | 
 
 1000Mercis SA (France) and 1000Mercis Ltd (UK)
 
@@ -1043,7 +1067,7 @@ To store user data to conduct marketing campaigns on behalf of PayPal.
 
 Name, email address, phone number, type of account, type and nature of the PayPal services offered or used, and relevant transaction information.  
   
- | 
+  | 
 
 A McLay & Company Limited (UK), TNT Post Italia (Italy)
 
@@ -1055,7 +1079,7 @@ To assist in the execution of offline direct mail and marketing campaigns.
 
 Name, address, email address, business name, domain name, account status, account preferences, type and nature of the PayPal services offered or used, and relevant transaction information.  
   
- | 
+  | 
 
 Datacolor Dialog-Medien GmbH (Germany), MEILLERGHP GmbH (Germany) and W & J Linney Ltd (UK)
 
@@ -1067,7 +1091,7 @@ To assist in the execution of offline direct mail and marketing campaigns.
 
 Name, email address, address, business name, domain name, account status, account preferences, type and nature of PayPal services offered or used.  
   
- | 
+  | 
 
 Medallia, Inc. (USA)
 
@@ -1079,7 +1103,7 @@ To conduct customer service surveys.
 
 Name, email address, type of account, type and nature of the PayPal services offered or used, and relevant transaction information.  
   
- | 
+  | 
 
 Endlichsommer- werbung in bester gesellschaft mbh (Germany) and Crossover Communication GmbH (Germany)
 
@@ -1091,7 +1115,7 @@ To assist in the execution of offline direct mail and marketing campaigns
 
 Name, address, business name, type and nature of PayPal services offered or used.  
   
- | 
+  | 
 
 optivo GmbH (Germany)
 
@@ -1103,7 +1127,7 @@ To send emails; email marketing
 
 Name of the merchant, name of the contact person, email address, address, status, client ID and shop system  
   
- | 
+  | 
 
 Acxiom France SAS (France), Acxiom Ltd (UK) and Acxiom GmbH (Germany)
 
@@ -1115,7 +1139,7 @@ To collect additional user information and better target marketing campaigns.
 
 Name, address, email address, date of birth and phone number.  
   
- | 
+  | 
 
 Adelanto (France)
 
@@ -1127,7 +1151,19 @@ To execute marketing campaigns for merchants.
 
 Name of the merchant, name of the contact person, address, email address, merchant website URL and type and nature of the PayPal Services offered or used.  
   
- | 
+| 
+
+DemandGen AG (Germany)
+
+| 
+
+To execute e-mail marketing campaigns
+
+| 
+
+Name, email address, phone number, type of account, type, and nature of PayPal Services offered or used and relevant transaction information.  
+  
+  | 
 
 Business support services - b2s, SAS (France), Foule Access SAS (France)
 
@@ -1139,7 +1175,7 @@ To store merchants' contact information for marketing communications to those me
 
 Name of the merchant, name of the contact person, address, email address, phone number, merchant website URL.  
   
- | 
+  | 
 
 Consultix (France and Spain) and Quadro Srl (Italy)
 
@@ -1151,7 +1187,7 @@ To host information provided by merchants and display part of this information o
 
 All information provided by merchants in connection with their use of these pages of the PayPal website (including in particular name of the merchant, name of the contact, email address, logo and information relating to the promotion(s) offered to PayPal users).  
   
- | 
+  | 
 
 Appnexus, Inc. (US), BlueKai, Inc. (US), Conversant GMBH (Germany), Google Ireland, Ltd. (Ireland),DoubleClick Europe Ltd (UK).
 
@@ -1163,7 +1199,7 @@ To execute retargeting campaigns in order to deliver personalised advertising.
 
 Anonymous ID generated by cookies, pixel tags or similar technologies embedded in webpages  
   
-| 
+  | 
 
 Criteo SA (France)
 
@@ -1175,7 +1211,7 @@ To execute retargeting campaigns in order to deliver personalised advertising.
 
 Anonymous ID generated by cookies, pixel tags or similar technologies embedded in webpages and emails delivered to users.  
   
-| 
+  | 
 
 Linkedin Ireland Limited (Ireland)
 
@@ -1187,7 +1223,7 @@ To execute retargeting campaigns in order to deliver personalised advertising.
 
 Encrypted e-mail address associated with PayPal users (without indicating account relationship).  
   
- | 
+  | 
 
 Conversant Inc. (USA)
 
@@ -1199,9 +1235,9 @@ To execute and measure retargeting campaigns in order to identify visitors and r
 
 PayPal Account ID (as appropriate) as well as device ID used by a specific person, content of advertisements to be delivered and segmentation in a user group for advertisement purposes.  
   
-| 
+  | 
 
-StrikeAd UK Ltd. (UK), Ad-x Limited (UK)
+StrikeAd UK Ltd. (UK), Ad-x Limited (UK), _Criteo Ltd. (UK),_ _Criteo Singapore Pte. Ltd_
 
 | 
 
@@ -1209,9 +1245,9 @@ To execute and measure retargeting campaigns in order to segment users for PayPa
 
 | 
 
-Anonymous cookie ID and device ID to segment user groups for marketing purposes.  
+Anonymous cookie ID, Advertising ID, and device ID to segment user groups for marketing purposes.  
   
-| 
+  | 
 
 Fiksu, Inc. (US)
 
@@ -1223,10 +1259,9 @@ To execute and measure retargeting campaigns in order to segment users for marke
 
 Device ID used for Apple’s iOS operating system when a user installs an application, signs up for the PayPal Services, logs in, checks in, or sets a profile picture.  
   
-|  |  |   
-| 
+  | 
 
-Nanigans, Inc. (US)
+Nanigans, Inc. (US
 
 | 
 
@@ -1236,7 +1271,7 @@ To execute retargeting campaigns in order to deliver personalised advertising.
 
 Advertising ID associated with Apple iOS devices when a user installs an application, relaunches an application, signs up for the PayPal Services, logs in, checks in, checks their balance, saves an offer, successfully completes a transaction, sets a profile picture, or makes other account changes in or related to the use of the application.  
   
- | 
+  | 
 
 Heaven SAS (France)
 
@@ -1248,7 +1283,7 @@ To execute marketing campaigns for merchants.
 
 Name of merchant, merchant website URL, description of item purchased and price of item.  
   
- | 
+  | 
 
 Tenthwave Digital, LLC (USA)
 
@@ -1260,7 +1295,7 @@ To notify winners and prize fulfillment for winners of survey sweepstakes
 
 Name and email address, for sweepstakes winners and alternates only.  
   
- | 
+  | 
 
 Sotiaf Telematiques Associes SAS (France)
 
@@ -1272,7 +1307,7 @@ To store user data for marketing campaigns and to execute direct marketing campa
 
 Name, email address, and phone number.  
   
- | 
+  | 
 
 2engage (Germany) and Quo Vadis (Germany)
 
@@ -1284,7 +1319,7 @@ To conduct market surveys.
 
 Name, company name, address, telephone number, domain name, e-mail address, type and nature of use of PayPal services, market segment and generalised categorisation of company size and information on participation in earlier surveys.  
   
- | 
+  | 
 
 Facebook, Inc (USA), Facebook Ireland Limited (Ireland) and Twitter, Inc. (USA)
 
@@ -1296,7 +1331,7 @@ To show relevant advertisements to Facebook and Twitter users (as the case may b
 
 Encrypted e-mail address associated with PayPal users (without indicating account relationship).  
   
- | 
+  | 
 
 SurveyMonkey Spain, Sucursal em Portugal (Portugal) and SurveyMonkey.com, LLC (USA)
 
@@ -1308,7 +1343,7 @@ To assist in carrying out user surveys.
 
 Name, email address and details of customer campaign interaction.  
   
- | 
+  | 
 
 Marketing and Planning Systems, LLC. USA (USA), Dynamic Logic, Inc. (USA), GfK Custom Research LLC (USA), Millward Brown, Inc. (USA) and Radius Global Market Research, LLC (USA)
 
@@ -1320,7 +1355,7 @@ To conduct customer service and marketing surveys
 
 Name, email address, type of account, type and nature of PayPal services offered or used, and relevant transaction information  
   
- | 
+  | 
 
 Oracle America Inc. (USA)
 
@@ -1332,9 +1367,9 @@ To develop, measure and execute marketing campaigns.
 
 Name, business name, address and registration number of merchant, name, job title, email address, phone number of merchant’s contact person, merchant website URL, PayPal account number, third party applications used by the merchant, behaviour on PayPal website.  
   
- | 
+  | 
 
-Nanigans, Inc. (USA), Fiksu, Inc. (USA), Ad- X Limited (UK)
+Nanigans, Inc. (USA), Fiksu, Inc. (USA), Ad- X Limited (UK); _Criteo Ltd. (UK),_ _Criteo Singapore Pte. Ltd_
 
 | 
 
@@ -1342,11 +1377,11 @@ Help identify behaviour in the mobile app in order to guide decision about targe
 
 | 
 
-Device ID used by a specific person, events in the mobile app about the use of the mobile app by a specific user (including, without limitation, login, successful completion of the transaction), but no payment and financial information details.
+_Anonymous cookie ID, Advertising ID, and_ Device ID used by a specific person, events in the mobile app about the use of the mobile app by a specific user (including, without limitation, login, successful completion of the transaction), but no payment and financial information details.
 
 Content of advertisements to be delivered to specific users and, as appropriate, segmentation group to which such person belongs to for advertisement purposes.  
   
- | 
+  | 
 
 Zeuner S.p.A. (Italy), Accueil Srl (Italy) and CallCenterNet Italy s.r.l. (Italy)
 
@@ -1358,7 +1393,7 @@ To store merchants' contact information for marketing communications to those me
 
 Name of the merchant, name of the contact person, address, email address, phone number, merchant website URL.  
   
- | 
+  | 
 
 Purepromoter Ltd t/a Pure360
 
@@ -1370,7 +1405,7 @@ To send service related and (depending on opt-in settings) promotional SMS messa
 
 Mobile Number, name, address, email address, business name, business contact details, domain name, account status, account type, account preferences, type and nature of the PayPal services offered or used and relevant transaction and account information  
   
- | 
+  | 
 
 Pepper Global (Germany)
 
@@ -1384,7 +1419,7 @@ Mobile Number
   
 **Operational services**  
   
- | 
+  | 
 
 Kanzlei Dr. Seegers, Dr. Frankenheim & Partner Lawyers (Germany, Austria, Switzerland), **Akinika Debt Recovery Limited** (UK), Capita Plc (UK), Compagnie Francaise du Recouvrement (France), Clarity Credit Management Solutions Limited (UK), eBay Europe Services SARL (Luxembourg); EOS Solution Deutschland GmbH (Germany), EOS Aremas Belgium SA/NV (Belgium), EOS Nederland B.V. (Netherlands), Arvato Infoscore GmbH (Germany), , Infoscore Iberia (Spain), , SAS (France), Transcom WorldWide S.p.A. (Italy), Transcom Worldwide SAS (Tunisia), Intrum Justitia S.p.A. (Italy),
 
@@ -1396,7 +1431,7 @@ To collect debt.
 
 Name, address, phone number, account number, date of birth, email address, account type, account status, last four digits of financial instruments account, sort code, account balance, details of account transactions and liabilities, name of funding source provider and copies of all correspondence in each case relating to amounts you owe (or another person owes) to us.  
   
- | 
+  | 
 
 KSP Kanzlei Dr. Seegers (Germany), BFS Risk & Collection GmbH (Germany); HFG Hanseatische Inkasso- und Factoring-Gesellschaft (Germany),BFS Risk and Collection GmbH (Germany), Team 4 Collect (Spain), Arvato Polska (Poland), BCW Collections Ireland Ltd (Ireland), S.C. Fire Credit S.R.L. (Romania), Gothia Financial Group AB (Sweden), Gothia AS (Sweden), Gothia A/S (Denmark), Gothia Oy (Finland), Credit Solutions Ltd (United Kingdom).
 
@@ -1408,7 +1443,7 @@ To collect debt; to handle reporting to credit reference agencies about defaulti
 
 Name, address, phone number, account number, date of birth, email address, account type, account status, last four digits of financial instruments account, sort code, account balance, details of account transactions and liabilities, name of funding source provider, applicable details of account behaviour and copies of all correspondence (including without limitation, all correspondence relevant for reporting to credit reference agencies) in each case relating to amounts you owe (or another person owes) to us.  
   
- | 
+  | 
 
 Begbies Traynor Group plc (UK), Moore Stephens LLP (UK), Moore Stephens Ltd (UK), Moore Stephens International Ltd (UK), Moorhead James LLP (UK), Comas Srl (Italy), RBS RoeverBroennerSusat GmbH & Co. KG (Germany), LLC Elitaudit (Russia), National Recovery Service (Russia).
 
@@ -1420,7 +1455,7 @@ To investigate (including, without limitation, to carry out asset and/or site in
 
 Name, address, phone number, account number, date of birth, email address, account type, account status, last four digits of financial instruments account, sort code, account balance, details of account transactions and liabilities, name of funding source provider and copies of all correspondence, in each case relating to amounts you owe (or another person owes) to us.  
   
- | 
+  | 
 
 Webbank (USA)
 
@@ -1432,7 +1467,7 @@ Only for customers who are also customers of Bill Me Later, Inc.: to help with a
 
 Name, address, phone number, account number, date of birth, email address, account type, account status, last four digits of financial instruments account, sort code, account balance, details of account transactions and liabilities, and name of funding source provider.  
   
- | 
+  | 
 
 Digital River Inc. (USA) and Research in Motion Limited (USA)
 
@@ -1444,7 +1479,7 @@ To enable you to access and use PayPal via a mobile device (for example mobile p
 
 Applicable details of your account information which are transmitted as part of your use of PayPal via a mobile device.  
   
- | 
+  | 
 
 mediafinanz AG (Germany)
 
@@ -1456,7 +1491,7 @@ To collect debt, to request and proceed information from and to Schufa, Buergel 
 
 Name, address, phone number, account number, date of birth, business name, email address, account type, account status, last four digits of financial instruments account, account balance, details of account transactions and liabilities, name of funding source provider, credit score received from agency, account performance data  
   
- | 
+  | 
 
 Zyklop Inkasso Deutschland GmbH (Germany), PNO inkasso AG (Germany), Hanseatische Inkasso-Treuhand GmbH (Germany)
 
@@ -1468,7 +1503,7 @@ To collect and manage debt, to support collections teams in case of insolvent cu
 
 Name, address, phone number, account number, email address, account type, account status, last four digits of financial instruments account, sort code and name of funding source provider, account balance, date and amount of last payment, results of creditworthiness checks  
   
- | 
+  | 
 
 Informa Solutions GmbH (Germany)
 
@@ -1484,7 +1519,7 @@ For the purpose of verification of identity also: other information contained in
 
 For customers with a German PayPal account also: phone number, length of time at address, length of time in business, length of time with PayPal, funding instrument including bank account and credit /debit card details and relevant transaction information, credit score received on behalf of PayPal from a credit reference agency, account number, account type, account status, account balance, details of account transactions and liabilities, negative account performance data.  
   
- | 
+  | 
 
 P K Consultancy Limited (UK)
 
@@ -1496,7 +1531,7 @@ To assess risk and help detect and prevent potentially illegal acts and violatio
 
 Name, address, phone number, account number, email address, account type, last four digits of financial instruments account, account balance, details of account transactions and liabilities, account status and account performance information as required for the Purpose  
   
- | 
+  | 
 
 Robertson Taylor Insurance Brokers Limited (UK)
 
@@ -1508,7 +1543,7 @@ Consultation with respect to risk assessment of specific merchants and merchant 
 
 Name, address, phone number, account number, business contact details, domain name, email address, account type, account balance, details of account transactions and liabilities, account status and account performance information as required for the Purpose.  
   
- | 
+  | 
 
 Yesmail Inc. (USA), Responsys (USA), Silverpop Systems Inc. (USA) and e-Dialog, Inc. (USA)
 
@@ -1520,7 +1555,7 @@ To fulfil email operations in respect of the PayPal services (including, but not
 
 Name, address, email address, business name, business contact details, domain name, account status, account type, account preferences, type and nature of the PayPal services offered or used and relevant transaction and account information.  
   
- | 
+  | 
 
 Blue Media S.A. (Poland)
 
@@ -1532,7 +1567,7 @@ To verify identity and ensure that a user is a PayPal account holder. To process
 
 Name and email address.  
   
- | 
+  | 
 
 Consultix GmbH (Germany)
 
@@ -1544,7 +1579,7 @@ To assist in the creation of PayPal Business Accounts for merchants on-boarding 
 
 All information provided by the merchant (directly or via his/her bank or other contract partner) for the purpose of creating his/her PayPal business account (including without limitation email address, address, business name, business contact details and bank account details).  
   
- | 
+  | 
 
 Akamai Technologies Inc. (USA)
 
@@ -1556,7 +1591,7 @@ Content delivery network – to deliver PayPal page content from local servers t
 
 User IP address and cookies.  
   
- | 
+  | 
 
 azionare GmbH (Germany)
 
@@ -1568,7 +1603,7 @@ To distribute prizes in prize promotions on Facebook.
 
 Name, email address.  
   
- | 
+  | 
 
 ITELLIUM mobile Solutions GmbH (Germany); CartaSi S.p.A - Gruppo ICBPI (Italy)
 
@@ -1580,7 +1615,7 @@ To assist in the production of innovative payment methods (e.g. applications) an
 
 All account information.  
   
- | 
+  | 
 
 Trustwave Holdings Inc. (USA)
 
@@ -1592,19 +1627,19 @@ To provide PCI compliance validation services for merchant accounts and merchant
 
 Business name, address, account number, merchant type, compliance program used, PCI Level, PCI Status, PCI Expiry, name, email address, phone number of merchant’s contact person  
   
- | 
+  | 
 
-Zoot Enterprises, Inc. (USA), Zoot Deutschland GmbH (Germany),  Zoot Enterprises Limited (UK)
-
-| 
-
-To process technical applications and to provide a data and document gateway for account review and vetting purposes, and to exchange user information to contracted fraud and credit reference agencies.
+Zoot Enterprises, Inc. (USA), Zoot Deutschland GmbH (Germany), Zoot Enterprises Limited (UK)
 
 | 
 
-All account information and documents supplied by customers such as proofs of identity and address  
+To process technical applications and to provide a data and document gateway for account review and vetting purposes, and to exchange user information and images of documents proving identity, address and ownership of funding instrument with contracted fraud and credit reference agencies.
+
+| 
+
+All account information and documents supplied by customers such as proofs of identity and address, ownership of a funding instrument, or other documents requested by PayPal and the data contained therein for Risk / Compliance Credit purposes.  
   
- | 
+  | 
 
 RR Donnelley and Sons Company (USA)
 
@@ -1616,7 +1651,7 @@ To provide printing services such as statements and other printed materials
 
 Name, address, email address, and account information  
   
- | 
+  | 
 
 Scorex (UK) Limited (UK)
 
@@ -1628,7 +1663,7 @@ To provide a technology solution to allow PayPal to process, send and receive cr
 
 Name, address, email address, date of birth, length of time at address, phone number, legal form, length of time in business, company registration number, VAT number (if appropriate).  
   
- | 
+  | 
 
 OXID eSales AG (Germany)
 
@@ -1640,7 +1675,7 @@ Services in connection with the development and operation of a payment system fo
 
 All account information and transaction information (as appropriate).  
   
- | 
+  | 
 
 Ordermotion, Inc. (USA)
 
@@ -1652,7 +1687,7 @@ To collect data and create/deliver (direct to customer) orders for the PayPal He
 
 Name, address, email, phone number, credit card information and PayPal Payer ID.  
   
- | 
+  | 
 
 Ingram Micro, Inc. (USA) and Ingram Micro (UK) Limited (UK)
 
@@ -1664,7 +1699,7 @@ To act as PayPal's fulfilment distributor for the PayPal Here product (including
 
 Name and address.  
   
-| 
+  | 
 
 Interxion Datacenters B.V.
 
@@ -1678,7 +1713,7 @@ All relevant account information and transaction information (as appropriate).
   
 **Group companies**  
   
- | 
+  | 
 
 PayPal Inc. (USA)
 
@@ -1690,7 +1725,7 @@ Acting on behalf of PayPal for the purposes of storing and processing of account
 
 All account information.  
   
- | 
+  | 
 
 PayPal Europe Services Limited (Ireland), eBay Europe Services Limited (Ireland), PayPal Malaysia Services Sdn Bhd (Kuala Lumpur), PayPal Israel Ltd (Israel), PayPal India Private Limited (India), PayPal (UK) Ltd (UK), PayPal France S.A.S. (France), PayPal Deutschland GmbH (Germany), PayPal Spain SL (Spain), PayPal Italia Srl (Italy), PayPal Nederland BV (Netherlands), PayPal European Marketing SA (Switzerland), PayPal Polska Sp Zoo (Poland), PayPal Bilisim Hizmetleri Limited Sirketi (Turkey), PayPal International Sarl (Luxembourg) and PayPal SE (UK)
 
@@ -1702,7 +1737,7 @@ Acting on behalf of PayPal for the purpose of customer support, risk assessment,
 
 All account information.  
   
- | 
+  | 
 
 PayPal Pte. Ltd. (Singapore)
 
@@ -1714,9 +1749,9 @@ Acting for the account of PayPal by entering into and performing non-customer co
 
 All account information.  
   
- | 
+  | 
 
-eBay Inc. (USA), eBay Europe S.à r.l. (Luxembourg),eBay Services S. à r.l. (Luxembourg), eBay International AG (Switzerland), eBay Corporate Services GmbH (Germany), eBay France SAS (France), eBay (UK) Limited (UK), eBay CS Vancouver Inc. (Canada), eBay Partner Network Inc. (USA), eBay Internet Support (Shanghai) Co Ltd (China), eBay Enterprise Marketing Solutions (USA) (formerly GSI Commerce, Inc (USA), VendorNet Inc (USA), PepperJam Network (USA), , GSI Media Inc. (USA), M3 Mobile Co., Ltd. (Korea), MBS (USA), ClearSaleing (USA), True Action Network (USA), True Action Studio (USA)),GumTree.com Limited (UK), Kijiji International Limited (Ireland), Kijiji US Inc. (USA), mobile.de & eBay Motors GmbH (Germany), Shopping.com Inc. (USA), Shopping Epinions International Limited (Ireland), PayPal Australia Pty Limited (Australia), Marktplaats B.V. (Netherlands), PayPal Charitable Giving Fund (USA), PayPal Giving Fund UK (UK), Tradera AB (Sweden), StubHub, Inc. (USA), Viva Group, Inc. (USA), StubHub Europe S.à r.l. (Luxembourg), StubHub Services S.à r.l. (Luxembourg), Viva Group, Inc. (USA), ProStores Inc. (USA), MicroPlace, Inc. (USA), Internet Auction Co., Ltd. (Korea), Via-Online GmbH (Germany), Bill Me Later, Inc. (USA), Zong Inc.(USA) and X.commerce, Inc. (USA).
+eBay Inc. (USA), eBay Europe S.à r.l. (Luxembourg),eBay Services S. à r.l. (Luxembourg), eBay International AG (Switzerland), eBay Corporate Services GmbH (Germany), eBay France SAS (France), eBay (UK) Limited (UK), eBay CS Vancouver Inc. (Canada), eBay Partner Network Inc. (USA), eBay Internet Support (Shanghai) Co Ltd (China), eBay Enterprise Marketing Solutions (USA) (formerly GSI Commerce, Inc (USA), VendorNet Inc (USA), PepperJam Network (USA), , GSI Media Inc. (USA), M3 Mobile Co., Ltd. (Korea), MBS (USA), ClearSaleing (USA), True Action Network (USA), True Action Studio (USA)),GumTree.com Limited (UK), Kijiji International Limited (Ireland), Kijiji US Inc. (USA), mobile.de & eBay Motors GmbH (Germany), Shopping.com Inc. (USA), Shopping Epinions International Limited (Ireland), PayPal Australia Pty Limited (Australia), Marktplaats B.V. (Netherlands), PayPal Charitable Giving Fund (USA), PayPal Giving Fund UK (UK), Private Sale GmbH (Germany), Tradera AB (Sweden), StubHub, Inc. (USA), Viva Group, Inc. (USA), StubHub Europe S.à r.l. (Luxembourg), StubHub Services S.à r.l. (Luxembourg), Viva Group, Inc. (USA), ProStores Inc. (USA), MicroPlace, Inc. (USA), Internet Auction Co., Ltd. (Korea), Via-Online GmbH (Germany), Bill Me Later, Inc. (USA), Zong Inc.(USA) and X.commerce, Inc. (USA).
 
 | 
 
@@ -1728,7 +1763,7 @@ All account information.
   
 **Agencies**  
   
- | 
+  | 
 
 CSSF (Luxembourg), CNPD (Luxembourg), Financial Ombudsman Service (UK), Altroconsumo (Italy), European Consumer Centre Network organisations (located in Austria, Belgium, Bulgaria Czech Republic, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the UK), Les Mediateurs du Net (France), Risolvi Online (Italy) and BaFin (Germany)
 
@@ -1780,7 +1815,7 @@ You agree that, with respect to other users' personally identifiable information
 
 In all cases, you must provide users with the opportunity to remove their data from your database and review any information you have collected about them. More generally, you must comply with all applicable privacy regulations, in particular as they relate to the sending of marketing emails.
 
-PayPal does not tolerate spam. We strictly enforce our Anti-Spam Policy. To report PayPal-related spam to PayPal, please [contact us](http://www.paypal.com/uk/ewf/f=pps_spam).
+PayPal does not tolerate spam. We strictly enforce our Anti-Spam Policy. To report PayPal-related spam to PayPal, please [contact us](http://www.paypal.com/gb/ewf/f=pps_spam).
 
 Back to top
 
@@ -1788,10 +1823,9 @@ Back to top
 
 PayPal is committed to handling your customer information with high standards of information security. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorise access to personal information only for those employees who require it to fulfil their job responsibilities.
 
-For more information on PayPal's security practices, please see our [Safety Advice](http://www.paypal.com/cgi-bin/webscr?cmd=_security-center-outside).
+For more information on PayPal's security practices, please see our [Safety Advice](https://www.paypal.com/gb/webapps/mpp/paypal-safety-and-security).
 
-The security of your PayPal account also relies on your protection of your PayPal password. You may not share your PayPal password with anyone. PayPal representatives will never ask you for your password, so any email or other communication requesting your password should be treated as unauthorised and suspicious and forwarded to [spoof@paypal.com](mailto:spoof@paypal.com). If you do share your PayPal password with a third party for any reason, including because the third party has promised to provide you additional services such as account aggregation, the third party will have access to your account and your personal information, and you may be responsible for actions taken using your password. If you believe someone else has obtained access to your password, please change it immediately by logging in to your account and changing your Profile settings, and also [contact us](https://www.paypal.com/ewf/f=ci_prv) right away.  
-
+The security of your PayPal account also relies on your protection of your PayPal password. You may not share your PayPal password with anyone. PayPal representatives will never ask you for your password, so any email or other communication requesting your password should be treated as unauthorised and suspicious and forwarded to [spoof@paypal.com](mailto:spoof@paypal.com). If you do share your PayPal password with a third party for any reason, including because the third party has promised to provide you additional services such as account aggregation, the third party will have access to your account and your personal information, and you may be responsible for actions taken using your password. If you believe someone else has obtained access to your password, please change it immediately by logging in to your account and changing your Profile settings, and also [contact us](https://www.paypal.com/ewf/f=ci_prv) right away.
 
 Back to top
 
@@ -1811,7 +1845,9 @@ Back to top
 
 * PayPal Here is PayPal POS Functionality within the PayPal Mobile App (as defined in our User Agreement) that enables a User to pay another User (typically a merchant) or anybody to make a direct card payment to that merchant, in each case for goods and services at a physical point of sale (for example, in store). 
 
-**A GUIDE TO THE USE OF YOUR PERSONAL DATA BY PAYPAL (EUROPE) S.À.R.L. ET CIE, S.C.A. AND CREDIT REFERENCE AGENCIES** **SECTION 1: GENERAL INFORMATION ON OUR USE OF CREDIT REFERENCE AGENCIES**
+**A GUIDE TO THE USE OF YOUR PERSONAL DATA BY PAYPAL (EUROPE) S.À.R.L. ET CIE, S.C.A. AND CREDIT REFERENCE AGENCIES**
+
+**SECTION 1: GENERAL INFORMATION ON OUR USE OF CREDIT REFERENCE AGENCIES**
 
 **Q: What is a credit reference agency?**
 
@@ -1854,7 +1890,7 @@ A: No, access to your information is very strictly controlled and only those tha
 
   1. **When you apply to us for Website Payments Pro or PayPal Here we may:**
     1. Check our own records for information on your PayPal account(s).
-    2. Search at credit reference agencies for:
+    2. Search at credit reference agencies for: 
       1. public data on your credit behaviour;
       2. information on the conduct of your personal credit accounts if you are proprietors of a small business; and 
       3. information on your business accounts.
@@ -1911,7 +1947,9 @@ A: No, access to your information is very strictly controlled and only those tha
 
 
 
-**How to Find Out More** You can contact credit reference agencies currently operating in the UK (the main ones are listed below). The information they hold may not be the same so it is worth contacting them all. They will charge a small statutory fee.
+**How to Find Out More**
+
+You can contact credit reference agencies currently operating in the UK (the main ones are listed below). The information they hold may not be the same so it is worth contacting them all. They will charge a small statutory fee.
 
 **CallCredit Ltd.** , Consumer Services Team, PO Box 491, Leeds, LS3 1WZ  
 0870 0601 414 (UK)  
