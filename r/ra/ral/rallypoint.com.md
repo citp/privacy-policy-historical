@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rallypoint.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213035249id_/https%3A//www.rallypoint.com/static_pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rallypoint.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316223809id_/https%3A//www.rallypoint.com/static_pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -83,3 +83,12 @@ _Children:_   RallyPoint does not knowingly collect or maintain personally iden
 _Website Visitors from outside the United States_ :  RallyPoint and its servers are located in the United States and are subject to the applicable state and federal laws of the United States.  If you choose to access or use the Website, you consent to the use and disclosure of information in accordance with this privacy policy and subject to such laws.
 
 _Effective Date of this policy_ : May 22nd, 2014
+
+Military members and veterans value their privacy. Confirm your service on the next page for free, permanent access.
+
+### We will never:
+
+  * Contact any of your friends without your permission
+  * Modify your profile in any way
+
+
