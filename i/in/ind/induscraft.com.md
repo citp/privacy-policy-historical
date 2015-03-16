@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the induscraft.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210110211id_/http%3A//www.induscraft.com/information-information-info-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the induscraft.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316094908id_/http%3A//www.induscraft.com/information-information-info-3) for the most accurate reproduction.*
 
 # Privacy Policy
 
