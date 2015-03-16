@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motifinvesting.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915072447id_/https%3A//www.motifinvesting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motifinvesting.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316063707id_/https%3A//www.motifinvesting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motif Investing
 
@@ -24,7 +24,7 @@ Motif Investing respects the confidentiality of our customers' non-public, perso
 
 #### Motif Investing As Introducing Broker
 
-Motif Investing, acting as an introducing broker to its clearing broker Apex Clearing Corporation, carries the responsibilities for custody of your assets and transacting on your behalf. Information about Apex's role is available in our Customer Agreement. In addition, Apex makes available its own Privacy Statement on the Motif Investing website, which you should review.
+Motif Investing, acting as an introducing broker to its clearing broker Pershing LLC, carries the responsibilities for custody of your assets and transacting on your behalf. Information about Pershing's role is available in our Customer Agreement. In addition, Pershing makes available its own Privacy Statement on the Motif Investing website, which you should review.
 
 #### Personal Information
 
@@ -62,7 +62,7 @@ We use cookies on the website and we link the information we store in cookies to
 
 #### Third Party Cookies
 
-The use of cookies by our marketing affiliates and tracking utility service providers is not covered by our privacy statement. Our affiliates and service providers use session ID cookies to make it easier for you to navigate our site. They do not have access to the personal information you have provided.
+The use of cookies by our marketing affiliates and tracking utility service providers is not covered by our privacy statement. Our affiliates and service providers use session ID cookies to make it easier for you to navigate our site. They do not have access to the personal information you have provided to us.
 
 #### Clear Gifs (Web Beacons/Web Bugs)
 
