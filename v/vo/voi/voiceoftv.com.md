@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the voiceoftv.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730044439id_/https%3A//www.voiceoftv.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiceoftv.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316171727id_/https%3A//www.voiceoftv.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VOICE OF TV
+# Privacy Policy | VOICE OF TV – Discover, Watch, Voice!
 
 **1\. Introduction**  
 Thank you for visiting Voice of TV’s official website. This Privacy Policy is written to better explain how we collect and use your information. This Privacy Policy is a binding contract and you must agree to it to the same extent as our Terms of Service in order to use our services.  
 **  
 2\. Personal Information We Collect**  
-In order for you to register with us, you must, at the minimum, provide us your name, e-mail address, and date of birth. We will not disclose any information that you provide to us except in accordance with the provisions of this Privacy Policy.
-
-**3\. Non-Personal Information We Collect**  
+In order for you to register with us, you must, at the minimum, provide us your name, e-mail address, and date of birth. We will not disclose any information that you provide to us except in accordance with the provisions of this Privacy Policy. **3\. Non-Personal Information We Collect**  
 We may collect information about you that is not personal information. When you access our website, we may collect such things as your IP address, browser, operating system, referring URL, and other general information about our visitors. This information, on its own, cannot usually be used to identify you.
 
 **4\. Use of Information**  
@@ -16,7 +14,7 @@ We may use your information:
 
   * To enhance or improve user experience, our website, or service.
   * To send e-mails about our site or respond to inquiries.
-  * To send e-mails about VoiceofTV.com and other products, news, or updates related to VoiceofTV.com or G-Projects V.O.F.
+  * To send e-mails about VoiceofTV.com and other products, news, or updates related to VoiceofTV.com or 99DRONES B.V.
 
 
 
