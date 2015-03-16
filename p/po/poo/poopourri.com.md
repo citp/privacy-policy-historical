@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poopourri.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630202724id_/http%3A//www.poopourri.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poopourri.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316220145id_/http%3A//www.poopourri.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Poo~Pourri
 
@@ -39,3 +39,19 @@ Persons who supply us with their telephone numbers on-line may receive telephone
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address, calling us at the above telephone number.
+
+Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them .
+
+Consumers can access this information by e-mail us at the above address, write to us at the above address.
+
+Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number.
+
+With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server that has an SSL certificate using at least 128-bit encryption. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+California Privacy Rights: For the purpose of California Civil Code §1898.83, we have disclosed our Privacy Policy above and provided users of the Site with a cost-free option to opt-out of our use of your Personal Information by third parties for marketing purposes.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
