@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myprepaidcenter.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701162421id_/https%3A//www.myprepaidcenter.com/site/login/standard/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprepaidcenter.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316121631id_/https%3A//www.myprepaidcenter.com/site/login/standard/privacy) for the most accurate reproduction.*
 
 # Privacy | Login
 
@@ -51,7 +51,7 @@ To inquire or change your preference information, contact us at the following:
 
 · Discover: 888-842-0336 (U.S.); 801-744-9918 (outside U.S.)
 
-· MasterCard: 888-371-2109 (U.S.); 339-234-6415 (outside U.S.)
+· MasterCard: 888-371-2109 (U.S. and Canada); 339-234-6415 (outside U.S. and Canada)
 
 · Visa: 877-610-1075 (U.S. and Canada); 801-214-8892 (outside U.S. and Canada)
 
