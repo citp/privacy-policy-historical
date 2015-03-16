@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collectoffers.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703003655id_/http%3A//us.collectoffers.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectoffers.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316152153id_/http%3A//www.collectoffers.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Collect Offers- Privacy
 
-##  Privacy & Cookies 
+## Privacy & Cookies 
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
