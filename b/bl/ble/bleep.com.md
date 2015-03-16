@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bleep.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018142657id_/https%3A//bleep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleep.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316171806id_/https%3A//bleep.com/privacy-policy) for the most accurate reproduction.*
 
-# Bleep.com - Privacy Policy
+# Bleep - Privacy Policy
 
 ### Our Policy
 
