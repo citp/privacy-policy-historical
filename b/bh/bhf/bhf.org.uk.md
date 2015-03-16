@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007213643id_/http%3A//www.bhf.org.uk/privacy-statement.aspx%3Fsc_id%3DFrontNAV-Footer-Privacy%2520Policy%26utm_source%3DFrontNAV-Footer-Privacy%2520Policy%26utm_medium%3DFrontNAV-Footer-Privacy%2520Policy%26utm_campaign%3DFrontNAV-Footer-Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316035131id_/https%3A//www.bhf.org.uk/utilities/our-privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# British Heart Foundation - Privacy and cookies policy
+# Our privacy and cookies policy - Utilities - British Heart Foundation
 
 ## What this privacy and cookie policy covers
 
 BHF is committed to protecting your personal information, whether you are a donor, volunteer, shopper or campaigner. This policy explains how the British Heart Foundation and all entities in the British Heart Foundation (BHF) Group collects and uses the personal information you provide to us, whether online, via phone, email, in letters or in any other correspondence. In some of the other ways that we interact with you, additional terms and conditions may also apply that set out additional ways in which we will use your personal information. We ensure that we use your information in accordance with all applicable laws concerning data protection of personal information. This policy explains:
 
-  * What information the BHF may collect about you;
-  * How we will use that information;
-  * Whether we disclose your details to anyone else;
-  * Your choices regarding the information you provide to us; and
-  * How we use cookies to provide services to you or to improve your use of our websites.
+  * What information the BHF may collect about you; 
+  * How we will use that information; 
+  * Whether we disclose your details to anyone else; 
+  * Your choices regarding the information you provide to us; and 
+  * How we use cookies to provide services to you or to improve your use of our websites. 
 
 
 
@@ -38,17 +38,17 @@ All BHF websites use cookies to help our websites work well and to track informa
 
 In addition, if you register on our website then the following will also apply:
 
-  * All BHF websites collect personal information when you register with us.
-  * The website you sign up to will collect information such as your name, email address and post code. Once you register with that website you will not be anonymous to us when you subsequently sign in.
-  * As part of the registration process and continued use of BHF services, you agree that any registration information you give to BHF will always be accurate, correct and up to date.
-  * We collect and retain information about your transactions with us so that we can process your transactions and deal with future queries.
-  * Through the use of cookies, we will receive information from your computer such as your IP address (the unique number that identifies your computer when you use the internet) and we may record this information to provide you with a good experience when browsing our website or to improve the functionality of our site.
+  * All BHF websites collect personal information when you register with us. 
+  * The website you sign up to will collect information such as your name, email address and post code. Once you register with that website you will not be anonymous to us when you subsequently sign in. 
+  * As part of the registration process and continued use of BHF services, you agree that any registration information you give to BHF will always be accurate, correct and up to date. 
+  * We collect and retain information about your transactions with us so that we can process your transactions and deal with future queries. 
+  * Through the use of cookies, we will receive information from your computer such as your IP address (the unique number that identifies your computer when you use the internet) and we may record this information to provide you with a good experience when browsing our website or to improve the functionality of our site. 
 
 
 
 ## Your debit and credit card information
 
-If you use your credit or debit card to donate to us, buy something or pay for a registration online or over the phone, we will ensure that this is done securely and in accordance with the Payment Card Industry Data Security Standard. Find out more information about [ PCI DSS standards](https://www.pcisecuritystandards.org/security_standards/index.php "This link opens in a new window.").
+If you use your credit or debit card to donate to us, buy something or pay for a registration online or over the phone, we will ensure that this is done securely and in accordance with the Payment Card Industry Data Security Standard. Find out more information about [PCI DSS standards](https://www.pcisecuritystandards.org/security_standards/index.php "This link opens in a new window.").
 
 ## Job applicants
 
@@ -60,20 +60,20 @@ If you are unsuccessful in your job application, we may hold your personal infor
 
 We may use your information for a number of purposes including the following:
 
-  * To provide you with the services, products or information you have requested or which we feel may interest you where you have consented to being contacted;
-  * To process donations we may receive from you;
-  * To fundraise;
-  * To create an account for you if you register with us;
-  * To provide you with information about our work or our activities that you have agreed to receive;
-  * To fulfil sales contracts you have entered into with us as part of our shops;
-  * To invite you to participate in interactive features on our website when you choose to do so;
-  * For administration purposes (for example we may contact you regarding a donation you have made or the event you have registered for);
-  * For internal record keeping, including the management of any feedback or complaints;
-  * To invite you to participate in surveys or research (although this is voluntary);
-  * To use IP addresses to identify your approximate location, to block disruptive use, to record website traffic or to personalise the way our information is presented to you;
-  * To analyse and improve the services offered on our sites to make it as user-friendly as possible;
-  * Where it is required or authorised by law; and
-  * We may assess your personal information for the purposes of credit risk reduction or fraud prevention.
+  * To provide you with the services, products or information you have requested or which we feel may interest you where you have consented to being contacted; 
+  * To process donations we may receive from you; 
+  * To fundraise; 
+  * To create an account for you if you register with us; 
+  * To provide you with information about our work or our activities that you have agreed to receive; 
+  * To fulfil sales contracts you have entered into with us as part of our shops; 
+  * To invite you to participate in interactive features on our website when you choose to do so; 
+  * For administration purposes (for example we may contact you regarding a donation you have made or the event you have registered for); 
+  * For internal record keeping, including the management of any feedback or complaints; 
+  * To invite you to participate in surveys or research (although this is voluntary); 
+  * To use IP addresses to identify your approximate location, to block disruptive use, to record website traffic or to personalise the way our information is presented to you; 
+  * To analyse and improve the services offered on our sites to make it as user-friendly as possible; 
+  * Where it is required or authorised by law; and 
+  * We may assess your personal information for the purposes of credit risk reduction or fraud prevention. 
 
 
 
@@ -101,7 +101,7 @@ We may disclose your personal information to third parties if we are under a dut
 
 If you contact our nurses, dieticians or advisors on our Heart Helpline, you may choose to provide details of a personal nature. Only the Heart Helpline nurses will use your personal information and only for the purposes of responding to your enquiry. They will not pass your details on to anyone else without your express permission except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Your personal information and details of your enquiry will be recorded for quality and monitoring purposes and stored on a secure database. If for any reason you want your details removed from these records, please contact the Heart Helpline on 0300 330 3311.
 
-## Under 18’s
+## Under 18's
 
 We are committed to protecting the privacy of the young people that engage with us through our prevention, survival and support services for young people on our website, at events and at schools.
 
@@ -126,19 +126,19 @@ We use different types of cookies to help our websites work well. A cookie is a 
 The main categories of cookies that we use are:
 
 **1\. Cookies that are necessary to run the site  
-** Our sites use some cookies which are essential to keeping the site working and provide the services you need. These include cookies that enable you to:
+**Our sites use some cookies which are essential to keeping the site working and provide the services you need. These include cookies that enable you to:
 
-  * stay logged in for an entire visit to the site, or
-  * add things to a shopping basket and keep them there until you decide to check out.
+  * stay logged in for an entire visit to the site, or 
+  * add things to a shopping basket and keep them there until you decide to check out. 
 
 
 
 **2\. Cookies which help us improve the site**  
 We use cookies to help us see how people are using our sites. These are known as ‘analytics cookies’, ‘tracking cookies’ or ‘web beacons’. We use analytics cookies:
 
-  * to see what website content is popular and how people are using the site as they allow us to track users movement through our websites.  This type of information is amalgamated so that we can build up a picture of how the site is performing.
+  * to see what website content is popular and how people are using the site as they allow us to track users movement through our websites.  This type of information is amalgamated so that we can build up a picture of how the site is performing. 
   * to make sure we offer you a consistent service. For example, if we are testing new website content or we want to run a survey, we use cookies to remember what content you have seen or if you have already been asked to join the survey.  
-In addition, when we email you, we may place a tiny tag (also known as ‘tracking pixel’ or ‘web beacon’) on the email we send out. These do not collect any personal information, but they let us know how many people are opening and reading our emails so that we can choose more popular content.
+In addition, when we email you, we may place a tiny tag (also known as ‘tracking pixel’ or ‘web beacon’) on the email we send out. These do not collect any personal information, but they let us know how many people are opening and reading our emails so that we can choose more popular content. 
 
 
 
@@ -159,8 +159,8 @@ For further information, please go to [AboutCookies.org](http://www.aboutcookies
 
 We use analytic cookies from two providers – Google Analytics and Adobe Sitecatalyst. You can control our use of either or both of these by clicking on the following links. Please note that if you prevent the use of cookies using either of these systems, you will no longer be included in any tracking data from those tools across all sites (not just BHF websites).
 
-  * Google Analytics
-  * Adobe Sitecatalyst
+  * Google Analytics 
+  * Adobe Sitecatalyst 
 
 
 
@@ -168,19 +168,19 @@ You can control the use and placing of any cookies on your computer through the 
 
 PC or Mac browsers
 
-  * Chrome
-  * Firefox
-  * Internet Explorer
-  * Safari OSX
+  * Chrome 
+  * Firefox 
+  * Internet Explorer 
+  * Safari OSX 
 
 
 
 Mobile browsers
 
-  * Safari iOS
-  * Android
-  * Blackberry
-  * Windows Phone
+  * Safari iOS 
+  * Android 
+  * Blackberry 
+  * Windows Phone 
 
 
 
