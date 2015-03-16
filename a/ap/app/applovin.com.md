@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applovin.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628134728id_/https%3A//www.applovin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applovin.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316150648id_/https%3A//www.applovin.com/privacy) for the most accurate reproduction.*
 
 # AppLovin - Privacy
 
@@ -68,16 +68,6 @@ The SDK may collect and transfer non-sensitive device information as raw data, s
   * Android ID;
   * Internet browser used to access the Services; and
   * Identifier for advertisers (IDFA).
-
-
-
-You can enable or disable geolocation services when you use our services at anytime, through your mobile device settings (though the modalities may vary depending on the specific mobile device you are using).
-
-### Hashed Data.
-
-We may also collect device information that AppLovin views as being particularly sensitive. Because we understand the importance of protecting consumer privacy, we are committed to storing the following device information as hashed data to help prevent its unauthorized disclosure or use:
-
-  * Names of the mobile applications downloaded on the Consumer’s device.
 
 
 
