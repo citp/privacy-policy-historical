@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvraudio.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103184549id_/http%3A//www.kvraudio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvraudio.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316135100id_/http%3A//www.kvraudio.com/privacy.php) for the most accurate reproduction.*
 
 # KVR:
 
