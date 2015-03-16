@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pushwoosh.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709032718id_/http%3A//www.pushwoosh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushwoosh.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316161243id_/https%3A//www.pushwoosh.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pushwoosh
+# Privacy Policy - Pushwoosh
 
 PUSHWOOSH PRIVACY POLICY
 
@@ -55,3 +55,5 @@ If you have any questions about this Privacy Policy, please contact us at [priv
 Updated: June, 2011
 
 This Privacy Policy may be changed at any time, with or without notice to you. Please check this Privacy Policy periodically for any amendments or changes.
+
+Pushwoosh https://www.pushwoosh.com/wp-content/themes/pushwoosh/img/logo.png support@pushwoosh.com
