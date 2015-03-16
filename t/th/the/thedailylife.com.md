@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedailylife.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024040id_/http%3A//www.thedailylife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailylife.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316192227id_/http%3A//www.thedailylife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheDailyLife.com
+# Privacy Policy - TheDailyLife.com
 
 LATEST REVISION: June 4, 2014
 
@@ -78,7 +78,7 @@ California law permits California residents who provide personal information in 
 
 Please do not hesitate to contact us with any questions or requests you have regarding our services or this Privacy Statement. We can be reached as follows:  
 The Daily Life  
-382 NE 191st St # 54390  
+382 NE 191st St #85128  
 Miami, FL 33179-3899  
 (786) 475-6587  
 privacy@thedailylife.com
