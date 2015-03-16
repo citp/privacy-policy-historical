@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baby-markt.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707220152id_/http%3A//www.baby-markt.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baby-markt.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316151106id_/http%3A//www.baby-markt.com/en/Privacy-Policy) for the most accurate reproduction.*
 
 # BABY MARKT Online-Shop | Privacy Policy | purchase online
 
@@ -125,7 +125,7 @@ According to the Federal Data Protection Act, you are entitled to information re
 
 Users are asked to address any queries regarding actuality, correction or deletion of their personal data, as well as all requests for information relating to their personal data to: 
 
-_[privacy@babymarkt.com](https://web.archive.org/web/20140707220152id_/http://www.baby-markt.com/en/Privacy-Policy/privacy@babymarkt.com)_
+_[privacy@babymarkt.com](https://web.archive.org/web/20150316151106id_/http://www.baby-markt.com/en/Privacy-Policy/privacy@babymarkt.com)_
 
 The responsible party as defined by the Federal Data Protection Act is babymarkt.de GmbH, Wulfshofstraße 22, 44149 Dortmund. 
 
