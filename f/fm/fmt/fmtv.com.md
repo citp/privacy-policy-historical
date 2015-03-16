@@ -1,133 +1,43 @@
-> *The following text is extracted and transformed from the fmtv.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619034710id_/http%3A//www.ddc.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmtv.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316220343id_/https%3A//www.fmtv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement for Domain Development Corporation
+# | FMTV
 
-## About Us
+FMTV.com (Food Matters TV Pty Ltd) strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party.
 
-This is a privacy policy for Domain Development Corporation. Our homepage on the Web is located at [ http://www.ddc.com](http://www.ddc.com/). The full text of our privacy policy is available on the Web at [ http://ddc.com/w3c/policy.html](http://ddc.com/w3c/policy.html). DDC allows Magnetic to monitor DDC affiliated sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such Magnetic may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about DDC users. For further information about Magnetic's search re-targeting product, Magnetic's homepage on the Web is located at [http://www.magnetic.is](http://privacy.magnetic.is/). The full text of Magnetic's privacy policy is available on the Web at [http://privacy.magnetic.is](http://privacy.magnetic.is/). Magnetic may allow third parties to monitor Magnetic associated sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Magnetic users. Users may go to <http://domdex.com/i> for information on what is being tracked. Users may go to <http://privacy.magnetic.is/w3c/optout.html> for information on how to opt-in or opt-out of use of their information by Magnetic and may go to <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out of most third party tracking. 
+### How we gather information from users
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    28636 Roadside Drive
-    Suite 150
-    Agoura Hills, CA 91301 
-    USA
-    
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, FMTV.com (Food Matters TV Pty Ltd) also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. 
 
-You may contact us by e-mail at [ support@ddc.com](mailto:support@ddc.com). You may call us at 800-332-8000. 
+We use Google Analytics to analyze the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google's privacy policy is available at:<http://www.google.com/privacypolicy.html>.  Google uses cookies to track your behavior across the web using cookies, to help determine our audience's interests, demographics and location. 
 
-## Dispute Resolution and Privacy Seals
+As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
 
-We have no privacy seals or other assurance mechanisms. 
+### What we do with the information we collect
 
-## Additional Information
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
 
-This policy is valid until 1 Jan, 2010 at 12:00:00 PST. 
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
 
-## Data Collection
+We may use Personally Identifiable Information collected on www.FMTV.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.FMTV.com and other topics we think you might find of interest.
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
+Personally Identifiable Information collected by FMTV.com (Food Matters TV Pty Ltd) may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
 
-* * *
+### Affiliated sites, linked sites and advertisements
 
-### Group "Basic information"
+FMTV.com (Food Matters TV Pty Ltd) expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.FMTV.com page, certain content that is actually created or hosted by a third party. Also, through FMTV.com (Food Matters TV Pty Ltd) you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
-We collect the following information: 
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. FMTV.com (Food Matters TV Pty Ltd) does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of FMTV.com (Food Matters TV Pty Ltd) and this policy.
 
+### Children
 
+FMTV.com (Food Matters TV Pty Ltd) does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe FMTV.com (Food Matters TV Pty Ltd) has any information from or about anyone under 13, please [contact us](https://web.archive.org/contact-us).
 
-This data will be used for the following purposes:
+### Contacting Us
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+We can be reached by using our [contact us](https://web.archive.org/contact-us) form
 
+### Changes to this Policy
 
-
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> Data collected from all Web users: access logs, and search strings (if entered).
-
-* * *
-
-### Group "Cookies"
-
-At the user's option, we will collect the following data: 
-
-  * HTTP cookies
-
-
-
-This data will be used for the following purposes:
-
-  * Targetting advertisements
-  * Research and development.
-  * One-time tailoring.
-
-
-
-This data will be used by ourselves and our agents. Domdex may allow third parties to monitor our data for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. 
-
-The following explanation is provided for why this data is collected:
-
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you and tailor advertisements served on our partner websites.
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * User targeting 
-  * Research and development 
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="ALL CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`ALL` |  Access to all collected information is available.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`OUR` |  The data is given to ourselves and our agents.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`UNI` |  Unique identifiers are collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+FMTV.com (Food Matters TV Pty Ltd) reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
