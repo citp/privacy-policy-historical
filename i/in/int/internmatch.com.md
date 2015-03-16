@@ -1,30 +1,20 @@
-> *The following text is extracted and transformed from the internmatch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625220502id_/http%3A//www.internmatch.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internmatch.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317005155id_/https%3A//www.internmatch.com/home/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | InternMatch
-
-### InternMatch Privacy Policy
-
-* * *
+# Privacy Policy | Looksharp
 
 Since its inception, InternMatch, LLC (“InternMatch” or “We” or “Us”) has valued its users privacy and is committed to maintaining andupholding the privacy of our users’ personal information. This Privacy Policy (the “Policy”) describes the ways we collect, store, use and manage the information, including personal information, that you provide or we collect in connection withInternMatch.com site or any other website or apps offered by InternMatch (collectively, the “Sites”). Each time you visit the Site or provide us with information, you are, by doing so, accepting the practices described in this Policy at that time. 
 
 This Policy only applies to online data collection and usage policies and practices that apply to the Sites. It does not apply to information we collect in any other fashion. In addition, we may make content or services from other websites available to you from links located on the Sites. The other websites are not subject to this Policy and we do not control these third parties and are not responsible for their use of information you post or otherwise make available. We recommend you review their privacy policies and post information accordingly. 
 
-By clicking the “Accept” button during registration or by using any of our Sites, you agree that you have read, understand, and are bound by this Policy. and you agree to the InternMatch Terms of Service located at [ http://www.internmatch.com/home/terms_of_service. ](http://www.internmatch.com/home/terms_of_service)
+By clicking the “Accept” button during registration or by using any of our Sites, you agree that you have read, understand, and are bound by this Policy. and you agree to the InternMatch Terms of Service located at [ https://www.internmatch.com/home/terms_of_service. ](https://www.internmatch.com/home/terms_of_service)
 
 IF YOU DO NOT CONSENT TO THE COLLECTION, USE, AND DISCLOSURE OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS POLICY, PLEASE DO NOT USE THE SERVICE. 
-
-####  Information We Collect 
-
-* * *
 
 You can visit the Sites without revealing any information about yourself. However, in certain sections of this Site, or to use certain services, we may require you to create an account or provide you the right to post your resume on the Sites. Such instances may include(i) when you register for the Sites, (ii) when you complete or edit your profile, (iii) when you use or register for certain products and services that we make available, (iv) when you respond to surveys or questionnaires, or (v) when you enter or sign up for promotions or contests. Due to the nature of some of these activities, we may ask that you complete and submit an online form with personally identifiable information such as your name, username, email address, and contact information. 
 
 We also collect information about how you use the Sites and the areas of the Sites that you visit. Site analytics data is used to troubleshoot the Sites and improve services. 
 
 Finally, we may ask you for other information from time to time, which you may choose to provide or not to provide at your sole discretion including career related questions, the quality of our service, or other relevant data. 
-
-####  How We Collect Information 
 
 ## Information Automatically Collected
 
@@ -41,10 +31,6 @@ You may connect your InternMatch user account to your Facebook account, LinkedIn
 ## Invite a Friend
 
 We may offer you the opportunity to invite your contacts from a Social Media Service (such as your Facebook friends) to join the Sites. Such contact information will be used only for the purpose of sending communications to the addressee. You or the third party may contact us to request the removal of this information from our database to the extent we store any of this information. 
-
-####  How We Use Information We Collect 
-
-* * *
 
 Except as described in this Policy, we do not disclose, display or share your personal information to or with third parties without your permission. In general, InternMatch uses personal information it collects to pursue our mission and operations, including the management of the Sites and to engage in related activities. We reserve the right, but do not undertake a duty, to notify you of court orders, subpoenas or other legal process if allowed. If you do not want us to respond to legal process compelling us to disclose your information, you need to seek a valid order permitting us to refuse to disclose it and serve the order on us at least three (3) business days before the response deadline. 
 
@@ -77,15 +63,7 @@ From time to time, we may also disclose personally identifiable information to f
 
 You should be aware that by voluntarily displaying or distributing personal information (such as your e-mail address) to others (whether in chat rooms, message boards or discussion forums, by posting internships, responding to employers’ message or otherwise), your information can be collected and used by others. This may result in unsolicited messages from third parties, for which we are not responsible. 
 
-####  Updating Account Information 
-
-* * *
-
 At any time you may access your personally identifiable information that we collect and maintain on the Sites by visiting your Dashboard and the Settings tab after logging into your account. From here you can review, correct, or delete your personal information at any time. 
-
-####  Cookies 
-
-* * *
 
 ## Cookies
 
@@ -95,33 +73,15 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You can one turn off or delete cookies in your browser settings; however, this may affect your use of the Sites. 
 
-####  Privacy Policy Incorporated in Terms of Service 
-
 Your use of the Sites is governed by the InternMatch Terms of Service (“Terms”), available at [INSERT URL] . The Terms contain important provisions, including provisions disclaiming, limiting, or excluding the liability of InternMatch for your use of the Sites and provisions determining the applicable law and exclusive jurisdiction for the resolution of any disputes regarding your use of the Sites. Each of those provisions applies to any disputes that may arise in relation to this Policy and the collection, use and disclosure of your personal information and are of the same force and effect as if they had been reproduced directly in this Policy. 
-
-####  Data Security 
-
-* * *
 
 Keeping secure the personal information that we collect is of great concern to us. We exercise care in providing secure transmission of your information from your computer to our servers in connection with the Sites. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.InternMatch will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. 
 
 InternMatch will store all the personal information you provide on its secure servers. While InternMatch has mechanisms in place to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. 
 
-####  Phishing 
-
-* * *
-
 Identity theft and the practice known as "phishing" are of great concern to InternMatch. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. 
 
-####  Children 
-
-* * *
-
 The Sites are not intended for use by children under the age of 18. We do not knowingly collect personally identifiable information from children under 13 as permitted by law. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at InternMatch (425 2nd St. Suite 201, San Francisco, CA 94107) or [info@internmatch.com.](mailto:info@internmatch.com) We will then make reasonable efforts to delete the child's information from our records. 
-
-####  Your California Rights 
-
-* * *
 
 The following section of this Policy is only applicable to InternMatch users who are also residents of California. 
 
@@ -133,15 +93,7 @@ As stated above, we do not share information with third parties for their direct
 
 California customers may request further information about our compliance with this law by e-mailing [info@internmatch.com](mailto:info@internmatch.com) . Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address. 
 
-####  Privacy Policy Changes 
-
-* * *
-
 InternMatch may update this Policy by posting a new version on this website. You should check this page frequently to ensure you are familiar with any changes to this Policy. We reserve the right to change, amend, or modify this Policy at any time by posting the revised Policy on this site. Information will be handled according to the Policy in effect at the time the information is used. Your continued use of the Sites following the posting of changes to this Policy will mean you accept those changes. If you do not intend to accept this Policy, please do not use the Sites. 
-
-####  Contact Information 
-
-* * *
 
 If you have any questions or concerns regarding this Privacy Policy or privacy issues relating to the Sites, you may contact us at: 
 
@@ -153,5 +105,3 @@ San Francisco, CA 94107
 **or**
 
 [info@internmatch.com](mailto:info@internmatch.com)
-
-| 
