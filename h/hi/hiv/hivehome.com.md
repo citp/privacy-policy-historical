@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hivehome.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916153325id_/https%3A//www.hivehome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hivehome.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316093804id_/https%3A//www.hivehome.com/privacy) for the most accurate reproduction.*
 
-# Hive Active Heating | HIVE
+# Privacy
 
-## How we store, protect and use information you give us
+## Privacy Policy
+
+### How we store, protect and use information you give us
 
 This privacy policy applies to all personal information we hold about individuals, sole traders and partnerships. It doesn’t apply to information we hold about companies and other organisations.
 
@@ -47,7 +49,7 @@ When we contact you, we may use any information we hold about you to do so. So w
 
 3.2 From time to time these other people or organisations maybe outside the European Economic Area (EEA), and as a result we may pass your information to countries that do not have the same standards or protection for personal information as the UK.
 
-3.3 If you give us information on behalf of someone else, you confirm you have given them the information set out in this document, and that they have given permission for us to use their personal information in the way we have described in clause 10. If you give us sensitive information about yourself or other people (such as health details or details of any criminal convictions of members of your household), you agree (and confirm that the person the information is about has agreed) that we can use this information in the way set out in this document.
+3.3 If you give us information on behalf of someone else, you confirm you have given them the information set out in this document, and that they have given permission for us to use their personal information in the way we have described in clause 10. If you give us sensitive information about yourself or other people (such as health details or details of any criminal convictions of members of your household), you agree (and confirm that the person the information is about has agreed) that we can use this information in the way set out in this document.
 
 3.4 You are entitled to have a copy of the information we hold on you and to have any inaccurate information corrected. We may charge a small fee for providing a copy of any information we hold about you. For more information about this please contact our Privacy Unit at Lakeside West, 30 The Causeway, Staines, TW18 3BY. Or you can email [CentricaDataProtection@centrica.com](mailto:CentricaDataProtection@centrica.com)
 
@@ -67,7 +69,7 @@ If you do not want us to use cookies in your browser, you can set your browser t
 
 ### 6\. Cookies
 
-We use 'cookies' on our site. Visit [cookie policy](https://web.archive.org/cookies) to find out more and manage cookies.
+We use 'cookies' on our site. Visit cookie policy to find out more and manage cookies.
 
 ### 7\. Links
 
