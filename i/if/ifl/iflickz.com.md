@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iflickz.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031143443id_/http%3A//www.iflickz.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iflickz.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316181935id_/http%3A//www.iflickz.com/about) for the most accurate reproduction.*
 
 # Privacy - iFlickz
 
@@ -26,7 +26,7 @@ We work with various third party advertising networks. These ads may contain coo
 
 **External Links**
 
-This site contains links to other sites. iFlickz.com is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. iFlickz.com is not responsible for the privacy practices or the content of such Web sites. We do link to other web sites which might support downloads. We are not responsible for the downloadable materials that are present in these websites. We are also not responsible for the legalities and privacy policy binding the downloadable materials of these websites.
 
 **Security**
 
@@ -34,4 +34,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **Contact Us**
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this Web Site, you can contact us at any point of time.
+If you have any questions about this privacy statement, the practices of this site or your dealings with this Web Site, you can contact us at contact@iflickz.com
