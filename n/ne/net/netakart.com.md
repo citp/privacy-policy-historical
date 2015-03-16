@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netakart.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228035327id_/http%3A//www.netakart.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netakart.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316032504id_/http%3A//www.netakart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Netakart.com
 
