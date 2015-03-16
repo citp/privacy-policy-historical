@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921172651id_/http%3A//www.sportsinsights.com/company/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317002733id_/https%3A//www.sportsinsights.com/company/privacy-statement) for the most accurate reproduction.*
 
 # Sports Insights Privacy Policy
 
@@ -48,7 +48,7 @@ Sports Insights may also collect personal information from individuals (with the
 
 **Use of Your Personal Information:   **
 
-****Sports Insights collects and uses your personal information to operate and improve its sites and deliver the services or carry out the transactions you have requested. These uses may include providing you with more effective customer service; making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our products, services and technologies; and displaying content and advertising that are customized to your interests and preferences.
+Sports Insights collects and uses your personal information to operate and improve its sites and deliver the services or carry out the transactions you have requested. These uses may include providing you with more effective customer service; making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our products, services and technologies; and displaying content and advertising that are customized to your interests and preferences.
 
 We also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. Some Sports Insights services may send periodic member letters that are considered part of the service. We may also contact you to inform you of other products or services available from Sports Insights and its affiliates.
 
@@ -56,7 +56,7 @@ Personal information collected on Sports Insights Sites and services may be stor
 
 **Sharing of Your Personal Information:   **
 
-****Sports Insights will not sell, rent or lease your personal information to others. Sports Insights shares personal information with companies working on our behalf and Sports Insights affiliated companies. Except as described in this statement, we will not disclose your personal information to third parties for their own marketing purposes unless you have provided consent.
+Sports Insights will not sell, rent or lease your personal information to others. Sports Insights shares personal information with companies working on our behalf and Sports Insights affiliated companies. Except as described in this statement, we will not disclose your personal information to third parties for their own marketing purposes unless you have provided consent.
 
 Some Sports Insights services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Sports Insights and the other company may receive information collected as part of the co-branded services.
 
@@ -114,4 +114,4 @@ Sports Insights reserves the right to change this policy from time to time. If w
 
 THE SPORTS INSIGHTS SITES ARE INTENDED FOR ADULTS. WE DO NOT KNOWINGLY OR INTENTIONALLY COLLECT PERSONAL INFORMATION FROM ANYONE UNDER THE AGE OF 18. IF YOU ARE UNDER THE AGE OF 18, PLEASE DO NOT PROVIDE ANY PERSONAL INFORMATION TO SPORTS INSIGHTS. IF YOU KNOW OF ANYONE UNDER THE AGE OF 18 WHO HAS PROVIDED US WITH INFORMATION, PLEASE CONTACT US IMMEDIATELY AND WE WILL REMOVE THE INFORMATION.
 
-_This Privacy Policy was last amended on April 10, 2014_
+_This Privacy Policy was last amended on January 22, 2015._
