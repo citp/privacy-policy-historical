@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the laketrust.org privacy policy that was archived on 2014-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141126031429id_/http%3A//laketrust.org/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the laketrust.org privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316221349id_/https%3A//www.laketrust.org/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
     <meta charset="UTF-8">
@@ -9,13 +9,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/Content/images/lake-trust.ico">
     <link rel="apple-touch-icon" href="/Content/images/apple-touch-icon.png">
-    <link href="/Content/LakeTrust?v=nsLRkUcB-XEhHb_jEZt8t0NzrrS4Vqszr6Y6A0dW-lE1" rel="stylesheet">
+    <link href="/Content/bootstrap3/bootstrap.css" rel="stylesheet">
+<link href="/Content/laketrust.css" rel="stylesheet">
 
-    <script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580443800000/419224.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Scripts/Modernizr?v=wa97G2fdGaWBnIjKyioUssAWxy8tnYxkV0d-_5ClId01"></script>
+    <script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580443800000/419224.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Scripts/modernizr-1.7.min.js"></script>
 
     <!--[if lt IE 9]>
         <link rel="stylesheet" href="/Content/ie.css">
-        <script src="/Scripts/IE?v=f4nlWi2ghb2BEOzkSQF92Q89UZFP-_Z7XfAuwrj-8II1"></script>
+        <script src="/Scripts/html5shiv.js"></script>
+<script src="/Scripts/html5shiv-printshiv.js"></script>
+<script src="/Scripts/respond.js"></script>
+<script src="/Scripts/matchmedia.polyfill.js"></script>
 
     <![endif]-->
     <!--[if IE 6]>
@@ -78,7 +82,7 @@
                     <div class="main-navigation-bkg visible-xs">
                         <div class="mobile-main-nav row">
                             <a class="col-xs-6 text-center" href="#" id="MainNavigationMobileSelector" data-toggle="collapse" data-target="#MobileMainNavDropdown">Menu <b class="glyphicon glyphicon-chevron-down"></b></a>
-                            <a class="col-xs-6 text-center" href="http://mobi.laketrust.org">Log In <b class="glyphicon glyphicon-chevron-down"></b></a>
+                            <a class="col-xs-6 text-center" href="#" data-toggle="collapse" data-target="#MobileLoginDropdown">Log In <b class="glyphicon glyphicon-chevron-down"></b></a>
                         </div>
                     </div>
                     <div id="MobileMainNavDropdown" class="collapse">
@@ -89,12 +93,38 @@
                                 <li><a class="text-center" href="/about-lake-trust-credit-union/">About Us</a></li>
                         </ul>
                     </div>
+                    <div id="MobileLoginDropdown" class="collapse">
+                        <div class="login-container">
+                            <div class="title">Login to view your accounts</div>
+                            <form autocomplete="off" id="LoginMobile" name="Login" method="post" action="https://www.laketrustonline.org/tob/live/usp-core/app/initialLogin" onsubmit="return setParamStatus();">
+                                <div class="form-group">
+                                    <label for="userid" class="sr-only">Username</label>
+                                    <input type="text" name="userid" maxlength="256" value="" placeholder="Username">
+                                </div>
+                                <div class="form-group">
+                                    <label for="password" class="sr-only">Password</label>
+                                    <input type="password" name="password" maxlength="32" value="" placeholder="Password">
+                                </div>
+                                <button type="submit" value="Login" class="btn btn-primary btn-sm"><span class="lock"></span>&nbsp;Login To Accounts</button>
+                                <input type="hidden" name="testcookie" value="false">
+                                <input type="hidden" name="testjs" value="false">
+                                <input type="hidden" name="dscheck" value="0">
+                            </form>
+                            <p><br> <img mce_epiimageresize_id="uniqName_131_1_editorFrame_mce_0" src="/globalassets/blocks/online-banking/loginblock3.png" alt="Login instructions for new online banking." height="109" width="208"></p>
+<hr>
+<p class="blue">RELATED LINKS</p>
+<p><a target="_blank" href="http://pages.laketrust.org/logging-in-for-the-first-time">Logging In For The First Time</a></p>
+<p><a target="_blank" href="/personal/manage-your-account/online-banking/online-banking-knowledge-hub/">Online Banking Knowledge Hub</a></p>
+<p><a href="https://apstp.pscu.com/AP/APCardholder/pages/dsologin?clientId=3132&amp;siteFlag=true">View Your Credit Card</a></p>
+<p><a href="https://forms.fivision.com/ltcu/accountopening/">Open An Account</a></p>
+                        </div>
+                    </div>
                     
                     <div class="main-navigation-bkg hidden-xs">
                         <div id="main-menu">
                             <div class="nav-collapse main-menu-collapse">
                                 <ul id="menu">
-                                        <li>
+                                        <li class="hoverable">
                                             <a class="level-one" href="/personal/">Personal</a>
                                                 <div class="dropdown_3columns">
                                                     <div class="row">
@@ -187,7 +217,7 @@
                                                     </div>
                                                 </div>
                                         </li>
-                                        <li>
+                                        <li class="hoverable">
                                             <a class="level-one" href="/business/">Business</a>
                                                 <div class="dropdown_2columns">
                                                     <div class="row">
@@ -231,13 +261,13 @@
                                                     </div>
                                                 </div>
                                         </li>
-                                        <li>
+                                        <li class="hoverable">
                                             <a class="level-one" href="/learn/">Learn</a>
                                                 <div class="dropdown_2columns">
                                                     <div class="row">
 
                                                             <div class="col-sm-6">
-                                                                <h3><a href="/learn/LTL/">The Lake Trust Latest</a></h3>
+                                                                <h3><a href="http://latest.laketrust.org/blog">The Lake Trust Latest</a></h3>
 
                                                             </div>
                                                             <div class="col-sm-6">
@@ -251,7 +281,6 @@
                                                                             <li><a href="/learn/financial-management/debt-management/">Financial Counseling</a></li>
                                                                             <li><a href="/learn/financial-management/credit-report/">Credit Report</a></li>
                                                                             <li><a href="/learn/financial-management/money-management-tips/">Money Management Tips</a></li>
-                                                                            <li><a href="/learn/financial-management/calculators/">Calculators</a></li>
                                                                             <li><a href="/learn/financial-management/Budgeting-and-Debt-Management/">Budgeting and Debt Management</a></li>
                                                                     </ul>
                                                             </div>
@@ -296,7 +325,7 @@
                                                     </div>
                                                 </div>
                                         </li>
-                                        <li>
+                                        <li class="hoverable">
                                             <a class="level-one" href="/about-lake-trust-credit-union/">About Us</a>
                                                 <div class="dropdown_2columns">
                                                     <div class="row">
@@ -350,9 +379,33 @@
                                                     </div>
                                                 </div>
                                         </li>
-                                                                            <li class="menu_right">
-                                                <a href="https://ib.laketrust.org/Common/SignOn/Start.asp" id="login-btn-mobi" class="hidden-xs level-one" title="Log In"><i class="glyphicon glyphicon-lock"></i>&nbsp;Login</a>
-                                                                                            <a href="https://mobi.laketrust.org/" id="login-btn" class="visible-xs level-one" title="Log In"><i class="glyphicon glyphicon-lock"></i>&nbsp;Login</a>
+                                                                            <li class="online-login">
+                                            <a href="#" class="level-one" title="click to Log In"><span class="lock"></span>&nbsp;Login</a>
+                                            <div class="dropdown_1columns login-container">
+                                                <div class="title">Login to view your accounts</div>
+                                                <form autocomplete="off" id="Login" name="Login" method="post" action="https://www.laketrustonline.org/tob/live/usp-core/app/initialLogin" onsubmit="return setParamStatus();">
+                                                    <div class="form-group">
+                                                        <label for="userid" class="sr-only">Username</label>
+                                                        <input type="text" id="userid" name="userid" maxlength="256" value="" placeholder="Username">
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label for="password" class="sr-only">Password</label>
+                                                        <input type="password" id="password" name="password" maxlength="32" value="" placeholder="Password">
+                                                    </div>
+                                                    <button type="submit" value="Login" class="btn btn-primary btn-sm"><span class="lock"></span>&nbsp;Login To Accounts</button>
+                                                    <input type="hidden" id="testcookie" name="testcookie" value="false">
+                                                    <input type="hidden" id="testjs" name="testjs" value="false">
+                                                    <input type="hidden" id="dscheck" name="dscheck" value="0">
+                                                </form>
+                                                <p><br> <img mce_epiimageresize_id="uniqName_131_1_editorFrame_mce_0" src="/globalassets/blocks/online-banking/loginblock3.png" alt="Login instructions for new online banking." height="109" width="208"></p>
+<hr>
+<p class="blue">RELATED LINKS</p>
+<p><a target="_blank" href="http://pages.laketrust.org/logging-in-for-the-first-time">Logging In For The First Time</a></p>
+<p><a target="_blank" href="/personal/manage-your-account/online-banking/online-banking-knowledge-hub/">Online Banking Knowledge Hub</a></p>
+<p><a href="https://apstp.pscu.com/AP/APCardholder/pages/dsologin?clientId=3132&amp;siteFlag=true">View Your Credit Card</a></p>
+<p><a href="https://forms.fivision.com/ltcu/accountopening/">Open An Account</a></p>
+                                            </div>
+                                            
                                         </li>
                                 </ul>
                             </div>
@@ -360,7 +413,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row hidden-sm hidden-md hidden-lg">
+            <div class="row visible-xs">
                 <div class="col-xs-12 mt10">
                     <a class="mycreditcard pull-right" href="https://ap.pscu.com/AP/APCardholder/pages/dsologin?clientId=3132">My Credit Card  <b class="glyphicon glyphicon-chevron-right"></b></a>
                 </div>
@@ -480,17 +533,23 @@
                         <li><a href="/help/privacy/" title="Privacy">Privacy</a></li>
                         <li><a href="/learn/security-center/">Security</a></li>
                         <li><a href="/help/preferences-center/">Preferences</a></li>
-                        <li><a href="/about-lake-trust-credit-union/">2015 Calendars</a></li>
+                        <li><a title="Chat" target="_blank" href="https://srv9.velaro.com/visitor/requestchat.aspx?siteid=779&amp;secure=yes">Chat With Us</a></li>
                 </ul>
-            </div>
+            </div>           
             <div class="col-xs-12 col-sm-4">
-                <ul class="nav nav-pills social-nav">
-                        <li><a href="http://twitter.com/laketrust" title="twitter" class="twitter">Twitter</a></li>
-                        <li><a href="https://www.facebook.com/LakeTrustCreditUnion?ref=ts" title="facebook" class="facebook">Facebook</a></li>
-                        <li><a href="http://www.youtube.com/laketrustcreditunion" title="youtube" class="youtube">Youtube</a></li>
-                        <li><a href="http://instagram.com/laketrust" title="instagram" class="instagram">Instagram</a></li>
-                        <li><a href="http://www.linkedin.com/company/lake-trust-credit-union" title="linkedin" class="linkedin">LinkedIn</a></li>
-                </ul>
+                <ul class="nav nav-pills social-nav"><li><a href="https://www.facebook.com/LakeTrustCreditUnion">
+        <img src="/globalassets/icons/facebook.png">
+
+</a> </li><li><a href="https://twitter.com/laketrust">
+        <img src="/globalassets/icons/twitter.png">
+
+</a> </li><li><a href="https://www.linkedin.com/company/992188">
+        <img src="/globalassets/icons/linkedin.png">
+
+</a> </li><li><a href="http://www.pinterest.com/laketrust/">
+        <img src="/globalassets/icons/pinteresticon.png">
+
+</a> </li></ul>
             </div>
         </div>
         <div class="row footer-icons">
@@ -510,9 +569,14 @@
 </div>
     
 
-    <script src="/Scripts/jquery?v=c1qgIEXRjoVIT3-ZyqTMkJ5sRV6OhCHhyxH3cykFPzA1"></script>
+    <script src="/Scripts/libs/jquery-1.8.0.min.js"></script>
 
-    <script src="/Scripts/LakeTrust?v=iXEcf6YnOrF5YXbNXiMVkaPQNQyTCTC1miIHWX-YE1s1"></script>
+    <script src="/Scripts/libs/bootstrap3/bootstrap.js"></script>
+<script src="/Scripts/libs/jquery.hoverIntent.minified.js"></script>
+<script src="/Scripts/libs/jquery.dcmegamenu.1.3.3.js"></script>
+<script src="/Scripts/libs/responsiveslides.js"></script>
+<script src="/Scripts/plugins.js"></script>
+<script src="/Scripts/script.js"></script>
 
     <!--[if lt IE 9]>
         <script type="text/javascript" src="/Scripts/PIE/PIE_IE678.js"></script>
