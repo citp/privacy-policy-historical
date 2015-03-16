@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203215305id_/https%3A//www.beenverified.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316123857id_/https%3A//www.beenverified.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BeenVerified.com
 
