@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinktankphoto.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225230024id_/http%3A//www.thinktankphoto.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinktankphoto.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316220728id_/http%3A//www.thinktankphoto.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Think Tank Photo
 
