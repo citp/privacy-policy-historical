@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the juvlon.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104142027id_/http%3A//www.juvlon.com/legal-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juvlon.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316094149id_/https%3A//app3.juvlon.com/secure/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | www.juvlon.com
+# Privacy Policy
 
-**Juvlon is a permission-based e-mailing service. You can use your Juvlon-account only to send e-mail newsletters and announcements to people that have given you their permission to e-mail them.**
+Juvlon is a permission-based e-mailing service. You can use your Juvlon-account only to send e-mail newsletters and announcements to people that have given you their permission to e-mail them.
 
 ## Use of Customer Information
 
@@ -16,4 +16,4 @@ Juvlon is not an e-mail list rental service and does not share, rent, sell or ot
 
 ## Security
 
-Juvlon has security measures in place to protect the loss, misuse and alteration of the information under its control. This includes personal information as well as subscription lists.
+Juvlon has security measures in place to protect the loss, misuse and alteration of the information under its control. This includes personal information as well as subscription lists. 
