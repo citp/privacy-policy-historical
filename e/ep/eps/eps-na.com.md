@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eps-na.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713142204id_/http%3A//www.eps-na.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eps-na.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316030121id_/http%3A//www.eps-na.com/privacy_policy) for the most accurate reproduction.*
 
 # Electronic Payment Systems Privacy Policy | Electronic Payment Systems
 
