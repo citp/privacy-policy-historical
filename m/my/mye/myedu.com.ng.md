@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the myedu.com.ng privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928060402id_/http%3A//www.myedu.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myedu.com.ng privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316215226id_/https%3A//myedu.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-This privacy policy document outlines the categories of private information is received and picked up by **myedu.com.ng  **
+This privacy policy document outlines the categories of private information is received and picked up by **myedu.ng and all Applications.  **
 
-****  and how it’s used.Log Files Like several different websites, **myedu.com.ng**  makes use of log files. the data within the log files includes web protocol ( IP ) addresses, variety of browser, web Service supplier ( ISP ), date/time stamp, referring/exit pages, and range of clicks to investigate trends, administer the positioning, track user’s movement round the web site, and gather demographic info.
+and how it’s used.Log Files Like several different websites, **myedu.ng**  makes use of log files. the data within the log files includes web protocol ( IP ) addresses, variety of browser, web Service supplier ( ISP ), date/time stamp, referring/exit pages, and range of clicks to investigate trends, administer the positioning, track user’s movement round the web site, and gather demographic info.
 
-IP addresses, and different such info aren’t linked to any info that’s personally identifiable.Cookies and net Beacons **myedu.com.ng**  will use cookies to store info concerning guests preferences, record user-specific info on that pages the user access or visit, customize website content based mostly on guests browser kind or different info that the visitor sends via their browser.
+IP addresses, and different such info aren’t linked to any info that’s personally identifiable.Cookies and net Beacons **myedu.ng**  will use cookies to store info concerning guests preferences, record user-specific info on that pages the user access or visit, customize website content based mostly on guests browser kind or different info that the visitor sends via their browser.
 
-DoubleClick DART Cookie.:: Google, as a 3rd party vendor, uses cookies to serve ads on **myedu.com.ng**.
+DoubleClick DART Cookie.:: Google, as a 3rd party vendor, uses cookies to serve ads on **myedu.ng**.
 
-Google’s use of the DART cookie enables it to serve ads to users based mostly on their visit to **myedu.com.ng**  and other sites on the web..:: Users might opt out of the employment of the DART cookie by visiting the Google ad and content network privacy policy at the subsequent URL- http://www.google.com/privacy_ads.html .Some of our advertising partners may use cookies and net beacons on our web site. Our advertising partners embody …
+Google’s use of the DART cookie enables it to serve ads to users based mostly on their visit to **myedu.ng**  and other sites on the web..:: Users might opt out of the employment of the DART cookie by visiting the Google ad and content network privacy policy at the subsequent URL- http://www.google.com/privacy_ads.html .Some of our advertising partners may use cookies and net beacons on our web site. Our advertising partners embody …
 
-.Google AdsenseAmazon These third-party ad servers or ad networks use technology to the advertisements and links that seem on **myedu.com.ng**  send on to your browsers.
+.Google AdsenseAmazon These third-party ad servers or ad networks use technology to the advertisements and links that seem on **myedu.ng**  send on to your browsers.
 
-They automatically receive your IP address when this happens. different technologies ( like cookies, JavaScript, or net Beacons ) can also be utilized by the third-party ad networks to live the effectiveness of their advertisements and / or to personalize the advertising content that you simply see. **myedu.com.ng** has no access to or management over these cookies that are utilized by third-party advertisers.
+They automatically receive your IP address when this happens. different technologies ( like cookies, JavaScript, or net Beacons ) can also be utilized by the third-party ad networks to live the effectiveness of their advertisements and / or to personalize the advertising content that you simply see. **myedu.ng** has no access to or management over these cookies that are utilized by third-party advertisers.
 
-You should consult the respectiveprivacy policies of those third-party ad servers for a lot of detailed info on their practices likewise as for directions concerning the way to opt-out of bound practices. **myedu.com.ng** ’s privacy policy doesn’t apply to, and that we cannot management the activities of, such different advertisers or websites.
+You should consult the respectiveprivacy policies of those third-party ad servers for a lot of detailed info on their practices likewise as for directions concerning the way to opt-out of bound practices. **myedu.ng** ’s privacy policy doesn’t apply to, and that we cannot management the activities of, such different advertisers or websites.
 
 If you want to disable cookies, you will do thus through your individual browser choices. a lot of detailed info concerning cookie management with specific net browsers is found at the browsers’ respective websites.
 
@@ -24,4 +24,6 @@ In any case  you have any questions about  our Privacy Policy please feel free
 
 y also manually insert the shortcode into a post/page.
 
-` `
+**STUDY IN GHANA & TURKEY  :: 2015 March Spring semester Admission now in progress  (GHANA and TURKEY) **,   
+***Want to study in Ghana ?* ** ::   [Click here to Apply!](http://myedu.ng/study-in-ghana/)   
+***Want to study in Turkey*** ::      [Click here to Apply!](http://myedu.ng/study-in-eastern-mediterranean-university/)
