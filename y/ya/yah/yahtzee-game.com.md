@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yahtzee-game.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720135949id_/http%3A//www.yahtzee-game.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahtzee-game.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317003153id_/http%3A//www.yahtzee-game.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-This game is created by SimpleGames, a small software company in Denmark. Here we will explain what data we store, how we store it, how we use cookies and how our advertising works. 
+This game is created by SimpleGames, a small software company in Iceland. Here we will explain what data we store, how we store it, how we use cookies and how our advertising works. 
 
 ### Personal information
 
