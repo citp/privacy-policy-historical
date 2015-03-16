@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the commi.sh privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624194429id_/http%3A//commi.sh/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commi.sh privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316215222id_/https%3A//commi.sh/privacy) for the most accurate reproduction.*
 
 # Commi.sh - Social League Management
+
+ 
 
 We collect the e-mail addresses of those who sign-up for one of our leagues, aggregate information on what pages consumers access or visit, and information volunteered by the customer (such as survey information). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:  
 
@@ -33,7 +35,7 @@ Although Commi.sh owns the data storage, databases and all rights to the Commi.s
 DISCLOSURE  
 
 
-  * Commi.sh may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](https://web.archive.org/terms).
+  * Commi.sh may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](https://web.archive.org/terms). Commi.sh will also make information, such as your name and email address, asscessible to league staff and other players, in order to facilitate communication and logistics surrounding the execution of league activities. 
 
 
 
