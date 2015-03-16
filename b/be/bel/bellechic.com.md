@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bellechic.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703152533id_/https%3A//www.bellechic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellechic.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316103857id_/https%3A//www.bellechic.com/about/privacy) for the most accurate reproduction.*
 
 # BelleChic
+
+#### Your {{bm.networkName}} URL:
 
 BelleChic respects your privacy. All information that we collect from you allows us to ship product to you, use all of features of our website, and give you a better, interactive experience.
 
@@ -29,3 +31,11 @@ BelleChic
 Suite 22  
 Chandler, AZ 85286  
 phone: 435-688-9595
+
+[](http://www.inc.com/profile/tanga)
+
+### Tanga is One of the Fastest Growing Companies in America
+
+**Tanga** was named to the Inc. 5000 2014 list, honored as one of the fastest-growing private companies in America. **[Learn more.](https://www.tanga.com/pages/inc-magazine-names-tanga-to-inc-5000-list-of-america-s-fastest-growing-private-companies) **
+
+[](https://www.tanga.com/)
