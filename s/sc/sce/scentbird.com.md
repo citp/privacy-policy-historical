@@ -1,70 +1,102 @@
-> *The following text is extracted and transformed from the scentbird.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703065034id_/https%3A//www.scentbird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scentbird.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316081107id_/https%3A//www.scentbird.com/privacy) for the most accurate reproduction.*
 
 # Scentbird Service Privacy Policy
 
-Missionelle Inc., d/b/a Scentbird, operates the website located at www.scentbird.com. This Privacy Policy describes the information that we collect through our website and how we use that information. If you have any questions about our Privacy Policy, please contact us at **info@scentbird.com**. This Privacy Policy applies to the services and products offered by Scentbird, as well as any other applications, content or features that we may from time to time offer on our website.
+Privacy policy
 
-The Types of Information that We Collect
+This is how we collect and use your information  
+Last updated October 17, 2014
 
-We collect two types of information from visitors of our website: personally identifiable information and non-personally identifiable information.
+Notice of California privacy rights
 
-If you purchase our products or services, we request certain personally identifiable information from you on our order form. This includes contact information such as your name, email address, and shipping address, as well as financial information such as a credit card number and its expiration date. We use the personally identifiable information that we collect for billing purposes and to fill your orders. If we have trouble processing an order, we also will use this information to contact you.
+Thank you for taking the time to read our privacy policy for [scentbird.com](https://web.archive.org/) and other online locations such as Facebook and Twitter (together, the “Website”) and our mobile application (the "App") (the Website and App collectively referred to as "Site") offered by Scentbird Inc, (“we," "our," or “Scentbird”). This privacy policy describes how Scentbird collects and receives information about you through the Site and any off-line communications with you such as telephone, e-mail and personal communications ("Off-Line"). This Privacy Policy together with the [Terms of Use](https://web.archive.org/terms) govern your use of the Site and Scentbird's collection and use of your information both through the Site and Off-Line.   
+Please read this privacy policy before using the Site. We reserve the right to change this privacy policy at any time. Should the privacy policy be revised, the date of the last revision will appear at the top of this page. The new privacy policy will apply only to the information collected after the revision date. We will seek your permission for any material changes in how we use your information that apply to previously collected information.   
+By accessing or using the Site, you acknowledge that you have read, understand and agree, without limitation or qualification, to be bound by this privacy policy. If you do not agree to this privacy policy, please do not use the Site.   
+In addition to this privacy policy, you agree that the following provisions in the terms of use also govern Scentbird's collection and use of your information: acceptance of the terms of use, social media, indemnity, disclaimers and limitation of liability; disputes and applicable law; and general information. 
 
-In addition, if you contact us by email through our website, we may keep a record of your contact information and correspondence. In any event, we reserve the right to use your email address and any other personally identifiable information that you provide to us to respond to you and to send you marketing materials for our own products and services. We will not share your information with outside parties who wish to market other products and services to you.
+What we collect from you
 
-If at any time you would like to change your personally identifiable information, or if you no longer wish to receive materials from us or would like your personal information removed from our database, please contact us at info@scentbird.com. Alternatively, if you receive materials from us by email you can make use of the "opt out" provision in our communications so that we know that you no longer wish to receive any materials from us.
+When you provide us information about yourself to us, we collect it.   
+We may collect information from you in a number of ways. For example, we may collect personal information from you if you choose to create an account with us, complete an online survey or feedback form, rate or review products, sign up to receive communications from us, email us, or order any products or e-gift cards. We may ask you to provide information such as your contact information (name, email address, mailing address, telephone number), age, gender, and product or the brands and products you use. If you purchase a product through the Site, we also will collect your delivery and billing addresses and credit card or other payment method information (type, number, expiration date, card security code). We will collect or generate information about your transaction history and interaction with the Site. Users registering an account also must enter a username and/or password. 
 
-Like most websites, our website may incorporate “pixel tags”, “web beacons”, or similar tracking technologies and “cookies” that allow us to track the actions of visitors of our website. Pixel tags and cookies are used to collect non-personally identifiable information, such as the name of your internet service provider, the IP address of the computer you are using, the type of browser software and operating system that you use, the date and time you access our website, the website address, if any, from which you linked directly to our website, the website address, if any, to which you travel from our website, your home page customization preferences and other similar traffic-related information. We may aggregate your information with similar data collected from other visitors to help us improve our website and the products, services, applications, content and features that we provide through our website. We do not use non-personally identifiable information in any way to create or maintain a personal profile of you or collect personally identifiable information from you.
+How we collect other information
 
-How We Use the Information We Gather
+We automatically receive non-personal information when you visit and interact with the Site and can collect information from other sources. Scentbird automatically receives and records non-personal information on our server logs from your browser as well as through other analysis of the Site. We also may collect information using cookies, web beacons or similar technologies, or through third parties using similar technologies. A “cookie” is a piece of data stored on your computer. When you visit the Site, your web browser may store cookies on your computer, which will better enable you to navigate the Site upon return. You may use the Site even if you choose to reject or delete the cookies. Cookies also may be used by some of the other websites for which a link is placed on the Site.   
+We may access information about you from third-party sources and platforms like social media, marketing or ad firms. The information we collect may include your username and connection services, age range, gender, interests, advertisement interaction and viewing data and unique identifiers like a mobile identification number. We may combine this non-personal information with personal information, and will treat the combined information as personal information.   
+Scentbird may use Google Analytics to collect non-personal information relating to your use of the Site. Google Analytics is a web analytics service provided by Google, Inc. (“Google”). Google Analytics mainly uses cookies to report on your interactions on the Site and help analyze how users use the Site. For more information, including privacy controls you can exercise over how your data is collected by Google Analytics, or to read Google Analytics' privacy policy, please go to: <http://www.google.com/analytics/learn/privacy.html>
 
-Generally, we will not disclose the personally identifiable information that we collect through your use of our website to unaffiliated third parties. We reserve the right, however, to provide such information to our employees, contractors, agents, and designees to the extent necessary to enable them to perform certain services for us, including order fulfillment and website-related services such as web hosting, to improve website-related services and features, to perform maintenance services, and to distribute advertisements and other marketing materials on our behalf. We also reserve the right to disclose any personally identifiable information that we collect to any third party if we believe that we are required to do so for any or all of the following reasons: (i) to comply with the law; (ii) to comply with legal processes or governmental requests; (iii) to prevent, investigate, detect, or prosecute criminal offenses or attacks on the technical integrity of our website or our network; and/or (iv) to protect the rights, property, safety and security of Scentbird and its employees, our website visitors, and/or the public.
+Children and privacy
 
-We are Committed to Making Sure Your Information is Protected
+If you are under 13, please DO NOT USE THIS SITE.   
+We do not knowingly collect information from children under age 13. If you are under age 13, you are not permitted to use the Site. If you are 13 - 17 years of age, you may visit, browse and use the information on the Site but you may not register an account or submit any personal information. If you are 13 - 17 years old, by browsing the Site you confirm that you have the permission of a parent or guardian to do so. If you are a parent or guardian and believe that we may have inadvertently collected personal information from your child, please notify us immediately by sending an email to support@scentbird.com. 
 
-Our physical, electronic, and procedural safeguards meet or exceed current federal standards regarding the protection of customer information. We also require contractors and outside companies who work with us to adhere to strict privacy standards through their contracts with us. Unfortunately, no security system, or system of transmitting data over the Internet, can be guaranteed to be 100% secure. Consequently, while we use commercially reasonable efforts to protect your personally identifiable information, we cannot guarantee the security of our servers, the means by which information is transmitted between your computer and our servers, or any information provided to us or to any third party through or in connection with the website. Any information that you provide to us is done so entirely at your own risk. We Reserve the Right to Update and Revise this Privacy Policy at Any Time.
+Use of collected information
 
-From time to time we review this Privacy Policy to ensure that it complies with applicable law. Consequently, we reserve the right to update and revise this Privacy Policy at any time. You will know if this Privacy Policy has been revised since your last visit to the website by referring to the "Effective Date of Current Policy" date at the top of this page. Your use of our website constitutes your acceptance of the terms of the Privacy Policy as amended or revised by us from time to time, and you should therefore review this Privacy Policy regularly to ensure that you are aware of its terms.
+We use the information we collect to communicate with you, advertise and of course, improve our Site.   
+We may use any of the information we collect from you to serve you, respond to you, provide customer service and improve the Site and our products and services, including: 
 
-In the Event We Engage in a Business Combination, We Reserve the Right to Transfer Any Information that We Collect through Our Website.
+  * process and fulfill your orders, and process payments;
+  * alert you to new features, products, events, or services;
+  * process and respond to your customer service request or feedback;
+  * contact you about your account or profile; for example, we send all registered users a welcome email to confirm registration;
+  * improve the Site and create marketing plans;
+  * implement credit fraud protection and risk reduction measures;
+  * make other marketing offers from our affiliates and marketing partners that we think may be of interest of you;
+  * enforce the terms of service; and
+  * for any other reason you provided the information.
 
-If we sell all or any part of our business or sell or transfer all or a material part of our assets or are otherwise involved in a merger or other transfer or disposition of any part our business, we reserve the right to access, transfer or disclose any and all information that we collect from our website’s visitors, or that we otherwise collect in connection with the website, to the party or parties involved in the transaction as part of that transaction.
 
-Our Website may Contain Links to Other Websites.
 
-Please be aware that we are not and cannot be responsible for the privacy practices of any websites that you access through our website and that this Privacy Policy applies solely to the information which we collect through our website. We encourage you to ensure that you read the privacy statements of all the destination websites which you visit.
+Sharing with third parties
 
-SHIPPING POLICY
+We can share and sell the information we have collected with others.   
+Scentbird may disclose the information it collects about you to: 
 
-We ship all purchases via UPS, FedEx, or USPS to the following destinations:  
-United States  
-Contiguous United States: Free  
-Alaska, Hawaii and Puerto Rico: Coming soon!  
-Unfortunately, we aren't able to ship to P.O. Boxes or APO Boxes at this time.  
-We try to get all of our orders out to our customers as soon as possible. 
+  * to our service providers, sponsors, suppliers, vendors and others who help Scentbird provide the Site to you;
+  * our affiliates and to merchants, licensors, activity and event partners and sponsors, and other third parties for their own marketing purposes, such as to provide information to you about their new developments, special events, programs, services, activities, products, attractions, stores, promotions and sweepstakes activities, and other important information;
+  * third parties to provide analytics or to confirm or update information provided by you;
+  * third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of Scentbird's business or operations (including without limitation in connection with bankruptcy or any similar proceedings); or
+  * as otherwise authorized by you.
 
-You should expect the turn around time to be:  
-5 business days (including 2-3 for shipping)  
-**Home Try-On**  
-5 business days (including 2-3 for shipping)  
-However, there are a number of variables that can affect the speed at which we are able to fill your purchase order for Home Try-on. Please keep an eye on your inbox after you place your order, as we will generally follow up with you via email should we have any questions about your order.
 
-**Free Shipping in the US**
 
-Contiguous 48 states| FREE  
----|---  
-Alaska & Hawaii| Coming Soon!  
-Canada| Coming Soon!  
-International| Coming Soon!  
-  
-REFUND POLICY
+We also may share your personal information in response to a subpoena, legal order or official request; when we believe you have acted in violation of the [Terms of Use](https://web.archive.org/terms); to investigate, prevent or take action regarding suspected illegal activities, fraud or potential threats; to exercise legal rights or defend against claims; or as otherwise permitted or required by law.   
+We also may use, share or sell non-personally identifiable information with third parties. Additionally, we may take personally identifiable information and de-identify it and share it or sell it in a de-identified or aggregated form with advertisers, business partners, and/or third parties in order to analyze usage of the Site services on or related to the Site or others’ sites; improve our services; improve our user experience; or for similar purposes. We will not re-identify such data and we will ask our contracting parties to agree to keep the data in its de-identified form.   
+If you elect to participate in any promotions, sweepstakes, surveys, questionnaires, or other events during your visit to the Site, the rules or terms and conditions for those events may indicate that your information will be shared with third parties with your consent. Please review the applicable rules or terms and conditions for any promotions, sweepstakes, surveys, questionnaires or events. 
 
-Free Returns  
-We offer a no questions asked, 30 day free return policy from the day you receive your order. For US-based orders free return shipping is included. If you're not 100% satisfied with your new perfume for any reason, you can simply call or email us and we'll send you a pre-paid return shipping label allowing you to return your perfume for free. No questions asked.
+Opting-out of communications
 
-If you’re not 100% satisfied with your perfume, we offer a no questions asked, 30-day return policy from the day you receive your order. For orders within the contiguous US, free return shipping is also included.
+You don't have to hear from us if you don't want to.   
+You may opt-out of receiving future opt-in communications from us. You may change your preferences at any time by revising your account profile by un-checking the boxes for opt-in communications. You may also click the “unsubscribe” link at the bottom of any emails you receive from us and follow the instructions provided. 
 
-Trying to make a return or exchange can often be a frustrating experience — which is why we’ve tried to make it as easy as possible! Please give us a call at 646.345.3453, Mon–Fri, 9am–9pm ET, or email us at returns@scentbird.com within 30 days of receiving your order. We would love to know why you are returning the perfume and help troubleshoot any issues you may be experiencing.  
-Once your return or exchange request has been received, we will email you a prepaid return shipping label. Simply print it, attach it to the package you will be returning, and drop it off with UPS.  
-Unfortunately we cannot provide prepaid return shipping labels to customers outside the contiguous US. However, if you choose to exchange your perfume, we are happy to cover all outbound shipping fees for the new perfume.  
-If you have returned your perfume to us for a refund, you should expect to see the funds appear on your credit card statement within 5 business days of us receiving your perfume.
+Third party links
+
+We are not responsible for linked sites.   
+The Site may contain links to or from other websites, including. Please be aware that we are not responsible for the privacy practices of other websites. this privacy policy applies only to the information we collect on our Site. We encourage you to read the privacy policies of other websites you link to from our Site or otherwise visit. 
+
+Updating your information
+
+We don’t want to send your perfume to the wrong home. You must keep your information current and updated.   
+You are responsible for keeping your information current. You may update your shipping information by logging into your account and making edits to the “Billing & Shipping” tab. .Similarly, you may update your personal information, password and subscription status by logging into your account. 
+
+Notice of California privacy rights
+
+If you are a California resident you can ask for information about any of your personal information that we have shared. If you don't want us to share your personal information for direct marketing purposes anymore, you can ask us to stop.   
+If you are a California resident and have provided personal information to Scentbird, you are entitled by law to request certain information regarding any disclosure that may have been made by Scentbird to third parties of personal information for their direct marketing purposes. To make such a request, contact us at: 
+
+Scentbird Inc.   
+214 West 29th Street, 5th Floor   
+New York, New York 10001 
+
+The request may be sent to the above address or to support@scentbird.com and should specify that you seek your “California Customer Choice Privacy Notice.” Please allow thirty (30) days for a response. Scentbird is required to respond to only one request per customer each year, and is not required to respond to requests made by means other than through the above email address.   
+We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so. You may make such a request by sending us an email at support@scentbird.com.   
+When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request. 
+
+Security
+
+We try our best to make sure all our information is safe, but the Internet is not completely secure. Any transmissions you make over the internet is at your own risk.   
+Scentbird uses reasonable administrative, physical and electronic security measures to protect against the loss, misuse and alteration of personal information. No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Scentbird to intercept or access transmissions or private communications unlawfully. While we strive to protect personal information, neither Scentbird nor our service providers can ensure or warrant the security of any information you transmit to us over the internet. Any such transmission is at your own risk. 
+
+Let us know how we are doing
+
+If you have any questions, comments, or concerns about our privacy practices, please contact us at support@scentbird.com.
