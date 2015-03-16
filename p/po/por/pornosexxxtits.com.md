@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornosexxxtits.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625155453id_/http%3A//www.pornosexxxtits.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornosexxxtits.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316142139id_/http%3A//www.pornosexxxtits.com/privacy.html) for the most accurate reproduction.*
 
 # Hardcore Porno Movies, Free Group Sex Tube, Online XXX Vids, Streaming Porn Clips and Free XXX Videos
 
