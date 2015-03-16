@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandadoc.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929145759id_/https%3A//www.pandadoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandadoc.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316193638id_/https%3A//www.pandadoc.com/privacy-policy) for the most accurate reproduction.*
 
 # PandaDoc Privacy Policy
 
@@ -20,7 +20,7 @@ In addition to the information provided automatically by your browser when you v
 
 If you use a social networking site (“SNS”) account information to sign in to the Website, we will collect and store your SNS user ID. The privacy practices of the entity which generated such an SNS User ID are set forth in such entities Privacy Policy, and The Company has no control over the uses of your ID by such parties.
 
-_3\. Information your provide by contributing to the Website_
+_3\. Information you provide by contributing to the Website_
 
 You may also provide us information in User Content (as defined in the Terms of Use) you post to the Website. Your questions, answers, and other contributions on the Website, and metadata about them (such as when you posted them), are publicly viewable on the Website, along with your name (unless the Website permits you to post anonymously). This information may be searched by search engines and be republished elsewhere on the Web in accordance with our Terms of Website. By using the Website, you consent to such public usage.
 
