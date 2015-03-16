@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lazymanandmoney.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701073713id_/http%3A//www.lazymanandmoney.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazymanandmoney.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316173442id_/http%3A//www.lazymanandmoney.com/terms-and-conditions) for the most accurate reproduction.*
 
-# Terms and Conditions » Lazy Man and Money
+# Terms and Conditions - Lazy Man and Money
 
 Written by 
 
@@ -51,11 +51,13 @@ As required by FTC regulations, please note that we have a financial relationshi
 
 This site contains information about third party products and services, such as credit card offers, online banking, discount brokers, and credit score services. While we endeavor to ensure that the information presented on this site is accurate at the time of publication, any offers and rates shown on the Lazy Man and Money can and do change without notice. Visit the official site of the offer for up-to-date information.
 
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
+
 **Other information collected by third-parties**
 
 We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
 
-Last updated on April 3, 2014. 
+Last updated on January 7, 2015. 
 
 This post deals with: ... and focuses on: 
 
