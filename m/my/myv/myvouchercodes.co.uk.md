@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvouchercodes.co.uk privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701055059id_/http%3A//www.myvouchercodes.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvouchercodes.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316121909id_/http%3A//www.myvouchercodes.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MyVoucherCodes.co.uk
 
@@ -6,7 +6,7 @@ This privacy policy discloses the privacy practices for Monitise PLC (LON:MONI) 
 
 By accessing the Site and/or Mobile Product and/or by submitting personal data manually or in electronic form to us in connection with the Site and/or Mobile Product you give your consent that all personal data that you submit will be processed by us in the manner and for the purposes described below. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-If you have any questions at all about this policy or the Site/Mobile Product, or about how we use and process your personal information, please do not hesitate to contact us by e-mail at support@myvouchercodes.co.uk or, alternatively, in writing to www.MyVoucherCodes.co.uk c/o Monitise PLC at The Clove Building, 4 Maguire Street, Butlers Wharf, London, SE1 2NQ. 
+If you have any questions at all about this policy or the Site/Mobile Product, or about how we use and process your personal information, please do not hesitate to contact us by e-mail at support@myvouchercodes.co.uk or, alternatively, in writing to www.MyVoucherCodes.co.uk c/o Monitise Content at Medius House, Level 3, 2 Sheraton Street, Soho, London, W1F 8BH. 
 
 ### Information Collection and Use
 
@@ -46,7 +46,7 @@ If you elect to use our referral service for informing a friend about our site, 
 
 ### Data Protection Act 1998 (the “Act”)
 
-We make every effort to ensure that our practices, procedures and systems comply with the relevant data protection legislation and we are registered as a data controller for the purposes of the Act (Registration Number: Z1559617). We shall only use your personal data in accordance with the legal requirements, principles and best practice recommendations of the Act, which grants you various rights in respect of the processing of your personal data. For more details about your rights under the Act, the rules we have to adhere to in collecting and storing your information, and how you can check your data records, please visit www.dataprotection.gov.uk. You have a right to receive a copy of the information we hold about you by sending your request in writing, together with an administration fee of £10, to us at www.MyVoucherCodes.co.uk c/o Markco Media Limited, The Clove Building, 4 Maguire Street, Butlers Wharf, London, SE1 2NQ. 
+We make every effort to ensure that our practices, procedures and systems comply with the relevant data protection legislation and we are registered as a data controller for the purposes of the Act (Registration Number: Z1559617). We shall only use your personal data in accordance with the legal requirements, principles and best practice recommendations of the Act, which grants you various rights in respect of the processing of your personal data. For more details about your rights under the Act, the rules we have to adhere to in collecting and storing your information, and how you can check your data records, please visit www.dataprotection.gov.uk. You have a right to receive a copy of the information we hold about you by sending your request in writing, together with an administration fee of £10, to us at www.MyVoucherCodes.co.uk c/o Monitise Content, Medius House, Level 3, 2 Sheraton Street, Soho, London, W1F 8BH. 
 
 ### Updating/Removal of Personal Information
 
@@ -54,4 +54,4 @@ If any information regarding you requires to be corrected, updated or changed it
 
 ### Contact
 
-If you have any questions at all about this policy or the Site and/or Mobile Product, or about how we use and process your personal information, please do not hesitate to contact us at us by e-mail at support@myvouchercodes.co.uk or, alternatively, in writing to www.MyVoucherCodes.co.uk c/o Monitise PLC at The Clove Building, 4 Maguire Street, Butlers Wharf, London, SE1 2NQ.
+If you have any questions at all about this policy or the Site and/or Mobile Product, or about how we use and process your personal information, please do not hesitate to contact us at us by e-mail at support@myvouchercodes.co.uk or, alternatively, in writing to www.MyVoucherCodes.co.uk c/o Monitise Content at Medius House, Level 3, 2 Sheraton Street, Soho, London, W1F 8BH.
