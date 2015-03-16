@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommypage.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701055244id_/http%3A//www.mommypage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommypage.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316235326id_/http%3A//www.mommypage.com/privacy) for the most accurate reproduction.*
 
 # Privacy : Mommypage
 
@@ -94,6 +94,6 @@ You further acknowledge that Mommypage operates in the United States. You agree 
 
 Mommypage or its successors and assigns may amend the terms and conditions of the Privacy Policy at any time, or substitute a different Agreement by posting a revised version, on the Mommypage Sites. Please refer to our site periodically for updates. Amendments shall become effective upon posting. As we continue to develop our business, we might sell or buy certain assets. In such transactions, customer information generally is one of the transferred business assets. If Mommypage or its assets are acquired, customer information will of course be one of the transferred assets.
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the Mommypage email list, please click here or write to us at Mommypage, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566 and request to be removed.
+If you are not in agreement with the terms of this Policy, please unsubscribe from the Mommypage email list, please click here or write to us at Mommypage, 303 Ray Street, Pleasanton, CA 94566 and request to be removed.
 
-If you feel that Mommypage is not abiding by its posted privacy policy, write us at Mommypage, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566.
+If you feel that Mommypage is not abiding by its posted privacy policy, write us at Mommypage, 303 Ray Street, Pleasanton, CA 94566.
