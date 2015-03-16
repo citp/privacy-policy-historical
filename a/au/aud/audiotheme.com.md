@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the audiotheme.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818101138id_/https%3A//audiotheme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiotheme.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316072621id_/https%3A//audiotheme.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - AudioTheme
+# Privacy Policy — AudioTheme
 
 Your privacy is critically important to us.
 
@@ -14,9 +14,9 @@ At AudioTheme we have a few fundamental principles:
 
 Below is our privacy policy which incorporates these goals.
 
-If you have questions about deleting or correcting your personal data please contact our [support team](http://audiotheme.com/contact/).
+If you have questions about deleting or correcting your personal data please contact our [support team](https://audiotheme.com/contact/).
 
-AudioTheme, LLC (“ **AudioTheme** “) operates a variety of websites including [audiotheme.com](http://www.audiotheme.com/), [support.audiotheme.com](http://make.audiotheme.com/), and [demo.audiotheme.com](http://demo.audiotheme.com/). It is AudioTheme’s policy to respect your privacy regarding any information we may collect while operating our websites.
+AudioTheme, LLC (“ **AudioTheme** “) operates a variety of websites including [audiotheme.com](http://www.audiotheme.com/), [support.audiotheme.com](http://make.audiotheme.com/), and [demo.audiotheme.com](https://demo.audiotheme.com/). It is AudioTheme’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
@@ -30,7 +30,7 @@ Certain visitors to AudioTheme’s websites choose to interact with AudioTheme i
 
 ### Aggregated Statistics
 
-AudioTheme may collect statistics about the behavior of visitors to its websites. For instance, AudioTheme may monitor the most popular product demos on the [AudioTheme.com Demo Site](http://demo.audiotheme.com/) or use spam screened by the Akismet service to help identify spam. AudioTheme may display this information publicly or provide it to others. However, AudioTheme does not disclose personally-identifying information other than as described below.
+AudioTheme may collect statistics about the behavior of visitors to its websites. For instance, AudioTheme may monitor the most popular product demos on the [AudioTheme.com Demo Site](https://demo.audiotheme.com/) or use spam screened by the Akismet service to help identify spam. AudioTheme may display this information publicly or provide it to others. However, AudioTheme does not disclose personally-identifying information other than as described below.
 
 AudioTheme may also collect theme usage data through our automatic update mechanism, which checks to insure you have the latest version of the AudioTheme Framework and/or Theme purchased. This process is necessary in order to provide you with a painless and consistent upgrade experience. You can opt out of receiving automatic updates to the latest version of the Framework and your theme by removing your license key in the AudioTheme settings.
 
