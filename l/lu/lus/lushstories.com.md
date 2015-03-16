@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lushstories.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729154013id_/https%3A//www.lushstories.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushstories.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316164223id_/https%3A//www.lushstories.com/privacy.aspx) for the most accurate reproduction.*
 
 # Lush Stories Privacy Policy
 
@@ -37,4 +37,4 @@ HTTP cookies are used by our web server to differentiate users and to maintain d
 
 ### Contact Us
 
-Should you have other questions or concerns about these privacy policies, please use our [contact page](https://web.archive.org/web/20140729154013id_/https%3A//www.lushstories.com/contact-us.aspx). 
+Should you have other questions or concerns about these privacy policies, please use our [contact page](https://web.archive.org/web/20150316164223id_/https%3A//www.lushstories.com/contact-us.aspx). 
