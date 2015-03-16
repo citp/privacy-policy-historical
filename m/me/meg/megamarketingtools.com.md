@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megamarketingtools.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123194645id_/http%3A//megamarketingtools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megamarketingtools.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316020247id_/http%3A//megamarketingtools.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mega Marketing Tools
+# Privacy Policy - Mega Marketing ToolsMega Marketing Tools
 
 ##### Privacy Policy} applies to all MMT sites.
 
