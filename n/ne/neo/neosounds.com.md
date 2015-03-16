@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neosounds.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707014635id_/https%3A//www.neosounds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neosounds.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316100720id_/https%3A//www.neosounds.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,3 +21,5 @@ Cookies are small pieces of information that are stored by your browser on your 
 ### External Sites
 
 We are not responsible for the content of external Internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information. 
+
+Loading ...
