@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lendup.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011043458id_/https%3A//www.lendup.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendup.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316045736id_/https%3A//www.lendup.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy & Security - LendUp
 
-We take our customer privacy very seriously and are committed to our customers' privacy. Scroll down this page to learn what personal information we collect from consumers, how we collect and use it, how we protect it, and how we share personal information. Rest assured: we do not share our customers’ or former customers’ personal information except for our everyday business purposes, such as to verify identity or eligibility for our loan products, to process transactions, maintain account(s), respond to court orders and legal investigations, or report to credit bureaus. 
+We take our customer privacy very seriously and are committed to our customers' privacy. Scroll down this page to learn what personal information we collect from consumers, how we collect and use it, how we protect it, and how we share personal information. We do not share our customers’ or former customers’ personal information except for our everyday business purposes such as to verify identity or eligibility for our loan products, to process transactions, maintain account(s), respond to court orders and legal investigations, or report to credit bureaus. 
 
 ## What types of personal information we collect, how we collect it, and how we use it.
 
@@ -12,10 +12,10 @@ LendUp collects two types of information to create the best customer experience:
 
 LendUp uses personal information as required by state and federal regulators to assure we are promoting safe and responsible lending.
 
-When you first apply for a loan or other service via the LendUp website (www.lendup.com), we ask you to create an account and then ask you to supply certain personal information. We use this information:
+When you first apply for a loan via the LendUp website (www.lendup.com), we ask you to create an account and then ask you to supply certain personal information. We use this information:
 
   * to verify (as much as reasonably possible) that it is you, rather than someone else, that is applying for the loan in your name
-  * to determine your eligibility for the for the requested loan (or other service we provide via our website) under the law and whether you can afford it
+  * to determine your eligibility for the requested loan under the law and whether you can afford it
   * to maintain your account
   * to communicate with you about your account
   * to securely process the funding and repayment transactions to which you and we might agree
@@ -31,11 +31,11 @@ The types of personal information we collect for these purposes can include:
 
 
 
+**COLLECTION AND USE OF BANK ACCOUNT INFORMATION:** As part of our application process, we require banking information. In processing your application, we may detect additional bank accounts under your ownership. We will consider these additional accounts to be part of the application process. By applying, you authorize us to search for and evaluate bank accounts under your ownership for this purpose.
+
 LendUp may also obtain more information about applicants from third parties to help us validate this information. We also collect tokens from online services and payment systems.
 
-After you become a customer by taking out a LendUp loan, we use your information for transaction processing and to communicate with you.
-
-After you become a LendUp customer by obtaining a loan or other service we provide via our website, we use your information for transaction processing and to communicate with you.
+After you become a LendUp customer by obtaining a loan we provide via our website, we use your information for transaction processing and to communicate with you.
 
 ### 2\. Website Usage Information
 
@@ -93,6 +93,6 @@ LendUp allows you to manage your account and information on www.lendup.com. Once
 
 #### LendUp Publishes Our Privacy Policy For Everyone To See
 
-You can always see the most updated changes to the LendUp Privacy Policy on [www.lendup.com](https://web.archive.org/web/20141011043458id_/https%3A//www.lendup.com/en/www.lendup.com) or by contacting LendUp at [privacy@lendup.com](mailto:privacy@lendup.com). In the event we modify our privacy policy, we may contact you via email and provide you with notice of the change and a link to review the new privacy policy.
+You can always see the most updated changes to the LendUp Privacy Policy on [www.lendup.com](https://web.archive.org/web/20150316045736id_/https%3A//www.lendup.com/en/www.lendup.com) or by contacting LendUp at [privacy@lendup.com](mailto:privacy@lendup.com). In the event we modify our privacy policy, we may contact you via email and provide you with notice of the change and a link to review the new privacy policy.
 
-Last Updated: 07/10/2014
+Last Updated: 03/03/2015
