@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the myccpay.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070740id_/http%3A//www.myccpay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myccpay.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316174753id_/https%3A//www.myccpay.com/docs/TCI_privacy.html) for the most accurate reproduction.*
 
-# Total Card, Inc.
+# Welcome to TCI Payments
 
 **Privacy Policy Notice**
 
-  
-
-
          Protecting the privacy and security of your personal information is a top priority for Total Card, Inc. This Privacy Policy Notice will help you understand how we safeguard and use information, and applies to all applicants, customers or former customers who obtain financial services from us for personal, family or household purposes. It also identifies the sources from which we collect non-public personal information about you, details the measures we take to secure that information, and describes the information about you that we may share with our affiliates and with nonaffiliated third parties. This Privacy Policy Notice also addresses information sharing with credit reporting agencies. This Privacy Policy Notice explains how you can exercise your privacy rights by electing to opt-out of certain information sharing practices that we would otherwise apply to your non-public personal information.
 
-          **Collection of Personal Information.**
+         
+
+ **Collection of Personal Information.**
 
          We may collect personal information about you, which we believe to be necessary or useful in accurately and safely administering our business, and providing services, products and other opportunities to you. We collect non-public personal information about you from the following sources:
 
@@ -85,3 +84,8 @@ Sioux Falls, SD 57109
 or call 800-536-6020
 
 Privacy Policy Effective 02/08/2007.
+
+Click here to print this page.
+
+  
+
