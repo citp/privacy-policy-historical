@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the msufcu.org privacy policy that was archived on 2014-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141104030912id_/https%3A//www.msufcu.org/disclosures/%3Fexpand%3Dprivacy_policy%23privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the msufcu.org privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316083959id_/https%3A//www.msufcu.org/disclosures/%3Fexpand%3Dprivacy_policy%23privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en"><head>
 <script language="javascript" type="text/javascript">
 var sslkeysize = "128"; 
 var hbstatus = "1";
-var remaddr = "207.241.237.211";
+var remaddr = "207.241.229.148";
 var clcgi = "dfawrapper.pl";
 </script>
 <link rel="stylesheet" type="text/css" href="https://media.msufcu.org/css/2010_rev.css">
@@ -22,6 +22,7 @@ var clcgi = "dfawrapper.pl";
 <script language="JavaScript" type="text/javascript" src="https://media.msufcu.org/js/capslock__fix.jquery.js"></script>
 <script language="JavaScript" type="text/javascript" src="https://www.msufcu.org/script/mynewjs.js"></script>
 <script language="JavaScript" type="text/javascript" src="https://www.msufcu.org/script/twitt.js"></script>
+<script type="text/javascript" src="https://media.msufcu.org/js/facebox.js"></script>
 </head><body><div id="fb-root"></div>
 
 <link rel="alternate" type="application/rss+xml" title="MSUFCU Events" href="https://www.msufcu.org/rss/events.xml">
@@ -34,8 +35,10 @@ var clcgi = "dfawrapper.pl";
 <link rel="alternate" type="application/rss+xml" title="MSUFCU Checking and Savings Rates" href="https://www.msufcu.org/rss/dividend_rates.xml">
 <link rel="alternate" type="application/rss+xml" title="MSUFCU Certificate Rates" href="https://www.msufcu.org/rss/certificate_rates.xml">
 <link rel="stylesheet" type="text/css" href="https://media.msufcu.org/css/2010_rev_divs.css">
+<link rel="stylesheet" type="text/css" href="https://media.msufcu.org/css/facebox.css">
+<link rel="stylesheet" type="text/css" href="https://media.msufcu.org/css/msufcuid.css">
 <div id="page_wrap">
-  <div id="page">
+	  <div id="page">
     <div id="header_wrap">
       <div id="header_logo">
         <a title="MSUFCU Home" href="https://www.msufcu.org/"><img alt="MSUFCU Logo" title="MSUFCU Home" border="0" src="https://media.msufcu.org/publicsites/msufcu/graphics/new-logo-website-1.gif"></a>
@@ -63,7 +66,8 @@ var clcgi = "dfawrapper.pl";
         </form>
       </div>
       <div id="msufcuid-login-header">
-        <p class="msufcuid-header">          <a class="msufcuid-header" href="https://www.msufcu.org/msufcu_id/login/">MSUFCU ID Sign In</a>
+        <p class="msufcuid-header">
+				          
         </p>
       </div>
       
@@ -72,6 +76,16 @@ var clcgi = "dfawrapper.pl";
         if(parent.frames.length >=1)
         {
         	window.top.location.href="https://www.msufcu.org/";        }
+				$(document).ready(function(){
+					$('a[rel*=facebox]').die().live('click', function(event){
+						event.stopPropagation();
+						event.preventDefault();
+						var href = $(this).attr('href');
+						var glue = href.indexOf('?') > 0 ? '&' : '?';
+						$.facebox({ajax: href + glue + 'ajax=1'});
+						return false;
+					});
+				});
       </script>
                 <div style="padding:0;margin:0;float:left;"><iframe src="https://www.facebook.com/plugins/like.php?href=https://www.facebook.com/msufcu&amp;send=false&amp;layout=standard&amp;width=350&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:370px; height:35px;" allowtransparency="true"></iframe></div><div style="clear:both;"></div>      <div style="clear:both;"></div>
       <div id="main_nav">
@@ -140,17 +154,17 @@ $(document).ready(function() {
 	<table width="220px" class="front-page-box">
 					<tbody><tr>
 				<td style="padding:2px 0 0 0;">
-          <form method="POST" name="NEWFORM1" style="margin:0;padding:0;" action="https://computerline2.msufcu.org/" autocomplete="OFF">
+          <form method="POST" name="NEWFORM1" style="margin:0;padding:0;" action="https://computerline1.msufcu.org/" autocomplete="OFF"><input type="hidden" name="affinity_id" value="1">
       		<input type="hidden" name="loginloc" value="toppageblock">
-          <p class="login-front"><nobr>Base Account #</nobr></p>
+          <p class="login-front"><nobr><label for="cpl_login_id" style="padding-left:15px">Login</label></nobr></p>
 				</form></td>
 				<td>
-					<input type="TEXT" name="accnum" class="login-front" tabindex="1" autocomplete="OFF">
+					<input id="cpl_login_id" type="TEXT" name="accnum" class="login-front" tabindex="1" autocomplete="OFF">
 				</td>
 			</tr>
 			<tr>
 				<td>
-					<p class="login-front"><span id="clpass">Password</span></p>
+					<p class="login-front"><span id="clpass"><label for="password_field" style="padding-left:15px">Password</label></span></p>
 				</td>
 				<td>
 					<input type="PASSWORD" id="password_field" name="password" class="login-front" tabindex="2" autocomplete="OFF">
@@ -159,11 +173,11 @@ $(document).ready(function() {
 					</td>
 			</tr>
 			<tr>
-        <td>
-          <a class="req-p-submit" tabindex="4" title="Request a ComputerLine Password" href="https://www.msufcu.org/contact/request_password/">Request Password</a>
+        <td style="padding-left:13px">
+          <a class="req-p-submit" tabindex="4" title="Login Help" href="https://www.msufcu.org/contact/loginhelp/?expand=havingtrouble,firsttimecluser">Login Help</a>
         </td>
-        <td align="center">
-          <input type="submit" tabindex="3" class="login-submit" value="Login" name="ComputerLine login (128bit secure) computerline2" alt="ComputerLine login (128bit secure) computerline2" title="ComputerLine login (128bit secure) computerline2" onclick="
+        <td align="center" style="padding:4px 0">
+          <input type="submit" tabindex="3" class="login-submit" value="Login" name="ComputerLine login (128bit secure) computerline1" alt="ComputerLine login (128bit secure) computerline1" title="ComputerLine login (128bit secure) computerline1" onclick="
 					 if(document.NEWFORM1.accnum.value == '')
 					 {
 					 	 errpos = $('#clpass').position();
@@ -256,7 +270,7 @@ Sat: 9:00 a.m. - 3:00 p.m. ET</p>
     <title>MSU Federal Credit Union | Disclosures | Savings &amp; Checking</title>
         <div id="page_content_wrap_2nd">
           <div id="page_content_2nd">
-      <h1><span style="color: #5f8d2a"><span style="font-size: 16px"><strong><span style="font-family: arial, helvetica, sans-serif">Savings, Checking &amp; General Account&nbsp;Disclosures</span></strong></span></span></h1></div>            
+      <h1><span style="color:#004f39;"><span style="font-size:14px;"><strong><span style="font-family: arial, helvetica, sans-serif">Savings, Checking &amp; General Account&nbsp;Disclosures</span></strong></span></span></h1></div>            
             <div id="bp_disclosure" name="bp_disclosure" style="float:left;"><h1>
                         <a class="subpage-title" href="https://www.msufcu.org/disclosures/?expand=privacy_policy,bp_disclosure#bp_disclosure"><img border="0" alt="" title="Expand This Section" src="https://media.msufcu.org/publicsites/msufcu/graphics/expand-arrows-right-1.gif" style="vertical-align:middle;">Bill Payment Agreement &amp; Disclosure</a>
                         </h1></div>
@@ -1119,18 +1133,6 @@ When you use your Visa Debit Card, Visa Credit Card, or ATM card at a merchant t
 			<td style="background-image: none; border-bottom-style: none; border-right-style: none; background-color: #ffffff; border-top-style: none; border-left-style: none"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">$2.00</span></span></td>
 		</tr>
 		<tr valign="top">
-			<td style="background-image: none; border-bottom-style: none; border-right-style: none; background-color: #ffffff; border-top-style: none; border-left-style: none"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">Travelers Cheques:</span></span></td>
-			<td style="background-image: none; border-bottom-style: none; border-right-style: none; background-color: #ffffff; border-top-style: none; border-left-style: none"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">&nbsp;</span></span></td>
-		</tr>
-		<tr valign="top">
-			<td style="background-image: none; border-bottom-style: none; border-right-style: none; background-color: #ffffff; border-top-style: none; border-left-style: none"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">--- with one signature</span></span></td>
-			<td style="background-image: none; border-bottom-style: none; border-right-style: none; background-color: #ffffff; border-top-style: none; border-left-style: none"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">$1.00 per $100.00 (1.0%)</span></span></td>
-		</tr>
-		<tr valign="top">
-			<td style="background-image: none; border-bottom-style: none; border-right-style: none; background-color: #ffffff; border-top-style: none; border-left-style: none"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">--- with two signatures</span></span></td>
-			<td style="background-image: none; border-bottom-style: none; border-right-style: none; background-color: #ffffff; border-top-style: none; border-left-style: none"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">$1.50 per $100.00 (1.5%) </span></span></td>
-		</tr>
-		<tr valign="top">
 			<td bgcolor="#dcddde" style="background-image: none; border-bottom-style: none; border-right-style: none; background-color: #dcddde; border-top-style: none; border-left-style: none"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif"><strong>Wire Transfer Fees</strong> </span></span></td>
 			<td bgcolor="#dcddde" style="background-image: none; border-bottom-style: none; border-right-style: none; background-color: #dcddde; border-top-style: none; border-left-style: none"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">&nbsp; </span></span></td>
 		</tr>
@@ -1305,7 +1307,7 @@ East Lansing, MI 48826-1208</span><br>
 Visa: 517-333-2323 or 800-847-2383</span></span><br>
 <span style="font-size: 10px"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">Mortgage: 517-333-2210<br>
 <br>
-Revised 05/14 </span></span></span></p><br>
+Revised 02/15</span></span></span></p><br>
                             <a title="Close This Section" href="https://www.msufcu.org/disclosures/?expand=privacy_policy,fee_schedule#fee_schedule">
                             <hr style="height:2px;color:#D6D6D6;width:95%;text-align:center;"></a>
             </div><div style="clear:both;"></div>
@@ -2135,7 +2137,7 @@ Revised 7/11</span></span></span></span></span></p><br>
 <p><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">Our privacy policy is the same whether you are online or not. At our website, <a href="http://www.msufcu.org/">www.msufcu.org</a>, you may apply for membership, accounts, loans and services. You may also communicate with us via the secure <a href="https://www.msufcu.org/contact">Contact Us form</a>. To protect information you provide us online, we use multiple levels of security. All applications, forms and ComputerLine transactions are submitted to us securely using the industry standard "Secure Socket Layer" (SSL) encryption to secure your submission. MSUFCU uses 128-bit encryption and we use firewalls to secure your information. A firewall is a security measure that insulates the credit union's computer network from the World Wide Web. We analyze the traffic coming in and out of the firewall, which could indicate intrusion activity and computer viruses. MSUFCU contracts with a third-party technology specialist to try to penetrate our network and evaluate the security of our online applications and ComputerLine. MSUFCU has successfully passed each evaluation and is annually certified as a secure site. To read more about online security requirements <a href="/security_center/?expand=online_protection#online_protection">click here</a>.</span></span></p>
 
 <p><br>
-<span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;"><span style="color: rgb(0, 0, 0);"><strong>Links to Other Web Sites</strong> </span></span></span></p>
+<span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;"><span id="disclaimer" style="color: rgb(0, 0, 0);"><strong>Links to Other Web Sites</strong> </span></span></span></p>
 
 <p><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">Links from our website are provided for your convenience only. These linked sites are separate from our credit union's web site. We are not responsible for the content or availability of any linked third party websites or the privacy practices of such third parties. In addition, a link from our website to another does not indicate that MSU Federal Credit Union endorses the services or policies of such third party websites. You should always investigate the information practices of all websites that you access and carefully examine the privacy policies of any websites linking to or from our website. Information collected from the linked websites will be subject to the information practices of those websites. </span></span></p>
 
@@ -2473,7 +2475,7 @@ Important Information Regarding Your MSUFCU Checking.<br>
 
 <p class="Body para-style-override-1">&nbsp;</p>
 
-<p class="Body para-style-override-1"><span style="font-size:12px;"><span style="font-family: arial,helvetica,sans-serif;">The amount of your refund under this procedure is limited to the amount of your loss or the amount of the substitute check, whichever is less. You also are entitled to interest on the amount of your refund if your account is an interest-bearing account. If your loss exceeds the amount of the substitute check, you may be able to recover additional amounts under other law. If you use this procedure, you may receive up to $2,500.00 of your refund (plus interest if your account earns interest) within 10 business days of us recieving your claim and the remainder of your refund (plus interest if your account earns interest) not later than 45 calendar days after we receive your claim. We may reverse the refund (including any interest on the refund) if we are later able to demonstrate that the substitute check was correctly posted to your account.<br>
+<p class="Body para-style-override-1"><span style="font-size:12px;"><span style="font-family: arial,helvetica,sans-serif;">The amount of your refund under this procedure is limited to the amount of your loss or the amount of the substitute check, whichever is less. You also are entitled to interest on the amount of your refund if your account is an interest-bearing account. If your loss exceeds the amount of the substitute check, you may be able to recover additional amounts under other law. If you use this procedure, you may receive up to $2,500.00 of your refund (plus interest if your account earns interest) within 10 business days of us receiving your claim and the remainder of your refund (plus interest if your account earns interest) not later than 45 calendar days after we receive your claim. We may reverse the refund (including any interest on the refund) if we are later able to demonstrate that the substitute check was correctly posted to your account.<br>
 <br>
 <strong><span class="char-style-override-1">How do I make a claim for a refund?</span></strong> If you believe that you have suffered a loss relating to a substitute check that you received and that was posted to your account, please contact us at MSUFCU; Specialty and Support Services; PO Box 1208; East Lansing, MI 48826-1208; by calling 517-333-2424 or toll-free 800-678-4968, or online at www.msufcu.org. You must contact us within 40 calendar days of the date that we mailed (or otherwise delivered by a means to which you agreed) the substitute check in question or the account statement showing that the substitute check was posted to your account, whichever is later. We will extend this time period if you were not able to make a timely claim because of extraordinary circumstances.<br>
 Your claim must include the following:</span></span></p>
@@ -2671,6 +2673,33 @@ Contact us with any questions at (517) 333-2424 or 800-678-4968.</span></span></
                             <hr style="height:2px;color:#D6D6D6;width:95%;text-align:center;"></a>
             </div><div style="clear:both;"></div>
                         
+            <div id="texttowin_sms_tc" name="texttowin_sms_tc" style="float:left;"><h1>
+                        <a class="subpage-title" href="https://www.msufcu.org/disclosures/?expand=privacy_policy,texttowin_sms_tc#texttowin_sms_tc"><img border="0" alt="" title="Expand This Section" src="https://media.msufcu.org/publicsites/msufcu/graphics/expand-arrows-right-1.gif" style="vertical-align:middle;">Text to Win Sweepstakes SMS Terms and Conditions</a>
+                        </h1></div>
+             <div style="clear:both;"></div>         
+            <div id="texttowin_sms_tc_content" class="subpage-2nd" style="display:none;float:left;">
+              <p style="text-align: right"><a href="/disclosures/?expand=privacy_policy#privacy_policy"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">Privacy Policy</span></span></a></p>
+
+<p style="text-align: right">&nbsp;</p>
+
+<p>Text <strong>STOP to 678328</strong> to opt out at any time. For help at any time, text <strong>HELP to 678328</strong>. For additional support, email us at&nbsp; <a href="mailto:eServices@msufcu.org">eServices@msufcu.org</a>. <strong>1 message per entry. Message and Data Rates May Apply.</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>This Service is available on the following carriers:</strong></p>
+
+<hr color="#5f8d2a">
+<p>AT&amp;T, Sprint, T-Mobile, Verizon Wireless, U.S. Cellular, Cricket, Boost, Virgin Mobile, MetroPCS, Cellcom, Carolina West Wireless, C-Spire, nTelos, All West Communications, Appalachian Wireless, Bandwith (Republic), Breakaway Wireless, Cellular One N.E. Arizona, CTC US, DTC Wireless, Duet Wireless, Epic Touch, Farmers Mutual Telephone Co, Mobi PCS Wireless, Mobile Nation, Mosaic Telecom, MTA Wireless, Nucla-Naturita Telephone Co, Panhandle Telecommunications , Peoples Wireless, Pine Cellular, Pioneer Cellular, Sagebrush Cellular, Silver Star PCS, Snake River PCS, Sprocket Wireless, Strata Networks, Syringa Wireless, United Wireless, US Chariton Valley Cellular, ACS/Alaska, Aio Wireless, Bluegrass Cellular,&nbsp; Cablevision, Cellular One of East Central Illinois(ECIT), Cellone Nation (MTPCS),&nbsp; Chat Mobility, Copper Valley, Flat Wireless,&nbsp; GCI Communications, Golden State Cellular, Illinois Valley Cellular, Immix, Inland Cellular, iWireless, Nex-Tech&nbsp; Wireless, Northwest Missouri Cellular, Plateau Wireless, Panhandle (PTCI), SouthernLINC Wireless, SRT Wireless, Thumb Cellular, Union Wireless, Viaero Wireless, West Central Wireless (WCC).</p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">Revised 02/15</span></span></span></span></span></span></p>
+
+<p>&nbsp;</p><br>
+                            <a title="Close This Section" href="https://www.msufcu.org/disclosures/?expand=privacy_policy,texttowin_sms_tc#texttowin_sms_tc">
+                            <hr style="height:2px;color:#D6D6D6;width:95%;text-align:center;"></a>
+            </div><div style="clear:both;"></div>
+                        
             <div id="eAlertsTermsandConditions" name="eAlertsTermsandConditions" style="float:left;"><h1>
                         <a class="subpage-title" href="https://www.msufcu.org/disclosures/?expand=privacy_policy,eAlertsTermsandConditions#eAlertsTermsandConditions"><img border="0" alt="" title="Expand This Section" src="https://media.msufcu.org/publicsites/msufcu/graphics/expand-arrows-right-1.gif" style="vertical-align:middle;">eAlerts Terms and Conditions</a>
                         </h1></div>
@@ -2678,11 +2707,9 @@ Contact us with any questions at (517) 333-2424 or 800-678-4968.</span></span></
             <div id="eAlertsTermsandConditions_content" class="subpage-2nd" style="display:none;float:left;">
               <p><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif"><span style="font-size: 14px"><span style="font-family: arial, helvetica, sans-serif"><span><strong>SMS Terms &amp; Conditions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></span></span></span></span></span><a href="https://www.msufcu.org/disclosures/?expand=privacy_policy#privacy_policy"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">Privacy Policy</span></span></a></p>
 
-<p><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;"><strong>Text STOP to 678328 to opt out at any time. For help at any time, text HELP to 678328. For additional support, email us at </strong><a href="mailto:eServices@msufcu.org">eServices@msufcu.org</a><strong>. Twenty-two (22) messages per month. Message and data rates may apply.</strong><br>
-<br>
-There is no charge from MSUFCU; however, standard text messaging rates apply. Please see your cell phone provider for details.<br>
-<br>
-MSUFCU account and ComputerLine access required. Visit www.msufcu.org/disclosures for all terms and conditions and Privacy Policy. </span></span></p>
+<p>&nbsp;</p>
+
+<p><strong>Text STOP to 678328 to opt out at any time. </strong>For help at any time, text HELP to 678328. For additional support, email us at <a href="mailto:eServices@msufcu.org">eServices@msufcu.org</a>. There is no charge from MSUFCU for these periodic messages; however, <strong>message and data rates may apply.</strong> Please see your cell phone provider for details. MSUFCU account and ComputerLine access required. Visit <a href="http://www.msufcu.org/disclosures">www.msufcu.org/disclosures</a> for all terms and conditions and Privacy Policy.</p>
 
 <p>&nbsp;</p>
 
@@ -2691,12 +2718,11 @@ MSUFCU account and ComputerLine access required. Visit www.msufcu.org/disclosure
 <hr color="#5f8d2a">
 <p>&nbsp;</p>
 
-<p><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">AT&amp;T, Alltel, T-Mobile, Verizon Wireless, U.S. Cellular, Sprint, MetroPCS, Boost, Cellcom, Cellular One, Cellular South, Cincinnati Bell, nTelos, Virgin Mobile, ACS Wireless, Bluegrass, ECIT - Cellular One of Central Illinois, EKN - Appalachian Wirelsss, GCI Communications, Immix - PC Management, Inland Cellular, IVC - Illinois Valley Cellular, Nex-Tech Wireless, RCC/Unicel, Revol, RINA/ALL West Wireless, RINA/CTC Telecom-Cambridge, RINA/FMTC-Farmers Mutual Telephone Co., RINA/Nucla-Naturita Telephone Co., RINA/Silverstar, RINA/Snake River PCS, RINA/South Central, RINA/Syringa Wireless, RINA/UBET, West Central Wireless</span></span></span></span></span></span></p>
+<p>AT&amp;T, Sprint, T-Mobile, Verizon Wireless, U.S. Cellular, Cricket, Boost, Virgin Mobile, MetroPCS, Cellcom, Carolina West Wireless, C-Spire, nTelos, All West Communications, Appalachian Wireless, Bandwith (Republic), Breakaway Wireless, Cellular One N.E. Arizona, CTC US, DTC Wireless, Duet Wireless, Epic Touch, Farmers Mutual Telephone Co, Mobi PCS Wireless, Mobile Nation, Mosaic Telecom, MTA Wireless, Nucla-Naturita Telephone Co, Panhandle Telecommunications , Peoples Wireless, Pine Cellular, Pioneer Cellular, Sagebrush Cellular, Silver Star PCS, Snake River PCS, Sprocket Wireless, Strata Networks, Syringa Wireless, United Wireless, US Chariton Valley Cellular, ACS/Alaska, Aio Wireless, Bluegrass Cellular,&nbsp; Cablevision, Cellular One of East Central Illinois(ECIT), Cellone Nation (MTPCS),&nbsp; Chat Mobility, Copper Valley, Flat Wireless,&nbsp; GCI Communications, Golden State Cellular, Illinois Valley Cellular, Immix, Inland Cellular, iWireless, Nex-Tech&nbsp; Wireless, Northwest Missouri Cellular, Plateau Wireless, Panhandle (PTCI), SouthernLINC Wireless, SRT Wireless, Thumb Cellular, Union Wireless, Viaero Wireless, West Central Wireless (WCC).</p>
 
-<p><br>
-&nbsp;</p>
+<p>&nbsp;</p>
 
-<p><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">Revised 03/14</span></span></span></span></span></span></p><br>
+<p><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif"><span style="font-size: 12px"><span style="font-family: arial, helvetica, sans-serif">Revised 02/15</span></span></span></span></span></span></p><br>
                             <a title="Close This Section" href="https://www.msufcu.org/disclosures/?expand=privacy_policy,eAlertsTermsandConditions#eAlertsTermsandConditions">
                             <hr style="height:2px;color:#D6D6D6;width:95%;text-align:center;"></a>
             </div><div style="clear:both;"></div>
@@ -2722,6 +2748,43 @@ MSUFCU account and ComputerLine access required. Visit www.msufcu.org/disclosure
                             <a title="Close This Section" href="https://www.msufcu.org/disclosures/?expand=privacy_policy,ou_tradnamedisclosure#ou_tradnamedisclosure">
                             <hr style="height:2px;color:#D6D6D6;width:95%;text-align:center;"></a>
             </div><div style="clear:both;"></div>
+                        
+            <div id="irarollover_january2015" name="irarollover_january2015" style="float:left;"><h1>
+                        <a class="subpage-title" href="https://www.msufcu.org/disclosures/?expand=privacy_policy,irarollover_january2015#irarollover_january2015"><img border="0" alt="" title="Expand This Section" src="https://media.msufcu.org/publicsites/msufcu/graphics/expand-arrows-right-1.gif" style="vertical-align:middle;">Significant New Rules Impacting IRA Rollovers in Effect Beginning January 1, 2015</a>
+                        </h1></div>
+             <div style="clear:both;"></div>         
+            <div id="irarollover_january2015_content" class="subpage-2nd" style="display:none;float:left;">
+              <p style="text-align: center; "><span style="color:#004f39;"><strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Important Notice</span></span></strong></span></p>
+
+<p style="text-align: center; ">&nbsp;</p>
+
+<p style="text-align: center; "><span style="color:#004f39;"><strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Significant New Rules Impacting IRA Rollovers&nbsp;</span></span></strong><br>
+<strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">in Effect Beginning January 1, 2015</span></span></strong></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">The IRS Tax Court has ruled that an IRA owner may complete only one rollover&nbsp;across all IRAs owned by that individual per 12-month period. This ruling goes into effect on January 1, 2015. Prior to this ruling, the one rollover per 12-month period was interpreted to apply to each IRA individually.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>What is a rollover? </strong>A rollover is a reportable movement of funds between IRAs. The IRA owner has use of the funds and will not be assessed IRS tax or penalties as long as the funds are deposited into a similar plan within 60 days of the withdrawal.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">This ruling does not limit the movement of IRA assets by means of a transfer between financial institutions. A transfer is a tax-free, non-reportable movement of assets from one IRA to another when the IRA owner does not&nbsp;have control of the funds involved. Conversions of traditional IRAs to Roth IRAs are also not limited.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>What does this mean to you?</strong> When considering moving IRA assets, it is important to note that you will be responsible for determining your eligibility to perform a rollover. You can still perform an unlimited&nbsp;number of transfers to move IRA Funds.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">If you have any questions, please feel free to <a href="/contact">contact us online</a> or call&nbsp;517-333-2424 or 800-678-4968</span></span>.</p><br>
+                            <a title="Close This Section" href="https://www.msufcu.org/disclosures/?expand=privacy_policy,irarollover_january2015#irarollover_january2015">
+                            <hr style="height:2px;color:#D6D6D6;width:95%;text-align:center;"></a>
+            </div><div style="clear:both;"></div>
                 </div>
    </div>
 </div>
@@ -2744,7 +2807,7 @@ MSUFCU account and ComputerLine access required. Visit www.msufcu.org/disclosure
   				APR = Annual Percentage Rate. *APY = Annual Percentage Yield.
   				<a class="footer" href="https://www.msufcu.org/disclosures/?expand=privacy_policy#privacy_policy">View our Privacy Policy</a> and 
   				read our <a class="footer" href="https://www.msufcu.org/disclosures/?expand=privacy_policy#Links to Other Web Sites">disclaimer</a> 
-  				regarding links to other sites. <br>Copyright © 2014 Michigan State University Federal Credit Union.  All Rights Reserved. 
+  				regarding links to other sites. <br>Copyright © 2015 Michigan State University Federal Credit Union.  All Rights Reserved. 
   				</p>
       </div>      
       <div id="footer_logos">
