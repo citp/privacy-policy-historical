@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citizenpath.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128145634id_/https%3A//citizenpath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenpath.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316065657id_/https%3A//citizenpath.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CitizenPath
+# Privacy Policy - CitizenPath
 
 Disclaimer: Communications between you and CitizenPath are protected by our Privacy Policy but not by the attorney-client privilege or as work product. CitizenPath provides access to independent attorneys and self-help services at your specific direction. We are not a law firm or a substitute for an attorney or law firm. We cannot provide any kind of advice, explanation, opinion, or recommendation about possible legal rights, remedies, defenses, options, selection of forms or strategies. Your access to the website is subject to our [Terms of Use](http://citizenpath.com/terms-use/ "Terms of Use").
 
