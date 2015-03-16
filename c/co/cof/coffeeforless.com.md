@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726181435id_/http%3A//www.coffeeforless.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316032834id_/http%3A//www.coffeeforless.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
