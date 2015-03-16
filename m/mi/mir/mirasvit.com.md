@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the mirasvit.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212192436id_/http%3A//mirasvit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirasvit.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316150838id_/https%3A//mirasvit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mirasvit Magento Extensions
 
-  *     * Please log in to download your product.
-
-
-
- **What information do we collect?**
+**What information do we collect?**
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or install our extension.
 
