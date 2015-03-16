@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cncexotics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625214718id_/http%3A//www.cncexotics.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cncexotics.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316163401id_/http%3A//www.cncexotics.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # CNC Motors Inc. Serving Ontario, CA, New, Used Cars - Privacy Policy
-
-### Privacy Policy
 
 |  |  |  What does CNC Motors Inc. (referred to herein as “CNC Motors Inc.”, the “Company,” “we,” “us” or “our”), do with your personal information?   
 ---|---  
