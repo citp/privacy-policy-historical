@@ -1,38 +1,40 @@
-> *The following text is extracted and transformed from the newbluefx.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011012651id_/http%3A//www.newbluefx.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbluefx.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316070948id_/https%3A//www.newbluefx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NewBlueFX
 
 ## NewBlueFX: Privacy Statement
 
- **We respect and protect your confidentiality.**
+**We respect and protect your confidentiality.**
 
 NewBlue is 100% committed to protecting the privacy of all information provided by our users.
 
- **Information Collection and User**
+**Information Collection and User**
 
 We collect only the information we need to process your sale and provide product support: your name, e-mail address, mailing address and phone number, and products purchased. At time of purchase, you may also indicate a preference to receive product update information and offers.
 
 Once collected, we will not disclose this information to third parties (unless we are required to do so by law) and will protect this information in accordance with our strict security and confidentiality standards. We do not offer or allow the selling of any user provided information to third parties.
 
+If after purchase you no longer desire our services, you can correct, update or remove the personal data provided to us by logging on to our Support system and editing or deleting your Personal Profile.
+
 If you bought our product through an affiliate, they also received this information through the purchase process, and you should check their privacy policy. We only work with reputable affiliates who ascribe to trustworthy standards.
 
-Finally, the address and product purchase information is provided to us by our electronic commerce provider, eSellerate. You can read their privacy policy at http://www.esellerate.net/privacy.asp.
+Finally, the address and product purchase information is provided to us by our electronic commerce provider, Avangate. You can read their privacy policy at <http://www.avangate.com/privacy.php>.
 
- **Correcting / Updating Personal Information**
+**Correcting / Updating Personal Information**
 
 If your personal information changes (such as your zip code), or if you no longer desire our services, you can correct, update or remove the personal data provided to us. You may also choose to opt in or out of our product update option at any time.
 
 To change your personal information, log on to our Support system and edit your Personal Profile.
 
- **Security**
+**Security**
 
-NewBlue does not have access to your credit card or other payment information, which is handled through eSellerate. eSellerate protects your transaction with the strongest exportable standards of encryption. For further protection, eSellerate does not store your complete credit card numbers after the transaction.
+NewBlue does not have access to your credit card or other payment information, which is handled through Avangate. Avangate protects your transaction with the strongest exportable standards of encryption. For further protection, Avangate does not store your complete credit card numbers after the transaction.
 
-eSellerate’s security policy is included as a link on your order, so you may review it before completing your transaction.
+Avangate’s security policy is included as a link on your order, so you may review it before completing your transaction.
 
 NewBlue also does everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, our sales representatives, marketing personnel or customer service representatives) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
 
- **Cookies**
+**Cookies**
 
 A cookie is a piece of data that identifies you as a unique user. The cookies we use do not collect personal identification information, and we do not use them to determine your identity.
 
@@ -42,14 +44,14 @@ If you are not comfortable with this use, you may configure your browser so you 
 
 Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to, or control over, these cookies.
 
- **Log Files**
+**Log Files**
 
 We use IP addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
- **Links**
+**Links**
 
 This web site contains links to other sites. Please be aware that we, NewBlue, are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personal identification information. This privacy statement applies solely to information collected by this Web site.
 
- **Children's Privacy**
+**Children's Privacy**
 
 NewBlue adheres to the Children's Online Privacy Protection Act of 1998 and the guidelines of the Children's Advertising Review Unit (CARU) of the Council of Better Business Bureaus, Inc. on our site.
