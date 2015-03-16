@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ncesc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070153id_/http%3A//www.ncesc1.com/PMI/faqs/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncesc.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316063657id_/https%3A//desncc.com/DESHome/Static%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
 
-# DES NC Public and Media Information: Privacy Policy
+# NC Department of Commerce - Division of Employment Services
 
-Information collected and stored automatically 
+### Information collected and stored automatically
 
-When you visit the DES web site to browse, read pages, or download information, we automatically collect and store only the following information:
+When you visit the DES web site to browse, read pages, or download information, we automatically collect and store only the following information: 
 
   * The Internet domain and IP address from which you access our site; 
   * The type of browser and operating system used to access our site; 
@@ -15,7 +15,7 @@ When you visit the DES web site to browse, read pages, or download information, 
 
 The DES uses this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. 
 
-Information collected for those transacting business with the DES through the Internet
+### Information collected for those transacting business with the DES through the Internet
 
 Only information necessary for the business transaction is collected.
 
