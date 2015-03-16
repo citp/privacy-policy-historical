@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chemicalguys.com privacy policy that was archived on 2014-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702124749id_/http%3A//www.chemicalguys.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chemicalguys.com privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316175400id_/http%3A//www.chemicalguys.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript" async="" src="https://d2j3qa5nc37287.cloudfront.net/coupon_code1.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -42,7 +42,7 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?6.69.0.932"></script>
+<script type="text/javascript" src="/a/j/volusion.js?6.91.0.1328"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -78,13 +78,14 @@ var Config_CDN_URL = '/'
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.69.0.932"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.91.0.1328"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
 </script>
 
-
+<script type="text/javascript" src="//8upsell.s3.amazonaws.com/volusion/store/init677f2f10d1eb9ad7b2d4ee18fde09bc5.js"></script>
+<!-- Use of this pixel is subject to the Amazon ad specs and policies at http://www.amazon.com/b/?&node=7253015011 --><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body id="body"><img src="http://s.amazon-adsystem.com/iui3?d=3p-hbg&amp;ex-src=www.chemicalguys.com&amp;ex-hargs=v%3D1.0%3Bc%3D3729628552186%3Bp%3D5ef71af5-379d-2da5-c09d-fbd7c2255ad0" width="1" height="1" border="0"><img height="1" width="1" style="border-style:none;" alt="" src="http://fls-na.amazon.com/1/4167132/1/OP/?id=5ef71af5-379d-2da5-c09d-fbd7c2255ad0&amp;type=55">
 <meta name="msvalidate.01" content="B0B0BAAF779776EE393091146DEAB41E">
 <meta name="google-site-verification" content="gM_HZrsRmMgTPoia89zesy3k8MeU5Q8wlmF_8n0Vdd0">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -98,10 +99,89 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 -->
 
 <link href="/v/vspfiles/templates/223/css/Imports.css" rel="stylesheet" type="text/css">
-<script src="/v/vspfiles/banner/js/jquery-1.4.4.min.js" type="text/javascript"></script>
+<link href="/v/vspfiles/assets/custom-pages/sticky-footer/sticky-footer.css" rel="stylesheet" type="text/css">
+<!--<SCRIPT src="/v/vspfiles/banner/js/jquery-1.4.2.min.js" type="text/javascript"></SCRIPT>-->
 
+<!-- BEGIN BAZAARVOICE -->
+<script type="text/javascript" src="//display.ugc.bazaarvoice.com/static/smartwax/en_US/bvapi.js"></script>
 
+<script type="text/javascript" language="javascript">
+try {
+	 jQuery(
+		  function () {
+			   var isOnProductPage = jQuery('#vCSS_mainform').length != 0;
+			   var isOnSearchResultsPage = jQuery('form.search_results_section').length != 0;
+			   var isOnHomePage = jQuery('#div_articleid_2').length != 0;
 
+			   if (isOnProductPage) {
+
+					var bvRRSummaryContainer = jQuery("<div id='BVRRSummaryContainer' />");
+					var bvRRContainer = jQuery("<div id='BVRRContainer' />");
+					var bvQAContainer = jQuery("<div id='BVQAContainer' />");
+
+					jQuery('#vCSS_mainform').after(bvQAContainer);
+					jQuery('#vCSS_mainform').after(bvRRContainer);
+					// jQuery('#v65-productdetail-action-wrapper').append(bvRRSummaryContainer);
+					jQuery('#v65-product-parent > tbody > tr:nth-child(2) > td:nth-child(2) > table > tbody > tr > td > table > tbody > tr:nth-child(2) > td:nth-child(2)').append(bvRRSummaryContainer);
+
+					// $BV.configure('global', { productId : 'product1' });
+					$BV.configure('global', { productId: global_Current_ProductCode });
+					$BV.ui('rr', 'show_reviews');
+					$BV.ui('qa', 'show_questions');
+
+			   }  else if (isOnSearchResultsPage) {
+					var bvProductCodes = [];
+
+					jQuery.each(jQuery('a.productnamecolor.colors_productname'), function (index, value) {
+						 var $thisElement = jQuery(value);
+						 var bvPageName = /[^/]*$/.exec($thisElement.attr('href'))[0];
+						 var bvProductCode = bvPageName.replace(".html", "").replace(".htm", "").toLowerCase().replace('.','-');
+						 bvProductCodes.push(bvProductCode);
+						 var newDivId = 'BVRRInlineRating-' + bvProductCode;
+						 var newDivContainer = jQuery("<div id='" + newDivId + "' />")
+						 var targetedDiv = jQuery($thisElement).parent();
+						 targetedDiv.append(newDivContainer);
+					});
+
+					$BV.ui('rr', 'inline_ratings', {
+						 productIds: bvProductCodes,
+						 containerPrefix: 'BVRRInlineRating'
+					});
+
+			   } else if (isOnHomePage) {
+					var bvProductCodes2 = [];
+					var bvCounter = 1;
+
+					jQuery.each(jQuery('a.colors_productname'), function (index, value) {
+						 var $thisElement2 = jQuery(value);
+						 var bvPageName2 = /[^/]*$/.exec($thisElement2.attr('href'))[0];
+						 var bvProductCode2 = bvPageName2.replace(".html", "").replace(".htm", "").toLowerCase().replace('.','-');
+						 bvProductCodes2.push(bvProductCode2);
+						 var newDivId2 = 'BVRRInlineRating-' + bvProductCode2;
+						 var newDivContainer2 = jQuery("<div id='" + newDivId2 + "' />")
+						 var targetedDiv2 = jQuery($thisElement2).parent();
+						 if (bvCounter == 4)
+							  bvCounter = 1;
+						 else
+							  bvCounter++;
+
+						 targetedDiv2.append(newDivContainer2);
+					});
+
+					$BV.ui('rr', 'inline_ratings', {
+						 productIds: bvProductCodes2,
+						 containerPrefix: 'BVRRInlineRating'
+					});
+			   } else {
+					$BV.configure('global', { productId: 'product1' });
+			   }
+		  }
+	 );
+}
+catch (e) {
+	 console.log(e);
+};
+</script>
 
 
 <script type="text/javascript">
@@ -151,11 +231,43 @@ window._fbq = window._fbq || [];
 window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=246993718824889&amp;ev=NoScript" /></noscript>
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
 
 <!-- #################### FREE TEMPLATE INFO V-SURF-MF-JC-1132011 #################### -->
 
-<body id="body">
+
+
+
+<!---------- Sticky Footer ---------->
+<div id="footer_sticky">
+	<div id="sticky_footer_inner">
+		<div id="footer_sticky_toggle"><a id="footer_sticky_btn"></a></div>
+		<div id="footer_sticky_content" style="display:block;">
+			<a href="/contact_s/283.htm" title="Contact Chemical Guys" id="footer_sticky_contact">
+				<img src="/v/vspfiles/assets/custom-pages/sticky-footer/images/sticky-contact.png" alt="Phone">
+				<p><span>Contact Us 1.866.822.3670</span><br>Mon-Fri 7AM-5:30PM PT</p>
+			</a>
+			<form action="/mailinglist_subscribe.asp" method="post" id="sticky_newsletter_subscribe">
+				<label><span>Email</span> Signup</label>
+				<div id="sticky_newsletter_input_wrap">
+					<input type="text" id="sticky_newsletter_input" name="emailaddress" value="Enter Email" style="color: #b5b5b5;" onfocus="inputTextClicked(this, '#000000');" onblur="inputTextBlurred(this, '#b5b5b5');"><input type="image" src="/v/vspfiles/assets/custom-pages/sticky-footer/images/sticky-go.png" alt="Sign Up" title="Sign Up">
+				</div>
+			</form>
+			<div id="footer_sticky_social">
+				<a href="http://www.chemicalguysforum.com/" title="Read the Chemical Guys Forum" target="_blank" class="social_forum"><img src="/v/vspfiles/assets/custom-pages/sticky-footer/images/sticky-forum.png" alt="Forum"></a>
+				<a href="http://www.facebook.com/pages/Chemical-Guys/159949434070452?ref=ts" title="Follow Chemical Guys on Facebook" target="_blank" class="social_facebook"><img src="/v/vspfiles/assets/custom-pages/sticky-footer/images/sticky-facebook.png" alt="Facebook"></a>
+				<a href="https://twitter.com/ChemicalGuys" title="Follow Chemical Guys on Twitter" target="_blank" class="social_twitter"><img src="/v/vspfiles/assets/custom-pages/sticky-footer/images/sticky-twitter.png" alt="Twitter"></a>
+				<a href="http://www.youtube.com/user/chemicalGuys" title="Follow Chemical Guys on YouTube" target="_blank" class="social_youtube"><img src="/v/vspfiles/assets/custom-pages/sticky-footer/images/sticky-youtube.png" alt="YouTube"></a>
+				<a href="http://instagram.com/chemicalguys" title="Follow Chemical Guys on Instagram" target="_blank" class="social_instagram"><img src="/v/vspfiles/assets/custom-pages/sticky-footer/images/sticky-instagram.png" alt="Instagram"></a>
+				<!--<a href="http://chemicalguysusa.blogspot.com/" title="Read the Chemical Guys Blog" target="_blank" class="social_blog"><img src="/v/vspfiles/assets/custom-pages/sticky-footer/images/sticky-blog.png" alt="Blog" /></a>-->
+			</div>
+			<!--<div id="footer_sticky_livechat"><img src="/v/vspfiles/assets/custom-pages/sticky-footer/images/sticky-livechat-online.png" alt="Live Chat" /><!-- If using Volusion float live chat, it'll be added here via jQuery. Do not change div ID END COMMENT</div>-->
+		</div>
+	</div>
+</div>
+<!---------- END Sticky Footer ---------->
+
+
 <div id="page_wrapper">
 
 <!-- ======================== HEADER ======================== -->
@@ -164,8 +276,8 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <div id="display_homepage_title"><span itemscope="" itemtype="http://schema.org/Store"><meta itemprop="name" content="chemicalguys.com"><a href="http://www.chemicalguys.com/default.asp" title="chemicalguys.com">chemicalguys.com</a></span></div>
     
     <div id="site_tools">
-     <a href="/COUPONS_s/245.htm"><b>Free Shipping on Orders of $200 or More! Click here for details.              </b> </a>
-<a href="/Gift_Certificates_Detailing_Supplies_Chemical_guys_s/100.htm">Gift Certificates</a>        
+     <a href="/COUPONS_s/245.htm"><b>Free Shipping on Orders of $50 or More! Free Products with Products with Orders of $100 or More. Click here for details.              </b> </a>
+<a href="/Gift_Certificates_Detailing_Supplies_Chemical_guys_s/100.htm"></a>        
 <a href="http://www.chemicalguys.com/shoppingcart.asp">View Cart</a>
         <a href="http://www.chemicalguys.com/myaccount.asp">My Account</a>
         <a href="http://www.chemicalguys.com/aboutus.asp">About Us</a>
@@ -174,7 +286,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 </div>
     <div id="display_search">
         <form action="http://www.chemicalguys.com/SearchResults.asp" method="get" name="SearchBoxForm">
-            <input type="text" name="Search" id="search_input" value="enter keywords..." onfocus="if (this.value == 'enter keywords...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter keywords...';}">
+            <input type="text" name="Search" id="search_input" value="Enter Keyword" data-bl-defaulttext="Enter Keyword" data-bl-defaultclass="search_empty">
 <input type="submit" name="Submit" id="search_submit" value="">
         </form><br><br>
  <a target="_blank" href="http://www.chemicalguys.com/SearchResults.asp?Cat=283">
@@ -316,7 +428,7 @@ VOLUSION LINK - BEGIN
 Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp) to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement.
 =========================================================================================== --> 
     <div id="footerBottom">
-<a href="http://www.chemicalguys.com/terms.asp">Copyright © <script type="text/javascript"> document.write(new Date().getFullYear());</script>2020&nbsp;Chemicalguys.com.</a><br>All Rights Reserved.<br>Built with <a href="http://www.volusion.com" target="_blank" rel="nofollow">Volusion</a></div>
+<a href="http://www.chemicalguys.com/terms.asp">Copyright © <script type="text/javascript"> document.write(new Date().getFullYear());</script>2020&nbsp;Chemicalguys.com.</a><br>All Rights Reserved.<br>Ecommerce Software by Volusion</div>
 
 
 </div>
@@ -350,6 +462,7 @@ window.onload = function(){
 }());
 </script>
 
+<script type="text/javascript" src="/v/unified.js.asp"></script>
 
 
 
