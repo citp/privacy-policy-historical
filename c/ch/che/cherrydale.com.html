@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cherrydale.com privacy policy that was archived on 2013-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131026071728id_/https%3A//www.cherrydale.com/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cherrydale.com privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316100924id_/https%3A//www.cherrydale.com/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -61,8 +61,9 @@
 <link rel="stylesheet" type="text/css" href="fancybox/jquery.fancybox-1.3.4.css" media="screen">
 </head>
 
-<body onload="MM_preloadImages('images/CDF_thumb.png','images/cherry_challenge_on.jpg','images/vip_shopping_spree_on.jpg','images/start_fundraising_on.jpg','images/chairperson_log-in_on.jpg')">
-				<!--<script type="text/javascript">
+<body onload="MM_preloadImages('images/CDF_thumb.png','images/cherry_challenge_on.jpg','images/vip_shopping_spree_on.jpg','images/start_fundraising_on.jpg','images/chairperson_log-in_on.jpg')"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+				
+<!--<script type="text/javascript">
     $(document).ready(function() {
         $("#hidden_link").fancybox().trigger('click');
     });
@@ -77,6 +78,31 @@
 		}
 	}		
 </script>
+
+
+<!-- Script To Grab Search Paramaters From Search Form For Internal Site Search Tracking -->
+<script>
+$(document).ready(function() {
+var strURL = document.location.href;
+if (strURL.indexOf("/go_shopping_list.php") != -1) { // Only run the script on the /go_shopping_list.php page
+
+var intSearchVal = $("#search").val(); // Keyword field ID. 
+
+var noResults = document.getElementById('sub_main_body').innerHTML; // ID of div where the text for "No posts found" is shown.
+
+if (noResults.indexOf("Currently No Products in this Category") != -1) { 
+
+_gaq.push(['_trackPageview','/search/?cat=No results&q='+intSearchVal]);
+} else {
+_gaq.push(['_trackPageview','/search/?q='+intSearchVal]);
+}
+}
+});
+
+</script> 
+
+<!-- End Internal Site Search Script -->  
+
 <!--Header -->
 <table width="975" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr>
@@ -96,7 +122,8 @@
   <tr>
     <td width="325" valign="bottom">
     <form name="frm" id="frm" action="go_shopping_list.php" method="post">
-    <div class="search">Search <input type="text" name="search" id="search" value="">
+    <div class="search">Product Search 
+      <input type="text" name="search" id="search" value="">
     <input type="image" name="submit" value="Submit" src="images/go.png" width="25" height="24" style="margin-bottom:-8px; margin-left:5px;" onclick="javascript:return validate(this.form);">     
     </div>
 	</form></td>
@@ -315,10 +342,14 @@ If we alter our privacy policy, any changes will be posted on this page  of our 
 <!-- Footer begin -->
 <table width="975" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr>
-    <td align="center" background="images/footer_bkgd.jpg"><div class="footer" id="footer_link"><a target="new" href="http://www.facebook.com/cherrydalefarms"><img src="images/facebook.jpg" width="94" height="29" hspace="0" border="0" align="absmiddle"></a><a target="new" href="http://www.twitter.com/CherrydaleFarms"><img src="images/twitter.jpg" width="81" height="29" hspace="15" border="0" align="absmiddle"></a><a href="index.php">Home </a>| <a href="/Start_Fundraising">Start Fundraising</a> | <a href="go_shopping.php">Go Shopping</a> | <a href="/About_Us">About Us</a> | <a href="/Resource_Center">Resource Center</a> | <a href="/Contact_Us">Contact Us</a> | <a href="/Privacy_Policy">Privacy Policy</a> |  <a href="/Disclaimer">Disclaimer</a></div></td>
+    <td align="center" background="images/footer_bkgd.jpg"><div class="footer" id="footer_link">
+         
+      <p><a target="new" href="http://www.facebook.com/cherrydalefarms"><img src="images/facebook_badge.png" width="48" height="49" hspace="15" border="0" align="absmiddle" onmouseover="this.src='images/facebook_badge_on.png'" onmouseout="this.src='images/facebook_badge.png'"></a><a target="new" href="http://www.twitter.com/CherrydaleFarms"><img src="images/twitter_badge.png" width="48" height="49" hspace="15" border="0" align="absmiddle" onmouseover="this.src='images/twitter_badge_on.png'" onmouseout="this.src='images/twitter_badge.png'"></a><a target="new" href="https://www.cherrydale.com/Blog/"><img src="images/blog_badge.png" width="48" height="49" hspace="15" border="0" align="absmiddle" onmouseover="this.src='images/blog_badge_on.png'" onmouseout="this.src='images/blog_badge.png'"></a><a target="new" href="https://www.youtube.com/user/CherrydaleFundraiser"><img src="images/youtube_badge.png" width="48" height="49" hspace="15" border="0" align="absmiddle" onmouseover="this.src='images/youtube_badge_on.png'" onmouseout="this.src='images/youtube_badge.png'"></a><a target="new" href="https://plus.google.com/112491798318630000387/"><img src="images/googleplus_badge.png" width="48" height="49" hspace="15" border="0" align="absmiddle" onmouseover="this.src='images/googleplus_badge_on.png'" onmouseout="this.src='images/googleplus_badge.png'"></a><a target="new" href="http://www.pinterest.com/cherrydalefarms"><img src="images/pinterest_badge.png" width="48" height="49" hspace="15" border="0" align="absmiddle" onmouseover="this.src='images/pinterest_badge_on.png'" onmouseout="this.src='images/pinterest_badge.png'"></a><a target="new" href="https://www.linkedin.com/in/cherrydalefundraising"><img src="images/linkedin_badge.png" width="48" height="49" hspace="15" border="0" align="absmiddle" onmouseover="this.src='images/linkedin_badge_on.png'" onmouseout="this.src='images/linkedin_badge.png'"></a>      
+      </p><p><a href="index.php">Home </a>| <a href="/Start_Fundraising">Start Fundraising</a> | <a href="go_shopping.php">Go Shopping</a> | <a href="/About_Us">About Us</a> | <a href="/Resource_Center">Resource Center</a> | <a href="/Contact_Us">Contact Us</a> | <a href="/Privacy_Policy">Privacy Policy</a> |  <a href="/Disclaimer">Disclaimer</a>            
+    </p></div></td>
   </tr>
   <tr>
-    <td align="center"><div class="copywrite">© 1912-2013&nbsp;Cherrydale Farms Fundraising, 707 N. Valley Forge Rd. Lansdale, PA 19446, 1.800.333.4525<br>
+    <td align="center"><div class="copywrite">© 1907-2015&nbsp;Cherrydale Farms Fundraising, 707 N. Valley Forge Rd. Lansdale, PA 19446, 1.800.333.4525<br>
 ALL RIGHTS RESERVED. Please refer to legal terms of use.</div></td>
   </tr>
   <tr>
@@ -337,5 +368,29 @@ ALL RIGHTS RESERVED. Please refer to legal terms of use.</div></td>
  </tr>
 </tbody></table>
 <!-- Footer end-->
+<!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('9013-443-10-5805');/*]]>*/</script><noscript><a href="https://www.olark.com/site/9013-443-10-5805/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code -->
 
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="//munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+<script>Munchkin.init('711-CBQ-290');</script>
 <div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
