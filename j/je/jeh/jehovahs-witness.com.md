@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jehovahs-witness.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027023135id_/http%3A//www.jehovahs-witness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jehovahs-witness.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316042652id_/http%3A//www.jehovahs-witness.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ The Operators’s web sites may provide links to third-party web sites for the c
 
 ### Non-Personal Information
 
-Non-personal information is data about usage and service operation that is not directly associated with a specific personal identity. The Operators may collect and analyze non-personal information to evaluate how visitors use the Operators’s web sites.
+Non-personal information is data about usage and service operation that is not directly associated with a specific personal identity. The Operators may collect and analyze non-personal information to evaluate how visitors use the Operators’s web sites. Such information includes the location the web sites were accessed from.
 
 ### Aggregate Information
 
@@ -44,9 +44,9 @@ Most browser software can be set up to deal with cookies. You may modify your br
 
 The Operators’s web site also may use web beacons to collect non-personal information about your use of our web site and the web sites of selected sponsors or members, your use of special promotions or newsletters, and other activities. The information collected by web beacons allows us to statistically monitor how many people are using our web site and selected sponsors’ sites; how many people open our emails; and for what purposes these actions are being taken. Our web beacons are not used to track your activity outside of our web site or those of our sponsors. The Operators do not link non-personal information from web beacons to personally identifiable information without your permission.
 
-### Personal Information
+### Personally Identifiable Information (PII)
 
-Personal information is information that is associated with your name or personal identity. The Operators use personal information to better understand your needs and interests and to provide you with better service. On some of the Operators web pages, you may be able to request information, subscribe to mailing lists, participate in online discussions, collaborate on documents, provide feedback, submit information into registries, register for events, apply for membership, or join technical committees or working groups. The types of personal information you provide to us on these pages may include name, address, phone number, e-mail address, user IDs, passwords, billing information, or credit card information.
+Personally Identifiable Information (PII) is information that is associated with your name or personal identity. The Operators use personal information to better understand your needs and interests and to provide you with better service. On some of the Operators web pages, you may be able to request information, subscribe to mailing lists, participate in online discussions, collaborate on documents, provide feedback, submit information into registries, register for events, apply for membership, or join technical committees or working groups. The types of personal information you provide to us on these pages may include name, address, phone number, e-mail address, user IDs, passwords, billing information, or credit card information.
 
 ### Members-Only Web Sites
 
@@ -54,7 +54,7 @@ Information you provide on Operators’s membership applications is used to crea
 
 ## How We Use Your Information
 
-The Operators may use non-personal data that is aggregated for reporting about the Operators’s web site usability, performance, and effectiveness. It may be used to improve the experience, usability, and content of the site.
+The Operators may use non-personal data that is aggregated for reporting about the Operators’s web site usability, performance, and effectiveness. It may be used to improve the experience, usability, and content of the site. This may include displaying the location that content was submitted from.
 
 The Operators may use personal information to provide services that support the activities of the Operators’s members and their collaboration on the Operators’s standards and projects. When accessing the Operators’s members-only web pages, your personal user information may be tracked by the Operators in order to support collaboration, ensure authorized access, and enable communication between members.
 
