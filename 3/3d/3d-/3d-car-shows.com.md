@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827135642id_/http%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316215332id_/https%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy 3D Car Shows
 
-This Privacy Policy governs the manner in which 3D Car Shows collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://3d-car-shows.com](http://3d-car-shows.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by 3D Car Shows.
+This Privacy Policy governs the manner in which 3D Car Shows collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://3d-car-shows.com](https://3d-car-shows.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by 3D Car Shows.
 
 ## Personal identification information
 
@@ -75,7 +75,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ## **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://3d-car-shows.com/terms-of-service/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://3d-car-shows.com/terms-of-service/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ## Contacting us
 
