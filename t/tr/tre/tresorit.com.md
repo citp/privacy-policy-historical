@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tresorit.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009201953id_/https%3A//tresorit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tresorit.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316213352id_/https%3A//tresorit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tresorit
 
@@ -71,9 +71,6 @@ When you share content using our Service with a third party, including sharing t
 _Business Administrator_
 
 When you have a business account, we may share your account’s usage, your profile data (e.g. Your name and Your email address), and your Non-Encrypted Content. If your Administrator set up a recovery master key, that Administrator may also be able to access your Encrypted Content. You can always check if such recovery master key is set up inside the application, under the Settings menu. 
-
-  
-
 
 ## Personal Data
 
