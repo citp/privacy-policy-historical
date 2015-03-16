@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kimblegroup.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005538id_/http%3A//kimblegroup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimblegroup.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316170016id_/http%3A//kimblegroup.com/privacy.php) for the most accurate reproduction.*
 
 # Kimble Group Terms of Use
 
