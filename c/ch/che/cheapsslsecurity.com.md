@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapsslsecurity.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703072524id_/https%3A//cheapsslsecurity.com/support/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapsslsecurity.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316170246id_/https%3A//cheapsslsecurity.com/support/privacypolicy.html) for the most accurate reproduction.*
 
 # CheapSSLSecurity Privacy Policy
 
@@ -41,7 +41,7 @@ By using our site, you consent to our privacy policy.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-**Web Security Solutions, LLC**  
+**Web Security Solutions**  
 1712 Pioneer Ave, Suite 1322|  
 Cheyenne, WY 82001  
 United States  
