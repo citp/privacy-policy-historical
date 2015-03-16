@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the ninjakitchen.com privacy policy that was archived on 2014-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204230955id_/http%3A//www.ninjakitchen.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ninjakitchen.com privacy policy that was archived on 2015-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316161357id_/http%3A//www.ninjakitchen.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" style="visibility: visible;"><head>
 <!-- META -->
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-
+    <meta name="p:domain_verify" content="1891e7ca1c2467ff076d17fb86dad899">
+<!--42469a7d1dbcbca95bc18705d7c7942a-->	
 	<title>
-		Ninja® Kitchen Products Blend, Process, Juice &amp; More! | Official Site 	</title>
+		Ninja® Kitchen Products Blend, Process, Juice &amp; More! | Official Site  | Official Site
+	</title>
 	
 	<!-- FAVICON -->
 	<link rel="shortcut icon" type="image/png" href="/include/images/icons/favicon.png">
@@ -112,7 +114,7 @@
 	<![endif]-->
 
 	<!-- END: ADOBE TYPEKIT: GENERIC Proxima Nova SET -->
-	<script type="text/javascript" src="//use.typekit.net/osk6agi.js"></script>
+	<script type="text/javascript" src="//use.typekit.net/vnb2wuo.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	<!-- END: ADOBE TYPEKIT -->
 	<script src="/include/javascript/jquery-1.10.1.min.js"></script>
@@ -154,7 +156,9 @@ function cartInitialize() {
   return;
 }
 
+
 trace = function(msg) { 
+	return false;
 }
 
 blankField = function(id, str)
@@ -505,6 +509,7 @@ function emailSignup() {
     <script src="/include/javascript/blockui/jquery.blockUI.js" type="text/javascript"></script>
     <script src="/include/javascript/css3-mediaqueries.js" type="text/javascript"></script>
     <script src="/include/javascript/cm.jquery.bgCover.js" type="text/javascript"></script>
+    <script src="/include/javascript/cm.jquery.retina.js" type="text/javascript"></script>
     <script>
     	bgCover('top');
     </script>
@@ -531,6 +536,48 @@ function emailSignup() {
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
+	</script>
+
+	<script type="text/javascript">
+		function gaEvent( category, action, label, value){
+			dataLayer.push( {'event': 'epAnalyticsEventClick',
+							'epEventCategory':category,
+							'epEventAction':action,
+							'epEventLabel':label,
+							'epEventValue':value} );
+		}
+	</script>
+
+	<script type="text/javascript">
+		var refPath = window.location.pathname;
+		dataLayer = [{
+			'gaCookiePath': refPath
+		}];
+	</script>
+	
+
+	<script type="text/javascript">
+		/*
+			CLEVERMETHOD HELPER FUNCTIONS FOR GA DATALAYER
+			Programmer: Nick Barcomb 10.22.2014
+		*/
+		var cmga = ( function(){ 'use strict';
+		
+			return {
+				/* GOOGLE ANALYTICS TOGGLER */
+				// obj		= this (trigger)
+				// toggles	= Array. toggle options
+				Toggle		: function(obj,toggles){
+					var g = $(obj).attr('gaT'),
+						l = toggles.length,
+						t = ( g != undefined && g != null ) ? g : -1 ;
+					t++;
+					t = ( t < l ) ? t : 0 ;
+					$(obj).attr('gaT',t);
+					return toggles[t];
+				}
+			};
+		}() );
 	</script>
 
 	<!--  FACEBOOK GOES HERE  -->
@@ -586,36 +633,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div id="fb-root"></div>
 
-	<div id="redesignFeedbackShell" class="xctiveV" style="	position: fixed;top: -145px;right: 0;z-index: 98;">
-		<div id="redesignFeedback" style="margin-top: 74px;padding: 25px 31px 30px 33px;width: 256px;background: transparent url(/include/images/violator/y2013m12d12-redesignfeedback.png) no-repeat top right;">
-			<div style="padding-bottom:9px;">
-				Please help improve our website by answering a few short questions.
-			</div>
-			<div style="margin-left:-6px;">
-				
 
-<!-- macro -->
-    <div class="clearbutton" id="feedback" style="">
-	    <a class="GlobalGreenButton" href="https://apps.ninjakitchen.com/survey/register.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'mainSite-Violator', 'click', 'SatisfactionSurvey']);">
-            <span>TAKE PART IN THE SURVEY</span>
-        </a> 
-    </div>
-<!-- macro-end -->
 
-    
 
-			</div>
-			<div id="redesignFeedbackTrig" class="open-sans-condensed" style="font-weight: bold;font-size: 16px;cursor: pointer;text-align: right;letter-spacing: 1px;color: #000;margin-top: 15px;padding-top: 11px;width: 167px;margin-left: 90px;padding-bottom: 11px;">
-				Tell us what you think
-			</div>
-		</div>
-	</div>
-	<script>
-		$('#redesignFeedbackTrig').click( function(){ var shell = $('#redesignFeedbackShell');
-			 if( shell.hasClass('xctiveV') ){ shell.animate({"top":   "0px"},250,"swing").removeClass('xctiveV').addClass('activeV'); }
-		else if( shell.hasClass('activeV') ){ shell.animate({"top":"-145px"},250,"swing").removeClass('activeV').addClass('xctiveV'); }
-		} );
-	</script>
+ 
+
 
 <div id="dvHeaderContainer">
     <div class="headergrad-1" style=""></div>
@@ -786,6 +808,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 
 <div id="dvFooterContainer" class="contentRelative">
+
+    <div id="bellerFooterBanner_div">
+        <span style="background-color:#39ac49; width: 100%; height: 88px; display: inline-block; position: absolute; z-index:1; margin-top: 25px;"></span>
+        <div href="/experts/rachel-beller/">
+        	<img id="DriverBeller" src="/include/images/RB-footerBeller.png?cb=0">
+            <h3>Get Real with Rachel Beller, MS, RDN</h3>
+            <p>Nutritionist of <em>The Biggest Loser</em> shares Nutri Ninja® recipes and how-to videos</p>
+            <a id="bellerFooterBriverBtn" href="/experts/rachel-beller?utm_source=www.ninjakitchen.com&amp;utm_medium=homepage&amp;utm_campaign=RB_Footer_Link">
+                <img src="/include/images/RB_footerDriverBtn.png">
+            </a>
+        </div>
+    </div>
+
 	<div id="footerContainer">
 		<div id="footerCenter">
 		
@@ -861,7 +896,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 				<a class="global-button global-button global-button-MEDIUM" href="http://europro.com/?utm_source=www.ninjakitchen.com&amp;utm_medium=MainSite&amp;utm_campaign=Footer_CTA_btn" target="_blank" onclick="" id="" style=""><img src="/include/images/learnMore.png" alt="LEARN MORE" width="97" height="29"></a>
 				
-				<a style="font-size:12px; margin-right:10px; float:right; text-decoration:underline; color:white; color:#999999; margin-top:10px;" href="http://www.europro.com/patents/" target="_blank">Euro-Pro Patents</a>
+				<a style="font-size:12px; margin-right:10px; float:right; text-decoration:underline; color:white; color:#999999; margin-top:10px;" href="http://www.europro.com/USPatents/" target="_blank">Euro-Pro Patents</a>
 
                 <div class="clear"></div>
             </div>
@@ -872,7 +907,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	</div>
 	
-	<p id="footerCopyright">Copyright © 2014 Euro-Pro Operating LLC  |  877-646-5288 Mon.-Sat. 7 a.m.-11 p.m. ET  |  Sun. 9 a.m.-8 p.m. ET</p>
+	<p id="footerCopyright">Copyright © 2015 Euro-Pro Operating LLC  |  877-646-5288 Mon.-Sat. 7 a.m.-11 p.m. ET  |  Sun. 9 a.m.-8 p.m. ET</p>
+	
+	<div id="Badges">
+		<a target="_blank" title="Euro-Pro Operating LLC BBB Business Review" href="http://www.bbb.org/boston/business-reviews/appliances-small-wholesale-and-manufacturers/euro-pro-operating-llc-in-newton-ma-119951/#bbbonlineclick"><img alt="Euro-Pro Operating LLC BBB Business Review" style="border: 0;" src="http://seal-boston.bbb.org/seals/blue-seal-96-50-euro-pro-operating-llc-119951.png"></a>
+	</div>
 
 </div>
 <div style="clear:both;"></div>
