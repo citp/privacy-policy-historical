@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomorama.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232843id_/https%3A//www.roomorama.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomorama.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316075940id_/https%3A//www.roomorama.com/privacy) for the most accurate reproduction.*
 
 # Short Term Rentals, Nightly and Weekly Apartments, Homes and Rooms - Roomorama
 
