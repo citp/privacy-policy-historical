@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008072108id_/https%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316170452id_/https%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Highlights | Qualys, Inc.
 
@@ -72,7 +72,7 @@ If you use a blog or forum, or other chat tool on a Qualys Website, you should b
 
 From time-to-time, we notify visitors to Qualys Websites of new products, announcements, upgrades and updates unless you have opted out of these notices. If you would like to opt-out of being notified, please contact us at the address given at the end of this Privacy Statement.
 
-If you would like to change your preferences online, please visit [http://www.qualys.com/company/compref/](https://web.archive.org/company/compref/). Please be aware that you may not opt out of receiving information regarding the security, initial use, expiration, product enhancement or migration of our products or services.
+If you would like to change your preferences online, please visit <https://lps.qualys.com/subscription-preference.html>. Please be aware that you may not opt out of receiving information regarding the security, initial use, expiration, product enhancement or migration of our products or services.
 
   
 
