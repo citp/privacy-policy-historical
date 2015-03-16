@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemale.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701233434id_/http%3A//www.shemale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemale.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316145911id_/http%3A//www.shemale.com/privacy-policy) for the most accurate reproduction.*
 
 # Join Hot Shemales on Live Sex Webcams | Shemale.com Privacy Policy
 
