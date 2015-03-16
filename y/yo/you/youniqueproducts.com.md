@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youniqueproducts.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210054012id_/https%3A//www.youniqueproducts.com/business/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youniqueproducts.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316154222id_/https%3A//www.youniqueproducts.com/business/privacy) for the most accurate reproduction.*
 
-# Younique - Uplift. Empower. Motivate.
+# Younique - Uplift. Empower. Validate.
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Younique, LLC, a company organized under the laws of the State of Utah (referred
 
 * * *
 
-###  Information Collection 
+###  Information Collection
 
 Younique may collect two different types of information, Personally Identifiable Information and Non- Personally Identifiable Information. 
 
@@ -16,7 +16,7 @@ Younique may collect two different types of information, Personally Identifiable
 
 * * *
 
-###  Information Use 
+###  Information Use
 
 Younique may collect PII about you to establish or maintain our relationship with you, respond to your inquiries, provide you with services you have requested, keep you informed of services we think may be of interest to you, personalize your experience with us, and other reasons. Without PII, Younique may be unable to provide you with the services you have requested. 
 
@@ -40,11 +40,17 @@ Because Non-PII does not personally identify you, we reserve the right to use No
 
 You may request access to the PII that Younique has about you. You may also request the correction, amendment or deletion of PII about you that is inaccurate. 
 
-Younique will treat requests for access, correction, amendment or deletion of PII about you in accordance with its internal policies and applicable legal requirements. Information Security Younique maintains reasonable physical, administrative and technical safeguards to protect PII from loss, misuse, or unauthorized access, disclosure, alteration or destruction. Our personnel and the personnel of our affiliates are provided access to PII about you only if they have a need to know the information in connection with a legitimate business purpose, such as (a) the provision of services to you or (b) to help identify other services that Younique and its affiliates offer that may be of interest or use to you. 
+Younique will treat requests for access, correction, amendment or deletion of PII about you in accordance with its internal policies and applicable legal requirements. 
 
 * * *
 
-###  Changes to This Privacy Notice 
+###  Information Security
+
+Younique maintains reasonable physical, administrative and technical safeguards to protect PII from loss, misuse, or unauthorized access, disclosure, alteration or destruction. Our personnel and the personnel of our affiliates are provided access to PII about you only if they have a need to know the information in connection with a legitimate business purpose, such as (a) the provision of services to you or (b) to help identify other services that Younique and its affiliates offer that may be of interest or use to you. 
+
+* * *
+
+###  Changes to This Privacy Notice
 
 Younique reserves the right to change this privacy notice. Any changes to this notice will become effective upon posting of the revised notice on the Internet or as required by law. 
 
