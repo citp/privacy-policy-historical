@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibsurvival.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702072452id_/http%3A//www.ibsurvival.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsurvival.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316135739id_/http%3A//www.ibsurvival.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - IB Survival
 
