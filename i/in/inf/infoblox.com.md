@@ -1,42 +1,87 @@
-> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923201624id_/http%3A//www.infoblox.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316060858id_/https%3A//www.infoblox.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Infoblox
+# Privacy Policy | DDI (Secure DNS, DHCP, and IPAM) | Infoblox
 
 Infoblox knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting Infoblox's web site, submitting information or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. If you represent an entity, then “you” also refers to such entity.
 
-## WHAT DOES THIS PRIVACY POLICY COVER?
+## What Does This Privacy Policy Cover?
 
 This Privacy Policy covers Infoblox's treatment of personally identifiable information ("Personal Information") that Infoblox gathers when you are accessing Infoblox's web site, or in connection with Infoblox sponsored events or Infoblox services. The types of Personal Information that may be collected include your full name, address, e-mail address, telephone number, and credit card information, and Infoblox's treatment of any Personal Information that Infoblox's business partners share with Infoblox. In some circumstances, this Privacy Policy may also apply to certain product usage information that you provide when you elect to participate in Infoblox programs and services; Infoblox will notify you if this Privacy Policy applies at the time you elect to participate in such circumstances. This policy does not apply to the practices of Infoblox's business affiliates, to processes that Infoblox does not own or control, or to entities that Infoblox does not employ or manage.
 
-## WHAT PERSONAL INFORMATION DOES INFOBLOX COLLECT?
+## What Personal Information Does Infoblox Collect?
 
 The information we gather from customers enables us to personalize and improve our services. We collect the following types of information from our customers.
 
-##### Personal Information You Provide to Us:
+### Personal Information You Provide to Us:
 
 We may receive and store any information you enter on our web site or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of features or opportunities. The Personal Information you provide may be used for such purposes as responding to your requests for certain products and services, customizing the advertising and content you see, and communicating with you about specials, sales offers, new products and Infoblox events.
 
-##### Personal Information Collected Automatically:
+### Personal Information Collected Automatically:
 
 We may receive and store certain types of information whenever you interact with our web site or services. Infoblox may choose to automatically receive and record information on our server logs from your browser including your IP address, Infoblox cookie information, and the page you requested.
 
 Generally, our service may automatically collect usage information, such as the numbers and frequency of visitors to our site and its components. Infoblox only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the web site or services so that we can improve the website and services. As part of this use of information, we may also provide aggregate information to our partners about how our customers generally use our site. We share this type of statistical data so that our partners also understand how often people use their services and our web site, so that they, too, may provide you with an optimal online experience.
 
-##### Product Information Collected Automatically:
+### Product Information Collected Automatically:
 
 We may receive and store certain information related to the usage and effectiveness of our online self-service support and usage of Infoblox products. Such information may be gathered automatically when you use or access Infoblox services, or if you choose to activate reporting capabilities on Infoblox products. We only use such data internally. This data regarding services helps us determine how effective support service is, so we can improve our self-service tools and make them as effective as possible. Data relating to products helps us asses the usage patterns and reliability of our product platforms, and may be used to help us in our continuing efforts to develop more efficient, reliable products.
 
-##### E-mail Communications:
+### E-mail Communications:
 
 We may receive a confirmation when you open an e-mail from Infoblox if your computer supports this type of program. Infoblox may use this confirmation to help us make e-mails more interesting and helpful. We may also compare our customer list to lists received from other companies, in an effort to avoid sending duplicate or unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please notify us by e-mail at [mailing@infoblox.com](mailto:mailing@infoblox.com) and include sufficient information for us to identify your account.
 
-##### What About Cookies?
+### What About Cookies?
 
 Cookies are alphanumeric identifiers that we may transfer to your computer through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Infoblox cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or e-mail address is.
 
 Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways.
 
-## WILL INFOBLOX SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?
+## Manage Your Cookies
+
+You can specify how cookies are handled by setting your cookie preferences.
+
+**Chrome**  
+1\. Click the Chrome menu Chrome menu on the browser toolbar.  
+2\. Select Settings.  
+3\. Click Show advanced settings.  
+4\. In the Privacy section, click Content settings.  
+5\. In the Cookies section, select one of the following cookies settings:
+
+  * Delete cookies
+  * Block cookies by default
+  * Allow cookies by default
+  * Keep cookies and site data by default until you quit your browser
+  * Make exceptions for cookies from specific websites or domain
+
+
+
+**Mozilla Firefox**  
+1\. Open Firefox Open the Edit menu and choose Preferences.  
+2\. Under the Privacy & Security, choose Cookies.  
+3\. You can select the following settings:
+
+  * Disable cookies
+  * Enable cookies for the originating web site only
+  * Enable all cookies
+  * Warn me before storing a cookie
+
+
+
+**Internet Explorer 9 or 10**  
+1\. Tap or click Tools, then select Internet options.  
+2\. Tap or click the Privacy tab.  
+3\. Under Settings, move the slider to the top to block all cookies or the bottom to allow all cookies.  
+4\. Tap or click OK.
+
+**Safari 5.1 (OS X Lion)**  
+1\. Choose Safari, then select Preferences.  
+2\. Click Privacy.  
+3\. In the Block cookies section, specify if and when Safari should accept cookies from websites.  
+4\. To see an explanation of the options, click the Help button (question mark).
+
+Note: If you want to see which websites store cookies on your computer, click Details.
+
+## Will Infoblox Share Any of the Personal Information It Receives?
 
 Personal Information about our customers is an important part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only with your consent or to business affiliates as described below.
 
@@ -50,17 +95,17 @@ Sponsored Events: Infoblox may sponsor webcast, conference or other events in co
 
 With Your Consent: Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to opt out or otherwise given an opportunity to prevent the sharing of this information.
 
-## IS PERSONAL INFORMATION ABOUT ME SECURE?
+## Is Personal Information about Me Secure?
 
 Your Infoblox account Personal Information is protected by a password for your privacy and security. You need to ensure against unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
 Infoblox stores your credit card and other financial information in a secure location.
 
-## WHAT PERSONAL INFORMATION CAN I ACCESS?
+## What Personal Information Can I Access?
 
 After logging in to your account, you may access certain information about you for the purpose of viewing, and in certain situations, updating that information. The types of information that you can access update will change as our web site changes.
 
-## WHAT CHOICES DO I HAVE?
+## What Choices Do I Have?
 
 You can always opt not to disclose information to Infoblox, even though it may be needed to receive services or take advantage of certain Infoblox web site features.
 
@@ -70,14 +115,14 @@ If you do not wish to receive e-mail or other mail from us, please notify us by 
 
 As explained earlier, the majority of browsers allow you to monitor and restrict our use of cookies. Please note, however, that if your browser does not accept cookies, you may not be able to take advantage of some of our services or web site features.
 
-## EFFECTIVE DATE OF THIS PRIVACY POLICY
+## Effective Date of This Privacy Policy
 
-This Privacy Policy is effective as of May 15, 2006, and as amended on March 31, 2012.
+This Privacy Policy is effective as of May 15, 2006, and as amended on October 24, 2014.
 
-## CHANGES TO THIS PRIVACY POLICY
+## Changes to This Privacy Policy
 
 Infoblox may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. If we make changes in the way we use Personal Information or other information under this Privacy Policy, we will notify you by posting an announcement in the “About this site” section of our web site.
 
-## QUESTIONS OR CONCERNS
+## Questions or Concerns
 
 If you have any questions or concerns regarding privacy at Infoblox site, please send us a detailed message to [info@infoblox.com](mailto:info@infoblox.com). We will make every effort to resolve your concerns.
