@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupxplore.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229185912id_/https%3A//startupxplore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupxplore.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316100948id_/https%3A//startupxplore.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Startupxplore
 
@@ -10,7 +10,7 @@
 
       * ### Facebook Ads conversion tracking, Google Analytics, Google Tag Manager and MixPanel
 
-Personal Data: Cookie and Usage Data
+Personal Data: Cookie and Usage data
 
       * ### User ID extension for Google Analytics
 
@@ -24,25 +24,25 @@ Personal Data: Phone number
 
       * ### Mailing List or Newsletter
 
-Personal Data: City, Cookie, Email, First Name and Last Name
+Personal Data: City, Cookie, Email address, First Name and Last Name
 
     * ### Content commenting
 
       * ### Disqus
 
-Personal Data: Cookie and Usage Data
+Personal Data: Cookie and Usage data
 
     * ### Content performance and features testing (A/B testing)
 
       * ### Optimizely
 
-Personal Data: Cookie and Usage Data
+Personal Data: Cookie and Usage data
 
     * ### Displaying content from external platforms
 
       * ### Google Maps widget
 
-Personal Data: Cookie and Usage Data
+Personal Data: Cookie and Usage data
 
     * ### Location-based interactions
 
@@ -50,21 +50,21 @@ Personal Data: Cookie and Usage Data
 
 Personal Data: Geographic position
 
-    * ### Managing email addresses and sending messages
+    * ### Managing contacts and sending messages
 
       * ### Mandrill
 
-Personal Data: Email and Usage Data
+Personal Data: Email address and Usage data
 
       * ### Mailchimp
 
-Personal Data: Email
+Personal Data: Email address
 
     * ### Remarketing and Behavioral Targeting
 
       * ### Facebook Remarketing and Twitter Remarketing
 
-Personal Data: Cookie and Usage Data
+Personal Data: Cookie and Usage data
 
     * ### Social features
 
@@ -82,7 +82,7 @@ Personal Data: Various types of Data as specified in the privacy policy of the s
 
       * ### Intercom
 
-Personal Data: Email and Various types of Data as specified in the privacy policy of the service
+Personal Data: Email address and Various types of Data as specified in the privacy policy of the service
 
 
 
@@ -106,7 +106,7 @@ info@startupxplore.com
 
 ## Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage Data, Phone number, Email, First Name, Last Name, City, Geographic position, Username, Company name and Picture. 
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage data, Phone number, Email address, First Name, Last Name, City, Geographic position, Username, Company name and Picture. 
 
 Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
 The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
@@ -132,7 +132,7 @@ The Data is kept for the time necessary to provide the service requested by the 
 
 ## The use of the collected Data
 
-The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Contacting the User, Content commenting, Displaying content from external platforms, Content performance and features testing (A/B testing), Managing email addresses and sending messages, Location-based interactions, Remarketing and Behavioral Targeting, Social features, User database management and SPAM protection. 
+The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Contacting the User, Content commenting, Displaying content from external platforms, Content performance and features testing (A/B testing), Managing contacts and sending messages, Location-based interactions, Remarketing and Behavioral Targeting, Social features, User database management and SPAM protection. 
 
 The Personal Data used for each purpose is outlined in the specific sections of this document.
 
@@ -148,7 +148,7 @@ The services contained in this section enable the Owner to monitor and analyze w
 
 Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. that connects data from the Facebook advertising network with actions performed on this Application.
 
-Personal Data collected: Cookie and Usage Data. 
+Personal Data collected: Cookie and Usage data. 
 
 Place of processing : USA – [Privacy Policy](https://www.facebook.com/about/privacy/)
 
@@ -157,7 +157,7 @@ Place of processing : USA – [Privacy Policy](https://www.facebook.com/about/pr
 Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-Personal Data collected: Cookie and Usage Data. 
+Personal Data collected: Cookie and Usage data. 
 
 Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
 
@@ -165,7 +165,7 @@ Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/pol
 
 Google Tag Manager is an analytics service provided by Google, Inc.
 
-Personal Data collected: Cookie and Usage Data. 
+Personal Data collected: Cookie and Usage data. 
 
 Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
 
@@ -173,7 +173,7 @@ Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/pol
 
 MixPanel is an analytics service provided by Mixpanel Inc.
 
-Personal Data collected: Cookie and Usage Data. 
+Personal Data collected: Cookie and Usage data. 
 
 Place of processing : USA – [Privacy Policy](http://mixpanel.com/privacy/) – [Opt Out](https://mixpanel.com/optout/)
 
@@ -199,7 +199,7 @@ Personal Data collected: Phone number.
 
 By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
 
-Personal Data collected: City, Cookie, Email, First Name and Last Name. 
+Personal Data collected: City, Cookie, Email address, First Name and Last Name. 
 
   * ### Content commenting
 
@@ -211,7 +211,7 @@ If a content commenting service provided by third parties is installed, it may s
 
 Disqus is a content commenting service provided by Big Heads Labs Inc.
 
-Personal Data collected: Cookie and Usage Data. 
+Personal Data collected: Cookie and Usage data. 
 
 Place of processing : USA – [Privacy Policy](http://docs.disqus.com/help/30/)
 
@@ -223,7 +223,7 @@ The services contained in this section allow the Owner to track and analyze the 
 
 Optimizely is an A/B testing service provided by Optimizely, Inc.
 
-Personal Data collected: Cookie and Usage Data. 
+Personal Data collected: Cookie and Usage data. 
 
 Place of processing : USA – [Privacy Policy](http://www.optimizely.com/privacy)
 
@@ -236,7 +236,7 @@ If a service of this kind is installed, it may still collect web traffic data fo
 
 Google Maps is a maps visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
 
-Personal Data collected: Cookie and Usage Data. 
+Personal Data collected: Cookie and Usage data. 
 
 Place of processing : USA – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
 
@@ -249,16 +249,16 @@ Most browsers and devices provide tools to opt out from this feature by default.
 
 Personal Data collected: Geographic position. 
 
-  * ### Managing email addresses and sending messages
+  * ### Managing contacts and sending messages
 
-These services make it possible to manage a database of email contacts to communicate with the User via email.  
-The services are used to collect data concerning the date and time when the mail is viewed by the User, as well as when the User interacts with incoming mail, such as by clicking on links included in the email.
+These services make it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.  
+These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
 
 #### Mandrill (The Rocket Science Group, LLC.)
 
 Mandrill is an email address management and message sending service provided by The Rocket Science Group, LLC.
 
-Personal Data collected: Email and Usage Data. 
+Personal Data collected: Email address and Usage data. 
 
 Place of processing : USA – [Privacy Policy](http://mandrill.com/privacy/)
 
@@ -266,7 +266,7 @@ Place of processing : USA – [Privacy Policy](http://mandrill.com/privacy/)
 
 Mailchimp is an email address management and message sending service provided by Mailchimp Inc.
 
-Personal Data collected: Email. 
+Personal Data collected: Email address. 
 
 Place of processing : USA – [Privacy Policy](http://mailchimp.com/legal/privacy/)
 
@@ -279,7 +279,7 @@ This activity is performed by tracking Usage Data and by using Cookies, informat
 
 Facebook Remarketing is a Remarketing and Behavioral Targeting service provided by Facebook Inc. that connects the activity of this Application with the Facebook advertising network.
 
-Personal Data collected: Cookie and Usage Data. 
+Personal Data collected: Cookie and Usage data. 
 
 Place of processing : USA – [Privacy Policy](https://www.facebook.com/about/privacy/)
 
@@ -287,7 +287,7 @@ Place of processing : USA – [Privacy Policy](https://www.facebook.com/about/pr
 
 Twitter Remarketing is a Remarketing and Behavioral Targeting service provided by Twitter, Inc. that connects the activity of this Application with the Twitter advertising network.
 
-Personal Data collected: Cookie and Usage Data. 
+Personal Data collected: Cookie and Usage data. 
 
 Place of processing : USA – [Privacy Policy](https://twitter.com/privacy) – [Opt Out](https://support.twitter.com/articles/20170405)
 
@@ -313,13 +313,14 @@ Place of processing : USA – [Privacy Policy](http://automattic.com/privacy/)
 
   * ### User database management
 
-These services build user profiles by starting from an email address, a personal name, or other information that the User provides to this Application. This Personal Data is matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving this Application.
+These services allow the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Application, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving this Application.  
+Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on this Application.
 
 #### Intercom (Intercom Inc.)
 
 Intercom is a User database management service provided by Intercom Inc.
 
-Personal Data collected: Email and Various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: Email address and Various types of Data as specified in the privacy policy of the service. 
 
 Place of processing : USA – [Privacy Policy](http://docs.intercom.io/privacy.html)
 
