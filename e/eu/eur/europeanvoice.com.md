@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europeanvoice.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007073617id_/http%3A//www.europeanvoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeanvoice.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316175248id_/http%3A//www.europeanvoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | European Voice
 
@@ -6,7 +6,7 @@ European Voice is committed to protecting the privacy of our customers. Because 
 
 ### Definitions
 
-“European Voice” comprises European Voice SA.
+“European Voice” comprises European Voice SPRL.
 
 A “customer” (or “you”) is anyone ordering, registering for or making use of any product, service or website of European Voice.
 
@@ -48,17 +48,17 @@ We also use your information for in-house research and analysis. This helps us t
 
 ### Cookies
 
-[Click here](http://www.europeanvoice.com/page/3484.aspx?LG=1) for more information on our use of cookies.
+[Click here](http://www.europeanvoice.com/cookies-info/) for more information on our use of cookies.
 
 ### E-mails
 
 European Voice uses reputable third parties to deliver the e-mails you receive if you have subscribed to e-mail newsletters, or have chosen to receive information about European Voice products, services and offers. These third parties use unique identifiers and invisible images (often called “pixel tags” or “clear GIFs”) to perform message open sensing, message format sensing, and click-through sensing in order to bring you more relevant information.
 
-To find out more about the technologies used in these e-mails sent on our behalf, please visit <http://www.doubleclick.com/privacy/index.aspx>. Content and some ad services in these e-mails are provided by European Voice servers or by a third party.
+To find out more about the technologies used in these e-mails sent on our behalf, please visit <http://mailchimp.com/legal/privacy/>. Content and some ad services in these e-mails are provided by European Voice servers or by a third party.
 
 ### Advertisements
 
-European Voice uses DoubleClick to deliver the advertisements displayed on our websites. DoubleClick may note some of the pages you visit through the use of pixel tags (also called “clear gifs”). In the course of serving advertisements to this site, DoubleClick may place or recognise a unique cookie on your computer in order to bring to you more relevant information and to make sure that you do not receive the same ad many times in the same session. Some of the advertisers on our sites do not use DoubleClick ad-serving software and their ads are served by third-parties who may also place cookies. To find out more about these sensing methods and to know your choices about not having this information used by DoubleClick, please visit <http://www.doubleclick.com/privacy/index.aspx>.
+European Voice uses DoubleClick to deliver the advertisements displayed on our websites. DoubleClick may note some of the pages you visit through the use of pixel tags (also called “clear gifs”). In the course of serving advertisements to this site, DoubleClick may place or recognise a unique cookie on your computer in order to bring to you more relevant information and to make sure that you do not receive the same ad many times in the same session. Some of the advertisers on our sites do not use DoubleClick ad-serving software and their ads are served by third-parties who may also place cookies. To find out more about these sensing methods and to know your choices about not having this information used by DoubleClick, please visit <http://www.google.com/intl/en/policies/privacy/>.
 
 ### External links
 
@@ -84,7 +84,7 @@ From time to time, we may make changes to the privacy policy. This may be in rel
 
 ### Data controller 
 
-European Voice SA  
+European Voice SPRL  
 Registered Office:  
 Rue de la Loi 155, box 6  
 Brussels 1040  
