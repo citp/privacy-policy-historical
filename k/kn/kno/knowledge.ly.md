@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the knowledge.ly privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630014401id_/https%3A//knowledge.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledge.ly privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316193530id_/https%3A//knowledge.ly/pages/privacy) for the most accurate reproduction.*
 
-# Knowledge.ly Privacy Policy
+# Knowledge.ly | Knowledge.ly Privacy Policy
 
-  
-
-
-* * *
-
-[__Share on Twitter](https://twitter.com/intent/tweet/?url=http%3A%2F%2Fknowledge.ly%2Fprivacy&text=Knowledge.ly+Privacy+Policy:) [__Share on Facebook](https://www.facebook.com/sharer.php?src=sp&u=http%3A%2F%2Fknowledge.ly%2Fprivacy)
+## Privacy Policy
 
 This Privacy Policy governs the manner in which the website collects, uses, maintains and discloses information collected from users (each, a 'User') of the website ('Site'). This privacy policy applies to the Site and all products and services offered by company.
 
