@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promodo.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921030919id_/http%3A//www.promodo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promodo.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316225208id_/https%3A//www.promodo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -52,7 +52,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[Promodo](http://www.promodo.com/www.promodo.com)
+[Promodo](https://www.promodo.com/www.promodo.com)
 
 Legal address: Suite 305, 23 Avgusta 31b Kharkov, 61072, Ukraine Phone.: +38(057) 752-54-62, Kyiv Phone.: +38(044) 201-10-21, US Phone: +1 347 809-34-86, UK Phone: +44 0203 1376 681 [contact@promodo.com](mailto:contact@promodo.com)
 
