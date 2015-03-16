@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wit.ai privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930042103id_/https%3A//wit.ai/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wit.ai privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316083618id_/https%3A//wit.ai/privacy) for the most accurate reproduction.*
 
-# Wit — Wit.AI Privacy
+# Wit — Wit.ai Privacy
 
-Welcome to Wit.AI, Inc., the provider of the software platform that enables developers to build and deploy natural language interfaces for devices and software applications (the “Wit Platform”). Wit is committed to protecting the privacy of all visitors, users and others who access our Service (“you,” or “Users”). This Privacy Policy applies to our website, located at [https://wit.ai](https://wit.ai/) , and the Wit Platform (collectively, our “Service”). 
+Welcome to Wit.ai, Inc., the provider of the software platform that enables developers to build and deploy natural language interfaces for devices and software applications (the “Wit Platform”). Wit is committed to protecting the privacy of all visitors, users and others who access our Service (“you,” or “Users”). This Privacy Policy applies to our website, located at [https://wit.ai](https://wit.ai/) , and the Wit Platform (collectively, our “Service”). 
 
 * **INFORMATION WE COLLECT**
 
