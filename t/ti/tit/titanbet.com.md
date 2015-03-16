@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanbet.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227032837id_/http%3A//www.titanbet.com/help/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanbet.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316063615id_/http%3A//www.titanbet.com/help/privacy-security.html) for the most accurate reproduction.*
 
 # Titan Bet Security & Privacy Policy
 
@@ -72,7 +72,7 @@ Our web site may contain links to other web sites which are outside our control 
 
 **Access right**
 
-You have a right to access the personal data held about you. To obtain a copy of the personal information we hold about you, please contact us at support [at] titanbet [dot] com.
+You have a right to access the personal data held about you. To obtain a copy of the personal information we hold about you, please contact us at support [at] titanbet [dot] com
 
 **Internet-based transfers**
 
@@ -98,7 +98,7 @@ Your personal information will not be stored for any longer period than is neces
 
 This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required, seek your consent where such notification relates to a new additional purpose for processing.
 
-If you have any enquiry about this Privacy Policy please write to support [at] titanbet [dot] com.
+If you have any enquiry about this Privacy Policy please write to support [at] titanbet [dot] com
 
 We are guided by a strict mail policy as detailed below:
 
@@ -124,4 +124,4 @@ You may notify us of your wish to unsubscribe at any time by:
 
 Upon receiving your notice, we will immediately stop sending you such e-mails and updates.
 
-If you continue to receive promotional e-mails and updates or any other unsolicited communication from us after you have asked to unsubscribe, please report this to us at abuse [at] titanbet [dot] com.
+If you continue to receive promotional e-mails and updates or any other unsolicited communication from us after you have asked to unsubscribe, please report this to us at abuse [at] titanbet [dot] com
