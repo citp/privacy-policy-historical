@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballtips.com privacy policy that was archived on 2013-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130206094545id_/http%3A//www.footballtips.com/Information/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballtips.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317104154id_/http%3A//www.footballtips.com/Information/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,15 +80,3 @@ Changes to Our Privacy Policy**
 If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at the email address below or send mail to:
 
 privacy@Footballtips.com
-
-Footballtips.com
-
-Admiral’s Offices
-
-Main Gate Road
-
-The Historic Dockyard
-
-Chatham
-
-Kent ME4 4TZ 
