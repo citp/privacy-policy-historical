@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202233108id_/http%3A//www.aleks.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317154605id_/http%3A//www.aleks.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
