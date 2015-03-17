@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panjiva.com privacy policy that was archived on 2014-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140801191208id_/https%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panjiva.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317191630id_/https%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy — Panjiva
 
@@ -22,7 +22,7 @@ We use your personally identifying information to identify you as a user of the 
 
 We may combine your personally identifying information, and information about your preferences and activities, with those of all or a particular group of our users to prepare collective profiles of our users and their activities. For example, we may track the number of our users who view certain pages or use certain features or compile the total dollar amount of sales conducted through our site in a particular geographic region. Such information, and other information we derive from individual users’ information, allows us to continue to grow and provide you with quality fellow users through more accurate marketing and advertising of our Web site.
 
-For the avoidance of doubt, nothing in this Privacy Policy shall limit the right in Submissions that you provide to Panjiva, as "Submissions" and rights therein are defined in the [Web Site Terms and Conditions of Use](http://panjiva.com/info/terms_of_use).
+For the avoidance of doubt, nothing in this Privacy Policy shall limit the right in Submissions that you provide to Panjiva, as "Submissions" and rights therein are defined in the [Web Site Terms and Conditions of Use](https://panjiva.com/info/terms_of_use).
 
 #### Disclosure of Information
 
