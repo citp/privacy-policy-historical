@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702223846id_/http%3A//www.sumtotalsystems.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317151854id_/http%3A//www.sumtotalsystems.com/privacy) for the most accurate reproduction.*
 
 # SumTotal Systems | Privacy | LMS Solutions
 
@@ -120,6 +120,10 @@ SumTotal complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S
 ### Australian Privacy Policy
 
 The purpose of the [SumTotal Australian Privacy Policy](https://web.archive.org/privacy/australian-privacy-policy.html) is to inform and notify our Australian customers and end users with regard to the types of personal information that SumTotal may collect, how we collect and handle such information, and how we protect such information. SumTotal takes the privacy and confidentiality of its customers seriously and follows the Australian Privacy Principles (APPs) contained in the Privacy Amendment (Enhancing Privacy protections) Act 2012. If you would like a copy of [SumTotal’s Australian Privacy Policy](https://web.archive.org/privacy/australian-privacy-policy.html), please send an email to [privacy@sumtotalsystems.com](mailto:privacy@sumtotalsystems.com) and SumTotal will take reasonable steps to provide you a copy in the format you requested. We may, in our sole discretion, modify this policy by posting a revised version on our web site ("SumTotal Systems Site") or otherwise publicly disseminating it, so please check back from time to time.
+
+### Singapore Privacy Policy
+
+The purpose of the [SumTotal Singaporean Privacy Policy](https://web.archive.org/privacy/singaporean-privacy-policy.html) is to inform and notify our Singaporean customers and end users with regard to the types of personal information that SumTotal may collect, how we collect and handle such information, and how we protect such information. SumTotal takes the privacy and confidentiality of its customers seriously and follows the rules, policies, and practices of the Singapore Personal Data Protection Act 2012. If you would like a copy of [SumTotal’s Singaporean Privacy Policy](https://web.archive.org/privacy/singaporean-privacy-policy.html), please send an email to privacy@sumtotalsystems.com and SumTotal will take reasonable steps to provide you a copy in the format you requested. We may, at our sole discretion, modify this policy by posting a revised version on our web site ("SumTotal Systems Site") or otherwise publicly disseminating it, so please check back from time to time. 
 
 ### Contacting Us
 
