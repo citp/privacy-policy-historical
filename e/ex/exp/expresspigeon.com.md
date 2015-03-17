@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expresspigeon.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627203937id_/https%3A//expresspigeon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expresspigeon.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317224017id_/https%3A//expresspigeon.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | ExpressPigeon
 
@@ -56,7 +56,7 @@ This Privacy Policy is incorporated by reference into the ExpressPigeon, Inc. Te
 
 ## Contact us
 
-In case you have questions or suggestions regarding this policy, feel free to contact us using our [Support](https://web.archive.org/support) page, or write to: 
+In case you have questions or suggestions regarding this policy, feel free to contact us using our [Support](https://web.archive.org/support "Email marketing service support") page, or write to: 
 
 Privacy   
 **ExpressPigeon, Inc.**   
