@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photodex.com privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825063714id_/http%3A//www.photodex.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodex.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317130554id_/http%3A//www.photodex.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
