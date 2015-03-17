@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catchafire.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628043455id_/https%3A//www.catchafire.org/about/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchafire.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317040405id_/https%3A//www.catchafire.org/about/terms/privacy) for the most accurate reproduction.*
 
-# Catchafire - Privacy Policy
+# Privacy Policy
 
 **Our Commitment to Privacy**   
 Catchafire is committed to protecting your privacy and will make reasonable efforts to provide you a safe and secure user experience. We aim to make our privacy policy easy to read so you that you understand our online data collection practices and usage policies for www.catchafire.org (the "Site" and any "Services"). Please note that your use of the Site and any of our Services is subject to our Terms of Use which you may access at the bottom of our homepage. Our Privacy Policy and Terms of Service are integral to your use of our Site, therefore you must agree to both agreements before using our Site or any of our Services
@@ -9,8 +9,6 @@ Catchafire is committed to protecting your privacy and will make reasonable effo
 The Privacy Policy applies to all information you provide to Catchafire through the Site. If you have submit information to any third parties through our Site and Service, we cannot be responsible for any information collected by those third parties. 
 
 **What This Means: This Privacy Policy deals with our information collection practices.**
-
- **
 
 **What Information We Collect**  
 We generally collect two types of information—personally identifiable information ( **"PII"** ) and non-personally identifiable information ( **"Non-PII"** ). PII is any information that can be used to specifically identify you as an individual. For example, you may submit and we may collect your name, email address, address, phone number, or similar information through the Site. Non-PII consists of information that does not specifically identify you. The following section describes how we collect and use your PII and Non-PII. 
@@ -131,5 +129,3 @@ In the event of a change of control of Catchafire from, for example, a sale to, 
 **What This Means: Californians are entitled to certain disclosures, contact us if you have any questions.**
 
 Last updated: July 24, 2013
-
-**
