@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703051246id_/https%3A//www.roguecu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317054922id_/https%3A//www.roguecu.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rogue Credit Union
+
+[](https://www.roguecu.org/browser-updates)
 
 **FACTS**
 
@@ -181,7 +183,7 @@ Companies related by common ownership or control. They can be financial and non-
 
 Companies not related by common ownership or control. They can be financial and non-financial companies.
 
-  * _Rogue Federal Credit Union does not share with non-affiliates so they can market to you._
+  * _Rogue Credit Union does not share with non-affiliates so they can market to you._
 
   
   
