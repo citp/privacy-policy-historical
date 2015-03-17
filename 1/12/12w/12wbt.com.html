@@ -1,34 +1,41 @@
-<!--The following is the downloaded HTML source of the 12wbt.com privacy policy that was archived on 2014-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702213402id_/https%3A//www.12wbt.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 12wbt.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317052853id_/https%3A//www.12wbt.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   
-<script type="text/javascript" async="" src="//p.12wbt.com/cf.js"></script><script type="text/javascript" async="" src="//p.12wbt.com/i.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-CMJ5"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"b7898c665b","applicationID":"3940269","transactionName":"e10NTRANWAoHR0kJWltdDlYWC0IDTUUTB1lRUUxJAwVRFU1GDgpC","queueTime":0,"applicationTime":46,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAGU19ACwoEVFNUDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-CMJ5"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=216886071814903&amp;version=v2.0"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"b7898c665b","applicationID":"3940269","transactionName":"e10NTRANWAoHR0kJWltdDlYWC0IDTUUTB1lRUUxJAwVRFU1GDgpC","queueTime":0,"applicationTime":278,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-593.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAGU19ACwoEVFNUDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 
   
 
   
-              
-              <title>Privacy - 12wbt.com</title>
-            
-              
-              <meta name="description" content="Michelle Bridges 12wbt is a 12-week exercise, nutrition and mindset training program designed to transform your body and most importantly your way of thinking. Whether it be weight loss, shaping and toning or simply a motivational boost, this program is designed for you!">
-              <meta name="keywords" content="">
-            
-            
+    
+      
+        <title>Privacy - 12wbt.com</title>
+      
+    
+  
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta property="og:title" content="Privacy - 12wbt.com">
-  <meta property="og:description" content="Michelle Bridges 12wbt is a 12-week exercise, nutrition and mindset training program designed to transform your body and most importantly your way of thinking. Whether it be weight loss, shaping and toning or simply a motivational boost, this program is designed for you!">
-  <meta property="og:image" content="https://www.12wbt.com/sites/53927e37f20e991c08000011/theme/images/shared/fb-12wbt-logo.jpg">
-  <meta property="og:url" content="https://www.12wbt.com/privacy">
-  <meta property="fb:page_id" content="208945146055">
-  <meta name="msvalidate.01" content="9567ADFBBCCFB49BFD22937CE884E159">
-  <meta name="google-site-verification" content="QkLunzqGBYBHN-CgG9iaS-i5UFuI5woTuGN_iLQz8Fs">
 
-  <link rel="canonical" href="https://www.12wbt.com/privacy">
-  <link rel="alternate" hreflang="x-default" href="https://www.12wbt.com/privacy">
-  <link rel="alternate" hreflang="en-us" href="https://www.12wbt.com/en-US/privacy">
+  
+    <meta property="og:title" content="Privacy - 12wbt.com">
+    <meta property="og:description" content="Read the full Michelle Bridges privacy policy. Be safe in the knowledge we'll keep your personal details completely safe when you sign up to the 12WBT.">
+    <meta property="og:image" content="https://www.12wbt.com/sites/53927e37f20e991c08000011/theme/images/shared/fb-12wbt-logo.jpg">
+    <meta property="og:url" content="https://www.12wbt.com/privacy">
+  
+
+
+  <meta property="fb:page_id" content="208945146055">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="msvalidate.01" content="9567ADFBBCCFB49BFD22937CE884E159">
+  
+    <link rel="canonical" href="https://www.12wbt.com/privacy">
+    <link rel="alternate" hreflang="x-default" href="https://www.12wbt.com/privacy">
+    <link rel="alternate" hreflang="en-us" href="https://www.12wbt.com/en-US/privacy">
+  
+  
+  
 
   <link rel="shortcut icon" href="/sites/53927e37f20e991c08000011/theme/images/favicons/favicon.ico">
   <link rel="apple-touch-icon-precomposed" href="/sites/53927e37f20e991c08000011/theme/images/favicons/apple-touch-icon-152x152-precomposed.png" sizes="152x152">
@@ -44,39 +51,336 @@
 
     PublicPage.Config = {
       env:        "production",
-      locale:     "en-US",
-      is_au:      false,
-      is_us:      true,
+      locale:     "en",
+      is_au:      true,
+      is_us:      false,
       api_host:   "https://api.12wbt.com",
       frontend:   "https://go.12wbt.com",
       theme_base: "/sites/53927e37f20e991c08000011/theme"
     };
+
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=216886071814903&version=v2.0";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
   </script>
 
-  <link href="/sites/53927e37f20e991c08000011/theme/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css">
+  
+  <link href="/sites/53927e37f20e991c08000011/theme/stylesheets/application-legacy.d00ef959.css" media="screen" rel="stylesheet" type="text/css">
+  
 
-  <script src="//www.google.com/jsapi?key=ABQIAAAAkw12MYDQXLN3pq8bEezwiRSW6xNC3t-guYVqScQriCt8NY6soBSdg2XBV21mGQxC9K19P7MpIrglSQ" type="text/javascript"></script>
+  
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
 
   
     <script src="//cdn.optimizely.com/js/11976653.js" type="text/javascript"></script>
   
 
-  <script src="/sites/53927e37f20e991c08000011/theme/javascripts/application.js" type="text/javascript"></script>
+  <script src="/sites/53927e37f20e991c08000011/theme/javascripts/vendor.f27779e9.js" type="text/javascript"></script>
+
+  
+
+  
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    <script src="/sites/53927e37f20e991c08000011/theme/javascripts/application-legacy.f57988ad.js" type="text/javascript"></script>
+  
+
+  
+    
+      <script>
+var takeovers = {
+  NZ : function(){
+    $('a[href^="https://go.12wbt.com/sign-up"],a[href^="http://go.12wbt.com/sign-up"]').each(function(){
+      var _link = $(this).attr('href');
+      $(this).attr('href',_link + (_link.indexOf('?')>-1 ? '&' : '?') + 'affiliation=NZ');
+    });
+    $('a[href^="http://www.12wbt.com/sign-up"]').attr('href','https://go.12wbt.com/sign-up?affiliation=NZ');
+  },
+  finalTwoWeeks : function() {
+    var _signup_link = 'https://go.12wbt.com/sign-up'
+    if($('#sign-up-nav a.join-now').length && $('#sign-up-nav a.join-now').attr('href')) {
+      _signup_link = $('#sign-up-nav a.join-now').attr('href');
+    }
+
+    $('#dynamic-message').remove();
+    $('body.home #hero h2').remove();
+    $('body.home #hero .join').css('width','100%');
+    $('body.home #hero .payment').css({'width':'100%','padding-left':'0'});
+    $('body.home #hero .payment p').css('font-size','20px');
+    $('body.home #hero .payment .price').css('font-size','56px');
+    $('body.home #hero .payment small').css('font-size','14px');
+    $('body.home #hero .join-btn').css({'font-size':'28px','margin-top':'12px','padding':'18px 4px'});
+    $('#learn-more-link a').css({'top':'10px','font-size':'12px'});
+
+    $('#halo').prepend('<div class="join-now" style=""><div class="container"><a id="signup-header" href="' + _signup_link + (_signup_link.indexOf('?')>-1 ? '&' : '?') + 'icn=preseason_open&amp;ici=header_yellow" style="color:#3c444d;display:block;text-align:center;line-height:22px;"><span class="generic-countdown-message" style="font-weight:700;"></span></a></div></div><style>#halo { padding-top:0; } @media (min-width:768px) { #halo .public-nav { margin-top: -20px; } #hero { margin-top: 20px; }} #halo .join-now { background-color: #FFD140; padding:10px 4px 30px; font-size:16px; text-align: center; } @media (max-width:767px) {  #halo .join-now { padding-bottom: 15px; } } </style>');
+  },
+  cookbook : function() {
+    var _remainder = window.location.search.substr(window.location.search.indexOf('_since=')+7);
+    var _since = '';
+    if( _remainder.length ) {
+      if(_remainder.indexOf('_since',1) && _remainder.length > _remainder.indexOf('_since')+7){
+        _remainder = _remainder.substr(_remainder.indexOf('_since')+7);
+      }
+      _since = _remainder.split('&')[0];
+    }
+    $('a[href^="https://go.12wbt.com/sign-up"],a[href^="http://go.12wbt.com/sign-up"]').each(function(){
+      var _link = $(this).attr('href');
+      $(this).attr('href',_link + (_link.indexOf('?')>-1 ? '&' : '?') + '_offer=cookbook');
+    });
+    $('a[href^="https://www.12wbt.com/whats-new/"],a[href^="/whats-new/"]').each(function(){
+      var _link = $(this).attr('href');
+      $(this).attr('href',_link + (_link.indexOf('?')>-1 ? '&' : '?') + '_since=' + _since);
+    });
+    if(_since.length) {
+      $('.breadcrumbs a:last').attr('href','/landings/whats-new-since-' + _since);
+    } else {
+      $('.breadcrumbs').remove();
+    }
+    $('aside.sub-copy').remove();
+    $('article.copy').removeClass('col-sm-8');
+    $('article.copy p.whats-new-feature').clone().insertAfter('article.copy h1:first').addClass('col-sm-5 pull-right hidden-xs');
+    $('article.copy p.whats-new-feature').addClass('visible-xs');
+    $('article.copy .body h3').css('clear','both');
+    $('article.copy h1').addClass('col-sm-7').css({'font-weight':700,'color':'#333'});
+    $('article.copy section.first').addClass('col-sm-7');
+    $('article p.intro').css('margin-bottom','0.4em');
+  },
+  MDC : function() {
+    $('a[href^="https://go.12wbt.com/sign-up"],a[href^="http://go.12wbt.com/sign-up"]').each(function(){
+      var _link = $(this).attr('href');
+      $(this).attr('href',_link + (_link.indexOf('?')>-1 ? '&' : '?') + 'affiliation=MDC');
+    });
+    $('a[href^="http://www.12wbt.com/sign-up"]').attr('href','https://go.12wbt.com/sign-up?affiliation=MDC');
+  }
+};
+
+if(window.location.search.indexOf('utm_source=NZ')>-1) {
+  $.cookie('_takeover','NZ',{domain:'12wbt.com',path:'/',expires:30});
+}
+if($.cookie('_takeover')) {
+  if($.cookie('_takeover')=='NZ') {
+    $(function() {
+      takeovers.NZ();
+    });
+  }
+}
+if($.cookie('_affiliation') == 'MDC' && window.location.pathname != '/landings/mothers-day-classic-2015') {
+  $(function() {
+    takeovers.MDC();
+  });
+}
+
+// for marketing links
+if(window.location.search.indexOf('_hidelearn')>-1) {
+  $(function() {
+    $('#learn-more-link').remove();
+  });
+}
+// final two weeks
+if(window.location.pathname=='/') {
+  var _now = new Date();
+  if ( ( _now > new Date(2015,2,2) && _now < new Date(2015,2,17) )
+    || ( _now > new Date(2015,3,20) && _now < new Date(2015,4,4) ) ) {
+    $(function() {
+      takeovers.finalTwoWeeks();
+    });
+  }
+}
+// whats new rearrangement for cookbook offer
+if( window.location.pathname.indexOf('/whats-new/')==0 && window.location.search.indexOf('_since=')>-1 ) {
+  $(function() {
+    takeovers.cookbook();
+  });
+}
+
+// $(function(){ if ( $('article .modal').length && $('#footer-public').length ) {
+//  $('article .modal-body').css('overflow-y','auto');
+//  $('article .modal').insertAfter('#footer-public').on('show.bs.modal',function(ev){
+//    $(this).find('.modal-body').css('height',$(window).height() * 0.8);
+//  });
+// }});
+
+if(window.location.search.indexOf('utm_source=NZ')>-1) {
+  $.cookie('_takeover','NZ',{domain:'12wbt.com',path:'/',expires:30});
+}
+if($.cookie('_takeover')) {
+  if($.cookie('_takeover')=='NZ') {
+    $(function() {
+      takeovers.NZ();
+    });
+  }
+}
+
+// for marketing links
+if(window.location.search.indexOf('_hidelearn')>-1) {
+  $(function() {
+    $('#learn-more-link').remove();
+  });
+}
+
+
+</script>
+
+    
+  
+
+  <script type="text/javascript">
+  $(function () {
+    'use strict';
+
+    
+      
+        PublicPage.LeadConfig = {
+  home: {
+    trigger: 'manual',
+    set_prospect_date: 'true',
+    prospect_interest: 'weight-loss',
+    additional_list: '1469818',
+    optional_triggered_send_key: '903785',
+    source_data: '12wbt-www-home'
+  },
+  'learn-more': {
+    trigger: 'in-page',
+    set_prospect_date: 'true',
+    additional_list: '1469818',
+    optional_triggered_send_key: '903785',
+    source_data: '12wbt-www-learnmore'
+  },
+  'running': {
+    trigger: 'in-page',
+    set_prospect_date: 'true',
+    prospect_interest: 'running',
+    additional_list: '1469818',
+    optional_triggered_send_key: '903785',
+    source_data: '12wbt-www-learnmore-running'
+  },
+  'post-baby': {
+    trigger: 'in-page',
+    set_prospect_date: 'true',
+    prospect_interest: 'post-baby',
+    additional_list: '1469818',
+    optional_triggered_send_key: '903785',
+    source_data: '12wbt-www-learnmore-postbaby'
+  },
+  'christmas': {
+    trigger: 'on-load',
+    set_prospect_date: 'true',
+    additional_list: '1469818',
+    optional_triggered_send_key: '903785',
+    source_data: '12wbt-www-christmas'
+  },
+  'how-it-works': {
+    trigger: 'in-page',
+    set_prospect_date: 'true',
+    additional_list: '1469818',
+    optional_triggered_send_key: '903785',
+    source_data: '12wbt-www-howitworks'
+  },
+  'fitness': {
+    trigger: 'in-page',
+    set_prospect_date: 'true',
+    additional_list: '1469818',
+    optional_triggered_send_key: '903785',
+    source_data: '12wbt-www-fitness'
+  },
+  'nutrition': {
+    trigger: 'in-page',
+    set_prospect_date: 'true',
+    additional_list: '1469818',
+    optional_triggered_send_key: '903785',
+    source_data: '12wbt-www-nutrition'
+  },
+  'success-stories': {
+    trigger: 'in-page',
+    set_prospect_date: 'true',
+    additional_list: '1469818',
+    optional_triggered_send_key: '903785',
+    source_data: '12wbt-www-successtories'
+  },
+  'mindset': {
+    trigger: 'in-page',
+    set_prospect_date: 'true',
+    additional_list: '1469818',
+    optional_triggered_send_key: '903785',
+    source_data: '12wbt-www-mindset'
+  },
+  'weight-loss': {
+    trigger: 'in-page',
+    set_prospect_date: 'true',
+    prospect_interest: 'weight-loss',
+    additional_list: '1469818',
+    optional_triggered_send_key: '903785',
+    source_data: '12wbt-www-weightloss'
+  },
+  'pregnancy': {
+    trigger: 'in-page',
+    set_prospect_date: 'true',
+    prospect_interest: 'pregnancy',
+    additional_list: '1469818',
+    optional_triggered_send_key: '903785',
+    source_data: '12wbt-www-pregnancyandpostbaby'
+  }
+};
+      
+    
+
+    var config = PublicPage.LeadConfig["privacy"] || PublicPage.LeadConfig["privacy"] || PublicPage.LeadConfig[""];
+
+    if (config) {
+      $('.register-form').each(function() {
+        $(this).leadcapture(config);
+      });
+    }
+
+
+    $('.subscribe-form').each(function() {
+      var form = new registerForm();
+      form.init($(this));
+    });
+  });
+</script>
+
 
   <!--[if lt IE 9]>
-    <script src="/sites/53927e37f20e991c08000011/theme/javascripts/html5shiv.js" type="text/javascript" ></script>
-    <script src="/sites/53927e37f20e991c08000011/theme/javascripts/ie8.js" type="text/javascript" ></script>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="/sites/53927e37f20e991c08000011/theme/javascripts/ie8.2a5aea04.js" type="text/javascript" ></script>
   <![endif]-->
+
 </head>
 
-
-  <body class="public privacy us" itemscope="" itemtype="http://schema.org/WebPage" data-locale="en-US">
+  <body class="public privacy au" itemscope="" itemtype="http://schema.org/WebPage" data-locale="en">
 
     <!-- Halo -->
     
       <div id="halo">
-        
+
 
       <nav class="navbar public-nav">
   <div class="container">
@@ -91,7 +395,7 @@
       </button>
 
       <div class="btn-home" id="home-button">
-         <a href="/"><span>12WBT</span></a>
+         <a href="/"><i class="icon-12wbt-wbt"></i><span>12WBT</span></a>
       </div>
 
       <ul id="login-buttons" class="login-nav">
@@ -99,7 +403,7 @@
           <a href="https://go.12wbt.com/login" rel="nofollow">Login</a>
         </li>
         <li id="sign-up-nav">
-          <a href="https://go.12wbt.com/sign-up?locale=us" class="join-now">Join Now!<i></i></a>
+          <a href="https://go.12wbt.com/sign-up" class="join-now">Join Now!<i></i></a>
           <div class="highlight-box signup-options">
             <span class="up-arrow"></span>
 
@@ -108,7 +412,7 @@
                 <li class="col-xs-6">
                   <strong>1 payment of</strong><br>
                   <em>$199</em><br><span>BEST VALUE</span><br>
-                  <a href="https://go.12wbt.com/sign-up/single-payment?locale=us" class="mb-btn">Join now</a>
+                  <a href="https://go.12wbt.com/sign-up/single-payment" class="mb-btn">Join Now</a>
                   <div class="or">
                     <small>Or</small>
                   </div>
@@ -117,7 +421,7 @@
                   <strong>12 payments of</strong><br>
                   <em>$19.99 a week</em><br>
                   <span>($239.88 TOTAL)</span><br>
-                  <a href="https://go.12wbt.com/sign-up/recurring-payment?locale=us" class="mb-btn">Join now</a>
+                  <a href="https://go.12wbt.com/sign-up/recurring-payment" class="mb-btn">Join Now</a>
                 </li>
               </ul>
             </div>
@@ -148,7 +452,7 @@
 
       <ul class="nav navbar-nav" id="navbar-nav">
         <li class="home">
-          <a href="/"><span>12WBT</span></a>
+          <a href="/"><i class="icon-12wbt-wbt"></i><span>12WBT</span></a>
         </li>
 
         <li>
@@ -160,7 +464,7 @@
         </li>
 
         <li>
-          <a href="/programs"><i class="icon-12wbt-fitness"></i><span>Fitness</span></a>
+          <a href="/fitness"><i class="icon-12wbt-fitness"></i><span>Fitness</span></a>
         </li>
 
         <li>
@@ -168,27 +472,34 @@
         </li>
 
         <li class="dropdown  hidden-sm hidden-xs">
-          <a href="#"><span>Community<i class="icon-white icon-12wbt-dropdown"></i></span></a>
+          <a href="/community"><span>Community<i class="icon-white icon-12wbt-dropdown"></i></span></a>
           <ul>
             <li>
               <a href="/success-stories"><span>Success Stories</span></a>
             </li>
             <li>
-              <a href="/us/blog"><span>12WBT Blog</span></a>
+              <a href="/crews"><span>Crews</span></a>
             </li>
           </ul>
         </li>
 
         <li class="visible-sm visible-xs  ">
+          <a href="/community"><i class="icon-12wbt-forums"></i><span>Community</span></a>
+        </li>
+        <li class="visible-sm visible-xs  ">
           <a href="/success-stories"><i class="icon-12wbt-testimonials"></i><span>Success Stories</span></a>
         </li>
-        <li class="visible-sm visible-xs">
-          <a href="/us/blog"><i class="icon-12wbt-members"></i><span>12WBT Blog</span></a>
+        <li class="visible-sm visible-xs ">
+          <a href="/crews"><i class="icon-12wbt-members"></i><span>Crews</span></a>
         </li>
 
         
+          <li>
+            <a href="https://shop.12wbt.com"><i class="icon-12wbt-shop"></i><span>Shop</span></a>
+          </li>
+        
 
-        <li>
+        <li class="help">
           <a href="/faqs"><i class="icon-12wbt-help"></i><span>Help</span></a>
         </li>
         <li class="visible-sm visible-xs">
@@ -199,12 +510,14 @@
   </div>
 </nav>
 
-      
+
 
       
-      <div id="header-signup-state" class="container">
-        
+      <div id="dynamic-message" class="container">
+      <div id="header-signup-state">
       </div>
+      </div>
+
      
 
         <!-- Breadcrumbs -->
@@ -262,16 +575,17 @@
   </a>
 </div>
 
-<strong>Effective Date: 26/06/2013</strong>
+<strong>Effective Date: 17/10/2014</strong>
 <p></p>
 
 <p>
-  Protecting your privacy: 12WBT LLC ( <strong>"us, we, our"</strong>
-  or <strong>"12WBT"</strong>
-  ) is committed to protecting the information about you that we collect, store and use when you provide it to us at our web and mobile sites: www.12wbt.com and mobile application: 12WBT or in connection with any services offered through those web and mobile sites and mobile applications (collectively referred to hereafter as, the "Website"). We manage your information in accordance with the Australian Privacy Principles set out in the Privacy Act 1988 (Cth). This document describes how we manage any personal information we have collected about you from the Website.
+  Protecting your privacy: 12WBT Trading Pty Ltd ABN 31 154 009 622 or Level 20, 1 Market Street Sydney, NSW 2000 (<strong>"us, we, our"</strong>
+  or <strong>"12WBT"</strong>) are committed to protecting the information about you that we collect, store and use when you provide it to us at our web and mobile sites:
+  <a href="http://www.12wbt.com">www.12wbt.com</a>
+  and mobile application: 12WBT (Website). We manage your information in accordance with the Australian Privacy Principles set out in the Privacy Act 1988 (Cth). This document describes how we manage any personal information we have collected about you from the Website.
 </p>
 <p>
-  By accessing the Website, you accept the terms and conditions of its use, and consent to the collection, use and disclosure of your personal information in accordance with this privacy policy and the terms and conditions of use of the Website.
+  By accessing the Website you accept the terms and conditions of its use, and consent to the collection, use and disclosure of your personal information in accordance with this privacy policy and the terms and conditions of use of the Website.
 </p>
 <p>
   12WBT has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with
@@ -280,7 +594,7 @@
   <a href="http://www.12wbt.com">www.12wbt.com</a> and our mobile application: 12WBT.
 </p>
 <p>
-  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, or believe that your privacy has been breached, please contact us at <a href="mailto:support.usa@12wbtsupport.com">support.usa@12wbtsupport.com</a> and provide details of the incident so that we can investigate it. We request that all complaints be made in writing, so that we can be sure about the details of the complaint. We will treat your complaint confidentially, investigate your complaint and aim to ensure that we contact you and your complaint is resolved within a reasonable time (and in any event within the time required by the Privacy Act, if applicable). If you are not satisfied with our response you can contact
+  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, or believe that your privacy has been breached, please contact us at <a href="mailto:support@12wbtsupport.com">support@12wbtsupport.com</a> and provide details of the incident so that we can investigate it. We request that all complaints be made in writing, so that we can be sure about the details of the complaint. We will treat your complaint confidentially, investigate your complaint and aim to ensure that we contact you and your complaint is resolved within a reasonable time (and in any event within the time required by the Privacy Act, if applicable). If you are not satisfied with our response you can contact
   <a href="https://feedback-form.truste.com/watchdog/request">TRUSTe here</a>.
 </p>
 <h2>2. COLLECTION &amp; USE OF PERSONAL INFORMATION</h2>
@@ -326,28 +640,25 @@
 </ol>
 <h4>Competitions and promotions</h4>
 <p>
-  From time to time we may organize and run various competitions and promotions for users of the Website.  As part of these competitions and promotions, we may ask you to submit other personal information about yourself, such as your height, weight, marital status, age, fitness levels and nutrition details.
+  From time to time we may organise and run various competition and promotions for users of the Website.  As part of these competitions and promotions, we may ask you to submit other personal information about yourself, such as your height, weight, marital status, age, fitness levels and nutrition details.
 </p>
 <p>
-  You do not have to provide us with your health information. However, your failure to provide us with such information means that you may not be eligible to enter some competitions or will not be able to receive tailored information specific to your needs.
+  You do not have to provide us with your health information, however this means that you may not be eligible to enter some competitions, nor able to receive tailored information specific to your needs.
 </p>
 <h4>User submitted content</h4>
 <p>
-  The Website allows you to post and submit content, including photographs and images, height, weight, marital status, age, fitness levels and nutrition details.  You do not need to post or submit any content, however, if you do, we collect the information that you submit. We also collect any other information you provide to us (whether orally, by mail or email or online).
+  The Website allows you to post and submit content, including photographs and images, height, weight, marital status, age, fitness levels and nutrition details.  You do not need to post or submit any content, however, if you do, we collect the information that you submit.
 </p>
-<h4>Public Areas of the Website</h4>
 <p>
-  We may provide areas on the website where you can publicly post information about yourself and can communicate with others such as the community forum or blog and submit information and content.  By engaging in such conduct, you acknowledge your understanding that any such information or content you supply may be accessible by other users and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others throughout the world.  For example, if you post your email address on the community forum, you may receive unsolicited messages from other users. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information.
+  We also collect any other information you provide to us (whether orally, by mail or email or online).
 </p>
-<h4>Children</h4>
+<h4>Geo-Locaton Data</h4>
 <p>
-  We do not knowingly allow any visitors or users under the age of eighteen (18) to use or otherwise access to the Website. We do not wish to collect any personal information (or any information at all) from any persons under 18 years old.  If you are under 18 years old, you may not use the Website.
+  We may ask to track location-based information from your mobile device while downloading or using our Mobile Apps or Services in order to tailor your experience. If you don't grant permission then we do not collect any location-based data.
 </p>
 <h3>2.2 What does 12WBT do with my personal information?</h3>
 <p>
   We collect, hold and use your personal information for a number of purposes, as outlined below:
-</p>
-<p>
   Providing services to you and operating the Website
 </p>
 <p>In general, we use the information that we collect to:</p>
@@ -384,68 +695,71 @@
 </ol>
 <h3>2.3 To whom will 12WBT disclose my personal information?</h3>
 <p>
-  We generally do not disclose contact information about you publicly or to other third parties by us unless it is authorized or required by law (or when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on us in relation to the Website) or as otherwise outlined in this policy.
+  We do not disclose contact information about you publicly or to other third parties by us unless it is authorised or required by law (or when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on us in relation to the Website) or as otherwise outlined in this policy.
 </p>
 <p>
-  We may display personal information about you (including your health information and your profile photograph) on the Website where you have authorized us to do so (either through your public posting or other consent or agreement with us).  This is for the purposes of publicly profiling your fitness, displaying the results of competitions, promoting our services and Website and encouraging other members.  If you do not wish to have such information removed, then you must contact us at <a href="mailto:support.usa@12wbtsupport.com">support.usa@12wbtsupport.com</a>.
+  We may display personal information about you (including your health information and your profile photograph) on the Website.  This is for the purposes of publicly profiling your fitness, displaying the results of competitions, promoting our services and Website and encouraging other members.  If you do not wish this to happen, then you must contact us where directed below.
 </p>
 <p>
-  When you publicly post information or content through the Website, we will display your user submitted content as part of the Website.  The Website may include functionalities that allow you to control whether or not the public or other users of the Website are able to view your user submitted content.  We will use reasonable efforts to implement your selection.
+  We will display your user submitted content as part of the Website.  The Website may include functionalities that allow you to control whether or not the public or other users of the Website are able to view your user submitted content.  We will use reasonable endeavours to implement your selection.
 </p>
 <p>
-  From time to time, we will also disclose your personal information (on a confidential basis) to agents and others that we use in the ordinary operation of our business, such as account and billing, shipping and fulfillment, marketing and promotion, user experience research and surveys, website hosting and support and maintenance.  We will only disclose your information to the extent required for the limited purpose of the third party providing services contracted to us so that we may service you.
+  From time to time, we will also disclose your personal information (on a confidential basis) to agents and others that we use in the ordinary operation of our business, such as account and billing, shipping and fulfilment, marketing and promotion, user experience research and surveys, website hosting and support and maintenance.  We will only disclose your information to the extent required for the limited purpose of the third party providing services contracted to us so that we may service you.
+</p>
+<p>
+  If 12WBT is involved in a merger, acquisition, or sale of all or a portion of its assets, your PII or other information may be part of the transferred assets.
 </p>
 <p>
   We may also disclose aggregated data (in a form that does not identify you individually) to our advisors for the purposes of conducting market and user experience analysis.
 </p>
 <p>
-  We may share your information in a business transfer. As with any other business, we could merge with, or be acquired by, another company, or we may file for protection under applicable bankruptcy laws in the future.  In such event, user information obtained and maintained by the Website, including personal information, will transfer to a successor entity in connection with the corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. User information submitted prior to any such transfer would remain subject to the terms of this Privacy Policy (as it existed on the date of the submission). However, user information submitted after a transfer to a successor entity may be subject to a new privacy policy adopted by the successor entity.
-</p>
-<p>
-  We may share your information for our protection and the protection of others. We reserve the right to disclose your personal information as required by applicable law or when we reasonably believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on us; enforce or apply this Privacy Policy, the terms and conditions of use of the Website, or other agreements or investigate, prevent, or take action suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person or to prevent financial loss to any person or entity; or otherwise protect the rights, property, safety or integrity of the Website, its users or others.
-</p>
-<p>
   While we store the majority of the personal information that we collect from your in Australia, we may from time to time store some of the information in a computer server located in the United States.  We will take such steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the Australian Privacy Principles.
 </p>
 <h3>2.4 Testimonials</h3>
-<p>We publish customer testimonials on our website, in social media profiles, on our Youtube channel and within advertising creative material. These testimonials may contain personally identifiable information. We obtain your written consent at the time the testimonial is recorded. If you want your testimonial removed please contact us at <a href="mailto:support.usa@12wbtsupport.com">support.usa@12wbtsupport.com</a>.
+<p>We publish customer testimonials on our website, in social media profiles, on our Youtube channel and within advertising creative material. These testimonials may contain personally identifiable information. We obtain your written consent at the time the testimonial is recorded. If you want your testimonial removed please contact us at <a href="mailto:support@12wbtsupport.com">support@12wbtsupport.com</a>.
 </p>
 <h3>2.5 Manner of collection</h3>
 <p>
-  We will use reasonable endeavors to only collect information directly from you.  If you are disclosing details of another person (for example, a minor on whose behalf you are registering), it is your sole responsibility to ensure that that person understands and consents to the collection, use and disclosure of their personal information in the manner set out in this policy.
+  We will use reasonable endeavours to only collect information directly from you.  If you are disclosing details of another person (for example, a minor on whose behalf you are registering), it is your sole responsibility to ensure that that person understands and consents to the collection, use and disclosure of their personal information in the manner set out in this policy.
 </p>
 <h2>3. INFORMATION COLLECTED BY OUR WEBSITE</h2>
 <h3>3.1 Tracking of user experience</h3>
 <p>
-  A cookie is a small text file that is stored on a user’s computer for record-keeping purposes.  We use cookies on the Website.  We link the information we store in cookies to any personally identifiable information you submit while on our Website.
+  We use Google Analytics Advertising products:  Remarketing with Google Analytics and Google Analytics Demographics and Interest Reporting.  Google Analytics collects data about our site traffic via Google Advertising cookies and anonymous identifiers.  Data collected via these Google products is not linked with any personally identifiable information you submit while on our Website.  If you wish to opt out of the Google Analytics data collection, you may do so on Google's website at <a href="https://tools.google.com/dlpage/gaoptout/" target="_blank">https://tools.google.com/dlpage/gaoptout/</a>.</p>
+<p>
+  As is true of most web sites and mobile applications, we and, in some instances, our third party tracking-utility partners gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 </p>
 <p>
-  We use both session ID cookies and persistent cookies.  We use session cookies to make it easier for you to navigate our Website.  A session ID cookie expires when you close you browser.  A persistent cookie remains on your hard drive for an extended period of time.  You can remove persistent cookies by following directions provided in your Internet browser’s "help" file.  If you reject cookies, you may still use our Website, but your ability to use some areas of our Website may be limited.
+  We use this information, which does not identify individual users, to analyze trends, to administer the Website, to track users' movements around the Website and to gather demographic information about our user base as a whole.
 </p>
 <p>
-  We, and our third party tracking utilities-partners, employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Website by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of users on our Website.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on webpages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally identifiable information.
+  Technologies such as: cookies, beacons, tags and scripts are used by 12WBT and our partners (marketing and development partners), affiliates, or analytics or service providers (online customer support provider, email marketing system). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 </p>
 <p>
-  We also use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients.  This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+  We use cookies for authentication purposes and to tailor the site to user preferences. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 </p>
 <p>
-  As is true of most web sites and mobile applications, we and, in some instances, our third party tracking-utility partners gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  These third party tracking-utility partners may collect information about your activity on our site and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications.  The Website is not presently configured to respond to DNT or "do not track" signals from web browsers.
+  We use local storage objects (LSOs) such as HTML5 to store content information and preferences [or - other uses].
 </p>
 <p>
-  We use this information, which does not identify individual users, to analyze trends, to administer the Website, to track users’ movements around the Website and to gather demographic information about our user base as a whole.
+  Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs such as HTML5 to collect and store information.
 </p>
 <h3>3.2 Advertisements</h3>
 <p>
   We partner with a third party ad network to either display advertising on our Website or to manage our advertising on other sites.  Our ad network partner may use cookies and Web beacons to collect non-personally identifiable information about your activities on the Website and other websites that you may visit to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted advertisements, you may opt-out by
-  <a href="http://preferences-mgr.truste.com">clicking here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+  <a href="http://preferences-mgr.truste.com">clicking here</a>. Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 </p>
 <h3>3.3 Social Media Features</h3>
 <p>
-  The Website includes Social Media Features, such as the Facebook Like button.  These features may collect your IP address, which page you are visiting on our Website, and&nbsp;may set a cookie to enable the feature to function properly.  Social media features and widgets are either hosted by a third party or hosted directly on our Website.  Your interactions with these features are governed by the privacy policy of the company providing them.
+  The Website includes Social Media Features, such as the Facebook Like button.  These features may collect your IP address, which page you are visiting on our Website, and may set a cookie to enable the feature to function properly.  Social media features and widgets are either hosted by a third party or hosted directly on our Website.  Your interactions with these features are governed by the privacy policy of the company providing them.
 </p>
 <h3>3.4 Forums</h3>
 <p>
-  Our Website offers blogs or community forums that may be publicly accessible (or accessible by other users of the Website).  You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.  To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:support.usa@12wbtsupport.com">support.usa@12wbtsupport.com</a>.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+  Our Website offers blogs or community forums that may be publicly accessible (or accessible by other users of the Website).  You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.  To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:support@12wbtsupport.com">support@12wbtsupport.com</a>.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+</p>
+<h3>3.5 Single Sign-On</h3>
+<p>
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 </p>
 <h2>4. MARKETING MATERIAL</h2>
 <p>
@@ -453,20 +767,19 @@
 </p>
 <p>
   You may opt out of receiving promotional materials from us at any time by contacting us at
-  <a href="mailto:support.usa@12wbtsupport.com">support.usa@12wbtsupport.com</a>, or by following the 'unsubscribe' link on the relevant promotional emails.
+  <a href="mailto:support@12wbtsupport.com">support@12wbtsupport.com</a>
+  , or by following the 'unsubscribe' link on the relevant promotional emails.
 </p>
 <h2>5. PROTECTING AND MAINTAINING PERSONAL INFORMATION</h2>
 <p>
-  We will take all reasonable steps to protect the information we hold about you from unauthorized access, use and disclosure, however we cannot guarantee that our systems and stored data will be completely free from third party interception or are free from corruption.
+  We will take all reasonable steps to protect the information we hold about you from unauthorised access, use and disclosure, however we cannot guarantee that our systems and stored data will be completely free from third party interception or are free from corruption.
 </p>
 <p>
   Certain parts of the Website (such as those parts that require you to provide us with your credit card number) provides the ability for you to transmit information to our Website in an encrypted form by using secure socket layer technology (SSL).  However, other parts of the Website are not protected by any form of encryption to protect information you send from your computer to us over the Internet.  Further, no method of transmission over the Internet, or method of electronic storage, is 100% secure.  In light of this, we cannot ensure or warrant, and do not warrant, the security or privacy of your personal information, including payment and account details. You transmit this information at your own risk. If you have any questions regarding security you can contact us at
-  <a href="mailto:support.usa@12wbtsupport.com">support.usa@12wbtsupport.com</a>.
+  <a href="mailto:support@12wbtsupport.com">support@12wbtsupport.com</a>.
 </p>
 <p>
   You are solely responsible for maintaining the security of your passwords and/or any account information.
-</p>
-<p>
   We will destroy or de-identify your personal information when it is no longer needed or required to be kept by law or to provide services to you.  Please note that, as you may continue to have access to your account after your service subscription expires, we will continue to retain your personal information on the Website so that you may access it.  You can manually delete your personal information on the Website by accessing your account.  We will also preserve the content of any email or information you submit if we believe we have a legal requirement to do so, or if any form of email abuse is suspected.
 </p>
 <p>
@@ -476,47 +789,57 @@
 <p>
   It is your responsibility to advise us of any changes to your personal details to ensure we can keep our records accurate and up to date.
   If you wish to access the information we hold about you, please submit a request to
-  <a href="mailto:support.usa@12wbtsupport.com">support.usa@12wbtsupport.com</a>
+  <a href="mailto:support@12wbtsupport.com">support@12wbtsupport.com</a>
   or by logging into your account and making the appropriate changes. If you believe that the personal information we hold about you is incorrect, you are entitled to request amendment of such information. If we do not agree that there are grounds for amendment, then we will add a note to the personal information stating that you disagree with it.  You may also request that we delete the personal information that we hold about you.  Please note that if we delete your contact information, we may not be able to provide you with the subscribed service.
 </p>
 <p>
-  If you request us not to use personal information in a particular manner or at all, we will adopt reasonable measures to observe your request but we may, to the extent permitted by law, still use or disclose your information if you subsequently consent to the disclosure or we believe the use or disclosure is reasonably necessary to assist a law enforcement agency or as otherwise required or authorized by law.
-</p>
-<p>
+  If you request us not to use personal information in a particular manner or at all, we will adopt reasonable measures to observe your request but we may, to the extent permitted by law, still use or disclose your information if you subsequently consent to the disclosure or we believe the use or disclosure is reasonably necessary to assist a law enforcement agency or as otherwise required or authorised by law.
   If you know the information we hold about you is not accurate or complete, please notify us. We will respond to requests for access within 30 days.
 </p>
-<p><b>For Residents of the State of California in the United States Only.</b></p>
 <p>
-  California Civil Code Section 1798.83 permits users who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.  In general, this information would include a list of the categories of Personal Information that was shared and the names and addresses of all third parties with which the business disclosed and shared information in the preceding calendar year.  To make such a request, please write to us at the following address: 12WBT LLC c/o LKP Global Law, LLP (Attn: California Privacy Rights) 1901 Avenue of the Stars, Suite 480, Los Angeles, California 90067, USA.
+  We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 </p>
 <h2>7. PRIVACY CONCERNS</h2>
 <p>
   If you have any concerns about how we handle your personal information or require further information, please contact the Privacy Officer at
-  <a href="mailto:support.usa@12wbtsupport.com">support.usa@12wbtsupport.com</a>. Also use this contact if you no longer consent to receiving marketing material from us, or to the posting of your personal information on the Website.
+  <a href="mailto:support@12wbtsupport.com">support@12wbtsupport.com</a>
+  . Also use this contact if you no longer consent to receiving marketing material from us, or to the posting of your personal information on the Website.
 </p>
 <p>
-  This document represents our policy as at October 15, 2013.  We may change this document from time to time to reflect changes to our information practices.  If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Website prior to the change becoming effective.  Although we intend to observe this policy at all times, it is not legally binding on us in any way.  From time to time we may regard it as necessary or desirable to act outside the policy.  We may do so, subject only to any statutory rights you have under the Privacy Act or other applicable legislation.  We encourage you to regularly review this statement to inform yourself of any amendments. Copyright © 2013 12WBT Pty Ltd. All rights reserved.
+  This document represents our policy as at 17 October, 2014.  We may change this document from time to time to reflect changes to our information practices.  If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Website prior to the change becoming effective.  Although we intend to observe this policy at all times, it is not legally binding on us in any way.  From time to time we may regard it as necessary or desirable to act outside the policy.  We may do so, subject only to any statutory rights you have under the Privacy Act or other applicable legislation.  We encourage you to regularly review this statement to inform yourself of any amendments.
 </p>
+<h2>8. Contact Us</h2>
+<p>
+  12WBT Trading Pty Ltd.
+</p>
+<p>
+  Level 20, 1 Market Street Sydney, NSW 2000 (ABN: 31 154 009 622)
+</p>
+<p>
+  Phone number: (02) 9046 3900
+</p>
+<p>
+  Copyright © [19 January 2010] 12WBT Trading Pty Ltd ABN 31 154 009 622. All rights reserved.
+</p>
+
       
     </article>
 
 
     <aside class="sub-copy col-sm-4">
       <div id="sidebar" class="affix-top">
-        <div class="container">
-          <div class="row">
-            <div class="sidebar-inner col-sm-offset-8 col-sm-4">
-              <div class="section-nav" id="sidenav">
+        <div class="sidebar-inner">
+          <div class="section-nav" id="sidenav">
 
-                <h3>Information</h3>
-                <ul>
-                  <li><a href="/terms"><span><strong>Terms </strong></span></a></li>
-                  <li class="active"><a href="/privacy"><span><strong>Privacy</strong></span></a></li>
-                  <li><a href="/faqs/question"><span><strong>Contact Us</strong></span></a></li>
-                </ul>
+            <h3>Information</h3>
+            <ul>
+              <li><a href="/terms"><span><strong>Terms </strong></span></a></li>
+              <li class="active"><a href="/privacy"><span><strong>Privacy</strong></span></a></li>
+              <li><a href="/faqs/question"><span><strong>Contact Us</strong></span></a></li>
+            </ul>
 
-              </div>
-              <div class="side-join-tout">
+          </div>
+          <div class="side-join-tout">
   <h2>Join my team today!</h2>
   <p class="status">Here's what you get:</p>
   <ul>
@@ -524,12 +847,9 @@
     <li>Easy-to-follow exercise plans</li>
     <li>Weekly mindset lessons</li>
   </ul>
-  <a href="https://go.12wbt.com/sign-up?locale=us" class="mb-btn">Join now</a>
+  <a href="https://go.12wbt.com/sign-up" class="mb-btn">Join now</a>
 </div>
 
-
-            </div>
-          </div>
         </div>
       </div>
     </aside>
@@ -553,32 +873,40 @@
           <h3>Questions we get</h3>
           <ul>
               
-              <li><a href="/faqs/747170-how-much-exercise-will-i-be-doing-on-the-12wbt-us">How much exercise will I be expected to do?</a></li>
-              <li><a href="/faqs/747228-when-does-the-next-round-of-the-12wbt-start-us">When does the next 12WBT start?</a></li>
-              <li><a href="/faqs/743994-what-is-the-12wbt-and-how-does-it-work-us">How does the 12WBT program work?</a></li>
-              <li><a href="/faqs/744011-how-much-does-the-12wbt-cost-us">How much does 12WBT cost?</a></li>
-              <li><a href="/faqs/747178-are-the-12wbt-plans-the-same-as-the-ones-in-michelle-s-books-us">Is 12WBT the same as Michelle's books?</a></li>
+              <li><a href="/faqs/747170-how-much-exercise-will-i-be-doing-on-12wbt">How much exercise will I be expected to do?</a></li>
+              <li><a href="/faqs/747228-when-does-the-next-round-of-12wbt-start">When does the next 12WBT start?</a></li>
+              <li><a href="/faqs/743994-what-is-12wbt-and-how-does-it-work">How does the 12WBT program work?</a></li>
+              <li><a href="/faqs/744011-how-much-does-12wbt-cost">How much does 12WBT cost?</a></li>
+              <li><a href="/faqs/747178-are-the-12wbt-plans-the-same-as-the-ones-in-michelle-s-books">Is 12WBT the same as Michelle's books?</a></li>
               
             </ul>
-           <a href="/faqs" class="mb-btn mb-btn-white col-xs-6 col-xs-offset-3 visible-xs">View Full FAQs</a>
+           <a href="/faqs" class="btn btn-default col-xs-6 col-xs-offset-3 visible-xs">View Full FAQs</a>
       </div>
       <div class="features col-sm-6">
         <h3>The 12WBT Blog</h3>
           <ul>
-            
-            <li><a href="/blog/food-and-nutrition/yes-can-healthy-bbq/"><span class="img"><img src="/sites/53927e37f20e991c08000011/theme/images/shared/sample/sample-blog-icon-us-1.jpg" class=""></span><span class="info"><i>Yes, You Can Have a Healthy BBQ</i>Warm weather brings with it barbecues, picnics and long weekend celebrations. Check out our best tips to enjoy yourself without guilt.</span></a></li>
-            <li><a href="/blog/health-and-fitness/top-5-reasons-make-water-new-best-friend/"><span class="img"><img src="/sites/53927e37f20e991c08000011/theme/images/shared/sample/sample-blog-icon-us-2.jpg" class=""></span><span class="info"><i>Top 5 Reasons to Make Water Your New Best Friend</i>There's so much chatter these days about which superfoods to eat and what supplements work or don't work for your overall health. An ordinary glass of water can do some amazing things.</span></a></li>
-            
+            <li>
+              <a href="https://www.12wbt.com/blog/food-and-nutrition/whats-best-breakfast-weight-loss-2/">
+                <span class="img"><img class="lazy" data-original="/sites/53927e37f20e991c08000011/theme/images/homepage/social-panel/blog/blog1.jpg"></span>
+                <span class="info"><i>What's The Best Breakfast for Weight Loss?</i>You've heard it before: brekkie is the most important meal of the day - but what's the best breakfast if weight loss is your goal? Our 12WBT dietitian Chantelle has the scoop.</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.12wbt.com/blog/health-and-fitness/running-better-than-sex/">
+                <span class="img"><img class="lazy" data-original="/sites/53927e37f20e991c08000011/theme/images/homepage/social-panel/blog/blog2.jpg"></span>
+                <span class="info"><i>Could Running Be Better Than Sex?</i>We all know that running and sex are both good for your health - both mental and physical. BUT which burns the most calories?</span>
+              </a>
+            </li>
           </ul>
-          <a href="/blog" class="mb-btn mb-btn-white col-xs-6 col-xs-offset-3 visible-xs">View 12WBT Blog</a>
+          <a href="/blog" class="btn btn-default col-xs-6 col-xs-offset-3 visible-xs">View 12WBT Blog</a>
       </div>
       </div>
       <div class="hidden-xs">
       <div class="col-sm-6 ">
-        <a href="/faqs" class="mb-btn mb-btn-white col-sm-6 col-sm-offset-3">View Full FAQs</a>
+        <a href="/faqs" class="btn btn-default col-sm-6 col-sm-offset-3">View Full FAQs</a>
       </div>
       <div class="col-sm-6 text-center">
-        <a href="/blog" class="mb-btn mb-btn-white col-sm-6 col-sm-offset-3 ">View 12WBT Blog</a>
+        <a href="/blog" class="btn btn-default col-sm-6 col-sm-offset-3 ">View 12WBT Blog</a>
       </div>
       </div>
     </div>
@@ -586,24 +914,30 @@
 
   <div id="footer-join">
     <div class="container">
-      
-        <div class="col-sm-12"><h3><i class="icon-12wbt icon-tick"></i>Sounds good right? Join the team today</h3></div>
+
+        <div class="col-sm-12"><h3>
+            <span class="icon-section circle-md bg-white">
+              <span class="icon-12wbt-tick mid-blue"></span>
+            </span>
+            Like any great journey, preparation is key!</h3>
+            <p class="second">Sounds good, right? Take control of your health and join today.</p>
+        </div>
         <div class="row">
         <div class="benefits col-sm-6">
           <ul>
-            <li>Join my team, you're in good hands</li>
-            <li>Life changing advice and support</li>
-            <li>Experience what everyone is raving about</li>
-            <li>Less than the price of a coffee per day</li>
+            <li>Daily meal plans full of delicious recipes</li>
+            <li>Body-transforming exercise plans</li>
+            <li>Life-changing mindset lessons</li>
+            <li>Expert advice and support</li>
           </ul>
         </div>
         <div class="signup col-sm-6">
-  <div class="highlight-box signup-options">
+  <div class="signup-options box-white">
     <span class="up-arrow"></span>
     <ul class="row">
       <li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-1">
         <strong>1 payment of</strong><br><em>$199</em><br><span>BEST VALUE</span><br>
-        <a href="https://go.12wbt.com/sign-up/single-payment?locale=us" class="mb-btn mb-btn-lg">Join Now</a>
+        <a href="https://go.12wbt.com/sign-up/single-payment" class="btn btn-primary btn-lg">Join Now</a>
         <div class="or">
           <small>Or</small>
         </div>
@@ -611,7 +945,7 @@
       <li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-2">
         <strong>12 payments of</strong><br><em>$19.99/wk</em><br>
         <span>$239.88 TOTAL</span><br>
-        <a href="https://go.12wbt.com/sign-up/recurring-payment?locale=us" class="mb-btn mb-btn-lg">Join Now</a>
+        <a href="https://go.12wbt.com/sign-up/recurring-payment" class="btn btn-primary btn-lg">Join Now</a>
       </li>
     </ul>
     
@@ -624,141 +958,204 @@
   </div>
 
 
-
   <div id="footer-links">
-      <div id="quick-link" class="container section">
-        <div class="row">
-        <div class="col-sm-3">
-          <h4>Get To Know Us</h4>
-          <ul class="clearfix">
-            <li><a href="/blog">12WBT Blog</a></li>
-            <li><a href="/careers/our-team">Our Team</a></li>
-            <li><a href="/careers">Careers</a></li>
-            <li><a href="/sitemap-human">Sitemap</a></li>
-          </ul>
-        </div>
+  <div id="quick-link" class="container section">
+    <div class="row">
+      <div class="col-sm-3">
+        <h4>Get To Know Us</h4>
+        <ul class="clearfix">
+          <li><a href="/blog">12WBT Blog</a></li>
+          <li><a href="/careers/our-team">Our Team</a></li>
+          <li><a href="/careers/our-coaches">Our Coaches</a></li>
+          <li><a href="/careers">Careers</a></li>
+          <li><a href="/sitemap-human">Sitemap</a></li>
+        </ul>
+      </div>
 
-        <div class="col-sm-3">
-          <h4>Weight Loss Topics</h4>
-          <ul class="clearfix">
-            <li><a href="/get-healthy">Get Healthy</a></li>
-            <li><a href="/weight-loss">Losing Weight</a></li>
-            
-          </ul>
-        </div>
+      <div class="col-sm-3">
+        <h4>Weight Loss Topics</h4>
+        <ul class="clearfix">
+          <li><a href="/get-healthy">Get Healthy</a></li>
+          <li><a href="/weight-loss">Losing Weight</a></li>
+          
+          <li><a href="/pregnancy-weight-loss">Pregnancy Weight Loss</a></li>
+          <li><a href="/post-pregnancy-weight-loss">Post Pregnancy Weight Loss</a></li>
+          
+        </ul>
+      </div>
 
-        <div class="col-sm-3">
-          <h4>Our Programs</h4>
-          <ul class="clearfix">
-            <li><a href="/how-it-works">How it Works</a></li>
-            <li><a href="/programs/move">Move</a></li>
-            <li><a href="/programs/beginner-weight-loss">Beginner Weight Loss</a></li>
-            <li><a href="/programs/intermediate-weight-loss">Intermediate Weight Loss</a></li>
-            <li><a href="/programs/advanced-lean-fit">Advanced Weight Loss</a></li>
-            <li><a href="/programs/advanced-lean-strong">Lean &amp; Strong</a></li>
-            <li><a href="/programs/learn-to-run">Learn to Run (L2R)</a></li>
-            <li><a href="/programs/10k-running-program">10k Running</a></li>
-            <li><a href="/programs/half-marathon-training-program">1/2 Marathon</a></li>
-            <li><a href="/programs/marathon">Marathon</a></li>
-            
-          </ul>
-        </div>
+      <div class="col-sm-3">
+        <h4>Our Programs</h4>
+        <ul class="clearfix">
+          <li><a href="/fitness/weight-loss">Move</a></li>
+          <li><a href="/fitness/weight-loss/move-2">Move 2</a></li>
+          <li><a href="/fitness/weight-loss/beginner-weight-loss">Beginner Weight Loss</a></li>
+          <li><a href="/fitness/weight-loss/intermediate-weight-loss">Intermediate Weight Loss</a></li>
+          <li><a href="/fitness/weight-loss/advanced-lean-fit">Advanced Weight Loss</a></li>
+          
+          <li><a href="/fitness/pregnancy">Pregnancy</a></li>
+          <li><a href="/fitness/pregnancy/post-baby">Post Baby</a></li>
+          
+          <li><a href="/fitness/strength/advanced-lean-strong">Lean &amp; Strong</a></li>
+          <li><a href="/fitness/running/learn-to-run">Learn to Run (L2R)</a></li>
+          <li><a href="/fitness/running/10k-running-program">10k Running</a></li>
+          <li><a href="/fitness/running/10k-running-advanced-program">10k Running Advanced</a></li>
+          <li><a href="/fitness/running/half-marathon-training-program">1/2 Marathon</a></li>
+          <li><a href="/fitness/running/half-marathon-advanced-program">1/2 Marathon Advanced</a></li>
+          <li><a href="/fitness/running/marathon">Marathon</a></li>
+        </ul>
+      </div>
 
-        <div class="col-sm-3">
-          <h4>Connect with us</h4>
-          <ul class="social clearfix">
-            <li class="fb">
-              <a href="http://www.facebook.com/12WBT.us" target="_blank">
+      <div class="col-sm-3">
+        <h4>Connect with us</h4>
+        <ul class="social clearfix">
+          <li class="fb">
+            <a href="http://www.facebook.com/12WBT" target="_blank">
                 <span class="icon-stack">
                   <i class="icon-circle icon-large icon-stack-base"></i>
                   <i class="icon-facebook icon-large icon-light"></i>
                 </span>
-                <span class="label label-default">facebook</span>
-              </a>
-            </li>
-            <li class="tw">
-              <a href="http://twitter.com/12wbt" target="_blank">
+              <span class="label label-default">facebook</span>
+            </a>
+          </li>
+          <li class="tw">
+            <a href="http://twitter.com/12wbt" target="_blank">
                 <span class="icon-stack">
                   <i class="icon-circle icon-large icon-stack-base"></i>
                   <i class="icon-twitter icon-large icon-light"></i>
                 </span>
-                <span class="label label-default">twitter</span>
-              </a>
-            </li>
-            <li class="yt">
-              <a href="http://www.youtube.com/12wbt/" target="_blank">
+              <span class="label label-default">twitter</span>
+            </a>
+          </li>
+          <li class="yt">
+            <a href="http://www.youtube.com/12wbt/" target="_blank">
                 <span class="icon-stack">
                   <i class="icon-circle icon-large icon-stack-base"></i>
                   <i class="icon-youtube-play icon-large icon-light"></i>
                 </span>
-                <span class="label label-default">youtube</span>
-              </a>
-            </li>
-            <li class="pin">
-              <a href="http://www.pinterest.com/12wbt/" target="_blank">
+              <span class="label label-default">youtube</span>
+            </a>
+          </li>
+          <li class="pin">
+            <a href="http://www.pinterest.com/12wbt/" target="_blank">
                 <span class="icon-stack">
                   <i class="icon-circle icon-large icon-stack-base"></i>
                   <i class="icon-pinterest icon-large icon-light"></i>
                 </span>
-                <span class="label label-default">pinterest</span>
-              </a>
-            </li>
-            <li class="inst">
-              <a href="http://www.instagram.com/12wbt/" target="_blank">
+              <span class="label label-default">pinterest</span>
+            </a>
+          </li>
+          <li class="inst">
+            <a href="http://www.instagram.com/12wbt/" target="_blank">
                 <span class="icon-stack">
                   <i class="icon-circle icon-large icon-stack-base"></i>
                   <i class="icon-instagram icon-large icon-light"></i>
                 </span>
-                <span class="label label-default">instagram</span>
-              </a>
-            </li>
-          </ul>
-        </div>
+              <span class="label label-default">instagram</span>
+            </a>
+          </li>
+          <li class="signup">
+            <div id="" data-toggle="modal" data-target=".modal.register-form" data-title="Sign up to our newsletter" data-description="Sign up to get the latest on health, fitness and nutrition delivered straight to your inbox!">
+              <a href="" class="">Sign up to our newsletter</a>
+            </div>
+          </li>
+        </ul>
       </div>
+    </div>
   </div>
 
-    <div id="copyright" class="section">
-      <div class="container">
-        <div class="section row">
-        <div class="col-sm-3">
-           <h3>
-            <span class="logo us">12WBT</span>
-            <span class="tag-line">US</span>
+  <div id="copyright" class="section">
+    <div class="container">
+
+      <div class="section legals-section">
+        <div class="col-md-3">
+          <h3 class="au">
+            <div class="logo">12WBT</div>
+            <span class="tag-line">AU</span>
           </h3>
         </div>
 
-        <div class="col-sm-7 tag-line">
-          Copyright © 2014 12WBT Pty Ltd. <a href="/terms" rel="nofollow">Terms &amp; Conditions</a> <a href="/privacy" rel="nofollow">Privacy</a><br>Consult your healthcare professional before beginning any diet or fitness regime.<br>
+        <div class="col-md-7 tag-line">
+            Copyright © 2015 12WBT Pty Ltd. <a href="/terms" rel="nofollow">Terms&nbsp;&amp;&nbsp;Conditions</a> <a href="/privacy" rel="nofollow">Privacy</a><br>Consult your healthcare professional before beginning any diet or fitness regime.<br>
         </div>
 
-        <div class="col-sm-2 truste">
-          <div id="6c1e0e20-ba23-419e-86bd-23ee5b02f013" class="pull-right">
-            <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/12WBT-Pty-/asc?rid=6c1e0e20-ba23-419e-86bd-23ee5b02f013"></script>
-            <a href="//privacy.truste.com/privacy-seal/12WBT-Pty-/validation?rid=e6725e0d-e30a-4f70-a7ca-5442dcacbf16" title="TRUSTe online privacy certification" target="_blank">
-              <img style="border: none; width:110px; height:35px;" src="//privacy-policy.truste.com/privacy-seal/12WBT-Pty-/seal?rid=e6725e0d-e30a-4f70-a7ca-5442dcacbf16" alt="TRUSTe online privacy certification">
-            </a>
-          </div>
+        <div class="col-md-2 truste">
         </div>
-      </div>
-
-      <div id="sister-site" class="section row">
-        <div class="col-sm-12 text-center">
-          <a href="#" data-locale-switch="en">
-            Visit Our AU Site
-          </a>
-        </div>
-      </div>
       </div>
     </div>
-
   </div>
-</footer>
 
+</div>
+
+</footer>
         
+
 
       
     </div>
     <!-- /Wrapper -->
+    <div class="modal fade register-form" id="pageModal" tabindex="-1" role="dialog" aria-labelledby="pageModalTitle" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h4 class="modal-title" id="pageModalTitle">Learn More About 12WBT</h4>
+      </div>
+      <div class="modal-body">
+          <p id="modal-body-title">
+          Enter your email address for sample exercises, recipes, and mindset lessons
+          </p>
+          <div class="alert alert-success messages success">
+            Thanks for registering! We'll show you how to get into the healthiest shape of your life! Watch out for your first email soon!
+          </div>
+          <div class="alert alert-danger messages error">An error occurred submitting your email. Please try again.</div>
+          <form id="subscribe-form" class="subscribe-form " method="post" action="#">
+            <div class="text">
+              <input type="text" class="required form-control " id="first-name" name="first_name" placeholder="First Name">
+            </div>
+            <div class="text">
+              <input type="text" class="required form-control " id="last-name" name="last_name" placeholder="Last Name">
+            </div>
+            <div class="text">
+              <input type="text" class="required email form-control " name="email" id="" placeholder="Email ">
+            </div>
+            <div class="text">
+              <input type="checkbox" name="opt-in" id="opt-in-1" checked=""> <label for="opt-in-1"><small>I agree to receive emails from 12WBT (We NEVER spam!)</small></label>
+            </div>
+            <div class="action">
+              <button type="submit" class="mb-btn btn btn-primary">Register Now <span class="glyphicon glyphicon-chevron-right"></span></button>
+            </div>
+              <input type="hidden" name="category" value="Lead">
+
+              
+<input type="hidden" name="country_code" value="AU">
+<input type="hidden" name="additional_list" value="">
+<input type="hidden" name="optional_triggered_send_key" value="">
+
+<input type="hidden" name="set_prospect_date" value="">
+<input type="hidden" name="prospect_interest" value="">
+
+
+              <input type="hidden" name="source_data" value="learn-more" id="source_data">
+          </form>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+    <!-- Modal -->
+<div class="modal fade" id="video-modal" tabindex="-1" role="dialog" aria-labelledby="videoTitle" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
+        <h5 class="modal-title" id="videoTitle"></h5>
+      </div>
+      <div class="modal-body"></div>
+    </div>
+  </div>
+</div>
+
 
 
 
@@ -789,7 +1186,7 @@
   dataLayer.push({
     'visitorType': (cookie !== null) ? 'Member' : 'Non Member',
     'pageType':    'Public',
-    'cmsLocale':   'en-US'
+    'cmsLocale':   'en'
   });
 </script>
 
@@ -800,28 +1197,6 @@
 
 
 <script type="text/javascript">
-  // -- Start KM
-  var _kmq = _kmq || [];
-
-  function _kms(u){
-    setTimeout(function() {
-      var s = document.createElement('script');
-      var f = document.getElementsByTagName('script')[0];
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = u;
-      f.parentNode.insertBefore(s, f);
-    }, 1);
-  }
-
-  _kms('//p.12wbt.com/i.js');
-  _kms('//p.12wbt.com/cf.js');
-
-  if (member_id !== null) {
-    _kmq.push(['identify', member_id]);
-  }
-  // -- End KM
-
   // -- Start Facebook
   window.fbAsyncInit = function() {
     FB.init({
@@ -832,14 +1207,6 @@
     });
     FB.Canvas.setAutoGrow(91);
   };
-
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
 
   // Create a function for a user to call to pass in the options.
   function trackFacebook() {
@@ -884,7 +1251,29 @@
   }); 
 </script>
 
+<script type="text/javascript">
+    function test_domain(email) {
+      var isSuccess = false;
+      $.ajax({
+        type: 'POST',
+        async: false,
+        url: 'valid_domain',
+        data: {'email': email},
+        success: function(msg) {
+          if (typeof(msg['success']) !== 'undefined') {
+            isSuccess = msg['success'];
+          }
+        },
+      });
+      return isSuccess;
+    }
+
+    jQuery.validator.addMethod("domainValid", function(value, element) {
+        return this.optional(element) || test_domain(value);
+    }, "* Domain must be valid");
+</script>
+
     
   
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
