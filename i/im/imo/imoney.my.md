@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imoney.my privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025606id_/http%3A//www.imoney.my/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imoney.my privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317185524id_/https%3A//www.imoney.my/privacy-statement) for the most accurate reproduction.*
 
 # privacy-statement | iMoney
 
@@ -92,7 +92,7 @@ This Privacy Policy was last updated on _15 January 2013_.
 **Contacting Us about This Policy**  
 If you have any questions or comments about this Privacy Policy, contact us at:
 
-**Intelligent Money Sdn Bhd (iMoney)**  
+**Intelligent Money Sdn Bhd (1005180-T) (iMoney)**  
 Unit No. 50-2-1,  
 Level 2 Wisma UOA Damansara,  
 No. 50 Jalan Dungun, Damansara Heights,  
