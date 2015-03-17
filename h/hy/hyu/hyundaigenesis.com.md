@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundaigenesis.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102085023id_/http%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundaigenesis.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317045548id_/http%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@ NOTICE :
 
 Your privacy is important to Hyundai Motor America (“Hyundai” or “HMA”) and its affiliate companies, as is your trust in Hyundai’s products and services. We strive to protect your online privacy, while providing an enjoyable website experience that provides information, products, and services that are relevant and useful to you. The purpose of this Hyundai Privacy Policy for the U.S. (“Policy” or “Privacy Policy”) is to notify and inform you of our website personal information practices. This Privacy Policy applies to Hyundai and its affiliate companies. We urge you to read the complete Privacy Policy as well as our Terms and Conditions of Use and contact us if you have any questions.
 
-This Policy will describe the kinds of personally identifiable information we may gather when you visit our websites: HyundaiUSA.com and certain other Hyundai micro-sites (e.g., [hyundainuvis.com](http://www.hyundainuvis.com/) or [hmaservice.com](http://hmaservice.com/)). Additionally, this Policy addresses how we may collect, handle and use that information, what choices you have to manage the personal information we collect about you, the circumstances under which we may disclose it to third parties, and the security of such information.  
+This Policy will describe the kinds of personally identifiable information we may gather when you visit our websites: HyundaiUSA.com and certain other Hyundai micro-sites (e.g., [hyundainuvis.com](https://www.hyundainuvis.com/) or [hmaservice.com](https://hmaservice.com/)). Additionally, this Policy addresses how we may collect, handle and use that information, what choices you have to manage the personal information we collect about you, the circumstances under which we may disclose it to third parties, and the security of such information.  
 
 
 ## CHOICE :  
