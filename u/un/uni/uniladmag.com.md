@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the uniladmag.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609062641id_/http%3A//uniladmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniladmag.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317062008id_/http%3A//uniladmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy - UNILAD
 
-UniLad (“We”) are committed to protecting and respecting your privacy.
+UNILAD (“We”) are committed to protecting and respecting your privacy.
 
 This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
 
-For the purpose of the Data Protection Act 1998 (the  **Act** ), the data controller is Uni Lad of Trafalgar House, Grenville Place, Mill Hill, London, NW7 3SA.
+For the purpose of the Data Protection Act 1998 (the  **Act** ), the data controller is UNILAD of 83 Ducie Street,  Manchester, M1 2JQ
 
 This policy only applies to our site. If you leave our site via a link or otherwise, you will be subject to the policy of that website provider. We have no control over that policy or the terms of the website and you should check their policy before continuing to access the site.
 
@@ -14,7 +14,7 @@ This policy only applies to our site. If you leave our site via a link or otherw
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site www.uniladmag.com ( **our site** ). This includes information provided at the time of registering to use our site, subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
+  * Information that you provide by filling in forms on our site unilad.co.uk ( **our site** ). This includes information provided at the time of registering to use our site, subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs, operating system, browser usage and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
@@ -71,7 +71,7 @@ We may disclose your personal information to third parties:
 
 **Your rights.**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at uniladmag@gmail.com
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at enquiries@unilad.co.uk
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -85,4 +85,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **Contact.**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to uniladmag@gmail.com
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to enquiries@unilad.co.uk
