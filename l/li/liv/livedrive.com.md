@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livedrive.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702175110id_/http%3A//www.livedrive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedrive.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317114318id_/http%3A//www.livedrive.com/privacy-policy) for the most accurate reproduction.*
 
 # Livedrive Privacy Policy | Livedrive
 
@@ -31,7 +31,7 @@ We may collect and store the following information when running the Livedrive Se
 
 **_Third-Party Applications:_** We may share your information with a third party application with your consent, for example when you choose to access our Services through such an application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you.
 
-**_Compliance with Laws and Law Enforcement Requests; Protection of Livedrive's Rights:_** We may disclose to parties outside Livedrive files stored in your Livedrive and information about you that we collect when we have a good faith belief that disclosure is reasonably necessary to (a) comply with a law, regulation or compulsory legal request; (b) protect the safety of any person from death or serious bodily injury; (c) prevent fraud or abuse of Livedrive or its users; or (d) to protect Livedrive’s property rights. If we provide your Livedrive files to a law enforcement agency as set forth above, we will remove Livedrive’s encryption from the files before providing them to law enforcement. However, Livedrive will not be able to decrypt any files that you encrypted prior to storing them on Livedrive.
+**_Compliance with Laws and Law Enforcement Requests; Protection of Livedrive's Rights:_** We may disclose to parties outside Livedrive files stored in your Livedrive and information about you that we collect when we have a good faith belief that disclosure is reasonably necessary to (a) comply with a law, regulation or compulsory legal request; (b) protect the safety of any person from death or serious bodily injury; (c) investigate fraud or other criminal activity; or (d) to protect Livedrive's property rights. If we provide your Livedrive files to a law enforcement agency as set forth above, we will remove Livedrive’s encryption from the files before providing them to law enforcement. However, Livedrive will not be able to decrypt any files that you encrypted prior to storing them on Livedrive.
 
 **_Non-private or Non-Personal Information:_** We may disclose your non-private, aggregated, or otherwise non-personal information, such as usage statistics of our Service.
 
