@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teepublic.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531113041id_/https%3A//www.teepublic.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teepublic.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317080502id_/https%3A//www.teepublic.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | TeePublic
 
-Brain Buster Enterprises, LLC, the owner and operator of TeePublic.com respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of any of our websites or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
+TeePublic (“we”, “us”, or “our”), the owner and operator of TeePublic.com respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of any of our websites or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
 We encourage you to read this Privacy Policy carefully when using any of our websites or services or transacting business with us. By using any of our websites, you are accepting the practices described in this Privacy Policy.
 
@@ -27,11 +27,11 @@ We use various technologies to collect information from your computer and about 
 
   1. Information collected automatically. We automatically collect information from your browser when you visit any of our websites. This information includes your IP address, browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
 
-  2. Cookies. When you visit any of our websites, we may assign your computer one or more cookies to facilitate access to our sites and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our sites, such as the web pages you visit, the links you click, and the searches you conduct on our sites. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to declinecookies, please note that you may not be able to sign in or use some of the interactive features offered on our websites.
+  2. Cookies. When you visit any of our websites, we may assign your computer one or more cookies to facilitate access to our sites and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our sites, such as the web pages you visit, the links you click, and the searches you conduct on our sites. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our websites.
 
-  3. Other Technologies. We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our sites. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether you have opened the messages and the subsequent action taken by you. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our websites, advertising, content, programming or other activities.
+  3. Other Technologies. We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our sites. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether you have opened the messages and the subsequent action taken by you. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our websites, advertising, content, programming or other activities.
 
-  4. Information collected by third-parties. We may allow third-parties, including our authorized service providers, advertising agencies, and ad networks, to display advertisements, or provide applications and services on our sites. These companies may use tracking technologies, such as cookies or web beacons, to collect information about users who view or interact with their advertisements or use their applications and services. Our websites do not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and personalized online experiences and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org).
+  4. Information collected by third-parties. We may allow third-parties, including our authorized service providers, advertising agencies, and ad networks, to display advertisements, or provide applications and services on our sites. These companies may use tracking technologies, such as cookies or web beacons, to collect information about users who view or interact with their advertisements or use their applications and services. Our websites do not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and personalized online experiences and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org).
 
 
 
@@ -63,7 +63,7 @@ In general. We may use information that we collect about you to:
 
 ## Financial information.
 
- We may use financial information or payment method to process payment for any purchases or sales made on any of our websites, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
+  We may use financial information or payment method to process payment for any purchases or sales made on any of our websites, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
 
 ## Job applicants.
 
@@ -77,7 +77,7 @@ We want you to understand when and with whom we may share personal or other info
 
 ## Personal information.
 
- We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
+We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
 
   1. Authorized service providers: We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our websites' functionality, and supporting contests, sweepstakes, surveys and other features offered through our websites. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
@@ -106,7 +106,7 @@ There are a number of places on our websites where you may click on a link to ac
 
 ## How you can access your information
 
-If you have an online account with us, you have the ability to review and update your personal information online by logging into your account at TeePublic.com You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
+If you have an online account with us, you have the ability to review and update your personal information online by logging into your account at TeePublic.com You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
 
 After you close your account, you will not be able to sign in to that website or access any of your personal information. However, you can open a new account at any time. If you close your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our websites or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.
 
@@ -125,11 +125,11 @@ After you close your account, you will not be able to sign in to that website or
 
 We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
 
-We want you to feel confident using our websites to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website athttp://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.
+We want you to feel confident using our websites to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website athttp://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.
 
 ## Submitting Content to our Websites
 
-We may provide areas on our websites where you can post information about yourself and others and communicate with others, as well as upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our Terms and Conditions of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.
+We may provide areas on our websites where you can post information about yourself and others and communicate with others, as well as upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our Terms and Conditions of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.
 
 ## Children's privacy
 
@@ -151,12 +151,18 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 
 If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows:
 
-General Manager  
-BustedTees  
-54 West 22nd Street  
-4th Floor  
-New York, New York 10011  
-United States of America  
+General Manager
+
+TeePublic
+
+54 West 22nd Street
+
+4th Floor
+
+New York, New York 10010
+
+United States of America
+
 support@teepublic.com
 
 ## Linked Information
