@@ -1,100 +1,159 @@
-> *The following text is extracted and transformed from the grazr.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grazr.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317115619id_/https%3A//swiftmoney.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Your Privacy is very important to us. In order to ensure that your personal information is protected while visiting SwiftMoney, we adhere to all practices outlined within the Data Protection Act of 1998. On this page, you will find detailed information on the data and information we may have about you, as well as the steps we take to handle your privacy. The information within this page applies to current and past web users of SwiftMoney. Swift Money reserves the right to change or update our Privacy Policy at any time with or without notice. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+### Your Consent
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
+By visiting SwiftMoney or using our services, you are agreeing to adhere to the terms stated within this Privacy Policy. Through consenting to our Terms and Conditions you are agreeing to allow the use of your personal information in accordance to the information outlined below. If you do not agree to our Privacy Policy or the Terms and Conditions of SwiftMoney, please do not apply for any products or services offered within the website. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+### The Information We Collect
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+You are not required to give any personal information in order to browse SwiftMoney. We only collect your personal information to match you with the appropriate services and to provide users with the best online experience possible. The information collected by our website includes but is not limited to:
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+• Data you provide in our web forms (i.e. loan application, contact form, banking information, email addresses, etc).  
+• Information related to your transactions such as payment history, balances, and reoccurring payments.   
+• Any information SwiftMoney receives from third parties such as sponsors, affiliates, or any subsidiaries of our sponsors.   
+• Any email addresses for contacts to SwiftMoney.com via emails .  
+• Automatic data automatically collected through cookies (please see cookies section).  
+• Name, phone number, address, banking information, and date of birth .
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+### Use Of Information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+  
 
-**Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+• The information collected by SwiftMoney is used to process your loan application, and to personalise your experience while browsing the site. We may also use your information to update your records with us, collect payments, and to contact you for any issues that may arise with your account. We may also use the data collected in order to provide analytical and statistical data for our advertisers or 3rd parties. The information provided by you may also be used for our records to avoid double applications and to verify any new information provided by you. SwiftMoney.com reserves the right to use information provided to us to comply with any possible legal obligations. By providing your information on our website, you are providing consent for us to share your information with 3rd parties and agents of SwiftMoney as described below:
 
-**Updating Your Information**
+• Credit Agencies: We may share the information provided by you to credit agencies in order to process your credit history, verify your identity or any other personal information that will help us verify your application. SwiftMoney.com does not accept responsibility for any information given to separate parties outside of the parties we have directly provided the information for. SwiftMoney is not an agent of any credit agency and thus we do not provide detailed credit history reports for users.   
+• Service Providers: On occasion, we may provide contracted providers with necessary information to provide services for SwiftMoney. The scope of information provided to such companies is limited to the data necessary to complete the contracted work. These contracted service providers are not permitted to hold or share any information provided by SwiftMoney.com to other parties.  
+• Other Lenders: SwiftMoney may provide your information to other lenders, either direct or brokers. By providing our website with your information, you are consenting to have other lenders contact you with their offers including but not limited to financial products, loan services, or other services/products provided by the 3rd parties.  
+• With Your Consent: In the event that SwiftMoney is required to send you notice of sharing your information, you will receive notification in the form of email, direct mail, or via phone. This will allow you an opportunity to refuse to have your information shared or to consent to services not outlined above.  
+• Information Shared Outside of the UK: SwiftMoney may provide your information to companies outside of the UK such as advertisers based in the US, or any agents that are based outside of the UK. We use the appropriate measures to ensure that your information is safe and protected outside of the UK such as performing adequate research on any non UK companies, and contacting companies directly when needed. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+### Information Shared With 3rd Parties
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
+We take the required steps to ensure that your privacy is protected even when shared when 3rd parties. However, if you wish to opt out of communication with a 3rd party referred by SwiftMoney, it must be done directly through that party. 3rd parties may include but are not limited to other lenders, service providers, and advertisers. We restrict information available to these 3rd parties when obligated and when appropriate.
 
-       iv.      You may fax us at: (480) 505-8844
+### Disclosure Of Your Information
 
-**Sending Emails**
+  
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+By using SwiftMoney to submit your information to apply to potential lenders for a loan means that these lenders may need to conduct a credit check on you which you agree to by submitting your information on this website. Credit checks could affect your credit rating and so by agreeing to this privacy policy you have agreed to this. Also, any personal Data you submit will be retained by Swift Money Ltd for as long as you use the Services and Systems provided on the Web Site. Data that you may submit through any communications System that we may provide may be retained indefinitely.  
+Unless we are obliged or permitted by law to do so, and your Data will not be disclosed to third parties. This DOES NOT INCLUDE our partners/ providers, our affiliates and / or other companies within our group.  
+Our partners/providers may use your personal data for direct marketing purposes and those Provider may pass on your personal data to third parties for use for direct marketing purposes and verification procedures with external agencies, including but without limitation, credit reference agencies and customer service providers.  
+Partners/ providers may transfer your personal data outside the European Union and into the United States. All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security, see below.
 
-**Compliance with Laws and Law Enforcement**
+Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+• internal record keeping;  
+• improvement of our products / services;  
+• transmission by email of promotional materials that may be of interest to you;  
+• contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customise or update the Web Site.
 
-**Third Party Service Providers**
+### Fraudulent Information
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
+As a part of protecting your privacy, SwiftMoney will take the appropriate action if a user is found providing false or fraudulent information including:
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+• Misrepresenting financial information .  
+• Identity theft .  
+• Providing a fake address, name, phone number, email, or other contact information .  
+• Providing stolen or false bank account information.  
+• Providing any information that you know or suspect to be untrue In the even that you provide any false or fraudulent information in any of our forms or applications, we may record it and pass the information to FPA’s, Law enforcement agencies and any other organization that handles online fraud. Government agencies may have access to the information gathered to examine in cases in which an applicant is a suspect in a crime. If it is found that you are using SwiftMoney for any illegal action such as money laundering, identify theft, or cyber crimes, we reserve the right to pass along your information to law enforcement and pursue legal action for any losses incurred, financial or otherwise.   
+SwiftMoney does not provide your information to any fraudulent or unauthorised organisations or persons. Any parties that we provide information to have been checked and determined to be trustworthy and a legitimate company by SwiftMoney .
 
-**Contests/Surveys**
+### How Long Is Your Information Kept
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+  
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
+Due to the nature of our website and industry, we may store your information indefinitely. We will keep your information as long as needed in order to provide our services. In the event that you have requested not to be contacted for marketing purposes, SwiftMoney may still keep your information for our records. When required to by law, we will dispose of any information in the appropriate manner to ensure that all records are unable to be retrieved. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+### Communications Between You And SwiftMoney
 
-**What Happens to my Personal Information if I Opt Out?**
+  
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-**Transfer of Data Abroad**
+You may be contacted by SwiftMoney or 3rd parties via email, phone, mail, fax, or mobile messaging. Communications may include but are not limited to: 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+• Updates to our website.  
+• Specials or offers from us or our advertisers.  
+• Changes to privacy policy or terms of service .  
+• Payment collections .  
+• Response to an inquiry SwiftMoney reserves to right to contact you indefinitely unless otherwise requested. SwiftMoney.com also reserves the right to end communications at any time. Any phone conversations between you and SwiftMoney will be recorded for quality assurance and for privacy reasons. By calling any phone numbers listed on our website or printed materials, you are consenting to having the conversation recorded. 
 
-**Changes in Our Practices**
+### Links To Other Sites
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+  
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-**Contacting Our Site**
+From time to time, we may provide links to 3rd party sites through our sites. SwiftMoney does not accept responsibility for the privacy practices of sites linked to our site. Accessing these sites is at the sole discretion of web users and we shall have no responsibility for communications or actions between you and a 3rd party linked from out website. Accessing Your Information
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Barring certain circumstances, you have the ability to obtain the information that we have obtained on you by requesting it writing. You may be required to pay a fee for us to pull your information and send it to you. Please send requests for personal information to 1 Lowry Plaza, The Quays, Salford, Manchester, M50 3UB. If you find or suspect that any information we hold about you is incorrect or fraudulent, please contact us as soon as possible with the information that is incorrect, and we will change it if the information is deemed to be incorrect. This includes address, name, banking information, or contact information for marketing materials. 
 
-* * *
+### Protecting Your Sensitive Information
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+  
+
+
+We strive to make sure that all of your information is private. We make special circumstances for information deemed sensitive. Sensitive information is defined under the Data Protection Act 1998 and includes:
+
+• Medical information such as medical conditions, surgeries, or your medical history .  
+• Racial or ethnic origin • Your political affiliations or opinions.  
+• Membership to any trade associations or unions.  
+• Religious beliefs or philosophical ideas .  
+• Your Criminal history.  
+• Sexual orientation In the event that we need to access or process any of your sensitive information, we will ask for your consent prior to the act via email, writing, phone, or other means of communication. 
+
+### Cookies
+
+  
+
+
+Cookies are bits of information collected on your computer through your internet browser. The information includes your name, address, and habits. We utilise cookies to personalise your web experience and make browsing our site easier and more convenient. We may also provide 3rd parties with information collected from cookies. We do not store your password information. The information provided does not identify any individual users and is used for marketing purposes. By default, most web browsers automatically store cookies, but this can be disabled. If you choose to disable cookies while on our site, your user experience may not be as fast or personalised as it could be. In order to find and disable cookies, see the instructions below: 
+
+• Internet Explorer.   
+• Select Tools in the top menu bar.  
+• Internet Options.   
+• Open the Privacy Tab.   
+• Click “Advanced”.   
+• Check the box that says “Override automatic cookies” then you can customise the settings as you see fit.   
+• Firefox.  
+• Select Tools.  
+• Options .  
+• Click Privacy.  
+• Select Cookies .  
+• Customise your preferences from this menu.  
+• Safari .  
+• Go into Safari.  
+• Click preferences.  
+• Security.  
+• Customise your options.
+
+### Cookies Used By Swift Money
+
+  
+
+
+Security Cookies – Session cookies used to support security measures within the site.  
+Yield Manager – This is a tracking pixel that records traffic coming from 3rd party sources.  
+Provide Support – A tracking pixel used to track web session for customer service web chat.  
+Swift Money – Contains a session cookie recognizing applicant to process loan application through completion.  
+Google Analytics – Web analytics tracking.  
+Google Adwords – Conversion tracking
+
+The information expressed in this privacy policy is subject to change at anytime without notice or notification.
