@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the webpagefx.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702155110id_/http%3A//www.webpagefx.com/privacytermsofuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpagefx.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317095656id_/http%3A//www.webpagefx.com/privacytermsofuse.htm) for the most accurate reproduction.*
 
 # Website Privacy Policy & Terms of Use
+
+[ See Our  
+Results  ](https://web.archive.org/real-results.html) [ Download One Of Our  
+FREE  
+Marketing Guides ](https://web.archive.org/marketing-guides/) [ What is Your  
+WEBSITE'S SEARCH  
+Ranking? ](https://web.archive.org/seo-tools/crawlerfx/) [ Create Your  
+CUSTOM MARKETING  
+Strategy ](https://web.archive.org/marketing-calculator.html)
 
 ### Privacy Policy
 
@@ -8,9 +17,7 @@
 
 WebpageFX.com automatically collects and stores: the name of the domain and host from which you access the Internet; the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our sites; and the Internet address of the site from which you linked directly to our sites.
 
-WebpageFX uses this information only as anonymous aggregate data to determine the number of visitors to different sections of our sites, to ensure the sites are working properly, and to help us make our sites more useful. We do not use it to track or record information about individuals. Generally, we delete this information after five years.
-
-WebpageFX does not use persistent "cookies" or tracking mechanisms that collect personally identifying information on our sites. 
+WebpageFX uses this information only as anonymous aggregate data to determine the number of visitors to different sections of our sites, to ensure the sites are working properly, and to help us make our sites more useful. 
 
 ###  Website Terms of Use
 
@@ -33,11 +40,11 @@ WebpageFX does not rent, sell, or share personal information about you with othe
 
 #### Terms of Service, Notices, and Revisions 
 
-If you choose to visit WebpageFX, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Pennsylvania. If you have any concern about privacy at WebpageFX, please send us a thorough description to info@WebpageFX, and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. You should check our website frequently to see recent changes. 
+If you choose to visit WebpageFX, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Pennsylvania. If you have any concern about privacy at WebpageFX, please send us a thorough description to info@webpagefx . com, and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. You should check our website frequently to see recent changes. 
 
 #### Newsletters 
 
-We only send newsletters to you and will not sell your email address to 3rd parties. You may choose to opt-out of the newsletter at any time by following the unsubscribe instructions in each newsletter or by contacting us directly. By default all contact from our website is entered into our CRM and newsletter distribution list. If you would prefer not to be added to our email distribution list, please specify this in the body of email or contact from submission to us.
+We send newsletters to you and will not sell your email address to 3rd parties. You may choose to opt-out of the newsletter at any time by following the unsubscribe instructions in each newsletter or by contacting us directly. By default all contact from our website is entered into our CRM and newsletter distribution list. If you would prefer not to be added to our email distribution list, please specify this in the body of email or contact from submission to us.
 
 #### Copyright 
 
@@ -53,4 +60,4 @@ Visitors to this website are granted permission to access this material, to down
 
 Visitors to this website may not copy, distribute, screen shot, reproduce, sell or publish any of the copyright material downloaded or copies from this website. For the avoidance of doubt, no permission is given for the transfer of any of this material to an open internet site. For permission, please contact info@webpagefx.com. WebpageFX monitors the web closely for violations of our use policy. 
 
-Call 888.449.3239 or [contact us](https://web.archive.org/web/20140702155110id_/http%3A//www.webpagefx.com/contact.htm) online today to find out more about our services. 
+Call 888.449.3239 or [contact us](https://web.archive.org/web/20150317095656id_/http%3A//www.webpagefx.com/contact.htm) online today to find out more about our services. 
