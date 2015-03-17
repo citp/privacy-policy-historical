@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815045143id_/http%3A//www.reachmail.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317222916id_/http%3A//www.reachmail.net/privacy_policy) for the most accurate reproduction.*
 
 # Free Email Marketing Software, Services & Tools | ReachMail
 
@@ -17,13 +17,13 @@ In compliance with the US-EU Safe Harbor Principles, ReachMail commits to resolv
 ReachMail Inc.  
 Attn: John Murphy  
 Privacy Manager  
-208 S LaSalle St  
-Suite 1427  
-Chicago, IL 60604
+180 W Adams St  
+Suite 800  
+Chicago, IL 60603
 
 P. 312-229-0110
 
-ReachMail has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by ReachMail, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+ReachMail has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by ReachMail, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 ## Client Data Policy
 
@@ -44,7 +44,7 @@ Your recipient lists are stored on a secure ReachMail server. We do not, under a
 
 ## Abandoned accounts
 
-As a further measure against unauthorized access to account data and to more completely insure ReachMail's system integrity, any account which remains inactive for one year will be purged from the system. Periods of inactivity are measured from the last login date. Purges will include **all** account data including mailings, lists, users, and reports. Accounts that have been purged cannot be restored. 
+As a further measure against unauthorized access to account data and to more completely insure ReachMail's system integrity, any account which remains inactive for 7 months will be purged from the system. Periods of inactivity are measured from the last login date. Purges will include **all** account data including mailings, lists, users, and reports. Accounts that have been purged cannot be restored. 
 
 ## Email Recipient Policy
 
