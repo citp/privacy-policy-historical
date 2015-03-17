@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsletterdirectory.co privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108015536id_/http%3A//www.newsletterdirectory.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsletterdirectory.co privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317063838id_/http%3A//www.newsletterdirectory.co/privacy) for the most accurate reproduction.*
 
 # NewsletterDirectory.co | Privacy Policy
 
