@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iqelite.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715152358id_/https%3A//www.iqelite.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqelite.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317211216id_/https%3A//www.iqelite.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy | IQ Elite
 
@@ -10,7 +10,7 @@ Here are some of the questions that you might like to have answered.
 
 ### How is my data used? 
 
-Great question! All the data you provide us is stored safely and used solely for the website's purpose. We would never share, sell, trade, rent or make your private data accessible to 3rd parties. 
+Great question! The information gathered about you when you register with IQ Elite and subscribe to our Services is used to offer you our different Services. All precautions have been taken on our databases to archive your information in a secure environment. Only a small number of our employees have access to your information, which is only accessible in case of necessity. 
 
 Here's how we use collected information: 
 
@@ -18,6 +18,7 @@ Here's how we use collected information:
   * To personalize your experience: We may use information to understand how you, as a group, use our functions and features on our Site. 
   * To improve our Site: We may use feedback you provide to improve our products and services. 
   * To send periodic emails: We may use the email address to send updates. We may also contact you this way to respond to your inquiries, questions, and/or other requests. 
+  * We may occasionally send you promotional offers from some of our partners. If you do not wish to receive any special offers from IQ Elite or our partner companies, you may unsubscribe from this kind of emails (category "Other") on http://www.iqelite.com/account/notifications/ 
 
 
 
