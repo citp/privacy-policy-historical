@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theprintful.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702051511id_/https%3A//www.theprintful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprintful.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317083325id_/https%3A//www.theprintful.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Printful
+# Privacy Policy
 
 It is our policy to respect your privacy regarding any information we may collect while operating our website.
 
