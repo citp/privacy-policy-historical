@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spinlife.com privacy policy that was archived on 2014-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141117174139id_/http%3A//www.spinlife.com/en/Privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spinlife.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317102448id_/http%3A//www.spinlife.com/en/Privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 				<title>SpinLife Privacy Policy 
@@ -25,10 +25,12 @@
 				<link rel="stylesheet" type="text/css" media="all" href="/globals/scripts/fancybox/jquery.fancybox.css">
 				<link rel="stylesheet" type="text/css" href="/catalog-popup-2/default2.css">
 				
-				 
-					<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/7599.js?439475" async="" type="text/javascript"></script><script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="a01c76030412be36b9d58b1f93b322a1"></script>
-					
 				
+						<link rel="stylesheet" type="text/css" href="/globals/css/contact-bar.css">
+						 
+					<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/7599.js?439475" async="" type="text/javascript"></script><script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="a01c76030412be36b9d58b1f93b322a1"></script>
+				
+
 				
 				<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 				
@@ -36,20 +38,22 @@
 
 				
 		<script src="//cdn.optimizely.com/js/92537073.js"></script>
-	 
+	
 
-		
-	<script src="/includes/inc_optimizely.js"></script>				
+	
 	
 	<script type="text/javascript">
 		$(document).ready(function(){
-		
+			
+			var cart = 50469983;
+			
 			function _logOptExperiment2(lstLoggedExperiments,OptBuckets,OptSegments,OptEndUserId){
 				try {
+					// initialize Optimizely object
+				    window['optimizely'] = window['optimizely'] || [];
 					var arrOptExperiments  =  window['optimizely'].data.state.activeExperiments;
 					var expNotLoged  = 0;
-				}
-				catch(err) {
+				}catch(err){
 					return;
 				}
 				if (arrOptExperiments.length == 0){
@@ -74,11 +78,25 @@
 					success:function(data){
 					}
 				});
-			}			
-			
-			
+			}
+			var pollCount = 0;
+			function _checkOpt(){
+				pollCount++;
+				if (window.optimizely == undefined || window.optimizely.data == undefined || window.optimizely.data.state == undefined || window.optimizely.data.state.activeExperiments == undefined){
+					if (pollCount == 4){
+						return;
+					}else{
+						setTimeout(_checkOpt, 250);
+						return;
+					}
+				}
+				
 				_logOptExperiment2('');
-			
+				
+			}
+			if (cart > 0){
+				setTimeout(_checkOpt, 250);
+			}
 		});
 	</script>
 	
@@ -97,12 +115,15 @@
 				<script type="text/javascript" src="/globals/scripts/cookies.js"></script>
 				<script type="text/javascript" src="/globals/scripts/swfObject/swfobject.js"></script>
 				<script type="text/javascript" src="/globals/scripts/jquery/jquery.hoverIntent.minified.js"></script>
-				<script type="text/javascript" src="/globals/scripts/jquery/jquery.cycle.lite.min.js"></script>
+				<script type="text/javascript" src="/globals/scripts/jquery/headerRotator.js"></script>
+				<script type="text/javascript" src="/globals/scripts/jquery/jquery.cycle.lite.min.js"></script>				
 				<script type="text/javascript" src="/globals/scripts/jquery/qtip/jquery.qtip.js"></script>
 				<script type="text/javascript" src="/globals/thickbox/thickbox.js"></script>
 				<script type="text/javascript" src="/globals/scripts/fancybox/jquery.fancybox.pack.js"></script>
                 <script type="text/javascript" src="/globals/scripts/jquery/jquery.cookie.js"></script>
 				<script type="text/javascript" src="/globals/scripts/jquery/jquery.tabSlideOut.v1.3.js"></script>
+								
+				<script type="text/javascript" src="/globals/scripts/spinAnalytics.js"></script>
 
 				
 				
@@ -163,12 +184,9 @@
 			<body>
 				
 				
-				
-				
-				
 				<div id="top"></div>
 				
-					<div class="catalogCode">0</div>
+					<div class="catalogCode">50469983</div>
 				
 				
 				
@@ -192,21 +210,35 @@
 							
 							<div class="header-info">
 								
-										<div class="phone">1-800-850-0335</div>
-										<div class="hours">M-F 9am-9pm EST • Wkd 10am-4pm EST</div>
-									
-								<div class="rotating-marketing">
+								<div class="rotating-marketing rotator">
 									<ul class="marketing-list">
-										<li><a href="/popup/freeShippingOver50.html?KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="FREE Ground Shipping for Orders Over $50" class="thickbox" onclick=" _gaq.push(['_trackEvent', 'Rotating Marketing', 'Open FREE Shipping Popup']);">FREE Shipping On Orders Over $50</a></li>
+										<li style="display: list-item;">
+											<a href="/popup/freeShippingOver50.html?KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="FREE Ground Shipping for Orders Over $50" class="thickbox" onclick=" _gaq.push(['_trackEvent', 'Rotating Marketing', 'Open FREE Shipping Popup']);">FREE Shipping On Orders Over $50</a>
+										</li>
 										
-										<li><a href="/popup/lowPriceGuarantee.html?KeepThis=true&amp;TB_iframe=true&amp;height=200&amp;width=600" title="Click to View Our Low Price Guarantee" class="thickbox" onclick=" _gaq.push(['_trackEvent', 'Rotating Marketing', 'Open Low Price Guarantee Popup']);">110% Lowest Price Guarantee</a></li>
-										<li><a target="_blank" rel="nofollow" onclick="window.open('https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=PY528WT6&amp;content=/bmlweb/np90drollingiw.html','BMLDetails','scrollbars=1,resizable=1,width=520,height=500'); _gaq.push(['_trackEvent', 'Rotating Marketing', 'Open BML Popup']); return false;">Make Payments with BillMeLater</a></li>
-										<li><a href="/catalog/" title="Sign Up to Receive A Free Catalog">Request a FREE Product Catalog</a></li>
-										<li><a href="/emailExclusives.cfm?KeepThis=true&amp;TB_iframe=true&amp;height=580&amp;width=550" class="thickbox" title="Sign Up To Receive Email Discounts">Sign Up For Our Email Coupons</a></li>
-										<li><a href="/en/CurrentPromotions.cfm" title="View Our Current Offers and Promotions">View Our Offers &amp; Discounts</a></li>
-										<li><a href="http://www.facebook.com/SpinLife" title="Join SpinLife on Facebook">Join SpinLife on Facebook</a></li>
-										<li><a href="http://www.twitter.com/SpinLife" title="Follow SpinLife on Twitter">Follow SpinLife on Twitter</a></li>
-										<li><a href="http://www.qualitycheck.org/consumer/searchresults.aspx?nm=spinlife&amp;ddstatelist=&amp;st_nm=-1&amp;st=" title="Learn About Our Accreditation" onclick=" _gaq.push(['_trackEvent', 'Rotating Marketing', 'Open Joint Commission Popup']);">Joint Commission Accreditation</a></li>
+										<li style="display: list-item;">
+											<a href="/popup/lowPriceGuarantee.html?KeepThis=true&amp;TB_iframe=true&amp;height=200&amp;width=600" title="Click to View Our Low Price Guarantee" class="thickbox" onclick=" _gaq.push(['_trackEvent', 'Rotating Marketing', 'Open Low Price Guarantee Popup']);">110% Lowest Price Guarantee</a>
+										</li>
+										<li style="display: list-item;">
+											<a target="_blank" rel="nofollow" onclick="window.open('https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=PY528WT6&amp;content=/bmlweb/np90drollingiw.html','BMLDetails','scrollbars=1,resizable=1,width=520,height=500'); _gaq.push(['_trackEvent', 'Rotating Marketing', 'Open BML Popup']); return false;">Make Payments with PayPal Credit</a>
+										</li>
+										<li style="display: list-item;">
+											<a href="/catalog/" title="Sign Up to Receive A Free Catalog">Request a FREE Product Catalog</a>
+										</li>
+										<li style="display: list-item;">
+											<a href="/emailExclusives.cfm?KeepThis=true&amp;TB_iframe=true&amp;height=580&amp;width=550" class="thickbox" title="Sign Up To Receive Email Discounts">Sign Up For Our Email Coupons</a></li>
+										<li style="display: list-item;">
+											<a href="/en/CurrentPromotions.cfm" title="View Our Current Offers and Promotions">View Our Offers &amp; Discounts</a>
+										</li>
+										<li style="display: list-item;">
+											<a href="http://www.facebook.com/SpinLife" title="Join SpinLife on Facebook">Join SpinLife on Facebook</a>
+										</li>
+										<li style="display: list-item;">
+											<a href="http://www.twitter.com/SpinLife" title="Follow SpinLife on Twitter">Follow SpinLife on Twitter</a>
+										</li>
+										<li style="display: list-item;">
+											<a href="http://www.qualitycheck.org/consumer/searchresults.aspx?nm=spinlife&amp;ddstatelist=&amp;st_nm=-1&amp;st=" title="Learn About Our Accreditation" onclick=" _gaq.push(['_trackEvent', 'Rotating Marketing', 'Open Joint Commission Popup']);">Joint Commission Accreditation</a>
+										</li>
 									</ul>
 								</div>
 							</div>
@@ -453,15 +485,15 @@
 							<div class="email-discounts"><a href="/emailExclusives.cfm?KeepThis=true&amp;TB_iframe=true&amp;height=580&amp;width=600" class="thickbox"><img src="/images/header/email-discounts-header.png" alt="Email discounts"></a></div>
 							
 							<div class="bml-banner22">
-								<a title="Learn About BillMeLater" style="cursor:pointer;" target="_blank" rel="nofollow" onclick="window.open('https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=PY528WT6&amp;content=/bmlweb/installmentsiw.html','BMLDetails','scrollbars=1,resizable=1,width=750,height=500'); _gaq.push(['_trackEvent', 'Bill Me Later Banner', 'Click Homepage BML Banner']); return false;">
+								<a title="Learn About PayPal Credit" style="cursor:pointer;" target="_blank" rel="nofollow" onclick="window.open('https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=PY528WT6&amp;content=/bmlweb/installmentsiw.html','BMLDetails','scrollbars=1,resizable=1,width=750,height=500'); _gaq.push(['_trackEvent', 'Bill Me Later Banner', 'Click Homepage BML Banner']); return false;">
 									<img src="/images/header/bml-header-12mni.jpg">
 								</a>
 							</div>
 						</div>
+
 						
-						
-						<div id="content">					
-						
+						<div id="content">
+
 	
 
 <table cellpadding="0" cellspacing="0" border="0" align="center" width="900">
@@ -833,11 +865,13 @@
 								<li style="width:51px;">
 									<img alt="SpinLife.Com, LLC is a BBB Accredited Business. BBB Business Review of this Disability Access Equipment in Columbus OH" style="border: 0;" src="/images/footer/bbb-logo.jpg" height="75">
 								</li>
-								<li style="width:50px;">
-									<a href="javascript:popUp('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.SPINLIFE.COM&amp;lang=en')" rel="nofollow"><img src="/images/logo/verisignfooter.gif" alt="" width="65" height="74" border="0" hspace="0" style="margin-bottom:10px;"></a>
+								<li style="width:130px;">
+								
+									
+									<script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=www.spinlife.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
 								</li>
                                 <li style="width:55px !important; margin-left:15px; *margin-left:-10px; ">
-									<a href="http://www.qualitycheck.org/consumer/searchresults.aspx?nm=spinlife&amp;ddstatelist=&amp;st_nm=-1&amp;st=" title="Joint Commission Accreditation"><img src="/images/logo/jcaho.jpg" alt="Joint Commission Accreditation" width="50" style="margin-left: 28px;"></a>
+									<a href="http://www.qualitycheck.org/consumer/searchresults.aspx?nm=spinlife&amp;ddstatelist=&amp;st_nm=-1&amp;st=" title="Joint Commission Accreditation"><img src="/images/logo/jcaho.jpg" alt="Joint Commission Accreditation" width="50"></a>
 								</li>
 							</ul>
 							<div class="clear"></div>
@@ -848,20 +882,25 @@
 							</ul>
 							<div class="right-col">
 								<div class="payment-methods"><a href="/en/payment.cfm" title="See Our Accepted Methods of Payment"><img src="/images/payment-methods.jpg" alt="Accepted Methods of Payment"></a></div>
-								<div class="catalog-code">When ordering, please refer to code <span class="code">0</span></div>
+								<div class="catalog-code">When ordering, please refer to code <span class="code">50469983</span></div>
 							</div>
 							<div class="clear"></div>
-							<div class="copyright">© SpinLife.com LLC 1999-2014 &nbsp;&nbsp;&nbsp; <a href="/en/Privacy.cfm">Privacy Policy</a></div>
+							<div class="copyright">© SpinLife.com LLC 1999-2015 &nbsp;&nbsp;&nbsp; <a href="/en/Privacy.cfm">Privacy Policy</a></div>
 						</div>
 					</div>
 				</div>
 				
+
+
+
+
 <!-- BEGIN LivePerson Monitor. -->
 <script type="text/javascript">
 	window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'7293915',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)},0)},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)},1)}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn)}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn)}else{this._defL=this._defL||[];this._defL.push(fn)}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id)},0)},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(window._lptStop)=='undefined'){this.load()}},start:function(){this.autoStart=true},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n})}this._timing[n]=(new Date()).getTime()},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init()}else{window.lpTag._tagCount+=1}
 </script>
+<!-- END LivePerson Monitor. -->
 
-<!-- BEGIN Custom Tracking Variables -->
+
 
 		<script language="JavaScript1.2">
 			/*MCK 2-26-14 Following 3 lines are presented as samples from LP account rep*/
@@ -871,6 +910,13 @@
 			//lpMTagConfig = lpMTagConfig || {};
 			if (typeof(lpMTagConfig) == "undefined"){ lpMTagConfig = {};}
 			if (typeof(lpMTagConfig.visitorVar)=='undefined') {lpMTagConfig.visitorVar = [];}
+			
+				/*lpMTagConfig.visitorVar.push(escape('RepeatCustomer') + '=' + escape('NO'));
+				lpMTagConfig.visitorVar.push(escape('CartQty') + '=' + escape('0'));
+				lpMTagConfig.visitorVar.push(escape('CartValue') + '=' + escape('$0.00'));*/
+				lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] = 'RepeatCustomer=NO';
+				lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] = 'CartQty=0';
+				lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] = 'CartValue=$0.00';
 			
 		</script>
 	
