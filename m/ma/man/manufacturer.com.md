@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manufacturer.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728233034id_/http%3A//www.manufacturer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manufacturer.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317110434id_/http%3A//www.manufacturer.com/privacy) for the most accurate reproduction.*
 
 # JP Communications Privacy Policy
 
