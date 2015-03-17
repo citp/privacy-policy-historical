@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bagful.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233234id_/http%3A//www.bagful.net/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagful.net privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317224113id_/http%3A//bagful.net/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement - Details of how customer's information is protected | Bagful
+# Privacy Statement - Details of how customer's information is protected
 
-[Bagful](http://www.bagful.net/ "Go to Bagful.") > Privacy Statement
+## [Privacy Statement](http://www.bagful.net/privacy-statement.html)
 
 Bagful knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. For question on the Privacy Notice please contact the [Bagful Help Desk](http://www.bagful.net/supporttickets.php).  
 .
@@ -94,18 +94,3 @@ We release account and other personal information when we believe release is app
   * If you choose to visit Bagful, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
 
 
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Statement%20-%20http%3A%2F%2Fwww.bagful.net%2Fprivacy-statement.html%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.bagful.net%2Fprivacy-statement.html&t=Privacy%20Statement "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Statement&body=http%3A%2F%2Fwww.bagful.net%2Fprivacy-statement.html&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.bagful.net%2Fprivacy-statement.html&title=Privacy%20Statement "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.bagful.net%2Fprivacy-statement.html&title=Privacy%20Statement&notes=Bagful%20knows%20that%20you%20care%20how%20information%20about%20you%20is%20used%20and%20shared%2C%20and%20we%20appreciate%20your%20trust%20that%20we%20will%20do%20so%20carefully%20and%20sensibly.%20This%20notice%20describes%20our%20privacy%20policy.%20For%20question%20on%20the%20Privacy%20Notice%20please%20contact%20the%20Bagful%20He "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.bagful.net%2Fprivacy-statement.html&title=Privacy%20Statement&srcURL=http%3A%2F%2Fwww.bagful.net%2Fprivacy-statement.html&srcTitle=Bagful+Web+Hosting+India+Domain+Registration+India+Linux+Windows+Hosting "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.bagful.net%2Fprivacy-statement.html&title=Privacy%20Statement&source=Bagful+Web+Hosting+India+Domain+Registration+India+Linux+Windows+Hosting&summary=Bagful%20knows%20that%20you%20care%20how%20information%20about%20you%20is%20used%20and%20shared%2C%20and%20we%20appreciate%20your%20trust%20that%20we%20will%20do%20so%20carefully%20and%20sensibly.%20This%20notice%20describes%20our%20privacy%20policy.%20For%20question%20on%20the%20Privacy%20Notice%20please%20contact%20the%20Bagful%20He "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.bagful.net%2Fprivacy-statement.html&Title=Privacy%20Statement "BlinkList")
-  * 
-
-
-Free parking page with every domain name. 
