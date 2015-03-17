@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycollege.in privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907050252id_/http%3A//mycollege.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycollege.in privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317015617id_/https%3A//www.mycollege.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy -Mycollege.in
 
@@ -21,3 +21,9 @@ In the event that we are acquired or merge with another company, or upon a sale 
 Information on this website may contain technical inaccuracies or typographical errors. Information may be changed or updated without notice. We may also make improvements and/or changes in the products and/or the services described in this information at any time without notice.
 
 From time to time, this Privacy Policy may be modified. Updates will be posted in place of this Privacy Policy and will remain accessible to all users of the Mycollege.in website. You agree to this Privacy Policy, and any changes to the same, by visiting this website. For more information please email us [ support@mycollege.in](mailto:%20support@mycollege)
+
+Post Your Answer
+
+Age limit to apply for OICL Recruitment 2015
+
+[Submit](https://www.mycollege.in/discussions/971/.php) Students Discussion Forum
