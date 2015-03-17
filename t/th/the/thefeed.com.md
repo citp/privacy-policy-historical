@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefeed.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009213503id_/https%3A//thefeed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefeed.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317173641id_/https%3A//thefeed.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The Feed
 
@@ -67,7 +67,7 @@ The Feed welcomes your questions or comments regarding this Statement of Privacy
 629 Emerson  
 Palo Alto, California 94027
 
-Email Address: [help@thefeed.com](https://web.archive.org/web/20141009213503id_/https://thefeed.com/privacy/help@thefeed.com)  
+Email Address: [help@thefeed.com](https://web.archive.org/web/20150317173641id_/https://thefeed.com/privacy/help@thefeed.com)  
 Telephone number: (877)780-8957
 
 Effective as of June 26, 2013
