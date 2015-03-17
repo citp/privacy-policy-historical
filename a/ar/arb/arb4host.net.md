@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arb4host.net privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726011716id_/http%3A//www.arb4host.net/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arb4host.net privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317094601id_/https%3A//www.arb4host.net/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Arb4Host Network For Web Solutions - عرب فور هوست لاستضافة وتصميم وبرمجة وتطوير المواقع
 
