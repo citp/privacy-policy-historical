@@ -1,27 +1,25 @@
-> *The following text is extracted and transformed from the rollapp.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226014708id_/https%3A//www.rollapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollapp.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317184126id_/https%3A//www.rollapp.com/privacy) for the most accurate reproduction.*
 
 # rollApp - Privacy Policy
 
-## Privacy Policy
-
-rollApp is committed to protecting your privacy when you visit our web-site [www.rollApp.com](http://www.rollapp.com/) and use our online or other services ("Services"). In this policy we explain how and why we collect your information, what we do with it and what controls you have over our use of it.
+rollApp is committed to protecting your privacy when you visit our web-sites [www.rollApp.com](https://www.rollapp.com/) or [rollMyFile.com](https://rollmyfile.com/) and use our online or other services ("Services"). In this policy we explain how and why we collect your information, what we do with it and what controls you have over our use of it.
 
 From time to time, we add or change functions, features or products to our website or add or change Services. This, as well as our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy. Please remember to refer back to this Privacy Policy regularly to review any amendments.
 
 ## Information We Collect And How We Use It
 
-We may collect the following types of information: 
+We may collect the following types of information:
 
-  * Information you provide — When you sign up for a rollApp Account, we may ask you for personal information. We may combine the information you submit under your account with information from third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
-  * Cookies — When you visit rollApp, we may send one or more cookies to your computer or other device. We may use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some rollApp features and services may not function properly if your cookies are disabled.
-  * Log information — When you access rollApp services via a browser, application or other client, our servers may automatically record certain information. These server logs may include information such as your web request, your interaction with a service, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account.
+  * Information you provide — When you sign up for a rollApp Account, we may ask you for personal information. We may combine the information you submit under your account with information from third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+  * Cookies — When you access rollApp Services, we may send one or more cookies to your computer or other device. We may use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some rollApp features and services may not function properly if your cookies are disabled.
+  * Log information — When you access rollApp Services via a browser, application or other client, our servers may automatically record certain information. These server logs may include information such as your web request, your interaction with a service, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account.
   * User communications — When you send email or other communications to rollApp, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. We may use your email address to communicate with you about our services.
-  * Third Party Components and Applications — rollApp makes available some third party components and applications through rollApp website. The information collected by rollApp when you enable a third party application is processed under this Privacy Policy. Information collected by the third party application/component provider is governed by their privacy policies.
-  * Other sites — This Privacy Policy applies to rollApp services only. We do not exercise control over the sites that use components provided by rollApp, link to rollApp website or are linked from rollApp website. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+  * Third Party Components and Applications — rollApp makes available some third party components and applications through rollApp Services. The information collected by rollApp when you enable a third party application is processed under this Privacy Policy. Information collected by the third party application/component provider is governed by their privacy policies.
+  * Other sites — This Privacy Policy applies to rollApp Services only. We do not exercise control over the sites that use components provided by rollApp, link to rollApp Sites or are linked from rollApp Sites. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
 
 
 
-In addition to the above, we may use the information we collect to: 
+In addition to the above, we may use the information we collect to:
 
   * Provide, maintain, protect, and improve our services (including advertising services) and develop new services; and
   * Protect the rights or property of rollApp or our users.
@@ -38,7 +36,7 @@ rollApp recognizes the privacy interests of children and we encourage parents an
 
 ## Information Sharing
 
-rollApp only shares personal information with other companies or individuals outside of rollApp in the following limited circumstances: 
+rollApp only shares personal information with other companies or individuals outside of rollApp in the following limited circumstances:
 
   * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
   * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
@@ -60,7 +58,7 @@ We restrict access to personal information to rollApp employees, contractors and
 
 ## Accessing And Updating Personal Information
 
-When you use rollApp services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
+When you use rollApp Services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
 ## Notification Of Changes
 
