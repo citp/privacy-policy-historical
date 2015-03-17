@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008064041id_/http%3A//www.ordnancesurvey.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317095126id_/http%3A//www.ordnancesurvey.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Data Protection and Privacy Policy | Ordnance Survey
+# Data protection and privacy policy | Ordnance Survey
 
 **Last updated June 2014**
 
@@ -104,7 +104,9 @@ b. You can unsubscribe from our newsletters and emails by the following methods:
 
 · if you have an account with us, by changing your email preferences on your account; or
 
-· by sending an email to [customerservices@ordnancesurvey.co.uk](mailto:customerservices@ordnancesurvey.co.uk) or customerservices@ordnancesurveyleisure.co.uk asking us to unsubscribe you; or by writing to Customer Services, Ordnance Survey, Adanac Drive, Southampton SO16 0AS.c. We will store your personal data for no longer than necessary to the relevant service. We will usually retain your personal data for a reasonable period to allow us to respond to any follow-up enquiries or complaints, or for as long as you remain a registered user of the Website or Website Services.
+· by sending an email to [customerservices@os.uk](mailto:customerservices@os.uk) asking us to unsubscribe you; or by writing to Customer Services, Ordnance Survey, Adanac Drive, Southampton SO16 0AS.
+
+c.  We will store your personal data for no longer than necessary to the relevant service. We will usually retain your personal data for a reasonable period to allow us to respond to any follow-up enquiries or complaints, or for as long as you remain a registered user of the Website or Website Services.
 
 d.  We aim to keep the information which is stored automatically when you access the Website (as set out above) for no longer than a year.
 
@@ -124,7 +126,7 @@ c.  If you have any queries about this Data Protection and Privacy Policy and/or
 
  **Ordnance  Survey:**
 
-Email: customerservices@ordnancesurvey.co.uk
+Email: [customerservices@os.uk](mailto:customerservices@os.uk)
 
 Call: 03456 05 05 05 (Monday - Friday: 8.30am-5.30pm - call charges apply)
 
@@ -132,7 +134,7 @@ Post: Customer Services, Ordnance Survey, Adanac Drive, Southampton, SO16 0AS
 
  **Ordnance  Survey Leisure Limited:**
 
-Email: customerservices@ordnancesurveyleisure.co.uk
+Email: [customerservices@osleisure.co.uk](mailto:customerservices@osleisure.co.uk)
 
 Call: 03454 56 04 20 (Monday - Friday: 8.30am-5.30pm – call charges apply)
 
