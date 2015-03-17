@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the reputation.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019122539id_/http%3A//www.reputation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reputation.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317164934id_/http%3A//www.reputation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reputation.com
 
 ## PRIVACY PLEDGES:
+
+[ ](http://privacy.truste.com/privacy-seal/Reputation-com,-Inc-/validation?rid=9233e448-d503-4b64-8eaf-4dc218e7a2b8 "truste reputation.com page")
 
   1. Reputation.com's whole mission centers on empowering you, the consumer, to control your privacy online - that's why we're truly committed to maintaining the privacy and security of your personally identifiable information. Our privacy policy has been reviewed and approved by TRUSTe, which sets privacy program standards for accountability, transparency and choice. (learn more)
   2. We collect and use only the personally identifiable information we need to make sure our products and services are effective. If we need any additional information, we will get your express, explicit approval before collecting and using it. (learn more)
@@ -18,13 +20,13 @@
 
 ## PRIVACY POLICY
 
-**Effective January 7, 2014**
+ **Effective January 7, 2014**
 
-### 1\. ABOUT OUR PRIVACY POLICY
+###  1\. ABOUT OUR PRIVACY POLICY
 
 1\. Reputation.com., has created this privacy statement ("Privacy Policy") in order to demonstrate our firm commitment to your privacy. This Privacy Policy explains the policies adopted and used by Reputation.com in order to protect your privacy as you visit and use the Reputation.com website, and associated sub-domains (the "Site) and in connection with the goods and services you purchase from us.
 
-2\. Your use of the Site, or your purchase of our products and services, constitutes an acceptance of our Terms of Use and Privacy Policy. If you have any questions regarding this Privacy Policy, please contact us at [info@reputation.com](mailto:info@reputation.com).
+2\. Your use of the Site, or your purchase of our products and services, constitutes an acceptance of our Terms of Use and Privacy Policy. If you have any questions regarding this Privacy Policy, please contact us at [privacy@reputation.com](mailto:privacy@reputation.com).
 
 3\. Reputation.com, Inc. has been awarded TRUSTe's Privacy Seal signifying that our Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this web site [www.reputation.com](http://www.reputation.com/).
 
@@ -32,7 +34,7 @@
 
 5\. Reputation.com complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Reputation.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Reputation.com's certification, please visit <http://www.export.gov/safeharbor>.
 
-### 2\. THE INFORMATION WE COLLECT
+###  2\. THE INFORMATION WE COLLECT
 
 1\. In some areas of the Site (such as when you set up an account or complete your profile) and in connection with our services, Reputation.com will collect personally identifiable information, including your name, address, e-mail address, telephone number, username[s], credit card number, billing information and other information from which your identity is discernible.
 
@@ -48,7 +50,7 @@
 
 7\. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We also collect analytical data related to the performance of this Site via tracking technologies. This data is in no way associated with your personally identifiable information. (See "Cookies" below.)
 
-### 3\. OUR USE AND DISCLOSURE OF INFORMATION
+###  3\. OUR USE AND DISCLOSURE OF INFORMATION
 
 Reputation.com will not disclose any personally identifiable information about any individual except as set forth in this Privacy Policy. This applies to information about our customers and information our customers provide to us about their customers. We are not limited, in any way, in our use of non-personal information that does not permit direct association with any specific individual, or non-identifiable aggregate information about our users (such as the number of customers who use our services, the geographic distribution of our users, the amount of information located and/or removed, etc.).
 
@@ -126,11 +128,11 @@ Our website includes Social Media Features, such as the Facebook button and Widg
 
 You may review, correct, update or change your personally identifiable information on your Reputation.com account profile at any time. Simply log into your Reputation.com account, go to your User Profile, review your personally identifiable information and, if you wish, edit it with the options provided. If you are unable to edit your personally identifiable information by logging into your account, then please contact us for assistance. If you wish your information to be totally deleted from our database, you may email [helpdesk@reputation.com](mailto:helpdesk@reputation.com). This process takes up to 30 days
 
-### 4\. PERSONALLY IDENTIFIABLE INFORMATION OF THIRD PARTIES THAT WE RECEIVE FROM OUR CUSTOMERS AND CLIENTS
+###  4\. PERSONALLY IDENTIFIABLE INFORMATION OF THIRD PARTIES THAT WE RECEIVE FROM OUR CUSTOMERS AND CLIENTS
 
 The implementation of our Services may require you to share with us information about your customers, including personally identifying information such as names and email addresses. We treat such information confidentially and do not share it with any third parties, except as described above as necessary to perform our services. Such information is maintained securely using industry standard safeguards.
 
-### 5\. INFORMATION SECURITY
+###  5\. INFORMATION SECURITY
 
 1\. The security of your personal information is important to us. If you enter sensitive information, such as credit card number and social security number, on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). Reputation.com. is committed to handling your customer information with high standards of information security.
 
@@ -152,7 +154,7 @@ The implementation of our Services may require you to share with us information 
 
 10\. Reputation.com, Inc. may have access to your password and may use such password to access your account for debugging, quality assurance, or other internal purposes.
 
-### 6\. COOKIES
+###  6\. COOKIES
 
 1\. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on the Site. We do not link the information we store in cookies to any personally identifiable information you submit while on the Site.
 
@@ -168,17 +170,17 @@ The implementation of our Services may require you to share with us information 
 
 7\. We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see the "Choice and Opt-out" section below.
 
-### 7\. LINKED SITES
+###  7\. LINKED SITES
 
 The Site contains links to other sites that are not owned or controlled by Reputation.com, Inc. Please be aware that we, Reputation.com, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave the Site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by the Site.
 
-### 8\. CHOICE AND OPT-OUT
+###  8\. CHOICE AND OPT-OUT
 
 1\. We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a product/service, but do not wish to receive any additional marketing material from us, you can indicate your preference in the Site's account area.
 
 2\. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [helpdesk@reputation.com](mailto:helpdesk@reputation.com). We also offer an opportunity to opt-out of certain communications on the Site, via our user account area.
 
-### 9\. CHANGES TO PRIVACY STATEMENT
+###  9\. CHANGES TO PRIVACY STATEMENT
 
 1\. If we decide to make material changes to our privacy policy, we will notify you by e-mail through the primary e-mail address specified in your account and/or post those changes to this privacy statement on the Website homepage, prior to the changes taking effect. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you.
 
@@ -186,12 +188,12 @@ The Site contains links to other sites that are not owned or controlled by Reput
 
 3\. In the event Reputation.com., goes through a business transition, such as a merger, an acquisition by another company, or a sale of a portion of its assets, users' personally identifiable information will, in most instances, be part of the assets transferred. Users will be notified via prominent notice on the Site for 30 days after a change of ownership or control of their personally identifiable information. If, as a result of the business transition, a users' personally identifiable information will be used in a manner different from that stated at the time of collection, users will be given a choice consistent with our notification of changes section.
 
-4\. If you have any questions about this Privacy Policy, the practices of Reputation.com, Inc., with respect to personal information, or your dealings with the Site, you can contact us at [info@reputation.com](mailto:info@reputation.com) or write to:
+4\. If you have any questions about this Privacy Policy, the practices of Reputation.com, Inc., with respect to personal information, or your dealings with the Site, you can contact us at [privacy@reputation.com](mailto:privacy@reputation.com) or write to:
 
-**Reputation.com, Inc.**  
-Attention: Legal Department  
-1001 Marshall St.  
-2nd Floor  
+ **Reputation.com, Inc.**   
+Attention: Chief Privacy Officer   
+1001 Marshall St.   
+2nd Floor   
 Redwood City, CA 94063
 
-[](https://privacy.truste.com/privacy-seal/Reputation-com,-Inc-/validation?rid=9233e448-d503-4b64-8eaf-4dc218e7a2b8 "TRUSTe European Safe Harbor certification")
+[ ](https://privacy.truste.com/privacy-seal/Reputation-com,-Inc-/validation?rid=9233e448-d503-4b64-8eaf-4dc218e7a2b8 "TRUSTe European Safe Harbor certification")
