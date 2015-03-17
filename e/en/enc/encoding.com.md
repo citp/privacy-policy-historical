@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702222952id_/http%3A//www.encoding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317161116id_/http%3A//www.encoding.com/privacy) for the most accurate reproduction.*
 
 # Privacy -
 
