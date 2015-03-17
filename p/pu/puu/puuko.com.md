@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puuko.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702193816id_/http%3A//www.supportidols.com/support_faq/puuko-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puuko.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317162109id_/http%3A//www.supportidols.com/support_faq/puuko-privacy.html) for the most accurate reproduction.*
 
 # Puuko.com - Privacy Statement
 
@@ -68,7 +68,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 All questions to Mentarinet ltd regarding these terms and conditions must be directed to: 
 
-Mentarinet ltd registered address at Gladstonos, 120 FOLOUNE, Flat/Office D1, P.C. 3032, Limassol, Cyprus
+Mentarinet ltd registered address at 
 
 Should you have other questions or concerns about these privacy policies, please [contact us](http://www.supportidols.com/support_faq/contact.html). 
 
