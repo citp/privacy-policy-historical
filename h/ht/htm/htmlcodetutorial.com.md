@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlcodetutorial.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214020021id_/http%3A//www.htmlcodetutorial.com/acustom/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlcodetutorial.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317200747id_/http%3A//www.htmlcodetutorial.com/acustom/privacy.html) for the most accurate reproduction.*
 
 # HTML Code Tutorial - Privacy Policy
 
