@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epanchang.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070745id_/http%3A//epanchang.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epanchang.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317072516id_/https%3A//www.epanchang.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy|ePanchang.com
+# Our Panchangam Privacy Policy
 
 **PRIVACY & POLICY**
 
@@ -19,20 +19,37 @@ We may also ask you to complete surveys that we use for research purposes, altho
 
 Details of your visits to our site including, but not limited to, traffic data, location data, weblogs, operating system, browser usage and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-**IP ADDRESSES AND COOKIES**
+## LOG FILES
 
-We may collect information about your computer, including where available your IP address, operating ystem and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual and we will not collect personal information in this way.
+Like many other Web sites, www.epanchang.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+## IP ADDRESSES, COOKIES AND WEB BEACONS
+
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual and we will not collect personal information in this way.
 
 We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service.
 
-They enable us:
+### They enable us:
 
-To estimate our audience size and usage pattern.  
-To store information about your preferences, and so allow us to customise our site according to your individual interests.  
-To speed up your searches.  
+To estimate our audience size and usage pattern.
+
+To store information about your preferences, and so allow us to customise our site according to your individual interests.
+
+To speed up your searches.
+
 To recognise you when you return to our site.
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+
+www.epanchang.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+DoubleClick DART Cookie Google, as a third party vendor, uses cookies to serve ads on www.epanchang.com. Google's use of the DART cookie enables it to serve ads to users based on their visit to www.epanchang.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/policies/technologies/ads/ Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... Google Adsense 
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.epanchang.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.epanchang.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.epanchang.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 **WHERE WE STORE YOUR PERSONAL DATA**
 
@@ -78,5 +95,3 @@ Any changes we may make to our privacy policy in the future will be posted on th
 **CONTACT**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@epanchang.com.
-
-Panchangam 2014, Chandrashtama days, FREE horoscope are provided in ePanchang for all users to access free of cost; full privacy guaranteed to the user
