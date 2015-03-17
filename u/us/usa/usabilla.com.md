@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usabilla.com privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809160904id_/https%3A//usabilla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usabilla.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317150312id_/https%3A//usabilla.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Usabilla
 
@@ -42,37 +42,3 @@ Privacy is of the utmost importance to Usabilla and our clients, therefore measu
 
 
 All actions taken in the above described measures are performed on the client’s end. This prevents privacy sensitive data from reaching the Usabilla servers.
-
-Usabilla collects information to integrate Usabilla Discover with other (social) services. None of this information will be shared with or sold to 3rd parties.
-
-## 1 What information we use from you
-
-Usabilla Discover makes it possible to share your activities on social services (e.g. Facebook Timeline / Twitter). Therefore we need your permission to share this data on your behalf. We also make it possible to log in to your Usabilla Discover account using those services. 
-
-For the integration with Facebook the following information is needed: Account ID, Name, Profile Picture, Networks, Friend List, Pages, Permanent access to your information (needed to avoid periodic re-authorization on your part) 
-
-## 2 How we get your information
-
-All information we get is obtained by voluntarily becoming a registered user of Usabilla Discover. Additionally, we require certain permissions for external social services. These are only provided to us when you log in (or logged in) to the specific social service's account and follow the steps given by the service. 
-
-## 3 How we use your information
-
-Usabilla Discover uses your information to interact with our service and to personalize your experience. 
-
-We currently offer the possibility to log in with Facebook and Twitter 
-
-When enabled, all actions related to our service are posted to Facebook's OpenGraph. Those actions include, but are not limited to: 
-
-  * (re)Discovering ("you discovered a design element with Usabilla Discover")
-  * Commenting ("you commented on a design element on Usabilla Discover")
-  * Making lists ("you created a list on Usabilla Discover")
-  * Adding to lists ("you added a discovery to a list on Usabilla Discover")
-  * Aggregating data for displaying on social services
-
-
-
-## 4 Security
-
-We are doing our best to protect your information from being accessed, edited, deleted, published, and abused by or to unauthorized persons. However, we cannot ensure the security and integrity of your information and can not be held responsible for any unauthorized use. 
-
-All users of our site may make any changes to their information at any time by logging into their Usabilla Discover account and going to the 'Account & Settings' page. The connection between Usabilla Discover and Twitter or Facebook can be revoked on these respective services' websites. 
