@@ -1,40 +1,37 @@
-<!--The following is the downloaded HTML source of the 1broker.com privacy policy that was archived on 2013-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103203658id_/https%3A//1broker.com/%3Fc%3Dabout_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1broker.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317145654id_/https%3A//1broker.com/%3Fc%3Dabout_privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" ng-app="AngularJSMain" class="ng-scope"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}</style>
+<!DOCTYPE html><html lang="en" ng-app="AngularJSMain" class="ng-scope"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
     
     <meta charset="utf-8">
     <title>Privacy Policy - 1Broker</title>
     <meta name="description" content="Bitcoin Forex and CFD Trading. Trade major currency pairs, indices, stocks and commodities with your Bitcoins feeless and with customizable leverages.">
    	<meta name="keywords" content="Bitcoin CFD Forex Trading Broker 1Broker index stock commodity invest profit money gold silver"> 
-
+    <meta name="theme-color" content="#165698">
+    
     <meta name="robots" content="index, follow"> 
     <meta property="og:image" content="https://1broker.com/img/logo100100.png">
     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/abv=616370820/cloudflare.min.js"></script><script type="text/javascript">
+    <script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=919620257c/cloudflare.min.js"></script><script type="text/javascript">
 //<![CDATA[
-window.__CF=window.__CF||{};window.__CF.AJS={"abetterbrowser":{"ie":"8"}};
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-try{if (!window.CloudFlare) { var CloudFlare=[{verbose:0,p:1382999047,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/abv=2980380653/"},atok:"a8ae9b1dbfacdc36f0aeabc1d8a326e1",petok:"f1061e04f60c103e393564cadb473d86-1383511018-1800",zone:"1broker.com",rocket:"0",apps:{"abetterbrowser":{"ie":"8"}}}];var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src="//ajax.cloudflare.com/cdn-cgi/nexp/abv=616370820/cloudflare.min.js";b.parentNode.insertBefore(a,b);}}catch(e){};
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"5a636169f6ac02555c587c42fe8985a7",petok:"a5dfbb3f6afc698b8f44f3af8cfca05342c6d5a2-1426604215-1800",zone:"1broker.com",rocket:"0",apps:{"abetterbrowser":{"ie":"8"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=919620257c/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
 //]]>
 </script>
 <link rel="stylesheet" type="text/css" href="main.css">
     
-	<link rel="icon" href="favicon.ico" type="image/x-icon"> 
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
     
     <script src="js/jquery-2.0.3.min.js"></script>
     <script src="js/angular.min.js"></script>
     <script src="js/angular-animate.min.js"></script>
 
-
 </head> 
 <body style="">
 <script type="text/javascript">
 
-angular.module('AngularJSMain', ['ngAnimate']);
+
+var AngularJSMain = angular.module('AngularJSMain', ['ngAnimate']);
+
 
 function addOnloadEvent(fnc){
   if ( typeof window.addEventListener != "undefined" )
@@ -119,20 +116,21 @@ function hideLoading() {
     document.getElementById('loading').style.visibility = 'hidden';
 }
 
+ function stringifyNumber(number,precision,forcesign,prefix,postfix) {
+    var rounded = (Math.floor(number*Math.pow(10,precision))/Math.pow(10,precision)).toFixed(precision);
+    return prefix+((forcesign && number>0) ? "+" : "") + rounded + postfix;
+  };
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-36229972-1']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
 </script>
 
+ <!-- Preload some imgs -->
+
+
 <center>
-<div id="info" style="background: rgb(0,0,0); background: rgba(0,0,0,0.75); display: none; vertical-align: middle; transition: opacity 200ms ease; -webkit-transition: opacity 200ms ease; -moz-transition: opacity 200ms ease; -o-transition: opacity 200ms ease; z-index:10; position: fixed; width: 470px; opacity: 0; color: #fff; border-radius: 8px 8px 8px 8px; margin: auto; left:0; right:0; top: 250px; height: 50px">
+ <img width="0" height="0" src="img/trans40.png" alt="preload1" style="float: left;">
+ <img width="0" height="0" src="img/bluebutton.png" alt="preload2" style="float: left;">
+<div id="info" style="background: rgb(0,0,0); background: rgba(0,0,0,0.75); display: none; vertical-align: middle; transition: opacity 0.2s; -webkit-transition: opacity 0.2s; -moz-transition: opacity 200ms ease; -o-transition: opacity 200ms ease;  z-index:10; position: fixed; width: 470px; opacity: 0; color: #fff; border-radius: 8px 8px 8px 8px; margin: auto; left:0; right:0; top: 250px; height: 50px">
 <br><span style="font-size: 14px;" id="infotext"></span>
 </div>
 
@@ -148,6 +146,8 @@ function hideLoading() {
 </div>
 </div>
 
+
+<div style="min-width: 1024px; width: 100%; background-color: #eee">
 <div style="width: 1024px; height: 100px; background-repeat: no-repeat; background-position: bottom right;">
 <a href="./"><img alt="1Broker Logo" border="0" id="logo" itemprop="image" src="img/logo.png" style="float:left; margin-top: 20px; margin-left: 0px; border-radius: 0px;" width="200"></a>
 
@@ -160,41 +160,48 @@ function hideLoading() {
 
 </div>
 </div>
-<div style="height: 30px; width: 100%; background-image: url(img/navgradient_bw.png); box-shadow: 0px 0px 10px #ccc;">
-<center>
+</div>
+
+
+<div style="height: 30px; min-width: 1024px; width: 100%; background-image: url(img/navgradient_bw.png); box-shadow: 0px 0px 10px #ccc;">
+
 <div style="height: 30px; width: 1024px; background-image: url(img/navgradient.png)">
 <a class="navbutton" href="./"><div style="margin-top: 6px; ">Home</div></a>
+
+<!--
 <ul id="menu" class="dropdown">
   <li class="navbutton"><div style="margin-top: 6px; ">Trading</div>
     <ul style="padding-top: 7px;">
     <li><a href="?c=cfds">Markets</a></li>
-    <li><a href="?c=btcusd">BTC/USD</a></li>
+    <li><a href="?c=profitloss_calculator">Profit/Loss Calc.</a></li>
     </ul>
   </li>
 </ul>
-<a class="navbutton" href="?c=news"><div style="margin-top: 6px; ">News</div></a>
-<ul id="menu" class="dropdown">
-  <li class="navbutton"><div style="margin-top: 6px; ">About us</div>
-    <ul style="padding-top: 7px;">
-    <li><a href="?c=about_security">Security</a></li>
-    <li><a href="?c=about_fees">Fees</a></li>
-    </ul>
-  </li>
-</ul>
+-->
+
+<a class="navbutton" href="?c=about_features"><div style="margin-top: 6px; ">Features</div></a>
+
+<a class="navbutton" href="?c=cfds"><div style="margin-top: 6px; ">Markets</div></a>
+
+
+
+<a class="navbutton" href="?c=blog"><div style="margin-top: 6px;">Blog</div></a>
+
+
 <a class="navbutton" href="?c=contact" style="float: right"><div style="margin-top: 6px; ">Contact</div></a>
 <a class="navbutton" href="?c=faq" style="float: right; border-left: 1px solid #006699"><div style="margin-top: 6px; ">FAQ</div></a>
 </div>
-</center>
+
 </div>
 
 
-<div id="middle">
 
-<br>
-<div class="home_box" style="float: none; width: 960px; font-family: Arial; padding: 30px; color: #444">
-<div style="font-size: 30px; font-weight: bold; color: #0088cf; font-family: Dosis;">
-Privacy Policy
-</div>
+
+<div style="width: 1024px; margin: 0px auto;">
+
+<div class="home_box" style="width: 960px;  padding: 30px; margin: 30px 0px 30px 0px">
+<h1>Privacy Policy</h1>
+
 <br>
 This Privacy Policy governs the manner in which 1Broker collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="https://1broker.com">1broker.com</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by 1Broker.<br><br>
 
@@ -252,26 +259,82 @@ support@1broker.com<br>
 <br>
 This document was last updated on November 11, 2012<br>
 </div>
-<div style="width:  1014px; border: 0px solid #666; font-size: 13px; color: #444; text-shadow: 0px 1px 1px #eee; margin-top: 10px; text-align: left">
-<table cellpadding="0" cellspacing="0" border="0" style="width:  100%;">
-<tbody><tr>
-<td style="vertical-align: top">
-© 2012-2013, 1Broker.com 
-</td>
-<td style="text-align: right;">
-<a href="?c=about_privacy">Privacy Policy</a> | <a href="?c=about_tos">Terms of Service</a> | <a href="/status">Status</a>
-</td>
-</tr>
-</tbody></table>
-</div>
 </div>
 
 <br>
+<br>
 
 
- <!-- Preload some imgs -->
- <img width="0" height="0" src="img/trans40.png" alt="preload1">
- <img width="0" height="0" src="img/bluebutton.png" alt="preload2">
+<div style="min-width: 1024px; width: 100%; overflow: hidden; font-family: 'Open Sans'; text-align: center;  background: transparent; border-top: 1px solid #eee">
+
+
+<div id="footer" style="max-width: 1024px; width: 100%; overflow: hidden; margin: 0px auto; padding: 15px; ">
+
+<div style="float: left; margin-top: 5px; margin-right: 5px">
+<h3>Connect with us</h3>
+<table style="text-align: left;">
+<tbody><tr class="coloredOnlyOnHover"><td>
+<a target="_blank" href="https://twitter.com/1BrokerCom"><img alt="Twitter icon" height="34" src="img/twitter-icon.png">
+</a>
+</td><td>
+<a target="_blank" href="https://twitter.com/1BrokerCom">Twitter</a>
+</td></tr>
+<tr class="coloredOnlyOnHover"><td>
+<a target="_blank" href="http://www.facebook.com/1Brokercom"><img alt="Facebook icon" height="34" style="margin-left: 0px" src="img/facebook-icon.png"></a>
+</td><td><a target="_blank" href="http://www.facebook.com/1Brokercom">Facebook</a></td></tr>
+<tr class="coloredOnlyOnHover"><td>
+<a target="_blank" href="https://plus.google.com/108333534623295095443/"><img alt="Google Plus icon" height="34" style="margin-left: 0px" src="img/google-plus-icon.png"></a>
+</td><td><a target="_blank" href="https://plus.google.com/108333534623295095443/">Google Plus</a></td></tr>
+</tbody></table>
+</div>
+
+
+<div style="float: left; margin: 5px 0px 0px 40px;  text-align: left">
+<h3>Trading</h3>
+<a href="?c=cfds">Markets</a><br>
+
+<a href="?c=about_fees">Fees</a><br>
+<a href="?c=profitloss_calculator">Profit/Loss Calculator</a><br>
+<a href="?c=overnight_financing_calculator">Overnight Financing Calculator</a><br>
+
+</div>
+
+
+<div style="float: left; margin: 5px 0px 0px 40px; text-align: left">
+<h3>About Us</h3>
+<a href="?c=blog">Blog</a><br>
+<a href="?c=about_security">Security</a><br>
+<a href="./status">Status</a><br>
+<!-- TODO: <a href="?c=#">Referral</a><br />-->
+
+
+</div>
+
+
+<div style="float: left; margin: 5px 0px 0px 60px; text-align: left">
+<h3>Legal</h3>
+<a href="?c=about_tos">Terms of Service</a><br>
+<a href="?c=about_privacy">Privacy Policy</a><br>
+<a href="?c=about_risks">Risk Warning</a><br>
+
+
+</div>
+
+<div style="float: right; margin: 5px 0px 0px 0px; text-align: left">
+<h3>Help &amp; Support</h3>
+<a href="?c=faq">FAQ</a><br>
+<a href="?c=contact">Contact Us</a><br>
+<a target="_blank" href="https://bitcointalk.org/index.php?topic=123492.0">Bitcointalk Thread</a><br>
+
+
+</div>
+
+
+</div>
+<br>
+</div>
+
+
 </center>
 
 </body></html>
