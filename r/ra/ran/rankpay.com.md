@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankpay.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703125439id_/http%3A//www.rankpay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankpay.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317042505id_/http%3A//www.rankpay.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RankPay
 
@@ -55,7 +55,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 RankPay, LLC   
-3052 Clairemont Drive Suite B  
-San Diego, CA 92117  
+1495 Pacific Hwy Suite 275  
+San Diego, CA 92101  
 support@rankpay.com  
 877-RANK-PAY
