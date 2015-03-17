@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719160434id_/https%3A//madmimi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317153411id_/https%3A//madmimi.com/legal/privacy) for the most accurate reproduction.*
 
 # Mad Mimi Email Marketing : Create, Send, And Track HTML Email Newsletters
 
@@ -6,9 +6,9 @@ Effective date: October 29th, 2013
 
 At Mad Mimi we believe that respecting your recipients is important. These policies aim to make sending emails effective and receiving emails a joy.
 
-This privacy policy applies to [madmimi.com](https://www.madmimi.com/) owned and operated by Mad Mimi, LLC. This privacy policy describes how Mad Mimi, LLC collects and uses the personal information you provide on our website: [madmimi.com](https://www.madmimi.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information
+This privacy policy applies to [madmimi.com](https://www.madmimi.com/) owned and operated by Mad Mimi. This privacy policy describes how Mad Mimi collects and uses the personal information you provide on our website: [madmimi.com](https://www.madmimi.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information
 
-Mad Mimi's privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through [madmimi.com](https://www.madmimi.com/) does not cover information that may be collected behind the log in on our website. If you have questions or complaints regarding our privacy policy or practices, please [contact us,](https://web.archive.org/contact) or [contact TRUSTe](https://feedback-form.truste.com/watchdog/request). You may report abuse of our service to the [Mad Mimi Abuse Desk](https://web.archive.org/legal/abuse).
+Mad Mimi's privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through [madmimi.com](https://www.madmimi.com/) does not cover information that may be collected behind the log in on our website. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://web.archive.org/contact), or [contact TRUSTe](https://feedback-form.truste.com/watchdog/request). You may report abuse of our service to the [Mad Mimi Abuse Desk](https://web.archive.org/legal/abuse).
 
 ## Permission Policy
 
@@ -33,7 +33,7 @@ Although we reserve the right to monitor your lists, content and response data f
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for longer, and are used for the purposes or remembering your settings, local storage, for example making sure you don't lose your text while you're composing an email campaign, and "remember me" option. You can remove persistent cookies by following directions provided in your Internet browser's "help" directory. Here is [more information about cookies](http://en.wikipedia.org/wiki/HTTP_cookie). If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.
 
-The use of cookies by our tracking utility company, for example, Google Analytics and service providers like [SnapEngage Live Chat](https://web.archive.org/web/20140719160434id_/https%3A//madmimi.com/legal/snapengage.com), is not covered by our privacy policy. We do not have access or control over these cookies. These providers use both session ID and persistent cookies to make it easier for you to use our live chat and for us to log general website traffic. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our customers' or users' personally identifiable information.
+The use of cookies by our tracking utility company, for example, Google Analytics and service providers like [SnapEngage Live Chat](https://snapengage.com/), is not covered by our privacy policy. We do not have access or control over these cookies. These providers use both session ID and persistent cookies to make it easier for you to use our live chat and for us to log general website traffic. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our customers' or users' personally identifiable information.
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
 
@@ -49,9 +49,10 @@ Our privacy policy above serves as our statement of adherence to the US-EU and U
 
 Direct any Safe Harbor inquiries or requests in writing if via email to:
 
-Mad Mimi, LLC  
-1562 First Ave #205-6464  
-New York, NY 10028
+Mad Mimi  
+c/o GoDaddy.com LLC  
+14455 N. Hayden Rd., Suite 219  
+Scottsdale, AZ 85260
 
 support@madmimi.com 
 
@@ -71,7 +72,7 @@ We may provide your personal information to companies that provide services to h
 
 We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-If Mad Mimi, LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+If Mad Mimi is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 ## Testimonials
 
@@ -79,7 +80,7 @@ We display personal testimonials of satisfied customers on our site in addition 
 
 ## Links to 3rd party sites
 
-Our site includes links to other websites whose privacy practices may differ from those of Mad Mimi, LLC. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to read the privacy policy of any website you visit.
+Our site includes links to other websites whose privacy practices may differ from those of Mad Mimi. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to read the privacy policy of any website you visit.
 
 Our website includes social media features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social media features are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
