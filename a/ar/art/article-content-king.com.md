@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article-content-king.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702191754id_/http%3A//www.articlecontentking.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-content-king.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317170223id_/http%3A//www.articlecontentking.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy Free Article Directory | Submit Articles
 
