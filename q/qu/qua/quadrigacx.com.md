@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quadrigacx.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626034355id_/https%3A//www.quadrigacx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quadrigacx.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317060218id_/https%3A//quadrigacx.com/privacy) for the most accurate reproduction.*
 
 # Quadriga Coin Exchange | Privacy Policy
 
