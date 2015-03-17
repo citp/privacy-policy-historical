@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoforums.co.uk privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701190110id_/http%3A//www.videoforums.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoforums.co.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317130922id_/http%3A//www.videoforums.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Video Editing Forums: Digital Director - VideoForums Privacy Policy
 
