@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yatragenie.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701135445id_/https%3A//www.yatragenie.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatragenie.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317040635id_/https%3A//www.yatragenie.com/newPrivacyPolicy.jsp) for the most accurate reproduction.*
 
-# Online bus booking, online ticket booking made easy at yatragenie.com | Privacy Policy
+# YatraGenie|Your Travel Genius!
 
-### To Our Individual Clients:
+### **To Our Individual Clients:**
 
 Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicitations. A recent law change requires us (along with banks, brokerage houses, and other financial institutions) to disclose our Privacy Policy to you â€“ which we are more than happy to do. We hope that by taking a few minutes to read it, you will have a better understanding of what we do with the information you provide us and how we keep it private and secure. 
 
