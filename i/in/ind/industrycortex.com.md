@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrycortex.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226073947id_/http%3A//www.industrycortex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrycortex.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317091729id_/http%3A//www.industrycortex.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -9,8 +9,8 @@
 Industrial Interface, Inc.
 
   
-4585 Del Monte Ave   
-San Diego, CA 92101 
+1615 Yost Drive   
+San Diego, CA 92109 
 
 We can be reached via [e-mail](http://www.google.com/recaptcha/mailhide/d?k=01oT31-jThOzkMRxfX9IPNwQ==&c=aEG4ffl_ypng5EpUZmgrOH4UigQJGTUlbRQL-eNZi9s= "Reveal this e-mail address").
 
