@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollarphotoclub.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022042306id_/http%3A//www.dollarphotoclub.com/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarphotoclub.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317224109id_/https%3A//www.dollarphotoclub.com/Info/Privacy) for the most accurate reproduction.*
 
 # Dollar Photo Club - high quality royalty free stock photos and vectors - Dollar Photo Club
 
