@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102220143id_/http%3A//www.scambusters.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317015406id_/http%3A//www.scambusters.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy.html
 
