@@ -1,231 +1,25 @@
-<!--The following is the downloaded HTML source of the bhomes.com privacy policy that was archived on 2014-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701202955id_/http%3A//www.bhomes.com/uae/privacy.xhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bhomes.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317092009id_/http%3A//www.bhomes.com/uae/privacy.xhtml) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Privacy and Security Statement  :: Better Homes :</title>
-<link id="CanonicalTag" rel="canonical" href="http://www.bhomes.com/uae/privacy.xhtml"><link rel="icon" type="image/x-icon" href="/favicon.ico">
-    <script type="text/javascript" async="" src="https://me-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/javascript/jquery-1.10.2.min.js"></script>
-    <script src="/javascript/jquery-ui-1.10.3.custom.js"></script>
-    <script src="/javascript/jquery.selectboxit.js"></script>
-
-        <script>jQuery(function () { jQuery("select").selectBoxIt(); });</script>
-    <script>isMobileReq = false;</script><link href="/css/jquery.selectboxit.css" rel="stylesheet"><link href="/css/jquery-ui-1.10.3.custom.css" rel="stylesheet"><script src="/javascript/jquery.bpopup.min.js"></script><link href="/css/css.css?ver=3.0.4.a.v" rel="stylesheet" type="text/css"><link href="/css/styler-home.css?ver=3.0.4.a.v" rel="stylesheet" type="text/css"><link href="/css/dropdown.css?ver=3.0.4.a.v" rel="stylesheet" type="text/css"><script type="text/javascript" src="/javascript/pagescript.js?ver=3.0.3.3.w"></script><script type="text/javascript" src="/javascript/seolib/seolibrary.js?ver=3.0.3.3.w"></script><link href="/css/cssmyaccount/subscriber.css?ver=3.0.4.a.v" rel="stylesheet"><script src="/javascript/myaccount/subscriber.js?ver=3.0.3.3.w"></script><link href="/css/customcontrols/headeredesign.css?ver=3.0.4.a.v" rel="stylesheet"><script src="/javascript/customcontrols/header-redesign-inputvalidator.js?ver=3.0.3.3.w"></script><script src="/javascript/customcontrols/headerredesign.js?ver=3.0.3.3.w"></script><script src="/javascript/customcontrols/sidebaradvsearc.js?ver=3.0.3.3.w"></script>
-    <script type="text/javascript">
-        jQuery(document).ready(function () {
-           
-            $(document).on('mousedown', 'img', function (e) {
-                if (e.which === 3) {
-
-                    $(this).on('contextmenu', function (e) {
-                        e.preventDefault();
-                    });
-
-                };
-            });
-            var aboutUsp;
-            if (isMobileReq) {
-                aboutUsp = jQuery(".maintextredesign p:last-child");
-                aboutUsp.css('display', 'none');
-                jQuery(".maintextredesign").find(".gray-color").append("<div style=width:346px;' id='readmoreabt'><a style='font-size: 30px !important;font-weight: bold;color:#002D72;text-decoration: underline;'>Read more about us </a><span style='    border-left: 10px solid rgba(0, 0, 0, 0);border-right: 10px solid rgba(0, 0, 0, 0);border-top: 15px solid #002D72;cursor: pointer;float: right;height: 0;margin-left: 0;margin-top: 4%;width: 0;'></span></div>");
-
-            }
-
-            jQuery('#readmoreabt').click(function () {
-                aboutUsp.css('display', 'Block');
-                jQuery(this).css('display', 'none');
-            });
-
-            if (isMobileReq) {
-                jQuery('.currentmenuclicker').click(function () {
-                    noNeedToHideMenu = true;
-                    if (jQuery(this).attr('mainclicker') == "true") {
-                        jQuery(this).parent().siblings().find('.currentmenuclicker').next().hide();
-                        jQuery(this).parent().siblings().find('.currentmenuclicker').find('.plusMenuIcon').text('(+)');
-                    }
-                    if (jQuery(this).next().is(":visible")) {
-                        jQuery(this).next().hide();
-                        jQuery(this).find('.plusMenuIcon').text('(+)');
-
-                    }
-                    else {
-                        jQuery(this).next().show();
-                        jQuery(this).find('.plusMenuIcon').text('(-)');
-
-                    }
-                });
-
-            }
-            $('.buy').hover(hoverIn, hoverOut);
-        });
-        var counter = 1;
-        var maxposition = 1090;
-       
-        function hoverIn() {
-            var currentMenu;
-            currentMenu = $(this);
-            if (currentMenu != 'selected') {
-                var currentMenuDivWidth = currentMenu.width();
-                var menuOffset = currentMenu.offset();
-                $('#selectDiv').css({ width: currentMenuDivWidth });
-                $('#selectDiv').offset({ left: menuOffset.left });
-                $('#selectDiv').show();
-                $(this).find("a").css("color", "#D4007A");
-            }
-        }
-        function hoverOut() {
-            currentMenu = $(this);
-            $('#selectDiv').css({ width: '0' });
-            if (currentMenu != 'selected') {
-                $(this).find("a").css("color", "#233567");
-            }
-        }
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-4846003-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-        var clickflag = false;
-        jQuery(document).ready(function () {
-            jQuery('#ddl').children().each(function () {
-                if (jQuery('#countryName').text() == $(this).text()) {
-                    jQuery('.bh-logo').attr('href', jQuery(this).find('a').attr('href'));
-                    jQuery('.logo-btm1').attr('href', jQuery(this).find('a').attr('href'))
-                    jQuery(this).remove();
-
-                }
-            });
-            jQuery(document).click(function (e) {
-                if (jQuery((e.target || e.srcElement)).parent().attr('customddl') === 'yes') {
-                    var currentDDLParent = jQuery((e.target || e.srcElement)).parent();
-                    if (currentDDLParent.find(".dropdownlist").is(":visible")) {
-                        currentDDLParent.find(".dropdownlist").fadeOut(800);
-                    }
-                    else {
-                        jQuery(".dropdownlist").fadeOut(800);
-                        currentDDLParent.find(".dropdownlist").fadeIn(800);
-                    }
-                }
-                else {
-                    if (jQuery(".dropdownlist").is(":visible")) {
-                        jQuery(".dropdownlist").fadeOut(800);
-                    }
-                }
-
-
-
-            });
-            $('#menubtn').on('click', function (e) {
-                HideAndShowMobileMenus()
-            });
-            jQuery('body').click(function () {
-                if (!noNeedToHideMenu) {
-                    jQuery('#menuimg').attr('src', '/images/menu-img.jpg');
-                    if (isMobileReq) {
-                        jQuery('.menu-mob').addClass('menuclickeractive')
-                    } else {
-                        jQuery('.menu-mob').hide();
-                    }
-                    jQuery('#menu-container').hide('slide', { direction: 'left' }, 150, function () {
-                        jQuery('.menu-mob').css('display', 'inline');
-                        jQuery('.menutxt').show();
-                    });
-
-                    jQuery('#signinandflag-cont').css('display', 'block');
-                }
-
-                noNeedToHideMenu = false;
-            });
-        });
-        var noNeedToHideMenu = false;
-        function HideAndShowMobileMenus() {
-            if (jQuery("#menu-container").is(":visible") == true) {
-                jQuery('#menuimg').attr('src', '/images/menu-img.jpg');
-                if (isMobileReq) {
-                    jQuery('.menu-mob').addClass('menuclickeractive')
-                } else {
-                    jQuery('.menu-mob').hide();
-                }
-                jQuery('#menu-container').hide('slide', { direction: 'left' }, 150, function () {
-                    jQuery('.menu-mob').css('display', 'inline');
-                    jQuery('.menutxt').show();
-                });
-
-                jQuery('#signinandflag-cont').css('display', 'block');
-            }
-            else {
-                noNeedToHideMenu = true;
-                if (!isMobileReq) {
-                    jQuery('.menu-mob').hide();
-                }
-                jQuery('#menu-container').show('slide', { direction: 'left' }, 150, function () {
-                    jQuery('#menuimg').attr('src', "/images/menu-img2.jpg");
-                    jQuery('.menu-mob').css('display', 'inline');
-                    jQuery('.menu-mob').css('margin-left', '0');
-                    jQuery('.menu-mob').removeClass('menuclickeractive')
-
-                });
-                jQuery('.menutxt').hide();
-                if (isMobileReq) {
-                    jQuery('#signinandflag-cont').css('display', 'none');
-                }
-            }
-        }
-    </script>
-    </head>
-<body style="">
-    <!-- Start New Tag Implementation -->
-    <script type="text/javascript">
-        (function () {
-            var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
-            em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
-        })();
-    </script>
-    <noscript>
-	<img src="//me.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
-	</noscript>
-    <!--End New Tag Implementation -->
-    
-
-                    <style>
-        /* Important! Give the content div a position relative */
-#floatingContents{
- position: relative;
-}
-#share_buttons_single_page img{
- background: none;
- border: none;
- padding: 0;
- margin: 0;
-}
-#share_buttons_wrapper { 
- position: absolute;    
- top:52px;
-}
-#share_buttons_single_page{
-     padding: 10px 8px 0px 9px;
-    background:url(/images/social/social-bg.png) repeat scroll 0 0 transparent;
- position:absolute;
- text-align: left;
- height: 144px;
- width: 34px;
-
-}
-#share_buttons_single_page.fixed {    
- position: fixed; 
-
-}
-#share_buttons_single_page .wdt_button{
- float:left;
- clear:left;
- margin-bottom: 12px;
-}
-
-
-    </style>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Privacy and Security Statement of Better Homes Website</title>
+<meta name="description" content="Do not hesitate to provide required personal information when it is asked. Better Homes LLC will never disappoint you. We are capable to protect privacy of everyone dealing with us.">
+<link id="CanonicalTag" rel="canonical" href="http://www.bhomes.com/uae/privacy.xhtml"><link rel="icon" type="image/x-icon" href="/favicon.ico"><link href="/css/jquery.selectboxit.css" rel="stylesheet"><link href="/css/jquery-ui-1.10.3.custom.css" rel="stylesheet"><link href="/css/css.css?ver=3.0.a.e.s" rel="stylesheet" type="text/css"><link href="/css/styler-home.css?ver=3.0.a.e.s" rel="stylesheet" type="text/css"><link href="/css/dropdown.css?ver=3.0.a.e.s" rel="stylesheet" type="text/css"><link href="/css/cssinline.css?ver=3.0.a.e.s" rel="stylesheet"><link href="/css/cssmyaccount/subscriber.css?ver=3.0.a.e.s" rel="stylesheet"><link href="/css/customcontrols/headeredesign.css?ver=3.0.a.e.s" rel="stylesheet"><link href="/css/customcontrols/sidebarcss.css?ver=3.0.a.e.s" rel="stylesheet">
+	<script type="text/javascript" async="" src="https://me-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-4846003-1']);
+		  _gaq.push(['_setDomainName', 'bhomes.com']);
+          _gaq.push(['_trackPageview']);
+          (function () {
+              var ga = document.createElement('script');
+              ga.type = 'text/javascript';
+              ga.async = true;
+              ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+              var s = document.getElementsByTagName('script')[0];
+              s.parentNode.insertBefore(ga, s);
+          })();
+</script>	
+</head>
+<body style="">    
+      
     <div id="floatingContents">
     <div id="share_buttons_wrapper">
         <div id="share_buttons_single_page">
@@ -242,164 +36,16 @@
         </div>
     </div>
 </div>
-
-<script type="text/javascript">
-    jQuery(function () {
-        jQuery('.backTop').hide();
-        var msie6 = jQuery.browser == 'msie' && jQuery.browser.version < 7;
-        if (!msie6 && jQuery('#share_buttons_single_page').length != 0) {
-            var top = jQuery('#share_buttons_single_page').offset().top - parseFloat(jQuery('#share_buttons_single_page').css('margin-top').replace(/auto/, 0));
-
-            jQuery(window).scroll(function (event) {
-
-                // what the y position of the scroll is
-
-                var y = jQuery(this).scrollTop();
-                // whether that's below the form
-                if (y >= 0) {
-                    // if so, ad the fixed class
-                    jQuery('#share_buttons_single_page').addClass('fixed');
-                    //jQuery('.backTop:hidden').stop(true, true).fadeIn('slow');
-
-                } else {
-                    // otherwise remove it
-                    jQuery('#share_buttons_single_page').removeClass('fixed');
-                    //$('.backTop').stop(true, true).fadeOut();
-
-                }
-            });
-        }
-
-        // scroll body to 0px on click
-        //sjQuery('.backTop').click(function () {
-        //    jQuery('body,html').animate({
-        //        scrollTop: 0
-        //    }, 1000, function () {
-        //      //  jQuery(this).hide();
-        //    });
-
-        //    return false;
-        //});
-    });
-</script>
-
                  
     <form method="post" action="privacy.xhtml" id="form1">
 <div class="aspNetHidden">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="111">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUINDg3MjAwOTEP">
-<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="ZBYCZg9kFgQCAQ9kFggC">
-<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="Aw8WAh4EaHJlZgUnaHR0">
-<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="cDovL3d3dy5iaG9tZXMu">
-<input type="hidden" name="__VIEWSTATE4" id="__VIEWSTATE4" value="Y29tL3VhZS9wcml2YWN5">
-<input type="hidden" name="__VIEWSTATE5" id="__VIEWSTATE5" value="LnhodG1sZAIGDxYCHgRU">
-<input type="hidden" name="__VIEWSTATE6" id="__VIEWSTATE6" value="ZXh0BSU8c2NyaXB0Pmlz">
-<input type="hidden" name="__VIEWSTATE7" id="__VIEWSTATE7" value="TW9iaWxlUmVxID0gZmFs">
-<input type="hidden" name="__VIEWSTATE8" id="__VIEWSTATE8" value="c2U7PC9zY3JpcHQ+ZAIH">
-<input type="hidden" name="__VIEWSTATE9" id="__VIEWSTATE9" value="DxYCHwEFyQg8bGluayBo">
-<input type="hidden" name="__VIEWSTATE10" id="__VIEWSTATE10" value="cmVmPScvY3NzL2pxdWVy">
-<input type="hidden" name="__VIEWSTATE11" id="__VIEWSTATE11" value="eS5zZWxlY3Rib3hpdC5j">
-<input type="hidden" name="__VIEWSTATE12" id="__VIEWSTATE12" value="c3MnIHJlbD0nc3R5bGVz">
-<input type="hidden" name="__VIEWSTATE13" id="__VIEWSTATE13" value="aGVldCcgLz48bGluayBo">
-<input type="hidden" name="__VIEWSTATE14" id="__VIEWSTATE14" value="cmVmPScvY3NzL2pxdWVy">
-<input type="hidden" name="__VIEWSTATE15" id="__VIEWSTATE15" value="eS11aS0xLjEwLjMuY3Vz">
-<input type="hidden" name="__VIEWSTATE16" id="__VIEWSTATE16" value="dG9tLmNzcycgcmVsPSdz">
-<input type="hidden" name="__VIEWSTATE17" id="__VIEWSTATE17" value="dHlsZXNoZWV0JyAvPjxz">
-<input type="hidden" name="__VIEWSTATE18" id="__VIEWSTATE18" value="Y3JpcHQgc3JjPScvamF2">
-<input type="hidden" name="__VIEWSTATE19" id="__VIEWSTATE19" value="YXNjcmlwdC9qcXVlcnku">
-<input type="hidden" name="__VIEWSTATE20" id="__VIEWSTATE20" value="YnBvcHVwLm1pbi5qcyc+">
-<input type="hidden" name="__VIEWSTATE21" id="__VIEWSTATE21" value="PC9zY3JpcHQ+PGxpbmsg">
-<input type="hidden" name="__VIEWSTATE22" id="__VIEWSTATE22" value="aHJlZj0nL2Nzcy9jc3Mu">
-<input type="hidden" name="__VIEWSTATE23" id="__VIEWSTATE23" value="Y3NzP3Zlcj0zLjAuNC5h">
-<input type="hidden" name="__VIEWSTATE24" id="__VIEWSTATE24" value="LnYnIHJlbD0nc3R5bGVz">
-<input type="hidden" name="__VIEWSTATE25" id="__VIEWSTATE25" value="aGVldCcgdHlwZT0ndGV4">
-<input type="hidden" name="__VIEWSTATE26" id="__VIEWSTATE26" value="dC9jc3MnIC8+PGxpbmsg">
-<input type="hidden" name="__VIEWSTATE27" id="__VIEWSTATE27" value="aHJlZj0nL2Nzcy9zdHls">
-<input type="hidden" name="__VIEWSTATE28" id="__VIEWSTATE28" value="ZXItaG9tZS5jc3M/dmVy">
-<input type="hidden" name="__VIEWSTATE29" id="__VIEWSTATE29" value="PTMuMC40LmEudicgcmVs">
-<input type="hidden" name="__VIEWSTATE30" id="__VIEWSTATE30" value="PSdzdHlsZXNoZWV0JyB0">
-<input type="hidden" name="__VIEWSTATE31" id="__VIEWSTATE31" value="eXBlPSd0ZXh0L2Nzcycg">
-<input type="hidden" name="__VIEWSTATE32" id="__VIEWSTATE32" value="Lz48bGluayBocmVmPScv">
-<input type="hidden" name="__VIEWSTATE33" id="__VIEWSTATE33" value="Y3NzL2Ryb3Bkb3duLmNz">
-<input type="hidden" name="__VIEWSTATE34" id="__VIEWSTATE34" value="cz92ZXI9My4wLjQuYS52">
-<input type="hidden" name="__VIEWSTATE35" id="__VIEWSTATE35" value="JyByZWw9J3N0eWxlc2hl">
-<input type="hidden" name="__VIEWSTATE36" id="__VIEWSTATE36" value="ZXQnIHR5cGU9J3RleHQv">
-<input type="hidden" name="__VIEWSTATE37" id="__VIEWSTATE37" value="Y3NzJyAvPjxzY3JpcHQg">
-<input type="hidden" name="__VIEWSTATE38" id="__VIEWSTATE38" value="dHlwZT0ndGV4dC9qYXZh">
-<input type="hidden" name="__VIEWSTATE39" id="__VIEWSTATE39" value="c2NyaXB0JyBzcmM9Jy9q">
-<input type="hidden" name="__VIEWSTATE40" id="__VIEWSTATE40" value="YXZhc2NyaXB0L3BhZ2Vz">
-<input type="hidden" name="__VIEWSTATE41" id="__VIEWSTATE41" value="Y3JpcHQuanM/dmVyPTMu">
-<input type="hidden" name="__VIEWSTATE42" id="__VIEWSTATE42" value="MC4zLjMudyc+PC9zY3Jp">
-<input type="hidden" name="__VIEWSTATE43" id="__VIEWSTATE43" value="cHQ+PHNjcmlwdCB0eXBl">
-<input type="hidden" name="__VIEWSTATE44" id="__VIEWSTATE44" value="PSd0ZXh0L2phdmFzY3Jp">
-<input type="hidden" name="__VIEWSTATE45" id="__VIEWSTATE45" value="cHQnIHNyYz0nL2phdmFz">
-<input type="hidden" name="__VIEWSTATE46" id="__VIEWSTATE46" value="Y3JpcHQvc2VvbGliL3Nl">
-<input type="hidden" name="__VIEWSTATE47" id="__VIEWSTATE47" value="b2xpYnJhcnkuanM/dmVy">
-<input type="hidden" name="__VIEWSTATE48" id="__VIEWSTATE48" value="PTMuMC4zLjMudyc+PC9z">
-<input type="hidden" name="__VIEWSTATE49" id="__VIEWSTATE49" value="Y3JpcHQ+PGxpbmsgaHJl">
-<input type="hidden" name="__VIEWSTATE50" id="__VIEWSTATE50" value="Zj0nL2Nzcy9jc3NteWFj">
-<input type="hidden" name="__VIEWSTATE51" id="__VIEWSTATE51" value="Y291bnQvc3Vic2NyaWJl">
-<input type="hidden" name="__VIEWSTATE52" id="__VIEWSTATE52" value="ci5jc3M/dmVyPTMuMC40">
-<input type="hidden" name="__VIEWSTATE53" id="__VIEWSTATE53" value="LmEudicgcmVsPSdzdHls">
-<input type="hidden" name="__VIEWSTATE54" id="__VIEWSTATE54" value="ZXNoZWV0JyAvPjxzY3Jp">
-<input type="hidden" name="__VIEWSTATE55" id="__VIEWSTATE55" value="cHQgc3JjPScvamF2YXNj">
-<input type="hidden" name="__VIEWSTATE56" id="__VIEWSTATE56" value="cmlwdC9teWFjY291bnQv">
-<input type="hidden" name="__VIEWSTATE57" id="__VIEWSTATE57" value="c3Vic2NyaWJlci5qcz92">
-<input type="hidden" name="__VIEWSTATE58" id="__VIEWSTATE58" value="ZXI9My4wLjMuMy53Jz48">
-<input type="hidden" name="__VIEWSTATE59" id="__VIEWSTATE59" value="L3NjcmlwdD48bGluayBo">
-<input type="hidden" name="__VIEWSTATE60" id="__VIEWSTATE60" value="cmVmPScvY3NzL2N1c3Rv">
-<input type="hidden" name="__VIEWSTATE61" id="__VIEWSTATE61" value="bWNvbnRyb2xzL2hlYWRl">
-<input type="hidden" name="__VIEWSTATE62" id="__VIEWSTATE62" value="cmVkZXNpZ24uY3NzP3Zl">
-<input type="hidden" name="__VIEWSTATE63" id="__VIEWSTATE63" value="cj0zLjAuNC5hLnYnIHJl">
-<input type="hidden" name="__VIEWSTATE64" id="__VIEWSTATE64" value="bD0nc3R5bGVzaGVldCcg">
-<input type="hidden" name="__VIEWSTATE65" id="__VIEWSTATE65" value="Lz48c2NyaXB0IHNyYz0n">
-<input type="hidden" name="__VIEWSTATE66" id="__VIEWSTATE66" value="L2phdmFzY3JpcHQvY3Vz">
-<input type="hidden" name="__VIEWSTATE67" id="__VIEWSTATE67" value="dG9tY29udHJvbHMvaGVh">
-<input type="hidden" name="__VIEWSTATE68" id="__VIEWSTATE68" value="ZGVyLXJlZGVzaWduLWlu">
-<input type="hidden" name="__VIEWSTATE69" id="__VIEWSTATE69" value="cHV0dmFsaWRhdG9yLmpz">
-<input type="hidden" name="__VIEWSTATE70" id="__VIEWSTATE70" value="P3Zlcj0zLjAuMy4zLncn">
-<input type="hidden" name="__VIEWSTATE71" id="__VIEWSTATE71" value="Pjwvc2NyaXB0PjxzY3Jp">
-<input type="hidden" name="__VIEWSTATE72" id="__VIEWSTATE72" value="cHQgc3JjPScvamF2YXNj">
-<input type="hidden" name="__VIEWSTATE73" id="__VIEWSTATE73" value="cmlwdC9jdXN0b21jb250">
-<input type="hidden" name="__VIEWSTATE74" id="__VIEWSTATE74" value="cm9scy9oZWFkZXJyZWRl">
-<input type="hidden" name="__VIEWSTATE75" id="__VIEWSTATE75" value="c2lnbi5qcz92ZXI9My4w">
-<input type="hidden" name="__VIEWSTATE76" id="__VIEWSTATE76" value="LjMuMy53Jz48L3Njcmlw">
-<input type="hidden" name="__VIEWSTATE77" id="__VIEWSTATE77" value="dD48c2NyaXB0IHNyYz0n">
-<input type="hidden" name="__VIEWSTATE78" id="__VIEWSTATE78" value="L2phdmFzY3JpcHQvY3Vz">
-<input type="hidden" name="__VIEWSTATE79" id="__VIEWSTATE79" value="dG9tY29udHJvbHMvc2lk">
-<input type="hidden" name="__VIEWSTATE80" id="__VIEWSTATE80" value="ZWJhcmFkdnNlYXJjLmpz">
-<input type="hidden" name="__VIEWSTATE81" id="__VIEWSTATE81" value="P3Zlcj0zLjAuMy4zLncn">
-<input type="hidden" name="__VIEWSTATE82" id="__VIEWSTATE82" value="Pjwvc2NyaXB0PmQCCA8W">
-<input type="hidden" name="__VIEWSTATE83" id="__VIEWSTATE83" value="Ah8BZWQCBQ9kFgwCBQ8W">
-<input type="hidden" name="__VIEWSTATE84" id="__VIEWSTATE84" value="Ah8BBTI8ZGl2IGNsYXNz">
-<input type="hidden" name="__VIEWSTATE85" id="__VIEWSTATE85" value="PSdlbXB0eURpdiBjbS1u">
-<input type="hidden" name="__VIEWSTATE86" id="__VIEWSTATE86" value="byc+Kzk3MSA2MDAgNTIg">
-<input type="hidden" name="__VIEWSTATE87" id="__VIEWSTATE87" value="MjIxMjwvZGl2PmQCCQ8W">
-<input type="hidden" name="__VIEWSTATE88" id="__VIEWSTATE88" value="Ah4Fc3R5bGUFTmJhY2tn">
-<input type="hidden" name="__VIEWSTATE89" id="__VIEWSTATE89" value="cm91bmQ6dXJsKC91cGxv">
-<input type="hidden" name="__VIEWSTATE90" id="__VIEWSTATE90" value="YWRlZGltYWdlcy9mbGFn">
-<input type="hidden" name="__VIEWSTATE91" id="__VIEWSTATE91" value="cy9VQUUuZ2lmKSBuby1y">
-<input type="hidden" name="__VIEWSTATE92" id="__VIEWSTATE92" value="ZXBlYXQgc2Nyb2xsIDAg">
-<input type="hidden" name="__VIEWSTATE93" id="__VIEWSTATE93" value="MCB0cmFuc3BhcmVudGQC">
-<input type="hidden" name="__VIEWSTATE94" id="__VIEWSTATE94" value="Cw8WAh4JaW5uZXJodG1s">
-<input type="hidden" name="__VIEWSTATE95" id="__VIEWSTATE95" value="BQNVQUVkAg8PFgIfAAUR">
-<input type="hidden" name="__VIEWSTATE96" id="__VIEWSTATE96" value="L3VhZS9zaWdudXAueGh0">
-<input type="hidden" name="__VIEWSTATE97" id="__VIEWSTATE97" value="bWxkAhUPFgIfAQUiPC9k">
-<input type="hidden" name="__VIEWSTATE98" id="__VIEWSTATE98" value="aXY+PGRpdiBjbGFzcz0n">
-<input type="hidden" name="__VIEWSTATE99" id="__VIEWSTATE99" value="Ymx1ZWxpbmUnPjwvZGl2">
-<input type="hidden" name="__VIEWSTATE100" id="__VIEWSTATE100" value="PmQCHQ9kFgICAw9kFgJm">
-<input type="hidden" name="__VIEWSTATE101" id="__VIEWSTATE101" value="D2QWAgJJDxBkDxYHZgIB">
-<input type="hidden" name="__VIEWSTATE102" id="__VIEWSTATE102" value="AgICAwIEAgUCBhYHEAUD">
-<input type="hidden" name="__VIEWSTATE103" id="__VIEWSTATE103" value="QUVEBQNBRURnEAUDRVVS">
-<input type="hidden" name="__VIEWSTATE104" id="__VIEWSTATE104" value="BQNFVVJnEAUDR0JQBQNH">
-<input type="hidden" name="__VIEWSTATE105" id="__VIEWSTATE105" value="QlBnEAUDUEtSBQNQS1Jn">
-<input type="hidden" name="__VIEWSTATE106" id="__VIEWSTATE106" value="EAUDVVNEBQNVU0RnEAUD">
-<input type="hidden" name="__VIEWSTATE107" id="__VIEWSTATE107" value="SVJSBQNJUlJnEAUDSU5S">
-<input type="hidden" name="__VIEWSTATE108" id="__VIEWSTATE108" value="BQNJTlJnZGRkTbO/gIjd">
-<input type="hidden" name="__VIEWSTATE109" id="__VIEWSTATE109" value="ZScsYOAkkIykDuzP6nvV">
-<input type="hidden" name="__VIEWSTATE110" id="__VIEWSTATE110" value="s0/gMWaDveXD+dM=">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="4">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUINDg3MjAwOTFk">
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="ZDF8dE5w74YX/1Pj3/X8">
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="1XdoI5PnXx1JSMsDAYFq">
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="AyZp">
 </div>
 
 <script type="text/javascript">
@@ -419,6 +65,10 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90059987">
+</div>
        
         
 
@@ -452,7 +102,7 @@ function __doPostBack(eventTarget, eventArgument) {
                 <input id="txtContactNoSub" type="text" name="txtContactNoSub" maxlength="10">
             </li>
             <li>
-                <label></label>
+                <label class="dummynos"></label>
                 <sub>+971</sub><sub>050</sub><sub>0000000</sub></li>
             <li>
                 <label></label>
@@ -468,31 +118,16 @@ function __doPostBack(eventTarget, eventArgument) {
      <input name="ctl00$usersubscriber$act" type="hidden" id="usersubscriber_act" clienidmode="static">
      <input name="ctl00$usersubscriber$Country_pk" type="hidden" id="usersubscriber_Country_pk" clienidmode="static">
 </div>
-<div id="notificationAlert" style="background-color: #F5F5F6; left: 30%; top: 20%; position: absolute; display: none; width: 380px; height: 110px">
-    <div style="height: 35px;" class="new_popup_header">
-        <div class="new_popup_title" style="width: 290px; margin-left: 15px; margin-top: 7px; font-size: 16px !important;">Notification</div>
+<div id="notificationAlert" class="notificationAlert">
+    <div class="new_popup_header">
+        <div class="new_popup_title">Notification</div>
         <span class="new_popup_closeCross b-close"></span>
     </div>
-    <div style="margin: 20px 5px 5px 15px">
-        <span id="msg" style="float: left; margin-top: 5px; font-size: 14px;width:360px;"></span>
+    <div class="notificationAlert-btn">
+        <span id="msg"></span>
         <span id="notificationAlertOk" class="ctab pink-srch">Ok</span>
     </div>
 </div>
-<style>
-    
-.ctab {
-    color: #000000;
-    cursor: pointer;
-    float: left;
-    height: 15px;
-     margin: 3px 12px 0 100px;
-    padding: 4px;
-    text-align: center;
-    width: 115px;
-}
-
-
-</style>
         <input type="hidden" name="ctl00$hidfilepath" id="hidfilepath">
          
         <div class="pge-cntrl">
@@ -500,12 +135,12 @@ function __doPostBack(eventTarget, eventArgument) {
           <div class="header">
             <div class="main-div">
               <div class="boxshadow">
-                <div class="header1"><div style="float:left;width:200px;height:50px;"><a class="bh-logo" href="/"></a></div> <div class="emptyDiv cm-no">+971 600 52 2212</div>
+                <div class="header1"><div class="bh-logo-div"><a class="bh-logo" href="/"></a></div> <div class="emptyDiv cm-no">+971 600 52 2233</div>
                    
                   
                     <div id="signinandflag-cont">
                     <div id="ddltxt" customddl="yes">
-                      <div id="countryFlag" class="flag2" style="background:url(/uploadedimages/flags/UAE.gif) no-repeat scroll 0 0 transparent">&nbsp;&nbsp;&nbsp;</div>
+                      <div id="countryFlag" class="flagUAE">&nbsp;&nbsp;&nbsp;</div>
                         <div class="myact-uae">
                           <div class="flag" customddl="yes">
                             <div id="countryName">UAE</div>
@@ -513,7 +148,7 @@ function __doPostBack(eventTarget, eventArgument) {
                                 <li><a href="/jordan/index.xhtml">&nbsp;Jordan&nbsp;</a></li>
                                 <li><a href="/qatar/index.xhtml">&nbsp;Qatar&nbsp;</a></li>
                                 <li><a href="/oman/index.xhtml">&nbsp;Oman&nbsp;</a></li>
-                                
+                                <li><a href="/">UAE</a></li>
                               </ul>
                             </div>
                           </div>
@@ -539,30 +174,35 @@ function __doPostBack(eventTarget, eventArgument) {
     <div class="contentdiv">        
         <div class="left_area">
             
-
-<style>
-    .ui-menu .ui-menu-item{float:left;height:auto !important;}
-    .ui-autocomplete{width: 171px !important;}
-    #ddlCategorySelectBoxIt{width: 173px !important;}
-   .pink-srch {height: 15px;padding-bottom: 8px;padding-top: 6px !important;width: 100px;margin-right:9px;border-radius: 2px 2px 2px 2px;}
-    #mainContentsPlaceHolder_ctl00_hdnMainUnitModelSelectBoxItContainer,#mainContentsPlaceHolder_ctl00_hdnMainUnitModelSelectBoxIt {height:30px !important
+<style type="text/css">
+    .ui-autocomplete {
+    width: 171px !important;
+}
+    @media screen and (-webkit-min-device-pixel-ratio: 0) {
+        .ui-menu .ui-menu-item a {
+            width: 94%  !important;
+        }
     }
 </style>
+<script>
+    Headercontrol=false;
+</script>
+
 
 <div class="searching_area">
     <ul>
-       <div style="float:left;width:100%;margin-bottom: 28px;">
-             <a style="width: 35%; float: left; margin-top: -15px;" id="linkAgent" href="/agents/search.aspx?index=0&amp;size=10&amp;ls=Rating&amp;lsc=-1,-1,-1">  <div class="search2"><img width="20" height="27" src="/images/mobile/agentmob.png" style="margin: 8px 6px 4px 12px;"><div class="searchbyschoolorMap">Agent search</div></div>
+       <div class="agent_map_btn">
+             <a id="linkAgent" href="/agents/search.aspx?index=0&amp;size=10&amp;ls=Rating&amp;lsc=-1,-1,-1">  <div class="search2"><img width="20" height="27" src="/images/mobile/agentmob.png"><div class="searchbyschoolorMap">Agent search</div></div>
         </a>
-   <a style="width:auto; float: left; margin-top: -15px;" id="linkDraw" href="/property/mapsearch.xhtml">  <div class="search2"><img width="30" height="32" src="/images/mobile/drawsearchmob.png" style="margin: 6px 6px 5px 8px"><div class="searchbyschoolorMap2">Draw search</div></div>
+   <a id="linkDraw" href="/property/mapsearch.xhtml">  <div class="search2"><img width="30" height="32" src="/images/mobile/drawsearchmob.png"><div class="searchbyschoolorMap2">Draw search</div></div>
         </a>
   
       </div> 
         <div class="search_r">
-            <input type="text" autocorrect="off" autocapitalize="off" spellcheck="false" maxlength="100" size="45" value="Enter location" class="main-srch-input" id="txtKeyword" onfocus="autoHide(this);" onblur="autoHide(this);" name="bh" style="font-size: 13px;">
-            <input type="text" autocorrect="off" autocapitalize="off" spellcheck="false" maxlength="100" size="45" value="Unit Ref# e.g. AP5678,AP5679" class="main-srch-input" name="bh" id="txtKeywordRefNo" style="display: none; font-size: 13px;" onfocus="autoHideRefNo(this);" onblur="autoHideRefNo(this);">
-            <input type="text" autocorrect="off" autocapitalize="off" spellcheck="false" maxlength="100" size="45" value="Search By Agent e.g. Paul Smith" class="main-srch-input" name="bh" id="txtKeywordAgent" style="font-size: 13px;" onfocus="autoHideAgent(this);" onblur="autoHideAgent(this);">
-            <input type="text" autocorrect="off" autocapitalize="off" spellcheck="false" maxlength="100" size="45" value="Enter location" class="main-srch-input" name="bh" id="txtKeywordStr" onfocus="autoHide(this);" onblur="autoHide(this);" style="display: none; font-size: 13px;">
+            <input type="text" autocorrect="off" autocapitalize="off" spellcheck="false" maxlength="100" size="45" value="Enter location" class="main-srch-input" id="txtKeyword" onfocus="autoHide(this);" onblur="autoHide(this);" name="bh">
+            <input type="text" autocorrect="off" autocapitalize="off" spellcheck="false" maxlength="200" style="display:none" size="45" value="Unit Ref# e.g. AP5678,AP5679" class="main-srch-input" name="bh" id="txtKeywordRefNo" onfocus="autoHideRefNo(this);" onblur="autoHideRefNo(this);">
+            <input type="text" autocorrect="off" autocapitalize="off" spellcheck="false" maxlength="100" style="display:none" size="45" value="Search By Agent e.g. Paul Smith" class="main-srch-input" name="bh" id="txtKeywordAgent" onfocus="autoHideAgent(this);" onblur="autoHideAgent(this);">
+            <input type="text" autocorrect="off" autocapitalize="off" spellcheck="false" maxlength="100" style="display:none" size="45" value="Enter location" class="main-srch-input" name="bh" id="txtKeywordStr" onfocus="autoHide(this);" onblur="autoHide(this);">
             <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlCategory" id="ddlCategory" onchange="onSelectedIndexChange(this);return false;" style="display: none;">
 	<option value="10">All</option>
 	<option selected="selected" value="1">Residential</option>
@@ -571,32 +211,39 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="5">Reference No</option>
 	<option value="4">Agent</option>
 
-</select><span id="ddlCategorySelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlCategorySelectBoxItOptions"><span id="ddlCategorySelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlCategory" tabindex="0" unselectable="on" style="width: 203px;"><span class="selectboxit-option-icon-container"><i id="ddlCategorySelectBoxItDefaultIcon" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on"></i></span><span id="ddlCategorySelectBoxItText" class="selectboxit-text" unselectable="on" data-val="1" aria-live="polite" style="max-width: 1280px;">Residential</span><span id="ddlCategorySelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlCategorySelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlCategorySelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 173px;"><li id="0" data-val="10" data-disabled="false" class="selectboxit-option  selectboxit-option-first" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All</a></li><li id="1" data-val="1" data-disabled="false" class="selectboxit-option selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Residential</a></li><li id="2" data-val="2" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Commercial</a></li><li id="3" data-val="3" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Short Stays</a></li><li id="4" data-val="5" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Reference No</a></li><li id="5" data-val="4" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Agent</a></li></ul></span>
+</select><span id="ddlCategorySelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlCategorySelectBoxItOptions"><span id="ddlCategorySelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlCategory" tabindex="0" unselectable="on" style="width: 125px;"><span class="selectboxit-option-icon-container"><i id="ddlCategorySelectBoxItDefaultIcon" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on"></i></span><span id="ddlCategorySelectBoxItText" class="selectboxit-text" unselectable="on" data-val="1" aria-live="polite" style="max-width: 1280px;">Residential</span><span id="ddlCategorySelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlCategorySelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlCategorySelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 125px;"><li id="0" data-val="10" data-disabled="false" class="selectboxit-option  selectboxit-option-first" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All</a></li><li id="1" data-val="1" data-disabled="false" class="selectboxit-option selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Residential</a></li><li id="2" data-val="2" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Commercial</a></li><li id="3" data-val="3" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Short Stays</a></li><li id="4" data-val="5" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Reference No</a></li><li id="5" data-val="4" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Agent</a></li></ul></span>
             <div id="unitTypeRes">
                 <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlUnitTypeForResCategory" id="ddlUnitTypeForResCategory" onchange="onSelectedIndexChangeUnitType(this);" style="display: none;">
-	<option selected="selected" value="All Residential">All</option>
-	<option value="Villa">Villa</option>
-	<option value="Apartment">Apartment</option>
+	<option selected="selected" value="All Residential" catid="1">All</option>
+	<option value="Villa" catid="1">Villa</option>
+	<option value="Apartment" catid="1">Apartment</option>
+	<option value="Townhouse" catid="1">Townhouse</option>
+	<option value="Residential Land" catid="2">Residential Land</option>
+	<option value="Residential Building" catid="2">Residential Building</option>
 
-</select><span id="ddlUnitTypeForResCategorySelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlUnitTypeForResCategorySelectBoxItOptions"><span id="ddlUnitTypeForResCategorySelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlUnitTypeForResCategory" tabindex="0" unselectable="on" style="width: 104px;"><span class="selectboxit-option-icon-container"><i id="ddlUnitTypeForResCategorySelectBoxItDefaultIcon" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on"></i></span><span id="ddlUnitTypeForResCategorySelectBoxItText" class="selectboxit-text" unselectable="on" data-val="All Residential" aria-live="polite" style="max-width: 1280px;">All</span><span id="ddlUnitTypeForResCategorySelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlUnitTypeForResCategorySelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlUnitTypeForResCategorySelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 104px;"><li id="0" data-val="All Residential" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All</a></li><li id="1" data-val="Villa" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Villa</a></li><li id="2" data-val="Apartment" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Apartment</a></li></ul></span>
+</select><span id="ddlUnitTypeForResCategorySelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlUnitTypeForResCategorySelectBoxItOptions"><span id="ddlUnitTypeForResCategorySelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlUnitTypeForResCategory" tabindex="0" unselectable="on" style="width: 162px;"><span class="selectboxit-option-icon-container"><i id="ddlUnitTypeForResCategorySelectBoxItDefaultIcon" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on"></i></span><span id="ddlUnitTypeForResCategorySelectBoxItText" class="selectboxit-text" unselectable="on" data-val="All Residential" aria-live="polite" style="max-width: 1280px;">All</span><span id="ddlUnitTypeForResCategorySelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlUnitTypeForResCategorySelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlUnitTypeForResCategorySelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 162px;"><li id="0" data-val="All Residential" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All</a></li><li id="1" data-val="Villa" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Villa</a></li><li id="2" data-val="Apartment" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Apartment</a></li><li id="3" data-val="Townhouse" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Townhouse</a></li><li id="4" data-val="Residential Land" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Residential Land</a></li><li id="5" data-val="Residential Building" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Residential Building</a></li></ul></span>
             </div>
             <div id="unitTypeCom">
                 <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlUnitTypeForCommCategory" id="ddlUnitTypeForCommCategory" onchange="onSelectedIndexChangeUnitType(this);" style="display: none;">
-	<option selected="selected" value="All Commercial">All</option>
-	<option value="Office">Office Space</option>
-	<option value="Retail">Retail Space</option>
-	<option value="Warehouse">Warehouse</option>
-	<option value="Labour Camp">Labour Housing</option>
+	<option selected="selected" value="All Commercial" catid="2">All</option>
+	<option value="Office" catid="2">Office Space</option>
+	<option value="Retail" catid="2">Retail Space</option>
+	<option value="Warehouse" catid="2">Warehouse</option>
+	<option value="Labour Camp" catid="2">Labour Housing</option>
+	<option value="Commercial Building" catid="2">Commercial Building</option>
+	<option value="Commercial Floor" catid="2">Commercial Floor</option>
+	<option value="Commercial Plot" catid="2">Commercial Plot</option>
+	<option value="Commercial Villa" catid="2">Commercial Villa</option>
 
-</select><span id="ddlUnitTypeForCommCategorySelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlUnitTypeForCommCategorySelectBoxItOptions"><span id="ddlUnitTypeForCommCategorySelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlUnitTypeForCommCategory" tabindex="0" unselectable="on" style="width: 138px;"><span class="selectboxit-option-icon-container"><i id="ddlUnitTypeForCommCategorySelectBoxItDefaultIcon" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on"></i></span><span id="ddlUnitTypeForCommCategorySelectBoxItText" class="selectboxit-text" unselectable="on" data-val="All Commercial" aria-live="polite" style="max-width: 1280px;">All</span><span id="ddlUnitTypeForCommCategorySelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlUnitTypeForCommCategorySelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlUnitTypeForCommCategorySelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 138px;"><li id="0" data-val="All Commercial" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All</a></li><li id="1" data-val="Office" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Office Space</a></li><li id="2" data-val="Retail" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Retail Space</a></li><li id="3" data-val="Warehouse" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Warehouse</a></li><li id="4" data-val="Labour Camp" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Labour Housing</a></li></ul></span>
+</select><span id="ddlUnitTypeForCommCategorySelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlUnitTypeForCommCategorySelectBoxItOptions"><span id="ddlUnitTypeForCommCategorySelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlUnitTypeForCommCategory" tabindex="0" unselectable="on" style="width: 167px;"><span class="selectboxit-option-icon-container"><i id="ddlUnitTypeForCommCategorySelectBoxItDefaultIcon" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on"></i></span><span id="ddlUnitTypeForCommCategorySelectBoxItText" class="selectboxit-text" unselectable="on" data-val="All Commercial" aria-live="polite" style="max-width: 1280px;">All</span><span id="ddlUnitTypeForCommCategorySelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlUnitTypeForCommCategorySelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlUnitTypeForCommCategorySelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 167px;"><li id="0" data-val="All Commercial" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All</a></li><li id="1" data-val="Office" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Office Space</a></li><li id="2" data-val="Retail" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Retail Space</a></li><li id="3" data-val="Warehouse" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Warehouse</a></li><li id="4" data-val="Labour Camp" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Labour Housing</a></li><li id="5" data-val="Commercial Building" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Commercial Building</a></li><li id="6" data-val="Commercial Floor" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Commercial Floor</a></li><li id="7" data-val="Commercial Plot" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Commercial Plot</a></li><li id="8" data-val="Commercial Villa" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Commercial Villa</a></li></ul></span>
             </div>
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidCategory" id="hidCategory" value="1">
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidtxtKeyword" id="hidtxtKeyword">
-            <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidddlUnitTypeForCategories" id="hidddlUnitTypeForCategories" value="All Residential">
+            <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidddlUnitTypeForCategories" id="hidddlUnitTypeForCategories">
         </div>
         <div class="categorychange" id="residentcommercial">
             <div class="tobuyrent">
-                <table id="rdoServiceID" onclick="onSelectedIndexChangeRadio();" style="width:180px;">
+                <table id="rdoServiceID" onclick="onSelectedIndexChangeRadio();">
 	<tbody><tr>
 		<td><input id="rdoServiceID_0" type="radio" name="ctl00$mainContentsPlaceHolder$ctl01$rdoServiceID" value="2"><label for="rdoServiceID_0">To Rent</label></td><td><input id="rdoServiceID_1" type="radio" name="ctl00$mainContentsPlaceHolder$ctl01$rdoServiceID" value="1" checked="checked"><label for="rdoServiceID_1">To Buy</label></td>
 	</tr>
@@ -604,12 +251,12 @@ function __doPostBack(eventTarget, eventArgument) {
                 <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidServiceID" id="hidServiceID" value="1">
             </div>
             <div class="price_Range">
-                <label id="lblUnitCurrency" style="width: 117px;"></label>
-                <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlminPrice" id="ddlminPrice" class="styled" onchange="criteriaUpdate();" style="display: none;">
+                <label id="lblUnitCurrency"></label>
+                <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlminPrice" id="ddlminPrice" class="styled" style="display: none;">
 
 </select><span id="ddlminPriceSelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlminPriceSelectBoxItOptions"><span id="ddlminPriceSelectBoxIt" class="selectboxit styled selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlminPrice" tabindex="0" unselectable="on" style="width: 35px;"><span class="selectboxit-option-icon-container"><i id="ddlminPriceSelectBoxItDefaultIcon" class="selectboxit-default-icon" unselectable="on"></i></span><span id="ddlminPriceSelectBoxItText" class="selectboxit-text" unselectable="on" data-val="" aria-live="polite" style="max-width: 1280px;"></span><span id="ddlminPriceSelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlminPriceSelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlminPriceSelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 35px;"></ul></span>
                 <label for="topricerange">To</label>
-                <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlmaxPrice" id="ddlmaxPrice" class="styled" onchange="criteriaUpdate();" style="display: none;">
+                <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlmaxPrice" id="ddlmaxPrice" class="styled" style="display: none;">
 
 </select><span id="ddlmaxPriceSelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlmaxPriceSelectBoxItOptions"><span id="ddlmaxPriceSelectBoxIt" class="selectboxit styled selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlmaxPrice" tabindex="0" unselectable="on" style="width: 35px;"><span class="selectboxit-option-icon-container"><i id="ddlmaxPriceSelectBoxItDefaultIcon" class="selectboxit-default-icon" unselectable="on"></i></span><span id="ddlmaxPriceSelectBoxItText" class="selectboxit-text" unselectable="on" data-val="" aria-live="polite" style="max-width: 1280px;"></span><span id="ddlmaxPriceSelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlmaxPriceSelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlmaxPriceSelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 35px;"></ul></span>
                 <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidminPrice" id="hidminPrice" value="0">
@@ -617,40 +264,28 @@ function __doPostBack(eventTarget, eventArgument) {
             </div>
             <div class="bedroom_search">
                 <label id="lblBedOrSize">Bedrooms</label>
-                <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlBedroomsOrSize" id="ddlBedroomsOrSize" onchange="criteriaUpdate();" style="display: none;">
+                <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlBedroomsOrSize" id="ddlBedroomsOrSize" style="display: none;">
 
 </select><span id="ddlBedroomsOrSizeSelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlBedroomsOrSizeSelectBoxItOptions"><span id="ddlBedroomsOrSizeSelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlBedroomsOrSize" tabindex="0" unselectable="on" style="width: 35px;"><span class="selectboxit-option-icon-container"><i id="ddlBedroomsOrSizeSelectBoxItDefaultIcon" class="selectboxit-default-icon" unselectable="on"></i></span><span id="ddlBedroomsOrSizeSelectBoxItText" class="selectboxit-text" unselectable="on" data-val="" aria-live="polite" style="max-width: 1280px;"></span><span id="ddlBedroomsOrSizeSelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlBedroomsOrSizeSelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlBedroomsOrSizeSelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 35px;"></ul></span>
                 <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidBedroomsOrSize" id="hidBedroomsOrSize" value="9">
             </div>
         </div>
-        <div class="categorychange shortTermboxes" id="shortTerm" style="display: none">
-            <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlUnitType" id="ddlUnitType" onchange="criteriaUpdate();" style="display: none;">
+        <div class="categorychange shortTermboxes" id="shortTerm">
+            <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlUnitType" id="ddlUnitType" onchange="setSTRBedRooms();" style="display: none;">
 	<option value="1,2,17">All Residential</option>
 	<option value="1">Apartment</option>
 	<option value="2">Villa</option>
 	<option value="17">Townhouse</option>
 
-</select><span id="ddlUnitTypeSelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlUnitTypeSelectBoxItOptions"><span id="ddlUnitTypeSelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlUnitType" tabindex="0" unselectable="on" style="width: 180px;"><span id="ddlUnitTypeSelectBoxItText" class="selectboxit-text" unselectable="on" data-val="1,2,17" aria-live="polite">All Residential</span><span id="ddlUnitTypeSelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlUnitTypeSelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlUnitTypeSelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 180px;"><li id="0" data-val="1,2,17" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All Residential</a></li><li id="1" data-val="1" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Apartment</a></li><li id="2" data-val="2" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Villa</a></li><li id="3" data-val="17" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Townhouse</a></li></ul></span>
+</select><span id="ddlUnitTypeSelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlUnitTypeSelectBoxItOptions"><span id="ddlUnitTypeSelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlUnitType" tabindex="0" unselectable="on" style="width: 129px;"><span class="selectboxit-option-icon-container"><i id="ddlUnitTypeSelectBoxItDefaultIcon" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on"></i></span><span id="ddlUnitTypeSelectBoxItText" class="selectboxit-text" unselectable="on" data-val="1,2,17" aria-live="polite" style="max-width: 1280px;">All Residential</span><span id="ddlUnitTypeSelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlUnitTypeSelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlUnitTypeSelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 129px;"><li id="0" data-val="1,2,17" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All Residential</a></li><li id="1" data-val="1" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Apartment</a></li><li id="2" data-val="2" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Villa</a></li><li id="3" data-val="17" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Townhouse</a></li></ul></span>
             <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlCityStr" id="ddlCityStr" onchange="criteriaUpdate();" style="display: none;">
 
-</select><span id="ddlCityStrSelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlCityStrSelectBoxItOptions"><span id="ddlCityStrSelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlCityStr" tabindex="0" unselectable="on" style="width: 70px;"><span id="ddlCityStrSelectBoxItText" class="selectboxit-text" unselectable="on" data-val="" aria-live="polite"></span><span id="ddlCityStrSelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlCityStrSelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlCityStrSelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 70px;"></ul></span>
-            <input name="ctl00$mainContentsPlaceHolder$ctl01$dateFrom" type="text" readonly="readonly" id="dateFrom" class="hasDatepicker">
-            <input name="ctl00$mainContentsPlaceHolder$ctl01$dateFrom2" type="text" readonly="readonly" id="dateFrom2" class="hasDatepicker">
-            <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlBedroomsStr" id="ddlBedroomsStr" onchange="criteriaUpdate();" style="display: none;">
-	<option value="All">All Bedrooms</option>
-	<option value="0">Studio</option>
-	<option value="1">1</option>
-	<option value="2">2</option>
-	<option value="3">3</option>
-	<option value="4">4</option>
-	<option value="5">5</option>
-	<option value="6">6</option>
-	<option value="7">7</option>
-	<option value="8">8</option>
-	<option value="9">9</option>
-	<option value="9">Max</option>
+</select><span id="ddlCityStrSelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlCityStrSelectBoxItOptions"><span id="ddlCityStrSelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlCityStr" tabindex="0" unselectable="on" style="width: 35px;"><span class="selectboxit-option-icon-container"><i id="ddlCityStrSelectBoxItDefaultIcon" class="selectboxit-default-icon" unselectable="on"></i></span><span id="ddlCityStrSelectBoxItText" class="selectboxit-text" unselectable="on" data-val="" aria-live="polite" style="max-width: 1280px;"></span><span id="ddlCityStrSelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlCityStrSelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlCityStrSelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 35px;"></ul></span>
+            <input name="ctl00$mainContentsPlaceHolder$ctl01$dateFrom" type="text" readonly="readonly" id="dateFrom">
+            <input name="ctl00$mainContentsPlaceHolder$ctl01$dateFrom2" type="text" readonly="readonly" id="dateFrom2">
+            <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlBedroomsStr" id="ddlBedroomsStr" style="display: none;">
 
-</select><span id="ddlBedroomsStrSelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlBedroomsStrSelectBoxItOptions"><span id="ddlBedroomsStrSelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlBedroomsStr" tabindex="0" unselectable="on" style="width: 174px;"><span id="ddlBedroomsStrSelectBoxItText" class="selectboxit-text" unselectable="on" data-val="All" aria-live="polite">All Bedrooms</span><span id="ddlBedroomsStrSelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlBedroomsStrSelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlBedroomsStrSelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 174px;"><li id="0" data-val="All" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All Bedrooms</a></li><li id="1" data-val="0" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Studio</a></li><li id="2" data-val="1" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>1</a></li><li id="3" data-val="2" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>2</a></li><li id="4" data-val="3" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>3</a></li><li id="5" data-val="4" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>4</a></li><li id="6" data-val="5" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>5</a></li><li id="7" data-val="6" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>6</a></li><li id="8" data-val="7" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>7</a></li><li id="9" data-val="8" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>8</a></li><li id="10" data-val="9" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>9</a></li><li id="11" data-val="9" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Max</a></li></ul></span>
+</select><span id="ddlBedroomsStrSelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlBedroomsStrSelectBoxItOptions"><span id="ddlBedroomsStrSelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlBedroomsStr" tabindex="0" unselectable="on" style="width: 35px;"><span class="selectboxit-option-icon-container"><i id="ddlBedroomsStrSelectBoxItDefaultIcon" class="selectboxit-default-icon" unselectable="on"></i></span><span id="ddlBedroomsStrSelectBoxItText" class="selectboxit-text" unselectable="on" data-val="" aria-live="polite" style="max-width: 1280px;"></span><span id="ddlBedroomsStrSelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlBedroomsStrSelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlBedroomsStrSelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 35px;"></ul></span>
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidUnitType" id="hidUnitType">
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidCityStr" id="hidCityStr">
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidBedroomsStr" id="hidBedroomsStr">
@@ -659,7 +294,7 @@ function __doPostBack(eventTarget, eventArgument) {
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidCommunityStr" id="hidCommunityStr">
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hiddateFrom2" id="hiddateFrom2">
         </div>
-        <div class="categorychange Agentboxes" id="Agent" style="display: none;">
+        <div class="categorychange Agentboxes" id="Agent">
             <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlTypeOfService" id="ddlTypeOfService" onchange="criteriaUpdate();" style="display: none;">
 	<option value="-1">All services</option>
 	<option value="Commercial Sales">Commercial Sales</option>
@@ -667,26 +302,26 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="Residential Sales">Residential Sales</option>
 	<option value="Residential Leasing">Residential Leasing</option>
 
-</select><span id="ddlTypeOfServiceSelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlTypeOfServiceSelectBoxItOptions"><span id="ddlTypeOfServiceSelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlTypeOfService" tabindex="0" unselectable="on" style="width: 218px;"><span id="ddlTypeOfServiceSelectBoxItText" class="selectboxit-text" unselectable="on" data-val="-1" aria-live="polite">All services</span><span id="ddlTypeOfServiceSelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlTypeOfServiceSelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlTypeOfServiceSelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 218px;"><li id="0" data-val="-1" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All services</a></li><li id="1" data-val="Commercial Sales" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Commercial Sales</a></li><li id="2" data-val="Commercial Leasing" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Commercial Leasing</a></li><li id="3" data-val="Residential Sales" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Residential Sales</a></li><li id="4" data-val="Residential Leasing" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Residential Leasing</a></li></ul></span>
+</select><span id="ddlTypeOfServiceSelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlTypeOfServiceSelectBoxItOptions"><span id="ddlTypeOfServiceSelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlTypeOfService" tabindex="0" unselectable="on" style="width: 167px;"><span class="selectboxit-option-icon-container"><i id="ddlTypeOfServiceSelectBoxItDefaultIcon" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on"></i></span><span id="ddlTypeOfServiceSelectBoxItText" class="selectboxit-text" unselectable="on" data-val="-1" aria-live="polite" style="max-width: 1280px;">All services</span><span id="ddlTypeOfServiceSelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlTypeOfServiceSelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlTypeOfServiceSelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 167px;"><li id="0" data-val="-1" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All services</a></li><li id="1" data-val="Commercial Sales" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Commercial Sales</a></li><li id="2" data-val="Commercial Leasing" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Commercial Leasing</a></li><li id="3" data-val="Residential Sales" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Residential Sales</a></li><li id="4" data-val="Residential Leasing" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Residential Leasing</a></li></ul></span>
             <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlAgentCity" id="ddlAgentCity" onchange="onSelectedIndexChange(this);return false;" style="display: none;">
 	<option value="-1">All Cities</option>
 	<option value="54798">Abu Dhabi</option>
 	<option value="54788">Dubai</option>
 	<option value="54789">Sharjah</option>
 
-</select><span id="ddlAgentCitySelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlAgentCitySelectBoxItOptions"><span id="ddlAgentCitySelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlAgentCity" tabindex="0" unselectable="on" style="width: 155px;"><span id="ddlAgentCitySelectBoxItText" class="selectboxit-text" unselectable="on" data-val="-1" aria-live="polite">All Cities</span><span id="ddlAgentCitySelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlAgentCitySelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlAgentCitySelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 155px;"><li id="0" data-val="-1" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All Cities</a></li><li id="1" data-val="54798" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Abu Dhabi</a></li><li id="2" data-val="54788" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Dubai</a></li><li id="3" data-val="54789" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Sharjah</a></li></ul></span>
+</select><span id="ddlAgentCitySelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlAgentCitySelectBoxItOptions"><span id="ddlAgentCitySelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlAgentCity" tabindex="0" unselectable="on" style="width: 104px;"><span class="selectboxit-option-icon-container"><i id="ddlAgentCitySelectBoxItDefaultIcon" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on"></i></span><span id="ddlAgentCitySelectBoxItText" class="selectboxit-text" unselectable="on" data-val="-1" aria-live="polite" style="max-width: 1280px;">All Cities</span><span id="ddlAgentCitySelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlAgentCitySelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlAgentCitySelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 104px;"><li id="0" data-val="-1" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All Cities</a></li><li id="1" data-val="54798" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Abu Dhabi</a></li><li id="2" data-val="54788" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Dubai</a></li><li id="3" data-val="54789" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Sharjah</a></li></ul></span>
             <select name="ctl00$mainContentsPlaceHolder$ctl01$ddlAreaOfSpeciality" id="ddlAreaOfSpeciality" onchange="criteriaUpdate();" style="display: none;">
 
-</select><span id="ddlAreaOfSpecialitySelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlAreaOfSpecialitySelectBoxItOptions"><span id="ddlAreaOfSpecialitySelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlAreaOfSpeciality" tabindex="0" unselectable="on" style="width: 70px;"><span id="ddlAreaOfSpecialitySelectBoxItText" class="selectboxit-text" unselectable="on" data-val="" aria-live="polite"></span><span id="ddlAreaOfSpecialitySelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlAreaOfSpecialitySelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlAreaOfSpecialitySelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 70px;"></ul></span>
+</select><span id="ddlAreaOfSpecialitySelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlAreaOfSpecialitySelectBoxItOptions"><span id="ddlAreaOfSpecialitySelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlAreaOfSpeciality" tabindex="0" unselectable="on" style="width: 35px;"><span class="selectboxit-option-icon-container"><i id="ddlAreaOfSpecialitySelectBoxItDefaultIcon" class="selectboxit-default-icon" unselectable="on"></i></span><span id="ddlAreaOfSpecialitySelectBoxItText" class="selectboxit-text" unselectable="on" data-val="" aria-live="polite" style="max-width: 1280px;"></span><span id="ddlAreaOfSpecialitySelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlAreaOfSpecialitySelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlAreaOfSpecialitySelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 35px;"></ul></span>
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidAgentID" id="hidAgentID">
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidTypeOfService" id="hidTypeOfService">
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidAgentCity" id="hidAgentCity">
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hidAreaOfSpeciality" id="hidAreaOfSpeciality">
         </div>
-        <div class="categorychange" id="RefNo" style="display: none;">
+        <div class="categorychange" id="RefNo">
             <!-- always be empty -->
         </div>
-      <div><a onclick="return validate();" id="btnSearch" title="Search" class="pink-srch" href="javascript:__doPostBack('ctl00$mainContentsPlaceHolder$ctl01$btnSearch','')">Search</a></div>
+      <div><a onclick="return validate();" id="btnSearch" title="Search" class="pink-srch" href="javascript:void(0);">Search</a></div>
         <div id="adv-srch-drop">
             <div id="advancsearchMinusOrPlus">(+)</div>
             <div class="advance_search">Advanced Search</div>
@@ -695,7 +330,7 @@ function __doPostBack(eventTarget, eventArgument) {
     <div class="search_areaArrow"></div>
 </div>
 
-<div id="hiddenRefineDiv" style="display: none;">
+<div id="hiddenRefineDiv">
     <div class="searching_option">
         <ul>
             <li><strong>Refine your search</strong></li>
@@ -707,16 +342,7 @@ function __doPostBack(eventTarget, eventArgument) {
                 <input type="checkbox" value="" name=""><label>Leasehold</label></li>
             <li>
                 <input type="checkbox" value="" name=""><label>Freezone</label></li>
-            <li class="sep_line"></li>
-            <li><strong>Unit type</strong></li>
-            <li>
-                         <select name="ctl00$mainContentsPlaceHolder$ctl01$hdnMainUnitModel" id="mainContentsPlaceHolder_ctl01_hdnMainUnitModel" style="display: none;">
-	<option value="">All</option>
-	<option value="Furnished">Furnished</option>
-	<option value="Unfurnished">Unfurnished</option>
-
-</select><span id="mainContentsPlaceHolder_ctl01_hdnMainUnitModelSelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="mainContentsPlaceHolder_ctl01_hdnMainUnitModelSelectBoxItOptions"><span id="mainContentsPlaceHolder_ctl01_hdnMainUnitModelSelectBoxIt" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$hdnMainUnitModel" tabindex="0" unselectable="on" style="width: 164px;"><span id="mainContentsPlaceHolder_ctl01_hdnMainUnitModelSelectBoxItText" class="selectboxit-text" unselectable="on" data-val="" aria-live="polite">All</span><span id="mainContentsPlaceHolder_ctl01_hdnMainUnitModelSelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="mainContentsPlaceHolder_ctl01_hdnMainUnitModelSelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="mainContentsPlaceHolder_ctl01_hdnMainUnitModelSelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 164px;"><li id="0" data-val="" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>All</a></li><li id="1" data-val="Furnished" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Furnished</a></li><li id="2" data-val="Unfurnished" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Unfurnished</a></li></ul></span>
-            </li>
+           
             <li class="sep_line"></li>
             <li><strong>Display currency</strong></li>
             <li>
@@ -729,7 +355,7 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="IRR">IRR</option>
 	<option value="INR">INR</option>
 
-</select><span id="ddlcurrncySelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlcurrncySelectBoxItOptions"><span id="ddlcurrncySelectBoxIt" class="selectboxit displayCurr selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlcurrncy" tabindex="0" unselectable="on" style="width: 117px;"><span id="ddlcurrncySelectBoxItText" class="selectboxit-text" unselectable="on" data-val="AED" aria-live="polite">AED</span><span id="ddlcurrncySelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlcurrncySelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlcurrncySelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 117px;"><li id="0" data-val="AED" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>AED</a></li><li id="1" data-val="EUR" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>EUR</a></li><li id="2" data-val="GBP" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>GBP</a></li><li id="3" data-val="PKR" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>PKR</a></li><li id="4" data-val="USD" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>USD</a></li><li id="5" data-val="IRR" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>IRR</a></li><li id="6" data-val="INR" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>INR</a></li></ul></span>
+</select><span id="ddlcurrncySelectBoxItContainer" class="selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns="ddlcurrncySelectBoxItOptions"><span id="ddlcurrncySelectBoxIt" class="selectboxit displayCurr selectboxit-enabled selectboxit-btn" name="ctl00$mainContentsPlaceHolder$ctl01$ddlcurrncy" tabindex="0" unselectable="on" style="width: 69px;"><span class="selectboxit-option-icon-container"><i id="ddlcurrncySelectBoxItDefaultIcon" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on"></i></span><span id="ddlcurrncySelectBoxItText" class="selectboxit-text" unselectable="on" data-val="AED" aria-live="polite" style="max-width: 1280px;">AED</span><span id="ddlcurrncySelectBoxItArrowContainer" class="selectboxit-arrow-container" unselectable="on"><i id="ddlcurrncySelectBoxItArrow" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span><ul id="ddlcurrncySelectBoxItOptions" class="selectboxit-options selectboxit-list" tabindex="-1" role="listbox" aria-hidden="true" style="min-width: 69px;"><li id="0" data-val="AED" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>AED</a></li><li id="1" data-val="EUR" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>EUR</a></li><li id="2" data-val="GBP" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>GBP</a></li><li id="3" data-val="PKR" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>PKR</a></li><li id="4" data-val="USD" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>USD</a></li><li id="5" data-val="IRR" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>IRR</a></li><li id="6" data-val="INR" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>INR</a></li></ul></span>
                 <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hdncurrency" id="hdncurrency">
             </li>
             <li class="sep_line"></li>
@@ -742,61 +368,45 @@ function __doPostBack(eventTarget, eventArgument) {
             <li><strong>Main unit views</strong></li>
             <li id="mainViewDiv" class="UnitView-check"></li>
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hdnMainUView" id="hdnMainUView">
-            <li><a id="unitViewColaps" class="moreviewcls">(+) <span style=" border-bottom: 1px dotted #D30E7D;">More views</span></a></li>
+            <li><a id="unitViewColaps" class="moreviewcls">(+) <span>More views</span></a></li>
             <li class="sep_line"></li>
             <li><strong>Facilities and amenities</strong></li>
             <li id="facilityDiv" class="faci-check"></li>
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hdnFaci" id="hdnFaci">
-            <li><a id="facilityColaps">(+) <span style=" border-bottom: 1px dotted #D30E7D;">More views</span></a></li>
+            <li><a id="facilityColaps">(+) <span>More views</span></a></li>
             <li class="sep_line"></li>
             <li><strong>Fixtures and fittings</strong></li>
             <li id="fixturesDiv" class="fixture-check"></li>
             <input type="hidden" name="ctl00$mainContentsPlaceHolder$ctl01$hdnFix" id="hdnFix">
-            <li><a id="fixtureColaps">(+) <span style=" border-bottom: 1px dotted #D30E7D;">More views</span></a></li>
+            <li><a id="fixtureColaps">(+) <span>More views</span></a></li>
             <li class="sep_line"></li>
             
         </ul>
     </div>
 </div>
-<script>
-    jQuery(function () {
-        jQuery("#dateFrom").datepicker({
-            showAnim: 'slide',
-            dateFormat: 'dd-mm-yy',
-            onSelect: function (selected) {
-                var lastValue = jQuery("#dateFrom2").val();
-                jQuery("#dateFrom2").datepicker("option", "minDate", selected);
-                jQuery("#dateFrom2").val(lastValue);
-            }
-        });
-        jQuery("#dateFrom2").datepicker({
-            showAnim: 'slide',
-            dateFormat: 'dd-mm-yy',
-            onSelect: function (selected) {
-                var lastValue = jQuery("#dateFrom").val();
-                jQuery("#dateFrom").datepicker("option", "maxDate", selected);
-                jQuery("#dateFrom").val(lastValue);
-            }
-        });
-    });
-</script>
 
-      
-<div class="clear">
-            </div>
-            <div id="emailAlertsDiv" style="margin-top: 15px;">
+
+<div class="clear"></div>
+<div id="commercialindex" style="margin-top: 15px;margin-left:-1px;">
+<!-- START 220x208 Ad Peeps Ad Code -->
+<p align="center">
+<script type="text/javascript" src="http://ads.bhomes.com/adpeeps.php?bf=showad&amp;uid=100000&amp;bmode=off&amp;gpos=center&amp;bzone=224_160_home_suite&amp;bsize=220x208&amp;btype=3&amp;bpos=default&amp;btotal=1&amp;btarget=_top&amp;bborder=0">
+</script>
+<noscript>
+<a href="http://ads.bhomes.com/adpeeps.php?bf=go&amp;uid=100000&amp;bmode=off&amp;bzone=224_160_home_suite&amp;bsize=220x208&amp;btype=1&amp;bpos=default" target="_top">
+<img src="http://ads.bhomes.com/adpeeps.php?bf=showad&amp;uid=100000&amp;bmode=off&amp;bzone=224_160_home_suite&amp;bsize=220x208&amp;btype=1&amp;bpos=default" width="220" height="208" alt="Click Here!" title="Click Here!" border="0" /></a>
+</noscript>
+</p>
+<!-- END Ad Peeps Ad Code -->
+
+<div class="clear"></div>
+           <div id="emailAlertsDiv" style="margin-top: 15px;">
                 <a title="Email Alerts, hassle free property search to your inbox" href="/UAE/emailalerts.xhtml">
                     <img style="border: none;" title="Email Alerts, hassle free property search to your inbox" alt="Email Alerts, hassle free property search to your inbox" src="http://www.bhomes.com/images/email-alerts-web.jpg">
                 </a>
             </div>
             
-<div class="clear"></div>
-<div id="commercialindex" style="margin-top: 15px;">
-<p align="center">
-<iframe src="http://ads.bhomes.com/adpeeps.php?bf=showad&amp;uid=100000&amp;bmode=off&amp;bzone=226_160_staticbanner&amp;bsize=226x160&amp;btype=4&amp;bpos=default&amp;btarget=_top" frameborder="0" width="226" height="160" scrolling="no" marginheight="0" marginwidth="0">
-<ilayer src="http://ads.bhomes.com/adpeeps.php?bf=showad&amp;uid=100000&amp;bmode=off&amp;bzone=226_160_staticbanner&amp;bsize=226x160&amp;btype=4&amp;bpos=default&amp;btarget=_top" frameborder="0" width="226" height="160"></ilayer>
-</iframe>
-</p>
+
 </div>
 
 
@@ -804,7 +414,7 @@ function __doPostBack(eventTarget, eventArgument) {
            
         <div class="right_area">
             
-<div style="float:left;" class="mainCrumbarDiv">
+<div class="mainCrumbarDiv">
     
     <div class="navigate_link">
 
@@ -812,14 +422,14 @@ function __doPostBack(eventTarget, eventArgument) {
         <span class="cmsCrumbar"><a href="/">Home</a>  <span>&gt; United Arab Emirates</span> <span>&gt; Website Privacy and Security Statement</span></span>
         
          </div>
-        <div class="bottom_line_2" style="float:none;">
+        <div class="bottom_line_2 crmbar">
            <span></span><span></span>
         </div>
      
        <h3>Website Privacy and Security Statement</h3>
       
      
-    <div style="float:left;" class="clear"></div>
+    <div class="clear"></div>
     <div class="text_RS">
         Better Homes is committed to protecting your privacy. This policy is designed to ensure your personal details are protected when you deal with us. <br>
 <br>
@@ -829,35 +439,28 @@ We may use your personal information to market third party products and services
 <br>
 <strong>Contact Details</strong> <br>
 <br>
-If you have any questions/comments about privacy, or wish to stop receiving communications from us, please telephone +971 600 52 2212 or email <a href="mailto:customercare@bhomes.com">customercare@bhomes.com</a>.<br>
+If you have any questions/comments about privacy, or wish to stop receiving communications from us, please telephone +971 600 52 2233 or email <a href="mailto:customercare@bhomes.com">customercare@bhomes.com</a>.
     </div>
     
 </div>
 <div class="clear"></div>
-<script>
-    jQuery(document).ready(function () {
-        if (jQuery('.menuspan').length > 0) {
-            jQuery('.navigate_link').children().children().eq(2).before( "> " + jQuery('.menuspan').text() + " ");
-        } 
-    });
 
-</script>
         </div>
     </div>
 
-             <div class="footerbarline" style="width:100%;float:left; margin-top: 20px;">   <div class="colorline-1"></div><div class="colorline-2"></div></div>
+             <div class="footerbarline">   <div class="colorline-1"></div><div class="colorline-2"></div></div>
                 
-                <div class="footer-useful" id="usefulLinks"><div class="div-btm-link1"><h5 class="h5">Site Features&nbsp;  &nbsp;&nbsp;</h5><div class="li-font"><ul class="ul"><li style="display:block;float:left;"><a href="/uae/buy/whyuse.xhtml" target="_self">Why use Better Homes?</a></li><span class="footer-sep1">|</span><li style="display:block;float:left;"><a href="http://careers.bhomes.com/" target="_self">Careers</a></li><span class="footer-sep2">|</span><li style="display:block;float:left;"><a href="/uae/partners.xhtml" target="_self">Preferred Partners</a></li><span class="footer-sep3">|</span><li style="display:block;float:left;"><a href="/agents/search.aspx?index=0&amp;size=10&amp;ls=rating&amp;lsc=-1,-1,-1" target="_self">Our Agents</a></li><span class="footer-sep4">|</span><li style="display:block;float:left;"><a href="/uae/contact/index.xhtml" target="_self">Our Offices</a></li><span class="footer-sep5">|</span><li style="display:block;float:left;"><a href="/uae/emailalerts.xhtml" target="_self">Email Alerts</a></li><span class="footer-sep6">|</span><li style="display:block;float:left;"><a href="/uae/makeanoffer.xhtml" target="_self">Make an Offer</a></li></ul></div></div><div class="div-btm-link2"><h5 class="h5">Useful Links&nbsp;  &nbsp;&nbsp;</h5><div class="li-font"><ul class="ul"><li style="display:block;float:left;"><a href="/uae/sell/listyourproperty.xhtml" target="_self">List your property</a></li><span class="footer-sep1">|</span><li style="display:block;float:left;"><a href="/uae/contact/publications.xhtml" target="_self">Online Magazine</a></li><span class="footer-sep2">|</span><li style="display:block;float:left;"><a href="/uae/buy/residentialbuyerchecklist.xhtml" target="_self">Buy</a></li><span class="footer-sep3">|</span><li style="display:block;float:left;"><a href="/uae/rent/residentialtenantchecklist.xhtml" target="_self">Rent</a></li><span class="footer-sep4">|</span><li style="display:block;float:left;"><a href="/uae/sell/listyourproperty.xhtml" target="_self">Sell</a></li><span class="footer-sep5">|</span><li style="display:block;float:left;"><a href="/uae/about_uae.xhtml" target="_self">UAE Overview</a></li><span class="footer-sep6">|</span><li style="display:block;float:left;"><a href="/uae/dubai-property.xhtml" target="_self">Dubai Properties</a></li><span class="footer-sep7">|</span><li style="display:block;float:left;"><a href="/uae/about_abu_dhabi.xhtml" target="_self">Abu Dhabi Properties</a></li><span class="footer-sep8">|</span><li style="display:block;float:left;"><a href="/uae/rera.xhtml" target="_self">RERA</a></li><span class="footer-sep9">|</span><li style="display:block;float:left;"><a href="/uae/ejari.xhtml" target="_self">Ejari</a></li></ul></div></div><div class="div-btm-link3"><h5 class="h5">Get Social&nbsp;  &nbsp;&nbsp;</h5><div class="li-font"><ul class="ul"><li style="display:block;float:left;"><a href="javascript:void(0);" class="subscriberClicker">Subscribe to Mailers</a></li><span class="footer-sep1">|</span><li style="display:block;float:left;"><a href="http://www.facebook.com/betterhomespage" target="_blank">Facebook</a></li><span class="footer-sep2">|</span><li style="display:block;float:left;"><a href="https://twitter.com/betterhomesuae" target="_blank">Twitter</a></li><span class="footer-sep3">|</span><li style="display:block;float:left;"><a href="http://www.linkedin.com/company/better-homes-llc " target="_blank">Linkedin</a></li><span class="footer-sep4">|</span><li style="display:block;float:left;"><a href="https://plus.google.com/+betterhomes" target="_blank" rel="publisher">Google+</a></li><span class="footer-sep5">|</span><li style="display:block;float:left;"><a href="http://www.bhomes.com/blog/ " target="_blank">Blog</a></li></ul></div></div></div>
+                <div class="footer-useful" id="usefulLinks"><div class="div-btm-link1"><h5 class="h5">Site Features&nbsp;  &nbsp;&nbsp;</h5><div class="li-font"><ul class="ul"><li><a href="/uae/buy/whyuse.xhtml" target="_self">Why use Better Homes?</a></li><span class="footer-sep1">|</span><li><a href="http://careers.bhomes.com/" target="_self">Careers</a></li><span class="footer-sep2">|</span><li><a href="/agents/search.aspx?index=0&amp;size=10&amp;ls=rating&amp;lsc=-1,-1,-1" target="_self">Our Agents</a></li><span class="footer-sep3">|</span><li><a href="/uae/contact/index.xhtml" target="_self">Our Branches</a></li><span class="footer-sep4">|</span><li><a href="/uae/emailalerts.xhtml" target="_self">Email Alerts</a></li><span class="footer-sep5">|</span><li><a href="/uae/makeanoffer.xhtml" target="_self">Make an Offer</a></li></ul></div></div><div class="div-btm-link2"><h5 class="h5">Useful Links&nbsp;  &nbsp;&nbsp;</h5><div class="li-font"><ul class="ul"><li><a href="/uae/sell/listyourproperty.xhtml" target="_self">List your property</a></li><span class="footer-sep1">|</span><li><a href="/uae/contact/publications.xhtml" target="_self">Online Magazine</a></li><span class="footer-sep2">|</span><li><a href="/uae/buy/residentialbuyerchecklist.xhtml" target="_self">Buy</a></li><span class="footer-sep3">|</span><li><a href="/uae/rent/residentialtenantchecklist.xhtml" target="_self">Rent</a></li><span class="footer-sep4">|</span><li><a href="/uae/sell/listyourproperty.xhtml" target="_self">Sell</a></li><span class="footer-sep5">|</span><li><a href="/uae/about_uae.xhtml" target="_self">UAE Overview</a></li><span class="footer-sep6">|</span><li><a href="/uae/dubai-property.xhtml" target="_self">Dubai Properties</a></li><span class="footer-sep7">|</span><li><a href="/uae/about_abu_dhabi.xhtml" target="_self">Abu Dhabi Properties</a></li><span class="footer-sep8">|</span><li><a href="/uae/rera.xhtml" target="_self">RERA</a></li><span class="footer-sep9">|</span><li><a href="/uae/ejari.xhtml" target="_self">Ejari</a></li></ul></div></div><div class="div-btm-link3"><h5 class="h5">Get Social&nbsp;  &nbsp;&nbsp;</h5><div class="li-font"><ul class="ul"><li><a href="javascript:void(0);" class="subscriberClicker">Subscribe to Mailers</a></li><span class="footer-sep1">|</span><li><a href="http://www.facebook.com/betterhomespage" target="_blank">Facebook</a></li><span class="footer-sep2">|</span><li><a href="https://twitter.com/betterhomesuae" target="_blank">Twitter</a></li><span class="footer-sep3">|</span><li><a href="http://www.linkedin.com/company/better-homes-llc " target="_blank">Linkedin</a></li><span class="footer-sep4">|</span><li><a href="https://plus.google.com/+betterhomes" target="_blank" rel="publisher">Google+</a></li><span class="footer-sep5">|</span><li><a href="http://www.bhomes.com/blog/ " target="_blank">Blog</a></li></ul></div></div></div>
                 <div class="main-div-btm1">
                     <a class="logo-btm1" href="/"></a>
                     <div class="btm-contact">
-                        <span class="nospan">+971 600 52 2212</span>&nbsp;<span class="carespan">|</span><a href="mailto:customercare@bhomes.com" target="_blank"> customercare@bhomes.com </a>
+                        <span id="cusNo" class="nospan">+971 600 52 2233</span>&nbsp;<span class="carespan">|</span><a href="mailto:customercare@bhomes.com" target="_blank"> customercare@bhomes.com </a>
                     </div>
                 </div>
                 <div class="hr"></div>
-                <div class="footer2-useful" style="width:860px;  margin: 2% 0 1% 26px;">
+                <div class="footer2-useful">
                     
-                    <div class="footer-useful-edit footer-useful-copywrite"><span class="footer-copy-span">© Better Homes Properties 2014. All Rights Reserved</span></div>
+                    <div class="footer-useful-edit footer-useful-copywrite"><span class="footer-copy-span">© Better Homes Properties 2015. All Rights Reserved</span></div>
                     <div class="footer-useful-edit">
                         <span class="footer-copy-span"><a class="footer-copy-span" href="/uae/privacy.xhtml">Privacy</a></span>
                         <span class="footer-copy-span">|</span>
@@ -869,24 +472,30 @@ If you have any questions/comments about privacy, or wish to stop receiving comm
                 </div>
             </div>
          </div>
+             <input type="hidden" name="ctl00$cdnGetPath" id="cdnGetPath" value="http://cdn.bhomes.com">
     </form>
-	<!-- begin SnapEngage code 
-<script type="text/javascript">
-  (function() {
-    var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
-    se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/0129f95e-4fc1-4296-afa2-44d18133eb68.js';
-    var done = false;
-    se.onload = se.onreadystatechange = function() {
-      if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
-        done = true;
-        /* Place your SnapEngage JS API code below */
-        /* SnapEngage.allowChatSound(true); Example JS API: Enable sounds for Visitors. */
-      }
-    };
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
-  })();
-</script>
- end SnapEngage code -->
+            <script src="/javascript/jquery-1.10.2.min.js"></script>
+    <script src="/javascript/jquery-ui-1.10.3.custom.js"></script>
+    <script src="/javascript/jquery.selectboxit.js"></script>
+
+        <script>jQuery(function () { jQuery("select").selectBoxIt(); }); var markupImages = [];</script>
+    <script type="text/javascript">
+         (function () {
+             var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+             em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
+             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+         })();
+    </script>
+    <noscript>
+	<img src="//me.effectivemeasure.net/em_image" alt="" class="effectivemeasure-img" />
+	</noscript>
+    
+      <script type="text/javascript">   </script>
+    <script>isMobileReq = false;</script>
+    <script src="/javascript/locallizemaster.js?ver=3.0.b.d.i"></script><script src="/javascript/jquery.bpopup.min.js"></script><script type="text/javascript" src="/javascript/pagescript.js?ver=3.0.b.d.i"></script><script type="text/javascript" src="/javascript/seolib/seolibrary.js?ver=3.0.b.d.i"></script><script src="/javascript/myaccount/subscriber.js?ver=3.0.b.d.i"></script><script src="/javascript/customcontrols/header-redesign-inputvalidator.js?ver=3.0.b.d.i"></script><script src="/javascript/customcontrols/headerredesign.js?ver=3.0.b.d.i"></script><script src="/javascript/customcontrols/sidebaradvsearc.js?ver=3.0.b.d.i"></script><script src="/javascript/customcontrols/sidebarjs.js?ver=3.0.b.d.i"></script>    
+    <script>var isNonSupportiveFlash = false;var isMac= false;</script><script type="text/javascript">  var IsUserLogin = true;var userid ='' </script>
+    
+    <script>var rangesJSON = [{"CategoryId":1,"CountryId":35,"Currency":"","Multiplier":"1","ServiceTypeId":1,"SliderValues":" 0,1,2,3,4,5,6,7,8,9+","Text":"Bedrooms","UnitValue":null},{"CategoryId":1,"CountryId":35,"Currency":"AED","Multiplier":"1000000","ServiceTypeId":1,"SliderValues":"1,2,3,4,5,6,7,8,9,10","Text":"Price","UnitValue":"m"},{"CategoryId":1,"CountryId":35,"Currency":"","Multiplier":"1","ServiceTypeId":2,"SliderValues":" 0,1,2,3,4,5,6,7,8,9+","Text":"Bedrooms","UnitValue":null},{"CategoryId":1,"CountryId":35,"Currency":"AED","Multiplier":"1000","ServiceTypeId":2,"SliderValues":"20,40,60,80,100,150,200,300","Text":"Price","UnitValue":"K"},{"CategoryId":2,"CountryId":35,"Currency":"AED","Multiplier":"1","ServiceTypeId":1,"SliderValues":"0-1000,1000-3000,3000-5000,5000-15000,15000+","Text":"Size","UnitValue":"sq.ft"},{"CategoryId":2,"CountryId":35,"Currency":"AED","Multiplier":"1000000","ServiceTypeId":1,"SliderValues":"1,2,3,4,5,6,7,8,9,10","Text":"Price","UnitValue":"m"},{"CategoryId":2,"CountryId":35,"Currency":"AED","Multiplier":"1","ServiceTypeId":2,"SliderValues":"0-1000,1000-3000,3000-5000,5000-15000,15000+","Text":"Size","UnitValue":"sq.ft"},{"CategoryId":2,"CountryId":35,"Currency":"AED","Multiplier":"1000","ServiceTypeId":2,"SliderValues":"20,40,60,80,100,150,200,300","Text":"Price","UnitValue":"K"},{"CategoryId":10,"CountryId":35,"Currency":"","Multiplier":"1","ServiceTypeId":1,"SliderValues":" 0,1,2,3,4,5,6,7,8,9+","Text":"Bedrooms","UnitValue":null},{"CategoryId":10,"CountryId":35,"Currency":"AED","Multiplier":"1000000","ServiceTypeId":1,"SliderValues":"1,2,3,4,5,6,7,8,9,10","Text":"Price","UnitValue":"m"},{"CategoryId":10,"CountryId":35,"Currency":"","Multiplier":"1","ServiceTypeId":2,"SliderValues":" 0,1,2,3,4,5,6,7,8,9+","Text":"Bedrooms","UnitValue":null},{"CategoryId":10,"CountryId":35,"Currency":"AED","Multiplier":"1000","ServiceTypeId":2,"SliderValues":"20,40,60,80,100,150,200,300","Text":"Price","UnitValue":"K"}];</script>
 
 
-<div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"></div></body></html>
+</body></html>
