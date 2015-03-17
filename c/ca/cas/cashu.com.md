@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashu.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702035601id_/https%3A//www.cashu.com/site/en/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashu.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317063655id_/https%3A//www.cashu.com/site/en/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,12 +50,6 @@ www.cashu.com may contain links to other websites. CASHU has no control over the
 
 We encourage you, when you leave www.cashu.com, to read the privacy statements of each and every website you visit if you intend to provide personal information to such website.
 
-Like many websites, www.cashu.com uses 'cookie' technology (small computer files placed on your computer's hard drive). When you go to particular website pages on www.cashu.com, the cookie identifies your browser with a unique, random number.
-
-The cookies we use do not reveal any personal information about you. Cookies help us improve your experience of www.cashu.com and the CASHU Service and also help us understand which parts of www.cashu.com are the most popular.
-
-You are always free to decline our cookies, if your browser permits, although doing so may interfere with your use of the CASHU Service and www.cashu.com.
-
 Competitions may be made available on www.cashu.com from time to time.
 
 You do not have to participate in these, however, if you choose to, you may be asked to disclose some personal information.
@@ -71,3 +65,13 @@ If you are concerned that your username, password or Customer Account has been c
 In particular, if you are concerned that your password has been compromised, please ensure you change your password immediately by logging onto www.cashu.com.
 
 If you have questions or concerns about our collection and use of your personal information, please contact our customer support team at http://support.cashu.com/
+
+**How do we use Cookie ?**  
+When you access our website or use CashU Services, we (including companies we work with) may place small data files on your computer or device. These data files may be cookies, pixel tags, "Flash cookies," or other local storage provided by your browser or associated applications (collectively "Cookies"). We use these technologies to; recognize you as a customer or visitor to our website; customize CashU Services, content, and advertising to cater your needs; To measure promotional effectiveness; help ensure that your account security is not compromised; mitigate risk and preventing fraud; and to promote trust and safety across our sites and CashU Services.
+
+We use both session and persistent cookies. Session cookies expire and no longer have any effect when you log out of your account or close your browser. Persistent cookies remain on your browser until you erase them or they expire.
+
+We encode our cookies so that we can interpret the information stored in them. You are free to decline our Cookies if your browser or browser add-on permits, but doing so may interfere with your use of our website and CashU Services. Refer to the help section of your browser, browser extensions, or installed applications for instructions on blocking, deleting, or disabling Cookies.
+
+**Can I Delete Cookie ?**  
+CashU cookies are in your best interest to promote trust and safety across our sites and CashU Services. If you still intend to disable our cookies please feel free to refer help section of your browser, browser extensions, or installed applications for instructions on blocking, deleting, or disabling Cookies.
