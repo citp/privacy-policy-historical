@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the ghs.org privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923151741id_/http%3A//www.ghs.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghs.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317233954id_/https%3A//www.ghs.org/privacypolicy) for the most accurate reproduction.*
 
-# Greenville Health System Privacy Policy - Greenville Health System
+# GHS Notice of Privacy Practices - Greenville Health System
 
-#### Updated January 2014
+Updated October 2014 | [__Download a PDF copy of this notice](http://d1nrfqt2fvljr.cloudfront.net/docs/ghs-privacy-policy.pdf)
+
+* * *
 
 Greenville Health System makes every effort to keep your medical information private.
-
-[Download a PDF Copy of the Privacy Policy](https://web.archive.org/upload/docs/Privacy_practices.pdf)
-
-## GHS Notice of Privacy Practices
 
 _This Notice describes how medical information about you may be used and released and how you can get this information._  
 **Please read it carefully.** _ _
@@ -23,10 +21,10 @@ This Notice applies to all GHS sites, including offices of physicians employed b
 **
 
 **
-  * Keep your health record private
-  * Describe our legal duties and privacy obligations related to your health information
-  * Follow the current Notice of Privacy Practices
-  * Notify you if there is a breach of your unsecured personal health information (PHI)
+  * Keep your health record private 
+  * Describe our legal duties and privacy obligations related to your health information 
+  * Follow the current Notice of Privacy Practices 
+  * Notify you if there is a breach of your unsecured personal health information (PHI) 
 **
 
 
@@ -34,11 +32,11 @@ We reserve the right to change the practices and terms of this Notice, and the c
 
 Each time you register at or are admitted to GHS as an inpatient or outpatient, you may have a copy of the Notice. We will post it in our facilities and on our website **(www.ghs.org)**. You also may call our Privacy Office at **(864) 797-7755** for a copy.
 
-#### Routine Uses and Disclosures of Your Health Record
+## Routine Uses and Disclosures of Your Health Record
 
 The following sections describe how we use and release medical information. Each section explains what we mean and gives a few examples. _(Note: These examples are not all-inclusive.)_
 
-###### Treatment
+#### Treatment
 
 We use medical information about you to provide, coordinate and manage your treatment or services. We may give this information to doctors, nurses, specialists, technicians, students of affiliated healthcare programs, volunteers or other staff who care for you. Such people may share information about you to coordinate your needs, such as lab work or prescription drugs.
 
@@ -52,11 +50,11 @@ _Here is how your health record might be used for treatment reasons:_
 
   * We would share your record with a facility you are being transferred to or one that you are considering transfer to once you leave GHS.  
 
-  * We may use and release your health record to provide material on treatment options.
+  * We may use and release your health record to provide material on treatment options. 
 
 
 
-###### Payment
+#### Payment
 
 We use and release health information so that treatment and services you receive may be billed to and payment collected from you, an insurance company or a third party.
 
@@ -70,7 +68,7 @@ or agencies, insurance companies and health plans to collect payment for service
 
 
 
-###### Healthcare Operations
+#### Healthcare Operations
 
 We may use and release your record to support our business functions (such as administrative, financial and legal activities). These uses and disclosures are needed to run the hospital, support treatment and payment, and help patients receive high-quality care. Activities may include measuring quality, reviewing employee performance and training students.
 
@@ -82,37 +80,37 @@ We may use and release your record to support our business functions (such as ad
 
 
 
-###### Facility Directory
+#### Facility Directory
 
 We may include certain facts about you in our directory while you are a patient at a GHS hospital, clinic or doctor’s office. These facts may include your name, location, general condition (such as fair or stable) and religious affiliation. They also may be shared with those who ask for you by name (except for religious affiliation). Your affiliation may be given to clergy members—even if they don’t ask for you by name— so family members, friends and clergy can visit you or know how you are doing. However, if you do not want your information listed in the hospital directory, please notify Registration when you arrive or call the facility’s Admitting Office.
 
-###### People Involved in Your Care or Payment for Your Care
+#### People Involved in Your Care or Payment for Your Care
 
 GHS health experts may tell a family member, friend, or other person you identify or who is involved in your care or payment for your care details about you that relate to that person’s involvement in your care. However, GHS respects your right to choose not to have your information shared. When you arrive at a GHS facility, Registration will ask you to complete a form indicating with whom we may share your information (you are not required to designate any individuals). If you cannot physically or mentally agree or object to a disclosure, we may supply information where necessary. We also may share facts with someone helping in a disaster relief effort so that family can know of your condition, status and location.
 
-###### Business Associates
+#### Business Associates
 
 Business associates of GHS provide some services related to treatment, payment and business operations. For example, we may use a copy service to make copies of your medical record. When we hire companies to perform these services, we may disclose your health information to these companies so that they can perform the job we have asked them to do. We have a written agreement that requires associates to protect your record in the course of performing their job.
 
-#### Special Uses and Disclosures of Your Health Record
+## Special Uses and Disclosures of Your Health Record
 
-###### Emergencies
+#### Emergencies
 
 We may use or release your health information during emergencies.
 
-######  Research
+####  Research
 
 Under certain circumstances, we may use and disclose health information about you for research purposes. All research projects, however, are subject to a special approval process. Before we use or disclose medical information for research, the project will have been approved through this research approval process. We may, however, use health information about you in preparing to conduct a research project, for example, to look for patients with specific needs.
 
-###### Fundraising Events
+#### Fundraising Events
 
 GHS is a nonprofit health system that relies on generous support from patients and families to continue vital healthcare, research and education operations. We may use your demographic information such as name, address and birthday to contact you regarding fundraising opportunities. We also may use the dates you received treatment or services, department of service, outcomes information and treating information. You have the right to elect not to receive fundraising communications. Please contact us at **(864) 797-7749** (Office of Philanthropy & Partnership) if you wish to have your name removed from the list to receive fundraising requests supporting GHS in the future. Your decision not to receive fundraising communications will have no impact on your ability to receive healthcare services at any GHS facility.
 
-###### Workers' Compensation
+#### Workers' Compensation
 
 We may release information about you to comply with workers’ compensation laws or similar programs.
 
-###### Legal Proceedings
+#### Legal Proceedings
 
 We may release health information about you for the following reasons:
 
@@ -121,19 +119,19 @@ We may release health information about you for the following reasons:
 
 
 
-###### Legal Requirements
+#### Legal Requirements
 
 We will give out medical information about you when required to do so by federal, state or local law.
 
-###### Serious Threat to Health or Safety
+#### Serious Threat to Health or Safety
 
 We may use and release information about you to prevent a serious threat to your health and safety or the health and safety of others.
 
-###### Health Oversight Activities
+#### Health Oversight Activities
 
 We may supply information to a health oversight agency for activities authorized by law, such as audits, investigations, inspections and licensure. These activities help the government oversee healthcare systems, benefit programs and civil rights laws.
 
-###### Public Health Risks
+#### Public Health Risks
 
 We may release information about you to local, state or federal public health agencies (such as the Food and Drug Administration and the Department of Health and Environmental Control) for reasons such as the following:
 
@@ -145,19 +143,19 @@ We may release information about you to local, state or federal public health ag
 
 
 
-###### To Avert a Serious Threat to Health or Safety and to Report Abuse
+#### To Avert a Serious Threat to Health or Safety and to Report Abuse
 
 We may disclose your health information to a government agent if we believe you have been the victim of abuse, neglect or domestic violence. We also may disclose your information where necessary to protect your health and safety or the health and safety of the public or another person. Disclosures are made only to those people able to help prevent or reduce the threat.
 
-###### Coroners, Funeral Directors and Organ Donors
+#### Coroners, Funeral Directors and Organ Donors
 
 We may release information to coroners or medical examiners to identify a deceased person, find cause of death or carry out duties as required by law. We also may give information to funeral directors to meet their duties and may share such information in the reasonable anticipation of death. We may supply your health record to organ donor groups as approved by you or consistent with the law.
 
-###### Military, Veterans and National Security
+#### Military, Veterans and National Security
 
 If you are a member of the armed forces, we may release information about you as required by military authorities. We also may share information about foreign military personnel to the appropriate foreign military authority. We may give information about you to federal officials for intelligence, counterintelligence and other national security activities authorized by law.
 
-###### Law Enforcement
+#### Law Enforcement
 
 We may release your health information to a law enforcement official:
 
@@ -170,13 +168,13 @@ We may release your health information to a law enforcement official:
 
 
 
-###### Inmates
+#### Inmates
 
 If you are an inmate of a correctional institution or in custody of a law enforcement official, we may release medical information about you to that facility or person.
 
-#### Your Health Information Rights
+## Your Health Information Rights
 
-###### Review and Copy
+#### Review and Copy
 
 You have the right to review and request a copy of your health record in either an electronic or paper form (this information often includes medical and billing records but, under federal law, excludes psychotherapy notes, which are maintained exclusively at our Marshall I. Pickens Hospital location).
 
@@ -184,7 +182,7 @@ To do so, write to the Medical Records Department of GHS Health Information Mana
 
 We may deny your request to inspect and copy in certain cases. If we deny your request, we will respond to you in writing, stating why we will not grant your request and describing any rights you may have to request a review of our denial. Another licensed healthcare professional chosen by GHS will examine your request. The reviewer will not be the person who denied your request. GHS will comply with the outcome of the review.
 
-###### Amend
+#### Amend
 
 If you believe that information we have about you is incorrect or incomplete, you may ask us to modify or add to the information. You have the right to request a change or addition for as long as the record is kept by GHS.
 
@@ -201,7 +199,7 @@ Request your change in writing to the Medical Records Department of GHS Health I
 
 If we deny this request, you have the right to file a statement of disagreement. We may then prepare a rebuttal. We will give you a copy of the rebuttal and maintain your request to modify in your medical record.
 
-###### Accounting of Disclosures
+#### Accounting of Disclosures
 
 You have the right to request an “accounting of disclosures” (a list of disclosures made about you for reasons other than treatment, payment, healthcare operations or national security). We are required to respond to your request within 60 days.
 
@@ -222,7 +220,7 @@ The list will include the date of the disclosure, the name (and address, if avai
 
 The first list you request within a 12-month period will be free. Additional lists may involve a charge. We will notify you of the cost, and you may cancel or adjust your request before any fees are incurred.
 
-###### Request Restrictions
+#### Request Restrictions
 
 You have the right to request that we limit information we use or give out about you for treatment, payment or healthcare operations. You also have the right to request a limit on what we release to someone involved in your care or payment for your care, such as a family member. For example, you could ask that we not use or give out information to your family about a surgery that you had.
 
@@ -230,21 +228,21 @@ You have the right to request that we not disclose to your health plan health in
 
 **We are not required to agree to your request.** If we do agree, we will comply with your request unless the material is needed for emergency treatment. To request restrictions, submit a Restriction of Information Agreement Form to an employee at your GHS point of admission or registration. Note (1) what you want to limit; (2) if you want to limit use, release or both; and (3) to whom the limits should apply, for example, disclosures to your family.
 
-###### Request Confidential Communications
+#### Request Confidential Communications
 
 You have the right to request that we interact with you about medical matters in a certain way or place. For example, you can ask that we contact you only by mail or at work.
 
 To request confidential communications, submit a Restriction of Information Agreement Form to an employee at your GHS point of admission or registration. We will try to meet all reasonable requests. You must note how or where you wish to be contacted.
 
-###### Paper Copy of This Notice
+#### Paper Copy of This Notice
 
 You have the right to a paper copy of this notice at any time. For a paper copy, call your GHS point of admission or the Privacy Office at **(864) 797-7755**. You also may get a copy from our website, **www.ghs.org.**
 
-###### Complaints
+#### Complaints
 
 If you believe your privacy has been violated, you may file a complaint with GHS or with the Secretary of the Department of Health and Human Services. To file a complaint with GHS, call our Privacy Office at **(864) 797-7755** or Service Excellence Department at **(864) 455-7975**.
 
-###### Other Uses
+#### Other Uses
 
 Other uses and disclosures of medical information not covered by this Notice or relevant laws will be made only with your written consent. If you allow us to use or release health information about you, you may cancel that consent, in writing, at any time. If you revoke it, we will no longer use or release information for the reasons covered by your written consent. _(Note: We cannot take back disclosures already made with your consent.)_
 
@@ -252,78 +250,58 @@ Other uses and disclosures of medical information not covered by this Notice or 
 
 _**To request a copy of, review of or amendment to your health record, please write to ...**_
 
-GHS Health Information Management
-
-Medical Records Department
-
-255 Enterprise Blvd., Ste. 120
-
+GHS Health Information Management  
+Medical Records Department  
+255 Enterprise Blvd., Ste. 120  
 Greenville, SC 29615
 
 ## GHS Major Facilities
 
-**The Cottages at Brushy Creek**
-
-101 Cottage Creek Circle
-
+**The Cottages at Brushy Creek**  
+101 Cottage Creek Circle  
 Greer, SC 29650
 
-**Cross Creek Surgery Center**
+**Cross Creek Surgery Center**  
+9 Doctors Drive  
+Greenville, SC 29605 
 
-9 Doctors Drive
+**Greer Memorial Hospital**  
+830 S. Buncombe Road  
+Greer, SC 29650 
 
-Greenville, SC 29605
+**Greenville Memorial Hospital**  
+701 Grove Road  
+Greenville, SC 29605 
 
-**Greer Memorial Hospital**
+**Hillcrest Memorial Hospital**  
+729 S.E. Main St.  
+Simpsonville, SC 29681 
 
-830 S. Buncombe Road
+**Laurens County Memorial Hospital**  
+22725 U.S. Hwy. 76 East  
+Clinton, SC 29325 
 
-Greer, SC 29650
+**Marshall I. Pickens Hospital**  
+701 Grove Road  
+Greenville, SC 29605 
 
-**Greenville Memorial Hospital**
+**Medical Center Clinics**  
+701 Grove Road  
+Greenville, SC 29605 
 
-701 Grove Road
+**North Greenville Hospital  
+Long Term Acute Care**  
+807 N. Main St.  
+Travelers Rest, SC 29690 
 
-Greenville, SC 29605
+**Oconee Memorial Hospital**  
+298 Memorial Drive  
+Seneca, SC 29672 
 
-**Hillcrest Memorial Hospital**
+**Patewood Memorial Hospital**  
+175 Patewood Drive  
+Greenville, SC 29615 
 
-729 S.E. Main St.
-
-Simpsonville, SC 29681
-
-**Laurens County Memorial Hospital**
-
-22725 U.S. Hwy. 76 East
-
-Clinton, SC 29325
-
-**Marshall I. Pickens Hospital**
-
-701 Grove Road
-
-Greenville, SC 29605
-
-**Medical Center Clinics**
-
-701 Grove Road
-
-Greenville, SC 29605
-
-**North Greenville Hospital-Long Term Acute Care**
-
-807 N. Main St.
-
-Travelers Rest, SC 29690
-
-**Patewood Memorial Hospital**
-
-175 Patewood Drive
-
-Greenville, SC 29615
-
-**Roger C. Peace Rehabilitation Hospital**
-
-701 Grove Road
-
-Greenville, SC 29605
+**Roger C. Peace Rehabilitation Hospital**  
+701 Grove Road  
+Greenville, SC 29605 
