@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bahamas.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133218id_/http%3A//www.bahamas.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bahamas.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317102123id_/http%3A//www.bahamas.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Official Site of The Bahamas
 
-_Last updated March 2014_
+_Last updated January 2015_
 
 The Commonwealth of the Bahamas ("Commonwealth", "we," "us," "our") respects your privacy and is committed to protecting your personally identifiable information. We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected on this site ("Site") and how such information may be used and/or shared with others. This Privacy Policy applies solely to information collected through this Site and not through any other sources. This Privacy Policy is subject to the Terms of Use posted on this Site. Please return to this Site and review this Privacy Policy from time to time, as it may be amended without notice. Any changes to this Privacy Policy will be effective immediately upon the posting of the revised Privacy Policy on this Site. Your use of this Site constitutes your agreement to this Privacy Policy.
 
