@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702010549id_/http%3A//www.birthdayinabox.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317105835id_/http%3A//www.birthdayinabox.com/privacy-security.html) for the most accurate reproduction.*
 
 # None
 
@@ -25,7 +25,7 @@ When checking out, you can opt out of email promotions. Also, every email will h
 **Birthday In A Box**  
 45 Fernwood Ave  
 Edison, NJ 08837  
-855-268-8008  
+605-271-7894  
 [customerservice@birthdayinabox.com](mailto:customerservice@birthdayinabox.com)
 
 ### Cookies
