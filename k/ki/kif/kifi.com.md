@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kifi.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722173309id_/https%3A//www.kifi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kifi.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317030614id_/https%3A//www.kifi.com/privacy) for the most accurate reproduction.*
 
-# Kifi • Privacy
+# Kifi • Privacy Policy
 
-Welcome to kifi.com, a website owned and controlled by FortyTwo Inc. (“Kifi”, “we”, “us”, or “our”). We operate the Kifi website, browser extension and mobile application, which help you easily “keep” webpages you are interested in, share kept pages with your friends and contacts on a variety of social networks, and add comments and messages to kept pages (the “Service”). We provide this Privacy Policy to let you know what information we collect, how we use it, share it and protect it.
+Welcome to kifi.com, a website owned and controlled by FortyTwo Inc. (“Kifi”, “we”, “us”, or “our”). We operate the Kifi website, browser extension and mobile application, which help you easily “keep” webpages you are interested in, share kept pages with your friends and contacts on a variety of social networks, publish kept pages in public “libraries”, add comments and messages to kept pages, and receive personalized recommendations based on the things you keep and libraries you follow (the “Service”). We provide this Privacy Policy to let you know what information we collect, how we use it, share it and protect it.
 
 By using Kifi, you accept the practices described in this Privacy Policy. This Privacy Policy does not apply to information collected by third-party websites and web services linked to or otherwise accessible from Kifi. The information collected or received by third-party websites is subject to their own privacy policies.
 
@@ -25,7 +25,7 @@ To protect your privacy, we commit to the following principles:
 
 Occasionally, we have to collect some information regarding parts of your browsing history in order to provide you with better search results and experience. This information may include your User ID and the URL you visited.
 
-To protect your privacy, we chose to use specific technological techniques (such as time-decaying one-way hash filters) to store it in a way that prevents us or anyone else from easily querying or viewing your browsing history. Specifically, even if we were forced to give information related to your browsing or click history, our methods do not allow for direct retrieval; instead, we compute a signature of many combined data points. We could only tell probabilistically (with high false positive and false negative results) whether the data was previously stored, with certainty declining over time.
+To protect your privacy, we chose to use specific technological techniques (such as time-decaying one-way hash filters) to store it in a way that prevents us or anyone else from easily querying or viewing the data. Specifically, even if we were forced to give information related to your click history (such as which search results you click), our methods do not allow for direct retrieval; instead, we compute a signature of many combined data points. We could only tell probabilistically (with high false positive and false negative results) whether the data was previously stored, with certainty declining over time.
 
 Whenever we will refer to a “Secured Manner” hereinafter, we will mean the technological techniques mentioned in this article.
 
@@ -35,11 +35,11 @@ Whenever we will refer to a “Secured Manner” hereinafter, we will mean the t
 
 In order to become a Kifi user, you will register to the Service or log in using your social login. This means that upon your first login, Kifi collects your full name and email address, profile photo, gender, languages, devices and list of friends from the social network you connect through. Kifi is a social product, providing you added value by learning from the search queries and results of your social contacts. This is why when you login, we collect information about your friends, friends of friends, followers and social contacts. This information is used to improve your social search capabilities and enable you to communicate with your social contacts through the Service, for example with messages.
 
-In addition, when you first login, Kifi, upon your approval, logs all of your existing bookmarks and retains them as privately kept pages for your future reference.
+In addition, when you first login, Kifi, upon your approval, gives you the ability to send us all of your existing bookmarks and retains them as kept pages for your future reference.
 
 ### Search History
 
-Every time you search the Internet and click on a result, Kifi collects information about your search and choice of results in order to improve and personalize the Kifi search results that you and other Kifi users get. Specifically, Kifi collects your Kifi user ID ; the search query you searched and its URL; the result you selected and the time you selected it; and whether the result you selected was provided by Kifi or by an organic search engine. We do not store this information in an easily retrievable form (see “Secured manner” for more information).
+Every time you search the Internet and click on a result, Kifi collects information about your search and choice of results in order to improve and personalize the Kifi search results that you and other Kifi users get. Specifically, Kifi collects your Kifi user ID ; the search query you searched and its URL; the result you selected and the time you selected it; and whether the result you selected was provided by Kifi or by an organic search engine. We do not store this information in an easily retrievable form (see “Secured manner” for more information), and your searches are not connected to your user account
 
 ### Browsing History
 
@@ -53,17 +53,9 @@ When you visit a webpage, we transfer, but do not store, the page’s URL to our
 
 
 
-We do not store any of this information in any manner.
+We do not store this request in any manner.
 
 In order to improve the operation of the Kifi Keeper (which appears at the bottom right corner of your screen when you use Kifi) and avoid bothering you with repetitive prompts, when the Keeper opens on a page, we transmit the URL and store in a way that we cannot easily retrieve (see “Secured Manner”), so that we do not automatically open the Keeper in the future.
-
-#### To Improve Your Search Results’ Quality
-
-Additionally, to improve search quality, we may transmit the URL for pages that (1) we have previously seen, (2) we deem as useful for you, so that we improve search results for related pages. As before, we do not store this in any format that is easily retrievable (see “Secured Manner”). This information will always be kept private and used strictly to improve the Kifi search results.
-
-We improve Kifi search results through a fully automated process performed by machine analysis; your browsing history will never be seen or monitored by anybody, including our employees.
-
-If you actively choose to run Kifi while browsing in “private”, “incognito” or an equivalent mode, Kifi will not collect information about your click or browsing history when you browse in such a mode.
 
 #### Technical information
 
@@ -75,7 +67,7 @@ We may use cookies (pieces of data stored on your computer tied to information a
 
 ## Usage statistics
 
-We may track usage statistics in order to monitor and improve the Service performance and features. Usage information is retained in identified form. It includes some information about a user’s engagement with a web page (as mentioned on the “browsing history” section above), including interaction with the Kifi interface itself. For example, Kifi would retain the number of keeps a specific user made per day, or the number of clicks a keep recieved from search results, in aggregate.
+We may track usage statistics in order to monitor and improve the Service performance and features. Usage information is retained in identified form. It includes some information about a user’s engagement with a web page (as mentioned on the “browsing history” section above), including interaction with the Kifi interface itself. For example, Kifi would retain the number of keeps a specific user made per day, or the number of clicks a keep received from search results, in aggregate.
 
 ## Your Correspondence
 
@@ -87,7 +79,11 @@ Kifi is a social product, learning from the search queries and search results of
 
 ## Keeping Webpages
 
-Any webpages that you choose to “keep” are, by default, viewable by your social contacts who use Kifi. They will be able to see that you “kept” a certain webpage when they make a related query in a search engine or on Kifi.com, which will appear to them in conjunction with your name and profile photo. You can choose to “keep” a webpage privately, in which case your social contacts will not be able to see that you “kept” it. Kifi, however, will record that you “kept” a webpage privately, in order to provide you with access to that webpage when you later search for it again. If you “keep” pages that are protected behind a login wall, such as your personal email messages or social networking posts, those pages will be, by default, “kept” privately and not accessible by your social contacts.
+You can choose to “keep” any webpage into (1) “My Main Library”, (2) “My Private Library”, (3) a “Published” Library you create, or a (4) “Private” Library you create. The webpage addresses that you choose to “keep” into “My Main Library”, are viewable by your social contacts who use Kifi. They will be able to see that you “kept” a certain webpage when they make a related query in a search engine or on Kifi.com, which will appear to them in conjunction with your name and profile photo. They will not see the title of the page rendered at the time you kept it, and cannot see the list of pages you kept into “My Main Library” in its entirety. You can choose to “keep” a webpage into “My Private Library”, in which case your social contacts will not be able to see that you “kept” it. Kifi, however, will record that you “kept” a webpage privately, in order to provide you with access to that webpage when you later search for it again. You can choose to “keep” a webpage into a “Published” Library you create, in which case the address, title, and content of the webpages in the library are viewable and searchable by anyone on the internet. You can choose to “keep” a webpage into a “Private” Library you create, in which case the webpages in the library are viewable only by people you invite. If you “keep” pages that are protected behind a login wall, and we detect it as such (i.e your personal email messages or social networking posts), those pages will be, by default, not accessible by your social contacts.
+
+## Following Libraries
+
+You are able to “follow” libraries in Kifi. If you follow a published library, anyone on the internet will be able to see that you followed this library, which will appear to them in conjunction with your name and profile photo. If you “follow” private libraries in Kifi, the library owner and people who are also following this library will be able to see your name and profile photo.
 
 ## Kifi Messages
 
@@ -95,7 +91,7 @@ Kifi allows you to post messages on selected web pages to specific social contac
 
 ## Deleting your information
 
-You can choose to permanently remove all your information from Kifi and terminate your profile, through your profile settings on the Kifi website, in which case all information associated with you will be deleted. To delete your Kifi user and information, contact us [here](http://support.kifi.com/customer/portal/emails/new).
+You can choose to permanently remove all your information related to the webpages you keep, and libraries you create from Kifi and terminate your profile, through your profile settings on the Kifi website, in which case all information associated with the webpages you kept, will be deleted. To delete your Kifi user and information, contact us [here](http://support.kifi.com/customer/portal/emails/new).
 
 ## Using Your Information
 
@@ -135,6 +131,8 @@ Kifi is intended for a general audience. Children under the age of 13 are not pe
 
 We may update this Privacy Policy from time to time, so you should review it periodically. If there are significant changes to FortyTwo's information practices, you will be provided with appropriate online notice. You may be provided with additional privacy-related information in connection with special features and services that may be introduced in the future.
 
+## How To Contact Us
+
 If you have any questions or concerns about this Privacy Policy or its implementation, please contact us [here](http://support.kifi.com/customer/portal/emails/new).
 
-LAST UPDATED: November 25, 2013
+LAST UPDATED: October 24, 2014
