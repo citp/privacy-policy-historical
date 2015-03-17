@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singpost.com.sg privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213012355id_/http%3A//www.singpost.com.sg/group-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singpost.com.sg privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317172834id_/http%3A//www.singpost.com.sg/group-privacy-policy.html) for the most accurate reproduction.*
 
 # Singpost - Group Privacy Policy
 
