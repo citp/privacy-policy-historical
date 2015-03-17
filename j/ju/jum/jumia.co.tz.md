@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumia.co.tz privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229000434id_/http%3A//www.jumia.co.tz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumia.co.tz privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317115924id_/http%3A//www.jumia.co.tz/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Jumia
 
