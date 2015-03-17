@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janeapp.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731023006id_/http%3A//janeapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janeapp.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317015634id_/https%3A//janeapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Jane - Clinic Management Software
 
@@ -119,7 +119,7 @@ JANE reserves the right to change this Privacy Statement. JANE will provide noti
 
 If you have any questions regarding this Privacy Statement you can contact us via email at [privacy@janeapp.com](mailto:privacy@janeapp.com) or via postal mail at: 
 
-Jane Clinic Management   
+Jane Software   
 Unit 201 - 173 Forester St.   
 North Vancouver, BC, V7H 0A1   
 Canada   
