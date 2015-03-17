@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massdrop.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010065255id_/https%3A//www.massdrop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massdrop.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317083733id_/https%3A//www.massdrop.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Massdrop
 
@@ -135,4 +135,4 @@ We are committed to protecting the security of your Personal Information. We use
 
 If you have questions or concerns about our Privacy Policy, please contact us at: [support@massdrop.com](mailto:support@massdrop.com?Subject=Questions%20regarding%20Privacy%20Policy). 
 
-This Privacy Policy is subject to occasional revision at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page or may otherwise post an alert on the [Massdrop.com](https://www.massdrop.com/) blog available at [http://blog.massdrop.com](http://blog.massdrop.com/). If you object to any such changes, you must cease using [Massdrop.com](https://www.massdrop.com/). Continued use of [Massdrop.com](https://www.massdrop.com/) following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
+This Privacy Policy is subject to occasional revision at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using [Massdrop.com](https://www.massdrop.com/). Continued use of [Massdrop.com](https://www.massdrop.com/) following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
