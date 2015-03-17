@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swat.io privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926003817id_/https%3A//swat.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swat.io privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317101516id_/https%3A//swat.io/privacy) for the most accurate reproduction.*
 
 # Swat.io Privacy Policy
 
