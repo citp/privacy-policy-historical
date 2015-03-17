@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rivaliq.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706153434id_/https%3A//www.rivaliq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivaliq.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317054611id_/https%3A//www.rivaliq.com/privacy) for the most accurate reproduction.*
 
-# Competitor Analysis and Marketing Intelligence Software by Rival IQ
+# Competitor Analysis for Digital Marketers | Rival IQ
 
 **_Rival IQ Privacy Policy_**
 
@@ -85,8 +85,8 @@ Any third parties to whom we may disclose personal information may have their ow
  **Your Control**
 
   * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of the Site and the Services because such information may be required in order for you to register as a member; purchase products or services; participate in a survey; ask a question; or initiate other transactions on the Site or through the Services.
-  * When you register on the Site you may be given a choice as to whether you want to receive email messages and/or newsletters about product updates, improvements, special offers, or containing special distributions of content by us.  At any time you can choose to no longer receive commercial or promotional emails or newsletters from us by using the email address associated with your account to send an email to[contact@rivaliq.com](mailto:contact@rivaliq.com)with the word “Unsubscribe” in the subject line.  You also will be given the opportunity, in any commercial email that we send to you, to opt out of receiving such messages in the future.  It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that, changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as a credit card processing partner) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
-  * You may tell us not to share your personal information with third parties for direct marketing purposes by using the email address associated with your account to send an email to[contact@rivaliq.com](mailto:contact@rivaliq.com)with the words “Remove from direct marketing” in the subject line.
+  * When you register on the Site you may be given a choice as to whether you want to receive email messages and/or newsletters about product updates, improvements, special offers, or containing special distributions of content by us.  At any time you can choose to no longer receive commercial or promotional emails or newsletters from us by using the email address associated with your account to send an email to [contact@rivaliq.com](mailto:contact@rivaliq.com) with the word “Unsubscribe” in the subject line.  You also will be given the opportunity, in any commercial email that we send to you, to opt out of receiving such messages in the future.  It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that, changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as a credit card processing partner) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
+  * You may tell us not to share your personal information with third parties for direct marketing purposes by using the email address associated with your account to send an email to [contact@rivaliq.com](mailto:contact@rivaliq.com) with the words “Remove from direct marketing” in the subject line.
 
 
 
@@ -98,7 +98,7 @@ The Site and the Services may contain links to other sites. Any personal informa
 
 We take reasonable measures to protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse.  If we become aware of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. Rival IQ may post a notice through the Services if a security breach occurs. If this happens, you will need a web browser enabling you to access the Services.  We may also send an email to you at the email address you have provided to use in these circumstances.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
 
-Users should also be aware of how they handle and disclose their personal information and should avoid sending personal information through insecure email.  Please refer to the Federal Trade Commission’s website at<http://www.ftc.gov/bcp/menus/consumer/data.shm>for information about how to protect yourself against identity theft.
+Users should also be aware of how they handle and disclose their personal information and should avoid sending personal information through insecure email.  Please refer to the Federal Trade Commission’s website at <http://www.ftc.gov/bcp/menus/consumer/data.shm> for information about how to protect yourself against identity theft.
 
  **International Visitors**
 
@@ -110,10 +110,10 @@ We may retain personal information for as long as we have a business need for it
 
  **What Choices Do You Have Regarding the Use of Your Information?**
 
-You may “opt out” of receiving marketing or promotional emails from us by following the instructions in those emails or by emailing us at[contact@rivaliq.com](mailto:contact@rivaliq.com). If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
+You may “opt out” of receiving marketing or promotional emails from us by following the instructions in those emails or by emailing us at [contact@rivaliq.com](mailto:contact@rivaliq.com). If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
 
  **Questions?**
 
-If you have any questions about our Privacy Policy, please contact us at[contact@rivaliq.com](mailto:contact@rivaliq.com).
+If you have any questions about our Privacy Policy, please contact us at [contact@rivaliq.com](mailto:contact@rivaliq.com).
 
  **Last Updated: January 30, 2013.**
