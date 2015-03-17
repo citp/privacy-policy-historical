@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esoftload.info privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702144156id_/https%3A//www.esoftload.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esoftload.info privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317105127id_/https%3A//www.esoftload.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,4 +18,4 @@ We also use third party advertisements on the blog for the costs of maintenance.
 
 You retain the power to turn off your cookies in your browser’s options or making changes in Tools Anti-Virus programs, like Nod32, AVG or Avast. However, this may change the way we interact with our blog or other sites. This may affect or do not allow logins in programs of our websites or forums and other networks.
 
-No doubt being in [contact](http://www.esoftload.info/contact-us) .
+No doubt being in [contact](https://www.esoftload.info/contact-us) .
