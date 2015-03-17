@@ -1,100 +1,49 @@
-> *The following text is extracted and transformed from the unomy.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unomy.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317063744id_/https%3A//www.unomy.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Unomy
 
-**Go Daddy Respects Your Privacy**
+Unomy (“Unomy” or “We”) is committed to protecting the privacy of visitors to the Unomy website and users of the Unomy service (the “Service”). This privacy policy (the “Policy) was prepared because we believe you (the “User”) should know as much as possible about the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Principally, Unomy uses the personal information provided by the User to operate and enable the Service, to improve and customize your experience with the Service, and to send you Service related updates, notices and announcements. We may also use that information to notify the User about our new products, services, updates and other Unomy information we think the User may find to be of interest.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+In addition, this Policy describes your choices with respect to how we collect and use your information. You may exercise your choices about how we collect and use your information consistent with this Policy at any time. Your continued use of the website (the “Website”) and our services, constitute your acceptance of this Policy and any updates thereto.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We are very conscious of the User's right to privacy regarding the information the User supplies to us. At Unomy, our policy is to use the information exclusively to provide the User with better service. If you have questions or concerns regarding this Privacy Policy, you are welcome to contact us as provided in the Contacting Us at Unomy section of this Privacy Policy.
 
-**Information Collection and Use**
+## 1\. The Information We collect for our Service
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+a) Aggregation of User Data
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Unomy may aggregate the information you provide with similar information collected from other visitors to the Website or users of the Service in order to evaluate or enhance the Website or its Services. Specifically, Unomy may aggregate data to determine the usage patterns or interests of visitors to the Website or users of the Service, or for purposes related to the technical support or security of the Website and our computer systems. For example, we collect traffic data that is regularly generated with Users' online activities such as IP addresses, the name of the website from which you entered our website, session durations, viewed pages, type of mobile device and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website. The aggregated data that we evaluate, contains no personal information or other information that could identify an individual.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+b) Usage Tracking Within The Unomy Service
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We may track usage information within the Products based upon the number of reports and types of reports that are accessed by a particular UserID number. We do this to monitor authorized usage of the Service and to improve the design and functionality of the Service. Customers can also track the total number of reports in the Service that are accessed at the user level or accessed by all users within their organization for administrative purposes. We may also aggregate corporate or industry information accessed by all of our clients. We do this in order to appreciate the types of companies and industries for which our customers require information, which in turn improves the quality of the Service. Unomy does not correlate the accessed corporate or industry information to a specific user or to a particular organization.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+c) Cookies
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Our Website uses “Cookies” to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+## 2\. User information to Certain Third Parties
 
-**Security**
+Unomy may, on occasion, provide some general usage information from the Products to our data suppliers for royalty-related purposes. Any information that we may provide to our data suppliers contains no personal details about individual users. Additionally, no information that we collect from the Website that you provide to us is ever sold to third parties. When appropriate or required we may disclose information, including personal information, collected from the Website to protect our legal rights or in response to a court order, or in connection with a sale or merger of Unomy or its assets. Unomy will endeavor to make such disclosures subject to protective orders or confidentiality agreements. With respect to information collected in the course of our marketing activities, Unomy may exchange business leads with our affiliates from time to time. Additionally, we may, on limited occasions, share your personal information with third-party marketing partners. These partners generally consist of persons or entities with whom we maintain a relationship and which offer certain complementary products and services to those Services that we offer. We will take commercially reasonable efforts to make sure that such third parties safeguard your personal information. Further, you are permitted at any time to request that we refrain from sharing your personal information with such third parties, or that we disclose who we shared your personal information with. In order to make such requests, please follow the instructions set forth below with regard to requests made in connection with your personal information.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+## 3\. Receipt of Communications
 
-**Updating Your Information**
+If you decide at any time that you no longer wish to receive communications from us you may opt out by updating your Unomy account. You may still receive certain communications from us at your request or at the request of your organization.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+## 4\. Server Security
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+The Unomy servers are physically secure and may only be accessed by Unomy’s technical or support personnel whose jobs specifically relate to maintaining the integrity of the Unomy servers or supporting product-related functions. Such individuals are required to maintain the security of the servers and the confidentiality of the information contained in the servers. Unomy takes all reasonable and appropriate steps to protect your personal information, including by encrypting such information, maintaining readily accessible steps to limit access, working to detect unauthorized access, and not storing such information any longer than we need to.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+## 5\. Third Party Sites
 
-      iii.      You may call us at: (480) 505-8800
+As a visitor to the Website or a subscriber to our Services, you may decide to visit a third party’s website through links available on our Website. Although the Unomy branding may still be visible, you will be subject to that third-party’s privacy policy, if one exists. We encourage you to review the privacy policies of third-party websites you choose to visit. Unomy is not responsible for how that third-party may collect or use your personal information.
 
-       iv.      You may fax us at: (480) 505-8844
+## 6\. Contacting us at Unomy
 
-**Sending Emails**
+Should you have a concern about Unomy’s collection or use of your personal information, Unomy would like to hear about it – [info@unomy.com](mailto:info@unomy.com).
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+## 7\. Notification of Changes
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If we decide to change our Privacy Policy, we will post those changes to this Policy so individuals are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use individual personally identifiable information in a manner different from that stated at the time of collection we will post a notice on our Site or comply with other procedures as required by applicable laws.
