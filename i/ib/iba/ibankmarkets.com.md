@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibankmarkets.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817234847id_/https%3A//ibankmarkets.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibankmarkets.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317155725id_/https%3A//ibankmarkets.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | ibank
 
