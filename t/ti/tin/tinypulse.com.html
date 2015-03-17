@@ -1,42 +1,62 @@
-<!--The following is the downloaded HTML source of the tinypulse.com privacy policy that was archived on 2014-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701185116id_/https%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tinypulse.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317103012id_/https%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="signed-out hide-navbar static_pages-privacy_policy"><!--<![endif]--><head>
-<script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"d3e7d49094","applicationID":"739578","transactionName":"e14IEUcKW1sBRBYQEVlFDwZqFVZQAUUWSwpMWQMXHA==","queueTime":524,"applicationTime":90,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMOU15WGwQDXVRVDw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<link rel="shortcut icon" href="/favicon.ico">
-<!-- Standard iPhone --> 
-<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
-<!-- Retina iPhone --> 
-<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png">
-<!-- Standard iPad --> 
-<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png">
-<!-- Retina iPad --> 
-<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png"><meta content="width=device-width, initial-scale=1.0" name="viewport">
+<script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/54ac42cc5c8ec6be88000019.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580467800000/443262.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d3e7d49094","applicationID":"4990855","transactionName":"e14IEUcKW1sBRBYQEVlFDwZqFVZQAUUWSwpMWQMXHA==","queueTime":51,"applicationTime":105,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-593.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,e){function t(){var n=h.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(l,function(e,t){e in n||(n[e]=t)}),h.proto="https"===d.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=h.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},h=e.exports={offset:i(),origin:d,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script>
+<link href="/favicon.ico" rel="shortcut icon">
+<!-- Standard iPhone -->
+<link href="/apple-touch-icon-114.png" rel="apple-touch-icon" sizes="57x57">
+<!-- Retina iPhone -->
+<link href="/apple-touch-icon-114.png" rel="apple-touch-icon" sizes="114x114">
+<!-- Standard iPad -->
+<link href="/apple-touch-icon-144.png" rel="apple-touch-icon" sizes="72x72">
+<!-- Retina iPad -->
+<link href="/apple-touch-icon-144.png" rel="apple-touch-icon" sizes="144x144"><meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="yes" name="mobile-web-app-capable">
 <title>Privacy Policy | TINYpulse</title>
-<script src="https://d1i5ulwvtra6uh.cloudfront.net/assets/application-e4c3d6a7ce776839184b02e035bd9dd0.js" type="text/javascript"></script><link href="https://d1i5ulwvtra6uh.cloudfront.net/assets/application-9d39319cafec6efdca75c965540d79d6.css" media="all" rel="stylesheet" type="text/css"><meta content="authenticity_token" name="csrf-param">
-<meta content="oORe/0IrfhogJlw3IJmhPjdI9vAq6sPEfmTJlI3PvkI=" name="csrf-token"><script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-34717216-1']);
-    _gaq.push(['_setDomainName', 'tinypulse.com']);
-    _gaq.push(['_trackPageview']);
+<script src="https://d1i5ulwvtra6uh.cloudfront.net/assets/application-f8b382111e2660562b2077c3c7c04cb1.js" type="text/javascript"></script><link href="https://d1i5ulwvtra6uh.cloudfront.net/assets/application-c2422b58249ffacc758728feccf94cbb.css" media="all" rel="stylesheet" type="text/css"><meta content="authenticity_token" name="csrf-param">
+<meta content="L0yiEoEDDo5TeW2bVC2tKxtASkHCza3Ro/AYnon6ens=" name="csrf-token"><script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34717216-1']);
+  _gaq.push(['_setDomainName', 'tinypulse.com']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script>
+  var ssaUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'pixel.sitescout.com/iap/3d588555fae884d0';
+  new Image().src = ssaUrl;
+</script><script>(function() {
 
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body>
+  var _fbq = window._fbq || (window._fbq = []);
+
+  if (!_fbq.loaded)
+  { var fbds = document.createElement('script'); fbds.async = true; fbds.src = '//connect.facebook.net/en_US/fbds.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fbds, s); _fbq.loaded = true; }
+
+  _fbq.push(['addPixelId', '1587945838109569']);
+
+  })();
+
+  window._fbq = window._fbq || [];
+
+  window._fbq.push(['track', 'PixelInitialized', {}]);
+
+</script>
+
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1587945838109569&ev=PixelInitialized" /></noscript><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 <div id="header-wrapper">
-<header id="header" class="container">
-  <a href="/" class="homeImg pull-left"><img alt="Pulselogo" src="https://d1i5ulwvtra6uh.cloudfront.net/assets/pulseLogo-70ef292e622e5053f08bbc653c048d03.png"></a>
-    <div class="topRightNav pull-right">
-      <ul class="nav nav-pills pull-right"><li class=""><a href="/pricing" title="Pricing">Pricing</a></li><li class=""><a href="/testimonials" title="Testimonials">Testimonials</a></li><li class=""><a href="/how-it-works" title="How It Works">How It Works</a></li><li class=""><a href="http://www.tinyhr.com/" title="Blog">Blog</a></li><li class=""><a href="/about" title="About">About</a></li><li class=""><a href="/contact" title="Contact">Contact</a></li><li class=""><a href="/signin" title="Sign In">Sign In</a></li></ul>
-    </div>
+<header class="container" id="header">
+<a href="/" class="homeImg pull-left"><img alt="Tinypulse_logo_2x" src="https://d1i5ulwvtra6uh.cloudfront.net/assets/tinypulse_logo_2x-4413dc58ee3c7725844e31d86c01fea7.png"></a>
+<div class="topRightNav pull-right">
+<ul class="nav nav-pills pull-right"><li class=""><a href="/pricing" title="Pricing">Pricing</a></li><li class=""><a href="/testimonials" title="Testimonials">Testimonials</a></li><li class=""><a href="/how-it-works" title="How It Works">How It Works</a></li><li class=""><a href="http://www.tinyhr.com/blog" title="Blog">Blog</a></li><li class=""><a href="/about" title="About">About</a></li><li class=""><a href="/contact" title="Contact">Contact</a></li><li class=""><a href="/signin" title="Sign In">Sign In</a></li></ul>
+</div>
 </header>
-  <div class="hRule-gray"></div></div>
+<div class="hRule-gray"></div></div>
 <div class="container">
 <div class="row">
 <div class="span12"><div class="main-content"><h1>Privacy Policy</h1>
@@ -179,10 +199,11 @@
 <div class="span2">
 <h4>Resources</h4>
 <ul>
+<li><a href="/resources/advanced-guide-employee-surveys">Advanced Guide To Employee Surveys</a></li>
 <li><a href="/careercation">Careercation</a></li>
 <li><a href="/resources/employee-engagement-survey-2013">Employee Engagement Survey</a></li>
 <li><a href="/top-companies">Top Companies</a></li>
-<li><a href="http://www.tinyhr.com/">Blog</a></li>
+<li><a href="http://www.tinyhr.com/blog">Blog</a></li>
 </ul>
 </div>
 <div class="span4 check-button">
@@ -225,7 +246,7 @@ Give more Cheers and Suggestions
 <p class="center">
 TINYpulse and <a href="https://www.clientpulse.com/" title="CLIENTpulse automates the tedious task of collecting ongoing feedback from your clients">CLIENTpulse</a> are part of the <a href="http://www.tinyhr.com/">TINYhr</a> family.
 </p>
-<p>Copyright © 2014 TINYpulse™</p>
+<p>Copyright © 2015 TINYpulse™</p>
 </div>
 </div>
 </div>
@@ -237,28 +258,26 @@ TINYpulse and <a href="https://www.clientpulse.com/" title="CLIENTpulse automate
   })();
 </script></div>
 <!-- Google Code for Remarketing tag -->
-  <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-  <script type="text/javascript">
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script>
   var google_tag_params = {
     memberType: "employee"
   };
-  </script>
-  <script type="text/javascript">
-  /* <![CDATA[ */
+</script>
+<script>
   var google_conversion_id = 991234592;
   var google_conversion_label = "F0ZlCLi35QQQoJTU2AM";
   var google_custom_params = window.google_tag_params;
   var google_remarketing_only = true;
-  /* ]]> */
-  </script>
-  <div style="display: none;">
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-  </div>
-  <noscript>
-  <div style="display:inline;">
-  <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991234592/?value=0&amp;label=F0ZlCLi35QQQoJTU2AM&amp;guid=ON&amp;script=0"/>
-  </div>
-  </noscript><script type="text/javascript">
+</script>
+<div style="display: none;">
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript"></script>
+</div>
+<noscript>
+<div style='display:inline;'>
+<img alt='' height='1' src='//googleads.g.doubleclick.net/pagead/viewthroughconversion/991234592/?value=0&amp;amp;label=F0ZlCLi35QQQoJTU2AM&amp;amp;guid=ON&amp;amp;script=0' style='border-style:none;' width='1'>
+</div>
+</noscript><script>
   adroll_adv_id = "ZZEVR6LJWFDQPLSC7RWRMC";
   adroll_pix_id = "ST7REGJ3P5CS3CHB6KY5K5";
   (function () {
@@ -274,4 +293,44 @@ TINYpulse and <a href="https://www.clientpulse.com/" title="CLIENTpulse automate
       document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
      if(oldonload){oldonload()}};
   }());
-  </script><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</script><!-- Start of Async HubSpot Analytics Code -->
+<script>
+  (function(d,s,i,r) {
+    if (d.getElementById(i)){return;}
+    var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+    n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/443262.js';
+    e.parentNode.insertBefore(n, e);
+  })(document,"script","hs-analytics",300000);
+</script>
+<!-- End of Async HubSpot Analytics Code --><!-- Start of re_targeting_pixel code -->
+<script>
+  (function() {
+  window._pa = window._pa || {};
+  // _pa.orderId = "myOrderId"; // OPTIONAL: attach unique conversion identifier to conversions
+  // _pa.revenue = "19.99"; // OPTIONAL: attach dynamic purchase values to conversions
+  // _pa.productId = "myProductId"; // OPTIONAL: Include product ID for use with dynamic ads
+  var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+  pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/54ac42cc5c8ec6be88000019.js";
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+<!-- End of re_targeting_pixel code --><!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('7489-546-10-4358');/*]]>*/</script><noscript><a href="https://www.olark.com/site/7489-546-10-4358/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code --><script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
