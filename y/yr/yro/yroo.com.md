@@ -1,174 +1,135 @@
-> *The following text is extracted and transformed from the yroo.com privacy policy that was archived on 2014-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140126035432id_/http%3A//yroo.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yroo.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317091035id_/https%3A//yroo.com/privacy.html%3Fga_pos%3Dfooter) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | yroo
 
-### DARK BLUE SEA - PRIVACY POLICY
+RETAILCOMMON Inc., the owner of yroo.com (“yroo.com,” “us” or “we”), owns and operates the yroo.com website (the “Web Site”) and the services related to or offered on the Web Site (the “Services”).
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+Your privacy and the respectful and responsible handling of your personal information is very important to us. The purpose of this privacy policy (the “Policy”) is to outline the types of information that may be collected about you when visiting the Web Site, how that information will be used and disclosed, and how you can control, correct and update the information.
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+Each visit to the Web Site or use of the Services constitutes your acknowledgement and acceptance of the Policy. Providing personal information or authorizing a third party to disclose personal information to us signifies your consent to yroo.com’s collection, use and disclosure of your personal information in accordance with this Policy.
 
-The Dark Blue Sea group comprises a number of companies that includes:
+For the purposes of this Policy, “personal information” means information that can identify an individual directly or through other reasonably available means. The meaning of “personal information” shall be interpreted in a manner that conforms with the minimum requirements of applicable provincial and federal privacy legislation.
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
+## 1\. Our Privacy Principles
 
+Type of Personal Information Collected
 
+The type of information we collect is linked to the purposes. For instance, when you sign up to be a Member, we may collect your name, email address, and other payment information as well as information about the products or services you view or purchase. If you are part of a referral program we keep track of who you refer and who refers you (as applicable). In addition, we sometimes host contests, so we will collect information as set forth in the contest rules.
 
-#### ABOUT THIS PRIVACY POLICY
+Identifying Purposes and Obtaining Your Consent
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+The purposes for which we collect personal information are mostly what you would reasonably expect. Where it is not reasonably evident why we’re collecting information, we would identify the purposes for collecting your personal information at or before the time it is collected. We will not collect, use or disclose your personal information without your informed consent, unless required or permitted to do so by law.
 
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
+To provide to you a few example of why we collect personal information, we collect, use and disclose personal information about you so we can:
 
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
+  * maintain and manage our membership;
+  * account for reward points or cash back earned under your account;
+  * allocate cash back;
+  * process payments; and
+  * target advertisements to make the Web Site and/or Services more personal and useful to you.
 
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
 
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
 
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
+We may also use your personal information to communicate with you about new products, Services, offerings or other information we reasonably believe may be useful to you.
 
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+## 2\. Limiting Collection, Use and Disclosure of Your Personal Information
 
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+Information Gathered and Used
 
-In order to do this, we share your personal information with our related companies.
+We collect personal information by fair and lawful means and limit collection to that information which is reasonably necessary for the purposes identified in this Policy.
 
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
+The choice to provide us with your personal information, either directly or through a third party, is always yours. However, your decision to withhold particular information may limit our ability to provide you with some of our products or Services.
 
-#### HOW WE COLLECT INFORMATION
+How your Information is Collected
 
-**Personal Information provided to us**
+Most of the personal information we collect will be done online. However, personal information may also be collected in a number of ways, including: over the phone, by mail or, yes, even by fax if necessary (and such fax machines exist). We may also collect personal information from third parties who you have authorized to disclose personal information to us (for instance, our Affiliate Stores will have information on your purchases and that information may be provided to us if necessary to audit transactions and ensure rewards are properly allocated).
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+We make every reasonable effort to ensure that those third parties that disclose your personal information to us have first obtained your consent. If you believe that a third party has inappropriately disclosed your personal information to us, please contact that third party directly. If the third party does not sufficiently respond to your inquiries, please let us know immediately.
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+Your personal information will only be used or disclosed in accordance with the purposes for which it was collected, unless you have otherwise consented and except where required or permitted by law.
 
-**Website activity, cookies and related technology**
+Web cookies are very small text files that are stored on your computer from a webpage to keep track of information about your browsing on that Web Site. Cookies are essential to our ability to track what you’ve viewed and your purchases. We cannot offer the Services or allocate rewards or cash back without cookies being installed in your system.
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+In addition, through the use of web cookies, we may monitor the ads you see and the number of times you view them. The use of cookies also allows us to capture standard web traffic information, such as the time and date you visited our Web Site, your IP address, and your browser information.
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+Information from Social Media. If you access or log-in to the yroo Service through a social media service or connect yroo to a social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the Services through social media services or when you connect a Service to social media services, you are authorizing yroo to collect, store, and use such information and content in accordance with this Privacy Policy.
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+Disclosure to Third Parties
 
-**IP Addresses**
+From time to time we may share your personal information with third parties, as approved by you and/or as described in this Policy. Use of this Web Site and/or Services signifies your consent to yroo.com’s collection, use and disclosure of your personal information in accordance with this Policy.
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
+The type of information we are legally required to disclose may relate to criminal investigations or government tax reporting requirements. In some instances, such as a legal proceeding or court order, we may also be required to disclose your personal information to authorities. Only the information specifically requested is disclosed and we take precautions to satisfy ourselves that the authorities that are making the disclosure request have legitimate grounds to do so.
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+Your personal information may be disclosed in situations where we are legally permitted to do so, such as in the course of employing reasonable and legal methods to enforce your rights or to investigate suspicion of unlawful activities. We may release certain personal information when we believe that such release is reasonably necessary to protect the rights, property and safety of ourselves and others.
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+You also understand and agree that we may use your personal information and disclose your personal information to third parties in connection with the proposed or actual financing, insuring, sale, securitization, assignment or other disposal of all or part of our business or assets (including accounts) for the purposes of evaluating and/or performing the proposed transaction. These purposes may include, for example, permitting such parties to determine whether to proceed or continue with the transaction, fulfilling any reporting or audit requirements to such parties, and/or disclosing personal information as part of concluding a sale or transfer of assets. Our successors and assigns may collect, use and disclose your personal information for substantially the same purposes as those set out in this Policy. In the event the transaction does not go through, we will require, by contract, the other party or parties to the transaction not to use or disclose your personal information in any manner whatsoever for any purpose, and to return or destroy such personal information.
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+Personal information may also be disclosed to service providers and/or third-party contractors who we work with and/or employ on our behalf to help operate yroo.com, the Web Site and/or the Services.
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+Information that cannot be used to reasonably identify an individual (“Anonymous Information”) may be used in aggregate form, combined with other users’ Anonymous Information, and shared with third parties.
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
+Personal information collected during a promotion, contest, sweepstake or poll (“Promotion”), in part or in its entirety, may be disclosed publicly and/or to third parties, as disclosed in the Promotion rules at the time of collection. We do not take responsibility for the privacy policy or practices of any third party. Upon participation in any Promotion, you are subject to any official rules, terms and conditions of that Promotion.
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
+Some or all of your personal information may be shared with Licensors of the Web Site and/or Services. This Policy does not cover the privacy policies or practices of the Licensors.
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
+Personal Information may also be collected and shared with third-party Sponsors, Merchants and/or Vendors. A notice at the time of collection of Personal Information on behalf of a Sponsor will be provided to you along with a link to the Sponsor’s privacy policy.
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+Any information that you share and make publicly available may be made available to all users and third parties. We are not responsible for any information that you share, and your use of the Web Site and/or Services constitutes your acceptance of any risk involved in your disclosure of such information.
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+Keeping your Information Accurate
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+We make every reasonable effort to keep your personal information as accurate, complete and up-to-date as necessary. If desired, you may verify the accuracy and completeness of your personal information in our records.
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
+Despite our best efforts, errors sometimes do occur. Should you identify any incorrect or out-of-date information in your file, we will remedy any such errors on a timely basis. In the event that inaccurate information is mistakenly sent to a third party, we will communicate relevant changes to the third party where appropriate.
 
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
+Please be aware that we may retain some or all of your Personal information in accordance with our Data Retention Policy, and such Personal information provided in accordance with this Policy may remain within our databases, access logs and/or other records. yroo.com is not responsible for correcting, updating or removing any of your Personal Information contained in any third-party’s lists or databases that was provide in accordance with this Policy.
 
-#### EPP SHARING ARRANGEMENTS
+Childrens’ Information
 
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+The Web Site and Services are not directed toward, nor intended for, individuals under the age of 18. Individuals under the age of 18 should not register for the Web Site and/or Services, or provide any personal information. We do not knowingly collect any personal information from individuals under the age of 18. Parents and/or legal guardians of children under the age of 18 who believe their child has registered and/or provided any personal information should contact us at support@yroo.com so that we may delete and remove any such personal information.
 
-#### PROTECTING KIDS PRIVACY
+## 3\. Protecting Your Personal Information
 
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
+Access to your Information within yroo.com
 
-**Notice to Kids**
+Access to private, sensitive and confidential information, including your personal information, is restricted to authorized employees with legitimate business reasons. For example, when responding to customer enquiries, employees will need to access your information to verify your identity and to properly assist you.
 
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
+We require all of our employees to abide by yroo.com’s privacy standards. Our employees understand the importance of keeping your information private. Employees are strictly prohibited from accessing or disclosing personal information without authorization. All employees are expected to maintain the confidentiality of personal information at all times and failure to do so will result in appropriate disciplinary measures including dismissal.
 
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
+Disposal and Retention
 
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
+Except as otherwise permitted or required by law, your personal information will be retained for so long as is reasonably necessary to fulfil the purposes for which it was collected and for a period of time reasonably necessary to conform with legal obligations and to protect our rights and obligations.
 
-**Notice to Parents**
+Safeguarding your Information
 
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
+To ensure that your personal information is protected, we utilize security safeguards that are on par with the industry standard. We use modern technologies to ensure that your confidential information is not compromised. Our server environment and firewall infrastructure are well-maintained and our security practices are reviewed on a regular basis.
 
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
+We keep electronic customer files in a highly-secured environment with restricted access. Paper-based files are stored in locked filing cabinets to which access is also restricted.
 
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
+We use Secure Socket Layer (“SSL”) and 128-bit encryption technologies to enhance security for the secured areas of our Web Site. SSL protects and maintains the security of messages transmitted over the Internet. SSL scrambles your data into an unreadable format, preventing unauthorized access by others.
 
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
+## 4\. Web Sites Governed by this Privacy Policy
 
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
+Our Web Site (yroo.com) is governed by the provisions and practices stated in this Policy. Our Web Site may contain links to third-party web sites that are not governed by this Policy. Although we endeavour to only link to web sites that share our commitment to your privacy, please be aware that this Policy will no longer apply once you leave our web sites and that we are not responsible for the privacy practices of third-party web sites. We therefore suggest that you closely examine the respective privacy policies of third-party web sites to learn how they collect, use and disclose your personal information.
 
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
+Addressing Your Inquiries and Concerns
 
-#### LINKS TO OTHER WEBSITES
+We are happy to provide you with a copy of this Policy and to discuss any of its content with you.
 
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
+Upon request, we will also inform you of: the type of personal information we have collected; how your personal information has been used; and any third parties to whom your personal information has been disclosed.
 
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
+Please direct all questions or enquiries by email to support@yroo.com
 
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
+## 5\. Updating this Privacy Policy
 
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
+Any changes to our privacy standards and information handling practices will be reflected in this Policy in a timely manner. yroo.com reserves the right to change, modify, add, or remove portions of this Policy at any time. Please check this page periodically for any modifications. To determine when this Policy was last updated, please refer to the modification date at the bottom of this Policy. All material changes to this Privacy Policy shall be effective thirty (30) days after the date notice of such changes were posted on our Web Site. Each visit to the Web Site or use of the Services constitutes your acknowledgement and acceptance of the Policy. Providing personal information or authorizing a third party to disclose personal information to us signifies your consent to yroo.com’s collection, use and disclosure of your personal information in accordance with this Policy.
 
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
+## 6\. Governing Law
 
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
+This Policy and all related matters are governed solely by the laws of the Province of Ontario and the applicable federal laws of Canada.
 
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
+yroo.com may perform activities outside of Canada through third parties, such as Affiliate Stores and third party processing agents. You acknowledge and agree that, as a result, your personal information may be processed, used, stored or accessed in other countries and may be subject to the laws of those countries. For example, information may be disclosed in response to valid demands or requests from government authorities, courts, or law enforcement in other countries. In particular, information that is processed, used, stored or accessed in the United States may be subject to the Patriot Act and applicable anti-terrorism legislation, together with other legislation applicable within the United States.
 
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
+Last revised Tuesday, January 27, 2015
 
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
-
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
-
-#### PRIVACY COMPLAINTS
-
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
-
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
-
-
-
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
-
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
-
-
-
-#### YOUR ACCEPTANCE OF THESE TERMS
-
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+21426181.2
