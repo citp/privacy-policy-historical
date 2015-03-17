@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codyapp.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702193826id_/https%3A//www.codyapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codyapp.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317052804id_/https%3A//www.codyapp.com/privacy) for the most accurate reproduction.*
 
 # Cody | Privacy
 
@@ -9,6 +9,16 @@ This privacy policy (this “Policy”) describes how and when Cody, Inc., a Del
 “Personal Information,” as used in this Policy, is information that specifically identifies an individual end user of the Service, such as an individual's name, address, telephone number, or e-mail address. Personal Information also includes information about an individual’s activities, such as information about his or her activity on our Service, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to Personal Information that identifies that individual.
 
 Personal Information does not include “aggregate” or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes.
+
+### Personal Information via Apple Health
+
+Users of iOS 8+ have the ability to share data from Apple Health with our Service. You have control over what data is stored and accessed between Apple Health and our Service and can modify these settings at any time via Apple Health. Notwithstanding other provisions of this Policy: 
+
+  * 1\. We do not store your Apple Health data in iCloud
+  * 2\. We do not use your Apple Health data for advertising or other use-based data mining purposes other than improving health, medical and fitness management, or for the purpose of medical research
+  * 3\. We do not share your Apple Health data with third parties without your consent
+
+
 
 ## Collection of Information
 
@@ -100,8 +110,8 @@ We may occasionally update this Policy. When we do, we will also revise the “l
 If you have any questions or comments about this Policy, please contact us using the following contact information:
 
 Cody, Inc.  
-205 18th Avenue E., Unit 3  
-Seattle, WA 98112  
+1505 Broadway  
+Seattle, WA 98122  
 info@codyapp.com
 
-Last Updated: February 5, 2013
+Last Updated: February 11, 2015
