@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125125530id_/http%3A//ico.org.uk/Global/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317094355id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice - Information Commissioner's Office - ICO
+# Privacy notice | ICO
 
 ## How we use your information
 
 This privacy notice tells you what to expect when the Information Commissioner’s Office (ICO) collects personal information. It applies to information we collect about:
 
-  * visitors to our websites 
-  * complainants and other individuals in relation to a data protection or freedom of information complaint or enquiry 
-  * people who use our services, eg who subscribe to our newsletter or request a publication from us 
-  * people who notify under the Data Protection Act 
+  * visitors to our websites
+  * complainants and other individuals in relation to a data protection or freedom of information complaint or enquiry
+  * people who use our services, eg who subscribe to our newsletter or request a publication from us
+  * people who notify under the Data Protection Act
   * job applicants and our current and former employees
 
 
 
 ## Visitors to our websites
 
-When someone visits [www.ico.org.uk](http://www.ico.org.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting either of our websites ([www.ico.org.uk](http://www.ico.org.uk/) or [www.ico.jobs](http://www.ico.jobs/)). We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
+When someone visits [www.ico.org.uk](http://www.ico.org.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting our website. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
 
 ### Use of cookies by the ICO
 
-You can read more about how we use cookies on our [Cookies page](https://web.archive.org/Global/cookies).
+You can read more about how we use cookies on our [Cookies page](https://web.archive.org/global/cookies/ "Cookies").
 
 ### Search engine
 
@@ -36,11 +36,11 @@ We collect information volunteered by members of the public about nuisance call
 
 ### Security and performance
 
-The ICO uses a third party service to help maintain the security and performance of the ICO website. To deliver this service it processes the IP addresses of visitors to the ICO website. 
+The ICO uses a third party service to help maintain the security and performance of the ICO website. To deliver this service it processes the IP addresses of visitors to the ICO website.
 
-### Data Protection Practitioners Conference site
+### WordPress
 
-We use a third party service, WordPress.com, to publish [our 2014 conference mini-site](http://www.ico.org.uk/conference2014 "External site"). The site is hosted at WordPress.com, which is run by Automattic Inc. We use a standard WordPress service to collect anonymous information about users' activity on the site, for example the number of users viewing pages on the site, to monitor and report on the effectiveness of the site and help us improve it. WordPress requires visitors that want to post a comment to enter a name and email address. For more information about how WordPress processes data, please [see Automattic's privacy notice](http://automattic.com/privacy "External site").
+We use a third party service, WordPress.com, to publish [our blog](http://iconewsblog.wordpress.com/ "ICO blog"), and some of our conference microsites. These sites are hosted at WordPress.com, which is run by Automattic Inc. We use a standard WordPress service to collect anonymous information about users' activity on the site, for example the number of users viewing pages on the site, to monitor and report on the effectiveness of the site and help us improve it. WordPress requires visitors that want to post a comment to enter a name and email address. For more information about how WordPress processes data, please [see Automattic's privacy notice](http://automattic.com/privacy "External site").
 
 ## People who call our helpline
 
@@ -50,7 +50,7 @@ Our helpline also offers a translation service for customers when English is not
 
 ## People who email us
 
-The ICO is part of the GSI network. Any email sent to us, including any attachments, may be monitored and used by us for reasons of security and for monitoring compliance with office policy.  Email monitoring or blocking software may also be used. Please be aware that you have a responsibility to ensure that any email you send to us is within the bounds of the law. 
+The ICO is part of the GSI network. Any email sent to us, including any attachments, may be monitored and used by us for reasons of security and for monitoring compliance with office policy.  Email monitoring or blocking software may also be used. Please be aware that you have a responsibility to ensure that any email you send to us is within the bounds of the law.
 
 ## People who make a complaint to us
 
@@ -70,7 +70,7 @@ When we take enforcement action against someone, we may publish the identity of 
 
 The ICO offers various services to the public. We use a third party to deal with some publication requests, but they are only allowed to use the information to send out the publications.
 
-We have to hold the details of the people who have requested the service in order to provide it. However, we only use these details to provide the service the person has requested and for other closely related purposes. For example, we might use information about people who have requested a publication to carry out a survey to find out if they are happy with the level of service they received. When people do subscribe to our services, they can cancel their subscription at any time and are given an easy way of doing this. 
+We have to hold the details of the people who have requested the service in order to provide it. However, we only use these details to provide the service the person has requested and for other closely related purposes. For example, we might use information about people who have requested a publication to carry out a survey to find out if they are happy with the level of service they received. When people do subscribe to our services, they can cancel their subscription at any time and are given an easy way of doing this.
 
 ## People who register (notify) under the Data Protection Act 1998
 
@@ -90,7 +90,7 @@ The ICO and Egress have measures in place to ensure the security of data collect
 
 ## Job applicants, current and former ICO employees
 
-When individuals apply to work at ICO, we will only use the information they supply to us to process their application and to monitor recruitment statistics. Where we want to disclose information to a third party, for example where we want to take up a reference or obtain a ‘disclosure’ from the Criminal Records Bureau we will not do so without informing them beforehand unless the disclosure is required by law. 
+When individuals apply to work at ICO, we will only use the information they supply to us to process their application and to monitor recruitment statistics. Where we want to disclose information to a third party, for example where we want to take up a reference or obtain a ‘disclosure’ from the Criminal Records Bureau we will not do so without informing them beforehand unless the disclosure is required by law.
 
 Personal information about unsuccessful candidates will be held for 12 months after the recruitment exercise has been completed, it will then be destroyed or deleted. We retain de-personalised statistical information about applicants to help inform our recruitment activities, but no individuals are identifiable from that data.
 
@@ -106,14 +106,15 @@ This privacy notice was drafted with brevity and clarity in mind. It does not pr
 
 ICO tries to be as open as it can be in terms of giving people access to their personal information. Individuals can find out if we hold any personal information by making a ‘subject access request’ under the Data Protection Act 1998. If we do hold information about you we will:
 
-  * give you a description of it; 
-  * tell you why we are holding it; 
-  * tell you who it could be disclosed to; and 
+  * give you a description of it;
+  * tell you why we are holding it;
+  * tell you who it could be disclosed to; and
   * let you have a copy of the information in an intelligible form.
 
 
 
-To make a request to the ICO for any personal information we may hold you need to put the request in writing addressing it to our Information Governance department, or writing to the address provided below. 
+  
+To make a request to the ICO for any personal information we may hold you need to put the request in writing addressing it to our Information Governance department, or writing to the address provided below.
 
 If you agree, we will try to deal with your request informally, for example by providing you with the specific information you need over the telephone.
 
@@ -125,24 +126,25 @@ In many circumstances we will not disclose personal data without consent. Howeve
 
 You can also get further information on:
 
-  * agreements we have with other organisations for sharing information; 
-  * circumstances where we can pass on personal data without consent for example, to prevent and detect crime and to produce anonymised statistics; 
-  * our instructions to staff on how to collect, use and delete personal data; and 
+  * agreements we have with other organisations for sharing information;
+  * circumstances where we can pass on personal data without consent for example, to prevent and detect crime and to produce anonymised statistics;
+  * our instructions to staff on how to collect, use and delete personal data; and
   * how we check that the information we hold is accurate and up to date.
 
 
 
 ## Links to other websites
 
-This privacy notice does not cover the links within this site linking to other websites. We encourage you to read the privacy statements on the other websites you visit. Please read the ICO's reciprocal linking policy for more information.
+This privacy notice does not cover the links within this site linking to other websites. We encourage you to read the privacy statements on the other websites you visit.
 
 ## Changes to this privacy notice
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 7 November 2013.
+We keep our privacy notice under regular review. This privacy notice was last updated on 16 November 2014.
 
 ## How to contact us
 
-If you want to request information about our privacy policy you can [email us](mailto:informationgovernance@ico.org.uk) or write to:  
+If you want to request information about our privacy policy you can [email us](mailto:informationgovernance@ico.org.uk) or write to:
+
 Information Governance department  
 Information Commissioner's Office  
 Wycliffe House  
@@ -151,4 +153,4 @@ Wilmslow
 Cheshire  
 SK9 5AF
 
-[Read more in our guide to information](https://web.archive.org/Global/publication_scheme_compliance)
+[Read more in our guide to information](https://web.archive.org/global/icos-publication-scheme-compliance/ "ICO's publication scheme compliance")
