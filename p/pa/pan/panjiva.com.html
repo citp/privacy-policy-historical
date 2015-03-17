@@ -1,16 +1,18 @@
-<!--The following is the downloaded HTML source of the panjiva.com privacy policy that was archived on 2014-08-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140801191208id_/https%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the panjiva.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317191630id_/https%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><!--<![endif]--><head>
 
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE">
-<script async="" charset="utf-8" src="//v2.zopim.com/?gNzPbnnZRH7OdEMfUj2oM0cOirQN1nMr" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"497b5339ce","applicationID":"440748","transactionName":"eltdEUMOW15SE0pbDV9bHBVDCEFTVBg6QgxVXVAc","queueTime":0,"applicationTime":91,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js","extra":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUEVlVADAcAU1Va"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"497b5339ce","applicationID":"440748","transactionName":"eltdEUMOW15SE0pbDV9bHBVDCEFTVBg6QgxVXVAc","queueTime":0,"applicationTime":70,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-593.min.js","extra":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUEVlVADAcAU1Va"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 
 <meta name="description" content="Panjiva provides data that powers global trade. Using information from 30 sources, we have shipment and customs records, company overviews and contact information on over 10 million business world wide." charset="utf-8/">
 <meta name="keywords" content="sourcing, manufacturers, factories, suppliers, customs data, import data, export data, hs code, buyers, agents, global trade" charset="utf-8/">
 <meta name="baidu-site-verification" content="PppkSQI67P">
-
+<meta name="360-site-verification" content="f3b3d4e2c604af8677b0f27abd1ac955">
+<meta property="qc:admins" content="114226717601621616375">
+<meta property="wb:webmaster" content="3af24daec7dedabe">
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
@@ -18,9 +20,9 @@
 <meta name="robots" content="all">
 <meta http-equiv="imagetoolbar" content="false">
 <meta name="MSSmartTagsPreventParsing" content="true">
-<meta name="Copyright" content="Copyright (c) 2014 Panjiva">
+<meta name="Copyright" content="© 2015 Panjiva, Inc.">
 
-<link rel="shortcut icon" href="http://global-assets.panjiva.com/images/favicon.c71d6d4ad2afb0d5.ico?c71d6d4ad2afb0d5">
+<link rel="shortcut icon" href="https://global-assets.panjiva.com/images/favicon.c71d6d4ad2afb0d5.ico?c71d6d4ad2afb0d5">
 
 <link rel="search" type="application/opensearchdescription+xml" title="Panjiva Manufacturer Search" href="/assets/opensearch_plugins/panjiva.xml">
 
@@ -35,10 +37,8 @@
     _gaq.push(['bounceTracker._setDomainName', '.panjiva.com']);
     _gaq.push(['bounceTracker._setAllowHash', false]);
     
-  _gaq.push(['pageTracker._setCustomVar', 1, 'free_trial_vs_request_demo_cta_20140411', 'request_demo', 2]);
-_gaq.push(['pageTracker._setCustomVar', 2, 'status', 'log_out', 1]);
-_gaq.push(['pageTracker._setCustomVar', 3, 'actions', '--trs--', 2]);
-_gaq.push(['bounceTracker._setCustomVar', 4, 'free_trial_vs_request_demo_cta_20140411', 'request_demo', 2]);
+  _gaq.push(['pageTracker._setCustomVar', 2, 'status', 'log_out', 1]);
+_gaq.push(['pageTracker._setCustomVar', 3, 'actions', '----', 2]);
 //]]>
 </script>    
 <script type="text/javascript">
@@ -49,8 +49,8 @@ _gaq.push(['bounceTracker._setCustomVar', 4, 'free_trial_vs_request_demo_cta_201
 //]]>
 </script>
 
-<link href="http://global-assets.panjiva.com/stylesheets/base_aa50ca34a3376c6d.css?aa50ca34a3376c6d" media="screen" rel="stylesheet" type="text/css">
-<link href="http://global-assets.panjiva.com/stylesheets/base2_00e255a039c9ee1c.css?00e255a039c9ee1c" media="screen" rel="stylesheet" type="text/css">
+<link href="https://global-assets.panjiva.com/stylesheets/base_51e301313ec2a0fa.css?51e301313ec2a0fa" media="screen" rel="stylesheet" type="text/css">
+<link href="https://global-assets.panjiva.com/stylesheets/base2_df3412450f972802.css?df3412450f972802" media="screen" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 //<![CDATA[
 
@@ -61,12 +61,20 @@ window.onbeforeunload = function() {
 globalInDevelopment = false;
 //]]>
 </script>
+    <!--[if lt IE 8]>
+    <script type="text/javascript">
+//<![CDATA[
+window.location.replace('https://panjiva.com/info/deprecated_browser?after=https%3A%2F%2Fpanjiva.com%2Finfo%2Fprivacy_policy')
+//]]>
+</script>  <![endif]-->
 
-<script src="http://global-assets.panjiva.com/javascripts/jquerybase_7bda6ba5428adfb0.js?7bda6ba5428adfb0" type="text/javascript"></script><script type="text/javascript">
+<script src="https://global-assets.panjiva.com/javascripts/jquerybase_c0f00f498625201d.js?c0f00f498625201d" type="text/javascript"></script><script type="text/javascript">
 //<![CDATA[
 var $j = jQuery.noConflict();
 //]]>
 </script>
+<script src="https://global-assets.panjiva.com/javascripts/jquerycookie_b57b4a156637e837.js?b57b4a156637e837" type="text/javascript"></script>
+<script src="https://global-assets.panjiva.com/javascripts/signup_b2a5a027322824f8.js?b2a5a027322824f8" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 (function($j){
@@ -105,7 +113,7 @@ function send_client_error(url, params) {
 window.onerror = function (error_msg, url, line_num) {
   var params = {description: error_msg, url: url, line: line_num, page_url: document.location.href, user_agent: navigator.userAgent};
   get_ie_stack(params);
-  send_client_error('/client_error/log_client_js_error', params);
+  send_client_error('/client_error/js', params);
   
   return false
 }
@@ -128,7 +136,7 @@ $j(document).ajaxError(function(ev, xhr, settings, ex) {
   if (settings.data) {
     params.data = settings.data;
   }
-  send_client_error('/client_error/log_client_ajax_error', params);
+  send_client_error('/client_error/ajax', params);
   
 });
 
@@ -142,29 +150,36 @@ $j(document).ajaxError(function(ev, xhr, settings, ex) {
 
 
 
-<link href="http://global-assets.panjiva.com/stylesheets/pageviewlimit_6781461edb9c0616.css?6781461edb9c0616" media="screen" rel="stylesheet" type="text/css">
+<link href="https://global-assets.panjiva.com/stylesheets/pageviewlimit_53f9d8c736d8d1f9.css?53f9d8c736d8d1f9" media="screen" rel="stylesheet" type="text/css"><link href="https://global-assets.panjiva.com/stylesheets/signupform_d44599765ff55b08.css?d44599765ff55b08" media="screen" rel="stylesheet" type="text/css">
 
 
-
-<script src="http://global-assets.panjiva.com/javascripts/base_ba4ad1a6fb96c07c.js?ba4ad1a6fb96c07c" type="text/javascript"></script><script type="text/javascript">
+<script src="https://global-assets.panjiva.com/javascripts/base_ae716be30763920a.js?ae716be30763920a" type="text/javascript"></script><script type="text/javascript">
 //<![CDATA[
 $j(document).bind('init.facebox', function(e) {
-      $j.facebox.settings.loadingImage = 'http://global-assets.panjiva.com/images/indicator.03ce3dcc84af110e.gif?03ce3dcc84af110e';
-      $j.facebox.settings.closeImage = 'http://global-assets.panjiva.com/images/facebox/closelabel.0e5462b0b4f00432.gif?0e5462b0b4f00432';
+      $j.facebox.settings.loadingImage = 'https://global-assets.panjiva.com/images/indicator.03ce3dcc84af110e.gif?03ce3dcc84af110e';
+      $j.facebox.settings.closeImage = 'https://global-assets.panjiva.com/images/facebox/closelabel.0e5462b0b4f00432.gif?0e5462b0b4f00432';
     });
 //]]>
 </script>
 <!--[if IE]>
-<link href="http://global-assets.panjiva.com/stylesheets/corporateie_64de0af8c106ab16.css?64de0af8c106ab16" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+<link href="https://global-assets.panjiva.com/stylesheets/corporateie_64de0af8c106ab16.css?64de0af8c106ab16" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 
-<link href="http://global-assets.panjiva.com/stylesheets/profilev4footer_50e7e72b8150357e.css?50e7e72b8150357e" media="screen" rel="stylesheet" type="text/css"><!--[if IE 8]>
-<link href="http://global-assets.panjiva.com/stylesheets/profilev4footerie8_ecf9aeb7150f0d22.css?ecf9aeb7150f0d22" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
-
-
+<link href="https://global-assets.panjiva.com/stylesheets/profilev4footer_96fbea841d1246de.css?96fbea841d1246de" media="screen" rel="stylesheet" type="text/css"><!--[if IE 8]>
+<link href="https://global-assets.panjiva.com/stylesheets/profilev4footerie8_ecf9aeb7150f0d22.css?ecf9aeb7150f0d22" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 
 
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+  window.geoipCountryName = 'United States';
+  window.sessionId = '3ac48ed73e2432ada956f41a2776960a';
+
+//]]>
+</script>
 <title>Privacy Policy — Panjiva</title>
-<script type="text/javascript" async="" src="https://1d5ef9e9369608f625a8-878b10192d4a956595449977ade9187d.ssl.cf2.rackcdn.com/cloudamp_min.js"></script></head>
+</head>
 
 <body id="info_privacy_policy" class="info  ">
 <a name="top"></a>
@@ -173,7 +188,7 @@ $j(document).bind('init.facebox', function(e) {
     <div title="Please sign in" class="form translate">
       
 <div>
-  <form action="https://panjiva.com/account/login_submitted" id="top_login_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="Rx3uRNVIGHbb8GKnZLz7QwT9KOd/KjSW+g6bDoYJ2cY="></div>
+  <form action="https://panjiva.com/account/login_submitted" id="top_login_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="aBMD21nIU0VXY1PyPTWNb5fWD4G8DpHRQ2I2xFn2ef0="></div>
     <fieldset>
       <label for="email">Email<span class="labelAside"></span></label>
       <input type="text" name="email" id="top_dropdown_login_email" value="">
@@ -214,7 +229,7 @@ $j(document).bind('init.facebox', function(e) {
   if (!isGoogleAnalyticsLoaded) {
     (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
     isGoogleAnalyticsLoaded = true;
@@ -237,42 +252,38 @@ $j(document).bind('init.facebox', function(e) {
     <div class="nav" style="float:none;">
       <ul id="navbar-nav-links">
         <li style="position:relative;" class="header-dropdown-li">
-          <a href="/for-buyers/how-we-help-buyers">How We Help<span style="padding-bottom:3px;">▼</span></a>
-          <ul class="translate dropdown-container" style="display:none;">
+                      <a href="/for-buyers/how-we-help-buyers">How We Help</a>
+                    <ul class="translate dropdown-container" style="display:none;">
             <li><a href="/for-buyers/how-we-help-buyers">Buyers</a></li>
             <li><a href="/for-suppliers/how-we-help-suppliers">Suppliers</a></li>
             <li><a href="/for-logistics/how-we-help-logistics-professionals">Logistics</a></li>
             <li><a href="/for-researchers/how-we-help-researchers">Researchers</a></li>
           </ul>
         </li>
-        
-          <li style="position:relative;" class="header-dropdown-li">
-            <a>Products<span style="padding-bottom:3px;">▼</span></a>
-            <ul class="translate dropdown-container" style="display:none; width: 220px;">
-              <li><a href="/data/chinese-trade-data">Chinese Data</a></li>
-              <li><a href="/latin-american-trade-data">Latin America Data</a></li>
-              <li><a href="/api">API</a></li>
-            </ul>
-          </li>
-        
+        <li style="position:relative;" class="header-dropdown-li">
+          <a>Products</a>
+          <ul class="translate dropdown-container" style="display:none; width: 220px;">
+            <li><a href="/china_customs/overview">Chinese Data</a></li>
+            <li><a href="/data/mexican-trade-data">Mexican Data</a></li>
+            <li><a href="/south-america-trade-data">South America Data</a></li>
+            <li><a href="/api">API</a></li>
+          </ul>
+        </li>
                 <li><a class="pricing " href="/subscribe">Pricing</a></li>
         <li><a href="/search">Search</a></li>
         <li style="position:relative;" class="header-dropdown-li">
-          <a>English<span style="padding-bottom:3px;">▼</span></a>
+          <a><img class="language-icon" src="/images/marketing/world_icon.png">English</a>
           <ul class="notranslate dropdown-container" style="display:none;">
                                                       <li class="es">
-                <a href="http://es.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">Español</a>              </li>
-                                        <li class="de">
-                <a href="http://de.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">Deutsch</a>              </li>
+                <a href="https://es.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">Español</a>              </li>
                                         <li class="zh-cn">
-                <a href="http://cn.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">中文</a>              </li>
+                <a href="https://cn.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">中文</a>              </li>
                       </ul>
         </li>
         <li style="float:right;">
                       <a href="/request-demo" class="demo">Demo</a>                  </li>
         <li style="float:right;">
                       <a href="/account/login" class="header-signin-link">Sign in</a>                  </li>
-        <li style="display:none" id="connect-join" class="demo"><a href="/signup/connect_signup">Join Now</a></li>
       </ul>
     </div>
   </div>
@@ -282,7 +293,7 @@ $j(document).bind('init.facebox', function(e) {
   
 
 <div class="everest">
-  
+  <div class="translate">
 
 
 
@@ -292,7 +303,9 @@ $j(document).bind('init.facebox', function(e) {
 
 
   
-</div>
+
+</div></div>
+
 <div id="container">
     <div id="content">
     <h1>Panjiva Privacy Policy</h1>
@@ -317,7 +330,7 @@ $j(document).bind('init.facebox', function(e) {
 
 <p>We may combine your personally identifying information, and information about your preferences and activities, with those of all or a particular group of our users to prepare collective profiles of our users and their activities. For example, we may track the number of our users who view certain pages or use certain features or compile the total dollar amount of sales conducted through our site in a particular geographic region. Such information, and other information we derive from individual users’ information, allows us to continue to grow and provide you with quality fellow users through more accurate marketing and advertising of our Web site.</p>
 
-<p>For the avoidance of doubt, nothing in this Privacy Policy shall limit the right in Submissions that you provide to Panjiva, as "Submissions" and rights therein are defined in the <a href="http://panjiva.com/info/terms_of_use">Web Site Terms and Conditions of Use</a>.</p>
+<p>For the avoidance of doubt, nothing in this Privacy Policy shall limit the right in Submissions that you provide to Panjiva, as "Submissions" and rights therein are defined in the <a href="https://panjiva.com/info/terms_of_use">Web Site Terms and Conditions of Use</a>.</p>
 
 <h4>Disclosure of Information</h4>
 
@@ -346,103 +359,81 @@ $j(document).bind('init.facebox', function(e) {
 <h3>Changes to Privacy Policy.</h3>
 
 <p>It may be necessary from time to time for us to modify this policy to reflect changes in the way we collect and use information or changes in privacy–related laws, regulations, and industry standards. Accordingly, we reserve the right to change this policy at any time by posting the revised policy on this web site. This policy was posted on June 17, 2008. Data will be handled in accordance with the policy in effect at the time the data is used, subject to the user’s right to opt out of revisions to this policy implemented since the data was first collected. </p>  </div>   </div>
-    <div class="scroll-top">
-    <div class="container_12">
-      <div class="grid_12">
-                  <a class="translate" href="#top" onclick="$j('html, body').animate({scrollTop:0}, 'slow');; return false;">Top of Page</a>              </div>
-    </div>
-  </div>
+  
   <div id="footer" class="translate">
-    <div class="container_12">
+    <div class="container_12 footer-top">
       <div class="footer-links">
         <div class="grid_2">
           <ul>
-            <li class="list-headline"><a href="/for-buyers/how-we-help-buyers">Panjiva for Buyers</a></li>
-            <li class="list-entry-ie-fix"><a href="/for-buyers/how-we-help-buyers">How We Help</a></li>
-<li class="list-entry-ie-fix"><a href="/for-buyers/benefits">Benefits</a></li>
-<li class="list-entry-ie-fix"><a href="/for-buyers/case-studies">Case Studies</a></li>
-<li class="list-entry-ie-fix"><a href="http://panjiva.com/subscribe">Plans &amp; Pricing</a></li>
-<li class="list-entry-ie-fix"><a href="/for-buyers/our-clients">Clients</a></li>
-<li class="list-entry-ie-fix"><a href="/sitemap/buyer_directory">Buyer Directory</a></li>
+            <li class="list-headline">How We Help</li>
+            <li><a href="/for-buyers/how-we-help-buyers">Buyers</a></li>
+            <li><a href="/for-suppliers/how-we-help-suppliers">Suppliers</a></li>
+            <li><a href="/for-logistics/how-we-help-logistics-professionals">Logistics</a></li>
+            <li><a href="/for-researchers/how-we-help-researchers">Researchers</a></li>
             </ul>
         </div>
         <div class="grid_2">
           <ul>
-            <li class="list-headline"><a href="/for-suppliers/how-we-help-suppliers">Panjiva for Suppliers</a></li>
-            <li class="list-entry-ie-fix"><a href="/for-suppliers/how-we-help-suppliers">How We Help</a></li>
-<li class="list-entry-ie-fix"><a href="/for-suppliers/benefits">Benefits</a></li>
+            <li class="list-headline">Products</li>
+            <li><a href="/search">Search</a></li>
+            <li><a href="/sample/supplier">Profile</a></li>
+            <li><a href="/data/shipment-search-pro">Shipment Search Pro</a></li>
+            <li><a href="/api">API</a></li>
+          </ul>
+        </div>
+        <div class="grid_2">
+          <ul>
+            <li class="list-headline">Data</li>
+            <li><a href="/data/mexican-trade-data">Mexico</a></li>
+            <li><a href="/south-america-trade-data">South America</a></li>
+            <li><a href="/china_customs/overview">China</a></li>
+          </ul>
+        </div>
+        <div class="grid_2">
+          <ul>
+            <li class="list-headline">Company</li>
+            <li><a href="/about-panjiva/leadership-team">Team</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/about-panjiva/press">Press</a></li>
+            <li><a href="/contact">Contact</a></li>
+            <li><a href="/jobs">Jobs</a></li>
+          </ul>
+        </div>
+        <div class="grid_4 contact-info">
+            +1-888-902-3511<br>
+            contact@panjiva.com<br>
+            20 West 22nd Street, Suite 706<br>New York, NY, 10010 / USA            <br>
+        </div>
+      </div>
+    </div>
 
-  <li class="list-entry-ie-fix"><a href="/connect/subscribe?supplier=true">Plans &amp; Pricing</a></li>
-<li class="list-entry-ie-fix">
-<a href="/supplier_profiles/new?ref=suppliers_menu_footer">Create Your Profile</a></li>
-<li class="list-entry-ie-fix"><a href="/sitemap/supplier_directory">Supplier Directory</a></li>
-          </ul>
-        </div>
-        <div class="grid_2">
-          <ul>
-            <li class="list-headline"><a href="/about-panjiva/intelligence-platform">Company</a></li>
-            <li class="list-entry-ie-fix"><a href="/about-panjiva/intelligence-platform">Intelligence Platform</a></li>
-<li class="list-entry-ie-fix"><a href="/about-panjiva/leadership-team">Leadership Team</a></li>
-<li class="list-entry-ie-fix"><a href="/about-panjiva/press">Press</a></li>
-<li class="list-entry-ie-fix"><a href="/contact">Contact</a></li>
-<li class="list-entry-ie-fix"><a href="/jobs">Jobs at Panjiva</a></li>
-<li class="list-entry-ie-fix"><a href="/blog">Panjiva Blog</a></li>
-          </ul>
-        </div>
-        <div class="grid_2">
-          <ul>
-            <li class="list-headline"><a href="/search">Products</a></li>
-            <li class="list-entry-ie-fix"><a href="/subscribe">Plans</a></li>
-            <li class="list-entry-ie-fix"><a href="/data/chinese-trade-data">Chinese Data</a></li>
-            <li class="list-entry-ie-fix"><a href="/latin-american-trade-data">Latin America Data</a></li>
-            <li class="list-entry-ie-fix"><a href="/api">API</a></li>
-          </ul>
-        </div>
-        <div class="grid_2">
-          <ul>
-            <li class="list-headline"><a href="http://panjiva.com/trends">Import Trends</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/lamp" title="U.S. import trends for lamp">Lamp Trends</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/furniture" title="U.S. import trends for furniture">Furniture Trends</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/sweater" title="U.S. import trends for sweater">Sweater Trends</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/fabric" title="U.S. import trends for fabric">Fabric Trends</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/valve" title="U.S. import trends for valve">Valve Trends</a></li>
-                        <li class="list-entry-ie-fix"><a href="http://panjiva.com/import-export/by-country" title="See trade details between the US and other countries.">Import/Export by Country</a></li>
-          </ul>
-        </div>
-        <div class="grid_2">
-          <ul class="last">
-            <li class="list-headline"><a href="/industries/Apparel-Textiles/40">By Industry</a></li>
-                  <li class="list-entry-ie-fix"><a href="/industries/Hardware-and-Tools/3">Hardware and Tools</a></li>
-      <li class="list-entry-ie-fix"><a href="/industries/Apparel-Textiles/40">Apparel &amp; Textiles</a></li>
-      <li class="list-entry-ie-fix"><a href="/industries/Chemicals/65">Chemicals</a></li>
-      <li class="list-entry-ie-fix"><a href="/industries/Food-and-Beverage/48">Food and Beverage</a></li>
-<li class="list-entry-ie-fix"><a href="/data/shipment-search-pro">Shipment Search Pro</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="grid_4 copyright-info">
-        <a href="http://panjiva.com/homepage"><label alt="Logo Footer" class="global-logo-footer" for="" style="display:inline-block;height:27px;width:90px;"></label></a>        <p>Copyright © 2014 Panjiva, Inc. All rights reserved.<br>
-        <a href="/info/terms_of_use">Terms of Use</a>  /  <a href="/info/privacy_policy">Privacy Policy</a>  /  <a href="/sitemap">Sitemap</a>                </p>
-      </div>
-      <div class="grid_6 contact-info">
-        <p><span class="SL_block">20 West 22nd Street, Suite 801, New York, NY, 10010 / USA</span>
-          <br>
-        <span class="SL_block">P: +1-888-902-3511&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F: +1-212-255-0795&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E: contact@panjiva.com</span></p>
-      </div>
-      <div class="grid_2 socialmedia-info">
-        <a href="http://twitter.com/panjiva"><label class="global-twitter_small small-icon first" for="" style="display:inline-block;height:16px;width:16px;"></label></a>        <a href="http://www.linkedin.com/company/panjiva"><label class="global-linkedin_small small-icon" for="" style="display:inline-block;height:16px;width:16px;"></label></a>              </div>
-      <ul id="locale-selector" class="notranslate">
+    <div class="footer-bottom">
+      <ul id="locale-selector" class="container_12 notranslate">
                   <li id="en-selector">
                           <strong>English</strong>
                       </li>
+          &nbsp;&nbsp;&nbsp;
                   <li id="es-selector">
-                          <a href="http://es.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">Español</a>                      </li>
-                  <li id="de-selector">
-                          <a href="http://de.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">Deutsch</a>                      </li>
+                          <a href="https://es.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">Español</a>                      </li>
+          &nbsp;&nbsp;&nbsp;
                   <li id="zh-cn-selector">
-                          <a href="http://cn.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">中文</a>                      </li>
-              </ul>
+                          <a href="https://cn.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">中文</a>                      </li>
+          &nbsp;&nbsp;&nbsp;
+                <li class="copyright-info"> © 2015 Panjiva, Inc.&nbsp;&nbsp;&nbsp;
+        <a href="/info/terms_of_use">Terms of Use</a>&nbsp;&nbsp;&nbsp;
+        <a href="/info/privacy_policy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;
+        <a href="/sitemap">Sitemap</a>        </li>
+      </ul>
     </div>
+
+    <div id="persona-survey-popover" class="footer-popover survey-mar2015">
+      <a class="non_link_look close-survey-link" href="#" title="Close">
+        <span class="closeIcon icon panjiva-icon-x-circle"></span>
+      </a>
+      <p>What features matter most to you?</p>
+      <a class="cta-survey take-survey-link" href="https://www.surveymonkey.com/r/CKVVKBB" target="_blank">Take Poll</a>
+    </div>
+
   </div>
 
     </div>
@@ -453,7 +444,7 @@ $j(document).bind('init.facebox', function(e) {
   if (!isGoogleAnalyticsLoaded) {
     (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
     isGoogleAnalyticsLoaded = true;
@@ -469,103 +460,70 @@ $j(document).bind('init.facebox', function(e) {
       <script type="text/javascript">
 //<![CDATA[
 
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
-$.src='//v2.zopim.com/?gNzPbnnZRH7OdEMfUj2oM0cOirQN1nMr';z.t=+new Date;$.
-type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
-
+      var alt_widget = "6c31f344-9e8c-4bad-b40f-07bcfb83fdf3";
+    
 //]]>
-</script>
-
+</script>  
+  
 
 <script type="text/javascript">
 //<![CDATA[
 
-    $j(function(){
-    (function(){
-  function watch_iframe(o, c) {
-    var c_now = o.contents().length;
-    if (c && c_now == c) {
-      $j.map(o.contents(), function(c){
-        $j(c).click(function(){
-          $j.post('/info/set_key_action?key_action=chat', function(data){});
-        });
-      });
-    } else {
-      setTimeout(function(){watch_iframe(o, c_now);});
-    }
-  }
-  var chat = {};
-  chat.retries = 0;
-  chat.retry_setup = function(){
-    if (chat.retries < 10) {
-      chat.retries += 1;
-      chat.setup();
-    }
-  };
-  chat.setup = function(){
-    var iframes = $j('iframe');
-    if (iframes.length == 4 || false) {
-      var i = 0;
-      $j.map($j('iframe'), function(o){
-        if ($j(o).attr('id') == '') {
-          $j(o).attr('id', 'iframe_' + i);
-          watch_iframe($j(o));
-          i += 1;
-        }
-      });
-      $j('#mpb_chat_wrapper').show();
-    } else {
-      setTimeout(function(){chat.retry_setup()}, 500);
-    }
-  };
-  setTimeout(function(){chat.setup()}, 2000);
-})();
-
-    });
-//]]>
-</script>
-    <script type="text/javascript">
-//<![CDATA[
-
-    $j(function(){
-    
-      $zopim(function() {
-        
-      });
-    
-    });
-//]]>
-</script>  
-  
-    
-    <script type="text/javascript">
-//<![CDATA[
-
-    var _cloudAmp={};(function(){var a=document.getElementsByTagName("script");var d=a.length;_cloudAmp.validScripts=[];_cloudAmp.attachOnloadEvents=function(g){g.script.onreadystatechange=function(){if(g.script.readyState==="loaded"){g.loaded=true}};g.script.onload=function(){g.loaded=true}};for(var f=0;f<d;f+=1){if(a[f].src){var c={script:a[f],src:a[f].src,loaded:false};_cloudAmp.validScripts.push(c);_cloudAmp.attachOnloadEvents(c)}}var b=document.createElement("script");b.type="text/javascript";b.async=true;b.src="https://1d5ef9e9369608f625a8-878b10192d4a956595449977ade9187d.ssl.cf2.rackcdn.com/cloudamp_min.js";var e=document.getElementsByTagName("head");e[0].appendChild(b)})();
-  
-//]]>
-</script>
-    <script type="text/javascript">
-//<![CDATA[
-
-    $j(function(){
-    
-    $j.ajax({
-      url: '//munchkin.marketo.net/munchkin-beta.js',
-      dataType: 'script',
-      cache: true,
-      success: function() {
-        Munchkin.init('229-PES-487');
-        // All the places we want to track should handle this event.
-        $j(window).trigger('marketo_loaded');
+  !function($, window, undefined) {
+    if (typeof alt_widget === 'undefined'){
+      var widgetid = '6cce0a8d-ffc3-47cc-8f58-5763f7b3b753'
+      } else{
+        var widgetid = alt_widget
       }
+
+
+    $(function() {
+      $(document.body).append('<div id="SnapABug_W"></div><div id="SnapABug_WP"></div><div id="SnapABug_Applet"></div>');
+      $.getScript("//snapabug.appspot.com/snapabug.js", function() {
+        SnapABug.initAsync(widgetid);
+        SnapABug.getAgentStatusAsync(function(online) {
+          var isblog = window.location.pathname.search(/blog/i)
+          if (isblog != 1){
+            if (online && 'true' === 'true') {
+              $("#snapengage_button").html("<div id='SnapABug_bImg' class='snapabug-text'>Live Help</div>");
+            } else {
+                $("#snapengage_button").html("<div id='SnapABug_bImg' class='snapabug-text'>Get Help</div>");
+            }
+          }
+          });
+        $("#snapengage_button").show();
+        SnapABug.setDomain('panjiva.com');
+       
+      });
     });
-  
+  }($j, window);
+
+//]]>
+</script>
+<div class="SnapABug_Button" id="snapengage_button" onclick="SnapABug.startLink();">
+</div>
+      <script type="text/javascript">
+//<![CDATA[
+
+    $j(function(){
+    
+      piAId = '65382';
+      piCId = '1436';
+
+      (function() {
+        function async_load(){
+          var s = document.createElement('script'); s.type = 'text/javascript';
+          s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+          var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+        }
+        if(window.attachEvent) { window.attachEvent('onload', async_load); }
+        else { window.addEventListener('load', async_load, false); }
+      })();
+    
     });
 //]]>
 </script>
+        
 
 
     <div id="origin-source"></div>
@@ -581,12 +539,11 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
   var hostname = window.location.hostname;
 
   if(!domains[0].test(hostname) && !domains[1].test(hostname)) {
-    $j("#origin-source").html("<img src='http://panjiva.com/logging/home' style='width:1px;height:1px' />");
+    $j("#origin-source").html("<img src='https://panjiva.com/logging/home' style='width:1px;height:1px' />");
   }
   
     });
 //]]>
 </script>
 
-
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
