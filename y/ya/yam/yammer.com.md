@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yammer.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702004724id_/https%3A//about.yammer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yammer.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317222425id_/https%3A//about.yammer.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Yammer
 
@@ -38,7 +38,7 @@ In addition, Microsoft uses Contact Data to complete the transactions you reques
 
 We may also use Contact Data to contact you to provide information about new subscriptions, billing and important updates about the Services, including information about security or other technical issues.  We may also contact you regarding third-party inquiries as described in this privacy statement or your agreement(s).  If you are a verified administrator for the Service, you may not be able to unsubscribe from some of these communications.
 
-Subject to your contact preferences, we may also use Contact Data to contact you regarding information and offers about the Service, other products and services or to request your feedback.  If you do not wish to receive these communications, please see [Emails We Send](http://about.yammer.com/emails-we-send/ "Emails We Send") for information on how to stop them and configure other notification preferences.
+Subject to your contact preferences, we may also use Contact Data to contact you regarding information and offers about the Service, other products and services or to request your feedback.  If you do not wish to receive these communications, please see [Emails We Send](https://about.yammer.com/emails-we-send/ "Emails We Send") for information on how to stop them and configure other notification preferences.
 
 **Usage Data   **
 
@@ -92,7 +92,7 @@ You may access, correct or delete Customer Data or Contact Data you have provide
 
 **Security  **
 
-We have implemented and will maintain appropriate technical and organizational measures, internal controls, and information security routines intended to protect your information against accidental loss, destruction, or alteration; unauthorized disclosure or access; or unlawful destruction. For more information about the security measures we take, please see [about.yammer.com/product/security/](http://about.yammer.com/product/security/ "Safety, Security, and Privacy").
+We have implemented and will maintain appropriate technical and organizational measures, internal controls, and information security routines intended to protect your information against accidental loss, destruction, or alteration; unauthorized disclosure or access; or unlawful destruction. For more information about the security measures we take, please see [about.yammer.com/product/security/](https://about.yammer.com/product/security/ "Safety, Security, and Privacy").
 
 **Data Location  **
 
