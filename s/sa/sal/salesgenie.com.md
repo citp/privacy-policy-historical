@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesgenie.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912072633id_/https%3A//www.salesgenie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesgenie.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317181938id_/https%3A//www.salesgenie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Consumer & Business Sales Leads | Salesgenie
 
