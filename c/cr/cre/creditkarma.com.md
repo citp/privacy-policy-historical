@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202033825id_/https%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317134310id_/https%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
 
 # Credit Karma Privacy Policy | Credit Karma
-
-##### Privacy Policy
-
-_Effective date November 6, 2014_
 
 [](http://www.truste.org/ivalidate.php?url=www.creditkarma.com&sealid=101)
 
 Welcome to Credit Karma! We’re here to provide you with tools and services that are designed to help you make the most of your credit health. Our privacy policy (the **"Privacy Policy"** ) describes the information Credit Karma, Inc. ( **"Credit Karma,"** **"CreditKarma.com,"** **"we,"** **"us"** or **"our"** ) collects when you register for, use, access or otherwise interact with any of our applications, products or services (collectively, the **"Services"** ), why we collect it, how we use and share the information that we collect and receive, and the choices we offer. 
 
-In addition, please review our [Terms of Use](https://web.archive.org/web/20141202033825id_/https%3A//www.creditkarma.com/about/terms), which governs your use of our Services. 
+In addition, please review our [Terms of Use](https://web.archive.org/web/20150317134310id_/https%3A//www.creditkarma.com/about/terms), which governs your use of our Services. 
 
 Credit Karma has received [TRUSTe's Privacy Seal](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. 
 
@@ -26,7 +22,7 @@ When you register for an account with Credit Karma or use our Services, we may a
 
 The Services are operated in the United States and intended for users located in the United States. 
 
-The Services are not intended for anyone under the age of 18. We do not knowingly collect any Personal Information from children younger than the age of 13. We will delete any Personal Information collected that we determine to be from a user younger than the age 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed Personal Information or other information to us, please contact us at [legal@creditkarma.com](https://web.archive.org/web/20141202033825id_/https%3A//www.creditkarma.com/about/legal@creditkarma.com) via email or write to us at: Credit Karma, Inc. Attention: Legal Department, P.O. Box 520, San Francisco, CA 94104-0520. 
+The Services are not intended for anyone under the age of 18. We do not knowingly collect any Personal Information from children younger than the age of 13. We will delete any Personal Information collected that we determine to be from a user younger than the age 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed Personal Information or other information to us, please contact us at [legal@creditkarma.com](https://web.archive.org/web/20150317134310id_/https%3A//www.creditkarma.com/about/legal@creditkarma.com) via email or write to us at: Credit Karma, Inc. Attention: Legal Department, P.O. Box 520, San Francisco, CA 94104-0520. 
 
 **Information We Collect As You Access And Use The Services**
 
@@ -41,7 +37,7 @@ In addition to any Personal Information or other information that you choose to 
 
 **Information Third Parties Provide About You**
 
-We may supplement the information we collect about you with information from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to consider financial products or services that we believe may be of interest to you. This includes, for example, the free credit report and free credit score we may obtain on your behalf when you register. We may combine the information we receive from outside sources with information we collect through the Services. We treat all information about you, whether received from you or from a third party, in accordance with this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20141202033825id_/https%3A//www.creditkarma.com/about/terms). 
+We may supplement the information we collect about you with information from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to consider financial products or services that we believe may be of interest to you. This includes, for example, the free credit report and free credit score we may obtain on your behalf when you register. We may combine the information we receive from outside sources with information we collect through the Services. We treat all information about you, whether received from you or from a third party, in accordance with this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20150317134310id_/https%3A//www.creditkarma.com/about/terms). 
 
 **Information You Provide About A Third Party**
 
@@ -71,7 +67,7 @@ We use the information we collect to provide, maintain, protect, optimize and im
 
 **Customer Service.** When you first register for the Services, we may send you an introductory email welcoming you to Credit Karma. We may also communicate with you via email or other means in response to your inquiries and to manage your account. As described above in “Information You Provide About A Third Party,” we may also use information you provide about others to send invitation e-mails as part of our referral program. 
 
-**Administrative and Legal Reasons.** We may access, use, preserve, transfer and disclose your information (including Personal Information): (i) to satisfy any applicable law, regulation, subpoena, governmental request or legal process if in our good faith opinion such action is required or permitted by law; (ii) to enforce the [Terms of Use](https://web.archive.org/web/20141202033825id_/https%3A//www.creditkarma.com/about/terms), including investigation of potential violations thereof; (iii) to protect the safety, integrity, rights, property or security of our Services or equipment or those of any third party; or (iv) to detect, prevent or otherwise address fraud, security or technical issues. Further, we may use IP addresses or other Device Identifiers to identify users, and may do so in cooperation with third parties such as copyright owners, internet service providers, wireless service providers and law enforcement agencies, including disclosing such information to third parties, all in our discretion. Any such access, use, preservation, transfer or disclosure may be carried out without notice to you. 
+**Administrative and Legal Reasons.** We may access, use, preserve, transfer and disclose your information (including Personal Information): (i) to satisfy any applicable law, regulation, subpoena, governmental request or legal process if in our good faith opinion such action is required or permitted by law; (ii) to enforce the [Terms of Use](https://web.archive.org/web/20150317134310id_/https%3A//www.creditkarma.com/about/terms), including investigation of potential violations thereof; (iii) to protect the safety, integrity, rights, property or security of our Services or equipment or those of any third party; or (iv) to detect, prevent or otherwise address fraud, security or technical issues. Further, we may use IP addresses or other Device Identifiers to identify users, and may do so in cooperation with third parties such as copyright owners, internet service providers, wireless service providers and law enforcement agencies, including disclosing such information to third parties, all in our discretion. Any such access, use, preservation, transfer or disclosure may be carried out without notice to you. 
 
 **_3\. How Is Your Information Shared?_**
 
@@ -81,7 +77,7 @@ Credit Karma does not share, sell or rent your Personal Information to third par
 
 **When You Choose to Provide Information to Third Parties.** As part of the Services, you may be presented with opportunities for additional financial products or services that may require submitting information to unaffiliated third parties. For example, you may be asked to respond to offers provided by our marketing partners or presented with co-branded services we provide in association with third parties such as our marketing partners, business partners, or sponsors. These opportunities vary from day to day, but we will identify the relevant third party and in general, if you are interested in a particular offer or co-branded service, you will be taken to a third party site to complete the transaction or asked to submit information to the third party through a form on our site. When you are asked to provide information to a third party in connection with such offers or co-branded services, you may be providing your information to both us and the third party. We will treat information we collect in connection with a particular offer or co-branded service in accordance with this Privacy Policy but we are not responsible for the privacy practices of such third parties. For more information, see "Information Third Parties Collect." 
 
-**When You Disclose Information Publicly.** The Services may permit you to submit ideas, questions, comments, suggestions or other content, including Personal Information (collectively, **"User Content"** ), that is publicly viewable (such as the public portions of your user profile or comments you post on our publicly accessible blog). We or others may reproduce, publish, distribute or otherwise use User Content online or offline in any media or format (currently existing or hereafter developed). Third parties may have access to this User Content and may have the ability to share it further with third parties across the Internet. Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content. Credit Karma does not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. This Privacy Policy does not apply to any information that you disclose publicly or share with others, whether through the Services or otherwise. For additional information regarding our policies relating to User Content, please see our [User Content Rules](https://web.archive.org/web/20141202033825id_/https%3A//www.creditkarma.com/about/rules). 
+**When You Disclose Information Publicly.** The Services may permit you to submit ideas, questions, comments, suggestions or other content, including Personal Information (collectively, **"User Content"** ), that is publicly viewable (such as the public portions of your user profile or comments you post on our publicly accessible blog). We or others may reproduce, publish, distribute or otherwise use User Content online or offline in any media or format (currently existing or hereafter developed). Third parties may have access to this User Content and may have the ability to share it further with third parties across the Internet. Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content. Credit Karma does not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. This Privacy Policy does not apply to any information that you disclose publicly or share with others, whether through the Services or otherwise. For additional information regarding our policies relating to User Content, please see our [User Content Rules](https://web.archive.org/web/20150317134310id_/https%3A//www.creditkarma.com/about/rules). 
 
 To request removal of your Personal Information from User Content, contact us at [legal@creditkarma.com](mailto:legal@creditkarma.com). In some cases, we may not be able to remove your Personal Information from such User Content, in which case we will let you know if we are unable to do so and why. 
 
@@ -121,13 +117,13 @@ You may also visit the "Communications and Monitoring" page to adjust your commu
 
 **Security Practices and Social Security Protection Policy Statement**
 
-Credit Karma maintains physical, electronic, administrative and procedural safeguards to protect the confidentiality of Personal Information, including Social Security numbers, that we collect about you. We limit access to Social Security numbers to help protect against their loss or misuse and do not disclose Social Security numbers to third parties except where such disclosure is required or permitted by law. For more information on our Security Practices, please visit [Our Security Practices](https://web.archive.org/web/20141202033825id_/https%3A//www.creditkarma.com/about/security). 
+Credit Karma maintains physical, electronic, administrative and procedural safeguards to protect the confidentiality of Personal Information, including Social Security numbers, that we collect about you. We limit access to Social Security numbers to help protect against their loss or misuse and do not disclose Social Security numbers to third parties except where such disclosure is required or permitted by law. For more information on our Security Practices, please visit [Our Security Practices](https://web.archive.org/web/20150317134310id_/https%3A//www.creditkarma.com/about/security). 
 
 If you have any questions about security on our Services, you can send an email to us at [security@creditkarma.com](mailto:security@creditkarma.com). 
 
 **Terminating Your Account**
 
-If you wish to terminate your account with us, please follow the instructions detailed in the [Terms of Use](https://web.archive.org/web/20141202033825id_/https%3A//www.creditkarma.com/about/terms). Credit Karma must comply with certain recordkeeping and information retention requirements. Therefore, we cannot delete your account information outright when you request to terminate your account. However, we will disable your account, which will be inactive and not accessible to anyone other than Credit Karma authorized personnel. Moreover, once your account is terminated, you will not receive any further communications from Credit Karma. Except to the extent necessary for legal or regulatory recordkeeping purposes, your data will be anonymized after a period of two years and then may be held by us indefinitely. It may take an additional limited period of time for our automated backup systems to process the anonymized accounts. 
+If you wish to terminate your account with us, please follow the instructions detailed in the [Terms of Use](https://web.archive.org/web/20150317134310id_/https%3A//www.creditkarma.com/about/terms). Credit Karma must comply with certain recordkeeping and information retention requirements. Therefore, we cannot delete your account information outright when you request to terminate your account. However, we will disable your account, which will be inactive and not accessible to anyone other than Credit Karma authorized personnel. Moreover, once your account is terminated, you will not receive any further communications from Credit Karma. Except to the extent necessary for legal or regulatory recordkeeping purposes, your data will be anonymized after a period of two years and then may be held by us indefinitely. It may take an additional limited period of time for our automated backup systems to process the anonymized accounts. 
 
 **Your California Privacy Rights**
 
@@ -145,13 +141,29 @@ _Last Updated: November 6, 2014_
 
 **Glossary of Technical Terms:**
 
-  * **Cookies.** A cookie is a data file we may place on a Device when you access the Services. Cookies may be used for purposes like identifying you, remembering your preferences, and tracking your visits to our web pages. If you choose to disable cookies on your Device, some features of the Services may not function properly. We do not store Personal Information on cookies. However, some of our business partners may also use cookies on our site. We do not have access or control over these cookies. 
-  * **Device.** The computer or other device you used to access the Services. 
-  * **Device Identifier.** An alphanumeric identifier that is automatically assigned to your Device that our computers use to identify your Device. 
-  * **Embedded Scripts.** We may use embedded scripts or similar methods when you access our Services. An embedded script is programming code that collects information about your interactions with the Services, such as the links you click on. The code is temporarily downloaded onto your Device from our server or that of a third party service provider, is active only while you are connected to the Services, and is deactivated or deleted thereafter. 
-  * **Flash cookie.** A Flash cookie is a data file placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device. 
-  * **Web beacons.** Web beacons are small, invisible graphic images or other web programming code we may place on web or mobile pages, or other parts of the Services (also known as "1x1 GIFs" or "clear GIFs"). We may use web beacons or similar technologies for a number of purposes, such as counting users of the Services, monitoring how users navigate the Services, determining whether emails we sent were actually opened or counting views of particular articles or links. In contrast to cookies, which may be stored on your Device’s hard drive, web beacons are embedded invisibly on web pages and are about the size of the period at the end of this sentence. 
+  * **Cookies.**
+
+A cookie is a data file we may place on a Device when you access the Services. Cookies may be used for purposes like identifying you, remembering your preferences, and tracking your visits to our web pages. If you choose to disable cookies on your Device, some features of the Services may not function properly. We do not store Personal Information on cookies. However, some of our business partners may also use cookies on our site. We do not have access or control over these cookies.
+
+  * **Device.**
+
+The computer or other device you used to access the Services.
+
+  * **Device Identifier.**
+
+An alphanumeric identifier that is automatically assigned to your Device that our computers use to identify your Device.
+
+  * **Embedded Scripts.**
+
+We may use embedded scripts or similar methods when you access our Services. An embedded script is programming code that collects information about your interactions with the Services, such as the links you click on. The code is temporarily downloaded onto your Device from our server or that of a third party service provider, is active only while you are connected to the Services, and is deactivated or deleted thereafter.
+
+  * **Flash cookie.**
+
+A Flash cookie is a data file placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device.
+
+  * **Web beacons.**
+
+Web beacons are small, invisible graphic images or other web programming code we may place on web or mobile pages, or other parts of the Services (also known as "1x1 GIFs" or "clear GIFs"). We may use web beacons or similar technologies for a number of purposes, such as counting users of the Services, monitoring how users navigate the Services, determining whether emails we sent were actually opened or counting views of particular articles or links. In contrast to cookies, which may be stored on your Device’s hard drive, web beacons are embedded invisibly on web pages and are about the size of the period at the end of this sentence.
 
 
 
-▲ Back To Top
