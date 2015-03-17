@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cogniview.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929191611id_/http%3A//www.cogniview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cogniview.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317223713id_/https%3A//www.cogniview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CogniView
 
@@ -31,7 +31,7 @@ We use this information to measure the number of visitors to the different secti
 
 ## Do you keep the credit card information I provide while purchasing on line?
 
-We do not have access to your credit card details when you purchase on-line. When you decide to purchase our products on-line, you are transferred to a secure IP transaction processing vendor – Tranzila – and the credit card transaction is done directly with Tranzila. CogniView does not receive and is not involved in getting your credit card details. This is also the case if you purchase via PayPal.
+We do not have access to your credit card details when you purchase on-line. When you decide to purchase our products on-line, you are processed through a secured service called Stripe.com and the credit card transaction is done directly with Stripe. CogniView does not receive and is not involved in getting your credit card details. This is also the case if you purchase via PayPal.
 
 ## How does CogniView use the information I provide while getting product support?
 
@@ -39,4 +39,4 @@ We use information gathered from support requests to generally improve our produ
 
 ## Who do I contact if I have questions about CogniView’s Privacy of Information Policy?
 
-Please contact [info@cogniview.com](mailto:info@cogniview.com) with any other questions. Please note that we have no control over, and make no representation whatsoever, about the privacy policies of any other Web site which you may access through this one. When you access a non-CogniView Web site, please understand that it is independent from CogniView. In addition, a link to a non-CogniView Web site does not mean that we endorse or accept any responsibility for the privacy policies of such Web site. CogniView is not an agent of any third party named or linked to this Web site and does not have the authority to act for them.
+Please contact [support@cogniview.com](mailto:support@cogniview.com) with any other questions. Please note that we have no control over, and make no representation whatsoever, about the privacy policies of any other Web site which you may access through this one. When you access a non-CogniView Web site, please understand that it is independent from CogniView. In addition, a link to a non-CogniView Web site does not mean that we endorse or accept any responsibility for the privacy policies of such Web site. CogniView is not an agent of any third party named or linked to this Web site and does not have the authority to act for them.
