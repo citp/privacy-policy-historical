@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020931id_/http%3A//www.furniturevillage.co.uk/Customer-Services/Privacy-Policy/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317154423id_/http%3A//www.furniturevillage.co.uk/Customer-Services/Privacy-Policy/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Furniture Village Privacy Policy, We Promise We’re not Spies
 
 Furniture Village Limited ("Furniture Village", "we" or "us") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and the procedures that we have in place to safeguard your privacy. 
 
