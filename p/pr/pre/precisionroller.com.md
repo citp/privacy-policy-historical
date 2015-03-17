@@ -1,103 +1,20 @@
-> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622120241id_/http%3A//www.precisionroller.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317192614id_/https%3A//secure.precisionroller.com/policies.php) for the most accurate reproduction.*
 
 # Security And Privacy Policies | Precision Roller
 
-|  |  |   
----  
-  
-[**Browse Our Catalog** Parts and Supplies](https://web.archive.org/catalog_display.php)  
-  
-[ **Browse Catalog** Look For Products ](https://web.archive.org/catalog_display.php)  
-[ **Customer Reviews** Read Google Reviews ](http://www.google.com/products/seller?cmi=62981090506440704&zmi=precisionroller.com&hl=en)  
-[ **100% Guaranteed!** Up to 1 Year! ](http://www.precisionroller.com/full-satisfaction-guarantee.php)  
-[ **Free Shipping!** On Orders Over $75 ](http://www.precisionroller.com/faq-shipping.php)  
-[ **Closeout Specials** Last Chance Corner ](http://www.precisionroller.com/last-chance.php)  
-[ **Se Habla Español** Presione Aqui... ](http://www.precisionroller.com/se-habla-espanol.php)  
-[ ](https://web.archive.org/security-trust.php)  
-[](https://www.resellerratings.com/)  
-[ **C.O.D. Available** Click Here For Details ](http://www.precisionroller.com/faq-cod-payment.php)  
----  
-[
+| 
 
-##### Toner Cartridges
+Security & Privacy Policies 
 
-](http://www.precisionroller.com/category/toner-cartridges.htm)  
-[
+Precision Roller considers your security and privacy to be our primary concern. Here, you will find some of the measures we take to ensure that you have a safe shopping experience. 
 
-##### Ink Cartridges
+Security Policy
 
-](http://www.precisionroller.com/category/ink.htm)  
-[
+Your security is our primary concern. To ensure safe shopping, we use 128 bit Secure Socket Layer (SSL) encryption security, which is the highest level of security available today for secure e-commerce transactions. All pages containing your personal information, including credit card numbers, name, and address are encrypted while in transit. That means it cannot be read as the information travels over the Internet. SSL encryption makes shopping on the Internet the safest way to use your credit card. It is much safer than making a purchase in a store or charging your dinner in a restaurant. 
 
-##### Maintenance Kits
+Privacy Policies
 
-](http://www.precisionroller.com/category/maintenance-kits.htm)  
-[
-
-##### Print Heads
-
-](http://www.precisionroller.com/category/print-heads.htm)  
-[
-
-##### Cables
-
-](http://www.precisionroller.com/cables.php)  
-[
-
-##### Drum Units
-
-](http://www.precisionroller.com/category/drum-units.htm)  
-[
-
-##### All Part Categories
-
-](http://www.precisionroller.com/categories.php)  
-[
-
-##### OEM Numbers
-
-](http://www.precisionroller.com/oem-numbers.php)  
-[
-
-##### Cross Reference Tool
-
-](http://www.precisionroller.com/cross-reference.php)  
-[
-
-##### Toner Buying Guide
-
-](http://www.precisionroller.com/buying-guide-for-toner-cartridges.html)  
-[
-
-##### Canon Printhead FAQ
-
-](http://www.precisionroller.com/canon-printheads-faq.php)  
-[
-
-##### Intravia Guides
-
-](http://www.precisionroller.com/category/intravia-guides.htm)  
-[
-
-##### Tools & Supplies
-
-](http://www.precisionroller.com/service-tools-supplies.php)  
-[
-
-##### Glossary
-
-](http://www.precisionroller.com/glossary.php)  
-[
-
-##### Instruction Manuals
-
-](http://www.precisionroller.com/instructions/all-instructions.html)  
-  |  |   
----  
-  
-Your security is our primary concern. To ensure safe shopping, we use 128 bit Secure Socket Layer (SSL) encryption security, which is the highest level of security available today for secure e-commerce transactions. All pages containing your personal information, including credit card numbers, name, and address are encrypted while in transit. That means it cannot be read as the information travels over the Internet. SSL encryption makes shopping on the Internet the safest way to use your credit card. It is much safer than making a purchase in a store or charging your dinner in a restaurant.
-
-We understand that many people are concerned about the way companies transfer and store their personal information on the Internet. As our customer, or as a visitor on our site, we respect your privacy. While on our site, we may collect certain information about you and your visit. To place an order or create an account with us, you will be asked to provide your name, address, and other information pertinent to your order. This information is used strictly to process your order and manage your account, and will not be shared with any other party except if required by law. During your visit, we may also place a temporary "cookie" (a small piece of information) on your computer. This cookie allows a smooth shopping experience using our online cart, and is designed to be removed as soon as you close your browser. We also collect general traffic information about visits on our site. This information is grouped together and does not contain data about you personally. We do this to gain a better understanding of the needs of our visitors and to improve our services.
+We understand that many people are concerned about the way companies transfer and store their personal information on the Internet. As our customer, or as a visitor on our site, we respect your privacy. While on our site, we may collect certain information about you and your visit. To place an order or create an account with us, you will be asked to provide your name, address, and other information pertinent to your order. This information is used strictly to process your order and manage your account, and will not be shared with any other party except if required by law. During your visit, we may also place a temporary "cookie" (a small piece of information) on your computer. This cookie allows a smooth shopping experience using our online cart, and is designed to be removed as soon as you close your browser. We also collect general traffic information about visits on our site. This information is grouped together and does not contain data about you personally. We do this to gain a better understanding of the needs of our visitors and to improve our services. 
 
 ## Quick link reference to our privacy, security and seals
 
@@ -149,7 +66,7 @@ BBB accredited businesses are subject to the same scrutiny we give all businesse
 >  Complaint History: A summary of the business' complaint history and other experience in the marketplace; and/or  
 >  Pertinent Information: Information developed through special BBB investigations and relevant government actions.
 
-The Better Business Bureau name is almost universally recognized by online users. _Just under 90% of online shoppers say they would feel more confident buying from a site displaying the BBBOnLine accredited businesses seal, than from one that does not._ The BBBOnLine accredited businesses seal is backed by the credibility of the Better Business Bureau system, which brings over 90 years of trust to the newest marketplace � the Internet.  
+The Better Business Bureau name is almost universally recognized by online users. _Just under 90% of online shoppers say they would feel more confident buying from a site displaying the BBBOnLine accredited businesses seal, than from one that does not._ The BBBOnLine accredited businesses seal is backed by the credibility of the Better Business Bureau system, which brings over 90 years of trust to the newest marketplace — the Internet.  
 ---|---  
   
   * **What do I gain from a Safe Shipping network site?**  
@@ -205,13 +122,11 @@ We collect your e-mail address and the other information that you provide in ord
 
   * **How can I correct inaccurate information?**
 
-You may correct some personal and account information maintained in your Account through your Account. To correct any other information, please contact your account manager or call us Toll Free: at [(800) 323-9523](tel:8003239523).
+You may correct some personal and account information maintained in your Account through your Account. To correct any other information, please contact your account manager or call us Toll Free: at [(800) 323-9523](callto:8003239523).
 
 
 
 
 Precision Roller is committed to protecting your privacy. That is because we base our business on the trust you place in us. This policy describes our practices regarding personal and account information collected through our Web site. In this policy, "personal and account information" means your name, company name, account number, address, telephone number, and e-mail address plus any other information that personally identifies you, including your industry, the number of employees at your company, and purchase history, or would permit us to contact you, and "we" and "us" means Precision Roller.
 
-We reserve the right to modify this privacy policy from time to time; the effective date noted above will indicate the date that this policy was last updated. You should visit our Web site periodically to review any changes.   
-  
- 
+We reserve the right to modify this privacy policy from time to time; the effective date noted above will indicate the date that this policy was last updated. You should visit our Web site periodically to review any changes. 
