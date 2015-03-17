@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devfiles.co privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702050812id_/http%3A//www.devfiles.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devfiles.co privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317180322id_/http%3A//www.devfiles.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DevFiles.co - Free file hosting for Android devs!
 
