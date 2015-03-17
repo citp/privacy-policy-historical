@@ -1,61 +1,43 @@
-> *The following text is extracted and transformed from the uhdwallpapers.org privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409203653id_/http%3A//www.uhdwallpapers.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhdwallpapers.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317122254id_/http%3A//www.uhdwallpapers.org/p/privacy-policy.html) for the most accurate reproduction.*
 
-# uHDwallpapers.ORG Privacy Policy
+# Privacy Policy
 
-uHDwallpapers.ORG Privacy Policy
-
- **What information do we collect?**
-
-We collect information from you when you subscribe to our newsletter. 
-
-Google, as a third party vendor, uses cookies to serve ads on your site.   
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
+**What information is collected by blog?**   
+I collect information from you when you subscribe to newsletter.   
+Google, as a third party vendor, uses cookies to serve ads on sites.   
+Google's use of the DART cookie enables it to serve ads to users based on their visit to site and other sites on the Internet.   
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**What do we use your information for?**
+**For what are used collected information?**   
+Any of the information from you may be used in one of the following ways:   
+• To personalize your experience in blog browsing   
+(your information helps us to better respond to your individual needs)   
+• To improve blog   
+(continually strive to improve my blog based on the visit information and feedback received from visitors)   
+• To send periodic emails 
 
-Any of the information we collect from you may be used in one of the following ways: 
+> The email address that you provide for feed subscription, WILL ONLY be used to send updates with the newest posts.
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+**Blog use cookies?**   
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.   
+Use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that can offer better experiences and tools in the future. 
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+**Do I disclose any information to outside parties?**   
+I DON'T sell, trade, or otherwise transfer to outside parties your personally identifiable information (as: web browser, IP, OS, etc.). 
 
-• To send periodic emails
+**Third party links**   
+Occasionally may include or offer third party services. Regarding these third party sites, they have separate and independent privacy policies. Therefore have no responsibility or liability for the content and activities of these linked sites.
 
-> The email address you provide for feed subscription, will only be used to send you updates with the newest wallpapers published on the site.
+**Childrens Online Privacy Protection Act Compliance**   
+In compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), do not collect any information from anyone under 13 years old. 
 
-**Do we use cookies?**
+**Online Privacy Policy Only**   
+This online privacy policy applies only to information collected through this blog and not to information collected offline.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+**Your Consent**   
+By visiting my blog, you consent to blog privacy policy. 
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Your Consent**
-
-By using our site, you consent to our websites privacy policy.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us by email at the address: 
-
-contact{at}uhdwallpapers{dot}org
-
-http://www.uhdwallpapers.org 
+**Contact form**   
+If there are any questions regarding this privacy policy contact me by email at the bellow email address:   
+contact{at}uhdwallpapers{dot}org   
+http://www.uhdwallpapers.org/ 
