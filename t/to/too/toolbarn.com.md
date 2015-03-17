@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolbarn.com privacy policy that was archived on 2014-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140801050534id_/http%3A//www.toolbarn.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolbarn.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317075320id_/http%3A//www.toolbarn.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ToolBarn.com
 
