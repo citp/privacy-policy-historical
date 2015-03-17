@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dp-db.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701114128id_/http%3A//www.dp-db.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dp-db.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317090144id_/http%3A//www.dp-db.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.dp-db.com
 
@@ -30,6 +30,6 @@ Our website has links to other sites. We don't have control over these websites 
 
 ### Changes to privacy policy:
 
-If we decide to change our privacy policy, we will post the changes on this page. If you have any questions or concerns regarding this policy, please contact us through our [contact form](https://web.archive.org/web/20140701114128id_/http%3A//contact) and we'll get back to you as soon as possible.
+If we decide to change our privacy policy, we will post the changes on this page. If you have any questions or concerns regarding this policy, please contact us through our [contact form](https://web.archive.org/web/20150317090144id_/http%3A//contact) and we'll get back to you as soon as possible.
 
 Updated: May 17, 2011
