@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultxdating.us privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330225523id_/http%3A//www.adultxdating.us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultxdating.us privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317044625id_/http%3A//www.adultxdating.us/privacy_policy.html) for the most accurate reproduction.*
 
 # Adultxdating.us - Privacy Policy
 
