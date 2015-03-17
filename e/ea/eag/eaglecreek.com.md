@@ -1,89 +1,127 @@
-> *The following text is extracted and transformed from the eaglecreek.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701195600id_/http%3A//shop.eaglecreek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaglecreek.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317103422id_/http%3A//shop.eaglecreek.com/privacy.html) for the most accurate reproduction.*
 
-# Eagle Creek Official Site
+# Eagle Creek Official Store
 
-Onestop Internet, Inc. ("Onestop") operates this Web Site, pursuant to contractual agreements with Eagle Creek, Inc. ("eagle creek"), the designer and manufacturer of products sold on this Web Site. Onestop and Company are not affiliates of one another and have no relationship with one another other than through these agreements. Both Onestop and Company ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site. Please also review our [Terms & Conditions](https://web.archive.org/terms.html) which also govern your use of this Web Site. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms & Conditions.](https://web.archive.org/terms.html)
+OUR PRIVACY POLICY  
+Last updated: August 12, 2014
 
-  YOU UNDERSTAND THAT BY USING THE WEB SITE YOU CONSENT TO THE COLLECTION, USE AND DISCLOSURE OF YOUR PERSONALLY IDENTIFIABLE INFORMATION AND NON-PERSONALLY IDENTIFIABLE INFORMATION AS SET FORTH IN THIS PRIVACY POLICY, AND TO HAVE YOUR PERSONALLY IDENTIFIABLE INFORMATION COLLECTED, USED, TRANSFERRED TO AND PROCESSED IN THE UNITED STATES. 
+Eagle Creek recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy describes what information we may collect from you, how we collect that information, how we use that information, and the choices you have regarding your information. By using our website, mobile applications, or providing information to us in other ways, you agree to be bound by this Privacy Policy. 
 
-  Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web Site and, where applicable, through our Customer Service Department in connection with the operation of this Web Site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means. If you have any questions or concerns regarding this Privacy Policy, you should contact our [ Customer Service Department.](https://web.archive.org/contact-us.html) as indicated below. 
-
-  
-**1\. WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED, AND HOW IS THAT INFORMATION USED?**
-
-Personally Identifiable Information: We collect and store information that you enter into this Web Site or that you voluntarily provide to our [Customer Service Department](https://web.archive.org/contact-us.html). For example, when you open an account or place an order, we collect and store some or all of the following personally identifiable information that you provide: name, billing address, shipping address, email address, telephone number, credit card number and expiration date. This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations, and to provide customer service. This information also may be used for our own marketing and internal business purposes, and to contact you about sales, special offers and new site features, unless you have affirmatively opted not to receive promotional communications in connection with this Web Site. You may also provide us information in User Content you post to the Web Site. 
-
-  Non-Personally Identifiable Information: We collect and store certain other non-personally identifiable information automatically whenever you interact with this Web Site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web Site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web Site and to provide our customers with a fulfilling shopping experience. 
-
-  In addition to ordering products and services through this Web Site, we may also offer you the opportunity to provide us with Testimonials. If you send a Testimonial to us through this Web Site, in addition to collecting and storing the information described above, we may print that Testimonial, or an excerpt from it, on this Web Site, or otherwise publish it, together only with your first name, the first letter of your last name, and partial location (city, state, and/or country). 
+This Privacy Policy was lasted updated August 15, 2014 and may be updated from time to time. Please check back periodically for further updates and changes. The most updated version will be the one that is available on this website. 
 
   
-**2\. WHAT TECHNOLOGIES ARE USED TO COLLECT MY INFORMATION?**
+**WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED?**  
 
-Cookies: Like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies do not contain personally identifiable information. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Web Site without checking out. Cookies are not used on this Web Site to store your account information; this information is stored securely on this Web Site's server. When you log in at this Web Site with your username and password, we will assign you a “secure session id.” The server then passes your information to you through this secure session id. Also, we will use cookies to monitor and maintain information about your use of this Web Site. Cookies are also used to track the identity of the Web site you visited immediately prior to visiting this Web Site; otherwise, we do not track information about your use of other Web sites. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web Site. We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you. 
 
-  Log File Information: In addition to cookies, we may also collect and use “log file information” from you. Log file information is automatically reported by your browser each time you access a web page. When you access or use the Web Site, our servers automatically record certain log file information. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Web Site, domain names, landing pages, pages viewed, and other such information. 
+**Information You Provide**  
+We collect and store information that you provide to us through our websites, in our stores, through our customer service representatives, at events, through mobile applications, through marketing efforts, including contests, sweepstakes and events, and through third parties, or any other way we interact with you. We are one of the VF Corporation family of brands and may also receive information about you from other brands held by VF Corporation. 
 
-  Clear Gifs Information: When you use the Web Site, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make this Web Site better for our users. 
+You may choose not to provide certain information, but then you might not be able to take advantage of certain capabilities of this website, our mobile applications or other services we may offer. For example, you must provide certain personal information in order to place an order or to register for an account on or through this website. 
 
-  We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Web Site; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our users or engineers that are associated with certain IP addresses; (f) help you efficiently access your information after you sign in; and (h) track User Content and users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act. 
+We may request, collect and store some or all of the following types of personal information: name, billing address, shipping address, e-mail address, telephone number, financial and payment information, such as credit card number and expiration date, gender, personal interests, birthday, information about a third party you provide when we ship an order. We may also maintain a record of your product interest and purchases. 
 
-  
-**3\. WITH WHOM DO YOU SHARE INFORMATION?**
+If you access our website or mobile applications with your log-in credentials from a social networking site (e.g. Facebook, Pinterest, or Twitter) or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. We may add this to the information we have already collected from you via other interactions. 
 
-We do not share with others, or sell or license to others, any personally identifiable information that you provide to us through this Web Site or through our [ Customer Service Department](https://web.archive.org/contact-us.html), except with your consent or as described in this Privacy Policy. 
+When you download or use our mobile applications, we may receive information about your location and your mobile device. We may use this information to provide you with location-based services like local store information, search results, and other personalized content. Most mobile devices allow users to disable location services by using controls located in the device's settings menu. If you have questions about how to disable your device's location services, please contact your mobile service carrier or your device manufacturer. 
 
-  We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, contacting customers who have not checked out to follow up on abandoned shopping carts or to see if there was a problem with their use of the site, Web Site evaluation, data analysis and, where applicable, data cleansing. We provide personally identifiable information to these third parties, but we authorize them to use this information only in connection with the services they perform. 
+**Automatically Collected Information**  
+We collect and store certain other non-personally identifiable information automatically whenever you interact with us. For example, we may collect your Internet Protocol (IP) address and browser information and reference site domain name when you visit this website and analyze this data for preferences, trends, and site usage statistics. 
 
-  We may release personally identifiable information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or if we determine that such release is necessary to protect the rights, property or safety of Onestop and/or Company, or any of our respective affiliates, business partners, customers or others. 
+We may also collect information by using cookies, web beacons, and related technologies in order to analyze and understand how the website is used and to enhance your visits to the website. For example, we may use cookies and related technologies to: (i) customize account pages for you, (ii) track user visits and account features, (iii) determine what features and pages are most frequently requested or visited, and (iv) save your password so you do not have to provide it each time you visit the website. 
 
-  We may share non-personally identifiable information with our marketing partners, advertisers and others from time to time. Examples of such non-personally identifiable information include the number of users who visited this Web Site during a specific time period or purchased a specific product through this Web Site. This information generally is shared in an aggregated form. 
+"Cookies" are small text files that a website sends to a user's hard drive through the browser for data storage. Most browsers accept cookies automatically but allow you to disable them. By disabling or otherwise rejecting cookies, you may not be able to take full advantage of all offerings on this website. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this website. 
 
-  As with any business, it is possible that as our business develops, we might sell or buy other businesses or assets, including potentially other online retail operators. In such transactions, information about customers (including personally identifiable information) often is among the transferred assets. Under such circumstances, Onestop or Company, as the case may be, would to the extent practicable require the acquiring party to follow the practices described in this Privacy Policy. 
+We use third-party companies to provide Internet data hosting and to help us measure and determine how visitors use our website and the effectiveness of our website and promotions in order to help us improve and optimize our website and the products and services we offer. We also use third-party companies to serve advertisements (banners or links) on our behalf across the Internet. These companies use tracking technologies (including cookies and pixel tags) to collect non-identifiable information about your visits to our website and your interactions with our products and services in order to provide tailored advertisements based on your interests and browsing of our website (remarketing) on our behalf and on behalf of other advertisers across the Internet. We use third-party audience data (such as age, gender, and interests) to better understand and advertise to audiences that visit our website. We do not use or associate personally identifiable information with remarketing lists, cookies, data feeds, or other anonymous identifiers. 
 
-  From time to time, we may run contests, special offers, or other events or activities (“Events”) on the Web Site together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties’ use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events. 
+Our websites currently do not have a mechanism to recognize “Do Not Track” signals, but several of the third-party companies who utilize these cookies or beacons enable you to opt out of this advertising. If you wish to opt out of receiving this third-party interest-based advertising, you may obtain more information [here](http://www.networkadvertising.org/choices/). Please note this does not opt you out of receiving marketing communications from us. 
 
-  
-**4\. IS INFORMATION COLLECTED FROM CHILDREN?**
+In addition, some of our e-mail communications to you may include a "click-through URL" linked to a particular page on the website. By clicking on one of these URLs, you will automatically enter our website and we may collect information related to the "click-through." You may avoid having this information collected by not clicking on URL links in our e-mail communications. 
 
-This Web Site is not intended or directed to anyone under the age of 13. We do not sell or ship any items ordered through this Web Site directly to anyone who we know to be under the age of 13, nor do we collect any personal information from anyone who we know to be under the age of 13. If you are under the age of 13, you should use this Web Site only with the involvement of a parent or guardian and should not submit any personal information to us. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before using this Web Site. 
-
-  
-**5\. WHAT STEPS ARE TAKEN TO KEEP PERSONALLY IDENTIFIABLE INFORMATION SECURE?**
-
-We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web Site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personally identifiable information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our [Customer Service Department.](https://web.archive.org/contact-us.html)
-
-  We cannot, however, ensure or warrant the security of any information you transmit to us or guarantee that your information on the Web Site may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Your privacy settings may also be affected by changes to the functionality of our distributors, such as social networks. We are not responsible for the functionality or security measures of any third party. 
-
-  In the event that personal information is compromised as a result of a breach of security, we will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law. 
+**Information from Other Sources**  
+We also may use a variety of retail analytics tools in our stores for operational and marketing purposes, such as measuring and analyzing traffic patterns. These tools may collect data from sensors, including video cameras, smartphone detectors, Wi-Fi networks, or other devices, to improve your in-store experience. We may collect information about you from third-party sources and information that is publicly available. For example, information you submit in a public forum (e.g., a blog, chat room, or social network site) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances. Another example, is that we may receive demographic information about you from a third party to make our service and marketing efforts more efficient and personalized for you. 
 
   
-**6\. HOW CAN I ACCESS, CORRECT AND UPDATE PERSONAL INFORMATION?**
+**HOW IS INFORMATION USED?**  
 
-You can access, correct and update certain personal information that you have provided to us by clicking on "Update Account" within the ["My Account"](https://web.archive.org/store/myaccount.aspx) area of this Web Site. You may also e-mail us to review and revise the information we have on file for you at [legal@onestop.com](mailto:legal@onestop.com). 
 
-  
-**7\. CAN I INDICATE WHETHER OR NOT I WANT TO RECEIVE PROMOTIONAL COMMUNICATIONS?**
+We use the personal information we collect to conduct our business, communicate with you, and provide great products, services, and experiences. We or third-party service providers we engage may use the information to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations, to provide customer service, to respond to your comments, questions or complaints, to personalize your experiences, to analyze your preferences and shopping habits, to analyze trends and statistics, to administer and fulfill our contests and other promotions, to analyze and improve the website and our products and services, and to send you marketing communications and other information regarding our products, services, marketing, or special events. We also use your information for business purposes such as security, payment processing, analytics, operations, fraud detection, reporting, making back-ups, and legal compliance. 
 
-You will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally, you may contact our Customer Service Department or write to us at: 
+You always have the choice not to receive marketing communications. For instructions on opting out of those communications, please see the section entitled “Can I Indicate Whether or Not I Want to Receive Promotional Communications?” below. 
 
-  Onestop Internet, Inc. 3040 E Ana St., Rancho Dominguez, CA 90221. 
+Our blog is managed by a third-party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third-party application if you want the personal information that was posted to the comments section removed. To learn how the third-party application uses your information, please review its privacy policy. 
 
-  Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order. 
+We display personal testimonials/reviews of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [customerservice@store.eaglecreek.com](mailto:customerservice@store.eaglecreek.com). 
 
   
-**8\. WHAT HAPPENS WHEN I LINK TO OR FROM ANOTHER WEB SITE?**
+**WITH WHOM IS INFORMATION SHARED?**  
 
-This Web Site may contain links to Web sites operated by third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites. We encourage you to be aware of when you leave this Web Site and to read the privacy policies of each and every Web site that you visit. 
 
-  If you have accessed this Web Site through a link from certain of our advertising or marketing partners, this Web Site may include a frame of the applicable advertising or marketing partner. Nevertheless, the information you provide to us through these framed Web pages is collected by us, and our use of this information is governed by this Privacy Policy. 
+Except with your consent or as described in this Privacy Policy, we do not sell, rent, or share with third parties any of your personal information. 
+
+We may share your personal information with other brands within the VF Corporation family of brands (including, for example, The North Face ®, Vans®, Timberland ®, Nautica ®, Kipling ®, Wrangler ®, Lee ®, 7 For All Mankind ®, Jansport ®, Reef ®, Splendid ®, and Ella Moss ®). 
+
+We may share personal information with certain third parties that perform services on our behalf. The services provided by those third parties may include: operating the website, hosting the website, providing the products and services you request, authorization and processing of your payments, product fulfillment, fraud protection and credit risk reduction, product customization, marketing and promotional material distribution, loyalty program management, promotions fulfillment, web site evaluation, data analysis and, where applicable, data cleansing. Those third parties are not authorized to use or disclose personal information you provide to us on or through this website for any purpose other than to perform the services designated by us. 
+
+We may share personal information with a third party if we are required by law to disclose that personal information. For example, we may be required to disclose personal information to respond to a subpoena, court order, or other legal process. We may also disclose this information in response to a law enforcement agency's request, or where we believe it is necessary to investigate or address unlawful acts or acts that may endanger the health or safety of a consumer or the general public, to verify or enforce compliance with the terms of use and policies that govern our website or as otherwise required or permitted by law. In addition, the personal information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of Eagle Creek or as part of a corporate reorganization, stock sale or other change of control. 
 
   
-**9\. NOTIFICATION PROCEDURES**
+**WHAT ABOUT THE PRIVACY OF CHILDREN UNDER 13?**  
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Web Site, as determined by us in our sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy. 
+
+We do not intend to collect personal information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any personal information to us and you should use this website only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided personal information on or through the website, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?" 
 
   
-**10\. HOW WILL I BE INFORMED ABOUT CHANGES REGARDING THIS PRIVACY POLICY?**
+**WHAT STEPS ARE TAKEN TO KEEP PERSONAL INFORMATION SECURE?**  
 
-If we make any material changes to this Privacy Policy, we will post a notice on this Web Site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web Site periodically to see if any recent changes to this Privacy Policy have occurred. When we change the policy in a material way, we will update the ‘last modified’ date at the top of this Privacy Policy. Changes to this Privacy Policy are effective when they are posted on this page. 
+
+The security of your information is important to us. We have instituted security procedures and measures to protect our servers and networks that store personal information. Unfortunately, no transmission of information over the Internet can be guaranteed to be 100% secure and, therefore, we cannot ensure or warrant the security of any information. In order to help protect personal information you provide to us, you: (i) should not share your password or account information with others, (ii) should use a secure web browser, and (iii) should change your password frequently. If you wish to cancel a password, or if you become aware of any loss, theft, or unauthorized use of a password, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?" 
+
+  
+**HOW CAN I ACCESS, CORRECT, AND UPDATE PERSONAL INFORMATION?**  
+
+
+You may access, correct and update certain personal information that you have provided to us by clicking on the "My Account" area of this website and following the instructions set forth therein or by contacting us with your request as set forth below under "How Can I Contact You Regarding This Privacy Policy?" 
+
+We reserve the right to retain any personal information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store personal information for as long as reasonably necessary for the purposes described in this Privacy Policy. You may find out more details regarding this Privacy Policy by contacting us as provided below under "How Can I Contact You Regarding This Privacy Policy?" 
+
+  
+**CAN I INDICATE WHETHER OR NOT I WANT TO RECEIVE PROMOTIONAL COMMUNICATIONS?**  
+
+
+There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set-up an account or click on the "My Account" area of this website, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. If you have not established an account but have instead signed-up for our e-mail list, you will be able to change your e-mail preferences by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. Please note that removal of personal information from our database or "opting-out" will not stop marketing or advertising content that is generated for distribution or is otherwise queued for transmission to you prior to the time when we can implement your request. 
+
+If you establish an account, you may receive certain types of communications even if you have not opted-in to receive them because these types of communications may be necessary in order to maintain an account on the website. 
+
+  
+**WHAT HAPPENS WHEN I LINK TO OR FROM ANOTHER WEBSITE?**  
+
+
+This website may contain links to or from websites to which this Privacy Policy does not apply ("Linked Websites"). Please be advised that the practices described in this Privacy Policy do not reflect the practices regarding information collection, use and disclosure of Linked Websites or the owners or operators of those Linked Websites. Your use of Linked Websites will be governed by the terms of use, privacy policies, and other terms, notices, and policies set forth on or referenced in those Linked Websites. We encourage you to be aware of when you leave this website and to read the privacy policies of each and every website that you visit. 
+
+  
+**HOW CAN I CONTACT YOU REGARDING THIS PRIVACY POLICY?**  
+
+
+If you have any questions or concerns regarding your privacy or the Privacy Policy you can send a request with your concerns or any further questions to us by using the contact information provided below: 
+
+Eagle Creek Attn:  
+Customer Service  
+5935 Darwin Court  
+Carlsbad, CA 92008
+
+  
+**WHAT IF I AM A RESIDENT OF CALIFORNIA?**  
+
+
+California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: 
+
+Eagle Creek Attn:  
+Customer Service  
+5935 Darwin Court  
+Carlsbad, CA 92008
+
+  
+**WHAT IF I AM AN INTERNATIONAL USER?**  
+
+
+Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed, and stored in the United States, and allow Eagle Creek to use and collect your personal information in accordance with this Privacy Policy. 
