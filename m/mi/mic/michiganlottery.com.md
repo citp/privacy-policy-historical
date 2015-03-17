@@ -1,41 +1,84 @@
-> *The following text is extracted and transformed from the michiganlottery.com privacy policy that was archived on 2013-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130712120058id_/https%3A//www.michiganlottery.com/display_page%3Fpage%3Dprivacy_policy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganlottery.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317114407id_/https%3A//info.michiganlottery.com/Privacy.aspx%3Fpopup%3D1%26LNG%3DENU) for the most accurate reproduction.*
 
-# Michigan Lottery
+# 
 
-### Michigan Lottery Player’s Club™ Privacy Policy
+Thank you for visiting michiganlottery.com, official player website of the Michigan Lottery. This Privacy Policy describes the Michigan Lottery’s practices regarding information collected from users of this website.   
+As used herein, “this policy” refers to this Privacy Policy; “this website” refers to michiganlottery.com; “we,” “us,” and “our” refer to the Michigan Lottery, its agents, contractors, sub-contractors, and third parties involved in producing or delivering this website; and “you” or “your” refers to you, the website user.   
+By continuing to use this website, you represent that you understand and agree to this policy. We may change this policy at any time and without notice. All changes are effective upon posting. Your continued use of this website after changes are posted constitutes your acceptance of those changes. For your convenience, the effective date of this policy is posted at the top of this page. Please check back periodically for changes. 
 
-[Click here](http://www.michiganlottery.com/?cid=m.1800.7077ee8514466cb5ef6f664cf10aebef.0) to go to the Player's Club home page. 
+INFORMATION COLLECTED AUTOMATICALLY   
 
-Last updated: May 28, 2010
 
-#### General Statement
+Some of your information is automatically collected when you visit and use this website. This may include, but is not limited to, information about how you linked to this website, the date and time you visited this website, searches you initiated, things you clicked on, your IP address, the geographical location of your IP address, pages you visited, your mobile device identifier and hardware, your network carrier, and the type of browser and operating system you used. This information is aggregated and is used to improve this website. 
 
-Your personal information and privacy is extremely important to the Michigan Lottery. We may use information collected during your visit to enhance your overall experience, to gain marketing insights which impact future decisions regarding the site, or to customize messages to ensure that they are relevant and useful to you. The bottom line – we are interested and focused on using any collected information to make your interactions with the Michigan Lottery an enjoyable, and continually improving, experience.
+INFORMATION VOLUNTARILY SUBMITTED   
 
-On Michigan Lottery Player’s Club™ website we collect information which is identifiable and information which is non-identifiable. Each classification of information shall be treated separately as outlined in this Privacy Policy. We do not willingly, or knowingly, accept information from any persons under the age of 18. This Privacy Statement does not govern the information collected on any Michigan Lottery website but instead it is specific to the Michigan Lottery Player’s Club™ website.
 
-#### Personally Identifiable Information
+We may, depending on the services you request, collect additional information that you voluntarily provide including, but not limited to, your name, address, phone number, email address, date of birth, social security number, identification or operator license number, credit and/or debit card number, bank account number, routing umber/s, transaction history, username, password, IP address or geographical location, and survey responses. This information may be used to provide your requested transaction or service, verify your eligibility for a requested transaction or service, contact you regarding a requested transaction or service, record transactions, improve the website, enforce terms and conditions, protect our rights and property, and otherwise perform the purpose for which the information was provided. 
 
-During the registration process we must gather personal information which is necessary to verify age and geographic eligibility to join the Michigan Lottery Player’s Club. Additional information is collected during this registration process which enables the Michigan Lottery to contact winners and distribute prizes. Any such personally identifiable information including name, email, mailing address, telephone number and date of birth is never shared with any third parties unless explicitly specified in this Privacy Policy. We hold this information in strict confidence and utilize industry-standardized practices to maintain the security of this information.
+AGE REQUIREMENT   
 
-#### Non-Personally Identifiable Information
 
-During your interactions with the Michigan Lottery Player’s Club™ website we may use persistent and non-persistent tracking cookies in order to compile aggregate reports associated with the website. In this aggregate manner, the Michigan Lottery is able to determine total traffic, time spent interacting, errors encountered and other performance measures for specific pages within the site. This information is utilized to drive continual enhancement and refinement of the website’s content and features to best suit the needs and interests of our customers.
+Use of this website, including all of its content and services, by anyone under 18 years of age is strictly prohibited. We do not knowingly collect personal information from or create profiles of a person under the age of 18. Our account registration process uses age and identity verification software. Users are cautioned, however, that information collected automatically or voluntarily submitted in certain ways such as an email, text, or survey, will be treated as though it was submitted by an adult. 
 
-The Michigan Lottery may utilize tracking pixels embedded within email messages which are sent to you in association with the Michigan Lottery Player’s Club™ program which enables performance reporting such as email opens, clicks and bounces. This information is utilized to drive continual improvement of email content to ensure a high rate of deliverability and acceptance among subscribers. At any time, you may Opt-Out of receiving any future email messages from the Michigan Lottery by following the hyperlinks imbedded at the footer of any email sent from the Michigan Lottery.
+If you choose to do so, you can configure your browser to notify you when a new cookie is received. You can also view and delete existing cookies, prevent your browser from accepting new cookies, and disable cookies altogether. If you disable cookies, you can still use michiganlottery.com, but your ability to use some areas or functions of the website may be limited. 
 
-The Michigan Lottery may obtain aggregate reporting on member profiles within the site such as age and gender distribution or game preference. On occasion the Michigan Lottery may use these forms of non-personally identifiable information to craft relevant advertising or prizing on the site to match the interests of our member base.
+LOCATION INFORMATION   
 
-#### Disclosure to Third Parties
 
-The Michigan Lottery may engage third party companies to manage functions of the Michigan Lottery Player’s Club™ program. This may include the ability to collect entries into drawings, automation of emails and notifications, fulfillment of prizes or coupons, and the processing of credit cards. Any such third party may have a limited and temporary use of your personally-identifiable information in order to process and complete their obligations to the Michigan Lottery. The Michigan Lottery always establishes and maintains strict security policies with each third party to ensure that your information is protected.
+You may access this website from anywhere, but you must be physically located within the State of Michigan to visit certain areas of this website or purchase a lottery ticket. By visiting this website, we automatically collect information about your location through your IP address and geo-location technology. In certain instances, such as when you use a mobile device, we may require use of a geo-location service. If you consent to use a geo-location service, you may opt-out at any time. If we cannot verify your location, you are prohibited from making any purchases and will be blocked. Information about your location may be retained for 14 months. 
 
-#### Links and Affiliated Websites
+COOKIES   
 
-The Michigan Lottery Player’s Club™ website may contain links to external websites operated by the Michigan Lottery or operated by a third party. You should read and understand the privacy policy for any of these external websites. This Privacy Policy does not govern any practices of external websites.
 
-#### Updates
+This website uses "cookies" to customize your browsing experience. A cookie is a small text file that is saved on your web browser when you visit a website. We use the following cookies: 
 
-The Michigan Lottery reserves the right to make changes to this Privacy Policy at any time and for any reason without prior notice. It is your responsibility to reference this Privacy Policy page regularly to be familiarized with its content. For your convenience, a date is posted at the beginning of this Privacy Policy which indicates the last time any revisions were made. Your use of this website anytime after a change shall be recognized as your acceptance of the most current version of the Privacy Policy.
+  * Session cookies allow you to move through many pages of a website quickly and easily without having to authenticate or reprocess each new area you visit. Session cookies are destroyed after successful completion of a transaction, after a few minutes of inactivity, or when the browser is closed. 
+  * Persistent cookies help websites remember your information and settings when you visit them in the future. Unlike session cookies, persistent cookies continue to exist after a few minutes of inactivity, after the browser is closed, or after a user completes a single session. Persistent cookies generated by this website will expire after a set period of time based on the purpose of the cookie. 
 
-[Click here](http://www.michiganlottery.com/?cid=m.1800.7077ee8514466cb5ef6f664cf10aebef.0) to go to the Player's Club home page.
+
+
+We use cookies to perform statistical analyses on website usage, better understand how people use this website and how we can improve it, and to help you process transactions. You can view and delete existing cookies through your browser. If you choose, you can configure your browser to notify you when a new cookie is received, stop accepting new cookies, or disable cookies altogether. If you disable cookies, your ability to use some areas and functions of this website may be limited. 
+
+RETENTION OF INFORMATION   
+
+
+We retain information collected through this website in accordance with applicable record retention policies, disposal schedules, and state law. Where no retention policy, disposal schedule, or state law applies, we may retain information for any period of time or not at all. 
+
+SHARING INFORMATION   
+
+
+We will only share personal information about you with others if we: 
+
+  * have your consent to share the information; 
+  * need to share your information to provide the product, service, or transaction you have requested; 
+  * need to protect our rights or property; 
+  * are authorized or required to do so by law (e.g., to respond to subpoenas, court orders, legal process, or requests pursuant to a statute requiring or permitting disclosure such as the Michigan Freedom of Information Act). 
+
+
+
+COMMUNICATIONS FROM US   
+
+
+If you provide us with your email address or phone number, we may email, text, or, in rare circumstances, call you regarding various account notifications, confirmations, or transactions. You may also opt-in to receive promotional material and newsletters. You may unsubscribe to these services by following the instructions contained in the email or text message.   
+We may retain and use information you provide about third parties to provide requested services. For example, if you request to share promotional offers with a third party through the “tell-a-friend” option, we may use the information you provide to share that promotional offer. 
+
+LINKS TO OTHER WEBSITES   
+
+
+Links to other organizations on this website are provided for informational purposes only. In providing these links, we do not endorse the content, products, services, viewpoints, or security of these other websites. This policy does not apply to other websites. If you leave this website through a link, this policy no longer applies and you are subject to the terms and policies of that website. 
+
+SECURITY   
+
+
+Security measures have been integrated into the design, implementation, and day-to-day operations of this website as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information. We do not, however, guarantee security in any way. Your use of this website is at your own risk, and we are not liable for any damages or losses resulting from a security breach except as required by law. 
+
+DISCLAIMER   
+
+
+The information provided in this policy should not be construed as business, legal, or other advice, or as warranting or guaranteeing the security of information provided through this website. 
+
+COMMENTS AND QUESTIONS   
+
+
+We are always seeking to improve and welcome your feedback. Please visit us at the [ Michigan Lottery Support Center](http://michiganlottery.desk.com/customer/portal/emails/new?t=169229) to submit comments or suggestions. If you have any questions about this website or the above terms, please contact us using the [ Michigan Lottery Support Center](http://michiganlottery.desk.com/?t=169229) form. 
