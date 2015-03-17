@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702074927id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317230110id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Best Day provides the following Privacy Notice:
+Best Day provides the following Privacy Policy:
 
 1\. - Responsible for protection and handling of your Personal Data.
 
@@ -13,13 +13,13 @@ Traveler's Holding Inc. (Hereinafter "Best Day"), located at 5341 NW 107TH Avenu
 The personal data collected from you, will be used only for the purposes herein described and may be collected:
 
   \- In a direct way, either through our reservations representatives, in person or through our reservation call center "call center".  
-  \- Entering your data or using our online services through [www.bestday.com](http://www.bestday.com/) or any of our affiliate sites. 
+  \- Entering your data or using our online services through [www.bestday.com](http://www.bestday.com/) or any of our affiliate sites.
 
 Best Day will be collecting from you the following data: Full name with surname, phone number, email, address and financial information such as: credit card number, name of the cardholder, expiration date, security code, and any other necessary data to complete the reservation you requested.
 
 3.- Sensitive personal data.
 
-To fulfill the purposes described in this Notice of Privacy, Best Dat may also collect and process sensitive personal data, such as relationships, fitness, health, disability, medical documents, among some others. Your sensitive personal data will be treated with the strictest security measures to ensure confidentiality.
+To fulfill the purposes described in this Privacy Policy, Best Day may also collect and process sensitive personal data, such as relationship status, fitness, health, disability, medical documents, among others. Your sensitive personal data will be treated with the strictest security measures to ensure confidentiality.
 
 4\. Purpose of the Personal Data collected.
 
@@ -27,7 +27,7 @@ Your personal data will be used for processing purposes, monitoring, updating, m
 
 5\. - Data transfer, nationally and internationally.
 
-Your personal data may be transferred to and / or shared with: business partners, affiliates, suppliers, financial institutions, banking and credit, subsidiaries, affiliates, affiliates and third parties, such as Hotels, Leasing, Airline Providers Tours, etc., to confirm your reservations and to fulfill the purpose of the collected data set forth in Section 4 of this Privacy Notice.
+Your personal data may be transferred to and / or shared with: business partners, affiliates, suppliers, financial institutions, banking and credit, subsidiaries, affiliates, affiliates and third parties, such as Hotels, Leasing, Airline Providers Tours, etc., to confirm your reservations and to fulfill the purpose of the collected data set forth in Section 4 of this Privacy Policy.
 
 6.- Questions or Concerns about the privacy of their data.
 
@@ -35,10 +35,10 @@ If you have questions or concerns about the privacy of their data when using the
 
 7\. - Changes to this privacy notice.
 
-Best Day reserves the right to make changes at any time or update this Privacy Notice. Changes or updates to be made shall come into force at the time they are published on the internet site [www.bestday.com](http://www.bestday.com/) in its affiliate sites or any media you use to post, therefore, we recommend its continued review.
+Best Day reserves the right to make changes at any time or update this Privacy Policy. Changes or updates to be made shall come into force at the time they are published on the internet site [www.bestday.com](http://www.bestday.com/) in its affiliate sites or any media you use to post, therefore, we recommend its continued review.
 
-8.- Express acceptance of the Privacy Notice.
+8.- Express acceptance of the Privacy Policy.
 
-Best Day suggests reading this Privacy Notice. Providing your data constitutes acceptance of this Privacy Notice.
+Best Day suggests reading this Privacy Policy. Providing your data constitutes acceptance of this Privacy Policy.
 
 * If you provide us personal information of a third party, you expressly state that you are duly authorized from such third party to provide the corresponding data.
