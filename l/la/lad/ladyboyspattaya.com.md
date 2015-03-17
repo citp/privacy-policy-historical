@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladyboyspattaya.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701213053id_/http%3A//www.ladyboyspattaya.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyboyspattaya.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317143200id_/http%3A//www.ladyboyspattaya.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Ladyboy Forum - Pattaya Ladyboys
 
