@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugallivingnw.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702100943id_/http%3A//www.frugallivingnw.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugallivingnw.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317082255id_/http%3A//www.frugallivingnw.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Frugal Living NW
 
@@ -33,6 +33,8 @@ Links to other websites are included on this site for your use and reference. We
 **Contact Information**
 
 Concerns or questions about this privacy policy can be directed to frugallivingonline [at] gmail [dot] com for further clarification.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 _The contents of this policy may be altered at any time at our discretion._
 
