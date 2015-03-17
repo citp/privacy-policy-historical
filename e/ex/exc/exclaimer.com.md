@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclaimer.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123182030id_/http%3A//www.exclaimer.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclaimer.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317122341id_/https%3A//www.exclaimer.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Exclaimer Privacy Policy
 
