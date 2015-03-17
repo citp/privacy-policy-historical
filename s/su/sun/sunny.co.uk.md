@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the sunny.co.uk privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701131957id_/https%3A//sunny.co.uk/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunny.co.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317025822id_/https%3A//sunny.co.uk/your-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sunny
 
 Your personal information 
 
-Think Finance (UK) Ltd is committed to respecting and protecting your privacy and ensuring that all of the information we hold about you is correct, relevant and secure. We abide by the Data Protection Act 1998 and are registered as Data Controllers with the Information Commissioner’s Office. 
+Elevate Credit International Limited is committed to respecting and protecting your privacy and ensuring that all of the information we hold about you is correct, relevant and secure. We abide by the Data Protection Act 1998 and are registered as Data Controllers with the Information Commissioner's Office. 
 
 Use of your information 
 
-By using this website you agree to Think Finance (UK) Ltd. holding and processing your personal and non-personal information for the following purposes to: 
+By using this website you agree to Elevate Credit International Limited holding and processing your personal and non-personal information for the following purposes to: 
 
   * Manage your account
   * Make decisions regarding your identity and whether to make further cash available for you to borrow.
@@ -44,7 +44,7 @@ All of your information is stored on our secure servers, and is reviewed on a re
 
 Countries within the European Economic Area (EEA) are required to have a similar standard of protection of personal data. We may transfer personal data outside the EEA but will ensure that before we do so, there is adequate protection as required by the relevant Data Protection legislation. 
 
-Think Finance (UK) Ltd is owned by Think Finance, Inc., a company based in the USA. From time to time customer data will be securely transmitted to, or our systems accessed by, Think Finance, Inc. in order to analyse our data and provide audit services. Think Finance, Inc., is certified under the US Safe Harbor Privacy Principles, which ensure that any data transmitted to, or accessed by it, will be used and managed in a way that is as safe, secure and appropriate. To view the full Think Finance, Inc., Safe Harbor Privacy Policy click [here](http://thinkfinance.com/privacy-policy/). 
+Elevate Credit International Limited is owned by Elevate Credit, Inc., a company based in the USA. From time to time customer data will be securely transmitted to, or our systems accessed by, Elevate Credit, Inc. in order to analyse our data and provide audit services. Elevate Credit, Inc., is certified under the US Safe Harbor Privacy Principles, which ensure that any data transmitted to, or accessed by it, will be used and managed in a way that is as safe, secure and appropriate. To view the full Elevate Credit, Inc., Safe Harbor Privacy Policy click [here](http://www.elevate.com/privacyPolicy.html). 
 
 Credit Reference Agencies 
 
