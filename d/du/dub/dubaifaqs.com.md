@@ -1,17 +1,9 @@
-> *The following text is extracted and transformed from the dubaifaqs.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727182921id_/http%3A//www.dubaifaqs.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaifaqs.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317034408id_/http%3A//www.dubaifaqs.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Dubai FAQs Privacy Policy
 
-|   [Home](http://www.dubaifaqs.com/ "DubaiFAQs home") | [Forum](http://www.desertspeak.com/ "Dubai forum") | Print |  |  | 
-
-**Sunday 27 July 2014 (UAE)   **  
+### Privacy Policy   
   
----|---|---|---  
-   
-   
-  
-### Privacy Policy 
-
 DubaiFAQs.com collects data whenever a visitor views a page in their website. This may include which page or website a user came from, what search terms a visitor entered if coming from search engine results, the browser and operating system used on the visitor's computer. This is not unusual, all websites collect this, or similar, data as a matter of course.
 
 ##### Cookies
@@ -28,11 +20,11 @@ As cookies are simply text files, they do not have the potential to cause harm i
 
 Most pages on DubaiFAQs.com display advertisements from the Google Adsense program. As part of that program, Google may save a "DoubleClick DART cookie" on the users computer. This is a specific cookie intended to help the Google Adsense program serve ads more likely to be of interest to the visitor. Users can opt out of the DART cookie by visiting the Google advertising and privacy center at www.google.com/privacy_ads.html.
 
-###### Last update Thursday 03-Apr-2014  
+###### Last update Saturday 07-Mar-2015  
   
 ##### Related pages
 
-  * [About Dubai FAQs](https://web.archive.org/web/20140727182921id_/http%3A//www.dubaifaqs.com/about-us.php)
+  * [About Dubai FAQs](https://web.archive.org/web/20150317034408id_/http%3A//www.dubaifaqs.com/about-us.php)
 
 
 
@@ -45,6 +37,6 @@ Most pages on DubaiFAQs.com display advertisements from the Google Adsense progr
 
 **www.dubaifaqs.com/privacy-policy.php**
 
-Abu Dhabi AUH ABD ADB, Ajman AJM, Al Ain AAN, Dubai DXB, Fujairah FUJ, Ras Al Khaimah RAK, Sharjah SHJ, Umm Al Quwain UAQ information guide
+Abu Dhabi AUH ABD ADB, Ajman AJM, Al Ain AAN, Dubai DXB, Fujairah FUJ, Ras Al Khaimah RAK, Sharjah SHJ, Umm Al Quwain UAQ
 
-Dubai FAQs | blog | Facebook | Twitter |  Copyright © www.dubaifaqs.com 2014, Dubai, UAE - United Arab Emirates 
+DubaiFAQs UAE information guide. Copyright © 2004-2015 www.dubaifaqs.com, Dubai, UAE - United Arab Emirates  | blog | Facebook | Twitter |
