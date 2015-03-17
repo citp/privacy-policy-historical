@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aptoide.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020182037id_/http%3A//www.aptoide.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aptoide.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317091540id_/https%3A//www.aptoide.com/page/privacy) for the most accurate reproduction.*
 
 # Aptoide - Android Apps Store
 
