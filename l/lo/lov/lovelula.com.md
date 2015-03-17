@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovelula.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628111053id_/https%3A//www.lovelula.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelula.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317035328id_/https%3A//www.lovelula.com/privacy) for the most accurate reproduction.*
 
-# LoveLula Privacy Policy | LoveLula, the Natural Place to Shop
+# LoveLula Privacy Policy - LoveLula - The World's Natural Beauty Shop
 
 1) This store does collect demographic data and personal data to provide you a better internet experience.
 
