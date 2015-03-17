@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstdial.in privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824113937id_/http%3A//www.firstdial.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstdial.in privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317023436id_/http%3A//www.firstdial.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,9 @@ With the Privacy Policy you may know how to contact us if you have any additiona
 
 Personal Information shall be the information or a perspective in any form and whether true or not about an individual whose identity is perceptible or can reasonably be ascertained from information or opinion.
 
- _ **Collection Of Personal Information**_
+Collection Of Personal Information
 
-First dial collects your personal Information only in lawful manner and with fair means, not in an unreasonably instructive manner.
+First dial collects your personal Information only in lawful manner and with fair means, not in an unreasonably instructive manner. 
 
   1. Identifying and Contact Information (for instance: name, address, date of birth, educational qualification and e-mail address etc.)
   2. Sometimes if necessary financial information. (i.e. card details etc.)
@@ -18,11 +18,7 @@ First dial collects your personal Information only in lawful manner and with fai
 
 
 
-This Policy does not apply to the practices of organizations that First dial do not own or to people that we do not employ or manage.
-
-The information provided to us by the users shall be kept confidential, we will maintain proper sensitivity of your personal information.
-
-**_Disclosure_ **
+Disclosure
 
   1. We may use your personal information for our research, marketing purposes and deliberate client analysis objective and other internal business purposes only.
   2. If you are a search customer then only when your personal information shall be shared with our subscribers/advertiser and your deemed consent is to be provided for the same.
@@ -34,20 +30,19 @@ The information provided to us by the users shall be kept confidential, we will 
 
 
 
-_**Adapting, Retrieving, Expunction Of Information**_
+Adapting, Retrieving, Expunction Of Information 
 
-First dial provides you the ability to edit your accounts settings and your preferences accordingly, you can also see all related information and change of your accounts, you can also erase your personal information by making a review over it. If any Personal information is not available over First dial then you can contact us, there may be a charge associated with such service provided by first dial but the amount so charged will not exceed the prescribed limit of law.   
-If First dial does not require any information or any information that does not worth anymore then we can erase such information.
+First dial provides you the ability to edit your accounts settings and your preferences accordingly, you can also see all related information and change of your accounts, you can also erase your personal information by making a review over it. If any Personal information is not available over First dial then you can contact us, there may be a charge associated with such service provided by first dial but the amount so charged will not exceed the prescribed limit of law. If First dial does not require any information or any information that does not worth anymore then we can erase such information.
 
-The motive behind retaining your personal information is only to resolve any disputes arise, in order to enforce our policies and in order to block any unwanted users. We maintain only that information as permitted by law.
+  The motive behind retaining your personal information is only to resolve any disputes arise, in order to enforce our policies and in order to block any unwanted users. We maintain only that information as permitted by law. 
 
-_**Security**_
+Security
 
 We follow up a numbers of techniques (encryption, passwords, and physical security) in order to protect the security and morality of your personal information against any unaccredited access and disclosure.
 
 The information transmitted over the internet shall not be considered or have any guarantee to be completely secure. We cannot provide any warranty regarding such information to be secure such information shall be at your own risk and security as well, We shall not made liable for that concerned information. As soon as any personal information comes under our possession, we will start up the procedure in order to protect such provided information by adapting various techniques.
 
- _ **Sensitivity Of Provided Information**_
+Sensitivity Of Provided Information 
 
 First dial committed the confidentiality of personal information and liable to maintain its sensitivity. The users of first dial should agree and accept that they have been well educated by First dial that the information provided by the users may be use as publication, to all users of First dial, of any information posted by them while using any specific features on our website.
 
@@ -57,17 +52,17 @@ Agreement of genuineness of and consequences from the posting of any personal in
 
 Moreover, the users themselves waived that confidentiality of information on such features; they need to provide an agreement regarding that.
 
- _ **Voluntarily Disclosure**_
+Voluntarily Disclosure
 
 It must be kept in notice that disclosure of personal information by the user need to be voluntarily. First dial only collects information when a bona-fide grant of the user will be received.
 
 If you wish not to disclose any of your personal information with us before completion of any registration process on our website or before availing any services offered on our website, you may abstain to do so, if you don’t provide information which is required to complete the procedure, it is possible that the procedure of registration would left incomplete and/or you will not be able to avail any of our services.
 
- _ **General**_
+General
 
   1. We may update or modify our privacy policies without providing any prior notice.
   2. If you are our corporative customer, it is possible we may do not disclose your personal information via a contract.
 
 
 
-If you have any query or Concerns regarding your privacy policies or any sensitive information you may send us an email at [info@firstdial.in](mailto:info@firstdial.in)
+If you have any query or Concerns regarding your privacy policies or any sensitive information you may send us an email at [info@firstdial.in ](mailto:%20info@firstdial.in)
