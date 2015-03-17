@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the padlet.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130103027id_/http%3A//sl.padlet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padlet.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317143229id_/http%3A//sl.padlet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Padlet Junction
 
