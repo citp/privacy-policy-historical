@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rapsio.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707081037id_/https%3A//www.rapsio.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapsio.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318004458id_/https%3A//www.rapsio.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy - Rapsio AdPortal
 
-This Privacy Policy (“Privacy Policy”) explains what information Injekt, LLC (“Injekt, LLC,” also referred to herein as “us,” “we,” or “our”) collects from individuals who visit the Injekt, LLC.com website (the “Site”), and it explains how Injekt, LLC uses and maintains this information. 
+This Privacy Policy (“Privacy Policy”) explains what information Pelican Software SRL, the owner of Rapsio (“Rapsio,” also referred to herein as “us,” “we,” or “our”) collects from individuals who visit the Rapsio.com website (the “Site”), and it explains how Rapsio uses and maintains this information. 
 
 ## Privacy Policy Changes
 
@@ -12,8 +12,8 @@ We reserve the right to update or modify the Privacy Policy at any time. If we m
 
 We collect two (2) kinds of information through the Site:
 
-  1. 1\. Personally-Identifiable Information that can identify you as a specific individual, such as your name and email address (“PII”). We only collect PII when you have contacted us directly (see “Collection of Personally-Identifiable Information” below). 
-  2. 2\. Non personally-identifiable information (“NPII”) collected and stored automatically by many websites. This includes information about your Internet service provider, operating system, browser type, geographic location and pages viewed on the Site. Although this information is related to you, we do not associate it with your PII and it cannot be linked to you personally
+  1. Personally-Identifiable Information that can identify you as a specific individual, such as your name and email address (“PII”). We only collect PII when you have contacted us directly (see “Collection of Personally-Identifiable Information” below).
+  2. Non personally-identifiable information (“NPII”) collected and stored automatically by many websites. This includes information about your Internet service provider, operating system, browser type, geographic location and pages viewed on the Site. Although this information is related to you, we do not associate it with your PII and it cannot be linked to you personally.
 
 
 
@@ -24,7 +24,7 @@ If you do not want your information to be collected and used per the terms of th
 PII is collected by the Site only when you provide it to us when:
 
   * You communicate with us via email. We ask that you provide us your name, email address and phone number so that we can send you a response.
-  * You visit a sign up page for ads, apps, and games, and you are requested to submit (i) your name, (ii) your company name, (iii) your address, (iv) a username and password, (v) your email address, and (vi) information that Injekt, LLC may request from time to time as indicated on the sign up page.
+  * You visit a sign up page for ads, apps, and games, and you are requested to submit (i) your name, (ii) your company name, (iii) your address, (iv) a username and password, (v) your email address, and (vi) information that Rapsio may request from time to time as indicated on the sign up page.
 
 
 
@@ -74,12 +74,8 @@ The Site may provide links to the websites of our business partners. If you link
 
 We have implemented physical, technical and administrative security measures to protect Information from unauthorized access and improper use. We keep information on servers protected by firewalls and located in a physically secure facility. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Despite our reasonable efforts, no security measures are impenetrable and any connection to the Site or information transmitted to us or to the Site will be at your own risk.
 
-## California Privacy Rights
-
-California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for their direct marketing purposes. Such notice identifies the categories of information shared and includes a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a request by email to [support@rapsio.com](mailto:support@rapsio.com). Please allow up to thirty (30) days for a response.
-
 ## Question and Concerns
 
 If you have any questions or concerns about the Site or the Privacy Policy or its implementation, please email us at [support@rapsio.com](mailto:support@rapsio.com).
 
-Effective: June 18, 2014
+Effective: July 23, 2014
