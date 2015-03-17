@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705143118id_/https%3A//jorgecruise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317211906id_/https%3A//jorgecruise.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jorge Cruise
+# Privacy Policy - Jorge Cruise
 
 jorgecruise.com and JorgeCruise.com, Inc. takes your privacy seriously. Earning and maintaining your trust is important to us. We want you to understand what information we gather from you, how this information is used and protected. This Privacy Policy and Agreement (“Privacy Policy”) discloses the privacy practices of jorgecruise.com. By using the Website, you agree, without limitation or qualification, to be bound by this Privacy Policy. This Privacy Policy applies only to information collected by jorgecruise.com online.
 
@@ -27,10 +27,6 @@ Suite 477
 San Diego, CA 92109  
 Attn: jorgecruise.com Privacy / Legal
 
-Or, send a fax to:  
-(619) 374-2004  
-Attn: jorgecruise.com Privacy / Legal
-
 BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.
 
-(Last modified as of September 17, 2013)
+(Last modified as of October 14, 2014)
