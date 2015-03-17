@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923104815id_/http%3A//prima-coffee.com/pc/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317212900id_/https%3A//prima-coffee.com/pc/policy/privacy) for the most accurate reproduction.*
 
 # Prima Coffee Equipment's Privacy Policy | Prima Coffee
 
-Welcome! You are most likely visiting this page for one of two reasons: (1) you want to know what type of information we collect and how it is used, if this is you then congrats you are in the right place, please keep reading, or (2) you are lost, in which case you can click the following link to find [ Quality Coffee and Espresso Equipment](http://prima-coffee.com/).
+Welcome! You are most likely visiting this page for one of two reasons: (1) you want to know what type of information we collect and how it is used, if this is you then congrats you are in the right place, please keep reading, or (2) you are lost, in which case you can click the following link to find [ Quality Coffee and Espresso Equipment](https://prima-coffee.com/).
 
 Prima Coffee is committed to the privacy of your personal, identifiable information. We, like you, don’t like it when people sell or trade personal information in order to make a few bucks. In order to establish and maintain a trusting relationship with you, we are careful to protect all information you supply through our website and through our customer service team. This privacy policy works in conjunction with our internal corporate practices to protect you and your personal information from misuse. Please review our policy and contact our office with questions or concerns.
 
@@ -13,6 +13,26 @@ We collect personal information, including your email address, phone number, cre
 ### Do we use cookies?
 
 Everyone likes cookies, computers too, so when you visit our site we will feed your computer a cookie to help us remember the items in your cart, process your order, save your preferences for future visits, and gather anonymous usage data so that we can improve our services. 
+
+We also serve Google's double click script to enable remarketing campaigns that serve customized ads through Google's display network. You can opt out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg4VHd0m21adYaAg9yNDxJFQTiTSdorWliAwloVbVUTgmchctwp2GJgAjNVdX5eTnvU_liK7Nw1FGvAO2MinLUps2ts4sc__SSyVF7FCU6gglVus727677iacDuZaJDGl9s2vkWKy9gmbFnJTyVHgeNeMVjqG3WCh_5C10Gqr73KbdwD0__6mf5ax3UV_6tHffg9HzX)
+
+Some site functionality, is provided by approved third party vendors. In order to provide there service they set their own cookies and collect data. How they use that data is governed by their respective privacy policies. The third party services that we use and links to their privacy policies can be found below along with opt out links and a brief description of the service they provide.
+
+#####  Bazaar Voice
+
+  * [Privacy Policy](http://www.bazaarvoice.com/privacy-policy)
+  * [Opt Out Form](http://www.bazaarvoice.com/privacy-policy)
+  * Description: Bazaar Voice provides Question and Answer and Review functionality.
+
+
+
+#####  Add This
+
+  * [Privacy Policy](http://www.addthis.com/privacy)
+  * [Opt Out Form](http://www.addthis.com/privacy/opt-out)
+  * Description: AddThis powers our social interaction buttons.
+
+
 
 ### Do we disclose any information to outside parties?
 
@@ -38,7 +58,7 @@ We are in compliance with the requirements of COPPA (Children's Online Privacy P
 
 ### Terms and Conditions
 
-Please also visit our [ Terms and Conditions](http://prima-coffee.com/pc/policy/tos) section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://prima-coffee.com/pc/policy/tos>.
+Please also visit our [ Terms and Conditions](https://prima-coffee.com/pc/policy/tos) section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://prima-coffee.com/pc/policy/tos>.
 
 ### Governing Policies
 
