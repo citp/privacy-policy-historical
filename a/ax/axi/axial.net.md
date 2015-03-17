@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axial.net privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703054225id_/http%3A//www.axial.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axial.net privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318002401id_/http%3A//www.axial.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Axial
 
