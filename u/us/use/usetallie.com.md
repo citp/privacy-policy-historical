@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usetallie.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702091710id_/https%3A//www.usetallie.com/automated-expense-reports-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usetallie.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317163101id_/https%3A//usetallie.com/automated-expense-reports-privacy-policy) for the most accurate reproduction.*
 
 # Expense Report Software Privacy Policy | Tallie
 
@@ -25,7 +25,7 @@ Feel free to contact us for any reason, including a request to be added to or ta
 San Francisco, CA 94107
 
 **BY PHONE**  
-[+888.874.1118 ](tel:+8888741118)
+[+1.888.874.1118 ](tel:+18888741118)
 
 **BY EMAIL**  
 [support@springahead.com](mailto:support@springahead.com)
