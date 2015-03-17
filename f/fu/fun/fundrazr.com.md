@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fundrazr.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007133322id_/https%3A//fundrazr.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundrazr.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317100843id_/https%3A//fundrazr.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy — FundRazr
+# Privacy policy - FundRazr — FundRazr
 
-_Revised on March 2, 2014_
+_Revised on January 19, 2015_
 
 ConnectionPoint Systems Inc. (hereafter referred to as “CPSI” or the “Company”), provides its services (the “Service” or the “Application”) to make it easy for users (you) to raise money through their social networks for causes or projects they support and care about (the “Campaigns”). You have control of your information and decide what you want to share with everyone. This includes contact and personal information and details of your Campaigns. You control the sharing of that information by using the Campaigns tab on the Application and your Facebook, LinkedIn, Twitter, Pinterest or Google+ (the “Social Networks”) privacy settings.
 
@@ -26,7 +26,7 @@ You may also post information, opinions, text, sounds, photographs, audio, video
 
 ##### Use of the Information We Collect
 
-You are in control of sharing personal information that you provide to the Application, including by using the privacy settings of the Social Networks. If you choose to post Materials directly to public portions of the Application, including but not limited to the Summary, the Story, Story Updates , Comments, etc. obviously those Materials become publicly available and can be viewed by other users and anyone with the URL to your campaign, and may also show up in search engine results.
+You are in control of sharing personal information that you provide to the Application, including by using the privacy settings of the Social Networks. If you choose to post Materials directly to public portions of the Application, including but not limited to the Summary, the Story, Story Updates, Comments, etc. obviously those Materials become publicly available and can be viewed by other users and anyone with the URL to your campaign, and may also show up in search engine results.
 
 CPSI may also use the publicly available information you provide to help promote your campaign on media websites such as television, radio, local or national newspapers, printed newspapers, blogs, forums and other electronic properties.
 
@@ -39,6 +39,17 @@ If you provide your email address at the Application, we may use your email addr
 CPSI may use personal information you elect to provide to us in order to provide products and/or services to you and, if you elect, other users and for administration, maintenance and development of the Application.
 
 CPSI may use anonymous information collected to improve the quality of the Application. This information may help us to diagnose problems, maintain security, and provide services users want. CPSI may determine user demographics, interests, and behavior and may share such anonymous information with others. For example, we may provide demographic or usage information to an organization so they may see how many users are located in a specific geographic area.
+
+If CPSI stores a cookie on your browser, CPSI may only access our own cookie, not that of another company.
+
+CPSI uses cookies for the following purposes:
+
+  * To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting the Application. For example, we may save your login information so you don’t have to sign in every time you visit the site;
+  * To help us customize the content you see when you visit the Application;
+  * To help measure and research the effectiveness of our interactive online content, features, and other communications; and 
+  * To track Application analytics and use, and to improve Application services. 
+
+
 
 ##### Use of Intercom Services
 
