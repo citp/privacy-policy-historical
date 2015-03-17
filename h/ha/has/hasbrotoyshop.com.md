@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hasbrotoyshop.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230090048id_/http%3A//www.hasbro.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hasbrotoyshop.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317065202id_/http%3A//www.hasbro.com/home/privacy.html) for the most accurate reproduction.*
 
 # HASBRO WEB SITE PRIVACY POLICY
 
@@ -93,7 +93,7 @@ We do not share your personal information with third parties other than as descr
 
   * With third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us. These entities have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us, and, unless we notify you otherwise and provide you with an opportunity to opt-out, will not use your personal information for any purpose other than as described in this Policy.
 
-  * When we believe it is necessary or appropriate to (i) comply with applicable law or legal process or to respond to lawful requests or legal authorities; (ii) protect the rights and property of Hasbro and our employees, agents, users and other third parties, including to enforce our agreements, policies and [Terms and Conditions of Use ](https://web.archive.org/web/20141230090048id_/http%3A//www.hasbro.com/home/terms.html) and protect against fraudulent, abusive, inappropriate, or unlawful use of our Services; and (iii) protect the safety of Hasbro our users or any third party; and
+  * When we believe it is necessary or appropriate to (i) comply with applicable law or legal process or to respond to lawful requests or legal authorities; (ii) protect the rights and property of Hasbro and our employees, agents, users and other third parties, including to enforce our agreements, policies and [Terms and Conditions of Use ](https://web.archive.org/web/20150317065202id_/http%3A//www.hasbro.com/home/terms.html) and protect against fraudulent, abusive, inappropriate, or unlawful use of our Services; and (iii) protect the safety of Hasbro our users or any third party; and
 
   * In connection with, or during negotiations of, any merger, sale of company assets, bankruptcy or reorganization, financing or acquisition of all or a portion of our business to another company.
 
