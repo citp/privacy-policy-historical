@@ -1,78 +1,80 @@
-> *The following text is extracted and transformed from the yourjobspace.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114050702id_/https%3A//www.yourjobspace.com/PRIVACYPOLICY.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourjobspace.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317110642id_/https%3A//yourjobspace.com/privacy-policy) for the most accurate reproduction.*
 
 # Your Job Space
 
-###  109 Borough High Street,
+**What information do we collect?**
 
-###  London Bridge,
+We collect information from you when you register on our site. 
 
-###  SE1 1NL
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-  
+ **What do we use your information for?**
 
+Any of the information we collect from you may be used in one of the following ways: 
 
-####  **Email:** privacy@YourJobSpace.com
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-By entering this site, you consent to the use of your personal information as set forth below.   
-You can read our Privacy Policy below to see what information we collect and our security assurance.   
-This Privacy Policy covers the treatment of personally identifiable information that is collected by your job space   
-this policy does not apply to the practices of companies that Your Job Space does not own or control or to people that Your Job Space does not employ or manage.   
-This notice applies to all information collected or submitted on the Your Job Space™ website at www.Your Job Space ("Website"). On some pages, you can register for an account, make requests, and register to receive information. The types of personal information collected at these pages may include: 
+• To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
-  * Name 
-  * State of Residence 
-  * Zip Code 
-  * Gender 
-  * Email address 
-  * Month and Year of Birth 
-  * City 
-  * Contact number 
+• To send periodic emails
 
+ **How do we protect your information?**
 
+These security measures include: SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
 
-##  Your Job Space uses information for five general purposes: 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-  * To customize the advertising and content you see, 
-  * To fulfill your requests for certain products and services, 
-  * To contact you about specials and new products, 
-  * To maintain and manage the distributor genealogy, and 
-  * To allow other distributors to manage their businesses.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
+ **Do we use cookies?**
 
+We do not use cookies.
 
-##  Security: 
+ **Do we disclose any information to outside parties?**
 
-Whether you place an order or create a profile, we use industry-standard secure server software (SSL) that encrypts all information you input before it is sent to the server. In addition, the entire customer data collected is protected against unauthorized access. Account Numbers are encrypted and stored in our server for six months after orders are entered.  
-No data transmission over the Internet will be 100% secure. While we take steps to protect your personal information, we cannot guarantee the security of any information you transmit to us and you do so at your own risk. Upon receiving your transmission, we make all reasonable efforts to ensure its security on our systems. However, you are ultimately responsible for maintaining the secrecy of your username, passwords and/or any account information.   
-To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https."  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
+ **Third party links**
 
-##  Information Sharing: 
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Your Job Space uses the information we collect solely for our business purposes. We do not sell or share personal information to third parties other than those third parties who provide services vital to our business and to other distributors. However, we may also provide aggregate information and statistics about our customers, sales and related site information to our third-party providers, but this information and statistics will include no personally identifying information. Please note that we may release information in good faith as is reasonably necessary to comply with the law or protect our rights. 
+ **Childrens Online Privacy Protection Act Compliance**
 
-##  Cookies and Sessions: 
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-Cookies are essential "invisible" data files that act as an electronic messenger between your computer and our website. Internet browsers have a notification option to let you know when an "invisible" cookie is being sent to you. Through your browser options you can choose not to accept the cookie. However, in not accepting the cookie, you may not be able to experience all functions of Your Job Space. 
+ **Online Privacy Policy Only**
 
-##  Online Privacy Policy Only: 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+ **Terms and Conditions**
 
-##  Links:
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.yourjobspace.com.
 
-Our Site contains links to other Social sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our website and to read the privacy statements of each and every web site that collects personally identifiable information from them. This Privacy Policy applies solely to information collected by this website. 
+ **Your Consent**
 
-##  Your Consent:
+By using our site, you consent to our privacy policy.
 
-By using our website, you agree to let us collect and use information per the terms of this privacy policy. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of what information we collect and how we use it. 
+ **Changes to our Privacy Policy**
 
-##  How Can You Access Or Correct Your Information:
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-You can access all your personally identifiable information that we collect online and maintain by accessing your Your Job Space Profile. We use this procedure to better safeguard your information.  
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.  
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+This policy was last modified on **11/10/2014**
 
-##  Making Changes to Your Personally-Identifiable Information:
+ **Contacting Us**
 
-You may update your personal information as necessary by logging into the Account Management section of Your Job Space’s back-office. Within Your Job Space’s back-office, you have access to your account information and have the ability to edit your information. In addition, you may contact us at info@Your Job Space.com to update your profile..
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+www.yourjobspace.com  
+1ST FLOOR 2 WOODBERRY GROVE FINCHLEY   
+London, england N12 0DR   
+united kingdom  
+yourjobspace09@gmail.com
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act  
+Trust Guard Privacy Requirements
