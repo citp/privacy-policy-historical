@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordspy.ca privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209075637id_/http%3A//www.keywordspy.ca/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordspy.ca privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317035952id_/http%3A//www.keywordspy.ca/policy.aspx) for the most accurate reproduction.*
 
 # 
 
