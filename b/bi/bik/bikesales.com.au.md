@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikesales.com.au privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702043831id_/http%3A//www.bikesales.com.au/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikesales.com.au privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317091727id_/http%3A//www.bikesales.com.au/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - bikesales.com.au
 
@@ -12,7 +12,7 @@ By accessing or using carsales services, including the carsales Network you agre
 Words defined in the carsales Terms and Conditions of Use have the same meaning in this Privacy Policy.
 
 **Carsales and privacy**  
-carsales.com.au is bound by the Privacy Act (1988).
+carsales is bound by the Privacy Act (1988).
 
 **What personal information is collected?**  
 carsales collects personal information to assist it and its related bodies corporate to conduct their activities and provide the range of services they offer.
@@ -49,7 +49,7 @@ carsales collects personal information in a number of ways, including:
 
 
 **How is personal information used?**  
-Your personal Information may be used for the following purposes:
+Your personal information may be used for the following purposes:
 
   * to maintain appropriate business records; 
   * to research, develop, improve and use within carsales products and services;
@@ -67,7 +67,7 @@ Your personal Information may be used for the following purposes:
 **How is personal information disclosed?**  
 carsales may disclose personal information to individuals and organisations other than carsales. The organisations to which we may disclose personal information include:
 
-  * carsales staff and related carsales bodies corporate
+  * carsales staff and carsales' related bodies corporate
   * the public if you advertise with carsales or use publicly available Communications Services
   * individuals and organisations that advertise with carsales if you submit an enquiry or seek certain services through carsales - depending on your enquiry these may include:
     * private advertisers;
@@ -86,7 +86,7 @@ carsales may disclose personal information to individuals and organisations othe
   * resellers of carsales services;
   * organisations involved in a sale/transfer of carsales assets, business or shares;
   * to assist government or regulatory authorities or police;
-  * as we are required by law, for example pursuant to a subpoena.
+  * as we are required by law, for example pursuant to a subpoena or in accordance with unclaimed money legislation.
 
 
 
@@ -102,7 +102,10 @@ You generally have a right to access your personal information, subject to a few
 carsales takes reasonable steps to protect personal information collected from misuse, loss, unauthorised access, modifications or disclosure. Your personal information may be stored in hard copy documents, but is generally stored electronically on carsales’ systems. 
 
 **Transfer of personal information outside of Australia**  
-Some of carsales’ service providers are located outside of Australia, including in the United States of America. It may be necessary to disclose your personal information to those service providers for some of the purposes listed above. By providing carsales with your personal information, you consent to the disclosure / transfer of your personal information outside of Australia as set out in this privacy policy. 
+Some of carsales’ service providers are located outside of Australia, including in the United States of America and Canada. It may be necessary to disclose your personal information to those service providers for some of the purposes listed above. By providing carsales with your personal information, you consent to the disclosure / transfer of your personal information outside of Australia as set out in this privacy policy. 
+
+**Dealing with carsales anonymously**  
+You may deal with carsales anonymously by using a pseudonym, unless carsales is required or authorised by law to deal only with an identified person, or it is impracticable for us to respond to you if you have not identified yourself.
 
 **What if you don't provide personal information?**  
 If you choose not to provide personal information when requested, carsales may not be able to provide you with the full range of carsales services.
@@ -116,7 +119,7 @@ Carsales uses “cookies” and other methods to collect and store the informati
 
 The carsales Network may include links to third party web sites, co-branded web sites and applications and advertising served to the carsales Network by third parties (Linked Sites). The operators of Linked Sites may collect personal information through the use of cookies and otherwise. Carsales is not responsible for Linked Sites and recommends you read the privacy policy of Linked Sites before disclosing your personal information. 
 
-This site uses Crazy Egg web analytics service. Crazy Egg may record visitor’s activities on the carsales Network, which may include mouse clicks, mouse movement, and scrolling activity performed on the carsales Network, user screen size, browser versions and other user experience based metrics. Crazy Egg does not collect any personally identifiable information, including credit card information, that you enter in this website. For more information see [Privacy Policy](http://www.crazyegg.com/privacy) for Information Collected by the Crazy Egg Web Analytics Service. We are using the information collected by Crazy Egg service for analysing usability of the carsales Network and associated purposes. To opt out of this analytics service, please email [contact@crazyegg.com](mailto:contact@crazyegg.com).
+This site uses Crazy Egg web analytics service. Crazy Egg may record visitor’s activities on the carsales Network, which may include mouse clicks, mouse movement, and scrolling activity performed on the carsales Network, user screen size, browser versions and other user experience based metrics. Crazy Egg does not collect any personally identifiable information, including credit card information, that you enter in this website. For more information see: [Privacy Policy](http://www.crazyegg.com/privacy) for Information Collected by the Crazy Egg Web Analytics Service. We are using the information collected by Crazy Egg service for analysing usability of the carsales Network and associated purposes. To opt out of this analytics service, please email [contact@crazyegg.com](mailto:contact@crazyegg.com).
 
 Carsales uses Nielsen/NetRatings web analytics tools to measure and analyse internet usage across our the carsales Network of websites. This service helps us measure and respond to our online consumers. The data collected does not identify a user personally. 
 
@@ -135,4 +138,4 @@ carsales treats complaints relating to privacy extremely seriously. If you submi
 **How this policy changes**  
 This policy may change over time. All changes will be published on this website.
 
-_Version 5 (March 2014)_
+_Version 6 (July 2014)_
