@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808160225id_/http%3A//www.todayshomeowner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317082817id_/http%3A//www.todayshomeowner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Today's Homeowner
 
@@ -16,7 +16,7 @@ By using the Website, you consent to the collection and use of your information 
 
 **What type of PII does Remodeling Today collect from you and how do we use it?**
 
-Registrants must provide certain personally identifiable information (“PII”) to Remodeling Today in order to purchase our products, and participate in polls, surveys and sweepstakes from time to time. Such PII includes basic biographical information, such as your name and email address. We may also ask you for general statistical, non-PII about yourself and your interests.
+Registrants must provide certain personally identifiable information (“PII”) to Remodeling Today in order to purchase our products, and participate in polls, surveys and sweepstakes from time to time. Such PII includes basic biographical information, such as your name, phone number, and email address. We may also ask you for general statistical, non-PII about yourself and your interests.
 
 Unless you provide PII to Remodeling Today through the Website, we will not collect any PII from you.
 
