@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the nraila.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228070631id_/https%3A//membership.nrahq.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nraila.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317111934id_/https%3A//www.nraila.org/privacy) for the most accurate reproduction.*
 
-# NRA Online Membership
+# National Rifle Association - Privacy Policy
 
-NRA PRIVACY POLICY  
 Updated: January 16, 2014
 
+### Privacy
+
 NRA realizes how important privacy is to our membership. Therefore, we have adopted the following policy to advise you of your choices regarding the use of your personal information online. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third parties, and how you can update it.
+
+### Information Collection
 
 We gather certain broad information about website use including the number of unique visitors, the frequency with which they visit, and the programs and services preferred. We look at the data in summary form, rather than on an individual basis. We gather this information so we can learn how many people visit NRA sites, which pages are the most and least viewed, and which websites are referring visitors to our sites. We use this information to help us in restructuring sites to meet our members' needs. NRA sites do not respond to "Do Not Track" signals.
 
@@ -13,32 +16,49 @@ Most NRA sites and services are intended for general audiences and do not knowin
 
 We compile lists for communications and marketing purposes. We will provide that information to NRA affinity partners who we believe provide goods and/or services that might be useful to NRA members. Contracts with these companies require them to keep the member information strictly confidential and prohibit them from using it for any other purpose. You may ask us to remove you from the lists by: (1) emailing from our Contact Us page; (2) calling us at 1-800-672-3888; or (3) writing to us at National Rifle Association of America, 11250 Waples Mill Road; Fairfax, VA 22030. We do not provide member information to telemarketers, mailing list brokers, or other companies that are not offering NRA-endorsed services or benefits. Third parties do not collect personally identifiable information about the online activities of individuals who visit NRA sites.
 
+### Cookies
+
 The NRA online network utilizes a standard technology called a "cookie" to collect information about how our sites are used. Cookies are small strings of text stored on your computer's hard drive by a Web server. For example, session cookies identify your computer during a particular session to track the items you have placed in your "shopping cart" during a visit to our online stores. Please note that if you choose to decline cookies, you may not be able to access certain interactive features and services offered on NRA sites.
 
-We collect and analyze traffic on our websites by keeping track of the Internet Protocol (IP) addresses of our visitors. 
+### IP Addresses
 
-You may be asked to provide different types of personal information, including your name, date of birth, email address, mailing address or telephone number. Particular services may require additional information such as your billing address, credit card number and expiration date. For example, we may ask for information to process your membership application, facilitate an online store purchase, or register for one of our events. There are also optional opportunities for you to share your preferences and interests. 
+We collect and analyze traffic on our websites by keeping track of the Internet Protocol (IP) addresses of our visitors.
 
-**Opt Out**   
-We also use your information to send you notices in the mail or by email about special member benefits, discounts and offers. If you do not wish to receive mailings, you can: (1) opt out of email lists immediately by following the instructions at the bottom of each email; (2) email us using our [_Contact Us_](http://contact.nra.org/) page, (3) call us at 1-800-672-3888; or (4) write to us at National Rifle Association of America, 11250 Waples Mill Road; Fairfax, VA 22030.
+### Personal Information
+
+You may be asked to provide different types of personal information, including your name, date of birth, email address, mailing address or telephone number. Particular services may require additional information such as your billing address, credit card number and expiration date. For example, we may ask for information to process your membership application, facilitate an online store purchase, or register for one of our events. There are also optional opportunities for you to share your preferences and interests.
+
+### Control of Personal Information
+
+**Opt Out**
+
+We also use your information to send you notices in the mail or by email about special member benefits, discounts and offers. If you do not wish to receive mailings, you can: (1) opt out of email lists immediately by following the instructions at the bottom of each email; (2) email us using our [Contact Us](http://contact.nra.org/) page, (3) call us at 1-800-672-3888; or (4) write to us at National Rifle Association of America, 11250 Waples Mill Road; Fairfax, VA 22030.
 
 **Editing Your Personal Information**
 
 Three ways you can edit or update your personal information: (1) visiting [NRA Member Services](http://www.nramemberservices.org/); (2) calling us at 1-800-672-3888; or (3) writing to us at National Rifle Association of America, 11250 Waples Mill Road; Fairfax, VA 22030.
 
-We protect your personal information by using technologies and processes such as encryption, access control procedures, network firewalls, physical security and other measures. Data is secured in transit by Secure Sockets Layer (SSL) technology. Only authorized employees or agents with a legitimate business purpose are allowed to access your personal information. We train our employees and agents to implement and understand our privacy and confidentiality policies. 
+### Data Security
+
+We protect your personal information by using technologies and processes such as encryption, access control procedures, network firewalls, physical security and other measures. Data is secured in transit by Secure Sockets Layer (SSL) technology. Only authorized employees or agents with a legitimate business purpose are allowed to access your personal information. We train our employees and agents to implement and understand our privacy and confidentiality policies.
 
 Please understand that the National Rifle Association of America is not responsible for the privacy practices of websites linked to our sites or other third parties. When leaving an NRA site using such a link or by clicking on an advertisement, you should review the applicable privacy policy of the other party.
 
+### Changes to This Policy
+
 The National Rifle Association of America may occasionally update this Privacy Policy. When we make changes to this Policy, you will see the word "updated" and the effective date beneath the Privacy Policy title. The National Rifle Association of America encourages you to review this Policy periodically to be informed of how we are protecting your information.
+
+### Contacting the National Rifle Association
 
 If you have questions about this statement or believe that we have not adhered to it, please contact us via the [email](http://contact.nra.org/), phone number or address shown below.
 
-_Online:_  
-[ contact.nra.org](http://contact.nra.org/)   
-_Phone:_   
-1-800-672-3888   
-_Mail:_   
+**Online:**   
+[contact.nra.org](http://contact.nra.org/)
+
+**Phone:**   
+1-800-672-3888 
+
+**Mail:**   
 National Rifle Association of America   
 11250 Waples Mill Road   
-Fairfax, VA 22030
+Fairfax, VA 22030 
