@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bruteprotect.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817141553id_/https%3A//bruteprotect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bruteprotect.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317191917id_/http%3A//bruteprotect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BruteProtect
 
@@ -66,6 +66,6 @@ If, in the future, we decide to use personal information for uses not previously
 **Contact Us  
 **If you feel that we are not complying with our Privacy Policy or if you have any questions about this Privacy Policy, you may contact us at the address, email address or phone number listed below.
 
-Our postal address is: 122 Front Street, 2nd Floor, Bath, Maine 04530.  We can be reached via email at help@bruteprotect.com or you can reach us by telephone at (____) .
+Our postal address is: 122 Front Street, 2nd Floor, Bath, Maine 04530.  We can be reached by visiting [wordpress.org/support/plugin/bruteprotect](https://wordpress.org/support/plugin/bruteprotect)
 
 Effective Date: May 23, 2014
