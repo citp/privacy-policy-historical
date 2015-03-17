@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aat.org.uk privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925175012id_/http%3A//www.aat.org.uk/get-myaat/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aat.org.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317175855id_/https%3A//www.aat.org.uk/get-myaat/privacy-policy) for the most accurate reproduction.*
 
 # AAT privacy policy | AAT
 
@@ -6,9 +6,9 @@ AAT carries a firm commitment to the privacy of your personal data.
 
 This privacy policy describes the information we collect through this website ([www.aat.org.uk](http://www.aat.org.uk/)), and:
 
-  * What we do with it
-  * Who we share parts of it with
-  * The information we collect and how we use it.
+  * __What we do with it
+  * __Who we share parts of it with
+  * __The information we collect and how we use it.
 
 
 
@@ -22,8 +22,8 @@ Some of the information you give will be held in databases: we will ensure that 
 
 We may also ask you to complete surveys or questionnaires on the website from time to time. These will always be voluntary but we may use anonymised information gathered from surveys and questionnaires to:
 
-  * Personalise the website
-  * Target marketing to relevant users.
+  * __Personalise the website
+  * __Target marketing to relevant users.
 
 
 
@@ -31,9 +31,9 @@ Any information from surveys and questionnaires will be completely anonymous and
 
 We will ask for your email address to:
 
-  * Set up your MyAAT account
-  * Update you with information and newsletters
-  * Send you occasional invitations to participate in e-surveys to help us enhance and improve our service.
+  * __Set up your MyAAT account
+  * __Update you with information and newsletters
+  * __Send you occasional invitations to participate in e-surveys to help us enhance and improve our service.
 
 
 
@@ -45,8 +45,8 @@ Any information you give will be available to AAT. If you choose to add your ema
 
 Information you give in response to surveys and questionnaires on the website will be used in two ways:
 
-  * By AAT itself to help determine policy and to help improve its services to members
-  * By third parties that AAT may make the information available for market research - in this case, the information will be made available only in the form of anonymous qualitative and statistical reports.
+  * __By AAT itself to help determine policy and to help improve its services to members
+  * __By third parties that AAT may make the information available for market research - in this case, the information will be made available only in the form of anonymous qualitative and statistical reports.
 
 
 
@@ -66,8 +66,8 @@ Browser information is also collected with your name, email address and, if appr
 
 Our site uses the following two Google Analytics advertising features:
 
-  * DoubleClick platform integration
-  * Demographics and interest reporting.
+  * __DoubleClick platform integration
+  * __Demographics and interest reporting.
 
 
 
