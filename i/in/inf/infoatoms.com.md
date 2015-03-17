@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoatoms.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119122122id_/http%3A//www.infoatoms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoatoms.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317113703id_/http%3A//www.infoatoms.com/privacy-policy) for the most accurate reproduction.*
 
 # InfoAtoms | Privacy Policy
 
