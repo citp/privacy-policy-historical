@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiologyonline.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017043015id_/http%3A//www.audiologyonline.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiologyonline.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317074533id_/http%3A//www.audiologyonline.com/general/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy AudiologyOnline: Online AudiologyOnline CEUs & AudiologyOnline Jobs
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy applies to the AudiologyOnline website (the “Site”).   Except as specifically provided herein, this Privacy Policy is subject to change without notice. Please read it each time you visit the Site.  If you do not agree to the Privacy Policy, you may not access and use the Site.  Use of the Site signifies your acceptance of this Privacy Policy.  We will inform you through this Privacy Policy if a material change to the Privacy Policy is made that involves the use of your Personally Identifiable Information (as defined herein). Your continued use of the AudiologyOnline Site will indicate acceptance of the changes.
 
-AudiologyOnline is a website owned and operated by AudiologyOnline, Inc. (“AudiologyOnline", “we”, “our” or “us”).  You can reach us at [webmaster@AudiologyOnline](mailto:webmaster@AudiologyOnline), or at AudiologyOnline, 19141 Stone Oak Parkway Suite #104 San Antonio, TX 78258.  AudiologyOnline respects your privacy and has written this Privacy Policy so that you are aware of the information AudiologyOnline collects from you and how the information is used.
+AudiologyOnline is a website owned and operated by Alllied Health Media, LLC. (“Allied Health Media, LLC", "AudiologyOnline", “we”, “our” or “us”).  You can reach us at [webmaster@AudiologyOnline](mailto:webmaster@AudiologyOnline), or at AudiologyOnline, 538 W 21st St #79931, Houston, TX 77008.  AudiologyOnline respects your privacy and has written this Privacy Policy so that you are aware of the information AudiologyOnline collects from you and how the information is used.
 
 Use of the Site is governed by the laws of the United States.  When you provide us with information, you acknowledge that the information will be stored and processed on servers located in the United States.  No one under the age of 13 may use the Site.  If you are between the ages of 13 and 18, please have your parents review this Privacy Policy with you.
 
@@ -47,6 +47,26 @@ This Privacy Policy does not protect you when you send content, business informa
 As a service to our users, AudiologyOnline features chat rooms and other public forums where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. We also offer online discussions moderated by medical or healthcare experts.
 
 Any information shared (including Personally Identifiable Information and your personal health information (“Personal Health Information”)) that you reveal in a chat room, message board, "Ask The Expert" posting or online discussion is by design open to the public and is not a private, secure service. You should think carefully before disclosing any Personally Identifiable Information or Personal Health Information in any public forum. What you have written may be seen, disclosed to or collected by third parties and may be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes.
+
+Profile Information – Professional Network
+
+We collect user information when you fill out a profile. A complete profile includes professional information such as: job title, education, qualification, skills, etc. This helps site members, corporate partners, recruiters, and other professional entities connect with one another.
+
+After you create a profile or apply for a job, you may choose to provide additional information on your profile, such as descriptions of your skills, professional experience, and educational background. You can list honors, awards, professional affiliations, group memberships, and other information including hobbies and interests. Providing additional information enables you to derive more benefit from our Career Services by helping you express your professional identity; find other professionals, opportunities, and information; and help recruiters and business opportunities find you.
+
+You can choose what personal information you provide in addition to the information required for registration (name, email, education and work experience). Most of your profile, as well as all content that you post within the profile, is publicly displayed, so please do not provide personal information you would not want to be public. We may use and share information you provide in a profile in accordance with this Privacy Policy and our User Agreement.  You may change your privacy settings at any time to not display certain information such as contact information or displaying your profile to the public.  You may turn off your profile at any time so that it is not displayed publicly by selecting the proper account settings. By applying for a job or actively seeking a job within the website, you are making your profile information visible to recruiters and other professionals.  This information may be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes.
+
+User Communications – CareerMail 
+
+With certain communications you send within our site, the recipient can see your name, email address, and/or profile information depending on your privacy settings.
+
+Many communications that you initiate through our site will list your name and primary email address in the header of the message. Messages you initiate may also provide the recipient with aggregate information about your network (for example, how many people are in your professional network). Other communications that you initiate through the site, like a request for an introduction, will list your name as the initiator but will not include your personal email address contact information. Once you have connected with an individual, regardless of who sent the invitation, your profile information will be shared with that individual.
+
+Talent Recruiting, Professional Opportunities and Marketing 
+
+We offer a career partner service to recruiters and other professionals, which can be used to search for, organize, and communicate with potential job candidates or offer business opportunities. In some cases we allow the export of public profile information. 
+
+We offer customized people-search functionality along with organizational and communications tools (including activity alerts) as part of our talent recruiting, marketing and professional opportunities. These services allow subscribers to access limited information from Members’ public profiles, such as name, headline, current company, current title, and location, in order to effectively manage candidate sourcing. You may limit or prevent such subscribers from accessing your profile information by configuring your public profile visibility settings to restrict access to these fields. We do not provide email or other contact information to these subscribers. However, if you post that information as part of your profile it will be available to them and others. A recruiter or other such subscriber may also manage and store information it has independently obtained about you outside of our Services, such as a resume, in connection with our platform. Any personal information obtained independently of our site will not be added by us to your profile and is not under our control but is subject to the policies of our recruiting, marketing or professional subscriber. We store such information on behalf of such subscriber who can remove it at any time. We do not further process such information.
 
 ### Market Research
 
@@ -102,8 +122,8 @@ If you have a complaint or problem, please email us at [webmaster@AudiologyOnli
 If you do not receive adequate resolution of a privacy related problem, you may write to AudiologyOnline's Privacy Help Desk at:
 
 AudiologyOnline  
-19141 Stone Oak Parkway Suite #104  
-San Antonio, TX 78258
+538 W 21st St #79931  
+Houston, TX 77008
 
 ### Limitations on Removing or Changing Information
 
@@ -120,5 +140,5 @@ The Terms and Conditions for AudiologyOnline are hereby incorporated by referenc
 We comply with the California Online Privacy Protection Act of 2003, California Business and Professional Code 22575 - 22579.   If you are a California resident, we will, upon your written request, provide you with: (a) the names and addresses of all third parties to which we have disclosed your Personally Identifiable Information during the preceding year for direct marketing purposes (if any); (b) the categories of information we disclosed to third parties for direct marketing purposes during the preceding calendar year; and (c) if the nature of the third party direct marketer’s business cannot be reasonably determined by the third party’s name, examples of the products or services marketed.   In order to obtain this information, please contact us by email at: [webmaster@AudiologyOnline](mailto:webmaster@AudiologyOnline), or by mail at:
 
 AudiologyOnline  
-19141 Stone Oak Parkway Suite #104  
-San Antonio, TX 78258
+538 W 21st St #79931  
+Houston, TX 77008
