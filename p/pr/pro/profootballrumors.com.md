@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the profootballrumors.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223022041id_/http%3A//profootballrumors.com/profootballrumors-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballrumors.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317170402id_/http%3A//profootballrumors.com/profootballrumors-com-privacy-policy) for the most accurate reproduction.*
 
-# ProFootballRumors.com Privacy Policy Rumors - Pro Football Rumors
+# ProFootballRumors.com Privacy Policy Rumors - NFL Rumors - ProFootballRumors.com
 
 This is a Dierkes Information Services, Inc. website.
 
