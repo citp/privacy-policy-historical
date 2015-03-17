@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.com.my privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203053934id_/http%3A//www.expedia.com.my/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.my privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317123820id_/http%3A//www.expedia.com.my/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
 
 # Expedia, Inc. Privacy Pledge
 
