@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultratools.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327101034id_/https%3A//www.ultratools.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultratools.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317072243id_/https%3A//www.ultratools.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
