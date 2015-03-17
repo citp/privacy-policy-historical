@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lqdmarkets.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701040045id_/http%3A//www.lqdmarkets.com/About-Us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lqdmarkets.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317114701id_/http%3A//www.lqdmarkets.com/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the collection and use of personal information relating to potential and existing customers of LQD Markets by the company. Personal information is only collected in order to provide LQD Markets clients with outstanding service and to better understand client requirements.
+This Privacy Policy governs the collection and use of personal information relating to potential and existing customers of LQD Markets (UK) LTD by the company. Personal information is only collected in order to provide LQD Markets (UK) LTD clients with outstanding service and to better understand client requirements.
 
-LQD Markets Ltd is committed to abiding by this Privacy Policy, as well as the requirements of applicable laws, in the operation of its business. Please read this policy carefully as it explains the kinds of personal information we collect about you and how it is handled.
+LQD Markets (UK) Ltd is committed to abiding by this Privacy Policy, as well as the requirements of applicable laws, in the operation of its business. Please read this policy carefully as it explains the kinds of personal information we collect about you and how it is handled.
 
 By your continued use of our services (including our website), you consent to the collection and use of your personal information for the purposes set out in this Privacy Policy.
 
