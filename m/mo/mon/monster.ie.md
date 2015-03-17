@@ -1,57 +1,77 @@
-> *The following text is extracted and transformed from the monster.ie privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115114316id_/http%3A//my.monster.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.ie privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317222221id_/http%3A//my.monster.ie/privacy) for the most accurate reproduction.*
 
-# Find Jobs: Search thousands of jobs now | Monster.ie
+# Monster Privacy Centre | Monster.ie
 
-## Information We Collect and Retain
+**Your Privacy Rights**
 
-We collect the [personal](https://web.archive.org/privacy/fullstatement.aspx#2 "personal") and [demographic](https://web.archive.org/privacy/fullstatement.aspx#3 "demographic") information you choose to provide us. We also collect information about how you use our sites and the areas of our site that you visit. We may also acquire information about you from third parties in order to further personalize your experience. The resulting logs contain information necessary for analyzing the use of resources, troubleshooting problems, and improving services. We also use [cookies](https://web.archive.org/privacy/fullstatement.aspx#4 "cookies") and [web beacons](https://web.archive.org/privacy/fullstatement.aspx#5 "web beacons").
+Monster collects information about you and uses this information to help you connect with employers and job seekers and to provide other services to you. This policy describes how your information is collected and used and your choices with respect to your personal information. We encourage you to review our [full Privacy Policy](http://inside.monster.ie/fullpolicy/inside2.aspx "full Privacy Policy") for detailed information on our privacy practices.
 
-## How Information is Used
+## Scope of this Policy
 
-Information you post in public areas of the site or placed in the searchable CV database will be accessed, used, and stored by others around the world. We strive to provide a safe, secure environment by attempting to limit access to our database to legitimate users, but cannot guarantee that unauthorised parties will not gain access. We also cannot control how authorised users store or transfer information downloaded from the database, so you should ensure that you do not post sensitive information to Monster.
+This policy applies to information we collect or use on sites and applications owned or controlled by Monster Worldwide, Inc. or its affiliated companies ("Monster").
 
-We use the information we collect about you to deliver the products and services we offer, and to operate and improve our sites. Our services may include the display of personalised content and advertising. We may use your information to contact you about Monster site updates, conduct surveys, or informational and service-related communications, including important security updates.
+Monster is not responsible for the privacy policies or practices of ad networks and other websites, third parties with whom we work to provide you personalized services, or those who access your information on our sites or applications.
 
-## Disclosure of Information to Others
+## Information We Collect
 
-We share your information with third parties who help us in the delivery of our own products and services to you. These third parties may not use that information for any purpose other than assisting us in providing those products and services. 
+| [We self-certify compliance with:](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list "We self-certify compliance with:")
 
-If you have consented for us to do so, we may use your information to contact you about other products or services available from our affiliates. 
+[](http://www.export.gov/safeharbor "Safe Harbor")
 
-If you have consented for us to do so, we may also share your information with third parties who may contact you about their products or services. 
+[](https://privacy.truste.com/privacy-seal/Monster,-Inc-/validation?rid=cd2a9ce6-3345-40d6-b7da-2440baddba4e "TRUSTe European Safe Harbor certification")  
+  
+---|---  
+  
+We collect information about you when you use Monster. We collect information directly from you such as your contact information, CV, and profile information. We also collect information about you automatically such as how you use and interact with Monster, your demographic information, and information about your computer or mobile device.
 
-We also share information where legally required. Information collected on our Sites is stored in whole or in part in the United States, and may be subject to U.S. law. 
+We may collect or use information about you from publicly-available websites whether or not you have an account with us. You will have the opportunity to claim, change the visibility setting of, or remove the information. However we cannot guarantee that we will not later collect from publicly-available websites other information that pertains to you.
 
-We may disclose and transfer information if our business is sold or acquired.
+We may also acquire information about you from third parties to further personalize and enhance your experience.
 
-## Your Choices About Your Information
+## How We Use Information
 
-You may review, correct, or delete the personal information you submit to us at any time. Simply [log into your account](https://web.archive.org/Login.aspx "log into your account"), go to your account profile, and make the necessary changes. We will delete your personal information, but will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymized form. If your personal information was previously accessed by others using the Sites, we are unable to delete the information from their systems. 
+We use the information we collect about you to deliver the products and services we offer, respond to you, and operate and improve our sites and applications. Our services include showing you personalized content and advertising on Monster or other sites with which we have a business relationship. We may use your information to contact you about Monster updates, conduct surveys, or to provide informational and service-related communications, including important security updates.
 
-Monster has no control over the information that Ad Networks or other third parties may have about you. We encourage you to visit their web sites and review and read the privacy policies and opt-out practices that govern their usage. 
+Information you share in public areas of Monster or make visible in the CV and profile database may be accessed, used, and stored by others around the world. We strive to provide a safe environment by attempting to limit access to our database to legitimate users, but we cannot guarantee that unauthorized parties will not gain access. We also cannot control how authorized users store or transfer information you give to us, so you should not post sensitive information to Monster.
 
-If you change your mind about receiving communications from Monster or other parties, you may change your preferences by [logging into your account](https://web.archive.org/Login.aspx "logging into your account"). 
+## How We Share Information
 
-You may also [turn off cookies](https://web.archive.org/privacy/fullstatement.aspx#6 "turn off cookies") in your browser. This may affect your use of the site. 
+We do not share contact information with third parties for their direct marketing purposes without your consent.
 
-## Important Information
+We share your information with third parties who help us deliver our products and services to you. These third parties may not use your information for any other purpose.
 
-Please review the full [Privacy Statement](https://web.archive.org/privacy/fullstatement.aspx "Privacy Statement") for further information. 
+We may share information to third parties if you consent. For example, we may use your information to contact you about products or services available from Monster or our affiliates. If you opt in, we may supply your information to third parties who may contact you about their products or services. You may change your contact preferences by adjusting your [notification settings](http://my.monster.ie/Profile/NotificationSettings "notification settings").
 
-Our Sites are not intended for children under 18 years of age. 
+We may disclose to third parties information that we have collected from other websites.
 
-We participate in the U.S. Department of Commerce’s [Safe Harbor Framework](https://web.archive.org/privacy/fullstatement.aspx#7 "Safe Harbor Framework") and we are a member of [TRUSTe](https://web.archive.org/privacy/fullstatement.aspx#7 "TRUSTe").
+We disclose information where legally required.
 
-For more information on how to protect yourself online, click [here](https://web.archive.org/securitycenter/ "security center").
+We may disclose and transfer information to a third party who acquires any or all of Monster's business units.
 
-## How to Contact Us
+## How We Store Information
 
-You may [contact us](http://my.monster.ie/privacy/EmailForm.aspx "contact us") for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1800 268 268, or write to us at: 
+We store your information to make your interaction with Monster more efficient, practical, and relevant. You may access, review, correct, update, or delete your CV or profile any time by [signing in to your account](https://login.monster.ie/ "signing in to your account"). If you do not have an account, please [contact us](http://my.monster.ie/contactus/ "contact us").
+
+When you delete your personal information, we will retain logs and non-personal information about your activity on Monster. We will also retain an archival copy of your information which is not accessible by you or third parties on the Internet. If your personal information was previously accessed by others using Monster, we are unable to delete the information from their systems.
+
+## Other Information
+
+Monster is not intended for children under 18 years of age.
+
+We participate in the U.S. Department of Commerce's [Safe Harbor Framework](http://inside.monster.ie/fullpolicy/inside2.aspx#safe-harbor "Safe Harbor Framework") and we are a member of [TRUSTe](http://inside.monster.ie/fullpolicy/inside2.aspx#truste "TRUSTe").
+
+We use cookies to help personalize and maximize your online experience on Monster. You may [turn off cookies](http://inside.monster.ie/cookie-info/inside2.aspx "turn off cookies"); however, this will adversely affect your use of Monster.
+
+For information on how to protect yourself online, visit the [Security Center](http://inside.monster.ie/security-center/home.aspx "Security Center").
+
+## Contact Information
+
+You may [contact us online](http://my.monster.ie/privacy/EmailForm.aspx "contact us online") for questions or concerns about our privacy practices or the Safe Harbor program. You may also write to us at:
 
 Privacy Office  
-Monster Worldwide, Inc.  
-Gilford Road  
-Sandymount  
-Dublin 4
+Monster Worldwide Ireland Limited  
+Fitzwilliam Hall  
+Fitzwilliam Place  
+Dublin 2
 
-If your question is not properly addressed, you may contact [TRUSTe for assistance in resolving your issue](https://web.archive.org/privacy/fullstatement.aspx#9 "TRUSTe for assistance in resolving your issue").
+If you feel we have not properly addressed your question or concern, you may contact [TRUSTe](http://inside.monster.ie/fullpolicy/inside2.aspx#contact "TRUSTe") for further assistance.
