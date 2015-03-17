@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anhosting.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702094717id_/http%3A//www.anhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anhosting.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317132045id_/http%3A//www.anhosting.com/privacy.php) for the most accurate reproduction.*
 
 # AN Hosting Privacy Policy
 
