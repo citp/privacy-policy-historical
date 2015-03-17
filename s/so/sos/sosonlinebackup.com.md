@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sosonlinebackup.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827174051id_/http%3A//www.infrascale.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosonlinebackup.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317145232id_/http%3A//www.infrascale.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cloud Data Protection | SaaS Solutions from Infrascale
 
@@ -48,9 +48,9 @@ Notwithstanding the foregoing, if you access the Sites through means other than 
 
 ## Cookies
 
-We do use cookies on the Sites.  Cookies are small text files that your web browser leaves on your hard drive to recognize you as a repeat user of the Sites, track your use of the Sites and target marketing and advertising.  This allows for personalization of certain aspects of your visit to our Sites.  Information gathered from cookies in this way is only used on an aggregate basis.  Unless a visitor specifically provides their identity to us, e.g., by registering at our Sites, providing information through an online form or sending us correspondence from the Sites, we will not know who the individual visitors are.  We may use cookies to store preferences; record session information; develop information about Site visitors’ preferences and interests; record past activity on the Sites in order to provide better information when you return to our Sites; or customize web page content based on information you voluntarily provide.
+We do use cookies on the Sites.  Cookies are small text files that your web browser leaves on your hard drive to recognize you as a repeat user of the Sites, track your use of the Sites and target marketing and advertising.  This allows for personalization of advertising and certain aspects of your visit to our Sites.  Information gathered from cookies in this way is only used on an aggregate basis.  Unless a visitor specifically provides their identity to us, e.g., by registering at our Sites, providing information through an online form or sending us correspondence from the Sites, we will not know who the individual visitors are.  We may use cookies to store preferences; record session information; develop information about Site visitors’ preferences and interests; record past activity on the Sites in order to provide better information when you return to our Sites; or customize web page content based on information you voluntarily provide.
 
-You can disable cookies using your Internet browser settings.  Please consult your web browser’s help function for information on how to disable cookies.  Note that if you disable cookies, certain features of our Sites may not function properly.
+You can disable cookies using your Internet browser settings.  Please consult your web browser’s help function for information on how to disable cookies.  Note that if you disable cookies, certain features of our Sites may not function properly. To learn more, or to opt-out of receiving advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at www.networkadvertising.org/choices.
 
 ## Security
 
@@ -108,7 +108,7 @@ Notwithstanding anything to the contrary herein, and overriding any conflicts or
 
 ## Dispute Resolution
 
-This Policy shall be governed by and construed in accordance with the laws of the State of California without regard to the conflicts of law provisions thereof.  You expressly agree that any controversy, dispute or claim (“Litigation”) arising out of, relating to, or in connection with, this Policy or the Sites, or the alleged breach thereof, or relating to our activities or services or to us otherwise under this Policy, shall be settled by confidential binding arbitration in Los Angeles County, California, in accordance with the applicable rules of the American Arbitration Association, and judgment on the award rendered by the arbitrator(s) shall be binding on the parties and may be entered in any court having jurisdiction.  Regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to your use of the Site or this Policy must be filed within one (1) year after such claim or cause of action arose or was reasonable discovered, whichever is later, or be forever barred.  In the event of any Litigation, both parties expressly and irremovably consent to the exclusive venue and personal jurisdiction in Los Angeles County, California.  In the event of any Litigation arising from, related to or in connection with this Policy or the Site, the prevailing party thereof shall be entitled to recover its reasonable expenses, including (without limitation) attorneys’ fees and the costs of arbitration. ****
+This Policy shall be governed by and construed in accordance with the laws of the State of California without regard to the conflicts of law provisions thereof.  You expressly agree that any controversy, dispute or claim (“Litigation”) arising out of, relating to, or in connection with, this Policy or the Sites, or the alleged breach thereof, or relating to our activities or services or to us otherwise under this Policy, shall be settled by confidential binding arbitration in Los Angeles County, California, in accordance with the applicable rules of the American Arbitration Association, and judgment on the award rendered by the arbitrator(s) shall be binding on the parties and may be entered in any court having jurisdiction.  Regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to your use of the Site or this Policy must be filed within one (1) year after such claim or cause of action arose or was reasonable discovered, whichever is later, or be forever barred.  In the event of any Litigation, both parties expressly and irremovably consent to the exclusive venue and personal jurisdiction in Los Angeles County, California.  In the event of any Litigation arising from, related to or in connection with this Policy or the Site, the prevailing party thereof shall be entitled to recover its reasonable expenses, including (without limitation) attorneys’ fees and the costs of arbitration.
 
 ## Contact Us
 
@@ -117,6 +117,6 @@ Infrascale 999 N. Sepulveda Blvd., Suite 100, El Segundo, CA 90245, United State
 
 ## Date
 
-This Privacy Policy was last revised on October 24, 2013.
+This Privacy Policy was last revised on October 29, 2014.
 
-Copyright © 2013 Infrascale, Inc.  All Rights Reserved.
+Copyright © 2014 Infrascale, Inc.  All Rights Reserved.
