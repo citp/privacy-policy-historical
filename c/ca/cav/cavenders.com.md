@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the cavenders.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921031418id_/http%3A//www.cavenders.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cavenders.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317044944id_/https%3A//www.cavenders.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cavender's
 
 ## Privacy
 
-Cavenders.com does not share, sell or trade customer information, including e-mail addresses. Customer credit card information is used to complete the order only. We do not use or release any credit card or financial information for any purpose. We may use customer information for marketing and promotional purposes. For privacy purposes, all information relating to our customers is stored on a highly secure server that is not accessible via the Internet.
+Cavenders.com understands that you care about the privacy of your information. For this reason, Cavenders.com does not share, sell or trade customer information, including e-mail addresses, other than for the limited purposes set forth in our Privacy Policy. Customer credit card information is used only to complete orders. We do not use or release any credit card or personal information for any purpose other than the purpose for which you provide it and the limited purposes set forth in our Privacy Policy. All of the personal information you provide to us is stored on a protected, limited-access server.
 
-E-mails from us regarding special offers and promotions are optional. To be removed from the e-mail list, [click here](http://www.cavenders.com/emailoptout.html).
+We may send you emails regarding special offers and promotions, but they are optional. To opt out of receiving them, [click here](http://www.cavenders.com/emailoptout.html).
+
+Please read our [Privacy Policy](https://web.archive.org/privacy-policy-full.html) for more information. 
 
 ## Security
 
-The security of your credit card and personal information is a top priority at Cavenders.com. We strive to make your online shopping experience an enjoyable one by assuring you a secure transaction at any time of day or night, 365 days a year! When you place an order with us online, your order information is protected using Secure Sockets Layer (SSL) technology, which encrypts all personal information before it is transmitted over the Internet. You can rest assured that your transaction is confidential and secure.
+The security of your credit card and personal information is a top priority at Cavenders.com. We strive to make your online shopping experience an enjoyable and safe one at any time of day or night, 365 days a year! When you place an order with us online, your order information is protected using Secure Sockets Layer (SSL) technology, which encrypts personal information before it is transmitted over the Internet. You can rest assured that Cavenders.com is taking steps to make your transaction confidential and secure.
+
+Please read our [Privacy Policy](https://web.archive.org/privacy-policy-full.html) and [Terms of Use](https://web.archive.org/terms-of-use.html) for more information.
