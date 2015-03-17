@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iii.org privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204035515id_/http%3A//www.iii.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iii.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317062526id_/http%3A//www.iii.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | III
 
