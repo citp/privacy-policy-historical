@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightpearl.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702192355id_/https%3A//www.brightpearl.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightpearl.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317154127id_/https%3A//www.brightpearl.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brightpearl
 
@@ -14,7 +14,7 @@ Further information about privacy and data protection issues including the onlin
 
 **2\. Who we are**
 
-We are Brightpearl Limited, a company registered in England and Wales with company registration number 04325696. Our registered office is at 57 Prince St, Bristol BS1 4QH. Please see our contact section for more information. If you have any queries about the information we hold on you, please contact our Data Protection Compliance Officer, who you may write to at the address above, or email [info@thisispearl.com](mailto:info@thisispearl.com) or telephone on 0845 003 8935.
+We are Brightpearl Limited, a company registered in England and Wales with company registration number 06260621. Our registered office is at First Floor, New Bond House, Bond Street, Bristol, BS2 9AG. Please see our contact section for more information. If you have any queries about the information we hold on you, please contact our Data Protection Compliance Officer, who you may write to at the address above, or email [info@thisispearl.com](mailto:info@thisispearl.com) or telephone on 0845 003 8935.
 
 3\. How we collect information from you
 
