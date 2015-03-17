@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thenewcircle.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703023540id_/https%3A//thenewcircle.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewcircle.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317074217id_/https%3A//thenewcircle.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - NewCircle
 
-#### Effective: **02/19/2007**
+### Effective: 02/19/2007
 
 ## Privacy Notice Table Of Contents
 
