@@ -1,12 +1,28 @@
-> *The following text is extracted and transformed from the talkandroid.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007051849id_/http%3A//www.talkandroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkandroid.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318000343id_/http%3A//www.talkandroid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TalkAndroid.com
 
-Privacy Policy for TalkAndroid.com
+TalkAndroid and its Operators, Talk Media Inc, understand and fully respect the privacy of our readers and visitors.  The privacy of our readers is important to us, and to keep you informed of our privacy practices, we have provided this document disclosing Talk Media Inc’s intent, purpose, and use of any information that is potentially private, as well as providing details of how this information is gathered.
 
-The privacy of our visitors to TalkAndroid.com is important to us.
+At TalkAndroid.com, we recognize that privacy of your personal information is important. We never sell your personal information to third parties.
 
-At TalkAndroid.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit TalkAndroid.com, and how we safeguard your information.  We never sell your personal information to third parties.
+This document was last updated on Dec 22nd, 2014.
+
+**Disclosure of Information**
+
+Users of TalkAndroid are never asked to disclose information involuntarily, except whatever information is always disclosed by browsers, servers, and internet traffic as part of the normal operation of a website.  Some of that information automatically disclosed is explained under heading “Log Files” and “Cookies and Web Beacons”.  TalkAndroid does not collect private information from  its users without their knowledge.
+
+**What personal information do we collect and why?**
+
+Some parts of the site, such as our forums and our contests may require that we collect some information such as your email or your name.   That information is always disclosed voluntarily, we do not require it for you to read the content on our site.
+
+Contest Winners may be asked to send us their email addresses and/or shipping information.  This information is strictly kept private, and is only used to be able to ship out contest prizes.
+
+Users who subscribe to our newsletter are required to provide an email and possibly a name. We use this information in order to send out the newsletter.  By signing up to our newsletter, you consent to our use of your information for this purpose.
+
+**Keeping Information Safe**
+
+Talk Media Inc. takes all reasonable precautions to keep our information safe, including limiting who has access to that information.  The TalkAndroid editorial team and staff do NOT have access to private information stored in our logs or servers.  TalkAndroid’s editorial team also make their best efforts to preserve the privacy of any persons they communicate with in the course of their work on the site.
 
 **Log Files**  
 As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.  
@@ -26,4 +42,12 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 **Third Party Ad Servers**  
 We may use third-party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer web site at <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-000
+**Privacy Contact Info:**
+
+If you ever need to contact us about a Privacy concern, please write to us below.  We take privacy seriously and would like to hear from you.
+
+**Talk  Media, Inc.**  
+PO Box 27531  
+Oakridge  
+Vancouver, BC  
+V5Z 4M4
