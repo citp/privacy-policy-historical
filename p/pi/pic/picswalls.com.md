@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picswalls.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103045id_/http%3A//www.picswalls.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picswalls.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317091830id_/http%3A//www.picswalls.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PicsWalls.com
 
@@ -26,17 +26,7 @@ While browsing picswalls.com, a small number of text files referred to as "cooki
 
 **Third-Party Advertisers**
 
-In order to cover the costs of providing wallpapers as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by picswalls.com's privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date. 
-
-_Google Adsense:_
-
-We present you the following information about Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
-
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-
+In order to cover the costs of providing wallpapers as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by picswalls.com's privacy policy. We recommend that you read their policies. 
 
 **Sharing/Selling of Data**
 
