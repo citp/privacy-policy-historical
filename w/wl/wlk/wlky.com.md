@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlky.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010035030id_/http%3A//www.wlky.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlky.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317131012id_/http%3A//www.wlky.com/connect/privacy) for the most accurate reproduction.*
 
 # WLKY online privacy policy
 
