@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quipper.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625164024id_/http%3A//quipper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quipper.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318002146id_/http%3A//www.quipper.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Quipper
 
 Quipper Limited (“Quipper ,” “we,” “us”) shares the concerns of visitors (“Visitors,” “you”) to our Internet world wide web site (the “Site”) that links directly to this privacy policy about the protection of personal information online. This privacy policy (the “Policy”) describes our practices regarding the privacy of personal information (information from which a living individual can be identified) that we collect through the Site.
 
