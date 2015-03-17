@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logentries.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216042503id_/https%3A//logentries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logentries.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317100141id_/https%3A//logentries.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Logentries Log Management
 
