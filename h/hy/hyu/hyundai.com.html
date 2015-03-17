@@ -1,14 +1,24 @@
-<!--The following is the downloaded HTML source of the hyundai.com privacy policy that was archived on 2014-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141102085023id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hyundai.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317045548id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><link rel="icon" href="/favicon.ico">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><link rel="icon" href="/ico/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/ico/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/ico/favicon.ico"><link rel="icon" type="/image/ico" href="/ico/favicon.ico">
 	
-<title>Privacy Policy</title>
-<meta name="keywords" content="privacy, policy"> 
-<meta name="description" content="Hyundai Privacy Policy"> 	
+<title>     Privacy Policy     </title>
+<meta name="keywords" content="     privacy, policy     "> 
+<meta name="description" content="     Hyundai Privacy Policy     ">
+
+<!-- Tags for facebook -->
+<!-- RS: need to move to some .incl file and may be load it dynamically based on model -->
+<meta property="og:title" content="">
+<meta property="og:type" content="">
+<meta property="og:url" content="">
+<meta property="og:image" content="">
+<meta property="og:site_name" content="">
+<meta property="og:description" content="">
+<meta property="fb:admins" content="">	
 	
 	
-<link rel="stylesheet" type="text/css" charset="utf-8" href="/css/hyundai_main.css?v=2" media="all">
+<link rel="stylesheet" type="text/css" charset="utf-8" href="/css/hyundai_main.css?v=30" media="all">
 <link rel="stylesheet" type="text/css" charset="utf-8" href="/css/hyundai-sifr-alt.css" media="all">
 
 <link rel="stylesheet" type="text/css" charset="utf-8" href="/css/hyundai_print.css" media="print">
@@ -19,16 +29,46 @@
 <!--<script type="text/javascript" src="/js/flash-detect.js"></script>-->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<script type="text/javascript" src="/js/js-compressed.js?v=317"></script>
+<script type="text/javascript" src="/js/js-compressed.js?v=319"></script>
 <script type="text/javascript" src="/js/js-home-compressed.js"></script>
 
      
 
+		
+        <!-- BEGIN DATA LAYER IMPLEMENTATION -->
+    <script type="text/javascript">
+    		 
+            var hiddenSectionName = "Privacy Policy".toLowerCase();
+            var pageName = "help" + ":" + hiddenSectionName;
+            var _dl = {
+                  "site_section" : "help",
+                  "page_name" :  pageName,
+                  "language" : "en-US",
+                  "layout_type" : "desktop",
+                  "authentication_status": "not authenticated",
+                  "mhid": "myhyundaiid"
+            };
+            
+            var _trackAnalytics = function(){};
+    </script>
+    <!-- END DATA LAYER IMPLEMENTATION -->
 	<title>
 
 </title></head>
 <body>
-   
+    <!-- BEGIN TEALIUM TAG IMPLEMENTATION -->
+	<script type="text/javascript">
+       (function(a, b, c, d) {
+	        a='//tags.tiqcdn.com/utag/hyundai/hyundaiusa/'+environment+'/utag.js';
+	        b=document;c='script';
+	        d=b.createElement(c);
+	        d.src=a;
+	        d.type='text/java'+c;
+	        d.async = true; a = b.getElementsByTagName(c)[0];
+	        a.parentNode.insertBefore(d, a) 
+	        })();
+    </script>
+    <!-- END TEALIUM TAG IMPLEMENTATION -->
     
 	<div id="page" class="utility_page">
 	
@@ -54,7 +94,32 @@
                     <a id="hyundaiSearchSubmit" href="javascript:void(0);"><img src="/ipad/images/navigation/search-button.png"></a>
                  
                    <script type="text/javascript">
-                   $(document).ready(function () {
+                       $(document).ready(function () {
+                           var defaultVal = 'Search';
+
+                           $('#globalSearchForm input[type="text"]').each(function () {
+
+                               $(this).focus(function () {
+                                   if ($(this).val() == defaultVal || $(this).val().toLowerCase() == 'search') {
+                                       $(this).removeClass('active').val('');
+                                   }
+                               })
+                               .blur(function () {
+                                   if ($.trim($(this).val()) === '') {
+                                       $(this).addClass('active').val(defaultVal);
+                                   }
+                               })
+                               .blur().addClass('active');
+                           });
+
+                           $('#globalSearchForm').submit(function (e) {
+
+                               if ($(this).find('[type="text"]').val() === defaultVal || $(this).find('[type="text"]').val().toLowerCase() == 'search') {
+                                   e.preventDefault();
+
+                               }
+
+                           });
                       $('input[type=text]').bind('paste', function (e) {
                          e.preventDefault();
                       }); 
@@ -132,6 +197,60 @@
 							    <div class="map_frame">
 								    <div class="map"></div>
 							    </div>
+                                
+
+
+
+<div class="mini_dealer_badges">
+    <ul class="badges_list">
+        
+                <li class="badge_equus" style=""><a href="javascript://" data-type="equus"><img class="badge_img" src="/images/dealer-locator/main/badges/dealer_badge_equus_sm.png">Authorized Equus Dealer</a></li>                   
+            
+                <li class="badge_carcare" style="width:85px"><a href="javascript://" data-type="carcare"><img class="badge_img" src="/images/dealer-locator/main/badges/dealer_badge_carcare_sm.png">Car Care Express</a></li>                   
+            
+    </ul>
+    <div class="icon_holder_small">
+        
+                <img id="ctl00_ctl07_DealerBadgesMini_repeaterBadgesIconHolderSmall_ctl00_imgIcon" title="Authorized Equus Dealer" data-type="equus" src="/images/dealer-locator/main/badges/dealer_badge_equus_sm.png" alt="Authorized Equus Dealer" style="border-width:0px;">
+            
+                <img id="ctl00_ctl07_DealerBadgesMini_repeaterBadgesIconHolderSmall_ctl01_imgIcon" title="Car Care Express" data-type="carcare" src="/images/dealer-locator/main/badges/dealer_badge_carcare_sm.png" alt="Car Care Express" style="border-width:0px;">
+            
+    </div>
+    <div class="icon_holder_medium">
+        
+                <img id="ctl00_ctl07_DealerBadgesMini_repeaterBadgesIconHolderMedium_ctl00_imgIcon" title="Authorized Equus Dealer" data-type="equus" src="/images/dealer-locator/main/badges/dealer_badge_equus_med.png" alt="Authorized Equus Dealer" style="border-width:0px;">
+            
+                <img id="ctl00_ctl07_DealerBadgesMini_repeaterBadgesIconHolderMedium_ctl01_imgIcon" title="Car Care Express" data-type="carcare" src="/images/dealer-locator/main/badges/dealer_badge_carcare_med.png" alt="Car Care Express" style="border-width:0px;">
+            
+    </div>
+    
+            <div class="badge_overlay" data-type="equus">
+                <div class="badge_close"><a href="javascript://"></a></div>
+                <div class="badge_content">
+                    <div class="badge_header">
+                        <img src="/images/dealer-locator/main/badges/dealer_badge_equus_lg.png">
+                        <div class="badge_title">Authorized Equus Dealer</div>
+                    </div>
+                    <div class="badge_description">By investing in specific training and equipment, this dealer has been authorized to sell, lease, maintain and service the Equus. As such, they are a qualified resource for answers to questions about the vehicle warranty, features and functionality.</div>
+                </div>
+            </div>
+        
+            <div class="badge_overlay" data-type="carcare">
+                <div class="badge_close"><a href="javascript://"></a></div>
+                <div class="badge_content">
+                    <div class="badge_header">
+                        <img src="/images/dealer-locator/main/badges/dealer_badge_carcare_lg.png">
+                        <div class="badge_title">Car Care Express</div>
+                    </div>
+                    <div class="badge_description">Offered only at select Hyundai dealers, Car Care Express has dedicated technicians trained to perform high-quality work with the goal of doing your oil change in under an hour. So the next time your Hyundai needs service, think Car Care Express and schedule an appointment with this dealer.</div>
+                </div>
+            </div>
+        
+</div>
+
+
+
+
 							    <ul class="dealers"></ul>
 							    <a href="/dealer-locator/" class="see_all_dealerships">See all Dealerships</a>
 						    </div>
@@ -145,7 +264,7 @@
 			    </li>
 		    </ul>
 	    </div>
-        <div id="topNavWrapper">
+		<div id="topNavWrapper">
 <div id="hyundaiLogo" class="hyperlink"><a href="/index.aspx" title="" class="hyundai-logo"></a></div>
 <div id="ipadNav" class="second-nav">
 <ul id="leftNav" data="500|300|250|100">
@@ -156,14 +275,14 @@
 <ul class="vehicle-listing-decor">
 <li class="vehicle-catagory-panel">
 <ul>
-<li id="accent-2014-en-US" class="vehicle-box hyperlink">
+<li id="accent-2015-en-US" class="vehicle-box hyperlink">
 <p class="vehicle-category">Compacts</p>
 <a class="vehicle-item" href="/accent/" title="">
 <span class="vehicle-thumb">
-<img src="/images/navigation/vehicles/MY/2014/vertical-nav-2014-accent.png" alt="Accent">
+<img src="/images/navigation/vehicles/MY/2015/vertical-nav-2015-accent.png" alt="Accent">
 </span>
-<div class="vehicle-model-title"><span class="vehicle-model-year">2014</span> Accent</div>
-<p class="vehicle-model-price">From $14,645 <span></span></p>
+<div class="vehicle-model-title"><span class="vehicle-model-year">2015</span> Accent</div>
+<p class="vehicle-model-price">From $14,745 <span></span></p>
 </a>
 </li>
 <li id="elantra-2015-en-US" class="vehicle-box hyperlink">
@@ -186,14 +305,14 @@
 <p class="vehicle-model-price">From $19,600 <span></span></p>
 </a>
 </li>
-<li id="elantra-gt-2014-en-US" class="vehicle-box hyperlink">
+<li id="elantra-gt-2016-en-US" class="vehicle-box hyperlink">
 <p class="vehicle-category"></p>
 <a class="vehicle-item" href="/elantra-gt/" title="">
 <span class="vehicle-thumb">
-<img src="/images/navigation/vehicles/MY/2014/2014_elantra_gt_n.png" alt="Elantra GT">
+<img src="/images/navigation/vehicles/MY/2016/vertical_nav_2016_elantra_gt.png" alt="Elantra GT">
 </span>
-<div class="vehicle-model-title"><span class="vehicle-model-year">2014</span> Elantra <span>GT</span></div>
-<p class="vehicle-model-price">From $18,750 <span></span></p>
+<div class="vehicle-model-title"><span class="vehicle-model-year">2016</span> Elantra <span>GT</span></div>
+<p class="vehicle-model-price">From $18,800 <span></span></p>
 </a>
 </li>
 <li id="veloster-2015-en-US" class="vehicle-box hyperlink">
@@ -222,18 +341,18 @@
 <p class="vehicle-model-price">From $21,150 <span></span></p>
 </a>
 </li>
-<li id="azera-2014-en-US" class="vehicle-box hyperlink">
+<li id="azera-2015-en-US" class="vehicle-box hyperlink">
 <p class="vehicle-category"></p>
 <a class="vehicle-item" href="/azera/" title="">
 <span class="vehicle-thumb">
-<img src="/images/navigation/vehicles/MY/2012_New/2012_azera_n.png" alt="Azera">
+<img src="/images/navigation/vehicles/MY/2015/2015_azera.png" alt="Azera">
 </span>
-<div class="vehicle-model-title"><span class="vehicle-model-year">2014</span> Azera</div>
-<p class="vehicle-model-price">From $31,000 <span></span></p>
+<div class="vehicle-model-title"><span class="vehicle-model-year">2015</span> Azera</div>
+<p class="vehicle-model-price">From $34,000 <span></span></p>
 </a>
 </li>
 <li id="sonata-hybrid-2015-en-US" class="vehicle-box hyperlink">
-<p class="vehicle-category">Hybrid</p>
+<p class="vehicle-category">Hybrid / Fuel Cell</p>
 <a class="vehicle-item" href="/sonata-hybrid/" title="">
 <span class="vehicle-thumb">
 <img src="/images/navigation/vehicles/MY/2014/vertical-nav-2014-sonata-hybrid.png" alt="Sonata Hybrid">
@@ -242,7 +361,16 @@
 <p class="vehicle-model-price">From $26,000 <span></span></p>
 </a>
 </li>
-<li class="vehicle-box vehicle-empty-box hyperlink"></li>
+<li id="tucson-fuel-cell-2015-en-US" class="vehicle-box hyperlink">
+<p class="vehicle-category"></p>
+<a class="vehicle-item" href="/tucsonfuelcell/" title="">
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2015/vertical-nav-2015-tucson-fuel-cell.png" alt="Tucson Fuel Cell">
+</span>
+<div class="vehicle-model-title">Tucson <span>Fuel Cell</span></div>
+<p class="vehicle-model-price">Learn more <span></span></p>
+</a>
+</li>
 <li class="vehicle-box vehicle-empty-box hyperlink"></li>
 <li class="vehicle-box vehicle-empty-box hyperlink"></li>
 
@@ -270,24 +398,6 @@
 <p class="vehicle-model-price">From $24,950 <span></span></p>
 </a>
 </li>
-<li id="tucson-fuel-cell-2015-en-US" class="vehicle-box hyperlink">
-<p class="vehicle-category">Fuel Cell</p>
-<a class="vehicle-item" href="/tucsonfuelcell/" title="">
-<span class="vehicle-thumb">
-<img src="/images/navigation/vehicles/MY/2015/vertical-nav-2015-tucson-fuel-cell.png" alt="Tucson Fuel Cell">
-</span>
-<div class="vehicle-model-title">Tucson <span>Fuel Cell</span></div>
-<p class="vehicle-model-price">Learn more <span></span></p>
-</a>
-</li>
-<li class="vehicle-box vehicle-empty-box hyperlink"></li>
-<li class="vehicle-box vehicle-empty-box hyperlink"></li>
-<li class="vehicle-box vehicle-empty-box hyperlink"></li>
-
-</ul>
-</li>
-<li class="vehicle-catagory-panel">
-<ul>
 <li id="genesis-coupe-2015-en-US" class="vehicle-box hyperlink">
 <p class="vehicle-category">Performance / Premium</p>
 <a class="vehicle-item" href="/genesis-coupe/" title="">
@@ -318,6 +428,33 @@
 <p class="vehicle-model-price">From $61,500 <span></span></p>
 </a>
 </li>
+<li class="vehicle-box vehicle-empty-box hyperlink"></li>
+
+</ul>
+</li>
+<li class="vehicle-catagory-panel">
+<ul>
+<li id="sonata-hybrid-2016-en-US" class="vehicle-box hyperlink">
+<p class="vehicle-category">Future Vehicles</p>
+<a class="vehicle-item" href="/all-new-sonata-hybrid-plug-in/" title="">
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2016/vertical_nav_2016_sonata_hybrid.png" alt="Sonata Hybrid/plug-in">
+</span>
+<div class="vehicle-model-title"><span class="vehicle-model-year"></span>sonata<span> hybrid/plug-in</span></div>
+<p class="vehicle-model-price">Coming soon <span></span></p>
+</a>
+</li>
+<li id="veloster-rally-2015-en-US" class="vehicle-box hyperlink">
+<p class="vehicle-category"></p>
+<a class="vehicle-item" href="/veloster/rally.aspx" title="">
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2016/vertical_nav_2016_veloster_rally.png" alt="Veloster Rally">
+</span>
+<div class="vehicle-model-title"><span class="vehicle-model-year"></span>veloster<span> rally</span></div>
+<p class="vehicle-model-price">Coming soon <span></span></p>
+</a>
+</li>
+<li class="vehicle-box vehicle-empty-box hyperlink"></li>
 <li class="vehicle-box vehicle-empty-box hyperlink"></li>
 <li class="vehicle-box vehicle-empty-box hyperlink"></li>
 <li class="vehicle-box vehicle-empty-box hyperlink"></li>
@@ -496,7 +633,6 @@
 </div>
 </div>
 
-          
 	</div>		
 </div>
 <div class="nav_separator"></div>
@@ -572,13 +708,13 @@
         $('#globalNavUtility #hyundaiSearchSubmit').click(function () {
             $('#globalNavUtility #globalSearchForm').submit();
         });
-        $('#globalNavUtility #globalSearchForm').submit(function () {
-            var $input = $('#globalNavUtility #hyundaiSearch');
-            if ($input.val() != '') {
-                return true;
-            }
-            return false;
-        });
+        //$('#globalNavUtility #globalSearchForm').submit(function () {
+        //    var $input = $('#globalNavUtility #hyundaiSearch');
+        //    if ($input.val() != '') {
+        //        return true;
+        //    }
+        //    return false;
+        //});
         if ($('.tooltip_shell').length > 0) {
             $('.tooltip_shell').hover(function () {
                 $('.tooltip_pop_cont').slideDown();
@@ -641,8 +777,10 @@
         <!-- END HEADER INCLUDE -->
 
         <!-- BEGIN CONTENT AREA INCLUDE -->
-        <form name="aspnetForm" method="post" action="/privacy-policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5MzQwMzI1MjYPZBYCZg9kFgQCAQ9kFgICAw9kFgICAQ9kFgICAQ8WAh4HVmlzaWJsZWhkAgkPZBYCAgMPZBYCAgEPDxYCHwBoZGRkVKNsTzac1enj6sgQha65Vj+3LO0=">
+        <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwNzU5ODE1MzQPZBYCZg9kFgYCAQ9kFgICBg9kFgICAQ9kFgICAQ8WAh4HVmlzaWJsZWhkAgUPZBYCZg9kFgICAg9kFggCAQ8WAh4LXyFJdGVtQ291bnQCAhYEZg9kFgoCAQ8WAh4EVGV4dAUFZXF1dXNkAgMPFgIfAmVkAgUPFgIfAgUFZXF1dXNkAgcPFgIfAgU8L2ltYWdlcy9kZWFsZXItbG9jYXRvci9tYWluL2JhZGdlcy9kZWFsZXJfYmFkZ2VfZXF1dXNfc20ucG5nZAIJDxYCHwIFF0F1dGhvcml6ZWQgRXF1dXMgRGVhbGVyZAIBD2QWCgIBDxYCHwIFB2NhcmNhcmVkAgMPFgIfAgUKd2lkdGg6ODVweGQCBQ8WAh8CBQdjYXJjYXJlZAIHDxYCHwIFPi9pbWFnZXMvZGVhbGVyLWxvY2F0b3IvbWFpbi9iYWRnZXMvZGVhbGVyX2JhZGdlX2NhcmNhcmVfc20ucG5nZAIJDxYCHwIFEENhciBDYXJlIEV4cHJlc3NkAgMPFgIfAQICFgRmD2QWAgIBDw8WBB4ISW1hZ2VVcmwFPC9pbWFnZXMvZGVhbGVyLWxvY2F0b3IvbWFpbi9iYWRnZXMvZGVhbGVyX2JhZGdlX2VxdXVzX3NtLnBuZx4NQWx0ZXJuYXRlVGV4dAUXQXV0aG9yaXplZCBFcXV1cyBEZWFsZXIWBB4FdGl0bGUFF0F1dGhvcml6ZWQgRXF1dXMgRGVhbGVyHglkYXRhLXR5cGUFBWVxdXVzZAIBD2QWAgIBDw8WBB8DBT4vaW1hZ2VzL2RlYWxlci1sb2NhdG9yL21haW4vYmFkZ2VzL2RlYWxlcl9iYWRnZV9jYXJjYXJlX3NtLnBuZx8EBRBDYXIgQ2FyZSBFeHByZXNzFgQfBQUQQ2FyIENhcmUgRXhwcmVzcx8GBQdjYXJjYXJlZAIFDxYCHwECAhYEZg9kFgICAQ8PFgQfAwU9L2ltYWdlcy9kZWFsZXItbG9jYXRvci9tYWluL2JhZGdlcy9kZWFsZXJfYmFkZ2VfZXF1dXNfbWVkLnBuZx8EBRdBdXRob3JpemVkIEVxdXVzIERlYWxlchYEHwUFF0F1dGhvcml6ZWQgRXF1dXMgRGVhbGVyHwYFBWVxdXVzZAIBD2QWAgIBDw8WBB8DBT8vaW1hZ2VzL2RlYWxlci1sb2NhdG9yL21haW4vYmFkZ2VzL2RlYWxlcl9iYWRnZV9jYXJjYXJlX21lZC5wbmcfBAUQQ2FyIENhcmUgRXhwcmVzcxYEHwUFEENhciBDYXJlIEV4cHJlc3MfBgUHY2FyY2FyZWQCBw8WAh8BAgIWBGYPZBYIAgEPFgIfAgUFZXF1dXNkAgMPFgIfAgU8L2ltYWdlcy9kZWFsZXItbG9jYXRvci9tYWluL2JhZGdlcy9kZWFsZXJfYmFkZ2VfZXF1dXNfbGcucG5nZAIFDxYCHwIFF0F1dGhvcml6ZWQgRXF1dXMgRGVhbGVyZAIHDxYCHwIF+AFCeSBpbnZlc3RpbmcgaW4gc3BlY2lmaWMgdHJhaW5pbmcgYW5kIGVxdWlwbWVudCwgdGhpcyBkZWFsZXIgaGFzIGJlZW4gYXV0aG9yaXplZCB0byBzZWxsLCBsZWFzZSwgbWFpbnRhaW4gYW5kIHNlcnZpY2UgdGhlIEVxdXVzLiBBcyBzdWNoLCB0aGV5IGFyZSBhIHF1YWxpZmllZCByZXNvdXJjZSBmb3IgYW5zd2VycyB0byBxdWVzdGlvbnMgYWJvdXQgdGhlIHZlaGljbGUgd2FycmFudHksIGZlYXR1cmVzIGFuZCBmdW5jdGlvbmFsaXR5LmQCAQ9kFggCAQ8WAh8CBQdjYXJjYXJlZAIDDxYCHwIFPi9pbWFnZXMvZGVhbGVyLWxvY2F0b3IvbWFpbi9iYWRnZXMvZGVhbGVyX2JhZGdlX2NhcmNhcmVfbGcucG5nZAIFDxYCHwIFEENhciBDYXJlIEV4cHJlc3NkAgcPFgIfAgWiAk9mZmVyZWQgb25seSBhdCBzZWxlY3QgSHl1bmRhaSBkZWFsZXJzLCBDYXIgQ2FyZSBFeHByZXNzIGhhcyBkZWRpY2F0ZWQgdGVjaG5pY2lhbnMgdHJhaW5lZCB0byBwZXJmb3JtIGhpZ2gtcXVhbGl0eSB3b3JrIHdpdGggdGhlIGdvYWwgb2YgZG9pbmcgeW91ciBvaWwgY2hhbmdlIGluIHVuZGVyIGFuIGhvdXIuIFNvIHRoZSBuZXh0IHRpbWUgeW91ciBIeXVuZGFpIG5lZWRzIHNlcnZpY2UsIHRoaW5rIENhciBDYXJlIEV4cHJlc3MgYW5kIHNjaGVkdWxlIGFuIGFwcG9pbnRtZW50IHdpdGggdGhpcyBkZWFsZXIuZAIJD2QWAgIDD2QWAgIBDw8WAh8AaGRkZJjsqRVQLa9YXyKYwlIl/wTem12T">
+</div>
 
         <div id="wrapper">
             <div id="content">
@@ -669,7 +807,7 @@
 		
 		
 		
-		<p>This Policy will describe the kinds of personally identifiable information we may gather when you visit our websites:  HyundaiUSA.com and certain other Hyundai micro-sites (e.g., <a href="http://www.hyundainuvis.com/" target="new">hyundainuvis.com</a> or <a href="http://hmaservice.com/" target="new">hmaservice.com</a>).  Additionally, this Policy addresses how we may collect, handle and use that information, what choices you have to manage the personal information we collect about you, the circumstances under which we may disclose it to third parties, and the security of such information.<br>
+		<p>This Policy will describe the kinds of personally identifiable information we may gather when you visit our websites:  HyundaiUSA.com and certain other Hyundai micro-sites (e.g., <a href="https://www.hyundainuvis.com/" target="new">hyundainuvis.com</a> or <a href="https://hmaservice.com/" target="new">hmaservice.com</a>).  Additionally, this Policy addresses how we may collect, handle and use that information, what choices you have to manage the personal information we collect about you, the circumstances under which we may disclose it to third parties, and the security of such information.<br>
 </p>
 		
 		
@@ -1198,6 +1336,9 @@
 					
 					<li><a href="/recall/" title="Safety Recalls">Safety Recalls</a></li>
 					
+					
+					<li><a href="https://www.hmfusa.com/hpp-overview/" target="_blank" "="" title="Hyundai Protection Plan">Hyundai Protection Plan</a></li>
+					
 				</ul>
 			</li>
 			
@@ -1254,7 +1395,7 @@
 		</div>
 		<img src="/images/global/logo_footer.gif" width="303" height="32" alt="">
 		<div id="footerCopy">Hyundai is a registered trademark of Hyundai Motor Company.
-All rights reserved. ©2014 Hyundai Motor America.</div>
+All rights reserved. ©2015 Hyundai Motor America.</div>
 		</div>
 	</div>
 	<ul id="footerSubNav">
@@ -1356,13 +1497,14 @@ All rights reserved. ©2014 Hyundai Motor America.</div>
 						<span class="dealer_languages">{{LanguagesSpoken:join(' | ')}}</span>
 					</p> 
 					<div class="dealer_links">
-						<a class="quote mini_raq receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/request-quote.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Request Quote</a>&nbsp;&nbsp;i
-						<a class="dealer_url website" target="dealer-site" href="##http://{{DealerUrl}}/?cs:e=hma">Website <span style="text-decoration:none">&nbsp;i</span></a>
+						<a class="quote mini_raq receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/request-quote.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Request Quote</a><span class="separator">i</span>
+						<a class="dealer_url website" target="dealer-site" href="##http://{{DealerUrl}}/?cs:e=hma">Website</a><span class="separator">i</span>
 						<a class="directions mini_directions" href="##{{languagePath}}/dealer-locator/">Directions</a>
-						<br><a class="dealer_Xtimeurl" target="dealer-site" href="##http://{{DealerUrl}}/ServiceApptForm/?cs:e=hma">Schedule Service</a>&nbsp;&nbsp;
+						<br><a class="dealer_Xtimeurl" target="dealer-site" href="##http://{{DealerUrl}}/ServiceApptForm/?cs:e=hma">Schedule Service</a><span class="separator">i</span>
 						<a class="dealer_url search_inventory" target="dealer-site" href="##http://{{CobaltDealerURL}}&amp;cs:e=hma">Search Inventory</a>
 					</div>
-				</div>
+          <div class="dealer_badges">{{DealerBadgesSmall}}</div>
+        </div>
 			</li>
 		</ul>
 		<ul class="mainDealerLocator">
@@ -1378,13 +1520,14 @@ All rights reserved. ©2014 Hyundai Motor America.</div>
 						<span class="dealer_languages">{{LanguagesSpoken:join(' | ')}}</span>
 					</p>
 					<div class="dealer_links">
-						<a class="quote receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/request-quote.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Request Quote</a>&nbsp;&nbsp;i
-						<a class="test_drive receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/schedule-test-drive.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Test Drive</a>&nbsp;&nbsp;i
+						<a class="quote receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/request-quote.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Request Quote</a><span class="separator">i</span>
+						<a class="test_drive receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/schedule-test-drive.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Test Drive</a><span class="separator">i</span>
 						<a class="dealer_url" target="dealer-site" href="##http://{{DealerUrl}}/?cs:e=hma">Website</a>
-						<br><a class="dealer_Xtimeurl" target="dealer-site" href="##http://{{DealerUrl}}/ServiceApptForm/?cs:e=hma">Schedule Service <span style="text-decoration:none">&nbsp;&nbsp;i</span></a>
+						<br><a class="dealer_Xtimeurl" target="dealer-site" href="##http://{{DealerUrl}}/ServiceApptForm/?cs:e=hma">Schedule Service</a><span class="separator">i</span>
 						<a class="dealer_CobaltDealerUrl" target="dealer-site" href="##http://{{CobaltDealerURL}}&amp;cs:e=hma">Search Inventory</a>
 					</div>
-				</div>
+          <div class="dealer_badges">{{DealerBadgesMedium}}</div>
+        </div>
 			</li>
 		</ul>
 		<ul class="quoteDealerLocator">
@@ -1400,10 +1543,10 @@ All rights reserved. ©2014 Hyundai Motor America.</div>
 						<span class="dealer_languages">{{LanguagesSpoken:join(' | ')}}</span>
 					</p>
 					<div class="dealer_links">
-						<a class="quote receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/request-quote.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Request Quote <span style="text-decoration:none;">&nbsp;&nbsp;i</span></a>
-						<a class="test_drive receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/schedule-test-drive.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Test Drive <span style="text-decoration:none;">&nbsp;&nbsp;i</span></a>
+						<a class="quote receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/request-quote.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Request Quote</a><span class="separator">i</span>
+						<a class="test_drive receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/schedule-test-drive.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Test Drive</a><span class="separator">i</span>
 						<a class="dealer_url" target="dealer-site" href="##http://{{DealerUrl}}/?cs:e=hma">Website</a>
-						<br><a class="dealer_Xtimeurl" target="dealer-site" href="##http://{{DealerUrl}}/ServiceApptForm/?cs:e=hma">Schedule Service <span style="text-decoration:none;">&nbsp;&nbsp;i</span></a>
+						<br><a class="dealer_Xtimeurl" target="dealer-site" href="##http://{{DealerUrl}}/ServiceApptForm/?cs:e=hma">Schedule Service</a><span class="separator">i</span>
 						<a class="dealer_CobaltDealerUrl" target="dealer-site" href="##http://{{CobaltDealerURL}}&amp;cs:e=hma">Search Inventory</a>
 					</div>
 				</div>
@@ -1592,6 +1735,7 @@ s.eVar29=""
 s.eVar30=""
 //--></script>
 <script type="text/javascript">
+if (typeof stopDefaultGA === 'undefined'){  // Implemented as part of Data layer implementation
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-20856123-6']);
   _gaq.push(['_setDomainName', 'hyundaiusa.com']);
@@ -1601,7 +1745,11 @@ s.eVar30=""
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+} // Implemented as part of Data layer implementation
 </script>
+
+
+
 	
 	<script type="text/javascript">
 	s.pageName="en-US : hmausa : Privacy Policy";
@@ -1611,16 +1759,23 @@ s.eVar30=""
 	
 <script type="text/javascript"><!--
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+if (typeof stopDefaultSC === 'undefined'){
+var s_code=s.t();if(s_code)document.write(s_code)
+}
+//--></script>
 <script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img 
+	if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+     //-->
+</script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img 
 src="https://hyundaimotoramerica.122.2o7.net/b/ss/hmadevhyundaiUSA/1/H.17--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.17. -->
 
+
 <!-- iPerceptions -->
 <script type="text/javascript"> ; (function (w, d, s, l) { var r = 100, js, fjs = d.getElementsByTagName(s)[0], id = "IPerceptionsJS", a = "async", b = "defer", go = function () { if (d.getElementById(id)) { return; } js = d.createElement(s); js.src = w.location.protocol + "//ips-invite.iperceptions.com/webValidator.aspx?sdfc=855e6976-740-399b150a-0c1d-4108-96a0-23aa686aad11&lID=1&source=91787"; js.id = id; js.type = "text/javascript"; js[a] = a; js[b] = b; fjs.parentNode.insertBefore(js, fjs); }; if (r < Math.floor(Math.random() * 100)) { d.cookie = "IPE_S_740=0;Path=/;" } else if (!(/(^|;)\s*IPE(_S_)?740=/.test(d.cookie))) { go(); } })(window, document, "script", "load");</script>
+
+
 
 
 
