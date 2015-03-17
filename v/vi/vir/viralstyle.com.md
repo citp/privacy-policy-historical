@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralstyle.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720104121id_/http%3A//viralstyle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralstyle.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317101821id_/https%3A//viralstyle.com/privacy) for the most accurate reproduction.*
 
 # Viralstyle
 
