@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankatfirst.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202015340id_/https%3A//www.bankatfirst.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatfirst.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317073217id_/https%3A//www.bankatfirst.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy l First Financial Bank
 
