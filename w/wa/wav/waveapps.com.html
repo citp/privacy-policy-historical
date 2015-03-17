@@ -1,66 +1,114 @@
-<!--The following is the downloaded HTML source of the waveapps.com privacy policy that was archived on 2014-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108135813id_/https%3A//my.waveapps.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the waveapps.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317191356id_/https%3A//my.waveapps.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="modern"><!--<![endif]--><head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="uxHe9lq5N8L3vRt5jvk7guDcU7AXVdTkbvpd5R9pF7E">
-    <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8OVFRACQQFVlRTAA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+    <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8OVFRACQQFVlRTAA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
     <link rel="icon" href="https://my.waveapps.com/sitestatic/float/images/favicon.png">
-    <title>Wave • Privacy Policy</title>
-    <link rel="stylesheet" href="https://my.waveapps.com/sitestatic/css/603a746c80f9.css" type="text/css">
+    <title>Wave • Terms of Use</title>
+    <link rel="stylesheet" href="https://my.waveapps.com/sitestatic/css/89add593de57.css" type="text/css">
+  <style type="text/css">
+    body.standalone-page .container {
+        position: relative;
+        width: 1000px;
+    }
+    body.standalone-page .container .signup-link {
+        position: absolute;
+        right: 20px;
+        top: -26px;
+    }
+    span.indent p {
+        padding-left: 20px;
+        text-indent: -15px;
+    }
+    div.terms-block {
+        padding: 20px;
+        background-color: #fff;
+        border-color: #D9E1E8;
+        border-style: solid;
+        border-width: 1px;
+    }
+    .updated-label {
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .back-button {
+        position: relative;
+        top: -10px;
+        z-index: 100;
+    }
+    @media (max-width: 768px) {
+        body {
+            min-width: 0;
+        }
+        body.standalone-page .container {
+            width: 100%;
+        }
+        td.legalese {
+            display: block;
+            width: 80%;
+        }
+        body.standalone-page .container .signup-link {
+            top: 60px;
+        }
+        body.standalone-page .container #Content {
+            padding-top: 100px;
+        }
+        .simple {
+            display: block;
+        }
+        tr.term-item {
+            display: block;
+        }
+        .back-button {
+            display: block;
+            position: fixed;
+            right: 10px;
+            top: 10px;
+            z-index: 100;
+        }
+        .standalone-page #TopBar {
+            position: fixed;
+            top: 0px;
+            z-index: 1;
+        }
+    }
+  </style>
 <style type="text/css">
 .standalone-page .container {
     width: 1000px;
 }
-.updated-label {
+.term-item td {
+    margin 15px 0;
+    padding: 14px 19px;
+}
+.term-item .simple {
+    position: relative;
+    padding-top: 39px;
+    background-color: #f9f9f9;
+    border-left: 3px solid #d4e3ea;
+}
+.legalese {
+    width: 55%;
+}
+.simple-label:after {
+    content: 'In simple terms';
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    padding: 3px 7px;
     font-size: 12px;
     font-weight: bold;
+    background-color: #d4e3ea;
+    color: #20749c;
 }
 </style>
-<script type="text/javascript" language="JavaScript">
-/*
-<![CDATA[
-*/
-(function() {
-  var proto = "http:";
-  var host = "cdn.adgear.com";
-  var bucket = "a";
-  if (window.location.protocol == "https:") {
-    proto = "https:";
-    host = "a.adgear.com";
-    bucket = "";
-  }
-  document.writeln('<scr' + 'ipt type="text/ja' + 'vascr' + 'ipt" s' + 'rc="' +
-      proto + '//' + host + '/' + bucket + '/adgear.js/current/adgear.js' +
-      '"></scr' + 'ipt>');
-})();
-/*
-]]>
-*/
-</script><script type="text/javascript" src="https://a.adgear.com//adgear.js/current/adgear.js"></script>
-
-<script type="text/javascript" language="JavaScript">
-/*
-<![CDATA[
-*/
-  if (window.ADGEAR) {
-    ADGEAR.tags.script.init();
-    ADGEAR.lang.namespace("ADGEAR.site_callbacks");
-    /*
-     * Make this return a hash of key/value pairs you would like to have automatically
-     * sent through to AdGear via the querystring in every impression:
-     */
-    ADGEAR.site_callbacks.variables = function() {
-      return { };
-    }
-  }
-/*
-]]>
-*/
-</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8OVFRACQQFVlRTAA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script></head>
+    <link rel="stylesheet" type="text/css" href="/go/topbar_callout_css/">
+    <link rel="stylesheet" type="text/css" href="/go/sidebar_callout_css/">
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8OVFRACQQFVlRTAA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script></head>
 <body class="  standalone-page legal-page ">
   <script type="text/javascript">
     if (navigator.userAgent.match(/(iPad|iPhone|iPod)/g)) {
@@ -77,167 +125,417 @@
     </div>
     <div class="container">
         <div id="Content">
-<h1>Wave: Our Privacy Commitment to You <small class="updated-label pull-right"><span class="label">Effective as of:</span> February 28, 2014</small></h1>
-<div id="c251a108-d4d4-4bb7-b5cd-96ccae6d2eab" class="gutter-bottom"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Wave-Accounting-Inc-/asc?rid=c251a108-d4d4-4bb7-b5cd-96ccae6d2eab"></script><a href="//privacy.truste.com/privacy-seal/Wave-Accounting-Inc-/validation?rid=ff49b63c-33e5-4fd6-90b2-14d03539d0d3" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Wave-Accounting-Inc-/seal?rid=ff49b63c-33e5-4fd6-90b2-14d03539d0d3" alt="TRUSTe online privacy certification"></a></div>
-<p>At Wave Accounting Inc. ("Wave"), we value your trust and respect your privacy.</p>
-<p>Wave strives to support small business owners like you by offering a fast and easy way to manage your money, while respecting your privacy expectations and protecting your Personal Information.</p>
-<p>By "Personal Information", we mean information about an identifiable individual such as a person's name, email address, residential address, telephone number, and in some cases, more sensitive information such as but not limited to gender, demographic information, family status, investment particulars, consumption preferences, business expenditures, credit score, accounting data, social security or social insurance numbers, bank account information, and payment card information.  If you or your employer use our payroll service, Personal Information may include employment status, names, addresses, bank account data, hours worked, hire date, marital status, rates of pay and taxes paid and payable about you, your employees, agents, contractors and representatives.</p>
-<p>To demonstrate our commitment to protecting your privacy, we have developed this Privacy Policy, which describes how we will collect, use, disclose, retain and protect Personal Information in order to provide you with our online accounting, payroll, payment and invoicing services and other small business–related services (collectively, the "Services") offered and maintained by us and our affiliates from time to time. Our Privacy Policy is based on applicable privacy legislation as well as 10 internationally recognized privacy principles.</p>
-<p>Wave has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at:</p>
-<address>
-Wave Accounting Inc.<br>
-235 Carlaw Ave., Suite 601<br>
-Toronto, ON M4M 2S1<br>
-Canada<br>
-<a href="mailto:info@waveapps.com">info@waveapps.com</a><br>
-(416) 521-9141<br>
-Attention: Privacy Officer<br>
-</address>
-<p>If you are not satisfied with our response you can contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request">here</a>. The TRUSTe program covers only information that is collected through the Wave Apps Site (<a href="http://waveapps.com" title="http://waveapps.com">waveapps.com</a>, <a href="http://waveaccounting.com/" title="http://waveaccounting.com/">waveaccounting.com</a> and <a href="http://wavepayroll.com" title="http://wavepayroll.com">wavepayroll.com</a>), and does not cover information that may be collected through software downloaded from the Wave Apps Site or from any third-party sites.</p>
-<p>For the purposes of this Privacy Policy, the term "Site" means these websites (<a href="http://waveapps.com" title="http://waveapps.com">waveapps.com</a>, <a href="http://waveaccounting.com/" title="http://waveaccounting.com/">waveaccounting.com</a> and <a href="http://wavepayroll.com" title="http://wavepayroll.com">wavepayroll.com</a>), all related webpages, and all related websites operated by affiliates or divisions of Wave, but does not include any third-party websites which are linked to or may link from this website whether or not such third-party websites are used in connection with the Services.  "Wave Apps" means the Site and all mobile applications and other applications which provide access to the Services offered by Wave and its affiliates from time to time.</p>
-<h2>Wave Privacy Policy</h2>
-<h3>Accountability</h3>
-<p>Wave has designated a Privacy Officer who is responsible for the creation, oversight and implementation of our Privacy Policy and procedures to protect Personal Information, for receiving your privacy-related questions, and for providing you with information about our privacy practices. Our Privacy Officer is also responsible for notifying you of any material changes to our privacy practices, by posting updated information on our Site.</p>
-<p>You can contact our Privacy Officer:</p>
-<address>
-Brian Masson<br>
-Information Security Officer<br>
-235 Carlaw Ave., Suite 601<br>
-Toronto, ON M4M 2S1<br>
-Canada<br>
-Email: <a href="mailto:privacy@waveapps.com">privacy@waveapps.com</a><br>
-Phone: (416) 521-9141 extension 130<br>
-Attention: Privacy Officer<br>
-</address>
-<h3>Identifying Purposes</h3>
-<p>Wave collects, uses, and discloses Personal Information only for the purposes of providing you with our Services and for such other ancillary purposes consented to by you as a user of the Wave Apps.</p>
-<h4>Personal Information</h4>
-<p>More specifically, Wave collects, uses and discloses information (which may include Personal Information) for the following purposes:</p>
-<ul>
-    <li>To provide you with our Services. For example, in order to allow us to retrieve banking information for use within the Wave Apps, we collect your or your business' online banking credentials (i.e. account number, username and password; see Storage of Online Banking Credentials, below, for details) if you choose to provide them.</li>
-    <li>To promote or offer you products, services and offers (including new and other Services which are offered by us, our sponsors and partners) that may be relevant to you and your business. When you are using our Services you may be provided with relevant savings opportunities and related links based on information related to your use of the Services. Wave will use your Personal Information for the purpose of tailoring savings opportunities to your interests. However, we will never share your Personal Information with companies offering the savings opportunities. We only provide these companies with nonidentifiable, aggregate information (e.g. the number of times one of their savings opportunities was clicked).</li>
-    <li>To contact you for the purposes of product information, service updates, notifications relating to the Services, newsletters and tailored savings opportunity messages. Wave will never sell your contact details to a third party.</li>
-    <li>To monitor system usage, server and software performance, to improve system design, to create benchmarks and to conduct trending analyses.</li>
-    <li>To assist you with technical support issues. It is important to remember that most technical issues can be resolved without a Wave customer service representative viewing your Personal Information.</li>
-    <li>To comply with any laws, regulation, court orders, subpoenas or other legal process or investigation and to protect ourselves and other individuals from harm.</li>
-    <li>To assist in due diligence relating to any corporate action such as a financing,merger, amalgamation, sale or divestiture, provided that reasonable safeguards are taken to protect the confidentiality of Personal Information in our possession.</li>
-</ul>
-<h3>Consent</h3>
-<p>Wave takes a consent-based approach to the collection, use and disclosure of Personal Information. We collect Personal Information directly from you and only obtain Personal Information from other organizations (e.g., your bank or other third-party service providers) when you provide us with the account numbers, passwords or other credentials required to retrieve the Personal Information and for the purpose of providing you with our Services. We use and disclose the Personal Information only as described in this policy and our <a href="https://my.waveapps.com/terms/" target="_blank">Terms of Use</a>.</p>
-<p>At any time and without penalty, Wave users can withdraw their consent and close their Wave account
-by taking the following actions:</p>
-<ol>
-    <li>If you are a Payroll by Wave user, place your payroll account on hold.</li>
-    <li>Open the "Your Profile" page within our application.</li>
-    <li>At the bottom of the "Your Profile" page, click the "Close this Account" button and then confirm by clicking "Yes, close my account."</li>
-    <li>You will be sent an email for confirmation that the account is being closed by the rightful account holder. Click the link in the email.</li>
-    <li>In the web page that opens, click "Yes, please close my account" to complete your account closure.</li>
-</ol>
-<p>Once your account is closed, we will take the following actions:</p>
-<p>For users of all Wave products except Payroll:</p>
-<ul>
-    <li>All Personal Information relating to your account will be deleted from our databases. However, anonymous transactional data (which does not personally identify you or any of your employees, agents, contractors and representatives) will be retained in our database.</li>
-</ul>
-<p>For users of Wave's Payroll product:</p>
-<ul>
-    <li>In order to support our Payroll Guarantee, account information related to Payroll will be retained for a period of 7 years after the date of the most recent payroll you ran.</li>
-</ul>
-<p>At any time, Wave users can opt-out of most email communication from us by clicking on the unsubscribe link at the bottom of our emails, or via the "Email Preferences" section of the "Your Profile" page, accessible via the “Account” menu. Users of Wave's Payroll product wishing to opt-out of payroll emails must do so in the "Notifications" section of the payroll settings page. However, we may still contact you for administrative purposes (e.g. if we need to notify you of a change to our service, changes to our terms of use or privacy policy, there is a problem with your account or an anticipated service interruption, etc.).</p>
-<p>Withdrawing your consent will not apply to actions Wave has already taken based on your prior consent.</p>
-<p>In order to use certain Services, such as Wave Payroll, you may be required to provide personal information relating to yourself and your employees, agents, contractors and representatives from time to time. You acknowledge, and represent to us that you only collect, use and disclose personal information in compliance with applicable privacy laws. You further represent and warrant to us that you have obtained all required consents (including, if you use Wave Payroll, consents relating to making deposits to and debits from your employees' bank accounts) from your employees, agents, contractors and representatives whose personal information will be disclosed to us or to our third-party service providers in connection with the Services. You further agree to indemnify and hold Wave, its affiliates, subsidiaries, partners, service providers, suppliers and contractors and each of their respective officers, directors, agents, and employees (collectively, the "Wave Parties"), harmless for any loss, cost, complaint, damage, claim or liability whatsoever arising from your collection, use and disclosure of personal information relating to your employees, agents, contractors and representatives.</p>
-<h3>Limiting Collection</h3>
-<p>Wave limits the collection of Personal Information by collecting only the information required to fulfill the identified purposes. We will collect only the minimum amount of information required to facilitate the Services. However, we provide you with the option of sharing additional information (e.g. your name or address) to enhance your use of the Services.</p>
-<p>Wave does not knowingly or intentionally collect Personal Information from visitors who are under the age of thirteen (13).</p>
-<p>You may in connection with some but not all of our Services have the ability to allow others (Guest Collaborators) access to your account. If you choose to allow others access to your account, you will need to provide the individual's name and email address. We will automatically send your guest a one-time email inviting him or her to visit the Site. Wave stores this information for the sole purpose of sending this one-time email and tracking Site usage. The individual may contact us at privacy@waveapps.com to request that we remove this information from our database. A Guest Collaborator who accepts the collaboration invitation will be subject to and must agree to the same terms as a regular Wave customer.  Note that by providing Guest Collaborators access to your account, you will also be providing the Guest Collaborator access to any Personal Information in your account.  While the Guest Collaborator must agree to our terms of use, we take no responsibility for any collection, use or disclosure of your Personal Information by your Guest Collaborator.  It is your responsibility to ensure that your Guest Collaborator complies with privacy standards that are no less stringent than our own.</p>
-<p>When you use certain Services, you have the option to share information with other accounts you have signed up for.  You may choose from time to time to connect Wave with other third-party service providers in order to utilize these services in conjunction with the Wave Apps.  Purposes may include saving copies of records, importing data from external sources, communications with third parties, and conducting payment and direct deposit functions, among others.  In such instances, your account and password credentials and other required information in respect of such third-party service may be stored by Wave for the purpose of providing this service.</p>
-<h3>Limiting Use, Disclosure and Retention</h3>
-<p>Wave will not use or disclose Personal Information for purposes other than the identified purposes of the Services or such other purposes which we identify from time to time.</p>
-<p>We also ensure that only those employees responsible for the Services' operations have physical or technical access to Personal Information and only where such access is required to perform work authorized by their supervisors.</p>
-<p>Wave will retain Personal Information only for the duration of your enrollment as a Wave user or to support the Wave Payroll Guarantee, and Personal Information will be retained in access-secured databases. If you choose to withdraw from the Services, we will securely destroy your Personal Information in our possession and control within 45 days unless we are required to retain such Personal Information longer to fulfill our obligations to you or to third parties. However, we may retain non-personal information indefinitely.</p>
-<p>Payroll data will be retained for a period of five years from the date of employer's most recent payroll processing in order to comply with government regulations regarding retention of payroll data.  Payroll data includes but is not limited to  (a) employer name, address, tax rates, exempt status and (b) employee name, address, bank account information, SSN or SIN, rate of pay, hire date, birth date, filing status, allowances, benefits and deductions and (c) gross pay, taxes, deductions and net pay for every payroll processed.</p>
-<p>We retain all Personal Information provided by you or your bank on secure servers, as do our third-party partners and service providers.  This data will be subject to the laws of the relevant jurisdictions.  Our third-party service providers, including financial institutions, have their own terms of use and privacy policies that will govern your relationship with these third parties. You are responsible for reviewing and agreeing to these terms of use and policies.  If you do not agree with these terms of use or privacy policies you should not use the services offered by such third-party service providers.</p>
-<p>In the future we may collect information, including Personal Information, to enable you to access services provided by our third-party partners and service providers.  You will be subject to the terms of use and privacy policies of these third-party service providers.  You are responsible for reviewing and agreeing to these terms of use and policies.  If you do not agree with these terms of use or privacy policies you should not use the services offered by such third-party service providers.</p>
-<p>When Wave data is viewed in the Wave Apps mobile apps, some data is cached in the memory of the device.   That data is deleted when the related application is closed and does not persist.  If the application is put in the background without closing, the data may remain in the cache. We take no responsibility for any unauthorized viewing of this data by third parties.</p>
-<h4>Storage of Online Banking Credentials</h4>
-<p>You may choose to provide your online banking information, for the purpose of importing transactions into Wave and reducing your manual entry workload. To provide improved security and reliability, Wave employs a respected provider of global online banking solutions. This partner stores account and password information. Wave does not store these. This third party uses Triple DES encryption and secure storage protocols to protect Wave customer data.</p>
-<h3>Accuracy</h3>
-<p>Wave relies on you to ensure that the Personal Information you provide to us while using the Services is as accurate, complete and up-to-date as necessary for the purposes for which it is to be used. You are welcome to make changes, request deletion or corrections to Personal Information at any time by contacting us at the contact information listed below.</p>
-<p>We also make every effort to ensure the accuracy of the information in our reports, displays, articles and support queries. However, you must verify all information created from your use of the Services and we recommend that you consult an accounting professional before completing any government or regulatory filing or otherwise relying upon the information, as the use of this information is at your own risk.</p>
-<p>You are responsible for ensuring that the information you have provided is truthful, accurate, reliable and complete.</p>
-<h3>Safeguards</h3>
-<p>Wave implements industry best practices appropriate to the sensitivity of your Personal Information. We use administrative, technical, and physical safeguards to protect your Personal Information against loss, theft, and unauthorized access, use, disclosure, copying, modification, disposal, or destruction in accordance with applicable legal requirements and industry best practices.</p>
-<p>For example, we implement encryption and security controls to protect against unauthorized access to Personal Information during electronic transmission, and we train our employees to follow privacy and security practices specific to the Services. We also undertake security assessments to ensure that we maintain strong security controls.</p>
-<p>We ensure that any third party acting on our behalf in respect of your Personal Information maintains reasonable and appropriate safeguards. For example, these third parties classify customer account data as "super sensitive". This means that access to such data is strictly limited based on business need and this data cannot be transmitted without the use of approved encryption methods. These third parties also employ both an Intrusion Detection System and an Intrusion Prevention System, and run regular network vulnerability scans. Additional information about our third parties' privacy practices is available upon request.</p>
-<h3>Openness</h3>
-<p>Wave makes clear and transparent notice of its privacy practices publicly available via our Privacy Commitment and this policy. Our notices describe the collection, use, disclosure, and protection of Personal Information and provide the contact information of our privacy contact person.</p>
-<p>Wave will advise you at the first reasonable opportunity upon discovering or being advised of an incident where your personal information is lost, stolen, accessed, used, disclosed, copied, modified or disposed of by unauthorized persons or in an unauthorized manner.</p>
-<h3>Individual Access</h3>
-<p>You own your data which you input using the Wave Apps and can download your own data via the Site at any time. Upon request, Wave will also provide you with a list of the entities (e.g. third-party service providers) to whom Wave has disclosed your Personal Information, and the countries in which our servers are located.</p>
-<h3>Additional Features</h3>
-<p>The Wave Apps may offer publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We take no responsibility for any information which you or your employees, agents, contractors and representatives post or publish on the Wave Apps and you agree to indemnify and hold the Wave Parties harmless for any loss, cost, complaint, damage, claim or liability whatsoever arising from any such post or publication.</p>
-<p>With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at <a href="mailto:privacy@waveapps.com">privacy@waveapps.com</a>.</p>
-<p>You can log in to our site using single sign-on (SSO) services such as Google and Yahoo. These services will allow the third party to authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.</p>
-<p>The blog portion of the Site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
-<p>Some of the functionality of the Services and the Wave Apps interoperate with, and are highly dependent upon, application programming interfaces (APIs) from third parties, such as Google and Yahoo!. We may collect Personal Information from these third party APIs to the extent you authorize us to do so, and our collection, use and disclosure of that Personal Information will be governed by this privacy policy. In addition, if you authorize us to do so, we may grant third parties access to some or all (depending on the permission you give) of your Personal Information to third parties through our own API for use in connection with their services. You have the ability to control what Personal Information you share with these third parties through our API, but please note that any Personal Information you share with third parties through our API will be governed by their privacy policies and we do not assume any responsibility for such third party’s use of your Personal Information once shared through our API. </p>
-<h3>Cookies and Other Tracking Technologies</h3>
-<h4>Third-Party Tracking Technologies &amp; Cookies</h4>
-<p>A cookie is a small text file that is stored on a user's computer for record-keeping purposes. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We and some of our affiliates and third-party service providers use session ID cookies on the Site. We do not link the information we store in cookies to any personal information you submit while on our Site. We use session cookies to make it possible to navigate the secure environment inside our Site. When you log into Wave, your browser may ask if you want it to remember you as a registered user of Wave. If you accept, the session ID becomes a persistent cookie, which expires after two weeks of non-use. You can remove persistent cookies manually by following directions provided in your Internet browser's "help" file. If you refuse cookies, you will not be able to use Wave, since session ID cookies are essential to navigation.</p>
-<p>Our third-party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site.</p>
-<p>Wave may from time to time implement other third-party analytics services that also use cookies.  Wave will ensure that no personal information is included in those cookies. If the use of cookies by any service provider differs materially from the practices already listed, we will revise this document accordingly and notify existing customers of the change(s).</p>
-<h4>Behavioral Targeting/Re-Targeting</h4>
-<p>We partner with a third-party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/">here</a>.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.</p>
-<h4>Device Tokens</h4>
-<p>In order for Wave to communicate with you via the Wave Apps mobile applications which you may choose to install on your mobile device, we save a "device token" on your device.  We use the device token to provide you with notifications relating to the Services. The device token identifies your mobile device to us but cannot be used to identify you. We store the token in encrypted format (256-bit encrypted) and retain it only as long as necessary to provide you with the Services.</p>
-<h3>Agents/Service Providers</h3>
-<p>Wave uses third-party email services providers in order to effectively deliver emails to you. For occasional messages from Wave, we will share only your email address and name (where applicable) with this provider. For the weekly summary of your account information (the "Your week in numbers" email), we will share your email address and name (where applicable) and send via our providers news about your account balances, year-to-date financial overview, overdue invoices and expenses and other select account details. These companies are authorized to use your personal information only as necessary to provide these services to us. To unsubscribe from either or both emails, please see the "Consent" section above.</p>
-<h3>Notification of Privacy Policy Changes</h3>
-<p>We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our website prior to the change becoming effective. We encourage you to periodically review our Privacy Policy for the latest information on our privacy practices.</p>
-<h3>Challenging Compliance</h3>
-<p>Wave's Privacy Officer is responsible for receiving your privacy-related questions. You may send us your privacy-related questions or challenge our compliance with our Privacy Commitment and Privacy Policy by submitting your concern to:</p>
-<address>
-Brian Masson<br>
-Information Security Officer<br>
-235 Carlaw Ave., Suite 601<br>
-Toronto, ON M4M 2S1<br>
-Canada<br>
-Email: <a href="mailto:privacy@waveapps.com">privacy@waveapps.com</a><br>
-Phone: (416) 521-9141 extension 130
-</address>
+    <a href="/terms/" class="btn btn-success btn-success back-button">
+            <i class="icon2-caret-left"></i>
+            General Terms of Service
+    </a>
+<h1>Privacy Policy <small class="updated-label pull-right"><span class="label">Effective as of:</span> December 5, 2014</small></h1>
+<div class="gutter-top gutter-bottom">
+  <div id="c251a108-d4d4-4bb7-b5cd-96ccae6d2eab"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Wave-Accounting-Inc-/asc?rid=c251a108-d4d4-4bb7-b5cd-96ccae6d2eab"></script><a href="//privacy.truste.com/privacy-seal/Wave-Accounting-Inc-/validation?rid=ff49b63c-33e5-4fd6-90b2-14d03539d0d3" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Wave-Accounting-Inc-/seal?rid=ff49b63c-33e5-4fd6-90b2-14d03539d0d3" alt="TRUSTe online privacy certification"></a></div>
+</div>
+<h4>A note from Brian Masson, Wave's Information Security Officer</h4>
+<div class="box box-blue gutter-bottom">
+    <div class="box-content">
+        Hi! Great to see that you care about your privacy! We do, too.
+    </div>
+    <div class="box-content">
+        That's why we worked with privacy consultants and international experts to make sure we've thought through how to best protect you. In an attempt to make this sort of document less painful, we’ve provided a simplified version, just like we did for our Terms of Use <a href="/terms/" target="_blank">Terms of Use</a>.
+    </div>
+    <div class="box-content">
+        Below, on the left: That's the official stuff that you're agreeing to. On the right, you'll see how I'd explain it to my father (hey dad!) if he asked. You can use that as a guide to find and understand the info you want to know about.
+    </div>
+    <div class="box-content">
+        I sincerely hope it helps you better understand this document, what you’re consenting to, and how we operate. Thanks for joining the Wave community!
+    </div>
+</div>
+<table class="table table-bordered">
+    <tbody>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>At Wave Accounting Inc. ("Wave"), we value your trust and respect your privacy.</p>
+                <p>Wave strives to support small business owners like you by offering a fast and easy way to manage your money, while respecting your privacy expectations and protecting your Personal Information.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>Wave is serious about protecting you and your data.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>By "Personal Information", we mean information about an identifiable individual such as a person's name, email address, residential address, telephone number, and in some cases, more sensitive information such as but not limited to gender, demographic information, family status, investment particulars, consumption preferences, business expenditures, credit score, accounting data, social security or social insurance numbers, bank account information, and payment card information. If you or your employer use our payroll service, Personal Information may include employment status, names, addresses, bank account data, hours worked, hire date, marital status, rates of pay and taxes paid and payable about you, your employees, agents, contractors and representatives.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>The long list of things we define as personal information — the things this policy is designed to protect.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>To demonstrate our commitment to protecting your privacy, we have developed this Privacy Policy, which describes how we will collect, use, disclose, retain and protect Personal Information in order to provide you with our online accounting, payroll, payment and invoicing services and other small business–related services (collectively, the "Services") offered and maintained by us and our affiliates from time to time. Our Privacy Policy is based on applicable privacy legislation as well as 10 internationally recognized privacy principles.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>This policy sets out the rules of what we do with your data, and we didn’t just make it up. It’s based on actual laws and international standards and principles.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Wave has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at:</p>
+                <address>
+                    Wave Accounting Inc.<br>
+                    235 Carlaw Ave., Suite 601<br>
+                    Toronto, ON M4M 2S1<br>
+                    Canada<br>
+                    <a href="mailto:info@waveapps.com">info@waveapps.com</a><br>
+                    (416) 521-9141<br>
+                    Attention: Privacy Officer<br>
+                </address>
+            </td>
+            <td class="simple simple-label">
+                <p>TRUSTe is an independent third party, whose goal is to drive trust between consumers and organizations. They’ve reviewed and approved our policy and practices, and they give us the thumbs up. You can contact me if you have any questions.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>If you are not satisfied with our response you can contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">here</a>. The TRUSTe program covers only information that is collected through the Wave Apps Site (waveapps.com, waveaccounting.com and wavepayroll.com), and does not cover information that may be collected through software downloaded from the Wave Apps Site or from any third-party sites.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>If you’re not satisfied with our responses, you can contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">here</a> to escalate the issue.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>For the purposes of this Privacy Policy, the term "Site" means these websites (waveapps.com, waveaccounting.com and wavepayroll.com), all related webpages, and all related websites operated by affiliates or divisions of Wave, but does not include any third-party websites which are linked to or may link from this website whether or not such third-party websites are used in connection with the Services. "Wave Apps" means the Site and all mobile applications and other applications which provide access to the Services offered by Wave and its affiliates from time to time.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>“Site” refers only to Wave-owned web properties and not any third-party sites. Wave Apps are our web, mobile and any other applications that provide access to our services.</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <h3>Wave Privacy Policy</h3>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Accountability</p>
+                <p>Wave has designated a Privacy Officer who is responsible for the creation, oversight and implementation of our Privacy Policy and procedures to protect Personal Information, for receiving your privacy-related questions, and for providing you with information about our privacy practices. Our Privacy Officer is also responsible for notifying you of any material changes to our privacy practices, by posting updated information on our Site.</p>
+                <p>You can contact our Privacy Officer:</p>
+                <address>
+                    Brian Masson<br>
+                    Information Security Officer<br>
+                    235 Carlaw Ave., Suite 601<br>
+                    Toronto, ON M4M 2S1<br>
+                    Canada<br>
+                    <a href="mailto:privacy@waveapps.com">privacy@waveapps.com</a><br>
+                    Phone: (416) 521-9141 extension 130<br>
+                    Attention: Privacy Officer<br>
+                </address>
+            </td>
+            <td class="simple simple-label">
+                <p>Accountability: That’s me!  I’ll be the one making the changes, notifying you, and answering your questions.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Identifying Purposes</p>
+                <p>Wave collects, uses, and discloses Personal Information only for the purposes of providing you with our Services and for such other ancillary purposes consented to by you as a user of the Wave Apps.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>We’ll only use your info to provide the services we’ve defined in our Terms of Use or in other ways that you’ve explicitly consented to.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Personal Information</p>
+                <p>More specifically, Wave collects, uses and discloses information (which may include Personal Information) for the following purposes:</p>
+                <p>To provide you with our Services. For example, in order to allow us to retrieve banking information for use within the Wave Apps, we collect your or your business' online banking credentials (i.e. account number, username and password; see Storage of Online Banking Credentials, below, for details) if you choose to provide them.</p>
+                <p>To promote or offer you products, services and offers (including new and other Services which are offered by us, our sponsors and partners) that may be relevant to you and your business. When you are using our Services you may be provided with relevant savings opportunities and related links based on information related to your use of the Services. Wave will use your Personal Information for the purpose of tailoring savings opportunities to your interests. However, we will never share your Personal Information with companies offering the savings opportunities. We only provide these companies with nonidentifiable, aggregate information (e.g. the number of times one of their savings opportunities was clicked).</p>
+                <p>To contact you for the purposes of product information, service updates, notifications relating to the Services, newsletters and tailored savings opportunity messages. Wave will never sell your contact details to a third party.</p>
+                <p>To monitor system usage, server and software performance, to improve system design, to create benchmarks and to conduct trending analyses.</p>
+                <p>To assist you with technical support issues. It is important to remember that most technical issues can be resolved without a Wave customer service representative viewing your Personal Information.</p>
+                <p>To comply with any laws, regulation, court orders, subpoenas or other legal process or investigation and to protect ourselves and other individuals from harm.</p>
+                <p>To assist in due diligence relating to any corporate action such as a financing,merger, amalgamation, sale or divestiture, provided that reasonable safeguards are taken to protect the confidentiality of Personal Information in our possession.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>We collect your information to better provide our services to you.  These services include things like:</p>
+                <ul>
+                    <li>hooking up to your bank</li>
+                    <li>promoting products and offers that may be relevant to your business (but only based on aggregate, nonidentifiable data)</li>
+                    <li>providing tech support</li>
+                    <li>monitoring our systems</li>
+                    <li>compliance with the law</li>
+                </ul>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Consent</p>
+                <p>Wave takes a consent-based approach to the collection, use and disclosure of Personal Information. We collect Personal Information directly from you and only obtain Personal Information from other organizations (e.g., your bank or other third-party service providers) when you provide us with the account numbers, passwords or other credentials required to retrieve the Personal Information and for the purpose of providing you with our Services. We use and disclose the Personal Information only as described in this policy and our Terms of Use.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>We collect your personal information from you.  If you want us to gather information from other sources (your bank), you’ll need to provide credentials. We only use this data in ways we describe here and in our <a href="/terms/" target="_blank">Terms of Use</a></p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>At any time and without penalty, Wave users can withdraw their consent and close their Wave account by taking the following actions:</p>
+                <p>If you are a Payroll by Wave user, place your payroll account on hold. Open the "Your Profile" page within our application.</p>
+                <p>At the bottom of the "Your Profile" page, click the "Close this Account" button and then confirm by clicking "Yes, close my account."</p>
+                <p>You will be sent an email for confirmation that the account is being closed by the rightful account holder. Click the link in the email.</p>
+                <p>In the web page that opens, click "Yes, please close my account" to complete your account closure.</p>
+                <p>Once your account is closed, we will take the following actions:</p>
+                <p>For users of all Wave products except Payroll:</p>
+                <p>All Personal Information relating to your account will be deleted from our databases. However, anonymous transactional data (which does not personally identify you or any of your employees, agents, contractors and representatives) will be retained in our database.</p>
+                <p>For users of Wave's Payroll product:</p>
+                <p>In order to support our Payroll Guarantee, account information related to Payroll will be retained for a period of 7 years after the date of the most recent payroll you ran.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>You can close your account whenever you want by following the steps on the left — we’ll miss you, but we won’t hold it against you, and there’s no penalty.</p>
+                <p>When you confirm the closure, we’ll delete your personal information — except for payroll users. We need to keep payroll information based on IRS/CRA rules.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese ">
+                <p>At any time, Wave users can opt-out of most email communication from us by clicking on the unsubscribe link at the bottom of our emails, or via the "Email Preferences" section of the "Your Profile" page, accessible via the “Account” menu. Users of Wave's Payroll product wishing to opt-out of payroll emails must do so in the "Notifications" section of the payroll settings page. However, we may still contact you for administrative purposes (e.g. if we need to notify you of a change to our service, changes to our terms of use or privacy policy, there is a problem with your account or an anticipated service interruption, etc.).</p>
+                <p>Withdrawing your consent will not apply to actions Wave has already taken based on your prior consent.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>You can opt-out of our emails on the email preferences page. This won’t affect emails we’ve already sent you.</p>
+                <p>The only exception: We may still send you critical email messages even if you opt out from other messages. (But we won’t abuse this.)</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>In order to use certain Services, such as Wave Payroll, you may be required to provide personal information relating to yourself and your employees, agents, contractors and representatives from time to time. You acknowledge, and represent to us that you only collect, use and disclose personal information in compliance with applicable privacy laws. You further represent and warrant to us that you have obtained all required consents (including, if you use Wave Payroll, consents relating to making deposits to and debits from your employees' bank accounts) from your employees, agents, contractors and representatives whose personal information will be disclosed to us or to our third-party service providers in connection with the Services. You further agree to indemnify and hold Wave, its affiliates, subsidiaries, partners, service providers, suppliers and contractors and each of their respective officers, directors, agents, and employees (collectively, the "Wave Parties"), harmless for any loss, cost, complaint, damage, claim or liability whatsoever arising from your collection, use and disclosure of personal information relating to your employees, agents, contractors and representatives.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>To use some services, like payroll, you’ll need to provide information about other people. Only do this if you’re legally allowed to. If problems come up around your collection and use of this data, that’s on you.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Limiting Collection</p>
+                <p>Wave limits the collection of Personal Information by collecting only the information required to fulfill the identified purposes. We will collect only the minimum amount of information required to facilitate the Services. However, we provide you with the option of sharing additional information (e.g. your name or address) to enhance your use of the Services.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>We only collect the personal information we need to provide our services. You can give us more info to improve your Wave experience, though.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Wave does not knowingly or intentionally collect Personal Information from visitors who are under the age of thirteen (13).</p>
+            </td>
+            <td class="simple simple-label">
+                <p>Sorry, but no kids allowed!</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>You may in connection with some but not all of our Services have the ability to allow others (Guest Collaborators) access to your account. If you choose to allow others access to your account, you will need to provide the individual's name and email address. We will automatically send your guest a one-time email inviting him or her to visit the Site. Wave stores this information for the sole purpose of sending this one-time email and tracking Site usage. The individual may contact us at <a href="mailto:privacy@waveapps.com">privacy@waveapps.com</a> to request that we remove this information from our database. A Guest Collaborator who accepts the collaboration invitation will be subject to and must agree to the same terms as a regular Wave customer. Note that by providing Guest Collaborators access to your account, you will also be providing the Guest Collaborator access to any Personal Information in your account. While the Guest Collaborator must agree to our terms of use, we take no responsibility for any collection, use or disclosure of your Personal Information by your Guest Collaborator. It is your responsibility to ensure that your Guest Collaborator complies with privacy standards that are no less stringent than our own.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>Collaborator invitations require that you provide us with some information about your guest. If they decide that they don’t want us to have that information, they can email me (<a href="mailto:privacy@waveapps.com">privacy@waveapps.com</a>) and we’ll remove it. If they do want to be a collaborator, they need to play by the same rules you do (our <a href="/terms/" target="_blank">Terms of Use</a>).</p>
+                <p>You’ll be providing them access to your information, so make sure they’re safe with it: We aren’t responsible if they misuse that info.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>When you use certain Services, you have the option to share information with other accounts you have signed up for. You may choose from time to time to connect Wave with other third-party service providers in order to utilize these services in conjunction with the Wave Apps. Purposes may include saving copies of records, importing data from external sources, communications with third parties, and conducting payment and direct deposit functions, among others. In such instances, your account and password credentials and other required information in respect of such third-party service may be stored by Wave for the purpose of providing this service.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>In order to connect with certain third-party services, you may have to provide us your credentials. In some cases we may need to store these in order to continue providing that connection.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Limiting Use, Disclosure and Retention Wave will not use or disclose Personal Information for purposes other than the identified purposes of the Services or such other purposes which we identify from time to time.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>We won’t use, share, or store your information in ways you aren’t made aware of.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>We also ensure that only those employees responsible for the Services' operations have physical or technical access to Personal Information and only where such access is required to perform work authorized by their supervisors.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>We’ll make sure nobody at Wave can see your personal info unless they need it to do their job.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Wave will retain Personal Information only for the duration of your enrollment as a Wave user or to support the Wave Payroll Guarantee, and Personal Information will be retained in access-secured databases. If you choose to withdraw from the Services, we will securely destroy your Personal Information in our possession and control within 45 days unless we are required to retain such Personal Information longer to fulfill our obligations to you or to third parties. However, we may retain non-personal information indefinitely.</p><p>
+                </p><p>Payroll data will be retained for a period of five years from the date of employer's most recent payroll processing in order to comply with government regulations regarding retention of payroll data. Payroll data includes but is not limited to (a) employer name, address, tax rates, exempt status and (b) employee name, address, bank account information, SSN or SIN, rate of pay, hire date, birth date, filing status, allowances, benefits and deductions and (c) gross pay, taxes, deductions and net pay for every payroll processed.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>We’ll only keep your data while you’re a Wave user. We’ll keep it secure. We’ll delete the data that can be tied back to you within 45 days of you closing your account. This doesn’t include data that can’t identify you, and doesn’t include payroll data due to IRS/CRA requirements.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>We retain all Personal Information provided by you or your bank on secure servers, as do our third-party partners and service providers. This data will be subject to the laws of the relevant jurisdictions. Our third-party service providers, including financial institutions, have their own terms of use and privacy policies that will govern your relationship with these third parties. You are responsible for reviewing and agreeing to these terms of use and policies. If you do not agree with these terms of use or privacy policies you should not use the services offered by such third-party service providers.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>We keep our data secure and so do our partners and providers. If you want to use any of our third-party service providers, you’re responsible for reading their terms and privacy policies.</p>
+                <p>For example, you can connect a service called Shoeboxed to Wave. If you do that, you are entering into a separate agreement with Shoeboxed, and you will be subject to the terms they give you.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>In the future we may collect information, including Personal Information, to enable you to access services provided by our third-party partners and service providers. You will be subject to the terms of use and privacy policies of these third-party service providers. You are responsible for reviewing and agreeing to these terms of use and policies. If you do not agree with these terms of use or privacy policies you should not use the services offered by such third-party service providers.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>We might collect some information to enable the use of third-party providers. Again, if you want to give us that information and use those services, read their terms and policies and make sure you agree with them before use.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>When Wave data is viewed in the Wave Apps mobile apps, some data is cached in the memory of the device. That data is deleted when the related application is closed and does not persist. If the application is put in the background without closing, the data may remain in the cache. We take no responsibility for any unauthorized viewing of this data by third parties.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>When you use our mobile app(s), we store some data in memory on your mobile device. If you don’t close the app when you’re done, some of that information may still be in memory and could be viewed by others. We can’t take responsibility for this, so be sure to close your apps when you’re done.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Storage of Online Banking Credentials</p>
+                <p>You may choose to provide your online banking information, for the purpose of importing transactions into Wave and reducing your manual entry workload. To provide improved security and reliability, Wave employs a respected provider of global online banking solutions. This partner stores account and password information. Wave does not store these. This third party uses Triple DES encryption and secure storage protocols to protect Wave customer data.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>If you want to connect your bank, you’ll need to provide some credentials. To make sure this is safe, we’re relying on a third party provider. They store account and password information securely, they encrypt it, and Wave never sees it.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Accuracy</p>
+                <p>Wave relies on you to ensure that the Personal Information you provide to us while using the Services is as accurate, complete and up-to-date as necessary for the purposes for which it is to be used. You are welcome to make changes, request deletion or corrections to Personal Information at any time by contacting us at the contact information listed below.</p>
+                <p>We also make every effort to ensure the accuracy of the information in our reports, displays, articles and support queries. However, you must verify all information created from your use of the Services and we recommend that you consult an accounting professional before completing any government or regulatory filing or otherwise relying upon the information, as the use of this information is at your own risk.</p>
+                <p>You are responsible for ensuring that the information you have provided is truthful, accurate, reliable and complete.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>When you give us your personal information, we rely on you for accuracy.  You can contact us to update or delete it.  Whenever we use this information — for reports, display, filings, etc — we’ll do our best to make sure it’s accurate.  Before using this information for anything official, we recommend you consult an accounting professional.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Safeguards</p>
+                <p>Wave implements industry best practices appropriate to the sensitivity of your Personal Information. We use administrative, technical, and physical safeguards to protect your Personal Information against loss, theft, and unauthorized access, use, disclosure, copying, modification, disposal, or destruction in accordance with applicable legal requirements and industry best practices.</p>
+                <p>For example, we implement encryption and security controls to protect against unauthorized access to Personal Information during electronic transmission, and we train our employees to follow privacy and security practices specific to the Services. We also undertake security assessments to ensure that we maintain strong security controls.</p>
+                <p>We ensure that any third party acting on our behalf in respect of your Personal Information maintains reasonable and appropriate safeguards. For example, these third parties classify customer account data as "super sensitive". This means that access to such data is strictly limited based on business need and this data cannot be transmitted without the use of approved encryption methods. These third parties also employ both an Intrusion Detection System and an Intrusion Prevention System, and run regular network vulnerability scans. Additional information about our third parties' privacy practices is available upon request.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>We use industry best practices, both technical (like encryption) and physical (like secure, locked-up server facilities), to protect your data, its storage, transmission, and disposal. Any third parties acting on our behalf also do what’s necessary to protect any data they receive. We’ll give you more details if you request them.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Openness</p>
+                <p>Wave makes clear and transparent notice of its privacy practices publicly available via our Privacy Commitment and this policy. Our notices describe the collection, use, disclosure, and protection of Personal Information and provide the contact information of our privacy contact person.</p>
+                <p>Wave will advise you at the first reasonable opportunity upon discovering or being advised of an incident where your personal information is lost, stolen, accessed, used, disclosed, copied, modified or disposed of by unauthorized persons or in an unauthorized manner.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>We’re very clear about our stance on privacy and we’ll let you know ASAP of any unauthorized incidents involving your data.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Individual Access</p>
+                <p>You own your data which you input using the Wave Apps and can download your own data via the Site at any time. Upon request, Wave will also provide you with a list of the entities (e.g. third-party service providers) to whom Wave has disclosed your Personal Information, and the countries in which our servers are located.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>Your data is yours. You can download it from the site and if you ask we’ll let you know which other places your data has gone.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Additional Features</p>
+                <p>The Wave Apps may offer publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We take no responsibility for any information which you or your employees, agents, contractors and representatives post or publish on the Wave Apps and you agree to indemnify and hold the Wave Parties harmless for any loss, cost, complaint, damage, claim or liability whatsoever arising from any such post or publication.</p>
+                <p>With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at <a href="mailto:privacy@waveapps.com">privacy@waveapps.com</a>.</p>
+                <p>You can log in to our site using single sign-on (SSO) services such as Google and Yahoo. These services will allow the third party to authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.</p>
+                <p>The blog portion of the Site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+                <p>Some of the functionality of the Services and the Wave Apps interoperate with, and are highly dependent upon, application programming interfaces (APIs) from third parties, such as Google and Yahoo!. We may collect Personal Information from these third party APIs to the extent you authorize us to do so, and our collection, use and disclosure of that Personal Information will be governed by this privacy policy. In addition, if you authorize us to do so, we may grant third parties access to some or all (depending on the permission you give) of your Personal Information to third parties through our own API for use in connection with their services. You have the ability to control what Personal Information you share with these third parties through our API, but please note that any Personal Information you share with third parties through our API will be governed by their privacy policies and we do not assume any responsibility for such third party’s use of your Personal Information once shared through our API.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>The blogs and forums are open, and only moderated in a limited way. Anything you post there can be seen by others, and we’re not responsible for the things people post.</p>
+                <p>If you give us consent, we might use one of your quotes for a testimonial — and if you want that removed, let us know.</p>
+                <p>If you use Google or Yahoo to sign in via SSO, those services will let us see your name and email.</p>
+                <p>Our blog has some social media features (Facebook Like, etc) which, if you use them, may collect your IP, set a cookie, etc. The companies providing these tools have their own rules and policies which apply to the use of these features.</p> 
+                <p>People may use our interfaces to write programs to interact with Wave. Wave may write programs to interact with third-party interfaces.  These can be used to collect and share data, but only if you authorize it. If you authorize the sharing of data, the use of that data will be governed by the rules and policies of the third party you’re sharing it with.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Cookies and Other Tracking Technologies</p>
+                <p>Third-Party Tracking Technologies &amp; Cookies</p>
+                <p>A cookie is a small text file that is stored on a user's computer for record-keeping purposes. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We and some of our affiliates and third-party service providers use session ID cookies on the Site. We do not link the information we store in cookies to any personal information you submit while on our Site. We use session cookies to make it possible to navigate the secure environment inside our Site. When you log into Wave, your browser may ask if you want it to remember you as a registered user of Wave. If you accept, the session ID becomes a persistent cookie, which expires after two weeks of non-use. You can remove persistent cookies manually by following directions provided in your Internet browser's "help" file. If you refuse cookies, you will not be able to use Wave, since session ID cookies are essential to navigation.</p>
+                <p>Our third-party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site.</p>
+                <p>Wave may from time to time implement other third-party analytics services that also use cookies. Wave will ensure that no personal information is included in those cookies. If the use of cookies by any service provider differs materially from the practices already listed, we will revise this document accordingly and notify existing customers of the change(s).</p>
+            </td>
+            <td class="simple simple-label">
+                <p>We use cookies (the computer kind, not the tasty kind) and they may stay on your computer unless you clean them out. We use them to track things like your login session and some of our partners do the same. We don’t link these cookies to any personal information.</p>
+                <p>Some of our partners use small/clear images (tracking pixels) and some scripts to help manage content.  Similarly we might use these things for analytics (to help us better understand how people use our site).</p>
+                <p>If we or our partner change cookie behaviour, we’ll let you know.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Behavioral Targeting/Re-Targeting</p>
+                <p>We partner with a third-party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences.truste.com" target="_blank">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>Our ad partner uses a variety of web tools to collect non-personal information about your online activities, in order to display targeted ads. You can opt out of targeted ads, but you’ll still see ads - if you want to do this, click the link over to the left.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Device Tokens</p>
+                <p>In order for Wave to communicate with you via the Wave Apps mobile applications which you may choose to install on your mobile device, we save a "device token" on your device. We use the device token to provide you with notifications relating to the Services. The device token identifies your mobile device to us but cannot be used to identify you. We store the token in encrypted format (256-bit encrypted) and retain it only as long as necessary to provide you with the Services.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>To enable our servers to talk to our mobile apps, we save an identifier on your device. We use this for notifications and can uniquely identify your device, but not you. This token is encrypted while it is stored and only kept as long as necessary to offer you our services.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Agents/Service Providers</p>
+                <p>Wave uses third-party email services providers in order to provide certain services to Wave to help us run our operations, including, without limitation, for purposes of delivering emails to you. If required, we will disclose your personal information to these service providers to the extent required by us to receive these services. For instance: (i) for occasional messages from Wave, we will share only your email address and name (where applicable) with a service provider; and (ii) for the weekly summary of your account information (the "Your week in numbers" email), we will share your email address and name (where applicable) and send via our providers news about your account balances, year-to-date financial overview, overdue invoices and expenses and other select account details. For other service providers, we will provide such additional information as may be required for us to receive the services; however, these companies are authorized to use your personal information only as necessary to provide these services to us. To unsubscribe from either or both emails, please see the "Consent" section above.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>We send our emails through third-party providers.  For the occasional messages we send, we share your email and sometimes your name — otherwise they wouldn’t know where to deliver the message!  For our weekly email, we do the above but also include some of your account information to provide the summary you see.  These email providers can only use your information for the purposes of sending these emails.</p>
+                <p>For other service providers, the same thing goes: We’ll share what’s necessary for the service to function, and only permit the info to be used for that service.</p>
+                <p>You can unsubscribe if you want: See the ‘Consent’ section above.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Notification of Privacy Policy Changes</p>
+                <p>We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our website prior to the change becoming effective. We encourage you to periodically review our Privacy Policy for the latest information on our privacy practices.</p>
+            </td>
+            <td class="simple simple-label">
+                <p>If we change what we do, we’ll update this policy to reflect that.  If we make any serious changes, we’ll notify you by email or a notice on the website before the changes are in effect. We recommend you read through this every once in a while for the latest information on how we deal with privacy.</p>
+            </td>
+        </tr>
+        <tr class="term-item">
+            <td class="legalese">
+                <p>Challenging Compliance</p>
+                <p>Wave's Privacy Officer is responsible for receiving your privacy-related questions. You may send us your privacy-related questions or challenge our compliance with our Privacy Commitment and Privacy Policy by submitting your concern to:</p>
+                <address>
+                    Brian Masson<br>
+                    Information Security Officer<br>
+                    235 Carlaw Ave., Suite 601<br>
+                    Toronto, ON M4M 2S1<br>
+                    Canada<br>
+                    Email: <a href="mailto:privacy@waveapps.com">privacy@waveapps.com</a><br>
+                    Phone: (416) 521-9141 extension 130<br>
+                </address>
+            </td>
+            <td class="simple simple-label">
+                <p>We have someone dedicated to answering your privacy questions (me) and to respond to you if you think we’re not doing the things we say we do.</p> 
+                <p>My contact information is available over in the left column.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
         </div>
     </div>
-<script type="text/javascript" language="JavaScript">
-/*
-<![CDATA[
-*/
-(function(profile) {
-  try {
-    var chip = String(profile["chip_key"]);
-    if (document.getElementById(chip) != null) return;
-    var proto = "http:";
-    var host = "cdn.adgear.com";
-    var bucket = "a";
-    var randomnum = String(Math.floor(Math.random()*100000000));
-    if (window.location.protocol == "https:") {
-      proto = "https:";
-      host = "a.adgear.com";
-      bucket = "";
-    }
-    var iframe = document.createElement("iframe");
-    iframe.name = chip;
-    iframe.id = chip;
-    iframe.style.visibility = "hidden";
-    iframe.style.width = "1px";
-    iframe.style.height = "1px";
-    document.getElementsByTagName("body")[0].appendChild(iframe);
-    window.frames[chip].location.replace(proto + "//" + host + "/" +
-        bucket + "/data/" + String(profile["id"]) + ".html?AG_R=" +
-        randomnum);
-  } catch(e) {};
-})({ "id": "153", "chip_key": "bea8f4208fb9012e4a480024e87a30c2" });
-/*
-]]>
-*/
-</script><iframe name="bea8f4208fb9012e4a480024e87a30c2" id="bea8f4208fb9012e4a480024e87a30c2" style="visibility: hidden; width: 1px; height: 1px;"></iframe>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","queueTime":0,"licenseKey":"5ea45fcc5b","agent":"js-agent.newrelic.com/nr-476.min.js","transactionName":"ZVVQYxdUWBJZAUFZDFwfdEILVkIIVwwaVAlTXlVYS0NfBE8RG1cGXFVAXgYbVABLBw9gEVtGU1QcZVkNUQFMZgpXRxxQAEE=","applicationID":"1752517","errorBeacon":"bam.nr-data.net","applicationTime":59}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"5ea45fcc5b","agent":"js-agent.newrelic.com/nr-593.min.js","transactionName":"ZVVQYxdUWBJZAUFZDFwfdEILVkIIVwwaVAlTXlVYS0NfBE8RG1cGXFVAXgYbVABLBw9gEVtGU1QcZVkNUQFMZgpXRxxQAEE=","applicationID":"1752517","errorBeacon":"bam.nr-data.net","applicationTime":73}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
