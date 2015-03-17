@@ -1,42 +1,78 @@
-> *The following text is extracted and transformed from the myemail.com privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618051237id_/http%3A//www.myinternet.com/english/privacy.zpml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myemail.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317171008id_/http%3A//www.myemail.com/privacy.htm) for the most accurate reproduction.*
 
-# MYINTERNET.COM: PREMIER DOMAIN NAME SERVICES
+# Check Email from Anywhere in the World for Free.
 
-**PRIVACY STATEMENT**
+**What information do we collect?**
 
-_myinternet.com_ has adopted this Privacy Statement as an expression of our commitment to fair electronic information practices. 
+We collect information from you when you register on our site or fill out a form. 
 
-**Your Personal Information**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-When you sign up for membership at _myinternet.com_ , we require the personal information listed in our application found at http://www. _myinternet.com_ /english/signup.zpml. When you subscribe, you agree to provide and maintain accurate and complete information. The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-If the information you have provided us requires modification, you can make changes at any time by contacting us via email at [support@myinternet.com](mailto:support@myinternet.com). 
+ **What do we use your information for?**
 
-**Who Has Access?**
+Any of the information we collect from you may be used in one of the following ways: 
 
-The employees, agents and business partners of _myinternet.com_ are independently responsible for ensuring compliance with our Privacy Statement. Only those employees who have a legitimate business purpose for accessing and handling your personal information are given authorization to do so. Our information management systems are designed in such a way as to block employees from accessing information without authority. 
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-**How We Use It**
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-_myinternet.com_ uses your personal information to accurately track and administer your account. We also use this information to provide you with important notices and to generally keep in touch with you about new product or service offerings or the offerings of our business partners. 
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-**Sharing Domain Information**
+; To send periodic emails
 
-_myinternet.com_ may disclose personal information about you if required to do so by law or other regulatory authority. 
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-**Your Privacy Concerns**
+ **Do we use cookies?**
 
-If you feel that _myinternet.com_ has violated our Privacy Statement in any way, contact us via email at [support@myinternet.com](mailto:support@myinternet.com). 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-Legal contact: 
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-            Traci S. Umberger, Esq.  
-            General Counsel  
-            10900 NE 4th Street, Suite 1630  
-            Bellevue, WA 98004  
-            [legal@ _myinternet.com_ ](mailto:legal@myinternet.com)  
+ **Do we disclose any information to outside parties?**
 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating ou r website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-* * *
+ **Third party links**
 
-© _myinternet.com._ 1998-2000. All Rights Reserved.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.myemail.com/policies.htm>
+
+**Your Consent**
+
+By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on April 10, 2014.
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://myemail.com  
+325 Hampton Hill Drive  
+Williamsville, NY 14221  
+USA  
+support@myemail.com
