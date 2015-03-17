@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ethnicdukaan.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828193359id_/https%3A//www.ethnicdukaan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethnicdukaan.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317202315id_/https%3A//www.ethnicdukaan.com/privacy-policy) for the most accurate reproduction.*
 
-# Ethnic Dukaan
+# Online Shopping- Indian Ethnic Fashion for Women, Clothing, Handbag, Jewelry | Ethnicdukaan.com
 
 We are Ethnicdukaan.com, a service provided by Aashirvad Group from Kolkata, West Bengal, India. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the site.
 
