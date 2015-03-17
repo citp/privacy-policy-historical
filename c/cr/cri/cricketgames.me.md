@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketgames.me privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119045333id_/http%3A//www.cricketgames.me/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketgames.me privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317042258id_/http%3A//www.cricketgames.me/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cricket Games
 
