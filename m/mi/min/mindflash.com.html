@@ -1,81 +1,525 @@
-<!--The following is the downloaded HTML source of the mindflash.com privacy policy that was archived on 2014-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140921031857id_/http%3A//www.mindflash.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindflash.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317212421id_/https%3A//www.mindflash.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 
 <meta name="viewport" content="initial-scale=1.0">
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W66G3G"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-    //<![CDATA[
 
-    function readCookie(name) {
-        var nameEQ = name + "=";
-        var ca = document.cookie.split(';');
-        for (var i = 0; i < ca.length; i++) {
-            var c = ca[i];
-            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
-        }
-        return null;
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W66G3G"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+
+var MF = function() {
+	function main(window, domain) {
+		var doc = window.document;
+		domain = domain || 'mindflash.com';
+
+		function startGAUniversalTracker() {
+			window.ga_debug = {trace: true};
+
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,doc,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create',
+				'UA-5857047-1',
+				'.'+domain,
+				 {
+					'allowLinker': true,
+					'allowHash': false,
+					'alwaysSendReferrer': true,
+					'legacyCookieDomain': domain
+				 });
+			ga('require', 'linkid', 'linkid.js');
+			ga(function() {
+				saveOriginalReferrer();
+
+				function track(err, attribution) {
+					trackPageView(attribution);
+				}
+
+				analyze(
+					function(err, res) {
+						if(err) {
+							track(err);
+							return;
+						}
+
+						if(doc.referrer && weAreNotReferringToOurselves()) {
+							bakeCookies(res, track);
+						} else {
+							track(null, res);
+						}
+				});
+			});
+		}
+
+		function weAreNotReferringToOurselves() {
+			return !contains(doc.referrer, 'www.' + domain) &&
+    				 !contains(doc.referrer, domain);
     }
 
-    //Begin code from Joe at Blast
-    function _uGC(l,n,s) {
-        if (!l || l=="" || !n || n=="" || !s || s=="") return "";
-        var i,i2,i3,c="-";
-        i=l.indexOf(n);
-        i3=n.indexOf("=")+1;
-        if (i > -1) {
-            i2=l.indexOf(s,i); if (i2 < 0) { i2=l.length; }
-            c=l.substring((i+i3),i2);
-        }
-        if (c == '-')
-            return '';
-        else
-            return c;
-    }
+		function saveOriginalReferrer() {
+			// save original referrer
+			if(!docCookies.hasItem('REFERRER')) {
+				var stats = getAttributionInfo();
+				store('REFERRER', stats.referrer || '');
+			}
+		}
 
-    function getGAReferrerData() {
-        var gaZ = _uGC(document.cookie, '__utmz=',';');
-        var gaS = _uGC(gaZ,'utmcsr=','|');
-        var gaM = _uGC(gaZ,'utmcmd=','|');
-        var gaT = _uGC(gaZ,'utmctr=','|');
-        var gaC = _uGC(gaZ,'utmcct=','|');
-        var gaP = _uGC(gaZ,'utmccn=','|');
-        var gaG = _uGC(gaZ,'utmgclid=','|');
-        if (gaG != '')
-        {
-            gaS = 'google';
-            gaM = 'cpc';
-        }
-        //source!medium!campaign!term!content
-        var rD = gaS + '!' + gaM + '!' + gaP + '!' + gaT + '!' + gaC;
-        rD = rD.replace('%20','-');
-        rD = rD.replace(/[^a-zA-Z0-9-~!*_.]/g,'');
-        rD = rD.substr(0,62);
-        return rD;
-    }
+		// get the referral data depending on which GA they hit originally
+ 		function analyze(cb) {
+			if(cb) {
+				if(visitorHasOldGACookie())
+					cb(null, getGAReferrerDataClassic());
+				else {
+					cb(null, getAttributionInfo());
+				}
+			}
+		}
 
-    function checkIfNewGASession() {
-        if (_uGC(document.cookie, '__utmc=',';') == "" || _uGC(document.cookie, '__utmb=',';') == "") {
-            return true;
-        } else {
-            return false;
-        }
-    }
-    //End code from Joe at Blast
+		function bakeCookies(ingredients, cb) {
+			store('SOURCE', ingredients.source || '');
+			store('MEDIUM', ingredients.medium || '');
+			store('CAMPAIGN',ingredients.campaign || '');
+			store('KEYWORD',ingredients.keyword || '');
+			store('CONTENT',ingredients.content || '');
+			store('LANDINGPAGE', ingredients.landingPage || '');
+			store('REFERRERURL', ingredients.originalDocReferrer || '');
 
-    var _gaq = _gaq || [];
-	var pluginUrl =
-		'//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-	_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-    _gaq.push(['_setAccount', 'UA-5857047-1']);
-    _gaq.push(['_setAllowLinker', true]);
-    _gaq.push(['_setDomainName', '.mindflash.com']);
-    _gaq.push(['_setAllowHash', false]);
-    _gaq.push(['_setCampMediumKey','utm_medium']);
-    _gaq.push(['_setCampNameKey','utm_campaign']);
+			cb(null, ingredients);
+		}
 
+		function trackPageView(res) {
+			if(res && res.referrer)
+				ga('set','dimension2', res.referrer);	// set Original Referrer in GA correctly
+
+			ga('send', 'pageview');
+		}
+
+		function getAttributionInfo() {
+			var utmParams = docCookies.getItem('CUR') || doc.location.search;
+			var gaStats = {
+				source: _uGC(utmParams,'utm_source=','&') || '',
+				medium: _uGC(utmParams,'utm_medium=','&') || '',
+				campaign: _uGC(utmParams,'utm_campaign=','&') || '',
+				keyword: _uGC(utmParams,'utm_term=','&') || '',
+				content: _uGC(utmParams,'utm_content=','&') || ''
+			};
+
+			// can we have utm_parameters alone? without source?
+			if(gaStats.source == '') {
+
+				if(doc.referrer.length > 0)
+				{
+					var uri = parseUri(doc.referrer);
+
+					if(contains(uri.host, "google"))
+					{
+						// track as google organic
+						gaStats.source = 'google';
+						gaStats.medium = 'organic';
+						gaStats.campaign = 'organic';
+					}
+					else if(contains(uri.host, "yahoo"))
+					{
+						// track as yahoo organic
+						gaStats.source = 'yahoo';
+						gaStats.medium = 'organic';
+						gaStats.campaign = 'organic';
+					}
+					else if(contains(uri.host, "bing"))
+					{
+						// track as bing organic
+						gaStats.source = 'bing';
+						gaStats.medium = 'organic';
+						gaStats.campaign = 'organic';
+						gaStats.keyword = _uGC(uri.query,'q=','&');
+					}
+					else if(contains(uri.host, "aol")){
+						// track as aol organic
+						gaStats.source = 'aol';
+						gaStats.medium = 'organic';
+						gaStats.campaign = 'organic';
+						gaStats.keyword = _uGC(uri.query,'query=','&');
+						if(!gaStats.keyword) gaStats.keyword = _uGC(uri.query,'encquery=','&');
+					}
+					else if(contains(uri.host, "ask")){
+						// track as ask organic
+						gaStats.source = 'ask';
+						gaStats.medium = 'organic';
+						gaStats.campaign = 'organic';
+						gaStats.keyword = _uGC(uri.query,'q=','&');
+					}
+					else if(contains(uri.host, "startsiden")){
+						// track as startsiden organic
+						gaStats.source = 'startsiden';
+						gaStats.medium = 'organic';
+						gaStats.campaign = 'organic';
+					}
+					else if(contains(uri.host, "yandex")){
+						gaStats.source = 'yandex';
+						gaStats.medium = 'organic';
+						gaStats.campaign = 'organic';
+						gaStats.keyword = _uGC(uri.query,'text=','&');
+					}
+					else
+					{
+						// track as referral
+						gaStats.source = uri.host || '';
+						gaStats.medium = 'referral';
+						gaStats.campaign = 'referral';
+						gaStats.content = uri.path || '';
+					}
+				}
+			}
+
+			// if we still don't know who they are, assume they came in direct
+			if(gaStats.source == '') gaStats.source = 'direct';
+			if(gaStats.medium == '') gaStats.medium = 'none';
+			if(gaStats.campaign == '') gaStats.campaign = 'direct';
+
+			// record landing page
+			gaStats.landingPage = doc.location.pathname || '';
+
+			// parse up the original referrer with pathname //source!medium!campaign!term!content
+			var referrer = gaStats.source + '!' + gaStats.medium + '!' + gaStats.campaign + '!' + gaStats.keyword + '!' + gaStats.content;
+			referrer = referrer.replace('%20','-');
+			referrer = referrer.replace(/[^a-zA-Z0-9-~!*_.]/g,'');
+			referrer = referrer.substr(0,62);
+			gaStats.referrer = referrer || '';
+
+			// url they rode in on
+			gaStats.originalDocReferrer = doc.referrer || '';
+
+			return gaStats;
+		}
+
+		function getGAReferrerDataClassic() {
+			var gaCookie = docCookies.getItem('__utmz');
+			var gaStats = {
+				source: _uGC(gaCookie,'utmcsr=','|') || '',
+				medium: _uGC(gaCookie,'utmcmd=','&') || '',
+				campaign: _uGC(gaCookie,'utmccn=','&') || '',
+				keyword: _uGC(gaCookie,'utmctr=','&') || '',
+				content: _uGC(gaCookie,'utmcct=','&' || '')
+			};
+
+			if (_uGC(gaCookie,'utmgclid=','|') != '')
+			{
+				gaStats.source = 'google';
+				gaStats.medium = 'cpc';
+			}
+
+			return gaStats;
+		}
+
+		function contains(str, expected) {
+			return str.indexOf(expected) != -1;
+		}
+
+		function _uGC(l,n,s) {
+				if (!l || l=="" || !n || n=="" || !s || s=="") return "";
+				var i,i2,i3,c="-";
+				i=l.indexOf(n);
+				i3=n.indexOf("=")+1;
+				if (i > -1) {
+						i2=l.indexOf(s,i); if (i2 < 0) { i2=l.length; }
+						c=l.substring((i+i3),i2);
+				}
+				if (c == '-')
+						return '';
+				else
+						return c;
+		}
+
+		function visitorHasOldGACookie() {
+			if (_uGC(doc.cookie, '__utmc=',';') != "" || _uGC(doc.cookie, '__utmb=',';') != "") {
+				return true;
+			} else {
+				return false;
+			}
+		}
+
+	 //<![CDATA[
+
+		// parseUri 1.2.2
+		// http://blog.stevenlevithan.com/archives/parseuri
+		// (c) Steven Levithan <stevenlevithan.com>
+		// MIT License
+
+		function parseUri (str) {
+			var	o   = parseUri.options,
+				m   = o.parser[o.strictMode ? "strict" : "loose"].exec(str),
+				uri = {},
+				i   = 14;
+
+			while (i--) uri[o.key[i]] = m[i] || "";
+
+			uri[o.q.name] = {};
+			uri[o.key[12]].replace(o.q.parser, function ($0, $1, $2) {
+				if ($1) uri[o.q.name][$1] = $2;
+			});
+
+			return uri;
+		};
+
+		parseUri.options = {
+			strictMode: false,
+			key: ["source","protocol","authority","userInfo","user","password","host","port","relative","path","directory","file","query","anchor"],
+			q:   {
+				name:   "queryKey",
+				parser: /(?:^|&)([^&=]*)=?([^&]*)/g
+			},
+			parser: {
+				strict: /^(?:([^:\/?#]+):)?(?:\/\/((?:(([^:@]*)(?::([^:@]*))?)?@)?([^:\/?#]*)(?::(\d*))?))?((((?:[^?#\/]*\/)*)([^?#]*))(?:\?([^#]*))?(?:#(.*))?)/,
+				loose:  /^(?:(?![^:@]+:[^:@\/]*@)([^:\/?#.]+):)?(?:\/\/)?((?:(([^:@]*)(?::([^:@]*))?)?@)?([^:\/?#]*)(?::(\d*))?)(((\/(?:[^?#](?![^?#\/]*\.[^?#\/.]+(?:[?#]|$)))*\/?)?([^?#\/]*))(?:\?([^#]*))?(?:#(.*))?)/
+			}
+		};
+
+		// END parseUri 1.2.2
+
+		/*\
+		 |*|
+		 |*|  :: cookies.js ::
+		 |*|
+		 |*|  A complete cookies reader/writer framework with full unicode support.
+		 |*|
+		 |*|  Revision #1 - September 4, 2014
+		 |*|
+		 |*|  https://developer.mozilla.org/en-US/docs/Web/API/document.cookie
+		 |*|  https://developer.mozilla.org/User:fusionchess
+		 |*|
+		 |*|  This framework is released under the GNU Public License, version 3 or later.
+		 |*|  http://www.gnu.org/licenses/gpl-3.0-standalone.html
+		 |*|
+		 |*|  Syntaxes:
+		 |*|
+		 |*|  * docCookies.setItem(name, value[, end[, path[, domain[, secure]]]])
+		 |*|  * docCookies.getItem(name)
+		 |*|  * docCookies.removeItem(name[, path[, domain]])
+		 |*|  * docCookies.hasItem(name)
+		 |*|  * docCookies.keys()
+		 |*|
+		 \*/
+
+		 var docCookies = {
+			 getItem: function (sKey) {
+				 if (!sKey) { return null; }
+				 return decodeURIComponent(doc.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+			 },
+			 setItem: function (sKey, sValue, vEnd, sPath, sDomain, bSecure) {
+				 if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) { return false; }
+				 var sExpires = "";
+				 if (vEnd) {
+					 switch (vEnd.constructor) {
+						 case Number:
+							 sExpires = vEnd === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" : "; max-age=" + vEnd;
+							 break;
+						 case String:
+							 sExpires = "; expires=" + vEnd;
+							 break;
+						 case Date:
+							 sExpires = "; expires=" + vEnd.toUTCString();
+							 break;
+					 }
+				 }
+				 //console.log(encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : ""));
+				 doc.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "");
+				 return true;
+			 },
+			 removeItem: function (sKey, sPath, sDomain) {
+				 if (!this.hasItem(sKey)) { return false; }
+				 doc.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "");
+				 return true;
+			 },
+			 hasItem: function (sKey) {
+				 if (!sKey) { return false; }
+				 return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=")).test(doc.cookie);
+			 },
+			 keys: function () {
+				 var aKeys = doc.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/);
+				 for (var nLen = aKeys.length, nIdx = 0; nIdx < nLen; nIdx++) { aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]); }
+				 return aKeys;
+			 }
+		 };
+		 // END cookies.js
+
+		function store(nm, vl) {
+			docCookies.setItem(nm,vl,null,'/','.' + domain);
+		}
+
+		return {
+			start: startGAUniversalTracker,
+			analyze: analyze
+		};
+	};
+
+	return {
+		Track: main,
+		Event: function(category, action) {
+			ga('send', 'event', {
+        eventCategory: category,
+        eventAction: action
+      });
+		}
+	};
+}();
+
+function runTests() {
+	var tests = {
+		direct :
+		{
+			input: {
+				cookie: '',
+					location: { pathname: '/about/news/news-archive/', search: '' },
+					referrer: ''
+			},
+			expected: {
+				source: 'direct',
+				medium: 'none',
+				campaign: 'direct',
+				keyword: '',
+				content: '',
+				landingPage: '/about/news/news-archive/',
+				referrer: 'direct!none!direct!!',
+				originalDocReferrer: ''
+			}
+		},
+		cpcGoogle: {
+			input: {
+				cookie: '',
+				location: {
+					pathname: '/lp/search2',
+					search: '?utm_source=Google&utm_medium=cpc&utm_campaign=Brand_All&utm_ad_goup=mindflash_exact&utm_term=mindflash&gclid=CJTfmcvLvMICFaNj7AodV1wAjg'
+				},
+				referrer: 'http://www.googleadservices.com/pagead/aclk?sa=L&ai=CFTpuMdKIVIK-CsTSsQfEkIDYCs_1t7QGx9jspsUB1suvuwUIABABILZUKAJgydazjfCksBCgAaGuwv8DyAEBqgQgT9CuBhKKbx_bSQKLY1uZ0mplZSY0H3xGMCR6WFmlYHiABZBOiAYBgAfH0T2QBwOoB6a-Gw&ohost=www.google.com&cid=5GjyTNX-xpVZAyej3x3Jps6FxaQq4uxm1oTQ2l1eWvefhU5q&sig=AOD64_3JMS4uX4yZBway-vj5u3Djj34CjA&rct=j&q=&ved=0CCAQ0Qw&adurl=http://www.mindflash.com/lp/search2%3Futm_source%3DGoogle%26utm_medium%3Dcpc%26utm_campaign%3DBrand_All%26utm_ad_goup%3Dmindflash_exact%26utm_term%3Dmindflash'
+			},
+			expected: {
+				source: 'Google',
+				medium: 'cpc',
+				campaign: 'Brand_All',
+				keyword: 'mindflash',
+				content: '',
+				landingPage: '/lp/search2',
+				referrer: 'Google!cpc!Brand_All!mindflash!',
+				originalDocReferrer: 'http://www.googleadservices.com/pagead/aclk?sa=L&ai=CFTpuMdKIVIK-CsTSsQfEkIDYCs_1t7QGx9jspsUB1suvuwUIABABILZUKAJgydazjfCksBCgAaGuwv8DyAEBqgQgT9CuBhKKbx_bSQKLY1uZ0mplZSY0H3xGMCR6WFmlYHiABZBOiAYBgAfH0T2QBwOoB6a-Gw&ohost=www.google.com&cid=5GjyTNX-xpVZAyej3x3Jps6FxaQq4uxm1oTQ2l1eWvefhU5q&sig=AOD64_3JMS4uX4yZBway-vj5u3Djj34CjA&rct=j&q=&ved=0CCAQ0Qw&adurl=http://www.mindflash.com/lp/search2%3Futm_source%3DGoogle%26utm_medium%3Dcpc%26utm_campaign%3DBrand_All%26utm_ad_goup%3Dmindflash_exact%26utm_term%3Dmindflash'
+			}
+		},
+		organicGoogle: {
+			input: {
+				cookie: '',
+				location: { pathname: '/login/', search: '' },
+				referrer: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC0QFjAA&url=https%3A%2F%2Fwww.mindflash.com%2F&ei=JdCIVObpEsHasATF9YK4Aw&usg=AFQjCNFmureynpAqcErNH6tNE75qUUJjaA&bvm=bv.81456516,d.cWc'
+			},
+			expected: {
+				source: 'google',
+				medium: 'organic',
+				campaign: 'organic',
+				keyword: '',
+				content: '',
+				landingPage: '/login/',
+				referrer: 'google!organic!organic!!',
+				originalDocReferrer: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC0QFjAA&url=https%3A%2F%2Fwww.mindflash.com%2F&ei=JdCIVObpEsHasATF9YK4Aw&usg=AFQjCNFmureynpAqcErNH6tNE75qUUJjaA&bvm=bv.81456516,d.cWc'
+			}
+		},
+		organicYahoo: {
+			input: {
+				cookie: '',
+				location: { pathname: '/login/', search: '' },
+				referrer: 'http://r.search.yahoo.com/_ylt=AwrBT8l60IhUXkAAu.1XNyoA;_ylu=X3oDMTEzczFjY2pxBHNlYwNzcgRwb3MDMgRjb2xvA2JmMQR2dGlkA1ZJUDQyNF8x/RV=2/RE=1418281211/RO=10/RU=https%3a%2f%2fwww.mindflash.com%2flogin%2f/RK=0/RS=CoFPueaXiD6btaTWyfnpmc3AV8k-'
+			},
+			expected: {
+				source: 'yahoo',
+				medium: 'organic',
+				campaign: 'organic',
+				keyword: '',
+				content: '',
+				landingPage: '/login/',
+				referrer: 'yahoo!organic!organic!!',
+				originalDocReferrer: 'http://r.search.yahoo.com/_ylt=AwrBT8l60IhUXkAAu.1XNyoA;_ylu=X3oDMTEzczFjY2pxBHNlYwNzcgRwb3MDMgRjb2xvA2JmMQR2dGlkA1ZJUDQyNF8x/RV=2/RE=1418281211/RO=10/RU=https%3a%2f%2fwww.mindflash.com%2flogin%2f/RK=0/RS=CoFPueaXiD6btaTWyfnpmc3AV8k-'
+			}
+		},
+		organicBing: {
+			input: {
+				cookie: '',
+				location: { pathname: '/sign-up/', search: '' },
+				referrer: 'http://www.bing.com/search?q=mindflash&qs=n&form=QBLH&pq=mindflash&sc=8-1&sp=-1&sk=&cvid=7cce874d2b2940e898e201423367dcb4'
+			},
+			expected: {
+				source: 'bing',
+				medium: 'organic',
+				campaign: 'organic',
+				keyword: 'mindflash',
+				content: '',
+				landingPage: '/sign-up/',
+				referrer: 'bing!organic!organic!mindflash!',
+				originalDocReferrer: 'http://www.bing.com/search?q=mindflash&qs=n&form=QBLH&pq=mindflash&sc=8-1&sp=-1&sk=&cvid=7cce874d2b2940e898e201423367dcb4'
+			}
+		},
+		referral: {
+			input: {
+				cookie: '',
+				location: { pathname: '/blog/2014/04/interview-with-misha-mcpherson-director-of-worldwide-sales-enablement-marketing-software-company/', search: '' },
+				referrer: 'http://awesomecoolblogsite.com'
+			},
+			expected: {
+				source: 'awesomecoolblogsite.com',
+				medium: 'referral',
+				campaign: 'referral',
+				keyword: '',
+				content: '',
+				landingPage: '/blog/2014/04/interview-with-misha-mcpherson-director-of-worldwide-sales-enablement-marketing-software-company/',
+				referrer: 'awesomecoolblogsite.com!referral!referral!!',
+				originalDocReferrer: 'http://awesomecoolblogsite.com'
+			}
+		}
+	};
+
+	function checkResult(res, which) {
+		var obj = tests[which].expected;
+		console.log('VERIFYING RESULTS => ' + which);
+
+		for(prop in obj) {
+			if(obj[prop] != res[prop])
+				console.error('error', prop, 'was', res[prop], 'should be', obj[prop]);
+			else
+				console.info('ok', prop, res[prop]);
+		}
+	}
+
+	// Fixes moc document to work like document.cookie does
+	function setupMocDoc(mocDoc) {
+		var cookies = {};
+		mocDoc.__defineGetter__('cookie', function () {
+				var output = [];
+				for (var cookieName in cookies) {
+						output.push(cookieName + "=" + cookies[cookieName]);
+				}
+				return output.join(";");
+		});
+		mocDoc.__defineSetter__('cookie', function (s) {
+				var indexOfSeparator = s.indexOf("=");
+				var key = s.substr(0, indexOfSeparator);
+				var value = s.substring(indexOfSeparator + 1);
+				cookies[key] = value;
+				return key + "=" + value;
+		});
+		mocDoc.clearCookies = function () {
+				cookies = {};
+		};
+		return mocDoc;
+	}
+
+	MF.Track({ document: setupMocDoc(tests['cpcGoogle'].input)}).analyze(function(err, res) { checkResult(res, 'cpcGoogle'); });
+	MF.Track({ document: setupMocDoc(tests['organicGoogle'].input)}).analyze(function(err, res) { checkResult(res, 'organicGoogle'); });
+	MF.Track({ document: setupMocDoc(tests['organicYahoo'].input)}).analyze(function(err, res) { checkResult(res, 'organicYahoo'); });
+	MF.Track({ document: setupMocDoc(tests['organicBing'].input)}).analyze(function(err, res) { checkResult(res, 'organicBing'); });
+	MF.Track({ document: setupMocDoc(tests['referral'].input)}).analyze(function(err, res) { checkResult(res, 'referral'); });
+	MF.Track({ document: setupMocDoc(tests['direct'].input)}).analyze(function(err, res) { checkResult(res, 'direct'); });
+}
+
+//runTests();
     //]]>
 </script>
 
@@ -86,49 +530,47 @@
 <meta name="google-site-verification" content="rGHIYkIuxCiyq69B8UGL0pQ274cRuz79Suqsm6Z0ea0">
 <title>Privacy Policy |</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="http://www.mindflash.com/xmlrpc.php">
+<link rel="pingback" href="https://www.mindflash.com/xmlrpc.php">
 <!--[if lt IE 9]>
 
-<script src="http://static6.mindflash.com/wp-content/themes/mindflash/js/html5.js.gzip" type="text/javascript"></script>
+<script src="https://www.mindflash.com/wp-content/themes/mindflash/js/html5.js" type="text/javascript"></script>
 <![endif]-->
-<link rel="alternate" type="application/rss+xml" title=" » Feed" href="http://www.mindflash.com/feed/">
-<link rel="alternate" type="application/rss+xml" title=" » Comments Feed" href="http://www.mindflash.com/comments/feed/">
-<link rel="stylesheet" id="minimax-image-css" href="http://static5.mindflash.com/wp-content/plugins/page-layout-builder/modules/image/image.css.gzip?ver=3.9.2" type="text/css" media="all">
-<link rel="stylesheet" id="bootstrap-css" href="http://static5.mindflash.com/wp-content/plugins/page-layout-builder/bootstrap/css/bootstrap.css.gzip?ver=3.9.2" type="text/css" media="all">
-<link rel="stylesheet" id="module-styles-css" href="http://static5.mindflash.com/wp-content/plugins/page-layout-builder/css/module-styles.css.gzip?ver=3.9.2" type="text/css" media="all">
-<link rel="stylesheet" id="row-styles-css" href="http://static5.mindflash.com/wp-content/plugins/page-layout-builder/css/row-styles.css.gzip?ver=3.9.2" type="text/css" media="all">
-<link rel="stylesheet" id="fa-css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css?ver=3.9.2" type="text/css" media="all">
-<link rel="stylesheet" id="social_comments-css" href="http://static5.mindflash.com/wp-content/plugins/social/assets/comments.css.gzip?ver=2.11" type="text/css" media="screen">
-<link rel="stylesheet" id="mindflash-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext" type="text/css" media="all">
+<link rel="alternate" type="application/rss+xml" title=" » Feed" href="https://www.mindflash.com/feed/">
+<link rel="alternate" type="application/rss+xml" title=" » Comments Feed" href="https://www.mindflash.com/comments/feed/">
+<link rel="stylesheet" id="minimax-image-css" href="https://www.mindflash.com/wp-content/plugins/page-layout-builder/modules/image/image.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="https://www.mindflash.com/wp-content/plugins/page-layout-builder/bootstrap/css/bootstrap.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="module-styles-css" href="https://www.mindflash.com/wp-content/plugins/page-layout-builder/css/module-styles.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="row-styles-css" href="https://www.mindflash.com/wp-content/plugins/page-layout-builder/css/row-styles.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="fa-css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="social_comments-css" href="https://www.mindflash.com/wp-content/plugins/social/assets/comments.css?ver=3.0" type="text/css" media="screen">
+<link rel="stylesheet" id="mindflash-fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext" type="text/css" media="all">
 <link rel="stylesheet" id="google-fonts-css" href="//fonts.googleapis.com/css?family=Open+Sans:300" type="text/css" media="all">
-<link rel="stylesheet" id="mindflash-style-css" href="http://static5.mindflash.com/wp-content/themes/mindflash/css/main.min.css.gzip?ver=1" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://static5.mindflash.com/wp-content/themes/mindflash../../../../wp-includes/vendor/font-awesome/css/font-awesome.min.css.gzip?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="mindflash-style-css" href="https://www.mindflash.com/wp-content/themes/mindflash/css/main.min.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://www.mindflash.com/wp-content/themes/mindflash../../../../wp-includes/vendor/font-awesome/css/font-awesome.min.css?ver=1" type="text/css" media="all">
 <!--[if IE 8]>
-<link rel='stylesheet' id='mindflash-ie8-css'  href='http://static5.mindflash.com/wp-content/themes/mindflash/css/ie8.min.css.gzip?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='mindflash-ie8-css'  href='https://www.mindflash.com/wp-content/themes/mindflash/css/ie8.min.css?ver=1' type='text/css' media='all' />
 <![endif]-->
 <!--[if lt IE 8]>
-<link rel='stylesheet' id='mindflash-ie7-css'  href='http://static5.mindflash.com/wp-content/themes/mindflash/css/ie7.min.css.gzip?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='mindflash-ie7-css'  href='https://www.mindflash.com/wp-content/themes/mindflash/css/ie7.min.css?ver=1' type='text/css' media='all' />
 <![endif]-->
 <!--[if lt IE 8]>
-<link rel='stylesheet' id='font-awesome-ie7-css'  href='http://static5.mindflash.com/wp-content/themes/mindflash/../../../wp-includes/vendor/font-awesome/css/font-awesome-ie7.min.css.gzip?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-ie7-css'  href='https://www.mindflash.com/wp-content/themes/mindflash/../../../wp-includes/vendor/font-awesome/css/font-awesome-ie7.min.css?ver=1' type='text/css' media='all' />
 <![endif]-->
-<script type="text/javascript" src="http://static6.mindflash.com/wp-includes/js/jquery/jquery.js.gzip?ver=1.11.0"></script>
-<script type="text/javascript" src="http://static6.mindflash.com/wp-includes/js/jquery/jquery-migrate.min.js.gzip?ver=1.2.1"></script>
-<script type="text/javascript" src="http://static6.mindflash.com/wp-content/plugins/page-layout-builder/bootstrap/js/bootstrap.min.js.gzip?ver=3.9.2"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mindflash.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://static6.mindflash.com/wp-includes/wlwmanifest.xml.gzip"> 
-<link rel="prev" title="Online Training Made Easy" href="http://www.mindflash.com/index2">
-<link rel="next" title="Online Training Made Easy" href="http://www.mindflash.com/welcome">
-<meta name="generator" content="WordPress 3.9.2">
-<link rel="shortlink" href="http://www.mindflash.com/?p=11579">
+<script type="text/javascript" src="https://www.mindflash.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<script type="text/javascript" src="https://www.mindflash.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="https://www.mindflash.com/wp-content/plugins/page-layout-builder/bootstrap/js/bootstrap.min.js?ver=4.0.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mindflash.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.mindflash.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.0.1">
+<link rel="shortlink" href="https://www.mindflash.com/?p=11579">
     
     <script language="JavaScript">
     <!--
-      var base_theme_url = "http://www.mindflash.com/wp-content/plugins/page-layout-builder",pageid="",post_type="page";
-      var adminurl='http://www.mindflash.com/wp-admin/', ajaxurl = adminurl+'admin-ajax.php';    //-->
+      var base_theme_url = "https://www.mindflash.com/wp-content/plugins/page-layout-builder",pageid="",post_type="page";
+      var adminurl='https://www.mindflash.com/wp-admin/', ajaxurl = adminurl+'admin-ajax.php';    //-->
     </script>
     
-        <link href="http://static5.mindflash.com/wp-content/plugins/page-layout-builder/modules/csstabs/tab-style.css.gzip" type="text/css" rel="stylesheet">
+        <link href="https://www.mindflash.com/wp-content/plugins/page-layout-builder/modules/csstabs/tab-style.css" type="text/css" rel="stylesheet">
      
 <script type="text/javascript">
 jQuery(document).ready(function() {
@@ -146,10 +588,10 @@ jQuery(document).ready(function() {
 });
 </script>
     
-<!-- All in One SEO Pack 2.2.3 by Michael Torbert of Semper Fi Web Design[2614,2638] -->
+<!-- All in One SEO Pack 2.2.3.1 by Michael Torbert of Semper Fi Web Design[17780,17804] -->
 <link rel="author" href="https://plus.google.com/b/113554493672504585254/113554493672504585254/posts">
 
-<link rel="canonical" href="http://www.mindflash.com/privacy-policy/">
+<link rel="canonical" href="https://www.mindflash.com/privacy-policy/">
 <!-- /all in one seo pack -->
 	<style type="text/css">
 			.site-title,
@@ -163,42 +605,9 @@ jQuery(document).ready(function() {
 body.custom-background { background-color: #ffffff; }
 </style>
 <script type="text/javascript">
-    //<![CDATA[
-
-    //Code from Joe at Blast
-
-    _gaq.push(function() {
-        // only track custom variables
-        //if(window.optimizely === undefined)
-        //{
-            var pageTracker = _gat._getTrackerByName();
-
-            if (checkIfNewGASession())
-            {
-                pageTracker._setCustomVar(3,'CLP',document.location.pathname, 1);
-            }
-            if (!pageTracker._getVisitorCustomVar(4))
-            {
-                pageTracker._setCustomVar(4,'OLP',document.location.pathname, 1);
-            }
-            if (!pageTracker._getVisitorCustomVar(5))
-            {
-                pageTracker._setCustomVar(5,'OR',getGAReferrerData(),1);
-            }
-        //}
-
-        _gaq.push(['_trackPageview']);
-    });
-
-    // End code from Joe at Blast
-
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-    //]]>
+//<![CDATA[
+MF.Track(window).start();
+//]]>
 </script>
 </head>
 
@@ -222,10 +631,10 @@ body.custom-background { background-color: #ffffff; }
 	<header id="masthead" class="site-header" role="banner">
 
 				<hgroup>
-			<h1 class="site-title"><a href="http://www.mindflash.com/" title="" rel="home"></a></h1>
+			<h1 class="site-title"><a href="https://www.mindflash.com/" title="" rel="home"></a></h1>
 			<h2 class="site-description">Makes Online Training Easy, Create Courses in Minutes</h2>
 		</hgroup>
-        <a id="header-image" class="header-logo" href="/"><img src="http://static5.mindflash.com/wp-content/themes/mindflash/images/mf_logo_sm.png" class="header-image" alt=""></a>
+        <a id="header-image" class="header-logo" href="/"><img src="/wp-content/themes/mindflash/images/mf_logo_sm.png" class="header-image" alt=""></a>
 		<nav id="site-navigation" role="navigation">
 			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
             <div class="header-menu-container">
@@ -291,11 +700,7 @@ Mindflash has implemented and maintains administrative, technical and physical s
 <p>5.1. PUBLIC FORUMS The Site may include interactive forums such as blogs, message boards, discussion forums and chat rooms. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your Personal Information. Mindflash will not be liable for any disclosure of your Personal Information or other information as a result of your use of any such public forums, that you display publicly or that becomes publicly known as a result of your actions. To request removal of your personal information from our blog or community forum, contact us here.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
 <p>5.2. THIRD PARTY WEBSITES The Site may contain links to other websites. If you choose to visit any other websites other than the Site, we will not be responsible for the privacy practices or content of those other Websites, and you shall bear all risk of access to such websites. It is solely your responsibility to review the privacy and usage policies at those websites and confirm that you understand and agree with their policies. </p>
 <p>6. CONTACT INFORMATION AND POLICY UPDATES</p>
-<p>6.1. CONTACTING US If you have any questions about this Policy, our practices related to this Site please feel contact us at <a href="mailto:help@mindflash.com">help@mindflash.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a> or Mindflash.com, 2825 El Camino Real, Suite 200, Palo Alto, CA 94306.</p>
+<p>6.1. CONTACTING US If you have any questions about this Policy, our practices related to this Site please feel contact us at <a href="mailto:help@mindflash.com">help@mindflash.com</a> or Mindflash.com, 2825 El Camino Real, Suite 200, Palo Alto, CA 94306.</p>
 <p>6.2. UPDATES AND CHANGES We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by means of a notice on this Site. We encourage you to periodically review this page for the latest information on our privacy practices. </p></div>
 		</div></div>
                     </div>
@@ -342,20 +747,22 @@ Mindflash has implemented and maintains administrative, technical and physical s
 </ul></div></li>
 <li id="nav_menu-4" class="widget widget_nav_menu"><h3 class="widget-title">Product</h3><div class="menu-footer-product-container"><ul id="menu-footer-product" class="menu"><li id="menu-item-11252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11252"><a href="/login/">Login</a></li>
 <li id="menu-item-11251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11251"><a href="/#features">Features</a></li>
-<li id="menu-item-11254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11254"><a href="/sign-up">Sign Up</a></li>
+<li id="menu-item-11254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11254"><a target="_blank" href="/sign-up">Free Trial</a></li>
 <li id="menu-item-10940" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10940"><a href="/pricing/">Pricing</a></li>
 <li id="menu-item-11250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11250"><a target="_blank" href="http://help.mindflash.com">Support</a></li>
-<li id="menu-item-14443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14443"><a href="http://www.mindflash.com/example-courses/">Example Courses</a></li>
+<li id="menu-item-15550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15550"><a target="_blank" href="/example-courses/">Example Courses</a></li>
+<li id="menu-item-15452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15452"><a href="/employee-training/corporate-training/">Corporate Training</a></li>
+<li id="menu-item-15680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15680"><a target="_blank" href="http://welcome.mindflash.com/l/684/2015-01-26/2zjkq3">Schedule Demo</a></li>
 </ul></div></li>
 <li id="nav_menu-5" class="widget widget_nav_menu"><h3 class="widget-title">Resources</h3><div class="menu-footer-resources-container"><ul id="menu-footer-resources" class="menu"><li id="menu-item-15022" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15022"><a href="/resource-center/">Resource Center</a></li>
-<li id="menu-item-11773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11773"><a href="http://www.mindflash.com/about/press-kit/">Press Kit</a></li>
-<li id="menu-item-12771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12771"><a href="http://www.mindflash.com/about/news/news-archive/">News Archive</a></li>
-<li id="menu-item-12773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12773"><a href="http://www.mindflash.com/about/press-archive/">Press Archive</a></li>
+<li id="menu-item-12771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12771"><a href="https://www.mindflash.com/about/news/news-archive/">News Archive</a></li>
 <li id="menu-item-14447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14447"><a href="/learning-management-systems/what-is-lms">What is an LMS</a></li>
 <li id="menu-item-14448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14448"><a href="/elearning/what-is-e-learning">What is eLearning</a></li>
 <li id="menu-item-14449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14449"><a href="/online-training">Online Training</a></li>
 <li id="menu-item-14450" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14450"><a href="/online-testing/creating-online-tests">Online Testing</a></li>
-<li id="menu-item-14451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14451"><a href="/employee-training/online-human-resources-training/">Employee Training</a></li>
+<li id="menu-item-14451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14451"><a href="/elearning/scorm-compliant-training">What is SCORM?</a></li>
+<li id="menu-item-12773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12773"><a href="https://www.mindflash.com/about/press-archive/">Press Archive</a></li>
+<li id="menu-item-11773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11773"><a href="https://www.mindflash.com/about/press-kit/">Press Kit</a></li>
 </ul></div></li>
 <li id="nav_menu-9" class="widget widget_nav_menu"><h3 class="widget-title">Connect</h3><div class="menu-footer-stay-in-touch-menu-container"><ul id="menu-footer-stay-in-touch-menu" class="menu"><li id="menu-item-11233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11233"><a href="/blog">Blog</a></li>
 <li id="menu-item-11230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11230"><a target="_blank" href="http://www.youtube.com/user/mindflashtraining">YouTube</a></li>
@@ -367,7 +774,7 @@ Mindflash has implemented and maintains administrative, technical and physical s
 				</ul>
 			</div>
 			<h6>
-				©1999-2014 Mindflash.com
+				©1999-2015 Mindflash.com
 			</h6>
 				</footer><!-- #colophon -->
 </div><!-- #page -->
@@ -377,9 +784,9 @@ Mindflash has implemented and maintains administrative, technical and physical s
 var Sociali18n = {"commentReplyTitle":"Post a Reply"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://static6.mindflash.com/wp-content/plugins/social/assets/social.js.gzip?ver=2.11"></script>
-<script type="text/javascript" src="http://static6.mindflash.com/wp-content/themes/mindflash/js/navigation.js.gzip?ver=1.0"></script>
-<script type="text/javascript" src="http://static6.mindflash.com/wp-content/themes/mindflash/js/main.min.js.gzip?ver=1"></script>
+<script type="text/javascript" src="https://www.mindflash.com/wp-content/plugins/social/assets/social.js?ver=3.0"></script>
+<script type="text/javascript" src="https://www.mindflash.com/wp-content/themes/mindflash/js/navigation.js?ver=1.0"></script>
+<script type="text/javascript" src="https://www.mindflash.com/wp-content/themes/mindflash/js/main.min.js?ver=1"></script>
 
 <!-- Google Code for Visited MF.com Remarketing List -->
 <script type="text/javascript">
@@ -394,13 +801,13 @@ var Sociali18n = {"commentReplyTitle":"Post a Reply"};
 </script>
 
 <div style="display: none">
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
 </script>
 </div>
 
 <noscript>
     <div style="display:inline;">
-        <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1072731937/?value=0&amp;label=qL8ECIewjAMQoa7C_wM&amp;guid=ON&amp;script=0"/>
+        <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1072731937/?value=0&amp;label=qL8ECIewjAMQoa7C_wM&amp;guid=ON&amp;script=0"/>
     </div>
 </noscript>
 
@@ -427,7 +834,7 @@ var Sociali18n = {"commentReplyTitle":"Post a Reply"};
 				$('.play').click(function(){
 					$('#videoModal').modal('toggle');
 				});
-				var videoUrl = "http://www.youtube.com/v/0NYxvkRFzpY?rel=0&amp;version=3&amp;hl=en_US&amp;hd=1&amp;autoplay=0&amp;autohide=1&amp;showinfo=0&amp;modestbranding=1&amp;fmt=22"
+				var videoUrl = "//www.youtube.com/v/0NYxvkRFzpY?rel=0&amp;version=3&amp;hl=en_US&amp;hd=1&amp;autoplay=0&amp;autohide=1&amp;showinfo=0&amp;modestbranding=1&amp;fmt=22"
 
 				$('#videoModal').on('shown.bs.modal', function() {
 					if(navigator.appVersion.indexOf("MSIE 8.")==-1){
@@ -435,7 +842,7 @@ var Sociali18n = {"commentReplyTitle":"Post a Reply"};
 						videoHeight = $('.modal-body').css('height');
 					}
 					$(document).ready(function(){
-						$('#sh-wrapper').html('<object width="'+videoWidth+'" height="'+videoHeight+'"><param name="movie" value='+videoUrl+'></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name=wmode value="transparent"></param><embed src="http://www.youtube.com/v/0NYxvkRFzpY?rel=0&amp;version=3&amp;hl=en_US&amp;hd=1&amp;autoplay=0&amp;autohide=1&amp;showinfo=0&amp;modestbranding=1&amp;fmt=22" type="application/x-shockwave-flash" width="'+videoWidth+'" height="'+videoHeight+'" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" id="playerVideo"></embed></object>');
+						$('#sh-wrapper').html('<object width="'+videoWidth+'" height="'+videoHeight+'"><param name="movie" value='+videoUrl+'></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name=wmode value="transparent"></param><embed src="//www.youtube.com/v/0NYxvkRFzpY?rel=0&amp;version=3&amp;hl=en_US&amp;hd=1&amp;autoplay=0&amp;autohide=1&amp;showinfo=0&amp;modestbranding=1&amp;fmt=22" type="application/x-shockwave-flash" width="'+videoWidth+'" height="'+videoHeight+'" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" id="playerVideo"></embed></object>');
 					});
 				});
 				$('#videoModal').on('hidden.bs.modal', function() {
@@ -446,17 +853,11 @@ var Sociali18n = {"commentReplyTitle":"Post a Reply"};
 	</script>
 
 
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"/cdn-cgi/l/email-protection"==a.substr(0 ,27)){s='';j=28;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Database Caching 74/84 queries in 0.093 seconds using apc
-Object Caching 2528/2549 objects using apc
-Content Delivery Network via Amazon Web Services: CloudFront: static5.mindflash.com
+Database Caching 69/84 queries in 0.091 seconds using apc
+Object Caching 2429/2481 objects using apc
 
- Served from: www.mindflash.com @ 2014-09-20 20:19:30 by W3 Total Cache --></body></html>
+ Served from: www.mindflash.com @ 2015-03-17 14:27:18 by W3 Total Cache --></body></html>
