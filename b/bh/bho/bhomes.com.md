@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bhomes.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701202955id_/http%3A//www.bhomes.com/uae/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhomes.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317092009id_/http%3A//www.bhomes.com/uae/privacy.xhtml) for the most accurate reproduction.*
 
-# Privacy and Security Statement :: Better Homes :
+# Privacy and Security Statement of Better Homes Website
 
 Better Homes is committed to protecting your privacy. This policy is designed to ensure your personal details are protected when you deal with us. 
 
@@ -10,4 +10,4 @@ We may use your personal information to market third party products and services
 
 **Contact Details**
 
-If you have any questions/comments about privacy, or wish to stop receiving communications from us, please telephone +971 600 52 2212 or email [customercare@bhomes.com](mailto:customercare@bhomes.com).
+If you have any questions/comments about privacy, or wish to stop receiving communications from us, please telephone +971 600 52 2233 or email [customercare@bhomes.com](mailto:customercare@bhomes.com). 
