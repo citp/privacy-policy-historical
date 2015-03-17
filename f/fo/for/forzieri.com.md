@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920035131id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317175145id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
 
 # FORZIERI | Help | Security & Privacy | Privacy Policy
 
@@ -48,7 +48,7 @@ Service related or confirmation emails disclosure: because these emails are rela
 
 #### via Forzieri Privileges Club
 
-If you sign up to become a member of our Forzieri Privileges Club, we will send an e-mail newsletter with our announcements and special offers from time to time until you decide to unsubscribe. Subscription to our newsletter is optional and requires your consent via our [Forzieri Privileges Club Page](http://www.forzieri.com/usa/privclub.asp?l=usa&c=usa) or by visiting our store in person and signing up. In order to unsubscribe from our newsletter, please [send us an email](http://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=M) with UNSUBSCRIBE in the subject.
+If you sign up to become a member of our Forzieri Privileges Club, we will send an e-mail newsletter with our announcements and special offers from time to time until you decide to unsubscribe. Subscription to our newsletter is optional and requires your consent via our [Forzieri Privileges Club Page](http://www.forzieri.com/usa/privclub.asp?l=usa&c=usa) or by visiting our store in person and signing up. If you wish to stop receiving our newsletter, please click on the link marked **"unsubscribe"** which can be found at the bottom of every email.
 
 #### via Sweepstakes Entry Form
 
