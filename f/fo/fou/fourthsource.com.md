@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fourthsource.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023527id_/http%3A//www.fourthsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourthsource.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317011800id_/http%3A//www.fourthsource.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy » Fourth Source
+# Privacy and Cookie Policy - Fourth Source
 
 This privacy policy sets out how Fourth Source uses and protects any information that you give Fourth Source when you use this website.
 
@@ -49,7 +49,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 **Google Adsense -**  This cookie is used to help us understand how our ads on our website are performing and also deliver you the most relevant ads specifically to you. You can find out more about Google’s privacy policy at [http://www.google.com/policies/privacy/ads](http://www.google.com/policies/privacy/ads/).
 
-**OpenX**  - This cookie is used to serve advertisements on the website. We use it to serve Google ads as well as our own ads. You can find out more about the OpenX cookie at [www.openx.com/about/openx-market-privacy-principles](http://www.openx.com/about/openx-market-privacy-principles).
+**OpenX**  – This cookie is used to serve advertisements on the website. We use it to serve Google ads as well as our own ads. You can find out more about the OpenX cookie at [www.openx.com/about/openx-market-privacy-principles](http://www.openx.com/about/openx-market-privacy-principles).
 
 **Links to other websites**
 
