@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicalmachinist.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111025158id_/http%3A//www.practicalmachinist.com/index.php%3Fpageid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalmachinist.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317095139id_/http%3A//www.practicalmachinist.com/index.php%3Fpageid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Practical Machinist - Largest Manufacturing Technology Forum on the Web - Privacy Policy
 
