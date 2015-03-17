@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papersizes.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629154345id_/http%3A//www.papersizes.org/cookies-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papersizes.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317040600id_/http%3A//www.papersizes.org/cookies-privacy.htm) for the most accurate reproduction.*
 
 # Paper Sizes - Cookies & Privacy Policy
 
@@ -12,7 +12,7 @@ For each visitor to our Web site, our Web server automatically notes the visitor
 
 The e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages visitors access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations are collected.
 
-The information we collect is used to improve the content of our Web site, used to notify visitors about updates to our Web site. We do not share this information with other organisations.
+The information we collect is used to improve the content of our Web site and used to notify visitors about updates to our Web site. We do not share this information with other organisations.
 
 ## Cookies
 
