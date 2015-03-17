@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gso.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702010435id_/https%3A//www.gso.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gso.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317132910id_/https%3A//www.gso.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ While it is necessary for us to collect certain personal information, Golden Sta
 
 **
 
-  * Certain areas of GSO.com, including but not limited to GSO WebShip, GSO QuickShip require registration or a password for access. We require customers who register to use the services offered on our web site to give us contact information, such as their name, company name, address, phone number, and e-mail address. In addition, for Online New Account Requests and GSO QuickShip, billing and credit card information of the individual or organization that will be using the Service is requested. Customers can review and update personal information at any time by logging into the website.
+  * Certain areas of GSO.com, including but not limited to the GSO Customer Portal, GSO QuickShip require registration or a password for access. We require customers who register to use the services offered on our web site to give us contact information, such as their name, company name, address, phone number, and e-mail address. In addition, for Online New Account Requests and GSO QuickShip, billing and credit card information of the individual or organization that will be using the Service is requested. Customers can review and update personal information at any time by logging into the website.
   * GSO uses the information that we collect to set up, support, and where applicable bill you for the services that you elect to use.
   * Customer email addresses and any personal customer information will not be distributed or shared with third parties. We may use your email address to notify you about special services or programs or contact you if we have questions about your order. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or as may be required by law.
   * GSO uses a third-party intermediary to manage the credit card processing. This intermediary is permitted to store, retain, or use the information provided, for the sole purpose of credit card processing.
