@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailymile.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731153020id_/http%3A//www.dailymile.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymile.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317021420id_/http%3A//www.dailymile.com/help/privacy) for the most accurate reproduction.*
 
 # Help: dailymile Policy | dailymile
 
