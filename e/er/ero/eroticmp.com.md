@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eroticmp.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916121345id_/http%3A//www.eroticmp.com/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroticmp.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317102454id_/http%3A//eroticmp.com/PP.htm) for the most accurate reproduction.*
 
 # Privacy Policy for EroticMp.com
 
@@ -17,7 +17,7 @@ Last Updated: **March 11, 2010
 
 > A. The operative parties referred to in this policy are Company and you, the user of this site. 
 > 
-> 1\. **T & A Media** are the publishers and/or operators of and are hereinafter referred to collectively as "Company." When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring respectively to T & A Media as applicable. Additionally, when the terms "The Site" or "Site" are used, these terms refer respectively to www.eroticmp.com as applicable. 
+> 1\. **Internet Secrets** are the publishers and/or operators of and are hereinafter referred to collectively as "Company." When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring respectively to Internet Secrets as applicable. Additionally, when the terms "The Site" or "Site" are used, these terms refer respectively to www.eroticmp.com as applicable. 
 > 
 > 2\. **You, the User:**   As the user of this Site, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the Site shall be referred to in applicable second-person pronouns. 
 > 
@@ -102,5 +102,5 @@ Last Updated: **March 11, 2010
 
 ### X. Where to Direct Questions About Our Privacy Policy
 
-> If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us from our contact from at the top of this page. You may also contact us by mail at T & A Media, 6130 Flamingo Rd, 732 Las Vegas, NV 89103.  
+> If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us from our contact from at the top of this page. You may also contact us by mail at Internet Secrets, 6130 Flamingo Rd, 732 Las Vegas, NV 89103.  
 > 
