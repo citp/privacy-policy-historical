@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the redballoondays.com.au privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705074819id_/https%3A//www.redballoon.com.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redballoondays.com.au privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317155830id_/https%3A//help.redballoon.com.au/hc/en-us/articles/202214850-Privacy-Copyright) for the most accurate reproduction.*
 
-# RedBalloon | Privacy and Copyright
+# Privacy & Copyright – How Can We Help You?
 
 **RedBalloon Privacy Policy**
 
-Last updated: 05/05/2014
+Last updated: 21/11/2014
 
 RedBalloon Pty Ltd (ABN 13 097 376 442) and RedBalloon NZ Ltd (CO. # 1417960) ( **RedBalloon** , we or our) is sensitive to the concerns our online users may have about the safety and use of the personal information they provide. Please read this Privacy Policy carefully to understand how any personal information collected by RedBalloon is used.
 
@@ -44,7 +44,7 @@ Although we will comply with this Privacy Policy in respect of information provi
 
 **What we will not do with a user’s personal information**
 
-  * RedBalloon will keep a user’s personal information confidential and not sell or knowingly divulge user information to advertisers or any other third parties other than our partner suppliers in order to supply their service e.g. Experience Providers and our customer feedback platform. RedBalloon will take reasonable steps to ensure that these organisations are bound by privacy obligations in relation to the protection of User's personal information. Other than to partners, we will not share a user’s personal information, unless:
+  * RedBalloon will keep a user’s personal information confidential and not sell or knowingly divulge user information to advertisers or any other third parties other than our partner suppliers or intermediaries, in order to supply, or assist in the supply of a service e.g. Experience Providers and our customer feedback platform, and booking engines. RedBalloon will take reasonable steps to ensure that these organisations are bound by privacy obligations in relation to the protection of User's personal information. Other than to partners, we will not share a user’s personal information, unless:
 
 
 
@@ -80,7 +80,7 @@ Although we will comply with this Privacy Policy in respect of information provi
 
   * RedBalloon is committed to information security. We will use all reasonable endeavours to keep users’ personal information in a secure environment. For instance, each users’ personal information is encrypted whilst being sent to our server at the time of setting up an account. However, security cannot be guaranteed due to the nature of the internet.
   * RedBalloon security measures are designed to assist in ensuring that users’ personal information is not accessed by unauthorised personnel, lost or misused. If you reasonably believe that there has been an unauthorised use or disclosure of your personal information please let us know by contacting our Privacy and Data Protection Officer (contact details below).
-  * The security of your sensitive financial details is important to us. Credit card details are never stored by RedBalloon. Credit card data is encrypted when being transferred through Westpac’s credit card payment gateway. Not only are all transactions secured using industry strength SSL encryption but, as additional protection, we also enforce the entry of the 3 or 4 digit credit card security numbers (CVN).
+  * The security of your sensitive financial details is important to us. Credit card details are never stored by RedBalloon. Credit card data is encrypted when being transferred through the payment gateway. Not only are all transactions secured using industry strength SSL encryption but, as additional protection, we also enforce the entry of the 3 or 4 digit credit card security numbers (CVN).
 
 
 
