@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130439id_/https%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317041301id_/https%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
 
 # Takeaway Food Delivery
 
@@ -33,7 +33,7 @@ We only send marketing emails and/or SMS to those people who have specifically r
 
 Introductions
 
-When a member introduces a friend, we store the friend's email address so the member can track the status of their introductions. This also allows reminders to be sent if necessary. The person receiving the introduction can remove their email address from our system at any time via a link in the introduction email, or by sending an email directly to us at [help@hungryhouse.com](mailto:%20help@hungryhouse.com).
+When a member introduces a friend, we store the friend's email address so the member can track the status of their introductions. This also allows reminders to be sent if necessary. The person receiving the introduction can remove their email address from our system at any time via a link in the introduction email, or by [contacting us](https://hungryhouse.co.uk/contact).
 
   3. Verifying, updating and amending personal information
 
@@ -43,7 +43,7 @@ Should your personal information change, you can correct or update this informat
 
 When editing your member profile or submitting an order, we only ever reveal the last 5 digits of any saved credit card numbers.
 
-To remove your personal information and cancel your membership, send an email from your registered email address to [help@hungryhouse.com](mailto:%20help@hungryhouse.com). Your membership and personal details will be removed within 5 days.
+To remove your personal information and cancel your membership, please [contact us](https://hungryhouse.co.uk/contact) using your registered email address. Your membership and personal details will be removed within 5 days.
 
 Guests
 
@@ -69,7 +69,7 @@ The technology that we use and the policies that we have implemented are intende
 
 Where appropriate, we attempt to provide for the secure transmission of information, such as credit card details, from your computer to our server by utilising SSL (Secure Sockets Layer) encryption software. However, due to the inherent open nature of the internet, we cannot guarantee that all data transmitted will be secure. Use of this website demonstrates your assumption of this risk.
 
-If you have any questions about the security of your personal information please [contact us](http://hungryhouse.co.uk/contact).
+If you have any questions about the security of your personal information please [contact us](https://hungryhouse.co.uk/contact).
 
   6. Links to Third Party Websites
 
@@ -89,7 +89,7 @@ This Privacy Policy may change at our discretion at any time, and without notice
 
   10. Contact
 
-For questions or concerns relating to privacy, we can be contacted by email at [help@hungryhouse.com](mailto:%20help@hungryhouse.com)
+For questions or concerns relating to privacy, please [contact us](https://hungryhouse.co.uk/contact) by email. [](mailto:%20help@hungryhouse.com)
 
 
 
