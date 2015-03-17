@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendly.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011113225id_/https%3A//calendly.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendly.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317033855id_/https%3A//calendly.com/pages/privacy) for the most accurate reproduction.*
 
 # Calendly - Scheduling appointments and meetings is super easy with Calendly.
 
