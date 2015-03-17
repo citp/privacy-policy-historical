@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megacockcravers.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106102553id_/http%3A//service.adultprovide.com/docs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megacockcravers.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317073926id_/http%3A//service.adultprovide.com/docs/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
