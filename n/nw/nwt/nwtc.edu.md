@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwtc.edu privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702000128id_/http%3A//www.nwtc.edu/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwtc.edu privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317074539id_/http%3A//www.nwtc.edu/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Northeast Wisconsin Technical College
 
