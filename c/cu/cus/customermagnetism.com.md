@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the customermagnetism.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712010957id_/https%3A//www.customermagnetism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customermagnetism.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317014955id_/https%3A//www.customermagnetism.com/privacy-policy) for the most accurate reproduction.*
 
 # Customer Magnetism Privacy Policy
 
-This privacy notice discloses the privacy practices for [www.customermagnetism.com](http://www.customermagnetism.com/ "Customer Magnetism"). This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+This privacy notice discloses the privacy practices for [www.customermagnetism.com](https://www.customermagnetism.com/ "Customer Magnetism"). This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   2. What choices are available to you regarding the use of your data.
