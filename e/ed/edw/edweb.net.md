@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edweb.net privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331072856id_/http%3A//home.edweb.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edweb.net privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317181652id_/http%3A//home.edweb.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - edWeb
 
