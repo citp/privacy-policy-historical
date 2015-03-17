@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easydns.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007154327id_/https%3A//nps.easydns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easydns.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317212251id_/https%3A//nps.easydns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
