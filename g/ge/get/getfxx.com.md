@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getfxx.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122211435id_/http%3A//www.fxnetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfxx.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317185349id_/http%3A//www.fxnetworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FX Networks
 
@@ -114,4 +114,4 @@ Remember that even after you cancel your account, copies of some information fro
 
 We ask that you not send us, and you not disclose, any sensitive personal information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the FX Sites or otherwise.
 
-©2014 FX Networks, LLC. All rights reserved. 
+©2015 FX Networks, LLC. All rights reserved. 
