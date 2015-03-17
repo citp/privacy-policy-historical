@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bergen.edu privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012073838id_/http%3A//www.bergen.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergen.edu privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317020830id_/http%3A//www.bergen.edu/privacy) for the most accurate reproduction.*
 
 # Bergen Community College > Home
 
