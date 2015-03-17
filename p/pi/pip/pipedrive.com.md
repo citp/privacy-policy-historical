@@ -1,50 +1,149 @@
-> *The following text is extracted and transformed from the pipedrive.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420225744id_/http%3A//www.pipedrive.com/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipedrive.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317120337id_/https%3A//www.pipedrive.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy – Pipedrive
+# Privacy Policy - Pipedrive
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations) and to notify visitors about updates to our web site. With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.  
+Welcome, and thank you for your interest in Pipedrive OÜ. (“Pipedrive”, “we,” or “us”) and our web site at https://www.pipedrive.com (the “Site”), as well as all related web sites, downloadable software, mobile applications (including tablet applications), and other services provided by us and on which a link to this Privacy Policy (this “Policy”) is displayed (collectively, together with the Site, our “Service”).
 
+This Policy describes the information that we gather from you on the Service, how we use and disclose such information, and the steps we take to protect such information. By concluding the Agreement and using the Service, you consent to the privacy practices described in this Policy.
 
-The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances: It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.  
+This Policy is incorporated into and is subject to the Pipedrive Terms of Service. Capitalized terms used but not defined in this Policy have the meaning given to them in the Pipedrive Terms of Service.
 
+## The information we collect on the Service:
 
-### **Information Gathering and Usage**  
-
-
-  * When you register for Pipedrive we ask for information such as your name, company name, email address, billing address, credit card information.  
-
-
-  * Pipedrive uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.  
+  * User-provided Information. When you use the Service, you may provide and we may collect what is generally called “personally identifiable” information, or “personal information,” which is information that specifically identifies an individual (“Personal Data”). Examples of Personal Data include name, email address, mailing address, mobile phone number, and credit card or other billing information. Personal Data also includes other information, such as date of birth, geographic area, or preferences, when any such information is linked to information that identifies a specific individual. You may provide us with Personal Data in various ways on the Service. For example, you provide us with Personal Data when you register for an Account, use the Service, post Client Data, interact with other users of the Service through communication or messaging features, or send us customer service-related requests.
+  * As part of the Service, a Client or User may provide us with Client Data, including Personal Data about the Client’s customer or a third person, to store on the Client’s behalf in connection with the Client’s or User’s use of the Service. Pipedrive has no direct relationship with the individuals whose Personal Data it hosts as part of Client Data. We work with our Clients to help them provide notice to their customers and third persons concerning the purpose for which their Personal Data is collected and how it is processed in the Service as part of Client Data.
+  * “Cookies" Information. When you use the Service, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your device. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. Please review your web browser “Help" file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential.
 
 
 
+## The following types of cookies are used in the Site:
+
+* strictly necessary/essential cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for cannot be provided. These cookies don’t collect information that identifies a visitor.
+* performance cookies - These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+* functionality cookies - These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+* behaviourally targeted advertising cookies - These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaigns. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
+## The following cookies are used in the Site:
+
+Service provider | Cookie name | Content | Cookie type | Expiration  
+---|---|---|---|---  
+Pipedrive | autologin | Helps to keep registered users logged in during several sessions over a longer period | 1 | 60 days  
+Pipedrive | pipe-session-token | Helps to designate the beginning and end of a session for each visitor | 1 | session  
+Pipedrive | pipe-session | Helps to designate the beginning and end of a session for each visitor | 1 | session  
+Google Analytics | _ga | Helps to identify sessions of visitors | 2 | 2 years  
+Google Analytics | __utma | Helps to identify sessions of visitors | 2 | 2 years  
+Google Analytics | __utmb | Helps to identify new visitors in the Site | 2 | 30 minutes  
+Google Analytics | __utmc | Helps to identify new visitors in the Site | 2 | session  
+Google Analytics | __utmz | Helps to identify the traffic source of visitors | 2 | 2 years  
+Qualaroo Inc. | ki_* | Helps to ensure we get customer feedback and users don't see same surveys again and again. | 2 | 5 years  
+Optimizely | optimizelyEndUserId | Helps to identify visitor in the Site. Consists of a timestamp and random number. | 2 | 10 years  
+Optimizely | optimizelyBuckets | Helps to ensure visitor consistently sees the same version on multiple sessions. | 2 | 10 years  
+Optimizely | optimizelySegments | Helps to store users segment information (e.g. browser, campaign, source type) | 2 | 10 years  
+Optimizely | optimizelyRedirect | Helps to detect redirect loop. | 2 | 5 seconds  
+Optimizely | optimizelyPendingLogEvents | Helps to ensure that all events are tracked even if actions happen in rapid succession. | 2 | 15 seconds  
+Woopra Analytics | wooTracker | Helps to measure site performance | 2 | 1 year  
+SessionCam | sc.* | Helps to record multiple pages visited duringa user's unique visit to a web site. | 2 | session  
+Pipedrive | (billing_currency) | Helps to remember the preferred billing currency of the visitor | 3 | n/a  
+Pipedrive | has_account | Helps to make clear whether the visitor has an account with Pipedrive | 3 | 1 year  
+  
+  1. **“Automatically Collected" Information.** When you use the Service, we may automatically record certain information from your device by using various types of technology, including “clear gifs" or “web beacons.” This “automatically collected" information may include your IP address or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after you use the Service, the pages or other content you view or otherwise interact with on the Service, and the dates and times that you visit, access, or use the Service. We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message. This information is gathered from all users.
+  2. **Third Party Web Beacons and Third Party Buttons.** We may also implement third-party content or advertising on the Service that may use clear gifs or other forms of web beacons, which allow the third-party content provider to read and write cookies to your browser in connection with your viewing of the third party content on the Service. Additionally, we may implement third party buttons (such as Facebook “like” or “share” buttons) that may allow third parties to collect information about you through such third parties’ browser cookies, even when you do not interact with the button. Information collected through web beacons and buttons is collected directly by these third parties, and Pipedrive does not participate in that data transmission. Information collected by a third party in this manner is subject to that third party’s own data collection, use, and disclosure policies.
+  3. **Integrated Services.** You may be given the option to access or register for the Service through the use of your user name and passwords for certain services provided by third parties (each, an “Integrated Service”), such as through the use of your Google account, or otherwise have the option to authorize an Integrated Service to provide Personal Data or other information to us. By authorizing us to connect with an Integrated Service, you authorize us to access and store your name, email address(es), date of birth, gender, current city, profile picture URL, and other information that the Integrated Service makes available to us, and to use and disclose it in accordance with this Policy. You should check your privacy settings on each Integrated Service to understand and change the information sent to us through each Integrated Service. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Service.
+  4. **Information from Other Sources.** We may obtain information, including Personal Data, from third parties and sources other than the Service, such as our partners, advertisers, and Integrated Services. If we combine or associate information from other sources with Personal Data that we collect through the Service, we will treat the combined information as Personal Data in accordance with this Policy.
 
 
-Consumers can access this information by visiting Settings page in Pipedrive. Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information.  
+
+## Data Controller and Data Processor
+
+Pipedrive does not own, control or direct the use of any of the information stored or processed by you via Services. Only the Client or Users are entitled to access, retrieve and direct the use of such information. Pipedrive is largely unaware of what information is actually being stored or made available by you to the Services and does not directly access such information or data except as authorised by the Client or as necessary to provide Services to the Client.
+
+Because Pipedrive does not collect or determine the use of any Personal Data contained in the Client Data and because it does not determine the purposes for which such personal Data is collected, the means of collecting such Personal Data, or the uses of such data, Pipedrive is not acting in the capacity of data controller in terms of the European Union’s Directive 95/46/EC on data privacy (“Directive”) and does not have the associated responsibilities under the Directive. Pipedrive should be considered only as a processor on behalf of its Clients and Users as to any Client Data containing Personal Data that is subject to the requirements of the Directive. Except as provided in this Privacy Policy, Pipedrive does not independently cause Client Data containing Personal Data stored in connection with the Services to be transferred or otherwise made available to third parties, except to third party subcontractors who may process such data on behalf of Pipedrive in connection with Pipedrive’s provision of Services to Clients. Such actions are performed or authorised only by the applicable Client or User.
+
+The Client or the User is the data controller under the Directive for any Client Data containing Personal Data, meaning that such party controls the manner such Personal Data is collected and used as well as the determination of the purposes and means of the processing of such Personal Data. Pipedrive is not responsible for the content of the Personal Data contained in the Client Data or other information stored on its servers (or its subcontractors’ servers) at the discretion of the Client or User nor is Pipedrive responsible for the manner in which the Client or User collects, handles disclosure, distributes or otherwise processes such information.
+
+How we use the information we collect. We use information we collect on the Service in a variety of ways in providing the Service and operating our business, including the following:
+
+  * We use the information that we collect on the Service to operate, maintain, enhance and provide all features of the Service, to provide services and information that you request, to respond to comments and questions and otherwise to provide support to users of the Service.
+  * We use the information that we collect on the Service to understand and analyze the usage trends and preferences of our users, to improve the Service, and to develop new products, services, feature, and functionality. 
+  * We may use your email address or other information we collect on the Service (i) to contact you for administrative purposes such as customer service, to address intellectual property infringement, right of privacy violations or defamation issues related to your Client Data posted on the Service or (ii) to send communications, including updates on promotions and events, relating to products and services offered by us and by third parties we work with. Generally, you have the ability to opt-out of receiving any promotional communications as described below under “Your Choices.” 
+  * We may use “cookies” information and “automatically collected” information we collect on the Service to: (i) personalize our services, such as remembering your information so that you will not have to re-enter it during your visit or the next time you visit the Service; (ii) provide customized advertisements, content, and information; (iii) monitor and analyze the effectiveness of Service and third-party marketing activities; (iv) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (v) track your entries, submissions, and status in any promotions or other activities on the Service. 
+    * _Google Analytics_ : Pipedrive may use Google Analytics on the Site to create user navigation reports for our Site administrators. We take measures to protect the technical information collected by our use of Google Analytics. Your Personal Data will only be used on a need to know basis to resolve technical issues, to administer the Site and identify visitor preferences. Any statistical reports or Site traffic information are exclusively accessed by authorised personnel within our company. We do not use any of this information to identify visitors and we do not share it with third parties. Google operates independently from us and has its own privacy policy in place, which we strongly suggest you review (Google Privacy Policy). Google may use the information collected by our use of Google Analytics to evaluate users' activity on our Site. For more information, see Google Analytics Privacy and Data Sharing.
+    * _Totango_ : This site may use Totango to create user navigation reports for our Platform administrators. We take measures to protect the technical information collected by our use of Totango. Your Personal Data will only be used on a need to know basis to resolve technical issues, to administer the Platform and identify visitor preferences. Any statistical reports or Platform traffic information are exclusively accessed by authorised personnel within our company. We do not use any of this information to identify visitors and we do not share it with third parties. Totango operates independently from us and has its own privacy policy in place, which we strongly suggest you review (Totango Privacy Policy).
 
 
-### **Cookies**  
+
+When we disclose information. Except as described in this Policy, we will not disclose your information that we collect on the Service to third parties without your consent. We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:
+
+Any information that you voluntarily choose to include in a publicly accessible area of the Service, such as a public profile page, will be available to anyone who has access to that content, including other users. 
+
+We work with third party service providers to provide website, application development, hosting, maintenance, and other services for us. These third parties may have access to or process your information as part of providing those services for us. Generally, we limit the information provided to these service providers to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such information.
+
+We may make certain automatically-collected, aggregated, or otherwise non-personally-identifiable information available to third parties for various purposes, including (i) compliance with various reporting obligations; (ii) for business or marketing purposes; or (iii) to assist such parties in understanding our users’ interests, habits, and usage patterns for certain programs, content, services, and/or functionality available through the Service.
+
+We may disclose your information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. copyright law), in response to a court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement or other governmental agencies. 
+
+We also reserve the right to disclose your information that we believe, in good faith, is appropriate or necessary to (i) take precautions against liability, (ii) protect ourselves or others from fraudulent, abusive, or unlawful uses or activity, (iii) investigate and defend ourselves against any third-party claims or allegations, (iv) protect the security or integrity of the Service and any facilities or equipment used to make the Service available, or (v) protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights, property, or safety of others.
+
+Information about our users, including Personal Data, may be disclosed and otherwise transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets.
+
+## Your Choices 
+
+We respect your privacy rights and provide you with reasonable access to the Personal Data that you may provide through the Services. Further, we provide you with the ability to correct inconsistencies of or to update your information. At your request, we will have any reference to you deleted or blocked in our database. At any time, you may legitimately object to the processing of your Personal Data, except if otherwise provided by applicable law.
+
+You may, of course, decline to share certain Personal Data with us, in which case we may not be able to provide to you some of the features and functionality of the Service. You may update, correct, or delete your Account information and preferences at any time by accessing your Account settings page on the Service. If you wish to access or amend any other Personal Data we hold about you, or to request that we delete any information about you that we have obtained from an Integrated Service, you may contact us at privacy@pipedrive.com. Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so. 
+
+You may opt out from sending navigation information about your visit to the Site to Google Analytics by using the Google Analytics Opt-out page.
+
+If you receive commercial email from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt-out from receiving commercial email from us, and any other promotional communications that we may send to you from time to time, by sending your request to us by email at privacy@pipedrive.com or by writing to us at the address given at the end of this policy. We may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us in Account functionality on the Service.
+
+Please be aware that if you opt-out of receiving commercial email from us or otherwise modify the nature or frequency of promotional communications you receive from us, it may take up to ten business days for us to process your request, and you may receive promotional communications from us that you have opted-out from during that period. Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding the Service.
+
+Pipedrive has no direct relationship with the Client’s customer or third party whose Personal Data it may process on behalf of a client. An individual who seeks access, or who seeks to correct, amend, delete inaccurate data or withdraw consent for further contact should direct his query to the Client or User they deal with directly. If the Client requests Pipedrive to remove the data, we will respond to their request within 30 days. In any event, we will delete or amend any Personal Data that we are storing if we receive a written request to do so, unless we have a legal right to retain such Personal Data. Any such request should be addressed to privacy@pipedrive.com and include sufficient information for Pipedrive to identify the Client or its customer or third party and the information to delete or amend.
+
+## Third-Party Services
+
+The Service may contain features or links to web sites and services provided by third parties. Any information you provide on third-party sites or services is provided directly to the operators of such services and is subject to those operators’ policies, if any, governing privacy and security, even if accessed through the Service. We are not responsible for the content or privacy and security practices and policies of third-party sites or services to which links or access are provided through the Service. We encourage you to learn about third parties’ privacy and security policies before providing them with information.
+
+## Children’s Privacy
+
+Protecting the privacy of young children is especially important. Our Service is not directed to children under the age of 18, and we do not knowingly collect Personal Data from children under the age of 18 without obtaining parental consent. If you are under 18 years of age, then please do not use or access the Service at any time or in any manner. If we learn that Personal Data has been collected on the Service from persons under 18 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 18 years of age has obtained an Account on the Service, then you may alert us at privacy@pipedrive.com and request that we delete that child’s Personal Data from our systems.
+
+## Data Security
+
+We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. We maintain appropriate administrative, technical and physical safeguards to protect Personal Data against accidental or unlawful destruction, accidental loss, unauthorized alteration, unauthorized disclosure or access, misuse, and any other unlawful form of processing of the Personal Data in our possession. This includes, for example, firewalls, password protection and other access and authentication controls. We use SSL technology to encrypt data during transmission through public internet, and we also employ application-layer security features to further anonymise Personal Data.
+
+However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We cannot ensure or warrant the security of any information you transmit to us or store on the Service, and you do so at your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If you believe your Personal Data has been compromised, please contact us at .
+
+If we learn of a security systems breach, then we attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice through the Service if a security breach occurs.
+
+## Data Retention
+
+We only retain the information collected from you for as long as your account is active or otherwise for a limited period of time as long as we need it to fulfill the purposes for which we have initially collected it, unless otherwise required by law. We will retain and use information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements as follows:
+
+  * billing information is retained for a period of 7 years as of their provision to Pipedrive in accordance with the Estonian accounting and taxation laws
+  * information on legal transactions between Client and Pipedrive is retained for a period of 10 years as of their provision to Pipedrive in accordance with the general limitation period set for civil claims in the Estonian General Part of the Civil Code Act
 
 
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.  
 
+## Privacy Settings
 
-  * Cookies are required to use the Pipedrive service.  
+Although we may allow you to adjust your privacy settings to limit access to certain Personal Data, please be aware that no security measures are perfect or impenetrable. We are not responsible for circumvention of any privacy settings or security measures on the Service. Additionally, we cannot control the actions of other users with whom you may choose to share your information. Further, even after information posted on the Service is removed, caching and archiving services may have saved that information, and other users or third parties may have copied or stored the information available on the Service. We cannot and do not guarantee that information you post on or transmit to the Service will not be viewed by unauthorized persons. 
 
+## Data Transfer
 
-  * We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your Pipedrive Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+We may transfer, process and store Personal Data we collect through the Services in centralised databases located in the U.S. The U.S. may not have the same data protection framework as the country from which you may be using the Services. When we transfer Personal Data to the U.S., we will protect it as described in this Privacy Policy. We will comply with applicable legal requirements providing adequate protection for the transfer of personal information from Europe to the U.S.
 
+## International Visitors
 
+The Service is hosted in the United States. If you choose to use the Service from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your Client Data and Personal Data outside of those regions to the United States for storage and processing. Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Service. By providing any information, including Client Data and Personal Data, on or to the Service, you consent to such transfer, storage, and processing. 
 
+## Changes and Updates to this Policy 
 
-Pipedrive uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Pipedrive. Although Pipedrive owns the code, databases, and all rights to the Pipedrve application, you retain all rights to your data.  
+Please revisit this page periodically to stay aware of any changes to this Policy, which we may update from time to time. If we modify the Policy, we will make it available through the Service, and indicate the date of the latest revision. Any material changes will be posted on this Site and will come into effect 30 days after their posting. In the event that the modifications materially alter your rights or obligations hereunder, we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access the Service for the first time after such material changes are made. If you do not refuse the changes in writing before they become effective, this shall mean that you have consented to the Privacy Policy as changed. Your continued use of the Service after the revised Policy has become effective indicates that you have read, understood and agreed to the current version of the Policy. 
 
+## Our Contact Information
 
-Pipedrive may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service. [](http://www.highrisehq.com/terms.html)  
+Please contact us with any questions or comments about this Policy, your Personal Data, our use and disclosure practices, or your consent choices by email at . 
 
-
-Pipedrive may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Pipedrive primary account holder account or by placing a prominent notice on our site.  
-
-
-Any questions about this Privacy Policy should be addressed to info at pipedrive.com. (Pipedrive aims to respond within 24 business hours, but is under no obligation to do so).  
+Pipedrive OÜ  
 
