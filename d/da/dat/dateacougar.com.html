@@ -1,67 +1,67 @@
-<!--The following is the downloaded HTML source of the dateacougar.com privacy policy that was archived on 2014-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701071214id_/http%3A//www.dateacougar.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dateacougar.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317110829id_/http%3A//www.dateacougar.com/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="Keywords" content="cougar singles, date cougars, cougar dating, date older women, older women younger men,meet cougars singles, date older rich ladies, older sexy females">
-    <meta name="Description" content="Date a Cougar is your Cougar Dating Site. Create Your Profile For Free and find a friend or the possible love of your life.">
+    <meta name="Keywords" content="cougar singles, date cougars, cougar dating, date older women, older women younger men,meet cougars singles, date older rich ladies">
+    <meta name="Description" content="Date a Cougar is your Cougar Dating Site. Create Your Profile For Free and find your match.">
         <title>.: Privacy Policy</title>
 
-    <link type="text/css" href="/_core/union/css/gz-cgi-desktop-f04009e21f9b0dc38ae1fd9089ca9860_1403792935.min.css" rel="stylesheet" media="screen, tv, projection">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.dateacougar.com/layouts/js/ga.php"></script><script type="text/javascript">
+    <link type="text/css" href="/_core/union/css/gz-cgi-desktop-b07bbec757a63df674172fb8731ab2e3_1424270177.min.css" rel="stylesheet" media="screen, tv, projection">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
         //<![CDATA[
-        var pilot_config = {"cookie_key_prefix":"pc_v1_www","session_id":"m516vrb4ld204ijobpr77hgqe3","is_loged":false,"i18n_close":"Close","secure_login_host":"https:\/\/secure.elitebill.com"};
+        var pilot_config = {"is_b64_calls_enabled":true,"cookie_key_prefix":"pc_v1_www","session_id":"kjtlkrva63dt0kb0bs824pr3m3","is_loged":false,"i18n_close":"Close","front":{"voc":{"prompt_notice":"Notice","notify_prompt_logged_in":"just logged in!","prompt_age":"Age","prompt_from":"From","prompt_seeking_a":"Seeking A","message_switched_to_desktop":"You are switched to a full version of the site to access this page. \\ You can return back to mobile version by clicking a link at the page footer.","ice_breaker_message_error":"The Icebreaker you submitted will be reviewed by our staff shortly. \\ We will let you know when it has been sent!","ice_breaker_success":"Congratulations! Your ice breaker message was successfully sent.","ice_breaker_type":"Type your message here...","message_success":"Message sent successfully","forum_title_error":"Title field can not be empty!","forum_message_error":"Message field can not be empty!","link_remove_from_favorites":"Remove from Favorites","link_block_member":"Block Member","link_remove_from_block_member":"Remove from Block","link_add_to_blackbook":"Add to Blackbook","link_remove_from_blackbook":"Remove from Blackbook","link_add_to_favorites":"Add to Favorites"}},"FILES_URL_PATH":"http:\/\/media.dateacougar.com\/desktop\/layout1\/","secure_login_host":"https:\/\/secure.elitebill.com"};
         //]]>
     </script>
-        <script type="text/javascript" src="/_core/union/js/gz-cgi-desktop-50e1f4cf315d80027265aff7502c2bd6_1401734696.min.js"></script>
+        <script type="text/javascript" src="/_core/union/js/gz-cgi-desktop-25b43f6904a5c0fbf659ce7ad177abbe_1420571205.min.js"></script>
         <link rel="icon" sizes="76x76" href="http://media.dateacougar.com/images/apple_touch_icons/76.png">
     <link rel="apple-touch-icon" sizes="76x76" href="http://media.dateacougar.com/images/apple_touch_icons/76.png">
     <link rel="apple-touch-icon" sizes="120x120" href="http://media.dateacougar.com/images/apple_touch_icons/120.png">
     <link rel="apple-touch-icon" sizes="152x152" href="http://media.dateacougar.com/images/apple_touch_icons/152.png">
             <script type="text/javascript">
     //<![CDATA[
-        var GALinkerUrl = '';
+        var linkerParam = '';
         $(document).ready(function() {
-            if (typeof(_gaq) == 'object' && 'dateacougar.com' == 'none')
+            if (typeof(ga) == 'function' && 'http' == 'https')
             {
-                $("a:not([href*=javascript],[href*=upgrade],[href*=offer])").bind('click', function (e) {
-                    _gaq.push(function() {
-                        var pageTracker = _gat._getTrackerByName(); // Gets the default tracker.
-                        GALinkerUrl = pageTracker._getLinkerUrl('');
+                
+                $("a:not([href*=javascript],[href*=upgrade],[href*=offer],[href*='/'])").bind('click', function (e) {
+                    var link = this.href;
+                    ga(function(tracker) {
+                        var li= new window.gaplugins.Linker(tracker);
+                        linkerParam = li.decorate(link);
                     });
                     e.preventDefault();
-                    var link = this.href + GALinkerUrl;
-                    setTimeout (function () { _gaq.push(['_link', link]); }, 100);
+                    setTimeout (function () { document.location.href = linkerParam; }, 100);
                 });
             }
 
             $("a[href*='upgrade'],[href*='offer']").bind('click', function (e) {
-                if (typeof(_gaq) === 'object')
+                if (typeof(ga) === 'function')
                 {
-                  _gaq.push(function() {
-                       var pageTracker = _gat._getTrackerByName(); // Gets the default tracker.
-                       GALinkerUrl = pageTracker._getLinkerUrl('');
-                   });
-                   e.preventDefault();
-                   var link = this.href + '?ga_link=' + encodeURIComponent(GALinkerUrl.substring(1));
-                   setTimeout (function () { _gaq.push(['_link', link]); }, 100);
+                    var link = this.href;
+                    ga(function(tracker) {
+                        linkerParam = tracker.get('linkerParam');
+                  
+                        e.preventDefault();
+                        var li = link + '?ga_link=' + encodeURIComponent(linkerParam);
+                        setTimeout (function () { document.location.href = li; }, 100);
+                    });
                 }
             });
 
 
-            if (typeof(_gaq) === 'object')
+            if (typeof(ga) === 'function')
             {
-              _gaq.push(function() {
-                   var pageTracker = _gat._getTrackerByName(); // Gets the default tracker.
-                   var sGALinkerUrl = pageTracker._getLinkerUrl('');
-                   $.each($("form"), function(key, form_info){
+                ga(function(tracker) {
+                    linkerParam = tracker.get('linkerParam');
+                    $.each($("form"), function(key, form_info){
                         if ($(form_info).attr('action').match(/upgrade|_login|free_db|createUser/gi))
                         {
-                            // GALinkerUrl = pageTracker._getLinkerUrl('');
-                            $(form_info).append("<input type='hidden' value='" + encodeURIComponent(sGALinkerUrl.substring(1)) + "' name='ga_link'>");
+                            $(form_info).append("<input type='hidden' value='" + encodeURIComponent(linkerParam) + "' name='ga_link'>");
                         }
-                   });
-               });
+                    });
+                });
             }
         });
     //]]>
@@ -69,44 +69,31 @@
 
 <script type="text/javascript">
 //<![CDATA[
-var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-1777713-46']);
-    _gaq.push(['_setDomainName', 'dateacougar.com']);
-    _gaq.push(['_setAllowLinker', true]);
-    _gaq.push(['_setAllowHash', false]);
-    _gaq.push(["_setCustomVar", 1, "Membership", "Guest", 2]);
-    _gaq.push(["_setCustomVar", 3, "Version", "Desktop", 2]);
-    _gaq.push(["_setCustomVar", 5, "Strategy", "144-TSDating", 2]);
-    _gaq.push(['_trackPageview']);
-    _gaq.push(['d._setAccount', 'UA-25582547-1']);
-    _gaq.push(['d._setDomainName', 'dateacougar.com']);
-    _gaq.push(['d._setAllowLinker', true]);
-    _gaq.push(['d._setAllowHash', false]);
-    _gaq.push(["d._setCustomVar", 1, "Membership", "Guest", 2]);
-    _gaq.push(["d._setCustomVar", 2, "WLD", "no wld", 2]);
-    _gaq.push(["d._setCustomVar", 3, "Version", "Desktop", 2]);
-    _gaq.push(["d._setCustomVar", 5, "Strategy", "144-TSDating", 2]);
-    _gaq.push(['d._trackPageview']);
-        if(typeof ga_loaded === 'undefined' || !parent.ga_loaded) {
-        var ga_loaded=1;
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://www.dateacougar.com' : 'http://www.dateacougar.com') + '/layouts/js/ga.php';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    }
-    window.onload = function() {
-        if(_gaq.I==undefined){
-            _gaq.push(['_trackEvent', 'tracking_script', 'loaded', 'ga.js', ,true]);
-            ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            s = document.getElementsByTagName('script')[0];
-            gaScript = s.parentNode.insertBefore(ga, s);
-        } else {
-            _gaq.push(['_trackEvent', 'tracking_script', 'loaded', 'dc.js', ,true]);
-        }
-    };
-//]]>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+    
+    ga('create', 'UA-1777713-46', 'auto', {'allowLinker': true});
+        ga('require', 'linker');
+    ga('linker:autoLink', ['elitebill.com', 'dateacougar.com']);
+    ga('require', 'displayfeatures');
+    ga('set', 'dimension1', 'Guest'); // Guest, Basic or Paid
+    ga('set', 'dimension2', 'no wld'); // no wld, wld internal or wld external
+    ga('set', 'dimension3', 'Desktop');
+    ga('set', 'dimension5', '144-TSDating');
+    ga('send', 'pageview');
+    ga('create', 'UA-25582547-1', 'auto', {'name': 'd', 'allowLinker': true});  // roll up
+        ga('d.require', 'linker');
+    ga('d.linker:autoLink', ['elitebill.com', 'dateacougar.com']);
+    ga('d.require', 'displayfeatures');
+    ga('d.set', 'dimension1', 'Guest');
+    ga('d.set', 'dimension2', 'no wld');
+    ga('d.set', 'dimension3', 'Desktop');
+    ga('d.set', 'dimension5', '144-TSDating');
+    ga('d.send', 'pageview');
+    //]]>
 </script>
     <script type="text/javascript">
 //<![CDATA[
@@ -129,7 +116,7 @@ var _gaq = _gaq || [];
             
             <meta property="og:title" content="Date a Cougar, Cougar Dating, Dating older women, dating mature ladies @ DateACougar.com!">
     <meta property="og:url" content="http://www.dateacougar.com/">
-    <meta property="og:description" content="Date a Cougar is your Cougar Dating Site. Create Your Profile For Free and find a friend or the possible love of your life.">
+    <meta property="og:description" content="Date a Cougar is your Cougar Dating Site. Create Your Profile For Free and find your match.">
 </head>
 
 <body id="profilePage" class="profile_page_en">
@@ -146,7 +133,7 @@ var _gaq = _gaq || [];
                 <br /><br />
                 <p><a href="mailto:support@dateacougar.com">Click Here to Send your Message to Support</a></p>
             </div>
-            <div class="mid">&copy; 2006 - 2014 dateacougar.com, All Rights Reserved                <p style="font-size:8px;">Vendo is our authorized reseller</p>
+            <div class="mid">&copy; 2006 - 2015 dateacougar.com, All Rights Reserved                <p style="font-size:8px;">Vendo is our authorized reseller</p>
             </div>
         </div>
         
@@ -163,7 +150,7 @@ var _gaq = _gaq || [];
     </div>
 </div>
 <!-- End Header -->
-        <div id="modal_popup_div" style="display: none;">
+    <div id="modal_popup_div" style="display: none;">
         <div id="modal_note"></div>
         <div id="modal_error"></div>
         <div id="modal_success"></div>
@@ -173,13 +160,7 @@ var _gaq = _gaq || [];
     </div>
         <!-- Begin Toolbar -->
     <div id="main">        <ul id="toolbar">
-    <li><a href="http://www.dateacougar.com/" rel="nofollow">Home</a></li>
-    <li><a href="http://www.dateacougar.com/free_db" rel="nofollow">Search</a></li>
-    <li><a href="http://www.dateacougar.com/join/from/toolbar" rel="nofollow">Who's Online</a></li>
-    <li><a href="http://www.dateacougar.com/join/from/toolbar" target="_self" rel="nofollow">Browse Photos</a></li>
-    <li><a href="http://www.dateacougar.com/join" rel="nofollow">Join For Free</a></li>
-    <li><a href="http://www.dateacougar.com/auth" rel="nofollow">Member Login</a></li>
-
+    <li>&nbsp;</li>
     <li class="menu_language">    <div id="languageContainer">
         <div id="switchBox">
             <ul>
@@ -196,6 +177,7 @@ var _gaq = _gaq || [];
             <li><a id="langkey:fi" href="javascript:;" class="fi">Suomi</a></li>
             <li><a id="langkey:pl" href="javascript:;" class="pl">Polski</a></li>
             <li><a id="langkey:pt" href="javascript:;" class="pt">Português</a></li>
+            <li><a id="langkey:nl" href="javascript:;" class="nl">Nederlands</a></li>
             <li><a id="langkey:no" href="javascript:;" class="no">Norsk</a></li>
             </ul>
         </div>
@@ -242,7 +224,7 @@ var _gaq = _gaq || [];
                                     <div class="major_fill">
                                 <div class="sub_fill">
                                     <h4>Find a member</h4>
-                                    <p>Search by nickname</p>
+                                    <p>Search by username</p>
                                     <form action="/user_actions/find" method="post" style="display: inline; margin: 0;">
                                         <fieldset>
                                         <input type="text" name="u" style="width: 99%;"><br><br>
@@ -260,14 +242,15 @@ var _gaq = _gaq || [];
     <p>
                 dateacougar.com (the "Site") is licensed to <strong>Elite Marketing Solutions Inc.</strong>
     </p>
-    <p>
-                Our USA postal address is <br>
-        <span class="bold" style="font-weight:bold;">
+    <p>Our international postal address is <br><span class="bold" style="font-weight:bold;">
+           ODS Online Dating Systems LTD<br>
+           77, Strovolos Ave., Strovolos Center, Off. 204<br>
+            2018 Strovolos, Nicosia, CYPRUS        </span></p>
+    <p>Our USA postal address is <br><span class="bold" style="font-weight:bold;">
+            Elite Marketing Solutions Inc.<br>
             312 West Fourth Street<br>
             Carson City, NV 89703<br>
-            USA<br>
-            1-866-294-5787        </span>
-    </p>
+            (1-754) 205-9975    </span></p>
 
     <p><a rel="nofollow" href="/contact">Contact us</a></p>
         <p>
@@ -285,7 +268,7 @@ var _gaq = _gaq || [];
             When a subscriber of this Site requests web pages from the Site's server or clicks on banners or other hypertext links, the Site will automatically collect some information or data about the subscriber, including the subscriber's IP address, the information that is collected may also indicate any special preferences or requests of the subscriber; all that information and data will be collected by the Site and included in its customer database. <br><br>
             If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its customer database. <br><br>
             The Site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the Site through the use of cookies or other programming means may be included in its customer database. <br><br>
-            You may obtain further information about "cookies" and how they function at: <a href="http://www.cookiecentral.com/" target="_blank">http://www.cookiecentral.com/</a>.        </p>
+                    </p>
     </blockquote>
     <p style="text-decoration:underline"><strong>Use of Personal Subscriber Information.</strong></p>
     <blockquote>
@@ -334,11 +317,30 @@ var _gaq = _gaq || [];
             </div>
         </div> <!-- end main div -->
     <div id="footer">
-                        <a href="http://www.dateacougar.com/contact" class="toolbarBottom" rel="nofollow">Contact us</a>
+                <div class="col_f" style="float:left;"></div>
+        <div class="col_f" style="float:right;">
+
+
+
+
+
+
+
+</div>
+        <div style="overflow: hidden;">
+            
+
+
+
+
+
+
+
+            <a href="http://www.dateacougar.com/contact" class="toolbarBottom" rel="nofollow">Contact us</a>
             | <a href="http://www.dateacougar.com/help" class="toolbarBottom" rel="nofollow">Help/FAQ</a>
             | <a href="http://www.dateacougar.com/privacyPolicy" class="toolbarBottom" rel="nofollow">Privacy Policy</a>
             | <a href="http://www.dateacougar.com/termsOfService" class="toolbarBottom" rel="nofollow">Terms and Conditions</a>
-                        <br>© 2006 - 2014 dateacougar.com, All Rights Reserved<br><br>
+                        <br>© 2006 - 2015 dateacougar.com, All Rights Reserved<br><br>
             <p style="font-size: 9px">dateacougar.com does not screen members for criminal background. Click  <a style="font-size:9px;" href="#" id="safety_note_link">HERE</a>  to learn how to use this and other dating sites safely.</p>
 <div id="safety_note" style="display: none;"></div>
 <script type="text/javascript">
@@ -346,7 +348,7 @@ var _gaq = _gaq || [];
     $(document).ready(function() {
         $('#safety_note_link').unbind().click(function(e){
             e.preventDefault();
-            $.pilot.send('/safety/', {}, function (data)
+            $.pilot.send('/safety/_popup', {}, function (data)
             {
                 $('#safety_note').html(data);
                 modal_open(500, 400, 'safety_note');
@@ -359,13 +361,13 @@ var _gaq = _gaq || [];
                 <p class="f8">Vendo is our authorized reseller</p>
                 <br><a href="/app_type/mobile">Switch to mobile version</a><br>
             <br>
-
+        </div>
     </div>
 <div id="ask_my_photo"></div>
 <script type="text/javascript">
     //<![CDATA[
     $(document).ready(function() {
-        $('.send_message_modal').click(function(){
+        $('body').on('click', '.send_message_modal', function(){
             var smlink = $(this).attr('id').split(':').reverse();
             var incomplete = $(this).hasClass('send_message_incomplete') ? smlink[1] : '';
             $.pilot.send('/send_message/_popup_data', {username: smlink[0], incomplete: incomplete}, function (data)
@@ -386,8 +388,7 @@ var _gaq = _gaq || [];
                         break;
                 }
             });
-        });
-        $('.send_flirt_modal').click(function(){
+        }).on('click', '.send_flirt_modal', function(){
             var sflink = $(this).attr('id').split(':').reverse();
             $.pilot.send('/send_flirt/_popup_data', {username: sflink[0]}, function (data)
             {
