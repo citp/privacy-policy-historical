@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapeclub.co.uk privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818000405id_/http%3A//www.vapeclub.co.uk/about_us/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapeclub.co.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317225918id_/http%3A//www.vapeclub.co.uk/about_us/privacy_statement) for the most accurate reproduction.*
 
 # Vape Club - Privacy Statement
 
@@ -26,3 +26,10 @@ We do not share any personal data with any 3rd part organisation or institution,
 
 External websites   
 This privacy policy covers the usage of Vape Club only. Where we have linked to external sites, a different privacy policiy may apply.
+
+* * *
+
+Each week our staff share their favourite eliquids so you know what we're vaping.
+
+  
+
