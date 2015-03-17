@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modwedding.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702061814id_/http%3A//www.modwedding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modwedding.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317140438id_/http%3A//www.modwedding.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
