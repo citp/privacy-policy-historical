@@ -1,20 +1,10 @@
-> *The following text is extracted and transformed from the umano.me privacy policy that was archived on 2013-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130719095742id_/http%3A//www.umano.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umano.me privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317061319id_/https%3A//umano.me/privacy) for the most accurate reproduction.*
 
 # Umano | Privacy
 
-### Umano Privacy Policy
-
 **Effective Date: September 20, 2012**
 
-This Privacy Policy is incorporated by reference into the SoThree, Inc. [Terms of Use](https://web.archive.org/terms) . The term "SoThree, Inc.” includes SoThree, Inc., Inc., its affiliates, and SoThree.com. It explains how SoThree, Inc. may:
-
-collect,
-
-use, and
-
-disclose
-
-information it obtains through the Service.
+This Privacy Policy is incorporated by reference into the SoThree, Inc. [Terms of Use](https://web.archive.org/terms) . The term "SoThree, Inc.” includes SoThree, Inc., Inc., its affiliates, and SoThree.com. It explains how SoThree, Inc. may: collect, use, and disclose information it obtains through the Service.
 
 The "Service" is defined as any websites, Facebook pages, Facebook applications, mobile application, or other Internet service under the control of SoThree, Inc.. 
 
@@ -54,9 +44,11 @@ By using the Service, you are authorizing us to gather, parse, and retain data r
 
 **Internal and Service-related Usage.** SoThree, Inc. uses Personal Information for internal and service-related purposes to enhance and personalize your use of the Service and may use third parties to allow us to offer the Service. For example, SoThree, Inc. may use information about your "like” of the displayed content using the Service to suggest brands and offers to match your interests.
 
-SoThree, Inc. does not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for marketing purposes without your consent. 
+SoThree, Inc. does not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for marketing purposes without your consent.
 
 SoThree, Inc. may allow access to non-Personal Information collected by the Service to enable the delivery of marketing and offers that will be of greatest utility, relevance, value, and interest to you.
+
+By using our Service you understand and agree that we are providing a platform for you feature your own profile picture and to post likes and comments ("User Content") to the Service and to share User Content publicly. This means that User Content may also be available and visible on other third party platforms and on the web, made publicly available through the Service, consistent with the terms and conditions of this Privacy Policy and our Terms of Use.
 
 **WHEN SOTHREE MAY DISCLOSE YOUR INFORMATION**
 
@@ -112,8 +104,8 @@ SoThree, Inc. reserves the right to send you certain communications relating to 
 
 SoThree
 
-301 Battery St., 2nd Floor
+300 Brannan Street, Suite 302
 
-San Francisco, CA 94111
+San Francisco, CA, 94107
 
-[support@umanoapp.com](mailto:support@umanoapp.com)
+[support@umano.me](mailto:support@umano.me)
