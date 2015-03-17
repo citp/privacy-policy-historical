@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coit.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118073938id_/http%3A//www.coit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coit.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317041600id_/http%3A//www.coit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | COIT
 
@@ -32,7 +32,7 @@ We reserve the right to modify this Privacy Policy at any time. Your continued u
 If we decide to change our Privacy Policy, we will post those changes on our Homepage so our users are always notified of our policy.
 
 **Insolvency**  
-In the unlikely event that Coit becomes insolvent and seeks protection under the Bankruptcy laws, or should Coit choose to be sold to or merge with a third party, Coit may share your personal and non-personal information with the third party that purchases the URL "www.coit.com" or the assets of Coit, and will endeavor to make such transfer subject to this Privacy Policy, as it may be amended from time to time.
+In the unlikely event that Coit becomes insolvent and seeks protection under the Bankruptcy laws, or should Coit choose to be sold to or merge with a third party, Coit may share your personal and non-personal information with the third party that purchases the URL "[www.coit.com](http://www.coit.com/)" or the assets of Coit, and will endeavor to make such transfer subject to this Privacy Policy, as it may be amended from time to time.
 
 **Acceptance of Privacy Policy**  
 By using the website and its services, you signify your acceptance of this Privacy Policy. If you do not agree or are not comfortable with any policy described in this Privacy Policy, your only choice is to discontinue use of the website.
