@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practo.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221075825id_/https%3A//www.practo.com/ray/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practo.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317052731id_/https%3A//www.practo.com/ray/privacy) for the most accurate reproduction.*
 
 # Practo Ray Software Privacy Policy
 
