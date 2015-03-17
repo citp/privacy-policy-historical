@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royal-hawaiian.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228175727id_/http%3A//www.starwoodhotels.com/preferredguest/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royal-hawaiian.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317061639id_/http%3A//www.starwoodhotels.com/preferredguest/legal/privacy.html) for the most accurate reproduction.*
 
 # Starwood Hotels & Resorts
 
