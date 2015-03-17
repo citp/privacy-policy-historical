@@ -1,127 +1,102 @@
-> *The following text is extracted and transformed from the xtb.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005075113id_/http%3A//www.xtb.com/docs/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtb.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317172359id_/https%3A//www.xtb.com/files/XTBPrivacyPolicy_030714.pdf) for the most accurate reproduction.*
 
-# 
+# XTB Privacy Policy
 
-                      PRIVACY POLICY OF X-TRADE BROKERS DOM MAKLERSKI S.A.
-                      General provisions
-                      The objective of the present Privacy Policy (“Policy”) is to provide a detailed description of the methods applied by X-Trade Brokers
-                      Dom Maklerski S.A. with the registered office in Warsaw at ul. Ogrodowa 58 and/or its branches and subsidiaries (hereinafter: “XTB”,
-                      “we”, “us”) to collect and use information provided by Users of this website (“Portal”), including – where applicable – personal data.
-                      Please read this Policy carefully.
-                      Protection of personal data and other data of portal users
-                      XTB pays particular attention to respecting privacy of persons using our website and any applications available through the website
-                      (hereinafter: “portal”, “website”). Any personal data obtained through our portal are processed in compliance with applicable national
-                      regulations issued on the ground of Directive of the European Parliament and of the Council of 24 October 1995 on the protection
-                      of individuals with regard to the processing of personal data and on the free movement of such data № 95/46/EC (Official Journal
-                      of the EU L 28, 23/11/1995, P. 0031-0050). Our priority it so ensure protection of the rights and freedoms of individuals who provide
-                      us with their personal data. Use of the portal in the basic scope does not require provision of the user’s personal data to XTB. Provision
-                      of the personal data by the user is completely voluntary; however, provision of certain data is required for performance of the services
-                      by XTB.
-                      We understand the importance of maintaining confidentiality with regard to personal data. While providing us with his or her data,
-                      the user may be certain that we will do our best to keep it secret. We have undertaken measurable steps to ensure that users’ data
-                      remain confidential, secure and intact.
-                      If the user decides to open a demo account or a real account, XTB will require provision of certain information. The information may
-                      include first name and surname, address, date of birth, contact information, data for execution of payments, as well as other necessary
-                      information. Periodically, we may also require provision of other information in order to improve the services performed. Most
-                      information is obtained directly from you by means of application forms or other forms, as well as by maintaining registers
-                      of information provided to us during ongoing performance of services in favour of our customers. We may also collect information
-                      on how the user uses the website, e.g. pages visited by the user, frequency and duration of the user’s stay at the website
-                      and transaction related activities.
-                      Data obtained from users will only be used to provide the information and services which the user may request us to provide,
-                      and to improve the quality of our services. Unless the user is notified otherwise, personal data kept by us will be used in connection
-                      with opening and maintaining the user’s account, performance of ongoing reviews of the user’s needs, improvement of customer
-                      service and products as well as for notifying users of available opportunities which, in our opinion, may turn out important to them.
-                      Access to users’ data is only granted to those employees or partners who require that information to provide support related
-                      to execution of users’ instructions connected with our products or services. We have implemented procedures connected with securing
-                      and using personal data.
-                      Although XTB undertakes all necessary efforts to ensure security of data provided to us, the user acknowledges that using the Internet
-                      is not completely safe and, therefore, we cannot always guarantee security or inviolability of personal data provided to us
-                      by the user(s) over the Internet.
-                      The user may at any time notify XTB that his or her data changed or request XTB to delete the user’s personal data by sending
-                      an e-mail message to dealing@xtb.pl. In compliance with the user’s instruction, we will amend or delete the personal data from our
-                      database, however, excluding the scope in which we are obliged to maintain the data on the ground of regulations or laws to provide
-                      the requested services to the user, or to maintain respective business registers.
-                      Pursuant to valid laws on the protection of personal data, the user is entitled to receive copies of all his or her personal data
-                      and to inform us of all observed inaccuracies. However, certain exceptions to this rule are foreseen.
-                      In order to submit a request regarding access to the data, the user ought to contact us, verify his or her identity and specify
-                      the information in question.
-                      We may be contacted at the following e-mail address: dealing@xtb.pl
-                      Use of cookies - COOKIES FILES
-                      XTB uses cookies files to gather information.
-                      Cookies files are small data files, in particular, text files, which are stored in the terminal equipment (hard disc) of the Portal User
-                      and are destined for the use of Portal websites. Cookies files usually contain the name of the website, which they originate from,
-                      the duration of their storage in the terminal equipment as well as the unique number.
-                      XTB uses cookies files for the following purposes:
-                      1.    to provide the User with more precise and comfortable use of the Site, tailoring the content of the XTB internet websites
-                            to the User’s preferences as well as to optimise the use of the Portal. In particular, such files enable to detect the equipment
-                            of the User of the Internet Service and properly display the internet website adjusted to the User’s individual needs;
-XTB Polska
-ul. Ogrodowa 58
-00-876 Warszawa
-      +48 222 019 570
-      biuro@xtb.pl
-www.xtb.com
+XTB Privacy Policy
+The purpose of this privacy policy is to provide you, with details of how X Open Hub Ltd (“XTB UK”
+“we” or “us”) will collect and use the information you supply to us, including where applicable any
+personal data.
+Please read this privacy policy carefully. It is the stated policy of XTB that we will act in accordance
+with current legislation and aim to meet current best practice with regard to the processing of
+personal data.
+We understand the importance of maintaining the privacy of your personal information. By
+entrusting us with your information, we would like to assure you of our commitment to keeping it
+private. We have taken measurable steps to protect the confidentiality, security and integrity of your
+information.
+If you decide to apply to open an account with us, there is certain information that we will require
+from you in order to do so. This information includes, but is not limited to personal details such as
+name, address, date of birth, contact details, employment details, assets and liabilities, payment
+details, including credit card, debit card and bank account details, and other necessary financial
+information. From time to time we may also request further information to help us improve our
+service to you. We obtain most of the information directly from you through application or other
+forms, and from maintaining records of information provided in the course of ongoing customer
+service. We may also collect information about your use of the website, such as pages visited,
+frequency and duration and visit and trading activities.
+We will use information collected from you to provide the information and services requested by you
+and to improve the quality of our service. Unless you are informed otherwise, the personal
+information we hold is used for establishing and managing your account, reviewing your ongoing
+needs, enhancing customer service and products, giving you ongoing information or opportunities
+that we believe may be relevant to you.
+We limit access of your data to only those employees or partners that need to know the information
+in order to assist in carrying out your request for products or services. We have procedures in place
+regarding how to safeguard and use non public personal information.
+Depending on the product or service concerned and particular restrictions on sensitive information,
+this means that personal information may be disclosed to: service providers and specialist advisers to
+us who have been contracted to provide us with administrative, financial, research or other services;
+referring parties and introducing partners with whom we have a mutual relationship; courts, tribunals
+and regulatory authorities as agreed or authorised by the law, and when we believe that disclosure is
+necessary to protect our rights and/or comply with a judicial proceeding; or reference agencies;
+anyone authorised by an individual, as specified by that individual or the contract.
+The following measures are in place to safeguard your personal data:
+          Access to your account is controlled by password and username which are unique to you
+          Your personal data is stored on secure servers
+          Payment details are encrypted using Ingrain devices which provide tamper-resistant
+           protection of cryptographic keys to ensure encrypted data is kept private and secure.
+While we will use all reasonable efforts to safeguard your personal data, you acknowledge that the
+use of the internet is not entirely secure and for this reason we cannot guarantee the security or
+integrity of any personal data transferred from you, or to you via the internet.
+ XTB UK is a trading name of X Open Hub Limited. X Open Hub Limited is authorised and regulated by the UK Financial Conduct
+    Authority (FRN522157) with its registered and trading office at 7th Floor, 29 Marylebone Road, London NW1 5JX, United
+                                            Kingdom (company number 07227848).
+                                                                                                                    v. 030714
 
 
-                      2.    to examine the activity of the Portal’s User in order to create statistics, which help us to understand in what way the Portal’s
-                            Users use the internet websites, which contributes to the improvement of the structure and content of those sites as well
-                            as identification of the source, which the User has used to enter the Site;
-                      3.    to maintain the session of the Portal’s User (after logging-in).
-                      The cookies are often used by many sites in Internet. The User may elect whether and in what way the cookie will be accepted
-                      through the change of preferences and options in his/her browser. If the User decides to shut down the cookies support in his/her
-                      browser, the access to some parts of the Site may be impossible.
-                      XTB uses two main kinds of cookies files:
-                      1.    persistent cookies are stored in the User’s terminal equipment for the period of time defined in the parameters of the cookies
-                            files, or by the time they are deleted by the User;
-                      2.    session cookies – stored in the User’s terminal equipment by the time of logging-out.
-                      In many cases the software which is used for viewing the internet websites implicitly allows the storage of cookies files in the User’s
-                      terminal equipment. The Users of the Site may, at any time, change the settings regarding cookies files. Such settings may be
-                      changed, in particular, in such a way, so as to block the automatic processing of cookies files in the settings of the internet browser,
-                      or inform each time about their placing in the User’s equipment. The detailed information about the possibility and ways of processing
-                      cookies files, including, the disabling, blocking and deleting cookies files, is available in the settings of the software for a concrete
-                      internet website.
-                      Information on disabling the handling of the cookies files for the most popular internet websites:
-                      1.    For internet browser Internet Explorer 9:
-                                   a.    click “Tools” and then “Options” in the browser window;
-                                   b.    then click the “Privacy” tab and move the slider to the highest position to block all cookies files, or to the lowest
-                                         position to accept all cookies files;
-                                   c.    then click “ok”.
-                      2.    For internet browser Internet Mozilla Firefox:
-                                   a.    at the top of the Firefox browser window, press the button Firefox (in XP Windows click Menu Tools) and choose
-                                         “Options”;
-                                   b.    choose “Privacy” panel;
-                                   c.    choose from the dropped down menu “Firefox Programme” option “will use settings of the user’s history”;
-                                   d.    uncheck the function “Accept cookies”;
-                                   e.    press key “ok”.
-                      3.    For internet browser Internet Google Chrome:
-                                   a.    choose “Settings”;
-                                   b.    click “Show Advanced Settings”;
-                                   c.    in section “Privacy”, click “Content Settings”;
-                                   d.    in section “Cookies files”, click “All cookie files and site data” to open the dialogue window “Cookie files and other
-                                         data”;
-                                   e.    choose “Block the attempts to enter the site data into the computer”.
-                      XTB announces that the limitations in the use of cookies files may have an impact on the operations of some functionalities available
-                      on the Portal’s sites.
-                      Not making changes of the settings of the internet browser for the settings blocking the writing of the cookies files is equivocal
-                      with the granting of consent for their writing.
-                      You may find more information on cookies at the address: www.aboutcookies.org, or in section Help in the internet browser menu.
-                      This Policy refers to the use of the cookies only through this Portal and is not applicable to their use by any third party.
-                      If a User opens an account with us, he, or she will have to use our software which makes possible for us to use cookies with regard
-                      to the User’s access to this Portal.
-                      Links to other websites
-                      Links to websites of other entities are available at our website. The links are provided for the user’s convenience, but we do not review,
-                      control or monitor privacy practices applied at third parties’ websites. Our Policy does not relate to websites maintained by third
-                      parties. We are not liable for the activities of websites maintained by third parties or transactions performed with such persons.
-                      Final provisions
-                      XTB reserves the right to amend this Policy. Amendments are performed by publication of the new Policy at the website. Amendments
-                      become effective at the time of implementation. Users are encouraged to acquaint themselves periodically with the text of this Policy
-                      in order to track amendments to its provisions.
-                      Using this website means acceptance of this Policy. If the user does not accept it, XTB will not enable access to its services and use
-                      of the services must be stopped immediately.
-                      Any disputes regarding this Policy, if not resolved amicably, will be resolved by the court of competent jurisdiction.
-XTB Polska
-ul. Ogrodowa 58
-00-876 Warszawa
-      +48 222 019 570
-      biuro@xtb.pl
-www.xtb.com
+We will not keep information for any longer than is required. In many cases, personal information
+must be kept for considerable periods of time. Retention periods will be determined taking into
+account the type of personal information that is collected and the purpose for which it is collected,
+bearing in mind the requirements applicable to the situation and the need to destroy outdated,
+unused information at the earliest reasonable time.
+You may inform us at any time that your personal details have changed or that you wish us to delete
+personal information we hold about you by emailing us at ukservice@xtb.com. We will change or
+delete your personal information in accordance with your instructions, except to the extent that we
+are required to hold your personal information for regulatory or legal purposes, to provide you with
+the services you have requested or to maintain adequate business records.
+If you open an account with us, you will need to use our trading software which enables us to use
+cookies in relation to your access to this website.
+Cookies are small files of information, which often include a unique identification number or value,
+which are stored on your computer’s hard drive as a result of you using this trading software and
+accessing this website. The purpose of this information is to provide you with a more relevant and
+effective experience on this website, including presenting web pages according to your needs or
+preferences. Cookies are frequently used on many websites on the internet and you can choose if and
+how a cookie will be accepted by changing your preferences and options in your browser. You may
+not be able to access some parts of this site if you choose to disable the cookie acceptance in your
+browser, particularly the secure parts of the website. We therefore recommend you enable cookie
+acceptance to benefit from all the services on the website.
+Some of our business partners (e.g. advertisers) use cookies on our site. We have no access to, or
+control over, these cookies. This privacy statement covers the use of cookies by this site only and
+does not cover the use of cookies by any third party.
+Our website contains links to websites operated by other parties. We provide the links for your
+convenience, but we do not review, control or monitor the privacy practices of websites operated by
+others, and this privacy policy does not apply to such third party websites. We are not responsible for
+the performance of websites operated by third parties or for you business dealings with them.
+Under the Data Protection Act, you have the right to obtain a copy of any personal information which
+we hold about you and to advise us of any perceived inaccuracy. The Act does set out some
+exceptions to this.
+To make a request, please contact us, verifying your identity and specifying what information you
+require. We may charge a fee.
+You may contact us via e-mail compliance@xtb.co.uk or write to us at XTB UK Limited 29 Marylebone
+Road, London NW1 5JX.
+From time to time, we may update this Privacy Statement. In the event we materially change this
+Privacy Statement, the revised Privacy Statement will promptly be posted to the websites and we will
+post a notice on our websites informing you of such changes. You agree to accept posting of a revised
+Privacy Statement electronically on the website as actual notice to you. Any dispute over our Privacy
+Statement is subject to this notice and our Customer Agreement. We encourage you to periodically
+check back and review this policy so that you always will know what information we collect, how we
+use it, and to whom we disclose it.
+If you have any questions regarding this policy, wish to access or change your information or have a
+complaint, or if you have any questions about security on our Website, you may email us at
+compliance@xtb.co.uk.
+ XTB UK is a trading name of X Open Hub Limited. X Open Hub Limited is authorised and regulated by the UK Financial Conduct
+    Authority (FRN522157) with its registered and trading office at 7th Floor, 29 Marylebone Road, London NW1 5JX, United
+                                            Kingdom (company number 07227848).
+                                                                                                                    v. 030714
