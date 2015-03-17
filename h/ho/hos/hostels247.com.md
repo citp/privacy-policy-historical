@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostels247.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701153146id_/http%3A//www.hostels247.com/pravicy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostels247.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317153526id_/http%3A//www.hostels247.com/pravicy_and_security) for the most accurate reproduction.*
 
 # Privacy & Security – Secure Online Bookings with Hostels247.com
 
