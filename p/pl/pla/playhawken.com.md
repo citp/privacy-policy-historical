@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playhawken.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122163216id_/http%3A//www.playhawken.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playhawken.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317123823id_/https%3A//www.playhawken.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal - HAWKEN: War is A Machine - Free-to-Play Mech First-Person-Shooter
 
