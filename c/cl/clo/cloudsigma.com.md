@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cloudsigma.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911004150id_/https%3A//www.cloudsigma.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudsigma.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318001646id_/https%3A//www.cloudsigma.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # CloudSigma - Privacy Policy
 
 ### Switzerland
 
-Your privacy is important to us. This privacy policy describes the information practices which we CLOUDSIGMA AG, trading as “CloudSigma” ( **“we”, “us”** ) employ in relation to the information which you, ( **“you”, “your”** ) provide when using the www.cloudsigma.com site ( **“Website”** ) or otherwise communicate with us in respect of our services. By accessing and using the Website and/or communicating with us in respect of our services you are accepting and agreeing to the practices described in this Privacy Policy.
+Your [privacy](https://www.cloudsigma.com/landing/cloud-servers-with-real-privacy/) is important to us. This privacy policy describes the information practices which we CLOUDSIGMA AG, trading as “CloudSigma” ( **“we”, “us”** ) employ in relation to the information which you, ( **“you”, “your”** ) provide when using the www.cloudsigma.com site ( **“Website”** ) or otherwise communicate with us in respect of our services. By accessing and using the Website and/or communicating with us in respect of our services you are accepting and agreeing to the practices described in this Privacy Policy.
 
 #### The Information We Collect
 
