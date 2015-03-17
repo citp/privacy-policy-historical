@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dresslily.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702184022id_/http%3A//dresslily.com/m-article-id-27.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresslily.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317115943id_/http%3A//www.dresslily.com/m-article-id-27.htm) for the most accurate reproduction.*
 
 # Privacy Policy - DressLily.com
 
@@ -17,16 +17,10 @@ We will not sell (or trade or rent) personally identifiable information to other
   
 **What kind of email do you send to the customer?**  
 We send email content to our customers that may include following:  
-Order information, payment confirmation, shipping notification, order processing updates, weekly deals, special promotions, and activities that also include competitions and giveaways.
-
- **Address and Email**  
+Order information, payment confirmation, shipping notification, order processing updates, weekly deals, special promotions, and activities that also include competitions and giveaways.  
 
 
-[support@dresslily.com](mailto:support@dresslily.com)
-
-Note: This address does not accept returns
-
- **How do I unsubscribe?**  
+**How do I unsubscribe?**  
 You can unsubscribe at any time by using the link located at the bottom of any email newsletter.
 
- **Note:** After registering an account, you will receive our weekly newsletters featuring information about exclusive deals, special discounts, free coupons, and themed promotions.
+**Note:** After registering an account, you will receive our weekly newsletters featuring information about exclusive deals, special discounts, free coupons, and themed promotions.
