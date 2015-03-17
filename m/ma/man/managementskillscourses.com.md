@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the managementskillscourses.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701223940id_/http%3A//www.managementskillscourses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managementskillscourses.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317015230id_/http%3A//www.managementskillscourses.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Develop Your Management And Business Skills
 
 **PRIVACY POLICY for  www.managementskillscourses.com**
 
-At Connect Soft Limited we are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by the [online solicitors](http://www.legalcentre.co.uk/solicitors/) at LegalCentre.co.uk.
+At Connect Soft Limited we are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by the online solicitors at LegalCentre.co.uk.
 
 This Privacy Policy contains an explanation of what happens to personal data that you choose to provide to us, or that we collect from you whilst you visit this site. Our Privacy Policy should be read in conjunction with our terms of website use.
 
