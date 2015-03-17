@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primesport.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719083124id_/https%3A//www.primesport.com/Navigation/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primesport.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317204657id_/https%3A//www.primesport.com/navigation/privacypolicy) for the most accurate reproduction.*
 
 # 
 
