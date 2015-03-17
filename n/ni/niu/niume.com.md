@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the niume.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018015805id_/http%3A//niume.com/pages/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niume.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317193050id_/https%3A//niume.com/pages/privacy/index.php) for the most accurate reproduction.*
 
 # Niume | Privacy
 
 ## Privacy policy
 
-This policy (together with our [terms of use](https://web.archive.org/web/20131018015805id_/http%3A//niume.com/pages/terms/index.php) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.niume.com you are accepting and consenting to the practices described in this policy. 
+This policy (together with our [terms of use](https://web.archive.org/web/20150317193050id_/https%3A//niume.com/pages/terms/index.php) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.niume.com you are accepting and consenting to the practices described in this policy. 
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Niume Limited of Threshold House, 65-69 Shepherds’ Bush Green, W12 8TX, London, UK (Trading address). 
 
@@ -58,7 +58,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Niume Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20131018015805id_/http%3A//niume.com/pages/terms/index.php) and other agreements; or to protect the rights, property, or safety of Niume Limited, our customers, or others. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20150317193050id_/https%3A//niume.com/pages/terms/index.php) and other agreements; or to protect the rights, property, or safety of Niume Limited, our customers, or others. 
 
 
 
@@ -92,7 +92,7 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 
 This acceptable use policy sets out the terms between you and us under which you may access our website www.niume.com (our site). This acceptable use policy applies to all users of, and visitors to, our site.
 
-Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our [terms of website use](https://web.archive.org/web/20131018015805id_/http%3A//niume.com/pages/terms/index.php)
+Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our [terms of website use](https://web.archive.org/web/20150317193050id_/https%3A//niume.com/pages/terms/index.php)
 
 ### PROHIBITED USES
 
@@ -109,7 +109,7 @@ You may use our site only for lawful purposes. You may not use our site:
 
 You also agree:
 
-  * Not to reproduce, duplicate, copy or re-sell any part of our site in contravention of the provisions of our [terms of website use ](https://web.archive.org/web/20131018015805id_/http%3A//niume.com/pages/terms/index.php "Terms")
+  * Not to reproduce, duplicate, copy or re-sell any part of our site in contravention of the provisions of our [terms of website use ](https://web.archive.org/web/20150317193050id_/https%3A//niume.com/pages/terms/index.php "Terms")
   * Not to access without authority, interfere with, damage or disrupt: 
     * any part of our site;
     * any equipment or network on which our site is stored; 
@@ -176,7 +176,7 @@ Contributions must not:
 
 We will determine, in our discretion, whether there has been a breach of this acceptable use policy through your use of our site. When a breach of this policy has occurred, we may take such action as we deem appropriate.
 
-Failure to comply with this acceptable use policy constitutes a material breach of the [ terms of use](https://web.archive.org/web/20131018015805id_/http%3A//niume.com/pages/terms/ "Terms and Conditions") upon which you are permitted to use our site, and may result in our taking all or any of the following actions:
+Failure to comply with this acceptable use policy constitutes a material breach of the [ terms of use](https://web.archive.org/web/20150317193050id_/https%3A//niume.com/pages/terms/ "Terms and Conditions") upon which you are permitted to use our site, and may result in our taking all or any of the following actions:
 
   * Immediate, temporary or permanent withdrawal of your right to use our site.
   * Immediate, temporary or permanent removal of any posting or material uploaded by you to our site.
