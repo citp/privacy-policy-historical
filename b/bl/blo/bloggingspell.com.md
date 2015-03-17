@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bloggingspell.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702173645id_/http%3A//www.bloggingspell.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingspell.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317115402id_/http%3A//www.bloggingspell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blogging Spell
 
-[www.BloggingSpell.com](http://www.bloggingspell.com/ "www.BloggingSpell.com") is determined to serve the best user experience. To keep up our user consistency, we truly believe in their privacy. We have heartily realized how necessary is one’s privacy. In order to make sure about our privacy policy, we have created this page. All the policies below are applied to each and every visitor to our blog.
+Blogging Spell is determined to serve the best user experience. To keep up our user consistency, we truly believe in their privacy. We realized how necessary is your privacy. In order to make you sure about our privacy policy, we have created this page. All the policies below are applied to each and every visitor to our blog.
 
-## Which Data We Do Collect?
+## Which Data Do We Collect?
 
 Identification Info
 
@@ -18,7 +18,7 @@ We may use web browser cookies for enhancing the user experience. We mainly use 
 
 However, if you still want not to use cookies, you may do so with your browser. You can simply disable cookies from your browser settings and that’s all.
 
-## How We Utilize Collected Data?
+## How Do We Utilize Collected Data?
 
 We mainly collect data for the purpose of enhancing browsing experience. We try to keep our website fast and secure, provide easy navigation, make our visitors bound to give good feedback. We will collect your submitted name, email and other information to outreach you when required. We would email you for further update, notice, offers, products and services.
 
@@ -30,6 +30,6 @@ We store all the user data that there is no chance to get into the edge of it. W
 
 ## Should You Follow The Policies?
 
-We keep consistent user experience, so you are bound to follow all the policies. Violating our privacy policies would result in your end of using this site. We request you, if you are not gonna follow these, you should leave our site. But we promise, our privacy policy is for your safety. We are eagerly looking forward to your kind assistance.
+We keep consistent user experience, so you are bound to follow all the policies. Violating our privacy policies would result in your end of using this site. We request you, if you are not gonna follow these, you can leave. But we promise, our privacy policy is for your safety. We are eagerly looking forward to your kind assistance.
 
 **For Further Information About Privacy Policy, You Should[Contact Us](http://www.bloggingspell.com/contact.html "Contact").**
