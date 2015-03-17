@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webguru-india.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701223740id_/http%3A//www.webguru-india.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webguru-india.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317083536id_/http%3A//www.webguru-india.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WebGuru Infosystems, a Web Design & Development company
 
