@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tierra.net privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702204006id_/https%3A//www.tierra.net/TOS_current/privacy%3F/%234) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tierra.net privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317012049id_/https%3A//www.tierra.net/TOS_current/privacy%3F/%234) for the most accurate reproduction.*
 
 # Put Yourself On The Web
 
