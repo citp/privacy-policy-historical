@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountaingoatsoftware.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824124443id_/http%3A//www.mountaingoatsoftware.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountaingoatsoftware.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317145516id_/http%3A//www.mountaingoatsoftware.com/privacy-statement) for the most accurate reproduction.*
 
 # Mountain Goat Software Privacy Policy | Mountain Goat Software
 
