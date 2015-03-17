@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edfa3ly.co privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727063148id_/http%3A//www.edfa3ly.co/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfa3ly.co privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317051827id_/http%3A//www.edfa3ly.co/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Edfa3ly
 
@@ -72,9 +72,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
   * 16546
   * customercare@edfa3ly.com.eg
-  * 11/12 Mostafa Refaat Street, Sheraton Heliopolis  
-Cairo  
-Egypt
   * [edfa3ly.co](http://edfa3ly.co/)
 
   
