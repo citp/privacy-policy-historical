@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanhomeguides.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206081625id_/http%3A//www.newhomeguide.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanhomeguides.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317100929id_/http%3A//www.newhomeguide.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
